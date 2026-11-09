@@ -1,0 +1,953 @@
+{
+ "name": "Platzi",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-09T22:26:22.951457+00:00",
+ "official_url": "https://platzi.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "3. Seed Round",
+    "value": "09-Oct-2015    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/108801-19",
+    "pass": 3
+   },
+   {
+    "label": "1. Seed Round",
+    "value": "22-Mar-2015    Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/108801-19",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Platzi: Cursos de Programación, IA, Inglés [+7M Estudiantes]",
+    "url": "https://platzi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Estrategias para Aprender Inglés en Línea",
+    "url": "https://platzi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“En la era de la AI, siempre tienen lo más actualizado para implementarla”",
+    "url": "https://platzi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“La programación me hizo cambiar tanto profesional como personalmente”",
+    "url": "https://platzi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Cuando cambio de empleo, uso Platzi para aprender el stack a trabajar”",
+    "url": "https://platzi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Suelo apoyarme en cursos de Platzi, siempre me dejan algo útil”",
+    "url": "https://platzi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Primer empleo en tech",
+    "url": "https://platzi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Camino de aprendizaje personalizado",
+    "url": "https://platzi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Una experiencia de aprendizaje que evoluciona con tus metas",
+    "url": "https://platzi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Mejora con la práctica",
+    "url": "https://platzi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ejercicios interactivos en cada clase para aprender haciendo",
+    "url": "https://platzi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Elige qué aprender hoy",
+    "url": "https://platzi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Crea proyectos y compite por premios con otros estudiantes.",
+    "url": "https://platzi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Transforma tus metas en tu siguiente logro profesional",
+    "url": "https://platzi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "es la plataforma de educación profesional en español enfocada en tecnología que actualmente impacta positivamente en la vida de 5 millones de estudiantes y más de 1000 clientes corporativos.",
+    "url": "https://platzi.com/unete/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Habla con los usuarios, utiliza métricas, confía en tu intuición y pregunta hasta que realmente entiendas. La intuición nos da dirección cuando los caminos no están claros y una comprensión profunda surge de la curiosidad incansable.",
+    "url": "https://platzi.com/unete/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Confiando en nosotros y en nuestro equipo, tomamos decisiones rápidas e inteligentes. Esta confianza mutua es el cimiento que nos permite actuar con agilidad y claridad, analizando situaciones con profundidad para elegir el mejor camino.",
+    "url": "https://platzi.com/unete/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "cada vez que vemos a nuestros estudiantes interactuar, innovar y aprender juntos. Esta sinergia entre ellos es el núcleo de nuestro propósito.",
+    "url": "https://platzi.com/unete/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Cambiar el mundo es un proceso arduo, caótico y emocionante. Aprendemos a amar cada aspecto de este desafío y abrazamos los cambios.",
+    "url": "https://platzi.com/unete/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Buscamos personas con una inagotable curiosidad intelectual. Que todo el tiempo estén leyendo, investigando, formándose. Que nunca paren de aprender.",
+    "url": "https://platzi.com/unete/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Conoce nuestro proceso de contratación",
+    "url": "https://platzi.com/unete/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "En Kindle, te damos todos los libros que necesites para crecer profesionalmente y el Kindle también 😉.",
+    "url": "https://platzi.com/unete/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Todos los miembros del Team Platzi tienen la oportunidad de ser owners de una parte de Platzi y tener acciones de la empresa.",
+    "url": "https://platzi.com/unete/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "primeras sesiones de acompañamiento online con empresas especializadas.",
+    "url": "https://platzi.com/unete/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Aunque estemos en diferentes partes del mundo, los equipos de Platzi se reúnen de forma presencial durante el año para intercambiar ideas, construir y fortalecer lazos.",
+    "url": "https://platzi.com/unete/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Cada año, todo el equipo se encuentra en algún lugar del mundo por una semana, vernos cara a cara, conocernos, tener discusiones interesantes y planear proyectos con mucha ambición.",
+    "url": "https://platzi.com/unete/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Empresas y gobiernos que confían en Platzi",
+    "url": "https://platzi.com/unete/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Somos una de las empresas",
+    "url": "https://platzi.com/unete/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Nunca parar de aprender. No es solo nuestro lema, es un estilo de vida. Todos los días estoy buscando nuevos procesos, nuevas técnicas, nuevos enfoques que me permitan ser mejor en mi trabajo y también facilitarle la vida a los miembros de mi equipo\".",
+    "url": "https://platzi.com/unete/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Platzi achieves Zero Trust remote access, faster development, and stronger bot protection with Cloudflare",
+    "url": "https://www.casestudies.com/customer/platzi",
+    "pass": 3
+   },
+   {
+    "quote": "Platzi hires global talent compliantly with Deel",
+    "url": "https://www.casestudies.com/customer/platzi",
+    "pass": 3
+   },
+   {
+    "quote": "Vice President of Human Talent",
+    "url": "https://www.casestudies.com/customer/platzi",
+    "pass": 3
+   },
+   {
+    "quote": "How Platzi used Deel EOR and Deel Contractor to hire global talent | Deel",
+    "url": "https://www.deel.com/case-studies/platzi/",
+    "pass": 3
+   },
+   {
+    "quote": "How Platzi hired global talent with Deel",
+    "url": "https://www.deel.com/case-studies/platzi/",
+    "pass": 3
+   },
+   {
+    "quote": "Platzi is an online education platform with more than 1,500 courses and 17 schools in areas such as artificial intelligence, design development and engineering, marketing, business, leadership, professional growth, among others; making it the largest technology school in the Hispanic world.",
+    "url": "https://www.deel.com/case-studies/platzi/",
+    "pass": 3
+   },
+   {
+    "quote": "Knowing first-hand the power of technology, Platzi knew they needed a provider that moved fast while following hiring regulations to be able to incorporate talent internationally and compliantly.",
+    "url": "https://www.deel.com/case-studies/platzi/",
+    "pass": 3
+   },
+   {
+    "quote": "Platzi today can rest assured that their contracts made with Deel meet the legal requirements of each country and they can concentrate meeting talent growth needs, without worrying about where they live. That security also translates into time saved. Hiring without having geographical limits expands the offer and obviously speeds up processes.",
+    "url": "https://www.deel.com/case-studies/platzi/",
+    "pass": 3
+   },
+   {
+    "quote": "compliantly processed global payroll",
+    "url": "https://www.deel.com/case-studies/platzi/",
+    "pass": 3
+   },
+   {
+    "quote": "NPS for enterprise customers",
+    "url": "https://www.deel.com/case-studies/platzi/",
+    "pass": 3
+   },
+   {
+    "quote": "Platzi, a 45-person company with teams across San Francisco, Bogotá, and Mexico City, struggled to manage travel for its globally distributed workforce. Before NexTravel, booking flights and accommodations was messy, requiring multiple travel sites, aggregators, and spreadsheets to track reservations and refunds.",
+    "url": "https://www.casestudies.com/company/nextravel/case-study/platzi-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "NexTravel provided Platzi with a centralized platform to book, manage, and report travel arrangements, with customization for different management options and integration of airline loyalty accounts. As a result, Platzi gained easier trip handling, better control over payment methods and business-mile accrual, and improved visibility into travel schedules and savings.",
+    "url": "https://www.casestudies.com/company/nextravel/case-study/platzi-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Platzi 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/108801-19",
+    "pass": 3
+   },
+   {
+    "quote": "Educational and Training Services (B2C)",
+    "url": "https://pitchbook.com/profiles/company/108801-19",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of an educational technology platform designed to teach in-demand skills. The company's platform facilitates live-streaming classes on inspiring design, marketing, business and programming courses from professionals with real-time collaboration among pupils and industry leaders as teachers, enabling students to stay up-to-date with the current market needs.",
+    "url": "https://pitchbook.com/profiles/company/108801-19",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/108801-19",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/108801-19",
+    "pass": 3
+   },
+   {
+    "quote": "7. Secondary Transaction - Private",
+    "url": "https://pitchbook.com/profiles/company/108801-19",
+    "pass": 3
+   },
+   {
+    "quote": "6. Secondary Transaction - Private",
+    "url": "https://pitchbook.com/profiles/company/108801-19",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/108801-19",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/108801-19",
+    "pass": 3
+   },
+   {
+    "quote": "Springboard (Educational Software)",
+    "url": "https://pitchbook.com/profiles/company/108801-19",
+    "pass": 3
+   },
+   {
+    "quote": "Private Equity-Backed",
+    "url": "https://pitchbook.com/profiles/company/108801-19",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/108801-19",
+    "pass": 3
+   },
+   {
+    "quote": "Leap - Practice Speaking English",
+    "url": "https://pitchbook.com/profiles/company/108801-19",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/108801-19",
+    "pass": 3
+   },
+   {
+    "quote": "Platzi’s primary industry is Educational and Training Services (B2C).",
+    "url": "https://pitchbook.com/profiles/company/108801-19",
+    "pass": 3
+   },
+   {
+    "quote": "Is Platzi a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/108801-19",
+    "pass": 3
+   },
+   {
+    "quote": "Platzi is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/108801-19",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/108801-19",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/108801-19",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Rodrigo Rojo Pizarro · 14:20",
+    "url": "https://platzi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Confiando en nosotros y en nuestro equipo, tomamos decisiones rápidas e inteligentes. Esta confianza mutua es el cimiento que nos permite actuar con agilidad y claridad, analizando situaciones con profundidad para elegir el mejor camino.",
+    "url": "https://platzi.com/unete/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Tienes 15 días de vacaciones al año sin importar en qué país te encuentres y desde el momento que ingresas al equipo.",
+    "url": "https://platzi.com/unete/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Aunque estemos en diferentes partes del mundo, los equipos de Platzi se reúnen de forma presencial durante el año para intercambiar ideas, construir y fortalecer lazos.",
+    "url": "https://platzi.com/unete/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Cada año, todo el equipo se encuentra en algún lugar del mundo por una semana, vernos cara a cara, conocernos, tener discusiones interesantes y planear proyectos con mucha ambición.",
+    "url": "https://platzi.com/unete/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Nunca parar de aprender. No es solo nuestro lema, es un estilo de vida. Todos los días estoy buscando nuevos procesos, nuevas técnicas, nuevos enfoques que me permitan ser mejor en mi trabajo y también facilitarle la vida a los miembros de mi equipo\".",
+    "url": "https://platzi.com/unete/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Jess Harris, Account Management Lead",
+    "url": "https://platzi.com/unete/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Nuestro equipo incluye personas de Mexico, Colombia, Argentina, Perú, Brasil y Chile.",
+    "url": "https://platzi.com/unete/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "NexTravel provided Platzi with a centralized platform to book, manage, and report travel arrangements, with customization for different management options and integration of airline loyalty accounts. As a result, Platzi gained easier trip handling, better control over payment methods and business-mile accrual, and improved visibility into travel schedules and savings.",
+    "url": "https://www.casestudies.com/company/nextravel/case-study/platzi-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Carrera 7 Number 71-21",
+    "url": "https://pitchbook.com/profiles/company/108801-19",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/108801-19",
+    "pass": 3
+   },
+   {
+    "quote": "Investments & Acquisitions (2)",
+    "url": "https://pitchbook.com/profiles/company/108801-19",
+    "pass": 3
+   },
+   {
+    "quote": "Platzi’s most recent deal was a Merger/Acquisition with",
+    "url": "https://pitchbook.com/profiles/company/108801-19",
+    "pass": 3
+   },
+   {
+    "quote": "To view Platzi’s complete investments and acquisitions history, request access »",
+    "url": "https://pitchbook.com/profiles/company/108801-19",
+    "pass": 3
+   },
+   {
+    "quote": "Platzi has 200 total employees.",
+    "url": "https://pitchbook.com/profiles/company/108801-19",
+    "pass": 3
+   },
+   {
+    "quote": "What is Platzi’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/108801-19",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Platzi is",
+    "url": "https://pitchbook.com/profiles/company/108801-19",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Platzi: Cursos de Programación, IA, Inglés [+7M Estudiantes] — Crea proyectos y compite por premios con otros estudiantes. Únete gratis a clases, charlas y talleres con expertos cada semana. El encuentro anual de la comunidad Platzi en Colombia y México.",
+    "url": "https://platzi.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Iniciar sesión o crear cuenta en Platzi | Cursos online de ... — Accede a tu cuenta de Platzi o crea tu cuenta sin costo: haz login con Google, Apple o Facebook. Nunca pares de aprender.",
+    "url": "https://platzi.com/login/",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How Platzi Uses Software & Services — Explore case studies featuring Platzi as the customer — learn how vendors and partners helped Platzi solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/platzi",
+    "pass": 3
+   },
+   {
+    "quote": "How Platzi used Deel EOR and Deel Contractor to hire global ... — How they did it with Deel Platzi hired more than 30 people in Latin America and beyond, teaming up in Colombia, Mexico, Chile, Spain, Canada, the United States, to name a few.",
+    "url": "https://www.deel.com/case-studies/platzi/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Platzi achieves simpler travel booking and better ... — Platzi (E-Learning) partnered with NexTravel (Leisure, Travel & Tourism) to solve key challenges. \"Platzi - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/nextravel/case-study/platzi-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Platzi - 2026 Company Profile, Team, Funding & Competitors ...Platzi 2026 Company Profile: Valuation, Funding & Investors ...Platzi – Revenue Estimate & Market Landscape – 2026Platzi — Company Profile | The Company CheckPlatzi: Funding, Team & Investors | Startup IntrosPlatzi Revenue, Funding & Valuation - prospeo.ioPlatzi - Overview, News & Similar companies | ZoomInfo.com — Jun 16, 2026 · Platzi",
+    "url": "https://tracxn.com/d/companies/platzi/__efHQFgdCtDESjT5pUXWltcBMbSNXaZPbLlk3tVcvQJs",
+    "pass": 3
+   },
+   {
+    "quote": "Platzi 2026 Company Profile: Valuation, Funding & Investors ...Platzi – Revenue Estimate & Market Landscape – 2026Platzi — Company Profile | The Company CheckPlatzi: Funding, Team & Investors | Startup IntrosPlatzi Revenue, Funding & Valuation - prospeo.ioPlatzi - Overview, News & Similar companies | ZoomInfo.com — Information on valuation, funding, cap tables, investors, and executives for Platzi",
+    "url": "https://pitchbook.com/profiles/company/108801-19",
+    "pass": 3
+   },
+   {
+    "quote": "Platzi – Revenue Estimate & Market Landscape – 2026 — Platzi leads with data points like estimated revenue of $115.9M, team of around 200+ employees, from San Francisco, defining its market stance.",
+    "url": "https://compworth.com/company/platzi",
+    "pass": 3
+   },
+   {
+    "quote": "Platzi — Company Profile | The Company Check — Platzi is a company based in San Francisco (United States) founded in 2014. Platzi has raised $78.5 million across 5 funding rounds from investors including FundersClub, Prosus and 500 Lottery Network.",
+    "url": "https://www.thecompanycheck.com/company/b/platzi/bosrt7lw41r7pr37n",
+    "pass": 3
+   },
+   {
+    "quote": "Platzi: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Financial History Platzi has raised $70.0M across 3 funding rounds. Most recently, it raised $62.0M Series B in December 2021.",
+    "url": "https://startupintros.com/orgs/platzi",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Success Stories about Software and Services used by Platzi",
+    "url": "https://www.casestudies.com/customer/platzi",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Platzi achieves simpler travel booking and better control with NexTravel | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/nextravel/case-study/platzi-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Platzi achieves simpler travel booking and better control with NexTravel",
+    "url": "https://www.casestudies.com/company/nextravel/case-study/platzi-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Platzi - Customer Case Study",
+    "url": "https://www.casestudies.com/company/nextravel/case-study/platzi-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Open case study document...",
+    "url": "https://www.casestudies.com/company/nextravel/case-study/platzi-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/nextravel/case-study/platzi-customer-case-study",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/108801-19",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Platzi (@platzi) / X Todos los cursos de IA de Platzi están gratis hasta el domingo 8 de noviembre 🗡️ Además, mas de 2000 cursos gratis en Marketing, Inglés, Data Science, Finanzas y mucho más.",
+    "url": "https://x.com/platzi",
+    "pass": 3
+   },
+   {
+    "quote": "Platzi English Academy (@PlatziAcademy) / Posts / X Master your English skills with @platzi 's English Academy. Learn anywhere, anytime. What are you waiting for to unlock your future?",
+    "url": "https://x.com/PlatziAcademy",
+    "pass": 3
+   },
+   {
+    "quote": "Platzi on X: \"Sin cámaras, sin actores, sin estadio. Solo IA ... Sin cámaras, sin actores, sin estadio. Solo IA ⚽ Aprende a crear videos como este en la Platzi AI Academy. Tu primera clase dura 2 minutos. Empieza ahora en Platzi #higgsfield #videosconIA",
+    "url": "https://x.com/platzi/status/2110885910804037761",
+    "pass": 3
+   },
+   {
+    "quote": "Platzi on X: \"\" / X Platzi on X: \"\" / X 08 Sep 2026 17:21:49",
+    "url": "https://x.com/platzi/status/2097374865758023940",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Platzi Employees, Location, Alumni | LinkedIn Platzi is an online education platform on a mission to develop AI and technology talent in Latin America. We help companies, governments and people acquire in-demand skills to thrive in the AI...",
+    "url": "https://www.linkedin.com/school/platzi-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "Freddy Vega - CEO and Founder at Platzi: Latin America's ...Empleados, ubicación y antiguos alumnos de Platzi | LinkedInJuan Pablo Rojas - Platzi | LinkedInMi experiencia tras completar 100 cursos en Platzi: ¡Una ...Sthefanni Beltrán Gómez - Platzi | LinkedInJess Harris - Platzi | LinkedIn At Platzi we make effective online education. We create courses on design, marketing, programming and other t",
+    "url": "https://www.linkedin.com/in/johnfreddyvega",
+    "pass": 3
+   },
+   {
+    "quote": "Empleados, ubicación y antiguos alumnos de Platzi | LinkedIn Platzi es una plataforma de educación en línea con la misión de desarrollar el talento de Latinoamérica, en temas de tecnología, inteligencia artificial, ciberseguridad, inglés y mucho más.",
+    "url": "https://mx.linkedin.com/school/platzi-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "Juan Pablo Rojas - Platzi | LinkedIn Experiencia: Platzi · Educación: Harvard Business School · Ubicación: Área metropolitana de Ciudad de México · Más de 500 contactos en LinkedIn. Ver el perfil de Juan Pablo Rojas en LinkedIn,...",
+    "url": "https://mx.linkedin.com/in/unmalnick/es",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Platzi - FacebookPlatzi | San Francisco CA - FacebookPlatzi - FacebookPlatzi - Facebook¡Platzi está a precio especial por tiempo limitado! Aprende ...Todos los cursos de IA de Platzi están gratis hasta el ...Platzi - El Gobierno de El Salvador y Platzi te dan acceso ... 3 days ago · Del 5 al 8 de noviembre todos los cursos de Platzi son gratis 🐶 Si ya pagas series y domicilios, estos cuatro días a",
+    "url": "https://www.facebook.com/platzi/",
+    "pass": 3
+   },
+   {
+    "quote": "Platzi | San Francisco CA - FacebookPlatzi - FacebookPlatzi - Facebook¡Platzi está a precio especial por tiempo limitado! Aprende ...Todos los cursos de IA de Platzi están gratis hasta el ...Platzi - El Gobierno de El Salvador y Platzi te dan acceso ... Jun 28, 2017 · Have you heard about Growth Marketing and wondering what it is? https://courses.platzi. com/blog/growth-marketing/ COURSES.PLATZI.C",
+    "url": "https://www.facebook.com/platziteam/",
+    "pass": 3
+   },
+   {
+    "quote": "Platzi - FacebookPlatzi - Facebook¡Platzi está a precio especial por tiempo limitado! Aprende ...Todos los cursos de IA de Platzi están gratis hasta el ...Platzi - El Gobierno de El Salvador y Platzi te dan acceso ... May 30, 2017 · Platzi. 782,663 followers. Platzi es la comunidad que busca acercar la web a todos sin importar donde estén. Inspirando a innovar, creando conocimiento. Mar 15, 2023 ·",
+    "url": "https://www.facebook.com/platziespana/",
+    "pass": 3
+   },
+   {
+    "quote": "Platzi - Facebook¡Platzi está a precio especial por tiempo limitado! Aprende ...Todos los cursos de IA de Platzi están gratis hasta el ...Platzi - El Gobierno de El Salvador y Platzi te dan acceso ... Mar 15, 2023 · Platzi. 773,166 likes. Maior plataforma de Educação Online da América Latina com cursos em programação, marketing e empreendedorismo. Nov 16, 2025 · ¡Platzi está a precio especial por ",
+    "url": "https://www.facebook.com/platzibrasil/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://platzi.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://platzi.com/unete/careers/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://codenote.net/ja/posts/japanese-local-llm-development-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.yahoo.co.jp/expert/articles/3dacae0a3ba4dfdd3952000727820a5fea587c30",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%90%E3%83%BC%E3%82%AC%E3%83%BC%E3%83%BB%E3%83%90%E3%83%BC%E3%83%9E%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yamamoto_ec/n/nd3b3890ee728",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ishibashi-legal.com/f_corp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hanna-visa.com/business/%E5%A4%96%E5%9B%BD%E4%BC%9A%E7%A4%BE%E3%81%AE%E6%97%A5%E6%9C%AC%E6%B3%95%E4%BA%BA%E3%82%92%E8%A8%AD%E7%AB%8B%E3%81%97%E3%81%9F%E3%81%84/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/platzi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.deel.com/case-studies/platzi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/nextravel/case-study/platzi-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://upcloud.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/platzi/__efHQFgdCtDESjT5pUXWltcBMbSNXaZPbLlk3tVcvQJs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/108801-19",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/platzi",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/platzi/bosrt7lw41r7pr37n",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/platzi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/PlatziAcademy",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/platzi/status/2110885910804037761",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/school/platzi-inc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/johnfreddyvega",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://mx.linkedin.com/school/platzi-inc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://mx.linkedin.com/in/unmalnick/es",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/platzi/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/platziteam/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/platziespana/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/platzibrasil/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/platzi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/platzi/status/2097374865758023940",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Platzi 日本 導入",
+   "results": [
+    "https://platzi.com/",
+    "https://platzi.com/login/",
+    "https://codenote.net/ja/posts/japanese-local-llm-development-case-studies/",
+    "https://news.yahoo.co.jp/expert/articles/3dacae0a3ba4dfdd3952000727820a5fea587c30",
+    "https://www.itmedia.co.jp/enterprise/articles/2610/28/news032.html",
+    "https://japan.zdnet.com/article/35253419/",
+    "https://www.businessinsider.jp/article/2607-palantir-fde-ai-implementation/",
+    "https://www.watch.impress.co.jp/docs/news/2144406.html",
+    "https://bunshun.jp/articles/-/92586",
+    "https://zenn.dev/taku_sid/articles/20250405_ai_culture_comparison"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Platzi 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ニューバーガー・バーマン",
+    "https://note.com/yamamoto_ec/n/nd3b3890ee728",
+    "https://www.ishibashi-legal.com/f_corp/",
+    "https://hanna-visa.com/business/外国会社の日本法人を設立したい/",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://www.u-blox.com/en/about-us/sales-network-offices/japan-2",
+    "https://industrial.filtrationgroup.com/ja/联系我们/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Platzi Japan",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Platzi manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/customer/platzi",
+    "https://www.deel.com/case-studies/platzi/",
+    "https://www.casestudies.com/company/nextravel/case-study/platzi-customer-case-study",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://platformz.ai/case-studies/manufacturing-supply-chain",
+    "https://www.palantir.com/docs/foundry/use-case-examples/optimizing-production-with-erp-data-across-the-supply-chain",
+    "https://www.grantthornton.com/insights/case-studies/manufacturing/2025/customer-experience-transformation-at-a-global-manufacturer"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Platzi white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://upcloud.com/partner-program/",
+    "https://www.superantispyware.com/reseller-program",
+    "https://www.verizon.com/business/resources/partner-network/",
+    "https://resellervendors.mysellauth.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.nextiva.com/company/partners",
+    "https://creators.riotgames.com/en-us"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Platzi founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/platzi/__efHQFgdCtDESjT5pUXWltcBMbSNXaZPbLlk3tVcvQJs",
+    "https://pitchbook.com/profiles/company/108801-19",
+    "https://compworth.com/company/platzi",
+    "https://www.thecompanycheck.com/company/b/platzi/bosrt7lw41r7pr37n",
+    "https://startupintros.com/orgs/platzi",
+    "https://prospeo.io/c/platzi-revenue",
+    "https://www.zoominfo.com/c/platzi-inc/425706264"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Platzi",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/wise_turtle184",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/pdnob_japan/n/n82c8c80d9d95",
+    "https://note.com/system32/n/n89d300770d4e"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Platzi",
+   "results": [
+    "https://x.com/platzi",
+    "https://x.com/PlatziAcademy",
+    "https://x.com:2096/PlatziTeam",
+    "https://x.com/platzi/status/2110885910804037761",
+    "https://x.com/platzi/with_replies",
+    "https://x.com/platzi/status/2118118944188121127",
+    "https://x.com/platzi/status/2112715138696700379"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Platzi",
+   "results": [
+    "https://www.linkedin.com/school/platzi-inc/",
+    "https://www.linkedin.com/in/johnfreddyvega",
+    "https://mx.linkedin.com/school/platzi-inc/",
+    "https://mx.linkedin.com/in/unmalnick/es",
+    "https://es.linkedin.com/pulse/mi-experiencia-tras-completar-100-cursos-en-platzi-una-sosa-andrade",
+    "https://co.linkedin.com/in/sbeltran1",
+    "https://co.linkedin.com/in/jessharris50"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Platzi",
+   "results": [
+    "https://www.facebook.com/platzi/",
+    "https://www.facebook.com/platziteam/",
+    "https://www.facebook.com/platziespana/",
+    "https://www.facebook.com/platzibrasil/",
+    "https://www.facebook.com/reel/1503691684201207/",
+    "https://www.facebook.com/platzi/videos/todos-los-cursos-de-ia-de-platzi-están-gratis-hasta-el-domingo-8-de-noviembre-️a/1166848135768380/",
+    "https://www.facebook.com/platzi/posts/el-gobierno-de-el-salvador-y-platzi-te-dan-acceso-gratuito-a-la-plataforma-de-ed/1315012113992942/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Platzi note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/ncc37a1d4aa0b",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/",
+    "https://x.com/note_corp/status/2074734197949034502",
+    "https://note.com/sadaaki",
+    "https://diamond.jp/articles/-/388572",
+    "https://kitaishihon.com/company/5243/board-of-director"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "Platzi X 投稿",
+   "results": [
+    "https://x.com/platzi",
+    "https://platzi.com/login/",
+    "https://x.com/platzi/status/2097374865758023940",
+    "https://platzi.com/onboarding/",
+    "https://www.panamericana.com.co/",
+    "https://help.x.com/ja/using-x/edit-post",
+    "https://help.x.com/ja/using-x/posting-gifs-and-pictures"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部31頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部31頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部31頁・検索12回）"
+ }
+}

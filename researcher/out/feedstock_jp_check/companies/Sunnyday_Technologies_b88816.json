@@ -1,0 +1,578 @@
+{
+ "name": "Sunnyday Technologies",
+ "aliases": [],
+ "context": "ディレクトリ:ceramics-material-manufacturer",
+ "researched_at": "2026-11-09T22:39:45.343170+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   },
+   {
+    "quote": "Based in Appleton, Wisconsin, with US work arranged remotely by email or video call.",
+    "url": "https://sunn3d.com/consulting/",
+    "pass": 3
+   },
+   {
+    "quote": "US inquiries can be scoped remotely by email or video call. The agreed scope identifies the available information and what the work can address.",
+    "url": "https://sunn3d.com/consulting/",
+    "pass": 3
+   },
+   {
+    "quote": "Email your general inquiry to info@sunn3d.com",
+    "url": "https://sunn3d.com/consulting/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Sunnyday Technologies | LinkedIn — Sunnyday Technologies | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/sunn3d",
+    "pass": 3
+   },
+   {
+    "quote": "3D Concrete Printing Consulting & Mix Trial Planning — 3D Concrete Printing Consulting & Mix Trial Planning Sunnyday Technologies https://sunn3d.com > consulting",
+    "url": "https://sunn3d.com/consulting/",
+    "pass": 3
+   },
+   {
+    "quote": "About — Experimental Projects | Sunnyday Technologies — About — Experimental Projects | Sunnyday Technologies Sunnyday Technologies https://sunn3d.com > about",
+    "url": "https://sunn3d.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Sunnyday Technologies — 3D Concrete Printing: Open ... — Sunnyday Technologies — 3D Concrete Printing: Open ... Sunnyday Technologies https://sunn3d.com",
+    "url": "https://sunn3d.com/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Sunnyday Technologies | LinkedIn Sunnyday Technologies | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/sunn3d",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.linkedin.com/company/sunn3d",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=8130",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sunnydayinc.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sunn3d.com/consulting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pveye.jp/special_contents/view/3075/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cavotec.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skynetwork.jp/index.php/works/avl/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nuarl.com/zh/dealer/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://sunnydayinc.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2108406/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ace-of-company.com/5025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sunnyday-inc.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://store.sunlu.com/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.poly-maker.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.solidyard.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neousys-tech.com/en/contact/worldwide-distributor/wheretobuy-jp",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nuvoton.co.jp/en/products/disti/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sunn3d.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.velo3d.com/news-events/press-releases/detail/44/velo3d-expands-into-japan-signs-distribution-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.farsoon-gl.com/news/solize-partners-japan-3d-printer-and-farsoon-technologies-announces-3-way-strategic-partnership-to-advance-large-format-lpbf-solutions-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sunn3d.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.velo3d.com/news-events/press-releases/detail/44/velo3d-expands-into-japan-signs-distribution-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/shop/sunny01e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/gp/new-releases/books/492162",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/stores/21Technology/page/AAF455CB-7A84-4FF9-81DC-E1AE89C8472E",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://music.amazon.co.jp/user-playlists/51d3da03a5724ed9826d63ae57d10488jajp",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tech-blog.monotaro.com/entry/2023/06/14/090000",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/07729848/?srsltid=AYCX9vJE9v465pYvXPrrru9JAKVewFqSvkkId_Lc_LrWOQr90UsDhV8w",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/08582822/?srsltid=AYCX9vJZjJ3rOOPi3NB_23Idty-FXCRSxG04ivTyua4WXyP4s_kXGcsO",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/note/readingseries/denki/0104/?srsltid=AYCX9vI9vcW3LQ3ay6xzgHAJmyiJjNUQ24zrkKntDvwhHDLzIquwNYkm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/sunn3d",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/List_of_largest_technology_companies_by_revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/Sun_Technologies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/sysdyne-technologies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/sunn3d",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/sunn3d",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Sunnyday Technologies 代理店",
+   "results": [
+    "https://www.linkedin.com/company/sunn3d",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=8130",
+    "https://sunnydayinc.jp/",
+    "https://sunn3d.com/consulting/",
+    "https://mono.ipros.com/company/detail/2108406/",
+    "https://www.engeniustech.com/jp/where-to-buy/",
+    "https://www.jtc-i.co.jp/company/partner.html",
+    "https://metoree.com/companies/4862/distributors/",
+    "https://www.sunnyday-inc.com/about/",
+    "https://sunn3d.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Sunnyday Technologies 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://www.pveye.jp/special_contents/view/3075/",
+    "https://www.cavotec.com/",
+    "https://www.skynetwork.jp/index.php/works/avl/",
+    "https://nuarl.com/zh/dealer/",
+    "https://i4u.gmo/epTtW",
+    "https://www.polaris.com/en-us/privacy/japanese/",
+    "https://www.ge.com/news/taxonomy/term/327",
+    "https://corridore.co.jp/shop/",
+    "https://www.senecom.co.jp/srf4.html",
+    "https://en.wikipedia.org/wiki/Daniel_Day-Lewis"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Sunnyday Technologies 日本 販売",
+   "results": [
+    "https://sunnydayinc.jp/",
+    "https://mono.ipros.com/company/detail/2108406/",
+    "https://ace-of-company.com/5025/",
+    "https://www.sunnyday-inc.com/about/",
+    "https://diskunion.net/artist/708595?srsltid=AYCX9vJZze9gb_vExWA7DqDzTdpjfJNT-eCwKC-RHxWWlZs-PGBceSty",
+    "https://sunnyday.co.jp/sunnyday/sunnyday_company/",
+    "https://prtimes.jp/main/html/rd/p/000000007.000121747.html",
+    "https://www.instagram.com/sunnydayincjpn/",
+    "https://3max.co.jp/",
+    "https://sunn3d.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Sunnyday Technologies フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://skhonpo.com/",
+    "https://store.sunlu.com/ja",
+    "https://www.poly-maker.jp/",
+    "https://www.solidyard.jp/",
+    "https://apple-tree.shop/?mode=cate&cbid=1729720&csid=0",
+    "https://www.monotaro.com/s/q-3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E7%94%A8%20%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/?srsltid=AYCX9vJ5gwd9qzmCrr4Yof8aAeL8PX9njvaOStqGxvb87xu8wsk4aoAu",
+    "https://www.biccamera.com/bc/category/001/100/065/080/015/?entr_nm=%93%FA%96%7B3D%83v%83%8A%83%93%83%5E%81%5B%81b%83j%83z%83%93%83X%83%8A%81%5B%83f%83B%81%5B%83v%83%8A%83%93%83%5E%81%5B&srsltid=AYCX9vJW4TkO29Lcr3502NAHTCAif29X2lWaoeZCog8eo8fxLdpOChIx",
+    "https://www.eryone.com/ja/filament/",
+    "https://shop.exmatelab.com/",
+    "https://kinofu.com/uvresin-guide2026/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Sunnyday Technologies Japan distributor",
+   "results": [
+    "https://www.neousys-tech.com/en/contact/worldwide-distributor/wheretobuy-jp",
+    "https://www.nuvoton.co.jp/en/products/disti/",
+    "https://sunn3d.com/about/",
+    "https://ir.velo3d.com/news-events/press-releases/detail/44/velo3d-expands-into-japan-signs-distribution-agreement",
+    "https://3dbiotek.com/dist_asia.aspx",
+    "https://www.thelightsource.com/dealers/area?country=Japan",
+    "https://shinkatalent.com/market-entry/japan-enterprise-technology-channel",
+    "https://www.facebook.com/fb-answers/3d-printing-companies-in-japan/?locale=ga_IE",
+    "https://www.power.com/company/sales/distributors/japan",
+    "https://sunnydayinc.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Sunnyday Technologies distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.farsoon-gl.com/news/solize-partners-japan-3d-printer-and-farsoon-technologies-announces-3-way-strategic-partnership-to-advance-large-format-lpbf-solutions-in-japan/",
+    "https://sunn3d.com/",
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://ir.velo3d.com/news-events/press-releases/detail/44/velo3d-expands-into-japan-signs-distribution-agreement",
+    "https://formlabs.com/company/press/formlabs-extends-global-presence-japan/",
+    "https://facfox.com/news/sunnyday-technologies-releases-m3-crete-open-source-3d-concrete-printer-3d-printer-hardware/",
+    "https://www.raise3d.com/sales-partners-voice/japan-3d-printer-co-ltd-sales-partner-in-japan/",
+    "https://www.trade.gov/market-intelligence/japan-3d-printing-market",
+    "https://partners.solize.com/en/manufacturing",
+    "https://en.wikipedia.org/wiki/TD_Synnex"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:amazon.co.jp Sunnyday Technologies",
+   "results": [
+    "https://www.amazon.co.jp/shop/sunny01e",
+    "https://www.amazon.co.jp/gp/new-releases/books/492162",
+    "https://www.amazon.co.jp/stores/21Technology/page/AAF455CB-7A84-4FF9-81DC-E1AE89C8472E",
+    "https://music.amazon.co.jp/user-playlists/51d3da03a5724ed9826d63ae57d10488jajp",
+    "https://www.amazon.co.jp/Jason-Deane/e/B07JZC1LVC/ref=dp_byline_cont_ebooks_1",
+    "https://music.amazon.co.jp/artists/B0042ELUY0/simon-brown",
+    "https://www.amazon.co.jp/r?_encoding=UTF8&aid=s3FWQNBWQtqp6M-J5pVOpA&dest=https%3A%2F%2Fwww.cb-asahi.co.jp&ref_=cct_cg_Logos_6d1&pf_rd_p=6e1cc84f-2994-4601-b96c-5b3d6329aedd&pf_rd_r=03TZW317J007YDSG39AD",
+    "https://music.amazon.co.jp/user-playlists/f72dac717bee4f5597096a3c643451e1jajp",
+    "https://www.amazon.co.jp/Bailey-Seybolt/e/B0F1MZP4CH/ref=dp_byline_cont_book_1",
+    "https://www.amazon.co.jp/stores/sunnydayfabric（サニーデイファブリック）/page/D26DD0A8-6AA0-43AC-91E0-87196B274D36"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:monotaro.com Sunnyday Technologies",
+   "results": [
+    "https://tech-blog.monotaro.com/entry/2023/06/14/090000",
+    "https://www.monotaro.com/g/07729848/?srsltid=AYCX9vJE9v465pYvXPrrru9JAKVewFqSvkkId_Lc_LrWOQr90UsDhV8w",
+    "https://www.monotaro.com/g/08582822/?srsltid=AYCX9vJZjJ3rOOPi3NB_23Idty-FXCRSxG04ivTyua4WXyP4s_kXGcsO",
+    "https://www.monotaro.com/note/readingseries/denki/0104/?srsltid=AYCX9vI9vcW3LQ3ay6xzgHAJmyiJjNUQ24zrkKntDvwhHDLzIquwNYkm",
+    "https://www.monotaro.com/topic/gyoshu/construction/?srsltid=AYCX9vKMDhBwaGtHXCMlfBup0fH4F0CjxR6Hamv4rrsxf17TKG81CBnS",
+    "https://www.monotaro.com/p/5548/7819/?srsltid=AYCX9vJqyp4EGKoO8hm_0SLyfDGjWX-UBLDwnq7gpMk0v7G0vh-DdraV",
+    "https://www.monotaro.com/p/8812/6157/?srsltid=AYCX9vJDJq1YUZbcDjj4cNhZF3kgboZvkerDGgix0-lzUPpBK6ULg9-N",
+    "https://www.monotaro.com/p/7409/7249/?srsltid=AYCX9vIpuGTNpowObRUm3JlWdAA4NrBr9uUlAugZkDc1IhMEVsCz61RD",
+    "https://www.monotaro.com/p/2489/5029/?srsltid=AYCX9vJPKBw4jy__S-LyL_Xq-tCzwjHe21V173IWC8cQdxRabnhn7N22",
+    "https://www.monotaro.com/p/8273/4727/?srsltid=AYCX9vIVz34dj9noimVjd3UKWc6VafdtCotMN583rQVW-AN45vuS3tmn"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "Sunnyday Technologies employees revenue parent company",
+   "results": [
+    "https://www.linkedin.com/company/sunn3d",
+    "https://en.wikipedia.org/wiki/List_of_largest_technology_companies_by_revenue",
+    "https://growjo.com/company/Sun_Technologies",
+    "https://getlatka.com/companies/sysdyne-technologies",
+    "https://sunn3d.com/about/",
+    "https://bullfincher.io/",
+    "https://www.zoominfo.com/c/sun-technologies-inc/113034051",
+    "https://www.owler.com/company/xenonarc",
+    "https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm",
+    "https://companydata.com/company-revenue-lookup/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Sunnyday Technologies",
+   "results": [
+    "https://note.com/bossizm/n/ne2b1df6be74a",
+    "https://note.com/buysell_recruit/n/n0b33f942bae4?hl=en",
+    "https://note.com/accenture_tech/n/nfec5b4ffc543?hl=en",
+    "https://note.com/gobe_vinyl/n/n72fcc99ef70c",
+    "https://note.com/mecampus/n/n76e1a023f647?hl=en",
+    "https://note.com/shucream_note/n/nef08a2c4b01a?hl=en",
+    "https://note.com/baku_lain/n/nbaafe48bdd77?hl=en",
+    "https://note.com/masa011/n/n6ea37ac9510f?hl=en",
+    "https://note.com/buysell_recruit/n/na34d117d49a1?hl=en",
+    "https://note.com/ready_guppy3801"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com Sunnyday Technologies",
+   "results": [
+    "https://x.com/marinelloris/status/585120775042138112",
+    "https://x.com/BIGFUT555/status/2115176869716705753",
+    "https://x.com/yulikay/status/2119062636838920527/video/4?lang=ar-x-fm",
+    "https://x.com/GitanasNauseda/status/2102609192829735328",
+    "https://x.com/evehewson",
+    "https://x.com/kapalkilayyyy/status/1739337435891593688",
+    "https://x.com/twerske/status/2117292394945417337",
+    "https://x.com/LATech/status/1262464982719086592",
+    "https://x.com/a_sunnydayjp",
+    "https://x.com/sunnyday"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Sunnyday Technologies",
+   "results": [
+    "https://www.linkedin.com/company/sunn3d",
+    "https://www.linkedin.com/in/nicholas-sonnentag",
+    "https://www.linkedin.com/in/roberto-montemayor",
+    "https://www.linkedin.com/in/pete-turner-45267122",
+    "https://www.linkedin.com/in/vickimayo",
+    "https://in.linkedin.com/company/sunnyday-solar",
+    "https://www.linkedin.com/in/andy-cohen-accuvise",
+    "https://www.linkedin.com/posts/robert-flatt-177b6a14_vmas-very-mysterious-admixtures-for-digital-activity-7515739916782190592-q_wZ",
+    "https://www.linkedin.com/in/caleb-lunsford-4a3287138",
+    "https://www.linkedin.com/posts/sunn3d_efficient-design-fo-a-brighter-tomor-activity-7215010113034625025-7Ni_"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Sunnyday Technologies",
+   "results": [
+    "https://www.facebook.com/HisenseNig/posts/perfection-anytime-anywhere-at-home-from-a-bright-sunny-day-to-a-cozy-winter-eve/1187784230063255/",
+    "https://www.facebook.com/CityOfJanesville/posts/the-city-of-janesville-is-pleased-to-share-that-shine-technologies-has-received-/1261489499499588/",
+    "https://www.facebook.com/GabeSommersRacing/posts/tech-and-pre-race-activities-on-a-beautiful-sunny-day-in-nashville/1746243070835914/",
+    "https://www.facebook.com/ozarkstech/posts/scholarships-arent-the-only-way-the-ozarks-tech-foundation-supports-students-som/1489857696518293/",
+    "https://www.facebook.com/EuropeanCommission/posts/we-are-making-the-eu-a-global-frontrunner-in-the-clean-energy-transition-we-welc/782755570556241/",
+    "https://www.facebook.com/CabinZero/posts/-packing-made-simple-with-the-classic-36l-sunny-daypair-your-backpack-with-smart/1466802758820353/",
+    "https://www.facebook.com/michigantech/posts/a-new-class-of-huskies-is-ready-to-take-on-michigantech-this-years-incoming-stud/1551257513698106/",
+    "https://www.facebook.com/kbtxmedia/videos/another-hot-dry-and-sunny-day-expected-this-friday-with-more-of-the-same-to-come/1658585145601652/",
+    "https://www.facebook.com/groups/403471187478570/posts/1834840994341575/",
+    "https://www.facebook.com/SunnydaySolar1/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Sunnyday Technologies note 社長",
+   "results": [
+    "https://www.linkedin.com/company/sunn3d",
+    "https://sunn3d.com/",
+    "https://note.com/tag/%E3%82%B5%E3%83%8B%E3%83%BC%E3%83%87%E3%82%A4",
+    "https://laborcenter.berkeley.edu/tech-and-work-policy-guide/",
+    "https://note.ga-tech.co.jp/",
+    "https://note.com/saisontechnology",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://note.com/saisontechnology/m/md33f8ee43f8e/hashtag/%E5%96%B6%E6%A5%AD",
+    "https://note.jp/n/n8c4293e48a16",
+    "https://the-leader.jp/interview/sunnyday/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Sunnyday Technologies X 投稿",
+   "results": [
+    "https://x.com/search?q=SunnyDay",
+    "https://sunn3d.com/privacy-policy/",
+    "https://www.youtube.com/watch?v=5E96BhdvKDQ",
+    "https://x.company/projects/mineral/",
+    "https://www.facebook.com/studio.sunnyday34/",
+    "https://github.com/its-sunny-day",
+    "https://www.linkedin.com/in/xusunny",
+    "https://www.sony.com/en/SonyInfo/technology/stories/entries/SonyTechnologyDay2019_speech/",
+    "https://sunn3d.com/",
+    "https://www.instagram.com/sunnyday_technologies/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）"
+ }
+}

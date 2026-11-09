@@ -1,0 +1,1217 @@
+{
+ "name": "Octavehq",
+ "aliases": [],
+ "context": "旧営業リスト｜Sales/Marketing Automation｜状態なし",
+ "researched_at": "2026-11-09T23:09:50.921710+00:00",
+ "official_url": "https://www.octavehq.com",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/octave-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$5,500,000",
+    "url": "https://prospeo.io/c/octave-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "San Francisco, California, United States",
+    "url": "https://prospeo.io/c/octave-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2022",
+    "url": "https://prospeo.io/c/octave-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "RELENTLESS IMPROVEMENT",
+    "url": "https://www.octavehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve execution at every stage.",
+    "url": "https://www.octavehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A compact sprout symbol on a glossy indigo rounded app tile. Transparent exterior.",
+    "url": "https://www.octavehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn product velocity into market momentum",
+    "url": "https://www.octavehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Octave’s purpose-built GTM ontology models your products, segments, personas, use cases, motions, competitors, and much more. All your GTM knowledge in one place.",
+    "url": "https://www.octavehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Go beyond flat ICP definitions to understand the nuanced pains, pressures, and mindset of every business and buyer you encounter. It learns autonomously so you stay in sync with your market.",
+    "url": "https://www.octavehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“We’ve more than doubled our pipeline to marketing spend ratio and nearly doubled the number of customer types we market to with highly tailored content.”",
+    "url": "https://www.octavehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your buyers and products keep evolving. Saved artifacts start decyaing the day they're created.",
+    "url": "https://www.octavehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fresh guidance waits on manual updates and training while the market keeps passing you by.",
+    "url": "https://www.octavehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Octave models your GTM strategy and observes every buyer interaction and market shift through your ontology. As it learns what helps you win in each unique scenario, it can guide your agents and teams to find and close more opportunities. And you can respond to the market as fast as your product teams can ship.",
+    "url": "https://www.octavehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sales, marketing, RevOps, and agents in sync. A shared source of truth that learns what works.",
+    "url": "https://www.octavehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Document your approved positioning and buyer-specific guidance in one governed source of truth.",
+    "url": "https://www.octavehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Give reps fresh training and intelligence from what's winning deals in the field right now.",
+    "url": "https://www.octavehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PRODUCTION-READY INFRASTRUCTURE",
+    "url": "https://www.octavehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "They help the site work correctly and allow us to improve your experience.",
+    "url": "https://www.octavehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "your prompt creativity.",
+    "url": "https://www.octavehq.com/solutions/revenue-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "Ad hoc prompts and skills can produce a different answer every time, making it hard to act with confidence. Reliable GTM intelligence comes from knowledge that's captured, structured, and refined in a shared system, so your whole team works from the same foundation.",
+    "url": "https://www.octavehq.com/solutions/revenue-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "You can’t predict where trends emerge",
+    "url": "https://www.octavehq.com/solutions/revenue-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "Use Spreadsheets and Docs",
+    "url": "https://www.octavehq.com/solutions/revenue-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "Theme · Use Spreadsheets and Docs",
+    "url": "https://www.octavehq.com/solutions/revenue-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "“Every campaign starts in a spreadsheet, but the briefs, feedback, and deadlines end up scattered. We spend more time chasing updates than moving the work forward.”",
+    "url": "https://www.octavehq.com/solutions/revenue-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "Spreadsheets and docs",
+    "url": "https://www.octavehq.com/solutions/revenue-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "Actionable intelligence is based on a deep buyer and market understanding that’s built up over time. You can’t just get it from chatting with your transcripts or prompting your CRM. Half the problem is you don’t even know what to look for.",
+    "url": "https://www.octavehq.com/solutions/revenue-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "“Octave’s ability to understand our product and market, paired with actionable suggestions, makes it the missing link between GTM strategy and execution.”",
+    "url": "https://www.octavehq.com/solutions/revenue-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "Enablement that responds to a sprinting market. When you add a new feature, buyer insight, or sales play to Octave, it’s instantly put to work in the next training, call brief, chat response, or agent action.",
+    "url": "https://www.octavehq.com/solutions/pmm-enablement",
+    "pass": 1
+   },
+   {
+    "quote": "Give reps training tailored precisely to their book of business. Enable your teams and agents to make your value clear for each buyer’s pains, priorities, and goals, without needing to plan for every unique scenario in advance.",
+    "url": "https://www.octavehq.com/solutions/pmm-enablement",
+    "pass": 1
+   },
+   {
+    "quote": "Let reps “pull” guidance when and where they need it, in Claude, Codex, or your internal apps. Bring training tailored to their accounts into the flow of everyday work, so every call, question, and deal becomes a chance to learn.",
+    "url": "https://www.octavehq.com/solutions/pmm-enablement",
+    "pass": 1
+   },
+   {
+    "quote": "“One place where we’ve used Octave quite well is creating sales enablement plug-ins in Claude. The interactive and modular nature gives sales a better understanding of the product.”",
+    "url": "https://www.octavehq.com/solutions/pmm-enablement",
+    "pass": 1
+   },
+   {
+    "quote": "Sr. Director of Marketing",
+    "url": "https://www.octavehq.com/solutions/pmm-enablement",
+    "pass": 1
+   },
+   {
+    "quote": "Training takes too long",
+    "url": "https://www.octavehq.com/solutions/pmm-enablement",
+    "pass": 1
+   },
+   {
+    "quote": "Stale files become inputs for agents, and training new reps. Old positioning gets repeated after your strategy has moved on.",
+    "url": "https://www.octavehq.com/solutions/pmm-enablement",
+    "pass": 1
+   },
+   {
+    "quote": "Bespoke content for the entire funnel.",
+    "url": "https://www.octavehq.com/solutions/pmm-enablement",
+    "pass": 1
+   },
+   {
+    "quote": "Rich context on tap to scale personalized content across every segment, persona, and vertical.",
+    "url": "https://www.octavehq.com/solutions/pmm-enablement",
+    "pass": 1
+   },
+   {
+    "quote": "WorkSpan scales tailored marketing.",
+    "url": "https://www.octavehq.com/solutions/pmm-enablement",
+    "pass": 1
+   },
+   {
+    "quote": "WorkSpan's go-to-market teams have scaled up the creation of 1-1, personalized messaging for each account and increased their segment marketing coverage. They’ve seen 2.3x pipeline per marketing dollar and a decrease in token usage for content generation.",
+    "url": "https://www.octavehq.com/solutions/pmm-enablement",
+    "pass": 1
+   },
+   {
+    "quote": "“With Octave, we’ve increased our highly tailored marketing to 9 partnership types instead of 5. My content team feels confident marketing into multiple partnership use cases now. Before, they would need reviews to confirm they’re speaking to a buyer the right way. Now, they have Claude, and Claude is confident because it has Octave.”",
+    "url": "https://www.octavehq.com/solutions/pmm-enablement",
+    "pass": 1
+   },
+   {
+    "quote": "Descope uses Octave to deliver personalized content to 100+ strategic accounts without creating a separate messaging system for each. One-pagers are tailored to the account and buyer, extending the approach typically reserved for enterprise accounts to commercial accounts.",
+    "url": "https://www.octavehq.com/solutions/pmm-enablement",
+    "pass": 1
+   },
+   {
+    "quote": "“Octave has helped us scale commercial ABM and move much faster on go-to-market initiatives. The first impression of Descope is now more positive and personalized because of Octave. We no longer have to define Descope with five different commas and endless clauses and hope that one of those things is relevant to a prospect.”",
+    "url": "https://www.octavehq.com/solutions/pmm-enablement",
+    "pass": 1
+   },
+   {
+    "quote": "“Our goal is to make sure that any persona in a specific industry gets a very tailored message with Octave, so they know we help protect exactly the types of data they care about.”",
+    "url": "https://www.octavehq.com/solutions/outbound-abm",
+    "pass": 1
+   },
+   {
+    "quote": "Deterministic scoring requires you to pre-select all the right actions and attributes, which quickly breaks.",
+    "url": "https://www.octavehq.com/solutions/outbound-abm",
+    "pass": 1
+   },
+   {
+    "quote": "As your product, buyers, and market evolves, so does the system. Fit always reflects your strategy.",
+    "url": "https://www.octavehq.com/solutions/outbound-abm",
+    "pass": 1
+   },
+   {
+    "quote": "Find fit against thousands of product, use case, and persona dimensions that give a clear 'why now' reason.",
+    "url": "https://www.octavehq.com/solutions/outbound-abm",
+    "pass": 1
+   },
+   {
+    "quote": "Airbyte uses Octave’s Managed Agents to qualify people and accounts across three products and five personas, using nearly 100 first- and third-party signals. Mario’s team increased pipeline per rep by at least 50% and books double the pipeline of an average BDR organization.",
+    "url": "https://www.octavehq.com/solutions/outbound-abm",
+    "pass": 1
+   },
+   {
+    "quote": "“Our ICP definitions were quite complex. We couldn’t just score with +/- 5 points based on industry and size. We needed an agent to understand a company’s business, then infer fit for all our products. We built a full data spine in BigQuery that feeds Octave’s qualifying agents with 96 enrichment points, including CRM history, Common Room activity, technographics, product signals, the works.”",
+    "url": "https://www.octavehq.com/solutions/outbound-abm",
+    "pass": 1
+   },
+   {
+    "quote": "Every research tool can give you a wikipedia page and a pile of links. But this is a cheap parlor trick that actually wastes time. You can't just glue facts to value props. Octave helps you deeply understand each buyer and exactly how your company can help them, so every interaction is purposeful and drives value.",
+    "url": "https://www.octavehq.com/solutions/deal-execution",
+    "pass": 1
+   },
+   {
+    "quote": "This company is out of hypergrowth, so don’t lead with startup messaging, lead with a profitability outcome.",
+    "url": "https://www.octavehq.com/solutions/deal-execution",
+    "pass": 1
+   },
+   {
+    "quote": "Our older product lacks the integrations they'll need. Lead with our new app and highlight backwards compatability.",
+    "url": "https://www.octavehq.com/solutions/deal-execution",
+    "pass": 1
+   },
+   {
+    "quote": "Uses an on-prem ERP system",
+    "url": "https://www.octavehq.com/solutions/deal-execution",
+    "pass": 1
+   },
+   {
+    "quote": "This is routine hiring for them. Don’t lead with our rapid scaling pitch, lead with our productivity messaging.",
+    "url": "https://www.octavehq.com/solutions/deal-execution",
+    "pass": 1
+   },
+   {
+    "quote": "Hired 50 engineers last quarter",
+    "url": "https://www.octavehq.com/solutions/deal-execution",
+    "pass": 1
+   },
+   {
+    "quote": "Every deal has a why, and the 'why now' is changing faster than ever. Prioritize the use cases that solve each buyer’s biggest problems, pre-flight the most likely objections to come up, and block the competitive angle they’re most likely to consider.",
+    "url": "https://www.octavehq.com/solutions/deal-execution",
+    "pass": 1
+   },
+   {
+    "quote": "Know what matters, why it matters, and what to do next. Octave connects account signals to your strategy, then turns that understanding into tailored outreach, call prep, and business cases for every buyer in the deal.",
+    "url": "https://www.octavehq.com/solutions/deal-execution",
+    "pass": 1
+   },
+   {
+    "quote": "Cortex uses Octave to identify which talk tracks worked in similar deals and recommend those topics to reps in call prep briefs. After the call, they automatically score it against the brief and draft a follow-up email that highlights any topics that weren’t covered.",
+    "url": "https://www.octavehq.com/solutions/deal-execution",
+    "pass": 1
+   },
+   {
+    "quote": "“The last 3% or 5% of accuracy in your messaging is very critical. Octave helps our whole team with that last mile by providing the right information at the moment of a customer interaction.”",
+    "url": "https://www.octavehq.com/solutions/deal-execution",
+    "pass": 1
+   },
+   {
+    "quote": "Map every key stakeholder and prepare the selling angle proven to work for each one.",
+    "url": "https://www.octavehq.com/solutions/deal-execution",
+    "pass": 1
+   },
+   {
+    "quote": "Connect conversations, product usage, deal activity, and research to your GTM strategy. Give your apps and agents the context to prioritize the right accounts, sharpen messaging, and help reps move deals forward.",
+    "url": "https://www.octavehq.com/solutions/build-on-octave",
+    "pass": 1
+   },
+   {
+    "quote": "What sales learns can sharpen marketing. What success uncovers can improve the next sales play. Shared intelligence lets each team build on the others’ work instead of rebuilding context.",
+    "url": "https://www.octavehq.com/solutions/build-on-octave",
+    "pass": 1
+   },
+   {
+    "quote": "Octave shows where your GTM needs to change. Evolve the context behind your apps, agents, and workflows without turning every business change into an engineering project.",
+    "url": "https://www.octavehq.com/solutions/build-on-octave",
+    "pass": 1
+   },
+   {
+    "quote": "Build a daily account queue with the selling angle for each buyer and the best approach for the next call.",
+    "url": "https://www.octavehq.com/solutions/build-on-octave",
+    "pass": 1
+   },
+   {
+    "quote": "Generate campaign briefs, content, and sales collateral variations that are dialed into the precise positioning for each audience.",
+    "url": "https://www.octavehq.com/solutions/build-on-octave",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "A compact bow arrow symbol on a glossy indigo rounded app tile. Transparent exterior.",
+    "url": "https://www.octavehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Marry the qualitative and quantitative to deeply understand the pains, needs, and motivations of every company in your TAM.",
+    "url": "https://www.octavehq.com/solutions/revenue-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "VP Revenue Operations",
+    "url": "https://www.octavehq.com/solutions/revenue-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "Sr. Manager, Revenue Enablement",
+    "url": "https://www.octavehq.com/solutions/pmm-enablement",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Operations Lead",
+    "url": "https://www.octavehq.com/solutions/outbound-abm",
+    "pass": 1
+   },
+   {
+    "quote": "Your team has seen these conditions before. Octave connects what happens across every deal and buyer interaction to reveal the moves that turn interest into revenue.",
+    "url": "https://www.octavehq.com/solutions/executives",
+    "pass": 1
+   },
+   {
+    "quote": "Go beyond monitoring response rates and touch-based attribution. Learn what’s truly leading to revenue and automatically incorporate it into your next campaign.",
+    "url": "https://www.octavehq.com/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Apply learnings to workflows through a shared context layer, so all marketing and sales touchpoints carry the most relevant through-line for each buyer.",
+    "url": "https://www.octavehq.com/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Slice buyer interactions and revenue findings by product, persona, segment, pains, use cases, discussion topics, competitors mentioned, and more.",
+    "url": "https://www.octavehq.com/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "A compact bow arrow symbol on a glossy indigo rounded app tile. Transparent exterior.",
+    "url": "https://www.octavehq.com/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "When revenue grows or drops, investigate with Octave. Marry the qualitative and quantitative to deeply understand the pains, needs, and motivations of every company in your TAM.",
+    "url": "https://www.octavehq.com/solutions/revops",
+    "pass": 1
+   },
+   {
+    "quote": "Octave is open infrastructure for revenue teams.",
+    "url": "https://www.octavehq.com/solutions/revops",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Operations Lead",
+    "url": "https://www.octavehq.com/solutions/revops",
+    "pass": 1
+   },
+   {
+    "quote": "$25M ARR",
+    "url": "https://www.octavehq.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "[Newsletter] Revenue Rhythm Vol. 11 — Give your sales team sharper teeth. (Oct 2026)",
+    "url": "https://www.octavehq.com/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Ten years after its founding in 2015, and partway through a two-year strategic AI transformation in GTM, partner revenue platform WorkSpan combined its offerings into a single AI product. It needed to bring its new messaging to market, and SVP of Marketing Sam Gong had been experimenting with ways to empower marketers, salespeople, and agents to sell the new product with accuracy.",
+    "url": "https://www.octavehq.com/customers/workspan",
+    "pass": 1
+   },
+   {
+    "quote": "Individuals had been managing their own context storage, and Octave centralized this, preventing gaps and drift while saving employees time.",
+    "url": "https://www.octavehq.com/customers/workspan",
+    "pass": 1
+   },
+   {
+    "quote": "As part of the broader AI transformation at WorkSpan, this shift has resulted in a 130% increase in pipeline per marketing dollar and a 122% increase in pipeline per BDR. They estimate up to 50% token savings with Octave compared to alternative context store solutions.",
+    "url": "https://www.octavehq.com/customers/workspan",
+    "pass": 1
+   },
+   {
+    "quote": "Aligning on a company narrative source of truth",
+    "url": "https://www.octavehq.com/customers/workspan",
+    "pass": 1
+   },
+   {
+    "quote": "As product managers develop new features, they access product positioning in Octave through Claude to write PRDs, refine their work, draft UI copy, and make sure upcoming features align with the current WorkSpan narrative.",
+    "url": "https://www.octavehq.com/customers/workspan",
+    "pass": 1
+   },
+   {
+    "quote": "Sr. Manager, Revenue Enablement, RevLogic",
+    "url": "https://www.octavehq.com/customers/fable-security",
+    "pass": 1
+   },
+   {
+    "quote": "is a customer and agentic identity platform that powers authentication for thousands of businesses, including Databricks, GoFundMe, and Navan. Its industry-agnostic product serves endless use cases for startups and Fortune 500 companies alike, creating a messaging challenge.",
+    "url": "https://www.octavehq.com/customers/descope",
+    "pass": 1
+   },
+   {
+    "quote": "The platform serves Growth and GTM Engineers at post-PMF B2B SaaS companies who struggle with the limitations of existing outbound personalization approaches. Their core customers include companies with 20+ FTEs, Series A+ funding, and $2-5M+ ARR who operate multiple products, serve diverse personas, and target horizontal markets that make traditional templated approaches ineffective.",
+    "url": "https://genesysgrowth.com/case-studies/octave",
+    "pass": 3
+   },
+   {
+    "quote": "Each integration page followed a structured narrative: identifying common challenges with existing approaches (brittle prompt chains, manual maintenance, limited context awareness), demonstrating how Octave's agents provided superior solutions, and showing specific implementation examples that technical buyers could immediately understand and evaluate.",
+    "url": "https://genesysgrowth.com/case-studies/octave",
+    "pass": 3
+   },
+   {
+    "quote": "This comprehensive collaboration resulted in a complete transformation of Octave's market positioning, customer communication, and lifecycle marketing capabilities, establishing them as the definitive \"GTM context engine\" while building systematic frameworks for customer acquisition, activation, and expansion that would support aggressive growth targets.",
+    "url": "https://genesysgrowth.com/case-studies/octave",
+    "pass": 3
+   },
+   {
+    "quote": ": The messaging framework, brand campaign, and customer acquisition strategy created sustainable foundations for aggressive growth targets while establishing scalable systems for pipeline generation, customer acquisition, and revenue expansion in the competitive GTM automation market.",
+    "url": "https://genesysgrowth.com/case-studies/octave",
+    "pass": 3
+   },
+   {
+    "quote": "The combined impact of these initiatives positioned Octave for sustained market leadership while establishing systematic frameworks for ongoing competitive advantage, customer acquisition, and revenue growth in the rapidly evolving GTM technology landscape.",
+    "url": "https://genesysgrowth.com/case-studies/octave",
+    "pass": 3
+   },
+   {
+    "quote": "is a product one of my clients is integrating as part of a three-platform AI-based \"Virtual BDR\" stack—a stack which also includes",
+    "url": "https://www.cgtmo.com/post/ai-go-to-market-product-overview-octavehq-the-messaging-brain",
+    "pass": 3
+   },
+   {
+    "quote": "Octave Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/octave-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Octave",
+    "url": "https://prospeo.io/c/octave-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/octave-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/octave-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/octave-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Octave?",
+    "url": "https://prospeo.io/c/octave-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Octave generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/octave-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/octave-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/octave-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Octave have?",
+    "url": "https://prospeo.io/c/octave-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/octave-revenue",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Octave finds the winning patterns that you don’t know to look for. It inspects every deal, call, email, and interaction to learn exactly what's driving wins and sharpen your team's edge.",
+    "url": "https://www.octavehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Cortex uses Octave to identify which talk tracks worked in similar deals and recommend those topics to reps in call prep briefs. After the call, they automatically score it against the brief and draft a follow-up email that highlights any topics that weren’t covered.",
+    "url": "https://www.octavehq.com/solutions/deal-execution",
+    "pass": 1
+   },
+   {
+    "quote": "Equip Claude, Codex, and your tools to produce buyer-specific call plans, one-pagers, proposals, and follow-up emails.",
+    "url": "https://www.octavehq.com/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "AI Outbound Graduated From Writing Emails To Deciding Whether To Send Them",
+    "url": "https://www.octavehq.com/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Identify which talk tracks worked in similar deals and recommend those topics to reps in call prep briefs. After the call, they automatically score it against the brief and draft a follow-up email that highlights any topics that weren’t covered.",
+    "url": "https://www.octavehq.com/customers/cortex",
+    "pass": 1
+   },
+   {
+    "quote": "Make sense of account signals and news, determining which are the most important and incorporating them into emails and rep guidance.",
+    "url": "https://www.octavehq.com/customers/cortex",
+    "pass": 1
+   },
+   {
+    "quote": "Run personalized air cover emails and calls that prime target accounts for conversations.",
+    "url": "https://www.octavehq.com/customers/cortex",
+    "pass": 1
+   },
+   {
+    "quote": "Account briefs explain signal relevance for specific personas, how a company best fits with Cortex’s use cases, and which sales plays apply. Reps can draft personalized emails by selecting relevant signals along with an Octave persona and account name.",
+    "url": "https://www.octavehq.com/customers/cortex",
+    "pass": 1
+   },
+   {
+    "quote": "After the meeting, Cantina compares the call transcript with the pre-call brief and scores whether the recommended topics were covered. If a rep misses a point, Cantina drafts a follow-up email addressing it, with Octave providing context to tailor the language to the individual.",
+    "url": "https://www.octavehq.com/customers/cortex",
+    "pass": 1
+   },
+   {
+    "quote": "“Most companies have Claude generating briefs and emails. The difference with Octave was obvious: the output became specific to our business and the account.”",
+    "url": "https://www.octavehq.com/customers/cortex",
+    "pass": 1
+   },
+   {
+    "quote": "In Cantina, Cortex tracks the percentage of leads they’ve engaged over the previous 90 days via email, LinkedIn, and phone calls. To better prime leads for conversations, Octave drives personalization that incorporates persona-specific context, signals, and more.",
+    "url": "https://www.octavehq.com/customers/cortex",
+    "pass": 1
+   },
+   {
+    "quote": "Before Ryan joined Cortex, the team had been using Claude to generate emails, but its generic outputs led him to run an experiment to demonstrate that richer context would improve quality. He assembled a git repo of case studies, transcripts, and past emails. The improvement was obvious, and built the team’s confidence in investing in a dedicated context solution that wouldn’t go stale.",
+    "url": "https://www.octavehq.com/customers/cortex",
+    "pass": 1
+   },
+   {
+    "quote": "Proof points and reference customers that reps can pull into conversations or emails.",
+    "url": "https://www.octavehq.com/customers/cortex",
+    "pass": 1
+   },
+   {
+    "quote": "In the new system, new reps are on the phone with prospects within 2 days of being hired. After onboarding, they can always go back to Claude to ask for guidance about how to sell to a specific company or industry, or how to respond to a customer email. Claude 3D-prints specific guidance for that account and selling context.",
+    "url": "https://www.octavehq.com/customers/fable-security",
+    "pass": 1
+   },
+   {
+    "quote": "Lifecycle email campaigns created across activation, expansion, and churn prevention workflows",
+    "url": "https://genesysgrowth.com/case-studies/octave",
+    "pass": 3
+   },
+   {
+    "quote": "Created full-funnel lifecycle email system with 15+ campaigns targeting activation, expansion, and churn across multiple user segments",
+    "url": "https://genesysgrowth.com/case-studies/octave",
+    "pass": 3
+   },
+   {
+    "quote": "(AI-driven email scalability and deliverability).",
+    "url": "https://www.cgtmo.com/post/ai-go-to-market-product-overview-octavehq-the-messaging-brain",
+    "pass": 3
+   },
+   {
+    "quote": "Once this information is ingested, the OctaveHQ AI agent generates outbound messaging like emails, call scripts, and social messages—reflecting (and in some cases refining) your company’s actual positioning and language, and tailored to specific segments or scenarios. Not surprisingly, the more complete and consistent your inputs, the more accurate and usable the AI-generated messaging becomes.",
+    "url": "https://www.cgtmo.com/post/ai-go-to-market-product-overview-octavehq-the-messaging-brain",
+    "pass": 3
+   },
+   {
+    "quote": "AI GTM Product Review: Instantly for Email Deliverability & Scale",
+    "url": "https://www.cgtmo.com/post/ai-go-to-market-product-overview-octavehq-the-messaging-brain",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/octave-revenue",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Bring insights into Claude, Codex, and every agent and internal tool you build. Plus you can send structured findings directly to your warehouse.",
+    "url": "https://www.octavehq.com/solutions/revenue-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "Bring Octave’s context into your warehouse, orchestration tools, and custom apps. Shape the model around your business, keeping your GTM strategy flexible and separate from the tools that use it.",
+    "url": "https://www.octavehq.com/solutions/build-on-octave",
+    "pass": 1
+   },
+   {
+    "quote": "Sync everything into your warehouse. Join your GTM knowledge with your business data to power your apps and agents.",
+    "url": "https://www.octavehq.com/solutions/build-on-octave",
+    "pass": 1
+   },
+   {
+    "quote": "Use MCP, API, CLI, and data warehouse integrations to connect to any agents and systems you build.",
+    "url": "https://www.octavehq.com/solutions/gtm-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Airbyte qualifies people and accounts across three products and five personas, using nearly 100 signals across product usage, Common Room activity, CRM history, and more. Octave works seamlessly with Airbyte’s data warehouse and sends scores back into Salesforce, Common Room, and an internal sales app.",
+    "url": "https://www.octavehq.com/solutions/gtm-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "“As GTM operators, our edge isn't the automation. It's our understanding of our ICP: the problems, the signals, the language. That's our codebase. Octave is where we store it, version it, and operationalize it.”",
+    "url": "https://www.octavehq.com/solutions/gtm-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Bring GTM intelligence into the warehouse",
+    "url": "https://www.octavehq.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Bring GTM intelligence into the warehouse",
+    "url": "https://www.octavehq.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Bring GTM intelligence into the warehouse",
+    "url": "https://www.octavehq.com/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Bring GTM intelligence into the warehouse",
+    "url": "https://www.octavehq.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Customers include Databricks, GoFundMe, and Navan",
+    "url": "https://www.octavehq.com/customers/descope",
+    "pass": 1
+   },
+   {
+    "quote": "Octave's Case Study | Genesys Growth",
+    "url": "https://genesysgrowth.com/case-studies/octave",
+    "pass": 3
+   },
+   {
+    "quote": "The platform serves Growth and GTM Engineers at post-PMF B2B SaaS companies who struggle with the limitations of existing outbound personalization approaches. Their core customers include companies with 20+ FTEs, Series A+ funding, and $2-5M+ ARR who operate multiple products, serve diverse personas, and target horizontal markets that make traditional templated approaches ineffective.",
+    "url": "https://genesysgrowth.com/case-studies/octave",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Think of each Workspace as a distinct and isolated area with it's own settings and unique API key. Each Workspace can be configured to work for different companies. Having multiple Workspaces is mostly useful for agencies, as each client will require it's own.",
+    "url": "https://www.octavehq.com/customers",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "AI GTM Product Review: OctaveHQ the Messaging Brain — Jul 31, 2025 · The platform also accepts supporting materials such as call transcripts (e.g. from Gong or Chorus), sales decks, customer case studies, website copy, blog posts, and CRM notes.",
+    "url": "https://www.cgtmo.com/post/ai-go-to-market-product-overview-octavehq-the-messaging-brain",
+    "pass": 3
+   },
+   {
+    "quote": "What are Use Cases in Octave? - Octave API - docs.octavehq.com — Unlike a feature list (which describes what your product does), use cases describe why a customer needs it — the problem they’re trying to solve, the outcome they want, and the business drivers behind the purchase.",
+    "url": "https://docs.octavehq.com/concepts/use-cases",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Naval Hospital, Okinawa Japan",
+    "url": "https://prospeo.io/c/octave-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "OctaveHQ (@OctaveHQ) / Posts / X OctaveHQ (@OctaveHQ) - Posts - editor of create/ co-leader | X (formerly Twitter)",
+    "url": "https://x.com/octavehq",
+    "pass": 3
+   },
+   {
+    "quote": "OctaveHQ (@OctaveHQ) / Posts / X Jul 18, 2012 · OctaveHQ (@OctaveHQ) - Posts - editor of create/ co-leader | X (formerly Twitter)",
+    "url": "https://x.com/octavehq",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Octave - LinkedIn Website http://www.octavehq.com External link for Octave Industry Software Development Company size 11-50 employees Headquarters San Francisco, CA",
+    "url": "https://www.linkedin.com/company/octavehq",
+    "pass": 3
+   },
+   {
+    "quote": "Come and check out what AI-native contact search and list ... Come and check out what AI-native contact search and list building looks like 🧠 Sign up at www.octavehq.com - it's free to get started!",
+    "url": "https://www.linkedin.com/posts/octavehq_come-and-check-out-what-ai-native-contact-activity-7183888328579035138-otQh",
+    "pass": 3
+   },
+   {
+    "quote": "Octave on LinkedIn: Authentic AI personalization based on ... Authentic AI personalization based on your personas and use cases + ghostwriting = more responses 🤝 Check it out for free www.octavehq.com",
+    "url": "https://www.linkedin.com/posts/octavehq_authentic-ai-personalization-based-on-your-activity-7186774131277750273-_HfY",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.octavehq.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.octavehq.com/solutions/revenue-intelligence",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.octavehq.com/solutions/pmm-enablement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.octavehq.com/solutions/outbound-abm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.octavehq.com/solutions/deal-execution",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.octavehq.com/solutions/build-on-octave",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.octavehq.com/solutions/executives",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.octavehq.com/solutions/marketing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.octavehq.com/solutions/sales",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.octavehq.com/solutions/enablement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.octavehq.com/solutions/revops",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.octavehq.com/solutions/gtm-engineering",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.octavehq.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.octavehq.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.octavehq.com/blog",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.octavehq.com/customers/workspan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.octavehq.com/customers/cortex",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.octavehq.com/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.octavehq.com/customers/fable-security",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.octavehq.com/customers/descope",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.kkaneko.jp/tools/win/octavemake.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kensetsunews.com/archives/1266187",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2608/19/news026_2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kkaneko.jp/tools/win/octave.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://octave-group.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.octave-group.com/bbs/content.php?co_id=aboutus",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.zdnet.com/company/30001819/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.octave.com/about/office-locations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.octave.com/industries/manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/octave-reliance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://genesysgrowth.com/case-studies/octave",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cgtmo.com/post/ai-go-to-market-product-overview-octavehq-the-messaging-brain",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prospeo.io/c/octave-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/531098-56",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://acquirezy.com/organization/octave",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/octave-9086",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/octavehq",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/octavehq",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/octavehq_come-and-check-out-what-ai-native-contact-activity-7183888328579035138-otQh",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/octavehq_authentic-ai-personalization-based-on-your-activity-7186774131277750273-_HfY",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/octavehq",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Octavehq 日本 導入",
+   "results": [
+    "https://www.kkaneko.jp/tools/win/octavemake.html",
+    "https://www.kensetsunews.com/archives/1266187",
+    "https://monoist.itmedia.co.jp/mn/articles/2608/19/news026_2.html",
+    "https://www.kkaneko.jp/tools/win/octave.html",
+    "https://www.octave.com/ja",
+    "https://bi-media.jp/3671/",
+    "https://www.octave.com/ja/newsroom/press-releases/2026/octave-outlines-japan-strategy-as-industrial-ai-focus-is-centered-on-control"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Octavehq 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://investors.octave.com/",
+    "https://www.octave.com/about-us"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Octavehq Japan",
+   "results": [
+    "https://octave-group.com/",
+    "https://www.octave-group.com/bbs/content.php?co_id=aboutus",
+    "https://japan.zdnet.com/company/30001819/",
+    "https://www.octave.com/about/office-locations",
+    "https://www.octave.com/ja/newsroom/press-releases/2026/octave-outlines-japan-strategy-as-industrial-ai-focus-is-centered-on-control",
+    "https://www.octavehq.com/",
+    "https://prtimes.jp/main/html/rd/p/000000006.000178730.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Octavehq manufacturing customer case study",
+   "results": [
+    "https://www.octave.com/industries/manufacturing",
+    "https://www.casestudies.com/company/octave-reliance",
+    "https://genesysgrowth.com/case-studies/octave",
+    "https://www.cgtmo.com/post/ai-go-to-market-product-overview-octavehq-the-messaging-brain",
+    "https://docs.octavehq.com/concepts/use-cases",
+    "https://www.octavehq.com/customers",
+    "https://www.octave.com/go/smart-manufacturing"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Octavehq white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://partners.spectrum.com/",
+    "https://www.appspace.com/resellers-alliances/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Octavehq founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/octave-revenue",
+    "https://pitchbook.com/profiles/company/531098-56",
+    "https://acquirezy.com/organization/octave",
+    "https://www.crunchbase.com/organization/octave-9086",
+    "https://compworth.com/company/octave",
+    "https://pitchbook.com/profiles/company/233882-29",
+    "https://investors.octave.com/news-releases/news-release-details/octave-announces-second-quarter-2026-financial-results"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Octavehq",
+   "results": [
+    "https://note.com/bricscad/n/n4fb5b4f5a843?hl=en",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/____kunnn/n/n022361343c96",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/miracle46/n/ndc001d336b0e",
+    "https://note.com/kumiko_shiraki/n/n71a4935ed2dc"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Octavehq",
+   "results": [
+    "https://x.com/octavehq",
+    "https://x.com/olesovhcom",
+    "https://x.com/octaveonline",
+    "https://x.com/OctaveGame",
+    "https://x.com/thehalogmmtv",
+    "https://x.com/AFIMWS/status/2118433248581943560",
+    "https://x.com/NoahFentys/status/2118178286157140113"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Octavehq",
+   "results": [
+    "https://www.linkedin.com/company/octavehq",
+    "https://www.linkedin.com/company/octaveintelligence/",
+    "https://www.linkedin.com/posts/octavehq_come-and-check-out-what-ai-native-contact-activity-7183888328579035138-otQh",
+    "https://www.linkedin.com/posts/octavehq_authentic-ai-personalization-based-on-your-activity-7186774131277750273-_HfY",
+    "https://www.linkedin.com/posts/octavehq_were-starting-2026-with-some-powerful-upgrades-activity-7414322163165466624-gSX9",
+    "https://www.linkedin.com/posts/octavehq_were-excited-to-announce-that-octave-has-activity-7161423958599245825-KDJD",
+    "https://www.linkedin.com/posts/octavehq_massive-update-just-dropped-over-ugcPost-7379187620872089600-JGOi"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Octavehq",
+   "results": [
+    "https://www.facebook.com/octavetech.eu/",
+    "https://www.facebook.com/OctaveHI/",
+    "https://www.facebook.com/OctaveBricsCAD/",
+    "https://www.facebook.com/SACnFrau/",
+    "https://www.facebook.com/OctaveBioscience/",
+    "https://www.facebook.com/",
+    "https://www.facebook.com/octavesleep/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Octavehq note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://x.com/note_corp/status/2074734197949034502",
+    "https://www.octave.com/about/leadership"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Octavehq X 投稿",
+   "results": [
+    "https://x.com/octavehq",
+    "https://www.octavehq.com/",
+    "https://x.com/spyfamily_anime/status/2119383983209508904",
+    "https://evolvingvillage.com/personal-brand-submit/",
+    "https://www.octavehq.com/blog",
+    "https://www.octavehq.com/resources-and-guides",
+    "https://docs.octavehq.com/mcp/overview"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部29頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部29頁・検索12回）"
+ }
+}

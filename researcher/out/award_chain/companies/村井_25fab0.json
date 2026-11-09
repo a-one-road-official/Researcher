@@ -1,0 +1,1763 @@
+{
+ "name": "村井",
+ "aliases": [],
+ "context": "東京都・資本金10000万円・東京都 ものづくり企業データベース;彩の国工場",
+ "researched_at": "2026-11-09T22:38:39.672687+00:00",
+ "official_url": "https://e-murai.jp/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "創業",
+    "value": "創業：1931年（昭和6年）3月10日",
+    "url": "https://e-murai.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1951年（昭和26年）3月30日",
+    "url": "https://e-murai.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "創業",
+    "value": "創業：1931（昭和6）年",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：1951（昭和26）年",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "設立日",
+    "value": "設立日：1951年3月",
+    "url": "https://syukatsu-kaigi.jp/companies/93762/post_items/6/word_mouths",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "1億円",
+    "url": "https://e-murai.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "1億円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "1億円",
+    "url": "https://syukatsu-kaigi.jp/companies/93762/post_items/6/word_mouths",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "90名（2025年3月31日現在）",
+    "url": "https://e-murai.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員",
+    "value": "92名（2026年3月31日現在）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "126人",
+    "url": "https://syukatsu-kaigi.jp/companies/93762/post_items/6/word_mouths",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "【本社】 〒170-0004 東京都豊島区北大塚2丁目27番4号 TEL：03-3918-0181（代） FAX：03-3918-0191（代） E-Mail： reception@e-murai.jp 【吉見工場】 〒355-0156 埼玉県比企郡吉見町長谷1961 TEL：0493-54-6581（代） 【神戸営業所】 〒654-0028 兵庫県神戸市須磨区常盤町1丁目1番20号 TEL：078-733-3481 FAX：078-733-3476",
+    "url": "https://e-murai.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "本社",
+    "value": "〒170-0004　東京都豊島区北大塚2丁目27番4号 TEL：03-3918-0181（代） FAX：03-3918-0191（代） JR山手線「大塚駅」より徒歩3分",
+    "url": "https://e-murai.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "本社郵便番号",
+    "value": "170-0004",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都豊島区北大塚2丁目27番4号",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社電話番号",
+    "value": "03-3918-0184",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "兵庫県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "福岡県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "神奈川県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "宮城県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "長野県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "(株)村井 と業種や本社が同じ企業を探す。",
+    "value": "アパレル（メーカー） スポーツ・レジャー用品（メーカー） その他メーカー 商社（その他製品） 通販・ネット販売 東京都",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "山形県、東京都",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "京都府",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都、大阪府",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "愛知県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "〒170-0004 東京都豊島区北大塚2丁目27番4号",
+    "url": "https://syukatsu-kaigi.jp/companies/93762/post_items/6/word_mouths",
+    "pass": 3
+   },
+   {
+    "label": "本社：",
+    "value": "東京都",
+    "url": "https://syukatsu-kaigi.jp/companies/93762/post_items/6/word_mouths",
+    "pass": 3
+   },
+   {
+    "label": "本社：",
+    "value": "宮城県",
+    "url": "https://syukatsu-kaigi.jp/companies/93762/post_items/6/word_mouths",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "靴用各種部品および副資材、一般消費者向け靴関連製品の製造販売",
+    "url": "https://e-murai.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "■ シューパーツ事業(BtoB) 毎日履いている靴が「どのように作られているか」ご存知ですか？ 実は「シューパーツ」と呼ばれる部品を組み合わせて作られています。 つま先やかかと、靴の底など多様な箇所に使用され、美しいフォルムの保持や歩行の手助けをする靴づくりには必要不可欠なパーツです。 国内約500社の靴業界企業のうち、300社以上が私たちのお客様。 企画‐開発‐製造‐販売の社内一貫体制で業界トップシェアを実現しています。 私たちの名前は靴の表面には出ませんが、大手スポーツブランドのスパイクやアパレルブランドのトレンドシューズ。学生時代に履いていたローファー。バレリーナのトウシューズから産業用の安全靴まで、幅広いジャンルの靴を支え続けています。 世界中の足もとを支え、愛され続けている、日本に数少ないシューパーツを取り扱う事業です。 ■ フットケア事業(BtoB / BtoC) 人の足はそれぞれ個性的。同じ形はひとつとして存在しないのに、選べる靴の種類はそう多くない。 そうして生じた足のトラブルをケアしたり、業務やスポーツのパフォーマンスアップをサポートするためのインソールやパッドを企画",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "9億4,507万円（2026年3月期実績）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "18億9000万円",
+    "url": "https://syukatsu-kaigi.jp/companies/93762/post_items/6/word_mouths",
+    "pass": 3
+   }
+  ],
+  "主要取引先": [
+   {
+    "label": "主な取引先",
+    "value": "■ シューパーツ事業 ダイアナ・かねまつ・リーガルコーポレーション・アシックス・ミズノ・マドラス・チャコット・ミドリ安全・OIOI・三越伊勢丹・ユナイテッドアローズ・HARUTA　 ほか ■ フットケア・履き物事業 ハンズ・ロフト・チャコット・三越伊勢丹・大丸松坂屋百貨店・OIOI・二木ゴルフ・アマゾンジャパン・ヤフー・楽天　ほか",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "村井隆",
+    "url": "https://syukatsu-kaigi.jp/companies/93762/post_items/6/word_mouths",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "株式会社村井 - シューパーツやフットケア製品の企業・製造・販売",
+    "url": "https://e-murai.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "企画から研究開発、製造、販売までを",
+    "url": "https://e-murai.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "靴用各種部品および副資材、一般消費者向け靴関連製品の製造販売",
+    "url": "https://e-murai.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "提供する主力製品は、靴をつくる際に必要不可欠な「シューパーツ（靴部品）」と、",
+    "url": "https://e-murai.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "靴をつくる際に必要不可欠なシューパーツ（靴部品）を製造し、全国の靴メーカーに販売しています",
+    "url": "https://e-murai.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社村井では、靴メーカーのつくりたい靴に合ったシューパーツ（靴部品）を、デザインや機能に適したさまざまな素材で製造しています",
+    "url": "https://e-murai.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "靴をつくるときに型として使用される「ラスト」の製造・販売も行っています",
+    "url": "https://e-murai.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社村井はそのような「シューパーツ（靴部品）」の研究・企画・開発・製造・販売を行っています",
+    "url": "https://e-murai.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "シューパーツ事業で培った靴の技術や知識を活かし、もっと多くの人々に「快適な履き心地」を届けていきたいと、2000年にフットケア製品の製造販売を開始しました",
+    "url": "https://e-murai.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "というブランドで展開し、販売しています",
+    "url": "https://e-murai.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "1960年にはアメリカ製の新素材を使用した製品（ボックストゥ）の製造販売を開始",
+    "url": "https://e-murai.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "欧米の大手ファッションブランドやスポーツブランドでも、中国や東南アジアを製造拠点にしている会社が多いもの",
+    "url": "https://e-murai.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "中国や東南アジアを製造拠点にしている会社は多い",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2000年にはフットケア製品の製造販売を開始",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2011年にはプレミアムルームシューズの製造販売を開始",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "企画‐開発‐製造‐販売の社内一貫体制で業界トップシェアを実現しています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "そうして生じた足のトラブルをケアしたり、業務やスポーツのパフォーマンスアップをサポートするためのインソールやパッドを企画・製造・販売しています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "米国BIXBY BOXTOE社の新化学合成材料を使用したボックストゥの製造販売を開始",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "レザーボード材によるカウンターの試作に成功し、製造販売を開始",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "西独CARL FREUDENBERG社と技術提携を結び、日本における「ロブス」カウンターの製造および販売権を得る",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "西独EMSOLD社との技術提携によりフットベッドインソールの製造販売を開始",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "西独FAGUS社との技術提携により靴型の製造販売を開始",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "インナーソール・フットケア製品の製造販売を開始",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ウェブショップ運営、販促デザイン、SNS更新・コラム執筆など",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "私共の取扱品目は、主力のネジをはじめ、機械部品加工・機械工具・配管資材・省力化機器など多角化しゆくお客様のニーズに応えるべく、積極的にその幅を広げて参りました",
+    "url": "http://www.murai-co.com/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "村井の将来性・業績・売上に関する評判・口コミ一覧（全5件）【就活会議】",
+    "url": "https://syukatsu-kaigi.jp/companies/93762/post_items/6/word_mouths",
+    "pass": 3
+   },
+   {
+    "quote": "村井の将来性・業績・売上に関する評判・口コミ一覧（全5件）",
+    "url": "https://syukatsu-kaigi.jp/companies/93762/post_items/6/word_mouths",
+    "pass": 3
+   },
+   {
+    "quote": "実際に売上が下がっており、維持するのが精一杯という...",
+    "url": "https://syukatsu-kaigi.jp/companies/93762/post_items/6/word_mouths",
+    "pass": 3
+   },
+   {
+    "quote": "※「社員・元社員による口コミと評価」は、株式会社リブセンスが運営する「転職会議」から転載しています",
+    "url": "https://syukatsu-kaigi.jp/companies/93762/post_items/6/word_mouths",
+    "pass": 3
+   },
+   {
+    "quote": "メーカー・製造業(住宅・インテリア)の事業の成長・将来性の口コミ",
+    "url": "https://syukatsu-kaigi.jp/companies/93762/post_items/6/word_mouths",
+    "pass": 3
+   },
+   {
+    "quote": "合板を主に製造していて建設業においてなくてはならないもの",
+    "url": "https://syukatsu-kaigi.jp/companies/93762/post_items/6/word_mouths",
+    "pass": 3
+   },
+   {
+    "quote": "病院の経営悪化によってベッド販売台数にも影響がある",
+    "url": "https://syukatsu-kaigi.jp/companies/93762/post_items/6/word_mouths",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社リブセンスが運営をしている「転職会議」に投稿された口コミを転載しております",
+    "url": "https://syukatsu-kaigi.jp/companies/93762/post_items/6/word_mouths",
+    "pass": 3
+   },
+   {
+    "quote": "そんな時に株主から紹介されたのが「ベンチャーデット」だった",
+    "url": "https://lp.startup-db.com/media/articles/connected-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "前回のシリーズよりも売上は伸び、技術開発も進んでいた",
+    "url": "https://lp.startup-db.com/media/articles/connected-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "「シリーズAと比べると、これまで売上重視でみられていたのが、利益の部分にフォーカスがあてられました」と村井さん",
+    "url": "https://lp.startup-db.com/media/articles/connected-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "そんな時、既存の株主から紹介されたのがベンチャーデットだった",
+    "url": "https://lp.startup-db.com/media/articles/connected-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】小規模出展に強い展示会運営代行会社おすすめ10選｜1〜2小間の支援を徹底比較",
+    "url": "https://sekatsuku.jp/blog/information/1343/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】展示会BPO会社おすすめ10選｜企画・運営・進行管理を徹底比較",
+    "url": "https://sekatsuku.jp/blog/information/1343/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】リード管理・会期後フォローに強い展示会運営代行会社おすすめ10選｜データ化から商談化まで徹底比較",
+    "url": "https://sekatsuku.jp/blog/information/1343/",
+    "pass": 3
+   },
+   {
+    "quote": "説明会の時にこの冊子をお配りしていたのですが、代表が説明会内でプレゼンするときにも「この表紙の製品は弊社で取り扱っている製品なんだよ」と紹介していますし、オンラインの説明会でも",
+    "url": "https://www.kakehashi-skysol.co.jp/case-study/cases/17795.html/",
+    "pass": 3
+   },
+   {
+    "quote": "『Prevision』とエクセル処理 生産体制のフルサポートや収益性の向上を達成｜加工業の生産管理システム Prevision導入事例｜生産管理システム Prevision",
+    "url": "https://www.smart-go.net/prevision/user/case-murai.html",
+    "pass": 3
+   },
+   {
+    "quote": "生産体制のフルサポートや収益性の向上を達成",
+    "url": "https://www.smart-go.net/prevision/user/case-murai.html",
+    "pass": 3
+   },
+   {
+    "quote": "インプローブの生産管理システム『Prevision』は知り合いのITコンサルタントからの紹介で導入を検討した",
+    "url": "https://www.smart-go.net/prevision/user/case-murai.html",
+    "pass": 3
+   },
+   {
+    "quote": "おかげで生産性の低かった休日労働からは解放され、全体的な収益性も大幅に改善されました",
+    "url": "https://www.smart-go.net/prevision/user/case-murai.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 阿部工業（射出成型 漁具 製造販売）",
+    "url": "http://www.murai-ss.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "初代が東京都墨田区に村井製作所を創業（金物雑貨製造）",
+    "url": "http://www.murai-ss.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "埼玉県北葛飾郡吉川町に本社、工場を移転（金物輸出製品、健康器具製造）",
+    "url": "http://www.murai-ss.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "建築金物製造販売（株式会社 川口技研様、株式会社長谷川工務店様（現長谷工）等）の建築金物業界とのお取引スタート",
+    "url": "http://www.murai-ss.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "オリジナル商品「バルコニーパーテーション スライド40、スライド20」製作、販売スタート",
+    "url": "http://www.murai-ss.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "僕は食のインフラを支える『製造現場』の誇りを伝えたい",
+    "url": "https://note.com/ymurai_koji",
+    "pass": 3
+   },
+   {
+    "quote": "拙著『ビジネスエリートが知っている教養としての発酵』の『はじめに』をご紹介します",
+    "url": "https://note.com/ymurai_koji",
+    "pass": 3
+   },
+   {
+    "quote": "「売上の課題だと思っていたけど、実は組織の問題だった」",
+    "url": "https://note.com/shagaibanto/n/n63bb19272b5c",
+    "pass": 3
+   },
+   {
+    "quote": "売上も伸ばしたいし、組織も良くしたい",
+    "url": "https://note.com/shagaibanto/n/n63bb19272b5c",
+    "pass": 3
+   }
+  ],
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "省エネ設備の導入や再生可能エネルギーの活用、環境配慮型製品の開発、",
+    "url": "https://e-murai.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "成長を続けている研究開発型の総合靴関連製品メーカーです",
+    "url": "https://e-murai.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "靴をつくる際に必要不可欠なシューパーツ（靴部品）を製造し、全国の靴メーカーに販売しています",
+    "url": "https://e-murai.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社村井では、靴メーカーのつくりたい靴に合ったシューパーツ（靴部品）を、デザインや機能に適したさまざまな素材で製造しています",
+    "url": "https://e-murai.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "靴・シューズの小売市場は、新型コロナウィルス感染症による影響を受けたものの2021年からは回復傾向にあり、2022年は1兆9,570億円、3.8億足が出荷されています",
+    "url": "https://e-murai.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "1963年にはドイツのシューパーツ（靴部品）メーカーと技術提携",
+    "url": "https://e-murai.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "【全国上位9％の優良企業として掲載！】創業95年のシューパーツ・フットケアメーカーで暮らしを足もとから支える仕事をしませんか？みなさまの足とはお知り合いの会社です",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "教育・研修制度が充実、育児や介護のための時短勤務や有給休暇取得推進など働き方にも柔軟性があります",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "創業95年の老舗メーカーで「誰かの”一歩”を支える仕事」、一緒にしませんか？",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "#独自の開発力 #業界トップシェア #手厚い研修 #残業ほぼなし #有給休暇が取りやすい #ワークライフバランス #人々の暮らしを支える #自分のアイデアをカタチに #学歴不問 #創業95年の安定企業 #老舗メーカー",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2016年11月 吉見工場が埼玉県から「彩の国工場」として指定される",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "埼玉県比企郡吉見町長谷工業団地に中央研究所を開設（現在の吉見工場）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "吉見工場が埼玉県知事より「豊かな彩の国づくりのパートナー」として「彩の国工場」に指定される",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "脱炭素社会に向けクリーンエネルギーへの転換を目指し協働する「GXリーグ」（GX：グリーントランスフォーメンション）に参画",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "電話のかけ方や名刺の渡し方など基本的なビジネススキルを学ぶ研修のほか、靴メーカーの工場見学、大学教授から「足」について直接学べるプログラムもございます",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "初めは先輩社員とペアで行動することも多く、一人ひとりのペースに合わせた丁寧な教育体制があります",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の靴部品メーカーの中では大手企業の部類に入ると思われる",
+    "url": "https://syukatsu-kaigi.jp/companies/93762/post_items/6/word_mouths",
+    "pass": 3
+   },
+   {
+    "quote": "育児休業や介護休業など、取得しやすい環境である",
+    "url": "https://syukatsu-kaigi.jp/companies/93762/post_items/6/word_mouths",
+    "pass": 3
+   },
+   {
+    "quote": "メーカー・製造業(住宅・インテリア)の事業の成長・将来性の口コミ",
+    "url": "https://syukatsu-kaigi.jp/companies/93762/post_items/6/word_mouths",
+    "pass": 3
+   },
+   {
+    "quote": "合板を主に製造していて建設業においてなくてはならないもの",
+    "url": "https://syukatsu-kaigi.jp/companies/93762/post_items/6/word_mouths",
+    "pass": 3
+   },
+   {
+    "quote": "国内の医療、介護業界内では圧倒的知名度がある",
+    "url": "https://syukatsu-kaigi.jp/companies/93762/post_items/6/word_mouths",
+    "pass": 3
+   },
+   {
+    "quote": "病院の経営悪化によってベッド販売台数にも影響がある",
+    "url": "https://syukatsu-kaigi.jp/companies/93762/post_items/6/word_mouths",
+    "pass": 3
+   },
+   {
+    "quote": "既存事業の基盤を活かしながら、今後の市場変化や顧客ニーズに合わせた展開が期待できると感じます",
+    "url": "https://syukatsu-kaigi.jp/companies/93762/post_items/6/word_mouths",
+    "pass": 3
+   },
+   {
+    "quote": "アメリカの中央銀行の利上げなどにより日本国内の資金調達環境も厳しさを増す",
+    "url": "https://lp.startup-db.com/media/articles/connected-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "同社のロボットは、飲食店ではそば茹でやアイスクリーム作りを任され、食品工場では弁当容器の蓋しめや惣菜の盛り付けなどで活躍する",
+    "url": "https://lp.startup-db.com/media/articles/connected-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "アメリカの中央銀行をはじめとする利上げなどにより市況は冷え込み、調達のハードルは格段に上がっていた",
+    "url": "https://lp.startup-db.com/media/articles/connected-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "新株を発行して資金調達をするエクイティファイナンスと、金融機関などから返済義務のある資金を借り入れるデットファイナンスだ",
+    "url": "https://lp.startup-db.com/media/articles/connected-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "金融機関は通常の融資などのように利払いによるリターンを見込むほか、融資先企業の成長に応じて株式に転換するなどして、より大きな利益を狙うこともできる",
+    "url": "https://lp.startup-db.com/media/articles/connected-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "資金調達環境の変化や金融機関側の取り組みの強化などを背景に、ベンチャーデットなどは今後も広がっていく可能性がある",
+    "url": "https://lp.startup-db.com/media/articles/connected-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "今後は、弁当容器の蓋しめや惣菜の盛り付けを担う食品工場向けのロボットなどを量産していくフェーズに入る",
+    "url": "https://lp.startup-db.com/media/articles/connected-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、工場で蓋しめなどを担っていた外国人材が日本に入って来られなくなり、人手不足は深刻化しています",
+    "url": "https://lp.startup-db.com/media/articles/connected-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社クロスビット 村井様の導入事例を更新しました！ | 株式会社セカツク",
+    "url": "https://sekatsuku.jp/blog/information/1343/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社クロスビット 村井様の導入事例を更新しました！",
+    "url": "https://sekatsuku.jp/blog/information/1343/",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例ページもしくは下記ボタンよりご覧ください",
+    "url": "https://sekatsuku.jp/blog/information/1343/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ミライユ 田中様の導入事例を更新しました！",
+    "url": "https://sekatsuku.jp/blog/information/1343/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社セカツク、韓国IT企業COONTECと日本市場開拓に関するMOUを締結",
+    "url": "https://sekatsuku.jp/blog/information/1343/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社村井様 導入事例［新卒採用支援］ | – 株式会社カケハシスカイ",
+    "url": "https://www.kakehashi-skysol.co.jp/case-study/cases/17795.html/",
+    "pass": 3
+   },
+   {
+    "quote": "『Prevision』とエクセル処理 生産体制のフルサポートや収益性の向上を達成｜加工業の生産管理システム Prevision導入事例｜生産管理システム Prevision",
+    "url": "https://www.smart-go.net/prevision/user/case-murai.html",
+    "pass": 3
+   },
+   {
+    "quote": "村井鋼機株式会社様｜生産管理システム Prevision 導入事例",
+    "url": "https://www.smart-go.net/prevision/user/case-murai.html",
+    "pass": 3
+   },
+   {
+    "quote": "同社では顧客からの納期やコストの要望に応えるため、バリエーションに富んだマシンを揃え、熱・表面処理以外は全て社内で行えるようにしている",
+    "url": "https://www.smart-go.net/prevision/user/case-murai.html",
+    "pass": 3
+   },
+   {
+    "quote": "「工程進捗問合せ画面」で納期回答も素早く行えるようになったので顧客からも喜ばれました",
+    "url": "https://www.smart-go.net/prevision/user/case-murai.html",
+    "pass": 3
+   },
+   {
+    "quote": "創業20年・480社以上の導入実績から、御社に合った進め方をご提案します",
+    "url": "https://www.smart-go.net/prevision/user/case-murai.html",
+    "pass": 3
+   },
+   {
+    "quote": "工場、倉庫建物 1700㎡",
+    "url": "http://www.murai-ss.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "武蔵野銀行 吉川支店 城北信用金庫 吉川支店 亀有信用金庫 吉川支店 埼玉りそな銀行 吉川支店",
+    "url": "http://www.murai-ss.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "埼玉県北葛飾郡吉川町に本社、工場を移転（金物輸出製品、健康器具製造）",
+    "url": "http://www.murai-ss.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "建築金物製造販売（株式会社 川口技研様、株式会社長谷川工務店様（現長谷工）等）の建築金物業界とのお取引スタート",
+    "url": "http://www.murai-ss.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "漁具 射出成型工場 株式会社阿部工業（東京都葛飾区）を買収",
+    "url": "http://www.murai-ss.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "・新井組名古屋支店新和会（幹事） ・矢作建設工業作友会 他",
+    "url": "https://murai-kougyo.jimdofree.com/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 村井建設 （Murai Construction Co.,Ltd.）",
+    "url": "http://murai-kensetsu.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "建設業許可番号 京都府知事 許可（特-25）第7390号",
+    "url": "http://murai-kensetsu.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "当社は1963年（昭和38年）の創業以来、「人を大切にする姿勢をもって周囲と共に伸びる企業であり続けたい」という理念のもと、総合建設業の第一歩を踏み出し、つねに地域社会に密着した建設サービスを提供してまいりました",
+    "url": "http://murai-kensetsu.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "不動産取引業務を開始（宅地建物取引業許可取得）",
+    "url": "http://murai-kensetsu.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "翻訳家・村井理子氏が、介護や家族との複雑な関係、日々の営みを綴ったエッセイや小説が注目を集めています",
+    "url": "https://note.com/tag/%E6%9D%91%E4%BA%95%E7%90%86%E5%AD%90",
+    "pass": 3
+   },
+   {
+    "quote": "翻訳家・村井理子氏が、介護や家族との複雑な関係、日々の営みを綴ったエッセイや…",
+    "url": "https://note.com/tag/%E6%9D%91%E4%BA%95%E7%90%86%E5%AD%90",
+    "pass": 3
+   },
+   {
+    "quote": "モチベーター講師P206｜学校教育と読書レビューとスイーツも",
+    "url": "https://note.com/tag/%E6%9D%91%E4%BA%95%E7%90%86%E5%AD%90",
+    "pass": 3
+   },
+   {
+    "quote": "村井理子さんが義母の介護で感じた女性同士の「連帯」（No.1172）",
+    "url": "https://note.com/tag/%E6%9D%91%E4%BA%95%E7%90%86%E5%AD%90",
+    "pass": 3
+   },
+   {
+    "quote": "明るい年寄りになろうと思った話〜村井理子『義父母の介護』",
+    "url": "https://note.com/tag/%E6%9D%91%E4%BA%95%E7%90%86%E5%AD%90",
+    "pass": 3
+   },
+   {
+    "quote": "働く人一人ひとりが主役になれるような食品工場衛生服を創りたい",
+    "url": "https://note.com/ymurai_koji",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "1969年には台湾に子会社を設立",
+    "url": "https://e-murai.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "1969年には台湾子会社を設立",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "「(株)村井」を設立（資本金200万円）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金1,500,000円をもって株式会社村井鋲螺組織に変更",
+    "url": "http://www.murai-co.com/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金6,000,000円に増資",
+    "url": "http://www.murai-co.com/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金10,000,000円に増資",
+    "url": "http://www.murai-co.com/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "アイカ工業(株)【東証プライム市場上場・名証プレミア市場上場】",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "アメリカの中央銀行の利上げなどにより日本国内の資金調達環境も厳しさを増す",
+    "url": "https://lp.startup-db.com/media/articles/connected-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "2021年12月に入社し、調達活動に加わった村井さんは「採用されたからにはバリューを出さないと」と意気込んだが、VC（ベンチャーキャピタル）との交渉は思うように進まない",
+    "url": "https://lp.startup-db.com/media/articles/connected-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "そんな時に株主から紹介されたのが「ベンチャーデット」だった",
+    "url": "https://lp.startup-db.com/media/articles/connected-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "アメリカの大学でファイナンスの修士号を取得し戦略コンサルタントとして活動した経験などもあり、資金調達活動をリードすることになった",
+    "url": "https://lp.startup-db.com/media/articles/connected-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "だが、資金調達環境は様変わりしていた",
+    "url": "https://lp.startup-db.com/media/articles/connected-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "事業会社から出資を受け、ビジネス面でも協業を深める資本業務提携へと舵を切った",
+    "url": "https://lp.startup-db.com/media/articles/connected-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "VCからの出資であれば、交渉から1ヶ月程度で入金に至るケースもある",
+    "url": "https://lp.startup-db.com/media/articles/connected-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "そんな時、既存の株主から紹介されたのがベンチャーデットだった",
+    "url": "https://lp.startup-db.com/media/articles/connected-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "スタートアップの資金調達は一般的に2種類に分けられる",
+    "url": "https://lp.startup-db.com/media/articles/connected-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "新株を発行して資金調達をするエクイティファイナンスと、金融機関などから返済義務のある資金を借り入れるデットファイナンスだ",
+    "url": "https://lp.startup-db.com/media/articles/connected-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "資金調達環境の変化や金融機関側の取り組みの強化などを背景に、ベンチャーデットなどは今後も広がっていく可能性がある",
+    "url": "https://lp.startup-db.com/media/articles/connected-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "資金調達を始めたときは、VCと話して出資してもらうのが主流だと思っていました",
+    "url": "https://lp.startup-db.com/media/articles/connected-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "資本金を3,000万円より5,000万円へ増資",
+    "url": "http://murai-kensetsu.com/company",
+    "pass": 3
+   }
+  ],
+  "客は誰か": [
+   {
+    "quote": "■ フットケア事業(BtoB / BtoC)",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "「2022年版中小企業白書」にBtoC事業を強化し事業再構築を進める中小企業として掲載される",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の靴部品メーカーの中では大手企業の部類に入ると思われる",
+    "url": "https://syukatsu-kaigi.jp/companies/93762/post_items/6/word_mouths",
+    "pass": 3
+   }
+  ],
+  "表彰・認定の記録": [
+   {
+    "quote": "4年連続グッドデザイン賞受賞",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2019年から4年連続でグッドデザイン賞受賞",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2019年からは4年連続でグッドデザイン賞も受賞しました",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年にはキッズインソールが「子どもの足と健康の関係を再考するきっかけを与えた秀逸なアイデアが光る」と評価され「第15回キッズデザイン賞」を受賞",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、妊娠・出産したのだから仕方ないと悩みに蓋をするママたちの声をもとに作り上げた「ママインソール」は「2021年度グッドデザイン賞」を受賞",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2005年 4月 経済産業省「IT経営百選」認定企業に選ばれ「IT活用賞」を受賞",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2017年 1月 TAMA協会から「TAMAブランド企業」として認定される",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2019年10月 「インソールプロ・スポーツ ランニング」が「2019年度グッドデザイン賞」受賞",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年10月 「インソールプロ・スポーツ ゴルフ」が「2020年度グッドデザイン賞」受賞",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年 8月 「キッズインソール」が「第15回キッズデザイン賞」受賞",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年10月 「MAMA INSOLE」が「2021年度グッドデザイン賞」受賞",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年10月 「キッズインソール2」が「2022年度グッドデザイン賞」受賞",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年 8月 「キッズインソール2」が「第17回キッズデザイン賞」受賞",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省「IT経営百選」認定企業に選ばれ「IT活用賞」を受賞",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "(株) 村井 の新卒採用・ 会社概要 | マイナビ2027 — (株) 村井 の新卒採用・ 会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp97701 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 株式会社村井 — 会社概要 - 株式会社村井 株式会社村井 https://e-murai.jp > company",
+    "url": "https://e-murai.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "企業 情報 - ねじ・ボルト加工の村井製作所 — 企業 情報 - ねじ・ボルト加工の村井製作所 murai-mfg.co.jp http://www.murai-mfg.co.jp > profile",
+    "url": "http://www.murai-mfg.co.jp/profile/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社 案内 | ものづくりパートナー 株式 会社 村井 【認定支援 ... — 会社 案内 | ものづくりパートナー 株式 会社 村井 【認定支援 ... s-murai.com https://s-murai.com > home > company",
+    "url": "https://s-murai.com/home/company/",
+    "pass": 3
+   },
+   {
+    "quote": "(株) 村井 の新卒採用・会社概要 | マイナビ2027 — (株) 村井 の新卒採用・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp97701 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "村井 の 将来性・業績・ 売上 に関する評判・口コミ一覧（全5件） — 村井 の 将来性・業績・ 売上 に関する評判・口コミ一覧（全5件） 就活会議 https://syukatsu-kaigi.jp > post_items > word_mouths",
+    "url": "https://syukatsu-kaigi.jp/companies/93762/post_items/6/word_mouths",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 村井 の株式の取得（子会社化）に関するお知らせ — 株式会社 村井 の株式の取得（子会社化）に関するお知らせ nihon-s.co.jp PDF https://www.nihon-s.co.jp > ...",
+    "url": "https://www.nihon-s.co.jp/?jet_download=7169c364557ade9bf0618926481dcb227c83c0de",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内 | ものづくりパートナー 株式会社 村井 【認定支援 ... — 会社案内 | ものづくりパートナー 株式会社 村井 【認定支援 ... s-murai.com https://s-murai.com > home > company",
+    "url": "https://s-murai.com/home/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 村井 の企業情報・財務データ | FUMA（フーマ） — 株式会社 村井 の企業情報・財務データ | FUMA（フーマ） FUMA（フーマ） https://fumadata.com > 企業検索",
+    "url": "https://fumadata.com/search/detail/1462689",
+    "pass": 3
+   },
+   {
+    "quote": "提言 # 村井 英樹 次世代AI・オンチェーン金融構想PT事務局長 ... — 提言 # 村井 英樹 次世代AI・オンチェーン金融構想PT事務局長 ... Instagram https://www.instagram.com > reel > DYjEfwjlSQ5",
+    "url": "https://www.instagram.com/reel/DYjEfwjlSQ5/",
+    "pass": 3
+   },
+   {
+    "quote": "ANRI 村井 輝さん - 元起業家・現投資家として - SmartRound — ANRI 村井 輝さん - 元起業家・現投資家として - SmartRound smartround https://jp.smartround.com > startup-next > post > anri-murai",
+    "url": "https://jp.smartround.com/startup-next/post/anri-murai",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社クロスビット 村井 様の 導入事例 を更新しました！ — 株式会社クロスビット 村井 様の 導入事例 を更新しました！ 株式会社セカツク https://sekatsuku.jp > blog > information",
+    "url": "https://sekatsuku.jp/blog/information/1343/",
+    "pass": 3
+   },
+   {
+    "quote": "あんしん君 導入事例 ： 村井 医院（龍ヶ崎市） - 根本電興 — あんしん君 導入事例 ： 村井 医院（龍ヶ崎市） - 根本電興 根本電興 https://nemoden.co.jp > h29-anshinkun_muraiiin",
+    "url": "https://nemoden.co.jp/h29-anshinkun_muraiiin/",
+    "pass": 3
+   },
+   {
+    "quote": "導入 の決め手・効果とは？「株式会社 村井 様」「ヤブサキ産業 ... — 導入 の決め手・効果とは？「株式会社 村井 様」「ヤブサキ産業 ... ドリームニュース https://www.dreamnews.jp > press",
+    "url": "https://www.dreamnews.jp/press/0000243094",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 村井 製作所の会社概要 — 株式会社 村井 製作所の会社概要 murai-ss.jp http://www.murai-ss.jp > company",
+    "url": "http://www.murai-ss.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 村井 工業株式会社 — 会社概要 - 村井 工業株式会社 Jimdo https://murai-kougyo.jimdofree.com > 会社概要",
+    "url": "https://murai-kougyo.jimdofree.com/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/",
+    "pass": 3
+   },
+   {
+    "quote": "会社紹介 | 株式会社 村井 建設 — 会社紹介 | 株式会社 村井 建設 株式会社村井建設 http://murai-kensetsu.com > company",
+    "url": "http://murai-kensetsu.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "（株） 村井 電機 — （株） 村井 電機 Salesforce https://arakawa-net.my.salesforce-sites.com > Detail",
+    "url": "https://arakawa-net.my.salesforce-sites.com/Detail?id=a021000001SQlWwAAL",
+    "pass": 3
+   },
+   {
+    "quote": "石川県小松市｜ 村井 索道株式会社｜パーツの専業加工メーカー — 石川県小松市｜ 村井 索道株式会社｜パーツの専業加工メーカー 村井索道株式会社 https://www.muraisakudo.co.jp > pages",
+    "url": "https://www.muraisakudo.co.jp/pages/2/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "村井 理子の人気・新着記事まとめ - note 村井 理子の人気・新着記事まとめ - note note https://note.com > tag > 村井理子",
+    "url": "https://note.com/tag/%E6%9D%91%E4%BA%95%E7%90%86%E5%AD%90",
+    "pass": 3
+   },
+   {
+    "quote": "村井 康司 - note 村井 康司 - note note https://note.com > coseyroom",
+    "url": "https://note.com/coseyroom",
+    "pass": 3
+   },
+   {
+    "quote": "村井 三左衛門 - note 村井 三左衛門 - note note https://note.com > ymurai_koji",
+    "url": "https://note.com/ymurai_koji",
+    "pass": 3
+   },
+   {
+    "quote": "社長 の成功は、誰が隣にいるかで変わる｜ 村井 庸介 - note 社長 の成功は、誰が隣にいるかで変わる｜ 村井 庸介 - note note https://note.com > 村井庸介",
+    "url": "https://note.com/shagaibanto/n/n63bb19272b5c",
+    "pass": 3
+   },
+   {
+    "quote": "社長 の右腕は、究極の「推し活」だ｜ 村井 庸介 - note 社長 の右腕は、究極の「推し活」だ｜ 村井 庸介 - note note https://note.com > ビジネス > 経営・マネジメント",
+    "url": "https://note.com/shagaibanto/n/n98c54a5daec0",
+    "pass": 3
+   },
+   {
+    "quote": "ゼンワークス株式会社 オープン社内報 / 代表 村井 太郎 - note ゼンワークス株式会社 オープン社内報 / 代表 村井 太郎 - note note https://note.com > zenworks",
+    "url": "https://note.com/zenworks",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "翻訳家・村井理子氏が、介護や家族との複雑な関係、日々の営みを綴ったエッセイや小説が注目を集めています。",
+    "url": "https://note.com/tag/%E6%9D%91%E4%BA%95%E7%90%86%E5%AD%90",
+    "pass": 3
+   },
+   {
+    "quote": "作品への共感や、映画化された原作を巡る感想、自身の生活に重ねた考察の記事が集まっています。",
+    "url": "https://note.com/tag/%E6%9D%91%E4%BA%95%E7%90%86%E5%AD%90",
+    "pass": 3
+   },
+   {
+    "quote": "翻訳家・村井理子氏が、介護や家族との複雑な関係、日々の営みを綴ったエッセイや…",
+    "url": "https://note.com/tag/%E6%9D%91%E4%BA%95%E7%90%86%E5%AD%90",
+    "pass": 3
+   },
+   {
+    "quote": "マキシマリストの師匠たち（日記エッセイ 9/20）",
+    "url": "https://note.com/tag/%E6%9D%91%E4%BA%95%E7%90%86%E5%AD%90",
+    "pass": 3
+   },
+   {
+    "quote": "本の感想「ある翻訳家の取り憑かれた日常」これは令和の「働きマン」だ！",
+    "url": "https://note.com/tag/%E6%9D%91%E4%BA%95%E7%90%86%E5%AD%90",
+    "pass": 3
+   },
+   {
+    "quote": "【おすすめ小説】各種レビュー等目次・『「みつ～も」から始まる作者 』【マンガ・映画・ビジネス本】",
+    "url": "https://note.com/tag/%E6%9D%91%E4%BA%95%E7%90%86%E5%AD%90",
+    "pass": 3
+   },
+   {
+    "quote": "モチベーター講師P206｜学校教育と読書レビューとスイーツも",
+    "url": "https://note.com/tag/%E6%9D%91%E4%BA%95%E7%90%86%E5%AD%90",
+    "pass": 3
+   },
+   {
+    "quote": "鎌倉FM「世界はジャズを求めてる」村井康司担当（第一週）選曲プレイリスト（2022年４〜12月分）＃鎌倉FM",
+    "url": "https://note.com/coseyroom",
+    "pass": 3
+   },
+   {
+    "quote": "タレントスカウトとしてのスタン・ゲッツ（3）〜Talkin' about Stan Getz #4〜",
+    "url": "https://note.com/coseyroom",
+    "pass": 3
+   },
+   {
+    "quote": "ハワード・ジョンソンを偲んで In Memory of Howard Johnson",
+    "url": "https://note.com/coseyroom",
+    "pass": 3
+   },
+   {
+    "quote": "ラジオ番組「世界はジャズを求めてる」が始まります！",
+    "url": "https://note.com/coseyroom",
+    "pass": 3
+   },
+   {
+    "quote": "日本の発酵は「テロワール」ではなく「レペゼン」だと思う",
+    "url": "https://note.com/ymurai_koji",
+    "pass": 3
+   },
+   {
+    "quote": "この記事は、AIが書いています 種麹屋と『任せる』の話",
+    "url": "https://note.com/ymurai_koji",
+    "pass": 3
+   },
+   {
+    "quote": "働く人一人ひとりが主役になれるような食品工場衛生服を創りたい",
+    "url": "https://note.com/ymurai_koji",
+    "pass": 3
+   },
+   {
+    "quote": "KOJITHEKITCHENAcademy を終えて",
+    "url": "https://note.com/ymurai_koji",
+    "pass": 3
+   },
+   {
+    "quote": "社長の成功は、誰が隣にいるかで変わる｜村井庸介",
+    "url": "https://note.com/shagaibanto/n/n63bb19272b5c",
+    "pass": 3
+   },
+   {
+    "quote": "「色々あるけど、村井さんはいつも隣にいてくれたな、って思うんです」",
+    "url": "https://note.com/shagaibanto/n/n63bb19272b5c",
+    "pass": 3
+   },
+   {
+    "quote": "戦略について評価していただいたこともあります。",
+    "url": "https://note.com/shagaibanto/n/n63bb19272b5c",
+    "pass": 3
+   },
+   {
+    "quote": "事業の成果について感謝していただいたこともあります。",
+    "url": "https://note.com/shagaibanto/n/n63bb19272b5c",
+    "pass": 3
+   },
+   {
+    "quote": "後から何度も思い出すくらい、静かに心に残りました。",
+    "url": "https://note.com/shagaibanto/n/n63bb19272b5c",
+    "pass": 3
+   },
+   {
+    "quote": "なぜなら、「いつも隣にいてくれた」という言葉は、僕が仕事をするうえで、大切にしてきたことそのものだったからです。",
+    "url": "https://note.com/shagaibanto/n/n63bb19272b5c",
+    "pass": 3
+   },
+   {
+    "quote": "正解を教えてくれる人だけではないと思っています。",
+    "url": "https://note.com/shagaibanto/n/n63bb19272b5c",
+    "pass": 3
+   },
+   {
+    "quote": "まだ答えが出ていないときに、安心して話せる人。",
+    "url": "https://note.com/shagaibanto/n/n63bb19272b5c",
+    "pass": 3
+   },
+   {
+    "quote": "社長の右腕は、究極の「推し活」だ｜村井庸介",
+    "url": "https://note.com/shagaibanto/n/n98c54a5daec0",
+    "pass": 3
+   },
+   {
+    "quote": "社長の右腕という仕事は、究極の「推し活」だと思っている。",
+    "url": "https://note.com/shagaibanto/n/n98c54a5daec0",
+    "pass": 3
+   },
+   {
+    "quote": "でも、それだけなら「右腕」でなくてもいい。",
+    "url": "https://note.com/shagaibanto/n/n98c54a5daec0",
+    "pass": 3
+   },
+   {
+    "quote": "優秀なコンサルタントや専門家は世の中にたくさんいる。",
+    "url": "https://note.com/shagaibanto/n/n98c54a5daec0",
+    "pass": 3
+   },
+   {
+    "quote": "僕が社長の右腕として仕事をするとき、最後に一番大事になるのは、",
+    "url": "https://note.com/shagaibanto/n/n98c54a5daec0",
+    "pass": 3
+   },
+   {
+    "quote": "「この社長を勝たせたい」と、本気で思えるかどうか。",
+    "url": "https://note.com/shagaibanto/n/n98c54a5daec0",
+    "pass": 3
+   },
+   {
+    "quote": "極端に言えば、僕は報酬をいただく側なのに、",
+    "url": "https://note.com/shagaibanto/n/n98c54a5daec0",
+    "pass": 3
+   },
+   {
+    "quote": "こっちがお金を払ってでも、この人を応援したい。",
+    "url": "https://note.com/shagaibanto/n/n98c54a5daec0",
+    "pass": 3
+   },
+   {
+    "quote": "ゼンワークス株式会社 オープン社内報 / 代表 村井 太郎｜note",
+    "url": "https://note.com/zenworks",
+    "pass": 3
+   },
+   {
+    "quote": "ピンチはチャンス！！！！【オープン社内報#11】",
+    "url": "https://note.com/zenworks",
+    "pass": 3
+   },
+   {
+    "quote": "ゼンワークス株式会社 オープン社内報 / 代表 村井 太郎",
+    "url": "https://note.com/zenworks",
+    "pass": 3
+   },
+   {
+    "quote": "挑戦する人を応援する文化【オープン社内報#10】",
+    "url": "https://note.com/zenworks",
+    "pass": 3
+   },
+   {
+    "quote": "日本一の訪問マッサージ会社をつくる【オープン社内報#8】",
+    "url": "https://note.com/zenworks",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "村井 美樹 (@mikimurai) / X 村井 美樹 (@mikimurai) / X X https://x.com > mikimurai",
+    "url": "https://x.com/mikimurai",
+    "pass": 3
+   },
+   {
+    "quote": "村井 智/ 虐殺を許さない 村井 村村長 (@munnrai) / X 村井 智/ 虐殺を許さない 村井 村村長 (@munnrai) / X X https://x.com > munnrai",
+    "url": "https://x.com/munnrai",
+    "pass": 3
+   },
+   {
+    "quote": "村井 良大 (@ryota_muraidesu) / X 村井 良大 (@ryota_muraidesu) / X X https://x.com > ryota_muraidesu",
+    "url": "https://x.com/ryota_muraidesu",
+    "pass": 3
+   },
+   {
+    "quote": "村井 美樹 (@mikimurai) / X 村井 美樹 (@mikimurai) / X X https://x.com > mikimurai",
+    "url": "https://x.com/mikimurai?lang=ja",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "村井 秀輔 - Professional in “3Cs” = Content creation ... - LinkedIn 村井 秀輔 - Professional in “3Cs” = Content creation ... - LinkedIn LinkedIn https://jp.linkedin.com > shusuke-murai",
+    "url": "https://jp.linkedin.com/in/shusuke-murai/ja",
+    "pass": 3
+   },
+   {
+    "quote": "10+ \" 村井 Murai \" profiles - LinkedIn 10+ \" 村井 Murai \" profiles - LinkedIn LinkedIn https://www.linkedin.com > pub > dir > 村井 > Murai",
+    "url": "https://www.linkedin.com/pub/dir/%E6%9D%91%E4%BA%95/Murai",
+    "pass": 3
+   },
+   {
+    "quote": "村井 令二 - 週刊ダイヤモンドー シニアエディター Journalist 村井 令二 - 週刊ダイヤモンドー シニアエディター Journalist LinkedIn https://jp.linkedin.com > reijimurai",
+    "url": "https://jp.linkedin.com/in/reijimurai/ja",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "村井 よしひろ (@MURAIYoshihirokouenkaizimusyo) - Facebook 村井 よしひろ (@MURAIYoshihirokouenkaizimusyo) - Facebook Facebook https://www.facebook.com > Pages > Public figure",
+    "url": "https://www.facebook.com/MURAIYoshihirokouenkaizimusyo/",
+    "pass": 3
+   },
+   {
+    "quote": "村井 孝広 - Facebook 村井 孝広 - Facebook Facebook https://www.facebook.com > 村井孝広-100025913769399",
+    "url": "https://www.facebook.com/p/%E6%9D%91%E4%BA%95%E5%AD%9D%E5%BA%83-100025913769399/",
+    "pass": 3
+   },
+   {
+    "quote": "村井 祐児 | Musashino Tokyo - Facebook 村井 祐児 | Musashino Tokyo - Facebook Facebook https://www.facebook.com > ... > ミュージシャン/バンド",
+    "url": "https://www.facebook.com/muraiyujicl/?locale=ja_JP",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://e-murai.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://e-murai.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://e-murai.jp/works/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.murai-co.com/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://syukatsu-kaigi.jp/companies/93762/post_items/6/word_mouths",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nihon-s.co.jp/?jet_download=7169c364557ade9bf0618926481dcb227c83c0de",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://lp.startup-db.com/media/articles/connected-robotics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/reel/DYjEfwjlSQ5/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://thebridge.jp/2025/02/mosh-supporting-the-economic-individual-creators-raises-2-25-billion-yen-in-series-c-funding",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://sekatsuku.jp/blog/information/1343/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kakehashi-skysol.co.jp/case-study/cases/17795.html/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smart-go.net/prevision/user/case-murai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.murai-ss.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://murai-kougyo.jimdofree.com/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://murai-kensetsu.com/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E6%9D%91%E4%BA%95%E7%90%86%E5%AD%90",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/coseyroom",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ymurai_koji",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/mikimurai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/munnrai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ryota_muraidesu",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/shusuke-murai/ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pub/dir/%E6%9D%91%E4%BA%95/Murai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/reijimurai/ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MURAIYoshihirokouenkaizimusyo/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/%E6%9D%91%E4%BA%95%E5%AD%9D%E5%BA%83-100025913769399/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/muraiyujicl/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/shagaibanto/n/n63bb19272b5c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/shagaibanto/n/n98c54a5daec0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/zenworks",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/mikimurai?lang=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "村井 会社概要 資本金 設立",
+   "results": [
+    "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "https://e-murai.jp/company/",
+    "http://www.murai-co.com/company.html",
+    "http://www.murai-mfg.co.jp/profile/index.html",
+    "https://s-murai.com/home/company/",
+    "https://recruit.muraikensetsu-kushiro.com/company/",
+    "http://www.murai-web.com/company/index.html",
+    "https://www.muraikiki.co.jp/2.html",
+    "https://www.muraidenki.co.jp/company/enkaku.html",
+    "https://job.mynavi.jp/28/pc/search/corp97701/outline.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "村井 事業内容 売上",
+   "results": [
+    "https://job.mynavi.jp/27/pc/search/corp97701/outline.html",
+    "https://syukatsu-kaigi.jp/companies/93762/post_items/6/word_mouths",
+    "https://www.nihon-s.co.jp/?jet_download=7169c364557ade9bf0618926481dcb227c83c0de",
+    "https://s-murai.com/home/company/",
+    "https://fumadata.com/search/detail/1462689",
+    "https://www.tdb.co.jp/report/bankruptcy/flash/2166/",
+    "https://the-shashi.com/tse/2331/executives/ceo/murai-atsushi/",
+    "https://www.r-agent.com/viewjob/jkb3d77b1a966b81b5/",
+    "https://e-murai.jp/",
+    "https://job.mynavi.jp/28/pc/search/corp97701/outline.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "村井 資金調達 株主",
+   "results": [
+    "https://lp.startup-db.com/media/articles/connected-robotics",
+    "https://www.instagram.com/reel/DYjEfwjlSQ5/",
+    "https://thebridge.jp/2025/02/mosh-supporting-the-economic-individual-creators-raises-2-25-billion-yen-in-series-c-funding",
+    "https://jp.smartround.com/startup-next/post/anri-murai",
+    "https://communeinc.com/ja/news/2025sep03-2",
+    "https://connected-robotics.com/series-b/",
+    "https://www.nikkei.com/article/DGXZQOUC084RZ0Y3A500C2000000/",
+    "https://www.meti.go.jp/policy/newbusiness/houkokusyo/financeguidance.pdf",
+    "https://www.nihon-s.co.jp/?jet_download=489f92ef2cdde8ec3389798901a9878d29c13600",
+    "https://irbank.net/holder/村井資本株式会社"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "村井 導入事例",
+   "results": [
+    "https://sekatsuku.jp/blog/information/1343/",
+    "https://www.kakehashi-skysol.co.jp/case-study/cases/17795.html/",
+    "https://www.smart-go.net/prevision/user/case-murai.html",
+    "https://nemoden.co.jp/h29-anshinkun_muraiiin/",
+    "https://www.dreamnews.jp/press/0000243094",
+    "https://i-pro.com/products_and_solutions/ja/surveillance/solutions/case-studies",
+    "https://gmoretech.com/news22090901-2/",
+    "https://www.tokyo-kosha.or.jp/support/shien/zeroemi/cases/case-001.html",
+    "https://www.horizon.co.jp/ja/users_report/user_hw/user_hw40.html",
+    "https://e-murai.jp/works/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "村井 主要取引先",
+   "results": [
+    "http://www.murai-ss.jp/company/",
+    "https://murai-kougyo.jimdofree.com/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/",
+    "http://murai-kensetsu.com/company",
+    "https://arakawa-net.my.salesforce-sites.com/Detail?id=a021000001SQlWwAAL",
+    "https://www.muraisakudo.co.jp/pages/2/",
+    "https://www.murai-craft.co.jp/?page_id=28",
+    "http://www.murai-mfg.co.jp/profile/index.html",
+    "https://www.muraikouki.com/",
+    "http://www.murai-web.com/policy/index.html",
+    "https://murai-kougyo.jimdofree.com/会社概要/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 村井",
+   "results": [
+    "https://note.com/tag/%E6%9D%91%E4%BA%95%E7%90%86%E5%AD%90",
+    "https://note.com/tokuma_bungei/n/nf5ce5d06d016",
+    "https://note.com/coseyroom",
+    "https://note.com/ymurai_koji",
+    "https://note.com/muraip",
+    "https://note.com/yui_murai",
+    "https://note.com/satoyumi/n/n4803579a84fa",
+    "https://note.com/hakuo416/n/n1230c6cf0ccd",
+    "https://note.com/satoshimurai",
+    "https://note.com/rikomurai"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com 村井",
+   "results": [
+    "https://x.com/entrypostman",
+    "https://x.com/mikimurai",
+    "https://x.com/munnrai",
+    "https://x.com/ryota_muraidesu",
+    "https://x.com/muraihideki",
+    "https://x.com/muraiyu",
+    "https://x.com/murai_naruhito",
+    "https://x.com/Riko_Murai/highlights",
+    "https://x.com/wyvernMurai",
+    "https://x.com/Riko_Murai"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:linkedin.com 村井",
+   "results": [
+    "https://jp.linkedin.com/in/shusuke-murai/ja",
+    "https://www.linkedin.com/pub/dir/%E6%9D%91%E4%BA%95/Murai",
+    "https://jp.linkedin.com/in/reijimurai/ja",
+    "https://jp.linkedin.com/in/mizue-murai-2a469232",
+    "https://jp.linkedin.com/in/%E6%99%B6%E4%BF%8A-%E6%9D%91%E4%BA%95-40357a303",
+    "https://jp.linkedin.com/in/hiroshi-murai-626a0b30/ja",
+    "https://www.linkedin.com/pub/dir/+/%E6%9D%91%E4%BA%95",
+    "https://jp.linkedin.com/in/satoshi-murai",
+    "https://jp.linkedin.com/in/shunsuke-murai-19554323b",
+    "https://jp.linkedin.com/in/裕之-村井-37a35518a"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com 村井",
+   "results": [
+    "https://www.facebook.com/MURAIYoshihirokouenkaizimusyo/",
+    "https://www.facebook.com/p/%E6%9D%91%E4%BA%95%E5%AD%9D%E5%BA%83-100025913769399/",
+    "https://www.facebook.com/hideki.murai.5/",
+    "https://www.facebook.com/muraiyujicl/?locale=ja_JP",
+    "https://www.facebook.com/p/%E6%9D%91%E4%BA%95%E4%BF%AE-%E5%8D%8A%E7%94%B0%E5%86%99%E7%9C%9F%E5%B1%95%E5%AE%9F%E8%A1%8C%E5%A7%94%E5%93%A1%E4%BC%9A-100064939260432/",
+    "https://www.facebook.com/muraimaru/",
+    "https://www.facebook.com/ShuseiMurai.official/",
+    "https://www.facebook.com/junichi.murai/",
+    "https://www.facebook.com/murai.recruiting/",
+    "https://lite.facebook.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "村井 note 社長",
+   "results": [
+    "https://note.com/shagaibanto/n/n63bb19272b5c",
+    "https://note.com/shagaibanto/n/n98c54a5daec0",
+    "https://note.com/yui_murai",
+    "https://note.com/zenworks",
+    "https://note.com/shagaibanto/n/n4a5e7db2ce4f",
+    "https://note.com/miraikyoso/n/n651fffc4115e",
+    "https://yosukemurai.com/",
+    "https://note.com/shagaibanto/n/n85c344e6fd31",
+    "https://www.youtube.com/watch?v=1ELtiRev9-c",
+    "https://jp.linkedin.com/in/庸介-村井-a2661b130"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "村井 X 投稿",
+   "results": [
+    "https://x.com/mikimurai?lang=ja",
+    "https://mainichi.jp/articles/20260924/k00/00m/010/305000c",
+    "https://x.com/entrypostman?lang=ja",
+    "https://www.youtube.com/watch?v=xLIR-trjz_w",
+    "https://www.sanspo.com/article/20230911-MZF3RNO5UVI2HHWNHENNFJQ6IQ/",
+    "https://www.asahi.com/articles/AST1T31Y3T1TOXIE045M.html",
+    "https://www.youtube.com/watch?v=gN-lcpxxA0c",
+    "https://www.instagram.com/reel/DQV46Ytk6Ao/",
+    "https://x.com/Riko_Murai/status/2119412198670020838",
+    "https://x.com/Riko_Murai"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索11回）"
+ }
+}

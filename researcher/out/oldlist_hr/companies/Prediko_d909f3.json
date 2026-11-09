@@ -1,0 +1,1684 @@
+{
+ "name": "Prediko",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-09T22:34:37.292788+00:00",
+ "official_url": "https://www.prediko.io",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$5.5M",
+    "url": "https://getlatka.com/companies/prediko",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Prediko: AI Inventory Management & Planner For eCommerce & Shopify Brands",
+    "url": "https://www.prediko.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Prediko is a Shopify certified technology partner that helps D2C brands manage their inventory operations across all channels.",
+    "url": "https://www.prediko.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Why Victoria Beckham Recommends Prediko for Inventory Operations",
+    "url": "https://www.prediko.io/",
+    "pass": 1
+   },
+   {
+    "quote": "“Very strong app, with extremely responsive, capable customer success and support teams. A stellar product.”",
+    "url": "https://www.prediko.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Victoria Beckham store says Prediko",
+    "url": "https://www.prediko.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Impact Proven by Results",
+    "url": "https://www.prediko.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Prediko is offically recommended by Shopify",
+    "url": "https://www.prediko.io/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Amazing App. Gives a great visual on current and future inventory. We decreased stockout from 4% to 1% in 2 months with Prediko. That’s hundreds of thousands of extra revenue per year unlocked! Team are super supportive to any requests too! Would highly recommend!\"",
+    "url": "https://www.prediko.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Procurement and Product Design",
+    "url": "https://www.prediko.io/",
+    "pass": 1
+   },
+   {
+    "quote": "“Since relying on Prediko for forecasting and replenishment planning, we have not experienced unexpected stockouts. Supply planning and ordering are probably 90% easier and more reliable compared to our previous setup.”",
+    "url": "https://www.prediko.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. You can connect Prediko to as many stores as you want. Prediko supports multi-location inventory management.",
+    "url": "https://www.prediko.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes! Prediko offers a",
+    "url": "https://www.prediko.io/",
+    "pass": 1
+   },
+   {
+    "quote": "that automatically syncs your products, inventory, orders and returns.",
+    "url": "https://www.prediko.io/",
+    "pass": 1
+   },
+   {
+    "quote": "How many users & SKUs can I add to my Prediko account?",
+    "url": "https://www.prediko.io/",
+    "pass": 1
+   },
+   {
+    "quote": "There is no limit on the number of users that you can add to your Prediko account. Prediko supports any SKU count from a few 100s to large product catalogs containing 10,000+ SKUs.",
+    "url": "https://www.prediko.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Success Stories of Inventory Management on Shopify | Prediko",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How Prediko's AI helps Shopify Brands",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "is a community-powered UK retailer that focuses on healthy living and sustainable self-care products across four pillars of health: Eat, Move, Mind, and Sleep. Their mission is to inspire individuals to prioritise their well-being by connecting them with some of the world’s best health brands.",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "At Healf, you’ll find a diverse selection of popular products that align with these pillars.",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Healf aggregates products from multiple brands so inventory management issues hamper its operational efficiency and customer satisfaction:",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": ": Healf struggled to predict inventory demand accurately, leading to either surplus stock or, more critically, stockouts of popular items. They were not using",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Inadequate Support from Previous Solutions",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": ": Healf was managing all inventory operations and SKUs through cumbersome spreadsheets, juggling between both excel and Google spreadsheets.",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How Prediko Solved These Issues for Healf",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Prediko's inventory management solution provided Healf.com with the features and support necessary to overcome their inventory challenges",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": ": Prediko's dashboard gave Healf a clear and comprehensive view of their inventory position, enabling them to make informed decisions about the current situation and also better predict demand.",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": ": With Prediko's help, Healf was able to address and significantly reduce their stockout rates, ensuring",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": ": Prediko stood out by offering exceptional support, promptly answering queries and providing solutions to Healf's challenges, which was a significant improvement over their previous provider.",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Just 2 months into signing up for Prediko, these were the results for Healf.com",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": ", demonstrating a significant improvement in inventory availability and customer satisfaction.",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": ": Improved inventory management led to fewer stockouts- Always a better shopping experience for customers",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "FamCap Switched to Prediko and Sells Through Its Core Range in 60 Days",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "(FAM) is a Germany-based online store specializing in premium and limited-edition caps. Run by two families, the brand regularly releases exclusive drops, including fitted caps, snapbacks, and A-frames in unique colorways.",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Before Prediko, FamCap managed its monthly inventory planning in Excel.",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Every reorder meant hours of analyzing sales, forecasting quantities, matching product images to SKUs, and preparing order sheets. Tracking incoming orders was equally challenging.",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "To clear the excess stock, the business had to offer bigger discounts, eating into profitability.",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Why FamCap Chose Prediko",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Prediko matched what FamCap's business model needed:",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "product images sit next to every SKU, so there's no more matching photos to spreadsheet rows.",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Once Jakob saw the interface and how Prediko worked, the decision was easy.",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Fashion Inventory Management Software for Shopify | Prediko",
+    "url": "https://www.prediko.io/inventory-management-solutions/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "Manage stock across every store and warehouse so that you always stay in stock and on trend. Prediko helps forecast demand by style, size, and color, plan seasonal collections.",
+    "url": "https://www.prediko.io/inventory-management-solutions/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "Spending hours in spreadsheets and clunky apps? Not anymore.",
+    "url": "https://www.prediko.io/inventory-management-solutions/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "Prediko offers an intuitive, Shopify-native platform that helps apparel brands stay lean, stocked, and ready to scale.",
+    "url": "https://www.prediko.io/inventory-management-solutions/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "AI algorithm to forecast demand. Drill into categories, products, and variants to see what works and what doesn’t based on past sales, growth trends, and seasonality.",
+    "url": "https://www.prediko.io/inventory-management-solutions/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "React in real-time with replenishment suggestions for your fast-moving products.",
+    "url": "https://www.prediko.io/inventory-management-solutions/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "If you manufacture or customize, Prediko helps you forecast raw material needs based on your finished goods demand.",
+    "url": "https://www.prediko.io/inventory-management-solutions/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "Prediko pulls all your Shopify data in just a click, so that you can",
+    "url": "https://www.prediko.io/inventory-management-solutions/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "It’s intuitive, easy to use, and anyone on your team can use it without any training.",
+    "url": "https://www.prediko.io/inventory-management-solutions/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "Fashion Brands like You ♥️ Prediko",
+    "url": "https://www.prediko.io/inventory-management-solutions/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "\"Shopify is our sales platform, and we have been looking for an inventory platform for over a year now. At last, we have found Prediko and like everything that we see. No one else comes close.\"",
+    "url": "https://www.prediko.io/inventory-management-solutions/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "\"We've tried a heap of different inventory management apps and none have been suitable for scaling fashion inventory as it requires many different sku's with multiple sizes and colours and most systems don't have the functionality we need and they just run very slowly but Prediko have done an amazing job at overcoming both of these challenges.\"",
+    "url": "https://www.prediko.io/inventory-management-solutions/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "\"It's saving me from hiring a 70K inventory manager! Highly recommended.\"",
+    "url": "https://www.prediko.io/inventory-management-solutions/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "\"Prediko's product is a breeze to set up and work with. Their hands-on approach in onboarding our entire team to the platform was exemplary. We now place POs with newfound confidence, and the impressive results speak for themselves.\"",
+    "url": "https://www.prediko.io/inventory-management-solutions/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "\"The software and customer service are amazing! Prediko’s advanced analytics and reporting tools empowered us at Kate Hewko to predict demand patterns accurately, optimizing stock replenishment and reducing stockouts.\"",
+    "url": "https://www.prediko.io/inventory-management-solutions/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "Guided 1:1 Onboarding",
+    "url": "https://www.prediko.io/inventory-management-solutions/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "15+ Best Shopify Apps for Clothing Stores (Pros, Cons, Pricing)",
+    "url": "https://www.prediko.io/inventory-management-solutions/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "Integrations To Fit Prediko Right Into Your Existing Ecosystem",
+    "url": "https://www.prediko.io/inventory-management-solutions/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "With 150+ integrations with WMS, 3PL providers, and eCommerce platforms, Prediko keeps your inventory current and connected, not stuck in silos or spreadsheets.",
+    "url": "https://www.prediko.io/inventory-management-solutions/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "FAQs on Prediko as a Fashion Inventory Management Software",
+    "url": "https://www.prediko.io/inventory-management-solutions/fashion",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by 3000+ Shopify merchants",
+    "url": "https://www.prediko.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 3000+ Shopify merchants",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "And it shows in the warehouse as FamCap now holds half the inventory it did before Prediko.",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "With better control over purchasing and incoming stock, FamCap now avoids unnecessary orders, uses working capital more effectively, and reduces warehouse costs.",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "MakerFlo manages a growing catalog of single SKUs, case quantities, and bundled products, supported by overseas manufacturing and warehouse operations.",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Inventory Warehouse Manager",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "The leadership, including the Founder and COO, along with the inventory and warehouse managers, now use Prediko every day at MakerFlo.",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Leave notes for manufacturers regarding changes or issues",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Meanwhile, the Inventory Warehouse Manager emphasized alignment.",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "\"A PO on Prediko does not close until we have received every unit to the tee. This keeps us and our manufacturing team always on the same page.”",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Prediko replaces patchwork planning with a platform built for how inventory actually moves, across SKUs, bundles, suppliers, and warehouses.",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Challenge: Static inventory systems and error‑prone warehouse workflows",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Kuppa Joy operates eight retail coffee shops along with a centralized warehouse, roastery, bakery, kitchen, and corporate offices.",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Prior to Prediko, they relied on a mix of manual processes and Thrive Metrics, an inventory platform that worked well for retail shops but struggled to support warehouse and production complexity.",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Limited support for warehouse‑specific needs, such as multiple vendors, lead times, and expiration dates",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Kuppa Joy began looking for tools to simplify warehouse operations. Prediko was evaluated alongside Thrive Metrics, which they were already using and treated as the internal benchmark.",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "stood out for its ability to handle warehouse-level planning while still being easy to use. What ultimately set it apart was its dynamic planning model, which bases inventory decisions on days of usage and automatically accounts for trends, seasonality, and lead times.",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Today, Prediko is used daily across Kuppa Joy’s warehouse and production operations. Department heads, warehouse managers, and production teams, all rely on it because it offers",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "are used every day at Kuppa Joy, both to produce items in the warehouse and to distribute ingredients to retail shops.",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Consumed in production (e.g., beverages made at the warehouse)",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Managing warehouse operations doesn’t have to be a constant battle with whiteboards and manual workarounds.",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "warehouse-level planning",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Established in 2003, it has grown into one of the largest military surplus and tactical gear stores in Europe, with products trusted by professional soldiers, law enforcement officers, reservists, and outdoor enthusiasts.",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "The team has also adapted Prediko creatively to support unique workflows like supplier types (own factories vs. brands), enabled by the system’s ease of use.",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "In no time, Gaëlle and her team gained comprehensive visibility into their sales, revenue, and inventory across all business channels and warehouses. With the support of",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Let's explore how Kate Hewko tackled complex inventory challenges, from overstocking and stockouts to resource management and manual tracking. The absence of a centralized system complicated demand forecasting, while coordinating international warehouses added more complexity.",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Manage stock across every store and warehouse so that you always stay in stock and on trend. Prediko helps forecast demand by style, size, and color, plan seasonal collections.",
+    "url": "https://www.prediko.io/inventory-management-solutions/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 3000+ Shopify merchants",
+    "url": "https://www.prediko.io/inventory-management-solutions/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "Manage bundles, subscriptions, and multi-store and warehouse inventory without switching between different tools.",
+    "url": "https://www.prediko.io/inventory-management-solutions/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "3. Storing and tracking: Managing inventory across warehouses or locations",
+    "url": "https://www.prediko.io/inventory-management-solutions/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 3000+ Shopify merchants",
+    "url": "https://www.prediko.io/inventory-management-solutions/beauty-and-cosmetic",
+    "pass": 1
+   },
+   {
+    "quote": "Best cosmetic inventory tools in 2026 — Prediko (AI-powered planning), Craftybase (raw materials & compliance), Katana (manufacturing & batch tracking), Leafio (AI retail optimization), Orderry (small business), GoFrugal (multi-location & demand forecasting); choose based on scale, compliance needs, and channel mix.",
+    "url": "https://www.prediko.io/inventory-management-solutions/beauty-and-cosmetic",
+    "pass": 1
+   },
+   {
+    "quote": "Configure multiple Shopify locations and set fulfillment priorities to optimize order routing across warehouses.",
+    "url": "https://www.prediko.io/inventory-management-solutions/beauty-and-cosmetic",
+    "pass": 1
+   },
+   {
+    "quote": "Maintain centralized inventory visibility to monitor stock levels across multiple warehouses.",
+    "url": "https://www.prediko.io/inventory-management-solutions/beauty-and-cosmetic",
+    "pass": 1
+   },
+   {
+    "quote": "Define your niche and begin product development through a reliable manufacturer. Set up sourcing, packaging, compliance, and an inventory management tool.",
+    "url": "https://www.prediko.io/inventory-management-solutions/beauty-and-cosmetic",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 3000+ Shopify merchants",
+    "url": "https://www.prediko.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How many stores and warehouses can I connect to Prediko? And can I manage inventory for physical retail on Prediko?",
+    "url": "https://www.prediko.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "You can connect an unlimited amount of stores, and warehouses.",
+    "url": "https://www.prediko.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Prediko can be used by brands generating less than $100K in annual GMV to enterprises generating $50M+.",
+    "url": "https://www.prediko.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We support most of the inventory workflows used by different types of brands. If you would like to discuss your workflow, please feel free to book some with us through contact form.",
+    "url": "https://www.prediko.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "In no time, Gaëlle and her team gained comprehensive visibility into their sales, revenue, and inventory across all business channels and warehouses. With the support of",
+    "url": "https://www.prediko.io/case-studies/we-are-jolies-decreases-stockouts-by-60-with-prediko",
+    "pass": 1
+   },
+   {
+    "quote": "\"We grappled with challenges in managing our inventory, including overstocking, recurrent stockouts, and resource allocation complexities. Manual tracking led to errors and delays, while coordinating inventory across international warehouses added another layer of complexity.\"",
+    "url": "https://www.prediko.io/case-studies/we-are-jolies-decreases-stockouts-by-60-with-prediko",
+    "pass": 1
+   },
+   {
+    "quote": "Founded in 2018, Sync Protein is a game-changer in the food industry, meeting the rising demand for sustainable plant-based protein alternatives.",
+    "url": "https://www.prediko.io/case-studies/how-sync-protein-saves-10-hours-per-week-with-prediko",
+    "pass": 1
+   },
+   {
+    "quote": "Let's explore how Kate Hewko tackled complex inventory challenges, from overstocking and stockouts to resource management and manual tracking. The absence of a centralized system complicated demand forecasting, while coordinating international warehouses added more complexity.",
+    "url": "https://www.prediko.io/case-studies/how-kate-hewko-boosted-inventory-efficiency-by-40-with-prediko",
+    "pass": 1
+   },
+   {
+    "quote": "Kate Hewko's collaboration with Prediko marked a significant turning point, particularly as they expanded into two warehouses. Prediko's supplier information feature streamlined their procurement processes, simplifying the generation of comprehensive purchase orders and automating product grouping by suppliers for efficient supply alignment.",
+    "url": "https://www.prediko.io/case-studies/how-kate-hewko-boosted-inventory-efficiency-by-40-with-prediko",
+    "pass": 1
+   },
+   {
+    "quote": "\"We grappled with challenges in managing our inventory, including overstocking, recurrent stockouts, and resource allocation complexities. Manual tracking led to errors and delays, while coordinating inventory across international warehouses added another layer of complexity.\"",
+    "url": "https://www.prediko.io/case-studies/how-kate-hewko-boosted-inventory-efficiency-by-40-with-prediko",
+    "pass": 1
+   },
+   {
+    "quote": "Established in 2003, it has grown into one of the largest military surplus and tactical gear stores in Europe, with products trusted by professional soldiers, law enforcement officers, reservists, and outdoor enthusiasts.",
+    "url": "https://www.prediko.io/case-studies/varusteleka",
+    "pass": 1
+   },
+   {
+    "quote": "The team has also adapted Prediko creatively to support unique workflows like supplier types (own factories vs. brands), enabled by the system’s ease of use.",
+    "url": "https://www.prediko.io/case-studies/varusteleka",
+    "pass": 1
+   },
+   {
+    "quote": "アプリ 11：PULPO WMS Warehouse Management",
+    "url": "https://unreact.jp/blog/shopify-inventory-management-app-20-selection",
+    "pass": 3
+   },
+   {
+    "quote": "PULPO WMS Warehouse Management",
+    "url": "https://unreact.jp/blog/shopify-inventory-management-app-20-selection",
+    "pass": 3
+   },
+   {
+    "quote": "PULPO WMS Warehouse Management は、名前の通り「倉庫内のオペレーション最適化」に特化したソリューションです",
+    "url": "https://unreact.jp/blog/shopify-inventory-management-app-20-selection",
+    "pass": 3
+   },
+   {
+    "quote": "Makers and manufacturers needing production planning alongside inventory",
+    "url": "https://www.sarasanalytics.com/blog/prediko-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "Scale forecasting across multiple warehouse locations and complex supply chains: Inventory Planner by Sage",
+    "url": "https://www.sarasanalytics.com/blog/prediko-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "Connect manufacturing floor to finished goods inventory: Katana",
+    "url": "https://www.sarasanalytics.com/blog/prediko-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise brands with multi-location warehouses, complex replenishment workflows, and deep forecasting requirements.",
+    "url": "https://www.sarasanalytics.com/blog/prediko-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": ": Manage inventory across multiple warehouses and retail locations",
+    "url": "https://www.sarasanalytics.com/blog/prediko-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "Inventory Planner fits brands with $50M+ revenue, multiple warehouse locations, and dedicated operations teams. For Shopify brands in the $10M to $50M range, the complexity may exceed actual needs.",
+    "url": "https://www.sarasanalytics.com/blog/prediko-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "Multi-warehouse support",
+    "url": "https://www.sarasanalytics.com/blog/prediko-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "7. Katana: Manufacturing and Inventory for Makers",
+    "url": "https://www.sarasanalytics.com/blog/prediko-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "Makers and manufacturers needing production planning, raw materials management, and shop floor scheduling.",
+    "url": "https://www.sarasanalytics.com/blog/prediko-alternatives",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "AI-assisted planning to help you reach your revenue target",
+    "url": "https://www.prediko.io/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Amazing App. Gives a great visual on current and future inventory. We decreased stockout from 4% to 1% in 2 months with Prediko. That’s hundreds of thousands of extra revenue per year unlocked! Team are super supportive to any requests too! Would highly recommend!\"",
+    "url": "https://www.prediko.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Today, Nati Boutique runs 10 stores across Los Angeles, New York, and beyond, with new merchandise arriving every week.",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "The biggest blind spot was inventory in transit. Stock headed to the New York stores could take 4-7 days to arrive, and it wasn't counted until it was received.",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Support mattered just as much. Switching software for such a core part of the business is a risk, and they felt backed by the Prediko team from day one.",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "are a major part of Nati Boutique's daily operations. The team restocks each store based on its own min/max values, so capacity and sales velocity are built into every transfer.",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Printing barcodes straight from a PO is especially useful when new stock arrives every week, saving the team an extra step each time.",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How MakerFlo Cut Stockouts by 35% and Regained 15% in Revenue",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "are a core part of MakerFlo’s catalog, with individual products often included in multiple bundle configurations.",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Showcasing a perfect blend of elegance and comfort, We Are Jolies offers women a captivating array of lingerie that celebrates individuality and beauty in every shape and size. Through their commitment to crafting timeless pieces using luxurious fabrics, the brand has become a trusted companion for confident and stylish women, embracing the essence of femininity and promoting body positivity.",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "In no time, Gaëlle and her team gained comprehensive visibility into their sales, revenue, and inventory across all business channels and warehouses. With the support of",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": ": Prediko provides real-time visibility of sales, revenue, and inventory, acting as a reliable source of truth for businesses.",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": ": Prediko's AI-driven forecasting enables businesses to predict sales trends, optimising inventory and driving increased revenue.",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Despite their flourishing business, they face inventory operation challenges stemming from manual processes, Excel spreadsheets, and data reconciliation across multiple sources. These issues result in inconsistencies between forecasts and stock levels, leading to inefficiencies, increased costs, and missed revenue opportunities.",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How Obsidian Piercing increased best seller revenue by 200%",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "After placing their first purchase order with Prediko, they doubled their revenue by increasing their in-stock rate by 50%! This is game changer for the team at Obsidian - more revenue by having the right products at the right time.",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Kimaï chose Prediko to solve their inventory management challenges, and Sidney swiftly set up their Prediko account with a single click, seamlessly integrating it with their three Shopify stores. Prediko efficiently assimilated all their historical sales, revenue, and product data within just 30 minutes.",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": ": By leveraging Prediko, Cloudsharks has significantly diminished instances of stockouts, preventing potential revenue loss and enhancing customer satisfaction.",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "We Narrowed 1000 to 10 Best Shopify Inventory Management Apps",
+    "url": "https://www.prediko.io/inventory-management-solutions/beauty-and-cosmetic",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue & AI Inventory Forecasting",
+    "url": "https://www.prediko.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "All plans include revenue and sales forecasting, inventory planning and purchase order management, buying alerts, reporting, stock takes and barcode label printing.",
+    "url": "https://www.prediko.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "What business revenue does Prediko support?",
+    "url": "https://www.prediko.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "increase in revenue 💰",
+    "url": "https://www.prediko.io/case-studies/we-are-jolies-decreases-stockouts-by-60-with-prediko",
+    "pass": 1
+   },
+   {
+    "quote": "Showcasing a perfect blend of elegance and comfort, We Are Jolies offers women a captivating array of lingerie that celebrates individuality and beauty in every shape and size. Through their commitment to crafting timeless pieces using luxurious fabrics, the brand has become a trusted companion for confident and stylish women, embracing the essence of femininity and promoting body positivity.",
+    "url": "https://www.prediko.io/case-studies/we-are-jolies-decreases-stockouts-by-60-with-prediko",
+    "pass": 1
+   },
+   {
+    "quote": "In no time, Gaëlle and her team gained comprehensive visibility into their sales, revenue, and inventory across all business channels and warehouses. With the support of",
+    "url": "https://www.prediko.io/case-studies/we-are-jolies-decreases-stockouts-by-60-with-prediko",
+    "pass": 1
+   },
+   {
+    "quote": ": Prediko provides real-time visibility of sales, revenue, and inventory, acting as a reliable source of truth for businesses.",
+    "url": "https://www.prediko.io/case-studies/we-are-jolies-decreases-stockouts-by-60-with-prediko",
+    "pass": 1
+   },
+   {
+    "quote": ": Prediko's AI-driven forecasting enables businesses to predict sales trends, optimising inventory and driving increased revenue.",
+    "url": "https://www.prediko.io/case-studies/we-are-jolies-decreases-stockouts-by-60-with-prediko",
+    "pass": 1
+   },
+   {
+    "quote": "How Obsidian Piercing increased best seller revenue by 200%",
+    "url": "https://www.prediko.io/case-studies/how-obsidian-piercing-increased-best-seller-revenue-by-200-with-prediko",
+    "pass": 1
+   },
+   {
+    "quote": "After placing their first purchase order with Prediko, they doubled their revenue by increasing their in-stock rate by 50%! This is game changer for the team at Obsidian - more revenue by having the right products at the right time.",
+    "url": "https://www.prediko.io/case-studies/how-obsidian-piercing-increased-best-seller-revenue-by-200-with-prediko",
+    "pass": 1
+   },
+   {
+    "quote": "Despite their flourishing business, they face inventory operation challenges stemming from manual processes, Excel spreadsheets, and data reconciliation across multiple sources. These issues result in inconsistencies between forecasts and stock levels, leading to inefficiencies, increased costs, and missed revenue opportunities.",
+    "url": "https://www.prediko.io/case-studies/how-sync-protein-saves-10-hours-per-week-with-prediko",
+    "pass": 1
+   },
+   {
+    "quote": "\"Amazing App. Gives a great visual on current and future inventory. We decreased stockout from 4% to 1% in 2 months with Prediko. That’s hundreds of thousands of extra revenue per year unlocked! Team are super supportive to any requests too! Would highly recommend!\"",
+    "url": "https://www.prediko.io/case-studies/healf",
+    "pass": 1
+   },
+   {
+    "quote": "\"We decreased stockout from 4% to 1% in 2 months with Prediko. That’s hundreds of thousands of extra revenue per year unlocked!\"",
+    "url": "https://www.prediko.io/case-studies/healf",
+    "pass": 1
+   },
+   {
+    "quote": "Kimaï chose Prediko to solve their inventory management challenges, and Sidney swiftly set up their Prediko account with a single click, seamlessly integrating it with their three Shopify stores. Prediko efficiently assimilated all their historical sales, revenue, and product data within just 30 minutes.",
+    "url": "https://www.prediko.io/case-studies/how-kimai-leverages-prediko-to-save-20-hours-week-on-inventory-management",
+    "pass": 1
+   },
+   {
+    "quote": "\"Growing purely on pre-orders is complicated. Before Prediko our growth mostly relied on pre-orders which was impacting our customer satisfaction. They are frustrated to wait for production and delivery times. The other big pain point the missing revenue opportunity as customers are less likely to convert when a product is out of stock.\"",
+    "url": "https://www.prediko.io/case-studies/how-azio-beauty-increased-profitability-and-nps-with-prediko",
+    "pass": 1
+   },
+   {
+    "quote": "\"Buy table is by far my favourite part of the app. I have all the info about my stock at my fingertips. Stock level, Days Left, Reordering date, Units to repurchase, and so much more!",
+    "url": "https://help.prediko.io/en/articles/9424888-what-is-prediko",
+    "pass": 3
+   },
+   {
+    "quote": "Stock forecasting tells you when to reorder. But after you've placed the PO, the real questions arrive: Will this inventory move fast enough to avoid eating working capital? Are we restocking products that attract high-value repeat buyers or one-time discount hunters? When the board asks why",
+    "url": "https://www.sarasanalytics.com/blog/prediko-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "But as brands cross $10M in revenue, the questions change:",
+    "url": "https://www.sarasanalytics.com/blog/prediko-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "Customer analytics with acquisition attributes",
+    "url": "https://www.sarasanalytics.com/blog/prediko-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "Inventory Planner fits brands with $50M+ revenue, multiple warehouse locations, and dedicated operations teams. For Shopify brands in the $10M to $50M range, the complexity may exceed actual needs.",
+    "url": "https://www.sarasanalytics.com/blog/prediko-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "Flieber addresses a gap that Prediko and other Shopify-focused tools leave open: unified inventory management across marketplaces. For brands where Amazon represents significant revenue alongside Shopify, this multichannel capability proves essential.",
+    "url": "https://www.sarasanalytics.com/blog/prediko-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "This gap matters more as brands scale. At $10M in revenue, you can afford some inventory mistakes. At $50M, those mistakes compound into serious cash flow problems and margin erosion.",
+    "url": "https://www.sarasanalytics.com/blog/prediko-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "What revenue threshold makes investing in analytics-first inventory intelligence worthwhile?",
+    "url": "https://www.sarasanalytics.com/blog/prediko-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "A subscription platform migration can reset tenure, so loyal subscribers look new and retention looks broken. What has to carry over to keep your history.",
+    "url": "https://www.sarasanalytics.com/blog/prediko-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "The Revenue Mix That Drives Your Valuation",
+    "url": "https://www.sarasanalytics.com/blog/prediko-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "What Your Subscription-to-One-Time Revenue Split Is Actually Worth",
+    "url": "https://www.sarasanalytics.com/blog/prediko-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "Two brands with equal revenue are worth different amounts when the subscription mix differs. How to read revenue composition by entry path and value it.",
+    "url": "https://www.sarasanalytics.com/blog/prediko-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "Which Acquisition Channels Actually Bring High-Value Subscribers",
+    "url": "https://www.sarasanalytics.com/blog/prediko-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "The cheapest channel rarely brings your highest-LTV subscribers. How reading lifetime value by acquisition channel changes where the next dollar goes.",
+    "url": "https://www.sarasanalytics.com/blog/prediko-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "A blended LTV averages away your best and worst subscribers. How reading LTV by entry product and acquisition cohort re-ranks who is worth acquiring.",
+    "url": "https://www.sarasanalytics.com/blog/prediko-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "A rising subscriber count can hide a base that is losing ground. How to read net adds against gross adds before you scale acquisition spend.",
+    "url": "https://www.sarasanalytics.com/blog/prediko-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "The LTV most brands report is revenue, not profit, so it overstates customer worth. How moving to contribution-margin LTV re-ranks your best customers.",
+    "url": "https://www.sarasanalytics.com/blog/prediko-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "A subscriber and a one-time buyer with equal revenue can deliver very different profit. How true contribution margin by entry path changes what you choose to grow.",
+    "url": "https://www.sarasanalytics.com/blog/prediko-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "Blended retention hides a newer-cohort problem until it is costly. How comparing recent cohorts to last year tells you whether acquisition quality is slipping or the market is soft.",
+    "url": "https://www.sarasanalytics.com/blog/prediko-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "A reactivated subscriber carries different costs and retention than a first-timer, and often pays back faster. How to compare win-back spend against new acquisition.",
+    "url": "https://www.sarasanalytics.com/blog/prediko-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "The entry product you scale for cheap first orders may be the one feeding churn. How reading retention by starting SKU changes where acquisition budget goes.",
+    "url": "https://www.sarasanalytics.com/blog/prediko-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "A revenue-based LTV:CAC can look healthy while most of your spend buys customers worth less than they cost. How margin-based LTV by cohort fixes it.",
+    "url": "https://www.sarasanalytics.com/blog/prediko-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "A blended CAC averages subscribers and one-time buyers, hiding which channels build recurring revenue. How splitting CAC by customer type changes what you fund.",
+    "url": "https://www.sarasanalytics.com/blog/prediko-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "Your subscription retention rate can rise for reasons that have nothing to do with loyalty. How to read the real number before you scale acquisition spend.",
+    "url": "https://www.sarasanalytics.com/blog/prediko-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "Explore the 10 best Shopify subscription apps for 2026, comparing features, pricing, retention tools, and analytics to help brands grow recurring revenue.",
+    "url": "https://www.sarasanalytics.com/blog/prediko-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "Seasonality, revenue targets, and forecast refresh settings",
+    "url": "https://www.youtube.com/watch?v=ZqVVkV7CrWM",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Download or email PDF POs to suppliers directly",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "We’re rated 5 stars on the Shopify App Store for a reason. Reach us anytime via Slack, chat, or email and get answers right when you need them.",
+    "url": "https://www.prediko.io/inventory-management-solutions/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "We’re rated 5 stars on the Shopify App Store for a reason. Reach us anytime via Slack, chat, or email and get answers right when you need them.",
+    "url": "https://www.prediko.io/inventory-management-solutions/beauty-and-cosmetic",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us on Intercom (bottom right of your screen) or send us a demo request and we’ll be in touch with you :)",
+    "url": "https://www.prediko.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Please don't hesitate to contact us if you require assistance with inventory management or planning.",
+    "url": "https://apps.shopify.com/prediko/reviews?locale=ja&page=27",
+    "pass": 3
+   },
+   {
+    "quote": "Please enter an email address",
+    "url": "https://app.prediko.io/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "多言語対応（日本語含む） / 在庫ヘルスチェック / 購買計画の自動化 / まとめて発注可能な Purchase Order 管理",
+    "url": "https://unreact.jp/blog/shopify-inventory-management-app-20-selection",
+    "pass": 3
+   },
+   {
+    "quote": "多言語対応で日本語もカバーしているため、海外製アプリによくある言語のハードルも低め",
+    "url": "https://unreact.jp/blog/shopify-inventory-management-app-20-selection",
+    "pass": 3
+   },
+   {
+    "quote": "日本語 UI・日本語サポート / 販売ペース・在庫カバー日数・季節性から発注時期を予測 / 適格請求書登録番号と税率区分に対応した発注書 / Stocky からのデータ移行に対応",
+    "url": "https://unreact.jp/blog/shopify-inventory-management-app-20-selection",
+    "pass": 3
+   },
+   {
+    "quote": "」をそのまま置き換えることを狙って作られた日本製アプリです",
+    "url": "https://unreact.jp/blog/shopify-inventory-management-app-20-selection",
+    "pass": 3
+   },
+   {
+    "quote": "アラートはメール・Slack・LINE に対応し、LINE が使えるのは日本の小規模事業者の連絡手段としては現実的な選択",
+    "url": "https://unreact.jp/blog/shopify-inventory-management-app-20-selection",
+    "pass": 3
+   },
+   {
+    "quote": "日本ではまだ委託販売やリセールに特化した在庫管理アプリは数が少ないため、この領域の EC 展開を考えている方は要注目",
+    "url": "https://unreact.jp/blog/shopify-inventory-management-app-20-selection",
+    "pass": 3
+   },
+   {
+    "quote": "インボイス制度に沿った発注書や日本語サポートを重視するなら",
+    "url": "https://unreact.jp/blog/shopify-inventory-management-app-20-selection",
+    "pass": 3
+   },
+   {
+    "quote": "：UreyukiBox のような日本製アプリが候補",
+    "url": "https://unreact.jp/blog/shopify-inventory-management-app-20-selection",
+    "pass": 3
+   },
+   {
+    "quote": "全195個の日本製 Shopify アプリを見る",
+    "url": "https://unreact.jp/blog/shopify-inventory-management-app-20-selection",
+    "pass": 3
+   },
+   {
+    "quote": "セット商品管理、マルチストア同期、リアルタイム在庫更新機能など、2025年最新のおすすめアプリと価格、日本語サポート状況を解説",
+    "url": "https://unreact.jp/blog/shopify-inventory-management-app-20-selection",
+    "pass": 3
+   },
+   {
+    "quote": "英語、 ドイツ語、 スペイン語、 フランス語、 ヘブライ語、 日本語、 ロシア語、 スウェーデン語、 中国語 (簡体字)、と ポルトガル語 (ブラジル)",
+    "url": "https://apps.shopify.com/prediko?locale=ja",
+    "pass": 3
+   },
+   {
+    "quote": "この開発者は日本語での直接的なサポートを提供していません",
+    "url": "https://apps.shopify.com/prediko?locale=ja",
+    "pass": 3
+   },
+   {
+    "quote": "そこで今回は、トレンド変化の背景と今アメリカで注目されているバックオフィス系Shopifyアプリ、日本のバックオフィス系ツールを紹介する",
+    "url": "https://note.com/cerealtalk/n/na27911d1bcd0",
+    "pass": 3
+   },
+   {
+    "quote": "上記のShopifyアプリはアメリカ市場向けのツールのため、日本語に対応していないのみならず日本ならではの商慣習や地理情報を加味しておらず日本のブランドが導入するのは難しいものも多い",
+    "url": "https://note.com/cerealtalk/n/na27911d1bcd0",
+    "pass": 3
+   },
+   {
+    "quote": "そこでジャンルごとに日本のバックオフィス系ツールをまとめて紹介する",
+    "url": "https://note.com/cerealtalk/n/na27911d1bcd0",
+    "pass": 3
+   },
+   {
+    "quote": "」が先行者だが、Yoomは日本のSaaSとの連携が豊富",
+    "url": "https://note.com/cerealtalk/n/na27911d1bcd0",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "What is Prediko ? - Prediko Inventory Management Shopify App — What is Prediko ? - Prediko Inventory Management Shopify App Prediko https://help.prediko.io > articles > 942...",
+    "url": "https://help.prediko.io/en/articles/9424888-what-is-prediko",
+    "pass": 3
+   },
+   {
+    "quote": "Prediko Inventory Management - AI 在庫予測 - Shopify App Store — Prediko Inventory Management - AI 在庫予測 - Shopify App Store Shopify App Store https://apps.shopify.com > prediko > reviews",
+    "url": "https://apps.shopify.com/prediko/reviews?locale=ja&page=27",
+    "pass": 3
+   },
+   {
+    "quote": "Prediko : AI Inventory Management & Planner For eCommerce ... — Prediko : AI Inventory Management & Planner For eCommerce ... Prediko https://www.prediko.io",
+    "url": "https://www.prediko.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing & Plans for Shopify Inventory Management App - Prediko — Pricing & Plans for Shopify Inventory Management App - Prediko Prediko https://www.prediko.io > pricing",
+    "url": "https://www.prediko.io/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Prediko - Shopify Partners Directory — Prediko - Shopify Partners Directory Shopify https://www.shopify.com > prediko-ltd",
+    "url": "https://www.shopify.com/in/partners/directory/partner/prediko-ltd",
+    "pass": 3
+   },
+   {
+    "quote": "Prediko Inventory Management - Shopify App Store — Prediko Inventory Management - Shopify App Store Shopify App Store https://apps.shopify.com > prediko",
+    "url": "https://apps.shopify.com/prediko",
+    "pass": 3
+   },
+   {
+    "quote": "Login - Prediko — Login - Prediko Prediko https://app.prediko.io",
+    "url": "https://app.prediko.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Prediko - LinkedIn — Prediko - LinkedIn LinkedIn https://uk.linkedin.com > prediko",
+    "url": "https://uk.linkedin.com/company/prediko",
+    "pass": 3
+   },
+   {
+    "quote": "Prediko | Reviews, Pricing & Demos - SoftwareAdvice AU — Prediko | Reviews, Pricing & Demos - SoftwareAdvice AU softwareadvice.com.au https://www.softwareadvice.com.au > ...",
+    "url": "https://www.softwareadvice.com.au/software/523925/Prediko",
+    "pass": 3
+   },
+   {
+    "quote": "How to Set Up Prediko : Shopify Inventory Forecasting ... — How to Set Up Prediko : Shopify Inventory Forecasting ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=IWUFOfiPmUI",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories of Inventory Management on Shopify - Prediko — Success Stories of Inventory Management on Shopify - Prediko Prediko https://www.prediko.io > case-studies",
+    "url": "https://www.prediko.io/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "7 Best Prediko Alternatives in 2026 | Saras Analytics — 7 Best Prediko Alternatives in 2026 | Saras Analytics Saras Analytics https://www.sarasanalytics.com > blog",
+    "url": "https://www.sarasanalytics.com/blog/prediko-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "How to Set Up Prediko : Shopify Inventory Forecasting ... — How to Set Up Prediko : Shopify Inventory Forecasting ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=ZqVVkV7CrWM",
+    "pass": 3
+   },
+   {
+    "quote": "Prediko Revenue 2024: $1.4M Est., $5.5M Raised - GetLatka — Prediko Revenue 2024: $1.4M Est., $5.5M Raised - GetLatka GetLatka https://getlatka.com > prediko",
+    "url": "https://getlatka.com/companies/prediko",
+    "pass": 3
+   },
+   {
+    "quote": "Prediko - 2026 Company Profile & Team - Tracxn — Prediko - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/prediko/__glQ591azhtX3IlDT-j7rf-1NjZEZcOLAhJO3dkkwxLA",
+    "pass": 3
+   },
+   {
+    "quote": "About Prediko Inventory Management Shopify App — About Prediko Inventory Management Shopify App Prediko https://www.prediko.io > about-us",
+    "url": "https://www.prediko.io/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "Prediko - Crunchbase Company Profile & Funding — Prediko - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > prediko",
+    "url": "https://www.crunchbase.com/organization/prediko",
+    "pass": 3
+   },
+   {
+    "quote": "With Prediko , online brands should never run out of stock — With Prediko , online brands should never run out of stock TechCrunch https://techcrunch.com > 2022/09/14",
+    "url": "https://techcrunch.com/2022/09/14/with-prediko-online-brands-should-never-run-out-of-stock/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Northbeam Review 2026: Is It the Right Attribution Tool for Your Brand?",
+    "url": "https://www.sarasanalytics.com/blog/prediko-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "BeProfit pricing in 2026: compare plans, order limits, hidden costs, features, and alternatives to find the right ecommerce analytics solution for your brand.",
+    "url": "https://www.sarasanalytics.com/blog/prediko-alternatives",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "次のShopifyは誰だ！？コマースバックエンドの新潮流と注目の日米スタ... Dec 8, 2024 · Prediko: AI Inventory Management & Financing For Shopify Brands Prediko is a Shopify app that helps D2C brands improve invent www.prediko.io",
+    "url": "https://note.com/cerealtalk/n/na27911d1bcd0",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "次のShopifyは誰だ！？コマースバックエンドの新潮流と注目の日米スタートアップ11選｜CEREAL TALK（シリアルトーク）",
+    "url": "https://note.com/cerealtalk/n/na27911d1bcd0",
+    "pass": 3
+   },
+   {
+    "quote": "次のShopifyは誰だ！？コマースバックエンドの新潮流と注目の日米スタートアップ11選",
+    "url": "https://note.com/cerealtalk/n/na27911d1bcd0",
+    "pass": 3
+   },
+   {
+    "quote": "これまでShopifyアプリといえばメールマーケティングツール「",
+    "url": "https://note.com/cerealtalk/n/na27911d1bcd0",
+    "pass": 3
+   },
+   {
+    "quote": "」のように、購買体験を上げ売り上げを増やすマーケティングツールが人気を博してきた。",
+    "url": "https://note.com/cerealtalk/n/na27911d1bcd0",
+    "pass": 3
+   },
+   {
+    "quote": "▼これまで紹介した注目のShopifyアプリまとめ",
+    "url": "https://note.com/cerealtalk/n/na27911d1bcd0",
+    "pass": 3
+   },
+   {
+    "quote": "しかしこの数年で受注管理や在庫予測といったバックオフィス系のShopifyアプリに注目が集まっている。Shopifyアプリのトレンド変化の裏には、D2Cブランドの戦略の変化と規模の拡大によるビジネスの複雑化がある。",
+    "url": "https://note.com/cerealtalk/n/na27911d1bcd0",
+    "pass": 3
+   },
+   {
+    "quote": "そこで今回は、トレンド変化の背景と今アメリカで注目されているバックオフィス系Shopifyアプリ、日本のバックオフィス系ツールを紹介する。",
+    "url": "https://note.com/cerealtalk/n/na27911d1bcd0",
+    "pass": 3
+   },
+   {
+    "quote": "流通チャネルの増加とバックオフィス業務の複雑化",
+    "url": "https://note.com/cerealtalk/n/na27911d1bcd0",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Prediko - LinkedIn Prediko - LinkedIn LinkedIn https://uk.linkedin.com > prediko",
+    "url": "https://uk.linkedin.com/company/prediko",
+    "pass": 3
+   },
+   {
+    "quote": "Anubhav Narula - Head of Inbound, Website & LLM at Prediko Anubhav Narula - Head of Inbound, Website & LLM at Prediko LinkedIn India https://in.linkedin.com > anubhav-nar...",
+    "url": "https://in.linkedin.com/in/anubhav-narula",
+    "pass": 3
+   },
+   {
+    "quote": "Isobel Shaw - Prediko | AI Inventory Management for Shopify ... Isobel Shaw - Prediko | AI Inventory Management for Shopify ... LinkedIn https://uk.linkedin.com > ...",
+    "url": "https://uk.linkedin.com/in/isobel-shaw-5b8a70173",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Prediko - centrum prenatální diagnostiky a genetiky | Zlín Prediko - centrum prenatální diagnostiky a genetiky | Zlín Facebook https://www.facebook.com > media > set > vanity=centru...",
+    "url": "https://www.facebook.com/media/set/?vanity=centrumprediko&set=a.449523370513062",
+    "pass": 3
+   },
+   {
+    "quote": "Prediko - centrum prenatální diagnostiky a genetiky | Zlín Prediko - centrum prenatální diagnostiky a genetiky | Zlín Facebook https://www.facebook.com > ... > Medical Service",
+    "url": "https://www.facebook.com/centrumprediko/",
+    "pass": 3
+   },
+   {
+    "quote": "Prediko - centrum prenatální diagnostiky a genetiky ... Prediko - centrum prenatální diagnostiky a genetiky ... Facebook https://www.facebook.com > centrumprediko > photos",
+    "url": "https://www.facebook.com/centrumprediko/photos/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.prediko.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prediko.io/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prediko.io/inventory-management-solutions/fashion",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prediko.io/inventory-management-solutions/beauty-and-cosmetic",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prediko.io/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prediko.io/case-studies/we-are-jolies-decreases-stockouts-by-60-with-prediko",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prediko.io/case-studies/how-obsidian-piercing-increased-best-seller-revenue-by-200-with-prediko",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prediko.io/case-studies/how-sync-protein-saves-10-hours-per-week-with-prediko",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prediko.io/case-studies/healf",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prediko.io/case-studies/how-kimai-leverages-prediko-to-save-20-hours-week-on-inventory-management",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prediko.io/case-studies/how-kate-hewko-boosted-inventory-efficiency-by-40-with-prediko",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prediko.io/case-studies/varusteleka",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prediko.io/case-studies/lori-beds",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prediko.io/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prediko.io/case-studies/bright-body",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prediko.io/case-studies/how-azio-beauty-increased-profitability-and-nps-with-prediko",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://help.prediko.io/en/articles/9424888-what-is-prediko",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://apps.shopify.com/prediko/reviews?locale=ja&page=27",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unreact.jp/blog/shopify-inventory-management-app-20-selection",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://apps.shopify.com/prediko/reviews?locale=ja&page=27",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.manageengine.jp/pace/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://apps.shopify.com/prediko?locale=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://app.prediko.io/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://uk.linkedin.com/company/prediko",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.softwareadvice.com.au/software/523925/Prediko",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://c3.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sarasanalytics.com/blog/prediko-alternatives",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=ZqVVkV7CrWM",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.agencyplatform.com/seo-reseller-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/prediko",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/prediko/__glQ591azhtX3IlDT-j7rf-1NjZEZcOLAhJO3dkkwxLA",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/prediko",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/cerealtalk/n/na27911d1bcd0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uk.linkedin.com/company/prediko",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/anubhav-narula",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/isobel-shaw-5b8a70173",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/media/set/?vanity=centrumprediko&set=a.449523370513062",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/centrumprediko/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/centrumprediko/photos/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Prediko 日本 導入",
+   "results": [
+    "https://help.prediko.io/en/articles/9424888-what-is-prediko",
+    "https://apps.shopify.com/prediko/reviews?locale=ja&page=27",
+    "https://www.prediko.io/",
+    "https://unreact.jp/blog/shopify-inventory-management-app-20-selection",
+    "https://note.com/cerealtalk/n/na27911d1bcd0",
+    "https://apps.shopify.com/prediko?locale=ja",
+    "https://www.kiyono-co.jp/post/ec-site-ai-application",
+    "https://www.deloitte.com/jp/ja/services/consulting/perspectives/next-generation-strategy.html",
+    "https://www.sumitomocorp.com/ja/settings/News-Data/release",
+    "https://ryokin.akihisa.net/tools/prediko/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Prediko 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.prediko.io/",
+    "https://apps.shopify.com/prediko/reviews?locale=ja&page=27",
+    "https://www.prediko.io/pricing",
+    "https://www.manageengine.jp/pace/",
+    "https://www.shopify.com/in/partners/directory/partner/prediko-ltd",
+    "https://partner.infinicloud.com/agencypartner.html",
+    "https://prtimes.jp/topics/keywords/%E6%97%A5%E6%9C%AC%E7%B7%8F%E4%BB%A3%E7%90%86%E5%BA%97",
+    "https://tigereye.ai/partners/",
+    "https://www.youtube.com/watch?v=ghPfaeMcScI",
+    "https://metoree.com/companies/distributors-relationships/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Prediko Japan",
+   "results": [
+    "https://apps.shopify.com/prediko",
+    "https://app.prediko.io/",
+    "https://uk.linkedin.com/company/prediko",
+    "https://www.softwareadvice.com.au/software/523925/Prediko",
+    "https://www.youtube.com/watch?v=IWUFOfiPmUI",
+    "https://www.crunchbase.com/organization/prediko",
+    "https://www.fabrikator.io/vs/prediko",
+    "https://www.prediko.io/",
+    "https://www.youtube.com/watch?v=uVQuCzd241g",
+    "https://prediksikikototo.org/category/prediksi-japan/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Prediko manufacturing customer case study",
+   "results": [
+    "https://www.prediko.io/case-studies",
+    "https://c3.ai/customers",
+    "https://www.sarasanalytics.com/blog/prediko-alternatives",
+    "https://www.youtube.com/watch?v=ZqVVkV7CrWM",
+    "https://deephow.com/customer-stories",
+    "https://apps.shopify.com/prediko/reviews",
+    "https://www.industryweek.com/leadership/strategic-planning-execution/article/21261091/winning-with-customer-case-studies-4-tips-6-pitfalls",
+    "https://www.griddynamics.com/blog/case-studies",
+    "https://www.explorium.ai/resource/driving-manufacturing-success-with-predictive-prospecting/",
+    "https://www.nightborn.com/projects/prediko"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Prediko white label OR reseller OR partner program",
+   "results": [
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://www.agencyplatform.com/seo-reseller-program/",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://www.prediko.io/",
+    "https://journeybee.io/resources/beyond-co-branding-why-white-label-partner-software-defines-winning-partnerships",
+    "https://www.mastercard.com/europe/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Prediko founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/prediko",
+    "https://tracxn.com/d/companies/prediko/__glQ591azhtX3IlDT-j7rf-1NjZEZcOLAhJO3dkkwxLA",
+    "https://www.prediko.io/about-us",
+    "https://www.crunchbase.com/organization/prediko",
+    "https://techcrunch.com/2022/09/14/with-prediko-online-brands-should-never-run-out-of-stock/",
+    "https://www.businessinsider.com/prediko-raises-5-million-to-help-shopify-businesses-manage-inventory-2022-9",
+    "https://uk.linkedin.com/company/prediko",
+    "https://www.trysignalbase.com/news/funding/prediko-secures-5-million-investment-to-revolutionize-inventory-management-for-digital-native-brands",
+    "https://app.welcometothejungle.com/companies/Prediko",
+    "https://pitchbook.com/profiles/company/462207-61"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Prediko",
+   "results": [
+    "https://note.com/cerealtalk/n/na27911d1bcd0?hl=en",
+    "https://note.com/ultimatepotato/n/n1143454e9462",
+    "https://note.com/diparururun",
+    "https://note.com/cerealtalk/n/na27911d1bcd0",
+    "https://note.com/rk611/n/n56e6db823eb1",
+    "https://note.com/uchita_success/n/n030ad63765d3",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/mmiya/n/n9a3350ffdcb0",
+    "https://note.com/jinseikoryaku_/n/n6df696f04d02"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:x.com Prediko",
+   "results": [
+    "https://x.com/moya_jovit/status/1447538657011781637",
+    "https://x.com/moya_jovit/status/1447538657011781637?lang=bg",
+    "https://x.com/naughtyclucky/status/1975837485814177834"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 3
+  },
+  {
+   "query": "site:linkedin.com Prediko",
+   "results": [
+    "https://uk.linkedin.com/company/prediko",
+    "https://uk.linkedin.com/in/youri-moskovic-688a0a62",
+    "https://in.linkedin.com/in/anubhav-narula",
+    "https://uk.linkedin.com/in/isobel-shaw-5b8a70173",
+    "https://fr.linkedin.com/in/nicolas-sabatier-834247285",
+    "https://in.linkedin.com/in/bani-kaur12",
+    "https://www.linkedin.com/posts/prediko_nati-boutique-replaced-stocky-with-prediko-activity-7521581634559647745-w2NR",
+    "https://uk.linkedin.com/in/jonasdebeuk",
+    "https://ch.linkedin.com/in/cyrus-mahler-719281a3",
+    "https://uk.linkedin.com/in/sebastian-bailey-3113655a"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Prediko",
+   "results": [
+    "https://www.facebook.com/media/set/?vanity=centrumprediko&set=a.449523370513062",
+    "https://www.facebook.com/centrumprediko/",
+    "https://www.facebook.com/centrumprediko/photos/",
+    "https://www.facebook.com/LocalMattersPodcastofGeorgia/posts/meet-amy-sharma-amy-sharma-phd-is-executive-director-of-science-for-georgia-a-no/1019642427480628/",
+    "https://www.facebook.com/zainabalerts/videos/please-help-us-find-izhan-he-is-missing-since-october-2nd-from-sheikhupura-punja/1076625895236704/",
+    "https://www.facebook.com/zainabalerts/videos/please-help-us-find-hareesh-kumar-he-is-missing-since-september-29th-from-mirpur/3682479678575996/",
+    "https://www.facebook.com/rajeshzone7/videos/the-secret-behind-how-childhood-pencils-are-made-%EF%B8%8F/1326951912607450/",
+    "https://www.facebook.com/absolutesoundsltd/videos/enjoying-a-tribute-to-ella-fitzgerald-performed-by-clare-teal-and-the-syd-lawren/1862282221398088/",
+    "https://www.facebook.com/wwwcintaalam/",
+    "https://www.facebook.com/p/Prediko-100090623054544/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Prediko note 社長",
+   "results": [
+    "https://www.forbes.com/profile/prediko/",
+    "https://www.prediko.io/about-us",
+    "https://note.com/ai_aibo",
+    "https://note.com/ai_realestate",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/ceo_offrecord",
+    "https://www.youtube.com/watch?v=uAkUmCBiuxA",
+    "https://xtrend.nikkei.com/atcl/contents/18/00967/00015/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Prediko X 投稿",
+   "results": [
+    "https://www.youtube.com/watch?v=IWUFOfiPmUI",
+    "https://help.prediko.io/en/collections/3615808-prediko-features",
+    "https://apps.shopify.com/prediko?locale=ja",
+    "https://www.youtube.com/watch?v=aOqRbamnE8s",
+    "https://www.youtube.com/watch?v=QOq0PtvNZw8",
+    "https://help.prediko.io/en/collections/3322491-getting-started",
+    "https://apps.shopify.com/partners/prediko-ltd?locale=ja",
+    "https://www.youtube.com/watch?v=uVQuCzd241g",
+    "https://note.com/ai_dev_lab/n/n49fd66fad5a4",
+    "https://www.prediko.io/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部26頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部26頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部26頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部26頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部26頁・検索12回）"
+ }
+}

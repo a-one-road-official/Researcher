@@ -3807,11 +3807,11 @@
 
 ## 統計の調査年と実績年・裾切り・臨時雇用者で数字がずれる点の実務の解説（survey year vs reference year statistics pitfalls Japan census）
 - 文脈：一次情報の探し方
-- 手順・やり方：記載なし（読んだ21頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ21頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ21頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ21頁・検索12回）
-- 実例：記載なし（読んだ21頁・検索12回）
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 中小の決算公告の公告方法ごとの開示範囲と、純資産の前期比で損益の向きを読む実務（SME public notice disclosure scope by method net assets change profit trend）
 - 文脈：
@@ -11250,21 +11250,21 @@
 ## スキャンした画像のPDFの表をOCRで読むときの数字の確かめ方（桁・小数点・カンマの取り違え・合計との突き合わせ・行数の照合）を書く書き手と媒体（IJNet・Tabula の使い方の事例の続き）（verify numbers OCR scanned PDF tables journalism totals check digits errors）
 - 文脈：統計
 - 手順・やり方：
-  - 「主な処理ステップは3つあります：」（https://parseur.com/ja/burogu/pdf-ocr）
-  - 「多くの従来型OCRはテキストのみ抽出し、他アプリケーションへの連携が難しいケースがあります」（https://parseur.com/ja/burogu/pdf-ocr）
-  - 「従来型OCRの限界を克服するため、ゾーンOCRやAI OCRなどの高度なOCR技術が登場しています」（https://parseur.com/ja/burogu/pdf-ocr）
-  - 「はもっと広義の概念で、OCR・パース・スクレイピング・コピー&ペーストなど、何らかの方法でPDFからデータを取り出す手法すべてを含みます」（https://parseur.com/ja/burogu/pdf-ocr）
-  - 「AI OCR（人工知能による光学式文字認識）は、従来型の文字認識技術に機械学習やディープラーニングを組み合わせて、文書からテキストを自動的に抽出・分類・構造化します」（https://parseur.com/ja/burogu/pdf-ocr）
-  - 「2026年にPDFファイルからデータを抽出する方法」（https://parseur.com/ja/burogu/pdf-ocr）
-  - 「この記事では、Parseurを使って数秒でPDFから自動的にデータを抽出する方法を解説します」（https://parseur.com/ja/burogu/pdf-ocr）
-  - 「文字認識（OCR）で働き方が激変！?目視チェック＆手入力を今すぐやめる方法｜ものづくりの現場トピックス | キーエンス」（https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp）
-  - 「文字認識（OCR）で働き方が激変！?目視チェック＆手入力を今すぐやめる方法」（https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp）
-  - 「概要からその選び方や活用方法まで詳しく解説します」（https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp）
-  - 「バーコードや2次元コードがない場合の作業の手間や時間、ポカミスをなくす方法はたった1つ、目視チェックと手入力を今すぐやめるしかありません」（https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp）
-  - 「ハンディターミナルでの文字認識（OCR）機能の活用・運用方法を詳しくまとめた資料を以下のボタンよりダウンロードいただけます」（https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp）
-  - 「ここまで説明した文字認識（OCR）機能の導入事例の詳細や、業務改善の方法をわかりやすくまとめた資料を以下のボタンよりダウンロードいただけます」（https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp）
-  - 「AIでPDFの表が読めない・数字が違う？OCRと照合の手順」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
-  - 「AIでPDFの表が正しく読み取れない？OCR・数字・単位・注記を確認する手順」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
+  - 「スキャンしたPDFを編集できない？OCRで一瞬で文字化する方法【2026年最新版】｜株式会社Tenorshare」（https://note.com/tenorsharejp/n/n4c89a16b2bf5）
+  - 「スキャンしたPDFを編集できない？OCRで一瞬で文字化する方法【2026年最新版】」（https://note.com/tenorsharejp/n/n4c89a16b2bf5）
+  - 「スキャンPDFが編集できない理由から、OCRを使った文字化の方法、おすすめのOCRソフト」（https://note.com/tenorsharejp/n/n4c89a16b2bf5）
+  - 「スキャンPDFを編集する方法① PDNob【AI OCRで簡単・高精度】」（https://note.com/tenorsharejp/n/n4c89a16b2bf5）
+  - 「Step1：」（https://note.com/tenorsharejp/n/n4c89a16b2bf5）
+  - 「Step2：」（https://note.com/tenorsharejp/n/n4c89a16b2bf5）
+  - 「Step3：」（https://note.com/tenorsharejp/n/n4c89a16b2bf5）
+  - 「Step4：」（https://note.com/tenorsharejp/n/n4c89a16b2bf5）
+  - 「スキャンPDFを編集する方法② Adobe Acrobatを利用する」（https://note.com/tenorsharejp/n/n4c89a16b2bf5）
+  - 「Adobe AcrobatでOCRを実行する手順」（https://note.com/tenorsharejp/n/n4c89a16b2bf5）
+  - 「スキャンPDFを編集する方法③ Googleドライブを利用する【無料】」（https://note.com/tenorsharejp/n/n4c89a16b2bf5）
+  - 「「まずは無料でOCRを試してみたい」という方には、Googleドライブを利用する方法もあります」（https://note.com/tenorsharejp/n/n4c89a16b2bf5）
+  - 「非常に手軽な方法ですが、画像品質やレイアウトによっては認識精度が低くなることがあります」（https://note.com/tenorsharejp/n/n4c89a16b2bf5）
+  - 「スキャンPDFを編集する方法④ Microsoft OneNoteを利用する」（https://note.com/tenorsharejp/n/n4c89a16b2bf5）
+  - 「ここまで4つの方法を紹介しましたが、それぞれ特徴が異なります」（https://note.com/tenorsharejp/n/n4c89a16b2bf5）
 - 突き合わせ・推定：
   - 「入庫時に消費期限と商品データを紐づけたり、現品と在庫データを照合したりといった作業が目視チェックと手入力の場合、日々の業務において大きな負担となります」（https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp）
   - 「現品票の2次元コードと現品のコンテナなどに表示された文字列を素早く照合できます」（https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp）
@@ -11282,22 +11282,23 @@
   - 「この文章は記録方法の例で、実際に検証した資料を示すものではありません」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
   - 「画像だけにすると原本の注記や別ページの条件を失う場合もあるため、表全体と必要な条件を含めて照合します」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
 - 一次情報の探し方：
-  - 「PDF OCRとは？PDF OCRがスキャンPDFからテキストを抽出する仕組み | Parseur®」（https://parseur.com/ja/burogu/pdf-ocr）
-  - 「PDF OCRとは？PDF OCRがスキャンPDFからテキストを抽出する仕組み」（https://parseur.com/ja/burogu/pdf-ocr）
-  - 「PDF OCR（光学式文字認識）は、スキャンされたPDFや画像ベースのファイルを、機械で読み取れる検索可能なテキストに変換する技術です」（https://parseur.com/ja/burogu/pdf-ocr）
-  - 「PDF OCRツールはスキャンページの画像を処理し、文字を識別し、検索・コピー・構造化データ化できる編集可能なテキストを出力します」（https://parseur.com/ja/burogu/pdf-ocr）
-  - 「が1993年にPortable Document Format (PDF) を初めて導入し、その後、国際標準化機構（ISO）32000標準も登場しました」（https://parseur.com/ja/burogu/pdf-ocr）
-  - 「2.5兆本以上のPDF」（https://parseur.com/ja/burogu/pdf-ocr）
-  - 「PDFは長年の進化を経て、多機能で高性能なさまざまなバージョンが生まれています」（https://parseur.com/ja/burogu/pdf-ocr）
-  - 「PDFから手作業でテキストを抽出する際の課題」（https://parseur.com/ja/burogu/pdf-ocr）
-  - 「PDFは多くの業種で利用されていますが、今なお多くの企業では手作業でのデータ入力が行われています」（https://parseur.com/ja/burogu/pdf-ocr）
-  - 「OCRは画像やスキャンPDF、手書き文字を機械で読み取れるテキストに変換します」（https://parseur.com/ja/burogu/pdf-ocr）
-  - 「PDF OCRは、データを検索・編集可能なデータに変換します」（https://parseur.com/ja/burogu/pdf-ocr）
-  - 「PDF OCR vs PDFパーサー vs PDFデータ抽出」（https://parseur.com/ja/burogu/pdf-ocr）
-  - 「**PDFパーシング（PDF parsing）**はさらに一歩進んで、文書構造を分析し、意味のあるフィールドを特定して構造化データとして整理します」（https://parseur.com/ja/burogu/pdf-ocr）
-  - 「既存（非スキャン）PDFの場合、パースではOCRは不要です」（https://parseur.com/ja/burogu/pdf-ocr）
-  - 「スキャンPDFの場合はまずOCRが動作し、その後パースで構造化されます」（https://parseur.com/ja/burogu/pdf-ocr）
+  - 「スキャンしたPDFを編集できない？OCRで一瞬で文字化する方法【2026年最新版】｜株式会社Tenorshare」（https://note.com/tenorsharejp/n/n4c89a16b2bf5）
+  - 「スキャンしたPDFを編集できない？OCRで一瞬で文字化する方法【2026年最新版】」（https://note.com/tenorsharejp/n/n4c89a16b2bf5）
+  - 「紙の契約書や請求書、申請書などをスキャンしてPDF化したものの、」（https://note.com/tenorsharejp/n/n4c89a16b2bf5）
+  - 「実は、スキャンしたPDFは文字ではなく「画像」として保存されているため、そのままでは編集や検索ができません」（https://note.com/tenorsharejp/n/n4c89a16b2bf5）
+  - 「OCRを利用すれば、画像内の文字をテキストデータに変換し、通常のPDFのように編集・検索したり、WordやExcelへ変換したりできます」（https://note.com/tenorsharejp/n/n4c89a16b2bf5）
+  - 「スキャンPDFが編集できない理由から、OCRを使った文字化の方法、おすすめのOCRソフト」（https://note.com/tenorsharejp/n/n4c89a16b2bf5）
+  - 「スキャンしたPDFが編集できないのは、」（https://note.com/tenorsharejp/n/n4c89a16b2bf5）
+  - 「通常のPDFには文字データが含まれているため、検索やコピー、編集ができます」（https://note.com/tenorsharejp/n/n4c89a16b2bf5）
+  - 「一方、スキャナーで取り込んだPDFは紙を画像として保存しているだけなので、パソコンは文字を認識できません」（https://note.com/tenorsharejp/n/n4c89a16b2bf5）
+  - 「このようなスキャンPDFを編集可能にするには、画像内の文字をテキストデータへ変換するOCR（光学文字認識）を利用する必要があります」（https://note.com/tenorsharejp/n/n4c89a16b2bf5）
+  - 「OCRとは？スキャンPDFが編集できるようになる仕組み」（https://note.com/tenorsharejp/n/n4c89a16b2bf5）
+  - 「例えば、紙の請求書や契約書をスキャンしたPDFにOCRを実行すると、会社名や住所、金額、日付などの文字を自動で認識し、画像だった情報をテキストデータとして保存します」（https://note.com/tenorsharejp/n/n4c89a16b2bf5）
+  - 「これにより、これまで編集できなかったPDFでも、通常の文書のように扱えるようになります」（https://note.com/tenorsharejp/n/n4c89a16b2bf5）
+  - 「スキャンPDFを編集する方法① PDNob【AI OCRで簡単・高精度】」（https://note.com/tenorsharejp/n/n4c89a16b2bf5）
+  - 「スキャンしたPDFを頻繁に編集するのであれば、OCR機能を搭載したPDF編集ソフトを利用するのが最も効率的です」（https://note.com/tenorsharejp/n/n4c89a16b2bf5）
 - 失敗・落とし穴：
+  - 「OCRソフトを選ぶ際は、以下の点を確認すると失敗しにくくなります」（https://note.com/tenorsharejp/n/n4c89a16b2bf5）
   - 「文字や数字の読み違い、入力時の書き間違いやタイピング入力時のミスといったポカミスを100％防止することは困難です」（https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp）
   - 「原本と加工後を同じ名前で保存すると、誤りが見つかった際にどの段階で変わったか追えません」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
   - 「数字の誤りを探すときは、合計だけでなく桁と記号を見ます」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
@@ -11312,8 +11313,8 @@
   - 「設定を終えたら、実際の帳票を数十枚ほど読み取って結果を確かめ、誤りの多い項目があれば範囲や文字の種類の指定を見直しましょう」（https://it-trend.jp/ai_ocr/article/813-10534）
   - 「AI-OCRの読み取り結果には、誤りが含まれる可能性があります」（https://it-trend.jp/ai_ocr/article/813-10534）
   - 「金額や口座番号など、誤りの影響が大きい項目は、自信度にかかわらず元の画像と見比べて確認するルールにしておくと安心です」（https://it-trend.jp/ai_ocr/article/813-10534）
-  - 「製品によっては、修正の履歴や担当者を記録できるため、誤りが起きた際に原因をたどる材料として使えます」（https://it-trend.jp/ai_ocr/article/813-10534）
 - 実例：
+  - 「例えば、紙の請求書や契約書をスキャンしたPDFにOCRを実行すると、会社名や住所、金額、日付などの文字を自動で認識し、画像だった情報をテキストデータとして保存します」（https://note.com/tenorsharejp/n/n4c89a16b2bf5）
   - 「多くの従来型OCRはテキストのみ抽出し、他アプリケーションへの連携が難しいケースがあります」（https://parseur.com/ja/burogu/pdf-ocr）
   - 「で、注文処理速度・効率が高まり、結果として注文処理の迅速化・顧客満足度の向上につながります」（https://parseur.com/ja/burogu/pdf-ocr）
   - 「OCR機能を活用した業務改善＆ポカよけ事例」（https://www.keyence.co.jp/ss/general/manufacture-tips/ocr.jsp）
@@ -11328,7 +11329,6 @@
   - 「スキャンPDFは、OCRの結果も原本と照合する」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
   - 「例えば「採用した12行の値と単位を原本で照合済み」（https://lifexrees.com/ai-technology/ai-pdf-table-reading-check/）
   - 「AI-OCRの使い方は、帳票を画像として取り込み、読み取る項目を設定し、読み取り結果を人が確認・修正してから、データを業務システムへ出力するという流れが基本です」（https://it-trend.jp/ai_ocr/article/813-10534）
-  - 「AI-OCRとは？OCRとの違いや導入事例、種類も徹底解説」（https://it-trend.jp/ai_ocr/article/813-10534）
 
 ## 売上の推定の下限と上限の型（人件費からの下限・数量×単価の上振れ・上場同業比の上限）を日本の中小企業で使う実務（人件費率の業種の表・中小企業実態基本調査）（private company revenue estimate lower bound payroll upper bound proxy Japan SME labor cost ratio）
 - 文脈：推定
@@ -15063,8 +15063,8 @@
   - 「coverage across all economic sectors . It may indeed be the case that these data are being」（https://www.apec.org/docs/default-source/publications/2020/4/overview-of-the-sme-sector-in-the-apec-region---key-issues-on-market-access-and-internationalization/220_psu_sme-market-access-and-internalization.pdf?sfvrsn=2758bd1_1）
   - 「Please give a precise definition. For example, if small-sized enterprises are differentiated」（https://www.apec.org/docs/default-source/publications/2020/4/overview-of-the-sme-sector-in-the-apec-region---key-issues-on-market-access-and-internationalization/220_psu_sme-market-access-and-internalization.pdf?sfvrsn=2758bd1_1）
   - 「possible (for example, if the data are disaggregated by firm size or by economic sector).」（https://www.apec.org/docs/default-source/publications/2020/4/overview-of-the-sme-sector-in-the-apec-region---key-issues-on-market-access-and-internationalization/220_psu_sme-market-access-and-internalization.pdf?sfvrsn=2758bd1_1）
-- 一次情報の探し方：記載なし（読んだ28頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 
 ## 数字の衛生の経験則の全文（英国王立統計学会 Getstats・David Walker の12の経験則の解説・平均の種類・誤差・一定の人数あたり・4-113）（Getstats number hygiene rules explained in full Royal Statistical Society journalists）
 - 文脈：検証
@@ -15077,22 +15077,23 @@
 ## 産業統計と品目統計の対応の読み方（特化率・カバー率・主産業の分類・業種の付け替えで年次の増減が出る問題・センサスの方法論の付録・4-113）（industry statistics vs product statistics specialization ratio coverage ratio census manufacturing methodology reclassification）
 - 文脈：探し先
 - 手順・やり方：
-  - 「Establishments in the 2007 Economic Census are divided into those sent report forms and those not sent report forms. The coverage of and the method of obtaining census information from each are described below:」（https://www2.census.gov/econ2007/Reference_materials/htm%20files/ec31mdesc.htm）
-  - 「ASM sample establishments. This group accounts for approximately 18 percent of all manufacturing establishments. The ASM panel covers all the units of large manufacturing establishments, as well as a sample of the medium and smaller establishments. The probability of selection was proportionate to size. For more information, see the methodology text in the ASM file.」（https://www2.census.gov/econ2007/Reference_materials/htm%20files/ec31mdesc.htm）
-  - 「A more detailed examination of census methodology is presented in the」（https://www2.census.gov/econ2007/Reference_materials/htm%20files/ec31mdesc.htm）
-  - 「www.census.gov/econ/census07/www/methodology/history.html」（https://www2.census.gov/econ2007/Reference_materials/htm%20files/ec31mdesc.htm）
-  - 「No direct measurement of these effects has been obtained except for estimation for missing or misreported data, as by the percentages shown in the tables. Precautionary steps were taken in all phases of the collection, processing, and tabulation of the data in an effort to minimize the effects of nonsampling errors.」（https://www2.census.gov/econ2007/Reference_materials/htm%20files/ec31mdesc.htm）
-  - 「www.census.gov/econ/census07/www/methodology/」（https://www2.census.gov/econ2007/Reference_materials/htm%20files/ec31mdesc.htm）
-  - 「industries. Our main contributions to the literature are a consistent methodology and NAICS‐based」（https://bea.gov/sites/default/files/papers/WP2014-12.pdf）
-  - 「3 These adjustments to the classification methodology rose from efforts to meet the needs of data users as the structure of U.S.」（https://bea.gov/sites/default/files/papers/WP2014-12.pdf）
-  - 「This section provides background on industry classification methods, those historically used by the NSF,」（https://bea.gov/sites/default/files/papers/WP2014-12.pdf）
-  - 「For multi‐unit firms with diverse production activities, a NAICS framework can be implemented」（https://bea.gov/sites/default/files/papers/WP2014-12.pdf）
-  - 「in ways that lead to different results. To our knowledge, there is no consensus on a single method to」（https://bea.gov/sites/default/files/papers/WP2014-12.pdf）
-  - 「the U.S. Census Bureau by Robert Parker reviews five alternative methods that are used within the」（https://bea.gov/sites/default/files/papers/WP2014-12.pdf）
-  - 「Federal Statistical System to classify enterprises, and concludes that the methods differ in how」（https://bea.gov/sites/default/files/papers/WP2014-12.pdf）
-  - 「method is used for multinational corporation data, assigning firms to one industry by a three stage」（https://bea.gov/sites/default/files/papers/WP2014-12.pdf）
-  - 「based on an aggregation of domestic establishment payroll data. The method is described as follows」（https://bea.gov/sites/default/files/papers/WP2014-12.pdf）
+  - 「users can only speculate as to how to construct the」（https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf）
+  - 「successive steps. Because the LRD contains a lot of」（https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf）
+  - 「that some methods are likely to be more reliable」（https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf）
+  - 「reliable method; any establishment that can’t be」（https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf）
+  - 「attempt to match it in a subsequent step.」（https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf）
+  - 「matching procedures include a “product method”」（https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf）
+  - 「plant, an “industry method” where we classify a」（https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf）
+  - 「an “establishment method” where we identify the」（https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf）
+  - 「plants that we cannot assign by one of the methods」（https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf）
+  - 「Step 1: Product Method」（https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf）
+  - 「The first step in reclassifying an」（https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf）
+  - 「Step 3: Establishment Method」（https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf）
+  - 「The n ext method of ass igning N AICS」（https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf）
+  - 「method as sumes t hat t here is n o ch ange within t he」（https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf）
+  - 「Step 4: Multiple Characteristics Method」（https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf）
 - 突き合わせ・推定：
+  - 「likely h ave ov erestimated s hipments f or th ese」（https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf）
   - 「Estimates of data for these small establishments were developed using industry averages in conjunction with the administrative information. The value of shipments and cost of materials were not distributed among specific products and materials for these establishments but were included in the products and materials "not specified by kind" (nsk) categories.」（https://www2.census.gov/econ2007/Reference_materials/htm%20files/ec31mdesc.htm）
   - 「We then evaluate our estimates by comparing them to estimates of R&D expenditures obtained」（https://bea.gov/sites/default/files/papers/WP2014-12.pdf）
   - 「Innovation Survey (BRDIS) data. Our estimates are comparable to the BRDIS tabulation for computer and」（https://bea.gov/sites/default/files/papers/WP2014-12.pdf）
@@ -15107,14 +15108,24 @@
   - 「pharmaceutical and medicine manufacturing. As shown, the estimates in the service‐and‐trade‐adjusted」（https://bea.gov/sites/default/files/papers/WP2014-12.pdf）
   - 「series are nearly identical to the estimates in the payroll‐method series prior to 1992. However, from」（https://bea.gov/sites/default/files/papers/WP2014-12.pdf）
   - 「years 1996 to 2008. For instance, in 1999, the adjusted estimate was 20 billion dollars higher than the」（https://bea.gov/sites/default/files/papers/WP2014-12.pdf）
-  - 「payroll‐method estimate; in 2003, the adjusted series was 11 billion dollars higher than the payroll‐」（https://bea.gov/sites/default/files/papers/WP2014-12.pdf）
 - 実例：
+  - 「industries. Table 1 shows an example of the type of」（https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf）
+  - 「another. There are a few “special cases,” that is,」（https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf）
+  - 「(“Statistical Matching”) In this case, 70 percen t of t he plan t’s s hipments i n」（https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf）
+  - 「this method. For all cases where we cannot assign」（https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf）
+  - 「of special cases is negligible.」（https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf）
+  - 「Step 5: Special Cases」（https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf）
+  - 「this example we set the weights (/g1081 to /g1085) equal, but」（https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf）
+  - 「example, in 1992, 17.9 percent of all manufacturing」（https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf）
+  - 「extent that, for example, statistical assignment」（https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf）
+  - 「for the statistical matching cases, it is still fairly」（https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf）
+  - 「in predictable ways. For example, the SIC industry」（https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf）
+  - 「consistency of these cases is reassuring to us that」（https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf）
   - 「2 For example, the Bureau of Economic Analysis (BEA) incorporated R&D expenditures as investment in the National Income」（https://bea.gov/sites/default/files/papers/WP2014-12.pdf）
   - 「process. In this case, sales receipts are used (BEA, 2013).」（https://bea.gov/sites/default/files/papers/WP2014-12.pdf）
   - 「series become gradually larger. The largest differences are observed from 2002 forward. For example,」（https://bea.gov/sites/default/files/papers/WP2014-12.pdf）
-  - 「trade adjustment in recent years. For example, in 2008 about 15 percent of the firms reassigned from」（https://bea.gov/sites/default/files/papers/WP2014-12.pdf）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
 
 ## 出どころどうしの値が割れたときに平均せず赤信号にする実務（会社データの照合・人数の割れの閾値・期待される記録の欠け・確かさの帯で人の確認に回す・4-114）（firmographic data conflicting sources do not average red flag headcount discrepancy threshold expected missing data）
 - 文脈：検証
@@ -15410,11 +15421,36 @@
 
 ## 登記の住所の実在の確かめ方（地図・航空写真・バーチャルオフィス・私書箱・本店と工場の住所の違い・EBU Spotlight・GIJN・4-119）（verifying registered address virtual office PO box satellite imagery company OSINT）
 - 文脈：推定
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：
+  - 「. Understanding what cyberattackers can see is the first step toward ensuring that information cannot be used against the organization.」（https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide）
+  - 「. They start with data that the organization has already exposed on the public internet. The fundamental distinction between technical OSINT and personal OSINT is that infrastructure data reveals where and how to launch a cyberattack, while personnel and executive data reveal precisely who to target and what will make that person comply.」（https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide）
+  - 「ISO 27001 mandates the identification and assessment of information security risks tied to an organization's context. Publicly exposed organizational data, from credential leaks to detailed network architecture discussions on employee forums, constitutes an identifiable risk that must be documented and addressed under the standard's risk assessment framework.」（https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide）
+  - 「How to Conduct a Company OSINT Footprint Assessment」（https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide）
+  - 「The legal and ethical framework is also distinct, since OSINT work stays within publicly accessible boundaries and carries none of the authorization requirements, liability considerations, or system disruption risks that define penetration testing engagements.」（https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide）
+  - 「The intelligence cycle provides the backbone for any structured OSINT assessment. Originally developed for government and military intelligence operations, the five-phase cycle adapts cleanly to corporate footprint discovery and has become the standard methodology across the cybersecurity community.」（https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide）
+  - 「theHarvester and Recon-ng handle email and domain enumeration. theHarvester pulls email addresses, subdomains, and employee names from search engines, PGP key servers, and other public sources, while Recon-ng provides a modular framework for automated reconnaissance with built-in reporting.」（https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide）
+  - 「Understanding what a cyberattacker sees is the essential first step toward closing those gaps. Every exposed credential, every overshared LinkedIn detail, and every indexed internal document represents a weapon an adversary is already cataloging.」（https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide）
+  - 「1. Remediation Prioritization Framework: What to Fix First」（https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide）
+  - 「Security teams staring down a sprawling OSINT exposure finding rarely have the bandwidth to fix everything at once. A prioritization framework tethered to real attack timelines keeps resources focused on the exposures most likely to cause harm today.」（https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide）
+  - 「Smaller organizations finish faster, while enterprises with complex footprints spanning multiple geographies require full allocation and subsequent reassessments to move faster once methodology and tooling are established.」（https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide）
+- 突き合わせ・推定：
+  - 「. Data broker sites aggregate and sell profiles that include current and former home addresses, family member names and relationships, personal phone numbers, and estimated net worth, all legally compiled from utility records, property transactions, and credit header data.」（https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide）
+- 一次情報の探し方：
+  - 「is the total collection of publicly accessible open-source intelligence (OSINT) about an organization. Employee LinkedIn profiles, leaked credentials, forgotten subdomains, and regulatory filings all feed into it. Cyberattackers systematically mine every data point to build hyper-targeted cyberattacks.」（https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide）
+  - 「SEC filings, nonprofit Form 990s, and FEC databases all contain searchable personal information linked to leadership names. Property records and vehicle registrations, accessible through county clerk databases, provide physical location precision.」（https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide）
+  - 「The same data brokers that sell executive profiles operate continuously, adding new records with every mortgage filing, LLC registration, and utility connection. Shutting down this exposure pipeline is the difference between being a hard target and an open book.」（https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide）
+  - 「They map organizational charts from LinkedIn to identify who in finance has wire authority, track executive travel patterns from social media posts to time cyberattacks when the actual CFO is unreachable on a plane, and pull vendor payment schedules, contract renewal dates, and public filing details to craft requests that match real business rhythms.」（https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide）
+  - 「Surface web sources, including corporate websites, job postings, press releases, and SEC filings;」（https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide）
+  - 「A self-directed assessment using the tools described above typically requires 20 to 40 hours to thoroughly evaluate a mid-sized organization, covering domain enumeration, executive profiling, credential exposure checks, infrastructure scanning, and document metadata analysis.」（https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide）
+  - 「Major corporate events temporarily inflate the OSINT footprint in ways a single audit cannot track. M&A activity generates new executive profiles, press coverage, and regulatory filings. IPO preparations surface financial disclosures and leadership biographies, while funding announcements produce media coverage that enriches the publicly available data adversaries use for reconnaissance.」（https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide）
+  - 「. Many elements of organizational digital exposure are mandatory: SEC filings, business registrations, patent databases, and court records remain permanently public.」（https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide）
+- 実例：
+  - 「The Business Case for Managing a Company OSINT Footprint」（https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide）
+  - 「The business case for managing a」（https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide）
+  - 「For example, a finance manager's LinkedIn profile becomes far more dangerous when correlated with a credential breach that shows the same email-password combination and a GitHub commit that reveals internal project naming conventions.」（https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide）
+  - 「, 99% of executives have personal information listed on more than 3 dozen data broker websites. This data typically includes home addresses, personal phone numbers, family members' names and ages, property records, political donations, and vehicle registrations; in 70% of cases, personal social media content and photographs are also exposed.」（https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide）
+  - 「Human Risk Scoring: 12 Practical Use Cases for Prioritizing Security Action and Measuring Behavior Change」（https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide）
 - 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
 
 ## デューデリジェンスで深い確認に上げる条件と否定的な情報の重み付け（所有不明・悪い報道・越境・出どころの食い違い・継続の見張り・4-119）（enhanced due diligence escalation triggers adverse media weighting OSINT）
 - 文脈：推定

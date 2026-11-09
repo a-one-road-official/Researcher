@@ -8,18 +8,177 @@
  ],
  "context": "推定",
  "kind": "market",
- "researched_at": "2026-11-09T03:56:45.367769+00:00",
- "evidence": {},
+ "researched_at": "2026-11-09T22:36:00.796010+00:00",
+ "evidence": {
+  "一次情報の探し方": [
+   {
+    "quote": "is the total collection of publicly accessible open-source intelligence (OSINT) about an organization. Employee LinkedIn profiles, leaked credentials, forgotten subdomains, and regulatory filings all feed into it. Cyberattackers systematically mine every data point to build hyper-targeted cyberattacks.",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "SEC filings, nonprofit Form 990s, and FEC databases all contain searchable personal information linked to leadership names. Property records and vehicle registrations, accessible through county clerk databases, provide physical location precision.",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The same data brokers that sell executive profiles operate continuously, adding new records with every mortgage filing, LLC registration, and utility connection. Shutting down this exposure pipeline is the difference between being a hard target and an open book.",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "They map organizational charts from LinkedIn to identify who in finance has wire authority, track executive travel patterns from social media posts to time cyberattacks when the actual CFO is unreachable on a plane, and pull vendor payment schedules, contract renewal dates, and public filing details to craft requests that match real business rhythms.",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Surface web sources, including corporate websites, job postings, press releases, and SEC filings;",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "A self-directed assessment using the tools described above typically requires 20 to 40 hours to thoroughly evaluate a mid-sized organization, covering domain enumeration, executive profiling, credential exposure checks, infrastructure scanning, and document metadata analysis.",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Major corporate events temporarily inflate the OSINT footprint in ways a single audit cannot track. M&A activity generates new executive profiles, press coverage, and regulatory filings. IPO preparations surface financial disclosures and leadership biographies, while funding announcements produce media coverage that enriches the publicly available data adversaries use for reconnaissance.",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": ". Many elements of organizational digital exposure are mandatory: SEC filings, business registrations, patent databases, and court records remain permanently public.",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "The Business Case for Managing a Company OSINT Footprint",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The business case for managing a",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "For example, a finance manager's LinkedIn profile becomes far more dangerous when correlated with a credential breach that shows the same email-password combination and a GitHub commit that reveals internal project naming conventions.",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": ", 99% of executives have personal information listed on more than 3 dozen data broker websites. This data typically includes home addresses, personal phone numbers, family members' names and ages, property records, political donations, and vehicle registrations; in 70% of cases, personal social media content and photographs are also exposed.",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Human Risk Scoring: 12 Practical Use Cases for Prioritizing Security Action and Measuring Behavior Change",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": ". Data broker sites aggregate and sell profiles that include current and former home addresses, family member names and relationships, personal phone numbers, and estimated net worth, all legally compiled from utility records, property transactions, and credit header data.",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": ". Understanding what cyberattackers can see is the first step toward ensuring that information cannot be used against the organization.",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": ". They start with data that the organization has already exposed on the public internet. The fundamental distinction between technical OSINT and personal OSINT is that infrastructure data reveals where and how to launch a cyberattack, while personnel and executive data reveal precisely who to target and what will make that person comply.",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ISO 27001 mandates the identification and assessment of information security risks tied to an organization's context. Publicly exposed organizational data, from credential leaks to detailed network architecture discussions on employee forums, constitutes an identifiable risk that must be documented and addressed under the standard's risk assessment framework.",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "How to Conduct a Company OSINT Footprint Assessment",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The legal and ethical framework is also distinct, since OSINT work stays within publicly accessible boundaries and carries none of the authorization requirements, liability considerations, or system disruption risks that define penetration testing engagements.",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The intelligence cycle provides the backbone for any structured OSINT assessment. Originally developed for government and military intelligence operations, the five-phase cycle adapts cleanly to corporate footprint discovery and has become the standard methodology across the cybersecurity community.",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "theHarvester and Recon-ng handle email and domain enumeration. theHarvester pulls email addresses, subdomains, and employee names from search engines, PGP key servers, and other public sources, while Recon-ng provides a modular framework for automated reconnaissance with built-in reporting.",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Understanding what a cyberattacker sees is the essential first step toward closing those gaps. Every exposed credential, every overshared LinkedIn detail, and every indexed internal document represents a weapon an adversary is already cataloging.",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "1. Remediation Prioritization Framework: What to Fix First",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Security teams staring down a sprawling OSINT exposure finding rarely have the bandwidth to fix everything at once. A prioritization framework tethered to real attack timelines keeps resources focused on the exposures most likely to cause harm today.",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Smaller organizations finish faster, while enterprises with complex footprints spanning multiple geographies require full allocation and subsequent reassessments to move faster once methodology and tooling are established.",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ]
+ },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/owlowl44/n/n8824be4673c2",
+    "url": "https://note.com/ai_samasama/n/n967f732c15e6",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/ai_samasama/n/n967f732c15e6",
+    "url": "https://note.com/owlowl44/n/n8824be4673c2",
     "status": "ok",
     "method": "http"
    },
@@ -34,12 +193,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/fp_info/n/nfc8262875ad1",
+    "url": "https://note.com/versaroc_ebuchi/n/n652f8e7ef58d",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/versaroc_ebuchi/n/n652f8e7ef58d",
+    "url": "https://note.com/ko_boku/n/n56d7049003ed",
     "status": "ok",
     "method": "http"
    },
@@ -49,7 +208,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/tag/%E7%99%BB%E8%A8%98",
+    "url": "https://note.com/t_hayase/n/n7571a550e60a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/minamisouken01/n/n0f24b95c7f01",
     "status": "ok",
     "method": "http"
    },
@@ -65,11 +229,6 @@
    },
    {
     "url": "https://note.com/katsuragi_rina/n/n8432785bebfc",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.torus.co.jp/pages/columns/column-82.html",
     "status": "ok",
     "method": "http"
    },
@@ -114,22 +273,22 @@
     "method": "http"
    },
    {
+    "url": "https://www.moj.go.jp/MINJI/minji05_00694.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www1.touki.or.jp/operate/registered-use/real-estate-info/location/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.trustart.co.jp/media/kaoku-bango-shirabekata",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://eastbank.jp/2017/09/04/residential-display-2/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://toukishinsei.com/column/the-difference-between-location-and-address-in-registration/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www1.touki.or.jp/operate/registered-use/real-estate-info/location/",
     "status": "ok",
     "method": "http"
    },
@@ -149,17 +308,17 @@
     "method": "http"
    },
    {
-    "url": "https://shadowdragon.io/resources/osint-techniques/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.planet.com/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.neotas.com/osint-sources-geolocation-osint/",
+    "url": "https://shadowdragon.io/resources/osint-techniques/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
     "status": "ok",
     "method": "http"
    }
@@ -169,19 +328,19 @@
   {
    "query": "登記の住所の実在の確かめ方（地図・航空写真・バーチャルオフィス・私書箱・本店と工場の住所の違い・EBU Spotlight・GIJN・4-119） site:note.com",
    "results": [
-    "https://note.com/owlowl44/n/n8824be4673c2",
     "https://note.com/ai_samasama/n/n967f732c15e6",
+    "https://note.com/owlowl44/n/n8824be4673c2",
     "https://note.com/uehara_kaikei/n/nc8177bd82e96",
     "https://note.com/builnet_frontier/n/n939a1d4ee49a",
-    "https://note.com/fp_info/n/nfc8262875ad1",
     "https://note.com/versaroc_ebuchi/n/n652f8e7ef58d",
-    "https://note.com/fp_info/n/ne1fffc08ad88",
-    "https://note.com/ayu_gyousei/n/nd122475e444b",
+    "https://note.com/ko_boku/n/n56d7049003ed",
     "https://note.com/takumi_k_biz/n/nd4b689b6fdf6",
-    "https://note.com/high_city/n/nc599b930874f"
+    "https://note.com/fp_info/n/nfc8262875ad1",
+    "https://note.com/high_city/n/nc599b930874f",
+    "https://note.com/ayu_gyousei/n/nd122475e444b"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -193,18 +352,18 @@
     "https://note.com/ai_samasama/n/n967f732c15e6",
     "https://note.com/uehara_kaikei/n/nc8177bd82e96",
     "https://www.sakuramachi-estate.com/blog/2025/09/17/%E7%99%BB%E8%A8%98%E7%B0%BF%E4%BD%8F%E6%89%80%E3%81%A8%E5%AE%9F%E9%9A%9B%E3%81%AE%E4%BD%8F%E6%89%80%E3%81%8C%E9%81%95%E3%81%86%E7%90%86%E7%94%B1%EF%BC%81%E4%B8%8D%E5%8B%95%E7%94%A3%E7%99%BB%E8%A8%98/",
-    "https://note.com/tag/%E7%99%BB%E8%A8%98",
+    "https://note.com/t_hayase/n/n7571a550e60a",
     "https://www.instagram.com/p/DXC1SPxEhY5/",
+    "https://note.com/minamisouken01/n/n0f24b95c7f01",
     "https://souzoku.ss-igari.com/%E6%95%85%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98%E7%B0%BF%E4%B8%8A%E3%81%AE%E4%BD%8F%E6%89%80%E3%81%8C%E5%8F%A4%E3%81%84%E5%A0%B4%E5%90%88%E3%81%AF%EF%BC%9F%E4%BD%8F%E6%89%80%E3%81%8C%E3%81%A4%E3%81%AA/",
     "https://note.com/wantle_support/n/nc864502dbe09",
-    "https://note.com/katsuragi_rina/n/n8432785bebfc",
-    "https://www.torus.co.jp/pages/columns/column-82.html"
+    "https://note.com/katsuragi_rina/n/n8432785bebfc"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 14
+   "n_hits": 15
   },
   {
    "query": "登記の住所の実在の確かめ方（地図・航空写真・バーチャルオフィス・私書箱・本店と工場の住所の違い・EBU Spotlight・GIJN・4-119） やり方",
@@ -221,7 +380,7 @@
     "https://kyoninka-labo.jp/2026/11/04/tochi-shoyusha-shirabekata/"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 15
@@ -231,33 +390,33 @@
    "results": [
     "https://trust-souzoku.com/example/example-3335/",
     "https://legal-heart.com/souzokutoukikatagaki/",
+    "https://www.moj.go.jp/MINJI/minji05_00694.html",
+    "https://www1.touki.or.jp/operate/registered-use/real-estate-info/location/",
     "https://www.trustart.co.jp/media/kaoku-bango-shirabekata",
     "https://eastbank.jp/2017/09/04/residential-display-2/",
-    "https://toukishinsei.com/column/the-difference-between-location-and-address-in-registration/",
-    "https://www1.touki.or.jp/operate/registered-use/real-estate-info/location/",
-    "https://www.moj.go.jp/MINJI/minji05_00694.html",
     "https://www.e-souzok.com/report/archives/192",
-    "https://cocolocompany.co.jp/?p=5743",
-    "https://ishikawa-office.info/blog/estate-registration/2523/"
+    "https://mirasia.or.jp/mirasia-times/necessity-flow-required-documents-and-costs-of-address-change-registration",
+    "https://www.souzoku-mado.jp/souzoku96",
+    "https://cocolocompany.co.jp/?p=5743"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 16
   },
   {
    "query": "verifying registered address virtual office PO box satellite imagery company OSINT",
    "results": [
     "https://eos.com/blog/free-satellite-imagery-sources/",
-    "https://www.youtube.com/watch?v=LzlenNwJ-eI",
     "https://www.reddit.com/r/OSINT/comments/vm46ua/how_to_find_location_of_an_organization_by_po_box/",
+    "https://www.youtube.com/watch?v=LzlenNwJ-eI",
     "https://www.findaddressnow.com/en/blog/how-to-find-address-using-osint",
-    "https://shadowdragon.io/resources/osint-techniques/",
     "https://www.planet.com/",
+    "https://shadowdragon.io/resources/osint-techniques/",
+    "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
     "https://www.neotas.com/osint-sources-geolocation-osint/",
     "https://nimbo.earth/stories/google-maps-satellite-imagery-osint-case-study/",
-    "https://www.cyberquizzer.com/blog/osint-geographic-information-systems",
     "https://osintjet.com/en/company-address-osint/"
    ],
    "engines": [
@@ -272,8 +431,8 @@
     "https://note.com/uehara_kaikei/n/nc8177bd82e96",
     "https://note.com/versaroc_ebuchi/n/n652f8e7ef58d",
     "https://note.com/takumi_k_biz/n/nd4b689b6fdf6",
-    "https://note.com/lovely_moose206/n/n70a9c24ae3c3",
     "https://note.com/tyousachuo/n/n2a9acfee3ed1",
+    "https://note.com/lovely_moose206/n/n70a9c24ae3c3",
     "https://note.com/hitodeki/n/n3426839cb93f",
     "https://note.com/cool_lilac6617/n/n545f2d56dac5",
     "https://note.com/high_city/n/n167fb1c1f4ca",
@@ -281,7 +440,7 @@
     "https://note.com/wantle_support/n/nc864502dbe09"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -291,17 +450,17 @@
    "results": [
     "https://x.com/grok/status/1908611530712641745",
     "https://x.com/Dutch_TIU/status/2118905602072264833",
-    "https://x.com/moraqualitas/status/1907997415849996375",
     "https://x.com/takeuchi_gyosei",
-    "https://x.com/SuzukaBike",
     "https://x.com/KagawaTomo/article/2112667220111401391",
+    "https://x.com/moraqualitas/status/1907997415849996375",
+    "https://x.com/SuzukaBike",
     "https://x.com/tkworks88",
     "https://x.com/nipotan/status/2078813217678389635",
     "https://x.com/enspire_co_jp/status/2039300622932205793",
     "https://x.com/HolyTech_Inc/status/2115292024618582086"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -329,8 +488,8 @@
     "https://www.facebook.com/shin.yamada3/videos/引っ越しの荷物は全部運んだのに登記簿の住所だけ昔の家に残っていませんか2026年4月1日から不動産所有者の住所氏名の変更登記が義務化されています便利なのがスマー/1462943775717448/",
     "https://www.facebook.com/odinfudousan/videos/2026年4月から義務化実家を相続した人は要注意住所氏名の変更登記を忘れると過料5万円以下の対象に/926230663859816/",
     "https://www.facebook.com/shiba2003/videos/遺言書があるのに相続手続きができないその原因でいちばん多いのが財産の書き方です自宅を妻にでは法務局で登記ができないことがあります不動産預貯金株式を手続きに使える/1428543752725468/",
-    "https://www.facebook.com/4430.info/posts/抵当権の連帯債務者の住所変更に伴う抵当権の変更の登記の手続-要旨-抵当権の連帯債務者ａ及びｂが日を異にして同一の住所に移転した場合にする抵当権の変更の登記は一の/1740090606070268/",
-    "https://www.facebook.com/arima.office/posts/知ってる人には当たり前ですが意外と知らない人も多い住所の書き方について番号-それとも-番地例えば１２３という住所の場合私の事務所のある三鷹市は１丁目２番３号です/409163252515896/"
+    "https://www.facebook.com/arima.office/posts/知ってる人には当たり前ですが意外と知らない人も多い住所の書き方について番号-それとも-番地例えば１２３という住所の場合私の事務所のある三鷹市は１丁目２番３号です/409163252515896/",
+    "https://www.facebook.com/wadamasatoshijimusyo/posts/579808912593732/"
    ],
    "engines": [
     "ddgs:google",
@@ -344,13 +503,13 @@
     "https://note.com/k_ikebe/n/n5c08a4b5da32",
     "https://note.com/versaroc_ebuchi/n/n652f8e7ef58d",
     "https://www.moj.go.jp/MINJI/minji06_00210.html",
-    "https://note.com/koshimizu_haruka/n/n829b9910bbf1",
+    "https://note.com/gvatouki/n/n9f064556ee23",
     "https://www.saitama-shihoshoshi.or.jp/law_qa/%E7%B5%8C%E5%96%B6%E8%80%85%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E4%BC%9A%E7%A4%BE%E6%B3%95%E5%8B%99vol-18%EF%BD%9E%E7%A4%BE%E9%95%B7%E3%81%AE%E4%BD%8F%E6%89%80%E3%82%92%E7%9F%A5%E3%82%89%E3%82%8C/",
-    "https://note.com/t_hayase/n/n7571a550e60a",
+    "https://note.com/koshimizu_haruka/n/n829b9910bbf1",
     "https://www.nikkei.com/article/DGXZQOUA219G40R20C22A1000000/",
     "https://corporate.ai-con.lawyer/articles/address-change/35",
-    "https://www.sgho.jp/blog/登記qa/住所非表示",
-    "https://higuchi-houmu.com/代表取締役の住所を登記簿から隠せる！「住所非/"
+    "https://higuchi-houmu.com/代表取締役の住所を登記簿から隠せる！「住所非/",
+    "https://www.sgho.jp/blog/登記qa/住所非表示"
    ],
    "engines": [
     "ddgs:google",
@@ -369,11 +528,11 @@
     "https://www.sakuramachi-estate.com/blog/2025/09/17/%E7%99%BB%E8%A8%98%E7%B0%BF%E4%BD%8F%E6%89%80%E3%81%A8%E5%AE%9F%E9%9A%9B%E3%81%AE%E4%BD%8F%E6%89%80%E3%81%8C%E9%81%95%E3%81%86%E7%90%86%E7%94%B1%EF%BC%81%E4%B8%8D%E5%8B%95%E7%94%A3%E7%99%BB%E8%A8%98/",
     "https://corporate.ai-con.lawyer/articles/address-change/35",
     "https://www.morita-shihou.jp/information/blog/n1649/",
-    "https://www.torus.co.jp/pages/columns/column-82.html",
-    "https://kyoninka-labo.jp/2026/11/04/tochi-shoyusha-shirabekata/"
+    "https://kyoninka-labo.jp/2026/11/04/tochi-shoyusha-shirabekata/",
+    "https://www.torus.co.jp/pages/columns/column-82.html"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 15
@@ -393,20 +552,174 @@
     "https://www.linkedin.com/company/sycek-cyber-intelligence"
    ],
    "engines": [
-    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 10
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ30頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）",
-  "実例": "記載なし（読んだ30頁・検索12回）"
+  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）"
  },
- "new_this_run": {},
- "runs": 1,
+ "new_this_run": {
+  "一次情報の探し方": [
+   {
+    "quote": "is the total collection of publicly accessible open-source intelligence (OSINT) about an organization. Employee LinkedIn profiles, leaked credentials, forgotten subdomains, and regulatory filings all feed into it. Cyberattackers systematically mine every data point to build hyper-targeted cyberattacks.",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "SEC filings, nonprofit Form 990s, and FEC databases all contain searchable personal information linked to leadership names. Property records and vehicle registrations, accessible through county clerk databases, provide physical location precision.",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The same data brokers that sell executive profiles operate continuously, adding new records with every mortgage filing, LLC registration, and utility connection. Shutting down this exposure pipeline is the difference between being a hard target and an open book.",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "They map organizational charts from LinkedIn to identify who in finance has wire authority, track executive travel patterns from social media posts to time cyberattacks when the actual CFO is unreachable on a plane, and pull vendor payment schedules, contract renewal dates, and public filing details to craft requests that match real business rhythms.",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Surface web sources, including corporate websites, job postings, press releases, and SEC filings;",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "A self-directed assessment using the tools described above typically requires 20 to 40 hours to thoroughly evaluate a mid-sized organization, covering domain enumeration, executive profiling, credential exposure checks, infrastructure scanning, and document metadata analysis.",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Major corporate events temporarily inflate the OSINT footprint in ways a single audit cannot track. M&A activity generates new executive profiles, press coverage, and regulatory filings. IPO preparations surface financial disclosures and leadership biographies, while funding announcements produce media coverage that enriches the publicly available data adversaries use for reconnaissance.",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": ". Many elements of organizational digital exposure are mandatory: SEC filings, business registrations, patent databases, and court records remain permanently public.",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "The Business Case for Managing a Company OSINT Footprint",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The business case for managing a",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "For example, a finance manager's LinkedIn profile becomes far more dangerous when correlated with a credential breach that shows the same email-password combination and a GitHub commit that reveals internal project naming conventions.",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": ", 99% of executives have personal information listed on more than 3 dozen data broker websites. This data typically includes home addresses, personal phone numbers, family members' names and ages, property records, political donations, and vehicle registrations; in 70% of cases, personal social media content and photographs are also exposed.",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Human Risk Scoring: 12 Practical Use Cases for Prioritizing Security Action and Measuring Behavior Change",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": ". Data broker sites aggregate and sell profiles that include current and former home addresses, family member names and relationships, personal phone numbers, and estimated net worth, all legally compiled from utility records, property transactions, and credit header data.",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": ". Understanding what cyberattackers can see is the first step toward ensuring that information cannot be used against the organization.",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": ". They start with data that the organization has already exposed on the public internet. The fundamental distinction between technical OSINT and personal OSINT is that infrastructure data reveals where and how to launch a cyberattack, while personnel and executive data reveal precisely who to target and what will make that person comply.",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ISO 27001 mandates the identification and assessment of information security risks tied to an organization's context. Publicly exposed organizational data, from credential leaks to detailed network architecture discussions on employee forums, constitutes an identifiable risk that must be documented and addressed under the standard's risk assessment framework.",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "How to Conduct a Company OSINT Footprint Assessment",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The legal and ethical framework is also distinct, since OSINT work stays within publicly accessible boundaries and carries none of the authorization requirements, liability considerations, or system disruption risks that define penetration testing engagements.",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The intelligence cycle provides the backbone for any structured OSINT assessment. Originally developed for government and military intelligence operations, the five-phase cycle adapts cleanly to corporate footprint discovery and has become the standard methodology across the cybersecurity community.",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "theHarvester and Recon-ng handle email and domain enumeration. theHarvester pulls email addresses, subdomains, and employee names from search engines, PGP key servers, and other public sources, while Recon-ng provides a modular framework for automated reconnaissance with built-in reporting.",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Understanding what a cyberattacker sees is the essential first step toward closing those gaps. Every exposed credential, every overshared LinkedIn detail, and every indexed internal document represents a weapon an adversary is already cataloging.",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "1. Remediation Prioritization Framework: What to Fix First",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Security teams staring down a sprawling OSINT exposure finding rarely have the bandwidth to fix everything at once. A prioritization framework tethered to real attack timelines keeps resources focused on the exposures most likely to cause harm today.",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Smaller organizations finish faster, while enterprises with complex footprints spanning multiple geographies require full allocation and subsequent reassessments to move faster once methodology and tooling are established.",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ]
+ },
+ "runs": 2,
  "first_researched_at": "2026-11-09T03:56:45.367769+00:00"
 }

@@ -1,0 +1,1229 @@
+{
+ "name": "Pickle Robot",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AI送信済み",
+ "researched_at": "2026-11-09T22:42:32.654808+00:00",
+ "official_url": "https://picklerobot.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Pickle robots generate millions of real-world picks. The Dill Autonomy Engine [DAE] turns that into learnings the robot uses to improve performance. Every robot makes the system smarter for every other robot in your fleet.",
+    "url": "https://www.picklerobot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "With this approach, we're able to deliver real value for customers by providing products that work on day 1 and get better over time.",
+    "url": "https://www.picklerobot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pickle fine-tunes pre-trained models to create reliable high-performing generative AI applications specific to the logistics domain.",
+    "url": "https://www.picklerobot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "This enables Pickle to rapidly create custom models for business-specific use cases based on the knowledge encoded in pre-existing models. With this approach, we’re able to deliver real value for customers by providing products that work on day 1 and get better over time.",
+    "url": "https://www.picklerobot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Powered by multiple cameras and real-time signal processing, Pickle’s machine vision continuously adapts to new scenes as each package is picked and placed. It evaluates countless pick and path options in milliseconds, optimizing for real world speed and situations.",
+    "url": "https://www.picklerobot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We believe the best working experience is one where machines do the heavy lifting and people do the problem solving. The Pickle Robot reliably unloads trailers and containers of non-palletized goods in as little as 90 minutes.",
+    "url": "https://www.picklerobot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Apr 28, 2026",
+    "url": "https://www.picklerobot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pickle Robot is using Celonis for process intelligence, linking robot performance to KPIs and integrating into wider logistics network",
+    "url": "https://www.picklerobot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re applying Physical AI to truck unloading and developing generalized autonomy that will unlock robot orchestration across entire logistics processes.",
+    "url": "https://www.picklerobot.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "The problems we solve are human problems, not technical ones. We work to understand what customers need, we validate rather than assume, and we deliver products that make people’s lives better.",
+    "url": "https://www.picklerobot.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "All labor is skilled labor. Information is contained in people and process. We go where things happen, cultivate empathy, and acquire context. We show passion, enthusiasm, and effort: these are infectious in person!",
+    "url": "https://www.picklerobot.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Practice Freedom & Responsibility",
+    "url": "https://www.picklerobot.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Companies succeed on growth rates: small steps compound geometrically. We iterate frequently to keep integrations manageable, balance plucking low hanging fruit with solving key problems in reverse risk order and celebrate small wins.",
+    "url": "https://www.picklerobot.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Robots are complicated: “keep it simple” applies more strongly in our domain. We search for root causes, build from first principles, and solve problems we have today over problems we might have tomorrow. Simple ≠ easy. We take the extra effort to simplify.",
+    "url": "https://www.picklerobot.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Jeff has spent over 25 years of leadership navigating the intersection of finance and cutting-edge innovation, and continues to do that at Pickle Robot as CFO. Most recently, he was at Symbotic from 2021 to 2025 where he served as Vice President of Investor Relations and Corporate Development. He shaped how Symbotic communicated their financial story and long-term strategy to the market.",
+    "url": "https://www.picklerobot.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "His interest in the capital markets led to a six-year tenure at the Piper Jaffray investment bank, where he rose through the ranks to be a Managing Director and he also served as a Product Manager, Operating Committee Member and Equity Research Analyst in the Consumer Financials sector.",
+    "url": "https://www.picklerobot.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "VP of Product & Marketing",
+    "url": "https://www.picklerobot.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "With millions of pounds of cargo unloaded, Pickle's solution doesn't just demonstrate impressive technology — it delivers measurable ROI through consistent performance, reduced labor costs, and improved worker safety.",
+    "url": "https://www.picklerobot.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Vice President of Distribution",
+    "url": "https://www.picklerobot.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Apr 28, 2026",
+    "url": "https://www.picklerobot.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Pickle Robot is using Celonis for process intelligence, linking robot performance to KPIs and integrating into wider logistics network",
+    "url": "https://www.picklerobot.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Pickle was founded by a cast of MIT alumni and every day we're solving hard technical problems to make the future of work better for warehouse workers. The team is highly technical, seriously motivated, collaborative, and fun!",
+    "url": "https://www.picklerobot.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We hire people who enjoy working with each other every day.",
+    "url": "https://www.picklerobot.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Solving really hard problems",
+    "url": "https://www.picklerobot.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We are solving novel problems using computer vision, mechanical engineering, reinforcement learning, and software.",
+    "url": "https://www.picklerobot.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "The great thing about solving a new problem is you aren’t constrained by the “this is how it’s always been done.\"",
+    "url": "https://www.picklerobot.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Fast Company’s prestigious",
+    "url": "https://www.picklerobot.com/news/pickle-robot-named-fast-companys-2026-most-innovative-companies-list",
+    "pass": 1
+   },
+   {
+    "quote": "“This recognition reflects the creativity and grit of the Pickle team and the customers who push us to solve the hardest problems in logistics,” said AJ Meyer, CEO of Pickle Robot Company.",
+    "url": "https://www.picklerobot.com/news/pickle-robot-named-fast-companys-2026-most-innovative-companies-list",
+    "pass": 1
+   },
+   {
+    "quote": "Truck unloading remains one of the most physically strenuous roles in the supply chain, often associated with high injury rates and turnover. Pickle’s Physical AI approach is designed to reduce strain on human workers by automating repetitive labor-intensive tasks and improving both safety and operational efficiency.",
+    "url": "https://www.picklerobot.com/news/pickle-robot-named-fast-companys-2026-most-innovative-companies-list",
+    "pass": 1
+   },
+   {
+    "quote": "Delivering Practical AI in the Real World",
+    "url": "https://www.picklerobot.com/news/pickle-robot-named-fast-companys-2026-most-innovative-companies-list",
+    "pass": 1
+   },
+   {
+    "quote": "Productive Robotics、AI搭載の7軸協働ロボット「OB7-AI」を発表",
+    "url": "https://roboticstrend.net/2026/06/30/ambi-robotics%E3%81%A8pickle-robot%E3%80%81%E7%89%A9%E6%B5%81%E8%87%AA%E5%8B%95%E5%8C%96%E3%81%A7%E7%B5%B1%E5%90%88%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E7%99%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "Read Pickle Robot reviews and testimonials from customers, explore case studies and customer success stories, and watch customer videos to see why companies chose Pickle Robot as their Robotics Software",
+    "url": "https://www.featuredcustomers.com/vendor/pickle-robot",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Video",
+    "url": "https://www.featuredcustomers.com/vendor/pickle-robot",
+    "pass": 3
+   },
+   {
+    "quote": "Let potential prospects find you on the world's only",
+    "url": "https://www.featuredcustomers.com/vendor/pickle-robot",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/pickle-robot",
+    "pass": 3
+   },
+   {
+    "quote": "FREE and learn about our upgraded profile options to",
+    "url": "https://www.featuredcustomers.com/vendor/pickle-robot",
+    "pass": 3
+   },
+   {
+    "quote": "unlock all of your customer references for prospects",
+    "url": "https://www.featuredcustomers.com/vendor/pickle-robot",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/pickle-robot",
+    "pass": 3
+   },
+   {
+    "quote": "Practical deployments with parcel and importer customers",
+    "url": "https://scr.tech/vendors/pickle-robot",
+    "pass": 3
+   },
+   {
+    "quote": "Fast-improving perception and handling stack",
+    "url": "https://scr.tech/vendors/pickle-robot",
+    "pass": 3
+   },
+   {
+    "quote": "Rated across 5 dimensions by SCR analysts using practitioner data",
+    "url": "https://scr.tech/vendors/pickle-robot",
+    "pass": 3
+   },
+   {
+    "quote": "Real practitioner feedback and satisfaction data from deployments",
+    "url": "https://scr.tech/vendors/pickle-robot",
+    "pass": 3
+   },
+   {
+    "quote": "Independent, practitioner-driven analysis to support your WMS selection process. Covers capabilities, scores, implementation, customer references, and competitive context.",
+    "url": "https://scr.tech/vendors/pickle-robot",
+    "pass": 3
+   },
+   {
+    "quote": "Complete scoring, implementation guidance, competitive context, and practitioner-validated insights — delivered as a downloadable PDF.",
+    "url": "https://scr.tech/vendors/pickle-robot",
+    "pass": 3
+   },
+   {
+    "quote": "I am 62 years old. I use ChatGPT as my partner to manage social media, produce music, and more.",
+    "url": "https://note.com/aisuou/n/nb5758afaf502?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Recently, I have been having one problem.",
+    "url": "https://note.com/aisuou/n/nb5758afaf502?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "There are no programmers.",
+    "url": "https://note.com/aisuou/n/nb5758afaf502?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I can print as much as I want with a printer.",
+    "url": "https://note.com/aisuou/n/nb5758afaf502?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "However, there is one problem.",
+    "url": "https://note.com/aisuou/n/nb5758afaf502?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It is quite a predicament.",
+    "url": "https://note.com/aisuou/n/nb5758afaf502?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "*GPT-nuka and ChatGPB are fictional projects that my AI and I created through conversation. They are not currently existing products.",
+    "url": "https://note.com/aisuou/n/nb5758afaf502?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "When I was in my second year of high school, there was a program where students who met the school's criteria could go to Canada for a few weeks. I also applied with my friends.",
+    "url": "https://note.com/akariwriter3/n/nb301cfb78511?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Looking back now, I often think that was probably one of the few ways I would have had to go abroad.",
+    "url": "https://note.com/akariwriter3/n/nb301cfb78511?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "at Narita Airport in Narita City, Chiba Prefecture.",
+    "url": "https://note.com/akariwriter3/n/nb301cfb78511?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This is the first project of its kind in a Japanese commercial facility or airport, a joint experiment between Narita International Airport Corporation (NAA) and Nomura Research Institute (NRI), which developed the system",
+    "url": "https://note.com/akariwriter3/n/nb301cfb78511?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Narita International Airport Corporation (NAA) and Nomura Research Institute (NRI) explained, 'This is the first project of its kind at an airport in Japan. Our goal is to put it into practical use to improve customer satisfaction and resolve labor shortages.'",
+    "url": "https://note.com/akariwriter3/n/nb301cfb78511?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Start of demonstration experiment for unmanned souvenir sales by robots, PR TIMES (2025)",
+    "url": "https://note.com/akariwriter3/n/nb301cfb78511?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "'Here I go!'. After selecting a souvenir on the touch panel and making a payment, the cat-themed robot 'Pickle-kun' replies and heads toward the lined-up snack boxes. It uses a suction cup attached to the tip of an arm that looks like a tail to grab and lift the souvenir box, places it on its back, and transports it to the delivery slot",
+    "url": "https://note.com/akariwriter3/n/nb301cfb78511?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Kenichiro Hiroto, Chief Expert at the AI Solution Promotion Department of Nomura Research Institute (NRI), who was in charge of development, explained,",
+    "url": "https://note.com/akariwriter3/n/nb301cfb78511?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Narita International Airport Corporation (NAA) has already introduced robots for security and cleaning due to a shortage of airport staff, and decided to conduct this demonstration experiment to explore the possibilities in retail. Nomura Research Institute (NRI) is involved in the development of robot systems as a solution to the labor shortage problem.",
+    "url": "https://note.com/akariwriter3/n/nb301cfb78511?hl=en",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Pickle robots capture operational data that warehouse managers and inbound supervisors use to run efficient operations in real-time, showcasing picks per hour, unload times, and information about the package mix.",
+    "url": "https://www.picklerobot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our robots integrate seamlessly into your existing warehouse operations, handling the chaos while your team focuses on what matters.",
+    "url": "https://www.picklerobot.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Our robots are actively unloading containers and trailers in warehouses across America, handling the physically demanding work that facilities struggle to staff.",
+    "url": "https://www.picklerobot.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Our robots integrate seamlessly into your existing warehouse operations, handling the chaos while your team focuses on what matters.",
+    "url": "https://www.picklerobot.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "They also play Tetris. Get in on the ground floor of a fast growing, VC backed, warehouse automation company.",
+    "url": "https://www.picklerobot.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Pickle was founded by a cast of MIT alumni and every day we're solving hard technical problems to make the future of work better for warehouse workers. The team is highly technical, seriously motivated, collaborative, and fun!",
+    "url": "https://www.picklerobot.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Our robots integrate seamlessly into your existing warehouse operations, handling the chaos while your team focuses on what matters.",
+    "url": "https://www.picklerobot.com/news/pickle-robot-named-fast-companys-2026-most-innovative-companies-list",
+    "pass": 1
+   },
+   {
+    "quote": "Pickle Robot develops AI-powered robotic systems that automate truck unloading and loading in warehouses.",
+    "url": "https://www.featuredcustomers.com/vendor/pickle-robot",
+    "pass": 3
+   },
+   {
+    "quote": "Warehouse Automation Solutions",
+    "url": "https://www.featuredcustomers.com/vendor/pickle-robot",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/pickle-robot",
+    "pass": 3
+   },
+   {
+    "quote": "The 'Pickle Store,' a permanent unmanned souvenir sales system using robots, has been installed near the domestic departure gate of Narita Airport Terminal 3, which is frequently used by low-cost carrier (LCC) passengers, since October 10, 2025.",
+    "url": "https://note.com/akariwriter3/n/nb301cfb78511?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A Chinese parts manufacturer wrote in their response to an IPO review that the hardware for Optimus V3 is \"almost frozen.\" This is not a Tesla announcement, and the basis for it includes \"public information.\"",
+    "url": "https://note.com/teslabull/n/ncbac9e800b01?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Tesla's own words are in the Q2 earnings materials from July. They removed the Model S/X line in Fremont to install the first-generation Optimus line, and production is \"soon.\" In the factory capacity table, both the California Optimus and Texas Optimus were listed as \"Construction.\" In this table, \"Construction\" includes not only the building but also the installation of equipment (",
+    "url": "https://note.com/teslabull/n/ncbac9e800b01?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In the factory capacity table in the earnings materials, the California Optimus moves from \"Construction\" to the next stage (Commissioning or later). A release date for V3 is given, even if only by month. For Cybercab, a start date is indicated for cities other than Austin.",
+    "url": "https://note.com/teslabull/n/ncbac9e800b01?hl=en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "\"UPS is using Pickle Robot’s unloading technologies to ease the challenging job of unloading trailers, making the role less physically demanding for employees, and delivering better package care and reliability for UPS customers.\"",
+    "url": "https://www.picklerobot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“We've been looking for a viable container unloading solution for over 5 years because this is a critical part of our operations. The Pickle Robot ticks all the right boxes for Randa.”",
+    "url": "https://www.picklerobot.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Based in Charlestown, Pickle Robot Company is part of a rapidly growing robotics ecosystem in the Boston area. This recognition from Fast Company highlights the region’s continued emergence as a national hub for cutting-edge robotics and AI innovation.",
+    "url": "https://www.picklerobot.com/news/pickle-robot-named-fast-companys-2026-most-innovative-companies-list",
+    "pass": 1
+   },
+   {
+    "quote": "Agility、SPAC合併でナスダック上場",
+    "url": "https://physicalainews.jp/news/ambi-robotics-to-pickle-robot-nyuuko-butsuryuu-wo-kanzenjido-fef703",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/pickle-robot",
+    "pass": 3
+   },
+   {
+    "quote": "Verdicts are SCR’s independent editorial judgement, based on public analyst research, reference calls, and market experience (last reviewed August 2026). SCR accepts no vendor compensation for coverage or ratings. The full assessment below carries the implementation-grade detail.",
+    "url": "https://scr.tech/vendors/pickle-robot",
+    "pass": 3
+   },
+   {
+    "quote": "It would remove the stems from the plums, arrange them on a colander, and dry them to the perfect degree.",
+    "url": "https://note.com/aisuou/n/nb5758afaf502?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In other words, even if the whole dream is impossible, I can try a part of it starting today.",
+    "url": "https://note.com/aisuou/n/nb5758afaf502?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I think this is the interesting part of AI.",
+    "url": "https://note.com/aisuou/n/nb5758afaf502?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "My English grades, which were part of the school's criteria, were suffering because I have sensorineural hearing loss in my left ear, and I struggle with listening tests when I have to take them with single-sided hearing. It seemed unlikely I would meet the criteria to go.",
+    "url": "https://note.com/akariwriter3/n/nb301cfb78511?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The robot 'Pickle-kun' (1.8m long, 1.2m high, 60cm wide), with its adorable animal-themed face, moves along a rail in response to orders. 12 types of souvenir boxes are stacked and arranged in a glass-enclosed booth (2.7m deep, 7m wide)",
+    "url": "https://note.com/akariwriter3/n/nb301cfb78511?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The 'Pickle Store,' a permanent unmanned souvenir sales system using robots, has been installed near the domestic departure gate of Narita Airport Terminal 3, which is frequently used by low-cost carrier (LCC) passengers, since October 10, 2025.",
+    "url": "https://note.com/akariwriter3/n/nb301cfb78511?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Animal-themed robot sells souvenirs at Narita Airport... Lifts boxes with suction cups on its tail and carries them on its back - Yomiuri Shimbun (2025)",
+    "url": "https://note.com/akariwriter3/n/nb301cfb78511?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "When we arrived at the airport, a plane designed with Pikachu and others was parked there.",
+    "url": "https://note.com/akariwriter3/n/nb301cfb78511?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A Chinese parts manufacturer wrote in their response to an IPO review that the hardware for Optimus V3 is \"almost frozen.\" This is not a Tesla announcement, and the basis for it includes \"public information.\"",
+    "url": "https://note.com/teslabull/n/ncbac9e800b01?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Thursday expiration is clearly written in the SpaceX prospectus (424B4). After publishing the earnings for the quarter ending September 30th, 28% of the shares subject to the 180-day lock-up, up to 1.3 billion shares, will become eligible for sale starting from the \"second full trading day\" on Nasdaq (",
+    "url": "https://note.com/teslabull/n/ncbac9e800b01?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I have listed the past expiration dates using Yahoo Finance closing prices. On August 6th, SPCX was +6.1%. However, the day before that, it fell -13.6% the day after the Q2 earnings. August 20th was -4.0%, September 9th was -3.9%, September 24th was -0.2%, and October 9th was +1.2% (",
+    "url": "https://note.com/teslabull/n/ncbac9e800b01?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Tesla's own words are in the Q2 earnings materials from July. They removed the Model S/X line in Fremont to install the first-generation Optimus line, and production is \"soon.\" In the factory capacity table, both the California Optimus and Texas Optimus were listed as \"Construction.\" In this table, \"Construction\" includes not only the building but also the installation of equipment (",
+    "url": "https://note.com/teslabull/n/ncbac9e800b01?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本の自動化ニーズは特に高く、本ソリューションは国内の大型物流企業や製造メーカーの関心を集める可能性があります",
+    "url": "https://roboticstrend.net/2026/06/30/ambi-robotics%E3%81%A8pickle-robot%E3%80%81%E7%89%A9%E6%B5%81%E8%87%AA%E5%8B%95%E5%8C%96%E3%81%A7%E7%B5%B1%E5%90%88%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E7%99%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "既存の自動化システムとの親和性や、日本国内での保守体制の構築が導入拡大のカギとなるでしょう",
+    "url": "https://roboticstrend.net/2026/06/30/ambi-robotics%E3%81%A8pickle-robot%E3%80%81%E7%89%A9%E6%B5%81%E8%87%AA%E5%8B%95%E5%8C%96%E3%81%A7%E7%B5%B1%E5%90%88%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E7%99%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "Ambi RoboticsとPickle Robot、入庫物流を完全自動化する統合Physical AIソリューションを発表 | 日本フィジカルAI新聞",
+    "url": "https://physicalainews.jp/news/ambi-robotics-to-pickle-robot-nyuuko-butsuryuu-wo-kanzenjido-fef703",
+    "pass": 3
+   },
+   {
+    "quote": "本記事の収集・日本語化・構成にはAIを使用しています",
+    "url": "https://physicalainews.jp/news/ambi-robotics-to-pickle-robot-nyuuko-butsuryuu-wo-kanzenjido-fef703",
+    "pass": 3
+   },
+   {
+    "quote": "重要ニュース5本・日本/中国・Research Picks・今週の公募",
+    "url": "https://physicalainews.jp/news/ambi-robotics-to-pickle-robot-nyuuko-butsuryuu-wo-kanzenjido-fef703",
+    "pass": 3
+   },
+   {
+    "quote": "This is the first project of its kind in a Japanese commercial facility or airport, a joint experiment between Narita International Airport Corporation (NAA) and Nomura Research Institute (NRI), which developed the system",
+    "url": "https://note.com/akariwriter3/n/nb301cfb78511?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Narita International Airport Corporation (NAA) and Nomura Research Institute (NRI) explained, 'This is the first project of its kind at an airport in Japan. Our goal is to put it into practical use to improve customer satisfaction and resolve labor shortages.'",
+    "url": "https://note.com/akariwriter3/n/nb301cfb78511?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "'It is said that in the near future, Japan will be short about 7 million people in the working-age population. The retail industry is also facing serious labor shortages.' He explained, 'We are at the stage of exploring whether we can realize various retail styles by utilizing robots. We would also like to verify the reactions of travelers during the demonstration experiment.'",
+    "url": "https://note.com/akariwriter3/n/nb301cfb78511?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Ambi RoboticsとPickle Robot、物流自動化で統合プラットフォーム発表 — Jun 30, 2026 · Ambi RoboticsとPickle Robotが物流自動化で統合ソリューションを発表。両社の強みを結集したフィジカルAI（物理的な動作知能）プラットフォームが、入荷・仕分け業務の完全自動化を実現しようとしています。 統合プラットフォームが実現する入荷作業の革新 Ambi Roboticsが提供するビジョンシステム ...",
+    "url": "https://roboticstrend.net/2026/06/30/ambi-roboticsとpickle-robot、物流自動化で統合プラットフォーム発/",
+    "pass": 3
+   },
+   {
+    "quote": "Ambi RoboticsとPickle Robot、入庫物流を完全自動化する統合Physical... — Aug 13, 2026 · Ambi RoboticsとPickle Robot、入庫物流を完全自動化する統合Physical AIソリューションを発表 原典とのAI照合を通過 2026年6月30日、Ambi RoboticsとPickle Robotが統合Physical AIソリューションを発表。トレーラー荷降ろしからパレタイジングまでを自動化する。具体的な導入規模や時期は明らかにされていない。",
+    "url": "https://physicalainews.jp/news/ambi-robotics-to-pickle-robot-nyuuko-butsuryuu-wo-kanzenjido-fef703",
+    "pass": 3
+   },
+   {
+    "quote": "Pickle Robot | Physical AI For Supply Chain Automation — Pickle robots capture operational data that warehouse managers and inbound supervisors use to run efficient operations in real-time, showcasing picks per hour, unload times, and information about the package mix. With this data, customer specific dashboards can be configured to monitor and manage single robots, fleets of robots within a site",
+    "url": "https://www.picklerobot.com/",
+    "pass": 3
+   },
+   {
+    "quote": "郵船ロジ／米国法人が荷下ろし自動化でPickle Robotと提携 ─ 物流ニュ... — Dec 25, 2023 · YLUSは、カリフォルニア州ロングビーチでのトランスロードサービスにおいて、Pickle Robotの荷下ろし作業自動化システムを導入し、9月から運用を ...",
+    "url": "https://www.lnews.jp/2023/12/p1225501.html",
+    "pass": 3
+   },
+   {
+    "quote": "UPS400台導入に学ぶ！物流ロボット現場実装の壁を越える3つの教訓 – L... — Apr 14, 2026 · 日本企業への示唆：現場実装を成功に導く3つの視点転換 Pickle RobotとUPSの事例から、日本の経営層やDX推進担当者が国内の現場に適用すべき具体的なアクションを提案します。 「1台の検証」から「ネットワーク規模のROI設計」への転換",
+    "url": "https://logishift.net/2026/04/14/post-4120/",
+    "pass": 3
+   },
+   {
+    "quote": "About Us | Pickle Robot — Pickle Robot is the leader in Physical AI which combines Generative AI and foundation models with vision systems and industrial robotics to create automation products that do physical work at human scale or better.",
+    "url": "https://www.picklerobot.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "Pickle Robot Company | LinkedIn — Pickle Robot Company | LinkedInのフォロワー数22,998人。Pickle Robots unload trucks and containers. | We believe the best working experience is one where machines do the heavy lifting and people do the problem solving. Founded by an exceptional cast of robotics and machine learning experts, Pickle Robot is a pioneer in Physical AI for supply chain applications. Today our ro",
+    "url": "https://jp.linkedin.com/company/pickle-robot-company",
+    "pass": 3
+   },
+   {
+    "quote": "Yusen Logistics Partners with Pickle Robot to Streamline ... — Dec 6, 2023 · This collaboration marks the beginning of a strategic alliance, with Yusen deploying Pickle Unload Systems under Robotics as a Service (RaaS) terms. This allows Yusen Logistics to benefit from real-world implementations today while gaining early access to advanced Pickle Robot capabilities as they develop.",
+    "url": "https://www.yusen-logistics.com/us_en/insights-news/press-releases/8496",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories | Pickle Robot — See how Pickle customers use autonomous robots to unload freight faster, safer, and more efficiently than ever before.",
+    "url": "https://www.picklerobot.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Pickle Robot Customer Reviews & References | FeaturedCustomers — Read Pickle Robot Customer Reviews & Customer References. These use cases, approaches and end results from real customers include testimonials, case studies and customer success stories, and testimonial videos.",
+    "url": "https://www.featuredcustomers.com/vendor/pickle-robot",
+    "pass": 3
+   },
+   {
+    "quote": "Pickle Robot Review & Assessment | Supply Chain Research — Pickle Robot builds AI-powered robotic systems specifically designed to unload trailers and containers of non-palletized, floor-loaded freight. Their mobile robots drive into trailers, identify and pick individual boxes using computer vision, and place them onto conveyors at rates of 400 to 1,500 packages per hour. Already in production wi",
+    "url": "https://scr.tech/vendors/pickle-robot",
+    "pass": 3
+   },
+   {
+    "quote": "Pickle Robots Industrial IoT Case Study | Asia Growth Partners — AGP’s case study database provides clients with real-world examples of successful industrial and enterprise technology deployments.",
+    "url": "https://asiagrowthpartners.com/supplier/pickle-robots/case-study/v2702",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/pickle-robot",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/pickle-robot",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "I want to make an AI pickle vegetables.｜AI番長のすこう婆 To have an AI stir a rice bran bed, you need a robot that actually moves. However, when it comes to managing records of temperature and maintenance, or estimating how well the pickles are curing, even the current ChatGPT can help. In other words, even if the whole dream is impossible, I can try a part of it starting today.",
+    "url": "https://note.com/aisuou/n/nb5758afaf502?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Demonstration experiment of the unmanned souvenir sales ... Nov 28, 2025 · The 'Pickle Store,' a permanent unmanned souvenir sales system using robots, has been installed near the domestic departure gate of Narita Airport Terminal 3, which is frequently used by low-cost carrier (LCC) passengers, since October 10, 2025.",
+    "url": "https://note.com/akariwriter3/n/nb301cfb78511?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Up to 1.3 billion shares the day after Tesla's earnings ... Oct 19, 2026 · Picking up small screws, rotating them while pressing down to screw them into wood. Opening a tight pickle jar. He says these two were the benchmarks for the robot's hands, and that the plan was delayed by 2-3 months due to China's magnet export restrictions. The production numbers mentioned in the video are also inconsiste",
+    "url": "https://note.com/teslabull/n/ncbac9e800b01?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "I want to make an AI pickle vegetables.｜AI番長のすこう婆",
+    "url": "https://note.com/aisuou/n/nb5758afaf502?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I want to make an AI pickle vegetables.",
+    "url": "https://note.com/aisuou/n/nb5758afaf502?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A story about me at 62 and my AI employee with no hands",
+    "url": "https://note.com/aisuou/n/nb5758afaf502?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I am 62 years old. I use ChatGPT as my partner to manage social media, produce music, and more.",
+    "url": "https://note.com/aisuou/n/nb5758afaf502?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Recently, I have been having one problem.",
+    "url": "https://note.com/aisuou/n/nb5758afaf502?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "ChatGPT won't stir my rice bran bed.",
+    "url": "https://note.com/aisuou/n/nb5758afaf502?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It writes text. It creates images. It even helps with tedious calculations.",
+    "url": "https://note.com/aisuou/n/nb5758afaf502?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "And yet, it cannot even stir a rice bran bed.",
+    "url": "https://note.com/aisuou/n/nb5758afaf502?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Demonstration experiment of the unmanned souvenir sales system 'Pickle Store' at Narita Airport, where robots become shop clerks!｜あなたの人生に光を届ける｜あなたに寄り添う｜ 花婉昴蕗 ライターin福岡",
+    "url": "https://note.com/akariwriter3/n/nb301cfb78511?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Demonstration experiment of the unmanned souvenir sales system 'Pickle Store' at Narita Airport, where robots become shop clerks!",
+    "url": "https://note.com/akariwriter3/n/nb301cfb78511?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "あなたの人生に光を届ける｜あなたに寄り添う｜ 花婉昴蕗 ライターin福岡",
+    "url": "https://note.com/akariwriter3/n/nb301cfb78511?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I don't travel by airplane, so I have never been to an airport or had a passport made.",
+    "url": "https://note.com/akariwriter3/n/nb301cfb78511?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "However, my mother recently discovered that my parents actually had a passport made for me when I was in high school.",
+    "url": "https://note.com/akariwriter3/n/nb301cfb78511?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "When I was in my second year of high school, there was a program where students who met the school's criteria could go to Canada for a few weeks. I also applied with my friends.",
+    "url": "https://note.com/akariwriter3/n/nb301cfb78511?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "My English grades, which were part of the school's criteria, were suffering because I have sensorineural hearing loss in my left ear, and I struggle with listening tests when I have to take them with single-sided hearing. It seemed unlikely I would meet the criteria to go.",
+    "url": "https://note.com/akariwriter3/n/nb301cfb78511?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Before I was told I couldn't go to school, I withdrew because of the high travel costs to get to Canada. My parents told me they couldn't afford it, so I withdrew.",
+    "url": "https://note.com/akariwriter3/n/nb301cfb78511?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Up to 1.3 billion shares the day after Tesla's earnings. SpaceX lock-up expiration and this week's schedule｜Tesla Bull",
+    "url": "https://note.com/teslabull/n/ncbac9e800b01?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Up to 1.3 billion shares the day after Tesla's earnings. SpaceX lock-up expiration and this week's schedule",
+    "url": "https://note.com/teslabull/n/ncbac9e800b01?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Summary, What just happened in Tesla world?",
+    "url": "https://note.com/teslabull/n/ncbac9e800b01?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This week features three consecutive climaxes. SpaceX earnings are at 5:30 AM on Wednesday the 21st (JST), Tesla earnings are at 6:30 AM on Thursday the 22nd (JST), and the lock-up for up to 1.3 billion shares of SpaceX (SPCX) expires during the US market session on the 22nd. I re-confirmed the schedule this morning using each company's documents.",
+    "url": "https://note.com/teslabull/n/ncbac9e800b01?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1.3 billion shares is a larger scale than the first expiration on August 6th (up to 911.5 million shares). However, looking at the past five expiration dates, SPCX has had both up and down days. Tesla stock fell on 4 out of the 5 days, but the decline was less than 2% in every case.",
+    "url": "https://note.com/teslabull/n/ncbac9e800b01?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "On the 18th, Mr. Musk wrote on X, \"Optimus and Cybercab will be the vast majority of Tesla's value.\" In this week's conference call, we are likely to hear more about these two than about the Roadster.",
+    "url": "https://note.com/teslabull/n/ncbac9e800b01?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A Chinese parts manufacturer wrote in their response to an IPO review that the hardware for Optimus V3 is \"almost frozen.\" This is not a Tesla announcement, and the basis for it includes \"public information.\"",
+    "url": "https://note.com/teslabull/n/ncbac9e800b01?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Three consecutive climaxes from Tuesday night through Thursday",
+    "url": "https://note.com/teslabull/n/ncbac9e800b01?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Arthur Petron on X: \"Nice job, @pickle_robot!\" Sep 12, 2026 · Post Arthur Petron @darthur Nice job, @ pickle_robot! Startuply VC @startuplyvc Sep 12",
+    "url": "https://x.com/darthur/status/2098879806465249563",
+    "pass": 3
+   },
+   {
+    "quote": "Startuply VC on X: \"$114M for the truck's tailgate. Pickle ... Sep 11, 2026 · $114M for the truck's tailgate. Pickle Robot automates unloading trailers, the most dangerous job in the warehouse. MIT alumni. Reported $120M UPS deal for ~400 robots still in play.",
+    "url": "https://x.com/startuplyvc/status/2098599195695276316",
+    "pass": 3
+   },
+   {
+    "quote": "\"#PickleRobot\" - Results on X | Live Posts & Updates Kargo robotları geliştiren Pickle Robot, Tesla'nın deneyimli ismi Jeff Evanson'ı ilk CFO'su olarak kadrosuna kattı. Bu gelişme, şirketin UPS ile ortaklığını genişlettiği iddialarıyla eş zamanlı yaşandı.",
+    "url": "https://x.com/hashtag/PickleRobot",
+    "pass": 3
+   },
+   {
+    "quote": "AmbiRobotics (@AmbiRobotics) / X Big news: we've integrated AmbiStack with @pickle_robot to fully automate inbound logistics. First-of-its-kind: two specialized robotic systems from two different companies, operating as one continuous autonomous inbound logistics workflow. #HandleMore",
+    "url": "https://x.com/ambirobotics",
+    "pass": 3
+   },
+   {
+    "quote": "@pickle_robot | X The latest posts from @pickle_robot",
+    "url": "https://x.com/pickle_robot",
+    "pass": 3
+   },
+   {
+    "quote": "Arthur Petron on X: \"Nice job, @pickle_robot!\" / X - x.com Sep 12, 2026 · Post Arthur Petron @darthur Nice job, @ pickle_robot! Startuply VC @startuplyvc Sep 12",
+    "url": "https://x.com/darthur/status/2098879806465249563",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Pickle Robot Company - LinkedIn Pickle Robot Company | 23,101 followers on LinkedIn. Pickle Robots unload trucks and containers. | We believe the best working experience is one where machines do the heavy lifting and people do ...",
+    "url": "https://www.linkedin.com/company/pickle-robot-company",
+    "pass": 3
+   },
+   {
+    "quote": "Pickle Robot Jobs in United States (9,000+ Open Roles) | LinkedIn Today’s top 9,000+ Pickle Robot jobs in United States. Leverage your professional network, and get hired. New Pickle Robot jobs added daily.",
+    "url": "https://www.linkedin.com/jobs/pickle-robot-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "AJ Meyer - CEO at Pickle Robot Company | Scaling Physical AI ... CEO at Pickle Robot Company | Scaling Physical AI across the supply chain | President at LeafLabs | Founder at Industry Labs · Experience: Pickle Robot Company · Education: Massachusetts ...",
+    "url": "https://www.linkedin.com/in/aj-meyer-2457594",
+    "pass": 3
+   },
+   {
+    "quote": "Dan Paluska - Pickle Robot Company | LinkedInBoris Zotkin - Pickle Robot Company | LinkedInFred Hopke - Engineering Leadership | Product Development ...John Preston - Pickle Robot Company | LinkedIn Experience: Pickle Robot Company · Education: Massachusetts Institute of Technology · Location: Greater Boston · 500+ connections on LinkedIn. View Dan Paluska’s profile on LinkedIn, a ... · Experience",
+    "url": "https://www.linkedin.com/in/dan-paluska-58b6321a1",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "The Pickle Robot Company, founded by MIT EECS and MechE ...Ambi Robotics and Pickle Robot built the first fully ...The Pickle Robot - LMHH Residents | Hardeeville SC - FacebookPickle Robot’s Founder & CEO AJ Meyer is overhauling supply ...Pickle's truck unloading robot arm | ProMat 2023 | TechCrunch ...MIT alum-founded Pickle Robot... - MIT Alumni Association ...John Huckins Metalwork - Facebook F",
+    "url": "https://www.facebook.com/MITSchoolofEngineering/videos/the-pickle-robot-company-founded-by-mit-eecs-and-meche-alumni-aj-meyer-09-ariana/958683753331281/",
+    "pass": 3
+   },
+   {
+    "quote": "Ambi Robotics and Pickle Robot built the first fully ... Aug 9, 2026 · Ambi Robotics and Pickle Robot built the first fully automated dock-to-pallet workflow — unloading a trailer straight onto a pallet with zero human handling.",
+    "url": "https://www.facebook.com/coreindexai/videos/ambi-robotics-and-pickle-robot-built-the-first-fully-automated-dock-to-pallet-wo/2356624068078790/",
+    "pass": 3
+   },
+   {
+    "quote": "The Pickle Robot - LMHH Residents | Hardeeville SC - Facebook Jul 9, 2026 · The Pickle Robot - LMHH Residents, Hardeeville. 19 likes. I am a Margaritaville LMHH resident who rents pickleball machines for practice.",
+    "url": "https://www.facebook.com/thepicklerobot/",
+    "pass": 3
+   },
+   {
+    "quote": "Pickle Robot’s Founder & CEO AJ Meyer is overhauling supply ... Pickle Robot’s Founder & CEO AJ Meyer is overhauling supply chain logistics. \"We've built the world's best autonomous robot for unloading trucks.” \"We didn't just build a robot for unloading trucks.",
+    "url": "https://www.facebook.com/gettheinformation/videos/pickle-robots-founder-ceo-aj-meyer-is-overhauling-supply-chain-logisticsweve-bui/2013125682810304/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.picklerobot.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.picklerobot.com/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.picklerobot.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.picklerobot.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.picklerobot.com/news/pickle-robot-named-fast-companys-2026-most-innovative-companies-list",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/68c45a2873ee1a15a77f7db1/69124d8d5dc08ab9d30f0911_halloween.jpeg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://roboticstrend.net/2026/06/30/ambi-robotics%E3%81%A8pickle-robot%E3%80%81%E7%89%A9%E6%B5%81%E8%87%AA%E5%8B%95%E5%8C%96%E3%81%A7%E7%B5%B1%E5%90%88%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E7%99%BA/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://physicalainews.jp/news/ambi-robotics-to-pickle-robot-nyuuko-butsuryuu-wo-kanzenjido-fef703",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.picklerobot.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lnews.jp/2023/12/p1225501.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.picklerobot.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pikerobotics.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.picklerobot.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.picklerobot.com/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/pickle-robot-company",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://roboticstrend.net/2026/06/30/ambi-robotics%E3%81%A8pickle-robot%E3%80%81%E7%89%A9%E6%B5%81%E8%87%AA%E5%8B%95%E5%8C%96%E3%81%A7%E7%B5%B1%E5%90%88%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E7%99%BA/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.picklerobot.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/pickle-robot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.picklerobot.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://scr.tech/vendors/pickle-robot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/aisuou/n/nb5758afaf502?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/akariwriter3/n/nb301cfb78511?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/teslabull/n/ncbac9e800b01?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/darthur/status/2098879806465249563",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/startuplyvc/status/2098599195695276316",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/PickleRobot",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ambirobotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/pickle-robot-company",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/pickle-robot-jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/aj-meyer-2457594",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/dan-paluska-58b6321a1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MITSchoolofEngineering/videos/the-pickle-robot-company-founded-by-mit-eecs-and-meche-alumni-aj-meyer-09-ariana/958683753331281/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/coreindexai/videos/ambi-robotics-and-pickle-robot-built-the-first-fully-automated-dock-to-pallet-wo/2356624068078790/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/thepicklerobot/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/gettheinformation/videos/pickle-robots-founder-ceo-aj-meyer-is-overhauling-supply-chain-logisticsweve-bui/2013125682810304/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/aj-meyer-2457594",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/pickle_robot",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/darthur/status/2098879806465249563",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Pickle Robot 日本 導入",
+   "results": [
+    "https://roboticstrend.net/2026/06/30/ambi-roboticsとpickle-robot、物流自動化で統合プラットフォーム発/",
+    "https://physicalainews.jp/news/ambi-robotics-to-pickle-robot-nyuuko-butsuryuu-wo-kanzenjido-fef703",
+    "https://www.picklerobot.com/",
+    "https://www.lnews.jp/2023/12/p1225501.html",
+    "https://logishift.net/2026/04/14/post-4120/",
+    "https://www.yusen-logistics.com/jp_ja/insights-news/press-releases/16896",
+    "https://www.jmd.co.jp/article.php?no=292307"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pickle Robot 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://www.picklerobot.com/",
+    "https://www.pikerobotics.com/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://pikal.theshop.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pickle Robot Japan",
+   "results": [
+    "https://www.picklerobot.com/",
+    "https://www.picklerobot.com/company",
+    "https://jp.linkedin.com/company/pickle-robot-company",
+    "https://roboticstrend.net/2026/06/30/ambi-roboticsとpickle-robot、物流自動化で統合プラットフォーム発/",
+    "https://www.yusen-logistics.com/us_en/insights-news/press-releases/8496",
+    "https://www.yusen-logistics.com/jp_ja/insights-news/press-releases/16896",
+    "https://www.jmd.co.jp/article.php?no=292307"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pickle Robot manufacturing customer case study",
+   "results": [
+    "https://www.picklerobot.com/customers",
+    "https://www.featuredcustomers.com/vendor/pickle-robot",
+    "https://www.picklerobot.com/",
+    "https://scr.tech/vendors/pickle-robot",
+    "https://asiagrowthpartners.com/supplier/pickle-robots/case-study/v2702",
+    "https://www.youtube.com/watch?v=nvhMSRzrxlg",
+    "https://www.therobotreport.com/rbr50-company-2025/pickle-robot-unloads-more-than-1-5m-lb-of-randa-apparel/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pickle Robot white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.seoreseller.com/",
+    "https://www.databricks.com/partners/partner-program",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.ninjaone.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pickle Robot founded funding employees revenue",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com Pickle Robot",
+   "results": [
+    "https://note.com/aisuou/n/nb5758afaf502?hl=en",
+    "https://note.com/tugcraft_hrd/n/n0bbd5bf7aaf7?hl=en",
+    "https://note.com/akariwriter3/n/nb301cfb78511?hl=en",
+    "https://note.com/teslabull/n/ncbac9e800b01?hl=en",
+    "https://note.com/just_rail4002/n/n49ea10d0c0e0?hl=en",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/rottary/n/n6beb4f310cf4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Pickle Robot",
+   "results": [
+    "https://x.com/darthur/status/2098879806465249563",
+    "https://x.com/startuplyvc/status/2098599195695276316",
+    "https://x.com/hashtag/PickleRobot",
+    "https://x.com/ambirobotics",
+    "https://x.com/LionelMedia/status/2090758341156802576",
+    "https://x.com/edgeaivision/status/2074961726450114663",
+    "https://x.com/FrankSciulli/status/2109813128150270201"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Pickle Robot",
+   "results": [
+    "https://www.linkedin.com/company/pickle-robot-company",
+    "https://www.linkedin.com/jobs/pickle-robot-jobs",
+    "https://www.linkedin.com/in/aj-meyer-2457594",
+    "https://www.linkedin.com/in/dan-paluska-58b6321a1",
+    "https://www.linkedin.com/in/boriszotkin",
+    "https://www.linkedin.com/in/johnfosterpreston",
+    "https://www.linkedin.com/in/fhopke"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Pickle Robot",
+   "results": [
+    "https://www.facebook.com/MITSchoolofEngineering/videos/the-pickle-robot-company-founded-by-mit-eecs-and-meche-alumni-aj-meyer-09-ariana/958683753331281/",
+    "https://www.facebook.com/coreindexai/videos/ambi-robotics-and-pickle-robot-built-the-first-fully-automated-dock-to-pallet-wo/2356624068078790/",
+    "https://www.facebook.com/thepicklerobot/",
+    "https://www.facebook.com/gettheinformation/videos/pickle-robots-founder-ceo-aj-meyer-is-overhauling-supply-chain-logisticsweve-bui/2013125682810304/",
+    "https://www.facebook.com/techcrunch/videos/pickles-truck-unloading-robot-arm-promat-2023-techcrunch/516609404003378/",
+    "https://www.facebook.com/MITAA/posts/mit-alum-founded-pickle-robot-companys-pickle-green-one-armed-robots-can-unload-/1349793597189460/",
+    "https://www.facebook.com/JohnHuckinsArtAndObjects/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pickle Robot note 社長",
+   "results": [
+    "https://embodyvc.com/founders/andrew-meyer/",
+    "https://www.linkedin.com/in/aj-meyer-2457594",
+    "https://www.picklerobot.com/",
+    "https://yespress.io/andrew-meyer",
+    "https://www.picklerobot.com/company",
+    "https://www.theofficialboard.com/biography/andrew-meyer-25d05",
+    "https://www.yusen-logistics.com/jp_ja/insights-news/press-releases/16896"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pickle Robot X 投稿",
+   "results": [
+    "https://x.com/pickle_robot",
+    "https://www.picklerobot.com/",
+    "https://x.com/darthur/status/2098879806465249563",
+    "https://www.instagram.com/pickle_robot/",
+    "https://www.picklerobot.com/products/truck-unloading",
+    "https://note.com/kazu_t/n/nb783951fa237",
+    "https://analytics.picklerobot.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部38頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部38頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部38頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部38頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部38頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部38頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部38頁・検索12回）"
+ }
+}

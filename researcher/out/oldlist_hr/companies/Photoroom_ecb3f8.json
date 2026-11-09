@@ -1,0 +1,1765 @@
+{
+ "name": "Photoroom",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-09T22:42:34.637873+00:00",
+ "official_url": "https://www.photoroom.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "12 Rue Charlot, 75003 Paris, France",
+    "url": "https://prtimes.jp/main/html/rd/p/000000018.000126737.html",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "12 Rue Charlot, 75003 Paris, France",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000126737.html",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2019年01月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000018.000126737.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2019年01月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000126737.html",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$62.1M",
+    "url": "https://getlatka.com/companies/photoroom.com",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Turn your product photos into listing images and videos that help you sell.",
+    "url": "https://www.photoroom.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The full AI photo and video solution for e‑commerce",
+    "url": "https://www.photoroom.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you're listing your first product or managing millions of SKUs.",
+    "url": "https://www.photoroom.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate image production at scale.",
+    "url": "https://www.photoroom.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI Product Photography",
+    "url": "https://www.photoroom.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Generate studio-quality product visuals without a studio.",
+    "url": "https://www.photoroom.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn your product photos into video ads with actors, music and voiceover, in every format for Meta, TikTok and YouTube.",
+    "url": "https://www.photoroom.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The fastest, most precise background remover on the market",
+    "url": "https://www.photoroom.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Add natural shadows that make products look real.",
+    "url": "https://www.photoroom.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Change product colors instantly.",
+    "url": "https://www.photoroom.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Drop your product into lifestyle scenes and seasonal contexts.",
+    "url": "https://www.photoroom.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enter your product page and we'll tell you what to fix.",
+    "url": "https://www.photoroom.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From solo entrepreneurs to enterprise teams, Photoroom scales with you and helps you sell more.",
+    "url": "https://www.photoroom.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Professional product photos and video ads in minutes. Remove backgrounds, create lifestyle shots and turn them into ads that sell.",
+    "url": "https://www.photoroom.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Batch edit your products, publish them directly to Shopify and turn them into video ads, with your brand consistent across every channel, in the app or through the API.",
+    "url": "https://www.photoroom.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"We were able to move from product assets to final live images very quickly. the entire process took just three to four days.\"",
+    "url": "https://www.photoroom.com/",
+    "pass": 1
+   },
+   {
+    "quote": "For global teams running visual production at catalogue scale. Custom AI models, API access and dedicated support to match.",
+    "url": "https://www.photoroom.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"We're proud to be the first fashion resale marketplace to partner with Photoroom, enabling sellers to quickly create high-quality product shots that help their listings stand out.\"",
+    "url": "https://www.photoroom.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sonia Biddle, Chief Product Officer, Depop",
+    "url": "https://www.photoroom.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Digital Project Manager",
+    "url": "https://www.photoroom.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Built for visual production at scale",
+    "url": "https://www.photoroom.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Accurate to the product, consistent to the brand, every image",
+    "url": "https://www.photoroom.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Edits that stay true to the product:",
+    "url": "https://www.photoroom.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Models built for e‑commerce hold the real product, so what ships matches what arrives.",
+    "url": "https://www.photoroom.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Backed by Enterprise Guarantee:",
+    "url": "https://www.photoroom.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How Depop improved listing quality at scale with AI product photo editing API | Photoroom",
+    "url": "https://www.photoroom.com/customer-stories/depop",
+    "pass": 1
+   },
+   {
+    "quote": "Why Depop chose Photoroom and drove 1M+ listings with AI product photo solutions",
+    "url": "https://www.photoroom.com/customer-stories/depop",
+    "pass": 1
+   },
+   {
+    "quote": "April 24, 2026",
+    "url": "https://www.photoroom.com/customer-stories/depop",
+    "pass": 1
+   },
+   {
+    "quote": "Inconsistent product images across millions of listings",
+    "url": "https://www.photoroom.com/customer-stories/depop",
+    "pass": 1
+   },
+   {
+    "quote": "No built-in tools to help sellers create better product photos",
+    "url": "https://www.photoroom.com/customer-stories/depop",
+    "pass": 1
+   },
+   {
+    "quote": "— Jacek Rebkowski, Lead Product Designer at Depop",
+    "url": "https://www.photoroom.com/customer-stories/depop",
+    "pass": 1
+   },
+   {
+    "quote": "reveals that 87% of online shoppers rely on product photography when making purchase decisions. For a platform built on peer-to-peer trust, where buyers can't touch or try on items, the quality of a listing photo can be the difference between a sale and a scroll-past.",
+    "url": "https://www.photoroom.com/customer-stories/depop",
+    "pass": 1
+   },
+   {
+    "quote": "Depop's product team had been thinking about AI-powered photo editing for a long time. The idea was straightforward: give sellers tools to clean up their product shots, and the whole marketplace benefits. More polished listings mean more buyer trust and ultimately more sales.",
+    "url": "https://www.photoroom.com/customer-stories/depop",
+    "pass": 1
+   },
+   {
+    "quote": "They started by building background removal in-house. With AI already central to Depop's product, powering activities like search and pricing suggestions, image editing seemed like a natural extension of the platform's capabilities. But the results of building in-house fell short.",
+    "url": "https://www.photoroom.com/customer-stories/depop",
+    "pass": 1
+   },
+   {
+    "quote": "Building competitive AI product photo editing requires deep expertise in image segmentation, product contextualization, and constant model improvement, which is often a resource-consuming project for marketplace engineering teams. So Depop’s team looked for a partner who specialized in e‑commerce product photography.",
+    "url": "https://www.photoroom.com/customer-stories/depop",
+    "pass": 1
+   },
+   {
+    "quote": "Depop partnered with Photoroom and ran a structured testing process, measured image results, and iterated across photos to find the right approach.",
+    "url": "https://www.photoroom.com/customer-stories/depop",
+    "pass": 1
+   },
+   {
+    "quote": "without a shadow, products looked like they were floating in space, unnatural and unconvincing. An image that looks too artificially edited can undermine the trust that peer-to-peer selling depends on.",
+    "url": "https://www.photoroom.com/customer-stories/depop",
+    "pass": 1
+   },
+   {
+    "quote": ". The shadow gave each product a subtle sense of weight and place. Items looked clean, but also real.",
+    "url": "https://www.photoroom.com/customer-stories/depop",
+    "pass": 1
+   },
+   {
+    "quote": "This time, the numbers moved. Items listed saw a 1.5% uplift, which represents approximately 6,000 additional items listed every day at Depop's scale of 400,000 daily listings.",
+    "url": "https://www.photoroom.com/customer-stories/depop",
+    "pass": 1
+   },
+   {
+    "quote": ": adding shadows in product photos is a distinctive way to bridge the gap between \"edited photo\" and \"trustworthy product image,\" especially in AI-powered product photography. Background removal gets the clutter out of the way. Shadows make the product feel like something you could pick up.",
+    "url": "https://www.photoroom.com/customer-stories/depop",
+    "pass": 1
+   },
+   {
+    "quote": "That distinction matters even more on resale platforms, where buyers know they're not getting brand-new items. Shoppers expect images that look realistic, not catalog-perfect. They expect items to look presentable, but also like something that actually exists, has been worn, and is ready for its next owner.",
+    "url": "https://www.photoroom.com/customer-stories/depop",
+    "pass": 1
+   },
+   {
+    "quote": "Beyond testing, Depop and Photoroom's teams ran a joint hack week to design an intuitive workflow that would fit naturally into the listing process. The goal was to make the tools invisible so that sellers wouldn’t need to learn a new app or follow extra steps.",
+    "url": "https://www.photoroom.com/customer-stories/depop",
+    "pass": 1
+   },
+   {
+    "quote": "\"We're proud to be the first fashion resale marketplace to partner with Photoroom, enabling sellers to quickly create high-quality product shots that help their listings stand out.\"",
+    "url": "https://www.photoroom.com/customer-stories/depop",
+    "pass": 1
+   },
+   {
+    "quote": "— Sonia Biddle, Chief Product Officer at Depop",
+    "url": "https://www.photoroom.com/customer-stories/depop",
+    "pass": 1
+   },
+   {
+    "quote": "Direct access to enterprise-level tools",
+    "url": "https://www.photoroom.com/customer-stories/depop",
+    "pass": 1
+   },
+   {
+    "quote": "Depop continues to roll out AI-powered features across its platform, from predictive recommendations to smarter pricing suggestions, all aimed at making selling faster and more rewarding. The Photoroom integration is part of that broader push: removing the friction that stands between a seller and a listed item.",
+    "url": "https://www.photoroom.com/customer-stories/depop",
+    "pass": 1
+   },
+   {
+    "quote": "Photoroom processes billions of images a year and powers product photo editing for peer-to-peer and resale marketplaces, including",
+    "url": "https://www.photoroom.com/customer-stories/depop",
+    "pass": 1
+   },
+   {
+    "quote": "where listings got 56% higher conversion. Depop's results add to a growing body of evidence that AI-powered product photography drives measurable listing and sales improvements across marketplace platforms.",
+    "url": "https://www.photoroom.com/customer-stories/depop",
+    "pass": 1
+   },
+   {
+    "quote": "Lead Product Marketer B2B",
+    "url": "https://www.photoroom.com/customer-stories/depop",
+    "pass": 1
+   },
+   {
+    "quote": "Why do AI shadows matter for product photos on resale marketplaces?",
+    "url": "https://www.photoroom.com/customer-stories/depop",
+    "pass": 1
+   },
+   {
+    "quote": "Professional Photo-Editing for Every Industry | Photoroom",
+    "url": "https://www.photoroom.com/industry",
+    "pass": 1
+   },
+   {
+    "quote": "Generate product scenes",
+    "url": "https://www.photoroom.com/industry",
+    "pass": 1
+   },
+   {
+    "quote": "AI Product Photography",
+    "url": "https://www.photoroom.com/industry",
+    "pass": 1
+   },
+   {
+    "quote": "Turn product photos into video",
+    "url": "https://www.photoroom.com/industry",
+    "pass": 1
+   },
+   {
+    "quote": "Video ads for Meta, TikTok and YouTube",
+    "url": "https://www.photoroom.com/industry",
+    "pass": 1
+   },
+   {
+    "quote": "For product pages and listings",
+    "url": "https://www.photoroom.com/industry",
+    "pass": 1
+   },
+   {
+    "quote": "Fashion Video Templates",
+    "url": "https://www.photoroom.com/industry",
+    "pass": 1
+   },
+   {
+    "quote": "Beauty Video Templates",
+    "url": "https://www.photoroom.com/industry",
+    "pass": 1
+   },
+   {
+    "quote": "Make your products glow",
+    "url": "https://www.photoroom.com/industry",
+    "pass": 1
+   },
+   {
+    "quote": "Product & Engineering",
+    "url": "https://www.photoroom.com/industry",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by the brands selling at first sight",
+    "url": "https://www.photoroom.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The fastest AI background removal, trusted by 80M+ users. Get pixel-perfect cutouts for clean product listings, white backgrounds, or transparent exports.",
+    "url": "https://www.photoroom.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Insights Factory: how we run deep data investigations with LLM agents",
+    "url": "https://www.photoroom.com/inside-photoroom",
+    "pass": 1
+   },
+   {
+    "quote": "Valuence Japan’s visuals relied on a seven-person team in the Philippines, six operators and one supervisor, to edit its product photos. Labor costs were roughly two-thirds of domestic rates, but the hours added up: for the bag category alone, the team needed 800 hours a month to process 24,000 images from 12,000 individual items.",
+    "url": "https://www.photoroom.com/customer-stories/valuence",
+    "pass": 1
+   },
+   {
+    "quote": "Building Google-Docs-like live collaboration for a cross-platform app used by millions (in Rust)",
+    "url": "https://www.photoroom.com/inside-photoroom/category/category-2",
+    "pass": 1
+   },
+   {
+    "quote": "Picking a state management library for a React app used by millions (and why we went with MobX)",
+    "url": "https://www.photoroom.com/inside-photoroom/category/category-2",
+    "pass": 1
+   },
+   {
+    "quote": "Redesigning an Android UI used by millions",
+    "url": "https://www.photoroom.com/inside-photoroom/category/category-2",
+    "pass": 1
+   },
+   {
+    "quote": "Sporting Goods Manufacturing",
+    "url": "https://www.casestudies.com/company/photoroom",
+    "pass": 3
+   },
+   {
+    "quote": "Photoroom Case Study: Watches – Watches Inc. sees 40% jump in qualified leads after adopting Photoroom | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/photoroom/case-study/watches-inc-sees-40-jump-in-qualified-leads-after-adopting-photoroom",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Watches used Photoroom",
+    "url": "https://www.casestudies.com/company/photoroom/case-study/watches-inc-sees-40-jump-in-qualified-leads-after-adopting-photoroom",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/photoroom/case-study/watches-inc-sees-40-jump-in-qualified-leads-after-adopting-photoroom",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/photoroom/case-study/watches-inc-sees-40-jump-in-qualified-leads-after-adopting-photoroom",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Batch edit your products, publish them directly to Shopify and turn them into video ads, with your brand consistent across every channel, in the app or through the API.",
+    "url": "https://www.photoroom.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Endpoint-level control with your Brand Library rules applied, so the same workflow runs as models evolve.",
+    "url": "https://www.photoroom.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Save your brand colors, logos, fonts, and layouts so every image across every channel is consistent and on brand.",
+    "url": "https://www.photoroom.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See how clothing and apparel brands and resellers use Photoroom.",
+    "url": "https://www.photoroom.com/industry",
+    "pass": 1
+   },
+   {
+    "quote": "External agencies handled editing via a manual process",
+    "url": "https://www.photoroom.com/customer-stories/decathlon",
+    "pass": 1
+   },
+   {
+    "quote": "With external agencies editing images manually,",
+    "url": "https://www.photoroom.com/customer-stories/decathlon",
+    "pass": 1
+   },
+   {
+    "quote": "Teams at Decathlon would download pictures from their digital asset management (DAM) system, send them to the agencies, wait for editors to manually edit in Photoshop, review results, send feedback for revisions, and wait again for corrections.",
+    "url": "https://www.photoroom.com/customer-stories/decathlon",
+    "pass": 1
+   },
+   {
+    "quote": "As Matthieu recalls, \"We were having a lot of back-and-forth with the agencies because they were interpreting the guidelines in their own way.” As you can imagine, this manual process presented several challenges for a brand with large catalog:",
+    "url": "https://www.photoroom.com/customer-stories/decathlon",
+    "pass": 1
+   },
+   {
+    "quote": "agencies required almost the same timeframe to edit manually before launching.",
+    "url": "https://www.photoroom.com/customer-stories/decathlon",
+    "pass": 1
+   },
+   {
+    "quote": "One to two people managed the initial catalog within a short period, and the Photoroom integration now saves the team time, prevents the issue of agencies interpreting the guideline differently, and ensures homogeneity in product images, which creates a better shopping experience for customers browsing Decathlon's website.",
+    "url": "https://www.photoroom.com/customer-stories/decathlon",
+    "pass": 1
+   },
+   {
+    "quote": "with single-person management vs. multiple agencies.",
+    "url": "https://www.photoroom.com/customer-stories/decathlon",
+    "pass": 1
+   },
+   {
+    "quote": "How List Perfectly boosts sales for 10,000+ resellers with Photoroom's API",
+    "url": "https://www.photoroom.com/customer-stories/decathlon",
+    "pass": 1
+   },
+   {
+    "quote": "Endpoint-level control with your Brand Library rules applied, so the same workflow runs as models evolve.",
+    "url": "https://www.photoroom.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Vintage reseller Blonde Bandit boosts engagement and sales with Photoroom",
+    "url": "https://www.casestudies.com/company/photoroom",
+    "pass": 3
+   },
+   {
+    "quote": "How List Perfectly boosts sales and cuts costs for resellers using Photoroom's API",
+    "url": "https://www.casestudies.com/company/photoroom",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Models built for e‑commerce hold the real product, so what ships matches what arrives.",
+    "url": "https://www.photoroom.com/",
+    "pass": 1
+   },
+   {
+    "quote": "1.5% uplift in items listed",
+    "url": "https://www.photoroom.com/customer-stories/depop",
+    "pass": 1
+   },
+   {
+    "quote": "This time, the numbers moved. Items listed saw a 1.5% uplift, which represents approximately 6,000 additional items listed every day at Depop's scale of 400,000 daily listings.",
+    "url": "https://www.photoroom.com/customer-stories/depop",
+    "pass": 1
+   },
+   {
+    "quote": "Depop continues to roll out AI-powered features across its platform, from predictive recommendations to smarter pricing suggestions, all aimed at making selling faster and more rewarding. The Photoroom integration is part of that broader push: removing the friction that stands between a seller and a listed item.",
+    "url": "https://www.photoroom.com/customer-stories/depop",
+    "pass": 1
+   },
+   {
+    "quote": "\"We're not just adding features; we're removing traditional selling barriers, making it easier and faster to create listings, and supporting our community to grow. This release helps users streamline how they sell, boost their visibility and better understand what's working to free up more of their time.\"",
+    "url": "https://www.photoroom.com/customer-stories/depop",
+    "pass": 1
+   },
+   {
+    "quote": "After integrating Photoroom's background removal and AI shadow tools, Depop saw a 1.5% uplift in items listed during testing. Since the full launch, over 1 million listings have been created using the photo editing features.",
+    "url": "https://www.photoroom.com/customer-stories/depop",
+    "pass": 1
+   },
+   {
+    "quote": "Sandbox calls are for building and testing: you get 1,000 a month on the Image Editing API, and the output carries a watermark. Production calls return a clean, watermark-free image. Your first 10 production calls on the Remove Background API are free with an account; after that you move to a paid plan.",
+    "url": "https://www.photoroom.com/api/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "to discover how much additional revenue you can earn by improving your product photos with Photoroom's API. Enter a few numbers, and we'll run the estimate.",
+    "url": "https://www.photoroom.com/api/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "This cultural expectation creates a unique challenge: in a country where most of the population knows Mercari and many have accounts, the pressure to create perfect listings can actually prevent people from selling at all. And for a marketplace that thrives on fresh inventory, hesitant sellers translate directly to missed revenue opportunities.",
+    "url": "https://www.photoroom.com/customer-stories/mercari",
+    "pass": 1
+   },
+   {
+    "quote": "Photoroom's background blur solved a distinctly human problem: the anxiety of sharing private spaces. By removing a psychological barrier that was preventing listings, Mercari unlocked millions of additional photos and measurably increased marketplace supply.",
+    "url": "https://www.photoroom.com/customer-stories/mercari",
+    "pass": 1
+   },
+   {
+    "quote": "For a startup, 1% might sound modest. But for a C2C environment at Mercari's scale, that translates to enormous business impact on GMV and revenue.",
+    "url": "https://www.photoroom.com/customer-stories/mercari",
+    "pass": 1
+   },
+   {
+    "quote": "Millions of sellers, brands and marketplaces around the world use Photoroom to create product photos that sell. See how they're cutting production time, scaling their catalogues and growing revenue.",
+    "url": "https://www.photoroom.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How RevenueCat launched a Shopify store without a product photoshoot",
+    "url": "https://www.photoroom.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "is one of the world's largest sports goods retailers, operating over 1,800 stores across 55 countries with more than 100,000 employees. The company's product catalog spans dozens of specialty brands—Quechua for mountain sports, Tribord for water sports, Kipsta for team sports, and more.",
+    "url": "https://www.photoroom.com/customer-stories/decathlon",
+    "pass": 1
+   },
+   {
+    "quote": "When product images are consistent and understandable, they help customers make confident purchase decisions, reduce return rates, and support Decathlon's revenue growth across multiple markets and brands.",
+    "url": "https://www.photoroom.com/customer-stories/decathlon",
+    "pass": 1
+   },
+   {
+    "quote": "How RevenueCat launched a Shopify store without a product photoshoot",
+    "url": "https://www.photoroom.com/customer-stories/palm-angels",
+    "pass": 1
+   },
+   {
+    "quote": "Models built for e‑commerce hold the real product, so what ships matches what arrives.",
+    "url": "https://www.photoroom.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Cost was only part of the problem. The arrangement created friction on four fronts:",
+    "url": "https://www.photoroom.com/customer-stories/valuence",
+    "pass": 1
+   },
+   {
+    "quote": "Communication barriers:",
+    "url": "https://www.photoroom.com/customer-stories/valuence",
+    "pass": 1
+   },
+   {
+    "quote": "Valuence Japan evaluated three AI editing services and narrowed the choice to two finalists with comparable cutout accuracy. Photoroom's shadows looked more natural on product images, which matters when customers judge a pre-owned Hermès bag from a photo. The team paid slightly more for Photoroom for that reason and still saved ¥12 million (~$80,000) a year compared with offshore outsourcing.",
+    "url": "https://www.photoroom.com/customer-stories/valuence",
+    "pass": 1
+   },
+   {
+    "quote": "PhotoRoom Revenue 2024: $50M, $500M Valuation",
+    "url": "https://getlatka.com/companies/photoroom.com",
+    "pass": 3
+   },
+   {
+    "quote": "revenue, acquisition & funding",
+    "url": "https://getlatka.com/companies/photoroom.com",
+    "pass": 3
+   },
+   {
+    "quote": "PhotoRoom was acquired.",
+    "url": "https://getlatka.com/companies/photoroom.com",
+    "pass": 3
+   },
+   {
+    "quote": "PhotoRoom's annual revenue was $50M in September 2024, its last figure before its buyer bought it.",
+    "url": "https://getlatka.com/companies/photoroom.com",
+    "pass": 3
+   },
+   {
+    "quote": "All 2 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/photoroom.com",
+    "pass": 3
+   },
+   {
+    "quote": "PhotoRoom CEO, founders & employees",
+    "url": "https://getlatka.com/companies/photoroom.com",
+    "pass": 3
+   },
+   {
+    "quote": "Matthieu Rouif founded PhotoRoom in 2019 and led it as CEO. PhotoRoom had 390 employees (September 2024, Forbes).",
+    "url": "https://getlatka.com/companies/photoroom.com",
+    "pass": 3
+   },
+   {
+    "quote": "What was PhotoRoom's revenue?",
+    "url": "https://getlatka.com/companies/photoroom.com",
+    "pass": 3
+   },
+   {
+    "quote": "Before it was acquired, PhotoRoom's annual revenue was",
+    "url": "https://getlatka.com/companies/photoroom.com",
+    "pass": 3
+   },
+   {
+    "quote": "across three funding rounds before it was acquired. The last was a $43M Series B in February 2024.",
+    "url": "https://getlatka.com/companies/photoroom.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does PhotoRoom have?",
+    "url": "https://getlatka.com/companies/photoroom.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in September 2024, according to Forbes.",
+    "url": "https://getlatka.com/companies/photoroom.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/photoroom.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/photoroom.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/photoroom.com",
+    "pass": 3
+   },
+   {
+    "quote": "そしてその執念は、6年後に年商約140億円（$94M ARR）、企業価値約750億円（$500M）という数字になって返ってきた",
+    "url": "https://note.com/lucid_pothos8277/n/nbe758956745d",
+    "pass": 3
+   },
+   {
+    "quote": "ここが面白いのだが、Photoroomは投資額わずか200万ドル（約3億円）の時点でARR 2,000万ドル（約30億円）に到達している",
+    "url": "https://note.com/lucid_pothos8277/n/nbe758956745d",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "If you prefer to continue using your previous API key, contact us at",
+    "url": "https://www.photoroom.com/api/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Please note that you will be moved to your new plan and therefore lose any existing unused images. Email",
+    "url": "https://www.photoroom.com/api/pricing",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "(massive impact for Japan's dominant C2C marketplace)",
+    "url": "https://www.photoroom.com/customer-stories/mercari",
+    "pass": 1
+   },
+   {
+    "quote": "Nick Pittoni has seen marketplace behaviors across continents—from the UK to Germany, Spain to the US. But nothing prepared him for the unspoken rules of selling in Japan.",
+    "url": "https://www.photoroom.com/customer-stories/mercari",
+    "pass": 1
+   },
+   {
+    "quote": "Japan's dominant C2C marketplace, Nick discovered that Japanese sellers operate by a completely different playbook. \"There's a high bar for sellers and buyers, and you're kind of expected to know what you're doing,\" he explains. \"Otherwise you get penalized. You can get negative feedback fairly easily.\"",
+    "url": "https://www.photoroom.com/customer-stories/mercari",
+    "pass": 1
+   },
+   {
+    "quote": "Japan's marketplace culture demands authenticity at a level that would surprise most Western sellers.",
+    "url": "https://www.photoroom.com/customer-stories/mercari",
+    "pass": 1
+   },
+   {
+    "quote": "Japanese sellers meticulously document every scratch, stain, and imperfection with detailed photos and descriptions. “If you're buying a CD or a game, they would photograph the back at precisely the right angle to show buyers exactly how many scratches to expect,” shares Nick.",
+    "url": "https://www.photoroom.com/customer-stories/mercari",
+    "pass": 1
+   },
+   {
+    "quote": "\"Many sellers are often very conscious about where they're taking their photos. In Japan, more often than not, maybe the house is a bit small, the space is kind of cramped, and the background can be messy.\"",
+    "url": "https://www.photoroom.com/customer-stories/mercari",
+    "pass": 1
+   },
+   {
+    "quote": "The feature means sellers can avoid worrying about where they list from. Oftentimes in Japan, young people may help older parents get rid of unwanted objects, but taking photos can be challenging in such locations. Whether it's the clutter or the old school looking floor, now they don't have to worry about it.",
+    "url": "https://www.photoroom.com/customer-stories/mercari",
+    "pass": 1
+   },
+   {
+    "quote": "How Valuence Japan cut editing from 800 to 200 hours and saved ¥12M a year",
+    "url": "https://www.photoroom.com/customer-stories/mercari",
+    "pass": 1
+   },
+   {
+    "quote": "How Valuence Japan cut editing from 800 to 200 hours and saved ¥12M a year",
+    "url": "https://www.photoroom.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How Valuence Japan cut editing from 800 to 200 hours and saved ¥12M a year",
+    "url": "https://www.photoroom.com/customer-stories/decathlon",
+    "pass": 1
+   },
+   {
+    "quote": "How Valuence Japan cut editing from 800 to 200 hours and saved ¥12M a year",
+    "url": "https://www.photoroom.com/customer-stories/palm-angels",
+    "pass": 1
+   },
+   {
+    "quote": "How Valuence Japan cut photo editing from 800 to 200 hours with Photoroom's API | Photoroom",
+    "url": "https://www.photoroom.com/customer-stories/valuence",
+    "pass": 1
+   },
+   {
+    "quote": "How Valuence Japan cut editing from 800 to 200 hours and saved ¥12M a year",
+    "url": "https://www.photoroom.com/customer-stories/valuence",
+    "pass": 1
+   },
+   {
+    "quote": "Takanori Hirai, Deputy General Manager, Product and Photography Section, Valuence Japan Inc.",
+    "url": "https://www.photoroom.com/customer-stories/valuence",
+    "pass": 1
+   },
+   {
+    "quote": "In the heart of Tokyo's luxury retail district, Takanori Hirai faces a challenge that would make most product managers lose sleep. As deputy general manager of the product and photography section at",
+    "url": "https://www.photoroom.com/customer-stories/valuence",
+    "pass": 1
+   },
+   {
+    "quote": "Unlike traditional retail, where you photograph a product once and sell thousands of copies, every item that comes through Valuence Japan's doors is one-of-a-kind. Each one needs its own photo and its own edit, to the standard of customers who expect the best when spending thousands on pre-owned luxury goods.",
+    "url": "https://www.photoroom.com/customer-stories/valuence",
+    "pass": 1
+   },
+   {
+    "quote": "Valuence Japan’s visuals relied on a seven-person team in the Philippines, six operators and one supervisor, to edit its product photos. Labor costs were roughly two-thirds of domestic rates, but the hours added up: for the bag category alone, the team needed 800 hours a month to process 24,000 images from 12,000 individual items.",
+    "url": "https://www.photoroom.com/customer-stories/valuence",
+    "pass": 1
+   },
+   {
+    "quote": "The overseas team opted for aesthetics that often conflicted with Japanese standards. \"Due to differences in photo quality standards between Japan and overseas teams, the final output often differed from the original requirements,\" Takanori recalls. High-contrast image edits, preferred overseas, caused unwanted brightness issues.",
+    "url": "https://www.photoroom.com/customer-stories/valuence",
+    "pass": 1
+   },
+   {
+    "quote": "benchmarked AI editing solutions for its catalog, so Valuence Japan was not alone in paying for that detail.",
+    "url": "https://www.photoroom.com/customer-stories/valuence",
+    "pass": 1
+   },
+   {
+    "quote": "How Valuence Japan edits 24,000 images a month in-house today",
+    "url": "https://www.photoroom.com/customer-stories/valuence",
+    "pass": 1
+   },
+   {
+    "quote": "A monogram sling bag, raw photo on the left, Photoroom edit on the right with white background, tighter framing, and a soft shadow. Source: Valuence Japan",
+    "url": "https://www.photoroom.com/customer-stories/valuence",
+    "pass": 1
+   },
+   {
+    "quote": "An orange messenger bag, raw photo on the left, Photoroom edit on the right with white background, tighter framing, and a soft shadow. Source: Valuence Japan",
+    "url": "https://www.photoroom.com/customer-stories/valuence",
+    "pass": 1
+   },
+   {
+    "quote": "Since bringing editing in-house with Photoroom, Valuence Japan has:",
+    "url": "https://www.photoroom.com/customer-stories/valuence",
+    "pass": 1
+   },
+   {
+    "quote": "Edited listings on ALLU, Valuence Japan's online resale store, with a Chanel, Hermès, and Louis Vuitton bag sharing the same white background and framing. Source: Valuence Japan",
+    "url": "https://www.photoroom.com/customer-stories/valuence",
+    "pass": 1
+   },
+   {
+    "quote": "With capacity to spare in its Photoroom subscription, Valuence Japan plans to extend Photoroom to its jewelry and accessory lines, categories where fine visual detail matters just as much as it does for bags. The team is also exploring how to reuse every edited image for social media and advertising.",
+    "url": "https://www.photoroom.com/customer-stories/valuence",
+    "pass": 1
+   },
+   {
+    "quote": "Why did Valuence Japan choose Photoroom over a cheaper alternative?",
+    "url": "https://www.photoroom.com/customer-stories/valuence",
+    "pass": 1
+   },
+   {
+    "quote": "Valuence Japan evaluated three AI editing services and narrowed the choice to two finalists with comparable cutout accuracy. Photoroom's shadows looked more natural on product images, which matters when customers judge a pre-owned Hermès bag from a photo. The team paid slightly more for Photoroom for that reason and still saved ¥12 million (~$80,000) a year compared with offshore outsourcing.",
+    "url": "https://www.photoroom.com/customer-stories/valuence",
+    "pass": 1
+   },
+   {
+    "quote": "How much time and money did Valuence Japan save with Photoroom?",
+    "url": "https://www.photoroom.com/customer-stories/valuence",
+    "pass": 1
+   },
+   {
+    "quote": "Valuence Japan cut editing time from 800 to 200 hours a month for its handbag category after replacing a seven-person offshore team with Photoroom. The change saved about ¥12 million (~$80,000) a year in outsourcing costs. The team also reports shorter lead times, faster time-to-market, and in-house quality control.",
+    "url": "https://www.photoroom.com/customer-stories/valuence",
+    "pass": 1
+   },
+   {
+    "quote": "Photoroom（フランス・パリ）は、AI画像編集アプリ「Photoroom」の技術が日本のフリマアプリ「メルカリ」に導入されたと発表",
+    "url": "https://www.generatived.com/news/mercari-introduces-photoroom-technology-to-support-photography",
+    "pass": 3
+   },
+   {
+    "quote": "日本ではダウンロード数200万回を超え、世界では3億回のダウンロードを記録",
+    "url": "https://www.generatived.com/news/mercari-introduces-photoroom-technology-to-support-photography",
+    "pass": 3
+   },
+   {
+    "quote": "Microsoft（米国ワシントン州）は、ヘルスケアおよびライフサイエンス領域における人工知能ツールの導入事例と最新動向を発表した",
+    "url": "https://www.generatived.com/news/mercari-introduces-photoroom-technology-to-support-photography",
+    "pass": 3
+   },
+   {
+    "quote": "Photoroomの画像編集技術が日本最大級フリマアプリ「メルカリ」に採用／「ぼかし機能」で背景を気にせず、誰でも簡単に撮影・出品が可能に！ | Artizans of Photo Video Background Editor App S.A.Sのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000018.000126737.html",
+    "pass": 3
+   },
+   {
+    "quote": "Photoroomの画像編集技術が日本最大級フリマアプリ「メルカリ」に採��用／「ぼかし機能」で背景を気にせず、誰でも簡単に撮影・出品が可能に！",
+    "url": "https://prtimes.jp/main/html/rd/p/000000018.000126737.html",
+    "pass": 3
+   },
+   {
+    "quote": "高精度な自動切り抜き・背景除去が可能なAI画像編集アプリ「Photoroom」（本社：フランス・パリ）は、企業との連携を拡大しており、この度、日本最大級のフリマアプリ「メルカリ」において、Photoroomの画像編集技術が導入されたことをお知らせいたします",
+    "url": "https://prtimes.jp/main/html/rd/p/000000018.000126737.html",
+    "pass": 3
+   },
+   {
+    "quote": "Photoroomのメルカリ導入事例ページ：",
+    "url": "https://prtimes.jp/main/html/rd/p/000000018.000126737.html",
+    "pass": 3
+   },
+   {
+    "quote": "特に日本では「綺麗な場所で撮影しないと出品できない」という意識が根強く、こうした心理的ハードルが出品の妨げとなっていました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000018.000126737.html",
+    "pass": 3
+   },
+   {
+    "quote": "Photoroomは、ネットショップ運営者やフリマアプリの出品者が、商品画像を編集する際に利用されることが多く、日本国内においてダウンロード数が200万回を超え急成長を遂げています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000018.000126737.html",
+    "pass": 3
+   },
+   {
+    "quote": "この度、Photoroomの「メルカリ導入事例ページ」が公開されました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000018.000126737.html",
+    "pass": 3
+   },
+   {
+    "quote": "Photoroom、日本市場での成長加速！4年間でDAUが12倍以上に増加、EC事業者・ホビーユーザーに拡大、日本独自のコミュニティも形成 | Artizans of Photo Video Background Editor App S.A.Sのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000126737.html",
+    "pass": 3
+   },
+   {
+    "quote": "Photoroom、日本市場での成長加速！4年間でDAUが12倍以上に増加、EC事業者・ホビーユーザーに拡大、日本独自のコミュニティも形成",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000126737.html",
+    "pass": 3
+   },
+   {
+    "quote": "AIによる高精度の自動切り抜き・自動生成背景が簡単にできる画像編集アプリ「Photoroom」（本社：フランス・パリ）は、日本市場で着実な成長を遂げています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000126737.html",
+    "pass": 3
+   },
+   {
+    "quote": "直感的な操作性と高精度なAI機能を兼ね備えたPhotoroomは、スマートフォンでのビジュアル制作が重要視される日本市場において、ますます多くのユーザーに受け入れられています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000126737.html",
+    "pass": 3
+   },
+   {
+    "quote": "ホビーユーザーにも拡大、日本独自のコミュニティが形成",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000126737.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場では、フリマアプリやオンラインショップ運営者に加え、プラモデル・フィギュア・ミニチュア愛好家などホビーユーザーの間でも支持が広がっています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000126737.html",
+    "pass": 3
+   },
+   {
+    "quote": "細かいディテールの正確な切り抜きが求められる分野でも高い評価を獲得し、日本独自のPhotoroomユーザーコミュニティが形成されつつあります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000126737.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業のブランディング支援や個人のクリエイティブ表現のツールとして、日本市場での存在感をさらに高めています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000126737.html",
+    "pass": 3
+   },
+   {
+    "quote": "Photoroomは、AI技術を活用した編集機能をさらに強化し、日本市場向けの最適化を進めていきます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000126737.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、企業とのコラボレーションを強化し、ブランドやパートナーとの連携を拡大することで、日本市場におけるプレゼンスをさらに高めてまいります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000126737.html",
+    "pass": 3
+   },
+   {
+    "quote": "「日本市場でのPhotoroomの成長は、ユーザーの皆さまの創造力とニーズに応えることができた結果だと考えています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000126737.html",
+    "pass": 3
+   },
+   {
+    "quote": "今後も、AI技術を活用した直感的な画像編集体験を提供し、日本のクリエイターやビジネスオーナーの成功をサポートしていきたいと思います",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000126737.html",
+    "pass": 3
+   },
+   {
+    "quote": "特にオンラインショップ運営者やフリマアプリ出品者が商品画像を編集する際に多く利用しており、日本国内でのダウンロード数は200万回を突破し、急成長を遂げています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000126737.html",
+    "pass": 3
+   },
+   {
+    "quote": "【note限定｜AI利用】リリースノート日本語翻訳マガジン",
+    "url": "https://note.com/nininbaori_memo/n/n1e5d90b55b48?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "メルカリがPhotoroomを活用して出品者の信頼を高め、出品数を数百万件... — Oct 31, 2025 · Photoroomの 背景除去API は 導入が非常にスムーズ で、わずか3〜4名のエンジニアで2〜3ヶ月実装・リリースまで完了。 機能面では、リアルな商品の質感を残したまま、 背景を自然にぼかす ことを重視しました。 出品者は撮影画面でボタンを1回タップするだけ。",
+    "url": "https://www.photoroom.com/ja/customer-stories/mercari",
+    "pass": 3
+   },
+   {
+    "quote": "Photoroom技術メルカリ導入で写真撮影支援 — Nov 7, 2025 · Photoroom（フランス・パリ）は、AI画像編集アプリ「Photoroom」の技術が日本のフリマアプリ「メルカリ」に導入されたと発表。 出品時の写真撮影で背景の問題に直面するユーザーを支援するため、メルカリはこの技術を採用した。",
+    "url": "https://www.generatived.com/news/mercari-introduces-photoroom-technology-to-support-photography",
+    "pass": 3
+   },
+   {
+    "quote": "Photoroomの画像編集技術が日本最大級フリマアプリ「メルカリ」に採用... — Nov 5, 2025 · Photoroomは、ネットショップ運営者やフリマアプリの出品者が、商品画像を編集する際に利用されることが多く、日本国内においてダウンロード数 ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000018.000126737.html",
+    "pass": 3
+   },
+   {
+    "quote": "Photoroom、日本市場での成長加速！4年間でDAUが12倍以上に増加、EC事... — Mar 26, 2025 · 直感的な操作性と高精度なAI機能を兼ね備えたPhotoroomは、スマートフォンでのビジュアル制作が重要視される日本市場において、ますます多くの ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000126737.html",
+    "pass": 3
+   },
+   {
+    "quote": "フリマ出品の常識が変わる！PhotoroomのAI画像編集「ぼかし機能」がメ... — Nov 5, 2025 · AI画像編集アプリ「Photoroom」の先進的な技術が、日本最大級のフリマアプリ「メルカリ」に導入されました。 特に注目されるのは、写真の背景を自動でぼかす「ぼかし機能」です。",
+    "url": "https://rakuraku-ai.com/フリマ出品の常識が変わる！photoroomのai画像編集「ぼか/",
+    "pass": 3
+   },
+   {
+    "quote": "AIを活用した商品写真編集・出品スタジオ | Photoroom — 私たちは、ファッションリセールマーケットプレイスとして初めてPhotoroomと提携し、販売者が高品質な商品写真をスピーディーに作成し、商品ページをより魅力的に見せられることを誇りに思います。",
+    "url": "https://www.photoroom.com/ja",
+    "pass": 3
+   },
+   {
+    "quote": "AIフォトエディター - 無料の写真編集ツール | Photoroom — Photoroomを使用して写真を編集できますか？ Photoroomなら、商品画像の編集を効率的に行えます。 PhotoroomのAI技術を活用し、リアルなバックグラウンドを素早く作成したり、テキストから画像を生成するツールでゼロからビジュアルを用意したりできます。",
+    "url": "https://www.photoroom.com/ja/tools",
+    "pass": 3
+   },
+   {
+    "quote": "The Full AI Visual Editor for E‑commerce | Photoroom — Generate studio-quality shots in seconds. Just upload a product photo and Photoroom generates the visual.",
+    "url": "https://www.photoroom.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Photoroom Japan 2026: ¥1,800/mo · −12% - aisubdeal.com — Compare Photoroom plans in Japan. Current price: $11.38/mo (JPY 1800). Save ~$19/yr (12% vs US). Rank #4/19. Updated 2026. →",
+    "url": "https://www.aisubdeal.com/ja/pricing/photoroom/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Photoroomについて | Photoroom — Photoroomのストーリー、ミッション、そして次世代の写真編集を支えるテクノロジーをご紹介します。",
+    "url": "https://www.photoroom.com/ja/about",
+    "pass": 3
+   },
+   {
+    "quote": "Photoroom B2B Case Studies & Customer Successes — See how Photoroom solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/photoroom",
+    "pass": 3
+   },
+   {
+    "quote": "Customer stories | Photoroom — Millions of sellers, brands and marketplaces around the world use Photoroom to create product photos that sell. See how they're cutting production time, scaling their catalogues and growing revenue.",
+    "url": "https://www.photoroom.com/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "How Decathlon slashed image editing costs by 99% ... - PhotoRoom — Feb 27, 2026 · Discover how Decathlon used Photoroom to edit 35K images for a revamp project, reducing editing time and costs by 99%.",
+    "url": "https://www.photoroom.com/customer-stories/decathlon",
+    "pass": 3
+   },
+   {
+    "quote": "Photoroom Case Study: Watches – Watches Inc. sees 40% jump in ... — Watches (Manufacturing) partnered with Photoroom (Internet) to solve key challenges. \"Watches Inc. sees 40% jump in qualified leads after adopting Photoroom\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/photoroom/case-study/watches-inc-sees-40-jump-in-qualified-leads-after-adopting-photoroom",
+    "pass": 3
+   },
+   {
+    "quote": "20 Photoroom Case Studies, Success Stories, & Customer ... — Discover how other companies use Photoroom, get inspired, and find ways to improve your business.",
+    "url": "https://www.featuredcustomers.com/vendor/photoroom/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "The Full AI Visual Editor for E‑commerce | Photoroom — Turn your product photos into listing images and videos that help you sell.",
+    "url": "https://www.photoroom.com/",
+    "pass": 3
+   },
+   {
+    "quote": "PhotoRoom – Financial Footprint & Growth Factors – 2026 — PhotoRoom’s operational efficiency results in $4.4M revenue per employee. PhotoRoom has received total funding worth $75M. Analyst estimates place PhotoRoom’s market value at $500M. PhotoRoom has scaled its team to over 50+ members. PhotoRoom saw a 93% decrease in total employees over the past year.",
+    "url": "https://compworth.com/company/photoroom",
+    "pass": 3
+   },
+   {
+    "quote": "PhotoRoom - 2026 Company Profile, Team, Funding ... - TracxnPhotoRoom Revenue 2024: $50M, $500M Valuation - LATKAPhotoroom ARR, revenue, valuation and headcount (2026)Photoroom Funding History: $43.0M | Indexed.vcPhotoRoom 2026 Company Profile: Valuation, Funding ...Photoroom: funding rounds, valuation, investors and revenue — Mar 8, 2026 · PhotoRoom is a series B company based in Paris (France), ",
+    "url": "https://tracxn.com/d/companies/photoroom/__3Eb7XKd5tPi6IJQFKmZrfp2xHmMSn4DH7M3WdkToYPY",
+    "pass": 3
+   },
+   {
+    "quote": "PhotoRoom Revenue 2024: $50M, $500M Valuation - LATKA — Oct 30, 2026 · PhotoRoom 2024 revenue: $50M. Valuation: $500M. Total funding: $62.1M across 3 rounds. 30M customers, 390 employees. Founded 2019. Updated Oct 30, 2026.",
+    "url": "https://getlatka.com/companies/photoroom.com",
+    "pass": 3
+   },
+   {
+    "quote": "Photoroom ARR, revenue, valuation and headcount (2026) — Photoroom is an AI image-editing platform on mobile, web and API. It started with background removal and now offers generative tools such as AI Backgrounds, AI Images and AI Shadows, plus batch editing for marketplace-ready product photos.",
+    "url": "https://ai.lounge.ai/arr/photoroom",
+    "pass": 3
+   },
+   {
+    "quote": "Photoroom Funding History: $43.0M | Indexed.vc — Sep 7, 2026 · Photoroom is an artificial intelligence company in Paris, France, founded in 2019. It has raised $43.0M across 1 round, most recently a $43.0M Venture Round in February 2024.",
+    "url": "https://indexed.vc/companies/photoroom",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "[Photoroom] August 2026 New Feature Summary! AI Fashion Model ... Sep 12, 2026 · The AI image editing app \"Photoroom\" has released information on new features and updates for August 2026. This update focuses on enhancing the quality of e-commerce and product listing images, as well as improving features for efficiently and accurately editing and checking large volumes of images. Here is a summary ",
+    "url": "https://note.com/nininbaori_memo/n/n1e5d90b55b48?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【PhotoRoom】本当に神アプリ！Canva以上におすすめな理由と活用法（... Jun 5, 2025 · PhotoRoom（フォトルーム）は今や「AI画像編集アプリの王者」ともいえる存在。 私自身、Canva ProやCapCut などさまざまなツールを日常的に使っていますが、画像編集の分野においては「PhotoRoomが一歩リードしている」と断言できます。",
+    "url": "https://note.com/yudai_book/n/na90ea1b02ad2",
+    "pass": 3
+   },
+   {
+    "quote": "トラブル回避！Photoroom利用規約で大切なこと【初心者必見】 May 3, 2025 · Photoroom で編集する写真（ユーザーコンテンツ）には、あなた自身が責任を持つ必要があります。 自分で撮った写真か、許可を得たものを使う: 他の人が撮った写真、ネットで見つけた画像、アニメや漫画のキャラクターなどを無断で使うのはNGです。",
+    "url": "https://note.com/calm_tucan2717/n/nfe6730435f27",
+    "pass": 3
+   },
+   {
+    "quote": "【初心者向け】無料でここまでできる！写真加工アプリ「Photoroom」の... May 4, 2025 · スマホ一つでプロ級の写真加工ができると話題のアプリ「Photoroom（フォトルーム）」をご存じですか？ 特に副業やSNS運用、メルカリ・EC販売をしている人にとって、「被写体の切り抜き」や「背景合成」「サムネイル作成」は重要な作業。",
+    "url": "https://note.com/fine_crane8415/n/n7057370576fd",
+    "pass": 3
+   },
+   {
+    "quote": "80人で年商140億円。パリ発のAI画像アプリPhotoroomが「地味なのに儲... Apr 11, 2026 · マクドナルドで客に声をかけて食事代を奢り、代わりにアプリをダウンロードしてもらう。フィードバックを聞きすぎて、ついにはオフィス近くのマクドナルドを出禁になった――。これがPhotoroomの創業者Matthieu Rouifの初期ユーザー獲得法だったと聞いたとき、思わず笑ってしまった。 だが ...",
+    "url": "https://note.com/lucid_pothos8277/n/nbe758956745d",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "[Photoroom] August 2026 New Feature Summary! AI Fashion Model Background Presets Added, Batch Editing Enhancements, and More｜二人羽織すずらん",
+    "url": "https://note.com/nininbaori_memo/n/n1e5d90b55b48?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Photoroom] August 2026 New Feature Summary! AI Fashion Model Background Presets Added, Batch Editing Enhancements, and More",
+    "url": "https://note.com/nininbaori_memo/n/n1e5d90b55b48?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The AI image editing app \"Photoroom\" has released information on new features and updates for August 2026.",
+    "url": "https://note.com/nininbaori_memo/n/n1e5d90b55b48?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This update focuses on enhancing the quality of e-commerce and product listing images, as well as improving features for efficiently and accurately editing and checking large volumes of images. Here is a summary of the key highlights.",
+    "url": "https://note.com/nininbaori_memo/n/n1e5d90b55b48?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "💡 Key New Features & Updates",
+    "url": "https://note.com/nininbaori_memo/n/n1e5d90b55b48?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1. New Studio Background Presets for \"AI Fashion Model\"",
+    "url": "https://note.com/nininbaori_memo/n/n1e5d90b55b48?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Improved background consistency:",
+    "url": "https://note.com/nininbaori_memo/n/n1e5d90b55b48?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Fixed the issue where the background finish would vary slightly with each generation.",
+    "url": "https://note.com/nininbaori_memo/n/n1e5d90b55b48?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【PhotoRoom】本当に神アプリ！Canva以上におすすめな理由と活用法（年間契約ユーザーが語る実体験）｜ゆうだい😊SNS収益ラボ",
+    "url": "https://note.com/yudai_book/n/na90ea1b02ad2",
+    "pass": 3
+   },
+   {
+    "quote": "【PhotoRoom】本当に神アプリ！Canva以上におすすめな理由と活用法（年間契約ユーザーが語る実体験）",
+    "url": "https://note.com/yudai_book/n/na90ea1b02ad2",
+    "pass": 3
+   },
+   {
+    "quote": "こんにちは、動画編集クリエイターのゆうだいです😊",
+    "url": "https://note.com/yudai_book/n/na90ea1b02ad2",
+    "pass": 3
+   },
+   {
+    "quote": "iPhoneの方もAndroidの方もこちらから↑↑↑",
+    "url": "https://note.com/yudai_book/n/na90ea1b02ad2",
+    "pass": 3
+   },
+   {
+    "quote": "PhotoRoom（フォトルーム）は今や「AI画像編集アプリの王者」ともいえる存在。",
+    "url": "https://note.com/yudai_book/n/na90ea1b02ad2",
+    "pass": 3
+   },
+   {
+    "quote": "などさまざまなツールを日常的に使っていますが、画像編集の分野においては「",
+    "url": "https://note.com/yudai_book/n/na90ea1b02ad2",
+    "pass": 3
+   },
+   {
+    "quote": "アップスケール（高画質化）機能・消しゴム機能",
+    "url": "https://note.com/yudai_book/n/na90ea1b02ad2",
+    "pass": 3
+   },
+   {
+    "quote": "色々な事が学べるメンバーシップも公開中です↓↓↓",
+    "url": "https://note.com/yudai_book/n/na90ea1b02ad2",
+    "pass": 3
+   },
+   {
+    "quote": "トラブル回避！Photoroom利用規約で大切なこと【初心者必見】｜でもでもサーチ※この記事にはPRが含まれます／一部AIにより作成",
+    "url": "https://note.com/calm_tucan2717/n/nfe6730435f27",
+    "pass": 3
+   },
+   {
+    "quote": "トラブル回避！Photoroom利用規約で大切なこと【初心者必見】",
+    "url": "https://note.com/calm_tucan2717/n/nfe6730435f27",
+    "pass": 3
+   },
+   {
+    "quote": "でもでもサーチ※この記事にはPRが含まれます／一部AIにより作成",
+    "url": "https://note.com/calm_tucan2717/n/nfe6730435f27",
+    "pass": 3
+   },
+   {
+    "quote": "ってすごく便利！」「写真編集が楽しくなった！」",
+    "url": "https://note.com/calm_tucan2717/n/nfe6730435f27",
+    "pass": 3
+   },
+   {
+    "quote": "。でも、アプリを使う上で守らなければいけないルール（利用規約）があることをご存知ですか？",
+    "url": "https://note.com/calm_tucan2717/n/nfe6730435f27",
+    "pass": 3
+   },
+   {
+    "quote": "「利用規約って難しそうだし、読むの面倒…」と感じるかもしれませんが、知らずに使っていると思わぬトラブルに繋がったり、損をしてしまったりすることも。",
+    "url": "https://note.com/calm_tucan2717/n/nfe6730435f27",
+    "pass": 3
+   },
+   {
+    "quote": "特に初心者の方が「これだけは知っておきたい！」という大切な注意点",
+    "url": "https://note.com/calm_tucan2717/n/nfe6730435f27",
+    "pass": 3
+   },
+   {
+    "quote": "をピックアップして、分かりやすく解説します。安心して",
+    "url": "https://note.com/calm_tucan2717/n/nfe6730435f27",
+    "pass": 3
+   },
+   {
+    "quote": "【初心者向け】無料でここまでできる！写真加工アプリ「Photoroom」の魅力と使い方｜副業 × AIフルスタック起業家｜AIで稼ぐ“仕組み”をつくる人。",
+    "url": "https://note.com/fine_crane8415/n/n7057370576fd",
+    "pass": 3
+   },
+   {
+    "quote": "【初心者向け】無料でここまでできる！写真加工アプリ「Photoroom」の魅力と使い方",
+    "url": "https://note.com/fine_crane8415/n/n7057370576fd",
+    "pass": 3
+   },
+   {
+    "quote": "副業 × AIフルスタック起業家｜AIで稼ぐ“仕組み”をつくる人。",
+    "url": "https://note.com/fine_crane8415/n/n7057370576fd",
+    "pass": 3
+   },
+   {
+    "quote": "スマホ一つでプロ級の写真加工ができると話題のアプリ「Photoroom（フォトルーム）」をご存じですか？",
+    "url": "https://note.com/fine_crane8415/n/n7057370576fd",
+    "pass": 3
+   },
+   {
+    "quote": "特に副業やSNS運用、メルカリ・EC販売をしている人にとって、「被写体の切り抜き」や「背景合成」「サムネイル作成」は重要な作業。",
+    "url": "https://note.com/fine_crane8415/n/n7057370576fd",
+    "pass": 3
+   },
+   {
+    "quote": "実現してくれる、まさに“魔法のような”写真編集アプリです。",
+    "url": "https://note.com/fine_crane8415/n/n7057370576fd",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、初心者でもすぐに使いこなせるPhotoroomの魅力と活用方法を、",
+    "url": "https://note.com/fine_crane8415/n/n7057370576fd",
+    "pass": 3
+   },
+   {
+    "quote": "1. 無料で使える！Photoroomの驚異的な切り抜き精度",
+    "url": "https://note.com/fine_crane8415/n/n7057370576fd",
+    "pass": 3
+   },
+   {
+    "quote": "80人で年商140億円。パリ発のAI画像アプリPhotoroomが「地味なのに儲かる」理由｜鯱君 AI起業家解剖マガジン",
+    "url": "https://note.com/lucid_pothos8277/n/nbe758956745d",
+    "pass": 3
+   },
+   {
+    "quote": "80人で年商140億円。パリ発のAI画像アプリPhotoroomが「地味なのに儲かる」理由",
+    "url": "https://note.com/lucid_pothos8277/n/nbe758956745d",
+    "pass": 3
+   },
+   {
+    "quote": "マクドナルドで客に声をかけて食事代を奢り、代わりにアプリをダウンロードしてもらう。フィードバックを聞きすぎて、ついにはオフィス近くのマクドナルドを出禁になった――。これがPhotoroomの創業者Matthieu Rouifの初期ユーザー獲得法だったと聞いたとき、思わず笑ってしまった。",
+    "url": "https://note.com/lucid_pothos8277/n/nbe758956745d",
+    "pass": 3
+   },
+   {
+    "quote": "だが、このエピソードの裏にあるのは「ユーザーの声を直接聞く」という、テクノロジーとは対極のアナログな執念だ。そしてその執念は、6年後に年商約140億円（$94M ARR）、企業価値約750億円（$500M）という数字になって返ってきた。しかも社員はわずか約80人。パリの小さなチームが、CanvaでもAdobeでもない「第三のポジション」を静かに築いている。",
+    "url": "https://note.com/lucid_pothos8277/n/nbe758956745d",
+    "pass": 3
+   },
+   {
+    "quote": "一言で言えば、「スマホで撮った商品写真をプロ品質に変える」AIアプリだ。",
+    "url": "https://note.com/lucid_pothos8277/n/nbe758956745d",
+    "pass": 3
+   },
+   {
+    "quote": "メルカリやShopifyで商品を売ったことがある人なら分かるだろう。写真の良し悪しで売れ行きが変わる。だがプロに頼めば1枚数千円。Photoshopは使い方が分からない。かといって自室の散らかった背景で撮った写真では買い手に選ばれない。",
+    "url": "https://note.com/lucid_pothos8277/n/nbe758956745d",
+    "pass": 3
+   },
+   {
+    "quote": "Photoroomは、この「写真のジレンマ」をAIで解決した。スマホで撮影した画像をアプリに放り込めば、背景を自動除去し、白背景やスタジオ風の背景をワンタップで合成してくれる。最近ではバーチャルモデルに服を着せたり、商品画像から短い動画を自動生成する機能まで加わった。",
+    "url": "https://note.com/lucid_pothos8277/n/nbe758956745d",
+    "pass": 3
+   },
+   {
+    "quote": "累計ダウンロード数は2億回を超えている。数字だけ聞くと派手だが、やっていることは「背景を消す」という、考えてみれば地味な機能だ。ではなぜ、この地味なアプリが年商140億円を叩き出しているのか。",
+    "url": "https://note.com/lucid_pothos8277/n/nbe758956745d",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Photoroom - LinkedIn Founded in 2019, Photoroom is the leading AI visual solution for e-commerce, processing over 7 billion images a year across mobile, web, and API, trusted by over 1 million businesses and 300 ...",
+    "url": "https://www.linkedin.com/company/photoroom",
+    "pass": 3
+   },
+   {
+    "quote": "Photoroom - LinkedIn Founded in 2019, Photoroom is the leading AI visual solution for e-commerce, processing over 7 billion images a year across mobile, web, and API, trusted by over 1 million businesses and 300...",
+    "url": "https://fr.linkedin.com/company/photoroom",
+    "pass": 3
+   },
+   {
+    "quote": "Photoroom | LinkedIn About Photoroom is an AI-powered visual solution that helps e-commerce businesses and marketplace operators produce professional-quality images quickly and at scale.",
+    "url": "https://ai.linkedin.com/products/photoroom/",
+    "pass": 3
+   },
+   {
+    "quote": "Eliot Andres - Exploring - Previously co-founder @ Photoroom ...PhotoRoom - LinkedInJeanette S. - Senior Product Marketing Manager @Photoroom ...D'Arcy MG - Machine Learning | AI | Diffusion | Applied ... - Products I personally brought to life: Photoroom apps (iOS, Android, web), Image Editing API (used by Amazon, Poshmark, DoorDash). Shipped unique AI features used by millions: AI Backgrounds...",
+    "url": "https://fr.linkedin.com/in/eliotandres",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Photoroom - Facebook Oct 28, 2026 · Photoroom. 256,891 followers · 26,118 talking about this. 🥇The #1 Photo Studio for entrepreneurs - stunning photos & instant background removal 🏆Apple...",
+    "url": "https://www.facebook.com/p/Photoroom-100049067624480/",
+    "pass": 3
+   },
+   {
+    "quote": "Photoroom - Facebook May 21, 2026 · Her simple @photoroom batch workflow helps her transform multiple photos in minutes with crisp backgrounds, leading to a 500% increase in sales and listings that rank at the top of Google Search! 🚀 Want to see exactly how she does it?",
+    "url": "https://www.facebook.com/PhotoRoom-105863290980747/",
+    "pass": 3
+   },
+   {
+    "quote": "Photoroom Community - Facebook Photoroom Community About this group Hello👋 Welcome to the Photoroom Community🚀 🥇The #1 Photo Studio for📱entrepreneurs - create efficient images in seconds & remove background automatically. This group is for Photoroomers to have a shared place to connect on all things PhotoRoom.",
+    "url": "https://www.facebook.com/groups/photoroomcommunity/",
+    "pass": 3
+   },
+   {
+    "quote": "What Is PhotoRoom - Facebook PhotoRoom is a popular mobile and web application used primarily for removing backgrounds and editing product photos for e-commerce platforms like eBay,...",
+    "url": "https://www.facebook.com/fb-answers/what-is-photoroom/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.photoroom.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.photoroom.com/customer-stories/depop",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.photoroom.com/industry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.photoroom.com/api/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.photoroom.com/customer-stories/mercari",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.photoroom.com/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.photoroom.com/customer-stories/decathlon",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.photoroom.com/customer-stories/palm-angels",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.photoroom.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.photoroom.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.photoroom.com/inside-photoroom",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.photoroom.com/customer-stories/valuence",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.photoroom.com/inside-photoroom/category/category-2",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.generatived.com/news/mercari-introduces-photoroom-technology-to-support-photography",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000018.000126737.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000126737.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aisubdeal.com/ja/pricing/photoroom/japan/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/photoroom",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/photoroom/case-study/watches-inc-sees-40-jump-in-qualified-leads-after-adopting-photoroom",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/photoroom",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/photoroom/__3Eb7XKd5tPi6IJQFKmZrfp2xHmMSn4DH7M3WdkToYPY",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/photoroom.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai.lounge.ai/arr/photoroom",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/nininbaori_memo/n/n1e5d90b55b48?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yudai_book/n/na90ea1b02ad2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/calm_tucan2717/n/nfe6730435f27",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/fine_crane8415/n/n7057370576fd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/photoroom",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fr.linkedin.com/company/photoroom",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ai.linkedin.com/products/photoroom/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fr.linkedin.com/in/eliotandres",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Photoroom-100049067624480/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/PhotoRoom-105863290980747/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/photoroomcommunity/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/fb-answers/what-is-photoroom/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/lucid_pothos8277/n/nbe758956745d",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Photoroom 日本 導入",
+   "results": [
+    "https://www.photoroom.com/ja/customer-stories/mercari",
+    "https://www.generatived.com/news/mercari-introduces-photoroom-technology-to-support-photography",
+    "https://prtimes.jp/main/html/rd/p/000000018.000126737.html",
+    "https://prtimes.jp/main/html/rd/p/000000012.000126737.html",
+    "https://rakuraku-ai.com/フリマ出品の常識が変わる！photoroomのai画像編集「ぼか/",
+    "https://ecnomikata.com/ecnews/46550/",
+    "https://www.photoroom.com/ja"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Photoroom 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.paypal.com/jp/digital-wallet/corporate/corporate-info",
+    "https://www.capgemini.com/jp-jp/about-us/overview-and-access/",
+    "https://www.3ds.com/ja/about/company/office-locations/japan/tokyo-osaki",
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://app.photoroom.com/",
+    "https://metoree.com/companies/distributors-relationships/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Photoroom Japan",
+   "results": [
+    "https://www.photoroom.com/ja",
+    "https://www.photoroom.com/ja/tools",
+    "https://www.photoroom.com/",
+    "https://www.aisubdeal.com/ja/pricing/photoroom/japan/",
+    "https://www.photoroom.com/ja/about",
+    "https://app.photoroom.com/u/category/japan_garfield",
+    "https://www.photoroom.com/ja/solutions"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Photoroom manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/photoroom",
+    "https://www.photoroom.com/customer-stories",
+    "https://www.photoroom.com/customer-stories/decathlon",
+    "https://www.casestudies.com/company/photoroom/case-study/watches-inc-sees-40-jump-in-qualified-leads-after-adopting-photoroom",
+    "https://www.featuredcustomers.com/vendor/photoroom/case-studies",
+    "https://proof-stack-lake.vercel.app/cases/photoroom?lang=en",
+    "https://www.aroundthebonfire.com/case-study-photoroom"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Photoroom white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.photoroom.com/",
+    "https://www.reseller.co.nz/",
+    "https://resellervendors.mysellauth.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Photoroom founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/photoroom",
+    "https://tracxn.com/d/companies/photoroom/__3Eb7XKd5tPi6IJQFKmZrfp2xHmMSn4DH7M3WdkToYPY",
+    "https://getlatka.com/companies/photoroom.com",
+    "https://ai.lounge.ai/arr/photoroom",
+    "https://indexed.vc/companies/photoroom",
+    "https://pitchbook.com/profiles/company/435594-88",
+    "https://lounge.ai/companies/photoroom"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Photoroom",
+   "results": [
+    "https://note.com/nininbaori_memo/n/n1e5d90b55b48?hl=en",
+    "https://note.com/yudai_book/n/na90ea1b02ad2",
+    "https://note.com/calm_tucan2717/n/nfe6730435f27",
+    "https://note.com/fine_crane8415/n/n7057370576fd",
+    "https://note.com/pirock8745/n/nc7bb5c7e0858",
+    "https://note.com/kuromai_saas/n/n02f9b6c9c18f",
+    "https://note.com/tetsuya789/n/ndb0964176162"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Photoroom",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Photoroom",
+   "results": [
+    "https://www.linkedin.com/company/photoroom",
+    "https://fr.linkedin.com/company/photoroom",
+    "https://ai.linkedin.com/products/photoroom/",
+    "https://fr.linkedin.com/in/eliotandres",
+    "https://www.linkedin.com/pulse/photoroom-next-big-app-orkjf",
+    "https://uk.linkedin.com/in/jeanettesha",
+    "https://uk.linkedin.com/in/darcyjet",
+    "https://www.linkedin.com/login/",
+    "https://fr.linkedin.com/in/julien-l-5618372",
+    "https://cl.linkedin.com/in/carolina-pérez-vidal-127974160"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Photoroom",
+   "results": [
+    "https://www.facebook.com/p/Photoroom-100049067624480/",
+    "https://www.facebook.com/PhotoRoom-105863290980747/",
+    "https://www.facebook.com/groups/photoroomcommunity/",
+    "https://www.facebook.com/fb-answers/what-is-photoroom/",
+    "https://www.facebook.com/p/Photo-Room-61567325635218/",
+    "https://www.facebook.com/fb-answers/what-is-the-photoroom-app/",
+    "https://www.facebook.com/fb-answers/how-to-use-photoroom-background-remover/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Photoroom note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.com/lucid_pothos8277/n/nbe758956745d",
+    "https://note.com/saiyou_dekirukun/all",
+    "https://rocketreach.co/photoroom-management_b42a3dc5fe34c793",
+    "https://www.cbinsights.com/company/photoroom/people",
+    "https://www.thestreet.com/technology/exclusive-photoroom-ceo-critical-not-like-openai-midjourney-chatgpt-artificial-intelligence",
+    "https://tracxn.com/d/companies/photoroom/__3Eb7XKd5tPi6IJQFKmZrfp2xHmMSn4DH7M3WdkToYPY"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Photoroom X 投稿",
+   "results": [
+    "https://www.photoroom.com/ja",
+    "https://www.photoroom.com/ko",
+    "https://atsoho.com/blog/photoroom-ec-ai-photo-time-saving",
+    "https://toukoukun.com/blog/photoroom-shoutori-gazou",
+    "https://help.photoroom.com/ja/articles/4935093-複数のデバイスでphotoroomアカウントを共有する",
+    "https://dot-ai.myuuu.co.jp/times/articles/1533",
+    "https://www.eesel.ai/ja/blog/photoroom-reviews",
+    "https://x.com/photoroomjp",
+    "https://x.com/photoroom",
+    "https://www.photoroom.com/ja/use-cases/social-media"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 12
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部31頁・検索12回）"
+ }
+}

@@ -1,0 +1,1157 @@
+{
+ "name": "Prorata",
+ "aliases": [],
+ "context": "旧営業リスト｜AI Attribution / Monetization｜返信あり",
+ "researched_at": "2026-11-09T22:29:12.643243+00:00",
+ "official_url": "https://www.prorata.ai",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "1. Seed Round",
+    "value": "10-May-2024 $2.5M $2.5M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/615997-81",
+    "pass": 3
+   },
+   {
+    "label": "Pre-Seed 2",
+    "value": "2,500,000 $0.000010  $1 $1 1x $1 4.89%",
+    "url": "https://pitchbook.com/profiles/company/615997-81",
+    "pass": 3
+   },
+   {
+    "label": "Pre-Seed 1",
+    "value": "5,500,000 $0.000010  $0 $0 1x $0 10.75%",
+    "url": "https://pitchbook.com/profiles/company/615997-81",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "ProRata | The trust layer for generative AI",
+    "url": "https://prorata.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Attribution is the trust and transparency layer for generative AI. By connecting answers to sources, ProRata measures the value each source contributes to a generative response. This provides transparency to readers, organizations, and creators about the evidence behind the AI output and delivers the measurement infrastructure that enables a sustainable ecosystem.",
+    "url": "https://prorata.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Attribution by ProRata",
+    "url": "https://prorata.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "01 / The premise",
+    "url": "https://prorata.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "A healthy, sustainable ecosystem requires transparency about sources so readers, creators, enterprises, and generative AI platforms can build trust.",
+    "url": "https://prorata.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "ProRata makes the contribution of human knowledge visible. Our commitment is to consistent, transparent, auditable attribution across publishers, platforms, and creators, so content use can be trusted and fair compensation can be built on evidence.",
+    "url": "https://prorata.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "How do we measure how much value content creates in a generative answer?",
+    "url": "https://prorata.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Determine the proportion of the answer’s total claims provided by each source and creator.",
+    "url": "https://prorata.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Provide an attribution bar as a nutrition label: show your readers exactly where the answer came from.",
+    "url": "https://prorata.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Understand how AI uses your content and build a basis for fair, transparent compensation.",
+    "url": "https://prorata.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Businesses",
+    "url": "https://prorata.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Document content use and support trust, licensing, and compliance as requirements evolve.",
+    "url": "https://prorata.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Measure contribution at the claim level with ProRata’s Attribution as a Service.",
+    "url": "https://prorata.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Gist Answers drives engagement, expands publishers’ relationships with readers, and keeps them on site for longer while generating unique insights. Every response includes proportional attribution and source cards.",
+    "url": "https://prorata.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "AI can and must be built on respect for content. Proportional attribution is the only way to ensure creators are fairly credited and compensated in the AI era.",
+    "url": "https://prorata.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Bill Gross / Founder and CEO, ProRata",
+    "url": "https://prorata.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. ProRata measures the output of an AI system, matching individual claims to supporting sources. The result connects an answer to supporting evidence and measures each source’s contribution.",
+    "url": "https://prorata.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "How can we learn more about ProRata Attribution?",
+    "url": "https://prorata.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Tell us about your organization and what you want to understand about AI content use. Our team can discuss how attribution could support your content, review process, or platform.",
+    "url": "https://prorata.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Attribution makes the evidence behind an AI answer available for review. By connecting claims to sources and measuring contribution, it gives readers, creators, businesses, and platforms a shared basis for understanding how content is used.",
+    "url": "https://prorata.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "It shows which claims their content supports and how much that content contributes to an answer. This evidence can inform licensing discussions and provide a basis for fair, transparent compensation.",
+    "url": "https://prorata.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Claim-level attribution helps reviewers examine supporting passages and identify content that lacks support in the agreed source corpus. Teams can use that evidence when deciding whether an answer is ready to share with a client or customer.",
+    "url": "https://prorata.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Platforms can use contribution scores and source evidence to understand content use, support relationships with rights holders, and inform internal governance and compliance review as requirements evolve.",
+    "url": "https://prorata.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "What makes ProRata’s approach proportional?",
+    "url": "https://prorata.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "ProRata identifies individual claims and verifies matching claims in the sources used to generate the answer. It calculates the proportion of the answer’s total claims provided by each source and creator, making their contribution visible in the attribution bar.",
+    "url": "https://prorata.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Publishers & Creators: AI attribution | ProRata",
+    "url": "https://prorata.ai/solutions/publishers-and-creators",
+    "pass": 1
+   },
+   {
+    "quote": "ProRata Attribution connects AI answers to sources and measures each source’s contribution. Creators, rights holders, and publishers can see which claims their work supports and use that evidence to inform licensing and enable fair, transparent compensation.",
+    "url": "https://prorata.ai/solutions/publishers-and-creators",
+    "pass": 1
+   },
+   {
+    "quote": "An AI answer can bring together information from many sources. ProRata’s claims-based approach makes those contributions inspectable, so you can see the role your work plays and discuss its value with evidence.",
+    "url": "https://prorata.ai/solutions/publishers-and-creators",
+    "pass": 1
+   },
+   {
+    "quote": "Attribution by ProRata",
+    "url": "https://prorata.ai/solutions/publishers-and-creators",
+    "pass": 1
+   },
+   {
+    "quote": "Understand content use",
+    "url": "https://prorata.ai/solutions/publishers-and-creators",
+    "pass": 1
+   },
+   {
+    "quote": "Examine the claims your content supports and trace them to the relevant articles and passages.",
+    "url": "https://prorata.ai/solutions/publishers-and-creators",
+    "pass": 1
+   },
+   {
+    "quote": "Review proportional contribution scores that account for the distinctive support each source provides to an answer.",
+    "url": "https://prorata.ai/solutions/publishers-and-creators",
+    "pass": 1
+   },
+   {
+    "quote": "The education example illustrates attribution across a defined source corpus. Supported formats and content access are agreed with the team.",
+    "url": "https://prorata.ai/solutions/publishers-and-creators",
+    "pass": 1
+   },
+   {
+    "quote": "What would you like to understand about your content?",
+    "url": "https://prorata.ai/solutions/publishers-and-creators",
+    "pass": 1
+   },
+   {
+    "quote": "Tell us about the work you create, represent, or publish and the questions you have about its use in generative AI. We can discuss the source evidence and contribution measures that would be useful to you.",
+    "url": "https://prorata.ai/solutions/publishers-and-creators",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Within the source corpus being examined, ProRata connects individual claims to supporting passages and aggregates contribution by article and publisher.",
+    "url": "https://prorata.ai/solutions/publishers-and-creators",
+    "pass": 1
+   },
+   {
+    "quote": "Attribution provides measurement infrastructure for compensation. Payment depends on the relevant rights, licenses, and commercial agreements.",
+    "url": "https://prorata.ai/solutions/publishers-and-creators",
+    "pass": 1
+   },
+   {
+    "quote": "Is publisher content used for model training?",
+    "url": "https://prorata.ai/solutions/publishers-and-creators",
+    "pass": 1
+   },
+   {
+    "quote": "No. Publisher content supplied to ProRata for attribution is never used for model training.",
+    "url": "https://prorata.ai/solutions/publishers-and-creators",
+    "pass": 1
+   },
+   {
+    "quote": "How is content made available for attribution?",
+    "url": "https://prorata.ai/solutions/publishers-and-creators",
+    "pass": 1
+   },
+   {
+    "quote": "Publisher content remains under your control and is never used for model training. The team agrees content access, source scope, and data-handling requirements with your organization.",
+    "url": "https://prorata.ai/solutions/publishers-and-creators",
+    "pass": 1
+   },
+   {
+    "quote": "Can ProRata attribute images, audio, or video?",
+    "url": "https://prorata.ai/solutions/publishers-and-creators",
+    "pass": 1
+   },
+   {
+    "quote": "Support depends on the format and workflow. Discuss your image, audio, or video use case with the team to confirm current capabilities and scope. The example on this page demonstrates attribution for text.",
+    "url": "https://prorata.ai/solutions/publishers-and-creators",
+    "pass": 1
+   },
+   {
+    "quote": "How can we learn more about ProRata Attribution?",
+    "url": "https://prorata.ai/solutions/publishers-and-creators",
+    "pass": 1
+   },
+   {
+    "quote": "Tell us about your organization and what you want to understand about AI content use. Our team can discuss how attribution could support your content, review process, or platform.",
+    "url": "https://prorata.ai/solutions/publishers-and-creators",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Businesses: AI attribution | ProRata",
+    "url": "https://prorata.ai/solutions/enterprise-businesses",
+    "pass": 1
+   },
+   {
+    "quote": "Solutions / Enterprise Businesses",
+    "url": "https://prorata.ai/solutions/enterprise-businesses",
+    "pass": 1
+   },
+   {
+    "quote": "When AI output informs a client recommendation or customer response, reviewers need a practical way to check its claims. Attribution connects those claims to source passages and makes gaps in support visible, so your team can decide what is ready to share. Once sources are identified, reviewers can compare them with available license records and permitted-use terms.",
+    "url": "https://prorata.ai/solutions/enterprise-businesses",
+    "pass": 1
+   },
+   {
+    "quote": "Attribution by ProRata",
+    "url": "https://prorata.ai/solutions/enterprise-businesses",
+    "pass": 1
+   },
+   {
+    "quote": "Where would source verification strengthen your review process?",
+    "url": "https://prorata.ai/solutions/enterprise-businesses",
+    "pass": 1
+   },
+   {
+    "quote": "Source support helps a reviewer assess an answer. It does not establish the accuracy of the source, the completeness of the answer, or whether the answer is appropriate for a particular client or customer.",
+    "url": "https://prorata.ai/solutions/enterprise-businesses",
+    "pass": 1
+   },
+   {
+    "quote": "Can attribution help us check whether sources are properly licensed?",
+    "url": "https://prorata.ai/solutions/enterprise-businesses",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Identifying the sources behind an answer gives reviewers a basis for comparing content use with available license records and permission terms. Establishing permission depends on the relevant records and intended use. Discuss the records, review process, and integration scope with the team.",
+    "url": "https://prorata.ai/solutions/enterprise-businesses",
+    "pass": 1
+   },
+   {
+    "quote": "Discuss your source corpus and access requirements with ProRata. Content eligibility, security controls, and deployment arrangements are agreed before data is shared.",
+    "url": "https://prorata.ai/solutions/enterprise-businesses",
+    "pass": 1
+   },
+   {
+    "quote": "Can attribution fit into our governance process?",
+    "url": "https://prorata.ai/solutions/enterprise-businesses",
+    "pass": 1
+   },
+   {
+    "quote": "Reviewers can use source passages, claim-level support, and contribution records as evidence within their existing controls. Your organization determines its approval requirements.",
+    "url": "https://prorata.ai/solutions/enterprise-businesses",
+    "pass": 1
+   },
+   {
+    "quote": "How can we learn more about ProRata Attribution?",
+    "url": "https://prorata.ai/solutions/enterprise-businesses",
+    "pass": 1
+   },
+   {
+    "quote": "Tell us about your organization and what you want to understand about AI content use. Our team can discuss how attribution could support your content, review process, or platform.",
+    "url": "https://prorata.ai/solutions/enterprise-businesses",
+    "pass": 1
+   },
+   {
+    "quote": "Generative AI Platforms: AI attribution | ProRata",
+    "url": "https://prorata.ai/solutions/generative-ai-platforms",
+    "pass": 1
+   },
+   {
+    "quote": "Make content use transparent across your AI platform.",
+    "url": "https://prorata.ai/solutions/generative-ai-platforms",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Discuss your source corpus and access requirements with ProRata. Content eligibility, security controls, and deployment arrangements are agreed before data is shared.",
+    "url": "https://prorata.ai/solutions/enterprise-businesses",
+    "pass": 1
+   },
+   {
+    "quote": "Gist is part of ProRata’s product family. Gist GEO measures brand visibility in generative AI search, while Gist Answers provides attributed AI answers for publishers. Product information is available on gist.ai.",
+    "url": "https://prorata.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "は2億ドルに迫っており、先月にはARR1億5,000万ドル超と明かしていた",
+    "url": "https://universe.globalbrains.com/posts/gb-tech-trend-146-where-the-ai-browser-wars-go-strategy-of-prorata-a-media-specific-ai-search",
+    "pass": 3
+   },
+   {
+    "quote": "同社はMicrosoftを含む先端AIラボや複数のFortune100企業と取引し、ARRは2025年初の700万ドルから現在5,000万ドルへ増加",
+    "url": "https://universe.globalbrains.com/posts/gb-tech-trend-146-where-the-ai-browser-wars-go-strategy-of-prorata-a-media-specific-ai-search",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、競合のMercorはARR4億5,000万ドル超、Surgeは2024年に12億ドルまで上げたとされるが、Micro1は着実な導入拡大を背景に成長を続けている",
+    "url": "https://universe.globalbrains.com/posts/gb-tech-trend-146-where-the-ai-browser-wars-go-strategy-of-prorata-a-media-specific-ai-search",
+    "pass": 3
+   },
+   {
+    "quote": "The £6 a week pay limit will apply to all part-time employees on a",
+    "url": "https://dictionary.cambridge.org/ja/dictionary/english/pro-rata",
+    "pass": 3
+   },
+   {
+    "quote": "The arrangements include provision for other countries to modify their contributions",
+    "url": "https://dictionary.cambridge.org/ja/dictionary/english/pro-rata",
+    "pass": 3
+   },
+   {
+    "quote": "Such dividends will be distributed between the parties on a pro rata basis in accordance with the respective number of shares of Stock owned by each of them.",
+    "url": "https://kotobank.jp/ejword/pro%20rata",
+    "pass": 3
+   },
+   {
+    "quote": "ProRata aims to be pro publisher for revenue sharing on AI platforms - WAN-IFRA",
+    "url": "https://wan-ifra.org/2025/01/prorata-aims-to-be-pro-publisher-when-it-comes-to-revenue-sharing-on-ai-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "“We are very cognisant of the fact that there is huge change, an existential threat to the industry. Without a sustainable, forecastable revenue stream, the publishing industry – and the broader content creation industry – will be even more challenged,” says Jansen, who also has worked as an executive at Meta.",
+    "url": "https://wan-ifra.org/2025/01/prorata-aims-to-be-pro-publisher-when-it-comes-to-revenue-sharing-on-ai-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "Tensions between media and tech companies over revenue sharing aren’t new, but the rise of GenAI and large language models (LLMs) – trained on vast amounts of content and able to answer questions (in some cases) without citations or links – has only intensified the problem.",
+    "url": "https://wan-ifra.org/2025/01/prorata-aims-to-be-pro-publisher-when-it-comes-to-revenue-sharing-on-ai-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "“With ProRata, content creators are compensated fairly. The platform opens up the opportunity for pay-per-use revenue sharing based on content attribution,” she adds.",
+    "url": "https://wan-ifra.org/2025/01/prorata-aims-to-be-pro-publisher-when-it-comes-to-revenue-sharing-on-ai-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "“His secret sauce is understanding new economic and business models,” Jansen says. “When he read about The New York Times suing OpenAI, he realised something was missing. There are only two ways to deal with large AI search companies: take them to court or strike a deal. Neither of these approaches is sustainable or provides reliable revenue streams.”",
+    "url": "https://wan-ifra.org/2025/01/prorata-aims-to-be-pro-publisher-when-it-comes-to-revenue-sharing-on-ai-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "Exploring revenue models",
+    "url": "https://wan-ifra.org/2025/01/prorata-aims-to-be-pro-publisher-when-it-comes-to-revenue-sharing-on-ai-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "ProRata is also exploring a variety of revenue models, including subscriptions and advertising.",
+    "url": "https://wan-ifra.org/2025/01/prorata-aims-to-be-pro-publisher-when-it-comes-to-revenue-sharing-on-ai-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "One key principle ProRata stands by is a 50-50 revenue share between the platform and content creators.",
+    "url": "https://wan-ifra.org/2025/01/prorata-aims-to-be-pro-publisher-when-it-comes-to-revenue-sharing-on-ai-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "“We believe creators deserve to keep half of the revenue generated from their work, whether it’s through pay-per-use or advertising. This is central to ensuring fair compensation for all content creators.”",
+    "url": "https://wan-ifra.org/2025/01/prorata-aims-to-be-pro-publisher-when-it-comes-to-revenue-sharing-on-ai-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/615997-81",
+    "pass": 3
+   },
+   {
+    "quote": "ProRata has 81 total employees.",
+    "url": "https://pitchbook.com/profiles/company/615997-81",
+    "pass": 3
+   },
+   {
+    "quote": "What is ProRata’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/615997-81",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for ProRata is",
+    "url": "https://pitchbook.com/profiles/company/615997-81",
+    "pass": 3
+   },
+   {
+    "quote": "You might also hear about pre-emption rights, which represent a broader category that includes pro rata rights. While pro rata rights specifically address participation in new funding rounds, pre-emption rights give shareholders the first opportunity to purchase any newly issued shares before they're offered to outsiders, including equity issuances for strategic partnerships or acquisitions.",
+    "url": "https://www.crv.com/content/pro-rata-rights",
+    "pass": 3
+   },
+   {
+    "quote": "Start with the NVCA model term sheet baseline: all major investors receive pro rata rights based on percentage ownership to participate in subsequent equity issuances. Standard exemptions include employee option pools, acquisition shares and securities issued to banks or equipment lessors.",
+    "url": "https://www.crv.com/content/pro-rata-rights",
+    "pass": 3
+   },
+   {
+    "quote": "Investors exercise their pro rata rights when your company is performing well and valuations are increasing. Strong revenue growth, clear product-market fit signals and expanding market opportunity all make follow-on investment attractive. When your company demonstrates momentum, existing investors want to maintain their stake rather than watch their ownership dilute.",
+    "url": "https://www.crv.com/content/pro-rata-rights",
+    "pass": 3
+   },
+   {
+    "quote": "It depends on what you negotiate. Some pro rata rights are perpetual and last until an IPO or acquisition terminates the investor rights agreement. Others are time-limited, typically expiring three to five years from the grant date, or round-limited, applying only to the next financing round. The structure you choose affects your long-term cap table flexibility.",
+    "url": "https://www.crv.com/content/pro-rata-rights",
+    "pass": 3
+   },
+   {
+    "quote": "Gist Answers rollout, team growth to 100 employees",
+    "url": "https://superbcrew.com/prorata-closes-40-million-series-b-financing-led-by-touring-capital/",
+    "pass": 3
+   },
+   {
+    "quote": "In the context of AI’s existential threats to publishers—traffic drops and uncompensated scraping—this round supports empathetic solutions that reward human creativity while innovating search. ProRata.ai’s growth from 20 to 75 employees (pre-Series B) and plans for sales hires indicate readiness for commercialization, with Gist Ads transforming AI outputs into premium ad inventory.",
+    "url": "https://superbcrew.com/prorata-closes-40-million-series-b-financing-led-by-touring-capital/",
+    "pass": 3
+   },
+   {
+    "quote": "This diverse syndicate—16 investors per PitchBook—reduces risk: VCs for growth capital, strategics for ecosystem buy-in. No single investor dominates, fostering collaborative governance. Gross’s vision of licensing tech to “big tech” (e.g., OpenAI) could yield high multiples, with investors eyeing an IPO or acquisition akin to Idealab’s past successes.",
+    "url": "https://superbcrew.com/prorata-closes-40-million-series-b-financing-led-by-touring-capital/",
+    "pass": 3
+   },
+   {
+    "quote": "Product Integration and Revenue Model",
+    "url": "https://superbcrew.com/prorata-closes-40-million-series-b-financing-led-by-touring-capital/",
+    "pass": 3
+   },
+   {
+    "quote": "This model differentiates from competitors: Perplexity shares ad revenue but lacks granular attribution; OpenAI’s deals (e.g., $70M/year with Reddit) are input-based, not output-proportional. ProRata.ai’s “ethical” focus resonates, with 700+ partners (up from 500 in June 2025) including Vox Media, EFE, and PRISA.",
+    "url": "https://superbcrew.com/prorata-closes-40-million-series-b-financing-led-by-touring-capital/",
+    "pass": 3
+   },
+   {
+    "quote": "One year later, Widgets' founder decides to raise more capital as part of a Series A. The company has been doing well over the past year. The pre-money valuation of this Series A is $8M. So the price for each share that is being issued now is $4 ($8M / 2M shares). The company is raising a total of $2M, issuing a total of 500k new shares.",
+    "url": "https://www.angellist.com/learn/pro-rata-rights",
+    "pass": 3
+   },
+   {
+    "quote": "Drag along rights give the majority shareholder(s) the power to compel minority shareholders to participate in an acquisition.",
+    "url": "https://www.angellist.com/learn/pro-rata-rights",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Use the Learn more page to discuss attribution or the contact form on this page for a general inquiry. You can also email",
+    "url": "https://prorata.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/615997-81",
+    "pass": 3
+   },
+   {
+    "quote": "Please email us your feedback and news tips at hello(at)superbcrew.com",
+    "url": "https://superbcrew.com/prorata-closes-40-million-series-b-financing-led-by-touring-capital/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本語WordNet(英和)での「prorata」の意味",
+    "url": "https://ejje.weblio.jp/content/prorata",
+    "pass": 3
+   },
+   {
+    "quote": "朝日新聞社と日本経済新聞社がPerplexityを提訴する",
+    "url": "https://universe.globalbrains.com/posts/gb-tech-trend-146-where-the-ai-browser-wars-go-strategy-of-prorata-a-media-specific-ai-search",
+    "pass": 3
+   },
+   {
+    "quote": "prorata(英語)の日本語訳、読み方は - コトバンク 英和辞典",
+    "url": "https://kotobank.jp/ejword/pro%20rata",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "英語「 prorata 」の意味・使い方・読み方 | Weblio英和辞書 — 英語「 prorata 」の意味・使い方・読み方 | Weblio英和辞書 Weblio英和和英辞典 https://ejje.weblio.jp > 英和辞典・和英辞典 > 英和辞典",
+    "url": "https://ejje.weblio.jp/content/prorata",
+    "pass": 3
+   },
+   {
+    "quote": "AIブラウザー戦争の行く末    メディア特化型AI検索「 ProRata ... — AIブラウザー戦争の行く末    メディア特化型AI検索「 ProRata ... Global Brain https://universe.globalbrains.com > posts > gb-tech-trend-...",
+    "url": "https://universe.globalbrains.com/posts/gb-tech-trend-146-where-the-ai-browser-wars-go-strategy-of-prorata-a-media-specific-ai-search",
+    "pass": 3
+   },
+   {
+    "quote": "英語での pro rata の意味 - Cambridge Dictionary — 英語での pro rata の意味 - Cambridge Dictionary Cambridge Dictionary https://dictionary.cambridge.org > english > pro-rata",
+    "url": "https://dictionary.cambridge.org/ja/dictionary/english/pro-rata",
+    "pass": 3
+   },
+   {
+    "quote": "prorata (英語)の 日本 語訳、読み方は - コトバンク 英和辞典 — prorata (英語)の 日本 語訳、読み方は - コトバンク 英和辞典 コトバンク https://kotobank.jp > ejword",
+    "url": "https://kotobank.jp/ejword/pro%20rata",
+    "pass": 3
+   },
+   {
+    "quote": "pro rata share - 和訳 – Linguee辞書 — pro rata share - 和訳 – Linguee辞書 Linguee https://www.linguee.jp > 翻訳 > pro+rata+share",
+    "url": "https://www.linguee.jp/%E8%8B%B1%E8%AA%9E-%E6%97%A5%E6%9C%AC%E8%AA%9E/%E7%BF%BB%E8%A8%B3/pro+rata+share.html",
+    "pass": 3
+   },
+   {
+    "quote": "ProRata | The trust layer for generative AI — ProRata | The trust layer for generative AI prorata.ai https://prorata.ai",
+    "url": "https://prorata.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Lee Enterprises and ProRata .ai Announce Groundbreaking ... — Lee Enterprises and ProRata .ai Announce Groundbreaking ... Lee Enterprises https://investors.lee.net > news-releases",
+    "url": "https://investors.lee.net/news-releases/news-release-details/lee-enterprises-and-prorataai-announce-groundbreaking-content",
+    "pass": 3
+   },
+   {
+    "quote": "ProRata - Agenda — ProRata - Agenda weareagenda.com https://weareagenda.com > prorata",
+    "url": "https://weareagenda.com/our-work/prorata",
+    "pass": 3
+   },
+   {
+    "quote": "ProRata aims to be pro publisher for revenue sharing on AI ... — ProRata aims to be pro publisher for revenue sharing on AI ... WAN-IFRA - World Association of News Publishers https://wan-ifra.org > News",
+    "url": "https://wan-ifra.org/2025/01/prorata-aims-to-be-pro-publisher-when-it-comes-to-revenue-sharing-on-ai-platforms/",
+    "pass": 3
+   },
+   {
+    "quote": "Start-up ProRata .ai valued at $130mn after signing up UK ... — Start-up ProRata .ai valued at $130mn after signing up UK ... Financial Times https://www.ft.com > content",
+    "url": "https://www.ft.com/content/c917a1e1-60a5-42c5-9158-6199f8a1f9ab?syn-25a6b1a6=1",
+    "pass": 3
+   },
+   {
+    "quote": "ProRata 2026 Company Profile: Valuation, Funding & Investors — ProRata 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/615997-81",
+    "pass": 3
+   },
+   {
+    "quote": "Pro Rata Rights: A Founder's Guide to Term Sheets - CRV — Pro Rata Rights: A Founder's Guide to Term Sheets - CRV Charles River Ventures https://www.crv.com > pro-rata-rights",
+    "url": "https://www.crv.com/content/pro-rata-rights",
+    "pass": 3
+   },
+   {
+    "quote": "ProRata Closes $40 Million Series B Financing Led By ... — ProRata Closes $40 Million Series B Financing Led By ... SuperbCrew https://superbcrew.com > prorata-clos...",
+    "url": "https://superbcrew.com/prorata-closes-40-million-series-b-financing-led-by-touring-capital/",
+    "pass": 3
+   },
+   {
+    "quote": "What are Pro Rata Rights? | AngelList Education Center — What are Pro Rata Rights? | AngelList Education Center AngelList https://www.angellist.com > learn > pr...",
+    "url": "https://www.angellist.com/learn/pro-rata-rights",
+    "pass": 3
+   },
+   {
+    "quote": "ProRata raises $40M to develop AI tools for publishers — ProRata raises $40M to develop AI tools for publishers SiliconANGLE https://siliconangle.com > NEWS",
+    "url": "https://siliconangle.com/2025/09/05/prorata-raises-40m-develop-ai-tools-publishers/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": ", credited for inventing the pay-per-click model, is the driving force behind ProRata. Gross has founded more than 150 companies, including goto.com, which he rebranded as Overture before selling it to Yahoo in 2003.",
+    "url": "https://wan-ifra.org/2025/01/prorata-aims-to-be-pro-publisher-when-it-comes-to-revenue-sharing-on-ai-platforms/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "ProRata .ai (@Prorata_ai) / X ProRata .ai (@Prorata_ai) / X X https://x.com > Prorata_ai",
+    "url": "https://x.com/Prorata_ai",
+    "pass": 3
+   },
+   {
+    "quote": "connor ling on X: \"Why Neo Ditched Pro Rata Rights\" / X connor ling on X: \"Why Neo Ditched Pro Rata Rights\" / X X https://x.com > @conconconling",
+    "url": "https://x.com/conconconling/status/2109282266015007001",
+    "pass": 3
+   },
+   {
+    "quote": "Garry Tan on X: \"Yeah pro rata matters and is powerful for ... Garry Tan on X: \"Yeah pro rata matters and is powerful for ... X https://x.com > @garrytan",
+    "url": "https://x.com/garrytan/status/2109847735449047295",
+    "pass": 3
+   },
+   {
+    "quote": "Pejman Nozad on X: \"About pro rata : We often write the first ... Pejman Nozad on X: \"About pro rata : We often write the first ... X https://x.com > @pejmannozad",
+    "url": "https://x.com/pejmannozad/status/2109377317340672241",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "ProRata .ai - LinkedIn ProRata .ai - LinkedIn LinkedIn https://www.linkedin.com > prorataai",
+    "url": "https://www.linkedin.com/company/prorataai",
+    "pass": 3
+   },
+   {
+    "quote": "Prorata | LinkedIn Prorata | LinkedIn LinkedIn India https://in.linkedin.com > proratacar",
+    "url": "https://in.linkedin.com/company/proratacar",
+    "pass": 3
+   },
+   {
+    "quote": "Josh Freeman - SVP, Partnerships at ProRata .ai - LinkedIn Josh Freeman - SVP, Partnerships at ProRata .ai - LinkedIn LinkedIn https://www.linkedin.com > joshlfree...",
+    "url": "https://www.linkedin.com/in/joshlfreeman",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "What is the difference between vacation prorata and current? What is the difference between vacation prorata and current? Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/1526028458323099/posts/2005864110339529/",
+    "pass": 3
+   },
+   {
+    "quote": "Prorata | Bangalore - Facebook Prorata | Bangalore - Facebook Facebook https://www.facebook.com > ... > Financial service",
+    "url": "https://www.facebook.com/proratacars/",
+    "pass": 3
+   },
+   {
+    "quote": "What is pro rata basis in construction industry billing? What is pro rata basis in construction industry billing? Facebook https://www.facebook.com > civilengineering87 > posts",
+    "url": "https://www.facebook.com/groups/civilengineering87/posts/2431661170574513/",
+    "pass": 3
+   },
+   {
+    "quote": "What does pro rata mean in employment contracts? - Facebook What does pro rata mean in employment contracts? - Facebook Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/1222298927811347/posts/24828804263400815/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://prorata.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prorata.ai/solutions/publishers-and-creators",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prorata.ai/solutions/enterprise-businesses",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prorata.ai/solutions/generative-ai-platforms",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prorata.ai/company",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://prorata.ai/brand/assets/logos/web/ProRata-Logo-Primary-Chalk.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://prorata.ai/brand/assets/logos/ProRata-IdeaFrame-Mark.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://prorata.ai/brand/investors/bold.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ejje.weblio.jp/content/prorata",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://universe.globalbrains.com/posts/gb-tech-trend-146-where-the-ai-browser-wars-go-strategy-of-prorata-a-media-specific-ai-search",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dictionary.cambridge.org/ja/dictionary/english/pro-rata",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kotobank.jp/ejword/pro%20rata",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ecnomikata.com/blog/51120/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bgent.net/plus/article/7044",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prorata.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://investors.lee.net/news-releases/news-release-details/lee-enterprises-and-prorataai-announce-groundbreaking-content",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://weareagenda.com/our-work/prorata",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wan-ifra.org/2025/01/prorata-aims-to-be-pro-publisher-when-it-comes-to-revenue-sharing-on-ai-platforms/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJ0kk3UVrK3cI36Oj8yiwfWsiaTUPtkGBF4dSoqpsSYkikxYLxZ",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/top-content/innovation/innovation-in-manufacturing-processes/case-studies-on-successful-manufacturing-innovations/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/reseller-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://platfio.com/blog/software-reseller-programs-worth-joining-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/615997-81",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.crv.com/content/pro-rata-rights",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://superbcrew.com/prorata-closes-40-million-series-b-financing-led-by-touring-capital/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.angellist.com/learn/pro-rata-rights",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Prorata_ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/conconconling/status/2109282266015007001",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/garrytan/status/2109847735449047295",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/pejmannozad/status/2109377317340672241",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/prorataai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/proratacar",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/joshlfreeman",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/1526028458323099/posts/2005864110339529/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/proratacars/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/civilengineering87/posts/2431661170574513/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/1222298927811347/posts/24828804263400815/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Prorata_ai",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Prorata 日本 導入",
+   "results": [
+    "https://ejje.weblio.jp/content/prorata",
+    "https://universe.globalbrains.com/posts/gb-tech-trend-146-where-the-ai-browser-wars-go-strategy-of-prorata-a-media-specific-ai-search",
+    "https://dictionary.cambridge.org/ja/dictionary/english/pro-rata",
+    "https://kotobank.jp/ejword/pro%20rata",
+    "https://www.linguee.jp/%E8%8B%B1%E8%AA%9E-%E6%97%A5%E6%9C%AC%E8%AA%9E/%E7%BF%BB%E8%A8%B3/pro+rata+share.html",
+    "https://www.home-adpark.jp/manual/glossary/line-h/012828.html",
+    "https://www.workday.com/ja-jp/topics/hr/pro-rata.html",
+    "https://eow.alc.co.jp/search?q=prorata",
+    "https://thebridge.jp/2025/09/gb-tech-trend-146-where-the-ai-browser-wars-go-strategy-of-prorata-a-media-specific-ai-search-gb-universe",
+    "https://media-innovation.jp/special/5454/recent/ProRata"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Prorata 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://dairitenboshu.com/",
+    "https://ecnomikata.com/blog/51120/",
+    "https://www.bgent.net/plus/article/7044",
+    "https://b-seeds.com/",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://www.youtube.com/watch?v=DBK9vqrcDaY",
+    "https://www.deex.co.jp/media/8uGKOPAJ",
+    "https://www.biz.ne.jp/list/corporate-agency/",
+    "https://partner.infinicloud.com/agencypartner.html",
+    "https://b-seeds.com/column/sole-agency-agreement"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "Prorata Japan",
+   "results": [
+    "https://prorata.ai/",
+    "https://investors.lee.net/news-releases/news-release-details/lee-enterprises-and-prorataai-announce-groundbreaking-content",
+    "https://weareagenda.com/our-work/prorata",
+    "https://wan-ifra.org/2025/01/prorata-aims-to-be-pro-publisher-when-it-comes-to-revenue-sharing-on-ai-platforms/",
+    "https://www.ft.com/content/c917a1e1-60a5-42c5-9158-6199f8a1f9ab?syn-25a6b1a6=1",
+    "https://en.wikipedia.org/wiki/Pro_rata",
+    "https://www.merriam-webster.com/dictionary/pro%20rata",
+    "https://linguix.com/english/common-mistake/pro_rata",
+    "https://www.vocabulary.com/dictionary/pro%20rata",
+    "https://glosbe.com/en/ja/pro+rata"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "Prorata manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJ0kk3UVrK3cI36Oj8yiwfWsiaTUPtkGBF4dSoqpsSYkikxYLxZ",
+    "https://www.linkedin.com/top-content/innovation/innovation-in-manufacturing-processes/case-studies-on-successful-manufacturing-innovations/",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "https://www.stratasys.com/en/resources/case-studies/",
+    "https://manufacturingleadershipcouncil.com/case-studies-for-success-in-the-factory/",
+    "https://www.automate.org/ai/industry-insights/case-studies-ai-advanced-manufacturing",
+    "https://fourjaw.com/tell-your-manufacturing-story",
+    "https://jyx.jyu.fi/bitstreams/752800e5-a26e-4493-ab17-00fd07b466db/download",
+    "https://www.casestudies.com/company/strella/case-study/how-prorata-honed-their-icp-10x-faster-with-strella"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Prorata white label OR reseller OR partner program",
+   "results": [
+    "https://suitedash.com/reseller-program/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/",
+    "https://content.platfio.com/blog/software-reseller-programs-worth-joining-2026",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://www.preferredpatron.com/reseller-loyalty-programs",
+    "https://www.siptrunk.com/blog/white-label-saas-reseller/",
+    "https://journeybee.io/resources/top-100-reseller-programs",
+    "https://intandem.vcita.com/blog/partners/different-types-of-white-label-partnerships",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Prorata founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/615997-81",
+    "https://www.crv.com/content/pro-rata-rights",
+    "https://superbcrew.com/prorata-closes-40-million-series-b-financing-led-by-touring-capital/",
+    "https://www.angellist.com/learn/pro-rata-rights",
+    "https://siliconangle.com/2025/09/05/prorata-raises-40m-develop-ai-tools-publishers/",
+    "https://pilot.com/glossary/pro-rata",
+    "https://www.lightercapital.com/blog/how-pro-rata-rights-shape-your-startups-future",
+    "https://getlatka.com/companies/prorata.ai",
+    "https://qubit.capital/blog/pro-rata-rights-for-startups"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:note.com Prorata",
+   "results": [
+    "https://note.com/roumus/n/n665db662681f?hl=en",
+    "https://note.com/lindsay_journal/n/n87b76217b197",
+    "https://note.com/nagaoma13/n/nd1d2bbec2bef",
+    "https://note.com/uscpa_study/n/n86b8973ee246",
+    "https://note.com/tank_ai/n/n2e9e93c8a19d",
+    "https://note.com/rapid_tern8023/n/na7d57b73816a?hl=en",
+    "https://note.com/mizukamijs6/n/n894d3d1830ce?hl=en",
+    "https://note.com/saborikeiri/n/nf60043ad9c2b?hl=en",
+    "https://note.com/genial_moraea172/n/nbd3a28d19356?hl=en",
+    "https://note.com/serene_newt5271/n/n30912b662d51?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com Prorata",
+   "results": [
+    "https://x.com/Prorata_ai",
+    "https://x.com/conconconling/status/2109282266015007001",
+    "https://x.com/garrytan/status/2109847735449047295",
+    "https://x.com/pejmannozad/status/2109377317340672241",
+    "https://x.com/Bill_Gross",
+    "https://x.com/EuropeElects/status/2099103032680079832",
+    "https://x.com/edzitron/status/2112546243637600711",
+    "https://x.com/wnisekai/status/1377818936712957952",
+    "https://x.com/zebulgar/status/2110033552419201062",
+    "https://x.com/venkyganesan/status/2110026613132062988"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com Prorata",
+   "results": [
+    "https://www.linkedin.com/company/prorataai",
+    "https://in.linkedin.com/company/proratacar",
+    "https://www.linkedin.com/in/joshlfreeman",
+    "https://www.linkedin.com/in/billgrossidealab",
+    "https://in.linkedin.com/in/sanjeev-jain-307aa5117",
+    "https://www.linkedin.com/company/prorata",
+    "https://www.linkedin.com/pulse/understanding-pro-rata-rights-key-privilege-venture-capital-al-abdan-l4dif",
+    "https://www.linkedin.com/in/mia-wu-16b9a61a1",
+    "https://in.linkedin.com/in/aashiagarwal1",
+    "https://www.linkedin.com/in/annelies34"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:facebook.com Prorata",
+   "results": [
+    "https://www.facebook.com/groups/1526028458323099/posts/2005864110339529/",
+    "https://www.facebook.com/proratacars/",
+    "https://www.facebook.com/groups/civilengineering87/posts/2431661170574513/",
+    "https://www.facebook.com/groups/1222298927811347/posts/24828804263400815/",
+    "https://www.facebook.com/groups/australianprimaryteachers/posts/3545984315702443/",
+    "https://www.facebook.com/kumaricapital/posts/weekly-jargons-buster-lets-explore-the-meaning-of-pro-rata-in-the-financial-mark/1814441769658706/",
+    "https://www.facebook.com/groups/QLDPrimaryTeachers/posts/3529212307257738/",
+    "https://www.facebook.com/groups/442359405934574/posts/3076048285898993/",
+    "https://www.facebook.com/p/Prorata-100077832330456/",
+    "https://www.facebook.com/groups/QLDPrimaryTeachers/posts/3178275925684713/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "Prorata note 社長",
+   "results": [
+    "https://diamond.jp/articles/-/388572",
+    "https://x.com/sadaaki",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://note.com/note_ir/n/n722b1675e9e7",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.com/koala_president"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Prorata X 投稿",
+   "results": [
+    "https://x.com/Prorata_ai",
+    "https://prorata.ai/",
+    "https://wan-ifra.org/2025/01/prorata-aims-to-be-pro-publisher-when-it-comes-to-revenue-sharing-on-ai-platforms/",
+    "https://touringcapital.com/news/why-we-invested-in-prorata-ai/",
+    "https://www.businesswire.com/news/home/20250606852177/en/ProRata-AI-Signs-Partnerships-With-More-Than-500-Publications-Giving-Gist.ai-One-of-the-Largest-Licensed-Content-Libraries-in-Generative-AI-Search",
+    "https://www.adweek.com/media/ai-prorata-brands-create-contextually-ads/",
+    "https://seobotai.com/news/prorata-ai-secures-40m-and-debuts-new-publishing-tool/",
+    "https://finance.yahoo.com/news/ai-startup-prorata-inks-major-151905158.html",
+    "https://x.com/prorata",
+    "https://x.com/ProrataSA"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式5頁／PDF・画像3件／外部36頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像3件／外部36頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像3件／外部36頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式5頁／PDF・画像3件／外部36頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式5頁／PDF・画像3件／外部36頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式5頁／PDF・画像3件／外部36頁・検索12回）"
+ }
+}

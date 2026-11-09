@@ -1,0 +1,976 @@
+{
+ "name": "Prenda",
+ "aliases": [],
+ "context": "旧営業リスト｜Education / Childcare｜未接触",
+ "researched_at": "2026-11-09T22:31:47.188195+00:00",
+ "official_url": "https://prenda.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "2. Seed Round",
+    "value": "10-Jul-2017 $60K $60K  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/183386-08",
+    "pass": 3
+   },
+   {
+    "label": "Seed 2",
+    "value": "1,050,000 $0.000100  $0.25 $0.25 1x $0.25 4.19%",
+    "url": "https://pitchbook.com/profiles/company/183386-08",
+    "pass": 3
+   },
+   {
+    "label": "Seed",
+    "value": "530,521 $0.000100  $0.12 $0.12 1x $0.12 2.12%",
+    "url": "https://pitchbook.com/profiles/company/183386-08",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Prenda - Microschools Made Easy",
+    "url": "https://www.prenda.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prenda microschools drive engagement and academic growth",
+    "url": "https://www.prenda.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Find Out More About Our Learning Approach",
+    "url": "https://www.prenda.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Become a Prenda Guide",
+    "url": "https://www.prenda.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Student-led comprehensive learning system",
+    "url": "https://www.prenda.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prenda prioritizes engagement and academics by leveraging evidence-based techniques in a four-mode learning day: connect, conquer, collaborate, and create. With projects designed to nurture each child’s personal passion and adaptive diagnostic tests in math and reading, Prenda provides a customized curriculum that makes sense for each child.",
+    "url": "https://www.prenda.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Easily set up your microschool with Prenda’s plug-and-play software platform. Manage enrollment, track students’ progress, process payments, even build your own marketing website with Prenda tools, advised by your microschool set-up specialist and a personal guide coach.",
+    "url": "https://www.prenda.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Wraparound support and ongoing skill training",
+    "url": "https://www.prenda.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Year-round academic coaches provide on-call support to help you with learning, behavior, motivation, and more. Prenda also offers free ongoing training to help you understand the art and science of empowering young learners.",
+    "url": "https://www.prenda.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Easily set up your microschool with Prenda’s plug-and-play software platform. Manage enrollment, track students’ progress, process payments, even build your own marketing website with Prenda tools. Your dedicated microschool set-up specialist and personal guide coach will support you at every step.",
+    "url": "https://www.prenda.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn More About Becoming a Prenda Guide",
+    "url": "https://www.prenda.com/",
+    "pass": 1
+   },
+   {
+    "quote": "I set kids up working on projects, solving problems, collaborating with each other, nurturing their inherent curiosity.",
+    "url": "https://www.prenda.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Kids (and Parents) love Prenda",
+    "url": "https://www.prenda.com/",
+    "pass": 1
+   },
+   {
+    "quote": "I was looking for a different education option for my son. An environment that sparked his love of learning. Where he would feel comfortable, and like he belonged… I enrolled him in a Prenda Microschool. He was thrilled to be a part of this small-group setting where he could work at his own pace, collaborate with others, and get one-on-one support.",
+    "url": "https://www.prenda.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our guide goes above and beyond for all her students. She has been working with my girls this whole school year and I’ve seen such improvement in their academics and behavior, it really is amazing to see. I’m a single mom of 3 girls and I thought that traditional education was my only option, thanks to Prenda and our guide, my girls are getting the education they need and deserve.",
+    "url": "https://www.prenda.com/",
+    "pass": 1
+   },
+   {
+    "quote": "You don't need an education background as a Prenda guide. You'll have a team behind you at every step. Learn more",
+    "url": "https://www.prenda.com/",
+    "pass": 1
+   },
+   {
+    "quote": "An active guide mentor to help you with their own experience and Prenda expertise.",
+    "url": "https://www.prenda.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Professional Development",
+    "url": "https://www.prenda.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ongoing training to help you master the art and science of empowering kids.",
+    "url": "https://www.prenda.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Inside a Prenda Microschool",
+    "url": "https://www.prenda.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prenda was built to provide a better school-life balance for kids and families. While schedules vary from microschool to microschool, most microschools run 4-5 hours per day, 4 days per week.",
+    "url": "https://www.prenda.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Hands-on project-based learning",
+    "url": "https://www.prenda.com/",
+    "pass": 1
+   },
+   {
+    "quote": "I love Prenda! This is an educator's dream job! I have never (in my nearly 30 years of being an educator) been so excited to see graphs, data charts, and diagnostic reports! I'm genuinely giddy! The collaborative efforts that happen when they have ownership of their learning, and their eagerness to work on the next subject--it makes my heart flutter! This educator mama's heart is bursting!",
+    "url": "https://www.prenda.com/",
+    "pass": 1
+   },
+   {
+    "quote": "I can’t describe to you precisely the magic that happens here. But I can just say that Prenda is a miracle for my students and me.",
+    "url": "https://www.prenda.com/",
+    "pass": 1
+   },
+   {
+    "quote": "I have no burnout. I have minimal stress. I wake up, make the commute down my hallway, and get my home space ready to teach. Education is fun again and parents are witnessing their whole child grow. I can’t tell you how honored I am to provide an educational environment like this to these kids and foster a love of lifelong learning in each of them.",
+    "url": "https://www.prenda.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prenda means that learning is a gift! We strive to kindle curiosity and ignite a passion for life-long learning in every student.",
+    "url": "https://www.prenda.com/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "From a grassroots after-school program to a comprehensive K-8th learning solution designed to help kids rediscover their love of learning",
+    "url": "https://www.prenda.com/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "Prenda founder, Kelly Smith, started volunteering at the public library to teach kids computer programming after school.",
+    "url": "https://www.prenda.com/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "Soon, the library was packed with kids working on coding projects they were truly interested in— collaborating, solving problems, and having a blast. Prenda Code Club spread from library to library all over the country.",
+    "url": "https://www.prenda.com/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "Seeing Prenda Code Club students deeply engaged each week and truly loving learning, Kelly had a lightbulb moment:",
+    "url": "https://www.prenda.com/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "The first Prenda Microschool",
+    "url": "https://www.prenda.com/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "This “aha” moment inspired Kelly to consider the future of education and create the first Prenda Microschool in his home with seven neighborhood students.",
+    "url": "https://www.prenda.com/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "Prenda has since grown into a full K-8 learning experience.",
+    "url": "https://www.prenda.com/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "As the word spread about Kelly and his students' learning journey, interest grew.",
+    "url": "https://www.prenda.com/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "This idea inspired many parents and community members to open Prenda microschools of their own.",
+    "url": "https://www.prenda.com/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "After seeing so many students thrive, Kelly established partnerships with local schools and ESA programs to make Prenda accessible to more kids.",
+    "url": "https://www.prenda.com/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "Since 2018, Prenda has helped over 1,000 inspiring adults start microschools, and nearly 10,000 students step up to lead their learning.",
+    "url": "https://www.prenda.com/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "Prenda’s core values are the foundation of our culture.",
+    "url": "https://www.prenda.com/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "We see ourselves as capable problem solvers who do whatever it takes to learn. We fearlessly question, curiously tinker, and stubbornly persist in our efforts to learn.",
+    "url": "https://www.prenda.com/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "We generously extend trust to others and work hard to earn their trust in us. We assume good intentions and approach others with empathy, curiosity, and compassion.",
+    "url": "https://www.prenda.com/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "If you believe kids deserve to love school, Prenda is for you!",
+    "url": "https://www.prenda.com/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "Whatever your background, we equip you with everything you need–training, materials, mentorship–to start and run a microschool with confidence.",
+    "url": "https://www.prenda.com/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "Inside a Prenda Microschool",
+    "url": "https://www.prenda.com/learning-experience",
+    "pass": 1
+   },
+   {
+    "quote": "Prenda was built to provide a better school-life balance for kids and families. While schedules vary from microschool to microschool, most microschools run 4-5 hours per day, 4 days per week.",
+    "url": "https://www.prenda.com/learning-experience",
+    "pass": 1
+   },
+   {
+    "quote": "Hands-on project-based learning",
+    "url": "https://www.prenda.com/learning-experience",
+    "pass": 1
+   },
+   {
+    "quote": "Each day at a Prenda microschool is made up of four learning modes: Connect, Conquer, Collaborate, and Create. Check out the research behind Prenda's learning system below.",
+    "url": "https://www.prenda.com/learning-experience",
+    "pass": 1
+   },
+   {
+    "quote": "Connect is meant to build strong relationships and help microschools establish a culture based on Prenda's core values and the principles of empowerment. Students and guides read, watch, discuss, journal, and play as they discover the skills and mindsets of empowered learners.",
+    "url": "https://www.prenda.com/learning-experience",
+    "pass": 1
+   },
+   {
+    "quote": "When we focus on relationships, mindset, and autonomy we maximize prefrontal cortex development and help kids feel less anxious, more engaged, and more self-motivated.",
+    "url": "https://www.prenda.com/learning-experience",
+    "pass": 1
+   },
+   {
+    "quote": "During Conquer, guides and parents work alongside students to create individualized learning plans using rigorous, mastery-based programs. Students set personal goals and move forward each day. Low-stress, adaptive, diagnostic testing identifies learning gaps and gets students working at the right level and pace.",
+    "url": "https://www.prenda.com/learning-experience",
+    "pass": 1
+   },
+   {
+    "quote": "Research shows that providing a mastery-based approach to academics and an immediate feedback loop fosters a sense of competence and drastically improves academic growth outcomes.",
+    "url": "https://www.prenda.com/learning-experience",
+    "pass": 1
+   },
+   {
+    "quote": "Collaborate engages students in inquiry-based research, debates, Socratic discussions, experiments, service learning, and problem-solving experiences that help them become people who think deeply about the world around them and how they interact with others. We teach students how to think, not what to think.",
+    "url": "https://www.prenda.com/learning-experience",
+    "pass": 1
+   },
+   {
+    "quote": "Promoting Motivation, Health, and Excellence",
+    "url": "https://www.prenda.com/learning-experience",
+    "pass": 1
+   },
+   {
+    "quote": "Create is a time for exploration and creativity. Students work together as they solve reality-based problems through projects that help them discover their interests and the world. They create businesses, products, service opportunities, websites, galleries, events, performances, and more.",
+    "url": "https://www.prenda.com/learning-experience",
+    "pass": 1
+   },
+   {
+    "quote": "Inviting students to use their learning in real and meaningful ways increases personal relevance and fosters each student’s ability to construct knowledge based on prior experiences.",
+    "url": "https://www.prenda.com/learning-experience",
+    "pass": 1
+   },
+   {
+    "quote": "Problem-Based Learning in K-12 Education",
+    "url": "https://www.prenda.com/learning-experience",
+    "pass": 1
+   },
+   {
+    "quote": "Intrinsic Motivation and the Process of Learning",
+    "url": "https://www.prenda.com/learning-experience",
+    "pass": 1
+   },
+   {
+    "quote": "Get a comprehensive look at the science behind microschools. Download “Prenda's Research-aligned Learning Approach”",
+    "url": "https://www.prenda.com/learning-experience",
+    "pass": 1
+   },
+   {
+    "quote": "Prenda microschools drive engagement and academic growth",
+    "url": "https://www.prenda.com/learning-experience",
+    "pass": 1
+   },
+   {
+    "quote": "Learn More About Prenda Outcomes",
+    "url": "https://www.prenda.com/learning-experience",
+    "pass": 1
+   },
+   {
+    "quote": "How you can become a Prenda guide and help kids in your own community through Prenda’s research-based learning model:",
+    "url": "https://www.prenda.com/learning-experience",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "I was looking for a different education option for my son. An environment that sparked his love of learning. Where he would feel comfortable, and like he belonged… I enrolled him in a Prenda Microschool. He was thrilled to be a part of this small-group setting where he could work at his own pace, collaborate with others, and get one-on-one support.",
+    "url": "https://www.prenda.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re carrying out our mission to empower learners, one microschool at a time. We are thrilled to continue on this incredible journey with you.",
+    "url": "https://www.prenda.com/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "Create a professional online presence with Prenda World’s microschool profile builder. Set a custom URL for your page, add pictures, and you'll be listed on our Microschool Map. As you start to recruit students for your class, you can share your profile with friends and parents. You only need two students to get started!",
+    "url": "https://www.prenda.com/become-a-guide",
+    "pass": 1
+   },
+   {
+    "quote": "So when we hear people say things like, “if you don’t force kids to learn, they won’t do anything,” we beg to differ. When you remove barriers to intrinsic motivation and provide kids with the psychological safety and ownership they need, they actually kick things up a notch.",
+    "url": "https://www.prenda.com/post/persist-progress-prenda-the-results-of-a-research-aligned-learning-model-and-culture",
+    "pass": 1
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/183386-08",
+    "pass": 3
+   },
+   {
+    "quote": "Prenda has 141 total employees.",
+    "url": "https://pitchbook.com/profiles/company/183386-08",
+    "pass": 3
+   },
+   {
+    "quote": "What is Prenda’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/183386-08",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Prenda is",
+    "url": "https://pitchbook.com/profiles/company/183386-08",
+    "pass": 3
+   },
+   {
+    "quote": "Prendea Funding | $1-53.9M Revenue | Complete Analysis | Extruct AI",
+    "url": "https://www.extruct.ai/hub/prenda-com-funding/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "PRENDA (@prendadesigncompany)は、日常の快適さを追求 ... — PRENDA (@prendadesigncompany)は、日常の快適さを追求 ... Instagram https://www.instagram.com > ...",
+    "url": "https://www.instagram.com/p/DQ4ChhPj_3y/",
+    "pass": 3
+   },
+   {
+    "quote": "PRENDA ｜プレンダの通販 - ZOZOTOWN — PRENDA ｜プレンダの通販 - ZOZOTOWN ZOZOTOWN https://zozo.jp > brand > prenda",
+    "url": "https://zozo.jp/brand/prenda/?srsltid=AYCX9vI4SEqTOojcilr0jGwEyTVoJ88BlE29qa-Wfp2ouHz0zuZOuFG8",
+    "pass": 3
+   },
+   {
+    "quote": "PRENDA (プレンダ) 公式通販 | MUSINSA 日本 — PRENDA (プレンダ) 公式通販 | MUSINSA 日本 MUSINSA https://global.musinsa.com > brand > prendafromplant",
+    "url": "https://global.musinsa.com/jp/brand/prendafromplant",
+    "pass": 3
+   },
+   {
+    "quote": "Prenda - LinkedIn — Prenda - LinkedIn LinkedIn https://www.linkedin.com > prenda",
+    "url": "https://www.linkedin.com/company/prenda",
+    "pass": 3
+   },
+   {
+    "quote": "Prenda Guide Community — Prenda Guide Community Prenda Guide Community https://community.prenda.com",
+    "url": "https://community.prenda.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Prenda - 2026 Company Profile, Team, Funding & Competitors — Prenda - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/prenda/__alMhF2307zWMObp8MS9LJ8HFYTbido_BixuRAWDs4No",
+    "pass": 3
+   },
+   {
+    "quote": "Prenda 2026 Company Profile: Valuation, Funding & Investors — Prenda 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/183386-08",
+    "pass": 3
+   },
+   {
+    "quote": "Prenda - Crunchbase Company Profile & Funding — Prenda - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > prenda",
+    "url": "https://www.crunchbase.com/organization/prenda",
+    "pass": 3
+   },
+   {
+    "quote": "Prendea Funding | $1-53.9M Revenue | Complete Analysis — Prendea Funding | $1-53.9M Revenue | Complete Analysis Extruct AI https://www.extruct.ai > hub > prenda...",
+    "url": "https://www.extruct.ai/hub/prenda-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Prenda raises $20M to build tech to run K-8 microschools — Prenda raises $20M to build tech to run K-8 microschools TechCrunch https://techcrunch.com > 2022/06/13",
+    "url": "https://techcrunch.com/2022/06/13/prenda-raises-20m-led-by-776-to-build-tech-to-run-k-8-microschools/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/183386-08",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "# prenda - Search / X # prenda - Search / X X https://x.com > Search",
+    "url": "https://x.com/hashtag/prenda?src=hashtag_click",
+    "pass": 3
+   },
+   {
+    "quote": "\"¿Qué prenda te gustaría tener primero? #fujiikaze\" / X \"¿Qué prenda te gustaría tener primero? #fujiikaze\" / X X https://x.com > @UMUSICA",
+    "url": "https://x.com/UMUSICA/status/2105387210321396036",
+    "pass": 3
+   },
+   {
+    "quote": "Original México on X: \"Es una prenda textil que abraza los ... Original México on X: \"Es una prenda textil que abraza los ... X https://x.com > @OriginalMexico",
+    "url": "https://x.com/OriginalMexico/status/2094941090352636260",
+    "pass": 3
+   },
+   {
+    "quote": "Presta Prenda (@MxPrestaPrenda) / X Presta Prenda (@MxPrestaPrenda) / X X https://x.com > MxPrestaPrenda",
+    "url": "https://x.com/MxPrestaPrenda",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Prenda - LinkedIn Prenda - LinkedIn LinkedIn https://www.linkedin.com > prenda",
+    "url": "https://www.linkedin.com/company/prenda",
+    "pass": 3
+   },
+   {
+    "quote": "Kelly Smith - Founder and CEO at Prenda - LinkedIn Kelly Smith - Founder and CEO at Prenda - LinkedIn LinkedIn https://www.linkedin.com > kellysmit...",
+    "url": "https://www.linkedin.com/in/kellysmith35",
+    "pass": 3
+   },
+   {
+    "quote": "Brad Prenda - Client Executive with Insight - LinkedIn Brad Prenda - Client Executive with Insight - LinkedIn LinkedIn https://www.linkedin.com > bradprenda",
+    "url": "https://www.linkedin.com/in/bradprenda",
+    "pass": 3
+   },
+   {
+    "quote": "Tom Prenda - Solutions Architect - LinkedIn Tom Prenda - Solutions Architect - LinkedIn LinkedIn https://www.linkedin.com > tom-pren...",
+    "url": "https://www.linkedin.com/in/tom-prenda-b4881a78",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Prenda (@prendalearn) - Facebook Prenda (@prendalearn) - Facebook Facebook https://www.facebook.com > ... > Education > School",
+    "url": "https://www.facebook.com/prendalearn/",
+    "pass": 3
+   },
+   {
+    "quote": "Who has experience with using Prenda for their Microschool Who has experience with using Prenda for their Microschool Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/1640869739404086/posts/2728393297318386/",
+    "pass": 3
+   },
+   {
+    "quote": "Is PRENDA worth the cost for new microschools? - Facebook Is PRENDA worth the cost for new microschools? - Facebook Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/1640869739404086/posts/3464710113686697/",
+    "pass": 3
+   },
+   {
+    "quote": "Using Prenda for microschool? - Facebook Using Prenda for microschool? - Facebook Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/4672146366160051/posts/34386638007617494/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.prenda.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prenda.com/who-we-are",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prenda.com/learning-experience",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prenda.com/become-a-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prenda.com/post/persist-progress-prenda-the-results-of-a-research-aligned-learning-model-and-culture",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.stellantis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.webcg.net/articles/-/54505",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://global.toyota/jp/newsroom/toyota/44149865.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bgent.net/plus/article/7044",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=DBK9vqrcDaY",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://growth-dx.com/column/agency_dealer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/p/DQ4ChhPj_3y/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://zozo.jp/brand/prenda/?srsltid=AYCX9vI4SEqTOojcilr0jGwEyTVoJ88BlE29qa-Wfp2ouHz0zuZOuFG8",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://global.musinsa.com/jp/brand/prendafromplant",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/prenda",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-case-studies--44452?srsltid=AYCX9vLJNHnoKrCIDxJQ9WvKGAwvjeVqGT4NyxKkSNd8UljEj9KQlTUT",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://manufacturingleadershipcouncil.com/case-study-transforming-through-manufacturing-4-0/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cadtalk.com/cadtalk-case-studies-for-manufacturers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ptc.com/en/technologies/plm/customer-stories?srsltid=AYCX9vKQvI-HUzrRX2qpx9SMWHbXNFwAcT_y1kmHfbu8T3bxsDugXhSF",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://webinone.com/reseller-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intermedia.com/resellers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/prenda/__alMhF2307zWMObp8MS9LJ8HFYTbido_BixuRAWDs4No",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/183386-08",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/prenda",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.extruct.ai/hub/prenda-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hashtag/prenda?src=hashtag_click",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/UMUSICA/status/2105387210321396036",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/OriginalMexico/status/2094941090352636260",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MxPrestaPrenda",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/prenda",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/kellysmith35",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/bradprenda",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/tom-prenda-b4881a78",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/prendalearn/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/1640869739404086/posts/2728393297318386/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/1640869739404086/posts/3464710113686697/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/4672146366160051/posts/34386638007617494/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/prenda?src=hashtag_click",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Prenda 日本 導入",
+   "results": [
+    "https://www.stellantis.jp/",
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://www.webcg.net/articles/-/54505",
+    "https://global.toyota/jp/newsroom/toyota/44149865.html",
+    "https://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/id=160144/",
+    "https://www.caranddriver.co.jp/newcar/114898/",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://www.aba-j.or.jp/info/industry/20087/",
+    "https://szu.jp/brands/prenda",
+    "https://roadect.com/articles/news/toyota-tundra-japan-launch-2026"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Prenda 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.bgent.net/plus/article/7044",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://www.youtube.com/watch?v=DBK9vqrcDaY",
+    "https://growth-dx.com/column/agency_dealer/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://partner-prop.com/lab/partner-business/agency/3216/",
+    "https://partnersales.biz/partnersales-general/types-of-partner-agreements-1/",
+    "https://www.deex.co.jp/media/8uGKOPAJ",
+    "https://dairitenboshu.com/",
+    "https://kathalo.com/kathalog/import-business/1027/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Prenda Japan",
+   "results": [
+    "https://www.instagram.com/p/DQ4ChhPj_3y/",
+    "https://zozo.jp/brand/prenda/?srsltid=AYCX9vI4SEqTOojcilr0jGwEyTVoJ88BlE29qa-Wfp2ouHz0zuZOuFG8",
+    "https://global.musinsa.com/jp/brand/prendafromplant",
+    "https://www.linkedin.com/company/prenda",
+    "https://community.prenda.com/",
+    "https://www.ycombinator.com/companies/prenda",
+    "https://prendaworld.com/",
+    "https://dictionary.cambridge.org/dictionary/portuguese-english/prenda",
+    "https://global.musinsa.com/jp/brand/prendafromplant?gender=A&sortCode=POPULAR",
+    "https://zozo.jp/brand/prenda/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Prenda manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-case-studies--44452?srsltid=AYCX9vLJNHnoKrCIDxJQ9WvKGAwvjeVqGT4NyxKkSNd8UljEj9KQlTUT",
+    "https://manufacturingleadershipcouncil.com/case-study-transforming-through-manufacturing-4-0/",
+    "https://cadtalk.com/cadtalk-case-studies-for-manufacturers/",
+    "https://www.ptc.com/en/technologies/plm/customer-stories?srsltid=AYCX9vKQvI-HUzrRX2qpx9SMWHbXNFwAcT_y1kmHfbu8T3bxsDugXhSF",
+    "https://www.advantive.com/case-studies/",
+    "https://www.athenaswc.com/case-studies/",
+    "https://www.hpe.com/us/en/customer-case-studies.html",
+    "https://www.planview.com/resources/case-study/manufacturing-company/",
+    "https://www.erpresearch.com/erp-add-ons/manufacturing-mes-plm/katana/case-studies",
+    "https://www.casestudies.com/customer/prenda"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Prenda white label OR reseller OR partner program",
+   "results": [
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/",
+    "https://webinone.com/reseller-program",
+    "https://www.intermedia.com/resellers",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://www.youtube.com/watch?v=UHSbzGSpTBQ",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://www.digitalsuccess.us/blog/top-8-white-label-digital-marketing-partners-for-agencies-2026.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Prenda founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/prenda/__alMhF2307zWMObp8MS9LJ8HFYTbido_BixuRAWDs4No",
+    "https://pitchbook.com/profiles/company/183386-08",
+    "https://www.crunchbase.com/organization/prenda",
+    "https://www.extruct.ai/hub/prenda-com-funding/",
+    "https://techcrunch.com/2022/06/13/prenda-raises-20m-led-by-776-to-build-tech-to-run-k-8-microschools/",
+    "https://www.prenda.com/become-a-guide",
+    "https://fi.co/benchmarks",
+    "https://www.edsurge.com/news/2019-08-19-income-share-agreements-dominate-y-combinator-s-latest-education-graduates",
+    "https://founders-directory.vercel.app/company/prenda",
+    "https://compworth.com/company/prenda"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com Prenda",
+   "results": [
+    "https://note.com/smahof/n/nd232dee203e6",
+    "https://note.com/ludovicarichie/n/nbbc501a6ace9",
+    "https://note.com/fond_snail7032/n/nf1185d8725cc",
+    "https://note.com/pinkspider27club/n/n8d1d93c9d820",
+    "https://note.com/t2shimamura/n/n2e50d899337e",
+    "https://note.com/kimono_teshigoto/n/n42db1e0f882a",
+    "https://note.com/nippon_hitode/n/nd92e1430d0f8",
+    "https://note.com/smahof/n/n55d9733a23f2",
+    "https://note.com/spain_nomad/n/n1bdd5fb8dd4a"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:x.com Prenda",
+   "results": [
+    "https://x.com/hashtag/prenda?src=hashtag_click",
+    "https://x.com/UMUSICA/status/2105387210321396036",
+    "https://x.com/OriginalMexico/status/2094941090352636260",
+    "https://x.com/MxPrestaPrenda",
+    "https://x.com/RAEinforma/status/1968327093042942377",
+    "https://x.com/TrademarkBlog/status/340903587133681664",
+    "https://x.com/Canal4_UY/status/2118323138580885596",
+    "https://x.com/RAEinforma/status/1717783273915502746?lang=ar",
+    "https://x.com/EmbColES/status/2118928740411392023",
+    "https://x.com/prendalearn"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "site:linkedin.com Prenda",
+   "results": [
+    "https://www.linkedin.com/company/prenda",
+    "https://www.linkedin.com/in/kellysmith35",
+    "https://www.linkedin.com/in/bradprenda",
+    "https://www.linkedin.com/in/tom-prenda-b4881a78",
+    "https://il.linkedin.com/in/dante-deprenda",
+    "https://it.linkedin.com/in/erica-lynn-prenda-6ab4b6270",
+    "https://www.linkedin.com/in/brian-prenda-2b32889",
+    "https://www.linkedin.com/in/blakebish",
+    "https://www.linkedin.com/in/susan-prenda-3385145",
+    "https://ca.linkedin.com/in/milena-prenda-6531a724a"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:facebook.com Prenda",
+   "results": [
+    "https://www.facebook.com/prendalearn/",
+    "https://www.facebook.com/groups/1640869739404086/posts/2728393297318386/",
+    "https://www.facebook.com/groups/1640869739404086/posts/3464710113686697/",
+    "https://www.facebook.com/groups/4672146366160051/posts/34386638007617494/",
+    "https://www.facebook.com/groups/247424224772066/posts/499164186264734/",
+    "https://www.facebook.com/groups/Secular.Homeschool.Families/posts/10162209004211035/",
+    "https://www.facebook.com/groups/247424224772066/",
+    "https://www.facebook.com/groups/4672146366160051/posts/39935576886056884/",
+    "https://www.facebook.com/prenda.pk/",
+    "https://www.facebook.com/pprendastore/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Prenda note 社長",
+   "results": [
+    "https://note.com/sadaaki",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://froggy.smbcnikko.co.jp/66481/",
+    "https://diamond.jp/articles/-/388572",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://x.com/sadaaki",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://note.com/ai_shacho",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Prenda X 投稿",
+   "results": [
+    "https://x.com/hashtag/prenda?src=hashtag_click",
+    "https://www.youtube.com/watch?v=gvbCoPOjdwA",
+    "https://www.instagram.com/PRENDA/",
+    "https://vimeo.com/user118815274",
+    "https://x.com/TrademarkBlog/status/340903587133681664",
+    "https://vlink.design/mag/pr-notation-x",
+    "https://yakujihou-marketing.net/archives/4516",
+    "https://hannya-builder.com/tweet-1stcopy/",
+    "https://www.youtube.com/watch?v=HYMINDIqFLM",
+    "https://x.com/prendaxo"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 20
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部37頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部37頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部37頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部37頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部37頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部37頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部37頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部37頁・検索12回）"
+ }
+}

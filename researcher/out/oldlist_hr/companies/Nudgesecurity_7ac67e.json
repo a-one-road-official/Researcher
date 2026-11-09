@@ -1,0 +1,1608 @@
+{
+ "name": "Nudgesecurity",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜状態なし",
+ "researched_at": "2026-11-09T23:14:14.111027+00:00",
+ "official_url": "https://www.nudgesecurity.com",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$21,000",
+    "url": "https://prospeo.io/c/nudge-security-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$16,500,000",
+    "url": "https://prospeo.io/c/nudge-security-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Austin, Texas, United States",
+    "url": "https://prospeo.io/c/nudge-security-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2022",
+    "url": "https://prospeo.io/c/nudge-security-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Your workforce is changing the attack surface.",
+    "url": "https://www.nudgesecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“This is one of those tools you can pry from my cold dead fingers.”",
+    "url": "https://www.nudgesecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“You've just transformed a six-hour project into an hour of work.”",
+    "url": "https://www.nudgesecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Secure the Workforce Edge with Nudge Security.",
+    "url": "https://www.nudgesecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Nudge helps security teams understand what's happening across the Workforce Edge, know what matters, and respond based on the risk. See what's being used. Know what needs attention. Take action without getting in the way of work.",
+    "url": "https://www.nudgesecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SaaS sprawl & cost management",
+    "url": "https://www.nudgesecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover SaaS spend, use, and adoption to control risk, sprawl, and wasted spend.",
+    "url": "https://www.nudgesecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Nudge is now being used by Security, Workforce Productivity, and Finance as the record of what apps employees are using.”",
+    "url": "https://www.nudgesecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Workforce Productivity, Netflix",
+    "url": "https://www.nudgesecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Detect sensitive data shared with AI chatbots through file uploads and copy / paste activities.",
+    "url": "https://www.nudgesecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Access over 200,000 SaaS vendor security profiles to accelerate your third-party risk assessments.",
+    "url": "https://www.nudgesecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Not every action carries the same risk, so not every action needs the same response. Automatically guide your workforce toward secure decisions at scale—while stepping in when the risk calls for it.",
+    "url": "https://www.nudgesecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Nudge Security helps provide organizations with increased visibility into today's modern attack surface, and enlists all employees to help protect it.\"",
+    "url": "https://www.nudgesecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President of Security",
+    "url": "https://www.nudgesecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Nudge Security strikes the right balance and helps modern organizations like ours manage the tide of SaaS sprawl.\"",
+    "url": "https://www.nudgesecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Today, every employee acts as their own CIO and can easily reach for a new cloud or SaaS tool to solve virtually any problem.\"",
+    "url": "https://www.nudgesecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Nudge Security innovates beyond other cloud and SaaS security technologies by providing SaaS context quickly.\"",
+    "url": "https://www.nudgesecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Group Vice President, Security & Trust",
+    "url": "https://www.nudgesecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Nudge Security has an innovative approach that helps security teams shore up their defenses against cloud and SaaS threats.\"",
+    "url": "https://www.nudgesecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Finally, Nudge Security has emerged to tackle the hardest soft problem in history—human behavior.”",
+    "url": "https://www.nudgesecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover what your workforce is actually using, where risk is forming, and where security needs to act—in minutes.",
+    "url": "https://www.nudgesecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We find shadow SaaS and shadow AI, the tools employees adopt without going through IT or procurement, automatically as they show up, then use behavioral nudges instead of blocks to guide your employees toward secure, sanctioned alternatives. These are a subset of the broader",
+    "url": "https://www.nudgesecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "problem, one that's grown faster than most security programs were built to handle, and closing it doesn't require slowing anyone down.",
+    "url": "https://www.nudgesecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We connect to your Microsoft 365 or Google Workspace email with read-only API access, then analyze email metadata to detect SaaS and AI account creation, logins, and usage patterns. That approach surfaces apps regardless of network, device, or location, closing the gap where",
+    "url": "https://www.nudgesecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "network monitoring can't detect SaaS sprawl",
+    "url": "https://www.nudgesecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Hear what product users and industry experts say about Nudge Security.",
+    "url": "https://www.nudgesecurity.com/love-for-nudge",
+    "pass": 1
+   },
+   {
+    "quote": "\"We built automations to help scale our processes as we went from around 200 employees to over 700. That's how we were able to keep a very lean IT headcount-to-employee ratio for the company.\"",
+    "url": "https://www.nudgesecurity.com/love-for-nudge",
+    "pass": 1
+   },
+   {
+    "quote": "\"Nudge Security has been a big win for our security program at Reddit. Within hours of deployment, we gained complete visibility into our SaaS footprint across the organization. It's rare to find a solution that's both incredibly powerful and remarkably easy to use.\"",
+    "url": "https://www.nudgesecurity.com/love-for-nudge",
+    "pass": 1
+   },
+   {
+    "quote": "Shadow IT used to be one of our biggest blind spots — until we brought in Nudge Security. In less than a day, we had full visibility into every SaaS tool in use, along with smart nudges that actually helped our team close gaps faster. The platform’s simplicity and automation have turned SaaS governance from reactive to proactive.\"",
+    "url": "https://www.nudgesecurity.com/love-for-nudge",
+    "pass": 1
+   },
+   {
+    "quote": "\"This product is truly revolutionizing the way teams manage shadow IT across enterprise level companies.\"",
+    "url": "https://www.nudgesecurity.com/love-for-nudge",
+    "pass": 1
+   },
+   {
+    "quote": "\"IT & Security friends: One of my favorite finds and adds for 2024 has been Nudge Security. I stumbled upon one of their ads while doomscrolling Reddit one evening, signed up for a free trial the next day, and as they say, the rest was history.",
+    "url": "https://www.nudgesecurity.com/love-for-nudge",
+    "pass": 1
+   },
+   {
+    "quote": "\"Recently, I had the chance to test and review a SaaS security solution from @nudge_security. I really liked their understanding of why SaaS is used and their approach to taking control.\"",
+    "url": "https://www.nudgesecurity.com/love-for-nudge",
+    "pass": 1
+   },
+   {
+    "quote": "\"I’m still very very bullish on what the team at Nudge Security are building. Great founders that have lived through these security problems and also understand the need to make security lovable by the end users and security teams. If you’re in my network, you’ll definitely wanna check them out.\"",
+    "url": "https://www.nudgesecurity.com/love-for-nudge",
+    "pass": 1
+   },
+   {
+    "quote": "\"Nudge helped us significantly reduce our shadow SaaS footprint and eliminate unapproved OAuth grants. With their app risk scores, we can flag when risk goes from medium to critical, whether the change is on our side or the vendor's, and act on it in real-time to reduce threats.\"",
+    "url": "https://www.nudgesecurity.com/love-for-nudge",
+    "pass": 1
+   },
+   {
+    "quote": "The 19 most promising cybersecurity startups of 2023, according to VCs",
+    "url": "https://www.nudgesecurity.com/love-for-nudge",
+    "pass": 1
+   },
+   {
+    "quote": "\"Nudge Security is exactly how I want all my security products built and delivered.",
+    "url": "https://www.nudgesecurity.com/love-for-nudge",
+    "pass": 1
+   },
+   {
+    "quote": "“Nudge Security has been a massive upgrade. It’s a great spreadsheet killer.”",
+    "url": "https://www.nudgesecurity.com/love-for-nudge",
+    "pass": 1
+   },
+   {
+    "quote": "\"Nudge Security gives me transparent access to many accounts that I didn't even know I still had. I was especially impressed with its access to AWS accounts.\"",
+    "url": "https://www.nudgesecurity.com/love-for-nudge",
+    "pass": 1
+   },
+   {
+    "quote": "Most Promising Early-Stage Startup",
+    "url": "https://www.nudgesecurity.com/love-for-nudge",
+    "pass": 1
+   },
+   {
+    "quote": "\"Nudge Security simply an outstanding product.\"",
+    "url": "https://www.nudgesecurity.com/love-for-nudge",
+    "pass": 1
+   },
+   {
+    "quote": "\"The product is exceptional and core to our compliance strategy.\"",
+    "url": "https://www.nudgesecurity.com/love-for-nudge",
+    "pass": 1
+   },
+   {
+    "quote": "\"Easy deployment leads to quick visibility across SaaS estate.\"",
+    "url": "https://www.nudgesecurity.com/love-for-nudge",
+    "pass": 1
+   },
+   {
+    "quote": "“Nudge provides a relational view across applications, users, integrations, browser extensions, and authentication that surfaces where security actually needs improvement.”",
+    "url": "https://www.nudgesecurity.com/love-for-nudge",
+    "pass": 1
+   },
+   {
+    "quote": "\"Just 1 month into using @nudge_security and we’re already seeing huge improvements in SaaS visibility & security posture. 🚀 Excited to keep pushing forward with these results. #CyberSecurity #SaaS\"",
+    "url": "https://www.nudgesecurity.com/love-for-nudge",
+    "pass": 1
+   },
+   {
+    "quote": "This product has cut down on my time scanning/researching these items and has greatly improved the user offboarding process. HR loves it. Admin Loves it. IT Loves it. Everyone is happy.\"",
+    "url": "https://www.nudgesecurity.com/love-for-nudge",
+    "pass": 1
+   },
+   {
+    "quote": "“Nudge Security is probably the best solution on the market I've seen for catching all the unknowns.”",
+    "url": "https://www.nudgesecurity.com/love-for-nudge",
+    "pass": 1
+   },
+   {
+    "quote": "”We knew we needed to investigate and reel in our shadow IT and SaaS sprawl. Combine that issue with compliance needs and the ongoing need to control and reducing costs whenever possible, Nudge was a no-brainer.”",
+    "url": "https://www.nudgesecurity.com/love-for-nudge",
+    "pass": 1
+   },
+   {
+    "quote": "\"Nudge’s two key differentiators are its approaches to the discovery and enforcement required for SaaS security and compliance. Omdia applauds the company on both counts.\"",
+    "url": "https://www.nudgesecurity.com/love-for-nudge",
+    "pass": 1
+   },
+   {
+    "quote": "Added bonuses are that Nudge also helps us eliminate SaaS sprawl, manage SaaS supply chain risk and monitor our attack surface. It even simplifies employee offboarding by removing all the guesswork of what SaaS tools employees have access to!\"",
+    "url": "https://www.nudgesecurity.com/love-for-nudge",
+    "pass": 1
+   },
+   {
+    "quote": "To shore up security, Chris and his IT team began conducting quarterly audits of all SaaS services in a spreadsheet—a manual, tedious process that took one to two weeks for two employees to complete. As they continued to uncover more shadow SaaS, they realized the looming challenge of managing this project, especially given the company's rapid pace of growth.",
+    "url": "https://www.nudgesecurity.com/case-study/karmacheck",
+    "pass": 1
+   },
+   {
+    "quote": "Nudge's platform discovered 10x more apps than KarmaCheck was tracking via their manual process, giving them an accurate, complete SaaS inventory on Day One.",
+    "url": "https://www.nudgesecurity.com/case-study/karmacheck",
+    "pass": 1
+   },
+   {
+    "quote": "Compared to alternatives, Nudge Security provided both faster time to value and more comprehensive visibility of KarmaCheck’s SaaS estate.",
+    "url": "https://www.nudgesecurity.com/case-study/karmacheck",
+    "pass": 1
+   },
+   {
+    "quote": "As Chris explains, \"Other providers expected us to manually configure dozens of individual app integrations before we could start seeing value, which is a",
+    "url": "https://www.nudgesecurity.com/case-study/karmacheck",
+    "pass": 1
+   },
+   {
+    "quote": "of manual work. When I signed up for a trial with Nudge, we were up and running within an hour just by connecting to our IdP. We were seeing insights immediately. Then we can go into those deeper integrations afterwards—which is awesome and helpful, but that provides an extra layer, not a starting point. By starting with discovery first, Nudge provides a holistic 360 approach.\"",
+    "url": "https://www.nudgesecurity.com/case-study/karmacheck",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive employee offboarding for managed and unmanaged SaaS accounts",
+    "url": "https://www.nudgesecurity.com/case-study/karmacheck",
+    "pass": 1
+   },
+   {
+    "quote": "As a background check company that processes PII, KarmaCheck is subject to stringent compliance standards. To meet the requirements for these audits, the KarmaCheck IT team needs to perform quarterly user access reviews for applications that process sensitive data.",
+    "url": "https://www.nudgesecurity.com/case-study/karmacheck",
+    "pass": 1
+   },
+   {
+    "quote": "Proactive IT management",
+    "url": "https://www.nudgesecurity.com/case-study/karmacheck",
+    "pass": 1
+   },
+   {
+    "quote": "As an IT leader, Chris particularly appreciates Nudge Security’s automated",
+    "url": "https://www.nudgesecurity.com/case-study/karmacheck",
+    "pass": 1
+   },
+   {
+    "quote": "Most of all, though, he values the opportunities it surfaces for his team to be proactive.",
+    "url": "https://www.nudgesecurity.com/case-study/karmacheck",
+    "pass": 1
+   },
+   {
+    "quote": "“A lot of people think of IT as firefighters: We go and put the fire out and then we’re done. In reality, you want to be proactive and eliminate as many problems as possible beforehand so the fires don't happen as often. Having a tool like Nudge is foundational in that effort because it catches so many issues and helps remediate so many of them prior to becoming a problem.”",
+    "url": "https://www.nudgesecurity.com/case-study/karmacheck",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by modern teams. Built for what's next.",
+    "url": "https://www.nudgesecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Nudge is now being used by Security, Workforce Productivity, and Finance as the record of what apps employees are using.”",
+    "url": "https://www.nudgesecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Avoid the risks, wasted spend, and operational inefficiences caused by SaaS sprawl.",
+    "url": "https://www.nudgesecurity.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by modern security teams everywhere",
+    "url": "https://www.nudgesecurity.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by security teams everywhere",
+    "url": "https://www.nudgesecurity.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Previous tools used by Drata's IT team left gaps in visibility, making it difficult to ensure all access was revoked when employees left the organization.",
+    "url": "https://www.nudgesecurity.com/case-study/drata",
+    "pass": 1
+   },
+   {
+    "quote": "“What started as a tool for the IT team is now used by at least four other teams,” the former IT lead explained. “Anybody who cares about security, usability, or SaaS trends knows about Nudge. It’s become part of our daily workflow.”",
+    "url": "https://www.nudgesecurity.com/case-study/high-growth-ai-company",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by security teams everywhere",
+    "url": "https://www.nudgesecurity.com/features/saas-discovery",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by security teams everywhere",
+    "url": "https://www.nudgesecurity.com/features/nudge-ai-agents",
+    "pass": 1
+   },
+   {
+    "quote": "Success Stories about Software and Services used by Nudge Security",
+    "url": "https://www.casestudies.com/customer/nudge-security",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/nudge-security/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/nudge-security",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Every day, your employees adopt new AI and SaaS tools, share data, and invite collaborators outside the network edge. This is the",
+    "url": "https://www.nudgesecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Nudge is now being used by Security, Workforce Productivity, and Finance as the record of what apps employees are using.”",
+    "url": "https://www.nudgesecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ensure that employees use SSO, MFA, and strong passwords with rich identity security telemetry and user access reviews.",
+    "url": "https://www.nudgesecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Not every action carries the same risk, so not every action needs the same response. Automatically guide your workforce toward secure decisions at scale—while stepping in when the risk calls for it.",
+    "url": "https://www.nudgesecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Nudge Security is the way to find out what applications your employees are actually using, and that's just not addressed completely by any other solution.\"",
+    "url": "https://www.nudgesecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Nudge Security helps provide organizations with increased visibility into today's modern attack surface, and enlists all employees to help protect it.\"",
+    "url": "https://www.nudgesecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We discover and secure every SaaS and AI application your organization has ever adopted, including the shadow SaaS and unsanctioned AI tools employees bring in without IT's knowledge. Instead of blocking access, we use behavioral nudges to guide your employees toward secure choices on their own.",
+    "url": "https://www.nudgesecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We find shadow SaaS and shadow AI, the tools employees adopt without going through IT or procurement, automatically as they show up, then use behavioral nudges instead of blocks to guide your employees toward secure, sanctioned alternatives. These are a subset of the broader",
+    "url": "https://www.nudgesecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": ", including tools employees adopted on personal devices or before you brought us in.",
+    "url": "https://www.nudgesecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "lets you revoke risky grants directly or route them through an approval workflow, closing one of the most common oversights in SaaS security: access employees granted months or years ago and forgot about.",
+    "url": "https://www.nudgesecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "No. Setup is a single, read-only integration with your existing email provider. There's no need for network proxies, endpoint agents, or changes to how your employees already work, so you get visibility without the rollout friction that usually comes with a new tool.",
+    "url": "https://www.nudgesecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"We built automations to help scale our processes as we went from around 200 employees to over 700. That's how we were able to keep a very lean IT headcount-to-employee ratio for the company.\"",
+    "url": "https://www.nudgesecurity.com/love-for-nudge",
+    "pass": 1
+   },
+   {
+    "quote": "\"Nudge Security is the way to find out what applications your employees are actually using, and that's just not addressed completely by any other solution.\"",
+    "url": "https://www.nudgesecurity.com/love-for-nudge",
+    "pass": 1
+   },
+   {
+    "quote": "\"Sometimes you find a security tool that's just that good. We've recently started using Nudge Security at Stravito to help us monitor employee SaaS usage. As a cloud only and remote first organisation it is key for us to understand how and what SaaS tools our employees use.",
+    "url": "https://www.nudgesecurity.com/love-for-nudge",
+    "pass": 1
+   },
+   {
+    "quote": "Added bonuses are that Nudge also helps us eliminate SaaS sprawl, manage SaaS supply chain risk and monitor our attack surface. It even simplifies employee offboarding by removing all the guesswork of what SaaS tools employees have access to!\"",
+    "url": "https://www.nudgesecurity.com/love-for-nudge",
+    "pass": 1
+   },
+   {
+    "quote": "To shore up security, Chris and his IT team began conducting quarterly audits of all SaaS services in a spreadsheet—a manual, tedious process that took one to two weeks for two employees to complete. As they continued to uncover more shadow SaaS, they realized the looming challenge of managing this project, especially given the company's rapid pace of growth.",
+    "url": "https://www.nudgesecurity.com/case-study/karmacheck",
+    "pass": 1
+   },
+   {
+    "quote": "for 40 in-scope apps required over 100 hours of manual effort each quarter. Now, the same access reviews that once took two employees 1-2 weeks can be completed by one employee in just 1-3 days using Nudge's automated capabilities—while auditing more than double the number of in-scope apps.",
+    "url": "https://www.nudgesecurity.com/case-study/karmacheck",
+    "pass": 1
+   },
+   {
+    "quote": "Overall, Nudge Security has been able to complement KarmaCheck’s security ethos by providing unparalleled visibility while empowering KarmaCheck employees and making them part of the solution.",
+    "url": "https://www.nudgesecurity.com/case-study/karmacheck",
+    "pass": 1
+   },
+   {
+    "quote": "How Drata governs AI and SaaS sprawl for 700+ employees with a 5-person IT team",
+    "url": "https://www.nudgesecurity.com/case-study/karmacheck",
+    "pass": 1
+   },
+   {
+    "quote": "How many employees work at your company? Use the slider below to see how much Nudge Security could save you in wasted SaaS spend.",
+    "url": "https://www.nudgesecurity.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Estimated number of cloud and SaaS user accounts, both active and inactive, your employees have created.",
+    "url": "https://www.nudgesecurity.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Ensure that your workforce has the right access to tools they need. Our app directory allows employees to find and self-serve access requests, while our offboarding playbook helps you to quickly and fully revoke access when an employee leaves or changes roles.",
+    "url": "https://www.nudgesecurity.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Know which of your SaaS vendors use third-party AI services like OpenAI and Anthropic as part of their service delivery or business operations.",
+    "url": "https://www.nudgesecurity.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Create automated nudges to redirect employees toward sanctioned SaaS and AI apps instead of creating more sprawl.",
+    "url": "https://www.nudgesecurity.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Get work done faster with purpose-built workflows that guide you through common SaaS security and governance tasks like offboarding employees or conducting user access reviews.",
+    "url": "https://www.nudgesecurity.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "\"Nudge Security is the way to find out what applications your employees are actually using, and that's just not addressed completely by any other solution.\"",
+    "url": "https://www.nudgesecurity.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "\"Attack surfaces are growing more complex as organizations adopt new cloud and SaaS technologies across a globally distributed workforce. Nudge Security helps provide organizations with increased visibility into today's modern attack surface, and enlists all employees to help protect it.\"",
+    "url": "https://www.nudgesecurity.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "“Modern CIOs face a difficult balancing act enabling a highly distributed workforce with access to data and technology while trying to control the costs and risks associated with unchecked SaaS sprawl. Nudge Security strikes the right balance and helps modern organizations like ours manage the tide of SaaS sprawl without constraining employees’ abilities to move the business forward.”",
+    "url": "https://www.nudgesecurity.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Generally speaking, all employees are provisioned at least one user with a mailbox. Additionally, you may provision accounts with mailboxes for guest users or contract workers, mailing lists, and shared mailboxes (for example,",
+    "url": "https://www.nudgesecurity.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Generally speaking, your plan will be based on the total number of active users across all of your workspace tenants. Let us know if you are in the process of migrating or consolidating tenants, for examples, as part of a merger or acquisition. We will work with you to help ensure a smooth transition between plans.",
+    "url": "https://www.nudgesecurity.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Revenue Officer (CRO)",
+    "url": "https://www.nudgesecurity.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Patrick has over 20 years of experience building and scaling go-to-market teams at high-growth security companies. Prior to joining Nudge Security, he held senior leadership roles at Airlock Digital, Saviynt, and BeyondTrust. At Nudge, he leads global sales, marketing, product success, and revenue operations.",
+    "url": "https://www.nudgesecurity.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Chris has over 20 years of software engineering and product delivery experience. Prior to Joining Nudge Security, Chris held the CTO position at TruSTAR, a threat intelligence management platform company acquired by Splunk in 2020.",
+    "url": "https://www.nudgesecurity.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "How Drata governs AI and SaaS sprawl for 700+ employees with Nudge Security",
+    "url": "https://www.nudgesecurity.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "“Nudge Security is the way to find out what applications your employees are actually using, and that's just not addressed completely by any other solution.”",
+    "url": "https://www.nudgesecurity.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "\"Nudge Security is the way to find out what applications your employees are actually using, and that's just not addressed completely by any other solution.\"",
+    "url": "https://www.nudgesecurity.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "\"Attack surfaces are growing more complex as organizations adopt new cloud and SaaS technologies across a globally distributed workforce. Nudge Security helps provide organizations with increased visibility into today's modern attack surface, and enlists all employees to help protect it.\"",
+    "url": "https://www.nudgesecurity.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "“Modern CIOs face a difficult balancing act enabling a highly distributed workforce with access to data and technology while trying to control the costs and risks associated with unchecked SaaS sprawl. Nudge Security strikes the right balance and helps modern organizations like ours manage the tide of SaaS sprawl without constraining employees’ abilities to move the business forward.”",
+    "url": "https://www.nudgesecurity.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Looking to manage generative AI risks across your organization? Only Nudge Security uncovers shadow AI and automates guardrails for safe AI adoption as part of a complete SaaS security and governance solution.",
+    "url": "https://www.nudgesecurity.com/comparison/nudge-security-vs-ai-security",
+    "pass": 1
+   },
+   {
+    "quote": "Nudge Security delivers workforce AI security and governance as part of a complete SaaS security solution. Our unrivaled discovery methods uncover shadow AI use through email analysis, connected apps, and a browser extension, giving you a historical and continuous inventory of AI tools, users, activities, and integrations.",
+    "url": "https://www.nudgesecurity.com/comparison/nudge-security-vs-ai-security",
+    "pass": 1
+   },
+   {
+    "quote": "Agent visibility is narrow and disconnected.",
+    "url": "https://www.nudgesecurity.com/comparison/nudge-security-vs-ai-security",
+    "pass": 1
+   },
+   {
+    "quote": "Most AI security point solutions focus narrowly on the interaction level; masking, intercepting, or analyzing prompts. This leaves bigger data risks unchecked, like sensitive data flowing into SaaS tools with embedded AI, agent-to-agent integrations, and MCP servers. This means critical exposure points outside of prompts remain invisible and unprotected.",
+    "url": "https://www.nudgesecurity.com/comparison/nudge-security-vs-ai-security",
+    "pass": 1
+   },
+   {
+    "quote": "Nudge Security engages SaaS and AI owners—and users—directly in Slack, Teams, email, and in the browser. With customizable nudges, organizations can guide behavior, educate employees, and assign tasks in the flow of work, driving secure adoption and resolution without blocking productivity.",
+    "url": "https://www.nudgesecurity.com/comparison/nudge-security-vs-ai-security",
+    "pass": 1
+   },
+   {
+    "quote": "These point solutions also add another layer to already overloaded security tech stacks. Every new AI security provider creates additional management overhead while addressing only a fraction of the risk. Most of these tools focus narrowly on prompt traffic, leaving the rest of the SaaS environment unprotected.",
+    "url": "https://www.nudgesecurity.com/comparison/nudge-security-vs-ai-security",
+    "pass": 1
+   },
+   {
+    "quote": "Discover which AI tools employees actually use.",
+    "url": "https://www.nudgesecurity.com/comparison/nudge-security-vs-ai-security",
+    "pass": 1
+   },
+   {
+    "quote": "Engage with your employees using just-in-time interventions to actively guide them toward more compliant AI and SaaS decision making wherever they are: the browser, Slack, Teams or email.",
+    "url": "https://www.nudgesecurity.com/comparison/nudge-security-vs-ai-security",
+    "pass": 1
+   },
+   {
+    "quote": "Considering an enterprise browser or extension-based security solution? Learn how Nudge Security delivers browser-based security as part of the industry’s most comprehensive approach to SaaS security and governance.",
+    "url": "https://www.nudgesecurity.com/comparison/nudge-security-vs-browser-centric-security",
+    "pass": 1
+   },
+   {
+    "quote": "Solutions that rely only on a browser extension lack critical components of SaaS security like surfacing former employees with lingering access, admin account sprawl, configuration drift for business critical apps, and more.",
+    "url": "https://www.nudgesecurity.com/comparison/nudge-security-vs-browser-centric-security",
+    "pass": 1
+   },
+   {
+    "quote": "Frustrate and slow down employees.",
+    "url": "https://www.nudgesecurity.com/comparison/nudge-security-vs-browser-centric-security",
+    "pass": 1
+   },
+   {
+    "quote": "Most browser-centric solutions simply block employee actions and access, making it more likely that employees will pursue shadowy workarounds, instead of providing nuanced guardrails when and where it matters.",
+    "url": "https://www.nudgesecurity.com/comparison/nudge-security-vs-browser-centric-security",
+    "pass": 1
+   },
+   {
+    "quote": "When employees come up against these methods, they’ll find workarounds",
+    "url": "https://www.nudgesecurity.com/comparison/nudge-security-vs-browser-centric-security",
+    "pass": 1
+   },
+   {
+    "quote": "Rather than taking a narrow approach to SaaS visibility and an aggressive approach to enforcement, organizations should adopt a layered approach to SaaS security that fits in seamlessly to existing workflows and meets employees where they work to guide them toward safe security decisions.",
+    "url": "https://www.nudgesecurity.com/comparison/nudge-security-vs-browser-centric-security",
+    "pass": 1
+   },
+   {
+    "quote": "Reach employees where they work.",
+    "url": "https://www.nudgesecurity.com/comparison/nudge-security-vs-browser-centric-security",
+    "pass": 1
+   },
+   {
+    "quote": "Engage with your employees using just-in-time interventions to actively guide them toward more compliant SaaS decision making wherever they are: the browser, Slack, Teams, or email.",
+    "url": "https://www.nudgesecurity.com/comparison/nudge-security-vs-browser-centric-security",
+    "pass": 1
+   },
+   {
+    "quote": "How Drata governs AI and SaaS sprawl for 700+ employees with Nudge Security",
+    "url": "https://www.nudgesecurity.com/case-study/drata",
+    "pass": 1
+   },
+   {
+    "quote": "How Drata governs AI and SaaS sprawl for 700+ employees with a 5-person IT team",
+    "url": "https://www.nudgesecurity.com/case-study/drata",
+    "pass": 1
+   },
+   {
+    "quote": "Drata swapped manual shadow IT investigations for automated discovery and employee nudges, uncovering 20% more apps and getting a 60–70% response rate from employees along the way.",
+    "url": "https://www.nudgesecurity.com/case-study/drata",
+    "pass": 1
+   },
+   {
+    "quote": "\"We built automations to help scale our processes as we went from around 200 employees to over 700. That's how we were able to keep a very lean IT headcount-to-employee ratio for the company.\"",
+    "url": "https://www.nudgesecurity.com/case-study/drata",
+    "pass": 1
+   },
+   {
+    "quote": "In just a few years, Drata has grown to more than 700 employees, all while its IT team has held steady as a team of five. As adoption of SaaS and AI tools became more decentralized across the company, their team needed a way to keep pace with employees signing up for new tools on their own, without slowing the business down or ballooning their headcount.",
+    "url": "https://www.nudgesecurity.com/case-study/drata",
+    "pass": 1
+   },
+   {
+    "quote": "The IT team wanted a platform that was easy to use for both IT and for the end users being asked questions about the tools they were using. Nudge Security's ability to automatically reach out to employees, rather than requiring the IT team to track people down manually, is one of the first things that stood out.",
+    "url": "https://www.nudgesecurity.com/case-study/drata",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "“Some of these people don’t respond to emails or tickets, but they responded to the damn nudge! It just works.”",
+    "url": "https://www.nudgesecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We connect to your Microsoft 365 or Google Workspace email with read-only API access, then analyze email metadata to detect SaaS and AI account creation, logins, and usage patterns. That approach surfaces apps regardless of network, device, or location, closing the gap where",
+    "url": "https://www.nudgesecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "No. Setup is a single, read-only integration with your existing email provider. There's no need for network proxies, endpoint agents, or changes to how your employees already work, so you get visibility without the rollout friction that usually comes with a new tool.",
+    "url": "https://www.nudgesecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "You'll see your SaaS and AI application inventory begin populating within minutes of connecting your email provider, and we can also surface up to two years of historical SaaS activity already in your email archive. That means your first useful inventory is available on Day One.",
+    "url": "https://www.nudgesecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Is it safe to give Nudge Security access to our email?",
+    "url": "https://www.nudgesecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Our email connection is read-only, so we can never send, delete, or modify anything in your inbox. We analyze account and activity signals, not the content of your emails, to build your SaaS and AI application inventory.",
+    "url": "https://www.nudgesecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Nudge Security automatically discovers and inventories up to two years of SaaS spend data from invoices found in email, including PDF attachments. KarmaCheck’s IT department quickly teamed up with colleagues in Finance to look for opportunities to",
+    "url": "https://www.nudgesecurity.com/case-study/karmacheck",
+    "pass": 1
+   },
+   {
+    "quote": "“The security posture findings call out important risk factors, whether that means a group email account signing up for services or specific users that have the highest risk accounts. Nudge helps show us where to focus our remediation efforts.”",
+    "url": "https://www.nudgesecurity.com/case-study/karmacheck",
+    "pass": 1
+   },
+   {
+    "quote": "Engage the right stakeholders at the right time over email, Slack, Teams, and the browser, automatically prompting them with simple security tasks and guardrails for safe, compliant SaaS use.",
+    "url": "https://www.nudgesecurity.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Customize email, Slack, or Teams notifications, automate nudges, and send events to other security analytics tools with our powerful, flexible rules engine.",
+    "url": "https://www.nudgesecurity.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Sign up for product updates, resources, and news. We promise we'll never send you spam. Or boring emails. Ever.",
+    "url": "https://www.nudgesecurity.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Nudge Security delivers workforce AI security and governance as part of a complete SaaS security solution. Our unrivaled discovery methods uncover shadow AI use through email analysis, connected apps, and a browser extension, giving you a historical and continuous inventory of AI tools, users, activities, and integrations.",
+    "url": "https://www.nudgesecurity.com/comparison/nudge-security-vs-ai-security",
+    "pass": 1
+   },
+   {
+    "quote": "Nudge Security uses our patented email-based",
+    "url": "https://www.nudgesecurity.com/comparison/nudge-security-vs-ai-security",
+    "pass": 1
+   },
+   {
+    "quote": "Nudge Security gives you visibility into which AI tools have programmatic access to your sensitive SaaS data—like source code, email, and files—and detects when that data is exposed through risky file uploads in prompts. Security teams can also evaluate new apps, revoke risky integrations, and uncover which SaaS tools embed third-party AI with full AI supply chain visibility.",
+    "url": "https://www.nudgesecurity.com/comparison/nudge-security-vs-ai-security",
+    "pass": 1
+   },
+   {
+    "quote": "Nudge Security engages SaaS and AI owners—and users—directly in Slack, Teams, email, and in the browser. With customizable nudges, organizations can guide behavior, educate employees, and assign tasks in the flow of work, driving secure adoption and resolution without blocking productivity.",
+    "url": "https://www.nudgesecurity.com/comparison/nudge-security-vs-ai-security",
+    "pass": 1
+   },
+   {
+    "quote": "Nudge Security discovers your entire existing SaaS estate (including all AI apps!) within minutes through email discovery and continuously builds and enriches it through real-time browser-based user data and additional SaaS discovery methods.",
+    "url": "https://www.nudgesecurity.com/comparison/nudge-security-vs-ai-security",
+    "pass": 1
+   },
+   {
+    "quote": "Engage with your employees using just-in-time interventions to actively guide them toward more compliant AI and SaaS decision making wherever they are: the browser, Slack, Teams or email.",
+    "url": "https://www.nudgesecurity.com/comparison/nudge-security-vs-ai-security",
+    "pass": 1
+   },
+   {
+    "quote": "Our multi-layered approach to SaaS discovery and monitoring delivers both historical and real-time visibility into SaaS and GenAI activities through email analysis, direct API integrations with SSO and SaaS providers, and a lightweight browser extension.",
+    "url": "https://www.nudgesecurity.com/comparison/nudge-security-vs-browser-centric-security",
+    "pass": 1
+   },
+   {
+    "quote": "Automated nudges engage your workforce and app owners where work happens: in the browser, on Slack, or email, providing just-in-time guardrails for safe, compliant SaaS use.",
+    "url": "https://www.nudgesecurity.com/comparison/nudge-security-vs-browser-centric-security",
+    "pass": 1
+   },
+   {
+    "quote": "Don't wait for data to start coming in. Nudge Security uses an email-based discovery approach which provides a full, continuously updated inventory of every SaaS app and account within minutes of starting a free trial.",
+    "url": "https://www.nudgesecurity.com/comparison/nudge-security-vs-browser-centric-security",
+    "pass": 1
+   },
+   {
+    "quote": "Nudge Security combines email discovery, browser activity, and API connections to deliver complete SaaS visibility across your entire estate, uncovering shadow SaaS, risks, misconfigurations, and data exposure.",
+    "url": "https://www.nudgesecurity.com/comparison/nudge-security-vs-browser-centric-security",
+    "pass": 1
+   },
+   {
+    "quote": "Our modern, human-centric approach engages SaaS owners and users where work happens (Slack, browser, or email) using just-in-time guardrails that guide employee behavior without impacting workflows.",
+    "url": "https://www.nudgesecurity.com/comparison/nudge-security-vs-browser-centric-security",
+    "pass": 1
+   },
+   {
+    "quote": "Nudge Security discovers your entire existing SaaS estate within minutes through email discovery and continuously builds and enriches it through real-time browser-based user data and additional SaaS discovery methods.",
+    "url": "https://www.nudgesecurity.com/comparison/nudge-security-vs-browser-centric-security",
+    "pass": 1
+   },
+   {
+    "quote": "Addressing SaaS security through the relevant vantage points of email inboxes, API connections, and browser extensions builds a stronger SaaS inventory. We’ll enhance this with proprietary intelligence and insights to surface high priority areas of risk and policy infractions.",
+    "url": "https://www.nudgesecurity.com/comparison/nudge-security-vs-browser-centric-security",
+    "pass": 1
+   },
+   {
+    "quote": "Engage with your employees using just-in-time interventions to actively guide them toward more compliant SaaS decision making wherever they are: the browser, Slack, Teams, or email.",
+    "url": "https://www.nudgesecurity.com/comparison/nudge-security-vs-browser-centric-security",
+    "pass": 1
+   },
+   {
+    "quote": "Sign up for product updates, resources, and news. We promise we'll never send you spam. Or boring emails. Ever.",
+    "url": "https://www.nudgesecurity.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "- [Contact Us](https://www.nudgesecurity.com/contact/contact-us): Reach out to the team.",
+    "url": "https://www.nudgesecurity.com/llms.txt",
+    "pass": 1
+   },
+   {
+    "quote": "That response rate turned governance into a two-way conversation instead of a one-sided chase, no more manual follow-up emails or Slack DMs from Drata's IT team just to get a straight answer.",
+    "url": "https://www.nudgesecurity.com/case-study/drata",
+    "pass": 1
+   },
+   {
+    "quote": "“Every day is a threat to our organization. Every day we get hundreds of hate emails,” Leo explains. “My role is to make sure that my staff is protected so they can go save the world.”",
+    "url": "https://www.nudgesecurity.com/case-study/glaad",
+    "pass": 1
+   },
+   {
+    "quote": "Nudge Security alerts Leo to new SaaS adoption automatically, saving him hours of manual effort. “I'll get an email or a Slack from Nudge saying a new app has been detected and it's almost instant. I tested it. I actually did an OAuth login to a new service to test the speed at which Nudge can detect that. It was within five minutes. That’s excellent.”",
+    "url": "https://www.nudgesecurity.com/case-study/glaad",
+    "pass": 1
+   },
+   {
+    "quote": "“I was spending at least four to five hours a day just to make sure I knew what was connected. But I was still missing things,” Leo says. “Now I spend zero time on that. I just rely on Nudge now. I don't have to worry about new apps. I don't feel like I have to check manually anymore because I can rely on Nudge to give me that instant Slack message or email.”",
+    "url": "https://www.nudgesecurity.com/case-study/glaad",
+    "pass": 1
+   },
+   {
+    "quote": "“Nudge Security exposes potential attack vectors and anomalies that could have been ignored so that we can act on them. It could be a finding or something reflected in an email that Nudge captures,” the former IT systems engineering team lead explained.",
+    "url": "https://www.nudgesecurity.com/case-study/high-growth-ai-company",
+    "pass": 1
+   },
+   {
+    "quote": "Get started with a single point of integration: read-only API access with your Microsoft 365 or Google Workspace email provider. No network proxies, endpoint agents, or behavior changes required.",
+    "url": "https://www.nudgesecurity.com/features/saas-discovery",
+    "pass": 1
+   },
+   {
+    "quote": "Email analysis powered by machine learning",
+    "url": "https://www.nudgesecurity.com/features/saas-discovery",
+    "pass": 1
+   },
+   {
+    "quote": "Do ex-employees still have SaaS access? Do forgotten cloud accounts pose a risk? Nudge Security analyzes previous cloud and SaaS assets all the way back to the start of your email archive.",
+    "url": "https://www.nudgesecurity.com/features/saas-discovery",
+    "pass": 1
+   },
+   {
+    "quote": "In today’s common remote/hybrid work model, many employees adopt SaaS on personal devices, outside VPNs, or via free trials—making traditional network-based discovery (traffic logs, proxies) unreliable. Nudge’s email-based discovery approach works irrespective of network location or device, enabling “last-mile” visibility across distributed teams and remote workers.",
+    "url": "https://www.nudgesecurity.com/features/saas-discovery",
+    "pass": 1
+   },
+   {
+    "quote": "Nudge Security takes advantage of a simple, yet consistent design pattern of every modern SaaS provider: the use of email to drive user engagement. When you first sign up for an account or free trial, you receive a welcome email. When you reset a password, email. Enable MFA, email. A security incident, email.",
+    "url": "https://www.nudgesecurity.com//post/unique-saas-applications-discovered-for-our-customers",
+    "pass": 1
+   },
+   {
+    "quote": "While there are many ways to uncover shadow IT (and a few wrong ways), starting from the corporate email environment is a highly effective SaaS discovery method as it provides a number of advantages over other SaaS discovery methods:",
+    "url": "https://www.nudgesecurity.com//post/unique-saas-applications-discovered-for-our-customers",
+    "pass": 1
+   },
+   {
+    "quote": "record of historical SaaS adoption and use, which in turn means thousands of apps and accounts would remain invisible. In contrast, we know that email is retained for long periods, which allows us to analyze an organization’s historical and present SaaS footprint as far back as their email is archived. In one case, we found SaaS activity dating all the way back to",
+    "url": "https://www.nudgesecurity.com//post/unique-saas-applications-discovered-for-our-customers",
+    "pass": 1
+   },
+   {
+    "quote": "Our proprietary machine-learning algorithms use email pattern recognition to discover totally new and unknown SaaS applications (",
+    "url": "https://www.nudgesecurity.com//post/unique-saas-applications-discovered-for-our-customers",
+    "pass": 1
+   },
+   {
+    "quote": "Nudge Security takes advantage of a simple, yet consistent design pattern of every modern SaaS provider: the use of email to drive user engagement. When you first sign up for an account or free trial, you receive a welcome email. When you reset a password, email. Enable MFA, email. A security incident, email.",
+    "url": "https://www.nudgesecurity.com/post/unique-saas-applications-discovered-for-our-customers",
+    "pass": 1
+   },
+   {
+    "quote": "While there are many ways to uncover shadow IT (and a few wrong ways), starting from the corporate email environment is a highly effective SaaS discovery method as it provides a number of advantages over other SaaS discovery methods:",
+    "url": "https://www.nudgesecurity.com/post/unique-saas-applications-discovered-for-our-customers",
+    "pass": 1
+   },
+   {
+    "quote": "record of historical SaaS adoption and use, which in turn means thousands of apps and accounts would remain invisible. In contrast, we know that email is retained for long periods, which allows us to analyze an organization’s historical and present SaaS footprint as far back as their email is archived. In one case, we found SaaS activity dating all the way back to",
+    "url": "https://www.nudgesecurity.com/post/unique-saas-applications-discovered-for-our-customers",
+    "pass": 1
+   },
+   {
+    "quote": "Our proprietary machine-learning algorithms use email pattern recognition to discover totally new and unknown SaaS applications (",
+    "url": "https://www.nudgesecurity.com/post/unique-saas-applications-discovered-for-our-customers",
+    "pass": 1
+   },
+   {
+    "quote": "Briefly, here’s how cloud and SaaS asset discovery works in Nudge Security. We hook into an organization’s corporate email account (Microsoft 365 or Google Workspace) and use read-only API access to look for evidence of SaaS activity. Primarily, we search for machine-generated emails (think from:",
+    "url": "https://www.nudgesecurity.com/post/the-one-thing-nudge-security-doesnt-do",
+    "pass": 1
+   },
+   {
+    "quote": "Here’s the question I’m often asked first when demoing the product to security folks: “So, what if an employee uses a personal email address to create a SaaS account?”",
+    "url": "https://www.nudgesecurity.com/post/the-one-thing-nudge-security-doesnt-do",
+    "pass": 1
+   },
+   {
+    "quote": "provide evidence of a shadow root user whenever the user starts to invite other colleagues to collaborate in the application. (That is, unless you have a ring of employees trying to keep their work covert by sharing personal email addresses. That’s a different problem.)",
+    "url": "https://www.nudgesecurity.com/post/the-one-thing-nudge-security-doesnt-do",
+    "pass": 1
+   },
+   {
+    "quote": "Registering an account? Let me confirm your email address.",
+    "url": "https://www.nudgesecurity.com/post/the-best-solution-for-discovering-saas-sprawl",
+    "pass": 1
+   },
+   {
+    "quote": "Resetting your password? Let me email you just to make sure.",
+    "url": "https://www.nudgesecurity.com/post/the-best-solution-for-discovering-saas-sprawl",
+    "pass": 1
+   },
+   {
+    "quote": "Turning on two-factor authentication? Email confirmation!",
+    "url": "https://www.nudgesecurity.com/post/the-best-solution-for-discovering-saas-sprawl",
+    "pass": 1
+   },
+   {
+    "quote": "Inviting someone to a project? Sure thing! What’s their email?",
+    "url": "https://www.nudgesecurity.com/post/the-best-solution-for-discovering-saas-sprawl",
+    "pass": 1
+   },
+   {
+    "quote": "The other beautiful thing about email is that it sticks around forever. (Ever heard excerpts from a deposition?)",
+    "url": "https://www.nudgesecurity.com/post/the-best-solution-for-discovering-saas-sprawl",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/nudge-security/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/nudge-security/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/nudge-security",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/nudge-security",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/nudge-security-revenue",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "- [Become a Partner](https://www.nudgesecurity.com/contact/become-a-partner): MSP/MSSP partnership inquiry page.",
+    "url": "https://www.nudgesecurity.com/llms.txt",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "SaaS & AI Security Platform | SSPM Solution | Nudge Security — Discover every SaaS and AI asset, harden security posture, and scale identity governance. Start a free trial to regain control today.",
+    "url": "https://www.nudgesecurity.com/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員主導のSaaS利用に革新を！Nudge Securityがセキュリティとガバ... — Jan 24, 2024 · SaaSセキュリティとガバナンスを革新するNudge Securityは、従業員と協力し、ITセキュリティを強化。簡単な設定で全SaaSアカウントを発見し、MFAやSSOの管理を自動化。無料トライアルで組織のセキュリティを向上させましょう。",
+    "url": "https://innovatopia.jp/cloud/cloud-news/8324/",
+    "pass": 3
+   },
+   {
+    "quote": "Nudge Security：SaaS管理の革新 – コスト削減とセキュリティ強化の両... — SaaS管理ツール「Nudge Security」が、企業のSaaS利用における課題解決に貢献しています。シャドーITの発見、コスト最適化、セキュリティ強化を同時に実現し、AI時代のSaaS管理の新たな選択肢として注目を集めています。従業員の生産性を損なわずにSaaS支出とリスクを削減する方法を提案しています。",
+    "url": "https://innovatopia.jp/cloud/cloud-news/40235/",
+    "pass": 3
+   },
+   {
+    "quote": "Nudge Security — Nudge Security helps modern organizations manage SaaS security and governance at scale. Its patented approach to SaaS discovery provides a continuous inventory of SaaS assets starting from Day One without any reliance on network or endpoint monitoring systems. Insights surface high-priority areas of risk and opportunities to optimize SaaS spend. With a human-centric approach to au",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/saas/wa200009028",
+    "pass": 3
+   },
+   {
+    "quote": "Nudge Security (u/NudgeSecurity) - Reddit — Nudge Security now discovers multiple app instances and shadow tenants, addressing a sprawling challenge for SaaS security and risk leaders. Choose your favorite sci-fi saga set in the multiverse: The Matrix, Into the Spider-Verse, Everything Everywhere All at Once, Loki, any recent Marvel film. They all share a common plot device: our hero peers behind ",
+    "url": "https://www.reddit.com/user/NudgeSecurity/",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS & AI Security Management Platform | Nudge Security — SaaS operations management for modern organizations. Discover unmanaged apps and accounts and automate core IT governance and operations workflows.",
+    "url": "https://www.nudgesecurity.com/product",
+    "pass": 3
+   },
+   {
+    "quote": "Nudge Security | LinkedIn — Nudge Security | LinkedInのフォロワー数8,089人。SaaS and AI security governance for modern teams. | Nudge Security delivers SaaS and AI security governance at the Workforce Edge—where employees make thousands of technology decisions daily. Our automated, policy-driven guardrails reach employees when and where they work, enabling rapid technology adoption while minimizing risk an",
+    "url": "https://jp.linkedin.com/company/nudge-security",
+    "pass": 3
+   },
+   {
+    "quote": "Nudge Security — Nudge Security helps modern organizations manage SaaS security and governance at scale. Its patented approach to SaaS discovery provides a continuous inventory of SaaS assets starting from Day One without any reliance on network or endpoint monitoring systems.",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/office/wa200009028?tab=overview",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS Security Customer Stories - Nudge Security — Modern SaaS security for modern teams Nudge Security pairs complete and continuous SaaS visibility with powerful governance tools for ambitious security teams everywhere. Read our customer stories to learn how security teams have used Nudge Security to deliver measurable results.",
+    "url": "https://www.nudgesecurity.com/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies Featuring Nudge Security as the Customer — Explore case studies featuring Nudge Security as the customer — learn how vendors and partners helped Nudge Security solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/nudge-security",
+    "pass": 3
+   },
+   {
+    "quote": "2 Nudge Security Case Studies, Success Stories, & Customer ... — Nudge Security has a 4.8/5 star rating. Learn what their customers think, get 2 free case studies and more.",
+    "url": "https://www.featuredcustomers.com/vendor/nudge-security/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "33 Nudge Security Customer Reviews & References — Learn more about Nudge Security - use cases, approaches, & end results from real customers; read customer reviews including 33 testimonials, videos, and case studies.",
+    "url": "https://www.featuredcustomers.com/vendor/nudge-security",
+    "pass": 3
+   },
+   {
+    "quote": "GLAAD's customer case study on Nudge Security - LinkedIn — Our latest customer case study highlights how GLAAD eliminates 1000+ hours of manual work each year in protecting critical SaaS identities and data with Nudge Security. Many thanks to the team at ...",
+    "url": "https://www.linkedin.com/posts/nudge-security_our-latest-customer-case-study-highlights-activity-7241912644297728000-KRzS",
+    "pass": 3
+   },
+   {
+    "quote": "Nudge Security Revenue, Funding & Valuation - prospeo.io — Nudge Security has revenue of $700,000, estimated valuation of $2,300,000, $16,500,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/nudge-security-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Nudge Security - 2026 Company Profile, Funding | The Company ... — Oct 15, 2026 · About Nudge Security Nudge Security is a Technology company based in Austin (United States) founded in 2021. Cyber security management services are provided to organizations. Nudge Security has raised $39 million across 3 funding rounds from investors including Forgepoint Capital, Ballistic Ventures and Cerberus Vent",
+    "url": "https://www.thecompanycheck.com/company/b/nudge-security/lwlkq58eqh4s4zpw5",
+    "pass": 3
+   },
+   {
+    "quote": "Nudge Security 2026 Company Profile: Valuation, Funding ...Nudge Security - 2026 Company Profile, Team, Funding ... - TracxnNudge Security – Company Insights & Financial Strength – 2026nudge security — Funding, Team & Competitive Intelligence ...Nudge Security Revenue 2025: $5.1M Est. - getlatka.com — Information on valuation, funding, cap tables, investors, and executives for Nudge Security. Use ",
+    "url": "https://pitchbook.com/profiles/company/494650-54",
+    "pass": 3
+   },
+   {
+    "quote": "Nudge Security - 2026 Company Profile, Team, Funding ... - Tracxn — Feb 14, 2026 · Nudge Security is a series A company based in Austin (United States), founded in 2021 by Russell Spitler and Jaime Blasco. It operates as a Provider of cyber security management services. Nudge Security has raised $39M in funding from Ballistic Ventures and Cerberus Ventures. The company has 161 active competitors, ",
+    "url": "https://tracxn.com/d/companies/nudgesecurity/__vqydUkVA2p0zDbydMS6yaQHag9MmyrnMT6MLrko6HgE",
+    "pass": 3
+   },
+   {
+    "quote": "nudge security — Funding, Team & Competitive Intelligence ... — Jul 11, 2026 · At a glance nudge security is a cybersecurity company specializing in Attack Surface, founded in 2022 and headquartered in Austin, United States. It has raised $55.5M in total funding, employs about 46 people, and is privately held.",
+    "url": "https://mandos.io/data/companies/nudge-security",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "\"#nudgesecurity\" - Results on X | Live Posts & Updates Results for \"#nudgesecurity\" on X (Twitter). Find the latest posts, discussions, and updates about #nudgesecurity. 4 results found.",
+    "url": "https://x.com/hashtag/nudgesecurity",
+    "pass": 3
+   },
+   {
+    "quote": "We're hiring at @NudgeSecurity! Looking for two roles: ... Jaime Blasco (@jaimeblascob). 120 likes 6 replies. We're hiring at @NudgeSecurity! Looking for two roles: 🔐 Senior Security Engineer — build and protect our platform end-to-end 🔍 Security Researcher (SaaS & AI) — hunt emerging threats, publish original research, present at conferences Fully remote, Link in the comments 👇",
+    "url": "https://x.com/i/status/2024612535161270528",
+    "pass": 3
+   },
+   {
+    "quote": "Nudge Security on X: \"Your team approved that SaaS app 6 ... Your team approved that SaaS app 6 months ago. Since then: new integrations, new users, an AI agent, and data nobody signed off on. Risk doesn't stop at approval. Most programs stop watching right there. Today, we're launching Adaptive Risk Management: Adaptive Risk Management for SaaS and AI | Nudge Security From nudgesecurity.com 3:48 ",
+    "url": "https://x.com/nudge_security/status/2105323891262460182",
+    "pass": 3
+   },
+   {
+    "quote": "Nudge Security on X: \"TPRM didn't break because of AI. It was ... TPRM didn't break because of AI. It was already broken. We assessed vendors, never usage. We screened on scores that measured their marketing site, not your data. We triaged and hoped. The score is about them. Your exposure is about what you gave them. Why third-party risk management is broken | Nudge Security From nudgesecurity.com",
+    "url": "https://x.com/nudge_security/status/2107863875399905285",
+    "pass": 3
+   },
+   {
+    "quote": "Nudge Security (@nudge_security) / X Nudge Security helps modern organizations achieve effective SaaS security and governance at scale.",
+    "url": "https://x.com/nudge_security",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Nudge Security | Las Vegas NV - Facebook May 1, 2023 · Nudge Security, Las Vegas, Nevada. Software Company Details Page · Software Company nudgesecurity.com Not yet rated (0 Reviews) Nudge Security updated their profile",
+    "url": "https://www.facebook.com/100091901247820/",
+    "pass": 3
+   },
+   {
+    "quote": "CIO Influence - Nudge Security Automates Employee... - Facebook Nudge Security Automates Employee Offboarding, Eliminating 90% Of Manual IT Effort Nudge Security revealed that 70% of organizations have experienced the impacts of incomplete employee offboarding",
+    "url": "https://www.facebook.com/100064956254506/posts/nudge-security-automates-employee-offboarding-eliminating-90-of-manual-it-effort/647356120772924/",
+    "pass": 3
+   },
+   {
+    "quote": "Cyrcomms - The hidden dangers of #ChatGPT’s integrations ... Jan 18, 2025 · The hidden dangers of #ChatGPT’s integrations with#GoogleDrive and #MicrosoftOneDrive NUDGESECURITY.COM The risks of integrating ChatGPT with Google Drive and Microsoft OneDrive",
+    "url": "https://www.facebook.com/61556946244559/posts/the-hidden-dangers-of-chatgpts-integrations-with-googledrive-and-microsoftonedri/122200489106231541/",
+    "pass": 3
+   },
+   {
+    "quote": "Nudge, Inc. - FacebookChris Murphy - Nudge Security Secures $22.5M in Series A ...fodudbndjdndn on Reels - Facebook Jun 20, 2016 · Nudge, Inc. 5,160 likes. Nudge's mission is to help you search, explore and share inspirational activities and adventures www.nudgemobileapp.com Nudge Security Secures $22.5M in Series A Funding to Enhance AI and SaaS Security for Workforces Video Transcript You went i",
+    "url": "https://www.facebook.com/NudgeMobileApp/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Russell Spitler - Co-Founder, Chief Executive Officer at ...Russell Spitler, CEO & Co-Founder of Nudge Security: $17 ...Russell Spitler - Co-Founder and CEO, Nudge SecurityAbout Us | Nudge Security - Human-Centric CybersecurityRussell Spitler | Co-Founder, Chief Executive Officer - Nudge ...Russell Spitler - Co-Founder and Chief Executive Officer ... Co-Founder, Chief Executive Officer at Nudge Se",
+    "url": "https://www.linkedin.com/in/russell-spitler",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.nudgesecurity.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nudgesecurity.com/love-for-nudge",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nudgesecurity.com/case-study/karmacheck",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nudgesecurity.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nudgesecurity.com/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nudgesecurity.com/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nudgesecurity.com/comparison/nudge-security-vs-ai-security",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nudgesecurity.com/comparison/nudge-security-vs-browser-centric-security",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nudgesecurity.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nudgesecurity.com/llms.txt",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nudgesecurity.com/case-study/drata",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nudgesecurity.com/case-study/glaad",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nudgesecurity.com/case-study/high-growth-ai-company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nudgesecurity.com/features/saas-discovery",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nudgesecurity.com/features/nudge-ai-agents",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nudgesecurity.com//post/unique-saas-applications-discovered-for-our-customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nudgesecurity.com/case-study/wallace-plese-dreher",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nudgesecurity.com/post/unique-saas-applications-discovered-for-our-customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nudgesecurity.com/post/the-one-thing-nudge-security-doesnt-do",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nudgesecurity.com/post/the-best-solution-for-discovering-saas-sprawl",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://innovatopia.jp/cloud/cloud-news/8324/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://innovatopia.jp/cloud/cloud-news/40235/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketplace.microsoft.com/ja-jp/product/wa200009028",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/user/NudgeSecurity/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/nudge-security",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://innovatopia.jp/cloud/cloud-news/8324/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/nudge-security",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/nudge-security/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/nudge-security",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prospeo.io/c/nudge-security-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/nudge-security/lwlkq58eqh4s4zpw5",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/494650-54",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/nudgesecurity/__vqydUkVA2p0zDbydMS6yaQHag9MmyrnMT6MLrko6HgE",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/nudgesecurity",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/i/status/2024612535161270528",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/nudge_security/status/2105323891262460182",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/nudge_security/status/2107863875399905285",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/100091901247820/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/100064956254506/posts/nudge-security-automates-employee-offboarding-eliminating-90-of-manual-it-effort/647356120772924/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61556946244559/posts/the-hidden-dangers-of-chatgpts-integrations-with-googledrive-and-microsoftonedri/122200489106231541/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/NudgeMobileApp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/russell-spitler",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/nudgesecurity",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/i/status/2024612535161270528",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/nudge_security",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Nudgesecurity 日本 導入",
+   "results": [
+    "https://www.nudgesecurity.com/",
+    "https://innovatopia.jp/cloud/cloud-news/8324/",
+    "https://innovatopia.jp/cloud/cloud-news/40235/",
+    "https://marketplace.microsoft.com/ja-jp/product/saas/wa200009028",
+    "https://www.itmedia.co.jp/news/article/2606/15/1260615087/",
+    "https://execbrief.net/news/article-0e786c5d8c12c6ea0cf2/",
+    "https://www.nudgesecurity.com/product"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Nudgesecurity 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.reddit.com/user/NudgeSecurity/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://j-dma.org/trouble",
+    "https://www.u-blox.com/en/about-us/sales-network-offices/japan-2",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Nudgesecurity Japan",
+   "results": [
+    "https://www.nudgesecurity.com/",
+    "https://www.nudgesecurity.com/product",
+    "https://jp.linkedin.com/company/nudge-security",
+    "https://innovatopia.jp/cloud/cloud-news/8324/",
+    "https://marketplace.microsoft.com/ja-jp/product/office/wa200009028?tab=overview",
+    "https://marketplace.microsoft.com/ja-jp/product/wa200009028",
+    "https://trust.nudgesecurity.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Nudgesecurity manufacturing customer case study",
+   "results": [
+    "https://www.nudgesecurity.com/customer-stories",
+    "https://www.casestudies.com/customer/nudge-security",
+    "https://www.featuredcustomers.com/vendor/nudge-security/case-studies",
+    "https://www.featuredcustomers.com/vendor/nudge-security",
+    "https://www.linkedin.com/posts/nudge-security_our-latest-customer-case-study-highlights-activity-7241912644297728000-KRzS",
+    "https://www.casestudies.com/company/nudge-security",
+    "https://www.nudgesecurity.com/case-study/karmacheck"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Nudgesecurity white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://reseller.amazon.com/",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Nudgesecurity founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/nudge-security-revenue",
+    "https://www.thecompanycheck.com/company/b/nudge-security/lwlkq58eqh4s4zpw5",
+    "https://pitchbook.com/profiles/company/494650-54",
+    "https://tracxn.com/d/companies/nudgesecurity/__vqydUkVA2p0zDbydMS6yaQHag9MmyrnMT6MLrko6HgE",
+    "https://mandos.io/data/companies/nudge-security",
+    "https://getlatka.com/companies/nudgesecurity.com",
+    "https://compworth.com/company/nudge-security"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Nudgesecurity",
+   "results": [
+    "https://note.com/wnudge_official/n/nc42198f427d1?hl=en",
+    "https://note.com/nudge/n/n429f0c6a6a3d?hl=en",
+    "https://note.com/nudge/n/n49a6446b78b4?hl=en",
+    "https://note.com/gpsnmeajp/n/naa666a683cda",
+    "https://note.com/norito_hiraoka/n/n45061d72954f?hl=en",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/hatsumuradesu/n/n6c669815ff19"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Nudgesecurity",
+   "results": [
+    "https://x.com/hashtag/nudgesecurity",
+    "https://x.com/i/status/2024612535161270528",
+    "https://x.com/nudge_security/status/2105323891262460182",
+    "https://x.com/nudge_security/status/2107863875399905285",
+    "https://x.com/nudge_security",
+    "https://x.com/nudge_security/status/2118390509211152415",
+    "https://x.com/nudge_security/status/2077506475862175772"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Nudgesecurity",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com Nudgesecurity",
+   "results": [
+    "https://www.facebook.com/100091901247820/",
+    "https://www.facebook.com/100064956254506/posts/nudge-security-automates-employee-offboarding-eliminating-90-of-manual-it-effort/647356120772924/",
+    "https://www.facebook.com/61556946244559/posts/the-hidden-dangers-of-chatgpts-integrations-with-googledrive-and-microsoftonedri/122200489106231541/",
+    "https://www.facebook.com/NudgeMobileApp/",
+    "https://www.facebook.com/thehackernews/videos/-nudge-security-just-added-ai-agent-discovery-to-their-platform-for-saas-and-ai-/1031112880085180/",
+    "https://www.facebook.com/61595223134257/videos/1668308137981430/",
+    "https://www.facebook.com/cemmurphy/posts/nudge-security-secures-225m-in-series-a-funding-to-enhance-ai-and-saas-security-/10235932818433790/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Nudgesecurity note 社長",
+   "results": [
+    "https://www.nudgesecurity.com/authors/russell-spitler",
+    "https://www.linkedin.com/in/russell-spitler",
+    "https://www.frontlines.io/podcasts/russell-spitler/",
+    "https://yespress.io/russell-spitler",
+    "https://www.nudgesecurity.com/about-us",
+    "https://councils.forbes.com/profile/Russell-Spitler-Co-Founder-Chief-Executive-Officer-Nudge-Security/4e9d6047-7b7d-4931-9ae5-f945bbc9d2e2",
+    "https://www.crunchbase.com/person/russell-spitler-a60d"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Nudgesecurity X 投稿",
+   "results": [
+    "https://x.com/hashtag/nudgesecurity",
+    "https://x.com/i/status/2024612535161270528",
+    "https://www.reddit.com/user/NudgeSecurity/submitted/",
+    "https://x.com/nudge_security",
+    "https://x.com/nudge_security/status/2118390509211152415",
+    "https://x.com/nudge",
+    "https://www.nudgesecurity.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部32頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部32頁・検索12回）"
+ }
+}

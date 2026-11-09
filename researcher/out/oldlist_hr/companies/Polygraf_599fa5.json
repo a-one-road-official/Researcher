@@ -1,0 +1,1109 @@
+{
+ "name": "Polygraf",
+ "aliases": [],
+ "context": "旧営業リスト｜Enterprise AI Security｜状態なし",
+ "researched_at": "2026-11-09T22:22:39.234016+00:00",
+ "official_url": "https://polygraf.ai",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Polygraf AI | Enterprise-Grade AI Security & Zero-Trust Governance",
+    "url": "https://www.polygraf.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Polygraf AI Launches Meeting Guard to Address Growing Threat of AI Fraud in Enterprise Meetings",
+    "url": "https://www.polygraf.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Polygraf AI recognized as a Representative Vendor in the 2026 Gartner® Market Guide for Guardian Agents.",
+    "url": "https://www.polygraf.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Integrate powerful, real-time data protection into your applications with ease.",
+    "url": "https://www.polygraf.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "On-Premises. Real-Time.",
+    "url": "https://www.polygraf.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise AI creates uncontrolled data exposure — Polygraf's AiBC Plane enforces organizational AI policy inline, in real-time, without any data leaving your environment.",
+    "url": "https://www.polygraf.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Your browser does not support the video tag.",
+    "url": "https://www.polygraf.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "- Your AI Privacy Engine.",
+    "url": "https://www.polygraf.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Polygraf’s Secure LLM protects your privacy by automatically removing personal and confidential data before it’s shared with ChatGPT, Claude, or any other external model - then safely restoring it after processing the response.",
+    "url": "https://www.polygraf.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time protection for every LLM call.",
+    "url": "https://www.polygraf.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect your AI systems from malicious inputs, sensitive data leaks, and policy violations.",
+    "url": "https://www.polygraf.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Detects and removes hidden or invisible characters that might be present within the user’s input.",
+    "url": "https://www.polygraf.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Detects and removes or masks Personally Identifiable Information (PII) from user input prompts, safeguarding user privacy.",
+    "url": "https://www.polygraf.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Prevents users from inputting potentially harmful or unintended code into the LLM.",
+    "url": "https://www.polygraf.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Analyzes the emotional tone or sentiment expressed in the user’s input prompt.",
+    "url": "https://www.polygraf.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Prompt Injection Detector",
+    "url": "https://www.polygraf.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Specifically detects and prevents crafty input manipulations that target large language models, known as prompt injection attacks.",
+    "url": "https://www.polygraf.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Ensures that user input prompts do not exceed a predetermined token count.",
+    "url": "https://www.polygraf.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Filters out LLM-generated responses that touch upon specific prohibited subjects.",
+    "url": "https://www.polygraf.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Detects the presence of potentially biased language within the LLM’s generated output.",
+    "url": "https://www.polygraf.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Aims to ensure that the LLM provides a helpful and informative response to the user’s query and does not inappropriately refuse to answer.",
+    "url": "https://www.polygraf.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Detects and flags any offensive, harmful, or abusive language that might be present in the LLM’s generated responses.",
+    "url": "https://www.polygraf.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Checks whether any URLs that are present in the LLM’s generated response are valid and can be successfully accessed.",
+    "url": "https://www.polygraf.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Polygraf AI Secure Printing & Scanning Solution with Epson",
+    "url": "https://www.polygraf.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Polygraf AI, an expert in AI-driven data governance, partnered with Seiko Epson Corporation to build a secure printing and scanning solution that automates data redaction, ensures regulatory compliance, and reduces risks at endpoint devices like printers and scanners enterprise.",
+    "url": "https://www.polygraf.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Partners | Polygraf AI – Partner Ecosystem & Reseller Program",
+    "url": "https://www.polygraf.ai/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Polygraf AI Launches Meeting Guard to Address Growing Threat of AI Fraud in Enterprise Meetings",
+    "url": "https://www.polygraf.ai/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Polygraf AI recognized as a Representative Vendor in the 2026 Gartner® Market Guide for Guardian Agents.",
+    "url": "https://www.polygraf.ai/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Integrate powerful, real-time data protection into your applications with ease.",
+    "url": "https://www.polygraf.ai/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore our programs, find the right fit for your organization and let’s build a safer, more transparent AI and cybersecurity ecosystem together.",
+    "url": "https://www.polygraf.ai/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Ideal for consulting firms, cybersecurity leaders, reviews sites & AI affiliates looking to commercialize content offerings, and help businesses worldwide adopt AI responsibly & securely.",
+    "url": "https://www.polygraf.ai/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "For MSPs MSSPs that deliver managed AI services. Integrate Polygraf’s Secure LLM, Anti-Fraud or Intelligence solutions into your offerings to serve clients faster & more securely. All SI partners are featured on the Polygraf AI Service Provider Marketplace (Coming Q1 2026).",
+    "url": "https://www.polygraf.ai/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "For privacy platforms, fraud detection vendors & security auditors who want to embed Polygraf AI into their solutions. Collaborate to drive shared value, accelerate adoption & gain visibility through the Polygraf AI Marketplace (Coming Q1 2026).",
+    "url": "https://www.polygraf.ai/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Tailored for accelerators, incubators, and VCs helping startups navigate the risks of AI adoption. Equip your portfolio companies with enterprise-grade compliance, privacy & deepfake defense tools at startup-friendly pricing.",
+    "url": "https://www.polygraf.ai/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "We work with industry-leading security providers to keep your business protected.",
+    "url": "https://www.polygraf.ai/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Deployed across Sensitive sectors — solving real problems under real constraints today.",
+    "url": "https://www.polygraf.ai/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "\"We are proud to partner with Polygraf AI on advanced applications for protecting high-profile persons, reputations, and critical resources.\"",
+    "url": "https://www.polygraf.ai/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Polygraf detects complex fraud patterns missed by legacy systems, delivering 98%+ accuracy & real-time visibility into modified & synthetic content across enterprise and government ecosystems.\"",
+    "url": "https://www.polygraf.ai/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Polygraf is the future of government and private sector security. Available today, they can't be overlooked!\"",
+    "url": "https://www.polygraf.ai/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Polygraf has the top tier solution for minimizing data breaches and other cybersecurity risks. They have a priority AI and data governance product that is world class\"",
+    "url": "https://www.polygraf.ai/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Protecting sensitive government data is non-negotiable. Polygraf delivers best-in-class AI-powered security that strengthens digital defenses and builds public trust.\"",
+    "url": "https://www.polygraf.ai/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Join the Polygraf AI Partner Program",
+    "url": "https://www.polygraf.ai/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "IL2-IL6, GDPR, HIPAA, PCI-DSS Compliant, SOC2 Type I & II Certified.",
+    "url": "https://www.polygraf.ai/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "At Polygraf, we envision a future where AI augments human capabilities without compromising safety, privacy, or ethical standards. Trust in our commitment to building this future with you.",
+    "url": "https://www.polygraf.ai/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Onboarding & Training",
+    "url": "https://www.polygraf.ai/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Sales & Marketing Support",
+    "url": "https://www.polygraf.ai/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Customer & Data Protection",
+    "url": "https://www.polygraf.ai/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Polygraf provides four tracks - System Integrator (MSP/MSSP), Certified Referral, Technology Alliance, and Start-up ecosystem - so service providers, consultants, and investors can choose a model that aligns with their needs.",
+    "url": "https://www.polygraf.ai/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. An MSP that also develops proprietary tooling could join as a System Integrator and a Technology Partner with a consulting arm can get certified partner status too.",
+    "url": "https://www.polygraf.ai/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Polygraf carries active SBIR data rights and is pursuing FedRAMP Moderate, allowing partners to sell into federal and SLED accounts. We encourage our partners confirming the opportunities with us where possible as we have other prime relationships that could assist your bidding.",
+    "url": "https://www.polygraf.ai/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Polygraf AI Launches Meeting Guard to Address Growing Threat of AI Fraud in Enterprise Meetings",
+    "url": "https://www.polygraf.ai/case-studies/polygraf-bluebird-ai-humanizer-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Polygraf AI recognized as a Representative Vendor in the 2026 Gartner® Market Guide for Guardian Agents.",
+    "url": "https://www.polygraf.ai/case-studies/polygraf-bluebird-ai-humanizer-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Integrate powerful, real-time data protection into your applications with ease.",
+    "url": "https://www.polygraf.ai/case-studies/polygraf-bluebird-ai-humanizer-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Bluebird Sales integrated Polygraf AI’s Content Humanizer into its outbound sales workflow to improve the performance of AI-assisted email campaigns",
+    "url": "https://www.polygraf.ai/case-studies/polygraf-bluebird-ai-humanizer-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "How AiBC Maps Enterprise AI Usage: Tools, Teams, Data, Risk",
+    "url": "https://www.polygraf.ai/case-studies/polygraf-bluebird-ai-humanizer-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "At Polygraf, we envision a future where AI augments human capabilities without compromising safety, privacy, or ethical standards. Trust in our commitment to building this future with you.",
+    "url": "https://www.polygraf.ai/case-studies/polygraf-bluebird-ai-humanizer-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Please provide information below and we will send you a link to download the white paper.",
+    "url": "https://www.polygraf.ai/case-studies/polygraf-bluebird-ai-humanizer-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Polygraf AI Launches Meeting Guard to Address Growing Threat of AI Fraud in Enterprise Meetings",
+    "url": "https://www.polygraf.ai/news/polygraf-ai-named-most-innovative-cybersecurity-company-by-the-hacker-news/",
+    "pass": 1
+   },
+   {
+    "quote": "Polygraf AI recognized as a Representative Vendor in the 2026 Gartner® Market Guide for Guardian Agents.",
+    "url": "https://www.polygraf.ai/news/polygraf-ai-named-most-innovative-cybersecurity-company-by-the-hacker-news/",
+    "pass": 1
+   },
+   {
+    "quote": "Integrate powerful, real-time data protection into your applications with ease.",
+    "url": "https://www.polygraf.ai/news/polygraf-ai-named-most-innovative-cybersecurity-company-by-the-hacker-news/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Polygraf Bluebird AI Humanizer Case Study",
+    "url": "https://www.polygraf.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Polygraf AI solutions are being used by leading financial services, insurance, healthcare, critical infrastructure, and public sector players.",
+    "url": "https://www.polygraf.ai/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Polygraf Bluebird AI Humanizer Case Study",
+    "url": "https://www.polygraf.ai/case-studies/polygraf-bluebird-ai-humanizer-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Critical Environments",
+    "url": "https://www.polygraf.ai/our-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Led by builders and operators in privacy, security and compliance, we’re committed to building secure, responsible AI solutions for all.",
+    "url": "https://www.polygraf.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Polygraf Bluebird AI Humanizer Case Study",
+    "url": "https://www.polygraf.ai/category/case-studies/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Polygraf reveals every AI tool employees use - approved or not. Track volumes, identify high-risk interactions, and automatically block untrusted AI tools to eliminate Shadow AI across the organization.",
+    "url": "https://www.polygraf.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Drive long-term revenue and brand value with flexible deployment, recurring ARR, and optional MDR upsells.",
+    "url": "https://www.polygraf.ai/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy under your brand to deepen stickiness or get listed on the Polygraf AI marketplace.",
+    "url": "https://www.polygraf.ai/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Polygraf carries active SBIR data rights and is pursuing FedRAMP Moderate, allowing partners to sell into federal and SLED accounts. We encourage our partners confirming the opportunities with us where possible as we have other prime relationships that could assist your bidding.",
+    "url": "https://www.polygraf.ai/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "How do System Integrators earn revenue?",
+    "url": "https://www.polygraf.ai/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Integrators earn based on service fees – creating predictable recurring revenue streams that channel experts consider the lifeline of an MSP business.",
+    "url": "https://www.polygraf.ai/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Certified Partners receive a percentage-based commission on net software revenue for 36 months for every qualified introduction that converts. We see you as an extension of our core team.",
+    "url": "https://www.polygraf.ai/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Absolutely, yes. Polygraf AI OEM licensing lets fraud analytics or privacy-platform vendors call our micro-services within your UI under a revenue-share model or usage-based agreement.",
+    "url": "https://www.polygraf.ai/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "We love competitive partners. Typical success metrics we track include ARR added, time-to-pilot (<30 days), and fraud-loss reduction for the end customer. Successful partners get extra budgets from Polygraf for public case studies.",
+    "url": "https://www.polygraf.ai/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you’re a system integrator, advisor, technology vendor, or startup ally – Polygraf AI helps you to grow your business while defending against deepfake fraud and AI risks. Explore the partnership model that fits you and become part of a trusted, future-ready ecosystem.",
+    "url": "https://www.polygraf.ai/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Used in zero-trust, air-gapped, and classified environments by federal, defense, and Fortune 500 teams.",
+    "url": "https://www.polygraf.ai/our-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Regional Insurance Carrier – Fraud Claim Detection and Claims Automation",
+    "url": "https://www.polygraf.ai/category/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Be a part of something bigger.",
+    "url": "https://www.polygraf.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Shortlisted candidates will have an informal chat with our team to discuss experience, skills, and understanding Polygraf AI’s mission.",
+    "url": "https://www.polygraf.ai/careers/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Bluebird Sales helps cutting-edge tech companies reach the right engineering audience through high-value outbound campaigns, but as email filters become smarter at detecting and blocking AI-written messages, even highly relevant outreach can end up flagged, filtered, or lost in spam traps.",
+    "url": "https://www.polygraf.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Define exactly what each department can and can’t share. Choose the data types to protect, assign rules to teams, and apply custom restrictions across AI tools, email, Slack, and more - all from one place.",
+    "url": "https://www.polygraf.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Polygraf detects sensitive data inside files and stops risky uploads to external apps (Dropbox, Google Drive, personal email, etc.). Files are quarantined, security is notified, and every action is logged.",
+    "url": "https://www.polygraf.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Real-Time Email Data Leak Prevention",
+    "url": "https://www.polygraf.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Polygraf automatically scans every outgoing email for sensitive data - PII, financials, credentials, or regulated information - and blocks confidential data before it leaves your organization. Review, redact, or override with full policy context.",
+    "url": "https://www.polygraf.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Depending on the Partner's tier you are on you can expect email support while Integrators unlock the hotline and named TAM access.",
+    "url": "https://www.polygraf.ai/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Bluebird Sales integrated Polygraf AI’s Content Humanizer into its outbound sales workflow to improve the performance of AI-assisted email campaigns",
+    "url": "https://www.polygraf.ai/case-studies/polygraf-bluebird-ai-humanizer-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Bluebird Sales integrated Polygraf AI’s Content Humanizer into its outbound sales workflow to improve the performance of AI-assisted email campaigns",
+    "url": "https://www.polygraf.ai/category/case-studies/",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Partners | Polygraf AI – Partner Ecosystem & Reseller Program",
+    "url": "https://www.polygraf.ai/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Join the Polygraf AI Partner Program",
+    "url": "https://www.polygraf.ai/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "White-Label Flexibility",
+    "url": "https://www.polygraf.ai/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy under your brand to deepen stickiness or get listed on the Polygraf AI marketplace.",
+    "url": "https://www.polygraf.ai/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "White-Labeling & Branding",
+    "url": "https://www.polygraf.ai/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Absolutely, yes. Polygraf AI OEM licensing lets fraud analytics or privacy-platform vendors call our micro-services within your UI under a revenue-share model or usage-based agreement.",
+    "url": "https://www.polygraf.ai/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Can Integrators white-label Polygraf?",
+    "url": "https://www.polygraf.ai/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Carahsoft Technology Corp. is The Trusted Government IT Solutions Provider, supporting Public Sector organizations across Federal, State and Local Government agencies and Education and Healthcare markets. As the Master Government Aggregator for our vendor partners, we deliver",
+    "url": "https://www.polygraf.ai/news/polygraf-ai-and-carahsoft-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "for Artificial Intelligence, Cybersecurity, MultiCloud, DevSecOps, Customer Experience and Engagement, Open Source and more. Working with resellers, systems integrators and consultants, our sales and marketing teams provide industry leading IT products, services and training through hundreds of contract vehicles. Visit us at",
+    "url": "https://www.polygraf.ai/news/polygraf-ai-and-carahsoft-partnership/",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Polygraf AI（ポリグラフエーアイ）｜正規販売代理店デジタルアクセルズ",
+    "url": "https://www.digitalaccels.com/products/polygraf-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Polygraf AI ソリューション｜正規販売代理店デジタルアクセルズ",
+    "url": "https://www.digitalaccels.com/products/polygraf-ai/solutions",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Polygraf AI：ミッションと製品の概要 - YouTube — Polygraf AI：ミッションと製品の概要 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=2vMM1sXnOIk",
+    "pass": 3
+   },
+   {
+    "quote": "Polygraf AI（ポリグラフエーアイ） - デジタルアクセルズ — Polygraf AI（ポリグラフエーアイ） - デジタルアクセルズ デジタルアクセルズ https://www.digitalaccels.com > products > polygraf-ai",
+    "url": "https://www.digitalaccels.com/products/polygraf-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Polygraf AI - DXable News — Polygraf AI - DXable News DXable News https://news.dxable.com > tag > polygraf-ai",
+    "url": "https://news.dxable.com/tag/polygraf-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Polygraf AI ソリューション｜正規販売 代理店 デジタルアクセルズ — Polygraf AI ソリューション｜正規販売 代理店 デジタルアクセルズ デジタルアクセルズ https://www.digitalaccels.com > polygraf-ai > solutions",
+    "url": "https://www.digitalaccels.com/products/polygraf-ai/solutions",
+    "pass": 3
+   },
+   {
+    "quote": "Polygraf AI | LinkedIn — Polygraf AI | LinkedIn LinkedIn https://www.linkedin.com > polygraf-ai",
+    "url": "https://www.linkedin.com/company/polygraf-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Polygraf AI | Enterprise-Grade AI Security & Zero-Trust ... — Polygraf AI | Enterprise-Grade AI Security & Zero-Trust ... Polygraf AI https://www.polygraf.ai",
+    "url": "https://www.polygraf.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Polygraf | Austin TX - Facebook — Polygraf | Austin TX - Facebook Facebook https://www.facebook.com > polygrafai",
+    "url": "https://www.facebook.com/polygrafai/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies Archives - Polygraf AI — Case Studies Archives - Polygraf AI Polygraf AI https://www.polygraf.ai > case-studies",
+    "url": "https://www.polygraf.ai/category/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Polygraf AI 2026 Company Profile - PitchBook — Polygraf AI 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/496483-12",
+    "pass": 3
+   },
+   {
+    "quote": "Polygraf - 2026 Company Profile, Team, Funding & Competitors — Polygraf - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/polygraf/__-nEktmkomQjydOwjKSBb_XldZKVS8ststZl3Ti_Eo2s",
+    "pass": 3
+   },
+   {
+    "quote": "Polygraf AI Closes $9.5M Funding to Scale Its Secure AI ... — Polygraf AI Closes $9.5M Funding to Scale Its Secure AI ... Business Wire https://www.businesswire.com > home",
+    "url": "https://www.businesswire.com/news/home/20251028463816/en/Polygraf-AI-Closes-%249.5M-Funding-to-Scale-Its-Secure-AI-Solutions-for-Enterprise-Defense-and-Intelligence",
+    "pass": 3
+   },
+   {
+    "quote": "Polygraf AI raises $9.5M seed funding , led by Allegis Capital — Polygraf AI raises $9.5M seed funding , led by Allegis Capital LinkedIn https://www.linkedin.com > posts > anarbayramov1_im-b...",
+    "url": "https://www.linkedin.com/posts/anarbayramov1_im-beyond-excited-to-announce-that-we-at-activity-7389562150329135104-Z_QG",
+    "pass": 3
+   },
+   {
+    "quote": "Polygraf - Crunchbase Company Profile & Funding — Polygraf - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > polygraf",
+    "url": "https://www.crunchbase.com/organization/polygraf",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Polygraf AI | LinkedIn Polygraf AI | LinkedIn LinkedIn https://www.linkedin.com > polygraf-ai",
+    "url": "https://www.linkedin.com/company/polygraf-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Yagub Rahimov - CEO and Founder at Polygraf AI | LinkedIn Yagub Rahimov - CEO and Founder at Polygraf AI | LinkedIn LinkedIn https://www.linkedin.com > yrahimov",
+    "url": "https://www.linkedin.com/in/yrahimov",
+    "pass": 3
+   },
+   {
+    "quote": "Polygraf AI Runs on Intel TDX for Secure AI Governance Polygraf AI Runs on Intel TDX for Secure AI Governance LinkedIn https://www.linkedin.com > posts > p...",
+    "url": "https://www.linkedin.com/posts/polygraf-ai_aisecurity-confidentialcomputing-inteltdx-activity-7490799509669683201-N7t_",
+    "pass": 3
+   },
+   {
+    "quote": "Polygraf AI Partners with Azerbaijan's Innovation Agency for ... Polygraf AI Partners with Azerbaijan's Innovation Agency for ... LinkedIn https://www.linkedin.com > posts > yrahimov_this-is-a-ve...",
+    "url": "https://www.linkedin.com/posts/yrahimov_this-is-a-very-special-news-for-me-before-activity-7485837291463307264-KXHf",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Polygraf | Austin TX - Facebook Polygraf | Austin TX - Facebook Facebook https://www.facebook.com > polygrafai",
+    "url": "https://www.facebook.com/polygrafai/",
+    "pass": 3
+   },
+   {
+    "quote": "Polygraf - Facebook Polygraf - Facebook Facebook https://www.facebook.com > polygrafai > posts > polygra...",
+    "url": "https://www.facebook.com/polygrafai/posts/polygrafs-yagub-rahimov-was-on-fox-business-this-week-simplifying-ai-swarms-and-/1606012421224996/",
+    "pass": 3
+   },
+   {
+    "quote": "Polygraf AI has been named a Top InfoSec Innovator for 2026 ... Polygraf AI has been named a Top InfoSec Innovator for 2026 ... Facebook https://www.facebook.com > polygrafai > posts > polygra...",
+    "url": "https://www.facebook.com/polygrafai/posts/polygraf-ai-has-been-named-a-top-infosec-innovator-for-2026-by-cyber-defense-mag/1630026258823612/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.polygraf.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.polygraf.ai/partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.polygraf.ai/case-studies/polygraf-bluebird-ai-humanizer-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.polygraf.ai/news/polygraf-ai-named-most-innovative-cybersecurity-company-by-the-hacker-news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.polygraf.ai/our-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.polygraf.ai/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.polygraf.ai/category/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.polygraf.ai/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.polygraf.ai/case-studies/epson-secure-printing-and-scanning/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.polygraf.ai/case-studies/us-county-government-ai-governance-solution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.polygraf.ai/news/polygraf-ai-and-carahsoft-partnership/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.youtube.com/watch?v=2vMM1sXnOIk",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.researchgate.net/publication/320943508_Transition_of_Polygraph_Test_in_Japan_Memory_of_Criminal_Facts_Intention_of_Concealment",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.digitalaccels.com/products/polygraf-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.dxable.com/tag/polygraf-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.digitalaccels.com/products/polygraf-ai/solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.digitalaccels.com/products/polygraf-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.polycompo.co.jp/service/list/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zaurus.jp/info/agency.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.polytest.org/locations/japan-tokyo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/polygraf-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.polygraf.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://liedetectortest.com/polygraph-associations/japan-polygraph-association/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJzWicrLEGf5Cw8_66zBXqW-uTbKaAOcIY5FppnBBKUowPWi2Vw",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://highqa.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stratasys.com/en/resources/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.polygraf.ai/category/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/496483-12",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/polygraf/__-nEktmkomQjydOwjKSBb_XldZKVS8ststZl3Ti_Eo2s",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.businesswire.com/news/home/20251028463816/en/Polygraf-AI-Closes-%249.5M-Funding-to-Scale-Its-Secure-AI-Solutions-for-Enterprise-Defense-and-Intelligence",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/anarbayramov1_im-beyond-excited-to-announce-that-we-at-activity-7389562150329135104-Z_QG",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/polygraf-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/yrahimov",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/polygraf-ai_aisecurity-confidentialcomputing-inteltdx-activity-7490799509669683201-N7t_",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/yrahimov_this-is-a-very-special-news-for-me-before-activity-7485837291463307264-KXHf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/polygrafai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/polygrafai/posts/polygrafs-yagub-rahimov-was-on-fox-business-this-week-simplifying-ai-swarms-and-/1606012421224996/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/polygrafai/posts/polygraf-ai-has-been-named-a-top-infosec-innovator-for-2026-by-cyber-defense-mag/1630026258823612/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/yrahimov",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/polygraf-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/polygrafai/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Polygraf 日本 導入",
+   "results": [
+    "https://www.youtube.com/watch?v=2vMM1sXnOIk",
+    "https://www.researchgate.net/publication/320943508_Transition_of_Polygraph_Test_in_Japan_Memory_of_Criminal_Facts_Intention_of_Concealment",
+    "https://www.digitalaccels.com/products/polygraf-ai",
+    "https://news.dxable.com/tag/polygraf-ai/",
+    "https://filigran.io/ja/press-releases/filigran-announces-strategic-expansion-into-japan-to-accelerate-proactive-cyber-defense",
+    "https://www.jstage.jst.go.jp/article/jjppp/advpub/0/advpub_1904si/_pdf/-char/ja",
+    "https://www.ritsumei.ac.jp/acd/cg/lt/rb/636/636PDF/zaitu.pdf",
+    "https://www.dian8dian.com/ja/tools/polygraf-ai-content-detector-advanced-plagiarism-chatgpt-detector",
+    "https://xtech.nikkei.com/atcl/nxt/news/24/00115/",
+    "https://www.polygraf.ai/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Polygraf 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.digitalaccels.com/products/polygraf-ai/solutions",
+    "https://www.digitalaccels.com/products/polygraf-ai",
+    "https://www.polycompo.co.jp/service/list/",
+    "https://www.zaurus.jp/info/agency.php",
+    "https://www.udc-synchro.co.jp/partner/",
+    "https://www.cosmobio.co.jp/agency/index.asp?maker_name=P",
+    "https://www.nri.com/jp/knowledge/publication/chitekishisan_202212/08.html",
+    "https://www.polygraph.jp/",
+    "https://myoridge.co.jp/distributor/",
+    "https://metoree.com/companies/distributors-relationships/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Polygraf Japan",
+   "results": [
+    "https://www.polytest.org/locations/japan-tokyo/",
+    "https://www.linkedin.com/company/polygraf-ai",
+    "https://www.polygraf.ai/",
+    "https://liedetectortest.com/polygraph-associations/japan-polygraph-association/",
+    "https://www.facebook.com/polygrafai/",
+    "https://finance.yahoo.com/technology/ai/articles/polygraf-launches-meeting-guard-address-120000364.html",
+    "https://en.wikipedia.org/wiki/Polygraph",
+    "https://www.youtube.com/watch?v=Qv8ByyRbRpE",
+    "https://www.polygraph.org/",
+    "https://liedetectortest.com/polygraph/kenji-nose-japan-polygraph-standardization-pioneer"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Polygraf manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJzWicrLEGf5Cw8_66zBXqW-uTbKaAOcIY5FppnBBKUowPWi2Vw",
+    "https://highqa.com/case-studies/",
+    "https://www.stratasys.com/en/resources/case-studies/",
+    "https://www.polygraf.ai/category/case-studies/",
+    "https://tulip.co/case-studies/",
+    "https://www.flexwareinnovation.com/case-studies/",
+    "https://proto3000.com/resources/case_studies/",
+    "https://kanerika.com/blogs/generative-ai-in-manufacturing/",
+    "https://www.demystifyingplm.com/case-studies-index",
+    "https://www.casestudies.com/company/polygraf-ai"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Polygraf white label OR reseller OR partner program",
+   "results": [
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://elfsight.com/affiliate-program/articles-saas-white-label/",
+    "https://content.platfio.com/blog/software-reseller-programs-worth-joining-2026",
+    "https://v2cloud.com/blog/white-label-saas-software-to-resell",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "Polygraf founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/496483-12",
+    "https://tracxn.com/d/companies/polygraf/__-nEktmkomQjydOwjKSBb_XldZKVS8ststZl3Ti_Eo2s",
+    "https://www.businesswire.com/news/home/20251028463816/en/Polygraf-AI-Closes-%249.5M-Funding-to-Scale-Its-Secure-AI-Solutions-for-Enterprise-Defense-and-Intelligence",
+    "https://www.linkedin.com/posts/anarbayramov1_im-beyond-excited-to-announce-that-we-at-activity-7389562150329135104-Z_QG",
+    "https://www.crunchbase.com/organization/polygraf",
+    "https://www.securityweek.com/ai-security-firm-polygraf-raises-9-5-million-in-seed-funding/",
+    "https://www.linkedin.com/company/polygraf-ai",
+    "https://venturebeat.com/business/polygraf-ai-closes-95m-funding-to-scale-its-secure-ai-solutions-for-enterprise-defense-and-intelligence",
+    "https://getlatka.com/companies/polly.ai",
+    "https://prospeo.io/c/polygraf-ai-revenue"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Polygraf",
+   "results": [
+    "https://note.com/snowflake_note/n/nfd28e703d325",
+    "https://note.com/hirokimiyano/n/n429034081429",
+    "https://note.com/chobiai/n/n330edc480cbd?hl=ko",
+    "https://note.com/seigo77",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/gpt_study_manga/n/n721c8315c33d",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/tatanoero/n/nb20e522a2897",
+    "https://note.com/spiderman886/n/n111bf6454691"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:x.com Polygraf",
+   "results": [
+    "https://x.com/adcock_brett/status/2108223103641997497",
+    "https://x.com/jobs_gc/status/2105296903403368622/photo/1",
+    "https://x.com/TJMonticello/status/2080677160025502154",
+    "https://x.com/CBP/status/1876700378147729682",
+    "https://x.com/rcmpgrcpolice/status/1555199964556496897",
+    "https://x.com/hashtag/polygraph",
+    "https://x.com/hlovo_/status/2112106392676896853",
+    "https://x.com/RepCuellar/status/1938601835247423531",
+    "https://x.com/LoudounNow/status/2087570667738972244",
+    "https://x.com/polygraf_ai?mx=2"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Polygraf",
+   "results": [
+    "https://www.linkedin.com/company/polygraf-ai",
+    "https://www.linkedin.com/in/yrahimov",
+    "https://www.linkedin.com/posts/polygraf-ai_aisecurity-confidentialcomputing-inteltdx-activity-7490799509669683201-N7t_",
+    "https://www.linkedin.com/posts/yrahimov_this-is-a-very-special-news-for-me-before-activity-7485837291463307264-KXHf",
+    "https://www.linkedin.com/posts/techintelpro_polygraf-launches-meeting-guard-for-ai-fraud-activity-7483189393667710976-n_XQ",
+    "https://www.linkedin.com/in/anarbayramov1",
+    "https://www.linkedin.com/posts/polygraf-ai_govtech-aisecurity-publicsector-activity-7523036152602361859-5jXc",
+    "https://www.linkedin.com/posts/bryanchangjiangliu_careers-polygraf-ai-join-our-ai-security-activity-7518407304296407041-bx5A",
+    "https://www.linkedin.com/posts/polygraf-ai_aisecurity-infosec-cyberdefensecon-activity-7518372008708014080-8yYP",
+    "https://in.linkedin.com/company/polygraph-printing-technologies-limited"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:facebook.com Polygraf",
+   "results": [
+    "https://www.facebook.com/polygrafai/",
+    "https://www.facebook.com/polygrafai/posts/polygrafs-yagub-rahimov-was-on-fox-business-this-week-simplifying-ai-swarms-and-/1606012421224996/",
+    "https://www.facebook.com/100063595329942/posts/huge-congratulations-to-polygraf-on-winning-top-infosec-innovators-at-cyber-defe/1768297288633432/",
+    "https://www.facebook.com/polygrafai/posts/polygraf-ai-has-been-named-a-top-infosec-innovator-for-2026-by-cyber-defense-mag/1630026258823612/",
+    "https://www.facebook.com/impression.polygraf/",
+    "https://www.facebook.com/pages/Impression-Polygraf-Inc/195044937792937",
+    "https://www.facebook.com/PolygrafNOR/",
+    "https://www.facebook.com/p/Impression-Polygraf-Inc-61581068399810/",
+    "https://www.facebook.com/media/set/?vanity=PolygrafNOR&set=a.491883449608991",
+    "https://www.facebook.com/reklamapolygraf/?locale=cs_CZ"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Polygraf note 社長",
+   "results": [
+    "https://www.polygraf.ai/about/",
+    "https://www.linkedin.com/in/yrahimov",
+    "https://www.youtube.com/watch?v=pJpdw-Y6sgk",
+    "https://www.businesswire.com/news/home/20260722405591/en/Polygraf-AI-Signs-MOU-with-Azerbaijan-to-Establish-Regional-AI-Center-of-Excellence",
+    "https://note.com/trex_ai",
+    "https://x.com/sadaaki",
+    "https://note.com/keokeo/n/n48e6bd986b15",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://froggy.smbcnikko.co.jp/66481/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Polygraf X 投稿",
+   "results": [
+    "https://www.polygraf.ai/",
+    "https://www.linkedin.com/company/polygraf-ai",
+    "https://www.youtube.com/watch?v=H4_4O0ZZXVo",
+    "https://www.facebook.com/polygrafai/",
+    "https://finance.yahoo.com/technology/ai/articles/polygraf-launches-meeting-guard-address-120000364.html",
+    "https://websummit.com/appearances/lis26/45b9b830-84f5-4355-be30-9ae4f5704946/polygraf-ai/",
+    "https://www.channelinsider.com/security/tools-and-platforms/polygraf-ai-meeting-guard-deepfake-detection/",
+    "https://www.instagram.com/polygraf_ai/",
+    "https://x.com/polygraf",
+    "https://x.com/polygraf_ai/status/2103511126751502587"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部34頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部34頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部34頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部34頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部34頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部34頁・検索12回）"
+ }
+}

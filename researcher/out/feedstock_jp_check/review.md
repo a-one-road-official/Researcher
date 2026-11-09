@@ -39,3 +39,11 @@
 
 ## Laempe Mössner Sinto — VoxelMatters（https://bit.ly/3zUkyBr）
 - 「The incorporation of Hottinger and Röperwerk in 2009 enabled us to acquire further valuable know-how and expertise. Laempe sales offices and a network of around 25 sales partners and representatives ensure competent support at a high level around the globe. Since 2015 there is also a strategic partn」（https://www.voxelmatters.directory/company/laempe-mossner-sinto/）
+
+## One Source Corporation (Federal Bronze) — VoxelMatters（https://bit.ly/3zUkyBr）
+- 「Additive Japan Corporation」（https://www.voxelmatters.directory/company-category/consulting-services/）
+- 「Thank you for your interest in Additive Japan Corporation and welcome to our home page. We have established Additive Japan to help our clients navigate through the Japanese Additive Manufacturing/3D Printing (AM) Market, which is relatively immature and business culturally extremely challenging.」（https://www.voxelmatters.directory/company-category/consulting-services/）
+
+## BlueCore3D (蓝芯智能科技 / Shanghai BlueCore Intelligent Technology) — VoxelMatters（https://bit.ly/3zUkyBr）
+- 「GEEXFOOT is a Japanese footwear brand built around 3D printed one-piece shoe construction.」（https://www.voxelmatters.directory/search/）
+- 「Genix is a Turkish distributor of 3D printing and 3D scanning hardware, part of the Tecde Group's IT division.」（https://www.voxelmatters.directory/search/）

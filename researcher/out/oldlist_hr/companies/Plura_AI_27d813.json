@@ -1,0 +1,1180 @@
+{
+ "name": "Plura AI",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-09T22:42:35.210782+00:00",
+ "official_url": "https://www.plura.ai",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "We didn't study the problem. We lived it.",
+    "url": "https://www.plura.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Plura is forged from 28 years of call centers, telephony infrastructure, and enterprise software to solve what everyone else overlooks.",
+    "url": "https://www.plura.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Leads wait 47+ hours for their first callback",
+    "url": "https://www.plura.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "AI Voice, SMS, and RCS working together as one intelligent system. Reach every lead on the channel they prefer, orchestrated from a single platform.",
+    "url": "https://www.plura.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "A dedicated engineering team builds and optimizes advanced AI conversations for you. Custom workflow design, deployment, and continuous improvement without lifting a finger.",
+    "url": "https://www.plura.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Provide accurate information from what is listed on your corporate documents.",
+    "url": "https://www.plura.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Select phone numbers on your Plura approved business profile and assign them to SHAKEN/STIR.",
+    "url": "https://www.plura.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“The AI workflows completely transformed how we handle inbound leads. Response times dropped from hours to seconds.”",
+    "url": "https://www.plura.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Answered all phone calls instantly, collecting borrower information and routing qualified prospects to available loan officers 24/7.",
+    "url": "https://www.plura.ai/case-studies/flow-mortgage",
+    "pass": 1
+   },
+   {
+    "quote": "Managed inbound and outbound text flows for reminders, appointment confirmations, and pre-screening.",
+    "url": "https://www.plura.ai/case-studies/flow-mortgage",
+    "pass": 1
+   },
+   {
+    "quote": "Executed nurture sequences — automatically calling unresponsive leads, no-shows, and drop-offs in a branded, conversational format at scale.",
+    "url": "https://www.plura.ai/case-studies/flow-mortgage",
+    "pass": 1
+   },
+   {
+    "quote": "Within 30 days, Flow Mortgage experienced dramatic improvements in lead performance and operational efficiency. AI agents transformed slow, fragmented engagement into seamless, always-on experiences.",
+    "url": "https://www.plura.ai/case-studies/flow-mortgage",
+    "pass": 1
+   },
+   {
+    "quote": "Response times dropped from over three hours to seconds. Borrowers received immediate engagement while still on-site. Plura's AI Outbound Voice Agent and SMS Agent executed an 11-day follow-up cadence, recovering more than 1 in 5 cold or unresponsive leads previously abandoned.",
+    "url": "https://www.plura.ai/case-studies/flow-mortgage",
+    "pass": 1
+   },
+   {
+    "quote": "With AI handling over two-thirds of initial conversations and follow-ups, Flow Mortgage saved approximately 112 hours per month. Agents focused on qualified borrowers rather than manual outreach. Performance improved without increasing headcount, and borrower satisfaction rose alongside efficiency.",
+    "url": "https://www.plura.ai/case-studies/flow-mortgage",
+    "pass": 1
+   },
+   {
+    "quote": "The AI Outbound Voice Agent proved especially effective for reactivation — not just answering calls but initiating them. When layered with SMS and web engagement, Plura created a powerful 24/7 borrower contact flywheel.",
+    "url": "https://www.plura.ai/case-studies/flow-mortgage",
+    "pass": 1
+   },
+   {
+    "quote": "Rather than hiring additional staff, the solution made every agent more efficient — allowing humans to focus on qualified closers while AI handled everything else.",
+    "url": "https://www.plura.ai/case-studies/flow-mortgage",
+    "pass": 1
+   },
+   {
+    "quote": "Our reps gave up after one or two tries. Now, AI follows up six or seven times. and we're seeing real conversions from leads we would have abandoned.",
+    "url": "https://www.plura.ai/case-studies/flow-mortgage",
+    "pass": 1
+   },
+   {
+    "quote": "VP of Marketing, Flow Mortgage",
+    "url": "https://www.plura.ai/case-studies/flow-mortgage",
+    "pass": 1
+   },
+   {
+    "quote": "How did Plura AI improve Flow Mortgage's lead conversion?",
+    "url": "https://www.plura.ai/case-studies/flow-mortgage",
+    "pass": 1
+   },
+   {
+    "quote": "AI Contact Center Software: Enterprise vs Startup Platforms Compared",
+    "url": "https://www.plura.ai/case-studies/flow-mortgage",
+    "pass": 1
+   },
+   {
+    "quote": "Simple, transparent pricing",
+    "url": "https://www.plura.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Most voice AI platforms quote a base rate, then bill the AI model, voices, and phone carrier separately. Our rate is all in, and priced by the talk hour so you can compare it straight to agent payroll.",
+    "url": "https://www.plura.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Calls, RCS, SMS, and web chat share one conversation, so leads pick up right where they left off. Included on every plan.",
+    "url": "https://www.plura.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Check calendars, book appointments, enrich leads, and update your CRM in real time, from inside any call, text, or chat.",
+    "url": "https://www.plura.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Don't spend weeks learning to build AI agents. Our engineers design, build, test, and launch yours across calls, SMS, RCS, and web chat. You approve it, we go live.",
+    "url": "https://www.plura.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Scoped to your workflow, no surprise invoices",
+    "url": "https://www.plura.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Salesforce, HubSpot, Zoho, GoHighLevel, HouseCall Pro, ServiceBridge, and more. If it has an API, we can connect it.",
+    "url": "https://www.plura.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "assumes about 10 leads per agent per day over 22 business days, and 5 messages per lead sent 80% by RCS and 20% by SMS fallback at 2 segments per message, and 8 messages per web chat.",
+    "url": "https://www.plura.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "long term drip messages to older leads, carrier registration, and sender fees. Example scenarios are illustrations, not customer results. Your mix will vary.",
+    "url": "https://www.plura.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "leads a month worked by text and",
+    "url": "https://www.plura.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "12 month term · loads into your balance each month",
+    "url": "https://www.plura.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Includes a signed Business Associate Agreement (BAA) for handling protected health information. Available on Growth, Scale, and Enterprise plans.",
+    "url": "https://www.plura.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "This levels the playing field, turning raw traffic into high-intent, payable leads.",
+    "url": "https://www.plura.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Legal Marketing Firm Cuts Qualification Time by 68% with AI Analytics",
+    "url": "https://www.plura.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Collectively, our leadership has spent decades inside call centers, telephony infrastructure, and enterprise software. We built Plura to solve the problems we lived with firsthand: outdated systems, low contact rates, and conversations that lack context. Every product decision is grounded in operational reality, not theory.",
+    "url": "https://www.plura.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Marketing Officer",
+    "url": "https://www.plura.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President of Sales",
+    "url": "https://www.plura.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "The hardest problem in the industry is having the conversation",
+    "url": "https://www.plura.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "The biggest problem in this industry is not the technology. It is actually talking to people. SMS, RCS, web chat, phone. The channel does not matter. What matters is getting someone's attention and getting them into a conversation.",
+    "url": "https://www.plura.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Plura exists to deliver higher contact rates, higher context on calls, higher conversion rates, at lower cost than human agents. We integrate with the best data providers in the world so every conversation carries full context before a single word is spoken. The result is more conversations, better outcomes, and operational costs that legacy systems cannot compete with.",
+    "url": "https://www.plura.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Every conversation should carry the full weight of a customer's history, preferences, and intent without anyone having to look it up. That is the standard we are building toward: more conversations, more context, lower cost, and better outcomes at every touchpoint.",
+    "url": "https://www.plura.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "We are solving the hardest problem in business communications: reaching people and having conversations that convert.",
+    "url": "https://www.plura.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Lead technical onboarding for enterprise customers. Configure AI workflows, integrate with existing CRMs and dialers, and ensure customers go live on time.",
+    "url": "https://www.plura.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Define the product roadmap for our AI communications platform. Work with engineering and customers to ship features that drive contact rates and conversions.",
+    "url": "https://www.plura.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Sales Development Representative",
+    "url": "https://www.plura.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Generate and qualify pipeline for the enterprise sales team. Research target accounts, run multi-channel outreach, and book meetings with decision makers.",
+    "url": "https://www.plura.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Account Executive",
+    "url": "https://www.plura.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Own the enterprise sales cycle. Work with operations leaders at call centers to show how Plura replaces legacy communication systems and drives ROI.",
+    "url": "https://www.plura.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Plura deployed AI Voice and SMS agents to handle initial lead qualification within seconds of form submission. Custom workflows asked key qualifying questions — homeownership status, roof age, utility provider, and interest level.",
+    "url": "https://www.plura.ai/case-studies/solar-company-ai-intelligence-18-percent-conversion",
+    "pass": 1
+   },
+   {
+    "quote": "Qualified leads were instantly warm-transferred to sales reps with full context. Unqualified leads received nurture sequences via SMS. Plura's AI Lead Intelligence scored every lead based on conversation signals and property data.",
+    "url": "https://www.plura.ai/case-studies/solar-company-ai-intelligence-18-percent-conversion",
+    "pass": 1
+   },
+   {
+    "quote": "The result: sales reps only spoke with pre-qualified homeowners, dramatically improving close rates and team morale.",
+    "url": "https://www.plura.ai/case-studies/solar-company-ai-intelligence-18-percent-conversion",
+    "pass": 1
+   },
+   {
+    "quote": "Sales rep talk time on unqualified leads",
+    "url": "https://www.plura.ai/case-studies/solar-company-ai-intelligence-18-percent-conversion",
+    "pass": 1
+   },
+   {
+    "quote": "Our reps used to burn half their day on leads that were never going to buy. Now they only talk to qualified homeowners who are ready to hear about solar.",
+    "url": "https://www.plura.ai/case-studies/solar-company-ai-intelligence-18-percent-conversion",
+    "pass": 1
+   },
+   {
+    "quote": "How does AI qualify solar leads?",
+    "url": "https://www.plura.ai/case-studies/solar-company-ai-intelligence-18-percent-conversion",
+    "pass": 1
+   },
+   {
+    "quote": "How did conversion rates improve so dramatically?",
+    "url": "https://www.plura.ai/case-studies/solar-company-ai-intelligence-18-percent-conversion",
+    "pass": 1
+   },
+   {
+    "quote": "AI Contact Center Software: Enterprise vs Startup Platforms Compared",
+    "url": "https://www.plura.ai/case-studies/solar-company-ai-intelligence-18-percent-conversion",
+    "pass": 1
+   },
+   {
+    "quote": "AI Lead Intelligence: How Pre-Conversation Data Enrichment Is Changing Lead Conversion",
+    "url": "https://www.plura.ai/case-studies/solar-company-ai-intelligence-18-percent-conversion",
+    "pass": 1
+   },
+   {
+    "quote": "Existing tools forced disruptive switches between planning and execution, hindering productivity",
+    "url": "https://www.workflowbuilder.io/case-study/plura-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Both technical and non-technical teams required an accessible solution that didn’t compromise on power or performance",
+    "url": "https://www.workflowbuilder.io/case-study/plura-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Merging planning, execution, and analysis into one unified product",
+    "url": "https://www.workflowbuilder.io/case-study/plura-ai",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Provide accurate information from what is listed on your corporate documents.",
+    "url": "https://www.plura.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Most voice AI platforms quote a base rate, then bill the AI model, voices, and phone carrier separately. Our rate is all in, and priced by the talk hour so you can compare it straight to agent payroll.",
+    "url": "https://www.plura.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Plura Connect is our FCC licensed carrier. No middleman, so AI, voice, and phone lines come in one all in rate with no separate LLM, speech, or telephony charges.",
+    "url": "https://www.plura.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "long term drip messages to older leads, carrier registration, and sender fees. Example scenarios are illustrations, not customer results. Your mix will vary.",
+    "url": "https://www.plura.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Set by The Campaign Registry and carriers · same on every plan",
+    "url": "https://www.plura.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Plura exists to deliver higher contact rates, higher context on calls, higher conversion rates, at lower cost than human agents. We integrate with the best data providers in the world so every conversation carries full context before a single word is spoken. The result is more conversations, better outcomes, and operational costs that legacy systems cannot compete with.",
+    "url": "https://www.plura.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Every conversation should carry the full weight of a customer's history, preferences, and intent without anyone having to look it up. That is the standard we are building toward: more conversations, more context, lower cost, and better outcomes at every touchpoint.",
+    "url": "https://www.plura.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "An interactive drag-and-drop board transforms complex data into a clear, visual narrative for users to build and modify processes with ease",
+    "url": "https://www.workflowbuilder.io/case-study/plura-ai",
+    "pass": 3
+   },
+   {
+    "quote": "is enough to carry on a normal conversation.",
+    "url": "https://note.com/sane_mink364/n/ne8503e80b03f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I started thinking about this because I wanted to know the reason, but in the end, I arrived at the conclusion that the origins are unknown.",
+    "url": "https://note.com/sane_mink364/n/ne8503e80b03f?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "No answer / voicemail",
+    "url": "https://www.plura.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Any call, text, or chat can send a DocuSign contract by RCS or email and collect payment through Stripe, so deals close before the lead goes cold.",
+    "url": "https://www.plura.ai/pricing",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Flow Mortgage Case Study — AI-Powered Borrower Engagement | Plura AI",
+    "url": "https://www.plura.ai/case-studies/flow-mortgage",
+    "pass": 1
+   },
+   {
+    "quote": "Greenfield Solar Case Study — AI Lead Intelligence | Plura AI",
+    "url": "https://www.plura.ai/case-studies/solar-company-ai-intelligence-18-percent-conversion",
+    "pass": 1
+   },
+   {
+    "quote": "Unifying AI workflows in one platform | Plura AI case study",
+    "url": "https://www.workflowbuilder.io/case-study/plura-ai",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Plura AI - Crunchbase Company Profile & Funding — Plura AI offers voice agents and workflows to automate outreach, support, scheduling, and follow-ups across multiple channels.",
+    "url": "https://www.crunchbase.com/organization/plura-ai",
+    "pass": 3
+   },
+   {
+    "quote": "About Plura AI | Built from the Call Center Floor — We built Plura to solve the problems we lived with firsthand: outdated systems, low contact rates, and conversations that lack context. Every product decision is grounded in operational reality, not theory. The biggest problem in this industry is not the technology. It is actually talking to people. SMS, RCS, web chat, phone.",
+    "url": "https://www.plura.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": "Plura AI - LinkedIn — Plura's AI-first architecture allows memory driven, context aware, and adaptive AI agents to strike the right tone, at the right time, on the right channel. Unlike legacy systems, Plura...",
+    "url": "https://www.linkedin.com/company/plura-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Plura AI — AI-Powered Communications Platform — AI-powered communications platform for SMS, Voice, RCS, and Workflow automation for enterprise and call centers.",
+    "url": "https://www.plura.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies | Plura AI — See how businesses use Plura AI to transform lead response, conversion, and revenue.",
+    "url": "https://www.plura.ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Conversion Optimization Case Studies With Real Results - plura.ai — Jul 13, 2026 · Stateful cross-channel memory lets AI agents keep context across voice, SMS, RCS, and webchat, so leads do not need to repeat information. Plura AI helps operators apply these tactics at scale on 100% U.S. infrastructure with full compliance support, and you can see it in a live demo.",
+    "url": "https://www.plura.ai/articles/conversion-optimization-case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Unifying AI workflows in one platform | Plura AI case study — See how Plura unified planning, execution, and analysis using Workflow Builder to design and run complex AI workflows in one platform.",
+    "url": "https://www.workflowbuilder.io/case-study/plura-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Plura 2026 Company Profile: Valuation, Funding & Investors ...Pluralsight - 2026 Company Profile, Funding & Investors | The ...Plural AI 2026 Company Profile: Valuation, Funding ...Plura AI - Crunchbase Company Profile & FundingPlura AI - LinkedInPlura - Crunchbase Company Profile & FundingPlura AI — AI-Powered Communications Platform — Information on valuation, funding, cap tables, investors, and",
+    "url": "https://pitchbook.com/profiles/company/433415-71",
+    "pass": 3
+   },
+   {
+    "quote": "Plural AI 2026 Company Profile: Valuation, Funding ...Plura AI - Crunchbase Company Profile & FundingPlura AI - LinkedInPlura - Crunchbase Company Profile & FundingPlura AI — AI-Powered Communications Platform — Information on valuation, funding, cap tables, investors, and executives for Plural AI. Use the PitchBook Platform to explore the full profile. Plura AI offers voice agents and workflows t",
+    "url": "https://pitchbook.com/profiles/company/227011-78",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "多元性（PLURALITY）という概念について、本を読まずに生成AIに尋ねた... May 3, 2025 · しかしなんとなく買った本ではなく、PLURALITY という概念のほうが気になったのでそちらを生成AIに尋ねたところ、だいぶ詳しく知っているような口ぶりだったので問答がはかどった。 以下にその記録の一部を共有しておきます。",
+    "url": "https://note.com/shigepong/n/n8b1a451f825f",
+    "pass": 3
+   },
+   {
+    "quote": "[Teach Me, AI Teacher] Why does English have plural forms? It is not a matter of which is superior, but rather that they have different ways of conveying information. English requires you to decide many things before you speak. Thinking about plural forms, other grammar points I struggled with in English started to look a bit similar.",
+    "url": "https://note.com/sane_mink364/n/ne8503e80b03f?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "オードリー・タン氏の PLURALITY の日本語訳本が昨日（2025/05/02）出版された",
+    "url": "https://note.com/shigepong/n/n8b1a451f825f",
+    "pass": 3
+   },
+   {
+    "quote": "オードリータンが言うpluralityを日本では多元性と翻訳しています",
+    "url": "https://note.com/shigepong/n/n8b1a451f825f",
+    "pass": 3
+   },
+   {
+    "quote": "やはり、この言葉が持つ「異なる根源を持つ複数のものが、それぞれの独自性を保ちながら存在する」というニュアンスこそが、日本語の「多元性」が「多様性」よりもタン氏の概念に近いと感じられる理由であり、同時に、日本語訳の「多元性」だけでは失われがちな、その後の「相互作用や創造プロセス」へと繋がる含意の源泉でもあると言えます",
+    "url": "https://note.com/shigepong/n/n8b1a451f825f",
+    "pass": 3
+   },
+   {
+    "quote": "In Japanese,",
+    "url": "https://note.com/sane_mink364/n/ne8503e80b03f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In Japanese, you can speak without deciding the number.",
+    "url": "https://note.com/sane_mink364/n/ne8503e80b03f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "On the other hand, in Japanese, you can speak without deciding whether something is singular or plural.",
+    "url": "https://note.com/sane_mink364/n/ne8503e80b03f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In the first place, in Japanese, even the subject is omitted.",
+    "url": "https://note.com/sane_mink364/n/ne8503e80b03f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese allows you to leave information to be supplemented by context without having to determine everything through grammar.",
+    "url": "https://note.com/sane_mink364/n/ne8503e80b03f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese allows you to add the number at the stage when it becomes necessary.",
+    "url": "https://note.com/sane_mink364/n/ne8503e80b03f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "However, it is certain that English requires more explicit information than Japanese when constructing sentences.",
+    "url": "https://note.com/sane_mink364/n/ne8503e80b03f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Things that can be left ambiguous in Japanese must be decided beforehand in English.",
+    "url": "https://note.com/sane_mink364/n/ne8503e80b03f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "When a Japanese speaker tries to speak English,",
+    "url": "https://note.com/sane_mink364/n/ne8503e80b03f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "and 'why can't things that can be omitted in Japanese be omitted in English'",
+    "url": "https://note.com/sane_mink364/n/ne8503e80b03f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "but by thinking about \"what English treats differently from Japanese.\"",
+    "url": "https://note.com/sane_mink364/n/ne8503e80b03f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Why did the distinction of numbers remain as grammar in some languages, while it did not become essential in languages like Japanese? The definitive reason for that still seems to be unknown today.",
+    "url": "https://note.com/sane_mink364/n/ne8503e80b03f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "That is not so much the historical reason why plural forms were born, but rather a way for Japanese speakers to understand English as it is today.",
+    "url": "https://note.com/sane_mink364/n/ne8503e80b03f?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "多元性（PLURALITY）という概念について、本を読まずに生成AIに尋ねた｜Shigeyuki Oba",
+    "url": "https://note.com/shigepong/n/n8b1a451f825f",
+    "pass": 3
+   },
+   {
+    "quote": "多元性（PLURALITY）という概念について、本を読まずに生成AIに尋ねた",
+    "url": "https://note.com/shigepong/n/n8b1a451f825f",
+    "pass": 3
+   },
+   {
+    "quote": "オードリー・タン氏の PLURALITY の日本語訳本が昨日（2025/05/02）出版された。本屋に買いに行ったら「ウチには配本が無かったようです」と言われてしまったので他の本を買って喫茶店に篭った。しかしなんとなく買った本ではなく、PLURALITY という概念のほうが気になったのでそちらを生成AIに尋ねたところ、だいぶ詳しく知っているような口ぶりだったので問答がはかどった。以下にその記録の一部を共有しておきます。",
+    "url": "https://note.com/shigepong/n/n8b1a451f825f",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.amazon.co.jp//dp/4909044574",
+    "url": "https://note.com/shigepong/n/n8b1a451f825f",
+    "pass": 3
+   },
+   {
+    "quote": "オードリータンが言うpluralityを日本では多元性と翻訳しています。",
+    "url": "https://note.com/shigepong/n/n8b1a451f825f",
+    "pass": 3
+   },
+   {
+    "quote": "私はこの訳語では重要なニュアンスが失われていると思います。",
+    "url": "https://note.com/shigepong/n/n8b1a451f825f",
+    "pass": 3
+   },
+   {
+    "quote": "おっしゃる通り、オードリー・タン氏が使用する \"plurality\" という言葉を単に「多元性」と翻訳することには、重要なニュアンスが失われる可能性があるというご指摘は、非常に的確だと思います。",
+    "url": "https://note.com/shigepong/n/n8b1a451f825f",
+    "pass": 3
+   },
+   {
+    "quote": "「多元性」という言葉は、一般的に「多くの異なった要素や価値観が存在すること」という状態を表すことが多いです。確かに、タン氏の考える \"plurality\" も多様性の存在を前提としていますが、それだけにとどまらない、より能動的でダイナミックな側面を含んでいると考えられます。",
+    "url": "https://note.com/shigepong/n/n8b1a451f825f",
+    "pass": 3
+   },
+   {
+    "quote": "[Teach Me, AI Teacher] Why does English have plural forms?｜アリさん",
+    "url": "https://note.com/sane_mink364/n/ne8503e80b03f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Teach Me, AI Teacher] Why does English have plural forms?",
+    "url": "https://note.com/sane_mink364/n/ne8503e80b03f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Why does English have plural forms?",
+    "url": "https://note.com/sane_mink364/n/ne8503e80b03f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Cats means there are multiple cats.",
+    "url": "https://note.com/sane_mink364/n/ne8503e80b03f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"you add an 's' to make it plural.\"",
+    "url": "https://note.com/sane_mink364/n/ne8503e80b03f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "But I've always found it a bit strange.",
+    "url": "https://note.com/sane_mink364/n/ne8503e80b03f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Even if you write 'cats,' you don't know if there are two, ten, or a hundred.",
+    "url": "https://note.com/sane_mink364/n/ne8503e80b03f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In the end, if you want to know the exact number,",
+    "url": "https://note.com/sane_mink364/n/ne8503e80b03f?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Plurai on X: \"Excited to announce our collaboration with ... Oct 21, 2026 · Excited to announce our collaboration with @ nvidia and @ nebiusai at NVIDIA #gtcberlin! We post-trained NVIDIA’s Nemotron 3.5 Lightning into a specialized model that outperforms Claude Haiku 5.5 at 44× lower cost and matches OpenAI’s GPT-6 Luna at 40× lower cost. With Plurai, any engineer can go from a task description an",
+    "url": "https://x.com/pluraiAI/status/2112862918433784143",
+    "pass": 3
+   },
+   {
+    "quote": "Internet Commerce on X: \"#RDNH #UDRP #plurai.ai denied ... Oct 7, 2026 · #RDNH #UDRP #plurai.ai denied. Complainant Plura AI LLC, represented by counsel, relied on a PLURA trademark that issued in December 2025 from an application filed March 28, 2025, and challenged Respondent Ilan Kadar / Plurai Inc., which registered the domain on May 27, 2024.",
+    "url": "https://x.com/ICADomains/status/2107868700942746066",
+    "pass": 3
+   },
+   {
+    "quote": "PLUrA_NG Each one of us is Glorious. (@plura_) / X On PLUrA, we have Talk Tuesdays and Therapy Thursdays where every member gets together to rub minds on various topics, from work drama to maintaining friendships.",
+    "url": "https://x.com/plura_",
+    "pass": 3
+   },
+   {
+    "quote": "Séb Krier on X: \"RT @ramez: I'm an advocate of plural AI ... RT @ramez: I'm an advocate of plural AI - the broad dissemination and democratization of AI capabilities. That worries some in AI safety. B…",
+    "url": "https://x.com/sebkrier/status/2117834183259435439",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Plura AI - LinkedIn With true omnichannel coverage across voice, SMS, and chat, and a drag-and-drop builder anyone can use, Plura can rapidly deploy AI agents that give your customers and prospects the experience ...",
+    "url": "https://www.linkedin.com/company/plura-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Matt Beucler - CEO, Plura.ai | AI Voice, SMS, RCS & Chat ... Plura is an AI communications platform. Our AI agents hold real, two-way conversations across voice, SMS, RCS, and web chat, and they carry context from one channel to the next.",
+    "url": "https://www.linkedin.com/in/matt-beucler",
+    "pass": 3
+   },
+   {
+    "quote": "Camille Rougié - Founder and CEO, Plural AI | LinkedInPlural AI - LinkedInSten Tamkivi - Plural | LinkedInKaran Sheth - Plural AI Labs & Speak to IoT (now part of ...Nikoloz Kvaratskhelia - Senior Sales Engineer At Plura AI ... Plural is an AI workspace for private markets. We help private market institutions and banks streamline their deal processes 10x+ and transform their businesses in an ‘Inte",
+    "url": "https://uk.linkedin.com/in/camillerougie",
+    "pass": 3
+   },
+   {
+    "quote": "Plural AI - LinkedIn Plural AI | 1,590 followers on LinkedIn. We help corporate finance professionals execute a data-driven approach to deal origination | Businesses use only a fraction of the data they need to...",
+    "url": "https://uk.linkedin.com/company/plural-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Plura AI - LinkedIn Unlike legacy systems, Plura doesn’t just route customers — it remembers where each conversation left off.",
+    "url": "https://www.linkedin.com/company/plura-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Plura AI - LinkedIn Plura AI | 121 followers on LinkedIn. AI-powered communications for Voice, SMS, RCS & Webchat. | Plura's AI-first architecture allows memory driven, context aware, and adaptive AI agents to strike ...",
+    "url": "https://www.linkedin.com/company/plura-ai",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Plura AI - Facebook Jul 15, 2026 · We worked hard, laughed harder, and pushed the Plura AI mission even further. From meaningful connections to major wins — and the rare chance to collaborate in person at our U.S. office — this week was all about taking AI to the next level.",
+    "url": "https://www.facebook.com/pluraai/",
+    "pass": 3
+   },
+   {
+    "quote": "Plura AI - You spent thousands making that phone ring ... Jul 15, 2026 · You spent thousands making that phone ring — and it went to voicemail. Plura's AI answers every call on the first ring, 24/7: qualified from 50+ data...",
+    "url": "https://www.facebook.com/pluraai/posts/you-spent-thousands-making-that-phone-ring-and-it-went-to-voicemail-pluras-ai-an/122266108196604431/",
+    "pass": 3
+   },
+   {
+    "quote": "Plura AI - Your reps talk 12 minutes an hour. You pay for ... Aug 3, 2026 · Plura's AI dialer flips the math: 💰 You only pay for talk time — idle minutes cost you nothing 📞 Phone ringing in 2 seconds, no lead waits for a free agent 🔥 Qualifies every answer, live-transfers the hot ones, books the rest 📈 Converts higher than the floor you're paying to sit Same lead flow.",
+    "url": "https://www.facebook.com/pluraai/posts/your-reps-talk-12-minutes-an-hour-you-pay-for-all-60-️between-calls-wrap-ups-wai/122268940250604431/",
+    "pass": 3
+   },
+   {
+    "quote": "Your techs are on jobs. Who's answering the phone? Plura's AI ... Jul 15, 2026 · 🤖 AI Agents That Answer, Book & Confirm Jobs 📞 Your techs are on jobs. Who's answering the phone? Plura's AI agents answer every call and text for your home services company. They book the job send the confirmation 📲 and update your CRM automatically.",
+    "url": "https://www.facebook.com/pluraai/videos/-ai-agents-that-answer-book-confirm-jobs/1002856299290833/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.plura.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plura.ai/case-studies/flow-mortgage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plura.ai/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plura.ai/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plura.ai/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plura.ai/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plura.ai/case-studies/solar-company-ai-intelligence-18-percent-conversion",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.plura.ai/logos/plura-white-logo.svg?dpl=dpl_2PNFbPHhh3nHji7KATPUx24mif4e",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.plura.ai/logos/plura-overblack-logo.svg?dpl=dpl_2PNFbPHhh3nHji7KATPUx24mif4e",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.plura.ai/logos/plura-overwhite-logo.svg?dpl=dpl_2PNFbPHhh3nHji7KATPUx24mif4e",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.plura.ai/logos/plura-overblack-logo.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.plura.io/ja/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/ai_labo26/n/nb6bdbf2c36a2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ik-c.co.jp/20260330",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pwc.com/jp/ja/knowledge/thoughtleadership/generative-ai-survey2026.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%B5%E3%83%A0%E3%82%B9%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/SAP%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/plura-ai",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://chigai2.fromation.co.jp/archives/30533",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plura.io/ja/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/company/plura-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.workflowbuilder.io/case-study/plura-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://insights.rstartec.com/eight-ai-case-studies-demonstrate-the-potential-of-ai-in-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://nebius.com/nebius-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://resellercph.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upcloud.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/433415-71",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/pluralsight/xtbe7ehyo8xfshgt5",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/227011-78",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/plura-ai",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/shigepong/n/n8b1a451f825f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sane_mink364/n/ne8503e80b03f?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/pluraiAI/status/2112862918433784143",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ICADomains/status/2107868700942746066",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/plura_",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sebkrier/status/2117834183259435439",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/plura-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/matt-beucler",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/camillerougie",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/company/plural-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pluraai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pluraai/posts/you-spent-thousands-making-that-phone-ring-and-it-went-to-voicemail-pluras-ai-an/122266108196604431/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pluraai/posts/your-reps-talk-12-minutes-an-hour-you-pay-for-all-60-️between-calls-wrap-ups-wai/122268940250604431/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pluraai/videos/-ai-agents-that-answer-book-confirm-jobs/1002856299290833/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/matt-beucler",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/plura-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/plura-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Plura AI 日本 導入",
+   "results": [
+    "https://www.plura.io/ja/index.html",
+    "https://note.com/ai_labo26/n/nb6bdbf2c36a2",
+    "https://www.ik-c.co.jp/20260330",
+    "https://www.pwc.com/jp/ja/knowledge/thoughtleadership/generative-ai-survey2026.html",
+    "https://juas.or.jp/cms/media/2025/02/it25_2.pdf",
+    "https://www.dir.co.jp/report/research/economics/japan/20260826_026012.html",
+    "https://www.watch.impress.co.jp/docs/news/2108355.html",
+    "https://www.plura.ai/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Plura AI 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/日本サムスン",
+    "https://ja.wikipedia.org/wiki/SAPジャパン",
+    "https://www.crunchbase.com/organization/plura-ai",
+    "https://chigai2.fromation.co.jp/archives/30533",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://biz.toyokeizai.net/data/service/detail/id=418",
+    "https://ja.wikipedia.org/wiki/キアゲン"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Plura AI Japan",
+   "results": [
+    "https://www.plura.ai/about",
+    "https://www.plura.io/ja/index.html",
+    "https://www.linkedin.com/company/plura-ai",
+    "https://www.plura.ai/",
+    "https://www.pluratech.io/",
+    "https://app.plura.ai/",
+    "https://www.plural.ai/",
+    "https://plurainc.com/company/",
+    "https://plura.in/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Plura AI manufacturing customer case study",
+   "results": [
+    "https://www.plura.ai/case-studies",
+    "https://www.plura.ai/articles/conversion-optimization-case-studies",
+    "https://www.workflowbuilder.io/case-study/plura-ai",
+    "https://insights.rstartec.com/eight-ai-case-studies-demonstrate-the-potential-of-ai-in-manufacturing",
+    "https://www.vktr.com/ai-disruption/5-ai-case-studies-in-manufacturing/",
+    "https://plurainc.com/case-studies/",
+    "https://www.microsoft.com/en/customers/story/27513-vylor-microsoft-foundry"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Plura AI white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://nebius.com/nebius-partner-program",
+    "https://resellercph.com/",
+    "https://upcloud.com/partner-program/",
+    "https://www.vizrt.com/partner-program/",
+    "https://customgpt.ai/ai-reseller-program/",
+    "https://resellervendors.mysellauth.com/",
+    "https://www.nextiva.com/company/partners",
+    "https://www.seoreseller.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Plura AI founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/433415-71",
+    "https://www.thecompanycheck.com/company/b/pluralsight/xtbe7ehyo8xfshgt5",
+    "https://pitchbook.com/profiles/company/227011-78",
+    "https://www.crunchbase.com/organization/plura-ai",
+    "https://www.linkedin.com/company/plura-ai",
+    "https://www.crunchbase.com/organization/plura",
+    "https://www.plura.ai/",
+    "https://getlatka.com/companies/heyplura.com",
+    "https://tracxn.com/d/companies/plural/__N2N97qTgyaU5-iKk-SMTYOe6kqAV1Ia0TW8lhf85x2c",
+    "https://craft.co/plura-together-project"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:note.com Plura AI",
+   "results": [
+    "https://note.com/shigepong/n/n8b1a451f825f",
+    "https://note.com/sane_mink364/n/ne8503e80b03f?hl=en",
+    "https://note.com/strawberry1982/n/n48becdacf6cd?hl=en",
+    "https://note.com/hirasawa_susumu/n/n13f1a23484be",
+    "https://note.com/pluralaxis/n/ncef488671400",
+    "https://note.com/aki_aoba/n/n9479f4d663fb",
+    "https://note.com/cool_rabbit1819/n/n12891d9e9936",
+    "https://note.com/pluralaxis",
+    "https://note.com/pluralaxis/n/nf7d374c1de06",
+    "https://note.com/fuma_ai_lab/n/nd505d18a8b79"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:x.com Plura AI",
+   "results": [
+    "https://x.com/pluraiAI/status/2112862918433784143",
+    "https://x.com/ICADomains/status/2107868700942746066",
+    "https://x.com/plura_",
+    "https://x.com/sebkrier/status/2117834183259435439",
+    "https://x.com/plpl95692289",
+    "https://x.com/ramez/article/2080757722832925151",
+    "https://x.com/TFTC21/status/2109335940108050730",
+    "https://help.x.com/en/premium-plus-price-update",
+    "https://help.x.com/en/using-x/about-grok",
+    "https://docs.x.com/livestream-api/skill-md"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:linkedin.com Plura AI",
+   "results": [
+    "https://www.linkedin.com/company/plura-ai",
+    "https://www.linkedin.com/in/matt-beucler",
+    "https://uk.linkedin.com/in/camillerougie",
+    "https://uk.linkedin.com/company/plural-ai",
+    "https://ee.linkedin.com/in/stentamkivi",
+    "https://in.linkedin.com/in/shethkaran",
+    "https://ge.linkedin.com/in/nikoloz-kvaratskhelia-6aa298256",
+    "https://uk.linkedin.com/in/rei-dumand",
+    "https://ge.linkedin.com/in/lasham",
+    "https://www.linkedin.com/in/jessewmullen"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:facebook.com Plura AI",
+   "results": [
+    "https://www.facebook.com/pluraai/",
+    "https://www.facebook.com/pluraai/posts/you-spent-thousands-making-that-phone-ring-and-it-went-to-voicemail-pluras-ai-an/122266108196604431/",
+    "https://www.facebook.com/pluraai/posts/your-reps-talk-12-minutes-an-hour-you-pay-for-all-60-️between-calls-wrap-ups-wai/122268940250604431/",
+    "https://www.facebook.com/pluraai/videos/-ai-agents-that-answer-book-confirm-jobs/1002856299290833/",
+    "https://www.facebook.com/pluraai/videos/-one-ai-answers-every-line/1908029779870147/",
+    "https://www.facebook.com/pluraai/videos/-your-ai-answers-every-lead/1743392066900163/",
+    "https://www.facebook.com/pluraai/videos/-your-ai-answers-every-call/1560640655756286/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Plura AI note 社長",
+   "results": [
+    "https://www.linkedin.com/in/matt-beucler",
+    "https://www.plura.ai/team/matt-beucler",
+    "https://www.linkedin.com/company/plura-ai",
+    "https://www.plural.ai/",
+    "https://www.plura.ai/team",
+    "https://note.com/ai_jidouka_note",
+    "https://note.com/claudeceo",
+    "https://note.com/tosan_kara_ai",
+    "https://www.plura.ai/",
+    "https://www.plura.ai/about"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "Plura AI X 投稿",
+   "results": [
+    "https://www.plura.ai/integrations",
+    "https://www.instagram.com/pluraai/",
+    "https://www.linkedin.com/company/plura-ai",
+    "https://www.plura.ai/",
+    "https://www.plural.ai/",
+    "https://x.com/plura_",
+    "https://x.com/RyanGreenblatt/status/2118447235289817503",
+    "https://github.com/plura-ai",
+    "https://app.plura.ai/",
+    "https://xboost.now/notes/x-post-automation-tools-2026"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 12
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式7頁／PDF・画像4件／外部37頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式7頁／PDF・画像4件／外部37頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式7頁／PDF・画像4件／外部37頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式7頁／PDF・画像4件／外部37頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式7頁／PDF・画像4件／外部37頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式7頁／PDF・画像4件／外部37頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式7頁／PDF・画像4件／外部37頁・検索12回）"
+ }
+}

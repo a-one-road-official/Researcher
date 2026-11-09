@@ -1,0 +1,1562 @@
+{
+ "name": "Ometria",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-09T23:03:17.215149+00:00",
+ "official_url": "https://ometria.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$71.6M",
+    "url": "https://getlatka.com/companies/ometria",
+    "pass": 3
+   },
+   {
+    "label": "Total funding",
+    "value": "$9,900,000",
+    "url": "https://prospeo.io/c/ometria-revenue",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$123,000",
+    "url": "https://prospeo.io/c/ometria-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "London, England, United Kingdom",
+    "url": "https://prospeo.io/c/ometria-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2013",
+    "url": "https://prospeo.io/c/ometria-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Precision-built for retail",
+    "url": "https://ometria.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Personalization & dynamic content",
+    "url": "https://ometria.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Smart templates & content creation",
+    "url": "https://ometria.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Director of DTC Retention Marketing & CRM",
+    "url": "https://ometria.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Ometria's predictive segmentation tool has allowed us to enhance segmentation based on a complex algorithm, and these results are very exciting to see!\"",
+    "url": "https://ometria.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Using Ometria has had a significant impact on our ability to send relevant marketing messages to our customers and allowed us to make the business case for further investment in the CRM strategy.”",
+    "url": "https://ometria.com/",
+    "pass": 1
+   },
+   {
+    "quote": "spring 2024",
+    "url": "https://ometria.com/",
+    "pass": 1
+   },
+   {
+    "quote": "G2 easiest to do business with spring",
+    "url": "https://ometria.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Europe spring 2024",
+    "url": "https://ometria.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“We are so happy to be working with Ometria. We needed a future-proof solution that would allow us to innovate and could keep up with our scaling business.”",
+    "url": "https://ometria.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Retention",
+    "url": "https://ometria.com/",
+    "pass": 1
+   },
+   {
+    "quote": "power your customer marketing.",
+    "url": "https://ometria.com/",
+    "pass": 1
+   },
+   {
+    "quote": "increase in AOV vs campaigns without product affinity segmentation",
+    "url": "https://ometria.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "increase in return customers on previous period",
+    "url": "https://ometria.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "‘Being able to see a whole customer profile in Ometria is so powerful’",
+    "url": "https://ometria.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "world-leading providers in",
+    "url": "https://ometria.com/page/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Ometria partners with leading agencies and technology providers to help retailers achieve their ambitions and deliver marketing experiences their customers will love.",
+    "url": "https://ometria.com/page/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Our open ecosystem enables integrations with leading technology providers to enable continuous innovation and value for our retail clients. Our technology partners are trusted, proven and best of breed.",
+    "url": "https://ometria.com/page/partners",
+    "pass": 1
+   },
+   {
+    "quote": "The iconic heritage brand used Ometria’s Retail Success Model to transform its customer retention strategy with incredible results",
+    "url": "https://ometria.com/case-studies/fred-perry",
+    "pass": 1
+   },
+   {
+    "quote": "improvement in customer reactivation rate",
+    "url": "https://ometria.com/case-studies/fred-perry",
+    "pass": 1
+   },
+   {
+    "quote": "As a result of its strong brand identity, Fred Perry has always had healthy customer acquisition, which has been its main focus. In recent years, however, it became apparent to the CRM team that they could grow the brand further by targeting customer retention. By focusing on its VIP customers, the team theorized that they could transform Fred Perry’s customer retention.",
+    "url": "https://ometria.com/case-studies/fred-perry",
+    "pass": 1
+   },
+   {
+    "quote": "The Retail Success Model – Ometria’s unique approach",
+    "url": "https://ometria.com/case-studies/fred-perry",
+    "pass": 1
+   },
+   {
+    "quote": "“The marketing plan really brought into focus what we needed to do. Before this, our approach was more about spread-betting, trying lots of things to see what worked” said Marni. “But Ometria’s Retail Success team showed us that if we improved certain metrics, the commercial gains we would see would be significant.”",
+    "url": "https://ometria.com/case-studies/fred-perry",
+    "pass": 1
+   },
+   {
+    "quote": "The Ometria team demonstrated how various marketing campaigns could improve different metrics. For example, how increasing active customer and subscriber rates by just 5% could have a massive impact on customer retention. These milestones gave Fred Perry clear objectives on how to improve customer retention that the whole business could get behind.",
+    "url": "https://ometria.com/case-studies/fred-perry",
+    "pass": 1
+   },
+   {
+    "quote": "Focusing on retention and loyalty",
+    "url": "https://ometria.com/case-studies/fred-perry",
+    "pass": 1
+   },
+   {
+    "quote": "The team was able to use Ometria’s product recommendation tools throughout their automation campaigns, featuring recommendations based on customers’ browsing behavior or category affinity. On top of this, the team is able to communicate to VIP customers whenever there is an event at their local store, allowing them to align the online and offline experience.",
+    "url": "https://ometria.com/case-studies/fred-perry",
+    "pass": 1
+   },
+   {
+    "quote": "“We appreciate the freedom and visibility that we get with the Ometria platform, as well as how far we are able to segment our customer base.” said Rita Cruz, Digital Marketing Executive at Fred Perry. “Building campaigns is easy and intuitive in Ometria, and we are easily able to build some really complex and personalized customer journeys.”",
+    "url": "https://ometria.com/case-studies/fred-perry",
+    "pass": 1
+   },
+   {
+    "quote": "By implementing many of Ometria’s recommendations and focusing closely on customer retention, Fred Perry has been able to increase its 12-month customer repeat rate by 18%. Furthermore, customer reactivation rate has improved by 22%. All of which is contributing to an overall yearly revenue increase of 24%.",
+    "url": "https://ometria.com/case-studies/fred-perry",
+    "pass": 1
+   },
+   {
+    "quote": "\"Since joining Ometria, our marketing team have really become unstuck. Not only do they finally trust the data, but we can get twice as much done as we could before.\"",
+    "url": "https://ometria.com/case-studies/fred-perry",
+    "pass": 1
+   },
+   {
+    "quote": "“The insight really is gold dust to us right now. The projections are powerful and eye opening, the objectives are clear with an achievable roadmap.”",
+    "url": "https://ometria.com/case-studies/fred-perry",
+    "pass": 1
+   },
+   {
+    "quote": "Join industry leaders in choosing Ometria to power your customer marketing.",
+    "url": "https://ometria.com/case-studies/fred-perry",
+    "pass": 1
+   },
+   {
+    "quote": "Director of DTC Retention Marketing & CRM at Steve Madden",
+    "url": "https://ometria.com/case-studies/steve-madden",
+    "pass": 1
+   },
+   {
+    "quote": "With this newfound understanding, Steve Madden orchestrates and executes campaigns across email, SMS, push and social channels all from the same single interface where customer profiles are unified, Ometria’s CDXP.",
+    "url": "https://ometria.com/case-studies/steve-madden",
+    "pass": 1
+   },
+   {
+    "quote": "Watch the Video Case Study",
+    "url": "https://ometria.com/case-studies/steve-madden",
+    "pass": 1
+   },
+   {
+    "quote": "Director of DTC Retention Marketing & CRM",
+    "url": "https://ometria.com/case-studies/steve-madden",
+    "pass": 1
+   },
+   {
+    "quote": "\"Ometria's predictive segmentation tool has allowed us to enhance segmentation based on a complex algorithm, and these results are very exciting to see!\"",
+    "url": "https://ometria.com/case-studies/steve-madden",
+    "pass": 1
+   },
+   {
+    "quote": "“The insight really is gold dust to us right now. The projections are powerful and eye opening, the objectives are clear with an achievable roadmap.”",
+    "url": "https://ometria.com/case-studies/steve-madden",
+    "pass": 1
+   },
+   {
+    "quote": "Join industry leaders in choosing Ometria to power your customer marketing.",
+    "url": "https://ometria.com/case-studies/steve-madden",
+    "pass": 1
+   },
+   {
+    "quote": "\"Ometria's predictive segmentation tool has allowed us to enhance segmentation based on a complex algorithm, and these results are very exciting to see!\"",
+    "url": "https://ometria.com/case-studies/sephora",
+    "pass": 1
+   },
+   {
+    "quote": "Always at the forefront of latest trends, Sephora’s unique shopping experience offers beauty clients across the world an unparalleled choice of skincare, makeup, fragrance and haircare from top brands. Sephora is present in 35 countries with over 2,600 stores, most recently expanding into the UK.",
+    "url": "https://ometria.com/case-studies/sephora",
+    "pass": 1
+   },
+   {
+    "quote": "After nearly two decades without the beloved beauty brand, dreams came true in September 2021 when Sephora announced the acquisition of Feelunique to regain their presence in the United Kingdom.",
+    "url": "https://ometria.com/case-studies/sephora",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Customer Marketing at Sephora UK",
+    "url": "https://ometria.com/case-studies/sephora",
+    "pass": 1
+   },
+   {
+    "quote": "Amy Smith, Head of Customer Marketing at Sephora UK, and her team planned, executed and analyzed every single detail in coordination with Ometria’s project management, technical support, implementation and deliverability teams.",
+    "url": "https://ometria.com/case-studies/sephora",
+    "pass": 1
+   },
+   {
+    "quote": "First, they defined clear objectives that informed every step of the rebrand process:",
+    "url": "https://ometria.com/case-studies/sephora",
+    "pass": 1
+   },
+   {
+    "quote": "2. Established a timeline that allowed for thorough communication to customers and building sender reputation with mailbox providers",
+    "url": "https://ometria.com/case-studies/sephora",
+    "pass": 1
+   },
+   {
+    "quote": ", Sephora didn’t take any shortcuts and spent over 3 weeks segmenting according to the tailored plans Ometria provided to optimize deliverability across their new domains.",
+    "url": "https://ometria.com/case-studies/sephora",
+    "pass": 1
+   },
+   {
+    "quote": "Sephora relied heavily on Ometria’s dashboards to track customer’s reaction to the rebrand. Of course monitoring traditional KPIs is important, but looking at metrics such as open and click rate per mailbox provider becomes critical so that remediation efforts for any deliverability issues can be swift and targeted.",
+    "url": "https://ometria.com/case-studies/sephora",
+    "pass": 1
+   },
+   {
+    "quote": "The next email in the sequence gathered those results and shared them with customers; cleverly using user generated content to create incredibly authentic and organic excitement about the rebrand. In addition, the content of the email addressed questions submitted by customers ensuring that any confusion about the brand experience, for example the loyalty program, was resolved.",
+    "url": "https://ometria.com/case-studies/sephora",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Customer Marketing, Sephora UK",
+    "url": "https://ometria.com/case-studies/sephora",
+    "pass": 1
+   },
+   {
+    "quote": "We wanted to make sure that our customers didn’t feel like our announcement was a one-way communication to them, so we created multiple opportunities to engage and represent them in the conversation wherever possible, and the response we got was incredible.\"",
+    "url": "https://ometria.com/case-studies/sephora",
+    "pass": 1
+   },
+   {
+    "quote": "\"If you can gather data on who your customers are shopping for, that allows for future-proofing and retention.\"",
+    "url": "https://ometria.com/case-studies/sephora",
+    "pass": 1
+   },
+   {
+    "quote": "‘Being able to see a whole customer profile in Ometria is so powerful’",
+    "url": "https://ometria.com/case-studies/sephora",
+    "pass": 1
+   },
+   {
+    "quote": "\"This campaign has been really successful for us. It was an idea that we had as a team, but we couldn’t have done it without the insights and functionality the Ometria platform gave us. On top of that, we were able to use highly personalized product recommendations using the Ometria recommendation engine. We’re delighted with the results of this campaign.\"",
+    "url": "https://ometria.com/case-studies/sephora",
+    "pass": 1
+   },
+   {
+    "quote": "\"Using Ometria has had a significant impact on our ability to send relevant marketing messages to our customers and allowed us to make the business case for further investment in the CRM strategy.”",
+    "url": "https://ometria.com/case-studies/sephora",
+    "pass": 1
+   },
+   {
+    "quote": "“The insight really is gold dust to us right now. The projections are powerful and eye opening, the objectives are clear with an achievable roadmap.”",
+    "url": "https://ometria.com/case-studies/sephora",
+    "pass": 1
+   },
+   {
+    "quote": "Join industry leaders in choosing Ometria to power your customer marketing.",
+    "url": "https://ometria.com/case-studies/sephora",
+    "pass": 1
+   },
+   {
+    "quote": "improvement in customer lifetime value year over year",
+    "url": "https://ometria.com/case-studies/hotel-chocolat",
+    "pass": 1
+   },
+   {
+    "quote": "Luxury British cacao grower and chocolatier Hotel Chocolat was founded in 2004 to make exciting chocolate with three guiding principles – authenticity, originality and ethics – that remain central to the brand’s success today.",
+    "url": "https://ometria.com/case-studies/hotel-chocolat",
+    "pass": 1
+   },
+   {
+    "quote": "With its Rabot Estate cacao farm, hotel restaurant and bar on the Caribbean Island of Saint Lucia, a chocolate manufacturing facility in Cambridgeshire and stores located across the UK and internationally, Hotel Chocolat occupies a unique space – being able to link all aspects of chocolate from the tree to the consumer.",
+    "url": "https://ometria.com/case-studies/hotel-chocolat",
+    "pass": 1
+   },
+   {
+    "quote": "Hotel Chocolat knows how important taste is, and that’s not just when it comes to their chocolate. Taste is at the center of everything they do, whether it’s their strong, sustainable, ethical brand identity, their mantra of ‘more cocoa, less sugar’, or their highly personalized approach to marketing experiences.",
+    "url": "https://ometria.com/case-studies/hotel-chocolat",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Ometria combines a specialist retail customer data platform with cross-channel experience orchestration and delivery, for teams to move fast and grow revenue faster.",
+    "url": "https://ometria.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Ometria are very much part of the CRM team. We work with them on our strategies, we work with them on new ideas and opportunities, and frankly, without them we wouldn’t be able to deliver what we do.\"",
+    "url": "https://ometria.com/",
+    "pass": 1
+   },
+   {
+    "quote": "growth in email contribution to online revenue year over year",
+    "url": "https://ometria.com/",
+    "pass": 1
+   },
+   {
+    "quote": "increase in revenue from automated campaigns",
+    "url": "https://ometria.com/",
+    "pass": 1
+   },
+   {
+    "quote": "increase in broadcast email-attributed revenue",
+    "url": "https://ometria.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "growth in email contribution to online revenue year over year",
+    "url": "https://ometria.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Increase in revenue from returning customers",
+    "url": "https://ometria.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "uplift in revenue per email",
+    "url": "https://ometria.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "rise in overall online revenue",
+    "url": "https://ometria.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "increase in revenue per contact for lapsed one-time purchasers",
+    "url": "https://ometria.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "increase in revenue from automated campaigns",
+    "url": "https://ometria.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "increase in overall yearly revenue",
+    "url": "https://ometria.com/case-studies/fred-perry",
+    "pass": 1
+   },
+   {
+    "quote": "As a result of its strong brand identity, Fred Perry has always had healthy customer acquisition, which has been its main focus. In recent years, however, it became apparent to the CRM team that they could grow the brand further by targeting customer retention. By focusing on its VIP customers, the team theorized that they could transform Fred Perry’s customer retention.",
+    "url": "https://ometria.com/case-studies/fred-perry",
+    "pass": 1
+   },
+   {
+    "quote": "As part of this new focus, Fred Perry wanted to go on a journey to really understand its customers, particularly those VIP customers that buy multiple times. That’s where Ometria and its Retail Success Model came in.",
+    "url": "https://ometria.com/case-studies/fred-perry",
+    "pass": 1
+   },
+   {
+    "quote": "One of the next steps for the Fred Perry team is to expand and understand social audiences further, and explore using SMS as part of their campaigns in certain territories.",
+    "url": "https://ometria.com/case-studies/fred-perry",
+    "pass": 1
+   },
+   {
+    "quote": "By implementing many of Ometria’s recommendations and focusing closely on customer retention, Fred Perry has been able to increase its 12-month customer repeat rate by 18%. Furthermore, customer reactivation rate has improved by 22%. All of which is contributing to an overall yearly revenue increase of 24%.",
+    "url": "https://ometria.com/case-studies/fred-perry",
+    "pass": 1
+   },
+   {
+    "quote": "rise in overall online revenue",
+    "url": "https://ometria.com/case-studies/fred-perry",
+    "pass": 1
+   },
+   {
+    "quote": "uplift in revenue per email",
+    "url": "https://ometria.com/case-studies/fred-perry",
+    "pass": 1
+   },
+   {
+    "quote": "\"Ometria are very much part of the CRM team. We work with them on our strategies, we work with them on new ideas and opportunities, and frankly, without them we wouldn’t be able to deliver what we do.\"",
+    "url": "https://ometria.com/case-studies/steve-madden",
+    "pass": 1
+   },
+   {
+    "quote": "growth in email contribution to online revenue year over year",
+    "url": "https://ometria.com/case-studies/steve-madden",
+    "pass": 1
+   },
+   {
+    "quote": "uplift in revenue per email",
+    "url": "https://ometria.com/case-studies/sephora",
+    "pass": 1
+   },
+   {
+    "quote": "After nearly two decades without the beloved beauty brand, dreams came true in September 2021 when Sephora announced the acquisition of Feelunique to regain their presence in the United Kingdom.",
+    "url": "https://ometria.com/case-studies/sephora",
+    "pass": 1
+   },
+   {
+    "quote": "increase in revenue from automated campaigns",
+    "url": "https://ometria.com/case-studies/sephora",
+    "pass": 1
+   },
+   {
+    "quote": "\"Ometria are very much part of the CRM team. We work with them on our strategies, we work with them on new ideas and opportunities, and frankly, without them we wouldn’t be able to deliver what we do.\"",
+    "url": "https://ometria.com/case-studies/hotel-chocolat",
+    "pass": 1
+   },
+   {
+    "quote": "growth in email contribution to online revenue year over year",
+    "url": "https://ometria.com/case-studies/hotel-chocolat",
+    "pass": 1
+   },
+   {
+    "quote": "One of the big strategic focuses the CRM team have as a result of this phenomenal growth is retaining these newly acquired customers, and reactivating those who haven’t purchased in a while.",
+    "url": "https://ometria.com/case-studies/hotel-chocolat",
+    "pass": 1
+   },
+   {
+    "quote": "increase in revenue from automated campaigns",
+    "url": "https://ometria.com/case-studies/hotel-chocolat",
+    "pass": 1
+   },
+   {
+    "quote": "increase in revenue from automated campaigns",
+    "url": "https://ometria.com/case-studies/interflora",
+    "pass": 1
+   },
+   {
+    "quote": "Interflora is a network of 900 florists across the UK and Ireland, delivering hand-crafted flower arrangements from local artisan florists to customers. Its retail calendar is dominated by 3 main peaks: Christmas, Mother’s Day and Valentine’s Day. Interflora wanted to further support its community of florists by improving its customer retention rate outside of these peak times.",
+    "url": "https://ometria.com/case-studies/interflora",
+    "pass": 1
+   },
+   {
+    "quote": "Ometria’s Retail Success team performed an audit of Interflora’s customer data to identify opportunities. The Retail Success Model is a series of four proprietary AI algorithms that have been trained on over 20 billion retail customer touchpoints, designed to uncover revenue opportunities for CRM teams to grow their businesses.",
+    "url": "https://ometria.com/case-studies/interflora",
+    "pass": 1
+   },
+   {
+    "quote": "\"Ometria are very much part of the CRM team. We work with them on our strategies, we work with them on new ideas and opportunities, and frankly, without them we wouldn’t be able to deliver what we do.\"",
+    "url": "https://ometria.com/case-studies/interflora",
+    "pass": 1
+   },
+   {
+    "quote": "growth in email contribution to online revenue year over year",
+    "url": "https://ometria.com/case-studies/interflora",
+    "pass": 1
+   },
+   {
+    "quote": "\"With Al driven insights, segmentation capabilities, and a centralized dashboard, retail organizations have real- time access to valuable insights needed to create and deliver impactful and efficient campaigns, leading to stronger customer relationships and increased revenue\"",
+    "url": "https://ometria.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Owned-channel revenue is",
+    "url": "https://atlas.ometria.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Grow revenue from owned channels.",
+    "url": "https://atlas.ometria.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Ask anything about your performance, your customers, your revenue – get a trusted answer, instantly.",
+    "url": "https://atlas.ometria.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Why did revenue from VIP customers dip last week?",
+    "url": "https://atlas.ometria.com/",
+    "pass": 3
+   },
+   {
+    "quote": "VIP revenue · last 30d",
+    "url": "https://atlas.ometria.com/",
+    "pass": 3
+   },
+   {
+    "quote": "One agreed definition of revenue, retention, lifetime value – used everywhere.",
+    "url": "https://atlas.ometria.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Fred Perry boosts yearly revenue by 24% with Ometria",
+    "url": "https://www.casestudies.com/company/ometria/case-study/fred-perry-boosts-yearly-revenue-by-24-with-ometria",
+    "pass": 3
+   },
+   {
+    "quote": "Fred Perry, an iconic heritage fashion brand, faced the challenge of shifting its focus from customer acquisition to improving customer retention. To address this, they partnered with Ometria and utilized its Retail Success Model, a unique approach that provides a customized marketing action plan based on performance audits and industry benchmarks.",
+    "url": "https://www.casestudies.com/company/ometria/case-study/fred-perry-boosts-yearly-revenue-by-24-with-ometria",
+    "pass": 3
+   },
+   {
+    "quote": "Victoria Beckham, a British fashion house, faced the challenge of moving beyond a focus on customer acquisition to foster long-term loyalty. They needed to provide an exceptional, cohesive customer experience across all touchpoints. This need coincided with the major opportunity presented by the David Beckham Netflix documentary to engage a new, wider audience.",
+    "url": "https://www.casestudies.com/company/ometria/case-study/victoria-beckham-boosts-reactivated-customers-by-26-with-ometria",
+    "pass": 3
+   },
+   {
+    "quote": "Ometria Revenue 2024: $31M Est., $71.6M Raised",
+    "url": "https://getlatka.com/companies/ometria",
+    "pass": 3
+   },
+   {
+    "quote": "Ometria has not published its revenue. GetLatka estimates it at about $31M a year (June 2024).",
+    "url": "https://getlatka.com/companies/ometria",
+    "pass": 3
+   },
+   {
+    "quote": "All 2 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/ometria",
+    "pass": 3
+   },
+   {
+    "quote": "Ometria CEO, founders & employees",
+    "url": "https://getlatka.com/companies/ometria",
+    "pass": 3
+   },
+   {
+    "quote": "Ivan Mazour founded Ometria in 2013 and runs it as CEO. Ometria had 141 employees (October 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/ometria",
+    "pass": 3
+   },
+   {
+    "quote": "What is Ometria's revenue?",
+    "url": "https://getlatka.com/companies/ometria",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Ometria's revenue at about",
+    "url": "https://getlatka.com/companies/ometria",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Ometria have?",
+    "url": "https://getlatka.com/companies/ometria",
+    "pass": 3
+   },
+   {
+    "quote": "employees in October 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/ometria",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/ometria",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/ometria",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/ometria",
+    "pass": 3
+   },
+   {
+    "quote": "Ometria Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/ometria-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Ometria",
+    "url": "https://prospeo.io/c/ometria-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/ometria-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "With Al driven insights, segmentation capabilities, and a centralized dashboard, retail organizations have real-time access to valuable insights needed to create and deliver impactful and efficient campaigns, leading to stronger customer relationships and increased revenue.",
+    "url": "https://prospeo.io/c/ometria-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/ometria-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/ometria-revenue",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "From email to SMS, on-site to in-store, social audiences to app push and beyond – Ometria powers experiences that customers love across every touchpoint.",
+    "url": "https://ometria.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"As soon as we got the keys to the platform, we were just able to immediately manage, execute and sync audiences across our email, SMS, push and even social campaigns.\"",
+    "url": "https://ometria.com/",
+    "pass": 1
+   },
+   {
+    "quote": "uplift in AOV from email channel",
+    "url": "https://ometria.com/",
+    "pass": 1
+   },
+   {
+    "quote": "growth in email contribution to online revenue year over year",
+    "url": "https://ometria.com/",
+    "pass": 1
+   },
+   {
+    "quote": "increase in broadcast email-attributed revenue",
+    "url": "https://ometria.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "uplift in AOV from email channel",
+    "url": "https://ometria.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "growth in email contribution to online revenue year over year",
+    "url": "https://ometria.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "uplift in revenue per email",
+    "url": "https://ometria.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "uplift in revenue per email",
+    "url": "https://ometria.com/case-studies/fred-perry",
+    "pass": 1
+   },
+   {
+    "quote": "With this newfound understanding, Steve Madden orchestrates and executes campaigns across email, SMS, push and social channels all from the same single interface where customer profiles are unified, Ometria’s CDXP.",
+    "url": "https://ometria.com/case-studies/steve-madden",
+    "pass": 1
+   },
+   {
+    "quote": "“Oh, it’s so easy. As soon as we got the keys to the platform, we were just able to immediately manage, execute and sync audiences across our email, SMS, push and even social campaigns. All through Ometria, we’re able to get a much clearer picture of the customer psyche and overall customer lifecycle.”",
+    "url": "https://ometria.com/case-studies/steve-madden",
+    "pass": 1
+   },
+   {
+    "quote": "uplift in AOV from email channel",
+    "url": "https://ometria.com/case-studies/steve-madden",
+    "pass": 1
+   },
+   {
+    "quote": "growth in email contribution to online revenue year over year",
+    "url": "https://ometria.com/case-studies/steve-madden",
+    "pass": 1
+   },
+   {
+    "quote": "uplift in revenue per email",
+    "url": "https://ometria.com/case-studies/sephora",
+    "pass": 1
+   },
+   {
+    "quote": "uplift in AOV from the email channel",
+    "url": "https://ometria.com/case-studies/sephora",
+    "pass": 1
+   },
+   {
+    "quote": "The first email introducing the rebrand included a call-to-action asking customers to share their feelings about Sephora coming to the UK. The “Tell All” button linked to a survey with checkbox, multiple choice and open-ended questions.",
+    "url": "https://ometria.com/case-studies/sephora",
+    "pass": 1
+   },
+   {
+    "quote": "The next email in the sequence gathered those results and shared them with customers; cleverly using user generated content to create incredibly authentic and organic excitement about the rebrand. In addition, the content of the email addressed questions submitted by customers ensuring that any confusion about the brand experience, for example the loyalty program, was resolved.",
+    "url": "https://ometria.com/case-studies/sephora",
+    "pass": 1
+   },
+   {
+    "quote": "From the subject line all the way down to the discount “below the fold”, the third email in the sequence created a sense of nostalgia while committing to keeping the best of Feelunique with the transition to Sephora.",
+    "url": "https://ometria.com/case-studies/sephora",
+    "pass": 1
+   },
+   {
+    "quote": "Finally, the last email in the sequence completed the full transition to Sephora UK, including the “Friendly From”.",
+    "url": "https://ometria.com/case-studies/sephora",
+    "pass": 1
+   },
+   {
+    "quote": "growth in email contribution to online revenue year over year",
+    "url": "https://ometria.com/case-studies/hotel-chocolat",
+    "pass": 1
+   },
+   {
+    "quote": "Ometria supports Hotel Chocolat in delivering relevant, tailored content and messaging at every touchpoint. Using exclusion rules and frequency capping within the platform, the CRM team can ensure that broadcast and automation emails are targeted just to relevant customers, and they deliver a truly balanced CRM strategy.",
+    "url": "https://ometria.com/case-studies/hotel-chocolat",
+    "pass": 1
+   },
+   {
+    "quote": "uplift in AOV from email channel",
+    "url": "https://ometria.com/case-studies/hotel-chocolat",
+    "pass": 1
+   },
+   {
+    "quote": "“We were taking a very ‘batch and blast’ approach to our email marketing,” said Laura Hickey, Senior CRM Manager at Interflora. “At best, we were grouping customers based on how recently they’d shopped with us. On top of that we were focused on broadcast sends, and we hadn’t been able to bring much automation in to our process.”",
+    "url": "https://ometria.com/case-studies/interflora",
+    "pass": 1
+   },
+   {
+    "quote": "As well, Interflora could start to use customer segments built in Ometria’s platform to supplement its direct mail campaigns. By matching these audiences, Interflora can send relevant follow-up emails to those customers who receive the direct mail campaigns. This allows Interflora to maximize the return on the direct mail campaign.",
+    "url": "https://ometria.com/case-studies/interflora",
+    "pass": 1
+   },
+   {
+    "quote": "\"As soon as we got the keys to the platform, we were just able to immediately manage, execute and sync audiences across our email, SMS, push and even social campaigns.\"",
+    "url": "https://ometria.com/case-studies/interflora",
+    "pass": 1
+   },
+   {
+    "quote": "growth in email contribution to online revenue year over year",
+    "url": "https://ometria.com/case-studies/interflora",
+    "pass": 1
+   },
+   {
+    "quote": "Email (87%)",
+    "url": "https://atlas.ometria.com/",
+    "pass": 3
+   },
+   {
+    "quote": ". Email engagement is down",
+    "url": "https://atlas.ometria.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Saas, Online Retail, Customer Insight, Retail, Artificial Intelligence, Ecommerce Marketing, Single Customer View, Triggered Email",
+    "url": "https://prospeo.io/c/ometria-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/ometria-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/62117-38",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Ometria partners with leading agencies and technology providers to help retailers achieve their ambitions and deliver marketing experiences their customers will love.",
+    "url": "https://ometria.com/page/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We partner with full service agencies, systems integrators and CRM consultants to ensure our retailers are supported by the most experienced advisors for all their e-commerce needs.",
+    "url": "https://ometria.com/page/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Explore our agency partners",
+    "url": "https://ometria.com/page/partners",
+    "pass": 1
+   },
+   {
+    "quote": "In October 2022, Sephora and Ometria worked together to pull off an incredibly successful rebrand which fully integrated Feelunique UK into Sephora; introducing Sephora to the UK market.",
+    "url": "https://ometria.com/case-studies/sephora",
+    "pass": 1
+   },
+   {
+    "quote": "“Rebranding is often seen as a simple change of visual identity, but in reality, it requires a complex orchestration of multiple moving parts. Ometria’s expertise and support was invaluable to ensure a seamless transition for our customers and the success of our rebrand to Sephora UK.”",
+    "url": "https://ometria.com/case-studies/sephora",
+    "pass": 1
+   },
+   {
+    "quote": "First, they defined clear objectives that informed every step of the rebrand process:",
+    "url": "https://ometria.com/case-studies/sephora",
+    "pass": 1
+   },
+   {
+    "quote": "Communicate the rebrand to the existing Feelunique customer base in a way that feels inclusive and acknowledges the history of their relationship",
+    "url": "https://ometria.com/case-studies/sephora",
+    "pass": 1
+   },
+   {
+    "quote": "3. Put customers at the center of the rebrand experience",
+    "url": "https://ometria.com/case-studies/sephora",
+    "pass": 1
+   },
+   {
+    "quote": "4. Tracked, monitored and adjusted with every phase of the rebrand",
+    "url": "https://ometria.com/case-studies/sephora",
+    "pass": 1
+   },
+   {
+    "quote": "Sephora relied heavily on Ometria’s dashboards to track customer’s reaction to the rebrand. Of course monitoring traditional KPIs is important, but looking at metrics such as open and click rate per mailbox provider becomes critical so that remediation efforts for any deliverability issues can be swift and targeted.",
+    "url": "https://ometria.com/case-studies/sephora",
+    "pass": 1
+   },
+   {
+    "quote": "The first email introducing the rebrand included a call-to-action asking customers to share their feelings about Sephora coming to the UK. The “Tell All” button linked to a survey with checkbox, multiple choice and open-ended questions.",
+    "url": "https://ometria.com/case-studies/sephora",
+    "pass": 1
+   },
+   {
+    "quote": "The next email in the sequence gathered those results and shared them with customers; cleverly using user generated content to create incredibly authentic and organic excitement about the rebrand. In addition, the content of the email addressed questions submitted by customers ensuring that any confusion about the brand experience, for example the loyalty program, was resolved.",
+    "url": "https://ometria.com/case-studies/sephora",
+    "pass": 1
+   },
+   {
+    "quote": "\"One of the most important pieces of advice I can give is to really take your customers on the rebranding journey with you. From the teaser, to the announcement, and right through to the official launch make sure that they feel included, excited, consulted, and informed on key changes that could impact how they engage with your brand and offering.",
+    "url": "https://ometria.com/case-studies/sephora",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Watch the Video Case Study",
+    "url": "https://ometria.com/case-studies/steve-madden",
+    "pass": 1
+   },
+   {
+    "quote": "With its Rabot Estate cacao farm, hotel restaurant and bar on the Caribbean Island of Saint Lucia, a chocolate manufacturing facility in Cambridgeshire and stores located across the UK and internationally, Hotel Chocolat occupies a unique space – being able to link all aspects of chocolate from the tree to the consumer.",
+    "url": "https://ometria.com/case-studies/hotel-chocolat",
+    "pass": 1
+   },
+   {
+    "quote": "On top of this, Interflora was also able to personalize the messaging in its campaigns based on what the recipient had purchased previously. For instance, Interflora started to test whether people who bought plants previously responded better to an invitation to buy plants again or if they would prefer a more generic message.",
+    "url": "https://ometria.com/case-studies/interflora",
+    "pass": 1
+   },
+   {
+    "quote": "Agents clean and unify data, inside the warehouse and beyond.",
+    "url": "https://atlas.ometria.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Turns heavy warehouse tables into LLM-ready context, with PII encryption built in.",
+    "url": "https://atlas.ometria.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ATLAS keeps your warehouse AI-ready continuously, not in a one-off project.",
+    "url": "https://atlas.ometria.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Fred Perry boosts customer retention with Ometria | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/ometria/case-study/fred-perry-boosts-yearly-revenue-by-24-with-ometria",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Fred Perry boosts customer retention with Ometria",
+    "url": "https://www.casestudies.com/company/ometria/case-study/fred-perry-boosts-yearly-revenue-by-24-with-ometria",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/ometria/case-study/fred-perry-boosts-yearly-revenue-by-24-with-ometria",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/ometria/case-study/fred-perry-boosts-yearly-revenue-by-24-with-ometria",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Victoria Beckham boosts customer loyalty and conversion with Ometria | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/ometria/case-study/victoria-beckham-boosts-reactivated-customers-by-26-with-ometria",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Victoria Beckham boosts customer loyalty and conversion with Ometria",
+    "url": "https://www.casestudies.com/company/ometria/case-study/victoria-beckham-boosts-reactivated-customers-by-26-with-ometria",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/ometria/case-study/victoria-beckham-boosts-reactivated-customers-by-26-with-ometria",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/ometria/case-study/victoria-beckham-boosts-reactivated-customers-by-26-with-ometria",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Ecommerce stores using Ometria in Japan",
+    "url": "https://storeleads.app/reports/technology/Ometria/country/JP",
+    "pass": 3
+   },
+   {
+    "quote": "Ometria is currently installed on 3 ecommerce stores in Japan.",
+    "url": "https://storeleads.app/reports/technology/Ometria/country/JP",
+    "pass": 3
+   },
+   {
+    "quote": "Here are the top 3 stores in Japan running Ometria ordered by store rank.",
+    "url": "https://storeleads.app/reports/technology/Ometria/country/JP",
+    "pass": 3
+   },
+   {
+    "quote": "Here is the ecommerce platform breakdown for stores in Japan with Ometria installed.",
+    "url": "https://storeleads.app/reports/technology/Ometria/country/JP",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Ometria | Home — Ometria combines a specialist retail customer data platform with cross-channel experience orchestration and delivery, for teams to move fast and grow revenue faster.",
+    "url": "https://ometria.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Ecommerce stores using Ometria in Japan - storeleads.app — Ometria is the customer marketing platform for retail. Get more information from the Ometria website. Ometria is currently installed on 4 ecommerce stores in Japan. In this report, we'll cover the following statistics on usage of Ometria on ecommerce stores.",
+    "url": "https://storeleads.app/reports/technology/Ometria/country/JP",
+    "pass": 3
+   },
+   {
+    "quote": "Ometria のマーケティングチームがカスタマーエクスペリエンスを強化... — 企業は膨大な量のデータを収集しています。 データを実利的なインサイトに変えることには課題があります。 Ometria が Datalore を活用し、その課題をどのように克服したかをご紹介します。",
+    "url": "https://www.jetbrains.com/ja-jp/company/customers/experience/ometria/",
+    "pass": 3
+   },
+   {
+    "quote": "Ometria - LinkedIn 日本 — 概要 Ometria is the first and only customer data experience platform (CDXP) built for retail brands. We're proud to help brands create marketing experiences their customers love every day. We...",
+    "url": "https://jp.linkedin.com/company/ometria",
+    "pass": 3
+   },
+   {
+    "quote": "Ometria | Solution — Ometria is the only CDXP built exclusively for retail. Our specialist platform combines the data consolidation and insight of a customer data platform with comprehensive cross-channel experience delivery.",
+    "url": "https://ometria.com/solution",
+    "pass": 3
+   },
+   {
+    "quote": "Ometria | Customer Intelligence & Personalization Platform — Ometria captures behavioral signals across browsing, purchases, messaging, and engagement to create a unified customer profile in real time. Behavior, preferences, and purchase history come together to power smarter personalization, segmentation, and marketing decisions.",
+    "url": "https://ometria-uk.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ATLAS – the AI layer for your data and decisioning | Ometria — ATLAS – the AI layer for your data and decisioning | Ometria Error: missing bundle data",
+    "url": "https://atlas.ometria.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Ometria | LinkedIn — Ometria is the first and only customer data experience platform (CDXP) built for retail brands. We're proud to help brands create marketing experiences their customers love every day. We believe...",
+    "url": "https://jp.linkedin.com/company/ometria",
+    "pass": 3
+   },
+   {
+    "quote": "Ometria | Case Studies — \"We wanted to consolidate our technology so that we could simplify it, and test and adapt to what our customer needs.\"",
+    "url": "https://ometria.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Fred Perry boosts customer retention with Ometria — Fred Perry (Apparel & Fashion) partnered with Ometria (Internet) to solve key challenges. \"Fred Perry boosts yearly revenue by 24% with Ometria\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/ometria/case-study/fred-perry-boosts-yearly-revenue-by-24-with-ometria",
+    "pass": 3
+   },
+   {
+    "quote": "Holt Renfrew x Ometria — At Holt Renfrew, AI-driven innovation is opening the door for a new era of customer connection. With Ometria’s proprietary predictive algorithms trained exclusively on retail data, the team can anticipate what customers need, often before they even know it themselves.",
+    "url": "https://ometria.com/case-studies/holt-renfrew",
+    "pass": 3
+   },
+   {
+    "quote": "32 Ometria Case Studies, Success Stories, & Customer StoriesOmetria Case Study | Product Team & Leadership Post-Series B ...Case study - Ometria - mubco.net — Discover how other companies use Ometria, get inspired, and find ways to improve your business. Following Ometria's $40m Series C, the team needed to transition from Founder-led to product, data, insights, and customer-led. This entailed hir",
+    "url": "https://www.featuredcustomers.com/vendor/ometria/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Ometria Revenue 2024: $31M Est. ARR, $71.6M Raised - LATKA — Aug 10, 2026 · Ometria 2024 estimated revenue: $31M ARR (up from $3.2M in 2019). Total funding: $71.6M across 7 rounds. 141 employees. Founded 2013 Updated Aug 10, 2026.",
+    "url": "https://getlatka.com/companies/ometria",
+    "pass": 3
+   },
+   {
+    "quote": "Ometria Revenue, Funding & Valuation - prospeo.io — Ometria has raised a total of $9,900,000 across 1 funding rounds. This investment has helped the company grow and expand its operations. Ometria has revenue of $20,000,000, estimated valuation of $64,000,000, $9,900,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/ometria-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Ometria 2026 Company Profile: Valuation, Funding & Investors ...Ometria Technologies - 2025 Company Profile, Team, Funding ...Ometria – Valuation, Revenue & Market Scope – 2026 – LondonOmetria: Funding, Investors & Team (Nov 2026) | FundedIQOmetria: Funding, Team & Investors | Startup Intros — Information on valuation, funding, acquisitions, investors, and executives for Ometria. Use the PitchBook",
+    "url": "https://pitchbook.com/profiles/company/62117-38",
+    "pass": 3
+   },
+   {
+    "quote": "Ometria Technologies - 2025 Company Profile, Team, Funding ... — Oct 1, 2025 · Ometria Technologies is a series C company based in United Kingdom, founded in 2013 by Djalal Lougouev, James Dunford Wood and Alastair James. It operates as a Provider of customer data platform for online retailers.",
+    "url": "https://tracxn.com/d/companies/ometria-technologies/__cU7HlKh8dqBeubFP31-JM_q6AGL48SQgogu4x_-XvfU",
+    "pass": 3
+   },
+   {
+    "quote": "Ometria – Valuation, Revenue & Market Scope – 2026 – London — Ometria’s total disclosed funding to date is $79M. The team size at Ometria is estimated to be around 100+. Ometria grew their employee count by 16% last year. The competitive landscape includes 15 similar companies vying for market share. Ometria expanded its team by 16% over the tracked period.",
+    "url": "https://compworth.com/company/ometria",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Ometria - LinkedIn Ometria is the first and only customer data experience platform (CDXP) built for retail brands. We're proud to help brands create marketing experiences their customers love every day.",
+    "url": "https://www.linkedin.com/company/ometria",
+    "pass": 3
+   },
+   {
+    "quote": "Ometria - LinkedIn Ometria is the first and only customer data experience platform (CDXP) built for retail brands. We're proud to help brands create marketing experiences their customers love every day.",
+    "url": "https://uk.linkedin.com/company/ometria",
+    "pass": 3
+   },
+   {
+    "quote": "Djalal Lougouev - CEO of Ometria | LinkedInIvan Mazour - Ometria | LinkedInJacob Buckland - GM @ Ometria | LinkedInJoshua Pierson - Business Development Director at Ometria ...Lida Wells - Manager, Customer Success North America ... About Djalal Lougouev is the CEO and co-founder of Ometria, a customer intelligence and decisioning platform for large consumer brands. About Ivan Mazour is the Founde",
+    "url": "https://www.linkedin.com/in/djalallougouev",
+    "pass": 3
+   },
+   {
+    "quote": "Ivan Mazour - Ometria | LinkedInJacob Buckland - GM @ Ometria | LinkedInJoshua Pierson - Business Development Director at Ometria ...Lida Wells - Manager, Customer Success North America ... About Ivan Mazour is the Founder of Ometria, a Customer Data and Experience Platform which… GM @ Ometria · Experience: Ometria · Location: London · 500+ connections on LinkedIn. View Jacob Buckland’s profile on",
+    "url": "https://uk.linkedin.com/in/ivanmazour",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "FacebookOmetri Ell - FacebookCan I do an api call from facebook lead gen ad to create ...Ometria Amya - FacebookOmetria Andrews - FacebookOmetria - NEW BLOGPOST Timing is everything and nothing...Ometria - How do you send broadcasts that feel like they ... Facebook ... Facebook Aug 31, 2026 · Ometri Ell. 3,617 followers · 22 talking about this. Digital creator Hi, Im trying to explore if facebook ",
+    "url": "https://www.facebook.com/ometria/",
+    "pass": 3
+   },
+   {
+    "quote": "Can I do an api call from facebook lead gen ad to create ... Hi, Im trying to explore if facebook can do an API call to connect to our CRM, ometria. When facebook lead signs up on a lead generation ad form, I want to create a contact/ update and overide a contact field e.g. contact subscription status. from unsub to resubscribe.",
+    "url": "https://developers.facebook.com/community/threads/680133235933448/",
+    "pass": 3
+   },
+   {
+    "quote": "Ometria Amya - Facebook Sep 11, 2026 · Ometria Amya. 8,664 followers · 51 talking about this. ig : ometriaamya",
+    "url": "https://www.facebook.com/princess.wes.7/",
+    "pass": 3
+   },
+   {
+    "quote": "Ometria Andrews - Facebook Ometria Andrews is on Facebook. Join Facebook to connect with Ometria Andrews and others you may know. Facebook gives people the power to share and makes...",
+    "url": "https://www.facebook.com/ometria.andrews/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・本文）": [
+   {
+    "quote": "Can I do an api call from facebook lead gen ad to create/ update contact to open source API CRM? - 開発者コミュニティフォーラム - Meta for Developers",
+    "url": "https://developers.facebook.com/community/threads/680133235933448/",
+    "pass": 3
+   },
+   {
+    "quote": "Can I do an api call from facebook lead gen ad to create/ update contact to open source API CRM?",
+    "url": "https://developers.facebook.com/community/threads/680133235933448/",
+    "pass": 3
+   },
+   {
+    "quote": "Im trying to explore if facebook can do an API call to connect to our CRM, ometria.",
+    "url": "https://developers.facebook.com/community/threads/680133235933448/",
+    "pass": 3
+   },
+   {
+    "quote": "When facebook lead signs up on a lead generation ad form, I want to create a contact/ update and overide a contact field e.g. contact subscription status. from unsub to resubscribe.",
+    "url": "https://developers.facebook.com/community/threads/680133235933448/",
+    "pass": 3
+   },
+   {
+    "quote": "Can you suggest a way to to this as zapier is not able to overide subscription status in Ometria CRM as it is classed a low priority ranking as opposed to API calls/ CSV import.",
+    "url": "https://developers.facebook.com/community/threads/680133235933448/",
+    "pass": 3
+   },
+   {
+    "quote": "FYI: Ometria’s standard rules of priority for contact listings are:",
+    "url": "https://developers.facebook.com/community/threads/680133235933448/",
+    "pass": 3
+   },
+   {
+    "quote": "The Ometria preference centre",
+    "url": "https://developers.facebook.com/community/threads/680133235933448/",
+    "pass": 3
+   },
+   {
+    "quote": "Importer (e.g. Magento or Shopify)",
+    "url": "https://developers.facebook.com/community/threads/680133235933448/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Ometria Allen (@Ometria) / Posts / X Apr 24, 2009 · Ometria Allen. Ometria. Joined: Apr 24, 2009. 1 Posts. 4 Following. 0 Followers. Posts. Ometria Allen. Ometria. 0. Jul 9",
+    "url": "https://x.com/Ometria",
+    "pass": 3
+   },
+   {
+    "quote": "@OmetriaData | X The latest posts from @OmetriaData",
+    "url": "https://x.com/OmetriaData",
+    "pass": 3
+   },
+   {
+    "quote": "Ometria on X: \"It’s one thing to invest across multiple ... May 9, 2022 · Ometria on X: \"It’s one thing to invest across multiple channels at once, but if you are not measuring how your customers respond to different combinations of channels and communications, then you will not provide the best experience possible. https://t.co/FaEjPhNWXy\"",
+    "url": "https://x.com/OmetriaData/status/1523649169126215680",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://ometria.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ometria.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ometria.com/page/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ometria.com/case-studies/fred-perry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ometria.com/case-studies/steve-madden",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ometria.com/case-studies/sephora",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ometria.com/case-studies/hotel-chocolat",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ometria.com/case-studies/interflora",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ometria.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ometria.com/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://storeleads.app/reports/technology/Ometria/country/JP",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetbrains.com/ja-jp/company/customers/experience/ometria/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/ometria",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%B5%E3%83%A0%E3%82%B9%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ometria-uk.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://storeleads.app/reports/technology/Ometria/country/JP",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://atlas.ometria.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.casestudies.com/company/ometria/case-study/fred-perry-boosts-yearly-revenue-by-24-with-ometria",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/ometria/case-study/victoria-beckham-boosts-reactivated-customers-by-26-with-ometria",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.remitly.com/us/en/landing/partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/ometria",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/ometria-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/62117-38",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/ometria-technologies/__cU7HlKh8dqBeubFP31-JM_q6AGL48SQgogu4x_-XvfU",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/ometria",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/company/ometria",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/djalallougouev",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/ivanmazour",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ometria/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://developers.facebook.com/community/threads/680133235933448/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.facebook.com/princess.wes.7/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ometria.andrews/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Ometria",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/OmetriaData",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/OmetriaData/status/1523649169126215680",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Ometria 日本 導入",
+   "results": [
+    "https://ometria.com/",
+    "https://storeleads.app/reports/technology/Ometria/country/JP",
+    "https://www.jetbrains.com/ja-jp/company/customers/experience/ometria/",
+    "https://jp.linkedin.com/company/ometria",
+    "https://ometria.com/solution",
+    "https://infraviacapital.com/companies/ometria/",
+    "https://techcrunchjapan.com/2021/11/13/2021-11-11-ometria-raises-40m-c-round-to-automate-crm-for-retailers/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ometria 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/日本サムスン",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.koaglobal.com/corporate/offices/distributors1",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://etria.global/en/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ometria Japan",
+   "results": [
+    "https://ometria.com/",
+    "https://ometria-uk.com/",
+    "https://storeleads.app/reports/technology/Ometria/country/JP",
+    "https://atlas.ometria.com/",
+    "https://jp.linkedin.com/company/ometria",
+    "https://www.linkedin.com/company/ometria",
+    "https://ometria.com/about"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ometria manufacturing customer case study",
+   "results": [
+    "https://ometria.com/case-studies",
+    "https://www.casestudies.com/company/ometria/case-study/fred-perry-boosts-yearly-revenue-by-24-with-ometria",
+    "https://www.casestudies.com/company/ometria/case-study/victoria-beckham-boosts-reactivated-customers-by-26-with-ometria",
+    "https://ometria.com/case-studies/holt-renfrew",
+    "https://www.featuredcustomers.com/vendor/ometria/case-studies",
+    "https://www.scene.inc/case-studies/ometria",
+    "https://mubco.net/product-cases/ometria-build-trust-in-b2b-saas.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ometria white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.remitly.com/us/en/landing/partner-program",
+    "https://partner.vw.com/partner",
+    "https://www.nextiva.com/company/partners",
+    "https://www.youtube.com/creators/earn/youtube-partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ometria founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/ometria",
+    "https://prospeo.io/c/ometria-revenue",
+    "https://pitchbook.com/profiles/company/62117-38",
+    "https://tracxn.com/d/companies/ometria-technologies/__cU7HlKh8dqBeubFP31-JM_q6AGL48SQgogu4x_-XvfU",
+    "https://compworth.com/company/ometria",
+    "https://fundediq.co/ometria-ometria-com-funding/",
+    "https://startupintros.com/orgs/ometria"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Ometria",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/tag/ギャンブル依存症",
+    "https://note.com/seigo77",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/harusamenote/n/n59a9ae8e072e",
+    "https://note.com/chikama_teppei/n/nd5b65fb5e514"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Ometria",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Ometria",
+   "results": [
+    "https://www.linkedin.com/company/ometria",
+    "https://uk.linkedin.com/company/ometria",
+    "https://www.linkedin.com/in/djalallougouev",
+    "https://uk.linkedin.com/in/ivanmazour",
+    "https://uk.linkedin.com/in/jacob-buckland-653b0880",
+    "https://www.linkedin.com/in/joshuajpierson",
+    "https://www.linkedin.com/in/lidawells"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Ometria",
+   "results": [
+    "https://www.facebook.com/ometria/",
+    "https://developers.facebook.com/community/threads/680133235933448/",
+    "https://www.facebook.com/princess.wes.7/",
+    "https://www.facebook.com/ometria.andrews/",
+    "https://www.facebook.com/ometria/posts/new-blogpost-timing-is-everything-and-nothing-is-more-true-than-with-browse-aban/1613244712138141/",
+    "https://www.facebook.com/ometria/posts/how-do-you-send-broadcasts-that-feel-like-they-have-each-customer-on-the-receivi/2087932534669354/",
+    "https://www.facebook.com/ometria.lee/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ometria note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/藤原岳史",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://diamond.jp/articles/-/388572",
+    "https://ometria.com/about",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://www.zaikai.jp/articles/detail/2552"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ometria X 投稿",
+   "results": [
+    "https://x.com/Ometria",
+    "https://x.com/OmetriaData",
+    "https://x.com/OmetriaData/status/1523649169126215680",
+    "https://ometria.com/",
+    "https://x.com/MrsOmetria",
+    "https://x.com/Ometria5",
+    "https://www.checkcharm.com/how-to/setup-twitter-with-ometria/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式10頁／PDF・画像0件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式10頁／PDF・画像0件／外部31頁・検索12回）"
+ }
+}

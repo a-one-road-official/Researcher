@@ -1,0 +1,948 @@
+{
+ "name": "Numerionlabs",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-09T23:07:44.329239+00:00",
+ "official_url": "https://www.numerionlabs.ai",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "8. Seed Round",
+    "value": "05-May-2015    Completed Pre-Clinical Trials",
+    "url": "https://pitchbook.com/profiles/company/109696-60",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Innovative Approaches in Drug Discovery Using Machine Learning",
+    "url": "https://numerionlabs.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Programs born from our superplatform deliver first- and best-in-class potential in immune and inflammatory diseases.",
+    "url": "https://numerionlabs.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Numerion Labs: Health company profile | Present of AI",
+    "url": "https://presentofai.com/spotlight/numerionlabs.ai",
+    "pass": 3
+   },
+   {
+    "quote": "https://presentofai.com/spotlight/numerionlabs.ai",
+    "url": "https://presentofai.com/spotlight/numerionlabs.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Its platform (COSMOS, APEX and EXPO, per the company) predicts which molecules out of a huge chemical space are worth making and testing for a given drug target.",
+    "url": "https://presentofai.com/spotlight/numerionlabs.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Founders with direct academic roots in exactly the technical problem, named multi-year deals with Sanofi and Eli Lilly, and a fresh Series D make a strong case for traction and fit, even after a 2025 CEO change and rebrand from Atomwise. It sells only to pharmaceutical and biotech partners, with no public trust or pricing information to review.",
+    "url": "https://presentofai.com/spotlight/numerionlabs.ai",
+    "pass": 3
+   },
+   {
+    "quote": "AI drug discovery is a crowded field with Recursion Pharmaceuticals, Insilico Medicine and BenevolentAI all selling AI-driven discovery platforms to pharma. Numerion Labs' specific stated difference is its APEX protocol, published with NVIDIA in 2025, which it says screens 10 billion compounds in under 30 seconds on a single GPU.",
+    "url": "https://presentofai.com/spotlight/numerionlabs.ai",
+    "pass": 3
+   },
+   {
+    "quote": "The product is a deep learning platform, COSMOS and APEX per the company, used to predict which molecules bind a drug target; the AI model is the core product, not a feature layered on top of a database, consistent with what the company describes as its founding as one of the first to commercialize deep neural networks in this field.",
+    "url": "https://presentofai.com/spotlight/numerionlabs.ai",
+    "pass": 3
+   },
+   {
+    "quote": "A new drug usually starts with finding a small molecule that binds tightly to a specific protein target in the body. The number of chemically possible small molecules is estimated in the billions or more, far too many to synthesize and test in a lab one at a time.",
+    "url": "https://presentofai.com/spotlight/numerionlabs.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Traditional drug discovery narrows that search with a mix of chemical intuition, known drug families and slow, expensive physical screening. Even with those shortcuts, most candidate molecules that enter testing fail, and the process from target to approved drug can take a decade or more.",
+    "url": "https://presentofai.com/spotlight/numerionlabs.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Numerion Labs' approach, building on work that traces back to 2012, is to train AI models on the relationship between chemical structure and biological activity, then use those models to predict, before any lab work, which molecules out of a huge chemical space are most worth making and testing for a given target.",
+    "url": "https://presentofai.com/spotlight/numerionlabs.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Sanofi, Eli Lilly, Bayer, Hansoh Pharmaceuticals (named R&D partners, per press coverage)",
+    "url": "https://presentofai.com/spotlight/numerionlabs.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Two signals: its COSMOS and AtomNet-derived models are trained in-house rather than a wrapper on third-party AI, and it holds named, multi-year milestone-based R&D collaborations with Sanofi (up to US$1 billion-plus, per press coverage) and Eli Lilly that lock in switching costs for years.",
+    "url": "https://presentofai.com/spotlight/numerionlabs.ai",
+    "pass": 3
+   },
+   {
+    "quote": "One clear evidenced channel: direct, multi-year research collaborations with pharmaceutical and biotech companies, shown by named deals with Sanofi, Eli Lilly and Bayer. The company publishes no public pricing, marketplace listing or self-serve path.",
+    "url": "https://presentofai.com/spotlight/numerionlabs.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Not applicable: Numerion Labs sells multi-year drug discovery collaborations to pharmaceutical and biotech companies, and there is no product an individual could try directly.",
+    "url": "https://presentofai.com/spotlight/numerionlabs.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Public material only: company site, press coverage of partnerships and leadership change. Not founder-verified.",
+    "url": "https://presentofai.com/spotlight/numerionlabs.ai",
+    "pass": 3
+   },
+   {
+    "quote": "A foundation model, per the company, trained to predict drug-relevant function directly from a molecule's chemical structure.",
+    "url": "https://presentofai.com/spotlight/numerionlabs.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Described by the company as its most advanced predictive model for linking chemical structure to drug function.",
+    "url": "https://presentofai.com/spotlight/numerionlabs.ai",
+    "pass": 3
+   },
+   {
+    "quote": "A screening system that the company says can evaluate very large numbers of candidate molecules at high speed.",
+    "url": "https://presentofai.com/spotlight/numerionlabs.ai",
+    "pass": 3
+   },
+   {
+    "quote": "For project teams tuning models to a specific drug target",
+    "url": "https://presentofai.com/spotlight/numerionlabs.ai",
+    "pass": 3
+   },
+   {
+    "quote": "A set of optimization tools the company says lets it deploy project-specific models quickly.",
+    "url": "https://presentofai.com/spotlight/numerionlabs.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Company description: aimed at faster turnaround per research programme.",
+    "url": "https://presentofai.com/spotlight/numerionlabs.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Says APEX delivers \"10-billion-fold higher screening efficiency\" than prior approaches, per the company.",
+    "url": "https://presentofai.com/spotlight/numerionlabs.ai",
+    "pass": 3
+   },
+   {
+    "quote": "For a technical AI platform selling into pharma R&D, comparative capability claims made against unnamed prior methods rather than one specific named rival are common in this field.",
+    "url": "https://presentofai.com/spotlight/numerionlabs.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Grand View Research projects the market to reach US$13.8 billion by 2033.",
+    "url": "https://presentofai.com/spotlight/numerionlabs.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Pharmaceutical and biotech companies looking for computational partners to identify small-molecule drug candidates.",
+    "url": "https://presentofai.com/spotlight/numerionlabs.ai",
+    "pass": 3
+   },
+   {
+    "quote": "PR Newswire, Oct 2025",
+    "url": "https://presentofai.com/spotlight/numerionlabs.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Numerion Labs Programs and Pipeline",
+    "url": "https://numerionlabs.ai/programs/",
+    "pass": 3
+   },
+   {
+    "quote": "APEX Protocol Enables Exhaustive Evaluation of 10 Billion Virtual Compounds in Under 30 Seconds San Francisco, CA — October 29, 2025 — Numerion Labs, an AI-native company pioneering the application of AI/ML to drug discovery, today announced the release of a research...",
+    "url": "https://numerionlabs.ai/news/",
+    "pass": 3
+   },
+   {
+    "quote": "Operator of an artificial intelligence-based biotechnology company intended to help invent new potential medicines for disease targets. The company's technology helps in drug hit discovery, binding affinity prediction, and toxicity detection, enabling scientists to discover small molecules for the treatment and investigation of human diseases.",
+    "url": "https://pitchbook.com/profiles/company/109696-60",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/109696-60",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/109696-60",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/109696-60",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/109696-60",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise Therapeutics",
+    "url": "https://pitchbook.com/profiles/company/109696-60",
+    "pass": 3
+   },
+   {
+    "quote": "Systems and methods for identifying compounds in combinatorial libraries having specific molecular properties",
+    "url": "https://pitchbook.com/profiles/company/109696-60",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/109696-60",
+    "pass": 3
+   },
+   {
+    "quote": "Not-For-Profit Venture Capital",
+    "url": "https://pitchbook.com/profiles/company/109696-60",
+    "pass": 3
+   },
+   {
+    "quote": "Numerion Labs’s primary industry is Drug Discovery.",
+    "url": "https://pitchbook.com/profiles/company/109696-60",
+    "pass": 3
+   },
+   {
+    "quote": "Is Numerion Labs a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/109696-60",
+    "pass": 3
+   },
+   {
+    "quote": "Numerion Labs is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/109696-60",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/109696-60",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/109696-60",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/109696-60",
+    "pass": 3
+   },
+   {
+    "quote": "Numerion Labs Company Profile and Key Stats",
+    "url": "https://fundediq.co/numerion-labs-numerionlabs-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact details for the Numerion Labs team: 1 has a LinkedIn profile.",
+    "url": "https://fundediq.co/numerion-labs-numerionlabs-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "HELIOS® is a technology company that assists athletes and teams in improving at a quicker pace. Through their…",
+    "url": "https://fundediq.co/numerion-labs-numerionlabs-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Tutor Intelligence is a comprehensive robotics and automation company designed to assist contract packagers.…",
+    "url": "https://fundediq.co/numerion-labs-numerionlabs-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "An AI startup that builds custom AI models and \"Specific Intelligence\" solutions for enterprises.",
+    "url": "https://fundediq.co/numerion-labs-numerionlabs-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Serval provides an AI-native IT service management platform designed to automate help desk operations, access…",
+    "url": "https://fundediq.co/numerion-labs-numerionlabs-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Ravical assists skilled firms in adopting an AI-focused approach for the future. We create AI solutions that…",
+    "url": "https://fundediq.co/numerion-labs-numerionlabs-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Broccoli provides automated phone support solutions for plumbing, HVAC, and electrical businesses, enabling…",
+    "url": "https://fundediq.co/numerion-labs-numerionlabs-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "FundedIQ tracks announced funding rounds and refreshes this profile every week. Round dates,",
+    "url": "https://fundediq.co/numerion-labs-numerionlabs-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Radar from $49/mo · Pro from $149/mo. Card required, nothing charged until",
+    "url": "https://fundediq.co/numerion-labs-numerionlabs-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Promising Future Areas and Commercialization Strategies",
+    "url": "https://note.com/better_equation/n/n02e587993ce5?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Notionの運営会社はどこ？安全性・日本法人も2026年最新版で解説 - in...【2025年】Notion（ノーション）の会社概要｜日本法人はNotion Labs J...Exploring The Numerion Labs Drug Discovery Platform — ただ、それだけでは「導入していいのか」の判断には足りませんよね。 この記事では、Notionを実際に業務に組み込んでいる立場から、運営会社の基本情報・安全性・日本法人の体制・そして2026年時点の最新動向まで、一気通貫で解説します。 Jul 31, 2023 · ツールの利用・基本操作は日本語に対応し、日本人にとって使いやすい環境が提供されています。 日本法人 「Notion Labs Japan 合同会社」は2022年6月に設立し、日本語対応は 2021年10月にベータ版 ・2022年11月に正式リリース",
+    "url": "https://infohack.hatenadiary.com/entry/2025/09/22/043000",
+    "pass": 3
+   },
+   {
+    "quote": "Numerion Labs | LinkedIn — Numerion Labs is an AI-native company accelerating the discovery of life-saving medicines through the development and use of cutting-edge machine learning algorithms. The company unites ...",
+    "url": "https://www.linkedin.com/company/numerion-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Exploring The Numerion Labs Drug Discovery Platform — Discover how The Numerion Labs Drug Discovery Platform revolutionizes drug discovery using Machine Learning.",
+    "url": "https://numerionlabs.ai/drug-hunting-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Numerion Labs: Health company profile | Present of AI — Oct 18, 2026 · Founded 2012 (as Atomwise; rebranded to Numerion Labs in February 2025) Funding $19.79M Series D (March 2026), per Crunchbase Customers Sanofi, Eli Lilly, Bayer, Hansoh Pharmaceuticals (named R&D partners, per press coverage) Industry AI drug discovery, computational chemistry Website numerionlabs.ai Market confidence",
+    "url": "https://presentofai.com/spotlight/numerionlabs.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Contact Numerion Labs — Feel free to contact numerion labs today. We're ready to help you!",
+    "url": "https://numerionlabs.ai/contact-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Numerion Labs Programs and Pipeline — Discover the latest advancements in Numerion Labs Programs and Pipeline.",
+    "url": "https://numerionlabs.ai/programs/",
+    "pass": 3
+   },
+   {
+    "quote": "Numerion Labs - LinkedIn — The Art of Drug Hunting · Powered by ML | Numerion Labs is an AI-native company accelerating the discovery of life-saving medicines through the development and use of cutting-edge machine...",
+    "url": "https://www.linkedin.com/company/numerion-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Numerion Labs: Artificial intelligence for drug discovery ... — Artificial intelligence for drug discovery. Numerion Labs is an AI-native company accelerating the discovery of life-saving medicines through the development and use of cutting-edge machine learning algorithms.",
+    "url": "https://www.ycombinator.com/companies/numerion-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Numerion Labs News and Updates — Nov 12, 2025 · Discover the latest trends and innovations in tech with our comprehensive blog updates, including essential Numerion Labs News.",
+    "url": "https://numerionlabs.ai/news/",
+    "pass": 3
+   },
+   {
+    "quote": "Numerion Labs - LinkedIn — Our new research paper introduces APEX, a protocol we developed and co-authored with subject matter experts from NVIDIA, enabling ultra-fast virtual screening of hyper-scalable compound libraries...",
+    "url": "https://www.linkedin.com/company/numerion-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Numerion Labs - 2026 Company Profile, Funding & Competitors ... — Apr 3, 2026 · Numerion Labs is a series B company based in San Francisco (United States), founded in 2012. It operates as a Developer of an AI platform for discovering novel drug-like molecules.",
+    "url": "https://tracxn.com/d/companies/numerionlabs/__Mk1HJ5bI8ijmQxd_Tn15xRrp90xxSubF9EnwUeiE8y4",
+    "pass": 3
+   },
+   {
+    "quote": "Numerion Labs 2026 Company Profile: Valuation, Funding ...Numerion Labs: Funding, Investors & Team (Nov 2026) - FundedIQNumerion Labs Funding History: $202.8M | Indexed.vcNumerion Labs Valuation, Funding & Secondary Market Data ...Numerion Labs — Pharma AI Vendor Profile | PharmaAiAtlasNumerion Labs Funding, Investors & Competitors | Multiples — Information on valuation, funding, cap tables, inves",
+    "url": "https://pitchbook.com/profiles/company/109696-60",
+    "pass": 3
+   },
+   {
+    "quote": "Numerion Labs: Funding, Investors & Team (Nov 2026) - FundedIQ — Numerion Labs has raised over $174 million from leading venture capital firms to advance our mission to make better medicines faster. Numerion Labs has raised $19.8M across 1 funding round on record, the most recent a Series D of $19.8M announced in Mar 2026.",
+    "url": "https://fundediq.co/numerion-labs-numerionlabs-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Numerion Labs Funding History: $202.8M | Indexed.vc — Sep 2, 2026 · Numerion Labs is an artificial intelligence company in San Francisco, United States, founded in 2012. It has raised $202.8M across 5 rounds, most recently a $19.8M Series D in March 2026.",
+    "url": "https://indexed.vc/companies/numerion-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Numerion Labs Funding, Investors & Competitors | Multiples — 18 investors have backed Numerion Labs across its funding rounds, including Y Combinator, DCVC, Khosla Ventures, Tencent, B Capital and AME Cloud Ventures. Lead investors include B Capital, Sanabil and Monsanto Growth Ventures (MGV).",
+    "url": "https://multiples.vc/private-comps/numerion-labs",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Numerion Labs began as Atomwise in 2012, founded by University of Toronto researchers to apply deep learning to drug discovery, and rebranded to Numerion Labs in February 2025.",
+    "url": "https://presentofai.com/spotlight/numerionlabs.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Founders with direct academic roots in exactly the technical problem, named multi-year deals with Sanofi and Eli Lilly, and a fresh Series D make a strong case for traction and fit, even after a 2025 CEO change and rebrand from Atomwise. It sells only to pharmaceutical and biotech partners, with no public trust or pricing information to review.",
+    "url": "https://presentofai.com/spotlight/numerionlabs.ai",
+    "pass": 3
+   },
+   {
+    "quote": "2012 (as Atomwise; rebranded to Numerion Labs in February 2025)",
+    "url": "https://presentofai.com/spotlight/numerionlabs.ai",
+    "pass": 3
+   },
+   {
+    "quote": "QualSights is an immersive insights platform that enables companies, agencies, and consulting firms to gather…",
+    "url": "https://fundediq.co/numerion-labs-numerionlabs-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Traditional drug discovery narrows that search with a mix of chemical intuition, known drug families and slow, expensive physical screening. Even with those shortcuts, most candidate molecules that enter testing fail, and the process from target to approved drug can take a decade or more.",
+    "url": "https://presentofai.com/spotlight/numerionlabs.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Steve Worland, PhD, joined as CEO in February 2025, after founding CEO Abraham Heifets departed in October 2024, per Endpoints News. This is a leadership role, not a founding one, and is listed here only for clarity.",
+    "url": "https://presentofai.com/spotlight/numerionlabs.ai",
+    "pass": 3
+   },
+   {
+    "quote": "No public revenue or ARR figure found.",
+    "url": "https://presentofai.com/spotlight/numerionlabs.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Valuation as a multiple of ARR",
+    "url": "https://presentofai.com/spotlight/numerionlabs.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Not shown: it needs both a valuation and an ARR figure from a company, investor or named-press source, within 12 months of each other. We do not estimate either.",
+    "url": "https://presentofai.com/spotlight/numerionlabs.ai",
+    "pass": 3
+   },
+   {
+    "quote": "We wrote this Spotlight from public material, as part of our series on the companies building with AI.",
+    "url": "https://presentofai.com/spotlight/numerionlabs.ai",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/109696-60",
+    "pass": 3
+   },
+   {
+    "quote": "Numerion Labs has 18 total employees.",
+    "url": "https://pitchbook.com/profiles/company/109696-60",
+    "pass": 3
+   },
+   {
+    "quote": "What is Numerion Labs’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/109696-60",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Numerion Labs is",
+    "url": "https://pitchbook.com/profiles/company/109696-60",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Numerion Labs have?",
+    "url": "https://fundediq.co/numerion-labs-numerionlabs-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/numerion-labs-numerionlabs-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/numerion-labs-numerionlabs-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Get the AI Hiring Index data and new AI jobs in the daily digest, plus the daily Spotlight. Free, and every email has an unsubscribe link.",
+    "url": "https://presentofai.com/spotlight/numerionlabs.ai",
+    "pass": 3
+   },
+   {
+    "quote": "and we email you when new roles match.",
+    "url": "https://presentofai.com/spotlight/numerionlabs.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/109696-60",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/numerion-labs-numerionlabs-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Foundry Robotics is an AI driven robotics company rebuilding manufacturing with advanced assembly automation…",
+    "url": "https://fundediq.co/numerion-labs-numerionlabs-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Trends in the AI Drug Discovery Industry and Potential Future ... Aug 5, 2026 · Numerion Labs, based in San Francisco, California, is an AI-native company specializing in structure-based small-molecule drug discovery using deep learning. After growing through the Y Combinator program, it raised $19.79 million in a Series D round in March 2026 from investors including Cerity Partners Ventures, Sana",
+    "url": "https://note.com/better_equation/n/n02e587993ce5?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Trends in the AI Drug Discovery Industry and AI Drug Discovery Companies Subject to Potential Restructuring｜Better Equation Research",
+    "url": "https://note.com/better_equation/n/n02e587993ce5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Trends in the AI Drug Discovery Industry and AI Drug Discovery Companies Subject to Potential Restructuring",
+    "url": "https://note.com/better_equation/n/n02e587993ce5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Better Equation Research",
+    "url": "https://note.com/better_equation/n/n02e587993ce5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Overview and Value Chain of the AI Drug Discovery Industry",
+    "url": "https://note.com/better_equation/n/n02e587993ce5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "AI drug discovery, or drug development utilizing artificial intelligence, is attracting significant attention from the global pharmaceutical and technology industries as a technology that fundamentally transforms the traditional drug discovery process, which requires billions of dollars in costs and over a decade of time. The traditional drug discovery process relies on blindly screening a vast nu",
+    "url": "https://note.com/better_equation/n/n02e587993ce5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The value chain of this industry can be understood by classifying it into four distinct layers, as shown in the attached AI drug discovery market map. When executives in corporate planning departments consider M&A or partnerships, understanding where a target company belongs in this ecosystem is the first step in strategic planning.",
+    "url": "https://note.com/better_equation/n/n02e587993ce5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Supporting the bottom layer of the value chain is the 'Technology Infrastructure' layer. This layer includes giant technology companies such as Amazon Web Services, Microsoft Azure, Alphabet, IBM, and NVIDIA. AI drug discovery requires immense computational power, such as for predicting the three-dimensional structure of proteins and screening billions of virtual compounds. These companies provide",
+    "url": "https://note.com/better_equation/n/n02e587993ce5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Positioned above that is the 'Data Aggregation' layer. Companies such as DNAnexus, Benchling, Elucidata, and patsnap fall into this category. The accuracy of AI models depends entirely on the quality and quantity of training data. Companies in this layer are responsible for integrating, structuring, and anonymizing multimodal data scattered around the world—such as genomic data, clinical trial dat",
+    "url": "https://note.com/better_equation/n/n02e587993ce5?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Numerion Labs (@Numerionlabsai) / Posts / X Numerion Labs (@Numerionlabsai) - Posts - Numerion Labs is an AI-native company accelerating the discovery of life-saving medicines through th... | X (formerly Twitter)",
+    "url": "https://x.com/Numerionlabsai",
+    "pass": 3
+   },
+   {
+    "quote": "#ICYMI: This year, we expanded our partnership with # ... Numerion Labs (@Numerionlabsai). #ICYMI: This year, we expanded our partnership with #HansohPharma after seeing early success in our #AI powered #drugdiscovery program.",
+    "url": "https://x.com/Numerionlabsai/status/1273360161621577731",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Numerion Labs - LinkedIn Numerion Labs is an AI-native company accelerating the discovery of life-saving medicines through the development and use of cutting-edge machine learning algorithms.",
+    "url": "https://www.linkedin.com/company/numerion-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Steve Worland - Shenandoah Therapeutics Inc. | LinkedInNumerion Labs CEO to speak at AI Drug Discovery SummitShahab Mortezaei - Director, Numerion Labs | LinkedInGannon Connor, Ph.D. - Corporate Development at Numerion Labs ...Jason Olejniczak - Numerion Labs | LinkedInAPEX: Accelerating Drug Discovery with NVIDIA and Numerion Labs Experience: Shenandoah Therapeutics Inc. · Education: Harvard Univ",
+    "url": "https://www.linkedin.com/in/steve-worland-b134994",
+    "pass": 3
+   },
+   {
+    "quote": "Shahab Mortezaei - Director, Numerion Labs | LinkedInGannon Connor, Ph.D. - Corporate Development at Numerion Labs ...Jason Olejniczak - Numerion Labs | LinkedInAPEX: Accelerating Drug Discovery with NVIDIA and Numerion Labs Director, Numerion Labs · Experience: Numerion Labs · Education: New York University · Location: Santa Clara · 372 connections on LinkedIn. Corporate Development at Numerion L",
+    "url": "https://www.linkedin.com/in/shahab-mortezaei-435838a4",
+    "pass": 3
+   },
+   {
+    "quote": "Gannon Connor, Ph.D. - Corporate Development at Numerion Labs ...Jason Olejniczak - Numerion Labs | LinkedInAPEX: Accelerating Drug Discovery with NVIDIA and Numerion Labs Corporate Development at Numerion Labs · I have a strong interest in entrepreneurship and the implementation of scientific innovations, and I am pursuing a career at the intersection of... · Experience: Numerion Labs · Education",
+    "url": "https://www.linkedin.com/in/gannon-connor-ph-d-8a445636",
+    "pass": 3
+   },
+   {
+    "quote": "Numerion Labs - LinkedIn Website https://numerionlabs.ai/ Industry Biotechnology Research Company size 11-50 employees Type Privately Held",
+    "url": "https://www.linkedin.com/company/numerion-labs",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://numerionlabs.ai/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://elevenlabs.io/ja/blog/elevenlabs-establishes-japanese-subsidiary-elevenlabs-gk",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000059.000088144.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000057.000088144.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.generatived.com/news/eleven-labs-japan-subsidiary-established-and-expanded",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/numerion-labs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://presentofai.com/spotlight/numerionlabs.ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://numerionlabs.ai/contact-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://numerionlabs.ai/programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/numerion-labs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renascence.io/journal/customer-experience-cx-outcomes-case-studies-in-success",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://numerionlabs.ai/programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://numerionlabs.ai/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ninjaone.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/numerionlabs/__Mk1HJ5bI8ijmQxd_Tn15xRrp90xxSubF9EnwUeiE8y4",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/109696-60",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fundediq.co/numerion-labs-numerionlabs-ai-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://indexed.vc/companies/numerion-labs",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/better_equation/n/n02e587993ce5?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Numerionlabsai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Numerionlabsai/status/1273360161621577731",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/numerion-labs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/steve-worland-b134994",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/shahab-mortezaei-435838a4",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/gannon-connor-ph-d-8a445636",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/numerion-labs",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Numerionlabs 日本 導入",
+   "results": [
+    "https://elevenlabs.io/ja/blog/elevenlabs-establishes-japanese-subsidiary-elevenlabs-gk",
+    "https://prtimes.jp/main/html/rd/p/000000059.000088144.html",
+    "https://prtimes.jp/main/html/rd/p/000000057.000088144.html",
+    "https://www.generatived.com/news/eleven-labs-japan-subsidiary-established-and-expanded",
+    "https://infohack.hatenadiary.com/entry/2025/09/22/043000",
+    "https://kaizennn.com/basic-information-about-notion/",
+    "https://numerionlabs.ai/drug-hunting-platform/",
+    "https://prtimes.jp/main/html/rd/p/000000031.000088144.html",
+    "https://j-aix.or.jp/catalog/company/notion-labs/",
+    "https://companies.workcircle.jp/Notion-Labs-87c9f8028b2544afbe35a459511a9bde"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "Numerionlabs 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.linkedin.com/company/numerion-labs",
+    "https://numerionlabs.ai/drug-hunting-platform/",
+    "https://www.houjin.info/",
+    "https://numerionlabs.ai/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Numerionlabs Japan",
+   "results": [
+    "https://presentofai.com/spotlight/numerionlabs.ai",
+    "https://numerionlabs.ai/contact-us/",
+    "https://numerionlabs.ai/programs/",
+    "https://www.linkedin.com/company/numerion-labs",
+    "https://www.ycombinator.com/companies/numerion-labs",
+    "https://blog.numerionlabs.ai/",
+    "https://leaps.bayer.com/companies/agriculture/numerion-labs"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Numerionlabs manufacturing customer case study",
+   "results": [
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.renascence.io/journal/customer-experience-cx-outcomes-case-studies-in-success",
+    "https://numerionlabs.ai/programs/",
+    "https://numerionlabs.ai/news/",
+    "https://www.linkedin.com/company/numerion-labs",
+    "https://www.trendingaitools.com/ai-tools/numerion-labs/",
+    "https://fundediq.co/numerion-labs-numerionlabs-ai-funding/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Numerionlabs white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://www.ninjaone.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://upcloud.com/partner-program/",
+    "https://www.nextiva.com/company/partners",
+    "https://www.reseller.co.nz/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Numerionlabs founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/numerionlabs/__Mk1HJ5bI8ijmQxd_Tn15xRrp90xxSubF9EnwUeiE8y4",
+    "https://pitchbook.com/profiles/company/109696-60",
+    "https://fundediq.co/numerion-labs-numerionlabs-ai-funding/",
+    "https://indexed.vc/companies/numerion-labs",
+    "https://multiples.vc/private-comps/numerion-labs",
+    "https://privatemarketview.com/companies/numerion-labs",
+    "https://pharmaaiatlas.com/vendors/numerion-labs"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Numerionlabs",
+   "results": [
+    "https://note.com/better_equation/n/n02e587993ce5?hl=en",
+    "https://note.com/vermin_control/n/n612aa64d0832",
+    "https://note.com/sarusuberi_note/n/nb2caf0a61dec",
+    "https://note.com/ueda_news24/n/n593474115c49",
+    "https://note.com/peach07_yy/n/n1efb701add12",
+    "https://note.com/claude_x",
+    "https://note.com/claude_x/n/ndb76f529598b"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Numerionlabs",
+   "results": [
+    "https://x.com/Numerionlabsai",
+    "https://x.com/Numerionlabsai/status/1273360161621577731",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/Numerionsoft",
+    "https://x.com/chillestwoman/status/2116669325868400644",
+    "https://x.com/CogitoEdu/status/2117911840973861028",
+    "https://x.com/the0nlygirl/status/2116306683760898367"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Numerionlabs",
+   "results": [
+    "https://www.linkedin.com/company/numerion-labs",
+    "https://www.linkedin.com/in/steve-worland-b134994",
+    "https://www.linkedin.com/in/shahab-mortezaei-435838a4",
+    "https://www.linkedin.com/in/gannon-connor-ph-d-8a445636",
+    "https://www.linkedin.com/in/jason-olejniczak-65a858b5",
+    "https://www.linkedin.com/posts/numerion-labs_aiddd2025-drugdiscovery-aidrugdiscovery-activity-7396945602825109504-4rW2",
+    "https://www.linkedin.com/posts/numerion-labs_apex-approximate-but-exhaustive-search-for-activity-7389426113506263040-v3nf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Numerionlabs",
+   "results": [
+    "https://www.facebook.com/numerionai/",
+    "https://www.facebook.com/",
+    "https://www.facebook.com/gosu/",
+    "https://www.facebook.com/lrossi2013/",
+    "https://www.facebook.com/people/Numerion-Software/61579398456778/",
+    "https://www.facebook.com/derekanicole/",
+    "https://www.facebook.com/profile.php/?id=61580757946338"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Numerionlabs note 社長",
+   "results": [
+    "https://www.linkedin.com/company/numerion-labs",
+    "https://fundediq.co/numerion-labs-numerionlabs-ai-funding/",
+    "https://www.theofficialboard.com/org-chart/numerion-labs",
+    "https://numerionlabs.ai/team/",
+    "https://numerionlabs.ai/team-member/steve-worland-phd/",
+    "https://www.linkedin.com/posts/numerion-labs_aiddd2025-drugdiscovery-aidrugdiscovery-activity-7396945602825109504-4rW2",
+    "https://www.theofficialboard.com/biography/steve-worland-7eg01"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Numerionlabs X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）"
+ }
+}

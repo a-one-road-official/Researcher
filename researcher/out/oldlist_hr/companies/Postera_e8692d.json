@@ -1,0 +1,762 @@
+{
+ "name": "Postera",
+ "aliases": [],
+ "context": "旧営業リスト｜Education / Childcare｜未接触",
+ "researched_at": "2026-11-09T22:38:23.738064+00:00",
+ "official_url": "https://postera.ai/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "PostEra is building an AI-first biotech. We use Proton, our AI platform for medicinal chemistry, to discover and develop new medicines for patients.",
+    "url": "https://postera.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "How is PostEra using Proton to address the challenges of drug discovery?",
+    "url": "https://postera.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Merck KGaA Acquires PostEra’s Fertility Programs",
+    "url": "https://postera.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "PostEra provides update on progress of the Pfizer-partnered AI Lab",
+    "url": "https://postera.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "4 preclinical programs across",
+    "url": "https://postera.ai/drug-discovery/",
+    "pass": 1
+   },
+   {
+    "quote": "We partner with organizations to develop small molecule drug candidates.",
+    "url": "https://postera.ai/drug-discovery/",
+    "pass": 1
+   },
+   {
+    "quote": "Biopharma partner selects biological targets and helps define the assay cascade and Target-Product-Profile.",
+    "url": "https://postera.ai/drug-discovery/",
+    "pass": 1
+   },
+   {
+    "quote": "PostEra drives the discovery of safe and effective small molecules against those targets until the nomination of Development Candidate(s).",
+    "url": "https://postera.ai/drug-discovery/",
+    "pass": 1
+   },
+   {
+    "quote": "The time taken to develop a drug is over 10 years and hasn’t improved over the last decade.",
+    "url": "https://postera.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Develop these compounds into medicines by showing their effectiveness in the appropriate patients in clinical trials.",
+    "url": "https://postera.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "PostEra’s current focus is on the Chemistry of drug discovery. Known as Medicinal Chemistry, it constitutes an iterative three-step cycle. At each stage of the cycle we use Proton to solve the key problems.",
+    "url": "https://postera.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "closes the full cycle by addressing the key challenges at each stage of the process",
+    "url": "https://postera.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "We combine our proprietary data with our chemistry foundation models to design molecules that satisfy the many competing properties that drug candidates must satisfy.",
+    "url": "https://postera.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "allows PostEra to do faster drug discovery, find more optimized drug candidates, and develop better medicines for patients",
+    "url": "https://postera.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "We've partnered with the world's top pharmaceutical companies to show Proton works in the real world.",
+    "url": "https://postera.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "PostEra's AI-first approach to finding kinase selectivity in partnership with Pfizer",
+    "url": "https://postera.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "PostEra's AI-first approach to a first in class target in partnership with Pfizer",
+    "url": "https://postera.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "PostEra's AI approach couples molecule design with synthesis to accelerate a COVID program",
+    "url": "https://postera.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Can a model outperform humans in predicting chemical reactions?",
+    "url": "https://postera.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "How do we handle small, noisy data and make valid predictions?",
+    "url": "https://postera.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "PostEra provides update on progress of the Pfizer-partnered AI Lab - PostEra",
+    "url": "https://postera.ai/news/postera-provides-update-on-progress-of-the-pfizer-partnered-ai-lab/",
+    "pass": 1
+   },
+   {
+    "quote": "PostEra provides update on progress of the Pfizer-partnered AI Lab",
+    "url": "https://postera.ai/news/postera-provides-update-on-progress-of-the-pfizer-partnered-ai-lab/",
+    "pass": 1
+   },
+   {
+    "quote": "In January 2022, PostEra announced the expansion of its multi-target research collaboration with Pfizer, which included the formation of an AI Lab to jointly advance multiple preclinical drug discovery programs.",
+    "url": "https://postera.ai/news/postera-provides-update-on-progress-of-the-pfizer-partnered-ai-lab/",
+    "pass": 1
+   },
+   {
+    "quote": "Since this announcement two years ago, one AI Lab program moved rapidly and achieved its first scientific stage gate 40% faster than the teams had initially forecasted. A second program made similar progress, combining PostEra’s AI technology with Pfizer’s data and in-house expertise.",
+    "url": "https://postera.ai/news/postera-provides-update-on-progress-of-the-pfizer-partnered-ai-lab/",
+    "pass": 1
+   },
+   {
+    "quote": ". PostEra is also leading an antiviral drug discovery center for pandemic preparedness, funded by one of the largest grants in",
+    "url": "https://postera.ai/news/postera-provides-update-on-progress-of-the-pfizer-partnered-ai-lab/",
+    "pass": 1
+   },
+   {
+    "quote": "PostEraがNIHから6800万ドルの初期資金を得て、抗ウイルス治療薬開発に向けたAI活用創薬共同研究を主導 | PostEraのプレスリリース | 共同通信PRワイヤー",
+    "url": "https://kyodonewsprwire.jp/release/202205191417",
+    "pass": 3
+   },
+   {
+    "quote": "【ボストン2022年5月19日PR Newswire＝共同通信JBN】前臨床創薬向け機械学習が専門のバイオテクノロジー企業PostEraは19日、パンデミック予防用の低分子抗ウイルス治療薬開発を目指す、国立衛生研究所との複数年にわたる共同研究を発表した",
+    "url": "https://kyodonewsprwire.jp/release/202205191417",
+    "pass": 3
+   },
+   {
+    "quote": "https://mma.prnewswire.com/media/1722598/PostEra_Logo.jpg",
+    "url": "https://kyodonewsprwire.jp/release/202205191417",
+    "pass": 3
+   },
+   {
+    "quote": "© 2024 Kyodo News PR Wire",
+    "url": "https://kyodonewsprwire.jp/release/202205191417",
+    "pass": 3
+   },
+   {
+    "quote": "141 products",
+    "url": "https://postera.art/collections/japanese?srsltid=AYCX9vIxnjYlSZaCO01Vl8eGlEt2SYwUP4zpr_1t5dT2yfH-Ub0VWLy3",
+    "pass": 3
+   },
+   {
+    "quote": "Price, low to high",
+    "url": "https://postera.art/collections/japanese?srsltid=AYCX9vIxnjYlSZaCO01Vl8eGlEt2SYwUP4zpr_1t5dT2yfH-Ub0VWLy3",
+    "pass": 3
+   },
+   {
+    "quote": "Price, high to low",
+    "url": "https://postera.art/collections/japanese?srsltid=AYCX9vIxnjYlSZaCO01Vl8eGlEt2SYwUP4zpr_1t5dT2yfH-Ub0VWLy3",
+    "pass": 3
+   },
+   {
+    "quote": "Please add product to your wishlist to see them here.",
+    "url": "https://postera.art/collections/japanese?srsltid=AYCX9vIxnjYlSZaCO01Vl8eGlEt2SYwUP4zpr_1t5dT2yfH-Ub0VWLy3",
+    "pass": 3
+   },
+   {
+    "quote": "Are you sure you want to delete selected wishlist products?",
+    "url": "https://postera.art/collections/japanese?srsltid=AYCX9vIxnjYlSZaCO01Vl8eGlEt2SYwUP4zpr_1t5dT2yfH-Ub0VWLy3",
+    "pass": 3
+   },
+   {
+    "quote": "Out of stock products will be not move. Are you want to move selected wishlist products?",
+    "url": "https://postera.art/collections/japanese?srsltid=AYCX9vIxnjYlSZaCO01Vl8eGlEt2SYwUP4zpr_1t5dT2yfH-Ub0VWLy3",
+    "pass": 3
+   },
+   {
+    "quote": "Share your public wishlist on social media, through links, and via custom email.",
+    "url": "https://postera.art/collections/japanese?srsltid=AYCX9vIxnjYlSZaCO01Vl8eGlEt2SYwUP4zpr_1t5dT2yfH-Ub0VWLy3",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Acquired by Merck KGaA",
+    "url": "https://postera.ai/drug-discovery/",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本のBiotechや製薬会社と提携し日本市場に参入したい",
+    "url": "https://techblitz.com/startup-interview/postera/",
+    "pass": 3
+   },
+   {
+    "quote": "地理的な理由から、現在は米国やヨーロッパのクライアントのみで、日本企業とは一切接触がありませんが、日本のBiotechや製薬会社とつながりを持ち、提携して一緒に仕事をしたいです",
+    "url": "https://techblitz.com/startup-interview/postera/",
+    "pass": 3
+   },
+   {
+    "quote": "「電力の変化」をどう読むか 東京ガスも出資する米AmperonのAI予測の仕組み",
+    "url": "https://techblitz.com/startup-interview/postera/",
+    "pass": 3
+   },
+   {
+    "quote": "「電力の変化」をどう読むか 東京ガスも出資する米AmperonのAI予測の仕組みの詳細を見る",
+    "url": "https://techblitz.com/startup-interview/postera/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社大和総研様「脆弱性対応の作業負荷を軽減 自動化で築く継続的なセキュリティ体制」を公開",
+    "url": "https://kyodonewsprwire.jp/release/202205191417",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese | Postera.dk",
+    "url": "https://postera.art/collections/japanese?srsltid=AYCX9vIxnjYlSZaCO01Vl8eGlEt2SYwUP4zpr_1t5dT2yfH-Ub0VWLy3",
+    "pass": 3
+   },
+   {
+    "quote": "Yayoi Kusama - Japanese Ocean",
+    "url": "https://postera.art/collections/japanese?srsltid=AYCX9vIxnjYlSZaCO01Vl8eGlEt2SYwUP4zpr_1t5dT2yfH-Ub0VWLy3",
+    "pass": 3
+   },
+   {
+    "quote": "Yayoi Kusama - Pumpkin Tokyo",
+    "url": "https://postera.art/collections/japanese?srsltid=AYCX9vIxnjYlSZaCO01Vl8eGlEt2SYwUP4zpr_1t5dT2yfH-Ub0VWLy3",
+    "pass": 3
+   },
+   {
+    "quote": "Yayoi Kusama - Japanese Grasslands",
+    "url": "https://postera.art/collections/japanese?srsltid=AYCX9vIxnjYlSZaCO01Vl8eGlEt2SYwUP4zpr_1t5dT2yfH-Ub0VWLy3",
+    "pass": 3
+   },
+   {
+    "quote": "Yayoi Kusama - Japanese Garden",
+    "url": "https://postera.art/collections/japanese?srsltid=AYCX9vIxnjYlSZaCO01Vl8eGlEt2SYwUP4zpr_1t5dT2yfH-Ub0VWLy3",
+    "pass": 3
+   },
+   {
+    "quote": "Yayoi Kusama - Tokyo Colors",
+    "url": "https://postera.art/collections/japanese?srsltid=AYCX9vIxnjYlSZaCO01Vl8eGlEt2SYwUP4zpr_1t5dT2yfH-Ub0VWLy3",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "創薬プロセスを簡単にするテクノロジープラットフォーム ... — 創薬プロセスを簡単にするテクノロジープラットフォーム ... TECHBLITZ https://techblitz.com > startup-interview > postera",
+    "url": "https://techblitz.com/startup-interview/postera/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese | Postera .dk — Japanese | Postera .dk Postera https://postera.art > japanese",
+    "url": "https://postera.art/collections/japanese?srsltid=AYCX9vIxnjYlSZaCO01Vl8eGlEt2SYwUP4zpr_1t5dT2yfH-Ub0VWLy3",
+    "pass": 3
+   },
+   {
+    "quote": "postera .art - Instagram — postera .art - Instagram Instagram https://www.instagram.com > postera",
+    "url": "https://www.instagram.com/postera.art/?hl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "How PostEra designs drugs from code - C&EN — How PostEra designs drugs from code - C&EN Chemical & Engineering News https://cen.acs.org > web > 2025/11",
+    "url": "https://cen.acs.org/pharmaceuticals/PostEra-designs-drugs-from-code/103/web/2025/11",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Share your public wishlist on social media, through links, and via custom email.",
+    "url": "https://postera.art/collections/japanese?srsltid=AYCX9vIxnjYlSZaCO01Vl8eGlEt2SYwUP4zpr_1t5dT2yfH-Ub0VWLy3",
+    "pass": 3
+   },
+   {
+    "quote": "You will no longer receive emails about wishlist activities from this store.",
+    "url": "https://postera.art/collections/japanese?srsltid=AYCX9vIxnjYlSZaCO01Vl8eGlEt2SYwUP4zpr_1t5dT2yfH-Ub0VWLy3",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "PostEra (@PostEra_AI) / X It's been 3 years since PostEra began our internal pipeline. Our 2 Clinical Candidates for PMOS and Infertility are a real testament to the power of our AI platform Proton and our team of drug hunters and engineers who work side by side every day to make progress for patients...",
+    "url": "https://x.com/PostEra_AI",
+    "pass": 3
+   },
+   {
+    "quote": "Shawn Postera (@SLPostera) / Posts / X Shawn Postera (@SLPostera) - Posts - Lead with the heart even working in risk and finance management. I love being outside and athletics. | X (formerly Twitter)",
+    "url": "https://x.com/SLPostera",
+    "pass": 3
+   },
+   {
+    "quote": "Postera is an agent-to-agent marketplace built on @base using ... Postera is an agent-to-agent marketplace built on @base using x402. Agents can publish skills, sell them, discover other skills, and purchase them from other agents.",
+    "url": "https://x.com/MeltedMindz/status/2063009047318855856",
+    "pass": 3
+   },
+   {
+    "quote": "Postera Capital (@PosteraCapital) / X Postera Capital provides cryptoasset related advisory and research to professional investors. Please see our website https://t.co/djb7XWa62g for detailed information.",
+    "url": "https://x.com/PosteraCapital",
+    "pass": 3
+   },
+   {
+    "quote": "PostEra (@PostEra_AI) / X Over the last 4 years PostEra and @ pfizer have partnered on several multi-year collaborations to advance AI for Drug Discovery. Today, PostEra is providing a quick update on the progress of our latest collaboration, the AI Lab...",
+    "url": "https://x.com/PostEra_AI",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "PostEra - LinkedIn About us PostEra is building an AI-first biotech. We use Proton, our AI platform for medicinal chemistry, to accelerate the discovery of new medicines for patients.",
+    "url": "https://www.linkedin.com/company/postera-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Avery Postera - Assistant Design Engineer at J-U-B ... - LinkedInFounder Spotlight : Aaron Morris @ PostEra | BIOS - LinkedInPostera Capital - LinkedInAaron Morris - PostEra | LinkedInEMD Serono Acquires PostEra Fertility Programs - LinkedInRich Postera - Experienced Project Engineer in R&D and NPI ... View Avery Postera’s profile on LinkedIn, a professional community of 1 billion members. PostEra",
+    "url": "https://www.linkedin.com/in/avery-postera-85b274171",
+    "pass": 3
+   },
+   {
+    "quote": "Founder Spotlight : Aaron Morris @ PostEra | BIOS - LinkedIn PostEra was founded in 2019 and its technology is built on pioneering academic research done by its founding scientists. PostEra’s technology addresses some of the key challenges in drug...",
+    "url": "https://uk.linkedin.com/posts/bios-community_founder-spotlight-35-aaron-morris-postera-activity-7015965042168745985-H7tC",
+    "pass": 3
+   },
+   {
+    "quote": "Postera Capital - LinkedIn Invest into a new era – with blockchain | Postera Capital is a professional advisory firm based in Düsseldorf, Germany, that focuses on investment opportunities in blockchain and cryptoassets.",
+    "url": "https://www.linkedin.com/company/postera-capital",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "POSTERA | Rønde - FacebookPostera - FacebookPostera | Istanbul - FacebookPostera - FacebookFederación Postera - FacebookWe’re still smiling after the grand opening of our new ...A year of art, details and moments Thank you for being part ... Apr 16, 2026 · WHAT A DAY! ☀️ On August 1st, we opened the doors to our brand-new Postera store in Rønde – and what started as a shop launch turned into a ful",
+    "url": "https://www.facebook.com/postera.art/",
+    "pass": 3
+   },
+   {
+    "quote": "Postera - FacebookPostera | Istanbul - FacebookPostera - FacebookFederación Postera - FacebookWe’re still smiling after the grand opening of our new ...A year of art, details and moments Thank you for being part ... Jun 30, 2026 · Qu’elle deviendrait le début de Postera. Qu’elle me ferait dessiner, au fil des années, une cinquantaine d’affiches autour de nos belles régions, de ces paysages que j’a",
+    "url": "https://www.facebook.com/posterafr/",
+    "pass": 3
+   },
+   {
+    "quote": "Postera | Istanbul - Facebook Postera, Istanbul. 4 likes · 1 talking about this. Postera writes, designs, and publishes your social media — every week. We keep brands consistent...",
+    "url": "https://www.facebook.com/postera.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "Postera - Facebook Mar 15, 2020 · At Postera, we create sustainable products which will have a positive environmental impact, each time they are used. Our launch product, Legooms, successfully disrupted the market and helped bring about the adoption of reusable food bags. Posts",
+    "url": "https://www.facebook.com/people/Postera/100063770261844/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://postera.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://postera.ai/drug-discovery/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://postera.ai/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://postera.ai/news/postera-provides-update-on-progress-of-the-pfizer-partnered-ai-lab/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://techblitz.com/startup-interview/postera/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyodonewsprwire.jp/release/202205191417",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boehringer-ingelheim.com/jp/press-26-0715",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bts-official.jp/news/n5qen37PeVL4=",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://poster.ooo/l/join-partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techblitz.com/startup-interview/postera/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyodonewsprwire.jp/release/202205191417",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/p/DUhVCIxE0Fv/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://postera.art/collections/japanese?srsltid=AYCX9vIxnjYlSZaCO01Vl8eGlEt2SYwUP4zpr_1t5dT2yfH-Ub0VWLy3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop.posterhouse.org/posuta-poster-contemporary-poster-designs-from-jap.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://victionary.com/products/posuta-poster?srsltid=AYCX9vK_JX60kPh_ddvLnzMVKIVpnAcKSMIZsS06_S0f1i9hDnmw39HU",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/postera.art/?hl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vLRzs82TdHE9ZrAOiP-5zYKV4JBttZS3HS6QYwiTE86IZC_teNU",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stratasys.com/en/resources/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.athenaswc.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.advancemediany.com/manufacturing-company-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agencyplatform.com/seo-reseller-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=0j22JYl44z4",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/PostEra_AI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SLPostera",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MeltedMindz/status/2063009047318855856",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/PosteraCapital",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/postera-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/avery-postera-85b274171",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/posts/bios-community_founder-spotlight-35-aaron-morris-postera-activity-7015965042168745985-H7tC",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/postera-capital",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/postera.art/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/posterafr/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/postera.tech/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/people/Postera/100063770261844/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/PostEra_AI",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Postera 日本 導入",
+   "results": [
+    "https://techblitz.com/startup-interview/postera/",
+    "https://kyodonewsprwire.jp/release/202205191417",
+    "https://www.boehringer-ingelheim.com/jp/press-26-0715",
+    "https://bts-official.jp/news/n5qen37PeVL4=",
+    "https://www.npa.go.jp/bureau/traffic/bicycle/portal/poster.html",
+    "https://nct-jp.net/news/detail.php?id=1134978",
+    "https://www.katomodels.com/posters",
+    "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00007/00306/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Postera 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://poster.ooo/l/join-partner/",
+    "https://techblitz.com/startup-interview/postera/",
+    "https://kyodonewsprwire.jp/release/202205191417",
+    "https://www.instagram.com/p/DUhVCIxE0Fv/",
+    "https://www.facebook.com/ledtokyo.led/videos/%E4%BB%A3%E7%90%86%E5%BA%97%E5%8B%9F%E9%9B%86%E5%B7%A5%E4%BA%8B%E4%B8%8D%E8%A6%81%E3%81%AEposter-led-series%E3%81%8C%E7%99%BB%E5%A0%B4/2299961200817334/",
+    "https://b-seeds.com/products/lm-poster",
+    "https://www.gatsp.co.jp/",
+    "https://japan-crm.org/request-doc/ad-agency/",
+    "https://www.citrajapan.com/recommend.php",
+    "https://b-seeds.com/column/sole-agency-agreement"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Postera Japan",
+   "results": [
+    "https://postera.art/collections/japanese?srsltid=AYCX9vIxnjYlSZaCO01Vl8eGlEt2SYwUP4zpr_1t5dT2yfH-Ub0VWLy3",
+    "https://shop.posterhouse.org/posuta-poster-contemporary-poster-designs-from-jap.html",
+    "https://victionary.com/products/posuta-poster?srsltid=AYCX9vK_JX60kPh_ddvLnzMVKIVpnAcKSMIZsS06_S0f1i9hDnmw39HU",
+    "https://www.instagram.com/postera.art/?hl=ja",
+    "https://artvee.com/collection/japanese-posters/",
+    "https://www.fastcompany.com/90870516/how-japan-used-poster-design-to-reshape-its-culture",
+    "https://posterhouse.org/exhibition/made-in-japan/",
+    "https://postera.art/collections/japanese",
+    "https://postera.se/collections/japanese",
+    "https://postera.art/products/shibuya-japan"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Postera manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vLRzs82TdHE9ZrAOiP-5zYKV4JBttZS3HS6QYwiTE86IZC_teNU",
+    "https://www.stratasys.com/en/resources/case-studies/",
+    "https://www.athenaswc.com/case-studies/",
+    "https://www.advancemediany.com/manufacturing-company-case-study/",
+    "https://cen.acs.org/pharmaceuticals/PostEra-designs-drugs-from-code/103/web/2025/11",
+    "https://proto3000.com/resources/case_studies/",
+    "https://www.taylor.com/case-study",
+    "https://pubmed.ncbi.nlm.nih.gov/37396623/",
+    "https://www.dbswebsite.com/blog/manufacturing-website-marketing-case-studies/",
+    "https://www.tcs.com/what-we-do/industries/manufacturing/case-studies"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Postera white label OR reseller OR partner program",
+   "results": [
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.agencyplatform.com/seo-reseller-program/",
+    "https://www.youtube.com/watch?v=0j22JYl44z4",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://webinone.com/reseller-program",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://synthflow.ai/blog/white-label-reseller",
+    "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Postera founded funding employees revenue",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com Postera",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com Postera",
+   "results": [
+    "https://x.com/PostEra_AI",
+    "https://x.com/SLPostera",
+    "https://x.com/MeltedMindz/status/2063009047318855856",
+    "https://x.com/PosteraCapital",
+    "https://x.com/shannonpostera",
+    "https://x.com/postera14",
+    "https://x.com/AaronPMorris",
+    "https://x.com/FedePostera/status/2119516559370543570",
+    "https://x.com/FedePostera/status/2119593331647025533",
+    "https://help.x.com/en"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:linkedin.com Postera",
+   "results": [
+    "https://www.linkedin.com/company/postera-ai",
+    "https://www.linkedin.com/in/avery-postera-85b274171",
+    "https://uk.linkedin.com/posts/bios-community_founder-spotlight-35-aaron-morris-postera-activity-7015965042168745985-H7tC",
+    "https://www.linkedin.com/company/postera-capital",
+    "https://www.linkedin.com/in/aaron-morris-9922277b",
+    "https://www.linkedin.com/posts/postera-ai_were-delighted-to-announce-that-emd-serono-activity-7503455644692148225-9OGg",
+    "https://www.linkedin.com/in/rich-postera-96a291119",
+    "https://ph.linkedin.com/in/christian-millena-jimenez-344a59341",
+    "https://www.linkedin.com/pub/dir/+/Postera"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com Postera",
+   "results": [
+    "https://www.facebook.com/postera.art/",
+    "https://www.facebook.com/posterafr/",
+    "https://www.facebook.com/postera.tech/",
+    "https://www.facebook.com/people/Postera/100063770261844/",
+    "https://www.facebook.com/federacionpostera/",
+    "https://www.facebook.com/postera.art/videos/were-still-smiling-after-the-grand-opening-of-our-new-physical-store-visit-us-at/1426239085096204/",
+    "https://www.facebook.com/postera.art/videos/a-year-of-art-details-and-moments-thank-you-for-being-part-of-postera-and-for-ma/2355103378249753/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Postera note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/藤原岳史",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://the-shashi.com/tse/5243/ceo/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Postera X 投稿",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ポスター",
+    "https://x.com/PostEra_AI",
+    "https://postera.ai/",
+    "https://help.x.com/ja/using-x/edit-post",
+    "https://nj-clucker.com/set-pinned-tweet-on-profile/",
+    "https://help.x.com/ja/using-x/how-to-post",
+    "https://fitly.pics/blog/x-twitter-post-tips"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部33頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部33頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部33頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部33頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部33頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部33頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部33頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部33頁・検索12回）"
+ }
+}

@@ -1,0 +1,964 @@
+{
+ "name": "Onefootprint",
+ "aliases": [],
+ "context": "旧営業リスト｜Identity Verification & Fraud Prevention｜状態なし",
+ "researched_at": "2026-11-09T23:06:18.917160+00:00",
+ "official_url": "https://www.onefootprint.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Footprint — The AI Operating System for Risk",
+    "url": "https://onefootprint.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The agentic platform that learns your compliance program and runs it end-to-end. Investigations are fully auditable, connected to trusted data sources, and committed to an organizational memory that compounds.",
+    "url": "https://onefootprint.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every case makes your entire system smarter. A precedent set by one investigator is instantly available across KYC, EDD, sanctions, and monitoring. Whether your team is five analysts or 500, they share one brain – with the full risk picture assembled for the first time. Every memory has provenance. Agents propose; humans approve.",
+    "url": "https://onefootprint.com/",
+    "pass": 1
+   },
+   {
+    "quote": "With pre-built integrations across LexisNexis, Experian, ComplyAdvantage, government registries and beyond, Percy is directly connected to the source of truth. Whenever a finding is escalated, it comes alongside context – grounded in the data you already trust.",
+    "url": "https://onefootprint.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Percy touches 100% of your alert and case volume, reviewing with greater speed and precision. Percy pulls data, cross-references sources, and documents its reasoning around the clock – so your team can apply their judgement with more context and efficiency.",
+    "url": "https://onefootprint.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your policies and procedures, automated",
+    "url": "https://onefootprint.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Percy doesn’t impose a workflow, it learns yours. When you feed it your existing procedures, it executes them deterministically. That means you get the same outcome every time, with a full audit trail. This is the continuity that unlocks cross-functional teams – empowering them with consistent policies and information, while saving them from duplicating work.",
+    "url": "https://onefootprint.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Risk leaders need to know about problems before they happen, not after.",
+    "url": "https://onefootprint.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Percy is our agentic system that investigates every case, surfaces every relevant finding, and runs your policies and procedures end-to-end.",
+    "url": "https://onefootprint.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Percy works in plain English. You can ask it to investigate a case, explain its reasoning, surface similar patterns, or create a new workflow — no coding or configuring necessary. Percy will provide an answer — grounded in data — in seconds.",
+    "url": "https://onefootprint.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every change is versioned and tested before it goes live — so Percy gets better at your program over time, instead of drifting away from it.",
+    "url": "https://onefootprint.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“BPOs are a whole problem unto themselves — they’re expensive, and it’s hard to audit the decisions they make. With Percy, we get the world’s best BPO built directly into our platform: incredibly easy to audit, cases done in record time, and full observability into every single decision.”",
+    "url": "https://onefootprint.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Footprint’s Series B & The Race For Time and Memory",
+    "url": "https://onefootprint.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Why vaulting + onboarding is better together",
+    "url": "https://onefootprint.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sandbox (Technical Preview)",
+    "url": "https://onefootprint.com/",
+    "pass": 1
+   },
+   {
+    "quote": "© 2026 One Footprint Inc.",
+    "url": "https://onefootprint.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Solutions | Footprint",
+    "url": "https://onefootprint.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "The same agentic system, tuned to your world. Pick your industry to see the use cases Percy runs on day one, a real example of it working a case, and proof from a customer at your scale.",
+    "url": "https://onefootprint.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Banks use Footprint to uplevel their risk and compliance operations, and can use organizational memory from our ‘Trust Fabric’ as a standalone product.",
+    "url": "https://onefootprint.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Bespoke agents for your risk program",
+    "url": "https://onefootprint.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Our agentic system includes agents for AML watchlist screening, commercial onboarding, business due diligence, enhanced due diligence, transaction review, adverse media review, ongoing monitoring and more.",
+    "url": "https://onefootprint.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Every case makes your entire system smarter. A precedent set by one investigator is instantly available across KYC, EDD, sanctions, and monitoring. Whether your team is five analysts or 500, they share one brain — with the full risk picture assembled for the first time. Every memory has provenance. Agents propose; humans approve.",
+    "url": "https://onefootprint.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Connects the dots to improve",
+    "url": "https://onefootprint.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Trust fabric is constantly connecting related signals across customers, cases and agents that no single human can aggregate alone. Your analysts’ corrections become continuous, code-free updates that improve your entire operation.",
+    "url": "https://onefootprint.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Trust Fabric continuously evaluates whether risk agents follow policy, use evidence correctly, and produce consistent, defensible decisions. QA teams can inspect the exact policy, evidence, and trace behind each finding.",
+    "url": "https://onefootprint.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "“Footprint allowed us to spend less time on manual reviews and on KYC reconciliation allowing our engineers to focus on what matters.”",
+    "url": "https://onefootprint.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Sandbox (Technical Preview)",
+    "url": "https://onefootprint.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "© 2026 One Footprint Inc.",
+    "url": "https://onefootprint.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Customers — Footprint",
+    "url": "https://onefootprint.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Named teams, real queues, and numbers an examiner could check. Every customer story leads here.",
+    "url": "https://onefootprint.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "“BPOs are a whole problem unto themselves — they’re expensive, and it’s hard to audit the decisions they make. With Percy, we get the world’s best BPO built directly into our platform: incredibly easy to audit, cases done in record time, and full observability into every single decision.”",
+    "url": "https://onefootprint.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Flexcar: A Case Study on Enhancing Security Through Identity Verification in Auto Loan Replacement Product",
+    "url": "https://onefootprint.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Transforming Composer's Onboarding Process with Footprint",
+    "url": "https://onefootprint.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Unlocking Private Markets with Footprint: How GoodFin Built a Seamless, Secure Onboarding Experience for High-Affinity Investors",
+    "url": "https://onefootprint.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "No matter the industry you serve, Footprint stands as a dependable partner committed to ensuring trust and regulatory compliance at every step.",
+    "url": "https://onefootprint.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Sandbox (Technical Preview)",
+    "url": "https://onefootprint.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "© 2026 One Footprint Inc.",
+    "url": "https://onefootprint.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Product · Ex-Stripe, Sardine",
+    "url": "https://onefootprint.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "We hire people who can’t help but learn things nobody asked them to. We want people who ask why something works the way it does and keep asking when the explanation doesn’t make sense.",
+    "url": "https://onefootprint.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Customers rely on us for decisions that affect their business and their risk. We need to understand what they’re trying to do and where we’re making it harder. That means getting on calls, asking questions, and helping resolve problems wherever they start.",
+    "url": "https://onefootprint.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "We take on problems we don’t yet know how to solve. When we get stuck, we’re honest about what’s hard and work out what to try next. Nobody is expected to have every answer, but everyone is expected to help find one.",
+    "url": "https://onefootprint.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Understand the problem before committing to a solution. Think about what will happen when customers depend on it and someone else has to maintain it. When we take a shortcut, we should know why and what we’ll need to revisit.",
+    "url": "https://onefootprint.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Sandbox (Technical Preview)",
+    "url": "https://onefootprint.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "© 2026 One Footprint Inc.",
+    "url": "https://onefootprint.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "【MUFGも出資】One Footprintが2500万ドル調達！AIコンプライアンスOS「Percy」の全貌 | Plus Web3",
+    "url": "https://plus-web3.com/media/one-footprint-25m-series-b-mufg-regtech/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AI時代の金融犯罪に対抗する「Percy」と「Trust Fabric」：One FootprintのシリーズB資金調達と技術アーキテクチャ",
+    "url": "https://plus-web3.com/media/one-footprint-25m-series-b-mufg-regtech/",
+    "pass": 3
+   },
+   {
+    "quote": "米国のOne Footprint社（One Footprint Inc.）は2026年9月16日、シリーズBラウンドにおいて2,500万ドルの資金調達を実施したことを発表しました",
+    "url": "https://plus-web3.com/media/one-footprint-25m-series-b-mufg-regtech/",
+    "pass": 3
+   },
+   {
+    "quote": "One Footprint社は、処理増加に対する「時間（Time）」",
+    "url": "https://plus-web3.com/media/one-footprint-25m-series-b-mufg-regtech/",
+    "pass": 3
+   },
+   {
+    "quote": "1人の調査員が設定した前例（Precedent）は、KYC、EDD（詳細デューデリジェンス）、制裁スクリーニング、モニタリングの各プロセス間で即時に共有される",
+    "url": "https://plus-web3.com/media/one-footprint-25m-series-b-mufg-regtech/",
+    "pass": 3
+   },
+   {
+    "quote": "「エージェントが提案し、人間が承認する（Agents propose; humans approve）」モデルを採用",
+    "url": "https://plus-web3.com/media/one-footprint-25m-series-b-mufg-regtech/",
+    "pass": 3
+   },
+   {
+    "quote": "One Footprintの基盤システム（Vaulting Infrastructure）は、機密データ（PIIなど）の分離と安全な処理を実現するため、AWS Nitro Enclavesを用いた暗号化アーキテクチャを採用しています",
+    "url": "https://plus-web3.com/media/one-footprint-25m-series-b-mufg-regtech/",
+    "pass": 3
+   },
+   {
+    "quote": "One Footprint社の公式発表（採用・事業拡大方針）において、今回の資金調達に伴うエンジニアリング組織の拡大と、AI時代のリスク領域におけるエンジニアの役割について以下の通り言及されています",
+    "url": "https://plus-web3.com/media/one-footprint-25m-series-b-mufg-regtech/",
+    "pass": 3
+   },
+   {
+    "quote": "7. One FootprintのAI基盤とRegTech技術に関するQ&A",
+    "url": "https://plus-web3.com/media/one-footprint-25m-series-b-mufg-regtech/",
+    "pass": 3
+   },
+   {
+    "quote": "Q1. One FootprintのシリーズB調達の主要なポイントは何ですか？",
+    "url": "https://plus-web3.com/media/one-footprint-25m-series-b-mufg-regtech/",
+    "pass": 3
+   },
+   {
+    "quote": "One Footprint社は2026年9月16日、QEDをリード投資家とし、MUFGやIndex Venturesなどから2,500万ドルのシリーズB資金調達を実施しました",
+    "url": "https://plus-web3.com/media/one-footprint-25m-series-b-mufg-regtech/",
+    "pass": 3
+   },
+   {
+    "quote": "Q4. One Footprintのセキュリティ基盤（Nitro Enclaves）の仕組みは？",
+    "url": "https://plus-web3.com/media/one-footprint-25m-series-b-mufg-regtech/",
+    "pass": 3
+   },
+   {
+    "quote": "One Footprintのアーキテクチャおよび公式発表から、AIネイティブ時代のシステム開発においてエンジニアが着目すべき点は以下の3点に集約されます",
+    "url": "https://plus-web3.com/media/one-footprint-25m-series-b-mufg-regtech/",
+    "pass": 3
+   },
+   {
+    "quote": "One Footprint プレスリリース",
+    "url": "https://plus-web3.com/media/one-footprint-25m-series-b-mufg-regtech/",
+    "pass": 3
+   },
+   {
+    "quote": "One Footprint 公式オウンドメディア",
+    "url": "https://plus-web3.com/media/one-footprint-25m-series-b-mufg-regtech/",
+    "pass": 3
+   },
+   {
+    "quote": "Footprintへの出資について｜三菱UFJイノベーション・パートナーズ",
+    "url": "https://www.ip.mufg.jp/ja/news/y_x13stkz9bm/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Each report carries citations, timestamps, and a full task-by-task trail — and every change to an agent is versioned and tested before it ships.",
+    "url": "https://onefootprint.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月17日、株式会社三菱 UFJ フィナンシャル・グループ（代表執行役社長 半沢 淳一、以下「MUFG」）の連結子会社である、株式会社三菱UFJイノベーション・パートナーズ（代表取締役社長 鈴木 伸武、以下「MUIP」）は、今般、運営ファンドである三菱UFJイノベーション・パートナーズ3号投資事業組合を通じて、One Footprint, Inc. (以下「Footprint」）への出資（以下「本出資」）を行いました",
+    "url": "https://www.ip.mufg.jp/ja/news/y_x13stkz9bm/",
+    "pass": 3
+   },
+   {
+    "quote": "for styles the variables do not cover. A rule applies arbitrary CSS to one of the elements listed below.",
+    "url": "https://docs.onefootprint.com/articles/integrate/customization",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/495788-14",
+    "pass": 3
+   },
+   {
+    "quote": "Footprint has 36 total employees.",
+    "url": "https://pitchbook.com/profiles/company/495788-14",
+    "pass": 3
+   },
+   {
+    "quote": "What is Footprint’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/495788-14",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Footprint is",
+    "url": "https://pitchbook.com/profiles/company/495788-14",
+    "pass": 3
+   },
+   {
+    "quote": "One Footprint Number of Employees 2026 | Employee Count & Headcount Data | Revelio Labs",
+    "url": "https://www.reveliolabs.com/companies/one-footprint/employees",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does",
+    "url": "https://www.reveliolabs.com/companies/one-footprint/employees",
+    "pass": 3
+   },
+   {
+    "quote": "total employees worldwide as of",
+    "url": "https://www.reveliolabs.com/companies/one-footprint/employees",
+    "pass": 3
+   },
+   {
+    "quote": "from 25 employees in 2023 to 36 in 2026",
+    "url": "https://www.reveliolabs.com/companies/one-footprint/employees",
+    "pass": 3
+   },
+   {
+    "quote": "of employees, followed by South Asia at",
+    "url": "https://www.reveliolabs.com/companies/one-footprint/employees",
+    "pass": 3
+   },
+   {
+    "quote": "of total employees, followed by South Asia and Northern Europe.",
+    "url": "https://www.reveliolabs.com/companies/one-footprint/employees",
+    "pass": 3
+   },
+   {
+    "quote": "One Footprint employees by region",
+    "url": "https://www.reveliolabs.com/companies/one-footprint/employees",
+    "pass": 3
+   },
+   {
+    "quote": "One Footprint employees by department",
+    "url": "https://www.reveliolabs.com/companies/one-footprint/employees",
+    "pass": 3
+   },
+   {
+    "quote": "globally. Employees in North America receive the highest compensation, with median pay approximately",
+    "url": "https://www.reveliolabs.com/companies/one-footprint/employees",
+    "pass": 3
+   },
+   {
+    "quote": "employees, up from",
+    "url": "https://www.reveliolabs.com/companies/one-footprint/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Where are One Footprint employees located?",
+    "url": "https://www.reveliolabs.com/companies/one-footprint/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Most One Footprint employees are based in North America (",
+    "url": "https://www.reveliolabs.com/companies/one-footprint/employees",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Flexcar: A Case Study on Enhancing Security Through Identity Verification in Auto Loan Replacement Product",
+    "url": "https://onefootprint.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Trayd: A Case Study on Securing Construction Payroll Through Identity Verification",
+    "url": "https://onefootprint.com/customers",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "今回の資金調達には、リード投資家のQEDに加え、日本のメガバンク系VCであるMUFG（三菱UFJフィナンシャル・グループ／MUFG Innovation Partners）も参画しています",
+    "url": "https://plus-web3.com/media/one-footprint-25m-series-b-mufg-regtech/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、公式発表および公式プロダクト情報に基づき、同社の会社概要、導入事例、提唱する課題意識、AIコンプライアンスOS「Percy」および基盤「Trust Fabric」のシステム構造、そしてエンジニアリング視点における技術仕様を整理します",
+    "url": "https://plus-web3.com/media/one-footprint-25m-series-b-mufg-regtech/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年9月17日、株式会社三菱 UFJ フィナンシャル・グループ（代表執行役社長 半沢 淳一、以下「MUFG」）の連結子会社である、株式会社三菱UFJイノベーション・パートナーズ（代表取締役社長 鈴木 伸武、以下「MUIP」）は、今般、運営ファンドである三菱UFJイノベーション・パートナーズ3号投資事業組合を通じて、One Footprint, Inc. (以下「Footprint」）への出資（以下「本出資」）を行いました",
+    "url": "https://www.ip.mufg.jp/ja/news/y_x13stkz9bm/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "【MUFGも出資】One Footprintが2500万ドル調達！AIコンプライアンスOS... — Sep 23, 2026 · 本記事では、公式発表および公式プロダクト情報に基づき、同社の会社概要、導入事例、提唱する課題意識、AIコンプライアンスOS「Percy」および基盤「Trust Fabric」のシステム構造、そしてエンジニアリング視点における技術仕様を整理します。",
+    "url": "https://plus-web3.com/media/one-footprint-25m-series-b-mufg-regtech/",
+    "pass": 3
+   },
+   {
+    "quote": "SDK customization - docs.onefootprint.com — Sep 1, 2026 · Footprint loads custom fonts from Google Fonts. Pass a fontSrc URL in the appearance option, and the SDK loads the font and applies it across the component. We strongly recommend also setting fontFamily in variables so the font applies consistently.",
+    "url": "https://docs.onefootprint.com/articles/integrate/customization",
+    "pass": 3
+   },
+   {
+    "quote": "One Footprint Inc. announced that it has received $25 million ... — Sep 16, 2026 · Mitsubishi UFJ Financial Group, Inc. is a Japan-based company engaged in financial business. It operates through eight business segments. Retail & Digital Business Group provides financial services to individual customers and corporations.",
+    "url": "https://www.marketscreener.com/news/one-footprint-inc-announced-that-it-has-received-25-million-in-funding-from-a-group-of-investors-ce785bd2de89f425",
+    "pass": 3
+   },
+   {
+    "quote": "Footprint 2026 Company Profile: Valuation, Funding ...Footprint - Overview, News & Similar companies | ZoomInfo.comFootprint - Crunchbase Company Profile & FundingFootprint — Company Profile & Funding | Indexed.vcOne Footprint Number of Employees 2026 | Employee Count ...One Footprint Funding: $25M Series B (Sep 2026) & Investors — Information on valuation, funding, cap tables, investors, and exec",
+    "url": "https://pitchbook.com/profiles/company/495788-14",
+    "pass": 3
+   },
+   {
+    "quote": "One Footprint Number of Employees 2026 | Employee Count ... — Founded in 2018, the company is headquartered in New York City, New York. One Footprint's workforce has grown 39.7% from 2023 to 2026, up 8.3% year over year in 2026.",
+    "url": "https://www.reveliolabs.com/companies/one-footprint/employees",
+    "pass": 3
+   },
+   {
+    "quote": "One Footprint Funding: $25M Series B (Sep 2026) & Investors — One Footprint raised $25.0M in Series B funding from 5 investors. Agentic AI startup based in New York, United States. View funding history, investors & founder contacts.",
+    "url": "https://www.vcbacked.co/company/one-footprint",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/495788-14",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "\"#onefootprint\" - Results on X | Live Posts & Updates Results for \"#onefootprint\" on X (Twitter). Find the latest posts, discussions, and updates about #onefootprint. 20 results found.",
+    "url": "https://x.com/hashtag/onefootprint",
+    "pass": 3
+   },
+   {
+    "quote": "Footprint (@usefootprint) / X Introducing the Footprint legal library. We built this to help break down the current (and evolving) regulatory landscape surrounding financial services, fintechs, and data security: onefootprint.com/library",
+    "url": "https://x.com/usefootprint",
+    "pass": 3
+   },
+   {
+    "quote": "Footprint (@footprint_hq) / Posts / X Location: New York, USA Website: http://onefootprint.com Joined: Nov 24, 2021 212 Posts 56 Following",
+    "url": "https://x.com/Footprint_HQ",
+    "pass": 3
+   },
+   {
+    "quote": "Eli Wachs on X: \"Today marks the start of a new chapter at ... We know what's at stake for risk and compliance leaders, and we believe they should be armed with the most sophisticated tools possible to make the world's toughest decisions. Visit onefootprint.com to check out our new look and feel, but more importantly, to learn more about what we're setting out to do and why.",
+    "url": "https://x.com/EliWachs/status/2097696255962939816",
+    "pass": 3
+   },
+   {
+    "quote": "Footprint (@usefootprint) / X Today, we're announcing our Series B fundraise. As the volume of financial crime in the global economy expands, we're building the agentic defense system that to meet and defeat it. onefootprint.com/learn/series-b",
+    "url": "https://x.com/usefootprint",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Footprint - LinkedIn Website http://www.onefootprint.com Industry Software Development Company size 11-50 employees Headquarters New York",
+    "url": "https://www.linkedin.com/company/onefootprint",
+    "pass": 3
+   },
+   {
+    "quote": "Eli Wachs - Footprint | LinkedInOneFootprint: Redefining Identity and Privacy in the Digital AgeToday, we're announcing our $25M Series B fundraise. As the ...Erik Heitsmith - Building the AI operating system for risk ...Footprint - Grow faster with the AI-native platform for risk ...Today marks the start of a new chapter at Footprint, and we ... My mission with Footprint is to topple cartels and ",
+    "url": "https://www.linkedin.com/in/eliwachs",
+    "pass": 3
+   },
+   {
+    "quote": "OneFootprint: Redefining Identity and Privacy in the Digital Age Nov 28, 2024 · By choosing OneFootprint, organizations can enhance trust, reduce fraud, streamline operations, and ensure compliance, all while prioritizing the privacy of their users.",
+    "url": "https://www.linkedin.com/pulse/onefootprint-redefining-identity-privacy-digital-age-thefinrate-4zztc",
+    "pass": 3
+   },
+   {
+    "quote": "Footprint - Grow faster with the AI-native platform for risk ... Enhance UX with Invisible, Flexible Footprint SDK onefootprint.com 18 4,064 followers",
+    "url": "https://www.linkedin.com/posts/onefootprint_footprint-grow-faster-with-the-ai-native-activity-7366634253347901440-uOvf",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Onefootprint Onefootprint (@onefootprint.onefootprint ... Onefootprint Onefootprint is on Facebook. Join Facebook to connect with Onefootprint Onefootprint and others you may know. Facebook gives people the...",
+    "url": "https://www.facebook.com/onefootprint.onefootprint/",
+    "pass": 3
+   },
+   {
+    "quote": "Onefootprint Onefootprint Profiles - Facebook View the profiles of people named Onefootprint Onefootprint. Join Facebook to connect with Onefootprint Onefootprint and others you may know. Facebook...",
+    "url": "https://www.facebook.com/public/Onefootprint-Onefootprint/",
+    "pass": 3
+   },
+   {
+    "quote": "One Footprint - Facebook Jul 1, 2020 · One Footprint. 13 likes. Our goal is to create awareness for consumers, contrasting common purchases with better options to reduce your Global Footprint.",
+    "url": "https://www.facebook.com/One.Footprint.Info/",
+    "pass": 3
+   },
+   {
+    "quote": "Cộng Đồng MMO KYC sàn app 2026 | onefootprint 45/1 2p xong ... Sep 9, 2026 · onefootprint 45/1 2p xong không ngâm OCR: C MMO 2026 Mời mọi người tham gia cộng đồng bằng mã QR hoặc link dưới đây: đây: ロ糕口 Zalo 日 zalo. me/g/mvjpjlrhfdsdlvpitónq alo.me/g",
+    "url": "https://www.facebook.com/groups/kycmmofull/posts/1877148813265868/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://onefootprint.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onefootprint.com/solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onefootprint.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onefootprint.com/company",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://plus-web3.com/media/one-footprint-25m-series-b-mufg-regtech/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onefootprint.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ip.mufg.jp/ja/news/y_x13stkz9bm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onefootprint.com/learn/series-b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E9%BB%92%E7%94%B0%E6%AD%A6%E5%BF%97",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onefootprint.com/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://one-preit.com/about/index.html",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://footprintnetwork.org/2023/04/21/japan-two-decades-of-ecological-footprinting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.onefootprint.com/articles/integrate/customization",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketscreener.com/news/one-footprint-inc-announced-that-it-has-received-25-million-in-funding-from-a-group-of-investors-ce785bd2de89f425",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://onefootprint.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onefootprint.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.footprintus.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ssaandco.com/case-studies/rationalized-manufacturing-footprint-to-realize-30-cost-savings-at-pe-owned-equipment-manufacturer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fundediq.co/footprint-onefootprint-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/495788-14",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://indexed.vc/companies/footprint",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.reveliolabs.com/companies/one-footprint/employees",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hashtag/onefootprint",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/usefootprint",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Footprint_HQ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/EliWachs/status/2097696255962939816",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/onefootprint",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/eliwachs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/onefootprint-redefining-identity-privacy-digital-age-thefinrate-4zztc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/onefootprint_footprint-grow-faster-with-the-ai-native-activity-7366634253347901440-uOvf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/onefootprint.onefootprint/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/public/Onefootprint-Onefootprint/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/One.Footprint.Info/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/kycmmofull/posts/1877148813265868/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/usefootprint",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Onefootprint 日本 導入",
+   "results": [
+    "https://plus-web3.com/media/one-footprint-25m-series-b-mufg-regtech/",
+    "https://onefootprint.com/",
+    "https://www.ip.mufg.jp/ja/news/y_x13stkz9bm/",
+    "https://onefootprint.com/learn/series-b",
+    "https://japansecuritysummit.org/2026/02/13612/",
+    "https://www.proofpoint.com/jp/blog/cyberthreats/dmarc-adoption-industry-japan-us-2026",
+    "https://prtimes.jp/main/html/rd/p/000000015.000136162.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Onefootprint 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/黒田武志",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://onefootprint.com/company",
+    "https://one-preit.com/about/index.html",
+    "https://www.jetro.go.jp/invest/setting_up/section1/page1.html",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://www.aon.com/japan/company-overview"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Onefootprint Japan",
+   "results": [
+    "https://footprintnetwork.org/2023/04/21/japan-two-decades-of-ecological-footprinting/",
+    "https://docs.onefootprint.com/articles/integrate/customization",
+    "https://www.marketscreener.com/news/one-footprint-inc-announced-that-it-has-received-25-million-in-funding-from-a-group-of-investors-ce785bd2de89f425",
+    "https://onefootprint.com/",
+    "https://onefootprint.com/product",
+    "https://www.ip.mufg.jp/en/news/y_x13stkz9bm/",
+    "https://plus-web3.com/media/one-footprint-25m-series-b-mufg-regtech/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Onefootprint manufacturing customer case study",
+   "results": [
+    "https://onefootprint.com/customers",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.footprintus.com/case-studies",
+    "https://ssaandco.com/case-studies/rationalized-manufacturing-footprint-to-realize-30-cost-savings-at-pe-owned-equipment-manufacturer/",
+    "https://onefootprint.com/",
+    "https://www.chartwell-consulting.com/insights/case-studies/redesigning-a-manufacturers-footprint-to-unlock-profitability/",
+    "https://www.stroudinternational.com/case-studies/manufacturing/aggressive-footprint-consolidation-68ph2"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Onefootprint white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://www.ninjaone.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://upcloud.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Onefootprint founded funding employees revenue",
+   "results": [
+    "https://fundediq.co/footprint-onefootprint-com-funding/",
+    "https://pitchbook.com/profiles/company/495788-14",
+    "https://indexed.vc/companies/footprint",
+    "https://www.reveliolabs.com/companies/one-footprint/employees",
+    "https://www.vcbacked.co/company/one-footprint",
+    "https://www.crunchbase.com/organization/one-footprint",
+    "https://www.zoominfo.com/c/one-footprint-inc/566126670"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Onefootprint",
+   "results": [
+    "https://note.com/hashtag/edh",
+    "https://note.com/aigx/n/n70997ef66078?hl=en",
+    "https://note.com/npaka/n/n1d99253ae2cf",
+    "https://note.com/nippon1proud/n/n90f6d504ac55",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/rakusuru_labo/n/n78ea1ee869a3",
+    "https://note.com/travelingfoodlab/n/na00ecc76f314"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Onefootprint",
+   "results": [
+    "https://x.com/hashtag/onefootprint",
+    "https://x.com/usefootprint",
+    "https://x.com/Footprint_HQ",
+    "https://x.com/EliWachs/status/2097696255962939816",
+    "https://x.com/alexgrinman",
+    "https://x.com/MeliGreenSeed",
+    "https://x.com/elliottvforde"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Onefootprint",
+   "results": [
+    "https://www.linkedin.com/company/onefootprint",
+    "https://www.linkedin.com/in/eliwachs",
+    "https://www.linkedin.com/pulse/onefootprint-redefining-identity-privacy-digital-age-thefinrate-4zztc",
+    "https://www.linkedin.com/posts/onefootprint_footprint-grow-faster-with-the-ai-native-activity-7366634253347901440-uOvf",
+    "https://www.linkedin.com/posts/eliwachs_today-marks-the-start-of-a-new-chapter-at-activity-7503454770649726976-idvK",
+    "https://www.linkedin.com/posts/onefootprint_today-were-announcing-our-25m-series-b-activity-7505990989224878080-bvL3",
+    "https://www.linkedin.com/in/erik-heitsmith"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Onefootprint",
+   "results": [
+    "https://www.facebook.com/onefootprint.onefootprint/",
+    "https://www.facebook.com/public/Onefootprint-Onefootprint/",
+    "https://www.facebook.com/One.Footprint.Info/",
+    "https://www.facebook.com/groups/kycmmofull/posts/1877148813265868/",
+    "https://www.facebook.com/",
+    "https://www.facebook.com/PrisstannPhotography/",
+    "https://www.facebook.com/onefootprintontheworld/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Onefootprint note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://team.nipponia.or.jp/cms/wp-content/uploads/2026/07/NOTE_Company-overview_ver.5.6.pdf",
+    "https://x.com/note_corp/status/2074734197949034502",
+    "https://onefootprint.com/",
+    "https://onefootprint.com/company"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Onefootprint X 投稿",
+   "results": [
+    "https://x.com/usefootprint",
+    "https://www.onefootprint.com/changelog",
+    "https://x.com/Footprint_HQ",
+    "https://onefootprint.com/",
+    "https://search.yahoo.co.jp/realtime/search/投稿/",
+    "https://note.com/mgane/n/n1c0d7384c8a0",
+    "https://fitly.pics/blog/x-twitter-post-tips"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部37頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部37頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部37頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部37頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部37頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部37頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部37頁・検索12回）"
+ }
+}

@@ -1,0 +1,1562 @@
+{
+ "name": "Omneky",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜状態なし",
+ "researched_at": "2026-11-09T23:13:43.340398+00:00",
+ "official_url": "https://www.omneky.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "Area/Address",
+    "value": "California, USA Shibuya Parco DG Building, 15-1 Udagawacho, Shibuya-ku, Tokyo",
+    "url": "https://tokyo-gc.metro.tokyo.lg.jp/startups_en/omneky/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "OmnekyがMeta、Google、TikTok、OpenAI Adsなど9つのチャネルに配信します",
+    "url": "https://www.omneky.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "広告アカウントがなくても、OmnekyのアカウントでMeta、Google、OpenAI Adsに配信できます",
+    "url": "https://www.omneky.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "YouTubeの動画配信はGoogle Ads経由です",
+    "url": "https://www.omneky.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "インサイトはMeta、Google、TikTok、LinkedIn、Reddit、OpenAI Adsの成果を読み込みます",
+    "url": "https://www.omneky.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "/create_video_ad_async",
+    "url": "https://www.omneky.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "-H \"Content-Type: application/json\" \\",
+    "url": "https://www.omneky.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "\"product_metadata\": { \"product_name\": \"Cloud Runners\", \"product_images\": null },",
+    "url": "https://www.omneky.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "Meta、Google、OpenAI Adsでは不要です",
+    "url": "https://www.omneky.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "準備ができたら、Lite、Standard、Pro、Enterpriseから選べます",
+    "url": "https://www.omneky.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "料金 — Lite・Standard・Pro・Enterprise — Omneky",
+    "url": "https://www.omneky.com/ja/pricing-plans",
+    "pass": 1
+   },
+   {
+    "quote": "Omneky helped Hugger Mugger sustain a 2.53× blended ROAS across summer 2026 on Facebook — diagnosing creative fatigue, refreshing UGC and Reels formats, and scaling profitably into Q4.",
+    "url": "https://www.omneky.com/ja/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Life Enhancement, a pioneer in nutritional supplements for longevity and brain health, partnered with Omneky to launch and scale two new hero products — Motion Potion (a gut health support formula) and Stone Breaker (a kidney and urinary cleanse supplement). The goal was to introduce these products",
+    "url": "https://www.omneky.com/ja/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "2X Monster Trucks needed to scale ad production across events but lacked image variety, persona-specific visuals, and a clear strategy to boost ROAS without overspending or relying on guesswork. Omneky solved this by generating tailored assets, scaling ad variations, and providing data-driven insigh",
+    "url": "https://www.omneky.com/ja/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Flex Agent partnered with Omneky’s AI advertising platform to revolutionize their marketing. By leveraging AI marketing tools, they scaled creative production, launched tailored campaigns, and optimized results in real-time. The partnership led to +227% sign-ups, 450K+ impressions, and a $1.86 cost",
+    "url": "https://www.omneky.com/ja/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Omiana partnered with Omneky to scale ad creatives using generative AI and data-driven insights, achieving a 3.5X ROI and +200% YoY sales growth. By leveraging Omneky’s scalable content generation and targeted optimizations, Omiana achieved record-breaking revenue and reinforced its commitment to cl",
+    "url": "https://www.omneky.com/ja/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "GoSun partnered with Omneky to drive E-Commerce sales using AI-powered ad strategies and data-driven optimizations. By leveraging Omneky’s generative AI tools, GoSun achieved a +10% incremental lift, with ads accounting for 20% of total sales volume, while uncovering insights across multiple digital",
+    "url": "https://www.omneky.com/ja/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "h.way is a fintech focused on the US Hispanic consumer, with the purpose of transforming financial disparity into prosperity. The company creates financial products and services for the underserved Hispanic community, delivering innovative, culturally fluent money-managing experiences that fit their",
+    "url": "https://www.omneky.com/ja/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Meet Hone: Hone is a restaurant accounting software that helps restaurant operators be more profitable by taking over their bookkeeping. If you’re a restaurant operator that owns 1-10 units, is doing over $1M in revenue, and wants to keep more of your hard-earned money, check out Hone!",
+    "url": "https://www.omneky.com/ja/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Created out of the identification that unsafe and unexplainable AI makes it hard for most businesses to trust their AI-driven decisions, Virtuous AI is a data intelligence platform that aims to ensure equitable AI. Virtuous AI helps clients ensure their AI systems comply with GDPR, layering on propr",
+    "url": "https://www.omneky.com/ja/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Jobscan is an innovative SaaS business that uses AI to reduce friction in the job search and application process. They offer suggestions that help optimize resumes for recruiter preferences and hidden requirements buried in job descriptions. Jobscan wanted to use paid social to build an audience, bu",
+    "url": "https://www.omneky.com/ja/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "When Omneky partnered with Nomi Network, they had a 1:1:1 pledge. Through this pledge, Omneky was able to donate 1% of time, product, and profit to Nomi Network’s cause.",
+    "url": "https://www.omneky.com/ja/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Using FB ads and Omneky’s AI platform, MeetKai increased page engagements 24x, building a strong audience prior to launching their product.",
+    "url": "https://www.omneky.com/ja/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Torii Homes is a modern home search platform that combines technology and exceptional customer service for a personalized and stress-free home buying experience. Torii’s core product offer provides tools that make it easy to personalize your home search, schedule showings, place offers and get exper",
+    "url": "https://www.omneky.com/ja/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "FoodSt is a Sydney-based food delivery business that specializes in authentic meals made by chefs using traditional family recipes and delivers frozen meals directly to clients at their preferred delivery time. Users have the option to join as a chef and offer their own home-cooked meals or browse f",
+    "url": "https://www.omneky.com/ja/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Vial Health is a patient recruiting service that specializes in connecting patients to drug trials attempting to treat specific conditions. The Vial business model allows highly efficient clinical trials for sponsors and delivers paid incentives to patient participants. By partnering with experience",
+    "url": "https://www.omneky.com/ja/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Nelo is a Mexico-based consumer payment solution company. They allow consumers to buy their favorite products or services and pay over the next few months (instead of all upfront and at once). Nelo was growing quickly, and with the closing of their seed round (lead by Homebrew Capital), they needed",
+    "url": "https://www.omneky.com/ja/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Bjorem Speech is an innovative company that works to empower children's learning capabilities through easily understandable language products. Bjorem was created by speech therapists to help children easily learn how to speak and understand complex language.",
+    "url": "https://www.omneky.com/ja/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "What started as a parody of the classic overpriced cooler, is now a multimillion-dollar lifestyle brand. SHITI Coolers founders Trevor and Austin Zacny simply wanted a way to express their lifestyle of using the same old rusty cooler rather than the exorbitant cost of a “high-end cooler.” The Zacny",
+    "url": "https://www.omneky.com/ja/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Have you ever struggled between choosing a hotel with inflated prices or an Airbnb that just wasn’t up to standards? Mexico City-based hospitality company Casai was founded to end that frustration. Casai wants to end the dichotomy between choosing a hotel or Airbnb by delivering its guests premium a",
+    "url": "https://www.omneky.com/ja/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Spicin creates and sells gourmet hot sauces, condiments, salsas, spices, snacks, and drink mixes. They use all-natural, non-GMO ingredients in all of their products. The key to their award winning-sauces is producing them in micro-batches using their state-of-the-art equipment to create high quality",
+    "url": "https://www.omneky.com/ja/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Modern Crew is an India-based men’s underwear brand that strives to create luxurious products at fair and affordable prices. After witnessing the stagnancy of the underwear segment, Modern Crew was determined to create a game changing product. The result? High quality, elegantly designed men’s under",
+    "url": "https://www.omneky.com/ja/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Makeen Technologies provides end-to-end technology solutions for its clients, from improving business flow to building innovative platforms and apps to utilizing data to better understand customers. To tackle the client’s problem or challenge, Makeen connects the business to the appropriate resource",
+    "url": "https://www.omneky.com/ja/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Debie provides its clients with credit tools for the digital age, making business credit versatile, accessible, and actionable. Their goal is to help more businesses find opportunities by uncovering and distributing credit data. Debie boasts an impressive track record, having helped hundreds of busi",
+    "url": "https://www.omneky.com/ja/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Cut+Dry wants to change the food supply chain by giving everyone access to ingredients previously only available to restaurants. Based in San Francisco, The Market by Cut+Dry partners with the highest quality restaurants to connect suppliers to individual consumers. Customers have access to restaura",
+    "url": "https://www.omneky.com/ja/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Welcome to Shopping Live, the best way to shop in Russia. With the #1 rated tv shop in the country, Shopping Live advertises and demonstrates its products on air. They launched in 2010 and have been a wildly successful company. But they recognized the pull of social media: it’s the fastest growing m",
+    "url": "https://www.omneky.com/ja/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Omiana partnered with Omneky to scale ad creatives using generative AI and data-driven insights, achieving a 3.5X ROI and +200% YoY sales growth. By leveraging Omneky’s scalable content generation and targeted optimizations, Omiana achieved record-breaking revenue and reinforced its commitment to cl",
+    "url": "https://www.omneky.com/ja/case-studies/omiana",
+    "pass": 1
+   },
+   {
+    "quote": "Omiana is a vegan, 100% all natural and organic beauty company that offers high-quality makeup and skin care products for all types of skin, that are titanium dioxide and mica free. Omiana provides high performing makeup without harmful additives. Their mission is Omission.",
+    "url": "https://www.omneky.com/ja/case-studies/omiana",
+    "pass": 1
+   },
+   {
+    "quote": "Omiana’s goal was to drive increased sales, profitably. It was important to scale digital ad creatives across digital media channels, as creative is the top lever to drive conversions. Omiana’s CEO, Kevin Schrantz, wanted to leapfrog current solutions and adopt Gen AI to help Omiana scale quickly.",
+    "url": "https://www.omneky.com/ja/case-studies/omiana",
+    "pass": 1
+   },
+   {
+    "quote": "\"The exceptional quality and scale of our digital assets have been instrumental in broadening our customer base and driving substantial sales growth, underscoring the strength of our partnership in the digital marketing sphere.\"",
+    "url": "https://www.omneky.com/ja/case-studies/omiana",
+    "pass": 1
+   },
+   {
+    "quote": "Omiana yielded impressive results including:",
+    "url": "https://www.omneky.com/ja/case-studies/omiana",
+    "pass": 1
+   },
+   {
+    "quote": "Profitability scaled ad spend by 135%. Omneky successfully scaled Omiana’s ad spend on Facebook by 135% while maintaining a positive ROAS.",
+    "url": "https://www.omneky.com/ja/case-studies/omiana",
+    "pass": 1
+   },
+   {
+    "quote": "A record-breaking Q3; Omiana grew revenue by 35% with 68% of that increase from advertising and creative programs managed by Omneky.",
+    "url": "https://www.omneky.com/ja/case-studies/omiana",
+    "pass": 1
+   },
+   {
+    "quote": "We conducted comprehensive ad testing across audience segments, products, and promotions.",
+    "url": "https://www.omneky.com/ja/case-studies/omiana",
+    "pass": 1
+   },
+   {
+    "quote": "There were several best practices deployed that led to Omiana’s success, here are two highlights:",
+    "url": "https://www.omneky.com/ja/case-studies/omiana",
+    "pass": 1
+   },
+   {
+    "quote": "Data-Driven Optimization: We used Omneky’s creative analytics to refine creative strategies and optimize Omiana’s advertising programs. For example, insights like having “Vegan” in the title increased CTR by 19.5%. Once the new creative was tested, we gained more creative insights that informed campaigns optimization and creative generation.",
+    "url": "https://www.omneky.com/ja/case-studies/omiana",
+    "pass": 1
+   },
+   {
+    "quote": "Products and messaging: Omneky developed creative across Omiana’s suite of makeup and skin care products to tap into target audiences that were seeking a range of Omiana solutions. Value propositions and messaging refinement were tested over time and optimized to drive increased conversions.",
+    "url": "https://www.omneky.com/ja/case-studies/omiana",
+    "pass": 1
+   },
+   {
+    "quote": "An example of this was “Non-Toxic Everything” messaging that performed well. We generated and tested more iterations like adding “Non-Toxic” plus an Omiana product. The “Non-Toxic” plus “Loose Powder Trio” also performed well from a conversion perspective when tested.",
+    "url": "https://www.omneky.com/ja/case-studies/omiana",
+    "pass": 1
+   },
+   {
+    "quote": "Omneky’s content generation and insightful analytics played a key role in Omiana’s growth. Omneky produced scalable and targeted content that grew Omiana’s customer base, created a more cohesive brand image, and drove brand loyalty. This data-driven approach allowed Omiana to further its mission to provide high-quality cosmetics without harmful additives, achieving record breaking sales.",
+    "url": "https://www.omneky.com/ja/case-studies/omiana",
+    "pass": 1
+   },
+   {
+    "quote": "RAD Intel is an AI-powered marketing intelligence platform that helps brands and agencies uncover audience insights, find influencers, and optimize content. It analyzes real-time data from Reddit, TikTok, and X to guide strategy, and offers managed services for influencer campaigns.",
+    "url": "https://www.omneky.com/ja/case-studies/rad-intel",
+    "pass": 1
+   },
+   {
+    "quote": "With Omneky’s Creative Insights platform, RAD Intel gained real-time visibility into which creative elements were driving performance. This enabled precise iteration throughout the campaign:",
+    "url": "https://www.omneky.com/ja/case-studies/rad-intel",
+    "pass": 1
+   },
+   {
+    "quote": "Omneky deployed an always-on testing process that allowed RAD Intel to iterate quickly and at scale. Each insight was fed back into new creative versions, leading to continuous performance gains throughout the campaign lifecycle.",
+    "url": "https://www.omneky.com/ja/case-studies/rad-intel",
+    "pass": 1
+   },
+   {
+    "quote": "Omneky’s creative and data-driven approach delivered major results for RAD Intel’s crowdfunding campaign:",
+    "url": "https://www.omneky.com/ja/case-studies/rad-intel",
+    "pass": 1
+   },
+   {
+    "quote": "Delivered over 20.6 million total impressions, with key spikes including 1.3 million in a single day on April 25, 2024.",
+    "url": "https://www.omneky.com/ja/case-studies/rad-intel",
+    "pass": 1
+   },
+   {
+    "quote": "Reduced cost per click from $4.57 at the start of the campaign to just $0.71 by April, averaging $1.55 throughout the duration of the campaign.",
+    "url": "https://www.omneky.com/ja/case-studies/rad-intel",
+    "pass": 1
+   },
+   {
+    "quote": "Efficient Lead Generation:",
+    "url": "https://www.omneky.com/ja/case-studies/rad-intel",
+    "pass": 1
+   },
+   {
+    "quote": "With Omneky, RAD Intel was able to pair bold, generative AI creative with data-backed decision-making—lowering costs, increasing engagement, and raising over $366K through their investor campaign. The combination of visual innovation and creative insight proved key to scaling efficiently and with confidence.",
+    "url": "https://www.omneky.com/ja/case-studies/rad-intel",
+    "pass": 1
+   },
+   {
+    "quote": "2X Monster Trucks needed to scale ad production across events but lacked image variety, persona-specific visuals, and a clear strategy to boost ROAS without overspending or relying on guesswork. Omneky solved this by generating tailored assets, scaling ad variations, and providing data-driven insigh",
+    "url": "https://www.omneky.com/ja/case-studies/2x-monster-trucks",
+    "pass": 1
+   },
+   {
+    "quote": "In late 2024, 2X Monster Trucks recognized that their existing creative needs to be revamped. This presented an opportunity to refresh their creative with more authentic, audience-specific content—but with a small team, limited time, and well established KPIs for each event, they had to proceed carefully to avoid disrupting campaign performance.",
+    "url": "https://www.omneky.com/ja/case-studies/2x-monster-trucks",
+    "pass": 1
+   },
+   {
+    "quote": "They were also preparing to promote two major events in Chandler and Tucson, Arizona—adding urgency to their need for a new creative approach while maintaining reliable performance.",
+    "url": "https://www.omneky.com/ja/case-studies/2x-monster-trucks",
+    "pass": 1
+   },
+   {
+    "quote": "This revealed three key marketing challenges:",
+    "url": "https://www.omneky.com/ja/case-studies/2x-monster-trucks",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Meet Hone: Hone is a restaurant accounting software that helps restaurant operators be more profitable by taking over their bookkeeping. If you’re a restaurant operator that owns 1-10 units, is doing over $1M in revenue, and wants to keep more of your hard-earned money, check out Hone!",
+    "url": "https://www.omneky.com/ja/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Rad Intel — Case Study — Omneky",
+    "url": "https://www.omneky.com/ja/case-studies/rad-intel",
+    "pass": 1
+   },
+   {
+    "quote": "Solve — Case Study — Omneky",
+    "url": "https://www.omneky.com/ja/case-studies/case-study-solve",
+    "pass": 1
+   },
+   {
+    "quote": "Nelo — Case Study — Omneky",
+    "url": "https://www.omneky.com/ja/case-studies/how-saas-company-nelo-decreased-install-tutorial-and-inapp-purchasing-costs-while-developing-a-strong-multiplatform-presence-on-facebook-google-and-tiktok",
+    "pass": 1
+   },
+   {
+    "quote": "Bjorem Speech — Case Study — Omneky",
+    "url": "https://www.omneky.com/ja/case-studies/case-study-bjorem-speech",
+    "pass": 1
+   },
+   {
+    "quote": "Makeen — Case Study — Omneky",
+    "url": "https://www.omneky.com/ja/case-studies/case-study-makeen",
+    "pass": 1
+   },
+   {
+    "quote": "Flex Agent — Case Study — Omneky",
+    "url": "https://www.omneky.com/ja/case-studies/flex-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Yotta — Case Study — Omneky",
+    "url": "https://www.omneky.com/ja/case-studies/how-yotta-decreased-install-tutorial-and-in-app-purchasing-costs-while-running-television-ads",
+    "pass": 1
+   },
+   {
+    "quote": "Runa HR — Case Study — Omneky",
+    "url": "https://www.omneky.com/ja/case-studies/how-runa-hr-decreased-lead-costs-and-developed-innovative-ads-adhering-to-brand-guidelines-yet-revolutionizing-the-space",
+    "pass": 1
+   },
+   {
+    "quote": "Nomi — Case Study — Omneky",
+    "url": "https://www.omneky.com/ja/case-studies/how-nomi-network-increased-human-trafficking-awareness-and-donation-quanitity-through-fb-ads-with-omneky",
+    "pass": 1
+   },
+   {
+    "quote": "2X Monster Trucks case study",
+    "url": "https://ai-jisso.jp/products/omneky/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Solve achieves 11x ROAS with Omneky | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/omneky/case-study/solve-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Solve achieves 11x ROAS with Omneky",
+    "url": "https://www.casestudies.com/company/omneky/case-study/solve-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Solve - Customer Case Study",
+    "url": "https://www.casestudies.com/company/omneky/case-study/solve-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Open case study document...",
+    "url": "https://www.casestudies.com/company/omneky/case-study/solve-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/omneky/case-study/solve-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Makeen achieves 6.3x reach growth and 4.2x more qualified leads with Omneky AI ads | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/omneky/case-study/makeen-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Makeen achieves 6.3x reach growth and 4.2x more qualified leads with Omneky AI ads",
+    "url": "https://www.casestudies.com/company/omneky/case-study/makeen-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Makeen - Customer Case Study",
+    "url": "https://www.casestudies.com/company/omneky/case-study/makeen-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Open case study document...",
+    "url": "https://www.casestudies.com/company/omneky/case-study/makeen-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/omneky/case-study/makeen-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "What I especially liked is that it \"automatically recognizes fonts, colors, and tone just by uploading your brand book\"! Since you can create effective ads while maintaining brand consistency, it seems like it could be used by everyone from individual creators to large companies ✨",
+    "url": "https://note.com/omusubi__chan/n/ncae34846329d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "' phenomenon caused by ad fatigue. There is a demand for ads that can capture a user's attention in this short time and make them instantly understand the content—'instant understanding'.",
+    "url": "https://note.com/omneky_jp/n/n450574590c6e?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Based in Japan, Solve is a clothing company breaking into the high fashion industry. They create stylish men’s dress shirts that never disappoint. With a value proposition promising high quality and low costs, Solve produces the perfect fitting shirt at the right price. Before using Omneky, Solve ha",
+    "url": "https://www.omneky.com/ja/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Based in Japan, Solve is a clothing company breaking into the high fashion industry. They create stylish men’s dress shirts that never disappoint. With a value proposition promising high quality and low costs, Solve produces the perfect fitting shirt at the right price. Before using Omneky, Solve ha",
+    "url": "https://www.omneky.com/ja/case-studies/case-study-solve",
+    "pass": 1
+   },
+   {
+    "quote": "Solve joined Omneky to expand their reach within the Japanese market and compete with larger clothing companies. We’re proud to say that Omneky has driven dramatic improvements in Solve’s bottom line!",
+    "url": "https://www.omneky.com/ja/case-studies/case-study-solve",
+    "pass": 1
+   },
+   {
+    "quote": "With their significant growth in the Japanese market, Solve now has the opportunity to take the next steps in scaling up their innovative business.",
+    "url": "https://www.omneky.com/ja/case-studies/case-study-solve",
+    "pass": 1
+   },
+   {
+    "quote": "Omnekyとは？機能・料金・導入事例 | AI実装研究所",
+    "url": "https://ai-jisso.jp/products/omneky/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語を含む多言語の広告生成と公式ヘルプを提供し、制作から配信後の改善までを一つの環境で支援します",
+    "url": "https://ai-jisso.jp/products/omneky/",
+    "pass": 3
+   },
+   {
+    "quote": "製品UIと有人問い合わせの日本語範囲は契約前に確認",
+    "url": "https://ai-jisso.jp/products/omneky/",
+    "pass": 3
+   },
+   {
+    "quote": "画像、動画、UGC形式の広告を日本語を含む複数言語で作り、主要な広告媒体へ公開できます",
+    "url": "https://ai-jisso.jp/products/omneky/",
+    "pass": 3
+   },
+   {
+    "quote": "Shibuya Parco DG Building, 15-1 Udagawacho, Shibuya-ku, Tokyo",
+    "url": "https://tokyo-gc.metro.tokyo.lg.jp/startups_en/omneky/",
+    "pass": 3
+   },
+   {
+    "quote": "Prospective matching partners in Tokyo",
+    "url": "https://tokyo-gc.metro.tokyo.lg.jp/startups_en/omneky/",
+    "pass": 3
+   },
+   {
+    "quote": "Market development in Japan",
+    "url": "https://tokyo-gc.metro.tokyo.lg.jp/startups_en/omneky/",
+    "pass": 3
+   },
+   {
+    "quote": "Date of Establishment of the Japanese Entity",
+    "url": "https://tokyo-gc.metro.tokyo.lg.jp/startups_en/omneky/",
+    "pass": 3
+   },
+   {
+    "quote": "Solve, a Japan-based clothing company focused on men’s dress shirts, wanted to break into the high fashion market and scale its business in Japan. After starting to run Facebook ads, the company had not yet seen meaningful results and needed a better way to understand what would drive conversions. To solve this challenge, Solve partnered with Omneky.",
+    "url": "https://www.casestudies.com/company/omneky/case-study/solve-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Omneky Announces New Solution: Creative Generation Pro｜omneky Japan",
+    "url": "https://note.com/omneky_jp/n/n96e33bcdd658?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The 'Instant Understanding' Common to Engaging Ads: The Frontline of Visual Perception and AI Generation｜omneky Japan",
+    "url": "https://note.com/omneky_jp/n/n450574590c6e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "これまで大手代理店しか実現できなかった未来の広告運用を、今日から始めるための一歩を解説します",
+    "url": "https://note.com/kawaidesign/n/n03722cf52c4d",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "How 2X Monster Trucks Achieved 7.51 ROAS, 684 Purchases, and a $53K Increase in Revenue with Omneky",
+    "url": "https://www.omneky.com/ja/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Omiana partnered with Omneky to scale ad creatives using generative AI and data-driven insights, achieving a 3.5X ROI and +200% YoY sales growth. By leveraging Omneky’s scalable content generation and targeted optimizations, Omiana achieved record-breaking revenue and reinforced its commitment to cl",
+    "url": "https://www.omneky.com/ja/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Meet Hone: Hone is a restaurant accounting software that helps restaurant operators be more profitable by taking over their bookkeeping. If you’re a restaurant operator that owns 1-10 units, is doing over $1M in revenue, and wants to keep more of your hard-earned money, check out Hone!",
+    "url": "https://www.omneky.com/ja/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "When Omneky partnered with Runa HR, the Mexico-based SaaS software platform had a wide range of services to offer and an even deeper library of creative. We were tasked with creating a strong narrative across Facebook and Google.",
+    "url": "https://www.omneky.com/ja/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Omiana partnered with Omneky to scale ad creatives using generative AI and data-driven insights, achieving a 3.5X ROI and +200% YoY sales growth. By leveraging Omneky’s scalable content generation and targeted optimizations, Omiana achieved record-breaking revenue and reinforced its commitment to cl",
+    "url": "https://www.omneky.com/ja/case-studies/omiana",
+    "pass": 1
+   },
+   {
+    "quote": "Omiana hit their company monthly revenue goal in November of 2023, shifting their baseline revenue upward.",
+    "url": "https://www.omneky.com/ja/case-studies/omiana",
+    "pass": 1
+   },
+   {
+    "quote": "A record-breaking Q3; Omiana grew revenue by 35% with 68% of that increase from advertising and creative programs managed by Omneky.",
+    "url": "https://www.omneky.com/ja/case-studies/omiana",
+    "pass": 1
+   },
+   {
+    "quote": "How 2X Monster Trucks Achieved 7.51 ROAS, 684 Purchases, and a $53K Increase in Revenue with Omneky",
+    "url": "https://www.omneky.com/ja/case-studies/2x-monster-trucks",
+    "pass": 1
+   },
+   {
+    "quote": "Omneky's image creative generated $39,000 in revenue.​",
+    "url": "https://www.omneky.com/ja/case-studies/2x-monster-trucks",
+    "pass": 1
+   },
+   {
+    "quote": "Omneky's image ads attained a ROAS of 7.51 and lowered the Cost Per Acquisition (CPA) by $2.33",
+    "url": "https://www.omneky.com/ja/case-studies/2x-monster-trucks",
+    "pass": 1
+   },
+   {
+    "quote": "We knew we had a great product, but we struggled with understanding what made our audience convert to use our service. With Omneky, we were able to generate ads that were optimized for our audience segments. And within weeks we saw massive results with huge increases in our revenues and profits.",
+    "url": "https://www.omneky.com/ja/case-studies/case-study-solve",
+    "pass": 1
+   },
+   {
+    "quote": "In its first month, Omneky was able to help Nelo slash the cost of acquisition by a third for sign-ups on Google. Additionally, ad testing already landed comprehensive results in the first round. On Google, Omneky helped Nelo ascertain that ads in the 30 second range garnered the cheapest cost of acquisition at half the cost per lead of a 10 second video.",
+    "url": "https://www.omneky.com/ja/case-studies/how-saas-company-nelo-decreased-install-tutorial-and-inapp-purchasing-costs-while-developing-a-strong-multiplatform-presence-on-facebook-google-and-tiktok",
+    "pass": 1
+   },
+   {
+    "quote": "In its first month, Omneky was able to help Yotta slash the cost of acquisition by a third for sign-ups. Additionally, ad testing already landed comprehensive results in the first round. On television, we found that ads in the 30 second range garnered the cheapest cost of acquisition at half the cost of 15 second and 1 minute ads.",
+    "url": "https://www.omneky.com/ja/case-studies/how-yotta-decreased-install-tutorial-and-in-app-purchasing-costs-while-running-television-ads",
+    "pass": 1
+   },
+   {
+    "quote": "Furthermore, we were able to establish a baseline of qualitative success with A/B testing different creative. We found that for Yotta, including 2 people in the video ads with copy overlay of “Win Up to $10 million every week” proved to be the third cost of acquisition.",
+    "url": "https://www.omneky.com/ja/case-studies/how-yotta-decreased-install-tutorial-and-in-app-purchasing-costs-while-running-television-ads",
+    "pass": 1
+   },
+   {
+    "quote": "In addition to this, we embraced a complex yet effective strategy of cross-platform creative orchestration and iteration. We launched User Generated Content (UGC) and long-form testimonial video ads across an array of platforms that included Google, Facebook, and TikTok, along with TV advertising. This allowed us to cast a wide net, capturing diverse audiences through their preferred platforms.",
+    "url": "https://www.omneky.com/ja/case-studies/how-yotta-decreased-install-tutorial-and-in-app-purchasing-costs-while-running-television-ads",
+    "pass": 1
+   },
+   {
+    "quote": "When Omneky partnered with Runa HR, the Mexico-based SaaS software platform had a wide range of services to offer and an even deeper library of creative. We were tasked with creating a strong narrative across Facebook and Google.",
+    "url": "https://www.omneky.com/ja/case-studies/how-runa-hr-decreased-lead-costs-and-developed-innovative-ads-adhering-to-brand-guidelines-yet-revolutionizing-the-space",
+    "pass": 1
+   },
+   {
+    "quote": "Omneky Revenue 2023: $8.3M Est.",
+    "url": "https://getlatka.com/companies/omneky.com",
+    "pass": 3
+   },
+   {
+    "quote": "revenue & acquisition",
+    "url": "https://getlatka.com/companies/omneky.com",
+    "pass": 3
+   },
+   {
+    "quote": "Omneky has not published its revenue. Growjo puts it at about $8.3M a year (December 2023).",
+    "url": "https://getlatka.com/companies/omneky.com",
+    "pass": 3
+   },
+   {
+    "quote": "Omneky CEO, founders & employees",
+    "url": "https://getlatka.com/companies/omneky.com",
+    "pass": 3
+   },
+   {
+    "quote": "Hikari Senju founded Omneky in 2018 and led it as CEO. Omneky had 71 employees (December 2023, Growjo estimate).",
+    "url": "https://getlatka.com/companies/omneky.com",
+    "pass": 3
+   },
+   {
+    "quote": "What was Omneky's revenue?",
+    "url": "https://getlatka.com/companies/omneky.com",
+    "pass": 3
+   },
+   {
+    "quote": "Growjo estimates Omneky's revenue at about",
+    "url": "https://getlatka.com/companies/omneky.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Omneky have?",
+    "url": "https://getlatka.com/companies/omneky.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/omneky.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/omneky.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/omneky.com",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "RAD Intel is an AI-powered marketing intelligence platform that helps brands and agencies uncover audience insights, find influencers, and optimize content. It analyzes real-time data from Reddit, TikTok, and X to guide strategy, and offers managed services for influencer campaigns.",
+    "url": "https://www.omneky.com/ja/case-studies/rad-intel",
+    "pass": 1
+   },
+   {
+    "quote": ", a tool that enables customers to generate large volumes of personalized creative content variations at scale. Omneky's Creative Generation Pro is trained on your brand, target audience, product offerings, and performance data to generate and improve thousands of variations of creative content.",
+    "url": "https://note.com/omneky_jp/n/n96e33bcdd658?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Just upload your brand book and enter your website link",
+    "url": "https://note.com/omusubi__chan/n/ncae34846329d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Upload your brand book and drop in your website link, that’s it.",
+    "url": "https://note.com/omusubi__chan/n/ncae34846329d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "AI takes your brand + performance data and generates fully editable ads you can launch right away.",
+    "url": "https://note.com/omusubi__chan/n/ncae34846329d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What I especially liked is that it \"automatically recognizes fonts, colors, and tone just by uploading your brand book\"! Since you can create effective ads while maintaining brand consistency, it seems like it could be used by everyone from individual creators to large companies ✨",
+    "url": "https://note.com/omusubi__chan/n/ncae34846329d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The system that keeps learning in real-time is also wonderful. The more you use it, the more it can create ads optimized for your brand—it really feels like an \"AI you can nurture\" 📈💕",
+    "url": "https://note.com/omusubi__chan/n/ncae34846329d?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ケーススタディ — Omnekyの導入成果 — When Omneky partnered with Runa HR, the Mexico-based SaaS software platform had a wide range of services to offer and an even deeper library of creative. We were tasked with creating a strong narrative across Facebook and Google.",
+    "url": "https://www.omneky.com/ja/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Omneky徹底解説：AI広告クリエイティブ×成果最適化の最新実力・料金・... — Aug 27, 2026 · 本記事では、Omnekyの主要機能から最新料金プラン、導入成功事例、他社ツールとの決定的な違いまで徹底解説します。 この記事を読めば、広告制作の手間を最小限に抑えながらROASを最大化する次世代の広告運用体制を構築できるようになります！",
+    "url": "https://saiteki-ai.com/dx/marketing/omneky-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Omnekyとは？機能・料金・導入事例 | AI実装研究所 — Omnekyの機能、料金、日本語対応、セキュリティ、導入事例を公式情報に基づき整理。 ブランド情報と広告実績を使って画像・動画・コピーを生成し、複数媒体への公開、予算調整、成果分析までを行う広告運用基盤です。",
+    "url": "https://ai-jisso.jp/products/omneky/",
+    "pass": 3
+   },
+   {
+    "quote": "Omneky - AI広告ジェネレーター | 成果の出る広告を大量に — Omnekyでブランドに沿った画像・動画広告をAIで作成し、Meta、Google、TikTok、LinkedIn、Reddit、OpenAI Adsに配信。 無料で試せます。",
+    "url": "https://www.omneky.com/ja",
+    "pass": 3
+   },
+   {
+    "quote": "合同会社Omneky | 金融機関等と連携した海外企業誘致促進事業 — Omiana（ビーガン美容ブランド）：Omnekyの広告AIを導入（2024年） 広告作成が属人的で拡張できず速やかな売上拡大が困難だった中、狙いに応じた広告を生成し、A?Bテストを含む高速最適化を実現 売上200%工場、広告ROIが3.5倍に改善",
+    "url": "https://tokyo-gc.metro.tokyo.lg.jp/case/omneky/",
+    "pass": 3
+   },
+   {
+    "quote": "Omneky LLC | 金融機関等と連携した海外企業誘致促進事業 — > Omneky LLC AI (Ad tech)",
+    "url": "https://tokyo-gc.metro.tokyo.lg.jp/startups_en/omneky/",
+    "pass": 3
+   },
+   {
+    "quote": "サポートセンター — Omneky — Overview of Omneky’s plans, credit usage, billing, team settings, and campaign management—plus links to support and tutorials. A complete guide to Omneky’s creative tools, features, and workflows—your go-to resource for launching and scaling AI-powered campaigns.",
+    "url": "https://www.omneky.com/ja/support",
+    "pass": 3
+   },
+   {
+    "quote": "omneky Japan｜note — 生成型AI分野の実績あるリーダーであり革新者であるOmnekyは、最先端の深層学習を利用して、全てのデジタルタッチポイントにわたるコンテンツの生成と最適化を行っています。",
+    "url": "https://note.com/omneky_jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Omnekyとは？機能・料金・導入事例 | AI実装研究所 — Omnekyとは、ブランド情報と広告実績を使って画像・動画・コピーを生成し、複数媒体への公開、予算調整、成果分析までを行う広告運用基盤です。 日本語を含む多言語の広告生成と公式ヘルプを提供し、制作から配信後の改善までを一つの環境で支援します。",
+    "url": "https://ai-jisso.jp/products/omneky/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies — Real Results with Omneky — See how brands use Omneky AI to increase ROAS, cut creative costs, and scale ads across every platform.",
+    "url": "https://www.omneky.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Makeen — Case Study — Omneky — To build on their successes and truly scale Makeen to the next level, effective marketing was the next piece of the puzzle. With market disruption central to their approach, they partnered with Omneky to use the power of AI to create personalized ads at scale.",
+    "url": "https://www.omneky.com/case-studies/case-study-makeen",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Solve achieves 11x ROAS with Omneky — The campaign delivered strong measurable results, including a 316% increase in reach, an 89% decrease in cost per purchase, and an 11x return on ad spend. Open case study document...",
+    "url": "https://www.casestudies.com/company/omneky/case-study/solve-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Makeen achieves 6.3x reach growth and 4.2x more ... — Makeen (Information Technology and Services) partnered with Omneky (Internet) to solve key challenges. \"Makeen - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/omneky/case-study/makeen-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "23 Omneky Case Studies, Success Stories, & Customer Stories — Narrow down 23 case studies by company size & industry to find out how Omneky works for a business like yours.",
+    "url": "https://www.featuredcustomers.com/vendor/omneky/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Omneky 2026 Company Profile: Valuation, Funding & Investors ...Omneky - 2026 Company Profile, Funding & Competitors - TracxnOmneky – Strategic Position & Company Metrics – 2026Omneky Revenue 2023: $8.3M Est. - getlatka.comOmneky C-AR 2025 - SEC.govOmneky - Crunchbase Company Profile & FundingOmneky: Funding, Investors & Team (Oct 2026) | FundedIQ — Information on valuation, funding, cap tables, in",
+    "url": "https://pitchbook.com/profiles/company/231447-16",
+    "pass": 3
+   },
+   {
+    "quote": "Omneky - 2026 Company Profile, Funding & Competitors - TracxnOmneky – Strategic Position & Company Metrics – 2026Omneky Revenue 2023: $8.3M Est. - getlatka.comOmneky C-AR 2025 - SEC.govOmneky - Crunchbase Company Profile & FundingOmneky: Funding, Investors & Team (Oct 2026) | FundedIQ — Feb 7, 2026 · Omneky is a seed company based in San Francisco (United States), founded in 2018. It operates as a",
+    "url": "https://tracxn.com/d/companies/omneky/__GE4QEqRvPh0aee14QdVS1unc-ak8aD48558w250UaEw",
+    "pass": 3
+   },
+   {
+    "quote": "Omneky – Strategic Position & Company Metrics – 2026 — Discover Omneky's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/omneky",
+    "pass": 3
+   },
+   {
+    "quote": "Omneky Revenue 2023: $8.3M Est. - getlatka.com — Oct 30, 2026 · Hikari Senju founded Omneky in 2018 and led it as CEO. Omneky had 71 employees (December 2023, Growjo estimate). What was Omneky's revenue? Growjo estimates Omneky's revenue at about $8.3M a year (December 2023). The company hasn't published its own figure. How many employees does Omneky have?",
+    "url": "https://getlatka.com/companies/omneky.com",
+    "pass": 3
+   },
+   {
+    "quote": "Omneky - Crunchbase Company Profile & Funding — Omneky's AI Growth Agent researches and develops marketing plans, generates personalized creative and landing pages, and buys ad inventory across all channels (Meta, Google, LinkedIn, TikTok, Reddit and others) to help you stand out and grow your business.",
+    "url": "https://www.crunchbase.com/organization/omneky",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Omneky Announces New Solution: Creative Generation Pro Jul 19, 2023 · Today, San Francisco-based generative AI company Omneky announced the launch of Creative Generation Pro, a tool that enables customers to generate large volumes of personalized creative content variations at scale.",
+    "url": "https://note.com/omneky_jp/n/n96e33bcdd658?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Ad Creation Made Super Easy with Omneky AI! The Secret to ... 'Omneky AI'—A Brand Data-Driven Ad Auto-Generation Platform By using the AI platform called Omneky, you can now automatically generate high-performance ads with AI.",
+    "url": "https://note.com/omusubi__chan/n/ncae34846329d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The 'Instant Understanding' Common to Engaging Ads: The ... Omneky extracts visual patterns that directly lead to results. An AI solution that combines visual elements with performance data to generate, learn, and improve ads that communicate instantly.",
+    "url": "https://note.com/omneky_jp/n/n450574590c6e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【AI × 広告の新常識】クリエイティブ自動化を実現する「Omneky」とは... Jul 25, 2025 · その解決策の中核をなすのが「Omneky（オムニキ）」というAIサービスです。 広告制作の工数を減らしたい方には 「Omneky」がオススメです。 過去の広告データから自動で構成を提案し、AI がデザインとコピーを一括で複数パターン生成。",
+    "url": "https://note.com/kawaidesign/n/n03722cf52c4d",
+    "pass": 3
+   },
+   {
+    "quote": "omneky Japan｜note 生成型AI分野の実績あるリーダーであり革新者であるOmnekyは、最先端の深層学習を利用して、全てのデジタルタッチポイントにわたるコンテンツの生成と最適化を行っています。",
+    "url": "https://note.com/omneky_jp/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Omneky Announces New Solution: Creative Generation Pro｜omneky Japan",
+    "url": "https://note.com/omneky_jp/n/n96e33bcdd658?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Omneky Announces New Solution: Creative Generation Pro",
+    "url": "https://note.com/omneky_jp/n/n96e33bcdd658?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "New features enable the speedy, large-scale generation of creative content",
+    "url": "https://note.com/omneky_jp/n/n96e33bcdd658?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Today, San Francisco-based generative AI company Omneky announced the launch of",
+    "url": "https://note.com/omneky_jp/n/n96e33bcdd658?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Creative Generation Pro",
+    "url": "https://note.com/omneky_jp/n/n96e33bcdd658?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", a tool that enables customers to generate large volumes of personalized creative content variations at scale. Omneky's Creative Generation Pro is trained on your brand, target audience, product offerings, and performance data to generate and improve thousands of variations of creative content.",
+    "url": "https://note.com/omneky_jp/n/n96e33bcdd658?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Businesses today require personalized creative content. Enterprise companies with numerous target audiences, localizations, SKUs, product offerings, and distribution channels need creative content tailored to each use case. Furthermore, that creative content must be constantly updated based on real-time performance data and maintain consistency across all customer touchpoints. Omneky's Creative Ge",
+    "url": "https://note.com/omneky_jp/n/n96e33bcdd658?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "As a pioneer in the generative AI space, we aim to stay at the forefront of the industry by continuously innovating for customers who need capabilities like Creative Generation Pro. Hikari Senju, founder and CEO of Omneky, stated the following:",
+    "url": "https://note.com/omneky_jp/n/n96e33bcdd658?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Ad Creation Made Super Easy with Omneky AI! The Secret to 'High-Converting Ads' Automatically Generated from Brand Data｜おむすびちゃん@AIインフルエンサー",
+    "url": "https://note.com/omusubi__chan/n/ncae34846329d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Ad Creation Made Super Easy with Omneky AI! The Secret to 'High-Converting Ads' Automatically Generated from Brand Data",
+    "url": "https://note.com/omusubi__chan/n/ncae34846329d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Hello everyone! 🍙✨ It's Omusubi-chan! For those of you working in SNS management and marketing, don't you find ad creation time-consuming and struggle with what kind of design to use? You probably think, 'I wish I could create effective ads more efficiently...' Today, I'm going to introduce an innovative tool that might change the common sense of ad creation! 🎶",
+    "url": "https://note.com/omusubi__chan/n/ncae34846329d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Today's AI News Flash 📢",
+    "url": "https://note.com/omusubi__chan/n/ncae34846329d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Groundbreaking news has arrived for everyone involved in marketing and ad operations! I received a letter from an AI expert about a service where 'by using Omneky AI, the AI automatically generates entire high-performance ad campaigns by leveraging brand data and past performance data, creating fully editable ads that are ready for immediate delivery.' 📩 It's information that could significantly s",
+    "url": "https://note.com/omusubi__chan/n/ncae34846329d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Newsletter from an AI expert 📝",
+    "url": "https://note.com/omusubi__chan/n/ncae34846329d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "'Omneky AI'—A Brand Data-Driven Ad Auto-Generation Platform",
+    "url": "https://note.com/omusubi__chan/n/ncae34846329d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "By using the AI platform called Omneky, you can now automatically generate high-performance ads with AI.",
+    "url": "https://note.com/omusubi__chan/n/ncae34846329d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The 'Instant Understanding' Common to Engaging Ads: The Frontline of Visual Perception and AI Generation｜omneky Japan",
+    "url": "https://note.com/omneky_jp/n/n450574590c6e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The 'Instant Understanding' Common to Engaging Ads: The Frontline of Visual Perception and AI Generation",
+    "url": "https://note.com/omneky_jp/n/n450574590c6e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "When you're scrolling through social media on your smartphone, your eyes might occasionally catch an ad that piques your interest. But how often do you actually tap on it or read the content? Honestly, most of the time, you probably scroll past it in an instant.",
+    "url": "https://note.com/omneky_jp/n/n450574590c6e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "No matter how much time is spent creating an ad, many of you are likely aware of the reality that it often goes unnoticed by users. In fact, the probability of an ad being viewed for more than two seconds is only 4%.",
+    "url": "https://note.com/omneky_jp/n/n450574590c6e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Modern advertising is truly a world of 'split-second battles.' But conversely, if you can create an ad that 'gets the message across' in that instant, you can outperform the other 96%. In this article, we will introduce how to create ads that are 'understood the moment they are seen,' incorporating insights into how the brain processes information through visual perception and examples of utilizin",
+    "url": "https://note.com/omneky_jp/n/n450574590c6e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The reality that only 4% of views exceed two seconds",
+    "url": "https://note.com/omneky_jp/n/n450574590c6e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In the world of digital advertising, it is a 'split-second battle' where viewing ends in an instant. According to past survey data from the UK-based company Lumen,",
+    "url": "https://note.com/omneky_jp/n/n450574590c6e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ". This is driven by the scrolling speed of busy modern consumers and the '",
+    "url": "https://note.com/omneky_jp/n/n450574590c6e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【AI × 広告の新常識】クリエイティブ自動化を実現する「Omneky」とは？｜KAWAI",
+    "url": "https://note.com/kawaidesign/n/n03722cf52c4d",
+    "pass": 3
+   },
+   {
+    "quote": "【AI × 広告の新常識】クリエイティブ自動化を実現する「Omneky」とは？",
+    "url": "https://note.com/kawaidesign/n/n03722cf52c4d",
+    "pass": 3
+   },
+   {
+    "quote": "もはや「制作」ではない。広告クリエイティブはAIが自走する「システム」へ",
+    "url": "https://note.com/kawaidesign/n/n03722cf52c4d",
+    "pass": 3
+   },
+   {
+    "quote": "「このバナー、もっとクリックされるデザインにできないか」",
+    "url": "https://note.com/kawaidesign/n/n03722cf52c4d",
+    "pass": 3
+   },
+   {
+    "quote": "「動画広告も試したいが、手間がかかりすぎる」",
+    "url": "https://note.com/kawaidesign/n/n03722cf52c4d",
+    "pass": 3
+   },
+   {
+    "quote": "そんな悩みを抱えながら、日々の広告クリエイティブ制作に追われていませんか。",
+    "url": "https://note.com/kawaidesign/n/n03722cf52c4d",
+    "pass": 3
+   },
+   {
+    "quote": "本記事で紹介するのは、単なる画像生成ツールではありません。一度ブランド情報を設定すれば、AIが自ら多様な広告を生成し、効果測定、そして改善までを自動で行う「広告システム」の構築法です。",
+    "url": "https://note.com/kawaidesign/n/n03722cf52c4d",
+    "pass": 3
+   },
+   {
+    "quote": "これまで大手代理店しか実現できなかった未来の広告運用を、今日から始めるための一歩を解説します。",
+    "url": "https://note.com/kawaidesign/n/n03722cf52c4d",
+    "pass": 3
+   },
+   {
+    "quote": "魅力的な広告に共通する「瞬間的理解」—視覚認知とAI生成の最前線",
+    "url": "https://note.com/omneky_jp",
+    "pass": 3
+   },
+   {
+    "quote": "Omnekyが新ソリューション【Creative Generation Pro】を発表",
+    "url": "https://note.com/omneky_jp",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Omneky (@omneky) / X With Omneky’s One-Shot Video Resize, turn existing landscape video into vertical creative for new placements. Watch the 16:9 original and 9:16 output side by side.",
+    "url": "https://x.com/omneky",
+    "pass": 3
+   },
+   {
+    "quote": "Meet Omneky’s new Advertising Agent. - x.com Introducing Omneky Agent. Eight years ago, I started Omneky with a thesis: creative quality drives the majority of campaign performance, and AI would eventually be able to generate, launch, measure, and learn at a scale no human team could match.",
+    "url": "https://x.com/omneky/status/2056907866129453519",
+    "pass": 3
+   },
+   {
+    "quote": "Inside Omneky's Agentic Loops: How Autonomous Advertising ... Omneky is an autonomous AI advertising platform that generates ad creative, launches campaigns, and optimizes performance across Meta, Google, LinkedIn, TikTok, and Reddit.",
+    "url": "https://x.com/Hsenju/article/2074278627697656042",
+    "pass": 3
+   },
+   {
+    "quote": "RT @hisenju: Introducing Omneky Agent. Eight years ago, I ... Meet Omneky's new Advertising Agent — an autonomous AI that runs the full advertising loop. It generates creative, launches campaigns, allocates budget, and learns from performance across Meta, Google, LinkedIn, TikTok, and Reddit.",
+    "url": "https://x.com/omneky/status/2056907627662356888",
+    "pass": 3
+   },
+   {
+    "quote": "Omneky (@omneky) / X Omneky is now on Grok Bot. Ask it to launch a campaign. It pulls your products, loads your brand kit, generates the ads, launches on Meta and TikTok, moves budget to the winner and reports back.",
+    "url": "https://x.com/omneky",
+    "pass": 3
+   },
+   {
+    "quote": "Omneky Japan team on X: \"@wtwtdesu Omnekyの日本チームです。振り返... @wtwtdesu Omnekyの日本チームです。 振り返り用なら、作品ごとに「使ったモデル・設定」「試して変えた点」「次に試すこと」を残すと、IdeasとProjectsを行き来しやすそうです。 完成品だけでなく途中版も並べると、判断の記録にもなりますね。",
+    "url": "https://x.com/j_omneky/status/2116464504057844037",
+    "pass": 3
+   },
+   {
+    "quote": "Omneky Japan team on X: \"スマホで撮影した人物の写真をOmnekyにアッ... スマホで撮影した人物の写真をOmnekyにアップロードし、AIアバター機能でスクリプトを入れて生成します。 さらに、動画編集画面で、生成した動画を繋げてテキストや音楽を追加。 テキストには簡単なアニメーションを追加することができます！ 27 Oct 2026 03 ...",
+    "url": "https://x.com/j_omneky/status/2114916437236298061",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Omneky - LinkedIn Omneky fights to help you stand out. | Omneky is the generative AI advertising platform — an agentic system that doesn't just generate ads, it runs advertising end to end.",
+    "url": "https://www.linkedin.com/company/omneky",
+    "pass": 3
+   },
+   {
+    "quote": "Hikari Senju - Chief Executive Officer @ Omneky | Computer ...Inside Omneky's Agentic Loops: How Autonomous Advertising ...Mitesh Kaphle - Omneky | LinkedInAbdulAleem Heroli - Omneky | LinkedInDhaval Chheda - Technical Lead at Omneky | LinkedInOmneky Workshop with AI Exchange | Hikari Senju I’m the founder and CEO of Omneky, where we’re building AI agents that help businesses grow. Our vision is t",
+    "url": "https://www.linkedin.com/in/hisenju",
+    "pass": 3
+   },
+   {
+    "quote": "Inside Omneky's Agentic Loops: How Autonomous Advertising ... Jul 6, 2026 · Omneky is an autonomous AI advertising platform that generates ad creative, launches campaigns, and optimizes performance across Meta, Google, LinkedIn, TikTok, and Reddit.",
+    "url": "https://www.linkedin.com/pulse/inside-omnekys-agentic-loops-how-autonomous-actually-works-senju-w4zle",
+    "pass": 3
+   },
+   {
+    "quote": "Mitesh Kaphle - Omneky | LinkedInAbdulAleem Heroli - Omneky | LinkedInDhaval Chheda - Technical Lead at Omneky | LinkedInOmneky Workshop with AI Exchange | Hikari Senju · Experience: Omneky · Education: Cornell University · Location: New York · 500+ connections on LinkedIn. View Mitesh Kaphle’s profile on LinkedIn, a professional community of 1 billion... As a Data Scientist, I specialize in analy",
+    "url": "https://www.linkedin.com/in/mitesh-kaphle-5154117",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Omneky | San Francisco CA - FacebookOmneky is now on Grok Bot. Ask it to launch a campaign. It ...Pinterest is now a launch channel in Omneky. Generate the ...Tired of spending hours on campaign planning? See how Omneky ...Omneky - Ready to see the future of ad creation? This ...Your best ad already has the hook, the pacing and the edit ...Omneky is the all-in-one solution for agencies looking to ",
+    "url": "https://www.facebook.com/omneky/",
+    "pass": 3
+   },
+   {
+    "quote": "Omneky is now on Grok Bot. Ask it to launch a campaign. It ... Sep 11, 2026 · Omneky is now on Grok Bot. Ask it to launch a campaign. It pulls your products, loads your brand kit, generates the ads, launches on Meta and TikTok,...",
+    "url": "https://www.facebook.com/omneky/videos/omneky-is-now-on-grok-botask-it-to-launch-a-campaign-it-pulls-your-products-load/1235832592036065/",
+    "pass": 3
+   },
+   {
+    "quote": "Pinterest is now a launch channel in Omneky. Generate the ... Pinterest is now a launch channel in Omneky. Generate the creative, pick Pinterest alongside Meta, Google, TikTok, LinkedIn, Reddit and ChatGPT, and publish from one screen.",
+    "url": "https://www.facebook.com/omneky/videos/pinterest-is-now-a-launch-channel-in-omnekygenerate-the-creative-pick-pinterest-/1108112548229263/",
+    "pass": 3
+   },
+   {
+    "quote": "Tired of spending hours on campaign planning? See how Omneky ... Tired of spending hours on campaign planning? See how Omneky's AI instantly generates hundreds of on- brand, performance-driven ad creatives optimized for your specific goals.",
+    "url": "https://www.facebook.com/omneky/videos/tired-of-spending-hours-on-campaign-planning-see-how-omnekys-ai-instantly-genera/598751189893823/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.omneky.com/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.omneky.com/ja/pricing-plans",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.omneky.com/ja/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.omneky.com/ja/case-studies/omiana",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.omneky.com/ja/case-studies/rad-intel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.omneky.com/ja/case-studies/2x-monster-trucks",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.omneky.com/ja/case-studies/case-study-solve",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.omneky.com/ja/case-studies/how-saas-company-nelo-decreased-install-tutorial-and-inapp-purchasing-costs-while-developing-a-strong-multiplatform-presence-on-facebook-google-and-tiktok",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.omneky.com/ja/case-studies/case-study-bjorem-speech",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.omneky.com/ja/case-studies/case-study-makeen",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.omneky.com/ja/case-studies/flex-agent",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.omneky.com/ja/case-studies/how-yotta-decreased-install-tutorial-and-in-app-purchasing-costs-while-running-television-ads",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.omneky.com/ja/case-studies/how-runa-hr-decreased-lead-costs-and-developed-innovative-ads-adhering-to-brand-guidelines-yet-revolutionizing-the-space",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.omneky.com/ja/case-studies/how-nomi-network-increased-human-trafficking-awareness-and-donation-quanitity-through-fb-ads-with-omneky",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.omneky.com/_next/image?url=%2Flogos%2Fstance.png&w=256&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.omneky.com/_next/image?url=%2Flogos%2Fblockchain-com.png&w=384&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.omneky.com/_next/image?url=%2Flogos%2Ftheparkingspot.png&w=384&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.omneky.com/_next/image?url=%2Flogos%2Fbrex.png&w=256&q=75",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://saiteki-ai.com/dx/marketing/omneky-platform/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-jisso.jp/products/omneky/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/OM%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyo-gc.metro.tokyo.lg.jp/startups_en/omneky/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/omneky_jp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/omneky/case-study/solve-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/omneky/case-study/makeen-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reseller.amazon.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/231447-16",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/omneky/__GE4QEqRvPh0aee14QdVS1unc-ak8aD48558w250UaEw",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://compworth.com/company/omneky",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/omneky.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/omneky_jp/n/n96e33bcdd658?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/omusubi__chan/n/ncae34846329d?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/omneky_jp/n/n450574590c6e?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kawaidesign/n/n03722cf52c4d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/omneky",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/omneky/status/2056907866129453519",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Hsenju/article/2074278627697656042",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/omneky/status/2056907627662356888",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/omneky",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/hisenju",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/inside-omnekys-agentic-loops-how-autonomous-actually-works-senju-w4zle",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/mitesh-kaphle-5154117",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/omneky/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/omneky/videos/omneky-is-now-on-grok-botask-it-to-launch-a-campaign-it-pulls-your-products-load/1235832592036065/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/omneky/videos/pinterest-is-now-a-launch-channel-in-omnekygenerate-the-creative-pick-pinterest-/1108112548229263/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/omneky/videos/tired-of-spending-hours-on-campaign-planning-see-how-omnekys-ai-instantly-genera/598751189893823/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/omneky_jp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/omneky",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/j_omneky/status/2116464504057844037",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/j_omneky/status/2114916437236298061",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Omneky 日本 導入",
+   "results": [
+    "https://www.omneky.com/ja/case-studies",
+    "https://saiteki-ai.com/dx/marketing/omneky-platform/",
+    "https://ai-jisso.jp/products/omneky/",
+    "https://www.omneky.com/ja",
+    "https://tokyo-gc.metro.tokyo.lg.jp/case/omneky/",
+    "https://media-innovation.jp/article/2026/09/30/143798.html",
+    "https://prtimes.jp/main/html/rd/p/000000853.000003955.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Omneky 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/OMデジタルソリューションズ",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://note.com/yamamoto_ec/n/nd3b3890ee728",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://www.onkyo.net/company"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Omneky Japan",
+   "results": [
+    "https://www.omneky.com/ja",
+    "https://tokyo-gc.metro.tokyo.lg.jp/startups_en/omneky/",
+    "https://www.omneky.com/ja/support",
+    "https://note.com/omneky_jp/",
+    "https://ai-jisso.jp/products/omneky/",
+    "https://www.japantimes.co.jp/country-report/2024/04/09/global-media-post/northern-california-report-2024/omneky-true-tech-disruptor/",
+    "https://www.linkedin.com/company/omneky"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Omneky manufacturing customer case study",
+   "results": [
+    "https://www.omneky.com/case-studies",
+    "https://www.omneky.com/case-studies/case-study-makeen",
+    "https://www.casestudies.com/company/omneky/case-study/solve-customer-case-study",
+    "https://www.casestudies.com/company/omneky/case-study/makeen-customer-case-study",
+    "https://www.featuredcustomers.com/vendor/omneky/case-studies",
+    "https://www.mckinsey.com/about-us/case-studies",
+    "https://img.ly/case-studies/omneky/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Omneky white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://reseller.amazon.com/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.ninjaone.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Omneky founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/231447-16",
+    "https://tracxn.com/d/companies/omneky/__GE4QEqRvPh0aee14QdVS1unc-ak8aD48558w250UaEw",
+    "https://compworth.com/company/omneky",
+    "https://getlatka.com/companies/omneky.com",
+    "https://www.crunchbase.com/organization/omneky",
+    "https://fundediq.co/omneky-omneky-com-funding/",
+    "https://www.sec.gov/Archives/edgar/data/2056160/000205616026000002/form_car.pdf"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Omneky",
+   "results": [
+    "https://note.com/omneky_jp/n/n96e33bcdd658?hl=en",
+    "https://note.com/omusubi__chan/n/ncae34846329d?hl=en",
+    "https://note.com/omneky_jp/n/n450574590c6e?hl=en",
+    "https://note.com/kawaidesign/n/n03722cf52c4d",
+    "https://note.com/omusubi__chan/n/ncae34846329d",
+    "https://note.com/omneky_jp/",
+    "https://tales.note.com/zinc_white/wuf1zl5nr61t4"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Omneky",
+   "results": [
+    "https://x.com/omneky",
+    "https://x.com/omneky/status/2056907866129453519",
+    "https://x.com/Hsenju/article/2074278627697656042",
+    "https://x.com/omneky/status/2056907627662356888",
+    "https://x.com/omneky/status/2034380666654294469",
+    "https://x.com/MeenakshiYACS/status/2030095115868590171",
+    "https://x.com/Hsenju/status/2041992175299522573"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Omneky",
+   "results": [
+    "https://www.linkedin.com/company/omneky",
+    "https://www.linkedin.com/in/hisenju",
+    "https://www.linkedin.com/pulse/inside-omnekys-agentic-loops-how-autonomous-actually-works-senju-w4zle",
+    "https://www.linkedin.com/in/mitesh-kaphle-5154117",
+    "https://in.linkedin.com/in/abdulaleem-heroli-3a0aa21b9",
+    "https://in.linkedin.com/in/dhaval-chheda-922797260",
+    "https://mv.linkedin.com/posts/hikari-senju-63780199_the-ai-exchange-x-omneky-workshop-activity-7058900603732725760-HFTk"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Omneky",
+   "results": [
+    "https://www.facebook.com/omneky/",
+    "https://www.facebook.com/omneky/videos/omneky-is-now-on-grok-botask-it-to-launch-a-campaign-it-pulls-your-products-load/1235832592036065/",
+    "https://www.facebook.com/omneky/videos/pinterest-is-now-a-launch-channel-in-omnekygenerate-the-creative-pick-pinterest-/1108112548229263/",
+    "https://www.facebook.com/omneky/videos/tired-of-spending-hours-on-campaign-planning-see-how-omnekys-ai-instantly-genera/598751189893823/",
+    "https://www.facebook.com/omneky/posts/ready-to-see-the-future-of-ad-creation-this-full-walkthrough-of-the-omneky-self-/1478682949903305/",
+    "https://www.facebook.com/omneky/videos/omneky-is-the-all-in-one-solution-for-agencies-looking-to-save-time-and-streamli/3365428633590545/",
+    "https://www.facebook.com/omneky/videos/your-best-ad-already-has-the-hook-the-pacing-and-the-edit-omneky-clone-keeps-all/876781275427253/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Omneky note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/omneky_jp/",
+    "https://note.com/sadaaki",
+    "https://yokotablog.com/sadaaki-kato-profile/",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Omneky X 投稿",
+   "results": [
+    "https://x.com/omneky",
+    "https://www.omneky.com/",
+    "https://x.com/j_omneky/status/2116464504057844037",
+    "https://x.com/j_omneky/status/2114916437236298061",
+    "https://x.com/j_omneky/status/2110029603305820302",
+    "https://x.com/miuratakuya_hac/status/2067908292215808128",
+    "https://x.com/omneky/status/2056907866129453519"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部38頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部38頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部38頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部38頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部38頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部38頁・検索12回）"
+ }
+}

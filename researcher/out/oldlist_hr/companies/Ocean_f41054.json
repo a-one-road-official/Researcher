@@ -1,0 +1,2120 @@
+{
+ "name": "Ocean",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜状態なし",
+ "researched_at": "2026-11-09T23:18:55.202920+00:00",
+ "official_url": "https://www.ocean.io",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue won, all time",
+    "value": "$ 15 M",
+    "url": "https://www.ocean.io/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "United States",
+    "url": "https://www.ocean.io/",
+    "pass": 1
+   },
+   {
+    "label": "Headquarters",
+    "value": "United States",
+    "url": "https://www.ocean.io/pricing",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "label": "Email support",
+    "value": "– Not included in Trial Included in Growth Included in Revenue Navigator",
+    "url": "https://www.ocean.io/pricing",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Find their heads of finance",
+    "url": "https://www.ocean.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Workforce, Project…",
+    "url": "https://www.ocean.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Recruitment, HR…",
+    "url": "https://www.ocean.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing Technology…",
+    "url": "https://www.ocean.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Digital Marketing, Advertising…",
+    "url": "https://www.ocean.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Video Games, Esports…",
+    "url": "https://www.ocean.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Workforce, Project & Field Operations Software",
+    "url": "https://www.ocean.io/",
+    "pass": 1
+   },
+   {
+    "quote": "They provide cloud software that centralizes project, HR, and workplace management with automation, engagement tools, and integrations for growing organizations.",
+    "url": "https://www.ocean.io/",
+    "pass": 1
+   },
+   {
+    "quote": "A rough projection for similar companies with no deal yet.",
+    "url": "https://www.ocean.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Procurement Manager, Purchasing Lead",
+    "url": "https://www.ocean.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Product and engineering",
+    "url": "https://www.ocean.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Chief marketing officer",
+    "url": "https://www.ocean.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Finance leads like Pleo",
+    "url": "https://www.ocean.io/",
+    "pass": 1
+   },
+   {
+    "quote": "(United Kingdom): Priya Raman, Finance Director",
+    "url": "https://www.ocean.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Build a filtered list of target companies matching your ideal customer profile",
+    "url": "https://www.ocean.io/",
+    "pass": 1
+   },
+   {
+    "quote": "-H 'Content-Type: application/json' \\",
+    "url": "https://www.ocean.io/",
+    "pass": 1
+   },
+   {
+    "quote": "\"primaryCountry\": \"DE\",",
+    "url": "https://www.ocean.io/",
+    "pass": 1
+   },
+   {
+    "quote": "\"primaryCountry\": \"FR\",",
+    "url": "https://www.ocean.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Reads what companies actually do, not industry codes.",
+    "url": "https://www.ocean.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Rank inbound leads against the segments that win.",
+    "url": "https://www.ocean.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn every good list into a repeatable process.",
+    "url": "https://www.ocean.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Hiring sales · 6+ roles",
+    "url": "https://www.ocean.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Hiring engineering · 6+ roles",
+    "url": "https://www.ocean.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Filter companies by open job postings.",
+    "url": "https://www.ocean.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Filter by CRM, cloud and marketing tools.",
+    "url": "https://www.ocean.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Customer stories — B2B prospecting with Ocean.io | Ocean.io",
+    "url": "https://www.ocean.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How Tele2 IoT pinpointed in-market prospects with Ocean",
+    "url": "https://www.ocean.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "LeadBird improves cold email efficiency with Ocean",
+    "url": "https://www.ocean.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "LeadBird replaced their manual, unreliable list-building process with Ocean's Lookalike Search — booking 20–30 meetings using data they could trust from day one.",
+    "url": "https://www.ocean.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How CBC improved campaign efficiency with Ocean",
+    "url": "https://www.ocean.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How Surfe uses Ocean to automate lookalike prospecting at scale",
+    "url": "https://www.ocean.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Surfe integrated Ocean's lookalike API into their LinkedIn-to-CRM platform — giving their users an automated way to expand prospect pools without any manual research.",
+    "url": "https://www.ocean.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Zen Media replaced broad LinkedIn industry targeting with Ocean-powered lookalike audiences — and immediately saw a 25% improvement in their lead quality scores.",
+    "url": "https://www.ocean.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How Netmore grew their prospect pipeline by 900% with Ocean",
+    "url": "https://www.ocean.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Netmore's sales team was spending hours on Google searching for relevant prospects in a highly niche market. Ocean replaced that process — delivering 900% more prospects per month.",
+    "url": "https://www.ocean.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "900% more prospects/month",
+    "url": "https://www.ocean.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How Electric House finds higher-quality leads with Ocean",
+    "url": "https://www.ocean.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Electric House needed prospects with the right web traffic and social media presence in the UK. Ocean was the only tool that could surface them — and the quality difference was immediate.",
+    "url": "https://www.ocean.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How Brandbassador put prospecting on autopilot with Ocean",
+    "url": "https://www.ocean.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Brandbassador's SDRs were spending entire days finding new accounts. Ocean replaced that with a reliable, repeatable flow of qualified prospects — in a fraction of the time.",
+    "url": "https://www.ocean.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Prospecting on autopilot",
+    "url": "https://www.ocean.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Scalestack integrated Ocean's lookalike API to expand their customers' prospect pools automatically — then layers on AI prioritisation so revenue teams know who to reach out to first.",
+    "url": "https://www.ocean.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Skip manual prospecting and guesswork",
+    "url": "https://www.ocean.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Ocean.io Pricing: Contextual Intelligence for Revenue Teams",
+    "url": "https://www.ocean.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Hiring signals in workflows",
+    "url": "https://www.ocean.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Reads what companies actually do, not industry codes.",
+    "url": "https://www.ocean.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Rank inbound leads against the segments that win.",
+    "url": "https://www.ocean.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Turn every good list into a repeatable process.",
+    "url": "https://www.ocean.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Hiring sales · 6+ roles",
+    "url": "https://www.ocean.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Hiring engineering · 6+ roles",
+    "url": "https://www.ocean.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Filter companies by open job postings.",
+    "url": "https://www.ocean.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Filter by CRM, cloud and marketing tools.",
+    "url": "https://www.ocean.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "The product development system for teams and agents",
+    "url": "https://www.ocean.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Outbound prospect lists",
+    "url": "https://www.ocean.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Score inbound leads against your Segmentation segments before a rep sees them.",
+    "url": "https://www.ocean.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "CRM-aware prospecting",
+    "url": "https://www.ocean.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Give your own models consistent company profiles through the REST API.",
+    "url": "https://www.ocean.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Read your deals to find segments, then sync enriched leads and contacts to Close.",
+    "url": "https://www.ocean.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Runs on-prem or self-hosted",
+    "url": "https://www.ocean.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Clear priorities for every rep.",
+    "url": "https://www.ocean.io/pricing",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Used by the world's leading companies",
+    "url": "https://www.ocean.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by the world's leading companies",
+    "url": "https://www.ocean.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Brandwatch case study — Ocean.io | Ocean.io",
+    "url": "https://www.ocean.io/case-studies/brandwatch",
+    "pass": 1
+   },
+   {
+    "quote": "Tele2 IoT case study — Ocean.io | Ocean.io",
+    "url": "https://www.ocean.io/case-studies/tele2",
+    "pass": 1
+   },
+   {
+    "quote": "operators in France — within minutes.",
+    "url": "https://www.ocean.io/case-studies/monta",
+    "pass": 1
+   },
+   {
+    "quote": "— Mirror proven EV installers and operators across any new market",
+    "url": "https://www.ocean.io/case-studies/monta",
+    "pass": 1
+   },
+   {
+    "quote": "— EV installers and operators precisely matched in France",
+    "url": "https://www.ocean.io/case-studies/monta",
+    "pass": 1
+   },
+   {
+    "quote": "Scalestack case study — Ocean.io | Ocean.io",
+    "url": "https://www.ocean.io/case-studies/scalestack",
+    "pass": 1
+   },
+   {
+    "quote": "Surfe case study — Ocean.io | Ocean.io",
+    "url": "https://www.ocean.io/case-studies/surfe",
+    "pass": 1
+   },
+   {
+    "quote": "million years ago). The most recent is La Perouse Strait, which formed about 60,000 to 11,000 years ago closing the path used by mammoths which had earlier moved to northern Hokkaidō.",
+    "url": "https://en.wikipedia.org/wiki/Sea_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "results in the rich aquatic life of the Sea of Japan – there are more than 800 species of aquatic plants and more than 3,500 animal species, including more than 900 species of crustaceans, about 1,000 of fish and 26 of mammals. The coastal areas contain several kg/m",
+    "url": "https://en.wikipedia.org/wiki/Sea_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Pre-Industrial Korea and Japan in Environmental Perspective",
+    "url": "https://en.wikipedia.org/wiki/Sea_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "were done in coastal areas for maritime and industrial factories, such as",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "was once occupied by a Tokyo gas factory. Toxic substances were discovered in the soil and groundwater at Toyosu. The",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "formed about 60,000 to 11,000 years ago, closing the path used by mammoths, which had earlier moved to northern Hokkaido.",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": ". Various plants and large animals, such as the elephant",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "disaster, the nuclear reactors were shut down. Thus, Japan's industrial sector became even more dependent than before on imported fossil fuels. By May 2012, all of the country's nuclear power plants were taken offline because of ongoing public opposition following the",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "'s government sook to restart the nuclear power plants that meet strict new safety standards and is emphasizing nuclear energy's importance as a base-load electricity source.",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Sendai Nuclear Power Plant",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "is exploring over 40 locations for potential geothermal energy plants.",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": ", with numerous species of subtropical and tropical plants and",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Pre-Industrial Korea and Japan in Environmental Perspective",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Enhance Your Garden with Japanese Plants",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "With over 40 years of experience as a small to medium-sized enterprise, JOP emphasizes a core business philosophy of prioritizing safety to achieve zero accidents and zero disasters, while committing to continuous technical improvement, quality enhancement, and delivery of satisfactory outcomes to customers.",
+    "url": "https://grokipedia.com/page/Japan_Ocean_Planning_Co_Ltd",
+    "pass": 3
+   },
+   {
+    "quote": "Ocean Manufacturing, Inc.: The New Client Acceptance Decision | Case Study Solution | Case Study Analysis",
+    "url": "https://www.freecasestudysolutions.com/case-study-Ocean-Manufacturing-Inc-The-New-Client-Acceptance-Decision.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Ocean Manufacturing, Inc.: The New Client Acceptance Decision",
+    "url": "https://www.freecasestudysolutions.com/case-study-Ocean-Manufacturing-Inc-The-New-Client-Acceptance-Decision.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "The previous auditor of Ocean Manufacturing, Inc. lacked the technical expertise to understand sophisticated controls software and was not competent in providing required consulting services to mov ...",
+    "url": "https://www.freecasestudysolutions.com/case-study-Ocean-Manufacturing-Inc-The-New-Client-Acceptance-Decision.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "In terms of percentage, that is about one-quarter. In estimates from the last decade, it is closer to 30 percent. The result is that the ocean absorbs more than land-based plants like forests.",
+    "url": "https://note.com/ocean_rehab_ccs/n/n156af2618554?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What I am considering is a method of adding limestone-derived alkalinity to treated water from sewage treatment plants before discharging it into the ocean. The goal is to remove approximately 600,000 tons of CO2 per year by 2035 (based on my own estimates).",
+    "url": "https://note.com/ocean_rehab_ccs/n/n156af2618554?hl=en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Revenue won, all time",
+    "url": "https://www.ocean.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Employees (2)",
+    "url": "https://www.ocean.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue (3)",
+    "url": "https://www.ocean.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Employees: 1-10",
+    "url": "https://www.ocean.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Chief revenue officer",
+    "url": "https://www.ocean.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Find Series B SaaS in Germany, 50–200 employees",
+    "url": "https://www.ocean.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Scalestack integrated Ocean's lookalike API to expand their customers' prospect pools automatically — then layers on AI prioritisation so revenue teams know who to reach out to first.",
+    "url": "https://www.ocean.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Ocean.io Pricing: Contextual Intelligence for Revenue Teams",
+    "url": "https://www.ocean.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Find Series B SaaS in Germany, 50–200 employees",
+    "url": "https://www.ocean.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "For revenue teams that need",
+    "url": "https://www.ocean.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Included in Revenue Navigator",
+    "url": "https://www.ocean.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Under 50 employees",
+    "url": "https://www.ocean.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Ocean.io's Growth plan starts at $250 a month, billed annually at $3,000 a year, and includes 60,000 credits. Growth adds 60,000 credits a year, waterfall enrichment and email support to everything in the free trial. Revenue Navigator is built on your own CRM deals and priced around your credit volume, market and team. You can start with a free trial before choosing a plan.",
+    "url": "https://www.ocean.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "A credit is the unit Ocean uses to measure usage, such as enriching a company or revealing a contact's work email or phone number. Growth includes 60,000 credits a year, and Revenue Navigator is sized to your own credit volume. Your plan sets the allowance, so you know the usage you are buying before you start.",
+    "url": "https://www.ocean.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "What's the difference between Growth and Revenue Navigator?",
+    "url": "https://www.ocean.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Ocean is now a core part of Netmore's sales process. The team",
+    "url": "https://www.ocean.io/case-studies/netmore",
+    "pass": 1
+   },
+   {
+    "quote": "Core part of the sales process",
+    "url": "https://www.ocean.io/case-studies/netmore",
+    "pass": 1
+   },
+   {
+    "quote": "average score of 2.8. They needed a way to narrow the audience",
+    "url": "https://www.ocean.io/case-studies/zenmedia",
+    "pass": 1
+   },
+   {
+    "quote": "— Narrow by size, industry, and web traffic to exclude companies that won't qualify",
+    "url": "https://www.ocean.io/case-studies/zenmedia",
+    "pass": 1
+   },
+   {
+    "quote": "— Narrow by company size and location to get a list ready for outreach",
+    "url": "https://www.ocean.io/case-studies/monta",
+    "pass": 1
+   },
+   {
+    "quote": "Garrett Butler — Digital Engagement Manager, Cross-Border Communications",
+    "url": "https://www.ocean.io/case-studies/cbc",
+    "pass": 1
+   },
+   {
+    "quote": "metric. More qualified leads, lower acquisition cost, better ad",
+    "url": "https://www.ocean.io/case-studies/cbc",
+    "pass": 1
+   },
+   {
+    "quote": "prioritisation so revenue teams always know who to reach out to",
+    "url": "https://www.ocean.io/case-studies/scalestack",
+    "pass": 1
+   },
+   {
+    "quote": "revenue and growth teams identify high-value prospects, prioritise",
+    "url": "https://www.ocean.io/case-studies/scalestack",
+    "pass": 1
+   },
+   {
+    "quote": "For revenue teams, the challenge isn't just finding leads — it's",
+    "url": "https://www.ocean.io/case-studies/scalestack",
+    "pass": 1
+   },
+   {
+    "quote": "The Scalestack–Ocean integration gives revenue teams the full package:",
+    "url": "https://www.ocean.io/case-studies/scalestack",
+    "pass": 1
+   },
+   {
+    "quote": "\"The partnership is a testament to both teams. Together, we're redefining how revenue teams identify and engage with their next best customers.\"",
+    "url": "https://www.ocean.io/case-studies/scalestack",
+    "pass": 1
+   },
+   {
+    "quote": "discovered the strait between the continent and Sakhalin and mapped the northern part of the Strait of Tartary. Russian expeditions were made in 1853–1854 and 1886–1889 to measure the surface temperatures and record the tides. They also documented the cyclonal character of the sea currents.",
+    "url": "https://en.wikipedia.org/wiki/Sea_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": ", Sea of Japan and surrounding part of continental East Asia in",
+    "url": "https://en.wikipedia.org/wiki/Sea_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Map showing Japanese archipelago, Sea of Japan and surrounding part of continental East Asia in",
+    "url": "https://en.wikipedia.org/wiki/Sea_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "The north part of the Japanese archipelago was further fragmented later until",
+    "url": "https://en.wikipedia.org/wiki/Sea_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "The south part of the Japanese archipelago remained as a relatively large landmass.",
+    "url": "https://en.wikipedia.org/wiki/Sea_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": ". It has a carrot-like shape, with the major axis extending from south-west to north-east and a wide southern part narrowing toward the north. The coastal length is about",
+    "url": "https://en.wikipedia.org/wiki/Sea_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "The Japan Basin is of oceanic origin and is the deepest part of the sea, whereas the Tsushima Basin is the shallowest with the depths below",
+    "url": "https://en.wikipedia.org/wiki/Sea_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "of the sea are wide, but on the western shores, particularly along the Korean coast, they are narrow, averaging about",
+    "url": "https://en.wikipedia.org/wiki/Sea_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "toward the central (deepest) part of the sea. The bottom of this part is relatively flat, but has a few plateaus. In addition, an underwater ridge rising up to",
+    "url": "https://en.wikipedia.org/wiki/Sea_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Water temperature is mostly affected by exchange with the atmosphere in the northern part of the sea and by the currents in the southern part. Winter temperatures are",
+    "url": "https://en.wikipedia.org/wiki/Sea_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Because the sea is enclosed, its waters form clearly separated layers which may show seasonal and spatial dependence. In winter, the temperature is almost constant with the depth in the northern part of the sea. However, in central-southern parts, it may be",
+    "url": "https://en.wikipedia.org/wiki/Sea_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "is formed by sinking of cold water in the northern part of the sea in winter and is brought south by the sea currents; it is rather stable and is observed all through the year.",
+    "url": "https://en.wikipedia.org/wiki/Sea_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "and Tsugaru strait. The tides are semi-diurnal (rise twice a day) in the Korea Strait and in the northern part of the Strait of Tartary. They are diurnal at the eastern shore of Korea,",
+    "url": "https://en.wikipedia.org/wiki/Sea_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Fishery had long been the main economic activity on the Sea of Japan. It is mainly carried out on and near the continental shelves and focuses on herring, sardines and bluefin tuna. These species are however depleted from after",
+    "url": "https://en.wikipedia.org/wiki/Sea_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "fields near the northern part of Japan and Sakhalin Island. The intensity of shipments across the sea is moderate, owing to the cold relations between many bordering countries. As a result, the largest Japanese ports are on the Pacific coast, and the significant ports on the Sea of Japan are",
+    "url": "https://en.wikipedia.org/wiki/Sea_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": ", of Warren, 2 August 1848, NWC;",
+    "url": "https://en.wikipedia.org/wiki/Sea_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "It is narrow, and no point in Japan is more than",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "The five main islands are (from north to south) Hokkaido, Honshu, Shikoku, Kyushu, and Okinawa. Three of the four major islands (Honshu, Kyushu, and Shikoku) are separated by narrow straits of the",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "The regions are not official administrative units but have been traditionally used as the regional division of Japan in a number of contexts. For example, maps and geography textbooks divide Japan into the eight regions; weather reports usually give the weather by region; and many businesses and institutions use their home region as part of their name (",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "They are separated from the continent by the Sea of Japan, which serves as a protective barrier. Japan has 108 active",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "It has consistently carried water for millions of years. Lake Biwa was created by plate tectonics in an active rift zone. This created a very deep lake with a maximum depth of",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "The Pacific coastline south of Tokyo is characterized by long, narrow, gradually shallowing inlets produced by sedimentation, which has created many natural harbors.",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "The subduction zones on the east side of the Japanese archipelago cause frequent low-intensity earth tremors. Major earthquakes, volcanic eruptions, and tsunamis occur several times per century. It is part of the Pacific Ring of Fire.",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "The northern part of the Japanese archipelago was further fragmented until the",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "The southern part of the Japanese archipelago remained a relatively large landmass. The land area expanded northward during the Miocene.",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": ". It has a carrot-like shape, with the major axis extending from southwest to northeast and a wide southern part narrowing toward the north. The coastal length is about",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "The Japan Basin has an oceanic crust and is the deepest part of the sea, whereas the Tsushima Basin is the shallowest, with depths below",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "of the sea are wide on the eastern shores of Japan. On the western shores, they are narrow, particularly along the Korean and Russian coasts, averaging about",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "and part of the North Pacific",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Reforms of the electricity and gas sectors, including the full liberalization of Japan's energy market in April 2016 and the gas market in April 2017, constitute an important part of Prime Minister Abe's economic program.",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "For example, the northern part of Hokkaido has a taiga biome.",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Greater Tokyo Area – Part of the larger",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "are visible from the northeastern coast of Hokkaido. Japan considers the northern territories (aka Southern Chishima) part of the",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Enrich email and phone",
+    "url": "https://www.ocean.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Work email and phone.",
+    "url": "https://www.ocean.io/",
+    "pass": 1
+   },
+   {
+    "quote": "LeadBird improves cold email efficiency with Ocean",
+    "url": "https://www.ocean.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Contact enrichment (email and phone)",
+    "url": "https://www.ocean.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Double email verification, including catch-alls",
+    "url": "https://www.ocean.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Work email and phone.",
+    "url": "https://www.ocean.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enrich email and phone",
+    "url": "https://www.ocean.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Double email verification",
+    "url": "https://www.ocean.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Add work email and phone to the accounts your agent finds.",
+    "url": "https://www.ocean.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Work email and phone for each contact.",
+    "url": "https://www.ocean.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Ocean.io's Growth plan starts at $250 a month, billed annually at $3,000 a year, and includes 60,000 credits. Growth adds 60,000 credits a year, waterfall enrichment and email support to everything in the free trial. Revenue Navigator is built on your own CRM deals and priced around your credit volume, market and team. You can start with a free trial before choosing a plan.",
+    "url": "https://www.ocean.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. The free trial gives you trial credits, company search across Ocean's 85M+ company index, lookalike companies, people and contact data, contact enrichment, sales tool integrations, the REST API and MCP server access, with no commitment. It lets you try Ocean on your own market before you pay. Growth adds 60,000 credits a year, waterfall enrichment and email support.",
+    "url": "https://www.ocean.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "A credit is the unit Ocean uses to measure usage, such as enriching a company or revealing a contact's work email or phone number. Growth includes 60,000 credits a year, and Revenue Navigator is sized to your own credit volume. Your plan sets the allowance, so you know the usage you are buying before you start.",
+    "url": "https://www.ocean.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "automatically pulls contact details like email addresses and phone",
+    "url": "https://www.ocean.io/case-studies/surfe",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社Ocean 広報担当 E-Mail：pr@ocean.inc",
+    "url": "https://prtimes.jp/main/html/rd/p/000000046.000172396.html",
+    "pass": 3
+   },
+   {
+    "quote": "Username or Email (optional)",
+    "url": "https://pluginsforwp.com/downloads/ocean-white-label/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Agencies and consultants",
+    "url": "https://www.ocean.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Ocean White Label: Getting Started - Documentation",
+    "url": "https://docs.oceanwp.org/article/737-ocean-white-label-getting-started",
+    "pass": 3
+   },
+   {
+    "quote": "Ocean White Label: Getting Started",
+    "url": "https://docs.oceanwp.org/article/737-ocean-white-label-getting-started",
+    "pass": 3
+   },
+   {
+    "quote": "Ocean White Label - PluginsForWP",
+    "url": "https://pluginsforwp.com/downloads/ocean-white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "https://oceanwp.org/extension/ocean-white-label/",
+    "url": "https://pluginsforwp.com/downloads/ocean-white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Ocean White Label is a clean, fast, and flexible white label solution for WordPress agencies and freelancers using OceanWP. It lets you rebrand the WordPress dashboard, hide theme/plugin branding, simplify client access, and streamline handoffs with professional, on-brand admin experiences—without slowing your site.",
+    "url": "https://pluginsforwp.com/downloads/ocean-white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Rebrand WordPress admin with your agency name, logo, and colors",
+    "url": "https://pluginsforwp.com/downloads/ocean-white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Import/export white label settings across sites",
+    "url": "https://pluginsforwp.com/downloads/ocean-white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Multisite ready for agencies managing many sites",
+    "url": "https://pluginsforwp.com/downloads/ocean-white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Single item: Ocean White Label",
+    "url": "https://pluginsforwp.com/downloads/ocean-white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Ocean White Label promo, Ocean White Label GPL, Ocean White Label pricing, Ocean White Label offer, Ocean White Label coupon, Ocean White Label discount, buy Ocean White Label, Ocean White Label download",
+    "url": "https://pluginsforwp.com/downloads/ocean-white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "How to Install or UpdateOcean White Label",
+    "url": "https://pluginsforwp.com/downloads/ocean-white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Why Download Ocean White Label From Us?",
+    "url": "https://pluginsforwp.com/downloads/ocean-white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "- We downloaded Ocean White Label directly from the",
+    "url": "https://pluginsforwp.com/downloads/ocean-white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Related Items to Ocean White Label",
+    "url": "https://pluginsforwp.com/downloads/ocean-white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Ocean White Label is a clean, fast, and flexible white…",
+    "url": "https://pluginsforwp.com/downloads/ocean-white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Ocean White Label - Frequently Asked Questions",
+    "url": "https://pluginsforwp.com/downloads/ocean-white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "How can we sell Ocean White Label for such a low price?",
+    "url": "https://pluginsforwp.com/downloads/ocean-white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "How many sites can I use the Ocean White Label on?",
+    "url": "https://pluginsforwp.com/downloads/ocean-white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "on Ocean White Label (for a limited time)",
+    "url": "https://pluginsforwp.com/downloads/ocean-white-label/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Ocean、シャープPOSシステム「RETAILACE21」とデータ連携開始 | 株式会社Oceanのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000046.000172396.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社Ocean（本社：東京都中央区、代表取締役：星野 遼、以下「Ocean」）は、シャープマーケティングジャパン株式会社（本社：大阪府八尾市、代表取締役社長：美甘 將雄、以下「シャープマーケティングジャパン」）が提供するPOSシステムとOceanのリファンド型免税プラットフォーム「Ocean Tax Refund」のデータ連携を開始いたします",
+    "url": "https://prtimes.jp/main/html/rd/p/000000046.000172396.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月、日本の免税制度は「店頭即時免税方式」から「リファンド方式」へ一斉に切り替わり、POSシステムにも新たなデータ連携対応が求められます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000046.000172396.html",
+    "pass": 3
+   },
+   {
+    "quote": "」というミッションのもと、こうした連携の輪を広げながら、日本各地の小売店が免税販売を通じて訪日客の消費を取り込める環境づくりに取り組んでまいります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000046.000172396.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社名：株式会社Ocean (Ocean Inc.)",
+    "url": "https://prtimes.jp/main/html/rd/p/000000046.000172396.html",
+    "pass": 3
+   },
+   {
+    "quote": "所在地：〒104-0061 東京都中央区銀座2-6-5 藤屋ビル5階",
+    "url": "https://prtimes.jp/main/html/rd/p/000000046.000172396.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社名：シャープマーケティングジャパン株式会社",
+    "url": "https://prtimes.jp/main/html/rd/p/000000046.000172396.html",
+    "pass": 3
+   },
+   {
+    "quote": "設立：1977年3月28日（2017年10月1日にシャープマーケティングジャパン株式会社として発足）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000046.000172396.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社Ocean 広報担当 E-Mail：pr@ocean.inc",
+    "url": "https://prtimes.jp/main/html/rd/p/000000046.000172396.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都中央区銀座2-6-5",
+    "url": "https://prtimes.jp/main/html/rd/p/000000046.000172396.html",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマダデンキ店舗に免税システム「Ocean Tax Refund」を導入 | 株式会社 ヤマダホールディングスのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000001197.000082557.html",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマダホールディングスグループの株式会社ヤマダデンキ（本社：群馬県高崎市、代表取締役社長：佐野 財丈、以下、ヤマダデンキ）は、株式会社Ocean（本社：東京都中央区、代表取締役：星野 遼、以下、Ocean）が提供するリファンド型免税プラットフォーム「Ocean Tax Refund」を、ヤマダデンキ・ベスト電器・IDC OTSUKA・TSUKUMO店舗に導入いたしますのでお知らせいたします",
+    "url": "https://prtimes.jp/main/html/rd/p/000001197.000082557.html",
+    "pass": 3
+   },
+   {
+    "quote": "これまで、日本の免税制度は、訪日外国人のお客様が購入時に免税価格で支払いをする「店頭即時免税方式」が採用されてきましたが、2026年11月より、購入時に税込価格を支払い、出国時に税関で持ち出し確認を受けたうえで消費税相当額の返金を受ける「リファンド方式」に切り替わります",
+    "url": "https://prtimes.jp/main/html/rd/p/000001197.000082557.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社名 ：株式会社Ocean (Ocean Inc.)",
+    "url": "https://prtimes.jp/main/html/rd/p/000001197.000082557.html",
+    "pass": 3
+   },
+   {
+    "quote": "所在地 ：〒104-0061 東京都中央区銀座2-6-5 藤屋ビル5階",
+    "url": "https://prtimes.jp/main/html/rd/p/000001197.000082557.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本は今、世界有数の観光大国として再び力強く歩みを進めています",
+    "url": "https://ocean.inc/company",
+    "pass": 3
+   },
+   {
+    "quote": "訪日客数は年間4,000万人に迫る勢いで拡大し、日本の魅力は再び世界を惹きつけています",
+    "url": "https://ocean.inc/company",
+    "pass": 3
+   },
+   {
+    "quote": "そして2026年11月に、日本の消費税免税制度は「リファンド方式」へと大きく転換します",
+    "url": "https://ocean.inc/company",
+    "pass": 3
+   },
+   {
+    "quote": "店舗は「購入時免税」から「後日返金型」へと移行しなければならず、これは単なる制度変更ではなく、日本全体のインバウンド消費構造を再設計する歴史的な転換点です",
+    "url": "https://ocean.inc/company",
+    "pass": 3
+   },
+   {
+    "quote": "Oceanは、この変化を「日本の観光をアップデートする絶好のチャンス」と捉えています",
+    "url": "https://ocean.inc/company",
+    "pass": 3
+   },
+   {
+    "quote": "そして、訪日客・店舗・地域が一体となる新しい経済循環を生み出し、世界中の旅行者が日本の魅力により深く触れられる未来を創っていきます",
+    "url": "https://ocean.inc/company",
+    "pass": 3
+   },
+   {
+    "quote": "「日本発のイノベーション」で世界と日本をつなぐ架け橋となっていく",
+    "url": "https://ocean.inc/company",
+    "pass": 3
+   },
+   {
+    "quote": "その切実な思いを胸に、Oceanはこれからも観光産業の進化と日本経済の前進に貢献してまいります",
+    "url": "https://ocean.inc/company",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社Ocean（Ocean Inc.）",
+    "url": "https://ocean.inc/company",
+    "pass": 3
+   },
+   {
+    "quote": "東京都中央区銀座2-6-5 藤屋ビル5階",
+    "url": "https://ocean.inc/company",
+    "pass": 3
+   },
+   {
+    "quote": "Sea of Japan - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Sea_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Marginal sea between Japan, Russia and Korea",
+    "url": "https://en.wikipedia.org/wiki/Sea_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": ". The Japanese archipelago separates the sea from the",
+    "url": "https://en.wikipedia.org/wiki/Sea_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese pronunciation:",
+    "url": "https://en.wikipedia.org/wiki/Sea_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "in Japan,",
+    "url": "https://en.wikipedia.org/wiki/Sea_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Sea of Japan naming dispute",
+    "url": "https://en.wikipedia.org/wiki/Sea_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "The naming of the sea is the subject of an ongoing dispute between Japan, North Korea, and South Korea. Japan uses the name",
+    "url": "https://en.wikipedia.org/wiki/Sea_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese colonial rule",
+    "url": "https://en.wikipedia.org/wiki/Sea_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "and it is expected that IHO charts will no longer bear traditional names like Japan Sea.",
+    "url": "https://en.wikipedia.org/wiki/Sea_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "For centuries, the sea had protected Japan from land invasions, particularly by the Mongols. It had long been navigated by Asian and, from the 18th century, by European ships. Russian expeditions of 1733–1743 mapped Sakhalin and the Japanese islands. In the 1780s, the Frenchman",
+    "url": "https://en.wikipedia.org/wiki/Sea_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "also explored, in passing, the Sea of Japan and the eastern shores of Japanese",
+    "url": "https://en.wikipedia.org/wiki/Sea_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "(1872–1876). The aquatic life was described by V. K. Brazhnikov in 1899–1902 and P. Yu. Schmidt in 1903–1904. The Japanese scientific studies of the sea began only in 1915 and became systematic since the 1920s.",
+    "url": "https://en.wikipedia.org/wiki/Sea_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "During the peak years of 1848 and 1849 a total of over 170 vessels (over 60 in 1848, and over 110 in 1849) cruised in the Sea of Japan,",
+    "url": "https://en.wikipedia.org/wiki/Sea_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Relief of the Sea of Japan and nearby areas",
+    "url": "https://en.wikipedia.org/wiki/Sea_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": ", Sea of Japan and surrounding part of continental East Asia in",
+    "url": "https://en.wikipedia.org/wiki/Sea_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Map showing Japanese archipelago, Sea of Japan and surrounding part of continental East Asia in",
+    "url": "https://en.wikipedia.org/wiki/Sea_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "The Sea of Japan was landlocked when the",
+    "url": "https://en.wikipedia.org/wiki/Sea_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "The Japan Arc started to form in the",
+    "url": "https://en.wikipedia.org/wiki/Sea_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "In the Early Miocene the Japan Sea started to open, and the northern and southern parts of the",
+    "url": "https://en.wikipedia.org/wiki/Sea_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "During the Miocene, the Sea of Japan expanded.",
+    "url": "https://en.wikipedia.org/wiki/Sea_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "The north part of the Japanese archipelago was further fragmented later until",
+    "url": "https://en.wikipedia.org/wiki/Sea_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "of the north-eastern Japanese archipelago began in the later",
+    "url": "https://en.wikipedia.org/wiki/Sea_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "The south part of the Japanese archipelago remained as a relatively large landmass.",
+    "url": "https://en.wikipedia.org/wiki/Sea_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "The orogenesis of high mountain ranges in north-eastern Japan started in Late Miocene and lasted in",
+    "url": "https://en.wikipedia.org/wiki/Sea_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Nowadays the Sea of Japan is bounded by the Russian mainland and",
+    "url": "https://en.wikipedia.org/wiki/Sea_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Geography of Japan - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Oceanography and seabed of Japan",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle Sea of Japan subsection",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Largest islands of Japan",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle Largest islands of Japan subsection",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": ". The other 14,120 islands are classified as \"remote islands\" by the Japanese government.",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japan is located in the northwestern",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": ". The subduction plates have pulled the Japanese archipelago eastward, created the",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japan extends from 20° to 45° north latitude (",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japan is surrounded by seas. To the north, the",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Ocean、シャープPOSシステム「RETAILACE21」とデータ連携開始 | 株式... — Oct 19, 2026 · Oceanは、シャープマーケティングジャパンとの連携を通じて、シャープPOSシステム「RETAILACE21」をご利用の小売事業者の制度移行を継続的に支援し ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000046.000172396.html",
+    "pass": 3
+   },
+   {
+    "quote": "トライアルと西友、免税システム「Ocean Tax Refund」を導入 新免税制... — Oct 30, 2026 · リファンド型免税プラットフォームを提供するOceanは、トライアルホールディングス傘下のトライアルカンパニー（以下、トライアル）と西友の店舗に、免税システム「Ocean Tax Refund」を導入すると発表した。",
+    "url": "https://markezine.jp/news/detail/77974",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマダデンキ店舗に免税システム「Ocean Tax Refund」を導入 — Oct 21, 2026 · これまで、日本の免税制度は、訪日外国人のお客様が購入時に免税価格で支払いをする「店頭即時免税方式」が採用されてきましたが、2026年11月 ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000001197.000082557.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 株式会社Ocean — 訪日観光客の買い物体験を最適化し、日本の小売業・観光業に新たな価値を提供。 最先端のリファンドシステムとマーケティングソリューションで、地域経済活性化に貢献します。",
+    "url": "https://ocean.inc/company",
+    "pass": 3
+   },
+   {
+    "quote": "Ocean Tax Refund｜免税リファンドシステム｜Ocean — リファンドとは？ リファンドとは、訪日外国人が商品購入時に消費税を支払い、出国時に返金 (リファンド)を受ける仕組みです。 2026年11月からの免税制度改正により、日本ではこの方式が導入されます。",
+    "url": "https://service.ocean.inc/refund",
+    "pass": 3
+   },
+   {
+    "quote": "Sea of Japan - Wikipedia — The Sea of Japan (see § Names for other names) is the marginal sea between the Japanese archipelago, Sakhalin, the Korean Peninsula, and the mainland of the Russian Far East. The Japanese archipelago separates the sea from the Pacific Ocean.",
+    "url": "https://en.wikipedia.org/wiki/Sea_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Geography of Japan - Wikipedia — Because of Japan's many far-flung outlying islands and long coastline, the country has extensive marine life and mineral resources in the ocean. The Exclusive Economic Zone of Japan covers 4,470,000 km2 (1,730,000 sq mi) and is the 8th largest in the world.",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Ocean Planning Co., Ltd. — Japan Ocean Planning Co., Ltd. (JOP; Japanese: 日本海洋計画株式会社) is a non-publicly listed private company established in July 1983, with a capital of 10 million yen. Its headquarters are located in Yokohama City, Kanagawa Prefecture. O…",
+    "url": "https://grokipedia.com/page/Japan_Ocean_Planning_Co_Ltd",
+    "pass": 3
+   },
+   {
+    "quote": "Sea of Japan: All Facts You Need to Know - Ocean Info — Bordering Japan, Russia, North Korea, and South Korea, the Sea of Japan is a marginal sea of the western Pacific Ocean, renowned for its deep basin and rich marine biodiversity. Separated from other seas by various straits, it serves as a crucial environmental and geopolitical hub.",
+    "url": "https://oceaninfo.com/ocean/sea-of-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Ocean Manufacturing Client Evaluation | PDF | Financial Audit ...Ocean Manufacturing, Inc.: The New Client Acceptance DecisionOcean Manufacturing Client Acceptance Review | PDF ... - ScribdOcean Manufacturing Case Study final.docx - Professor David...Ocean Manufacturing, Inc. Client Acceptance Decision Case ...CASE STUDY 1.1 - OCEAN MANUFACTURING.docx - Jennifer Lee AC...Case 1.1 (pdf) - CliffsNot",
+    "url": "https://www.scribd.com/document/432320844/The-New-Client-Acceptance-Decision-doc",
+    "pass": 3
+   },
+   {
+    "quote": "Ocean Manufacturing, Inc.: The New Client Acceptance Decision — Ocean Manufacturing, Inc. is recommended as a prospective audit client of Barnes and Fischer, LLP.",
+    "url": "https://www.freecasestudysolutions.com/case-study-Ocean-Manufacturing-Inc-The-New-Client-Acceptance-Decision.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Ocean Manufacturing Client Acceptance Review | PDF ... - Scribd — The firm is considering accepting Ocean Manufacturing, a medium-sized home appliance manufacturer, as a new audit client. Ocean is planning an IPO in the next few years and wants to hire a larger, nationally known firm for its audit.",
+    "url": "https://www.scribd.com/document/288859932/Ocean-Manufacturing-Inc-Case",
+    "pass": 3
+   },
+   {
+    "quote": "Ocean Manufacturing Case Study final.docx - Professor David...Ocean Manufacturing, Inc. Client Acceptance Decision Case ...CASE STUDY 1.1 - OCEAN MANUFACTURING.docx - Jennifer Lee AC...Case 1.1 (pdf) - CliffsNotes — Jun 6, 2020 · Ocean Manufacturing, INC is a privately held company subject to AICPA independence requirements. The AICPA Code of Professional Conduct indicates that systems implementat",
+    "url": "https://www.coursehero.com/file/63201036/Ocean-Manufacturing-Case-Study-finaldocx/",
+    "pass": 3
+   },
+   {
+    "quote": "Ocean Manufacturing, Inc. Client Acceptance Decision Case ... — This case study explores the client acceptance decision process for Ocean Manufacturing, Inc., a company seeking a new auditor. It highlights the importance of evaluating financial and non-financial factors, including management stability and IT system challenges, in making informed recommendations for audit engagements.",
+    "url": "https://www.studocu.vn/vn/document/truong-dai-hoc-kinh-te-luat-dai-hoc-quoc-gia-thanh-pho-ho-chi-minh/ly-thuyet-kiem-toan/ocean-manufacturing-inc-client-acceptance-decision-case-study-acct-101/151029655",
+    "pass": 3
+   },
+   {
+    "quote": "Ocean White Label: Getting Started - Documentation — Sep 15, 2022 · New video coming soon. Ocean White Label: Getting Started New video coming soon.",
+    "url": "https://docs.oceanwp.org/article/737-ocean-white-label-getting-started",
+    "pass": 3
+   },
+   {
+    "quote": "Ocean White Label - PluginsForWPPartner ProgramAdobe Partner DirectoryReseller - WikipediaReseller News - The voice of the IT channel — May 23, 2026 · Ocean White Label is a clean, fast, and flexible white label solution for WordPress agencies and freelancers using OceanWP. It lets you rebrand the WordPress dashboard, hide theme/plugin branding, simplify client access, and streamline handoffs with",
+    "url": "https://pluginsforwp.com/downloads/ocean-white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Ocean - 2026 Company Profile, Team, Funding, Competitors ... — Mar 3, 2026 · Explore Ocean's in-depth company profile, including funding details, key investors, leadership, and competitors.",
+    "url": "https://tracxn.com/d/companies/ocean/__ywrE3Lcd-RlDW4tM7YG3hjl027vDuCqqfRVn1b5WK4g",
+    "pass": 3
+   },
+   {
+    "quote": "Ocean Software Revenue 2024: $20.6M Est., $18.8K Raised — Oct 30, 2026 · Ocean Software has raised $18.8K in one funding round, in March 2021. How many employees does Ocean Software have? Ocean Software had 101 employees in December 2024, according to LinkedIn. Who is the CEO of Ocean Software? Shaun Mitchell is the CEO of Ocean Software and founded the company in 1993. Who founded Ocean Software?",
+    "url": "https://getlatka.com/companies/ocean-software",
+    "pass": 3
+   },
+   {
+    "quote": "Ocean / Océan – Financials, Industry Trends & Funding Info – 2026 — Ocean / Océan’s strategic edge lies in estimated revenue of $170.6M, team of around 500+ employees, located in Quebec, giving it an advantage in its niche.",
+    "url": "https://compworth.com/company/ocean-ocean",
+    "pass": 3
+   },
+   {
+    "quote": "Ocean Finance – Funding, Acquisitions & Key Rivals – 2026 — Ocean Finance is known for estimated revenue of $40M, team of around 100+ employees, centered in Trafford Park, with growing brand presence.",
+    "url": "https://compworth.com/company/ocean-finance",
+    "pass": 3
+   },
+   {
+    "quote": "Ocean Bottle 2026 Company Profile: Valuation, Funding ...Ocean.io 2026 Company Profile: Valuation, Funding & Investors ...Ocean — Company Profile, Funding & Careers | Fast AI Jobs — Information on valuation, funding, cap tables, investors, and executives for Ocean Bottle. Use the PitchBook Platform to explore the full profile. Information on valuation, funding, cap tables, investors, and executive",
+    "url": "https://pitchbook.com/profiles/company/265130-38",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "The ocean already absorbs about a quarter of the CO2 emitted ... The ocean's ability to absorb CO2 is supported by alkalinity. If that is the case, if we supplement alkalinity from common minerals like limestone, the ocean should be able to absorb a little more CO2.",
+    "url": "https://note.com/ocean_rehab_ccs/n/n156af2618554?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Ocean｜note Jun 19, 2020 · Ocean 「器用貧乏」を武器にAI×業種別戦略を発信中。 パティシエ・飲食独立・大手ディーラー年商7千万のTop営業と、泥臭い現場力に最新AIを掛け合わせ。 人事・教育を通じ延べ1700名に携わった経験から、人生を最適化する術を公開します。",
+    "url": "https://note.com/ocean22",
+    "pass": 3
+   },
+   {
+    "quote": "The Ocean 4K | Beautiful Wildlife and Healing Music 🌅 The Ocean 4K - Scenic Wildlife Film With Calming Music Today, I would like to introduce a healing work where you can enjoy the world of beautiful oceans and wildlife in 4K resolution.",
+    "url": "https://note.com/fair_impala134/n/n5d8afce7830d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Surfing Diary 52nd Session: January Ocean and Thoughts on ... I went to the ocean for the first time this year, about three weeks since my last visit. (I am a surfer over the age of 60.) On a weekday in the third week of January 2026, I headed to my usual local surf spot. Although it was warm for January, the waves were small, and I surfed at the left side of the break where the waves were barely ",
+    "url": "https://note.com/ta_tskj001/n/ndec2bd86597f?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "The ocean already absorbs about a quarter of the CO2 emitted by humanity｜Revital Force",
+    "url": "https://note.com/ocean_rehab_ccs/n/n156af2618554?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The ocean already absorbs about a quarter of the CO2 emitted by humanity",
+    "url": "https://note.com/ocean_rehab_ccs/n/n156af2618554?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Hello. This is the third installment of this series.",
+    "url": "https://note.com/ocean_rehab_ccs/n/n156af2618554?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Last time, I wrote about the difference between CO2 \"reduction\" and \"removal.\" This time, I will talk about the \"ocean\" itself, which I am looking to for help.",
+    "url": "https://note.com/ocean_rehab_ccs/n/n156af2618554?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In fact, the ocean is already absorbing a massive amount of CO2, even without us doing anything. I would like you to know that fact, and its cost, first.",
+    "url": "https://note.com/ocean_rehab_ccs/n/n156af2618554?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "More than 10 billion tons of CO2 dissolve into the ocean every year",
+    "url": "https://note.com/ocean_rehab_ccs/n/n156af2618554?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "There is an estimate called the \"Global Carbon Budget\" that researchers around the world compile every year. It is like a household account book that tracks where the CO2 emitted by humans has gone.",
+    "url": "https://note.com/ocean_rehab_ccs/n/n156af2618554?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "According to the 2025 edition, CO2 emissions from human activities are approximately 42 billion tons per year. Of that, it is estimated that about 11 to 12 billion tons per year are absorbed by the ocean.",
+    "url": "https://note.com/ocean_rehab_ccs/n/n156af2618554?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Anthropicが発電機の供給枠を取得とFT報道",
+    "url": "https://note.com/ocean22",
+    "pass": 3
+   },
+   {
+    "quote": "【週刊AI市場】AIは、作る競争の次に「回収できる供給網」を問われ始めた",
+    "url": "https://note.com/ocean22",
+    "pass": 3
+   },
+   {
+    "quote": "Apple、全開発者にSiri AI連携のプレビューを公開",
+    "url": "https://note.com/ocean22",
+    "pass": 3
+   },
+   {
+    "quote": "Google、アフリカ向けに教材をオフラインで学べる無料基盤を公開",
+    "url": "https://note.com/ocean22",
+    "pass": 3
+   },
+   {
+    "quote": "【週刊AI市場】強いAIを、誰の資本でどう動かし続けるのか",
+    "url": "https://note.com/ocean22",
+    "pass": 3
+   },
+   {
+    "quote": "Mistral、改良したLarge 4の重みを公開し自社運用を可能に",
+    "url": "https://note.com/ocean22",
+    "pass": 3
+   },
+   {
+    "quote": "🌅 The Ocean 4K | Beautiful Wildlife and Healing Music｜たよろよろ図書館DATABASE",
+    "url": "https://note.com/fair_impala134/n/n5d8afce7830d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "🌅 The Ocean 4K | Beautiful Wildlife and Healing Music",
+    "url": "https://note.com/fair_impala134/n/n5d8afce7830d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "World Scenery Archive",
+    "url": "https://note.com/fair_impala134/n/n5d8afce7830d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "WorldSceneryArchive GoldenMemories is",
+    "url": "https://note.com/fair_impala134/n/n5d8afce7830d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "a series that introduces the world's spectacular views and the charm of travel.",
+    "url": "https://note.com/fair_impala134/n/n5d8afce7830d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "for uploading this video.",
+    "url": "https://note.com/fair_impala134/n/n5d8afce7830d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "🌅 The Ocean 4K - Scenic Wildlife Film With Calming Music",
+    "url": "https://note.com/fair_impala134/n/n5d8afce7830d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Today, I would like to introduce a healing work where you can enjoy the world of beautiful oceans and wildlife in 4K resolution.",
+    "url": "https://note.com/fair_impala134/n/n5d8afce7830d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Surfing Diary 52nd Session: January Ocean and Thoughts on Physical Strength｜TA",
+    "url": "https://note.com/ta_tskj001/n/ndec2bd86597f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Surfing Diary 52nd Session: January Ocean and Thoughts on Physical Strength",
+    "url": "https://note.com/ta_tskj001/n/ndec2bd86597f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It has been a while since my last session. I went to the ocean for the first time this year, about three weeks since my last visit. (I am a surfer over the age of 60.)",
+    "url": "https://note.com/ta_tskj001/n/ndec2bd86597f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "On a weekday in the third week of January 2026, I headed to my usual local surf spot. Although it was warm for January, the waves were small, and I surfed at the left side of the break where the waves were barely breaking.",
+    "url": "https://note.com/ta_tskj001/n/ndec2bd86597f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The size was knee-high, with occasional waist-high sets. The wind was a light offshore breeze. I wore a semi-dry wetsuit, along with boots and gloves.",
+    "url": "https://note.com/ta_tskj001/n/ndec2bd86597f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Perhaps because the waves were small, there were few people, and I was able to enjoy surfing at a leisurely pace. While waiting for waves out in the lineup, I happened to look down and saw that the water was clear enough to see the seabed. I realize that surfing always makes me feel relaxed and free.",
+    "url": "https://note.com/ta_tskj001/n/ndec2bd86597f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The seawater is quite cold, but thanks to my full gear including gloves, I didn't feel the cold while in the water. However, that seems to have been an illusion, as the cold water was gradually draining my energy. After getting out of the water, changing, and sitting in the car seat, I felt a level of fatigue I don't experience in warmer seasons. Because of this, I took a short nap in the car befo",
+    "url": "https://note.com/ta_tskj001/n/ndec2bd86597f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "These changes in how I feel fatigue might be one of the signs of aging. However, I accept it as a phenomenon, and I plan to keep my midwinter surf sessions as short as possible and take longer breaks on the way home. That is how I hope to continue surfing for a long time to come.",
+    "url": "https://note.com/ta_tskj001/n/ndec2bd86597f?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "NOAA Ocean Exploration (@oceanexplorer) / X Official @ NOAA account for NOAA Ocean Exploration, the only federal organization dedicated to exploring and understanding our ocean.",
+    "url": "https://x.com/oceanexplorer",
+    "pass": 3
+   },
+   {
+    "quote": "Oceana (@oceana) / X The ocean is home to extraordinary wildlife, supports communities around the world, provides food and livelihoods, and helps sustain life on our planet. 💙 That’s why Oceana is working around the world to protect and restore the world's oceans.",
+    "url": "https://x.com/oceana",
+    "pass": 3
+   },
+   {
+    "quote": "NOAA's Ocean Service (@noaaocean) / X NOAA released the new Coastal Ocean Reanalysis (CORA) dataset for the U.S. West Coast, Hawaii, and southern Alaska, and a new Experimental High-Resolution High Tide Flooding Outlook.",
+    "url": "https://x.com/noaaocean",
+    "pass": 3
+   },
+   {
+    "quote": "NOAA Ocean Today (@NOAAOceanToday) / X Ocean Today is a collaboration between NOAA + Smithsonian. Follow us to watch, explore, and discover our amazing ocean.",
+    "url": "https://x.com/NOAAOceanToday",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "OceanX - LinkedIn OceanX is a mission to explore the unseen ocean, map uncharted areas of the world, observe rare deep-sea creatures, pursue scientific and medical breakthroughs, and then bring all of these...",
+    "url": "https://www.linkedin.com/company/oceanxorg/",
+    "pass": 3
+   },
+   {
+    "quote": "Intergovernmental Oceanographic Commission (IOC) of UNESCO Turning ocean science and knowledge into action. #OceanScience #OceanAction | The United Nations' lead body for ocean science.",
+    "url": "https://www.linkedin.com/company/ioc-unesco",
+    "pass": 3
+   },
+   {
+    "quote": "Ocean Freight Operations Manager at DHL Global Forwarding ... Oct 22, 2026 · Apply for Ocean Freight Operations Manager at DHL Global Forwarding in Southampton, England, United Kingdom. Full-time Director role. See responsibilities, qualifications, and similar jobs on LinkedIn.",
+    "url": "https://uk.linkedin.com/jobs/view/ocean-freight-operations-manager-at-dhl-global-forwarding-4482469446",
+    "pass": 3
+   },
+   {
+    "quote": "Ocean Logistics Coordinator at Core Logistics International ... 5 days ago · Apply for Ocean Logistics Coordinator at Core Logistics International in Mississauga, Ontario, Canada. Full-time Entry level role. See responsibilities, qualifications, and similar jobs on LinkedIn.",
+    "url": "https://ca.linkedin.com/jobs/view/ocean-logistics-coordinator-at-core-logistics-international-4486532102",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "O.C.E.A.N., Inc. | Toms River NJ - FacebookOcean 44 | Scottsdale AZ - FacebookBargains of Ocean County - FacebookChợ cư dân Vinhomes Ocean Park 1 Và 2 | FacebookLog Into FacebookOcean Conservancy | Washington D.C. DC - FacebookFacebook Oct 28, 2026 · OCEAN Inc. offers a variety of career opportunities across multiple departments , all focused on empowering families and strengthening communities th",
+    "url": "https://www.facebook.com/oceanincorg/",
+    "pass": 3
+   },
+   {
+    "quote": "Ocean 44 | Scottsdale AZ - FacebookBargains of Ocean County - FacebookChợ cư dân Vinhomes Ocean Park 1 Và 2 | FacebookLog Into FacebookOcean Conservancy | Washington D.C. DC - FacebookFacebook Ocean 44, Scottsdale. 5,826 likes · 59 talking about this · 24,593 were here. A vibrant, upscale seafood restaurant specializing in world-class seafood... 4 days ago · This group serves as a platform for buy",
+    "url": "https://www.facebook.com/Ocean44Scottsdale/",
+    "pass": 3
+   },
+   {
+    "quote": "Bargains of Ocean County - Facebook 4 days ago · This group serves as a platform for buying and selling within the Ocean County area. We encourage members to invite friends to join, fostering growth...",
+    "url": "https://business.facebook.com/groups/2871191126430867/",
+    "pass": 3
+   },
+   {
+    "quote": "Chợ cư dân Vinhomes Ocean Park 1 Và 2 | Facebook Oct 11, 2026 · Chợ cư dân Vinhomes Ocean Park 1 Và 2 About this group euroking của cho cao cấp cu dan Vinhomes Ocean Park, noi trao đoi, mua bán, thảo luạn ve nhung hoạt đọng của dự án. Chào đón tat cả nhung ai click Join euroking đe cùng tham gia thảo luạn. Luu ý khi tham gia: 1 Đang bán hàng đúng chat luong.",
+    "url": "https://business.facebook.com/groups/1275500359485007/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.ocean.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ocean.io/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ocean.io/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ocean.io/case-studies/netmore",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ocean.io/case-studies/leadinfo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ocean.io/case-studies/zenmedia",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ocean.io/case-studies/brandwatch",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ocean.io/case-studies/tele2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ocean.io/case-studies/monta",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ocean.io/case-studies/clay",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ocean.io/case-studies/cbc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ocean.io/case-studies/scalestack",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ocean.io/case-studies/surfe",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn-bunny.ocean.io/logos/getmoss.com/5cd47a9faf8cd98ac4805334af0a3a31be1edb6c.png?width=72",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn-bunny.ocean.io/logos/spendesk.com/680a4a70ec12e26b7920057edb74b23cfc8af299.png?width=72",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn-bunny.ocean.io/logos/brex.com/2c66f22edd5c0a2cb1eec442e151128e4e8019a8.png?width=72",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn-bunny.ocean.io/logos/payhawk.com/a80969444c1e52f57ae3374048cab1e00e0fdb22.png?width=72",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000046.000172396.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markezine.jp/news/detail/77974",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000001197.000082557.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ocean.inc/company",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/contract/basic/8378/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Sea_of_Japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://grokipedia.com/page/Japan_Ocean_Planning_Co_Ltd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.britannica.com/place/Sea-of-Japan-East-Sea",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scribd.com/document/432320844/The-New-Client-Acceptance-Decision-doc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.freecasestudysolutions.com/case-study-Ocean-Manufacturing-Inc-The-New-Client-Acceptance-Decision.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scribd.com/document/288859932/Ocean-Manufacturing-Inc-Case",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coursehero.com/file/63201036/Ocean-Manufacturing-Case-Study-finaldocx/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://docs.oceanwp.org/article/737-ocean-white-label-getting-started",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pluginsforwp.com/downloads/ocean-white-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/ocean/__ywrE3Lcd-RlDW4tM7YG3hjl027vDuCqqfRVn1b5WK4g",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/ocean-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/ocean-ocean",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/ocean-finance",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ocean_rehab_ccs/n/n156af2618554?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ocean22",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/fair_impala134/n/n5d8afce7830d?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ta_tskj001/n/ndec2bd86597f?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/oceanexplorer",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/oceana",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/noaaocean",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/NOAAOceanToday",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/oceanxorg/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/ioc-unesco",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/jobs/view/ocean-freight-operations-manager-at-dhl-global-forwarding-4482469446",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/jobs/view/ocean-logistics-coordinator-at-core-logistics-international-4486532102",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/oceanincorg/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Ocean44Scottsdale/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://business.facebook.com/groups/2871191126430867/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://business.facebook.com/groups/1275500359485007/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Ocean 日本 導入",
+   "results": [
+    "https://prtimes.jp/main/html/rd/p/000000046.000172396.html",
+    "https://markezine.jp/news/detail/77974",
+    "https://prtimes.jp/main/html/rd/p/000001197.000082557.html",
+    "https://ocean.inc/company",
+    "https://service.ocean.inc/refund",
+    "https://ocean.inc/",
+    "https://www.nikkei.com/article/DGXZQOUC07BT60X01C26A0000000/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ocean 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.oceanlinks.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ocean Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Sea_of_Japan",
+    "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "https://grokipedia.com/page/Japan_Ocean_Planning_Co_Ltd",
+    "https://www.britannica.com/place/Sea-of-Japan-East-Sea",
+    "https://oceaninfo.com/ocean/sea-of-japan/",
+    "https://www.mitsuioceancruises.us/",
+    "https://www.worldatlas.com/seas/sea-of-japan.html",
+    "https://iere.org/what-ocean-is-in-japan/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Ocean manufacturing customer case study",
+   "results": [
+    "https://www.scribd.com/document/432320844/The-New-Client-Acceptance-Decision-doc",
+    "https://www.freecasestudysolutions.com/case-study-Ocean-Manufacturing-Inc-The-New-Client-Acceptance-Decision.aspx",
+    "https://www.scribd.com/document/288859932/Ocean-Manufacturing-Inc-Case",
+    "https://www.coursehero.com/file/63201036/Ocean-Manufacturing-Case-Study-finaldocx/",
+    "https://www.studocu.vn/vn/document/truong-dai-hoc-kinh-te-luat-dai-hoc-quoc-gia-thanh-pho-ho-chi-minh/ly-thuyet-kiem-toan/ocean-manufacturing-inc-client-acceptance-decision-case-study-acct-101/151029655",
+    "https://www.coursehero.com/file/87221169/CASE-STUDY-11-OCEAN-MANUFACTURINGdocx/",
+    "https://www.cliffsnotes.com/study-notes/31753406"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ocean white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://docs.oceanwp.org/article/737-ocean-white-label-getting-started",
+    "https://pluginsforwp.com/downloads/ocean-white-label/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.reseller.co.nz/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ocean founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/ocean/__ywrE3Lcd-RlDW4tM7YG3hjl027vDuCqqfRVn1b5WK4g",
+    "https://getlatka.com/companies/ocean-software",
+    "https://compworth.com/company/ocean-ocean",
+    "https://compworth.com/company/ocean-finance",
+    "https://pitchbook.com/profiles/company/265130-38",
+    "https://pitchbook.com/profiles/company/437897-71",
+    "https://www.fastaijobs.com/companies/ocean"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Ocean",
+   "results": [
+    "https://note.com/ocean_rehab_ccs/n/n156af2618554?hl=en",
+    "https://note.com/ocean22",
+    "https://note.com/fair_impala134/n/n5d8afce7830d?hl=en",
+    "https://note.com/ta_tskj001/n/ndec2bd86597f?hl=en",
+    "https://note.com/fair_impala134/n/n5d8afce7830d",
+    "https://note.com/brave_deer858/n/nd3358e41fd73?hl=en",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Ocean",
+   "results": [
+    "https://x.com/oceanexplorer",
+    "https://x.com/oceana",
+    "https://x.com/noaaocean",
+    "https://x.com/NOAAOceanToday",
+    "https://x.com/_oceaninspace",
+    "https://x.com/UNOceanDecade",
+    "https://x.com/OurOcean"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Ocean",
+   "results": [
+    "https://www.linkedin.com/company/oceanxorg/",
+    "https://www.linkedin.com/company/ioc-unesco",
+    "https://uk.linkedin.com/jobs/view/ocean-freight-operations-manager-at-dhl-global-forwarding-4482469446",
+    "https://ca.linkedin.com/jobs/view/ocean-logistics-coordinator-at-core-logistics-international-4486532102",
+    "https://uk.linkedin.com/jobs/view/remote-vessel-operators-usv-at-ocean-infinity-4481808494",
+    "https://gh.linkedin.com/in/peter-teye-busumprah-9b8225284",
+    "https://ca.linkedin.com/in/ian-ricketts-president-ocean-brands-0072b514"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Ocean",
+   "results": [
+    "https://www.facebook.com/oceanincorg/",
+    "https://www.facebook.com/Ocean44Scottsdale/",
+    "https://business.facebook.com/groups/2871191126430867/",
+    "https://business.facebook.com/groups/1275500359485007/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/oceanconservancy/",
+    "https://www.facebook.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ocean note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.ocean-note.com/hpgen/HPB/categories/8022.html",
+    "https://www.itmedia.co.jp/news/article/2604/23/1260423084/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.ocean-note.com/hpgen/HPB/entries/2.html",
+    "https://prtimes.jp/main/html/rd/p/000000025.000172396.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ocean X 投稿",
+   "results": [
+    "https://oceanx.org/",
+    "https://sanya26.oceansconference.org/投稿须知/",
+    "https://oceanx.network/",
+    "https://oceanx.org/press-room/",
+    "https://www.zhihu.com/question/510868262/answers/updated",
+    "https://blog.csdn.net/weixin_30536861/article/details/166126986",
+    "https://x.com/oceantide_umino/status/2118273558480888118"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部40頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部40頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部40頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部40頁・検索12回）"
+ }
+}

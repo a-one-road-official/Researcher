@@ -1,0 +1,1308 @@
+{
+ "name": "Predictleads",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-09T22:35:46.189345+00:00",
+ "official_url": "https://predictleads.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$150K",
+    "url": "https://getlatka.com/companies/predictleads",
+    "pass": 3
+   },
+   {
+    "label": "3. Seed Round",
+    "value": "01-Oct-2019    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/226734-94",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Company signals help you identify growing companies, understand target prospects and improve outreach personalization.",
+    "url": "https://predictleads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "unveils Oracle Acceleron for AI workloads in Nevada on Oct 27th '26",
+    "url": "https://predictleads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "'s Creator and Content Insights API as an alpha partner in New York on Oct 29th '26",
+    "url": "https://predictleads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "partner to scale water-saving rice farming practices in India on Oct 29th '26",
+    "url": "https://predictleads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reliable and unique news data that drives our prospecting",
+    "url": "https://predictleads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PredictLeads’ news data has been consistently valuable for our team. The coverage is broad, timely, and surfaces",
+    "url": "https://predictleads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "workflows has been smooth, and the data quality has proven trustworthy over time.",
+    "url": "https://predictleads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PredictLeads has a great and accurate dataset, timely updates, and an awesome API. The team is simply amazing,",
+    "url": "https://predictleads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "One of the best B2B data providers out there",
+    "url": "https://predictleads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Love the Breadth and depth. Predictleads has fantastic data in b2b-salient categories, enabling the build-out of a saas app to be 30x easier.",
+    "url": "https://predictleads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Great data, Great price, Great team.",
+    "url": "https://predictleads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Really good quality data that is constantly improving. You can tell the founders are from tech because it is",
+    "url": "https://predictleads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Product Officer at a 1,000-person tech company",
+    "url": "https://predictleads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Structured News Events data from 20M+ PR sites, news outlets, and blogs, categorized into 46 event types such as product launches, funding, partnerships, and expansions.",
+    "url": "https://predictleads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Structured Job Posting data on 3M+ companies, including full job descriptions, ONET codes, and salary details, to uncover investment initiatives and future company growth plans.",
+    "url": "https://predictleads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Technographics data identifying which technologies companies use, enriched with pricing information to estimate tech spend, sourced from job postings, website script tags, and DNS records, covering tools like Salesforce, HubSpot, and Marketo.",
+    "url": "https://predictleads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Products data extracted from company product and solutions pages, showing what each company offers and enabling analysis of markets, competitors, and offerings.",
+    "url": "https://predictleads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore products data",
+    "url": "https://predictleads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Access company intelligence data instantly via REST APIs with comprehensive documentation and webhook support.",
+    "url": "https://predictleads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Get access to News Events, Job Openings, Technographics, Financing Events, Products, and more on 120M+ companies.",
+    "url": "https://predictleads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Choose from APIs, downloadable flat files, Model Context Protocol (MCP) server or real-time webhooks to integrate data into your workflow.",
+    "url": "https://predictleads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "38 \"image_url\": \"https://cdn.prod.website-files.com/6130fa1501794ed4d11867ba/63d9599008ad50523f8ce26a_logo.svg\",",
+    "url": "https://predictleads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "39 \"url\": \"https://www.fivetran.com/press/fivetran-acquires-tobiko-data-to-power-the-next-generation-of-advanced-ai-ready-data-transformation\",",
+    "url": "https://predictleads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PredictLeads company intelligence data powers a wide range of business applications, from AI-powered automation to market research and investment analysis.",
+    "url": "https://predictleads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Power AI agents and autonomous systems with real-time company signals, news events, key customers, lookalikes, technographics data and more. Enable intelligent automation that identifies prospects, tracks company changes, and triggers actions based on growth signals.",
+    "url": "https://predictleads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Key Customer Data via API, Flat Files, Webhooks, and MCP | PredictLeads",
+    "url": "https://predictleads.com/connections",
+    "pass": 1
+   },
+   {
+    "quote": "PredictLeads offers a unique dataset of structured company relationship data based on case studies, testimonials, portfolio pages, and logos, an offering rarely found elsewhere. Our Key Customers dataset provides transparency with each connection including relationship type e.g., vendor, partner, investor, sponsor, source URL, and where available, context of how the two companies work together.",
+    "url": "https://predictleads.com/connections",
+    "pass": 1
+   },
+   {
+    "quote": "We use a combination of image recognition and OCR (e.g., logos on testimonials, case study pages) and link-based evidence for robust coverage. This visual and textual sourcing approach ensures thorough detection of business relationships across millions of companies.",
+    "url": "https://predictleads.com/connections",
+    "pass": 1
+   },
+   {
+    "quote": "Dataset covers over 60 million companies that has a total of over 345 million connections detected since 2019. Each week ~500K new connections are discovered and categorized. This scale and coverage enable you to monitor business relationship networks, track supply chains, and identify investment opportunities with unprecedented detail.",
+    "url": "https://predictleads.com/connections",
+    "pass": 1
+   },
+   {
+    "quote": "Use the Key Customers dataset to monitor new customer logos, analyze supply chains, track competitor activity, and identify investment opportunities. The Context field provides detailed insights into how companies work together.",
+    "url": "https://predictleads.com/connections",
+    "pass": 1
+   },
+   {
+    "quote": "Monitor new customer logos and case studies being added to websites. The larger the customer, the higher the impact. New customers can be enriched by company size or Ticker data to prioritize high-value relationships.",
+    "url": "https://predictleads.com/connections",
+    "pass": 1
+   },
+   {
+    "quote": "Track portfolio pages of incubators and accelerators to identify potential new investment opportunities. Monitor which companies are part of accelerator programs and understand their relationship networks.",
+    "url": "https://predictleads.com/connections",
+    "pass": 1
+   },
+   {
+    "quote": "One of the best B2B data providers out there. Love the Breadth and depth. Predictleads has fantastic data in b2b-salient categories, enabling the build-out of a saas app to be 30x easier.",
+    "url": "https://predictleads.com/connections",
+    "pass": 1
+   },
+   {
+    "quote": "Summary of the case study or testimonial providing insights into how the two companies work together.",
+    "url": "https://predictleads.com/connections",
+    "pass": 1
+   },
+   {
+    "quote": "Direct link to the source page where the relationship was detected, providing full transparency and verification capability.",
+    "url": "https://predictleads.com/connections",
+    "pass": 1
+   },
+   {
+    "quote": "Get started with PredictLeads Key Customers dataset to unlock powerful insights into business relationships and supply chain intelligence.",
+    "url": "https://predictleads.com/connections",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing | PredictLeads",
+    "url": "https://predictleads.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "PredictLeads provides Full Flat files and real-time Webhook Access to all datasets.",
+    "url": "https://predictleads.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pay-as-you-go Pricing",
+    "url": "https://predictleads.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "The Similar Companies API is priced per returned company. For example:",
+    "url": "https://predictleads.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "This is because each result represents a separate company entity.",
+    "url": "https://predictleads.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Do filters or parameters affect pricing?",
+    "url": "https://predictleads.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "No, filters do not affect pricing. You can use parameters like:",
+    "url": "https://predictleads.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, we provide data via APIs, flat files, and webhooks.",
+    "url": "https://predictleads.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "With a tiered pricing model where the cost per API call decreases the more you use.",
+    "url": "https://predictleads.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Company Data via API, Flat Files, Webhooks, and MCP | PredictLeads",
+    "url": "https://predictleads.com/companies",
+    "pass": 1
+   },
+   {
+    "quote": "12 \"meta_description\": \"The Qualtrics Platform and our specialized AI uncovers insights, prioritizes actions, and empowers everyone to improve customer & employee experiences.\",",
+    "url": "https://predictleads.com/companies",
+    "pass": 1
+   },
+   {
+    "quote": "14 \"description_short\": \"Qualtrics is a platform that helps businesses improve customer and employee experiences using AI-driven insights.\",",
+    "url": "https://predictleads.com/companies",
+    "pass": 1
+   },
+   {
+    "quote": "16 \"location\": \"Provo, Utah, United States\",",
+    "url": "https://predictleads.com/companies",
+    "pass": 1
+   },
+   {
+    "quote": "19 \"city\": \"Provo\",",
+    "url": "https://predictleads.com/companies",
+    "pass": 1
+   },
+   {
+    "quote": "PredictLeads provides advanced company intelligence with up-to-date core data, relationship mapping, and lookalike insights to help you understand companies and navigate complex business landscapes.",
+    "url": "https://predictleads.com/companies",
+    "pass": 1
+   },
+   {
+    "quote": "Keep company information up to date with detailed data including company descriptions translated to English, structured location details, website information, revenue bands, and NAICS codes for accurate company profiling.",
+    "url": "https://predictleads.com/companies",
+    "pass": 1
+   },
+   {
+    "quote": "Effectively understand companies involved in complex multi-party transactions. When a company of interest partners with another, easily access detailed information about the new company including their profile, size, lookalikes, and headquarters location.",
+    "url": "https://predictleads.com/companies",
+    "pass": 1
+   },
+   {
+    "quote": "Maintain accurate company records with up-to-date core company data. PredictLeads provides detailed information on website redirects, parent and subsidiary relationships, ensuring you always have the latest company information for accurate business intelligence and updated records on your end.",
+    "url": "https://predictleads.com/companies",
+    "pass": 1
+   },
+   {
+    "quote": "Get detailed company metrics including headcount data tracked over time, structured location information with city, state, country, and region details, and revenue ranges with precise low and high values. Use this data to segment markets, qualify leads, and make informed business decisions based on company size and financial metrics.",
+    "url": "https://predictleads.com/companies",
+    "pass": 1
+   },
+   {
+    "quote": "Get similar companies data with PredictLeads' recently added lookalikes attribute, providing top 5 lookalike companies for each entity. Dedicated similar companies dataset offers up to 50 lookalikes, helping investors and analysts better understand the competitive landscape and identify similar companies for market analysis and investment research.",
+    "url": "https://predictleads.com/companies",
+    "pass": 1
+   },
+   {
+    "quote": "Build accurate company profiles",
+    "url": "https://predictleads.com/companies",
+    "pass": 1
+   },
+   {
+    "quote": "Create company profiles with structured location data, revenue ranges, employee counts, NAICS codes, and company descriptions. Access detailed company intelligence to build accurate target lists, segment markets effectively, and make data-driven decisions for sales, marketing, and business development.",
+    "url": "https://predictleads.com/companies",
+    "pass": 1
+   },
+   {
+    "quote": "Accurate data for lots of companies, that I can completely rely on 🔥. PredictLeads enables personalized outreach campaigns and increases our sales conversions.",
+    "url": "https://predictleads.com/companies",
+    "pass": 1
+   },
+   {
+    "quote": "Company News Data via API, Flat Files, Webhooks, and MCP | PredictLeads",
+    "url": "https://predictleads.com/news_events",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by teams for accurate insights and exceptional service",
+    "url": "https://predictleads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We use a combination of image recognition and OCR (e.g., logos on testimonials, case study pages) and link-based evidence for robust coverage. This visual and textual sourcing approach ensures thorough detection of business relationships across millions of companies.",
+    "url": "https://predictleads.com/connections",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by businesses worldwide",
+    "url": "https://predictleads.com/connections",
+    "pass": 1
+   },
+   {
+    "quote": "Use the \"Context\" field (a summary of the case study or testimonial) to gain a better understanding of how the two companies work together. Context also includes investment-specific details like Fund name, Fund year, Industry, Sector, Investment Status, and more.",
+    "url": "https://predictleads.com/connections",
+    "pass": 1
+   },
+   {
+    "quote": "Summary of the case study or testimonial providing insights into how the two companies work together.",
+    "url": "https://predictleads.com/connections",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by businesses worldwide",
+    "url": "https://predictleads.com/companies",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by businesses worldwide",
+    "url": "https://predictleads.com/news_events",
+    "pass": 1
+   },
+   {
+    "quote": "Slowly turning her appartment into a jungle. Currently proud owner of 67 plants and 3 more on their way.",
+    "url": "https://predictleads.com/about_us",
+    "pass": 1
+   },
+   {
+    "quote": "\"reason\": \"Both are major contractors for the U.S. government providing advanced aerospace, defense, and space exploration systems.\",",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   },
+   {
+    "quote": "\"reason\": \"Both are global leaders in aerospace manufacturing, developing complex launch vehicles and satellite infrastructure.\",",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   },
+   {
+    "quote": "\"reason\": \"Both are primary competitors in the aerospace industry, focusing on space transportation, satellite systems, and launch services.\",",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Company sells assets (like properties or warehouses) to other company.",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Company opens new or expands existing facilities like warehouses, data centers, manufacturing plants etc.",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Company buys assets (like properties or warehouses) from other company.",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study, Testimonials, Suppliers, Portfolio, and identified through image recognition of company logos.",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   },
+   {
+    "quote": "“Our customers”, “Trusted by”, “Enabling businesses to”, etc.",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Returns Technologies used by a specific Company as a list of Technology Detections.",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Firmographic data on 120M+ companies, with descriptions, tickers, locations, and corporate hierarchies (parent and subsidiary). Optional add-ons include industry classifications, NAICS codes, and revenue estimates.",
+    "url": "https://predictleads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "5 \"summary\": \"Fivetran, Inc. acquired Tobiko Data, Inc. on Sep 3rd '25.\",",
+    "url": "https://predictleads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Point-in-time datasets on companies including structured and categorized News data, Hiring Intent, Technographics, Key Customers, Similar Companies, Company Financials, Revenues, NAICS codes and much more...",
+    "url": "https://predictleads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PredictLeads delivers pre-structured, categorized, and de-duplicated data gathered directly from company websites. Unlike raw web scraping, data arrives ready-to-use and data points are categorized, historical, include sources, are normalized and have verified values you can trust.",
+    "url": "https://predictleads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Track portfolio pages of incubators and accelerators to identify potential new investment opportunities. Monitor which companies are part of accelerator programs and understand their relationship networks.",
+    "url": "https://predictleads.com/connections",
+    "pass": 1
+   },
+   {
+    "quote": "Access up-to-date core company data including NAICS codes, company location data, revenues, headcount over time, website redirects, parent and subsidiary relationships, lookalike companies and more.",
+    "url": "https://predictleads.com/companies",
+    "pass": 1
+   },
+   {
+    "quote": "10 \"ticker\": \"NASDAQ:XM\",",
+    "url": "https://predictleads.com/companies",
+    "pass": 1
+   },
+   {
+    "quote": "32 \"revenue_range\": \"From $500,000,000 to $999,999,999\",",
+    "url": "https://predictleads.com/companies",
+    "pass": 1
+   },
+   {
+    "quote": "33 \"revenue_range_data\": {",
+    "url": "https://predictleads.com/companies",
+    "pass": 1
+   },
+   {
+    "quote": "34 \"revenue_range_low\": 500000000,",
+    "url": "https://predictleads.com/companies",
+    "pass": 1
+   },
+   {
+    "quote": "35 \"revenue_range_high\": 999999999",
+    "url": "https://predictleads.com/companies",
+    "pass": 1
+   },
+   {
+    "quote": "37 \"employees_min\": 5001,",
+    "url": "https://predictleads.com/companies",
+    "pass": 1
+   },
+   {
+    "quote": "38 \"employees_max\": 10000",
+    "url": "https://predictleads.com/companies",
+    "pass": 1
+   },
+   {
+    "quote": "Keep company information up to date with detailed data including company descriptions translated to English, structured location details, website information, revenue bands, and NAICS codes for accurate company profiling.",
+    "url": "https://predictleads.com/companies",
+    "pass": 1
+   },
+   {
+    "quote": "Track website redirects to identify company name changes, mergers, acquisitions, and rebranding activities. Stay informed about company evolution and maintain accurate records.",
+    "url": "https://predictleads.com/companies",
+    "pass": 1
+   },
+   {
+    "quote": "Access key data fields including Company Headcounts over time, Company Location, Domain name, Revenue bands, NAICS codes, Lookalikes, Parent and Subsidiaries information, and Redirects information for complete company intelligence.",
+    "url": "https://predictleads.com/companies",
+    "pass": 1
+   },
+   {
+    "quote": "Headcount, location and revenue",
+    "url": "https://predictleads.com/companies",
+    "pass": 1
+   },
+   {
+    "quote": "Get detailed company metrics including headcount data tracked over time, structured location information with city, state, country, and region details, and revenue ranges with precise low and high values. Use this data to segment markets, qualify leads, and make informed business decisions based on company size and financial metrics.",
+    "url": "https://predictleads.com/companies",
+    "pass": 1
+   },
+   {
+    "quote": "Create company profiles with structured location data, revenue ranges, employee counts, NAICS codes, and company descriptions. Access detailed company intelligence to build accurate target lists, segment markets effectively, and make data-driven decisions for sales, marketing, and business development.",
+    "url": "https://predictleads.com/companies",
+    "pass": 1
+   },
+   {
+    "quote": "Monitor website redirects to identify company name changes, mergers, acquisitions, and rebranding activities. Stay informed about company evolution, track organizational changes over time, and maintain accurate records as companies grow, merge, or restructure.",
+    "url": "https://predictleads.com/companies",
+    "pass": 1
+   },
+   {
+    "quote": "Access detailed company data for investment research and due diligence. Get company descriptions translated to English, location information, revenue bands, NAICS codes, and lookalike companies to better understand the landscape of target companies and make informed investment decisions.",
+    "url": "https://predictleads.com/companies",
+    "pass": 1
+   },
+   {
+    "quote": "Single malt, oak taste, two barrel, 10yo or 12yo... When in doubt, ask Marko!",
+    "url": "https://predictleads.com/about_us",
+    "pass": 1
+   },
+   {
+    "quote": "The data contains references to related objects listed in the",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   },
+   {
+    "quote": "\"acquisition_merger\", \"locality\", \"rebranding\", null",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   },
+   {
+    "quote": "objects listed in the",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   },
+   {
+    "quote": "\"ticker\": \"NYSE:COF-PN\"",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   },
+   {
+    "quote": "\"ticker\": \"NASDAQ:EXFY\"",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   },
+   {
+    "quote": "\"ticker\": \"NASDAQ:NAVN\"",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   },
+   {
+    "quote": "\"type\": \"array\",",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   },
+   {
+    "quote": "\"description\": \"The data contains references to related objects listed in the `included` property.\",",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   },
+   {
+    "quote": "\"description\": \"The data contains a reference to related `CompanyLite` object listed in the `included` property.\",",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   },
+   {
+    "quote": "\"acquisition_merger\",",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   },
+   {
+    "quote": "\"description\": \"The data contains references to related `CompanyLite` objects listed in the `included` property.\",",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated revenue range.",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   },
+   {
+    "quote": "\"employees_min\": 11,",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   },
+   {
+    "quote": "\"employees_max\": 50,",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   },
+   {
+    "quote": "\"employees_max\": 50",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   },
+   {
+    "quote": "\"revenue_range\": \"From $10,000,000 to $49,999,999\",",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   },
+   {
+    "quote": "\"revenue_range_data\": {",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   },
+   {
+    "quote": "\"revenue_range_low\": 10000000,",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   },
+   {
+    "quote": "\"revenue_range_high\": 49999999",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   },
+   {
+    "quote": "\"ticker\": \"NYSE:TOST\"",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   },
+   {
+    "quote": "\"employees_min\",",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   },
+   {
+    "quote": "\"employees_max\",",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   },
+   {
+    "quote": "\"revenue_range\",",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   },
+   {
+    "quote": "\"array\",",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   },
+   {
+    "quote": "\"description\": \"Estimated revenue range.\",",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Predictleads Revenue 2018: $360K, $150K Raised",
+    "url": "https://getlatka.com/companies/predictleads",
+    "pass": 3
+   },
+   {
+    "quote": "Predictleads' annual revenue was $360K in July 2018 (source not recorded), the most recent figure on record.",
+    "url": "https://getlatka.com/companies/predictleads",
+    "pass": 3
+   },
+   {
+    "quote": ", level with two others. The list ranks the 1,301 companies Nathan Latka has interviewed by revenue.",
+    "url": "https://getlatka.com/companies/predictleads",
+    "pass": 3
+   },
+   {
+    "quote": "Predictleads competes most directly with ZoomInfo and Lead411. It is the smallest of the three by revenue.",
+    "url": "https://getlatka.com/companies/predictleads",
+    "pass": 3
+   },
+   {
+    "quote": "Predictleads CEO, founders & employees",
+    "url": "https://getlatka.com/companies/predictleads",
+    "pass": 3
+   },
+   {
+    "quote": "Roq Xever founded Predictleads in 2015 and runs it as CEO. Predictleads had 33 employees (October 2024, LinkedIn), up from 28 a year earlier.",
+    "url": "https://getlatka.com/companies/predictleads",
+    "pass": 3
+   },
+   {
+    "quote": "What is Predictleads' revenue?",
+    "url": "https://getlatka.com/companies/predictleads",
+    "pass": 3
+   },
+   {
+    "quote": "Predictleads' annual revenue was",
+    "url": "https://getlatka.com/companies/predictleads",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Predictleads have?",
+    "url": "https://getlatka.com/companies/predictleads",
+    "pass": 3
+   },
+   {
+    "quote": "employees in October 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/predictleads",
+    "pass": 3
+   },
+   {
+    "quote": "The Latka List ranks the private, operating companies Nathan Latka has interviewed by the latest revenue figure on each profile, reported or estimated; equal figures share a rank.",
+    "url": "https://getlatka.com/companies/predictleads",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/predictleads",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/predictleads",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Need more? Contact us!",
+    "url": "https://predictleads.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Bird watching. Spotting a rare bird is like getting a client to answer an email on the first try - miraculous and worthy of celebration.",
+    "url": "https://predictleads.com/about_us",
+    "pass": 1
+   },
+   {
+    "quote": "\"meta_description\": \"We are tipping experts with optimized solutions for Salons & Spas. Groomers. Fitness. Auto Shops. Your Business. Let us find the best tipping solution for you! Enter your email to get started! Yay Tippy! Winners for Best Work Spaces, Best of Fort Lauderdale 2022! Thank you Fort Lauderdale Magazine and\",",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   },
+   {
+    "quote": ", such as email address or Linkedin profile URL.",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   },
+   {
+    "quote": "\"description\": \"Contact info for this `JobOpening`, such as email address or Linkedin profile URL.\",",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   },
+   {
+    "quote": "the reached limit. If you have any further questions regarding the limits, feel free to contact us via",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/226734-94",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Track website redirects to identify company name changes, mergers, acquisitions, and rebranding activities. Stay informed about company evolution and maintain accurate records.",
+    "url": "https://predictleads.com/companies",
+    "pass": 1
+   },
+   {
+    "quote": "Monitor website redirects to identify company name changes, mergers, acquisitions, and rebranding activities. Stay informed about company evolution, track organizational changes over time, and maintain accurate records as companies grow, merge, or restructure.",
+    "url": "https://predictleads.com/companies",
+    "pass": 1
+   },
+   {
+    "quote": "\"acquisition_merger\", \"locality\", \"rebranding\", null",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   },
+   {
+    "quote": "\"rebranding\",",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   },
+   {
+    "quote": ": Company1 is a rebranding of Company2.",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Company1 being a rebranding of Company2 suggests that Company2 has undergone a process to change its brand identity. We detect rebranding based on domain change and similarities between the old and the new website.",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   },
+   {
+    "quote": "airmeet.com. airmeet.com is a rebranding of airmeet.co. TLD changed to higher value .com.",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Change to a shorter domain: lamborghini.com is a rebranding of lamborghini-madrid.com.",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Name change: hausarztpraxis-leinetal.de is a rebranding of praxis-schuenemann.de.",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Company1 being a rebranding of Company2 suggests that Company2 has undergone a process to change",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   },
+   {
+    "quote": "its brand identity. We detect rebranding based on domain change and similarities between the old",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Top-level-domain (TLD) change: airmeet.co -> airmeet.com. airmeet.com is a rebranding of airmeet.co.",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   },
+   {
+    "quote": "\"const\": \"rebranding\",",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "PredictLeads — PredictLeads PredictLeads https://predictleads.com",
+    "url": "https://predictleads.com/",
+    "pass": 3
+   },
+   {
+    "quote": "PredictLeads - LinkedIn — PredictLeads - LinkedIn LinkedIn Slovenia https://si.linkedin.com > predictleads",
+    "url": "https://si.linkedin.com/company/predictleads",
+    "pass": 3
+   },
+   {
+    "quote": "PredictLeads : Best in class company intelligence data. — PredictLeads : Best in class company intelligence data. Y Combinator https://www.ycombinator.com > predi...",
+    "url": "https://www.ycombinator.com/companies/predictleads",
+    "pass": 3
+   },
+   {
+    "quote": "PredictLeads Reviews 2026: Details, Pricing, & Features | G2 — PredictLeads Reviews 2026: Details, Pricing, & Features | G2 G2 https://www.g2.com > reviews",
+    "url": "https://www.g2.com/products/predictleads-predictleads/reviews",
+    "pass": 3
+   },
+   {
+    "quote": "PredictLeads - Features, Reviews, Alternatives | VC Stack — PredictLeads - Features, Reviews, Alternatives | VC Stack VC Stack https://www.vcstack.io > predictleads",
+    "url": "https://www.vcstack.io/product/predictleads",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies | PredictLeads — Case Studies | PredictLeads PredictLeads https://predictleads.com > case_studies",
+    "url": "https://predictleads.com/case_studies",
+    "pass": 3
+   },
+   {
+    "quote": "PredictLeads : Guide | Documentation — PredictLeads : Guide | Documentation PredictLeads https://docs.predictleads.com",
+    "url": "https://docs.predictleads.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Predictleads Revenue 2018: $360K, $150K Raised - GetLatka — Predictleads Revenue 2018: $360K, $150K Raised - GetLatka GetLatka https://getlatka.com > predictleads",
+    "url": "https://getlatka.com/companies/predictleads",
+    "pass": 3
+   },
+   {
+    "quote": "PredictLeads - Valuation, Funding & Investors - PitchBook — PredictLeads - Valuation, Funding & Investors - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/226734-94",
+    "pass": 3
+   },
+   {
+    "quote": "PredictLeads's Competitors, Revenue , Number of Employees ... — PredictLeads's Competitors, Revenue , Number of Employees ... Owler https://www.owler.com > predictleads",
+    "url": "https://www.owler.com/company/predictleads",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "PredictLeads - LinkedIn PredictLeads - LinkedIn LinkedIn Slovenia https://si.linkedin.com > predictleads",
+    "url": "https://si.linkedin.com/company/predictleads",
+    "pass": 3
+   },
+   {
+    "quote": "Roq Xever - Founder at PredictLeads - LinkedIn Roq Xever - Founder at PredictLeads - LinkedIn LinkedIn Slovenia https://si.linkedin.com > rxever",
+    "url": "https://si.linkedin.com/in/rxever",
+    "pass": 3
+   },
+   {
+    "quote": "Luka Ivanovič - Company Intelligence Data @ PredictLeads Luka Ivanovič - Company Intelligence Data @ PredictLeads LinkedIn Slovenia https://si.linkedin.com > lukaivanovich",
+    "url": "https://si.linkedin.com/in/lukaivanovich",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://predictleads.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://predictleads.com/connections",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://predictleads.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://predictleads.com/companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://predictleads.com/news_events",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://predictleads.com/about_us",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://predictleads.com/vite/assets/key_customers_white-BFirhhZV.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://predictleads.com/vite/assets/guillaume_cabane-DicJJbII.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amesha-world.com/info/detail.php?id=4277",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.webcg.net/articles/-/54501",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trafficnews.jp/post/725198",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growth-dx.com/column/agency_dealer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bgent.net/plus/article/7044",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.deex.co.jp/media/8uGKOPAJ",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://si.linkedin.com/company/predictleads",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/predictleads",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.g2.com/products/predictleads-predictleads/reviews",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://c3.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mutuallyhuman.com/predictive-maintenance-with-microsoft-fabric-a-manufacturing-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mastercard.com/europe/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.predictleads.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/predictleads",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/226734-94",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.owler.com/company/predictleads",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://si.linkedin.com/company/predictleads",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://si.linkedin.com/in/rxever",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://si.linkedin.com/in/lukaivanovich",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Predictleads 日本 導入",
+   "results": [
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://amesha-world.com/info/detail.php?id=4277",
+    "https://www.webcg.net/articles/-/54501",
+    "https://trafficnews.jp/post/725198",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://www.stellantis.jp/",
+    "https://www.aba-j.or.jp/info/industry/20087/",
+    "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "https://predictleads.com/",
+    "https://ainiche.net/ja/tools/predictleads"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Predictleads 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://growth-dx.com/column/agency_dealer/",
+    "https://www.bgent.net/plus/article/7044",
+    "https://www.deex.co.jp/media/8uGKOPAJ",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://partnersales.biz/partnersales-general/types-of-partner-agreements-1/",
+    "https://www.rakus.co.jp/rakurakucloud/hanbai/column/2021/0202.php",
+    "https://www.biz.ne.jp/list/corporate-agency/",
+    "https://www.hits-company.co.jp/alliance/column/agency-business/",
+    "https://dairiten-cloud.jp/columns/agency-vs-sales-agent",
+    "https://predictleads.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Predictleads Japan",
+   "results": [
+    "https://predictleads.com/",
+    "https://si.linkedin.com/company/predictleads",
+    "https://www.ycombinator.com/companies/predictleads",
+    "https://www.g2.com/products/predictleads-predictleads/reviews",
+    "https://www.vcstack.io/product/predictleads",
+    "https://docs.predictleads.com/",
+    "https://www.vcstack.com/data-software-tools/predictleads",
+    "https://www.salesforge.ai/de/directory/sales-tools/predictleads",
+    "https://www.reddit.com/r/gtmengineering/comments/1ottzne/is_predict_leads_better_than_built_with_for/",
+    "https://www.linkedin.com/company/predictleads"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Predictleads manufacturing customer case study",
+   "results": [
+    "https://predictleads.com/",
+    "https://c3.ai/customers",
+    "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "https://www.mutuallyhuman.com/predictive-maintenance-with-microsoft-fabric-a-manufacturing-case-study/",
+    "https://predictleads.com/case_studies",
+    "https://www.reddit.com/r/gtmengineering/comments/1ottzne/is_predict_leads_better_than_built_with_for/",
+    "https://manufacturingleadershipcouncil.com/case-study-transforming-through-manufacturing-4-0/",
+    "https://www.comtecinfo.com/case-studies/manufacturing/",
+    "https://repo.uni-hannover.de/bitstreams/e0c5232a-15df-4b1b-879e-8e4613da4503/download",
+    "https://tehsi.com/case_studies"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Predictleads white label OR reseller OR partner program",
+   "results": [
+    "https://predictleads.com/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://www.mastercard.com/europe/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "https://www.youtube.com/watch?v=0j22JYl44z4",
+    "https://www.nuwebgroup.com/blog/entrepreneur/everything-you-need-to-know-about-white-label-reseller-programs",
+    "https://synthflow.ai/blog/white-label-reseller",
+    "https://sales-label.com/blog/white-label-saas-reseller",
+    "https://content.platfio.com/blog/software-reseller-programs-worth-joining-2026",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Predictleads founded funding employees revenue",
+   "results": [
+    "https://docs.predictleads.com/",
+    "https://getlatka.com/companies/predictleads",
+    "https://pitchbook.com/profiles/company/226734-94",
+    "https://www.owler.com/company/predictleads",
+    "https://si.linkedin.com/company/predictleads",
+    "https://tracxn.com/d/companies/predictleads/__IM6QWOtEBgecCarftigJNV2jG8BUCzkX9omD6-mw-MM",
+    "https://www.vcstack.com/data-software-tools/predictleads",
+    "https://www.crunchbase.com/",
+    "https://predictleads.com/blog/discover-companies-by-location-and-size/",
+    "https://compworth.com/company/predictleads"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Predictleads",
+   "results": [
+    "https://note.com/sutudio_summit/n/nf48c44758709?hl=en",
+    "https://note.com/02070701/n/n9c65c29abe9e",
+    "https://note.com/renaitherapy_mo2/n/n260beb0296fc?hl=en",
+    "https://note.com/pinoyama/n/nbbbe0cbb122d?hl=en",
+    "https://note.com/tag/我々は宇宙人",
+    "https://note.com/suzukikenjiro/n/necb9d11cc47d?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/nice_pony7618/n/ne7ca5e10ec57"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:x.com Predictleads",
+   "results": [
+    "https://x.com/MichLieben/status/2118436815799795976",
+    "https://x.com/jianw851/status/2102807682986193261",
+    "https://x.com/MichLieben/status/2117594956483445062",
+    "https://x.com/Seannywilson",
+    "https://x.com/i/article/2100264228947107996",
+    "https://x.com/MichLieben",
+    "https://x.com/i/article/2102820264186970172",
+    "https://x.com/iamsupersocks/status/2116888403270644185",
+    "https://x.com/InstantlyAI",
+    "https://x.com/jasonzhou1993/status/2101925228335317238"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com Predictleads",
+   "results": [
+    "https://si.linkedin.com/company/predictleads",
+    "https://si.linkedin.com/in/robertfon",
+    "https://si.linkedin.com/in/rxever",
+    "https://si.linkedin.com/in/lukaivanovich",
+    "https://br.linkedin.com/in/dayan-setton",
+    "https://www.linkedin.com/pulse/ai-marketing-forecasting-how-predict-leads-sales-revenue-pavan-kumar-htxif",
+    "https://si.linkedin.com/in/julija-bizjak",
+    "https://si.linkedin.com/in/zalagomboc",
+    "https://si.linkedin.com/in/mperice",
+    "https://si.linkedin.com/in/katarina-ferlat"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Predictleads",
+   "results": [
+    "https://www.facebook.com/groups/chatgptpromptsandaitools/posts/1297940055047095/",
+    "https://www.facebook.com/caspercapitaltv/posts/25-ai-tools-for-marketing-growth-in-20251-chatgptcom-rapid-copy-strategy-ideas2-/804057025914769/",
+    "https://www.facebook.com/groups/698593531630485/posts/801185828037921/",
+    "https://www.facebook.com/thearifkamal/posts/tengah-rekod-panduan-ai-automation-untuk-client-tiba-anak-masuk-bilik-tanya-abah/10227948382934086/",
+    "https://www.facebook.com/ulfri/posts/v-torek-2-junija-2026-je-na-ul-fri-potekal-finale-tekmovanja-data-science-projec/1571949711598342/",
+    "https://www.facebook.com/missfaaccountant/posts/ai-boleh-buat-kerja-akaun-tapi-boleh-gantikan-akauntan-ai-memang-hebatboleh-pros/1083261041331533/",
+    "https://www.facebook.com/p/Muhammad-Fraz-100010331131919/",
+    "https://www.facebook.com/firefliesapp/mentions/",
+    "https://www.facebook.com/PredictLeads/",
+    "https://business.facebook.com/groups/osmiumexperience/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Predictleads note 社長",
+   "results": [
+    "https://x.com/sadaaki",
+    "https://note.com/sadaaki",
+    "https://www.youtube.com/watch?v=xPafg3yYObE",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://froggy.smbcnikko.co.jp/66481/",
+    "https://note.com/trex_ai",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Predictleads X 投稿",
+   "results": [
+    "https://predictleads.com/",
+    "https://www.g2.com/products/predictleads-predictleads/reviews",
+    "https://www.reddit.com/r/gtmengineering/comments/1ottzne/is_predict_leads_better_than_built_with_for/",
+    "https://docs.predictleads.com/",
+    "https://www.vcstack.com/data-software-tools/predictleads",
+    "https://devcommunity.x.com/t/video-ad-preview/53193",
+    "https://uravation.com/media/wordpress-x-auto-post-guide-2026/",
+    "https://predictx.com/",
+    "https://predictleads.com/pricing",
+    "https://x.com/predictleads"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式6頁／PDF・画像2件／外部24頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式6頁／PDF・画像2件／外部24頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像2件／外部24頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式6頁／PDF・画像2件／外部24頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式6頁／PDF・画像2件／外部24頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式6頁／PDF・画像2件／外部24頁・検索12回）"
+ }
+}

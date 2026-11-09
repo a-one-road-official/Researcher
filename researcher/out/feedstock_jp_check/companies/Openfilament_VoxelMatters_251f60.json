@@ -1,0 +1,487 @@
+{
+ "name": "Openfilament — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:materials",
+ "researched_at": "2026-11-09T22:43:39.253224+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.voxelmatters.directory/company/openfilament/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Openfilament — VoxelMatters - The largest database of ... — OpenFilament provides enterprise-grade hardware and software solutions designed to break the constraints of closed-ecosystem industrial 3D printers. Rather than selling raw materials, the company focuses entirely on engineering custom EEPROM emulators, secure chip solutions, and software license unlocks that integrate seamlessly into exis",
+    "url": "https://www.voxelmatters.directory/company/openfilament/",
+    "pass": 3
+   },
+   {
+    "quote": "Openfilament — VoxelMatters - The largest database of ... — OpenFilament provides enterprise-grade hardware and software solutions designed to break the constraints of closed-ecosystem industrial 3D printers.",
+    "url": "https://www.voxelmatters.directory/company/openfilament/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookOpenfilament - FacebookVoxelMatters on Reels - FacebookVoxelMatters - 100% recycled 3D printing filament... - FacebookVoxelMatters Early H3C Unboxing - FacebookVoxelMatters - Download the open source antimicrobial mask ...Voxelpla - Facebook Unlock the Future of Metal Additive Manufacturing with VoxelMatters! VoxelMatters Research has kicked off a pre-sale campaign for its u",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://industrial.panasonic.com/jp/s-search/distributors",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.zyltech.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ozax.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/openfilament/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://openfilament.nl/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.msn.com/ja-jp/news/other/jr%E8%A5%BF%E6%97%A5%E6%9C%AC-%E5%BF%98%E3%82%8C%E7%89%A9%E3%81%AE%E3%83%93%E3%83%8B%E3%83%BC%E3%83%AB%E5%82%98%E3%82%92%E5%86%8D%E3%81%B3-%E5%82%98-%E3%81%AB-10%E6%9C%8826%E6%97%A5%E3%81%8B%E3%82%8915%E5%BA%97%E8%88%97%E3%81%A7%E8%B2%A9%E5%A3%B2-%E4%BE%A1%E6%A0%BC%E3%81%AF/ar-AA2g2mgP",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/NOVA3D-%E3%83%98%E3%82%AD%E3%82%BB%E3%83%A9%E3%83%AC%E3%82%B8%E3%83%B3-%E5%85%89%E9%80%A0%E5%BD%A23D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%AC%E3%82%B8%E3%83%B3%E3%80%90%E9%AB%98%E9%9D%AD%E6%80%A7-%E7%A9%B4%E9%96%8B%E3%81%91%E5%8F%AF%E8%83%BD%E3%80%91%E3%82%A2%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%AB%E6%B4%97%E6%B5%84%E5%AF%BE%E5%BF%9C-Photosensitive/dp/B0G48F5PVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E3%82%A8%E3%83%9D%E3%82%AD%E3%82%B7%E6%A8%B9%E8%84%82-2%E6%B6%B2%E6%80%A7%E3%83%AC%E3%82%B8%E3%83%B3%E6%B6%B2-%E5%A4%A7%E5%AE%B9%E9%87%8F4kg-%E3%82%A8%E3%83%9D%E3%82%AD%E3%82%B7%E3%83%AC%E3%82%B8%E3%83%B3-%E3%82%BB%E3%83%AB%E3%83%95%E3%83%AC%E3%83%99%E3%83%AA%E3%83%B3%E3%82%B0/dp/B0FR9JYMVZ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://eternalcollegest.com/books/100yen-resin",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/am-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://openfilament.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/database/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan-partner.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan-partner.com/check-manufacture-year.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chosun.com/english/kpop-culture-en/2026/05/12/NHB453KCCZHA3DMGYWLJ53MKRM/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techtimes.com/articles/326523/20260903/samsung-needed-japanese-partner-build-galaxy-z-fold-8-flex-titanium-it-nearly-didnt-work.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/SNIDEL-%E3%82%B9%E3%83%8A%E3%82%A4%E3%83%87%E3%83%AB-SWNO261060-%E3%83%AA%E3%83%9C%E3%83%B3%E3%83%87%E3%82%A3%E3%83%86%E3%83%BC%E3%83%AB%E3%82%AB%E3%83%BC%E3%83%87%E3%82%BB%E3%83%83%E3%83%88%E3%83%AF%E3%83%B3%E3%83%94%E3%83%BC%E3%82%B9SWNO261060%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B9/dp/B0GC9Z194F",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E3%80%90%E3%82%BB%E3%83%83%E3%83%88%E8%B2%B7%E3%81%84%E3%80%91Amazon-Kindle-Colorsoft%E3%80%90%E8%83%8C%E9%9D%A2%E3%82%AF%E3%83%AA%E3%82%A2-%E3%83%95%E3%82%A1%E3%83%96%E3%83%AA%E3%83%83%E3%82%AF%E3%82%AB%E3%83%90%E3%83%BC-%E4%BF%9D%E8%AD%B7%E3%83%95%E3%82%A3%E3%83%AB%E3%83%A0/dp/B0FX89DRPK",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://relay.amazon.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.monotaro.com/p/1766/2383/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/%E3%83%8B%E3%83%88%E3%83%AA%E3%83%AB%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%96/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/01398396/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://find-and-update.company-information.service.gov.uk/company/10417555",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://open.endole.co.uk/insight/company/10417555-voxelmatters-ltd",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/openfilament/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Openfilament — VoxelMatters 代理店",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Openfilament — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://industrial.panasonic.com/jp/s-search/distributors",
+    "https://www.zyltech.com/",
+    "https://www.ozax.co.jp/",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/",
+    "https://octopart.com/ja",
+    "https://www.indexpro.co.jp/distributor/search-maker"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Openfilament — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.directory/company/openfilament/",
+    "https://openfilament.nl/",
+    "https://www.msn.com/ja-jp/news/other/jr西日本-忘れ物のビニール傘を再び-傘-に-10月26日から15店舗で販売-価格は/ar-AA2g2mgP",
+    "https://open-filament.github.io/",
+    "https://www.hotty.co.jp/3d_service/filament/",
+    "https://www.monotaro.com/s/c-121027/",
+    "https://harubou-room.com/sugiyama-haruo4/",
+    "https://qiita.com/10en_otoko/items/4fbb05fc2523f34a4e37",
+    "https://note.com/suesama/n/n21cd4a578bce"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "Openfilament — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.amazon.co.jp/NOVA3D-ヘキセラレジン-光造形3Dプリンターレジン【高靭性-穴開け可能】アルコール洗浄対応-Photosensitive/dp/B0G48F5PVQ",
+    "https://www.amazon.co.jp/エポキシ樹脂-2液性レジン液-大容量4kg-エポキシレジン-セルフレベリング/dp/B0FR9JYMVZ",
+    "https://eternalcollegest.com/books/100yen-resin",
+    "https://skhonpo.com/",
+    "https://www.creema.jp/blog/934/detail",
+    "https://kinofu.com/uvresin-guide2026/",
+    "https://www.ivoclar.com/ja_jp/products/cementation/variolink-esthetic"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Openfilament — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.com/am-japan/",
+    "https://openfilament.com/",
+    "https://www.voxelmatters.report/database/",
+    "https://openfilament.nl/",
+    "https://github.com/OpenFilamentCollective/open-filament-database",
+    "https://openfilamentdatabase.org/",
+    "https://openfilamentdatabase.org/brands",
+    "https://api.openfilamentdatabase.org/",
+    "https://www.voxelmatters.com/category/industry-2/distribution/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Openfilament — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.japan-partner.com/",
+    "https://www.japan-partner.com/check-manufacture-year.html",
+    "https://www.chosun.com/english/kpop-culture-en/2026/05/12/NHB453KCCZHA3DMGYWLJ53MKRM/",
+    "https://www.techtimes.com/articles/326523/20260903/samsung-needed-japanese-partner-build-galaxy-z-fold-8-flex-titanium-it-nearly-didnt-work.htm",
+    "https://www.kyocera-avx.com/contact-us/authorized/",
+    "https://www.instagram.com/popular/jim-kerr-partner-yumi/",
+    "https://www.zyltech.com/",
+    "https://www.jetro.go.jp/usa/investinjapan/j-bridge.html",
+    "https://japanesedistributors.com/",
+    "https://www.youtube.com/c/Japanpartnerusedcars"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:amazon.co.jp Openfilament — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/SNIDEL-スナイデル-SWNO261060-リボンディテールカーデセットワンピースSWNO261060レディース/dp/B0GC9Z194F",
+    "https://www.amazon.co.jp/【セット買い】Amazon-Kindle-Colorsoft【背面クリア-ファブリックカバー-保護フィルム/dp/B0FX89DRPK",
+    "https://relay.amazon.co.jp/",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://affiliate.amazon.co.jp/",
+    "https://r.amazon.co.jp/",
+    "https://business.amazon.co.jp/ja/login"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Openfilament — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/p/1766/2383/",
+    "https://www.monotaro.com/k/store/ニトリルグローブ/",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/g/01398396/",
+    "https://www.monotaro.com/g/02888691/",
+    "https://www.monotaro.com/g/04184844/",
+    "https://www.monotaro.com/p/3510/6312/",
+    "https://www.monotaro.com/k/store/電動+パレット+リフター/",
+    "https://www.monotaro.com/k/store/耐熱+手袋+薄手/",
+    "https://www.monotaro.com/p/6892/1283/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "Openfilament — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://find-and-update.company-information.service.gov.uk/company/10417555",
+    "https://open.endole.co.uk/insight/company/10417555-voxelmatters-ltd",
+    "https://www.voxelmatters.directory/company/openfilament/",
+    "https://www.voxelmatters.com/analysis/",
+    "https://www.cbinsights.com/company/voxelmatters",
+    "https://open-filament.github.io/",
+    "https://www.gov.ie/en/department-of-social-protection/forms/paternity-benefit-employer-certificate-application-form-pb2/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:note.com Openfilament — VoxelMatters",
+   "results": [
+    "https://note.com/ndkhase/n/n7e22db732506",
+    "https://note.com/nosuke0607/n/n82a576916cc2",
+    "https://note.com/h_child_doc/n/nf5d884105f34",
+    "https://note.com/takubananamoon/n/n7918885c884f",
+    "https://note.com/powerpoint_jp/n/naeca0198ed37",
+    "https://note.com/johnny_sapporo/n/n3151474543ee",
+    "https://note.com/tenorsharejp/n/nd1770e86f43f"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Openfilament — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/VoxelMatters/status/2117922086492508517",
+    "https://x.com/AirtechOfficial",
+    "https://x.com/voxel3d_nl",
+    "https://x.com/verdant_gel/status/2118006946821177355",
+    "https://x.com/pocket_js/status/2113585737027514714",
+    "https://x.com/mattvanswol/status/2114759734683111598",
+    "https://help.x.com/zh-tw/using-x",
+    "https://x.com/WhiteHouse/status/2117601073124778410",
+    "https://x.com/PopBase/status/2116494180054909027"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:linkedin.com Openfilament — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://www.linkedin.com/pub/dir/davide/sher",
+    "https://www.linkedin.com/posts/voxelmatters_the-future-is-more-colorful-than-ever-activity-7464698465177034752-ocuI",
+    "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a",
+    "https://www.linkedin.com/posts/activity-7500583397208092672-tP5p",
+    "https://www.linkedin.com/posts/voxelmatters_additivemanufacturing-3dprinting-sustainability-activity-7445029949302022144-MaPn",
+    "https://www.linkedin.com/posts/voxelmatters_essentium-opens-physical-filament-store-in-activity-7100823819627487233-7rPW",
+    "https://uk.linkedin.com/in/federico-sher",
+    "https://www.linkedin.com/newsletters/davide-sher-x-voxelmatters-7054019469488046080",
+    "https://www.linkedin.com/posts/voxelmatters_additivemanufacturing-3dprinting-fdm-activity-7500583397208092672-Q55W"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:facebook.com Openfilament — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/openfilament/",
+    "https://www.facebook.com/VoxelMatters/videos/2155326438344264/",
+    "https://www.facebook.com/VoxelMatters/posts/100-recycled-3d-printing-filament-developed-by-canon-from-broken-and-old-devices/1681298748708910/",
+    "https://www.facebook.com/groups/h3cgroup/posts/1189777390376319/",
+    "https://www.facebook.com/VoxelMatters/posts/download-the-open-source-antimicrobial-mask-3d-printable-model-hereby-copper3d-i/1457843997721054/",
+    "https://www.facebook.com/realvoxelpla/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Openfilament — VoxelMatters note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.directory/company/openfilament/",
+    "https://openfilament.nl/",
+    "https://note.com/humour_note/n/n5855b88d8286",
+    "https://note.com/hunter_5160/n/n0888a03e2abe",
+    "https://openfilament.com/faq/",
+    "https://www.linkedin.com/pub/dir/davide/sher",
+    "https://www.voxelmatters.com/about/",
+    "https://openfilament.com/about-us/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "Openfilament — VoxelMatters X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）"
+ }
+}

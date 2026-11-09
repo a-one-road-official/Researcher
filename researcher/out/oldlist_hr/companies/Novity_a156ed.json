@@ -1,0 +1,1722 @@
+{
+ "name": "Novity",
+ "aliases": [],
+ "context": "旧営業リスト｜Education / Childcare｜AI送信済み",
+ "researched_at": "2026-11-09T23:15:23.377764+00:00",
+ "official_url": "https://novity.us/",
+ "identified_by": "given",
+ "profile": {
+  "連絡先": [
+   {
+    "label": "Email",
+    "value": "chiyoda_pr@chiyodacorp.com",
+    "url": "https://novity.us/novity-announces-chiyoda-partnership/",
+    "pass": 1
+   },
+   {
+    "label": "Email",
+    "value": "chiyoda_pr@chiyodacorp.com",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000175920.html",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2022年",
+    "url": "https://www.chiyodacorp.com/jp/media/2026/post_20241037.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：1948年01月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000175920.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2022年",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000175920.html",
+    "pass": 3
+   },
+   {
+    "label": "Founded",
+    "value": "Founded：June 2022",
+    "url": "https://www.metawater.co.jp/eng/news/2024/02/metawater-has-made-a-minority-investment-in-novity-inc.html",
+    "pass": 3
+   },
+   {
+    "label": "Established",
+    "value": "Established：2022",
+    "url": "https://www.chiyodacorp.com/en/media/2026/post_20241014.html",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "San Francisco, California, United States",
+    "url": "https://www.chiyodacorp.com/jp/media/2026/post_20241037.html",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "神奈川県横浜市西区みなとみらい四丁目 6番2号\nみなとみらいグランドセントラルタワー",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000175920.html",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "San Francisco, California, United States",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000175920.html",
+    "pass": 3
+   },
+   {
+    "label": "Headquarters",
+    "value": "San Francisco, CA, United States",
+    "url": "https://www.chiyodacorp.com/en/media/2026/post_20241014.html",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "6. Seed Round",
+    "value": "20-May-2026 $1M   Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/538911-19",
+    "pass": 3
+   },
+   {
+    "label": "3. Seed Round",
+    "value": "21-Feb-2024    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/538911-19",
+    "pass": 3
+   },
+   {
+    "label": "2. Seed Round",
+    "value": "$1M $1M  Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/538911-19",
+    "pass": 3
+   },
+   {
+    "label": "Seed-2",
+    "value": "",
+    "url": "https://pitchbook.com/profiles/company/538911-19",
+    "pass": 3
+   },
+   {
+    "label": "Seed",
+    "value": "2,463,782 $0.000100 8% $2.03 $2.03 1x $2.03 20.38%",
+    "url": "https://pitchbook.com/profiles/company/538911-19",
+    "pass": 3
+   },
+   {
+    "label": "Pre-Seed",
+    "value": "2,466,699 $0.000100 8% $0.41 $0.41 1x $0.41 20.4%",
+    "url": "https://pitchbook.com/profiles/company/538911-19",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "How TruPrognostics AI Works",
+    "url": "https://novity.us/",
+    "pass": 1
+   },
+   {
+    "quote": "Reciprocating Compressors",
+    "url": "https://novity.us/",
+    "pass": 1
+   },
+   {
+    "quote": "Centrifugal Compressors",
+    "url": "https://novity.us/",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive Maintenance AI for Process Industries | Novity",
+    "url": "https://novity.us/",
+    "pass": 1
+   },
+   {
+    "quote": "Validated in production with U.S. energy supermajors.",
+    "url": "https://novity.us/",
+    "pass": 1
+   },
+   {
+    "quote": "TruPrognostics AI delivers a fault diagnosis, multiple likely root cause hypotheses, a recommended next step, and a remaining useful life forecast where the fault mode and data support it. Every output is documented per fault mode and data tier so engineers know what to expect before they trust it.",
+    "url": "https://novity.us/",
+    "pass": 1
+   },
+   {
+    "quote": "Most tools detect. Novity truly predicts.",
+    "url": "https://novity.us/",
+    "pass": 1
+   },
+   {
+    "quote": "TruPrognostics gives you a probabilistic time-to-failure window for every critical machine. Your team schedules around it instead of scrambling.",
+    "url": "https://novity.us/",
+    "pass": 1
+   },
+   {
+    "quote": "The reasoning space is constrained to your OEM manuals, customer SOPs, and prior work history. The system cannot hallucinate.",
+    "url": "https://novity.us/",
+    "pass": 1
+   },
+   {
+    "quote": "Validated in production.",
+    "url": "https://novity.us/",
+    "pass": 1
+   },
+   {
+    "quote": "Detects over 90% of faults across validated fault modes — with a low false alarm rate. Performance validated in production against customer-confirmed concurrent events. Multiple operators, multiple sites.",
+    "url": "https://novity.us/",
+    "pass": 1
+   },
+   {
+    "quote": "40+ days of lead time on a critical compressor at a U.S. energy supermajor.",
+    "url": "https://novity.us/",
+    "pass": 1
+   },
+   {
+    "quote": "TruPrognostics AI flagged a developing fault on an Ariel reciprocating compressor 40+ days before the customer's existing monitoring would have caught it. The fault was confirmed at the next inspection. The maintenance team scheduled the work. No emergency callout, no production loss.",
+    "url": "https://novity.us/",
+    "pass": 1
+   },
+   {
+    "quote": "Start at Base with data already in your historian. Add sensors per machine to unlock Plus or Premium. No new software, no redeployment.",
+    "url": "https://novity.us/",
+    "pass": 1
+   },
+   {
+    "quote": "PI / time-series data from your historian. Process-domain diagnostics and prognostics. Detects efficiency loss, compression changes, and some bearing conditions.",
+    "url": "https://novity.us/",
+    "pass": 1
+   },
+   {
+    "quote": "Base data plus one high-frequency vibration sensor. Precise mechanical and bearing diagnostics. Valve leakage and oil whip detection.",
+    "url": "https://novity.us/",
+    "pass": 1
+   },
+   {
+    "quote": "Multiple high-frequency sensors and modalities. Maximum diagnostic precision: individual valve identification, crosshead wear, rider band wear.",
+    "url": "https://novity.us/",
+    "pass": 1
+   },
+   {
+    "quote": "Built for the rotating and process equipment that runs your plant.",
+    "url": "https://novity.us/",
+    "pass": 1
+   },
+   {
+    "quote": "Performance and fouling, from process data alone.",
+    "url": "https://novity.us/",
+    "pass": 1
+   },
+   {
+    "quote": "TruPrognostics AI also covers turbines, gearboxes, generators, and more rotating and process equipment. Talk to us about your assets.",
+    "url": "https://novity.us/",
+    "pass": 1
+   },
+   {
+    "quote": "The fastest way to evaluate TruPrognostics AI is on your own historian data. We can scope a proof of value in a 30-minute conversation.",
+    "url": "https://novity.us/",
+    "pass": 1
+   },
+   {
+    "quote": "Compressor Reliability Intelligence",
+    "url": "https://novity.us/",
+    "pass": 1
+   },
+   {
+    "quote": "What Does Effective Reciprocating Compressor Monitoring Actually Require?",
+    "url": "https://novity.us/",
+    "pass": 1
+   },
+   {
+    "quote": "How TruPrognostics AI Works",
+    "url": "https://novity.us/novity-announces-chiyoda-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Reciprocating Compressors",
+    "url": "https://novity.us/novity-announces-chiyoda-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Centrifugal Compressors",
+    "url": "https://novity.us/novity-announces-chiyoda-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Novity Enters Into a Strategic Partnership with Chiyoda Corporation to Deploy an Integrated Solution in Japan, the Middle East and North America by Combining Novity’s TruPrognostics",
+    "url": "https://novity.us/novity-announces-chiyoda-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "(Chiyoda) to jointly deploy an integrated solution combining Novity’s truly predictive maintenance AI platform ‘TruPrognostics™ AI’ with Chiyoda’s Operations & Maintenance (O&M) total solution platform ‘plantOS™",
+    "url": "https://novity.us/novity-announces-chiyoda-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Novity and Chiyoda will jointly promote the integrated solution in Japan, the Middle East, and North America, aiming to deliver data‑driven maintenance optimization, operational stability and enhanced equipment reliability.",
+    "url": "https://novity.us/novity-announces-chiyoda-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "This partnership will deliver an advanced O&M solution integrating prognostics, diagnostics, anomaly detection, O&M recommendations and operational optimization. The objectives of the partnership are to:",
+    "url": "https://novity.us/novity-announces-chiyoda-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Contribute to improved equipment operational efficiency, reduced downtime, optimized maintenance costs and greater operational safety for customers.",
+    "url": "https://novity.us/novity-announces-chiyoda-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Chiyoda and Novity plan to jointly establish a complete roadmap, from Proof of Concept (PoC) through to commercial deployment, focusing primarily on LNG facilities, refineries, chemical plants, power plants and infrastructure facilities.",
+    "url": "https://novity.us/novity-announces-chiyoda-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "What Sets TruPrognostics Apart",
+    "url": "https://novity.us/novity-announces-chiyoda-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Conventional predictive maintenance tools alert operators to anomalies but cannot answer when failure will occur. The integrated plantOS + TruPrognostics AI solution closes this gap and provides:",
+    "url": "https://novity.us/novity-announces-chiyoda-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlike data-driven tools that require extensive run-to-failure training data, TruPrognostics AI combines physics-based models with machine learning to achieve 90%+ accuracy even with limited historical data.",
+    "url": "https://novity.us/novity-announces-chiyoda-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "TruPrognostics AI is embedded directly into plantOS™, connecting Remaining Useful Life (RUL) predictions to maintenance planning and operations in a single integrated workflow.",
+    "url": "https://novity.us/novity-announces-chiyoda-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Chiyoda Corporation (Chiyoda), headquartered in Yokohama, Japan, is a global engineering and construction company established in 1948. Chiyoda provides integrated services across the project lifecycle, including engineering, procurement, and construction (EPC), serving industries such as energy, chemicals, and infrastructure.",
+    "url": "https://novity.us/novity-announces-chiyoda-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Press Contact for Novity",
+    "url": "https://novity.us/novity-announces-chiyoda-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Press Contact for Chiyoda Corporation",
+    "url": "https://novity.us/novity-announces-chiyoda-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "PR & Sustainability Advanced Section",
+    "url": "https://novity.us/novity-announces-chiyoda-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Email: chiyoda_pr@chiyodacorp.com",
+    "url": "https://novity.us/novity-announces-chiyoda-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "How TruPrognostics AI Works",
+    "url": "https://novity.us/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Reciprocating Compressors",
+    "url": "https://novity.us/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Centrifugal Compressors",
+    "url": "https://novity.us/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive Maintenance for the Process Industry",
+    "url": "https://novity.us/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Novity® was built from the ground up with process industry needs in mind.",
+    "url": "https://novity.us/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Novity provides truly predictive asset health for Oil & Gas operators. Whether you need accurate prognostics for compressors, pumps, motors or other asset types we have you covered. Contact us to reap the benefits of increased productivity, and radically improved environmental and safety performance.",
+    "url": "https://novity.us/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Spun out from an operator of several chemical plants, we understand first-hand the economic and safety impact unplanned downtime can have. We built Novity to prevent unplanned downtime for our business and yours.",
+    "url": "https://novity.us/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "How TruPrognostics AI Works",
+    "url": "https://novity.us/about-novity/",
+    "pass": 1
+   },
+   {
+    "quote": "Reciprocating Compressors",
+    "url": "https://novity.us/about-novity/",
+    "pass": 1
+   },
+   {
+    "quote": "Centrifugal Compressors",
+    "url": "https://novity.us/about-novity/",
+    "pass": 1
+   },
+   {
+    "quote": "Novity® uses software and AI to provide manufacturers with the most accurate failure predictions for their critical equipment, ensuring that unplanned downtime becomes a thing of the past. Read on to learn more about Novity.",
+    "url": "https://novity.us/about-novity/",
+    "pass": 1
+   },
+   {
+    "quote": "Our approach to problem solving was developed at the iconic",
+    "url": "https://novity.us/about-novity/",
+    "pass": 1
+   },
+   {
+    "quote": "Patents related to predictive maintenance",
+    "url": "https://novity.us/about-novity/",
+    "pass": 1
+   },
+   {
+    "quote": "（本社：米国カリフォルニア州、CEO：Markus Larsson、以下「ノヴィティ社」）と、同社のAI予兆診断プラットフォーム「TruPrognostics™ AI」と当社のO&M（運転・保守） トータルソリューションプラットフォーム「plantOS",
+    "url": "https://www.chiyodacorp.com/jp/media/2026/post_20241037.html",
+    "pass": 3
+   },
+   {
+    "quote": "こうした課題に対し、設備挙動を高精度に予測するノヴィティ社のAI予兆診断技術「TruPrognostics™ AI」 と当社の「plantOS",
+    "url": "https://www.chiyodacorp.com/jp/media/2026/post_20241037.html",
+    "pass": 3
+   },
+   {
+    "quote": "■TruPrognostics™ AIの特長",
+    "url": "https://www.chiyodacorp.com/jp/media/2026/post_20241037.html",
+    "pass": 3
+   },
+   {
+    "quote": "とTruPrognostics™ AIを統合したソリューションは、この課題を解決します",
+    "url": "https://www.chiyodacorp.com/jp/media/2026/post_20241037.html",
+    "pass": 3
+   },
+   {
+    "quote": "TruPrognostics™ AIは、故障に至るまでの膨大な学習データを必要とする従来のデータ駆動型ツールとは異なり、物理ベースモデルと機械学習を組み合わせることで、限られた履歴データ環境下でも90％以上の高い予測精度を実現します",
+    "url": "https://www.chiyodacorp.com/jp/media/2026/post_20241037.html",
+    "pass": 3
+   },
+   {
+    "quote": "TruPrognostics™ AIをplantOS",
+    "url": "https://www.chiyodacorp.com/jp/media/2026/post_20241037.html",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Industrial Fans and Blowers",
+    "url": "https://novity.us/",
+    "pass": 1
+   },
+   {
+    "quote": "Detects over 90% of faults across validated fault modes — with a low false alarm rate. Performance validated in production against customer-confirmed concurrent events. Multiple operators, multiple sites.",
+    "url": "https://novity.us/",
+    "pass": 1
+   },
+   {
+    "quote": "Built for the rotating and process equipment that runs your plant.",
+    "url": "https://novity.us/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Fans & Blowers",
+    "url": "https://novity.us/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Fans and Blowers",
+    "url": "https://novity.us/novity-announces-chiyoda-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "AI with Chiyoda’s plantOS™ Solution",
+    "url": "https://novity.us/novity-announces-chiyoda-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "(Chiyoda) to jointly deploy an integrated solution combining Novity’s truly predictive maintenance AI platform ‘TruPrognostics™ AI’ with Chiyoda’s Operations & Maintenance (O&M) total solution platform ‘plantOS™",
+    "url": "https://novity.us/novity-announces-chiyoda-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Partnership Addresses Uncertainties Facing the Industrial Sector",
+    "url": "https://novity.us/novity-announces-chiyoda-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "For operators managing aging infrastructure and shrinking maintenance teams, this new integrated solution means fewer emergency callouts, maintenance windows scheduled around actual equipment condition rather than fixed intervals, and institutional knowledge that doesn’t walk out the door when an experienced engineer retires.",
+    "url": "https://novity.us/novity-announces-chiyoda-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Chiyoda and Novity plan to jointly establish a complete roadmap, from Proof of Concept (PoC) through to commercial deployment, focusing primarily on LNG facilities, refineries, chemical plants, power plants and infrastructure facilities.",
+    "url": "https://novity.us/novity-announces-chiyoda-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Conventional predictive maintenance tools alert operators to anomalies but cannot answer when failure will occur. The integrated plantOS + TruPrognostics AI solution closes this gap and provides:",
+    "url": "https://novity.us/novity-announces-chiyoda-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "End-to-End O&M Integration via plantOS:",
+    "url": "https://novity.us/novity-announces-chiyoda-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "TruPrognostics AI is embedded directly into plantOS™, connecting Remaining Useful Life (RUL) predictions to maintenance planning and operations in a single integrated workflow.",
+    "url": "https://novity.us/novity-announces-chiyoda-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Building on its extensive EPC experience and global expertise, Chiyoda delivers solutions for plant operation and maintenance with plantOS™ platform, ensuring efficient and reliable performance to clients worldwide.",
+    "url": "https://novity.us/novity-announces-chiyoda-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Fans and Blowers",
+    "url": "https://novity.us/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Novity provides truly predictive asset health for Oil & Gas operators. Whether you need accurate prognostics for compressors, pumps, motors or other asset types we have you covered. Contact us to reap the benefits of increased productivity, and radically improved environmental and safety performance.",
+    "url": "https://novity.us/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Spun out from an operator of several chemical plants, we understand first-hand the economic and safety impact unplanned downtime can have. We built Novity to prevent unplanned downtime for our business and yours.",
+    "url": "https://novity.us/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Fans and Blowers",
+    "url": "https://novity.us/about-novity/",
+    "pass": 1
+   },
+   {
+    "quote": "Novity® uses software and AI to provide manufacturers with the most accurate failure predictions for their critical equipment, ensuring that unplanned downtime becomes a thing of the past. Read on to learn more about Novity.",
+    "url": "https://novity.us/about-novity/",
+    "pass": 1
+   },
+   {
+    "quote": "Novityとの戦略的パートナーシップにより AI予兆診断×plantOS®の統合ソリューションを日本・中東・北米で共同展開 | 千代田化工建設株式会社 - プラント・エンジニアリング",
+    "url": "https://www.chiyodacorp.com/jp/media/2026/post_20241037.html",
+    "pass": 3
+   },
+   {
+    "quote": "Novityとの戦略的パートナーシップにより AI予兆診断×plantOS®の統合ソリューションを日本・中東・北米で共同展開",
+    "url": "https://www.chiyodacorp.com/jp/media/2026/post_20241037.html",
+    "pass": 3
+   },
+   {
+    "quote": "（本社：米国カリフォルニア州、CEO：Markus Larsson、以下「ノヴィティ社」）と、同社のAI予兆診断プラットフォーム「TruPrognostics™ AI」と当社のO&M（運転・保守） トータルソリューションプラットフォーム「plantOS",
+    "url": "https://www.chiyodacorp.com/jp/media/2026/post_20241037.html",
+    "pass": 3
+   },
+   {
+    "quote": "「社会の\"かなえたい\"を共創（エンジニアリング）する」という当社パーパスのもと、ノヴィティ社との協業を共創の一環として推進し、plantOS",
+    "url": "https://www.chiyodacorp.com/jp/media/2026/post_20241037.html",
+    "pass": 3
+   },
+   {
+    "quote": "こうした課題に対し、設備挙動を高精度に予測するノヴィティ社のAI予兆診断技術「TruPrognostics™ AI」 と当社の「plantOS",
+    "url": "https://www.chiyodacorp.com/jp/media/2026/post_20241037.html",
+    "pass": 3
+   },
+   {
+    "quote": "TruPrognostics™ AIをplantOS",
+    "url": "https://www.chiyodacorp.com/jp/media/2026/post_20241037.html",
+    "pass": 3
+   },
+   {
+    "quote": "Novityとの戦略的パートナーシップによりAI予兆診断×plantOS®の統合ソリューションを日本・中東・北米で共同展開 | 千代田化工建設株式会社のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000175920.html",
+    "pass": 3
+   },
+   {
+    "quote": "Novityとの戦略的パートナーシップによりAI予兆診断×plantOS®の統合ソリューション�を日本・中東・北米で共同展開",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000175920.html",
+    "pass": 3
+   },
+   {
+    "quote": "（本社：米国カリフォルニア州、CEO：Markus Larsson、以下「ノヴィティ社」）と、同社のAI予兆診断プラットフォーム「TruPrognostics™AI」と当社のO&M（運転・保守）トータルソリューションプラットフォーム「plantOS®(*1)」を統合したソリューションの市場展開に関する戦略的パートナーシップ契約（以下、「本パートナーシップ」）を締結いたしました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000175920.html",
+    "pass": 3
+   },
+   {
+    "quote": "「社会の“かなえたい”を共創（エンジニアリング）する」という当社パーパスのもと、ノヴィティ社との協業を共創の一環として推進し、plantOS®の提供を通じてお客様のビジネス・セーフティ(*2)を高め、持続可能なビジネスと社会の実現に貢献してまいります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000175920.html",
+    "pass": 3
+   },
+   {
+    "quote": "(*1)「plantOS®」は、千代田化工建設株式会社の登録商標です",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000175920.html",
+    "pass": 3
+   },
+   {
+    "quote": "こうした課題に対し、設備挙動を高精度に予測するノヴィティ社のAI予兆診断技術「TruPrognostics™ AI」と当社の「plantOS®」を組み合わせることで、残存耐用年数（Remaining Useful Life：RUL）の予測、精緻な機器診断、実行可能な保全および運転に関する提言など、従来にない包括的なO&Mソリューションを提供します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000175920.html",
+    "pass": 3
+   },
+   {
+    "quote": "plantOS®とTruPrognostics™ AIを統合したソリューションは、この課題を解決します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000175920.html",
+    "pass": 3
+   },
+   {
+    "quote": "plantOS®を介した一連のO&M業務の統合",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000175920.html",
+    "pass": 3
+   },
+   {
+    "quote": "TruPrognostics™ AIをplantOS®に組み込むことで、残存耐用年数予測を保全計画および運用業務とシームレスに連携させ、単一の統合ワークフローとして提供します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000175920.html",
+    "pass": 3
+   },
+   {
+    "quote": ", a world-leading research and development company based in the US. Novity is a startup engaged in the development and sale of systems providing predictive assessments concerning the soundness of machinery and equipment at plants using the company's own unique technologies, which involve a combination of AI-based machine learning and physical modeling.",
+    "url": "https://www.metawater.co.jp/eng/news/2024/02/metawater-has-made-a-minority-investment-in-novity-inc.html",
+    "pass": 3
+   },
+   {
+    "quote": "963-I Industrial Road San Carlos, California 94070",
+    "url": "https://www.metawater.co.jp/eng/news/2024/02/metawater-has-made-a-minority-investment-in-novity-inc.html",
+    "pass": 3
+   },
+   {
+    "quote": "Strategic Partnership with Novity to jointly deploy an integrated solution in Japan, the Middle East and North America by combining Novity's TruPrognostics™ AI with Chiyoda's plantOS™ Solution ｜News | CHIYODA CORPORATION",
+    "url": "https://www.chiyodacorp.com/en/media/2026/post_20241014.html",
+    "pass": 3
+   },
+   {
+    "quote": "Strategic Partnership with Novity to jointly deploy an integrated solution in Japan, the Middle East and North America by combining Novity's TruPrognostics™ AI with Chiyoda's plantOS™ Solution",
+    "url": "https://www.chiyodacorp.com/en/media/2026/post_20241014.html",
+    "pass": 3
+   },
+   {
+    "quote": "(Novity) to jointly deploy an integrated solution combining Novity's truly predictive maintenance AI platform 'TruPrognostics™ AI' with Chiyoda's Operations & Maintenance (O&M) total solution platform 'plantOS™",
+    "url": "https://www.chiyodacorp.com/en/media/2026/post_20241014.html",
+    "pass": 3
+   },
+   {
+    "quote": "Chiyoda and Novity plan to jointly establish a complete roadmap, from Proof of Concept (PoC) through to commercial deployment, focusing primarily on LNG facilities, refineries, chemical plants, power plants and infrastructure facilities.",
+    "url": "https://www.chiyodacorp.com/en/media/2026/post_20241014.html",
+    "pass": 3
+   },
+   {
+    "quote": "Conventional predictive maintenance tools alert operators to anomalies but cannot answer when failure will occur. The integrated plantOS™ + TruPrognostics™ AI solution closes this gap.",
+    "url": "https://www.chiyodacorp.com/en/media/2026/post_20241014.html",
+    "pass": 3
+   },
+   {
+    "quote": "・ End-to-End O&M Integration via plantOS™:",
+    "url": "https://www.chiyodacorp.com/en/media/2026/post_20241014.html",
+    "pass": 3
+   },
+   {
+    "quote": "TruPrognostics™ AI is embedded directly into plantOS™, connecting RUL predictions to maintenance planning and operations in a single integrated workflow.",
+    "url": "https://www.chiyodacorp.com/en/media/2026/post_20241014.html",
+    "pass": 3
+   },
+   {
+    "quote": "Mr. Toru Yoneyama Technical Authority - Industrial DX, Chiyoda said:",
+    "url": "https://www.chiyodacorp.com/en/media/2026/post_20241014.html",
+    "pass": 3
+   },
+   {
+    "quote": "Chiyoda Corporation trademark. It is an integrated operation and maintenance solution that combines on-site physical support with advanced analysis services and cutting-edge digital technologies such as IoT, cloud computing and AI. By integrating these capabilities, plantOS™ supports operation and maintenance activities across a wide range of industrial facilities and plants.",
+    "url": "https://www.chiyodacorp.com/en/media/2026/post_20241014.html",
+    "pass": 3
+   },
+   {
+    "quote": "Novity Enters Into a Strategic Partnership with Chiyoda Corporation to Deploy an Integrated Solution in Japan, the Middle East and North America by Combining Novity's TruPrognostics™ AI with Chiyoda's plantOS™ Solution",
+    "url": "https://www.prnewswire.com/news-releases/novity-enters-into-a-strategic-partnership-with-chiyoda-corporation-to-deploy-an-integrated-solution-in-japan-the-middle-east-and-north-america-by-combining-novitys-truprognostics-ai-with-chiyodas-plantos-solution-302777982.html",
+    "pass": 3
+   },
+   {
+    "quote": "(Chiyoda) to jointly deploy an integrated solution combining Novity's truly predictive maintenance AI platform 'TruPrognostics™ AI' with Chiyoda's Operations & Maintenance (O&M) total solution platform 'plantOS™",
+    "url": "https://www.prnewswire.com/news-releases/novity-enters-into-a-strategic-partnership-with-chiyoda-corporation-to-deploy-an-integrated-solution-in-japan-the-middle-east-and-north-america-by-combining-novitys-truprognostics-ai-with-chiyodas-plantos-solution-302777982.html",
+    "pass": 3
+   },
+   {
+    "quote": "Partnership Addresses Uncertainties Facing the Industrial Sector",
+    "url": "https://www.prnewswire.com/news-releases/novity-enters-into-a-strategic-partnership-with-chiyoda-corporation-to-deploy-an-integrated-solution-in-japan-the-middle-east-and-north-america-by-combining-novitys-truprognostics-ai-with-chiyodas-plantos-solution-302777982.html",
+    "pass": 3
+   },
+   {
+    "quote": "For operators managing aging infrastructure and shrinking maintenance teams, this new integrated solution means fewer emergency callouts, maintenance windows scheduled around actual equipment condition rather than fixed intervals, and institutional knowledge that doesn't walk out the door when an experienced engineer retires.",
+    "url": "https://www.prnewswire.com/news-releases/novity-enters-into-a-strategic-partnership-with-chiyoda-corporation-to-deploy-an-integrated-solution-in-japan-the-middle-east-and-north-america-by-combining-novitys-truprognostics-ai-with-chiyodas-plantos-solution-302777982.html",
+    "pass": 3
+   },
+   {
+    "quote": "Chiyoda and Novity plan to jointly establish a complete roadmap, from Proof of Concept (PoC) through to commercial deployment, focusing primarily on LNG facilities, refineries, chemical plants, power plants and infrastructure facilities.",
+    "url": "https://www.prnewswire.com/news-releases/novity-enters-into-a-strategic-partnership-with-chiyoda-corporation-to-deploy-an-integrated-solution-in-japan-the-middle-east-and-north-america-by-combining-novitys-truprognostics-ai-with-chiyodas-plantos-solution-302777982.html",
+    "pass": 3
+   },
+   {
+    "quote": "Conventional predictive maintenance tools alert operators to anomalies but cannot answer when failure will occur. The integrated plantOS + TruPrognostics AI solution closes this gap and provides:",
+    "url": "https://www.prnewswire.com/news-releases/novity-enters-into-a-strategic-partnership-with-chiyoda-corporation-to-deploy-an-integrated-solution-in-japan-the-middle-east-and-north-america-by-combining-novitys-truprognostics-ai-with-chiyodas-plantos-solution-302777982.html",
+    "pass": 3
+   },
+   {
+    "quote": "End-to-End O&M Integration via plantOS:",
+    "url": "https://www.prnewswire.com/news-releases/novity-enters-into-a-strategic-partnership-with-chiyoda-corporation-to-deploy-an-integrated-solution-in-japan-the-middle-east-and-north-america-by-combining-novitys-truprognostics-ai-with-chiyodas-plantos-solution-302777982.html",
+    "pass": 3
+   },
+   {
+    "quote": "TruPrognostics AI is embedded directly into plantOS™, connecting Remaining Useful Life (RUL) predictions to maintenance planning and operations in a single integrated workflow.",
+    "url": "https://www.prnewswire.com/news-releases/novity-enters-into-a-strategic-partnership-with-chiyoda-corporation-to-deploy-an-integrated-solution-in-japan-the-middle-east-and-north-america-by-combining-novitys-truprognostics-ai-with-chiyodas-plantos-solution-302777982.html",
+    "pass": 3
+   },
+   {
+    "quote": "Building on its extensive EPC experience and global expertise, Chiyoda delivers solutions for plant operation and maintenance with plantOS™ platform, ensuring efficient and reliable performance to clients worldwide.",
+    "url": "https://www.prnewswire.com/news-releases/novity-enters-into-a-strategic-partnership-with-chiyoda-corporation-to-deploy-an-integrated-solution-in-japan-the-middle-east-and-north-america-by-combining-novitys-truprognostics-ai-with-chiyodas-plantos-solution-302777982.html",
+    "pass": 3
+   },
+   {
+    "quote": "Ultimate Creative Communications Case Study: Novity – Novity - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/ultimate-creative-communications/case-study/novity-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Novity - Customer Case Study",
+    "url": "https://www.casestudies.com/company/ultimate-creative-communications/case-study/novity-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Novity used Ultimate Creative Communications",
+    "url": "https://www.casestudies.com/company/ultimate-creative-communications/case-study/novity-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/ultimate-creative-communications/case-study/novity-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/ultimate-creative-communications/case-study/novity-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing & Supply Chain",
+    "url": "https://avahi.ai/case-study/novity-turns-fault-diagnoses-into-actionable-maintenance-plans-with-al-on-aws/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "The reasoning space is constrained to your OEM manuals, customer SOPs, and prior work history. The system cannot hallucinate.",
+    "url": "https://novity.us/",
+    "pass": 1
+   },
+   {
+    "quote": "Avahi also brought experience designing semantic search over technical sources like OEM manuals and procedures, ensuring recommendations were grounded in relevant documentation and aligned to how maintenance teams work day to day.",
+    "url": "https://avahi.ai/case-study/novity-turns-fault-diagnoses-into-actionable-maintenance-plans-with-al-on-aws/",
+    "pass": 3
+   },
+   {
+    "quote": "Avahi implemented an Al-powered maintenance recommendation workflow that starts with Novity’s diagnostic fault data and converts it into natural language context the system can reason over. The workflow then retrieves supporting guidance from a semantic knowledge base built from OEM manuals, maintenance procedures, and historical maintenance records.",
+    "url": "https://avahi.ai/case-study/novity-turns-fault-diagnoses-into-actionable-maintenance-plans-with-al-on-aws/",
+    "pass": 3
+   },
+   {
+    "quote": "Semantic knowledge base built from OEM manuals, procedures, and historical records",
+    "url": "https://avahi.ai/case-study/novity-turns-fault-diagnoses-into-actionable-maintenance-plans-with-al-on-aws/",
+    "pass": 3
+   },
+   {
+    "quote": "Knowledge base coverage: processes up to 20 OEM manuals",
+    "url": "https://avahi.ai/case-study/novity-turns-fault-diagnoses-into-actionable-maintenance-plans-with-al-on-aws/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Novity Enters Into a Strategic Partnership with Chiyoda Corporation to Deploy an Integrated Solution in Japan, the Middle East and North America by Combining Novity’s TruPrognostics",
+    "url": "https://novity.us/novity-announces-chiyoda-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Novity and Chiyoda will jointly promote the integrated solution in Japan, the Middle East, and North America, aiming to deliver data‑driven maintenance optimization, operational stability and enhanced equipment reliability.",
+    "url": "https://novity.us/novity-announces-chiyoda-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Create joint Go-to-Market initiatives tailored to the needs of markets in Japan, the Middle East and North America.",
+    "url": "https://novity.us/novity-announces-chiyoda-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Chiyoda Corporation (Chiyoda), headquartered in Yokohama, Japan, is a global engineering and construction company established in 1948. Chiyoda provides integrated services across the project lifecycle, including engineering, procurement, and construction (EPC), serving industries such as energy, chemicals, and infrastructure.",
+    "url": "https://novity.us/novity-announces-chiyoda-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Novityとの戦略的パートナーシップにより AI予兆診断×plantOS®の統合ソリューションを日本・中東・北米で共同展開 | 千代田化工建設株式会社 - プラント・エンジニアリング",
+    "url": "https://www.chiyodacorp.com/jp/media/2026/post_20241037.html",
+    "pass": 3
+   },
+   {
+    "quote": "Novityとの戦略的パートナーシップにより AI予兆診断×plantOS®の統合ソリューションを日本・中東・北米で共同展開",
+    "url": "https://www.chiyodacorp.com/jp/media/2026/post_20241037.html",
+    "pass": 3
+   },
+   {
+    "quote": "千代田化工建設株式会社（本社：神奈川県横浜市、代表取締役社長：太田 光治、以下「当社」）は、米国のAI予兆診断技術企業である",
+    "url": "https://www.chiyodacorp.com/jp/media/2026/post_20241037.html",
+    "pass": 3
+   },
+   {
+    "quote": "本パートナーシップにより、両社は日本・中東・北米を対象地域として、データ駆動型の保全最適化・運転安定化・設備信頼性向上を実現する統合ソリューションの提供を共同で推進してまいります",
+    "url": "https://www.chiyodacorp.com/jp/media/2026/post_20241037.html",
+    "pass": 3
+   },
+   {
+    "quote": "・ 日本・中東・北米それぞれの市場ニーズに応じた共同GTM（Go-to-Market）推進",
+    "url": "https://www.chiyodacorp.com/jp/media/2026/post_20241037.html",
+    "pass": 3
+   },
+   {
+    "quote": "は、千代田化工建設株式会社の登録商標です",
+    "url": "https://www.chiyodacorp.com/jp/media/2026/post_20241037.html",
+    "pass": 3
+   },
+   {
+    "quote": "Novityとの戦略的パートナーシップによりAI予兆診断×plantOS®の統合ソリューションを日本・中東・北米で共同展開 | 千代田化工建設株式会社のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000175920.html",
+    "pass": 3
+   },
+   {
+    "quote": "Novityとの戦略的パートナーシップによりAI予兆診断×plantOS®の統合ソリューション�を日本・中東・北米で共同展開",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000175920.html",
+    "pass": 3
+   },
+   {
+    "quote": "千代田化工建設株式会社（本社：神奈川県横浜市、代表取締役社長：太田 光治、以下「当社」）は、米国のAI予兆診断技術企業である",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000175920.html",
+    "pass": 3
+   },
+   {
+    "quote": "本パートナーシップにより、両社は日本・中東・北米を対象地域として、データ駆動型の保全最適化・運転安定化・設備信頼性向上を実現する統合ソリューションの提供を共同で推進してまいります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000175920.html",
+    "pass": 3
+   },
+   {
+    "quote": "(*1)「plantOS®」は、千代田化工建設株式会社の登録商標です",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000175920.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本・中東・北米それぞれの市場ニーズに応じた共同GTM（Go-to-Market）推進",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000175920.html",
+    "pass": 3
+   },
+   {
+    "quote": "Strategic Partnership with Novity to jointly deploy an integrated solution in Japan, the Middle East and North America by combining Novity's TruPrognostics™ AI with Chiyoda's plantOS™ Solution ｜News | CHIYODA CORPORATION",
+    "url": "https://www.chiyodacorp.com/en/media/2026/post_20241014.html",
+    "pass": 3
+   },
+   {
+    "quote": "Strategic Partnership with Novity to jointly deploy an integrated solution in Japan, the Middle East and North America by combining Novity's TruPrognostics™ AI with Chiyoda's plantOS™ Solution",
+    "url": "https://www.chiyodacorp.com/en/media/2026/post_20241014.html",
+    "pass": 3
+   },
+   {
+    "quote": "Chiyoda and Novity will jointly promote the integrated solution in Japan, the Middle East and North America, aiming to deliver data-driven maintenance optimization, operational stability and enhanced equipment reliability.",
+    "url": "https://www.chiyodacorp.com/en/media/2026/post_20241014.html",
+    "pass": 3
+   },
+   {
+    "quote": "・ Joint Go-to-Market initiatives tailored to the needs of markets in Japan, the Middle East and North America",
+    "url": "https://www.chiyodacorp.com/en/media/2026/post_20241014.html",
+    "pass": 3
+   },
+   {
+    "quote": "Novity Enters Into a Strategic Partnership with Chiyoda Corporation to Deploy an Integrated Solution in Japan, the Middle East and North America by Combining Novity's TruPrognostics™ AI with Chiyoda's plantOS™ Solution",
+    "url": "https://www.prnewswire.com/news-releases/novity-enters-into-a-strategic-partnership-with-chiyoda-corporation-to-deploy-an-integrated-solution-in-japan-the-middle-east-and-north-america-by-combining-novitys-truprognostics-ai-with-chiyodas-plantos-solution-302777982.html",
+    "pass": 3
+   },
+   {
+    "quote": "Novity and Chiyoda will jointly promote the integrated solution in Japan, the Middle East, and North America, aiming to deliver data–driven maintenance optimization, operational stability and enhanced equipment reliability.",
+    "url": "https://www.prnewswire.com/news-releases/novity-enters-into-a-strategic-partnership-with-chiyoda-corporation-to-deploy-an-integrated-solution-in-japan-the-middle-east-and-north-america-by-combining-novitys-truprognostics-ai-with-chiyodas-plantos-solution-302777982.html",
+    "pass": 3
+   },
+   {
+    "quote": "Create joint Go-to-Market initiatives tailored to the needs of markets in Japan, the Middle East and North America.",
+    "url": "https://www.prnewswire.com/news-releases/novity-enters-into-a-strategic-partnership-with-chiyoda-corporation-to-deploy-an-integrated-solution-in-japan-the-middle-east-and-north-america-by-combining-novitys-truprognostics-ai-with-chiyodas-plantos-solution-302777982.html",
+    "pass": 3
+   },
+   {
+    "quote": "Chiyoda Corporation (Chiyoda), headquartered in Yokohama, Japan, is a global engineering and construction company established in 1948. Chiyoda provides integrated services across the project lifecycle, including engineering, procurement, and construction (EPC), serving industries such as energy, chemicals, and infrastructure.",
+    "url": "https://www.prnewswire.com/news-releases/novity-enters-into-a-strategic-partnership-with-chiyoda-corporation-to-deploy-an-integrated-solution-in-japan-the-middle-east-and-north-america-by-combining-novitys-truprognostics-ai-with-chiyodas-plantos-solution-302777982.html",
+    "pass": 3
+   },
+   {
+    "quote": "Novity's AI predictive diagnostics platform, \"TruPrognostics AI,\" will be integrated into Chiyoda's O&M total solution, \"plantOS,\" for joint deployment in Japan, the Middle East, and North America. The target facilities include LNG plants, refineries, chemical plants, power plants, and infrastructure facilities.",
+    "url": "https://note.com/plant_lens/n/nd9ec1b758f93?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "From PoC to commercial deployment in Japan, the Middle East, and North America",
+    "url": "https://note.com/plant_lens/n/nd9ec1b758f93?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Joint Deployment of Integrated AI Predictive Diagnostics and plantOS® Solution in Japan, the Middle East, and North America through Strategic Partnership with Novity",
+    "url": "https://note.com/plant_lens/n/nd9ec1b758f93?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・Joint deployment of AI predictive diagnostics \"TruPrognostics™ AI\" and plantOS® integrated solution in Japan, the Middle East, and North America",
+    "url": "https://note.com/sankituushin/n/n5dfe83002f43?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Through this partnership, both companies will accelerate the market deployment of next-generation O&M solutions that realize data-driven maintenance optimization, operational stabilization, and improved equipment reliability, with a primary focus on Japan, the Middle East, and North America.",
+    "url": "https://note.com/sankituushin/n/n5dfe83002f43?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Promotion of joint Go-to-Market (GTM) strategies tailored to the characteristics of the Japanese, Middle Eastern, and North American markets",
+    "url": "https://note.com/sankituushin/n/n5dfe83002f43?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "NovityのAI予兆診断プラットフォーム「TruPrognostics AI」を、千代田化工建設のO&Mトータルソリューション「plantOS」に統合し、日本・中東・北米で共同展開する",
+    "url": "https://note.com/plant_lens/n/nd9ec1b758f93",
+    "pass": 3
+   },
+   {
+    "quote": "Novityとの戦略的パートナーシップにより AI予兆診断×plantOS®の統合ソリューションを日本・中東・北米で共同展開",
+    "url": "https://note.com/plant_lens/n/nd9ec1b758f93",
+    "pass": 3
+   },
+   {
+    "quote": "PLANT LENSは、株式会社GrassAIが運営する、プラント業界のAI・DX・テクノロジー専門メディアです",
+    "url": "https://note.com/plant_lens/n/nd9ec1b758f93",
+    "pass": 3
+   },
+   {
+    "quote": "・AI予兆診断「TruPrognostics™ AI」×plantOS®統合ソリューションを日本・中東・北米で共同展開",
+    "url": "https://note.com/sankituushin/n/n5dfe83002f43",
+    "pass": 3
+   },
+   {
+    "quote": "本提携により、両社は日本・中東・北米を主要対象地域とし、データ駆動型による保全最適化、運転安定化、設備信頼性向上を実現する次世代O&Mソリューションの市場展開を加速させる",
+    "url": "https://note.com/sankituushin/n/n5dfe83002f43",
+    "pass": 3
+   },
+   {
+    "quote": "日本・中東・北米市場の特性に応じた共同GTM（Go-to-Market）戦略の推進",
+    "url": "https://note.com/sankituushin/n/n5dfe83002f43",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Email: chiyoda_pr@chiyodacorp.com",
+    "url": "https://novity.us/novity-announces-chiyoda-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Novity provides truly predictive asset health for Oil & Gas operators. Whether you need accurate prognostics for compressors, pumps, motors or other asset types we have you covered. Contact us to reap the benefits of increased productivity, and radically improved environmental and safety performance.",
+    "url": "https://novity.us/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Contact Us to Learn More About Novity",
+    "url": "https://novity.us/about-novity/",
+    "pass": 1
+   },
+   {
+    "quote": "Email: chiyoda_pr@chiyodacorp.com",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000175920.html",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/538911-19",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "This investment into Novity will be part of the Corporate Venture Capital program established by METAWATER in October of 2018.",
+    "url": "https://www.metawater.co.jp/eng/news/2024/02/metawater-has-made-a-minority-investment-in-novity-inc.html",
+    "pass": 3
+   },
+   {
+    "quote": "Operating from Europe, Mauritius, and Madagascar, we act as a natural part of your company. We are ready to build custom software and AI solutions alongside your internal teams.",
+    "url": "https://novity.io/en/clients",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/538911-19",
+    "pass": 3
+   },
+   {
+    "quote": "Novity has 14 total employees.",
+    "url": "https://pitchbook.com/profiles/company/538911-19",
+    "pass": 3
+   },
+   {
+    "quote": "What is Novity’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/538911-19",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Novity is",
+    "url": "https://pitchbook.com/profiles/company/538911-19",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Novityとの戦略的パートナーシップにより AI予兆診断×plantOS®の統合... — May 21, 2026 · 千代田化工建設のNovityとの戦略的パートナーシップにより AI予兆診断×plantOS®の統合ソリューションを日本・中東・北米で共同展開について。千代田化工建設株式会社は、LNG（液化天然ガス）や石油などのエネルギープラントを世界各国で建設する総合エンジニアリング会社です。",
+    "url": "https://www.chiyodacorp.com/jp/media/2026/post_20241037.html",
+    "pass": 3
+   },
+   {
+    "quote": "Novityとの戦略的パートナーシップによりAI予兆診断×plantOS®の統合ソ... — May 21, 2026 · 千代田化工建設株式会社のプレスリリース（2026年5月21日 08時01分）Novityとの戦略的パートナーシップによりAI予兆診断×plantOS®の統合 ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000175920.html",
+    "pass": 3
+   },
+   {
+    "quote": "METAWATER Has Made a Minority Investment in Novity, Inc ... — Novity is a company involved in the development of TruPrognostics™ AI that provides predictive assessments concerning the health of production machinery and equipment. Unplanned downtime costs industrial manufacturers more than one trillion dollars per year, and predictive maintenance has long been considered a potential solution to thi",
+    "url": "https://www.metawater.co.jp/eng/news/2024/02/metawater-has-made-a-minority-investment-in-novity-inc.html",
+    "pass": 3
+   },
+   {
+    "quote": "Novity Announces a Strategic Partnership with Chiyoda ... — May 20, 2026 · By combining Novity’s accurate hybrid AI-based technology TruPrognostics™ AI with Chiyoda’s plantOS™, we can deliver a new, groundbreaking O&M solution, that will provide users with remaining useful life predictions, precise machine diagnostics and actionable maintenance and operational recommendations, altogether enabling ",
+    "url": "https://novity.us/novity-announces-chiyoda-partnership/",
+    "pass": 3
+   },
+   {
+    "quote": "千代田化工、米Novityと統合ソリューションの市場展開に関する戦略的... — May 21, 2026 · 【プレスリリース】発表日:2026年05月21日 Novityとの戦略的パートナーシップによりAI予兆診断×plantOS (R)の統合ソリューションを日本・中東・北米で ...",
+    "url": "https://www.nikkei.com/article/DGXZRSP707313_R20C26A5000000/",
+    "pass": 3
+   },
+   {
+    "quote": "Novity Announces a Strategic Partnership with Chiyoda ... — May 20, 2026 · Novity Enters Into a Strategic Partnership with Chiyoda Corporation to Deploy an Integrated Solution in Japan, the Middle East and North America by Combining Novity’s TruPrognosticsTM AI with Chiyoda’s plantOS™ Solution San Francisco, CA, May 20, 2026 – Novity announced today that it has entered into a Memorandum of Underst",
+    "url": "https://novity.us/novity-announces-chiyoda-partnership/",
+    "pass": 3
+   },
+   {
+    "quote": "Strategic Partnership with Novity to jointly deploy an ... — May 21, 2026 · Chiyoda Corporation (Chiyoda) has entered into a Memorandum of Understanding with Novity, Inc. (Novity) to jointly deploy an integrated solution combining Novity's truly predictive maintenance AI platform 'TruPrognostics™ AI' with Chiyoda's Operations & Maintenance (O&M) total solution platform 'plantOS™ *.' Chiyoda and No",
+    "url": "https://www.chiyodacorp.com/en/media/2026/post_20241014.html",
+    "pass": 3
+   },
+   {
+    "quote": "Novity Announces an Investment by Acario Innovation, a ... — May 20, 2026 · FOR IMMEDIATE RELEASE Novity, a Leading Provider of Predictive Maintenance for Process Industries, Announces Strategic Investment from Acario Innovation San Francisco, CA, May 20th, 2026 — Novity, the leading predictive maintenance platform for process industries, announced a strategic investment from Acario Innovation (“A",
+    "url": "https://novity.us/novity-announces-acario-investment/",
+    "pass": 3
+   },
+   {
+    "quote": "Novity Enters Into a Strategic Partnership with Chiyoda ... — May 20, 2026 · Novity and Chiyoda will jointly promote the integrated solution in Japan, the Middle East, and North America, aiming to deliver data–driven maintenance optimization, operational stability and ...",
+    "url": "https://www.prnewswire.com/news-releases/novity-enters-into-a-strategic-partnership-with-chiyoda-corporation-to-deploy-an-integrated-solution-in-japan-the-middle-east-and-north-america-by-combining-novitys-truprognostics-ai-with-chiyodas-plantos-solution-302777982.html",
+    "pass": 3
+   },
+   {
+    "quote": "Novity | LinkedIn — Novity provides the only Truly Predictive Maintenance AI, helping industrial plants start the journey toward zero unplanned downtime. Novity TruPrognostics™ AI tells users WHEN an asset risks failing with very high accuracy, often weeks before failure occurs. Reduce your asset failure worries and save millions each year by radically decreasing unplanned downtime. To learn more,",
+    "url": "https://jp.linkedin.com/company/novity-pdm",
+    "pass": 3
+   },
+   {
+    "quote": "Novity - Customer Case Study — Novity partnered with Ultimate Creative Communications to solve key challenges. \"Novity - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/ultimate-creative-communications/case-study/novity-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Our clients & references | Novity — Client case studies: software companies, startups and tech players There's a reason they trust us That reason is simple: uncompromising quality in the way we support our clients. More than 80 organisations across two continents rely on Novity to strengthen their teams and help deliver their tech projects with confidence.",
+    "url": "https://novity.io/en/clients",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Novity TruPrognostics for Compressors — Aug 9, 2024 · Case study showing the power of Novity's TruPrognostics AI for reciprocating compressors at a natural gas plant in Texas. 92% accurate valve fault prognoses is game-changing performance for this customer where Novity is now a fully integrated part of their maintenance operations.",
+    "url": "https://novity.us/case-study-novity-truprognostics-for-compressors/",
+    "pass": 3
+   },
+   {
+    "quote": "Novity: AI-Powered Fault Diagnosis on AWS | Avahi — About The Customer Novity is an industrial analytics company serving manufacturing and oil and gas organizations. Its platform enables maintenance teams to shift from reactive repairs to predictive maintenance through equipment monitoring, early fault detection, and diagnostic insights that support higher uptime and operational reliability.",
+    "url": "https://avahi.ai/case-study/novity-turns-fault-diagnoses-into-actionable-maintenance-plans-with-al-on-aws/",
+    "pass": 3
+   },
+   {
+    "quote": "Use case - B2B Digital Products & Services - novity.io — Discover more case studies Every project is unique, but our commitment remains the same: to co-deliver, de-risk, and move products forward—regardless of context or constraints.",
+    "url": "https://novity.io/en/use-case/b2b-digital-products-and-services",
+    "pass": 3
+   },
+   {
+    "quote": "Novity - 2026 Company Profile, Team, Funding & Competitors ... — Mar 3, 2026 · Novity is a series A company based in San Carlos (United States), founded in 2022 by Serdar Uckun and Markus Larsson. It operates as a Provider of predictive maintenance software platform for manufacturers. Novity has raised $7.8M in funding from WERU Investment. The company has 312 active competitors, including 65 fund",
+    "url": "https://tracxn.com/d/companies/novity/__pjEa4uklz7rUritYSjfhcEyCDRX_yKxTHAsqB7bgdbo",
+    "pass": 3
+   },
+   {
+    "quote": "Novity 2026 Company Profile: Valuation, Funding & Investors ...Novity – Valuation, Revenue & Market Scope – 2026 – ParisNovity - Overview, News & Similar companies | ZoomInfo.comNovity — Company Profile & Funding | Indexed.vcNovity: Funding, Investors & Team (Oct 2026) | FundedIQNovity - Products, Competitors, Financials, Employees ... — The current valuation of Novity is . What is Novity’s curren",
+    "url": "https://pitchbook.com/profiles/company/538911-19",
+    "pass": 3
+   },
+   {
+    "quote": "Novity – Valuation, Revenue & Market Scope – 2026 – Paris — Novity reflects growth via estimated revenue of $13.8M, team of around 90+ employees in Paris, with increasing traction in its field.",
+    "url": "https://compworth.com/company/novity",
+    "pass": 3
+   },
+   {
+    "quote": "Novity - Overview, News & Similar companies | ZoomInfo.com — View Novity (www.novity.us) location in California, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+    "url": "https://www.zoominfo.com/c/novity-inc/564023391",
+    "pass": 3
+   },
+   {
+    "quote": "Novity — Company Profile & Funding | Indexed.vc — Summary Novity is an Energy company based in San Francisco, United States, founded in 2022. Its most recent funding was a Series A round in Feb 2024. LinkedIn",
+    "url": "https://indexed.vc/companies/novity",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Chiyoda Corporation to Integrate Novity Predictive ... Jul 23, 2026 · On May 21, 2026, Chiyoda Corporation announced that it has entered into a strategic partnership with Novity, a U.S.-based AI predictive diagnostics technology company. The company will integrate Novity's AI predictive diagnostics platform, \"TruPrognostics AI,\" into its O&M total solution, \"plantOS ...",
+    "url": "https://note.com/plant_lens/n/nd9ec1b758f93?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Chiyoda Corporation Enters into Strategic Partnership with Novity Chiyoda Corporation announced on May 21 that it has signed a strategic partnership agreement with US-based AI predictive diagnostics company Novity, Inc. (Headquarters: California, CEO: Markus Larsson) to jointly deploy a solution that integrates the AI predictive diagnostics platform \"TruPrognostics™ AI\" with its own O&M total solu",
+    "url": "https://note.com/sankituushin/n/n5dfe83002f43?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "千代田化工建設 設備保全に故障時期予測AI NovityとplantOS統合へ｜PL... Jul 23, 2026 · 千代田化工建設は2026年5月21日、米国のAI予兆診断技術企業Novityと戦略的パートナーシップを締結したと発表した。 NovityのAI予兆診断プラットフォーム「TruPrognostics AI」を、千代田化工建設のO&Mトータルソリューション「plantOS」に統合し、日本・中東・北米で共同展開する。対象はLNG設備 ...",
+    "url": "https://note.com/plant_lens/n/nd9ec1b758f93",
+    "pass": 3
+   },
+   {
+    "quote": "千代田化工建設、Novityと戦略的パートナーシップ締結 May 22, 2026 · 千代田化工建設は5月21日、米国のAI予兆診断技術企業Novity, Inc.（本社：カリフォルニア州、CEO：Markus Larsson）と、AI予兆診断プラットフォーム「TruPrognostics™ AI」と自社のO&Mトータルソリューションプラットフォーム「plantOS ...",
+    "url": "https://note.com/sankituushin/n/n5dfe83002f43",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Chiyoda Corporation to Integrate Novity Predictive Maintenance AI with plantOS | PLB #013｜プラント業界の変化を、AI・DX・テクノロジーの切り口で読み解く専門メディア｜PLANT LENS",
+    "url": "https://note.com/plant_lens/n/nd9ec1b758f93?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Chiyoda Corporation to Integrate Novity Predictive Maintenance AI with plantOS | PLB #013",
+    "url": "https://note.com/plant_lens/n/nd9ec1b758f93?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "プラント業界の変化を、AI・DX・テクノロジーの切り口で読み解く専門メディア｜PLANT LENS",
+    "url": "https://note.com/plant_lens/n/nd9ec1b758f93?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "On May 21, 2026, Chiyoda Corporation announced that it has entered into a strategic partnership with Novity, a U.S.-based AI predictive diagnostics technology company.",
+    "url": "https://note.com/plant_lens/n/nd9ec1b758f93?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Novity's AI predictive diagnostics platform, \"TruPrognostics AI,\" will be integrated into Chiyoda's O&M total solution, \"plantOS,\" for joint deployment in Japan, the Middle East, and North America. The target facilities include LNG plants, refineries, chemical plants, power plants, and infrastructure facilities.",
+    "url": "https://note.com/plant_lens/n/nd9ec1b758f93?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The two companies plan to jointly develop a roadmap from Proof of Concept (PoC) to commercial deployment. As of the announcement, what has been disclosed is a partnership aimed at market expansion, rather than a track record of implementing the integrated solution in specific facilities.",
+    "url": "https://note.com/plant_lens/n/nd9ec1b758f93?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "From anomaly detection to predicting \"when a failure will occur\"",
+    "url": "https://note.com/plant_lens/n/nd9ec1b758f93?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "TruPrognostics AI is characterized by its ability not only to detect equipment anomalies but also to predict the Remaining Useful Life (RUL).",
+    "url": "https://note.com/plant_lens/n/nd9ec1b758f93?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Chiyoda Corporation Enters into Strategic Partnership with Novity｜kikai-news.net 産機通信",
+    "url": "https://note.com/sankituushin/n/n5dfe83002f43?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Chiyoda Corporation Enters into Strategic Partnership with Novity",
+    "url": "https://note.com/sankituushin/n/n5dfe83002f43?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・Joint deployment of AI predictive diagnostics \"TruPrognostics™ AI\" and plantOS® integrated solution in Japan, the Middle East, and North America",
+    "url": "https://note.com/sankituushin/n/n5dfe83002f43?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "announced on May 21 that it has signed a strategic partnership agreement with US-based AI predictive diagnostics company",
+    "url": "https://note.com/sankituushin/n/n5dfe83002f43?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "(Headquarters: California, CEO: Markus Larsson) to jointly deploy a solution that integrates the AI predictive diagnostics platform \"TruPrognostics™ AI\" with its own O&M total solution platform \"plantOS®\".",
+    "url": "https://note.com/sankituushin/n/n5dfe83002f43?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Through this partnership, both companies will accelerate the market deployment of next-generation O&M solutions that realize data-driven maintenance optimization, operational stabilization, and improved equipment reliability, with a primary focus on Japan, the Middle East, and North America.",
+    "url": "https://note.com/sankituushin/n/n5dfe83002f43?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "■ Comprehensive solutions addressing labor shortages and the need for equipment sophistication",
+    "url": "https://note.com/sankituushin/n/n5dfe83002f43?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In recent years, the industrial plant sector has faced a serious aging of skilled technicians and labor shortages, while the need for predictive maintenance and operational optimization of equipment has been rising rapidly.",
+    "url": "https://note.com/sankituushin/n/n5dfe83002f43?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "千代田化工建設 設備保全に故障時期予測AI NovityとplantOS統合へ｜PLB #013｜プラント業界の変化を、AI・DX・テクノロジーの切り口で読み解く専門メディア｜PLANT LENS",
+    "url": "https://note.com/plant_lens/n/nd9ec1b758f93",
+    "pass": 3
+   },
+   {
+    "quote": "千代田化工建設 設備保全に故障時期予測AI NovityとplantOS統合へ｜PLB #013",
+    "url": "https://note.com/plant_lens/n/nd9ec1b758f93",
+    "pass": 3
+   },
+   {
+    "quote": "プラント業界の変化を、AI・DX・テクノロジーの切り口で読み解く専門メディア｜PLANT LENS",
+    "url": "https://note.com/plant_lens/n/nd9ec1b758f93",
+    "pass": 3
+   },
+   {
+    "quote": "千代田化工建設は2026年5月21日、米国のAI予兆診断技術企業Novityと戦略的パートナーシップを締結したと発表した。",
+    "url": "https://note.com/plant_lens/n/nd9ec1b758f93",
+    "pass": 3
+   },
+   {
+    "quote": "NovityのAI予兆診断プラットフォーム「TruPrognostics AI」を、千代田化工建設のO&Mトータルソリューション「plantOS」に統合し、日本・中東・北米で共同展開する。対象はLNG設備、製油所、化学プラント、発電所、インフラ施設。",
+    "url": "https://note.com/plant_lens/n/nd9ec1b758f93",
+    "pass": 3
+   },
+   {
+    "quote": "両社はPoCから商用展開までのロードマップを共同で整備する方針で、発表時点で公表されたのは統合ソリューションとしての特定設備への導入実績ではなく、市場展開に向けた提携である。",
+    "url": "https://note.com/plant_lens/n/nd9ec1b758f93",
+    "pass": 3
+   },
+   {
+    "quote": "TruPrognostics AIは、設備の異常を検知するだけでなく、残存耐用年数（RUL）を予測する仕組みを特徴とする。",
+    "url": "https://note.com/plant_lens/n/nd9ec1b758f93",
+    "pass": 3
+   },
+   {
+    "quote": "物理ベースモデルと機械学習を組み合わせることで、故障に至るまでの大量の履歴データがない環境にも対応する。",
+    "url": "https://note.com/plant_lens/n/nd9ec1b758f93",
+    "pass": 3
+   },
+   {
+    "quote": "千代田化工建設、Novityと戦略的パートナーシップ締結｜kikai-news.net 産機通信",
+    "url": "https://note.com/sankituushin/n/n5dfe83002f43",
+    "pass": 3
+   },
+   {
+    "quote": "千代田化工建設、Novityと戦略的パートナーシップ締結",
+    "url": "https://note.com/sankituushin/n/n5dfe83002f43",
+    "pass": 3
+   },
+   {
+    "quote": "・AI予兆診断「TruPrognostics™ AI」×plantOS®統合ソリューションを日本・中東・北米で共同展開",
+    "url": "https://note.com/sankituushin/n/n5dfe83002f43",
+    "pass": 3
+   },
+   {
+    "quote": "（本社：カリフォルニア州、CEO：Markus Larsson）と、AI予兆診断プラットフォーム「TruPrognostics™ AI」と自社のO&Mトータルソリューションプラットフォーム「plantOS®」を統合したソリューションの共同展開に関する戦略的パートナーシップ契約を締結したと発表した。",
+    "url": "https://note.com/sankituushin/n/n5dfe83002f43",
+    "pass": 3
+   },
+   {
+    "quote": "本提携により、両社は日本・中東・北米を主要対象地域とし、データ駆動型による保全最適化、運転安定化、設備信頼性向上を実現する次世代O&Mソリューションの市場展開を加速させる。",
+    "url": "https://note.com/sankituushin/n/n5dfe83002f43",
+    "pass": 3
+   },
+   {
+    "quote": "■人材不足と設備高度化ニーズに対応した包括的ソリューション",
+    "url": "https://note.com/sankituushin/n/n5dfe83002f43",
+    "pass": 3
+   },
+   {
+    "quote": "近年、産業プラント分野では熟練技術者の高齢化・労働力不足が深刻化する一方で、設備の予知保全や運用最適化に対するニーズが急速に高まっている。",
+    "url": "https://note.com/sankituushin/n/n5dfe83002f43",
+    "pass": 3
+   },
+   {
+    "quote": "この課題に対して、Novity社の物理モデルとAIを融合した高精度予兆診断技術「TruPrognostics™ AI」と、千代田化工建設のplantOS®を連携させることで、残存耐用年数（RUL）の高精度予測、精緻な機器診断、実行可能な保全計画立案・運転最適化提言までをカバーする包括的なソリューションを提供する。",
+    "url": "https://note.com/sankituushin/n/n5dfe83002f43",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Novity (@NovityVR) / Posts / X Novity NovityVR Feb 22 At Novity, we hold company socials every 6 weeks to reward the team for all of their hard work 💼 On Friday we decided to have a remote company quiz. It was a great team building activity and we had lots of fun! 🖲 #QuizTime #indiegamedeveloper #gamedevs #indiedev #VR #quiz",
+    "url": "https://x.com/NovityVR",
+    "pass": 3
+   },
+   {
+    "quote": "Novity™ NSFW DNI on X: \"mrbeast is unironically really ... Post Novity™ NSFW DNI @brrrr_decem mrbeast is unironically really attractive 2:58 AM · Nov 7, 2026 ·",
+    "url": "https://x.com/brrrr_decem/status/2118900879390618018",
+    "pass": 3
+   },
+   {
+    "quote": "Novity™ on X: \"why does kingsammelot follow trump\" / X Novity™ on X: \"why does kingsammelot follow trump\" / X",
+    "url": "https://x.com/brrrr_decem/status/2118169248719900871",
+    "pass": 3
+   },
+   {
+    "quote": "Novity™ on X: \"Twitter\" hey its me its Nova #1 ballgameplayman glazer certified Michael sniped at 1.2k 5teen bisexual amab genderfluid creature (any/all except no it/its) 👑 🕊️ ...",
+    "url": "https://x.com/brrrr_decem/status/2118341596794282048",
+    "pass": 3
+   },
+   {
+    "quote": "Novity (@NovityVR) / Posts / X Feb 6, 2019 · Novity (@NovityVR) - Posts - Novity is a startup games company dedicated to making Virtual Reality games and experiences with mea... | X (formerly Twitter)",
+    "url": "https://x.com/NovityVR",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Novity.ae - Facebook Sep 14, 2026 · Novity.ae. 11 followers. Welcome to Novity, your ultimate platform for discovering exceptional apartments in Dubai.",
+    "url": "https://www.facebook.com/novity.ae/",
+    "pass": 3
+   },
+   {
+    "quote": "Novity Madagascar | Antananarivo - FacebookNovity Mauritius - FacebookNovity - ביטוח ופיננסים | Tel Aviv - FacebookNovity | Milan - FacebookNovity - FacebookNovity Labs | Antananarivo - Facebook Oct 21, 2026 · Novity Madagascar, Antananarivo. 37,164 followers · 41 talking about this · 33 were here. Novity est spécialisé dans le logiciel et a pour objectif d’aider les entreprises tech (éditeurs,...",
+    "url": "https://www.facebook.com/NovityMadagascar/",
+    "pass": 3
+   },
+   {
+    "quote": "Novity Mauritius - Facebook Oct 26, 2026 · Novity Mauritius. 496 followers · 7 talking about this · 2 were here. Novity is a value-driven tech partner specialized in software development with 30+ clients in Europe",
+    "url": "https://www.facebook.com/profile.php/?id=100086170788069",
+    "pass": 3
+   },
+   {
+    "quote": "Novity - ביטוח ופיננסים | Tel Aviv - Facebook Jan 29, 2026 · Novity - ביטוח ופיננסים, Tel Aviv. 12 likes. מוצאים לך את הביטוח המשתלם בישראל שירות מקיף בטכנולוגיית AI מעקב שנתי לסטטוס הביטוחי, גישה למידע וניטור המחיר באופן קבוע! מקסימום ביטוח - במינימום מאמץ",
+    "url": "https://www.facebook.com/61579617285014/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Markus Larsson - Founder & CEO at Novity | LinkedInNovity | LinkedInNovity, Inc.の第三者割当増資により同社株式を取得 | ニュース | メ...ダイニーの社長交代、本当の理由は社外取締役との軋轢か “セクハラ冤... Founder & CEO at Novity · Co-founder of Novity, the AI predictive maintenance business. Seasoned innovation executive with corporates, startups, academia, and government agencies. Deep tech ... Novity provides the only Truly Predictive Maintenance AI,",
+    "url": "https://www.linkedin.com/in/markuslarsson",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://novity.us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://novity.us/novity-announces-chiyoda-partnership/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://novity.us/industries/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://novity.us/about-novity/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.chiyodacorp.com/jp/media/2026/post_20241037.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000175920.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metawater.co.jp/eng/news/2024/02/metawater-has-made-a-minority-investment-in-novity-inc.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yamamoto_ec/n/nfa7d11908a21",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yamamoto_ec/n/nd3b3890ee728",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chiyodacorp.com/en/media/2026/post_20241014.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prnewswire.com/news-releases/novity-enters-into-a-strategic-partnership-with-chiyoda-corporation-to-deploy-an-integrated-solution-in-japan-the-middle-east-and-north-america-by-combining-novitys-truprognostics-ai-with-chiyodas-plantos-solution-302777982.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/ultimate-creative-communications/case-study/novity-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://novity.io/en/clients",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://avahi.ai/case-study/novity-turns-fault-diagnoses-into-actionable-maintenance-plans-with-al-on-aws/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/novity/__pjEa4uklz7rUritYSjfhcEyCDRX_yKxTHAsqB7bgdbo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/538911-19",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/novity",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/novity-inc/564023391",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/plant_lens/n/nd9ec1b758f93?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sankituushin/n/n5dfe83002f43?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/plant_lens/n/nd9ec1b758f93",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sankituushin/n/n5dfe83002f43",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/NovityVR",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/brrrr_decem/status/2118900879390618018",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/brrrr_decem/status/2118169248719900871",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/brrrr_decem/status/2118341596794282048",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/novity.ae/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/NovityMadagascar/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/profile.php/?id=100086170788069",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61579617285014/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/markuslarsson",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/NovityVR",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Novity 日本 導入",
+   "results": [
+    "https://www.chiyodacorp.com/jp/media/2026/post_20241037.html",
+    "https://prtimes.jp/main/html/rd/p/000000012.000175920.html",
+    "https://www.metawater.co.jp/eng/news/2024/02/metawater-has-made-a-minority-investment-in-novity-inc.html",
+    "https://novity.us/novity-announces-chiyoda-partnership/",
+    "https://www.nikkei.com/article/DGXZRSP707313_R20C26A5000000/",
+    "https://www.chiyodacorp.com/en/media/2026/post_20241014.html",
+    "https://note.com/plant_lens/n/nd9ec1b758f93"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Novity 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://note.com/yamamoto_ec/n/nfa7d11908a21",
+    "https://note.com/yamamoto_ec/n/nd3b3890ee728",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.koaglobal.com/corporate/offices/distributors1",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.houjin.info/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Novity Japan",
+   "results": [
+    "https://novity.us/novity-announces-chiyoda-partnership/",
+    "https://www.chiyodacorp.com/en/media/2026/post_20241014.html",
+    "https://novity.us/novity-announces-acario-investment/",
+    "https://www.prnewswire.com/news-releases/novity-enters-into-a-strategic-partnership-with-chiyoda-corporation-to-deploy-an-integrated-solution-in-japan-the-middle-east-and-north-america-by-combining-novitys-truprognostics-ai-with-chiyodas-plantos-solution-302777982.html",
+    "https://jp.linkedin.com/company/novity-pdm",
+    "https://admin.hydrocarbonprocessing.com/news/2026/05/novity-signs-mou-with-chiyoda-to-deploy-integrated-predictive-ai-platform/",
+    "https://novelty-japan.net/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Novity manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/ultimate-creative-communications/case-study/novity-customer-case-study",
+    "https://novity.io/en/clients",
+    "https://novity.us/case-study-novity-truprognostics-for-compressors/",
+    "https://avahi.ai/case-study/novity-turns-fault-diagnoses-into-actionable-maintenance-plans-with-al-on-aws/",
+    "https://novity.io/en/use-case/b2b-digital-products-and-services",
+    "https://www.plugandplaytechcenter.com/insights/case-studies/novity-chiyoda",
+    "https://novity.us/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Novity white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.seoreseller.com/",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://www.nextiva.com/company/partners",
+    "https://upcloud.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Novity founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/novity/__pjEa4uklz7rUritYSjfhcEyCDRX_yKxTHAsqB7bgdbo",
+    "https://pitchbook.com/profiles/company/538911-19",
+    "https://compworth.com/company/novity",
+    "https://www.zoominfo.com/c/novity-inc/564023391",
+    "https://indexed.vc/companies/novity",
+    "https://fundediq.co/novity-novity-us-funding/",
+    "https://www.cbinsights.com/company/novity"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Novity",
+   "results": [
+    "https://note.com/plant_lens/n/nd9ec1b758f93?hl=en",
+    "https://note.com/sankituushin/n/n5dfe83002f43?hl=en",
+    "https://note.com/plant_lens/n/nd9ec1b758f93",
+    "https://note.com/sankituushin/n/n5dfe83002f43",
+    "https://note.com/ready_guppy3801",
+    "https://tales.note.com/menmennovel2/works",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Novity",
+   "results": [
+    "https://x.com/NovityVR",
+    "https://x.com/brrrr_decem/status/2118900879390618018",
+    "https://x.com/brrrr_decem/status/2118169248719900871",
+    "https://x.com/brrrr_decem/status/2118341596794282048",
+    "https://x.com/brrrr_decem/status/2118784006820892944",
+    "https://x.com/brrrr_decem/status/2117845960504312254",
+    "https://x.com/brrrr_decem/status/2118350403545006233"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Novity",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com Novity",
+   "results": [
+    "https://www.facebook.com/novity.ae/",
+    "https://www.facebook.com/NovityMadagascar/",
+    "https://www.facebook.com/profile.php/?id=100086170788069",
+    "https://www.facebook.com/61579617285014/",
+    "https://www.facebook.com/novity.it/",
+    "https://www.facebook.com/novitystudiosvr/",
+    "https://www.facebook.com/NovityLabs/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Novity note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.metawater.co.jp/eng/news/2024/02/metawater-has-made-a-minority-investment-in-novity-inc.html",
+    "https://www.linkedin.com/in/markuslarsson",
+    "https://jp.linkedin.com/company/novity-pdm",
+    "https://www.metawater.co.jp/news/2024/02/novity-inc.html",
+    "https://www.itmedia.co.jp/news/article/2603/02/1260302110/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Novity X 投稿",
+   "results": [
+    "https://x.com/NovityVR",
+    "https://novity.us/",
+    "https://www.youtube.com/channel/UCawqsF6SW-Y5a_b855Oromw",
+    "https://www.xvideos.com/tags/素人-投稿",
+    "https://bluev.fun/help",
+    "https://www.instagram.com/noveltyx/",
+    "https://www.xvideos.com/?k=素人投稿"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部34頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部34頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部34頁・検索12回）"
+ }
+}

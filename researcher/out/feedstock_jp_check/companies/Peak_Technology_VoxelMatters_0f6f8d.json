@@ -1,0 +1,505 @@
+{
+ "name": "Peak Technology — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:ceramics-material-manufacturer",
+ "researched_at": "2026-11-09T22:38:23.964618+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/space/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://peakfab.com/services/additive-manufacturing-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.peaktech.com/au/about-peak-technologies/locations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://shop.peaktech.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.instagram.com/kpopusaonline/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprinter.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://intamsys.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.act-pr.co.jp/report_detail/id=105",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/top-products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.3dsystems.com/materials/pellet-materials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.creatbot.com/ja/peek-high-performance-materials/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.peaktech.com/about-peak-technologies/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/space/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/database/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/consulting-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.velo3d.com/news-events/press-releases/detail/44/velo3d-expands-into-japan-signs-distribution-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://music.amazon.co.jp/podcasts/01569738-2c06-4264-83cd-56a41c89517c/episodes/f0e44b44-08ea-40f8-9b8a-2d3b0c08be88/the-voxelmatters-podcast-discover-valcun's-molten-metal-deposition-mmd-technology",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/Threat-Technology-Voxel8/dp/B00ACY6KA8",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ssofaast-wms.amazon.co.jp/ap/signin?clientContext=357-6306478-0746302&openid.pape.max_auth_age=3600&openid.return_to=https%3A%2F%2Fssofaast-wms.amazon.co.jp%2Frosters&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=amzn_faast_privatepool_jp&openid.mode=checkid_setup&language=ja_JP&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/0821/1262/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/01015273/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/2351/6788/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/01430945/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/Peak_Technologies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/peak-technology-enterprises-inc/346407930",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/40360-60",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/peak-technology-enterprises/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Peak Technology — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.directory/company-category/space/",
+    "https://peakfab.com/services/additive-manufacturing-3d-printing/",
+    "https://www.peaktech.com/au/about-peak-technologies/locations/",
+    "https://www.voxelmatters.report/database/",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "https://www.voxelmatters.com/map-of-additive-manufacturing-technologies/",
+    "https://www.voxelmatters.group/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://www.peaktech.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Peak Technology — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://shop.peaktech.com/",
+    "https://www.instagram.com/kpopusaonline/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://www.instagram.com/reel/DdikDTXy_7S/",
+    "https://luxuchrono.com/buy-rolex-abroad/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Peak Technology — VoxelMatters 日本 販売",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://3dprinter.co.jp/",
+    "https://intamsys.jp/",
+    "https://www.act-pr.co.jp/report_detail/id=105",
+    "https://www.youtube.com/watch?v=ULo_dNEHg4w&vl=ja",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://aspect.jpn.com/business/",
+    "https://www.nanjixiong.com/thread-166732-1-1.html",
+    "https://www.cadjapan.com/news/2025/",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Peak Technology — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.voxelmatters.com/top-products/",
+    "https://skhonpo.com/",
+    "https://ja.3dsystems.com/materials/pellet-materials",
+    "https://www.creatbot.com/ja/peek-high-performance-materials/",
+    "https://www.poly-maker.jp/",
+    "https://www.youtube.com/watch?v=d8JJGUR9hGM",
+    "https://i-maker.jp/is?q=PEEK&srsltid=AYCX9vJ3uKvY-18_1MvnAhomdfhtWxO5KUFe8UCD9Fb0yAgmX4AloWE-",
+    "https://apple-tree.shop/?mode=cate&cbid=1729720&csid=0",
+    "https://www.monotaro.com/s/q-3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E7%94%A8%20%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/?srsltid=AYCX9vIMl_AJZ4arZ3tyWFp8rEHlvJUiNBMf-Dks73XNvFph8v0ecOj-",
+    "https://www.amazon.co.jp/アクセサリー用接着剤-レジン液/b?node=3055011051"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Peak Technology — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.peaktech.com/about-peak-technologies/partners/",
+    "https://www.voxelmatters.directory/company-category/space/",
+    "https://www.voxelmatters.report/database/",
+    "https://ir.velo3d.com/news-events/press-releases/detail/44/velo3d-expands-into-japan-signs-distribution-agreement",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.group/consultancy/",
+    "https://www.3peak.com/distributors-sales-partners",
+    "https://www.voxelmatters.com/category/industry-2/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Peak Technology — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.directory/company-category/consulting-services/",
+    "https://ir.velo3d.com/news-events/press-releases/detail/44/velo3d-expands-into-japan-signs-distribution-agreement",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.imarcgroup.com/japan-3d-printing-market",
+    "https://www.upnano.com/distributors/",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://www.voxelmatters.report/methodology/",
+    "https://www.raise3d.com/sales-partners-voice/japan-3d-printer-co-ltd-sales-partner-in-japan/",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:amazon.co.jp Peak Technology — VoxelMatters",
+   "results": [
+    "https://music.amazon.co.jp/podcasts/01569738-2c06-4264-83cd-56a41c89517c/episodes/f0e44b44-08ea-40f8-9b8a-2d3b0c08be88/the-voxelmatters-podcast-discover-valcun's-molten-metal-deposition-mmd-technology",
+    "https://www.amazon.co.jp/Threat-Technology-Voxel8/dp/B00ACY6KA8",
+    "https://r.amazon.co.jp/",
+    "https://ssofaast-wms.amazon.co.jp/",
+    "https://kdp.amazon.co.jp/",
+    "https://www.cdn.amazon.co.jp/b?ie=UTF8&node=3211799051",
+    "https://www.amazon.co.jp/Mila-Owen-ミラオーウェン-09WND261014-アンサンブルペプラムシアーポロニットカーディガン09WND261014レディース/dp/B0GBMWYFSN"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Peak Technology — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/p/0821/1262/",
+    "https://www.monotaro.com/g/01015273/",
+    "https://www.monotaro.com/p/2351/6788/",
+    "https://www.monotaro.com/g/01430945/",
+    "https://www.monotaro.com/s/c-23764/",
+    "https://www.monotaro.com/g/01409697/",
+    "https://www.monotaro.com/g/00998191/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Peak Technology — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://growjo.com/company/Peak_Technologies",
+    "https://www.zoominfo.com/c/peak-technology-enterprises-inc/346407930",
+    "https://pitchbook.com/profiles/company/40360-60",
+    "https://www.voxelmatters.directory/company/peak-technology-enterprises/",
+    "https://www.peaktech.com/about-peak-technologies/at-a-glance/",
+    "https://rocketreach.co/peak-technology-enterprises-inc-profile_b5d8dfdaf42e5c8c",
+    "https://www.voxelmatters.com/voxelmatters-reveals-additive-manufacturing-industry-generated-12-3-billion-in-2024/",
+    "https://www.voxelmatters.report/database/",
+    "https://www.owler.com/company/peak-ryzex",
+    "https://www.reveliolabs.com/companies/peak-technology/employees"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Peak Technology — VoxelMatters",
+   "results": [
+    "https://note.com/viexp/n/ne4dee9ed5323",
+    "https://note.com/beloved_tomoka/all",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/tag/肉球人狼",
+    "https://note.com/seigo77",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/watarutida/n/nf3bf53aeee9f",
+    "https://note.com/fp_tax_note/n/n64645f20c992"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:x.com Peak Technology — VoxelMatters",
+   "results": [
+    "https://x.com/AirtechOfficial",
+    "https://x.com/strongwellmc",
+    "https://x.com/voxelmatters",
+    "https://x.com/peaktechcle",
+    "https://x.com/VoxelMatters/status/1942552660735058382",
+    "https://x.com/PeakTechPartner",
+    "https://x.com/peak_techno",
+    "https://x.com/VoxelMatters/status/1953780415686193252"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:linkedin.com Peak Technology — VoxelMatters",
+   "results": [
+    "https://cn.linkedin.com/company/shenzhen-addireen-technologies",
+    "https://www.linkedin.com/in/david-woodlock-3dp",
+    "https://www.linkedin.com/in/keeganatchison",
+    "https://www.linkedin.com/posts/didun_my-final-phd-paper-has-now-been-published-activity-7402335105287081984-aGt_",
+    "https://www.linkedin.com/in/scottsevcik",
+    "https://de.linkedin.com/in/andrew-cunningham-engineer",
+    "https://www.linkedin.com/in/rywexler",
+    "https://www.linkedin.com/in/erion-hasa-523227102",
+    "https://www.linkedin.com/in/brandon-gee-b0019720",
+    "https://ch.linkedin.com/in/paul-delrot-19779756"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:facebook.com Peak Technology — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/DiscoverRAPID/videos/rapid-tct-2026-where-research-meets-production/880033891521739/",
+    "https://www.facebook.com/abccentralvictoria/posts/this-is-actual-rocket-sciencethere-was-a-lot-of-excitement-yesterday-when-monash/1644742802263774/",
+    "https://www.facebook.com/l71.group/posts/we-partnered-with-hbd-additive-manufacturing-laser-powder-bed-fusion-to-manufact/1034147102879994/",
+    "https://www.facebook.com/bambulab3D/posts/yes-you-can-now-print-a-real-pair-of-shoes-you-can-actually-run-inengineered-wit/1126465010139216/",
+    "https://www.facebook.com/groups/424805480329761/posts/1117324661077836/",
+    "https://www.facebook.com/DiscoverRAPID/videos/turn-process-insights-into-practical-progressyour-methods-and-findings-can-help-/29386318987722987/",
+    "https://www.facebook.com/simplethingsareawesome/posts/-engineers-just-3d-printed-copper-cooling-plates-that-slash-data-center-pumping-/995355836524045/",
+    "https://www.facebook.com/ANYCUBIC3dprinter/posts/the-answer-youve-been-waiting-for-is-finally-here-we-printed-a-chinese-dragon-mo/601577635403222/",
+    "https://www.facebook.com/PropulseNTNU/posts/hard-to-not-appreciate-newly-machined-rocket-engine-parts-/1558624669489897/",
+    "https://www.facebook.com/FreddyProps/posts/bambu-lab-sent-me-the-files-to-3d-print-these-amazing-shoes-in-their-new-filamen/1584713646022185/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "Peak Technology — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.directory/company-category/space/",
+    "https://www.voxelmatters.report/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://www.voxelmatters.com/author/davidesher/",
+    "https://www.voxelmatters.group/insights/",
+    "https://additive-manufacturing-report.com/team/",
+    "https://www.voxelmatters.report/methodology/",
+    "https://www.youtube.com/watch?v=6M8csskWCcI&vl=ja",
+    "https://www.peaktech.com/about-peak-technologies/executive-management/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Peak Technology — VoxelMatters X 投稿",
+   "results": [
+    "https://www.voxelmatters.com/new-vjet-x-technology/",
+    "https://www.youtube.com/@voxelmatters",
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.report/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://www.youtube.com/watch?v=i5qggsKqy2E",
+    "https://www.voxelmatters.group/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）"
+ }
+}

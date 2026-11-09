@@ -1,0 +1,1066 @@
+{
+ "name": "Ochre Bio",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-09T22:54:51.447946+00:00",
+ "official_url": "https://www.ochre-bio.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "4. Seed Round",
+    "value": "16-Jun-2021    Completed Pre-Clinical Trials",
+    "url": "https://pitchbook.com/profiles/company/343743-31",
+    "pass": 3
+   },
+   {
+    "label": "3. Seed Round",
+    "value": "18-May-2020    Completed Pre-Clinical Trials",
+    "url": "https://pitchbook.com/profiles/company/343743-31",
+    "pass": 3
+   },
+   {
+    "label": "Total funding",
+    "value": "$30,000,000",
+    "url": "https://prospeo.io/c/ochre-bio-revenue",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$198,000",
+    "url": "https://prospeo.io/c/ochre-bio-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Oxford, England, United Kingdom",
+    "url": "https://prospeo.io/c/ochre-bio-revenue",
+    "pass": 3
+   },
+   {
+    "label": "HQ",
+    "value": "Oxford, United Kingdom",
+    "url": "https://startupintros.com/orgs/ochre-bio",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2019",
+    "url": "https://prospeo.io/c/ochre-bio-revenue",
+    "pass": 3
+   },
+   {
+    "label": "Founded",
+    "value": "Founded：2019",
+    "url": "https://startupintros.com/orgs/ochre-bio",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "“Ochre’s platform provides GSK with foundational data to create AI models allowing us to better understand liver function and disease for the development of novel medicines.”",
+    "url": "https://www.ochre-bio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Vice President and Head, Gastrointestinal and Inflammation Therapeutic Area Unit, Takeda. Ochre Bio Board Observer",
+    "url": "https://www.ochre-bio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pro Vice Chancellor for Innovation, Oxford University",
+    "url": "https://www.ochre-bio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Liver disease is the third leading cause of premature death.”",
+    "url": "https://www.ochre-bio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We’ve invested over $20m to build the most comprehensive human liver data sets. By integrating proprietary gene perturbation atlases with patient disease atlases, we make causal predictions about new drug targets.",
+    "url": "https://www.ochre-bio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "By combining AI with human validation models such as perfused livers, diseased tissue slices and primary cells, we model biological complexity at scale.",
+    "url": "https://www.ochre-bio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We make our own RNA therapies in house, reducing R&D cycle times from years to weeks. We believe having a strong RNA modality focus improves our chances of clinical success.",
+    "url": "https://www.ochre-bio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Development Candidate Selection",
+    "url": "https://www.ochre-bio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Development Candidate",
+    "url": "https://www.ochre-bio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Lead, Senior Programme Management",
+    "url": "https://www.ochre-bio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Principal Scientist I",
+    "url": "https://www.ochre-bio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "April 22, 2024",
+    "url": "https://www.ochre-bio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "First Approval Ctry. / Loc.",
+    "url": "https://synapse.patsnap.com/organization/77d1256446a0b0e8acef6ae52d51ba94",
+    "pass": 3
+   },
+   {
+    "quote": "BioASQ Synergy: a dialogue between question-answering systems and biomedical experts for promoting COVID-19 research",
+    "url": "https://synapse.patsnap.com/organization/77d1256446a0b0e8acef6ae52d51ba94",
+    "pass": 3
+   },
+   {
+    "quote": "Katsimpras, Georgios",
+    "url": "https://synapse.patsnap.com/organization/77d1256446a0b0e8acef6ae52d51ba94",
+    "pass": 3
+   },
+   {
+    "quote": "This article presents the novel BioASQ Synergy research process which aims to facilitate the interaction between biomedical experts and automated question-answering systems.",
+    "url": "https://synapse.patsnap.com/organization/77d1256446a0b0e8acef6ae52d51ba94",
+    "pass": 3
+   },
+   {
+    "quote": "The proposed research allows systems to provide answers to emerging questions, which in turn are assessed by experts. The assessment of the experts is fed back to the systems, together with new questions. With this iteration, we aim to facilitate the incremental understanding of a developing problem and contribute to solution discovery.",
+    "url": "https://synapse.patsnap.com/organization/77d1256446a0b0e8acef6ae52d51ba94",
+    "pass": 3
+   },
+   {
+    "quote": "The results suggest that the proposed approach can assist researchers to navigate available resources. The experts seem to be very satisfied with the quality of the ideal answers provided by the systems, suggesting that such systems are already useful in answering open research questions.",
+    "url": "https://synapse.patsnap.com/organization/77d1256446a0b0e8acef6ae52d51ba94",
+    "pass": 3
+   },
+   {
+    "quote": "BioASQ Synergy aspires to provide a tool that gives the experts easy and personalized access to the latest findings in a fast-growing corpus of material.",
+    "url": "https://synapse.patsnap.com/organization/77d1256446a0b0e8acef6ae52d51ba94",
+    "pass": 3
+   },
+   {
+    "quote": "In this article, we envisioned BioASQ Synergy as a continuous dialogue between experts and systems to issue open questions. We ran an initial proof-of-concept of the approach, in order to evaluate its usefulness, both from the side of the experts, as well as from the side of the participating systems.",
+    "url": "https://synapse.patsnap.com/organization/77d1256446a0b0e8acef6ae52d51ba94",
+    "pass": 3
+   },
+   {
+    "quote": "P.027: Utilisation of livers donated after circulatory death (DCD) for transplantation – a large cohort study evaluating pre-retrieval biochemical characteristics and transplant outcomes.",
+    "url": "https://synapse.patsnap.com/organization/77d1256446a0b0e8acef6ae52d51ba94",
+    "pass": 3
+   },
+   {
+    "quote": "Comprehensive interrogation of gene lists from genome-scale cancer screens with oncoEnrichR.",
+    "url": "https://synapse.patsnap.com/organization/77d1256446a0b0e8acef6ae52d51ba94",
+    "pass": 3
+   },
+   {
+    "quote": "Lexicon's president to step down as decision date looms; Sarepta welcomes Lilly, GSK vet to board",
+    "url": "https://synapse.patsnap.com/organization/77d1256446a0b0e8acef6ae52d51ba94",
+    "pass": 3
+   },
+   {
+    "quote": "is still undergoing a major makeover as president and COO",
+    "url": "https://synapse.patsnap.com/organization/77d1256446a0b0e8acef6ae52d51ba94",
+    "pass": 3
+   },
+   {
+    "quote": "has already been approved",
+    "url": "https://synapse.patsnap.com/organization/77d1256446a0b0e8acef6ae52d51ba94",
+    "pass": 3
+   },
+   {
+    "quote": "about 75 people in its sales and commercial teams in August “to right-size our promotional efforts around Inpefa for heart failure and reallocate resources to prepare for our potential launch” in type 1 diabetes and chronic kidney disease, CEO",
+    "url": "https://synapse.patsnap.com/organization/77d1256446a0b0e8acef6ae52d51ba94",
+    "pass": 3
+   },
+   {
+    "quote": "in 2009 as president, North America pharmaceuticals until her retirement in 2015. She’s also a board member at",
+    "url": "https://synapse.patsnap.com/organization/77d1256446a0b0e8acef6ae52d51ba94",
+    "pass": 3
+   },
+   {
+    "quote": "of Kyverna have taken a precipitous fall since",
+    "url": "https://synapse.patsnap.com/organization/77d1256446a0b0e8acef6ae52d51ba94",
+    "pass": 3
+   },
+   {
+    "quote": "has been promoted to CEO of",
+    "url": "https://synapse.patsnap.com/organization/77d1256446a0b0e8acef6ae52d51ba94",
+    "pass": 3
+   },
+   {
+    "quote": "to its Series A — bringing its total to $141 million. Sambashivan was a project team lead at",
+    "url": "https://synapse.patsnap.com/organization/77d1256446a0b0e8acef6ae52d51ba94",
+    "pass": 3
+   },
+   {
+    "quote": "Precision BioSciences",
+    "url": "https://synapse.patsnap.com/organization/77d1256446a0b0e8acef6ae52d51ba94",
+    "pass": 3
+   },
+   {
+    "quote": "as CEO in 2021. Kane’s LinkedIn page indicates that he left Tune in April, a year after",
+    "url": "https://synapse.patsnap.com/organization/77d1256446a0b0e8acef6ae52d51ba94",
+    "pass": 3
+   },
+   {
+    "quote": "Prometheus Biosciences",
+    "url": "https://synapse.patsnap.com/organization/77d1256446a0b0e8acef6ae52d51ba94",
+    "pass": 3
+   },
+   {
+    "quote": "for 15 years. After selling Prometheus and its inflammatory bowel disease drug to",
+    "url": "https://synapse.patsnap.com/organization/77d1256446a0b0e8acef6ae52d51ba94",
+    "pass": 3
+   },
+   {
+    "quote": "in March, one of the largest private financing rounds of 2024.",
+    "url": "https://synapse.patsnap.com/organization/77d1256446a0b0e8acef6ae52d51ba94",
+    "pass": 3
+   },
+   {
+    "quote": ". Structure’s stock price soared in June",
+    "url": "https://synapse.patsnap.com/organization/77d1256446a0b0e8acef6ae52d51ba94",
+    "pass": 3
+   },
+   {
+    "quote": "have propelled Crinetics to an NDA filing “later this year” and “an expected market launch in 2025,” CEO",
+    "url": "https://synapse.patsnap.com/organization/77d1256446a0b0e8acef6ae52d51ba94",
+    "pass": 3
+   },
+   {
+    "quote": "How Ochre Bio automated a manual image processing workflow with Nextflow",
+    "url": "https://www.casestudies.com/customer/ochre-bio",
+    "pass": 3
+   },
+   {
+    "quote": "Code Ocean Case Study: Ochre Bio – How Ochre Bio automated a manual image processing workflow with Nextflow | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/code-ocean/case-study/how-ochre-bio-automated-a-manual-image-processing-workflow-with-nextflow",
+    "pass": 3
+   },
+   {
+    "quote": "How Ochre Bio automated a manual image processing workflow with Nextflow",
+    "url": "https://www.casestudies.com/company/code-ocean/case-study/how-ochre-bio-automated-a-manual-image-processing-workflow-with-nextflow",
+    "pass": 3
+   },
+   {
+    "quote": "Ochre Bio 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/343743-31",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/343743-31",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/343743-31",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/343743-31",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/343743-31",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/343743-31",
+    "pass": 3
+   },
+   {
+    "quote": "Ochre Bio’s primary industry is Drug Discovery.",
+    "url": "https://pitchbook.com/profiles/company/343743-31",
+    "pass": 3
+   },
+   {
+    "quote": "Is Ochre Bio a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/343743-31",
+    "pass": 3
+   },
+   {
+    "quote": "Ochre Bio is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/343743-31",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/343743-31",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/343743-31",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/343743-31",
+    "pass": 3
+   },
+   {
+    "quote": "Ochre Bio is a biotechnology company developing RNA therapies for chronic liver diseases. Using a combination of genomic deep phenotyping, precision RNA medicine, and testing in live human donor livers, Ochre is developing therapies for important liver health challenges, from increasing donor liver supply to reducing cirrhosis complications. To learn more, please visit www.ochre-bio.com.",
+    "url": "https://prospeo.io/c/ochre-bio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View contact profiles from",
+    "url": "https://prospeo.io/c/ochre-bio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Programming languages",
+    "url": "https://prospeo.io/c/ochre-bio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "WPP - Wim Pel Productions",
+    "url": "https://prospeo.io/c/ochre-bio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Ochre Bio has approximately",
+    "url": "https://prospeo.io/c/ochre-bio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/ochre-bio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/ochre-bio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Get Targeted Leads for free",
+    "url": "https://prospeo.io/c/ochre-bio-revenue",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Ochre exists to end the need for liver transplants.",
+    "url": "https://www.ochre-bio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "1.5m people globally die of liver disease. For the vast majority of these, the only curative treatment option is a liver transplant. With just over 40k transplants done globally annually, it’s a medical lottery. This is what Ochre exists to change.",
+    "url": "https://www.ochre-bio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "P.027: Utilisation of livers donated after circulatory death (DCD) for transplantation – a large cohort study evaluating pre-retrieval biochemical characteristics and transplant outcomes.",
+    "url": "https://synapse.patsnap.com/organization/77d1256446a0b0e8acef6ae52d51ba94",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories about Software and Services used by Ochre Bio",
+    "url": "https://www.casestudies.com/customer/ochre-bio",
+    "pass": 3
+   },
+   {
+    "quote": "Code Ocean Case Study: Ochre Bio – How Ochre Bio automated a manual image processing workflow with Nextflow | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/code-ocean/case-study/how-ochre-bio-automated-a-manual-image-processing-workflow-with-nextflow",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Ochre Bio used Code Ocean",
+    "url": "https://www.casestudies.com/company/code-ocean/case-study/how-ochre-bio-automated-a-manual-image-processing-workflow-with-nextflow",
+    "pass": 3
+   },
+   {
+    "quote": "Open case study document...",
+    "url": "https://www.casestudies.com/company/code-ocean/case-study/how-ochre-bio-automated-a-manual-image-processing-workflow-with-nextflow",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/code-ocean/case-study/how-ochre-bio-automated-a-manual-image-processing-workflow-with-nextflow",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "contact@ochre-bio.com",
+    "url": "https://www.ochre-bio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "contact@ochre-bio.com",
+    "url": "https://www.ochre-bio.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us: phs@patsnap.com",
+    "url": "https://synapse.patsnap.com/organization/77d1256446a0b0e8acef6ae52d51ba94",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/343743-31",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/ochre-bio-revenue",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Huscarlは、企業の自家保険（セルフインシュアランス）および自家保険子会社（キャプティブ）の運用を支援するAIアクチュアリー（保険数理）プラットフォー...",
+    "url": "https://www.firstcvc.jp/global/ochre-bio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Metriportは、米国の医療データを統合・標準化し、医療従事者や臨床AIエージェントにリアルタイムで提供するオープンソースの医療データインフラ企業であ...",
+    "url": "https://www.firstcvc.jp/global/ochre-bio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Farre-Maduell, Eulalia",
+    "url": "https://synapse.patsnap.com/organization/77d1256446a0b0e8acef6ae52d51ba94",
+    "pass": 3
+   },
+   {
+    "quote": "its $319 million IPO",
+    "url": "https://synapse.patsnap.com/organization/77d1256446a0b0e8acef6ae52d51ba94",
+    "pass": 3
+   },
+   {
+    "quote": "Arrowhead Pharmaceuticals",
+    "url": "https://synapse.patsnap.com/organization/77d1256446a0b0e8acef6ae52d51ba94",
+    "pass": 3
+   },
+   {
+    "quote": "are trying to flip the narrative. This week, GSK alum",
+    "url": "https://synapse.patsnap.com/organization/77d1256446a0b0e8acef6ae52d51ba94",
+    "pass": 3
+   },
+   {
+    "quote": "as VP, regulatory affairs. Mullins joins the team after gigs at Arrowhead Pharmaceuticals and",
+    "url": "https://synapse.patsnap.com/organization/77d1256446a0b0e8acef6ae52d51ba94",
+    "pass": 3
+   },
+   {
+    "quote": "to develop an Alzheimer’s drug with Johnson & Johnson and Pfizer (via its acquisition of Wyeth).",
+    "url": "https://synapse.patsnap.com/organization/77d1256446a0b0e8acef6ae52d51ba94",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/343743-31",
+    "pass": 3
+   },
+   {
+    "quote": "Ochre Bio has 50 total employees.",
+    "url": "https://pitchbook.com/profiles/company/343743-31",
+    "pass": 3
+   },
+   {
+    "quote": "What is Ochre Bio’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/343743-31",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Ochre Bio is",
+    "url": "https://pitchbook.com/profiles/company/343743-31",
+    "pass": 3
+   },
+   {
+    "quote": "Ochre Bio Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/ochre-bio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Ochre Bio",
+    "url": "https://prospeo.io/c/ochre-bio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/ochre-bio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/ochre-bio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/ochre-bio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Ochre Bio?",
+    "url": "https://prospeo.io/c/ochre-bio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Ochre Bio generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/ochre-bio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/ochre-bio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/ochre-bio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Ochre Bio have?",
+    "url": "https://prospeo.io/c/ochre-bio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/ochre-bio-revenue",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Ochre Bio — We’re pleased to introduce Ochre Bio’s Clinical Translation Board, bringing together expertise in hepatology, translational research and drug development as we advance our programs into the clinic.",
+    "url": "https://www.ochre-bio.com/",
+    "pass": 3
+   },
+   {
+    "quote": "News - Ochre Bio — Jan 27, 2026 · Ochre Bio and GSK complete early research into human liver November 21, 2025 Read more Derisking clinical trials requires a ‘human first’ approach October 23, 2025 Read more",
+    "url": "https://www.ochre-bio.com/news/",
+    "pass": 3
+   },
+   {
+    "quote": "Ochre Bioの資金調達・投資家情報 | 海外スタートアップ | FIRST CVC — Khosla Ventures、Y Combinatorのポートフォリオに掲載される海外スタートアップOchre Bioの企業プロフィール。 Ochre Bioは、2019年に設立された英国オックスフォードに本社を置くバイオテクノロジー企業です。",
+    "url": "https://www.firstcvc.jp/global/ochre-bio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Ochre Bio - LinkedIn 日本 — Using a combination of genomic deep phenotyping, precision RNA medicine, and testing in live human donor livers, Ochre is developing therapies for important liver health challenges, from...",
+    "url": "https://jp.linkedin.com/company/ochre-bio",
+    "pass": 3
+   },
+   {
+    "quote": "英Ochre Bio社、肝臓再生のRNA医薬開発にシリーズAで44億円調達 — Oct 20, 2022 · 【編集部から】日経バイオテク法人版のご利用に関する調査へのご協力お願い トップ ニュース 投資・行政・社会 英Ochre Bio社、肝臓再生のRNA医薬開発にシリーズAで44億円調達",
+    "url": "https://bio.nikkeibp.co.jp/atcl/news/p1/22/10/15/10035/",
+    "pass": 3
+   },
+   {
+    "quote": "Ochre Bio — Built on decades of leading genomics, AI, drug discovery and development experience, Ochre Bio’s teams are our secret sauce built on a foundation of ambitious science.",
+    "url": "https://www.ochre-bio.com/",
+    "pass": 3
+   },
+   {
+    "quote": "News - Ochre Bio — Jan 27, 2026 · Revolutionising Liver Transplants: Can Phenotyping Drive Biotech Transformation in Healthcare?",
+    "url": "https://www.ochre-bio.com/news/",
+    "pass": 3
+   },
+   {
+    "quote": "Ochre Bio | LinkedIn — Ochre Bio is a biotechnology company developing RNA therapies for chronic liver diseases. Using a combination of genomic deep phenotyping, precision RNA medicine, and testing in live human...",
+    "url": "https://jp.linkedin.com/company/ochre-bio",
+    "pass": 3
+   },
+   {
+    "quote": "Ochre Bio Ltd. - Drug pipelines, Patents, Clinical trials ... — May 7, 2025 · Explore Ochre Bio Ltd. with its drug pipeline, therapeutic area, technology platform, 29 news, and 9 literature, Drug:siRNA Therapy (Ochre Bio).",
+    "url": "https://synapse.patsnap.com/organization/77d1256446a0b0e8acef6ae52d51ba94",
+    "pass": 3
+   },
+   {
+    "quote": "Ochre Bio announces Clinical Translation Board to guide ... — Oct 7, 2026 · Ochre Bio, a biotechnology company developing RNA therapeutics for chronic liver disease, has established a Clinical Translation Board (CTB), bringing together leading experts in hepatology, translational research and drug development as the company advances its programs toward the clinic.",
+    "url": "https://www.bioescalator.ox.ac.uk/news-and-events/news/ochre-bio-announces-clinical-translation-board-to-guide-development-of-new-liver-therapies",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How Ochre Bio Uses Software & Services — Explore case studies featuring Ochre Bio as the customer — learn how vendors and partners helped Ochre Bio solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/ochre-bio",
+    "pass": 3
+   },
+   {
+    "quote": "Code Ocean Case Study: Ochre Bio – How Ochre Bio automated a ... — Ochre Bio (Biotechnology) partnered with Code Ocean (Computer Software) to solve key challenges. \"How Ochre Bio automated a manual image processing workflow with Nextflow\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/code-ocean/case-study/how-ochre-bio-automated-a-manual-image-processing-workflow-with-nextflow",
+    "pass": 3
+   },
+   {
+    "quote": "Ochre Bio — By integrating proprietary gene perturbation atlases with patient disease atlases, we make causal predictions about new drug targets. By combining AI with human validation models such as perfused livers, diseased tissue slices and primary cells, we model biological complexity at scale.",
+    "url": "https://www.ochre-bio.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Ochre Bio | Code Ocean — Ochre Bio achieved a 10x improvement in image processing productivity, visibility, and access for global teams. Read and download the case study.",
+    "url": "https://codeocean.com/case-studies/ochre-bio",
+    "pass": 3
+   },
+   {
+    "quote": "Ochre Bio 2026 Company Profile: Valuation, Funding ...Ochre Bio Revenue, Funding & Valuation - prospeo.ioOchre Bio Information - RocketReachOchre Bio: Funding, Team & Investors | Startup IntrosOchre Bio – Valuation, Revenue & Market Scope – 2026Ochre Bio - Overview, News & Similar companies | ZoomInfo.comOchre Bio Revenue 2024: $9.2M Est. - getlatka.com — Information on valuation, funding, cap tab",
+    "url": "https://pitchbook.com/profiles/company/343743-31",
+    "pass": 3
+   },
+   {
+    "quote": "Ochre Bio Revenue, Funding & Valuation - prospeo.io — Ochre Bio has revenue of $13,200,000, estimated valuation of $42,300,000, $30,000,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/ochre-bio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Ochre Bio Information - RocketReachOchre Bio: Funding, Team & Investors | Startup IntrosOchre Bio – Valuation, Revenue & Market Scope – 2026Ochre Bio - Overview, News & Similar companies | ZoomInfo.comOchre Bio Revenue 2024: $9.2M Est. - getlatka.com — Ochre Bio is a Biotechnology Research, Biotechnology, and Pharmaceuticals company located in Oxford, England with $7.1 million in revenue and 59 em",
+    "url": "https://rocketreach.co/ochre-bio-profile_b437f3e9c1f376e6",
+    "pass": 3
+   },
+   {
+    "quote": "Ochre Bio: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Ochre Bio has raised $40.0M across 2 funding rounds. Most recently, it raised $30.0M Series A in October 2022. Key people at Ochre Bio. Ochre Bio is a biotechnology company pioneering RNA medicines for chronic liver diseases using a unique human-first approach.",
+    "url": "https://startupintros.com/orgs/ochre-bio",
+    "pass": 3
+   },
+   {
+    "quote": "Ochre Bio – Valuation, Revenue & Market Scope – 2026 — Discover Ochre Bio's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/ochre-bio",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Ochre Bio (@OchreBio) / Posts / X Aug 28, 2020 · We’re revisiting CEO @QuinWills on @Citeline In Vivo podcast, where he spoke with David Wild about Ochre’s approach to liver disease. From testing RNA therapies in perfused human livers to why starting with human biology matters.",
+    "url": "https://x.com/OchreBio",
+    "pass": 3
+   },
+   {
+    "quote": "San Francisco Biotechnology Network on X: \"SFBN Feed: Ochre ... Apr 6, 2023 · San Francisco Biotechnology Network on X: \"SFBN Feed: Ochre Bio Strengthens Leadership Team and Board of Directors with Liver Disease Translational Expertise: OXFORD, England-- (BUSINESS WIRE)--Ochre Bio, an innovator in chronic liver disease ...",
+    "url": "https://x.com/i/status/1643781685148778499",
+    "pass": 3
+   },
+   {
+    "quote": "Labiotech.eu (@Labiotech_eu) / X Today I am welcoming two guests: Quin Wills, CEO of Ochre Bio, a biotech developing RNA therapies for chronic liver disease using AI models, and Stéphane Barges, CEO of Lexogen, an RNA transcriptom...",
+    "url": "https://x.com/Labiotech_eu",
+    "pass": 3
+   },
+   {
+    "quote": "Ann Ubis, the Ochre Ombré on X: \"@REFUSERADIO @tamaranss ... 4 days ago · @REFUSERADIO @tamaranss Some answers on my bio test today were “Searching for a man with six fingers on his right hand” and “Ƭ̵̬̊” (the symbol for the artist formerly known as Prince)",
+    "url": "https://x.com/An00bis0480/status/2118299161405858217",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Ochre Bio - LinkedIn Ochre Bio | 12,141 followers on LinkedIn. | Ochre Bio is a biotechnology company developing RNA therapies for chronic liver diseases.",
+    "url": "https://www.linkedin.com/company/ochre-bio",
+    "pass": 3
+   },
+   {
+    "quote": "Ochre Bio - LinkedIn Ochre Bio is a biotechnology company developing RNA therapies for chronic liver diseases. Using a combination of genomic deep phenotyping, precision RNA medicine, and testing in live human...",
+    "url": "https://tw.linkedin.com/company/ochre-bio",
+    "pass": 3
+   },
+   {
+    "quote": "Owen Reilly - Scientist at Ochre Bio | LinkedInQuin Wills - Ochre Bio | LinkedInJack Castle - Chief Business Officer @ Ochre Bio | LinkedInJack O'Meara - Aerska | LinkedInSylvia Zohrabian, Ph.D. - Scientist II @ Ochre Bio | Biotech ... Scientist at Ochre Bio · Dedicated and driven by my passion to make a lasting difference in the world through the use of chemistry and biology · Experience: Ochre B",
+    "url": "https://www.linkedin.com/in/owenreilly9225",
+    "pass": 3
+   },
+   {
+    "quote": "Quin Wills - Ochre Bio | LinkedInJack Castle - Chief Business Officer @ Ochre Bio | LinkedInJack O'Meara - Aerska | LinkedInSylvia Zohrabian, Ph.D. - Scientist II @ Ochre Bio | Biotech ... Biotech builder. Drug developer. MD/PhD with few extra degrees in genomics… · Experience: Ochre Bio · Education: University of Oxford · Location: United Kingdom · 500+ connections on... Using a combination of ge",
+    "url": "https://uk.linkedin.com/in/quinwills",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Ochre Bio - Facebook Ochre Bio - Facebook ... Ochre Bio",
+    "url": "https://www.facebook.com/Ochre-Bio-113740434946321/",
+    "pass": 3
+   },
+   {
+    "quote": "Ochre Bio is at the forefront of... - Drug Target Review ... Nov 29, 2023 · Ochre Bio is at the forefront of therapeutic innovation, focusing primarily on liver diseases. Their core mission revolves around the development of RNA therapies, primarily in the preclinical stage, using a 'human-first' approach.",
+    "url": "https://www.facebook.com/DrugTargetReview/posts/832157058916985/",
+    "pass": 3
+   },
+   {
+    "quote": "Ochre Bio is on a mission to revolutionize liver disease ...Ochre Bio Client Testimonial | We wanted to shed light on our ...In his laboratory with Ochre Bio, in New York City, Quin ...News Medical - In this interview, we speak with Jack...EPM Scientific - Ochre Bio have revealed that they will be ... Apr 3, 2024 · Ochre Bio is on a mission to revolutionize liver disease treatment. Co-Founder + CE",
+    "url": "https://www.facebook.com/NYSE/videos/floor-talk-with-jack-omeara-co-founder-ceo-of-ochre-bio/273679515814816/",
+    "pass": 3
+   },
+   {
+    "quote": "Ochre Bio Client Testimonial | We wanted to shed light on our ... When presented with the challenge of visualizing Ochre Bio's phenotyping technology, we knew we had to accept it! We are pleased to have received such positive feedback.",
+    "url": "https://www.facebook.com/3dforscience/videos/ochre-bio-client-testimonial/784807786694598/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.ochre-bio.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ochre-bio.com/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ochre-bio.com/careers/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.firstcvc.jp/global/ochre-bio.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/ochre-bio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/ochre-bio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://synapse.patsnap.com/organization/77d1256446a0b0e8acef6ae52d51ba94",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/ochre-bio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/code-ocean/case-study/how-ochre-bio-automated-a-manual-image-processing-workflow-with-nextflow",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/343743-31",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prospeo.io/c/ochre-bio-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rocketreach.co/ochre-bio-profile_b437f3e9c1f376e6",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/ochre-bio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/OchreBio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/i/status/1643781685148778499",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Labiotech_eu",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/An00bis0480/status/2118299161405858217",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/ochre-bio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tw.linkedin.com/company/ochre-bio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/owenreilly9225",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/quinwills",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Ochre-Bio-113740434946321/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/DrugTargetReview/posts/832157058916985/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/NYSE/videos/floor-talk-with-jack-omeara-co-founder-ceo-of-ochre-bio/273679515814816/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/3dforscience/videos/ochre-bio-client-testimonial/784807786694598/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/OchreBio",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Ochre Bio 日本 導入",
+   "results": [
+    "https://www.ochre-bio.com/",
+    "https://www.ochre-bio.com/news/",
+    "https://www.firstcvc.jp/global/ochre-bio.com",
+    "https://jp.linkedin.com/company/ochre-bio",
+    "https://bio.nikkeibp.co.jp/atcl/news/p1/22/10/15/10035/",
+    "https://www.boehringer-ingelheim.com/tw/about-us/corporate-profile/guanyubailingjiayingehanxieshouhezuo-0",
+    "https://prtimes.jp/main/html/rd/p/000000040.000111332.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ochre Bio 代理店 OR 総代理店 OR 日本法人",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Ochre Bio Japan",
+   "results": [
+    "https://www.ochre-bio.com/",
+    "https://www.ochre-bio.com/news/",
+    "https://jp.linkedin.com/company/ochre-bio",
+    "https://synapse.patsnap.com/organization/77d1256446a0b0e8acef6ae52d51ba94",
+    "https://www.bioescalator.ox.ac.uk/news-and-events/news/ochre-bio-announces-clinical-translation-board-to-guide-development-of-new-liver-therapies",
+    "https://rocketreach.co/ochre-bio-profile_b437f3e9c1f376e6",
+    "https://www.fiercebiotech.com/biotech/gsk-signs-ai-pact-ochre-pinpoint-source-liver-diseases"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ochre Bio manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/customer/ochre-bio",
+    "https://www.casestudies.com/company/code-ocean/case-study/how-ochre-bio-automated-a-manual-image-processing-workflow-with-nextflow",
+    "https://www.ochre-bio.com/",
+    "https://www.ochre-bio.com/news/",
+    "https://codeocean.com/case-studies/ochre-bio",
+    "https://codeocean.com/hubfs/Resources+-+NB+2024/Case+studies/Ochre-Bio-case-study.pdf",
+    "https://www.lexogen.com/wp-content/uploads/2025/12/300AN904V0100_Case-Study_AI-driven-Liver-Drug-Discovery_Ochre-Bio_2025-12-16.pdf"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ochre Bio white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://www.seoreseller.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.nutanix.com/partners/resellers",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ochre Bio founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/343743-31",
+    "https://prospeo.io/c/ochre-bio-revenue",
+    "https://rocketreach.co/ochre-bio-profile_b437f3e9c1f376e6",
+    "https://startupintros.com/orgs/ochre-bio",
+    "https://compworth.com/company/ochre-bio",
+    "https://www.zoominfo.com/c/ochre-bio-ltd/542717974",
+    "https://getlatka.com/companies/ochre-bio.com"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Ochre Bio",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/lively_pika8336/n/n5adf36c23e7b",
+    "https://note.com/excellent_slow/n/n5ac6e6f697ed?hl=en",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/j1n1/n/n0854692e50e6",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/kangokenkyu/n/nf72c6aa9f712"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Ochre Bio",
+   "results": [
+    "https://x.com/OchreBio",
+    "https://x.com/i/status/1643781685148778499",
+    "https://x.com/Labiotech_eu",
+    "https://x.com/An00bis0480/status/2118299161405858217",
+    "https://x.com/jackcastle",
+    "https://x.com/RoryCunningham_",
+    "https://x.com/hoxtonventures"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Ochre Bio",
+   "results": [
+    "https://www.linkedin.com/company/ochre-bio",
+    "https://tw.linkedin.com/company/ochre-bio",
+    "https://www.linkedin.com/in/owenreilly9225",
+    "https://uk.linkedin.com/in/quinwills",
+    "https://uk.linkedin.com/in/jackcastle",
+    "https://ie.linkedin.com/in/jackomeara",
+    "https://www.linkedin.com/in/sylvia-zohrabian-ph-d-b1438a79"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Ochre Bio",
+   "results": [
+    "https://www.facebook.com/Ochre-Bio-113740434946321/",
+    "https://www.facebook.com/DrugTargetReview/posts/832157058916985/",
+    "https://www.facebook.com/NYSE/videos/floor-talk-with-jack-omeara-co-founder-ceo-of-ochre-bio/273679515814816/",
+    "https://www.facebook.com/3dforscience/videos/ochre-bio-client-testimonial/784807786694598/",
+    "https://www.facebook.com/timesandsundaytimes/posts/in-his-laboratory-with-ochre-bio-in-new-york-city-quin-wills-has-set-about-chang/1487833096707415/",
+    "https://www.facebook.com/EPMscientific/posts/ochre-bio-have-revealed-that-they-will-be-partnering-with-germanys-boehringer-in/934491488680739/",
+    "https://www.facebook.com/NewsMedical/posts/in-this-interview-we-speak-with-jack-omeara-co-founder-and-ceo-of-ochre-bio-a-pi/946770146806033/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ochre Bio note 社長",
+   "results": [
+    "https://www.ochre-bio.com/",
+    "https://oxfordsp.com/news/442/ochre_bio_appoints_quin_wills_as_ceo",
+    "https://insights.citeline.com/companies/ochre-bio-ltd/",
+    "https://www.ochre-bio.com/news/",
+    "https://thecurrency.news/articles/148423/how-ochre-bio-signed-a-deal-worth-up-to-1-3bn-with-a-german-pharma-giant/",
+    "https://www.bio-itworld.com/pressreleases/2025/07/01/dr-quin-wills-appointed-as-ochre-bio-ceo",
+    "https://www.cbinsights.com/company/ochre-bio/people"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ochre Bio X 投稿",
+   "results": [
+    "https://x.com/OchreBio",
+    "https://www.ochre-bio.com/",
+    "https://www.ochre-bio.com/news/",
+    "https://www.ochre-bio.com/?page_id=1683",
+    "https://www.boehringer-ingelheim.com/tw/about-us/corporate-profile/guanyubailingjiayingehanxieshouhezuo-0",
+    "https://x.com/sq39bio2/status/2119057262702649411",
+    "https://x.com/ox84xo/status/2119075097529204791"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部27頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部27頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部27頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部27頁・検索12回）"
+ }
+}

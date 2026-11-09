@@ -1,0 +1,511 @@
+{
+ "name": "Upside Parts LLC — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:ceramics-material-manufacturer",
+ "researched_at": "2026-11-09T22:52:37.153898+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   },
+   {
+    "quote": "sales@upsideparts.com",
+    "url": "https://www.voxelmatters.directory/company/upside-parts-llc/",
+    "pass": 3
+   }
+  ],
+  "代理店網": [
+   {
+    "quote": "Bioprinter/Bioink Reseller",
+    "url": "https://www.voxelmatters.directory/company/upside-parts-llc/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.voxelmatters.directory/company/upside-parts-llc/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Upside Parts LLC — VoxelMatters - The largest database of ... — Upside Parts LLC is an innovative 3D printing company based in Massachusetts, USA. With over 12 years of expertise in the industry, we deliver high-quality solutions tailored to our clients’ needs. We offer a wide range of 3D printing technologies, including FDM, SLA, and SLS, and work with an extensive selection of over 50 materials ",
+    "url": "https://www.voxelmatters.directory/company/upside-parts-llc/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookUpside Parts - 3D Printing Service | Salem MA - FacebookVoxelMatters - Bring your most complex AM parts, Theta...VoxelMatters - Toy Rescue: over 100 spare toy parts... - Facebook3DPrint.com - In #3DPrinting News Briefs, 3dpbm has... | FacebookUpside Construction LLC - FacebookFacebook Unlock the Future of Metal Additive Manufacturing with VoxelMatters! VoxelMatters Research ",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.3dnatives.com/en/3d-printing-directory/upside-parts-llc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/the-upside-down-of-polymer-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.upsideparts.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/upside-parts-llc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://osoyoo.com/ja/2018/09/20/microbit-basic-tutorial-9-banana-keyboard/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/the-upside-down-of-polymer-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelfactory.com/?srsltid=AYCX9vLHAjrARtp-zNGWopHjigOEU56HENhB69oOjJBjxXRP3w1TYSKB",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partsupply.3dexperience.3ds.com/ja/welcome",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.upsideparts.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://voxelpla.com/?srsltid=AYCX9vJ1fk6hPRrt0sUvepiClR08wPaE2x4bYso0I3NgmcZ8w6hEej7o",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://voxeldental.com/collections/dental-3d-printing-parts-accessories?srsltid=AYCX9vKUcFRY-s268_PiZ4rQmXksAkLa2J5qdUAuRHD3otyV4o3h4BBo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/3d-printing-directory/upside-parts-llc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.upsideparts.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/3d-printing-directory/upside-parts-llc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.upsideparts.com/3d-printing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E7%88%BD%E9%A6%991st%E5%86%99%E7%9C%9F%E9%9B%86-%E3%82%A6%E3%83%AB%E3%83%88%E3%83%A9%E3%83%A1%E3%83%86%E3%82%AA%E3%83%A9-%E7%88%BD%E9%A6%99/dp/4198663092",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/Mila-Owen-%E3%83%9F%E3%83%A9%E3%82%AA%E3%83%BC%E3%82%A6%E3%82%A7%E3%83%B3-09WND261014-%E3%82%A2%E3%83%B3%E3%82%B5%E3%83%B3%E3%83%96%E3%83%AB%E3%83%9A%E3%83%97%E3%83%A9%E3%83%A0%E3%82%B7%E3%82%A2%E3%83%BC%E3%83%9D%E3%83%AD%E3%83%8B%E3%83%83%E3%83%88%E3%82%AB%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AC%E3%83%B309WND261014%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B9/dp/B0GBMWYFSN",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/SNIDEL-%E3%82%B9%E3%83%8A%E3%82%A4%E3%83%87%E3%83%AB-SWFJ261071-%E3%83%87%E3%82%BF%E3%83%83%E3%83%81%E3%83%A3%E3%83%96%E3%83%AB%E3%83%95%E3%83%AA%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%84%E3%82%A4%E3%83%BC%E3%83%89%E3%82%B8%E3%83%A3%E3%82%B1%E3%83%83%E3%83%88SWFJ261071%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B9/dp/B0GC9M4NY7",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E6%A1%90%E5%8E%9F%E7%BE%8E%E6%9C%88-%EF%BD%93%EF%BD%97%EF%BD%85%EF%BD%85%EF%BD%94-%EF%BD%87%EF%BD%89%EF%BD%92%EF%BD%8C-%EF%BC%A6%EF%BC%B2%EF%BC%A9%EF%BC%A4%EF%BC%A1%EF%BC%B9%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%86%99%E7%9C%9F%E9%9B%86-%EF%BC%B4%EF%BD%81%EF%BD%8B%EF%BD%85%EF%BD%8F-%EF%BC%A4%EF%BD%85%EF%BD%83%EF%BC%8E-ebook/dp/B0HLDS675M",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/g/01136007/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00369421/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/02601699/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00161207/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/upside-parts-llc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/upsideparts",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://companydata.com/company-revenue-lookup/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://builtin.com/company/upside-parts-llc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Upside Parts LLC — VoxelMatters 代理店",
+   "results": [
+    "https://www.3dnatives.com/en/3d-printing-directory/upside-parts-llc/",
+    "https://www.voxelmatters.com/the-upside-down-of-polymer-additive-manufacturing/",
+    "https://www.upsideparts.com/",
+    "https://www.voxelmatters.directory/",
+    "https://www.facebook.com/61575059851900/mentions/",
+    "https://www.unite.ai/author/romanarkhangelskiy/",
+    "https://www.voxelmatters.com/category/3d-printing-services/am-factories/",
+    "https://www.youtube.com/watch?v=mbBHdyR31xE",
+    "https://www.voxeljet.com/3d-parts-on-demand/",
+    "https://www.voxelmatters.directory/company/upside-parts-llc/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "Upside Parts LLC — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://www.voxelmatters.directory/company/upside-parts-llc/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://osoyoo.com/ja/2018/09/20/microbit-basic-tutorial-9-banana-keyboard/",
+    "https://osoyoo.com/ja/2018/09/20/microbit-basic-tutorial-3-love-meter/",
+    "https://octopart.com/ja",
+    "https://www.jacquard-japan.com/en/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Upside Parts LLC — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.voxelmatters.com/the-upside-down-of-polymer-additive-manufacturing/",
+    "https://www.voxelmatters.com/",
+    "https://www.voxelfactory.com/?srsltid=AYCX9vLHAjrARtp-zNGWopHjigOEU56HENhB69oOjJBjxXRP3w1TYSKB",
+    "https://partsupply.3dexperience.3ds.com/ja/welcome",
+    "https://www.stratasys.co.jp/resources/whitepapers/",
+    "https://3dprinter.co.jp/",
+    "https://www.amazon.co.jp/-/en/Additive-Manufacturing-Products/b?ie=UTF8&node=2500103051",
+    "https://www.youtube.com/watch?v=LuWkAOmrp44",
+    "https://parts.cat.com/ja/catcorp/5P-0743",
+    "https://www.upsideparts.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 22
+  },
+  {
+   "query": "Upside Parts LLC — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.upsideparts.com/",
+    "https://voxelpla.com/?srsltid=AYCX9vJ1fk6hPRrt0sUvepiClR08wPaE2x4bYso0I3NgmcZ8w6hEej7o",
+    "https://voxeldental.com/collections/dental-3d-printing-parts-accessories?srsltid=AYCX9vKUcFRY-s268_PiZ4rQmXksAkLa2J5qdUAuRHD3otyV4o3h4BBo",
+    "https://www.voxelmatters.com/top-products/",
+    "https://www.matterhackers.com/store?srsltid=AYCX9vLggEyYavfQCof62gSkP3Ej77xqLy5nK-IkpK0D8713rXAzhcnu",
+    "https://www.ebay.com/itm/168372583835",
+    "https://www.solidyard.jp/",
+    "https://www.youtube.com/watch?v=XDoInTwupQ0"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Upside Parts LLC — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.3dnatives.com/en/3d-printing-directory/upside-parts-llc/",
+    "https://www.upsideparts.com/",
+    "https://www.voxelmatters.directory/",
+    "https://partners.solize.com/en/manufacturing",
+    "https://www.voxelmatters.com/",
+    "https://www.upnano.com/distributors/",
+    "https://www.exone.com/en/about-us/locations/",
+    "https://www.youtube.com/watch?v=H77H9Xhy3AI",
+    "https://www.voxelmatters.com/category/industry-2/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "Upside Parts LLC — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.3dnatives.com/en/3d-printing-directory/upside-parts-llc/",
+    "https://www.voxelmatters.directory/",
+    "https://www.upsideparts.com/3d-printing",
+    "https://partners.solize.com/en/manufacturing",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.raise3d.com/sales-partners-voice/japan-3d-printer-co-ltd-sales-partner-in-japan/",
+    "https://www.upnano.com/distributors/",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://www.voxelmatters.directory/company/upside-parts-llc/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:amazon.co.jp Upside Parts LLC — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/爽香1st写真集-ウルトラメテオラ-爽香/dp/4198663092",
+    "https://www.amazon.co.jp/Mila-Owen-ミラオーウェン-09WND261014-アンサンブルペプラムシアーポロニットカーディガン09WND261014レディース/dp/B0GBMWYFSN",
+    "https://www.amazon.co.jp/SNIDEL-スナイデル-SWFJ261071-デタッチャブルフリルカラーツイードジャケットSWFJ261071レディース/dp/B0GC9M4NY7",
+    "https://www.amazon.co.jp/桐原美月-ｓｗｅｅｔ-ｇｉｒｌ-ＦＲＩＤＡＹデジタル写真集-Ｔａｋｅｏ-Ｄｅｃ．-ebook/dp/B0HLDS675M",
+    "https://www.amazon.co.jp/b?node=218417329051",
+    "https://www.amazon.co.jp/【特別版】三咲まゆ1st写真『Blossom～ブロッサム～』-三咲まゆ/dp/4813076610",
+    "https://www.amazon.co.jp/美しいキモノ-2026年冬号増刊吉田仁人特別版-ハースト婦人画報社/dp/B0HDC7JPDJ"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Upside Parts LLC — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/g/01136007/",
+    "https://www.monotaro.com/g/00369421/",
+    "https://www.monotaro.com/g/02601699/",
+    "https://www.monotaro.com/g/00161207/",
+    "https://www.monotaro.com/g/00167188/",
+    "https://www.monotaro.com/g/02779452/",
+    "https://www.monotaro.com/g/02377503/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Upside Parts LLC — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.voxelmatters.directory/company/upside-parts-llc/",
+    "https://www.linkedin.com/company/upsideparts",
+    "https://companydata.com/company-revenue-lookup/",
+    "https://builtin.com/company/upside-parts-llc",
+    "https://themanifest.com/company/upside-parts",
+    "https://www.upside.com/blogs/our-company",
+    "https://www.upside.com/about"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Upside Parts LLC — VoxelMatters",
+   "results": [
+    "https://note.com/tag/積読美術館",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/nashinokiyuu/n/n0a96e17802dc",
+    "https://note.com/splatoonweapon/n/n8451b5a079a9",
+    "https://note.com/hatsumuradesu/n/n6c669815ff19",
+    "https://note.com/tori_1980/n/n21037c205ade",
+    "https://note.com/para7mii/n/n036af9e505b2"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Upside Parts LLC — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/upside",
+    "https://x.com/jocelynseip/status/2118260591680983528",
+    "https://x.com/DemocraticWins/status/2117994783016685719",
+    "https://x.com/evadentz/status/2115896420809216184",
+    "https://x.com/abdulbasitaka/status/2115913589441843427",
+    "https://x.com/spaceshark23/status/2117267370959945821"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Upside Parts LLC — VoxelMatters",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com Upside Parts LLC — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/p/Upside-Parts-3D-Printing-Service-61575059851900/",
+    "https://www.facebook.com/VoxelMatters/posts/bring-your-most-complex-am-parts-theta-technologies-will-test-themahead-of-the-u/2083083228530458/",
+    "https://www.facebook.com/VoxelMatters/posts/toy-rescue-over-100-spare-toy-parts-available-for-free-download-for-you-to-3d-pr/1367189393453182/",
+    "https://www.facebook.com/3dprintcom/posts/in-3dprinting-news-briefs-3dpbm-has-rebranded-to-voxelmatters-and-xaba-closed-a-/2229888943849297/",
+    "https://www.facebook.com/p/Upside-Construction-LLC-61581048835878/",
+    "https://www.facebook.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Upside Parts LLC — VoxelMatters note 社長",
+   "results": [
+    "https://www.unite.ai/zh-cn/author/romanarkhangelskiy/",
+    "https://www.linkedin.com/company/upsideparts",
+    "https://www.voxelmatters.directory/company/upside-parts-llc/",
+    "https://www.voxelmatters.com/",
+    "https://www.upsideparts.com/",
+    "https://builtin.com/company/upside-parts-llc",
+    "https://roboticsandautomationnews.com/2026/10/08/robotics-companies-turn-to-rush-3d-printing-as-demand-for-faster-production-grows/105743/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Upside Parts LLC — VoxelMatters X 投稿",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://www.voxelmatters.directory/company/upside-parts-llc/",
+    "https://www.upsideparts.com/",
+    "https://www.voxelmatters.com/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.voxelmatters.com/contribute/",
+    "https://x.com/VoxelMatters/status/2117922086492508517"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）"
+ }
+}

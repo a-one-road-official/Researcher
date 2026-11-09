@@ -1,0 +1,1311 @@
+{
+ "name": "Offerfit",
+ "aliases": [],
+ "context": "旧営業リスト｜Non-AUMS｜リマイン1",
+ "researched_at": "2026-11-09T23:09:22.137076+00:00",
+ "official_url": "https://www.braze.com/product/brazeai/decisioning-studio/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "東京都港区赤坂9-7-1\nミッドタウン・タワー１８階",
+    "url": "https://prtimes.jp/main/html/rd/p/000000131.000066773.html",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2020年07月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000131.000066773.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "For our sixth Global CER, we surveyed over 2,200 marketing leaders and analyzed upwards of 6 billion data points spanning more than 750 brands",
+    "url": "https://www.braze.com/product/brazeai/decisioning-studio",
+    "pass": 1
+   },
+   {
+    "quote": "Supercharge the power of Braze with pre-built partner solutions designed to accelerate success",
+    "url": "https://www.braze.com/product/brazeai/decisioning-studio",
+    "pass": 1
+   },
+   {
+    "quote": "Professional Services",
+    "url": "https://www.braze.com/product/brazeai/decisioning-studio",
+    "pass": 1
+   },
+   {
+    "quote": "Braze Partner Program | Customer Engagement Partnerships",
+    "url": "https://www.braze.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Real relationships, proven results",
+    "url": "https://www.braze.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Join a community that acts as an extension of your team, providing the specialized hands and strategic brains you need to scale without ever hitting the brakes.",
+    "url": "https://www.braze.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "From strategic consulting to seamless technical integrations, Partners provide the specialized knowledge you need to think bigger, scale faster, and stay ahead of the curve.",
+    "url": "https://www.braze.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Avoid unnecessary friction and hit the ground running with pre-built solutions and specialized AI tools available through the AWS and Google Cloud Marketplaces.",
+    "url": "https://www.braze.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Stash drives long-term investing habits with sophisticated, personalized user onboarding",
+    "url": "https://www.braze.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Braze Partners serve as both technical and strategic extensions of the Braze platform, working with teams to navigate their toughest marketing and engagement challenges.",
+    "url": "https://www.braze.com/partners/become-a-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Build a high-growth, profitable Braze practice by partnering with the fastest-growing customer engagement platform in the industry, tapping into a vast, expanding market opportunity.",
+    "url": "https://www.braze.com/partners/become-a-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Get featured in the Braze Partner Directory, and access sponsorship opportunities at Braze flagship events that create high-impact moments with customers, prospects, and internal teams.",
+    "url": "https://www.braze.com/partners/become-a-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Enjoy exclusive early access to product roadmaps, beta versions, and pilot features. Plus, access ready-to-use resources and templates through the Partner Marketing Center.",
+    "url": "https://www.braze.com/partners/become-a-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Level up with Braze Learning to access technical trainings and strategic certifications so you can differentiate your services, drive measurable customer outcomes, and lead the next era of engagement.",
+    "url": "https://www.braze.com/partners/become-a-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Log your leads, sync with your fellow Partners, and start delivering your first service engagements.",
+    "url": "https://www.braze.com/partners/become-a-partner",
+    "pass": 1
+   },
+   {
+    "quote": "We're committed to setting the bar high in customer engagement—through product, performance, strategic customer support, and thought leadership.",
+    "url": "https://www.braze.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Braze creates lasting value for and with our communities through Braze Cares (year-round volunteerism and giving initiatives), grant-making via the Braze for Social Impact Fund (pledging 1% of equity over ten years), and Tech for an Equitable Future (product grants).",
+    "url": "https://www.braze.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Braze supports a global and inclusion culture, where we design our processes and policies to be inclusive, monitor for gaps and identify opportunities where we can invest time and resources into shaping an equitable future for all.",
+    "url": "https://www.braze.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Braze takes an inclusion-first approach and holds the philosophy that Global Inclusion and Opportunity must be built into business processes in order to have lasting and meaningful impact. The future we want to shape is one where people from diverse backgrounds and experiences can thrive and have meaningful careers at Braze.",
+    "url": "https://www.braze.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We’re proud to be a great place to work.",
+    "url": "https://www.braze.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Customer Success Director, Enterprise at Braze",
+    "url": "https://www.braze.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Learn about our process.",
+    "url": "https://www.braze.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Check out the latest press about Braze.",
+    "url": "https://www.braze.com/company/news",
+    "pass": 1
+   },
+   {
+    "quote": "‘Our UI is just way better’: Braze opens campaigns to ChatGPT, Claude, unleashes AI agents for 1-1 decisioning, campaign QA; says prompts alone can’t manage marketing",
+    "url": "https://www.braze.com/company/news",
+    "pass": 1
+   },
+   {
+    "quote": "Bill Magnuson Headshot",
+    "url": "https://www.braze.com/company/news",
+    "pass": 1
+   },
+   {
+    "quote": "Braze expands AI from content creation to campaign operations",
+    "url": "https://www.braze.com/company/news",
+    "pass": 1
+   },
+   {
+    "quote": "Braze Named a Leader in 2026 Gartner® Magic Quadrant™ for Multichannel Marketing Hubs for Fourth Consecutive Year",
+    "url": "https://www.braze.com/company/news",
+    "pass": 1
+   },
+   {
+    "quote": "Explore pricing and packaging options at Braze",
+    "url": "https://www.braze.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Explore pricing and packaging options and get started with Braze",
+    "url": "https://www.braze.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enhanced security features and user provisioning",
+    "url": "https://www.braze.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive AI capabilities",
+    "url": "https://www.braze.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Message Prioritization capabilities",
+    "url": "https://www.braze.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "For forward-thinking enterprises running engagement at massive scale.",
+    "url": "https://www.braze.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Everything in Braze Pro, plus:",
+    "url": "https://www.braze.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-grade orchestration, infrastructure, and governance",
+    "url": "https://www.braze.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "In-App Messages, Banners, Content Cards",
+    "url": "https://www.braze.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing scales with your Monthly Active Users (MAU), the customers who actively interact with your brand across your digital experiences.",
+    "url": "https://www.braze.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Build one unified customer profile",
+    "url": "https://www.braze.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Unify customer data across devices, channels, and touchpoints to maintain a comprehensive customer profile without unnecessary duplication.",
+    "url": "https://www.braze.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Store a complete view of your audience in Braze while aligning spend to active users—so you get full context without paying for dormant profiles.",
+    "url": "https://www.braze.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize your strategy with a flexible credit-based model that works across every channel and certain BrazeAI™ products.",
+    "url": "https://www.braze.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock cross-product agility",
+    "url": "https://www.braze.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Use credits across any combination of email, SMS, in-product messaging, BrazeAI Agent Console™ and more so you can focus your spend where it delivers the strongest results.",
+    "url": "https://www.braze.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Take advantage of our comprehensive support network designed to help brands like yours navigate the world of customer engagement with confidence.",
+    "url": "https://www.braze.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Braze supports companies at every stage of growth including startups launching their first engagement programs, to scaling companies meeting expansive growth, to large global enterprises looking for the leading customer engagement platform.",
+    "url": "https://www.braze.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "What is a Monthly Active User? What is a Profile? Why are they important?",
+    "url": "https://www.braze.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "What products and channels does Action Credits give me access to?",
+    "url": "https://www.braze.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Think of Action Credits as a single, flexible currency for your Braze account. Instead of purchasing fixed quantities for individual products, you buy one pool of credits as part of your contract.",
+    "url": "https://www.braze.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Because all usage draws from the same pool, you can easily shift spend (e.g., from Email to Agent Console) without needing to contract a new product. Credits give you the flexibility to adapt your strategy as your customer needs change and your business strategy evolves.",
+    "url": "https://www.braze.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Braze has comprehensive reporting and billing dashboards to help you monitor performance throughout your contract.",
+    "url": "https://www.braze.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Braze does not offer a free plan at this time. Companies can still explore the platform through trials, startup programs, and other tailored entry plans. Speak to your account manager or contact us for more details.",
+    "url": "https://www.braze.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Reduction in time for the marketing team to stand up a campaign",
+    "url": "https://www.braze.com/solutions/retail-and-ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "New Braze product enhancements help retail marketers move fast and drive ROI",
+    "url": "https://www.braze.com/solutions/retail-and-ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "Braze pulls cross-channel data together across complex consumer journeys to build customer loyalty, increase retention, and ultimately, grow share of wallet.",
+    "url": "https://www.braze.com/solutions/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Uplift on 6 month retention with cross-channel messaging",
+    "url": "https://www.braze.com/solutions/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Activate trusted, real-time insights to add value during critical financial moments. Braze unlocks the potential of your data with AI-driven decisioning that delivers timely, relevant engagement that boosts activation, retention, and servicing outcomes.",
+    "url": "https://www.braze.com/solutions/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "“Emerging technologies like AI, machine learning redefine the customer journey by helping us map and predict every customer's unique nonlinear path. With Braze, we're able to actually see all that insight and then rapidly use it for testing and personalization across all of these customer communication touchpoints.”",
+    "url": "https://www.braze.com/solutions/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Lifecycle Marketing, Remitly",
+    "url": "https://www.braze.com/solutions/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Stash leverages Braze to build trust through personalized onboarding flows.",
+    "url": "https://www.braze.com/solutions/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-grade security and compliance",
+    "url": "https://www.braze.com/solutions/financial-services",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact Us & Locations",
+    "url": "https://www.braze.com/product/brazeai/decisioning-studio",
+    "pass": 1
+   },
+   {
+    "quote": "Increase in email open rate",
+    "url": "https://www.braze.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Use credits across any combination of email, SMS, in-product messaging, BrazeAI Agent Console™ and more so you can focus your spend where it delivers the strongest results.",
+    "url": "https://www.braze.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Because all usage draws from the same pool, you can easily shift spend (e.g., from Email to Agent Console) without needing to contract a new product. Credits give you the flexibility to adapt your strategy as your customer needs change and your business strategy evolves.",
+    "url": "https://www.braze.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Braze does not offer a free plan at this time. Companies can still explore the platform through trials, startup programs, and other tailored entry plans. Speak to your account manager or contact us for more details.",
+    "url": "https://www.braze.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Shoppers don't follow a straight line; they browse, abandon cart, come back, and buy in-store. Braze orchestrates your messaging across email, SMS, push, WhatsApp, and in-app triggered by real behavior so every message lands at the right moment.",
+    "url": "https://www.braze.com/solutions/retail-and-ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "Increase in engagement vs previous email capabilities",
+    "url": "https://www.braze.com/solutions/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Open Rate for Action-Based Emails",
+    "url": "https://www.braze.com/solutions/travel-hospitality",
+    "pass": 1
+   },
+   {
+    "quote": "Increase in Email Clickthrough Rates",
+    "url": "https://www.braze.com/solutions/travel-hospitality",
+    "pass": 1
+   },
+   {
+    "quote": "Every interaction should feel like the next chapter, not a new conversation. Braze connects push, email, in-app, SMS, web, and connected TV so your messaging stays consistent from the couch to the commute.",
+    "url": "https://www.braze.com/solutions/media-entertainment",
+    "pass": 1
+   },
+   {
+    "quote": "U.S. Soccer unifying once-siloed tools into a single fan profile, driving a 43% increase in paid Insider subscriptions and 20.3% higher email open rates.",
+    "url": "https://www.braze.com/solutions/sports",
+    "pass": 1
+   },
+   {
+    "quote": "The best player experiences don't reset with every channel. Braze unifies push, in-app, SMS, email, and web so every interaction builds on the last.",
+    "url": "https://www.braze.com/solutions/gaming",
+    "pass": 1
+   },
+   {
+    "quote": "The personalized onboarding campaign delivered strong results across conversion events and email engagement, which included a 64% increase in email click-through rate and 72% increase in email open rates. Importantly, this led to a 20.34% “FirstDeposit_Started” conversion rate—truly helping users get started on their financial journey.",
+    "url": "https://www.braze.com/customers/stash-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "The Stash team moved quickly and set up the campaign in just three weeks—from ideation to launch. The first step was to determine key drop-off points where personalized communications would be valuable. Then, they built messaging flows that triggered after a defined delay, and carefully curated content across four channels: Email, push notifications, in-app messages, and SMS.",
+    "url": "https://www.braze.com/customers/stash-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Stash experiences a boost in engagement as a result of these new personalized onboarding campaigns. Timely and relevant messaging served as a helpful prompt to continue the user journey. In terms of email engagement, the team saw a",
+    "url": "https://www.braze.com/customers/stash-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "72% increase in email open rate and a 64% increase in email click-through rate.",
+    "url": "https://www.braze.com/customers/stash-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Using email, push, in-app messages, and SMS in coordinated flows ensures users receive the right message through their preferred channel at the optimal time.",
+    "url": "https://www.braze.com/customers/stash-case-study",
+    "pass": 1
+   },
+   {
+    "quote": ", the Stitch team rebuilt this campaign with only six email templates while also increasing the number of product lines supported to 16. The simplicity of the new solution offers the e.l.f. team the ability to experiment and optimize this campaign with agility while also being able to incorporate new product launches into the campaign with ease.",
+    "url": "https://www.braze.com/customers/elf-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Dynamic Yield is an AI-powered Personalization Anywhere™ platform that delivers individualized experiences at every customer touchpoint: web, apps, email, kiosks, IoT, and call centers. The platform’s data management capabilities provide …",
+    "url": "https://www.featuredcustomers.com/vendor/offerfit/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/offerfit/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/offerfit/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/464279-50",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Braze Partner Program | Customer Engagement Partnerships",
+    "url": "https://www.braze.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Connect with partners who live and breathe your specific market to ensure your brand feels \"right\" and resonates everywhere you go.",
+    "url": "https://www.braze.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Work with the best in the business to eliminate the \"AI chatter” while you turn complex data into measurable wins, ensuring your brand stays focused on what actually drives engagement.",
+    "url": "https://www.braze.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Braze | Become a Partner",
+    "url": "https://www.braze.com/partners/become-a-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing scales with your Monthly Active Users (MAU), the customers who actively interact with your brand across your digital experiences.",
+    "url": "https://www.braze.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "When your customers are always on the go, you need a customer engagement platform that can synchronize and act on critical moments along the entire travelers’ journey. With Braze, you can put power—and a human touch—behind your brand.",
+    "url": "https://www.braze.com/solutions/travel-hospitality",
+    "pass": 1
+   },
+   {
+    "quote": "When attention is fragmented across screens and platforms, and AI agents now control what breaks through, Braze helps your brand stay in the mix.",
+    "url": "https://www.braze.com/solutions/media-entertainment",
+    "pass": 1
+   },
+   {
+    "quote": "Learn about every customer through their unique interactions with your brand—then send highly customized messages based on their ordering habits to build brand loyalty and engagement over time.",
+    "url": "https://www.braze.com/solutions/on-demand",
+    "pass": 1
+   },
+   {
+    "quote": "Build up your brand and keep diners hungry for more. Optimize your campaigns, generate creative ideas, and enhance your data to serve up tailored offers and item recommendations at scale—all with a few clicks.",
+    "url": "https://www.braze.com/solutions/qsr",
+    "pass": 1
+   },
+   {
+    "quote": "Longer customer retention when they receive messages from your brand",
+    "url": "https://www.braze.com/solutions/optimize-onboarding",
+    "pass": 1
+   },
+   {
+    "quote": "First Impressions: Why Your Brand Needs a Cross-Channel Onboarding Strategy",
+    "url": "https://www.braze.com/solutions/optimize-onboarding",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Drive stronger revenue growth",
+    "url": "https://www.braze.com/partners/become-a-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Extend the Braze platform with your own integrations to tap into a worldwide customer base, grow your reach, and secure new revenue streams.",
+    "url": "https://www.braze.com/partners/become-a-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Offices with 2,000 employees across 5 continents",
+    "url": "https://www.braze.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Think of Action Credits as a single, flexible currency for your Braze account. Instead of purchasing fixed quantities for individual products, you buy one pool of credits as part of your contract.",
+    "url": "https://www.braze.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Wealthsimple Drives Acquisition and Long-Term Value With Their Customer Engagement Strategy",
+    "url": "https://www.braze.com/solutions/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "tiket.com Drives 3X More Revenue With a Cross-Channel Onboarding Experience",
+    "url": "https://www.braze.com/solutions/travel-hospitality",
+    "pass": 1
+   },
+   {
+    "quote": "BrazeAI™ helps teams grow revenue by predicting key player behaviors, like churning or making a purchase, then personalizing every interaction for greater impact.",
+    "url": "https://www.braze.com/solutions/gaming",
+    "pass": 1
+   },
+   {
+    "quote": "Snoonu Increased Revenue with a Gamified In-App Message Strategy",
+    "url": "https://www.braze.com/solutions/on-demand",
+    "pass": 1
+   },
+   {
+    "quote": "Dutch Bros Increases Customer Loyalty and Revenue with Personalized, Cross-Channel Campaigns at Scale",
+    "url": "https://www.braze.com/solutions/qsr",
+    "pass": 1
+   },
+   {
+    "quote": "KFC India Boosts Customer Retention and Revenue with Braze-Powered Gamified Campaign",
+    "url": "https://www.braze.com/solutions/qsr",
+    "pass": 1
+   },
+   {
+    "quote": "lift in daily revenue per store",
+    "url": "https://www.braze.com/solutions/qsr",
+    "pass": 1
+   },
+   {
+    "quote": "Create onboarding journeys that drive revenue",
+    "url": "https://www.braze.com/solutions/optimize-onboarding",
+    "pass": 1
+   },
+   {
+    "quote": "Max (formerly HBO Max), the on-demand streaming service owned by AT&T via WarnerMedia, wanted to build a larger audience for its weekly movie premieres.",
+    "url": "https://www.braze.com/customers/max-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "A key part of e.l.f.’s strategy focuses on forging new paths, taking bold stances, and pushing beyond the limits of what’s been done before. Their CRM team is always looking for ways to unlock new channels, improve existing campaigns, and streamline processes.",
+    "url": "https://www.braze.com/customers/elf-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "ニューヨーク - 顧客エンゲージメント・プラットフォームのリーディングカンパニーであるBraze（Nasdaq: BRZE）は本日、AI意思決定企業のOfferFitを3億2500万ドルで買収する最終合意に達したと発表しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000131.000066773.html",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/offerfit/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "OfferFit 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/464279-50",
+    "pass": 3
+   },
+   {
+    "quote": "5. Merger/Acquisition",
+    "url": "https://pitchbook.com/profiles/company/464279-50",
+    "pass": 3
+   },
+   {
+    "quote": "OfferFit has 146 total employees.",
+    "url": "https://pitchbook.com/profiles/company/464279-50",
+    "pass": 3
+   },
+   {
+    "quote": "What is OfferFit’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/464279-50",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for OfferFit is",
+    "url": "https://pitchbook.com/profiles/company/464279-50",
+    "pass": 3
+   },
+   {
+    "quote": "When was OfferFit acquired?",
+    "url": "https://pitchbook.com/profiles/company/464279-50",
+    "pass": 3
+   },
+   {
+    "quote": "OfferFit was acquired on 02-Jun-2025.",
+    "url": "https://pitchbook.com/profiles/company/464279-50",
+    "pass": 3
+   },
+   {
+    "quote": "Who acquired OfferFit?",
+    "url": "https://pitchbook.com/profiles/company/464279-50",
+    "pass": 3
+   },
+   {
+    "quote": "OfferFit was acquired by",
+    "url": "https://pitchbook.com/profiles/company/464279-50",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "View e.l.f. Beauty case study",
+    "url": "https://www.braze.com/solutions/retail-and-ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "View Grove Collaborative case study",
+    "url": "https://www.braze.com/solutions/retail-and-ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "View Sephora case study",
+    "url": "https://www.braze.com/solutions/retail-and-ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "View Stash Case Study",
+    "url": "https://www.braze.com/solutions/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "View Legal & General Case Study",
+    "url": "https://www.braze.com/solutions/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "View Kayo Sports Case Study",
+    "url": "https://www.braze.com/solutions/sports",
+    "pass": 1
+   },
+   {
+    "quote": "View U.S. Soccer Case Study",
+    "url": "https://www.braze.com/solutions/sports",
+    "pass": 1
+   },
+   {
+    "quote": "View DraftKings Case Study",
+    "url": "https://www.braze.com/solutions/sports",
+    "pass": 1
+   },
+   {
+    "quote": "Most sports organizations don't have a data shortage—they have a coordination problem. Braze ingests first-party data from your existing systems, including CDPs, data warehouses, mobile or web platforms, and commerce tools, and builds a unified fan profile your whole organization can act on. The result is one view of each fan across every touchpoint, available in real time across every channel.",
+    "url": "https://www.braze.com/solutions/sports",
+    "pass": 1
+   },
+   {
+    "quote": "View Second Dinner Case Study",
+    "url": "https://www.braze.com/solutions/gaming",
+    "pass": 1
+   },
+   {
+    "quote": "Sephora Case Study | Boosting Engagement with AR Marketing",
+    "url": "https://www.braze.com/customers/sephora-sea-case-study-ar",
+    "pass": 1
+   },
+   {
+    "quote": "Computers and Electronics Manufacturing",
+    "url": "https://www.casestudies.com/company/offerfit",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/offerfit/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories about Software and Services used by OfferFit",
+    "url": "https://www.casestudies.com/customer/offerfit",
+    "pass": 3
+   },
+   {
+    "quote": ": Delivers daily, individual-level decisions by plugging into data warehouses, CDPs, and ESPs via modern APIs, enabling true 1:1 experiences with transparent, explainable agents.[1][2][4]",
+    "url": "https://startupintros.com/orgs/offerfit",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Braze、OfferFitの買収合意を発表 | Braze株式会社のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000131.000066773.html",
+    "pass": 3
+   },
+   {
+    "quote": "※こちらは、米国本社が2025年3月28日に発表した内容の日本語抄訳になります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000131.000066773.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都港区赤坂9-7-1",
+    "url": "https://prtimes.jp/main/html/rd/p/000000131.000066773.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Braze、OfferFitの買収合意を発表 | 顧客エンゲージメントプラットフ... — 消費者に価値のある顧客体験を提供する顧客（カスタマー）エンゲージメントプラットフォームBraze（ブレイズ）の「プレスリリース」ページです。「Braze、OfferFitの買収合意を発表」について発表いたします。",
+    "url": "https://www.braze.com/ja/press-releases/offerfit-is-joining-braze",
+    "pass": 3
+   },
+   {
+    "quote": "Braze、OfferFitの買収合意を発表 | Braze株式会社のプレスリリース — Apr 8, 2025 · OfferFitは4年前から、Brazeのような顧客エンゲージメント・ソリューションと提携し、個別化されたクロスチャネルのカスタマージャーニーを推奨 ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000131.000066773.html",
+    "pass": 3
+   },
+   {
+    "quote": "Braze が OfferFit の買収を正式に ... - LinkedIn 日本 — Braze が OfferFit の買収を正式に完了したことをご報告します。この戦略的統合により、Brazeの強力なクロスチャネル機能と OfferFit の最先端のAI機能が融合し、ブランドはよりインテリジェントかつ正確に、あらゆる体験をパーソナライズすることが可能になります。さらにスマートなOne to One ...",
+    "url": "https://jp.linkedin.com/posts/braze-japan_braze-が-offerfit-の買収を正式に完了したことをご報告しますこの戦略的統合-activity-7335839569143046147-JtR4",
+    "pass": 3
+   },
+   {
+    "quote": "Braze Completes Acquisition of OfferFit — Jun 2, 2025 · NEW YORK, June 2, 2025 – Braze (Nasdaq: BRZE), the leading customer engagement platform that empowers brands to Be Absolutely Engaging™, today announced the successful completion of its previously announced acquisition of OfferFit, an AI decisioning company. After years of productive partnership as separate companies, Braze and OfferFit are m",
+    "url": "https://www.braze.com/press-releases/braze-completes-acquisition-of-offerfit",
+    "pass": 3
+   },
+   {
+    "quote": "Braze、AIファームOfferFitを$3億2,500万で買収 執筆： Investing.com — Investing.com — Braze（NASDAQ:BRZE）は、時価総額$39億、過去12ヶ月の収益成長率28%を誇る顧客エンゲージメントプラットフォームが、AI意思決定に特化した企業OfferFitを$3億2,500万で買収する最終合意に達したと発表した。 この買収は通常の取引調整を条件とする。",
+    "url": "https://jp.investing.com/news/company-news/article-93CH-1060667",
+    "pass": 3
+   },
+   {
+    "quote": "OfferFit B2B Case Studies & Customer Successes — OfferFit Automated Experimentation Platform is the fastest, most scalable way to accelerate testing and learning. Automatically discover the right message, creative, incentive, channel, and timing for every customer to unlock the full value of your customer data.",
+    "url": "https://www.casestudies.com/company/offerfit",
+    "pass": 3
+   },
+   {
+    "quote": "7 OfferFit Case Studies, Success Stories, & Customer Stories ... — Discover how other companies use OfferFit, get inspired, and find ways to improve your business.",
+    "url": "https://www.featuredcustomers.com/vendor/offerfit/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How OfferFit Uses Software & Services — B2B Case Studies Featuring OfferFit as the Customer Explore case studies featuring OfferFit as the customer — learn how vendors and partners helped OfferFit solve real business challenges. OfferFit Automated Experimentation Platform is the fastest, most scalable way to accelerate testing and learning. Automatically discover the right messag",
+    "url": "https://www.casestudies.com/customer/offerfit",
+    "pass": 3
+   },
+   {
+    "quote": "Menlo’s Investment in OfferFit: Building the ML-Powered ... — Nov 14, 2023 · Fast forward a few years and with the advancements in customer data and AI, this might finally be the moment for someone to come along and deliver on this promise—enter OfferFit. OfferFit is an ML-powered, automated experimentation and personalization platform for lifecycle marketers.",
+    "url": "https://menlovc.com/perspective/menlos-investment-in-offerfit-building-the-ml-powered-automated-experimentation-platform-marketers-need/",
+    "pass": 3
+   },
+   {
+    "quote": "OfferFit customer case studies - YouTube — OfferFit customer case studies by OfferFit • Playlist • 7 videos • 208 views Play all",
+    "url": "https://www.youtube.com/playlist?list=PLGHaZRQ1G0MuZwfY-oFSBf7fUZEiojsHL",
+    "pass": 3
+   },
+   {
+    "quote": "OfferFit – Valuation, Revenue & Market Scope – 2026 – Dallas — At OfferFit, estimated revenue of $52.3M, team of around 100+ employees define its momentum, driven from Dallas, reflecting its market adaptability.",
+    "url": "https://compworth.com/company/offerfit",
+    "pass": 3
+   },
+   {
+    "quote": "Offer Fit - 2026 Company Profile, Team, Funding ... - TracxnOfferFit 2026 Company Profile: Valuation, Investors ...OfferFit: Funding, Team & Investors | Startup IntrosOfferFit Information - RocketReachOfferFit Revenue 2023: $12.2M ARR - getlatka.comOfferFit — Company Profile & Funding | Indexed.vc — Feb 14, 2026 · FAQs about Offer Fit When was Offer Fit founded? Offer Fit was founded in 2020 and r",
+    "url": "https://tracxn.com/d/companies/offerfit/__ipdAnbuNfB1PN-EuR76xtcBNo-xdufRwe8pT6_01WHc",
+    "pass": 3
+   },
+   {
+    "quote": "OfferFit 2026 Company Profile: Valuation, Investors ...OfferFit: Funding, Team & Investors | Startup IntrosOfferFit Information - RocketReachOfferFit Revenue 2023: $12.2M ARR - getlatka.comOfferFit — Company Profile & Funding | Indexed.vc — Information on acquisition, funding, cap tables, investors, and executives for OfferFit. Use the PitchBook Platform to explore the full profile. Jul 13, 2026 ·",
+    "url": "https://pitchbook.com/profiles/company/464279-50",
+    "pass": 3
+   },
+   {
+    "quote": "OfferFit: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · OfferFit was founded in late 2020 by George Khachatryan (CEO) and Victor Kostyuk (CTO), Cornell University mathematics PhD graduates and longtime friends who met during their studies.",
+    "url": "https://startupintros.com/orgs/offerfit",
+    "pass": 3
+   },
+   {
+    "quote": "OfferFit Information - RocketReachOfferFit Revenue 2023: $12.2M ARR - getlatka.comOfferFit — Company Profile & Funding | Indexed.vc — OfferFit is a Software Development company located in Boston, Massachusetts with $20.8 million in revenue and 160 employees. Find top employees, contact details and business statistics at RocketReach. Dec 1, 2023 · OfferFit 2023 revenue: $12.2M ARR. 86 employees. In",
+    "url": "https://rocketreach.co/offerfit-profile_b43db0ccc19c9bb1",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "$BRZE Q1 2027 earnings: Top-Line Acceleration Masks ... While this signifies strong enterprise deployment activity—likely tied to complex implementations of the newly integrated OfferFit (BrazeAI Decisioning Studio)—professional services typically carry significantly lower margins than subscription revenue, acting as an additional drag on overall gross margins.",
+    "url": "https://x.com/Finsee_main/status/2059733211572240700",
+    "pass": 3
+   },
+   {
+    "quote": "Brendan Baker (@brendanbaker) / Posts / X Announcing our investment in OfferFit: The Automated Experimentation Platform that's bringing some much-needed juice to lifecycle #marketing. Congrats to co-founders @GeorgeKhachatr1 & @victorkostyuk on the Series B, led by our pals at @MenloVentures!",
+    "url": "https://x.com/brendanbaker",
+    "pass": 3
+   },
+   {
+    "quote": "@OfferFit | X The latest posts from @OfferFit",
+    "url": "https://x.com/OfferFit",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "OfferFit by Braze - LinkedIn OfferFit by Braze Software Development Boston, Massachusetts 15,715 followers AI decisioning for the Enterprise",
+    "url": "https://www.linkedin.com/company/offerfit-by-braze",
+    "pass": 3
+   },
+   {
+    "quote": "George Khachatryan - Head of AI decisioning at Braze | co ...Junting (Eric) Li - Senior Software Engineer at OfferFit ...Tong L. - OfferFit by Braze | LinkedInI was thrilled to be able to join OfferFit's first ever ...Braze acquiert OfferFit alors que la consolidation MarTech se ...Anna Deitcher - RevOps Manager at OfferFit | LinkedIn Head of AI decisioning at Braze | co-founded OfferFit, Reasonin",
+    "url": "https://www.linkedin.com/in/george-khachatryan",
+    "pass": 3
+   },
+   {
+    "quote": "Junting (Eric) Li - Senior Software Engineer at OfferFit ...Tong L. - OfferFit by Braze | LinkedInI was thrilled to be able to join OfferFit's first ever ...Braze acquiert OfferFit alors que la consolidation MarTech se ...Anna Deitcher - RevOps Manager at OfferFit | LinkedIn Senior Software Engineer at OfferFit · Transitioning professional, evolving from data consultant to software engineering wit",
+    "url": "https://ca.linkedin.com/in/junting-eric-li-20b48a86",
+    "pass": 3
+   },
+   {
+    "quote": "Tong L. - OfferFit by Braze | LinkedIn Experience: OfferFit by Braze · Education: University of Toronto · Location: Toronto · 133 connections on LinkedIn. View Tong L.’s profile on LinkedIn, a professional community of 1 billion members.",
+    "url": "https://ca.linkedin.com/in/tong-l-013b77182",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "OfferFit | Boston MA - FacebookOfferFit -- 45-second overview video | How does OfferFit work ...OfferFit - OfferFit added a new photo. - FacebookBEST DEALS - How OfferFit uses self-learning AI to stop...OfferFit Secures $25 Million Series B:... - Multiplatform.AILeal Colombia - Social Geek: Leal y OfferFit ... - FacebookWyndham Timeshare Owners Group | Does anyone know if as a ... Mar 28, 2022 · O",
+    "url": "https://www.facebook.com/OfferFit/",
+    "pass": 3
+   },
+   {
+    "quote": "OfferFit -- 45-second overview video | How does OfferFit work ... Nov 11, 2020 · How does OfferFit work? Watch this short intro video.",
+    "url": "https://www.facebook.com/OfferFit/videos/3629561653772145/",
+    "pass": 3
+   },
+   {
+    "quote": "OfferFit - OfferFit added a new photo. - Facebook Mar 28, 2022 · OfferFit added a new photo. When this happens, it's usually because the owner only shared it with a small group of people, changed who can see it or it's been deleted.",
+    "url": "https://www.facebook.com/OfferFit/photos/d41d8cd9/411995574066032/",
+    "pass": 3
+   },
+   {
+    "quote": "BEST DEALS - How OfferFit uses self-learning AI to stop... How OfferFit uses self-learning AI to stop customer churn OfferFit, which announced $14 million in series A funding today, replaces standard manual A/B testing with an AI implementation.Read More",
+    "url": "https://www.facebook.com/100798561657586/posts/how-offerfit-uses-self-learning-ai-to-stop-customer-churn-offerfit-which-announc/443506024053503/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.braze.com/product/brazeai/decisioning-studio",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.braze.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.braze.com/partners/become-a-partner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.braze.com/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.braze.com/company/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.braze.com/company/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.braze.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.braze.com/solutions/retail-and-ecommerce",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.braze.com/solutions/financial-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.braze.com/solutions/travel-hospitality",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.braze.com/solutions/media-entertainment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.braze.com/solutions/sports",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.braze.com/solutions/gaming",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.braze.com/solutions/on-demand",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.braze.com/solutions/qsr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.braze.com/solutions/optimize-onboarding",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.braze.com/customers/stash-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.braze.com/customers/max-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.braze.com/customers/elf-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.braze.com/customers/sephora-sea-case-study-ar",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.sanity.io/images/b7pblshe/marketing-prod/ef90deec0ae0b0fdad6f84d62b6e579f3916aae9-1200x627.png?auto=format&fit=max&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.sanity.io/images/b7pblshe/marketing-prod/65e269174a35b3eada625e76f17ce4f211ef5c2f-1142x1122.png?auto=format&fit=max&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000131.000066773.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/posts/braze-japan_braze-が-offerfit-の買収を正式に完了したことをご報告しますこの戦略的統合-activity-7335839569143046147-JtR4",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E9%BB%92%E7%94%B0%E6%AD%A6%E5%BF%97",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aon.com/japan/company-overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/offerfit",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/offerfit/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/offerfit",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://menlovc.com/perspective/menlos-investment-in-offerfit-building-the-ml-powered-automated-experimentation-platform-marketers-need/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/offerfit",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/offerfit/__ipdAnbuNfB1PN-EuR76xtcBNo-xdufRwe8pT6_01WHc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/464279-50",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://startupintros.com/orgs/offerfit",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Finsee_main/status/2059733211572240700",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/brendanbaker",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/offerfit-by-braze",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/george-khachatryan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/junting-eric-li-20b48a86",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/tong-l-013b77182",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/OfferFit/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/OfferFit/videos/3629561653772145/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/OfferFit/photos/d41d8cd9/411995574066032/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/100798561657586/posts/how-offerfit-uses-self-learning-ai-to-stop-customer-churn-offerfit-which-announc/443506024053503/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/OfferFit",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Offerfit 日本 導入",
+   "results": [
+    "https://www.braze.com/ja/press-releases/offerfit-is-joining-braze",
+    "https://prtimes.jp/main/html/rd/p/000000131.000066773.html",
+    "https://jp.linkedin.com/posts/braze-japan_braze-が-offerfit-の買収を正式に完了したことをご報告しますこの戦略的統合-activity-7335839569143046147-JtR4",
+    "https://www.braze.com/press-releases/braze-completes-acquisition-of-offerfit",
+    "https://jp.investing.com/news/company-news/article-93CH-1060667",
+    "https://www.linkedin.com/posts/braze-japan_brazeofferfitの買収合意を発表-顧客エンゲージメントプラットフォーム-activity-7315193934853332992-qxeB",
+    "https://startuplog.com/n/n41558ef81fd0"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Offerfit 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/黒田武志",
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.aon.com/japan/company-overview",
+    "https://job.mynavi.jp/28/pc/search/corp77451/outline.html",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://www.capgemini.com/jp-jp/about-us/overview-and-access/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Offerfit Japan",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Offerfit manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/offerfit",
+    "https://www.featuredcustomers.com/vendor/offerfit/case-studies",
+    "https://www.casestudies.com/customer/offerfit",
+    "https://menlovc.com/perspective/menlos-investment-in-offerfit-building-the-ml-powered-automated-experimentation-platform-marketers-need/",
+    "https://www.youtube.com/playlist?list=PLGHaZRQ1G0MuZwfY-oFSBf7fUZEiojsHL",
+    "https://www.braze.com/resources/articles/what-is-offerfit",
+    "https://www.featuredcustomers.com/vendor/offerfit"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Offerfit white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://www.canva.com/partners/reseller/",
+    "https://partners.spectrum.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Offerfit founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/offerfit",
+    "https://tracxn.com/d/companies/offerfit/__ipdAnbuNfB1PN-EuR76xtcBNo-xdufRwe8pT6_01WHc",
+    "https://pitchbook.com/profiles/company/464279-50",
+    "https://startupintros.com/orgs/offerfit",
+    "https://rocketreach.co/offerfit-profile_b43db0ccc19c9bb1",
+    "https://getlatka.com/companies/offerfit.ai",
+    "https://indexed.vc/companies/offerfit"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Offerfit",
+   "results": [
+    "https://note.com/yoshi1456/n/ne36b62da8546?hl=en",
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/tag/禍話リライト",
+    "https://note.com/ma_strategynews/n/n9581fb31340a?hl=en",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/royalcreative_/n/na81d71411e42",
+    "https://note.com/godel/n/n219ff14f4820"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Offerfit",
+   "results": [
+    "https://x.com/search-home",
+    "https://x.com/",
+    "https://x.com/Finsee_main/status/2059733211572240700",
+    "https://x.com/brendanbaker",
+    "https://help.x.com/en",
+    "https://x.com/MenloVentures/status/2118772457217953959",
+    "https://x.com/Virtualgoodz/status/2112561093742592278"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Offerfit",
+   "results": [
+    "https://www.linkedin.com/company/offerfit-by-braze",
+    "https://www.linkedin.com/in/george-khachatryan",
+    "https://ca.linkedin.com/in/junting-eric-li-20b48a86",
+    "https://ca.linkedin.com/in/tong-l-013b77182",
+    "https://pe.linkedin.com/posts/jeffreywhannan_i-was-thrilled-to-be-able-to-join-offerfits-activity-7313623001923559425-s2Jz",
+    "https://fr.linkedin.com/pulse/braze-acquires-offerfit-martech-consolidation-continues-dylan-flye-csbxc?tl=fr",
+    "https://www.linkedin.com/in/anna-deitcher-20142a195"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Offerfit",
+   "results": [
+    "https://www.facebook.com/OfferFit/",
+    "https://www.facebook.com/OfferFit/videos/3629561653772145/",
+    "https://www.facebook.com/OfferFit/photos/d41d8cd9/411995574066032/",
+    "https://www.facebook.com/100798561657586/posts/how-offerfit-uses-self-learning-ai-to-stop-customer-churn-offerfit-which-announc/443506024053503/",
+    "https://www.facebook.com/multiplatformai/posts/250464078030908/",
+    "https://www.facebook.com/SomosLealCol/posts/-social-geek-leal-y-offerfit-se-asocian-para-impulsar-soluciones-de-marketing-co/995923855899391/",
+    "https://www.facebook.com/groups/117264372397763/posts/2050748465716001/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Offerfit note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://tracxn.com/d/companies/offerfit/__ipdAnbuNfB1PN-EuR76xtcBNo-xdufRwe8pT6_01WHc",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://pitchbook.com/profiles/company/464279-50",
+    "https://www.crunchbase.com/person/george-khachatrya-khachatryan",
+    "https://www.braze.com/resources/articles/what-is-offerfit",
+    "https://www.theofficialboard.com/org-chart/offerfit"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Offerfit X 投稿",
+   "results": [
+    "https://x.com/OfferFit",
+    "https://www.braze.com/resources/articles/what-is-offerfit",
+    "https://portal.ofss.offerfit.ai/",
+    "https://portal.offerfit.ai/",
+    "https://offerfit.live/",
+    "https://www.bilibili.com/video/BV1YGJP6JEuD/",
+    "https://www.braze.com/docs/user_guide/brazeai/decisioning_studio"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部29頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部29頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部29頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部29頁・検索12回）"
+ }
+}

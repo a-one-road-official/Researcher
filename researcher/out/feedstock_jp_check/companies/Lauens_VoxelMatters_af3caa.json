@@ -1,0 +1,514 @@
+{
+ "name": "Lauens — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:ceramics-material-manufacturer",
+ "researched_at": "2026-11-09T22:31:52.586050+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.group/our-network/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/about/advertise/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kkhashi.com/blogs/detail/145/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyeicorp.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hir.co.jp/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.apexb1.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thorlabs.com/ja/item/RZBQ-633",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://creator.holoearth.com/shop/products/7219",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://eleshop.jp/shop/c/c66320714/?srsltid=AYCX9vJtx01n-N6cyoD0Lt8DucnVrl73sa70jJrFh9oX946W5Ciuvt-O",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.kkday.com/ja/product/827334?srsltid=AYCX9vL-tpqDflEjB9cHuF7gkJNx9pzMC5FCYVezhTUfcp8HLUC1C6ur",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/top-products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://voxelpla.com/?srsltid=AYCX9vKYeC7TYzUjRvT62rSTVKS28cdD1sEoG-Gnxy-X0L2eSDR2ivVo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/collections/all/%E6%B6%88%E8%80%97%E5%93%81",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.poly-maker.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/methodology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.farsoon-gl.com/news/solize-partners-japan-3d-printer-and-farsoon-technologies-announces-3-way-strategic-partnership-to-advance-large-format-lpbf-solutions-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://music.amazon.co.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kdp.amazon.co.jp/ja_JP/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://relay.amazon.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cdn.amazon.co.jp/b?ie=UTF8&node=3211799051",
+    "status": "network_error:SSLError",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/3764/0793/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/06323747/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/s/c-125905/attr_f227-40/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uk.linkedin.com/company/voxelmatters",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.voxelmatters.report/database/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Lauens — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.directory/",
+    "https://www.voxelmatters.group/our-network/",
+    "https://www.voxelmatters.com/about/advertise/",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "https://www.thorlabs.co.jp/ja/distributors",
+    "https://www.youtube.com/watch?v=H5od5sxzUAE",
+    "https://www.additivemanufacturing.media/suppliers?productIds=5725",
+    "https://wohlersassociates.com/reference-guides/service-providers/",
+    "https://www.voxelmatters.com/about/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Lauens — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://www.sanyeicorp.com/",
+    "https://hir.co.jp/",
+    "https://www.apexb1.com/",
+    "https://www.nsi-be.com/",
+    "https://waltonflyfish.com/",
+    "http://makotoya-saketen.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lauens — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.thorlabs.com/ja/item/RZBQ-633",
+    "https://creator.holoearth.com/shop/products/7219",
+    "https://eleshop.jp/shop/c/c66320714/?srsltid=AYCX9vJtx01n-N6cyoD0Lt8DucnVrl73sa70jJrFh9oX946W5Ciuvt-O",
+    "https://www.kkday.com/ja/product/827334?srsltid=AYCX9vL-tpqDflEjB9cHuF7gkJNx9pzMC5FCYVezhTUfcp8HLUC1C6ur",
+    "https://store.head-spring.co.jp/products/detail/3150.html",
+    "http://shop.fannect.jp/darwin-webstore/sp/syousai.asp?item=DA-109",
+    "https://store.lantelno.jp/products/44",
+    "https://sense.im/ja/store/products/1f926bef-8595-43f5-b4d3-c9936a00f7cf",
+    "https://www.maiseat.com/ja-JP/skuSelect/17955",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "Lauens — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.voxelmatters.com/top-products/",
+    "https://voxelpla.com/?srsltid=AYCX9vKYeC7TYzUjRvT62rSTVKS28cdD1sEoG-Gnxy-X0L2eSDR2ivVo",
+    "https://skhonpo.com/collections/all/%E6%B6%88%E8%80%97%E5%93%81",
+    "https://www.poly-maker.jp/",
+    "https://www.matterhackers.com/store?srsltid=AYCX9vKSCt4jc1dzuXrg4bvwcBrQKDzNkAVRVbjGcO_9GbjlQBb2aqGT",
+    "https://apple-tree.shop/?mode=cate&cbid=1729720&csid=0",
+    "https://shop.exmatelab.com/",
+    "https://jp.rs-online.com/web/c/computing-peripherals/3d-printing-scanning/3d-printing-materials/?srsltid=AYCX9vL6gijUQxJfzMOaRWRJ2sFuns6qJ0nyz-5N8hb4AP3QOH0kwk5k",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://fantist.com/articles/1092"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Lauens — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.voxelmatters.report/methodology/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://www.upnano.com/distributors/",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "https://formlabs.com/company/press/formlabs-extends-global-presence-japan/",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Lauens — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.voxelmatters.directory/",
+    "https://www.farsoon-gl.com/news/solize-partners-japan-3d-printer-and-farsoon-technologies-announces-3-way-strategic-partnership-to-advance-large-format-lpbf-solutions-in-japan/",
+    "https://www.upnano.com/distributors/",
+    "https://formlabs.com/company/press/formlabs-extends-global-presence-japan/",
+    "https://www.raise3d.com/sales-partners-voice/japan-3d-printer-co-ltd-sales-partner-in-japan/",
+    "https://www.facebook.com/fb-answers/3d-printing-companies-in-japan/?locale=ga_IE",
+    "https://mx3d.com/geo/robotic-metal-3d-printing-japan/",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:amazon.co.jp Lauens — VoxelMatters",
+   "results": [
+    "https://music.amazon.co.jp/",
+    "https://kdp.amazon.co.jp/",
+    "https://relay.amazon.co.jp/",
+    "https://www.cdn.amazon.co.jp/b?ie=UTF8&node=3211799051",
+    "https://www.amazon.co.jp/購入履歴-確認/s?k=購入履歴+確認",
+    "https://read.amazon.co.jp/",
+    "https://www.amazon.co.jp/gp/desktop/ybh",
+    "https://www.amazon.co.jp/HP-office搭載-Elitebook-windows11-日本語キーボード付き/dp/B0HJCL9YLY",
+    "https://www.amazon.co.jp/さらさ-食器用洗剤-詰め替え-1060ml-デリケートな手肌/dp/B0GFW4K3PR",
+    "https://www.amazon.co.jp/foveitaa-ジャケット-レディース-大きいサイズ/dp/B0HDT3JXGV"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:monotaro.com Lauens — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/p/3764/0793/",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/g/06323747/",
+    "https://www.monotaro.com/s/c-125905/attr_f227-40/",
+    "https://www.monotaro.com/g/01201596/",
+    "https://www.monotaro.com/p/0227/5673/",
+    "https://www.monotaro.com/g/02888691/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lauens — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://uk.linkedin.com/company/voxelmatters",
+    "https://www.voxelmatters.report/database/",
+    "https://www.voxelmatters.directory/",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "https://www.fabbaloo.com/news/voxelmatters-reveals-top-ten-polymer-3d-printing-companies-dominating-the-market",
+    "https://www.voxelmatters.com/aml3d-lift-fy2026-revenue-70-and-record-first-profitable-half/",
+    "https://revenuebase.ai/companies/3d-printing-and-additive-manufacturing-companies/united-states",
+    "https://www.voxelmatters.group/our-network/",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "site:note.com Lauens — VoxelMatters",
+   "results": [
+    "https://note.com/dashboard",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/keizokuramoto/n/nef2f6f1c855d",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/lithe_crocus8929/n/na2764e5da4fc"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Lauens — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/",
+    "https://x.com/darkilingnaty/status/2116203949992694035",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/jocelynseip/status/2118260591680983528",
+    "https://x.com/DemocraticWins/status/2117994783016685719",
+    "https://x.com/mikuta0407/status/2113548402038563311"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Lauens — VoxelMatters",
+   "results": [
+    "https://de.linkedin.com/in/laurens-faure",
+    "https://www.linkedin.com/in/jaredlaucks",
+    "https://it.linkedin.com/in/martina-pelagallo-088389a3",
+    "https://ca.linkedin.com/in/ben-tory-pratt",
+    "https://www.linkedin.com/in/daniel-ticker",
+    "https://www.linkedin.com/in/shauna-lawrence-428913111",
+    "https://www.linkedin.com/posts/jarydo_defenseindustrial-additivemanufacturing-activity-7503527927737663488-V6dP",
+    "https://www.linkedin.com/in/harrison-lin-807752111",
+    "https://www.linkedin.com/in/pradeep-bhattad-81b96515",
+    "https://www.linkedin.com/company/voxelmatters"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com Lauens — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/groups/424805480329761/posts/1117324661077836/",
+    "https://www.facebook.com/3dprintingcanada/posts/the-bambu-lab-h3c-is-here-ive-covered-the-highlights-here-in-90-seconds-bambulab/1580972430716923/",
+    "https://www.facebook.com/Formlabs/posts/tomorrow-find-out-whats-been-taking-form-900-am-est-formlabscomnew/1558856656286199/",
+    "https://www.facebook.com/EssentialRCDaily/posts/new-release-bambu-lab-h3c/1713719310311775/",
+    "https://www.facebook.com/groups/1805698946200697/posts/3213859212051323/",
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/VoxelMatters/videos/2155326438344264/",
+    "https://www.facebook.com/lauens.lopez/",
+    "https://www.facebook.com/lauenslo.nunas/",
+    "https://www.facebook.com/PrusaResearch/posts/voxelmatters-spent-two-months-testing-the-prusa-core-one-l-and-described-it-as-a/948639757678088/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "Lauens — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.report/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.voxelmatters.group/about/",
+    "https://www.voxelmatters.directory/company-category/space/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://www.voxelmatters.com/contribute/",
+    "https://de.linkedin.com/in/laurens-faure",
+    "https://www.youtube.com/watch?v=Un_s7ETLlWU",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Lauens — VoxelMatters X 投稿",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.youtube.com/@voxelmatters",
+    "https://www.voxelmatters.report/",
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://www.voxelmatters.com/category/events/formnext/",
+    "https://www.youtube.com/watch?v=R-QyfOZvo3s",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles_new/laying-the-foundations-for-the-next-decade-of-am-growth-at-formnext-2025.html",
+    "https://x.com/voxelmatters"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）"
+ }
+}

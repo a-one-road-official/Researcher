@@ -1,0 +1,2021 @@
+{
+ "name": "Octaneai",
+ "aliases": [],
+ "context": "旧営業リスト｜Marketing Personalization｜日本進出済",
+ "researched_at": "2026-11-09T23:11:27.259677+00:00",
+ "official_url": "https://www.octaneai.com",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "料金プラン",
+    "value": "4 種類（無料プラン記載なし）",
+    "url": "https://my-best.ai/ai-tools/octane-ai/",
+    "pass": 3
+   },
+   {
+    "label": "料金",
+    "value": "Starterプラン ／Growthプラン",
+    "url": "https://my-best.ai/ai-tools/octane-ai/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2016",
+    "url": "https://www.tooljunction.io/ai-tools/octane-ai/company",
+    "pass": 3
+   },
+   {
+    "label": "Founded",
+    "value": "Founded：2016",
+    "url": "https://prospeo.io/c/octane-ai-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "San Francisco, United States",
+    "url": "https://www.tooljunction.io/ai-tools/octane-ai/company",
+    "pass": 3
+   },
+   {
+    "label": "Headquarters",
+    "value": "San Francisco, California, United States",
+    "url": "https://prospeo.io/c/octane-ai-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$14M",
+    "url": "https://www.tooljunction.io/ai-tools/octane-ai/company",
+    "pass": 3
+   },
+   {
+    "label": "Total funding",
+    "value": "$5,000,000",
+    "url": "https://prospeo.io/c/octane-ai-revenue",
+    "pass": 3
+   },
+   {
+    "label": "Total raised",
+    "value": "$10.8M",
+    "url": "https://getlatka.com/companies/octane-ai",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$66,000",
+    "url": "https://prospeo.io/c/octane-ai-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "· 1 problem left",
+    "url": "https://www.octaneai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Loosen the product’s rule, or pick answers the question actually offers.",
+    "url": "https://www.octaneai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The advanced AI product recommendation quiz builder",
+    "url": "https://www.octaneai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prompt your quiz with",
+    "url": "https://www.octaneai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Share a spreadsheet, a doc or a sentence. Deliver a working first draft, with questions, images, product matrix and results pages - in minutes.",
+    "url": "https://www.octaneai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Match your site's colors, generate missing images, and restyle the whole quiz with one prompt.",
+    "url": "https://www.octaneai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "No combination of answers leads to “Oily Routine”, so no shopper will ever see it.",
+    "url": "https://www.octaneai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Phoenix walks thousands of paths a shopper could take and flags broken logic, missing or out-of stock products. Fix issues by accepting the change.",
+    "url": "https://www.octaneai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See revenue, drop-off, and conversion for every answer, product, and individual quiz taker.",
+    "url": "https://www.octaneai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our most-used integration. Every quiz answer and recommended product syncs to Klaviyo in real time, so every email can speak to each shopper based on what they told you.",
+    "url": "https://www.octaneai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Show each shopper the exact products their quiz picked for them.",
+    "url": "https://www.octaneai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Answers as Custom Properties",
+    "url": "https://www.octaneai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Example properties synced",
+    "url": "https://www.octaneai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Let shoppers take a selfie. Phoenix reads what matters, like skin tone and undertone, and uses it to pick products, just like any other answer.",
+    "url": "https://www.octaneai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Phoenix calculates portions, sizes or quantities from shopper answers and pre-fills the quantity selector.",
+    "url": "https://www.octaneai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Zero-party shopper profiles.",
+    "url": "https://www.octaneai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every answer, visit and order in one profile per shopper.",
+    "url": "https://www.octaneai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sync dynamic properties to your Klaviyo account for granular segmentation and email customization.",
+    "url": "https://www.octaneai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "with product personalization",
+    "url": "https://www.octaneai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The faster the cycle time on quiz improvements, the faster I can outrun our competitors and scale our business better.",
+    "url": "https://www.octaneai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every answer builds a profile you own",
+    "url": "https://www.octaneai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every quiz a shopper takes adds to the same profile: their answers, their result, what they care about. Over time you know each customer a little better, and every email feels written just for them.",
+    "url": "https://www.octaneai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "One profile per shopper.",
+    "url": "https://www.octaneai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ask about skin type once and reuse it everywhere; it shows up as \"Skin type\" on the profile, not a one-off answer.",
+    "url": "https://www.octaneai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Filter people by any answer across quizzes, then push them to Shopify, Klaviyo or Attentive as properties and tags.",
+    "url": "https://www.octaneai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pick the program that fits you. The application takes about five minutes.",
+    "url": "https://www.octaneai.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Case Studies - How Top Brands Win with Product Quizzes | Octane AI",
+    "url": "https://www.octaneai.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "After eight years running a custom-built quiz system, Geologie switched to Octane AI. The result? A 50% lift in conversion from quiz completion to purchase, a more nimble testing process, and insights...",
+    "url": "https://www.octaneai.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How 9-figure brand ILIA Beauty uses product quizzes to grow their Shopify business.",
+    "url": "https://www.octaneai.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how Nustrips leverages quiz marketing to boost sales and gather valuable customer data. Learn tips for optimizing your own DTC product recommendation quiz.",
+    "url": "https://www.octaneai.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how Salud boosted conversions and personalized marketing with Octane AI's quiz platform. Learn quiz strategies, zero-party data insights, and optimization tips to drive Ecommerce success.",
+    "url": "https://www.octaneai.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "See how mattress brand Polysleep leveraged zero-party data with Octane AI's quiz to completely transform customer experience and get a 6x improvement in conversion rates.",
+    "url": "https://www.octaneai.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "The Jacked Up Fitness quiz is an invaluable tool for selling products that can cost more than $5,000. Learn the strategy for guiding shoppers to the best product to increase their conversion rate and ...",
+    "url": "https://www.octaneai.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "The Blanqi quiz provides a personalized and customized shopping experience for the most important phase of a person's life.",
+    "url": "https://www.octaneai.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Kinvara Skincare was struggling to grow their list and capture new leads. The Octane AI quiz provided a great solution, and an experience that customers loved.",
+    "url": "https://www.octaneai.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Leads in 7 Days",
+    "url": "https://www.octaneai.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How Tortuga's Quiz Improved The Customer Experience And Instantly Removed Customer Confusion",
+    "url": "https://www.octaneai.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Using a product finder quiz, Chaz Dean helped customers find the perfect hair care products!",
+    "url": "https://www.octaneai.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Using an Octane AI product recommendation quiz, Wicked Edge gave site visitors the confidence and education they needed to complete a purchase, increasing AOV and doubling sales CVR.",
+    "url": "https://www.octaneai.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Using Octane AI and Klaviyo, Hunter & Gather built a personalization engine centered on providing value and better experiences for customers.",
+    "url": "https://www.octaneai.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Using Octane AI to power a \"recipe finder\" quiz, Skinny Mixes is able to listen to customers' preferences, raise engagement and drive sales!",
+    "url": "https://www.octaneai.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "NatureWise is improving the customer journey through personalized experiences powered by zero-party data.",
+    "url": "https://www.octaneai.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Miracle Mink Hair lifted revenue by 27% with Octane AI by helping customers find the right products through new interactive website experiences.",
+    "url": "https://www.octaneai.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Using Octane AI, florence by mills is personalizing product recommendations, emails and SMS flows, providing a better customer experience that converts.",
+    "url": "https://www.octaneai.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "With an Octane AI quiz, Curlsmith enhanced email marketing with personalization, captured 100K+ subscribers and increased email revenue by 10% with the Klaviyo integration.",
+    "url": "https://www.octaneai.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "By getting to know customers with a fun quiz, Cake provides personalized product recommendations to help customers have better sex lives.",
+    "url": "https://www.octaneai.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Using Octane AI, Bariatric Fusion collects more email opt-ins and provides accurate product recommendations that help convert site visitors into loyal customers.",
+    "url": "https://www.octaneai.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Using an Octane AI-powered quiz, Zox has transformed their customer experience by delivering unique, personalized product recommendations, significantly lifting engagement and uncovering hidden revenu...",
+    "url": "https://www.octaneai.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing - Octane AI | Octane AI",
+    "url": "https://www.octaneai.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Simple, transparent pricing",
+    "url": "https://www.octaneai.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Octane AI Enterprise & Unlimited",
+    "url": "https://www.octaneai.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Email flow blueprints & best practices",
+    "url": "https://www.octaneai.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Send us your quiz from another platform, a custom build, even a spreadsheet of questions. We rebuild it in Phoenix with your questions, logic and results.",
+    "url": "https://www.octaneai.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Customize product catalog data displayed on quizzes",
+    "url": "https://www.octaneai.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "For high-volume stores or unique requirements, we offer custom pricing with unlimited credits, and dedicated support.",
+    "url": "https://www.octaneai.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "1 credit = 1 quiz start. You’re charged when a shopper begins your quiz. Building quizzes with AI is free. In-quiz AI features such as Smart Products, Smart Copy and Image Analysis use extra credits each time they run, starting from 0.04 credits per use.",
+    "url": "https://www.octaneai.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes! You can upgrade or downgrade your plan at any time. Upgrades take effect immediately with prorated billing. Downgrades take effect at your next billing cycle. Unused credits roll over for 30 days.",
+    "url": "https://www.octaneai.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Send us your quiz from another platform, a custom build or a spreadsheet of questions and we rebuild it in Phoenix with your questions, logic and results. Book a migration call from the demo page and we take it from there.",
+    "url": "https://www.octaneai.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes! Every plan is available on monthly or yearly billing. Yearly billing saves you 15%: Octane AI Basic works out to $43/month, Octane AI Plus to $170/month, and Octane AI Enterprise starts at $425/month. The 14-day free trial applies to both billing options.",
+    "url": "https://www.octaneai.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes! AI features (Smart Products, Smart Copy, Image Analysis) are included on all plans, including Octane AI Basic. AI features use a small amount of additional credits per interaction—for example, Smart Products uses ~0.3 credits per quiz.",
+    "url": "https://www.octaneai.com/pricing",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by 5,000+ Shopify brands",
+    "url": "https://www.octaneai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Octane AI is the quiz platform built for Shopify, trusted by over 5,000 brands. Our goal is to scale our mutual clients and grow together. If you support ecommerce brands, let's talk!",
+    "url": "https://www.octaneai.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading DTC brands",
+    "url": "https://www.octaneai.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 5,000+ Shopify brands",
+    "url": "https://www.octaneai.com/demo",
+    "pass": 1
+   },
+   {
+    "quote": "The Chaz Dean case study demonstrates how a quiz can:",
+    "url": "https://www.octaneai.com/case-studies/chaz-dean",
+    "pass": 1
+   },
+   {
+    "quote": "Abrasives and Nonmetallic Minerals Manufacturing",
+    "url": "https://bloomberry.com/data/octaneai/",
+    "pass": 3
+   },
+   {
+    "quote": "Accessible Hardware Manufacturing",
+    "url": "https://bloomberry.com/data/octaneai/",
+    "pass": 3
+   },
+   {
+    "quote": "Agricultural Chemical Manufacturing",
+    "url": "https://bloomberry.com/data/octaneai/",
+    "pass": 3
+   },
+   {
+    "quote": "Agriculture, Construction, Mining Machinery Manufacturing",
+    "url": "https://bloomberry.com/data/octaneai/",
+    "pass": 3
+   },
+   {
+    "quote": "Alternative Fuel Vehicle Manufacturing",
+    "url": "https://bloomberry.com/data/octaneai/",
+    "pass": 3
+   },
+   {
+    "quote": "Animal Feed Manufacturing",
+    "url": "https://bloomberry.com/data/octaneai/",
+    "pass": 3
+   },
+   {
+    "quote": "Apparel Manufacturing",
+    "url": "https://bloomberry.com/data/octaneai/",
+    "pass": 3
+   },
+   {
+    "quote": "Appliances, Electrical, and Electronics Manufacturing",
+    "url": "https://bloomberry.com/data/octaneai/",
+    "pass": 3
+   },
+   {
+    "quote": "Architectural and Structural Metal Manufacturing",
+    "url": "https://bloomberry.com/data/octaneai/",
+    "pass": 3
+   },
+   {
+    "quote": "Artificial Rubber and Synthetic Fiber Manufacturing",
+    "url": "https://bloomberry.com/data/octaneai/",
+    "pass": 3
+   },
+   {
+    "quote": "Audio and Video Equipment Manufacturing",
+    "url": "https://bloomberry.com/data/octaneai/",
+    "pass": 3
+   },
+   {
+    "quote": "Automation Machinery Manufacturing",
+    "url": "https://bloomberry.com/data/octaneai/",
+    "pass": 3
+   },
+   {
+    "quote": "Aviation and Aerospace Component Manufacturing",
+    "url": "https://bloomberry.com/data/octaneai/",
+    "pass": 3
+   },
+   {
+    "quote": "Baked Goods Manufacturing",
+    "url": "https://bloomberry.com/data/octaneai/",
+    "pass": 3
+   },
+   {
+    "quote": "Beverage Manufacturing",
+    "url": "https://bloomberry.com/data/octaneai/",
+    "pass": 3
+   },
+   {
+    "quote": "Boilers, Tanks, and Shipping Container Manufacturing",
+    "url": "https://bloomberry.com/data/octaneai/",
+    "pass": 3
+   },
+   {
+    "quote": "Chemical Manufacturing",
+    "url": "https://bloomberry.com/data/octaneai/",
+    "pass": 3
+   },
+   {
+    "quote": "Chemical Raw Materials Manufacturing",
+    "url": "https://bloomberry.com/data/octaneai/",
+    "pass": 3
+   },
+   {
+    "quote": "Clay and Refractory Products Manufacturing",
+    "url": "https://bloomberry.com/data/octaneai/",
+    "pass": 3
+   },
+   {
+    "quote": "Climate Technology Product Manufacturing",
+    "url": "https://bloomberry.com/data/octaneai/",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial and Industrial Equipment Rental",
+    "url": "https://bloomberry.com/data/octaneai/",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial and Industrial Machinery Maintenance",
+    "url": "https://bloomberry.com/data/octaneai/",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial and Service Industry Machinery Manufacturing",
+    "url": "https://bloomberry.com/data/octaneai/",
+    "pass": 3
+   },
+   {
+    "quote": "Communications Equipment Manufacturing",
+    "url": "https://bloomberry.com/data/octaneai/",
+    "pass": 3
+   },
+   {
+    "quote": "Computer Hardware Manufacturing",
+    "url": "https://bloomberry.com/data/octaneai/",
+    "pass": 3
+   },
+   {
+    "quote": "Alloy Automation Case Study: Octane AI – How Octane uses Alloy to launch integrations that power its AI review insights | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/alloy-automation/case-study/how-octane-uses-alloy-to-launch-integrations-that-power-its-ai-review-insights",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Octane AI used Alloy Automation",
+    "url": "https://www.casestudies.com/company/alloy-automation/case-study/how-octane-uses-alloy-to-launch-integrations-that-power-its-ai-review-insights",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/alloy-automation/case-study/how-octane-uses-alloy-to-launch-integrations-that-power-its-ai-review-insights",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/alloy-automation/case-study/how-octane-uses-alloy-to-launch-integrations-that-power-its-ai-review-insights",
+    "pass": 3
+   },
+   {
+    "quote": "Octane AI provides an all-in-one platform for engaging quizzes, data collection, and personalized Facebook Messenger and SMS automation, trusted by 1,000+ Shopify brands.",
+    "url": "https://www.tooljunction.io/ai-tools/octane-ai/company",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "“Barrier Bestie Ceramide Cream” is never recommended on the “Oily Routine” page",
+    "url": "https://www.octaneai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "1,389 visits answered this question; a visit that picked several answers counts under each one, its orders and revenue too.",
+    "url": "https://www.octaneai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See revenue, drop-off, and conversion for every answer, product, and individual quiz taker.",
+    "url": "https://www.octaneai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Run quiz experiments and optimize your completion rates, order conversion, revenue per visit or other metrics.",
+    "url": "https://www.octaneai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See how leading ecommerce brands are using Octane AI to increase revenue, collect subscribers, and create personalized shopping experiences.",
+    "url": "https://www.octaneai.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Partner Spotlight: Barrel’s Strategy for Turning On-Site Engagement into Long-Term CPG Growth. See how a quiz-driven strategy helped Cabot Creamery turn its website into a first-party data engine.",
+    "url": "https://www.octaneai.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Partner Spotlight: SMCA Creative’s Strategy for Guided Ecommerce Growth. See how quiz-driven discovery helped reduce customer acquisition cost by ~43% for Florae Beauty.",
+    "url": "https://www.octaneai.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "See exactly how they are using quizzes to increase revenue.",
+    "url": "https://www.octaneai.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "50,000 customers have taken the Octane AI quiz, generating 17% of revenue comes from the quiz overall.",
+    "url": "https://www.octaneai.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Miracle Mink Hair lifted revenue by 27% with Octane AI by helping customers find the right products through new interactive website experiences.",
+    "url": "https://www.octaneai.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "With an Octane AI quiz, Curlsmith enhanced email marketing with personalization, captured 100K+ subscribers and increased email revenue by 10% with the Klaviyo integration.",
+    "url": "https://www.octaneai.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Track revenue attribution",
+    "url": "https://www.octaneai.com/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "Partner Spotlight: Barrel’s Strategy for Turning On-Site Engagement into Long-Term CPG Growth | Octane AI",
+    "url": "https://www.octaneai.com/case-studies/barrel",
+    "pass": 1
+   },
+   {
+    "quote": "Partner Spotlight: Barrel's Strategy for Turning On-Site Engagement into Long-Term CPG Growth with",
+    "url": "https://www.octaneai.com/case-studies/barrel",
+    "pass": 1
+   },
+   {
+    "quote": "Barrel helps CPG brands treat their websites as digital flagships. See how a quiz-driven strategy helped Cabot Creamery turn on-site engagement into first-party data and long-term growth, powered by Octane AI.",
+    "url": "https://www.octaneai.com/case-studies/barrel",
+    "pass": 1
+   },
+   {
+    "quote": "The globally distributed agency has spent 20 years helping CPG brands treat their websites as more than brochures. In Barrel's model, the website is the center of gravity—the digital flagship that connects every other channel, tells the brand story, and earns the kind of customer trust that turns a first-time buyer into a repeat one.",
+    "url": "https://www.octaneai.com/case-studies/barrel",
+    "pass": 1
+   },
+   {
+    "quote": ", Barrel's Partnerships Manager, describes the brands that come to them, a pattern emerges quickly.",
+    "url": "https://www.octaneai.com/case-studies/barrel",
+    "pass": 1
+   },
+   {
+    "quote": ", Partnerships Manager, Barrel",
+    "url": "https://www.octaneai.com/case-studies/barrel",
+    "pass": 1
+   },
+   {
+    "quote": "But Barrel's work isn't just aesthetic. It's architectural.",
+    "url": "https://www.octaneai.com/case-studies/barrel",
+    "pass": 1
+   },
+   {
+    "quote": "At Barrel, the website is the brand's digital flagship. Meta, email, retail, and search each have a role to play, but the website is the only place where a CPG brand can deliver the full experience, tell the full story, and bring all other channels together in one place. It's the foundation that makes the rest of the ecosystem work harder.",
+    "url": "https://www.octaneai.com/case-studies/barrel",
+    "pass": 1
+   },
+   {
+    "quote": "That philosophy shapes everything from site architecture to integration choices. It's also why Barrel works exclusively with CPG brands rather than taking on website projects across all verticals.",
+    "url": "https://www.octaneai.com/case-studies/barrel",
+    "pass": 1
+   },
+   {
+    "quote": "One of the most interesting challenges in CPG ecommerce is what to do when the website isn't the primary channel for customer purchases. For many brands, especially in food and beverage, most purchases still happen offline at grocery stores or retail stores. The site still plays a critical role, but its job isn't to drive the bulk of revenue.",
+    "url": "https://www.octaneai.com/case-studies/barrel",
+    "pass": 1
+   },
+   {
+    "quote": "How Barrel brought Octane AI into the Cabot Creamery strategy",
+    "url": "https://www.octaneai.com/case-studies/barrel",
+    "pass": 1
+   },
+   {
+    "quote": "Barrel doesn't lead with quizzes. Their engagements typically begin with strategy: understanding the brand, auditing the experience, and aligning on what the website needs to do. Quizzes become part of the solution when there's a specific engagement or data problem to solve.",
+    "url": "https://www.octaneai.com/case-studies/barrel",
+    "pass": 1
+   },
+   {
+    "quote": "Cabot came to Barrel with a vision to create an interactive quiz that guides customers in building their own charcuterie board using Cabot's high-quality products. Charcuterie board curation has grown in popularity in recent years, and we aimed to create a solution that would drive traffic to the site and increase on-site engagement.",
+    "url": "https://www.octaneai.com/case-studies/barrel",
+    "pass": 1
+   },
+   {
+    "quote": ", Senior Account Manager, Barrel",
+    "url": "https://www.octaneai.com/case-studies/barrel",
+    "pass": 1
+   },
+   {
+    "quote": "Barrel built Cabot Creamery a digital",
+    "url": "https://www.octaneai.com/case-studies/barrel",
+    "pass": 1
+   },
+   {
+    "quote": "For Barrel, the quiz was never just about driving a transaction. It was about meeting customers earlier in the journey—helping them explore products and recipes that actually made sense for them, long before they were ready to buy.",
+    "url": "https://www.octaneai.com/case-studies/barrel",
+    "pass": 1
+   },
+   {
+    "quote": "One of Barrel's consistent goals is to make sure the website doesn't operate in isolation. The quiz plugged directly into Cabot Creamery's existing Klaviyo setup, meaning the zero-party data collected through quiz responses flows into email and SMS automations without manual overhead.",
+    "url": "https://www.octaneai.com/case-studies/barrel",
+    "pass": 1
+   },
+   {
+    "quote": "For Cabot Creamery, the impact of Barrel's full engagement shows up across both digital performance and customer engagement. The numbers below reflect the combined optimization work, with the Octane AI quiz contributing to on-site engagement and first-party data collection as part of that broader effort.",
+    "url": "https://www.octaneai.com/case-studies/barrel",
+    "pass": 1
+   },
+   {
+    "quote": "Barrel looks for partners who understand the same clients they do—the retail dependencies, the offline-first buying behavior, the need for a DTC website to do more than move product.",
+    "url": "https://www.octaneai.com/case-studies/barrel",
+    "pass": 1
+   },
+   {
+    "quote": "That shared understanding is what made the Cabot Creamery collaboration work. Barrel brought the site strategy and CPG context; Octane AI brought the quiz infrastructure and data layer. Neither piece works as well without the other.",
+    "url": "https://www.octaneai.com/case-studies/barrel",
+    "pass": 1
+   },
+   {
+    "quote": "Barrel's work with Cabot Creamery is a case for building digital experiences that earn that loyalty—through education, personalization, and guided discovery that meet customers when they're curious, not just when they're ready to check out. The quiz didn't replace the grocery store. It gave Cabot Creamery a way to show up before and after it.",
+    "url": "https://www.octaneai.com/case-studies/barrel",
+    "pass": 1
+   },
+   {
+    "quote": "Get in touch with Barrel.",
+    "url": "https://www.octaneai.com/case-studies/barrel",
+    "pass": 1
+   },
+   {
+    "quote": "Partner Spotlight: SMCA Creative’s Strategy for Guided Ecommerce Growth. See how quiz-driven discovery helped reduce customer acquisition cost by ~43% for Florae Beauty.",
+    "url": "https://www.octaneai.com/case-studies/barrel",
+    "pass": 1
+   },
+   {
+    "quote": "SMCA Creative works closely with ecommerce brands to improve conversion and grow revenue through practical strategies that drive real performance, including quiz-driven experiences powered by Octane AI.",
+    "url": "https://www.octaneai.com/case-studies/smca-creative",
+    "pass": 1
+   },
+   {
+    "quote": ", SMCA Creative works closely with ecommerce brands to improve conversion and grow revenue through practical strategies that drive real performance.",
+    "url": "https://www.octaneai.com/case-studies/smca-creative",
+    "pass": 1
+   },
+   {
+    "quote": "Most brands still come to the agency for performance foundations such as Meta ads, Google Ads, and conversion-optimized websites—systems built to drive traffic and turn attention into revenue. But traffic alone isn't enough if customers don't feel confident in what to choose next.",
+    "url": "https://www.octaneai.com/case-studies/smca-creative",
+    "pass": 1
+   },
+   {
+    "quote": "4. Discovery began supporting long-term revenue, not just first purchases",
+    "url": "https://www.octaneai.com/case-studies/smca-creative",
+    "pass": 1
+   },
+   {
+    "quote": "Over time, personalization stops being a tactic and becomes part of how the business operates.",
+    "url": "https://www.octaneai.com/case-studies/smca-creative",
+    "pass": 1
+   },
+   {
+    "quote": ", introducing a quiz-driven entry point helped reduce customer acquisition cost by approximately",
+    "url": "https://www.octaneai.com/case-studies/smca-creative",
+    "pass": 1
+   },
+   {
+    "quote": "More effective new customer acquisition through personalized entry points",
+    "url": "https://www.octaneai.com/case-studies/smca-creative",
+    "pass": 1
+   },
+   {
+    "quote": "More sustainable revenue growth for challenger brands, still building demand",
+    "url": "https://www.octaneai.com/case-studies/smca-creative",
+    "pass": 1
+   },
+   {
+    "quote": "Instead of treating acquisition and personalization as separate efforts, guided discovery connects the two, turning early questions into meaningful insights that can shape the entire customer journey.",
+    "url": "https://www.octaneai.com/case-studies/smca-creative",
+    "pass": 1
+   },
+   {
+    "quote": "With Octane AI, that insight becomes scalable. Zero-party data collected through quizzes can power more personalized recommendations, smarter acquisition strategies, and lifecycle marketing that adapts to what each customer actually needs.",
+    "url": "https://www.octaneai.com/case-studies/smca-creative",
+    "pass": 1
+   },
+   {
+    "quote": "For agencies and brands looking to create that kind of growth, the next step is simple—explore how personalized quiz funnels can clarify discovery, lower acquisition costs, and build stronger relationships from the start.",
+    "url": "https://www.octaneai.com/case-studies/smca-creative",
+    "pass": 1
+   },
+   {
+    "quote": "Partner Spotlight: Barrel’s Strategy for Turning On-Site Engagement into Long-Term CPG Growth. See how a quiz-driven strategy helped Cabot Creamery turn its website into a first-party data engine.",
+    "url": "https://www.octaneai.com/case-studies/smca-creative",
+    "pass": 1
+   },
+   {
+    "quote": "Before Octane AI arrived on the scene, Pack'd had some idea of who their customers were—but what drew them to the brand? That was a little bit fuzzier.",
+    "url": "https://www.octaneai.com/case-studies/packd",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue share – Earn recurring commission on every client you refer",
+    "url": "https://www.octaneai.com/case-studies/packd",
+    "pass": 1
+   },
+   {
+    "quote": "Nearly 49% of quiz takers opted into their post-quiz email flow, which has become their most successful email flow based on revenue per recipient.",
+    "url": "https://www.octaneai.com/case-studies/packd",
+    "pass": 1
+   },
+   {
+    "quote": "How UNITE HAIR Generates 17% of Revenue From Their Quiz (While Increasing Average Order Value 21%) | Octane AI",
+    "url": "https://www.octaneai.com/case-studies/unite-hair",
+    "pass": 1
+   },
+   {
+    "quote": "How UNITE HAIR Generates 17% of Revenue From Their Quiz While Increasing",
+    "url": "https://www.octaneai.com/case-studies/unite-hair",
+    "pass": 1
+   },
+   {
+    "quote": "With a diverse product line spanning different hair types and concerns, UNITE HAIR leveraged Octane AI's quiz to guide customers to the perfect products—driving 17% of revenue and 21% higher AOV with 60 personalized result pages.",
+    "url": "https://www.octaneai.com/case-studies/unite-hair",
+    "pass": 1
+   },
+   {
+    "quote": "UNITE HAIR offers 15% off site-wide for email signups, but offers 20% off for those who complete the quiz—delivered only via email. This strategy alone has helped UNITE HAIR generate 17% of all their revenue via Octane AI's quiz!",
+    "url": "https://www.octaneai.com/case-studies/unite-hair",
+    "pass": 1
+   },
+   {
+    "quote": "The only way to receive the discount code is via email. This alone has helped UNITE HAIR generate 17% of all their revenue via Octane AI's quiz!",
+    "url": "https://www.octaneai.com/case-studies/unite-hair",
+    "pass": 1
+   },
+   {
+    "quote": "Of all revenue in the past year came from people who took the quiz",
+    "url": "https://www.octaneai.com/case-studies/unite-hair",
+    "pass": 1
+   },
+   {
+    "quote": "The quiz drives up to 24% of revenue during non-promotional periods",
+    "url": "https://www.octaneai.com/case-studies/unite-hair",
+    "pass": 1
+   },
+   {
+    "quote": "Our quiz averages about 17 percent of our revenue, and can be as high as 24% of revenue when we do not have any promotions running.",
+    "url": "https://www.octaneai.com/case-studies/unite-hair",
+    "pass": 1
+   },
+   {
+    "quote": "By doubling down on personalization and lead generation with Octane AI's quiz, UNITE HAIR aims to further boost metrics like order value, conversion rate, customer retention, and revenue over the long term.",
+    "url": "https://www.octaneai.com/case-studies/unite-hair",
+    "pass": 1
+   },
+   {
+    "quote": "The business impact was dramatic: 17% of all revenue comes through the quiz. And quiz takers spend 21% more compared to non-quiz customers, generating significant revenue lifts.",
+    "url": "https://www.octaneai.com/case-studies/unite-hair",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Our most-used integration. Every quiz answer and recommended product syncs to Klaviyo in real time, so every email can speak to each shopper based on what they told you.",
+    "url": "https://www.octaneai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Use every quiz answer to personalize your email copy.",
+    "url": "https://www.octaneai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Send Email: Your Results",
+    "url": "https://www.octaneai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sync dynamic properties to your Klaviyo account for granular segmentation and email customization.",
+    "url": "https://www.octaneai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every quiz a shopper takes adds to the same profile: their answers, their result, what they care about. Over time you know each customer a little better, and every email feels written just for them.",
+    "url": "https://www.octaneai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Email flow blueprints & best practices",
+    "url": "https://www.octaneai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Using Octane AI, florence by mills is personalizing product recommendations, emails and SMS flows, providing a better customer experience that converts.",
+    "url": "https://www.octaneai.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "With an Octane AI quiz, Curlsmith enhanced email marketing with personalization, captured 100K+ subscribers and increased email revenue by 10% with the Klaviyo integration.",
+    "url": "https://www.octaneai.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "INH combines interactive Octane AI quizzes with Klaviyo to power personalized onsite and email experiences—helping site visitors find their favorite style.",
+    "url": "https://www.octaneai.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Using Octane AI, Bariatric Fusion collects more email opt-ins and provides accurate product recommendations that help convert site visitors into loyal customers.",
+    "url": "https://www.octaneai.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Email flow blueprints & best practices",
+    "url": "https://www.octaneai.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "The Enterprise plan ($500+/month) includes everything in Plus, plus a dedicated Account Manager who provides quiz strategy, optimization guidance, and email flow blueprints. They'll advise you on best practices and help you get the most out of your quizzes through regular strategy calls.",
+    "url": "https://www.octaneai.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Native integrations to sync quiz data with your email, SMS, analytics, and support tools—all in real-time.",
+    "url": "https://www.octaneai.com/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "Personalize emails with quiz data",
+    "url": "https://www.octaneai.com/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "Email and SMS Marketing",
+    "url": "https://www.octaneai.com/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "Data syncs in real-time. Trigger flows, build segments, personalize emails.",
+    "url": "https://www.octaneai.com/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "At Barrel, the website is the brand's digital flagship. Meta, email, retail, and search each have a role to play, but the website is the only place where a CPG brand can deliver the full experience, tell the full story, and bring all other channels together in one place. It's the foundation that makes the rest of the ecosystem work harder.",
+    "url": "https://www.octaneai.com/case-studies/barrel",
+    "pass": 1
+   },
+   {
+    "quote": "For CPG brands that rely heavily on retail, email lists are a strategic asset, often more valuable than checkout conversion rates.",
+    "url": "https://www.octaneai.com/case-studies/barrel",
+    "pass": 1
+   },
+   {
+    "quote": "The Cabot Creamery quiz was designed to build that asset through a natural, low-friction exchange: shoppers share their occasion and preferences, and in return, they get a personalized board recommendation and an email with tailored results.",
+    "url": "https://www.octaneai.com/case-studies/barrel",
+    "pass": 1
+   },
+   {
+    "quote": "One of Barrel's consistent goals is to make sure the website doesn't operate in isolation. The quiz plugged directly into Cabot Creamery's existing Klaviyo setup, meaning the zero-party data collected through quiz responses flows into email and SMS automations without manual overhead.",
+    "url": "https://www.octaneai.com/case-studies/barrel",
+    "pass": 1
+   },
+   {
+    "quote": ", an email personalization and marketing agency, for a long time now, with Aoife Teague (Director of Partnerships at Octane AI) leading the relationship.",
+    "url": "https://www.octaneai.com/case-studies/packd",
+    "pass": 1
+   },
+   {
+    "quote": "With a 15.26% quiz conversion rate and an all-time top-performing email flow under their belts, Pack'd is proving what's possible when quiz data drives CRM.",
+    "url": "https://www.octaneai.com/case-studies/packd",
+    "pass": 1
+   },
+   {
+    "quote": "to opt in to the email list.",
+    "url": "https://www.octaneai.com/case-studies/packd",
+    "pass": 1
+   },
+   {
+    "quote": "When brands gatekeep quiz results, shoppers are more tempted to enter their information with the intention of unsubscribing later. But if shoppers are actively choosing to sign up for an email list, they'll be much more receptive and genuinely interested in the content.",
+    "url": "https://www.octaneai.com/case-studies/packd",
+    "pass": 1
+   },
+   {
+    "quote": "To keep engagement up, the quiz's email list sign-up offers a small incentive to prospective shoppers who opt in.",
+    "url": "https://www.octaneai.com/case-studies/packd",
+    "pass": 1
+   },
+   {
+    "quote": "Once users finish the quiz, they receive their curated product recommendations, teeing up an immediate conversion and feeding the user into a post-quiz email flow.",
+    "url": "https://www.octaneai.com/case-studies/packd",
+    "pass": 1
+   },
+   {
+    "quote": "Even if the conversion isn't immediate, Pack'd is armed with a wealth of new data points to make a targeted pitch and bring these shoppers back in that email flow.",
+    "url": "https://www.octaneai.com/case-studies/packd",
+    "pass": 1
+   },
+   {
+    "quote": "Email, Segmentation, and Creative Strategy Powered by Quiz Data",
+    "url": "https://www.octaneai.com/case-studies/packd",
+    "pass": 1
+   },
+   {
+    "quote": "Customer quizzes are just an in for a much bigger play. Nearly half of all Pack'd quiz takers opted into their email list, and that's where the zero-party quiz data really makes a difference.",
+    "url": "https://www.octaneai.com/case-studies/packd",
+    "pass": 1
+   },
+   {
+    "quote": "and custom segments. From there, the Get Better team develops customized email flows customized to each buyer. For example, only vegan customers seeking lunch prep recipes — yes,",
+    "url": "https://www.octaneai.com/case-studies/packd",
+    "pass": 1
+   },
+   {
+    "quote": "When we send a recipe email—like for nasi goreng—we don't send it to everyone. We target people who said they care about rice alternatives. The engagement is so much higher.",
+    "url": "https://www.octaneai.com/case-studies/packd",
+    "pass": 1
+   },
+   {
+    "quote": "Get Better are the email marketing mavens for scaling DTC brands, and we've got a growing list of shared clients who benefit from having both sides of the puzzle — strategy and tech — working in sync.",
+    "url": "https://www.octaneai.com/case-studies/packd",
+    "pass": 1
+   },
+   {
+    "quote": "Let's circle back to what started this journey: Pack'd wanted to improve their CRM and email content strategy to drive customer retention and growth.",
+    "url": "https://www.octaneai.com/case-studies/packd",
+    "pass": 1
+   },
+   {
+    "quote": "Nearly 49% of quiz takers opted into their post-quiz email flow, which has become their most successful email flow based on revenue per recipient.",
+    "url": "https://www.octaneai.com/case-studies/packd",
+    "pass": 1
+   },
+   {
+    "quote": "More than welcome mails and abandoned checkout reminders, the survey post-flow was the most influential for high AOV conversions—an additional 17% of quiz takers came back to place an order as a result of the quiz results email.",
+    "url": "https://www.octaneai.com/case-studies/packd",
+    "pass": 1
+   },
+   {
+    "quote": "Pack'd's story is a testament to the power of collaboration and partnership, demonstrating how an integrated approach between tech and strategy, quiz and email, can redefine how a brand connects with its customers and empowers growth.",
+    "url": "https://www.octaneai.com/case-studies/packd",
+    "pass": 1
+   },
+   {
+    "quote": "Want to work with Get Better to see similar results with email personalization?",
+    "url": "https://www.octaneai.com/case-studies/packd",
+    "pass": 1
+   },
+   {
+    "quote": "Quiz takers opting into email list",
+    "url": "https://www.octaneai.com/case-studies/packd",
+    "pass": 1
+   },
+   {
+    "quote": "Post-quiz email flow performance",
+    "url": "https://www.octaneai.com/case-studies/packd",
+    "pass": 1
+   },
+   {
+    "quote": "Additional conversions from email follow-up",
+    "url": "https://www.octaneai.com/case-studies/packd",
+    "pass": 1
+   },
+   {
+    "quote": "Smart Email Capture Strategy",
+    "url": "https://www.octaneai.com/case-studies/unite-hair",
+    "pass": 1
+   },
+   {
+    "quote": "UNITE HAIR offers 15% off site-wide for email signups, but offers 20% off for those who complete the quiz—delivered only via email. This strategy alone has helped UNITE HAIR generate 17% of all their revenue via Octane AI's quiz!",
+    "url": "https://www.octaneai.com/case-studies/unite-hair",
+    "pass": 1
+   },
+   {
+    "quote": "The 20% dynamic discount code is emailed along with a link to the personalized routine so that the customer can purchase at any time. The discount code is time-sensitive, expiring in 7 days, which creates a real sense of urgency.",
+    "url": "https://www.octaneai.com/case-studies/unite-hair",
+    "pass": 1
+   },
+   {
+    "quote": "Integrate seamlessly with UNITE HAIR's email service provider, Klaviyo, for customized follow-up messaging after the quiz.",
+    "url": "https://www.octaneai.com/case-studies/unite-hair",
+    "pass": 1
+   },
+   {
+    "quote": "Once the quiz is completed, if the customer submits an email, the zero party data gathered in the quiz is created in their Klaviyo profile for future segmentation.",
+    "url": "https://www.octaneai.com/case-studies/unite-hair",
+    "pass": 1
+   },
+   {
+    "quote": "Interestingly, UNITE HAIR has a solid strategy to get leads into their quiz funnel. Site-wide, visitors are offered 15% in exchange for the email. However, to incentivize visitors to take the quiz, UNITE HAIR offers 20% for those that add their email after completing the quiz.",
+    "url": "https://www.octaneai.com/case-studies/unite-hair",
+    "pass": 1
+   },
+   {
+    "quote": "20% discount offer for quiz email opt-in",
+    "url": "https://www.octaneai.com/case-studies/unite-hair",
+    "pass": 1
+   },
+   {
+    "quote": "The only way to receive the discount code is via email. This alone has helped UNITE HAIR generate 17% of all their revenue via Octane AI's quiz!",
+    "url": "https://www.octaneai.com/case-studies/unite-hair",
+    "pass": 1
+   },
+   {
+    "quote": "Meanwhile, the 20% dynamic discount code is emailed, along with a link to the personalized routine so that the customer can purchase at any time:",
+    "url": "https://www.octaneai.com/case-studies/unite-hair",
+    "pass": 1
+   },
+   {
+    "quote": "Post-quiz email with personalized recommendations and discount",
+    "url": "https://www.octaneai.com/case-studies/unite-hair",
+    "pass": 1
+   },
+   {
+    "quote": "Meanwhile, the Klaviyo email flow continues to nurture the lead, sharing the brand story, education, and products.",
+    "url": "https://www.octaneai.com/case-studies/unite-hair",
+    "pass": 1
+   },
+   {
+    "quote": "Ongoing email nurture sequence",
+    "url": "https://www.octaneai.com/case-studies/unite-hair",
+    "pass": 1
+   },
+   {
+    "quote": "The success of their initial quiz validated the importance of custom recommendations and guides their future personalization efforts across the site, email campaigns, and more.",
+    "url": "https://www.octaneai.com/case-studies/unite-hair",
+    "pass": 1
+   },
+   {
+    "quote": "With an Octane AI quiz, Curlsmith enhanced email marketing with personalization, captured 100K+ subscribers and increased email revenue by 10% with the Klaviyo integration.",
+    "url": "https://www.octaneai.com/case-studies/unite-hair",
+    "pass": 1
+   },
+   {
+    "quote": "Cake's product recommendation quiz serves five main purposes: understand who their customers are and what they want, build out customer segmentation based on their responses, give customized product recommendations based on behavior and interests, capture more emails for nurturing, and inform bigger business strategy—particularly their product roadmap.",
+    "url": "https://www.octaneai.com/case-studies/cake",
+    "pass": 1
+   },
+   {
+    "quote": "Capture emails for personalized nurturing and follow-up campaigns",
+    "url": "https://www.octaneai.com/case-studies/cake",
+    "pass": 1
+   },
+   {
+    "quote": "Capture more emails for nurturing.",
+    "url": "https://www.octaneai.com/case-studies/cake",
+    "pass": 1
+   },
+   {
+    "quote": "We have seen tremendous results with Octane AI in incremental revenue on top of engagement (which results in email captures). Giving people curated products that are relevant to them is highly efficient in getting them to convert and become repeat customers.",
+    "url": "https://www.octaneai.com/case-studies/cake",
+    "pass": 1
+   },
+   {
+    "quote": "3,000 new emails",
+    "url": "https://www.octaneai.com/case-studies/cake",
+    "pass": 1
+   },
+   {
+    "quote": "Clean customer data synced to Klaviyo for personalized email flows.",
+    "url": "https://www.octaneai.com/case-studies/chaz-dean",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Apply as an agency partner",
+    "url": "https://www.octaneai.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Partners and Agencies",
+    "url": "https://www.octaneai.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How a frozen food brand and its agency partner, Get Better, used Octane AI to personalize customer journeys, increase AOV, and uncover the insights that changed everything.",
+    "url": "https://www.octaneai.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Get a personalized demo tailored to your brand, products, and goals.",
+    "url": "https://www.octaneai.com/demo",
+    "pass": 1
+   },
+   {
+    "quote": "Learn about your brand",
+    "url": "https://www.octaneai.com/demo",
+    "pass": 1
+   },
+   {
+    "quote": "Partners and Agencies",
+    "url": "https://www.octaneai.com/case-studies/barrel",
+    "pass": 1
+   },
+   {
+    "quote": "Working with a CPG brand and looking for an agency partner?",
+    "url": "https://www.octaneai.com/case-studies/barrel",
+    "pass": 1
+   },
+   {
+    "quote": "Partners and Agencies",
+    "url": "https://www.octaneai.com/case-studies/smca-creative",
+    "pass": 1
+   },
+   {
+    "quote": "For agencies and brands looking to create that kind of growth, the next step is simple—explore how personalized quiz funnels can clarify discovery, lower acquisition costs, and build stronger relationships from the start.",
+    "url": "https://www.octaneai.com/case-studies/smca-creative",
+    "pass": 1
+   },
+   {
+    "quote": "How a frozen food brand and its agency partner, Get Better, used Octane AI to personalize customer journeys, increase AOV, and uncover the insights that changed everything.",
+    "url": "https://www.octaneai.com/case-studies/packd",
+    "pass": 1
+   },
+   {
+    "quote": "When the UK-based frozen food brand was looking for powerful insights to better connect with their customers and sustainably scale their business, their agency partner, Get Better, knew how to take them to the next level.",
+    "url": "https://www.octaneai.com/case-studies/packd",
+    "pass": 1
+   },
+   {
+    "quote": "See what Octane AI can do for your brand",
+    "url": "https://www.octaneai.com/case-studies/packd",
+    "pass": 1
+   },
+   {
+    "quote": "But when the UK-based frozen food brand was looking for powerful insights to better connect with their customers and sustainably scale their business, their agency partner, Get Better, knew how to take them to the next level.",
+    "url": "https://www.octaneai.com/case-studies/packd",
+    "pass": 1
+   },
+   {
+    "quote": "“Get Better brought a strategic lens that made Pack'd's quiz go beyond product recs—it became the center of their CRM strategy. Agencies like Get Better know how to turn data into strategy. It's the kind of collaboration that makes Octane AI shine.” shared Octane AI's director of partnerships, Aoife.",
+    "url": "https://www.octaneai.com/case-studies/packd",
+    "pass": 1
+   },
+   {
+    "quote": "Why Agencies Love Working with Us:",
+    "url": "https://www.octaneai.com/case-studies/packd",
+    "pass": 1
+   },
+   {
+    "quote": "Thinking of joining our partner program? Let's talk.",
+    "url": "https://www.octaneai.com/case-studies/packd",
+    "pass": 1
+   },
+   {
+    "quote": "See what Octane AI can do for your brand",
+    "url": "https://www.octaneai.com/case-studies/unite-hair",
+    "pass": 1
+   },
+   {
+    "quote": "See what Octane AI can do for your brand",
+    "url": "https://www.octaneai.com/case-studies/cake",
+    "pass": 1
+   },
+   {
+    "quote": "See what Octane AI can do for your brand",
+    "url": "https://www.octaneai.com/case-studies/chaz-dean",
+    "pass": 1
+   },
+   {
+    "quote": "What a Product Quiz Can Do For Your Brand",
+    "url": "https://www.octaneai.com/case-studies/chaz-dean",
+    "pass": 1
+   },
+   {
+    "quote": "Insurance Agencies and Brokerages",
+    "url": "https://bloomberry.com/data/octaneai/",
+    "pass": 3
+   },
+   {
+    "quote": "By incorporating AI into your business, you can save time and costs, making your brand more productive and efficient.",
+    "url": "https://note.com/panda_lab/n/n20f9ab6d2d70?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本語のサポート情報がもう少し充実していると安心です",
+    "url": "https://my-best.ai/ai-tools/octane-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "AIツールの情報を、日本のユーザーに向けて紹介しませんか",
+    "url": "https://my-best.ai/ai-tools/octane-ai/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Octane AIとは｜料金・機能・評判｜MY-BEST.AI — Oct 18, 2026 · Octane AIはEコマース向けAIチャットボットプラットフォームで、自動顧客対応とパーソナライズ商品推薦に特化しています。 料金プラン・使い方・メリット/デメリット・評判・代替ツールまで本記事で徹底解説します。",
+    "url": "https://my-best.ai/ai-tools/octane-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Octane AIとは？機能・特徴・使い方・おすすめの活用シーンまで徹底解... — これは、今後の商品開発やマーケティング戦略に活かせます。 Octane AIを導入することで、ECサイトは顧客とのエンゲージメントを深め、より効果的なパーソナライゼーションを実現し、結果としてコンバージョン率の向上と売上増加に貢献します。",
+    "url": "https://airanking.app/ja/tools/octane-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Contact Us - Get in Touch with Octane AI | Octane AI — Have questions about Octane AI? Contact our team for sales inquiries, support, partnerships, or general questions. We're here to help.",
+    "url": "https://www.octaneai.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "Companies that use OctaneAI (active customer list) — 1 day ago · We detected 1,631 companies using OctaneAI, 242 companies that churned, and 52 customers with upcoming renewal in the next 3 months. The most common industry is Retail (40%) and the most common company size is 2-10 employees (58%).",
+    "url": "https://bloomberry.com/data/octaneai/",
+    "pass": 3
+   },
+   {
+    "quote": "AI quiz maker and analytics for Shopify brands | Octane AI — Octane AI is built specifically for ecommerce, with native Shopify integration, AI-powered product recommendations, and deep integrations with Klaviyo, Attentive, and other marketing tools.",
+    "url": "https://www.octaneai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact Us - Get in Touch with Octane AI | Octane AI — Contact our team for sales inquiries, support, partnerships, or general questions. We're here to help.",
+    "url": "https://www.octaneai.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "Octane AI — Octane connects your engineering records, operational data and domain knowledge to deliver traceable answers — inside your environment.",
+    "url": "https://octaneai.in/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies - How Top Brands Win with Product Quizzes ... — See how mattress brand Polysleep leveraged zero-party data with Octane AI's quiz to completely transform customer experience and get a 6x improvement in conversion rates.",
+    "url": "https://www.octaneai.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "How CYSM Lifted Revenue by 57% in 60 Days | Octane AI Case ... — Using a full zero-party data strategy powered by Octane AI, CYSM was able to engage with more customers and build personalized relationships. CYSM is a Colombia-based apparel brand that's all about making women feel comfortable, confident and sexy all at once—without sacrificing their health.",
+    "url": "https://www.octaneai.com/case-studies/cysm",
+    "pass": 3
+   },
+   {
+    "quote": "Companies that use OctaneAI (active customer list) — 1 day ago · We detected 1,631 companies using OctaneAI, 242 companies that churned, and 52 customers with upcoming renewal in the next 3 months. We find new customers by detecting JavaScript snippets or configurations on customer websites.",
+    "url": "https://bloomberry.com/data/octaneai/",
+    "pass": 3
+   },
+   {
+    "quote": "Alloy Automation Case Study: Octane AI – How Octane uses ... — CaseStudies.com provides B2B prospects with 1,108,719+ validated case studies, success stories, & customer stories that will help buyers make better software purchasing decisions.",
+    "url": "https://www.casestudies.com/company/alloy-automation/case-study/how-octane-uses-alloy-to-launch-integrations-that-power-its-ai-review-insights",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Cake achieves a 10% revenue lift with Octane AI — This solution provided highly personalized product recommendations, leading to a 10% increase in revenue and an additional $50,000 in sales within three months. The quiz also achieved an 84% completion rate and captured over 3,000 new emails for the brand. View this case study…",
+    "url": "https://www.casestudies.com/company/octane-ai/case-study/cake-increases-revenue-10-with-octane-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Octane AI Funding, Revenue & Investors — $14M Raised (2026 ... — Founded in 2016 and headquartered in San Francisco, United States, Octane AI, Inc. has raised a total of $14M in funding and is currently at the Series A stage.",
+    "url": "https://www.tooljunction.io/ai-tools/octane-ai/company",
+    "pass": 3
+   },
+   {
+    "quote": "Octane AI Revenue, Funding & Valuation - prospeo.ioOctane - 2026 Company Profile, Team, Funding & Competitors ...Octane AI Revenue 2024: $9.7M Est., $10.8M RaisedOctane AI 2026 Company Profile: Valuation, Funding ...Octane AI – Revenue Estimate & Market Landscape – 2026Octane AI: Funding, Investors & Team (Nov 2026) | FundedIQ — Octane AI has revenue of $3,000,000, estimated valuation of $9,600,00",
+    "url": "https://prospeo.io/c/octane-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Octane - 2026 Company Profile, Team, Funding & Competitors ...Octane AI Revenue 2024: $9.7M Est., $10.8M RaisedOctane AI 2026 Company Profile: Valuation, Funding ...Octane AI – Revenue Estimate & Market Landscape – 2026Octane AI: Funding, Investors & Team (Nov 2026) | FundedIQ — Feb 2, 2026 · Octane has raised $14M in funding from investors like Javelin Venture Partners, Hired and General Catalyst",
+    "url": "https://tracxn.com/d/companies/octane/__4GeRirWnUl7PXXFDJ2qE277WqPUWqTwRlxo-H7qLetc",
+    "pass": 3
+   },
+   {
+    "quote": "Octane AI Revenue 2024: $9.7M Est., $10.8M Raised — Oct 30, 2026 · Octane AI is an E-Commerce Personalization Software company based in San Francisco, founded in 2016.",
+    "url": "https://getlatka.com/companies/octane-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Octane AI 2026 Company Profile: Valuation, Funding ...Octane AI – Revenue Estimate & Market Landscape – 2026Octane AI: Funding, Investors & Team (Nov 2026) | FundedIQ — Information on valuation, funding, cap tables, investors, and executives for Octane AI. Use the PitchBook Platform to explore the full profile. Octane AI's estimated revenue per employee stands at $126.2K. Octane AI has raised a to",
+    "url": "https://pitchbook.com/profiles/company/167867-83",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "The Future of D2C Brands Transformed by AI! Concrete Use ... May 31, 2023 · OctaneAI is AI for quizzes. How to strengthen D2C brands by leveraging AI: Using AI can improve productivity and reduce costs. D2C brands that integrate AI can acquire and retain customers more efficiently than their competitors. AI can benefit D2C brands in every department, including content creation, customer acquisitio",
+    "url": "https://note.com/panda_lab/n/n20f9ab6d2d70?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A society is emerging on an SNS where humans cannot enter #1 So, once again today, a toast to the future 🥃 moltbook - the front page of the agent internet A social network built exclusively for AI agents. Where AI ag www.moltbook.com Tweets by MattPRD Octane AI - #1 Product Quiz Platform for Shopify Create personalized product quizzes that convert browsers int www.octaneai.com",
+    "url": "https://note.com/la8bo/n/nb7e2e77e6578?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "人間が入れないSNSで、社会が生まれている＃1｜モルラボAI 未来に乾杯🥃 moltbook - the front page of the agent internet A social network built exclusively for AI agents. Where AI ag www.moltbook.com Tweets by MattPRD Octane AI - #1 Product Quiz Platform for Shopify Create personalized product quizzes that convert browsers int www.octaneai.com https://venturebeat.com/ ダウンロード copy",
+    "url": "https://note.com/la8bo/n/nb7e2e77e6578",
+    "pass": 3
+   },
+   {
+    "quote": "クイズでパーソナライズのためのゼロパーティーデータを収集する「Oct... Oct 9, 2022 · このように、クイズプラットフォームであるOctane AIは、EC上でパーソナライズされた提案をするだけではなく、クイズを通して顧客のライフスタイルや好みをデータとして蓄積していくところに強みがある。",
+    "url": "https://note.com/cerealtalk/n/na6a88a316deb",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "The Future of D2C Brands Transformed by AI! Concrete Use Cases to Reduce Time and Costs｜0xpanda alpha lab",
+    "url": "https://note.com/panda_lab/n/n20f9ab6d2d70?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Future of D2C Brands Transformed by AI! Concrete Use Cases to Reduce Time and Costs",
+    "url": "https://note.com/panda_lab/n/n20f9ab6d2d70?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What are the ways to use AI to significantly improve the productivity of D2C brands? I found a video and an article introducing actual success stories, so I will introduce their content here. By utilizing AI in various departments, such as product photography and promotional content creation, D2C brands can become more productive and efficient.",
+    "url": "https://note.com/panda_lab/n/n20f9ab6d2d70?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.loom.com/share/e725674153db475a9a08e23fdefb9473",
+    "url": "https://note.com/panda_lab/n/n20f9ab6d2d70?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "https://caveminds.substack.com/p/caveminds-x-d2c-ai-deep-dive-issue",
+    "url": "https://note.com/panda_lab/n/n20f9ab6d2d70?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The following is a summary of the key points from the video and article.",
+    "url": "https://note.com/panda_lab/n/n20f9ab6d2d70?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Importance of AI in D2C Brands:",
+    "url": "https://note.com/panda_lab/n/n20f9ab6d2d70?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "AI is bringing a revolution to D2C brands.",
+    "url": "https://note.com/panda_lab/n/n20f9ab6d2d70?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "クイズでパーソナライズのためのゼロパーティーデータを収集する「Octane AI」｜CEREAL TALK（シリアルトーク）",
+    "url": "https://note.com/cerealtalk/n/na6a88a316deb",
+    "pass": 3
+   },
+   {
+    "quote": "クイズでパーソナライズのためのゼロパーティーデータを収集する「Octane AI」",
+    "url": "https://note.com/cerealtalk/n/na6a88a316deb",
+    "pass": 3
+   },
+   {
+    "quote": "サイトに訪れると、「好きな色は？」「よく見るNetflixの番組は？」といった質問が現れ、答えていくと自分にあわせた商品がレコメンドされる。そんなクイズ形式のコンテンツを体験したことがある人も多いだろう。",
+    "url": "https://note.com/cerealtalk/n/na6a88a316deb",
+    "pass": 3
+   },
+   {
+    "quote": "のサイトに訪れると、自動的にクイズが表示される。",
+    "url": "https://note.com/cerealtalk/n/na6a88a316deb",
+    "pass": 3
+   },
+   {
+    "quote": "これらの質問に回答し終わると、結果を送信するためのメールアドレス入力を促されたあと、おすすめのつけまつげが表示される。",
+    "url": "https://note.com/cerealtalk/n/na6a88a316deb",
+    "pass": 3
+   },
+   {
+    "quote": "こうした簡易的なクイズや診断コンテンツを手軽に作り、ECサイトに埋め込めるサービスを提供しているのが",
+    "url": "https://note.com/cerealtalk/n/na6a88a316deb",
+    "pass": 3
+   },
+   {
+    "quote": "「ゼロパーティデータ」の収集を目指すOctane AI",
+    "url": "https://note.com/cerealtalk/n/na6a88a316deb",
+    "pass": 3
+   },
+   {
+    "quote": "アメリカのD2CがOctane AIをはじめとするクイズプラットフォームをECサイトに取り入れ始めている背景には、「ゼロパーティデータ」の重要性が上がっている点にある。",
+    "url": "https://note.com/cerealtalk/n/na6a88a316deb",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Octane AI (@OctaneAI) / Posts / X New report from @ZDNET shows that @OctaneAI is the #4th most popular consumer AI being loaded on mobile devices on the web, reaching 8.8 million unique people during the tracking period.",
+    "url": "https://x.com/OctaneAI",
+    "pass": 3
+   },
+   {
+    "quote": "Octane AI on X: \"We love to see @octaneai in the wild! ... Octane AI on X: \"We love to see @octaneai in the wild! 👸 @Tower28Beauty 👸 @seanfrank @robinreplies @mattprd @tombrown\"",
+    "url": "https://x.com/OctaneAI/status/1959001761265721751",
+    "pass": 3
+   },
+   {
+    "quote": "As you may know, @yesnoerror $YNE was started as an @octaneai ... As the new CEO of @octaneai, I want to confirm with the community that we will continue to maintain this initiative and will share updates publicly as new developments are made! 👍👎🚫",
+    "url": "https://x.com/gabrielmenvi/status/2049904603148210429",
+    "pass": 3
+   },
+   {
+    "quote": "Did you catch our first live demo? Our Account Manager Leo ... Octane AI (@OctaneAI). 👀 Did you catch our first live demo? Our Account Manager Leo unveiled HTML Blocks—just a few lines of code for slick progress bars & review sections.",
+    "url": "https://x.com/OctaneAI/status/1935691540904468832",
+    "pass": 3
+   },
+   {
+    "quote": "Octane AI (@OctaneAI) / Posts / X If you are using @OctaneAI for your quiz, you are already making good revenue, and you want me to personally jump in and run a/b tests, ping me here. I will work with as many of you as I can.",
+    "url": "https://x.com/OctaneAI",
+    "pass": 3
+   },
+   {
+    "quote": "Octane AI on X: \"We love to see @octaneai in the wild! Octane AI on X: \"We love to see @octaneai in the wild! 👸 @Tower28Beauty 👸 @seanfrank @robinreplies @mattprd @tombrown\"",
+    "url": "https://x.com/OctaneAI/status/1959001761265721751",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Aoife Teague - Octane AI | LinkedInGabriel Menezes - CEO at Octane AI | Building AI-powered ...#quizai #octaneai #ecommerce #shopify #innovation # ...Marina Pérez García - President at Octane AI | Helping e ...Amendra Pratap - Helping CFOs modernise finance with ... Experience: Octane AI · Education: Dundalk Institute of Technology · Location: Dublin · 500+ connections on LinkedIn. View Aoife Teag",
+    "url": "https://ie.linkedin.com/in/aoifeteague",
+    "pass": 3
+   },
+   {
+    "quote": "Gabriel Menezes - CEO at Octane AI | Building AI-powered ...#quizai #octaneai #ecommerce #shopify #innovation # ...Marina Pérez García - President at Octane AI | Helping e ...Amendra Pratap - Helping CFOs modernise finance with ... At Octane AI, we’ve been working at the intersection of AI and eCommerce for years, helping brands better understand their customers and drive revenue through personali",
+    "url": "https://br.linkedin.com/in/gabriel-menezes-2506a41b5",
+    "pass": 3
+   },
+   {
+    "quote": "Octane AI - LinkedIn Built by a lean, product-obsessed team, Octane AI now powers 3,000+ brands, delivering 10-30 % lifts in AOV while reducing acquisition costs and churn.",
+    "url": "https://www.linkedin.com/company/octane-ai",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Octane AI - FacebookOctie had a great idea, and we need your help sharing it with ...Octane AI - Zero-party data + subscription? That's right!...Octane AI - “Should my brand offer a subscription model?”...Octane AI - FacebookOctane AI - As a partner for Accel, Ethan Choi spends a...Octane AI - We have something exciting to announce... ... Mar 11, 2022 · What does Klaviyo + Octane AI + Shopify have",
+    "url": "https://www.facebook.com/octaneai/",
+    "pass": 3
+   },
+   {
+    "quote": "Octane AI - Facebook View the Menu of Octane AI. Share it with friends or find your next meal. The zero-party data marketing platform for @Shopify stores Home of the...",
+    "url": "https://www.facebook.com/octaneai/menu/",
+    "pass": 3
+   },
+   {
+    "quote": "Octie had a great idea, and we need your help sharing it with ... May 11, 2020 · We've created an inspirational PDF featuring 100+ of the top Shopify food and beverage brands. From alcohol, coffee, tea, and snacks, there's something for everyone! It's seriously genius. Don't let Octie's hard work go to waste. Get the full access using this link https://join.octaneai.com/resources/pdf/foodanddrink",
+    "url": "https://www.facebook.com/octaneai/videos/octie-had-a-great-idea-and-we-need-your-help-sharing-it-with-other-ecommerce-bra/249993289682516/",
+    "pass": 3
+   },
+   {
+    "quote": "Octane AI - Zero-party data + subscription? That's right!... The Recharge integration is available for all Octane AI plans until the end of the year. Anyone who adds the integration before EOY will have it... FOREVER! Check out our blog to learn how you can start using it today http://www.octaneai.com/blog/recharge Or just reach out and we'll help you #Recharge",
+    "url": "https://www.facebook.com/octaneai/posts/zero-party-data-subscription-thats-right-we-are-pumped-to-announce-our-new-integ/1143288242746736/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.octaneai.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.octaneai.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.octaneai.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.octaneai.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.octaneai.com/integrations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.octaneai.com/demo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.octaneai.com/case-studies/barrel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.octaneai.com/case-studies/smca-creative",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.octaneai.com/case-studies/packd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.octaneai.com/case-studies/unite-hair",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.octaneai.com/case-studies/cake",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.octaneai.com/case-studies/chaz-dean",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.octaneai.com/images/logos/ilia.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.octaneai.com/images/logos/bambu-earth.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.octaneai.com/images/logos/jocko-fuel.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.octaneai.com/cdn-cgi/image/width=480,format=auto,quality=82/images/logos/makeup-by-mario.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://my-best.ai/ai-tools/octane-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ai-souken.com/article/ai-adoption-japan-status",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wayve.ai/ja/press/wayve-japan-launch/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000016.000180050.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.koaglobal.com/corporate/offices/distributors1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bloomberry.com/data/octaneai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan-forward.com/chinese-ai-hacking-tool-artex-targets-20-japanese-companies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bloomberry.com/data/octaneai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/alloy-automation/case-study/how-octane-uses-alloy-to-launch-integrations-that-power-its-ai-review-insights",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.databricks.com/partners/partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.tooljunction.io/ai-tools/octane-ai/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/octane-ai-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/octane/__4GeRirWnUl7PXXFDJ2qE277WqPUWqTwRlxo-H7qLetc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/octane-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/panda_lab/n/n20f9ab6d2d70?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/la8bo/n/nb7e2e77e6578?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/la8bo/n/nb7e2e77e6578",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/cerealtalk/n/na6a88a316deb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/OctaneAI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/OctaneAI/status/1959001761265721751",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/gabrielmenvi/status/2049904603148210429",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/OctaneAI/status/1935691540904468832",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ie.linkedin.com/in/aoifeteague",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://br.linkedin.com/in/gabriel-menezes-2506a41b5",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/octane-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/octaneai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/octaneai/menu/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/octaneai/videos/octie-had-a-great-idea-and-we-need-your-help-sharing-it-with-other-ecommerce-bra/249993289682516/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/octaneai/posts/zero-party-data-subscription-thats-right-we-are-pumped-to-announce-our-new-integ/1143288242746736/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/OctaneAI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/OctaneAI/status/1959001761265721751",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Octaneai 日本 導入",
+   "results": [
+    "https://my-best.ai/ai-tools/octane-ai/",
+    "https://www.ai-souken.com/article/ai-adoption-japan-status",
+    "https://wayve.ai/ja/press/wayve-japan-launch/",
+    "https://prtimes.jp/main/html/rd/p/000000016.000180050.html",
+    "https://airanking.app/ja/tools/octane-ai",
+    "https://qiita.com/criminalip/items/f745687fc1b1fa533086",
+    "https://zenn.dev/mkj/articles/980f90aeee0b0a"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Octaneai 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.koaglobal.com/corporate/offices/distributors1",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.octaneai.com/contact",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://www.indexpro.co.jp/distributor/search-maker"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Octaneai Japan",
+   "results": [
+    "https://bloomberry.com/data/octaneai/",
+    "https://japan-forward.com/chinese-ai-hacking-tool-artex-targets-20-japanese-companies/",
+    "https://www.octaneai.com/",
+    "https://www.octaneai.com/contact",
+    "https://octaneai.in/",
+    "https://octane.jp/",
+    "https://developers.octaneai.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Octaneai manufacturing customer case study",
+   "results": [
+    "https://www.octaneai.com/case-studies",
+    "https://www.octaneai.com/case-studies/cysm",
+    "https://bloomberry.com/data/octaneai/",
+    "https://www.casestudies.com/company/alloy-automation/case-study/how-octane-uses-alloy-to-launch-integrations-that-power-its-ai-review-insights",
+    "https://www.casestudies.com/company/octane-ai/case-study/cake-increases-revenue-10-with-octane-ai",
+    "https://www.featuredcustomers.com/vendor/octane-ai/case-studies",
+    "https://runalloy.com/case-studies/octane-ai/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Octaneai white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.databricks.com/partners/partner-program",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partner.vw.com/partner",
+    "https://partners.spectrum.com/",
+    "https://upcloud.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Octaneai founded funding employees revenue",
+   "results": [
+    "https://www.tooljunction.io/ai-tools/octane-ai/company",
+    "https://prospeo.io/c/octane-ai-revenue",
+    "https://tracxn.com/d/companies/octane/__4GeRirWnUl7PXXFDJ2qE277WqPUWqTwRlxo-H7qLetc",
+    "https://getlatka.com/companies/octane-ai",
+    "https://pitchbook.com/profiles/company/167867-83",
+    "https://compworth.com/company/octane-ai",
+    "https://fundediq.co/octane-ai-octaneai-com-funding/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Octaneai",
+   "results": [
+    "https://note.com/panda_lab/n/n20f9ab6d2d70?hl=en",
+    "https://note.com/la8bo/n/nb7e2e77e6578?hl=en",
+    "https://note.com/la8bo/n/nb7e2e77e6578",
+    "https://note.com/cerealtalk/n/na6a88a316deb",
+    "https://note.com/hiroshikinoshita/n/n695abcfd48cf",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/slidedogs_biz/n/n7f7e53c6edf8"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Octaneai",
+   "results": [
+    "https://x.com/OctaneAI",
+    "https://x.com/OctaneAI/status/1959001761265721751",
+    "https://x.com/gabrielmenvi/status/2049904603148210429",
+    "https://x.com/OctaneAI/status/1935691540904468832",
+    "https://x.com/OctaneAI/status/1296804546325417984",
+    "https://x.com/OctaneAI/status/1996337900938506695",
+    "https://x.com/ionirix/status/2055616970783965693"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Octaneai",
+   "results": [
+    "https://www.linkedin.com/company/getoctaneai",
+    "https://ie.linkedin.com/in/aoifeteague",
+    "https://br.linkedin.com/in/gabriel-menezes-2506a41b5",
+    "https://www.linkedin.com/company/octane-ai",
+    "https://in.linkedin.com/posts/benparr_quizai-octaneai-ecommerce-activity-7042182521018568704-L4Az",
+    "https://es.linkedin.com/in/marinaperezg",
+    "https://au.linkedin.com/in/amendrapratap"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Octaneai",
+   "results": [
+    "https://www.facebook.com/octaneai/",
+    "https://www.facebook.com/octaneai/menu/",
+    "https://www.facebook.com/octaneai/videos/octie-had-a-great-idea-and-we-need-your-help-sharing-it-with-other-ecommerce-bra/249993289682516/",
+    "https://www.facebook.com/octaneai/posts/zero-party-data-subscription-thats-right-we-are-pumped-to-announce-our-new-integ/1143288242746736/",
+    "https://www.facebook.com/octaneai/posts/should-my-brand-offer-a-subscription-model-its-a-question-every-founder-or-marke/1053217998420428/",
+    "https://www.facebook.com/octaneai/posts/we-have-something-exciting-to-announce-octane-ai-is-officially-joining-the-shopi/835915653483998/",
+    "https://www.facebook.com/octaneai/posts/as-a-partner-for-accel-ethan-choi-spends-a-lot-of-time-thinking-about-the-techno/1051428855266009/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Octaneai note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/ncc37a1d4aa0b",
+    "https://froggy.smbcnikko.co.jp/66484/",
+    "https://x.com/note_corp/status/2074734197949034502",
+    "https://www.octaneai.com/team",
+    "https://note.com/hiroshikinoshita/n/n695abcfd48cf"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Octaneai X 投稿",
+   "results": [
+    "https://x.com/OctaneAI",
+    "https://x.com/OctaneAI/status/1959001761265721751",
+    "https://www.instagram.com/octaneai/",
+    "https://www.octaneai.com/",
+    "https://x.com/MasakiAIDev/status/2118707376828055570",
+    "https://x.com/ishida_chatgpt/article/2066323646180954330",
+    "https://x.com/i/trending/2118916178269651113"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式12頁／PDF・画像4件／外部37頁・検索12回）"
+ }
+}

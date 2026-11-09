@@ -1,0 +1,532 @@
+{
+ "name": "Neway Precision Works — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:ceramics-3d-printing-service",
+ "researched_at": "2026-11-09T22:25:28.093459+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Neway Precision Works — VoxelMatters - The largest database ... — Our 3D Printing Process Solution offers cutting-edge technologies, including Material Extrusion, Powder Bed Fusion, and Directed Energy Deposition, enabling precision manufacturing, lightweight components, and optimized performance for aerospace, aviation, and other advanced industrial applications. Tailored to your unique needs.",
+    "url": "https://www.voxelmatters.directory/company/neway-precision-works/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Neway Precision Works Limited - FacebookVoxelMatters - FacebookDiscover the vital role of... - Neway Precision Works LimitedCNC machining, CNC... - Neway Precision Works Limited - FacebookEverything you need to... - Neway Precision Works Limited ...investment casting, lost... - Neway Precision Works Limited11 Manufacturing Process... - Neway Precision Works Limited ... May 9, 2026 · Turbine Engine",
+    "url": "https://www.facebook.com/Newayprecision/",
+    "pass": 3
+   },
+   {
+    "quote": "VoxelMatters - FacebookDiscover the vital role of... - Neway Precision Works LimitedCNC machining, CNC... - Neway Precision Works Limited - FacebookEverything you need to... - Neway Precision Works Limited ...investment casting, lost... - Neway Precision Works Limited11 Manufacturing Process... - Neway Precision Works Limited ... Unlock the Future of Metal Additive Manufacturing with VoxelMatters!",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.newayprecision.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.newaydiecast.com/newayprecision",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.newayaerotech.com/contact",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/category/3d-printing-services/am-factories/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Jameis_Winston",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/neway-precision-works/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ltddir.com/companies/neway-precision-works-limited/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/Newayprecision/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.newaydiecast.com/ja/newayprecision",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.newayprecision.com/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smcworld.com/newproducts/ja-jp/21/mhm-y/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.neway3dp.com/ja/solutions/architecture-and-construction",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.newayprecision.com/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.aliexpress.com/item/32849651857.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/s/attr_f5139-%E3%82%A8%E3%83%A9%E3%82%B9%E3%83%88%E3%83%9E%E3%83%BC/q-%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%20pla/?fpu=0&srsltid=AYCX9vJuDNdAOw9BOrwXGgP0zFNLRkHyRacXH_fYTh5yDz_5hzZEQBmQ",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://creator.holoearth.com/shop/products/1020390",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.newayprecision.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.newaydiecast.com/newayprecision",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neway3dp.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.newayprecision.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.newaydiecast.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neway3dp.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/-/en/Precision-Equipment-Transport-Container-0-2590-04/dp/B01KIZJOB2",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.amazon.co.jp",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://shigoto.amazon.co.jp/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/01117610/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/02950280/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/01201596/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.newayprecision.com/history",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neway3dp.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/Newayprecision/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Neway Precision Works — VoxelMatters 代理店",
+   "results": [
+    "https://www.newayprecision.com/",
+    "https://www.newaydiecast.com/newayprecision",
+    "https://www.newayaerotech.com/contact",
+    "https://www.voxelmatters.com/category/3d-printing-services/am-factories/",
+    "https://www.newayprecision.com/contact",
+    "https://www.neway3dp.com/",
+    "https://www.newaydiecast.com/",
+    "https://www.newayaerotech.com/",
+    "https://www.voxelmatters.directory/company-category/am-production-services/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Neway Precision Works — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://en.wikipedia.org/wiki/Jameis_Winston",
+    "https://www.voxelmatters.directory/company/neway-precision-works/",
+    "https://www.ltddir.com/companies/neway-precision-works-limited/",
+    "https://www.facebook.com/Newayprecision/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://osoyoo.com/ja/2018/09/20/microbit-basic-tutorial-9-banana-keyboard/",
+    "https://fbschedules.com/2027-washington-football-schedule/",
+    "https://ja.wikipedia.org/wiki/TOYOイノベックス"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Neway Precision Works — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.newaydiecast.com/ja/newayprecision",
+    "https://www.newayprecision.com/ja",
+    "https://www.smcworld.com/newproducts/ja-jp/21/mhm-y/",
+    "https://www.neway3dp.com/ja/solutions/architecture-and-construction",
+    "https://www.tpc.toray/",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://b2b.nanoegg.co.jp/products/33",
+    "https://shop.prc.jp/shop/g/g005281/?srsltid=AYCX9vKDbXqJvTRms25s17MqcUfoiKJNoCGoAKB3dv_lB1T50aWdqXj3",
+    "https://www.rakuseimodel.co.jp/onlineshop/product_list_by_maker.php?sicode=249",
+    "https://www.newayprecision.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Neway Precision Works — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.newayprecision.com/ja",
+    "https://ja.aliexpress.com/item/32849651857.html",
+    "https://www.monotaro.com/s/attr_f5139-%E3%82%A8%E3%83%A9%E3%82%B9%E3%83%88%E3%83%9E%E3%83%BC/q-%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%20pla/?fpu=0&srsltid=AYCX9vJuDNdAOw9BOrwXGgP0zFNLRkHyRacXH_fYTh5yDz_5hzZEQBmQ",
+    "https://creator.holoearth.com/shop/products/1020390",
+    "https://www.amazon.co.jp/-/en/Additive-Manufacturing-Products/b?ie=UTF8&node=2500103051",
+    "https://www.makuake.com/project/kokoni_3d/sct/",
+    "https://apple-tree.shop/?mode=grp&gid=2958647",
+    "https://www.brule.co.jp/parts-accessories.html?srsltid=AYCX9vIha0nnoAugLRpt1E1pWfb4b74qwvyIfSTT_ku4DoCoV2JUqQhw",
+    "https://shop.exmatelab.com/categories/5848213",
+    "https://skhonpo.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Neway Precision Works — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.newayprecision.com/",
+    "https://www.newaydiecast.com/newayprecision",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.neway3dp.com/partners",
+    "https://www.newayaerotech.com/",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://www.newayprecision.com/contact",
+    "https://www.newaydiecast.com/",
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://newaymfg.com/distributors"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Neway Precision Works — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.newayprecision.com/",
+    "https://www.newaydiecast.com/",
+    "https://www.neway3dp.com/partners",
+    "https://www.newayaerotech.com/newayprecision",
+    "https://www.voxelmatters.directory/company-category/ceramics-3d-printing-service/",
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://partners.solize.com/en/manufacturing",
+    "https://www.raise3d.com/sales-partners-voice/japan-3d-printer-co-ltd-sales-partner-in-japan/",
+    "https://japanesedistributors.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "site:amazon.co.jp Neway Precision Works — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/-/en/Precision-Equipment-Transport-Container-0-2590-04/dp/B01KIZJOB2",
+    "https://r.amazon.co.jp/",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://shigoto.amazon.co.jp/",
+    "https://ssofaast-wms.amazon.co.jp/",
+    "https://www.amazon.co.jp/Mila-Owen-ミラオーウェン-09WND261014-アンサンブルペプラムシアーポロニットカーディガン09WND261014レディース/dp/B0GBMWYFSN",
+    "https://business.amazon.co.jp/ja/login"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Neway Precision Works — VoxelMatters",
+   "results": [
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/g/01117610/",
+    "https://www.monotaro.com/g/02950280/",
+    "https://www.monotaro.com/g/01201596/",
+    "https://www.monotaro.com/g/01212365/",
+    "https://www.monotaro.com/g/00381897/",
+    "https://www.monotaro.com/g/01413745/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Neway Precision Works — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.newayprecision.com/history",
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "https://www.neway3dp.com/partners",
+    "https://www.owler.com/company/precisionresource",
+    "https://www.voxelmatters.report/",
+    "https://revenuebase.ai/companies/additive-manufacturing-post-processing-services/united-states",
+    "https://www.voxelmatters.directory/",
+    "https://www.newayprecision.com/",
+    "https://www.zoominfo.com/c/neway-precision-works-ltd/455478196"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "site:note.com Neway Precision Works — VoxelMatters",
+   "results": [
+    "https://note.com/karinotou/n/ne0ef410fd025",
+    "https://note.com/fond_clam2634/n/nde2b002a8907",
+    "https://note.com/houkan_adviser/n/n4ed570909d80",
+    "https://note.com/kimiyoya/n/nab8db891e53d",
+    "https://note.com/maeda_mmfpo0803/n/n7d85627f2145",
+    "https://note.com/officesoft/n/naef0160e3abb",
+    "https://note.com/hilo_sheet/n/nce20ece8fc6e"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Neway Precision Works — VoxelMatters",
+   "results": [
+    "https://x.com/Clyde_Verse",
+    "https://x.com/fukauf83013",
+    "https://x.com/voxelmatters",
+    "https://x.com/Sun_Neway",
+    "https://x.com/Clyde_Verse/status/1845484103728300151",
+    "https://x.com/Chicago1Ray/status/2116892928731697269",
+    "https://x.com/_InfoGram_/status/2118253289573949943"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Neway Precision Works — VoxelMatters",
+   "results": [
+    "https://de.linkedin.com/in/albert-belousov-260473a6",
+    "https://it.linkedin.com/in/davidecovallero",
+    "https://www.linkedin.com/company/neway-precision-works-limited",
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://cn.linkedin.com/in/newayprecision/de",
+    "https://cn.linkedin.com/in/newayprecision/zh-cn",
+    "https://in.linkedin.com/company/neway-cnc",
+    "https://pe.linkedin.com/pulse/what-common-defects-cnc-machining-neway-precision-works-limited-8gd4c",
+    "https://na.linkedin.com/company/neway-works-inc",
+    "https://de.linkedin.com/company/neway-cnc-equipment"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:facebook.com Neway Precision Works — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/Newayprecision/",
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/Newayprecision/posts/discover-the-vital-role-of-material-choice-in-custom-metal-parts-manufacturing-a/693967339612831/",
+    "https://www.facebook.com/Newayprecision/posts/cnc-machining-cnc-milling-multi-axis-cnc-milling-cnc-turning-multi-axis-cnc-turn/702250265451205/",
+    "https://www.facebook.com/Newayprecision/posts/everything-you-need-to-know-of-overmolding/543305651345668/",
+    "https://www.facebook.com/Newayprecision/posts/investment-casting-lost-wax-casting-die-casting-sand-casting-gravity-casting-pre/683160487360183/",
+    "https://www.facebook.com/Newayprecision/posts/11-manufacturing-process-you-have-to-know-for-custom-metal-parts-manufacturinght/653146080361624/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Neway Precision Works — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.com/category/marketing/interviews/",
+    "https://www.newaydiecast.com/ja/newayprecision",
+    "https://www.voxelmatters.report/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://www.newayprecision.com/ja",
+    "https://www.youtube.com/watch?v=nJiE6znRmWI",
+    "https://www.voxelmatters.com/author/edward-wakefield/",
+    "https://www.youtube.com/watch?v=4kUEW98sw_Y",
+    "https://www.additivemanufacturing.media/why-additive-manufacturing-needs-the-executive-perspective/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Neway Precision Works — VoxelMatters X 投稿",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.neway3dp.com/videos",
+    "https://www.youtube.com/@voxelmatters",
+    "https://www.voxelmatters.report/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.youtube.com/watch?v=nJiE6znRmWI",
+    "https://www.voxelmatters.com/new-vjet-x-technology/",
+    "https://www.youtube.com/watch?v=Lb0tRL6nnkU",
+    "https://x.com/voxelmatters"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）"
+ }
+}

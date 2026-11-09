@@ -1,0 +1,526 @@
+{
+ "name": "TekSiC — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:ceramics-material-manufacturer",
+ "researched_at": "2026-11-09T22:32:37.920474+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Johan Jigerström – COO and Purchase Manager at TekSic AB, CEO ...Tess Boissonneault - Freelance Content Writer, Editor | LinkedInJobb som Direktör Försäljning i Sverige (1,000+ lediga roller ...Federico Sher - Co-founder of VoxelMatters | LinkedInFrancesco Pulimeni - Co-founder and CRO at VoxelMatters ... COO and Purchase Manager at TekSic AB, CEO at Sweden Indoor Golf AB and Jigesmund AB · Experi",
+    "url": "https://se.linkedin.com/in/johan-jigerström-55380229",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookTeks Teksic - FacebookVoxelMatters on Reels - FacebookFacebookFord 4v/3v/2v Modular Engine Building | What’s everyone’s ...Ford 4v/3v/2v Modular Engine Building | Just curious, what’s ...Ford 4v/3v/2v Modular Engine Building | Concerning the issue ... Unlock the Future of Metal Additive Manufacturing with VoxelMatters! VoxelMatters Research has kicked off a pre-sale campaign",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/ceramic-am-market-shifts-toward-services-as-production-scales/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thorlabs.co.jp/ja/distributors",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://industrial.panasonic.com/jp/s-search/distributors",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://semiconbox.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.porsche.com/japan/jp/accessoriesandservice/vehicle-accessories/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smcworld.com/newproducts/ja-jp/21/mhm-y/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mazak.com/jp-ja/products/am/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3d-printer.jp/ultimaker/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/top-products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/collections/filament",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matterhackers.com/store?srsltid=AYCX9vK75upC7ZinVisDjUTIrXq_MXp4LsfE_WxE46CoaUKMasc-cR6J",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=d8JJGUR9hGM",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/category/global-am-hubs/japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tctjapan.jp/outline_en.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-products-resellers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsmc.com/static/abouttsmcjrdc/en/index.htm",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://shigoto.amazon.co.jp/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E3%80%90Amazon-co-jp-%E9%99%90%E5%AE%9A%E3%80%91%E3%80%8E%E5%A5%88%E8%89%AF%E6%9C%AA%E9%81%A52nd%E5%86%99%E7%9C%9F%E9%9B%86-%E3%81%9C%E3%82%93%E3%81%B6%E7%A7%81%E3%80%8F%EF%BC%88%E7%89%B9%E5%85%B8%EF%BC%9A%E7%94%9F%E5%86%99%E7%9C%9F1%E6%9E%9A%EF%BC%89-%E5%A5%88%E8%89%AF%E6%9C%AA%E9%81%A5/dp/B0HJCNBN1R",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://business.amazon.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://business.amazon.co.jp/ja/solutions/payment-options/pay-by-invoice",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/0583/3642/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/01456474/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/8931/2142/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dealigence.vc/company/teksic",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/teksic/___5Y1JSIPyTJ_3g9H-5wILA1I5WhkfL512baDe0ONh2Q",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.teksic.com/company/",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   },
+   {
+    "url": "https://rocketreach.co/teksic-profile_b703e8a2c4fe948d",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://se.linkedin.com/in/johan-jigerström-55380229",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "TekSiC — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/about/",
+    "https://www.voxelmatters.directory/",
+    "https://www.voxelmatters.com/ceramic-am-market-shifts-toward-services-as-production-scales/",
+    "https://www.thorlabs.co.jp/ja/distributors",
+    "https://www.connectpositronic.com/jp/%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "https://product.torexsemi.com/ja/sample-and-purchase/online",
+    "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "https://i-am-marketplace.com/about-us/",
+    "https://www.voxelmatters.directory/company-category/space/",
+    "https://www.teksic.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "TekSiC — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://industrial.panasonic.com/jp/s-search/distributors",
+    "https://semiconbox.com/",
+    "https://www.porsche.com/japan/jp/accessoriesandservice/vehicle-accessories/",
+    "https://www.netcomponents.com/ja/",
+    "https://www.indexpro.co.jp/distributor/search-maker",
+    "https://www.toyo.co.jp/material/maker/detail/matesy.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "TekSiC — VoxelMatters 日本 販売",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://www.smcworld.com/newproducts/ja-jp/21/mhm-y/",
+    "https://www.mazak.com/jp-ja/products/am/",
+    "https://www.3d-printer.jp/ultimaker/",
+    "https://www.youtube.com/watch?v=ULo_dNEHg4w&vl=ja",
+    "https://www.aichi-sangyo.co.jp/products/lpw/products.html",
+    "https://www.arkema.com/japan/ja/webzine/post/thinking-beyond-printing-the-full-value/",
+    "https://bdolytics.com/jp/market/item/7960?page=237",
+    "https://www.altech.co.jp/item_news/dmd2",
+    "https://www.teksic.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "TekSiC — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.voxelmatters.com/top-products/",
+    "https://skhonpo.com/collections/filament",
+    "https://www.matterhackers.com/store?srsltid=AYCX9vK75upC7ZinVisDjUTIrXq_MXp4LsfE_WxE46CoaUKMasc-cR6J",
+    "https://www.youtube.com/watch?v=d8JJGUR9hGM",
+    "https://ja.aliexpress.com/i/33033695063.html",
+    "https://www.monotaro.com/g/04103491/?srsltid=AYCX9vINNuQM1MUid5wHwI_Y0sGPl5JucmKD-tAbhvbJaaIkZ5TSnQXt",
+    "https://i-maker.jp/i/polylite-petg?srsltid=AYCX9vL98cCMY7RpxeIMKOKA3q10Y9cZcg1M2U1WAWwvtC0z5JUYfCRq",
+    "https://www.askul.co.jp/s/02-0205-0205004-02050040002/",
+    "https://www.poly-maker.jp/polylitepetg-3set",
+    "https://www.amazon.co.jp/エポキシ樹脂-2液性レジン液-大容量4kg-エポキシレジン-セルフレベリング/dp/B0FR9JYMVZ"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 22
+  },
+  {
+   "query": "TekSiC — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.directory/",
+    "https://www.voxelmatters.com/category/global-am-hubs/japan/",
+    "https://www.tctjapan.jp/outline_en.html",
+    "https://unifiedsearch.jcdbizmatch.jp/nanotech2025/en/tct/product",
+    "https://www.tsmc.com/static/abouttsmcjrdc/en/index.htm",
+    "https://www.thorlabs.co.jp/ja/distributors",
+    "https://www.exone.com/en/about-us/locations/",
+    "https://cpfd-software.com/company/distributors/",
+    "https://www.teksic.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "TekSiC — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://www.voxelmatters.directory/company-category/3d-products-resellers/",
+    "https://www.tsmc.com/static/abouttsmcjrdc/en/index.htm",
+    "https://www.metal-am.com/articles/the-current-status-and-outlook-for-metal-additive-manufacturing-in-japan/",
+    "https://www.kinzoku.co.jp/en/core_technology/additive_manufacturing.html",
+    "https://www.tctjapan.jp/outline_en.html",
+    "https://www.voxelmatters.com/category/global-am-hubs/japan/",
+    "https://www.tctmagazine.com/japanese-additive-manufacturing-a-puzzle-box/",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:amazon.co.jp TekSiC — VoxelMatters",
+   "results": [
+    "https://shigoto.amazon.co.jp/",
+    "https://www.amazon.co.jp/【Amazon-co-jp-限定】『奈良未遥2nd写真集-ぜんぶ私』（特典：生写真1枚）-奈良未遥/dp/B0HJCNBN1R",
+    "https://business.amazon.co.jp/",
+    "https://business.amazon.co.jp/ja/solutions/payment-options/pay-by-invoice",
+    "https://pay.amazon.co.jp/",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://www.amazon.co.jp/Apple-iPhone-18-Pro-256/dp/B0HJ9VQ6Q8",
+    "https://kdp.amazon.co.jp/",
+    "https://r.amazon.co.jp/",
+    "https://www.amazon.co.jp/PHOLEEY-レディース-綿100-ルームウェア-ナイトウェア/dp/B0FHKTM1HF"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:monotaro.com TekSiC — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/p/0583/3642/",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/g/01456474/",
+    "https://www.monotaro.com/p/8931/2142/",
+    "https://www.monotaro.com/p/3467/8655/",
+    "https://www.monotaro.com/g/04384932/",
+    "https://www.monotaro.com/p/0949/7467/",
+    "https://www.monotaro.com/p/0868/7253/",
+    "https://www.monotaro.com/p/1766/2356/",
+    "https://www.monotaro.com/s/c-130621/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "TekSiC — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://dealigence.vc/company/teksic",
+    "https://tracxn.com/d/companies/teksic/___5Y1JSIPyTJ_3g9H-5wILA1I5WhkfL512baDe0ONh2Q",
+    "https://www.teksic.com/company/",
+    "https://rocketreach.co/teksic-profile_b703e8a2c4fe948d",
+    "https://www.preqin.com/data/profile/asset/teksic/811373",
+    "https://www.voxelmatters.com/",
+    "https://www.zoominfo.com/c/teknic-inc/37765704"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com TekSiC — VoxelMatters",
+   "results": [
+    "https://note.com/canserstudent",
+    "https://note.com/ikedanob",
+    "https://note.com/seigo77",
+    "https://note.com/hirokimiyano/n/n255d15d782c8",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/glossy_lotus5131/n/n2b66f0e44512",
+    "https://note.com/tkc_exp/n/na41862965497",
+    "https://note.com/kakio_ja",
+    "https://note.com/diparururun",
+    "https://note.com/para7mii/n/n036af9e505b2"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:x.com TekSiC — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/isaiahrmartin/status/2117871814625972663",
+    "https://help.x.com/zh-cn/managing-your-account",
+    "https://help.x.com/zh-tw/using-x",
+    "https://x.com/jocelynseip/status/2118260591680983528",
+    "https://x.com/_InfoGram_/status/2118253289573949943",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/AirtechOfficial",
+    "https://x.com/Urfavliar2/status/2117023998710259801",
+    "https://x.com/Blond1n1/status/2117719313754808471"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:linkedin.com TekSiC — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://www.linkedin.com/company/teksic",
+    "https://se.linkedin.com/in/johan-jigerström-55380229",
+    "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a",
+    "https://uk.linkedin.com/in/federico-sher",
+    "https://it.linkedin.com/in/francescopulimeni",
+    "https://se.linkedin.com/jobs/direktör-försäljning-jobs",
+    "https://www.linkedin.com/pub/dir/davide/sher",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7338097629962153986/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com TekSiC — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/teks.teksic/",
+    "https://www.facebook.com/VoxelMatters/videos/2155326438344264/",
+    "https://www.facebook.com/",
+    "https://www.facebook.com/groups/2468323130150114/posts/3536318983350518/",
+    "https://www.facebook.com/groups/2468323130150114/posts/3572733249709091/",
+    "https://www.facebook.com/groups/2468323130150114/posts/3137959596519794/",
+    "https://www.facebook.com/molinaribudapest/",
+    "https://www.facebook.com/VoxelMatters/posts/-voxelmatters-metal-am-market-2025-reportwe-are-now-offering-early-access-to-our/1140541171410263/",
+    "https://www.facebook.com/lucyna.sajak.7/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "TekSiC — VoxelMatters note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "TekSiC — VoxelMatters X 投稿",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://www.teksic.com/",
+    "https://www.teksic.com/contact/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.voxelmatters.report/methodology/",
+    "https://www.voxelmatters.com/",
+    "https://x.com/VoxTek03/status/2119720362875187358"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）"
+ }
+}

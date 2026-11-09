@@ -1,0 +1,407 @@
+{
+ "name": "Priceloop",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-09T22:34:55.540213+00:00",
+ "official_url": "https://priceloop.ai",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "検索結果の抜粋": [
+   {
+    "quote": "Priceloop - Crunchbase Company Profile & Funding — Priceloop - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > pricel...",
+    "url": "https://www.crunchbase.com/organization/priceloop",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://priceloop.ai",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trafficnews.jp/post/725198",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bestcarweb.jp/news/entame/1669612",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kuruma-news.jp/post/1135272",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bgent.net/plus/article/7044",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/joop.japanoliveoilprize/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.glossy.co/fashion/leprix-establishes-offices-in-japan-amid-the-markets-rising-resale-demand/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fromjapan.co.jp/lp/japan/tf2408_fjfashion/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/reel/DdpAuhshRQS/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vLU5atVyAiDSeWWD-6SoQJRVC2QYB5awDSMTT4dLQrNnuJtw630",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.factbird.com/resources/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.industryweek.com/leadership/strategic-planning-execution/article/21261091/winning-with-customer-case-studies-4-tips-6-pitfalls",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/priceloop",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://fi.co/benchmarks",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gaps.com/finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://epoch.ai/data/ai-companies",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Priceloop 日本 導入",
+   "results": [
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://trafficnews.jp/post/725198",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://kuruma-news.jp/post/1135272",
+    "https://www.caranddriver.co.jp/newcar/114898/",
+    "https://www.autocar.jp/post/1292024",
+    "https://www.webcg.net/articles/-/54505",
+    "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "https://github.com/priceloop",
+    "https://www.karolinakolodziej.com/projects/automated-pricing"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Priceloop 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://www.bgent.net/plus/article/7044",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://ecnomikata.com/blog/51120/",
+    "https://alpc.tokyo/pages/business-d2c",
+    "https://partner-prop.com/lab/partner-business/agency/3216/",
+    "https://www.youtube.com/watch?v=m9qq9nQP9KI",
+    "https://www.rakus.co.jp/rakurakucloud/hanbai/column/2021/0202.php",
+    "https://metoree.com/companies/distributors-relationships/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Priceloop Japan",
+   "results": [
+    "https://www.facebook.com/joop.japanoliveoilprize/",
+    "https://www.glossy.co/fashion/leprix-establishes-offices-in-japan-amid-the-markets-rising-resale-demand/",
+    "https://www.fromjapan.co.jp/lp/japan/tf2408_fjfashion/en/",
+    "https://www.instagram.com/reel/DdpAuhshRQS/",
+    "https://www.reuters.com/world/asia-pacific/japan-wholesale-inflation-extends-surge-energy-shock-hits-2026-06-10/",
+    "https://www.tokudeals.com/blogs/daily-japan-1/japan-personal-shopper-the-best-way-to-buy-exclusive-items-from-japan?srsltid=AYCX9vI5Lhh8yKFhx0NsICWg0DG18IrYhfRNMTrYbyouHQTw6RT25Doc",
+    "https://www.cril-privee.com/japan/",
+    "https://pacificresorts.co.jp/corporate/about-pri/",
+    "https://ripro-gl.jp/",
+    "https://www.gartner.com/reviews/product/priceloop"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "Priceloop manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vLU5atVyAiDSeWWD-6SoQJRVC2QYB5awDSMTT4dLQrNnuJtw630",
+    "https://www.factbird.com/resources/case-studies",
+    "https://www.industryweek.com/leadership/strategic-planning-execution/article/21261091/winning-with-customer-case-studies-4-tips-6-pitfalls",
+    "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "https://pimcore.com/en/customers",
+    "https://go.perceptyx.com/customer-stories",
+    "https://c3.ai/customers",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.linkedin.com/top-content/innovation/innovation-in-manufacturing-processes/case-studies-on-successful-manufacturing-innovations/",
+    "https://www.karolinakolodziej.com/projects/automated-pricing"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Priceloop white label OR reseller OR partner program",
+   "results": [
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://www.setproduct.com/blog/white-label-seo-reseller-programs",
+    "https://getzendo.io/blog/best-white-label-software-to-resell/",
+    "https://content.platfio.com/blog/software-reseller-programs-worth-joining-2026",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://www.totalum.app/blog/white-label-ai-app-builder-2026",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Priceloop founded funding employees revenue",
+   "results": [
+    "https://www.crunchbase.com/organization/priceloop",
+    "https://fi.co/benchmarks",
+    "https://gaps.com/finance/",
+    "https://epoch.ai/data/ai-companies",
+    "https://www.indexventures.com/rewarding-talent/founders-investors-and-employees",
+    "https://www.tryspecter.com/companies",
+    "https://dealroom.co/charts/fastest-to-10b-valuation.html",
+    "https://getlatka.com/companies/impress.ai",
+    "https://pitchbook.com/profiles/company/459308-44",
+    "https://compworth.com/company/priceloop"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Priceloop",
+   "results": [
+    "https://note.com/hirokimiyano/n/n4fe61ac8e4c6?hl=en",
+    "https://note.com/ukyousan/n/na2247f605226?hl=en",
+    "https://note.com/freelanceyurupi/n/n3c2d04aafc39?hl=en",
+    "https://note.com/tuzuri_0219/n/nafea7dfe9f22?hl=en",
+    "https://note.com/kenaxtslife/n/n85c9c7b1236f",
+    "https://note.com/sakura_tanaka20/n/n70d66b33c6be?hl=en",
+    "https://note.com/tag/天幕のジャードゥーガル",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/keizokuramoto/n/nef2f6f1c855d",
+    "https://note.com/piamy_/n/na26c866d2274"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "site:x.com Priceloop",
+   "results": [
+    "https://x.com/JasmineAIHamed/status/2040083781911228476",
+    "https://x.com/lavanyalakshma2/status/2117916261304971691/video/1",
+    "https://x.com/counterpartytv",
+    "https://about.x.com/en",
+    "https://x.com/isaac_idigu/status/2041604592077828458",
+    "https://x.com/i/status/2073186249733743102",
+    "https://x.com/Loop2Chain",
+    "https://help.x.com/zh-cn/using-x",
+    "https://help.x.com/en/using-x/create-x-account",
+    "https://x.com/Loop2Chain/status/2118023051027623967"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:linkedin.com Priceloop",
+   "results": [
+    "https://de.linkedin.com/in/richardschwenke",
+    "https://de.linkedin.com/in/dat-tran-a1602320",
+    "https://www.linkedin.com/in/penryprice",
+    "https://de.linkedin.com/in/rothstefan",
+    "https://de.linkedin.com/in/laurajauniute",
+    "https://de.linkedin.com/in/felixdietze",
+    "https://de.linkedin.com/in/johannes-karoff-3110011b6",
+    "https://www.linkedin.com/posts/mark-a-price_im-happy-to-share-that-i-started-today-as-activity-7100560479156097025-Xd3d",
+    "https://br.linkedin.com/in/larissa-sielichoff/pt",
+    "https://www.linkedin.com/posts/priceloop-ai_priceloop-knowledgesharing-amazon-activity-6985868881173086208-vySQ"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com Priceloop",
+   "results": [
+    "https://www.facebook.com/theloopphilippines/",
+    "https://www.facebook.com/theloopphilippines/posts/next-level-power-in-every-dimensionupgrade-to-the-latest-generation-from-the-ult/1464571372379976/",
+    "https://www.facebook.com/theloopphilippines/posts/ipad-air-m4-pre-order-is-now-on-the-loopthe-ipad-air-now-with-the-m4-chip-keeps-/1362978485872599/",
+    "https://www.facebook.com/100063797162011/posts/did-you-know-justice-stoneworks-is-open-on-saturdays-from-9am2pmstop-by-and-chec/1703382651798291/",
+    "https://www.facebook.com/theloopphilippines/posts/vibrant-style-effortless-powerbring-more-color-and-capability-into-your-everyday/1420492040121243/",
+    "https://www.facebook.com/theloopphilippines/posts/you-still-got-time-purchase-macbook-neo-for-as-low-as-p39990-exclusively-at-sele/1384705683699879/",
+    "https://www.facebook.com/groups/418936093620390/posts/1556804859833502/",
+    "https://www.facebook.com/PaintSpotArtSupplies/photos/need-black-spray-paintwe-carry-over-eight-different-varieties-of-black-spray-pai/10161714090627519/",
+    "https://www.facebook.com/groups/northcarolinahiking/posts/2634013007114637/",
+    "https://www.facebook.com/priceloopai/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Priceloop note 社長",
+   "results": [
+    "https://note.com/sadaaki",
+    "https://x.com/sadaaki",
+    "https://diamond.jp/articles/-/388572",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://note.com/sakurasaku_negio/m/m561aa3e8ae0a",
+    "https://www.youtube.com/watch?v=xPafg3yYObE",
+    "https://ja.wikipedia.org/wiki/%E5%8A%A0%E8%97%A4%E8%B2%9E%E9%A1%95",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Priceloop X 投稿",
+   "results": [
+    "https://help.x.com/en/using-x/x-premium",
+    "https://note.com/nyarukey_pck/n/nd730d9d0ec41",
+    "https://www.reddit.com/r/MorpheApp/comments/1r4xt24/x_twitter_can_now_be_patched_with_piko_patches/?tl=ja",
+    "https://umy-game.com/twitter-yoyakutoukou-howto/",
+    "https://help.social-dog.net/ja/posts/scheduled_posts/schedule_post/",
+    "https://www.koukoku.jp/service/suketto/marketer/sns/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E3%80%91x%E6%97%A7twitter%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E3%81%A8%E3%81%AF%EF%BC%9F%E6%9C%89%E6%96%99%E3%83%97%E3%83%A9%E3%83%B3%E3%81%AE/",
+    "https://statusbrew.co.jp/help/articles/schedule-retweets-and-quoted-tweets",
+    "https://www.mo3ore.com/x-api-credit/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "採用・広告の製品": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）"
+ }
+}

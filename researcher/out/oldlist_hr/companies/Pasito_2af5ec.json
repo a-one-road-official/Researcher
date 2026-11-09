@@ -1,0 +1,1309 @@
+{
+ "name": "Pasito",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-09T22:53:49.222808+00:00",
+ "official_url": "https://pasito.ai",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2021",
+    "url": "https://startupintros.com/orgs/pasito",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "New York City, NY, USA",
+    "url": "https://startupintros.com/orgs/pasito",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Improve benefits operations and experiences with agentic workflows that reduce manual work and deliver for employees",
+    "url": "https://pasito.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "in premiums managed by organizations operating on Pasito",
+    "url": "https://pasito.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver personalized, unbiased benefits guidance to every employee all year round. Better-informed employees leads to higher utilization, fewer support calls, and winning client experiences.",
+    "url": "https://pasito.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore proposal intake",
+    "url": "https://pasito.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Agentic proposal intake",
+    "url": "https://pasito.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Upload and manage proposals with automated AI extraction simplifying side-by-side comparisons in seconds. Save hours of work and say goodbye to dense spreadsheets, missing properties, and manual data entry.",
+    "url": "https://pasito.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore proposal comparison",
+    "url": "https://pasito.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "How Element Materials Technology put individualized benefits guidance in front of a deskless workforce with Pasito",
+    "url": "https://pasito.ai/resources/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How a real estate lending company improved employee benefits experiences while driving savings",
+    "url": "https://pasito.ai/resources/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How DermCare launched a full benefits program in days, not months",
+    "url": "https://pasito.ai/resources/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How an enterprise company passed their non-discrimination test with benefits employees actually used.",
+    "url": "https://pasito.ai/resources/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How a payment processing company increased voluntary benefits engagement with Pasito",
+    "url": "https://pasito.ai/resources/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "in premiums managed by organizations operating on Pasito",
+    "url": "https://pasito.ai/who-we-are/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "The challenge: Competing for talent when benefits are the second thing candidates ask about",
+    "url": "https://pasito.ai/case-studies/how-an-iot-company-turned-benefits-into-a-competitive-advantage",
+    "pass": 1
+   },
+   {
+    "quote": "Build a benefits program that attracts top talent.",
+    "url": "https://pasito.ai/case-studies/how-an-iot-company-turned-benefits-into-a-competitive-advantage",
+    "pass": 1
+   },
+   {
+    "quote": "“With such large competitors in the market, we needed to redefine and communicate our compensation strategy for employees. Benefits are a core component of that. They are the second thing candidates ask our recruiters about.”",
+    "url": "https://pasito.ai/case-studies/how-an-iot-company-turned-benefits-into-a-competitive-advantage",
+    "pass": 1
+   },
+   {
+    "quote": "The result was a workforce that actually understood what benefits it had. Employees made better elections, contributed more to pre-tax accounts, and came back to HR saying they felt more empowered and confident.",
+    "url": "https://pasito.ai/case-studies/how-an-iot-company-turned-benefits-into-a-competitive-advantage",
+    "pass": 1
+   },
+   {
+    "quote": "Those outcomes cut waste for both parties: employees stopped paying for coverage that didn't fit them, and every pre-tax dollar contributed reduced what the company paid in payroll taxes. Once open enrollment closed and the numbers were tallied, Pasito had delivered a 7.5x return on the company's year-one investment.",
+    "url": "https://pasito.ai/case-studies/how-an-iot-company-turned-benefits-into-a-competitive-advantage",
+    "pass": 1
+   },
+   {
+    "quote": "How Element Materials Technology put individualized benefits guidance in front of a deskless workforce with Pasito",
+    "url": "https://pasito.ai/case-studies/how-an-iot-company-turned-benefits-into-a-competitive-advantage",
+    "pass": 1
+   },
+   {
+    "quote": "How a real estate lending company improved employee benefits experiences while driving savings",
+    "url": "https://pasito.ai/case-studies/how-an-iot-company-turned-benefits-into-a-competitive-advantage",
+    "pass": 1
+   },
+   {
+    "quote": "How DermCare launched a full benefits program in days, not months",
+    "url": "https://pasito.ai/case-studies/how-an-iot-company-turned-benefits-into-a-competitive-advantage",
+    "pass": 1
+   },
+   {
+    "quote": "How an enterprise company passed their non-discrimination test with benefits employees actually used.",
+    "url": "https://pasito.ai/case-studies/how-an-iot-company-turned-benefits-into-a-competitive-advantage",
+    "pass": 1
+   },
+   {
+    "quote": "How a payment processing company increased voluntary benefits engagement with Pasito",
+    "url": "https://pasito.ai/case-studies/how-an-iot-company-turned-benefits-into-a-competitive-advantage",
+    "pass": 1
+   },
+   {
+    "quote": "When one oil and gas company needed to shift employees toward HDHPs and drive HSA adoption across a distributed Texas workforce, they needed more than a communication campaign. Pasito stepped in as the always-on benefits workspace and delivered results across all 46 locations.",
+    "url": "https://pasito.ai/case-studies/how-an-oil-gas-company-turned-benefits-complexity-into-employee-confidence",
+    "pass": 1
+   },
+   {
+    "quote": "Build a benefits program that stays nimble through tight timelines.",
+    "url": "https://pasito.ai/case-studies/how-an-oil-gas-company-turned-benefits-complexity-into-employee-confidence",
+    "pass": 1
+   },
+   {
+    "quote": "The solution: Precise benefits guidance, built for deskless workforces",
+    "url": "https://pasito.ai/case-studies/how-an-oil-gas-company-turned-benefits-complexity-into-employee-confidence",
+    "pass": 1
+   },
+   {
+    "quote": "Increase in HSA enrollments vs. 5% the prior year without Pasito",
+    "url": "https://pasito.ai/case-studies/how-an-oil-gas-company-turned-benefits-complexity-into-employee-confidence",
+    "pass": 1
+   },
+   {
+    "quote": "How Element Materials Technology put individualized benefits guidance in front of a deskless workforce with Pasito",
+    "url": "https://pasito.ai/case-studies/how-an-oil-gas-company-turned-benefits-complexity-into-employee-confidence",
+    "pass": 1
+   },
+   {
+    "quote": "How a real estate lending company improved employee benefits experiences while driving savings",
+    "url": "https://pasito.ai/case-studies/how-an-oil-gas-company-turned-benefits-complexity-into-employee-confidence",
+    "pass": 1
+   },
+   {
+    "quote": "How DermCare launched a full benefits program in days, not months",
+    "url": "https://pasito.ai/case-studies/how-an-oil-gas-company-turned-benefits-complexity-into-employee-confidence",
+    "pass": 1
+   },
+   {
+    "quote": "How an enterprise company passed their non-discrimination test with benefits employees actually used.",
+    "url": "https://pasito.ai/case-studies/how-an-oil-gas-company-turned-benefits-complexity-into-employee-confidence",
+    "pass": 1
+   },
+   {
+    "quote": "How a payment processing company increased voluntary benefits engagement with Pasito",
+    "url": "https://pasito.ai/case-studies/how-an-oil-gas-company-turned-benefits-complexity-into-employee-confidence",
+    "pass": 1
+   },
+   {
+    "quote": "How a real estate lending company improved employee benefits experiences while driving savings",
+    "url": "https://pasito.ai/case-studies/how-a-real-estate-lending-company-improved-employee-benefits-experiences-while-driving-savings",
+    "pass": 1
+   },
+   {
+    "quote": "How Element Materials Technology put individualized benefits guidance in front of a deskless workforce with Pasito",
+    "url": "https://pasito.ai/case-studies/how-a-real-estate-lending-company-improved-employee-benefits-experiences-while-driving-savings",
+    "pass": 1
+   },
+   {
+    "quote": "How DermCare launched a full benefits program in days, not months",
+    "url": "https://pasito.ai/case-studies/how-a-real-estate-lending-company-improved-employee-benefits-experiences-while-driving-savings",
+    "pass": 1
+   },
+   {
+    "quote": "How an enterprise company passed their non-discrimination test with benefits employees actually used.",
+    "url": "https://pasito.ai/case-studies/how-a-real-estate-lending-company-improved-employee-benefits-experiences-while-driving-savings",
+    "pass": 1
+   },
+   {
+    "quote": "How a payment processing company increased voluntary benefits engagement with Pasito",
+    "url": "https://pasito.ai/case-studies/how-a-real-estate-lending-company-improved-employee-benefits-experiences-while-driving-savings",
+    "pass": 1
+   },
+   {
+    "quote": "The complication was largely communication. Information lived everywhere: “I'd ask a question and would hear back things like, ‘Oh, that's over here,’ and ‘That's where you find this over there.’” Her goal was one benefits source of truth, for employees and for the candidates her talent team needed to win. So she brought in a new broker, OneDigital, and OneDigital brought in Pasito.",
+    "url": "https://pasito.ai/case-studies/how-embla-changed-everything-about-its-benefits-in-one-renewal-with-pasito",
+    "pass": 1
+   },
+   {
+    "quote": "Build a benefits program that stays nimble through tight timelines.",
+    "url": "https://pasito.ai/case-studies/how-embla-changed-everything-about-its-benefits-in-one-renewal-with-pasito",
+    "pass": 1
+   },
+   {
+    "quote": "The partnership passed its sharpest test a week before the enrollment window, when the decision support tool Embla had planned to use ran into a problem. Pasito stood up decision support, with communications to launch it, in a matter of days, and the enrollment opened on time.",
+    "url": "https://pasito.ai/case-studies/how-embla-changed-everything-about-its-benefits-in-one-renewal-with-pasito",
+    "pass": 1
+   },
+   {
+    "quote": "Real pictures on the page, scrolling banners, tabs, hyperlinks between sections. \"Anytime we had an idea, Pasito was able to implement it.\" Now, Cami updates much of the content herself.",
+    "url": "https://pasito.ai/case-studies/how-embla-changed-everything-about-its-benefits-in-one-renewal-with-pasito",
+    "pass": 1
+   },
+   {
+    "quote": "How Element Materials Technology put individualized benefits guidance in front of a deskless workforce with Pasito",
+    "url": "https://pasito.ai/case-studies/how-embla-changed-everything-about-its-benefits-in-one-renewal-with-pasito",
+    "pass": 1
+   },
+   {
+    "quote": "How a real estate lending company improved employee benefits experiences while driving savings",
+    "url": "https://pasito.ai/case-studies/how-embla-changed-everything-about-its-benefits-in-one-renewal-with-pasito",
+    "pass": 1
+   },
+   {
+    "quote": "How DermCare launched a full benefits program in days, not months",
+    "url": "https://pasito.ai/case-studies/how-embla-changed-everything-about-its-benefits-in-one-renewal-with-pasito",
+    "pass": 1
+   },
+   {
+    "quote": "How an enterprise company passed their non-discrimination test with benefits employees actually used.",
+    "url": "https://pasito.ai/case-studies/how-embla-changed-everything-about-its-benefits-in-one-renewal-with-pasito",
+    "pass": 1
+   },
+   {
+    "quote": "How a payment processing company increased voluntary benefits engagement with Pasito",
+    "url": "https://pasito.ai/case-studies/how-embla-changed-everything-about-its-benefits-in-one-renewal-with-pasito",
+    "pass": 1
+   },
+   {
+    "quote": "How an enterprise company passed their non-discrimination test with benefits employees actually used.",
+    "url": "https://pasito.ai/case-studies/how-an-enterprise-company-passed-their-non-discrimination-test-with-benefits-employees-actually-used",
+    "pass": 1
+   },
+   {
+    "quote": "The challenge: a compliance problem rooted in unequal benefits engagement.",
+    "url": "https://pasito.ai/case-studies/how-an-enterprise-company-passed-their-non-discrimination-test-with-benefits-employees-actually-used",
+    "pass": 1
+   },
+   {
+    "quote": "“We had failed our non-discrimination test and knew it was going to be a long-term problem. Pasito gave us the opportunity to improve engagement and compliance metrics. As an HR professional, I'm not qualified to give employees tax or financial guidance, and benefits can get incredibly confusing.”",
+    "url": "https://pasito.ai/case-studies/how-an-enterprise-company-passed-their-non-discrimination-test-with-benefits-employees-actually-used",
+    "pass": 1
+   },
+   {
+    "quote": "Build a benefits program that stays nimble through tight timelines.",
+    "url": "https://pasito.ai/case-studies/how-an-enterprise-company-passed-their-non-discrimination-test-with-benefits-employees-actually-used",
+    "pass": 1
+   },
+   {
+    "quote": "Higher pre-tax account engagement across demographics, direct employee and company savings, better compliance metrics, and very happy employees. The engagement reached every part of the company, not just the highly compensated employees whose participation caused the compliance problem in the first place.",
+    "url": "https://pasito.ai/case-studies/how-an-enterprise-company-passed-their-non-discrimination-test-with-benefits-employees-actually-used",
+    "pass": 1
+   },
+   {
+    "quote": "How Element Materials Technology put individualized benefits guidance in front of a deskless workforce with Pasito",
+    "url": "https://pasito.ai/case-studies/how-an-enterprise-company-passed-their-non-discrimination-test-with-benefits-employees-actually-used",
+    "pass": 1
+   },
+   {
+    "quote": "How a real estate lending company improved employee benefits experiences while driving savings",
+    "url": "https://pasito.ai/case-studies/how-an-enterprise-company-passed-their-non-discrimination-test-with-benefits-employees-actually-used",
+    "pass": 1
+   },
+   {
+    "quote": "How DermCare launched a full benefits program in days, not months",
+    "url": "https://pasito.ai/case-studies/how-an-enterprise-company-passed-their-non-discrimination-test-with-benefits-employees-actually-used",
+    "pass": 1
+   },
+   {
+    "quote": "How a payment processing company increased voluntary benefits engagement with Pasito",
+    "url": "https://pasito.ai/case-studies/how-an-enterprise-company-passed-their-non-discrimination-test-with-benefits-employees-actually-used",
+    "pass": 1
+   },
+   {
+    "quote": "How a payment processing company increased voluntary benefits engagement with Pasito",
+    "url": "https://pasito.ai/case-studies/how-a-payment-processing-company-increased-voluntary-benefits-engagement-with-pasito",
+    "pass": 1
+   },
+   {
+    "quote": "The company offered a strong supplemental package, but enrollment in the voluntary lines trailed the medical plan. Employees weren't ignoring their benefits, but they didn't have a clear way to see what each benefit was worth to them, so they didn't act on it. With open enrollment approaching, the client needed to put the full package in front of every employee, clearly.",
+    "url": "https://pasito.ai/case-studies/how-a-payment-processing-company-increased-voluntary-benefits-engagement-with-pasito",
+    "pass": 1
+   },
+   {
+    "quote": "Build a benefits program that stays nimble through tight timelines.",
+    "url": "https://pasito.ai/case-studies/how-a-payment-processing-company-increased-voluntary-benefits-engagement-with-pasito",
+    "pass": 1
+   },
+   {
+    "quote": "Growth in supplemental health premium",
+    "url": "https://pasito.ai/case-studies/how-a-payment-processing-company-increased-voluntary-benefits-engagement-with-pasito",
+    "pass": 1
+   },
+   {
+    "quote": "Supplemental health premium grew 32%. Voluntary Life participation more than doubled, from 13% to 31%, and Hospital Indemnity nearly doubled, from 11% to 21%. Engagement drove the enrollment: 44% of employees were active on the microsite on day one, and 79% had logged in by mid-June.",
+    "url": "https://pasito.ai/case-studies/how-a-payment-processing-company-increased-voluntary-benefits-engagement-with-pasito",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Improve benefits operations and experiences with agentic workflows that reduce manual work and deliver for employees",
+    "url": "https://pasito.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver personalized, unbiased benefits guidance to every employee all year round. Better-informed employees leads to higher utilization, fewer support calls, and winning client experiences.",
+    "url": "https://pasito.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "50% of employees actively engaged",
+    "url": "https://pasito.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "See how one oil and gas company helped employees across 46 locations choose their plans with confidence, moving 15% of PPO enrollees to lower-cost plans.",
+    "url": "https://pasito.ai/resources/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How an enterprise company passed their non-discrimination test with benefits employees actually used.",
+    "url": "https://pasito.ai/resources/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How a 2,000-person team passed their non-discrimination test with benefits employees actually used.",
+    "url": "https://pasito.ai/resources/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Pasito is building the first AI-native workspace for benefits that enables leaders to handle every part of the benefits journey effortlessly, from quote to claim.",
+    "url": "https://pasito.ai/who-we-are/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Our vision? A world where benefits tools enable employees at companies of all sizes to seamlessly access, understand, and use their benefits.",
+    "url": "https://pasito.ai/who-we-are/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "When this smart home technology company needed to win talent against Ring and Google, they needed benefits that could speak for themselves. Pasito stepped in as the always-on benefits workspace for their employees and delivered a 7.5x return on investment.",
+    "url": "https://pasito.ai/case-studies/how-an-iot-company-turned-benefits-into-a-competitive-advantage",
+    "pass": 1
+   },
+   {
+    "quote": "“With such large competitors in the market, we needed to redefine and communicate our compensation strategy for employees. Benefits are a core component of that. They are the second thing candidates ask our recruiters about.”",
+    "url": "https://pasito.ai/case-studies/how-an-iot-company-turned-benefits-into-a-competitive-advantage",
+    "pass": 1
+   },
+   {
+    "quote": "“I had many employees come to me saying they felt more empowered and confident in their decisions after using Pasito.”",
+    "url": "https://pasito.ai/case-studies/how-an-iot-company-turned-benefits-into-a-competitive-advantage",
+    "pass": 1
+   },
+   {
+    "quote": "The result was a workforce that actually understood what benefits it had. Employees made better elections, contributed more to pre-tax accounts, and came back to HR saying they felt more empowered and confident.",
+    "url": "https://pasito.ai/case-studies/how-an-iot-company-turned-benefits-into-a-competitive-advantage",
+    "pass": 1
+   },
+   {
+    "quote": "Those outcomes cut waste for both parties: employees stopped paying for coverage that didn't fit them, and every pre-tax dollar contributed reduced what the company paid in payroll taxes. Once open enrollment closed and the numbers were tallied, Pasito had delivered a 7.5x return on the company's year-one investment.",
+    "url": "https://pasito.ai/case-studies/how-an-iot-company-turned-benefits-into-a-competitive-advantage",
+    "pass": 1
+   },
+   {
+    "quote": "How an enterprise company passed their non-discrimination test with benefits employees actually used.",
+    "url": "https://pasito.ai/case-studies/how-an-iot-company-turned-benefits-into-a-competitive-advantage",
+    "pass": 1
+   },
+   {
+    "quote": "How a 2,000-person team passed their non-discrimination test with benefits employees actually used.",
+    "url": "https://pasito.ai/case-studies/how-an-iot-company-turned-benefits-into-a-competitive-advantage",
+    "pass": 1
+   },
+   {
+    "quote": "When one oil and gas company needed to shift employees toward HDHPs and drive HSA adoption across a distributed Texas workforce, they needed more than a communication campaign. Pasito stepped in as the always-on benefits workspace and delivered results across all 46 locations.",
+    "url": "https://pasito.ai/case-studies/how-an-oil-gas-company-turned-benefits-complexity-into-employee-confidence",
+    "pass": 1
+   },
+   {
+    "quote": "The challenge: Employees were choosing the wrong plans and no one could tell them why",
+    "url": "https://pasito.ai/case-studies/how-an-oil-gas-company-turned-benefits-complexity-into-employee-confidence",
+    "pass": 1
+   },
+   {
+    "quote": "Of employees returned to Pasito more than once",
+    "url": "https://pasito.ai/case-studies/how-an-oil-gas-company-turned-benefits-complexity-into-employee-confidence",
+    "pass": 1
+   },
+   {
+    "quote": "In a year when employees across 46 locations needed to make a critical plan decision",
+    "url": "https://pasito.ai/case-studies/how-an-oil-gas-company-turned-benefits-complexity-into-employee-confidence",
+    "pass": 1
+   },
+   {
+    "quote": "Of employees on the PPO option switched to lower-cost plans",
+    "url": "https://pasito.ai/case-studies/how-an-oil-gas-company-turned-benefits-complexity-into-employee-confidence",
+    "pass": 1
+   },
+   {
+    "quote": "How an enterprise company passed their non-discrimination test with benefits employees actually used.",
+    "url": "https://pasito.ai/case-studies/how-an-oil-gas-company-turned-benefits-complexity-into-employee-confidence",
+    "pass": 1
+   },
+   {
+    "quote": "How a 2,000-person team passed their non-discrimination test with benefits employees actually used.",
+    "url": "https://pasito.ai/case-studies/how-an-oil-gas-company-turned-benefits-complexity-into-employee-confidence",
+    "pass": 1
+   },
+   {
+    "quote": "of employees who made the switch using Pasito",
+    "url": "https://pasito.ai/case-studies/how-a-real-estate-lending-company-improved-employee-benefits-experiences-while-driving-savings",
+    "pass": 1
+   },
+   {
+    "quote": "How an enterprise company passed their non-discrimination test with benefits employees actually used.",
+    "url": "https://pasito.ai/case-studies/how-a-real-estate-lending-company-improved-employee-benefits-experiences-while-driving-savings",
+    "pass": 1
+   },
+   {
+    "quote": "How a 2,000-person team passed their non-discrimination test with benefits employees actually used.",
+    "url": "https://pasito.ai/case-studies/how-a-real-estate-lending-company-improved-employee-benefits-experiences-while-driving-savings",
+    "pass": 1
+   },
+   {
+    "quote": "The complication was largely communication. Information lived everywhere: “I'd ask a question and would hear back things like, ‘Oh, that's over here,’ and ‘That's where you find this over there.’” Her goal was one benefits source of truth, for employees and for the candidates her talent team needed to win. So she brought in a new broker, OneDigital, and OneDigital brought in Pasito.",
+    "url": "https://pasito.ai/case-studies/how-embla-changed-everything-about-its-benefits-in-one-renewal-with-pasito",
+    "pass": 1
+   },
+   {
+    "quote": "A microsite employees actually want to open",
+    "url": "https://pasito.ai/case-studies/how-embla-changed-everything-about-its-benefits-in-one-renewal-with-pasito",
+    "pass": 1
+   },
+   {
+    "quote": "Two enrollment cycles and an acquisition later",
+    "url": "https://pasito.ai/case-studies/how-embla-changed-everything-about-its-benefits-in-one-renewal-with-pasito",
+    "pass": 1
+   },
+   {
+    "quote": "When Embla acquired another company, Pasito duplicated the site for the merged organization, with its own medical plans and 401(k) and a July 1 effective date, so acquired employees never saw information that didn't apply to them. HRIS feeds and company codes route each population to its own site automatically.",
+    "url": "https://pasito.ai/case-studies/how-embla-changed-everything-about-its-benefits-in-one-renewal-with-pasito",
+    "pass": 1
+   },
+   {
+    "quote": "Employees engaging with benefits communications in the past eight months:",
+    "url": "https://pasito.ai/case-studies/how-embla-changed-everything-about-its-benefits-in-one-renewal-with-pasito",
+    "pass": 1
+   },
+   {
+    "quote": "of employees returned to the microsite, even after open enrollment",
+    "url": "https://pasito.ai/case-studies/how-embla-changed-everything-about-its-benefits-in-one-renewal-with-pasito",
+    "pass": 1
+   },
+   {
+    "quote": "How an enterprise company passed their non-discrimination test with benefits employees actually used.",
+    "url": "https://pasito.ai/case-studies/how-embla-changed-everything-about-its-benefits-in-one-renewal-with-pasito",
+    "pass": 1
+   },
+   {
+    "quote": "How a 2,000-person team passed their non-discrimination test with benefits employees actually used.",
+    "url": "https://pasito.ai/case-studies/how-embla-changed-everything-about-its-benefits-in-one-renewal-with-pasito",
+    "pass": 1
+   },
+   {
+    "quote": "How an enterprise company passed their non-discrimination test with benefits employees actually used.",
+    "url": "https://pasito.ai/case-studies/how-an-enterprise-company-passed-their-non-discrimination-test-with-benefits-employees-actually-used",
+    "pass": 1
+   },
+   {
+    "quote": "“We had failed our non-discrimination test and knew it was going to be a long-term problem. Pasito gave us the opportunity to improve engagement and compliance metrics. As an HR professional, I'm not qualified to give employees tax or financial guidance, and benefits can get incredibly confusing.”",
+    "url": "https://pasito.ai/case-studies/how-an-enterprise-company-passed-their-non-discrimination-test-with-benefits-employees-actually-used",
+    "pass": 1
+   },
+   {
+    "quote": "“Employees were happy with their decisions to enroll into their benefits. They felt more comfortable and confident about their benefit elections after using Pasito. Employees were even sharing their Pasito experience with peers in the company Slack and encouraging others to sign up.”",
+    "url": "https://pasito.ai/case-studies/how-an-enterprise-company-passed-their-non-discrimination-test-with-benefits-employees-actually-used",
+    "pass": 1
+   },
+   {
+    "quote": "Higher pre-tax account engagement across demographics, direct employee and company savings, better compliance metrics, and very happy employees. The engagement reached every part of the company, not just the highly compensated employees whose participation caused the compliance problem in the first place.",
+    "url": "https://pasito.ai/case-studies/how-an-enterprise-company-passed-their-non-discrimination-test-with-benefits-employees-actually-used",
+    "pass": 1
+   },
+   {
+    "quote": "Pasito is the AI-native workspace for benefits. Carriers, consultants, and employers use Pasito to build guides and microsites, deliver personalized decision support, and answer employee questions all year. More than 40,000 plans have been built in Pasito with over 96% extraction accuracy.",
+    "url": "https://pasito.ai/case-studies/how-an-enterprise-company-passed-their-non-discrimination-test-with-benefits-employees-actually-used",
+    "pass": 1
+   },
+   {
+    "quote": "How a 2,000-person team passed their non-discrimination test with benefits employees actually used.",
+    "url": "https://pasito.ai/case-studies/how-an-enterprise-company-passed-their-non-discrimination-test-with-benefits-employees-actually-used",
+    "pass": 1
+   },
+   {
+    "quote": "A payments technology company was moving its voluntary benefits and wanted the transition to deliver real value for employees. A carrier transition is as much a communication challenge as an administrative one, and new coverage only helps the people who understand it.",
+    "url": "https://pasito.ai/case-studies/how-a-payment-processing-company-increased-voluntary-benefits-engagement-with-pasito",
+    "pass": 1
+   },
+   {
+    "quote": "The company offered a strong supplemental package, but enrollment in the voluntary lines trailed the medical plan. Employees weren't ignoring their benefits, but they didn't have a clear way to see what each benefit was worth to them, so they didn't act on it. With open enrollment approaching, the client needed to put the full package in front of every employee, clearly.",
+    "url": "https://pasito.ai/case-studies/how-a-payment-processing-company-increased-voluntary-benefits-engagement-with-pasito",
+    "pass": 1
+   },
+   {
+    "quote": "Our partnership with Pasito has helped us deliver a stronger enrollment experience for our shared clients. It’s the kind of collaboration that makes a real difference for employers and their employees.",
+    "url": "https://pasito.ai/case-studies/how-a-payment-processing-company-increased-voluntary-benefits-engagement-with-pasito",
+    "pass": 1
+   },
+   {
+    "quote": "of employees logged in by OE, with 44% active on day one",
+    "url": "https://pasito.ai/case-studies/how-a-payment-processing-company-increased-voluntary-benefits-engagement-with-pasito",
+    "pass": 1
+   },
+   {
+    "quote": "Supplemental health premium grew 32%. Voluntary Life participation more than doubled, from 13% to 31%, and Hospital Indemnity nearly doubled, from 11% to 21%. Engagement drove the enrollment: 44% of employees were active on the microsite on day one, and 79% had logged in by mid-June.",
+    "url": "https://pasito.ai/case-studies/how-a-payment-processing-company-increased-voluntary-benefits-engagement-with-pasito",
+    "pass": 1
+   },
+   {
+    "quote": "How an enterprise company passed their non-discrimination test with benefits employees actually used.",
+    "url": "https://pasito.ai/case-studies/how-a-payment-processing-company-increased-voluntary-benefits-engagement-with-pasito",
+    "pass": 1
+   },
+   {
+    "quote": "How a 2,000-person team passed their non-discrimination test with benefits employees actually used.",
+    "url": "https://pasito.ai/case-studies/how-a-payment-processing-company-increased-voluntary-benefits-engagement-with-pasito",
+    "pass": 1
+   },
+   {
+    "quote": "When an e-commerce company moved off their PEO, they needed to run open enrollment and become their own benefits experts at the same time. Pasito stepped in as the always-on benefits workspace, giving employees a microsite, decision support, and year-round communications from day one.",
+    "url": "https://pasito.ai/case-studies/how-an-ecommerce-company-took-benefits-in-house",
+    "pass": 1
+   },
+   {
+    "quote": "“I had many employees come to me saying they felt more empowered and confident in their decisions after using Pasito.”",
+    "url": "https://pasito.ai/case-studies/how-an-ecommerce-company-took-benefits-in-house",
+    "pass": 1
+   },
+   {
+    "quote": "Employees who enrolled in supplemental benefits used Pasito first",
+    "url": "https://pasito.ai/case-studies/how-an-ecommerce-company-took-benefits-in-house",
+    "pass": 1
+   },
+   {
+    "quote": "The company had never run its own open enrollment before this one. With Pasito guiding the way, employees showed up, spent real time with their options, and enrolled like people who finally understood what they were buying. For a first attempt off the PEO, the numbers speak for themselves.",
+    "url": "https://pasito.ai/case-studies/how-an-ecommerce-company-took-benefits-in-house",
+    "pass": 1
+   },
+   {
+    "quote": "How an enterprise company passed their non-discrimination test with benefits employees actually used.",
+    "url": "https://pasito.ai/case-studies/how-an-ecommerce-company-took-benefits-in-house",
+    "pass": 1
+   },
+   {
+    "quote": "How a 2,000-person team passed their non-discrimination test with benefits employees actually used.",
+    "url": "https://pasito.ai/case-studies/how-an-ecommerce-company-took-benefits-in-house",
+    "pass": 1
+   },
+   {
+    "quote": "Unfortunately, Pasito has not yet listed any additional information. It is always possible to add such information for the company. This will increase visibilty and trust!",
+    "url": "https://japan.acompio.com/Pasito-42699804.html",
+    "pass": 3
+   },
+   {
+    "quote": "Empowering employees and increasing benefits efficiency during enrollment",
+    "url": "https://www.casestudies.com/company/pasito/case-study/empowering-employees-and-increasing-benefits-efficiency-during-enrollment",
+    "pass": 3
+   },
+   {
+    "quote": "The customer, a computers and electronics manufacturing company, needed to emphasize the value of its benefits to win and retain talent against large competitors. It partnered with Pasito to bring transparency into its benefits programs and help employees understand the personal value of their packages.",
+    "url": "https://www.casestudies.com/company/pasito/case-study/empowering-employees-and-increasing-benefits-efficiency-during-enrollment",
+    "pass": 3
+   },
+   {
+    "quote": "Using Pasito's service provided employees with an easy, data-driven way to make informed benefits decisions, empowering them to get the best coverage and save money. The results included a 7.5X direct, a 25% increase in HSA contributions, and a 100% employee satisfaction rating with Pasito.",
+    "url": "https://www.casestudies.com/company/pasito/case-study/empowering-employees-and-increasing-benefits-efficiency-during-enrollment",
+    "pass": 3
+   },
+   {
+    "quote": "With Pasito, carriers, brokers, and benefits vendors eliminate manual work, accelerate growth, and deliver the personalized benefits experiences employees deserve:all powered by compliant, scalable AI systems.",
+    "url": "https://startupintros.com/orgs/pasito",
+    "pass": 3
+   },
+   {
+    "quote": "Pasito - Saving companies and employees money on healthcare and payroll",
+    "url": "https://startupintros.com/orgs/pasito",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "electronics manufacturing",
+    "url": "https://pasito.ai/case-studies/how-an-iot-company-turned-benefits-into-a-competitive-advantage",
+    "pass": 1
+   },
+   {
+    "quote": "Computer and electronics manufacturing company",
+    "url": "https://pasito.ai/case-studies/how-an-iot-company-turned-benefits-into-a-competitive-advantage",
+    "pass": 1
+   },
+   {
+    "quote": "Get the complete case study as a designed PDF. The talent challenge, the rollout, and the 7.5x return in one shareable file for your team.",
+    "url": "https://pasito.ai/case-studies/how-an-iot-company-turned-benefits-into-a-competitive-advantage",
+    "pass": 1
+   },
+   {
+    "quote": "Get the complete case study as a designed PDF. The challenge, the rollout, and every result in one shareable file for your team.",
+    "url": "https://pasito.ai/case-studies/how-an-ecommerce-company-took-benefits-in-house",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: a computers and electronics manufacturing company boosts benefits engagement and savings with Pasito | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/pasito/case-study/empowering-employees-and-increasing-benefits-efficiency-during-enrollment",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: a computers and electronics manufacturing company boosts benefits engagement and savings with Pasito",
+    "url": "https://www.casestudies.com/company/pasito/case-study/empowering-employees-and-increasing-benefits-efficiency-during-enrollment",
+    "pass": 3
+   },
+   {
+    "quote": "The customer, a computers and electronics manufacturing company, needed to emphasize the value of its benefits to win and retain talent against large competitors. It partnered with Pasito to bring transparency into its benefits programs and help employees understand the personal value of their packages.",
+    "url": "https://www.casestudies.com/company/pasito/case-study/empowering-employees-and-increasing-benefits-efficiency-during-enrollment",
+    "pass": 3
+   },
+   {
+    "quote": "Open case study document...",
+    "url": "https://www.casestudies.com/company/pasito/case-study/empowering-employees-and-increasing-benefits-efficiency-during-enrollment",
+    "pass": 3
+   },
+   {
+    "quote": "Computers and Electronics Manufacturing Company",
+    "url": "https://www.casestudies.com/company/pasito/case-study/empowering-employees-and-increasing-benefits-efficiency-during-enrollment",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/pasito/case-study/empowering-employees-and-increasing-benefits-efficiency-during-enrollment",
+    "pass": 3
+   },
+   {
+    "quote": "a computers and electronics manufacturing company boosts benefits engagement and savings with Pasito",
+    "url": "https://www.casestudies.com/company/pasito",
+    "pass": 3
+   },
+   {
+    "quote": "Computers and Electronics Manufacturing Company",
+    "url": "https://www.casestudies.com/company/pasito",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本最安値でSmoant Pasito Pod Kitを販売 | 迅速かつ安価に配達",
+    "url": "https://jp.vawoo.com/ja/smoant-pasito-pod-kit",
+    "pass": 3
+   },
+   {
+    "quote": "トップページ｜pasito.inc | パシット株式会社",
+    "url": "https://pasito.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Pasito - Acompio Japan",
+    "url": "https://japan.acompio.com/Pasito-42699804.html",
+    "pass": 3
+   },
+   {
+    "quote": "Acompio Network Japan",
+    "url": "https://japan.acompio.com/Pasito-42699804.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Pasito | The leading AI-native workspace for benefits — Pasito is the AI-native company building the future of benefits. Our AI workspace simplifies benefits with pre-trained agents that execute workflows at scale.",
+    "url": "https://pasito.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 Pasito — Pasitoでは、継続的に採用の募集をしています。一緒に働きたい方、お会いできることを楽しみにしています。",
+    "url": "https://www.pasito.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "日本最安値でSmoant Pasito Pod Kitを販売 | 迅速かつ安価に配達 — VapeショップでSmoant Pasito Pod Kitをご注文ください。有利な配達条件、広範なラインナップ。快適なVapingを安価にお届け。東京・日本国内に配達。",
+    "url": "https://jp.vawoo.com/ja/smoant-pasito-pod-kit",
+    "pass": 3
+   },
+   {
+    "quote": "トップページ｜pasito.inc | パシット株式会社 — Pasito.Inc | パシット株式会社はお客様の大切な時間を、より上質な時間へ。**「安全」「安心」「誠実」**を基本理念に、一つひとつのご依頼に真摯に向き合い、最高品質のおもてなしをご提供いたします。 安心と信頼を積み重ねた10年以上の経験、Pasitoは、ハイヤーサービス・送迎・旅行手配を ...",
+    "url": "https://pasito.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Pasito - Acompio Japan — At what address can I find Pasito? You can find Pasito at the following address: , 440-0001 Gejo Nishimachi in the state of Aichi Ken. How can I contact Pasito via phone? You can easily contact Pasito using the telephone number +819054508658. Can I contact Pasito directly via email? You can send your inquiry directly via email. Use the direct contact form at the top. What ",
+    "url": "https://japan.acompio.com/Pasito-42699804.html",
+    "pass": 3
+   },
+   {
+    "quote": "PASITO III - SMOANT® - BEST ELECTRONIC CIGARETTES DEVICE AND ... — 3 days ago · Pasito III pod system with 100W output, 2800mAh battery, 4A fast charging, 7ml pod and 1.3-inch TFT color screen.",
+    "url": "https://smoant.com/pod-systems/s052-pasito-3/",
+    "pass": 3
+   },
+   {
+    "quote": "Pasito Case Studies | Benefits Engagement Results — Oct 14, 2026 · See how companies use Pasito to improve benefits engagement, lift HSA participation, and eliminate wasted program spend. Real results, real clients.",
+    "url": "https://pasito.ai/resources/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: a computers and electronics manufacturing company ... — The customer, a computers and electronics manufacturing company, needed to emphasize the value of its benefits to win and retain talent against large competitors. It partnered with Pasito to bring transparency into its benefits programs and help employees understand the personal value of their packages.",
+    "url": "https://www.casestudies.com/company/pasito/case-study/empowering-employees-and-increasing-benefits-efficiency-during-enrollment",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing - Pasito.ai — Aug 25, 2026 · How an IoT company turned benefits into a competitive advantage Manufacturing August 25, 2026",
+    "url": "https://pasito.ai/case-study-theme/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Pasito B2B Case Studies & Customer Successes — See how Pasito solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/pasito",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study - Wyze 12 — CASE STUDY WITH HEAD OF HR Computers and Electronics Manufacturing Company 200 Employees A competitive and financial advantage with Pasito's personalized benefits decision support The client wanted to ensure they offered the right total rewards package and empower their employees to understand the personal value of their benefits package.",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/pasito_computers-and-electronics-manufacturing-company_981777.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Pasito 2026 Company Profile: Valuation, Funding & Investors ...Pasito - 2026 Company Profile, Team, Funding & Competitors ...Pasito: Funding, Team & Investors | Startup IntrosPasito — Company Profile & Funding | Indexed.vcPasito Revenue 2024: $3M Est. - getlatka.comPasito - AI Startup Profile | AI Market WatchPasito - The AI Workspace Rewiring Employee Benefits — Pasito FAQs When was Pasito founde",
+    "url": "https://pitchbook.com/profiles/company/469870-66",
+    "pass": 3
+   },
+   {
+    "quote": "Pasito - 2026 Company Profile, Team, Funding & Competitors ...Pasito: Funding, Team & Investors | Startup IntrosPasito — Company Profile & Funding | Indexed.vcPasito Revenue 2024: $3M Est. - getlatka.comPasito - AI Startup Profile | AI Market WatchPasito - The AI Workspace Rewiring Employee Benefits — Feb 24, 2026 · Pasito is a series A company based in New York City (United States), founded in 20",
+    "url": "https://tracxn.com/d/companies/pasito/__oN3VhIrfx5gR2EUtjz5xp4BY9zg_WIWSZgUcX8dYTj4",
+    "pass": 3
+   },
+   {
+    "quote": "Pasito: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Founded in 2021 and based in New York City, Pasito was created by Pauline, Ignacio, and Julie, who share a mission to improve financial and health outcomes for employees and their families through smarter benefits elections and engagement.",
+    "url": "https://startupintros.com/orgs/pasito",
+    "pass": 3
+   },
+   {
+    "quote": "Pasito — Company Profile & Funding | Indexed.vc — Pasito is a Healthcare company based in New York, United States, founded in 2021. It has raised $24.3M in total across 2 rounds, most recently a $21.0M Series A round in Feb 2026.",
+    "url": "https://indexed.vc/companies/pasitoinc",
+    "pass": 3
+   },
+   {
+    "quote": "Pasito Revenue 2024: $3M Est. - getlatka.com — Oct 30, 2026 · Pasito 2024 estimated revenue: $3M. 20 employees. Industry: Benefits Administration Software. Founded 2021. HQ: United States. Updated Oct 30, 2026.",
+    "url": "https://getlatka.com/companies/joinpasito.com",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Can I contact Pasito directly via email?",
+    "url": "https://japan.acompio.com/Pasito-42699804.html",
+    "pass": 3
+   },
+   {
+    "quote": "You can send your inquiry directly via email. Use the direct contact form at the top.",
+    "url": "https://japan.acompio.com/Pasito-42699804.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Pasito (@Pasitoapp) / X Pasito @Pasitoapp Oct 1 vayan a darle amor a la publicación que hicimos en ig sobre lujan. me dicen q el limite de 15 pasitos puede que vuele… y después, solo después, voy a estar liberando algo para ustedes. quizas domingo, quizas lunes 🤪 pasito a pasito PASITO (@pasito.app) • Instagram photo From instagram.com 29",
+    "url": "https://x.com/Pasitoapp",
+    "pass": 3
+   },
+   {
+    "quote": "Pasito on X: \"Boy Scouts a prueba de balas\" / X Boy Scouts a prueba de balas Cuidado con lo que vas a decir señor pasito que me puedo llegar a morir",
+    "url": "https://x.com/Pasitoapp/status/2111214384894677277",
+    "pass": 3
+   },
+   {
+    "quote": "Pasito on X: \"fue un placer \" / X que placer la concha de tu madre pasito si pusiste las condiciones para la mierda y las cambiaste ayer Una más y no jodemos mas jajaja dale pasito que eras mi única oportunidad soy re salada perdí en todos los sorteos ...",
+    "url": "https://x.com/Pasitoapp/status/2112742015406637098",
+    "pass": 3
+   },
+   {
+    "quote": "Pasito on X: \"@ecllipsada lo estoy considerando.\" / X fiore 🌙 @ecllipsada Oct 2 pasito regala las entradas de bts a las q caminemos a lujan eu 😭 1 36 3.4K",
+    "url": "https://x.com/Pasitoapp/status/2106104774701588731",
+    "pass": 3
+   },
+   {
+    "quote": "Pasito (@Pasitoapp) / X Pasito @Pasitoapp Oct 24 los q vayan a bts, fijense en pasito pueden activar un boost de pasitos dobles durante todo el día, pero tienen que estar en el estadio para que funcione ;) 59 12 561",
+    "url": "https://x.com/Pasitoapp",
+    "pass": 3
+   },
+   {
+    "quote": "Pasito on X: \"Te gustan los stray kids? canjeá tus entradas ... Sep 15, 2026 · Pasito lpm me desapareció la cuenta de la nada y perdí como 500 pasitos, me quise hacer una nueva y me sale la pantalla verde, te odeeeeeoooo",
+    "url": "https://x.com/Pasitoapp/status/2099575917211226420",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Pasito - LinkedIn Pasito | 7,420 followers on LinkedIn. The AI-native workspace for benefits | Pasito builds AI agents for insurance and benefits, transforming how benefits are built, delivered, and experienced ...",
+    "url": "https://www.linkedin.com/company/pasito-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Pasito - LinkedIn Pasito | 1,704 followers on LinkedIn. La app que convierte tus pasos en beneficios reales. | Pasito es una app que premia a las personas por caminar y las conecta con beneficios reales en ...",
+    "url": "https://www.linkedin.com/company/pasito-app",
+    "pass": 3
+   },
+   {
+    "quote": "Pasito - LinkedIn Pasito builds AI agents for insurance and benefits, transforming how benefits are built, delivered, and experienced. Our Core AI ingests and understands plan documents and employee census data to build structured benefit intelligence. Our Engagement AI Agents orchestrate complex workflows, powering decision support, plan comparisons, guides, highlight sheets, microsites, communic",
+    "url": "https://tw.linkedin.com/company/pasitoinc",
+    "pass": 3
+   },
+   {
+    "quote": "Pauline Roteta, CFA, CFP® - Founder & CEO at Pasito AI | LinkedInPasito a Pasito - LinkedIn#insurancetech #benefitsbrokers | Pasito - LinkedInOne tool, three wins | Pasito - LinkedIn Founder & CEO at Pasito AI · I’m the Founder and CEO of Pasito. Pasito builds AI agents for insurance and benefits—transforming how benefits are built, delivered, and experienced. Pasito ... Pasito a Pasito Fashion Ac",
+    "url": "https://www.linkedin.com/in/paulineroteta",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Pasito Express INC | West Chicago IL - FacebookPasito a pasito - FacebookSalsa y Bachata Social en Puebla - FacebookDamaris Pasito A Pasito - FacebookOrquesta Pasito Show - FacebookPasito a Pasito Waterfront | San Juan - FacebookPasito a Pasito Centro Infantil | Panama City - Facebook Apr 6, 2020 · Pasito Express INC, West Chicago. 430 likes · 2 were here. Tu nueva tiendita favorita! May 20, 2026 ",
+    "url": "https://www.facebook.com/PasitoExpress/",
+    "pass": 3
+   },
+   {
+    "quote": "Pasito a pasito - FacebookSalsa y Bachata Social en Puebla - FacebookDamaris Pasito A Pasito - FacebookOrquesta Pasito Show - FacebookPasito a Pasito Waterfront | San Juan - FacebookPasito a Pasito Centro Infantil | Panama City - Facebook May 20, 2026 · Pasito a pasito. 144,505 followers · 3 talking about this. Pasito a Pasito es una línea de productos infantiles que va desde los complementos de d",
+    "url": "https://www.facebook.com/pasitoapasitobarcelona/",
+    "pass": 3
+   },
+   {
+    "quote": "Salsa y Bachata Social en Puebla - Facebook Con el pasito Tun Tun 🎶💚💃🏻 *Veranito infinito en mi mente 🥹 ☀️ 🎥: @saothefilmmaker 🫶🏼 🎶: Baila que Baila - @josealbertoelcanario #jennifertsuha #salsapowergestuality #salsera #italy #dancerlife 0 reactions Albert Corona 7w · Public",
+    "url": "https://business.facebook.com/groups/SocialOnLatino/",
+    "pass": 3
+   },
+   {
+    "quote": "Damaris Pasito A Pasito - Facebook Damaris Pasito A Pasito. 96,584 likes · 9,227 talking about this. Let’s cook Business inquiries ️ damariskitchen118@gmail.com https://pasitosbodycare.com",
+    "url": "https://www.facebook.com/p/Damaris-Pasito-A-Pasito-100085043838095/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://pasito.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pasito.ai/resources/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pasito.ai/who-we-are/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pasito.ai/case-studies/how-an-iot-company-turned-benefits-into-a-competitive-advantage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pasito.ai/case-studies/how-an-oil-gas-company-turned-benefits-complexity-into-employee-confidence",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pasito.ai/case-studies/how-a-real-estate-lending-company-improved-employee-benefits-experiences-while-driving-savings",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pasito.ai/case-studies/how-embla-changed-everything-about-its-benefits-in-one-renewal-with-pasito",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pasito.ai/case-studies/how-an-enterprise-company-passed-their-non-discrimination-test-with-benefits-employees-actually-used",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pasito.ai/case-studies/how-a-payment-processing-company-increased-voluntary-benefits-engagement-with-pasito",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pasito.ai/case-studies/how-an-ecommerce-company-took-benefits-in-house",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pasito.ai/company-pages/careers",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.pasito.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.vawoo.com/ja/smoant-pasito-pod-kit",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://carislife.hatenablog.com/entry/20260110/1767970800",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kkhashi.com/blogs/detail/145/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pasito.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pasito.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.acompio.com/Pasito-42699804.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/pasito/case-study/empowering-employees-and-increasing-benefits-efficiency-during-enrollment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/pasito",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/469870-66",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/pasito/__oN3VhIrfx5gR2EUtjz5xp4BY9zg_WIWSZgUcX8dYTj4",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://startupintros.com/orgs/pasito",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://indexed.vc/companies/pasitoinc",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/Pasitoapp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Pasitoapp/status/2111214384894677277",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Pasitoapp/status/2112742015406637098",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Pasitoapp/status/2106104774701588731",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/pasito-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/pasito-app",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tw.linkedin.com/company/pasitoinc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/paulineroteta",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/PasitoExpress/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pasitoapasitobarcelona/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://business.facebook.com/groups/SocialOnLatino/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Damaris-Pasito-A-Pasito-100085043838095/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Pasitoapp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Pasitoapp/status/2099575917211226420",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Pasito 日本 導入",
+   "results": [
+    "https://pasito.ai/",
+    "https://www.pasito.jp/",
+    "https://jp.vawoo.com/ja/smoant-pasito-pod-kit",
+    "https://carislife.hatenablog.com/entry/20260110/1767970800",
+    "https://global.honda/jp/news/2026/4260305b.html",
+    "https://response.jp/article/2026/10/06/417434.html",
+    "https://prtimes.jp/main/html/rd/p/000000168.000067508.html"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pasito 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://context.reverso.net/翻訳/日本語-英語/総代理店",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://www.houjin.info/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pasito Japan",
+   "results": [
+    "https://www.pasito.jp/",
+    "https://pasito.co.jp/",
+    "https://pasito.ai/",
+    "https://japan.acompio.com/Pasito-42699804.html",
+    "https://smoant.com/pod-systems/s052-pasito-3/",
+    "https://pachipass.com/en/",
+    "https://japanvapetv.com/smoant-pasito-pro"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pasito manufacturing customer case study",
+   "results": [
+    "https://pasito.ai/resources/case-studies",
+    "https://www.casestudies.com/company/pasito/case-study/empowering-employees-and-increasing-benefits-efficiency-during-enrollment",
+    "https://pasito.ai/case-study-theme/manufacturing",
+    "https://www.casestudies.com/company/pasito",
+    "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/pasito_computers-and-electronics-manufacturing-company_981777.pdf",
+    "https://www.featuredcustomers.com/vendor/pasito/case-studies",
+    "https://19908401.fs1.hubspotusercontent-na1.net/hubfs/19908401/Case+studies/Pasito+Case+Study+-+Anon+Service.pdf"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pasito white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://www.appspace.com/resellers-alliances/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pasito founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/469870-66",
+    "https://tracxn.com/d/companies/pasito/__oN3VhIrfx5gR2EUtjz5xp4BY9zg_WIWSZgUcX8dYTj4",
+    "https://startupintros.com/orgs/pasito",
+    "https://indexed.vc/companies/pasitoinc",
+    "https://getlatka.com/companies/joinpasito.com",
+    "https://www.ai-market-watch.com/company/pasito",
+    "https://yespress.io/pasito"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Pasito",
+   "results": [
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/r_kaga/n/n8a0c789af963",
+    "https://note.com/royalcreative_/n/na81d71411e42",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/masashi3122/n/n6f41b990b137",
+    "https://note.com/splatoonweapon/n/n8451b5a079a9"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Pasito",
+   "results": [
+    "https://x.com/Pasitoapp",
+    "https://x.com/Pasitoapp/status/2111214384894677277",
+    "https://x.com/Pasitoapp/status/2112742015406637098",
+    "https://x.com/Pasitoapp/status/2106104774701588731",
+    "https://x.com/Pasitoapp/status/2099575917211226420",
+    "https://x.com/Pasitoapp/status/2103266606990381531",
+    "https://x.com/Pasitoapp/status/2111908195161542875"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Pasito",
+   "results": [
+    "https://www.linkedin.com/company/pasito-ai",
+    "https://www.linkedin.com/company/pasito-app",
+    "https://tw.linkedin.com/company/pasitoinc",
+    "https://www.linkedin.com/in/paulineroteta",
+    "https://www.linkedin.com/company/pasito-a-pasito-oficial",
+    "https://www.linkedin.com/posts/pasitoinc_insurancetech-benefitsbrokers-activity-7220103894024994816-4l1D",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7371616694504591360/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Pasito",
+   "results": [
+    "https://www.facebook.com/PasitoExpress/",
+    "https://www.facebook.com/pasitoapasitobarcelona/",
+    "https://business.facebook.com/groups/SocialOnLatino/",
+    "https://www.facebook.com/p/Damaris-Pasito-A-Pasito-100085043838095/",
+    "https://www.facebook.com/61554817295501/",
+    "https://www.facebook.com/Pasitoapasitolp/",
+    "https://www.facebook.com/people/Pasito-a-Pasito-Centro-Infantil/100045069195372/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pasito note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/藤原岳史",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.pasito.jp/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260121536475/",
+    "https://note.jp/n/n10ae3b3f8acd"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pasito X 投稿",
+   "results": [
+    "https://x.com/Pasitoapp",
+    "https://x.com/Pasitoapp/status/2099575917211226420",
+    "https://www.instagram.com/pasito.app/",
+    "https://linktr.ee/pasito",
+    "https://www.instagram.com/x_pasito/",
+    "https://search.yahoo.co.jp/realtime/search/投稿/",
+    "https://help.x.com/ja/using-x/edit-post"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部34頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部34頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部34頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部34頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部34頁・検索12回）"
+ }
+}

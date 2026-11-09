@@ -8,142 +8,8 @@
  ],
  "context": "検証",
  "kind": "market",
- "researched_at": "2026-11-09T04:31:30.548627+00:00",
+ "researched_at": "2026-11-09T22:19:21.524465+00:00",
  "evidence": {
-  "突き合わせ・推定": [
-   {
-    "quote": "指数の計算に当たっては、総務省で実施している全国家計構造調査において推計された持家の帰属家賃額を基に、住宅の構造及び規模ごとにウエイトを求め、それに対応する持家の帰属家賃の価格変動は、小売物価統計調査で調査している民営借家の家賃の価格変動を用いています",
-    "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "例えば、パソコンにおいて、「記憶容量が1TB増えたとき、パソコン本体価格は5.0%上昇する」という関係が推計できたとします",
-    "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "⇒ 例えば「記憶容量が1TB増→パソコン本体価格は5.0%上昇」という関係を推計",
-    "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "また、内閣府経済社会総合研究所が作成している『国民経済計算』において、別々に推計される名目付加価値額と実質付加価値額の比から事後的に計算される「GDPデフレーター」も、物価指数の一つです",
-    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "また、品目指数を非公表の扱いとする場合は、当該非公表品目の指数が、上位分類指数と当該上位分類指数に属する他品目の指数を用いた逆算により明らかにならないように、非公表品目の属する上位の分類（商品群など）にある他の1品目の指数も、併せて非公表の扱いとしています（二次秘匿）",
-    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "新旧商品の諸特性の変化から「品質変化による価格変動分」を回帰方程式により定量的に推定し、残り部分を「純粋な価格変動分」として処理する方法",
-    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "価格比較サイトのビッグデータと機械学習手法を用いた物価指数の試算：品質調整方法の比較分析と妥当性の検証",
-    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "スパース推定を用いた新しいヘドニック法について",
-    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "うかの見当をつけ、過去のデータによって検証してみる以外に方法はありません",
-    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "－（原材料使用額等＋内国消費税額＋推計消費税額＋減価償却額)",
-    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "別付加価値額（基準金額）は、その品目の生産額を出荷額と年間在庫増減により推計",
-    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "均在庫を推計することです（ほかのウェイト基準額は、算出した年間の金額を単純に",
-    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "準額算出」参照）が含まれていませんので、これを生産動態統計等から推計し、鉱",
-    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "額ウェイトの基準額算出」参照）を推計し、鉱工業用生産財に加算します",
-    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ける業種別ウェイト基準額に乗じ、財別ウェイト基準額の第１次推定値とします",
-    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "然のことながら、積み上げの結果と前節で計算したウェイト基準額の第１次推計値を",
-    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "なお、速報数値の計算までに間に合わなかったものについては何らかの推計を",
-    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "指数で見た時、鉱工業全体に影響を与えないような数値になるよう推計する",
-    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "どのような推計方法を選択しても、多かれ少なかれ推計誤差が発生することは否定",
-    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "な審査・集計及び推計が可能かという点に帰着しますが、今後も改善に向けて努力す",
-    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "この場合には、生産金額から生産数量を推計することも含まれます",
-    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "調整済指数の系列で前月比が横ばいになるよう推計を行います",
-    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
   "手順・やり方": [
    {
     "quote": "これらの品目については、価格変動を的確に指数に反映させるため、小売物価統計調査による価格のほか品目ごとに典型的な利用事例をモデルケースとするなどにより設定した計算式（モデル式）を用いて月々の指数を算出しています",
@@ -416,219 +282,99 @@
     "first_seen": "2026-11-08"
    }
   ],
-  "実例": [
+  "失敗・落とし穴": [
    {
-    "quote": "なお、家計消費支出割合は家計調査の結果などを用います",
+    "quote": "は以下のとおりでした（ただし、比較する月ごとにこれらの影響の大きさは異なりますので御注意ください",
     "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "これらの品目については、価格変動を的確に指数に反映させるため、小売物価統計調査による価格のほか品目ごとに典型的な利用事例をモデルケースとするなどにより設定した計算式（モデル式）を用いて月々の指数を算出しています",
+    "quote": "G-5 日本の消費者物価指数には上方バイアスがあると言われていますが本当ですか",
     "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "品目は5年に1度の基準改定の際に、直近の家計調査結果に基づいて見直しが行われます",
+    "quote": "消費者物価指数の上方バイアスは、価格の大きく下落した品目が、（1）需要も増えて相対的な支出割合も拡大した場合、（2）時間の経過とともに指数の水準が著しく低下した場合、などに生じることが指摘されています",
     "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "このような品目の調査されない月（非調査月）において、これを除外して上位類の指数を計算すると、その品目のウエイトは類内の他の品目に比例的に配分されることになるため、結果的に各月のウエイトの年平均が本来の年平均ウエイトと異なるという問題が生じます",
+    "quote": "G-7 消費者物価指数と企業物価指数（日本銀行）の動きを対比させて見る際の注意点はありますか",
     "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "C-1 結果はいつ頃公表されるのですか",
+    "quote": "なお、GDPデフレーターはできるだけ指数算出に伴うバイアスを軽減することができるようにウエイトを毎年更新する連鎖方式により作成されています",
     "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "消費者物価指数のような月次統計には、例えば、衣料品の価格が季節の初めには高値で、季節の終わり近くになるとセールなどで値下がりするといった、季節的な要因で毎年同じような動きをするものがあり、これを季節変動と呼んでいます",
+    "quote": "注2）消費税調整済指数は、課税扱いとなる品目について一律に消費税率引上げの直接的な影響があるとみなした調整をしており、品目別に見た一律の調整による指数が実際の課税措置に完全には適合しておらず、過剰な調整（又は調整不足）となる場合があるため、利用には注意が必要です",
     "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "消費者物価指数では、家計調査結果による支出割合を基に作成されたウエイトを5年ごとに更新する公式系列のほかに、消費構造の変化の影響を確認するため、毎年ウエイトを更新して作成するラスパイレス連鎖基準方式による指数を参考指数として公表しています（",
-    "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "その結果は、「",
-    "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "パーシェ・チェックの結果について（PDF：137KB）",
-    "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "2025年基準改定による遡及結果について（PDF：217KB）",
-    "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "例えば2026年6月分において、新旧基準の総合指数の前年同月比は0.1ポイントの下方改定となりました",
-    "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "2020年基準においては、新たな品目の追加等が必要かどうかの検討を行った結果、品目の見直しは行わず、COICOP分類指数",
-    "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "について、国際比較可能性向上の観点から、年平均に加え、月次結果についても毎月公表することとしました",
-    "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ヘドニック法とは品質調整に用いられる方法のひとつで、各製品の品質がこれを構成する複数の特性（性能）に分解でき、価格は性能によって決定されると考え、これらの諸特性（例えば、パソコンなら記憶容量、メモリ容量、ディスプレイサイズなど）と各製品の価格との関係を、重回帰分析という統計的手法で解析することにより、製品間の価格差のうち品質に起因する部分を計量的に把握しようとする手法です",
-    "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "例えば、パソコンにおいて、「記憶容量が1TB増えたとき、パソコン本体価格は5.0%上昇する」という関係が推計できたとします",
-    "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ただし、一部の調査価格については、異なる対応を採用しており、例えば、次のような対応をとっています",
+    "quote": "接続指数では、過去基準の指数を新基準の分類編成に組み替えた上で接続していますが、各基準において採用品目や品目ウエイトなどが異なるため、利用にあたって、性格が異なる各基準の指数を機械的に接続したものである点には、注意する必要があります",
     "url": "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "こうした価格については、出回り期の平均価格（例えば、春夏物の出回り期が2月～7月であれば2月～7月の平均価格）を用いて、その後の非出回り期（8月～翌年1月）の欠測価格を補完しています（「出回り期の平均価格」による補完）",
-    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "例えば、7月速報公表時は、月次指数は4～6月までが、四半期指数は1-3月期が訂正の対象となります",
-    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "したがって、指数を算出する際の各商品の「ウエイト」の与え方、あるいは計算方法によって結果は異なります",
-    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "サービス価格をどのように測るべきか －企業向けサービス価格指数の実例を踏まえて－",
-    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "企業物価指数『電子部品・デバイス』の指数精度向上への取り組み― 企業物価指数2010年基準改定に向けた先行事例 ―",
-    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "調査』の結果を見ると、鉱工業に属する事業所の数は約41 万となっており、生産動態",
+    "quote": "いるからその品目の上昇が適正に評価されず、総合指数が下方にバイアスを持ってい",
     "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "過去の検討結果においては、全体の動き",
+    "quote": "いがどれだけあるかによりバイアスが生じるのです",
     "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "例えば、鋼板の場合、厚さなどによっていくつにも細分化することはできます",
+    "quote": "大に、停滞品は過小に評価され、総合指数に上方のバイアスを持ち込むことになりま",
     "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "例えば、電線ケーブルに",
+    "quote": "の方のバイアスが少ないということではなく、ラスパイレス算式と全く正反対のバイ",
     "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "しかし、これには次の２つのケースがあります",
+    "quote": "固定された基準時から遠ざかるにしたがって指数のバイアスが大きくなるならば、",
     "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "定単位であったものが、次第に不適格となるケースもないとはいえません",
+    "quote": "しかしながら、あまり長く基準時を固定しておくとバイアスが大きくなりま",
     "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "ものは、例えば「生産用機械工業」及び「汎用・業務用機械工業」では採用品目数55",
+    "quote": "基準改定を行うのは、算式のバイアスをなくすためだけではなく、もう１つ大きな",
     "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "結果的に、採用業種における付加価値基準額は、以前よりも大きくなります",
+    "quote": "過去の鉱工業生産指数を見る限り、指数にバイアスが生じる原因は、経済的に不安",
     "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "てはこれらの経費は部分的にしか捉えておらず、結果として付加価値額に含まれるた",
-    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ただし、この方式によると、ある業種のある財については採用系列がないケースや、",
-    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "あったとしても代表率が極めて低く、その動きを代表させることに無理があるケース",
-    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "然のことながら、積み上げの結果と前節で計算したウェイト基準額の第１次推計値を",
-    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "対比すると積み上げ結果の方が小さくなります",
-    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "生産されたある製品が、同一敷地内のほかの場所で消費されているケースにおい",
-    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "のケースについては活動の実態に変化があるわけですから、 断層処理を行うべきか、",
+    "quote": "なお、注意しなければならないのは、新規事業所が立地した場合による繰り入れで",
     "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
     "pass": 3,
     "first_seen": "2026-11-08"
@@ -906,99 +652,353 @@
     "first_seen": "2026-11-08"
    }
   ],
-  "失敗・落とし穴": [
+  "突き合わせ・推定": [
    {
-    "quote": "は以下のとおりでした（ただし、比較する月ごとにこれらの影響の大きさは異なりますので御注意ください",
+    "quote": "指数の計算に当たっては、総務省で実施している全国家計構造調査において推計された持家の帰属家賃額を基に、住宅の構造及び規模ごとにウエイトを求め、それに対応する持家の帰属家賃の価格変動は、小売物価統計調査で調査している民営借家の家賃の価格変動を用いています",
     "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "G-5 日本の消費者物価指数には上方バイアスがあると言われていますが本当ですか",
+    "quote": "例えば、パソコンにおいて、「記憶容量が1TB増えたとき、パソコン本体価格は5.0%上昇する」という関係が推計できたとします",
     "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "消費者物価指数の上方バイアスは、価格の大きく下落した品目が、（1）需要も増えて相対的な支出割合も拡大した場合、（2）時間の経過とともに指数の水準が著しく低下した場合、などに生じることが指摘されています",
+    "quote": "⇒ 例えば「記憶容量が1TB増→パソコン本体価格は5.0%上昇」という関係を推計",
     "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "G-7 消費者物価指数と企業物価指数（日本銀行）の動きを対比させて見る際の注意点はありますか",
-    "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "なお、GDPデフレーターはできるだけ指数算出に伴うバイアスを軽減することができるようにウエイトを毎年更新する連鎖方式により作成されています",
-    "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "注2）消費税調整済指数は、課税扱いとなる品目について一律に消費税率引上げの直接的な影響があるとみなした調整をしており、品目別に見た一律の調整による指数が実際の課税措置に完全には適合しておらず、過剰な調整（又は調整不足）となる場合があるため、利用には注意が必要です",
-    "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "接続指数では、過去基準の指数を新基準の分類編成に組み替えた上で接続していますが、各基準において採用品目や品目ウエイトなどが異なるため、利用にあたって、性格が異なる各基準の指数を機械的に接続したものである点には、注意する必要があります",
+    "quote": "また、内閣府経済社会総合研究所が作成している『国民経済計算』において、別々に推計される名目付加価値額と実質付加価値額の比から事後的に計算される「GDPデフレーター」も、物価指数の一つです",
     "url": "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "いるからその品目の上昇が適正に評価されず、総合指数が下方にバイアスを持ってい",
+    "quote": "また、品目指数を非公表の扱いとする場合は、当該非公表品目の指数が、上位分類指数と当該上位分類指数に属する他品目の指数を用いた逆算により明らかにならないように、非公表品目の属する上位の分類（商品群など）にある他の1品目の指数も、併せて非公表の扱いとしています（二次秘匿）",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "新旧商品の諸特性の変化から「品質変化による価格変動分」を回帰方程式により定量的に推定し、残り部分を「純粋な価格変動分」として処理する方法",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "価格比較サイトのビッグデータと機械学習手法を用いた物価指数の試算：品質調整方法の比較分析と妥当性の検証",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "スパース推定を用いた新しいヘドニック法について",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "うかの見当をつけ、過去のデータによって検証してみる以外に方法はありません",
     "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "いがどれだけあるかによりバイアスが生じるのです",
+    "quote": "－（原材料使用額等＋内国消費税額＋推計消費税額＋減価償却額)",
     "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "大に、停滞品は過小に評価され、総合指数に上方のバイアスを持ち込むことになりま",
+    "quote": "別付加価値額（基準金額）は、その品目の生産額を出荷額と年間在庫増減により推計",
     "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "の方のバイアスが少ないということではなく、ラスパイレス算式と全く正反対のバイ",
+    "quote": "均在庫を推計することです（ほかのウェイト基準額は、算出した年間の金額を単純に",
     "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "固定された基準時から遠ざかるにしたがって指数のバイアスが大きくなるならば、",
+    "quote": "準額算出」参照）が含まれていませんので、これを生産動態統計等から推計し、鉱",
     "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "しかしながら、あまり長く基準時を固定しておくとバイアスが大きくなりま",
+    "quote": "額ウェイトの基準額算出」参照）を推計し、鉱工業用生産財に加算します",
     "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "基準改定を行うのは、算式のバイアスをなくすためだけではなく、もう１つ大きな",
+    "quote": "ける業種別ウェイト基準額に乗じ、財別ウェイト基準額の第１次推定値とします",
     "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "過去の鉱工業生産指数を見る限り、指数にバイアスが生じる原因は、経済的に不安",
+    "quote": "然のことながら、積み上げの結果と前節で計算したウェイト基準額の第１次推計値を",
     "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "なお、注意しなければならないのは、新規事業所が立地した場合による繰り入れで",
+    "quote": "なお、速報数値の計算までに間に合わなかったものについては何らかの推計を",
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "指数で見た時、鉱工業全体に影響を与えないような数値になるよう推計する",
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "どのような推計方法を選択しても、多かれ少なかれ推計誤差が発生することは否定",
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "な審査・集計及び推計が可能かという点に帰着しますが、今後も改善に向けて努力す",
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "この場合には、生産金額から生産数量を推計することも含まれます",
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "調整済指数の系列で前月比が横ばいになるよう推計を行います",
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "なお、家計消費支出割合は家計調査の結果などを用います",
+    "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "これらの品目については、価格変動を的確に指数に反映させるため、小売物価統計調査による価格のほか品目ごとに典型的な利用事例をモデルケースとするなどにより設定した計算式（モデル式）を用いて月々の指数を算出しています",
+    "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "品目は5年に1度の基準改定の際に、直近の家計調査結果に基づいて見直しが行われます",
+    "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "このような品目の調査されない月（非調査月）において、これを除外して上位類の指数を計算すると、その品目のウエイトは類内の他の品目に比例的に配分されることになるため、結果的に各月のウエイトの年平均が本来の年平均ウエイトと異なるという問題が生じます",
+    "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "C-1 結果はいつ頃公表されるのですか",
+    "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "消費者物価指数のような月次統計には、例えば、衣料品の価格が季節の初めには高値で、季節の終わり近くになるとセールなどで値下がりするといった、季節的な要因で毎年同じような動きをするものがあり、これを季節変動と呼んでいます",
+    "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "消費者物価指数では、家計調査結果による支出割合を基に作成されたウエイトを5年ごとに更新する公式系列のほかに、消費構造の変化の影響を確認するため、毎年ウエイトを更新して作成するラスパイレス連鎖基準方式による指数を参考指数として公表しています（",
+    "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "その結果は、「",
+    "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "パーシェ・チェックの結果について（PDF：137KB）",
+    "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "2025年基準改定による遡及結果について（PDF：217KB）",
+    "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "例えば2026年6月分において、新旧基準の総合指数の前年同月比は0.1ポイントの下方改定となりました",
+    "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "2020年基準においては、新たな品目の追加等が必要かどうかの検討を行った結果、品目の見直しは行わず、COICOP分類指数",
+    "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "について、国際比較可能性向上の観点から、年平均に加え、月次結果についても毎月公表することとしました",
+    "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ヘドニック法とは品質調整に用いられる方法のひとつで、各製品の品質がこれを構成する複数の特性（性能）に分解でき、価格は性能によって決定されると考え、これらの諸特性（例えば、パソコンなら記憶容量、メモリ容量、ディスプレイサイズなど）と各製品の価格との関係を、重回帰分析という統計的手法で解析することにより、製品間の価格差のうち品質に起因する部分を計量的に把握しようとする手法です",
+    "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "例えば、パソコンにおいて、「記憶容量が1TB増えたとき、パソコン本体価格は5.0%上昇する」という関係が推計できたとします",
+    "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ただし、一部の調査価格については、異なる対応を採用しており、例えば、次のような対応をとっています",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "こうした価格については、出回り期の平均価格（例えば、春夏物の出回り期が2月～7月であれば2月～7月の平均価格）を用いて、その後の非出回り期（8月～翌年1月）の欠測価格を補完しています（「出回り期の平均価格」による補完）",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "例えば、7月速報公表時は、月次指数は4～6月までが、四半期指数は1-3月期が訂正の対象となります",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "したがって、指数を算出する際の各商品の「ウエイト」の与え方、あるいは計算方法によって結果は異なります",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "サービス価格をどのように測るべきか －企業向けサービス価格指数の実例を踏まえて－",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "企業物価指数『電子部品・デバイス』の指数精度向上への取り組み― 企業物価指数2010年基準改定に向けた先行事例 ―",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "調査』の結果を見ると、鉱工業に属する事業所の数は約41 万となっており、生産動態",
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "過去の検討結果においては、全体の動き",
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "例えば、鋼板の場合、厚さなどによっていくつにも細分化することはできます",
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "例えば、電線ケーブルに",
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "しかし、これには次の２つのケースがあります",
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "定単位であったものが、次第に不適格となるケースもないとはいえません",
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ものは、例えば「生産用機械工業」及び「汎用・業務用機械工業」では採用品目数55",
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "結果的に、採用業種における付加価値基準額は、以前よりも大きくなります",
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "てはこれらの経費は部分的にしか捉えておらず、結果として付加価値額に含まれるた",
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ただし、この方式によると、ある業種のある財については採用系列がないケースや、",
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "あったとしても代表率が極めて低く、その動きを代表させることに無理があるケース",
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "然のことながら、積み上げの結果と前節で計算したウェイト基準額の第１次推計値を",
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "対比すると積み上げ結果の方が小さくなります",
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "生産されたある製品が、同一敷地内のほかの場所で消費されているケースにおい",
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "のケースについては活動の実態に変化があるわけですから、 断層処理を行うべきか、",
     "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
     "pass": 3,
     "first_seen": "2026-11-08"
@@ -1009,34 +1009,49 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/great_chimp5478/n/n6f109b868684",
+    "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/hide_sekihara/n/nc406738de242",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/stats47/n/naf04e81afb7b",
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/tatsuya_sabato/n/nb0e5450a0325",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/bright_lupine143/n/ne5d924f91172",
+    "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei08_01000329.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/bca_m/n/n4aef9ce22c89",
+    "url": "https://www.esri.cao.go.jp/jp/sna/otoiawase/faq/pdf/faq_20170106.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://inochinotoride.org/pricedisguise/q10.php",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/chuosogolpc/n/n6a29ef8287ef",
+    "url": "https://www.pref.miyazaki.lg.jp/documents/37882/37882_20180725101913-1.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
+   },
+   {
+    "url": "https://public-comment.e-gov.go.jp/pcm/download?seqNo=0000300669",
+    "status": "ok",
+    "method": "pdf"
    },
    {
     "url": "https://www.stat.go.jp/naruhodo/7_shurui/chousatoukei.html",
@@ -1044,7 +1059,12 @@
     "method": "http"
    },
    {
-    "url": "https://www.esri.cao.go.jp/jp/sna/data/sna_ronbun/pdf/sna_ronbun021.pdf",
+    "url": "https://www.soumu.go.jp/main_content/000480850.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/guide/pdf/guideline.pdf",
     "status": "ok",
     "method": "pdf"
    },
@@ -1054,12 +1074,7 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.soumu.go.jp/main_content/000480850.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.stat.go.jp/data/guide/pdf/guideline.pdf",
+    "url": "https://www.esri.cao.go.jp/jp/sna/data/sna_ronbun/pdf/sna_ronbun021.pdf",
     "status": "ok",
     "method": "pdf"
    },
@@ -1074,24 +1089,39 @@
     "method": "pdf"
    },
    {
-    "url": "https://ageconsearch.umn.edu/record/356736/files/Lewis_Bird_Lewis+Bird+-+How+does+deflator+choice+and+base+year+preference+impact+the+conversion+of+nominal+to+real+agricultural+prices.pdf",
-    "status": "http_202",
-    "method": "pdf"
-   },
-   {
-    "url": "https://book.rleripio.com/deflating-values",
+    "url": "https://www.stat.go.jp/data/cpi/2025/sokyu.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.academia.edu/27814496/Technical_Note_GDP_Deflator_Converting_From_One_Base_Year_to_Another_Paper_Prepared_for_the_Ministry_of_National_Planning_November_2012",
-    "status": "robots_disallowed",
-    "method": ""
+    "url": "https://www.esri.cao.go.jp/jp/esri/about/statistical_reform/main.html",
+    "status": "ok",
+    "method": "http"
    },
    {
-    "url": "https://maseconomics.com/ap-macro-2-6-real-vs-nominal-gdp/",
+    "url": "https://www.soumu.go.jp/main_content/000615894.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.worldeconomics.com/Concepts/BaseYears/",
     "status": "http_403",
     "method": "http"
+   },
+   {
+    "url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/114946-how-can-i-rescale-a-series-to-a-different-base-yea",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://economicsfromthetopdown.com/2019/04/29/real-gdp-the-flawed-metric-at-the-heart-of-macroeconomics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/en/research/wps_rev/ec/data/rkt03e02.pdf",
+    "status": "ok",
+    "method": "pdf"
    },
    {
     "url": "https://economics.stackexchange.com/questions/5025/how-do-i-change-the-base-year-of-real-gdp-using-the-gdp-deflator-and-nominal-gdp",
@@ -1099,9 +1129,9 @@
     "method": "browser"
    },
    {
-    "url": "https://www.elibrary.imf.org/view/journals/001/2016/133/article-A001-en.xml",
+    "url": "https://www.federalreserve.gov/pubs/feds/2000/200035/200035pap.pdf",
     "status": "ok",
-    "method": "browser"
+    "method": "pdf"
    }
   ]
  },
@@ -1109,98 +1139,123 @@
   {
    "query": "加工統計・推計値の再現性（加工方法の公表・第三者が作り直せるか）と、物価指数・基準年の違う実質系列をつなぐときの注意（統計の利用者・エコノミストの書き手） site:note.com",
    "results": [
-    "https://note.com/great_chimp5478/n/n6f109b868684",
-    "https://note.com/hide_sekihara/n/nc406738de242",
-    "https://note.com/stats47/n/naf04e81afb7b",
-    "https://note.com/bright_lupine143/n/ne5d924f91172",
-    "https://note.com/bca_m/n/n4aef9ce22c89",
-    "https://note.com/chuosogolpc/n/n6a29ef8287ef",
-    "https://note.com/kamokita/n/n28ab3d315df7"
+    "https://www.stat.go.jp/data/cpi/4-1.htm",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
+    "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
+    "https://note.com/tatsuya_sabato/n/nb0e5450a0325",
+    "https://www.soumu.go.jp/menu_news/s-news/01toukei08_01000329.html",
+    "https://www.esri.cao.go.jp/jp/sna/otoiawase/faq/pdf/faq_20170106.pdf",
+    "https://www.pref.miyazaki.lg.jp/documents/37882/37882_20180725101913-1.pdf",
+    "https://inochinotoride.org/pricedisguise/q10.php",
+    "https://www.stat.go.jp/data/cpi/2025/sokyu.html",
+    "https://note.com/great_chimp5478/n/n6f109b868684"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "加工統計・推計値の再現性（加工方法の公表・第三者が作り直せるか）と、物価指数・基準年の違う実質系列をつなぐときの注意（統計の利用者・エコノミストの書き手） note",
    "results": [
-    "https://www.stat.go.jp/naruhodo/7_shurui/chousatoukei.html",
-    "https://www.esri.cao.go.jp/jp/sna/data/sna_ronbun/pdf/sna_ronbun021.pdf",
-    "https://www.meti.go.jp/meti_lib/report/2021FY/000102.pdf",
-    "https://www.soumu.go.jp/main_content/000480850.pdf",
-    "https://www.stat.go.jp/data/guide/pdf/guideline.pdf",
-    "https://www.esri.cao.go.jp/jp/sna/data/reference1/sakusei_top.html",
-    "https://www.jstage.jst.go.jp/article/papaios/30/1/30_21/_pdf/-char/ja"
+    "https://www.stat.go.jp/data/cpi/4-1.htm",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
+    "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
+    "https://note.com/tatsuya_sabato/n/nb0e5450a0325",
+    "https://www.soumu.go.jp/menu_news/s-news/01toukei08_01000329.html",
+    "https://www.esri.cao.go.jp/jp/sna/otoiawase/faq/pdf/faq_20170106.pdf",
+    "https://inochinotoride.org/pricedisguise/q10.php",
+    "https://www.pref.miyazaki.lg.jp/documents/37882/37882_20180725101913-1.pdf",
+    "https://public-comment.e-gov.go.jp/pcm/download?seqNo=0000300669",
+    "https://www.stat.go.jp/naruhodo/7_shurui/chousatoukei.html"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 18
   },
   {
    "query": "加工統計・推計値の再現性（加工方法の公表・第三者が作り直せるか）と、物価指数・基準年の違う実質系列をつなぐときの注意（統計の利用者・エコノミストの書き手） やり方",
    "results": [
-    "https://www.stat.go.jp/naruhodo/7_shurui/chousatoukei.html",
-    "https://www.meti.go.jp/meti_lib/report/2021FY/000102.pdf",
-    "https://www.soumu.go.jp/main_content/000480850.pdf",
-    "https://www.stat.go.jp/data/guide/pdf/guideline.pdf",
-    "https://www.esri.cao.go.jp/jp/sna/data/sna_ronbun/pdf/sna_ronbun021.pdf",
-    "https://www.esri.cao.go.jp/jp/sna/data/reference1/sakusei_top.html",
-    "https://www.jstage.jst.go.jp/article/papaios/30/1/30_21/_pdf/-char/ja"
+    "https://www.stat.go.jp/data/cpi/4-1.htm",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
+    "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
+    "https://note.com/tatsuya_sabato/n/nb0e5450a0325",
+    "https://www.soumu.go.jp/menu_news/s-news/01toukei08_01000329.html",
+    "https://www.esri.cao.go.jp/jp/sna/otoiawase/faq/pdf/faq_20170106.pdf",
+    "https://inochinotoride.org/pricedisguise/q10.php",
+    "https://www.pref.miyazaki.lg.jp/documents/37882/37882_20180725101913-1.pdf",
+    "https://public-comment.e-gov.go.jp/pcm/download?seqNo=0000300669",
+    "https://www.stat.go.jp/naruhodo/7_shurui/chousatoukei.html"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "加工統計・推計値の再現性（加工方法の公表・第三者が作り直せるか）と、物価指数・基準年の違う実質系列をつなぐときの注意（統計の利用者・エコノミストの書き手） 事例",
    "results": [
-    "https://www.stat.go.jp/naruhodo/7_shurui/chousatoukei.html",
-    "https://www.meti.go.jp/meti_lib/report/2021FY/000102.pdf",
-    "https://www.soumu.go.jp/main_content/000480850.pdf",
-    "https://www.esri.cao.go.jp/jp/sna/data/sna_ronbun/pdf/sna_ronbun021.pdf",
-    "https://www.stat.go.jp/data/guide/pdf/guideline.pdf",
-    "https://www.esri.cao.go.jp/jp/sna/data/reference1/sakusei_top.html",
-    "https://www.jstage.jst.go.jp/article/papaios/30/1/30_21/_pdf/-char/ja"
+    "https://www.stat.go.jp/data/cpi/4-1.htm",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
+    "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
+    "https://note.com/tatsuya_sabato/n/nb0e5450a0325",
+    "https://www.soumu.go.jp/menu_news/s-news/01toukei08_01000329.html",
+    "https://www.esri.cao.go.jp/jp/sna/otoiawase/faq/pdf/faq_20170106.pdf",
+    "https://www.pref.miyazaki.lg.jp/documents/37882/37882_20180725101913-1.pdf",
+    "https://inochinotoride.org/pricedisguise/q10.php",
+    "https://www.stat.go.jp/data/cpi/2025/sokyu.html",
+    "https://www.stat.go.jp/naruhodo/7_shurui/chousatoukei.html"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 18
   },
   {
    "query": "reproducibility of derived statistics deflator base year linking real series pitfalls",
    "results": [
-    "https://ageconsearch.umn.edu/record/356736/files/Lewis_Bird_Lewis+Bird+-+How+does+deflator+choice+and+base+year+preference+impact+the+conversion+of+nominal+to+real+agricultural+prices.pdf",
-    "https://book.rleripio.com/deflating-values",
-    "https://www.academia.edu/27814496/Technical_Note_GDP_Deflator_Converting_From_One_Base_Year_to_Another_Paper_Prepared_for_the_Ministry_of_National_Planning_November_2012",
-    "https://maseconomics.com/ap-macro-2-6-real-vs-nominal-gdp/",
+    "https://www.worldeconomics.com/Concepts/BaseYears/",
+    "https://datahelpdesk.worldbank.org/knowledgebase/articles/114946-how-can-i-rescale-a-series-to-a-different-base-yea",
+    "http://economicsfromthetopdown.com/2019/04/29/real-gdp-the-flawed-metric-at-the-heart-of-macroeconomics/",
+    "https://www.boj.or.jp/en/research/wps_rev/ec/data/rkt03e02.pdf",
     "https://economics.stackexchange.com/questions/5025/how-do-i-change-the-base-year-of-real-gdp-using-the-gdp-deflator-and-nominal-gdp",
-    "https://www.elibrary.imf.org/view/journals/001/2016/133/article-A001-en.xml",
-    "https://datahelpdesk.worldbank.org/knowledgebase/articles/680284-why-do-countries-revise-their-national-accounts"
+    "https://www.federalreserve.gov/pubs/feds/2000/200035/200035pap.pdf",
+    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2306117",
+    "https://nap.nationalacademies.org/resource/25303/Reproducibility%20in%20Economics.pdf",
+    "https://www.nber.org/system/files/working_papers/w35382/w35382.pdf",
+    "https://en.wikipedia.org/wiki/Chained_volume_series"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   },
   {
    "query": "site:note.com 加工統計・推計値の再現性（加工方法の公表・第三者が作り直せるか）と、物価指数・基準年の違う実質系列をつなぐときの注意（統計の利用者・エコノミストの書き手）",
    "results": [
+    "https://note.com/ocaml/n/nb4b3368f1c7a",
     "https://note.com/stats47/n/naf04e81afb7b",
-    "https://note.com/hide_sekihara/n/nc406738de242",
     "https://note.com/chuosogolpc/n/n6a29ef8287ef",
-    "https://note.com/apt_daisy823/n/nb6c486c51eff",
-    "https://note.com/great_chimp5478/n/n6f109b868684",
+    "https://note.com/hide_sekihara/n/nc406738de242",
     "https://note.com/kamokita/n/n716c2b1df7ea",
-    "https://note.com/kamokita/n/nbd413520ba4e"
+    "https://note.com/great_chimp5478/n/n6f109b868684",
+    "https://note.com/apt_daisy823/n/nb6c486c51eff",
+    "https://note.com/kamokita/n/n88b50d2c5719"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 8
   },
   {
    "query": "site:x.com 加工統計・推計値の再現性（加工方法の公表・第三者が作り直せるか）と、物価指数・基準年の違う実質系列をつなぐときの注意（統計の利用者・エコノミストの書き手）",
@@ -1209,12 +1264,12 @@
     "https://x.com/toushitsuuyaku/status/2107306404621029732",
     "https://x.com/the_last_leaf/status/2040301622165917975",
     "https://x.com/Zoukers/status/2094749354544558260",
-    "https://x.com/Nagapiii/status/2100396398277730466",
     "https://x.com/shinjukuacc/status/1938462294314262937",
-    "https://x.com/genkuroki/status/2059924018304786534"
+    "https://x.com/genkuroki/status/2059924018304786534",
+    "https://x.com/Nagapiii/status/2100396398277730466"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -1225,9 +1280,9 @@
     "https://www.linkedin.com/pulse/データの正規性確認不良データのバラつきを科学的に評価する実験計画法を実践する前に知っておくべき統計的思考-鈴木-xjnbc/",
     "https://jp.linkedin.com/pulse/statistical-analysis-formal-problem-solving-tools-enhancing-chopra-bgxkc?tl=ja",
     "https://jp.linkedin.com/in/謙人-坂井-a01629342",
+    "https://jp.linkedin.com/posts/yutaka-takemoto-4215a389_研究実験は再現性をとることが重要-生物が対象だと結果がブレることが多い-生物統計学-activity-7351238233898278912-SKYT",
     "https://jp.linkedin.com/pulse/reproducibility-replicability-robustness-research-why-schweinberger-iwhie?tl=ja",
-    "https://jp.linkedin.com/pulse/reproducibility-biomedical-research-traceability-systems-francis-osei-kvtee?tl=ja",
-    "https://jp.linkedin.com/posts/yutaka-takemoto-4215a389_研究実験は再現性をとることが重要-生物が対象だと結果がブレることが多い-生物統計学-activity-7351238233898278912-SKYT"
+    "https://jp.linkedin.com/pulse/reproducibility-biomedical-research-traceability-systems-francis-osei-kvtee?tl=ja"
    ],
    "engines": [
     "ddgs:google"
@@ -1238,59 +1293,72 @@
    "query": "site:facebook.com 加工統計・推計値の再現性（加工方法の公表・第三者が作り直せるか）と、物価指数・基準年の違う実質系列をつなぐときの注意（統計の利用者・エコノミストの書き手）",
    "results": [
     "https://www.facebook.com/maffjapan/posts/令和2年水産加工統計調査結果をお知らせします1-食用加工品生産量焼味付のりを除くは143万6880ｔで前年に比べ７減少しました主な加工種類別の生産量は以下のとお/4298664780218782/",
+    "https://www.facebook.com/ibaraki.tokei/posts/2023年経済構造実態調査製造業事業所調査茨城県結果を公表しました事業所数従業者数製造品出荷額等付加価値額などを従業者規模地域別市町村別などに集計しました詳細は/1014172224088803/",
+    "https://www.facebook.com/cascaobdt/posts/データ分析セミナー1月26日水の夜国立社会保障人口問題研究所の久井情在-氏を講師にお招きし将来推計人口の導き方読み解き方をテーマにセミナーを開催します久井氏は人/468100021687096/",
+    "https://www.facebook.com/maffjapan/posts/統計情報令和７年の漁業養殖業生産統計を公表しましたので概要を紹介します-令和７年の漁業養殖業の生産量は357万7400ｔで前年に比べて５万8800ｔ16減少しま/1468530048646536/",
+    "https://www.facebook.com/stat.japan/posts/7月22日総務省統計局からお知らせします人口推計2025年令和7年-7月1日現在概算値〇総人口は1億2330万人で前年同月に比べ68万人の減少人口推計2025年/1166148942215799/",
+    "https://www.facebook.com/maffjapan/posts/統計情報令和6年度野生鳥獣資源利用実態調査結果を公表しましたので概要を紹介します1-ジビエ利用量食肉処理施設が令和6年度に処理した野生鳥獣のジビエ利用量は267/1242396707926539/",
+    "https://www.facebook.com/hokensidou/posts/２５年の孤立死２万２２２２人前年比３６６人増内閣府推計-両手を組む高齢者写真はイメージ-内閣府は１４日２０２５年に誰にもみとられることなく孤立死した人が２万２２/1386912543433622/",
     "https://www.facebook.com/naganokentokei/",
     "https://www.facebook.com/JMPjpn/videos/gauge-rr-による計量値の測定システム分析/363486928490163/",
-    "https://www.facebook.com/kazuhiro.haraguchi/videos/科学は何故間違えるか仮説的数理統計と再現性検証を求められる科学との違いとは/1198578492233497/",
-    "https://www.facebook.com/JMPjpn/videos/gauge-rr-による計量値の測定システム分析/564386721152834/",
-    "https://www.facebook.com/stat.japan/posts/12月19日総務省統計局からお知らせします人口推計2025年令和7年-12月1日現在概算値〇総人口は1億2316万人で前年同月に比べ59万人の減少人口推計202/1290173643146661/",
-    "https://www.facebook.com/stat.japan/posts/3月19日総務省統計局からお知らせします人口推計2026年令和8年-3月1日現在概算値〇総人口は1億2285万人で前年同月に比べ57万人の減少人口推計2025年/1362568579240500/"
+    "https://www.facebook.com/kazuhiro.haraguchi/videos/科学は何故間違えるか仮説的数理統計と再現性検証を求められる科学との違いとは/1198578492233497/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "ddgs:yahoo"
    ],
-   "n_hits": 7
+   "n_hits": 13
   },
   {
    "query": "加工統計・推計値の再現性（加工方法の公表・第三者が作り直せるか）と、物価指数・基準年の違う実質系列をつなぐときの注意（統計の利用者・エコノミストの書き手） note 社長",
    "results": [
-    "https://www.stat.go.jp/naruhodo/7_shurui/chousatoukei.html",
-    "https://www.esri.cao.go.jp/jp/sna/data/sna_ronbun/pdf/sna_ronbun021.pdf",
-    "https://www.meti.go.jp/meti_lib/report/2021FY/000102.pdf",
-    "https://www.soumu.go.jp/main_content/000480850.pdf",
-    "https://www.stat.go.jp/data/guide/pdf/guideline.pdf",
-    "https://www.esri.cao.go.jp/jp/sna/data/reference1/sakusei_top.html",
-    "https://www.jstage.jst.go.jp/article/papaios/30/1/30_21/_pdf/-char/ja"
+    "https://www.stat.go.jp/data/cpi/4-1.htm",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
+    "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
+    "https://note.com/tatsuya_sabato/n/nb0e5450a0325",
+    "https://www.soumu.go.jp/menu_news/s-news/01toukei08_01000329.html",
+    "https://www.esri.cao.go.jp/jp/sna/otoiawase/faq/pdf/faq_20170106.pdf",
+    "https://www.pref.miyazaki.lg.jp/documents/37882/37882_20180725101913-1.pdf",
+    "https://inochinotoride.org/pricedisguise/q10.php",
+    "https://www.stat.go.jp/data/cpi/2025/sokyu.html",
+    "https://www.stat.go.jp/naruhodo/7_shurui/chousatoukei.html"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "加工統計・推計値の再現性（加工方法の公表・第三者が作り直せるか）と、物価指数・基準年の違う実質系列をつなぐときの注意（統計の利用者・エコノミストの書き手） X 投稿",
    "results": [
-    "https://www.stat.go.jp/naruhodo/7_shurui/chousatoukei.html",
-    "https://www.esri.cao.go.jp/jp/sna/data/sna_ronbun/pdf/sna_ronbun021.pdf",
-    "https://www.meti.go.jp/meti_lib/report/2021FY/000102.pdf",
-    "https://www.soumu.go.jp/main_content/000480850.pdf",
-    "https://www.stat.go.jp/data/guide/pdf/guideline.pdf",
-    "https://www.esri.cao.go.jp/jp/sna/data/reference1/sakusei_top.html",
-    "https://www.jstage.jst.go.jp/article/papaios/30/1/30_21/_pdf/-char/ja"
+    "https://www.stat.go.jp/data/cpi/4-1.htm",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
+    "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
+    "https://note.com/tatsuya_sabato/n/nb0e5450a0325",
+    "https://www.soumu.go.jp/menu_news/s-news/01toukei08_01000329.html",
+    "https://www.esri.cao.go.jp/jp/sna/otoiawase/faq/pdf/faq_20170106.pdf",
+    "https://www.pref.miyazaki.lg.jp/documents/37882/37882_20180725101913-1.pdf",
+    "https://inochinotoride.org/pricedisguise/q10.php",
+    "https://www.stat.go.jp/data/cpi/2025/sokyu.html",
+    "https://www.meti.go.jp/meti_lib/report/2021FY/000102.pdf"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 20
   },
   {
    "query": "reproducibility of derived statistics deflator base year linking real series pitfalls site:linkedin.com",
    "results": [
     "https://www.linkedin.com/pulse/when-real-growth-outruns-nominal-why-indias-gdp-deflator-ganguly-7fdtc",
-    "https://www.linkedin.com/pulse/getting-real-gdp-why-india-must-fix-its-deflator-problem-ganguly-m6h9c",
     "https://pe.linkedin.com/posts/standard-a-097125a5_today-i-analyze-nigerias-gdp-deflator-for-activity-6729666361703849984-4jAo",
     "https://pe.linkedin.com/pulse/reproducibility-problem-sciencewhats-scientist-do-part-stout/",
+    "https://www.linkedin.com/pulse/getting-real-gdp-why-india-must-fix-its-deflator-problem-ganguly-m6h9c",
     "https://www.linkedin.com/advice/3/what-most-common-pitfalls-avoid-when-ensuring-reproducibility-ovlie",
-    "https://www.linkedin.com/pulse/reproducibility-crisis-what-why-should-you-care-isabel-duarte-wsa4e",
+    "https://www.linkedin.com/pulse/understanding-avoiding-common-statistical-pitfalls-yashica-sharma-yzxme",
     "https://www.linkedin.com/advice/3/how-do-you-adjust-nominal-variables-inflation-deflation"
    ],
    "engines": [
@@ -1301,6 +1369,6 @@
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 4,
+ "runs": 5,
  "first_researched_at": "2026-11-08T06:00:31.289687+00:00"
 }

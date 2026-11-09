@@ -8,60 +8,24 @@
  ],
  "context": "推定",
  "kind": "market",
- "researched_at": "2026-11-09T03:59:01.754472+00:00",
+ "researched_at": "2026-11-09T22:38:07.419237+00:00",
  "evidence": {
-  "手順・やり方": [
+  "一次情報の探し方": [
    {
-    "quote": "3. 研究方法とデータ",
+    "quote": "マクロ経済統計の平均値による議論は、産業別の詳細な実態を覆い隠し、競争優位分野の可能性を過小評価するとともに、課題分野への適切な政策介入を困難にする",
     "url": "https://note.com/btobmarketing/n/n7bb1cd09fab1",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "「人月の神話型請負」と呼ばれる、人月による見積もりを前提とした硬直的な請負契約が、柔軟な改善や効率化を阻害",
-    "url": "https://note.com/btobmarketing/n/n7bb1cd09fab1",
+    "quote": "AI時代の採用面接メソッド〜フリートーク面接からの転換〜（曽和利光）",
+    "url": "https://apj.aidem.co.jp/current/detail/5282.html",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "品質管理手法、プロセス改善技術、デジタル化推進方法論",
-    "url": "https://note.com/btobmarketing/n/n7bb1cd09fab1",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "高橋（2024）「IT人材不足79万人の真因：生産性向上を阻む『人月の神話型請負』」Findy Tech Blog, https://tech.findy.co.jp/entry/2024/11/15/070000",
-    "url": "https://note.com/btobmarketing/n/n7bb1cd09fab1",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "2024 年 6 月、 「経済財政運営と改革の基本方針2024 ～賃上げと投資がけん引する成長型",
-    "url": "https://www.jpc-net.jp/research/assets/pdf/Productivity_report_vol20.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "V ol.13（滝澤（2020））の計測方法をもとに、各国の産業別労働生産性水準の計測が可能な最",
-    "url": "https://www.jpc-net.jp/research/assets/pdf/Productivity_report_vol20.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "次に、労働生産性の計測方法を示す",
-    "url": "https://www.jpc-net.jp/research/assets/pdf/Productivity_report_vol20.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "労働生産性の定義や計算方法については、下記のリンクページでより詳細に解説しています",
-    "url": "https://plus.nbc-consul.co.jp/blog/labour-productivity-japan",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "日本の労働生産性が低い理由｜現状と向上させる方法も紹介",
-    "url": "https://plus.nbc-consul.co.jp/blog/labour-productivity-japan",
+    "quote": "アイデム人と仕事研究所 - 人材の採用・育成・活用・定着に資する情報を提供",
+    "url": "https://apj.aidem.co.jp/current/detail/5282.html",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
@@ -72,278 +36,14 @@
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "「桑山さん、元芸人なんですから、ウケる話し方のコツを教えてくださいよ」講演会の懇親会で、ほぼ必ずいただくリクエストです",
-    "url": "https://apj.aidem.co.jp/current/detail/5282.html",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "presents the background information on data sources and methodologies used for the KILM",
+    "quote": "information are derived from the same primary source. However, production censuses and industrial surveys often",
     "url": "https://www.ilo.org/media/305836/download",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "This paper presents background information on data sources and methodologies on",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "which are calculated according to a common conceptual framework, the System of National",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "provide employment estimates within the national accounts framework. For most countries",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "countries we therefore made use of some variant of the “component method” to arrive at hours",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "actually worked.5 This method begins with a measure of paid hours or “usual” hours, which is",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "work. Estimates for use with the component method generally are obtained by combining",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "on the component method. This has particularly large consequences for the estimates of annual",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "the lower “component method” estimate because of its greater international comparability.6",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "detailed description of this method.",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "rates across countries. This reduces measurement errors from methodological differences",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "The total economy PPPs are all aggregated using the Geary-Khamis method. This",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "measured in terms of gross national product (GNP). For example, in application of this method,",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "12 An alternative method that is nowadays mostly used in the OECD countries aggregates PPPs on the basis of the",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "EKS (Eltetö, Köves and Sculz) method. EKS PPPs are basically geometric averages of binary PPPs (which are not",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "We begin with a brief review of the industry-of-origin method, which",
+    "quote": "primary source. For manufacturing the best source is the national census",
     "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "study are based on the industry-of-origin method, which involves com-",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "an extensive discussion of the alternative methods and procedures and an overview of",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "This method is fundamentally different from the specification pricing",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ing, a method was required to fill the holes for the 75 to 80 percent of",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "structure differs greatly between countries. Our method in using output",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "use of multilateralization methods for our ICOP comparisons.",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "single indicator\" method and, in general, can be accepted as sufficiently",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "parisons should be made within the framework of an input-output table that shows all",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "on the basis of the perpetual inventory method by cumulating annual",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Sources and method: See data appendix. Capital stock estimates are based on the perpetual inventory method, using",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "The level accounting method applied in this section needs to be",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "be assessed more carefully than was possible in the framework of this",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Following are the sources and methods the authors used in their",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "on the basis of the perpetual inventory method (PIM), as pioneered by",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "An Overview of Sources and Methods",
-    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "accounting methodology. It could not have been written without the help of many people. Thanks are due to",
-    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "applications of the KLEM-methodology. Discussions with Frank Lee, Wulong Gu and Jianmin Tang",
-    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "conceptual framework similar to the one used by OECD (1995). For labour input the following",
-    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "apply the basic KLEM-methodology for detailed industry-level analysis of productivity growth in",
-    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "provide a consistent framework in which measures of output, energy and intermediate inputs are",
-    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "needed in a later stage. The framework of construction used in compiling the international",
-    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "on a regular basis. Since 1983, these are held annually within a common framework, co-ordinated",
-    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "study for Britain and applied the KLEM-methodology to study productivity improvements for",
-    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "our reference for a common language. The original production account framework used by",
-    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Jorgensonian framework will not conflict with data prepared according to the SNA standards.4",
-    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "input-output tables provide a consistent framework in which measures of output and intermediate",
-    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "years in-between on basis of yearly national I/O-tables, or with some interpolation method such",
-    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "projection method called EURO, whose basic idea corresponds to the RAS method (see Beutel",
-    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "input-output framework of the european system of accounts (ESA 95). Supply and use table are",
-    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
     "pass": 3,
     "first_seen": "2026-11-09"
    }
@@ -708,42 +408,28 @@
     "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
     "pass": 3,
     "first_seen": "2026-11-09"
-   }
-  ],
-  "一次情報の探し方": [
+   },
    {
-    "quote": "マクロ経済統計の平均値による議論は、産業別の詳細な実態を覆い隠し、競争優位分野の可能性を過小評価するとともに、課題分野への適切な政策介入を困難にする",
-    "url": "https://note.com/btobmarketing/n/n7bb1cd09fab1",
+    "quote": "serve as a base for further research into for example the impact of high-tech industries or human",
+    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "AI時代の採用面接メソッド〜フリートーク面接からの転換〜（曽和利光）",
-    "url": "https://apj.aidem.co.jp/current/detail/5282.html",
+    "quote": "returns, costs will rapidly increase. For example, comparability problems increase with a greater",
+    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "アイデム人と仕事研究所 - 人材の採用・育成・活用・定着に資する情報を提供",
-    "url": "https://apj.aidem.co.jp/current/detail/5282.html",
+    "quote": "the case of Denmark).",
+    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "採用面接で、応募者の中から「自社に合った人をどう見極めるか？」について、実践的な方法や企業が考えておかなければならないポイントを解説します",
-    "url": "https://apj.aidem.co.jp/current/detail/5282.html",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "information are derived from the same primary source. However, production censuses and industrial surveys often",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "primary source. For manufacturing the best source is the national census",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
+    "quote": "- This is the case with the treatment of government services and imputed interest of domestic banks and",
+    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
     "pass": 3,
     "first_seen": "2026-11-09"
    }
@@ -1087,6 +773,344 @@
     "pass": 3,
     "first_seen": "2026-11-09"
    }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "3. 研究方法とデータ",
+    "url": "https://note.com/btobmarketing/n/n7bb1cd09fab1",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "「人月の神話型請負」と呼ばれる、人月による見積もりを前提とした硬直的な請負契約が、柔軟な改善や効率化を阻害",
+    "url": "https://note.com/btobmarketing/n/n7bb1cd09fab1",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "品質管理手法、プロセス改善技術、デジタル化推進方法論",
+    "url": "https://note.com/btobmarketing/n/n7bb1cd09fab1",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "高橋（2024）「IT人材不足79万人の真因：生産性向上を阻む『人月の神話型請負』」Findy Tech Blog, https://tech.findy.co.jp/entry/2024/11/15/070000",
+    "url": "https://note.com/btobmarketing/n/n7bb1cd09fab1",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2024 年 6 月、 「経済財政運営と改革の基本方針2024 ～賃上げと投資がけん引する成長型",
+    "url": "https://www.jpc-net.jp/research/assets/pdf/Productivity_report_vol20.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "V ol.13（滝澤（2020））の計測方法をもとに、各国の産業別労働生産性水準の計測が可能な最",
+    "url": "https://www.jpc-net.jp/research/assets/pdf/Productivity_report_vol20.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "次に、労働生産性の計測方法を示す",
+    "url": "https://www.jpc-net.jp/research/assets/pdf/Productivity_report_vol20.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "労働生産性の定義や計算方法については、下記のリンクページでより詳細に解説しています",
+    "url": "https://plus.nbc-consul.co.jp/blog/labour-productivity-japan",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "日本の労働生産性が低い理由｜現状と向上させる方法も紹介",
+    "url": "https://plus.nbc-consul.co.jp/blog/labour-productivity-japan",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "採用面接で、応募者の中から「自社に合った人をどう見極めるか？」について、実践的な方法や企業が考えておかなければならないポイントを解説します",
+    "url": "https://apj.aidem.co.jp/current/detail/5282.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "「桑山さん、元芸人なんですから、ウケる話し方のコツを教えてくださいよ」講演会の懇親会で、ほぼ必ずいただくリクエストです",
+    "url": "https://apj.aidem.co.jp/current/detail/5282.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "presents the background information on data sources and methodologies used for the KILM",
+    "url": "https://www.ilo.org/media/305836/download",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "This paper presents background information on data sources and methodologies on",
+    "url": "https://www.ilo.org/media/305836/download",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "which are calculated according to a common conceptual framework, the System of National",
+    "url": "https://www.ilo.org/media/305836/download",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "provide employment estimates within the national accounts framework. For most countries",
+    "url": "https://www.ilo.org/media/305836/download",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "countries we therefore made use of some variant of the “component method” to arrive at hours",
+    "url": "https://www.ilo.org/media/305836/download",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "actually worked.5 This method begins with a measure of paid hours or “usual” hours, which is",
+    "url": "https://www.ilo.org/media/305836/download",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "work. Estimates for use with the component method generally are obtained by combining",
+    "url": "https://www.ilo.org/media/305836/download",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "on the component method. This has particularly large consequences for the estimates of annual",
+    "url": "https://www.ilo.org/media/305836/download",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "the lower “component method” estimate because of its greater international comparability.6",
+    "url": "https://www.ilo.org/media/305836/download",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "detailed description of this method.",
+    "url": "https://www.ilo.org/media/305836/download",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "rates across countries. This reduces measurement errors from methodological differences",
+    "url": "https://www.ilo.org/media/305836/download",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The total economy PPPs are all aggregated using the Geary-Khamis method. This",
+    "url": "https://www.ilo.org/media/305836/download",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "measured in terms of gross national product (GNP). For example, in application of this method,",
+    "url": "https://www.ilo.org/media/305836/download",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "12 An alternative method that is nowadays mostly used in the OECD countries aggregates PPPs on the basis of the",
+    "url": "https://www.ilo.org/media/305836/download",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "EKS (Eltetö, Köves and Sculz) method. EKS PPPs are basically geometric averages of binary PPPs (which are not",
+    "url": "https://www.ilo.org/media/305836/download",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "We begin with a brief review of the industry-of-origin method, which",
+    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "study are based on the industry-of-origin method, which involves com-",
+    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "an extensive discussion of the alternative methods and procedures and an overview of",
+    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "This method is fundamentally different from the specification pricing",
+    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ing, a method was required to fill the holes for the 75 to 80 percent of",
+    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "structure differs greatly between countries. Our method in using output",
+    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "use of multilateralization methods for our ICOP comparisons.",
+    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "single indicator\" method and, in general, can be accepted as sufficiently",
+    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "parisons should be made within the framework of an input-output table that shows all",
+    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "on the basis of the perpetual inventory method by cumulating annual",
+    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Sources and method: See data appendix. Capital stock estimates are based on the perpetual inventory method, using",
+    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The level accounting method applied in this section needs to be",
+    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "be assessed more carefully than was possible in the framework of this",
+    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Following are the sources and methods the authors used in their",
+    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "on the basis of the perpetual inventory method (PIM), as pioneered by",
+    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "An Overview of Sources and Methods",
+    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "accounting methodology. It could not have been written without the help of many people. Thanks are due to",
+    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "applications of the KLEM-methodology. Discussions with Frank Lee, Wulong Gu and Jianmin Tang",
+    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "conceptual framework similar to the one used by OECD (1995). For labour input the following",
+    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "apply the basic KLEM-methodology for detailed industry-level analysis of productivity growth in",
+    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "provide a consistent framework in which measures of output, energy and intermediate inputs are",
+    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "needed in a later stage. The framework of construction used in compiling the international",
+    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "on a regular basis. Since 1983, these are held annually within a common framework, co-ordinated",
+    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "study for Britain and applied the KLEM-methodology to study productivity improvements for",
+    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "our reference for a common language. The original production account framework used by",
+    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Jorgensonian framework will not conflict with data prepared according to the SNA standards.4",
+    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "input-output tables provide a consistent framework in which measures of output and intermediate",
+    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "years in-between on basis of yearly national I/O-tables, or with some interpolation method such",
+    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "projection method called EURO, whose basic idea corresponds to the RAS method (see Beutel",
+    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "input-output framework of the european system of accounts (ESA 95). Supply and use table are",
+    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
   ]
  },
  "figures": {},
@@ -1103,22 +1127,22 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/good_robin7380/n/n212447265838",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/ogawa_tech/n/n5c50bae0afa8",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/takachaneru/n/n9239d745f838",
+    "url": "https://note.com/good_robin7380/n/n212447265838",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/kens_reading1/n/n502ebeaf1635",
+    "url": "https://note.com/sharosimasayuki/n/n5683ef1ea66e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ogawa_tech/n/n8a764f993f6d",
     "status": "ok",
     "method": "http"
    },
@@ -1133,7 +1157,7 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/shokibo/b1_3_3.html",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/shokibo/b1_2_2.html",
     "status": "ok",
     "method": "http"
    },
@@ -1143,12 +1167,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/ogawa_tech/n/n8a425b41439d",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www5.cao.go.jp/keizai3/keizaiwp/wp-je96/wp-je96-00204.html",
+    "url": "https://note.com/ogawa_tech/n/n10d0020d7679",
     "status": "ok",
     "method": "http"
    },
@@ -1158,9 +1177,19 @@
     "method": "http"
    },
    {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/shokibo/b1_3_3.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.tr.mufg.jp/shisan-ken/pdf/shisan_keisei_12.pdf",
     "status": "ok",
     "method": "pdf"
+   },
+   {
+    "url": "https://www5.cao.go.jp/keizai3/keizaiwp/wp-je96/wp-je96-00204.html",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://www.hitachi-solutions.co.jp/wsi/column/c022.html",
@@ -1178,17 +1207,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.jpc-net.jp/research/list/comparison.html?Sid=1",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.jpc-net.jp/research/list/comparison.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/shokibo/b1_2_2.html",
     "status": "ok",
     "method": "http"
    },
@@ -1203,12 +1222,17 @@
     "method": "http"
    },
    {
+    "url": "https://www.y-skt.co.jp/magazine/knowledge/labor_productivity/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://plus.nbc-consul.co.jp/blog/labour-productivity-japan",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://apj.aidem.co.jp/current/detail/5282.html",
+    "url": "https://www.n-seisanseihonbu.com/%E7%94%A3%E6%A5%AD%E5%88%A5%E5%8A%B4%E5%83%8D%E7%94%9F%E7%94%A3%E6%80%A7%E6%B0%B4%E6%BA%96%E3%81%AE%E5%9B%BD%E9%9A%9B%E6%AF%94%E8%BC%832024%EF%BD%9E2020%E5%B9%B4%E3%83%87%E3%83%BC%E3%82%BF%E3%81%A7/",
     "status": "ok",
     "method": "http"
    },
@@ -1238,9 +1262,9 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.oecd.org/sdd/productivity-stats/37538125.pdf",
-    "status": "http_410",
-    "method": "pdf"
+    "url": "https://www.bls.gov/opub/hom/opt/calculation.htm",
+    "status": "http_403",
+    "method": "http"
    }
   ]
  },
@@ -1250,40 +1274,40 @@
    "results": [
     "https://note.com/pokemimi/n/n6801955d1345",
     "https://note.com/tommy610/n/nd90eaf5baffd",
-    "https://note.com/good_robin7380/n/n212447265838",
     "https://note.com/ogawa_tech/n/n5c50bae0afa8",
-    "https://note.com/takachaneru/n/n9239d745f838",
-    "https://note.com/kens_reading1/n/n502ebeaf1635",
-    "https://note.com/ogawa_tech/n/n8a764f993f6d",
+    "https://note.com/good_robin7380/n/n212447265838",
     "https://note.com/sharosimasayuki/n/n5683ef1ea66e",
+    "https://note.com/ogawa_tech/n/n8a764f993f6d",
     "https://note.com/yumiko_taniwaki/n/n4bd77c559b65",
-    "https://note.com/ayouth/n/n37c2bd6a4cce"
+    "https://note.com/ayouth/n/n37c2bd6a4cce",
+    "https://note.com/kens_reading1/n/n502ebeaf1635",
+    "https://note.com/takachaneru/n/n9239d745f838"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 17
   },
   {
    "query": "国・業種をまたいだ生産性の水準の比べ方（業種の元の単価・照合できた割合・裾切りと従業者の定義をそろえる・Groningen の ICOP の手引き・4-120） note",
    "results": [
     "https://note.com/btobmarketing/n/n7bb1cd09fab1",
     "https://www.jpc-net.jp/research/assets/pdf/Productivity_report_vol20.pdf",
-    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/shokibo/b1_3_3.html",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/shokibo/b1_2_2.html",
     "https://www.jeri.or.jp/survey/202410-11_09/",
-    "https://note.com/ogawa_tech/n/n8a425b41439d",
-    "https://www5.cao.go.jp/keizai3/keizaiwp/wp-je96/wp-je96-00204.html",
+    "https://note.com/ogawa_tech/n/n10d0020d7679",
     "https://www.rieti.go.jp/jp/publications/summary/18040004.html",
     "https://www.soumu.go.jp/johotsusintokei/02tsushin02_04000050.html",
-    "https://www.asahi.com/sdgs/article/15660750",
+    "https://note.com/a2c_0523/n/n93dd0bfb42e8",
+    "https://www5.cao.go.jp/keizai3/keizaiwp/wp-je96/wp-je96-00204.html",
     "https://note.com/ogawa_tech/n/naba6bc2b50fd"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 13
+   "n_hits": 14
   },
   {
    "query": "国・業種をまたいだ生産性の水準の比べ方（業種の元の単価・照合できた割合・裾切りと従業者の定義をそろえる・Groningen の ICOP の手引き・4-120） やり方",
@@ -1315,12 +1339,12 @@
     "https://www.tr.mufg.jp/shisan-ken/pdf/shisan_keisei_12.pdf",
     "https://www.mckinsey.com/jp/~/media/McKinsey/Locations/Asia/Japan/Our%20Insights/Why-is-Japan-sales-productivity-so-low-Jp.pdf",
     "https://www.geppo.jp/blog/highoutput",
+    "https://www.y-skt.co.jp/magazine/knowledge/labor_productivity/",
     "https://plus.nbc-consul.co.jp/blog/labour-productivity-japan",
-    "https://www5.cao.go.jp/keizai3/keizaiwp/wp-je96/wp-je96-00204.html",
     "https://www.jpc-net.jp/research/assets/pdf/Productivity_report_vol20.pdf"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 14
@@ -1333,10 +1357,10 @@
     "https://www.ilo.org/media/305836/download",
     "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
     "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
+    "https://www.bls.gov/opub/hom/opt/calculation.htm",
     "https://www.oecd.org/sdd/productivity-stats/37538125.pdf",
     "https://www.nber.org/system/files/chapters/c2225/c2225.pdf",
     "https://www.chicagofed.org/publications/economic-perspectives/2025/1",
-    "https://www.bls.gov/opub/hom/opt/calculation.htm",
     "https://csls.ca/ipm-archive/issue-3/the-icop-manufacturing-database-international-comparisons-of-productivity-levels/"
    ],
    "engines": [
@@ -1350,8 +1374,8 @@
    "results": [
     "https://note.com/pokemimi/n/n6801955d1345",
     "https://note.com/tommy610/n/nd90eaf5baffd",
-    "https://note.com/good_robin7380/n/n212447265838",
     "https://note.com/ogawa_tech/n/n5c50bae0afa8",
+    "https://note.com/good_robin7380/n/n212447265838",
     "https://note.com/sharosimasayuki/n/n5683ef1ea66e",
     "https://note.com/yumiko_taniwaki/n/n4bd77c559b65",
     "https://note.com/kens_reading1/n/n502ebeaf1635",
@@ -1360,7 +1384,7 @@
     "https://note.com/masa_hagiwara/n/n2d638ad17103?magazine_key=m56677a35ee53"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -1374,13 +1398,13 @@
     "https://x.com/hiro_takai/status/2018884189672902749",
     "https://x.com/luigi_jpn/article/2068128744443887660",
     "https://x.com/luigi_jpn/article/2067729162769756542",
-    "https://x.com/GBaseHub",
     "https://x.com/OECDTokyo",
-    "https://x.com/KeizaiDoyukai/status/2095084505442951283",
-    "https://x.com/kantei/status/2058916315969298642"
+    "https://x.com/GBaseHub",
+    "https://x.com/kantei/status/2058916315969298642",
+    "https://x.com/luigi_jpn/article/2062312333431750956"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -1389,18 +1413,18 @@
    "query": "site:linkedin.com 国・業種をまたいだ生産性の水準の比べ方（業種の元の単価・照合できた割合・裾切りと従業者の定義をそろえる・Groningen の ICOP の手引き・4-120）",
    "results": [
     "https://jp.linkedin.com/pulse/how-where-did-intra-industry-trade-emerge-richard-baldwin-ed4he?tl=ja",
-    "https://jp.linkedin.com/pulse/trade-to-gdp-wrong-gauge-openness-richard-baldwin-ufu1e?tl=ja",
     "https://jp.linkedin.com/pulse/case-international-physician-entrepreneurship-arlen-meyers-md-mba-tgjre?tl=ja",
-    "https://jp.linkedin.com/pulse/countries-best-work-life-balance-what-numbers-reveal-tznxc?tl=ja",
+    "https://jp.linkedin.com/pulse/trade-to-gdp-wrong-gauge-openness-richard-baldwin-ufu1e?tl=ja",
     "https://jp.linkedin.com/pulse/from-potential-productivity-why-ais-real-value-lies-rupert-greenhalgh-luhde?tl=ja",
+    "https://jp.linkedin.com/pulse/countries-best-work-life-balance-what-numbers-reveal-tznxc?tl=ja",
+    "https://jp.linkedin.com/directory/articles",
     "https://jp.linkedin.com/pulse/ensuring-ethical-labor-practices-global-supply-chains-historical-xlu6c?tl=ja",
     "https://jp.linkedin.com/pulse/ai-agents-engineering-construction-staggering-potential-redefine-6csze?tl=ja",
-    "https://jp.linkedin.com/directory/articles",
-    "https://jp.linkedin.com/posts/akitosato_%E3%81%93%E3%82%8C%E3%81%BE%E3%81%A7%E4%BD%95%E5%9B%9E%E3%81%8B%E6%97%A5%E6%9C%AC%E4%BA%BA%E3%81%AE%E8%B3%83%E9%87%91%E3%81%8C%E4%BD%8E%E3%81%84%E6%9C%80%E5%A4%A7%E3%81%AE%E7%90%86%E7%94%B1%E3%81%AF%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%8A%B4%E5%83%8D%E8%80%85%E3%81%8C%E4%BD%8E%E8%B3%83%E9%87%91%E3%82%84%E5%8A%A3%E6%82%AA%E3%81%AA%E7%92%B0%E5%A2%83%E3%82%92-activity-6960738581183180800--8TE",
+    "https://www.linkedin.com/posts/danmountstephen_%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF%E7%B4%9A%E3%81%AE%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89%E3%81%A7%E3%82%BB%E3%82%AC%E3%81%AE%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E6%88%A6%E7%95%A5%E3%82%92%E5%8A%A0%E9%80%9F%E3%81%95%E3%81%9B%E3%82%8Bauth0-activity-7513808419242487808-q0Qf",
     "https://jp.linkedin.com/pulse/canada-doesnt-have-ai-problem-we-absorption-mark-patterson-cl5cc?tl=ja"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -1411,16 +1435,16 @@
     "https://www.facebook.com/takenori.furuya/posts/%E8%87%AA%E5%88%86%E3%81%9F%E3%81%A1%E3%81%8C%E5%83%8D%E3%81%84%E3%81%A6%E3%81%84%E3%82%8B%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%8D%E3%82%B9%E5%B8%82%E5%A0%B4%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%AE%E5%8B%95%E3%81%8D%E3%82%92%E7%9F%A5%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%8B%E3%81%9D%E3%81%97%E3%81%A6%E3%81%9D%E3%82%8C%E3%82%92%E8%87%AA%E7%A4%BE%E3%81%AE%E7%B5%8C%E5%96%B6%E3%81%AB%E5%BD%B9%E7%AB%8B%E3%81%A6%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%8B%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%8D%E3%82%B9%E5%B8%82%E5%A0%B4%E3%81%AE%E8%AA%BF%E6%9F%BB%E3%81%A8%E5%88%86%E6%9E%90%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AFfitnes/29282509818033772/",
     "https://www.facebook.com/toshihito.kumagai/posts/%E3%81%8A%E3%81%AF%E3%82%88%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99%E4%BB%8A%E6%97%A5%E3%81%AF%E4%BB%A4%E5%92%8C8%E5%B9%B4%E5%BA%A6%E5%BD%93%E5%88%9D%E4%BA%88%E7%AE%97%E6%A1%88%E3%81%AE%E3%81%86%E3%81%A1%E7%B5%8C%E6%B8%88%E7%94%A3%E6%A5%AD%E6%94%BF%E7%AD%96%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%BE%E3%81%99%E9%81%8E%E5%8E%BB%E6%9C%80%E9%AB%98%E6%B0%B4%E6%BA%96%E3%81%AE%E4%BC%81%E6%A5%AD%E8%AA%98%E8%87%B4%E4%BB%B6%E6%95%B0%E5%9B%BD%E5%AE%B6%E6%88%A6%E7%95%A5%E7%89%B9%E5%8C%BA%E3%81%AE%E7%9C%8C%E5%85%A8%E5%9F%9F%E3%81%AE%E6%8C%87%E5%AE%9A%E6%88%90%E7%94%B0%E7%A9%BA%E6%B8%AF%E5%91%A8%E8%BE%BA%E3%81%AE%E5%9B%BD%E9%9A%9B%E7%94%A3%E6%A5%AD%E6%8B%A0%E7%82%B9%E5%BD%A2/25944892755153554/",
     "https://www.facebook.com/takaichisanae/posts/%E7%89%A9%E4%BE%A1%E9%AB%98%E5%AF%BE%E7%AD%96%E2%91%A4%E3%81%9D%E3%82%82%E3%81%9D%E3%82%82%E7%B5%8C%E6%B8%88%E6%88%90%E9%95%B7%E3%81%AB%E3%81%AF%E4%B8%80%E5%AE%9A%E3%81%AE%E7%89%A9%E4%BE%A1%E4%B8%8A%E6%98%87%E3%81%8C%E4%BC%B4%E3%81%84%E3%81%BE%E3%81%99%E5%85%83%E3%80%852%E3%81%AE%E7%89%A9%E4%BE%A1%E5%AE%89%E5%AE%9A%E7%9B%AE%E6%A8%99%E6%B6%88%E8%B2%BB%E8%80%85%E7%89%A9%E4%BE%A1%E3%81%AE%E5%89%8D%E5%B9%B4%E6%AF%94%E4%B8%8A%E6%98%87%E7%8E%872%E3%82%92%E6%8C%81%E7%B6%9A%E7%9A%84%E3%81%AB%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E7%82%BA%E3%81%AB%E5%AE%89%E5%80%8D%E5%86%85%E9%96%A3%E4%BB%A5%E9%99%8D%E3%81%AE%E6%AD%B4%E4%BB%A3%E6%94%BF%E6%A8%A9%E3%82%82%E6%97%A5%E9%8A%80%E3%82%82%E5%8A%AA%E5%8A%9B%E3%82%92/1415278037364512/",
+    "https://www.facebook.com/takenori.furuya/posts/%E6%98%A8%E6%97%A5%E5%87%BA%E5%BC%B5%E3%81%A7%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%A7%E4%BB%8A%E6%97%A5%E3%82%92%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%8D%E3%82%B9%E3%83%87%E3%82%A4%E3%81%AB%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AB%E3%81%BE%E3%81%9A%E3%81%AF%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%A0%E3%82%A2%E3%83%83%E3%83%97%E4%BB%A3%E3%82%8F%E3%82%8A%E3%81%AB%E3%82%B5%E3%82%AF%E3%83%83%E3%81%A83km%E3%82%B8%E3%83%A7%E3%82%B0%E7%A7%8B%E9%A2%A8%E3%81%8C%E6%B0%97%E6%8C%81%E3%81%A1%E3%81%84%E3%81%84%E3%81%AD%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89%E3%83%A1%E3%82%AC%E3%83%AD%E3%82%B9%E5%90%89%E7%A5%A5%E5%AF%BA/29116389327979156/",
+    "https://www.facebook.com/takenori.furuya/posts/%E4%BB%8A%E6%97%A5%E3%81%AE%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%8D%E3%82%B9%E3%81%AF%E3%81%BE%E3%81%9A%E6%AD%A6%E8%94%B5%E9%87%8E%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%91%E3%83%BC%E3%82%AF%E6%88%90%E8%B9%8A%E5%A4%A7%E7%AB%8B%E9%87%8E%E5%85%AC%E5%9C%92%E3%82%92%E3%81%BE%E3%82%8F%E3%82%8B7km%E3%81%AE%E3%82%B8%E3%83%A7%E3%82%B05%E5%88%8657%E7%A7%92%E3%81%8B%E3%82%89%E3%81%84%E3%81%84%E7%A7%8B%E7%A9%BA%E3%81%A7%E7%88%BD%E3%82%84%E3%81%8B%E3%81%A7%E3%81%99%E3%81%AD%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89%E3%83%A1%E3%82%AC%E3%83%AD%E3%82%B9%E5%90%89%E7%A5%A5%E5%AF%BA%E3%81%A7%E7%AD%8B%E3%83%88%E3%83%AC%E3%81%97%E3%81%A6%E3%81%8B%E3%82%89%E5%A4%96%E3%81%A7%E8%AA%AD/29282990411319046/",
     "https://www.facebook.com/asiax.biz/posts/%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB%E8%B3%BC%E8%B2%B7%E5%8A%9B%E3%81%A7%E4%B8%96%E7%95%8C1%E4%BD%8D%E3%82%82%E5%8A%B4%E5%83%8D%E6%99%82%E9%96%93%E8%80%83%E6%85%AE%E3%81%A78%E4%BD%8D%E3%81%AB%E5%BE%8C%E9%80%80%E4%B8%96%E7%95%8C%E5%90%84%E5%9B%BD%E3%81%AE%E7%B5%8C%E6%B8%88%E7%9A%84%E3%81%AA%E8%B1%8A%E3%81%8B%E3%81%95%E3%82%92%E6%AF%94%E8%BC%83%E3%81%97%E3%81%9F%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%E3%81%A7%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB%E3%81%8C%E8%B3%BC%E8%B2%B7%E5%8A%9B%E3%82%92%E8%80%83%E6%85%AE%E3%81%97%E3%81%9F1%E4%BA%BA%E5%BD%93%E3%81%9F%E3%82%8A%E5%9B%BD%E5%86%85%E7%B7%8F%E7%94%9F%E7%94%A3gdp%E3%81%A7%E4%B8%96/1596177675886755/",
     "https://www.facebook.com/Seko.Hiroshige/posts/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%B2%A1%E6%94%BF%E3%81%AF%E6%9C%AC%E5%BD%93%E3%81%AB%E5%A4%A7%E4%B8%88%E5%A4%AB%E6%97%A5%E6%9C%AC%E3%81%AE%E8%B2%A1%E6%94%BF%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E4%BF%A1%E9%A0%BC%E3%81%8C%E6%8F%BA%E3%82%89%E3%81%84%E3%81%A7%E3%81%84%E3%82%8B%E3%81%AE%E3%81%A7%E3%81%AF%E3%81%9D%E3%82%93%E3%81%AA%E5%A3%B0%E3%82%82%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%81%8C%E4%B8%96%E7%95%8C%E3%81%A8%E6%AF%94%E8%BC%83%E3%81%97%E3%81%A6%E3%81%BF%E3%82%8B%E3%81%A8%E9%81%95%E3%81%A3%E3%81%9F%E8%A6%8B%E3%81%88%E6%96%B9%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E5%9B%BD%E5%82%B5%E3%81%AE%E4%BF%A1%E7%94%A8%E5%BA%A6%E3%82%92%E6%B8%AC%E3%82%8B%E4%B8%80%E3%81%A4%E3%81%AE%E6%8C%87%E6%A8%99%E3%82%92%E8%A6%8B/1442949147645986/",
-    "https://www.facebook.com/takenori.furuya/posts/%E6%98%A8%E6%97%A5%E5%87%BA%E5%BC%B5%E3%81%A7%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%A7%E4%BB%8A%E6%97%A5%E3%82%92%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%8D%E3%82%B9%E3%83%87%E3%82%A4%E3%81%AB%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AB%E3%81%BE%E3%81%9A%E3%81%AF%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%A0%E3%82%A2%E3%83%83%E3%83%97%E4%BB%A3%E3%82%8F%E3%82%8A%E3%81%AB%E3%82%B5%E3%82%AF%E3%83%83%E3%81%A83km%E3%82%B8%E3%83%A7%E3%82%B0%E7%A7%8B%E9%A2%A8%E3%81%8C%E6%B0%97%E6%8C%81%E3%81%A1%E3%81%84%E3%81%84%E3%81%AD%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89%E3%83%A1%E3%82%AC%E3%83%AD%E3%82%B9%E5%90%89%E7%A5%A5%E5%AF%BA/29116389327979156/",
     "https://www.facebook.com/matsuo.akihito/posts/%E4%BC%81%E6%A5%AD%E3%81%AE%E7%94%9F%E6%88%90ai%E5%88%A9%E7%94%A892-%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AE6%E5%89%B2%E3%81%AF%E5%B0%8E%E5%85%A5%E4%BA%88%E5%AE%9A%E3%81%AA%E3%81%979%E6%9C%8830%E6%97%A5%E4%BB%8A%E6%97%A5%E3%81%AE%E6%97%A5%E7%B5%8C%E6%96%B0%E8%81%9E%E3%81%AB%E6%97%A5%E6%9C%AC%E4%BC%81%E6%A5%AD%E3%81%AE%E7%94%9F%E6%88%90ai%E5%88%A9%E7%94%A8%E7%8E%87%E3%81%AF92%E3%81%AB%E3%81%A8%E3%81%A9%E3%81%BE%E3%82%8Aoecd%E5%8A%A0%E7%9B%9F%E5%9B%BD%E5%B9%B3%E5%9D%87%E3%81%AE202%E3%81%AE%E5%8D%8A%E5%88%86%E3%81%AB%E3%82%82%E5%B1%8A%E3%81%84%E3%81%A6/28642303968723098/",
-    "https://www.facebook.com/takenori.furuya/posts/%E4%BB%8A%E6%97%A5%E3%81%AE%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%8D%E3%82%B9%E3%81%AF%E3%81%BE%E3%81%9A%E6%AD%A6%E8%94%B5%E9%87%8E%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%91%E3%83%BC%E3%82%AF%E6%88%90%E8%B9%8A%E5%A4%A7%E7%AB%8B%E9%87%8E%E5%85%AC%E5%9C%92%E3%82%92%E3%81%BE%E3%82%8F%E3%82%8B7km%E3%81%AE%E3%82%B8%E3%83%A7%E3%82%B05%E5%88%8657%E7%A7%92%E3%81%8B%E3%82%89%E3%81%84%E3%81%84%E7%A7%8B%E7%A9%BA%E3%81%A7%E7%88%BD%E3%82%84%E3%81%8B%E3%81%A7%E3%81%99%E3%81%AD%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89%E3%83%A1%E3%82%AC%E3%83%AD%E3%82%B9%E5%90%89%E7%A5%A5%E5%AF%BA%E3%81%A7%E7%AD%8B%E3%83%88%E3%83%AC%E3%81%97%E3%81%A6%E3%81%8B%E3%82%89%E5%A4%96%E3%81%A7%E8%AA%AD/29282990411319046/",
     "https://www.facebook.com/camarajaponesapy/?locale=ja_JP",
     "https://www.facebook.com/kawazoesatoshi/posts/29812291498359129/"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -1429,18 +1453,18 @@
    "query": "国・業種をまたいだ生産性の水準の比べ方（業種の元の単価・照合できた割合・裾切りと従業者の定義をそろえる・Groningen の ICOP の手引き・4-120） note 社長",
    "results": [
     "https://note.com/btobmarketing/n/n7bb1cd09fab1",
-    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/shokibo/b1_3_3.html",
     "https://note.com/a2c_0523/n/n93dd0bfb42e8",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/shokibo/b1_3_3.html",
     "https://www.youtube.com/watch?v=awVWv7suu04",
     "https://www.jpc-net.jp/research/assets/pdf/2ef0b2ceb5970f08ad2a754f47e5bae3.pdf",
-    "https://www5.cao.go.jp/keizai3/keizaiwp/wp-je96/wp-je96-00204.html",
-    "https://hrnote.jp/contents/soshiki-rodoseisansei-20200618/",
-    "https://www.rieti.go.jp/jp/publications/summary/18040004.html",
     "https://www.soumu.go.jp/johotsusintokei/02tsushin02_04000050.html",
+    "https://www.rieti.go.jp/jp/publications/summary/18040004.html",
+    "https://hrnote.jp/contents/soshiki-rodoseisansei-20200618/",
+    "https://www.jeri.or.jp/survey/202410-11_09/",
     "https://note.com/ogawa_tech/n/naba6bc2b50fd"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -1448,15 +1472,15 @@
   {
    "query": "国・業種をまたいだ生産性の水準の比べ方（業種の元の単価・照合できた割合・裾切りと従業者の定義をそろえる・Groningen の ICOP の手引き・4-120） X 投稿",
    "results": [
-    "https://www.jpc-net.jp/research/detail/007160.html",
     "https://www.rieti.go.jp/jp/publications/summary/18040004.html",
     "https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/shokibo/b1_3_3.html",
-    "https://www.youtube.com/watch?v=awVWv7suu04",
+    "https://www.jpc-net.jp/research/list/comparison.html",
     "https://www.jeri.or.jp/survey/202410-11_09/",
+    "https://www.youtube.com/watch?v=awVWv7suu04",
     "https://www5.cao.go.jp/keizai3/keizaiwp/wp-je96/wp-je96-00204.html",
-    "https://monoque.jp/trends/oecd382932/",
-    "https://kyodonewsprwire.jp/release/202512191380",
     "https://note.com/ogawa_tech/n/ne102ad717afd",
+    "https://kyodonewsprwire.jp/release/202512191380",
+    "https://www.soumu.go.jp/johotsusintokei/02tsushin02_04000050.html",
     "https://www.jpc-net.jp/research/assets/pdf/Productivity_report_vol20.pdf"
    ],
    "engines": [
@@ -1471,13 +1495,13 @@
     "https://www.linkedin.com/in/madelinenbrooks",
     "https://www.linkedin.com/in/darsei",
     "https://www.linkedin.com/in/matthewkohler",
-    "https://www.linkedin.com/in/jefferydickerson",
+    "https://www.linkedin.com/posts/sundarrameshkumar_if-ai-doubles-the-drafts-entering-a-marketing-activity-7519974163151949824--377",
+    "https://www.linkedin.com/in/jeremy-williams-121b8820",
     "https://www.linkedin.com/in/jennaleejones95",
     "https://www.linkedin.com/in/mems35",
+    "https://au.linkedin.com/in/benjamingazeau",
     "https://www.linkedin.com/in/rickcrane",
-    "https://www.linkedin.com/in/si-ran-w-0b8b14117",
-    "https://www.linkedin.com/in/avershinin",
-    "https://www.linkedin.com/posts/sundarrameshkumar_if-ai-doubles-the-drafts-entering-a-marketing-activity-7519974163151949824--377"
+    "https://www.linkedin.com/in/jefferydickerson"
    ],
    "engines": [
     "ddgs:google",
@@ -1488,1085 +1512,33 @@
  ],
  "missing": {},
  "new_this_run": {
-  "手順・やり方": [
-   {
-    "quote": "3. 研究方法とデータ",
-    "url": "https://note.com/btobmarketing/n/n7bb1cd09fab1",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "「人月の神話型請負」と呼ばれる、人月による見積もりを前提とした硬直的な請負契約が、柔軟な改善や効率化を阻害",
-    "url": "https://note.com/btobmarketing/n/n7bb1cd09fab1",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "品質管理手法、プロセス改善技術、デジタル化推進方法論",
-    "url": "https://note.com/btobmarketing/n/n7bb1cd09fab1",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "高橋（2024）「IT人材不足79万人の真因：生産性向上を阻む『人月の神話型請負』」Findy Tech Blog, https://tech.findy.co.jp/entry/2024/11/15/070000",
-    "url": "https://note.com/btobmarketing/n/n7bb1cd09fab1",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "2024 年 6 月、 「経済財政運営と改革の基本方針2024 ～賃上げと投資がけん引する成長型",
-    "url": "https://www.jpc-net.jp/research/assets/pdf/Productivity_report_vol20.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "V ol.13（滝澤（2020））の計測方法をもとに、各国の産業別労働生産性水準の計測が可能な最",
-    "url": "https://www.jpc-net.jp/research/assets/pdf/Productivity_report_vol20.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "次に、労働生産性の計測方法を示す",
-    "url": "https://www.jpc-net.jp/research/assets/pdf/Productivity_report_vol20.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "労働生産性の定義や計算方法については、下記のリンクページでより詳細に解説しています",
-    "url": "https://plus.nbc-consul.co.jp/blog/labour-productivity-japan",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "日本の労働生産性が低い理由｜現状と向上させる方法も紹介",
-    "url": "https://plus.nbc-consul.co.jp/blog/labour-productivity-japan",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "採用面接で、応募者の中から「自社に合った人をどう見極めるか？」について、実践的な方法や企業が考えておかなければならないポイントを解説します",
-    "url": "https://apj.aidem.co.jp/current/detail/5282.html",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "「桑山さん、元芸人なんですから、ウケる話し方のコツを教えてくださいよ」講演会の懇親会で、ほぼ必ずいただくリクエストです",
-    "url": "https://apj.aidem.co.jp/current/detail/5282.html",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "presents the background information on data sources and methodologies used for the KILM",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "This paper presents background information on data sources and methodologies on",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "which are calculated according to a common conceptual framework, the System of National",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "provide employment estimates within the national accounts framework. For most countries",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "countries we therefore made use of some variant of the “component method” to arrive at hours",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "actually worked.5 This method begins with a measure of paid hours or “usual” hours, which is",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "work. Estimates for use with the component method generally are obtained by combining",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "on the component method. This has particularly large consequences for the estimates of annual",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "the lower “component method” estimate because of its greater international comparability.6",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "detailed description of this method.",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "rates across countries. This reduces measurement errors from methodological differences",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "The total economy PPPs are all aggregated using the Geary-Khamis method. This",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "measured in terms of gross national product (GNP). For example, in application of this method,",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "12 An alternative method that is nowadays mostly used in the OECD countries aggregates PPPs on the basis of the",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "EKS (Eltetö, Köves and Sculz) method. EKS PPPs are basically geometric averages of binary PPPs (which are not",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "We begin with a brief review of the industry-of-origin method, which",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "study are based on the industry-of-origin method, which involves com-",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "an extensive discussion of the alternative methods and procedures and an overview of",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "This method is fundamentally different from the specification pricing",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ing, a method was required to fill the holes for the 75 to 80 percent of",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "structure differs greatly between countries. Our method in using output",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "use of multilateralization methods for our ICOP comparisons.",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "single indicator\" method and, in general, can be accepted as sufficiently",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "parisons should be made within the framework of an input-output table that shows all",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "on the basis of the perpetual inventory method by cumulating annual",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Sources and method: See data appendix. Capital stock estimates are based on the perpetual inventory method, using",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "The level accounting method applied in this section needs to be",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "be assessed more carefully than was possible in the framework of this",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Following are the sources and methods the authors used in their",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "on the basis of the perpetual inventory method (PIM), as pioneered by",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "An Overview of Sources and Methods",
-    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "accounting methodology. It could not have been written without the help of many people. Thanks are due to",
-    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "applications of the KLEM-methodology. Discussions with Frank Lee, Wulong Gu and Jianmin Tang",
-    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "conceptual framework similar to the one used by OECD (1995). For labour input the following",
-    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "apply the basic KLEM-methodology for detailed industry-level analysis of productivity growth in",
-    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "provide a consistent framework in which measures of output, energy and intermediate inputs are",
-    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "needed in a later stage. The framework of construction used in compiling the international",
-    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "on a regular basis. Since 1983, these are held annually within a common framework, co-ordinated",
-    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "study for Britain and applied the KLEM-methodology to study productivity improvements for",
-    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "our reference for a common language. The original production account framework used by",
-    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Jorgensonian framework will not conflict with data prepared according to the SNA standards.4",
-    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "input-output tables provide a consistent framework in which measures of output and intermediate",
-    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "years in-between on basis of yearly national I/O-tables, or with some interpolation method such",
-    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "projection method called EURO, whose basic idea corresponds to the RAS method (see Beutel",
-    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "input-output framework of the european system of accounts (ESA 95). Supply and use table are",
-    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
   "実例": [
    {
-    "quote": "分析の結果、",
-    "url": "https://note.com/btobmarketing/n/n7bb1cd09fab1",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "2023年12月に日本生産性本部から発表された「労働生産性の国際比較2023」によると、OECD データに基づく2022年の日本の時間当たり労働生産性は52.3ドルでOECD加盟38カ国中30位という結果が示されている*1",
-    "url": "https://note.com/btobmarketing/n/n7bb1cd09fab1",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "4. 分析結果",
-    "url": "https://note.com/btobmarketing/n/n7bb1cd09fab1",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "図2の日独比較では、対米比較とは大きく異なる結果が得られた",
-    "url": "https://note.com/btobmarketing/n/n7bb1cd09fab1",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "一方、サービス産業全体では65.9%と、米国との比較よりは格差が小さいものの、依然として課題が残る結果となっている",
-    "url": "https://note.com/btobmarketing/n/n7bb1cd09fab1",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "2000年から2021年にかけての生産性上昇率がマイナス0.1%という深刻な結果は、この構造的問題の深刻さを物語っている*5",
-    "url": "https://note.com/btobmarketing/n/n7bb1cd09fab1",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "この事実を無視した政策論議は、日本の強みを活かす機会を逸する結果となりかねない",
-    "url": "https://note.com/btobmarketing/n/n7bb1cd09fab1",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "分析結果は、全業種一律の支援策ではなく、業種別の特性を考慮した差別化アプローチの重要性を示している",
-    "url": "https://note.com/btobmarketing/n/n7bb1cd09fab1",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "本研究の結果は、Baumol（1967）の費用病理論だけでは説明できない、産業固有の制度的・文化的要因の重要性を示している",
-    "url": "https://note.com/btobmarketing/n/n7bb1cd09fab1",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "分析の結果、以下の主要な知見が得られた：",
-    "url": "https://note.com/btobmarketing/n/n7bb1cd09fab1",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "結果として消費者態度指数 （消費者マインド）も 50 を下回る状態が続いている",
-    "url": "https://www.jpc-net.jp/research/assets/pdf/Productivity_report_vol20.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "新年（2020 年）までデータを更新し、その計測結果を踏まえて、米国に加えて他の先進諸国",
-    "url": "https://www.jpc-net.jp/research/assets/pdf/Productivity_report_vol20.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "図１から、 今回の試算結果において日本の労働生産性が米国の労働生産性を超えている",
-    "url": "https://www.jpc-net.jp/research/assets/pdf/Productivity_report_vol20.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "図２は、5 年遡った 2015 年時点のデータを用いて同様の試算結果を描画したものである",
-    "url": "https://www.jpc-net.jp/research/assets/pdf/Productivity_report_vol20.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "今回新たな計測結果からも、サービス産業を中心とする非製造業の生産性につい",
-    "url": "https://www.jpc-net.jp/research/assets/pdf/Productivity_report_vol20.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "次に、ドイツとの比較の結果を示す",
-    "url": "https://www.jpc-net.jp/research/assets/pdf/Productivity_report_vol20.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "2020 年の労働生産性比較の結果を示した図３か",
-    "url": "https://www.jpc-net.jp/research/assets/pdf/Productivity_report_vol20.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "らは、 滝澤 （2020） の結果同様、 米国との比較とは大きく異なり、 製造業を中心として対独比",
-    "url": "https://www.jpc-net.jp/research/assets/pdf/Productivity_report_vol20.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "しかし、米国の結果同様に、一次金属・金属製品はこの 5 年の",
-    "url": "https://www.jpc-net.jp/research/assets/pdf/Productivity_report_vol20.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "から 87.4 と 5％ポイント改善している点が米国の比較の結果とは異なる一方で、サービス産",
-    "url": "https://www.jpc-net.jp/research/assets/pdf/Productivity_report_vol20.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "以下では、米国、ドイツの他、ヨーロッパ諸国との比較の結果を示す",
-    "url": "https://www.jpc-net.jp/research/assets/pdf/Productivity_report_vol20.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "図７には宿泊・飲食サービス業の国際比較の結果が示されている",
-    "url": "https://www.jpc-net.jp/research/assets/pdf/Productivity_report_vol20.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "図８では、 運輸・郵便業に関する結果が示されている",
-    "url": "https://www.jpc-net.jp/research/assets/pdf/Productivity_report_vol20.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "となり、その結果として、時間あたりの付加価値が他国と比べて低く算出される場合がある",
-    "url": "https://www.jpc-net.jp/research/assets/pdf/Productivity_report_vol20.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "図９には、 情報通信業の国際比較の結果が示されている",
-    "url": "https://www.jpc-net.jp/research/assets/pdf/Productivity_report_vol20.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "等について、事例満載の記事や専門知識が深まるコラム等を展開",
-    "url": "https://apj.aidem.co.jp/current/detail/5282.html",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "【事例解説】定時を短くしても利益を出す仕組み／石井隆介",
-    "url": "https://apj.aidem.co.jp/current/detail/5282.html",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "引き算のマネジメント〜行動を増やさず、結果を出す〜／岡本文宏",
-    "url": "https://apj.aidem.co.jp/current/detail/5282.html",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "事例で考える困ったときのマネジメント対応／山田真由子",
-    "url": "https://apj.aidem.co.jp/current/detail/5282.html",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "some cases date only run to 1995 or 1996. Labour productivity is defined as the gross domestic",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "measures changes from the reference year, but in most cases also in US dollars. The US dollar-",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "the latter case labour compensation is converted to US dollars on the basis of the official",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "3 In a limited number of cases the GGDC database also provides estimates of capital stock. The GGDC database is",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "However, countries are still at different stages in implementing the 1993 SNA. In some cases",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "international comparability is limited. For example, hours often refer to paid hours rather than",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "5 See, for example, OECD (1998, p. 185) for OECD countries. See Maddison (1980) and van Ark (1993) for a",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "per hour worked, although in some cases no measure of working hours could be obtained for",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "manufacturing. In other cases, in particular for non-OECD countries, the measure of working",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "hours mostly only covers employees. In those cases we often assumed working hours per",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "included in KILM 17. In most cases the key variables were available to calculate output per",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "However, in a limited number of cases we had to rely on alternative measures. For example,",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "was possible. Secondly, in some cases (Austria, Denmark, Greece, Portugal, Philippines,",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "7As an exception, a proxy wage measure was also used for the total economy in the case of Hong Kong, China,",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "for example, a comparison of the US/Germany PPP with the Germany/France PPP gives the",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "tivity levels have a vast array of applications in, for example, the study",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "2. See, for example, Abramovitz (1986); Baumol (1986); and De Long (1988).",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Comparisons Project (ICP) since 1967 (for example, Kravis, Heston, and Summers,",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "6. See, for example, Rostas (1948) on a comparison of manufacturing output and",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "erlands, Spain, the United Kingdom, and the United States. See, for example, Maddison",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "to both demand and supply. For example, the price of factor inputs may",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "example, the inefficient Japanese distribution system leads to relatively",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "the production censuses often differed. For example, the production of",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "the other country. In some cases, expert information from industry",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "other (for example, supertankers in Japan and space aircraft in the",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "tries (for example, textiles, paper and wood products, nonmetallic min-",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "15. McKinsey Global Institute (1993). For example, in the comparison between",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "In some cases, the percentage of total sales covered within the in-",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "17. For example, in contrast to the Paasche and Laspeyres indexes, the Fisher index",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "intermediate inputs were available (which is rarely the case), double de-",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "in patterns of economic growth, productivity and competitiveness as shown, for example, by",
-    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "マクロ経済統計の平均値による議論は、産業別の詳細な実態を覆い隠し、競争優位分野の可能性を過小評価するとともに、課題分野への適切な政策介入を困難にする",
-    "url": "https://note.com/btobmarketing/n/n7bb1cd09fab1",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "AI時代の採用面接メソッド〜フリートーク面接からの転換〜（曽和利光）",
-    "url": "https://apj.aidem.co.jp/current/detail/5282.html",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "アイデム人と仕事研究所 - 人材の採用・育成・活用・定着に資する情報を提供",
-    "url": "https://apj.aidem.co.jp/current/detail/5282.html",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "採用面接で、応募者の中から「自社に合った人をどう見極めるか？」について、実践的な方法や企業が考えておかなければならないポイントを解説します",
-    "url": "https://apj.aidem.co.jp/current/detail/5282.html",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "information are derived from the same primary source. However, production censuses and industrial surveys often",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "primary source. For manufacturing the best source is the national census",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "本研究は、日本生産性本部が2024年12月に公表した「産業別労働生産性水準の国際比較2024」の最新データ（2020年基準）を用いて、日本の産業別労働生産性の実態を詳細に分析し、従来の「日本の生産性は一律に低い」という通説に対する実証的検証を行った",
-    "url": "https://note.com/btobmarketing/n/n7bb1cd09fab1",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "業種別の詳細分析を行い、「日本の生産性は一律に低い」という通説を実証的に検証する",
-    "url": "https://note.com/btobmarketing/n/n7bb1cd09fab1",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "構造的要因に対する具体的な政策介入効果の検証",
-    "url": "https://note.com/btobmarketing/n/n7bb1cd09fab1",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": ". These estimates make use of ICOP's unit value ratios, but - in contrast to the estimates presented here - output and employment are directly taken from national accounts of individual countries instead of from industrial surveys and manufacturing censuses.",
-    "url": "https://www.rug.nl/ggdc/productivity/pr-projects/icop?lang=en",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "measures. Some discussion focussed on the data estimates for the 31 countries included in the",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "estimates include 31 countries for the total economy (see Table 1) and 23 countries for",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "based estimates of labour productivity are obtained on the basis of purchasing power parities",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "with the estimates of purchasing power parities and unit value ratios.",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "3 In a limited number of cases the GGDC database also provides estimates of capital stock. The GGDC database is",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "can differ substantially, and the effect on GDP estimates can be as much as 15 to 20 per cent.",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "The estimates in this paper are still based on guidelines laid down in the old United",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "also to annual working hours. Estimates of employment are for the average number of persons",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "provide employment estimates within the national accounts framework. For most countries",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "employment estimates are derived from labour force or population surveys. Using these",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Comprehensive estimates of annual working hours are difficult to obtain and their",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "United Kingdom and the United States, estimates of hours actually worked (as opposed to",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "However, the international comparability of these estimates is questionable. For most other",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "supplemented with estimates of “unusual” working hours (such as overtime) and various types",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "work. Estimates for use with the component method generally are obtained by combining",
-    "url": "https://www.ilo.org/media/305836/download",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "since 1950.1 The productivity level estimates are based on the industry-",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "technological areas during the past decade. Nevertheless, recent estimates",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "were derived from the ICP estimates.",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "based on sectoral estimates. See Mulder and Maddison (1993) for a detailed account of",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "bis 1988, Wiesbaden). It should be emphasized that our estimates for Germany are based",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "many, and 2,161 in Japan. These estimates refer to \"actual hours,\"",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Source: See table I and tables A-3 and A-4. All estimates are based on the geometric average of the UVRs at own country",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "uted part of the estimated gain of U.S. manufacturing output compared",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "benchmark estimates of relative productivity levels for 1987 to obtain",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Source: See table 4 for manufacturing estimates. For total economy, GDP (in national currencies) and employment 1960",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "our manufacturing estimates, the total economy figures are converted to U.S. dollars with Fisher PPPs for 1985 (provided",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Estimates of labor productivity can be referred to as \"single factor",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "parative measures of per capita income. Sectoral estimates of labor",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "comparability of the official estimates for the various countries is very",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "weak. We then converted these capital stock estimates into U. S. dollars,",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "tables and capital stock estimates for the EU members. The capital stock database covers 25",
+    "quote": "serve as a base for further research into for example the impact of high-tech industries or human",
     "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "education and health) are hard to measure. Output valuation in the latter sectors is partly estimated by",
+    "quote": "returns, costs will rapidly increase. For example, comparability problems increase with a greater",
     "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "countries and over time. Econometric estimates might be used as an alternative.",
+    "quote": "the case of Denmark).",
     "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "Eurostat can deliver sample weights of the LFS which can be used to estimate population levels.",
-    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "accuracy of the estimate. Note also that as a first approximation we can use total economy",
-    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "estimates (or broad sectors), instead of detailed industry estimates. It is not clear whether",
-    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "commonly used to estimate capital stocks. This method requires series of real investment and",
-    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "-2. as OECD series start only in 1960, they are not long enough to generate a full stock estimate",
-    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "time series estimates for longer periods (see OECD 1998c, p.45 vv).",
-    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "inventory method to build up a stock estimate. To interpolate between the benchmarks, we can",
-    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "series were taken from Eurostat, including estimates backwards as far as to 1870. Aim of this",
-    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "project was to arrive at an estimate of the capital stock for the EU as a whole, including countries",
-    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "stock estimates were based completely on data available within Eurostat. The data for France,",
-    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "stage, but needs to be cross-checked and supplemented with national sources, for example",
-    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "between efficiency used in estimate of the productive capital stock and the measure of",
-    "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "ータの出典とデータの作成基準及び産業分類が異なるため、単純には比較できない点に注意",
-    "url": "https://www.jpc-net.jp/research/assets/pdf/Productivity_report_vol20.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "滝澤 （2016、2018、2020） などでも繰り返し注意喚起されてきた通り、 産",
-    "url": "https://www.jpc-net.jp/research/assets/pdf/Productivity_report_vol20.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "業別生産性の絶対水準を国際比較する際には十分な注意が必要である",
-    "url": "https://www.jpc-net.jp/research/assets/pdf/Productivity_report_vol20.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "to considerable biases. First, expenditure-based PPPs include prices of",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "high distribution margins in Japan and therefore to a substantial bias in",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "systematic bias in our UVRs across industries. 1 In branches that in-",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "processes of factor substitution, skill-biases in technological change, etc. In addition, the dataset,",
+    "quote": "- This is the case with the treatment of government services and imputed interest of domestic banks and",
     "url": "https://www.conference-board.org/pdf_free/eco_klems_report.pdf",
     "pass": 3,
     "first_seen": "2026-11-09"
    }
   ]
  },
- "runs": 1,
+ "runs": 2,
  "first_researched_at": "2026-11-09T03:59:01.754472+00:00"
 }

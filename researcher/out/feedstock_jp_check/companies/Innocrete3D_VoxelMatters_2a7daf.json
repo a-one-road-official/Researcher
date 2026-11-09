@@ -1,0 +1,548 @@
+{
+ "name": "Innocrete3D — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:ceramics-material-manufacturer",
+ "researched_at": "2026-11-09T22:29:07.714151+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Innocrete3D debuts 3DCP offering in the UK | VoxelMatters Innocrete3D has made its 3DCP debut in the UK. As a reseller and adopter of CyBe Construction's technology, the company is expected to provide the country with more sustainable, efficient, and ...",
+    "url": "https://www.linkedin.com/posts/voxelmatters_innocrete3d-debuts-3dcp-offering-in-the-uk-activity-7185730865593810945-HjEG",
+    "pass": 3
+   },
+   {
+    "quote": "Federico Sher - Co-founder of VoxelMatters | LinkedInFrancesco Pulimeni - Co-founder and CRO at VoxelMatters ...Scott Williams - Bringing Projects to Life | Estimator at MSB ...Rocio Lorenzo – Chief Executive Officer at Cable&Wireless ...Tess Boissonneault - Freelance Content Writer, Editor | LinkedIn VoxelMatters is a leading market research and media company specializing in the additive manufact",
+    "url": "https://uk.linkedin.com/in/federico-sher",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookVoxelMatters on Reels - FacebookLog Into FacebookLegacy Effects changed the game on the set of Superman (2025 ...VoxelMatters - Visualising a complex technological... | FacebookVoxelMatters Metal AM Market 2025 Report.... - FacebookInnocrete3D - Facebook Unlock the Future of Metal Additive Manufacturing with VoxelMatters! VoxelMatters Research has kicked off a pre-sale campa",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://innocrete3d.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/additive-industries/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://innocrete3d.com/terms-and-conditions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nota3d.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/TOYO%E3%82%A4%E3%83%8E%E3%83%99%E3%83%83%E3%82%AF%E3%82%B9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://find-and-update.company-information.service.gov.uk/company/15010597",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://innocrete3d.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://industrial.panasonic.com/jp/s-search/distributors",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://creator.holoearth.com/shop/products/7219",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ja.aliexpress.com/item/1005006536751988.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://shop.exmatelab.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/collections/filament",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF-%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E7%B4%A0%E6%9D%90/b?ie=UTF8&node=3489859051",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://shop.exmatelab.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://creator.holoearth.com/shop/products/1021609",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://innocrete3d.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/category/global-am-hubs/japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://innocrete3d.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/category/global-am-hubs/japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/amazon%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E4%BC%9A%E5%93%A1-%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3/s?k=amazon%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E4%BC%9A%E5%93%A1+%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E9%80%B1%E5%88%8A%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A-2026%E5%B9%B411%E6%9C%8819%E6%97%A5%E5%8F%B7-No-1970-%E9%80%B1%E5%88%8A%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E7%B7%A8%E9%9B%86%E9%83%A8/dp/B0HNSMCCCL",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E3%83%A9%E3%82%B9%E3%83%88%E3%83%BB%E3%82%B5%E3%83%90%E3%82%A4%E3%83%90%E3%83%BC-Ridley-Scott/dp/B0HLVPJLTK",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/Mila-Owen-%E3%83%9F%E3%83%A9%E3%82%AA%E3%83%BC%E3%82%A6%E3%82%A7%E3%83%B3-09WND261014-%E3%82%A2%E3%83%B3%E3%82%B5%E3%83%B3%E3%83%96%E3%83%AB%E3%83%9A%E3%83%97%E3%83%A9%E3%83%A0%E3%82%B7%E3%82%A2%E3%83%BC%E3%83%9D%E3%83%AD%E3%83%8B%E3%83%83%E3%83%88%E3%82%AB%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AC%E3%83%B309WND261014%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B9/dp/B0GBMWYFSN",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/g/03001937/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00533061/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/1654/8263/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/3769/4562/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/eos-and-blt-lead-list-of-top-10-metal-am-companies-2025-by-revenue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/database/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://innocrete3d.com/the-team-1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/voxelmatters_innocrete3d-debuts-3dcp-offering-in-the-uk-activity-7185730865593810945-HjEG",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/federico-sher",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Innocrete3D — VoxelMatters 代理店",
+   "results": [
+    "https://innocrete3d.com/",
+    "https://www.voxelmatters.directory/company/additive-industries/",
+    "https://innocrete3d.com/terms-and-conditions",
+    "https://nota3d.com/",
+    "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "https://www.exone.com/en/about-us/locations/",
+    "https://www.voxelfactory.com/?srsltid=AYCX9vJu7yezigBaD7dJrpR5CU2MNgVeWdO3Qpsx9ztUxUUAM_aR9kxJ",
+    "https://www.additivemanufacturing.media/suppliers?productIds=5725",
+    "https://www.voxelmatters.com/it/chi-siamo/contattaci/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Innocrete3D — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://ja.wikipedia.org/wiki/TOYOイノベックス",
+    "https://find-and-update.company-information.service.gov.uk/company/15010597",
+    "https://innocrete3d.com/",
+    "https://industrial.panasonic.com/jp/s-search/distributors",
+    "https://camera-wiki.org/wiki/Schmidt",
+    "https://www.shure.com/ja-JP/support/authorised-dealer",
+    "https://primarymathshub.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Innocrete3D — VoxelMatters 日本 販売",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://creator.holoearth.com/shop/products/7219",
+    "https://ja.aliexpress.com/item/1005006536751988.html",
+    "https://shop.exmatelab.com/",
+    "https://eleshop.jp/shop/c/c66320102/?srsltid=AYCX9vJjt0kqDeZVauiHiASFPdpkPtM-3aEt7JNYIXf5a0KsT44aHRpW",
+    "https://shop.sin.jp/?srsltid=AYCX9vLPbmGWxcdei1PZVUi1wy_kPvrfPPIqf5xxK0aiaRdJGna8wX36",
+    "https://ginzaxiaoma.com/ja/product/1011505?srsltid=AYCX9vLPC_EutEwX_DiYcJ4penJXFD9qhLMC7xv4z6uAj7x-4EHacI2O",
+    "https://exmatelab.com/product/",
+    "https://nextlabs.space/jp/products/14793611",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "Innocrete3D — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://skhonpo.com/collections/filament",
+    "https://www.amazon.co.jp/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF-%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E7%B4%A0%E6%9D%90/b?ie=UTF8&node=3489859051",
+    "https://shop.exmatelab.com/",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://www.poly-maker.jp/sample.html",
+    "https://3d-ichiba.com/mtral.html",
+    "https://i-maker.jp/ic/pc-filament?srsltid=AYCX9vIAqHtAqRCttdpI2PXQfjIZiadx4GY-JKCfS0kHtC0Xlo_Xw_xs",
+    "https://apple-tree.shop/?mode=grp&gid=2958647",
+    "https://idarts.co.jp/3dp/spectrum-filaments-materials-3d-printing/?srsltid=AYCX9vIx8EojwlBHpiSbg8rwvQzIDF1jyiM_gF1CkpTF82eMJEgdEshj",
+    "https://ja.wikipedia.org/wiki/レジン"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Innocrete3D — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://innocrete3d.com/",
+    "https://www.voxelmatters.com/category/global-am-hubs/japan/",
+    "https://www.exone.com/en/",
+    "https://unifiedsearch.jcdbizmatch.jp/nanotech2025/en/tct/product",
+    "https://3dbiotek.com/dist_asia.aspx",
+    "https://tethon3d.com/distributors/",
+    "https://www.nexeoplastics.com/end-markets/3d-printing-and-additive-manufacturing",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Innocrete3D — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://innocrete3d.com/",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://www.voxelmatters.com/category/global-am-hubs/japan/",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://www.tctjapan.jp/outline_en.html",
+    "https://partners.solize.com/en/manufacturing",
+    "https://www.exone.com/en/about-us/locations/",
+    "https://www.3dnatives.com/en/events/tct-japan/",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:amazon.co.jp Innocrete3D — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/amazonプライム会員-ログイン/s?k=amazonプライム会員+ログイン",
+    "https://www.amazon.co.jp/週刊ファミ通-2026年11月19日号-No-1970-週刊ファミ通編集部/dp/B0HNSMCCCL",
+    "https://www.amazon.co.jp/ラスト・サバイバー-Ridley-Scott/dp/B0HLVPJLTK",
+    "https://www.amazon.co.jp/Mila-Owen-ミラオーウェン-09WND261014-アンサンブルペプラムシアーポロニットカーディガン09WND261014レディース/dp/B0GBMWYFSN",
+    "https://www.amazon.co.jp/アズールレーン-破マ艦術-7スケール-プラスチック製-塗装済み完成品/dp/B0DVGJBKL9",
+    "https://www.amazon.co.jp/【デジタル限定-YJ-PHOTO-BOOK】月城莉奈写真集「夢か幻か、女性声優か？」-月城莉奈-ebook/dp/B0HPKKHKNS",
+    "https://www.amazon.co.jp/デキる猫は今日も憂鬱-12-ワイドKC-山田-ヒツジ/dp/406541346X",
+    "https://www.amazon.co.jp/野菜一日これ一本-すっきり飲みやすい味わい・ロカボ・ダイエット-食事のお供や夜間でも安心-砂糖・食塩・栄養強化剤不使用-200ml持ち運び紙パック/dp/B08RBM4N3F",
+    "https://www.amazon.co.jp/LuggMate-カップホルダー付き-USBポート付き-静音ダブルキャスター-TSAロック搭載/dp/B0HLSC6G7B",
+    "https://www.amazon.co.jp/出口夏希2nd写真集『タイトル未定』-出口-夏希/dp/4344046854"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:monotaro.com Innocrete3D — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/g/03001937/",
+    "https://www.monotaro.com/g/00533061/",
+    "https://www.monotaro.com/p/1654/8263/",
+    "https://www.monotaro.com/p/3769/4562/",
+    "https://www.monotaro.com/g/02507566/",
+    "https://www.monotaro.com/g/00213619/",
+    "https://www.monotaro.com/g/00111770/",
+    "https://www.monotaro.com/k/store/2.54+mm+ピッチ+コネクタ/",
+    "https://www.monotaro.com/g/00347026/",
+    "https://www.monotaro.com/p/0868/7253/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Innocrete3D — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.voxelmatters.com/eos-and-blt-lead-list-of-top-10-metal-am-companies-2025-by-revenue/",
+    "https://www.voxelmatters.report/database/",
+    "https://www.voxelmatters.directory/",
+    "https://innocrete3d.com/the-team-1",
+    "https://revenuebase.ai/companies/browse/3d-printing-and-additive-manufacturing-companies",
+    "https://www.voxelmatters.com/category/money/",
+    "https://www.linkedin.com/posts/voxelmatters_additivemanufacturing-3dprinting-ebook-activity-7516128261437845504-opWf",
+    "https://www.inven.ai/company-lists/top-21-metal-additive-manufacturing-companies",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles_new/laying-the-foundations-for-the-next-decade-of-am-growth-at-formnext-2025.html",
+    "https://find-and-update.company-information.service.gov.uk/company/15010597"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "site:note.com Innocrete3D — VoxelMatters",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/tag/AirPods+5",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/datetetsuzuki/n/n4e8a566a867c",
+    "https://note.com/isomitsuo/n/nd6f66ed87bfd",
+    "https://note.com/keizokuramoto/n/nef2f6f1c855d"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Innocrete3D — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/richtosho/status/2117484572887695600",
+    "https://help.x.com/zh-cn/managing-your-account",
+    "https://x.com/buffys/status/2114931049780441163",
+    "https://x.com/willeastcott/status/2056744519052169233",
+    "https://x.com/cowboylikelovee/status/2117973836855693402",
+    "https://x.com/NoahFentys/status/2118178286157140113"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Innocrete3D — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://www.linkedin.com/posts/voxelmatters_innocrete3d-debuts-3dcp-offering-in-the-uk-activity-7185730865593810945-HjEG",
+    "https://uk.linkedin.com/in/federico-sher",
+    "https://it.linkedin.com/in/francescopulimeni",
+    "https://uk.linkedin.com/in/scott-williams-3466a312a",
+    "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a",
+    "https://de.linkedin.com/in/rocio-lorenzo-1936841b1",
+    "https://www.linkedin.com/company/innocrete3d",
+    "https://www.linkedin.com/pub/dir/davide/sher",
+    "https://www.linkedin.com/posts/innocrete3d_press-release-advancing-sustainable-and-activity-7185577530504945664-d6Rh"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:facebook.com Innocrete3D — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/VoxelMatters/videos/2155326438344264/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/VoxelMatters/posts/visualising-a-complex-technological-landscape-our-interactive-map-for-additive-m/1190656517773138/",
+    "https://www.facebook.com/VoxelMatters/posts/-voxelmatters-metal-am-market-2025-reportwe-are-now-offering-early-access-to-our/1140541171410263/",
+    "https://www.facebook.com/p/Innocrete3D-61554552603944/",
+    "https://www.facebook.com/VoxelMatters/videos/legacy-effects-changed-the-game-on-the-set-of-superman-2025-they-used-bambu-lab-/920879230825681/",
+    "https://www.facebook.com/innocrete/",
+    "https://www.facebook.com/61554552603944/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Innocrete3D — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.report/",
+    "https://www.voxelmatters.group/about/",
+    "https://www.voxelmatters.com/about/",
+    "https://www.voxelmatters.directory/company-category/space/",
+    "https://www.youtube.com/watch?v=6M8csskWCcI&vl=ja",
+    "https://note.com/tag/%E9%87%91%E5%B1%9E3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC",
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://www.linkedin.com/posts/robertoesposito_velo3d-additivemanufacturing-japan-activity-7521461737670475776-Hy0l",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "Innocrete3D — VoxelMatters X 投稿",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.youtube.com/@voxelmatters",
+    "https://www.voxelmatters.report/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://innocrete3d.com/the-team-1",
+    "https://www.voxelmatters.com/new-vjet-x-technology/",
+    "https://www.youtube.com/watch?v=qmTu63XF9Aw",
+    "https://contecaustralia.com/voxel-matters-3d-printed-pool-makes-a-big-splash-in-australia-20th-feb-2026/",
+    "https://wyss.harvard.edu/media-post/voxelated-soft-matter-via-multimaterial-multinozzle-3d-printing/",
+    "https://x.com/voxelmatters"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）"
+ }
+}

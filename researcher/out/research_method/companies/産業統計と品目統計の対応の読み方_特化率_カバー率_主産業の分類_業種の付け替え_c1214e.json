@@ -9,35 +9,99 @@
  ],
  "context": "探し先",
  "kind": "market",
- "researched_at": "2026-11-09T04:54:20.624060+00:00",
+ "researched_at": "2026-11-09T22:25:34.760590+00:00",
  "evidence": {
-  "実例": [
-   {
-    "quote": "2 For example, the Bureau of Economic Analysis (BEA) incorporated R&D expenditures as investment in the National Income",
-    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "process. In this case, sales receipts are used (BEA, 2013).",
-    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "series become gradually larger. The largest differences are observed from 2002 forward. For example,",
-    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "trade adjustment in recent years. For example, in 2008 about 15 percent of the firms reassigned from",
-    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
   "手順・やり方": [
+   {
+    "quote": "users can only speculate as to how to construct the",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "successive steps. Because the LRD contains a lot of",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "that some methods are likely to be more reliable",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "reliable method; any establishment that can’t be",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "attempt to match it in a subsequent step.",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "matching procedures include a “product method”",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "plant, an “industry method” where we classify a",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "an “establishment method” where we identify the",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "plants that we cannot assign by one of the methods",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Step 1: Product Method",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The first step in reclassifying an",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Step 3: Establishment Method",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The n ext method of ass igning N AICS",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "method as sumes t hat t here is n o ch ange within t he",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Step 4: Multiple Characteristics Method",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
    {
     "quote": "Establishments in the 2007 Economic Census are divided into those sent report forms and those not sent report forms. The coverage of and the method of obtaining census information from each are described below:",
     "url": "https://www2.census.gov/econ2007/Reference_materials/htm%20files/ec31mdesc.htm",
@@ -167,6 +231,12 @@
   ],
   "突き合わせ・推定": [
    {
+    "quote": "likely h ave ov erestimated s hipments f or th ese",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
     "quote": "Estimates of data for these small establishments were developed using industry averages in conjunction with the administrative information. The value of shipments and cost of materials were not distributed among specific products and materials for these establishments but were included in the products and materials \"not specified by kind\" (nsk) categories.",
     "url": "https://www2.census.gov/econ2007/Reference_materials/htm%20files/ec31mdesc.htm",
     "pass": 3,
@@ -262,43 +332,116 @@
     "pass": 3,
     "first_seen": "2026-11-08"
    }
+  ],
+  "実例": [
+   {
+    "quote": "industries. Table 1 shows an example of the type of",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "another. There are a few “special cases,” that is,",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "(“Statistical Matching”) In this case, 70 percen t of t he plan t’s s hipments i n",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "this method. For all cases where we cannot assign",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "of special cases is negligible.",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Step 5: Special Cases",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "this example we set the weights (/g1081 to /g1085) equal, but",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "example, in 1992, 17.9 percent of all manufacturing",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "extent that, for example, statistical assignment",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "for the statistical matching cases, it is still fairly",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "in predictable ways. For example, the SIC industry",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "consistency of these cases is reassuring to us that",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2 For example, the Bureau of Economic Analysis (BEA) incorporated R&D expenditures as investment in the National Income",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "process. In this case, sales receipts are used (BEA, 2013).",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "series become gradually larger. The largest differences are observed from 2002 forward. For example,",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "trade adjustment in recent years. For example, in 2008 about 15 percent of the firms reassigned from",
+    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/study_room358/n/n63aeb2cdb96b",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/yajirushi_works/n/n93360ad7b5b2",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/wish11_11/n/n7ff1b3ec8dfd",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/engawa_koushi/n/nc835437a1504",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/__name___/n/n68802c0bb801",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/stats47/n/n5d86476e9c73",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.customs.go.jp/yusyutu/",
+    "url": "https://note.com/aosakasakas/n/ne17b609067f4",
     "status": "ok",
     "method": "http"
    },
@@ -308,69 +451,19 @@
     "method": "http"
    },
    {
-    "url": "https://www.meti.go.jp/statistics/tyo/seidou/commodities.html",
+    "url": "https://note.com/dreamy_frog725/n/n6a68fd12d0f7",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.soumu.go.jp/toukei_toukatsu/index/seido/sangyo/",
+    "url": "https://note.com/kojituma/n/n4b059aa9b939",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.stat.go.jp/training/2kenkyu/pdf/rn/2-rn-008.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://note.com/tag/%E7%B5%8C%E6%B8%88%E7%B5%B1%E8%A8%88",
+    "url": "https://note.com/kishida0912/n/n91c8c251c0d8",
     "status": "ok",
     "method": "http"
-   },
-   {
-    "url": "https://www.customs.go.jp/toukei/srch/index.htm",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://eigyo-mfg.com/blog/9468/",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.stat.go.jp/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.meti.go.jp/statistics/tyo/seidou/qa.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.e-stat.go.jp/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.soumu.go.jp/toukei_toukatsu/data/io/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.meti.go.jp/statistics/tyo/iip/gaiyo.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.e-stat.go.jp/classifications/terms/10",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.soumu.go.jp/main_sosiki/singi/toukei/2008wg/wg4/wg4_4/siryou_4.pdf",
-    "status": "ok",
-    "method": "pdf"
    },
    {
     "url": "https://www.jsme.or.jp/kaisi/1214-50/",
@@ -378,42 +471,87 @@
     "method": "http"
    },
    {
-    "url": "http://www.library.pref.tottori.jp/business/cat1/post-8.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.stat.go.jp/info/guide/kty2015/service.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www2.census.gov/econ2007/Reference_materials/htm%20files/ec31mdesc.htm",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://guides.lib.unc.edu/industry/census-ratios",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
+    "url": "https://www.meti.go.jp/statistics/tyo/seidou/gaiyo/chosahyo/2025kinyuyoryo/kikaikigu.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://guides.library.georgetown.edu/c.php?g=75621&p=487531",
+    "url": "https://www.meti.go.jp/statistics/toppage/topics/maruwakari/maruwakaritop.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.bls.gov/ces/naics/",
-    "status": "http_403",
+    "url": "https://www.jstage.jst.go.jp/article/jsmemag/123/1214/123_50/_pdf/-char/en",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://dictionary.jlia.or.jp/detail.php?id=611",
+    "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://guides.emich.edu/c.php?g=187964&p=1242069",
+    "url": "https://www.soumu.go.jp/main_content/000580152.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0402-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.osaka.lg.jp/documents/8523/sanren-panfu_ver2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kokusei/2010/users-g/mikata.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.chiba.lg.jp/toukei/toukeidata/sangyou/h23/documents/02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/__name___/n/n227de0cc7694",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_3.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www2.census.gov/econ2007/Reference_materials/htm+files/31ccorcppct.htm",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.census.gov/data/experimental-data-products/trade-by-industry-and-product-statistics.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.census.gov/programs-surveys/economic-census/data/tables/industry.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mlchart.com/terminology/economic-statistics/specialization-and-coverage-ratio/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://guides.lib.unc.edu/industry/census-ratios",
     "status": "ok",
     "method": "http"
    }
@@ -423,257 +561,372 @@
   {
    "query": "産業統計と品目統計の対応の読み方（特化率・カバー率・主産業の分類・業種の付け替えで年次の増減が出る問題・センサスの方法論の付録・4-113） site:note.com",
    "results": [
-    "https://note.com/study_room358/n/n63aeb2cdb96b",
-    "https://note.com/yajirushi_works/n/n93360ad7b5b2",
-    "https://note.com/wish11_11/n/n7ff1b3ec8dfd",
     "https://note.com/engawa_koushi/n/nc835437a1504",
-    "https://note.com/__name___/n/n68802c0bb801",
-    "https://note.com/stats47/n/n5d86476e9c73",
-    "https://note.com/human_symphony/n/nde11d09c3044",
-    "https://note.com/e_dao/n/nabf2c1631fbe",
-    "https://note.com/hirokimiyano/n/n7a3d09685940",
-    "https://note.com/tatsuya_sabato/n/n76a547c39dd9"
+    "https://note.com/aosakasakas/n/ne17b609067f4",
+    "https://note.com/tatsuya_sabato/n/n76a547c39dd9",
+    "https://note.com/dreamy_frog725/n/n6a68fd12d0f7",
+    "https://note.com/kojituma/n/n4b059aa9b939",
+    "https://note.com/kishida0912/n/n91c8c251c0d8",
+    "https://note.com/tsysk/n/n97addf8d3926"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 30
+   "n_hits": 7
   },
   {
    "query": "産業統計と品目統計の対応の読み方（特化率・カバー率・主産業の分類・業種の付け替えで年次の増減が出る問題・センサスの方法論の付録・4-113） note",
-   "results": [
-    "https://note.com/yajirushi_works/n/n93360ad7b5b2",
-    "https://www.customs.go.jp/yusyutu/",
-    "https://note.com/tatsuya_sabato/n/n76a547c39dd9",
-    "https://www.meti.go.jp/statistics/tyo/seidou/commodities.html",
-    "https://www.soumu.go.jp/toukei_toukatsu/index/seido/sangyo/",
-    "https://www.stat.go.jp/training/2kenkyu/pdf/rn/2-rn-008.pdf",
-    "https://note.com/tag/%E7%B5%8C%E6%B8%88%E7%B5%B1%E8%A8%88",
-    "https://www.mof.go.jp/faq/statistics/12ga.htm",
-    "https://note.com/nanto_econ",
-    "https://www.trivago.com/en-US/odr/hotels-lincoln-nebraska?search=200-14660"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 19
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "産業統計と品目統計の対応の読み方（特化率・カバー率・主産業の分類・業種の付け替えで年次の増減が出る問題・センサスの方法論の付録・4-113） やり方",
    "results": [
-    "https://www.customs.go.jp/toukei/srch/index.htm",
-    "https://eigyo-mfg.com/blog/9468/",
-    "https://www.youtube.com/watch?v=wiGOIilOdoU",
-    "https://www.stat.go.jp/",
-    "https://www.meti.go.jp/statistics/tyo/seidou/qa.html",
-    "https://www.e-stat.go.jp/",
-    "https://www.soumu.go.jp/toukei_toukatsu/data/io/",
-    "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-of_customs/proceedings_plan/material/20171129/kank20171129siryo2.pdf",
-    "https://www.mhlw.go.jp/toukei/list/chinginkouzou_b.html",
-    "https://www.microsoft.com/en-us/"
+    "https://www.jsme.or.jp/kaisi/1214-50/",
+    "https://www.meti.go.jp/statistics/tyo/seidou/gaiyo/chosahyo/2025kinyuyoryo/kikaikigu.pdf",
+    "https://www.meti.go.jp/statistics/toppage/topics/maruwakari/maruwakaritop.html",
+    "https://www.jstage.jst.go.jp/article/jsmemag/123/1214/123_50/_pdf/-char/en",
+    "https://dictionary.jlia.or.jp/detail.php?id=611",
+    "https://www.soumu.go.jp/main_content/000580152.pdf",
+    "https://tf-online.jp/経営に役立つ統計データの読み方と産業政策の基/",
+    "https://www.stat.go.jp/data/kokusei/2010/users-g/mikata.html",
+    "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0402-1.pdf"
    ],
    "engines": [
     "ddgs:google",
-    "ddgs:yahoo",
-    "yahoo_jp"
+    "ddgs:yahoo"
    ],
-   "n_hits": 29
+   "n_hits": 9
   },
   {
    "query": "産業統計と品目統計の対応の読み方（特化率・カバー率・主産業の分類・業種の付け替えで年次の増減が出る問題・センサスの方法論の付録・4-113） 事例",
    "results": [
-    "https://www.customs.go.jp/yusyutu/",
-    "https://eigyo-mfg.com/blog/9468/",
-    "https://www.meti.go.jp/statistics/tyo/iip/gaiyo.html",
-    "https://www.e-stat.go.jp/classifications/terms/10",
-    "https://www.soumu.go.jp/main_sosiki/singi/toukei/2008wg/wg4/wg4_4/siryou_4.pdf",
-    "https://www.jsme.or.jp/kaisi/1214-50/",
-    "http://www.library.pref.tottori.jp/business/cat1/post-8.html",
-    "https://www.youtube.com/watch?v=wiGOIilOdoU",
-    "https://www.stat.go.jp/info/guide/kty2015/service.html",
-    "https://www.reddit.com/r/2007scape/comments/8yvq9d/can_i_use_the_amazon_fire_hd_tablet_for_osrs/"
+    "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0402-1.pdf",
+    "https://www.meti.go.jp/statistics/tyo/seidou/gaiyo/chosahyo/2025kinyuyoryo/kikaikigu.pdf",
+    "https://www.pref.osaka.lg.jp/documents/8523/sanren-panfu_ver2.pdf",
+    "https://www.stat.go.jp/data/kokusei/2010/users-g/mikata.html",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/sangyou/h23/documents/02.pdf",
+    "https://note.com/__name___/n/n227de0cc7694",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_3.html"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:yahoo",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 29
+   "n_hits": 7
   },
   {
    "query": "industry statistics vs product statistics specialization ratio coverage ratio census manufacturing methodology reclassification",
    "results": [
-    "https://www2.census.gov/econ2007/Reference_materials/htm%20files/ec31mdesc.htm",
+    "https://www2.census.gov/econ2007/Reference_materials/htm+files/31ccorcppct.htm",
+    "https://www.census.gov/data/experimental-data-products/trade-by-industry-and-product-statistics.html",
+    "https://www.census.gov/programs-surveys/economic-census/data/tables/industry.html",
+    "https://mlchart.com/terminology/economic-statistics/specialization-and-coverage-ratio/",
+    "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
     "https://guides.lib.unc.edu/industry/census-ratios",
-    "https://bea.gov/sites/default/files/papers/WP2014-12.pdf",
-    "https://guides.library.georgetown.edu/c.php?g=75621&p=487531",
-    "https://www.youtube.com/watch?v=jyEDqnOev0c",
-    "https://www.bls.gov/ces/naics/",
-    "https://guides.emich.edu/c.php?g=187964&p=1242069",
-    "https://researchguides.library.syr.edu/c.php?g=258104&p=1725771",
-    "https://www.prnewswire.com/news-releases/census-bureau-completes-release-of-all-364-manufacturing-reports-from-economic-census-industry-series-277803591.html",
-    "https://en.wikipedia.org/wiki/Industry_(TV_series)"
+    "https://guides.loc.gov/industry-research/census-bureau",
+    "https://downloads.regulations.gov/EPA-HQ-OAR-2016-0243-0450/content.pdf",
+    "https://vantainsights.com/insights/industry-benchmarking"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:google",
+    "ddgs:yahoo"
    ],
-   "n_hits": 19
+   "n_hits": 9
   },
   {
    "query": "site:note.com 産業統計と品目統計の対応の読み方（特化率・カバー率・主産業の分類・業種の付け替えで年次の増減が出る問題・センサスの方法論の付録・4-113）",
    "results": [
-    "https://note.com/engawa_koushi/n/nc835437a1504",
-    "https://note.com/hirokimiyano/n/n7a3d09685940",
-    "https://note.com/pure_shrew4975/n/n99bdf47ec4ae",
     "https://note.com/tatsuya_sabato/n/n76a547c39dd9",
-    "https://note.com/gentle_otter9347/n/nb3cfad85f6fc",
-    "https://note.com/_cip/n/n6a8d35af561e",
-    "https://note.com/iceman_23/n/n0973f6cfc852",
-    "https://note.com/aosakasakas/n/ne17b609067f4",
-    "https://note.com/hirokimiyano/n/ne0165f725d77",
-    "https://note.com/hirokimiyano/n/n1cda3e178f43"
+    "https://note.com/kishida0912/n/n91c8c251c0d8",
+    "https://note.com/tommy_tomo/n/n536e3d2d10c3",
+    "https://note.com/syouwan1/n/n1c412d342019",
+    "https://note.com/koelab/n/n64df2afcaf36",
+    "https://note.com/konsaku/n/n4c7d610bad5e",
+    "https://note.com/economy_invest/n/nb27abdfdc60d"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:yahoo",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 30
+   "n_hits": 7
   },
   {
    "query": "site:x.com 産業統計と品目統計の対応の読み方（特化率・カバー率・主産業の分類・業種の付け替えで年次の増減が出る問題・センサスの方法論の付録・4-113）",
    "results": [
-    "https://x.com/aimatv_jp/status/2118234767670083801",
-    "https://x.com/ReportOcean_JP/all",
-    "https://x.com/KagawaTomo/status/2110523688902873223",
-    "https://x.com/tsurezure_lab/article/2092974256254824749",
-    "https://x.com/luigi_jpn/article/2066658370912915520",
-    "https://x.com/monozukuri_ito",
-    "https://en.wikipedia.org/wiki/Microsoft",
-    "https://www.microsoft.com/en-us",
-    "https://myaccount.microsoft.com/login",
-    "https://account.microsoft.com/account-checkup"
+    "https://x.com/POLISTRIDE_JP/status/2104222287147028495",
+    "https://x.com/FhASwlfcyV7el4C/status/2091862743313965113",
+    "https://x.com/kak34689984/status/2059620812198756710",
+    "https://x.com/realwavebaba/status/2089408699471475094",
+    "https://x.com/IqTlgtSdfi0HaYF/status/2066371818043355344",
+    "https://x.com/rena_miyan/status/2110934688982577615",
+    "https://x.com/Petain_/status/2054761418428453130"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:google",
-    "ddgs:yahoo",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 32
+   "n_hits": 7
   },
   {
    "query": "site:linkedin.com 産業統計と品目統計の対応の読み方（特化率・カバー率・主産業の分類・業種の付け替えで年次の増減が出る問題・センサスの方法論の付録・4-113）",
    "results": [
-    "https://jp.linkedin.com/posts/juliuslillyjapan_%E6%97%A5%E6%9C%AC-%E8%BC%B8%E5%87%BA-%E8%A3%BD%E9%80%A0%E6%A5%AD-activity-7517963198713528320-IH1c",
-    "https://jp.linkedin.com/in/kotaro-muramoto-jobsjapan",
-    "https://jp.linkedin.com/in/%E7%B4%98%E4%B9%9F-%E5%A4%A7%E9%87%8E-49b23818a",
-    "https://jp.linkedin.com/in/koyo-katsuki-23032016b",
-    "https://techcommunity.microsoft.com/discussions/windowsinsiderprogram/windows-8-1-iso-download-for-64-and-32-bit/4454650",
-    "https://techcommunity.microsoft.com/blog/skills-hub-blog/the-ai-job-boom-continues-build-the-skills-that-move-business-forward/4494139",
-    "https://support.microsoft.com/en-us/sharepoint/platform/what-is-sharepoint",
-    "https://support.microsoft.com/en-gb/contactus",
-    "https://support.microsoft.com/es-ar/contactus/",
-    "https://www.microsoft.com/en-us/"
+    "https://www.linkedin.com/pulse/品目元帳-敏敬-冨田-ifr0c/",
+    "https://jp.linkedin.com/pulse/mastering-inventory-management-aggregate-vs-item-level-gipe-sela-3aftc?tl=ja",
+    "https://jp.linkedin.com/posts/okadamasahiro_podcast-ポッドキャスト-koelab-activity-7227230859760656385-Dh7I",
+    "https://jp.linkedin.com/pulse/comprehensive-roadmap-learning-statistics-from-basics-abd-ur-rahman-dalff?tl=ja",
+    "https://jp.linkedin.com/pulse/real-time-engineering-applications-statistics-methods-k-palanivel-qzwyc?tl=ja",
+    "https://jp.linkedin.com/posts/anfini_sap-品目マスタ概要テーブル構造の解説マスタ登録例主要項目テーブル-activity-7237663334127280130--Lv2",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7346831525667049473/"
    ],
    "engines": [
-    "ddgs:google",
-    "ddgs:yahoo",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 24
+   "n_hits": 7
   },
   {
    "query": "site:facebook.com 産業統計と品目統計の対応の読み方（特化率・カバー率・主産業の分類・業種の付け替えで年次の増減が出る問題・センサスの方法論の付録・4-113）",
    "results": [
-    "https://www.facebook.com/groups/281769248591787/",
-    "https://www.sorank.com/fr/blog-geo-seo/meilleures-agences-web-toronto",
-    "https://torontoseo.com/fr/",
-    "https://hellodarwin.com/fr/agences/seo-technique/toronto",
-    "https://www.makeitbloom.com/fr/contact/toronto/",
-    "https://torontoseo.com/",
-    "https://hellodarwin.com/fr/agences/agences-developpement-web/toronto",
-    "https://agencies.semrush.com/fr/list/web-development/toronto/",
-    "https://agencies.semrush.com/fr/list/technical-seo/toronto/",
-    "https://shooga.ca/agence-web-toronto/"
+    "https://www.facebook.com/stat.japan/",
+    "https://www.facebook.com/globalbizgate/photos/貿易よもやま話-通関士検定試験対策編品目表金の統計細分の新設-輸出申告輸入申告の際に用いられる品目番号は必要に応じて改正が行われます令和8年4月1日改正の1つと/1243974517882723/",
+    "https://www.facebook.com/GuitarShelter/posts/輸入時の通関に使う申請書に輸入統計品目統計番号ってのが必要なんですがたとえばギターで調べると鍵盤以外の弦楽器弓で弾くもの以外ギターってなりますでもこれとは別のと/1836394936451903/",
+    "https://www.facebook.com/nobuhiro.suzuki.353/photos/1028-日農-今よみ①統計の読み方が理解できていない②集約化は解決策ではない③また生産を絞り込んだら元の木阿弥④ピントのずれた植物工場とお米券でなく安心して増/24879142405081185/",
+    "https://www.facebook.com/stat.japan/posts/キッズすたっと探そう統計データに使い方動画を掲載小中学生向け統計データ検索サイトキッズすたっと探そう統計データに使い方を分かりやすく説明した動画を掲載しました是/2078323622247124/",
+    "https://www.facebook.com/nejibane.news/posts/毎週号の新聞やウェブニュースサイトの統計データに掲載している企業物価指数の品目を大幅に拡大しました読者様より要望の多かった品目を追加して段ボールや紙箱樹脂油脂類/1585494029579735/",
+    "https://www.facebook.com/smrjpr/photos/excelで実践品質管理入門中小企業向けの少人数制オンライン研修製造業等における品質管理の基本統計的なデータの読み方や扱い方を学び自社データを用いたexcelで/1417682420397703/"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:yahoo",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 21
+   "n_hits": 7
   },
   {
    "query": "産業統計と品目統計の対応の読み方（特化率・カバー率・主産業の分類・業種の付け替えで年次の増減が出る問題・センサスの方法論の付録・4-113） note 社長",
    "results": [
-    "https://note.com/study_room358/n/n63aeb2cdb96b",
-    "https://note.com/tsujike/n/nc349561cc3ae",
-    "https://www.stat.go.jp/training/2kenkyu/pdf/rn/2-rn-008.pdf",
-    "https://www.meti.go.jp/statistics/tyo/seidou/commodities.html",
-    "https://www.customs.go.jp/toukei/sankou/code/code.htm",
-    "https://note.com/nanto_econ",
-    "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-of_customs/proceedings_plan/material/20171129/kank20171129siryo2.pdf",
-    "https://www.fedex.com/ja-jp/small-business/getting-started/customs-101-hs-code.html",
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://www.themarketplacearuba.com/"
+    "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0402-1.pdf",
+    "https://www.library.pref.osaka.jp/site/business/guide-k-tokei-seizou.html",
+    "https://www.stat.go.jp/library/faq/faq08/faq08b03.html",
+    "https://shiraberu-note.com/how-to-read-public-statistics/",
+    "https://www.jstage.jst.go.jp/article/jsmemag/123/1214/123_50/_article/-char/ja/",
+    "https://www.esri.cao.go.jp/jp/sna/seibi/kaigi/shiryou/pdf/suikei/070705/shiryou8.pdf",
+    "https://reapcoalition.org/産業連関表の読み方-総務省-産業連関表-行政と学/"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 19
+   "n_hits": 7
   },
   {
    "query": "産業統計と品目統計の対応の読み方（特化率・カバー率・主産業の分類・業種の付け替えで年次の増減が出る問題・センサスの方法論の付録・4-113） X 投稿",
    "results": [
-    "https://www.meti.go.jp/statistics/tyo/syoudou/result-4.html",
-    "https://www.customs.go.jp/toukei/sankou/howto/faq.htm",
-    "https://www.soumu.go.jp/toukei_toukatsu/index/seido/sangyo/",
-    "https://www.pref.mie.lg.jp/DATABOX/25660002652.htm",
-    "https://www.e-stat.go.jp/classifications/terms/10",
+    "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0402-1.pdf",
+    "https://dictionary.jlia.or.jp/detail.php?id=611",
+    "https://www.meti.go.jp/statistics/tyo/seidou/gaiyo/chosahyo/2025kinyuyoryo/kikaikigu.pdf",
     "https://www.jsme.or.jp/kaisi/1214-50/",
-    "https://www.stat.go.jp/",
-    "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-of_customs/proceedings_plan/material/20171129/kank20171129siryo2.pdf",
-    "https://www.kanzei.or.jp/webdb/web_export/export/",
-    "https://janitorai.com/login/"
+    "https://www.meti.go.jp/meti_lib/report/2024FY/1000145.pdf",
+    "https://www.soumu.go.jp/main_content/000580152.pdf",
+    "https://www.jstage.jst.go.jp/article/jsmemag/123/1214/123_50/_pdf/-char/en"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 19
+   "n_hits": 7
   },
   {
    "query": "industry statistics vs product statistics specialization ratio coverage ratio census manufacturing methodology reclassification site:linkedin.com",
    "results": [
-    "https://ca.linkedin.com/in/paul-minho-kim",
-    "https://www.linkedin.com/in/eva-balint",
-    "https://ca.linkedin.com/in/aczekajlo",
-    "https://ca.linkedin.com/in/ganesh-pachava",
-    "https://it.linkedin.com/in/davide-lezzi-2001",
-    "https://en.wikipedia.org/wiki/Industry_(TV_series)",
-    "https://en.wikipedia.org/wiki/Industry",
-    "https://www.imdb.com/title/tt7671070",
-    "https://www.merriam-webster.com/dictionary/industry",
-    "https://www.primevideo.com/detail/0LSQRH1UXGWZDBD8D3BMTS3VNC"
+    "https://www.linkedin.com/pulse/growth-through-new-product-development-comparing-vs-kay-devlin",
+    "https://www.linkedin.com/pulse/product-aggregation-vs-specialization-john-satti-axwxc",
+    "https://pe.linkedin.com/pulse/strategic-sourcing-industry-vs-government-explained-jon-johnson",
+    "https://pe.linkedin.com/posts/theeran-a-4b2433191_optimising-the-man-to-machine-ratio-industry-activity-7274341227787948033-NoL2",
+    "https://www.linkedin.com/pulse/how-specialization-drives-efficiency-quality-srimathy-rajagopalan-jddoc",
+    "https://www.linkedin.com/pulse/statistics-pharmaceutical-manufacturing-quality-md-abdur-rakib-rz0uc",
+    "https://www.linkedin.com/advice/3/how-can-statistical-methods-improve-manufacturing-0jyof"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 15
+   "n_hits": 7
   }
  ],
  "missing": {
-  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）"
+  "一次情報の探し方": "記載なし（読んだ24頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ24頁・検索12回）"
  },
- "new_this_run": {},
- "runs": 2,
+ "new_this_run": {
+  "手順・やり方": [
+   {
+    "quote": "users can only speculate as to how to construct the",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "successive steps. Because the LRD contains a lot of",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "that some methods are likely to be more reliable",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "reliable method; any establishment that can’t be",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "attempt to match it in a subsequent step.",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "matching procedures include a “product method”",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "plant, an “industry method” where we classify a",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "an “establishment method” where we identify the",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "plants that we cannot assign by one of the methods",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Step 1: Product Method",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The first step in reclassifying an",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Step 3: Establishment Method",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The n ext method of ass igning N AICS",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "method as sumes t hat t here is n o ch ange within t he",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Step 4: Multiple Characteristics Method",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "likely h ave ov erestimated s hipments f or th ese",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "industries. Table 1 shows an example of the type of",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "another. There are a few “special cases,” that is,",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "(“Statistical Matching”) In this case, 70 percen t of t he plan t’s s hipments i n",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "this method. For all cases where we cannot assign",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "of special cases is negligible.",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Step 5: Special Cases",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "this example we set the weights (/g1081 to /g1085) equal, but",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "example, in 1992, 17.9 percent of all manufacturing",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "extent that, for example, statistical assignment",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "for the statistical matching cases, it is still fairly",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "in predictable ways. For example, the SIC industry",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "consistency of these cases is reassuring to us that",
+    "url": "https://www.federalreserve.gov/releases/g17/reformat_wpic.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ]
+ },
+ "runs": 3,
  "first_researched_at": "2026-11-08T20:50:54.823010+00:00"
 }

@@ -1,0 +1,1088 @@
+{
+ "name": "Pibit",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-09T22:42:50.242775+00:00",
+ "official_url": "https://pibit.ai",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "4. Seed Round",
+    "value": "01-Mar-2023    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/459356-59",
+    "pass": 3
+   },
+   {
+    "label": "Seed-2",
+    "value": "",
+    "url": "https://pitchbook.com/profiles/company/459356-59",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Clear or deny requests at inception by running appetite and clearance rules based on your program guidelines on every submission to catch in-appetite and out-of-appetite risks.",
+    "url": "https://pibit.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Enrich each account from public and industry sources, license boards, OSHA, SAFER, SEC, OFAC, reviews, and data providers for underwriters to get the complete picture beyond broker documents.",
+    "url": "https://pibit.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Risk analysis, triage & prioritization",
+    "url": "https://pibit.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Intelligent queue prioritization",
+    "url": "https://pibit.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Prioritize queue by appetite, urgency and profitability, to replace first-in first-out list with configurable logics.",
+    "url": "https://pibit.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Tune prioritization logic as per portfolio goals to never miss the business your book needs.",
+    "url": "https://pibit.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing starts with clean inputs, not a blank form.",
+    "url": "https://pibit.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Obtain pre-filled rating inputs from validated submissions requiring zero manual re-entry into any rater.",
+    "url": "https://pibit.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-scenario pricing modeling",
+    "url": "https://pibit.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehend several pricing scenarios auto-populated side by side for maximum clarity.",
+    "url": "https://pibit.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Embedded decision & profitability analytics",
+    "url": "https://pibit.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Evangelize pricing and profitability signals alongside the quote to guide the final decision.",
+    "url": "https://pibit.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Produce multiple quote options for a single submission or build a single quote by combining options across lines.",
+    "url": "https://pibit.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Track submissions, quotes and renewals at each instance, alongside hit ratio, premium and turnaround time, among others.",
+    "url": "https://pibit.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Executive & production dashboards",
+    "url": "https://pibit.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Visualize portfolio, agency, underwriter and production performance with interactive dashboards.",
+    "url": "https://pibit.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Proactive exposure & capacity management",
+    "url": "https://pibit.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Exposure and capacity monitoring keeps concentrations visible before they become a problem.",
+    "url": "https://pibit.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Integrating Pibit Underwriting Platform has improved our submission process and helped our team move from support work to true underwriting.",
+    "url": "https://pibit.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Pibit.AI increased our underwriting efficiency by processing every carrier format loss run seamlessly, including complex cases. A must for any MGAs.",
+    "url": "https://pibit.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Pibit.AI helps us to handle more than a billion dollars in submissions on an annual basis without scaling our overhead costs, and grow our business by close to 100% in premium because we're able to get those looks and quotes up and running.",
+    "url": "https://pibit.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Deploying the Pibit underwriting platform gave our underwriters immediate power on our larger, more complex accounts that fall outside our straight-through portal, instantly surfacing automated completeness checks, pre-assembled public data, intelligent submission prioritization, and source-linked summaries.",
+    "url": "https://pibit.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "How HDVI cut submission preparation time dramatically with Pibit Underwriting Platform.",
+    "url": "https://pibit.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Rating and Pricing | Pibit AI",
+    "url": "https://pibit.ai/rating-and-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Rate. Price. Analyze.",
+    "url": "https://pibit.ai/rating-and-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Rater-ready, pre-filled, and priced submissions, integrated with your rating engines.",
+    "url": "https://pibit.ai/rating-and-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Take quality underwriting to its desired output with every piece across rating, pricing, and quoting integrated directly with your rating engines for you to act instantly within your existing systems.",
+    "url": "https://pibit.ai/rating-and-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Leverage a single flow from unstructured data to pricing",
+    "url": "https://pibit.ai/rating-and-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "See pricing and profitability signals alongside the quote.",
+    "url": "https://pibit.ai/rating-and-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-fill carrier submission and rating portals by template match or API without rekeying.",
+    "url": "https://pibit.ai/rating-and-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Build and compare price and profitability across scenarios in one view.",
+    "url": "https://pibit.ai/rating-and-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Give leadership clearer visibility into pricing consistency and rating quality.",
+    "url": "https://pibit.ai/rating-and-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Optimizing loss run processing: HDVI's journey with Pibit.AI",
+    "url": "https://pibit.ai/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how HDVI cut loss run processing from One day to One hour with Pibit.ai, improving underwriting accuracy and speed.",
+    "url": "https://pibit.ai/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how Kinetic improved underwriting with Pibit.AI's AI-driven loss run automation, saving 25% review time.",
+    "url": "https://pibit.ai/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Is manual loss-run processing slowing you down? Shepherd Insurance partnered with Pibit.ai for faster, more accurate loss run analysis.",
+    "url": "https://pibit.ai/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Our mission is to enable commercial carriers and MGAs to underwrite more profitable business. As an outcome-first company, we take an end-to-end, solution-driven approach. We blend prudence with audacity to create enterprise-grade systems built with care, ethics, and resilience, striving to bring utmost autonomy to the insurance industry.",
+    "url": "https://pibit.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Velocity with precision",
+    "url": "https://pibit.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive salary packages and equity options for every team member — because we believe in rewarding exceptional talent.",
+    "url": "https://pibit.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Professional development",
+    "url": "https://pibit.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Remote-first culture with flexible working hours. Balance your professional and personal life seamlessly.",
+    "url": "https://pibit.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We offer more than a job we provide a platform for innovation and personal growth",
+    "url": "https://pibit.ai/career",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive health coverage",
+    "url": "https://pibit.ai/career",
+    "pass": 1
+   },
+   {
+    "quote": "Choose where you're most productive.",
+    "url": "https://pibit.ai/career",
+    "pass": 1
+   },
+   {
+    "quote": "*Benefits and programs vary by role, region, office, and other factors. Temporary or part-time firm members will not be eligible for some of these benefits. These benefit and program offerings are subject to change at the firm's discretion. Additionally, certain benefits and eligibility to receive them may be determined by a third party under the terms of a group benefits plan.",
+    "url": "https://pibit.ai/career",
+    "pass": 1
+   },
+   {
+    "quote": "As an ML intern, I got to work on real-world problems that impact the insurance ecosystem. People take the time to guide you while also trusting you to own your work.",
+    "url": "https://pibit.ai/career",
+    "pass": 1
+   },
+   {
+    "quote": "Your numbers on cycle-time compression, hit ratio, and underwriter throughput",
+    "url": "https://pibit.ai/request-a-demo",
+    "pass": 1
+   },
+   {
+    "quote": "A concrete path to a pilot that proves ROI in 30 to 90 days",
+    "url": "https://pibit.ai/request-a-demo",
+    "pass": 1
+   },
+   {
+    "quote": "Integrating Pibit Underwriting Platform has improved our submission process and helped our team move from support work to true underwriting.",
+    "url": "https://pibit.ai/request-a-demo",
+    "pass": 1
+   },
+   {
+    "quote": "Deploying the Pibit underwriting platform gave our underwriters immediate power on our larger, more complex accounts that fall outside our straight-through portal, instantly surfacing automated completeness checks, pre-assembled public data, intelligent submission prioritization, and source-linked summaries.",
+    "url": "https://pibit.ai/request-a-demo",
+    "pass": 1
+   },
+   {
+    "quote": "How HDVI cut submission preparation time dramatically with CURE™",
+    "url": "https://www.casestudies.com/company/pibit-ai",
+    "pass": 3
+   },
+   {
+    "quote": "How Kinetic improved underwriting with Pibit.AI's AI-driven loss run automation, saving 25% review time",
+    "url": "https://www.casestudies.com/company/pibit-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Convr (formerly DataCubes) is the leading underwriting decisioning platform for commercial P&C insurers.The company has revolutionized the commercial underwriting process with cutting-edge AI and decision science. Commercial carriers of all …",
+    "url": "https://www.featuredcustomers.com/vendor/pibit-ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Let potential prospects find you on the world's only",
+    "url": "https://www.featuredcustomers.com/vendor/pibit-ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/pibit-ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "FREE and learn about our upgraded profile options to",
+    "url": "https://www.featuredcustomers.com/vendor/pibit-ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "unlock all of your customer references for prospects",
+    "url": "https://www.featuredcustomers.com/vendor/pibit-ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/pibit-ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Natural Language Processing (NLP) Software",
+    "url": "https://getlatka.com/companies/pibit.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Property & Casualty Policy Administration Systems",
+    "url": "https://getlatka.com/companies/pibit.ai",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Identify and check each attachment at arrival for completeness and trigger broker requests for missing items.",
+    "url": "https://pibit.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Handle every commercial document, any carrier, broker, template or format, across every line, loss runs, ACORDs, MVRs, SOVs, ExMods, IFTAs and more.",
+    "url": "https://pibit.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "(a subsidiary of Cake Insure, Inc., a Pinnacol Assurance company)",
+    "url": "https://pibit.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Pibit.AI increased our underwriting efficiency by processing every carrier format loss run seamlessly, including complex cases. A must for any MGAs.",
+    "url": "https://pibit.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Pibit.AI delivered exactly what we needed—a carrier-agnostic solution. The advanced reporting features significantly enhanced our underwriting efficiency.",
+    "url": "https://pibit.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-fill carrier submission and rating portals by template match or API without rekeying.",
+    "url": "https://pibit.ai/rating-and-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Our mission is to enable commercial carriers and MGAs to underwrite more profitable business. As an outcome-first company, we take an end-to-end, solution-driven approach. We blend prudence with audacity to create enterprise-grade systems built with care, ethics, and resilience, striving to bring utmost autonomy to the insurance industry.",
+    "url": "https://pibit.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Being part of the underwriting team is empowering. We're blending AI with human expertise to make smarter, faster insurance decisions, and seeing that innovation in action is incredibly rewarding.",
+    "url": "https://pibit.ai/career",
+    "pass": 1
+   },
+   {
+    "quote": "(a subsidiary of Cake Insure, Inc., a Pinnacol Assurance company)",
+    "url": "https://pibit.ai/request-a-demo",
+    "pass": 1
+   },
+   {
+    "quote": "Convr (formerly DataCubes) is the leading underwriting decisioning platform for commercial P&C insurers.The company has revolutionized the commercial underwriting process with cutting-edge AI and decision science. Commercial carriers of all …",
+    "url": "https://www.featuredcustomers.com/vendor/pibit-ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/pibit-ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Pibit.ai Revenue 2024: $9.8M Est.",
+    "url": "https://getlatka.com/companies/pibit.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Pibit.ai has not published its revenue. GetLatka estimates it at about $9.8M a year (December 2024).",
+    "url": "https://getlatka.com/companies/pibit.ai",
+    "pass": 3
+   },
+   {
+    "quote": "All 2 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/pibit.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Pibit.ai CEO, founders & employees",
+    "url": "https://getlatka.com/companies/pibit.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Akash Agarwal founded Pibit.ai in 2020 and runs it as CEO. Pibit.ai had 63 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/pibit.ai",
+    "pass": 3
+   },
+   {
+    "quote": "What is Pibit.ai's revenue?",
+    "url": "https://getlatka.com/companies/pibit.ai",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Pibit.ai's revenue at about",
+    "url": "https://getlatka.com/companies/pibit.ai",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Pibit.ai have?",
+    "url": "https://getlatka.com/companies/pibit.ai",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/pibit.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/pibit.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/pibit.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/pibit.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of a commercial underwriting platform designed to streamline risk assessment for carriers and managing general agents.",
+    "url": "https://pitchbook.com/profiles/company/459356-59",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of a commercial underwriting platform designed to streamline risk assessment for carriers and managing general agents. The company offers a centralized underwriting environment that automates intake, triage, and data enrichment while surfacing risk insights, enabling insurance professionals to accelerate decision-making, improve underwriting efficiency, and reduce loss ratios.",
+    "url": "https://pitchbook.com/profiles/company/459356-59",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/459356-59",
+    "pass": 3
+   },
+   {
+    "quote": "Pibit AI has 125 total employees.",
+    "url": "https://pitchbook.com/profiles/company/459356-59",
+    "pass": 3
+   },
+   {
+    "quote": "What is Pibit AI’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/459356-59",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Pibit AI is",
+    "url": "https://pitchbook.com/profiles/company/459356-59",
+    "pass": 3
+   },
+   {
+    "quote": "Arena applies predictive analytics and machine learning to talent acquisition challenges.",
+    "url": "https://fundediq.co/pibit-pibit-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Pibit have?",
+    "url": "https://fundediq.co/pibit-pibit-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/pibit-pibit-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/pibit-pibit-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Integrate all submission sources from emails to agent portals to CRMs to core systems directly into one structured record, including merging capabilities for duplicate submissions to avoid redundancy.",
+    "url": "https://pibit.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/pibit-ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/pibit-ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/459356-59",
+    "pass": 3
+   },
+   {
+    "quote": "Contact details for the Pibit team: 2 of 2 have an email address on file, 1 has a LinkedIn profile.",
+    "url": "https://fundediq.co/pibit-pibit-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/pibit-pibit-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Pibit AI | The AI Underwriting OS — Unify any or all pieces of the underwriting continuum from submission to bind with the Pibit underwriting platform to increase hit ratio by 20% and throughput by 2x while reducing time to quote by 70%. Every submission cleaned, completed and in appetite, before it reaches an underwriter.",
+    "url": "https://pibit.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "AULOS Pibit C-21 Fife Flute Practice Model ABS Resin Soft ... — Jul 19, 2026 · Seller proactively kept me informed throughout a brief shipping delay due to a major holiday in Japan, and I received my lovely baroque flute promptly, new in original factory packaging as advertised, and for much less than the cost of ordering from a US distributor.",
+    "url": "https://www.ebay.com/itm/377200208694",
+    "pass": 3
+   },
+   {
+    "quote": "Underwriting Intelligence Platform | Pibit AI — Decision-ready risk insights from every submission, with full provenance. Pibit.AI gives underwriters the data they need to bind better business, faster.",
+    "url": "https://pibit.ai/solutions/underwriting-intelligence",
+    "pass": 3
+   },
+   {
+    "quote": "Pibit's Official Web App — pibit.ai testing interface",
+    "url": "https://platform.pibit.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Resource Library | Pibit.AI Brochures & Case Studies — Download Pibit.AI's CURE product brochures and customer case studies — ClearCURE, DocumentCURE, ResearchCURE, RiskCURE and WorkflowCURE — all in one place.",
+    "url": "https://pibit.ai/resources/repository",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial Underwriting Case Studies | Pibit.AI — See how carriers and MGAs cut time to quote, scale capacity, and improve loss ratios with Pibit.AI.",
+    "url": "https://pibit.ai/case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Pibit AI B2B Case Studies & Customer Successes — See how Pibit AI solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/pibit-ai",
+    "pass": 3
+   },
+   {
+    "quote": "7 Pibit AI Case Studies, Success Stories, & Customer Stories — Discover how other companies use Pibit AI, get inspired, and find ways to improve your business.",
+    "url": "https://www.featuredcustomers.com/vendor/pibit-ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Pibit AI Case Study: KINETIC – How Kinetic improved ... — KINETIC (Information Technology and Services) partnered with Pibit AI (Insurance) to solve key challenges. \"How Kinetic improved underwriting with Pibit.AI's AI-driven loss run automation, saving 25% review time\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/pibit-ai/case-study/how-kinetic-improved-underwriting-with-pibitais-ai-driven-loss-run-automation-saving-25-review-time",
+    "pass": 3
+   },
+   {
+    "quote": "Pibit AI - 2026 Company Profile, Team, Funding, Competitors ... — Jul 3, 2026 · Explore Pibit AI's in-depth company profile, including funding details, key investors, leadership, competitors, and shareholding structure.",
+    "url": "https://tracxn.com/d/companies/pibit-ai/__mny8oReMIkktDIHtJcmpOIEZ7PfogMtbdAkt6e3pg4Q",
+    "pass": 3
+   },
+   {
+    "quote": "Pibit.ai Revenue 2024: $9.8M Est. - getlatka.com — Oct 30, 2026 · Pibit.ai is an Underwriting & Rating Software company based in Palo Alto, founded in 2020.",
+    "url": "https://getlatka.com/companies/pibit.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Pibit AI 2026 Company Profile: Valuation, Funding & Investors ...Pibit: Funding, Investors & Team (Nov 2026) | FundedIQPibit.AI: funding rounds, valuation, investors and revenuePibit AI - 2026 Company Profile, Funding & Investors | The ...Akash Agarwal - Founder & CEO, Pibit.AI | YesPress — Information on valuation, funding, cap tables, investors, and executives for Pibit AI. Use the PitchBook Pla",
+    "url": "https://pitchbook.com/profiles/company/459356-59",
+    "pass": 3
+   },
+   {
+    "quote": "Pibit: Funding, Investors & Team (Nov 2026) | FundedIQ — Pibit's most recent funding round on record is a Series A of $7.0M, announced in Nov 2025. Who founded Pibit? FundedIQ lists Akash Agarwal (Founder) at Pibit. Where is Pibit headquartered? Pibit is based in Palo Alto, United States. How many employees does Pibit have? Pibit is in the 51-100 employee band.",
+    "url": "https://fundediq.co/pibit-pibit-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Pibit.AI: funding rounds, valuation, investors and revenue — The company has raised approximately $7.5 million in funding and is backed by prominent investors, including Y Combinator. With a growing team of experts, Pibit.AI is positioned to drive innovation in the insurance sector.",
+    "url": "https://ai.lounge.ai/companies/pibit-ai",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/pibit-ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Varda is a startup company in the field of space manufacturing that specializes in producing products in…",
+    "url": "https://fundediq.co/pibit-pibit-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Pibit.ai (@Pibit_ai) / X Pibit AI drives submissions into decisions for carriers and MGAs through its agentic underwriting services-enabled CURE platform.",
+    "url": "https://x.com/Pibit_ai",
+    "pass": 3
+   },
+   {
+    "quote": "Congratulations to everyone! PIBIT LTD (Pi Network) has ... Congratulations to everyone! 🔥 PIBIT LTD (Pi Network) has been officially registered within the European ESMA, and also appears under MFSA, with full approval and activation.",
+    "url": "https://x.com/PiNetwork_info/status/1998532353661219056",
+    "pass": 3
+   },
+   {
+    "quote": "PiBit (@MrPiBit) / X @MrPiBit Sep 13, 2015 @ enikos celebitchy.com/wp-content/upl… απλά γελοίοι PiBit @MrPiBit Sep 3, 2015",
+    "url": "https://x.com/MrPiBit",
+    "pass": 3
+   },
+   {
+    "quote": ".@Pibit_ai raises $7 million in a Series A, led by @Stellaris ... Pibit_ai raises $7 million in a Series A, led by @Stellaris_VP & supported by @ycombinator & #AraliVentures. Capital will be used to scale the firm’s underwriting platform, Cure.",
+    "url": "https://x.com/CNBCTV18News/status/1991871979633430889",
+    "pass": 3
+   },
+   {
+    "quote": "Reposts by BitPi (@pibit_) / X @pibit_ Fight for goals Joined February 2021 942Following 79Followers Mention Follow RepliesRepostsRepostsMediaMedia BitPi reposted PIN AI @pinai_io Sep 9, 2024",
+    "url": "https://x.com/pibit_/reposts",
+    "pass": 3
+   },
+   {
+    "quote": "BitPi (@pibit_) / X Find out what it has in common with Jujutsu Kaisen in $ MON 's upcoming X Spaces 👀 Its teaser got 3M+ views in two weeks and a shoutout from the YouTube CEO 🔥 Watch here 📺 youtu.be/RFWYnF0rJYU",
+    "url": "https://x.com/pibit_",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Pibit.AI | LinkedIn Pibit is the AI Underwriting OS for commercial, specialty and E&S insurance. Its AI agents run underwriting from submission to quote, so your underwriters spend their time only on decisions and...",
+    "url": "https://in.linkedin.com/company/pibitai",
+    "pass": 3
+   },
+   {
+    "quote": "Pibit.AI - LinkedIn Pibit is the AI Underwriting OS for commercial, specialty and E&S insurance. Its AI agents run underwriting from submission to quote, so your underwriters spend their time only on decisions and...",
+    "url": "https://www.linkedin.com/company/pibitai",
+    "pass": 3
+   },
+   {
+    "quote": "Akash Agarwal - Founder & CEO, Pibit | The AI ... I'm the founder and CEO of Pibit, the AI Underwriting OS for Commercial, Specialty & E&S insurance. Our mission is to bring autonomy to underwriting, so underwriters spend their time only on the...",
+    "url": "https://www.linkedin.com/in/akash-ak-agarwal",
+    "pass": 3
+   },
+   {
+    "quote": "Aparna S. - Founding People Architect at Pibit.AI | Culture ...Pibit - LinkedInIshan Kankane - Pibit.ai | LinkedInShail Singla - Building Pibit.ai | Enabling commercial ... I was the first People hire at Pibit.AI. Today, I'm building People at a fast-scaling insurtech building the underwriting infrastructure for commercial P&C carriers and MGAs across the US. Pibit Technology, Information and Inte",
+    "url": "https://in.linkedin.com/in/aparna-s-7235431a6",
+    "pass": 3
+   },
+   {
+    "quote": "yoshihito kita - 株式会社NOTE - 代表取締役社長 | LinkedIn加藤貞顕氏の経歴｜noteの歴代社長（2011年〜現任）加藤貞顕 - WikipediaAkash Agarwal - Founder & CEO, Pibit | The AI ...note 役員一覧 | 取締役7名の経歴と選任賛成比率note【5243】の社長・役員- キタイシホン 株式会社NOTE - 代表取締役社長 · 職歴: 株式会社NOTE · 場所: 大阪。 10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInでyoshihito kitaさんのプロフィールを閲覧しましょう。 Oct 26, 2026 · 2011年12月、デジタルコンテンツを配信するプラットフォームの開発・運営を目的に、ピースオブケイク（現note）が東京都渋谷区で設立された。 加藤氏は設",
+    "url": "https://jp.linkedin.com/in/yoshihito-kita-625852100",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Pibit - Facebook Pibit is on Facebook. Join Facebook to connect with Pibit and others you may know. Facebook gives people the power to share and makes the world more open...",
+    "url": "https://www.facebook.com/pibit.pibit/",
+    "pass": 3
+   },
+   {
+    "quote": "Pibit | Amsterdam - FacebookPibit Albit (@pibit.albit) • Facebook, Connect with friendsPibit | Karachi - FacebookFacebookWTF is PiBIT? Pilates Based Interval Training is a system of ...Insurtech Pibit .AI Raises $7M... - Entrepreneur India ... Pibit We are a global software and consulting firm specialised in websites, apps, data science and voice automation. Pibit Albit is on Facebook. Join Facebo",
+    "url": "https://www.facebook.com/PibitSoftware/",
+    "pass": 3
+   },
+   {
+    "quote": "Pibit Albit (@pibit.albit) • Facebook, Connect with friends Pibit Albit is on Facebook. Join Facebook to connect with Pibit Albit and others you may know. Facebook gives people the power to share and makes the...",
+    "url": "https://www.facebook.com/pibit.albit/",
+    "pass": 3
+   },
+   {
+    "quote": "Pibit | Karachi - Facebook Nov 13, 2024 · Pibit, Karachi, Pakistan. At Pibit, we design and build stunning websites that elevate your business. From design and build to functionality and...",
+    "url": "https://www.facebook.com/pibit.co/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://pibit.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pibit.ai/rating-and-pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pibit.ai/case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pibit.ai/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pibit.ai/career",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pibit.ai/request-a-demo",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/690b3316f357155705562e68/69160ec0e224d40192d8c038_image%20(59).avif",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pipitlinq.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ipsen.com/japan/%E4%BC%9A%E7%A4%BE/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttdata.com/jp/ja/lineup/pipitlinq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ebay.com/itm/377200208694",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/@JAPANPIVOT",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.casestudies.com/company/pibit-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/pibit-ai/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/pibit-ai/__mny8oReMIkktDIHtJcmpOIEZ7PfogMtbdAkt6e3pg4Q",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/pibit.ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/459356-59",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fundediq.co/pibit-pibit-ai-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Pibit_ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/PiNetwork_info/status/1998532353661219056",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MrPiBit",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/CNBCTV18News/status/1991871979633430889",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/pibitai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/pibitai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/akash-ak-agarwal",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/aparna-s-7235431a6",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pibit.pibit/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/PibitSoftware/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pibit.albit/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pibit.co/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/yoshihito-kita-625852100",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/akash-ak-agarwal",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/pibit_/reposts",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/pibit_",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Pibit 日本 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Pibit 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://pipitlinq.jp/",
+    "https://www.ipsen.com/japan/会社/",
+    "https://www.nttdata.com/jp/ja/lineup/pipitlinq/",
+    "https://www.aon.com/japan/company-overview",
+    "https://www.galderma.com/jp-jp/japan",
+    "https://www.capgemini.com/jp-jp/about-us/overview-and-access/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pibit Japan",
+   "results": [
+    "https://pibit.ai/",
+    "https://www.ebay.com/itm/377200208694",
+    "https://www.youtube.com/@JAPANPIVOT",
+    "https://pibit.ai/solutions/underwriting-intelligence",
+    "https://platform.pibit.ai/",
+    "https://www.ebay.co.uk/itm/377200208694",
+    "https://pibit.ai/newsroom"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pibit manufacturing customer case study",
+   "results": [
+    "https://pibit.ai/resources/repository",
+    "https://pibit.ai/case-study",
+    "https://www.casestudies.com/company/pibit-ai",
+    "https://www.featuredcustomers.com/vendor/pibit-ai/case-studies",
+    "https://www.casestudies.com/company/pibit-ai/case-study/how-kinetic-improved-underwriting-with-pibitais-ai-driven-loss-run-automation-saving-25-review-time",
+    "https://www.rinchem.com/manufacturing-interruption-case-study/",
+    "https://www.featuredcustomers.com/vendor/pibit-ai"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pibit white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://www.seoreseller.com/",
+    "https://www.resellercluster.com/",
+    "https://www.databricks.com/partners/partner-program",
+    "https://www.upcounsel.com/reseller-agreement"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pibit founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/pibit-ai/__mny8oReMIkktDIHtJcmpOIEZ7PfogMtbdAkt6e3pg4Q",
+    "https://getlatka.com/companies/pibit.ai",
+    "https://pitchbook.com/profiles/company/459356-59",
+    "https://fundediq.co/pibit-pibit-ai-funding/",
+    "https://ai.lounge.ai/companies/pibit-ai",
+    "https://www.thecompanycheck.com/company/b/pibit-ai/3lry1kmaycqhnznr8",
+    "https://yespress.io/akash-agarwal"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Pibit",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/kanimayo_note/n/n3218d065a681",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/c8c/n/n1cb28c4fe933",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Pibit",
+   "results": [
+    "https://x.com/Pibit_ai",
+    "https://x.com/PiNetwork_info/status/1998532353661219056",
+    "https://x.com/MrPiBit",
+    "https://x.com/CNBCTV18News/status/1991871979633430889",
+    "https://x.com/pibit_",
+    "https://x.com/BSCNews/status/2086831547852955872",
+    "https://x.com/akash29196"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Pibit",
+   "results": [
+    "https://in.linkedin.com/company/pibitai",
+    "https://www.linkedin.com/company/pibitai",
+    "https://www.linkedin.com/in/akash-ak-agarwal",
+    "https://in.linkedin.com/in/aparna-s-7235431a6",
+    "https://www.linkedin.com/company/pibit-software/",
+    "https://www.linkedin.com/in/ishan-kankane",
+    "https://www.linkedin.com/in/shailsingla"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Pibit",
+   "results": [
+    "https://www.facebook.com/pibit.pibit/",
+    "https://www.facebook.com/PibitSoftware/",
+    "https://www.facebook.com/pibit.albit/",
+    "https://www.facebook.com/pibit.co/",
+    "https://www.facebook.com/pibit.in",
+    "https://www.facebook.com/pilateshabitatnyc/videos/wtf-is-pibit-pilates-based-interval-training-is-a-system-of-training-for-longevi/873491512248396/",
+    "https://www.facebook.com/EntrepreneurInd/posts/-insurtech-pibit-ai-raises-7m-series-a-for-underwriting-innovationinsurtech-comp/1155201963412843/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pibit note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://jp.linkedin.com/in/yoshihito-kita-625852100",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://www.linkedin.com/in/akash-ak-agarwal",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://note.com/popbits"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pibit X 投稿",
+   "results": [
+    "https://x.com/pibit_/reposts",
+    "https://platform.pibit.ai/",
+    "https://x.com/pibit_",
+    "https://www.pixiv.help/hc/ja/articles/8130639964057-マンガ-イラストをXにリプライツリー形式で投稿したい",
+    "https://fitly.pics/blog/x-twitter-post-tips",
+    "https://dounats.com/column/twitter-manga-imagesize/",
+    "https://help.x.com/ja/using-x/how-to-post"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部32頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部32頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部32頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部32頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部32頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部32頁・検索12回）"
+ }
+}

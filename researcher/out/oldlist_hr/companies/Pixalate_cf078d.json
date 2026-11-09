@@ -1,0 +1,1197 @@
+{
+ "name": "Pixalate",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜リマイン1",
+ "researched_at": "2026-11-09T22:37:13.806936+00:00",
+ "official_url": "https://www.pixalate.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$4.8M",
+    "url": "https://getlatka.com/companies/pixalate",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Pixalate - Ad Fraud Protection, Privacy, and Compliance Platform (CTV)",
+    "url": "https://www.pixalate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "OpenEPG DB™ 1.0 & Pre-Bid API",
+    "url": "https://www.pixalate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Independent SDK ratings for App Developers based on source code analysis designed to identify undisclosed data collection practices",
+    "url": "https://www.pixalate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Programmatic’s First CTV Show-Level Rankings",
+    "url": "https://www.pixalate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Protecting Children’s Online Privacy",
+    "url": "https://www.pixalate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time authentication of CTV Bundle IDs in programmatic bid requests",
+    "url": "https://www.pixalate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Made for Advertising (MFA)",
+    "url": "https://www.pixalate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "fraud protection, privacy, and compliance analytics platform for",
+    "url": "https://www.pixalate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pixalate Releases September 2026 Streaming TV Rankings: Scripted Crime Drives CTV Programmatic Ad Spend While National News Dominates Mobile",
+    "url": "https://www.pixalate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See publisher quality and privacy compliance data across Connected TV, Mobile Apps and websites",
+    "url": "https://www.pixalate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pixalate's Publisher Trust Indexes provide 200+ unique Pixalate Top 100™ rankings for Connected TV (CTV) and Mobile apps based on Pixalate’s analysis of over 5 million apps and 35+ app categories across the Google, Apple, Roku, and Amazon app stores.",
+    "url": "https://www.pixalate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The programmatic supply chain poses a significant trust and safety issue for both ad buyers and sellers. Pixalate provides the data and insights across",
+    "url": "https://www.pixalate.com/",
+    "pass": 1
+   },
+   {
+    "quote": ", and Websites for privacy, compliance, risk, rankings, and more to bring transparency, quality, and trust to the open web.",
+    "url": "https://www.pixalate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our Media Ratings Terminal Discovery tool sheds light on millions of web properties, analyzing 2 Trillion data points a month across Connected TV (CTV), Mobile Apps, and Websites, providing privacy, compliance, risk, app details, traffic, brand safety, and more to bring transparency, quality, and trust to the open web.",
+    "url": "https://www.pixalate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pixalate’s pre-bid Blocking is the only solution that prevents invalid traffic (IVT) across Connected TV (CTV), Mobile Apps, and Websites from 5+ million apps, 80 million domains, and 300+ million OTT devices. You execute confidently as we block over 46 types of IVT to give you full protection.",
+    "url": "https://www.pixalate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We love our customers and are proud to partner with leaders across programmatic advertising.",
+    "url": "https://www.pixalate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "As ad spend on channels like CTV grows by leaps and bounds, advertisers need greater transparency into their programmatic buys. At Yahoo, trust and transparency are paramount, and insights like Pixalate’s new CTV and mobile app ratings help drive further visibility into the programmatic ad supply chain.",
+    "url": "https://www.pixalate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President, Global Partnerships at Yahoo",
+    "url": "https://www.pixalate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Business Development, LinkedIn Marketing Solutions",
+    "url": "https://www.pixalate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The first step in ad fraud prevention.",
+    "url": "https://www.pixalate.com/",
+    "pass": 1
+   },
+   {
+    "quote": ", a global platform for ad fraud prevention, privacy compliance and supply chain data intelligence, to strengthen invalid traffic screening across its mobile in-app supply.",
+    "url": "https://www.pixalate.com/blog/gravite-partners-with-pixalate-to-raise-the-bar-on-mobile-ad-supply-quality?hsLang=en",
+    "pass": 1
+   },
+   {
+    "quote": "Since March 2026, Gravite has integrated Pixalate’s data into its daily operations, combining pre-bid filtering with ongoing traffic quality analysis to identify and address invalid traffic across its supply.",
+    "url": "https://www.pixalate.com/blog/gravite-partners-with-pixalate-to-raise-the-bar-on-mobile-ad-supply-quality?hsLang=en",
+    "pass": 1
+   },
+   {
+    "quote": "Pixalate Analytics helps Gravite assess traffic quality across its supply, identify problematic sources and take corrective action.",
+    "url": "https://www.pixalate.com/blog/gravite-partners-with-pixalate-to-raise-the-bar-on-mobile-ad-supply-quality?hsLang=en",
+    "pass": 1
+   },
+   {
+    "quote": "For demand-side platforms (DSPs), this approach adds a layer of ongoing quality control beyond initial supply onboarding.",
+    "url": "https://www.pixalate.com/blog/gravite-partners-with-pixalate-to-raise-the-bar-on-mobile-ad-supply-quality?hsLang=en",
+    "pass": 1
+   },
+   {
+    "quote": "Pixalate Unveils Ad Fraud 'Clawback Warnings' Across 17.5M+ Programmatic Publishers to Equip SSP Inventory Quality Teams for Publisher Screening & Due Diligence",
+    "url": "https://www.pixalate.com/blog/gravite-partners-with-pixalate-to-raise-the-bar-on-mobile-ad-supply-quality?hsLang=en",
+    "pass": 1
+   },
+   {
+    "quote": "The first step in ad fraud prevention.",
+    "url": "https://www.pixalate.com/blog/gravite-partners-with-pixalate-to-raise-the-bar-on-mobile-ad-supply-quality?hsLang=en",
+    "pass": 1
+   },
+   {
+    "quote": "Pixalate is the first and only data platform with a comprehensive suite of products specifically built to bring transparency to programmatic advertising providing insights to optimize performance, benchmark supply quality, and eliminate fraud across Connected TV (CTV), Mobile Apps, and Websites.",
+    "url": "https://www.pixalate.com/jobs?hsLang=en",
+    "pass": 1
+   },
+   {
+    "quote": "profile for more background, or get in touch.",
+    "url": "https://www.pixalate.com/jobs?hsLang=en",
+    "pass": 1
+   },
+   {
+    "quote": "The first step in ad fraud prevention.",
+    "url": "https://www.pixalate.com/jobs?hsLang=en",
+    "pass": 1
+   },
+   {
+    "quote": "Pixalate is the first and only data platform with a comprehensive suite of products specifically built to bring transparency to programmatic advertising providing insights to optimize performance, benchmark supply quality, and eliminate fraud across Connected TV (CTV), Mobile Apps, and Websites.",
+    "url": "https://www.pixalate.com/jobs",
+    "pass": 1
+   },
+   {
+    "quote": "profile for more background, or get in touch.",
+    "url": "https://www.pixalate.com/jobs",
+    "pass": 1
+   },
+   {
+    "quote": "The first step in ad fraud prevention.",
+    "url": "https://www.pixalate.com/jobs",
+    "pass": 1
+   },
+   {
+    "quote": "意図せぬコンプライアンス違反を未然に防ぐ日立システムズのソリューション​【PR】",
+    "url": "https://media-innovation.jp/special/5252/recent/Pixalate",
+    "pass": 3
+   },
+   {
+    "quote": "・Prebid.js技術を活用したファーストパーティデータの広告配信…",
+    "url": "https://media-innovation.jp/article/2024/09/26/141772.html",
+    "pass": 3
+   },
+   {
+    "quote": "DoubleVerify is a leading software platform for digital media measurement and analytics. Their mission is to make the digital advertising ecosystem stronger, safer and more secure, thereby preserving the fair …",
+    "url": "https://www.featuredcustomers.com/vendor/pixalate/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Integral Ad Science is a global leader in digital media quality, ensuring that ads are viewable by real people in safe and suitable environments. IAS makes every impression count, ensuring …",
+    "url": "https://www.featuredcustomers.com/vendor/pixalate/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "CHEQ is the leading solution in the world for Go-to-Market organizations looking to secure their business from invalid traffic (IVT). CHEQ is bringing cybersecurity solutions to CMOs and Marketing teams, …",
+    "url": "https://www.featuredcustomers.com/vendor/pixalate/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Let potential prospects find you on the world's only",
+    "url": "https://www.featuredcustomers.com/vendor/pixalate/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/pixalate/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "FREE and learn about our upgraded profile options to",
+    "url": "https://www.featuredcustomers.com/vendor/pixalate/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "unlock all of your customer references for prospects",
+    "url": "https://www.featuredcustomers.com/vendor/pixalate/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/pixalate/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Pixalate Case Study: Primis – Primis - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/pixalate/case-study/primis-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Primis - Customer Case Study",
+    "url": "https://www.casestudies.com/company/pixalate/case-study/primis-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Primis used Pixalate",
+    "url": "https://www.casestudies.com/company/pixalate/case-study/primis-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Pixalate 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/58172-05",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/58172-05",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of a data analytics platform designed to bring transparency to programmatic advertising.",
+    "url": "https://pitchbook.com/profiles/company/58172-05",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of a data analytics platform designed to bring transparency to programmatic advertising. The company offers real-time campaign tracking, optimization, reporting, and predictive fraud blocking services, enabling clients to have a suite of real-time fraud protection, market intelligence, and independent quality ratings across devices and channels.",
+    "url": "https://pitchbook.com/profiles/company/58172-05",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/58172-05",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/58172-05",
+    "pass": 3
+   },
+   {
+    "quote": "12-Apr-2020",
+    "url": "https://pitchbook.com/profiles/company/58172-05",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/58172-05",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/58172-05",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of a data analytics platform designed to bring transparency to programmatic advertising. The company offers re",
+    "url": "https://pitchbook.com/profiles/company/58172-05",
+    "pass": 3
+   },
+   {
+    "quote": "Private Equity-Backed",
+    "url": "https://pitchbook.com/profiles/company/58172-05",
+    "pass": 3
+   },
+   {
+    "quote": "Systems and methods for determining children's privacy risk of an application",
+    "url": "https://pitchbook.com/profiles/company/58172-05",
+    "pass": 3
+   },
+   {
+    "quote": "Systems and methods for determining childrens privacy risk of an application",
+    "url": "https://pitchbook.com/profiles/company/58172-05",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/58172-05",
+    "pass": 3
+   },
+   {
+    "quote": "Pixalate’s primary industry is Business/Productivity Software.",
+    "url": "https://pitchbook.com/profiles/company/58172-05",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Match your brand style with custom colors, fonts, and many other cool settings that will make your website look amazingly beautiful and unique.",
+    "url": "https://www.pixalate.com/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "By entering your email address and clicking Subscribe, you are agreeing to our",
+    "url": "https://www.pixalate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "*By clicking Download and entering your email address, you are agreeing to our",
+    "url": "https://www.pixalate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "By entering your email address and clicking Submit, you are agreeing to our",
+    "url": "https://www.pixalate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Contact Us12",
+    "url": "https://www.pixalate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "By entering your email address and clicking Submit, you are agreeing to",
+    "url": "https://www.pixalate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "*By entering your email address and clicking Subscribe, you are agreeing to our",
+    "url": "https://www.pixalate.com/blog/gravite-partners-with-pixalate-to-raise-the-bar-on-mobile-ad-supply-quality?hsLang=en",
+    "pass": 1
+   },
+   {
+    "quote": "By entering your email address and clicking Subscribe, you are agreeing to our",
+    "url": "https://www.pixalate.com/blog/gravite-partners-with-pixalate-to-raise-the-bar-on-mobile-ad-supply-quality?hsLang=en",
+    "pass": 1
+   },
+   {
+    "quote": "*By clicking Download and entering your email address, you are agreeing to our",
+    "url": "https://www.pixalate.com/blog/gravite-partners-with-pixalate-to-raise-the-bar-on-mobile-ad-supply-quality?hsLang=en",
+    "pass": 1
+   },
+   {
+    "quote": "By entering your email address and clicking Submit, you are agreeing to our",
+    "url": "https://www.pixalate.com/blog/gravite-partners-with-pixalate-to-raise-the-bar-on-mobile-ad-supply-quality?hsLang=en",
+    "pass": 1
+   },
+   {
+    "quote": "Contact Us12",
+    "url": "https://www.pixalate.com/blog/gravite-partners-with-pixalate-to-raise-the-bar-on-mobile-ad-supply-quality?hsLang=en",
+    "pass": 1
+   },
+   {
+    "quote": "By entering your email address and clicking Submit, you are agreeing to",
+    "url": "https://www.pixalate.com/blog/gravite-partners-with-pixalate-to-raise-the-bar-on-mobile-ad-supply-quality?hsLang=en",
+    "pass": 1
+   },
+   {
+    "quote": "By entering your email address and clicking Subscribe, you are agreeing to our",
+    "url": "https://www.pixalate.com/jobs?hsLang=en",
+    "pass": 1
+   },
+   {
+    "quote": "*By clicking Download and entering your email address, you are agreeing to our",
+    "url": "https://www.pixalate.com/jobs?hsLang=en",
+    "pass": 1
+   },
+   {
+    "quote": "By entering your email address and clicking Submit, you are agreeing to our",
+    "url": "https://www.pixalate.com/jobs?hsLang=en",
+    "pass": 1
+   },
+   {
+    "quote": "Contact Us12",
+    "url": "https://www.pixalate.com/jobs?hsLang=en",
+    "pass": 1
+   },
+   {
+    "quote": "By entering your email address and clicking Submit, you are agreeing to",
+    "url": "https://www.pixalate.com/jobs?hsLang=en",
+    "pass": 1
+   },
+   {
+    "quote": "By entering your email address and clicking Subscribe, you are agreeing to our",
+    "url": "https://www.pixalate.com/jobs",
+    "pass": 1
+   },
+   {
+    "quote": "*By clicking Download and entering your email address, you are agreeing to our",
+    "url": "https://www.pixalate.com/jobs",
+    "pass": 1
+   },
+   {
+    "quote": "By entering your email address and clicking Submit, you are agreeing to our",
+    "url": "https://www.pixalate.com/jobs",
+    "pass": 1
+   },
+   {
+    "quote": "Contact Us12",
+    "url": "https://www.pixalate.com/jobs",
+    "pass": 1
+   },
+   {
+    "quote": "By entering your email address and clicking Submit, you are agreeing to",
+    "url": "https://www.pixalate.com/jobs",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/pixalate/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/pixalate/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/58172-05",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Ad fraud and quality signals from Pixalate are now part of how Gravite vets, monitors and curates ad supply for its demand partners.",
+    "url": "https://www.pixalate.com/blog/gravite-partners-with-pixalate-to-raise-the-bar-on-mobile-ad-supply-quality?hsLang=en",
+    "pass": 1
+   },
+   {
+    "quote": ", an in-app-first ad tech company and part of",
+    "url": "https://www.pixalate.com/blog/gravite-partners-with-pixalate-to-raise-the-bar-on-mobile-ad-supply-quality?hsLang=en",
+    "pass": 1
+   },
+   {
+    "quote": "NECとParrotAnalyticsが連携、動画コンテンツの価値分析サービスを国内で展開",
+    "url": "https://media-innovation.jp/special/5252/recent/Pixalate",
+    "pass": 3
+   },
+   {
+    "quote": "Media Innovation は、株式会社イード（東証グロース上場）の運営するサービスです",
+    "url": "https://media-innovation.jp/special/5252/recent/Pixalate",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/pixalate/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/58172-05",
+    "pass": 3
+   },
+   {
+    "quote": "Pixalate has 65 total employees.",
+    "url": "https://pitchbook.com/profiles/company/58172-05",
+    "pass": 3
+   },
+   {
+    "quote": "What is Pixalate’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/58172-05",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Pixalate is",
+    "url": "https://pitchbook.com/profiles/company/58172-05",
+    "pass": 3
+   },
+   {
+    "quote": "Pixalate Revenue 2024: $4.4M Est., $4.8M Raised",
+    "url": "https://getlatka.com/companies/pixalate",
+    "pass": 3
+   },
+   {
+    "quote": "Pixalate has not published its revenue. GetLatka estimates it at about $4.4M a year (October 2024).",
+    "url": "https://getlatka.com/companies/pixalate",
+    "pass": 3
+   },
+   {
+    "quote": "All 3 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/pixalate",
+    "pass": 3
+   },
+   {
+    "quote": "Pixalate CEO, founders & employees",
+    "url": "https://getlatka.com/companies/pixalate",
+    "pass": 3
+   },
+   {
+    "quote": "Jalal Nasir founded Pixalate in 2012 and runs it as CEO. Pixalate had 56 employees (October 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/pixalate",
+    "pass": 3
+   },
+   {
+    "quote": "What is Pixalate's revenue?",
+    "url": "https://getlatka.com/companies/pixalate",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Pixalate's revenue at about",
+    "url": "https://getlatka.com/companies/pixalate",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Pixalate have?",
+    "url": "https://getlatka.com/companies/pixalate",
+    "pass": 3
+   },
+   {
+    "quote": "employees in October 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/pixalate",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/pixalate",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/pixalate",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/pixalate",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "広告配信プラットフォームの信頼性を可視化する新指標、Pixalateが発表・・・日本では?",
+    "url": "https://media-innovation.jp/special/5252/recent/Pixalate",
+    "pass": 3
+   },
+   {
+    "quote": "Media Innovation は、株式会社イード（東証グロース上場）の運営するサービスです",
+    "url": "https://media-innovation.jp/special/5252/recent/Pixalate",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社イードは、個人情報の適切な取扱いを行う事業者に対して付与されるプライバシーマークの付与認定を受けています",
+    "url": "https://media-innovation.jp/special/5252/recent/Pixalate",
+    "pass": 3
+   },
+   {
+    "quote": "広告配信プラットフォームの信頼性を可視化する新指標、Pixalateが発表・・・日本では? | Media Innovation / デジタルメディアのイノベーションを加速させる",
+    "url": "https://media-innovation.jp/article/2024/09/26/141772.html",
+    "pass": 3
+   },
+   {
+    "quote": "広告配信プラットフォームの信頼性を可視化する新指標、Pixalateが発表・・・日本では?",
+    "url": "https://media-innovation.jp/article/2024/09/26/141772.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Pixalate - Ad Fraud Protection, Privacy, and Compliance ... — Pixalate provides the data and insights across Connected TV (CTV), Mobile Apps, and Websites for privacy, compliance, risk, rankings, and more to bring transparency, quality, and trust to the open web.",
+    "url": "https://www.pixalate.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Pixalate | Media Innovation / デジタルメディアのイノベーションを... — Sep 26, 2024 · 広告配信プラットフォームの信頼性を可視化する新指標、Pixalateが発表・・・日本では? ・Pixalateが新指標「グローバルセラートラストインデックス」を発表 ・広告エコシステムの信頼性を評価し、公平性促進 ・企業選定に役立つ指標として注目される",
+    "url": "https://media-innovation.jp/special/5252/recent/Pixalate",
+    "pass": 3
+   },
+   {
+    "quote": "Pixalate's Programmatic Ads Viewability Trends - Japan — This report highlights ad viewability trends in Japan compared to global values during Q1 2025. Pixalate's datasets — which are used exclusively to derive these insights — consist predominantly of buy-side open auction programmatic traffic sources.",
+    "url": "https://www.pixalate.com/programmatic-ads-viewability-trends-japan",
+    "pass": 3
+   },
+   {
+    "quote": "広告配信プラットフォームの信頼性を可視化する新指標、Pixalateが発... — Sep 26, 2024 · 広告品質測定企業のPixalateは、プログラマティック広告の売り手サイドプラットフォーム (SSP)や広告取引所の信頼性を評価する新たな指標「グローバルセラートラストインデックス」の2024年第2四半期版を発表しました。",
+    "url": "https://media-innovation.jp/article/2024/09/26/141772.html",
+    "pass": 3
+   },
+   {
+    "quote": "Reports - Pixalate — Discover Pixalate's leading research across CTV, Mobile, and Websites, and download our recent findings in the fields of ad fraud, privacy, and more.",
+    "url": "https://www.pixalate.com/reports",
+    "pass": 3
+   },
+   {
+    "quote": "Pixalate - Ad Fraud Protection, Privacy, and Compliance ... — Pixalate is the market-leading fraud protection, privacy, and compliance analytics platform for Connected TV (CTV), Mobile Apps, and Websites.",
+    "url": "https://www.pixalate.com/",
+    "pass": 3
+   },
+   {
+    "quote": "November 2025 Japan Publisher Trust Rankings - pixalate.com — LONDON, December 11, 2025 -- Pixalate, a leading global platform for ad fraud protection, privacy, and compliance analytics, has released the November 2025 Publisher Trust Index (PTI) for Japan.",
+    "url": "https://www.pixalate.com/blog/november-2025-japan-publisher-trust-rankings",
+    "pass": 3
+   },
+   {
+    "quote": "Pixalate - YouTube — Pixalate is an omni-channel fraud intelligence company that works with brands and platforms to prevent invalid traffic and improve ad inventory quality. We offer the only system of coordinated...",
+    "url": "https://www.youtube.com/@Pixalate",
+    "pass": 3
+   },
+   {
+    "quote": "20 Pixalate Case Studies, Success Stories, & Customer Stories — Discover how other companies use Pixalate, get inspired, and find ways to improve your business.",
+    "url": "https://www.featuredcustomers.com/vendor/pixalate/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Pixalate Case Study: Primis – Primis - Customer Case Study ... — Primis (Marketing & Advertising) partnered with Pixalate (Internet) to solve key challenges. \"Primis - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/pixalate/case-study/primis-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Pixalate Blog | Case Studies (2) — Case Studies | Pixalate serves all digital ad industry stakeholders, including brands, publishers, agencies, ad platforms, analysts, compliance, privacy, and more. We can fit any client’s specific needs thanks to a full suite of tools covering every corner of the digital ad industry, including global supply chain intelligence, ad fraud monitoring and blocking, an",
+    "url": "https://www.pixalate.com/blog/topic/case-studies/page/2",
+    "pass": 3
+   },
+   {
+    "quote": "Pixalate Blog | Case Studies — Case Studies | Pixalate serves all digital ad industry stakeholders, including brands, publishers, agencies, ad platforms, analysts, compliance, privacy, and more. We can fit any client’s specific needs thanks to a full suite of tools covering every corner of the digital ad industry, including global supply chain intelligence, ad fraud monitoring and blocking, and ca",
+    "url": "https://www.pixalate.com/blog/topic/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Pixalate Case Study: IAB Tech Lab – IAB Tech Lab - Customer ... — IAB Tech Lab (Internet) partnered with Pixalate (Internet) to solve key challenges. \"IAB Tech Lab - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/pixalate/case-study/iab-tech-lab-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Pixalate – Revenue Estimate & Market Landscape – 2026 — Pixalate’s business performance suggests annual revenues of around $10.6M. The company’s workforce productivity is estimated at $177.5K in annual revenue per employee. Funding raised by Pixalate over the years amounts to $22.8M. There are currently more than 60+ employees working at Pixalate.",
+    "url": "https://compworth.com/company/pixalate",
+    "pass": 3
+   },
+   {
+    "quote": "Pixalate 2026 Company Profile: Valuation, Funding & Investors ...Pixalate - 2026 Company Profile, Team, Funding & Competitors ...Pixalate Revenue 2024: $4.4M Est. ARR, $4.8M RaisedPixalate: Funding, Investors & Team (Oct 2026) | FundedIQPixalate - Overview, News & Similar companies | ZoomInfo.comPixalate - $4.2 M Revenue, Employees & Growth | Kona Equity — Information on valuation, funding, cap ta",
+    "url": "https://pitchbook.com/profiles/company/58172-05",
+    "pass": 3
+   },
+   {
+    "quote": "Pixalate - 2026 Company Profile, Team, Funding & Competitors ...Pixalate Revenue 2024: $4.4M Est. ARR, $4.8M RaisedPixalate: Funding, Investors & Team (Oct 2026) | FundedIQPixalate - Overview, News & Similar companies | ZoomInfo.comPixalate - $4.2 M Revenue, Employees & Growth | Kona Equity — Aug 25, 2026 · Pixalate - About the company Pixalate is a series B company based in Santa Monica (United S",
+    "url": "https://tracxn.com/d/companies/pixalate/__LOGKUnC51qBonQTKil1cRvb4gVLu8vMxqwCXJZFXLuY",
+    "pass": 3
+   },
+   {
+    "quote": "Pixalate Revenue 2024: $4.4M Est. ARR, $4.8M Raised — Oct 17, 2024 · Pixalate 2024 estimated revenue: $4.4M ARR (up from $3.3M in 2023). Total funding: $4.8M across 2 rounds. 56 employees. Founded 2012 Updated Oct 17, 2024.",
+    "url": "https://getlatka.com/companies/pixalate",
+    "pass": 3
+   },
+   {
+    "quote": "Pixalate: Funding, Investors & Team (Oct 2026) | FundedIQ — Pixalate is an Advertising company in Santa Monica, United States. Raised $18.0M across 1 round; latest round Sep 2021. Investors and funding history.",
+    "url": "https://fundediq.co/pixalate-pixalate-com-funding/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "MoPub - Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/pixalate/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/pixalate/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Pixalate Case Study: Primis – Primis - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/pixalate/case-study/primis-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Primis - Customer Case Study",
+    "url": "https://www.casestudies.com/company/pixalate/case-study/primis-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Primis used Pixalate",
+    "url": "https://www.casestudies.com/company/pixalate/case-study/primis-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/pixalate/case-study/primis-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/pixalate/case-study/primis-customer-case-study",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Pixalate Inc. (@PixalateInc) / X Pixalate is the market-leading fraud protection, privacy, and compliance analytics platform for Connected TV (CTV), Mobile Apps, and Websites.",
+    "url": "https://x.com/pixalateinc",
+    "pass": 3
+   },
+   {
+    "quote": "PIXALATE (@PIXALATE3) / X Ikut maksudnya-_- dihh elu gimana sih, masa gak ikut. Udh di pesenin tiketnya tau. Udh elah ikut ajaa RT\"@joeljolee: @ PIXALATE3 PIXALATE @PIXALATE3 May 8, 2013 Haiiiiii;) PIXALATE @PIXALATE3 May 7, 2013 Oh yaudahRT\"@joeljolee: @ PIXALATE3 udah gua titipin sama irul\" PIXALATE @PIXALATE3 May 7, 2013",
+    "url": "https://x.com/PIXALATE3",
+    "pass": 3
+   },
+   {
+    "quote": "pixalate photography (@pixalate) / X 0 followers · 5 following. Vancouver. Joined Nov 2009. See the latest conversations with @pixalate",
+    "url": "https://x.com/pixalate",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Pixalate - LinkedIn Pixalate, the market-leading fraud protection, privacy, and compliance analytics platform for Connected TV (CTV) and Mobile Advertising. We work 24/7 to guard your reputation and grow your media...",
+    "url": "https://www.linkedin.com/company/pixalate",
+    "pass": 3
+   },
+   {
+    "quote": "Pixalate Analytics - LinkedIn About Pixalate’s Analytics enables you to transact confidently using a scaled, omni-channel platform for fraud and privacy compliance risk.",
+    "url": "https://www.linkedin.com/products/pixalate-analytics/",
+    "pass": 3
+   },
+   {
+    "quote": "Jalal Nasir - CEO @ Pixalate Inc | LinkedInAmin Bandeali - CTO @ Pixalate, Inc. | LinkedInPixalate AI - LinkedInAlvin Ling - Pixalate | LinkedInPixalate Careers Jobs in United States (9,000+ Open Roles ... Ad Fraud Protection and Data Intelligence Platform Pixalate delivers the only SaaS based anti-fraud solution that mitigates your risk exposure across desktop, Mobile in-app, video and OTT/CTV. C",
+    "url": "https://www.linkedin.com/in/jalalnasir",
+    "pass": 3
+   },
+   {
+    "quote": "Amin Bandeali - CTO @ Pixalate, Inc. | LinkedInPixalate AI - LinkedInAlvin Ling - Pixalate | LinkedInPixalate Careers Jobs in United States (9,000+ Open Roles ... CTO @ Pixalate, Inc. · Experience: Pixalate · Location: Los Angeles Metropolitan Area · 500+ connections on LinkedIn. Pixalate AI | 77 followers on LinkedIn. Turn Raw Videos Into Publish-Ready Content Specialties: Banking, Project Manage",
+    "url": "https://www.linkedin.com/in/aminbandeali",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Pixalate, Inc. | Palo Alto CA - FacebookPixelate - FacebookPixelate - FacebookPixalate, Inc. - Pixalate has partnered with WebEye to ...Pixelate For Work - FacebookPixalate, Inc. - Something you've probably never thought ...Pixelate Creative | San Francisco - Facebook Pixalate, Inc. released the Q2 2025 SSP Market Share report for North America to rank programmatic ad sellers by market share acros",
+    "url": "https://www.facebook.com/pixalate/",
+    "pass": 3
+   },
+   {
+    "quote": "Pixalate, Inc. - Pixalate has partnered with WebEye to ... Apr 10, 2019 · Pixalate, Inc. today announced the general availability of its DEFASED (Delisted From the App Store) pre-bid blocklists for mobile apps, now identifying which countries each app has been delisted from.",
+    "url": "https://www.facebook.com/pixalate/posts/pixalate-has-partnered-with-webeye-to-combat-mobile-app-ad-fraud-httpspixalat2x1/2180911485360102/",
+    "pass": 3
+   },
+   {
+    "quote": "Pixalate, Inc. - Something you've probably never thought ... Jun 7, 2017 · Pixalate, Inc. Jan 23 Pixalate, Inc. just released the 2025 Top 100 Apps by Ad Revenue Reports, and the numbers are eye-opening. After analyzing over 310 billion impressions, our data science team has identified the heavy hitters across the Apple App Store and Google Play Store. From Pocket FM leading on Google Play ...",
+    "url": "https://www.facebook.com/pixalate/posts/something-youve-probably-never-thought-of-click-fraud-in-connected-tvott-you-sho/1391231190994806/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.pixalate.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pixalate.com/blog/gravite-partners-with-pixalate-to-raise-the-bar-on-mobile-ad-supply-quality?hsLang=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pixalate.com/jobs?hsLang=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pixalate.com/hubfs/Pixalate%20Wechat.png?utm_campaign=Company%20News&utm_medium=email&_hsenc=p2ANqtz-_ZtCSHiG6VOXsk-H9wZxOKVhNZxU_38xbLSOf7jCI9cht_GS6NejKw3dZ_BY3kYiwF7Hc9ZWlilTmIVK5YSB9-baUW2w&_hsmi=336270631&utm_content=336270631&utm_source=hs_email",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.pixalate.com/jobs",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.pixalate.com/hs-fs/hubfs/Pixalate_Logos/pixalate-full-logo.jpg?width=150&height=60&name=pixalate-full-logo.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.pixalate.com/hubfs/Partnership%20Logo_Screencore.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.pixalate.com/hubfs/pixalate_gravite_partnership-_V1.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.pixalate.com/hs-fs/hubfs/Landing_Page_Media/co-marketing/logos/Linkedin-Logo-2011%E2%80%932019.png?width=100&name=Linkedin-Logo-2011%E2%80%932019.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://media-innovation.jp/special/5252/recent/Pixalate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media-innovation.jp/article/2024/09/26/141772.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/IMAGICA_GROUP",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://kotobank.jp/word/%E6%97%A5%E6%9C%AC%E6%B3%95%E4%BA%BA-2100857",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wallpaperaccess.com/japanese-pixel-art",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pixabay.com/images/search/pixel+art+japan/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/pixalate/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/pixalate/case-study/primis-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/pixalate",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/58172-05",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/pixalate/__LOGKUnC51qBonQTKil1cRvb4gVLu8vMxqwCXJZFXLuY",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/pixalate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/pixalateinc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/PIXALATE3",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/pixalate",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/pixalate",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/pixalate-analytics/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/jalalnasir",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/aminbandeali",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pixalate/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pixalate/posts/pixalate-has-partnered-with-webeye-to-combat-mobile-app-ad-fraud-httpspixalat2x1/2180911485360102/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pixalate/posts/something-youve-probably-never-thought-of-click-fraud-in-connected-tvott-you-sho/1391231190994806/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/pixalate",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/pixalateinc",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Pixalate 日本 導入",
+   "results": [
+    "https://www.pixalate.com/",
+    "https://media-innovation.jp/special/5252/recent/Pixalate",
+    "https://www.pixalate.com/programmatic-ads-viewability-trends-japan",
+    "https://media-innovation.jp/article/2024/09/26/141772.html",
+    "https://www.pixalate.com/reports",
+    "https://kuruma-news.jp/post/1131871",
+    "https://global.honda/jp/news/2026/4260305b.html",
+    "https://www.pixalate.com/jobs"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Pixalate 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/IMAGICA_GROUP",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "https://kotobank.jp/word/日本法人-2100857",
+    "https://www.jetro.go.jp/invest/setting_up/section1/page2.html",
+    "https://www.jacquard-japan.com/en/",
+    "https://www.texchemcorp.com/japanese/about-us/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://biz.moneyforward.com/contract/basic/8378/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "Pixalate Japan",
+   "results": [
+    "https://www.pixalate.com/",
+    "https://www.pixalate.com/blog/november-2025-japan-publisher-trust-rankings",
+    "https://wallpaperaccess.com/japanese-pixel-art",
+    "https://pixabay.com/images/search/pixel+art+japan/",
+    "https://www.youtube.com/@Pixalate",
+    "https://www.ibtimes.co.uk/viral-ai-pixelation-claim-trump-neck-unverified-1808719",
+    "https://www.pixalate.com/programmatic-ads-viewability-trends-japan",
+    "https://www.etsy.com/market/pixelated_japan",
+    "https://www.pixilart.com/gallery/tags/Japanese"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Pixalate manufacturing customer case study",
+   "results": [
+    "https://www.featuredcustomers.com/vendor/pixalate/case-studies",
+    "https://www.casestudies.com/company/pixalate/case-study/primis-customer-case-study",
+    "https://www.pixalate.com/blog/topic/case-studies/page/2",
+    "https://www.pixalate.com/blog/topic/case-studies",
+    "https://www.casestudies.com/company/pixalate/case-study/iab-tech-lab-customer-case-study",
+    "https://pubconnections.com/pixalate-company-page/",
+    "https://www.grantthornton.com/insights/case-studies/manufacturing/2025/customer-experience-transformation-at-a-global-manufacturer"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pixalate white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://resellercph.com/",
+    "https://dropifyresellerbd.com/",
+    "https://resellervendors.mysellauth.com/",
+    "https://partners.spectrum.com/",
+    "https://partners.adobe.com/channelpartners/",
+    "https://www.nextiva.com/company/partners"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "Pixalate founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/pixalate",
+    "https://pitchbook.com/profiles/company/58172-05",
+    "https://tracxn.com/d/companies/pixalate/__LOGKUnC51qBonQTKil1cRvb4gVLu8vMxqwCXJZFXLuY",
+    "https://getlatka.com/companies/pixalate",
+    "https://fundediq.co/pixalate-pixalate-com-funding/",
+    "https://www.zoominfo.com/c/pixalate/356884534",
+    "https://www.konaequity.com/company/pixalate-4862401280/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Pixalate",
+   "results": [
+    "https://note.com/kenshiro_keiba",
+    "https://note.com/maruo77/n/n58d70160f4c8?hl=en",
+    "https://note.com/pipimaru_studio/n/n3ae6504385bc?hl=en",
+    "https://note.com/haswell_ojisan/n/na28a3595b08b?hl=en",
+    "https://note.com/eponalab/n/nd4af50a2f5cc?hl=en",
+    "https://note.com/photolabo_hibi/n/n818697fb44bc",
+    "https://note.com/crisp_shark/n/n2af9c6e882fd",
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:x.com Pixalate",
+   "results": [
+    "https://x.com/pixalateinc",
+    "https://x.com/PIXALATE3",
+    "https://x.com/pixalate",
+    "https://x.com/pixelateApp",
+    "https://x.com/pixelate",
+    "https://x.com/pixelate_game",
+    "https://x.com/LongMa59399",
+    "https://x.com/sly_xbt/status/2119537858516033660"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:linkedin.com Pixalate",
+   "results": [
+    "https://www.linkedin.com/company/pixalate",
+    "https://www.linkedin.com/products/pixalate-analytics/",
+    "https://www.linkedin.com/in/jalalnasir",
+    "https://www.linkedin.com/in/aminbandeali",
+    "https://www.linkedin.com/company/pixalate-ai",
+    "https://www.linkedin.com/jobs/pixalate-careers-jobs",
+    "https://sg.linkedin.com/in/lingalvin"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Pixalate",
+   "results": [
+    "https://www.facebook.com/pixalate/",
+    "https://www.facebook.com/pixalate/posts/pixalate-has-partnered-with-webeye-to-combat-mobile-app-ad-fraud-httpspixalat2x1/2180911485360102/",
+    "https://www.facebook.com/PixelateForWork/",
+    "https://www.facebook.com/pixalate/posts/something-youve-probably-never-thought-of-click-fraud-in-connected-tvott-you-sho/1391231190994806/",
+    "https://www.facebook.com/PixelateOfficial/",
+    "https://www.facebook.com/pixelate.offical/about/",
+    "https://www.facebook.com/pixelatecreativecom/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pixalate note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/藤原岳史",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.pixalate.com/leadership-team",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pixalate X 投稿",
+   "results": [
+    "https://x.com/pixalate",
+    "https://x.com/pixalateinc",
+    "https://www.pixalate.com/",
+    "https://account.pixalate.com/",
+    "https://www.youtube.com/@Pixalate_x",
+    "https://photo-tools.tech/",
+    "https://news.yahoo.co.jp/articles/c433091e5e50d42e2a18d576920e8414bb798cb9",
+    "https://www.g2.com/products/pixalate/reviews",
+    "https://www.canva.com/ja_jp/features/twitter-yoyaku-toukou/",
+    "https://dounats.com/column/twitter-manga-imagesize/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式5頁／PDF・画像4件／外部30頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像4件／外部30頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像4件／外部30頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式5頁／PDF・画像4件／外部30頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式5頁／PDF・画像4件／外部30頁・検索12回）"
+ }
+}

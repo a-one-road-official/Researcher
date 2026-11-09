@@ -1,0 +1,1333 @@
+{
+ "name": "Phaidra",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-09T22:31:24.307433+00:00",
+ "official_url": "https://www.phaidra.ai/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "2. Seed Round",
+    "value": "24-May-2021 $4M $5.5M  Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/435599-02",
+    "pass": 3
+   },
+   {
+    "label": "1. Seed Round",
+    "value": "28-May-2020 $1.5M $1.5M  Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/435599-02",
+    "pass": 3
+   },
+   {
+    "label": "Seed 2",
+    "value": "975,042 $0.000010 6% $1.54 $1.54 1x $1.54 3.72%",
+    "url": "https://pitchbook.com/profiles/company/435599-02",
+    "pass": 3
+   },
+   {
+    "label": "Seed 1",
+    "value": "1,820,087 $0.000010 6% $2.2 $2.2 1x $2.2 6.94%",
+    "url": "https://pitchbook.com/profiles/company/435599-02",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Maximize resilience and token production across your AI factory infrastructure",
+    "url": "https://www.phaidra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The intelligence and observability layer for AI factory operations. Unifies telemetry, prioritizes insights, and automates root cause analysis.",
+    "url": "https://www.phaidra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The AI agent that maintains thermal stability and optimizes cooling performance under dynamic GPU workloads.",
+    "url": "https://www.phaidra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The AI agent that proactively stages chillers to safely absorb facility-level power spikes while minimizing PUE.",
+    "url": "https://www.phaidra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Alarm prioritization & triage",
+    "url": "https://www.phaidra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Prioritize and triage high volume alarms, with context for every alarm.",
+    "url": "https://www.phaidra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Guidance for operators to reduce mean time to diagnosis through prioritized issues and root cause analysis.",
+    "url": "https://www.phaidra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce onboarding time and enable faster ramp for new operators.",
+    "url": "https://www.phaidra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve tokens per watt by aligning compute demand with power and cooling response.",
+    "url": "https://www.phaidra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Measured in production environments",
+    "url": "https://www.phaidra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "improvement in energy efficiency",
+    "url": "https://www.phaidra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Assistive intelligence systems like Phaidra Prism don't replace our teams' expertise - they amplify it, surfacing critical context in real time so our operators can act with greater speed and precision.",
+    "url": "https://www.phaidra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Aligned Data Centers deploys Phaidra Prism, leveraging the NVIDIA DSX AI Factory Platform to deliver AI-driven insights that empower operators and str...",
+    "url": "https://www.phaidra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Phaidra, CoreWeave and Applied Digital pioneer NVIDIA Max-Q AI factories with agentic liquid cooling to improve thermal stability and compute efficien...",
+    "url": "https://www.phaidra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Phaidra partners with infrastructure operators, OEMs, technology providers, and AI ecosystem leaders to improve the performance, reliability, and efficiency of mission-critical facilities.",
+    "url": "https://www.phaidra.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Our partnerships focus on solving operational problems in production environments. We work closely with partners to enable intelligent automation workflows, deploy safely in live production, and deliver measurable business outcomes.",
+    "url": "https://www.phaidra.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Proven technical expertise",
+    "url": "https://www.phaidra.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Production deployments",
+    "url": "https://www.phaidra.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Phaidra extends NVIDIA workflows by connecting cooling systems, facility telemetry, and power infrastructure into a unified intelligence layer for AI factories. Phaidra's AI agents improve thermal stability, reclaim stranded power capacity, and maximize tokens per watt.",
+    "url": "https://www.phaidra.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "If your organization is focused on improving operational performance, reliability or infrastructure, let’s chat.",
+    "url": "https://www.phaidra.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Our team has a track record of applying AI to some of the toughest problems. We’re a globally distributed team of researchers, engineers, operators, and builders solving some of the hardest problems at the intersection of AI and industrial infrastructure.",
+    "url": "https://www.phaidra.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Hard technical problems",
+    "url": "https://www.phaidra.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We work on solving problems operating across power, cooling, thermodynamics, controls, and infrastructure environments.",
+    "url": "https://www.phaidra.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We are remote-first by design. We prioritize thoughtful communication, deep focus, and async collaboration.",
+    "url": "https://www.phaidra.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "The problems we solve are complex, high stakes and often unprecedented. Success requires people who take ownership, move quickly, maintain a high bar for quality, and stay grounded in reality.",
+    "url": "https://www.phaidra.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We take ownership of outcomes, not just tasks. We seek out important problems, act without waiting for permission and drive work to resolution.",
+    "url": "https://www.phaidra.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We care deeply about the quality, reliability, and durability of our work. We build for production environments where trust is earned through consistent execution.",
+    "url": "https://www.phaidra.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Outsized responsibilities & professional development",
+    "url": "https://www.phaidra.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Training is foundational, functional, and customer immersion focused",
+    "url": "https://www.phaidra.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "The system achieved up to 40% energy reduction in an already highly optimized facility, proving AI could safely optimize complex physical infrastructure.",
+    "url": "https://www.phaidra.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Jim Gao spent over a decade designing and optimizing Google's data center infrastructure, leading initiatives to improve energy efficiency, operational performance, and control of mission-critical cooling systems.",
+    "url": "https://www.phaidra.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Katie Hoffman spent over a decade designing and deploying industrial control systems, bringing deep expertise in automation, controls engineering, and the operational knowledge required to deploy AI in production.",
+    "url": "https://www.phaidra.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Co-Founder, President, and Chief Operating Officer",
+    "url": "https://www.phaidra.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Product Officer",
+    "url": "https://www.phaidra.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Phaidra is pronounced like /ˈfɛdrə/ (or Feydra",
+    "url": "https://www.phaidra.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "The pattern \"DOT, DASH, DOT, DOT\", is Morse code for \"AI\". As morse code is translated by humans, so is our AI. Our team has mastered the complex understanding of industrial cooling systems and are able to translate through a technology we can use to improve plant stability, energy efficiency and sustainability.",
+    "url": "https://www.phaidra.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Aligned Data Centers Deploys Phaidra Prism, Leveraging the NVIDIA DSX AI Factory Platform to Deliver AI-driven Insights that Empower Operators and Strengthen Data Center Reliability",
+    "url": "https://www.phaidra.ai/blog/phaidra-and-aligned-data-centers-partner-to-empower-operations-teams-and-strengthen-data-center-reliability-with-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Phaidra has integrated NVIDIA DSX Exchange, part of NVIDIA DSX OS, into Phaidra Prism. Prism uses DSX Exchange as a common data layer to bring together information across mechanical, electrical, power, cooling, and IT systems, providing operators with a unified view of data center infrastructure through a conversational interface.",
+    "url": "https://www.phaidra.ai/blog/phaidra-and-aligned-data-centers-partner-to-empower-operations-teams-and-strengthen-data-center-reliability-with-ai",
+    "pass": 1
+   },
+   {
+    "quote": "The partnership reflects Aligned's continued investment in technologies that enhance operational excellence across its data center portfolio. Together, Phaidra and Aligned are advancing a new approach to AI-assisted operations, combining real-time intelligence with human expertise to help teams manage increasingly dynamic infrastructure with greater speed, confidence, and reliability.",
+    "url": "https://www.phaidra.ai/blog/phaidra-and-aligned-data-centers-partner-to-empower-operations-teams-and-strengthen-data-center-reliability-with-ai",
+    "pass": 1
+   },
+   {
+    "quote": "PROTECT AND SHARE THE VALUE OF DIGITAL ASSETS",
+    "url": "https://www.phaidra.org/",
+    "pass": 3
+   },
+   {
+    "quote": "For organizations across academia, cultural heritage and broader research, PHAIDRA makes it easier to capture and preserve the full value of digital assets: from diverse media files, digitized artifacts and collections; to research, data and analysis.",
+    "url": "https://www.phaidra.org/",
+    "pass": 3
+   },
+   {
+    "quote": "PHAIDRA is FAIR to its core, designed so you can easily deliver on FAIR principles.",
+    "url": "https://www.phaidra.org/",
+    "pass": 3
+   },
+   {
+    "quote": "As a project pushing for Open Academia, it only was natural to become Open Source.",
+    "url": "https://www.phaidra.org/",
+    "pass": 3
+   },
+   {
+    "quote": "Learn about the tech stack, how to run PHAIDRA locally and how to contribute to the code and the project.",
+    "url": "https://www.phaidra.org/",
+    "pass": 3
+   },
+   {
+    "quote": "Global expansion is every company’s dream, and every IT team’s stress test. For fast-growing organizations like Phaidra, which builds AI-powered systems to optimize complex infrastructure, scaling into multiple regions meant onboarding employees in the United States, India, Europe, and beyond.",
+    "url": "https://www.firstbase.com/customer-stories/how-phaidra-unified-global-it-asset-management-with-firstbase",
+    "pass": 3
+   },
+   {
+    "quote": "However, as the business expanded, IT operations processes that had previously been sustainable were no longer viable at a global scale.",
+    "url": "https://www.firstbase.com/customer-stories/how-phaidra-unified-global-it-asset-management-with-firstbase",
+    "pass": 3
+   },
+   {
+    "quote": "This is the story of how Phaidra moved from fragmented processes to a unified, scalable lifecycle with Firstbase.",
+    "url": "https://www.firstbase.com/customer-stories/how-phaidra-unified-global-it-asset-management-with-firstbase",
+    "pass": 3
+   },
+   {
+    "quote": "The Challenge: Disconnected and Unsustainable Processes",
+    "url": "https://www.firstbase.com/customer-stories/how-phaidra-unified-global-it-asset-management-with-firstbase",
+    "pass": 3
+   },
+   {
+    "quote": "Before Firstbase, Phaidra’s IT and Security teams were managing device procurement and deployment using the best options available for each stage of the company’s growth.",
+    "url": "https://www.firstbase.com/customer-stories/how-phaidra-unified-global-it-asset-management-with-firstbase",
+    "pass": 3
+   },
+   {
+    "quote": "In the U.S., devices were ordered through an online store. Internationally, teams relied on retail locations or other major resellers such as Amazon or Best Buy. Each region had its own approach based on what was most efficient locally and what resources were available at the time.",
+    "url": "https://www.firstbase.com/customer-stories/how-phaidra-unified-global-it-asset-management-with-firstbase",
+    "pass": 3
+   },
+   {
+    "quote": "As Phaidra’s global footprint expanded, preparing and shipping devices often meant collaborating with colleagues in other regions—sometimes outside of IT, to handle device setup and delivery. These efforts worked, but they required valuable time and coordination that could have been spent elsewhere.",
+    "url": "https://www.firstbase.com/customer-stories/how-phaidra-unified-global-it-asset-management-with-firstbase",
+    "pass": 3
+   },
+   {
+    "quote": "It was a different process for pretty much every single geo. And frankly, it really wasn’t fun to do.",
+    "url": "https://www.firstbase.com/customer-stories/how-phaidra-unified-global-it-asset-management-with-firstbase",
+    "pass": 3
+   },
+   {
+    "quote": "As Phaidra’s global footprint expanded, it became clear that the team needed a more consistent, sustainable foundation for device management—one that could scale with the business instead of adding overhead.",
+    "url": "https://www.firstbase.com/customer-stories/how-phaidra-unified-global-it-asset-management-with-firstbase",
+    "pass": 3
+   },
+   {
+    "quote": "By late 2023, Holden and his team recognized the need for a more scalable and sustainable model—one that could unify their processes and deliver greater visibility across regions.",
+    "url": "https://www.firstbase.com/customer-stories/how-phaidra-unified-global-it-asset-management-with-firstbase",
+    "pass": 3
+   },
+   {
+    "quote": "Standardize device procurement and deployment globally",
+    "url": "https://www.firstbase.com/customer-stories/how-phaidra-unified-global-it-asset-management-with-firstbase",
+    "pass": 3
+   },
+   {
+    "quote": "Provide a single source of truth for IT and Finance",
+    "url": "https://www.firstbase.com/customer-stories/how-phaidra-unified-global-it-asset-management-with-firstbase",
+    "pass": 3
+   },
+   {
+    "quote": "While several vendors offered partial solutions, none could meet the complete set of needs. Firstbase stood out by combining global logistics (procurement, shipping, retrievals) with a software platform for tracking, workflows, and integration—delivering the consistency and visibility Phaidra’s teams were looking for.",
+    "url": "https://www.firstbase.com/customer-stories/how-phaidra-unified-global-it-asset-management-with-firstbase",
+    "pass": 3
+   },
+   {
+    "quote": "Firstbase emerged as the clear choice. By combining the physical infrastructure (procurement, shipping, retrievals) with the SaaS control layer (tracking, workflows, integrations), Firstbase promised to deliver the consistency and visibility Phaidra lacked.",
+    "url": "https://www.firstbase.com/customer-stories/how-phaidra-unified-global-it-asset-management-with-firstbase",
+    "pass": 3
+   },
+   {
+    "quote": "October, November, December was a big shift for us—moving from different processes to exclusively MDM service and Firstbase.",
+    "url": "https://www.firstbase.com/customer-stories/how-phaidra-unified-global-it-asset-management-with-firstbase",
+    "pass": 3
+   },
+   {
+    "quote": "Phaidra implemented Firstbase across its global footprint, replacing ad hoc regional methods with a consistent model.",
+    "url": "https://www.firstbase.com/customer-stories/how-phaidra-unified-global-it-asset-management-with-firstbase",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Phaidra | AI Agents for AI Factories",
+    "url": "https://www.phaidra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "AI agents for AI factories",
+    "url": "https://www.phaidra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Maximize resilience and token production across your AI factory infrastructure",
+    "url": "https://www.phaidra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "AI factories behave as tightly coupled systems. Maximizing performance requires systems-level optimization. However, operations today are fragmented across cooling, power, and IT management.",
+    "url": "https://www.phaidra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Phaidra unifies infrastructure intelligence and autonomous control to help operators run AI factories as coordinated systems.",
+    "url": "https://www.phaidra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The intelligence and observability layer for AI factory operations. Unifies telemetry, prioritizes insights, and automates root cause analysis.",
+    "url": "https://www.phaidra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The AI agent that enables AI factories to dynamically adjust power consumption in response to grid conditions, unlocking new sources of power flexibility from IT and cooling systems.",
+    "url": "https://www.phaidra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "and scaling AI factories",
+    "url": "https://www.phaidra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Your best operators can’t be everywhere",
+    "url": "https://www.phaidra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Standardize performance and upskill operators.",
+    "url": "https://www.phaidra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Enforce consistent decision making across all operators, not dependent on individual experience level.",
+    "url": "https://www.phaidra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Guidance for operators to reduce mean time to diagnosis through prioritized issues and root cause analysis.",
+    "url": "https://www.phaidra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce onboarding time and enable faster ramp for new operators.",
+    "url": "https://www.phaidra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "You’re running AI factories on infrastructure that wasn’t built",
+    "url": "https://www.phaidra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Assistive intelligence systems like Phaidra Prism don't replace our teams' expertise - they amplify it, surfacing critical context in real time so our operators can act with greater speed and precision.",
+    "url": "https://www.phaidra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "There are many massive benefits to Phaidra. The trending is lightyears better than our own trending toolings and it is an excellent operational resource for both new and experienced operators.",
+    "url": "https://www.phaidra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Companies around the world are using the NVIDIA DSX AI Factory Platform to plan, simulate and run AI factories as one system and unlock infrastructure...",
+    "url": "https://www.phaidra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Aligned Data Centers deploys Phaidra Prism, leveraging the NVIDIA DSX AI Factory Platform to deliver AI-driven insights that empower operators and str...",
+    "url": "https://www.phaidra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Phaidra, CoreWeave and Applied Digital pioneer NVIDIA Max-Q AI factories with agentic liquid cooling",
+    "url": "https://www.phaidra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Phaidra, CoreWeave and Applied Digital pioneer NVIDIA Max-Q AI factories with agentic liquid cooling to improve thermal stability and compute efficien...",
+    "url": "https://www.phaidra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Run your AI factory as a single, coordinated system of compute",
+    "url": "https://www.phaidra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Phaidra partners with infrastructure operators, OEMs, technology providers, and AI ecosystem leaders to improve the performance, reliability, and efficiency of mission-critical facilities.",
+    "url": "https://www.phaidra.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Built on domain expertise across controls systems, infrastructure operations, machine learning, and industrial AI.",
+    "url": "https://www.phaidra.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Phaidra is a key NVIDIA DSX Omniverse partner helping operators manage the operational complexity created by large-scale GPU environments.",
+    "url": "https://www.phaidra.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Phaidra extends NVIDIA workflows by connecting cooling systems, facility telemetry, and power infrastructure into a unified intelligence layer for AI factories. Phaidra's AI agents improve thermal stability, reclaim stranded power capacity, and maximize tokens per watt.",
+    "url": "https://www.phaidra.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "We work with organizations building and operating critical infrastructure systems, AI factories, industrial environments, and operational technology platforms.",
+    "url": "https://www.phaidra.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Our team has a track record of applying AI to some of the toughest problems. We’re a globally distributed team of researchers, engineers, operators, and builders solving some of the hardest problems at the intersection of AI and industrial infrastructure.",
+    "url": "https://www.phaidra.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We combine deep expertise in AI, data centers, industrial controls, and mission-critical systems to build technology grounded in operational reality.",
+    "url": "https://www.phaidra.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Together with industrial controls expert Katie Hoffman, they founded Phaidra in 2019 to bring AI beyond research and into real-world operations, combining advanced AI with deep operational expertise to help organizations operate mission-critical infrastructure more intelligently.",
+    "url": "https://www.phaidra.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "and industrial expertise",
+    "url": "https://www.phaidra.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial control expertise",
+    "url": "https://www.phaidra.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Katie Hoffman spent over a decade designing and deploying industrial control systems, bringing deep expertise in automation, controls engineering, and the operational knowledge required to deploy AI in production.",
+    "url": "https://www.phaidra.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Enabling AI factories to operate as a single unit of compute",
+    "url": "https://www.phaidra.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "As AI factories grow in scale and complexity, every watt matters. Today, power, cooling, and compute are managed as disconnected systems. Our mission is to unify the AI factory through intelligent AI agents, maximizing performance, efficiency, and the value of every watt to unlock greater revenue generation.",
+    "url": "https://www.phaidra.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Our logomark is based on industrial controls, as it uses buttons and sliders to create the mark. While it may relate to old school technology, it's a symbol of innovation in mission critical facilities today.",
+    "url": "https://www.phaidra.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "The pattern \"DOT, DASH, DOT, DOT\", is Morse code for \"AI\". As morse code is translated by humans, so is our AI. Our team has mastered the complex understanding of industrial cooling systems and are able to translate through a technology we can use to improve plant stability, energy efficiency and sustainability.",
+    "url": "https://www.phaidra.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Aligned Data Centers Deploys Phaidra Prism, Leveraging the NVIDIA DSX AI Factory Platform to Deliver AI-driven Insights that Empower Operators and Strengthen Data Center Reliability",
+    "url": "https://www.phaidra.ai/blog/phaidra-and-aligned-data-centers-partner-to-empower-operations-teams-and-strengthen-data-center-reliability-with-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Phaidra has integrated NVIDIA DSX Exchange, part of NVIDIA DSX OS, into Phaidra Prism. Prism uses DSX Exchange as a common data layer to bring together information across mechanical, electrical, power, cooling, and IT systems, providing operators with a unified view of data center infrastructure through a conversational interface.",
+    "url": "https://www.phaidra.ai/blog/phaidra-and-aligned-data-centers-partner-to-empower-operations-teams-and-strengthen-data-center-reliability-with-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 25 International Institutions",
+    "url": "https://www.phaidra.org/",
+    "pass": 3
+   },
+   {
+    "quote": "AI / Industrial infrastructure",
+    "url": "https://www.firstbase.com/customer-stories/how-phaidra-unified-global-it-asset-management-with-firstbase",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of artificial intelligence-powered control systems intended to help large industrial facilities learn, adapt, and improve performance.",
+    "url": "https://pitchbook.com/profiles/company/435599-02",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Manufacturing",
+    "url": "https://pitchbook.com/profiles/company/435599-02",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of artificial intelligence-powered control systems intended to help large industrial facilities learn, adapt,",
+    "url": "https://pitchbook.com/profiles/company/435599-02",
+    "pass": 3
+   },
+   {
+    "quote": "Deterministic industrial process control",
+    "url": "https://pitchbook.com/profiles/company/435599-02",
+    "pass": 3
+   },
+   {
+    "quote": "Proceeds will fund R&D for advanced AI controls, Nvidia collaborations for integrated solutions, and customer growth beyond North America. Phaidra, founded in 2019 by ex-DeepMind engineers, now has 90 employees and serves major data center operators, demonstrating 20-30% efficiency gains in real-world deployments.",
+    "url": "https://www.techcompanynews.com/phaidra-raises-over-50m-in-series-b-funding-led-by-collaborative-fund/",
+    "pass": 3
+   },
+   {
+    "quote": "emphasized in interviews that the funds will “unlock the AI factories of the future,” enabling operators to scale compute without proportional energy hikes.",
+    "url": "https://www.techcompanynews.com/phaidra-raises-over-50m-in-series-b-funding-led-by-collaborative-fund/",
+    "pass": 3
+   },
+   {
+    "quote": "Quotes from stakeholders highlight optimism: Collaborative Fund’s Aalap Mahadevia noted Phaidra’s “breakthrough in autonomous operations,” while Gao added that their agents “surpass human operators in real-time decisions, cutting costs and emissions.”",
+    "url": "https://www.techcompanynews.com/phaidra-raises-over-50m-in-series-b-funding-led-by-collaborative-fund/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "LLM guided investigation using documentation (SOPs, OEM manuals, SOOs) as reasoning context",
+    "url": "https://www.phaidra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Phaidra partners with infrastructure operators, OEMs, technology providers, and AI ecosystem leaders to improve the performance, reliability, and efficiency of mission-critical facilities.",
+    "url": "https://www.phaidra.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "In the U.S., devices were ordered through an online store. Internationally, teams relied on retail locations or other major resellers such as Amazon or Best Buy. Each region had its own approach based on what was most efficient locally and what resources were available at the time.",
+    "url": "https://www.firstbase.com/customer-stories/how-phaidra-unified-global-it-asset-management-with-firstbase",
+    "pass": 3
+   },
+   {
+    "quote": "Tracking devices across different tools—like internal wikis, HRIS platforms, and reseller databases, which made it difficult to maintain a single, accurate view of inventory. Finance often had to cross-reference multiple sources to get the information they needed.",
+    "url": "https://www.firstbase.com/customer-stories/how-phaidra-unified-global-it-asset-management-with-firstbase",
+    "pass": 3
+   },
+   {
+    "quote": "All device records now live in Firstbase, giving IT and Finance one reliable system of record. No more reconciling spreadsheets against HRIS and reseller reports.",
+    "url": "https://www.firstbase.com/customer-stories/how-phaidra-unified-global-it-asset-management-with-firstbase",
+    "pass": 3
+   },
+   {
+    "quote": "Through Firstbase’s reseller partnerships, devices were automatically added to ABM. This eliminated the headaches of user-initiated enrollment and reduced the workload for IT.",
+    "url": "https://www.firstbase.com/customer-stories/how-phaidra-unified-global-it-asset-management-with-firstbase",
+    "pass": 3
+   },
+   {
+    "quote": "“Moving towards ABM enrollment via resellers takes so much admin load off my end.”",
+    "url": "https://www.firstbase.com/customer-stories/how-phaidra-unified-global-it-asset-management-with-firstbase",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "As AI factories grow in scale and complexity, every watt matters. Today, power, cooling, and compute are managed as disconnected systems. Our mission is to unify the AI factory through intelligent AI agents, maximizing performance, efficiency, and the value of every watt to unlock greater revenue generation.",
+    "url": "https://www.phaidra.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Phaidra has integrated NVIDIA DSX Exchange, part of NVIDIA DSX OS, into Phaidra Prism. Prism uses DSX Exchange as a common data layer to bring together information across mechanical, electrical, power, cooling, and IT systems, providing operators with a unified view of data center infrastructure through a conversational interface.",
+    "url": "https://www.phaidra.ai/blog/phaidra-and-aligned-data-centers-partner-to-empower-operations-teams-and-strengthen-data-center-reliability-with-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Across academia, cultural heritage and broader research; digital resources make up an ever increasing part of real-world assets.",
+    "url": "https://www.phaidra.org/",
+    "pass": 3
+   },
+   {
+    "quote": "Global expansion is every company’s dream, and every IT team’s stress test. For fast-growing organizations like Phaidra, which builds AI-powered systems to optimize complex infrastructure, scaling into multiple regions meant onboarding employees in the United States, India, Europe, and beyond.",
+    "url": "https://www.firstbase.com/customer-stories/how-phaidra-unified-global-it-asset-management-with-firstbase",
+    "pass": 3
+   },
+   {
+    "quote": "As more organizations scale internationally, Phaidra’s story highlights what’s possible when operational maturity meets the right technology partner: consistent experiences for employees, confidence for Finance, and a foundation that grows with the business.",
+    "url": "https://www.firstbase.com/customer-stories/how-phaidra-unified-global-it-asset-management-with-firstbase",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/435599-02",
+    "pass": 3
+   },
+   {
+    "quote": "Phaidra has 97 total employees.",
+    "url": "https://pitchbook.com/profiles/company/435599-02",
+    "pass": 3
+   },
+   {
+    "quote": "What is Phaidra’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/435599-02",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Phaidra is",
+    "url": "https://pitchbook.com/profiles/company/435599-02",
+    "pass": 3
+   },
+   {
+    "quote": "Proceeds will fund R&D for advanced AI controls, Nvidia collaborations for integrated solutions, and customer growth beyond North America. Phaidra, founded in 2019 by ex-DeepMind engineers, now has 90 employees and serves major data center operators, demonstrating 20-30% efficiency gains in real-world deployments.",
+    "url": "https://www.techcompanynews.com/phaidra-raises-over-50m-in-series-b-funding-led-by-collaborative-fund/",
+    "pass": 3
+   },
+   {
+    "quote": "AI data centers consume vast energy—projected to rival national grids—driving demand for tools like Phaidra’s. This funding arrives amid industry shifts toward renewables, but challenges like grid constraints and rising costs persist. It seems likely that Phaidra’s tech could reduce environmental impacts, though success depends on adoption rates and competition from incumbents.",
+    "url": "https://www.techcompanynews.com/phaidra-raises-over-50m-in-series-b-funding-led-by-collaborative-fund/",
+    "pass": 3
+   },
+   {
+    "quote": "Expanded U.S. team and early revenue; total reached $60.5M.",
+    "url": "https://www.techcompanynews.com/phaidra-raises-over-50m-in-series-b-funding-led-by-collaborative-fund/",
+    "pass": 3
+   },
+   {
+    "quote": "This progression shows accelerating round sizes, with a 14-month gap between the 2024 extension and 2025 B-round, likely due to demonstrated traction (e.g., multi-year contracts with hyperscalers). Cumulative funding now stands at approximately $120 million, supporting a 90-person team and projected 2025 revenue growth from $8.8 million in 2023.",
+    "url": "https://www.techcompanynews.com/phaidra-raises-over-50m-in-series-b-funding-led-by-collaborative-fund/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "成長中のAIスタートアップ「Phaidra」の全貌と未来展望| 生成AI活用事... — Dec 22, 2024 · 生成AIを活用した産業プロセス最適化により、製造業やエネルギー業界で劇的な効率改善を実現。 本記事では、Phaidraの革新的なサービス内容から最新の企業動向まで詳しく解説します。 Phaidraとは？ サービス概要と特徴",
+    "url": "https://generative-ai.co.jp/usecase/ai-startup-usecase-phaidra/",
+    "pass": 3
+   },
+   {
+    "quote": "Phaidra | AI Agents for AI Factories — Phaidra is building some of the most innovative AI agents for the design, build and operation of a data center.",
+    "url": "https://www.phaidra.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "AIスタートアップPhaidraがデータセンターの冷却制御システムで1200万... — Jul 5, 2024 · 産業用AI企業のPhaidraは、データセンターの冷却制御システムのために、1200万ドルを調達しました。 TechCrunchの報道によると同社はIndex Venturesから追加資金を確保し、この資金を研究開発、導入、市場開拓に充てるようです。",
+    "url": "https://cafe-dc.com/energy/ai-startup-phaidra-raises-12-million-for-data-center-cooling-control-system/",
+    "pass": 3
+   },
+   {
+    "quote": "Phaidra、データセンターのエネルギー消費管理を支援するAIソフトウェ... — Phaidra は、施設の使用状況を監視し、冷却メカニズム、節水、電力利用などを最適化できる「エージェント」を使用します。 同社はデータセンターのほか、製薬業界やエネルギー業界の顧客にも販売している。",
+    "url": "https://vugrow.com/vision/eev/phaidra-deetasentaanoenerugiishouhikanriwoshiensuru.html",
+    "pass": 3
+   },
+   {
+    "quote": "About | Phaidra — Together with industrial controls expert Katie Hoffman, they founded Phaidra in 2019 to bring AI beyond research and into real-world operations, combining advanced AI with deep operational expertise to help organizations operate mission-critical infrastructure more intelligently.",
+    "url": "https://www.phaidra.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": "CDJapan : Phaedra [50th Anniversary Edition] [5SHM-CD+Blu-ray ...PHAIDRAPrism - Phaidra「電力・熱のムダ」をAIで削る—Phaidra躍進｜今週のクライメート最前...成長中のAIスタートアップ「Phaidra」の全貌と未来展望| 生成AI活用事...PHAIDRA Community — SHM-CD discs are fully compatible with standard CD players. A 6-disc Anniversary Box Edition of \"Phaedra,\" one of Tangerine Dream's most successful and acclaimed albums. Learn about the tech stack, how to run PH",
+    "url": "https://www.cdjapan.co.jp/product/UICY-80580",
+    "pass": 3
+   },
+   {
+    "quote": "PHAIDRA — Learn about the tech stack, how to run PHAIDRA locally and how to contribute to the code and the project. Take part in a connected community including dozens of public institutions, each with a diverse use case: from research data to historic pictures to museum art, everyone is welcome.",
+    "url": "https://www.phaidra.org/",
+    "pass": 3
+   },
+   {
+    "quote": "Prism - Phaidra — Phaidra Prism is the intelligence and observability layer for AI factory operations. Detect anomalies, resolve issues faster, and reduce operational risk.",
+    "url": "https://www.phaidra.ai/prism",
+    "pass": 3
+   },
+   {
+    "quote": "「電力・熱のムダ」をAIで削る—Phaidra躍進｜今週のクライメート最前... — Oct 19, 2025 · 会社の概要 Phaidraは、工場や発電・素材などの設備を AIで賢く動かす ソフトウェアを提供する会社です。 既存の制御盤や監視システムをそのまま活かしながら、燃料や電力のムダを減らし、品質や生産量を 同時に底上げ することを目指します。 何ができる ...",
+    "url": "https://climatetech-japan.com/weekly-008/",
+    "pass": 3
+   },
+   {
+    "quote": "CASE STUDY HOW PHAIDRA UNIFIED GLOBAL IT ASSET MANAGEMENT ... — As more organizations scale internationally, Phaidra’s story highlights what’s possible when operational maturity meets the right technology partner: consistent experiences for employees, confidence for Finance, and a foundation that grows with the business.",
+    "url": "https://info.appdirect.com/hubfs/Firstbase+Files/Case+Studies/Phaidra+ai+Case+Study+Ebook.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Phaidra | AI Agents for AI Factories — What our customers say Assistive intelligence systems like Phaidra Prism don't replace our teams' expertise - they amplify it, surfacing critical context in real time so our operators can act with greater speed and precision.",
+    "url": "https://www.phaidra.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "How Phaidra Unified Global IT Asset Management With Firstbase — Firstbase stood out by combining global logistics (procurement, shipping, retrievals) with a software platform for tracking, workflows, and integration—delivering the consistency and visibility Phaidra’s teams were looking for. Firstbase emerged as the clear choice.",
+    "url": "https://www.firstbase.com/customer-stories/how-phaidra-unified-global-it-asset-management-with-firstbase",
+    "pass": 3
+   },
+   {
+    "quote": "Phaidra 2026 Company Profile: Valuation, Funding & Investors ...Phaidra - 2026 Company Profile, Team, Funding & Competitors ...Phaidra Funding History, Valuation and Investors - aVenturePhaidra Raises Over $50M In Series B Funding Led By ...Phaidra - Overview, News & Similar companies | ZoomInfo.comPhaidra — Power Law company profile | DealroomPhaidra — investors & funding | gritt.io — Information",
+    "url": "https://pitchbook.com/profiles/company/435599-02",
+    "pass": 3
+   },
+   {
+    "quote": "Phaidra - 2026 Company Profile, Team, Funding & Competitors ...Phaidra Funding History, Valuation and Investors - aVenturePhaidra Raises Over $50M In Series B Funding Led By ...Phaidra - Overview, News & Similar companies | ZoomInfo.comPhaidra — Power Law company profile | DealroomPhaidra — investors & funding | gritt.io — Mar 14, 2026 · Phaidra is a series B company based in Seattle (United State",
+    "url": "https://tracxn.com/d/companies/phaidra/__btJaj8l_WvbkThIiR1y48Z7QamJgTRFM_sXoS6nKKHc",
+    "pass": 3
+   },
+   {
+    "quote": "Phaidra Funding History, Valuation and Investors - aVenture — Oct 21, 2026 · Funding rounds, valuation history, and investor coverage across 14 investors for Phaidra.",
+    "url": "https://aventure.vc/companies/phaidra-seattle-wa-us/fundraising",
+    "pass": 3
+   },
+   {
+    "quote": "Phaidra Raises Over $50M In Series B Funding Led By ... — Oct 4, 2025 · Phaidra, founded in 2019 by ex-DeepMind engineers, now has 90 employees and serves major data center operators, demonstrating 20-30% efficiency gains in real-world deployments. AI data centers consume vast energy—projected to rival national grids—driving demand for tools like Phaidra’s.",
+    "url": "https://www.techcompanynews.com/phaidra-raises-over-50m-in-series-b-funding-led-by-collaborative-fund/",
+    "pass": 3
+   },
+   {
+    "quote": "Phaidra - Overview, News & Similar companies | ZoomInfo.com — Jul 14, 2022 · New funding: Phaidra, a startup that launched in 2019 and is building AI tech for industrial customers, raised $4 million. The software: Phaidra analyzes massive amounts of sensor data and creates intelligent AI agents that automatically control and optimize complex industrial facilities.",
+    "url": "https://www.zoominfo.com/c/phaidra/498554974",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/435599-02",
+    "pass": 3
+   },
+   {
+    "quote": "Please email us your feedback and news tips at hello(at)techcompanynews.com",
+    "url": "https://www.techcompanynews.com/phaidra-raises-over-50m-in-series-b-funding-led-by-collaborative-fund/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "なぜ今、データセンターのエネルギー最適化が不可欠なのか？ Jun 11, 2024 · 今回はデータセンターの冷却システム最適化を深層学習を通じて実現するスタートアップPhaidraについて分析してみました。 Phaidraのビジネスモデルだけでなく、深層学習と生成AIのユースケースについても含めているので、是非ご一読ください。",
+    "url": "https://note.com/cac_nagahori/n/n4bb0c47c88e2",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "公開情報はもちろんなく、導入事例も転がっていなかったのですが、この記事を見るにCyrusOneというデータセンター企業はPhaidraを導入していそうです",
+    "url": "https://note.com/cac_nagahori/n/n4bb0c47c88e2",
+    "pass": 3
+   },
+   {
+    "quote": "CyrusOneのデータセンターは米国に32拠点、欧州に13拠点、日本に1拠点あります",
+    "url": "https://note.com/cac_nagahori/n/n4bb0c47c88e2",
+    "pass": 3
+   },
+   {
+    "quote": "日本におけるデータセンターの電力消費について説明します",
+    "url": "https://note.com/cac_nagahori/n/n4bb0c47c88e2",
+    "pass": 3
+   },
+   {
+    "quote": "市場の魅力は分かったが、Phaidraなどの海外スタートアップが日本国内に進出したら元も子もないということがあるかと思います",
+    "url": "https://note.com/cac_nagahori/n/n4bb0c47c88e2",
+    "pass": 3
+   },
+   {
+    "quote": "ですが、結論、Phaidraによる日本進出は難しいと考えられます",
+    "url": "https://note.com/cac_nagahori/n/n4bb0c47c88e2",
+    "pass": 3
+   },
+   {
+    "quote": "データセンターのセキュリティ規制の観点から、金融機関など高いセキュリティ水準が求められる業界では、データセンター内のシステムやサービスについて、日本の法規制に準拠した運用が必須です",
+    "url": "https://note.com/cac_nagahori/n/n4bb0c47c88e2",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業の文化や日本資本の企業というのが、これらの大企業向けには重要であるということが、これまでのベンダーとの付き合いといった歴史を見ても明らかだと思います",
+    "url": "https://note.com/cac_nagahori/n/n4bb0c47c88e2",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "なぜ今、データセンターのエネルギー最適化が不可欠なのか？｜CAC 永堀礼Nagahori Masashi",
+    "url": "https://note.com/cac_nagahori/n/n4bb0c47c88e2",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ今、データセンターのエネルギー最適化が不可欠なのか？",
+    "url": "https://note.com/cac_nagahori/n/n4bb0c47c88e2",
+    "pass": 3
+   },
+   {
+    "quote": "CAC 永堀礼Nagahori Masashi",
+    "url": "https://note.com/cac_nagahori/n/n4bb0c47c88e2",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーエージェント・キャピタル（CAC）の永堀（ナガホリ）です。",
+    "url": "https://note.com/cac_nagahori/n/n4bb0c47c88e2",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、元データサイエンティストが、海外のマネタイズに成功しているAIスタートアップを分析してみた！の第二弾です。",
+    "url": "https://note.com/cac_nagahori/n/n4bb0c47c88e2",
+    "pass": 3
+   },
+   {
+    "quote": "前回はイスラエル発のスタートアップで、WordtuneやAI21 Studioを展開するAI21 Labsをご紹介しました。",
+    "url": "https://note.com/cac_nagahori/n/n4bb0c47c88e2",
+    "pass": 3
+   },
+   {
+    "quote": "今回はデータセンターの冷却システム最適化を深層学習を通じて実現するスタートアップPhaidraについて分析してみました。",
+    "url": "https://note.com/cac_nagahori/n/n4bb0c47c88e2",
+    "pass": 3
+   },
+   {
+    "quote": "Phaidraのビジネスモデルだけでなく、深層学習と生成AIのユースケースについても含めているので、是非ご一読ください。",
+    "url": "https://note.com/cac_nagahori/n/n4bb0c47c88e2",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "𝔅𝔩𝔞𝔠𝔨𝔉𝔦𝔯𝔢 (@Phaidra__) / X 970 followers · 454 following. Joined Jan 2014. See the latest conversations with @Phaidra__",
+    "url": "https://x.com/Phaidra__",
+    "pass": 3
+   },
+   {
+    "quote": "Phaidra McDermott (@SanibelRE) / Posts / X Native Sanibel islander, Phaidra McDermott offers enthusiasm and commitment to her clients. The goal: find the perfect Sanibel home for each home-hunter.",
+    "url": "https://x.com/sanibelre",
+    "pass": 3
+   },
+   {
+    "quote": "phaidra (@phaidra23269490) / X Mention Follow Posts Posts RepliesReplies RepostsReposts MediaMedia phaidra @phaidra23269490 Dec 11, 2022 Welcome all",
+    "url": "https://x.com/phaidra23269490",
+    "pass": 3
+   },
+   {
+    "quote": "Phaidra Harper (@phaidra) / X 54 followers · 235 following. Austin, TX. Joined Feb 2007. See the latest conversations with @phaidra",
+    "url": "https://x.com/phaidra",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Phaidra - LinkedIn Phaidra includes a line of purpose-built AI agents to orchestrate the power, cooling and workload management systems in AI factories.",
+    "url": "https://www.linkedin.com/company/phaidra-ai",
+    "pass": 3
+   },
+   {
+    "quote": "PHAIDRA - LinkedIn PHAIDRA is a leading digital asset management system developed by the University of Vienna to provide secure, long-term management and preservation solutions for research data.",
+    "url": "https://www.linkedin.com/company/phaidra",
+    "pass": 3
+   },
+   {
+    "quote": "Phaidra Duchastel-Vassaramva - Turning Sustainability ...Vanč Levstik - Building AI agents for AI factories @Phaidra ...Raahul Singh - Staff AI Research Engineer @ Phaidra | Multi ...Phaidra Jenner - lətkʷu | LinkedInAyoosh Kathuria - Sr AI Engineer @ Kantiv | Ex-Phaidra ... Turning Sustainability Strategy into Scalable Impact · Experience: Sun Life · Education: Université de Montréal · Location: ",
+    "url": "https://ca.linkedin.com/in/phaidra",
+    "pass": 3
+   },
+   {
+    "quote": "Vanč Levstik - Building AI agents for AI factories @Phaidra ...Raahul Singh - Staff AI Research Engineer @ Phaidra | Multi ...Phaidra Jenner - lətkʷu | LinkedInAyoosh Kathuria - Sr AI Engineer @ Kantiv | Ex-Phaidra ... Building AI agents for AI factories @Phaidra · Engineering lead with full-stack and AI engineering experience. I enjoy using the latest tech to solve hard problems Experience with f",
+    "url": "https://uk.linkedin.com/in/vanclevstik",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Phaidra Profiles - Facebook View the profiles of people named Phaidra. Join Facebook to connect with Phaidra and others you may know. Facebook gives people the power to share and...",
+    "url": "https://www.facebook.com/public/Phaidra/",
+    "pass": 3
+   },
+   {
+    "quote": "Phaidra Horton | Atlanta GA - Facebook Phaidra Horton, Atlanta. 83 followers. A performing arts and educator with BA in Vocal Performance, a Masters in Entertainment Business, and a Master of...",
+    "url": "https://www.facebook.com/phortonsings/",
+    "pass": 3
+   },
+   {
+    "quote": "Phaidra Billings - Facebook Phaidra Billings. 562 followers · 180 talking about this. “Buy the ticket, Take the ride!”🚀",
+    "url": "https://www.facebook.com/phaidra.billings/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.phaidra.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.phaidra.ai/partnerships",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.phaidra.ai/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.phaidra.ai/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.phaidra.ai/blog/phaidra-and-aligned-data-centers-partner-to-empower-operations-teams-and-strengthen-data-center-reliability-with-ai",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.phaidra.ai/hs-fs/hubfs/infra-partners.png?width=91&height=32&name=infra-partners.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.phaidra.ai/hs-fs/hubfs/infra-partners.png?width=117&height=41&name=infra-partners.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://generative-ai.co.jp/usecase/ai-startup-usecase-phaidra/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cafe-dc.com/energy/ai-startup-phaidra-raises-12-million-for-data-center-cooling-control-system/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://vugrow.com/vision/eev/phaidra-deetasentaanoenerugiishouhikanriwoshiensuru.html",
+    "status": "http_522",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cdjapan.co.jp/feature/Tangerine-Dream-Phaedra-50th-Anniversary-Edition",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cdjapan.co.jp/product/UICY-80580",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.phaidra.org/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://info.appdirect.com/hubfs/Firstbase+Files/Case+Studies/Phaidra+ai+Case+Study+Ebook.pdf",
+    "status": "http_404",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.microsoft.com/en-us/customers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.firstbase.com/customer-stories/how-phaidra-unified-global-it-asset-management-with-firstbase",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/435599-02",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/phaidra/__btJaj8l_WvbkThIiR1y48Z7QamJgTRFM_sXoS6nKKHc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://aventure.vc/companies/phaidra-seattle-wa-us/fundraising",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techcompanynews.com/phaidra-raises-over-50m-in-series-b-funding-led-by-collaborative-fund/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/cac_nagahori/n/n4bb0c47c88e2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Phaidra__",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sanibelre",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/phaidra23269490",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/phaidra",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/phaidra-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/phaidra",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/phaidra",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/vanclevstik",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/public/Phaidra/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/phortonsings/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/phaidra.billings/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/phaidra",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Phaidra__",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Phaidra 日本 導入",
+   "results": [
+    "https://generative-ai.co.jp/usecase/ai-startup-usecase-phaidra/",
+    "https://www.phaidra.ai/",
+    "https://cafe-dc.com/energy/ai-startup-phaidra-raises-12-million-for-data-center-cooling-control-system/",
+    "https://vugrow.com/vision/eev/phaidra-deetasentaanoenerugiishouhikanriwoshiensuru.html",
+    "https://www.phaidra.ai/about",
+    "https://climatetech-japan.com/weekly-008/",
+    "https://note.com/cac_nagahori/n/n4bb0c47c88e2"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Phaidra 代理店 OR 総代理店 OR 日本法人",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Phaidra Japan",
+   "results": [
+    "https://www.cdjapan.co.jp/feature/Tangerine-Dream-Phaedra-50th-Anniversary-Edition",
+    "https://www.cdjapan.co.jp/product/UICY-80580",
+    "https://www.phaidra.org/",
+    "https://www.phaidra.ai/prism",
+    "https://climatetech-japan.com/weekly-008/",
+    "https://generative-ai.co.jp/usecase/ai-startup-usecase-phaidra/",
+    "https://community.phaidra.org/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Phaidra manufacturing customer case study",
+   "results": [
+    "https://info.appdirect.com/hubfs/Firstbase+Files/Case+Studies/Phaidra+ai+Case+Study+Ebook.pdf",
+    "https://www.microsoft.com/en-us/customers/",
+    "https://www.phaidra.ai/",
+    "https://www.firstbase.com/customer-stories/how-phaidra-unified-global-it-asset-management-with-firstbase",
+    "https://www.phaidra.ai/prism",
+    "https://www.phaidra.org/",
+    "https://wonderful-power-cd127222e3.media.strapiapp.com/Phaidra_AI_Control_at_Merck_Case_Study_2024_5e87575c03.pdf",
+    "https://www.phaidra.ai/blog/autonomous-ai-control-of-mission-critical-cooling-at-merck",
+    "https://www.helena.org/projects/phaidra/",
+    "https://markcubancompanies.com/companies/phaidra/?modal"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Phaidra white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partner.vw.com/partner",
+    "https://creators.riotgames.com/en-us",
+    "https://dropifyresellerbd.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://upcloud.com/partner-program/",
+    "https://www.reseller.co.nz/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Phaidra founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/435599-02",
+    "https://tracxn.com/d/companies/phaidra/__btJaj8l_WvbkThIiR1y48Z7QamJgTRFM_sXoS6nKKHc",
+    "https://aventure.vc/companies/phaidra-seattle-wa-us/fundraising",
+    "https://www.techcompanynews.com/phaidra-raises-over-50m-in-series-b-funding-led-by-collaborative-fund/",
+    "https://www.zoominfo.com/c/phaidra/498554974",
+    "https://dealroom.co/companies/phaidra/",
+    "https://www.gritt.io/company/phaidra-ai/",
+    "https://compworth.com/company/phaidra",
+    "https://startupintros.com/orgs/phaidra",
+    "https://getlatka.com/companies/phaidra.ai"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:note.com Phaidra",
+   "results": [
+    "https://note.com/seigo77",
+    "https://note.com/cac_nagahori/n/n4bb0c47c88e2",
+    "https://note.com/lovely_gnu888/n/nb1a3e445b399",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/tsutushi0628/n/nfb6c53230dd0"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Phaidra",
+   "results": [
+    "https://x.com/Phaidra__",
+    "https://x.com/sanibelre",
+    "https://x.com/phaidra23269490",
+    "https://x.com/phaidra",
+    "https://x.com/pennkmajrh",
+    "https://x.com/PsychicMajorr",
+    "https://x.com/msphaidra/status/2118417010120102369"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Phaidra",
+   "results": [
+    "https://www.linkedin.com/company/phaidra-ai",
+    "https://www.linkedin.com/company/phaidra",
+    "https://ca.linkedin.com/in/phaidra",
+    "https://uk.linkedin.com/in/vanclevstik",
+    "https://uk.linkedin.com/in/raahulsingh42",
+    "https://ca.linkedin.com/in/phaidra-jenner",
+    "https://in.linkedin.com/in/ayooshk"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Phaidra",
+   "results": [
+    "https://www.facebook.com/public/Phaidra/",
+    "https://www.facebook.com/phortonsings/",
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/phaidra.billings/",
+    "https://www.facebook.com/phaidraAI/",
+    "https://www.facebook.com/phaidra.thompson/",
+    "https://www.facebook.com/PhaidraNeith/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Phaidra note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://froggy.smbcnikko.co.jp/series-name/note/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.com/saiyou_dekirukun/all",
+    "https://note.com/claudeceo",
+    "https://note.com/tvdramasuki_desu/n/n1bd89782425e",
+    "https://www.phaidra.ai/about",
+    "https://note.com/ceoinvestnote/n/n19e2251218a5",
+    "https://note.com/sanshita_note/n/n06e080c63da4"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Phaidra X 投稿",
+   "results": [
+    "https://x.com/phaidra",
+    "https://x.com/Phaidra__",
+    "https://x.com/phaedrapaints",
+    "https://x.com/PhaedraXTeddy",
+    "https://x.com/PhaedraInc",
+    "https://x.com/phaedra_x",
+    "https://x.com/PhaedraXTeddy/status/2086673582608843154"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式5頁／PDF・画像2件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像2件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像2件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式5頁／PDF・画像2件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式5頁／PDF・画像2件／外部31頁・検索12回）"
+ }
+}

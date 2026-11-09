@@ -1,0 +1,1334 @@
+{
+ "name": "Paperspace",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-09T23:04:43.143111+00:00",
+ "official_url": "https://www.paperspace.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "NVIDIA H100 for AI & ML Workloads | Cloud GPU Platform | DigitalOcean",
+    "url": "https://www.paperspace.com/",
+    "pass": 1
+   },
+   {
+    "quote": "full suite of GPUs and other AI products at DigitalOcean.com",
+    "url": "https://www.paperspace.com/",
+    "pass": 1
+   },
+   {
+    "quote": "DigitalOcean provides accelerated cloud computing focused on",
+    "url": "https://www.paperspace.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Take AI models from concept to production fast, then scale them in a flash on DigitalOcean.",
+    "url": "https://www.paperspace.com/",
+    "pass": 1
+   },
+   {
+    "quote": "to build a proof of concept.",
+    "url": "https://www.paperspace.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Scale when you need, stop paying when you don't. On-demand pricing means you only pay for what you use.",
+    "url": "https://www.paperspace.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Go from signup to training a model in seconds. Leverage pre-configured templates.",
+    "url": "https://www.paperspace.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Job scheduling, resource provisioning, and more without ever managing servers.",
+    "url": "https://www.paperspace.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Scale up training with a full range of GPU options with no runtime limits.",
+    "url": "https://www.paperspace.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Paperspace provides a unified platform designed for your entire team.",
+    "url": "https://www.paperspace.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve visibility into team utilization, permissions, and more.",
+    "url": "https://www.paperspace.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Go from signup to training a model in seconds with pre-configured templates.",
+    "url": "https://www.paperspace.com/",
+    "pass": 1
+   },
+   {
+    "quote": "DigitalOcean provides a unified platform designed for your entire team.",
+    "url": "https://www.paperspace.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how to build with Paperspace products.",
+    "url": "https://www.paperspace.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerating modern workloads",
+    "url": "https://www.paperspace.com/",
+    "pass": 1
+   },
+   {
+    "quote": "from AI to data science. Start training now with Notebooks powered by IPUs.",
+    "url": "https://www.paperspace.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our tools provide a seamless abstraction layer that radically simplifies access to accelerated computing. The Paperspace stack removes costly distractions, enabling individuals and organizations to focus on what matters.",
+    "url": "https://www.paperspace.com/",
+    "pass": 1
+   },
+   {
+    "quote": "for programmatic access",
+    "url": "https://www.paperspace.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Low-latency desktop streaming software. Currently in limited preview.",
+    "url": "https://www.paperspace.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing | DigitalOcean",
+    "url": "https://www.paperspace.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Simple, flexible pricing",
+    "url": "https://www.paperspace.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "For private cloud, on-premise deployments, and private clusters running on the Paperspace Cloud.",
+    "url": "https://www.paperspace.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Private Azure/AWS/GCP/Paperspace",
+    "url": "https://www.paperspace.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Private cloud, or hybrid environment support",
+    "url": "https://www.paperspace.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "On-premise installation eg DGX",
+    "url": "https://www.paperspace.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "On-premise or hybrid environment support.",
+    "url": "https://www.paperspace.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "For private cloud and on-premise deployments.",
+    "url": "https://www.paperspace.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "For professional teams building intelligent applications at scale",
+    "url": "https://www.paperspace.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "For professional teams, researchers, start-up, and ML dev teams",
+    "url": "https://www.paperspace.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "View Gradient pricing",
+    "url": "https://www.paperspace.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Host Gradient on your own infrastructure and run without limits. Schedule time with a product specialist to learn more about our custom plans.",
+    "url": "https://www.paperspace.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "View hosted instance pricing",
+    "url": "https://www.paperspace.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How does pricing work?",
+    "url": "https://www.paperspace.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We use Stripe to process payments. We accept all major credit and debit cards including Visa, MasterCard, American Express and Discover. Custom invoicing is available on our business plans.",
+    "url": "https://www.paperspace.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "When you sign up for Gradient, you start with a \"private workspace.\" This is your individual plan. To invite collaborators, create a new team and you'll see an option to invite other users. Your private workspace and team(s) are billed separately.",
+    "url": "https://www.paperspace.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Is private data shared with advertisers?",
+    "url": "https://www.paperspace.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "*$2.24/hour pricing is for a 3-year commitment. On-demand pricing for H100 is $5.95/hour under our special promo price.**$1.15/hour pricing is for a 3-year commitment.",
+    "url": "https://www.paperspace.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "**$1.15/hour pricing is for a 3-year commitment.",
+    "url": "https://www.paperspace.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Multiply the specs and price of each type above by the number of GPUs.",
+    "url": "https://www.paperspace.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "effective hourly price",
+    "url": "https://www.paperspace.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Simply double, quadruple, etc. the specs and price of each type above.",
+    "url": "https://www.paperspace.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Schedule time with a product specialist to learn more about our custom plans and how DigitalOcean can work for your business.",
+    "url": "https://www.paperspace.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Is private data shared with third parties or advertisers?",
+    "url": "https://www.paperspace.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Dive in and do the best work of your career at DigitalOcean. Journey alongside a strong community of exceptional talent who are relentless in their drive to build the comprehensive inference cloud.",
+    "url": "https://www.digitalocean.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Shape the next evolution of DigitalOcean products",
+    "url": "https://www.digitalocean.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "DigitalOcean provides a foundation for employees to do the best work of their careers with a commitment to both remote work and in-person collaboration. These ways of working are dependent on specific roles and are mutually agreed upon by employees and their managers.",
+    "url": "https://www.digitalocean.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We move quickly, adapt to change, and seize opportunities with urgency. Speed and progress are more important than perfection.",
+    "url": "https://www.digitalocean.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "by demonstrating a bias for action and a powerful sense of responsibility for customers, products, employees, and decisions.",
+    "url": "https://www.digitalocean.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "All US- based employees are eligible to enroll in a traditional or Roth 401(k) through Fidelity. DO will provide a match in accordance with our tiered, safe harbor matching plan.",
+    "url": "https://www.digitalocean.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "New hires will be able to submit receipts within the eligible amount to set up their new home office.",
+    "url": "https://www.digitalocean.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Our Milestone Program supports employees who have experienced a significant milestone in their personal life by sending a care package or gift.",
+    "url": "https://www.digitalocean.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Our Anniversary Program celebrates employees each work anniversary with points they can use to spend on what’s most meaningful to them.",
+    "url": "https://www.digitalocean.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We partner with Groundswell to match employee donations. DO matches employee donations made through our vendor Groundswell, up to an approved maximum.",
+    "url": "https://www.digitalocean.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Educational reimbursement is available for employees that covers the costs of courses, certifications, conferences, or other continuing education programs aiding in individual professional growth.",
+    "url": "https://www.digitalocean.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Professional Development",
+    "url": "https://www.digitalocean.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "DO supports its employees’ personal and professional growth and development and encourages attendance at conferences, company events, Meetups, and in-office learning opportunities. We provide unlimited access to leading platform, LinkedIn Learning.",
+    "url": "https://www.digitalocean.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Employees can use the Book Program to purchase one book per month as part of their individual professional growth.",
+    "url": "https://www.digitalocean.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Supplemental Life Insurance and income protection coverage is available at no cost to employees.",
+    "url": "https://www.digitalocean.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Interviewing with DigitalOcean",
+    "url": "https://www.digitalocean.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Your resume will be reviewed by a real-life human, not a robot (hooray humans!). If selected for an interview, a recruiter will reach out within two to three weeks to schedule a video call via Google Meet.",
+    "url": "https://www.digitalocean.com/careers",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Paperspace is now part of DigitalOcean—you can find our",
+    "url": "https://www.paperspace.com/",
+    "pass": 1
+   },
+   {
+    "quote": "DigitalOcean provides a foundation for employees to do the best work of their careers with a commitment to both remote work and in-person collaboration. These ways of working are dependent on specific roles and are mutually agreed upon by employees and their managers.",
+    "url": "https://www.digitalocean.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Our fully remote employees are not required to work from a DigitalOcean office.",
+    "url": "https://www.digitalocean.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Our hybrid remote employees typically work from an office three days a week, and the rest of the time they work remotely.",
+    "url": "https://www.digitalocean.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Our in-office employees work in-office five days per week.",
+    "url": "https://www.digitalocean.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "by demonstrating a bias for action and a powerful sense of responsibility for customers, products, employees, and decisions.",
+    "url": "https://www.digitalocean.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "What do the employees say about the life at DO?",
+    "url": "https://www.digitalocean.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Equity grants are available to reward and inspire eligible employees to continue high performance.",
+    "url": "https://www.digitalocean.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Our Employee Stock Purchase Plan is a benefit that allows eligible employees to purchase DO stock at a discounted rate.",
+    "url": "https://www.digitalocean.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "All US- based employees are eligible to enroll in a traditional or Roth 401(k) through Fidelity. DO will provide a match in accordance with our tiered, safe harbor matching plan.",
+    "url": "https://www.digitalocean.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Employees receive Monthly Stipends for internet / phone costs, as well as wellness initiatives.",
+    "url": "https://www.digitalocean.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Our Milestone Program supports employees who have experienced a significant milestone in their personal life by sending a care package or gift.",
+    "url": "https://www.digitalocean.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Our Anniversary Program celebrates employees each work anniversary with points they can use to spend on what’s most meaningful to them.",
+    "url": "https://www.digitalocean.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Educational reimbursement is available for employees that covers the costs of courses, certifications, conferences, or other continuing education programs aiding in individual professional growth.",
+    "url": "https://www.digitalocean.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "DO supports its employees’ personal and professional growth and development and encourages attendance at conferences, company events, Meetups, and in-office learning opportunities. We provide unlimited access to leading platform, LinkedIn Learning.",
+    "url": "https://www.digitalocean.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Employees can use the Book Program to purchase one book per month as part of their individual professional growth.",
+    "url": "https://www.digitalocean.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Supplemental Life Insurance and income protection coverage is available at no cost to employees.",
+    "url": "https://www.digitalocean.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We offer above-average parental leave benefits to support employees as they expand their families.",
+    "url": "https://www.digitalocean.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Flexible Paid Time Off is offered globally to all full time employees to rest and recharge.",
+    "url": "https://www.digitalocean.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "New employees receive IT equipment and go through comprehensive remote onboarding sessions as part of their orientation.",
+    "url": "https://www.digitalocean.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Some of the frequently asked questions to our Talent Acquisition Team",
+    "url": "https://www.digitalocean.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "DigitalOcean provides a foundation for employees to do the best work of their careers with a commitment to both remote work and in-person collaboration. Our employees fall into one of these personas: Fully remote, Hybrid remote, or In Office. These ways of working are dependent on specific roles and are mutually agreed upon by employees and their managers.",
+    "url": "https://www.digitalocean.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "DigitalOcean’s Talent Acquisition team reviews all applications and reaches out to the candidates we would like to move forward with in a timely manner. If your application is not selected for the role you applied to, we also will let you know via email.",
+    "url": "https://www.digitalocean.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Candidates are welcome to apply to 3 jobs within a 180 day period. We encourage you to apply to the roles that you believe are the best match for you. This gives the Talent Acquisition team more time to dedicate to each application and helps you focus on the jobs that are best matched to you, uniquely!",
+    "url": "https://www.digitalocean.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "How does DigitalOcean support its employees and communities?",
+    "url": "https://www.digitalocean.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "中小企業(SMB)と新興企業向けのクラウドを提供するデジタルオーシャン・ホールディングス(NYSE:DOCN)は、グラフィックス・プロセッシング・ユニット(GPU)を活用した高度にスケーラブルなアプリケーション向けのクラウド・インフラストラクチャ・アズ・ア・サービスの大手プロバイダーである",
+    "url": "https://knb-mayumi.com/paperspace/",
+    "pass": 3
+   },
+   {
+    "quote": "VRoidのキャラをTripo・きゃらくる・Codexでリメイクしてみたメモ",
+    "url": "https://knb-mayumi.com/paperspace/",
+    "pass": 3
+   },
+   {
+    "quote": "Paperspace drives 65% of ARR with Pocus",
+    "url": "https://www.casestudies.com/customer/paperspace",
+    "pass": 3
+   },
+   {
+    "quote": "How Paperspace’s Product-Led Sales motion drove 65% of ARR",
+    "url": "https://www.pocus.com/case-studies/how-paperspaces-product-led-sales-motion-drove-65-percent-of-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Learn how Paperspace uses Pocus to turn product users into predictable top-line revenue.",
+    "url": "https://www.pocus.com/case-studies/how-paperspaces-product-led-sales-motion-drove-65-percent-of-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Director of Paperspace Revenue",
+    "url": "https://www.pocus.com/case-studies/how-paperspaces-product-led-sales-motion-drove-65-percent-of-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Paperspace has been developers' favorite for many years, fueling their impressive user growth. Beginning in 2022, Paperspace wanted to harness the power of their growing, loyal user base by turning their focus to driving more predictable revenue through a Product-Led Sales motion. They succeeded in their mission, growing top-line revenue 2.5x YoY and landing an",
+    "url": "https://www.pocus.com/case-studies/how-paperspaces-product-led-sales-motion-drove-65-percent-of-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "acquisition by DigitalOcean",
+    "url": "https://www.pocus.com/case-studies/how-paperspaces-product-led-sales-motion-drove-65-percent-of-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "We had a chance to catch up with one of the experts behind Paperspace’s go-to-market success story, Benjamin Lamson, formerly Head of Revenue for Paperspace and now leads the Paperspace Revenue team at DigitalOcean. Continue reading to learn how Paperspace turns product users into predictable top-line revenue.",
+    "url": "https://www.pocus.com/case-studies/how-paperspaces-product-led-sales-motion-drove-65-percent-of-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How Pocus has helped Paperspace unlock revenue from their data.",
+    "url": "https://www.pocus.com/case-studies/how-paperspaces-product-led-sales-motion-drove-65-percent-of-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Like a lot product-led companies with a self-serve motion, when Paperspace first decided to focus more explicitly on revenue growth, they took a traditional sales approach. The result? Sales over indexed on acquisition via cold outbound rather than double down on customers hiding in their sea of self-serve users. Among the hobbyists was a goldmine of revenue opportunities.",
+    "url": "https://www.pocus.com/case-studies/how-paperspaces-product-led-sales-motion-drove-65-percent-of-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Having this consistency meant Ben and the team had access to better data to compare Playbook performance, unlocking faster experimentation so they could double down on Playbooks that drive revenue.",
+    "url": "https://www.pocus.com/case-studies/how-paperspaces-product-led-sales-motion-drove-65-percent-of-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "PaperSpace's journey with Product-Led Sales and implementing Pocus has transformed their go-to-market strategy and driven revenue growth. Pocus influenced 65% of annual revenue by operatonalizing the product-led customer success motion. Find out how Pocus can help you turn intent data into revenue. Book time with a PLS expert on our team.",
+    "url": "https://www.pocus.com/case-studies/how-paperspaces-product-led-sales-motion-drove-65-percent-of-revenue",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "DigitalOcean’s Talent Acquisition team reviews all applications and reaches out to the candidates we would like to move forward with in a timely manner. If your application is not selected for the role you applied to, we also will let you know via email.",
+    "url": "https://www.digitalocean.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We would love to help. Please send an email to",
+    "url": "https://www.digitalocean.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Set your email address and password",
+    "url": "https://note.com/genad_note/n/n2ef615f16f13?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "After registering, complete the email verification",
+    "url": "https://note.com/genad_note/n/n2ef615f16f13?hl=en",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "DigitalOcean is used by some of the most",
+    "url": "https://www.paperspace.com/nvidia-csp-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Success Stories about Software and Services used by Paperspace",
+    "url": "https://www.casestudies.com/customer/paperspace",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: nTopology accelerates 3D printing design and testing with Paperspace | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/paperspace/case-study/ntopology-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: nTopology accelerates 3D printing design and testing with Paperspace",
+    "url": "https://www.casestudies.com/company/paperspace/case-study/ntopology-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "nTopology - Customer Case Study",
+    "url": "https://www.casestudies.com/company/paperspace/case-study/ntopology-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "nTopology, a New York City-based manufacturing design software company, creates generative CAD tools for lattice design in high-performance 3D printed parts. As a Mac-based design team building software for Windows users, they needed a reliable way to run and test Element, their application for designing and optimizing complex lattice structures.",
+    "url": "https://www.casestudies.com/company/paperspace/case-study/ntopology-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Open case study document...",
+    "url": "https://www.casestudies.com/company/paperspace/case-study/ntopology-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/paperspace/case-study/ntopology-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study - Pocus x Paperspace",
+    "url": "https://www.pocus.com/case-studies/how-paperspaces-product-led-sales-motion-drove-65-percent-of-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "“We weren't looking at leading indicators like we are today by leveraging segment data, sending it to the data warehouse, and then identifying PQLS. It was all lagging indicators.”",
+    "url": "https://www.pocus.com/case-studies/how-paperspaces-product-led-sales-motion-drove-65-percent-of-revenue",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "国を日本にして、頭の0を抜いた番号(090-1234-5678なら9012345678)を入れてね",
+    "url": "https://wikiwiki.jp/sd_toshiaki/Paperspace%E7%89%88%E5%B0%8E%E5%85%A5",
+    "pass": 3
+   },
+   {
+    "quote": "また、データセンターが置いてあるリージョンが３つしかなく、日本から遠いため、デスクトップ環境では若干操作にタイムラグが生じます",
+    "url": "https://qiita.com/gtca/items/6a237fe9ee370335575f",
+    "pass": 3
+   },
+   {
+    "quote": "Paperspaceの使い方！アメリカにあるゲーミングPCをクラウド経由で日本で使ってThreeDPoseTrackerを動かした | 神部まゆみのブログ",
+    "url": "https://knb-mayumi.com/paperspace/",
+    "pass": 3
+   },
+   {
+    "quote": "Paperspaceの使い方！アメリカにあるゲーミングPCをクラウド経由で日本で使ってThreeDPoseTrackerを動かした",
+    "url": "https://knb-mayumi.com/paperspace/",
+    "pass": 3
+   },
+   {
+    "quote": "日本のOculus Questと米国西海岸のクラウドゲーミングマシンをVirtual Desktopで繋いで、QuestからPC版のVRChatにはいれた",
+    "url": "https://knb-mayumi.com/paperspace/",
+    "pass": 3
+   },
+   {
+    "quote": "ただ当然だけど英語だから、日本語化はしたほうがいいね",
+    "url": "https://knb-mayumi.com/paperspace/",
+    "pass": 3
+   },
+   {
+    "quote": "「windows 日本語化」｜Google検索",
+    "url": "https://knb-mayumi.com/paperspace/",
+    "pass": 3
+   },
+   {
+    "quote": "eスポーツの普及に注力するネットカフェ代理店テクノブラッド社「推奨店舗」となり、Steam版を ゲームPC全席にインストールしましたので、入店後ストレスなくプレイ出来ます！",
+    "url": "https://knb-mayumi.com/paperspace/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Paperspace登録とWebUI導入 - としあきdiffusion Wiki* — Jul 25, 2026 · Colab → Paperspace 移行時の注意点 Colab 用のノートブックでは、「ngrok」というプログラムが使用されることがありますが、 Paperspace のマシンでngrokを実行すると、即座にBANされます。 ただし、問い合わせれば復旧可能です。",
+    "url": "https://wikiwiki.jp/sd_toshiaki/Paperspace版導入",
+    "pass": 3
+   },
+   {
+    "quote": "Paperspaceというお手軽GPU環境の紹介 - Qiita — Apr 16, 2020 · Paperspace 皆さんは機械学習やマイニング等でGPU環境が必要となった時に、どうしているでしょうか。 自分でGPUを買うという人もいれば、AWSやGCPなどのクラウドサービスを使うという方も多いのではないでしょうか。",
+    "url": "https://qiita.com/gtca/items/6a237fe9ee370335575f",
+    "pass": 3
+   },
+   {
+    "quote": "【配布用】paperspace環境構築ファイルまとめ｜aiaicreate — Jan 2, 2025 · アカウント登録からA1111の環境構築方法はWPに移動しました。 paperspaceでStable Diffusion Web UI（A1111）を始める方法！ 登録から画像生成まで【無料配布ファイルあり】 クラウドGPUのpaperspaceで、アカウント登録からA1111（SDWebUI）で画像を生成するまでを通しで解説。",
+    "url": "https://note.com/aiaicreate/n/ncb2f2d3a499d",
+    "pass": 3
+   },
+   {
+    "quote": "Paperspaceの使い方！アメリカにあるゲーミングPCをクラウド経由で日... — Aug 31, 2020 · PaperspaceはAI開発を行うクラウドサービスの一部みたいな感じになったっぽいですね。 DigitalOceanの新しいAI製品を発売するにあたり、Paperspaceブランドと既存のPaperspace製品の最新情報をユーザーに提供したいと考えています。",
+    "url": "https://knb-mayumi.com/paperspace/",
+    "pass": 3
+   },
+   {
+    "quote": "Paperspaceの運用システム：概念の紹介 #Selenium - Qiita — Jun 21, 2025 · 終了 Python + Selenium で PaperspaceにLogin。 ステータスを取得。 Runningの場合は終了。 6時間経過後や空きがなく起動失敗で、起動していない場合は、起動処理を開始する。 起動スクリプトと、連続する生成AI実行スクリプトの設計",
+    "url": "https://qiita.com/Katsu43210/items/f5bb8987db0cf2df4e8c",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How Paperspace Uses Software & Services — Explore case studies featuring Paperspace as the customer — learn how vendors and partners helped Paperspace solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/paperspace",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: nTopology accelerates 3D printing design and ... — nTopology (Computer Software) partnered with Paperspace (Computer Software) to solve key challenges. \"nTopology - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/paperspace/case-study/ntopology-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Customers | DigitalOcean - Paperspace — Paperspace customers come from every industry in which accelerated computing is useful, from machine learning to rendering and everything in between. Here we've collected some stories from more than 650,000 users.",
+    "url": "https://www.paperspace.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study - Pocus x Paperspace — Learn how the team at Paperspace is generating revenue and streamlining operations with Pocus.",
+    "url": "https://www.pocus.com/case-studies/how-paperspaces-product-led-sales-motion-drove-65-percent-of-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies | Paperspace - Data Preparation Success — Paperspace sought to offload specific technical aspects to a trusted partner who could take ownership while aligning with their overall vision. The successful deployment of the platform was marked by high-quality code, effective collaboration among teams, and enhanced operational capabilities.",
+    "url": "https://www.devopsbay.com/case-study/paperspace",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "AI Image Generation Without a High-Performance PC! Paperspace ... Today, I will introduce how to build a Stable Diffusion environment using \"Paperspace,\" which allows you to generate AI images even without a high-performance PC.",
+    "url": "https://note.com/genad_note/n/n2ef615f16f13?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "AI Image Generation Without a High-Performance PC! Paperspace ... Today, I will carefully explain how to launch Stable Diffusion on Paperspace Gradient, complete with images. (Please see the article below for a simple version with only brief explanations.",
+    "url": "https://note.com/genad_note/n/n6c601cf06879?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "You can create AI videos without a gaming PC. Complete guide ... Sep 3, 2026 · Before proceeding with the steps, I will explain the most important specification of Paperspace. If you use it without knowing this, you will inevitably encounter a situation where \"it worked yesterday, but it doesn't work today.\"",
+    "url": "https://note.com/prime_badger2927/n/n9b413fd1ed69?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A Brief Investigation and Analysis of Paperspace and ... The following ComfyUI issue contains a discussion regarding Paperspace; although it is a 2024 post, it states that \"using tunneling like Cloudflare with ComfyUI will result in a ban.\" Also, TheLastBen's repository is introduced as a solution (which adopts the official TensorBoard-based path).",
+    "url": "https://note.com/gentle_murre488/n/n2795a93c16bb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Paperspaceと画像生成AIに関する簡単な調査と考察＠2026/9 Sep 26, 2026 · 私自身は、PaperspaceでBANになった経験がなく、また、サポートと改めてこの件でやり取りするつもりはありませんので、Xの投稿内容やPaperspaceの公式記事の内容などからの考察にとどまりますのでご了承ください。",
+    "url": "https://note.com/gentle_murre488/n/n2795a93c16bb",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "AI Image Generation Without a High-Performance PC! Paperspace x Stable Diffusion Setup Guide (Simple Version)｜gen-con",
+    "url": "https://note.com/genad_note/n/n2ef615f16f13?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "AI Image Generation Without a High-Performance PC! Paperspace x Stable Diffusion Setup Guide (Simple Version)",
+    "url": "https://note.com/genad_note/n/n2ef615f16f13?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Today, I will introduce how to build a Stable Diffusion environment using \"Paperspace,\" which allows you to generate AI images even without a high-performance PC.",
+    "url": "https://note.com/genad_note/n/n2ef615f16f13?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Many of you may have given up on AI image generation, thinking, \"I need an expensive graphics card\" or \"Setting up the environment seems difficult.\" Actually, you don't need to worry about that if you use a cloud service.",
+    "url": "https://note.com/genad_note/n/n2ef615f16f13?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "To start AI image generation with Stable Diffusion, you usually need a high-spec PC that costs over 100,000 yen. But with Paperspace, you can use it for around 1,000 yen per month (as of December 2025).",
+    "url": "https://note.com/genad_note/n/n2ef615f16f13?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Benefits of Paperspace:",
+    "url": "https://note.com/genad_note/n/n2ef615f16f13?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Use a GPU environment with zero initial investment",
+    "url": "https://note.com/genad_note/n/n2ef615f16f13?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Fixed price + pay-as-you-go (depending on usage)",
+    "url": "https://note.com/genad_note/n/n2ef615f16f13?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "AI Image Generation Without a High-Performance PC! Paperspace x Stable Diffusion Setup Guide (Detailed Version)｜gen-con",
+    "url": "https://note.com/genad_note/n/n6c601cf06879?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "AI Image Generation Without a High-Performance PC! Paperspace x Stable Diffusion Setup Guide (Detailed Version)",
+    "url": "https://note.com/genad_note/n/n6c601cf06879?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Today, I will carefully explain how to launch Stable Diffusion on Paperspace Gradient, complete with images. (Please see the article below for a simple version with only brief explanations. While the simple version contains enough information to get it running, this article uses as many images as possible to provide detailed explanations so that even beginners won't get stuck.)",
+    "url": "https://note.com/genad_note/n/n6c601cf06879?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For those of you thinking, \"I want to start AI image generation in the cloud, but I don't know where to begin...\" this article will guide you step-by-step from launching a Notebook to generating images in the WebUI so you can proceed without getting lost.",
+    "url": "https://note.com/genad_note/n/n6c601cf06879?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What you will learn in this article",
+    "url": "https://note.com/genad_note/n/n6c601cf06879?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The entire procedure from launching a Paperspace Notebook to setting up AUTOMATIC1111",
+    "url": "https://note.com/genad_note/n/n6c601cf06879?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Commands required for initial setup (copy-paste is fine)",
+    "url": "https://note.com/genad_note/n/n6c601cf06879?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Your first image generation",
+    "url": "https://note.com/genad_note/n/n6c601cf06879?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A Brief Investigation and Analysis of Paperspace and Generative AI as of September 2026｜shiba*2",
+    "url": "https://note.com/gentle_murre488/n/n2795a93c16bb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A Brief Investigation and Analysis of Paperspace and Generative AI as of September 2026",
+    "url": "https://note.com/gentle_murre488/n/n2795a93c16bb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Recently, someone named Apollo posted on X that they were \"banned from Paperspace.\"",
+    "url": "https://note.com/gentle_murre488/n/n2795a93c16bb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "While such posts are common, Apollo's post delved into the \"correspondence with support,\" which provided very useful information for the Paperspace community.",
+    "url": "https://note.com/gentle_murre488/n/n2795a93c16bb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This article includes that content and re-examines and analyzes the situation, including changes in official announcements regarding Paperspace and generative AI.",
+    "url": "https://note.com/gentle_murre488/n/n2795a93c16bb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Please note that I have never been banned from Paperspace, nor do I intend to contact support regarding this matter again, so my analysis is limited to the content of the X post and official Paperspace articles.",
+    "url": "https://note.com/gentle_murre488/n/n2795a93c16bb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Below is the link to the article by the X poster, Apollo.",
+    "url": "https://note.com/gentle_murre488/n/n2795a93c16bb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "https://x.com/NullGamerA/status/2086713997911613615",
+    "url": "https://note.com/gentle_murre488/n/n2795a93c16bb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Paperspaceと画像生成AIに関する簡単な調査と考察＠2026/9｜shiba*2",
+    "url": "https://note.com/gentle_murre488/n/n2795a93c16bb",
+    "pass": 3
+   },
+   {
+    "quote": "Paperspaceと画像生成AIに関する簡単な調査と考察＠2026/9",
+    "url": "https://note.com/gentle_murre488/n/n2795a93c16bb",
+    "pass": 3
+   },
+   {
+    "quote": "先日、Xでアポロさんという方が「PaperspaceをBAN」になったという投稿をされていました。",
+    "url": "https://note.com/gentle_murre488/n/n2795a93c16bb",
+    "pass": 3
+   },
+   {
+    "quote": "こういった投稿自体はしばしばあるのですが、アポロさんの投稿では「サポートとやり取りした文面」という所に踏み込んだものでPaperspace民としては非常に参考になる情報でした。",
+    "url": "https://note.com/gentle_murre488/n/n2795a93c16bb",
+    "pass": 3
+   },
+   {
+    "quote": "今回はその内容を含めて、Paperspaceと画像生成AIに関する公式発表の内容の変化なども含めて再調査して考察してみたという内容です。",
+    "url": "https://note.com/gentle_murre488/n/n2795a93c16bb",
+    "pass": 3
+   },
+   {
+    "quote": "私自身は、PaperspaceでBANになった経験がなく、また、サポートと改めてこの件でやり取りするつもりはありませんので、Xの投稿内容やPaperspaceの公式記事の内容などからの考察にとどまりますのでご了承ください。",
+    "url": "https://note.com/gentle_murre488/n/n2795a93c16bb",
+    "pass": 3
+   },
+   {
+    "quote": "以下はXの投稿者のアポロさんの記事のリンクです。",
+    "url": "https://note.com/gentle_murre488/n/n2795a93c16bb",
+    "pass": 3
+   },
+   {
+    "quote": "https://x.com/NullGamerA/status/2086713997911613615",
+    "url": "https://note.com/gentle_murre488/n/n2795a93c16bb",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Paperspace (now DigitalOcean) (@HelloPaperspace) / X Soon, we'll say goodbye to the Paperspace brand as we merge #Paperspace & #DigitalOcean into one brand— @ digitalocean. Follow us there for news & updates about our #AI offerings.",
+    "url": "https://x.com/hellopaperspace",
+    "pass": 3
+   },
+   {
+    "quote": "Paperspace (now DigitalOcean) on X: \"Our Co-Founder & COO ... Our Co-Founder & COO, Daniel Kobran talks with Tech Republic about how AI, speech recognition, and language come together in products that we use every day. https://t ...",
+    "url": "https://x.com/HelloPaperspace/status/1346864233464606726",
+    "pass": 3
+   },
+   {
+    "quote": "IntelliVIEW® Paperspace is a professional 2D documentation ... IntelliVIEW® Paperspace is a professional 2D documentation layout designed to create construction-ready drawings directly from the building model. See it at the NAHB International Builders’ Show - Booth #4101 #Alpine #IBS2026",
+    "url": "https://x.com/AlpineITW/status/2021298125294666000",
+    "pass": 3
+   },
+   {
+    "quote": "see-throughをPaperspaceで動かしてみるか - x.com mckey_draw (mckey@プログラミング、AI垢). 1 likes 0 replies. see-throughをPaperspaceで動かしてみるか",
+    "url": "https://x.com/mckey_draw/status/2040328075850965401",
+    "pass": 3
+   },
+   {
+    "quote": "PAPERSPACE (@paperspacepress) / Posts / X Sep 18, 2010 · If you'd like to contribute an article for the next issue of paperspace, drop us a mail at [email protected]",
+    "url": "https://x.com/paperspacepress",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Paperspace Asia - LinkedIn Paperspace Asia Design Award-winning strategists designing offices into thriving workplaces through data-driven employee insights. Report this company",
+    "url": "https://www.linkedin.com/company/paperspaceasia/",
+    "pass": 3
+   },
+   {
+    "quote": "PaperSpace GmbH - paperspace.ai - LinkedIn Your documents, organized with AI. | PaperSpace is an AI-powered document management app that helps you scan, organize, and interact with your documents seamlessly.",
+    "url": "https://www.linkedin.com/company/paperspace-gmbh",
+    "pass": 3
+   },
+   {
+    "quote": "Paperspace Asia | LinkedIn Paperspace Asia | 5,839 (na) tagasubaybay sa LinkedIn. Award-winning strategists designing offices into thriving workplaces through data-driven employee insights. | We are an award-winning...",
+    "url": "https://ph.linkedin.com/company/paperspaceasia",
+    "pass": 3
+   },
+   {
+    "quote": "Paperspace Philippines Inc. - LinkedIn Paperspace Philippines is an Interior and Architectural Company built to strategize and innovate designs collectively. With our combined expertise in Workplace Design and Technical Documentation,...",
+    "url": "https://ph.linkedin.com/company/paperspace-philippines-inc",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Paperspace Philippines Inc. | New Manila - FacebookPaperspace - FacebookPaperspace Thailand | Bangkok - FacebookPaperspace | Petaling Jaya - FacebookPaperspace Asia | Singapore Singapore - FacebookPaperspace - FacebookPaperspace Asia - We’re proud to share a new chapter for ... Aug 25, 2026 · At Paperspace, we’ve seen it all: breakout areas no one uses, teams struggling to collaborate, spaces that",
+    "url": "https://www.facebook.com/paperspacePH/",
+    "pass": 3
+   },
+   {
+    "quote": "Paperspace - FacebookPaperspace Thailand | Bangkok - FacebookPaperspace | Petaling Jaya - FacebookPaperspace Asia | Singapore Singapore - FacebookPaperspace - FacebookPaperspace Asia - We’re proud to share a new chapter for ... May 19, 2023 · Paperspace. 3,927 likes. Powering next-gen workflows and the future of intelligent applications. Now part of DigitalOcean. Oct 28, 2026 · ด้วยความร่วมมือกับ ",
+    "url": "https://www.facebook.com/HelloPaperspace/",
+    "pass": 3
+   },
+   {
+    "quote": "Paperspace Thailand | Bangkok - FacebookPaperspace | Petaling Jaya - FacebookPaperspace Asia | Singapore Singapore - FacebookPaperspace - FacebookPaperspace Asia - We’re proud to share a new chapter for ... Oct 28, 2026 · ด้วยความร่วมมือกับ Paperspace เราออกแบบพื้นที่สำนักใหญ่ Central Retail Corporation ในกรุงเทพมหานคร เพื่อปรับปรุงสถานที่ทำงานให้ช่วยสร้างสมดุล ... Jan 30, 2021 · Paperspace, Petal",
+    "url": "https://www.facebook.com/paperspacethailand/",
+    "pass": 3
+   },
+   {
+    "quote": "Paperspace | Petaling Jaya - FacebookPaperspace Asia | Singapore Singapore - FacebookPaperspace - FacebookPaperspace Asia - We’re proud to share a new chapter for ... Jan 30, 2021 · Paperspace, Petaling Jaya. 18,017 likes · 1 talking about this · 2 were here. An Architecture + Interior Design Studio founded by husband & wife team... At Paperspace, we’ve seen it all: breakout areas no one uses, tea",
+    "url": "https://www.facebook.com/paperspace.com.my/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.paperspace.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.paperspace.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.digitalocean.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.paperspace.com/pricing?tab=gradient-plans",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.paperspace.com/pricing?tab=core-plans",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.paperspace.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.paperspace.com/nvidia-csp-partner",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/5db99670374d1d829291af4f/616ef6cafc0ad1de1d8af807_logos-fastai2.avif",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://wikiwiki.jp/sd_toshiaki/Paperspace%E7%89%88%E5%B0%8E%E5%85%A5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qiita.com/gtca/items/6a237fe9ee370335575f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/aiaicreate/n/ncb2f2d3a499d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://knb-mayumi.com/paperspace/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/SAP%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kkhashi.com/blogs/detail/145/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.koaglobal.com/corporate/offices/distributors1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/paperspace",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/paperspace/case-study/ntopology-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pocus.com/case-studies/how-paperspaces-product-led-sales-motion-drove-65-percent-of-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.appspace.com/resellers-alliances/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/genad_note/n/n2ef615f16f13?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/genad_note/n/n6c601cf06879?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/prime_badger2927/n/n9b413fd1ed69?hl=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/gentle_murre488/n/n2795a93c16bb?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hellopaperspace",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HelloPaperspace/status/1346864233464606726",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/AlpineITW/status/2021298125294666000",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mckey_draw/status/2040328075850965401",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/paperspaceasia/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/paperspace-gmbh",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ph.linkedin.com/company/paperspaceasia",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ph.linkedin.com/company/paperspace-philippines-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/paperspacePH/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/HelloPaperspace/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/paperspacethailand/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/paperspace.com.my/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hellopaperspace",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/gentle_murre488/n/n2795a93c16bb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/paperspacepress",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Paperspace 日本 導入",
+   "results": [
+    "https://wikiwiki.jp/sd_toshiaki/Paperspace版導入",
+    "https://qiita.com/gtca/items/6a237fe9ee370335575f",
+    "https://note.com/aiaicreate/n/ncb2f2d3a499d",
+    "https://knb-mayumi.com/paperspace/",
+    "https://qiita.com/Katsu43210/items/f5bb8987db0cf2df4e8c",
+    "https://note.com/toki_mwc/n/n784449b2a475",
+    "https://romptn.com/article/24387"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Paperspace 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/SAPジャパン",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://www.koaglobal.com/corporate/offices/distributors1",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://kaisharesearch.com/",
+    "https://biz.toyokeizai.net/data/service/detail/id=418"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Paperspace Japan",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Paperspace manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/customer/paperspace",
+    "https://www.casestudies.com/company/paperspace/case-study/ntopology-customer-case-study",
+    "https://www.paperspace.com/customers",
+    "https://www.pocus.com/case-studies/how-paperspaces-product-led-sales-motion-drove-65-percent-of-revenue",
+    "https://www.devopsbay.com/case-study/paperspace",
+    "https://www.featuredcustomers.com/vendor/paperspace/case-studies",
+    "https://www.paperspace.com/professional-services"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Paperspace white label OR reseller OR partner program",
+   "results": [
+    "https://www.appspace.com/resellers-alliances/",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://upcloud.com/partner-program/",
+    "https://www.nextiva.com/company/partners"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Paperspace founded funding employees revenue",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com Paperspace",
+   "results": [
+    "https://note.com/genad_note/n/n2ef615f16f13?hl=en",
+    "https://note.com/genad_note/n/n6c601cf06879?hl=en",
+    "https://note.com/prime_badger2927/n/n9b413fd1ed69?hl=en",
+    "https://note.com/gentle_murre488/n/n2795a93c16bb?hl=en",
+    "https://note.com/genad_note/n/n2ef615f16f13",
+    "https://note.com/rupettan/n/nf6f2ebee0fa8",
+    "https://note.com/aiaicreate/n/ncb2f2d3a499d"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Paperspace",
+   "results": [
+    "https://x.com/hellopaperspace",
+    "https://x.com/HelloPaperspace/status/1346864233464606726",
+    "https://x.com/AlpineITW/status/2021298125294666000",
+    "https://x.com/mckey_draw/status/2040328075850965401",
+    "https://x.com/jojojojo_mj/status/2118833303268581594",
+    "https://x.com/CP_Bagley",
+    "https://x.com/jaredscheib"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Paperspace",
+   "results": [
+    "https://www.linkedin.com/company/paperspaceasia/",
+    "https://www.linkedin.com/company/paperspace-gmbh",
+    "https://ph.linkedin.com/company/paperspaceasia",
+    "https://ph.linkedin.com/company/paperspace-philippines-inc",
+    "https://in.linkedin.com/in/pratik-bhende-9545aa23a",
+    "https://sg.linkedin.com/in/narita-cheah",
+    "https://sg.linkedin.com/in/-shalynlee"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Paperspace",
+   "results": [
+    "https://www.facebook.com/paperspacePH/",
+    "https://www.facebook.com/HelloPaperspace/",
+    "https://www.facebook.com/paperspacethailand/",
+    "https://www.facebook.com/paperspace.com.my/",
+    "https://www.facebook.com/paperspaceasia/",
+    "https://www.facebook.com/paperspace.magazine/",
+    "https://www.facebook.com/paperspaceasia/posts/were-proud-to-share-a-new-chapter-for-paperspace-philippines-our-new-home-in-san/1565782361641179/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Paperspace note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/ncc37a1d4aa0b",
+    "https://www.paperspace.com/about",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://note.com/sadaaki"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Paperspace X 投稿",
+   "results": [
+    "https://x.com/hellopaperspace",
+    "https://note.com/gentle_murre488/n/n2795a93c16bb",
+    "https://x.com/paperspacepress",
+    "https://www.paperspace.com/",
+    "https://docs.google.com/forms/d/e/1FAIpQLSeE0rtRivr4mIpyrY3JPdYjZGLqzER8HEhB6xG0NGrLcCUyVg/viewform",
+    "https://www.paperspace.com/community",
+    "https://www.itape.com/product/paperspace-x-pad-2/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部34頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部34頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部34頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部34頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部34頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部34頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部34頁・検索12回）"
+ }
+}

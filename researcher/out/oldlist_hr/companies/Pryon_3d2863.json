@@ -1,0 +1,1349 @@
+{
+ "name": "Pryon",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜状態なし",
+ "researched_at": "2026-11-09T22:16:55.981245+00:00",
+ "official_url": "https://www.pryon.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$36.5M",
+    "url": "https://getlatka.com/companies/pryon",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Pryon: The Proven, Safe & Trusted Path to Enterprise GenAI",
+    "url": "https://www.pryon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "grounded in trusted enterprise knowledge",
+    "url": "https://www.pryon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "from Proof of Concept to production",
+    "url": "https://www.pryon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pryon unlocks AI you can trust",
+    "url": "https://www.pryon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "95% of AI projects",
+    "url": "https://www.pryon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "in Proof-of-Concept purgatory due to memory failure.",
+    "url": "https://www.pryon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "MIT Project NANDA, The GenAI Divide: State of AI in Business 2025, p. 7 (July 2025)",
+    "url": "https://www.pryon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "drives AI projects into production,",
+    "url": "https://www.pryon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "all Enterprise Intelligence for...",
+    "url": "https://www.pryon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Consolidate your structured and unstructured organizational knowledge into one comprehensive search platform for rapid answers and simplified oversight.",
+    "url": "https://www.pryon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Unify all enterprise data and search it in one place",
+    "url": "https://www.pryon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Advanced Data Preparation",
+    "url": "https://www.pryon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn raw content into AI-ready knowledge without manual preprocessing. Whether it’s PDFs, scans, slides, spreadsheets, diagrams, or anything else, we meet your data where it’s at.",
+    "url": "https://www.pryon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Focus on what matters most to you, instead of index management. We provision, tune, and scale the underlying vector and keyword indexes for you, eliminating the overhead of database ops.",
+    "url": "https://www.pryon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you deploy Pryon in the cloud or on-prem, document-level access controls ensure data security while fine-grained attributions ensure transparency and auditability.",
+    "url": "https://www.pryon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ensure accuracy with every response. Pryon leverages hybrid search, intelligent query expansion, re-ranking, iterative deep dives, and context sufficiency checks.",
+    "url": "https://www.pryon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how a Fortune 50 technology company uses Pryon RAG Suite to power a support chatbot for its massive consumer base, deflecting tens of thousands of questions annually and increasing customer lifetime value by $1.7M.",
+    "url": "https://www.pryon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how a leading energy corporation uses Pryon RAG Suite to swiftly deliver critical information to nuclear engineers, reducing outage times and driving faster issue resolution.",
+    "url": "https://www.pryon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pryon RAG Suite enables personnel to unlock instant answers — in 80 languages — from 150,000+ pages of content.",
+    "url": "https://www.pryon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how a world-leading NGO uses Pryon RAG Suite to deliver decades of world-changing ideas and research to industry and government leaders in milliseconds.",
+    "url": "https://www.pryon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how a multinational technology corporation partners with Pryon to provide a fully interactive solution to a city government for citizen engagement and self-service.",
+    "url": "https://www.pryon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pryon transforms how the world’s leading enterprise and government organizations operate by enabling them to deliver AI apps and agents grounded in trusted content.",
+    "url": "https://www.pryon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pryon Appoints AI Veteran Hamsa Buvaraghan as SVP/Head of Product",
+    "url": "https://www.pryon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Google and Microsoft Product Veteran Joins Pryon to Lead Company's Enterprise AI Memory Vision and Strategy",
+    "url": "https://www.pryon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Why Hamsa Buvaraghan Joining Pryon Is a Watershed Moment for Enterprise AI",
+    "url": "https://www.pryon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Why Partner with Pryon?",
+    "url": "https://www.pryon.com/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Benefits of Partnering with Pryon",
+    "url": "https://www.pryon.com/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Delight customers while accelerating GTM by adding AI-driven content access to your current software offering",
+    "url": "https://www.pryon.com/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver production-grade RAG-based apps and agents to your customers",
+    "url": "https://www.pryon.com/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Integrate with Pryon’s RAG solution to add new AI-based search, chatbot, digital assistants, summaries, and other experiences to your software",
+    "url": "https://www.pryon.com/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Focus on your end user’s needs and let Pryon solve for the long-tail RAG challenges",
+    "url": "https://www.pryon.com/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Rapidly develop production-grade RAG applications and agents for your clients",
+    "url": "https://www.pryon.com/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Quickly prototype and deliver RAG-based applications and agents",
+    "url": "https://www.pryon.com/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver a proven production-grade AI workload to your customer",
+    "url": "https://www.pryon.com/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Find out more about our partner program.",
+    "url": "https://www.pryon.com/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "AI for Citizen Engagement Case Study | Pryon",
+    "url": "https://www.pryon.com/case-studies/corporation-transforms-citizen-engagement-for-u-s-city",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how a multinational technology corporation partners with Pryon to provide a fully interactive solution to a city government for",
+    "url": "https://www.pryon.com/case-studies/corporation-transforms-citizen-engagement-for-u-s-city",
+    "pass": 1
+   },
+   {
+    "quote": "Improve information accessibility and drive citizen engagement with multilingual GenAI digital assistant powered by Pryon RAG Suite",
+    "url": "https://www.pryon.com/case-studies/corporation-transforms-citizen-engagement-for-u-s-city",
+    "pass": 1
+   },
+   {
+    "quote": "A U.S. city with a diverse and multilingual population of over 200,000 residents sought to enhance its citizen engagement by improving access to information about city resources and services. Nearly a quarter of the city’s residents (24%) do not speak English, making the monolingual city website a significant barrier to accessing essential information.",
+    "url": "https://www.pryon.com/case-studies/corporation-transforms-citizen-engagement-for-u-s-city",
+    "pass": 1
+   },
+   {
+    "quote": "2,500+ (streamlined from 35,000+ with Pryon’s support)",
+    "url": "https://www.pryon.com/case-studies/corporation-transforms-citizen-engagement-for-u-s-city",
+    "pass": 1
+   },
+   {
+    "quote": "Partnering to improve information accessibility for residents with a multilingual GenAI digital assistant",
+    "url": "https://www.pryon.com/case-studies/corporation-transforms-citizen-engagement-for-u-s-city",
+    "pass": 1
+   },
+   {
+    "quote": "This tech company partnered with Pryon to introduce a",
+    "url": "https://www.pryon.com/case-studies/corporation-transforms-citizen-engagement-for-u-s-city",
+    "pass": 1
+   },
+   {
+    "quote": "Pryon-powered GenAI digital assistant boosts accessibility, engagement, efficiency, and cost savings for city",
+    "url": "https://www.pryon.com/case-studies/corporation-transforms-citizen-engagement-for-u-s-city",
+    "pass": 1
+   },
+   {
+    "quote": "The implementation of the GenAI digital assistant, powered by Pryon RAG Suite, has significantly advanced information accessibility and civic engagement for the city.",
+    "url": "https://www.pryon.com/case-studies/corporation-transforms-citizen-engagement-for-u-s-city",
+    "pass": 1
+   },
+   {
+    "quote": "This collaboration between Pryon and the multinational technology corporation on the GenAI digital assistant has enabled the city to set a new benchmark for civic engagement and information access. The digital assistant has helped the city and its residents to overcome language barriers, streamline resource navigation, and strengthen citizen engagement.",
+    "url": "https://www.pryon.com/case-studies/corporation-transforms-citizen-engagement-for-u-s-city",
+    "pass": 1
+   },
+   {
+    "quote": "AI in Manufacturing| Pryon - Instant, Accurate Answers",
+    "url": "https://www.pryon.com/solutions/pryon-for-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Enable your sales, service, field technicians, channel partners, and customers to get timely and accurate answers extracted from technically rich content.",
+    "url": "https://www.pryon.com/solutions/pryon-for-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Chatbots and other generative AI solutions built using Pryon RAG Suite help employees, partners, and customers easily build, configure, use, and maintain complex equipment with critical knowledge at the ready.",
+    "url": "https://www.pryon.com/solutions/pryon-for-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Organizations that trust Pryon to help address some of their most pressing content challenges include:",
+    "url": "https://www.pryon.com/solutions/pryon-for-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "from technically rich content, even schematics and handwritten notes.",
+    "url": "https://www.pryon.com/solutions/pryon-for-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Pryon offers a trusted, safe, and proven path for implementing generative AI at enterprise scale.",
+    "url": "https://www.pryon.com/solutions/pryon-for-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Learn more about Pryon RAG Suite →",
+    "url": "https://www.pryon.com/solutions/pryon-for-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how one of the top three most valuable companies in the world uses Pryon RAG Suite to power a support chatbot for its massive consumer base, deflecting tens of thousands of questions annually and increasing customer lifetime value by $1.7M.",
+    "url": "https://www.pryon.com/case-studies/pryon-powered-chatbot-deflects-customer-questions",
+    "pass": 1
+   },
+   {
+    "quote": "Increase customer support efficiency, minimize wait times, and elevate customer satisfaction with Pryon RAG Suite and a custom chatbot UI",
+    "url": "https://www.pryon.com/case-studies/pryon-powered-chatbot-deflects-customer-questions",
+    "pass": 1
+   },
+   {
+    "quote": "Webpages, knowledge base articles, product manuals, and other documents",
+    "url": "https://www.pryon.com/case-studies/pryon-powered-chatbot-deflects-customer-questions",
+    "pass": 1
+   },
+   {
+    "quote": "Pryon's Solution Engineers partnered with the company to implement a custom chatbot interface, allowing customers to effortlessly ask questions without leaving the company’s website.",
+    "url": "https://www.pryon.com/case-studies/pryon-powered-chatbot-deflects-customer-questions",
+    "pass": 1
+   },
+   {
+    "quote": "Pryon RAG Suite deflects 70,000+ questions annually and increases customer lifetime value by $1.7M",
+    "url": "https://www.pryon.com/case-studies/pryon-powered-chatbot-deflects-customer-questions",
+    "pass": 1
+   },
+   {
+    "quote": "Since implementing Pryon RAG Suite, the company has undergone a remarkable transformation in customer support, significantly reducing support loads and enhancing customer lifetime value.",
+    "url": "https://www.pryon.com/case-studies/pryon-powered-chatbot-deflects-customer-questions",
+    "pass": 1
+   },
+   {
+    "quote": "Leveraging Pryon's cutting-edge RAG technology, this technology giant has",
+    "url": "https://www.pryon.com/case-studies/pryon-powered-chatbot-deflects-customer-questions",
+    "pass": 1
+   },
+   {
+    "quote": "Solutions | Pryon | Secure & Trusted AI",
+    "url": "https://www.pryon.com/solutions",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Find out more about our partner program.",
+    "url": "https://www.pryon.com/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Enable your sales, service, field technicians, channel partners, and customers to get timely and accurate answers extracted from technically rich content.",
+    "url": "https://www.pryon.com/solutions/pryon-for-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Enable your sales, service, field technicians, channel partners, and customers to get timely and accurate answers extracted from technically rich content.",
+    "url": "https://www.pryon.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Pryon delivers agentic workflows for federal agencies grounded in the information you trust.",
+    "url": "https://www.pryon.com/solutions/pryon-for-defense-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "Get AI outputs grounded in your agencies trusted content",
+    "url": "https://www.pryon.com/solutions/pryon-for-defense-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "Why federal agencies choose Pryon for AI",
+    "url": "https://www.pryon.com/solutions/pryon-for-defense-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy across GovCloud, on-prem GFE, air-gapped, and OEM environments.",
+    "url": "https://www.pryon.com/solutions/pryon-for-defense-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "The Pryon team works closely with federal agencies to implement and deploy AI solutions aligned to real mission, operational, and compliance requirements.",
+    "url": "https://www.pryon.com/solutions/pryon-for-defense-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "How long does Pryon implementation take for federal agencies?",
+    "url": "https://www.pryon.com/solutions/pryon-for-defense-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "AI Use Cases Across Federal Government Agencies",
+    "url": "https://www.pryon.com/resources/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Personnel across the federal government can use Pryon’s generative AI platform to accelerate key outcomes. This comprehensive guide helps members of different agencies and departments understand how AI can help them with their responsibilities.",
+    "url": "https://www.pryon.com/resources/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "AI-Driven Help Desks for Government Agencies",
+    "url": "https://www.pryon.com/resources/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Created by the AI pioneers instrumental in developing Alexa, Siri, and Watson, Pryon is trusted by leading enterprises and government agencies. By reducing the distance between people and answers, Pryon builds high-performing, resilient, and responsive organizations.",
+    "url": "https://www.pryon.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Agencies Now Able to Access Powerful and Easy-to-Use GenAI Information Retrieval Engine",
+    "url": "https://www.pryon.com/about/news",
+    "pass": 1
+   },
+   {
+    "quote": ": In use at Air Force DTO, AFRL, OSD CDAO, IRS, and IC agencies",
+    "url": "https://www.pryon.com/about/security",
+    "pass": 1
+   },
+   {
+    "quote": "Field technicians, customer support agents, channel partners, and sales managers all need quick access to information to do their jobs effectively, ranging from maintenance tips to warranty policies. Yet, too often, hunting for this information is a struggle — in fact, 70% of knowledge workers spend an hour or more searching for a single answer.",
+    "url": "https://www.pryon.com/guides/ai-for-sales-and-service",
+    "pass": 1
+   },
+   {
+    "quote": "The agency partnered with Pryon to implement Pryon RAG Suite, a retrieval-augmented generative AI system designed to securely provide accurate, instant, and verifiable answers at enterprise scale.",
+    "url": "https://www.pryon.com/case-studies/dod-streamlines-information-delivery-for-military-and-civilians",
+    "pass": 1
+   },
+   {
+    "quote": "AI Use Cases Across Federal Government Agencies",
+    "url": "https://www.pryon.com/landing/ai-use-cases-across-federal-government-agencies",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "AI for Citizen Engagement Case Study | Pryon",
+    "url": "https://www.pryon.com/case-studies/corporation-transforms-citizen-engagement-for-u-s-city",
+    "pass": 1
+   },
+   {
+    "quote": "AI in Manufacturing| Pryon - Instant, Accurate Answers",
+    "url": "https://www.pryon.com/solutions/pryon-for-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Enable your sales, service, field technicians, channel partners, and customers to get timely and accurate answers extracted from technically rich content.",
+    "url": "https://www.pryon.com/solutions/pryon-for-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "AI for Customer Support Case Study |Technical AI Chatbot",
+    "url": "https://www.pryon.com/case-studies/pryon-powered-chatbot-deflects-customer-questions",
+    "pass": 1
+   },
+   {
+    "quote": "Pryon for Manufacturing",
+    "url": "https://www.pryon.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Enable your sales, service, field technicians, channel partners, and customers to get timely and accurate answers extracted from technically rich content.",
+    "url": "https://www.pryon.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the US Federal government",
+    "url": "https://www.pryon.com/solutions/pryon-for-defense-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "Created by the AI pioneers instrumental in developing Alexa, Siri, and Watson, Pryon is trusted by leading enterprises and government agencies. By reducing the distance between people and answers, Pryon builds high-performing, resilient, and responsive organizations.",
+    "url": "https://www.pryon.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the US federal government",
+    "url": "https://www.pryon.com/about/security",
+    "pass": 1
+   },
+   {
+    "quote": "Field technicians, customer support agents, channel partners, and sales managers all need quick access to information to do their jobs effectively, ranging from maintenance tips to warranty policies. Yet, too often, hunting for this information is a struggle — in fact, 70% of knowledge workers spend an hour or more searching for a single answer.",
+    "url": "https://www.pryon.com/guides/ai-for-sales-and-service",
+    "pass": 1
+   },
+   {
+    "quote": "Government AI Case Study | DoD Streamlines Info Delivery",
+    "url": "https://www.pryon.com/case-studies/dod-streamlines-information-delivery-for-military-and-civilians",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "A U.S. city with a diverse and multilingual population of over 200,000 residents sought to enhance its citizen engagement by improving access to information about city resources and services. Nearly a quarter of the city’s residents (24%) do not speak English, making the monolingual city website a significant barrier to accessing essential information.",
+    "url": "https://www.pryon.com/case-studies/corporation-transforms-citizen-engagement-for-u-s-city",
+    "pass": 1
+   },
+   {
+    "quote": "This collaboration between Pryon and the multinational technology corporation on the GenAI digital assistant has enabled the city to set a new benchmark for civic engagement and information access. The digital assistant has helped the city and its residents to overcome language barriers, streamline resource navigation, and strengthen citizen engagement.",
+    "url": "https://www.pryon.com/case-studies/corporation-transforms-citizen-engagement-for-u-s-city",
+    "pass": 1
+   },
+   {
+    "quote": "Chatbots and other generative AI solutions built using Pryon RAG Suite help employees, partners, and customers easily build, configure, use, and maintain complex equipment with critical knowledge at the ready.",
+    "url": "https://www.pryon.com/solutions/pryon-for-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Contracting and acquisition readiness",
+    "url": "https://www.pryon.com/solutions/pryon-for-defense-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "Acquisition, budget, and financial execution",
+    "url": "https://www.pryon.com/solutions/pryon-for-defense-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "Leverage Agentic AI assisting with the acquisition & planning process pulling from numerous sources systems",
+    "url": "https://www.pryon.com/solutions/pryon-for-defense-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "Pryon can help state, city, and county governments introduce secure and innovative generative AI solutions that rapidly source trusted answers from authoritative content. With Pryon’s help, government employees and residents can quickly get the answers they need to allocate budgets, look up proposals and permits, access local services, and so much more.",
+    "url": "https://www.pryon.com/solutions/pryon-for-state-and-local-government",
+    "pass": 1
+   },
+   {
+    "quote": "can streamline these processes by helping employees find answers about rules, regulations, and contracts in seconds.",
+    "url": "https://www.pryon.com/solutions/pryon-for-state-and-local-government",
+    "pass": 1
+   },
+   {
+    "quote": "Chatbots and other generative AI solutions built using Pryon RAG Suite​​ help employees, supply chain partners, and customers ​streamline​​ energy operations with critical knowledge at the ready.",
+    "url": "https://www.pryon.com/solutions/pryon-for-energy",
+    "pass": 1
+   },
+   {
+    "quote": "Pryon Ingestion Engine can ingest a vast array of multimodal content, including text, images, audio, and video. The Ingestion Engine can ingest millions of pages today and will scale to a billion pages by the end of 2024, all while preserving accuracy.",
+    "url": "https://www.pryon.com/product",
+    "pass": 1
+   },
+   {
+    "quote": "Field technicians, customer support agents, channel partners, and sales managers all need quick access to information to do their jobs effectively, ranging from maintenance tips to warranty policies. Yet, too often, hunting for this information is a struggle — in fact, 70% of knowledge workers spend an hour or more searching for a single answer.",
+    "url": "https://www.pryon.com/guides/ai-for-sales-and-service",
+    "pass": 1
+   },
+   {
+    "quote": "Implementing RAG in an enterprise setting, especially when your content is technical in nature, is easier said than done. Find out how to quickly unlock the value of GenAI for your employees, partners, and customers while ensuring high accuracy and security.",
+    "url": "https://www.pryon.com/guides/ai-for-sales-and-service",
+    "pass": 1
+   },
+   {
+    "quote": "Contracting & Acquisition",
+    "url": "https://www.pryon.com/landing/ai-use-cases-across-federal-government-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Pryon Revenue 2024: $22.1M Est., $36.5M Raised",
+    "url": "https://getlatka.com/companies/pryon",
+    "pass": 3
+   },
+   {
+    "quote": "Pryon has not published its revenue. GetLatka estimates it at about $22.1M a year (October 2024).",
+    "url": "https://getlatka.com/companies/pryon",
+    "pass": 3
+   },
+   {
+    "quote": "All 3 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/pryon",
+    "pass": 3
+   },
+   {
+    "quote": "Pryon CEO, founders & employees",
+    "url": "https://getlatka.com/companies/pryon",
+    "pass": 3
+   },
+   {
+    "quote": "Igor Jablokov founded Pryon in 2017 and runs it as CEO. Pryon had 177 employees (December 2024, LinkedIn), up from 124 a year earlier.",
+    "url": "https://getlatka.com/companies/pryon",
+    "pass": 3
+   },
+   {
+    "quote": "What is Pryon's revenue?",
+    "url": "https://getlatka.com/companies/pryon",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Pryon's revenue at about",
+    "url": "https://getlatka.com/companies/pryon",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Pryon have?",
+    "url": "https://getlatka.com/companies/pryon",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/pryon",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/pryon",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/pryon",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/pryon",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本の企業では、紙の書類や社内システムに散らばる情報が多く、必要な資料を探すのに時間がかかることがあります",
+    "url": "https://note.com/vueloo_blog/n/n96a00508f2bd",
+    "pass": 3
+   },
+   {
+    "quote": "日本では、類似のサービスとして「Box」や「Microsoft SharePoint」、日本の「Sansan」や「Kintone」などが挙げられますが、Pryonは以下で差別化：",
+    "url": "https://note.com/vueloo_blog/n/n96a00508f2bd",
+    "pass": 3
+   },
+   {
+    "quote": "日本語対応：グローバル企業だが、日本語の処理精度やサポート体制は導入前に確認が必要",
+    "url": "https://note.com/vueloo_blog/n/n96a00508f2bd",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Pryon は、企業が持つ大量のデータや情報を効率的に整理し — Pryon は、企業が持つ大量のデータや情報を効率的に整理し note https://note.com > コンピュータ・IT > AI",
+    "url": "https://note.com/vueloo_blog/n/n96a00508f2bd",
+    "pass": 3
+   },
+   {
+    "quote": "Pryon : The Proven, Safe & Trusted Path to Enterprise GenAI — Pryon : The Proven, Safe & Trusted Path to Enterprise GenAI Pryon https://www.pryon.com",
+    "url": "https://www.pryon.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact Us | Request a Demo from Pryon — Contact Us | Request a Demo from Pryon Pryon https://www.pryon.com > contact",
+    "url": "https://www.pryon.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "Pryon - LinkedIn — Pryon - LinkedIn LinkedIn https://www.linkedin.com > pryon",
+    "url": "https://www.linkedin.com/company/pryon",
+    "pass": 3
+   },
+   {
+    "quote": "Pryon - App Store - Apple — Pryon - App Store - Apple Apple https://apps.apple.com > app > pryon",
+    "url": "https://apps.apple.com/us/app/pryon/id1630473054",
+    "pass": 3
+   },
+   {
+    "quote": "Pryon - Nutanix — Pryon - Nutanix Nutanix https://www.nutanix.com > pryon",
+    "url": "https://www.nutanix.com/partners/technology-alliances/pryon",
+    "pass": 3
+   },
+   {
+    "quote": "Pryon | World Economic Forum — Pryon | World Economic Forum World Economic Forum https://www.weforum.org > pryon",
+    "url": "https://www.weforum.org/organizations/pryon",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies | Pryon | AI for Enterprise & Government — Case Studies | Pryon | AI for Enterprise & Government Pryon https://www.pryon.com > case-studies",
+    "url": "https://www.pryon.com/resources/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Pryon -Powered Chatbot Deflects Customer Questions — Pryon -Powered Chatbot Deflects Customer Questions Pryon https://www.pryon.com > case-studies",
+    "url": "https://www.pryon.com/case-studies/pryon-powered-chatbot-deflects-customer-questions",
+    "pass": 3
+   },
+   {
+    "quote": "Pryon Revenue 2024: $22.1M Est., $36.5M Raised - GetLatka — Pryon Revenue 2024: $22.1M Est., $36.5M Raised - GetLatka GetLatka https://getlatka.com > pryon",
+    "url": "https://getlatka.com/companies/pryon",
+    "pass": 3
+   },
+   {
+    "quote": "Pryon's Competitors, Revenue , Number of Employees ... - Owler — Pryon's Competitors, Revenue , Number of Employees ... - Owler Owler https://www.owler.com > pryon1",
+    "url": "https://www.owler.com/company/pryon1",
+    "pass": 3
+   },
+   {
+    "quote": "Pryon Closes $100M Series B Round Led by Thomas Tull — Pryon Closes $100M Series B Round Led by Thomas Tull Pryon https://www.pryon.com > resource",
+    "url": "https://www.pryon.com/resource/pryon-series-b-round",
+    "pass": 3
+   },
+   {
+    "quote": "Pryon - 2026 Company Profile, Team, Funding & Competitors — Pryon - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/pryon/__3SsnZ3oC-Afh0pQXzVdSmY6gBqU1K1a1VUum8A6g66w",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Pryon は、企業が持つ大量のデータや情報を効率的に整理し Pryon は、企業が持つ大量のデータや情報を効率的に整理し note https://note.com > コンピュータ・IT > AI",
+    "url": "https://note.com/vueloo_blog/n/n96a00508f2bd",
+    "pass": 3
+   },
+   {
+    "quote": "Pryon 은 기업이 보유한 방대한 데이터와 정보를 효율적으로 ... Pryon 은 기업이 보유한 방대한 데이터와 정보를 효율적으로 ... note https://note.com > コンピュータ・IT > AI",
+    "url": "https://note.com/vueloo_blog/n/n96a00508f2bd?hl=ko",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Pryonは、企業が持つ大量のデータや情報を効率的に整理し、必要な情報を素早く見つけられるようにするAIプラットフォームを開発 🇺🇸｜MasaT. 武富 正人",
+    "url": "https://note.com/vueloo_blog/n/n96a00508f2bd",
+    "pass": 3
+   },
+   {
+    "quote": "Pryonは、企業が持つ大量のデータや情報を効率的に整理し、必要な情報を素早く見つけられるようにするAIプラットフォームを開発 🇺🇸",
+    "url": "https://note.com/vueloo_blog/n/n96a00508f2bd",
+    "pass": 3
+   },
+   {
+    "quote": "Pryonは、企業が持つ大量のデータや情報を効率的に整理し、必要な情報を素早く見つけられるようにするAIプラットフォームを開発しています。たとえば、社内のマニュアル、報告書、メール、動画などの情報を一元化し、質問を投げるとAIが適切な答えを即座に返してくれるようなツールを提供します。これにより、社員の生産性向上や意思決定の迅速化を支援します。",
+    "url": "https://note.com/vueloo_blog/n/n96a00508f2bd",
+    "pass": 3
+   },
+   {
+    "quote": "本社は米国ノースカロライナ州ローリーにあり、2017年に設立されました。主に大企業や政府機関向けにサービスを展開しており、製造業、金融、ヘルスケアなど幅広い業界で利用されています。",
+    "url": "https://note.com/vueloo_blog/n/n96a00508f2bd",
+    "pass": 3
+   },
+   {
+    "quote": "Pryonのコア技術は「自然言語処理（NLP）」と呼ばれるAIの一種で、人間が話すような言葉を理解し、情報を整理・提供します。主なサービスは以下の通り：",
+    "url": "https://note.com/vueloo_blog/n/n96a00508f2bd",
+    "pass": 3
+   },
+   {
+    "quote": "ナレッジ管理：社内のドキュメントやデータをAIが自動で整理。社員が「このプロジェクトの最新資料は？」と聞くと、AIが即座に該当ファイルを提示。",
+    "url": "https://note.com/vueloo_blog/n/n96a00508f2bd",
+    "pass": 3
+   },
+   {
+    "quote": "検索の高度化：Google検索のような単純なキーワード検索ではなく、質問の意図を理解して正確な回答を返す。",
+    "url": "https://note.com/vueloo_blog/n/n96a00508f2bd",
+    "pass": 3
+   },
+   {
+    "quote": "自動化：繰り返しの質問やタスクをAIが代行し、社員の負担を軽減。",
+    "url": "https://note.com/vueloo_blog/n/n96a00508f2bd",
+    "pass": 3
+   },
+   {
+    "quote": "Pryon은 기업이 보유한 방대한 데이터와 정보를 효율적으로 정리하여 필요한 정보를 빠르게 찾을 수 있도록 돕는 AI 플랫폼을 개발합니다 🇺🇸｜MasaT. 武富 正人",
+    "url": "https://note.com/vueloo_blog/n/n96a00508f2bd?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "Pryon은 기업이 보유한 방대한 데이터와 정보를 효율적으로 정리하여 필요한 정보를 빠르게 찾을 수 있도록 돕는 AI 플랫폼을 개발합니다 🇺🇸",
+    "url": "https://note.com/vueloo_blog/n/n96a00508f2bd?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "Pryon은 기업이 보유한 방대한 데이터와 정보를 효율적으로 정리하여 필요한 정보를 빠르게 찾을 수 있도록 돕는 AI 플랫폼을 개발하고 있습니다. 예를 들어, 사내 매뉴얼, 보고서, 이메일, 동영상 등의 정보를 통합하고, 질문을 던지면 AI가 적절한 답변을 즉시 제공하는 도구를 제공합니다. 이를 통해 직원의 생산성 향상과 의사결정의 신속화를 지원합니다.",
+    "url": "https://note.com/vueloo_blog/n/n96a00508f2bd?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "본사는 미국 노스캐롤라이나주 롤리에 있으며 2017년에 설립되었습니다. 주로 대기업 및 정부 기관을 대상으로 서비스를 전개하고 있으며, 제조업, 금융, 헬스케어 등 다양한 산업 분야에서 활용되고 있습니다.",
+    "url": "https://note.com/vueloo_blog/n/n96a00508f2bd?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "Pryon의 핵심 기술은 '자연어 처리(NLP)'라고 불리는 AI의 일종으로, 인간이 사용하는 언어를 이해하고 정보를 정리 및 제공합니다. 주요 서비스는 다음과 같습니다:",
+    "url": "https://note.com/vueloo_blog/n/n96a00508f2bd?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "지식 관리: 사내 문서나 데이터를 AI가 자동으로 정리합니다. 직원이 \"이 프로젝트의 최신 자료는?\"이라고 물으면 AI가 즉시 해당 파일을 제시합니다.",
+    "url": "https://note.com/vueloo_blog/n/n96a00508f2bd?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "검색 고도화: 구글 검색과 같은 단순한 키워드 검색이 아니라, 질문의 의도를 파악하여 정확한 답변을 반환합니다.",
+    "url": "https://note.com/vueloo_blog/n/n96a00508f2bd?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "자동화: 반복적인 질문이나 업무를 AI가 대신 처리하여 직원의 부담을 줄여줍니다.",
+    "url": "https://note.com/vueloo_blog/n/n96a00508f2bd?hl=ko",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Pryon - LinkedIn Pryon - LinkedIn LinkedIn https://www.linkedin.com > pryon",
+    "url": "https://www.linkedin.com/company/pryon",
+    "pass": 3
+   },
+   {
+    "quote": "Jason O'Neill - Chief People Officer at Pryon | Apple - LinkedIn Jason O'Neill - Chief People Officer at Pryon | Apple - LinkedIn LinkedIn https://www.linkedin.com > jasonkon...",
+    "url": "https://www.linkedin.com/in/jasonkoneill",
+    "pass": 3
+   },
+   {
+    "quote": "Pryon | LinkedIn Pryon | LinkedIn LinkedIn https://jp.linkedin.com > company > pryon",
+    "url": "https://jp.linkedin.com/company/pryon",
+    "pass": 3
+   },
+   {
+    "quote": "David Nahamoo - Chief Scientist at Pryon - LinkedIn David Nahamoo - Chief Scientist at Pryon - LinkedIn LinkedIn https://www.linkedin.com > davidnah...",
+    "url": "https://www.linkedin.com/in/davidnahamoo",
+    "pass": 3
+   },
+   {
+    "quote": "Igor Jablokov, CEO of Pryon - LinkedIn Igor Jablokov, CEO of Pryon - LinkedIn LinkedIn https://www.linkedin.com > posts > pryon_igor-jablokov-...",
+    "url": "https://www.linkedin.com/posts/pryon_igor-jablokov-ceo-of-pryon-50m-raised-activity-7307490606845415424-6BDe",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Pryon International (@pryonsg) - Facebook Pryon International (@pryonsg) - Facebook Facebook https://www.facebook.com > ... > Home Improvement",
+    "url": "https://www.facebook.com/pryonsg/",
+    "pass": 3
+   },
+   {
+    "quote": "Pryon logo design for modern brands - Facebook Pryon logo design for modern brands - Facebook Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/135150440489098/posts/1875793999758058/",
+    "pass": 3
+   },
+   {
+    "quote": "Chicago Med: Sibling's GSS Pryon Test Lie Sparks Family ... Chicago Med: Sibling's GSS Pryon Test Lie Sparks Family ... Facebook https://www.facebook.com > ... > One Chicago > Videos",
+    "url": "https://www.facebook.com/NBCOneChicago/videos/the-truth-comes-out-%EF%B8%8F-chicago-med-nbc-and-streaming-on-peacock/963877383092408/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.pryon.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pryon.com/about/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pryon.com/case-studies/corporation-transforms-citizen-engagement-for-u-s-city",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pryon.com/solutions/pryon-for-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pryon.com/case-studies/pryon-powered-chatbot-deflects-customer-questions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pryon.com/solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pryon.com/solutions/pryon-for-defense-intelligence",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pryon.com/solutions/pryon-for-state-and-local-government",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pryon.com/solutions/pryon-for-energy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pryon.com/solutions/pryon-for-life-sciences",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pryon.com/solutions/pryon-for-education",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pryon.com/resources/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pryon.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pryon.com/about/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pryon.com/about/security",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pryon.com/solutions/pryon-for-defense-intelligence-archived",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.pryon.com/product",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pryon.com/guides/ai-for-sales-and-service",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pryon.com/case-studies/dod-streamlines-information-delivery-for-military-and-civilians",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pryon.com/landing/ai-use-cases-across-federal-government-agencies",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/65cbae0a3956181cf7a74c75/68daadcd8f5603dc54bedb40_partners-logos-isv-b.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/65cbae0a3956181cf7a74c75/6862f19e46121e2552450e4b_partner-logos-consulting-updated.jpeg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/65cbae0a3956181cf7a74c75/673b0eaee3b13506cc076f17_partner-logos-hardware.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/65cbae0a3956181cf7a74c75/668d9b9f379fa8d267437ae7_solution-header_manufacturing.avif",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://note.com/vueloo_blog/n/n96a00508f2bd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stellantis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.biggo.jp/news/d7f9e971-3cf3-4267-9109-4a4753ee858d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wpiinc.com/ja/pages/distributors?srsltid=AYCX9vKzJtjo1U5p-Dn_qT1fVKqCIjgtJ4_UQHStW-kAUxw9he9YntoQ",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.manageengine.jp/pace/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/pryon",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://apps.apple.com/us/app/pryon/id1630473054",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nutanix.com/partners/technology-alliances/pryon",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ptc.com/en/case-studies?srsltid=AYCX9vIbPQecnpKKFOE87kI_mmxRjvMiGZPsWLjhT2Vz3gLmR4sld3XM",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aispry.ai/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=0j22JYl44z4",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/pryon",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.owler.com/company/pryon1",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/pryon/__3SsnZ3oC-Afh0pQXzVdSmY6gBqU1K1a1VUum8A6g66w",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/vueloo_blog/n/n96a00508f2bd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/vueloo_blog/n/n96a00508f2bd?hl=ko",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/pryon",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/jasonkoneill",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/pryon",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/davidnahamoo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pryonsg/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/135150440489098/posts/1875793999758058/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/NBCOneChicago/videos/the-truth-comes-out-%EF%B8%8F-chicago-med-nbc-and-streaming-on-peacock/963877383092408/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/pryon",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/pryon_igor-jablokov-ceo-of-pryon-50m-raised-activity-7307490606845415424-6BDe",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/pryon",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Pryon 日本 導入",
+   "results": [
+    "https://note.com/vueloo_blog/n/n96a00508f2bd",
+    "https://www.stellantis.jp/",
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://finance.biggo.jp/news/d7f9e971-3cf3-4267-9109-4a4753ee858d",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://www.webcg.net/articles/-/54494",
+    "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "https://www.unite.ai/ja/igor-jablokov-ceo-founder-of-pryon-interview-series/",
+    "https://free-ai-tools.jp/business/service/pryon",
+    "https://www.pryon.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Pryon 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.pryon.com/",
+    "https://www.pryon.com/contact",
+    "https://wpiinc.com/ja/pages/distributors?srsltid=AYCX9vKzJtjo1U5p-Dn_qT1fVKqCIjgtJ4_UQHStW-kAUxw9he9YntoQ",
+    "https://www.manageengine.jp/pace/",
+    "https://metoree.com/companies/3215/distributors/",
+    "https://www.prg.com/ja-jp/global/japan/distribution-services",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=5182",
+    "https://partner.infinicloud.com/agencypartner.html",
+    "https://prtimes.jp/topics/keywords/%E6%97%A5%E6%9C%AC%E7%B7%8F%E4%BB%A3%E7%90%86%E5%BA%97",
+    "https://metoree.com/companies/distributors-relationships/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Pryon Japan",
+   "results": [
+    "https://www.pryon.com/",
+    "https://www.linkedin.com/company/pryon",
+    "https://apps.apple.com/us/app/pryon/id1630473054",
+    "https://www.nutanix.com/partners/technology-alliances/pryon",
+    "https://www.weforum.org/organizations/pryon",
+    "https://admin.pryon.net/",
+    "https://www.pryon.com/contact",
+    "https://www.bbb.org/us/nc/raleigh/profile/computer-software-developers/pryon-inc-0593-90321651",
+    "https://www.linkedin.com/posts/pryon_igor-jablokov-ceo-of-pryon-50m-raised-activity-7307490606845415424-6BDe",
+    "https://en.wikipedia.org/wiki/Creutzfeldt–Jakob_disease"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Pryon manufacturing customer case study",
+   "results": [
+    "https://www.pryon.com/resources/case-studies",
+    "https://www.pryon.com/case-studies/pryon-powered-chatbot-deflects-customer-questions",
+    "https://www.ptc.com/en/case-studies?srsltid=AYCX9vIbPQecnpKKFOE87kI_mmxRjvMiGZPsWLjhT2Vz3gLmR4sld3XM",
+    "https://aispry.ai/case-studies",
+    "https://business.bt.com/insights/case-studies/manufacturing/",
+    "https://www.youtube.com/watch?v=BiJRnQO07V4",
+    "https://www.weforum.org/organizations/pryon",
+    "https://www.epicor.com/en-us/blog/technology-and-data/manufacturing-case-study/",
+    "https://yespress.io/pryon",
+    "https://www.pryon.com/case-studies/top-energy-corporation-revolutionizes-maintenance-support"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "Pryon white label OR reseller OR partner program",
+   "results": [
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://www.youtube.com/watch?v=0j22JYl44z4",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://www.pryon.com/about/partners",
+    "https://journeybee.io/resources/beyond-co-branding-why-white-label-partner-software-defines-winning-partnerships",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://elfsight.com/affiliate-program/articles-saas-white-label/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Pryon founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/pryon",
+    "https://www.owler.com/company/pryon1",
+    "https://www.pryon.com/resource/pryon-series-b-round",
+    "https://tracxn.com/d/companies/pryon/__3SsnZ3oC-Afh0pQXzVdSmY6gBqU1K1a1VUum8A6g66w",
+    "https://www.linkedin.com/company/pryon",
+    "https://www.privco.com/company/pryon",
+    "https://www.crunchbase.com/organization/pryon",
+    "https://www.hypepotamus.com/pryon-raises-20m-series-a/",
+    "https://equityzen.com/company/pryon/",
+    "https://pitchbook.com/profiles/company/187670-35"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Pryon",
+   "results": [
+    "https://note.com/vueloo_blog/n/n96a00508f2bd",
+    "https://note.com/vueloo_blog/n/n96a00508f2bd?hl=ko",
+    "https://note.com/yuunaonao/n/ne8e8802e385a?hl=en",
+    "https://note.com/doyagao_funsaiki/n/n6a301380d63e",
+    "https://note.com/frinx/n/neb88f694a75e",
+    "https://note.com/vueloo_blog/n/n96a00508f2bd?hl=en",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/sallyb_ws/n/n0eeb6c630cea",
+    "https://note.com/godel/n/n219ff14f4820"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:x.com Pryon",
+   "results": [
+    "https://x.com/ijablokov",
+    "https://x.com/SteelPerlot",
+    "https://x.com/PyronWyatt?lang=en",
+    "https://x.com/DavidTareen/status/1140992318780186624",
+    "https://x.com/ijablokov/status/1279419124075159552",
+    "https://x.com/LIFT_Labs",
+    "https://x.com/SecondFront",
+    "https://x.com/zach_pyron_05",
+    "https://x.com/EF_Fellows",
+    "https://x.com/pryon"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Pryon",
+   "results": [
+    "https://www.linkedin.com/company/pryon",
+    "https://www.linkedin.com/in/jasonkoneill",
+    "https://jp.linkedin.com/company/pryon",
+    "https://www.linkedin.com/in/davidnahamoo",
+    "https://www.linkedin.com/company/pryoncapital",
+    "https://www.linkedin.com/jobs/pryon-jobs-worldwide",
+    "https://www.linkedin.com/posts/pryon_igor-jablokov-enterprise-knowledge-management-activity-7153432464424587266-xcn8",
+    "https://www.linkedin.com/in/chul-sung-8b073923",
+    "https://sg.linkedin.com/jobs/view/accounts-executive-at-pryon-international-pte-ltd-4481913670",
+    "https://www.linkedin.com/in/hamsa-buvaraghan-9911bb8"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Pryon",
+   "results": [
+    "https://www.facebook.com/pryonsg/",
+    "https://www.facebook.com/groups/135150440489098/posts/1875793999758058/",
+    "https://www.facebook.com/NBCOneChicago/videos/the-truth-comes-out-%EF%B8%8F-chicago-med-nbc-and-streaming-on-peacock/963877383092408/",
+    "https://www.facebook.com/DEVChallengeAccepted/posts/irisai-is-a-european-ai-company-building-trusted-ai-for-complex-enterprise-knowl/1090149747107803/",
+    "https://www.facebook.com/bootstraplabs/",
+    "https://www.facebook.com/groups/760337770709263/posts/29118359034480424/",
+    "https://www.facebook.com/CourtsideBuzzFB/posts/ja-morant-donated-the-entire-fundraising-goal-of-15000-to-an-11-year-old-memphis/1359879626179063/",
+    "https://www.facebook.com/pryon.ahmed/posts/27473205205608386/",
+    "https://www.facebook.com/p/Mike-Pryon-100089956989437/",
+    "https://www.facebook.com/pryon.autoclaves/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Pryon note 社長",
+   "results": [
+    "https://www.pryon.com/",
+    "https://www.crunchbase.com/organization/pryon",
+    "https://www.linkedin.com/company/pryon",
+    "https://www.linkedin.com/posts/pryon_igor-jablokov-ceo-of-pryon-50m-raised-activity-7307490606845415424-6BDe",
+    "https://www.youtube.com/watch?v=R5DpbffdubM",
+    "https://www.weforum.org/organizations/pryon",
+    "https://www.newsobserver.com/news/business/article279533049.html",
+    "https://www.pryon.com/resource/letter-series-b",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Pryon X 投稿",
+   "results": [
+    "https://www.pryon.com/",
+    "https://jp.linkedin.com/company/pryon",
+    "https://apps.apple.com/us/app/pryon/id1630473054",
+    "https://admin.pryon.net/",
+    "https://www.pryon.com/contact",
+    "https://www.computerweekly.com/blog/CW-Developer-Network/Pryon-LLMs-know-how-to-speak-memory-directs-whatto-say",
+    "https://help.x.com/ja/using-x/mentions-and-replies",
+    "https://24mura.co.jp/column/xalgorithm20260306/",
+    "https://qiita.com/free-honda/items/c8d72698484b5914d30c",
+    "https://x.com/pryon"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部30頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部30頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部30頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部30頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部30頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部30頁・検索12回）"
+ }
+}

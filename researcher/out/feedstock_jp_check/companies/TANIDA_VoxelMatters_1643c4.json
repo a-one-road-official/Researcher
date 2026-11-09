@@ -1,0 +1,569 @@
+{
+ "name": "TANIDA — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:ceramics-3d-printing-service",
+ "researched_at": "2026-11-09T22:38:18.015378+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "akiyoshi tanida - Asset Management One | LinkedInTomoki Tanida - Patent attorney | LinkedInMamoru Tanida - Engineer: Toyota Production System Services ...Davide Sher - Co-founder and CEO at VoxelMatters | LinkedInTanida Chaowaleard - General Manager | LinkedInTanida L. - People Business Partner | LinkedIn Asset Management One · 職歴: Asset Management One · 学歴: The University of Tokyo · 場所: 東京都 · Lin",
+    "url": "https://jp.linkedin.com/in/akiyoshi-tanida-7044ab132",
+    "pass": 3
+   },
+   {
+    "quote": "Tomoki Tanida - Patent attorney | LinkedInMamoru Tanida - Engineer: Toyota Production System Services ...Davide Sher - Co-founder and CEO at VoxelMatters | LinkedInTanida Chaowaleard - General Manager | LinkedInTanida L. - People Business Partner | LinkedIn Patent attorney · I focuse my practice on patent procurement and client counseling on infringement and validity in areas of technology includi",
+    "url": "https://www.linkedin.com/in/tomoki-tanida-3abb3312",
+    "pass": 3
+   },
+   {
+    "quote": "Mamoru Tanida - Engineer: Toyota Production System Services ...Davide Sher - Co-founder and CEO at VoxelMatters | LinkedInTanida Chaowaleard - General Manager | LinkedInTanida L. - People Business Partner | LinkedIn Engineer: Toyota Production System Services · Hi, My name is Mamoru(Mo) and I am a recent graduate from Swinburne University, graduating with a double degree in Product Design Engineer",
+    "url": "https://au.linkedin.com/in/mamorutanida",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookTanida Tanomsub - FacebookFacebookTanida Maddox (@tanida.smith) • Facebook, Connect with friendsAeow Tanida - FacebookAnnlie Tanida - FacebookYuya Tanida - Facebook VoxelMatters. 2,907 followers · 4 talking about this. The additive manufacturing insights that matter Tanida Tanomsub is on Facebook. Join Facebook to connect with Tanida Tanomsub and others you may know. Faceboo",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/about/advertise/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/48535/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/am/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tana-x.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tanix.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.everloy.co.jp/company/company_everloy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokaiz.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tanida.co.jp/ja/technology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/product/detail/2000805333/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprinter.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.form2.shop/formlabs-materials?srsltid=AYCX9vIV0PHh3h49ch3bWz0keUEHPzhnt_pgDoC2Dho1LkG7kuP5POQ7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop.exmatelab.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/s/q-3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E7%94%A8%20%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/?srsltid=AYCX9vIL55z8l4aEibCj-eOauvot_UjxCWKCJJBmdj48J5NJVhI72zDb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tanida.co.jp/en/production/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.farsoon-gl.com/news/solize-partners-japan-3d-printer-and-farsoon-technologies-announces-3-way-strategic-partnership-to-advance-large-format-lpbf-solutions-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E3%82%BF%E3%83%8B%E3%82%BF-%E9%98%B2%E6%B0%B4%E5%A4%A7%E9%9F%B3%E9%87%8F-%E3%82%BF%E3%82%A4%E3%83%9E%E3%83%BC-TD-377-%E3%83%96%E3%83%AB%E3%83%BC/dp/B001TV3PAG",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E3%82%B7%E3%83%A5%E3%83%AD%E3%82%B9-SCHROTH-%E3%82%B9%E3%83%8A%E3%83%83%E3%83%97%E3%82%AA%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%83%E3%83%97%E7%94%A8-FIA%E5%85%AC%E8%AA%8D%E3%82%B7%E3%83%BC%E3%83%88%E3%83%99%E3%83%AB%E3%83%88%E3%83%96%E3%83%A9%E3%82%B1%E3%83%83%E3%83%88-55492/dp/B00ZWVDISS",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://affiliate.amazon.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E3%83%9E%E3%83%95%E3%83%A9%E3%83%BC-%E3%83%8F%E3%83%B3%E3%82%AC%E3%83%BC-%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88-%E5%BC%B7%E5%8C%96%E3%83%9E%E3%83%95%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0-%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF3%E5%80%8B/dp/B09C1B6ZCY",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00200483/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/3517/1543/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/0.4kw+4P+200V/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00347026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uk.linkedin.com/company/voxelmatters",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.voxelmatters.report/database/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/in/akiyoshi-tanida-7044ab132",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/tomoki-tanida-3abb3312",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://au.linkedin.com/in/mamorutanida",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "TANIDA — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/about/advertise/",
+    "https://www.voxelmatters.directory/",
+    "https://metoree.com/companies/48535/",
+    "https://www.voxelmatters.com/am/",
+    "https://tanida.co.jp/ja/technology/",
+    "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "https://www.tamuracorp.com/products/agency/",
+    "https://www.tanida-web.co.jp/company.html",
+    "https://k-ilt.com/service11/",
+    "https://www.youtube.com/watch?v=bKI92yWi89k"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 23
+  },
+  {
+   "query": "TANIDA — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://www.tana-x.co.jp/",
+    "https://www.tanix.co.jp/",
+    "https://www.everloy.co.jp/company/company_everloy.html",
+    "https://www.tokaiz.jp/",
+    "https://hid-labs.com/",
+    "https://www.tamiya.com/english/agent/agent.htm",
+    "https://hobby.ec.volks.co.jp/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.instagram.com/antenna_ts/",
+    "https://semiconbox.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "TANIDA — VoxelMatters 日本 販売",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://tanida.co.jp/ja/technology/",
+    "https://mono.ipros.com/product/detail/2000805333/",
+    "https://3dprinter.co.jp/",
+    "https://k-ilt.com/service11/",
+    "https://www.3dpro.jp/",
+    "https://taniobis.com/ja/industries/additive-manufacturing/",
+    "https://ji-am.jp/",
+    "https://www.bmf3d.co.jp/",
+    "https://www.tanida-shop.jp/categories/brand.asp?Cd=7"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "TANIDA — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://skhonpo.com/",
+    "https://www.form2.shop/formlabs-materials?srsltid=AYCX9vIV0PHh3h49ch3bWz0keUEHPzhnt_pgDoC2Dho1LkG7kuP5POQ7",
+    "https://shop.exmatelab.com/",
+    "https://www.monotaro.com/s/q-3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E7%94%A8%20%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/?srsltid=AYCX9vIL55z8l4aEibCj-eOauvot_UjxCWKCJJBmdj48J5NJVhI72zDb",
+    "https://www.mitajimuki.com/user_data/cate_fdm_print_supply.php?srsltid=AYCX9vI3N3ICZN9lQc7PTYgNfxp1TtTiXpQxfGHt4C5kIMApNPmxby4c",
+    "https://ja.3dsystems.com/materials/pellet-materials",
+    "https://www.amazon.co.jp/Entina-3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E7%94%A8PLA%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%881-75mm-4%E8%89%B2%E3%82%BB%E3%83%83%E3%83%88%E3%80%81FDM-%E9%AB%98%E5%85%89%E6%B2%A2%E3%80%81%E5%AF%B8%E6%B3%95%E7%B2%BE%E5%BA%A6%C2%B10-02mm%E3%80%81200g%C3%974%E5%B7%BB-%E3%83%9E%E3%83%AB%E3%83%81%E3%82%AB%E3%83%A9%E3%83%BC%E6%9D%90%E6%96%99%EF%BC%88%E3%82%B7%E3%83%AB%E3%82%AF%E8%AA%BF-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC%EF%BC%8F%E3%83%96%E3%83%AD%E3%83%B3%E3%82%BA%EF%BC%8F%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%EF%BC%8F%E3%82%B5%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%83%96%E3%83%AB%EF%BC%89/dp/B0FY2S8L7F",
+    "https://search.rakuten.co.jp/search/mall/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E7%94%A8%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/",
+    "https://www.askul.co.jp/m/02-0205-0205004-3/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "TANIDA — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.voxelmatters.directory/",
+    "https://tanida.co.jp/en/production/",
+    "https://www.voxelmatters.report/methodology/",
+    "https://www.linkedin.com/posts/voxelmatters_additivemanufacturing-3dprinting-ebook-activity-7516128261437845504-opWf",
+    "https://unifiedsearch.jcdbizmatch.jp/nanotech2026/en/tct/product",
+    "https://www.youtube.com/watch?v=6M8csskWCcI&vl=ja",
+    "https://all3dp.com/4/3d-printing-advanced-technology-center-opens-in-japan-to-spur-adoption-of-additive-manufacturing/",
+    "https://tanida.co.jp/en/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "TANIDA — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.farsoon-gl.com/news/solize-partners-japan-3d-printer-and-farsoon-technologies-announces-3-way-strategic-partnership-to-advance-large-format-lpbf-solutions-in-japan/",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://formlabs.com/company/press/formlabs-extends-global-presence-japan/",
+    "https://www.raise3d.com/sales-partners-voice/japan-3d-printer-co-ltd-sales-partner-in-japan/",
+    "https://tanida.co.jp/en/company/",
+    "https://xjet3d.com/pr/xjet-appoints-zen-global-as-sales-partner-and-representative-in-japan/",
+    "https://www.upnano.com/distributors/",
+    "https://en.wikipedia.org/wiki/Jim_Kerr"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 21
+  },
+  {
+   "query": "site:amazon.co.jp TANIDA — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/タニタ-防水大音量-タイマー-TD-377-ブルー/dp/B001TV3PAG",
+    "https://www.amazon.co.jp/シュロス-SCHROTH-スナップオンクリップ用-FIA公認シートベルトブラケット-55492/dp/B00ZWVDISS",
+    "https://affiliate.amazon.co.jp/",
+    "https://www.amazon.co.jp/マフラー-ハンガー-マウント-強化マフラーリング-ブラック3個/dp/B09C1B6ZCY",
+    "https://www.amazon.co.jp/ジュラン-ダウンマフラーリングﾞ-C汎用タイプ-スバル一部用-361936/dp/B0DSG3KPRJ",
+    "https://www.amazon.co.jp/購入履歴-確認/s?k=購入履歴+確認",
+    "https://www.amazon.co.jp/ファイナル･テーブル/dp/B0HGMQ15D9",
+    "https://www.amazon.co.jp/週刊ファミ通-2026年11月19日号-No-1970-週刊ファミ通編集部/dp/B0HNSMCCCL",
+    "https://relay.amazon.co.jp/",
+    "https://www.amazon.co.jp/-/en/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:monotaro.com TANIDA — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/g/00200483/",
+    "https://www.monotaro.com/p/3517/1543/",
+    "https://www.monotaro.com/k/store/0.4kw+4P+200V/",
+    "https://www.monotaro.com/g/00347026/",
+    "https://www.monotaro.com/g/04384932/",
+    "https://www.monotaro.com/s/c-84476/",
+    "https://www.monotaro.com/p/3761/4446/",
+    "https://www.monotaro.com/g/08083106/",
+    "https://www.monotaro.com/s/c-22285/q-350mm/",
+    "https://www.monotaro.com/g/04169362/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "TANIDA — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://uk.linkedin.com/company/voxelmatters",
+    "https://www.voxelmatters.report/database/",
+    "https://www.voxelmatters.directory/",
+    "https://www.voxelmatters.com/the-upside-down-of-polymer-additive-manufacturing/",
+    "https://www.fabbaloo.com/news/voxelmatters-reveals-top-ten-polymer-3d-printing-companies-dominating-the-market",
+    "https://revenuebase.ai/companies/3d-printing-and-additive-manufacturing-companies/united-states",
+    "https://all3dp.com/4/growth-and-challenges-the-next-decade-of-metal-additive-manufacturing/",
+    "https://www.voxelmatters.group/insights/",
+    "https://prospeo.io/c/tanida-revenue"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com TANIDA — VoxelMatters",
+   "results": [
+    "https://note.com/showgo_tanida",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/ibuki201/n/nec3855da2ccd",
+    "https://note.com/keizokuramoto/n/nef2f6f1c855d",
+    "https://note.com/lithe_crocus8929/n/na2764e5da4fc",
+    "https://note.com/keiga/n/n679dddf768cf",
+    "https://note.com/masaya_cells/n/naeb4700bff6a",
+    "https://note.com/rinngorou/n/n93ebee66f68f"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:x.com TANIDA — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/",
+    "https://x.com/tanidalana_0316/status/2116733544575963545",
+    "https://x.com/elonmusk/status/2115129139468673514",
+    "https://x.com/itscelyunique/status/2117839228826521620",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/chillestwoman/status/2116669325868400644",
+    "https://x.com/chueraidi/status/2067885620199051514",
+    "https://x.com/chueraidi/status/2012886685076660569",
+    "https://x.com/jocelynseip/status/2118260591680983528"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:linkedin.com TANIDA — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://jp.linkedin.com/in/akiyoshi-tanida-7044ab132",
+    "https://www.linkedin.com/in/tomoki-tanida-3abb3312",
+    "https://au.linkedin.com/in/mamorutanida",
+    "https://it.linkedin.com/in/davide-sher",
+    "https://th.linkedin.com/in/tanida-chaowaleard-7b394868",
+    "https://th.linkedin.com/in/tanida-lokadhama",
+    "https://www.linkedin.com/company/tanida-ltd",
+    "https://uk.linkedin.com/in/federico-sher",
+    "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:facebook.com TANIDA — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/tanida.tanomsub/",
+    "https://www.facebook.com/",
+    "https://www.facebook.com/tanida.smith/",
+    "https://www.facebook.com/aeow.tanida/",
+    "https://www.facebook.com/tanida.klinkrabi/",
+    "https://www.facebook.com/tanidayuya/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "TANIDA — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.com/contribute/",
+    "https://www.voxelmatters.group/about/",
+    "https://note.com/holy_nerine2106",
+    "https://www.voxelmatters.com/the-upside-down-of-polymer-additive-manufacturing/",
+    "https://note.com/natee/n/n39b1bb325903",
+    "https://note.com/ptcjapan/n/n1199578f209b",
+    "https://note.ishida-tec.co.jp/m/m00d0d515c471",
+    "https://www.youtube.com/watch?v=6M8csskWCcI&vl=ja",
+    "https://tanida.co.jp/ja/post-354/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "TANIDA — VoxelMatters X 投稿",
+   "results": [
+    "https://www.voxelmatters.com/category/medical/",
+    "https://www.youtube.com/@voxelmatters",
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.voxelmatters.report/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.voxelmatters.com/the-upside-down-of-polymer-additive-manufacturing/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://www.youtube.com/watch?v=EmUPG3n5KrQ",
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://x.com/voxelmatters"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索15回）"
+ }
+}

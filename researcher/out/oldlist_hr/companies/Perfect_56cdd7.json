@@ -1,0 +1,2064 @@
+{
+ "name": "Perfect",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜状態なし",
+ "researched_at": "2026-11-09T22:46:42.313627+00:00",
+ "official_url": "https://www.perfectcorp.com",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$165,000",
+    "url": "https://prospeo.io/c/perfect-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$105,000,000",
+    "url": "https://prospeo.io/c/perfect-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "No. 98 Minquan Road, 14F, New Taipei City, Xindian District 231, TW",
+    "url": "https://prospeo.io/c/perfect-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2014",
+    "url": "https://prospeo.io/c/perfect-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Senior Vice President of Global Marketing",
+    "url": "https://www.perfectcorp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Global Marketing, Executive Director, Digital Strategy & Transformation",
+    "url": "https://www.perfectcorp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President, Clinique Brand Technology Leader",
+    "url": "https://www.perfectcorp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Perfect Corp.'s YouCam API Hackathon Is Back, Now Focused on eCommerce with a $6,000 Prize Pool",
+    "url": "https://www.perfectcorp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Perfect Corp. Integrates the Newly Launched “Vidu Q4 Preview” AI Video Model Across All YouCam Apps and YouCam Online Editor, Among the First Worldwide",
+    "url": "https://www.perfectcorp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Perfect Corp. has been named to Fast Company’s prestigious list of the World’s Most Innovative Companies of 2025, ranked #9 in the Retail category.",
+    "url": "https://www.perfectcorp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The industry-leading AgileHand™ Technology celebrates a Bronze medal win at the 2023 Edison Best New Products Awards™ in the Personal Technology & Gadgets category.",
+    "url": "https://www.perfectcorp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Perfect has been honored for its’ Real-Time Skin Analysis solution, revolutionizing consumer experiences in skincare with AI-powered precision.",
+    "url": "https://www.perfectcorp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The award recognizes Perfect Corp.’s advanced AI and AR technologies that are transforming how consumers discover and shop for beauty and fashion products.",
+    "url": "https://www.perfectcorp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Perfect Corp. has been named ‘AI Company of the Year’ at the prestigious 2025 RetailTech Breakthrough Awards, recognizing its AI Skin Analysis solutions.",
+    "url": "https://www.perfectcorp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://www.perfectcorp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Perfect Corp. Business Partnership Program",
+    "url": "https://www.perfectcorp.com/business/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Why join the Perfect Corp. Business Partnership Program?",
+    "url": "https://www.perfectcorp.com/business/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Benefit form Competitive Profit Sharing Scheme",
+    "url": "https://www.perfectcorp.com/business/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Offer Perfect Corp.’s products, services, and solutions to your customers.",
+    "url": "https://www.perfectcorp.com/business/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Integrate Perfect Corp.’s solutions into your offers. Provide the design, deployment and management services to your customers.",
+    "url": "https://www.perfectcorp.com/business/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Apply for the Perfect Corp. Business Partnership Program",
+    "url": "https://www.perfectcorp.com/business/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://www.perfectcorp.com/business/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President, Clinique Brand Technology Leader",
+    "url": "https://www.perfectcorp.com/business/successstory/Clinique-AR-Solutions-Success-Story",
+    "pass": 1
+   },
+   {
+    "quote": "AI Product Recommendations",
+    "url": "https://www.perfectcorp.com/business/successstory/Clinique-AR-Solutions-Success-Story",
+    "pass": 1
+   },
+   {
+    "quote": "was founded by The Estée Lauder Companies in 1968 as the first dermatologist-created, prestige cosmetic brand. Sold in approximately 140 countries and territories, Clinique’s mission today remains what it was from the beginning: to provide the highest quality and most effective products for every skin type and concern, offering products for men and women of all ages and ethnicities.",
+    "url": "https://www.perfectcorp.com/business/successstory/Clinique-AR-Solutions-Success-Story",
+    "pass": 1
+   },
+   {
+    "quote": "The brand’s customized approach and quality products—all meticulously tested and carefully formulated with the latest science—have made Clinique one of the leading skincare authorities in the world. All makeup and skincare products are allergy tested and 100% fragrance free.",
+    "url": "https://www.perfectcorp.com/business/successstory/Clinique-AR-Solutions-Success-Story",
+    "pass": 1
+   },
+   {
+    "quote": "As part of its scientific approach to creating skincare products, Clinique has always embraced technology—including the “Clinique Computer” it developed in the 1960s, which asked customers to answer eight questions about their skin by sliding a sleek lever. How the levers lined up instantly revealed their skin type.",
+    "url": "https://www.perfectcorp.com/business/successstory/Clinique-AR-Solutions-Success-Story",
+    "pass": 1
+   },
+   {
+    "quote": "Clinique has long worked closely with Perfect Corp. and the Perfect Corp. AR platform. Perfect Corp. combines powerful AI with its industry-leading AR to provide stunningly lifelike virtual try-on experiences.",
+    "url": "https://www.perfectcorp.com/business/successstory/Clinique-AR-Solutions-Success-Story",
+    "pass": 1
+   },
+   {
+    "quote": "Clinique uses Perfect Corp. technology, including its AI shade matching and product recommendation, to enable customers to precisely match shades for foundation and then recommend three lipsticks that will go with their personalized foundation shade. Clinique also utilizes virtual try-on for all of their makeup products.",
+    "url": "https://www.perfectcorp.com/business/successstory/Clinique-AR-Solutions-Success-Story",
+    "pass": 1
+   },
+   {
+    "quote": ". “Our Shade Match Science uses a complex color algorithm to match for the perfect foundation shade, lip, or makeup shade, using Perfect Corp. AI product matching coupled with AR-powered virtual try-on experiences.”",
+    "url": "https://www.perfectcorp.com/business/successstory/Clinique-AR-Solutions-Success-Story",
+    "pass": 1
+   },
+   {
+    "quote": ". Clinique offers the same rich AI/AR-powered VTO experiences from its website, which has proven popular with both desktop and mobile users.",
+    "url": "https://www.perfectcorp.com/business/successstory/Clinique-AR-Solutions-Success-Story",
+    "pass": 1
+   },
+   {
+    "quote": "Clinique has enjoyed several benefits since deploying its Perfect Corp. AI/AR-powered product recommendation and virtual try-on solutions, including:",
+    "url": "https://www.perfectcorp.com/business/successstory/Clinique-AR-Solutions-Success-Story",
+    "pass": 1
+   },
+   {
+    "quote": "Clinique is using Perfect Corp. AI/AR to provide customers with precision shade matching and virtual try-on across channels—from in-store, to website, to microsites.",
+    "url": "https://www.perfectcorp.com/business/successstory/Clinique-AR-Solutions-Success-Story",
+    "pass": 1
+   },
+   {
+    "quote": "Website based VTO, whether from desktop or mobile devices, have also proven popular with customers—resulting in longer dwell time, increased basket size, and larger rates of conversion.",
+    "url": "https://www.perfectcorp.com/business/successstory/Clinique-AR-Solutions-Success-Story",
+    "pass": 1
+   },
+   {
+    "quote": "Microsites have also proven popular, with customers scanning a QR code to enter the VTO experience.",
+    "url": "https://www.perfectcorp.com/business/successstory/Clinique-AR-Solutions-Success-Story",
+    "pass": 1
+   },
+   {
+    "quote": "“By placing QR codes on in-store gondola displays and such enables customers to continue the virtual try-on experience from home. We were impressed to find that 20% of customers who purchased a product with our microsite QR code on it, used the code to go to our site to engage in VTO.”",
+    "url": "https://www.perfectcorp.com/business/successstory/Clinique-AR-Solutions-Success-Story",
+    "pass": 1
+   },
+   {
+    "quote": "“We see that customers are about two and a half times more likely to make a purchase after engaging in our virtual try-on,” Harris says. “We also see that they are buying more product. Basket size is about 30% greater after a customer engages in virtual try-on. This certainly drives return on investment.”",
+    "url": "https://www.perfectcorp.com/business/successstory/Clinique-AR-Solutions-Success-Story",
+    "pass": 1
+   },
+   {
+    "quote": "The value of Clinique’s virtual try-on and match science has proven popular around the globe.",
+    "url": "https://www.perfectcorp.com/business/successstory/Clinique-AR-Solutions-Success-Story",
+    "pass": 1
+   },
+   {
+    "quote": "“We've rolled this out across multiple retail markets and online markets covering all regions, including Europe, Asia/Pacific, Latin America, and North America,” Harris says. “It’s proven to be an excellent way to facilitate and convert sales. The feedback has been very positive. Customers love its accuracy, and they also find the virtual try-on experience to be fun, which is also important.”",
+    "url": "https://www.perfectcorp.com/business/successstory/Clinique-AR-Solutions-Success-Story",
+    "pass": 1
+   },
+   {
+    "quote": "The company has found that experiencing virtual try-on leads to customers exploring other areas of the site.",
+    "url": "https://www.perfectcorp.com/business/successstory/Clinique-AR-Solutions-Success-Story",
+    "pass": 1
+   },
+   {
+    "quote": "“The virtual try-on experience seems to really trigger their interest,” Harris says. “After going through the VTO experience, they want to learn more. They explore different products, which can bring them back to try virtual try-on for something new.”",
+    "url": "https://www.perfectcorp.com/business/successstory/Clinique-AR-Solutions-Success-Story",
+    "pass": 1
+   },
+   {
+    "quote": "Clinique has long enjoyed strong customer loyalty because of the quality of its products and its efforts to help customers find a perfect match for foundation and its other products.",
+    "url": "https://www.perfectcorp.com/business/successstory/Clinique-AR-Solutions-Success-Story",
+    "pass": 1
+   },
+   {
+    "quote": "The company has found that its AI/AR-powered virtual try-on helps attract new customers, and build their sense of product loyalty.",
+    "url": "https://www.perfectcorp.com/business/successstory/Clinique-AR-Solutions-Success-Story",
+    "pass": 1
+   },
+   {
+    "quote": "“Customers tend to be very loyal to their foundation,” Harris says. “Using our shade match science, and Perfect Corp. AI-powered shade finder and AR virtual try-on, we can help them find their best foundation match, or lip or makeup products, all of which creates customer loyalty.”",
+    "url": "https://www.perfectcorp.com/business/successstory/Clinique-AR-Solutions-Success-Story",
+    "pass": 1
+   },
+   {
+    "quote": "The technology is appreciated by the company’s existing customers, and also helps engage new customers.",
+    "url": "https://www.perfectcorp.com/business/successstory/Clinique-AR-Solutions-Success-Story",
+    "pass": 1
+   },
+   {
+    "quote": "Clinique appreciates how quickly Perfect Corp. was able to help the company adjust to new demands of the COVID-19 pandemic by adjusting its algorithms so that AI recommendations could still be accomplished for color matching, even when the customer was wearing a face mask.",
+    "url": "https://www.perfectcorp.com/business/successstory/Clinique-AR-Solutions-Success-Story",
+    "pass": 1
+   },
+   {
+    "quote": "“Perfect Corp. has a strong R&D team,” Harris says. The company provides personalized, white-glove service whether its account management, program management, or technical management. And they have very strong leadership at the top.”",
+    "url": "https://www.perfectcorp.com/business/successstory/Clinique-AR-Solutions-Success-Story",
+    "pass": 1
+   },
+   {
+    "quote": "Powered by Perfect Corp.’s AI Skin Analysis API, the new LIERAC experience links a selfie-based skin diagnosis to a personalized skincare protocol in France, Italy, Spain, Portugal, Greece, Poland, Belgium, and Germany.",
+    "url": "https://www.perfectcorp.com/business/news/LIERAC",
+    "pass": 1
+   },
+   {
+    "quote": "(NYSE: PERF), the leading AI and AR beauty and fashion tech provider, proudly announces its partnership with LIERAC, the French Botanical Cosmeceutical pharmacy brand from the Laboratoire Native group, known for combining botanical expertise with advanced cosmetic science since 1975. Powered by Perfect Corp.’s",
+    "url": "https://www.perfectcorp.com/business/news/LIERAC",
+    "pass": 1
+   },
+   {
+    "quote": "Personalized Skincare Protocols Based on Individual Skin Needs",
+    "url": "https://www.perfectcorp.com/business/news/LIERAC",
+    "pass": 1
+   },
+   {
+    "quote": "Each protocol combines a Core Routine, which covers essential skincare needs, with Complementary Care, which targets specific concerns.",
+    "url": "https://www.perfectcorp.com/business/news/LIERAC",
+    "pass": 1
+   },
+   {
+    "quote": "By integrating Perfect Corp.’s AI Skin Analysis API directly into its e-commerce platforms, LIERAC can offer the same AI-powered experience to consumers across multiple European markets. With the API approach, skin analysis becomes part of the consumer’s shopping journey rather than a standalone digital tool.",
+    "url": "https://www.perfectcorp.com/business/news/LIERAC",
+    "pass": 1
+   },
+   {
+    "quote": "The launch reflects the growing role of AI in personalized beauty and skincare, where technology connects consumer insights with relevant product recommendations at the point of discovery. By combining Perfect Corp.’s AI technology with LIERAC’s botanical cosmeceutical expertise, the two companies are making personalized skincare more accessible and scalable across Europe.",
+    "url": "https://www.perfectcorp.com/business/news/LIERAC",
+    "pass": 1
+   },
+   {
+    "quote": "For brands and professionals, Perfect Corp. offers an award-winning portfolio of enterprise technologies, including virtual try-on experiences for makeup, hair, jewelry, watches, and fashion accessories, as well as AI-powered skin and hair analysis.",
+    "url": "https://www.perfectcorp.com/business/news/LIERAC",
+    "pass": 1
+   },
+   {
+    "quote": "With a brand portfolio that includes YouCam and Skincare Pro, and a network of over 800 global brand partners, Perfect Corp. is transforming the beauty experience through personalized, immersive, and intelligent innovation.",
+    "url": "https://www.perfectcorp.com/business/news/LIERAC",
+    "pass": 1
+   },
+   {
+    "quote": "LIERAC Press & Communication Manager: alisson.municchi@laboratoire-native.com",
+    "url": "https://www.perfectcorp.com/business/news/LIERAC",
+    "pass": 1
+   },
+   {
+    "quote": "press@perfectcorp.com",
+    "url": "https://www.perfectcorp.com/business/news/LIERAC",
+    "pass": 1
+   },
+   {
+    "quote": "contact_pr@perfectcorp.com",
+    "url": "https://www.perfectcorp.com/business/news/LIERAC",
+    "pass": 1
+   },
+   {
+    "quote": "contact_pr_jpn@perfectcorp.com",
+    "url": "https://www.perfectcorp.com/business/news/LIERAC",
+    "pass": 1
+   },
+   {
+    "quote": "contact_pr_fr@perfectcorp.com",
+    "url": "https://www.perfectcorp.com/business/news/LIERAC",
+    "pass": 1
+   },
+   {
+    "quote": "contact_pr_in@perfectcorp.com",
+    "url": "https://www.perfectcorp.com/business/news/LIERAC",
+    "pass": 1
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://www.perfectcorp.com/business/news/LIERAC",
+    "pass": 1
+   },
+   {
+    "quote": "Using AI deep learning algorithms, the skin analysis tool helps skincare brands drive sales through highly-accurate skin concern detection and personalized product recommendations of brands’ products.",
+    "url": "https://www.perfectcorp.com/business/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "The photo-based solution detects up to 14 types of skin concerns in just 2 seconds, with the video skin analysis tool identifying up to 14 skin issues in real time through live camera mode and visualizing these for the consumer through a highly-advanced AR overlay.",
+    "url": "https://www.perfectcorp.com/business/solutions/enterprise",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Chief Revenue Officer",
+    "url": "https://www.perfectcorp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "As part of its scientific approach to creating skincare products, Clinique has always embraced technology—including the “Clinique Computer” it developed in the 1960s, which asked customers to answer eight questions about their skin by sliding a sleek lever. How the levers lined up instantly revealed their skin type.",
+    "url": "https://www.perfectcorp.com/business/successstory/Clinique-AR-Solutions-Success-Story",
+    "pass": 1
+   },
+   {
+    "quote": "“We go beyond shade matching,” Harris says. “Clinique calls it",
+    "url": "https://www.perfectcorp.com/business/successstory/Clinique-AR-Solutions-Success-Story",
+    "pass": 1
+   },
+   {
+    "quote": "“We have found that customers enjoy and value our VTO experience from whichever channel they choose to enter,” Harris says. “Our in-store iPad displays are great conversation starters, whether working with a Clinique Beauty Consultant, or exploring on their own.”",
+    "url": "https://www.perfectcorp.com/business/successstory/Clinique-AR-Solutions-Success-Story",
+    "pass": 1
+   },
+   {
+    "quote": "“We see that customers are about two and a half times more likely to make a purchase after engaging in our virtual try-on,” Harris says. “We also see that they are buying more product. Basket size is about 30% greater after a customer engages in virtual try-on. This certainly drives return on investment.”",
+    "url": "https://www.perfectcorp.com/business/successstory/Clinique-AR-Solutions-Success-Story",
+    "pass": 1
+   },
+   {
+    "quote": "“We've rolled this out across multiple retail markets and online markets covering all regions, including Europe, Asia/Pacific, Latin America, and North America,” Harris says. “It’s proven to be an excellent way to facilitate and convert sales. The feedback has been very positive. Customers love its accuracy, and they also find the virtual try-on experience to be fun, which is also important.”",
+    "url": "https://www.perfectcorp.com/business/successstory/Clinique-AR-Solutions-Success-Story",
+    "pass": 1
+   },
+   {
+    "quote": "“We’ve seen a dramatic increase in time on site,” Harris says. “Customers stay 4 to 5 times longer after engaging in our VTO.”",
+    "url": "https://www.perfectcorp.com/business/successstory/Clinique-AR-Solutions-Success-Story",
+    "pass": 1
+   },
+   {
+    "quote": "“The virtual try-on experience seems to really trigger their interest,” Harris says. “After going through the VTO experience, they want to learn more. They explore different products, which can bring them back to try virtual try-on for something new.”",
+    "url": "https://www.perfectcorp.com/business/successstory/Clinique-AR-Solutions-Success-Story",
+    "pass": 1
+   },
+   {
+    "quote": "“Customers tend to be very loyal to their foundation,” Harris says. “Using our shade match science, and Perfect Corp. AI-powered shade finder and AR virtual try-on, we can help them find their best foundation match, or lip or makeup products, all of which creates customer loyalty.”",
+    "url": "https://www.perfectcorp.com/business/successstory/Clinique-AR-Solutions-Success-Story",
+    "pass": 1
+   },
+   {
+    "quote": "“You want the experience to be easy to use, easy to understand, easy to fulfill,” Harris says. “Technology can be complex, but the customer experience can't be complex or you'll lose the attention of the customer. Working closely with Perfect Corp., we’ve created a powerful, simple to use, customer experience that brings the most benefit to our consumers while driving results for the bottom line.”",
+    "url": "https://www.perfectcorp.com/business/successstory/Clinique-AR-Solutions-Success-Story",
+    "pass": 1
+   },
+   {
+    "quote": "“We see Perfect Corp. as an important long-term partner,” Harris says. “We are working with Perfect Corp. to develop new features and functionalities, and to develop a shared roadmap.”",
+    "url": "https://www.perfectcorp.com/business/successstory/Clinique-AR-Solutions-Success-Story",
+    "pass": 1
+   },
+   {
+    "quote": "“Perfect Corp. has a strong R&D team,” Harris says. The company provides personalized, white-glove service whether its account management, program management, or technical management. And they have very strong leadership at the top.”",
+    "url": "https://www.perfectcorp.com/business/successstory/Clinique-AR-Solutions-Success-Story",
+    "pass": 1
+   },
+   {
+    "quote": "“No one can ever sit still, whether it's a technology company or a beauty company,” Harris says. “It's all about innovating—looking at how we can leapfrog and bring things to the table that haven’t been brought before.”",
+    "url": "https://www.perfectcorp.com/business/successstory/Clinique-AR-Solutions-Success-Story",
+    "pass": 1
+   },
+   {
+    "quote": "(NYSE: PERF), the leading AI and AR beauty and fashion tech provider, proudly announces its partnership with LIERAC, the French Botanical Cosmeceutical pharmacy brand from the Laboratoire Native group, known for combining botanical expertise with advanced cosmetic science since 1975. Powered by Perfect Corp.’s",
+    "url": "https://www.perfectcorp.com/business/news/LIERAC",
+    "pass": 1
+   },
+   {
+    "quote": "By integrating Perfect Corp.’s AI Skin Analysis API directly into its e-commerce platforms, LIERAC can offer the same AI-powered experience to consumers across multiple European markets. With the API approach, skin analysis becomes part of the consumer’s shopping journey rather than a standalone digital tool.",
+    "url": "https://www.perfectcorp.com/business/news/LIERAC",
+    "pass": 1
+   },
+   {
+    "quote": "AR Virtual Earring Try-On",
+    "url": "https://www.perfectcorp.com/business/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "With high-resolution textures and material reflections, the virtual earring try-on experience delivers options for earring try-on in 13 distinct positions across the ear.",
+    "url": "https://www.perfectcorp.com/business/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "(NYSE: PERF), a global leader in",
+    "url": "https://www.perfectcorp.com/business/news/perfect-corp-fast-company-award-winning-tech-2025",
+    "pass": 1
+   },
+   {
+    "quote": "(NYSE: PERF) is on a mission to make beauty smarter, more personalized, and more fun through Beautiful AI. As a global leader in AI and AR-powered beauty and fashion technology, we help brands and consumers connect through immersive, interactive digital experiences.",
+    "url": "https://www.perfectcorp.com/business/news/perfect-corp-fast-company-award-winning-tech-2025",
+    "pass": 1
+   },
+   {
+    "quote": "(NYSE: PERF), a global leader in AI and AR beauty and fashion tech solutions, has been honored as the ‘",
+    "url": "https://www.perfectcorp.com/business/news/perfect-corp-retailtech-breakthrough-awards",
+    "pass": 1
+   },
+   {
+    "quote": "(NYSE: PERF) is on a mission to make beauty smarter, more personalized, and more fun through Beautiful AI. As a global leader in AI and AR-powered beauty and fashion technology, we help brands and consumers connect through immersive, interactive digital experiences.",
+    "url": "https://www.perfectcorp.com/business/news/perfect-corp-retailtech-breakthrough-awards",
+    "pass": 1
+   },
+   {
+    "quote": "We encourage our employees to be bold, dream big, and embrace change.",
+    "url": "https://www.perfectcorp.com/business/info/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Revenue Officer",
+    "url": "https://www.perfectcorp.com/business?utm_source=GlobalNR&utm_medium=NR&utm_campaign=General&utm_content=AboutPF",
+    "pass": 1
+   },
+   {
+    "quote": "Earring Size Chart: How to Choose the Right Stud and Hoop Size",
+    "url": "https://www.perfectcorp.com/business/blog/1?utm_source=GlobalNR&utm_medium=NR&utm_campaign=General&utm_content=AboutPF",
+    "pass": 1
+   },
+   {
+    "quote": "How to choose the right stud and hoop size: earring size chart in mm and inches for studs, diamond studs, hoops, drops and gauges.",
+    "url": "https://www.perfectcorp.com/business/blog/1?utm_source=GlobalNR&utm_medium=NR&utm_campaign=General&utm_content=AboutPF",
+    "pass": 1
+   },
+   {
+    "quote": "AR Earring Virtual Try-On",
+    "url": "https://www.perfectcorp.com/business/solutions/online-service/makeup/plan",
+    "pass": 1
+   },
+   {
+    "quote": "“We married the Perfect Corp. face scan with all of these other elements, and then wrapped it with our machine learning algorithm on the back end to generate the personalized recommendations,” the Vice President of Global Digital says. “The results are powerful. We are providing even greater personalization and facilitating a great customer journey.”",
+    "url": "https://www.perfectcorp.com/business/successstory/global-skincare-company-AI-technology-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "中国の上場企業、1～9月純利益8.5％増 半導体関連は2.9倍、ハイテク産業がけん引",
+    "url": "https://36kr.jp/248048/",
+    "pass": 3
+   },
+   {
+    "quote": "動画生成AI「Kling AI」、約4800億円を調達 評価額は2.8兆円、香港IPOも視野",
+    "url": "https://36kr.jp/248048/",
+    "pass": 3
+   },
+   {
+    "quote": "20万円台の小型ヒューマノイドで注目、中国「Noetix Robotics」が香港IPOを準備か",
+    "url": "https://36kr.jp/248048/",
+    "pass": 3
+   },
+   {
+    "quote": "中国本土株式市場に上場する5578社の1～9月期決算が出そろった",
+    "url": "https://36kr.jp/248048/",
+    "pass": 3
+   },
+   {
+    "quote": "中国上場企業協会はこのほど、本土上場企業の1～9月の売上高は前年同期比5.9％増の56兆8000億元（約1363兆2000億円）、純利益は8.5％増の5兆 […]",
+    "url": "https://36kr.jp/248048/",
+    "pass": 3
+   },
+   {
+    "quote": "was published in 2014 by McGraw Hill as part of the established",
+    "url": "https://grokipedia.com/page/practice_makes_perfect_complete_japanese_grammar_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "This first edition carries ISBN 978-0071808354 (ISBN-10 0071808353), spans 272 pages, and is issued in paperback format.",
+    "url": "https://grokipedia.com/page/practice_makes_perfect_complete_japanese_grammar_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "It carries the ISBN 1260463214 for the print edition and introduces significant audio enhancements to support language acquisition.",
+    "url": "https://grokipedia.com/page/practice_makes_perfect_complete_japanese_grammar_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "This approach supports beginners and intermediate learners by reducing barriers to comprehension of grammar structures presented in authentic Japanese script.",
+    "url": "https://grokipedia.com/page/practice_makes_perfect_complete_japanese_grammar_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Yup, Tokyo sure will keep you busy, but fortunately, it’s easy to get around with the city’s excellent public transport system. Make sure to grab an IC card when you arrive!",
+    "url": "https://thejapantravelblog.com/best-places-to-visit-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Nara was actually Japan’s first permanent capital city, and to this day, it still carries a lot of cultural significance. It’s home to",
+    "url": "https://thejapantravelblog.com/best-places-to-visit-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "The Sanmachi Suji historic district is a joy to wander, especially in the early morning before the crowds arrive. Don’t miss the morning markets for local snacks and crafts, and later on, be sure to",
+    "url": "https://thejapantravelblog.com/best-places-to-visit-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "day trip to the UNESCO-listed villages",
+    "url": "https://thejapantravelblog.com/best-places-to-visit-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "For even more ideas in this part of Japan, check out",
+    "url": "https://thejapantravelblog.com/best-places-to-visit-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": ": We always recommend full coverage rental insurance—especially in Japan, where tight city parking, narrow village streets, and even wildlife on roads (like deer in Hokkaido) can lead to unexpected dings or damage. Discover Cars makes it easy (and affordable) to add this peace of mind when you book.",
+    "url": "https://thejapantravelblog.com/best-places-to-visit-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "An International Driving Permit (IDP) under the 1949 Geneva Convention. This is a must—it’s the only version Japan recognizes, and you’ll need to get it before arriving.",
+    "url": "https://thejapantravelblog.com/best-places-to-visit-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "We hope this guide helps you plan your dream trip to Japan! With so many incredible destinations to choose from—from the neon streets of Tokyo to the peaceful onsen towns tucked into the mountains— narrowing it down can definitely be a challenge. But we promise, wherever you go, Japan’s mix of culture, nature, and hospitality will make it a trip you’ll never forget.",
+    "url": "https://thejapantravelblog.com/best-places-to-visit-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "or have them delivered to your hotel (how convenient is that?!). Handily, the company offers full English language support. Order at least three days before your arrival.",
+    "url": "https://bridgesandballoons.com/japan-itinerary-10-days/",
+    "pass": 3
+   },
+   {
+    "quote": "One key thing to bear in mind is that the ropeway sometimes closes early. On the day we went, it closed at about 3pm, just as we arrived. They wouldn’t let us on, which meant we missed that part of the trip and had to take a bus up the mountain instead.",
+    "url": "https://bridgesandballoons.com/japan-itinerary-10-days/",
+    "pass": 3
+   },
+   {
+    "quote": "We arrived in Kōya-san in the late afternoon and left at midday so didn’t have a huge amount of time to explore, but we loved soaking in the atmosphere, walking through the cemetery, and seeing some of the temples, including Garan, the town’s central temple complex.",
+    "url": "https://bridgesandballoons.com/japan-itinerary-10-days/",
+    "pass": 3
+   },
+   {
+    "quote": "We knew we would be passing back through Nara on our return from Kōya-san so we left most of our luggage in the train station lockers so we wouldn’t have to carry so much to Kōya-san (we bought a lot of stuff in Japan!).",
+    "url": "https://bridgesandballoons.com/japan-itinerary-10-days/",
+    "pass": 3
+   },
+   {
+    "quote": "Training employees to effectively use new digital tools and systems posed a challenge, as it required significant time and effort to overcome resistance to change.",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "Conducted extensive training sessions and workshops to help employees adapt to new digital tools, demonstrating the benefits and facilitating a smooth transition.",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "Employees accustomed to the old systems were resistant to adopting the new IT solutions, slowing down the implementation process.",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "Fulminous conducted comprehensive training sessions and provided ongoing support to help Gear Tech employees adapt to the new systems, fostering a smoother transition.",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "A: Integrating new technologies with existing legacy systems, ensuring data security and compliance with regulations, and training employees to adapt to new digital workflows.",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "AI-Driven Revenue Boost",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "Discover how AI implementation can 10X your business revenue. Learn the secrets to scalable success!",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "Perfect 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/113640-85",
+    "pass": 3
+   },
+   {
+    "quote": "7. Merger/Acquisition",
+    "url": "https://pitchbook.com/profiles/company/113640-85",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions (2)",
+    "url": "https://pitchbook.com/profiles/company/113640-85",
+    "pass": 3
+   },
+   {
+    "quote": "Perfect’s most recent deal was a Merger/Acquisition with",
+    "url": "https://pitchbook.com/profiles/company/113640-85",
+    "pass": 3
+   },
+   {
+    "quote": "Provident Acquisition",
+    "url": "https://pitchbook.com/profiles/company/113640-85",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Reseller & Referral Partners",
+    "url": "https://www.perfectcorp.com/business/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Grow your brand and transform your business with our AI & AR services",
+    "url": "https://www.perfectcorp.com/business/solutions/online-service/makeup/plan",
+    "pass": 1
+   },
+   {
+    "quote": "Grow your brand and transform your business with our AI & AR services",
+    "url": "https://www.perfectcorp.com/business/solutions/online-service/eye-wear/plan",
+    "pass": 1
+   },
+   {
+    "quote": "Grow your brand and transform your business with our AI & AR services",
+    "url": "https://www.perfectcorp.com/business/solutions/online-service/aesthetic-simulation/plan",
+    "pass": 1
+   },
+   {
+    "quote": "— they’re an official reseller with fast worldwide delivery and English support, making the whole process super simple. They even offer handy add-ons like pocket WIFI and meet & greet services! Still not sure if the JR Pass is right for you? Check out our",
+    "url": "https://thejapantravelblog.com/best-places-to-visit-in-japan/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by over 705 global brands and 1.1 billion YouCam app",
+    "url": "https://www.perfectcorp.com/business/news/perfect-corp-fast-company-award-winning-tech-2025",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by over 705 global brands and 1.1 billion YouCam app",
+    "url": "https://www.perfectcorp.com/business/news/perfect-corp-retailtech-breakthrough-awards",
+    "pass": 1
+   },
+   {
+    "quote": "The company, which for competitive reasons chose not to be named in this case study, prides itself on the decades of scientific research it brings to the development of its skin care formulations. The company creates skin rejuvenation products that produce measurable results.",
+    "url": "https://www.perfectcorp.com/business/successstory/global-skincare-company-AI-technology-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "This data is used by the global skin care company’s skin consultation app to provide customers with a point-by-point diagnosis of their current skin condition, along with recommendations for which of their products best match whichever condition they choose to target.",
+    "url": "https://www.perfectcorp.com/business/successstory/global-skincare-company-AI-technology-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Business Success Stories and Lessons",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies of Successful Manufacturing Businesses Lessons Learned",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "More than 700,000 manufacturing companies are based in the United States only",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "To reach and stay on the list of leading manufacturing businesses, you need to do something unique. If you are tired of guessing your way through the manufacturing world, here we are going to share some real-life stories of manufacturing companies that succeeded in their mission and how they achieved it. Read about the",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "importance of security features in manufacturing website development",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "As the world market for General Manufacturing is projected to reach US$944.6 Billion by 2030, you can harvest a huge profit in the coming days by learning from the success stories",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": ". From innovative startups to industry veterans, we'll uncover the strategies, challenges, and triumphs that shaped their journeys. So, join us as we explore the blueprints for manufacturing success.",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "Need help with case studies of successful manufacturing businesses? Get expert advice.",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "3 Case Studies of Successful Manufacturing Businesses",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study 1: Armstrong Industrial Corporation’s Digital Transformation",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "Challenges Faced by Armstrong Industrial Corporation:",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "The company lacked real-time data and analytics, making it difficult to monitor manufacturing performance and make informed decisions.",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "The story of Armstrong Industrial Corporation is an ideal example of digital transformation in manufacturing case study. To address these challenges, Armstrong Industrial Corporation partnered with Fulminous Software to implement a comprehensive digital transformation solution. The solution included:",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "IoT-Enabled Manufacturing Systems:",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "Deployment of IoT sensors and devices across production lines to monitor equipment performance, track production metrics, and collect real-time data.",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "Introduction of a cloud-based analytics platform to aggregate and analyze data from various sources, providing actionable insights for improving manufacturing processes.",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "To manage the tight schedule, the Fulminous team employed agile project management techniques. They broke down the project into smaller, manageable tasks and prioritized critical milestones. By maintaining close communication with Armstrong Industrial Corporation and holding regular progress reviews, the team was able to stay on track and meet the deadlines.",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "Complexity in Manufacturing Process of Armstrong Industrial Corporation:",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "Armstrong Industrial Corporation's manufacturing processes are intricate and highly specialized. Understanding and integrating with their advanced noise, vibration, heat, and safety management solutions required deep technical expertise and adaptability.",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "The Fulminous team conducted in-depth research to understand Armstrong's unique manufacturing processes. They collaborated closely with Armstrong's in-house experts to gain insights and identify potential integration challenges.",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "initiative led by Fulminous Software resulted in significant improvements for Armstrong Industrial Corporation:",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "Armstrong Industrial Corporation’s successful digital transformation, driven by Fulminous Software, has significantly enhanced its manufacturing processes, product development, and customer service capabilities.",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study 2: Successful IoT Integrated Gear Tech Manufacturing Business",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "Deployment of IoT sensors across production lines to monitor critical metrics such as machine performance, temperature, and vibration in real-time.",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "The integration of IoT solutions by Fulminous Software led to significant improvements in Gear Tech’s manufacturing operations:",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "What is noteworthy is that this surge was not caused by a single piece of major news, but rather 'compounded' by four factors that piled up one after another throughout the day. Arranged chronologically, they are as follows:",
+    "url": "https://note.com/hirokimiyano/n/nee427c03efbe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing PMI: 57.0 (53.9 in August)",
+    "url": "https://note.com/hirokimiyano/n/nee427c03efbe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The composite PMI of 58.4 is the highest level since July 2021. According to the WSJ, business activity across services and manufacturing combined expanded at the fastest pace in over five years, and job growth was also at its fastest pace in over four years. Furthermore, it was reported that upward pressure on input prices paid by companies reached its highest level in about four years.",
+    "url": "https://note.com/hirokimiyano/n/nee427c03efbe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "On September 23, major stock indices saw the S&P 500 down 0.8%, the Nasdaq Composite down 1.1%, and the Dow Jones Industrial Average down 0.7% ($352). For a day when government bond yields, which serve as the benchmark for all interest rates from corporate bonds to mortgages, surged, the decline was not as large as some traders had expected.",
+    "url": "https://note.com/hirokimiyano/n/nee427c03efbe?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "10 holiday marketing ideas for fashion brands and clothing stores: occasion campaigns, Christmas promotion ideas, gift guides, email and on-model imagery.",
+    "url": "https://www.perfectcorp.com/business/blog/1?utm_source=GlobalNR&utm_medium=NR&utm_campaign=General&utm_content=AboutPF",
+    "pass": 1
+   },
+   {
+    "quote": "Document Center and Email Support",
+    "url": "https://www.perfectcorp.com/business/solutions/online-service/makeup/plan",
+    "pass": 1
+   },
+   {
+    "quote": "Document Center and Email Support",
+    "url": "https://www.perfectcorp.com/business/solutions/online-service/eye-wear/plan",
+    "pass": 1
+   },
+   {
+    "quote": "User Guide and Email Support",
+    "url": "https://www.perfectcorp.com/business/solutions/online-service/aesthetic-simulation/plan",
+    "pass": 1
+   },
+   {
+    "quote": "Email: contact@perfect-rough.com",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000127432.html",
+    "pass": 3
+   },
+   {
+    "quote": "Your email address will not be published.",
+    "url": "https://thejapantravelblog.com/best-places-to-visit-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Save my name, email, and website in this browser for the next time I comment.",
+    "url": "https://thejapantravelblog.com/best-places-to-visit-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "info@fulminoussoftware.com",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/113640-85",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/perfect-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "In the email newsletter I publish,",
+    "url": "https://note.com/satoshi_n/n/nbec878248b51?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "English, Japanese, French,",
+    "url": "https://www.perfectcorp.com/business/solutions/online-service/aesthetic-simulation/plan",
+    "pass": 1
+   },
+   {
+    "quote": "中国発プロフェッショナルコスメブランド「PERFECT DIARY」が北千住マルイにグランドオープン！メイクとスキンケアを融合した次世代ビューティー体験を提案 | 株式会社丸井グループのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000004162.000003860.html",
+    "pass": 3
+   },
+   {
+    "quote": "北千住マルイ（株式会社丸井、本社：東京都中野区、代表取締役社長：青野 真博）2Fに、メイクアップブランド「PERFECT DIARY（パーフェクトダイアリー）」がオープンします",
+    "url": "https://prtimes.jp/main/html/rd/p/000004162.000003860.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内では、「@cosme TOKYO」や「@cosme OSAKA」でのポップアップストア展開をはじめ、ブランドアンバサダーの起用や、動物の目や毛並みから着想を得たカラー設計でSNSで話題になった「動物アイシャドウパレット」、素肌のような透明感となめらかな質感を演出する人気フェイスパウダーの「生美肌パウダー」などの人気商品によって認知を拡大",
+    "url": "https://prtimes.jp/main/html/rd/p/000004162.000003860.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都中野区中野4-3-2",
+    "url": "https://prtimes.jp/main/html/rd/p/000004162.000003860.html",
+    "pass": 3
+   },
+   {
+    "quote": "【ダーツ移籍2021】PERFECTの看板選手が次々とJAPANへ移籍 | 武器商人＠ダーツのブログ",
+    "url": "https://bukidarts.com/perfect-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "【ダーツ移籍2021】PERFECTの看板選手が次々とJAPANへ移籍",
+    "url": "https://bukidarts.com/perfect-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "当画像はJAPANのFBページより引用いたしました",
+    "url": "https://bukidarts.com/perfect-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "PERFECTからJAPANへ移籍した選手が多く、SNSでも話題になったのでちょっとだけまとめようと思います",
+    "url": "https://bukidarts.com/perfect-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "PEREFCTからJAPANへの移籍に試験は必要？",
+    "url": "https://bukidarts.com/perfect-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "PERFECTからJAPANに団体移籍した選手",
+    "url": "https://bukidarts.com/perfect-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "基本的な知識をおさらいすると、日本にはソフトダーツプロ団体は2つあります",
+    "url": "https://bukidarts.com/perfect-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "1つめがPERFECTで2つめがJAPANです",
+    "url": "https://bukidarts.com/perfect-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "SOFT DARTS PROFESSIONAL TOUR JAPAN OFFICIAL WEBSITE",
+    "url": "https://bukidarts.com/perfect-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、ここ数週間で、PERFECTからJAPANへ移籍する選手が続出しました",
+    "url": "https://bukidarts.com/perfect-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "通例、PERFECTは1月～12月にかけて開催され、JAPANは4月～翌3月にかけて開催されますが、コロナ禍の影響で開催時期が後ろにズレ込みました",
+    "url": "https://bukidarts.com/perfect-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "JAPANは今年度はじめの段階から開催スケジュールを後ろにズラしており、10月～翌2月に開催する日程にしておりました",
+    "url": "https://bukidarts.com/perfect-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "見ればすぐにわかると思いますが、PERFECT2022開催は2022年2月以降(未定)ですので、JAPANに出場したほうが確実じゃね？？？という風に考える人が続出したというわけです",
+    "url": "https://bukidarts.com/perfect-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "このタイミングでPERFECTからJAPANに移籍し、次のPERFECTツアー開催までに再度移籍したとすれば、団体移籍が実質的にノーリスクで可能となってしまったのです",
+    "url": "https://bukidarts.com/perfect-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "ちょっと気になるのは、PERFECTの開幕戦が2022年2月だとすると、JAPANとちょっと重複してしまうところです",
+    "url": "https://bukidarts.com/perfect-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "JAPANには入替戦という仕組みがあり、上位入賞者は次ステージのシード扱いになりますので、上位にPERFEC組が多数いると面倒なことになりそうなところです",
+    "url": "https://bukidarts.com/perfect-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "PERFECTもJAPANもライセンス取得時には試験があります",
+    "url": "https://bukidarts.com/perfect-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "一般的には、PERFECTよりもJAPANのほうが試験が難しいと言われています",
+    "url": "https://bukidarts.com/perfect-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "もちろん、PERFECTのトップ選手ですからいくらJAPANに試験とは言え、試験に受からないはずはありません",
+    "url": "https://bukidarts.com/perfect-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、JAPANのプロ試験(実技)は、一般の店舗で受験します",
+    "url": "https://bukidarts.com/perfect-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "調べてみたところ、JAPANの試験は他団体からの移籍の場合は、実技試験が免除みたいですね",
+    "url": "https://bukidarts.com/perfect-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "プロ登録／更新｜SOFT DARTS PROFESSIONAL TOUR JAPAN OFFICIAL WEBSITE",
+    "url": "https://bukidarts.com/perfect-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "この度PERFECTからJAPANに移籍した選手は多数おりますので一部のみご紹介します",
+    "url": "https://bukidarts.com/perfect-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "ダーツの場合メディアを通じて発表するという慣習がないため、SNSの情報しかありませんが、JAPANの選手名鑑を見ればわかります",
+    "url": "https://bukidarts.com/perfect-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "開催するかしないかいつ開催されるかわからないPERFECTのツアーに併せるよりは、実際に開催されるJAPANに移籍するっていうのは、当たり前の結果と言ってよいでしょう",
+    "url": "https://bukidarts.com/perfect-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "中国コスメ、日本市場で存在感増す 特にZ世代に刺さる - 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア",
+    "url": "https://36kr.jp/248048/",
+    "pass": 3
+   },
+   {
+    "quote": "中国コスメ、日本市場で存在感増す 特にZ世代に刺さる",
+    "url": "https://36kr.jp/248048/",
+    "pass": 3
+   },
+   {
+    "quote": "中国企業が産業チェーンの上流で発展を続ける中、化粧品業界では「完美日記（Perfect Diary）」に代表される中国のコスメブランドが日本市場で存在感を増している",
+    "url": "https://36kr.jp/248048/",
+    "pass": 3
+   },
+   {
+    "quote": "Perfect Diaryは2022年7月、日本の実店舗コスメセレクトショップに上陸",
+    "url": "https://36kr.jp/248048/",
+    "pass": 3
+   },
+   {
+    "quote": "日本のコスメセレクトショップ、ロフトが次のトレンドとして注目する「ネクストコスメ2022」のランキングでは、Perfect Diaryの動物アイシャドーパレットが中国製品で唯一ランクインし、第5位となった",
+    "url": "https://36kr.jp/248048/",
+    "pass": 3
+   },
+   {
+    "quote": "同社の海外市場事業の関係責任者は、「本社は日本で中国ブランドの美意識を強調し、限りない美しさを主張することで、若い世代が美的センスに自信を持つよう促している」と説明",
+    "url": "https://36kr.jp/248048/",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場における同社の成長は、そのコンセプトの成功を裏付けている",
+    "url": "https://36kr.jp/248048/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の「Z世代」（1995～2009年生まれ）を対象とする調査組織「Z総研」が発表した「Z世代が選ぶ2022年下半期トレンドランキング」のコスメ部門で、Perfect Diaryの動物アイシャドーパレットがアイシャドー製品として唯一ランクインし、第8位となった",
+    "url": "https://36kr.jp/248048/",
+    "pass": 3
+   },
+   {
+    "quote": "Perfect Diaryは日本以外に、東南アジアの市場開拓も続けている",
+    "url": "https://36kr.jp/248048/",
+    "pass": 3
+   },
+   {
+    "quote": "今後同社は、日本を含む各国の文化や人々の好みを深く洞察し学び、現地の消費者により適した商品開発を行い、中国コスメブランドの海外展開の新たな可能性をさらに探っていくとしている",
+    "url": "https://36kr.jp/248048/",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業のDXを促進するプラットフォーム「CONNECTO」",
+    "url": "https://36kr.jp/248048/",
+    "pass": 3
+   },
+   {
+    "quote": "中国貴州省山間地域の養殖キャビア、日本市場に進出",
+    "url": "https://36kr.jp/248048/",
+    "pass": 3
+   },
+   {
+    "quote": "中国貴州省黔南（けんなん）プイ族ミャオ族自治州恵水県にある布塔尼食品が、キャビアの日本向け輸出を本格化させている",
+    "url": "https://36kr.jp/248048/",
+    "pass": 3
+   },
+   {
+    "quote": "同社の張翠蘭董事長は、今年すでに計500キロのキャビアを日本に輸出しており、年末には1トンを突破し、生産額 […]",
+    "url": "https://36kr.jp/248048/",
+    "pass": 3
+   },
+   {
+    "quote": "世界標準のダイヤモンド認証システムを日本へ～SARINE社とのオフィシャルパートナーシップが実現する新たな信頼～ | 株式会社PERFECTのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000127432.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界標準のダイヤモンド認証システムを日本へ～SARINE社とのオフィシャルパートナーシップ�が実現する新たな信頼～",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000127432.html",
+    "pass": 3
+   },
+   {
+    "quote": "（本社：東京都港区、代表取締役：平本香奈、以下「当社」）は、ダイヤモンド技術の世界的リーダーであるSARINE Technologies Ltd.（本社：イスラエル、以下「SARINE社」）の日本における公式パートナーとして締結致しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000127432.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在、日本の天然ダイヤモンド市場は大きな転換期を迎えています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000127432.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社パーフェクトは、創業以来一貫して「天然ダイヤモンドの真の価値を日本市場に届ける」という理念のもと、市場の形成と発展に寄与してまいりました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000127432.html",
+    "pass": 3
+   },
+   {
+    "quote": "このたび、株式会社パーフェクトは、ダイヤモンド技術の世界的リーダーであるSARINE Technologies Ltd.の日本における公式パートナーとして認定されました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000127432.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社パーフェクトは、SARINE社との強固なパートナーシップのもと、日本の宝飾業界に新たな風を吹き込みます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000127432.html",
+    "pass": 3
+   },
+   {
+    "quote": "天然ダイヤモンドが持つ永遠の価値と、最新のデジタル技術が融合することで生まれる新たな顧客体験により、日本の宝飾市場の更なる発展に貢献することをお約束いたします",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000127432.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都港区虎ノ門神谷町トラストタワー２３階",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000127432.html",
+    "pass": 3
+   },
+   {
+    "quote": "Practice Makes Perfect Complete Japanese Grammar (book) — Grokipedia",
+    "url": "https://grokipedia.com/page/practice_makes_perfect_complete_japanese_grammar_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Practice Makes Perfect: Complete Japanese Grammar",
+    "url": "https://grokipedia.com/page/practice_makes_perfect_complete_japanese_grammar_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "is a comprehensive self-study workbook designed to build mastery of Japanese grammar through clear explanations, practical examples, and extensive exercises, authored by Eriko Sato and published by McGraw Hill.",
+    "url": "https://grokipedia.com/page/practice_makes_perfect_complete_japanese_grammar_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "It provides 200 exercises organized into 15 units that cover all major aspects of Japanese grammar, with explanations that incorporate helpful comparisons to English grammar structures.",
+    "url": "https://grokipedia.com/page/practice_makes_perfect_complete_japanese_grammar_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Example sentences are presented in Japanese script (hiragana, katakana, and kanji) alongside romanization to support pronunciation and reading practice.",
+    "url": "https://grokipedia.com/page/practice_makes_perfect_complete_japanese_grammar_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Eriko Sato, the author, brings extensive experience as an educator and curriculum developer in Japanese language instruction.",
+    "url": "https://grokipedia.com/page/practice_makes_perfect_complete_japanese_grammar_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "First published in 2014 with a Premium Second Edition released in 2021, it functions as a hands-on resource designed to build proficiency in reading, writing, and speaking Japanese through structured grammar practice.",
+    "url": "https://grokipedia.com/page/practice_makes_perfect_complete_japanese_grammar_(book)",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "中国発プロフェッショナルコスメブランド「PERFECT DIARY」が北千住マ... — Jul 31, 2026 · 株式会社丸井グループのプレスリリース（2026年7月31日 15時30分）中国発プロフェッショナルコスメブランド「PERFECT DIARY」が北千住マルイに ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000004162.000003860.html",
+    "pass": 3
+   },
+   {
+    "quote": "【ダーツ移籍2021】PERFECTの看板選手が次々とJAPANへ移籍 — Oct 17, 2021 · コロナ禍の影響で開催がままならないプロツアー。PERFECTからJAPANへ移籍した選手が多く、SNSでも話題になったのでちょっとだけまとめようと思います。日本のソフトダーツプロ団体について基本的な知識をおさらいすると、日本にはソフトダーツ...",
+    "url": "https://bukidarts.com/perfect-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "中国コスメ、日本市場で存在感増す 特にZ世代に刺さる - 36Kr Japan |... — Aug 29, 2023 · 中国企業が産業チェーンの上流で発展を続ける中、化粧品業界では「完美日記（Perfect Diary）」に代表される中国のコスメブランドが日本市場で存在感を増している。 Perfect Diaryは2022年7月、日本の実店舗コスメセレクトショップに上陸。",
+    "url": "https://36kr.jp/248048/",
+    "pass": 3
+   },
+   {
+    "quote": "世界標準のダイヤモンド認証システムを日本へ～SARINE社とのオフィシ... — Sep 15, 2025 · 株式会社PERFECTのプレスリリース（2025年9月15日 09時10分）世界標準のダイヤモンド認証システムを日本へ～SARINE社とのオフィシャル ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000127432.html",
+    "pass": 3
+   },
+   {
+    "quote": "Practice Makes Perfect Complete Japanese Grammar (book) — Practice Makes Perfect: Complete Japanese Grammar is a comprehensive self-study workbook designed to build mastery of Japanese grammar through clear explanations, practical examples, and extensive exercises, authored by Eriko Sato and published by M…",
+    "url": "https://grokipedia.com/page/practice_makes_perfect_complete_japanese_grammar_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Itinerary: Best Routes for 5, 7, 10 & 14 Days (2026) — Plan your perfect Japan itinerary. Discover the best routes for 5, 7, 10, and 14 days, including Tokyo, Kyoto, and Osaka travel plans.",
+    "url": "https://planjapansmart.com/japan-itinerary/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan itinerary: How to get the best out of Japan in 10 days — Looking for the perfect way to spend 10 days in Japan? We spent sooo long crafting our 10-day Japan itinerary, sifting through all the best things to do and how to make the most of it all. A trip like this is an investment, so you want to get it right!",
+    "url": "https://bridgesandballoons.com/japan-itinerary-10-days/",
+    "pass": 3
+   },
+   {
+    "quote": "LIVE JAPAN Perfect Guide -official Site — Japan's famous sightseeing locations and activities for tourists from abroad! Introducing a wide range of information, from the greater Japan area's most talked about shops, sightseeing spots and events to the souvenirs you can find there.",
+    "url": "https://livejapan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Business Success Stories and LessonsRoot Cause Analysis Examples: 5 Manufacturing Case Studies ...10 Manufacturing Case Studies [Detailed Review] [2026]Manufacturing Case Studies: Top 5 Inspiring SuccessesIndustrial Manufacturing Case Studies - OracleCase Study: Lockheed Martin’s Flight to Perfect QualityIndustrial Manufacturing - Case Studies | Infosys — Oct 9, 2026 · Explore real-w",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "Perfect 2026 Company Profile: Valuation, Investors ...Perfect Revenue, Funding & ValuationPerfect: Funding, Team & Investors | Startup IntrosPerfect Snacks – Growth Analysis & Alternative Companies – 2026Perfect Day 2026 Company Profile: Valuation, Funding ...Perfect – Funding, Valuation, Investors, NewsPerfect Corporation (via Public) / Annual Report for Fiscal ... — Information on acquisition, f",
+    "url": "https://pitchbook.com/profiles/company/113640-85",
+    "pass": 3
+   },
+   {
+    "quote": "Perfect Revenue, Funding & ValuationPerfect: Funding, Team & Investors | Startup IntrosPerfect Snacks – Growth Analysis & Alternative Companies – 2026Perfect Day 2026 Company Profile: Valuation, Funding ...Perfect – Funding, Valuation, Investors, NewsPerfect Corporation (via Public) / Annual Report for Fiscal ... — Perfect has revenue of $56,900,000, estimated valuation of $182,000,000, $105,000,0",
+    "url": "https://prospeo.io/c/perfect-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Perfect: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Perfect Corp was founded in 2015 as a specialized technology company focused on the intersection of AI and beauty/fashion retail. [1] The company's trajectory reflects the broader shift toward digital transformation in traditionally offline-heavy industries.",
+    "url": "https://startupintros.com/orgs/perfect",
+    "pass": 3
+   },
+   {
+    "quote": "Perfect Snacks – Growth Analysis & Alternative Companies – 2026 — Perfect Snacks reports estimated revenue of $50.8M, team of around 100+ employees, located in San Diego, as part of its current growth phase.",
+    "url": "https://compworth.com/company/perfect-snacks",
+    "pass": 3
+   },
+   {
+    "quote": "Perfect Day 2026 Company Profile: Valuation, Funding ...Perfect – Funding, Valuation, Investors, NewsPerfect Corporation (via Public) / Annual Report for Fiscal ... — Information on valuation, funding, cap tables, investors, and executives for Perfect Day. Use the PitchBook Platform to explore the full profile. Essential stats, news, real-time insights on Perfect. Connect with decision makers, fou",
+    "url": "https://pitchbook.com/profiles/company/86810-50",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "The 'Perfect Storm' Raging in U.S. Treasuries: What the 10 ... Sep 24, 2026 · This is precisely why it is called a 'perfect storm.' 2. Why is the 10-year U.S. Treasury yield so important in the first place? Let's pause here for a moment to confirm why the figure of the 10-year U.S. Treasury yield attracts the attention of investors around the world.",
+    "url": "https://note.com/hirokimiyano/n/nee427c03efbe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Why does the belief that 'I must be perfect' arise?｜西村敏の哲学... Aug 19, 2025 · Thinking about it that way, being perfect might be an ideal that is the opposite of being human. And, the more you aim for perfection, the harsher your self-evaluation becomes, and you suffer from the gap, cornering yourself.",
+    "url": "https://note.com/satoshi_n/n/nbec878248b51?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Cup of China 2026 Men's] Kao Miura scores 293! A perfect ... 1 day ago · 1. Kao Miura | A perfect victory with two consistent performances 2. Vladislav Dikidzhi | A comeback silver with high difficulty and consistency 3. Evgeni Semenenko | Bronze medal through tenacity and all-around ability 4. Shun Sato | High quality, but loss of base value takes its toll 5. Mikhail Shaidorov | The intensity fe",
+    "url": "https://note.com/paul_figure432/n/nd02f3ffd3240?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Term Perfectionism | Organizing a Common Term for the ... You may have come across the term \"perfectionism\" in books or online. In this article, we will organize the general meaning of this term and points to keep in mind when using it. What is perfectionism?Perfectionism is a common term that generally describes a tendency to feel that one \"must be p",
+    "url": "https://note.com/moriyama_counsel/n/nf918182d2af2?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "The 'Perfect Storm' Raging in U.S. Treasuries: What the 10-Year Yield at 5.1%, a High Not Seen Since 2007, Means for the World｜宮野宏樹",
+    "url": "https://note.com/hirokimiyano/n/nee427c03efbe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The 'Perfect Storm' Raging in U.S. Treasuries: What the 10-Year Yield at 5.1%, a High Not Seen Since 2007, Means for the World",
+    "url": "https://note.com/hirokimiyano/n/nee427c03efbe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "On September 23, 2026, the U.S. bond market faced its 'worst day.' The yield on the 10-year U.S. Treasury note jumped by approximately 14 basis points (0.14 percentage points) in a single day, reaching 5.113% at the close. This is the highest level in 19 years, dating back to 2007. The magnitude of the single-day rise was the largest since April 2025, when President Trump's 'Liberation Day' tariff",
+    "url": "https://note.com/hirokimiyano/n/nee427c03efbe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "There was not just one trigger. A business sentiment survey released in the morning, which usually goes unnoticed. The Iranian President's hardline remarks at the UN General Assembly and rising crude oil prices. Hawkish comments from a Federal Reserve official. And a weak 5-year Treasury note auction in the afternoon. Bad news piled up one after another from morning to evening, leading to a scenar",
+    "url": "https://note.com/hirokimiyano/n/nee427c03efbe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In this article, we will unravel what happened on this day in chronological order and decode the structural problems behind it: the three heavy realities that 'the economy is too strong,' 'inflation is not coming down,' and 'the pool of buyers for government bonds is thinning.' We will also consider how the rise in U.S. long-term interest rates affects Japanese households, companies, and investors",
+    "url": "https://note.com/hirokimiyano/n/nee427c03efbe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1. What happened: September 23, the 'worst day' for the U.S. Treasury market",
+    "url": "https://note.com/hirokimiyano/n/nee427c03efbe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "First, let's organize the facts.",
+    "url": "https://note.com/hirokimiyano/n/nee427c03efbe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For the past few weeks, there has been persistent selling in the U.S. Treasury market, but the movement was relatively 'orderly.' Although yields were gradually rising, there was no panic-driven collapse. However, on Wednesday, September 23, that equilibrium suddenly broke.",
+    "url": "https://note.com/hirokimiyano/n/nee427c03efbe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Why does the belief that 'I must be perfect' arise?｜西村敏の哲学note",
+    "url": "https://note.com/satoshi_n/n/nbec878248b51?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Why does the belief that 'I must be perfect' arise?",
+    "url": "https://note.com/satoshi_n/n/nbec878248b51?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Hello, this is Nishimura.",
+    "url": "https://note.com/satoshi_n/n/nbec878248b51?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The theme for this time is,",
+    "url": "https://note.com/satoshi_n/n/nbec878248b51?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "'Where on earth does the belief that \"I must be perfect\" come from?'",
+    "url": "https://note.com/satoshi_n/n/nbec878248b51?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "'I should have been able to speak a little better in that meeting.'",
+    "url": "https://note.com/satoshi_n/n/nbec878248b51?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "'My reply might have been a bit late... was that bad?'",
+    "url": "https://note.com/satoshi_n/n/nbec878248b51?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "'Why did I say it like that?'",
+    "url": "https://note.com/satoshi_n/n/nbec878248b51?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Cup of China 2026 Men's] Kao Miura scores 293! A perfect victory with consistent SP and FS, and expectations for the Final. Shun Sato finishes 4th with 277, missing the podium despite solid SP and FS performances [Figure Skating]｜ぽ～る|フィギュアスケート",
+    "url": "https://note.com/paul_figure432/n/nd02f3ffd3240?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Cup of China 2026 Men's] Kao Miura scores 293! A perfect victory with consistent SP and FS, and expectations for the Final. Shun Sato finishes 4th with 277, missing the podium despite solid SP and FS performances [Figure Skating]",
+    "url": "https://note.com/paul_figure432/n/nd02f3ffd3240?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Long time no see, it's Paul.",
+    "url": "https://note.com/paul_figure432/n/nd02f3ffd3240?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Personally, I felt that this year's Cup of China men's event had the highest level of competition in the first half of the Grand Prix series.",
+    "url": "https://note.com/paul_figure432/n/nd02f3ffd3240?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Vladislav Dikidzhi and Evgeni Semenenko, whom I introduced in a previous video. The strength of these two AIN skaters was truly the real deal. Amidst that, Kao Miura placed 1st in both the short program (SP) and free skating (FS), achieving a perfect victory with a total score of 293.25.",
+    "url": "https://note.com/paul_figure432/n/nd02f3ffd3240?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Shun Sato finished 4th with 277.20 points. I think the severity of this competition was reflected in the fact that even with such a high score and content, he couldn't reach the podium.",
+    "url": "https://note.com/paul_figure432/n/nd02f3ffd3240?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This time, focusing on the top 6 skaters, I will look back at the characteristics of the scoring and what I felt while watching their performances. I will also touch upon the two Chinese skaters who left a big impact from the start.",
+    "url": "https://note.com/paul_figure432/n/nd02f3ffd3240?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Overall characteristics of the competition",
+    "url": "https://note.com/paul_figure432/n/nd02f3ffd3240?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Term Perfectionism | Organizing a Common Term for the Tendency to Feel That One Must Be Perfect｜四街道森山カウンセリング",
+    "url": "https://note.com/moriyama_counsel/n/nf918182d2af2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Term Perfectionism | Organizing a Common Term for the Tendency to Feel That One Must Be Perfect",
+    "url": "https://note.com/moriyama_counsel/n/nf918182d2af2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "You may have come across the term \"perfectionism\" in books or online. In this article, we will organize the general meaning of this term and points to keep in mind when using it.",
+    "url": "https://note.com/moriyama_counsel/n/nf918182d2af2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "■ What is perfectionism?",
+    "url": "https://note.com/moriyama_counsel/n/nf918182d2af2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Perfectionism is a common term that generally describes a tendency to feel that one \"must be perfect\" or that \"there must be no mistakes.\" While it is used in psychology and self-help contexts, it is not a diagnostic label. It is also not a term that determines whether a personality is good or bad.",
+    "url": "https://note.com/moriyama_counsel/n/nf918182d2af2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "■ Examples that are easy to imagine in daily life",
+    "url": "https://note.com/moriyama_counsel/n/nf918182d2af2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・When finishing work or assignments: \"It's still not enough,\" \"I'm afraid of making mistakes.\"",
+    "url": "https://note.com/moriyama_counsel/n/nf918182d2af2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・Before a submission or presentation: \"I can't submit it unless it's perfect.\"",
+    "url": "https://note.com/moriyama_counsel/n/nf918182d2af2?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Perfect. (@theperfectmag) / X Perfect presents a super limited edition Lily Allen mini-zine. In anticipation of her first record in seven years, this is a unique study of contemporary fame, fortune and misfortune.",
+    "url": "https://x.com/theperfectmag",
+    "pass": 3
+   },
+   {
+    "quote": "#perfect - Search / X See posts about #perfect on X. See what people are saying and join the conversation.",
+    "url": "https://x.com/hashtag/perfect",
+    "pass": 3
+   },
+   {
+    "quote": "パーフェクトピギー (@perfect_piggy_) / X パーフェクトピギー @perfect_piggy_ Show translation 大好きな人の前ではいつも完璧に可愛くいたいピギーちゃん🐷と彼氏のベアーくん🐻の日常🩷🩵 ️ info@perfectpiggy.com Social Media Influencer",
+    "url": "https://x.com/perfect_piggy_",
+    "pass": 3
+   },
+   {
+    "quote": "Dude Perfect (@DudePerfect) / X 10 161 15K Dude Perfect @DudePerfect Oct 14 They made the most difficult water bottle flips 😳",
+    "url": "https://x.com/DudePerfect",
+    "pass": 3
+   },
+   {
+    "quote": "PERFECT公式 on X: \"\\【パーフェクト賞達成者】 予想キャンペーン ／ ... PERFECT公式 on X: \"\\【パーフェクト賞達成者】 予想キャンペーン🎉／ たくさんの方にご参加いただきありがとうございました 第16戦 群馬大会で「パーフェクト賞」が出た回数は・・・‼️ 【 1回 】でした キャンペーン投稿に ⛅⇦この絵文字でコメントされ ...",
+    "url": "https://x.com/prodarts/status/2114915000410386896",
+    "pass": 3
+   },
+   {
+    "quote": "Elon Musk on X: \"Try Grok @Bot! You will love it. We land a ... Try Grok @Bot! You will love it. We land a few dozen fixes, features and sometimes powers to Bot 7 days a week and we look at your feedback to make Bot as perfect as possible.",
+    "url": "https://x.com/elonmusk/status/2117033967782113327",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Perfect Corp. - LinkedIn Perfect Corp. | 24,372 followers on LinkedIn. Leader in AI & AR-powered Beauty & Fashion Tech, Expert in Transforming Consumer Experiences | Perfect Corp. is a global leader in AI and AR ...",
+    "url": "https://www.linkedin.com/company/perfect-corp",
+    "pass": 3
+   },
+   {
+    "quote": "Wayne Liu - Perfect Corp. | LinkedInRobyne Parmanand - Business Owner @ Perfect IT Consultancy ...Technical Writer (No AI Writing, Human Content Only)Warehouse Manager at Perfect Solutions For Distribution ...Junior DevOps Engineer tại TransPerfect — Hanoi | Việc làm ...Elo Owhe, MD - AMC candidate || Founder Period perfect.ng ... In the exhilarating journey from a startup garage to the vibrant tr",
+    "url": "https://www.linkedin.com/in/wayneliu88",
+    "pass": 3
+   },
+   {
+    "quote": "Robyne Parmanand - Business Owner @ Perfect IT Consultancy ... Business Owner @ Perfect IT Consultancy | Network Administration Specialist. Construction welding · As the business owner of Perfect IT Consultancy, I have been providing IT management, network installation, and security camera installation services to various clients for over 10 years. I have extensive knowledge and experience in Acti",
+    "url": "https://sr.linkedin.com/in/robyne-parmanand-778b1180",
+    "pass": 3
+   },
+   {
+    "quote": "Warehouse Manager at Perfect Solutions For Distribution ... Apply for Warehouse Manager at Perfect Solutions For Distribution in Kamloops, British Columbia, Canada. Full-time Mid-Senior level role. See responsibilities, qualifications, and similar jobs on LinkedIn.",
+    "url": "https://ca.linkedin.com/jobs/view/warehouse-manager-at-perfect-solutions-for-distribution-4429000164",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Perfect - FacebookPerfect official video out now on youtube | Ed Sheeran - FacebookFacebook - log in or sign upPerfect Bar - FacebookPerfect from my TikTok live show is up on YouTube x https ...Paris Perfect Vacation Rentals - FacebookDude Perfect - Facebook Oct 24, 2026 · Zapraszam na moją stronę www.perfect.art.pl (Adam Galas ponad dwadzieścia lat temu poprosił mnie w Sopocie żeby była oficjalną",
+    "url": "https://www.facebook.com/Perfect/",
+    "pass": 3
+   },
+   {
+    "quote": "Perfect official video out now on youtube | Ed Sheeran - Facebook Nov 9, 2017 · Watching Ed Sheeran’s new music video for perfect whilst you're single is the single most depressing thing i've done today! If you don’t cry while watching this you are officially a robot! 😢 ️",
+    "url": "https://www.facebook.com/EdSheeranMusic/videos/perfect-official-video-out-now-on-youtube-httpsadgtperfectvid/10155855924639486/",
+    "pass": 3
+   },
+   {
+    "quote": "Perfect Bar - FacebookPerfect from my TikTok live show is up on YouTube x https ...Paris Perfect Vacation Rentals - FacebookDude Perfect - Facebook 5 days ago · Perfect Bar. 77,970 followers · 121 talking about this. The Original Refrigerated Protein Bar. Organic, Non-GMO, 20+ Superfoods. Perfect on the go for up to one week at room temp! Perfect from my TikTok live show is up on YouTube x https:/",
+    "url": "https://www.facebook.com/perfectbar.co/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.perfectcorp.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.perfectcorp.com/business/partners",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.perfectcorp.com/business/successstory/Clinique-AR-Solutions-Success-Story",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.perfectcorp.com/business/news/LIERAC",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.perfectcorp.com/business/solutions/enterprise",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.perfectcorp.com/business/solutions/online-service/makeup",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.perfectcorp.com/business/solutions/online-service/eye-wear",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.perfectcorp.com/business/solutions/online-service/skincare-pro",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.perfectcorp.com/business/solutions/online-service/aesthetic-simulation",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.perfectcorp.com/business/successstory/list",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.perfectcorp.com/business/news/perfect-corp-fast-company-award-winning-tech-2025",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.perfectcorp.com/business/news/perfect-corp-retailtech-breakthrough-awards",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.perfectcorp.com/business/info/aboutus",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.perfectcorp.com/business?utm_source=GlobalNR&utm_medium=NR&utm_campaign=General&utm_content=AboutPF",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.perfectcorp.com/business/blog/1?utm_source=GlobalNR&utm_medium=NR&utm_campaign=General&utm_content=AboutPF",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.perfectcorp.com/business/solutions/online-service/makeup/plan",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.perfectcorp.com/business/solutions/online-service/eye-wear/plan",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.perfectcorp.com/business/user/free-trial?functionType=SKINCARE_PRO&solutionType=AESTHETIC_SIMULATION",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.perfectcorp.com/business/solutions/online-service/aesthetic-simulation/plan",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.perfectcorp.com/business/successstory/global-skincare-company-AI-technology-case-study",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn-apac.onetrust.com/logos/67d1e565-24e4-4a64-878c-7cfb04da2033/019d19f5-78e8-737b-8f51-b5bedaf3dc91/731bb3cf-7271-40b0-b435-eeccd8dd6e02/PERFECT_logo.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn-apac.onetrust.com/logos/static/powered_by_logo.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://plugins-media.makeupar.com/smb/news/2026-10-15/9c07ed91-7f0e-4e3f-b1a1-9b9304db595e.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://plugins-media.makeupar.com/pfweb/blog/logos/perfect.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000004162.000003860.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bukidarts.com/perfect-to-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://36kr.jp/248048/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000127432.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taimen-eigyo.com/words/so-dairiten/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://grokipedia.com/page/practice_makes_perfect_complete_japanese_grammar_(book)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://planjapansmart.com/japan-itinerary/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thejapantravelblog.com/best-places-to-visit-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bridgesandballoons.com/japan-itinerary-10-days/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://red27creative.com/manufacturing-case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/113640-85",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prospeo.io/c/perfect-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/perfect",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/perfect-snacks",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hirokimiyano/n/nee427c03efbe?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/satoshi_n/n/nbec878248b51?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/paul_figure432/n/nd02f3ffd3240?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/moriyama_counsel/n/nf918182d2af2?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/theperfectmag",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/perfect",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/perfect_piggy_",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/DudePerfect",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/perfect-corp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/wayneliu88",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://sr.linkedin.com/in/robyne-parmanand-778b1180",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/jobs/view/warehouse-manager-at-perfect-solutions-for-distribution-4429000164",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Perfect/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/EdSheeranMusic/videos/perfect-official-video-out-now-on-youtube-httpsadgtperfectvid/10155855924639486/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/perfectbar.co/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/prodarts/status/2114915000410386896",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/elonmusk/status/2117033967782113327",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Perfect 日本 導入",
+   "results": [
+    "https://prtimes.jp/main/html/rd/p/000004162.000003860.html",
+    "https://bukidarts.com/perfect-to-japan/",
+    "https://36kr.jp/248048/",
+    "https://prtimes.jp/main/html/rd/p/000000002.000127432.html",
+    "https://www.perfectcorp.com/ja/business",
+    "https://www.perfectcorp.com/ja/business/successstory/list",
+    "https://fashiontechnews.zozo.com/articles/perfect"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Perfect 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://taimen-eigyo.com/words/so-dairiten/",
+    "https://office-tree.jp/blog/legal-documents/sales-agency-agreement-writing/",
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://perfectcompanion.co.jp/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Perfect Japan",
+   "results": [
+    "https://grokipedia.com/page/practice_makes_perfect_complete_japanese_grammar_(book)",
+    "https://planjapansmart.com/japan-itinerary/",
+    "https://thejapantravelblog.com/best-places-to-visit-in-japan/",
+    "https://bridgesandballoons.com/japan-itinerary-10-days/",
+    "https://livejapan.com/",
+    "https://www.japanhighlights.com/japan/best-time-to-visit",
+    "https://www.nomadicmatt.com/travel-blogs/seven-day-japan-itinerary/",
+    "https://www.theinvisibletourist.com/2-weeks-in-japan-itinerary-first-time/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Perfect manufacturing customer case study",
+   "results": [
+    "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://red27creative.com/manufacturing-case-studies",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.ibaset.com/lockheed-martin-case-study/",
+    "https://www.infosys.com/industries/industrial-manufacturing/case-studies.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Perfect white label OR reseller OR partner program",
+   "results": [
+    "https://www.mycompanyworks.com/reseller",
+    "https://partner.vw.com/",
+    "https://www.seoreseller.com/",
+    "https://learn.g2.com/what-is-a-partner-program",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.resellercluster.com/",
+    "https://skyswitch.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Perfect founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/113640-85",
+    "https://prospeo.io/c/perfect-revenue",
+    "https://startupintros.com/orgs/perfect",
+    "https://compworth.com/company/perfect-snacks",
+    "https://pitchbook.com/profiles/company/86810-50",
+    "https://parsers.vc/startup/perfectcorp.com/",
+    "https://www.publicnow.com/view/AD9CEA93925B8995EC4BD01AA35172640BE3A863"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Perfect",
+   "results": [
+    "https://note.com/hirokimiyano/n/nee427c03efbe?hl=en",
+    "https://note.com/satoshi_n/n/nbec878248b51?hl=en",
+    "https://note.com/paul_figure432/n/nd02f3ffd3240?hl=en",
+    "https://note.com/moriyama_counsel/n/nf918182d2af2?hl=en",
+    "https://note.com/anavite/n/n334b132a9512?hl=en",
+    "https://note.com/naruseyukio/n/nae6a23418a9e?hl=en",
+    "https://tales.note.com/little0_0me/wjvqsfpo2t3c3/episodes/eyr3a4811peq4"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Perfect",
+   "results": [
+    "https://x.com/theperfectmag",
+    "https://x.com/hashtag/perfect",
+    "https://x.com/perfect_piggy_",
+    "https://x.com/DudePerfect",
+    "https://x.com/txt_bighit/status/2104421162134782054",
+    "https://blog.x.com/en/engineering",
+    "https://x.com/David_A_70/status/2119890660270686416"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Perfect",
+   "results": [
+    "https://www.linkedin.com/company/perfect-corp",
+    "https://www.linkedin.com/in/wayneliu88",
+    "https://sr.linkedin.com/in/robyne-parmanand-778b1180",
+    "https://ca.linkedin.com/jobs/view/warehouse-manager-at-perfect-solutions-for-distribution-4429000164",
+    "https://vn.linkedin.com/jobs/view/junior-devops-engineer-at-transperfect-4432075993",
+    "https://au.linkedin.com/in/elo-owhe-md-2a576738",
+    "https://in.linkedin.com/jobs/view/technical-writer-no-ai-writing-human-content-only-at-perfect-clicks-llc-4484061974"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Perfect",
+   "results": [
+    "https://www.facebook.com/Perfect/",
+    "https://www.facebook.com/EdSheeranMusic/videos/perfect-official-video-out-now-on-youtube-httpsadgtperfectvid/10155855924639486/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/perfectbar.co/",
+    "https://www.facebook.com/EdSheeranMusic/videos/ed-sheeran-perfect-live-at-tiktok-uefa-euro-2020/864838044410217/",
+    "https://www.facebook.com/parisperfect/",
+    "https://www.facebook.com/DudePerfect/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Perfect note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Perfect X 投稿",
+   "results": [
+    "https://x.com/prodarts/status/2114915000410386896",
+    "https://wrench-shift.com/perfect_x_review/",
+    "https://x.com/elonmusk/status/2117033967782113327",
+    "https://x.com/PERFECTONE_JP/status/2092114751564181992",
+    "https://x.com/PurrfectMochaJP/status/2103076996838514812",
+    "https://www.syakouba.com/album/album.php?u=8/85e98a5afc",
+    "https://www.xvideos.com/video.ucamamv29cc/part3_and_and_100_g_"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部41頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部41頁・検索12回）"
+ }
+}

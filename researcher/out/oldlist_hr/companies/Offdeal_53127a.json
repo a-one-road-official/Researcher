@@ -1,0 +1,1090 @@
+{
+ "name": "Offdeal",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Financial Services｜未接触",
+ "researched_at": "2026-11-09T23:04:36.599054+00:00",
+ "official_url": "https://offdeal.io",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2012",
+    "url": "https://offdeal.io/client-stories/casa-del-nino",
+    "pass": 1
+   },
+   {
+    "label": "Founded",
+    "value": "Founded：2023",
+    "url": "https://startupintros.com/orgs/offdeal",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "2. Seed Round",
+    "value": "12-Sep-2024    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/593041-24",
+    "pass": 3
+   },
+   {
+    "label": "Seed-2",
+    "value": "674,478 $0.000010  $1.28 $1.28 1x $1.28 3.76%",
+    "url": "https://pitchbook.com/profiles/company/593041-24",
+    "pass": 3
+   },
+   {
+    "label": "Seed-1",
+    "value": "2,707,992 $0.000010  $1.36 $1.36 1x $1.36 15.1%",
+    "url": "https://pitchbook.com/profiles/company/593041-24",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "New York City, NY, USA",
+    "url": "https://startupintros.com/orgs/offdeal",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "A modern approach to selling your business",
+    "url": "https://offdeal.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Private Equity Investor",
+    "url": "https://offdeal.io/",
+    "pass": 1
+   },
+   {
+    "quote": "B2B Printing",
+    "url": "https://offdeal.io/",
+    "pass": 1
+   },
+   {
+    "quote": "The Modern Approach to",
+    "url": "https://offdeal.io/",
+    "pass": 1
+   },
+   {
+    "quote": "OffDeal's professionalism blew me away—Ori and his team helped me build a rock-solid business plan and negotiate with confidence.",
+    "url": "https://offdeal.io/",
+    "pass": 1
+   },
+   {
+    "quote": "OffDeal found a private equity buyer for my HVAC business in just 16 days—it was truly a miracle.",
+    "url": "https://offdeal.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Building Products & Construction Services",
+    "url": "https://offdeal.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Consumer: Products, Retail & Leisure",
+    "url": "https://offdeal.io/",
+    "pass": 1
+   },
+   {
+    "quote": "How fast is the process?",
+    "url": "https://offdeal.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Amit Soman spent years building 1Source into a differentiated print, signage, and visual communications business, growing through acquisition. When he decided to sell, he hired OffDeal over M&A brokers and other investment banks.",
+    "url": "https://offdeal.io/client-stories/one-source",
+    "pass": 1
+   },
+   {
+    "quote": "B2B Printing",
+    "url": "https://offdeal.io/client-stories/one-source",
+    "pass": 1
+   },
+   {
+    "quote": "Amit was an experienced acquirer whose instinct was to write his own CIM, build his own data room, and take the meetings himself. But running two other companies, he couldn’t let the sale consume him. He needed a firm that would carry out the entire process.",
+    "url": "https://offdeal.io/client-stories/one-source",
+    "pass": 1
+   },
+   {
+    "quote": "Having the right positioning was just as important. Marketed as a commercial printer, 1Source would land in a commoditized bucket where valuations are suppressed. Capturing its real value meant reaching a specific set of buyers with actual operating or investing experience in visual communications, not just a checkbook: the kind a limited, self‑run process would never surface.",
+    "url": "https://offdeal.io/client-stories/one-source",
+    "pass": 1
+   },
+   {
+    "quote": "OffDeal repositioned the business. 1Source was not a commodity printer but a broad visual communications platform: large and grand format production, ADA and architectural signage, in‑house manufacturing, repeat B2B customers, and a record of growth through acquisition.",
+    "url": "https://offdeal.io/client-stories/one-source",
+    "pass": 1
+   },
+   {
+    "quote": "Amit arrived with six potential acquirers of his own and a short list of local competitors never to approach. OffDeal honored the do‑not‑contact list and built out roughly 90 buyers specific to the business, half private equity firms and their platforms, and half independent strategic operators in print and signage.",
+    "url": "https://offdeal.io/client-stories/one-source",
+    "pass": 1
+   },
+   {
+    "quote": "Leading buyers framed the transition around an all‑or‑nothing contingent seller note tied to performance Amit wouldn’t control after stepping back. OffDeal pushed back on the binary construct, proposed structures that scaled rather than “cliffed,” and brought rollover equity into the conversation. OffDeal introduced real ownership in the combined platform, something Amit had never considered.",
+    "url": "https://offdeal.io/client-stories/one-source",
+    "pass": 1
+   },
+   {
+    "quote": "After a rigorous marketing process, Amit received six competitive offers. Not one came from the buyers he had brought to OffDeal. Every offer came from a buyer OffDeal surfaced, including Banner Capital, whose Vision Graphics platform acquired the business.",
+    "url": "https://offdeal.io/client-stories/one-source",
+    "pass": 1
+   },
+   {
+    "quote": "B2B Printing & Signage",
+    "url": "https://offdeal.io/client-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Stephen and Mariela Barnes hired OffDeal over the brokers and school chains that had approached them. Seven months later they sold to the buyer they chose, with the full price paid at closing.",
+    "url": "https://offdeal.io/client-stories/casa-del-nino",
+    "pass": 1
+   },
+   {
+    "quote": "Stephen and Mariela were ready to move on. Their daughter was leaving for college, and Mariela wanted more time with aging parents in Chile. The school ran smoothly without them, and they wanted to hand it to someone who would preserve what they had built.",
+    "url": "https://offdeal.io/client-stories/casa-del-nino",
+    "pass": 1
+   },
+   {
+    "quote": "Chains tended to force their own model onto a school, but this was a premium, bilingual program that families chose specifically because it was different. Stephen went looking for a better option, and found OffDeal.",
+    "url": "https://offdeal.io/client-stories/casa-del-nino",
+    "pass": 1
+   },
+   {
+    "quote": "The first offer looked fine on paper, but only about a fifth of the price would be paid at closing. The rest would trickle in over seven years with no interest. OffDeal pushed for the school to be valued on everything it earned for its owners, and for buyers to use an SBA loan to pay the founders up front instead of asking them to wait.",
+    "url": "https://offdeal.io/client-stories/casa-del-nino",
+    "pass": 1
+   },
+   {
+    "quote": "As OffDeal created a competitive auction among several buyers, the offers improved quickly. Within weeks, one bidder with SBA approval was ready to pay nearly the entire price in cash at closing.",
+    "url": "https://offdeal.io/client-stories/casa-del-nino",
+    "pass": 1
+   },
+   {
+    "quote": "The founders signed the LOI in early May, and the deal closed on Sept 17, 2025. The full price was paid in cash at closing, compared with about a fifth in the first offer. When the buyers’ SBA loan took longer than expected, OffDeal and the founders’ attorney kept the deal moving until it closed.",
+    "url": "https://offdeal.io/client-stories/casa-del-nino",
+    "pass": 1
+   },
+   {
+    "quote": "AI-powered investment bank helping small business owners exit at premium prices.",
+    "url": "https://offdeal.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "What makes OffDeal different? We combined two unfair advantages: (1) purpose-built technology that maps every strategic and financial buyer in minutes, automates time-consuming manual analysis, and keeps the process transparent; and (2) seasoned bankers who focus on judgment, not data entry and bureaucracy.",
+    "url": "https://offdeal.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "First Principles Thinking",
+    "url": "https://offdeal.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We strip problems to their foundational elements and build up from there. By questioning conventional wisdom, we create paths to innovation that seem impossible to others.",
+    "url": "https://offdeal.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Private medical and dental insurance",
+    "url": "https://offdeal.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Founding Content Lead",
+    "url": "https://offdeal.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "OffDeal is an AI-native investment bank for small businesses. Their AI technology automates most of the grunt work typically done by analysts at larger Wall Street banks, enabling their in-house M&A advisors to focus more on strategic client interactions, leading to faster deal closures and higher sale prices.",
+    "url": "https://www.wallstreetoasis.com/forum/investment-banking/ai-native-ib-firm-offdealreal-or-fraud",
+    "pass": 3
+   },
+   {
+    "quote": "OffDeal was born from personal experience. In 2019, co-founder Ori E., a former banker, tried to buy a local cooking oil collection business. He was shocked by how painful, clunky, and inefficient the SMB M&A process was, with both sellers and buyers receiving little guidance. Inspired to change this, Ori partnered with Alston L. to build OffDeal.",
+    "url": "https://www.wallstreetoasis.com/forum/investment-banking/ai-native-ib-firm-offdealreal-or-fraud",
+    "pass": 3
+   },
+   {
+    "quote": "Based on the most helpful WSO content, here's what you need to know about the potential legitimacy of \"AI Native IB\" firms like OffDeal:",
+    "url": "https://www.wallstreetoasis.com/forum/investment-banking/ai-native-ib-firm-offdealreal-or-fraud",
+    "pass": 3
+   },
+   {
+    "quote": "For any firm involved in M&A advisory, compliance with regulatory requirements such as the Series 79 exam (required for investment banking representatives) is crucial. AI agents would need to operate within these regulatory frameworks, which currently necessitate human oversight.",
+    "url": "https://www.wallstreetoasis.com/forum/investment-banking/ai-native-ib-firm-offdealreal-or-fraud",
+    "pass": 3
+   },
+   {
+    "quote": "The mission to provide Wall Street-level service at a lower cost is commendable, but the execution and actual capabilities of the AI technology will be the true test of its legitimacy.",
+    "url": "https://www.wallstreetoasis.com/forum/investment-banking/ai-native-ib-firm-offdealreal-or-fraud",
+    "pass": 3
+   },
+   {
+    "quote": "I'm an AI bot trained on the most helpful WSO content across 17+ years.",
+    "url": "https://www.wallstreetoasis.com/forum/investment-banking/ai-native-ib-firm-offdealreal-or-fraud",
+    "pass": 3
+   },
+   {
+    "quote": "I suppose it could replace many business brokers, who aren’t really running M&A processes. If it can undercut their fees, it will probably steal share.",
+    "url": "https://www.wallstreetoasis.com/forum/investment-banking/ai-native-ib-firm-offdealreal-or-fraud",
+    "pass": 3
+   },
+   {
+    "quote": "Certified Investment Banking Professional - Executive Director",
+    "url": "https://www.wallstreetoasis.com/forum/investment-banking/ai-native-ib-firm-offdealreal-or-fraud",
+    "pass": 3
+   },
+   {
+    "quote": "Certified Investment Banking Pro",
+    "url": "https://www.wallstreetoasis.com/forum/investment-banking/ai-native-ib-firm-offdealreal-or-fraud",
+    "pass": 3
+   },
+   {
+    "quote": "Certified Investment Banking Professional - 2nd Year Analyst",
+    "url": "https://www.wallstreetoasis.com/forum/investment-banking/ai-native-ib-firm-offdealreal-or-fraud",
+    "pass": 3
+   },
+   {
+    "quote": "and 60m workforce with multi-billion payroll… granted, a lot of this is micro cap but the same goes for Europe — small numbers also add up. Taking a deal size almost nobody would touch — say 10-15m",
+    "url": "https://www.wallstreetoasis.com/forum/investment-banking/ai-native-ib-firm-offdealreal-or-fraud",
+    "pass": 3
+   },
+   {
+    "quote": "Ultimately, perhaps it’s even a value-add for society, to somewhat professionalize this micro cap process a little bit.",
+    "url": "https://www.wallstreetoasis.com/forum/investment-banking/ai-native-ib-firm-offdealreal-or-fraud",
+    "pass": 3
+   },
+   {
+    "quote": "Certified Investment Banking Professional - Director",
+    "url": "https://www.wallstreetoasis.com/forum/investment-banking/ai-native-ib-firm-offdealreal-or-fraud",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.ft.com/content/9daf5c7e-e301-4b7d-809a-ff9fb336bdbc",
+    "url": "https://www.wallstreetoasis.com/forum/investment-banking/ai-native-ib-firm-offdealreal-or-fraud",
+    "pass": 3
+   },
+   {
+    "quote": "Certified Investment Banking Professional - 1st Year Associate",
+    "url": "https://www.wallstreetoasis.com/forum/investment-banking/ai-native-ib-firm-offdealreal-or-fraud",
+    "pass": 3
+   },
+   {
+    "quote": "article is pretty silly and reads more like paid advertising than real journalism.",
+    "url": "https://www.wallstreetoasis.com/forum/investment-banking/ai-native-ib-firm-offdealreal-or-fraud",
+    "pass": 3
+   },
+   {
+    "quote": "Certified Investment Banking Professional - 2nd Year Associate",
+    "url": "https://www.wallstreetoasis.com/forum/investment-banking/ai-native-ib-firm-offdealreal-or-fraud",
+    "pass": 3
+   },
+   {
+    "quote": "That was my same thought on that $2mm payout. The math isn't mathing. If they're that profitable then why sell any equity at all. I do think what they have",
+    "url": "https://www.wallstreetoasis.com/forum/investment-banking/ai-native-ib-firm-offdealreal-or-fraud",
+    "pass": 3
+   },
+   {
+    "quote": "is an interesting approach in that LMM/micro space but I'd like to see more track record",
+    "url": "https://www.wallstreetoasis.com/forum/investment-banking/ai-native-ib-firm-offdealreal-or-fraud",
+    "pass": 3
+   },
+   {
+    "quote": "Id a et praesentium eum. Autem eum consequuntur natus numquam optio. Rem nostrum ducimus assumenda sed amet id debitis itaque. Laboriosam officiis in nihil. Molestiae quos quia facere dolorum eligendi necessitatibus maxime ex. Hic eius tempore reprehenderit harum consequuntur aperiam.",
+    "url": "https://www.wallstreetoasis.com/forum/investment-banking/ai-native-ib-firm-offdealreal-or-fraud",
+    "pass": 3
+   },
+   {
+    "quote": "Want to Vote on this Content?! No WSO Credits?",
+    "url": "https://www.wallstreetoasis.com/forum/investment-banking/ai-native-ib-firm-offdealreal-or-fraud",
+    "pass": 3
+   },
+   {
+    "quote": "so you can reward or punish any content you deem worthy right away. See you on the other side!",
+    "url": "https://www.wallstreetoasis.com/forum/investment-banking/ai-native-ib-firm-offdealreal-or-fraud",
+    "pass": 3
+   },
+   {
+    "quote": "Trending Content - Investment Banking Forum",
+    "url": "https://www.wallstreetoasis.com/forum/investment-banking/ai-native-ib-firm-offdealreal-or-fraud",
+    "pass": 3
+   },
+   {
+    "quote": "Is Houston SA 28 recruiting already over?",
+    "url": "https://www.wallstreetoasis.com/forum/investment-banking/ai-native-ib-firm-offdealreal-or-fraud",
+    "pass": 3
+   },
+   {
+    "quote": "Investment Banking Interview Prep",
+    "url": "https://www.wallstreetoasis.com/forum/investment-banking/ai-native-ib-firm-offdealreal-or-fraud",
+    "pass": 3
+   },
+   {
+    "quote": "after migrating to the Claude Agent SDK and refining MCP design and prompting",
+    "url": "https://claude.com/ja/customers/offdeal",
+    "pass": 3
+   },
+   {
+    "quote": "is an AI-native investment bank that helps founder-led businesses sell their companies. By pairing bankers with software engineers, the firm brings full-service M&A advisory to businesses making $1 to $20 million in annual profit, the largest segment of the market by deal count but historically the least served.",
+    "url": "https://claude.com/ja/customers/offdeal",
+    "pass": 3
+   },
+   {
+    "quote": "Increased eval accuracy from 25% to 85% after switching to the Claude Agent SDK and iterating on MCP design and prompting",
+    "url": "https://claude.com/ja/customers/offdeal",
+    "pass": 3
+   },
+   {
+    "quote": "Equipped each banker to meet 2 to 3 new potential clients per day, supported by AI-generated prep and materials",
+    "url": "https://claude.com/ja/customers/offdeal",
+    "pass": 3
+   },
+   {
+    "quote": "“Each individual API call was smart,” Eldarov explained. “But because we had to define the best way to solve a certain problem in advance, if we came across a problem outside the predefined instructions, the models did very poorly.” The brittleness compounded with scale: OffDeal was growing fast, and every time a standard operating procedure changed, the corresponding workflow broke.",
+    "url": "https://claude.com/ja/customers/offdeal",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Industrials & Manufacturing",
+    "url": "https://offdeal.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace, Defense & Government Services",
+    "url": "https://offdeal.io/",
+    "pass": 1
+   },
+   {
+    "quote": "OffDeal repositioned the business. 1Source was not a commodity printer but a broad visual communications platform: large and grand format production, ADA and architectural signage, in‑house manufacturing, repeat B2B customers, and a record of growth through acquisition.",
+    "url": "https://offdeal.io/client-stories/one-source",
+    "pass": 1
+   },
+   {
+    "quote": "Amit arrived with six potential acquirers of his own and a short list of local competitors never to approach. OffDeal honored the do‑not‑contact list and built out roughly 90 buyers specific to the business, half private equity firms and their platforms, and half independent strategic operators in print and signage.",
+    "url": "https://offdeal.io/client-stories/one-source",
+    "pass": 1
+   },
+   {
+    "quote": "Case study | Claude Agent SDK",
+    "url": "https://claude.com/ja/customers/offdeal",
+    "pass": 3
+   },
+   {
+    "quote": "OffDeal Claude Agent SDK case study | Claude by Anthropic",
+    "url": "https://claude.com/ja/customers/offdeal",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Use the left and right arrow keys to explore transactions.",
+    "url": "https://offdeal.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Amit Soman spent years building 1Source into a differentiated print, signage, and visual communications business, growing through acquisition. When he decided to sell, he hired OffDeal over M&A brokers and other investment banks.",
+    "url": "https://offdeal.io/client-stories/one-source",
+    "pass": 1
+   },
+   {
+    "quote": "Amit was an experienced acquirer whose instinct was to write his own CIM, build his own data room, and take the meetings himself. But running two other companies, he couldn’t let the sale consume him. He needed a firm that would carry out the entire process.",
+    "url": "https://offdeal.io/client-stories/one-source",
+    "pass": 1
+   },
+   {
+    "quote": "OffDeal repositioned the business. 1Source was not a commodity printer but a broad visual communications platform: large and grand format production, ADA and architectural signage, in‑house manufacturing, repeat B2B customers, and a record of growth through acquisition.",
+    "url": "https://offdeal.io/client-stories/one-source",
+    "pass": 1
+   },
+   {
+    "quote": "Amit arrived with six potential acquirers of his own and a short list of local competitors never to approach. OffDeal honored the do‑not‑contact list and built out roughly 90 buyers specific to the business, half private equity firms and their platforms, and half independent strategic operators in print and signage.",
+    "url": "https://offdeal.io/client-stories/one-source",
+    "pass": 1
+   },
+   {
+    "quote": "After a rigorous marketing process, Amit received six competitive offers. Not one came from the buyers he had brought to OffDeal. Every offer came from a buyer OffDeal surfaced, including Banner Capital, whose Vision Graphics platform acquired the business.",
+    "url": "https://offdeal.io/client-stories/one-source",
+    "pass": 1
+   },
+   {
+    "quote": "He planned to sell and move on. Instead, convinced by the plan to build at national scale, he stayed. Amit is now helping lead Vision’s next phase of growth, working with the Vision and Banner teams on acquisitions, and holding equity in the platform he chose to help build.",
+    "url": "https://offdeal.io/client-stories/one-source",
+    "pass": 1
+   },
+   {
+    "quote": "to carry the owners’ legacy",
+    "url": "https://offdeal.io/client-stories/casa-del-nino",
+    "pass": 1
+   },
+   {
+    "quote": "$2M bonus for junior staff doesn't make any sense in conjunction with $12M equity raise (for which I'm sure a decent chunk of equity was given away). If they're really making enough $ to pay juniors $2M they wouldn't need to raise any capital (or could raise it cheaply from the junior employees via SBC).",
+    "url": "https://www.wallstreetoasis.com/forum/investment-banking/ai-native-ib-firm-offdealreal-or-fraud",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/593041-24",
+    "pass": 3
+   },
+   {
+    "quote": "OffDeal has 35 total employees.",
+    "url": "https://pitchbook.com/profiles/company/593041-24",
+    "pass": 3
+   },
+   {
+    "quote": "What is OffDeal’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/593041-24",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for OffDeal is",
+    "url": "https://pitchbook.com/profiles/company/593041-24",
+    "pass": 3
+   },
+   {
+    "quote": ": Custom agents handle customer/data acquisition (largest U.S. SMB dataset), financial analysis (models/teasers/CIMs in hours vs. weeks), buyer mapping (1,000+ matches via semantic search), and personalized outreach, slashing timelines to 45 days for offers.[2][3][4][5]",
+    "url": "https://startupintros.com/orgs/offdeal",
+    "pass": 3
+   },
+   {
+    "quote": "OffDeal Revenue 2025: $440K Est.",
+    "url": "https://getlatka.com/companies/offdeal.io",
+    "pass": 3
+   },
+   {
+    "quote": "OffDeal has not published its revenue. GetLatka estimates it at about $440K a year (September 2025).",
+    "url": "https://getlatka.com/companies/offdeal.io",
+    "pass": 3
+   },
+   {
+    "quote": "OffDeal CEO, founders & employees",
+    "url": "https://getlatka.com/companies/offdeal.io",
+    "pass": 3
+   },
+   {
+    "quote": "Ori Eldarov founded OffDeal in 2023 and runs it as CEO. OffDeal had 2–4 employees (June 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/offdeal.io",
+    "pass": 3
+   },
+   {
+    "quote": "What is OffDeal's revenue?",
+    "url": "https://getlatka.com/companies/offdeal.io",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates OffDeal's revenue at about",
+    "url": "https://getlatka.com/companies/offdeal.io",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does OffDeal have?",
+    "url": "https://getlatka.com/companies/offdeal.io",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/offdeal.io",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/offdeal.io",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/offdeal.io",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "特に、日本や欧米では後継者不足が深刻化しており、企業を存続させるためにM&Aを選択する経営者が増えています",
+    "url": "https://generative-ai.co.jp/usecase/ai-startup-usecase-offdeal/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "or LMM boutique quality at the broker level. All these brokers do is source sellers, post deal opportunities and automated email blast.",
+    "url": "https://www.wallstreetoasis.com/forum/investment-banking/ai-native-ib-firm-offdealreal-or-fraud",
+    "pass": 3
+   },
+   {
+    "quote": "WSO depends on everyone being able to pitch in when they know something. Unlock with your email and get bonus:",
+    "url": "https://www.wallstreetoasis.com/forum/investment-banking/ai-native-ib-firm-offdealreal-or-fraud",
+    "pass": 3
+   },
+   {
+    "quote": "Archie, OffDeal’s Claude-powered agent, drafts personalized chaser emails to 34 buyers from within the firm’s Deal Portal. All names shown have been modified to preserve client confidentiality.",
+    "url": "https://claude.com/ja/customers/offdeal",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/593041-24",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "成功報酬型で低コスト！OffDealを使った企業売却・買収のメリットと流... — Feb 4, 2025 · OffDealは、投資家向けに企業買収の機会を提供し、データ分析を通じて成長が期待できる企業をピックアップする機能を持っています。 AIによる解析が加わることで、従来の投資手法よりも的確な判断が可能になるため、投資リスクを低減することができます ...",
+    "url": "https://generative-ai.co.jp/usecase/ai-startup-usecase-offdeal/",
+    "pass": 3
+   },
+   {
+    "quote": "OffDeal | Sell Your Business | M&A Advisory — Maximize your business sale with OffDeal, the investment bank for small businesses. Get a free valuation, banker consults & matched buyers to exit for top price.",
+    "url": "https://offdeal.io/",
+    "pass": 3
+   },
+   {
+    "quote": "OffDeal - AIツールレビュー | AIniche — 従来型の投資銀行（Goldman Sachs、JP Morganなど）は通常、年間売上高$50M以上の企業のみを扱い、5～15%の成功報酬を請求しますが、OffDealは中小企業に特化し、2～5%という低い手数料でサービスを提供します。",
+    "url": "https://ainiche.net/ja/tools/offdeal",
+    "pass": 3
+   },
+   {
+    "quote": "“AI Native IB” Firm OffDeal…Real? - Wall Street Oasis — Sep 12, 2024 · Inspired to change this, Ori partnered with Alston L. to build OffDeal. Over 80% of small business deals occur without an advisor, resulting in lower sale prices, broken deals, and dragged-out cycles.",
+    "url": "https://www.wallstreetoasis.com/forum/investment-banking/ai-native-ib-firm-offdealreal-or-fraud",
+    "pass": 3
+   },
+   {
+    "quote": "OffDeal:AI搭載のM&Aアドバイザリープラットフォームで、中小企業と戦... — OffDealは独自のAIアルゴリズムを活用し、25,000件以上の過去M&A取引データベースと企業情報を分析することで、理想的な戦略的買い手を特定し、高額オファーと迅速な売却を実現します。",
+    "url": "https://moge.ai/ja/product/offdeal",
+    "pass": 3
+   },
+   {
+    "quote": "OffDeal — AI-powered investment bank helping small business owners exit at premium prices. In 2024, OffDeal set out to build something audacious: An investment bank built for small businesses. Not a software for banks, not a buyer-seller marketplace, not another \"deal sourcing platform\".",
+    "url": "https://offdeal.io/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "Our Team | OffDeal — Meet the bankers, engineers, and operators building OffDeal, the world’s first AI-native investment bank. We turn buyers into bidders.",
+    "url": "https://offdeal.io/team",
+    "pass": 3
+   },
+   {
+    "quote": "OffDeal - LinkedIn — OffDeal is an AI-native investment bank for small businesses. We offer small business owners a hassle-free way to sell their company for the highest price to the best possible buyer.",
+    "url": "https://www.linkedin.com/company/offdeal/",
+    "pass": 3
+   },
+   {
+    "quote": "OffDeal | Buyer Network — Join OffDeal's buyer network to access curated, diligence-ready deals in the $5M-$100M range. Get instant alerts, and connect with sellers, no fees or retainers.",
+    "url": "https://offdeal.io/buyers",
+    "pass": 3
+   },
+   {
+    "quote": "Sell Your Industrials & Manufacturing Business | OffDeal — Selling your industrials or manufacturing business is one of the most personal decisions you'll make — the next chapter for the team and customers you built it with.",
+    "url": "https://offdeal.io/industries/industrials",
+    "pass": 3
+   },
+   {
+    "quote": "Sell Your Specialty Manufacturing Business | OffDeal — Whether you run a single-shop CNC operation or a multi-site precision-manufacturing platform, we position your proprietary tooling, AS9100 certifications, skilled machinists, and sticky customer relationships to drive competitive offers.",
+    "url": "https://offdeal.io/industries/specialty-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "OffDeal Claude Agent SDK case study | Claude by Anthropic — OffDeal lifted eval accuracy from 25% to 85%. Read the case study to see how they build on the Claude Agent SDK.",
+    "url": "https://claude.com/customers/offdeal",
+    "pass": 3
+   },
+   {
+    "quote": "OffDeal Advises St. Charles Stamping & Tooling on a Sale to ... — OffDeal advises precision metal stamping manufacturer, St. Charles Stamping & Tooling in successful acquisition by JT Heartland Industries.",
+    "url": "https://www.tennessean.com/press-release/story/172274/offdeal-advises-st-charles-stamping-tooling-on-a-sale-to-jt-heartland-industries/",
+    "pass": 3
+   },
+   {
+    "quote": "Small Business Exits: How OffDeal Disrupts the Market with AI — Sep 12, 2024 · Enter OffDeal, a venture intent on rewriting the rules of engagement for businesses on the brink of transition. Founded by Ori Eldarov and Alston Lin, the company operates on a bold premise: to...",
+    "url": "https://medium.com/daily-ai-news/revolutionizing-small-business-exits-how-offdeal-disrupts-the-market-with-ai-a759a1b0e32d",
+    "pass": 3
+   },
+   {
+    "quote": "OffDeal 2026 Company Profile: Valuation, Funding & Investors ...OffDeal - 2026 Company Profile, Team, Funding & Competitors ...OffDeal: Funding, Team & Investors | Startup IntrosOffDeal Revenue 2025: $440K Est. ARR - getlatka.comOffDeal — Company Profile, Funding & InvestorsOffDeal - Overview, News & Similar companies | ZoomInfo.comOffDeal — Information on valuation, funding, cap tables, investors",
+    "url": "https://pitchbook.com/profiles/company/593041-24",
+    "pass": 3
+   },
+   {
+    "quote": "OffDeal - 2026 Company Profile, Team, Funding & Competitors ...OffDeal: Funding, Team & Investors | Startup IntrosOffDeal Revenue 2025: $440K Est. ARR - getlatka.comOffDeal — Company Profile, Funding & InvestorsOffDeal - Overview, News & Similar companies | ZoomInfo.comOffDeal — Feb 28, 2026 · OffDeal - About the company OffDeal is a seed company based in New York City (United States), founded in ",
+    "url": "https://tracxn.com/d/companies/offdeal/__f4H12Jdv3-yNX3Vuu3V9umey9nE15Ep8yMkFjJM_FE4",
+    "pass": 3
+   },
+   {
+    "quote": "OffDeal: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · OffDeal has raised $21.8M across 4 funding rounds. Most recently, it raised $12.0M Series A in August 2025.",
+    "url": "https://startupintros.com/orgs/offdeal",
+    "pass": 3
+   },
+   {
+    "quote": "OffDeal Revenue 2025: $440K Est. ARR - getlatka.com — Sep 2, 2026 · In 2025, OffDeal's revenue reached $440K. Since its launch in 2023, OffDeal has shown consistent revenue growth. Explore the complete funding history and valuation milestones for this company. Below you will find information about each funding round and key financial metrics that shaped the company's growth trajectory.",
+    "url": "https://getlatka.com/companies/offdeal.io",
+    "pass": 3
+   },
+   {
+    "quote": "OffDeal — Company Profile, Funding & Investors — OffDeal company profile with $16.82M raised across 3 funding rounds, HQ in New York, United States, founded 2023. Explore its acquisitions, funding rounds, investors, key people and contacts on Acquirezy — updated 2026.",
+    "url": "https://acquirezy.com/organization/offdeal",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "OffDeal (@tryoffdeal) / X We have identified 250,000+ potential buyers for 1,000+ small business owners in the last 60 days 🤯 Try this for yourself at offdeal.io/match",
+    "url": "https://x.com/tryoffdeal",
+    "pass": 3
+   },
+   {
+    "quote": "90%offdeal (@offdeal90) / Posts / X 90%offdeal🔥 (@offdeal90) - Posts - heart you get best deal | X (formerly Twitter)",
+    "url": "https://x.com/offdeal90",
+    "pass": 3
+   },
+   {
+    "quote": "Boring_Business on X: \"If you are a junior banker considering ... If you are a junior banker considering a career shift towards somewhere you can take more accountability for equity upside, this might be the role for you I have chatted with Ori extensively on the vision for OffDeal, and he is an incredible mentor to work under",
+    "url": "https://x.com/BoringBiz_/status/2077012688253653210",
+    "pass": 3
+   },
+   {
+    "quote": "Hiring Startups + their Career Pages Yuzu → https://t.co ... OffDeal → offdeal.io/careers Attention → attention.com/careers Juno → juno.tax/careers Mastra → mastra.ai/careers Auctor → getauctor.com/careers AfterQuery → afterquery.com/careers Insight Health AI → insighthealth.ai Mintlify → mintlify.com/careers Fleet AI → fleetai.com/careers Solidroad → solidroad.com/careers Zenskar → ...",
+    "url": "https://x.com/ajay_2512x/status/2049770021564662225",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "OffDeal - LinkedIn OffDeal is an AI-native investment bank for small businesses. We offer small business owners a hassle-free way to sell their company for the highest price to the best possible buyer.",
+    "url": "https://www.linkedin.com/company/offdeal/",
+    "pass": 3
+   },
+   {
+    "quote": "Alston Lin - founder, cto @ offdeal | prev. bizwise, meta ...Thomas Anglim - Investment Banker @ OffDeal | LinkedInElizabeth Bonvouloir - Chief of Staff at OffDeal | LinkedInCJ Shepherdson - Investment Banking at OffDeal | LinkedInBrian DeRose - Investment Banker @ OffDeal | LinkedInJacob G. - Growth @ OffDeal | LinkedIn Why AI Startups Are Abandoning SaaS Generative AI has consumed the startup wo",
+    "url": "https://www.linkedin.com/in/alstonlin",
+    "pass": 3
+   },
+   {
+    "quote": "Thomas Anglim - Investment Banker @ OffDeal | LinkedInElizabeth Bonvouloir - Chief of Staff at OffDeal | LinkedInCJ Shepherdson - Investment Banking at OffDeal | LinkedInBrian DeRose - Investment Banker @ OffDeal | LinkedInJacob G. - Growth @ OffDeal | LinkedIn About As an Investment Banker at OffDeal, I work with business owners to navigate strategic M&A transactions and achieve exceptional outco",
+    "url": "https://www.linkedin.com/in/thomasanglim",
+    "pass": 3
+   },
+   {
+    "quote": "Elizabeth Bonvouloir - Chief of Staff at OffDeal | LinkedInCJ Shepherdson - Investment Banking at OffDeal | LinkedInBrian DeRose - Investment Banker @ OffDeal | LinkedInJacob G. - Growth @ OffDeal | LinkedIn Chief of Staff at OffDeal · Experience: OffDeal · Education: University of Michigan - Stephen M. Ross School of Business · Location: New York · 500+ connections on LinkedIn. Investment Banking",
+    "url": "https://www.linkedin.com/in/elizabethbonvouloir",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "OffDeal - Facebook Sep 23, 2024 · OffDeal. 2 likes. Sell Your Business for More, Faster. We'll find the perfect buyer for your business in half the time.",
+    "url": "https://www.facebook.com/tryoffdeal/",
+    "pass": 3
+   },
+   {
+    "quote": "Introducing Offdeal: AI Technology for Buying Small ... Jun 9, 2024 · Introducing Offdeal: AI Technology for Buying Small Businesses 🚨Attention all aspiring entrepreneurs! 🚀 Say goodbye to traditional business buying...",
+    "url": "https://www.facebook.com/reel/420186890990463/",
+    "pass": 3
+   },
+   {
+    "quote": "Off Deal - Facebook Apr 8, 2014 · HOW TO EARN THROUGH Off-Deal : Earning through offDeal is actually very simple . Firstly : Go to www.offdeal.co.nr Second : In OffDeal's homepage you can see a variety of banner link to merchant shopping site . …",
+    "url": "https://www.facebook.com/offdealpages/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://offdeal.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://offdeal.io/client-stories/one-source",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://offdeal.io/client-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://offdeal.io/client-stories/casa-del-nino",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://offdeal.io/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://offdeal.io/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://assets.offdeal.io/csp_logo.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://generative-ai.co.jp/usecase/ai-startup-usecase-offdeal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ainiche.net/ja/tools/offdeal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wallstreetoasis.com/forum/investment-banking/ai-native-ib-firm-offdealreal-or-fraud",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/contract/basic/8378/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/offdeal/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://claude.com/ja/customers/offdeal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tennessean.com/press-release/story/172274/offdeal-advises-st-charles-stamping-tooling-on-a-sale-to-jt-heartland-industries/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/593041-24",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/offdeal/__f4H12Jdv3-yNX3Vuu3V9umey9nE15Ep8yMkFjJM_FE4",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://startupintros.com/orgs/offdeal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/offdeal.io",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/tryoffdeal",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/offdeal90",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/BoringBiz_/status/2077012688253653210",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ajay_2512x/status/2049770021564662225",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/offdeal/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/alstonlin",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/thomasanglim",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/elizabethbonvouloir",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tryoffdeal/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/reel/420186890990463/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/offdealpages/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tryoffdeal",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Offdeal 日本 導入",
+   "results": [
+    "https://generative-ai.co.jp/usecase/ai-startup-usecase-offdeal/",
+    "https://offdeal.io/",
+    "https://ainiche.net/ja/tools/offdeal",
+    "https://www.wallstreetoasis.com/forum/investment-banking/ai-native-ib-firm-offdealreal-or-fraud",
+    "https://moge.ai/ja/product/offdeal",
+    "https://offdeal.io/team",
+    "https://car.watch.impress.co.jp/docs/news/2153268.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Offdeal 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://biz.moneyforward.com/contract/templates/990/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Offdeal Japan",
+   "results": [
+    "https://offdeal.io/",
+    "https://offdeal.io/about-us",
+    "https://offdeal.io/team",
+    "https://www.linkedin.com/company/offdeal/",
+    "https://offdeal.io/buyers",
+    "https://offdeal.io/advisors",
+    "https://www.hardoff.co.jp/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Offdeal manufacturing customer case study",
+   "results": [
+    "https://offdeal.io/industries/industrials",
+    "https://offdeal.io/industries/specialty-manufacturing",
+    "https://claude.com/customers/offdeal",
+    "https://www.tennessean.com/press-release/story/172274/offdeal-advises-st-charles-stamping-tooling-on-a-sale-to-jt-heartland-industries/",
+    "https://medium.com/daily-ai-news/revolutionizing-small-business-exits-how-offdeal-disrupts-the-market-with-ai-a759a1b0e32d",
+    "https://asceroai.com/blog/offdeal-claude-agent-200-vs-12000",
+    "https://ryanshannon.substack.com/p/doubling-down-on-full-stack-ai-our"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Offdeal white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.canva.com/partners/reseller/",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Offdeal founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/593041-24",
+    "https://tracxn.com/d/companies/offdeal/__f4H12Jdv3-yNX3Vuu3V9umey9nE15Ep8yMkFjJM_FE4",
+    "https://startupintros.com/orgs/offdeal",
+    "https://getlatka.com/companies/offdeal.io",
+    "https://acquirezy.com/organization/offdeal",
+    "https://www.zoominfo.com/c/offdeal-inc/5000052644",
+    "https://offdeal.io/about-us"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Offdeal",
+   "results": [
+    "https://note.com/clever_hebe481/n/n9a5c7a58b01b?hl=en",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/happy_daphne2034/n/n1e026e6a1e7d?hl=en",
+    "https://note.com/tag/禍話リライト",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/cocoahitachi/n/nbac7ec37445d?hl=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Offdeal",
+   "results": [
+    "https://x.com/tryoffdeal",
+    "https://x.com/offdeal90",
+    "https://x.com/BoringBiz_/status/2077012688253653210",
+    "https://x.com/ajay_2512x/status/2049770021564662225",
+    "https://x.com/jhnling/status/2021587726144053402",
+    "https://x.com/vivekgramaswamy",
+    "https://x.com/tbpn"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Offdeal",
+   "results": [
+    "https://www.linkedin.com/company/offdeal/",
+    "https://www.linkedin.com/in/alstonlin",
+    "https://www.linkedin.com/in/thomasanglim",
+    "https://www.linkedin.com/in/elizabethbonvouloir",
+    "https://www.linkedin.com/in/cj-shepherdson",
+    "https://www.linkedin.com/in/brian-derose",
+    "https://www.linkedin.com/in/jacob-g-1aa937159"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Offdeal",
+   "results": [
+    "https://www.facebook.com/tryoffdeal/",
+    "https://www.facebook.com/reel/420186890990463/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/offdealpages/",
+    "https://www.facebook.com/allyrosepearls/videos/everything-is-10-offdeal-or-no-deal-claim-items-mystery-disneymarvel-doorables-a/916850714278514/",
+    "https://www.facebook.com/TOP10USReviews/videos/unlock-50-off-deals-/1469600921681013/",
+    "https://www.facebook.com/businessinsider/posts/varun-agarwal-25-left-his-job-as-an-investment-banker-at-jpmorgan-to-join-offdea/1181747433823539/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Offdeal note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://offdeal.io/team",
+    "https://offdeal.io/about-us",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.linkedin.com/company/offdeal/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Offdeal X 投稿",
+   "results": [
+    "https://x.com/tryoffdeal",
+    "https://offdeal.io/",
+    "https://offdeal.io/about-us",
+    "https://offdeal.io/team",
+    "https://x.com/alstonthelin",
+    "https://x.com/",
+    "https://help.x.com/ja/using-x/edit-post"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部30頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部30頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部30頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部30頁・検索12回）"
+ }
+}

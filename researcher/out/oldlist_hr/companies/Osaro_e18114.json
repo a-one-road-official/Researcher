@@ -1,0 +1,1153 @@
+{
+ "name": "Osaro",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-09T23:03:21.346833+00:00",
+ "official_url": "https://osaro.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Providing automation that adapts in real time",
+    "url": "https://www.osaro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "At the heart of every OSARO system is SightWorks™, our proprietary perception software that lets robots make smart decisions in real time.",
+    "url": "https://www.osaro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reliable picking in unpredictable environments",
+    "url": "https://www.osaro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "OSARO delivers speed and accuracy in bagging workflows, adapting to variable SKUs and product shapes to ensure every order is packed and shipped right the first time.",
+    "url": "https://www.osaro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Bringing precision and repeatability to kitting workflows by mastering variable SKUs and challenging product geometries that traditional automation can’t handle.",
+    "url": "https://www.osaro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "OSARO HyperCare™ is a proactive support program that continuously monitors and optimizes robotic systems to ensure long-term reliability and performance as operations evolve.",
+    "url": "https://www.osaro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "OSARO helps people and businesses adapt. Our SightWorks™ perception stack and AutoModel™ engine eliminate downtime and speed deployment — so teams focus on growth, not reprogramming. We don’t just automate tasks; we build systems that evolve with your operation and scale with your needs.",
+    "url": "https://www.osaro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Combining behavioral cloning, OSARO’s production data with NVIDIA’s GR00T foundation model, OSARO uses human demonstrations and task descriptions to learn semantic control.",
+    "url": "https://www.osaro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "OSARO in action: Proven worldwide",
+    "url": "https://www.osaro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From piece picking to depalletizing, bagging to kitting, OSARO has delivered successful production deployments across five countries — helping operations run smarter, faster, and more reliably.",
+    "url": "https://www.osaro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "OSARO uses deep and reinforcement learning to train robots from a few 2D video demonstrations — no calibration, 3D sensors, or object modeling needed. The system adapts fast, handling lighting, occlusion, and object variation while performing precision pick-and-place.",
+    "url": "https://www.osaro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "OSARO CEO and Founder Derik Pridmore talks about industrial robotics and deep reinforcement learning at O'Reilly 2017 Artificial Intelligence conference in San Francisco.",
+    "url": "https://www.osaro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Multiple SKUs? Hard to pick? Not a problem. Send us your product, and we'll show you our solution at work.",
+    "url": "https://www.osaro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "With deep roots in artificial intelligence and years of production experience, OSARO designs automation that performs where it matters most.",
+    "url": "https://www.osaro.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "OSARO has been advancing AI-driven robotics for over 10 years. In an industry where competitors emerge and disappear just as quickly, we’ve remained focused, resilient, and committed to long-term progress. Our longevity reflects disciplined execution, deep technical expertise, and a company built for staying power — not short-term hype.",
+    "url": "https://www.osaro.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Our systems aren’t lab demos — they run in live warehouses across the globe every day. OSARO’s AI is engineered for real-world variability, from mixed SKUs to constantly changing case configurations. We design for uptime, throughput, and measurable ROI, because operational performance matters more than flashy prototypes.",
+    "url": "https://www.osaro.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Automation doesn’t stop at installation. Through continuous monitoring, fleet-level insights, and programs like OSARO HyperCare™, we stay engaged long after go-live. Our team works alongside customers to optimize performance, adapt to change, and ensure systems continue improving over time, because long-term value is what truly sets automation apart.",
+    "url": "https://www.osaro.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Michael has over 20 years of experience managing engineering teams and developing high-performance signal processing platforms. He was a senior engineer and applications manager at Samsung semiconductors.",
+    "url": "https://www.osaro.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "and incremental improvements.",
+    "url": "https://www.osaro.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "See OSARO robots in action at our Customer Experience Center and witness the precision, speed, and adaptability that drive real results.",
+    "url": "https://www.osaro.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Patents and Intellectual Property",
+    "url": "https://www.osaro.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "OSARO's Products and Services may be covered by one or more of the following patents owned by OSARO Inc.",
+    "url": "https://www.osaro.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Multiple SKUs? Hard to pick? Not a problem. Send us your product, and we'll show you our solution at work.",
+    "url": "https://www.osaro.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "In today’s warehouses, the only constant is change. New products, shifting demand, and unpredictable returns put strain on traditional automation systems. SightWorks™ was built to thrive in this environment — eliminating SKU onboarding, adapting to evolving processes, and getting smarter with every pick.",
+    "url": "https://www.osaro.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "No onboarding required",
+    "url": "https://www.osaro.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Most automation needs massive SKU training. SightWorks™ uses AI that generalizes across packaging so your system handles new items confidently, without barcodes or manual programming.",
+    "url": "https://www.osaro.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Built around your process",
+    "url": "https://www.osaro.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "SightWorks™ improves with real-world feedback. It refines strategies for higher performance, less intervention, and compounding ROI.",
+    "url": "https://www.osaro.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Product detection and selection",
+    "url": "https://www.osaro.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "SightWorks™ begins by generating a confidence map of the scene using RGB and 3D data. Unlike systems that rely on traditional item segmentation or SKU databases, our AI models identify high-confidence grasp points directly — no SKU onboarding required. This generalized approach enables fast deployment and instant adaptability to new or changing inventory.",
+    "url": "https://www.osaro.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Precision pick and place",
+    "url": "https://www.osaro.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "AutoModel™ enables the system to learn new products on the fly, eliminating the need for SKU pre-training or reprogramming.",
+    "url": "https://www.osaro.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Designed to integrate into goods-to-robot workflows, the solution scales across stations, applications, and inventory profiles as operations evolve.",
+    "url": "https://www.osaro.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Advanced grasp planning and tool selection enable reliable picking and precise placement across a wide range of product types and materials.",
+    "url": "https://www.osaro.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "AutoModel™ continuously learns from real operations, allowing the system to adapt to new SKUs and changing conditions without downtime or manual programming.",
+    "url": "https://www.osaro.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "OSARO’s bagging solution, built for fast-paced e-commerce, 3PL, and retail fulfillment, uses SightWorks to handle diverse products and AutoModel to learn new SKUs on the fly — delivering smarter, faster automation that keeps pace with changing inventory.",
+    "url": "https://www.osaro.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "No more waiting for the robot to find items. Our advanced object detection quickly processes SKUs of all shapes, sizes, and materials.",
+    "url": "https://www.osaro.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "No more shipping the wrong items. Accurately scan and identify each item for precise order fulfillment and record-keeping.",
+    "url": "https://www.osaro.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "SightWorks™ identifies each item in real time, no barcodes or SKU onboarding required.",
+    "url": "https://www.osaro.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "The robot grips and positions products directly into an open bag, adapting to different shapes, sizes, and packaging materials.",
+    "url": "https://www.osaro.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "OSARO’s kitting system supports variable kit structures, product pairings, and packing sequences.",
+    "url": "https://www.osaro.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Each item is identified, verified, and placed with precision so every kit is complete, correct, and ready to ship.",
+    "url": "https://www.osaro.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "SightWorks™ perception software recognizes each product in the mix with instant adaptability to any product mix.",
+    "url": "https://www.osaro.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Each kit is checked for accuracy before release, with continuous feedback loops improving precision and reducing errors.",
+    "url": "https://www.osaro.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Using 3D vision, predictive motion planning, and real-time decision-making, it accurately picks and places cases of all shapes and sizes.",
+    "url": "https://www.osaro.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Smart motion planning and predictive grasping ensure every pick is stable and controlled, even with shrink wrap, voids, or misaligned boxes.",
+    "url": "https://www.osaro.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "SightWorks perception software scans each pallet and builds a 3D map with instant adaptability to any product mix.",
+    "url": "https://www.osaro.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Each box is placed according to your workflow, while reinforcement learning improves speed and handling with every pallet.",
+    "url": "https://www.osaro.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "コグニティブAIによる次世代コンテンツディスカバリーソリューション（Video to Metadata）",
+    "url": "https://www.innotech.co.jp/products/osaro.html",
+    "pass": 3
+   },
+   {
+    "quote": "Robotics Drives Productivity and Accuracy at Zenni Optical",
+    "url": "https://marketing.osaro.com/download-the-zenni-optical-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Zenni Optical chose OSARO to automate its fulfillment ensuring accuracy and a quality customer experience. OSARO completed a robotic deployment that delivered an 80% increase in productivity — and created a process with 99.9% accuracy.",
+    "url": "https://marketing.osaro.com/download-the-zenni-optical-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Robotics Drives Productivity and Accuracy at Zenni: Case Study",
+    "url": "https://marketing.osaro.com/robotics-drives-productivity-zenni-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Robotics Drives Productivity and Accuracy at Zenni",
+    "url": "https://marketing.osaro.com/robotics-drives-productivity-zenni-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "OSARO employs a diverse & talented team of experts in the specialized field of machine and deep learning. Our core values are integrity, responsibility, focus on continuous learning, speed and determination, and kirei, a Japanese term meaning brilliant. Our team is dedicated to building these core values into our products.",
+    "url": "https://www.gritt.io/company/osaroinc/",
+    "pass": 3
+   },
+   {
+    "quote": "Depalletization using the Osaro Robotic Depalletization System is expected to minimize injuries and product damage, optimize warehouse operations, and significantly reduce the economic burden associated with injury risks, which the Occupational Safety and Health Administration (OSHA) estimates at up to $54 billion annually.",
+    "url": "https://note.com/robizy/n/naa25acc379ca?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "February 12, 2024 Osaro Press Release",
+    "url": "https://note.com/robizy/n/naa25acc379ca?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "2024年2月12日付 Osaro Press Release（英語）",
+    "url": "https://note.com/robizy/n/naa25acc379ca",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "OSARO® | Revolutionizing Warehouse Automation",
+    "url": "https://www.osaro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "‍Industrial robotics and deep reinforcement learning",
+    "url": "https://www.osaro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "OSARO CEO and Founder Derik Pridmore talks about industrial robotics and deep reinforcement learning at O'Reilly 2017 Artificial Intelligence conference in San Francisco.",
+    "url": "https://www.osaro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by fulfillment leaders around the globe.",
+    "url": "https://www.osaro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "OSARO began with a vision: to bring adaptable, AI-powered robotics into the real world. Our team blends deep expertise in AI, machine learning, and control systems with hands-on deployment in global warehouses.",
+    "url": "https://www.osaro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re not just imagining the warehouse of the future — we’re building it. And today, our systems are already shaping what’s next in fulfillment.",
+    "url": "https://www.osaro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering the Future of Warehouse Robotics",
+    "url": "https://www.osaro.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Our systems aren’t lab demos — they run in live warehouses across the globe every day. OSARO’s AI is engineered for real-world variability, from mixed SKUs to constantly changing case configurations. We design for uptime, throughput, and measurable ROI, because operational performance matters more than flashy prototypes.",
+    "url": "https://www.osaro.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "OSARO began with a vision: to bring adaptable, AI-powered robotics into the real world. Our team blends deep expertise in AI, machine learning, and control systems with hands-on deployment in global warehouses.",
+    "url": "https://www.osaro.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We’re not just imagining the warehouse of the future — we’re building it. And today, our systems are already shaping what’s next in fulfillment.",
+    "url": "https://www.osaro.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "In today’s warehouses, the only constant is change. New products, shifting demand, and unpredictable returns put strain on traditional automation systems. SightWorks™ was built to thrive in this environment — eliminating SKU onboarding, adapting to evolving processes, and getting smarter with every pick.",
+    "url": "https://www.osaro.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Depalletizing is one of the toughest tasks in warehouse automation — and OSARO’s solution is built to meet that challenge.",
+    "url": "https://www.osaro.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Download the Zenni Optical Case Study",
+    "url": "https://marketing.osaro.com/download-the-zenni-optical-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Download the Zenni Optical case study to learn more.",
+    "url": "https://marketing.osaro.com/download-the-zenni-optical-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Download the case study now.",
+    "url": "https://marketing.osaro.com/download-the-zenni-optical-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Robotics Drives Productivity and Accuracy at Zenni: Case Study",
+    "url": "https://marketing.osaro.com/robotics-drives-productivity-zenni-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Download the case study today.",
+    "url": "https://marketing.osaro.com/robotics-drives-productivity-zenni-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Download the case study to learn more.",
+    "url": "https://marketing.osaro.com/robotics-drives-productivity-zenni-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Innovation Fund at Amazon",
+    "url": "https://www.gritt.io/company/osaroinc/",
+    "pass": 3
+   },
+   {
+    "quote": "On February 21, 2024, US-based Osaro announced the \"Osaro Robotic Depalletization System,\" designed to efficiently unload mixed-load pallets in e-commerce fulfillment and warehouse management.",
+    "url": "https://note.com/robizy/n/naa25acc379ca?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Depalletization using the Osaro Robotic Depalletization System is expected to minimize injuries and product damage, optimize warehouse operations, and significantly reduce the economic burden associated with injury risks, which the Occupational Safety and Health Administration (OSHA) estimates at up to $54 billion annually.",
+    "url": "https://note.com/robizy/n/naa25acc379ca?hl=en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "OSARO's Products and Services may be covered by one or more of the following patents owned by OSARO Inc.",
+    "url": "https://www.osaro.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "👥 60 employees",
+    "url": "https://www.gritt.io/company/osaroinc/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "ロボットAI OSARO｜イノテック株式会社",
+    "url": "https://www.innotech.co.jp/products/osaro.html",
+    "pass": 3
+   },
+   {
+    "quote": "AMR×ピッキングロボ実証|日本海事新聞 電子版",
+    "url": "https://www.jmd.co.jp/article.php?no=275207",
+    "pass": 3
+   },
+   {
+    "quote": "鴻池運輸は21日、米AI（人工知能）スタートアップ企業OSARO（オサロ）の日本法人（オサロ、本社・東京都千代田区、デリック・プリッドモア代表取締役）と、ピッキングロボットとAMR（自律走行搬送ロボット）を連携させ、倉庫内の移動からピッキングまでの一連の作業を自動化する実証実験を始めたと発表した",
+    "url": "https://www.jmd.co.jp/article.php?no=275207",
+    "pass": 3
+   },
+   {
+    "quote": "6月までの約6カ月間、東京都品川区の鴻池技術研究所イノベーションセンター（技研IC）で実験を行う",
+    "url": "https://www.jmd.co.jp/article.php?no=275207",
+    "pass": 3
+   },
+   {
+    "quote": "OSARO systems are compatible with various robots, sensors and existing integrator workflows for scalable, fault-tolerant robotic deployments. The company’s cloud-based data and GPU infrastructure is designed for the most flexible, intelligent picking system on the market. OSARO began deploying its first solution, OSARO Pick, in Japan in early 2018.",
+    "url": "https://markcubancompanies.com/companies/osaro/",
+    "pass": 3
+   },
+   {
+    "quote": "OSARO employs a diverse & talented team of experts in the specialized field of machine and deep learning. Our core values are integrity, responsibility, focus on continuous learning, speed and determination, and kirei, a Japanese term meaning brilliant. Our team is dedicated to building these core values into our products.",
+    "url": "https://www.gritt.io/company/osaroinc/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "OSARO® | Revolutionizing Warehouse Automation — OSARO's robotic piece-picking solution is designed for high-mix, high-variability fulfillment environments where inventory, packaging, and demand are constantly changing.",
+    "url": "https://www.osaro.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットAI OSARO｜イノテック株式会社 — イノテック株式会社のロボットAI OSAROの物流倉庫・工場ロボットオートメーションサービスを紹介するページです。",
+    "url": "https://www.innotech.co.jp/products/osaro.html",
+    "pass": 3
+   },
+   {
+    "quote": "コグネックスバーコードリーダを使用したOSAROのZenni Optical流通プ... — OSAROの使命は、よりスマートな自動化、低リスクのアプローチ、顧客への行き届いた対応を通じて、これらのジレンマを解決することです。 OSAROの顧客であるZenni Opticalは、独自の課題を抱えていました。",
+    "url": "https://www.cognex.com/ja/why-cognex/customer-success-stories/how-osaro-automated-zenni-opticals-distribution-process-with-cognex-barcode-readers",
+    "pass": 3
+   },
+   {
+    "quote": "鴻池運輸、米OSAROと協業。AMR×ピッキングロボ実証|日本海事新聞 電子... — Feb 24, 2022 · 鴻池運輸は21日、米AI（人工知能）スタートアップ企業OSARO（オサロ）の日本法人（オサロ、本社・東京都千代田区、デリック・プリッドモア代表取締役）と、ピッキングロボットとAMR（自律走行搬送ロボット）を連携させ、倉庫内の移動からピッキングまで ...",
+    "url": "https://www.jmd.co.jp/article.php?no=275207",
+    "pass": 3
+   },
+   {
+    "quote": "「鴻池運輸と OSARO、ピッキングロボと AMR の連携による国内初の倉庫... — 「鴻池運輸と OSARO、ピッキングロボと AMR の連携による国内初の倉庫自動化オペレーションの共同実験を開始」 当社と OSARO 合同会社は、鴻池技術研究所イノベーションセンターにおいて、2022 年 1 月より約 6 カ月間、透明・変形・反射・不定形な形状の商品にも対応可能なピッキングロボットと ...",
+    "url": "https://www.konoike.net/news/news_file/file/2022022100.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "OSARO | About Us — OSARO has been advancing AI-driven robotics for over 10 years. In an industry where competitors emerge and disappear just as quickly, we’ve remained focused, resilient, and committed to long-term progress. Our longevity reflects disciplined execution, deep technical expertise, and a company built for staying power — not short-term hype.",
+    "url": "https://www.osaro.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Osaro - Mark Cuban Companies — OSARO systems are compatible with various robots, sensors and existing integrator workflows for scalable, fault-tolerant robotic deployments. The company’s cloud-based data and GPU infrastructure is designed for the most flexible, intelligent picking system on the market. OSARO began deploying its first solution, OSARO Pick, in Japan in early ...",
+    "url": "https://markcubancompanies.com/companies/osaro/",
+    "pass": 3
+   },
+   {
+    "quote": "OSARO Corporate Brochure — OSARO provides advanced, AI-based robotics piece-picking solutions for e-commerce and logistics operations.",
+    "url": "https://marketing.osaro.com/corporate-brochure",
+    "pass": 3
+   },
+   {
+    "quote": "Download the Zenni Optical Case Study - OSARO — Zenni Optical chose OSARO to automate its fulfillment ensuring accuracy and a quality customer experience. OSARO completed a robotic deployment that delivered an 80% increase in productivity — and created a process with 99.9% accuracy. Download the Zenni Optical case study to learn more.",
+    "url": "https://marketing.osaro.com/download-the-zenni-optical-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Robotics Drives Productivity and Accuracy at Zenni: Case Study — Robotics Drives Productivity and Accuracy at Zenni OSARO's solution helped Zenni Optical achieve 80% throughput and 99.9% accuracy.",
+    "url": "https://marketing.osaro.com/robotics-drives-productivity-zenni-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "OSARO B2B Case Studies & Customer Successes — See how OSARO solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/osaro",
+    "pass": 3
+   },
+   {
+    "quote": "How OSARO Automated Zenni Optical’s Distribution ... - Cognex — OSARO’s retail logistics customers face a triple dilemma of labor shortages, high demand, and high consumer expectations. OSARO’s mission is to solve those dilemmas through smarter automation, a low-risk approach, and strong customer care. One of OSARO’s customers, Zenni Optical, had a unique challenge.",
+    "url": "https://www.cognex.com/en/why-cognex/customer-success-stories/how-osaro-automated-zenni-opticals-distribution-process-with-cognex-barcode-readers",
+    "pass": 3
+   },
+   {
+    "quote": "OSARO® | Revolutionizing Warehouse Automation — OSARO Robotic Depalletization OSARO brings speed and accuracy to mixed-case depalletizing, solving the complexity of variable packaging, sizes, and orientations with intelligent robotics.",
+    "url": "https://www.osaro.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Osaro 2026 Company Profile: Valuation, Funding & Investors ...Osaro - 2026 Company Profile, Team, Funding & Competitors ...Osaro – Financial Footprint & Growth Factors – 2026OSARO — investors & funding | gritt.ioOsaro: Funding, Team & Investors | Startup IntrosOsaro Team - Founder Profile, Funding & Hiring | 100XfounderOsaro - Robotics - $79M Raised | StartupHub.ai — Osaro FAQs When was Osaro foun",
+    "url": "https://pitchbook.com/profiles/company/139907-71",
+    "pass": 3
+   },
+   {
+    "quote": "Osaro - 2026 Company Profile, Team, Funding & Competitors ...Osaro – Financial Footprint & Growth Factors – 2026OSARO — investors & funding | gritt.ioOsaro: Funding, Team & Investors | Startup IntrosOsaro Team - Founder Profile, Funding & Hiring | 100XfounderOsaro - Robotics - $79M Raised | StartupHub.ai — Jun 4, 2026 · Osaro is a series C company based in San Francisco (United States), founded in",
+    "url": "https://tracxn.com/d/companies/osaro/__Uiw5jimqvevzJrVDyYMhKxkUDJsZq-tDrqBAZUYUXxs",
+    "pass": 3
+   },
+   {
+    "quote": "Osaro – Financial Footprint & Growth Factors – 2026 — Discover Osaro's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/osaro",
+    "pass": 3
+   },
+   {
+    "quote": "OSARO — investors & funding | gritt.io — Who invested in OSARO? OSARO has 4 investors on record on gritt.io, including 3 early-stage backers and 1 late-stage investors. When did OSARO last raise funding? The most recent investment in OSARO recorded on gritt.io was in May 2021. When was OSARO founded? OSARO was founded in 2015.",
+    "url": "https://www.gritt.io/company/osaroinc/",
+    "pass": 3
+   },
+   {
+    "quote": "Osaro: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Osaro was founded in 2015 by CEO Derik Pridmore and a team with expertise in AI, machine learning, and control systems, initially based in Sacramento, California, before moving headquarters to San Francisco.",
+    "url": "https://startupintros.com/orgs/osaro",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "US-based Osaro announces AI-powered depalletization robot for ... Mar 10, 2024 · On February 21, 2024, US-based Osaro announced the \"Osaro Robotic Depalletization System,\" designed to efficiently unload mixed-load pallets in e-commerce fulfillment and warehouse management. Equipped with precise perception technology to recognize and grasp items of various sizes and materials",
+    "url": "https://note.com/robizy/n/naa25acc379ca?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "米Osaro社､eコマース向けAIを搭載したデパレタイズロボットを発表 Mar 10, 2024 · 2024年2月21日、米Osaro社は、eコマースフルフィルメントや倉庫管理で混載パレットを効率的に荷降ろしするために設計された「Osaro Robotic Depalletization System」を発表した。 精密な知覚技術を搭載し、様々なサイズや材質の荷物を認識・把持し、異物や破損した箱を検知して安全性を高める同 ...",
+    "url": "https://note.com/robizy/n/naa25acc379ca",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "US-based Osaro announces AI-powered depalletization robot for e-commerce｜NPO法人ロボットビジネス支援機構",
+    "url": "https://note.com/robizy/n/naa25acc379ca?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "US-based Osaro announces AI-powered depalletization robot for e-commerce",
+    "url": "https://note.com/robizy/n/naa25acc379ca?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "On February 21, 2024, US-based Osaro announced the \"Osaro Robotic Depalletization System,\" designed to efficiently unload mixed-load pallets in e-commerce fulfillment and warehouse management.",
+    "url": "https://note.com/robizy/n/naa25acc379ca?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Equipped with precise perception technology to recognize and grasp items of various sizes and materials, and capable of detecting foreign objects and damaged boxes to enhance safety, the system is ready for immediate use in 3PL operations, distribution centers, and e-commerce warehouses, improving efficiency while reducing labor costs and inventory. Furthermore, by quickly determining the angle of",
+    "url": "https://note.com/robizy/n/naa25acc379ca?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Depalletization using the Osaro Robotic Depalletization System is expected to minimize injuries and product damage, optimize warehouse operations, and significantly reduce the economic burden associated with injury risks, which the Occupational Safety and Health Administration (OSHA) estimates at up to $54 billion annually.",
+    "url": "https://note.com/robizy/n/naa25acc379ca?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "February 12, 2024 Osaro Press Release",
+    "url": "https://note.com/robizy/n/naa25acc379ca?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "https://osaro.com/resources/osaro-debuts-ai-powered-robotics-for-mixed-case-depalletization",
+    "url": "https://note.com/robizy/n/naa25acc379ca?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "February 22, 2024 Robotics & Automation",
+    "url": "https://note.com/robizy/n/naa25acc379ca?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "米Osaro社､eコマース向けAIを搭載したデパレタイズロボットを発表｜NPO法人ロボットビジネス支援機構",
+    "url": "https://note.com/robizy/n/naa25acc379ca",
+    "pass": 3
+   },
+   {
+    "quote": "米Osaro社､eコマース向けAIを搭載したデパレタイズロボットを発表",
+    "url": "https://note.com/robizy/n/naa25acc379ca",
+    "pass": 3
+   },
+   {
+    "quote": "2024年2月21日、米Osaro社は、eコマースフルフィルメントや倉庫管理で混載パレットを効率的に荷降ろしするために設計された「Osaro Robotic Depalletization System」を発表した。",
+    "url": "https://note.com/robizy/n/naa25acc379ca",
+    "pass": 3
+   },
+   {
+    "quote": "精密な知覚技術を搭載し、様々なサイズや材質の荷物を認識・把持し、異物や破損した箱を検知して安全性を高める同システムは、3PL業務、配送センター、eコマース倉庫ですぐに利用でき、効率を向上させて人件費と在庫を削減。また、ケースの角度を素早く判断し、適切なエンドオブアームツールを選択するため、人による手作業と比較して最大40％のコスト削減に貢献するとしている。",
+    "url": "https://note.com/robizy/n/naa25acc379ca",
+    "pass": 3
+   },
+   {
+    "quote": "Osaro Robotic Depalletization Systemによるデパレタイゼーションは、怪我や製品へのダメージを最小限に抑え、倉庫作業を最適化し、労働安全衛生庁（OSHA）が年間最大540億ドルと推定する負傷のリスクと関連する経済的負担を大幅に軽減すると期待される。",
+    "url": "https://note.com/robizy/n/naa25acc379ca",
+    "pass": 3
+   },
+   {
+    "quote": "2024年2月12日付 Osaro Press Release（英語）",
+    "url": "https://note.com/robizy/n/naa25acc379ca",
+    "pass": 3
+   },
+   {
+    "quote": "https://osaro.com/resources/osaro-debuts-ai-powered-robotics-for-mixed-case-depalletization",
+    "url": "https://note.com/robizy/n/naa25acc379ca",
+    "pass": 3
+   },
+   {
+    "quote": "2024年2月22日付 Robotics & Automation（英語）",
+    "url": "https://note.com/robizy/n/naa25acc379ca",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "OSARO (@OSARO) / Posts / X OSARO. OSARO. Joined: May 15, 2008. 3 Posts. 0 Following. 16 Followers. Posts. OSARO. OSARO. 0. May 16. hill. 💬 1",
+    "url": "https://x.com/OSARO",
+    "pass": 3
+   },
+   {
+    "quote": "OSARO (@OsaroAI) / X Machine Learning for e-commerce fulfillment - OSARO software enables piece-picking robots to perform diverse warehouse tasks previously managed only by humans.",
+    "url": "https://x.com/osaroAI",
+    "pass": 3
+   },
+   {
+    "quote": "osaro (@osaro32) / X osaro 1,258 posts osaro @osaro32 Stunner 🍁, FC 🦅, iyoo cartel💙 Joined June 2022 397 Following",
+    "url": "https://x.com/osaro32",
+    "pass": 3
+   },
+   {
+    "quote": "OSARO ️ (@colormeangi) / Posts / X OSARO ️ (@colormeangi) - Posts - blogger, content creator, PR personnel and a great communicator. | X (formerly Twitter)",
+    "url": "https://x.com/colormeangi",
+    "pass": 3
+   },
+   {
+    "quote": "OSARO (@OSARO) / Posts / X May 15, 2008 · OSARO. OSARO. Joined: May 15, 2008. 3 Posts. 0 Following. 16 Followers. Posts. OSARO. OSARO. 0. May 16. hill. 💬 1",
+    "url": "https://x.com/OSARO",
+    "pass": 3
+   },
+   {
+    "quote": "osaro (@osaro32) / X Happy Green’s day! 🍃🥬🙂↔️ 1 152 osaro @osaro32 Aug 24, 2024 Imagine pesin snap u and wizkid with such filter lol. blud go flow sha",
+    "url": "https://x.com/osaro32",
+    "pass": 3
+   },
+   {
+    "quote": "J A OSARO on X: \"Here we go again\" / X - x.com J A OSARO on X: \"Here we go again\" / X",
+    "url": "https://x.com/Osaro001/status/2117249706333987076",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "OSARO - LinkedIn OSARO | 7,764 followers on LinkedIn. Smarter Robots, Smarter Supply Chain | OSARO delivers best-in-class robotic piece-picking solutions for e-commerce where key challenges include high SKU ...",
+    "url": "https://www.linkedin.com/company/osaroinc",
+    "pass": 3
+   },
+   {
+    "quote": "Gemma Ross - VP of Operations at OSARO, Inc. | LinkedInOsaro Otobo - Global Keynote Speaker | Strategic ... - LinkedInOsaro A. - Enterprise Transformation Advisor | SAP & PMO ...Amen Osaro-Osaghae - Creative | Fashion & Football Culture ...Osaro Edosomwan - CEO at Smart Routing System ...Osaro Ehigiamusoe, PMP® - Energy Transition Leadership ... VP of Operations at OSARO, Inc. · A leader in Roboti",
+    "url": "https://www.linkedin.com/in/gemmakross",
+    "pass": 3
+   },
+   {
+    "quote": "Osaro Otobo - Global Keynote Speaker | Strategic ... - LinkedInOsaro A. - Enterprise Transformation Advisor | SAP & PMO ...Amen Osaro-Osaghae - Creative | Fashion & Football Culture ...Osaro Edosomwan - CEO at Smart Routing System ...Osaro Ehigiamusoe, PMP® - Energy Transition Leadership ... Osaro is an award-winning international Strategic Transformation and Motivational Speaker. With expertise i",
+    "url": "https://uk.linkedin.com/in/osarootobo",
+    "pass": 3
+   },
+   {
+    "quote": "Osaro A. - Enterprise Transformation Advisor | SAP & PMO ...Amen Osaro-Osaghae - Creative | Fashion & Football Culture ...Osaro Edosomwan - CEO at Smart Routing System ...Osaro Ehigiamusoe, PMP® - Energy Transition Leadership ... Enterprise Transformation Advisor | SAP & PMO Governance Specialist | Delivering Executive Visibility, PMO Stabilization & Delivery Predictability · Enterprise Transforma",
+    "url": "https://ca.linkedin.com/in/osaro-aigbede-m-eng-pgmp-pmp-pmi-acp-csm",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "OSARO - FacebookOsaro Profiles - FacebookOsaro / Dance2Dance - FacebookOsaro William Osaro - FacebookOsaro Tessy - FacebookOsaro Osula - FacebookOsaro Erhabor - Facebook Dec 23, 2021 · OSARO. 359 followers · 1 talking about this · 1 was here. OSARO is AI for industrial automation. In essence, OSARO’s software enables industrial robots to perform diverse tasks in a wide range of... View the profile",
+    "url": "https://www.facebook.com/OsaroAI/",
+    "pass": 3
+   },
+   {
+    "quote": "Osaro Profiles - Facebook View the profiles of people named Osaro. Join Facebook to connect with Osaro and others you may know. Facebook gives people the power to share and makes...",
+    "url": "https://www.facebook.com/public/Osaro/",
+    "pass": 3
+   },
+   {
+    "quote": "Osaro / Dance2Dance - Facebook Jul 30, 2026 · I am looking forward to this Saturday again ️😍 ️🎉. #osaro #brighton #slogantee #tshirt #slogantees What a day at Worthing Pride! 🌈 ️ Thank you to everyone who made it such a joyful celebration of love, community and togetherness. It was a privilege to be part of something so special.",
+    "url": "https://www.facebook.com/osaro69/",
+    "pass": 3
+   },
+   {
+    "quote": "Osaro William Osaro - Facebook Osaro William Osaro is on Facebook. Join Facebook to connect with Osaro William Osaro and others you may know. Facebook gives people the power to share and makes the world more open and connected.",
+    "url": "https://www.facebook.com/osarowilliam.osaro/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.osaro.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osaro.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osaro.com/solutions",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/68701c86565deda53fa2f1b0/688d0e08d6252e4bbc0fe0ca_homa-appliances-_XDK4naBbgw-unsplash.avif",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.osaro.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.innotech.co.jp/products/osaro.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cognex.com/ja/why-cognex/customer-success-stories/how-osaro-automated-zenni-opticals-distribution-process-with-cognex-barcode-readers",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jmd.co.jp/article.php?no=275207",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%8D%94%E5%92%8C%E5%95%86%E4%BA%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://context.reverso.net/%E7%BF%BB%E8%A8%B3/%E6%97%A5%E6%9C%AC%E8%AA%9E-%E8%8B%B1%E8%AA%9E/%E7%B7%8F%E4%BB%A3%E7%90%86%E5%BA%97",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osaro.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.innotech.co.jp/products/osaro.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osaro.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markcubancompanies.com/companies/osaro/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketing.osaro.com/download-the-zenni-optical-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketing.osaro.com/robotics-drives-productivity-zenni-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/osaro",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cognex.com/en/why-cognex/customer-success-stories/how-osaro-automated-zenni-opticals-distribution-process-with-cognex-barcode-readers",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/139907-71",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/osaro/__Uiw5jimqvevzJrVDyYMhKxkUDJsZq-tDrqBAZUYUXxs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://compworth.com/company/osaro",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gritt.io/company/osaroinc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/robizy/n/naa25acc379ca?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/robizy/n/naa25acc379ca",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/OSARO",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/osaroAI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/osaro32",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/colormeangi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/osaroinc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/gemmakross",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/osarootobo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/osaro-aigbede-m-eng-pgmp-pmp-pmi-acp-csm",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/OsaroAI/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/public/Osaro/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/osaro69/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/osarowilliam.osaro/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/OSARO",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/osaro32",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Osaro001/status/2117249706333987076",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Osaro 日本 導入",
+   "results": [
+    "https://www.osaro.com/",
+    "https://www.innotech.co.jp/products/osaro.html",
+    "https://www.cognex.com/ja/why-cognex/customer-success-stories/how-osaro-automated-zenni-opticals-distribution-process-with-cognex-barcode-readers",
+    "https://www.jmd.co.jp/article.php?no=275207",
+    "https://www.konoike.net/news/news_file/file/2022022100.pdf",
+    "https://www.osaro.com/blog/a-robotic-first-in-japan",
+    "https://www.forkliftaction.com/news/ihi-brings-osaro-to-japan.aspx?n=28998"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Osaro 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/協和商事",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://context.reverso.net/翻訳/日本語-英語/総代理店",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://biz.toyokeizai.net/data/service/detail/id=418"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Osaro Japan",
+   "results": [
+    "https://www.osaro.com/",
+    "https://www.innotech.co.jp/products/osaro.html",
+    "https://www.osaro.com/about",
+    "https://markcubancompanies.com/companies/osaro/",
+    "https://marketing.osaro.com/corporate-brochure",
+    "https://www.omnilinks-group.com/case-study/how-we-helped-osaro-expand-in-japan-via-key-distributors",
+    "https://www.forkliftaction.com/news/ihi-brings-osaro-to-japan.aspx?n=28998"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Osaro manufacturing customer case study",
+   "results": [
+    "https://marketing.osaro.com/download-the-zenni-optical-case-study",
+    "https://marketing.osaro.com/robotics-drives-productivity-zenni-case-study",
+    "https://www.casestudies.com/company/osaro",
+    "https://www.cognex.com/en/why-cognex/customer-success-stories/how-osaro-automated-zenni-opticals-distribution-process-with-cognex-barcode-readers",
+    "https://www.osaro.com/",
+    "https://fernfortuniversity.com/essay/entrepreneurship_case/osaro-picking-best-path-216",
+    "https://www.fanucamerica.com/case-studies/how-zenni-optical-built-a-faster-smarter-more-scalable-fulfillment-line"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Osaro white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.superantispyware.com/reseller-program"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Osaro founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/139907-71",
+    "https://tracxn.com/d/companies/osaro/__Uiw5jimqvevzJrVDyYMhKxkUDJsZq-tDrqBAZUYUXxs",
+    "https://compworth.com/company/osaro",
+    "https://www.gritt.io/company/osaroinc/",
+    "https://startupintros.com/orgs/osaro",
+    "https://100xfounder.com/founders/osaro-team-osaro",
+    "https://www.startuphub.ai/startups/osaro"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Osaro",
+   "results": [
+    "https://note.com/robizy/n/naa25acc379ca?hl=en",
+    "https://note.com/robizy/n/naa25acc379ca",
+    "https://note.com/ko_heihe_i/n/ncf902f253a90",
+    "https://note.com/seigo77",
+    "https://note.com/tag/ポケカ",
+    "https://note.com/wildriverpeace",
+    "https://note.com/watarutida/m/meef47a7cc358"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Osaro",
+   "results": [
+    "https://x.com/OSARO",
+    "https://x.com/osaroAI",
+    "https://x.com/osaro32",
+    "https://x.com/colormeangi",
+    "https://x.com/OSARO08",
+    "https://x.com/osaroosamagie",
+    "https://x.com/OfficiaEdoOsasB"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Osaro",
+   "results": [
+    "https://www.linkedin.com/company/osaroinc",
+    "https://www.linkedin.com/in/gemmakross",
+    "https://uk.linkedin.com/in/osarootobo",
+    "https://ca.linkedin.com/in/osaro-aigbede-m-eng-pgmp-pmp-pmi-acp-csm",
+    "https://uk.linkedin.com/in/amenosaro",
+    "https://ng.linkedin.com/in/osaro84",
+    "https://ca.linkedin.com/in/osae"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Osaro",
+   "results": [
+    "https://www.facebook.com/OsaroAI/",
+    "https://www.facebook.com/public/Osaro/",
+    "https://www.facebook.com/osaro69/",
+    "https://www.facebook.com/osarowilliam.osaro/",
+    "https://www.facebook.com/p/Osaro-Tessy-61594777227089/",
+    "https://www.facebook.com/osaro.osula/",
+    "https://www.facebook.com/osaro.erhabor/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Osaro note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.com/osiro_sugiyama",
+    "https://ir.note.jp/message",
+    "https://www.buffett-code.com/company/5243/governance",
+    "https://kitaishihon.com/company/5243/board-of-director"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Osaro X 投稿",
+   "results": [
+    "https://x.com/OSARO",
+    "https://x.com/osaro32",
+    "https://x.com/Osaro001/status/2117249706333987076",
+    "https://www.instagram.com/osaro.x/",
+    "https://www.instagram.com/osaro_x/",
+    "https://x.com/OSara_kw/status/2119021157307564083",
+    "https://search.yahoo.co.jp/realtime/search/投稿/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部41頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部41頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部41頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部41頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部41頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部41頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部41頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部41頁・検索12回）"
+ }
+}

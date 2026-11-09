@@ -1,0 +1,1408 @@
+{
+ "name": "Prolific",
+ "aliases": [],
+ "context": "旧営業リスト｜Education / Childcare｜未接触",
+ "researched_at": "2026-11-09T22:32:53.861102+00:00",
+ "official_url": "https://www.prolific.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Prolific | Easily collect high-quality data from real people",
+    "url": "https://www.prolific.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Human feedback from representative populations - for preference tuning, safety evals, and benchmarks you can defend.",
+    "url": "https://www.prolific.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How customers use Prolific",
+    "url": "https://www.prolific.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The HUMAINE framework - Unpacking human preference for LLMs",
+    "url": "https://www.prolific.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The evaluation of large language models faces significant challenges. Technical benchmarks often lack real-world relevance, while existing human preference evaluations suffer from unrepresentative sampling, superficial assessment depth, and single-metric reductionism.",
+    "url": "https://www.prolific.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ai2 reduced human data collection from weeks to hours with Prolific, building state-of-the-art multimodal AI models faster without sacrificing quality.",
+    "url": "https://www.prolific.com/",
+    "pass": 1
+   },
+   {
+    "quote": "High-quality insights from Prolific participants enabled researchers at an Ivy League university to explore how people make choices when fighting climate change.",
+    "url": "https://www.prolific.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Collective Intelligence Project used Prolific to bring voices from 70+ countries into the heart of AI governance.",
+    "url": "https://www.prolific.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How an AI company accelerated factuality testing by 10x | Prolific",
+    "url": "https://www.prolific.com/resources/how-a-leading-ai-company-accelerated-factuality-testing-by-10x-with-prolific",
+    "pass": 1
+   },
+   {
+    "quote": "How a leading AI company accelerated factuality testing by 10x with Prolific",
+    "url": "https://www.prolific.com/resources/how-a-leading-ai-company-accelerated-factuality-testing-by-10x-with-prolific",
+    "pass": 1
+   },
+   {
+    "quote": "A leading AI company needed a way to test powerful language models for factual accuracy - in hours, with thousands of evaluators. Prolific's",
+    "url": "https://www.prolific.com/resources/how-a-leading-ai-company-accelerated-factuality-testing-by-10x-with-prolific",
+    "pass": 1
+   },
+   {
+    "quote": "made it possible. The team built a bespoke infrastructure and turned a major bottleneck into a fast, repeatable process that sped up development by 10x.",
+    "url": "https://www.prolific.com/resources/how-a-leading-ai-company-accelerated-factuality-testing-by-10x-with-prolific",
+    "pass": 1
+   },
+   {
+    "quote": "Challenge: Fast, precise factuality testing at scale",
+    "url": "https://www.prolific.com/resources/how-a-leading-ai-company-accelerated-factuality-testing-by-10x-with-prolific",
+    "pass": 1
+   },
+   {
+    "quote": "AI research scientists at a leading tech giant were developing language models that were becoming more powerful by the day. These models were approaching human-level performance in complex reasoning tasks.",
+    "url": "https://www.prolific.com/resources/how-a-leading-ai-company-accelerated-factuality-testing-by-10x-with-prolific",
+    "pass": 1
+   },
+   {
+    "quote": "As the models grew more sophisticated, they presented a common challenge. They could generate information that sounded very plausible - but was incorrect. How do you ensure generated content is factually accurate and grounded in reliable sources?",
+    "url": "https://www.prolific.com/resources/how-a-leading-ai-company-accelerated-factuality-testing-by-10x-with-prolific",
+    "pass": 1
+   },
+   {
+    "quote": "To catch these nuanced errors, the researchers needed to evaluate thousands of model outputs every day before each new iteration. But standard approaches weren't fast enough for their ambitious development timeline.",
+    "url": "https://www.prolific.com/resources/how-a-leading-ai-company-accelerated-factuality-testing-by-10x-with-prolific",
+    "pass": 1
+   },
+   {
+    "quote": "The demands of this project were unique. So, Prolific's Managed Services team worked with the company to build an infrastructure tailored to their needs.",
+    "url": "https://www.prolific.com/resources/how-a-leading-ai-company-accelerated-factuality-testing-by-10x-with-prolific",
+    "pass": 1
+   },
+   {
+    "quote": "First, they tapped into Prolific’s pool of thousands of",
+    "url": "https://www.prolific.com/resources/how-a-leading-ai-company-accelerated-factuality-testing-by-10x-with-prolific",
+    "pass": 1
+   },
+   {
+    "quote": ". These specialist participants had already shown strong performance in Prolific's own factuality assessments.",
+    "url": "https://www.prolific.com/resources/how-a-leading-ai-company-accelerated-factuality-testing-by-10x-with-prolific",
+    "pass": 1
+   },
+   {
+    "quote": "The services team used weekly feedback cycles to raise quality even further, sharing performance insights directly with AI Taskers. They also delivered targeted training programmes aligned to the task types and project goals.",
+    "url": "https://www.prolific.com/resources/how-a-leading-ai-company-accelerated-factuality-testing-by-10x-with-prolific",
+    "pass": 1
+   },
+   {
+    "quote": "This created a continuous improvement loop. As a result, data quality increased each week to match the model’s growing complexity.",
+    "url": "https://www.prolific.com/resources/how-a-leading-ai-company-accelerated-factuality-testing-by-10x-with-prolific",
+    "pass": 1
+   },
+   {
+    "quote": "Prolific's API-first platform allowed the team to integrate with their data collection platform. This made it much easier to push and deploy fresh tasks to the evaluation pipeline. Time-to-data reduced to hours, enabling rapid iteration.",
+    "url": "https://www.prolific.com/resources/how-a-leading-ai-company-accelerated-factuality-testing-by-10x-with-prolific",
+    "pass": 1
+   },
+   {
+    "quote": "To run thousands of evaluations every day across 1,000+ AI Taskers, the researchers needed more than just software. Prolific’s infrastructure and experienced services team brought the human oversight they needed to make it work.",
+    "url": "https://www.prolific.com/resources/how-a-leading-ai-company-accelerated-factuality-testing-by-10x-with-prolific",
+    "pass": 1
+   },
+   {
+    "quote": "Over the course of three months, the team collected 180,000 high-quality evaluations. This enabled them to find subtle factual errors that had consistently slipped past automated checks and reveal systematic error patterns. With this insight, they could refine their models and improve factual responses to user queries.",
+    "url": "https://www.prolific.com/resources/how-a-leading-ai-company-accelerated-factuality-testing-by-10x-with-prolific",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive coverage:",
+    "url": "https://www.prolific.com/resources/how-a-leading-ai-company-accelerated-factuality-testing-by-10x-with-prolific",
+    "pass": 1
+   },
+   {
+    "quote": "The researchers now have reliable, on-demand access to skilled human evaluation and can maintain a fast development cycle. What had once been a bottleneck became a scalable, repeatable process, enabling quicker product iterations and more confident deployment decisions.",
+    "url": "https://www.prolific.com/resources/how-a-leading-ai-company-accelerated-factuality-testing-by-10x-with-prolific",
+    "pass": 1
+   },
+   {
+    "quote": "Need rapid evaluation from real people to improve your AI models? Prolific makes it easy to access the expertise and specialized AI taskers you need to evaluate sophisticated models - rigorously and at speed.",
+    "url": "https://www.prolific.com/resources/how-a-leading-ai-company-accelerated-factuality-testing-by-10x-with-prolific",
+    "pass": 1
+   },
+   {
+    "quote": "What Prolific's Future Fifty recognition says about where AI still needs people",
+    "url": "https://www.prolific.com/resources/how-a-leading-ai-company-accelerated-factuality-testing-by-10x-with-prolific",
+    "pass": 1
+   },
+   {
+    "quote": "RL environments for agentic AI: The 2026 guide to building and deploying enterprise RL environments",
+    "url": "https://www.prolific.com/resources/how-a-leading-ai-company-accelerated-factuality-testing-by-10x-with-prolific",
+    "pass": 1
+   },
+   {
+    "quote": "Why the researchers at Cohere and Princeton think AI learns by forgetting",
+    "url": "https://www.prolific.com/resources/how-a-leading-ai-company-accelerated-factuality-testing-by-10x-with-prolific",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study | Changing Opinions On The Climate Crisis | Prolific",
+    "url": "https://www.prolific.com/resources/how-researchers-ran-a-complex-study-to-change-opinions-about-the-climate-crisis",
+    "pass": 1
+   },
+   {
+    "quote": "Researchers at a major Ivy League university collaborated on this research project to investigate possible pathways to changing people’s beliefs about climate change. The research team aimed to answer the question: what happens when false beliefs come with a tangible cost?",
+    "url": "https://www.prolific.com/resources/how-researchers-ran-a-complex-study-to-change-opinions-about-the-climate-crisis",
+    "pass": 1
+   },
+   {
+    "quote": "1,005 respondents began the research, and 667 completed the entire study - a retention rate of 66%. This relatively low drop-off rate for such a long and involved study shows that the respondents were highly engaged and committed throughout the study.",
+    "url": "https://www.prolific.com/resources/how-researchers-ran-a-complex-study-to-change-opinions-about-the-climate-crisis",
+    "pass": 1
+   },
+   {
+    "quote": "What’s New: Edit live studies, run frame specific video evals and more",
+    "url": "https://www.prolific.com/resources/how-researchers-ran-a-complex-study-to-change-opinions-about-the-climate-crisis",
+    "pass": 1
+   },
+   {
+    "quote": "Prolific Pricing | Platform & managed services | Prolific",
+    "url": "https://www.prolific.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Representative and quota samples",
+    "url": "https://www.prolific.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Participant training and onboarding",
+    "url": "https://www.prolific.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Dedicated project team",
+    "url": "https://www.prolific.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Estimate your platform pricing",
+    "url": "https://www.prolific.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "For managed services pricing,",
+    "url": "https://www.prolific.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "End-to-end data collection for training and evaluation. From RLHF to domain-specific benchmarks, we handle the complexity while you focus on model development.",
+    "url": "https://www.prolific.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Expert-led research delivery from design to analysis. Whether it's longitudinal studies or specialized participant recruitment, we ensure rigorous, publication-ready results.",
+    "url": "https://www.prolific.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Access a growing network of verified specialists across STEM, healthcare, programming, and more. Available through our platform or fully managed by our team.",
+    "url": "https://www.prolific.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Robust human evaluation for AI models and research. From preference ranking to factuality checking, get the reliable feedback you need to improve and validate.",
+    "url": "https://www.prolific.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "What is Prolific? How does it work?",
+    "url": "https://www.prolific.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Prolific helps you collect high-quality human data to power AI development and research. Whether you're developing AI models and products, gathering behavioral insights, or conducting market research, we connect you with verified participants who match your exact needs.",
+    "url": "https://www.prolific.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Why should I choose Prolific?",
+    "url": "https://www.prolific.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Are Prolific participants genuine? How can I be sure of the data quality?",
+    "url": "https://www.prolific.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Can I connect Prolific with the other tools I work with?",
+    "url": "https://www.prolific.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Prolific integrates seamlessly with most data collection tools, including survey platforms, annotation tools, and user research software. You can connect to your data collection tool easily with a URL. For customers with complex data collection needs, we also offer API access to scale your projects more easily. For a list of available integrations, visit our",
+    "url": "https://www.prolific.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We offer two ways of using Prolific. You can switch between plans as your needs evolve.",
+    "url": "https://www.prolific.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Get immediate access to our full platform and verified participant network. Perfect for teams who want to launch projects quickly and manage their own data collection process. Includes all core features like demographic filtering, custom screening, and integrations.",
+    "url": "https://www.prolific.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "End-to-end project support from our expert team. Best for organizations that need complete datasets without the operational complexities. Includes expert curation, quality assurance, pool management, and comprehensive reporting.",
+    "url": "https://www.prolific.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How is the pricing calculated?",
+    "url": "https://www.prolific.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Our pricing is straightforward and transparent:",
+    "url": "https://www.prolific.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Managed services: Pricing is customized based on your project scope and requirements.",
+    "url": "https://www.prolific.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "For pay-as-you-go pricing, our platform fee is usually 42.8% for corporate customers, and a discounted 33.3% for academic or non-profit customers.",
+    "url": "https://www.prolific.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "For platform access, you don't need to sign a contract or pay for a subscription to get started. You can simply pay as you go by adding funds to your wallet and launching a project. For managed services, we typically work with a Statement of Work that outlines project details and deliverables.",
+    "url": "https://www.prolific.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We have participants from 40+ countries, with particularly strong representation in the US, the UK, and Europe. For specific geographic targeting or specialized recruitment in other regions, our team can help develop a custom sourcing strategy.",
+    "url": "https://www.prolific.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "What is Prolific? | About Prolific | Prolific",
+    "url": "https://www.prolific.com/about",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by thousands of organizations",
+    "url": "https://www.prolific.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by AI/ML developers, researchers, and leading organizations across industry and academia.",
+    "url": "https://www.prolific.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study | Changing Opinions On The Climate Crisis | Prolific",
+    "url": "https://www.prolific.com/resources/how-researchers-ran-a-complex-study-to-change-opinions-about-the-climate-crisis",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by thousands of organizations",
+    "url": "https://www.prolific.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Our platform is trusted by thousands of world-renowned organizations, from cutting-edge AI startups to Ivy League universities. After securing $32M in funding in 2023, we’re on a mission to help thinkers, creators, and innovators across the globe make the impossible possible.",
+    "url": "https://www.prolific.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading research and AI platforms",
+    "url": "https://www.prolific.com/partner-with-prolific",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by over 3,000 world-renowned organizations",
+    "url": "https://www.prolific.com/protocol-data-quality?utm_content=partner_with_prolific_page",
+    "pass": 1
+   },
+   {
+    "quote": "Automation Transformation for a Mid-Sized Spices Manufacturer",
+    "url": "https://www.prolificpackaging.com/case-studies.html",
+    "pass": 3
+   },
+   {
+    "quote": "A well-established spice manufacturing company approached Prolific Packaging & Projects with an urgent operational challenge...",
+    "url": "https://www.prolificpackaging.com/case-studies.html",
+    "pass": 3
+   },
+   {
+    "quote": "Heavy-Duty Packaging Solution for an Industrial Chemical Manufacturer",
+    "url": "https://www.prolificpackaging.com/case-studies.html",
+    "pass": 3
+   },
+   {
+    "quote": "A major chemical manufacturer producing granular and semi-abrasive materials faced a persistent operational challenge. They required a durable, continuous-use system...",
+    "url": "https://www.prolificpackaging.com/case-studies.html",
+    "pass": 3
+   },
+   {
+    "quote": "A dairy product manufacturer required a hygienic, stainless-steel packaging solution that complied with strict food safety and audit standards...",
+    "url": "https://www.prolificpackaging.com/case-studies.html",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "What distinguishes Prolific is the collective passion and dedication of its employees. Each person is here because they genuinely want to be, driven by a shared commitment to our goals.",
+    "url": "https://www.prolific.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Our culture reflects this – from our everyday behaviors to removing barriers that prevent people from succeeding in their careers at Prolific.",
+    "url": "https://www.prolific.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Increase revenue together",
+    "url": "https://www.prolific.com/partner-with-prolific",
+    "pass": 1
+   },
+   {
+    "quote": "Close more deals and drive mutual revenue through joint sales and marketing initiatives.",
+    "url": "https://www.prolific.com/partner-with-prolific",
+    "pass": 1
+   },
+   {
+    "quote": "Prolific has enabled a completely new revenue stream for Voiceform. It feels like using the HubSpot of human data collection.",
+    "url": "https://www.prolific.com/partner-with-prolific",
+    "pass": 1
+   },
+   {
+    "quote": "Integrate Prolific's participants as part of your platform.",
+    "url": "https://www.prolific.com/partner-with-prolific",
+    "pass": 1
+   },
+   {
+    "quote": "In my view, the human part of the equation is a problem often being engineered away, but human knowledge is the core of what makes these systems trustworthy. Prolific works with frontier AI labs and researchers by connecting them with real people, whose judgement and expertise help build and evaluate systems people can rely on.",
+    "url": "https://www.prolific.com/resources/prolific-future-fifty-recognition-ai-human-data",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "List on Prolific's marketplace and join our referral program.",
+    "url": "https://www.prolific.com/partner-with-prolific",
+    "pass": 1
+   },
+   {
+    "quote": ". This is best for programmatic or high-volume data collection, or if you're a Channel Partner looking to offer Prolific's participants inside your product.",
+    "url": "https://www.prolific.com/partner-with-prolific",
+    "pass": 1
+   },
+   {
+    "quote": "For Channel Partners looking to offer our participants within your product, you can add value to your business fast. The fastest partners complete integration in just 1 month, with most finishing within 3 months. Whilst you do the build, our team will support you every step of the way.",
+    "url": "https://www.prolific.com/partner-with-prolific",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本語の音声を聞いたり、文章を見て答えるような案件も多く、",
+    "url": "https://note.com/kay_dialogue/n/nf94315a00070",
+    "pass": 3
+   },
+   {
+    "quote": "日本での就職活動と並行して、英語力を伸ばすこと自体が大きな選択肢になるようにも感じています",
+    "url": "https://note.com/kay_dialogue/n/nf94315a00070",
+    "pass": 3
+   },
+   {
+    "quote": "日本にも研究に使いやすいクラウドソーシングが欲しい | JDM&R Laboraoty",
+    "url": "https://mlab-jdm.org/post/need_r-oriented_crowdsourcing/",
+    "pass": 3
+   },
+   {
+    "quote": "日本にも研究に使いやすいクラウドソーシングが欲しい",
+    "url": "https://mlab-jdm.org/post/need_r-oriented_crowdsourcing/",
+    "pass": 3
+   },
+   {
+    "quote": "あと，意思決定の研究なんかをしていると，ゲームの結果に応じて報酬額を変えたいといったことを考えるわけですが，今の日本のクラウドソーシングだと，そういったことに対応する機能が（多分）ないのが現状です",
+    "url": "https://mlab-jdm.org/post/need_r-oriented_crowdsourcing/",
+    "pass": 3
+   },
+   {
+    "quote": "まあ，日本のクラウドソーシングは，そもそも研究用途として設計されていないのと，多分，いわゆるマイクロタスクにそこまでの機能が求められているとは思っていない，または，タスクを発注する側で，ここまでの細かい制御を必要とする層が数少ないんだろうなあ，と思っています",
+    "url": "https://mlab-jdm.org/post/need_r-oriented_crowdsourcing/",
+    "pass": 3
+   },
+   {
+    "quote": "日本のオンライン調査・実験でそれをやろうとうすると，Web パネルなんかを使わざるをえず，クラウドソーシングを使うよりもどうしても高額になってしまいます",
+    "url": "https://mlab-jdm.org/post/need_r-oriented_crowdsourcing/",
+    "pass": 3
+   },
+   {
+    "quote": "また，複数回の参加をしてもらいたい場合は，以前に参加した人に再度タスクの依頼をかけるわけですが，これも日本のクラウドソーシングは非常にやりにくく，ひたすら手作業でえっちらおっちら作業するしかないです（せめて，タスクの提案をするワーカーリストを一括でアップロードするような仕組みがあればいいのだけど，多分ないと思われ）",
+    "url": "https://mlab-jdm.org/post/need_r-oriented_crowdsourcing/",
+    "pass": 3
+   },
+   {
+    "quote": "アンケートで月47,000円稼げた！？日本人は知らない“Prolific”を完全解説します！ - YouTube",
+    "url": "https://www.youtube.com/watch?v=dSjB9pu874E&vl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "アンケートで月47,000円稼げた！？日本人は知らない“Prolific”を完全解説します！",
+    "url": "https://www.youtube.com/watch?v=dSjB9pu874E&vl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "【日本人だけがハマる】コレ知らないと英語は聞こえないまま...英会話教室は教えないリスニングの仕組み",
+    "url": "https://www.youtube.com/watch?v=dSjB9pu874E&vl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "【1日密着】月間4億を生み出す社内MVP！広告代理店の営業マネージャーの1日／オプト",
+    "url": "https://www.youtube.com/watch?v=dSjB9pu874E&vl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "【日本人急募】時給4,000円!? 円安時代の在宅海外リモート副業「TELUS」を完全解説します",
+    "url": "https://www.youtube.com/watch?v=dSjB9pu874E&vl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "【日本語ネイティブが武器】完全在宅の海外副業「LinkedIn」を3ヶ月検証した結果",
+    "url": "https://www.youtube.com/watch?v=dSjB9pu874E&vl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "海外のアンケートサイト「Prolific（プロリフィック）」を使って、日本にいながら在宅で外貨を稼ぐ方法を徹底解説します",
+    "url": "https://www.youtube.com/watch?v=dSjB9pu874E&vl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "僕自身も、6分の日本語アンケートで3.75ポンド、10分で日本語メールを2通書いて5ポンドなど、さまざまな案件に参加してきました",
+    "url": "https://www.youtube.com/watch?v=dSjB9pu874E&vl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "この動画では、Prolificとは何か、なぜ海外アンケートは報酬が高いのか、日本人向け案件の具体例、登録方法、Waitlist（待機リスト）、本人確認、案件を増やすためのAbout You設定、メール通知の活用方法、報酬の受け取り方、登録時の注意点まで初心者向けに解説します",
+    "url": "https://www.youtube.com/watch?v=dSjB9pu874E&vl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "日本語WordNet(英和)での「prolific」の意味",
+    "url": "https://ejje.weblio.jp/content/prolific",
+    "pass": 3
+   },
+   {
+    "quote": "「Prolific Technology」の代理店・取扱店 - indexPro",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=3408",
+    "pass": 3
+   },
+   {
+    "quote": "代理店・取扱店の登録、",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=3408",
+    "pass": 3
+   },
+   {
+    "quote": "「Prolific Technology」の代理店・取扱店：2件",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=3408",
+    "pass": 3
+   },
+   {
+    "quote": "〒136-0071 東京都江東区亀戸2-26-10 立花亀戸ビル 9F",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=3408",
+    "pass": 3
+   },
+   {
+    "quote": "〒101-0021 東京都千代田区外神田3-3-9",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=3408",
+    "pass": 3
+   },
+   {
+    "quote": "Job Application for AI Training - Fluent Japanese Speakers - Chiba, Japan at Prolific Academic Ltd",
+    "url": "https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4967689101",
+    "pass": 3
+   },
+   {
+    "quote": "AI Training - Fluent Japanese Speakers - Chiba, Japan",
+    "url": "https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4967689101",
+    "pass": 3
+   },
+   {
+    "quote": "AI Trainer - Japanese (Task-Based, Remote, Flexible)",
+    "url": "https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4967689101",
+    "pass": 3
+   },
+   {
+    "quote": "fluent Japanese speakers",
+    "url": "https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4967689101",
+    "pass": 3
+   },
+   {
+    "quote": ". You'll join live video calls with other Japanese-speaking participants, chatting naturally about everyday topics while your conversation is used to help AI models better understand how people actually speak.",
+    "url": "https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4967689101",
+    "pass": 3
+   },
+   {
+    "quote": "Have live, natural conversations in Japanese with other participants over video call.",
+    "url": "https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4967689101",
+    "pass": 3
+   },
+   {
+    "quote": "you must be a fully fluent Japanese speaker.",
+    "url": "https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4967689101",
+    "pass": 3
+   },
+   {
+    "quote": "曜日ごとに表示した表でもある程度傾向が見えていましたが、日本時間の昼12時以降から増え始め、",
+    "url": "https://note.com/neko_8888/n/nf0db54c1a031",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、水曜日から金曜日にかけて案件出現が増えて、日本時間の昼から夜中にかけて（特に21-23時に）案件数のピークがあることがわかりました",
+    "url": "https://note.com/neko_8888/n/nf0db54c1a031",
+    "pass": 3
+   },
+   {
+    "quote": "で、募集人が個人だったりするの名前のいちばん後ろに国名がついていることがあるんですが（たぶん日本人が募集かけたら.jpとかつくんだと思う）これをみて特定の国を避けたほうがいいみたい",
+    "url": "https://note.com/witty_marten755/n/nc7e5257f7f5a",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "英語に自信がない私が、海外副業（ Prolific ）を始めてみた話 — 英語に自信がない私が、海外副業（ Prolific ）を始めてみた話 note https://note.com > キャリア > 副業・パラレルキャリア",
+    "url": "https://note.com/kay_dialogue/n/nf94315a00070",
+    "pass": 3
+   },
+   {
+    "quote": "アンケートで月47,000円稼げた！？ 日本 人は知らない“ Prolific ... — アンケートで月47,000円稼げた！？ 日本 人は知らない“ Prolific ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=dSjB9pu874E&vl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "英語「 prolific 」の意味・読み方・表現 | Weblio英和辞書 — 英語「 prolific 」の意味・読み方・表現 | Weblio英和辞書 Weblio英和和英辞典 https://ejje.weblio.jp > 英和辞典・和英辞典 > 英和辞典",
+    "url": "https://ejje.weblio.jp/content/prolific",
+    "pass": 3
+   },
+   {
+    "quote": "Prolific を使うときのポイント - 英語教育0.2 — Prolific を使うときのポイント - 英語教育0.2 英語教育0.2 https://tam07pb915.com > tips-for-using-prolific",
+    "url": "https://tam07pb915.com/2024/03/12/tips-for-using-prolific/",
+    "pass": 3
+   },
+   {
+    "quote": "「 Prolific Technology」の 代理店 ・取扱店 - indexPro — 「 Prolific Technology」の 代理店 ・取扱店 - indexPro indexPro https://www.indexpro.co.jp > ... > メーカー名から探す",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=3408",
+    "pass": 3
+   },
+   {
+    "quote": "「 Prolific Technology Inc.」の 代理店 - Metoree — 「 Prolific Technology Inc.」の 代理店 - Metoree Metoree https://metoree.com > 会社一覧 > Prolific Technology Inc.",
+    "url": "https://metoree.com/companies/2127/distributors/",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内 | Prolific Group — 会社案内 | Prolific Group phiheating.com https://phiheating.com > about-prolific-group",
+    "url": "https://phiheating.com/ja/about-prolific-group",
+    "pass": 3
+   },
+   {
+    "quote": "Prolific Technologyの製品情報一覧 - indexPro — Prolific Technologyの製品情報一覧 - indexPro indexPro https://www.indexpro.co.jp > メーカー検索",
+    "url": "https://www.indexpro.co.jp/SearchProduct/2071",
+    "pass": 3
+   },
+   {
+    "quote": "Prolific Heating International と JS Tooling、タイにおけるEV ... — Prolific Heating International と JS Tooling、タイにおけるEV ... megatechmagazine.com https://www.megatechmagazine.com > ... > Congratulation",
+    "url": "https://www.megatechmagazine.com/jp/news/prolific-heating-international-%E0%B9%81%E0%B8%A5%E0%B8%B0-js-tooling-%E0%B8%A5%E0%B8%87%E0%B8%99%E0%B8%B2%E0%B8%A1-mou-%E0%B8%82%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%84%E0%B8%A5%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9C%E0%B8%A5%E0%B8%B4%E0%B8%95%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B9%84%E0%B8%9F%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B9%84%E0%B8%97%E0%B8%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "Prolific のAI Trainer - Advanced Japanese Fluency - LinkedIn — Prolific のAI Trainer - Advanced Japanese Fluency - LinkedIn LinkedIn https://jp.linkedin.com > jobs > view > ai-trainer-advance...",
+    "url": "https://jp.linkedin.com/jobs/view/ai-trainer-advanced-japanese-fluency-at-prolific-4395419723",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the participants on Prolific ? — Who are the participants on Prolific ? Prolific https://researcher-help.prolific.com > ...",
+    "url": "https://researcher-help.prolific.com/en/articles/445224-who-are-the-participants-on-prolific",
+    "pass": 3
+   },
+   {
+    "quote": "Prolific | Easily collect high-quality data from real people — Prolific | Easily collect high-quality data from real people Prolific https://www.prolific.com",
+    "url": "https://www.prolific.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Prolific's latest articles, research, webinars and more | Prolific — Prolific's latest articles, research, webinars and more | Prolific Prolific https://www.prolific.com > resources",
+    "url": "https://www.prolific.com/resources?type=case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies | Prolific Packaging and Projects — Case Studies | Prolific Packaging and Projects Prolific Packaging and Projects https://www.prolificpackaging.com > ...",
+    "url": "https://www.prolificpackaging.com/case-studies.html",
+    "pass": 3
+   },
+   {
+    "quote": "Prolific announces £25m funding — Prolific announces £25m funding Prolific https://www.prolific.com > resources",
+    "url": "https://www.prolific.com/resources/series-a-fundraise",
+    "pass": 3
+   },
+   {
+    "quote": "Irish- founded AI firm Prolific set to surpass $500m in annual ... — Irish- founded AI firm Prolific set to surpass $500m in annual ... LinkedIn https://www.linkedin.com > posts > ta...",
+    "url": "https://www.linkedin.com/posts/taylorcharlie_irish-founded-ai-firm-prolific-set-to-surpass-activity-7460975416640421888-96C_",
+    "pass": 3
+   },
+   {
+    "quote": "Prolific - 2026 Company Profile & Team - Tracxn — Prolific - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/prolific/__SXKRO00fUaesZc6XQhWNHq5hQq5N_n-EFksxZ2jLvAk",
+    "pass": 3
+   },
+   {
+    "quote": "Prolific's Competitors, Revenue , Number of Employees ... — Prolific's Competitors, Revenue , Number of Employees ... Owler https://www.owler.com > prolific6",
+    "url": "https://www.owler.com/company/prolific6",
+    "pass": 3
+   },
+   {
+    "quote": "Prolific : AI Research Startup Raises $32m ... - Business Insider — Prolific : AI Research Startup Raises $32m ... - Business Insider Business Insider https://www.businessinsider.com > pr...",
+    "url": "https://www.businessinsider.com/prolific-ai-research-startup-raises-32m-funding-for-us-expansion-2023-7",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Interested in building your career at Prolific Academic Ltd? Get future opportunities sent straight to your email.",
+    "url": "https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4967689101",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "英語に自信がない私が、海外副業（ Prolific ）を始めてみた話 英語に自信がない私が、海外副業（ Prolific ）を始めてみた話 note https://note.com > キャリア > 副業・パラレルキャリア",
+    "url": "https://note.com/kay_dialogue/n/nf94315a00070",
+    "pass": 3
+   },
+   {
+    "quote": "Prolific で案件が出やすい曜日・時間帯は？データを分析してみた Prolific で案件が出やすい曜日・時間帯は？データを分析してみた note https://note.com > ライフスタイル > 生活情報",
+    "url": "https://note.com/neko_8888/n/nf0db54c1a031",
+    "pass": 3
+   },
+   {
+    "quote": "031 日記 | Prolific （海外副業）やってみた・外貨を稼ぐ - note 031 日記 | Prolific （海外副業）やってみた・外貨を稼ぐ - note note https://note.com > ビジネス > キャリア・働き方",
+    "url": "https://note.com/witty_marten755/n/nc7e5257f7f5a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "英語に自信がない私が、海外副業（Prolific）を始めてみた話｜Kay",
+    "url": "https://note.com/kay_dialogue/n/nf94315a00070",
+    "pass": 3
+   },
+   {
+    "quote": "英語に自信がない私が、海外副業（Prolific）を始めてみた話",
+    "url": "https://note.com/kay_dialogue/n/nf94315a00070",
+    "pass": 3
+   },
+   {
+    "quote": "転職活動を始めてから4ヶ月目に入り、なかなか次が決まらず、長期戦になりそうな気配も出てきている。。。",
+    "url": "https://note.com/kay_dialogue/n/nf94315a00070",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、収入源やスキルにつながる可能性がないかと「AI training」についていろいろ調べていました。いわゆる海外副業ですね。",
+    "url": "https://note.com/kay_dialogue/n/nf94315a00070",
+    "pass": 3
+   },
+   {
+    "quote": "その中で見つけたのが、Prolific というサービス。",
+    "url": "https://note.com/kay_dialogue/n/nf94315a00070",
+    "pass": 3
+   },
+   {
+    "quote": "海外のアンケートやAI関連のタスクに参加することで報酬が発生する仕組みになっています。",
+    "url": "https://note.com/kay_dialogue/n/nf94315a00070",
+    "pass": 3
+   },
+   {
+    "quote": "私自身の英語レベルは中級程度です。海外経験はあるものの、一生懸命話していたらなんとなく通じてしまったという経験が多く、文法の正確さにはあまり自信がありませんでした。",
+    "url": "https://note.com/kay_dialogue/n/nf94315a00070",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、しばらく英語から離れていたこともあり、「ちゃんと対応できるのか？」という不安もありました。",
+    "url": "https://note.com/kay_dialogue/n/nf94315a00070",
+    "pass": 3
+   },
+   {
+    "quote": "Prolificで案件が出やすい曜日・時間帯は？データを分析してみた｜Neko",
+    "url": "https://note.com/neko_8888/n/nf0db54c1a031",
+    "pass": 3
+   },
+   {
+    "quote": "Prolificで案件が出やすい曜日・時間帯は？データを分析してみた",
+    "url": "https://note.com/neko_8888/n/nf0db54c1a031",
+    "pass": 3
+   },
+   {
+    "quote": "以前の記事でも触れていますが、Prolificはイギリス発の研究や調査に特化したプラットフォームで、アンケートのようなものに答えることでちょっとしたお小遣いを稼ぐことができます。",
+    "url": "https://note.com/neko_8888/n/nf0db54c1a031",
+    "pass": 3
+   },
+   {
+    "quote": "海外のリモートワークを始める際は、手軽に始められて成功体験を積みやすいProlificから始めることを先述の記事でおすすめしていました。",
+    "url": "https://note.com/neko_8888/n/nf0db54c1a031",
+    "pass": 3
+   },
+   {
+    "quote": "実際にProlificを始めてみると、Chromeの通知機能はあるものの、人気の案件はすぐ獲られてしまったりと、悔しい思いをすることがたまにあります。",
+    "url": "https://note.com/neko_8888/n/nf0db54c1a031",
+    "pass": 3
+   },
+   {
+    "quote": "あとは別の作業に集中したいけど、Prolificの通知に気を取られて結局どっちつかずの状態になったりもします。",
+    "url": "https://note.com/neko_8888/n/nf0db54c1a031",
+    "pass": 3
+   },
+   {
+    "quote": "正直このようなサイトは案件が来る時はたくさん（それこそ一気にやりきれないぐらい）来るし、そうでない時はダッシュボードが完全に静まり返った状態になります。つまり案件には波があるということです。",
+    "url": "https://note.com/neko_8888/n/nf0db54c1a031",
+    "pass": 3
+   },
+   {
+    "quote": "そもそも案件を出しているのは人間なので、この波にも特徴があるはず、と思ってProlific案件通知ログを１週間程度溜め込み、案件が出やすい時間帯や曜日を調査してみましたので、本記事ではその結果を共有したいと思います。",
+    "url": "https://note.com/neko_8888/n/nf0db54c1a031",
+    "pass": 3
+   },
+   {
+    "quote": "#031 日記 | Prolific（海外副業）やってみた・外貨を稼ぐ｜sumire",
+    "url": "https://note.com/witty_marten755/n/nc7e5257f7f5a",
+    "pass": 3
+   },
+   {
+    "quote": "#031 日記 | Prolific（海外副業）やってみた・外貨を稼ぐ",
+    "url": "https://note.com/witty_marten755/n/nc7e5257f7f5a",
+    "pass": 3
+   },
+   {
+    "quote": "食中毒でダウンしてた期間始めてみたシリーズ②です。",
+    "url": "https://note.com/witty_marten755/n/nc7e5257f7f5a",
+    "pass": 3
+   },
+   {
+    "quote": "Prolific は、世界最高品質のヒューマンデータの最大プールを作成するテクノロジー企業です。35,000 人以上の AI 開発者、研究者、および大手組織が、信頼できるエンゲージドな参加者から豊富なデータを収集するために Prolific を使用しており、2 分ごとに新しい研究が開始されています。",
+    "url": "https://note.com/witty_marten755/n/nc7e5257f7f5a",
+    "pass": 3
+   },
+   {
+    "quote": "参加者はセルフサービスプラットフォームを通じて、研究者やリサーチプロジェクトに参加します。アンケート、インタビュー、AI モデルの評価、データ注釈などの多様なタスクを行い、高品質のヒューマンデータの収集を支援しています。",
+    "url": "https://note.com/witty_marten755/n/nc7e5257f7f5a",
+    "pass": 3
+   },
+   {
+    "quote": "Prolific は 2014 年にオックスフォード出身の Phelim Bradley によって創設されました。ロンドンを本社とし、Y Combinator などの投資家から合計 $33.8M の資金調達を実施しています。",
+    "url": "https://note.com/witty_marten755/n/nc7e5257f7f5a",
+    "pass": 3
+   },
+   {
+    "quote": "Prolific には 200,000 人以上のアクティブな参加者、11,000 人以上の AI 注釈スペシャリスト、5,000 人以上のアクティブな AI タスク参加者がいます。学生から専門家まで、様々なバックグラウンドを持つ人々が参加しています。",
+    "url": "https://note.com/witty_marten755/n/nc7e5257f7f5a",
+    "pass": 3
+   },
+   {
+    "quote": "まあ簡単に言うと、海外のアンケートサイトって感じです。",
+    "url": "https://note.com/witty_marten755/n/nc7e5257f7f5a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Prolific - X Prolific - X X https://x.com > Prolific",
+    "url": "https://x.com/Prolific",
+    "pass": 3
+   },
+   {
+    "quote": "Prolific Prep (@ProlificPrep) / X Prolific Prep (@ProlificPrep) / X X https://x.com > ProlificPrep",
+    "url": "https://x.com/ProlificPrep",
+    "pass": 3
+   },
+   {
+    "quote": "Prolific (@Prolificac) / X Prolific (@Prolificac) / X X https://x.com > Prolificac",
+    "url": "https://x.com/Prolificac",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Prolific - LinkedIn Prolific - LinkedIn LinkedIn https://uk.linkedin.com > prolific-com",
+    "url": "https://uk.linkedin.com/company/prolific-com",
+    "pass": 3
+   },
+   {
+    "quote": "Prolific - LinkedIn Prolific - LinkedIn LinkedIn https://www.linkedin.com > prolifichq",
+    "url": "https://www.linkedin.com/company/prolifichq",
+    "pass": 3
+   },
+   {
+    "quote": "Prolific Digital - LinkedIn Prolific Digital - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/hey-prolific",
+    "pass": 3
+   },
+   {
+    "quote": "Prolific Machines - LinkedIn Prolific Machines - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/prolific-machines",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Prolific | London - Facebook Prolific | London - Facebook Facebook https://www.facebook.com > ... > Internet company",
+    "url": "https://www.facebook.com/joinprolific/",
+    "pass": 3
+   },
+   {
+    "quote": "Why do Prolific studies fill up instantly? - Facebook Why do Prolific studies fill up instantly? - Facebook Facebook https://www.facebook.com > groups > prolificgroup > posts",
+    "url": "https://www.facebook.com/groups/prolificgroup/posts/1487915502659627/",
+    "pass": 3
+   },
+   {
+    "quote": "Prolific Academic - Discussions, Tips & Update - Facebook Prolific Academic - Discussions, Tips & Update - Facebook Facebook https://www.facebook.com > Facebook Groups",
+    "url": "https://www.facebook.com/groups/688328207987649/",
+    "pass": 3
+   },
+   {
+    "quote": "Prolific Participants | Facebook Prolific Participants | Facebook Facebook https://www.facebook.com > Facebook Groups",
+    "url": "https://www.facebook.com/groups/ProlificParticipants/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.prolific.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prolific.com/resources/how-a-leading-ai-company-accelerated-factuality-testing-by-10x-with-prolific",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prolific.com/resources/how-researchers-ran-a-complex-study-to-change-opinions-about-the-climate-crisis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prolific.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prolific.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prolific.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prolific.com/partner-with-prolific",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prolific.com/resources/prolific-future-fifty-recognition-ai-human-data",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prolific.com/calculator",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prolific.com/audience-finder?utm_source=partner_with_us_page",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prolific.com/protocol-data-quality?utm_content=partner_with_prolific_page",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prolific.com/resources?type=case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prolific.com/resources?page=2&type=case-studies",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://note.com/kay_dialogue/n/nf94315a00070",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mlab-jdm.org/post/need_r-oriented_crowdsourcing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=dSjB9pu874E&vl=ja",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ejje.weblio.jp/content/prolific",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=3408",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/2127/distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://phiheating.com/ja/about-prolific-group",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/SearchProduct/2071",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/jobs/view/ai-trainer-advanced-japanese-fluency-at-prolific-4395419723",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4967689101",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://researcher-help.prolific.com/en/articles/445224-who-are-the-participants-on-prolific",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prolificpackaging.com/case-studies.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://manufacturingleadershipcouncil.com/case-studies-for-success-in-the-factory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://goamplifi.com/knowledge-base/case-study-6-case-studies-of-data-management-success-in-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/taylorcharlie_irish-founded-ai-firm-prolific-set-to-surpass-activity-7460975416640421888-96C_",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tracxn.com/d/companies/prolific/__SXKRO00fUaesZc6XQhWNHq5hQq5N_n-EFksxZ2jLvAk",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.owler.com/company/prolific6",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kay_dialogue/n/nf94315a00070",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/neko_8888/n/nf0db54c1a031",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/witty_marten755/n/nc7e5257f7f5a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Prolific",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ProlificPrep",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Prolificac",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/company/prolific-com",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/prolifichq",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/hey-prolific",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/prolific-machines",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/joinprolific/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/prolificgroup/posts/1487915502659627/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/688328207987649/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/ProlificParticipants/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Prolific",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Prolific 日本 導入",
+   "results": [
+    "https://note.com/kay_dialogue/n/nf94315a00070",
+    "https://mlab-jdm.org/post/need_r-oriented_crowdsourcing/",
+    "https://www.youtube.com/watch?v=dSjB9pu874E&vl=ja",
+    "https://ejje.weblio.jp/content/prolific",
+    "https://tam07pb915.com/2024/03/12/tips-for-using-prolific/",
+    "https://jp.linkedin.com/jobs/view/korean-fluent-speakers-ai-training-at-prolific-4478263152",
+    "https://www.reddit.com/r/ProlificAc/comments/1p5hotf/is_prolific_the_best_survey_website/?tl=ja",
+    "https://phiheating.com/ja/projects/temperature-uniformity-survey-tus",
+    "https://www.jstage.jst.go.jp/article/jcss/26/2/26_272/_pdf",
+    "https://www.prolific.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Prolific 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=3408",
+    "https://metoree.com/companies/2127/distributors/",
+    "https://phiheating.com/ja/about-prolific-group",
+    "https://www.indexpro.co.jp/SearchProduct/2071",
+    "https://www.megatechmagazine.com/jp/news/prolific-heating-international-%E0%B9%81%E0%B8%A5%E0%B8%B0-js-tooling-%E0%B8%A5%E0%B8%87%E0%B8%99%E0%B8%B2%E0%B8%A1-mou-%E0%B8%82%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%84%E0%B8%A5%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9C%E0%B8%A5%E0%B8%B4%E0%B8%95%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B9%84%E0%B8%9F%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B9%84%E0%B8%97%E0%B8%A2/",
+    "https://www.proglenth.com/news/zylidac-bio-prolific-machines-optogenetic-cell-line-gmp",
+    "https://dairitenboshu.com/",
+    "https://impact-h.co.jp/service/advertising-agency",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://ja.wikipedia.org/wiki/秦英之"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Prolific Japan",
+   "results": [
+    "https://jp.linkedin.com/jobs/view/ai-trainer-advanced-japanese-fluency-at-prolific-4395419723",
+    "http://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4967689101",
+    "https://researcher-help.prolific.com/en/articles/445224-who-are-the-participants-on-prolific",
+    "https://www.prolific.com/",
+    "https://dashboard.applyre.com/jobs/ai-training-fluent-japanese-speakers-shizuo-10wu57",
+    "https://bilingualjobs.io/jobs/ai-training-prolific-academic-ltd-ead0faa46e27a71c",
+    "https://remoteleaf.com/company/prolific-2/ai-training-fluent-japanese-speakers-sagamihara-japan-japan/",
+    "https://aitraining.jobs/countries/japan/prolific",
+    "https://remotive.com/remote/jobs/artificial-intelligence/ai-trainer-japanese-5495998",
+    "https://participant-help.prolific.com/en/articles/445007-who-can-participate-in-studies-on-prolific"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Prolific manufacturing customer case study",
+   "results": [
+    "https://www.prolific.com/resources?type=case-studies",
+    "https://www.prolificpackaging.com/case-studies.html",
+    "https://manufacturingleadershipcouncil.com/case-studies-for-success-in-the-factory/",
+    "https://goamplifi.com/knowledge-base/case-study-6-case-studies-of-data-management-success-in-manufacturing",
+    "https://www.athenaswc.com/case-studies/",
+    "https://www.prolific-machines.com/",
+    "https://www.facebook.com/joinprolific/videos/building-the-future-of-technology-prolific/910631401275828/",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://cdn.ymaws.com/www.businessarchitectureguild.org/resource/resmgr/case_studies/manufacturing_company_case_s.pdf",
+    "http://prolificpackaging.com/case-studies.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Prolific white label OR reseller OR partner program",
+   "results": [
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://content.platfio.com/blog/software-reseller-programs-worth-joining-2026",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://www.siptrunk.com/blog/white-label-saas-reseller/",
+    "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Prolific founded funding employees revenue",
+   "results": [
+    "https://www.prolific.com/resources/series-a-fundraise",
+    "https://www.linkedin.com/posts/taylorcharlie_irish-founded-ai-firm-prolific-set-to-surpass-activity-7460975416640421888-96C_",
+    "https://tracxn.com/d/companies/prolific/__SXKRO00fUaesZc6XQhWNHq5hQq5N_n-EFksxZ2jLvAk",
+    "https://www.owler.com/company/prolific6",
+    "https://www.businessinsider.com/prolific-ai-research-startup-raises-32m-funding-for-us-expansion-2023-7",
+    "https://www.facebook.com/businessposthq/posts/prolific-a-fast-growing-irish-founded-company-which-has-developed-an-online-plat/1633723888157186/",
+    "https://pitchbook.com/profiles/company/110721-52",
+    "https://getlatka.com/companies/prolific",
+    "https://techcrunch.com/2023/07/11/prolific-raises-32m-to-train-and-stress-test-ai-models-using-its-network-of-120k-people/",
+    "https://www.gofractional.com/companies/prolific"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Prolific",
+   "results": [
+    "https://note.com/kay_dialogue/n/nf94315a00070",
+    "https://note.com/kay_phyto_yoga77/n/n3021f6a48d06?hl=en",
+    "https://note.com/neko_8888/n/nf0db54c1a031",
+    "https://note.com/witty_marten755/n/nc7e5257f7f5a",
+    "https://note.com/yumirins/n/n07109f0e3d7a",
+    "https://note.com/thepriceless9992/n/nd57960e00051?hl=en",
+    "https://note.com/kay_dialogue/n/n8d4d4447f951",
+    "https://note.com/heapsoflove/n/nf0708da8b5e4?hl=en",
+    "https://note.com/medical_ai_side/n/ndaee970d14f6?hl=en",
+    "https://note.com/pure_22/n/n71144f6b54c4"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "site:x.com Prolific",
+   "results": [
+    "https://x.com/Prolific",
+    "https://x.com/Phelimb",
+    "https://x.com/ProlificPrep",
+    "https://x.com/Prolificac",
+    "https://x.com/hashtag/prolific?src=hashtag_click",
+    "https://x.com/Prolific/status/2117998963232047467",
+    "https://x.com/Prolific/status/2118387521445122308",
+    "https://x.com/profilicnekro",
+    "https://x.com/OlatunjiAyokan2/status/2119187332796481930/photo/1",
+    "https://x.com/NWS/status/2105791437350617130"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Prolific",
+   "results": [
+    "https://uk.linkedin.com/company/prolific-com",
+    "https://www.linkedin.com/company/prolifichq",
+    "https://www.linkedin.com/company/hey-prolific",
+    "https://www.linkedin.com/company/prolific-machines",
+    "https://www.linkedin.com/products/prolific-com-prolific-for-ai/",
+    "https://www.linkedin.com/company/prolific-1",
+    "https://www.linkedin.com/company/prolific-com/jobs",
+    "https://www.linkedin.com/jobs/view/operations-and-pmo-leaders-subject-matter-expert-san-diego-us-at-prolific-4429704382",
+    "https://au.linkedin.com/jobs/view/ai-japanese-trainer-%E2%80%94-remote-flexible-hours-%2430-hr-at-prolific-4485585847",
+    "https://www.linkedin.com/company/prolific-com"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:facebook.com Prolific",
+   "results": [
+    "https://www.facebook.com/joinprolific/",
+    "https://www.facebook.com/groups/prolificgroup/posts/1487915502659627/",
+    "https://www.facebook.com/groups/688328207987649/",
+    "https://www.facebook.com/groups/ProlificParticipants/",
+    "https://www.facebook.com/groups/prolificgroup/posts/1613187906799052/",
+    "https://www.facebook.com/groups/853552931365745/posts/6582833355104312/",
+    "https://www.facebook.com/groups/prolificgroup/posts/1488765962574581/",
+    "https://www.facebook.com/groups/prolificgroup/posts/1511534173631093/",
+    "https://www.facebook.com/joinprolific/videos/building-the-future-of-technology-prolific/910631401275828/",
+    "https://www.facebook.com/groups/prolificgroup/posts/1529913461793164/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Prolific note 社長",
+   "results": [
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://x.com/sadaaki",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://froggy.smbcnikko.co.jp/66484/",
+    "https://diamond.jp/articles/-/388572",
+    "https://note.com/santa346",
+    "https://note.com/microceo",
+    "https://www.youtube.com/watch?v=H6YAMk-zS-8",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Prolific X 投稿",
+   "results": [
+    "https://x.com/Prolific",
+    "https://www.prolific.com/",
+    "https://docs.prolific.com/api-reference",
+    "https://cleverx.com/blog/prolific-review-2026/",
+    "https://www.reddit.com/r/ProlificAc/comments/1tr5oe3/my_experience_on_prolific_has_changed_drastically/",
+    "https://www.youtube.com/watch?v=RGKWSLYHcDI",
+    "https://www.prolific.com/research-and-development",
+    "https://www.prolific.com/participants",
+    "https://anote-fukugyo.com/2026-08-07-prolific-getting-started/",
+    "https://x.com/ai_aoi_ia/status/2105253609143439367"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部36頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部36頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部36頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部36頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部36頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部36頁・検索12回）"
+ }
+}

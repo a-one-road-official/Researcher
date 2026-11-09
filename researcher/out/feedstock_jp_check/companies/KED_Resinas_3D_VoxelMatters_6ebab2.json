@@ -1,0 +1,459 @@
+{
+ "name": "KED Resinas 3D — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:materials",
+ "researched_at": "2026-11-09T22:46:08.442049+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.voxelmatters.directory/company/ked-resinas-3d/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "KED Resinas 3D — VoxelMatters - The largest database of ... — KED is a 3D printing resin brand launched in 2022 as a spin-off of Killing S/A, a Brazilian paint and adhesive manufacturer founded in 1962 with more than 60 years of history and over 850 million reais in revenue in 2024. KED develops photopolymer resins engineered for precision printing, reduced rework, and functional versatility, serv",
+    "url": "https://www.voxelmatters.directory/company/ked-resinas-3d/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookCansado de esperar por produtos importados? Conheça as ...Você já reparou como cada etapa da impressão 3D revela a ...Com as resinas KED alcance soluções personalizadas. Tenha ...Chegou a hora de conhecer a resina KED Pro! Vem ... - FacebookKED 3D Custom Parts | Robinson KS - Facebook A dress with servo motors, a dress made of 1,200 hand- assembled tiles, and a dress that re",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.directory/company/ked-resinas-3d/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/yaomoku.simmonsbed/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.kkhashi.com/blogs/detail/145/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://osoyoo.com/ja/2018/09/20/microbit-basic-tutorial-9-banana-keyboard/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/ked-resinas-3d/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ked.net.br/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kedresinas.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iguazu-phrozen.jp/material",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.nukumori-pellet.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kitetsu.biz/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/ked-resinas-3d/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ked.net.br/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kedresinas.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japanesedistributors.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japanesedistributors.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/alloyed-ntt-date-xam-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/usa/investinjapan/j-bridge.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/SNIDEL-%E3%82%B9%E3%83%8A%E3%82%A4%E3%83%87%E3%83%AB-SWNO261060-%E3%83%AA%E3%83%9C%E3%83%B3%E3%83%87%E3%82%A3%E3%83%86%E3%83%BC%E3%83%AB%E3%82%AB%E3%83%BC%E3%83%87%E3%82%BB%E3%83%83%E3%83%88%E3%83%AF%E3%83%B3%E3%83%94%E3%83%BC%E3%82%B9SWNO261060%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B9/dp/B0GC9Z194F",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E3%83%92%E3%83%AB%E3%83%88%E3%83%83%E3%83%97%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89-%E3%83%91%E3%82%B8%E3%83%A3%E3%83%9E-%E3%83%AB%E3%83%BC%E3%83%A0%E3%82%A6%E3%82%A8%E3%82%A2-%E4%BA%8C%E9%87%8D%E8%B5%B7%E6%AF%9B-%E4%B8%8A%E4%B8%8B%E3%82%BB%E3%83%83%E3%83%88/dp/B0CJDM98SB",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://kdp.amazon.co.jp:443/ja_JP",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/6892/1283/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/0821/1271/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00011859/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/3506/6963/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/ked-resinas-3d/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kedresinas.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ked.net.br/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "KED Resinas 3D — VoxelMatters 代理店",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "KED Resinas 3D — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://www.voxelmatters.directory/company/ked-resinas-3d/",
+    "https://www.instagram.com/yaomoku.simmonsbed/",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://osoyoo.com/ja/2018/09/20/microbit-basic-tutorial-9-banana-keyboard/",
+    "https://my-best.com/7073",
+    "https://www.instagram.com/kpopusaonline/",
+    "https://manuals.plus/m/099a4eac495c068337e39b8e9a2a91c44d2b04651a63b91347d6bb5d1a377ef4"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "KED Resinas 3D — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.voxelmatters.directory/company/ked-resinas-3d/",
+    "https://ked.net.br/",
+    "https://kedresinas.com/",
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.report/database/",
+    "https://media.huroc.org/articles/shin-etsu-silicone-3d-printing-ked-5000g-service/",
+    "https://monoist.itmedia.co.jp/mn/articles/2512/22/news014.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "KED Resinas 3D — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://skhonpo.com/",
+    "https://www.iguazu-phrozen.jp/material",
+    "http://www.nukumori-pellet.com/",
+    "https://www.kitetsu.biz/",
+    "https://ranking.rakuten.co.jp/daily/566879/",
+    "https://www.brule.co.jp/",
+    "https://kexcelled3d.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "KED Resinas 3D — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.directory/company/ked-resinas-3d/",
+    "https://ked.net.br/",
+    "https://kedresinas.com/",
+    "https://japanesedistributors.com/",
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.report/database/",
+    "https://www.voxelmatters.directory/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "KED Resinas 3D — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://japanesedistributors.com/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.voxelmatters.com/alloyed-ntt-date-xam-japan/",
+    "https://www.jetro.go.jp/usa/investinjapan/j-bridge.html",
+    "https://www.instagram.com/p/DdUMIm5iK60/",
+    "https://www.instagram.com/reel/DTryWf2E3JM/",
+    "https://zoom.us/signin"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:amazon.co.jp KED Resinas 3D — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/SNIDEL-スナイデル-SWNO261060-リボンディテールカーデセットワンピースSWNO261060レディース/dp/B0GC9Z194F",
+    "https://www.amazon.co.jp/ヒルトップクラウド-パジャマ-ルームウエア-二重起毛-上下セット/dp/B0CJDM98SB",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://kdp.amazon.co.jp/ja_JP/signin",
+    "https://ssofaast-wms.amazon.co.jp/",
+    "https://www.cdn.amazon.co.jp/gp/help/customer/display.html?nodeId=TgeQoI2TC9jEOh0mQf",
+    "https://business.amazon.co.jp/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com KED Resinas 3D — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/p/6892/1283/",
+    "https://www.monotaro.com/p/0821/1271/",
+    "https://www.monotaro.com/g/00011859/",
+    "https://www.monotaro.com/p/3506/6963/",
+    "https://www.monotaro.com/g/01435379/",
+    "https://www.monotaro.com/s/c-122189/",
+    "https://www.monotaro.com/p/0244/4696/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "KED Resinas 3D — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.voxelmatters.directory/company/ked-resinas-3d/",
+    "https://kedresinas.com/",
+    "https://ked.net.br/",
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.com/analysis/",
+    "https://www.voxelmatters.report/database/",
+    "https://open.endole.co.uk/insight/company/10417555-voxelmatters-ltd"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com KED Resinas 3D — VoxelMatters",
+   "results": [
+    "https://note.com/beloved_tomoka",
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/haveleo",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/vast_flax7410/n/n6dc18926f046",
+    "https://note.com/minkabu_mag/n/nbf9bdd8b2161"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com KED Resinas 3D — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/real_ked/status/2114719073053610331",
+    "https://x.com/Sanemavcil/status/2117704976281837787",
+    "https://x.com/isaiahrmartin/status/2117871814625972663",
+    "https://x.com/DemocraticWins/status/2117994783016685719",
+    "https://x.com/MenchOsint/status/2117356139117699272",
+    "https://x.com/jocelynseip/status/2118260591680983528"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com KED Resinas 3D — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://www.linkedin.com/posts/voxelmanufatura_voxelmanufatura-impressao3d-manufaturaaditiva-activity-7257396348067479552-cFu9",
+    "https://pt.linkedin.com/posts/voxelmanufatura_cansado-de-esperar-por-produtos-importados-activity-7250475564661166081-YOQW",
+    "https://pt.linkedin.com/posts/voxelmanufatura_3dprint-3dprinting-voxelmanufatura-activity-7226326703269175297-H3yx",
+    "https://br.linkedin.com/company/ug-representacoes",
+    "https://pe.linkedin.com/posts/ana-paula-benite-36903b28b_cansado-de-esperar-por-produtos-importados-activity-7250480047214518272-GTwM",
+    "https://cn.linkedin.com/in/赋海-方-97186b3a4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com KED Resinas 3D — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/p/Ked-Resinas-para-impressões-3D-61554292634330/",
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/61554292634330/videos/831035936475098/",
+    "https://www.facebook.com/voxelmanufatura/videos/com-as-resinas-ked-alcance-soluções-personalizadas-tenha-conforto-e-desempenho-e/1041056694120228/",
+    "https://www.facebook.com/pacocatech/videos/chegou-a-hora-de-conhecer-a-resina-ked-provem-acompanhar-um-review-sobre-essa-ma/1310248956245280/",
+    "https://www.facebook.com/p/KED-3D-Custom-Parts-100078752651320/",
+    "https://www.facebook.com/voxelmanufatura/videos/cansado-de-esperar-por-produtos-importados-conheça-as-resinas-nacionais-para-imp/9468485026500992/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "KED Resinas 3D — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.directory/company/ked-resinas-3d/",
+    "https://www.voxelmatters.com/",
+    "https://ked.net.br/",
+    "https://kedresinas.com/",
+    "https://www.linkedin.com/pub/dir/davide/sher",
+    "https://www.voxelmatters.com/about/",
+    "https://www.voxelmatters.com/category/3d-printing-topic/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "KED Resinas 3D — VoxelMatters X 投稿",
+   "results": [
+    "https://www.voxelmatters.directory/company/ked-resinas-3d/",
+    "https://x.com/voxelmatters",
+    "https://ked.net.br/",
+    "https://www.voxelmatters.com/",
+    "https://kedresinas.com/",
+    "https://x.com/VoxelMatters/status/2117922086492508517",
+    "https://x.com/tomato3_9/status/2119709210586050779"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）"
+ }
+}

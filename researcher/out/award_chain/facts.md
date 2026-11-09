@@ -1,4 +1,4 @@
-# 一都三県 表彰・認定リスト起点の芋づる式リスト（資本金1億円以上・自動車除く）— 事業内容・資本金・設立・株主・取引先（事実のみ・58社）
+# 一都三県 表彰・認定リスト起点の芋づる式リスト（資本金1億円以上・自動車除く）— 事業内容・資本金・設立・株主・取引先（事実のみ・59社）
 
 ## Ashirase
 - 公式URL：https://www.ashirase.com/（given）
@@ -4241,6 +4241,97 @@ NTTエレクトロニクステクノ株式会社
 - 株主：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部14頁・検索11回）
 - 主要取引先：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部14頁・検索11回）
 - 客は誰か：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部14頁・検索11回）
+
+## 村井
+- 公式URL：https://e-murai.jp/（given）
+- 事業内容：靴用各種部品および副資材、一般消費者向け靴関連製品の製造販売（https://e-murai.jp/company/・1回目）
+- 事業内容：■ シューパーツ事業(BtoB) 毎日履いている靴が「どのように作られているか」ご存知ですか？ 実は「シューパーツ」と呼ばれる部品を組み合わせて作られています。 つま先やかかと、靴の底など多様な箇所に使用され、美しいフォルムの保持や歩行の手助けをする靴づくりには必要不可欠なパーツです。 国内約500社の靴業界企業のうち、300社以上が私たちのお客様。 企画‐開発‐製造‐販売の社内一貫体制で業界トップシェアを実現しています。 私たちの名前は靴の表面には出ませんが、大手スポーツブランドのスパイクやアパレルブランドのトレンドシューズ。学生時代に履いていたローファー。バレリーナのトウシューズから産業用の安全靴まで、幅広いジャンルの靴を支え続けています。 世界中の足もとを支え、愛され続けている、日本に数少ないシューパーツを取り扱う事業です。 ■ フットケア事業(BtoB / BtoC) 人の足はそれぞれ個性的。同じ形はひとつとして存在しないのに、選べる靴の種類はそう多くない。 そうして生じた足のトラブルをケアしたり、業務やスポーツのパフォーマンスアップをサポートするためのインソールやパッドを企画（https://job.mynavi.jp/27/pc/search/corp97701/outline.html・3回目）
+- 資本金：1億円（https://e-murai.jp/company/・1回目）
+- 資本金：1億円（https://job.mynavi.jp/27/pc/search/corp97701/outline.html・3回目）
+- 資本金：1億円（https://syukatsu-kaigi.jp/companies/93762/post_items/6/word_mouths・3回目）
+- 創業年度：創業：1931年（昭和6年）3月10日（https://e-murai.jp/company/・1回目）
+- 創業年度：設立：1951年（昭和26年）3月30日（https://e-murai.jp/company/・1回目）
+- 創業年度：創業：1931（昭和6）年（https://job.mynavi.jp/27/pc/search/corp97701/outline.html・3回目）
+- 従業員数：90名（2025年3月31日現在）（https://e-murai.jp/company/・1回目）
+- 従業員数：92名（2026年3月31日現在）（https://job.mynavi.jp/27/pc/search/corp97701/outline.html・3回目）
+- 従業員数：126人（https://syukatsu-kaigi.jp/companies/93762/post_items/6/word_mouths・3回目）
+- 売上高：9億4,507万円（2026年3月期実績）（https://job.mynavi.jp/27/pc/search/corp97701/outline.html・3回目）
+- 売上高：18億9000万円（https://syukatsu-kaigi.jp/companies/93762/post_items/6/word_mouths・3回目）
+- 所在地：【本社】 〒170-0004 東京都豊島区北大塚2丁目27番4号 TEL：03-3918-0181（代） FAX：03-3918-0191（代） E-Mail： reception@e-murai.jp 【吉見工場】 〒355-0156 埼玉県比企郡吉見町長谷1961 TEL：0493-54-6581（代） 【神戸営業所】 〒654-0028 兵庫県神戸市須磨区常盤町1丁目1番20号 TEL：078-733-3481 FAX：078-733-3476（https://e-murai.jp/company/・1回目）
+- 所在地：〒170-0004　東京都豊島区北大塚2丁目27番4号 TEL：03-3918-0181（代） FAX：03-3918-0191（代） JR山手線「大塚駅」より徒歩3分（https://e-murai.jp/company/・1回目）
+- 所在地：170-0004（https://job.mynavi.jp/27/pc/search/corp97701/outline.html・3回目）
+- 代表者：村井隆（https://syukatsu-kaigi.jp/companies/93762/post_items/6/word_mouths・3回目）
+- 主要取引先：■ シューパーツ事業 ダイアナ・かねまつ・リーガルコーポレーション・アシックス・ミズノ・マドラス・チャコット・ミドリ安全・OIOI・三越伊勢丹・ユナイテッドアローズ・HARUTA　 ほか ■ フットケア・履き物事業 ハンズ・ロフト・チャコット・三越伊勢丹・大丸松坂屋百貨店・OIOI・二木ゴルフ・アマゾンジャパン・ヤフー・楽天　ほか（https://job.mynavi.jp/27/pc/search/corp97701/outline.html・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「株式会社村井 - シューパーツやフットケア製品の企業・製造・販売」（https://e-murai.jp/・1回目）
+  - 「企画から研究開発、製造、販売までを」（https://e-murai.jp/・1回目）
+  - 「靴用各種部品および副資材、一般消費者向け靴関連製品の製造販売」（https://e-murai.jp/company/・1回目）
+  - 「提供する主力製品は、靴をつくる際に必要不可欠な「シューパーツ（靴部品）」と、」（https://e-murai.jp/works/・1回目）
+  - 「靴をつくる際に必要不可欠なシューパーツ（靴部品）を製造し、全国の靴メーカーに販売しています」（https://e-murai.jp/works/・1回目）
+  - 「株式会社村井では、靴メーカーのつくりたい靴に合ったシューパーツ（靴部品）を、デザインや機能に適したさまざまな素材で製造しています」（https://e-murai.jp/works/・1回目）
+  - 「靴をつくるときに型として使用される「ラスト」の製造・販売も行っています」（https://e-murai.jp/works/・1回目）
+  - 「株式会社村井はそのような「シューパーツ（靴部品）」の研究・企画・開発・製造・販売を行っています」（https://e-murai.jp/works/・1回目）
+  - 「シューパーツ事業で培った靴の技術や知識を活かし、もっと多くの人々に「快適な履き心地」を届けていきたいと、2000年にフットケア製品の製造販売を開始しました」（https://e-murai.jp/works/・1回目）
+  - 「というブランドで展開し、販売しています」（https://e-murai.jp/works/・1回目）
+  - 「1960年にはアメリカ製の新素材を使用した製品（ボックストゥ）の製造販売を開始」（https://e-murai.jp/works/・1回目）
+  - 「欧米の大手ファッションブランドやスポーツブランドでも、中国や東南アジアを製造拠点にしている会社が多いもの」（https://e-murai.jp/works/・1回目）
+- 客は誰か：
+  - 「■ フットケア事業(BtoB / BtoC)」（https://job.mynavi.jp/27/pc/search/corp97701/outline.html・3回目）
+  - 「「2022年版中小企業白書」にBtoC事業を強化し事業再構築を進める中小企業として掲載される」（https://job.mynavi.jp/27/pc/search/corp97701/outline.html・3回目）
+  - 「日本の靴部品メーカーの中では大手企業の部類に入ると思われる」（https://syukatsu-kaigi.jp/companies/93762/post_items/6/word_mouths・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「省エネ設備の導入や再生可能エネルギーの活用、環境配慮型製品の開発、」（https://e-murai.jp/・1回目）
+  - 「成長を続けている研究開発型の総合靴関連製品メーカーです」（https://e-murai.jp/works/・1回目）
+  - 「靴をつくる際に必要不可欠なシューパーツ（靴部品）を製造し、全国の靴メーカーに販売しています」（https://e-murai.jp/works/・1回目）
+  - 「株式会社村井では、靴メーカーのつくりたい靴に合ったシューパーツ（靴部品）を、デザインや機能に適したさまざまな素材で製造しています」（https://e-murai.jp/works/・1回目）
+  - 「靴・シューズの小売市場は、新型コロナウィルス感染症による影響を受けたものの2021年からは回復傾向にあり、2022年は1兆9,570億円、3.8億足が出荷されています」（https://e-murai.jp/works/・1回目）
+  - 「1963年にはドイツのシューパーツ（靴部品）メーカーと技術提携」（https://e-murai.jp/works/・1回目）
+  - 「【全国上位9％の優良企業として掲載！】創業95年のシューパーツ・フットケアメーカーで暮らしを足もとから支える仕事をしませんか？みなさまの足とはお知り合いの会社です」（https://job.mynavi.jp/27/pc/search/corp97701/outline.html・3回目）
+  - 「教育・研修制度が充実、育児や介護のための時短勤務や有給休暇取得推進など働き方にも柔軟性があります」（https://job.mynavi.jp/27/pc/search/corp97701/outline.html・3回目）
+  - 「創業95年の老舗メーカーで「誰かの”一歩”を支える仕事」、一緒にしませんか？」（https://job.mynavi.jp/27/pc/search/corp97701/outline.html・3回目）
+  - 「#独自の開発力 #業界トップシェア #手厚い研修 #残業ほぼなし #有給休暇が取りやすい #ワークライフバランス #人々の暮らしを支える #自分のアイデアをカタチに #学歴不問 #創業95年の安定企業 #老舗メーカー」（https://job.mynavi.jp/27/pc/search/corp97701/outline.html・3回目）
+  - 「2016年11月 吉見工場が埼玉県から「彩の国工場」として指定される」（https://job.mynavi.jp/27/pc/search/corp97701/outline.html・3回目）
+  - 「埼玉県比企郡吉見町長谷工業団地に中央研究所を開設（現在の吉見工場）」（https://job.mynavi.jp/27/pc/search/corp97701/outline.html・3回目）
+- 資本金・株主：
+  - 「1969年には台湾に子会社を設立」（https://e-murai.jp/works/・1回目）
+  - 「1969年には台湾子会社を設立」（https://job.mynavi.jp/27/pc/search/corp97701/outline.html・3回目）
+  - 「「(株)村井」を設立（資本金200万円）」（https://job.mynavi.jp/27/pc/search/corp97701/outline.html・3回目）
+  - 「資本金1,500,000円をもって株式会社村井鋲螺組織に変更」（http://www.murai-co.com/company.html・3回目）
+  - 「資本金6,000,000円に増資」（http://www.murai-co.com/company.html・3回目）
+  - 「資本金10,000,000円に増資」（http://www.murai-co.com/company.html・3回目）
+  - 「アイカ工業(株)【東証プライム市場上場・名証プレミア市場上場】」（https://job.mynavi.jp/27/pc/search/corp97701/outline.html・3回目）
+  - 「アメリカの中央銀行の利上げなどにより日本国内の資金調達環境も厳しさを増す」（https://lp.startup-db.com/media/articles/connected-robotics・3回目）
+  - 「2021年12月に入社し、調達活動に加わった村井さんは「採用されたからにはバリューを出さないと」と意気込んだが、VC（ベンチャーキャピタル）との交渉は思うように進まない」（https://lp.startup-db.com/media/articles/connected-robotics・3回目）
+  - 「そんな時に株主から紹介されたのが「ベンチャーデット」だった」（https://lp.startup-db.com/media/articles/connected-robotics・3回目）
+  - 「アメリカの大学でファイナンスの修士号を取得し戦略コンサルタントとして活動した経験などもあり、資金調達活動をリードすることになった」（https://lp.startup-db.com/media/articles/connected-robotics・3回目）
+  - 「だが、資金調達環境は様変わりしていた」（https://lp.startup-db.com/media/articles/connected-robotics・3回目）
+- 表彰・認定の記録：
+  - 「4年連続グッドデザイン賞受賞」（https://job.mynavi.jp/27/pc/search/corp97701/outline.html・3回目）
+  - 「2019年から4年連続でグッドデザイン賞受賞」（https://job.mynavi.jp/27/pc/search/corp97701/outline.html・3回目）
+  - 「2019年からは4年連続でグッドデザイン賞も受賞しました」（https://job.mynavi.jp/27/pc/search/corp97701/outline.html・3回目）
+  - 「2021年にはキッズインソールが「子どもの足と健康の関係を再考するきっかけを与えた秀逸なアイデアが光る」と評価され「第15回キッズデザイン賞」を受賞」（https://job.mynavi.jp/27/pc/search/corp97701/outline.html・3回目）
+  - 「また、妊娠・出産したのだから仕方ないと悩みに蓋をするママたちの声をもとに作り上げた「ママインソール」は「2021年度グッドデザイン賞」を受賞」（https://job.mynavi.jp/27/pc/search/corp97701/outline.html・3回目）
+  - 「2005年 4月 経済産業省「IT経営百選」認定企業に選ばれ「IT活用賞」を受賞」（https://job.mynavi.jp/27/pc/search/corp97701/outline.html・3回目）
+  - 「2017年 1月 TAMA協会から「TAMAブランド企業」として認定される」（https://job.mynavi.jp/27/pc/search/corp97701/outline.html・3回目）
+  - 「2019年10月 「インソールプロ・スポーツ ランニング」が「2019年度グッドデザイン賞」受賞」（https://job.mynavi.jp/27/pc/search/corp97701/outline.html・3回目）
+  - 「2020年10月 「インソールプロ・スポーツ ゴルフ」が「2020年度グッドデザイン賞」受賞」（https://job.mynavi.jp/27/pc/search/corp97701/outline.html・3回目）
+  - 「2021年 8月 「キッズインソール」が「第15回キッズデザイン賞」受賞」（https://job.mynavi.jp/27/pc/search/corp97701/outline.html・3回目）
+  - 「2021年10月 「MAMA INSOLE」が「2021年度グッドデザイン賞」受賞」（https://job.mynavi.jp/27/pc/search/corp97701/outline.html・3回目）
+  - 「2022年10月 「キッズインソール2」が「2022年度グッドデザイン賞」受賞」（https://job.mynavi.jp/27/pc/search/corp97701/outline.html・3回目）
+- 検索結果の抜粋：
+  - 「(株) 村井 の新卒採用・ 会社概要 | マイナビ2027 — (株) 村井 の新卒採用・ 会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp97701 > outline」（https://job.mynavi.jp/27/pc/search/corp97701/outline.html・3回目）
+  - 「会社概要 - 株式会社村井 — 会社概要 - 株式会社村井 株式会社村井 https://e-murai.jp > company」（https://e-murai.jp/company/・3回目）
+  - 「企業 情報 - ねじ・ボルト加工の村井製作所 — 企業 情報 - ねじ・ボルト加工の村井製作所 murai-mfg.co.jp http://www.murai-mfg.co.jp > profile」（http://www.murai-mfg.co.jp/profile/index.html・3回目）
+  - 「会社 案内 | ものづくりパートナー 株式 会社 村井 【認定支援 ... — 会社 案内 | ものづくりパートナー 株式 会社 村井 【認定支援 ... s-murai.com https://s-murai.com > home > company」（https://s-murai.com/home/company/・3回目）
+  - 「(株) 村井 の新卒採用・会社概要 | マイナビ2027 — (株) 村井 の新卒採用・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp97701 > outline」（https://job.mynavi.jp/27/pc/search/corp97701/outline.html・3回目）
+  - 「村井 の 将来性・業績・ 売上 に関する評判・口コミ一覧（全5件） — 村井 の 将来性・業績・ 売上 に関する評判・口コミ一覧（全5件） 就活会議 https://syukatsu-kaigi.jp > post_items > word_mouths」（https://syukatsu-kaigi.jp/companies/93762/post_items/6/word_mouths・3回目）
+  - 「株式会社 村井 の株式の取得（子会社化）に関するお知らせ — 株式会社 村井 の株式の取得（子会社化）に関するお知らせ nihon-s.co.jp PDF https://www.nihon-s.co.jp > ...」（https://www.nihon-s.co.jp/?jet_download=7169c364557ade9bf0618926481dcb227c83c0de・3回目）
+  - 「会社案内 | ものづくりパートナー 株式会社 村井 【認定支援 ... — 会社案内 | ものづくりパートナー 株式会社 村井 【認定支援 ... s-murai.com https://s-murai.com > home > company」（https://s-murai.com/home/company/・3回目）
+  - 「株式会社 村井 の企業情報・財務データ | FUMA（フーマ） — 株式会社 村井 の企業情報・財務データ | FUMA（フーマ） FUMA（フーマ） https://fumadata.com > 企業検索」（https://fumadata.com/search/detail/1462689・3回目）
+  - 「提言 # 村井 英樹 次世代AI・オンチェーン金融構想PT事務局長 ... — 提言 # 村井 英樹 次世代AI・オンチェーン金融構想PT事務局長 ... Instagram https://www.instagram.com > reel > DYjEfwjlSQ5」（https://www.instagram.com/reel/DYjEfwjlSQ5/・3回目）
+  - 「ANRI 村井 輝さん - 元起業家・現投資家として - SmartRound — ANRI 村井 輝さん - 元起業家・現投資家として - SmartRound smartround https://jp.smartround.com > startup-next > post > anri-murai」（https://jp.smartround.com/startup-next/post/anri-murai・3回目）
+  - 「株式会社クロスビット 村井 様の 導入事例 を更新しました！ — 株式会社クロスビット 村井 様の 導入事例 を更新しました！ 株式会社セカツク https://sekatsuku.jp > blog > information」（https://sekatsuku.jp/blog/information/1343/・3回目）
+- 株主：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索11回）
 
 ## 東京ラヂエーター製造
 - 公式URL：https://www.tokyo-radiator.co.jp/（given）

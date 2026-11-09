@@ -1,0 +1,399 @@
+{
+ "name": "igus UK — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:materials",
+ "researched_at": "2026-11-09T22:41:49.324165+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "igus UK | Northampton - FacebookVoxelMatters - FacebookVoxelMatters - UK Military of Defense teams up with... - Facebookigus UK - Facebookigus | Cologne - FacebookVoxelMatters - New research shows UK hospitality and...VoxelMatters - UK researchers develop bio-sourced and... Sep 29, 2026 · Join us this Wednesday for our food & packaging day, here at igus UK in Northampton. A day packed with live de",
+    "url": "https://www.facebook.com/igus.co.uk/",
+    "pass": 3
+   },
+   {
+    "quote": "VoxelMatters - FacebookVoxelMatters - UK Military of Defense teams up with... - Facebookigus UK - Facebookigus | Cologne - FacebookVoxelMatters - New research shows UK hospitality and...VoxelMatters - UK researchers develop bio-sourced and... Unlock the Future of Metal Additive Manufacturing with VoxelMatters! VoxelMatters Research has kicked off a pre-sale campaign for its upcoming Metal AM Marke",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://momotarojeans.com/pages/stores/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bybyjapan.com/ja/relx-%E9%9B%BB%E5%AD%90%E3%82%BF%E3%83%90%E3%82%B3-%E3%83%8B%E3%82%B3%E3%83%81%E3%83%B3%E5%85%A5%E3%82%8A/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sennheiser.com/ja-jp/support/japan-dealers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.igus.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mouser.jp/ja/manufacturer/igus/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.findic.com/manufacturer/igus-DnRalQOKL.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/s/b-5488/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.igus.co.uk/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mouser.jp/en/manufacturer/igus/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.igus.co.uk/company/become-a-partner/distributor-werden",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.digikey.com/en/supplier-centers/igus",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan-partner.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan-partner.com/read/company-profile.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scmp.com/magazines/style/people/celebrities/article/3353686/who-ansel-elgorts-japanese-partner-miona-whom-he-just-welcomed-baby",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.globalpartnersjp.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E3%82%A8%E3%82%BE%E3%83%9C%E3%83%AA%E3%83%83%E3%82%AF-%E3%81%8B%E3%81%BC%E3%81%99%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8%E5%91%B3-%E3%83%9B%E3%82%A8%E3%82%A4%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3-%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3%E5%B0%82%E9%96%80%E5%BA%97-EZOBOLIC/dp/B0FPD2LRKY",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://shigoto.amazon.co.jp/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://business.amazon.co.jp/ja/solutions/payment-options/pay-by-invoice",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/02960957/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/s/c-17924/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00387546/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/igus.co.uk/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "igus UK — VoxelMatters 代理店",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "igus UK — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://momotarojeans.com/pages/stores/",
+    "https://bybyjapan.com/ja/relx-電子タバコ-ニコチン入り/",
+    "https://www.sennheiser.com/ja-jp/support/japan-dealers",
+    "https://his-thailandprivilege.com/ja/",
+    "https://gausium.com/ja/products/phantas-2/",
+    "https://www.daikinthai.com/en",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://dolphin-s.co.jp.siteindices.com/",
+    "https://kimini.online/blog/archives/39927"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "igus UK — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.igus.co.jp/",
+    "https://www.mouser.jp/ja/manufacturer/igus/",
+    "https://jp.findic.com/manufacturer/igus-DnRalQOKL.html",
+    "https://www.monotaro.com/s/b-5488/",
+    "https://distymap.com/manufacturers/igus",
+    "https://www.igus.co.jp/company/products/overview",
+    "https://www.capind.co.jp/product/search.php?mcd=igus",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=1196"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "igus UK — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "igus UK — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.igus.co.uk/",
+    "https://www.mouser.jp/en/manufacturer/igus/",
+    "https://www.igus.co.uk/company/become-a-partner/distributor-werden",
+    "https://www.digikey.com/en/supplier-centers/igus",
+    "https://jp.e-suptec.com/en/igus/8074/",
+    "https://uk.farnell.com/b/igus",
+    "https://www.voxelmatters.com/",
+    "https://www.igus.eu/company/become-a-partner/become-a-distributor",
+    "https://www.igus.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "igus UK — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.japan-partner.com/",
+    "https://www.japan-partner.com/read/company-profile.html",
+    "https://www.scmp.com/magazines/style/people/celebrities/article/3353686/who-ansel-elgorts-japanese-partner-miona-whom-he-just-welcomed-baby",
+    "https://www.globalpartnersjp.com/",
+    "https://www.oliac.com/autos/",
+    "https://zoom.us/signin",
+    "https://www.youtube.com/watch?v=SqlzT3P75QY",
+    "https://www.jetro.go.jp/usa/investinjapan/j-bridge.html",
+    "https://vietnamnews.vn/economy/1803879/pan-group-japanese-partner-join-hands-to-modernise-agriculture.html",
+    "https://teamjapanese.com/japanese-terms-of-endearment/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:amazon.co.jp igus UK — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/エゾボリック-かぼすオレンジ味-ホエイプロテイン-プロテイン専門店-EZOBOLIC/dp/B0FPD2LRKY",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://shigoto.amazon.co.jp/",
+    "https://business.amazon.co.jp/ja/solutions/payment-options/pay-by-invoice",
+    "https://music.amazon.co.jp/artists/B07S8K9CFJ/perfume",
+    "https://www.amazon.co.jp/【デジタル限定】宮原華音-写真集-ANOTHER-ワニブックス-デジタル写真集-ebook/dp/B0HJ5422S1",
+    "https://business.amazon.co.jp/ja/login"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com igus UK — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/g/02960957/",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/s/c-17924/",
+    "https://www.monotaro.com/g/00387546/",
+    "https://www.monotaro.com/s/c-121733/",
+    "https://www.monotaro.com/g/08083106/",
+    "https://www.monotaro.com/g/00017325/",
+    "https://www.monotaro.com/g/00535279/",
+    "https://www.monotaro.com/g/00511629/",
+    "https://www.monotaro.com/g/01133192/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "igus UK — VoxelMatters employees revenue parent company",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com igus UK — VoxelMatters",
+   "results": [
+    "https://note.com/tag/積読美術館",
+    "https://note.com/seigo77",
+    "https://note.com/diparururun",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com igus UK — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/igus_ai",
+    "https://x.com/igus_inc",
+    "https://help.x.com/en/using-x",
+    "https://x.com/itscelyunique/status/2117839228826521620",
+    "https://x.com/ChloeBailey/status/2114751478493765921",
+    "https://x.com/gdun/status/2116607993295118542",
+    "https://x.com/gustavoinsol/status/2115330668368400586",
+    "https://x.com/DemocraticWins/status/2117994783016685719"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:linkedin.com igus UK — VoxelMatters",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com igus UK — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/igus.co.uk/",
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/VoxelMatters/posts/uk-military-of-defense-teams-up-with-industry-to-unlock-the-benefits-of-additive/675810511216667/",
+    "https://www.facebook.com/igus.co.uk/events/",
+    "https://www.facebook.com/igusDE/",
+    "https://www.facebook.com/VoxelMatters/posts/new-research-shows-uk-hospitality-and-retail-sectors-are-not-just-suffering-from/1913084755530307/",
+    "https://www.facebook.com/VoxelMatters/posts/uk-researchers-develop-bio-sourced-and-recyclable-resin-for-3d-printing-this-eco/1090393416425039/",
+    "https://www.facebook.com/igus.co.uk/posts/were-excited-to-announce-that-the-royal-opera-house-won-bronze-for-their-submiss/1323922036388377/",
+    "https://www.facebook.com/igus.co.uk/posts/when-precision-matters-every-connection-counts-a-thermocouple-cable-transmits-th/1306593274787920/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "igus UK — VoxelMatters note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "igus UK — VoxelMatters X 投稿",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://www.voxelmatters.com/contribute/",
+    "https://www.voxelmatters.com/",
+    "https://www.igus.co.uk/",
+    "https://www.voxelmatters.com/about/",
+    "https://x.com/igus_inc",
+    "https://x.com/UKDegreeGuide"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索15回）"
+ }
+}

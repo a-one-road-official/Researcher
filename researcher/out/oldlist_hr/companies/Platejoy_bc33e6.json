@@ -1,0 +1,1030 @@
+{
+ "name": "Platejoy",
+ "aliases": [],
+ "context": "旧営業リスト｜Education / Childcare｜未接触",
+ "researched_at": "2026-11-09T22:51:01.945808+00:00",
+ "official_url": "https://support.platejoy.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "How do I update my preferences?",
+    "url": "https://support.platejoy.com/platejoy-faqs",
+    "pass": 1
+   },
+   {
+    "quote": "I updated my preferences but my menus didn't change. Why?",
+    "url": "https://support.platejoy.com/platejoy-faqs",
+    "pass": 1
+   },
+   {
+    "quote": "Can I combine multiple preferences (e.g. Low Carb and Vegetarian)?",
+    "url": "https://support.platejoy.com/platejoy-faqs",
+    "pass": 1
+   },
+   {
+    "quote": "Why are some preferences unable to be selected?",
+    "url": "https://support.platejoy.com/platejoy-faqs",
+    "pass": 1
+   },
+   {
+    "quote": "How do I print my recipes or shopping list?",
+    "url": "https://support.platejoy.com/platejoy-faqs",
+    "pass": 1
+   },
+   {
+    "quote": "April 20, 2026",
+    "url": "https://mealthinker.com/blog/platejoy-alternative",
+    "pass": 3
+   },
+   {
+    "quote": "The standout achievement was getting CDC recognition for its Diabetes Prevention Program. Over",
+    "url": "https://mealthinker.com/blog/platejoy-alternative",
+    "pass": 3
+   },
+   {
+    "quote": "20,000 people with prediabetes",
+    "url": "https://mealthinker.com/blog/platejoy-alternative",
+    "pass": 3
+   },
+   {
+    "quote": "Users who stuck with it praised the time savings and reduced food waste. One",
+    "url": "https://mealthinker.com/blog/platejoy-alternative",
+    "pass": 3
+   },
+   {
+    "quote": "Social media accounts went silent",
+    "url": "https://mealthinker.com/blog/platejoy-alternative",
+    "pass": 3
+   },
+   {
+    "quote": "This is a textbook acquisition death. A bigger company buys a smaller product, strips it for parts, and abandons the original users.",
+    "url": "https://mealthinker.com/blog/platejoy-alternative",
+    "pass": 3
+   },
+   {
+    "quote": "solve the same core problem (what should I cook this week?) in fundamentally different ways. PlateJoy matched you with recipes from a static database based on a quiz. MealThinker generates personalized meals through AI conversation.",
+    "url": "https://mealthinker.com/blog/platejoy-alternative",
+    "pass": 3
+   },
+   {
+    "quote": "14+ preset diets (some combinations unavailable)",
+    "url": "https://mealthinker.com/blog/platejoy-alternative",
+    "pass": 3
+   },
+   {
+    "quote": "Learns from every conversation. Improves over time. See",
+    "url": "https://mealthinker.com/blog/platejoy-alternative",
+    "pass": 3
+   },
+   {
+    "quote": "If you wanted a structured weekly plan with zero input beyond the initial quiz, PlateJoy worked. Answer questions once, get a plan. No conversation needed. For people who found that approach comforting, it was a solid product.",
+    "url": "https://mealthinker.com/blog/platejoy-alternative",
+    "pass": 3
+   },
+   {
+    "quote": "PlateJoy's 50-question quiz was state of the art in 2012. You answered once, the algorithm filtered its recipe database, and you got a personalized plan. The problem: \"personalized\" had a ceiling.",
+    "url": "https://mealthinker.com/blog/platejoy-alternative",
+    "pass": 3
+   },
+   {
+    "quote": "A fixed recipe database can only contain so many options. Filter for vegan + nut-free + low-FODMAP + quick meals and you might have 30 recipes left. Those 30 get repetitive fast. Users noticed. The quiz captured your preferences on day one but couldn't keep up as your tastes evolved or your pantry changed.",
+    "url": "https://mealthinker.com/blog/platejoy-alternative",
+    "pass": 3
+   },
+   {
+    "quote": "This is the structural problem with every quiz-based meal planner, not just PlateJoy.",
+    "url": "https://mealthinker.com/blog/platejoy-alternative",
+    "pass": 3
+   },
+   {
+    "quote": "The acquisition made everything worse. RVO Health likely acquired PlateJoy for its health and wellness assets, not to run a meal planning product. The founder eventually moved on. Development stopped. Support evaporated. The recipe database froze in time. It's the same pattern that killed",
+    "url": "https://mealthinker.com/blog/platejoy-alternative",
+    "pass": 3
+   },
+   {
+    "quote": ", social media went silent, and the website was stripped down. Development stopped, support disappeared, and the service was officially discontinued in mid-2025. This is a common pattern when large media companies acquire small product startups.",
+    "url": "https://mealthinker.com/blog/platejoy-alternative",
+    "pass": 3
+   },
+   {
+    "quote": "offers a 7-day free trial with payment method required. Like PlateJoy, MealThinker tracks your kitchen inventory. Unlike PlateJoy's quiz-based approach, it uses AI conversation to learn your preferences over time, generate unlimited recipe variety, and adapt to what you have on hand in real time. For a full breakdown of how AI meal planning compares to traditional apps, see",
+    "url": "https://mealthinker.com/blog/platejoy-alternative",
+    "pass": 3
+   },
+   {
+    "quote": "What about PlateJoy's diabetes prevention program?",
+    "url": "https://mealthinker.com/blog/platejoy-alternative",
+    "pass": 3
+   },
+   {
+    "quote": "See the current MealThinker workflow: pantry recipes, saved preferences, meal plans, groceries and explicit nutrition logging.",
+    "url": "https://mealthinker.com/blog/platejoy-alternative",
+    "pass": 3
+   },
+   {
+    "quote": "Judge a meal planning app by the dinners, recipes, and shopping workflow you actually use. A practical comparison with your current routine, without promised savings.",
+    "url": "https://mealthinker.com/blog/platejoy-alternative",
+    "pass": 3
+   },
+   {
+    "quote": "The personalized MealThinker app can use a user-controlled profile, optional pantry, saved recipes, plans, meal history, cooking constraints, and nutrition targets.",
+    "url": "https://mealthinker.com/blog/platejoy-alternative",
+    "pass": 3
+   },
+   {
+    "quote": "This page sticks to what independent sources have reported about PlateJoy's shutdown and its product while it was live, then explains what MacroRecipe does the same, what it does differently, and what it does not do. It is written by the team behind MacroRecipe, so read it with that in mind — the goal is to be useful even if you land on something else.",
+    "url": "https://macro-recipe.com/en/guides/platejoy-alternative/",
+    "pass": 3
+   },
+   {
+    "quote": "PlateJoy's recipes were folded into Wellos, a separate app from the same parent company, RVO Health. Whether that move preserved any individual user's saved plans is not something a former PlateJoy account holder can check today, because there is no working PlateJoy login to sign in from.",
+    "url": "https://macro-recipe.com/en/guides/platejoy-alternative/",
+    "pass": 3
+   },
+   {
+    "quote": "Some subscribers report pro-rated refunds were offered around the shutdown, per PlateJoy's own former support center as indexed by search engines. If you were charged after the closure and never saw a refund, your card issuer or PayPal is the practical next step — there is no PlateJoy support inbox left to write to.",
+    "url": "https://macro-recipe.com/en/guides/platejoy-alternative/",
+    "pass": 3
+   },
+   {
+    "quote": "The preference quiz behind PlateJoy drove a genuinely large recipe library, filtered to what each person actually said they liked and could eat — professional reviewers rated it well for ease of use while it was live.",
+    "url": "https://macro-recipe.com/en/guides/platejoy-alternative/",
+    "pass": 3
+   },
+   {
+    "quote": "It is fair to say PlateJoy solved the \"what do I cook this week\" problem well for a lot of people, for a long time — the complaints below are mostly about billing and about the last couple of years under new ownership, not about the core idea.",
+    "url": "https://macro-recipe.com/en/guides/platejoy-alternative/",
+    "pass": 3
+   },
+   {
+    "quote": "You still get a weekly menu built from a quiz-style profile — your food preferences, allergies, the ingredients you want to avoid, your kitchen equipment — made of real, complete dishes rather than a bare nutrient target.",
+    "url": "https://macro-recipe.com/en/guides/platejoy-alternative/",
+    "pass": 3
+   },
+   {
+    "quote": "Recipes open step by step when it is time to cook, and a batch cooking mode groups the week's prep into one session if you would rather cook once and eat several times.",
+    "url": "https://macro-recipe.com/en/guides/platejoy-alternative/",
+    "pass": 3
+   },
+   {
+    "quote": "PlateJoy planned meals around your stated food preferences, not around a calorie or macro target — its own former support content described no macro-goal adaptation feature. MacroRecipe starts from a goal (cut, maintenance, muscle gain) and adapts real recipes so the day lands near your estimated calorie and protein numbers, and says so honestly when a day falls short instead of pretending.",
+    "url": "https://macro-recipe.com/en/guides/platejoy-alternative/",
+    "pass": 3
+   },
+   {
+    "quote": "The grocery list carries an estimated cost in your own currency, adjusted for your country's price level. You set a weekly grocery budget, and the app tells you when a week's estimated cost runs over it — an estimate, not a receipt, but a number PlateJoy's plan-around-preferences model never gave you.",
+    "url": "https://macro-recipe.com/en/guides/platejoy-alternative/",
+    "pass": 3
+   },
+   {
+    "quote": "There is no barcode scanner, and no daily food log you have to keep up with. You set your food preferences and your goal once; the app rebuilds the menu around them, week after week.",
+    "url": "https://macro-recipe.com/en/guides/platejoy-alternative/",
+    "pass": 3
+   },
+   {
+    "quote": "It is not free. The preview of your first menu is free, after which it is a paid subscription, worth weighing against your own budget. PlateJoy was never free either: its last-known pricing was around $12.99 for one month, $69 for six months, or $99 for a year, after a 10-day trial.",
+    "url": "https://macro-recipe.com/en/guides/platejoy-alternative/",
+    "pass": 3
+   },
+   {
+    "quote": "Switching in practice: what to carry over, how the first week looks",
+    "url": "https://macro-recipe.com/en/guides/platejoy-alternative/",
+    "pass": 3
+   },
+   {
+    "quote": "A first week starts the same way PlateJoy's onboarding did — a short profile of your food preferences, your goal, and your kitchen — and ends with a weekly menu and one grocery list. The difference shows up at the bottom of the list: an estimated total cost, so you know roughly what the week will run before you are at the register.",
+    "url": "https://macro-recipe.com/en/guides/platejoy-alternative/",
+    "pass": 3
+   },
+   {
+    "quote": "Price, compared",
+    "url": "https://macro-recipe.com/en/guides/platejoy-alternative/",
+    "pass": 3
+   },
+   {
+    "quote": "PlateJoy's last reported pricing, while it was live, was roughly $12.99 for one month, $69 for six months (about $11–12/month), or $99 for a year (about $8.25/month), after a 10-day free trial — figures as reported by review sites, not verifiable on a live pricing page today.",
+    "url": "https://macro-recipe.com/en/guides/platejoy-alternative/",
+    "pass": 3
+   },
+   {
+    "quote": "MacroRecipe's preview of the first menu is free, then a subscription. Any comparison across currencies and time is an estimate, not a live like-for-like — check the App Store listing for the current price where you are.",
+    "url": "https://macro-recipe.com/en/guides/platejoy-alternative/",
+    "pass": 3
+   },
+   {
+    "quote": "An indicative example for someone aiming at roughly 1,700 kcal and 105 g of protein a day. Estimated figures; your own menu is built from your profile and your tastes.",
+    "url": "https://macro-recipe.com/en/guides/platejoy-alternative/",
+    "pass": 3
+   },
+   {
+    "quote": "No. The service closed on July 1, 2025 and there is no live app, account portal or pricing page left. Its recipes were folded into Wellos, a separate app from the same parent company.",
+    "url": "https://macro-recipe.com/en/guides/platejoy-alternative/",
+    "pass": 3
+   },
+   {
+    "quote": "Pro-rated refunds were reportedly offered around the shutdown, per PlateJoy's own former support content. With no PlateJoy support inbox left, a charge you believe was wrong is best disputed directly with your card issuer or PayPal.",
+    "url": "https://macro-recipe.com/en/guides/platejoy-alternative/",
+    "pass": 3
+   },
+   {
+    "quote": "MacroRecipe's preview of the first menu is free, then it becomes a paid subscription. PlateJoy itself was never free either: its last-known pricing started around $12.99 a month after a 10-day trial.",
+    "url": "https://macro-recipe.com/en/guides/platejoy-alternative/",
+    "pass": 3
+   },
+   {
+    "quote": "Free preview of your first menu · on iPhone",
+    "url": "https://macro-recipe.com/en/guides/platejoy-alternative/",
+    "pass": 3
+   },
+   {
+    "quote": "A Better Meal collects your goals, dietary preferences, allergies, foods to avoid, and recipe preferences, then creates a personalized dinner plan. You can adjust, swap, and add meals, but the starting point is not a blank calendar.",
+    "url": "https://abettermeal.com/mealime-is-shutting-down-platejoy-is-no-longer-available-either/",
+    "pass": 3
+   },
+   {
+    "quote": "For shopping, A Better Meal connects with nearly 50 grocery and delivery services. The app guides you through a retailer search experience item by item. You choose the products and check out yourself, so the relationship with the retailer stays yours.",
+    "url": "https://abettermeal.com/mealime-is-shutting-down-platejoy-is-no-longer-available-either/",
+    "pass": 3
+   },
+   {
+    "quote": "A Better Meal can also import recipes from websites, social media, and photos. That is useful when you are rebuilding a routine from recipes you already trust. It does not mean that a Mealime library, favorites, or account data can be migrated automatically. That capability is being investigated separately.",
+    "url": "https://abettermeal.com/mealime-is-shutting-down-platejoy-is-no-longer-available-either/",
+    "pass": 3
+   },
+   {
+    "quote": "There is no current PlateJoy product to compare feature by feature. The honest comparison is between what former PlateJoy or Mealime users were looking for and what A Better Meal offers now.",
+    "url": "https://abettermeal.com/mealime-is-shutting-down-platejoy-is-no-longer-available-either/",
+    "pass": 3
+   },
+   {
+    "quote": "If you want personalized recommendations, A Better Meal starts with your preferences and builds the dinner plan from there. If you want the grocery list to be downstream of the plan, the list is generated from the plan rather than assembled as a separate task. If you want retailer flexibility, A Better Meal is independent of a single grocery chain and works across its current integration roster.",
+    "url": "https://abettermeal.com/mealime-is-shutting-down-platejoy-is-no-longer-available-either/",
+    "pass": 3
+   },
+   {
+    "quote": "No migration capability is claimed here. A Better Meal can import recipes from websites, social media, and photos, but automatic migration of Mealime or PlateJoy libraries, favorites, or account data is not currently promised.",
+    "url": "https://abettermeal.com/mealime-is-shutting-down-platejoy-is-no-longer-available-either/",
+    "pass": 3
+   },
+   {
+    "quote": "Mealime Is Shutting Down: Paprika or A Better Meal?",
+    "url": "https://abettermeal.com/mealime-is-shutting-down-platejoy-is-no-longer-available-either/",
+    "pass": 3
+   },
+   {
+    "quote": "a detailed health quiz that shaped every plan, support for conditions such as diabetes, family-friendly plans with kid preferences, and grocery lists that sent straight to Instacart.",
+    "url": "https://ultimatemealplans.com/alternatives/platejoy",
+    "pass": 3
+   },
+   {
+    "quote": "PlateJoy alternatives compared by price, trial, planning, and grocery lists",
+    "url": "https://ultimatemealplans.com/alternatives/platejoy",
+    "pass": 3
+   },
+   {
+    "quote": "$14.99/mo or $59.99/yr (Premium); free tier available",
+    "url": "https://ultimatemealplans.com/alternatives/platejoy",
+    "pass": 3
+   },
+   {
+    "quote": "Done-for-you family dinners at a low price",
+    "url": "https://ultimatemealplans.com/alternatives/platejoy",
+    "pass": 3
+   },
+   {
+    "quote": "Paprika 3",
+    "url": "https://ultimatemealplans.com/alternatives/platejoy",
+    "pass": 3
+   },
+   {
+    "quote": "US list prices checked",
+    "url": "https://ultimatemealplans.com/alternatives/platejoy",
+    "pass": 3
+   },
+   {
+    "quote": ". App-store prices, regional prices, and sales can differ.",
+    "url": "https://ultimatemealplans.com/alternatives/platejoy",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "How do I change my email address?",
+    "url": "https://support.platejoy.com/platejoy-faqs",
+    "pass": 1
+   },
+   {
+    "quote": "How can I unsubscribe from email notifications?",
+    "url": "https://support.platejoy.com/platejoy-faqs",
+    "pass": 1
+   },
+   {
+    "quote": "Send us an email and we’ll get back to you.",
+    "url": "https://support.platejoy.com/platejoy-faqs",
+    "pass": 1
+   },
+   {
+    "quote": "Real strategies, not generic advice. We'll only email when it's worth your time.",
+    "url": "https://mealthinker.com/blog/platejoy-alternative",
+    "pass": 3
+   },
+   {
+    "quote": "One email a week. A real meal plan + grocery list, free, no app required.",
+    "url": "https://abettermeal.com/mealime-is-shutting-down-platejoy-is-no-longer-available-either/",
+    "pass": 3
+   },
+   {
+    "quote": "Unsubscribe in one click. We don’t share your email.",
+    "url": "https://abettermeal.com/mealime-is-shutting-down-platejoy-is-no-longer-available-either/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: PlateJoy achieves HIPAA-compliant participant engagement with Paubox Email API | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/paubox/case-study/platejoy-uses-paubox-email-api-to-engage-with-participants-in-its-cdc-recognized-diabetes-prevention-program-to-hit-target-milestones-without-resorting-to-clunky-portals",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: PlateJoy achieves HIPAA-compliant participant engagement with Paubox Email API",
+    "url": "https://www.casestudies.com/company/paubox/case-study/platejoy-uses-paubox-email-api-to-engage-with-participants-in-its-cdc-recognized-diabetes-prevention-program-to-hit-target-milestones-without-resorting-to-clunky-portals",
+    "pass": 3
+   },
+   {
+    "quote": "PlateJoy uses Paubox Email API to engage with participants in its CDC recognized diabetes prevention program to hit target milestones without resorting to clunky portals",
+    "url": "https://www.casestudies.com/company/paubox/case-study/platejoy-uses-paubox-email-api-to-engage-with-participants-in-its-cdc-recognized-diabetes-prevention-program-to-hit-target-milestones-without-resorting-to-clunky-portals",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Plate Joy - Support — Plate Joy Personalizing Your Plan Can I choose my own meals? How do I remove a meal from my menu that I don't like/want? How do I search for recipes to add to my menu? Can I find meals that use a certain ingredient? Why can't I view some of my favorite recipes? How can I add more vegetarian dishes to my menu? How often are new meals added? Why am I not seeing more options to ",
+    "url": "https://support.platejoy.com/",
+    "pass": 3
+   },
+   {
+    "quote": "PlateJoy Shut Down 2025: What Happened & Best Alternatives — Apr 20, 2026 · PlateJoy was acquired by RVO Health and shut down in 2025. If you're looking for the PlateJoy website or an Instacart-integrated meal planning alternative, here's what replaced it.",
+    "url": "https://mealthinker.com/blog/platejoy-alternative",
+    "pass": 3
+   },
+   {
+    "quote": "PlateJoy Alternative — PlateJoy Shut Down in 2025 — PlateJoy shut down on July 1, 2025 and platejoy.com no longer resolves. What happened, and a weekly menu and grocery list app to move to instead.",
+    "url": "https://macro-recipe.com/en/guides/platejoy-alternative/",
+    "pass": 3
+   },
+   {
+    "quote": "Mealime Is Shutting Down. PlateJoy Is No Longer Available Either. — Sep 20, 2026 · PlateJoy is no longer available, so it is not a current Mealime alternative. For an independent replacement that still connects personalized meal planning, grocery-list creation, and shopping, A Better Meal is a current option to consider. PlateJoy used to be a legitimate comparison point.",
+    "url": "https://abettermeal.com/mealime-is-shutting-down-platejoy-is-no-longer-available-either/",
+    "pass": 3
+   },
+   {
+    "quote": "6 Best PlateJoy Alternatives in 2026 (PlateJoy Shut Down) — Sep 29, 2026 · PlateJoy closed on July 1, 2025. An honest comparison of the best PlateJoy alternatives, including Eat This Much, eMeals, and Samsung Food, with prices.",
+    "url": "https://ultimatemealplans.com/alternatives/platejoy",
+    "pass": 3
+   },
+   {
+    "quote": "PlateJoy Shut Down in 2025: What Happened + the Best PlateJoy ... — Sep 29, 2026 · PlateJoy closed on July 1, 2025. What happened, what became of refunds and recipes (Wellos), and the best PlateJoy alternatives in 2026 with honest prices.",
+    "url": "https://ultimatemealplans.com/reviews/platejoy",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: PlateJoy achieves HIPAA-compliant participant ... — PlateJoy, a health‑tech company that creates personalized meal plans and runs a CDC‑recognized diabetes prevention program, faced a new challenge when health plans began subsidizing subscriptions: meeting HIPAA requirements while driving participant engagement tied to milestone payments.",
+    "url": "https://www.casestudies.com/company/paubox/case-study/platejoy-uses-paubox-email-api-to-engage-with-participants-in-its-cdc-recognized-diabetes-prevention-program-to-hit-target-milestones-without-resorting-to-clunky-portals",
+    "pass": 3
+   },
+   {
+    "quote": "Christina Bognet - Co-Founder, CEO at PlateJoy Health ...Industrial Manufacturing Case Studies - OraclePlateJoy - PauboxPlateJoy Acquisition + Parting Thoughts | Jonathan Cordeau — Staring down the barrel of a massive economic and health emergency, Christina has managed to keep all of our heads screwed on straight. She made sure that we all had farmers market produce... Jul 31, 2023 · The cloud he",
+    "url": "https://www.linkedin.com/in/christina-bognet-90a87718",
+    "pass": 3
+   },
+   {
+    "quote": "PlateJoy - Paubox — Oct 6, 2020 · The milestones were tied to engagement, so PlateJoy needed a way to reach people beyond the app and bring them in to perform tasks. Mobile push notifications and SMS were not HIPAA compliant, so they weren’t viable for anything other than generic messages.",
+    "url": "https://www.paubox.com/customer-stories/platejoy",
+    "pass": 3
+   },
+   {
+    "quote": "PLATEJOY INC Carson CA, 90746 - Company Profile - Cortera — Company Details Location Type: Branch Industry: Health and Allied Services, N.E.C. Ownership: Private Year Founded: 2012 Sales Range: $1,000,000 to $4,999,999 Employees: 5 to 10",
+    "url": "https://start.cortera.com/company/research/m2k8jxm1p/platejoy-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "Christina Bognet - Co-Founder, CEO at PlateJoy Health ...Cremmjoy secures new funding as it continues buildup to ...PlateJoy Inc Overview - Salary.comRV Health adds PlateJoy Health to its Brand RosterCompany Details: PlateJoySeed Round - PlateJoy - Crunchbase Funding Round Profile — At PlateJoy, we focus on delivering a product that truly helps them achieve their health goals. As a person who cons",
+    "url": "https://www.linkedin.com/in/christina-bognet-90a87718",
+    "pass": 3
+   },
+   {
+    "quote": "PlateJoy Inc Overview - Salary.com — PlateJoy, Inc. develops PlateJoy, a website that helps users to plan what to buy and cook each week by using data about their lifestyle, preferences, and goals.",
+    "url": "https://www.salary.com/research/company/platejoy-inc-overview",
+    "pass": 3
+   },
+   {
+    "quote": "RV Health adds PlateJoy Health to its Brand RosterCompany Details: PlateJoySeed Round - PlateJoy - Crunchbase Funding Round Profile — Sep 2, 2021 · Founded in 2000, Red Ventures spans 5 continents and employs more than 4,500 people. Red Ventures owns and operates several large digital brands including CNET, Healthline Media, The Points Guy, Bankrate and Allconnect.com. Company details for PlateJoy",
+    "url": "https://www.redventures.com/press/press-releases/rv-health-adds-platejoy-health-to-its-brand-roster",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "PlateJoy is gone. The domain doesn't resolve, the app was pulled from the Play Store, and customer support has been a dial tone since 2023. But before the acquisition shut it down, PlateJoy was one of the better meal planning services available.",
+    "url": "https://mealthinker.com/blog/platejoy-alternative",
+    "pass": 3
+   },
+   {
+    "quote": "Then the acquisition happened, and everything that made it good fell apart.",
+    "url": "https://mealthinker.com/blog/platejoy-alternative",
+    "pass": 3
+   },
+   {
+    "quote": "RVO Health (the company behind Healthline) acquired PlateJoy in 2021. Then everything fell apart.",
+    "url": "https://mealthinker.com/blog/platejoy-alternative",
+    "pass": 3
+   },
+   {
+    "quote": "Acquired by RVO Health (Red Ventures / Healthline Media)",
+    "url": "https://mealthinker.com/blog/platejoy-alternative",
+    "pass": 3
+   },
+   {
+    "quote": "This is a textbook acquisition death. A bigger company buys a smaller product, strips it for parts, and abandons the original users.",
+    "url": "https://mealthinker.com/blog/platejoy-alternative",
+    "pass": 3
+   },
+   {
+    "quote": "After the acquisition, PlateJoy's worst reviews are almost entirely about billing. Users report being charged after cancellation with no way to reach anyone.",
+    "url": "https://mealthinker.com/blog/platejoy-alternative",
+    "pass": 3
+   },
+   {
+    "quote": "With development frozen after the acquisition, recipe quality stagnated. The database was finite. Filter for your specific dietary restrictions and you'd cycle through the same meals within weeks.",
+    "url": "https://mealthinker.com/blog/platejoy-alternative",
+    "pass": 3
+   },
+   {
+    "quote": "After the acquisition, users also reported grocery list mismatches: recipes calling for one ingredient while the shopping list showed something completely different. Without active development, bugs like these never got fixed.",
+    "url": "https://mealthinker.com/blog/platejoy-alternative",
+    "pass": 3
+   },
+   {
+    "quote": "10-day trial (billing issues reported post-acquisition)",
+    "url": "https://mealthinker.com/blog/platejoy-alternative",
+    "pass": 3
+   },
+   {
+    "quote": "The acquisition made everything worse. RVO Health likely acquired PlateJoy for its health and wellness assets, not to run a meal planning product. The founder eventually moved on. Development stopped. Support evaporated. The recipe database froze in time. It's the same pattern that killed",
+    "url": "https://mealthinker.com/blog/platejoy-alternative",
+    "pass": 3
+   },
+   {
+    "quote": "after Whirlpool's acquisition.",
+    "url": "https://mealthinker.com/blog/platejoy-alternative",
+    "pass": 3
+   },
+   {
+    "quote": "If you're looking for what PlateJoy built but the acquisition took away,",
+    "url": "https://mealthinker.com/blog/platejoy-alternative",
+    "pass": 3
+   },
+   {
+    "quote": "No. PlateJoy shut down in July 2025 after being acquired by RVO Health (Healthline Media) in 2021. The app was",
+    "url": "https://mealthinker.com/blog/platejoy-alternative",
+    "pass": 3
+   },
+   {
+    "quote": "PlateJoy was acquired by RVO Health in 2021. After the acquisition, the founder",
+    "url": "https://mealthinker.com/blog/platejoy-alternative",
+    "pass": 3
+   },
+   {
+    "quote": "Recipe variety thinned out for some users too — swapping a meal tended to keep surfacing similar, unappealing suggestions rather than something genuinely different, and reviewers noted a quality drop after the RVO Health acquisition: \"Quality dropped fast...regret buying year of service\" (per MealThinker's synthesis of user feedback).",
+    "url": "https://macro-recipe.com/en/guides/platejoy-alternative/",
+    "pass": 3
+   },
+   {
+    "quote": "The grocery list carries an estimated cost in your own currency, adjusted for your country's price level. You set a weekly grocery budget, and the app tells you when a week's estimated cost runs over it — an estimate, not a receipt, but a number PlateJoy's plan-around-preferences model never gave you.",
+    "url": "https://macro-recipe.com/en/guides/platejoy-alternative/",
+    "pass": 3
+   },
+   {
+    "quote": "Switching in practice: what to carry over, how the first week looks",
+    "url": "https://macro-recipe.com/en/guides/platejoy-alternative/",
+    "pass": 3
+   },
+   {
+    "quote": "Those pages are now stale. PlateJoy’s own help center carries a shutdown notice. It should not be positioned as an available replacement, and readers should not be sent there to start a new subscription.",
+    "url": "https://abettermeal.com/mealime-is-shutting-down-platejoy-is-no-longer-available-either/",
+    "pass": 3
+   },
+   {
+    "quote": "PlateJoy was one of the more thoughtful planners. Knowing what you valued in it narrows the next pick.",
+    "url": "https://ultimatemealplans.com/alternatives/platejoy",
+    "pass": 3
+   },
+   {
+    "quote": "expensive next to most planners, support and updates faded after the 2021 acquisition, no export when it closed, and some recipes needed specialty ingredients.",
+    "url": "https://ultimatemealplans.com/alternatives/platejoy",
+    "pass": 3
+   },
+   {
+    "quote": "PlateJoy was acquired by RV Health (the Red Ventures health business behind Healthline, now RVO Health) in September 2021 and shut down on July 1, 2025. Its help center says subscriptions ended then, pro-rated refunds were offered, and its recipes moved to the Wellos app.",
+    "url": "https://ultimatemealplans.com/alternatives/platejoy",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Case Study: PlateJoy achieves HIPAA-compliant participant engagement with Paubox Email API | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/paubox/case-study/platejoy-uses-paubox-email-api-to-engage-with-participants-in-its-cdc-recognized-diabetes-prevention-program-to-hit-target-milestones-without-resorting-to-clunky-portals",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: PlateJoy achieves HIPAA-compliant participant engagement with Paubox Email API",
+    "url": "https://www.casestudies.com/company/paubox/case-study/platejoy-uses-paubox-email-api-to-engage-with-participants-in-its-cdc-recognized-diabetes-prevention-program-to-hit-target-milestones-without-resorting-to-clunky-portals",
+    "pass": 3
+   },
+   {
+    "quote": "Open case study document...",
+    "url": "https://www.casestudies.com/company/paubox/case-study/platejoy-uses-paubox-email-api-to-engage-with-participants-in-its-cdc-recognized-diabetes-prevention-program-to-hit-target-milestones-without-resorting-to-clunky-portals",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/paubox/case-study/platejoy-uses-paubox-email-api-to-engage-with-participants-in-its-cdc-recognized-diabetes-prevention-program-to-hit-target-milestones-without-resorting-to-clunky-portals",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Joyplate (@JoyPlate) / X #EatWellForLess #MealPlanningMadeEasy #CustomizeYourMeals platejoy-affiliate-program.7eer.net/c/297069/29772…",
+    "url": "https://x.com/JoyPlate",
+    "pass": 3
+   },
+   {
+    "quote": "Win a month of unlimited personal training from Vint and $100 ... VintSF (@JoinVintSF). Win a month of unlimited personal training from Vint and $100 of meals from PlateJoy! Last chance:",
+    "url": "https://x.com/JoinVintSF/status/606973965563789312",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "PlateJoy - LinkedIn PlateJoy | 868 followers on LinkedIn. Powering the technology to improve health through nutrition",
+    "url": "https://www.linkedin.com/company/platejoy",
+    "pass": 3
+   },
+   {
+    "quote": "Platejoy Jobs in United States (6,000+ Open Roles) | LinkedIn Today’s top 6,000+ Platejoy jobs in United States. Leverage your professional network, and get hired. New Platejoy jobs added daily.",
+    "url": "https://www.linkedin.com/jobs/platejoy-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "Christina Bognet - Co-Founder, CEO at PlateJoy Health ...Platejoy Jobs in Worldwide (18,000+ Open Roles) | LinkedInPlateJoy Acquisition + Parting Thoughts | Jonathan CordeauJohn Garbutt - Full Stack Engineer at PlateJoy | LinkedInPlateJoy Acquisition + Parting Thoughts | Christina Bognet ... Co-Founder, CEO at PlateJoy Health (Acquired) · Experience: PlateJoy · Education: Massachusetts Institute o",
+    "url": "https://www.linkedin.com/in/christina-bognet-90a87718",
+    "pass": 3
+   },
+   {
+    "quote": "Platejoy Jobs in Worldwide (18,000+ Open Roles) | LinkedIn Today’s top 18,000+ Platejoy jobs in Worldwide. Leverage your professional network, and get hired. New Platejoy jobs added daily.",
+    "url": "https://www.linkedin.com/jobs/platejoy-jobs-worldwide",
+    "pass": 3
+   },
+   {
+    "quote": "Christina Bognet - Co-Founder, CEO at PlateJoy Health ...加藤貞顕 - WikipediaPlateJoy - LinkedInPlateJoy 2026 Company Profile: Valuation, Investors ...PlateJoy - 2025 Company Profile & Team - TracxnPlate Joy - SupportPlateJoy founder and CEO Christina Bognet. PlateJoy Co-Founder, CEO at PlateJoy Health (Acquired) · Experience: PlateJoy · Education: Massachusetts Institute of Technology · Location: San",
+    "url": "https://www.linkedin.com/in/christina-bognet-90a87718",
+    "pass": 3
+   },
+   {
+    "quote": "PlateJoy - LinkedIn PlateJoy | LinkedInのフォロワー数870人。 Powering the technology to improve health through nutrition",
+    "url": "https://jp.linkedin.com/company/platejoy",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "PlateJoy - Facebookplatejoy.eats (@platejoyeats) • Facebook, Connect with friendsPlateJoy Community - FacebookPlateJoy PH - FacebookPlateJoy - Hey everyone -- This is Christina, the founder...PlateJoy - Stress eating, or emotional eating, is a common...PlateJoy - Eating clean can be affordable! While it might ... Jan 11, 2022 · PlateJoy. 15,022 likes · 1 talking about this. Ultra-personalized, fas",
+    "url": "https://www.facebook.com/platejoy/",
+    "pass": 3
+   },
+   {
+    "quote": "platejoy.eats (@platejoyeats) • Facebook, Connect with friends platejoy.eats is on Facebook. Join Facebook to connect with platejoy.eats and others you may know. Facebook gives people the power to share and makes...",
+    "url": "https://www.facebook.com/platejoyeats/",
+    "pass": 3
+   },
+   {
+    "quote": "PlateJoy Community - Facebook This group is for PlateJoy Community members to connect, support each other toward their healthy eating goals, and share their favorite #MyPlateJoy moments!",
+    "url": "https://www.facebook.com/groups/platejoycommunity/",
+    "pass": 3
+   },
+   {
+    "quote": "PlateJoy PH - Facebook Aug 1, 2020 · Now rolling! Introducing PlateJoy's newest product, California Maki is now available for you! Made with love, always Order yours now! 😍🦀🍣",
+    "url": "https://www.facebook.com/platejoyph/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://support.platejoy.com/platejoy-faqs",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://breajon.com/column/2023/09/ets2-project-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://hiroshi1.hongo.wide.ad.jp/DCEM/Sept19_2018_BloomEnergy.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.gartner.co.jp/ja",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%B5%E3%83%A0%E3%82%B9%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chigai2.fromation.co.jp/archives/30533",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mealthinker.com/blog/platejoy-alternative",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://macro-recipe.com/en/guides/platejoy-alternative/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://abettermeal.com/mealime-is-shutting-down-platejoy-is-no-longer-available-either/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ultimatemealplans.com/alternatives/platejoy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/paubox/case-study/platejoy-uses-paubox-email-api-to-engage-with-participants-in-its-cdc-recognized-diabetes-prevention-program-to-hit-target-milestones-without-resorting-to-clunky-portals",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mealthinker.com/blog/platejoy-alternative",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/in/christina-bognet-90a87718",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upcloud.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://start.cortera.com/company/research/m2k8jxm1p/platejoy-inc/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/in/christina-bognet-90a87718",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.businessreport.com/cremmjoy-secures-new-funding-as-it-continues-buildup-to-commercial-production/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salary.com/research/company/platejoy-inc-overview",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/JoyPlate",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/JoinVintSF/status/606973965563789312",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/platejoy",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/platejoy-jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/christina-bognet-90a87718",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/platejoy-jobs-worldwide",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/platejoy/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/platejoyeats/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/platejoycommunity/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/platejoyph/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/christina-bognet-90a87718",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/platejoy",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Platejoy 日本 導入",
+   "results": [
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://breajon.com/column/2023/09/ets2-project-japan/",
+    "http://hiroshi1.hongo.wide.ad.jp/DCEM/Sept19_2018_BloomEnergy.pdf",
+    "https://www.gartner.co.jp/ja",
+    "https://ets2.jp/projectjapan-ver-1-1-11-for-ets2-v1-61-導入手順/",
+    "https://www.verkada.com/jp/",
+    "https://www.systemkyokai.or.jp/",
+    "https://support.platejoy.com/platejoy-faqs/35663",
+    "https://www.lifehacker.jp/article/lht_platejoy/",
+    "https://financialgame.hatenablog.com/entry/2026/11/05/072654"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Platejoy 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://ja.wikipedia.org/wiki/日本サムスン",
+    "https://chigai2.fromation.co.jp/archives/30533",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://support.platejoy.com/",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://industrial.filtrationgroup.com/ja/联系我们/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://japanesedistributors.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Platejoy Japan",
+   "results": [
+    "https://mealthinker.com/blog/platejoy-alternative",
+    "https://macro-recipe.com/en/guides/platejoy-alternative/",
+    "https://abettermeal.com/mealime-is-shutting-down-platejoy-is-no-longer-available-either/",
+    "https://ultimatemealplans.com/alternatives/platejoy",
+    "https://ultimatemealplans.com/reviews/platejoy",
+    "https://support.platejoy.com/",
+    "https://support.platejoy.com/platejoy-faqs/35663"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Platejoy manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/paubox/case-study/platejoy-uses-paubox-email-api-to-engage-with-participants-in-its-cdc-recognized-diabetes-prevention-program-to-hit-target-milestones-without-resorting-to-clunky-portals",
+    "https://mealthinker.com/blog/platejoy-alternative",
+    "https://www.linkedin.com/in/christina-bognet-90a87718",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.paubox.com/customer-stories/platejoy",
+    "https://www.linkedin.com/posts/jcordeau_platejoy-acquisition-parting-thoughts-activity-7021208331050500098-7OuA",
+    "https://support.platejoy.com/platejoy-faqs"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Platejoy white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://upcloud.com/partner-program/",
+    "https://www.remitly.com/us/en/landing/partner-program",
+    "https://partners.adobe.com/channelpartners/",
+    "https://connect.redhat.com/en/partner-program"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Platejoy founded funding employees revenue",
+   "results": [
+    "https://start.cortera.com/company/research/m2k8jxm1p/platejoy-inc/",
+    "https://www.linkedin.com/in/christina-bognet-90a87718",
+    "https://www.businessreport.com/cremmjoy-secures-new-funding-as-it-continues-buildup-to-commercial-production/",
+    "https://www.salary.com/research/company/platejoy-inc-overview",
+    "https://www.redventures.com/press/press-releases/rv-health-adds-platejoy-health-to-its-brand-roster",
+    "https://app.askethos.com/ethos-company/platejoy",
+    "https://www.crunchbase.com/funding_round/platejoy-seed--afb7cef3",
+    "https://compworth.com/company/platejoy",
+    "https://tracxn.com/d/companies/platejoy/__adNMDTLJZRbDBGIhoEsMBHOgY866mt2hwoZB56SBtgk",
+    "https://pitchbook.com/profiles/company/60199-93"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Platejoy",
+   "results": [
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/genial_quince1/n/nfa82b3b404bc",
+    "https://note.com/clever_hebe598/n/n5ec80ff9bf50",
+    "https://note.com/tori_1980/n/n21037c205ade",
+    "https://note.com/masashi3122/n/n6f41b990b137",
+    "https://note.com/katarimasu/n/n38201fed61b0"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Platejoy",
+   "results": [
+    "https://x.com:2096/PlateJoy",
+    "https://x.com/JoyPlate",
+    "https://x.com/JoinVintSF/status/606973965563789312",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/mtcrni114",
+    "https://x.com/chillestwoman/status/2116669325868400644",
+    "https://x.com/BuzzingPop/status/2117864405064892847"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Platejoy",
+   "results": [
+    "https://www.linkedin.com/company/platejoy",
+    "https://www.linkedin.com/jobs/platejoy-jobs",
+    "https://www.linkedin.com/in/christina-bognet-90a87718",
+    "https://www.linkedin.com/jobs/platejoy-jobs-worldwide",
+    "https://www.linkedin.com/posts/jcordeau_platejoy-acquisition-parting-thoughts-activity-7021208331050500098-7OuA",
+    "https://www.linkedin.com/in/john-garbutt-37699b1b1",
+    "https://www.linkedin.com/posts/christina-bognet-90a87718_platejoy-acquisition-parting-thoughts-activity-7021202721483460608-4Tul"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Platejoy",
+   "results": [
+    "https://www.facebook.com/platejoy/",
+    "https://www.facebook.com/platejoyeats/",
+    "https://www.facebook.com/groups/platejoycommunity/",
+    "https://www.facebook.com/platejoyph/",
+    "https://www.facebook.com/platejoy/posts/hey-everyone-this-is-christina-the-founder-of-platejoyso-this-is-embarrassing-bu/848930338647019/",
+    "https://www.facebook.com/platejoy/posts/stress-eating-or-emotional-eating-is-a-common-issue-that-many-people-try-to-reme/1831700083703368/",
+    "https://www.facebook.com/platejoy/posts/eating-clean-can-be-affordable-while-it-might-mean-foregoing-the-24-piece-of-sal/1820620388144671/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Platejoy note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.linkedin.com/in/christina-bognet-90a87718",
+    "https://jp.linkedin.com/company/platejoy",
+    "https://pitchbook.com/profiles/company/60199-93",
+    "https://tracxn.com/d/companies/platejoy/__adNMDTLJZRbDBGIhoEsMBHOgY866mt2hwoZB56SBtgk",
+    "https://www.reviewjournal.com/business/entrepreneurs/personalized-meal-planning-service-launches-in-las-vegas/attachment/platejoy-founder-and-ceo-christina-bognet-platejoy/",
+    "https://support.platejoy.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Platejoy X 投稿",
+   "results": [
+    "https://support.platejoy.com/",
+    "https://x.com/",
+    "https://x.com/i/trending/2115323131061551300",
+    "https://www.xvideos.com/video.oodkuvd64ad/_m_",
+    "https://sns-tora.jp/twitter-sensitive-post-side/",
+    "https://news.yahoo.co.jp/articles/c433091e5e50d42e2a18d576920e8414bb798cb9",
+    "https://www.xvideos.com/?k=日本人素人投稿　　"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）"
+ }
+}

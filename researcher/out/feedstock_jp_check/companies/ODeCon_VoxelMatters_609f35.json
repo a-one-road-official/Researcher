@@ -1,0 +1,536 @@
+{
+ "name": "ODeCon — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:ceramics-material-manufacturer",
+ "researched_at": "2026-11-09T22:37:06.481012+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookCotons of Downing St. | Dover FL - FacebookNoel Pincince - FacebookFacebookVoxelMatters on Reels - FacebookDirector odecon - FacebookAdditive manufacturing is creating new solutions for hard-to ... Unlock the Future of Metal Additive Manufacturing with VoxelMatters! VoxelMatters Research has kicked off a pre-sale campaign for its upcoming Metal AM Market 2023 report. Cotons ",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/carbon3d/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/methodology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Saving_Private_Ryan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yamamoto_ec/n/ncc92bffa3f69",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lobmeyr-salon.net/view/page/shop",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprinter.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ngpd.nikon.com/material-processing/additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nanjixiong.com/thread-166732-1-1.html",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.voxelmatters.com/top-products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/collections/all/%E6%B6%88%E8%80%97%E5%93%81",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.poly-maker.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=9hDiiPCglcM",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/methodology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.farsoon-gl.com/news/solize-partners-japan-3d-printer-and-farsoon-technologies-announces-3-way-strategic-partnership-to-advance-large-format-lpbf-solutions-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/-/en/Cologne-Golden-Osmanthus-Yamadaku-Exclusive/dp/B07XRG2BRY",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://relay.amazon.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://affiliate.amazon.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/0.4kw+4P+200V/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/p/1766/2356/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/01201596/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00016743/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uk.linkedin.com/company/voxelmatters",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.voxelmatters.report/database/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ODeCon — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/about/",
+    "https://www.voxelmatters.directory/company/carbon3d/",
+    "https://www.voxelmatters.report/methodology/",
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.group/contact/",
+    "https://www.voxelmatters.directory/",
+    "https://www.additivemanufacturing.media/suppliers?productIds=5725",
+    "https://www.exone.com/en/about-us/locations/",
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://www.odecon.de/en/page-1"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "ODeCon — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://en.wikipedia.org/wiki/Saving_Private_Ryan",
+    "https://note.com/yamamoto_ec/n/ncc92bffa3f69",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://lobmeyr-salon.net/view/page/shop",
+    "https://tokuchari.news/makers/yadea/",
+    "https://www.everloy.co.jp/company/company_everloy.html",
+    "https://jj-suplex.com/ic/brand-030",
+    "https://x.com/gavugavugavu123/status/2102199549704257741",
+    "https://industrial.panasonic.com/jp/s-search/distributors",
+    "https://vision.risingms.com/Vision/Assessment/Assessment/MyAssessments"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "ODeCon — VoxelMatters 日本 販売",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://3dprinter.co.jp/",
+    "https://ngpd.nikon.com/material-processing/additive-manufacturing/",
+    "https://www.nanjixiong.com/thread-166732-1-1.html",
+    "https://www.jbm.co.jp/products/additive_manufacturing/",
+    "https://ja.aliexpress.com/item/1005009846651010.html",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://www.youtube.com/watch?v=U5HTyOcdKVY&vl=ja",
+    "https://www.cadjapan.com/news/2025/",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "ODeCon — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.voxelmatters.com/top-products/",
+    "https://skhonpo.com/collections/all/%E6%B6%88%E8%80%97%E5%93%81",
+    "https://www.poly-maker.jp/",
+    "https://www.youtube.com/watch?v=9hDiiPCglcM",
+    "https://shop.exmatelab.com/",
+    "https://www.matterhackers.com/store?srsltid=AYCX9vIuXTo8kgCT_rH199IYKodR_KXnWHunvyRR5Vgmorye6CqSXHk6",
+    "https://www.askul.co.jp/m/02-0205-0205004-3/",
+    "https://www.amazon.co.jp/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF-%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E7%B4%A0%E6%9D%90/b?ie=UTF8&node=3489859051",
+    "https://search.rakuten.co.jp/search/mall/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E7%94%A8%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "ODeCon — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.directory/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.voxelmatters.report/methodology/",
+    "https://www.exone.com/en/about-us/locations/",
+    "https://www.tctjapan.jp/outline_en.html",
+    "https://www.voxelmatters.group/",
+    "https://www.youtube.com/watch?v=Fw8iAvPkXHk",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "ODeCon — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.farsoon-gl.com/news/solize-partners-japan-3d-printer-and-farsoon-technologies-announces-3-way-strategic-partnership-to-advance-large-format-lpbf-solutions-in-japan/",
+    "https://www.voxelmatters.directory/",
+    "https://formlabs.com/company/press/formlabs-extends-global-presence-japan/",
+    "https://www.voxelmatters.report/methodology/",
+    "https://www.raise3d.com/sales-partners-voice/japan-3d-printer-co-ltd-sales-partner-in-japan/",
+    "https://www.exone.com/en/about-us/locations/",
+    "https://partners.solize.com/en/manufacturing",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 21
+  },
+  {
+   "query": "site:amazon.co.jp ODeCon — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/-/en/Cologne-Golden-Osmanthus-Yamadaku-Exclusive/dp/B07XRG2BRY",
+    "https://relay.amazon.co.jp/",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://affiliate.amazon.co.jp/",
+    "https://music.amazon.co.jp/",
+    "https://r.amazon.co.jp/",
+    "https://www.amazon.co.jp/ポケモン-メッセンジャーバッグ-SPECIAL-BOOK-宝島社ブランドムック/dp/4299083334",
+    "https://shigoto.amazon.co.jp/",
+    "https://www.amazon.co.jp/SNIDEL-スナイデル-SWFJ261071-デタッチャブルフリルカラーツイードジャケットSWFJ261071レディース/dp/B0GC9M4NY7",
+    "https://business.amazon.co.jp/ja/login"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:monotaro.com ODeCon — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/k/store/0.4kw+4P+200V/",
+    "https://www.monotaro.com/p/1766/2356/",
+    "https://www.monotaro.com/g/01201596/",
+    "https://www.monotaro.com/g/00016743/",
+    "https://www.monotaro.com/s/c-124371/",
+    "https://www.monotaro.com/g/00511629/",
+    "https://www.monotaro.com/g/02779452/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ODeCon — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://uk.linkedin.com/company/voxelmatters",
+    "https://www.voxelmatters.report/database/",
+    "https://www.voxelmatters.directory/",
+    "https://www.fabbaloo.com/news/voxelmatters-reveals-top-ten-polymer-3d-printing-companies-dominating-the-market",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "https://www.voxelmatters.com/the-upside-down-of-polymer-additive-manufacturing/",
+    "https://revenuebase.ai/companies/3d-printing-and-additive-manufacturing-companies/united-states",
+    "https://www.voxelmatters.group/insights/",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "site:note.com ODeCon — VoxelMatters",
+   "results": [
+    "https://note.com/izoneinc/n/n9c0be05fb9f6",
+    "https://note.com/tutta_la_notte/n/n65b2aae23757",
+    "https://note.com/pay404/n/n408bc82dcb73",
+    "https://note.com/ai_curation/n/n3b62aeac8f84",
+    "https://note.com/airgreen/n/nea9b55a5ef8a",
+    "https://note.com/office_365/n/ne3a0f87fb00d",
+    "https://note.com/adobe_design/n/n1c206e5a897e"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com ODeCon — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/Prusa3D/status/2031054780668252591",
+    "https://x.com/isaiahrmartin/status/2117871814625972663",
+    "https://x.com/CogitoEdu/status/2117911840973861028",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/mikuta0407/status/2113548402038563311",
+    "https://x.com/DemocraticWins/status/2117994783016685719",
+    "https://help.x.com/en/using-x/download-the-x-app",
+    "https://x.com/AirtechOfficial",
+    "https://x.com/jocelynseip/status/2118260591680983528"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:linkedin.com ODeCon — VoxelMatters",
+   "results": [
+    "https://de.linkedin.com/in/mikkel-kring",
+    "https://ca.linkedin.com/in/susan-scollie-6689463",
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://www.linkedin.com/pub/dir/davide/sher",
+    "https://to.linkedin.com/company/odecon",
+    "https://uk.linkedin.com/in/federico-sher",
+    "https://it.linkedin.com/in/francescopulimeni",
+    "https://de.linkedin.com/in/odecon",
+    "https://lv.linkedin.com/posts/odecon_all-in-one-fertigung-von-prothesen-möglich-activity-7029349674494935042-lJvw",
+    "https://hn.linkedin.com/in/ricardo-figueroa-23614333"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:facebook.com ODeCon — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/UFENT/posts/dr-thomas-schrepfer-recently-completed-an-ear-tube-surgery-that-has-drastically-/1001070742020163/",
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/floridacotons/",
+    "https://www.facebook.com/",
+    "https://www.facebook.com/VoxelMatters/videos/2155326438344264/",
+    "https://www.facebook.com/Director-odecon-115900951120700/",
+    "https://www.facebook.com/noelpincince/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-creating-new-solutions-for-hard-to-source-replacement-/893346590210455/",
+    "https://www.facebook.com/onedollareconomist/",
+    "https://www.facebook.com/odecon.civiram/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "ODeCon — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.report/",
+    "https://www.voxelmatters.com/author/davidesher/",
+    "https://www.voxelmatters.group/about/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://www.voxelmatters.directory/company-category/space/",
+    "https://www.voxelmatters.report/methodology/",
+    "https://note.com/ptcjapan/n/n1199578f209b",
+    "https://www.additivemanufacturing.media/why-additive-manufacturing-needs-the-executive-perspective/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "ODeCon — VoxelMatters X 投稿",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.youtube.com/@voxelmatters",
+    "https://www.voxelmatters.report/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.voxelmatters.com/new-vjet-x-technology/",
+    "https://www.voxelmatters.group/insights/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://www.youtube.com/watch?v=B-UbDk7LrvU",
+    "https://www.youtube.com/watch?v=joELUCw9Ejw",
+    "https://x.com/voxelmatters"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）"
+ }
+}

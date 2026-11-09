@@ -1,0 +1,1639 @@
+{
+ "name": "Onesignal",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-09T23:04:11.933632+00:00",
+ "official_url": "https://onesignal.com",
+ "identified_by": "given",
+ "profile": {
+  "連絡先": [
+   {
+    "label": "Email",
+    "value": "10,000 sends / month 20,000 free sends / month, then $1.50 / 1,000 sends Custom Custom",
+    "url": "https://onesignal.com/pricing",
+    "pass": 1
+   },
+   {
+    "label": "Contacts",
+    "value": "Unlimited Unlimited Unlimited Unlimited",
+    "url": "https://onesignal.com/pricing",
+    "pass": 1
+   },
+   {
+    "label": "Email Auto Warm Up",
+    "value": "",
+    "url": "https://onesignal.com/pricing",
+    "pass": 1
+   },
+   {
+    "label": "Email IPs",
+    "value": "Shared IP only Shared IP only Dedicated IP available based on volume Dedicated IP available based on volume",
+    "url": "https://onesignal.com/pricing",
+    "pass": 1
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$34M",
+    "url": "https://getlatka.com/companies/onesignal",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Autonomous lifecycle marketing orchestrates the campaigns to onboard, engage, and retain users.",
+    "url": "https://onesignal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Mobile Marketing Leader Leader",
+    "url": "https://onesignal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Proactive Notification Fastest Implementation Mid Market Go Live Time",
+    "url": "https://onesignal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Proactive Notification Best Estimated ROI Mid Market Roi",
+    "url": "https://onesignal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Mobile Marketing Easiest To Use Enterprise Ease Of Use",
+    "url": "https://onesignal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Beach Bum Games uses OneSignal to re-engage players and boost retention across their entire portfolio",
+    "url": "https://onesignal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From onboarding to re-engagement, Betmate uses OneSignal Journeys to deliver the right message at every step",
+    "url": "https://onesignal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Start with an AI prompt or drop in our SDKs for Android, iOS, Flutter, React Native, Expo, and Unity. No complex setup. Just fast integration that gets your lifecycle messaging live the same day.",
+    "url": "https://onesignal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "https://raw.githubusercontent.com/OneSignal/sdk-ai-prompts/main/docs/android/ai-prompt.md",
+    "url": "https://onesignal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "https://raw.githubusercontent.com/OneSignal/sdk-ai-prompts/main/docs/ios/ai-prompt.md",
+    "url": "https://onesignal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "https://raw.githubusercontent.com/OneSignal/sdk-ai-prompts/main/docs/flutter/ai-prompt.md",
+    "url": "https://onesignal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "https://raw.githubusercontent.com/OneSignal/sdk-ai-prompts/main/docs/react-native/ai-prompt.md",
+    "url": "https://onesignal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "class OS extends React.Component<Props, State> {",
+    "url": "https://onesignal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "constructor(props: Props) {",
+    "url": "https://onesignal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "https://raw.githubusercontent.com/OneSignal/sdk-ai-prompts/main/docs/react-native-expo/ai-prompt.md",
+    "url": "https://onesignal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "// Enable verbose logging for debugging (remove in production)",
+    "url": "https://onesignal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "// Use this method to prompt for push notifications.",
+    "url": "https://onesignal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "// We recommend removing this method after testing and instead use In-App Messages to prompt for notification permission.",
+    "url": "https://onesignal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "https://raw.githubusercontent.com/OneSignal/sdk-ai-prompts/main/docs/unity/ai-prompt.md",
+    "url": "https://onesignal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "private void _userStateChanged(object sender, UserStateChangedEventArgs e) {",
+    "url": "https://onesignal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect OneSignal to your analytics, CDP, warehouse, and CRM to make lifecycle outcomes easier to measure and improve.",
+    "url": "https://onesignal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Scale confidently with proven reliability",
+    "url": "https://onesignal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "View security & privacy",
+    "url": "https://onesignal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect with OneSignal’s trusted partners and receive strategic guidance to help achieve your growth goals. Our partners cover everything from growth and retention strategy to implementation and support services.",
+    "url": "https://onesignal.com/partners-directory",
+    "pass": 1
+   },
+   {
+    "quote": "Product and growth expert advice for startups, scale-ups, and enterprises",
+    "url": "https://onesignal.com/partners-directory",
+    "pass": 1
+   },
+   {
+    "quote": "We design, build, and scale industry-shaping digital products all under one roof",
+    "url": "https://onesignal.com/partners-directory",
+    "pass": 1
+   },
+   {
+    "quote": "A marketing & tech consultancy to help business build fully integrated, high-ROI digital ecosystems",
+    "url": "https://onesignal.com/partners-directory",
+    "pass": 1
+   },
+   {
+    "quote": "Flywheel Studio builds product-led web and mobile applications for venture backed startups",
+    "url": "https://onesignal.com/partners-directory",
+    "pass": 1
+   },
+   {
+    "quote": "Outsourced CMO (month-to-month and a-la-carte digital marketing)",
+    "url": "https://onesignal.com/partners-directory",
+    "pass": 1
+   },
+   {
+    "quote": "Next level alignment of marketing, sales, and technology",
+    "url": "https://onesignal.com/partners-directory",
+    "pass": 1
+   },
+   {
+    "quote": "The easiest way to launch a premium eCommerce app",
+    "url": "https://onesignal.com/partners-directory",
+    "pass": 1
+   },
+   {
+    "quote": "From product insight to customer engagement",
+    "url": "https://onesignal.com/partners-directory",
+    "pass": 1
+   },
+   {
+    "quote": "Build cloud solutions that are comprehensive, innovative, resilient, reliable, unique, and secure (CIRRUS)",
+    "url": "https://onesignal.com/partners-directory",
+    "pass": 1
+   },
+   {
+    "quote": "Where marketing strategy meets technical execution with OneSignal",
+    "url": "https://onesignal.com/partners-directory",
+    "pass": 1
+   },
+   {
+    "quote": "Customer messaging & product analytics",
+    "url": "https://onesignal.com/partners-directory",
+    "pass": 1
+   },
+   {
+    "quote": "A design-driven team of engineers and creatives helping companies build amazing digital products and services",
+    "url": "https://onesignal.com/partners-directory",
+    "pass": 1
+   },
+   {
+    "quote": "We connect technology with marketers to achieve their marketing goals",
+    "url": "https://onesignal.com/partners-directory",
+    "pass": 1
+   },
+   {
+    "quote": "Join our Solution Partner Program to expand your services and grow your business",
+    "url": "https://onesignal.com/partners-directory",
+    "pass": 1
+   },
+   {
+    "quote": "Expand your offerings with OneSignal, build a defensible practice in your region or vertical, and grow recurring revenue with leads, co-selling, and support from our team.",
+    "url": "https://onesignal.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Build pipeline together through co-selling, marketing, and partner initiatives.",
+    "url": "https://onesignal.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Help customers launch faster, drive better engagement, and get more value from OneSignal while growing a profitable services practice.",
+    "url": "https://onesignal.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Access training, product expertise, and direct support from our team.",
+    "url": "https://onesignal.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing and visibility",
+    "url": "https://onesignal.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Get featured in the partner ecosystem and participate in joint marketing opportunities.",
+    "url": "https://onesignal.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Help customers get more value from OneSignal while growing awareness, adoption, and revenue for your product.",
+    "url": "https://onesignal.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Integrate quickly with modern APIs, SDKs, and comprehensive documentation.",
+    "url": "https://onesignal.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Work alongside our teams on joint marketing, product initiatives, and shared customer opportunities.",
+    "url": "https://onesignal.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Joint marketing, sales collaboration, training and enablement designed to help partners grow alongside OneSignal.",
+    "url": "https://onesignal.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "“OneSignal lets us deliver enterprise-grade messaging to customers who would not otherwise have access to it. The margins make it a real business for us, and the support from the OneSignal team makes it feel like we're selling our own product.”",
+    "url": "https://onesignal.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "“OneSignal's developer experience is the best we've integrated against in years. Our shared customers see meaningfully better retention, and the OneSignal team treats us as a real go-to-market partner.”",
+    "url": "https://onesignal.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Find out how our users are leveraging OneSignal to drive customer engagement, retention, and loyalty",
+    "url": "https://onesignal.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "“We were able to generate more engagement with the product and were able to attribute some transactional messages to these campaigns, which we consider a huge success.”",
+    "url": "https://onesignal.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "“Here in the gaming industry, push notifications are the best retention tool and the best way to return players to the game. And that’s why we love to work with OneSignal.”",
+    "url": "https://onesignal.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Felipe’s Taqueria went all-in on RCS, helping drive a 5% increase in promo sales",
+    "url": "https://onesignal.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Inside Seekapa's best-of-breed approach to engagement",
+    "url": "https://onesignal.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "FoodHero automates retention & drives measurable revenue at scale",
+    "url": "https://onesignal.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Whisker’s push marketing breakthrough: Improving revenue by 20%",
+    "url": "https://onesignal.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Sprocket embraces international reach with OneSignal",
+    "url": "https://onesignal.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Beach Bum Games uses OneSignal to drive player retention",
+    "url": "https://onesignal.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Buenbit leverages cross-channel messaging to drive in-app promotions and transactions",
+    "url": "https://onesignal.com/case-studies",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Connect OneSignal to your analytics, CDP, warehouse, and CRM to make lifecycle outcomes easier to measure and improve.",
+    "url": "https://onesignal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Join the partner ecosystem behind the customer engagement platform trusted by leading apps worldwide. Whether you’re selling, implementing, or integrating OneSignal, we’ll help you create new revenue opportunities and deliver better outcomes for your customers.",
+    "url": "https://onesignal.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by hundreds of thousands of apps and relied on for trillions of messages each year. Partners build on a platform customers trust.",
+    "url": "https://onesignal.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Betmate Case Study - OneSignal",
+    "url": "https://onesignal.com/case-studies/betmate",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Zenni Optical doubles engagement and revenue with OneSignal | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/onesignal/case-study/how-zenni-optical-boosted-retention-doubled-engagement-and-revenue-and-embraced-data-driven-customer-engagement-with-onesignal",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Zenni Optical doubles engagement and revenue with OneSignal",
+    "url": "https://www.casestudies.com/company/onesignal/case-study/how-zenni-optical-boosted-retention-doubled-engagement-and-revenue-and-embraced-data-driven-customer-engagement-with-onesignal",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/onesignal/case-study/how-zenni-optical-boosted-retention-doubled-engagement-and-revenue-and-embraced-data-driven-customer-engagement-with-onesignal",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/onesignal/case-study/how-zenni-optical-boosted-retention-doubled-engagement-and-revenue-and-embraced-data-driven-customer-engagement-with-onesignal",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Whisker achieves 20% higher mobile app-driven revenue with OneSignal | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/onesignal/case-study/whiskers-push-marketing-breakthrough-improving-revenue-by-20",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Whisker achieves 20% higher mobile app-driven revenue with OneSignal",
+    "url": "https://www.casestudies.com/company/onesignal/case-study/whiskers-push-marketing-breakthrough-improving-revenue-by-20",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/onesignal/case-study/whiskers-push-marketing-breakthrough-improving-revenue-by-20",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/onesignal/case-study/whiskers-push-marketing-breakthrough-improving-revenue-by-20",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Drive LTV and reduce churn without the manual effort. Define your brand guardrails and let OneSignal AI handle the rest, including drafting, sending, testing, and optimizing.",
+    "url": "https://onesignal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Join our Solution Partner Program to expand your services and grow your business",
+    "url": "https://onesignal.com/partners-directory",
+    "pass": 1
+   },
+   {
+    "quote": "Explore reseller partners",
+    "url": "https://onesignal.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Join our Solution Partner Program to expand your services and grow your business",
+    "url": "https://onesignal.com/partners-directory/wallabout-collective",
+    "pass": 1
+   },
+   {
+    "quote": "Join our Solution Partner Program to expand your services and grow your business",
+    "url": "https://onesignal.com/partners-directory/100-inc",
+    "pass": 1
+   },
+   {
+    "quote": "Join our Solution Partner Program to expand your services and grow your business",
+    "url": "https://onesignal.com/partners-directory/blueoshan",
+    "pass": 1
+   },
+   {
+    "quote": "Join our Solution Partner Program to expand your services and grow your business",
+    "url": "https://onesignal.com/partners-directory/ematic-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Join our Solution Partner Program to expand your services and grow your business",
+    "url": "https://onesignal.com/partners-directory/market-fit-lab",
+    "pass": 1
+   },
+   {
+    "quote": "Join our Solution Partner Program to expand your services and grow your business",
+    "url": "https://onesignal.com/partners-directory/master-concept",
+    "pass": 1
+   },
+   {
+    "quote": "Join our Solution Partner Program to expand your services and grow your business",
+    "url": "https://onesignal.com/partners-directory/ragnarok",
+    "pass": 1
+   },
+   {
+    "quote": "一部のOEMはバックグラウンド処理を制限します",
+    "url": "https://documentation.onesignal.com/docs/ja/android-sdk-setup",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "From mobile gaming to fintech, OneSignal customers don't just send messages. They activate users, build habits, and grow revenue",
+    "url": "https://onesignal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Join the partner ecosystem behind the customer engagement platform trusted by leading apps worldwide. Whether you’re selling, implementing, or integrating OneSignal, we’ll help you create new revenue opportunities and deliver better outcomes for your customers.",
+    "url": "https://onesignal.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Expand your offerings with OneSignal, build a defensible practice in your region or vertical, and grow recurring revenue with leads, co-selling, and support from our team.",
+    "url": "https://onesignal.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Help customers get more value from OneSignal while growing awareness, adoption, and revenue for your product.",
+    "url": "https://onesignal.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "FoodHero automates retention & drives measurable revenue at scale",
+    "url": "https://onesignal.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Whisker’s push marketing breakthrough: Improving revenue by 20%",
+    "url": "https://onesignal.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Rapchat boosts subscription retention with OneSignal & RevenueCat integration",
+    "url": "https://onesignal.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "MuteSix generates 182% increase in total revenue within first month of switching to OneSignal",
+    "url": "https://onesignal.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Joe experiences 30% revenue growth within the first month of using OneSignal",
+    "url": "https://onesignal.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Evino increases revenue 12% with OneSignal",
+    "url": "https://onesignal.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "is a mobile game studio that brings beloved games, including Dominos, Backgammon, Gin Rummy, and Spades, to a mobile audience. The company was founded by two mobile gaming industry veterans in 2015 and was recently acquired by the mobile entertainment giant, Voodoo games.",
+    "url": "https://onesignal.com/case-studies/beach-bum-games",
+    "pass": 1
+   },
+   {
+    "quote": "Whisker’s push marketing breakthrough: Improving revenue by 20%",
+    "url": "https://onesignal.com/case-studies/tag-heuer",
+    "pass": 1
+   },
+   {
+    "quote": "encouraging ID verification and deposits to help reduce friction and nudge users along this crucial part of the user journey.",
+    "url": "https://onesignal.com/case-studies/betmate",
+    "pass": 1
+   },
+   {
+    "quote": "Driving referrals through organic growth is a key objective for Betmate, especially as customer acquisition costs continue to rise year over year. “Our goal is to hit a ‘refer-a-Betmate’ viral coefficient consistently over 1.0 — ensuring that each user brings at least one more active user into the app,” explains Ryan.",
+    "url": "https://onesignal.com/case-studies/betmate",
+    "pass": 1
+   },
+   {
+    "quote": "As part of our hiring process, we use certain tools to help create a consistent, secure, and efficient candidate experience.",
+    "url": "https://onesignal.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We also use Gem's Fraud Detection technology to help identify potentially fraudulent applications, including applications that may involve identity misrepresentation, synthetic identities, impersonation, or other indicators of recruitment fraud. This technology assists our recruiting team in protecting candidates, employees, and company systems from security threats and fraudulent activity.",
+    "url": "https://onesignal.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Zenni Optical doubles engagement and revenue with OneSignal | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/onesignal/case-study/how-zenni-optical-boosted-retention-doubled-engagement-and-revenue-and-embraced-data-driven-customer-engagement-with-onesignal",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Zenni Optical doubles engagement and revenue with OneSignal",
+    "url": "https://www.casestudies.com/company/onesignal/case-study/how-zenni-optical-boosted-retention-doubled-engagement-and-revenue-and-embraced-data-driven-customer-engagement-with-onesignal",
+    "pass": 3
+   },
+   {
+    "quote": "How Zenni Optical boosted retention, doubled engagement and revenue, and embraced data-driven customer engagement with OneSignal",
+    "url": "https://www.casestudies.com/company/onesignal/case-study/how-zenni-optical-boosted-retention-doubled-engagement-and-revenue-and-embraced-data-driven-customer-engagement-with-onesignal",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Whisker achieves 20% higher mobile app-driven revenue with OneSignal | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/onesignal/case-study/whiskers-push-marketing-breakthrough-improving-revenue-by-20",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Whisker achieves 20% higher mobile app-driven revenue with OneSignal",
+    "url": "https://www.casestudies.com/company/onesignal/case-study/whiskers-push-marketing-breakthrough-improving-revenue-by-20",
+    "pass": 3
+   },
+   {
+    "quote": "Whisker’s push marketing breakthrough: Improving revenue by 20%",
+    "url": "https://www.casestudies.com/company/onesignal/case-study/whiskers-push-marketing-breakthrough-improving-revenue-by-20",
+    "pass": 3
+   },
+   {
+    "quote": "OneSignal Revenue 2024: $21.6M Est., $34M Raised",
+    "url": "https://getlatka.com/companies/onesignal",
+    "pass": 3
+   },
+   {
+    "quote": "OneSignal has not published its revenue. GetLatka estimates it at about $21.6M a year (October 2024).",
+    "url": "https://getlatka.com/companies/onesignal",
+    "pass": 3
+   },
+   {
+    "quote": "All 3 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/onesignal",
+    "pass": 3
+   },
+   {
+    "quote": "OneSignal CEO, founders & employees",
+    "url": "https://getlatka.com/companies/onesignal",
+    "pass": 3
+   },
+   {
+    "quote": "George Deglin founded OneSignal in 2014 and runs it as CEO. OneSignal had 164 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/onesignal",
+    "pass": 3
+   },
+   {
+    "quote": "What is OneSignal's revenue?",
+    "url": "https://getlatka.com/companies/onesignal",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates OneSignal's revenue at about",
+    "url": "https://getlatka.com/companies/onesignal",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does OneSignal have?",
+    "url": "https://getlatka.com/companies/onesignal",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/onesignal",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/onesignal",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/onesignal",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/onesignal",
+    "pass": 3
+   },
+   {
+    "quote": "curl_setopt_array($curl, [",
+    "url": "https://note.com/pclub/n/n36717240709d",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Customer Engagement Platform for Email, Push… - OneSignal",
+    "url": "https://onesignal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "OneSignal makes reaching customers seamless and scalable. Powering billions of messages daily, we help businesses of all sizes connect with their audiences in real time — across push, email, SMS/RCS, and in-app messaging — anywhere in the world.",
+    "url": "https://onesignal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Push, email, SMS/RCS, and in-app messaging in one platform. Free to start, built to scale.",
+    "url": "https://onesignal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Push, email, SMS, RCS, in-app messaging, and Live Activities in a single platform. Help customers consolidate vendors and simplify engagement.",
+    "url": "https://onesignal.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Product Hunt combines push with email to double re-engagement",
+    "url": "https://onesignal.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Push, email, SMS/RCS, and in-app messaging in one platform. Free to start, built to scale.",
+    "url": "https://onesignal.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Questions? Contact us",
+    "url": "https://onesignal.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Email campaigns per month",
+    "url": "https://onesignal.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Target audience size for email campaigns",
+    "url": "https://onesignal.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Number of email sends",
+    "url": "https://onesignal.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": ", or feel free to email us at",
+    "url": "https://onesignal.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "support+sales@onesignal.com",
+    "url": "https://onesignal.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "For email and SMS, we charge based on the volume of sends.",
+    "url": "https://onesignal.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Specifically, mobile includes Android, iOS, Chrome Extensions, macOS, Windows, Windows Phone, Alexa, and Amazon Fire devices. Mobile does not include web push, email, or SMS.",
+    "url": "https://onesignal.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Push, email, SMS/RCS, and in-app messaging in one platform. Free to start, built to scale.",
+    "url": "https://onesignal.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "She’s set up over 100 Journeys — all of which are unique and multichannel in nature. Building a multichannel comm strategy has allowed her to respect user channel preferences and engage with a wider global audience. “If you were to ask me today to invest in just two channels, I would have a hard time choosing because all four channels [push, in-app, SMS, email] are important,” says Trang.",
+    "url": "https://onesignal.com/case-studies/taptap-send",
+    "pass": 1
+   },
+   {
+    "quote": "Push, email, SMS/RCS, and in-app messaging in one platform. Free to start, built to scale.",
+    "url": "https://onesignal.com/case-studies/taptap-send",
+    "pass": 1
+   },
+   {
+    "quote": "Push, email, SMS/RCS, and in-app messaging in one platform. Free to start, built to scale.",
+    "url": "https://onesignal.com/case-studies/beach-bum-games",
+    "pass": 1
+   },
+   {
+    "quote": "Push, email, SMS/RCS, and in-app messaging in one platform. Free to start, built to scale.",
+    "url": "https://onesignal.com/case-studies/bitcoin-com",
+    "pass": 1
+   },
+   {
+    "quote": "Push, email, SMS/RCS, and in-app messaging in one platform. Free to start, built to scale.",
+    "url": "https://onesignal.com/case-studies/tag-heuer",
+    "pass": 1
+   },
+   {
+    "quote": "For sports betting apps in particular, engaging users with timely updates, reminders, and promotions is the key to ensuring a seamless UX and fostering long-term player loyalty. As Ryan explains, “Utilizing notifications, email, in-apps, and SMS helps build trust between us and our customers, as we’re able to keep them up-to-date on key events and activities.”",
+    "url": "https://onesignal.com/case-studies/betmate",
+    "pass": 1
+   },
+   {
+    "quote": "When asked why Betmate chose to add SMS to their messaging toolkit, Ryan’s answer was simple: “The open rates for SMS are a lot higher than email, notifications, and other types of messages. For those reasons alone, it’s a really important channel, but it’s also really important not to overuse it.”",
+    "url": "https://onesignal.com/case-studies/betmate",
+    "pass": 1
+   },
+   {
+    "quote": "Push, email, SMS/RCS, and in-app messaging in one platform. Free to start, built to scale.",
+    "url": "https://onesignal.com/case-studies/betmate",
+    "pass": 1
+   },
+   {
+    "quote": "Easy email built for real impact",
+    "url": "https://onesignal.com/partners-directory/wallabout-collective",
+    "pass": 1
+   },
+   {
+    "quote": "OneSignal is the market leading customer engagement solution for push notifications, email, SMS, in-app messaging, and Live Activities",
+    "url": "https://onesignal.com/partners-directory/wallabout-collective",
+    "pass": 1
+   },
+   {
+    "quote": "'target_channel' => 'push', //push、email、smsのいずれか",
+    "url": "https://note.com/pclub/n/n36717240709d",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Your OneSignal growth partner in Japan",
+    "url": "https://onesignal.com/partners-directory",
+    "pass": 1
+   },
+   {
+    "quote": "Your OneSignal growth partner in Japan",
+    "url": "https://onesignal.com/partners-directory/100-inc",
+    "pass": 1
+   },
+   {
+    "quote": "Our team supports brands in unlocking OneSignal’s full potential through localization and customer engagement strategies tailored to the Japanese market, enabling sustainable growth.",
+    "url": "https://onesignal.com/partners-directory/100-inc",
+    "pass": 1
+   },
+   {
+    "quote": "ただ現時点でiOSでは通知を受け取ることができないため、その部分で日本では積極的に導入しようという人は少ないかもしれませんね",
+    "url": "https://www.genius-web.co.jp/blog/website-operation/let-s-introduce-a-web-push-notification-onesignal.html",
+    "pass": 3
+   },
+   {
+    "quote": "ジーニアスウェブは大阪、東京、宮崎に拠点をおく新規客獲得に強いホームページ制作会社です",
+    "url": "https://www.genius-web.co.jp/blog/website-operation/let-s-introduce-a-web-push-notification-onesignal.html",
+    "pass": 3
+   },
+   {
+    "quote": "○ 基本が英語で、日本語がサポートされていない",
+    "url": "https://note.com/tamdesigntech/n/n4751ae7461c8",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Android SDKのセットアップ - OneSignal — Android StudioでOneSignal Android SDKを導入し、プッシュとアプリ内メッセージを追加。 FCM認証情報、初期化、テスト送信を解説。",
+    "url": "https://documentation.onesignal.com/docs/ja/android-sdk-setup",
+    "pass": 3
+   },
+   {
+    "quote": "OneSignalとは？プッシュ通知の料金と実装手順、FCM直接送信との使い... — OneSignalとFirebase（FCM）は何が違いますか？ FCMはGoogleが無料で提供する配送の仕組みで、OneSignalはその上に配信管理の機能を載せたサービスです。 OneSignalもAndroid端末へはFCMを通して届けるため、どちらか一方を選ぶ関係ではありません。",
+    "url": "https://www.issoh.co.jp/tech/details/18353/",
+    "pass": 3
+   },
+   {
+    "quote": "OneSignalドキュメント - OneSignal — OneSignalでより速く構築を開始します。 クイックスタート、SDK、メッセージングチャネル、APIリファレンス、JourneysやLive Activitiesなどの高度な機能をご覧ください。",
+    "url": "https://documentation.onesignal.com/docs/ja/home",
+    "pass": 3
+   },
+   {
+    "quote": "webプッシュ通知を導入してみよう【OneSignal】 — Sep 21, 2018 · 特にOneSignalは英語ではありますが、完全無料で使えるのでおすすめです！ どのサービスも導入まではわずか数分とうたっているだけあって非常に簡単に導入できます。 今回はOneSignalの導入方法を簡単にご紹介したいと思います。 OneSignalの導入（WordPressの ...",
+    "url": "https://www.genius-web.co.jp/blog/website-operation/let-s-introduce-a-web-push-notification-onesignal.html",
+    "pass": 3
+   },
+   {
+    "quote": "開発者 - OneSignal — OneSignalのモバイルおよびWeb SDKをセットアップし、App IDとAPIキーを確認し、ユーザーを識別し、公開前に統合をテストします。 OneSignal SDKをインストールして、最初の統合を動作させましょう。",
+    "url": "https://documentation.onesignal.com/docs/ja/developers",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese - OneSignal — Deliver growth in a noisy AI world. Onboard, engage, and retain customers with OneSignal’s AI-powered customer engagement platform across push, email, SMS/RCS,…",
+    "url": "https://onesignal.com/language/japanese",
+    "pass": 3
+   },
+   {
+    "quote": "クイックスタートガイド - OneSignal — OneSignalアカウントを設定し、メッセージングチャネルを構成し、ユーザーを管理し、最初のメッセージを送信します。 このガイドでは、OneSignalを使い始めるための4つのステップを説明します。 順番に完了するか、必要なセクションに直接移動してください。",
+    "url": "https://documentation.onesignal.com/docs/ja/quickstart-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific - OneSignal — Deliver growth in a noisy AI world. Onboard, engage, and retain customers with OneSignal’s AI-powered customer engagement platform across push, email, SMS/RCS,…",
+    "url": "https://onesignal.com/region/asia-pacific",
+    "pass": 3
+   },
+   {
+    "quote": "Sites using OneSignal in Japan: top list (2026) | scraping.pro — List of Japanese websites that use OneSignal, ranked by popularity (Tranco). 29 sites in our sample, checked by our own crawler.",
+    "url": "https://scraping.pro/technologies/onesignal/websites/jp",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Case Studies - OneSignal — Find out how successful companies are using OneSignal to drive engagement and retention.",
+    "url": "https://onesignal.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Zenni Optical doubles engagement and revenue with ... — Zenni Optical (Manufacturing) partnered with OneSignal (Computer Software) to solve key challenges. \"How Zenni Optical boosted retention, doubled engagement and revenue, and embraced data-driven customer engagement with OneSignal\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/onesignal/case-study/how-zenni-optical-boosted-retention-doubled-engagement-and-revenue-and-embraced-data-driven-customer-engagement-with-onesignal",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Whisker achieves 20% higher mobile app-driven ... — Whisker (Manufacturing) partnered with OneSignal (Computer Software) to solve key challenges. \"Whisker’s push marketing breakthrough: Improving revenue by 20%\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/onesignal/case-study/whiskers-push-marketing-breakthrough-improving-revenue-by-20",
+    "pass": 3
+   },
+   {
+    "quote": "Resource library - OneSignal — Browse videos, webinars, case studies, podcasts, eBooks, and customer insights to help you improve your customer engagement strategy.",
+    "url": "https://onesignal.com/resources",
+    "pass": 3
+   },
+   {
+    "quote": "67 OneSignal Case Studies, Success Stories, & Customer ... — OneSignal has a 4.8/5 star rating. Learn what their customers think, get 67 free case studies and more.",
+    "url": "https://www.featuredcustomers.com/vendor/onesignal/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "OneSignal Revenue 2024: $21.6M Est., $34M Raised - LATKA — Oct 7, 2026 · OneSignal 2024 estimated revenue: $21.6M (up from $11.6M in 2023). Total funding: $34M across 3 rounds. 1.3M customers, 164 employees. Updated Oct 7, 2026.",
+    "url": "https://getlatka.com/companies/onesignal",
+    "pass": 3
+   },
+   {
+    "quote": "OneSignal 2026 Company Profile: Valuation, Funding ...OneSignal - 2026 Company Profile, Team, Funding & Competitors ...OneSignal – Growth Analysis & Alternative Companies – 2026OneSignal Inc - $29.4 M Revenue, Employees & Growth | Kona EquityOneSignal - Overview, News & Similar companies | ZoomInfo.comOneSignal — Company Profile | The Company Check — Information on valuation, funding, cap tables, ",
+    "url": "https://pitchbook.com/profiles/company/111934-36",
+    "pass": 3
+   },
+   {
+    "quote": "OneSignal - 2026 Company Profile, Team, Funding & Competitors ...OneSignal – Growth Analysis & Alternative Companies – 2026OneSignal Inc - $29.4 M Revenue, Employees & Growth | Kona EquityOneSignal - Overview, News & Similar companies | ZoomInfo.comOneSignal — Company Profile | The Company Check — May 18, 2026 · OneSignal is a series C company based in San Francisco (United States), founded in 201",
+    "url": "https://tracxn.com/d/companies/onesignal/__m5ycJzS7z96DPQZYdUsN2ifGGab0KTqN-m99zO8jMKA",
+    "pass": 3
+   },
+   {
+    "quote": "OneSignal – Growth Analysis & Alternative Companies – 2026 — OneSignal Revenue & Valuation OneSignal's estimated annual revenue is currently $24.7M per year. This translates to an estimated $150.5K in revenue per employee for OneSignal. Across all rounds, OneSignal has brought in $84M in funding.",
+    "url": "https://compworth.com/company/onesignal",
+    "pass": 3
+   },
+   {
+    "quote": "OneSignal Inc - $29.4 M Revenue, Employees & Growth | Kona Equity — OneSignal Inc, has an estimated annual revenue of $29.4 M, with approximately 140 employees, headquartered in San Mateo, CA, operating in the Software Company industry, founded in 2016.",
+    "url": "https://www.konaequity.com/company/onesignal-inc-4395647623/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "再訪率UPに効くプッシュ通知サービス「OneSignal」を調べてみました Oct 8, 2021 · こんにちは！ TAMフロントエンドエンジニアの佐川です。 今回はプッシュ通知のSaaS「OneSignal」を調べたため、そのまとめを書いていきます。 WEBサイトのKPIとしてよく挙げられる再訪率について、プッシュ通知が効果的と言われています。",
+    "url": "https://note.com/tamdesigntech/n/n4751ae7461c8",
+    "pass": 3
+   },
+   {
+    "quote": "OneSignal というプッシュ通知サービスが便利だ！ Jun 26, 2026 · Google AIモード その中で、プッシュ通知をどうしたらよいかという点で、Codexが教えてくれたのが、OneSignal というサービス。 小さな規模なら無料で使える。",
+    "url": "https://note.com/daishin_ueyama/n/n71d53b131495",
+    "pass": 3
+   },
+   {
+    "quote": "プログラムと電子工作・PWAのスマホアプリへプッシュ通知を送る Oct 23, 2025 · 前回の記事で述べたように、商用のサービス「OneSignal」を使用します。 OneSignalでは、プッシュ通知を許可することを「購読する（subscript）」と呼んでいます。 OneSignalが扱えるプッシュ機能には複数の種類がありますが、ここでは Push を使います。",
+    "url": "https://note.com/pclub/n/n36717240709d",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "再訪率UPに効くプッシュ通知サービス「OneSignal」を調べてみました｜TAM Design Tech",
+    "url": "https://note.com/tamdesigntech/n/n4751ae7461c8",
+    "pass": 3
+   },
+   {
+    "quote": "再訪率UPに効くプッシュ通知サービス「OneSignal」を調べてみました",
+    "url": "https://note.com/tamdesigntech/n/n4751ae7461c8",
+    "pass": 3
+   },
+   {
+    "quote": "こんにちは！TAMフロントエンドエンジニアの佐川です。",
+    "url": "https://note.com/tamdesigntech/n/n4751ae7461c8",
+    "pass": 3
+   },
+   {
+    "quote": "今回はプッシュ通知のSaaS「OneSignal」を調べたため、そのまとめを書いていきます。",
+    "url": "https://note.com/tamdesigntech/n/n4751ae7461c8",
+    "pass": 3
+   },
+   {
+    "quote": "WEBサイトのKPIとしてよく挙げられる再訪率について、プッシュ通知が効果的と言われています。",
+    "url": "https://note.com/tamdesigntech/n/n4751ae7461c8",
+    "pass": 3
+   },
+   {
+    "quote": "インターネットを閲覧しているとたまに出現する「このサイトからの通知を受け取りますか？」といった表示ですね。",
+    "url": "https://note.com/tamdesigntech/n/n4751ae7461c8",
+    "pass": 3
+   },
+   {
+    "quote": "Webプッシュ通知を正しく運用すれば、メールに比べて",
+    "url": "https://note.com/tamdesigntech/n/n4751ae7461c8",
+    "pass": 3
+   },
+   {
+    "quote": "Webページへの誘導率が上がることがわかっています。",
+    "url": "https://note.com/tamdesigntech/n/n4751ae7461c8",
+    "pass": 3
+   },
+   {
+    "quote": "OneSignal というプッシュ通知サービスが便利だ！｜Daishin Ueyama",
+    "url": "https://note.com/daishin_ueyama/n/n71d53b131495",
+    "pass": 3
+   },
+   {
+    "quote": "OneSignal というプッシュ通知サービスが便利だ！",
+    "url": "https://note.com/daishin_ueyama/n/n71d53b131495",
+    "pass": 3
+   },
+   {
+    "quote": "Codexと作業しているとさまざま新たなサービスを知ることになる。先日は、Tailscale という猛烈に便利なサービスを教えてもらい、大変重宝している。",
+    "url": "https://note.com/daishin_ueyama/n/n71d53b131495",
+    "pass": 3
+   },
+   {
+    "quote": "実は寺のPWAというものを作成しようとしている。PWAというのは以下のようなものである。",
+    "url": "https://note.com/daishin_ueyama/n/n71d53b131495",
+    "pass": 3
+   },
+   {
+    "quote": "PWA（Progressive Web Apps）とは、",
+    "url": "https://note.com/daishin_ueyama/n/n71d53b131495",
+    "pass": 3
+   },
+   {
+    "quote": "Webサイトをスマートフォンの専用アプリ（ネイティブアプリ）のように使える仕組み",
+    "url": "https://note.com/daishin_ueyama/n/n71d53b131495",
+    "pass": 3
+   },
+   {
+    "quote": "です。App StoreやGoogle Playなどのストアを経由せず、ブラウザから直接スマホのホーム画面にアイコンを追加でき、プッシュ通知やオフライン動作が可能です。",
+    "url": "https://note.com/daishin_ueyama/n/n71d53b131495",
+    "pass": 3
+   },
+   {
+    "quote": "その中で、プッシュ通知をどうしたらよいかという点で、Codexが教えてくれたのが、OneSignal というサービス。小さな規模なら無料で使える。",
+    "url": "https://note.com/daishin_ueyama/n/n71d53b131495",
+    "pass": 3
+   },
+   {
+    "quote": "プログラムと電子工作・PWAのスマホアプリへプッシュ通知を送る｜gokkunhebi",
+    "url": "https://note.com/pclub/n/n36717240709d",
+    "pass": 3
+   },
+   {
+    "quote": "プログラムと電子工作・PWAのスマホアプリへプッシュ通知を送る",
+    "url": "https://note.com/pclub/n/n36717240709d",
+    "pass": 3
+   },
+   {
+    "quote": "スマホアプリをProgressive Web App（PWA）で作る",
+    "url": "https://note.com/pclub/n/n36717240709d",
+    "pass": 3
+   },
+   {
+    "quote": "」で、PWAを Windowsのデスクトップにインストールすること、iPhoneのホーム画面に配置することができました。",
+    "url": "https://note.com/pclub/n/n36717240709d",
+    "pass": 3
+   },
+   {
+    "quote": "プッシュ通知を送信するサーバ側アプリケーション",
+    "url": "https://note.com/pclub/n/n36717240709d",
+    "pass": 3
+   },
+   {
+    "quote": "プッシュ通知を受信するには、Windowsの場合、インストールは必要ありません。一度ブラウザで PWAサイトを開き、通知の受信を許可するだけでいいようです。PWAサイトを開いておく必要もありません。",
+    "url": "https://note.com/pclub/n/n36717240709d",
+    "pass": 3
+   },
+   {
+    "quote": "iOSの場合、ホーム画面に配置する必要があります。一度ブラウザで PWAサイトを開き、ホーム画面に追加し、ホーム画面から PWAサイトを開き、通知の受信を許可する必要があります。PWAサイトを開いておく必要はありません。",
+    "url": "https://note.com/pclub/n/n36717240709d",
+    "pass": 3
+   },
+   {
+    "quote": "プッシュ通知を送信するサーバ側アプリケーションは、プログラミング言語 PHPで実装します。前回導入した無料のホスティングサービス「",
+    "url": "https://note.com/pclub/n/n36717240709d",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "OneSignal (@onesignal) / X OneSignal is live in the Cursor marketplace ⚡ Connect Cursor to OneSignal via MCP and send test pushes, verify setup, and debug delivery issues without leaving your editor.",
+    "url": "https://x.com/onesignal",
+    "pass": 3
+   },
+   {
+    "quote": "OneSignal Design (@OneSignalDesign) / Posts / X Episode 63 of the OneSignal podcast welcomes OneSignal's Lee Munroe, Head of Design at OneSignal. Lee is one of many resident email experts but in particular he’s well known on the email design.",
+    "url": "https://x.com/OneSignalDesign",
+    "pass": 3
+   },
+   {
+    "quote": "OneSignal on X: \" OneSignal is heading to New York! We’re ... If you’re attending, come find the OneSignal team! We’d love to connect, swap ideas, and chat about how brands are building smarter customer journeys that drive engagement and long-term growth.",
+    "url": "https://x.com/onesignal/status/2098154622124732713",
+    "pass": 3
+   },
+   {
+    "quote": "OneSignal on X: \"\" / X OneSignal on X: \"\" / X 03 Sep 2026 16:28:58",
+    "url": "https://x.com/onesignal/status/2095549623435759784",
+    "pass": 3
+   },
+   {
+    "quote": "OneSignal Design (@OneSignalDesign) / Posts / X Dec 3, 2021 · Episode 63 of the OneSignal podcast welcomes OneSignal's Lee Munroe, Head of Design at OneSignal. Lee is one of many resident email experts but in particular he’s well known on the email design.",
+    "url": "https://x.com/OneSignalDesign",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "OneSignal - LinkedIn OneSignal is the leading customer engagement platform for push, email, SMS/RCS, and in-app messaging. We're trusted by 1 in 4 app publishers to onboard, engage, and retain customers at scale ...",
+    "url": "https://www.linkedin.com/company/onesignal/",
+    "pass": 3
+   },
+   {
+    "quote": "OneSignal - LinkedIn About OneSignal is the market-leading omni-channel customer messaging tool for email, push notifications, SMS and in-app messaging.",
+    "url": "https://www.linkedin.com/products/onesignal",
+    "pass": 3
+   },
+   {
+    "quote": "George Deglin - OneSignal | LinkedInJason Seeba - Chief Marketing Officer at OneSignal | LinkedInAl Harnisch - Global Head of Partnerships @ OneSignal | LinkedInCarly Botelho - Head of Marketing at OneSignal | LinkedInLong Vo - Cofounder, COO at OneSignal | LinkedIn · Experience: OneSignal · Education: Y Combinator · Location: San Mateo · 500+ connections on LinkedIn. View George Deglin’s profile ",
+    "url": "https://www.linkedin.com/in/gdeglin",
+    "pass": 3
+   },
+   {
+    "quote": "Jason Seeba - Chief Marketing Officer at OneSignal | LinkedInAl Harnisch - Global Head of Partnerships @ OneSignal | LinkedInCarly Botelho - Head of Marketing at OneSignal | LinkedInLong Vo - Cofounder, COO at OneSignal | LinkedIn Chief Marketing Officer at OneSignal · Growing up in Silicon Valley, I was that kid that dialed up BBSes and rebuilt my computer far too often. Global Head of Partnershi",
+    "url": "https://www.linkedin.com/in/jasonseeba",
+    "pass": 3
+   },
+   {
+    "quote": "George Deglin - OneSignal | LinkedIn経営チーム｜note株式会社noteの歴代社長 - the-shashi.comGeorge Deglin | Cofounder and CEO of OneSignalLong Vo - Cofounder, COO at OneSignal | LinkedIn · Experience: OneSignal · Education: Y Combinator · Location: San Mateo · 500+ connections on LinkedIn. View George Deglin’s profile on LinkedIn, a professional community of 1 billion members. Nov 30, 2020 · その後PEファンド投資先のCFO兼CAOを",
+    "url": "https://www.linkedin.com/in/gdeglin",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "OneSignal | San Mateo CA - FacebookOne-Signal - Smarter Trading - FacebookOneSignal - Free Unlimited Push Notification | FacebookFirebase Cloud Messaging Vs OneSignal - FacebookLearn how to generate your OneSignal App ID and ... - FacebookHow to Integrate RSS With OneSignal - FacebookTechZara GROUPE | Setting up web push notifications is THIS ... Jul 14, 2026 · What an afternoon in Tokyo! 🌸 We hos",
+    "url": "https://www.facebook.com/onesignalapp/",
+    "pass": 3
+   },
+   {
+    "quote": "One-Signal - Smarter Trading - FacebookOneSignal - Free Unlimited Push Notification | FacebookFirebase Cloud Messaging Vs OneSignal - FacebookLearn how to generate your OneSignal App ID and ... - FacebookHow to Integrate RSS With OneSignal - FacebookTechZara GROUPE | Setting up web push notifications is THIS ... Jul 1, 2026 · Momentum tells you whether conviction is building or fading — usually be",
+    "url": "https://www.facebook.com/onesignalsmartertrading/",
+    "pass": 3
+   },
+   {
+    "quote": "OneSignal - Free Unlimited Push Notification | Facebook A group dedicated to users of OneSignal.com service. If you don't know, OneSignal.com provides free and unlimited push notifications for web and mobile platforms.",
+    "url": "https://www.facebook.com/groups/118859538810193/",
+    "pass": 3
+   },
+   {
+    "quote": "Firebase Cloud Messaging Vs OneSignal - Facebook Firebase Cloud Messaging (FCM) is totally free for unlimited notifications, while OneSignal is built on top of FCM and adds easier setup plus extra...",
+    "url": "https://www.facebook.com/fb-answers/firebase-cloud-messaging-vs-onesignal/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://onesignal.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onesignal.com/partners-directory",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onesignal.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onesignal.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onesignal.com/company-events",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onesignal.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onesignal.com/case-studies/taptap-send",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onesignal.com/case-studies/beach-bum-games",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onesignal.com/case-studies/bitcoin-com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onesignal.com/case-studies/tag-heuer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onesignal.com/case-studies/betmate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onesignal.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onesignal.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onesignal.com/partners-directory/wallabout-collective",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onesignal.com/partners-directory/100-inc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onesignal.com/partners-directory/blueoshan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onesignal.com/partners-directory/ematic-solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onesignal.com/partners-directory/market-fit-lab",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onesignal.com/partners-directory/master-concept",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onesignal.com/partners-directory/ragnarok",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://onesignal.com/images/placeholder.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://onesignal.com/images/placeholder.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://onesignal.com/images/placeholder.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://media-cms.onesignal.com/cms/Logos/logo-bitcoin-white-v2.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://documentation.onesignal.com/docs/ja/android-sdk-setup",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.issoh.co.jp/tech/details/18353/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://documentation.onesignal.com/docs/ja/home",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.genius-web.co.jp/blog/website-operation/let-s-introduce-a-web-push-notification-onesignal.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.koaglobal.com/corporate/offices/distributors1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://documentation.onesignal.com/docs/ja/home",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://documentation.onesignal.com/docs/ja/quickstart-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/onesignal/case-study/how-zenni-optical-boosted-retention-doubled-engagement-and-revenue-and-embraced-data-driven-customer-engagement-with-onesignal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/onesignal/case-study/whiskers-push-marketing-breakthrough-improving-revenue-by-20",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.sentinelone.com/landing-page",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ninjaone.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/onesignal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/111934-36",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/onesignal/__m5ycJzS7z96DPQZYdUsN2ifGGab0KTqN-m99zO8jMKA",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://compworth.com/company/onesignal",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tamdesigntech/n/n4751ae7461c8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/daishin_ueyama/n/n71d53b131495",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/pclub/n/n36717240709d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/onesignal",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/OneSignalDesign",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/onesignal/status/2098154622124732713",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/onesignal/status/2095549623435759784",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/onesignal/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/onesignal",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/gdeglin",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/jasonseeba",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/onesignalapp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/onesignalsmartertrading/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/118859538810193/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/fb-answers/firebase-cloud-messaging-vs-onesignal/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/gdeglin",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/onesignal",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/OneSignalDesign",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Onesignal 日本 導入",
+   "results": [
+    "https://documentation.onesignal.com/docs/ja/android-sdk-setup",
+    "https://www.issoh.co.jp/tech/details/18353/",
+    "https://documentation.onesignal.com/docs/ja/home",
+    "https://www.genius-web.co.jp/blog/website-operation/let-s-introduce-a-web-push-notification-onesignal.html",
+    "https://documentation.onesignal.com/docs/ja/developers",
+    "https://documentation.onesignal.com/docs/ja/quickstart-guide",
+    "https://www.100inc.co.jp/news/20250422-onesignal-partner"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Onesignal 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.koaglobal.com/corporate/offices/distributors1",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.aon.com/japan/company-overview"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Onesignal Japan",
+   "results": [
+    "https://onesignal.com/language/japanese",
+    "https://documentation.onesignal.com/docs/ja/home",
+    "https://documentation.onesignal.com/docs/ja/quickstart-guide",
+    "https://onesignal.com/region/asia-pacific",
+    "https://scraping.pro/technologies/onesignal/websites/jp",
+    "https://oortonline.gl/technologies/web-push/onesignal/sites/jp",
+    "https://www.100inc.co.jp/news/20250422-onesignal-partner"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Onesignal manufacturing customer case study",
+   "results": [
+    "https://onesignal.com/case-studies",
+    "https://www.casestudies.com/company/onesignal/case-study/how-zenni-optical-boosted-retention-doubled-engagement-and-revenue-and-embraced-data-driven-customer-engagement-with-onesignal",
+    "https://www.casestudies.com/company/onesignal/case-study/whiskers-push-marketing-breakthrough-improving-revenue-by-20",
+    "https://onesignal.com/resources",
+    "https://www.featuredcustomers.com/vendor/onesignal/case-studies",
+    "https://bobcares.com/case-study/enhancing-customer-engagement-a-case-study-with-onesignal/",
+    "https://www.appsruntheworld.com/customers-database/products/view/onesignal"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Onesignal white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partners.sentinelone.com/landing-page",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.ninjaone.com/partner-program/",
+    "https://www.seoreseller.com/",
+    "https://www.nextiva.com/company/partners",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Onesignal founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/onesignal",
+    "https://pitchbook.com/profiles/company/111934-36",
+    "https://tracxn.com/d/companies/onesignal/__m5ycJzS7z96DPQZYdUsN2ifGGab0KTqN-m99zO8jMKA",
+    "https://compworth.com/company/onesignal",
+    "https://www.konaequity.com/company/onesignal-inc-4395647623/",
+    "https://www.zoominfo.com/c/onesignal-inc/437833861",
+    "https://www.thecompanycheck.com/company/b/onesignal/ip1yyi7i8unf3ql2r"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Onesignal",
+   "results": [
+    "https://note.com/tamdesigntech/n/n4751ae7461c8",
+    "https://note.com/daishin_ueyama/n/n71d53b131495",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/pclub/n/n36717240709d",
+    "https://note.com/reality_eng/n/nf19d7235a22e",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Onesignal",
+   "results": [
+    "https://x.com/onesignal",
+    "https://x.com/OneSignalDesign",
+    "https://x.com/onesignal/status/2098154622124732713",
+    "https://x.com/onesignal/status/2095549623435759784",
+    "https://x.com/Thereallo1026/status/2037827444129022256",
+    "https://help.x.com/en",
+    "https://x.com/itsmelike_some/status/2018960509970878861"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Onesignal",
+   "results": [
+    "https://www.linkedin.com/company/onesignal/",
+    "https://www.linkedin.com/products/onesignal",
+    "https://www.linkedin.com/in/gdeglin",
+    "https://www.linkedin.com/in/jasonseeba",
+    "https://www.linkedin.com/in/aharnisch3",
+    "https://www.linkedin.com/in/botelhoce",
+    "https://www.linkedin.com/in/longvo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Onesignal",
+   "results": [
+    "https://www.facebook.com/onesignalapp/",
+    "https://www.facebook.com/onesignalsmartertrading/",
+    "https://www.facebook.com/groups/118859538810193/",
+    "https://www.facebook.com/fb-answers/firebase-cloud-messaging-vs-onesignal/",
+    "https://www.facebook.com/technicdude/videos/learn-how-to-generate-your-onesignal-app-id-and-rest-api-key-in-a-simple-step-by/2051634125596378/",
+    "https://www.facebook.com/fb-answers/how-to-integrate-rss-with-onesignal/",
+    "https://www.facebook.com/groups/techzara.org/posts/25973435052244756/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Onesignal note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.linkedin.com/in/gdeglin",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://george.deglin.com/",
+    "https://www.linkedin.com/in/longvo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Onesignal X 投稿",
+   "results": [
+    "https://x.com/onesignal",
+    "https://x.com/OneSignalDesign",
+    "https://onesignal.com/",
+    "https://documentation.onesignal.com/docs/cn/push",
+    "https://documentation.onesignal.com/docs/cn/home",
+    "https://toumaswitch.com/0dmmsoctp4/",
+    "https://qiita.com/gatespace/items/738a623a6f342d45ae1f"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部38頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部38頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部38頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部38頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部38頁・検索12回）"
+ }
+}

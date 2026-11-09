@@ -1,0 +1,940 @@
+{
+ "name": "Osmind",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜返信あり",
+ "researched_at": "2026-11-09T23:08:38.193645+00:00",
+ "official_url": "https://www.osmind.org/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "We help practices deliver them",
+    "url": "https://www.osmind.org/",
+    "pass": 1
+   },
+   {
+    "quote": "Powering the largest network of interventional psychiatry practices in the U.S.",
+    "url": "https://www.osmind.org/",
+    "pass": 1
+   },
+   {
+    "quote": "network of independent psychiatry practices",
+    "url": "https://www.osmind.org/",
+    "pass": 1
+   },
+   {
+    "quote": "AI-powered EHR, billing, prior auth, and patient engagement — built for Spravato, TMS, ketamine, and other treatments redefining psychiatry",
+    "url": "https://www.osmind.org/",
+    "pass": 1
+   },
+   {
+    "quote": "Prior auth submitted to Aetna for Spravato treatment.",
+    "url": "https://www.osmind.org/",
+    "pass": 1
+   },
+   {
+    "quote": "leading psychiatry practice",
+    "url": "https://www.osmind.org/",
+    "pass": 1
+   },
+   {
+    "quote": "Infrastructure to launch new modalities profitably",
+    "url": "https://www.osmind.org/",
+    "pass": 1
+   },
+   {
+    "quote": "Spravato, TMS, and emerging modalities are redefining what a profitable practice looks like. We have the compliance automations, operational playbooks, direct manufacturer relationships, and payer contracts ready to scale.",
+    "url": "https://www.osmind.org/",
+    "pass": 1
+   },
+   {
+    "quote": "Billing technology and services that grow with your practice",
+    "url": "https://www.osmind.org/",
+    "pass": 1
+   },
+   {
+    "quote": "Built-in automation handles copays and intake workflows. AI-powered benefit verification, prior auth, and denial detection available for practices ready for more.",
+    "url": "https://www.osmind.org/",
+    "pass": 1
+   },
+   {
+    "quote": "more profitable than the average practice",
+    "url": "https://www.osmind.org/",
+    "pass": 1
+   },
+   {
+    "quote": "practices sharing purchasing power",
+    "url": "https://www.osmind.org/",
+    "pass": 1
+   },
+   {
+    "quote": "The collective power of 1,000+ practices, working for yours",
+    "url": "https://www.osmind.org/",
+    "pass": 1
+   },
+   {
+    "quote": "Access the lowest available drug pricing on Spravato through group purchasing — plus discounts on other drugs and supplies.",
+    "url": "https://www.osmind.org/",
+    "pass": 1
+   },
+   {
+    "quote": "Launch new service lines profitably with proven playbooks and access to experts at the frontier of psychiatry.",
+    "url": "https://www.osmind.org/",
+    "pass": 1
+   },
+   {
+    "quote": "Direct relationships with drug and device companies provides early access to emerging therapies and research opportunities.",
+    "url": "https://www.osmind.org/",
+    "pass": 1
+   },
+   {
+    "quote": "One practice changes lives",
+    "url": "https://www.osmind.org/",
+    "pass": 1
+   },
+   {
+    "quote": "\"I've spent my career getting these treatments to patients who need them. The infrastructure should never be the reason a practice can't.\"",
+    "url": "https://www.osmind.org/",
+    "pass": 1
+   },
+   {
+    "quote": "The practice you envisioned is closer than you think",
+    "url": "https://www.osmind.org/",
+    "pass": 1
+   },
+   {
+    "quote": "If you, or someone you know, is in crisis or needs immediate assistance, please call 911 immediately. To talk to someone now, please call the National Suicide Prevention Lifeline at 1-800-273-8255 or 988.",
+    "url": "https://www.osmind.org/",
+    "pass": 1
+   },
+   {
+    "quote": "Performance-based pricing that",
+    "url": "https://www.osmind.org/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you're starting out or adding treatments like SPRAVATO® and TMS, Osmind is your complete practice partner.",
+    "url": "https://www.osmind.org/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "From payer rates that improve over time and drug purchasing discounts to faster time-to-revenue — Osmind improves the levers that drive practice profitability.",
+    "url": "https://www.osmind.org/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Replace a patchwork of vendors and manual processes with one platform — and redirect your staff toward patient care, not paperwork.",
+    "url": "https://www.osmind.org/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Add new treatment modalities and expand your practice with the operational infrastructure already in place.",
+    "url": "https://www.osmind.org/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Plans for practices that take insurance or primarily cash",
+    "url": "https://www.osmind.org/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Software only. For practices billing cash or insurance on their own.",
+    "url": "https://www.osmind.org/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Psychiatry-tailored EHR with workflows for TMS, Spravato, and ketamine",
+    "url": "https://www.osmind.org/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Software, services, and our payer contracts. For practices launching insurance, Spravato, TMS, or VNS.",
+    "url": "https://www.osmind.org/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Psych-specialized billing and expert prior authorizations",
+    "url": "https://www.osmind.org/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Software, services, bring your own payer contracts. For established practices with 4+ providers ready to scale.",
+    "url": "https://www.osmind.org/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time financial visibility and performance-based pricing",
+    "url": "https://www.osmind.org/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Strategic practice consulting and performance reviews",
+    "url": "https://www.osmind.org/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Network benchmarking from 1,000+ practices",
+    "url": "https://www.osmind.org/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "“I knew I wanted to add Spravato to my practice — I just didn't want to deal with the credentialing piece. The Osmind Care Network takes billing, prior authorizations, and credentialing off my plate so I can focus on what I actually enjoy: caring for patients.\"",
+    "url": "https://www.osmind.org/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you're opening a new practice or expanding, we've got you covered.",
+    "url": "https://www.osmind.org/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Technology ready for growing practices",
+    "url": "https://www.osmind.org/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Automated SPRAVATO REMS",
+    "url": "https://www.osmind.org/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "e-Prescribing of controlled substances",
+    "url": "https://www.osmind.org/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Credit card payment processing",
+    "url": "https://www.osmind.org/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Prior authorization service",
+    "url": "https://www.osmind.org/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "$15 a month per provider",
+    "url": "https://www.osmind.org/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "“Finally, an EHR and Billing Partner That Handles Spravato & TMS Seamlessly.”",
+    "url": "https://www.osmind.org/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Frequently asked questions about Osmind pricing",
+    "url": "https://www.osmind.org/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How do I know which plan is right for my practice?",
+    "url": "https://www.osmind.org/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "\"Osmind is doing important, much-needed work. I truly believe that we are at an inflection point in our ability to markedly improve outcomes for our patients – both from an improved understanding of novel therapeutics, and our ability to move towards precision medicine.\"",
+    "url": "https://www.osmind.org/life-sciences",
+    "pass": 1
+   },
+   {
+    "quote": "“Osmind’s approach to unlocking next-generation treatments by leveraging real-world evidence and their digital infrastructure has the potential to meaningfully impact our ability to bring new treatments to patients in dire need. They’ve made incredible progress already.”",
+    "url": "https://www.osmind.org/life-sciences",
+    "pass": 1
+   },
+   {
+    "quote": "CEO of Bausch + Lomb, past Chairman, President, and CEO at Allergan",
+    "url": "https://www.osmind.org/life-sciences",
+    "pass": 1
+   },
+   {
+    "quote": "“Our collaboration with Osmind offers promise to broaden the scope of our impact on psychiatry and on the patients we serve.”",
+    "url": "https://www.osmind.org/life-sciences",
+    "pass": 1
+   },
+   {
+    "quote": "1,000+ independent practices using Osmind nationwide",
+    "url": "https://www.osmind.org/life-sciences",
+    "pass": 1
+   },
+   {
+    "quote": "Osmind can deploy surveys, micro-surveys, and point-of-care alerts directly within the EHR — enabling primary research, prospective data capture, and recruitment linked to RWD on an identifiable basis, not just passive data extraction.",
+    "url": "https://www.osmind.org/life-sciences",
+    "pass": 1
+   },
+   {
+    "quote": "The only psychiatry dataset that directly captures beat-by-beat vitals, audio, video, smartphone, and passive sensing data during and between clinical encounters.",
+    "url": "https://www.osmind.org/life-sciences",
+    "pass": 1
+   },
+   {
+    "quote": "From translational to commercial, Osmind delivers fit-for-purpose solutions. Below are examples from projects with leading sponsors.",
+    "url": "https://www.osmind.org/life-sciences",
+    "pass": 1
+   },
+   {
+    "quote": "Partnered with a large pharma as principal investigator and recruitment partner for a decentralized trial. Prospectively captured multimodal data to assess domains of depression and identify objective digital biomarkers in real-world patient populations.",
+    "url": "https://www.osmind.org/life-sciences",
+    "pass": 1
+   },
+   {
+    "quote": "Supported a large pharma with data-driven clinical trial design. Leveraged EHR-derived real-world data and machine learning to predict enhanced response to multiple marketed treatments with a similar MOA to their investigational product, translating response enrichment into specific I/E criteria.",
+    "url": "https://www.osmind.org/life-sciences",
+    "pass": 1
+   },
+   {
+    "quote": "Supported a publicly traded biotech with regulatory submission of a New Drug Application, leveraging proprietary real-world EHR data for supportive evidence across efficacy and safety. Osmind's role spanned regulatory-grade RWD, end-to-end statistical analysis, study design and execution, and direct regulatory support.",
+    "url": "https://www.osmind.org/life-sciences",
+    "pass": 1
+   },
+   {
+    "quote": "Supported a publicly traded biotech with commercial launch planning and forecasting through mixed-methods research. Leveraged real-world EHR and billing/claims data alongside primary research with clinicians and practice managers to detail gaps across coding, reimbursement, clinic economics, and prescribing behavior — directly influencing commercial and market access strategy.",
+    "url": "https://www.osmind.org/life-sciences",
+    "pass": 1
+   },
+   {
+    "quote": "Helped a pharma partner optimize the launch of a novel treatment by addressing barriers to patient identification and treatment inertia. Executed a campaign pairing broad and personalized clinician education with EHR-based in-workflow patient identification tools, alerts, and dashboards that nudged clinicians to take appropriate clinical action.",
+    "url": "https://www.osmind.org/life-sciences",
+    "pass": 1
+   },
+   {
+    "quote": "Prospective data capture: custom scales, clinician-administered scales, digital biomarkers, labs, EEG, genetic testing, etc.",
+    "url": "https://www.osmind.org/life-sciences",
+    "pass": 1
+   },
+   {
+    "quote": "NLP / computational processing or expert abstraction of free text clinical notes",
+    "url": "https://www.osmind.org/life-sciences",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Spravato, TMS, and emerging modalities are redefining what a profitable practice looks like. We have the compliance automations, operational playbooks, direct manufacturer relationships, and payer contracts ready to scale.",
+    "url": "https://www.osmind.org/",
+    "pass": 1
+   },
+   {
+    "quote": "Psychiatric evaluation, medications, outcomes, medical history, dose, route, weight, administration time, and more — captured at the point of care and available immediately, rather than aggregated months later from a data warehouse.",
+    "url": "https://www.osmind.org/life-sciences",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "From payer rates that improve over time and drug purchasing discounts to faster time-to-revenue — Osmind improves the levers that drive practice profitability.",
+    "url": "https://www.osmind.org/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Full revenue cycle management: denials, appeals, A/R recovery",
+    "url": "https://www.osmind.org/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Osmind 360 and Osmind Care Network are designed for practices with meaningful insurance volume. Our billing services are most impactful when there's insurance revenue to optimize.",
+    "url": "https://www.osmind.org/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "With Osmind Care Network, PA support is included as part of the service.",
+    "url": "https://www.osmind.org/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Helped a pharma partner optimize the launch of a novel treatment by addressing barriers to patient identification and treatment inertia. Executed a campaign pairing broad and personalized clinician education with EHR-based in-workflow patient identification tools, alerts, and dashboards that nudged clinicians to take appropriate clinical action.",
+    "url": "https://www.osmind.org/life-sciences",
+    "pass": 1
+   },
+   {
+    "quote": "As the technology system of record that powers psychiatry practices, in addition to being the clinic’s go-to partner across billing, revenue cycle management, service line expansion, group purchasing, practice development, and more, Osmind is uniquely positioned to support life sciences with bespoke commercial and marketing solutions.",
+    "url": "https://www.osmind.org/life-sciences",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Revenue Operations Manager",
+    "url": "https://www.osmind.org/about",
+    "pass": 1
+   },
+   {
+    "quote": "We strive to promote the wellbeing of our employees by fostering a healthy work life balance. Below are some of the benefits we offer.",
+    "url": "https://www.osmind.org/careers",
+    "pass": 1
+   },
+   {
+    "quote": "16 weeks of 100% paid leave as you grow your family, no matter how you choose to grow it. Biological, adoption, fostering, we’ve got you covered. Also one month paid time off miscarriage leave, to recover for both birthing and non-birthing parents.",
+    "url": "https://www.osmind.org/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Zoom Video Communications ISV パートナー アカウント マネージャーの Matt Cipolla 氏は次のように述べています",
+    "url": "https://healthmenowth.com/ja/health-news/osmind-integrated-virtual-visits/",
+    "pass": 3
+   },
+   {
+    "quote": "In the past, psychiatrists and mental health providers tried to measure outcomes with questionnaires or other unavoidably imprecise tools. A core part of Osmind’s platform is",
+    "url": "https://medium.com/pear-healthcare-playbook/lessons-from-lucia-huang-osmind-improving-mental-health-treatments-with-an-innovative-ehr-8ed98cc90a35",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Phone, email, and chat support",
+    "url": "https://www.osmind.org/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "If you prefer to manage your own billing or work primarily with self-pay patients, Osmind One gives you a powerful psychiatry-tailored EHR to run your practice. Not sure? Contact us and we'll help you figure it out.",
+    "url": "https://www.osmind.org/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Osmind Care Network is available for select payers and states. Contact us for more information.",
+    "url": "https://www.osmind.org/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Our payer list varies by state for Osmind Care Network. That said, across the board we are in network with Aetna, Blues, Cigna, and United Healthcare plans. Since the list varies by state - contact us and we'll confirm exactly which payers we cover for your practice.",
+    "url": "https://www.osmind.org/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "If you have suggested guests or topics, please email vivien@pear.vc!",
+    "url": "https://medium.com/pear-healthcare-playbook/lessons-from-lucia-huang-osmind-improving-mental-health-treatments-with-an-innovative-ehr-8ed98cc90a35",
+    "pass": 3
+   },
+   {
+    "quote": "Investor email alerts",
+    "url": "https://ir.compasspathways.com/News--Events-/news/news-details/2026/Compass-Pathways-Collaborates-with-Osmind-to-Advance-Independent-Clinic-Readiness-for-Psychedelic-Treatments/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Email Address is required.",
+    "url": "https://ir.compasspathways.com/News--Events-/news/news-details/2026/Compass-Pathways-Collaborates-with-Osmind-to-Advance-Independent-Clinic-Readiness-for-Psychedelic-Treatments/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Email Address is invalid.",
+    "url": "https://ir.compasspathways.com/News--Events-/news/news-details/2026/Compass-Pathways-Collaborates-with-Osmind-to-Advance-Independent-Clinic-Readiness-for-Psychedelic-Treatments/default.aspx",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Osmind は、臨床医向けの統合された仮想訪問機能を導入します — Oct 8, 2022 · 新しい Osmind 機能は、組み込みの Zoom Video テクノロジーを使用して、さまざまな設定でケアを拡張するのに役立ちます。 これにより、臨床医は Osmind 患者アプリで同期および非同期のデジタル コミュニケーション ツールにアクセスできます。",
+    "url": "https://healthmenowth.com/ja/health-news/osmind-integrated-virtual-visits/",
+    "pass": 3
+   },
+   {
+    "quote": "Osmind | Interventional Psychiatry EHR, Billing RCM & Network — Osmind powers interventional psychiatry with an AI-native EHR, billing, and a network of 1,000+ practices delivering Spravato, TMS, and ketamine.",
+    "url": "https://www.osmind.org/",
+    "pass": 3
+   },
+   {
+    "quote": "Osmind | Research — Jul 29, 2020 · Osmind’s research is helping to set new standards for mental health interventions and improve patient outcomes. See how we work with research partners to generate real-world evidence to accelerate advances in mental health care.",
+    "url": "https://www.osmind.org/research",
+    "pass": 3
+   },
+   {
+    "quote": "Lessons from Lucia Huang, Osmind: Improving mental health ... — Mar 6, 2022 · They wanted to start something that would ultimately lay the infrastructure layer for the entire mental health space, and now 2 years later they’ve built an institution, Osmind.",
+    "url": "https://medium.com/pear-healthcare-playbook/lessons-from-lucia-huang-osmind-improving-mental-health-treatments-with-an-innovative-ehr-8ed98cc90a35",
+    "pass": 3
+   },
+   {
+    "quote": "openEuler专属的运维平台OSMind可以使用了 — Nov 29, 2023 · 1.一个面向所有openEuler用户的运维平台 2.一个大一统的生态平台 3.一个利用前沿的技术构筑的智能运维平台 链接地址： 运维专区",
+    "url": "https://forum.openeuler.org/t/topic/2893",
+    "pass": 3
+   },
+   {
+    "quote": "Osmind | Life Sciences — Osmind brings together unmatched subject matter expertise, especially in interventional psychiatry, with a structural data advantage no general-purpose vendor can replicate — giving our partners both the evidence and the context to act on it.",
+    "url": "https://www.osmind.org/life-sciences",
+    "pass": 3
+   },
+   {
+    "quote": "Osmind | Research — Jul 29, 2020 · Osmind is a recognized leader in psychiatry research, partnering with academic groups, mental health nonprofits and foundations, government stakeholders, biopharmaceutical companies, and medical device companies.",
+    "url": "https://www.osmind.org/research",
+    "pass": 3
+   },
+   {
+    "quote": "Compass Pathways - Compass Pathways Collaborates with Osmind ... — Apr 21, 2026 · Osmind’s network of over 1,000 clinics comprises one of the country’s largest network of interventional psychiatry practices. Its psychiatry-tailored software and services are designed to enable clinicians to offer innovative psychiatric treatments sustainably, without giving up independence.",
+    "url": "https://ir.compasspathways.com/News--Events-/news/news-details/2026/Compass-Pathways-Collaborates-with-Osmind-to-Advance-Independent-Clinic-Readiness-for-Psychedelic-Treatments/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Tasman Therapeutics Announces Strategic Partnership with ... — Aug 11, 2026 · Osmind’s network of over 1,000 practices comprises the country’s largest network of interventional psychiatry practices. Osmind’s practice network, point-of-care software, and real-world data support life sciences companies in developing and scaling access to cutting-edge treatments.",
+    "url": "https://www.tasmantherapeutics.com/insights/tasman-therapeutics-announces-strategic-partnership-with-osmind-to-advance-r-107-for-depressive-disorders",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories - osmind.org — Learn how leading psychiatry practices are charting the future with Osmind.",
+    "url": "https://www.osmind.org/blog/category/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Osmind achieves 480x faster EHR transfers with ... — With Flatfile, Osmind cut processing time from two weeks to about 10 minutes per EHR—a 480x speed improvement—while gaining better visibility, control, and HIPAA-compliant handling of sensitive health records. View this case study…",
+    "url": "https://www.casestudies.com/company/flatfile/case-study/osmind-finds-peace-of-mind-in-a-simple-flatfile-solution",
+    "pass": 3
+   },
+   {
+    "quote": "Osmind 2026 Company Profile: Valuation, Funding & Investors ...Osmind - 2026 Company Profile, Team, Funding & Competitors ...Osmind – Business Snapshot & Rival Analysis – 2026Osmind Information - RocketReachOsmind, Inc. - Overview, News & Similar companies | ZoomInfo.comOsmind: Funding, Team & Investors | Startup IntrosOsmind Revenue 2024: $8.7M Est. ARR (Bootstrapped) — Information on valuation, ",
+    "url": "https://pitchbook.com/profiles/company/439515-91",
+    "pass": 3
+   },
+   {
+    "quote": "Osmind - 2026 Company Profile, Team, Funding & Competitors ...Osmind – Business Snapshot & Rival Analysis – 2026Osmind Information - RocketReachOsmind, Inc. - Overview, News & Similar companies | ZoomInfo.comOsmind: Funding, Team & Investors | Startup IntrosOsmind Revenue 2024: $8.7M Est. ARR (Bootstrapped) — Mar 15, 2026 · Osmind is a series B company based in Palo Alto (United States), founded i",
+    "url": "https://tracxn.com/d/companies/osmind/__ayJ8XLWemXcNGf1ZgB-LEO0ENxNBdYBm56LX5CkeGr0",
+    "pass": 3
+   },
+   {
+    "quote": "Osmind – Business Snapshot & Rival Analysis – 2026 — Discover Osmind's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/osmind",
+    "pass": 3
+   },
+   {
+    "quote": "Osmind Information - RocketReachOsmind, Inc. - Overview, News & Similar companies | ZoomInfo.comOsmind: Funding, Team & Investors | Startup IntrosOsmind Revenue 2024: $8.7M Est. ARR (Bootstrapped) — Osmind is a Mental Health Care, Healthcare Software, and Other Healthcare Technology Systems company located in San Francisco, California with $14.7 million in revenue and 66 employees. Gather financia",
+    "url": "https://rocketreach.co/osmind-profile_b42da5acfe4e575e",
+    "pass": 3
+   },
+   {
+    "quote": "Osmind, Inc. - Overview, News & Similar companies | ZoomInfo.com — Gather financial insights about Osmind, Inc., including details on funding rounds, investors, total funding, and acquisitions, to gain a comprehensive understanding of their financial strategy.",
+    "url": "https://www.zoominfo.com/c/osmind/482374109",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Osmind on X: \"As a Public Benefit Corporation, @Osmind’s ... ORKA (Osmind Real-World Ketamine Analyses) is a series of research studies conducted across 178 US clinics in partnership with leading physician-scientists at @StanfordMed, and our very own VP of Medical Affairs, Dr. Alison McInnes.",
+    "url": "https://x.com/OsmindHQ/status/1481070812879028227",
+    "pass": 3
+   },
+   {
+    "quote": "Your practice may be hemorrhaging money, and you probably don ... Osmind (@OsmindHQ). 176 views. Your practice may be hemorrhaging money, and you probably don't even realize it. Prior authorization hits psychiatry harder than almost any other specialty—57% of our services compared to 30% elsewhere. If you offer Spravato or TMS, your headache multiplies.",
+    "url": "https://x.com/OsmindHQ/status/1937552019965055414",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Osmind - LinkedIn Osmind is a San Francisco–based public benefit corporation led by scientists, technologists, and psychiatrists to advance new evidence-generating medicine that helps people living with moderate...",
+    "url": "https://www.linkedin.com/company/osmind",
+    "pass": 3
+   },
+   {
+    "quote": "Jimmy Qian - Osmind | LinkedInLucia Huang - Osmind | LinkedInSabas Rodriguez - VP of Growth at Osmind, Advancing Mental ...William Sauvé, MD - Chief Medical Officer at Osmind | LinkedInShuchi Bhargava - VP Finance, Osmind | LinkedInKelsey Friedman - VP of Operations at Osmind | LinkedIn Experience: Osmind · Education: Stanford University · Location: San Francisco · 500+ connections on LinkedIn. Vi",
+    "url": "https://www.linkedin.com/in/jimmyjqian",
+    "pass": 3
+   },
+   {
+    "quote": "Lucia Huang - Osmind | LinkedInSabas Rodriguez - VP of Growth at Osmind, Advancing Mental ...William Sauvé, MD - Chief Medical Officer at Osmind | LinkedInShuchi Bhargava - VP Finance, Osmind | LinkedInKelsey Friedman - VP of Operations at Osmind | LinkedIn Experience: Osmind · Education: Stanford University Graduate School of Business · Location: San Francisco Bay Area · 500+ connections on Linke",
+    "url": "https://www.linkedin.com/in/luciayhuang",
+    "pass": 3
+   },
+   {
+    "quote": "Sabas Rodriguez - VP of Growth at Osmind, Advancing Mental ...William Sauvé, MD - Chief Medical Officer at Osmind | LinkedInShuchi Bhargava - VP Finance, Osmind | LinkedInKelsey Friedman - VP of Operations at Osmind | LinkedIn As VP of Growth at Osmind, he leads a multi-functional team focused on growing the Osmind network. His responsibilities encompass sales, marketing, revenue operations, and g",
+    "url": "https://www.linkedin.com/in/sabasrodriguez",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Osmind | San Francisco CA - FacebookOsmind - Proud to sponsor American Society of Ketamine ...Donny Osmond - FacebookOsmind - We’re honored to have TIME recognize Osmind as ...Jay Osmond - FacebookOsmind - Your patients started a GLP-1 for weight loss. Then ...Osmind - The cost of treatment resistance: Each failed ... Jun 10, 2026 · This collaboration combines Osmind's deep understanding of how cl",
+    "url": "https://www.facebook.com/osmindHQ/",
+    "pass": 3
+   },
+   {
+    "quote": "Osmind - Proud to sponsor American Society of Ketamine ... Jan 22, 2026 · Interventions like ketamine are changing lives, and this community is leading the charge. This year, Osmind Scientific Advisor L. Alison McInnes MD, MS. takes the main stage to present real-world data on ketamine for PTSD from 1,340 patients across our network. See you in Austin!",
+    "url": "https://www.facebook.com/osmindHQ/posts/proud-to-sponsor-american-society-of-ketamine-physicians-psychotherapists-and-pr/1684545632934522/",
+    "pass": 3
+   },
+   {
+    "quote": "Donny Osmond - FacebookOsmind - We’re honored to have TIME recognize Osmind as ...Jay Osmond - FacebookOsmind - Your patients started a GLP-1 for weight loss. Then ...Osmind - The cost of treatment resistance: Each failed ... 3 days ago · Donny Osmond. 1,325,102 followers · 30,922 talking about this. Singer, entertainer, and family man. Tickets for Harrah’s Las Vegas & Viva UK 2027 available now! ",
+    "url": "https://www.facebook.com/donnyosmond.fb/",
+    "pass": 3
+   },
+   {
+    "quote": "Osmind - We’re honored to have TIME recognize Osmind as ... We’re honored to have TIME recognize Osmind as one of the World's Top Health Tech Companies of 2026! This is the second year we made this list. What...",
+    "url": "https://www.facebook.com/osmindHQ/posts/were-honored-to-have-time-recognize-osmind-as-one-of-the-worlds-top-health-tech-/1902634444458972/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.osmind.org/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osmind.org/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osmind.org/life-sciences",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osmind.org/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osmind.org/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://healthmenowth.com/ja/health-news/osmind-integrated-virtual-visits/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://medium.com/pear-healthcare-playbook/lessons-from-lucia-huang-osmind-improving-mental-health-treatments-with-an-innovative-ehr-8ed98cc90a35",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Jimmy_Osmond",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.compasspathways.com/News--Events-/news/news-details/2026/Compass-Pathways-Collaborates-with-Osmind-to-Advance-Independent-Clinic-Readiness-for-Psychedelic-Treatments/default.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/celf-creative/case-study/osmond-drake-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://osmondmaguire.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/439515-91",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/osmind/__ayJ8XLWemXcNGf1ZgB-LEO0ENxNBdYBm56LX5CkeGr0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://compworth.com/company/osmind",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://rocketreach.co/osmind-profile_b42da5acfe4e575e",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/OsmindHQ/status/1481070812879028227",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/OsmindHQ/status/1937552019965055414",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/osmind",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/jimmyjqian",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/luciayhuang",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/sabasrodriguez",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/osmindHQ/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/osmindHQ/posts/proud-to-sponsor-american-society-of-ketamine-physicians-psychotherapists-and-pr/1684545632934522/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/donnyosmond.fb/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/osmindHQ/posts/were-honored-to-have-time-recognize-osmind-as-one-of-the-worlds-top-health-tech-/1902634444458972/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Osmind 日本 導入",
+   "results": [
+    "https://healthmenowth.com/ja/health-news/osmind-integrated-virtual-visits/",
+    "https://www.osmind.org/",
+    "https://www.osmind.org/research",
+    "https://medium.com/pear-healthcare-playbook/lessons-from-lucia-huang-osmind-improving-mental-health-treatments-with-an-innovative-ehr-8ed98cc90a35",
+    "https://forum.openeuler.org/t/topic/2893",
+    "https://www.tasmantherapeutics.com/insights/tasman-therapeutics-announces-strategic-partnership-with-osmind-to-advance-r-107-for-depressive-disorders",
+    "https://www.itmedia.co.jp/business/articles/2610/08/news016.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Osmind 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://www.ipsen.com/japan/会社/",
+    "https://ja.nozominetworks.com/company"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Osmind Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Jimmy_Osmond",
+    "https://www.osmind.org/life-sciences",
+    "https://www.osmind.org/research",
+    "https://ir.compasspathways.com/News--Events-/news/news-details/2026/Compass-Pathways-Collaborates-with-Osmind-to-Advance-Independent-Clinic-Readiness-for-Psychedelic-Treatments/default.aspx",
+    "https://www.tasmantherapeutics.com/insights/tasman-therapeutics-announces-strategic-partnership-with-osmind-to-advance-r-107-for-depressive-disorders",
+    "https://adaptiverecognition.com/products/osmond-passport-reader-id-scanner/",
+    "https://osmand.net/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Osmind manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/celf-creative/case-study/osmond-drake-customer-case-study",
+    "https://www.osmind.org/blog/category/customer-stories",
+    "https://osmondmaguire.com/case-studies/",
+    "https://www.osmind.org/",
+    "https://www.casestudies.com/company/flatfile/case-study/osmind-finds-peace-of-mind-in-a-simple-flatfile-solution",
+    "https://www.cbinsights.com/company/osmind/customers",
+    "https://providers.osmind.org/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Osmind white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.seoreseller.com/",
+    "https://resellerstore.au/",
+    "https://reseller.amazon.com/",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Osmind founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/439515-91",
+    "https://tracxn.com/d/companies/osmind/__ayJ8XLWemXcNGf1ZgB-LEO0ENxNBdYBm56LX5CkeGr0",
+    "https://compworth.com/company/osmind",
+    "https://rocketreach.co/osmind-profile_b42da5acfe4e575e",
+    "https://www.zoominfo.com/c/osmind/482374109",
+    "https://startupintros.com/orgs/osmind",
+    "https://getlatka.com/companies/osmind.org"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Osmind",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/tag/ポリティカルパン",
+    "https://note.com/tag/日付シート",
+    "https://note.com/piamy_/n/na26c866d2274",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Osmind",
+   "results": [
+    "https://x.com/OsmindHQ/status/1481070812879028227",
+    "https://x.com/OsmindHQ/status/1937552019965055414",
+    "https://x.com/OsmondSabby/status/2119693628217991350",
+    "https://x.com/donnyosmondfami",
+    "https://x.com/OsmondSabby/status/2119331139752010200",
+    "https://x.com/DavesOsmondVids",
+    "https://x.com/tosmondvca"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Osmind",
+   "results": [
+    "https://www.linkedin.com/company/osmind",
+    "https://www.linkedin.com/in/jimmyjqian",
+    "https://www.linkedin.com/in/luciayhuang",
+    "https://www.linkedin.com/in/sabasrodriguez",
+    "https://www.linkedin.com/in/william-sauvé-md-45009813",
+    "https://www.linkedin.com/in/bhargavashuchi",
+    "https://www.linkedin.com/in/kelsey-k-friedman"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Osmind",
+   "results": [
+    "https://www.facebook.com/osmindHQ/",
+    "https://www.facebook.com/osmindHQ/posts/proud-to-sponsor-american-society-of-ketamine-physicians-psychotherapists-and-pr/1684545632934522/",
+    "https://www.facebook.com/donnyosmond.fb/",
+    "https://www.facebook.com/osmindHQ/posts/were-honored-to-have-time-recognize-osmind-as-one-of-the-worlds-top-health-tech-/1902634444458972/",
+    "https://www.facebook.com/JayOsmond55/",
+    "https://www.facebook.com/osmindHQ/photos/your-patients-started-a-glp-1-for-weight-loss-then-they-stopped-drinking-then-th/1701651534557265/",
+    "https://www.facebook.com/osmindHQ/photos/the-cost-of-treatment-resistance-each-failed-antidepressant-trial-actively-worse/1691787112210374/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Osmind note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.zaikai.jp/articles/detail/2552",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Osmind X 投稿",
+   "results": [
+    "https://www.osmind.org/login",
+    "https://www.osmind.org/",
+    "https://www.osmind.org/knowledge",
+    "https://providers.osmind.org/",
+    "https://login.care.osmind.org/",
+    "https://x.com/osmond",
+    "https://x.com/DavidOsmond8"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部28頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部28頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部28頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部28頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部28頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部28頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部28頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部28頁・検索12回）"
+ }
+}

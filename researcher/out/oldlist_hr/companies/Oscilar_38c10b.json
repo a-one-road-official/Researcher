@@ -1,0 +1,1120 @@
+{
+ "name": "Oscilar",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜状態なし",
+ "researched_at": "2026-11-09T22:58:12.372079+00:00",
+ "official_url": "https://oscilar.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Oscilar is the Agentic Risk Platform for financial institutions. AI agents that handle detection, decisions, and resolution across fraud, credit, onboarding, and AML compliance. The result: 45% fewer false positives, 5x faster policy deployment, 3x faster case resolution.",
+    "url": "https://oscilar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Create, test, and deploy powerful risk workflows with no-code or natural language prompts.",
+    "url": "https://oscilar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SoFi increased processing speed by over 30%",
+    "url": "https://oscilar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Clara boosts client onboarding times by 3x",
+    "url": "https://oscilar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Explainable, pre-filled disposition guidance for every sanctions hit.",
+    "url": "https://oscilar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Monitor the entire customer journey in one place, from onboarding, to login, to payments, to compliance—and everything in between. The only platform built from the ground up to see the holistic risk picture and stay ahead of emerging threats.",
+    "url": "https://oscilar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "DECISIONS PROCESSED PER YEAR",
+    "url": "https://oscilar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our AI agents work quietly behind the scenes, continuously unifying risk data, refining assessments in real time, and providing actionable insights. Human-guided governance ensures compliant decisions and seamless journeys for legitimate customers.",
+    "url": "https://oscilar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive analytics",
+    "url": "https://oscilar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Proactive detection capabilities",
+    "url": "https://oscilar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Retrain in days as risk profiles evolve",
+    "url": "https://oscilar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Make faster, smarter and safer onboarding decisions.",
+    "url": "https://oscilar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring on more of the right customers with confidence. Increase your approval rates while simultaneously reducing false positives, user experience friction, and fraud.",
+    "url": "https://oscilar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore onboarding for:",
+    "url": "https://oscilar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Workflow Agents support SoFi's ability to make swift and accurate risk decisions and serve our members' needs. We can easily launch and iterate new policies and adapt with unprecedented speed. We've valued Oscilar's combination of speed, flexibility, and close collaboration as we grow our lending business.”",
+    "url": "https://oscilar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect your customers from fraud at every step of their journey with next-generation device and behavioral intelligence that catches what others miss.",
+    "url": "https://oscilar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "User Journey profiling",
+    "url": "https://oscilar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect every touchpoint along your customer journey",
+    "url": "https://oscilar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect the entire customer journey",
+    "url": "https://oscilar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Why Oscilar built one tabular foundation model for fraud, AML, credit, and device risk: Feedback from labels improves each account individually, but reason codes stay the same for auditors.",
+    "url": "https://oscilar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Best AI Solution: Fraud Prevention & Combat for Banks & FIs",
+    "url": "https://oscilar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how innovative banks and fintechs are leveraging Oscilar's AI-powered platform to manage their onboarding, fraud, credit, and compliance risk.",
+    "url": "https://oscilar.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "\"Oscilar stands out as a truly modern AML and risk platform. One of its biggest strengths is how it breaks down data silos: onboarding profiles aren't just stored—they’re actively used in transaction monitoring.\"",
+    "url": "https://oscilar.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "“Oscilar’s platform feels modern and is a scalable solution that adapts to our evolving risks while maintaining easy usability. We appreciate the easy integration with key partners like Sentilink and IDology, which streamlines our verification processes.”",
+    "url": "https://oscilar.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "“We're impressed by how their platform adapts to the unique characteristics of different markets—whether we're operating in Brazil, Mexico, or Colombia, the system maintains its effectiveness while accounting for local nuances.”",
+    "url": "https://oscilar.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "VP, Fraud Prevention",
+    "url": "https://oscilar.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "“The speed and commitment of their team stands out—they took us from contract to production in just 32 days when we urgently needed to replace our sunsetting platform.”",
+    "url": "https://oscilar.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Fluz Cut Fraud and Lifted Approvals by 20%",
+    "url": "https://oscilar.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "\"Oscilar supports SoFi's ability to make swift and accurate risk decisions and serve our members' needs. We can easily launch and iterate new policies and adapt with unprecedented speed.\"",
+    "url": "https://oscilar.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Super.com is dedicated to providing ultimate savings to its customers, enabling them to enjoy life's offerings irrespective of their income. With a team of over 1,000 employees, Super.com has established itself as a key player in the financial services industry, focusing on delivering exceptional loan origination services.",
+    "url": "https://oscilar.com/customers/super",
+    "pass": 1
+   },
+   {
+    "quote": "Through its collaboration with Oscilar, Super.com has enhanced its operational capabilities, ensuring faster and more efficient processing of loans, thereby reinforcing its commitment to customer satisfaction and financial empowerment.",
+    "url": "https://oscilar.com/customers/super",
+    "pass": 1
+   },
+   {
+    "quote": "Super.com needed a loan origination system to launch their lending service, facing challenges with manual processes and the need for extensive engineering resources.",
+    "url": "https://oscilar.com/customers/super",
+    "pass": 1
+   },
+   {
+    "quote": "Oscilar provided a user-friendly, low to no-code platform that streamlined decision-making workflows and integrated various data sources, significantly reducing manual labor and engineering hours.",
+    "url": "https://oscilar.com/customers/super",
+    "pass": 1
+   },
+   {
+    "quote": "With Oscilar, Super.com could set complex conditions and rules, improving their decision-making process and allowing for quicker loan approvals.",
+    "url": "https://oscilar.com/customers/super",
+    "pass": 1
+   },
+   {
+    "quote": "Oscilar emerged as the ideal partner for Super.com, offering a powerful, low-code to no-code platform that dramatically simplified the loan origination process. Oscilar's solution enabled Super.com to seamlessly integrate various data sources, both internal and external, and create complex decisioning workflows without the need for coding.",
+    "url": "https://oscilar.com/customers/super",
+    "pass": 1
+   },
+   {
+    "quote": "This not only expedited the setup process but also allowed for easy adjustments and A/B testing of workflows, ensuring optimal performance and compliance with Super.com's policies.",
+    "url": "https://oscilar.com/customers/super",
+    "pass": 1
+   },
+   {
+    "quote": "The collaboration with Oscilar had a transformative effect on Super.com's operations. Within just three months of implementation, Super.com experienced a significant boost in efficiency, marked by quicker loan approvals and a reduction in manual labor and engineering hours.",
+    "url": "https://oscilar.com/customers/super",
+    "pass": 1
+   },
+   {
+    "quote": "To maintain this standard, MoneyGram continues to advance one of the most robust, data-driven compliance and consumer protection programs in the industry. Through its partnership with Oscilar, MoneyGram is enhancing its platform with real-time, adaptive risk intelligence to stay ahead of the evolving threat landscape and set a new industry standard among global financial institutions.",
+    "url": "https://oscilar.com/customers/moneygram",
+    "pass": 1
+   },
+   {
+    "quote": "Oscilar’s AI Risk Decisioning™ Platform will become the core of MoneyGram’s next-generation risk infrastructure, enabling automated decisioning, real-time rule optimization and fraud network detection. In addition, Oscilar’s device fingerprinting and behavioral signal modules will deliver advanced protection against bot attacks and emerging threats.",
+    "url": "https://oscilar.com/customers/moneygram",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Product and Technology Officer",
+    "url": "https://oscilar.com/customers/moneygram",
+    "pass": 1
+   },
+   {
+    "quote": "Together, MoneyGram and Oscilar are advancing innovation that directly enhances the customer experience – enabling faster transaction approvals, fewer delays and lower friction for trusted users, while delivering cost savings and regulatory confidence at scale.",
+    "url": "https://oscilar.com/customers/moneygram",
+    "pass": 1
+   },
+   {
+    "quote": "One platform for fraud, AML, customer onboarding, rules and regulatory workflows",
+    "url": "https://oscilar.com/customers/moneygram",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time digital identity authentication that analyzes thousands of behavioral and device markers to proactively defeat fraud, protecting every step of the customer journey",
+    "url": "https://oscilar.com/customers/moneygram",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive signal ingestion:",
+    "url": "https://oscilar.com/customers/moneygram",
+    "pass": 1
+   },
+   {
+    "quote": "Seamlessly integrates device fingerprinting, behavioral signals and IDV feeds for richer decision context",
+    "url": "https://oscilar.com/customers/moneygram",
+    "pass": 1
+   },
+   {
+    "quote": "Features A/B testing, shadow mode and automated rule deployment for continuous improvement",
+    "url": "https://oscilar.com/customers/moneygram",
+    "pass": 1
+   },
+   {
+    "quote": "Faster processing speed",
+    "url": "https://oscilar.com/customers/sofi",
+    "pass": 1
+   },
+   {
+    "quote": "By consolidating risk management across multiple product lines, SoFi improved centralized governance and consistency without sacrificing flexibility or speed.",
+    "url": "https://oscilar.com/customers/sofi",
+    "pass": 1
+   },
+   {
+    "quote": ", in days instead of weeks, enabling the company to adapt to market shifts with unprecedented agility.",
+    "url": "https://oscilar.com/customers/sofi",
+    "pass": 1
+   },
+   {
+    "quote": "30% improvement",
+    "url": "https://oscilar.com/customers/sofi",
+    "pass": 1
+   },
+   {
+    "quote": "in processing speed, allowing for faster and more precise credit decisions and a better application experience for members.",
+    "url": "https://oscilar.com/customers/sofi",
+    "pass": 1
+   },
+   {
+    "quote": "Oscilar’s responsiveness enables SoFi teams to quickly remove blockers and maintain uninterrupted progress on high-priority initiatives. This agility ensures SoFi can stay focused on delivering value to members, even as priorities shift.",
+    "url": "https://oscilar.com/customers/sofi",
+    "pass": 1
+   },
+   {
+    "quote": "With its self-serve, no-code environment, Oscilar has reduced manual development cycles, enabling SoFi teams to innovate, support more projects, and experiment with the same resources.",
+    "url": "https://oscilar.com/customers/sofi",
+    "pass": 1
+   },
+   {
+    "quote": "\"Oscilar supports SoFi's ability to make swift and accurate risk decisions and serve our members' needs. We can easily launch and iterate new policies and adapt with unprecedented speed,” said Adam Colclasure, Senior Director of Risk Data & Decisioning at SoFi. “We've valued Oscilar's combination of speed, flexibility, and close collaboration as we grow our lending business.\"",
+    "url": "https://oscilar.com/customers/sofi",
+    "pass": 1
+   },
+   {
+    "quote": "SoFi has seen this partnership deliver tangible impact—freeing up capacity to focus on high-value strategic initiatives. By leveraging Oscilar’s scalable and agile platform, SoFi is well-positioned to continue its momentum in the lending market, drive future growth, and provide an unparalleled experience for its members.",
+    "url": "https://oscilar.com/customers/sofi",
+    "pass": 1
+   },
+   {
+    "quote": "Meanwhile, Nuvei had to maintain strict adherence to regional regulatory frameworks such as FINTRAC in Canada, which made automation even more difficult under the previous system.",
+    "url": "https://oscilar.com/customers/nuvei",
+    "pass": 1
+   },
+   {
+    "quote": "Improving automation and reducing operational costs were primary drivers. As Hough noted, \"We were really interested in increasing automation and auto-adjudication so our underwriters could spend time on genuinely complex situations instead of checking boxes on simpler ones.\"",
+    "url": "https://oscilar.com/customers/nuvei",
+    "pass": 1
+   },
+   {
+    "quote": "Nuvei also needed a system that empowered its teams to operate independently, not one that required engineering support to make simple policy changes. Building in-house was evaluated but ultimately deprioritized due to complexity, cost, and time to value.",
+    "url": "https://oscilar.com/customers/nuvei",
+    "pass": 1
+   },
+   {
+    "quote": "Finally, with Nuvei’s evolving product roadmap, including marketplace onboarding, new verticals, and recent acquisitions, the company needed a platform that could unify risk operations globally while supporting deep regional flexibility. Many platforms on the market offered \"all-in-one\" solutions, but most were rigid: fixed UIs, fixed vendor options, and limited extensibility.",
+    "url": "https://oscilar.com/customers/nuvei",
+    "pass": 1
+   },
+   {
+    "quote": "Oscilar’s flexibility proved unmatched. \"A lot of platforms are turnkey but pre-designed. You either fit their tools or you don’t,” explained Hough. “I think of Oscilar as a blank canvas: the workflows and integrations are your brushes and paint. You can tailor it to whatever you need, while still keeping everything in one place.\"",
+    "url": "https://oscilar.com/customers/nuvei",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by institutions building next-gen finance",
+    "url": "https://oscilar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by institutions building next-gen finance",
+    "url": "https://oscilar.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Verified G2 User in Automotive",
+    "url": "https://oscilar.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Super Case Study - Oscilar",
+    "url": "https://oscilar.com/customers/super",
+    "pass": 1
+   },
+   {
+    "quote": "Balance Case Study - Oscilar",
+    "url": "https://oscilar.com/customers/balance",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by institutions building next-gen finance",
+    "url": "https://oscilar.com/solutions/consumer-onboarding",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by institutions building next-gen finance",
+    "url": "https://oscilar.com/solutions/business-onboarding",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by institutions building next-gen finance",
+    "url": "https://oscilar.com/solutions/merchant-onboarding",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by institutions building next-gen finance",
+    "url": "https://oscilar.com/solutions/device-and-behavioral-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by institutions building next-gen finance",
+    "url": "https://oscilar.com/industries/banks",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by institutions building next-gen finance",
+    "url": "https://oscilar.com/industries/fintechs",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by institutions building next-gen finance",
+    "url": "https://oscilar.com/solutions/b2c-credit-underwriting",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by institutions building next-gen finance",
+    "url": "https://oscilar.com/solutions/b2b-credit-underwriting",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by institutions building next-gen finance",
+    "url": "https://oscilar.com/solutions/portfolio-monitoring",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by institutions building next-gen finance",
+    "url": "https://oscilar.com/solutions/collections",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "They define and recommend policies, score alerts, generate investigation narratives, and surface only the escalations that matter. Every time an analyst confirms, adjusts, or overrides a recommendation, the agents get sharper.",
+    "url": "https://oscilar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Resolve fraud, credit, and compliance alerts 3x faster with automated scoring and investigation narratives.",
+    "url": "https://oscilar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SAR Narrative Creation",
+    "url": "https://oscilar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Configurable SAR narratives that file in your institution's format, every time.",
+    "url": "https://oscilar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Narrative Creation",
+    "url": "https://oscilar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“At MoneyGram, we're reimagining the future of work by embracing AI across all corners of the organization. As part of our transformation, we're investing in next-generation intelligent infrastructure, positioning ourselves for smarter, faster and safer outcomes. That's especially important when it comes to our global risk management engine, and that's where Oscilar comes in.”",
+    "url": "https://oscilar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Super.com is dedicated to providing ultimate savings to its customers, enabling them to enjoy life's offerings irrespective of their income. With a team of over 1,000 employees, Super.com has established itself as a key player in the financial services industry, focusing on delivering exceptional loan origination services.",
+    "url": "https://oscilar.com/customers/super",
+    "pass": 1
+   },
+   {
+    "quote": "Finally, with Nuvei’s evolving product roadmap, including marketplace onboarding, new verticals, and recent acquisitions, the company needed a platform that could unify risk operations globally while supporting deep regional flexibility. Many platforms on the market offered \"all-in-one\" solutions, but most were rigid: fixed UIs, fixed vendor options, and limited extensibility.",
+    "url": "https://oscilar.com/customers/nuvei",
+    "pass": 1
+   },
+   {
+    "quote": "“We've had fraud ring attacks. We've had instances where we checked revenue but then saw credit bust-out behavior,” Nuñez said. “It doesn't take us months, weeks, days. Same day we can go in and tweak.”",
+    "url": "https://oscilar.com/customers/coast",
+    "pass": 1
+   },
+   {
+    "quote": "Much of that leverage comes from stopping unnecessary work before it reaches an analyst. Cases can be suppressed when they do not warrant review, actioned automatically when the evidence is sufficient, and carried forward with context from previous cases on the same fleet.",
+    "url": "https://oscilar.com/customers/coast",
+    "pass": 1
+   },
+   {
+    "quote": "For Nuñez, the value is not just the integration itself but how easily it becomes part of the existing decision process. \"I don't need an engineer,\" she said. \"If you need anything around revenue verification or document fraud checks, it's just part of one flow within Oscilar.\"",
+    "url": "https://oscilar.com/customers/coast",
+    "pass": 1
+   },
+   {
+    "quote": "What began with one workflow has become the operating layer for Coast’s risk program. Nuñez puts it simply: \"It’s a core part of our infrastructure.\"",
+    "url": "https://oscilar.com/customers/coast",
+    "pass": 1
+   },
+   {
+    "quote": "The outsourced arrangement constrained Cashco's ability to adapt and optimize. Changes to models required months to deploy, leaving them unable to respond quickly to market changes. Making even minor adjustments to decision rules required significant engineering resources, creating bottlenecks and preventing business users from directly implementing necessary changes.",
+    "url": "https://oscilar.com/customers/cashco",
+    "pass": 1
+   },
+   {
+    "quote": "The platform's architecture was designed for seamless integration, featuring robust APIs and excellent documentation. \"Every single vendor that we've had to put data into and have connected to Oscilar has been the easiest part of our projects,\" Alex noted.",
+    "url": "https://oscilar.com/customers/cashco",
+    "pass": 1
+   },
+   {
+    "quote": "Throughout implementation and beyond, Oscilar's support team proved invaluable. Unlike many vendors that required expensive professional services for every change, Oscilar provided guidance as part of their standard service. This comprehensive solution enabled Cashco to take control of their decisioning process while significantly reducing costs.",
+    "url": "https://oscilar.com/customers/cashco",
+    "pass": 1
+   },
+   {
+    "quote": "Oscilar has 86 total employees.",
+    "url": "https://pitchbook.com/profiles/company/493500-34",
+    "pass": 3
+   },
+   {
+    "quote": "What is Oscilar’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/493500-34",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Oscilar is",
+    "url": "https://pitchbook.com/profiles/company/493500-34",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Microsoft（米国ワシントン州）は、ヘルスケアおよびライフサイエンス領域における人工知能ツールの導入事例と最新動向を発表した",
+    "url": "https://www.generatived.com/news/oscilar-launches-cognitive-identity-intelligence-platform",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "AI Risk Decisioning Platform for Fintechs & Banks - Oscilar — Oscilar is the Agentic Risk Platform for financial institutions. AI agents that handle detection, decisions, and resolution across fraud, credit, onboarding, and AML compliance. The result: 45% fewer false positives, 5x faster policy deployment, 3x faster case resolution.",
+    "url": "https://oscilar.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Oscilar、認知アイデンティティインテリジェンスプラットフォームを発... — Nov 14, 2024 · Oscilar は、AI を利用した詐欺の急増に対抗するために設計された革新的な認知アイデンティティ インテリジェンス プラットフォームのリリースを発表しました。",
+    "url": "https://www.generatived.com/news/oscilar-launches-cognitive-identity-intelligence-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Oscilar のニュース — ソフトウェア Oscilarは Microsoft (アメリカ合衆国（米国）), OpenAI (アメリカ合衆国（米国）), Anthropic (アメリカ合衆国（米国）) を含む 4,818の競合企業 を有します。",
+    "url": "https://www.theofficialboard.jp/ニュース/oscilar",
+    "pass": 3
+   },
+   {
+    "quote": "Oscilar’s Year in Review: A Hot Path — Feb 2, 2026 · Oscilar customers driving real-world impact Leading financial institutions rely on Oscilar to modernize fraud, credit, and compliance at scale. In 2025, customers across banking, payments, crypto and fintech used Oscilar to move faster, reduce friction, and make better risk decisions in production.",
+    "url": "https://oscilar.com/blog/2025",
+    "pass": 3
+   },
+   {
+    "quote": "Oscilar：不正行為、信用、コンプライアンスのための AI リスク意思決... — Nov 13, 2025 · Oscilar は、企業が不正行為、信用、オンボーディング、AML コンプライアンスのリスクを管理するのに役立つ、AI を活用したリスク意思決定プラットフォームです。 エージェント AI、包括的な分析、プロアクティブな検出機能を提供します。",
+    "url": "https://www.navgood.com/ja/tool-details/oscilar-1def5",
+    "pass": 3
+   },
+   {
+    "quote": "AI Risk Decisioning Platform for Fintechs & Banks - Oscilar — Oscilar is the Agentic Risk Platform for financial institutions. AI agents that handle detection, decisions, and resolution across fraud, credit, onboarding, and AML compliance.",
+    "url": "https://oscilar.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Risk Decisioning Platform - Oscilar — Meet your unified agentic risk platform. Oscilar is an end-to-end risk management platform designed to empower your team across onboarding, credit, fraud, and AML. Monitor your whole risk ecosystem in one place.",
+    "url": "https://oscilar.com/platform",
+    "pass": 3
+   },
+   {
+    "quote": "Oscilar - LinkedIn — Unify fraud defense, credit underwriting, onboarding risk, and AML compliance with Oscilar's agentic risk platform. Oscilar powers real-time risk decisioning across fraud, credit, and...",
+    "url": "https://www.linkedin.com/company/oscilar-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Oscilar - 2026 Company Profile, Team & Competitors - TracxnOscilar: Nacha Preferred PartnerdLocal partners with Oscilar to extend AML complianceOscilar - About-Fraud — Oct 11, 2026 · Explore Oscilar's in-depth company profile, including leadership and competitors. Dec 2, 2025 · Oscilar unifies fraud detection, compliance monitoring, behavioral intelligence, and operational review into a single, re",
+    "url": "https://tracxn.com/d/companies/oscilar/__-F7d_fJ-DjRyOu5vdmO1EKKnks8eGz-xV9YtaHDdmu0",
+    "pass": 3
+   },
+   {
+    "quote": "Oscilar: Nacha Preferred Partner — Dec 2, 2025 · Oscilar unifies fraud detection, compliance monitoring, behavioral intelligence, and operational review into a single, real-time decision engine that strengthens the ACH Network across onboarding, account monitoring, and payment initiation.",
+    "url": "https://www.nacha.org/content/oscilar",
+    "pass": 3
+   },
+   {
+    "quote": "Oscilar Customers - Oscilar — \"Oscilar stands out as a truly modern AML and risk platform. One of its biggest strengths is how it breaks down data silos: onboarding profiles aren't just stored—they’re actively used in transaction monitoring.\"",
+    "url": "https://oscilar.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "How Balance Streamlined Credit Underwriting - oscilar.com — Feb 25, 2025 · Discover how Balance seamlessly transitioned from a sunsetting underwriting platform to Oscilar, gaining enhanced flexibility, rapid integration, and future-ready credit decisioning capabilities.",
+    "url": "https://oscilar.com/blog/balance-oscilar-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Oscilar + Slope: credit underwriting case study | Oscilar — A significant part of their solution involves a dynamic underwriting system, fine-tuned to evaluate a customer's ability to pay over the next 3-6 months.",
+    "url": "https://www.linkedin.com/posts/oscilar-inc_oscilar-slope-credit-underwriting-case-activity-7094745802761269248-emaP",
+    "pass": 3
+   },
+   {
+    "quote": "Oscilar for Banks: Pricing, Customers, Review (2026) — What is Oscilar Agentic Risk Platform (AI Risk Decisioning)? A real-time decision engine with a visual no-code workflow builder, machine-learning models, third-party data integrations, case management and backtesting, covering onboarding, fraud, credit and AML; Agent Hub, launched June 2026, adds more than 30 AI agents that work from one custo",
+    "url": "https://www.bankingnewsai.com/vendors/oscilar",
+    "pass": 3
+   },
+   {
+    "quote": "Oscilar 2026 Company Profile: Valuation, Funding & Investors ...Oscilar – Financials, Industry Trends & Funding Info – 2026Oscilar: $20M Funding, 222 Employees & Latest News | MandosOscilar - 2026 Company Profile, Team & Competitors - TracxnOscilar - Crunchbase Company Profile & FundingOscilar: Employees, Funding, HQ & Competitors | Enrich LayerAbout Oscilar - Oscilar — Information on valuation, f",
+    "url": "https://pitchbook.com/profiles/company/493500-34",
+    "pass": 3
+   },
+   {
+    "quote": "Oscilar – Financials, Industry Trends & Funding Info – 2026 — What defines Oscilar? estimated revenue of $14.1M, team of around 60+ employees, operating in Palo Alto, giving it a unique place in the market.",
+    "url": "https://compworth.com/company/oscilar",
+    "pass": 3
+   },
+   {
+    "quote": "Oscilar: $20M Funding, 222 Employees & Latest News | Mandos — Oct 11, 2026 · Oscilar is a cybersecurity company specializing in Fraud & Payment Security, founded in 2021 and headquartered in Palo Alto, United States. It has raised $20M in equity across 1 priced round, employs about 222 people, and is privately held.",
+    "url": "https://mandos.io/data/companies/oscilar",
+    "pass": 3
+   },
+   {
+    "quote": "Oscilar - 2026 Company Profile, Team & Competitors - TracxnOscilar - Crunchbase Company Profile & FundingOscilar: Employees, Funding, HQ & Competitors | Enrich LayerAbout Oscilar - Oscilar — Oct 11, 2026 · Oscilar is an unfunded company based in Palo Alto (United States), founded in 2021 by Sachin Kulkarni. It operates as a Provider of an AI platform for risk management and compliance. Oscilar sol",
+    "url": "https://tracxn.com/d/companies/oscilar/__-F7d_fJ-DjRyOu5vdmO1EKKnks8eGz-xV9YtaHDdmu0",
+    "pass": 3
+   },
+   {
+    "quote": "Oscilar - Crunchbase Company Profile & FundingOscilar: Employees, Funding, HQ & Competitors | Enrich LayerAbout Oscilar - Oscilar — Oscilar solves one of the biggest challenges facing businesses and consumers today: how to protect online transactions from fraud, theft and risk. Our mission is to make the internet a safer place by protecting online transactions of all manner. Oscilar has 144 employ",
+    "url": "https://www.crunchbase.com/organization/oscilar",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/493500-34",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Oscilar (@OscilarInc) / X Oscilar is a unified, no-code, AI Risk Decisioning™ platform to help fintechs, banks, and digital organizations manage onboarding, fraud, credit, and compliance",
+    "url": "https://x.com/oscilarinc",
+    "pass": 3
+   },
+   {
+    "quote": "Oscilar on X: \"What does your second compliance agent get to ... What does your second compliance agent get to keep from the first one? For a lot of teams, the answer stops at the name. Eval sets were labeled for one workflow. Connectors, too. And no one's sure who owns retraining. On Oct 14 at 10AM PT, Saurabh Bajaj (Oscilar), Jason Chorlins (Kaufman Rossin),…",
+    "url": "https://x.com/OscilarInc/status/2105699160217280520",
+    "pass": 3
+   },
+   {
+    "quote": "Oscilar on X: \"Miss our bank charter webinar? No problem ... Miss our bank charter webinar? No problem. Watch it on-demand anytime. Phil Goldfeder (CEO, American Fintech Council), Evey Guo (Principal, FS Vector), and our Chief Product Officer Saurabh Bajaj talked through what changes when a fintech stops partnering with a bank and becomes one. They covered…",
+    "url": "https://x.com/OscilarInc/status/2109687043164979537",
+    "pass": 3
+   },
+   {
+    "quote": "Oscilar (@OscilarInc) / X Jun 16, 2021 · Sixty floors above London, Oscilar brought together payments and risk experts to talk about what happens when more of the busy work is handed to agents. Thank you to everyone who joined us and spoke so candidly about where agentic risk stands and where it's heading.",
+    "url": "https://x.com/oscilarinc",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Oscilar - LinkedIn Oscilar Technology, Information and Internet Palo Alto, CA 26,269 followers Unify fraud defense, credit underwriting, onboarding risk, and AML compliance with Oscilar's agentic risk platform.",
+    "url": "https://www.linkedin.com/company/oscilar-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Oscilar: Jobs | LinkedIn Oscilar | 26,013 followers on LinkedIn. Unify fraud defense, credit underwriting, onboarding risk, and AML compliance with Oscilar's agentic risk platform. | Oscilar powers real-time risk ...",
+    "url": "https://www.linkedin.com/company/oscilar-inc/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "Oscilar: Culture | LinkedIn Oscilar Technology, Information and Internet Palo Alto, CA 25,366 followers Unify fraud defense, credit underwriting, onboarding risk, and AML compliance with Oscilar's agentic risk platform.",
+    "url": "https://www.linkedin.com/company/oscilar-inc/life",
+    "pass": 3
+   },
+   {
+    "quote": "Growth Manager, Outbound at Oscilar — United States ... Apply for Growth Manager, Outbound at Oscilar in United States. Full-time Mid-Senior level role. See responsibilities, qualifications, and similar jobs on LinkedIn.",
+    "url": "https://www.linkedin.com/jobs/view/growth-manager-outbound-at-oscilar-4443012690",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Oscilar | Palo Alto CA - Facebook Apr 11, 2023 · Oscilar, Palo Alto. 6 likes. Oscilar is a no-code, AI-powered risk decisioning platform.",
+    "url": "https://www.facebook.com/oscilarinc/",
+    "pass": 3
+   },
+   {
+    "quote": "Oscilar - Facebook May 22, 2020 · Oscilar. 27 likes. Live Berlin / Detroit style Techno project from Andy Norman, a DJ, Producer and Synthesizer Enthusiast from London.",
+    "url": "https://www.facebook.com/oscilar.music/",
+    "pass": 3
+   },
+   {
+    "quote": "FastShafts | Des Moines IA - FacebookToday we are with @oscilar a market leading unified AI Risk ...Dono (a) de academia: cansado de apagar ... - Facebook Sep 27, 2026 · 92% recommend (41 reviews) $ Closed now 5387 NW 2nd St, Des Moines, IA, United States, 50313 Apr 14, 2026 · Today we are with @oscilar a market leading unified AI Risk solution for fraud defence. . . A really interesting environme",
+    "url": "https://www.facebook.com/fastshafts/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://oscilar.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oscilar.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oscilar.com/customers/super",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oscilar.com/customers/moneygram",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oscilar.com/customers/sofi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oscilar.com/customers/nuvei",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oscilar.com/customers/balance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oscilar.com/customers/coast",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oscilar.com/customers/cashco",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oscilar.com/customers/clara",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oscilar.com/solutions/consumer-onboarding",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oscilar.com/solutions/business-onboarding",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oscilar.com/solutions/merchant-onboarding",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oscilar.com/solutions/device-and-behavioral-intelligence",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oscilar.com/industries/banks",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oscilar.com/industries/fintechs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oscilar.com/solutions/b2c-credit-underwriting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oscilar.com/solutions/b2b-credit-underwriting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oscilar.com/solutions/portfolio-monitoring",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oscilar.com/solutions/collections",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://framerusercontent.com/images/9iEPsBZlWjWrLXR6ToJOrtpSSdQ.png?width=1400&height=998",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://framerusercontent.com/images/LaL2ORJAmoXGsG5T49iT1xoaSPo.png?width=1400&height=760",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.generatived.com/news/oscilar-launches-cognitive-identity-intelligence-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.theofficialboard.jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/oscilar",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.koaglobal.com/corporate/offices/distributors1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/oscilar-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tracxn.com/d/companies/oscilar/__-F7d_fJ-DjRyOu5vdmO1EKKnks8eGz-xV9YtaHDdmu0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/oscilar-inc_case-study-balance-achieves-seamless-credit-activity-7301265814270164992-Gko8",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/oscilar-inc_oscilar-slope-credit-underwriting-case-activity-7094745802761269248-emaP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/493500-34",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/oscilar",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://mandos.io/data/companies/oscilar",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/oscilar/__-F7d_fJ-DjRyOu5vdmO1EKKnks8eGz-xV9YtaHDdmu0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/oscilarinc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/OscilarInc/status/2105699160217280520",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/OscilarInc/status/2109687043164979537",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/oscilar-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/oscilar-inc/jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/oscilar-inc/life",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/view/growth-manager-outbound-at-oscilar-4443012690",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/oscilarinc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/oscilar.music/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/fastshafts/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/oscilarinc",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Oscilar 日本 導入",
+   "results": [
+    "https://oscilar.com/",
+    "https://www.generatived.com/news/oscilar-launches-cognitive-identity-intelligence-platform",
+    "https://www.theofficialboard.jp/ニュース/oscilar",
+    "https://oscilar.com/blog/2025",
+    "https://www.navgood.com/ja/tool-details/oscilar-1def5",
+    "https://news.livedoor.com/article/detail/32577915/",
+    "https://globe.asahi.com/article/16418987"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Oscilar 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.koaglobal.com/corporate/offices/distributors1",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://biz.toyokeizai.net/data/service/detail/id=418",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://japanesedistributors.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Oscilar Japan",
+   "results": [
+    "https://oscilar.com/",
+    "https://oscilar.com/platform",
+    "https://www.linkedin.com/company/oscilar-inc",
+    "https://tracxn.com/d/companies/oscilar/__-F7d_fJ-DjRyOu5vdmO1EKKnks8eGz-xV9YtaHDdmu0",
+    "https://www.nacha.org/content/oscilar",
+    "https://thepaypers.com/fraud-and-fincrime/news/dlocal-partners-with-oscilar-to-extend-aml-compliance",
+    "https://www.about-fraud.com/providers/oscilar/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Oscilar manufacturing customer case study",
+   "results": [
+    "https://oscilar.com/customers",
+    "https://oscilar.com/blog/balance-oscilar-case-study",
+    "https://www.linkedin.com/posts/oscilar-inc_case-study-balance-achieves-seamless-credit-activity-7301265814270164992-Gko8",
+    "https://www.linkedin.com/posts/oscilar-inc_oscilar-slope-credit-underwriting-case-activity-7094745802761269248-emaP",
+    "https://www.bankingnewsai.com/vendors/oscilar",
+    "https://techcrunch.com/2023/03/30/oscilar-emerges-from-stealth-to-fight-transactions-fraud-with-ai/",
+    "https://www.fsvector.com/case-study/building-modern-aml-infrastructure-for-financial-institutions"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Oscilar white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.seoreseller.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://skyswitch.com/",
+    "https://www.appspace.com/resellers-alliances/",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Oscilar founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/493500-34",
+    "https://compworth.com/company/oscilar",
+    "https://mandos.io/data/companies/oscilar",
+    "https://tracxn.com/d/companies/oscilar/__-F7d_fJ-DjRyOu5vdmO1EKKnks8eGz-xV9YtaHDdmu0",
+    "https://www.crunchbase.com/organization/oscilar",
+    "https://enrichlayer.com/company/oscilar-inc",
+    "https://oscilar.com/about-us"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Oscilar",
+   "results": [
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/pdfelement/n/n63a9f54ec288",
+    "https://note.com/keizokuramoto/n/nef2f6f1c855d",
+    "https://note.com/arafune/n/n6d730f4b90f7",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/kouga_yun/n/n228fbf8fcafc"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Oscilar",
+   "results": [
+    "https://x.com/oscilarinc",
+    "https://x.com/OscilarInc/status/2105699160217280520",
+    "https://x.com/OscilarInc/status/2109687043164979537",
+    "https://x.com/informafogo",
+    "https://x.com/jocelynseip/status/2118260591680983528",
+    "https://x.com/CogitoEdu/status/2117911840973861028",
+    "https://x.com/darkilingnaty/status/2116203949992694035"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Oscilar",
+   "results": [
+    "https://www.linkedin.com/company/oscilar-inc",
+    "https://www.linkedin.com/company/oscilar-inc/jobs",
+    "https://www.linkedin.com/company/oscilar-inc/life",
+    "https://www.linkedin.com/jobs/view/growth-manager-outbound-at-oscilar-4443012690",
+    "https://uk.linkedin.com/in/jtomaslobo",
+    "https://uk.linkedin.com/in/jack-costanzi",
+    "https://br.linkedin.com/in/sergiocostantini"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Oscilar",
+   "results": [
+    "https://www.facebook.com/oscilarinc/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/oscilar.music/",
+    "https://www.facebook.com/fastshafts/",
+    "https://www.facebook.com/BHLHC/videos/today-we-are-with-oscilar-a-market-leading-unified-ai-risk-solution-for-fraud-de/1270852291249333/",
+    "https://www.facebook.com/idealgestaodeacademias/videos/-donoa-de-academia-cansado-de-apagar-incêndio-diariamente-e-ver-sua-receita-osci/1112802481664026/",
+    "https://www.facebook.com/oscilarinc/videos/fraud-doesnt-always-look-suspicious/1390174613330140/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Oscilar note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/藤原岳史",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://x.com/note_corp/status/2074734197949034502",
+    "https://note.com/shikujiri_2025/n/ne60e736716e3"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Oscilar X 投稿",
+   "results": [
+    "https://x.com/oscilarinc",
+    "https://oscilar.com/",
+    "https://x.com/WW_JP_Official/status/2118674766986965220",
+    "https://search.yahoo.co.jp/realtime/search/投稿/",
+    "https://scrollx.ink/",
+    "https://www.twidouga.net/jp/ranking_t1.php?decoy=q7Xm2ZbT9vLpA4Kd6RfW8sNc&decoy=q7Xm2ZbT9vLpA4Kd6RfW8sNc&decoy=q7Xm2ZbT9vLpA4Kd6RfW8sNc&decoy=q7Xm2ZbT9vLpA4Kd6RfW8sNc&decoy=q7Xm2ZbT9vLpA4Kd6RfW8sNc",
+    "https://note.com/kagura6284/n/n96b2006704cf"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部29頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部29頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部29頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部29頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部29頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部29頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部29頁・検索12回）"
+ }
+}

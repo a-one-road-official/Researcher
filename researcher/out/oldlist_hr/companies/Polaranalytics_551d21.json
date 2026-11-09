@@ -1,0 +1,1694 @@
+{
+ "name": "Polaranalytics",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜状態なし",
+ "researched_at": "2026-11-09T22:39:14.794379+00:00",
+ "official_url": "https://www.polaranalytics.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "15 Rue Raynouard, 75016 Paris, France",
+    "url": "https://www.bitool-navi.com/tool/polar-analytics.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Connect your data and business context, then deploy agents that answer your questions and act when you approve.",
+    "url": "https://www.polaranalytics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Should we scale the spring campaign?",
+    "url": "https://www.polaranalytics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Polar agents work in Slack and Teams, watch the numbers and act with your approval. Your own AI tools like Claude and ChatGPT connect through Polar MCP. All of them read from the same semantic layer.",
+    "url": "https://www.polaranalytics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pick a task. See what Polar finds, checks and prepares for your team.",
+    "url": "https://www.polaranalytics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your team approves changes.",
+    "url": "https://www.polaranalytics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Review campaigns against your ACOS target each morning. See where spend is wasted and approve the budget moves worth making.",
+    "url": "https://www.polaranalytics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Find search terms and campaigns that spend without selling. Turn the findings into negative keywords and budget moves for your team to approve.",
+    "url": "https://www.polaranalytics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Watch email and SMS performance, find flows that break and prepare the changes needed to get them working again.",
+    "url": "https://www.polaranalytics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Find slow-moving inventory early. Review markdowns that help clear it while protecting the margin that matters.",
+    "url": "https://www.polaranalytics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Forecast demand for upcoming sales and launches. Flag products at risk of running short before the next purchase order.",
+    "url": "https://www.polaranalytics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Understand profit after product, shipping and ad costs for every product and channel. Model the fixes before you make them.",
+    "url": "https://www.polaranalytics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Rachel Davidson, Influencer Marketing Manager, Canopy",
+    "url": "https://www.polaranalytics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Which products are at risk of running out of stock?",
+    "url": "https://www.polaranalytics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring commerce, marketing, inventory and finance data together. Add the sources and business context your workflows need. Our AI Data Engineer Agent connects to everything that has an API.",
+    "url": "https://www.polaranalytics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Previously executive at",
+    "url": "https://www.polaranalytics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. On the same settings, Polar matches each data source, so what you see in Shopify, Amazon or Meta is what you see in Polar. We pull everything from each platform’s API and recreate its logic, and a built-in testing and monitoring system checks every connector daily. During onboarding, we align settings like refund vs. order date, tax treatment and timezone so both sides use the same logic.",
+    "url": "https://www.polaranalytics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Polar has 1000+ one-click connectors, including Shopify, Amazon Seller and Vendor Central, Amazon Ads, Meta, Google, TikTok, Klaviyo, Recharge, Skio and NetSuite. Spreadsheets come in through Google Sheets. If you use a tool that isn’t on the list, we’ll confirm the connection, the fields you need and the setup scope.",
+    "url": "https://www.polaranalytics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your data sits in a dedicated Snowflake database on AWS, hosted in the US by default, with EU hosting on request. Polar is GDPR compliant, with a DPA available. Sign-in uses Google with MFA. Our SOC 2 audit is in progress, and our trust center has our penetration tests and security policies.",
+    "url": "https://www.polaranalytics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every account gets in-app chat, email support, weekly group onboarding and our help center. Larger accounts get a dedicated customer success manager and a shared Slack channel. Our top plan adds a solutions engineer and a data scientist.",
+    "url": "https://www.polaranalytics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Polar’s agents monitor your data, diagnose issues, recommend fixes and draft the work, like a Klaviyo campaign or a budget change. Nothing changes in your ad platforms or store unless you’ve set up that action and approved it.",
+    "url": "https://www.polaranalytics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, Polar runs incrementality tests with our team’s support to measure the extra sales your marketing actually drives. How each test is designed and how long it runs depend on your channels, your volume and the decision you’re trying to make. For marketing mix modeling, talk to our team about current scope.",
+    "url": "https://www.polaranalytics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Polar collects first-party browser events through Shopify’s App Pixel, and supported headless stores can use our SDK instead. Collection happens client-side. Processing then happens downstream, where we connect customer journeys and calculate attribution. The Pixel uses browser local storage and follows Shopify’s consent settings.",
+    "url": "https://www.polaranalytics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Polar integrates with Shopify’s customer-privacy settings. Where consent is required, tracking depends on the shopper’s consent and your store’s configuration. Shopify order reporting is separate from browser tracking, so a missing attribution doesn’t mean a missing sale.",
+    "url": "https://www.polaranalytics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring us the reports, decisions and recurring workflows you want to improve. We’ll show you how they can work on your data and business definitions.",
+    "url": "https://www.polaranalytics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Our decision to adopt Polar's server-side tracking wasn't just about solving a problem; it was about seizing an opportunity to be better.”",
+    "url": "https://www.polaranalytics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "“Thanks to Polar, we have seen an impressive boost in our Return On Ad Spend by 28%, and we slashed our Cost per Purchase by 36%.”",
+    "url": "https://www.polaranalytics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Google Ads spend saved",
+    "url": "https://www.polaranalytics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How Valabasas Fixed its Marketing Attribution with Polar",
+    "url": "https://www.polaranalytics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Valabasas replaced preset attribution with models written to its own rules, live inside a month.",
+    "url": "https://www.polaranalytics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How CABA Design Co. Scaled Google Ads By 50% With Certainty of ROI",
+    "url": "https://www.polaranalytics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Geo lift testing gave CABA the confidence to scale non-brand Google Ads spend by 50%.",
+    "url": "https://www.polaranalytics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How Tiege Hanley Replaced a $300K In-House Data Stack with Polar to Power Proactive Analytics",
+    "url": "https://www.polaranalytics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "WillPowders Finds Out What Really Happens When You Turn Off Brand Ads with Polar Incrementality Testing",
+    "url": "https://www.polaranalytics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Causal Lift showed brand ads added no net-new traffic, so WillPowders cut them by 90%.",
+    "url": "https://www.polaranalytics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Brand X Commerce built a new profit-first agency model powered by Polar.",
+    "url": "https://www.polaranalytics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "$25K in Google Ads saved",
+    "url": "https://www.polaranalytics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Swanky is Using Polar Analytics to Scale Enterprise Shopify Plus Brands",
+    "url": "https://www.polaranalytics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How Sage and Paige Transformed Their Digital Advertising Metrics with Polar’s Server-Side Tracking",
+    "url": "https://www.polaranalytics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Polar Conversion API improved ad performance and cut CAC.",
+    "url": "https://www.polaranalytics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Polar CAPI fixed Meta tracking gaps and improved ad efficiency.",
+    "url": "https://www.polaranalytics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How Homefield transitioned from manual, monthly spreadsheet analysis to daily automated reporting",
+    "url": "https://www.polaranalytics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Homefield swapped manual monthly spreadsheets for automated daily reporting.",
+    "url": "https://www.polaranalytics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How RSVP switched from Excel nightmare to Polar's precision",
+    "url": "https://www.polaranalytics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "RSVP replaced spreadsheet reporting with precise, automated reporting in Polar.",
+    "url": "https://www.polaranalytics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Partner Program | Polar Analytics",
+    "url": "https://www.polaranalytics.com/l/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Using Polar’s Klaviyo Flows Enrichment, their client experienced significant improvements in just 21 days.",
+    "url": "https://www.polaranalytics.com/l/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Stop spending time exporting data and consolidating spreadsheets. Polar takes care of this for you and helps you make quick and valuable business decisions.",
+    "url": "https://www.polaranalytics.com/l/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "We've built pre-defined dashboards so you can visualize important metrics that help you monitor and grow your store: Customer Acquisition Cost, Lifetime Value, and Retention Cohorts.",
+    "url": "https://www.polaranalytics.com/l/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Discover our partner program",
+    "url": "https://www.polaranalytics.com/l/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Price per number of brands",
+    "url": "https://www.polaranalytics.com/l/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "They have great and responsive(!) support - very professional and knowledgeable. Highly recommended.",
+    "url": "https://www.polaranalytics.com/l/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Perfect tool ! just the beginning with but seems powerful and board. Great team and onboarding easy.",
+    "url": "https://www.polaranalytics.com/l/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "We are very impressed with its capabilities and the expert CSM team. The interface is user friendly making it easy to navigate.",
+    "url": "https://www.polaranalytics.com/l/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Great product with a lot of features and perfect support with great reaction time :) Keep up the good work !",
+    "url": "https://www.polaranalytics.com/l/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "We've looked for the right marketing analytics data visualization platform for 2+ years, and Polar Analytics has been the best by far.",
+    "url": "https://www.polaranalytics.com/l/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "One of the best, if not the best analytics Tools out there. Pricing is fair, and very very good value for Customer Service.",
+    "url": "https://www.polaranalytics.com/l/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Smooth onboarding and started to get meaningful insights in our ecommerce data from the very beginning",
+    "url": "https://www.polaranalytics.com/l/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "A very useful tool to consolidate marketing metrics reporting, and the support is exceptional and always so quick.",
+    "url": "https://www.polaranalytics.com/l/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "After spending $1000+ in Data Studio Connectors and data viz freelancing we found Polar that made our marketing decision much easier.",
+    "url": "https://www.polaranalytics.com/l/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Best analytics tool I've ever used. The onboarding calls have greatly helped all team members to get up to speed with the tool",
+    "url": "https://www.polaranalytics.com/l/partner-program",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by 4,000+ ecommerce brands and agencies",
+    "url": "https://www.polaranalytics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A dedicated Snowflake instance, yours to query. Syncs with other warehouses and lakes.",
+    "url": "https://www.polaranalytics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "You don’t need a team of 30 to set up a robust data warehouse. You need a platform.",
+    "url": "https://www.polaranalytics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "It depends on your setup. Polar can take over parts of the work you use Supermetrics, Daasity, Triple Whale, Elevar or your own data warehouse build for today. The platform covers everything from data collection to modeling, BI, attribution and AI. We look at where we overlap with your current tools before recommending anything to replace.",
+    "url": "https://www.polaranalytics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Who owns the data? Can we query the warehouse?",
+    "url": "https://www.polaranalytics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How Jones Road Beauty became an AI-native company on a data warehouse they own",
+    "url": "https://www.polaranalytics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "One analyst now serves the whole company, with 130+ analyses a month in Claude on a warehouse it owns.",
+    "url": "https://www.polaranalytics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Polar Operator removes the complexity. It lives inside your data warehouse, understands your business logic, and puts your data to work in one click.",
+    "url": "https://www.polaranalytics.com/polar-operator",
+    "pass": 1
+   },
+   {
+    "quote": "There are plenty of AI operators. None of them see your whole business.",
+    "url": "https://www.polaranalytics.com/polar-operator",
+    "pass": 1
+   },
+   {
+    "quote": ", the headless data warehouse designed for commerce. It works from your semantic layer, using the same definitions and metrics your team trusts instead of guessing what they mean.",
+    "url": "https://www.polaranalytics.com/polar-operator",
+    "pass": 1
+   },
+   {
+    "quote": "Running query against warehouse…",
+    "url": "https://www.polaranalytics.com/polar-operator",
+    "pass": 1
+   },
+   {
+    "quote": "Why do I need a warehouse? Why don’t I just connect my tools to Claude?",
+    "url": "https://www.polaranalytics.com/polar-operator",
+    "pass": 1
+   },
+   {
+    "quote": "The warehouse, and the semantic layer on top of it, is where that stops. Blended CAC, contribution margin and LTV are defined once, over your own data, and every answer traces back to those definitions.",
+    "url": "https://www.polaranalytics.com/polar-operator",
+    "pass": 1
+   },
+   {
+    "quote": "You can. Running it yourself means hosting it, wiring every integration, writing the skills that query your data correctly, and watching consumption forever. Polar Operator arrives already inside your warehouse and semantic layer, managed by the team that built both. It is more opinionated and less flexible on purpose. The trade is better results.",
+    "url": "https://www.polaranalytics.com/polar-operator",
+    "pass": 1
+   },
+   {
+    "quote": "Your data stays in your own dedicated warehouse and is never used to train a model. Access is scoped to the workspace the agent runs in, and any action that changes something outside Polar is held for human confirmation.",
+    "url": "https://www.polaranalytics.com/polar-operator",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 4,000+ ecommerce brands and agencies",
+    "url": "https://www.polaranalytics.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Dedicated Snowflake warehouse, you hold the keys",
+    "url": "https://www.polaranalytics.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "See how Jones Road Beauty made its data AI-native on a warehouse it owns: one analyst now serves the whole company, with 13 of 17 staff running 130+ analyses in Claude each month.",
+    "url": "https://www.polaranalytics.com/case-studies/caba-design-incrementality-testing",
+    "pass": 1
+   },
+   {
+    "quote": "How Jones Road Beauty became an AI-native company on a data warehouse they own",
+    "url": "https://www.polaranalytics.com/case-studies/how-jones-road-beauty-became-ai-native",
+    "pass": 1
+   },
+   {
+    "quote": "Daasity, a managed BI stack on a warehouse the team didn’t fully control",
+    "url": "https://www.polaranalytics.com/case-studies/how-jones-road-beauty-became-ai-native",
+    "pass": 1
+   },
+   {
+    "quote": "A Snowflake warehouse they own, with a governed metrics layer that feeds Claude directly",
+    "url": "https://www.polaranalytics.com/case-studies/how-jones-road-beauty-became-ai-native",
+    "pass": 1
+   },
+   {
+    "quote": "We have one data analyst and in the past it used to take two weeks to get a report. We have our entire data warehouse. That was one of our Q1 projects, that we can access the warehouse directly from Claude, so you can get anything in a heartbeat and you don’t have to be technical at all.",
+    "url": "https://www.polaranalytics.com/case-studies/how-jones-road-beauty-became-ai-native",
+    "pass": 1
+   },
+   {
+    "quote": "Cody Plofker, CEO of Jones Road Beauty. Marketing Operators, live at Meta’s 2026 Performance Marketing Summit",
+    "url": "https://www.polaranalytics.com/case-studies/how-jones-road-beauty-became-ai-native",
+    "pass": 1
+   },
+   {
+    "quote": "The previous setup made the bottleneck worse. On Daasity, the data was managed for them on a warehouse they didn’t fully control. Routine changes meant filing a request and waiting. As Ben recalls, “",
+    "url": "https://www.polaranalytics.com/case-studies/how-jones-road-beauty-became-ai-native",
+    "pass": 1
+   },
+   {
+    "quote": "Jones Road came to Polar while actively planning their exit from Daasity. The pitch matched the goal exactly: keep the ownership and control of a real warehouse, but make the data instantly usable by AI. Polar stood up a",
+    "url": "https://www.polaranalytics.com/case-studies/how-jones-road-beauty-became-ai-native",
+    "pass": 1
+   },
+   {
+    "quote": "dedicated, fully isolated Snowflake warehouse the team owns",
+    "url": "https://www.polaranalytics.com/case-studies/how-jones-road-beauty-became-ai-native",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse migrations are supposed to be painful. This one wasn’t. Jones Road connected its core marketing sources and was exploring data almost immediately. “",
+    "url": "https://www.polaranalytics.com/case-studies/how-jones-road-beauty-became-ai-native",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse provisioned",
+    "url": "https://www.polaranalytics.com/case-studies/how-jones-road-beauty-became-ai-native",
+    "pass": 1
+   },
+   {
+    "quote": "✗ A warehouse they didn’t fully control",
+    "url": "https://www.polaranalytics.com/case-studies/how-jones-road-beauty-became-ai-native",
+    "pass": 1
+   },
+   {
+    "quote": "✓ A governed warehouse they own",
+    "url": "https://www.polaranalytics.com/case-studies/how-jones-road-beauty-became-ai-native",
+    "pass": 1
+   },
+   {
+    "quote": "For Cody Plofker, accessing the warehouse through Claude was “",
+    "url": "https://www.polaranalytics.com/case-studies/how-jones-road-beauty-became-ai-native",
+    "pass": 1
+   },
+   {
+    "quote": "See how Jones Road Beauty made its data AI-native on a warehouse it owns: one analyst now serves the whole company, with 13 of 17 staff running 130+ analyses in Claude each month.",
+    "url": "https://www.polaranalytics.com/case-studies/the-feed-brand-search-efficiency-polar-analytics-incrementality-testing",
+    "pass": 1
+   },
+   {
+    "quote": "See how Jones Road Beauty made its data AI-native on a warehouse it owns: one analyst now serves the whole company, with 13 of 17 staff running 130+ analyses in Claude each month.",
+    "url": "https://www.polaranalytics.com/case-studies/thefrankieshop",
+    "pass": 1
+   },
+   {
+    "quote": "See how Jones Road Beauty made its data AI-native on a warehouse it owns: one analyst now serves the whole company, with 13 of 17 staff running 130+ analyses in Claude each month.",
+    "url": "https://www.polaranalytics.com/case-studies/canopy-saves-432-hours-polar-analytics",
+    "pass": 1
+   },
+   {
+    "quote": "See how Jones Road Beauty made its data AI-native on a warehouse it owns: one analyst now serves the whole company, with 13 of 17 staff running 130+ analyses in Claude each month.",
+    "url": "https://www.polaranalytics.com/case-studies/modular-closets-browse-abandonment-revenue",
+    "pass": 1
+   },
+   {
+    "quote": "This resolved the identity fragmentation caused by Meta Pixel through Polar Pixel’s advanced Identity Resolution technology.",
+    "url": "https://www.polaranalytics.com/case-studies/how-yellow-pop-reduced-cac-with-polars-tracking-tool",
+    "pass": 1
+   },
+   {
+    "quote": "See how Jones Road Beauty made its data AI-native on a warehouse it owns: one analyst now serves the whole company, with 13 of 17 staff running 130+ analyses in Claude each month.",
+    "url": "https://www.polaranalytics.com/case-studies/how-yellow-pop-reduced-cac-with-polars-tracking-tool",
+    "pass": 1
+   },
+   {
+    "quote": "See how Jones Road Beauty made its data AI-native on a warehouse it owns: one analyst now serves the whole company, with 13 of 17 staff running 130+ analyses in Claude each month.",
+    "url": "https://www.polaranalytics.com/case-studies/joseph-joseph-derisks-meta-reach-campaigns-incrementality-testing-causal-lift",
+    "pass": 1
+   },
+   {
+    "quote": "Tri’s Polar Data Warehouse environment.",
+    "url": "https://www.polaranalytics.com/case-studies/tiege-hanley-the-challenge-of-building-an-in-house-data-stack",
+    "pass": 1
+   },
+   {
+    "quote": "See how Jones Road Beauty made its data AI-native on a warehouse it owns: one analyst now serves the whole company, with 13 of 17 staff running 130+ analyses in Claude each month.",
+    "url": "https://www.polaranalytics.com/case-studies/tiege-hanley-the-challenge-of-building-an-in-house-data-stack",
+    "pass": 1
+   },
+   {
+    "quote": "See how Jones Road Beauty made its data AI-native on a warehouse it owns: one analyst now serves the whole company, with 13 of 17 staff running 130+ analyses in Claude each month.",
+    "url": "https://www.polaranalytics.com/case-studies/how-sage-and-paige-transformed-their-digital-advertising-metrics-with-polars-server-side-tracking",
+    "pass": 1
+   },
+   {
+    "quote": "See how Jones Road Beauty made its data AI-native on a warehouse it owns: one analyst now serves the whole company, with 13 of 17 staff running 130+ analyses in Claude each month.",
+    "url": "https://www.polaranalytics.com/case-studies/swanky-uses-polar-analytics-scale-enterprise-shopify-plus-brands",
+    "pass": 1
+   },
+   {
+    "quote": "See how Jones Road Beauty made its data AI-native on a warehouse it owns: one analyst now serves the whole company, with 13 of 17 staff running 130+ analyses in Claude each month.",
+    "url": "https://www.polaranalytics.com/case-studies/cube-partnership",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Trusted by 4,000+ ecommerce brands and agencies",
+    "url": "https://www.polaranalytics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Do you work with agencies, multi-store and multi-currency setups?",
+    "url": "https://www.polaranalytics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Real outcomes from brands and agencies running on Polar.",
+    "url": "https://www.polaranalytics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Partner Program | Polar Analytics",
+    "url": "https://www.polaranalytics.com/l/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Discover our partner program",
+    "url": "https://www.polaranalytics.com/l/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Polar Analytics Pricing - Plans for Ecommerce Brands & Agencies",
+    "url": "https://www.polaranalytics.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 4,000+ ecommerce brands and agencies",
+    "url": "https://www.polaranalytics.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "As Swanky expanded its work with high-growth brands, the team faced increasing challenges in consolidating data from multiple sources and making performance analysis seamless and scalable. While many agencies claim to be data-driven, Swanky has made it a core pillar of their approach.",
+    "url": "https://www.polaranalytics.com/case-studies/swanky-uses-polar-analytics-scale-enterprise-shopify-plus-brands",
+    "pass": 1
+   },
+   {
+    "quote": "“A newly onboarded project manager recently told me how refreshing it was to see tracking prioritized this early. For many agencies, data setup is an afterthought. For us, it’s built into our process.”",
+    "url": "https://www.polaranalytics.com/case-studies/swanky-uses-polar-analytics-scale-enterprise-shopify-plus-brands",
+    "pass": 1
+   },
+   {
+    "quote": "feature, which allows agencies to switch between multiple client accounts seamlessly. Tom shared,",
+    "url": "https://www.polaranalytics.com/case-studies/swanky-uses-polar-analytics-scale-enterprise-shopify-plus-brands",
+    "pass": 1
+   },
+   {
+    "quote": "\"Being able to switch between accounts is obviously really pertinent to an agency, and Polar was incredibly receptive to our feedback. The fact that it was turned around so quickly has made everyone's lives much easier. This was a huge need for us, and we’re glad that by pushing for it, we were able to help other agency partners as well.\"",
+    "url": "https://www.polaranalytics.com/case-studies/swanky-uses-polar-analytics-scale-enterprise-shopify-plus-brands",
+    "pass": 1
+   },
+   {
+    "quote": "To support brands in optimizing their data strategy, Swanky is offering a free reporting and tracking consultation to identify gaps in your brand's data and analytics and provide actionable recommendations.",
+    "url": "https://www.polaranalytics.com/case-studies/swanky-uses-polar-analytics-scale-enterprise-shopify-plus-brands",
+    "pass": 1
+   },
+   {
+    "quote": "See how other Agencies are using Polar Analytics to drive better results for their clients",
+    "url": "https://www.polaranalytics.com/solutions/analytics-for-multi-store-shopify-brands",
+    "pass": 1
+   },
+   {
+    "quote": "Discover our partner program",
+    "url": "https://www.polaranalytics.com/solutions/analytics-for-multi-store-shopify-brands",
+    "pass": 1
+   },
+   {
+    "quote": "Pioneering Agencies and Ventures",
+    "url": "https://www.polaranalytics.com/solutions/analytics-for-multi-store-shopify-brands",
+    "pass": 1
+   },
+   {
+    "quote": "See how other Agencies are using Polar Analytics to drive better results for their clients",
+    "url": "https://www.polaranalytics.com/solutions/profit-driven-marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Discover our partner program",
+    "url": "https://www.polaranalytics.com/solutions/profit-driven-marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Pioneering Agencies and Ventures",
+    "url": "https://www.polaranalytics.com/solutions/profit-driven-marketing",
+    "pass": 1
+   },
+   {
+    "quote": "See how other Agencies are using Polar Analytics to drive better results for their clients",
+    "url": "https://www.polaranalytics.com/solutions/optimize-customer-acquisition",
+    "pass": 1
+   },
+   {
+    "quote": "Discover our partner program",
+    "url": "https://www.polaranalytics.com/solutions/optimize-customer-acquisition",
+    "pass": 1
+   },
+   {
+    "quote": "Pioneering Agencies and Ventures",
+    "url": "https://www.polaranalytics.com/solutions/optimize-customer-acquisition",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Revenue, last 30 days",
+    "url": "https://www.polaranalytics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Track revenue, subscriptions and new customers against plan. See where the month will land and review budget moves before you fall behind.",
+    "url": "https://www.polaranalytics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Catch broken flows before revenue slips",
+    "url": "https://www.polaranalytics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "13 of 17 employees run 130+ analyses a month.",
+    "url": "https://www.polaranalytics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Define revenue, attribution and margin the way your business runs, and adjust sources, metrics and rules as you change. AI-first, any operator can adapt data sources, metrics and business rules to your needs.",
+    "url": "https://www.polaranalytics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "You can use both. Ask Polar is built into the platform. The Polar MCP connector lets you query the same governed data from Claude, ChatGPT or any MCP-compatible tool on your own AI subscription. Polar is listed in the Claude connector directory.",
+    "url": "https://www.polaranalytics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Why this L.A. Fashion Brand Trusts Polar x Bespoke to Drive +10% in Revenue per Subscriber and 60× ROI",
+    "url": "https://www.polaranalytics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "+10% revenue per subscriber",
+    "url": "https://www.polaranalytics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Polar data powering Bespoke's AI emails lifted revenue per subscriber 10%, at 60× ROI.",
+    "url": "https://www.polaranalytics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Causal Lift de-risked Meta TOFU campaigns revealing true incremental revenue.",
+    "url": "https://www.polaranalytics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "ROAR Studios Achieves 95% Attribution Accuracy and Boosts Client Revenue by 35% Using Polar Analytics",
+    "url": "https://www.polaranalytics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "+35% client revenue",
+    "url": "https://www.polaranalytics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How Modular Closets Increased Browse Abandonment Revenue by 54%",
+    "url": "https://www.polaranalytics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "+54% email revenue",
+    "url": "https://www.polaranalytics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Shopify Agency boosts brand’s abandoned cart revenue by 55%",
+    "url": "https://www.polaranalytics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "+55% cart revenue",
+    "url": "https://www.polaranalytics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Klaviyo Audiences captured +30% missing emails and grew revenue by 55%.",
+    "url": "https://www.polaranalytics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Fashion brand uncovers 37% missed revenue with abandoned flow enrichment",
+    "url": "https://www.polaranalytics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "37% missed revenue found",
+    "url": "https://www.polaranalytics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Abandoned flow enrichment uncovered 37% more revenue that Klaviyo flows were missing.",
+    "url": "https://www.polaranalytics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How Inspiir Media has boosted their Agency revenues by 50% by integrating Polar Analytics into their service offering",
+    "url": "https://www.polaranalytics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "+50% agency revenue",
+    "url": "https://www.polaranalytics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Inspiir Media grew agency revenue by 50% by building Polar into its service offering.",
+    "url": "https://www.polaranalytics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How Inspiir Media has boosted their Agency revenues by 50% by integrating Polar Analytics into their service offering",
+    "url": "https://www.polaranalytics.com/l/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Shopify Agency boosts brand’s abandoned cart revenue by 55%",
+    "url": "https://www.polaranalytics.com/l/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "We've built pre-defined dashboards so you can visualize important metrics that help you monitor and grow your store: Customer Acquisition Cost, Lifetime Value, and Retention Cohorts.",
+    "url": "https://www.polaranalytics.com/l/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "A game-changer for our acquisition strategy, making it incredibly easy to track performance and optimize campaigns.",
+    "url": "https://www.polaranalytics.com/l/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Polar Operator arrives with your semantic layer, your integrations and your business context already wired in. It keeps what it learns, and it runs recurring work without being asked.",
+    "url": "https://www.polaranalytics.com/polar-operator",
+    "pass": 1
+   },
+   {
+    "quote": "You can. Running it yourself means hosting it, wiring every integration, writing the skills that query your data correctly, and watching consumption forever. Polar Operator arrives already inside your warehouse and semantic layer, managed by the team that built both. It is more opinionated and less flexible on purpose. The trade is better results.",
+    "url": "https://www.polaranalytics.com/polar-operator",
+    "pass": 1
+   },
+   {
+    "quote": "No. Polar Operator is part of your Polar plan rather than metered per question, so the cost does not spike with how much your team uses it. Your solutions engineer also sets guardrails on what it is allowed to run on its own.",
+    "url": "https://www.polaranalytics.com/polar-operator",
+    "pass": 1
+   },
+   {
+    "quote": "Driving more email revenue from existing automations",
+    "url": "https://www.polaranalytics.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Annual Klaviyo Revenue",
+    "url": "https://www.polaranalytics.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce Acquisition Costs",
+    "url": "https://www.polaranalytics.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Klaviyo Flows Enricher Revenue Calculator",
+    "url": "https://www.polaranalytics.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "CABA Design Co. came to a familiar crossroads: leadership wanted to scale Google Ads ahead of key sales moments, but the team needed evidence that extra dollars would drive incremental revenue - not just prettier platform dashboards.",
+    "url": "https://www.polaranalytics.com/case-studies/caba-design-incrementality-testing",
+    "pass": 1
+   },
+   {
+    "quote": "We looked at overall sales, revenue, sample/swatch orders and traffic metrics (such as sessions with add-to-cart events) - then rolled these views up into one confident answer.",
+    "url": "https://www.polaranalytics.com/case-studies/caba-design-incrementality-testing",
+    "pass": 1
+   },
+   {
+    "quote": "The team kept scaling with guardrails, confident the extra spend creates real new revenue - not just nicer dashboards.",
+    "url": "https://www.polaranalytics.com/case-studies/caba-design-incrementality-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Cohort retention sliced by acquisition channel and first product purchased.",
+    "url": "https://www.polaranalytics.com/case-studies/how-jones-road-beauty-became-ai-native",
+    "pass": 1
+   },
+   {
+    "quote": "To uncover the truth of their Google brand search efforts, The Feed used Polar Analytics’ Causal Lift to set up a controlled experiment to directly measure the impact of branded paid search campaigns on traffic and customer acquisition costs. The U.S. audience was split into two groups:",
+    "url": "https://www.polaranalytics.com/case-studies/the-feed-brand-search-efficiency-polar-analytics-incrementality-testing",
+    "pass": 1
+   },
+   {
+    "quote": "The test showed only a slight increase of 2% in total traffic (organic + brand) at a highly inefficient cost per acquisition (CPA). The cost for each additional session was around $19, leading to a customer acquisition cost of $950, which is not justifiable given the minimal traffic lift.",
+    "url": "https://www.polaranalytics.com/case-studies/the-feed-brand-search-efficiency-polar-analytics-incrementality-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Through industry mentions and positive recommendations from other ecommerce brands, The Frankie Shop approached Polar struggling with high acquisition costs and difficulty tracking accurate marketing ROI.",
+    "url": "https://www.polaranalytics.com/case-studies/thefrankieshop",
+    "pass": 1
+   },
+   {
+    "quote": "Now, with Facebook’s campaigns fueled, The Frankie Shop is not stopping here. Their team will focus on the next phase of their business: Tackling all of their acquisition channels — Google Ads, Tiktok, and Klaviyo.",
+    "url": "https://www.polaranalytics.com/case-studies/thefrankieshop",
+    "pass": 1
+   },
+   {
+    "quote": "Introducing a new way to convert missed shoppers into new revenue",
+    "url": "https://www.polaranalytics.com/case-studies/thefrankieshop",
+    "pass": 1
+   },
+   {
+    "quote": "How Modular Closets Increased Browse Abandonment Revenue by 54%",
+    "url": "https://www.polaranalytics.com/case-studies/modular-closets-browse-abandonment-revenue",
+    "pass": 1
+   },
+   {
+    "quote": "The Challenge: Lost Revenue from Limited Tracking",
+    "url": "https://www.polaranalytics.com/case-studies/modular-closets-browse-abandonment-revenue",
+    "pass": 1
+   },
+   {
+    "quote": "has been leading the way in customizable home organization, reaching eight figures in revenue. With their sights set on hitting nine figures, they constantly seek ways to optimize and grow.",
+    "url": "https://www.polaranalytics.com/case-studies/modular-closets-browse-abandonment-revenue",
+    "pass": 1
+   },
+   {
+    "quote": "At first, Modular Closets didn't realize the impact of these changes on their email performance. They were unaware that Klaviyo was missing crucial events. It wasn’t until they installed Polar that they saw the full extent of the missed opportunities and potential revenue slipping through the cracks.",
+    "url": "https://www.polaranalytics.com/case-studies/modular-closets-browse-abandonment-revenue",
+    "pass": 1
+   },
+   {
+    "quote": "While I am a huge fan of Polar for their fantastic software, which has streamlined my super-complicated data stack, the new offering has raised the bar even further with its immediate ROI, in terms of lost revenue recovered.",
+    "url": "https://www.polaranalytics.com/case-studies/modular-closets-browse-abandonment-revenue",
+    "pass": 1
+   },
+   {
+    "quote": "Everything was quick and efficient, with the Polar Analytics team handling the setup. This precise monitoring allowed Modular Closets to see exactly how many emails were sent and the resulting revenue generated by the Klaviyo Flow Enricher.",
+    "url": "https://www.polaranalytics.com/case-studies/modular-closets-browse-abandonment-revenue",
+    "pass": 1
+   },
+   {
+    "quote": "The Results: 54% Revenue Boost",
+    "url": "https://www.polaranalytics.com/case-studies/modular-closets-browse-abandonment-revenue",
+    "pass": 1
+   },
+   {
+    "quote": ", which they knew would have a high browse abandonment rate, the Klaviyo Flow Enricher proved crucial. This tool increased their Browse Abandonment Flow email revenue by 54%, reaching an additional 4,188 sends through Klaviyo.",
+    "url": "https://www.polaranalytics.com/case-studies/modular-closets-browse-abandonment-revenue",
+    "pass": 1
+   },
+   {
+    "quote": "54% more revenue Browse Abandonment flows for Modular Closets.",
+    "url": "https://www.polaranalytics.com/case-studies/how-yellow-pop-reduced-cac-with-polars-tracking-tool",
+    "pass": 1
+   },
+   {
+    "quote": "Customer acquisition cost (CAC):",
+    "url": "https://www.polaranalytics.com/case-studies/joseph-joseph-derisks-meta-reach-campaigns-incrementality-testing-causal-lift",
+    "pass": 1
+   },
+   {
+    "quote": "In addition to the financial and technical barriers, Kevin K., Director of Ecommerce and CRM, identified broader operational gaps:",
+    "url": "https://www.polaranalytics.com/case-studies/tiege-hanley-the-challenge-of-building-an-in-house-data-stack",
+    "pass": 1
+   },
+   {
+    "quote": "Attribution modeling lacked precision across diverse acquisition channels.",
+    "url": "https://www.polaranalytics.com/case-studies/tiege-hanley-the-challenge-of-building-an-in-house-data-stack",
+    "pass": 1
+   },
+   {
+    "quote": "Automated pipelines connecting customer, subscription, retention, product, and acquisition data in one place.",
+    "url": "https://www.polaranalytics.com/case-studies/tiege-hanley-the-challenge-of-building-an-in-house-data-stack",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive, automated reporting for subscriptions, retention, acquisition, and channel performance.",
+    "url": "https://www.polaranalytics.com/case-studies/tiege-hanley-the-challenge-of-building-an-in-house-data-stack",
+    "pass": 1
+   },
+   {
+    "quote": "Create predictive models to identify churn risks and revenue growth opportunities before they impact performance.",
+    "url": "https://www.polaranalytics.com/case-studies/tiege-hanley-the-challenge-of-building-an-in-house-data-stack",
+    "pass": 1
+   },
+   {
+    "quote": "Utilizing Polar's server-side tracking capabilities, Sage and Paige managed to consolidate fragmented data streams into a unified dashboard. This empowered them to make more informed advertising decisions, drastically reducing their customer acquisition cost (CAC) while maintaining the same budget.",
+    "url": "https://www.polaranalytics.com/case-studies/how-sage-and-paige-transformed-their-digital-advertising-metrics-with-polars-server-side-tracking",
+    "pass": 1
+   },
+   {
+    "quote": "While Shopify provides basic customer analytics, Swanky needed deeper retention and lifetime value (LTV) analysis to help clients optimize for profitability rather than just acquisition.",
+    "url": "https://www.polaranalytics.com/case-studies/swanky-uses-polar-analytics-scale-enterprise-shopify-plus-brands",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Watch email and SMS performance, find flows that break and prepare the changes needed to get them working again.",
+    "url": "https://www.polaranalytics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every account gets in-app chat, email support, weekly group onboarding and our help center. Larger accounts get a dedicated customer success manager and a shared Slack channel. Our top plan adds a solutions engineer and a data scientist.",
+    "url": "https://www.polaranalytics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Polar data powering Bespoke's AI emails lifted revenue per subscriber 10%, at 60× ROI.",
+    "url": "https://www.polaranalytics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "The Email Experience Streamlines 30+ Client Accounts with Polar Analytics",
+    "url": "https://www.polaranalytics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "The Email Experience runs every client’s reporting from one login with Polar Workspaces.",
+    "url": "https://www.polaranalytics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "+54% email revenue",
+    "url": "https://www.polaranalytics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Klaviyo Audiences captured +30% missing emails and grew revenue by 55%.",
+    "url": "https://www.polaranalytics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Never miss anything important. Polar will send instant updates to your email or Slack.",
+    "url": "https://www.polaranalytics.com/l/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Driving more email revenue from existing automations",
+    "url": "https://www.polaranalytics.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "“What’s our CAC by product, and our cost per email signup by Meta campaign?”",
+    "url": "https://www.polaranalytics.com/case-studies/how-jones-road-beauty-became-ai-native",
+    "pass": 1
+   },
+   {
+    "quote": "Their data highlighted a massive concern: while customer information such as Email and Country were tracked at 100%, Click ID had a Event (sales) match rate of just 1.74%. This indicates that Facebook was only able to identify 1.74% of shoppers that purchased.",
+    "url": "https://www.polaranalytics.com/case-studies/thefrankieshop",
+    "pass": 1
+   },
+   {
+    "quote": "At first, Modular Closets didn't realize the impact of these changes on their email performance. They were unaware that Klaviyo was missing crucial events. It wasn’t until they installed Polar that they saw the full extent of the missed opportunities and potential revenue slipping through the cracks.",
+    "url": "https://www.polaranalytics.com/case-studies/modular-closets-browse-abandonment-revenue",
+    "pass": 1
+   },
+   {
+    "quote": "The Solution: Capturing Missed Emails",
+    "url": "https://www.polaranalytics.com/case-studies/modular-closets-browse-abandonment-revenue",
+    "pass": 1
+   },
+   {
+    "quote": "to tackle the challenge. This powerful tool boosts email marketing by capturing missed abandonment events and enhancing email flows.",
+    "url": "https://www.polaranalytics.com/case-studies/modular-closets-browse-abandonment-revenue",
+    "pass": 1
+   },
+   {
+    "quote": ": These events were linked to previously subscribed email addresses using Polar's in-house Identity Graph.",
+    "url": "https://www.polaranalytics.com/case-studies/modular-closets-browse-abandonment-revenue",
+    "pass": 1
+   },
+   {
+    "quote": "Everything was quick and efficient, with the Polar Analytics team handling the setup. This precise monitoring allowed Modular Closets to see exactly how many emails were sent and the resulting revenue generated by the Klaviyo Flow Enricher.",
+    "url": "https://www.polaranalytics.com/case-studies/modular-closets-browse-abandonment-revenue",
+    "pass": 1
+   },
+   {
+    "quote": ", which they knew would have a high browse abandonment rate, the Klaviyo Flow Enricher proved crucial. This tool increased their Browse Abandonment Flow email revenue by 54%, reaching an additional 4,188 sends through Klaviyo.",
+    "url": "https://www.polaranalytics.com/case-studies/modular-closets-browse-abandonment-revenue",
+    "pass": 1
+   },
+   {
+    "quote": "Modular Closets is thrilled with the results and plans to keep refining their email flows to reach even more customers. The success of their new wardrobe closet product line shows just how powerful the",
+    "url": "https://www.polaranalytics.com/case-studies/modular-closets-browse-abandonment-revenue",
+    "pass": 1
+   },
+   {
+    "quote": "Due to iOS 14 and iOS 17, the Meta Pixel was limited in tracking users and gathering their information. While the Meta Pixel could identify and connect user Emails and IP Addresses to Events (sales), the Click ID to Events match was as low as 12.12%.",
+    "url": "https://www.polaranalytics.com/case-studies/how-yellow-pop-reduced-cac-with-polars-tracking-tool",
+    "pass": 1
+   },
+   {
+    "quote": "\"First of all, it is a collaborative tool. Our Merchandise team uses it for Product sales monitoring and our e-Com team uses it for digital marketing and e-mail marketing monitoring.",
+    "url": "https://www.polaranalytics.com/case-studies/cube-partnership",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本の中小企業に限定した導入事例は、確認した公式サイトでは見つかりませんでした",
+    "url": "https://www.bitool-navi.com/tool/polar-analytics.html",
+    "pass": 3
+   },
+   {
+    "quote": "※参照元URL：Polar Analytics導入事例（https://www.polaranalytics.com/case-studies）",
+    "url": "https://www.bitool-navi.com/tool/polar-analytics.html",
+    "pass": 3
+   },
+   {
+    "quote": "料金はGMV連動で、日本語対応や国内導入事例は、確認した公式情報では明示されていません",
+    "url": "https://www.bitool-navi.com/tool/polar-analytics.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本語での問い合わせ・オンボーディングの可否、サポートの対応時間",
+    "url": "https://www.bitool-navi.com/tool/polar-analytics.html",
+    "pass": 3
+   },
+   {
+    "quote": "特に日本国内での運用を想定する場合は、連携要件とサポート条件をデモまたは問い合わせで確認してから比較検討すると安心です",
+    "url": "https://www.bitool-navi.com/tool/polar-analytics.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Polar Analyticsは中小ECに向く？機能・ 導入 前の確認点 — Polar Analyticsは中小ECに向く？機能・ 導入 前の確認点 bitool-navi.com https://www.bitool-navi.com > tool > polar-analytics",
+    "url": "https://www.bitool-navi.com/tool/polar-analytics.html",
+    "pass": 3
+   },
+   {
+    "quote": "Terms of Service | Polar Analytics — Terms of Service | Polar Analytics Polar Analytics https://www.polaranalytics.com > poli...",
+    "url": "https://www.polaranalytics.com/policy",
+    "pass": 3
+   },
+   {
+    "quote": "Polar - Your Shopify Analytics. Effortless. Centralized. Smart — Polar - Your Shopify Analytics. Effortless. Centralized. Smart Polar Analytics https://www.polaranalytics.com",
+    "url": "https://www.polaranalytics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Polar Analytics — Polar Analytics Polar Analytics https://www.polaranalytics.com",
+    "url": "https://www.polaranalytics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Polar Analytics ‍❄️ - LinkedIn — Polar Analytics ‍❄️ - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/polaranalytics",
+    "pass": 3
+   },
+   {
+    "quote": "Polar Analytics - YouTube — Polar Analytics - YouTube YouTube https://www.youtube.com > ...",
+    "url": "https://www.youtube.com/@polar-analytics",
+    "pass": 3
+   },
+   {
+    "quote": "Polar Analytics raises $9M to scale Shopify brands | TechCrunch — Polar Analytics raises $9M to scale Shopify brands | TechCrunch TechCrunch https://techcrunch.com > 2023/07/18",
+    "url": "https://techcrunch.com/2023/07/18/polar-analytics-9m-shopify-brands-ecommerce/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies - Polar Analytics — Case Studies - Polar Analytics Polar Analytics https://www.polaranalytics.com > case...",
+    "url": "https://www.polaranalytics.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Why Schleich Uses Polar Analytics to Run Global DTC ... — Why Schleich Uses Polar Analytics to Run Global DTC ... Polar Analytics https://www.polaranalytics.com > schl...",
+    "url": "https://www.polaranalytics.com/case-studies/schleich-polar-analytics-global-dtc-reporting",
+    "pass": 3
+   },
+   {
+    "quote": "Partner Program | Polar Analytics — Partner Program | Polar Analytics Polar Analytics https://www.polaranalytics.com > part...",
+    "url": "https://www.polaranalytics.com/l/partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Polar Analytics Raises $9M to Empower Modern Retail ... — Polar Analytics Raises $9M to Empower Modern Retail ... Polar Analytics https://www.polaranalytics.com > post",
+    "url": "https://www.polaranalytics.com/post/polar-analytics-raises-9m-to-empower-modern-retail-brands-to-scale-seamlessly-within-the-shopify-ecosystem-and-beyond",
+    "pass": 3
+   },
+   {
+    "quote": "Polar Analytics ‍❄️ Revenue 2025: $4.8M Est. - GetLatka — Polar Analytics ‍❄️ Revenue 2025: $4.8M Est. - GetLatka GetLatka https://getlatka.com > polaranalytics",
+    "url": "https://getlatka.com/companies/polaranalytics.co",
+    "pass": 3
+   },
+   {
+    "quote": "Polar Analytics - 2026 Company Profile & Team - Tracxn — Polar Analytics - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/polar-analytics/__YeLZOWqem7X2b0TPddEotX2H0LgM6-GMMFaFTJ6m4z4",
+    "pass": 3
+   },
+   {
+    "quote": "Polar Analytics - Crunchbase Company Profile & Funding — Polar Analytics - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > polar-...",
+    "url": "https://www.crunchbase.com/organization/polar-analytics",
+    "pass": 3
+   },
+   {
+    "quote": "Polar Analytics 2026 Company Profile - PitchBook — Polar Analytics 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/452711-62",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Polar Analytics ‍❄️ - LinkedIn Polar Analytics ‍❄️ - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/polaranalytics",
+    "pass": 3
+   },
+   {
+    "quote": "David Dokes - Co-founder & CEO at Polar Analytics | LinkedIn David Dokes - Co-founder & CEO at Polar Analytics | LinkedIn LinkedIn https://www.linkedin.com > david-do...",
+    "url": "https://www.linkedin.com/in/david-dokes",
+    "pass": 3
+   },
+   {
+    "quote": "Polar Analytics ‍❄️ - LinkedIn Polar Analytics ‍❄️ - LinkedIn LinkedIn https://www.linkedin.com > products",
+    "url": "https://www.linkedin.com/products/polaranalytics-polar-analytics/",
+    "pass": 3
+   },
+   {
+    "quote": "Polar Analytics ‍❄️ - LinkedIn Polar Analytics ‍❄️ - LinkedIn LinkedIn https://fr.linkedin.com > polaranalytics",
+    "url": "https://fr.linkedin.com/company/polaranalytics",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Polar Analytics (@ polaranalytics ) - Facebook Polar Analytics (@ polaranalytics ) - Facebook Facebook https://www.facebook.com > ... > Software Company",
+    "url": "https://www.facebook.com/polaranalytics/",
+    "pass": 3
+   },
+   {
+    "quote": "Polar Analytics (@ polaranalytics ) - Comunidad | Facebook Polar Analytics (@ polaranalytics ) - Comunidad | Facebook Facebook https://www.facebook.com > ... > Polar Analytics",
+    "url": "https://www.facebook.com/polaranalytics/community/?locale=es_LA",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.polaranalytics.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.polaranalytics.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.polaranalytics.com/l/partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.polaranalytics.com/polar-operator",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.polaranalytics.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.polaranalytics.com/case-studies/caba-design-incrementality-testing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.polaranalytics.com/case-studies/how-jones-road-beauty-became-ai-native",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.polaranalytics.com/case-studies/the-feed-brand-search-efficiency-polar-analytics-incrementality-testing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.polaranalytics.com/case-studies/thefrankieshop",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.polaranalytics.com/case-studies/canopy-saves-432-hours-polar-analytics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.polaranalytics.com/case-studies/modular-closets-browse-abandonment-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.polaranalytics.com/case-studies/how-yellow-pop-reduced-cac-with-polars-tracking-tool",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.polaranalytics.com/case-studies/joseph-joseph-derisks-meta-reach-campaigns-incrementality-testing-causal-lift",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.polaranalytics.com/case-studies/tiege-hanley-the-challenge-of-building-an-in-house-data-stack",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.polaranalytics.com/case-studies/how-sage-and-paige-transformed-their-digital-advertising-metrics-with-polars-server-side-tracking",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.polaranalytics.com/case-studies/swanky-uses-polar-analytics-scale-enterprise-shopify-plus-brands",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.polaranalytics.com/case-studies/cube-partnership",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.polaranalytics.com/solutions/analytics-for-multi-store-shopify-brands",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.polaranalytics.com/solutions/profit-driven-marketing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.polaranalytics.com/solutions/optimize-customer-acquisition",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/5d41abab8cacf50ad1df67f2/6ad1fa8ef617cd967e95b6ef_6ad1fa4d58cca1ec5ffd0278_cspc-logo-cube-partnership.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/5d41abab8cacf50ad1df67f2/6ad1fa8ef617cd967e95b70c_6ad1fa49f564c037d5819a71_cspc-photo-cube-partnership.jpeg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/5d41abab8cacf50ad1df67f2/645e5cf9868fff00cda7717c_cube-logo.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.polaranalytics.com/case-studies/cube-partnership",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.bitool-navi.com/tool/polar-analytics.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jidounten-lab.com/u_route-system-market-2027",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://press.plaion.com/ja-JP/Cat/Items/122",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://nii-auth.atlassian.net/wiki/spaces/NIISOCSDataForResearchers/blog/2021/01/12/43417667",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wadax.ne.jp/company/agent/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bizresearch.net/blog/article/156",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/polaranalytics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://apps.shopify.com/polar-analytics/reviews?locale=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/@polar-analytics",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJ_B252snSS0X5hvAiQGt948exDzCgpGEauH-8i7rPoPduu5Rtn",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://c3.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://procureanalytics.com/resources/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sales-label.com/blog/white-label-saas-reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/polaranalytics.co",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/polar-analytics/__YeLZOWqem7X2b0TPddEotX2H0LgM6-GMMFaFTJ6m4z4",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/polar-analytics",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/polaranalytics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/david-dokes",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/polaranalytics-polar-analytics/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/polaranalytics/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/polaranalytics/community/?locale=es_LA",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fr.linkedin.com/company/polaranalytics",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Polaranalytics 日本 導入",
+   "results": [
+    "https://www.bitool-navi.com/tool/polar-analytics.html",
+    "https://jidounten-lab.com/u_route-system-market-2027",
+    "https://press.plaion.com/ja-JP/Cat/Items/122",
+    "https://nii-auth.atlassian.net/wiki/spaces/NIISOCSDataForResearchers/blog/2021/01/12/43417667",
+    "https://aisi.go.jp/activity/activity_news/260821/",
+    "https://atlax.nri.co.jp/news/",
+    "https://techgala.jp/p0015/",
+    "https://www.polar.com/ja/business/algorithms?srsltid=AYCX9vJVie_fKtU4BDR5depcGXtgj4Vux1drTUv6qOIVRb7BxyiZyhEq",
+    "https://grafana.com/ja/blog/japan-observability-survey-25/",
+    "https://note.com/solvomind_ishii/n/n30b5651ffa8e"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "Polaranalytics 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.polaranalytics.com/policy",
+    "https://www.polaranalytics.com/",
+    "https://www.wadax.ne.jp/company/agent/",
+    "https://bizresearch.net/blog/article/156",
+    "https://www.snowflake.com/ja/blog/marketing-agency-future-unified-data-ai/",
+    "https://www.nri.com/jp/knowledge/publication/chitekishisan_202212/08.html",
+    "https://dairitenboshu.com/",
+    "https://www.youtube.com/watch?v=ghPfaeMcScI",
+    "https://meo-analytics.com/partner/",
+    "https://partner-prop.com/lab/partner-business/agency/256/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "Polaranalytics Japan",
+   "results": [
+    "https://www.polaranalytics.com/",
+    "https://www.linkedin.com/company/polaranalytics",
+    "https://apps.shopify.com/polar-analytics/reviews",
+    "https://www.youtube.com/@polar-analytics",
+    "https://techcrunch.com/2023/07/18/polar-analytics-9m-shopify-brands-ecommerce/",
+    "https://sourcemedium.com/compare/sourcemedium-vs-polar-analytics/",
+    "https://www.polaranalytics.com/policy",
+    "https://www.beanstalkevents.com/partners/polar-analytics",
+    "https://marketplace.microsoft.com/ja-jp/product/wa200011709",
+    "https://www.nextfor.ai/ja/products/polaranalytics-com"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Polaranalytics manufacturing customer case study",
+   "results": [
+    "https://www.polaranalytics.com/case-studies",
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJ_B252snSS0X5hvAiQGt948exDzCgpGEauH-8i7rPoPduu5Rtn",
+    "https://c3.ai/customers",
+    "https://procureanalytics.com/resources/case-studies/",
+    "https://www.polaranalytics.com/case-studies/schleich-polar-analytics-global-dtc-reporting",
+    "https://www.polestaranalytics.com/blog/top-5-manufacturing-supply-chain-analytics-use-cases",
+    "https://es.linkedin.com/in/markmatthews93",
+    "https://www.jmp.com/en/customer-stories/customer-listing/by-industry/industrial-manufacturing",
+    "https://www.snowflake.com/en/blog/industry-4-0-use-cases/",
+    "https://www.featuredcustomers.com/vendor/polar-analytics/case-studies"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "Polaranalytics white label OR reseller OR partner program",
+   "results": [
+    "https://www.polaranalytics.com/l/partner-program",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/",
+    "https://sales-label.com/blog/white-label-saas-reseller",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://wishpond.com/latest-press-release/wishpond-launches-new-white-label-reseller-program-for-salescloser-ai-empowering-businesses-with-ai-powered-sales-solutions/",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://insighto.ai/blog/white-label-reseller-programs/",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Polaranalytics founded funding employees revenue",
+   "results": [
+    "https://www.polaranalytics.com/post/polar-analytics-raises-9m-to-empower-modern-retail-brands-to-scale-seamlessly-within-the-shopify-ecosystem-and-beyond",
+    "https://getlatka.com/companies/polaranalytics.co",
+    "https://tracxn.com/d/companies/polar-analytics/__YeLZOWqem7X2b0TPddEotX2H0LgM6-GMMFaFTJ6m4z4",
+    "https://www.crunchbase.com/organization/polar-analytics",
+    "https://pitchbook.com/profiles/company/452711-62",
+    "https://www.linkedin.com/posts/nicolasmagne_excited-to-share-that-polar-analytics-has-activity-7262106881404321792-oBoi",
+    "https://growjo.com/company/Polar_Analytics",
+    "https://www.cbinsights.com/company/polar-analytics/financials",
+    "https://techcrunch.com/2023/07/18/polar-analytics-9m-shopify-brands-ecommerce/",
+    "https://startupintros.com/orgs/polar-analytics"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "site:note.com Polaranalytics",
+   "results": [
+    "https://note.com/gdx_ai/n/ne0acda4b9bc2",
+    "https://note.com/tag/%E3%83%9E%E3%83%AB%E3%83%81%E3%83%AA%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3",
+    "https://note.com/moldtech/n/n8406acf4509a?hl=en",
+    "https://note.com/tag/Klaviyo",
+    "https://note.com/moldtech/n/n8406acf4509a/comments?hl=en-US",
+    "https://note.com/tag/我々は宇宙人",
+    "https://note.com/lively_pika8336/n/n5adf36c23e7b",
+    "https://note.com/solvomind_ishii/n/n30b5651ffa8e?hl=en",
+    "https://note.com/solvomind_ishii/n/n30b5651ffa8e",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:x.com Polaranalytics",
+   "results": [
+    "https://x.com/davdks",
+    "https://x.com/pushkersoni72",
+    "https://x.com/heysajib",
+    "https://x.com/shedntcare_",
+    "https://x.com/polar_analytics/status/2082125846161313881",
+    "https://x.com/polar_analytics/status/2086860814322110670",
+    "https://x.com/polar_analytics/status/2095138297483804676",
+    "https://help.x.com/en/using-x/download-the-x-app",
+    "https://x.com/charbseif",
+    "https://x.com/getubuapp"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:linkedin.com Polaranalytics",
+   "results": [
+    "https://www.linkedin.com/company/polaranalytics",
+    "https://www.linkedin.com/in/david-dokes",
+    "https://www.linkedin.com/in/charbel-seif",
+    "https://www.linkedin.com/products/polaranalytics-polar-analytics/",
+    "https://es.linkedin.com/in/markmatthews93",
+    "https://www.linkedin.com/posts/tatiana-kravchenko-1a4898172_im-heading-to-shoptalk-nashville-with-imran-activity-7506743852930768896-J3nA",
+    "https://www.linkedin.com/jobs/polar-analytics-jobs-worldwide",
+    "https://www.linkedin.com/posts/david-dokes_dashboards-are-dead-long-live-polar-operator-activity-7500904018756509697-QQEk",
+    "https://fr.linkedin.com/in/jamiemill",
+    "https://www.linkedin.com/company/polaranalyticscom"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Polaranalytics",
+   "results": [
+    "https://www.facebook.com/polaranalytics/",
+    "https://www.facebook.com/polaranalytics/community/?locale=es_LA",
+    "https://www.facebook.com/groups/powerbipilipinas/posts/1775696206537665/",
+    "https://www.facebook.com/groups/filvaph/posts/28761111913505934/",
+    "https://www.facebook.com/swankyHQ/",
+    "https://www.facebook.com/groups/509617013507726/posts/1809253123544102/",
+    "https://www.facebook.com/groups/1638444529751821/posts/4497124743883771/",
+    "https://www.facebook.com/visitcodango/posts/want-to-stop-talking-about-changing-the-world-and-actually-to-it-are-you-eager-t/491841817675774/",
+    "https://www.facebook.com/arthur.corsiez.1/",
+    "https://www.facebook.com/polaranalytics/posts/913800097219266/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Polaranalytics note 社長",
+   "results": [
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://x.com/sadaaki",
+    "https://diamond.jp/articles/-/388572",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://www.polaranalytics.com/",
+    "https://note.com/ai_shacho",
+    "https://online.nikkei-cnbc.co.jp/vod/58940",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.linkedin.com/in/david-dokes"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Polaranalytics X 投稿",
+   "results": [
+    "https://fr.linkedin.com/company/polaranalytics",
+    "https://www.polaranalytics.com/features/smart-alerts",
+    "https://www.powermyanalytics.com/connectors/x-analytics/",
+    "https://www.youtube.com/@polar-analytics",
+    "https://yespress.io/polar-analytics",
+    "https://x.com/polar_sh",
+    "https://sciencemediacentre.es/en/independent-research-shows-xs-twitters-algorithm-can-influence-political-polarisation",
+    "https://chromewebstore.google.com/detail/polaris-%E2%80%94-x-profile-analy/amdkhhpfgdfflmmcnapcnkbhfeajgbkf",
+    "https://www.smrfoundation.org/networks/x-twitter-analytics/",
+    "https://x.com/polar_analytics"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部24頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部24頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部24頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部24頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部24頁・検索12回）"
+ }
+}

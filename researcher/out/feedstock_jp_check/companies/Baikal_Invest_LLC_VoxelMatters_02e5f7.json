@@ -1,0 +1,452 @@
+{
+ "name": "Baikal-Invest LLC — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:materials;powder-manufacturer",
+ "researched_at": "2026-11-09T22:42:13.293728+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/consulting-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/about/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.group/support-3dpbm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.energyfixgroup.com/?goods/details/L002025885.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.instagram.com/popular/pokemon-golf-headcovers/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jpn.mizuno.com/shop/mizunoshop_shinsaibashi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.porsche.com/japan/jp/accessoriesandservice/vehicle-accessories/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aliexpress.us/item/3256809660336258.html?gatewayAdapt=jpn2usa4itemAdapt&_randl_shipto=US",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kkday.com/ja/product/804002?srsltid=AYCX9vLb29ztha5YJQY8ykBpHSblPxumOspy8x0lKn3rX4_Pb8n6eIch",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=9hDiiPCglcM",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/top-products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://voxelpla.com/?srsltid=AYCX9vIfd6eGgtnhf8J24dQd1IZyQn2gZY0VYswf9v_b4S0rTKe5Qges",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matterhackers.com/store?srsltid=AYCX9vLyFZyaI3iwnn3pMInzULNJSzeIqFJBYTdTHrWnbbo2MghQ8zA8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/consulting-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exone.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/consulting-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/methodology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E3%82%B5%E3%83%8B%E3%83%BC%E3%83%8F%E3%82%B0-%E5%AD%A6%E6%A0%A1%E6%A8%99%E6%BA%96%E4%BB%95%E6%A7%98%E3%81%A7%E6%8E%88%E6%A5%AD%E3%81%AB%E6%9C%80%E9%81%A9-%E3%82%B5%E3%83%A0%E3%83%9B%E3%83%BC%E3%83%AB%E4%BB%98%E3%81%8D%E3%81%A7%E6%89%8B%E3%81%AE%E7%94%B2%E3%81%BE%E3%81%A7%E3%82%AC%E3%83%BC%E3%83%89-%E3%83%95%E3%83%AB%E3%82%B8%E3%83%83%E3%83%97%E3%81%A7%E7%9D%80%E8%84%B1%E3%83%A9%E3%82%AF%E3%83%A9%E3%82%AF-%E6%B0%B4%E9%99%B8%E4%B8%A1%E7%94%A8%E3%81%A7%E6%99%AE%E6%AE%B5%E4%BD%BF%E3%81%84%E3%81%AB%E3%82%82%E6%9C%80%E9%81%A9/dp/B0C7TBQRSD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.amazon.co.jp/DURAXION-4%E3%82%A4%E3%83%B3%E3%83%81%E3%83%88%E3%83%AB%E3%82%AF%E3%83%AC%E3%83%B3%E3%83%81-%E5%B7%AE%E8%BE%BC%E8%A7%926-35-%E8%A6%8B%E3%82%84%E3%81%99%E3%81%84%E3%83%80%E3%83%96%E3%83%AB%E7%9B%AE%E7%9B%9B%E3%82%8A-%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%8F%96%E6%89%B1%E8%AA%AC%E6%98%8E%E6%9B%B8/dp/B0F5G5TBGM",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/WORKPRO-%E3%83%90%E3%83%AA%E3%82%AB%E3%83%B3%E5%88%88%E5%B9%85145mm-%E3%83%88%E3%83%AA%E3%83%9E%E3%83%BC%E5%88%88%E5%B9%85199mm-%E6%9C%80%E5%A4%A7%E5%88%87%E6%96%AD%E5%BE%848mm-Type-C%E5%85%85%E9%9B%BB%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E4%BB%98%E3%81%8D/dp/B0H1M5WNBS",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://corp.monotaro.com/ir/library/library_03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.monotaro.com/ir/stock_bond/stock_bond_03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/0726/1226/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/01437619/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baikalinvest.en.ec21.com/company_info.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en.movizor-info.ru/id/3155835",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.readyratios.com/profile/1173850038570_ooo-baykal-invest",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://companydata.com/company-revenue-lookup/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Baikal-Invest LLC — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.directory/company-category/consulting-services/",
+    "https://www.voxelmatters.com/about/contact/",
+    "https://www.voxelmatters.group/support-3dpbm/",
+    "https://www.voxelmatters.directory/company-category/3d-printing-consultancy/",
+    "https://www.exone.com/en/about-us/locations/",
+    "https://www.additivemanufacturing.media/suppliers?productIds=5699",
+    "https://www.youtube.com/watch?v=ir0GOUXozJk",
+    "https://beckatt.com/",
+    "https://www.volza.com/company-profile/llc-baikal-invest-41119009/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Baikal-Invest LLC — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://www.energyfixgroup.com/?goods/details/L002025885.html",
+    "https://www.instagram.com/popular/pokemon-golf-headcovers/",
+    "https://jpn.mizuno.com/shop/mizunoshop_shinsaibashi",
+    "https://www.porsche.com/japan/jp/accessoriesandservice/vehicle-accessories/",
+    "https://www.youtube.com/watch?v=7TK6NQo_2JY",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/",
+    "https://www.audemarspiguet.com/jp/ja/home"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Baikal-Invest LLC — VoxelMatters 日本 販売",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://ja.aliexpress.com/item/1005009846651010.html",
+    "https://www.kkday.com/ja/product/804002?srsltid=AYCX9vLb29ztha5YJQY8ykBpHSblPxumOspy8x0lKn3rX4_Pb8n6eIch",
+    "https://www.youtube.com/watch?v=9hDiiPCglcM",
+    "https://prtimes.jp/main/html/rd/p/000000006.000059279.html",
+    "https://news.infoseek.co.jp/article/prtimes_000000093_000126055/",
+    "https://www.cadjapan.com/news/2025/",
+    "https://www.youtube.com/watch?v=6M8csskWCcI&vl=ja",
+    "https://nextlabs.space/jp/products/14793611"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Baikal-Invest LLC — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.voxelmatters.com/top-products/",
+    "https://voxelpla.com/?srsltid=AYCX9vIfd6eGgtnhf8J24dQd1IZyQn2gZY0VYswf9v_b4S0rTKe5Qges",
+    "https://skhonpo.com/",
+    "https://www.matterhackers.com/store?srsltid=AYCX9vLyFZyaI3iwnn3pMInzULNJSzeIqFJBYTdTHrWnbbo2MghQ8zA8",
+    "https://www.youtube.com/watch?v=9hDiiPCglcM",
+    "https://www.poly-maker.jp/",
+    "https://shop.exmatelab.com/",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://www.amazon.co.jp/VOXELAB-3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-1-75mm-3D%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E7%B4%A0%E6%9D%90-3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC/dp/B08LV13THF",
+    "https://www.amazon.co.jp/b?node=4163274051"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Baikal-Invest LLC — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.directory/company-category/consulting-services/",
+    "https://www.voxelmatters.report/",
+    "https://www.exone.com/en/",
+    "https://ir.velo3d.com/news-events/press-releases/detail/44/velo3d-expands-into-japan-signs-distribution-agreement",
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://3dbiotek.com/dist_asia.aspx",
+    "https://x.com/VoxelMatters",
+    "https://www.voxelmatters.group/our-network/",
+    "https://japanesedistributors.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Baikal-Invest LLC — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.directory/company-category/consulting-services/",
+    "https://www.voxelmatters.report/methodology/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.voxelmatters.group/",
+    "https://www.raise3d.com/sales-partners-voice/japan-3d-printer-co-ltd-sales-partner-in-japan/",
+    "https://www.exone.com/en/about-us/locations/",
+    "https://3dbiotek.com/dist_asia.aspx",
+    "https://x.com/VoxelMatters",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:amazon.co.jp Baikal-Invest LLC — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/サニーハグ-学校標準仕様で授業に最適-サムホール付きで手の甲までガード-フルジップで着脱ラクラク-水陸両用で普段使いにも最適/dp/B0C7TBQRSD",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://www.amazon.co.jp/DURAXION-4インチトルクレンチ-差込角6-35-見やすいダブル目盛り-日本語取扱説明書/dp/B0F5G5TBGM",
+    "https://www.amazon.co.jp/WORKPRO-バリカン刈幅145mm-トリマー刈幅199mm-最大切断径8mm-Type-C充電ケーブル付き/dp/B0H1M5WNBS",
+    "https://www.amazon.co.jp/モバイルモニター-Dopesplay-15-6インチ-レザーケース一体型スタンド-MiniHDMI/dp/B0GLPSM4P9",
+    "https://www.amazon.co.jp/壽屋-KOTOBUKIYA-創彩少女庭園-小悪魔ツインテールちゃん-全高約153mm/dp/B0FTDM5JWL",
+    "https://www.amazon.co.jp/プレジデントFamily（ファミリー）2026年1月号（2026年冬号：「お金」の教室）-プレジデント社/dp/B0G2C6KJ14"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Baikal-Invest LLC — VoxelMatters",
+   "results": [
+    "https://corp.monotaro.com/ir/library/library_03.html",
+    "https://corp.monotaro.com/ir/stock_bond/stock_bond_03.html",
+    "https://www.monotaro.com/p/0726/1226/",
+    "https://www.monotaro.com/g/01437619/",
+    "https://www.monotaro.com/p/6484/1869/",
+    "https://www.monotaro.com/p/1664/6516/",
+    "https://www.monotaro.com/g/00262871/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Baikal-Invest LLC — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://baikalinvest.en.ec21.com/company_info.html",
+    "https://en.movizor-info.ru/id/3155835",
+    "https://www.readyratios.com/profile/1173850038570_ooo-baykal-invest",
+    "https://companydata.com/company-revenue-lookup/",
+    "https://www.volza.com/company-profile/llc-baikal-invest-41119009/",
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://www.dnb.com/business-directory/company-profiles.baikalinvest_ooo.f9a4c5171707820861d9e6d0a2dd61e3.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Baikal-Invest LLC — VoxelMatters",
+   "results": [
+    "https://note.com/weno29/n/nac75150a1676",
+    "https://note.com/cool_lilac7428/n/n0ce7705a5fc6",
+    "https://tales.note.com/",
+    "https://note.com/claudenote2/n/nee89acb7cda4",
+    "https://note.com/meditech_labo/n/n70d52c706bb0",
+    "https://note.com/takaoyama/n/n59a0ed421d5d",
+    "https://note.com/alive_frog5377/n/n4497d0540ab4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Baikal-Invest LLC — VoxelMatters",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Baikal-Invest LLC — VoxelMatters",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com Baikal-Invest LLC — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/baikalinvest/",
+    "https://www.facebook.com/baikalteallc/",
+    "https://www.facebook.com/VoxelMatters/posts/investment-in-full-colour-3d-printing-technology-has-opened-the-door-to-the-next/1101966769975447/",
+    "https://www.facebook.com/3dprintcom/posts/in-3dprinting-news-briefs-3dpbm-has-rebranded-to-voxelmatters-and-xaba-closed-a-/2229888943849297/",
+    "https://www.facebook.com/VoxelMatters/posts/fortify-receives-investment-from-lockheed-martin-ventures-to-accelerate-additive/582870930510626/",
+    "https://www.facebook.com/volgabaikal/posts/volga-baikal-agro-llc-the-leading-agriculture-project-development-group-is-offer/151207350020987/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Baikal-Invest LLC — VoxelMatters note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Baikal-Invest LLC — VoxelMatters X 投稿",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.voxelmatters.com/",
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://www.youtube.com/@voxelmatters",
+    "https://x.com/CK88X/status/2116112055379935699"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）"
+ }
+}
