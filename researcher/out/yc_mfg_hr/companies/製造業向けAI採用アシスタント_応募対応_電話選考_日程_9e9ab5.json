@@ -1,0 +1,1742 @@
+{
+ "name": "製造業向けAI採用アシスタント（応募対応・電話選考・日程）",
+ "en": "AI recruiter for hourly and manufacturing workers",
+ "aliases": [
+  "AI recruiting agent frontline",
+  "conversational hiring manufacturing",
+  "AI phone screening hourly workers",
+  "AI interviewer blue collar"
+ ],
+ "context": "AI",
+ "kind": "market",
+ "researched_at": "2026-11-09T11:56:38.354940+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "Recruiting Startups funded by Y Combinator (YC) 2026 | Y Combinator",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Recruiting Startups funded by Y Combinator (YC) 2026",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Browse 60 of the top Recruiting startups funded by Y Combinator.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "We also have a Startup Directory where you can",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Lantern is the agentic recruiting platform for enterprise.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "(2) Company Hiring Model, which learns your taste from every hiring decision you’ve ever made",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Lantern also launched OpenRouter for People (people.lantern.md), an agent-native infrastructure to empower agents to find, research, outreach to anyone in the world.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "dreach finds companies about to hire, restructuring, or switching MSP or VMS vendors, then gives you the decision maker's cell to call. your recruiters keep recruiting.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Contrario is an AI recruiting and hiring platform on a mission to help companies build generational teams.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "In under six months, Contrario has crossed $6M in annualized revenue, paid out $1M+ to recruiters, and placed 150+ candidates — making it one of the fastest-growing AI recruiting platforms on the market.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Backed by Y Combinator, Nexus Venture Partners, Goodwater Capital, and Inventum Ventures, alongside angels including David Chen (ex-HRT), Abhijeet Dwivedi (OpenAI), Hank Couture (DoorDash), and Jerry Cain (Stanford CS). Built by Stanford dropouts. Headquartered in San Francisco.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "We're past 1M+ interviews, integrate with 33+ ATS platforms, and 96% of candidates prefer interviewing with Alex. We're revenue-generating, well-funded, backed by premier investors, and are focused on enterprise customers: selling to VPs of Talent Acquisition, CHROs, and CFOs at large employers who are rethinking how hiring gets done at scale.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "AI-powered payroll, hr, and recruiting platform. Hire and scale teams easily in the US and globally.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "You can search live company, people, and jobs data via APIs and webhooks for 10x cheaper than People Data Labs, Explorium, Cognism, CoreSignal, and others. We have verified emails and phone numbers for 4x cheaper than Clay, Apollo, and ZoomInfo.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "We've helped enterprises like HubSpot, Agent AI, Ramp, and Docusign, as well as fast-growing startups like Flatfile, Karat, Centralize, and Fonzi, get the data they need to build novel AI sales, marketing, and recruiting products with differentiated features – for a fraction of the cost of other data vendors.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Recruiting and Talent Startups funded by Y Combinator (YC) 2026 | Y Combinator",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "Recruiting and Talent Startups funded by Y Combinator (YC) 2026",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "Browse 62 of the top Recruiting and Talent startups funded by Y Combinator.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "We also have a Startup Directory where you can",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "Saffron was founded by Robert Chondro (formerly MIT and Jane Street), Jerry Yao (Stanford and Jane Street), and Kazuma Choji (Harvey Mudd, published in NeurIPS and ICML), and is backed by Y Combinator (P26) and Afore Capital.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "Standout gives every talent and company an autonomous agent that represents them, assess the other side, and makes intros when it matters.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "Since starting YC, we’re already helping top startups like Giga, Corgi, LlamaIndex, Porter, and dozens more hire faster.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "We recently launched our recruiting agent Paul that provides each candidate white glove treatment so they're closed even before your offer call",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "Founder led hiring for London startups",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "Contrario is an AI recruiting and hiring platform on a mission to help companies build generational teams.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "In under six months, Contrario has crossed $6M in annualized revenue, paid out $1M+ to recruiters, and placed 150+ candidates — making it one of the fastest-growing AI recruiting platforms on the market.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "Backed by Y Combinator, Nexus Venture Partners, Goodwater Capital, and Inventum Ventures, alongside angels including David Chen (ex-HRT), Abhijeet Dwivedi (OpenAI), Hank Couture (DoorDash), and Jerry Cain (Stanford CS). Built by Stanford dropouts. Headquartered in San Francisco.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "Spott is the first AI-native ATS/CRM for recruiting & staffing firms. We built Spott because existing recruitment platforms require extensive manual work, are clunky to use, rely on fragmented add-ons, and are not designed for AI adoption.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "Lightscreen’s voice + video AI interviewer enables companies to identify and invest in genuinely skilled candidates. It's already being used by high-growth startups and recruiting agencies to screen technical candidates.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "We provide companies with a voicebot that can run a full-length technical interview, does smart interruptions, and multi-modal cheating detection. The AI provides the company rubric-based, rich candidate evaluation in minutes and can be fully customized to ask questions and evaluate based on the company's needs.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "The process begins with AI tools for bulk hiring designed for seasonal jobs. Through AI hiring software for seasonal jobs, candidates are guided by automated screening questions (AI) that confirm essentials such as location, availability, and certifications. Because gig workers often apply outside business hours,",
+    "url": "https://www.whippy.ai/blog/ai-recruiters-seasonal-gig-workforces-guide",
+    "pass": 3
+   },
+   {
+    "quote": "After matching, the platform moves directly to scheduling. AI scheduling & shift matching integrates live shift inventories, confirming coverage in real time. AI scheduling for seasonal employees adds reminders and rescheduling tools to reduce no-shows. This step is the practical answer to",
+    "url": "https://www.whippy.ai/blog/ai-recruiters-seasonal-gig-workforces-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Concerts, sports, and conventions depend on a revolving workforce. Events & venues seasonal staffing software and an AI hiring platform for gig economy roles qualify ushers, ticketing, and concessions staff instantly. Real-time confirmations reduce no-shows, while a smooth application process builds trust with job seekers, ensuring they return for future gigs.",
+    "url": "https://www.whippy.ai/blog/ai-recruiters-seasonal-gig-workforces-guide",
+    "pass": 3
+   },
+   {
+    "quote": "By contrast, an AI recruiter for seasonal workforce is a smart hiring platform built on artificial intelligence (AI). It executes core recruiting tasks in real time:",
+    "url": "https://www.whippy.ai/blog/ai-recruiters-seasonal-gig-workforces-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Seasonal and gig workers live on their phones. Relying on email alone risks delays and lost applicants. A smart hiring platform uses SMS recruiting automation for gig workers and WhatsApp recruiting automation to reach candidates instantly, while after-hours candidate engagement ensures no applicant slips through the cracks just because they applied at midnight.",
+    "url": "https://www.whippy.ai/blog/ai-recruiters-seasonal-gig-workforces-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Rolling out an AI recruiting platform for seasonal jobs doesn’t need to be a daunting project. With the right plan, most organizations can go from zero to fully functional in under three months. This phased approach helps align the hiring team, win buy-in from all team members, and set realistic milestones.",
+    "url": "https://www.whippy.ai/blog/ai-recruiters-seasonal-gig-workforces-guide",
+    "pass": 3
+   },
+   {
+    "quote": "By the end of 90 days, you’ll have a scalable, compliant, and efficient smart hiring platform in place. Instead of scrambling every season, your recruitment team will rely on proven, repeatable systems that minimize risk, reduce costs, and build long-term value.",
+    "url": "https://www.whippy.ai/blog/ai-recruiters-seasonal-gig-workforces-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Human Resources Startups funded by Y Combinator (YC) 2026 | Y Combinator",
+    "url": "https://www.ycombinator.com/companies/industry/human-resources",
+    "pass": 3
+   },
+   {
+    "quote": "Human Resources Startups funded by Y Combinator (YC) 2026",
+    "url": "https://www.ycombinator.com/companies/industry/human-resources",
+    "pass": 3
+   },
+   {
+    "quote": "Browse 68 of the top Human Resources startups funded by Y Combinator.",
+    "url": "https://www.ycombinator.com/companies/industry/human-resources",
+    "pass": 3
+   },
+   {
+    "quote": "We also have a Startup Directory where you can",
+    "url": "https://www.ycombinator.com/companies/industry/human-resources",
+    "pass": 3
+   },
+   {
+    "quote": "Rippling gives businesses one place to run HR, IT, and Finance. It brings together all of the workforce systems that are normally scattered across a company, like payroll, expenses, benefits, and computers. For the first time ever, you can manage and automate every part of the employee lifecycle in a single system.",
+    "url": "https://www.ycombinator.com/companies/industry/human-resources",
+    "pass": 3
+   },
+   {
+    "quote": "Launched in 2012 as ZenPayroll, Gusto serves more than 300,000 businesses nationwide. Each year we process tens of billions of dollars of payroll and provide employee benefits—like health insurance and 401(k) accounts—while helping companies create incredible work places.",
+    "url": "https://www.ycombinator.com/companies/industry/human-resources",
+    "pass": 3
+   },
+   {
+    "quote": "Through one refreshingly easy, integrated platform, we automate and simplify your payroll, benefits, and HR, all while providing expert support. You and your employees will get the peace of mind you need to do your best work.",
+    "url": "https://www.ycombinator.com/companies/industry/human-resources",
+    "pass": 3
+   },
+   {
+    "quote": "Spine runs benefits, payroll, and compliance for startups for free.",
+    "url": "https://www.ycombinator.com/companies/industry/human-resources",
+    "pass": 3
+   },
+   {
+    "quote": "30+ startups already use Spine to lower healthcare costs and take hours of back-office work off their teams. Learn more at joinspine.ai or email onur@joinspine.ai",
+    "url": "https://www.ycombinator.com/companies/industry/human-resources",
+    "pass": 3
+   },
+   {
+    "quote": "Lantern is the agentic recruiting platform for enterprise.",
+    "url": "https://www.ycombinator.com/companies/industry/human-resources",
+    "pass": 3
+   },
+   {
+    "quote": "(2) Company Hiring Model, which learns your taste from every hiring decision you’ve ever made",
+    "url": "https://www.ycombinator.com/companies/industry/human-resources",
+    "pass": 3
+   },
+   {
+    "quote": "Lantern also launched OpenRouter for People (people.lantern.md), an agent-native infrastructure to empower agents to find, research, outreach to anyone in the world.",
+    "url": "https://www.ycombinator.com/companies/industry/human-resources",
+    "pass": 3
+   },
+   {
+    "quote": "Sira is the AI-powered platform for managing time tracking, scheduling, payroll, and HR — purpose-built for hourly teams.",
+    "url": "https://www.ycombinator.com/companies/industry/human-resources",
+    "pass": 3
+   },
+   {
+    "quote": "ESOPs are a federal retirement plan that enable businesses to give their employees a stake in the company in exchange for significant tax benefits.",
+    "url": "https://www.ycombinator.com/companies/industry/human-resources",
+    "pass": 3
+   },
+   {
+    "quote": "Firstwork is a next-generation HR platform designed specifically for companies with dynamic workforce needs. Our mission is to streamline and automate key HR processes to help businesses operate more efficiently and effectively.",
+    "url": "https://www.ycombinator.com/companies/industry/human-resources",
+    "pass": 3
+   },
+   {
+    "quote": "AI Assistant Startups funded by Y Combinator (YC) 2026 | Y Combinator",
+    "url": "https://www.ycombinator.com/companies/industry/ai-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "AI Assistant Startups funded by Y Combinator (YC) 2026",
+    "url": "https://www.ycombinator.com/companies/industry/ai-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "Browse 146 of the top AI Assistant startups funded by Y Combinator.",
+    "url": "https://www.ycombinator.com/companies/industry/ai-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "We also have a Startup Directory where you can",
+    "url": "https://www.ycombinator.com/companies/industry/ai-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "Rezora IO is an AI voice platform for real estate and home services that answers, qualifies, and schedules every lead, automatically filling your calendar while you focus on closing.",
+    "url": "https://www.ycombinator.com/companies/industry/ai-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "Agencies using Covera go from lead to quote in 5 minutes, save 10 hours a week per user and win 20% more deals against competitors. Every action is reviewed by the agency team and logged for E&O. Works with Applied Epic, AMS360, QQCatalyst, HawkSoft, EZLynx, Momentum, Gmail and Outlook.",
+    "url": "https://www.ycombinator.com/companies/industry/ai-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "AI Passport is the first layer of that infrastructure. It brings the context you generate across AI assistants and everyday apps into one portable profile you control. Tell ChatGPT something and Claude can already know it, for example. Switch to a new product and it can understand you from the first interaction, without the new company needing to own the underlying data.",
+    "url": "https://www.ycombinator.com/companies/industry/ai-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "Userlens is building the AI product adoption expert. Our goal is to help every user at every company get more value from the product they already use.",
+    "url": "https://www.ycombinator.com/companies/industry/ai-assistant",
+    "pass": 3
+   }
+  ],
+  "YC・出資": [
+   {
+    "quote": "Recruiting Startups funded by Y Combinator (YC) 2026 | Y Combinator",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Recruiting Startups funded by Y Combinator (YC) 2026",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Browse 60 of the top Recruiting startups funded by Y Combinator.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Backed by Y Combinator, Nexus Venture Partners, Goodwater Capital, and Inventum Ventures, alongside angels including David Chen (ex-HRT), Abhijeet Dwivedi (OpenAI), Hank Couture (DoorDash), and Jerry Cain (Stanford CS). Built by Stanford dropouts. Headquartered in San Francisco.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "We're past 1M+ interviews, integrate with 33+ ATS platforms, and 96% of candidates prefer interviewing with Alex. We're revenue-generating, well-funded, backed by premier investors, and are focused on enterprise customers: selling to VPs of Talent Acquisition, CHROs, and CFOs at large employers who are rethinking how hiring gets done at scale.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "- Company data API (B2B company data, company database, company lookup, company information, firmographic data, firmographics, headcount data, funding data, technographic data, revenue data, intent data)",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Juicebox has raised $116M in funding, including a $30M Series A led by Sequoia Capital and an $80M Series B led by DST Global. NFDG lead out seed round, and additional investors include Y Combinator, Coatue, BOND, Lux Capital, Verified Capital, and Committed Capital.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "We are well funded and backed by great investors, including Y Combinator, Elad Gil, and Lachy Groom. We'll share more once we meet!",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "We're funded by YCombinator, Expa, Village Global, and SHL Capital.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "To date, we’ve raised ~$1.5M from investors including Y Combinator, Entrepreneur First, world-class Venture Capital funds and industry leaders.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Successfully matched 4000+ companies, including 400+ YC startups, with their talents who completed over 14 000 projects in the app.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Founded by two nurses. Backed by YC, Flare Capital, Liquid 2, Fresco, Augment, Crista Galli, Adam Grant, and the founders of CareRev, Clipboard Health, and Papa.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Backed by top-tier investors including Craft and YCombinator, we're a mission-driven team working to democratize the job search and disrupt the way hiring works today.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Join over 200 companies, like Coinbase,Truepill, Vanta, and other YC companies that have hired with Howdy to build their tech outpost in Latin America.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "NowPay enables employees to get their salaries in advance at any point in time during the month and also pay their bills instantly. NowPay is backed by 500 Startups, Beco Capital, Endure, Plug and Play, MSA Capital, 4dx, Foundation Ventures, EFG and Beltone and has raised 3.7m USD so far.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Recruiting and Talent Startups funded by Y Combinator (YC) 2026 | Y Combinator",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "Recruiting and Talent Startups funded by Y Combinator (YC) 2026",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "Browse 62 of the top Recruiting and Talent startups funded by Y Combinator.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "Saffron was founded by Robert Chondro (formerly MIT and Jane Street), Jerry Yao (Stanford and Jane Street), and Kazuma Choji (Harvey Mudd, published in NeurIPS and ICML), and is backed by Y Combinator (P26) and Afore Capital.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "Since starting YC, we’re already helping top startups like Giga, Corgi, LlamaIndex, Porter, and dozens more hire faster.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "Backed by Y Combinator, Nexus Venture Partners, Goodwater Capital, and Inventum Ventures, alongside angels including David Chen (ex-HRT), Abhijeet Dwivedi (OpenAI), Hank Couture (DoorDash), and Jerry Cain (Stanford CS). Built by Stanford dropouts. Headquartered in San Francisco.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "We're past 1M+ interviews, integrate with 33+ ATS platforms, and 96% of candidates prefer interviewing with Alex. We're revenue-generating, well-funded, backed by premier investors, and are focused on enterprise customers: selling to VPs of Talent Acquisition, CHROs, and CFOs at large employers who are rethinking how hiring gets done at scale.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "Juicebox has raised $116M in funding, including a $30M Series A led by Sequoia Capital and an $80M Series B led by DST Global. NFDG lead out seed round, and additional investors include Y Combinator, Coatue, BOND, Lux Capital, Verified Capital, and Committed Capital.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "We are well funded and backed by great investors, including Y Combinator, Elad Gil, and Lachy Groom. We'll share more once we meet!",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "We're funded by YCombinator, Expa, Village Global, and SHL Capital.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "Total amount raised : $10M (Series A)",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "Join over 200 companies, like Coinbase,Truepill, Vanta, and other YC companies that have hired with Howdy to build their tech outpost in Latin America.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "At Emi Labs (YC '19) we are on a mission to increase frontline workers' access to",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "Dover went through Y Combinator in 2019, and today 500+ companies use our product to run a better hiring process. We've raised $23M from top VCs.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "YouTeam has helped more than 60 YC startups hire top-notch engineers they couldn't find elsewhere.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "These capabilities are critical for AI for hourly workforce recruiting and AI for frontline worker recruiting, where churn and no-shows are highest. These improvements drive the operational ROI of AI recruiting for seasonal jobs over successive cycles.",
+    "url": "https://www.whippy.ai/blog/ai-recruiters-seasonal-gig-workforces-guide",
+    "pass": 3
+   },
+   {
+    "quote": "ensures applicants get instant responses instead of waiting for a recruiter. This reduces drop-off and accelerates pipelines during peak cycles like AI recruiting for holiday staffing.",
+    "url": "https://www.whippy.ai/blog/ai-recruiters-seasonal-gig-workforces-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Seasonal hiring cycles repeat every year, but without good data, employers start from scratch each time. That’s where instrumentation matters. With ATS writeback, every interaction is stored as structured transcripts inside your applicant tracking systems, giving recruiters and managers an audit-ready view of communications and decisions.",
+    "url": "https://www.whippy.ai/blog/ai-recruiters-seasonal-gig-workforces-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Beyond compliance, these records feed into predictive hiring analytics that identify patterns in applicant drop-off, attendance rates, and re-hire potential. Over time, the recruitment team can refine their strategy, anticipating bottlenecks and proactively adjusting workflows for smoother cycles.",
+    "url": "https://www.whippy.ai/blog/ai-recruiters-seasonal-gig-workforces-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Build lasting talent pipelines for future hiring cycles, transforming seasonal recruiting from a scramble into a repeatable recruiting strategy.",
+    "url": "https://www.whippy.ai/blog/ai-recruiters-seasonal-gig-workforces-guide",
+    "pass": 3
+   },
+   {
+    "quote": "NYC Local Law 144: Whippy's Independent Bias Audit",
+    "url": "https://www.whippy.ai/blog/ai-recruiters-seasonal-gig-workforces-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Human Resources Startups funded by Y Combinator (YC) 2026 | Y Combinator",
+    "url": "https://www.ycombinator.com/companies/industry/human-resources",
+    "pass": 3
+   },
+   {
+    "quote": "Human Resources Startups funded by Y Combinator (YC) 2026",
+    "url": "https://www.ycombinator.com/companies/industry/human-resources",
+    "pass": 3
+   },
+   {
+    "quote": "Browse 68 of the top Human Resources startups funded by Y Combinator.",
+    "url": "https://www.ycombinator.com/companies/industry/human-resources",
+    "pass": 3
+   },
+   {
+    "quote": "Rippling gives businesses one place to run HR, IT, and Finance. It brings together all of the workforce systems that are normally scattered across a company, like payroll, expenses, benefits, and computers. For the first time ever, you can manage and automate every part of the employee lifecycle in a single system.",
+    "url": "https://www.ycombinator.com/companies/industry/human-resources",
+    "pass": 3
+   },
+   {
+    "quote": "Based in San Francisco, CA, Rippling has raised $1.2B from the world’s top investors—including Kleiner Perkins, Founders Fund, Sequoia, Greenoaks and Bedrock.",
+    "url": "https://www.ycombinator.com/companies/industry/human-resources",
+    "pass": 3
+   },
+   {
+    "quote": "Our technical co-founders, Rubén, Vladimir, and Sebastián, bring vast HR industry experience. HoyTrabajas is supported by Rebel Fund, Alan Rutledge, Kube Ventures, Flucas VC, Magic Fund, New Ventures, Y Combinator (w22), and more.",
+    "url": "https://www.ycombinator.com/companies/industry/human-resources",
+    "pass": 3
+   },
+   {
+    "quote": "MindFi is an app that reduces burnout and improves mental health for employees. We sell to companies in Asia such as Deutsche Bank, KPMG, PatSnap, Visa. The team is headquartered in Singapore and consists of Bjorn, (ex-Zendesk product manager), psychologist Anita Sadasivan (UMich alum, ex-Raffles Hospital), Leon 2X startup founder with 2 exits and Gangeshwar, an award-winning AI engineer.",
+    "url": "https://www.ycombinator.com/companies/industry/human-resources",
+    "pass": 3
+   },
+   {
+    "quote": "To date, we’ve raised ~$1.5M from investors including Y Combinator, Entrepreneur First, world-class Venture Capital funds and industry leaders.",
+    "url": "https://www.ycombinator.com/companies/industry/human-resources",
+    "pass": 3
+   },
+   {
+    "quote": "We've raised $20 million in VC funding to date. Investors include major Tech players such as Lachy Groom; Slack founder Stewart Butterfield; Shopify founder Tobias Lütke; Figma Founder Dylan Field; Linkedin ex-CEO Jeff Weiner; Stripe COO Claire Johnson; Y Combinator; Moonfire; Frontline Ventures; Exor and more.",
+    "url": "https://www.ycombinator.com/companies/industry/human-resources",
+    "pass": 3
+   },
+   {
+    "quote": "We’re a high-growth tech company changing the retirement industry. We’ve raised $500M and are backed by leading investors. Most recently, by funding from BlackRock as well as many other top investors: TPG (The Rise Fund) with SoftBank led our Series D, Glynn Capital, NewView Capital, USVP, Wing, Uncork, and others.",
+    "url": "https://www.ycombinator.com/companies/industry/human-resources",
+    "pass": 3
+   },
+   {
+    "quote": "AI Assistant Startups funded by Y Combinator (YC) 2026 | Y Combinator",
+    "url": "https://www.ycombinator.com/companies/industry/ai-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "AI Assistant Startups funded by Y Combinator (YC) 2026",
+    "url": "https://www.ycombinator.com/companies/industry/ai-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "Browse 146 of the top AI Assistant startups funded by Y Combinator.",
+    "url": "https://www.ycombinator.com/companies/industry/ai-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "Roma is the to-do list that does itself. Two of our three founders have been through YC before: Jan built Loom (W12, acquired by Dropbox) and Tobi built Senic (S13, acquired by Gira).",
+    "url": "https://www.ycombinator.com/companies/industry/ai-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "An adaptive training coach to help runners, cyclists, and triathletes set and achieve goals. It adapts your training, recovery, and nutrition to how your body is actually responding.",
+    "url": "https://www.ycombinator.com/companies/industry/ai-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "Most teams still rely on onboarding flows, lifecycle emails, support docs, and reactive CSM outreach. Userlens breaks that ceiling. Lumi watches how users actually use your product, spots when they’re ready for the next feature, workflow, or habit, and nudges them at exactly the right moment.",
+    "url": "https://www.ycombinator.com/companies/industry/ai-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "Backed by Y Combinator, 14 Peaks, Cohen Circle and strategic angels such as CFO Fedex, Board Member TA Associates, COO Deel and more.",
+    "url": "https://www.ycombinator.com/companies/industry/ai-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "Each workspace powered by endOS, giving you a familiar channel-based experience augmented by a real desktop environment. The desktop is backed by Linux and ships with a built-in Chrome browser. Files, notes, browser tabs, native apps, terminal, and all your agents in a single beautiful, unified interface.",
+    "url": "https://www.ycombinator.com/companies/industry/ai-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "Fewer no-shows, faster fills, and less manual recruiter work should show up in the numbers within the first full hiring cycle, not just in the sales pitch.",
+    "url": "https://www.whippy.ai/blog/best-ai-recruiting-software-industrial-staffing",
+    "pass": 3
+   },
+   {
+    "quote": ", a leading wire and cable manufacturer with over 1,000 employees, was facing familiar hiring challenges: long requisition cycles, overworked recruiters, and limited visibility for hiring managers. Manual processes slowed sourcing and onboarding, hurting productivity.",
+    "url": "https://www.phenom.com/blog/ai-vs-automation-manufacturing-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "That’s why 340,000 HR pros and 95% of the Fortune 500 turn to SHRM for expert-backed guidance, tools, and trusted answers.",
+    "url": "https://www.shrm.org/topics-tools/flagships/ai-hi/conversational-ai-transforms-recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Make informed decisions quickly with expert-backed direction",
+    "url": "https://www.shrm.org/topics-tools/flagships/ai-hi/conversational-ai-transforms-recruiting",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Clodo is the planet's best people discovery. Used in GTM, Recruiting, Marketing, and Ops at AI Natives, B2Bs, and Fortune 500s in SaaS, Manufacturing/Industrials, BioTech, Healthcare, Fintech, Compliance, and more",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Peoplebox.ai is an AI-native talent platform used by 500+ companies to hire, manage, and grow their people.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Airwork is an on-demand labor marketplace for premium blue collar workers. You can get an Airworker the same way you get an Uber, except instead of a taxi, someone shows up at your work site to work for the day.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Airwork fills 98% of shifts in 2 hours. We're currently live in 8 industries across Southern Ontario, Canada, and customers include Tesla, the Toronto Pearson Airport, and the CNE.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Our customers include Massachusetts General Hospital, Penn Medicine, ChristianaCare, Stepful, Medical Solutions, Medline, Jaanuu, and Proliability.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "PowerUs helps skilled blue-collar workers like electricians and mechanics to find better full-time jobs. With only 10 minutes of effort, our users get job offers that pay them up to 50% more than they are making today.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "At Emi Labs (YC '19) we are on a mission to increase frontline workers' access to",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "professional opportunities by building the infrastructure for Frontline Workers (check our",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "manifesto here: https://www.linkedin.com/pulse/our-manifesto-building-infrastructure-frontline-workers-emi-labs/). As our first step, we are transforming the high-volume recruiting",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "process of Frontline Workers to make it as simple, human, and fair as possible for both",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Some of their customers include Walmart, Burger King, Starbucks, 7-Eleven, Danone, Imperfect Foods, and Heineken.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Lightscreen’s voice + video AI interviewer enables companies to identify and invest in genuinely skilled candidates. It's already being used by high-growth startups and recruiting agencies to screen technical candidates.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "Airwork is an on-demand labor marketplace for premium blue collar workers. You can get an Airworker the same way you get an Uber, except instead of a taxi, someone shows up at your work site to work for the day.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "Airwork fills 98% of shifts in 2 hours. We're currently live in 8 industries across Southern Ontario, Canada, and customers include Tesla, the Toronto Pearson Airport, and the CNE.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "At Emi Labs (YC '19) we are on a mission to increase frontline workers' access to",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "professional opportunities by building the infrastructure for Frontline Workers (check our",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "manifesto here: https://www.linkedin.com/pulse/our-manifesto-building-infrastructure-frontline-workers-emi-labs/). As our first step, we are transforming the high-volume recruiting",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "process of Frontline Workers to make it as simple, human, and fair as possible for both",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "Some of their customers include Walmart, Burger King, Starbucks, 7-Eleven, Danone, Imperfect Foods, and Heineken.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "We have hundreds of fully qualified and experienced contractors in Information Security, Cloud Security, Privacy and Compliance available at competitive hourly rates.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "Instawork is the on-demand staffing app for hourly workers and hospitality businesses. Our vision is to create economic opportunity for local businesses and professionals, globally. Workers need a better way to find great local jobs and businesses need a better way to find quality workers fast.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "These capabilities are critical for AI for hourly workforce recruiting and AI for frontline worker recruiting, where churn and no-shows are highest. These improvements drive the operational ROI of AI recruiting for seasonal jobs over successive cycles.",
+    "url": "https://www.whippy.ai/blog/ai-recruiters-seasonal-gig-workforces-guide",
+    "pass": 3
+   },
+   {
+    "quote": "fill openings across stores/warehouses; handle swaps and call-outs.",
+    "url": "https://www.whippy.ai/blog/ai-recruiters-seasonal-gig-workforces-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Sira is the AI-powered platform for managing time tracking, scheduling, payroll, and HR — purpose-built for hourly teams.",
+    "url": "https://www.ycombinator.com/companies/industry/human-resources",
+    "pass": 3
+   },
+   {
+    "quote": "Peoplebox.ai is an AI-native talent platform used by 500+ companies to hire, manage, and grow their people.",
+    "url": "https://www.ycombinator.com/companies/industry/human-resources",
+    "pass": 3
+   },
+   {
+    "quote": "Vinco helps companies in Latin America pay for blue-collar employees’ online education. We do this by connecting employees to accessible programs (like High School, College, and Language Courses) and in turn, improve employee retention by at least 2x.",
+    "url": "https://www.ycombinator.com/companies/industry/human-resources",
+    "pass": 3
+   },
+   {
+    "quote": "We use Payroll data to build a credit profile of 300 Million+ blue-collar workers and improve access to financial products.",
+    "url": "https://www.ycombinator.com/companies/industry/human-resources",
+    "pass": 3
+   },
+   {
+    "quote": "We've raised $20 million in VC funding to date. Investors include major Tech players such as Lachy Groom; Slack founder Stewart Butterfield; Shopify founder Tobias Lütke; Figma Founder Dylan Field; Linkedin ex-CEO Jeff Weiner; Stripe COO Claire Johnson; Y Combinator; Moonfire; Frontline Ventures; Exor and more.",
+    "url": "https://www.ycombinator.com/companies/industry/human-resources",
+    "pass": 3
+   },
+   {
+    "quote": "Nestor is trusted by HR and people leaders in mid-to-large enterprises, including F500 companies, across the US, Latin America, Europe, and the Middle East.",
+    "url": "https://www.ycombinator.com/companies/industry/human-resources",
+    "pass": 3
+   },
+   {
+    "quote": "The earbuds use our proprietary voice isolation to capture your voice clearly anywhere, whether that’s a loud pub, a factory floor or a busy street. That means clear calls and dictation/transcription you can trust.",
+    "url": "https://www.ycombinator.com/companies/industry/ai-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "Sidekick is an AI agent that runs custom manufacturing operations over text. Workers text a problem, photo, video, or voice memo and get an answer from the shop's own documents. It reads live machine data and acts on its own: flagging issues before they become downtime, opening and routing work orders, and placing purchase orders. No app, no login.",
+    "url": "https://www.ycombinator.com/companies/industry/ai-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "Bravi helps manufacturers of windows, doors, and other home improvement products turn fragmented technical and commercial data into tools their teams can use instantly.",
+    "url": "https://www.ycombinator.com/companies/industry/ai-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "Bravi is already live with leading installers and manufacturers across Europe and the US, turning missed demand into revenue.",
+    "url": "https://www.ycombinator.com/companies/industry/ai-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "Clodo is the planet's best people discovery. Used in GTM, Recruiting, Marketing, and Ops at AI Natives, B2Bs, and Fortune 500s in SaaS, Manufacturing/Industrials, BioTech, Healthcare, Fintech, Compliance, and more",
+    "url": "https://www.ycombinator.com/companies/industry/ai-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "assistant-ui helps frontend developers add AI chat to their apps. Our product is used by several dozen companies, like LangChain, Stack AI, Browser Use, and Athena Intelligence. We're building an open source Typescript/React library and a backend as a service, with first class integrations into popular agent frameworks like LangGraph and Vercel AI SDK.",
+    "url": "https://www.ycombinator.com/companies/industry/ai-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "Vortexify is an AI app builder for full-stack, internal business apps. Businesses such as manufacturers, hospitals and logistics services use Vortexify to solve complex, operational problems such as scheduling, process optimization, forecasting, root cause analysis and scenario planning.",
+    "url": "https://www.ycombinator.com/companies/industry/ai-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "Nine minutes. That's roughly how long a warehouse candidate stays engaged after tapping \"apply\" before checking the next listing on their phone. If your recruiting process can't respond inside that window, in the language the candidate actually speaks, on the channel they actually check, you're not losing a resume. You're losing a shift.",
+    "url": "https://www.whippy.ai/blog/best-ai-recruiting-software-industrial-staffing",
+    "pass": 3
+   },
+   {
+    "quote": "Whippy's published case study",
+    "url": "https://www.whippy.ai/blog/best-ai-recruiting-software-industrial-staffing",
+    "pass": 3
+   },
+   {
+    "quote": "As AI staffing agency software, Whippy functions as a platform for recruiters and staffing teams that need to move fast across multiple sites at once, whether that's a single warehouse or a",
+    "url": "https://www.whippy.ai/blog/best-ai-recruiting-software-industrial-staffing",
+    "pass": 3
+   },
+   {
+    "quote": "Light industrial staffing agencies feel this most during peak season, when a distribution center's applicant flow can outpace a recruiting team's capacity to even open every file, let alone respond to each one individually. This is where an AI recruiter for warehouse jobs earns its keep, since the volume problem is really a speed problem in disguise.",
+    "url": "https://www.whippy.ai/blog/best-ai-recruiting-software-industrial-staffing",
+    "pass": 3
+   },
+   {
+    "quote": "Geographically, the pattern holds nationwide. Industrial staffing services in NJ and industrial staffing in Nashville, Tennessee face the same core problem as any manufacturing recruitment software buyer: high applicant volume, multilingual candidate pools, and shift schedules that shift daily. The market changes by region. The software requirements largely don't.",
+    "url": "https://www.whippy.ai/blog/best-ai-recruiting-software-industrial-staffing",
+    "pass": 3
+   },
+   {
+    "quote": "Q: Does AI recruiting software actually reduce turnover in warehouse and logistics staffing?",
+    "url": "https://www.whippy.ai/blog/best-ai-recruiting-software-industrial-staffing",
+    "pass": 3
+   },
+   {
+    "quote": "AI vs Automation in Manufacturing Recruitment",
+    "url": "https://www.phenom.com/blog/ai-vs-automation-manufacturing-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "AI vs. Automation in Manufacturing Recruitment: How to Hire Smarter, Faster, and at Scale",
+    "url": "https://www.phenom.com/blog/ai-vs-automation-manufacturing-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing is facing a persistent talent shortage — not just in volume, but in process readiness.",
+    "url": "https://www.phenom.com/blog/ai-vs-automation-manufacturing-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "According to the National Association of Manufacturers",
+    "url": "https://www.phenom.com/blog/ai-vs-automation-manufacturing-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": ", 2.1 million jobs could go unfilled by 2030 due to widening skills gaps. Hiring teams are under pressure to fill critical, shift-based roles across distributed plants — all while managing tight compliance, variable workflows, and low digital adoption.",
+    "url": "https://www.phenom.com/blog/ai-vs-automation-manufacturing-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "Underutilized tools that fail to support frontline workers and shift-based teams",
+    "url": "https://www.phenom.com/blog/ai-vs-automation-manufacturing-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "In this blog, we’ll explore why manufacturing hiring is uniquely complex, and how AI and automation helps manufacturers bridge this gap by pairing automation for execution with AI for strategic insight, tailored to the needs of high-volume, shift-based, and deskless workforces.",
+    "url": "https://www.phenom.com/blog/ai-vs-automation-manufacturing-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Recruitment Landscape",
+    "url": "https://www.phenom.com/blog/ai-vs-automation-manufacturing-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "In manufacturing recruitment, speed alone isn’t enough — especially when hiring must factor in technical skills, shift availability, safety compliance, and multilingual engagement. That’s why it’s essential to understand the distinct roles of AI, automation, and the human in the loop.",
+    "url": "https://www.phenom.com/blog/ai-vs-automation-manufacturing-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "Recruiters and hiring managers apply judgment, empathy, and relationship-building — especially in nuanced scenarios like union interactions, career path conversations, or frontline role prioritization.",
+    "url": "https://www.phenom.com/blog/ai-vs-automation-manufacturing-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "Driving Talent Success in Manufacturing and Transportation Industries",
+    "url": "https://www.phenom.com/blog/ai-vs-automation-manufacturing-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "AI-Powered Solutions for Manufacturing HR",
+    "url": "https://www.phenom.com/blog/ai-vs-automation-manufacturing-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "In manufacturing, Phenom AI helps recruiters and hiring managers focus where it matters — identifying best-fit talent, delivering personalized experiences, and planning ahead with confidence. Here’s how Phenom AI capabilities streamline hiring without removing human judgment.",
+    "url": "https://www.phenom.com/blog/ai-vs-automation-manufacturing-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "adapt in real time based on each visitor’s location, behavior, and past searches. A technician logging in from Pune sees nearby maintenance roles and plant-specific content up front — reducing bounce rates and increasing conversions across high-volume hiring needs.",
+    "url": "https://www.phenom.com/blog/ai-vs-automation-manufacturing-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "guides candidates through job discovery, screening, scheduling, and FAQs — using conversational AI that supports multiple languages and 24/7 availability. Ideal for frontline and shift-based roles, it lets a late-shift candidate explore openings and book an interview without recruiter intervention.",
+    "url": "https://www.phenom.com/blog/ai-vs-automation-manufacturing-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "The company hires 20,000 to 25,000 people each year, including manufacturing and production workers, technicians, salespeople, and mechanics.",
+    "url": "https://www.shrm.org/topics-tools/flagships/ai-hi/conversational-ai-transforms-recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "In another example, the company “lacked a strategy to recruit for manufacturing roles before Paradox because there was a time when we didn’t support plant hiring,” he said. “Once Paradox was embedded in the hiring process, we gained insight into that population.”",
+    "url": "https://www.shrm.org/topics-tools/flagships/ai-hi/conversational-ai-transforms-recruiting",
+    "pass": 3
+   }
+  ],
+  "日本での展開": [
+   {
+    "quote": "For companies expanding nationally, we help clinicians obtain and maintain licenses across multiple states, manage Medicare, Medicaid, and commercial payer enrollment, and provide collaborative physician and supervision solutions for advanced practice providers. We also help manage clinician availability and scheduling so organizations can align provider capacity with patient demand.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Software can drive it too: a CLI, a socket API, and a plugin marketplace that passed 500 community plugins in its first month. The runtime is Apache-2.0 and stays open. Four months after launch: 25k GitHub stars, 340k downloads.",
+    "url": "https://www.ycombinator.com/companies/industry/ai-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "Light industrial staffing agencies feel this most during peak season, when a distribution center's applicant flow can outpace a recruiting team's capacity to even open every file, let alone respond to each one individually. This is where an AI recruiter for warehouse jobs earns its keep, since the volume problem is really a speed problem in disguise.",
+    "url": "https://www.whippy.ai/blog/best-ai-recruiting-software-industrial-staffing",
+    "pass": 3
+   },
+   {
+    "quote": "Phenom automates repetitive tasks, freeing recruiters for strategic candidate conversations. Thus increasing the requisition capacity.",
+    "url": "https://www.phenom.com/blog/ai-vs-automation-manufacturing-recruitment",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Backed by Y Combinator, Nexus Venture Partners, Goodwater Capital, and Inventum Ventures, alongside angels including David Chen (ex-HRT), Abhijeet Dwivedi (OpenAI), Hank Couture (DoorDash), and Jerry Cain (Stanford CS). Built by Stanford dropouts. Headquartered in San Francisco.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Fiber AI is the freshest data APIs for AI sales, recruiting, & growth products, with the freshest data on 40M+ companies, 850M+ people, and 30M+ jobs.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "You can search live company, people, and jobs data via APIs and webhooks for 10x cheaper than People Data Labs, Explorium, Cognism, CoreSignal, and others. We have verified emails and phone numbers for 4x cheaper than Clay, Apollo, and ZoomInfo.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Our Bulk API Search lets builders integrate uncapped, advanced API searches deeply into their product. Search through 40M+ companies, 850M+ people, and 30M+ jobs with advanced filtering for 10x cheaper than People Data Labs, Crustdata, Cognism, and others.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "API endpoints nobody else has. We have novel API endpoints that you won't find on People Data Labs, Cognism, Crustdata, Explorium, or anywhere else, to:",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Fiber AI's APIs have been live for 3+ years, and we've helped 100s of enterprises and startups rip and replace their data providers.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Fiber AI is a B2B data API provider and data broker for AI sales tools, AI recruiting platforms, AI marketing products, and growth teams.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "- Bulk API search for companies, people, and jobs data (uncapped API searches, search API, company search API, people search API, person API, jobs search API, contact search)",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "- Email API and emails API (email finder, email lookup, bulk email finder, email address finder, email addresses, work email, work emails, business email, business emails, email list, email database)",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "- Phone API (phone finder, phone lookup, phone number finder, phone numbers, mobile number, mobile numbers, mobile phone, direct dial, direct dials)",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "- Reverse email lookup API (email to person, reverse lookup, email enrichment, contact enrichment, lead enrichment, CRM enrichment, enrich)",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "- Email verification API (email validation, email verification, email deliverability, bounce detection, email bounce)",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "- Phone verification API (phone validation, phone verification, verified phone, verified phones)",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "- Contact API and contacts API (contact data, contact lookup, contact finder, contact information, B2B contacts, B2B contact, verified contact, verified contacts)",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "- Real-time LinkedIn data API (LinkedIn company data, LinkedIn profile data, LinkedIn profiles, LinkedIn scraper, LinkedIn scraping, LinkedIn export, Sales Navigator, Sales Navigator export)",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Saffron was founded by Robert Chondro (formerly MIT and Jane Street), Jerry Yao (Stanford and Jane Street), and Kazuma Choji (Harvey Mudd, published in NeurIPS and ICML), and is backed by Y Combinator (P26) and Afore Capital.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "Backed by Y Combinator, Nexus Venture Partners, Goodwater Capital, and Inventum Ventures, alongside angels including David Chen (ex-HRT), Abhijeet Dwivedi (OpenAI), Hank Couture (DoorDash), and Jerry Cain (Stanford CS). Built by Stanford dropouts. Headquartered in San Francisco.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "Juicebox has raised $116M in funding, including a $30M Series A led by Sequoia Capital and an $80M Series B led by DST Global. NFDG lead out seed round, and additional investors include Y Combinator, Coatue, BOND, Lux Capital, Verified Capital, and Committed Capital.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "We're funded by YCombinator, Expa, Village Global, and SHL Capital.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "Due to increasing competition in the space, French payroll engines have just opened their APIs. This allows us to offer a unified payroll and HR solution, which wasn't possible before.",
+    "url": "https://www.ycombinator.com/companies/industry/human-resources",
+    "pass": 3
+   },
+   {
+    "quote": "CompUp is an API-driven compensation benchmarking tool. We integrate with your existing HR/payroll systems, removing the need for manual data entry, and also getting updated in real-time.",
+    "url": "https://www.ycombinator.com/companies/industry/human-resources",
+    "pass": 3
+   },
+   {
+    "quote": "To date, we’ve raised ~$1.5M from investors including Y Combinator, Entrepreneur First, world-class Venture Capital funds and industry leaders.",
+    "url": "https://www.ycombinator.com/companies/industry/human-resources",
+    "pass": 3
+   },
+   {
+    "quote": "Therify is an inclusive mental health benefit for companies. Through our web platform, employees access culturally responsive therapists, live community sessions, and self-guided content to support their emotional well-being.",
+    "url": "https://www.ycombinator.com/companies/industry/human-resources",
+    "pass": 3
+   },
+   {
+    "quote": "Humaans is a next generation HRIS supporting globally distributed organisations. Powered by a flexible data model, deep integrations, fast APIs, and enriched by AI, Humaans removes manual work, reduce compliance risk and enhance your employee experience. Humaans reduces ongoing administrative work by 65% and onboarding time by an average of 55%.",
+    "url": "https://www.ycombinator.com/companies/industry/human-resources",
+    "pass": 3
+   },
+   {
+    "quote": "We’re a high-growth tech company changing the retirement industry. We’ve raised $500M and are backed by leading investors. Most recently, by funding from BlackRock as well as many other top investors: TPG (The Rise Fund) with SoftBank led our Series D, Glynn Capital, NewView Capital, USVP, Wing, Uncork, and others.",
+    "url": "https://www.ycombinator.com/companies/industry/human-resources",
+    "pass": 3
+   },
+   {
+    "quote": "Software can drive it too: a CLI, a socket API, and a plugin marketplace that passed 500 community plugins in its first month. The runtime is Apache-2.0 and stays open. Four months after launch: 25k GitHub stars, 340k downloads.",
+    "url": "https://www.ycombinator.com/companies/industry/ai-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "decuff is an API for uncensored AI. We serve abliterated open-source models at scale with zero data retention: direct answers, no refusals, no lectures. AI is a tool that should do what you ask. Start building at decuff.ai.",
+    "url": "https://www.ycombinator.com/companies/industry/ai-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "Omnara is an open-source, model-agnostic control plane for managed agents. One API to deploy, run, and control them. Self-host it, or use our managed cloud.",
+    "url": "https://www.ycombinator.com/companies/industry/ai-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "Dexto makes it easy for developers to integrate AI agents into any software application. We do this by exposing agents as simple APIs that can be called from anywhere. Developers have used Dexto to add customer support agents into WhatsApp and analytics agents into Slack.",
+    "url": "https://www.ycombinator.com/companies/industry/ai-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "Rebolt is the AI operating platform for aircraft maintenance. Its agents work on top of the maintenance and engineering (M&E), ERP systems and OEM portals operators already run, performing the work of engineers and planners. Works for Base, Line, Engines, and Components maintenance teams.",
+    "url": "https://www.ycombinator.com/companies/industry/ai-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "Vortexify builds applications beyond simple dashboards with native support for databases, scheduled tasks, optimization solvers, machine learning models, data pipelines, API calls and more. Our secure, managed infrastructure enables our agents to build quickly and get it right the first time.",
+    "url": "https://www.ycombinator.com/companies/industry/ai-assistant",
+    "pass": 3
+   }
+  ],
+  "売上・規模": [
+   {
+    "quote": "In under six months, Contrario has crossed $6M in annualized revenue, paid out $1M+ to recruiters, and placed 150+ candidates — making it one of the fastest-growing AI recruiting platforms on the market.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "We're past 1M+ interviews, integrate with 33+ ATS platforms, and 96% of candidates prefer interviewing with Alex. We're revenue-generating, well-funded, backed by premier investors, and are focused on enterprise customers: selling to VPs of Talent Acquisition, CHROs, and CFOs at large employers who are rethinking how hiring gets done at scale.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "- Company data API (B2B company data, company database, company lookup, company information, firmographic data, firmographics, headcount data, funding data, technographic data, revenue data, intent data)",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Teams at Ramp, Notion, and leading AI labs use Juicebox to power their hiring, alongside 5,000+ customers from early-stage startups to Fortune 500 companies.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "We’re on the path to $100M in ARR with 20%+ monthly growth, powering thousands of searches every day and making Juicebox one of the fastest-growing AI SaaS companies in the world. In 2026, Juicebox was named to Forbes’ Next Billion-Dollar Startups list and LinkedIn’s Top Startups list.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Airwork fills 98% of shifts in 2 hours. We're currently live in 8 industries across Southern Ontario, Canada, and customers include Tesla, the Toronto Pearson Airport, and the CNE.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Careerist is an ed-fintech platform that trains job seekers for tech careers (in QA, Sales, Support & more), finances them and automates their job hunting. Our B2B2C platform aggregates job seekers, tutors and employers – streamlining training and placement.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Through our flagship product, Copilot, we've helped over 1M+ job seekers discover and apply to over 100 million jobs - and we've done this with a tight-knit team of just 7 people. We're rapidly expanding on both the candidate and recruiter fronts, focused on our vision of building a common app and personal AI agent for your career.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Some of their customers include Walmart, Burger King, Starbucks, 7-Eleven, Danone, Imperfect Foods, and Heineken.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Dover's ATS is a lightweight but powerful applicant tracking system built for busy founders and hiring managers. It’s as easy to use as a spreadsheet but includes everything you need to manage your first 100 hires — without the bloat of traditional ATS platforms. Hundreds of companies use Dover’s free tools to streamline their hiring process and stay in control as they grow.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Over 26 million developers have joined the HackerRank Community to learn and certify their skills, practice interviewing, and discover relevant jobs.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "In under six months, Contrario has crossed $6M in annualized revenue, paid out $1M+ to recruiters, and placed 150+ candidates — making it one of the fastest-growing AI recruiting platforms on the market.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "We're past 1M+ interviews, integrate with 33+ ATS platforms, and 96% of candidates prefer interviewing with Alex. We're revenue-generating, well-funded, backed by premier investors, and are focused on enterprise customers: selling to VPs of Talent Acquisition, CHROs, and CFOs at large employers who are rethinking how hiring gets done at scale.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "Teams at Ramp, Notion, and leading AI labs use Juicebox to power their hiring, alongside 5,000+ customers from early-stage startups to Fortune 500 companies.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "We’re on the path to $100M in ARR with 20%+ monthly growth, powering thousands of searches every day and making Juicebox one of the fastest-growing AI SaaS companies in the world. In 2026, Juicebox was named to Forbes’ Next Billion-Dollar Startups list and LinkedIn’s Top Startups list.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "Airwork fills 98% of shifts in 2 hours. We're currently live in 8 industries across Southern Ontario, Canada, and customers include Tesla, the Toronto Pearson Airport, and the CNE.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "- It is 100% private : Neither you, nor us, see any private information about the user. So you carry no liabilities. No risk of your database getting hacked.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "Some of their customers include Walmart, Burger King, Starbucks, 7-Eleven, Danone, Imperfect Foods, and Heineken.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "Dover's ATS is a lightweight but powerful applicant tracking system built for busy founders and hiring managers. It’s as easy to use as a spreadsheet but includes everything you need to manage your first 100 hires — without the bloat of traditional ATS platforms. Hundreds of companies use Dover’s free tools to streamline their hiring process and stay in control as they grow.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "Over 26 million developers have joined the HackerRank Community to learn and certify their skills, practice interviewing, and discover relevant jobs.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "pass": 3
+   },
+   {
+    "quote": "Thousands of businesses across America like Bob's Red Mill, Harpoon Brewery, and Recology already have an ESOP, benefiting over 14 million workers and creating 2.1 trillion in employee wealth. We're excited about the opportunity to massively grow these numbers by making it simple for every business to become employee owned.",
+    "url": "https://www.ycombinator.com/companies/industry/human-resources",
+    "pass": 3
+   },
+   {
+    "quote": "(1) Smart Onboarding 📋: Our platform simplifies the onboarding process by automating the collection and verification of credentials, such as right-to-work documents, insurance forms and driver’s licenses. This reduces administrative burden and accelerates the time-to-productivity for new hires.",
+    "url": "https://www.ycombinator.com/companies/industry/human-resources",
+    "pass": 3
+   },
+   {
+    "quote": "(2) AI-Assisted Activation 🤖: Leveraging AI, we enhance communication and messaging for new hires, ensuring they receive timely and relevant information. This helps in better engagement and faster integration into their roles.",
+    "url": "https://www.ycombinator.com/companies/industry/human-resources",
+    "pass": 3
+   },
+   {
+    "quote": "Disclo is the first software for employers to collect, verify, and manage health disclosures and employee accommodation requests (HIPAA and SOC2 compliant, of course).",
+    "url": "https://www.ycombinator.com/companies/industry/human-resources",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2020 and based in London, UK, Happl works with some of the UK’s leading employers to bring their hybrid working culture to life!",
+    "url": "https://www.ycombinator.com/companies/industry/human-resources",
+    "pass": 3
+   },
+   {
+    "quote": "Advantage Club is a global platform for employee engagement including rewards, flexible benefits, perks and communities. We are currently live with 1000+ companies across 100+ countries and have a ARR of ~$8m. Our revenue has grown ~4x in the last 1 year.",
+    "url": "https://www.ycombinator.com/companies/industry/human-resources",
+    "pass": 3
+   },
+   {
+    "quote": "Salarybox is a payroll app for small businesses in India. There are 63 Million small businesses in India and 90% still manage payroll manually. Today, business owners manage attendance on pen-paper; calculate salary on excel and pay employees in cash.",
+    "url": "https://www.ycombinator.com/companies/industry/human-resources",
+    "pass": 3
+   },
+   {
+    "quote": "We use Payroll data to build a credit profile of 300 Million+ blue-collar workers and improve access to financial products.",
+    "url": "https://www.ycombinator.com/companies/industry/human-resources",
+    "pass": 3
+   },
+   {
+    "quote": "We've raised $20 million in VC funding to date. Investors include major Tech players such as Lachy Groom; Slack founder Stewart Butterfield; Shopify founder Tobias Lütke; Figma Founder Dylan Field; Linkedin ex-CEO Jeff Weiner; Stripe COO Claire Johnson; Y Combinator; Moonfire; Frontline Ventures; Exor and more.",
+    "url": "https://www.ycombinator.com/companies/industry/human-resources",
+    "pass": 3
+   },
+   {
+    "quote": "In 2016, we set out on a mission to make 100 million employees heard and valued. Today we’re Asia’s leading employee experience platform that helps engage employees, predict attrition & answer FAQs with conversational AI that people love ❤️",
+    "url": "https://www.ycombinator.com/companies/industry/human-resources",
+    "pass": 3
+   },
+   {
+    "quote": "To do this, we believe it needs to be 1. proactive and 2. personal. A billion people already carry the right device, but none of them have the right connector.",
+    "url": "https://www.ycombinator.com/companies/industry/ai-assistant",
+    "pass": 3
+   },
+   {
+    "quote": "put that to the test inside its own Avionté ATS: candidate response time dropped to under five minutes, completed screenings rose to 80 percent, and the firm avoided the cost of 15 additional hires in the process.",
+    "url": "https://www.whippy.ai/blog/best-ai-recruiting-software-industrial-staffing",
+    "pass": 3
+   },
+   {
+    "quote": "One technical piece worth defining plainly: 10DLC (10-Digit Long Code) is the carrier-mandated registration system for U.S. businesses sending SMS from standard phone numbers. Any serious SMS recruiting for industrial jobs program needs to run through a properly registered 10DLC number, or messages risk being filtered as spam before a candidate ever sees them.",
+    "url": "https://www.whippy.ai/blog/best-ai-recruiting-software-industrial-staffing",
+    "pass": 3
+   },
+   {
+    "quote": "put a number on that: after replacing its sourcing team with Whippy's AI agents, the firm cut applicant screening costs by 96 percent within 30 days and now saves $1.64 million a year, a result that held as automation expanded into onboarding and payroll, not just the first screening call.",
+    "url": "https://www.whippy.ai/blog/best-ai-recruiting-software-industrial-staffing",
+    "pass": 3
+   },
+   {
+    "quote": ", 2.1 million jobs could go unfilled by 2030 due to widening skills gaps. Hiring teams are under pressure to fill critical, shift-based roles across distributed plants — all while managing tight compliance, variable workflows, and low digital adoption.",
+    "url": "https://www.phenom.com/blog/ai-vs-automation-manufacturing-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "The company hires 20,000 to 25,000 people each year, including manufacturing and production workers, technicians, salespeople, and mechanics.",
+    "url": "https://www.shrm.org/topics-tools/flagships/ai-hi/conversational-ai-transforms-recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "The use of conversational AI has led to a 14% increase in hires and an incredible 98% decrease in candidate response time, Aronson said. “Time-to-fill is at an all-time low, due to an upgraded technology ecosystem that includes programmatic job distribution, recruitment marketing, and conversational AI.”",
+    "url": "https://www.shrm.org/topics-tools/flagships/ai-hi/conversational-ai-transforms-recruiting",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "Agencies using Covera go from lead to quote in 5 minutes, save 10 hours a week per user and win 20% more deals against competitors. Every action is reviewed by the agency team and logged for E&O. Works with Applied Epic, AMS360, QQCatalyst, HawkSoft, EZLynx, Momentum, Gmail and Outlook.",
+    "url": "https://www.ycombinator.com/companies/industry/ai-assistant",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/vahan",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/perfectly",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/y-combinator_walter-yc-p26-is-an-ai-employee-for-the-activity-7468693156348452865-Thbh",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reddit.com/r/singularity/comments/1ixvqyc/from_a_nowdeleted_tweet_from_ycombinator_a/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/jinjingliang_i-talked-to-30-yc-companies-about-how-they-activity-7418713558076801024-DCd0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/y-combinator_prism-yc-p26-is-an-ai-native-recruiting-activity-7462215458650427392-c6y7",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.whippy.ai/blog/ai-recruiters-seasonal-gig-workforces-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/industry/human-resources",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/industry/recruiting/san-francisco-bay-area",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/ultra/jobs/SVLN1F9-head-of-people",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/industry/ai-assistant",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/walter",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/nox-metals/jobs/0TsVTWN-recruiter",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tracker-rms.com/blog/ai-recruiting-for-manufacturing-sector/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.whippy.ai/blog/best-ai-recruiting-software-industrial-staffing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hirevue.com/solutions/industrial-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.phenom.com/blog/ai-vs-automation-manufacturing-recruitment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shrm.org/topics-tools/flagships/ai-hi/conversational-ai-transforms-recruiting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.staffingindustry.com/news/global-daily-news/belgian-recruitment-ai-startup-spott-raises-21m-to-expand-ai-capabilities",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.crunchbase.com/job-market/work-related-startup-funding-hr-ai-freelance-gig/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/startups/comments/1iuoux0/an_ai_recruiting_startup_raised_100m_at_a_2b/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/cnbc/posts/ai-hiring-startup-mercor-announced-100-million-in-a-series-b-funding-round-reach/1028028515865208/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://joinraised.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hiringthing.com/white-label-ats/discovery/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x0pa.com/white-label-recruiting-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matchnapply.ai/blog/white-label-recruiting-software-staffing-agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.humanly.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hirelab.io/white-label-ats-recruitment-agencies-what-to-look-for-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morganmckinley.com/article/how-ai-trends-have-changed-hiring-in-japan-expert-insights",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oecd.org/en/publications/artificial-intelligence-and-the-labour-market-in-japan_b825563e-en/full-report/ai-use-in-the-japanese-workplace_faf178d2.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/JapanJobs/comments/1uqogsv/i_did_some_digging_and_found_out_nearly_half_of/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/1787554141308655/posts/29266379799666052/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://home.hireplanner.com/ai-agent-automatic-job-posting-in-japan/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "AI recruiter for hourly and manufacturing workers Y Combinator",
+   "results": [
+    "https://www.ycombinator.com/companies/industry/recruiting",
+    "https://www.ycombinator.com/companies/vahan",
+    "https://www.ycombinator.com/companies/perfectly",
+    "https://www.linkedin.com/posts/y-combinator_walter-yc-p26-is-an-ai-employee-for-the-activity-7468693156348452865-Thbh",
+    "https://www.reddit.com/r/singularity/comments/1ixvqyc/from_a_nowdeleted_tweet_from_ycombinator_a/",
+    "https://www.ycombinator.com/companies/asendia-ai",
+    "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "https://www.linkedin.com/posts/y-combinator_ashby-injects-recruiting-with-a-dose-of-ai-activity-7203427057228292097-TGt0",
+    "https://www.ycombinator.com/companies/alex-com",
+    "https://www.ycombinator.com/companies/contrario"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "AI recruiter for hourly and manufacturing workers YC startup",
+   "results": [
+    "https://www.ycombinator.com/companies/industry/recruiting",
+    "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "https://www.ycombinator.com/companies/perfectly",
+    "https://www.linkedin.com/posts/jinjingliang_i-talked-to-30-yc-companies-about-how-they-activity-7418713558076801024-DCd0",
+    "https://www.linkedin.com/posts/y-combinator_prism-yc-p26-is-an-ai-native-recruiting-activity-7462215458650427392-c6y7",
+    "https://www.reddit.com/r/singularity/comments/1ixvqyc/from_a_nowdeleted_tweet_from_ycombinator_a/",
+    "https://www.whippy.ai/blog/ai-recruiters-seasonal-gig-workforces-guide",
+    "https://www.ycombinator.com/companies/industry/human-resources",
+    "https://www.tracker-rms.com/blog/ai-recruiting-for-manufacturing-sector/",
+    "https://www.campelolabs.com/yc/ai-for-recruiting"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:ycombinator.com/companies AI recruiter for hourly and manufacturing workers",
+   "results": [
+    "https://www.ycombinator.com/companies/industry/recruiting",
+    "https://www.ycombinator.com/companies/industry/human-resources",
+    "https://www.ycombinator.com/companies/industry/recruiting/san-francisco-bay-area",
+    "https://www.ycombinator.com/companies/ultra/jobs/SVLN1F9-head-of-people",
+    "https://www.ycombinator.com/companies/industry/ai-assistant",
+    "https://www.ycombinator.com/companies/walter",
+    "https://www.ycombinator.com/companies/nox-metals/jobs/0TsVTWN-recruiter",
+    "https://www.ycombinator.com/companies/industry/ai/new-york/hiring",
+    "https://www.ycombinator.com/companies/industry/job-and-career-services",
+    "https://www.ycombinator.com/companies/industry/manufacturing"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "AI recruiter for hourly and manufacturing workers manufacturing customers case study",
+   "results": [
+    "https://www.tracker-rms.com/blog/ai-recruiting-for-manufacturing-sector/",
+    "https://www.whippy.ai/blog/best-ai-recruiting-software-industrial-staffing",
+    "https://www.hirevue.com/solutions/industrial-manufacturing",
+    "https://www.phenom.com/blog/ai-vs-automation-manufacturing-recruitment",
+    "https://www.shrm.org/topics-tools/flagships/ai-hi/conversational-ai-transforms-recruiting",
+    "https://hireez.com/blog/manufacturing-recruitment-strategies/",
+    "https://www.hirin.ai/case-study/",
+    "https://www.classet.ai/case-studies",
+    "https://employmenthero.com/en-ca/blog/ai-in-manufacturing/",
+    "https://www.blucor.ai/case-studies"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "AI recruiter for hourly and manufacturing workers startup raises funding",
+   "results": [
+    "https://www.staffingindustry.com/news/global-daily-news/belgian-recruitment-ai-startup-spott-raises-21m-to-expand-ai-capabilities",
+    "https://news.crunchbase.com/job-market/work-related-startup-funding-hr-ai-freelance-gig/",
+    "https://www.reddit.com/r/startups/comments/1iuoux0/an_ai_recruiting_startup_raised_100m_at_a_2b/",
+    "https://www.facebook.com/cnbc/posts/ai-hiring-startup-mercor-announced-100-million-in-a-series-b-funding-round-reach/1028028515865208/",
+    "https://joinraised.com/",
+    "https://www.humanly.io/blog/humanly-raises-25m-series-b-ai-hiring-platform",
+    "https://www.secondtalent.com/resources/top-ai-recruiting-startups-usa/",
+    "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "https://www.youtube.com/watch?v=vtdPX5alH2o",
+    "https://hrtechfeed.com/humanly-raises-25m-series-b-to-help-companies-hire-faster-retain-and-stay-fully-staffed/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "AI recruiter for hourly and manufacturing workers white label OR reseller OR partner program",
+   "results": [
+    "https://www.whippy.ai/blog/best-ai-recruiting-software-industrial-staffing",
+    "https://www.hiringthing.com/white-label-ats/discovery/",
+    "https://x0pa.com/white-label-recruiting-software/",
+    "https://www.matchnapply.ai/blog/white-label-recruiting-software-staffing-agencies",
+    "https://www.tracker-rms.com/blog/ai-recruiting-for-manufacturing-sector/",
+    "https://www.humanly.io/",
+    "https://hirelab.io/white-label-ats-recruitment-agencies-what-to-look-for-2026/",
+    "https://www.reddit.com/r/recruitinghell/comments/1kl14c0/is_this_a_scam_anyone_follow_up_with_providing/",
+    "https://www.youtube.com/watch?v=Y-l_-CAmJ2c",
+    "https://www.mycompanyworks.com/reseller"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "AI recruiter for hourly and manufacturing workers Japan",
+   "results": [
+    "https://www.morganmckinley.com/article/how-ai-trends-have-changed-hiring-in-japan-expert-insights",
+    "https://www.oecd.org/en/publications/artificial-intelligence-and-the-labour-market-in-japan_b825563e-en/full-report/ai-use-in-the-japanese-workplace_faf178d2.html",
+    "https://www.reddit.com/r/JapanJobs/comments/1uqogsv/i_did_some_digging_and_found_out_nearly_half_of/",
+    "https://www.facebook.com/groups/1787554141308655/posts/29266379799666052/",
+    "https://www.tracker-rms.com/blog/ai-recruiting-for-manufacturing-sector/",
+    "https://home.hireplanner.com/ai-agent-automatic-job-posting-in-japan/",
+    "https://headhunt.ai/en/ai-recruiting-handbook.html",
+    "https://www.herohunt.ai/recruitment-agency-countries/japan/",
+    "https://www.aiglobal-japan.com/en/staffing.php",
+    "https://getraffi.ai/recruiting/in/japan"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 製造業向けAI採用アシスタント（応募対応・電話選考・日程）",
+   "results": [
+    "https://note.com/kigyokakushin/n/n9a593b8dbf8b",
+    "https://note.com/jack4manastalk/n/n880406135053",
+    "https://note.com/mudnesspartners/n/n5c2cc334eb1d",
+    "https://note.com/mikanvoller/n/n4ccb4f381715",
+    "https://note.com/asialink/n/na2b49a26c323",
+    "https://note.com/nettsu0830/n/nc8e84e08db2e",
+    "https://note.com/receptionist/n/n39672a87ae1d",
+    "https://note.com/jony_fujimura/n/nf69e8ac3915f",
+    "https://note.com/kanyake_san/n/n8aa6ff537042",
+    "https://note.com/careertabi/n/nf4240fce16b1"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 製造業向けAI採用アシスタント（応募対応・電話選考・日程）",
+   "results": [
+    "https://x.com/dxschooljp",
+    "https://x.com/iwate_u_career",
+    "https://x.com/k_oshimoto",
+    "https://x.com/lush_people",
+    "https://x.com/hellowork_kita",
+    "https://x.com/mands_com",
+    "https://x.com/crabankai",
+    "https://x.com/kurokensu",
+    "https://x.com/msjapanam",
+    "https://x.com/kuro_sho"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com 製造業向けAI採用アシスタント（応募対応・電話選考・日程）",
+   "results": [
+    "https://jp.linkedin.com/in/yuki-hijiya-1722a8245/en",
+    "https://jp.linkedin.com/in/rie-mogamiya",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E5%8D%83%E8%91%89%EF%BC%8F%E6%9C%AA%E7%B5%8C%E9%A8%93%E3%83%BB%E6%AD%A3%E7%A4%BE%E5%93%A1%E7%B5%8C%E9%A8%93%E3%81%AA%E3%81%97ok%E3%80%91%E7%AE%A1%E7%90%86%E7%B3%BB%E3%82%A2%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88%E2%97%87%E6%A5%AD%E7%95%8C%E5%A4%A7%E6%89%8B%E2%97%87%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E4%BD%93%E5%88%B6%E5%85%85%E5%AE%9F%E2%97%8E%E5%9B%BD%E5%AE%B6%E8%B3%87%E6%A0%BC%E3%81%8C%E5%8F%96%E5%BE%97%E5%8F%AF-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4479898944",
+    "https://jp.linkedin.com/jobs/view/%EF%BC%9C%E8%8B%B1%E8%AA%9E%E5%8A%9B%E3%82%92%E6%B4%BB%E3%81%8B%E3%81%99%EF%BC%9E%E3%80%90%E6%96%B0%E5%A4%A7%E9%98%AA%E3%80%91%E5%96%B6%E6%A5%AD%E4%BA%8B%E5%8B%99%E2%97%86%E6%9D%B1%E8%A8%BC%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E4%B8%8A%E5%A0%B4%EF%BC%8Fglobal%E9%9B%BB%E5%AD%90%E9%83%A8%E5%93%81%E5%95%86%E7%A4%BE%E3%80%81%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4472766681",
+    "https://aq.linkedin.com/jobs/view/%E6%B3%95%E4%BA%BA%E5%96%B6%E6%A5%AD%EF%BC%8F%E3%83%AB%E3%83%BC%E3%83%88%E5%96%B6%E6%A5%AD%E3%83%A1%E3%82%A4%E3%83%B3%EF%BC%8F%E6%9C%AA%E7%B5%8C%E9%A8%93ok%EF%BC%8F%E5%B9%B3%E6%97%A5%E3%81%AE%E3%81%BF%EF%BC%8F%E6%9C%8824%E4%B8%87%E5%8F%AF-at-%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%9A%E3%83%AB%E3%83%96%E3%83%AA%E3%82%A2%E3%83%B3%EF%BC%88%E6%A0%AA%EF%BC%89-4465697615",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E5%A4%A7%E9%98%AA%E3%80%91%E5%8F%97%E6%B3%A8%E3%83%BB%E5%A3%B2%E6%8E%9B%E6%A5%AD%E5%8B%99%E9%83%A8%E9%96%80%E3%81%AE%E6%A5%AD%E5%8B%99%E5%8A%B9%E7%8E%87%E5%8C%96%E3%83%BBdx%E6%8E%A8%E9%80%B2%E2%97%86rpa%E3%82%84vba%E7%B5%8C%E9%A8%93%E8%80%85%E6%AD%93%E8%BF%8E%EF%BC%8F%E6%A5%AD%E7%95%8C%E7%B5%8C%E9%A8%93%E4%B8%8D%E5%95%8F-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4486411726",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E6%B8%8B%E8%B0%B7%E2%97%87%E6%9C%AA%E7%B5%8C%E9%A8%93%E6%AD%93%E8%BF%8E%E3%80%91%E5%96%B6%E6%A5%AD%E4%BA%8B%E5%8B%99%E2%97%86%E5%B9%B4%E5%8F%8E456%E4%B8%87%EF%BD%9E%E2%97%86%E5%AE%8C%E5%85%A8%E9%80%B1%E4%BC%912%E6%97%A5%E5%88%B6%E2%97%86%E8%BB%A2%E5%8B%A4%E3%81%AA%E3%81%97%E2%97%86%E6%A5%AD%E5%8B%99%E6%94%B9%E5%96%84%E3%81%A7%E3%83%81%E3%83%BC%E3%83%A0%E8%B2%A2%E7%8C%AE%E2%97%8E-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4485208436",
+    "https://jp.linkedin.com/jobs/view/%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%99%E3%83%BC%E3%82%B9%E3%83%BB%E3%83%95%E3%83%BC%E3%83%89%E3%83%99%E3%83%BC%E3%82%B9%E3%83%BB%E3%83%9E%E3%83%BC%E3%83%81%E3%83%A3%E3%83%B3%E3%83%80%E3%82%A4%E3%82%BA%E3%83%99%E3%83%BC%E3%82%B9-at-universal-studios-japan-usj-llc-4484802882",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E6%96%B0%E5%AE%BF-%E7%AC%AC2%E5%8D%92%E6%AD%93%E8%BF%8E%E3%80%91%E5%BD%B9%E5%93%A1%E7%A7%98%E6%9B%B8%E8%A3%9C%E4%BD%90%E2%80%BB%E8%8B%B1%E8%AA%9E%E5%8A%9B%E3%82%92%E6%B4%BB%E3%81%8B%E3%81%9B%E3%82%8B%E2%97%86%E5%B9%B4%E4%BC%91120%E6%97%A5%EF%BC%8F%E5%9C%9F%E6%97%A5%E7%A5%9D%E4%BC%91%EF%BC%8F%E5%89%B5%E6%A5%AD78%E5%B9%B4%E3%81%AE%E6%97%AD%E8%88%88%E7%94%A3g-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4485209250",
+    "https://jp.linkedin.com/jobs/view/production-coordinator%EF%BD%9C%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%8D%E3%83%BC%E3%82%BF%E3%83%BC-at-bsi-merch-artist-services-4478854152"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:facebook.com 製造業向けAI採用アシスタント（応募対応・電話選考・日程）",
+   "results": [
+    "https://www.facebook.com/JAPANTENSYOKU/posts/%E3%83%9B%E3%83%86%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95%E8%8B%B1%E8%AA%9E%E6%B4%BB%E7%94%A8%E5%B9%B4%E3%81%AB1%E5%BA%A61%E9%80%B1%E9%96%93%E3%81%AE%E4%BC%91%E6%9A%87%E3%82%92%E6%8E%A8%E5%A5%A8%E3%81%93%E3%81%AE%E6%B1%82%E4%BA%BA%E3%81%AB%E3%81%94%E8%88%88%E5%91%B3%E3%81%82%E3%82%8B%E6%96%B9%E3%81%AF-%E3%81%93%E3%81%A1%E3%82%89%E3%81%8B%E3%82%89%E7%94%B3%E3%81%97%E8%BE%BC%E3%81%BF%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84-%E5%8B%9F%E9%9B%86%E8%81%B7%E7%A8%AE%E4%BC%9A%E7%A4%BE%E3%81%AE%E7%A8%AE%E9%A1%9E%E5%A4%A7%E6%89%8B%E4%BC%81%E6%A5%AD%E5%8B%A4%E5%8B%99%E5%BD%A2%E6%85%8B%E6%AD%A3%E7%A4%BE%E5%93%A1%E5%8B%A4%E5%8B%99%E5%9C%B0%E6%9D%B1%E4%BA%AC23/509730569581572/",
+    "https://www.facebook.com/groups/2331380300417020/",
+    "https://www.facebook.com/mayuka.takano.9/",
+    "https://www.facebook.com/groups/isa.global/",
+    "https://www.facebook.com/p/Labo103-100030791603450/",
+    "https://www.facebook.com/No.1.Recruit/posts/こんにちは今回はno1ビジネスサポートのオプションメニューである採用アシスタントについてご紹介いたします当サービスはno1ビジネスサポートの専任スタッフが企業様/953932939770229/",
+    "https://www.facebook.com/hitachisystems.jp/posts/株式会社日立インダストリアルプロダクツ様-製造業向けアシスタントai導入事例人手不足技術者の高齢化など製造業を取り巻く構造的な課題に対し当社は製造現場の複雑な業/1503670095053963/",
+    "https://www.facebook.com/reel/1132412869007716/",
+    "https://www.facebook.com/talentandassessment/photos/対話型ai面接サービスshainの導入企業が800社を突破しました-おかげさまでのべ受検者数は123万人超となり新卒のほか中途アルバイト近年では社内昇格昇進など/1327444782720559/",
+    "https://www.facebook.com/reel/2315238668967938/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "製造業向けAI採用アシスタント（応募対応・電話選考・日程） note 社長",
+   "results": [
+    "https://note.com/ripla_business/n/n309ddef93e4e",
+    "https://note.com/shiny_ixia5849/n/n4322331d173f",
+    "https://crien.jp/blog/posts/hr-ai-recruitment",
+    "https://bluecollar.jp/contents/column/ai-applicant-response",
+    "https://note.com/leadstar/n/n79b8b1359f77",
+    "https://www.r-agent.com/viewjob/jk7e758e233c3b360d/",
+    "https://genai-ai.co.jp/ai-kanri/blog/cc-saiyo-gyomu-koritsu/",
+    "https://note.com/seizou_chiba/n/n15be7f7260ac",
+    "https://ai-mensetsu.jp/ai-interview/ai-interview-matome/",
+    "https://note.com/ai__worker/n/n9730b6b02f1b"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "製造業向けAI採用アシスタント（応募対応・電話選考・日程） X 投稿",
+   "results": [
+    "https://bluecollar.jp/contents/column/ai-applicant-response",
+    "https://crien.jp/blog/posts/hr-ai-recruitment",
+    "https://www.x-hack.jp/service",
+    "https://media.work-talk.jp/airecruiter/",
+    "https://lp.acejob.jp/article/chatgpt-recruitment-prompt",
+    "https://www.career-cloud.asia/",
+    "https://www.stepai.co.jp/hr-recruiting",
+    "https://ivry.jp/column/phone-manner-hiringmanager/",
+    "https://www.comdec.jp/comdeclab/kintone-ai-51/",
+    "https://horiemon.ai/school/column/saiyo-obosha-taio-jidoka/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "AI recruiter for hourly and manufacturing workers site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/christopher-johnson-2800019",
+    "https://www.linkedin.com/pulse/next-phase-ai-recruiting-helping-frontline-teams-stay-prem-kumar-yhpjc",
+    "https://www.linkedin.com/company/hcmgpt",
+    "https://www.linkedin.com/top-content/future-of-work/recruiting-for-remote-positions/how-to-use-ai-in-remote-recruitment/",
+    "https://www.linkedin.com/posts/erikanillesplumlee_in-recruiting-there-are-plenty-of-opinions-activity-7515918064098398209-fszb",
+    "https://www.linkedin.com/in/lorilynngraham",
+    "https://www.linkedin.com/top-content/recruitment-hr/using-ai-in-recruitment/ai-tools-that-help-recruiters-save-time/",
+    "https://www.linkedin.com/in/heather-harris-00b226116",
+    "https://www.linkedin.com/business/talent/blog/talent-acquisition/gai-prompts-for-recruiters",
+    "https://www.linkedin.com/pulse/top-6-ai-recruitment-agencies-2026-christian-timbers-z7xof"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {}
+}

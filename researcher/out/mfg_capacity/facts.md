@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・279品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・282品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -14365,6 +14365,208 @@
   - 「2024-06」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
   - 「2023-12」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
 - 人手と仕事の差：記載なし（読んだ25頁・検索18回）
+
+## 毎月勤労統計調査 全国 年報 製造業 規模5人以上・30人以上 現金給与総額の表（県の概要ページでなく厚労省の長期時系列表・e-Stat の表・site:mhlw.go.jp・site:e-stat.go.jp・4-41・4-128）（Monthly Labour Survey national annual manufacturing total cash earnings by establishment size long-term time series table）
+- 文脈：給与・人件費
+- 10年推移：
+  - 「Policy Research Institute, Ministry of Finance, Japan, Public Policy Review, Vol.13, No.2, October 2017 183」（https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf）
+  - 「the Ministry of Finance. In the FY2015 survey, proﬁt distributions to which large ﬁrms」（https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf）
+  - 「Policy Research Institute, Ministry of Finance, Japan, Public Policy Review, Vol.13, No.2, October 2017 185」（https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf）
+  - 「4 Ito, Dejima and Kinoshita (2015) uses data from the Basic Survey of Japanese Business Structure」（https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf）
+  - 「Policy Research Institute, Ministry of Finance, Japan, Public Policy Review, Vol.13, No.2, October 2017 187」（https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf）
+  - 「times price, p (Arai 2006). “Analysis of the Labor Economy 2015” outlines Japan’s situation」（https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf）
+  - 「net income (2011 - 2015). Strictly speaking, ﬁrms do not pay dividends only from the net」（https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf）
+  - 「In 2015, according to the Financial Statements Statistics of Corporations by Industry, out」（https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf）
+  - 「Policy Research Institute, Ministry of Finance, Japan, Public Policy Review, Vol.13, No.2, October 2017 189」（https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf）
+  - 「sample survey conducted by Ministry of Finance and in 2015 about 29,000 ﬁrms responded.」（https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf）
+  - 「Policy Research Institute, Ministry of Finance, Japan, Public Policy Review, Vol.13, No.2, October 2017 191」（https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf）
+  - 「Policy Research Institute, Ministry of Finance, Japan, Public Policy Review, Vol.13, No.2, October 2017 193」（https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf）
+  - 「Policy Research Institute, Ministry of Finance, Japan, Public Policy Review, Vol.13, No.2, October 2017 195」（https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf）
+  - 「earnings than returns for shareholders. Also, Takada (2015) shows that there are differences」（https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf）
+  - 「Policy Research Institute, Ministry of Finance, Japan, Public Policy Review, Vol.13, No.2, October 2017 197」（https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf）
+- 痛み・損（深さの印）：記載なし（読んだ43頁・検索18回）
+- 事業所数・社数：記載なし（読んだ43頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ43頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ43頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ43頁・検索18回）
+- 生産能力・設備：記載なし（読んだ43頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ43頁・検索18回）
+
+## 金属3Dプリンター（AM）の受託・装置の国内市場規模の推計手順（矢野経済研究所・調査対象・調査方法・母数の記載・プレスリリースの調査要綱・4-127）（Japan metal additive manufacturing market size methodology Yano Research survey outline）
+- 文脈：市場規模
+- 事業所数・社数：
+  - 「同氏は、過去4年間は急増した企業数に比べて利益確保が難しい状況が続いたものの、現在は再投資や事業再編が進み、新たな成長機会をつかむ企業が台頭していると分析している」（https://idarts.co.jp/3dp/am-research-releases-q3-market-data/?srsltid=AYCX9vKxRS_g_M2fZDgfETK2AFbx3aldiMD0npZLXxNS-Q8Lnn-vq24R）
+  - 「省（2019） 『工業統計表』地域別統計表のデータを元に規模（事業所数）と地域産業の特徴の 2」（https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf）
+  - 「規模についてだが、事業所数では、上位 5 つの地域は、多い順に大阪府（15,500） 、愛知県」（https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf）
+  - 「１事業所数当たり製造品出荷額等をみれば、多い順に山口県（39.3 億円） 、愛知県（31.8 億」（https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf）
+  - 「位 2 つの製造業の事業所数から検討してみると、「金属製品製造業と食料品製造業」が上位なの」（https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf）
+  - 「富山、愛知、大阪の3 県では、「金属製品製造業」と「生産用機械器具製造業」の事業所数が多」（https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf）
+  - 「連作業が１つ集積する都道府県においては事業所数からみれば、活用の機会を探索、掘り起こす」（https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf）
+  - 「事業所数 従業者数（人） 製造品出荷額等（百万円） 1 事業所数当たり製造品出荷額等（億円） 事業所数県内上位 50%まで （左から上位）」（https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf）
+- 社員数・平均社員数：
+  - 「実際に展示会などでも、自動車を念頭に置いた金型や試作などの展示会で金属3Dプリンターの紹介は始まっており、熱心に説明に聞き入る人を見かけるが、複雑な形状や」（https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/）
+  - 「ShareLabでは以前、NEDO（国立研究開発法人新エネルギー・産業技術総合開発機構）が公開した調査データをもとに、2030年の金属3Dプリンターによる造形品 …」（https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/）
+  - 「一般社団法人 日本3Dプリンティング産業技術協会（J3DPA）は2025年1月29日に、展示会「TCT Japan 2025」会場内で、世界最大の国際標準化・規 …」（https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/）
+  - 「群馬県の就労支援施設「ONECODE」、3Dプリンターやプログラミングを活用したIT人材育成を推進」（https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/）
+  - 「7 「金型製造業では「5人以下」、「5人超－10人以下」のカ」（https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf）
+  - 「無人の3Dプリンター工場！？加速する中国3Dプリント市場の今」（https://news.sharelab.jp/3dp-news/report/）
+  - 「オーダーメイド人工歯、3」（https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2019_06.pdf）
+  - 「（１） 出願人国籍・地域別の出願動向」（https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2019_06.pdf）
+  - 「籍出願人による出願が 44.7% と最多で、次いで米国籍 21.6% 、欧州国籍」（https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2019_06.pdf）
+  - 「図 7 出願人国籍・地域別ファミリー件数比率及びファミリー件数推移（日米」（https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2019_06.pdf）
+  - 「図 8 出願先国・地域別－出願人国籍・地域別出願件数収支」（https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2019_06.pdf）
+  - 「図 9 出願人国籍・地域別ファミリー件数（課題、日米欧中韓各国・地域への」（https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2019_06.pdf）
+  - 「図 10 出願人国籍・地域別ファミリー件数（当該特許の主たる技術内容、日」（https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2019_06.pdf）
+  - 「図 11 出願人国籍・地域別ファミリー件数（付加製造材料、日米欧中韓各国・」（https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2019_06.pdf）
+  - 「図 12 出願人国籍・地域別ファミリー件数（付加製造方式、日米欧中韓各国・」（https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2019_06.pdf）
+- 受注金額・加工賃収入：
+  - 「8000億円」（https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/）
+  - 「5600億円」（https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/）
+  - 「4000億円」（https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/）
+  - 「7000億円」（https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/）
+  - 「1100億円」（https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/）
+  - 「1000億円」（https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/）
+  - 「製造業界への実用化が進む金属3Dプリンター、2,500億円に成長見込み」（https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/）
+  - 「Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に」（https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/）
+  - 「【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説」（https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/）
+  - 「2010年代中頃からサービスのほうがシステム（装置）の売上を上回っており，世界全体では健全に市場が成長していく様子が伺える」（https://optronics-media.com/monthly-post/97429/）
+  - 「体の価格が約1000万円以上であり、かつメーカー」（https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf）
+  - 「の総売上額は前年比8.9％増の308億円で、2017～」（https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf）
+  - 「規模を476億円と予測する」と発表した」（https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf）
+  - 「比成長率＋27.1％の 1,900 台、売上額は＋5.9％の」（https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf）
+  - 「114億 3,000万円となっている」（https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf）
+- 1人あたり・1社あたり金額：
+  - 「Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に」（https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/）
+  - 「【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説」（https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/）
+  - 「体の価格が約1000万円以上であり、かつメーカー」（https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf）
+  - 「114億 3,000万円となっている」（https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf）
+  - 「mm）の販売価格は一式約8,000 万円、一方、小物」（https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf）
+  - 「売価格は一式約3,000 万円と相当の価格差がある」（https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf）
+  - 「価格5,000万円以下に関して、目標達成が困難であ」（https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf）
+  - 「5,000万円以下」（https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf）
+  - 「で 12－14百万円、「マシニングセンタ」10－15百」（https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf）
+  - 「万円、「その他数値制御工作機械」約22百万円であ」（https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf）
+  - 「格の50百万円（図表13）でもまだ高額といえる」（https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf）
+  - 「置１台当たり1,000万円であると見込んだ」（https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf）
+  - 「ンタは900億円（1,800台×5,000万円/台）、金属粉」（https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf）
+  - 「末材料売上は180億円（1,000万円/台×1,800台）」（https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf）
+  - 「【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説」（https://news.sharelab.jp/3dp-news/report/）
+- 生産能力・設備：
+  - 「2025年11月、Fabric8Labsは5,000万米ドルを調達し、米国での電気化学的積層造形生産を拡大し、熱管理、無線通信、パワーエレクトロニクス向けの部品の年間生産能力を500万個から2,200万個に増強しました」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「3Dプリンティング金属市場の分析によると、マルチレーザーシステムは金属積層造形をより高速な造形速度とより大きな生産能力へとシフトさせている」（https://straitsresearch.com/jp/report/3d-printing-metal-market）
+  - 「ただし装置の稼働率が7割を下回るとROIが悪化するため、事業計画の精度が求められます」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「金属３Ｄプリンタ保有は全国で 18 公設試、保有台数は 22 台」（https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf）
+  - 「図表３－9 金属３Ｄプリンタ保有台数と担当人員数、1 台当たりの担当人員数」（https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf）
+  - 「金属3Dプリンター本体は方式によって数千万円〜1億円を超えることもある高額な設備投資になるため、試作段階や小ロット生産では「導入」よりも「受託サービス（外注）」を選ぶ企業が多くなっています」（https://online.solize.com/blog/metal-outsourcing）
+  - 「金属3Dプリントの受託造形は、設備投資をせずに金属部品特有のメリットを活用できる選択肢です」（https://online.solize.com/blog/metal-outsourcing）
+- 10年推移：
+  - 「2019年8月6日」（https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/）
+  - 「増加を続ける出荷数と2016年以降の成長の加速に注目」（https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/）
+  - 「円グラフのシェアはGlobalNewswireの発表、棒グラフで表現されている年次推移はwohlersAssociateの発表をもとにNEDO技術戦略研究センターがまとめたもの」（https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/）
+  - 「これによると、全出荷台数は2000年から2017年で世界各国の累計で5768台、生産国はドイツが過半数を占める状況だったが、GEによるM&Aで米系資本が台頭している結果となっている」（https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/）
+  - 「2016年から2017年に大きな成長」（https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/）
+  - 「金属3Dプリンターは最終製品の生産に用いられる以外に、治具や試作、補修部品生産で利用されるケースも多いので、2017年までの出荷累計台数のすべてが最終製品用途ではない」（https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/）
+  - 「2024年5月8日」（https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/）
+  - 「2021年8月26日」（https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/）
+  - 「2021年6月10日」（https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/）
+  - 「2025年1月31日」（https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/）
+  - 「一般社団法人 日本3Dプリンティング産業技術協会（J3DPA）は2025年1月29日に、展示会「TCT Japan 2025」会場内で、世界最大の国際標準化・規 …」（https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/）
+  - 「2025年1月24日」（https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/）
+  - 「2025年1月23日」（https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/）
+  - 「TCT Japan 2025主催者に聞く！3Dプリンター展示会来場のポイントとは？」（https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/）
+  - 「【2023年12月版】小規模なモノづくりで活躍する手が届くおすすめ3Dプリンター」（https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/）
+- 人手と仕事の差：
+  - 「p.151 マスカスタマイゼーションの推進と短納期の実現を」（https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf）
+  - 「同社はまた、このプロジェクトは、島津製作所のBLUE IMPACT 6kW青色レーザーDED技術を用いて、機能性を向上させ、納期を短縮した高価値で複雑な部品の実現を目指していると報告しました」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「日本では対応先が限られるサイズ・数量でも短納期対応が可能」（https://www.bantec2022.com/archives/1584）
+  - 「「金属3Dプリンタで試作品を作りたいけれど、装置導入には数千万円もかかる」「小ロットだけ外注したいが、どの業者に頼めばいいのか分からない」——こうした悩みを抱える製造業の担当者は少なくありません」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「標準的な受託造形の納期は2〜4週間、短納期対応可能な事業者では最短3〜5営業日で納品される事例もあります」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「試作フェーズで金属AMの適用可能性を検証してから、量産段階で自社導入や継続外注を判断できる柔軟性も魅力です」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「比較マトリクス表（対応素材×造形サイズ×納期）」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「※各社の対応素材、造形サイズ、認証状況、標準納期の詳細は公開情報が限られるため「要確認」としています」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「する短納期対応で評価が高く、少量試作のスピード発注に向いています」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「結論として、材料・精度・数量・納期・後加工の5項目を事前に整理し、STLデータの品質と設計ルール（肉厚下限、サポート、公差）を確認しておくことで、見積もりの精度と納品品質が大きく向上します」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「金属3Dプリンタ受託造形の発注は、事前準備の質が納期と品質を左右します」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「以下の項目を発注前に整理しておくことで、事業者とのコミュニケーションが円滑になり、想定外のコスト増や納期遅延を防げます」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「依頼前に整理すべき要件（材料・精度・数量・納期）」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「発注前に整理すべき情報は、素材の指定（またはグレード要求）、要求寸法精度と表面粗さ、必要数量、希望納期、後加工の範囲、検査要件、そして用途と使用環境の7点です」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「後加工は費用と納期に大きく影響するため、依頼範囲を明確化することが重要です」（https://steelsale.jp/casestudy/3dp/a113）
+- 検索結果の抜粋：
+  - 「金属3D プリンティングの課題とソリューション - 新東工業 — 金属3D プリンティングの課題とソリューション - 新東工業 新東工業株式会社 https://www.sinto.co.jp > promotion > metal-am」（https://www.sinto.co.jp/promotion/metal-am/）
+  - 「AM市場 動向・業界レポートまとめ | 業務用 3Dプリンター の ... — AM市場 動向・業界レポートまとめ | 業務用 3Dプリンター の ... ShareLab NEWS https://news.sharelab.jp > market-trends」（https://news.sharelab.jp/market-trends/）
+- 痛み・損（深さの印）：記載なし（読んだ62頁・検索18回）
+
+## 金属製品・金型（HS8480）の輸入の相手国の付け方と時間差（財務省貿易統計の原産国・仕向国の定義・CIF/FOB・月次と年次の計上時点・4-128）（Japan trade statistics country of origin destination definition CIF FOB recording time HS8480 moulds）
+- 文脈：貿易・基準
+- 痛み・損（深さの印）：
+  - 「国内では、高い技能を持ちながら後継者がいない工場の廃業が続きます」（https://forwit.jp/column/die-and-mold/）
+  - 「事業所数が1991年の約13,000から2024年の約4,000へ減り、従業者数も2022年の77,035人から2024年の69,553人へ減るなかで、技能を渡す相手がいないまま廃業する工場が出ています」（https://forwit.jp/column/die-and-mold/）
+- 事業所数・社数：
+  - 「日本国内では、経済産業省の製造業事業所調査による2024年の生産額が1兆4,548億円、事業所数が4,077所、従業者数が69,553人です」（https://forwit.jp/column/die-and-mold/）
+  - 「経済産業省の製造業事業所調査をもとに日本金型工業会がまとめた2024年（令和6年）の集計では、金型製造業（日本標準産業分類の細分類2691および2692）の事業所数は4,077所、従業者数は69,553人、生産額は1兆4,548億円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「同レポートでは、工業統計に基づく事業所数が1990年の13,115から2017年には7,074へ減り、1事業所あたりの平均従業者数が12.1人であることも報告されています」（https://forwit.jp/column/die-and-mold/）
+  - 「日本金型工業会の資料によれば、事業所数のピークは1991年で約13,000でした」（https://forwit.jp/column/die-and-mold/）
+  - 「事業所数が1991年の約13,000から2024年の約4,000へ減り、従業者数も2022年の77,035人から2024年の69,553人へ減るなかで、技能を渡す相手がいないまま廃業する工場が出ています」（https://forwit.jp/column/die-and-mold/）
+  - 「国内でも、事業所数は1991年の約13,000から2024年の約4,000へ減りました」（https://forwit.jp/column/die-and-mold/）
+  - 「日本国内では、経済産業省の製造業事業所調査による2024年の生産額が1兆4,548億円、事業所数が4,077所、従業者数が69,553人でした」（https://forwit.jp/column/die-and-mold/）
+- 社員数・平均社員数：
+  - 「一般社団法人日本金型工業会（以下、日本金型工業会）が2026年9月17日に公表した資料では、国際特殊工具・機械加工協会（ISTMA）の統計に基づく35カ国の金型生産額の合計は13兆1,221億円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「日本国内では、経済産業省の製造業事業所調査による2024年の生産額が1兆4,548億円、事業所数が4,077所、従業者数が69,553人です」（https://forwit.jp/column/die-and-mold/）
+  - 「3次元CADで型の形を決め、マシニングセンタで削り、焼き入れで硬くし、放電加工で細部をつくり、最後は人の手で鏡のように磨きます」（https://forwit.jp/column/die-and-mold/）
+  - 「こうした形は、職人が1個ずつ削り出しているわけではありません」（https://forwit.jp/column/die-and-mold/）
+  - 「経済産業省の製造業事業所調査をもとに日本金型工業会がまとめた2024年（令和6年）の集計では、金型製造業（日本標準産業分類の細分類2691および2692）の事業所数は4,077所、従業者数は69,553人、生産額は1兆4,548億円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「2022年（令和4年）は4,357所、77,035人でしたから、2年で事業所は280所、従業者は7,482人減っています」（https://forwit.jp/column/die-and-mold/）
+  - 「産業の構造｜9人以下が6割、100人以上が生産額の4割」（https://forwit.jp/column/die-and-mold/）
+  - 「日本金型工業会がまとめた2024年（令和6年）の製造業事業所調査では、従業者9人以下の事業所が2,545所で全体の62.4%を占める一方、生産額では9.4%にとどまります」（https://forwit.jp/column/die-and-mold/）
+  - 「30人から99人が417所で生産額の27.9%、100人以上は89所と全体の2.2%しかありませんが生産額では41.7%を占めます」（https://forwit.jp/column/die-and-mold/）
+  - 「同レポートでは、工業統計に基づく事業所数が1990年の13,115から2017年には7,074へ減り、1事業所あたりの平均従業者数が12.1人であることも報告されています」（https://forwit.jp/column/die-and-mold/）
+  - 「従業者1人あたりの粗付加価値額は、資本金3億円未満の企業で2006年の1,014万円から2010年に734万円へ落ち、2017年でも911万円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「米国の専門誌MoldMaking Technologyが2018年12月に伝えた記事では、マリーニャグランデとオリベイラ・デ・アゼメイシュの2地域に500社を超える金型企業が集まり、約10,500人を雇用し、2017年の輸出額は6億7,500万ユーロでした」（https://forwit.jp/column/die-and-mold/）
+  - 「一般財団法人機械振興協会経済研究所が2026年1月に公表した小論文では、土地や建物の費用、固定資産税などの公租公課、運送費、錆取りや磨きのメンテナンス費、パレットや棚の設備費、備品費、保管や移動の労務費という7項目が示されています」（https://forwit.jp/column/die-and-mold/）
+- 受注金額・加工賃収入：
+  - 「一般社団法人日本金型工業会（以下、日本金型工業会）が2026年9月17日に公表した資料では、国際特殊工具・機械加工協会（ISTMA）の統計に基づく35カ国の金型生産額の合計は13兆1,221億円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「日本国内では、経済産業省の製造業事業所調査による2024年の生産額が1兆4,548億円、事業所数が4,077所、従業者数が69,553人です」（https://forwit.jp/column/die-and-mold/）
+  - 「日本金型工業会がISTMAの統計をもとに示した国別比較では、中国の生産額が7兆382億円で53.6%（2024年）、米国が2兆3,014億円で17.5%（2021年）、日本が9,771億円で7.4%（2023年）、韓国が9,627億円で7.3%（2019年）、ドイツが6,440億円で4.9%（2024年）でした」（https://forwit.jp/column/die-and-mold/）
+  - 「日本の2025年の金型輸出額は2,040億円、輸入額は1,339億円で、輸入の58%は中国からです」（https://forwit.jp/column/die-and-mold/）
+  - 「経済産業省の機械統計をもとにした日本金型工業会の集計では、2026年1月から7月までの金型生産額は1,866億円で、前年同期比は105.15%でした」（https://forwit.jp/column/die-and-mold/）
+  - 「日本の金型産業は、1991年に約13,000あった事業所が2024年には約4,000まで減り、生産額でも中国に大きく引き離されました」（https://forwit.jp/column/die-and-mold/）
+  - 「それでも、日本から出ていく金型は年間2,000億円を超え、入ってくる金型を上回り続けています」（https://forwit.jp/column/die-and-mold/）
+  - 「経済産業省の製造業事業所調査をもとに日本金型工業会がまとめた2024年（令和6年）の集計では、金型製造業（日本標準産業分類の細分類2691および2692）の事業所数は4,077所、従業者数は69,553人、生産額は1兆4,548億円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「日本金型工業会が2026年9月に公表した資料によると、2025年の型種別の生産額構成比は、プラスチック型33.2%、プレス型32.7%、鋳造型・ダイカスト型8.4%、鍛造型4.3%、ゴム型・ガラス型3.1%で、残りがその他の金型や部分品でした」（https://forwit.jp/column/die-and-mold/）
+  - 「財務省貿易統計をもとにした日本金型工業会の集計では、2025年の金型輸出2,040億円のうち射出式または圧縮式のプラスチック・ゴム成形用型が587億円を占めました」（https://forwit.jp/column/die-and-mold/）
+  - 「産業の構造｜9人以下が6割、100人以上が生産額の4割」（https://forwit.jp/column/die-and-mold/）
+  - 「日本金型工業会がまとめた2024年（令和6年）の製造業事業所調査では、従業者9人以下の事業所が2,545所で全体の62.4%を占める一方、生産額では9.4%にとどまります」（https://forwit.jp/column/die-and-mold/）
+  - 「30人から99人が417所で生産額の27.9%、100人以上は89所と全体の2.2%しかありませんが生産額では41.7%を占めます」（https://forwit.jp/column/die-and-mold/）
+  - 「従業者1人あたりの粗付加価値額は、資本金3億円未満の企業で2006年の1,014万円から2010年に734万円へ落ち、2017年でも911万円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「国別の順位も入れ替わり、日本金型工業会がISTMAの統計をもとに整理した比較で、日本の生産額シェアは7.4%の3位になりました」（https://forwit.jp/column/die-and-mold/）
+- 1人あたり・1社あたり金額：
+  - 「従業者1人あたりの粗付加価値額は、資本金3億円未満の企業で2006年の1,014万円から2010年に734万円へ落ち、2017年でも911万円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「2026年1月期の連結売上高は2,183億2,900万円、営業利益は126億5,100万円で、モーターコア製品などを手がける電機部品事業が1,546億4,900万円、金型・工作機械事業が102億4,700万円でした」（https://forwit.jp/column/die-and-mold/）
+- 生産能力・設備：
+  - 「日本政策金融公庫総合研究所のレポートでは、IoT関連の設備投資について金型製造業では7.2%がすでに実施、12.6%が予定ありと答え、製造業全体の4.5%と6.2%を上回っていました」（https://forwit.jp/column/die-and-mold/）
+- 10年推移：
+  - 「日本国内では、経済産業省の製造業事業所調査による2024年の生産額が1兆4,548億円、事業所数が4,077所、従業者数が69,553人です」（https://forwit.jp/column/die-and-mold/）
+  - 「日本金型工業会がISTMAの統計をもとに示した国別比較では、中国の生産額が7兆382億円で53.6%（2024年）、米国が2兆3,014億円で17.5%（2021年）、日本が9,771億円で7.4%（2023年）、韓国が9,627億円で7.3%（2019年）、ドイツが6,440億円で4.9%（2024年）でした」（https://forwit.jp/column/die-and-mold/）
+  - 「日本の2025年の金型輸出額は2,040億円、輸入額は1,339億円で、輸入の58%は中国からです」（https://forwit.jp/column/die-and-mold/）
+  - 「日本の金型産業は、1991年に約13,000あった事業所が2024年には約4,000まで減り、生産額でも中国に大きく引き離されました」（https://forwit.jp/column/die-and-mold/）
+  - 「日本金型工業会が示す需要業界別の生産金額構成比では、2025年時点で自動車、二輪、輸送用車両機器が73.0%を占め、産業機器が6.0%、生活用品が2.9%、情報・通信機器が2.8%と続きます」（https://forwit.jp/column/die-and-mold/）
+  - 「経済産業省の製造業事業所調査をもとに日本金型工業会がまとめた2024年（令和6年）の集計では、金型製造業（日本標準産業分類の細分類2691および2692）の事業所数は4,077所、従業者数は69,553人、生産額は1兆4,548億円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「2022年（令和4年）は4,357所、77,035人でしたから、2年で事業所は280所、従業者は7,482人減っています」（https://forwit.jp/column/die-and-mold/）
+  - 「日本金型工業会が2026年9月に公表した資料によると、2025年の型種別の生産額構成比は、プラスチック型33.2%、プレス型32.7%、鋳造型・ダイカスト型8.4%、鍛造型4.3%、ゴム型・ガラス型3.1%で、残りがその他の金型や部分品でした」（https://forwit.jp/column/die-and-mold/）
+  - 「財務省貿易統計をもとにした日本金型工業会の集計では、2025年の金型輸出2,040億円のうち射出式または圧縮式のプラスチック・ゴム成形用型が587億円を占めました」（https://forwit.jp/column/die-and-mold/）
+  - 「日本金型工業会がまとめた2024年（令和6年）の製造業事業所調査では、従業者9人以下の事業所が2,545所で全体の62.4%を占める一方、生産額では9.4%にとどまります」（https://forwit.jp/column/die-and-mold/）
+  - 「日本政策金融公庫総合研究所が2019年11月に公表したレポートでは、金型製造業の販売先として自動車用が76.6%、電機用が3.1%となり、2012年時点の64%と10%から自動車への集中が進んだことが示されています」（https://forwit.jp/column/die-and-mold/）
+  - 「同レポートでは、工業統計に基づく事業所数が1990年の13,115から2017年には7,074へ減り、1事業所あたりの平均従業者数が12.1人であることも報告されています」（https://forwit.jp/column/die-and-mold/）
+  - 「従業者1人あたりの粗付加価値額は、資本金3億円未満の企業で2006年の1,014万円から2010年に734万円へ落ち、2017年でも911万円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「2010年には、自動車ボディ用大型プレス金型を手がけてきたオギハラの館林工場が中国のBYDグループに買収され、技術の海外流出として広く報じられました」（https://forwit.jp/column/die-and-mold/）
+  - 「生産額は日本金型工業会がISTMAの統計集2025年版に基づいて示した国別比較を使います」（https://forwit.jp/column/die-and-mold/）
+- 人手と仕事の差：
+  - 「納期と原価の見通しが狂う原因の多くは、この修正の回数が読み切れないところにあります」（https://forwit.jp/column/die-and-mold/）
+  - 「内製と外注の線引きも産業の形を決めています」（https://forwit.jp/column/die-and-mold/）
+  - 「日本｜精度と納期で勝ち、量と価格で押される」（https://forwit.jp/column/die-and-mold/）
+  - 「金型に使うガイドピンやパンチ、ブッシュといった部品を規格化し、寸法をミクロン単位で指定できるようにしたうえで短納期で届ける仕組みを築きました」（https://forwit.jp/column/die-and-mold/）
+  - 「量産が読める型は安い国へ、立ち上げが難しい型や短納期が求められる型は日本へ、という棲み分けが統計の上にも表れています」（https://forwit.jp/column/die-and-mold/）
+  - 「精度と納期、そして立ち上げの速さです」（https://forwit.jp/column/die-and-mold/）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024

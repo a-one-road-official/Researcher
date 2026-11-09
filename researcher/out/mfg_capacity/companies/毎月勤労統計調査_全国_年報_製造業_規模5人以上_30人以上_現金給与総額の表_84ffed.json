@@ -1,0 +1,661 @@
+{
+ "name": "毎月勤労統計調査 全国 年報 製造業 規模5人以上・30人以上 現金給与総額の表（県の概要ページでなく厚労省の長期時系列表・e-Stat の表・site:mhlw.go.jp・site:e-stat.go.jp・4-41・4-128）",
+ "en": "Monthly Labour Survey national annual manufacturing total cash earnings by establishment size long-term time series table",
+ "aliases": [
+  "毎月勤労統計 長期時系列表 製造業 現金給与総額 site:mhlw.go.jp",
+  "毎月勤労統計調査 全国調査 年平均 製造業 30人以上 e-Stat",
+  "毎勤 年報 産業別 規模別 きまって支給する給与 filetype:xlsx"
+ ],
+ "context": "給与・人件費",
+ "kind": "market",
+ "researched_at": "2026-11-09T11:56:39.935708+00:00",
+ "evidence": {
+  "10年推移": [
+   {
+    "quote": "Policy Research Institute, Ministry of Finance, Japan, Public Policy Review, Vol.13, No.2, October 2017 183",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "the Ministry of Finance. In the FY2015 survey, proﬁt distributions to which large ﬁrms",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Policy Research Institute, Ministry of Finance, Japan, Public Policy Review, Vol.13, No.2, October 2017 185",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4 Ito, Dejima and Kinoshita (2015) uses data from the Basic Survey of Japanese Business Structure",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Policy Research Institute, Ministry of Finance, Japan, Public Policy Review, Vol.13, No.2, October 2017 187",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "times price, p (Arai 2006). “Analysis of the Labor Economy 2015” outlines Japan’s situation",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "net income (2011 - 2015). Strictly speaking, ﬁrms do not pay dividends only from the net",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "In 2015, according to the Financial Statements Statistics of Corporations by Industry, out",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Policy Research Institute, Ministry of Finance, Japan, Public Policy Review, Vol.13, No.2, October 2017 189",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "sample survey conducted by Ministry of Finance and in 2015 about 29,000 ﬁrms responded.",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Policy Research Institute, Ministry of Finance, Japan, Public Policy Review, Vol.13, No.2, October 2017 191",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Policy Research Institute, Ministry of Finance, Japan, Public Policy Review, Vol.13, No.2, October 2017 193",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Policy Research Institute, Ministry of Finance, Japan, Public Policy Review, Vol.13, No.2, October 2017 195",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "earnings than returns for shareholders. Also, Takada (2015) shows that there are differences",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Policy Research Institute, Ministry of Finance, Japan, Public Policy Review, Vol.13, No.2, October 2017 197",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Policy Research Institute, Ministry of Finance, Japan, Public Policy Review, Vol.13, No.2, October 2017 199",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Policy Research Institute, Ministry of Finance, Japan, Public Policy Review, Vol.13, No.2, October 2017 201",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ito, Shinsuke, Takahisa Dejima, and Kazuhiro Kinoshita. (2015) Quantitative Analysis",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.wakayama.lg.jp/prefg/020300/maikin/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cirje.e.u-tokyo.ac.jp/research/workshops/stateng/statpaper2021/stat0507.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/maikin/maikinback25_d/fil/001.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jinjibu.jp/news/detl/26695/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/maikin/_news/maikin0612/maikin0600.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.saitama.lg.jp/a0206/a031/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/ac08_4_000000008.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.kanagawa.jp/docs/x6z/tc30/maikin/maitsukikinrou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toukei.pref.shizuoka.jp/chosa/12-040/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mbp-japan.com/kanagawa/shonan-mssr/column/5226282/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.miyagi.jp/soshiki/toukei/koyoutochingin-top.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/institute/zassi/backnumber/2022/04/pdf/022-025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/naruhodo/3_data/kikan/roudou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.yamaguchi.lg.jp/soshiki/22/15950.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.akita.lg.jp/uploads/public/archive_0000010653_00/%E5%B9%B4%E5%A0%B1/%E5%B9%B3%E6%88%9026%E5%B9%B4%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB%E5%9C%B0%E6%96%B9%E8%AA%BF%E6%9F%BB%E5%A0%B1%E5%91%8A.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/maikin/_news/maikin0512/maikin0500.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.saitama.lg.jp/a0206/a031/2021nenpousyousai-gaiyou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/maikin.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.okayama.jp/uploaded/attachment/256896.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/maikin/2013/mk13qfsank.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://opendata.pref.aomori.lg.jp/dataset/1521/resource/10978/0.%E8%A1%A8%E7%B4%99%E3%80%81%E3%81%AF%E3%81%97%E3%81%8C%E3%81%8D%E3%80%81%E7%9B%AE%E6%AC%A1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/files?page=1&layout=dataset&toukei=00450071&tstat=000001011791&tclass1=000001164732&stat_infid=000040173540",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.gifu.lg.jp/uploaded/attachment/150894.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=03&bunya_s=0302&layout=datalist&cycle=0&toukei=00450071&tstat=000001011791&tclass1=000001015954&tclass2val=0&statdisp_id=0003030977",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/kokunai/statistics/shuyo/pdf/shuyo202603.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/kkj-2.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.saitama.lg.jp/a0206/a031/2024nenpousyousai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpc-net.jp/research/rd/db/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/maikin/_news/maikin0712/maikin0700.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/maikin/2023/mk23q1nenp.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/maikin.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bls.gov/ces/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://fred.stlouisfed.org/series/MANEMP",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/english/estatis/esaikin/2026/e202605.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/WOE00",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/nenkan/1431-19e.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "毎月勤労統計調査 全国 年報 製造業 規模5人以上・30人以上 現金給与総額の表（県の概要ページでなく厚労省の長期時系列表・e-Stat の表・site:mhlw.go.jp・site:e-stat.go.jp・4-41・4-128） 人手不足 受注 断る",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
+    "https://www.pref.wakayama.lg.jp/prefg/020300/maikin/index.html",
+    "https://www.cirje.e.u-tokyo.ac.jp/research/workshops/stateng/statpaper2021/stat0507.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/maikin/maikinback25_d/fil/001.pdf",
+    "https://jinjibu.jp/news/detl/26695/",
+    "https://toukei.pref.shizuoka.jp/chosa/12-040/index.html",
+    "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "https://www.pref.kyoto.jp/tokei/monthly/maikin/documents/maikinsetsumei.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "毎月勤労統計調査 全国 年報 製造業 規模5人以上・30人以上 現金給与総額の表（県の概要ページでなく厚労省の長期時系列表・e-Stat の表・site:mhlw.go.jp・site:e-stat.go.jp・4-41・4-128） 受注残 人手不足",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
+    "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "https://www.pref.wakayama.lg.jp/prefg/020300/maikin/index.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/maikin/_news/maikin0612/maikin0600.html",
+    "https://www.pref.saitama.lg.jp/a0206/a031/index.html",
+    "https://web.pref.hyogo.lg.jp/kk11/ac08_4_000000008.html",
+    "https://www.pref.kanagawa.jp/docs/x6z/tc30/maikin/maitsukikinrou.html",
+    "https://toukei.pref.shizuoka.jp/chosa/12-040/index.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "毎月勤労統計調査 全国 年報 製造業 規模5人以上・30人以上 現金給与総額の表（県の概要ページでなく厚労省の長期時系列表・e-Stat の表・site:mhlw.go.jp・site:e-stat.go.jp・4-41・4-128） 人手不足 損失 億円",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
+    "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "https://www.pref.wakayama.lg.jp/prefg/020300/maikin/index.html",
+    "https://mbp-japan.com/kanagawa/shonan-mssr/column/5226282/",
+    "https://web.pref.hyogo.lg.jp/kk11/ac08_4_000000008.html",
+    "https://www.pref.miyagi.jp/soshiki/toukei/koyoutochingin-top.html",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2022/04/pdf/022-025.pdf",
+    "https://www.stat.go.jp/naruhodo/3_data/kikan/roudou.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "毎月勤労統計調査 全国 年報 製造業 規模5人以上・30人以上 現金給与総額の表（県の概要ページでなく厚労省の長期時系列表・e-Stat の表・site:mhlw.go.jp・site:e-stat.go.jp・4-41・4-128）",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
+    "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "https://www.pref.wakayama.lg.jp/prefg/020300/maikin/index.html",
+    "https://www.pref.yamaguchi.lg.jp/soshiki/22/15950.html",
+    "https://www.pref.akita.lg.jp/uploads/public/archive_0000010653_00/%E5%B9%B4%E5%A0%B1/%E5%B9%B3%E6%88%9026%E5%B9%B4%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB%E5%9C%B0%E6%96%B9%E8%AA%BF%E6%9F%BB%E5%A0%B1%E5%91%8A.pdf",
+    "https://www.pref.toyama.jp/sections/1015/lib/maikin/_news/maikin0512/maikin0500.html",
+    "https://www.pref.saitama.lg.jp/a0206/a031/2021nenpousyousai-gaiyou.html",
+    "https://www.pref.kanagawa.jp/docs/x6z/tc30/maikin/maitsukikinrou.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "毎月勤労統計調査 全国 年報 製造業 規模5人以上・30人以上 現金給与総額の表（県の概要ページでなく厚労省の長期時系列表・e-Stat の表・site:mhlw.go.jp・site:e-stat.go.jp・4-41・4-128） 推移",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
+    "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/maikin/_news/maikin0612/maikin0600.html",
+    "https://www.pref.yamaguchi.lg.jp/soshiki/22/15950.html",
+    "https://www.pref.wakayama.lg.jp/prefg/020300/maikin/index.html",
+    "https://www.pref.saitama.lg.jp/a0206/a031/2021nenpousyousai-gaiyou.html",
+    "https://www.pref.kanagawa.jp/docs/x6z/tc30/maikin/maitsukikinrou.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/maikin.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "毎月勤労統計調査 全国 年報 製造業 規模5人以上・30人以上 現金給与総額の表（県の概要ページでなく厚労省の長期時系列表・e-Stat の表・site:mhlw.go.jp・site:e-stat.go.jp・4-41・4-128） 統計 PDF",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
+    "https://www.pref.okayama.jp/uploaded/attachment/256896.pdf",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2022/04/pdf/022-025.pdf",
+    "https://toukei.pref.shizuoka.jp/chosa/12-040/index.html",
+    "https://www.toukei.metro.tokyo.lg.jp/maikin/2013/mk13qfsank.pdf",
+    "https://opendata.pref.aomori.lg.jp/dataset/1521/resource/10978/0.%E8%A1%A8%E7%B4%99%E3%80%81%E3%81%AF%E3%81%97%E3%81%8C%E3%81%8D%E3%80%81%E7%9B%AE%E6%AC%A1.pdf",
+    "https://www.e-stat.go.jp/index.php/stat-search/files?page=1&layout=dataset&toukei=00450071&tstat=000001011791&tclass1=000001164732&stat_infid=000040173540",
+    "https://www.pref.gifu.lg.jp/uploaded/attachment/150894.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "毎月勤労統計調査 全国 年報 製造業 規模5人以上・30人以上 現金給与総額の表（県の概要ページでなく厚労省の長期時系列表・e-Stat の表・site:mhlw.go.jp・site:e-stat.go.jp・4-41・4-128） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
+    "https://www.pref.toyama.jp/sections/1015/lib/maikin/_news/maikin0512/maikin0500.html",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=03&bunya_s=0302&layout=datalist&cycle=0&toukei=00450071&tstat=000001011791&tclass1=000001015954&tclass2val=0&statdisp_id=0003030977",
+    "https://www.jil.go.jp/kokunai/statistics/shuyo/pdf/shuyo202603.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "http://www.etisa.or.jp/kkj-2.htm"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "毎月勤労統計調査 全国 年報 製造業 規模5人以上・30人以上 現金給与総額の表（県の概要ページでなく厚労省の長期時系列表・e-Stat の表・site:mhlw.go.jp・site:e-stat.go.jp・4-41・4-128） 従業者規模別",
+   "results": [
+    "https://www.pref.yamaguchi.lg.jp/soshiki/22/15950.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
+    "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/maikin/_news/maikin0512/maikin0500.html",
+    "https://www.pref.akita.lg.jp/uploads/public/archive_0000010653_00/%E5%B9%B4%E5%A0%B1/%E5%B9%B3%E6%88%9026%E5%B9%B4%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB%E5%9C%B0%E6%96%B9%E8%AA%BF%E6%9F%BB%E5%A0%B1%E5%91%8A.pdf",
+    "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "https://www.pref.saitama.lg.jp/a0206/a031/2024nenpousyousai.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/maikin.html",
+    "https://www.jpc-net.jp/research/rd/db/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "毎月勤労統計調査 全国 年報 製造業 規模5人以上・30人以上 現金給与総額の表（県の概要ページでなく厚労省の長期時系列表・e-Stat の表・site:mhlw.go.jp・site:e-stat.go.jp・4-41・4-128） 1人当たり 万円",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
+    "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/maikin/_news/maikin0512/maikin0500.html",
+    "https://www.pref.wakayama.lg.jp/prefg/020300/maikin/index.html",
+    "https://www.pref.yamaguchi.lg.jp/soshiki/22/15950.html",
+    "https://www.pref.kanagawa.jp/docs/x6z/tc30/maikin/maitsukikinrou.html",
+    "https://www.pref.miyagi.jp/soshiki/toukei/koyoutochingin-top.html",
+    "https://opendata.pref.aomori.lg.jp/dataset/1521/resource/10978/0.%E8%A1%A8%E7%B4%99%E3%80%81%E3%81%AF%E3%81%97%E3%81%8C%E3%81%8D%E3%80%81%E7%9B%AE%E6%AC%A1.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "毎月勤労統計調査 全国 年報 製造業 規模5人以上・30人以上 現金給与総額の表（県の概要ページでなく厚労省の長期時系列表・e-Stat の表・site:mhlw.go.jp・site:e-stat.go.jp・4-41・4-128） 2015 2025",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
+    "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "https://www.pref.yamaguchi.lg.jp/soshiki/22/15950.html",
+    "https://www.pref.wakayama.lg.jp/prefg/020300/maikin/index.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/maikin/_news/maikin0712/maikin0700.html",
+    "https://www.toukei.metro.tokyo.lg.jp/maikin/2023/mk23q1nenp.htm",
+    "https://toukei.pref.shizuoka.jp/chosa/12-040/index.html",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/maikin.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Monthly Labour Survey national annual manufacturing total cash earnings by establishment size long-term time series table Japan statistics",
+   "results": [
+    "https://www.bls.gov/ces/",
+    "https://fred.stlouisfed.org/series/MANEMP",
+    "https://www.jil.go.jp/english/estatis/esaikin/2026/e202605.html",
+    "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf",
+    "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/WOE00",
+    "https://www.stat.go.jp/english/data/nenkan/1431-19e.html",
+    "https://data-explorer.oecd.org/",
+    "https://zoetalentsolutions.com/manufacturing-employment-statistics/",
+    "https://www.sciencedirect.com/science/article/am/pii/S0922142523000324",
+    "https://www.e-stat.go.jp/en/statistics/00450071"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 毎月勤労統計調査 全国 年報 製造業 規模5人以上・30人以上 現金給与総額の表（県の概要ページでなく厚労省の長期時系列表・e-Stat の表・site:mhlw.go.jp・site:e-stat.go.jp・4-41・4-128）",
+   "results": [
+    "https://note.com/yajirushi_works/n/nfadc215c8c8c",
+    "https://note.com/hatankokka/n/ne30fff7cfedc",
+    "https://note.com/yajirushi_works/n/n8a5d075da360",
+    "https://note.com/jdex/n/n4f5644855c17",
+    "https://note.com/kicchann/n/na5635f9a1b55",
+    "https://note.com/xoperation/n/n93109494872d",
+    "https://note.com/mycrypto/n/nad403a822542",
+    "https://note.com/bearcapital/n/n4f3d135558b3",
+    "https://note.com/ocaml/n/n7d712123cbea",
+    "https://note.com/kazucallnote/n/n30ac23c20392"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com 毎月勤労統計調査 全国 年報 製造業 規模5人以上・30人以上 現金給与総額の表（県の概要ページでなく厚労省の長期時系列表・e-Stat の表・site:mhlw.go.jp・site:e-stat.go.jp・4-41・4-128）",
+   "results": [
+    "https://x.com/roukijunpo/status/2040944273374556382",
+    "https://x.com/amc_corporation/status/2020682495138955435",
+    "https://x.com/sputnik_jp/status/2057698283058041218",
+    "https://x.com/amc_corporation/status/2030820140636586418",
+    "https://x.com/indbgraphreport/status/2074307527907680672",
+    "https://x.com/indbgraphreport/status/1986236342217621534",
+    "https://x.com/indbgraphreport/status/1986266417369653443"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 毎月勤労統計調査 全国 年報 製造業 規模5人以上・30人以上 現金給与総額の表（県の概要ページでなく厚労省の長期時系列表・e-Stat の表・site:mhlw.go.jp・site:e-stat.go.jp・4-41・4-128）",
+   "results": [
+    "https://www.linkedin.com/posts/daijob-com_厚生労働省毎月勤労統計調査2025令和7年10月分結果確報を公開-activity-7412085171136589824-A8Nv",
+    "https://www.linkedin.com/jobs/毎月勤労統計調査-記入例-8(1)-8(2)-8(3)-8(4)-jobs",
+    "https://www.about.linkedin.com/",
+    "https://jp.linkedin.com/posts/ampersand-tax_日本の大手中小製造業は稼げているか-企業規模別の付加価値と給与-activity-7431136928181223424-qN_P",
+    "https://jp.linkedin.com/posts/yuya-tsunoda-8258b75a_日本の大手中小製造業は稼げているか-企業規模別の付加価値と給与-activity-7431569597306384384-wdT_",
+    "https://jp.linkedin.com/posts/jinzainews_2024年2月の現金給与28万2265円実質賃金13減-日本人材ニュース-activity-7183239553900535810-xkpb",
+    "https://jp.linkedin.com/posts/款太-泉-4334061b9_給与計算に毎月何人日かけていますか-東京のリフォーム会社株式会社ニッセイ-activity-7494538420329816064-W7y9"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 毎月勤労統計調査 全国 年報 製造業 規模5人以上・30人以上 現金給与総額の表（県の概要ページでなく厚労省の長期時系列表・e-Stat の表・site:mhlw.go.jp・site:e-stat.go.jp・4-41・4-128）",
+   "results": [
+    "https://www.facebook.com/ibaraki.tokei/posts/毎月勤労統計調査-地方調査結果の概要令和７年分速報現金給与総額-346084円-対前年比52増総実労働時間-1387時間-対前年比09減常用労働者数-10530/1378765024296186/",
+    "https://www.facebook.com/ibaraki.tokei/posts/2649565508669012/",
+    "https://www.facebook.com/100069011896208/posts/毎月勤労統計調査地方調査月報令和７年９月分を公表しましたhttpswebprefhyogolgjpkk11documentsgeppou09pdf毎月勤労統計調/1180549484255437/",
+    "https://ka-ge.facebook.com/nenkinjidai/posts/通知7月5日掲載厚生労働省編職業分類の改定に伴う短時間労働者及び有期雇用労働者の雇用管理の改善等に関する法律の施行についての一部改正について令和４年６月24日雇/1434580176955239/",
+    "https://www.facebook.com/permalink.php/?story_fbid=890677699909285&id=100069011896208",
+    "https://www.facebook.com/kokenkyo/posts/782822350210613/",
+    "https://www.facebook.com/CafedeFinance/photos/統計數據規模以上工業企業利潤微增裝備高技術製造動能足國家統計局公布今年首11個月全國規模以上工業企業實現利潤總額662686億元按可比口徑計算同比增長01自今年/1356434516279130/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "毎月勤労統計調査 全国 年報 製造業 規模5人以上・30人以上 現金給与総額の表（県の概要ページでなく厚労省の長期時系列表・e-Stat の表・site:mhlw.go.jp・site:e-stat.go.jp・4-41・4-128） note 社長",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
+    "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/maikin/_news/maikin0612/maikin0600.html",
+    "https://www.pref.wakayama.lg.jp/prefg/020300/maikin/index.html",
+    "https://mbp-japan.com/kanagawa/shonan-mssr/column/5226282/",
+    "https://toukei.pref.shizuoka.jp/chosa/12-040/index.html",
+    "https://note.com/todobuono/n/n74c5a63bfea5",
+    "https://web.pref.hyogo.lg.jp/kk11/ac08_4_000000036.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "毎月勤労統計調査 全国 年報 製造業 規模5人以上・30人以上 現金給与総額の表（県の概要ページでなく厚労省の長期時系列表・e-Stat の表・site:mhlw.go.jp・site:e-stat.go.jp・4-41・4-128） X 投稿",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
+    "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/maikin/_news/maikin0612/maikin0600.html",
+    "https://www.pref.wakayama.lg.jp/prefg/020300/maikin/index.html",
+    "https://www.pref.kanagawa.jp/docs/x6z/tc30/maikin/maitsukikinrou.html",
+    "https://data-seisaku.com/00450-mhlw-00450071-summary_9-full-list/",
+    "https://toukei.pref.shizuoka.jp/chosa/12-040/index.html",
+    "https://jinjibu.jp/news/detl/26695/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Monthly Labour Survey national annual manufacturing total cash earnings by establishment size long-term time series table site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/company/u-s-department-of-labor",
+    "https://uk.linkedin.com/company/office-for-national-statistics",
+    "https://www.linkedin.com/company/bureau-of-labor-statistics",
+    "https://news.linkedin.com/2026/2026-Davos-Press-Release",
+    "https://uk.linkedin.com/company/bae-systems",
+    "https://www.linkedin.com/in/jeffreyrwinter",
+    "https://www.linkedin.com/company/exxonmobil",
+    "https://www.linkedin.com/company/hewlett-packard-enterprise",
+    "https://www.linkedin.com/company/nasa",
+    "https://www.linkedin.com/company/jabil"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ43頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ43頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ43頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ43頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ43頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ43頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ43頁・検索18回）"
+ }
+}

@@ -1,0 +1,2147 @@
+{
+ "name": "統計の改定の分析（速報と確報の差の平均・平均絶対改定・改定の偏りの検定・版の付いた時系列データベース・OECD 改定分析・4-128）",
+ "en": "revision analysis mean revision mean absolute revision bias test real-time vintage database OECD",
+ "aliases": [
+  "速報値 確報値 改定幅 分析 偏り",
+  "OECD revisions analysis sub-annual economic statistics",
+  "real-time database vintage revision bias"
+ ],
+ "context": "突き合わせ・推定",
+ "kind": "market",
+ "researched_at": "2026-11-09T11:56:43.600654+00:00",
+ "evidence": {
+  "一次情報の探し方": [
+   {
+    "quote": "http://www.oecd.org/dataoecd/44/36/40308976.pdf?contentId=40308977",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "http://www.oecd.org/dataoecd/20/26/34350524.pdf.",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2005, Paris http://www.oecd.org/dataoecd/55/17/35010765.pdf.",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Paris. http://www.oecd.org/dataoecd/13/49/35440080.pdf",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "http://www.oecd.org/dataoecd/44/38/40309461.pdf?contentId=40309462",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "http://www.oecd.org/dataoecd/45/29/36561675.pdf",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "http://www.cirano.qc.ca/fin/Real-timeData/2007/McKenzie.pdf",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "http://www.oecd.org/dataoecd/47/15/40315408.pdf",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ONS, UK. http://www.oecd.org/dataoecd/43/62/33779647.pdf",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "statistics on how to interpret the results of a revision analys es for economic variable s",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "this document for other sophisticated / specific user methods.",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "aware of changes to compilation methods that may have occurred over time to the",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3 The task-force has made recommendations on how to build a database of „real-time‟ data required for",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "the real-time dataset available to analyse. The reader is therefore referred to the guidelines on how to build",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "expect a non-zero mean revision, such as the impact of methodological or definitional changes which may",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "9. Removing the UK RPI to CPI methodological change",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "13. Next steps",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "with most other countries if the UK’s unique deflator methodological improvement is removed.",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "methods used to compile the quarterly path, the differences between the quarters are no larger than for many other countries.",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "after the reference period, or to publish a first estimate and then ignore any subsequent new data and any methodological",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "assess the impact on UK revisions from removing the major UK methodological change of deflating using the Consumer",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "draw conclusions and recommend next steps",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "publication each year. Larger scale revisions to methodology and concepts vary by country, with some countries opening up",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "the back history as and when required, while other countries had a more rigid policy of large scale methodological changes",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Major benchmarks and longer-term methods improvements become even more relevant if we expand the analysis to include",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "caused by more fundamental methodological improvements and changes to the national accounts framework, which tend to",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "However, once the UK’s unique deflator methodological improvement is removed the revisions again become much more in",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2010 methodological changes likely to be leading to stronger growth than previously estimated in 2012 and 2013.",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "basis to bring in new data, annual benchmarks and improved methodology. Each of these improvements have been included",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "performance. The T + 59 months will bring more of the longer-term methods changes into the analysis as seen in",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "incorporate improved methods, more-current weights, and more-recent data.",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "later releases and because the index methodology changed over time after the real-time index",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "added news. Mork (1987) used GMM methods to show that “final” NIPA data contain news,",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "A complicating factor in th e government’s decision about how to develop data is the",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "methods to predict revisions for many different variables.",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "to help us discover how to model such revisions for use in macroeconomic models, for",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "intermediate releases of the data, which could help data agencies improve their methods, if they",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "methodology to arrive at a measure that matches the theoretical concept for that variable. But",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "generally produce forecasts of variables based on currently existing methodologies and cannot be",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "expected to predict future changes in methodology. We should not expect forecasters to",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "(1983) used state-space methods with missing observations to account for irregular data revisions",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Patterson (2003) illustrated how to combine the measurement process with the data generation",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "using these methods in practice found little scope for improvement. For example, Howrey (1984)",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "very well in real time. Much of the research described above uses some method to try to",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "step to take. One approach, developed by Aruoba (2004), is to incorporate data revisions into a",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "revision interval for say first published estimates of third quarter and fourth quarter data).",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Lt: later estimate for reference period t",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Pt: preliminary (earlier) estimate for reference period t",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3.6 What is the average size of revision relative to the estimate itself?",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3.7 Is the earlier published estimate a good or ‘efficient’ forecast of the later",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "interval (e.g. M3_P implies the revision between first published estimates (i.e. P) and",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "that on average earlier releases have been under -estimated (negative sign means over -",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "estimated). Revisions of opposite sign will have a tendency to cancel out, consequentially",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "exists in the earlier estimates. Four possible outcomes have been chosen to describe",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "7 One should be wary of concluding a bias exists for the earlier published estimate if the mean revision is",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "variable that follows a normal distribution with variance estimate as above, the t -critic",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "estimate and the sign of earlier estimate are the same.",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "acceleration / deceleration test. Tha t is, if the earlier estimate indicates that growth is",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "later estimate also signifies this.",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "of the size of the earlier estimates. Aside from the above issue, it is useful as a measure",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "There is no statistically significant bias to the UK GDP revisions at 1 year, 2 years or 3 years after the initial estimates at the",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Statistics (ONS) to produce the best possible estimate of United Kingdom (UK) gross domestic product (GDP) using all of the",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "after the reference period, or to publish a first estimate and then ignore any subsequent new data and any methodological",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "show a consistent theme with most countries using quarterly rounds to revise their GDP estimates within the current year",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "number of countries that can be included in the analysis. Hence the comparison covers GDP estimates between the fourth",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "underestimate GDP growth in their early estimates. The exceptions to this are Japan, Norway and the USA; France and New",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Zealand tend to see negative revisions to earlier estimates, followed by upward revisions to later estimates.",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Japan, Norway, Spain and Switzerland. Countries with some bias in some of their estimates at the 5% or 10% significance",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "after the first GDP estimates is at least as good as most other countries, and better than many, and shows no systematic bias.",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Netherlands who only benchmark periodically may not be showing true “bias” in their quarterly GDP growth estimates.",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "How does the revisions performance change when latest estimates are included?",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ago are shown in Figures 5 and 6, with revisions from the first estimate to the latest included.",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Figure 5: Mean GDP growth revisions, including latest estimates, for quarter on quarter growth, chained volume",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Figure 6: Mean GDP growth revisions, including latest estimates, for quarter on quarter a year ago growth, chained",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "higher growth rates in the volume estimates of the statistic that is being deflated – in this case consumption, and hence the",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "(flash) estimate of GDP that the U.S. government produced for a few years was as accurate as",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "the estimate released in the month following the quarter. Despite that result, the government",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "revisions) than revisions to the non-seasonally adjusted estimates; for example, see Fixler-",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "preliminary data on Mexican industrial production to get improved estimates of final data; and",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "input into the model, the change in the data affects the estimated coefficients, and the model",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "in a simultaneous-equations model affected everything, including the estimated coefficients and",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "optimal to estimate a model without using the most recent preliminary data because those data",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Such concepts are never observed, but policymakers and their staffs may estimate such concepts",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "in real time. If their estimates are far from the mark, policy decisions may be poor.",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "measure improves dramatically as time passes. As Watson (2007) notes: “One-sided estimates",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "estimates used for historical analysis.” This may not be an area that will be fruitful for future",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Estimates.” North American Journal of Economics and Finance 16 (December 2005), pp. 373-",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Retail Sales Estimates.” Journal of Economic Dynamics and Control 1 (1979), pp. 177-98.",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Denton, Frank T., and John Kuiper. “The Effect of Measurement Errors on Parameter Estimates",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Dynan, Karen E., and Douglas Elmendorf. “Do Provisional Estimates of Output Miss Economic",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "example, a user may be interested in studying revision between first published data and",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "statistical agency publishing the data. For example, if reconciliation with annual data",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3.5 In the case of growth rates, how often is the later published growth rate in the",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "data points of the time series. For example, 1994Q1 – 2007Q3 represents 55",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "% of positive revisions : it returns the number of cases revised upward as a proportion of",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "% of negative revisions: it returns the number of cases revised down ward as a proportion",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "% of zero revisions: it returns the number of cases with null revision as a proportion of",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "This is an extreme case of unreliability, although it may be that the change of a small",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "higher growth rates in the volume estimates of the statistic that is being deflated – in this case consumption, and hence the",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Canada is another example of the economic downturn becoming weaker through subsequent revisions. Initially their 4 quarter",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "their revisions policy that the GDP numbers produced at the preliminary stage (45 days after the period in this case) and",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "rather than a genuine improvement in revisions performance in most cases. Denmark, Finland, France, Italy, Portugal,",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "For example, predictable revisions of U.S. industrial production led the Federal Reserve to",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Generally, revisions improve the quality of the data. For example, the U.S. consumer price",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "For example, someone in November 1965 who looked up the values of real GDP would",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "One of the best examples of papers that analyze data revisions is Diebold-Rudebusch",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "be substantial. For example, Figure 1 shows the history over vintage time of the growth rate of",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "considerably affect any analysis in the short run. For example, if the quarterly growth rate of",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "example, for real consumption spending, of growth rates over five-year periods and how much",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "example, the average annual growth rate of real consumption spending from 1975 to 1979 was",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "1996. But even in the chain-weighted era, some large revisions have occurred. For example, the",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "that is, vty is orthogonal to vte . In this case, revisions to the data will not be predictable because",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Sargent (1989). Consider, for example, the government agency reporting GDP. One option is for",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "example, suppose the sample information on the components of GDP suggests that it will grow",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "agency could release a measure that is an optimal forecast of later revised data. For example, an",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "revisions. In some cases, the revisions to seasonal factors are larger (in terms of mean absolute",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "revisions) than revisions to the non-seasonally adjusted estimates; for example, see Fixler-",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "revisions are more in one direction than another, suggesting possible bias in the earlier",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "the average size of the revisions, but it cannot provide an indication of directional bias",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "be of limited use (also called “average bias”).",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "revision is statistically different from zero which may give an insight of whether a bias 7",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "7 One should be wary of concluding a bias exists for the earlier published estimate if the mean revision is",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Root mean square revision: it essentially combines the degree of bias (i.e. mean revision)",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Quartile deviation: if the bias is measured by the m edian, the quartile deviation is the fit",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "considering whether there is bias in the revision process (i.e. there may be some degree of",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "8. Testing GDP revisions for bias",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "There is no statistically significant bias to the UK GDP revisions at 1 year, 2 years or 3 years after the initial estimates at the",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Our article showed that GDP revisions remain small and unbiased over the initial Blue Book revisions periods, and noted the",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "test the GDP revisions for the UK and of all these countries for bias",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "show the sign of revisions, it does not give an indication of any possible directional bias.",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "While the magnitude and direction of revisions is important, it is also important to identify if there is a bias within a country’s",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Japan, Norway, Spain and Switzerland. Countries with some bias in some of their estimates at the 5% or 10% significance",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "level include Canada, Denmark, France, New Zealand and Portugal. The countries with the highest levels of bias, often at the",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "after the first GDP estimates is at least as good as most other countries, and better than many, and shows no systematic bias.",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Netherlands who only benchmark periodically may not be showing true “bias” in their quarterly GDP growth estimates.",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "came to the size of gross domestic product GDP revisions. The UK GDP revisions show no signs of statistically significant bias",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "indication of potential bias in these countries’ early estimates. However, based on the detailed data, it would appear that",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "supported by the finding that there is no statistically significant bias to the UK GDP revisions at 1 year, 2 years or 3 years after",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "rates, then clearly policy mistakes could be made if the central bank does not account for data",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "biased and inefficient based on ex-post tests, while Aruoba (2008) found the same result for U.S.",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "To some extent, the findings that initial data releases are biased and inefficient relative to",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "papers that were actually able to do so. In part, that may be because bias that is observed after the",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "and led to biased forecasts. Trivellato-Rettore (1986) showed that data errors (using Italian data)",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/yoshi993/n/n9867d7c5a9c6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tatsuya_sabato/n/nb0e5450a0325",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yohashi/m/madbcb02a45df/hashtag/%E5%88%A4%E5%AE%9A",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yoshi993/n/n24c3dbc880aa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/GDP%E7%B5%B1%E8%A8%88",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/creator_lab1/n/n2c861ac13b0f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nanto_econ/n/nceee2f36c432",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E7%B5%B1%E8%A8%88%E5%AD%A6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tnishimaki/n/ndbaaed8d02be",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/todobuono/n/nd3a52dd79974",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.esri.cao.go.jp/jp/esri/archive/e_rnote/e_rnote070/e_rnote062.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOCD167AL0W5A610C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.esri.cao.go.jp/jp/sna/menu.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tkfd.or.jp/research/detail.php?id=4396",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.world-economic-review.jp/impact/article4135.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dlri.co.jp/pdf/macro/2019/naga20191216gdp.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000808714.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.icr.co.jp/service/infocom-ict/download/discussion-paper/pdf/2016/DP_05_201605.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nstac.go.jp/sys/files/static/services/pdf/setumeikai-20201117y.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/microdata/micro/jirei/jirei1/06",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/dstart/case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.adachi.tokyo.jp/somu/ku/aramashi/toke-katsuyojire.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://okanebye-man.com/economic-terms/data-revision/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://one.oecd.org/document/COM/SDD/DAF(2019)11/en/pdf",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oecd.org/en/publications/undertaking-revisions-and-real-time-data-analysis-using-the-oecd-main-economic-indicators-original-release-data-and-revisions-database_146528313656.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.centralbankmalta.org/site/Reports-Articles/2018/RB-2018-Article-4.pdf?revcount=9233",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "統計の改定の分析（速報と確報の差の平均・平均絶対改定・改定の偏りの検定・版の付いた時系列データベース・OECD 改定分析・4-128） site:note.com",
+   "results": [
+    "https://note.com/yoshi993/n/n9867d7c5a9c6",
+    "https://note.com/tatsuya_sabato/n/nb0e5450a0325",
+    "https://note.com/yohashi/m/madbcb02a45df/hashtag/%E5%88%A4%E5%AE%9A",
+    "https://note.com/yoshi993/n/n24c3dbc880aa",
+    "https://note.com/tag/GDP%E7%B5%B1%E8%A8%88",
+    "https://note.com/creator_lab1/n/n2c861ac13b0f",
+    "https://note.com/yoshi993/n/n23319afbc4e7",
+    "https://note.com/tatsuya_sabato/n/nd7e859f18b8a",
+    "https://note.com/todobuono/n/n74c5a63bfea5",
+    "https://note.com/ripe_ixora5107/n/n65a78d02a269"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "統計の改定の分析（速報と確報の差の平均・平均絶対改定・改定の偏りの検定・版の付いた時系列データベース・OECD 改定分析・4-128） note",
+   "results": [
+    "https://note.com/nanto_econ/n/nceee2f36c432",
+    "https://note.com/tag/%E7%B5%B1%E8%A8%88%E5%AD%A6",
+    "https://note.com/tnishimaki/n/ndbaaed8d02be",
+    "https://note.com/todobuono/n/nd3a52dd79974",
+    "https://www.esri.cao.go.jp/jp/esri/archive/e_rnote/e_rnote070/e_rnote062.pdf",
+    "https://www.nikkei.com/article/DGXZQOCD167AL0W5A610C2000000/",
+    "https://engineerteam.note.jp/m/mf9b71b6f1b8d/hashtag/%E7%B5%B1%E8%A8%88",
+    "https://www.nli-research.co.jp/report/detail/id=84399?site=nli"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "統計の改定の分析（速報と確報の差の平均・平均絶対改定・改定の偏りの検定・版の付いた時系列データベース・OECD 改定分析・4-128） やり方",
+   "results": [
+    "https://www.esri.cao.go.jp/jp/sna/menu.html",
+    "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
+    "https://www.tkfd.or.jp/research/detail.php?id=4396",
+    "https://www.world-economic-review.jp/impact/article4135.html",
+    "https://www.dlri.co.jp/pdf/macro/2019/naga20191216gdp.pdf",
+    "https://www.soumu.go.jp/main_content/000808714.pdf",
+    "https://www.stat.go.jp/naruhodo/10_tokucho/sonota.html",
+    "https://www.hitachi-solutions-east.co.jp/products/unisquare_ml/column/",
+    "https://ja.wikipedia.org/wiki/基準改定",
+    "https://crexgroup.com/ja/data/column/data-ops/statistical-data-analysis-guide/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "統計の改定の分析（速報と確報の差の平均・平均絶対改定・改定の偏りの検定・版の付いた時系列データベース・OECD 改定分析・4-128） 事例",
+   "results": [
+    "https://www.icr.co.jp/service/infocom-ict/download/discussion-paper/pdf/2016/DP_05_201605.pdf",
+    "https://www.nstac.go.jp/sys/files/static/services/pdf/setumeikai-20201117y.pdf",
+    "https://www.e-stat.go.jp/microdata/micro/jirei/jirei1/06",
+    "https://www.tkfd.or.jp/research/detail.php?id=4396",
+    "https://www.soumu.go.jp/main_content/000808714.pdf",
+    "https://www.stat.go.jp/dstart/case/",
+    "https://www.city.adachi.tokyo.jp/somu/ku/aramashi/toke-katsuyojire.html",
+    "https://www.youtube.com/watch?v=mE-v3Ny6pdo",
+    "https://okanebye-man.com/economic-terms/data-revision/",
+    "https://www.nli-research.co.jp/report/detail/id=84399"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "revision analysis mean revision mean absolute revision bias test real-time vintage database OECD",
+   "results": [
+    "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "https://one.oecd.org/document/COM/SDD/DAF(2019)11/en/pdf",
+    "https://www.oecd.org/en/publications/undertaking-revisions-and-real-time-data-analysis-using-the-oecd-main-economic-indicators-original-release-data-and-revisions-database_146528313656.html",
+    "https://www.centralbankmalta.org/site/Reports-Articles/2018/RB-2018-Article-4.pdf?revcount=9233",
+    "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/8c/8c4af1d35804845949eb309f8b76d4ca4b04174c8209022a18faf9f1cc721f47.pdf",
+    "https://www.dallasfed.org/research/international/oecd",
+    "https://onlinelibrary.wiley.com/doi/full/10.1111/obes.12677",
+    "https://ropensci.org/blog/2026/04/13/reviser/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 統計の改定の分析（速報と確報の差の平均・平均絶対改定・改定の偏りの検定・版の付いた時系列データベース・OECD 改定分析・4-128）",
+   "results": [
+    "https://note.com/yoshi993/n/n9867d7c5a9c6",
+    "https://note.com/tatsuya_sabato/n/nb0e5450a0325",
+    "https://note.com/statistics_ai/n/n5c3557fcb50a",
+    "https://note.com/yohashi/m/madbcb02a45df/hashtag/%E5%88%A4%E5%AE%9A",
+    "https://note.com/yoshi993/n/n24c3dbc880aa",
+    "https://note.com/tatsuya_sabato/n/nd7e859f18b8a",
+    "https://note.com/todobuono/n/n74c5a63bfea5",
+    "https://note.com/creator_lab1/n/n2c861ac13b0f",
+    "https://note.com/yoshi993/n/n23319afbc4e7",
+    "https://note.com/jaguar2000/n/n8475a8edb654"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com 統計の改定の分析（速報と確報の差の平均・平均絶対改定・改定の偏りの検定・版の付いた時系列データベース・OECD 改定分析・4-128）",
+   "results": [
+    "https://x.com/Street_Insights/status/2093375559300690076",
+    "https://x.com/Street_Insights/status/1887866842976555229",
+    "https://x.com/kantei/status/2053840233100415376",
+    "https://x.com/nli_research/status/2116068472547664050",
+    "https://x.com/jri_eco/status/2095006830531678641",
+    "https://x.com/Min_FX/status/1826126417060573281",
+    "https://x.com/genkuroki/status/1322449090559422464",
+    "https://x.com/BloombergJapan/status/2027371929405997139",
+    "https://x.com/MIC_JAPAN/status/2004118158454718862",
+    "https://x.com/keitakeuchi0807/status/2093244228147269977"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com 統計の改定の分析（速報と確報の差の平均・平均絶対改定・改定の偏りの検定・版の付いた時系列データベース・OECD 改定分析・4-128）",
+   "results": [
+    "https://jp.linkedin.com/in/tatsuya-ozaki-669180321",
+    "https://jp.linkedin.com/in/takayuki-matsuura",
+    "https://aq.linkedin.com/jobs/view/%E3%80%90%E7%B5%8C%E9%A8%93%E6%AD%93%E8%BF%8E%E3%80%91ai-%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88-%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90-at-tce%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0-4437010801",
+    "https://jp.linkedin.com/pulse/%E5%8C%85%E6%8B%AC%E7%9A%84%E3%81%AA%E5%8C%BB%E7%99%82%E8%AB%8B%E6%B1%82%E5%87%A6%E7%90%86%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4%E5%88%86%E6%9E%90142%E3%81%AEcagr%E3%81%A7%E6%88%90%E9%95%B72026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E8%A6%8F%E6%A8%A1%E3%81%A8%E4%BA%88%E6%B8%AC%E3%82%92%E5%90%AB%E3%82%80-trellis-tracks-h17ce",
+    "https://www.linkedin.com/in/kenjiasada",
+    "https://jp.linkedin.com/jobs/view/%E5%95%86%E5%93%81-%E3%83%97%E3%83%A9%E3%82%A4%E3%82%B7%E3%83%B3%E3%82%B0%E3%82%A2%E3%82%AF%E3%83%81%E3%83%A5%E3%82%A2%E3%83%AA%E3%83%BC%EF%BC%88jg60%EF%BC%89-product%E3%80%90%E3%82%A2%E3%82%AF%E3%82%B5%E6%90%8D%E5%AE%B3%E4%BF%9D%E9%99%BA%E3%80%91-at-axa-japan-4373591425",
+    "https://jp.linkedin.com/pulse/%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E9%AB%98%E5%AF%86%E5%BA%A6%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%83%91%E3%83%8D%E3%83%AB%E5%B8%82%E5%A0%B4%E5%88%86%E6%9E%902026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E6%9C%9F%E9%96%93%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%B8%82%E5%A0%B4%E8%A6%8F-7512679302216204289-4vuqe",
+    "https://jp.linkedin.com/jobs/view/heor-hta-manager-at-ucb-4487702927",
+    "https://www.linkedin.com/in/hinako-hamasaki-04387414/ja",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E4%BE%A1%E6%A0%BC%E6%9C%AC%E9%83%A8%E3%80%91%E3%83%97%E3%83%A9%E3%82%A4%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88-%E4%BE%A1%E6%A0%BC%E3%82%92%E7%A7%91%E5%AD%A6%E3%81%97%E3%81%A6%E5%A4%A7%E3%81%8D%E3%81%AA%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%82%A4%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88-at-cyberagent-inc-4479834247"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com 統計の改定の分析（速報と確報の差の平均・平均絶対改定・改定の偏りの検定・版の付いた時系列データベース・OECD 改定分析・4-128）",
+   "results": [
+    "https://www.facebook.com/nliresearch/posts/%E7%B1%B3%E5%80%8B%E4%BA%BA%E6%89%80%E5%BE%97%E6%B6%88%E8%B2%BB%E6%94%AF%E5%87%BA26%E5%B9%B49%E6%9C%88%E5%80%8B%E4%BA%BA%E6%89%80%E5%BE%97%E6%B6%88%E8%B2%BB%E6%94%AF%E5%87%BA%E3%81%A8%E3%82%82%E3%81%AB%E5%89%8D%E6%9C%88%E3%81%8A%E3%82%88%E3%81%B3%E5%B8%82%E5%A0%B4%E4%BA%88%E6%83%B3%E3%82%92%E4%B8%8B%E5%9B%9E%E3%82%8B10%E6%9C%8829%E6%97%A5%E7%B1%B3%E5%95%86%E5%8B%99%E7%9C%81%E3%81%AE%E7%B5%8C%E6%B8%88%E5%88%86%E6%9E%90%E5%B1%80%EF%BD%82%EF%BD%85%EF%BD%81%E3%81%AF9%E6%9C%88%E3%81%AE%E5%80%8B%E4%BA%BA%E6%89%80%E5%BE%97%E6%B6%88%E8%B2%BB%E6%94%AF%E5%87%BA%E7%B5%B1%E8%A8%88%E3%82%92%E5%85%AC%E8%A1%A8%E3%81%97%E3%81%9F%E5%80%8B%E4%BA%BA%E6%89%80%E5%BE%97/1634572091797528/",
+    "https://www.facebook.com/nliresearch/posts/%E7%B1%B3%E5%80%8B%E4%BA%BA%E6%89%80%E5%BE%97%E6%B6%88%E8%B2%BB%E6%94%AF%E5%87%BA26%E5%B9%B48%E6%9C%88pce%E4%BE%A1%E6%A0%BC%E6%8C%87%E6%95%B0-%E3%81%AF%E7%B7%8F%E5%90%88%E3%82%B3%E3%82%A2%E3%81%A8%E3%82%82%E3%81%AB%E5%89%8D%E5%B9%B4%E5%90%8C%E6%9C%88%E6%AF%94%E3%81%A7%E5%89%8D%E6%9C%88%E3%81%AB%E4%B8%80%E8%87%B4%E5%B8%82%E5%A0%B4%E4%BA%88%E6%83%B3%E3%82%92%E4%B8%8B%E5%9B%9E%E3%82%8B9%E6%9C%8830%E6%97%A5%E7%B1%B3%E5%95%86%E5%8B%99%E7%9C%81%E3%81%AE%E7%B5%8C%E6%B8%88%E5%88%86%E6%9E%90%E5%B1%80%EF%BD%82%EF%BD%85%EF%BD%81%E3%81%AF8%E6%9C%88%E3%81%AE%E5%80%8B%E4%BA%BA%E6%89%80%E5%BE%97%E6%B6%88%E8%B2%BB%E6%94%AF%E5%87%BA%E7%B5%B1/1606532367934834/",
+    "https://www.facebook.com/nliresearch/posts/%E7%B1%B3%EF%BD%87%EF%BD%84%EF%BD%9026%E5%B9%B479%E6%9C%88%E6%9C%9F%E5%89%8D%E6%9C%9F%E6%AF%94%E5%B9%B4%E7%8E%8734%E3%81%A8%E5%89%8D%E6%9C%9F%E3%81%8B%E3%82%89%E4%BC%B8%E3%81%B3%E3%81%8C%E5%A4%A7%E5%B9%85%E3%81%AB%E5%8A%A0%E9%80%9F%E5%B8%82%E5%A0%B4%E4%BA%88%E6%83%B332%E3%82%82%E4%B8%8A%E5%9B%9E%E3%82%8B10%E6%9C%8829%E6%97%A5%E7%B1%B3%E5%95%86%E5%8B%99%E7%9C%81%E3%81%AE%E7%B5%8C%E6%B8%88%E5%88%86%E6%9E%90%E5%B1%80%EF%BD%82%EF%BD%85%EF%BD%81%E3%81%AF26%E5%B9%B479%E6%9C%88%E6%9C%9F%E3%81%AE%EF%BD%87%EF%BD%84%EF%BD%90%E7%B5%B1%E8%A8%881%E6%AC%A1%E9%80%9F%E5%A0%B1%E5%80%A4%E3%82%92/1634528495135221/",
+    "https://www.facebook.com/goldcompass79/posts/gold-compass-knowledge-libraryvolume-107%E9%87%91%E3%81%AE%E9%9C%80%E8%A6%81%E7%B5%B1%E8%A8%88%E3%81%AF%E3%81%AA%E3%81%9C%E5%BE%8C%E3%81%8B%E3%82%89%E6%95%B0%E5%AD%97%E3%81%8C%E5%A4%89%E3%82%8F%E3%82%8B%E3%81%AE%E3%81%8B%E3%81%A9%E3%81%AE%E6%99%82%E7%82%B9%E3%81%AE%E6%8E%A8%E8%A8%88%E3%81%8B%E3%82%92%E7%A2%BA%E3%81%8B%E3%82%81%E5%90%8C%E3%81%98%E7%89%88%E3%81%AE%E6%95%B0%E5%AD%97%E3%81%A7%E6%AF%94/122132275461395150/",
+    "https://www.facebook.com/nfumanagement/posts/2020%E5%B9%B4%E3%81%AB%E9%96%8B%E5%82%AC%E4%BA%88%E5%AE%9A%E3%81%A7%E3%81%82%E3%81%A3%E3%81%9F%E5%8C%BB%E7%99%82%E7%B5%8C%E5%96%B6%E5%AD%A6%E4%BC%9A%E3%81%AE%E7%AC%AC12%E5%9B%9E%E5%A4%8F%E5%AD%A3%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%81%8C2022%E5%B9%B4%E3%81%AE6%E6%9C%8811%E6%97%A5%E5%9C%9F%E3%81%AB%E3%82%A6%E3%82%A4%E3%83%B3%E3%82%AF%E3%81%82%E3%81%84%E3%81%A1%E3%81%A7%E6%94%B9%E3%82%81%E3%81%A6%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E6%97%A5%E6%9C%AC%E7%A6%8F%E7%A5%89%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E7%B5%8C%E5%96%B6/808961403837397/",
+    "https://www.facebook.com/rosei.info/posts/%E5%8A%B4%E6%94%BF%E6%99%82%E5%A0%B1%E3%81%AE%E6%9C%80%E6%96%B0%E5%8F%B7%E7%AC%AC3977%E5%8F%B7%E3%81%AE%E8%A8%98%E4%BA%8B%E3%82%92web%E5%8A%B4%E6%94%BF%E6%99%82%E5%A0%B1%E3%81%AB%E5%85%AC%E9%96%8B%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-%E5%8A%B4%E5%8B%99%E8%A1%8C%E6%94%BF%E7%A0%94%E7%A9%B6%E6%89%80%E3%81%8B%E3%82%89%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B-823%E9%87%91%E9%96%8B%E5%82%AChr%E3%82%A4%E3%83%96%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3-%E3%81%94%E5%8F%82%E5%8A%A0%E8%80%85%E5%8B%9F%E9%9B%86%E4%B8%AD-%E7%B5%B1%E8%A8%88%E8%A7%A3%E6%9E%90%E3%81%AE/2477768828947651/",
+    "https://www.facebook.com/sanroclover/posts/887619867924174/?locale=ja_JP",
+    "https://www.facebook.com/nliresearch/posts/%E7%B1%B3%E5%80%8B%E4%BA%BA%E6%89%80%E5%BE%97%E6%B6%88%E8%B2%BB%E6%94%AF%E5%87%BA25%E5%B9%B41%E6%9C%88-%E7%89%B9%E6%AE%8A%E8%A6%81%E5%9B%A0%E3%81%A7%E5%80%8B%E4%BA%BA%E6%89%80%E5%BE%97%E5%89%8D%E6%9C%88%E6%AF%94%E3%81%AF1%E5%B9%B4%E3%81%B6%E3%82%8A%E3%81%AE%E4%B8%8A%E6%98%87%E3%81%A8%E3%81%AA%E3%81%A3%E3%81%9F%E4%B8%80%E6%96%B9%E5%80%8B%E4%BA%BA%E6%B6%88%E8%B2%BB%E3%81%AF%E5%B8%82%E5%A0%B4%E4%BA%88%E6%83%B3%E3%82%92%E4%B8%8B%E5%9B%9E%E3%82%8B-2%E6%9C%8828%E6%97%A5%E7%B1%B3%E5%95%86%E5%8B%99%E7%9C%81-%E3%81%AE%E7%B5%8C%E6%B8%88%E5%88%86%E6%9E%90%E5%B1%80bea%E3%81%AF1%E6%9C%88%E3%81%AE-%E5%80%8B/1137545671500175/",
+    "https://www.facebook.com/rosei.info/posts/2026%E5%B9%B4%E7%89%88-%E3%83%A2%E3%83%87%E3%83%AB%E8%B3%83%E9%87%91%E5%B9%B4%E5%8F%8E%E3%81%A8%E6%98%87%E7%B5%A6%E8%B3%9E%E4%B8%8E%E3%82%92%E7%99%BA%E8%A1%8C%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E5%8A%B4%E5%8B%99%E8%A1%8C%E6%94%BF%E7%A0%94%E7%A9%B6%E6%89%80-%E7%B7%A82026%E5%B9%B4%E3%81%AE%E8%B3%83%E9%87%91%E4%BA%A4%E6%B8%89%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E8%87%AA%E7%A4%BE%E8%B3%83%E9%87%91%E5%88%86%E6%9E%90%E7%94%A8%E3%81%AE%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AB%E6%9C%80%E9%81%A9%E5%AE%9A%E6%98%87%E3%83%99%E3%82%A2%E3%81%AE%E5%8B%95%E5%90%91%E8%B3%83%E4%B8%8A%E3%81%92%E9%85%8D%E5%88%86%E3%81%8B%E3%82%89%E8%81%B7%E5%8B%99%E7%B3%BB/1804881120450844/",
+    "https://www.facebook.com/groups/281769248591787/posts/28164513079890696/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "統計の改定の分析（速報と確報の差の平均・平均絶対改定・改定の偏りの検定・版の付いた時系列データベース・OECD 改定分析・4-128） note 社長",
+   "results": [
+    "https://note.com/tag/%E7%B5%B1%E8%A8%88%E5%AD%A6",
+    "https://note.com/todobuono/m/m215eef620834",
+    "https://note.com/nanto_econ/n/nceee2f36c432",
+    "https://note.com/tag/%E7%B5%B1%E8%A8%88",
+    "https://www.youtube.com/watch?v=7nIz4yO2ODA",
+    "https://www.soumu.go.jp/main_content/000808714.pdf",
+    "https://www.esri.cao.go.jp/jp/sna/menu.html",
+    "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
+    "https://note.com/tnishimaki/n/ndbaaed8d02be",
+    "https://note.com/tag/統計学"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "統計の改定の分析（速報と確報の差の平均・平均絶対改定・改定の偏りの検定・版の付いた時系列データベース・OECD 改定分析・4-128） X 投稿",
+   "results": [
+    "https://www.comnico.jp/we-love-social/how-to-use-twitter-analytics",
+    "https://soundcharts.com/ja/twitter-analytics",
+    "https://www.aspicjapan.org/asu/article/48686",
+    "https://thunderbit.com/ja/blog/x-stats",
+    "https://sinis-x.tetemarche.co.jp/",
+    "https://business.x.com/ja/analytics",
+    "https://taga-tame.com/blog/explain-how-to-analyze-twitter-analytics/",
+    "https://it-trend.jp/sns_management_tool/article/884-4999",
+    "https://sns.userlocal.jp/column/how-to-twitter-analytics/",
+    "https://kotanigawakenji.com/generative-ai-marketing/chatgpt-x-analysis"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "revision analysis mean revision mean absolute revision bias test real-time vintage database OECD site:linkedin.com",
+   "results": [
+    "https://si.linkedin.com/in/joaopitacosta",
+    "https://www.linkedin.com/pulse/only-vintage-analysis-guide-youll-ever-need-lessons-from-jackie-leung-elhge",
+    "https://www.linkedin.com/pulse/post-22-45-vintage-analysis-risk-signal-hiding-plain-sight-kotamraju-31s0c",
+    "https://de.linkedin.com/posts/andreas-peichl-67041812a_read-ger-introducing-german-real-time-regional-activity-7046151881013780481-HB5P",
+    "https://www.linkedin.com/posts/adnan-siddique128_creditrisk-riskmanagement-banking-activity-7501603816887349249--UDQ",
+    "https://www.linkedin.com/pulse/beyond-rearview-mirror-why-vintage-analysis-auto-lending-wohanka-kwe3c/",
+    "https://www.linkedin.com/pulse/opportunity-set-bias-mean-reversion-trading-systems-carlo-zarattini-ilvte",
+    "https://www.linkedin.com/pulse/vintage-analysis-ecl-what-new-loan-cohorts-reveal-risk-ramachandra-fyemc"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  }
+ ],
+ "missing": {},
+ "new_this_run": {
+  "一次情報の探し方": [
+   {
+    "quote": "http://www.oecd.org/dataoecd/44/36/40308976.pdf?contentId=40308977",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "http://www.oecd.org/dataoecd/20/26/34350524.pdf.",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2005, Paris http://www.oecd.org/dataoecd/55/17/35010765.pdf.",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Paris. http://www.oecd.org/dataoecd/13/49/35440080.pdf",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "http://www.oecd.org/dataoecd/44/38/40309461.pdf?contentId=40309462",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "http://www.oecd.org/dataoecd/45/29/36561675.pdf",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "http://www.cirano.qc.ca/fin/Real-timeData/2007/McKenzie.pdf",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "http://www.oecd.org/dataoecd/47/15/40315408.pdf",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ONS, UK. http://www.oecd.org/dataoecd/43/62/33779647.pdf",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "statistics on how to interpret the results of a revision analys es for economic variable s",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "this document for other sophisticated / specific user methods.",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "aware of changes to compilation methods that may have occurred over time to the",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3 The task-force has made recommendations on how to build a database of „real-time‟ data required for",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "the real-time dataset available to analyse. The reader is therefore referred to the guidelines on how to build",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "expect a non-zero mean revision, such as the impact of methodological or definitional changes which may",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "9. Removing the UK RPI to CPI methodological change",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "13. Next steps",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "with most other countries if the UK’s unique deflator methodological improvement is removed.",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "methods used to compile the quarterly path, the differences between the quarters are no larger than for many other countries.",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "after the reference period, or to publish a first estimate and then ignore any subsequent new data and any methodological",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "assess the impact on UK revisions from removing the major UK methodological change of deflating using the Consumer",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "draw conclusions and recommend next steps",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "publication each year. Larger scale revisions to methodology and concepts vary by country, with some countries opening up",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "the back history as and when required, while other countries had a more rigid policy of large scale methodological changes",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Major benchmarks and longer-term methods improvements become even more relevant if we expand the analysis to include",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "caused by more fundamental methodological improvements and changes to the national accounts framework, which tend to",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "However, once the UK’s unique deflator methodological improvement is removed the revisions again become much more in",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2010 methodological changes likely to be leading to stronger growth than previously estimated in 2012 and 2013.",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "basis to bring in new data, annual benchmarks and improved methodology. Each of these improvements have been included",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "performance. The T + 59 months will bring more of the longer-term methods changes into the analysis as seen in",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "incorporate improved methods, more-current weights, and more-recent data.",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "later releases and because the index methodology changed over time after the real-time index",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "added news. Mork (1987) used GMM methods to show that “final” NIPA data contain news,",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "A complicating factor in th e government’s decision about how to develop data is the",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "methods to predict revisions for many different variables.",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "to help us discover how to model such revisions for use in macroeconomic models, for",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "intermediate releases of the data, which could help data agencies improve their methods, if they",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "methodology to arrive at a measure that matches the theoretical concept for that variable. But",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "generally produce forecasts of variables based on currently existing methodologies and cannot be",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "expected to predict future changes in methodology. We should not expect forecasters to",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "(1983) used state-space methods with missing observations to account for irregular data revisions",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Patterson (2003) illustrated how to combine the measurement process with the data generation",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "using these methods in practice found little scope for improvement. For example, Howrey (1984)",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "very well in real time. Much of the research described above uses some method to try to",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "step to take. One approach, developed by Aruoba (2004), is to incorporate data revisions into a",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "revision interval for say first published estimates of third quarter and fourth quarter data).",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Lt: later estimate for reference period t",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Pt: preliminary (earlier) estimate for reference period t",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3.6 What is the average size of revision relative to the estimate itself?",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3.7 Is the earlier published estimate a good or ‘efficient’ forecast of the later",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "interval (e.g. M3_P implies the revision between first published estimates (i.e. P) and",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "that on average earlier releases have been under -estimated (negative sign means over -",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "estimated). Revisions of opposite sign will have a tendency to cancel out, consequentially",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "exists in the earlier estimates. Four possible outcomes have been chosen to describe",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "7 One should be wary of concluding a bias exists for the earlier published estimate if the mean revision is",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "variable that follows a normal distribution with variance estimate as above, the t -critic",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "estimate and the sign of earlier estimate are the same.",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "acceleration / deceleration test. Tha t is, if the earlier estimate indicates that growth is",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "later estimate also signifies this.",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "of the size of the earlier estimates. Aside from the above issue, it is useful as a measure",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "There is no statistically significant bias to the UK GDP revisions at 1 year, 2 years or 3 years after the initial estimates at the",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Statistics (ONS) to produce the best possible estimate of United Kingdom (UK) gross domestic product (GDP) using all of the",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "after the reference period, or to publish a first estimate and then ignore any subsequent new data and any methodological",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "show a consistent theme with most countries using quarterly rounds to revise their GDP estimates within the current year",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "number of countries that can be included in the analysis. Hence the comparison covers GDP estimates between the fourth",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "underestimate GDP growth in their early estimates. The exceptions to this are Japan, Norway and the USA; France and New",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Zealand tend to see negative revisions to earlier estimates, followed by upward revisions to later estimates.",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Japan, Norway, Spain and Switzerland. Countries with some bias in some of their estimates at the 5% or 10% significance",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "after the first GDP estimates is at least as good as most other countries, and better than many, and shows no systematic bias.",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Netherlands who only benchmark periodically may not be showing true “bias” in their quarterly GDP growth estimates.",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "How does the revisions performance change when latest estimates are included?",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ago are shown in Figures 5 and 6, with revisions from the first estimate to the latest included.",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Figure 5: Mean GDP growth revisions, including latest estimates, for quarter on quarter growth, chained volume",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Figure 6: Mean GDP growth revisions, including latest estimates, for quarter on quarter a year ago growth, chained",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "higher growth rates in the volume estimates of the statistic that is being deflated – in this case consumption, and hence the",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "(flash) estimate of GDP that the U.S. government produced for a few years was as accurate as",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "the estimate released in the month following the quarter. Despite that result, the government",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "revisions) than revisions to the non-seasonally adjusted estimates; for example, see Fixler-",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "preliminary data on Mexican industrial production to get improved estimates of final data; and",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "input into the model, the change in the data affects the estimated coefficients, and the model",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "in a simultaneous-equations model affected everything, including the estimated coefficients and",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "optimal to estimate a model without using the most recent preliminary data because those data",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Such concepts are never observed, but policymakers and their staffs may estimate such concepts",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "in real time. If their estimates are far from the mark, policy decisions may be poor.",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "measure improves dramatically as time passes. As Watson (2007) notes: “One-sided estimates",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "estimates used for historical analysis.” This may not be an area that will be fruitful for future",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Estimates.” North American Journal of Economics and Finance 16 (December 2005), pp. 373-",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Retail Sales Estimates.” Journal of Economic Dynamics and Control 1 (1979), pp. 177-98.",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Denton, Frank T., and John Kuiper. “The Effect of Measurement Errors on Parameter Estimates",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Dynan, Karen E., and Douglas Elmendorf. “Do Provisional Estimates of Output Miss Economic",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "example, a user may be interested in studying revision between first published data and",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "statistical agency publishing the data. For example, if reconciliation with annual data",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3.5 In the case of growth rates, how often is the later published growth rate in the",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "data points of the time series. For example, 1994Q1 – 2007Q3 represents 55",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "% of positive revisions : it returns the number of cases revised upward as a proportion of",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "% of negative revisions: it returns the number of cases revised down ward as a proportion",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "% of zero revisions: it returns the number of cases with null revision as a proportion of",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "This is an extreme case of unreliability, although it may be that the change of a small",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "higher growth rates in the volume estimates of the statistic that is being deflated – in this case consumption, and hence the",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Canada is another example of the economic downturn becoming weaker through subsequent revisions. Initially their 4 quarter",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "their revisions policy that the GDP numbers produced at the preliminary stage (45 days after the period in this case) and",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "rather than a genuine improvement in revisions performance in most cases. Denmark, Finland, France, Italy, Portugal,",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "For example, predictable revisions of U.S. industrial production led the Federal Reserve to",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Generally, revisions improve the quality of the data. For example, the U.S. consumer price",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "For example, someone in November 1965 who looked up the values of real GDP would",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "One of the best examples of papers that analyze data revisions is Diebold-Rudebusch",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "be substantial. For example, Figure 1 shows the history over vintage time of the growth rate of",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "considerably affect any analysis in the short run. For example, if the quarterly growth rate of",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "example, for real consumption spending, of growth rates over five-year periods and how much",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "example, the average annual growth rate of real consumption spending from 1975 to 1979 was",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "1996. But even in the chain-weighted era, some large revisions have occurred. For example, the",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "that is, vty is orthogonal to vte . In this case, revisions to the data will not be predictable because",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Sargent (1989). Consider, for example, the government agency reporting GDP. One option is for",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "example, suppose the sample information on the components of GDP suggests that it will grow",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "agency could release a measure that is an optimal forecast of later revised data. For example, an",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "revisions. In some cases, the revisions to seasonal factors are larger (in terms of mean absolute",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "revisions) than revisions to the non-seasonally adjusted estimates; for example, see Fixler-",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "revisions are more in one direction than another, suggesting possible bias in the earlier",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "the average size of the revisions, but it cannot provide an indication of directional bias",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "be of limited use (also called “average bias”).",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "revision is statistically different from zero which may give an insight of whether a bias 7",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "7 One should be wary of concluding a bias exists for the earlier published estimate if the mean revision is",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Root mean square revision: it essentially combines the degree of bias (i.e. mean revision)",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Quartile deviation: if the bias is measured by the m edian, the quartile deviation is the fit",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "considering whether there is bias in the revision process (i.e. there may be some degree of",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "8. Testing GDP revisions for bias",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "There is no statistically significant bias to the UK GDP revisions at 1 year, 2 years or 3 years after the initial estimates at the",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Our article showed that GDP revisions remain small and unbiased over the initial Blue Book revisions periods, and noted the",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "test the GDP revisions for the UK and of all these countries for bias",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "show the sign of revisions, it does not give an indication of any possible directional bias.",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "While the magnitude and direction of revisions is important, it is also important to identify if there is a bias within a country’s",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Japan, Norway, Spain and Switzerland. Countries with some bias in some of their estimates at the 5% or 10% significance",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "level include Canada, Denmark, France, New Zealand and Portugal. The countries with the highest levels of bias, often at the",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "after the first GDP estimates is at least as good as most other countries, and better than many, and shows no systematic bias.",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Netherlands who only benchmark periodically may not be showing true “bias” in their quarterly GDP growth estimates.",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "came to the size of gross domestic product GDP revisions. The UK GDP revisions show no signs of statistically significant bias",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "indication of potential bias in these countries’ early estimates. However, based on the detailed data, it would appear that",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "supported by the finding that there is no statistically significant bias to the UK GDP revisions at 1 year, 2 years or 3 years after",
+    "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "rates, then clearly policy mistakes could be made if the central bank does not account for data",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "biased and inefficient based on ex-post tests, while Aruoba (2008) found the same result for U.S.",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "To some extent, the findings that initial data releases are biased and inefficient relative to",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "papers that were actually able to do so. In part, that may be because bias that is observed after the",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "and led to biased forecasts. Trivellato-Rettore (1986) showed that data errors (using Italian data)",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-09T11:56:43.600654+00:00"
+}

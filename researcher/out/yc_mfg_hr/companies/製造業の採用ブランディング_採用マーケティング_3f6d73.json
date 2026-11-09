@@ -1,0 +1,1645 @@
+{
+ "name": "製造業の採用ブランディング・採用マーケティング",
+ "en": "employer branding platform for manufacturers",
+ "aliases": [
+  "manufacturing employer brand software",
+  "recruitment marketing for manufacturers",
+  "manufacturing careers video platform",
+  "manufacturing recruitment marketing agency software"
+ ],
+ "context": "ブランディング",
+ "kind": "market",
+ "researched_at": "2026-11-09T11:57:02.678894+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "Recruiting Startups funded by Y Combinator (YC) 2026 | Y Combinator",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Recruiting Startups funded by Y Combinator (YC) 2026",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Browse 60 of the top Recruiting startups funded by Y Combinator.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "We also have a Startup Directory where you can",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Lantern is the agentic recruiting platform for enterprise.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "(2) Company Hiring Model, which learns your taste from every hiring decision you’ve ever made",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Lantern also launched OpenRouter for People (people.lantern.md), an agent-native infrastructure to empower agents to find, research, outreach to anyone in the world.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "dreach finds companies about to hire, restructuring, or switching MSP or VMS vendors, then gives you the decision maker's cell to call. your recruiters keep recruiting.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Contrario is an AI recruiting and hiring platform on a mission to help companies build generational teams.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "In under six months, Contrario has crossed $6M in annualized revenue, paid out $1M+ to recruiters, and placed 150+ candidates — making it one of the fastest-growing AI recruiting platforms on the market.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Backed by Y Combinator, Nexus Venture Partners, Goodwater Capital, and Inventum Ventures, alongside angels including David Chen (ex-HRT), Abhijeet Dwivedi (OpenAI), Hank Couture (DoorDash), and Jerry Cain (Stanford CS). Built by Stanford dropouts. Headquartered in San Francisco.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "We're past 1M+ interviews, integrate with 33+ ATS platforms, and 96% of candidates prefer interviewing with Alex. We're revenue-generating, well-funded, backed by premier investors, and are focused on enterprise customers: selling to VPs of Talent Acquisition, CHROs, and CFOs at large employers who are rethinking how hiring gets done at scale.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "AI-powered payroll, hr, and recruiting platform. Hire and scale teams easily in the US and globally.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "You can search live company, people, and jobs data via APIs and webhooks for 10x cheaper than People Data Labs, Explorium, Cognism, CoreSignal, and others. We have verified emails and phone numbers for 4x cheaper than Clay, Apollo, and ZoomInfo.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "We've helped enterprises like HubSpot, Agent AI, Ramp, and Docusign, as well as fast-growing startups like Flatfile, Karat, Centralize, and Fonzi, get the data they need to build novel AI sales, marketing, and recruiting products with differentiated features – for a fraction of the cost of other data vendors.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Operations Startups funded by Y Combinator (YC) 2026 | Y Combinator",
+    "url": "https://www.ycombinator.com/companies/industry/operations",
+    "pass": 3
+   },
+   {
+    "quote": "Operations Startups funded by Y Combinator (YC) 2026",
+    "url": "https://www.ycombinator.com/companies/industry/operations",
+    "pass": 3
+   },
+   {
+    "quote": "Browse 134 of the top Operations startups funded by Y Combinator.",
+    "url": "https://www.ycombinator.com/companies/industry/operations",
+    "pass": 3
+   },
+   {
+    "quote": "We also have a Startup Directory where you can",
+    "url": "https://www.ycombinator.com/companies/industry/operations",
+    "pass": 3
+   },
+   {
+    "quote": "Plyxl is the workspace that molds to your business. It builds apps, creates automations, and works across your entire company.",
+    "url": "https://www.ycombinator.com/companies/industry/operations",
+    "pass": 3
+   },
+   {
+    "quote": "We’re building the context layer and operating system for strategy teams: combining employee knowledge with company data to understand operations, improve processes and put decisions into action. The same context will guide AI agents as they take over work, so the company keeps what it learns.",
+    "url": "https://www.ycombinator.com/companies/industry/operations",
+    "pass": 3
+   },
+   {
+    "quote": "Trellis is building toward a new hospitality platform: one that does not just help guests find homes, but actually operates them with agents.",
+    "url": "https://www.ycombinator.com/companies/industry/operations",
+    "pass": 3
+   },
+   {
+    "quote": "Our first wedge is short-term rental property managers, replacing their fragmented stack across guest messages, tasks, cleaners, maintenance, vendors, and owner updates with agents that run operations end-to-end.",
+    "url": "https://www.ycombinator.com/companies/industry/operations",
+    "pass": 3
+   },
+   {
+    "quote": "Callab AI is a human-centered customer engagement platform for enterprise contact centers. It lets teams deploy AI agents that handle inbound and outbound conversations across voice, chat, and messaging, while human agents and supervisors stay in control of every interaction.",
+    "url": "https://www.ycombinator.com/companies/industry/operations",
+    "pass": 3
+   },
+   {
+    "quote": "Callab AI runs on its own carrier-grade telephony stack and connects natively to Cisco, Mitel, Avaya, SIP trunks, and on-premises PBX systems. Enterprises can adopt it without migrating to the cloud first. The platform maintains SOC 2 controls and serves customers in financial services, healthcare, hospitality, and retail.",
+    "url": "https://www.ycombinator.com/companies/industry/operations",
+    "pass": 3
+   },
+   {
+    "quote": "- Native telephony integration: The platform connects directly to Cisco, Mitel, Avaya, SIP trunks, and on-premises PBX without cloud migration.",
+    "url": "https://www.ycombinator.com/companies/industry/operations",
+    "pass": 3
+   },
+   {
+    "quote": "Autostep maps how work happens across a company for humans and agents, finds repetitive tasks and bottlenecks, and ranks them by cost and impact. Then it fixes them by building agents inside existing tools, changing the process, or finding the right software.",
+    "url": "https://www.ycombinator.com/companies/industry/operations",
+    "pass": 3
+   },
+   {
+    "quote": "Founded by ex-Palantir FDEs and engineers working on transformation at scale, Terminal Use works across construction, logistics, manufacturing, retail, and other complex operating environments.",
+    "url": "https://www.ycombinator.com/companies/industry/operations",
+    "pass": 3
+   },
+   {
+    "quote": "Bubble Lab is the all-in-one platform for running professional communities and events. From member data and operations to automations and billing, everything in one place. Try it now or book a demo!",
+    "url": "https://www.ycombinator.com/companies/industry/operations",
+    "pass": 3
+   },
+   {
+    "quote": "RowFlow replaces clunky web forms with natural conversations that run over text, slack, or wherever your users are. Our platform increases your form’s response rates while cutting your internal overhead in half.",
+    "url": "https://www.ycombinator.com/companies/industry/operations",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS Startups funded by Y Combinator (YC) in the San Francisco Bay Area that are currently hiring 2026 | Y Combinator",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS Startups funded by Y Combinator (YC) in the San Francisco Bay Area that are currently hiring 2026",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "Browse 147 of the top SaaS startups funded by Y Combinator. Headquartered in the San Francisco Bay Area, these are some of the hottest and fastest-growing startups. Their teams are well-funded and actively hiring.",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "This doesn't include all companies originally founded in",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "We also have a Startup Directory where you can",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "Webflow is the leading no-code visual web development platform. It seamlessly generates sophisticated code so anyone can build powerful web-based businesses and adapt to changes without developers or months of building.",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "Webflow is backed by Y Combinator, Accel, CapitalG, Silversmith, and other awesome investors.",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "Our AI turns in-depth sales conversation analysis into company knowledge and personalized coaching to help reps close more deals.",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "Screenpipe records and learns how people in your company work and turns it into a searchable memory, documents, and AI agents. Model agnostic and data is stored on your device and/or where your team choose, source available.",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "We’re founded by Chris (2x Founder; ex-CEO at Better Nature; Forbes 30U30), Dirk (ex-Google Data & AI Lead), and Matthew (ex-Head of Product at Rosemark; Princeton MEng in CS).",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "To date, we’ve raised $6.2M and are backed by YC, firstminute capital, 6 Degrees Capital, 20VC, Rebel Fund, Duke Capital Partners, and more. Our ICP is US CPG brands doing $20M+ in retail revenue through UNFI, KeHE and DSD distributors. We sell to VPs of Sales and CEOs.",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "The incumbents prove the scale. Brokers take 5-12% of a $350B US independent grocery market, and Advantage Solutions, a publicly traded company, does $3.5B in annual revenue.",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "Hyperspell is your Company Brain. AI agents are brilliant and clueless. They ace any test and still have no idea how your company works. Hyperspell connects your tools and synthesizes documents and conversations into a live, permissioned context graph. Any agent can read from it and write back to it like a filesystem, with every fact traced to source.",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "We're a dense, small team in SF building the open source platform for working with agents.",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "Ergo is backed by Y Combinator and FundersClub, and trusted by sales teams at Pylon, Rho, Retell AI, Warp, Oneleet, and Whop.",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Software and Services Startups funded by Y Combinator (YC) in Los Angeles 2026 | Y Combinator",
+    "url": "https://www.ycombinator.com/companies/industry/b2b/los-angeles",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Software and Services Startups funded by Y Combinator (YC) in Los Angeles 2026",
+    "url": "https://www.ycombinator.com/companies/industry/b2b/los-angeles",
+    "pass": 3
+   },
+   {
+    "quote": "Browse 60 of the top B2B Software and Services startups funded by Y Combinator. Headquartered in Los Angeles, these are some of the hottest and fastest-growing startups.",
+    "url": "https://www.ycombinator.com/companies/industry/b2b/los-angeles",
+    "pass": 3
+   },
+   {
+    "quote": "This doesn't include all companies originally founded in",
+    "url": "https://www.ycombinator.com/companies/industry/b2b/los-angeles",
+    "pass": 3
+   },
+   {
+    "quote": "We also have a Startup Directory where you can",
+    "url": "https://www.ycombinator.com/companies/industry/b2b/los-angeles",
+    "pass": 3
+   },
+   {
+    "quote": "MindFort is a security swarm platform that makes it easy for teams to run continuous security testing across all their applications and services. Our fully autonomous agents powered by our in-house models that can find, exploit, and patch complex vulnerabilities in web applications at massive scale.",
+    "url": "https://www.ycombinator.com/companies/industry/b2b/los-angeles",
+    "pass": 3
+   },
+   {
+    "quote": "chrt is a logistics platform for time-critical shipping. We enable businesses to deliver their most critical items same-day.",
+    "url": "https://www.ycombinator.com/companies/industry/b2b/los-angeles",
+    "pass": 3
+   },
+   {
+    "quote": "Businesses that place time-critical orders are enterprises who have urgent items they need to deliver ASAP. These orders are critical in nature and often require white glove service -- think therapeutic treatments for healthcare providers or specialized equipment for manufacturers.",
+    "url": "https://www.ycombinator.com/companies/industry/b2b/los-angeles",
+    "pass": 3
+   },
+   {
+    "quote": "Each workspace powered by endOS, giving you a familiar channel-based experience augmented by a real desktop environment. The desktop is backed by Linux and ships with a built-in Chrome browser. Files, notes, browser tabs, native apps, terminal, and all your agents in a single beautiful, unified interface.",
+    "url": "https://www.ycombinator.com/companies/industry/b2b/los-angeles",
+    "pass": 3
+   },
+   {
+    "quote": "Voker is the Agent Analytics Platform for monitoring and improving your AI agents. Companies like Dutch.com use our SDK to build better agents.",
+    "url": "https://www.ycombinator.com/companies/industry/b2b/los-angeles",
+    "pass": 3
+   },
+   {
+    "quote": "Alex and Tyler met at a high-growth E-Commerce startup where Tyler was running Technology & Data. Together, they built AI products that bootstrapped the company profitably to $100MM in Revenue.",
+    "url": "https://www.ycombinator.com/companies/industry/b2b/los-angeles",
+    "pass": 3
+   },
+   {
+    "quote": "Backed by top-tier investors and angels (YC, Funders Club, PlanGrid, Elephant) - We closed our Series A of ~$17 million in 2025 - PROFITABLE, ~$6M ARR and growing revenue at +10% month-over-month - 300+ firms using us today, growing 10% MoM, 120% NRR - Co-founders both come from structural Engineering, so we have industry experience!",
+    "url": "https://www.ycombinator.com/companies/industry/b2b/los-angeles",
+    "pass": 3
+   },
+   {
+    "quote": "Massdriver is an internal developer platform and platform orchestrator. Platform teams publish the Terraform, OpenTofu, and Helm they already write to a catalog; developers and AI agents provision from it with policy enforced before every deploy. Self-hosted or managed.",
+    "url": "https://www.ycombinator.com/companies/industry/b2b/los-angeles",
+    "pass": 3
+   },
+   {
+    "quote": "Platform teams encode their security, compliance, and cost requirements into the modules once. Developers and AI agents pick from the catalog, policy runs before anything is created, and every deploy is recorded with who proposed and who approved it.",
+    "url": "https://www.ycombinator.com/companies/industry/b2b/los-angeles",
+    "pass": 3
+   },
+   {
+    "quote": "Laylo powers drops for the world’s biggest musicians and events. The platform combines landing pages, messaging, link tracking, and more to drive sales and streams around the most important moments in entertainment.",
+    "url": "https://www.ycombinator.com/companies/industry/b2b/los-angeles",
+    "pass": 3
+   }
+  ],
+  "YC・出資": [
+   {
+    "quote": "Recruiting Startups funded by Y Combinator (YC) 2026 | Y Combinator",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Recruiting Startups funded by Y Combinator (YC) 2026",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Browse 60 of the top Recruiting startups funded by Y Combinator.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Backed by Y Combinator, Nexus Venture Partners, Goodwater Capital, and Inventum Ventures, alongside angels including David Chen (ex-HRT), Abhijeet Dwivedi (OpenAI), Hank Couture (DoorDash), and Jerry Cain (Stanford CS). Built by Stanford dropouts. Headquartered in San Francisco.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "We're past 1M+ interviews, integrate with 33+ ATS platforms, and 96% of candidates prefer interviewing with Alex. We're revenue-generating, well-funded, backed by premier investors, and are focused on enterprise customers: selling to VPs of Talent Acquisition, CHROs, and CFOs at large employers who are rethinking how hiring gets done at scale.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "- Company data API (B2B company data, company database, company lookup, company information, firmographic data, firmographics, headcount data, funding data, technographic data, revenue data, intent data)",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Juicebox has raised $116M in funding, including a $30M Series A led by Sequoia Capital and an $80M Series B led by DST Global. NFDG lead out seed round, and additional investors include Y Combinator, Coatue, BOND, Lux Capital, Verified Capital, and Committed Capital.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "We are well funded and backed by great investors, including Y Combinator, Elad Gil, and Lachy Groom. We'll share more once we meet!",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "We're funded by YCombinator, Expa, Village Global, and SHL Capital.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "To date, we’ve raised ~$1.5M from investors including Y Combinator, Entrepreneur First, world-class Venture Capital funds and industry leaders.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Successfully matched 4000+ companies, including 400+ YC startups, with their talents who completed over 14 000 projects in the app.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Founded by two nurses. Backed by YC, Flare Capital, Liquid 2, Fresco, Augment, Crista Galli, Adam Grant, and the founders of CareRev, Clipboard Health, and Papa.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Backed by top-tier investors including Craft and YCombinator, we're a mission-driven team working to democratize the job search and disrupt the way hiring works today.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Join over 200 companies, like Coinbase,Truepill, Vanta, and other YC companies that have hired with Howdy to build their tech outpost in Latin America.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "NowPay enables employees to get their salaries in advance at any point in time during the month and also pay their bills instantly. NowPay is backed by 500 Startups, Beco Capital, Endure, Plug and Play, MSA Capital, 4dx, Foundation Ventures, EFG and Beltone and has raised 3.7m USD so far.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Operations Startups funded by Y Combinator (YC) 2026 | Y Combinator",
+    "url": "https://www.ycombinator.com/companies/industry/operations",
+    "pass": 3
+   },
+   {
+    "quote": "Operations Startups funded by Y Combinator (YC) 2026",
+    "url": "https://www.ycombinator.com/companies/industry/operations",
+    "pass": 3
+   },
+   {
+    "quote": "Browse 134 of the top Operations startups funded by Y Combinator.",
+    "url": "https://www.ycombinator.com/companies/industry/operations",
+    "pass": 3
+   },
+   {
+    "quote": "- Batch calling and call transfer: Outbound campaigns run at scale, and conversations move to a human with full context attached.",
+    "url": "https://www.ycombinator.com/companies/industry/operations",
+    "pass": 3
+   },
+   {
+    "quote": "EigenPal.com automates your document processing workflows with AI. KYC docs, invoices, claims, shipping forms, contracts, receipts, loan docs - we automate that. Works on messy scans, handwritten forms, third-party docs. Powerful workflow builder and team functionality. On-prem ready or use our cloud.",
+    "url": "https://www.ycombinator.com/companies/industry/operations",
+    "pass": 3
+   },
+   {
+    "quote": "In trading operations, critical data is often buried in spreadsheets, emails, PDFs, and legacy systems — making workflows slow, error-prone, and overly manual. CommodityAI acts as a digital operator, continuously reading, interpreting, and updating information across the trade lifecycle to keep records accurate and systems in sync.",
+    "url": "https://www.ycombinator.com/companies/industry/operations",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS Startups funded by Y Combinator (YC) in the San Francisco Bay Area that are currently hiring 2026 | Y Combinator",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS Startups funded by Y Combinator (YC) in the San Francisco Bay Area that are currently hiring 2026",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "Browse 147 of the top SaaS startups funded by Y Combinator. Headquartered in the San Francisco Bay Area, these are some of the hottest and fastest-growing startups. Their teams are well-funded and actively hiring.",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "Webflow is backed by Y Combinator, Accel, CapitalG, Silversmith, and other awesome investors.",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "Corvera (YC W26) is the AI sales agent for CPG brands. We turn the data a brand already has into the actions its sales team takes today.",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "To date, we’ve raised $6.2M and are backed by YC, firstminute capital, 6 Degrees Capital, 20VC, Rebel Fund, Duke Capital Partners, and more. Our ICP is US CPG brands doing $20M+ in retail revenue through UNFI, KeHE and DSD distributors. We sell to VPs of Sales and CEOs.",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "Ergo is backed by Y Combinator and FundersClub, and trusted by sales teams at Pylon, Rho, Retell AI, Warp, Oneleet, and Whop.",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "Cekura helps Conversational AI companies with automated QA. From pre-production simulation and evaluations to production call monitoring, to assisting customers in setting up the CI/CD pipeline, we help in QA across the agent lifecycle.",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "We're past 1M+ interviews, integrate with 33+ ATS platforms, and 96% of candidates prefer interviewing with Alex. We're revenue-generating, well-funded, backed by premier investors, and are focused on enterprise customers: selling to VPs of Talent Acquisition, CHROs, and CFOs at large employers who are rethinking how hiring gets done at scale.",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "Trusted by over 100 customers, including accounting firms EisnerAmper and Frank Rimerman, along with fast-growing companies such as Wefunder, StartPlaying and Mozart Data. We’re backed by the industry leaders of accounting and AI, Rho Capital, Thomson Reuters Ventures, Pathlight Ventures, Fin Capital, and Y Combinator.",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Software and Services Startups funded by Y Combinator (YC) in Los Angeles 2026 | Y Combinator",
+    "url": "https://www.ycombinator.com/companies/industry/b2b/los-angeles",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Software and Services Startups funded by Y Combinator (YC) in Los Angeles 2026",
+    "url": "https://www.ycombinator.com/companies/industry/b2b/los-angeles",
+    "pass": 3
+   },
+   {
+    "quote": "Browse 60 of the top B2B Software and Services startups funded by Y Combinator. Headquartered in Los Angeles, these are some of the hottest and fastest-growing startups.",
+    "url": "https://www.ycombinator.com/companies/industry/b2b/los-angeles",
+    "pass": 3
+   },
+   {
+    "quote": "Artifact is a collaborative IDE for hardware engineers - accelerating every step in the engineering lifecycle:",
+    "url": "https://www.ycombinator.com/companies/industry/b2b/los-angeles",
+    "pass": 3
+   },
+   {
+    "quote": "We've raised $3.5M to build an integrated, verifiable AI copilot with an intuitive UI that reflects how hardware actually gets built. Every artifact is auto-generated and traceable to a single-source of truth.",
+    "url": "https://www.ycombinator.com/companies/industry/b2b/los-angeles",
+    "pass": 3
+   },
+   {
+    "quote": "Each workspace powered by endOS, giving you a familiar channel-based experience augmented by a real desktop environment. The desktop is backed by Linux and ships with a built-in Chrome browser. Files, notes, browser tabs, native apps, terminal, and all your agents in a single beautiful, unified interface.",
+    "url": "https://www.ycombinator.com/companies/industry/b2b/los-angeles",
+    "pass": 3
+   },
+   {
+    "quote": "Backed by top-tier investors and angels (YC, Funders Club, PlanGrid, Elephant) - We closed our Series A of ~$17 million in 2025 - PROFITABLE, ~$6M ARR and growing revenue at +10% month-over-month - 300+ firms using us today, growing 10% MoM, 120% NRR - Co-founders both come from structural Engineering, so we have industry experience!",
+    "url": "https://www.ycombinator.com/companies/industry/b2b/los-angeles",
+    "pass": 3
+   },
+   {
+    "quote": "Taloflow is backed by Y Combinator, YC Continuity, Wonder Ventures, Plug and Play Ventures, and Voyager Capital.",
+    "url": "https://www.ycombinator.com/companies/industry/b2b/los-angeles",
+    "pass": 3
+   },
+   {
+    "quote": "Crowdfunding has fueled an increase in innovative product companies turning to Chinese factories for production.",
+    "url": "https://www.ycombinator.com/companies/industry/b2b/los-angeles",
+    "pass": 3
+   },
+   {
+    "quote": "*S19 and YCG F21*",
+    "url": "https://www.ycombinator.com/companies/industry/b2b/los-angeles",
+    "pass": 3
+   },
+   {
+    "quote": "and manufacturing processes, recycling programs, and energy management.",
+    "url": "https://www.slaytonsearch.com/2024/09/employer-branding-strategy-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": ": Organizations with established employer brands experience shorter recruitment cycles as qualified candidates actively seek opportunities with recognized employers. This leads to reduced advertising spend and faster decision-making processes.",
+    "url": "https://www.phenom.com/blog/employer-branding-strategy-guide",
+    "pass": 3
+   },
+   {
+    "quote": ": Strong employer brands create positive effects that enhance overall organizational reputation among customers, investors, and business partners. This integrated brand strength supports business development opportunities.",
+    "url": "https://www.phenom.com/blog/employer-branding-strategy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Develop implementation plans that integrate employer brand messaging throughout the employee lifecycle, from initial candidate attraction through onboarding and ongoing internal communications. This reinforces brand consistency and strengthens employee connection to organizational values.",
+    "url": "https://www.phenom.com/blog/employer-branding-strategy-guide",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Clodo is the planet's best people discovery. Used in GTM, Recruiting, Marketing, and Ops at AI Natives, B2Bs, and Fortune 500s in SaaS, Manufacturing/Industrials, BioTech, Healthcare, Fintech, Compliance, and more",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Peoplebox.ai is an AI-native talent platform used by 500+ companies to hire, manage, and grow their people.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Airwork is an on-demand labor marketplace for premium blue collar workers. You can get an Airworker the same way you get an Uber, except instead of a taxi, someone shows up at your work site to work for the day.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Airwork fills 98% of shifts in 2 hours. We're currently live in 8 industries across Southern Ontario, Canada, and customers include Tesla, the Toronto Pearson Airport, and the CNE.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Our customers include Massachusetts General Hospital, Penn Medicine, ChristianaCare, Stepful, Medical Solutions, Medline, Jaanuu, and Proliability.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "PowerUs helps skilled blue-collar workers like electricians and mechanics to find better full-time jobs. With only 10 minutes of effort, our users get job offers that pay them up to 50% more than they are making today.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "At Emi Labs (YC '19) we are on a mission to increase frontline workers' access to",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "professional opportunities by building the infrastructure for Frontline Workers (check our",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "manifesto here: https://www.linkedin.com/pulse/our-manifesto-building-infrastructure-frontline-workers-emi-labs/). As our first step, we are transforming the high-volume recruiting",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "process of Frontline Workers to make it as simple, human, and fair as possible for both",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Some of their customers include Walmart, Burger King, Starbucks, 7-Eleven, Danone, Imperfect Foods, and Heineken.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Kebra builds AI for skilled technicians.",
+    "url": "https://www.ycombinator.com/companies/industry/operations",
+    "pass": 3
+   },
+   {
+    "quote": "Kebra guides technicians in the field in real time, documents their job, and automatically handles hours of back-office work; from dispatching technicians to filing warranty claims and managing inventory.",
+    "url": "https://www.ycombinator.com/companies/industry/operations",
+    "pass": 3
+   },
+   {
+    "quote": "Walter is an AI employee for manufacturing operations.",
+    "url": "https://www.ycombinator.com/companies/industry/operations",
+    "pass": 3
+   },
+   {
+    "quote": "Sidekick is an AI agent that runs custom manufacturing operations over text. Workers text a problem, photo, video, or voice memo and get an answer from the shop's own documents. It reads live machine data and acts on its own: flagging issues before they become downtime, opening and routing work orders, and placing purchase orders. No app, no login.",
+    "url": "https://www.ycombinator.com/companies/industry/operations",
+    "pass": 3
+   },
+   {
+    "quote": "Arzana trains custom models on manufacturers' operational data to automate their quoting, order entry, invoicing, and other repetitive office work. We've saved our customers over $1.5M in avoided staff costs.",
+    "url": "https://www.ycombinator.com/companies/industry/operations",
+    "pass": 3
+   },
+   {
+    "quote": "Founded by ex-Palantir FDEs and engineers working on transformation at scale, Terminal Use works across construction, logistics, manufacturing, retail, and other complex operating environments.",
+    "url": "https://www.ycombinator.com/companies/industry/operations",
+    "pass": 3
+   },
+   {
+    "quote": "SalesPatriot deploys supply chain superintelligence into distribution, original equipment manufacturing, and procurement. By embedding AI in the teams that run quote to cash workflows, we turn email chains, ERPs, websites, spreadsheets, and portals into a unified transactional layer, so critical parts reach the production line faster.",
+    "url": "https://www.ycombinator.com/companies/industry/operations",
+    "pass": 3
+   },
+   {
+    "quote": "Paragon is the AI growth engine for distributors and manufacturers, freeing up staff and growing revenue on autopilot.",
+    "url": "https://www.ycombinator.com/companies/industry/operations",
+    "pass": 3
+   },
+   {
+    "quote": "Vortexify is an AI app builder for full-stack, internal business apps. Businesses such as manufacturers, hospitals and logistics services use Vortexify to solve complex, operational problems such as scheduling, process optimization, forecasting, root cause analysis and scenario planning.",
+    "url": "https://www.ycombinator.com/companies/industry/operations",
+    "pass": 3
+   },
+   {
+    "quote": "Expanding to other geographies and marketplaces is a massive growth lever for brands and manufacturers, but it’s complex and resource-intensive.",
+    "url": "https://www.ycombinator.com/companies/industry/operations",
+    "pass": 3
+   },
+   {
+    "quote": "GroundControl builds mission-critical software for manufacturers in highly-regulated industries (aerospace, defense, medical)",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "Our core product automates lengthy, complex, and regulated quality documentation in aerospace manufacturing.",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "As an example, the Boeing 777 is made up of over 3 million parts sourced from manufacturers around the world. These manufacturers must complete quality documentation for every part on this aircraft (machined parts, printed circuit boards, wire harnesses, assemblies, and more).",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "GroundControl helps manufacturers complete this required documentation accurately, in minutes instead of days.",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "SalesPatriot deploys supply chain superintelligence into distribution, original equipment manufacturing, and procurement. By embedding AI in the teams that run quote to cash workflows, we turn email chains, ERPs, websites, spreadsheets, and portals into a unified transactional layer, so critical parts reach the production line faster.",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "Ergo is backed by Y Combinator and FundersClub, and trusted by sales teams at Pylon, Rho, Retell AI, Warp, Oneleet, and Whop.",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "Poka Labs builds AI agents for pricing and sales at industrial manufacturers. Manufacturers sell thousands of products, and most customer requests are still priced by hand: reps search the catalog, check past prices and chase approvals while the customer keeps shopping.",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "Poka's costing, pricing, quoting and follow-up agents share one view of each manufacturer's products, customers and deal history from their ERP, CRM and email. Sales teams answer requests faster and price consistently across every customer.",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "Malay and Andrew met during their MBAs at Harvard Business School. Poka works with manufacturers ranging from a few million to billions of dollars in annual sales.",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "Tamarind is used by tens of thousands researchers in large pharma companies, top biotechs, and academic institutions.",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "Artie is software that streams data from databases to data warehouses in real-time. Today, most companies run their ETL process every few hours or overnight, so their data warehouse is always out of date; with Artie, the warehouse always has live production data.",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "Trusted by over 100 customers, including accounting firms EisnerAmper and Frank Rimerman, along with fast-growing companies such as Wefunder, StartPlaying and Mozart Data. We’re backed by the industry leaders of accounting and AI, Rho Capital, Thomson Reuters Ventures, Pathlight Ventures, Fin Capital, and Y Combinator.",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "Time-Critical Logistics is a $30B market growing at a 20% CAGR driven by growth in American healthcare and manufacturing.",
+    "url": "https://www.ycombinator.com/companies/industry/b2b/los-angeles",
+    "pass": 3
+   },
+   {
+    "quote": "Businesses that place time-critical orders are enterprises who have urgent items they need to deliver ASAP. These orders are critical in nature and often require white glove service -- think therapeutic treatments for healthcare providers or specialized equipment for manufacturers.",
+    "url": "https://www.ycombinator.com/companies/industry/b2b/los-angeles",
+    "pass": 3
+   },
+   {
+    "quote": "Design → Procurement → Manufacturing → Integration → Test → Sustainment",
+    "url": "https://www.ycombinator.com/companies/industry/b2b/los-angeles",
+    "pass": 3
+   },
+   {
+    "quote": "AI Tech Packs is software that generates factory-ready techpacks in minutes for apparel design teams who currently spend 3-4 hours on each one. Our customers are brands, licensing companies, and manufacturers producing 200+ techpacks a month. We make their designers 3x more productive without new hires.",
+    "url": "https://www.ycombinator.com/companies/industry/b2b/los-angeles",
+    "pass": 3
+   },
+   {
+    "quote": "We charge a nominal per-unit fee to the OEM and revenue share with the factory when they demonstrate compliance with quality standards (whether units pass or fail).",
+    "url": "https://www.ycombinator.com/companies/industry/b2b/los-angeles",
+    "pass": 3
+   },
+   {
+    "quote": "On average, defect rate will fall 75% within 5 months of deploying Assembly at a factory.",
+    "url": "https://www.ycombinator.com/companies/industry/b2b/los-angeles",
+    "pass": 3
+   },
+   {
+    "quote": "Gemnote creates custom merch, swag and gifts for the modern business. Our expert team helps you curate, source, warehouse, fulfill and ship your branded merchandise and company swag, so you don't have to lift a finger. Our clients love our full-service platform and they are some of the biggest companies in the world, including Airbnb, Google, Meta, Slack, Netflix and more.",
+    "url": "https://www.ycombinator.com/companies/industry/b2b/los-angeles",
+    "pass": 3
+   },
+   {
+    "quote": "Asseta has completed more than 30,000 part sales since 2014 and carries 450,000+ part and equipment listings from fabs, refurbishers, and dealers. Customers include large semiconductor manufacturers in the United States and abroad.",
+    "url": "https://www.ycombinator.com/companies/industry/b2b/los-angeles",
+    "pass": 3
+   },
+   {
+    "quote": "Our tooling is already used by many of the best mobile teams in the world like DoorDash, Square, Airbnb, Duolingo, Stripe, among others. Come help us make it even better!",
+    "url": "https://www.ycombinator.com/companies/industry/b2b/los-angeles",
+    "pass": 3
+   },
+   {
+    "quote": "Building an Employer Branding Strategy in Manufacturing",
+    "url": "https://www.slaytonsearch.com/2024/09/employer-branding-strategy-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Building a Strong Employer Brand in Manufacturing: Attracting & Retaining Skilled Professionals",
+    "url": "https://www.slaytonsearch.com/2024/09/employer-branding-strategy-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "When manufacturers activate an employer branding strategy through ongoing culture and business initiatives, they can improve perceptions, purpose, and long-term talent strategies.",
+    "url": "https://www.slaytonsearch.com/2024/09/employer-branding-strategy-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Hiring challenges in the manufacturing sector have yet to ease. In a",
+    "url": "https://www.slaytonsearch.com/2024/09/employer-branding-strategy-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": ", the National Association of Manufacturers found 67.6% of industrial businesses are presently struggling to attract and retain a high-quality workforce—making talent strategy the most widespread challenge in the industry.",
+    "url": "https://www.slaytonsearch.com/2024/09/employer-branding-strategy-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturers can no longer afford to begin their recruitment and retention efforts when urgent needs arise. The stakes are high—and establishing an ongoing employer branding strategy is essential to securing vital talent for the future.",
+    "url": "https://www.slaytonsearch.com/2024/09/employer-branding-strategy-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "recruit manufacturing talent",
+    "url": "https://www.slaytonsearch.com/2024/09/employer-branding-strategy-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Building a Strong Employer Brand in Manufacturing",
+    "url": "https://www.slaytonsearch.com/2024/09/employer-branding-strategy-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing executives",
+    "url": "https://www.slaytonsearch.com/2024/09/employer-branding-strategy-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "So, what cultural elements should manufacturing leaders prioritize and center their employer brand around? Professional development is a critical piece.",
+    "url": "https://www.slaytonsearch.com/2024/09/employer-branding-strategy-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Technological disruption has become a core part of the manufacturing industry. The rapid development of AI, IoT, and robotics has made advancement a critical concern for both leaders and employees—and integrating innovation into the employer brand can help industrial companies stand out to top talent long-term. Today,",
+    "url": "https://www.slaytonsearch.com/2024/09/employer-branding-strategy-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "of manufacturing workers would take a pay cut to work in a technology-forward factory.",
+    "url": "https://www.slaytonsearch.com/2024/09/employer-branding-strategy-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "The Rise of the Ethical Manufacturing Employer Brand",
+    "url": "https://www.slaytonsearch.com/2024/09/employer-branding-strategy-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "(DEI) initiatives have become central to many industrial brands. In the historically homogenous manufacturing sector, employers are increasingly emphasizing inclusive hiring practices and internal programs to attract and retain broader talent pools. For example,",
+    "url": "https://www.slaytonsearch.com/2024/09/employer-branding-strategy-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "A focus on sustainability can also strengthen manufacturers’ ethical reputations. Consumers—and therefore, leaders and employees—are growing increasingly aware of the supply chain’s impact on the environment. Organizations that actively prioritize sustainability in their brand messaging and culture can cultivate a meaningful sense of purpose for top talent.",
+    "url": "https://www.slaytonsearch.com/2024/09/employer-branding-strategy-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Employer Branding Basics for Manufacturers - Rust Belt Recruiting",
+    "url": "https://rustbeltrecruiting.com/employer-branding-basics-for-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "Direct Staffing Case Study",
+    "url": "https://rustbeltrecruiting.com/employer-branding-basics-for-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "Employer Branding Basics for Manufacturers",
+    "url": "https://rustbeltrecruiting.com/employer-branding-basics-for-manufacturers/",
+    "pass": 3
+   }
+  ],
+  "日本での展開": [
+   {
+    "quote": "For companies expanding nationally, we help clinicians obtain and maintain licenses across multiple states, manage Medicare, Medicaid, and commercial payer enrollment, and provide collaborative physician and supervision solutions for advanced practice providers. We also help manage clinician availability and scheduling so organizations can align provider capacity with patient demand.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Underneath the agents, Cotool provides log storage and search built for their workloads, with access to data where it already lives. The goal is to give security teams more capacity to defend their companies as their environments and workloads grow.",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "Truewind is a technology company based in San Francisco developing a digital staff accountant. Powered by AI, Truewind is a digital staff accountant that never sleeps, never gets sick, and always does its work. Completely predictable capacity planning.",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Backed by Y Combinator, Nexus Venture Partners, Goodwater Capital, and Inventum Ventures, alongside angels including David Chen (ex-HRT), Abhijeet Dwivedi (OpenAI), Hank Couture (DoorDash), and Jerry Cain (Stanford CS). Built by Stanford dropouts. Headquartered in San Francisco.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Fiber AI is the freshest data APIs for AI sales, recruiting, & growth products, with the freshest data on 40M+ companies, 850M+ people, and 30M+ jobs.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "You can search live company, people, and jobs data via APIs and webhooks for 10x cheaper than People Data Labs, Explorium, Cognism, CoreSignal, and others. We have verified emails and phone numbers for 4x cheaper than Clay, Apollo, and ZoomInfo.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Our Bulk API Search lets builders integrate uncapped, advanced API searches deeply into their product. Search through 40M+ companies, 850M+ people, and 30M+ jobs with advanced filtering for 10x cheaper than People Data Labs, Crustdata, Cognism, and others.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "API endpoints nobody else has. We have novel API endpoints that you won't find on People Data Labs, Cognism, Crustdata, Explorium, or anywhere else, to:",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Fiber AI's APIs have been live for 3+ years, and we've helped 100s of enterprises and startups rip and replace their data providers.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Fiber AI is a B2B data API provider and data broker for AI sales tools, AI recruiting platforms, AI marketing products, and growth teams.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "- Bulk API search for companies, people, and jobs data (uncapped API searches, search API, company search API, people search API, person API, jobs search API, contact search)",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "- Email API and emails API (email finder, email lookup, bulk email finder, email address finder, email addresses, work email, work emails, business email, business emails, email list, email database)",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "- Phone API (phone finder, phone lookup, phone number finder, phone numbers, mobile number, mobile numbers, mobile phone, direct dial, direct dials)",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "- Reverse email lookup API (email to person, reverse lookup, email enrichment, contact enrichment, lead enrichment, CRM enrichment, enrich)",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "- Email verification API (email validation, email verification, email deliverability, bounce detection, email bounce)",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "- Phone verification API (phone validation, phone verification, verified phone, verified phones)",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "- Contact API and contacts API (contact data, contact lookup, contact finder, contact information, B2B contacts, B2B contact, verified contact, verified contacts)",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "- Real-time LinkedIn data API (LinkedIn company data, LinkedIn profile data, LinkedIn profiles, LinkedIn scraper, LinkedIn scraping, LinkedIn export, Sales Navigator, Sales Navigator export)",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Vortexify builds applications beyond simple dashboards with native support for databases, scheduled tasks, optimization solvers, machine learning models, data pipelines, API calls and more. Our secure, managed infrastructure enables our agents to build quickly and get it right the first time.",
+    "url": "https://www.ycombinator.com/companies/industry/operations",
+    "pass": 3
+   },
+   {
+    "quote": "If a tool has an API, you can securely connect it to your agent - just by chatting with Parahelp. For example, you can connect Stripe so your agent can resolve billing questions and refund requests.",
+    "url": "https://www.ycombinator.com/companies/industry/operations",
+    "pass": 3
+   },
+   {
+    "quote": "Webflow is backed by Y Combinator, Accel, CapitalG, Silversmith, and other awesome investors.",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "To date, we’ve raised $6.2M and are backed by YC, firstminute capital, 6 Degrees Capital, 20VC, Rebel Fund, Duke Capital Partners, and more. Our ICP is US CPG brands doing $20M+ in retail revenue through UNFI, KeHE and DSD distributors. We sell to VPs of Sales and CEOs.",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "Openbenchmarks runs open, independent benchmarks across APIs, vendors and tools.",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "Tamarind Bio is a website and API which allows scientists to use computational biology tools at scale using a simple interface. On Tamarind, scientists can use ML models like AlphaFold to design and simulate molecules by simply selecting inputs instead of or setting up a high performance computing environment or dealing with DevOps.",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "Corgea is an autonomous application security platform that finds and validates vulnerabilities, then generates safe code fixes developers can apply in their existing workflow. In production customers like Zapier and Yageo, see ~20% more true positives and ~90% fewer false positives (vs their prior tooling), reducing triage and speeding remediation without adding headcount.",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "Trusted by over 100 customers, including accounting firms EisnerAmper and Frank Rimerman, along with fast-growing companies such as Wefunder, StartPlaying and Mozart Data. We’re backed by the industry leaders of accounting and AI, Rho Capital, Thomson Reuters Ventures, Pathlight Ventures, Fin Capital, and Y Combinator.",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "You closed your first few deals on handshakes and Stripe links. Now a customer wants a ramp-up, custom terms, or annual billing — and suddenly you're duct-taping spreadsheets to your CRM.",
+    "url": "https://www.ycombinator.com/companies/industry/b2b/los-angeles",
+    "pass": 3
+   },
+   {
+    "quote": "Taloflow is backed by Y Combinator, YC Continuity, Wonder Ventures, Plug and Play Ventures, and Voyager Capital.",
+    "url": "https://www.ycombinator.com/companies/industry/b2b/los-angeles",
+    "pass": 3
+   },
+   {
+    "quote": "Sapling offers an API and SDK to help businesses integrate language models into their applications. Its messaging assistant sits on top of CRMs and messaging platforms to help users more efficiently compose responses.",
+    "url": "https://www.ycombinator.com/companies/industry/b2b/los-angeles",
+    "pass": 3
+   },
+   {
+    "quote": "We charge a nominal per-unit fee to the OEM and revenue share with the factory when they demonstrate compliance with quality standards (whether units pass or fail).",
+    "url": "https://www.ycombinator.com/companies/industry/b2b/los-angeles",
+    "pass": 3
+   },
+   {
+    "quote": "Technological disruption has become a core part of the manufacturing industry. The rapid development of AI, IoT, and robotics has made advancement a critical concern for both leaders and employees—and integrating innovation into the employer brand can help industrial companies stand out to top talent long-term. Today,",
+    "url": "https://www.slaytonsearch.com/2024/09/employer-branding-strategy-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Companies must actively manage their reputation as employers. Today, employer branding goes beyond conventional recruitment marketing; it involves shaping a comprehensive narrative about your organization’s culture, values, and employee experience. When done well, it attracts candidates who align with your mission and reduces turnover by setting accurate expectations.",
+    "url": "https://www.phenom.com/blog/employer-branding-strategy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Employer branding represents the strategic process of promoting a company as an employer of choice by shaping how employees and candidates perceive the workplace experience. It blends internal culture development with external messaging to create a clear narrative about what it’s like to work at your organization.",
+    "url": "https://www.phenom.com/blog/employer-branding-strategy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Despite rapid shifts in the talent landscape, these trends remain critical to building a credible and compelling employer brand.",
+    "url": "https://www.phenom.com/blog/employer-branding-strategy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "AI is reshaping how candidates discover roles and evaluate employers. Personalized recommendations and content make brand consistency essential because AI amplifies the messages candidates encounter first.",
+    "url": "https://www.phenom.com/blog/employer-branding-strategy-guide",
+    "pass": 3
+   }
+  ],
+  "売上・規模": [
+   {
+    "quote": "In under six months, Contrario has crossed $6M in annualized revenue, paid out $1M+ to recruiters, and placed 150+ candidates — making it one of the fastest-growing AI recruiting platforms on the market.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "We're past 1M+ interviews, integrate with 33+ ATS platforms, and 96% of candidates prefer interviewing with Alex. We're revenue-generating, well-funded, backed by premier investors, and are focused on enterprise customers: selling to VPs of Talent Acquisition, CHROs, and CFOs at large employers who are rethinking how hiring gets done at scale.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "- Company data API (B2B company data, company database, company lookup, company information, firmographic data, firmographics, headcount data, funding data, technographic data, revenue data, intent data)",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Teams at Ramp, Notion, and leading AI labs use Juicebox to power their hiring, alongside 5,000+ customers from early-stage startups to Fortune 500 companies.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "We’re on the path to $100M in ARR with 20%+ monthly growth, powering thousands of searches every day and making Juicebox one of the fastest-growing AI SaaS companies in the world. In 2026, Juicebox was named to Forbes’ Next Billion-Dollar Startups list and LinkedIn’s Top Startups list.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Airwork fills 98% of shifts in 2 hours. We're currently live in 8 industries across Southern Ontario, Canada, and customers include Tesla, the Toronto Pearson Airport, and the CNE.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Careerist is an ed-fintech platform that trains job seekers for tech careers (in QA, Sales, Support & more), finances them and automates their job hunting. Our B2B2C platform aggregates job seekers, tutors and employers – streamlining training and placement.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Through our flagship product, Copilot, we've helped over 1M+ job seekers discover and apply to over 100 million jobs - and we've done this with a tight-knit team of just 7 people. We're rapidly expanding on both the candidate and recruiter fronts, focused on our vision of building a common app and personal AI agent for your career.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Some of their customers include Walmart, Burger King, Starbucks, 7-Eleven, Danone, Imperfect Foods, and Heineken.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Dover's ATS is a lightweight but powerful applicant tracking system built for busy founders and hiring managers. It’s as easy to use as a spreadsheet but includes everything you need to manage your first 100 hires — without the bloat of traditional ATS platforms. Hundreds of companies use Dover’s free tools to streamline their hiring process and stay in control as they grow.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "Over 26 million developers have joined the HackerRank Community to learn and certify their skills, practice interviewing, and discover relevant jobs.",
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "pass": 3
+   },
+   {
+    "quote": "In two months, we’ve grown to $500k ARR across 35 customers and 3000 listings, growing around 15% week over week, with one customer already running day-to-day operations with no human involved.",
+    "url": "https://www.ycombinator.com/companies/industry/operations",
+    "pass": 3
+   },
+   {
+    "quote": "Callab AI runs on its own carrier-grade telephony stack and connects natively to Cisco, Mitel, Avaya, SIP trunks, and on-premises PBX systems. Enterprises can adopt it without migrating to the cloud first. The platform maintains SOC 2 controls and serves customers in financial services, healthcare, hospitality, and retail.",
+    "url": "https://www.ycombinator.com/companies/industry/operations",
+    "pass": 3
+   },
+   {
+    "quote": "Arzana trains custom models on manufacturers' operational data to automate their quoting, order entry, invoicing, and other repetitive office work. We've saved our customers over $1.5M in avoided staff costs.",
+    "url": "https://www.ycombinator.com/companies/industry/operations",
+    "pass": 3
+   },
+   {
+    "quote": "We run customer operations for regulated industries with AI. Our QA layer reviews every interaction, human and AI, cutting manual QA by 99%. On top of it sit specialist agents for onboarding, remediation, reactivation, and retention that own accounts from approved to transacting, chasing customers over WhatsApp, email, and SMS",
+    "url": "https://www.ycombinator.com/companies/industry/operations",
+    "pass": 3
+   },
+   {
+    "quote": "To date, we’ve raised $6.2M and are backed by YC, firstminute capital, 6 Degrees Capital, 20VC, Rebel Fund, Duke Capital Partners, and more. Our ICP is US CPG brands doing $20M+ in retail revenue through UNFI, KeHE and DSD distributors. We sell to VPs of Sales and CEOs.",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "The incumbents prove the scale. Brokers take 5-12% of a $350B US independent grocery market, and Advantage Solutions, a publicly traded company, does $3.5B in annual revenue.",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "As an example, the Boeing 777 is made up of over 3 million parts sourced from manufacturers around the world. These manufacturers must complete quality documentation for every part on this aircraft (machined parts, printed circuit boards, wire harnesses, assemblies, and more).",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "Ergo is AI revenue infrastructure for B2B sales teams. It ingests every customer interaction (calls, email, Slack, calendar) and turns it into deal health scores, forecasts, ready-to-send follow-ups, rep coaching, and clean pipeline data, automatically. Reps skip the admin, deals stop slipping, and leaders get a pipeline they can actually trust.",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "We are working with 75+ customers across healthcare, BFSI, logistics, recruitment, and retail. Some of the largest CCAS players and enterprises use Cekura to ship AI voice and chat agents reliably",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "(1) Smart Onboarding 📋: Our platform simplifies the onboarding process by automating the collection and verification of credentials, such as right-to-work documents, insurance forms and driver’s licenses. This reduces administrative burden and accelerates the time-to-productivity for new hires.",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "(2) AI-Assisted Activation 🤖: Leveraging AI, we enhance communication and messaging for new hires, ensuring they receive timely and relevant information. This helps in better engagement and faster integration into their roles.",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "We're past 1M+ interviews, integrate with 33+ ATS platforms, and 96% of candidates prefer interviewing with Alex. We're revenue-generating, well-funded, backed by premier investors, and are focused on enterprise customers: selling to VPs of Talent Acquisition, CHROs, and CFOs at large employers who are rethinking how hiring gets done at scale.",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "Corgea is an autonomous application security platform that finds and validates vulnerabilities, then generates safe code fixes developers can apply in their existing workflow. In production customers like Zapier and Yageo, see ~20% more true positives and ~90% fewer false positives (vs their prior tooling), reducing triage and speeding remediation without adding headcount.",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "Trusted by over 100 customers, including accounting firms EisnerAmper and Frank Rimerman, along with fast-growing companies such as Wefunder, StartPlaying and Mozart Data. We’re backed by the industry leaders of accounting and AI, Rho Capital, Thomson Reuters Ventures, Pathlight Ventures, Fin Capital, and Y Combinator.",
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "pass": 3
+   },
+   {
+    "quote": "Alex and Tyler met at a high-growth E-Commerce startup where Tyler was running Technology & Data. Together, they built AI products that bootstrapped the company profitably to $100MM in Revenue.",
+    "url": "https://www.ycombinator.com/companies/industry/b2b/los-angeles",
+    "pass": 3
+   },
+   {
+    "quote": "Backed by top-tier investors and angels (YC, Funders Club, PlanGrid, Elephant) - We closed our Series A of ~$17 million in 2025 - PROFITABLE, ~$6M ARR and growing revenue at +10% month-over-month - 300+ firms using us today, growing 10% MoM, 120% NRR - Co-founders both come from structural Engineering, so we have industry experience!",
+    "url": "https://www.ycombinator.com/companies/industry/b2b/los-angeles",
+    "pass": 3
+   },
+   {
+    "quote": "AI Tech Packs is software that generates factory-ready techpacks in minutes for apparel design teams who currently spend 3-4 hours on each one. Our customers are brands, licensing companies, and manufacturers producing 200+ techpacks a month. We make their designers 3x more productive without new hires.",
+    "url": "https://www.ycombinator.com/companies/industry/b2b/los-angeles",
+    "pass": 3
+   },
+   {
+    "quote": "Speed of service is fast food's core value proposition (it’s literally in the name) and owners currently don't have a reliable way to measure it. We show them when and where they have slowdowns and for every 7s they improve service times, owners see 1% increase in revenue.",
+    "url": "https://www.ycombinator.com/companies/industry/b2b/los-angeles",
+    "pass": 3
+   },
+   {
+    "quote": "Asseta has completed more than 30,000 part sales since 2014 and carries 450,000+ part and equipment listings from fabs, refurbishers, and dealers. Customers include large semiconductor manufacturers in the United States and abroad.",
+    "url": "https://www.ycombinator.com/companies/industry/b2b/los-angeles",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "in average cost per hire; a negative one increases expenses by 10%. An organization’s reputation is its differentiator in tight labor markets, where competitive pay alone won’t suffice.",
+    "url": "https://www.slaytonsearch.com/2024/09/employer-branding-strategy-manufacturing/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.talenthr.io/blog/employer-branding-for-startups/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://builtin.com/articles/ai-employer-branding-platforms",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jobful.io/resources/category/employer-branding",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.signalfire.com/blog/employer-brand-strategy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smartdreamers.com/blog/employer-brand-startup",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/i-tried-all-10-best-employer-branding-platforms-ranked-ipsita-dhar-porie",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.awesomic.com/blog/why-y-combinator-companies-choose-awesomic-for-their-design-needs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dsmn8.com/employer-branding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/industry/operations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/industry/ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/industry/b2b/los-angeles",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/industry/b2b/seattle",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://linkhumans.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.slaytonsearch.com/2024/09/employer-branding-strategy-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rustbeltrecruiting.com/employer-branding-basics-for-manufacturers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://universumglobal.com/case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.phenom.com/blog/employer-branding-strategy-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mercury.com/blog/benefits-of-employer-brand-startups",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://universumglobal.com/resources/blog/employer-branding-benefits/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://carta.com/learn/startups/fundraising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wellfound.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x0pa.com/white-label-recruiting-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://journeybee.io/resources/beyond-co-branding-why-white-label-partner-software-defines-winning-partnerships",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://universumglobal.com/resources/blog/employer-branding-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.careerpuck.com/blog/employer-branding-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://home.hireplanner.com/why-invest-in-employer-branding-to-recruit-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://custom-media.com/lp/japan-employer-branding-recruitment-marketing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://revenuebase.ai/companies/employer-branding-agencies/japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chapmancg.com/talent-acquisition/employee-branding-strategies-what-works-in-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/employer-branding-trends-among-japanese-companies-v4vsc",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "employer branding platform for manufacturers Y Combinator",
+   "results": [
+    "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "https://www.talenthr.io/blog/employer-branding-for-startups/",
+    "https://builtin.com/articles/ai-employer-branding-platforms",
+    "https://jobful.io/resources/category/employer-branding",
+    "https://www.signalfire.com/blog/employer-brand-strategy",
+    "https://blog.gaggleamp.com/employer-branding-platform",
+    "https://www.ycombinator.com/companies/joberator",
+    "https://mercury.com/blog/benefits-of-employer-brand-startups",
+    "https://nextmantra.ai/blog/employer-branding-tech-companies",
+    "https://www.ycombinator.com/companies/industry/manufacturing"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "employer branding platform for manufacturers YC startup",
+   "results": [
+    "https://www.talenthr.io/blog/employer-branding-for-startups/",
+    "https://www.smartdreamers.com/blog/employer-brand-startup",
+    "https://www.signalfire.com/blog/employer-brand-strategy",
+    "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "https://builtin.com/articles/ai-employer-branding-platforms",
+    "https://www.linkedin.com/pulse/i-tried-all-10-best-employer-branding-platforms-ranked-ipsita-dhar-porie",
+    "https://jobful.io/resources/category/employer-branding",
+    "https://www.awesomic.com/blog/why-y-combinator-companies-choose-awesomic-for-their-design-needs",
+    "https://dsmn8.com/employer-branding/",
+    "https://www.ycombinator.com/companies/industry/recruiting"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:ycombinator.com/companies employer branding platform for manufacturers",
+   "results": [
+    "https://www.ycombinator.com/companies/industry/operations",
+    "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "https://www.ycombinator.com/companies/industry/ai",
+    "https://www.ycombinator.com/companies/industry/b2b/los-angeles",
+    "https://www.ycombinator.com/companies/industry/b2b/seattle",
+    "https://www.ycombinator.com/companies/industry/ai-assistant",
+    "https://www.ycombinator.com/companies/industry/ai/los-angeles",
+    "https://www.ycombinator.com/companies/industry/credit-and-lending",
+    "https://www.ycombinator.com/companies/black-founders",
+    "https://www.ycombinator.com/companies/industry/saas/los-angeles"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "employer branding platform for manufacturers manufacturing customers case study",
+   "results": [
+    "https://linkhumans.com/case-studies/",
+    "https://www.slaytonsearch.com/2024/09/employer-branding-strategy-manufacturing/",
+    "https://rustbeltrecruiting.com/employer-branding-basics-for-manufacturers/",
+    "https://universumglobal.com/case-study/",
+    "https://www.phenom.com/blog/employer-branding-strategy-guide",
+    "https://www.forbes.com/sites/kimberlywhitler/2021/06/15/inspiring-case-studies-for-companies-looking-to-transform-their-employer-brand/",
+    "https://www.weareams.com/resources/case-studies/rebuilding-and-transforming-employer-branding/",
+    "https://juicebox.ai/blog/employer-branding-examples",
+    "https://boostpoint.com/recruiter-tips/5-excellent-employer-branding-examples-and-what-you-can-learn-from-them/",
+    "https://daggerfinn.com/creating-a-winning-employer-brand-in-manufacturing-best-practices-and-case-studies/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "employer branding platform for manufacturers startup raises funding",
+   "results": [
+    "https://mercury.com/blog/benefits-of-employer-brand-startups",
+    "https://www.signalfire.com/blog/employer-brand-strategy",
+    "https://www.talenthr.io/blog/employer-branding-for-startups/",
+    "https://universumglobal.com/resources/blog/employer-branding-benefits/",
+    "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "https://builtin.com/articles/ai-employer-branding-platforms",
+    "https://www.crunchbase.com/",
+    "https://carta.com/learn/startups/fundraising/",
+    "https://wellfound.com/",
+    "https://jobful.io/resources/category/employer-branding"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "employer branding platform for manufacturers white label OR reseller OR partner program",
+   "results": [
+    "https://x0pa.com/white-label-recruiting-software/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://journeybee.io/resources/beyond-co-branding-why-white-label-partner-software-defines-winning-partnerships",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://universumglobal.com/resources/blog/employer-branding-software/",
+    "https://www.careerpuck.com/blog/employer-branding-software",
+    "https://dsmn8.com/employer-branding/",
+    "https://www.deel.com/blog/introducing-deel-white-label/",
+    "https://www.designrush.com/agency/reputation-management-companies/trends/white-label-reputation-management",
+    "https://www.mycompanyworks.com/reseller"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "employer branding platform for manufacturers Japan",
+   "results": [
+    "https://home.hireplanner.com/why-invest-in-employer-branding-to-recruit-in-japan/",
+    "https://custom-media.com/lp/japan-employer-branding-recruitment-marketing/",
+    "https://revenuebase.ai/companies/employer-branding-agencies/japan",
+    "https://www.chapmancg.com/talent-acquisition/employee-branding-strategies-what-works-in-japan",
+    "https://www.linkedin.com/pulse/employer-branding-trends-among-japanese-companies-v4vsc",
+    "https://buildplus.io/blog/employer-branding-marketing-service-by-build-plus/hjn9z4t3s77f4jzpm4fmdrsftwtcrs",
+    "https://www.sortlist.com/s/employer-branding/tokyo-jp",
+    "https://www.hyresearch.com/blog/2024-employer-branding-trends-and-effective-strategies-for-hiring-in-japan",
+    "https://www.cielotalent.com/solutions/consulting/employer-branding-and-talent-marketing/",
+    "https://home.hireplanner.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com 製造業の採用ブランディング・採用マーケティング",
+   "results": [
+    "https://note.com/otogi_saiyo_koho/n/n040c3f30e3c2",
+    "https://note.com/bigpicturestars/n/nc8f99cc01e12",
+    "https://note.com/saikaku_oku/n/n4ad588b769c8",
+    "https://biz.note.com/n/nf8eed91257db",
+    "https://note.com/shimizu_pr/n/n7406d3636508",
+    "https://note.com/no_company/n/n1b452b64bc2d",
+    "https://note.com/mark136/n/n11a6b7261480",
+    "https://note.com/kengoiwt/n/n2b8815da6090",
+    "https://note.com/calm_crab7548/n/n59e77bb2284f",
+    "https://note.com/torasaaaaaaan7/n/na42e540f058f"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com 製造業の採用ブランディング・採用マーケティング",
+   "results": [
+    "https://x.com/saiyo_kakaricho",
+    "https://x.com/asaka_haf",
+    "https://x.com/3iOfficial",
+    "https://x.com/telinekd/status/1930503564058927525",
+    "https://x.com/oharuceo",
+    "https://x.com/KiyomiKanamori",
+    "https://x.com/digima_siance",
+    "https://x.com/technoport_web",
+    "https://x.com/KANDEN_Official/status/2065343518219125213",
+    "https://x.com/Seiji_Matumotoo"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com 製造業の採用ブランディング・採用マーケティング",
+   "results": [
+    "https://jp.linkedin.com/in/%E5%81%A5%E4%BA%BA-%E6%B5%85%E9%A6%99-48b120203",
+    "https://business.linkedin.com/ja-jp/talent-solutions/case-studies/ud-tracks",
+    "https://jp.linkedin.com/pulse/your-recruitment-marketing-action-plan-step-by-step-guide-attracting-rqclc?tl=ja",
+    "https://jp.linkedin.com/jobs/view/%E6%8E%A1%E7%94%A8%E3%83%96%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%A2%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88-at-deloitte-4399061068",
+    "https://jp.linkedin.com/posts/bigpicturestars_%E5%B7%AE%E5%88%A5%E5%8C%96%E6%88%A6%E7%95%A5-%E5%9C%B0%E6%96%B9%E5%89%B5%E7%94%9F-%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0-activity-7523902197995118592-lNKJ",
+    "https://jp.linkedin.com/posts/linkedin-student-club_linkedin-%E6%8E%A1%E7%94%A8%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89-%E6%8E%A1%E7%94%A8%E3%83%96%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0-activity-7401402228391268352-SUJb",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E4%BA%BA%E4%BA%8B%E3%80%91%E6%8E%A1%E7%94%A8%E3%81%8B%E3%82%89%E5%88%B6%E5%BA%A6%E3%83%BB%E5%BA%83%E5%A0%B1%E3%81%BE%E3%81%A7%E4%B8%80%E8%B2%AB%E6%8B%85%E5%BD%93%EF%BC%8F%E6%8E%A1%E7%94%A8%E3%83%96%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%AB%E3%82%82%E6%8C%91%E6%88%A6%EF%BC%8F%E5%89%B5%E6%A5%AD360%E5%B9%B4%E3%81%AEyuasa%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4485202434",
+    "https://jp.linkedin.com/posts/%E9%9B%84%E5%9F%BA-%E5%B1%B1%E7%94%B0-552b34186_%E3%82%AD%E3%83%A3%E3%83%87%E3%82%A3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E9%83%A8%E9%96%80%E5%9F%B7%E8%A1%8C%E5%BD%B9%E5%93%A1-vp-of-marketing-%E3%81%AE%E5%B1%B1%E7%94%B0%E9%9B%84%E5%9F%BA%E3%81%A7%E3%81%99-activity-7421772560981389313-rtcW",
+    "https://is.linkedin.com/jobs/view/%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E3%83%87%E3%82%A3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%EF%BC%88%E6%8E%A1%E7%94%A8%E3%83%96%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%EF%BC%89-at-colopl-inc-4470747216",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0-%E5%96%B6%E6%A5%AD-pr-%E3%83%AA%E3%83%BC%E3%83%89%E3%80%91ai%C3%97%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E5%8B%9F%E9%9B%86-at-setare-ai-4478411357"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:facebook.com 製造業の採用ブランディング・採用マーケティング",
+   "results": [
+    "https://www.facebook.com/61588583411366/posts/%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E6%8E%A1%E7%94%A8%E3%83%96%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E7%9F%A5%E5%90%8D%E5%BA%A6%E3%82%BC%E3%83%AD%E3%81%8B%E3%82%89%E7%AB%B6%E5%90%88%E3%81%AE%E3%83%91%E3%82%A4%E3%82%92%E5%A5%AA%E3%81%86%E6%B7%B1%E5%88%BB%E5%8C%96%E3%81%99%E3%82%8B%E4%BA%BA%E6%9D%90%E4%B8%8D%E8%B6%B3%E3%81%AE%E4%B8%AD%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E6%8E%A1%E7%94%A8%E3%83%96%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%AF%E4%BC%81%E6%A5%AD%E3%81%AE%E5%AD%98%E7%B6%9A%E3%82%92%E5%B7%A6%E5%8F%B3%E3%81%99%E3%82%8B%E9%87%8D%E8%A6%81%E7%B5%8C%E5%96%B6%E8%AA%B2%E9%A1%8C%E3%81%A7%E3%81%99%E7%89%B9%E3%81%ABbtob%E4%BC%81%E6%A5%AD%E3%81%AF/122116830771286113/",
+    "https://www.facebook.com/p/big-picture-stars-61588583411366/",
+    "https://www.facebook.com/skillshift/posts/%E7%89%A9%E6%B5%81dx%E3%81%A7%E6%88%90%E9%95%B7%E3%81%99%E3%82%8B%E9%81%8B%E9%80%81%E4%BC%81%E6%A5%AD%E3%81%AE%E6%8E%A1%E7%94%A8%E3%83%96%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E6%8E%A1%E7%94%A8%E5%B0%8E%E7%B7%9A%E6%A7%8B%E7%AF%89%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%83%A6%E3%83%8B%E3%83%83%E3%82%AF%E8%BC%B8%E9%80%81%E7%89%A9%E6%B5%81dx%E3%81%A7%E6%88%90%E9%95%B7%E3%82%92%E7%B6%9A%E3%81%91%E3%82%8B%E5%8C%97%E6%9C%AC%E9%81%8B%E8%BC%B8%E6%A7%98%E7%9F%B3%E5%B7%9D%E7%9C%8C%E3%81%8C%E8%87%AA%E7%A4%BE%E4%B8%BB%E5%B0%8E%E3%81%A7%E7%B6%99%E7%B6%9A%E7%9A%84%E3%81%AA%E4%BA%BA%E6%9D%90%E7%8D%B2%E5%BE%97%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E6%8E%A1/1499876478615383/",
+    "https://www.facebook.com/ewings946/posts/08%E4%BC%9D%E3%81%88%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8B%E3%82%89%E6%8E%A1%E7%94%A8%E3%81%AF%E5%A7%8B%E3%81%BE%E3%82%8A%E3%81%BE%E3%81%99%E4%BA%BA%E3%81%8C%E6%9D%A5%E3%81%AA%E3%81%84%E5%BF%9C%E5%8B%9F%E3%81%8C%E3%81%AA%E3%81%84%E8%8B%A5%E3%81%84%E4%BA%BA%E3%81%8C%E6%8E%A1%E7%94%A8%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E3%81%9D%E3%81%86%E6%82%A9%E3%82%80%E5%89%8D%E3%81%AB%E4%B8%80%E5%BA%A6%E8%80%83%E3%81%88%E3%81%A6%E3%81%BF%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E4%BC%9A%E7%A4%BE%E3%81%AE%E9%AD%85%E5%8A%9B%E3%81%AF%E6%B1%82%E8%81%B7%E8%80%85%E3%81%AB%E4%BC%9D%E3%82%8F%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%8B%E4%BC%9A%E7%A4%BE%E3%81%AE%E9%AD%85/1890934315628956/",
+    "https://www.facebook.com/skillshift/posts/-%EF%B8%8F-%E4%BC%81%E6%A5%AD%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E8%87%AA%E7%A4%BE%E3%81%A7%E9%80%B2%E3%81%BE%E3%81%AA%E3%81%84%E3%82%92%E5%B0%82%E9%96%80%E5%AE%B6%E3%81%A7%E7%AA%81%E7%A0%B4%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AE%E5%95%86%E5%93%81%E9%96%8B%E7%99%BA%E3%82%92%E5%8A%A0%E9%80%9F%E3%81%95%E3%81%9B%E3%82%8B%E5%89%AF%E6%A5%AD%E4%BA%BA%E6%9D%90%E3%81%AE%E6%B4%BB%E7%94%A8%E8%A1%93%E5%8D%83%E8%91%89%E7%9C%8C%E6%9C%A8%E6%9B%B4%E6%B4%A5%E5%B8%82%E3%81%A7%E5%BB%BA%E6%9D%90%E9%9B%86%E6%88%90%E6%9D%90%E8%A3%BD%E9%80%A0%E3%82%92%E5%B1%95%E9%96%8B%E3%81%97%E6%9C%A8%E3%81%A8%E9%87%91%E5%B1%9E%E3%82%92%E8%9E%8D%E5%90%88%E3%81%95%E3%81%9B%E3%81%9F%E8%A3%BD%E5%93%81%E9%96%8B/1496889245580773/",
+    "https://www.facebook.com/61588583411366/posts/web%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%A7%E5%BE%A1%E7%A4%BE%E3%81%AE%E5%A3%B2%E4%B8%8A%E3%81%A8%E9%9B%86%E5%AE%A2%E3%82%92%E6%9C%80%E5%A4%A7%E5%8C%96web%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%A7%E4%BC%81%E6%A5%AD%E3%81%AE%E5%A3%B2%E4%B8%8A%E3%81%A8%E9%9B%86%E5%AE%A2%E3%81%AE%E8%AA%B2%E9%A1%8C%E3%82%92%E8%A7%A3%E6%B1%BA%E3%81%97%E3%81%BE%E3%81%99%E6%9C%80%E5%85%88%E7%AB%AFit%E3%83%84%E3%83%BC%E3%83%AB%E3%82%92%E9%A7%86%E4%BD%BF%E3%81%97%E3%81%9F%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8D%E6%9C%80%E9%81%A9%E3%81%AAwe/122124773547286113/",
+    "https://www.facebook.com/skillshift/posts/%EF%B8%8F-%E3%83%9E%E3%82%B7%E3%83%B3%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E7%8D%B2%E5%BE%97%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E6%8E%A1%E7%94%A8%E6%88%A6%E7%95%A5%E3%83%97%E3%83%AD%E5%8B%9F%E9%9B%86%E6%94%BB%E3%82%81%E3%81%AE%E6%8E%A1%E7%94%A8%E3%81%B8%E8%BB%A2%E6%8F%9B%E3%81%99%E3%82%8B%E6%8C%91%E6%88%A6%E6%96%B0%E6%BD%9F%E5%B8%82%E3%81%A776%E5%B9%B4%E3%81%AB%E3%82%8F%E3%81%9F%E3%82%8A%E9%87%91%E5%B1%9E%E9%83%A8%E5%93%81%E5%8A%A0%E5%B7%A5%E3%82%92%E6%89%8B%E6%8E%9B%E3%81%91%E5%B7%A5%E5%A0%B4%E3%81%AE9%E5%89%B2%E4%BB%A5%E4%B8%8A%E3%81%A7%E8%87%AA%E5%8B%95%E5%8C%96%E3%82%92%E9%81%94%E6%88%90%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/1525528072716890/",
+    "https://www.facebook.com/Digiban.co.jp/posts/%E6%8E%A1%E7%94%A8%E5%8B%9F%E9%9B%86%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E6%A5%AD%E5%8B%99%E6%8B%A1%E5%A4%A7%E3%81%AB%E4%BC%B4%E3%81%842024%E5%B9%B4%E6%98%A5%E3%82%88%E3%82%8A%E5%85%A8%E3%81%A6%E3%81%AE%E8%81%B7%E7%A8%AE%E3%81%A7%E3%81%AE%E5%8B%9F%E9%9B%86%E3%82%92%E9%96%8B%E5%A7%8B%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-%E3%83%97%E3%83%A9%E3%83%B3%E3%83%8A%E3%83%BC-%E3%83%87%E3%82%A3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC-%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E6%8B%85%E5%BD%93-%E3%83%87%E3%82%B6%E3%82%A4%E3%83%8A%E3%83%BC-%E3%83%A9%E3%82%A4%E3%82%BF%E3%83%BC-%E3%82%A8%E3%83%B3%E3%82%B8/849461787202448/",
+    "https://www.facebook.com/bsearch12/",
+    "https://www.facebook.com/saori.nakatani.7923/posts/521%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E8%8B%A5%E6%89%8B%E3%81%AE%E6%8E%A1%E7%94%A8%E8%AA%B2%E9%A1%8C%E8%A7%A3%E6%B1%BA%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E5%8F%82%E5%8A%A0%E5%8B%9F%E9%9B%86%E4%B8%AD%EF%B8%8F%E3%81%8A%E7%94%B3%E8%BE%BC%E3%81%BF%E3%81%AF%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88%E6%AC%84%E3%81%B8-%E8%8B%A5%E6%89%8B%E6%8E%A1%E7%94%A8%E3%81%AE%E8%AA%8D%E7%9F%A5%E6%8B%A1%E5%A4%A7%E5%AE%9A%E7%9D%80%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E6%8E%A1%E7%94%A8%E3%81%8B%E3%82%89%E5%AE%9A%E7%9D%80%E6%88%90%E9%95%B7%E3%81%BE%E3%81%A7%E4%B8%80%E6%B0%97%E9%80%9A%E8%B2%AB%E3%81%A7%E5%AD%A6%E3%81%B9%E3%82%8B%E5%AE%9F%E8%B7%B5%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC-%E6%97%A5/1777784099865854/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "製造業の採用ブランディング・採用マーケティング note 社長",
+   "results": [
+    "https://www.conmark.jp/column/manufacturing-industry-recruitment",
+    "https://biz.note.com/n/nf8eed91257db",
+    "https://stll.me/18113",
+    "https://www.musubi-inc.co.jp/musubi-resonance-branding/blogs/note-recruit-branding",
+    "https://solena.jp/news/0003/",
+    "https://hrnote.jp/contents/tag/recruitment-marketing/",
+    "https://marugotoinc.jp/blog/note/",
+    "https://www.branding-t.co.jp/case/recruitment/16588/",
+    "https://techport.co.jp/archives/29559",
+    "https://note.com/bigpicturestars/n/n99baa5597e95"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "製造業の採用ブランディング・採用マーケティング X 投稿",
+   "results": [
+    "https://www.kk-sun.co.jp/blog/2025/04/09/%E3%80%90%E5%8A%B9%E6%9E%9C%E7%9A%84%E3%81%AA%E6%8E%A1%E7%94%A8%E3%83%96%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AEx%E6%B4%BB%E7%94%A8%E8%A1%93%E3%80%91/",
+    "https://www.branding-t.co.jp/case/recruitment/16588/",
+    "https://levelzero.co.jp/blog/20260308/",
+    "https://re-v.co.jp/column/2960/",
+    "https://www.wantedly.com/hiringeek/recruit/twitter/",
+    "https://stll.me/18113",
+    "https://marketing.techport.co.jp/archives/29559/",
+    "https://azu-rite.co.jp/clumn/x-recruitment",
+    "https://prtimes.com/magazine/recruitment-branding-method/",
+    "https://e-pace.co.jp/column/recruitment-marketing/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "employer branding platform for manufacturers site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/company/employer-branding-exp",
+    "https://www.linkedin.com/pulse/prompt-turns-ai-employer-brand-analyst-why-every-company-cathey-eqzfe",
+    "https://business.linkedin.com/content/dam/lem/business/fr_fr/hire/resources/talent-engagement/EmployerBrandingInsightsReport2019.pdf",
+    "https://www.linkedin.com/pulse/your-employer-brand-were-person-would-anyone-swipe-right-jeffery-lwgie",
+    "https://www.linkedin.com/posts/marwamaarfi_linkedin-jobmarket-recruitment-activity-7410748042913513472-7ub0",
+    "https://www.linkedin.com/products/youthall/",
+    "https://www.linkedin.com/pulse/employer-branding-2026-7-strategies-z7h1c",
+    "https://www.linkedin.com/pulse/from-world-leading-event-our-new-employer-branding-campaign-os5uc",
+    "https://business.linkedin.com/content/dam/lem/business/en/hire/customer-stories/bolton/case-study-bolton.pdf",
+    "https://www.linkedin.com/top-content/recruitment-hr/employer-reputation-management/employer-brand-positioning-in-the-market/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  }
+ ],
+ "missing": {}
+}

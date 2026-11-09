@@ -8,8 +8,100 @@
  ],
  "context": "手順・やり方",
  "kind": "market",
- "researched_at": "2026-11-09T01:01:19.668802+00:00",
+ "researched_at": "2026-11-09T12:03:22.413438+00:00",
  "evidence": {
+  "手順・やり方": [
+   {
+    "quote": "Chapter 2: Backcasting methods .......................................................................................... 21",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "B. Backcasting methods consistency issues. .............................................................. ........................................ 21",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "C. Integration Methods for the backcasted sequence of accounts ...................................................................... 26",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "5. Changes to accounting methods (valuation and timing of recording of transactions); ........................... 31",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "6. Improvements in compilation methodologies and quali ty of source data. ............................................. 31",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "E. Assess methodological options for each consistency issue. .......................................................................... 32",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Individual revision topics and methods ............................................................... ................................................. 48",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Technical Backcasting methodologies .................................................................. ............................................... 48",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Research papers and methods for long time series ..................................................... .......................................... 48",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "implementing new interpolation/projection technique s and other methodological changes.",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "methodological guidance in applying backcasting tec hniques to maintain coherent timeseries. In",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "required for the process, and articulate key steps such as analysing existing database, compiling",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "be produced. The Data Quality Assessment Framework for National Accounts published by the",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1.3 The premise of this Handbook is to provide guidance on how to produce a consistent set",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "of the DQAF to set a framework for developing backcasted series, integrating them into a National",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
   "実例": [
    {
     "quote": "I. Example of a review exercise for a historical backcasting project ................................................................ 35",
@@ -194,93 +286,21 @@
     "first_seen": "2026-11-06"
    }
   ],
-  "手順・やり方": [
+  "失敗・落とし穴": [
    {
-    "quote": "Chapter 2: Backcasting methods .......................................................................................... 21",
+    "quote": "effects the trend or level of GDP, and could be the result of a predictable bias. In this literature",
     "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "B. Backcasting methods consistency issues. .............................................................. ........................................ 21",
+    "quote": "the use of the analysis was to build “bias” estimat es into the modelling process used in policy",
     "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "C. Integration Methods for the backcasted sequence of accounts ...................................................................... 26",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "5. Changes to accounting methods (valuation and timing of recording of transactions); ........................... 31",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "6. Improvements in compilation methodologies and quali ty of source data. ............................................. 31",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "E. Assess methodological options for each consistency issue. .......................................................................... 32",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Individual revision topics and methods ............................................................... ................................................. 48",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Technical Backcasting methodologies .................................................................. ............................................... 48",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Research papers and methods for long time series ..................................................... .......................................... 48",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "implementing new interpolation/projection technique s and other methodological changes.",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "methodological guidance in applying backcasting tec hniques to maintain coherent timeseries. In",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "required for the process, and articulate key steps such as analysing existing database, compiling",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "be produced. The Data Quality Assessment Framework for National Accounts published by the",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "1.3 The premise of this Handbook is to provide guidance on how to produce a consistent set",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "of the DQAF to set a framework for developing backcasted series, integrating them into a National",
+    "quote": "revisions in with the regular revision practices when looking at issues of bias. It could lead to a false",
     "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
@@ -361,26 +381,6 @@
    },
    {
     "quote": "https://onlinelibrary.wiley.com/doi/10.1111/j.1475-4991.2009.00342.x/pdf",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "effects the trend or level of GDP, and could be the result of a predictable bias. In this literature",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "the use of the analysis was to build “bias” estimat es into the modelling process used in policy",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "revisions in with the regular revision practices when looking at issues of bias. It could lead to a false",
     "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
@@ -471,14 +471,14 @@
     "method": "pdf"
    },
    {
+    "url": "https://jicpa.or.jp/specialized_field/81_2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.grantthornton.jp/globalassets/pdf/report/monthlyreport/monthlyreportvol48.pdf",
     "status": "ok",
     "method": "pdf"
-   },
-   {
-    "url": "https://ipo-method.com/accounting/1735/",
-    "status": "ok",
-    "method": "http"
    },
    {
     "url": "https://www.actuaries.jp/info/pdf/20251226-1.pdf",
@@ -491,14 +491,19 @@
     "method": "http"
    },
    {
-    "url": "https://zelos.co.jp/background-to-the-birth-of-the-retrospective-standard",
+    "url": "https://viewpoint.pwc.com/dt/jp/ja/pwc/ifrs_qa/ifrs_qa_JP_ditamap/key14_JP.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://viewpoint.pwc.com/dt/jp/ja/pwc/ifrs_qa/ifrs_qa_JP_ditamap/key14_JP.html",
+    "url": "https://ipo-method.com/accounting/1735/",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://koara.lib.keio.ac.jp/xoonips/modules/xoonips/download.php/AN00234698-20080200-0001.pdf?file_id=16039",
+    "status": "ok",
+    "method": "pdf"
    },
    {
     "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
@@ -516,9 +521,9 @@
     "method": "pdf"
    },
    {
-    "url": "https://stats.stackexchange.com/questions/154577/how-to-work-with-index-numbers",
-    "status": "ok",
-    "method": "browser"
+    "url": "https://www.rabobank.com/knowledge/d011310657-backcasting-the-us-economy-with-dynamic-factor-models",
+    "status": "http_403",
+    "method": "http"
    },
    {
     "url": "https://onlinelibrary.wiley.com/doi/full/10.1111%2Ftwec.13274",
@@ -526,9 +531,9 @@
     "method": "http"
    },
    {
-    "url": "https://www.rabobank.com/knowledge/d011310657-backcasting-the-us-economy-with-dynamic-factor-models",
-    "status": "http_403",
-    "method": "http"
+    "url": "https://stats.stackexchange.com/questions/154577/how-to-work-with-index-numbers",
+    "status": "ok",
+    "method": "browser"
    }
   ]
  },
@@ -545,7 +550,7 @@
     "https://note.com/kamokita/n/n9c6a763ce31e"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -572,13 +577,13 @@
    "results": [
     "https://www.stat.go.jp/data/cpi/2025/sokyu.html",
     "https://www.actuaries.jp/lib/practice-standard/IAS19_jitumukijun.html",
-    "https://www.asb-j.jp/jp/wp-content/uploads/sites/4/kakosyusei_1-2.pdf",
     "https://www.vrp-p.jp/acpedia/5900/",
+    "https://www.asb-j.jp/jp/wp-content/uploads/sites/4/kakosyusei_1-2.pdf",
     "https://www.fasf-j.jp/jp/wp-content/uploads/sites/2/asbj_20250307_05.pdf",
+    "https://jicpa.or.jp/specialized_field/81_2.html",
     "https://www.grantthornton.jp/globalassets/pdf/report/monthlyreport/monthlyreportvol48.pdf",
-    "https://ipo-method.com/accounting/1735/",
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://jicpa.or.jp/specialized_field/81_2.html"
+    "https://biz.moneyforward.com/contract/basic/19024/"
    ],
    "engines": [
     "yahoo_jp"
@@ -590,13 +595,13 @@
    "results": [
     "https://www.asb-j.jp/jp/wp-content/uploads/sites/4/kakosyusei_1-2.pdf",
     "https://www.actuaries.jp/info/pdf/20251226-1.pdf",
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "https://www.grantthornton.jp/globalassets/pdf/report/monthlyreport/monthlyreportvol48.pdf",
-    "https://ipo-method.com/accounting/1735/",
-    "https://www.vrp-p.jp/acpedia/5900/",
-    "https://zelos.co.jp/background-to-the-birth-of-the-retrospective-standard",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.fasf-j.jp/jp/wp-content/uploads/sites/2/asbj_20250307_05.pdf",
     "https://viewpoint.pwc.com/dt/jp/ja/pwc/ifrs_qa/ifrs_qa_JP_ditamap/key14_JP.html",
-    "https://www.fasf-j.jp/jp/wp-content/uploads/sites/2/asbj_20250307_05.pdf"
+    "https://www.vrp-p.jp/acpedia/5900/",
+    "https://ipo-method.com/accounting/1735/",
+    "https://koara.lib.keio.ac.jp/xoonips/modules/xoonips/download.php/AN00234698-20080200-0001.pdf?file_id=16039"
    ],
    "engines": [
     "yahoo_jp"
@@ -609,17 +614,19 @@
     "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
     "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Backcasting",
     "https://www.unece.org/fileadmin/DAM/stats/documents/ece/ces/ge.20/2018/mtg1/3a_Item_7_Backcasting_UNSD_23_May_2018.pdf",
-    "https://stats.stackexchange.com/questions/154577/how-to-work-with-index-numbers",
-    "https://onlinelibrary.wiley.com/doi/full/10.1111%2Ftwec.13274",
     "https://www.rabobank.com/knowledge/d011310657-backcasting-the-us-economy-with-dynamic-factor-models",
+    "https://onlinelibrary.wiley.com/doi/full/10.1111%2Ftwec.13274",
+    "https://stats.stackexchange.com/questions/154577/how-to-work-with-index-numbers",
     "https://www.frbsf.org/research-and-insights/publications/economic-letter/2015/08/residual-seasonality-and-monetary-policy/",
     "https://ideas.repec.org/p/cbr/cbrwps/wp543.html",
-    "https://www.nber.org/system/files/chapters/c0727/c0727.pdf"
+    "https://nyu.databrary.org/volume/1143/session/45831",
+    "https://www.bls.gov/cpi/factsheets/rebasing.htm"
    ],
    "engines": [
+    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 9
+   "n_hits": 16
   },
   {
    "query": "site:note.com 指数の基準年の改定と遡及の作り直し系列を当時の公表値とつながない実務（基準改定・rebasing・backcast）",
@@ -639,33 +646,23 @@
   },
   {
    "query": "site:x.com 指数の基準年の改定と遡及の作り直し系列を当時の公表値とつながない実務（基準改定・rebasing・backcast）",
-   "results": [
-    "https://x.com/Bank_of_Japan_j/status/2062142579584438631",
-    "https://x.com/MitateR/status/2090732128246075897",
-    "https://x.com/takaichi_sanae/status/2090700182279065679",
-    "https://x.com/8pq3aioo/status/2086178183133728969",
-    "https://x.com/YAMAAKI48487029/status/2092433505435390087",
-    "https://x.com/LiveSquawk/status/2090707152604160199",
-    "https://x.com/platinum_1768_3/status/2079535377099178267"
-   ],
-   "engines": [
-    "ddgs:google"
-   ],
-   "n_hits": 7
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "site:linkedin.com 指数の基準年の改定と遡及の作り直し系列を当時の公表値とつながない実務（基準改定・rebasing・backcast）",
    "results": [
     "https://jp.linkedin.com/posts/masafumi-ota-66b81a35_日経ビジネス121号富士通特集を読みました-saasai内製化ローコードノーコード-activity-7401194937897279488-rmx6",
-    "https://jp.linkedin.com/pulse/time-series-forecasting-univariate-vs-multivariate-rohan-anand-mvgrf?tl=ja",
+    "https://www.linkedin.com/posts/takahiro-s-09119440_国家統計情報庁cpi基準年を改定消費傾向に合わせ対象品目の改廃もペルー-activity-6896576898772668416-9Iiy",
     "https://jp.linkedin.com/posts/kouichimatsuda_この規程いつ誰が変えたんだっけ-まずは当該規定の改定年月日一覧から該当条文-activity-7516616125946716160-mpkk",
+    "https://jp.linkedin.com/posts/seiichi-hamaguchi_以前ある会社で評価制度と給与の仕組みを作り直したことがありますそのときの失敗-activity-7520277028902764544-_Z4z",
     "https://jp.linkedin.com/learning/excel-for-the-web-essential-training/2875367",
     "https://jp.linkedin.com/pulse/understanding-stationarity-differencing-transforming-ravichandran-ktwvc?tl=ja",
-    "https://jp.linkedin.com/learning/excel-essential-training-microsoft-365-26102908/4035317",
-    "https://jp.linkedin.com/learning/excel-2016-charts/691996"
+    "https://www.linkedin.com/posts/diden-robotics_physicalai-robotics-didenrobotics-activity-7508798150380314624-Z-n-"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -681,7 +678,7 @@
     "https://www.facebook.com/Tsujifl/posts/フランス商法関連-第3弾商業賃貸借料の見直しが遡及的かどうかを知る商業賃貸借料の年次見直しを計算する方法ilc指数と35の上限を考慮した場合フランス法-フランス/959610072836878/"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -691,12 +688,12 @@
     "https://www.stat.go.jp/data/cpi/2025/sokyu.html",
     "https://www.actuaries.jp/info/20251226-1.html",
     "https://www.boj.or.jp/statistics/outline/notice_2025/not250925a.htm",
-    "https://www.vrp-p.jp/acpedia/5900/",
     "https://www.asb-j.jp/jp/wp-content/uploads/sites/4/20080418_08.pdf",
-    "https://ipo-method.com/accounting/1735/",
+    "https://www.vrp-p.jp/acpedia/5900/",
     "https://www.ey.com/content/dam/ey-unified-site/ey-com/ja-jp/technical/corporate-accounting/commentary/retroactive-adjustment/pdf/ey-japan-corporate-accounting-commentary-retroactive-adjustment-2012-04-10-04.pdf",
     "https://jicpa.or.jp/specialized_field/81_2.html",
-    "https://www.fasf-j.jp/jp/wp-content/uploads/sites/2/asbj_20250307_05.pdf"
+    "https://www.fasf-j.jp/jp/wp-content/uploads/sites/2/asbj_20250307_05.pdf",
+    "https://www.grantthornton.jp/globalassets/pdf/report/monthlyreport/monthlyreportvol48.pdf"
    ],
    "engines": [
     "yahoo_jp"
@@ -714,7 +711,7 @@
     "https://www.fasf-j.jp/jp/wp-content/uploads/sites/2/asbj_20250307_05.pdf",
     "https://www.fsa.go.jp/news/r7/hoken/20250723/20250723.html",
     "https://www.grantthornton.jp/globalassets/pdf/report/monthlyreport/monthlyreportvol48.pdf",
-    "https://ipo-method.com/accounting/1735/"
+    "https://viewpoint.pwc.com/dt/jp/ja/pwc/ifrs_qa/ifrs_qa_JP_ditamap/key14_JP.html"
    ],
    "engines": [
     "yahoo_jp"
@@ -729,17 +726,17 @@
     "https://ca.linkedin.com/posts/international-association-of-survey-statisticians-iass_dataintegration-timeseries-activity-7039142358830985216-P2bm",
     "https://pt.linkedin.com/pulse/foresight-tools-o-backcasting-na-abordagem-de-maurício-de-souza-c5jcf",
     "https://pt.linkedin.com/pulse/forecasting-ou-backcasting-vicente-cavallari",
-    "https://www.linkedin.com/pulse/gdp-rebasing-2026-reading-indias-new-eyilc",
+    "https://de.linkedin.com/pulse/25-zurück-zu-gegenwart-backcasting-michael-jzulf",
     "https://my.linkedin.com/jobs/view/associate-director-financial-risk-modelling-at-tng-digital-4469847185"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 13,
+ "runs": 14,
  "first_researched_at": "2026-11-06T07:05:17.932722+00:00"
 }

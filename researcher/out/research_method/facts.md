@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・295品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・298品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -1507,6 +1507,11 @@
 ## AIリサーチの出典・反証・不確実性の管理（重要主張からの検証）（verify AI research claims sources counterevidence uncertainty）
 - 文脈：裏取り
 - 手順・やり方：
+  - 「ナレッジグラフとは？GraphRAGとAI調査での使い方をやさしく解説」（https://media.deskrex.ai/case-citation-research-2026/）
+  - 「AI検索エンジンGensparkの使い方とは？職種ごとの活用法やPerplexityなど他リサーチサービスとの徹底比較！」（https://media.deskrex.ai/case-citation-research-2026/）
+  - 「Claude Modsとは？使い方・作り方・導入手順を解説」（https://media.deskrex.ai/case-citation-research-2026/）
+  - 「Claude Modsの仕組みと導入手順、最小Modの作成・登録・テストを解説」（https://media.deskrex.ai/case-citation-research-2026/）
+  - 「学術論文の引用ネットワーク可視化を始める方法」（https://media.deskrex.ai/case-citation-research-2026/）
   - 「AIから別のAIを呼び出す方法｜GPT・Claude・Gemini・GrokをAPIでつなぐ設計」（https://media.deskrex.ai/case-citation-research-2026/）
   - 「普段使うAIから一工程だけ別AIへ渡す方法を解説します」（https://media.deskrex.ai/case-citation-research-2026/）
   - 「CATL LFP $56/kWh、LG大型契約$9.3B解消、パナソニック4680、BYD垂直統合の中身を数字で読み解きます」（https://media.deskrex.ai/case-citation-research-2026/）
@@ -1517,11 +1522,6 @@
   - 「ハルシネーションを見破るための逆引きファクトチェック手順」（https://zenn.dev/andyailab/articles/436444a75f05a0）
   - 「AIに偏りの少ないリサーチを強制するための構造化プロンプトの設計方法」（https://zenn.dev/andyailab/articles/436444a75f05a0）
   - 「AIがエラーを出したり途中で止まったりしたときの具体的なリカバリー手順」（https://zenn.dev/andyailab/articles/436444a75f05a0）
-  - 「これらを属人化させず、チェックリストという形で手順に落とし込む」（https://zenn.dev/andyailab/articles/436444a75f05a0）
-  - 「次章以降で、実際に手を動かして検証するための具体的な手順とプロンプト、チェックリストを公開する」（https://zenn.dev/andyailab/articles/436444a75f05a0）
-  - 「有料エリアには、本文で説明した手順をそのまま使える形で1点を入れています」（https://zenn.dev/andyailab/articles/436444a75f05a0）
-  - 「『データと科学で仕事・身体・お金を最適化する実験室』では、試して確かめた手順だけを道具にしています」（https://zenn.dev/andyailab/articles/436444a75f05a0）
-  - 「要らなければ、ここまでの手順だけで十分に使えます」（https://zenn.dev/andyailab/articles/436444a75f05a0）
 - 突き合わせ・推定：
   - 「AIリサーチで失敗する原因は、プロンプトの不備ではなく「検証の仕組み（フロー）」の欠如にある」（https://zenn.dev/andyailab/articles/436444a75f05a0）
   - 「次章以降で、実際に手を動かして検証するための具体的な手順とプロンプト、チェックリストを公開する」（https://zenn.dev/andyailab/articles/436444a75f05a0）
@@ -1571,6 +1571,10 @@
   - 「ける生成 AI の利活用等に関する注意事項」 （会員限定」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
   - 「れており（執筆者も経験したことがある） 、注意を要す」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
 - 実例：
+  - 「Googleが2012年に始めた背景から、GraphRAGとの組み合わせ、製薬・素材・知財での実例、2026年の最新動向と明日からできる一歩まで」（https://media.deskrex.ai/case-citation-research-2026/）
+  - 「生成AIに自由に動かせず「提案」だけさせ、ルールが監督・承認する仕組みで危険行動率0%を実現した最新事例と導入のポイントを解説します」（https://media.deskrex.ai/case-citation-research-2026/）
+  - 「信頼性の高い情報源から最適化された検索結果を提供し、様々な業界で活用されています」（https://media.deskrex.ai/case-citation-research-2026/）
+  - 「本記事では、Gensparkの機能、ユースケース、技術的背景、課題、そして将来の展望、さらに他のAIサービスとの比較まで解説します」（https://media.deskrex.ai/case-citation-research-2026/）
   - 「電池業界のAI戦略事例｜CATL・LG・パナソニック・BYDの勝ち筋」（https://media.deskrex.ai/case-citation-research-2026/）
   - 「AIのリサーチ結果は、書いてあることより「書いていないこと」のほうが怖い」（https://zenn.dev/andyailab/articles/436444a75f05a0）
   - 「結果として、AIを使う前より時間がかかってしまう」（https://zenn.dev/andyailab/articles/436444a75f05a0）
@@ -1582,10 +1586,6 @@
   - 「: 「国内の事例は見当たらない」と報告したら、クライアントがすぐに事例を見つけた」（https://zenn.dev/andyailab/articles/436444a75f05a0）
   - 「電通AICO2の役割分担事例も」（https://media.deskrex.ai/case-citation-research-2026/）
   - 「2026年7月24日にリリースされたClaude Opus 5と、Anthropic公式が公開した「Claude 5世代向けコンテキストエンジニアリング新ルール」を、Claude Codeシステムプロンプト80％削減の実例、残す3要素と削る4要素の判断基準、CLAUDE.mdを半分に減らす書き換え辞書7例、Fable 5との使い分けまで一気に整理します」（https://media.deskrex.ai/case-citation-research-2026/）
-  - 「Label the rest as analysis, opinion, transition, or example. Analysis still needs honest reasoning, but it should not borrow false authority from a nearby citation. A claim inventory turns verification into a finite queue and prevents the most fluent paragraphs from escaping review.」（https://www.chatgrid.ai/blog/how-to-verify-ai-generated-research）
-  - 「Public captioned video used as a reproducible example source alongside the NIST report.」（https://www.chatgrid.ai/blog/how-to-verify-ai-generated-research）
-  - 「3 弁護士業務における活用事例」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
-  - 「成AIによる誤情報が法廷に提出された事例として報」（https://www.toben.or.jp/message/libra/pdf/2026_0708/P02-18.pdf）
 
 ## 情報機関の分析基準（ODNIの分析基準）を市場調査に使う（ODNI analytic standards applied business research）
 - 文脈：型
@@ -1862,21 +1862,21 @@
   - 「公開情報を突き合わせて、ネット上の情報を確かめる方法を発信しています」（https://note.com/joshima_s/n/nf7b375482338）
   - 「このような場合でも、法人番号は原則として継続して使用されるため、過去情報と現在情報を照合する際には、法人番号を基準に確認するとスムーズです」（https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/）
 - 一次情報の探し方：
+  - 「MCP server for business entity research. Gives AI assistants access to OpenCorporates company data and SEC EDGAR company filings for due diligence.」（https://apify.com/martc03/business-entity-mcp）
+  - 「Look up company registrations, corporate filings, and business entity data worldwide from your AI assistant.」（https://apify.com/martc03/business-entity-mcp）
+  - 「: complete company record including officers and directors, filing history, registered address, agent information, industry codes, and alternative names.」（https://apify.com/martc03/business-entity-mcp）
+  - 「Search SEC EDGAR for US publicly traded companies and their filings.」（https://apify.com/martc03/business-entity-mcp）
+  - 「: entity name, CIK number, form type, filing date, direct EDGAR URL.」（https://apify.com/martc03/business-entity-mcp）
+  - 「"Find recent 10-K annual report filings from Tesla on SEC EDGAR."」（https://apify.com/martc03/business-entity-mcp）
+  - 「"Search for S-1 IPO filings submitted to the SEC in the last 6 months."」（https://apify.com/martc03/business-entity-mcp）
+  - 「): The largest open database of companies in the world, aggregating official company register data from over 140 jurisdictions. Includes company names, registration numbers, status, officers, filings, and registered addresses.」（https://apify.com/martc03/business-entity-mcp）
+  - 「): The US Securities and Exchange Commission's Electronic Data Gathering, Analysis, and Retrieval system. Full-text search across all public company filings including annual reports (10-K), quarterly reports (10-Q), current reports (8-K), and registration statements.」（https://apify.com/martc03/business-entity-mcp）
+  - 「Search official US Secretary of State business registries across 25 states by company name. Returns normalized entity records — name, type, status, registration date, registered agent, officers/directors, jurisdiction, filing ID — for KYB and due diligence. No API keys.」（https://apify.com/martc03/business-entity-mcp）
   - 「OpenCorporates provides information like incorporation dates, registered addresses, directors and officers, ultimate beneficial owners, latest company events and filings, and unique identifiers like LEI and UK VAT numbers.」（https://veridion.com/insights/articles/opencorporates-alternatives）
   - 「You can also view original source documents, like PDFs, or get redirected to the exact government website or publication the data came from.」（https://veridion.com/insights/articles/opencorporates-alternatives）
   - 「今日から4回にわたって、誰でも無料で使える公的な調べものツールを、1回に1つずつ取り上げます」（https://note.com/joshima_s/n/nf7b375482338）
   - 「番号を指定するのは国税庁長官で、対象は国の機関、地方公共団体、設立登記をした法人のほか、税法上の届出を行う法人や人格のない社団等です」（https://note.com/joshima_s/n/nf7b375482338）
   - 「設立登記をした法人は、法律で基本3情報をすべて公表することになっており、公表しないことはできません」（https://note.com/joshima_s/n/nf7b375482338）
-  - 「会社として登記されていれば、原則としてここで名称と所在地を確かめられる、ということです」（https://note.com/joshima_s/n/nf7b375482338）
-  - 「検索するときは「登記記録の閉鎖等が生じた法人を検索対象に含める」を選ぶと、こうした法人も表示されます」（https://note.com/joshima_s/n/nf7b375482338）
-  - 「役員や目的など、もう一歩踏み込んだ情報は登記事項証明書で、決算公告や合併などの動きは官報で確かめる、というように、ほかの公的記録と組み合わせて使うのが基本になります」（https://note.com/joshima_s/n/nf7b375482338）
-  - 「設立登記をした法人の所在地は、法務局の登記情報にもとづいています」（https://note.com/joshima_s/n/nf7b375482338）
-  - 「表示されるのは登記上の本店で、実際の営業拠点や店舗とは一致しないことがあります」（https://note.com/joshima_s/n/nf7b375482338）
-  - 「なお、登記上の本店の住所が住居表示の実施などで廃止され、今は存在しない表記になっている法人は「検索対象除外法人」として、通常の検索結果から外れています」（https://note.com/joshima_s/n/nf7b375482338）
-  - 「法人番号公表サイトは、会社を調べるときの入口として、とても使いやすい公的ツールです」（https://note.com/joshima_s/n/nf7b375482338）
-  - 「同名の法人、登記上の本店、法人でない事業者の扱いに注意する」（https://note.com/joshima_s/n/nf7b375482338）
-  - 「「存在しているか」をここで確かめ、そのうえで中身を別の公的記録で確かめる、という順番で使うと、調べものの精度が上がります」（https://note.com/joshima_s/n/nf7b375482338）
-  - 「官報の公告欄から、会社のどんな動きが見えるのかを整理します」（https://note.com/joshima_s/n/nf7b375482338）
 - 失敗・落とし穴：
   - 「登記申請書の捨印とは？押し方・注意点を法人登記向けに解説」（https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/）
   - 「確認するときの3つの注意点」（https://note.com/joshima_s/n/nf7b375482338）
@@ -1894,6 +1894,7 @@
   - 「山椒栽培は儲かる？農家の年収や副業での始め方・失敗例を解説」（https://biz.moneyforward.com/establish/basic/88844/）
   - 「入札ビジネスは儲からない？失敗理由や個人でも利益を出すコツを解説」（https://biz.moneyforward.com/establish/basic/88844/）
 - 実例：
+  - 「MCP server for federal court data. Gives AI assistants access to court opinions, case dockets, and judge information from the CourtListener/RECAP database.」（https://apify.com/martc03/business-entity-mcp）
   - 「Here is an example of a company profile:」（https://veridion.com/insights/articles/opencorporates-alternatives）
   - 「You do pay for Veridion, but what you get in return is a far more capable, flexible dataset built for commercial use cases.」（https://veridion.com/insights/articles/opencorporates-alternatives）
   - 「This includes company registration information, trademark data, trade records, and in some cases, sanctions lists.」（https://veridion.com/insights/articles/opencorporates-alternatives）
@@ -1908,7 +1909,6 @@
   - 「種類株式とは？事業承継に活用するメリット・方法や組み合わせ事例を解説」（https://biz.moneyforward.com/establish/basic/88844/）
   - 「創業融資に担保は必要？日本政策金融公庫の制度や不要なケースを解説」（https://biz.moneyforward.com/establish/basic/88844/）
   - 「社会福祉法人とは？設立を検討すべきケースやメリット・注意点を解説」（https://biz.moneyforward.com/establish/basic/88844/）
-  - 「会社名のアイデアの出し方は？ネーミングに役立つフレームワークや事例、注意点を解説」（https://biz.moneyforward.com/establish/basic/88844/）
 - 検索結果の抜粋：
   - 「OpenCorporates vs Companies House vs SEC EDGAR for Company ... — May 27, 2026 · OpenCorporates Role: Registry-derived company records across supported jurisdictions First-pass company verification, jurisdiction lookup, company-number checks, officer/director pivots, and public-register source discovery. Read this evidence lane against the comparison methodology and limits instead of treating any p」（https://osint4all.com/comparison/opencorporates-vs-companies-house-vs-sec-edgar-for-company-due-diligence/）
 
@@ -14763,11 +14763,11 @@
 
 ## 外資系の日本法人・日本の会社の海外現地法人の探し方（外資系企業総覧・海外進出企業総覧・図書館の調べ方案内・A1の②の会社探し・4-108）（how to find foreign-affiliated companies in Japan and Japanese overseas subsidiaries directory research guide library）
 - 文脈：会社
-- 手順・やり方：記載なし（読んだ21頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ21頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ21頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ21頁・検索12回）
-- 実例：記載なし（読んだ21頁・検索12回）
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 規制当局の検査・届出の記録を調べ物に使う実務（検査記録・事故調査・化学物質の届出の集計・PRTR・労基署の公表・調査報道の書き手・IRE・4-109）（using regulatory inspection and filing records in investigative reporting IRE public records data）
 - 文脈：探し先
@@ -15186,11 +15186,11 @@
 
 ## データの誤りの型の点検表（見せかけの精度・手で作った表の兆し・基準の年の選び方・先頭の0・Quartz の bad data guide の後継と日本語の記事・4-116）（bad data guide false precision hand-edited data red flags journalism checklist）
 - 文脈：裏取り
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ28頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ28頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
+- 実例：記載なし（読んだ28頁・検索12回）
 
 ## 結論が1つの証拠に寄るときの点検（要の証拠・lynchpin・前提の書き出し Key Assumptions Check・見直しの合図 indicators of change の実務ブログ・4-116）（key assumptions check linchpin evidence indicators of change analyst blog）
 - 文脈：裏取り
@@ -16564,6 +16564,171 @@
   - 「例えば、金融業界のセキュリティ対策の専門家に話を聞くことで、自社のECサイトの不正利用対策に応用できる新たな知見が得られるかもしれません」（https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/）
   - 「この最初のステップが曖昧なまま進むと、インタビュー全体が散漫になり、時間とコストをかけたにもかかわらず、何の成果も得られないという最悪の結果を招きかねません」（https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/）
   - 「例えば、「BtoB SaaSの価格戦略について知りたい」という目的であれば、自社のプロダクトマネージャーではなく、複数のSaaS企業で価格設定の意思決定に関わった経験のある事業責任者や、SaaS業界専門のコンサルタントが最適な対象者となります」（https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/）
+
+## 統計の改定の分析（速報と確報の差の平均・平均絶対改定・改定の偏りの検定・版の付いた時系列データベース・OECD 改定分析・4-128）（revision analysis mean revision mean absolute revision bias test real-time vintage database OECD）
+- 文脈：突き合わせ・推定
+- 手順・やり方：
+  - 「statistics on how to interpret the results of a revision analys es for economic variable s」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「this document for other sophisticated / specific user methods.」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「aware of changes to compilation methods that may have occurred over time to the」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「3 The task-force has made recommendations on how to build a database of „real-time‟ data required for」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「the real-time dataset available to analyse. The reader is therefore referred to the guidelines on how to build」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「expect a non-zero mean revision, such as the impact of methodological or definitional changes which may」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「9. Removing the UK RPI to CPI methodological change」（https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf）
+  - 「13. Next steps」（https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf）
+  - 「with most other countries if the UK’s unique deflator methodological improvement is removed.」（https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf）
+  - 「methods used to compile the quarterly path, the differences between the quarters are no larger than for many other countries.」（https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf）
+  - 「after the reference period, or to publish a first estimate and then ignore any subsequent new data and any methodological」（https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf）
+  - 「assess the impact on UK revisions from removing the major UK methodological change of deflating using the Consumer」（https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf）
+  - 「draw conclusions and recommend next steps」（https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf）
+  - 「publication each year. Larger scale revisions to methodology and concepts vary by country, with some countries opening up」（https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf）
+  - 「the back history as and when required, while other countries had a more rigid policy of large scale methodological changes」（https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf）
+- 突き合わせ・推定：
+  - 「revision interval for say first published estimates of third quarter and fourth quarter data).」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「Lt: later estimate for reference period t」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「Pt: preliminary (earlier) estimate for reference period t」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「3.6 What is the average size of revision relative to the estimate itself?」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「3.7 Is the earlier published estimate a good or ‘efficient’ forecast of the later」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「interval (e.g. M3_P implies the revision between first published estimates (i.e. P) and」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「that on average earlier releases have been under -estimated (negative sign means over -」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「estimated). Revisions of opposite sign will have a tendency to cancel out, consequentially」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「exists in the earlier estimates. Four possible outcomes have been chosen to describe」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「7 One should be wary of concluding a bias exists for the earlier published estimate if the mean revision is」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「variable that follows a normal distribution with variance estimate as above, the t -critic」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「estimate and the sign of earlier estimate are the same.」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「acceleration / deceleration test. Tha t is, if the earlier estimate indicates that growth is」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「later estimate also signifies this.」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「of the size of the earlier estimates. Aside from the above issue, it is useful as a measure」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+- 一次情報の探し方：
+  - 「http://www.oecd.org/dataoecd/44/36/40308976.pdf?contentId=40308977」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「http://www.oecd.org/dataoecd/20/26/34350524.pdf.」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「2005, Paris http://www.oecd.org/dataoecd/55/17/35010765.pdf.」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「Paris. http://www.oecd.org/dataoecd/13/49/35440080.pdf」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「http://www.oecd.org/dataoecd/44/38/40309461.pdf?contentId=40309462」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「http://www.oecd.org/dataoecd/45/29/36561675.pdf」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「http://www.cirano.qc.ca/fin/Real-timeData/2007/McKenzie.pdf」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「http://www.oecd.org/dataoecd/47/15/40315408.pdf」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「ONS, UK. http://www.oecd.org/dataoecd/43/62/33779647.pdf」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+- 失敗・落とし穴：
+  - 「revisions are more in one direction than another, suggesting possible bias in the earlier」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「the average size of the revisions, but it cannot provide an indication of directional bias」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「be of limited use (also called “average bias”).」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「revision is statistically different from zero which may give an insight of whether a bias 7」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「7 One should be wary of concluding a bias exists for the earlier published estimate if the mean revision is」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「Root mean square revision: it essentially combines the degree of bias (i.e. mean revision)」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「Quartile deviation: if the bias is measured by the m edian, the quartile deviation is the fit」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「considering whether there is bias in the revision process (i.e. there may be some degree of」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「8. Testing GDP revisions for bias」（https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf）
+  - 「There is no statistically significant bias to the UK GDP revisions at 1 year, 2 years or 3 years after the initial estimates at the」（https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf）
+  - 「Our article showed that GDP revisions remain small and unbiased over the initial Blue Book revisions periods, and noted the」（https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf）
+  - 「test the GDP revisions for the UK and of all these countries for bias」（https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf）
+  - 「show the sign of revisions, it does not give an indication of any possible directional bias.」（https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf）
+  - 「While the magnitude and direction of revisions is important, it is also important to identify if there is a bias within a country’s」（https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf）
+  - 「Japan, Norway, Spain and Switzerland. Countries with some bias in some of their estimates at the 5% or 10% significance」（https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf）
+- 実例：
+  - 「example, a user may be interested in studying revision between first published data and」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「statistical agency publishing the data. For example, if reconciliation with annual data」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「3.5 In the case of growth rates, how often is the later published growth rate in the」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「data points of the time series. For example, 1994Q1 – 2007Q3 represents 55」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「% of positive revisions : it returns the number of cases revised upward as a proportion of」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「% of negative revisions: it returns the number of cases revised down ward as a proportion」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「% of zero revisions: it returns the number of cases with null revision as a proportion of」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「This is an extreme case of unreliability, although it may be that the change of a small」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「higher growth rates in the volume estimates of the statistic that is being deflated – in this case consumption, and hence the」（https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf）
+  - 「Canada is another example of the economic downturn becoming weaker through subsequent revisions. Initially their 4 quarter」（https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf）
+  - 「their revisions policy that the GDP numbers produced at the preliminary stage (45 days after the period in this case) and」（https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf）
+  - 「rather than a genuine improvement in revisions performance in most cases. Denmark, Finland, France, Italy, Portugal,」（https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/internationalcomparisonofgdprevisions/2016-04-28/pdf）
+  - 「For example, predictable revisions of U.S. industrial production led the Federal Reserve to」（https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf）
+  - 「Generally, revisions improve the quality of the data. For example, the U.S. consumer price」（https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf）
+  - 「For example, someone in November 1965 who looked up the values of real GDP would」（https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf）
+
+## 2国間の貿易統計の食い違いの調べ方（ミラー統計・CIF/FOB の推計・時間差・相手国の付け方・中継貿易・UN Comtrade・各国統計局の比較の論文・4-128）（bilateral trade asymmetry reconciliation mirror statistics CIF FOB time lag partner attribution re-exports）
+- 文脈：突き合わせ・推定
+- 手順・やり方：
+  - 「IMTS Bilateral asymmetries – how to measure, analyze, reduce and way forward」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「publications on bilateral asymmetries and to offer step-by-step guidance, with templates and examples,」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「• variations in data compilation and estimation methods, and confidentiality among other reasons.」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「Step I. Check existence of bilateral asymmetries」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「Step II. Examine sources of differences」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「Methods for estimating freight and insurance on imports」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「application of partner attribution may impact adjustment methodology.」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「methods for estimating the difference due to a time lag should be derived.」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「Step III. Applying Adjustment and Conduct Initial Analysis」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「An i ndicator of remaining asymmetries (RA) can be computed by applying methodological related」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「In the same way as the methodology is used for total trade, it can also be used for commodity」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「Step IV. Unexplained discrepancies」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「discrepancies (i.e., reporting errors) . As the first step , relevant raw data from original customs」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「As part of bilateral asymmetrical studies, strateg ies and methods can be developed to conduct」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「• Enhance estimation methods and using additional data sources e.g. sample surveys.」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+- 突き合わせ・推定：
+  - 「differences, including undetected under and over -declaration of values, different value estimates for」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「Source: UN Comtrade estimates」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「Estimate of the import value impacted by time lag $」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「Estimate as percent (%) of R total imports %」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「The m ethod to estimate time lags would depend on dominant mode of transport. In case of sea」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「Estimate of the import value in million impacted by time lag $234」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「Estimate as percent (%) of CAN total imports 0.5%」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「CIF/FOB valuation estimate –」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「*CIF/FOB estimate 1.2」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「*CIF/FOB estimate 0」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「*CIF/FOB estimate 9」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「Seaborne Trade Estimates – Archive」（https://uncomtrade.org/docs/bilateral-asymmetries/）
+  - 「views of the United N ations. The opinions, figures and estimates set forth in this publication」（https://www.unescap.org/sites/default/files/AWP%20No.%20156.pdf）
+  - 「ideal. Nevertheless, UN Statistics Division (UNSD) uses mi rror data to estimate IMTS for」（https://www.unescap.org/sites/default/files/AWP%20No.%20156.pdf）
+  - 「(GVCs) and efforts to estimate trade in value added (TiVA). GVCs and TiVA have, in」（https://www.unescap.org/sites/default/files/AWP%20No.%20156.pdf）
+- 一次情報の探し方：
+  - 「4 For IFFs, see for example: https://www.oecd.org/corruption/Illicit_Financial_Flows_from_Developing_Countries.pdf」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「5 For more information, see https://unstats.un.org/unsd/trade/eg-imts/IMTS%202010%20(English).pdf」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「https://www150.statcan.gc.ca/n1/en/pub/13-605-x/2018001/article/54962-eng.pdf?st=DUPYB3kM」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「https://unstats.un.org/unsd/tradekb/Knowledgebase/50231/Asymmetry-in-foreign-trade-statistics-in-Mediterranean-」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「trade-statistics-in-Mediterranean-partner-countries」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「ies_in_International_Trade_Statistics.pdf.」（https://www.unescap.org/sites/default/files/AWP%20No.%20156.pdf）
+  - 「4 UNDESA, 2012, see http://unstats.un.org/unsd/publication/Seriesm/seriesM_86Rev1e.pdf」（https://www.unescap.org/sites/default/files/AWP%20No.%20156.pdf）
+- 実例：
+  - 「publications on bilateral asymmetries and to offer step-by-step guidance, with templates and examples,」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「inclusion of commodities (scope) . In these cases, compensating adjustments are needed if the」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「i. in the case of imports, the country of origin should be recorded,6」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「ii. in the case of exports, the country of last known destination should be recorded.」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「reliable valuation of goods in all cases, especially for problem atic categories and irrespective of」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「4 For IFFs, see for example: https://www.oecd.org/corruption/Illicit_Financial_Flows_from_Developing_Countries.pdf」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「different economic meaning. For example, if the US would record imports on the country of consignment basis then all」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「From examples above, many commodities can be impacted by asymmetries whether they are primary」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「9 The case study is adapted from Statistics Canada (2018), Comparing Canada’s and China’s bilateral trade data. URL:」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「Example: Trade between Canada (CAN) and China (CHN)」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「and needs to be assessed further. In this example, inbound trade covers CAN imports and CHN exports,」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「Example: Trade between CAN and CHN」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「11 For an example, see MEDSTAT II: Asymmetry in foreign trade statistics in Mediterranean partner countries」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「(see trade system above). Almost in all cases the information of the country of consignment is crucial」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「Example: Country of consignment between CAN and CHN」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+
+## ネットの情報の最初の掲載をたどる方法（最も古い掲載・アーカイブ・公開日の確かめ方・コピーサイトの見分け・OSINT・ファクトチェック団体の手順・4-128）（finding earliest publication original source tracing OSINT fact-check archive first appearance）
+- 文脈：一次情報の探し方
+- 手順・やり方：
+  - 「don’t replace human judgment—they sharpen it. The key is workflow: knowing how to verify information quickly without getting lost in tabs, speculation, or repetition.」（https://blog.sociallinks.io/the-osint-fact-checking-toolkit/）
+  - 「, showing how analysts verify claims, validate sources, and separate authentic digital evidence from manipulation. It blends newsroom verification discipline with open-source intelligence methods built for scale, speed, and reliability.」（https://blog.sociallinks.io/the-osint-fact-checking-toolkit/）
+  - 「When new content appears—a viral claim, a leaked document, or a breaking video—the first step is a」（https://blog.sociallinks.io/the-osint-fact-checking-toolkit/）
+  - 「Search is still the fastest orientation method. Running multiple engines with」（https://blog.sociallinks.io/the-osint-fact-checking-toolkit/）
+  - 「Reproducible steps with archived artifacts」（https://blog.sociallinks.io/the-osint-fact-checking-toolkit/）
+  - 「What are quick digital verification methods for tight deadlines?」（https://blog.sociallinks.io/the-osint-fact-checking-toolkit/）
+  - 「Time-filtered searches, multi-engine image checks, and archive comparisons. These methods provide fast, defensible signals when full investigations aren’t possible.」（https://blog.sociallinks.io/the-osint-fact-checking-toolkit/）
+  - 「OSINT Frameworks: Linking the Evidence」（https://blog.sociallinks.io/the-osint-fact-checking-toolkit/）
+- 突き合わせ・推定：
+  - 「Cross-check the clock.」（https://blog.sociallinks.io/the-osint-fact-checking-toolkit/）
+  - 「to estimate time of day. Weather or traffic archives add further confirmation.」（https://blog.sociallinks.io/the-osint-fact-checking-toolkit/）
+  - 「By identifying the original post, tracing earliest uploads across platforms, and examining account history. Cross-check visuals with geolocation and external reports.」（https://blog.sociallinks.io/the-osint-fact-checking-toolkit/）
+- 一次情報の探し方：
+  - 「Company registries, court filings, and archived bios」（https://blog.sociallinks.io/the-osint-fact-checking-toolkit/）
+  - 「Public registries, local press, and municipal data can often act as ground truth. Official filings anchor OSINT verification when rumor outweighs fact.」（https://blog.sociallinks.io/the-osint-fact-checking-toolkit/）
+- 失敗・落とし穴：
+  - 「(past 24 hours or custom range) exposes reporting gaps and potential bias. Specialized resources like」（https://blog.sociallinks.io/the-osint-fact-checking-toolkit/）
+  - 「The inclusion of mainstream bias; niche regions often go under-reported.」（https://blog.sociallinks.io/the-osint-fact-checking-toolkit/）
+  - 「Chronolocation trumps instinctive plausibility and the confirmation bias.」（https://blog.sociallinks.io/the-osint-fact-checking-toolkit/）
+- 実例：
+  - 「across these six categories cover most real-world cases. Fact-checking doesn’t require hundreds of tools, only a」（https://blog.sociallinks.io/the-osint-fact-checking-toolkit/）
+  - 「Examples of Fact-Checking in Action」（https://blog.sociallinks.io/the-osint-fact-checking-toolkit/）
+  - 「Post-case reviews of what has worked in the past and what hasn’t.」（https://blog.sociallinks.io/the-osint-fact-checking-toolkit/）
+  - 「Select one reliable option per category—search, archive, reverse image, domain lookup, and metadata. Test them against past cases to confirm consistency and speed.」（https://blog.sociallinks.io/the-osint-fact-checking-toolkit/）
 
 ## 人数の定義の違い（統計の従業者・税の従業員数の時間換算1（800時間・社会保険の被保険者・求人の社員数）と1人あたりの比べ方）
 - 文脈：従業員数 定義 違い 統計 社会保険;従業者 従業員 違い 経済センサス;FTE 換算 1人当たり売上 比較 注意

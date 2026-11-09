@@ -1,0 +1,795 @@
+{
+ "name": "製造業の外国人材の採用",
+ "en": "international recruitment platform for manufacturing workers",
+ "aliases": [
+  "cross-border hiring manufacturing",
+  "foreign worker hiring platform factory",
+  "global talent sourcing skilled trades"
+ ],
+ "context": "外国人",
+ "kind": "market",
+ "researched_at": "2026-11-09T11:59:10.258862+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "Y Combinator Startups in India 2026 | Y Combinator",
+    "url": "https://www.ycombinator.com/companies/location/india",
+    "pass": 3
+   },
+   {
+    "quote": "Y Combinator Startups in India 2026",
+    "url": "https://www.ycombinator.com/companies/location/india",
+    "pass": 3
+   },
+   {
+    "quote": "Browse 178 of the top startups funded by Y Combinator. Headquartered in India, these are some of the hottest and fastest-growing startups.",
+    "url": "https://www.ycombinator.com/companies/location/india",
+    "pass": 3
+   },
+   {
+    "quote": "This doesn't include all companies originally founded in",
+    "url": "https://www.ycombinator.com/companies/location/india",
+    "pass": 3
+   },
+   {
+    "quote": "We also have a Startup Directory where you can",
+    "url": "https://www.ycombinator.com/companies/location/india",
+    "pass": 3
+   },
+   {
+    "quote": "Most teams that run AI in production pay for a top model on every task, when a cheaper model can do most of the work. The same model can also cost twice as much depending on which provider runs it, and many providers fail at peak traffic.",
+    "url": "https://www.ycombinator.com/companies/location/india",
+    "pass": 3
+   },
+   {
+    "quote": "RouterPlus tests models on a team's own traffic and recommends one. Providers then compete for the workload. We check that the chosen provider can hold the team's real peak, and we keep a second provider ready as a backup. Teams call the model through one API.",
+    "url": "https://www.ycombinator.com/companies/location/india",
+    "pass": 3
+   },
+   {
+    "quote": "Say what you need, like “three 30-second ad variants” or “a customer testimonial from these interviews”, and Cardboard’s AI agent, Director, builds a first cut in minutes. You refine it by chatting or on a full timeline, with your team. Cardboard edits the footage you already have. Unlike AI video generators such as Runway or Sora, it doesn’t create new video from a text prompt.",
+    "url": "https://www.ycombinator.com/companies/location/india",
+    "pass": 3
+   },
+   {
+    "quote": "Ressl AI helps teams bridge the gap from prototype to production by providing the platform needed to train, benchmark, and deploy autonomous agents that actually work in real-world business systems.",
+    "url": "https://www.ycombinator.com/companies/location/india",
+    "pass": 3
+   },
+   {
+    "quote": "Bolna is a Voice AI Orchestration platform purpose-built for Indian enterprises.",
+    "url": "https://www.ycombinator.com/companies/location/india",
+    "pass": 3
+   },
+   {
+    "quote": "2. Cost efficiency at scale with smart routing across providers and price points",
+    "url": "https://www.ycombinator.com/companies/location/india",
+    "pass": 3
+   },
+   {
+    "quote": "SureBright lets e-commerce merchants embed \"Apple Care” like product warranties into their checkout flows in less than 10 minutes. Our AI-powered warranty platform generates incremental revenue and boosts customer loyalty at zero cost to the merchant.",
+    "url": "https://www.ycombinator.com/companies/location/india",
+    "pass": 3
+   },
+   {
+    "quote": "Sanket led engineering at PolicyBazar, an insurance tech company that IPOed and is valued at over $8B. Manish worked at Amazon and has built $100M ARR products, handling over 180B requests per day.",
+    "url": "https://www.ycombinator.com/companies/location/india",
+    "pass": 3
+   },
+   {
+    "quote": "Infinity is a banking and payments platform for cross-border businesses in India. We help our customers make cross-border payments that are 70% cheaper than traditional methods and earn income on idle cash by investing in government securities.",
+    "url": "https://www.ycombinator.com/companies/location/india",
+    "pass": 3
+   },
+   {
+    "quote": "Floworks (https://floworks.ai) is building a suite of AI employees that helps business to run several business functions such as sales, on autopilot.",
+    "url": "https://www.ycombinator.com/companies/location/india",
+    "pass": 3
+   },
+   {
+    "quote": ", our proprietary recruitment platform, you get intelligent automation and talent analytics to engage qualified skilled trades workers, engineers and leaders. Accelerate time-to-fill, reduce vacancies and drive cost savings.",
+    "url": "https://www.peoplescout.com/expertise/industrial-manufacturing/",
+    "pass": 3
+   }
+  ],
+  "YC・出資": [
+   {
+    "quote": "Y Combinator Startups in India 2026 | Y Combinator",
+    "url": "https://www.ycombinator.com/companies/location/india",
+    "pass": 3
+   },
+   {
+    "quote": "Y Combinator Startups in India 2026",
+    "url": "https://www.ycombinator.com/companies/location/india",
+    "pass": 3
+   },
+   {
+    "quote": "Browse 178 of the top startups funded by Y Combinator. Headquartered in India, these are some of the hottest and fastest-growing startups.",
+    "url": "https://www.ycombinator.com/companies/location/india",
+    "pass": 3
+   },
+   {
+    "quote": "Built by a team that's seen it at LAT Aerospace and WareIQ (YC S20).",
+    "url": "https://www.ycombinator.com/companies/location/india",
+    "pass": 3
+   },
+   {
+    "quote": "Yenmo offers a better way to access cash for India’s 65 million investors who either resort to personal loans at over 18% interest or have to liquidate their investments when in need of money. With Yenmo, they can pledge their investments digitally and instantly get a loan starting at 9.89%. No annual fee, no foreclosure charge.",
+    "url": "https://www.ycombinator.com/companies/location/india",
+    "pass": 3
+   },
+   {
+    "quote": "With 50 Mn Indians saving $2/day & with gold backed lending, this is a $1.5Bn market opportunity.",
+    "url": "https://www.ycombinator.com/companies/location/india",
+    "pass": 3
+   },
+   {
+    "quote": "designed to meet niche or short-term needs to full-cycle management of your manufacturing recruitment function.",
+    "url": "https://www.peoplescout.com/expertise/industrial-manufacturing/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "We deliver groceries in 10 minutes through a network of optimized micro-warehouses or 'dark stores' that we build across cities in India.",
+    "url": "https://www.ycombinator.com/companies/location/india",
+    "pass": 3
+   },
+   {
+    "quote": "We are building an auto vision factory: take video plus a customer's objective, distill a frontier model, and post-train a small open model that is SOTA on that one task and serve it blazingly fast. Our first product, Marlin, is a 2B-parameter open-weights video VLM that matches Gemini-2.5-flash on dense captioning and temporal grounding at a fraction of the cost.",
+    "url": "https://www.ycombinator.com/companies/location/india",
+    "pass": 3
+   },
+   {
+    "quote": "Optifye.ai does AI performance monitoring for factory workers",
+    "url": "https://www.ycombinator.com/companies/location/india",
+    "pass": 3
+   },
+   {
+    "quote": "The shop floor has historically been a black box. With Optifye, manufacturing companies can now accurately measure worker output and boost efficiency!",
+    "url": "https://www.ycombinator.com/companies/location/india",
+    "pass": 3
+   },
+   {
+    "quote": "At Raven, we are building AI assistants for manufacturing plants which can offer intelligent assistance for day-to-day operations like training, job planning, troubleshooting, reporting and also helps with real-time analytics — all while seamlessly integrating with your existing systems.",
+    "url": "https://www.ycombinator.com/companies/location/india",
+    "pass": 3
+   },
+   {
+    "quote": "We’re taking decades of manufacturing expertise and combining it with AI to solve real operational problems. We’re a small, focused team working to make industrial operations safer, smarter, and more efficient.",
+    "url": "https://www.ycombinator.com/companies/location/india",
+    "pass": 3
+   },
+   {
+    "quote": "Peoplebox.ai is an AI-native talent platform used by 500+ companies to hire, manage, and grow their people.",
+    "url": "https://www.ycombinator.com/companies/location/india",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Recruitment & Talent Acquisition | PeopleScout",
+    "url": "https://www.peoplescout.com/expertise/industrial-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Recruitment",
+    "url": "https://www.peoplescout.com/expertise/industrial-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Recruitment Solutions to Gear Up Your Workforce",
+    "url": "https://www.peoplescout.com/expertise/industrial-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial, engineering and manufacturing recruiters building workforces for manufacturing’s next transformation.",
+    "url": "https://www.peoplescout.com/expertise/industrial-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Recruiters Forging Your Path to the Future",
+    "url": "https://www.peoplescout.com/expertise/industrial-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial and manufacturing companies are facing big opportunities and challenges—from digital transformation and implementing new technologies, to capitalizing on emerging markets. Recruiting top talent to support these initiatives has never been more crucial or more complex.",
+    "url": "https://www.peoplescout.com/expertise/industrial-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "In a world demanding higher quality, lower costs and faster operations, the industrial workforce must embrace innovation through automation, AI and analytics. Yet, a severe shortage of technical skills threatens to disrupt operations. Remote facility locations only compound the difficulty of attracting this vital talent. Younger workers are overlooking manufacturing careers.",
+    "url": "https://www.peoplescout.com/expertise/industrial-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "To outmaneuver these obstacles, you need a talent partner with future-focused solutions. PeopleScout’s experienced manufacturing recruiters will connect you with more skilled professionals—from the top floor to the factory floor. Get ready to accelerate digital transformation and operational excellence with recruitment solutions from PeopleScout.",
+    "url": "https://www.peoplescout.com/expertise/industrial-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "designed to meet niche or short-term needs to full-cycle management of your manufacturing recruitment function.",
+    "url": "https://www.peoplescout.com/expertise/industrial-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "We bring fresh ideas to help manufacturing and industrial organizations find creative solutions to their talent attraction and retention challenges, from talent insights, employer branding and DE&I consulting to talent attraction campaigns.",
+    "url": "https://www.peoplescout.com/expertise/industrial-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial & Manufacturing Recruitment Success Stories",
+    "url": "https://www.peoplescout.com/expertise/industrial-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Delivering tech-powered candidate attraction campaign to increase women in manufacturing",
+    "url": "https://www.peoplescout.com/expertise/industrial-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Global Auto Manufacturer",
+    "url": "https://www.peoplescout.com/expertise/industrial-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Why PeopleScout for Manufacturing Recruitment?",
+    "url": "https://www.peoplescout.com/expertise/industrial-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "As the industrial and manufacturing sectors modernize, your talent needs are evolving too. Our future-focused recruitment solutions help you access in-demand skills for crucial roles like robotics experts, specialist engineers, environmental specialists and more.",
+    "url": "https://www.peoplescout.com/expertise/industrial-manufacturing/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "RouterPlus tests models on a team's own traffic and recommends one. Providers then compete for the workload. We check that the chosen provider can hold the team's real peak, and we keep a second provider ready as a backup. Teams call the model through one API.",
+    "url": "https://www.ycombinator.com/companies/location/india",
+    "pass": 3
+   },
+   {
+    "quote": "Small shop owners earn daily unlike salaried people but when it comes to loan repayment both are asked to pay monthly. For these shop owners it is difficult to calculate how much to save daily so that they will have the required installment amount at the end of the month and also at the time of repayment they have a big hole in their working capital.",
+    "url": "https://www.ycombinator.com/companies/location/india",
+    "pass": 3
+   },
+   {
+    "quote": "SuperAPI is a programmable API gateway that makes all your fetch APIs cacheable, reducing the response time 10x.",
+    "url": "https://www.ycombinator.com/companies/location/india",
+    "pass": 3
+   },
+   {
+    "quote": "Our customers use SuperAPI to cache their critical APIs without spending 6-9 months rewriting their code.",
+    "url": "https://www.ycombinator.com/companies/location/india",
+    "pass": 3
+   },
+   {
+    "quote": "CompUp is an API-driven compensation benchmarking tool. We integrate with your existing HR/payroll systems, removing the need for manual data entry, and also getting updated in real-time.",
+    "url": "https://www.ycombinator.com/companies/location/india",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial and manufacturing companies are facing big opportunities and challenges—from digital transformation and implementing new technologies, to capitalizing on emerging markets. Recruiting top talent to support these initiatives has never been more crucial or more complex.",
+    "url": "https://www.peoplescout.com/expertise/industrial-manufacturing/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "Until now, finding the right policy for any product and pricing it at the right price wasn’t possible at scale. We automated this process using LLM and have unlocked a $50B+ opportunity. Each month, over 5 million consumers view SureBright warranty offers.",
+    "url": "https://www.ycombinator.com/companies/location/india",
+    "pass": 3
+   },
+   {
+    "quote": "Yenmo offers a better way to access cash for India’s 65 million investors who either resort to personal loans at over 18% interest or have to liquidate their investments when in need of money. With Yenmo, they can pledge their investments digitally and instantly get a loan starting at 9.89%. No annual fee, no foreclosure charge.",
+    "url": "https://www.ycombinator.com/companies/location/india",
+    "pass": 3
+   }
+  ],
+  "売上・規模": [
+   {
+    "quote": "Our largest customer runs 3 million agent conversations a day on RouterPlus.",
+    "url": "https://www.ycombinator.com/companies/location/india",
+    "pass": 3
+   },
+   {
+    "quote": "SureBright lets e-commerce merchants embed \"Apple Care” like product warranties into their checkout flows in less than 10 minutes. Our AI-powered warranty platform generates incremental revenue and boosts customer loyalty at zero cost to the merchant.",
+    "url": "https://www.ycombinator.com/companies/location/india",
+    "pass": 3
+   },
+   {
+    "quote": "Sanket led engineering at PolicyBazar, an insurance tech company that IPOed and is valued at over $8B. Manish worked at Amazon and has built $100M ARR products, handling over 180B requests per day.",
+    "url": "https://www.ycombinator.com/companies/location/india",
+    "pass": 3
+   },
+   {
+    "quote": "Until now, finding the right policy for any product and pricing it at the right price wasn’t possible at scale. We automated this process using LLM and have unlocked a $50B+ opportunity. Each month, over 5 million consumers view SureBright warranty offers.",
+    "url": "https://www.ycombinator.com/companies/location/india",
+    "pass": 3
+   },
+   {
+    "quote": "Yenmo offers a better way to access cash for India’s 65 million investors who either resort to personal loans at over 18% interest or have to liquidate their investments when in need of money. With Yenmo, they can pledge their investments digitally and instantly get a loan starting at 9.89%. No annual fee, no foreclosure charge.",
+    "url": "https://www.ycombinator.com/companies/location/india",
+    "pass": 3
+   },
+   {
+    "quote": "Infinity is a banking and payments platform for cross-border businesses in India. We help our customers make cross-border payments that are 70% cheaper than traditional methods and earn income on idle cash by investing in government securities.",
+    "url": "https://www.ycombinator.com/companies/location/india",
+    "pass": 3
+   },
+   {
+    "quote": "Our customers use SuperAPI to cache their critical APIs without spending 6-9 months rewriting their code.",
+    "url": "https://www.ycombinator.com/companies/location/india",
+    "pass": 3
+   },
+   {
+    "quote": "2.⁠ ⁠⁠Are able to scale to 8 figure revenues with just a single AE.",
+    "url": "https://www.ycombinator.com/companies/location/india",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.ycombinator.com/companies/industry/recruiting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/careers?job_id=85918",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/y-combinator_contrario-yc-w25-is-building-the-world-activity-7301775764977266688-T_Rq",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reddit.com/r/singularity/comments/1ixvqyc/from_a_nowdeleted_tweet_from_ycombinator_a/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.workatastartup.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/industry/human-resources",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wellfound.com/job-collections/yc-startups-that-are-aggressively-hiring",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/atomic-industries/jobs/pbkQwrq-manufacturing-engineer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/location/india/hiring",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/industry/recruiting/san-francisco-bay-area",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/location/india",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/industry/education",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/industry/saas/india",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hirevue.com/solutions/industrial-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://scholarworks.waldenu.edu/cgi/viewcontent.cgi?article=7932&context=dissertations",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tracker-rms.com/blog/ai-recruiting-for-manufacturing-sector/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.netsuite.com/portal/resource/articles/human-resources/manufacturing-recruiting.shtml",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.peoplescout.com/expertise/industrial-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/news/factoryfix-recruiting-platform-manufacturers-hire-174500143.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/indianstartuptimes_hirebound-startupfunding-airecruitment-activity-7431959939465568256-GyPv",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.staffingindustry.com/news/global-daily-news/belgian-recruitment-ai-startup-spott-raises-21m-to-expand-ai-capabilities",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://latamlist.com/recruitment-platform-torre-raises-10m-seed-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dealroom.co/lists/recruitment-startups-europe/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hiringthing.com/white-label-ats/discovery/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.remofirst.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.deel.com/blog/introducing-deel-white-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://keldairhr.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://remotepeople.com/about/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/en/hrportal/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jacgroup.com/en/locations/japan.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.careercross.com/en",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jobsinjapan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.manatal.com/blog/job-posting-sites-japan",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "international recruitment platform for manufacturing workers Y Combinator",
+   "results": [
+    "https://www.ycombinator.com/companies/industry/recruiting",
+    "https://www.ycombinator.com/careers?job_id=85918",
+    "https://www.ycombinator.com/careers",
+    "https://www.linkedin.com/posts/y-combinator_contrario-yc-w25-is-building-the-world-activity-7301775764977266688-T_Rq",
+    "https://www.reddit.com/r/singularity/comments/1ixvqyc/from_a_nowdeleted_tweet_from_ycombinator_a/",
+    "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "https://www.workatastartup.com/companies/crew",
+    "https://www.ycombinator.com/companies/industry/human-resources",
+    "https://www.ziprecruiter.com/Jobs/Y-Combinator",
+    "https://www.ycombinator.com/jobs/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "international recruitment platform for manufacturing workers YC startup",
+   "results": [
+    "https://www.ycombinator.com/companies/industry/recruiting",
+    "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "https://www.workatastartup.com/",
+    "https://www.ycombinator.com/companies/industry/human-resources",
+    "https://www.reddit.com/r/singularity/comments/1ixvqyc/from_a_nowdeleted_tweet_from_ycombinator_a/",
+    "https://www.linkedin.com/posts/y-combinator_contrario-yc-w25-is-building-the-world-activity-7301775764977266688-T_Rq",
+    "https://wellfound.com/job-collections/yc-startups-that-are-aggressively-hiring",
+    "https://www.ycombinator.com/companies/atomic-industries/jobs/pbkQwrq-manufacturing-engineer",
+    "https://ycinsight.com/yc-jobs",
+    "https://www.remofirst.com/post/best-global-hiring-platforms-for-startup-talent"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:ycombinator.com/companies international recruitment platform for manufacturing workers",
+   "results": [
+    "https://www.ycombinator.com/companies/industry/recruiting",
+    "https://www.ycombinator.com/companies/location/india/hiring",
+    "https://www.ycombinator.com/companies/industry/human-resources",
+    "https://www.ycombinator.com/companies/industry/recruiting/san-francisco-bay-area",
+    "https://www.ycombinator.com/companies/location/india",
+    "https://www.ycombinator.com/companies/industry/education",
+    "https://www.ycombinator.com/companies/industry/saas/india",
+    "https://www.ycombinator.com/companies/industry/ai/india",
+    "https://www.ycombinator.com/companies/industry/saas/san-francisco-bay-area/hiring",
+    "https://www.ycombinator.com/companies/industry/education/india"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "international recruitment platform for manufacturing workers manufacturing customers case study",
+   "results": [
+    "https://www.hirevue.com/solutions/industrial-manufacturing",
+    "https://scholarworks.waldenu.edu/cgi/viewcontent.cgi?article=7932&context=dissertations",
+    "https://www.tracker-rms.com/blog/ai-recruiting-for-manufacturing-sector/",
+    "https://www.netsuite.com/portal/resource/articles/human-resources/manufacturing-recruiting.shtml",
+    "https://www.peoplescout.com/expertise/industrial-manufacturing/",
+    "https://business.linkedin.com/hire/customer-stories",
+    "https://www.pin.com/blog/recruiting-manufacturing-engineers/",
+    "https://www.phenom.com/blog/manufacturing-recruitment-strategies",
+    "https://www.michaelpage.com/case-studies",
+    "https://www.randstadenterprise.com/insights/randstad-enterprise-insights/rpo-case-study-manufacturing-company-achieves-scalability-enables-hr-to-focus-on-key-priorities-2/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "international recruitment platform for manufacturing workers startup raises funding",
+   "results": [
+    "https://finance.yahoo.com/news/factoryfix-recruiting-platform-manufacturers-hire-174500143.html",
+    "https://www.linkedin.com/posts/indianstartuptimes_hirebound-startupfunding-airecruitment-activity-7431959939465568256-GyPv",
+    "https://www.staffingindustry.com/news/global-daily-news/belgian-recruitment-ai-startup-spott-raises-21m-to-expand-ai-capabilities",
+    "https://www.ycombinator.com/companies/industry/recruiting-and-talent",
+    "https://latamlist.com/recruitment-platform-torre-raises-10m-seed-funding/",
+    "https://dealroom.co/lists/recruitment-startups-europe/",
+    "https://www.youtube.com/watch?v=vtdPX5alH2o",
+    "https://joinraised.com/",
+    "https://wellfound.com/",
+    "https://scoopearth.com/ai-recruitment-startup-hirebound-raises-2-million-seed-round-led-by-kalaari-capital/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "international recruitment platform for manufacturing workers white label OR reseller OR partner program",
+   "results": [
+    "https://www.hiringthing.com/white-label-ats/discovery/",
+    "https://www.remofirst.com/reseller",
+    "https://www.deel.com/blog/introducing-deel-white-label/",
+    "https://keldairhr.com/partners/",
+    "https://remotepeople.com/about/partner-program/",
+    "https://www.suffescom.com/whitelabel/readymade-recruitment-software",
+    "https://www.sap.com/products/hcm/recruiting-software.html",
+    "https://www.globalization-partners.com/",
+    "https://www.aerotek.com/",
+    "https://www.mycompanyworks.com/reseller"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "international recruitment platform for manufacturing workers Japan",
+   "results": [
+    "https://www.jetro.go.jp/en/hrportal/company/",
+    "https://www.jacgroup.com/en/locations/japan.html",
+    "https://www.careercross.com/en",
+    "https://jobsinjapan.com/",
+    "https://www.manatal.com/blog/job-posting-sites-japan",
+    "https://ayk.global/blog/factory-and-manufacturing-jobs-in-japan-a-guide-for-foreign-applicants",
+    "https://jobs.guidable.co/en",
+    "https://www.workjapan.jp/jobs/?industry=Factory",
+    "https://www.robertwalters.co.jp/en/",
+    "https://staffingjapan.com/en/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 製造業の外国人材の採用",
+   "results": [
+    "https://note.com/asean_pntc/n/n604e3186a97b",
+    "https://note.com/asean_pntc/n/n475ea44ce0db",
+    "https://note.com/asean_pntc/n/ne0cd846350d5",
+    "https://note.com/seizou_chiba/n/n4ad2bc2c958a",
+    "https://note.com/asean_pntc/n/nb3f960dcd854",
+    "https://note.com/asean_pntc/n/nfb8d9a59b684",
+    "https://note.com/asialink/n/nc8f14074bec4",
+    "https://note.com/bizicom_hr/n/n0862ba471e78",
+    "https://note.com/_hitokiwa/n/n9ed819044610",
+    "https://note.com/asean_pntc/n/n967baa3ef5b6"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com 製造業の外国人材の採用",
+   "results": [
+    "https://x.com/FactorylabJP",
+    "https://x.com/YOLOJAPANco",
+    "https://x.com/suzuki_asia/status/2112145173274821064",
+    "https://x.com/jinzaibase",
+    "https://x.com/gairoucom",
+    "https://x.com/axissolution_jp",
+    "https://x.com/suzuki_asia/status/2109917330839085182",
+    "https://x.com/take_wagatsuma/status/2113066953837600805",
+    "https://x.com/worldcheers1",
+    "https://x.com/suzuki_asia/status/2112146829299302722"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com 製造業の外国人材の採用",
+   "results": [
+    "https://jp.linkedin.com/pulse/%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E8%BE%B2%E6%A5%AD%E3%81%8B%E3%82%89%E9%A3%B2%E9%A3%9F%E6%96%99%E5%93%81%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%B8%E3%81%AE%E8%BB%A2%E8%81%B7%E5%89%8D%E3%81%AB%E7%89%B9%E5%AE%9A%E6%B4%BB%E5%8B%956%E3%82%AB%E6%9C%88%E3%81%8C%E8%A8%B1%E5%8F%AF-%E5%B0%8B%E5%BF%97-%E6%B2%B3%E9%87%8E-jnocc",
+    "https://jp.linkedin.com/in/junji-suzuki",
+    "https://jp.linkedin.com/posts/junji-suzuki_%E9%80%9F%E5%A0%B1-%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AE%E6%A5%AD%E7%A8%AE%E3%81%A7%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%E3%81%8C%E5%83%8D%E3%81%8F%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E3%81%AE%E5%AF%BE%E8%B1%A1%E3%82%92%E3%82%81%E3%81%90%E3%82%8A%E9%96%A2%E4%BF%82%E7%9C%81%E5%BA%81%E3%81%8C%E8%87%AA%E5%8B%95%E8%BB%8A%E9%81%8B%E9%80%81%E6%A5%AD-activity-7157167992546488320-vGUe",
+    "https://www.linkedin.com/company/ystalent",
+    "https://jp.linkedin.com/company/%E3%83%AA%E3%83%95%E3%83%88%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E6%9D%B1%E4%BA%AC%EF%BC%8F%E5%9C%A8%E5%AE%85%E5%8B%A4%E5%8B%99%E5%8F%AF%E3%80%91%E6%8E%A1%E7%94%A8%E4%BA%BA%E4%BA%8B%EF%BC%8F%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E4%B8%8A%E5%A0%B4%E3%83%BB%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B9%E5%AE%B6%E5%85%B7%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%EF%BC%8F%E3%83%95%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9%E5%88%B6%E3%83%BB%E5%B9%B4%E4%BC%91126%E6%97%A5-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4488016103",
+    "https://sg.linkedin.com/company/jaefn?trk=public_profile_experience-item_profile-section-card_image-click",
+    "https://jp.linkedin.com/in/%E6%B5%B7%E6%A8%B9-%E5%AE%AE%E5%B6%8B-09730a413",
+    "https://www.linkedin.com/company/job-coach%E5%90%88%E5%90%8C%E4%BC%9A%E7%A4%BE",
+    "https://jp.linkedin.com/in/%E8%81%A1-%E5%89%8D%E5%B7%9D-8a5aa6bb"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:facebook.com 製造業の外国人材の採用",
+   "results": [
+    "https://www.facebook.com/matsuo.akihito/posts/%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%8F%97%E3%81%91%E5%85%A5%E3%82%8C%E4%B8%8A%E9%99%90%E8%BF%AB%E3%82%8B%E5%A4%96%E9%A3%9F95%E9%A3%9F%E5%93%81%E8%A3%BD%E9%80%A072-%E4%BC%81%E6%A5%AD%E3%81%AE%E6%8E%A1%E7%94%A8%E8%A8%88%E7%94%BB%E3%81%AB%E5%BD%B1%E9%9F%BF8%E6%9C%882%E6%97%A5%E4%BB%8A%E6%97%A5%E3%81%AE%E6%97%A5%E7%B5%8C%E6%96%B0%E8%81%9E%E3%82%92%E8%AA%AD%E3%82%93%E3%81%A7%E8%80%83%E3%81%88%E3%81%95%E3%81%9B%E3%82%89%E3%82%8C%E3%81%9F%E8%A8%98%E4%BA%8B%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E3%83%86%E3%83%BC%E3%83%9E%E3%81%AF%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%8A%B4%E5%83%8D%E8%80%85%E3%81%AE%E5%8F%97%E3%81%91%E5%85%A5%E3%82%8C%E3%81%A7%E3%81%99%E8%A8%98/27877846598502176/",
+    "https://www.facebook.com/careerlinkfactory.jp/posts/%E6%AF%8E%E9%80%B1%E6%9B%B4%E6%96%B0qa%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E5%A4%96%E5%9B%BD%E4%BA%BA%E3%81%AE%E6%B4%BB%E7%94%A8%E3%82%92%E3%81%94%E6%A4%9C%E8%A8%8E%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E4%BC%81%E6%A5%AD%E6%A7%98%E6%97%A2%E3%81%AB%E3%81%94%E6%B4%BB%E7%94%A8%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E4%BC%81%E6%A5%AD%E6%A7%98%E3%81%B8%E4%BB%8A%E5%9B%9E%E3%81%AE%E6%8A%95%E7%A8%BF%E3%81%A7%E3%81%AF%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E5%A4%96%E5%9B%BD%E4%BA%BA%E3%82%92%E6%8E%A1%E7%94%A8%E3%81%99%E3%82%8B%E4%B8%8A%E3%81%A7%E5%BF%85%E8%A6%81%E3%81%AA%E6%83%85%E5%A0%B1%E3%81%A7%E3%81%82%E3%82%8B%E7%8F%BE%E7%8A%B6%E3%81%AE%E7%89%B9%E5%AE%9A/122195453360905084/",
+    "https://www.facebook.com/61559824387663/posts/%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%8E%A1%E7%94%A8%E6%B1%82%E4%BA%BA%E6%9D%A1%E4%BB%B6%E5%8D%81%E5%88%86%E3%81%AB%E6%95%B4%E7%90%86%E3%81%A7%E3%81%8D%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%8B%E6%B5%B7%E5%A4%96%E3%81%8B%E3%82%89%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E5%A4%96%E5%9B%BD%E4%BA%BA%E3%82%92%E6%8E%A1%E7%94%A8%E3%81%99%E3%82%8B%E5%A0%B4%E5%90%88%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%86%85%E3%81%A7%E3%81%AE%E6%8E%A1%E7%94%A8%E6%B4%BB%E5%8B%95%E3%81%A8%E5%90%8C%E6%A7%98%E3%81%AB%E6%B1%82%E4%BA%BA%E6%9D%A1%E4%BB%B6%E3%82%92%E6%98%8E%E7%A2%BA%E3%81%AB%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E9%87%8D%E8%A6%81%E3%81%A7%E3%81%99%E7%89%B9%E3%81%AB%E6%B5%B7%E5%A4%96%E3%81%A7%E5%80%99%E8%A3%9C%E8%80%85%E3%82%92%E5%8B%9F/122228988008327479/",
+    "https://www.facebook.com/suzuki.masaaki.jimusho/posts/%E4%BB%8A%E6%97%A5%E3%81%AE%E3%83%86%E3%83%BC%E3%83%9E%E3%81%AF%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%8C%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E5%A4%96%E5%9B%BD%E4%BA%BA%E3%82%92%E9%9B%87%E7%94%A8%E3%81%A7%E3%81%8D%E3%82%8B%E3%81%8B-%E3%81%A8%E3%81%84%E3%81%86%E3%83%86%E3%83%BC%E3%83%9E%E3%81%A7%E8%A7%A3%E8%AA%AC%E3%81%97%E3%81%BE%E3%81%99-%E9%9D%99%E5%B2%A1%E7%9C%8C%E8%A5%BF%E9%83%A8%E5%9C%B0%E5%9F%9F%E3%81%AF%E8%87%AA%E5%8B%95%E8%BB%8A%E3%81%AE%E5%AE%8C%E6%88%90%E5%93%81%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%A7%E3%81%82%E3%82%8B%E3%83%9B%E3%83%B3%E3%83%80%E3%82%84%E3%82%B9%E3%82%BA%E3%82%AD%E3%81%AE%E5%B7%A5%E5%A0%B4%E3%81%8C%E3%81%82%E3%82%8B/4387923521314196/",
+    "https://www.facebook.com/groups/906053053932154/",
+    "https://www.facebook.com/groups/906053053932154/posts/1612066659997453/",
+    "https://www.facebook.com/shigagaisapo/posts/%E6%BB%8B%E8%B3%80%E7%9C%8C%E5%86%85%E8%A3%BD%E9%80%A0%E6%A5%AD%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%E9%9B%87%E7%94%A8%E4%BA%8B%E4%BE%8B%E3%81%AE%E3%81%94%E7%B4%B9%E4%BB%8B%E6%BB%8B%E8%B3%80%E7%9C%8C%E5%86%85%E3%81%A7%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%E9%9B%87%E7%94%A8%E3%81%AB%E5%8F%96%E3%82%8A%E7%B5%84%E3%82%93%E3%81%A7%E3%81%84%E3%82%8B%E4%BC%81%E6%A5%AD%E6%A7%98%E3%82%92%E7%B4%B9%E4%BB%8B%E3%81%99%E3%82%8B%E6%9C%AC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E7%AC%AC9%E5%9B%9E%E3%81%AF%E6%B5%B7%E5%A4%96%E5%B7%A5%E5%A0%B4%E3%81%A8%E3%81%AE%E6%A9%8B%E6%B8%A1%E3%81%97%E3%82%92%E3%81%99%E3%82%8B%E4%BA%BA%E6%9D%90%E8%82%B2%E6%88%90%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%E9%9B%87/614357387994304/",
+    "https://www.facebook.com/groups/892610427800058/",
+    "https://www.facebook.com/groups/239023300170837/",
+    "https://www.facebook.com/groups/jobmate/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "製造業の外国人材の採用 note 社長",
+   "results": [
+    "https://note.com/asean_pntc/n/n967baa3ef5b6",
+    "https://note.com/humanbridge/n/nd2cebeecab1a",
+    "https://note.com/asean_pntc/n/n475ea44ce0db",
+    "https://note.com/ecit/n/n625f78632345",
+    "https://note.com/asean_pntc/n/ne0cd846350d5",
+    "https://hrnote.jp/contents/foreigner_interview_makino/",
+    "https://www.update-up.com/update-hr/column/seizo-gaikokujin",
+    "https://www.fmsnet.co.jp/global-resource/resources/column/industry-guide/seizougyou-gaikokujin-saiyou/",
+    "https://note.com/asean_pntc/n/n604e3186a97b",
+    "https://note.com/globaljinjibu803/n/nd30a7990523c"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "製造業の外国人材の採用 X 投稿",
+   "results": [
+    "https://www.update-up.com/update-hr/column/seizo-gaikokujin",
+    "https://www.youtube.com/watch?v=I8pa3ZUzvDo",
+    "https://www.fmsnet.co.jp/global-resource/resources/column/industry-guide/seizougyou-gaikokujin-saiyou/",
+    "https://www.facebook.com/groups/514409493621323/posts/1727682792293981/",
+    "https://www.nikkei.com/article/DGKKZO97923480S6A800C2EA2000/",
+    "https://www.jinzaiplus.jp/tags/manufacturing",
+    "https://videntry.net/foreigner_recruit/",
+    "https://www.cstm-careersupport.com/for-companies/guide/social-media-foreign-recruiting/",
+    "https://x.com/gairoucom",
+    "https://x.com/suzuki_asia/status/2119572208721052142"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "international recruitment platform for manufacturing workers site:linkedin.com",
+   "results": [
+    "https://uk.linkedin.com/company/per-recruitment",
+    "https://www.linkedin.com/company/internationalrecruiting",
+    "https://www.linkedin.com/jobs",
+    "https://www.linkedin.com/company/axion-recruitment",
+    "https://news.linkedin.com/2026/2026-Davos-Press-Release",
+    "https://www.linkedin.com/company/international-recruiters",
+    "https://www.linkedin.com/company/career-search-international",
+    "https://www.linkedin.com/company/proactive-global",
+    "https://business.linkedin.com/hire/resources",
+    "https://www.linkedin.com/company/global-recruitmentsolutions"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "日本での展開": "記載なし（読んだ35頁・検索14回）"
+ }
+}

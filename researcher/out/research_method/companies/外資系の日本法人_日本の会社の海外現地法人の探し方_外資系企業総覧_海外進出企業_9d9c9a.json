@@ -8,63 +8,58 @@
  ],
  "context": "会社",
  "kind": "market",
- "researched_at": "2026-11-09T00:40:37.056664+00:00",
+ "researched_at": "2026-11-09T12:01:34.123035+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/cytaro0615/n/nbb3d141c9c6e",
+    "url": "https://note.com/haihaihaii/n/n2d3d251b0f43",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/aizenimmigration/n/n2c5cc9178b81",
+    "url": "https://note.com/fine_serval882/n/n6831a7784b6d",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/glad_coot6700/n/nf21248716f04",
+    "url": "https://note.com/jinjinjinji/n/nad5a1a6c94cf",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/naganasu25/n/nf21e39a76924",
+    "url": "https://note.com/taro_milk/n/ne2bba872ae55",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/sagawalawfirm/n/n50f94d564671",
+    "url": "https://note.com/mattari_gaishi/n/n7a72fc142b7d",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/tenshoku_compass/n/ne4f8ef9378af",
+    "url": "https://note.com/overseas_jobs/n/n0cc919fd33f2",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://kakutax.com/foreign-company-japan-entry-guide-corporation-branch-office-comparison/",
+    "url": "https://note.com/questpm/n/nce61ff9c5b3e",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.jetro.go.jp/invest/setting_up/section1/page1.html",
+    "url": "https://note.com/puzzle_ring/n/n396af88332e8",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.ishibashi-legal.com/f_corp/",
+    "url": "https://note.com/yaxsynpartners/n/na2b3570e0d62",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://calico-legal.com/expansion-into-japan/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://shimax-legal.com/service/gaishikeikigyounonihonsinsyutu/",
+    "url": "https://note.com/prent/n/n9f12e1f01741",
     "status": "ok",
     "method": "http"
    },
@@ -74,47 +69,97 @@
     "method": "http"
    },
    {
-    "url": "https://www.jetro.go.jp/invest/setting_up/guide.html",
+    "url": "https://probitas.jp/kaishasetsuritsu/incorporation/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://ventureinq.jp/japanentrytype/",
+    "url": "https://royalri.jp/immigration/company/outsoursing/japancorporation-establishment/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://base-one.jp/%E5%A4%96%E8%B3%87%E7%B3%BB%E4%BC%81%E6%A5%AD%E3%81%AE%E6%97%A5%E6%9C%AC%E9%80%B2%E5%87%BA-%E6%8B%A0%E7%82%B9%E8%A8%AD%E7%AB%8B%E3%81%8B%E3%82%89%E4%BA%8B%E6%A5%AD%E9%96%8B%E5%A7%8B%E3%81%BE%E3%81%A7/",
+    "url": "https://kokusaibiz.org/column/overseas-local-company-establishment-cost/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://easynihon.com/blog/japan-company-search-meti-gbizinfo-guide-2026",
+    "url": "https://telecom.nikkei.co.jp/blog/3046/?from=login_title",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://en.datalab.toyokeizai.net/Datalist/Foreign-affiliatedCompanies",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://waseda-jp.libguides.com/research-navi/find_kigyo/en",
+    "url": "https://www.jetro.go.jp/invest/setting_up/section1/page1.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.meti.go.jp/english/statistics/tyo/kaigaizi/index.html",
+    "url": "https://job.us.leveragescareer.com/ja/contents/article/479/",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://www.enworld.com/candidates/career-advices/useful-column/feature/what-is-gaishikei.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onecareer.jp/articles/652",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jac-recruitment.jp/market/multi-national-company/foreign-affiliated-company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shinka-tax.or.jp/foreignfirm.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robertwalters.co.jp/jobs.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://kakutax.com/foreign-company-japan-entry-guide-corporation-branch-office-comparison/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shimax-legal.com/service/gaishikeikigyounonihonsinsyutu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://guides.loc.gov/international-business/company-information",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://guides.nccjapan.org/c.php?g=355422&p=2400266",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://libguides.rutgers.edu/c.php?g=336530&p=2266041",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/en/invest/setting_up/directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eu-japan.eu/sites/default/files/publications/docs/johogen.pdf",
+    "status": "ok",
+    "method": "pdf"
    },
    {
     "url": "https://biz.toyokeizai.net/en/data/service/detail/id=860",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.jetro.go.jp/en/news/releases/2026/4e5eb959d969f9fd.html",
     "status": "ok",
     "method": "http"
    }
@@ -124,204 +169,252 @@
   {
    "query": "外資系の日本法人・日本の会社の海外現地法人の探し方（外資系企業総覧・海外進出企業総覧・図書館の調べ方案内・A1の②の会社探し・4-108） site:note.com",
    "results": [
-    "https://note.com/cytaro0615/n/nbb3d141c9c6e",
-    "https://note.com/aizenimmigration/n/n2c5cc9178b81",
-    "https://note.com/glad_coot6700/n/nf21248716f04",
-    "https://note.com/naganasu25/n/nf21e39a76924",
-    "https://note.com/sagawalawfirm/n/n50f94d564671",
-    "https://note.com/tenshoku_compass/n/ne4f8ef9378af",
-    "https://note.com/nori_noguchi/n/n306656dcf416"
+    "https://note.com/haihaihaii/n/n2d3d251b0f43",
+    "https://note.com/fine_serval882/n/n6831a7784b6d",
+    "https://note.com/jinjinjinji/n/nad5a1a6c94cf",
+    "https://note.com/taro_milk/n/ne2bba872ae55",
+    "https://note.com/mattari_gaishi/n/n7a72fc142b7d",
+    "https://note.com/overseas_jobs/n/n0cc919fd33f2",
+    "https://note.com/kamda_kento/n/n541d14585161",
+    "https://note.com/matsucco55/n/nac3778f9947c",
+    "https://note.com/life_in_progress/n/ndde8d5b25dec",
+    "https://note.com/skomeda/n/nb8d752d51ff9"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   },
   {
    "query": "外資系の日本法人・日本の会社の海外現地法人の探し方（外資系企業総覧・海外進出企業総覧・図書館の調べ方案内・A1の②の会社探し・4-108） note",
    "results": [
-    "https://kakutax.com/foreign-company-japan-entry-guide-corporation-branch-office-comparison/",
-    "https://www.jetro.go.jp/invest/setting_up/section1/page1.html",
-    "https://www.ishibashi-legal.com/f_corp/",
-    "https://calico-legal.com/expansion-into-japan/",
-    "https://shimax-legal.com/service/gaishikeikigyounonihonsinsyutu/",
+    "https://note.com/questpm/n/nce61ff9c5b3e",
+    "https://note.com/puzzle_ring/n/n396af88332e8",
+    "https://note.com/yaxsynpartners/n/na2b3570e0d62",
+    "https://note.com/prent/n/n9f12e1f01741",
     "https://shiodome.co.jp/column/7561/",
-    "https://ventureinq.jp/japanentrytype/"
+    "https://probitas.jp/kaishasetsuritsu/incorporation/",
+    "https://note.com/kamda_kento/n/n541d14585161",
+    "https://www.shinka-tax.or.jp/foreignfirm.html",
+    "https://www.jac-recruitment.jp/market/multi-national-company/gaishi-japanese-corporation/",
+    "https://kakutax.com/foreign-company-japan-entry-guide-corporation-branch-office-comparison/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 15
   },
   {
    "query": "外資系の日本法人・日本の会社の海外現地法人の探し方（外資系企業総覧・海外進出企業総覧・図書館の調べ方案内・A1の②の会社探し・4-108） やり方",
    "results": [
+    "https://royalri.jp/immigration/company/outsoursing/japancorporation-establishment/",
+    "https://kokusaibiz.org/column/overseas-local-company-establishment-cost/",
+    "https://telecom.nikkei.co.jp/blog/3046/?from=login_title",
     "https://www.jetro.go.jp/invest/setting_up/section1/page1.html",
-    "https://www.jetro.go.jp/invest/setting_up/guide.html",
-    "https://kakutax.com/foreign-company-japan-entry-guide-corporation-branch-office-comparison/",
-    "https://www.ishibashi-legal.com/f_corp/",
-    "https://shimax-legal.com/service/gaishikeikigyounonihonsinsyutu/",
-    "https://ventureinq.jp/japanentrytype/",
-    "https://shiodome.co.jp/column/7561/"
+    "https://job.us.leveragescareer.com/ja/contents/article/479/",
+    "https://probitas.jp/kaishasetsuritsu/incorporation/",
+    "https://www.enworld.com/candidates/career-advices/useful-column/feature/what-is-gaishikei.html",
+    "https://www.robertwalters.co.jp/jobs.html",
+    "https://www.jac-recruitment.jp/market/global/locally-hired/",
+    "https://shimax-legal.com/service/gaishikeikigyounonihonsinsyutu/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 15
   },
   {
    "query": "外資系の日本法人・日本の会社の海外現地法人の探し方（外資系企業総覧・海外進出企業総覧・図書館の調べ方案内・A1の②の会社探し・4-108） 事例",
    "results": [
+    "https://royalri.jp/immigration/company/outsoursing/japancorporation-establishment/",
+    "https://www.enworld.com/candidates/career-advices/useful-column/feature/what-is-gaishikei.html",
+    "https://www.onecareer.jp/articles/652",
+    "https://www.jac-recruitment.jp/market/multi-national-company/foreign-affiliated-company/",
+    "https://telecom.nikkei.co.jp/blog/3046/?from=login_title",
+    "https://www.shinka-tax.or.jp/foreignfirm.html",
     "https://www.jetro.go.jp/invest/setting_up/section1/page1.html",
-    "https://kakutax.com/foreign-company-japan-entry-guide-corporation-branch-office-comparison/",
-    "https://shimax-legal.com/service/gaishikeikigyounonihonsinsyutu/",
-    "https://ventureinq.jp/japanentrytype/",
-    "https://www.jetro.go.jp/invest/setting_up/guide.html",
-    "https://calico-legal.com/expansion-into-japan/",
-    "https://base-one.jp/外資系企業の日本進出-拠点設立から事業開始まで/"
+    "https://probitas.jp/kaishasetsuritsu/incorporation/",
+    "https://www.robertwalters.co.jp/jobs.html",
+    "https://kakutax.com/foreign-company-japan-entry-guide-corporation-branch-office-comparison/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 15
   },
   {
    "query": "how to find foreign-affiliated companies in Japan and Japanese overseas subsidiaries directory research guide library",
    "results": [
-    "https://easynihon.com/blog/japan-company-search-meti-gbizinfo-guide-2026",
-    "https://en.datalab.toyokeizai.net/Datalist/Foreign-affiliatedCompanies",
-    "https://waseda-jp.libguides.com/research-navi/find_kigyo/en",
-    "https://www.meti.go.jp/english/statistics/tyo/kaigaizi/index.html",
+    "https://guides.loc.gov/international-business/company-information",
+    "https://guides.nccjapan.org/c.php?g=355422&p=2400266",
+    "https://libguides.rutgers.edu/c.php?g=336530&p=2266041",
+    "https://www.jetro.go.jp/en/invest/setting_up/directory/",
+    "https://www.eu-japan.eu/sites/default/files/publications/docs/johogen.pdf",
     "https://biz.toyokeizai.net/en/data/service/detail/id=860",
-    "https://www.jetro.go.jp/en/news/releases/2026/4e5eb959d969f9fd.html",
-    "https://biz.toyokeizai.net/en/data/service/"
+    "https://libguides.wustl.edu/c.php?g=46916&p=469346",
+    "https://www.facebook.com/PareshSolankiOES/videos/how-to-find-buyers-in-japan-the-best-way-and-platform-to-find-buyers-best-b2b-we/1510598109666341/",
+    "https://nyulaw.libguides.com/c.php?g=773850&p=5552111",
+    "https://easynihon.com/blog/japan-company-search-meti-gbizinfo-guide-2026"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 15
   },
   {
    "query": "site:note.com 外資系の日本法人・日本の会社の海外現地法人の探し方（外資系企業総覧・海外進出企業総覧・図書館の調べ方案内・A1の②の会社探し・4-108）",
    "results": [
-    "https://note.com/glad_coot6700/n/nf21248716f04",
-    "https://note.com/cytaro0615/n/nbb3d141c9c6e",
-    "https://note.com/aizenimmigration/n/n2c5cc9178b81",
-    "https://note.com/kurokoworld/n/nfdadd293a350",
-    "https://note.com/sagawalawfirm/n/n50f94d564671",
-    "https://note.com/globalconsult_n/n/nbc21ee681373",
-    "https://note.com/arches_global/n/nfd0916f2813c"
+    "https://note.com/haihaihaii/n/n2d3d251b0f43",
+    "https://note.com/jinjinjinji/n/nad5a1a6c94cf",
+    "https://note.com/fine_serval882/n/n6831a7784b6d",
+    "https://note.com/taro_milk/n/ne2bba872ae55",
+    "https://note.com/mattari_gaishi/n/n7a72fc142b7d",
+    "https://note.com/teritamadozo/n/ne37bcdd04a4f",
+    "https://note.com/overseas_jobs/n/n0cc919fd33f2",
+    "https://note.com/kamda_kento/n/n541d14585161",
+    "https://note.com/skomeda/n/nb8d752d51ff9",
+    "https://note.com/life_in_progress/n/ndde8d5b25dec"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   },
   {
    "query": "site:x.com 外資系の日本法人・日本の会社の海外現地法人の探し方（外資系企業総覧・海外進出企業総覧・図書館の調べ方案内・A1の②の会社探し・4-108）",
    "results": [
-    "https://x.com/ZuoMu21043/status/2111075269041914258",
-    "https://x.com/admire_offisite/status/2108392006888108150",
-    "https://x.com/ZuoMu21043/status/2065583825695203422",
-    "https://x.com/jp_gtm_signals",
-    "https://x.com/ZuoMu21043/status/2116690699873886615",
-    "https://x.com/gaishishukatsu",
-    "https://x.com/TJ_jpn/status/2049341346893463823"
+    "https://x.com/sorisorimachi/status/2113815015270797341",
+    "https://x.com/cpa_bboundaries",
+    "https://x.com/TJ_jpn/article/2089217344665256307",
+    "https://x.com/JPHirePH",
+    "https://x.com/_GJJ",
+    "https://x.com/i/article/2110594857660272678",
+    "https://x.com/agsc_jp",
+    "https://x.com/GlocalJP",
+    "https://x.com/searched_press/article/2114998760732500256?lang=ar-x-fm",
+    "https://x.com/ZuoMu21043"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   },
   {
    "query": "site:linkedin.com 外資系の日本法人・日本の会社の海外現地法人の探し方（外資系企業総覧・海外進出企業総覧・図書館の調べ方案内・A1の②の会社探し・4-108）",
    "results": [
-    "https://www.linkedin.com/pulse/外資に行きたい-紗余-木山",
-    "https://jp.linkedin.com/jobs/view/法人営業（海外に本社がある外資系企業の日本法人担当）-enterprise-sales-at-hp-4181406450",
-    "https://id.linkedin.com/in/小川-由香利-yukari-ogawa-8250691a8/ja",
-    "https://es.linkedin.com/posts/hshimura_エンタープライズ企業から数億円の案件を受注するにはウェットな人間関係の構築が必要-activity-7057708619248664576-ljvh",
-    "https://jp.linkedin.com/jobs/view/【内部監査リーダー】外資系グローバルエンタメ企業｜日本法人のガバナンス強化（～1-200万円）-at-apex-4418248527",
-    "https://www.linkedin.com/posts/mariko-fujita-504b682a_海外現地法人の価値向上と攻めのガバナンス-activity-7399722985885982720-i8U2",
-    "https://de.linkedin.com/in/masumi-nawa-584b72342"
+    "https://jp.linkedin.com/company/leverages-us",
+    "https://jp.linkedin.com/in/w-tseng",
+    "https://jp.linkedin.com/jobs/senior-international-accountant-jobs",
+    "https://jp.linkedin.com/company/pasona-global",
+    "https://jp.linkedin.com/in/ogawa-seiji-44674876",
+    "https://jp.linkedin.com/company/talent-x-buzz-inc",
+    "https://jp.linkedin.com/in/toshiki-oguchi/en",
+    "https://jp.linkedin.com/in/kikuko-nakamura-mba-5276006",
+    "https://jp.linkedin.com/jobs/%E7%B2%BE%E4%BB%BF%E7%99%BD%E9%85%92%E5%8E%82%E5%AE%B6%E7%94%B5%E8%AF%9D-%E7%94%B5%E8%AF%9D15098069745-a%E8%B4%A7%E7%94%9F%E8%82%96%E8%8C%85%E5%8F%B0%E6%B8%A0%E9%81%93-jobs",
+    "https://jp.linkedin.com/jobs/view/senior-marketing-executive-japan-at-mintel-3899602793"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   },
   {
    "query": "site:facebook.com 外資系の日本法人・日本の会社の海外現地法人の探し方（外資系企業総覧・海外進出企業総覧・図書館の調べ方案内・A1の②の会社探し・4-108）",
    "results": [
+    "https://www.facebook.com/groups/167307749723853/posts/1004469602674326/",
+    "https://www.facebook.com/asiabizcom/?locale=hr_HR",
+    "https://www.facebook.com/groups/167307749723853/posts/980615645059722/",
+    "https://www.facebook.com/groups/167307749723853/posts/1000355576419062/",
+    "https://www.facebook.com/PasonaMalaysiaJapanese/",
     "https://www.facebook.com/groups/397776163719342/",
-    "https://www.facebook.com/worthworking/",
-    "https://www.facebook.com/ddszhktk/",
-    "https://www.facebook.com/jicaminren/photos/ご案内海外展開をサポート日本センターをご活用ください-日本人材開発センター日本センターは日本企業の皆様の海外展開を多角的にサポートしており具体的には以下のような/122144150684677891/",
-    "https://www.facebook.com/kyocera.jp/posts/京セラ初の海外現地法人-米国-海外グループ会社紹介-当社グループは国内海外を合わせて260社以上のグループ会社がありますそのひとつであるkyocera-inte/1153438348114163/",
-    "https://www.facebook.com/jetro.info/posts/外資系企業が選ぶ日本のビジネス環境の魅力-top3は-ジェトロは日本で活動する外資系企業を対象に調査を実施事業活動の動向や日本のビジネス環境に対する見方をヒアリ/956014790317619/",
-    "https://www.facebook.com/lapis.tokyo.ne/videos/️-あなたの会社の海外進出何から始めれば良いか悩んでいませんか715水のlapis定例会では法人向け英文事務代行の茂村かおりさんがメインプレゼンターとして登壇海/1323647239420569/"
+    "https://www.facebook.com/EYCareersJapan/posts/ey-japan%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%E7%B4%B9%E4%BB%8B-%E7%AC%AC1%E4%BA%8B%E6%A5%AD%E9%83%A8%E4%BB%8A%E5%9B%9E%E3%81%AFey-japan%E3%81%AE-%E3%82%A2%E3%82%B7%E3%83%A5%E3%82%A2%E3%83%A9%E3%83%B3%E3%82%B9%E3%81%8B%E3%82%89%E7%AC%AC1%E4%BA%8B%E6%A5%AD%E9%83%A8%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95%E3%81%AE%E9%9F%AE%E6%BE%A4%E3%81%AB%E3%82%89%E3%81%95%E3%82%8F%E3%81%95%E3%82%93%E3%81%AB%E3%81%94%E8%87%AA%E8%BA%AB%E3%81%AE%E6%A5%AD%E5%8B%99%E5%86%85%E5%AE%B9%E3%81%A8ey-japan%E3%81%B8%E3%81%AE/2043380652541996/?locale=ja_JP",
+    "https://www.facebook.com/groups/167307749723853/posts/1000505743070712/",
+    "https://www.facebook.com/groups/344778726038784/posts/2646408215875812/",
+    "https://www.facebook.com/groups/265648582612071/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "外資系の日本法人・日本の会社の海外現地法人の探し方（外資系企業総覧・海外進出企業総覧・図書館の調べ方案内・A1の②の会社探し・4-108） note 社長",
    "results": [
-    "https://gb-foundnavi.co.jp/column/overseas-corporation/",
-    "https://ventureinq.jp/japanentrytype/",
-    "https://kakutax.com/foreign-company-japan-entry-guide-corporation-branch-office-comparison/",
-    "https://shimax-legal.com/service/gaishikeikigyounonihonsinsyutu/",
-    "https://www.jetro.go.jp/invest/setting_up/section1/page1.html",
-    "https://www.ishibashi-legal.com/f_corp/",
-    "https://base-one.jp/外資系企業の日本進出-拠点設立から事業開始まで/"
+    "https://note.com/stratconsulting/n/n969d04de35f7",
+    "https://note.com/questpm/n/nce61ff9c5b3e",
+    "https://note.com/tasktask/n/n13450aaab9f0",
+    "https://royalri.jp/immigration/company/outsoursing/japancorporation-establishment/",
+    "https://shiodome.co.jp/column/7561/",
+    "https://probitas.jp/kaishasetsuritsu/incorporation/",
+    "https://note.com/puzzle_ring/n/n396af88332e8",
+    "https://www.youtube.com/watch?v=d-Cnt0keORU",
+    "https://www.jac-recruitment.jp/market/multi-national-company/gaishi-japanese-corporation/",
+    "https://gb-foundnavi.co.jp/column/overseas-corporation/"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "外資系の日本法人・日本の会社の海外現地法人の探し方（外資系企業総覧・海外進出企業総覧・図書館の調べ方案内・A1の②の会社探し・4-108） X 投稿",
    "results": [
-    "https://www.jetro.go.jp/invest/setting_up/section1/page1.html",
-    "https://kakutax.com/foreign-company-japan-entry-guide-corporation-branch-office-comparison/",
-    "https://shimax-legal.com/service/gaishikeikigyounonihonsinsyutu/",
-    "https://ventureinq.jp/japanentrytype/",
-    "https://shiodome.co.jp/column/7561/",
-    "https://www.jetro.go.jp/invest/setting_up/guide.html",
-    "https://www.ishibashi-legal.com/f_corp/"
+    "https://www.robertwalters.co.jp/jobs.html",
+    "https://royalri.jp/immigration/company/outsoursing/japancorporation-establishment/",
+    "https://www.careercross.com/",
+    "https://jobs.enworld.com/s/?language=ja",
+    "https://www.daijob.com/",
+    "https://www.jac-recruitment.jp/market/multi-national-company/gaishi-japanese-corporation/",
+    "https://www.onecareer.jp/articles/652",
+    "https://next.gaishishukatsu.com/columns/536",
+    "https://www.mofa.go.jp/mofaj/ecm/ec/page22_003410.html",
+    "https://www.jetro.go.jp/invest/setting_up/section1/page1.html"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "how to find foreign-affiliated companies in Japan and Japanese overseas subsidiaries directory research guide library site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/pulse/reality-foreign-affiliated-companies-japan-based-2019-keita-toge-ns0tc",
-    "https://jp.linkedin.com/directory/companies/",
-    "https://www.linkedin.com/posts/jetro-collaborate-and-invest-japan_results-of-fy-2024-survey-on-business-activity-7310586320915939328--Oiq",
-    "https://jp.linkedin.com/company/overseas-operations-division-kajima-corporation",
-    "https://www.linkedin.com/posts/jetro-collaborate-and-invest-japan_jetro-collaboration-internationaltrade-activity-7360928049833406466-LELs",
-    "https://www.linkedin.com/pulse/how-japanese-companies-can-get-found-overseas-buyers-partners-susumu-kz3of",
-    "https://www.linkedin.com/posts/toyo-keizai-data-services_overseasjapanesecompaniesdata-toyokeizai-activity-7404520306473721857-ASzo"
+    "https://www.linkedin.com/in/breeding",
+    "https://www.linkedin.com/directory/companies/f",
+    "https://www.linkedin.com/company/northern-trust",
+    "https://www.linkedin.com/in/wmessner",
+    "https://www.linkedin.com/directory/companies/t",
+    "https://www.linkedin.com/in/dan-trajman-50255",
+    "https://www.linkedin.com/in/jasminerezai",
+    "https://ie.linkedin.com/company/kerry",
+    "https://www.linkedin.com/in/margaretfero",
+    "https://www.linkedin.com/legal/privacy-policy"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ21頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ21頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ21頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ21頁・検索12回）",
-  "実例": "記載なし（読んだ21頁・検索12回）"
+  "手順・やり方": "記載なし（読んだ30頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）",
+  "実例": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 2,
+ "runs": 3,
  "first_researched_at": "2026-11-08T16:57:22.453308+00:00"
 }
