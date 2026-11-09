@@ -3483,6 +3483,54 @@ def scan(topic):
                *(f"  - {k[:35]}：{len(v)}都道府県" for k, v in list(_pc.items())[:3] if len(v) < 47),
                ""]
     except Exception: pass
+    # 2026-11-09 4-122（統計センター 野呂・和田「統計実務におけるレンジチェックのための外れ値検出方法」統計研究彙報72号：
+    # 調査データは正規分布に従わず平均±2〜3SDのレンジは検出漏れを起こす。右に裾の長い値は対称化（対数）してから中央値と四分位範囲でレンジを置く。外れ値は誤りとは限らない。
+    # sgbms1/ja-news-skills「data-hodo」：分子と分母の年をそろえる・最新が取れるのに古い年を使うのは重大な失敗・載せる数字は独立に計算し直して突き合わせる。
+    # UN「International Recommendations for the Index of Industrial Production」：受託・手数料での加工は生産の扱いが特別で、名目から数量へは対応する物価で割る）
+    # ①正の値5件以上の欄で、対数にしてから中央値・IQR（IQR/1.349を尺度）で|z|≥3.5の外れ値。生の値のMADでは出ず対数でだけ出る欄＝裾の歪みで隠れた外れ値
+    # ②「あたり」の品目で、引用に2つ以上の違う年が出る行＝分子と分母の年ずれの疑い
+    # ③品目ごとの最新の年が NOW_YEAR-5 以前＝古いデータのまま（新しい版を探す）
+    # ④受託・賃加工・加工賃を名指す品目で、引用が製造品出荷額だけで加工賃に触れない行＝範囲違い（受託は加工賃で測る）
+    # ⑤金額の10年の比較を名指す品目で、実質・物価・デフレーターの語が引用に無い行＝名目のまま（4-37）
+    try:
+        import math as _m, statistics as _st2
+        _logo = []
+        for k, lst in (_grp.items() if '_grp' in dir() else []):
+            xs = [v for v, _ in lst if v > 0]
+            if len(xs) < 5 or len(xs) != len(lst): continue
+            lx = sorted(_m.log(x) for x in xs); q = _st2.quantiles(lx, n=4); s = (q[2] - q[0]) / 1.349
+            if s <= 0: continue
+            med = _st2.median(lx)
+            lo = [(v, r) for v, r in lst if abs(_m.log(v) - med) / s >= 3.5]
+            raw = {id(r) for _k, _n, _mm, out in _rob if _k == k for _v, r in out} if '_rob' in dir() else set()
+            only = [(v, r) for v, r in lo if id(r) not in raw]
+            if only: _logo.append((k, len(only), len(xs), only))
+        _ymix = []
+        for r in rows:
+            if not re.search(r"あたり|当たり|1人|一人", r["品目"]): continue
+            ys = sorted(set(years_in(r.get("引用", "") or "")))
+            if len(ys) >= 2: _ymix.append((r, ys))
+        _ly = {}
+        for r in rows:
+            y = str(r.get("年", ""))[:4]
+            if y.isdigit(): _ly[r["品目"]] = max(_ly.get(r["品目"], 0), int(y))
+        _stale = sorted(((k, y) for k, y in _ly.items() if y <= NOW_YEAR - 5), key=lambda x: x[1])
+        _fee = [r for r in rows if re.search(r"受託|賃加工|加工賃", r["品目"])
+                and re.search(r"製造品出荷額|出荷額", r.get("引用", "") or "") and not re.search(r"加工賃", r.get("引用", "") or "")]
+        _nom = [r for r in rows if re.search(r"10年|推移|増減", r["品目"]) and re.search(r"円", r.get("単位", "") or "")
+                and not re.search(r"実質|物価|デフレーター|価格指数", (r.get("引用", "") or "") + r["品目"])]
+        md += ["## 対数でのレンジ・分子分母の年・古さ・受託の範囲（4-122・機械）",
+               f"- 正の値5件以上の欄で、対数にして中央値とIQR/1.349で|z|≥3.5、かつ生の値のMADでは出なかった外れ値を持つ欄：{len(_logo)}欄。右に裾の長い値で隠れた外れ値なので、元の表で単位・対象を確かめるまで採る値の根拠にしない（4-121・4-122）",
+               *(f"  - {k[0][:30]}／{k[1]}（{k[2]}）：{n}/{mm}件　例 {o[0][0]:g}（{o[0][1].get('出典', '')}）" for k, n, mm, o in sorted(_logo, key=lambda x: -x[1])[:4]),
+               f"- 「あたり」の品目で、引用に違う年が2つ以上出る行：{len(_ymix)}件。分子と分母が同じ年の値かを本文で確かめるまで1人あたり・1社あたりに使わない（4-122）",
+               *(f"  - {r['品目'][:30]}：{'・'.join(ys[:4])}年（{r['出典']}）" for r, ys in _ymix[:4]),
+               f"- 品目の最新の年が{NOW_YEAR - 5}年以前の品目：{len(_stale)}件。新しい版が出ていないかを先に探し、古い年のまま結論にしない（4-48・4-122）",
+               *(f"  - {k[:35]}：最新 {y}年" for k, y in _stale[:4]),
+               f"- 受託・賃加工の品目で、引用が出荷額だけで加工賃に触れない行：{len(_fee)}件。受託は材料の持ち主が客なので出荷額でなく加工賃収入で測り、同じ欄で比べない（4-113・4-122）",
+               *(f"  - {r['品目'][:30]}（{r['出典']}）" for r in _fee[:3]),
+               f"- 金額の推移・10年の品目で、実質・物価指数の語が無い行：{len(_nom)}件。名目のまま向きを書くときは「名目」と添え、物価で割った値は国内企業物価指数の品目を足して次の実行で出す（4-37・4-122）",
+               ""]
+    except Exception: pass
     ds = DIMSPLIT.get(topic)
     if ds:
         md.insert(3, f"- 食い違いの次元の集計（4-60・4-61）：【食い違い】{ds[0] + ds[1]}欄のうち、次元で分かれた {ds[0]}欄・分かれない {ds[1]}欄（{ds[1] / (ds[0] + ds[1]):.0%}）。分かれない欄は同じ対象か・単位の読みを本文で先に確かめる")
