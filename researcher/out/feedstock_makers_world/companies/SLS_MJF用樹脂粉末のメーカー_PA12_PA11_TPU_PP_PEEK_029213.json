@@ -1,0 +1,743 @@
+{
+ "name": "SLS・MJF用樹脂粉末のメーカー（PA12・PA11・TPU・PP・PEEK）",
+ "en": "SLS powder manufacturers PA12 PA11 TPU polypropylene PEEK powder suppliers",
+ "aliases": [
+  "SLS Pulver Hersteller",
+  "poudre SLS fabricant",
+  "SLS粉末 厂家",
+  "SLS 분말"
+ ],
+ "context": "樹脂粉末",
+ "kind": "market",
+ "researched_at": "2026-11-09T08:22:11.766530+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://english.tpm3d.com/materials/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://specialty-polymer.com/what-powder-is-used-in-sls-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://all3dp.com/1/sls-powder-buyers-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3d-edu.ch/en/formlabs/formlabs-sls-powder/?srsltid=AYCX9vI4XGRXoBFfBkbPrX0StUbsNOc1Dm9s6z7rrMWYuINROAVQ-Aqs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dresyns.com/collections/high-performance-powders-for-selective-laser-sintering-sls-printing-of-high-quality-functional-polymers?srsltid=AYCX9vLXEOC_ZoGcL-4_b9jbaAM-ay0lETKlI74dwz27a3VOHLEJyl7m",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://additiveplus.com/product/kspa12gb-nylon-powder/?srsltid=AYCX9vKzOctuZeCp1JbDJq61AZK2qzJs-_NOyJdaG5HDAehLE7eRbicF",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://english.tpm3d.com/sls-3d-printing-materials-pa12-pa11-cf-gf-peek/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://filament2print.com/en/239-powders",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://3d-edu.ch/en/formlabs/formlabs-sls-powder/?srsltid=AYCX9vJ5lfXyDwqEG-8uLhLLUdBrAjmD0btJ5WwhPj-xbjIvis3PLTNP",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dresyns.com/collections/high-performance-powders-for-selective-laser-sintering-sls-printing-of-high-quality-functional-polymers?srsltid=AYCX9vLNYlhxGKM0s4ZN6VGw8IFfQGQyJN-G-aPLxaN20j5_J2D2-QKq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://additiveplus.com/product/kspa12-nylon-powder/?srsltid=AYCX9vJkTrLwnm56xVS7dQ42JJWU2dQNSFvGkwe93YJ5gy3M21pPEesT",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autoabode.com/blog/pa12-vs-pa11-sls-material-guide-india",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/AdditiveManufacturing/comments/1g7ha80/pa12_powder_suppliers/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.3dresyns.com/collections/high-performance-powders-for-selective-laser-sintering-sls-printing-of-high-quality-functional-polymers?srsltid=AYCX9vJ6ZXoYv1b3pEVAB8oErvJzfA0HymXtiezfsGl9E1tIc4ulkpX3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3d-edu.ch/en/formlabs/formlabs-sls-powder/?srsltid=AYCX9vIbEjXGMQeu2L6pNWswyvQsPoubqJ50qazj0-H_NUHYRqovvoB5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matterhackers.com/store/l/sinterit-polypropylene-pp-fresh-sls-3d-printer-powder/sk/MJ3AN8VV?srsltid=AYCX9vIMjrfTkeDH7bzYnHACS8uMJFCQGYSsLVny3dDSUnTktAfjFKC4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dresyns.com/collections/high-performance-powders-for-selective-laser-sintering-sls-printing-of-high-quality-functional-polymers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://i-am-marketplace.com/powders/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://elcanindustries.com/powder-pa12/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.farsoon-gl.com/plastic-3d-printing-materials/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://additiveplus.com/product/sls-3d-printing-services/?srsltid=AYCX9vI-m8SamXGjVJ5MG9Wm2Mw2Q7n6F9-gu-3Dc8z26MXW8fz1NWRn",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3d-edu.ch/en/formlabs/formlabs-sls-powder/?srsltid=AYCX9vJAGfObtAetJJX7RAWVr5Y93ul1KfDA_pu7AnUeDd42c7ihVLBQ",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://limitlessdesignmfg.com/sls-nylons/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://specialty-polymer.com/3d-printing-powder-landing-page/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dresyns.com/collections/high-performance-powders-for-selective-laser-sintering-sls-printing-of-high-quality-functional-polymers?srsltid=AYCX9vJQnGCFymwNSv-aVHbBcMeq27PgpRuwcTlHtjQi39NpK_RuYBqY",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://production-to-go.com/en/resources/blog/the-definitive-guide-to-the-different-polymer-powders-for-3d-printing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sinterx.com/materials/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dsystems.com/materials/duraform-pa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://english.tpm3d.com/ja/sls-3d-printing-materials-pa12-pa11-cf-gf-peek/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arcplas.co.jp/product/sls-pbs-3d-powder/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formlabs.com/jp/blog/mjf-vs-sls-plastic-powder-bed-fusion-3d-printer-comparison/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hpp.arkema.com/ja/markets-and-applications/3d-printing/powder-bed-fusion/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.liqcreate.com/ja/supportarticles/properties-fdm-sls-resin/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ja.china-3dprinting.com/info/comparison-of-sls-and-mjf-77910897.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/elementum-3d-and-slm-solutions-extend-metal-additive-manufacturing-powder-choices/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/aperam-and-tekna-establish-new-metal-powder-company-imphytek-powders/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/slm-solutions-to-begin-metal-powder-production/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/tekna-signs-ten-year-supply-agreement-for-metal-am-powder/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/slm-solutions-looks-to-purchase-metal-powder-supplier/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/mpw-and-solvus-global-collaborate-for-additive-manufacturing-material-development/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dprintingindustry.com/news/powdermonkeys-introduces-two-advanced-materials-at-formnext-2024-235000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dprintingindustry.com/news/toray-develops-spherical-toraypearl-pa12-powder-for-pbf-3d-printing-249594/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/fabulous-and-amt-certify-a-complete-sls-workflow-for-food-contact-3d-printed-parts-250683/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/sinterit-launches-new-pa11-esd-3d-printing-material-180079/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dprintingindustry.com/news/sinterit-introduces-first-pa11-for-desktop-sls-3d-printing-141632/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/plasma-treatments-improve-properties-of-pa12-powder-for-sls-3d-printing-137635/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/sinterit-polypropylene-sls-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/sculpteo-pa12-s-3d-printing-material/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/raise3d-launches-b520-automated-sandblaster-and-expanded-sls-powder-lineup/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/braskem-alm-polypropylene-powder-sls/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/post-processing-specialist-spengler-launches-sls-3d-printing-service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/evonik-launches-carbon-black-pa12-infinam-powders-and-more/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/resins-vs-powders-3d-printing-100120236/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/tpm3d-clean-efficient-sls-3d-printing-expanding-internationally-260220254/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/orgasol-pa12-material-3d-printing-arkema-041220244/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/am-polymers-innovative-plastic-powders-for-additive-manufacturing-161120214/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/fabulous-sets-course-for-the-usa-270520244/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/xyzprinting-sls-machines-compatible-high-performance-pp-tpu-230320224/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/en/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/en/",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "SLS powder manufacturers PA12 PA11 TPU polypropylene PEEK powder suppliers",
+   "results": [
+    "https://english.tpm3d.com/materials/",
+    "https://specialty-polymer.com/what-powder-is-used-in-sls-printing/",
+    "https://all3dp.com/1/sls-powder-buyers-guide/",
+    "https://www.youtube.com/watch?v=F-xAIwrv_pU",
+    "https://3d-edu.ch/en/formlabs/formlabs-sls-powder/?srsltid=AYCX9vI4XGRXoBFfBkbPrX0StUbsNOc1Dm9s6z7rrMWYuINROAVQ-Aqs",
+    "https://www.3dresyns.com/collections/high-performance-powders-for-selective-laser-sintering-sls-printing-of-high-quality-functional-polymers?srsltid=AYCX9vLXEOC_ZoGcL-4_b9jbaAM-ay0lETKlI74dwz27a3VOHLEJyl7m",
+    "https://additiveplus.com/product/kspa12gb-nylon-powder/?srsltid=AYCX9vKzOctuZeCp1JbDJq61AZK2qzJs-_NOyJdaG5HDAehLE7eRbicF",
+    "https://nota3d.com/collections/sls-materials",
+    "https://www.autoabode.com/blog/pa12-vs-pa11-sls-material-guide-india",
+    "https://www.3dresyns.com/collections/high-performance-powders-for-selective-laser-sintering-sls-printing-of-high-quality-functional-polymers"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "SLS powder manufacturers PA12 PA11 TPU polypropylene PEEK powder suppliers list",
+   "results": [
+    "https://english.tpm3d.com/sls-3d-printing-materials-pa12-pa11-cf-gf-peek/",
+    "https://specialty-polymer.com/what-powder-is-used-in-sls-printing/",
+    "https://www.youtube.com/watch?v=F-xAIwrv_pU",
+    "https://filament2print.com/en/239-powders",
+    "https://3d-edu.ch/en/formlabs/formlabs-sls-powder/?srsltid=AYCX9vJ5lfXyDwqEG-8uLhLLUdBrAjmD0btJ5WwhPj-xbjIvis3PLTNP",
+    "https://www.3dresyns.com/collections/high-performance-powders-for-selective-laser-sintering-sls-printing-of-high-quality-functional-polymers?srsltid=AYCX9vLNYlhxGKM0s4ZN6VGw8IFfQGQyJN-G-aPLxaN20j5_J2D2-QKq",
+    "https://additiveplus.com/product/kspa12-nylon-powder/?srsltid=AYCX9vJkTrLwnm56xVS7dQ42JJWU2dQNSFvGkwe93YJ5gy3M21pPEesT",
+    "https://all3dp.com/1/sls-powder-buyers-guide/",
+    "https://www.autoabode.com/blog/pa12-vs-pa11-sls-material-guide-india",
+    "https://english.tpm3d.com/materials/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "top SLS powder manufacturers PA12 PA11 TPU polypropylene PEEK powder suppliers",
+   "results": [
+    "https://english.tpm3d.com/sls-3d-printing-materials-pa12-pa11-cf-gf-peek/",
+    "https://specialty-polymer.com/what-powder-is-used-in-sls-printing/",
+    "https://www.youtube.com/watch?v=F-xAIwrv_pU",
+    "https://filament2print.com/en/239-powders",
+    "https://www.reddit.com/r/AdditiveManufacturing/comments/1g7ha80/pa12_powder_suppliers/",
+    "https://www.3dresyns.com/collections/high-performance-powders-for-selective-laser-sintering-sls-printing-of-high-quality-functional-polymers?srsltid=AYCX9vJ6ZXoYv1b3pEVAB8oErvJzfA0HymXtiezfsGl9E1tIc4ulkpX3",
+    "https://3d-edu.ch/en/formlabs/formlabs-sls-powder/?srsltid=AYCX9vIbEjXGMQeu2L6pNWswyvQsPoubqJ50qazj0-H_NUHYRqovvoB5",
+    "https://all3dp.com/1/sls-powder-buyers-guide/",
+    "https://www.matterhackers.com/store/l/sinterit-polypropylene-pp-fresh-sls-3d-printer-powder/sk/MJ3AN8VV?srsltid=AYCX9vIMjrfTkeDH7bzYnHACS8uMJFCQGYSsLVny3dDSUnTktAfjFKC4",
+    "https://english.tpm3d.com/materials/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "SLS powder manufacturers PA12 PA11 TPU polypropylene PEEK powder suppliers distributor reseller program",
+   "results": [
+    "https://english.tpm3d.com/sls-3d-printing-materials-pa12-pa11-cf-gf-peek/",
+    "https://specialty-polymer.com/what-powder-is-used-in-sls-printing/",
+    "https://filament2print.com/en/239-powders",
+    "https://elcanindustries.com/powder-pa12/",
+    "https://www.farsoon-gl.com/plastic-3d-printing-materials/",
+    "https://all3dp.com/1/sls-powder-buyers-guide/",
+    "https://additiveplus.com/product/sls-3d-printing-services/?srsltid=AYCX9vI-m8SamXGjVJ5MG9Wm2Mw2Q7n6F9-gu-3Dc8z26MXW8fz1NWRn",
+    "https://www.youtube.com/watch?v=F-xAIwrv_pU",
+    "https://3d-edu.ch/en/formlabs/formlabs-sls-powder/?srsltid=AYCX9vJAGfObtAetJJX7RAWVr5Y93ul1KfDA_pu7AnUeDd42c7ihVLBQ",
+    "https://english.tpm3d.com/materials/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "SLS powder manufacturers PA12 PA11 TPU polypropylene PEEK powder suppliers exhibitors",
+   "results": [
+    "https://english.tpm3d.com/sls-3d-printing-materials-pa12-pa11-cf-gf-peek/",
+    "https://specialty-polymer.com/what-powder-is-used-in-sls-printing/",
+    "https://www.farsoon-gl.com/plastic-3d-printing-materials/",
+    "https://filament2print.com/en/239-powders",
+    "https://elcanindustries.com/powder-pa12/",
+    "https://www.3dresyns.com/collections/high-performance-powders-for-selective-laser-sintering-sls-printing-of-high-quality-functional-polymers?srsltid=AYCX9vJQnGCFymwNSv-aVHbBcMeq27PgpRuwcTlHtjQi39NpK_RuYBqY",
+    "https://all3dp.com/1/sls-powder-buyers-guide/",
+    "https://www.youtube.com/watch?v=F-xAIwrv_pU",
+    "https://production-to-go.com/en/resources/blog/the-definitive-guide-to-the-different-polymer-powders-for-3d-printing",
+    "https://english.tpm3d.com/materials/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "SLS・MJF用樹脂粉末のメーカー（PA12・PA11・TPU・PP・PEEK）",
+   "results": [
+    "https://english.tpm3d.com/ja/sls-3d-printing-materials-pa12-pa11-cf-gf-peek/",
+    "https://arcplas.co.jp/product/sls-pbs-3d-powder/",
+    "https://formlabs.com/jp/blog/mjf-vs-sls-plastic-powder-bed-fusion-3d-printer-comparison/",
+    "https://hpp.arkema.com/ja/markets-and-applications/3d-printing/powder-bed-fusion/",
+    "https://www.liqcreate.com/ja/supportarticles/properties-fdm-sls-resin/",
+    "https://ja.china-3dprinting.com/info/comparison-of-sls-and-mjf-77910897.html",
+    "https://3dprinter.co.jp/product/farsoon/farsoon-material/",
+    "https://www.simplemachining.com/blogs/how-to-choose-the-right-mjf-materials-for-functional-prototypes-and-production-parts",
+    "https://www.yam-kyoto.com/case_study/case_study-2044/",
+    "https://english.tpm3d.com/sls-3d-printing-materials-pa12-pa11-cf-gf-peek/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:metal-am.com SLS powder manufacturers PA12 PA11 TPU polypropylene PEEK powder suppliers",
+   "results": [
+    "https://www.metal-am.com/elementum-3d-and-slm-solutions-extend-metal-additive-manufacturing-powder-choices/",
+    "https://www.metal-am.com/aperam-and-tekna-establish-new-metal-powder-company-imphytek-powders/",
+    "https://www.metal-am.com/slm-solutions-to-begin-metal-powder-production/",
+    "https://www.metal-am.com/tekna-signs-ten-year-supply-agreement-for-metal-am-powder/",
+    "https://www.metal-am.com/slm-solutions-looks-to-purchase-metal-powder-supplier/",
+    "https://www.metal-am.com/mpw-and-solvus-global-collaborate-for-additive-manufacturing-material-development/",
+    "https://www.metal-am.com/atomising-systems-appoints-steward-advanced-materials-as-usa-and-americas-distributor/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:3dprintingindustry.com SLS powder manufacturers PA12 PA11 TPU polypropylene PEEK powder suppliers",
+   "results": [
+    "https://www.3dprintingindustry.com/news/powdermonkeys-introduces-two-advanced-materials-at-formnext-2024-235000/",
+    "https://www.3dprintingindustry.com/news/toray-develops-spherical-toraypearl-pa12-powder-for-pbf-3d-printing-249594/",
+    "https://3dprintingindustry.com/news/fabulous-and-amt-certify-a-complete-sls-workflow-for-food-contact-3d-printed-parts-250683/",
+    "https://3dprintingindustry.com/news/sinterit-launches-new-pa11-esd-3d-printing-material-180079/",
+    "https://www.3dprintingindustry.com/news/sinterit-introduces-first-pa11-for-desktop-sls-3d-printing-141632/",
+    "https://3dprintingindustry.com/news/plasma-treatments-improve-properties-of-pa12-powder-for-sls-3d-printing-137635/",
+    "https://3dprintingindustry.com/news/evonik-material-increase-3d-printing-demand-129024/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:voxelmatters.com SLS powder manufacturers PA12 PA11 TPU polypropylene PEEK powder suppliers",
+   "results": [
+    "https://www.voxelmatters.com/sinterit-polypropylene-sls-3d-printing/",
+    "https://www.voxelmatters.com/sculpteo-pa12-s-3d-printing-material/",
+    "https://www.voxelmatters.com/raise3d-launches-b520-automated-sandblaster-and-expanded-sls-powder-lineup/",
+    "https://www.voxelmatters.com/braskem-alm-polypropylene-powder-sls/",
+    "https://www.voxelmatters.com/post-processing-specialist-spengler-launches-sls-3d-printing-service/",
+    "https://www.voxelmatters.com/evonik-launches-carbon-black-pa12-infinam-powders-and-more/",
+    "https://www.voxelmatters.com/fabulous-and-amt-validate-workflow-for-3d-printing-food-safe-parts/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:3dnatives.com SLS powder manufacturers PA12 PA11 TPU polypropylene PEEK powder suppliers",
+   "results": [
+    "https://www.3dnatives.com/en/resins-vs-powders-3d-printing-100120236/",
+    "https://www.3dnatives.com/en/tpm3d-clean-efficient-sls-3d-printing-expanding-internationally-260220254/",
+    "https://www.3dnatives.com/en/orgasol-pa12-material-3d-printing-arkema-041220244/",
+    "https://www.3dnatives.com/en/am-polymers-innovative-plastic-powders-for-additive-manufacturing-161120214/",
+    "https://www.3dnatives.com/en/fabulous-sets-course-for-the-usa-270520244/",
+    "https://www.3dnatives.com/en/xyzprinting-sls-machines-compatible-high-performance-pp-tpu-230320224/",
+    "https://www.3dnatives.com/en/am-polymers-plastic-powders-with-injection-molded-properties-251120216/",
+    "https://www.3dnatives.com/en/am-polymers-powders-17112022/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:3printr.com SLS powder manufacturers PA12 PA11 TPU polypropylene PEEK powder suppliers",
+   "results": [
+    "https://www.3printr.com/tag/printing-powder-production/",
+    "https://www.3printr.com/tag/powder-based-3d-printing-pa12/",
+    "https://www.3printr.com/tag/pa12-powder-producer/",
+    "https://www.3printr.com/tag/recyppowder/",
+    "https://www.3printr.com/category/materials/page/28/",
+    "https://www.3printr.com/tag/3d-printing-plastic-powder/",
+    "https://www.3printr.com/tag/sls-tpu-powder-material/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:3druck.com SLS powder manufacturers PA12 PA11 TPU polypropylene PEEK powder suppliers",
+   "results": [
+    "https://3druck.com/en/3d-printing-materials-2/prodways-pa12-sf1800-powder-28118858/",
+    "https://3druck.com/en/3d-printing-materials-2/toray-introduces-spherical-pa12-powder-for-pbf-3d-printing-with-focus-on-component-quality-09154126/",
+    "https://3druck.com/en/directory/materials/",
+    "https://3druck.com/en/3d-printing-materials-2/evonik-produces-pa12-powder-based-on-biocircular-raw-materials-from-waste-food-oils-37123307/",
+    "https://3druck.com/en/case-studies/sls-3d-printing-with-pa11-detect-targets-food-equipment-and-digital-spare-parts-55154653/",
+    "https://3druck.com/en/3d-printing-materials-2/sls-powder-sinterite-4798755/",
+    "https://3druck.com/en/3d-printing-materials-2/sinterit-brings-tpu-powder-for-sls-3d-printers-4576993/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:3dadept.com SLS powder manufacturers PA12 PA11 TPU polypropylene PEEK powder suppliers",
+   "results": [
+    "https://3dadept.com/3dchimera-becomes-evoniks-distributor-for-sls-3d-printing-materials/",
+    "https://3dadept.com/evoniks-new-elastomer-powder-to-better-3d-printed-parts-for-consumer-goods/",
+    "https://3dadept.com/flexa-soft-a-tpu-powder-for-small-sls-3d-printers/",
+    "https://3dadept.com/4-new-3d-printing-materials-based-on-nylon-pa11-complete-sculpteos-portfolio/",
+    "https://3dadept.com/new-developments-in-3d-printing-polymers-encapsulated-carbon-black-particles-for-selective-laser-sintering/",
+    "https://3dadept.com/evonik-develops-new-3d-printing-materials-with-reduced-carbon-footprint/",
+    "https://3dadept.com/sinterit-closes-a-busy-year-with-new-post-processing-equipment-new-material-for-sls-3d-printing/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:alibaba.com SLS powder manufacturers PA12 PA11 TPU polypropylene PEEK powder suppliers",
+   "results": [
+    "https://www.alibaba.com/product-detail/Pa6-6-Gf30-siemens-for-Nylon_60710455273.html",
+    "https://www.alibaba.com/product-detail/Plastic-Polyamide-Nylon-Pa6-Gf35-Pa66_1600272208824.html",
+    "https://www.alibaba.com/showroom/nylon-powder-for-sls.html",
+    "https://www.alibaba.com/supplier/polyamide-powder-sintering.html",
+    "https://ttindustrygroup.en.alibaba.com/productgrouplist-816230662/PA12_Powder.html",
+    "https://suppliers.alibaba.com/",
+    "https://chinapeek.m.en.alibaba.com/",
+    "https://www.alibaba.com/showroom/sls-pa11-powder.html",
+    "https://www.alibaba.com/supplier/3d-printer-powder-suppliers.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:all3dp.com SLS powder manufacturers PA12 PA11 TPU polypropylene PEEK powder suppliers",
+   "results": [
+    "https://all3dp.com/1/sls-powder-buyers-guide/",
+    "https://all3dp.com/1/best-sls-3d-printer-desktop-industrial/",
+    "https://all3dp.com/1/3d-printing-with-glass-filled-materials-a-quick-start-guide/",
+    "https://all3dp.com/1/mjf-vs-sls-3d-printed-parts/",
+    "https://all3dp.com/1/pro-printer-launches-2021/",
+    "https://all3dp.com/1/3d-printing-pa12-nylon-sls-mjf/",
+    "https://all3dp.com/4/3d-printing-with-polypropylene-on-the-formlabs-fuse-1-30w/",
+    "https://all3dp.com/4/victrex-introduces-new-paek-products-additive-manufacturing/",
+    "https://all3dp.com/topic/nylon/",
+    "https://all3dp.com/1/peek-3d-printer/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "SLS powder manufacturers PA12 PA11 TPU polypropylene PEEK powder suppliers brands comparison",
+   "results": [
+    "https://english.tpm3d.com/sls-3d-printing-materials-pa12-pa11-cf-gf-peek/",
+    "https://specialty-polymer.com/what-powder-is-used-in-sls-printing/",
+    "https://filament2print.com/en/239-powders",
+    "https://www.youtube.com/watch?v=F-xAIwrv_pU",
+    "https://www.reddit.com/r/AdditiveManufacturing/comments/1g7ha80/pa12_powder_suppliers/",
+    "https://all3dp.com/1/sls-powder-buyers-guide/",
+    "https://3d-edu.ch/en/formlabs/formlabs-sls-powder/?srsltid=AYCX9vLUv3WYdnOaIx56pxI_xdd3A8FzXMo7fWeyvzWra66aAvfnPwBp",
+    "https://inframotion3d.com/nylon-powder-properties-guide/",
+    "https://www.3dresyns.com/collections/high-performance-powders-for-selective-laser-sintering-sls-printing-of-high-quality-functional-polymers?srsltid=AYCX9vKg8Sonkqy7v9xoL6-aO1zTXdWALq6eqKOymxpdSTUbwZJOiOJQ",
+    "https://english.tpm3d.com/materials/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com SLS・MJF用樹脂粉末のメーカー（PA12・PA11・TPU・PP・PEEK）",
+   "results": [
+    "https://note.com/newspeak/n/nabcf68f54649",
+    "https://note.com/newspeak/n/nabcf68f54649?hl=en",
+    "https://note.com/t23/n/n923cbcb565b2",
+    "https://note.com/central_wolf/n/n3a0a27c977bc",
+    "https://note.com/1412187/n/n6bf020a64358",
+    "https://note.com/create_gbm/n/n03b1cd8b3b90",
+    "https://note.com/qy_research/n/n631a0a191dab"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com SLS・MJF用樹脂粉末のメーカー（PA12・PA11・TPU・PP・PEEK）",
+   "results": [
+    "https://x.com/sketchrock/status/2052026536593879533",
+    "https://x.com/jpShareLab/status/2029848410992316787",
+    "https://jf.x.com/images/media-preview/2110026410349965429",
+    "https://x.com/N3uuSp3ak/status/2068507325250535527",
+    "https://x.com/Seal_brown_/status/2074813197874495930",
+    "https://x.com/DMM_make/status/1740665207826088077",
+    "https://x.com/Fworks9/status/1305379653092139008"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com SLS・MJF用樹脂粉末のメーカー（PA12・PA11・TPU・PP・PEEK）",
+   "results": [
+    "https://www.linkedin.com/posts/fabnow3d_sls-mjf-powderbedfusion-activity-7506834510311923712-pEcF",
+    "https://www.linkedin.com/pulse/pa12-pa11-gb-tpu-which-mjf-material-application-weerg-fjkwf/",
+    "https://cn.linkedin.com/in/jack-jiang-067810221/zh-cn",
+    "https://jp.linkedin.com/pulse/whats-difference-between-sls-mjf-3d-printing-prototype-projects-ltd-siwre?tl=ja",
+    "https://cn.linkedin.com/posts/grandtech_pa12-處理了我們-28-台-mjf-設備約-80-的訂單剩下的-20才是材料選擇真正關鍵的地方-activity-7495638282463096832-wQNV",
+    "https://pe.linkedin.com/pulse/additive-insider-what-materials-used-multi-jet-fusion-miranda-quinn",
+    "https://jp.linkedin.com/pulse/非電子mabs樹脂メーカーの選び方と主要企業-the-realdeal-0ajie"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com SLS・MJF用樹脂粉末のメーカー（PA12・PA11・TPU・PP・PEEK）",
+   "results": [
+    "https://www.facebook.com/jrproto/videos/need-functional-nylon-prototypessls-and-mjf-are-both-worth-considering-complex-g/1837653937231300/",
+    "https://www.facebook.com/groups/3453027578146684/posts/29745260128496737/",
+    "https://www.facebook.com/groups/164558137649178/",
+    "https://www.facebook.com/fabcrossjp/posts/materialiseがsls方式3dプリンター用pa12材料粉末を100の再利用を可能にする技術bluesint-pa12を発表/1605967429604224/",
+    "https://www.facebook.com/Dmm3DPrint/posts/3dプリント素材のmjfpa11素材がよりお求め安くなりましたlink-httpsmakedmmcomprintmaterial85-makedmmcompri/2134414519968487/",
+    "https://www.facebook.com/reel/1977884276318378/",
+    "https://www.facebook.com/JLC3DP/photos/designing-an-mjf-3d-printed-part-stuck-between-pa12-or-pa12s-these-are-two-of-th/122276992292115958/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SLS・MJF用樹脂粉末のメーカー（PA12・PA11・TPU・PP・PEEK） note 社長",
+   "results": [
+    "https://english.tpm3d.com/ja/your-guide-to-sls-3d-printers-models-costs-and-key-benefits/",
+    "https://formlabs.com/jp/blog/mjf-vs-sls-plastic-powder-bed-fusion-3d-printer-comparison/",
+    "https://arcplas.co.jp/product/sls-pbs-3d-powder/",
+    "https://www.liqcreate.com/ja/supportarticles/properties-fdm-sls-resin/",
+    "https://hpp.arkema.com/ja/markets-and-applications/3d-printing/powder-bed-fusion/",
+    "https://www.rapiddirect.com/ja/blog/mjf-3d-printing-guide/",
+    "https://www.yam-kyoto.com/case_study/case_study-2044/",
+    "https://jlc3dp.com/jp/blog/mjf-filament-alternatives",
+    "https://3dprinter.co.jp/product/farsoon/farsoon-material/",
+    "https://english.tpm3d.com/ja/sls-3d-printing-materials-pa12-pa11-cf-gf-peek/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "SLS・MJF用樹脂粉末のメーカー（PA12・PA11・TPU・PP・PEEK） X 投稿",
+   "results": [
+    "https://english.tpm3d.com/ja/sls-3d-printing-materials-pa12-pa11-cf-gf-peek/",
+    "https://formlabs.com/jp/blog/mjf-vs-sls-plastic-powder-bed-fusion-3d-printer-comparison/",
+    "https://arcplas.co.jp/product/sls-pbs-3d-powder/",
+    "https://www.liqcreate.com/ja/supportarticles/properties-fdm-sls-resin/",
+    "https://hpp.arkema.com/ja/markets-and-applications/3d-printing/powder-bed-fusion/",
+    "https://3dprinter.co.jp/product/farsoon/farsoon-material/",
+    "https://www.simplemachining.com/blogs/how-to-choose-the-right-mjf-materials-for-functional-prototypes-and-production-parts",
+    "https://www.yam-kyoto.com/case_study/case_study-2044/",
+    "https://prioadd.de/en/services/material/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "SLS powder manufacturers PA12 PA11 TPU polypropylene PEEK powder suppliers site:linkedin.com",
+   "results": [
+    "https://cn.linkedin.com/in/karing-li-3dfilament",
+    "https://www.linkedin.com/pulse/top-pa12-powder-material-suppliers-market-position-cushion-catchs-azvqe",
+    "https://www.linkedin.com/posts/formlabs_sls-3d-printing-with-formlabs-tpu-90a-powder-activity-7351935462111903744-a75P",
+    "https://cn.linkedin.com/in/vivian-peng-3d-81332794",
+    "https://de.linkedin.com/posts/powdermonkeys_sls-tpu-3dprinting-activity-7391493234516037633-e2HE",
+    "https://pe.linkedin.com/posts/evonik-high-performance-polymers_partnership-hotoffthepress-evonik-activity-7313259850170327041-P0ik",
+    "https://pe.linkedin.com/posts/am-polymers-gmbh_visit-us-on-formnext-at-booth-121-c28-and-activity-7262489779248779264-GuFM"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "会社名・一覧": "記載なし（読んだ60頁・検索23回）",
+  "創業年": "記載なし（読んだ60頁・検索23回）",
+  "資金調達・株主": "記載なし（読んだ60頁・検索23回）",
+  "年商・規模": "記載なし（読んだ60頁・検索23回）",
+  "日本の担い手": "記載なし（読んだ60頁・検索23回）",
+  "代理店募集・売り方": "記載なし（読んだ60頁・検索23回）",
+  "技術支援": "記載なし（読んだ60頁・検索23回）",
+  "展示会": "記載なし（読んだ60頁・検索23回）",
+  "価格": "記載なし（読んだ60頁・検索23回）"
+ }
+}

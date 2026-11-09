@@ -8,8 +8,174 @@
  ],
  "context": "method",
  "kind": "market",
- "researched_at": "2026-11-08T21:35:12.791933+00:00",
+ "researched_at": "2026-11-09T08:24:15.933544+00:00",
  "evidence": {
+  "突き合わせ・推定": [
+   {
+    "quote": "特に、効力発生日が決まっている手続では、公告開始日、公告終了日、異議申述期間、登記申請予定日を逆算して管理します",
+    "url": "https://corporate-a-lawoffice.com/companiesact940/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "合併や解散の手続きに入る前に、総勘定元帳、買掛金・未払金の補助簿、借入金一覧、契約台帳、係争案件などを照合し、債権者名、住所、債権の内容および金額を一覧にしておく必要があります",
+    "url": "https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "決算公告を電子公告に変更する定款変更の手順｜費用・書類・注意点まとめ",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "株主総会の特別決議から登記完了まで全手順と費用（登録免許税3万円）・注意点を完全解説します",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "公益社団法人の決算公告と一般社団法人の違いは？二重開示義務と過料50万円に注意",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "しかし、5年間の継続掲載が求められるため、ウェブサイトの更新、ドメイン変更、CMS移行、過年度公告ページの削除などに注意が必要です",
+    "url": "https://corporate-a-lawoffice.com/companiesact940/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "外国会社の登記とは｜日本進出（継続取引）に必要な手続と注意点",
+    "url": "https://corporate-a-lawoffice.com/companiesact940/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "掲載の中断防止と財務情報の開示範囲に注意する",
+    "url": "https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "決算公告を電子公告で行う方法｜費用・手順・注意点を徹底解説【2026年版】 | 電子決算公告ドットコムMagazine",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "決算公告を電子公告で行う方法｜費用・手順・注意点を徹底解説【2026年版】",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この記事では、決算公告を電子公告で実施するための具体的な手続き・費用・注意点を網羅的に解説します",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "電子公告で決算公告を行うデメリット・注意点",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Q6: 掲載する貸借対照表は「要旨」ではダメですか？",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "メリットが多い電子公告ですが、以下の点に注意が必要です",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "実際にこの制度を利用している企業の担当者からは「サーバーのメンテナンスや移転の際にURLが変わらないよう注意が必要」「年度ごとにページが増えていくので整理が大変」といった声が聞かれます",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "注意点は「全文掲載」「5年間継続」「URL登記（3万円）」の3つ",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "中小企業基盤整備機構 J-Net21「ホームページで決算公告を行いたいのですが、注意点があったら教えてください",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "官報公告を利用する際の注意点は、後述する電子公告に比べて費用がかかることです",
+    "url": "https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "新聞公告を利用する際の注意点は、他の公告方法に比べて費用が高額になることです",
+    "url": "https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "なお、決算公告以外の法定公告は電子公告調査を受ける必要がありますが、この調査にかかる費用は10万～20万円かかり、それも含めると官報に掲載する費用の3万～20万円より多くなる場合もあるため、注意が必要です",
+    "url": "https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "電子公告を利用する場合にも注意点があります",
+    "url": "https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "定款の書き方は？記載事項ごとの書き方のポイントや注意点も解説",
+    "url": "https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "定款変更にかかる費用は？手続きの流れや注意点を解説",
+    "url": "https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "また、決算公告以外では調査機関の費用がかかる点に注意が必要です",
+    "url": "https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "3つの公告方法、それぞれのメリットと注意点",
+    "url": "https://note.com/real_ram9758/n/n015e975a7128?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "サイトをリニューアルしてアドレスが変わった場合は、あらためてURLの変更登記が必要になる点に注意してください",
+    "url": "https://note.com/real_ram9758/n/n015e975a7128?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "決算公告を電子公告で行う場合、定時株主総会の終結の日後5年を経過する日まで掲載を継続しなければならない（会社法940条1項2号）ため、サイトの移転・閉鎖の際は掲載の継続に十分注意してください",
+    "url": "https://note.com/real_ram9758/n/n015e975a7128?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
   "手順・やり方": [
    {
     "quote": "電子公告の公告期間の4類型",
@@ -457,6 +623,80 @@
    },
    {
     "quote": "3つの公告方法、それぞれのメリットと注意点",
+    "url": "https://note.com/real_ram9758/n/n015e975a7128?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "15.8万社調査で判明した債務超過企業の実態や、合併に伴う決算公告で話題のオリパ大手の事例を紹介",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "電子公告調査が必要か、調査機関に何を依頼するか、調査結果をどう使うか",
+    "url": "https://corporate-a-lawoffice.com/companiesact940/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "また、電子公告調査機関の調査結果通知は、商業・法人登記の申請書に「公告をしたことを証する書面」として添付できるとされています",
+    "url": "https://corporate-a-lawoffice.com/companiesact940/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "サーバログ、監視ログ、スクリーンショット、調査結果通知を保存しているか",
+    "url": "https://corporate-a-lawoffice.com/companiesact940/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "例えば、北海道新聞の法定広告料金は、2026年7月時点で1段×1cm当たり、全道版が税別43,000円、札幌本社版が税別29,100円、函館版が税別9,800円です",
+    "url": "https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、自宅マンションの一室を事務所にしている場合、オートロックの外側に掲示できるか、管理規約や管理者の承諾を確認しなければなりません",
+    "url": "https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、借入先の金融機関、代金をまだ支払っていない仕入先や業務委託先、未払賃金がある従業員などが該当します",
+    "url": "https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "多くの解説記事では「電子公告」を一括りにしていますが、実は決算公告だけを電子公告にするケースと、合併公告や資本減少公告なども含めてすべてを電子公告にするケースでは、要件が大きく異なります",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "必要になるケースの判定基準、会社法789条・799条の根拠、官報費用の目安から申込期限までを一括で確認できます",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "掲載内容によって料金は異なりますが、例えば決算公告の場合、一般的には7万円程度の費用がかかります",
+    "url": "https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "会社を設立したとき、定款に「当会社の公告は、官報に掲載してする」と書いた──多くの中小企業がこのパターンで、その後ずっと見直さないまま、というケースがよくあります",
+    "url": "https://note.com/real_ram9758/n/n015e975a7128?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "https://www.example.co.jp/koukoku/",
     "url": "https://note.com/real_ram9758/n/n015e975a7128?hl=en",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -913,246 +1153,6 @@
     "pass": 3,
     "first_seen": "2026-11-07"
    }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "決算公告を電子公告に変更する定款変更の手順｜費用・書類・注意点まとめ",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "株主総会の特別決議から登記完了まで全手順と費用（登録免許税3万円）・注意点を完全解説します",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "公益社団法人の決算公告と一般社団法人の違いは？二重開示義務と過料50万円に注意",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "しかし、5年間の継続掲載が求められるため、ウェブサイトの更新、ドメイン変更、CMS移行、過年度公告ページの削除などに注意が必要です",
-    "url": "https://corporate-a-lawoffice.com/companiesact940/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "外国会社の登記とは｜日本進出（継続取引）に必要な手続と注意点",
-    "url": "https://corporate-a-lawoffice.com/companiesact940/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "掲載の中断防止と財務情報の開示範囲に注意する",
-    "url": "https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "決算公告を電子公告で行う方法｜費用・手順・注意点を徹底解説【2026年版】 | 電子決算公告ドットコムMagazine",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "決算公告を電子公告で行う方法｜費用・手順・注意点を徹底解説【2026年版】",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "この記事では、決算公告を電子公告で実施するための具体的な手続き・費用・注意点を網羅的に解説します",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "電子公告で決算公告を行うデメリット・注意点",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Q6: 掲載する貸借対照表は「要旨」ではダメですか？",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "メリットが多い電子公告ですが、以下の点に注意が必要です",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "実際にこの制度を利用している企業の担当者からは「サーバーのメンテナンスや移転の際にURLが変わらないよう注意が必要」「年度ごとにページが増えていくので整理が大変」といった声が聞かれます",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "注意点は「全文掲載」「5年間継続」「URL登記（3万円）」の3つ",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "中小企業基盤整備機構 J-Net21「ホームページで決算公告を行いたいのですが、注意点があったら教えてください",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "官報公告を利用する際の注意点は、後述する電子公告に比べて費用がかかることです",
-    "url": "https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "新聞公告を利用する際の注意点は、他の公告方法に比べて費用が高額になることです",
-    "url": "https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "なお、決算公告以外の法定公告は電子公告調査を受ける必要がありますが、この調査にかかる費用は10万～20万円かかり、それも含めると官報に掲載する費用の3万～20万円より多くなる場合もあるため、注意が必要です",
-    "url": "https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "電子公告を利用する場合にも注意点があります",
-    "url": "https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "定款の書き方は？記載事項ごとの書き方のポイントや注意点も解説",
-    "url": "https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "定款変更にかかる費用は？手続きの流れや注意点を解説",
-    "url": "https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "また、決算公告以外では調査機関の費用がかかる点に注意が必要です",
-    "url": "https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "3つの公告方法、それぞれのメリットと注意点",
-    "url": "https://note.com/real_ram9758/n/n015e975a7128?hl=en",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "サイトをリニューアルしてアドレスが変わった場合は、あらためてURLの変更登記が必要になる点に注意してください",
-    "url": "https://note.com/real_ram9758/n/n015e975a7128?hl=en",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "決算公告を電子公告で行う場合、定時株主総会の終結の日後5年を経過する日まで掲載を継続しなければならない（会社法940条1項2号）ため、サイトの移転・閉鎖の際は掲載の継続に十分注意してください",
-    "url": "https://note.com/real_ram9758/n/n015e975a7128?hl=en",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "15.8万社調査で判明した債務超過企業の実態や、合併に伴う決算公告で話題のオリパ大手の事例を紹介",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "電子公告調査が必要か、調査機関に何を依頼するか、調査結果をどう使うか",
-    "url": "https://corporate-a-lawoffice.com/companiesact940/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "また、電子公告調査機関の調査結果通知は、商業・法人登記の申請書に「公告をしたことを証する書面」として添付できるとされています",
-    "url": "https://corporate-a-lawoffice.com/companiesact940/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "サーバログ、監視ログ、スクリーンショット、調査結果通知を保存しているか",
-    "url": "https://corporate-a-lawoffice.com/companiesact940/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "例えば、北海道新聞の法定広告料金は、2026年7月時点で1段×1cm当たり、全道版が税別43,000円、札幌本社版が税別29,100円、函館版が税別9,800円です",
-    "url": "https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、自宅マンションの一室を事務所にしている場合、オートロックの外側に掲示できるか、管理規約や管理者の承諾を確認しなければなりません",
-    "url": "https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、借入先の金融機関、代金をまだ支払っていない仕入先や業務委託先、未払賃金がある従業員などが該当します",
-    "url": "https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "多くの解説記事では「電子公告」を一括りにしていますが、実は決算公告だけを電子公告にするケースと、合併公告や資本減少公告なども含めてすべてを電子公告にするケースでは、要件が大きく異なります",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "必要になるケースの判定基準、会社法789条・799条の根拠、官報費用の目安から申込期限までを一括で確認できます",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "掲載内容によって料金は異なりますが、例えば決算公告の場合、一般的には7万円程度の費用がかかります",
-    "url": "https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "会社を設立したとき、定款に「当会社の公告は、官報に掲載してする」と書いた──多くの中小企業がこのパターンで、その後ずっと見直さないまま、というケースがよくあります",
-    "url": "https://note.com/real_ram9758/n/n015e975a7128?hl=en",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "https://www.example.co.jp/koukoku/",
-    "url": "https://note.com/real_ram9758/n/n015e975a7128?hl=en",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "特に、効力発生日が決まっている手続では、公告開始日、公告終了日、異議申述期間、登記申請予定日を逆算して管理します",
-    "url": "https://corporate-a-lawoffice.com/companiesact940/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "合併や解散の手続きに入る前に、総勘定元帳、買掛金・未払金の補助簿、借入金一覧、契約台帳、係争案件などを照合し、債権者名、住所、債権の内容および金額を一覧にしておく必要があります",
-    "url": "https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
   ]
  },
  "figures": {},
@@ -1164,12 +1164,12 @@
     "method": "http"
    },
    {
-    "url": "https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/",
+    "url": "https://www.n-koukoku.com/0130%20mousikomi/00%20mousikomi_jyunnbi.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.n-koukoku.com/0130%20mousikomi/00%20mousikomi_jyunnbi.html",
+    "url": "https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/",
     "status": "ok",
     "method": "http"
    },
@@ -1179,12 +1179,12 @@
     "method": "http"
    },
    {
-    "url": "https://kanpo-ad.com/baitai.html",
+    "url": "https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/",
+    "url": "https://kanpo-ad.com/baitai.html",
     "status": "ok",
     "method": "http"
    },
@@ -1204,16 +1204,6 @@
     "method": "http"
    },
    {
-    "url": "https://www.kanpo.go.jp/pdf/s_guide.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://corporate-a-lawoffice.com/companiesact940/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.rsm.global/japan/shiodome/en/insights/category/incorporation/method-public-notice-company-japan",
     "status": "ok",
     "method": "http"
@@ -1224,23 +1214,23 @@
     "method": "http"
    },
    {
-    "url": "https://di-r.com/en/ir/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://wisdom-street.com/en/terms/public-notice-of-financial-statements.html",
     "status": "robots_disallowed",
     "method": ""
    },
    {
-    "url": "https://www.mitsuba.co.jp/en/ir/koukoku.html",
+    "url": "https://di-r.com/en/ir/",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://www.sec.gov/data-research/sec-markets-data/financial-statement-data-sets",
     "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsuba.co.jp/en/ir/koukoku.html",
+    "status": "ok",
     "method": "http"
    }
   ]
@@ -1250,12 +1240,12 @@
    "query": "決算公告を公告の方法（官報・日刊新聞・電子公告）から探す手順と、電子公告の掲載期間・官報だけの検索の網羅の穴（登記の公告をする方法の欄を先に見る）-求人 -就活 site:note.com",
    "results": [
     "https://www.moj.go.jp/MINJI/minji81.html",
-    "https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/",
     "https://www.n-koukoku.com/0130%20mousikomi/00%20mousikomi_jyunnbi.html",
+    "https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/",
     "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/",
-    "https://kanpo-ad.com/baitai.html",
     "https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/",
-    "https://www.kanpo.go.jp/pdf/s_guide.pdf",
+    "https://kanpo-ad.com/baitai.html",
+    "https://www.e-koukoku.co.jp/faq.html",
     "https://www.koueki-houjin.net/seturitu/koukoku.html",
     "https://shiodome.co.jp/js/blog/507"
    ],
@@ -1304,14 +1294,14 @@
    "query": "決算公告を公告の方法（官報・日刊新聞・電子公告）から探す手順と、電子公告の掲載期間・官報だけの検索の網羅の穴（登記の公告をする方法の欄を先に見る）-求人 -就活 事例",
    "results": [
     "https://www.moj.go.jp/MINJI/minji81.html",
-    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/",
     "https://www.n-koukoku.com/0130%20mousikomi/00%20mousikomi_jyunnbi.html",
+    "https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/",
+    "https://www.e-koukoku.co.jp/faq.html",
+    "https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/",
     "https://kanpo-ad.com/baitai.html",
     "https://www.koueki-houjin.net/seturitu/koukoku.html",
     "https://shiodome.co.jp/js/blog/507",
-    "https://www.kanpo.go.jp/pdf/s_guide.pdf",
-    "https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/",
-    "https://corporate-a-lawoffice.com/companiesact940/"
+    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/"
    ],
    "engines": [
     "yahoo_jp"
@@ -1323,13 +1313,13 @@
    "results": [
     "https://www.rsm.global/japan/shiodome/en/insights/category/incorporation/method-public-notice-company-japan",
     "https://www.fsa.go.jp/en/newsletter/weekly2026/682.html",
-    "https://di-r.com/en/ir/",
     "https://wisdom-street.com/en/terms/public-notice-of-financial-statements.html",
-    "https://www.mitsuba.co.jp/en/ir/koukoku.html",
+    "https://di-r.com/en/ir/",
     "https://www.sec.gov/data-research/sec-markets-data/financial-statement-data-sets",
+    "https://www.mitsuba.co.jp/en/ir/koukoku.html",
     "https://www.moj.go.jp/EN/MINJI/denshikoukoku.html",
-    "https://waseda-jp.libguides.com/research-navi/find_kigyo/en",
     "https://www.infoproff.com/en/open-data/japan/93/financial-reporting-obligations-for-companies-in-japan",
+    "https://waseda-jp.libguides.com/research-navi/find_kigyo/en",
     "https://www.japaneselawtranslation.go.jp/en/laws/view/3918"
    ],
    "engines": [
@@ -1379,14 +1369,14 @@
    "query": "決算公告を公告の方法（官報・日刊新聞・電子公告）から探す手順と、電子公告の掲載期間・官報だけの検索の網羅の穴（登記の公告をする方法の欄を先に見る）-求人 -就活 note 社長",
    "results": [
     "https://www.moj.go.jp/MINJI/minji81.html",
-    "https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/",
     "https://www.n-koukoku.com/0130%20mousikomi/00%20mousikomi_jyunnbi.html",
-    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/",
-    "https://kanpo-ad.com/baitai.html",
+    "https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/",
+    "https://www.e-koukoku.co.jp/faq.html",
     "https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/",
-    "https://www.kanpo.go.jp/pdf/s_guide.pdf",
+    "https://kanpo-ad.com/baitai.html",
+    "https://www.koueki-houjin.net/seturitu/koukoku.html",
     "https://shiodome.co.jp/js/blog/507",
-    "https://www.koueki-houjin.net/seturitu/koukoku.html"
+    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/"
    ],
    "engines": [
     "yahoo_jp"
@@ -1397,12 +1387,12 @@
    "query": "決算公告を公告の方法（官報・日刊新聞・電子公告）から探す手順と、電子公告の掲載期間・官報だけの検索の網羅の穴（登記の公告をする方法の欄を先に見る）-求人 -就活 X 投稿",
    "results": [
     "https://www.moj.go.jp/MINJI/minji81.html",
-    "https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/",
     "https://www.n-koukoku.com/0130%20mousikomi/00%20mousikomi_jyunnbi.html",
+    "https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/",
     "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/",
-    "https://kanpo-ad.com/baitai.html",
     "https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/",
-    "https://www.kanpo.go.jp/pdf/s_guide.pdf",
+    "https://kanpo-ad.com/baitai.html",
+    "https://www.e-koukoku.co.jp/faq.html",
     "https://www.koueki-houjin.net/seturitu/koukoku.html",
     "https://shiodome.co.jp/js/blog/507"
    ],
@@ -1414,16 +1404,16 @@
   {
    "query": "find company financial statement public notice by publication method electronic public notice Japan coverage gap site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/company/aig",
+    "https://www.linkedin.com/legal/privacy-policy",
     "https://ng.linkedin.com/in/ogechi-aninye",
     "https://www.linkedin.com/company/genpact",
-    "https://www.linkedin.com/company/prudential-financial",
-    "https://www.linkedin.com/company/metlife",
-    "https://www.linkedin.com/in/paul-e-wilson",
+    "https://www.linkedin.com/company/aig",
     "https://www.linkedin.com/in/charleshoffmancpa",
-    "https://www.linkedin.com/in/bkrichter",
     "https://www.linkedin.com/in/jimbuttonow",
-    "https://www.linkedin.com/legal/privacy-policy"
+    "https://www.linkedin.com/in/bkrichter",
+    "https://www.linkedin.com/company/chubb",
+    "https://uk.linkedin.com/company/financial-times",
+    "https://www.linkedin.com/company/prudential-financial"
    ],
    "engines": [
     "yahoo_jp"
@@ -1432,234 +1422,7 @@
   }
  ],
  "missing": {},
- "new_this_run": {
-  "手順・やり方": [
-   {
-    "quote": "電子公告の公告期間の4類型",
-    "url": "https://corporate-a-lawoffice.com/companiesact940/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "電子公告とは、会社法上、電磁的方法により不特定多数の者が公告すべき内容の情報の提供を受けることができる状態に置く措置であって、インターネットに接続された自動公衆送信装置を使用するものをいいます",
-    "url": "https://corporate-a-lawoffice.com/companiesact940/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "電子公告を採用するかどうかは、公告方法を定める会社法939条の問題です",
-    "url": "https://corporate-a-lawoffice.com/companiesact940/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "電子公告を公告方法として採用するかは939条、電子公告調査を受ける必要があるかは941条以下を合わせて確認します",
-    "url": "https://corporate-a-lawoffice.com/companiesact940/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "会社法940条1項は、電子公告の公告期間を4類型に分けています",
-    "url": "https://corporate-a-lawoffice.com/companiesact940/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "前3類型に当たらない公告の原則的な受け皿です",
-    "url": "https://corporate-a-lawoffice.com/companiesact940/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "この類型では、「公告開始日から何日」ではなく、条文上予定されている特定の日が終期になります",
-    "url": "https://corporate-a-lawoffice.com/companiesact940/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "法務省も、決算公告については電子公告調査を受ける必要がない一方、電子公告を公告方法とする会社等が決算公告をする場合には要旨の公告ではなく全文公告が必要になると案内しています",
-    "url": "https://corporate-a-lawoffice.com/companiesact940/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "典型的には、債権者保護手続で、債権者が一定期間内に異議を述べることができる旨を公告する場面が問題になります",
-    "url": "https://corporate-a-lawoffice.com/companiesact940/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "追加公告の文面、掲載時刻、掲載方法、調査機関への連絡を確認します",
-    "url": "https://corporate-a-lawoffice.com/companiesact940/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "官報・日刊新聞紙・電子公告のどれを公告方法とするか、定款・登記をどう整えるか",
-    "url": "https://corporate-a-lawoffice.com/companiesact940/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "公告が940条1項のどの類型に該当するか整理しているか",
-    "url": "https://corporate-a-lawoffice.com/companiesact940/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "中断時の連絡先、対応責任者、追加公告文面の作成手順を決めているか",
-    "url": "https://corporate-a-lawoffice.com/companiesact940/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "会社法940条1項は、特定の日まで継続する公告、決算公告、異議申述期間付き公告、その他の公告の4類型に分けています",
-    "url": "https://corporate-a-lawoffice.com/companiesact940/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "電子公告を公告方法とするための定款・登記は939条、電子公告調査の要否や調査機関の制度は941条以下、決算公告や債権者保護公告の具体的な内容は個別手続条文を確認する必要があります",
-    "url": "https://corporate-a-lawoffice.com/companiesact940/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "電子公告は、官報や新聞公告と異なり、1回掲載して終わりではありません",
-    "url": "https://corporate-a-lawoffice.com/companiesact940/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "決算公告は、定時株主総会の終結の日後5年を経過する日まで継続掲載する必要があります",
-    "url": "https://corporate-a-lawoffice.com/companiesact940/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "電子公告を採用するかどうかは、公告方法を定める会社法939条の問題です",
-    "url": "https://corporate-a-lawoffice.com/companiesact940/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "電子公告を公告方法として採用するかは939条、電子公告調査を受ける必要があるかは941条以下を合わせて確認します",
-    "url": "https://corporate-a-lawoffice.com/companiesact940/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "会社法が「一定期間前までに公告」としている公告、決算公告、異議申述期間を定める公告、その他の公告で、それぞれ終期が異なります",
-    "url": "https://corporate-a-lawoffice.com/companiesact940/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "外国会社の日本における登記や公告は、国内会社と同じように扱えない部分があります",
-    "url": "https://corporate-a-lawoffice.com/companiesact940/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "外国会社の登記前取引禁止や公告・代表者退任は、",
-    "url": "https://corporate-a-lawoffice.com/companiesact940/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "【会社法818条・819条・820条】外国会社の登記前取引禁止・公告・代表者退任｜条文の要点と実務ポイント",
-    "url": "https://corporate-a-lawoffice.com/companiesact940/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "会社法440条1項の決算公告",
-    "url": "https://corporate-a-lawoffice.com/companiesact940/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "公告期間を誤ると、公告の効力や登記申請、手続スケジュールに影響するおそれがあります",
-    "url": "https://corporate-a-lawoffice.com/companiesact940/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "特に、効力発生日が決まっている手続では、公告開始日、公告終了日、異議申述期間、登記申請予定日を逆算して管理します",
-    "url": "https://corporate-a-lawoffice.com/companiesact940/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "決算公告は5年間継続する",
-    "url": "https://corporate-a-lawoffice.com/companiesact940/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "決算公告を電子公告で行う場合、電子公告調査機関の調査を受ける必要はありません",
-    "url": "https://corporate-a-lawoffice.com/companiesact940/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "法務省も、決算公告については電子公告調査を受ける必要がない一方、電子公告を公告方法とする会社等が決算公告をする場合には要旨の公告ではなく全文公告が必要になると案内しています",
-    "url": "https://corporate-a-lawoffice.com/companiesact940/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "決算公告は調査不要という点だけに注目すると、5年間掲載の管理を見落としがちです",
-    "url": "https://corporate-a-lawoffice.com/companiesact940/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "しかし、5年間の継続掲載が求められるため、ウェブサイトの更新、ドメイン変更、CMS移行、過年度公告ページの削除などに注意が必要です",
-    "url": "https://corporate-a-lawoffice.com/companiesact940/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "外国会社の登記とは｜日本進出（継続取引）に必要な手続と注意点",
-    "url": "https://corporate-a-lawoffice.com/companiesact940/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "電子公告調査が必要か、調査機関に何を依頼するか、調査結果をどう使うか",
-    "url": "https://corporate-a-lawoffice.com/companiesact940/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "また、電子公告調査機関の調査結果通知は、商業・法人登記の申請書に「公告をしたことを証する書面」として添付できるとされています",
-    "url": "https://corporate-a-lawoffice.com/companiesact940/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "サーバログ、監視ログ、スクリーンショット、調査結果通知を保存しているか",
-    "url": "https://corporate-a-lawoffice.com/companiesact940/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "特に、効力発生日が決まっている手続では、公告開始日、公告終了日、異議申述期間、登記申請予定日を逆算して管理します",
-    "url": "https://corporate-a-lawoffice.com/companiesact940/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ]
- },
- "runs": 7,
+ "new_this_run": {},
+ "runs": 8,
  "first_researched_at": "2026-11-07T08:00:08.044208+00:00"
 }

@@ -5,6 +5,7 @@
 ## デスクリサーチで書かれていない数字を推定する方法（desk research estimating unpublished numbers）
 - 文脈：推定
 - 手順・やり方：
+  - 「嘘をつかずに誠実さを伝えるコツから、留年期間を強みに変えるアピール術まで、面接における「留年理由」の対策をまとめました」（https://unistyleinc.com/techniques/1459）
   - 「地鳴らしにジョインした超大型巨人の数をフェルミ推定してみた！」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
   - 「集団面接の完全対策|流れ・入退室マナーから頻出質問、受かるコツまで網羅」（https://unistyleinc.com/techniques/1459）
   - 「個人面接との違いや、回答が被った時の対処法など、通過するためのコツを紹介します」（https://unistyleinc.com/techniques/1459）
@@ -19,8 +20,15 @@
   - 「ステップ4：妥当性の検証・結論の提示」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
   - 「前のステップでの推定値は約70万トンでしたが、実際の日本の年間コーヒー消費量（約43万トン）と比較すると、大きなズレがあることがわかります」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
   - 「そのような場面では、デザイン思考やSWOT分析など、別のフレームワークや思考法を取り入れることが必要です」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
-  - 「本記事でご紹介した4つのステップを参考に、ぜひ日々のマーケティング活動にフェルミ推定を取り入れてみてください」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
 - 突き合わせ・推定：
+  - 「フェルミ推定とは、実際に調査することが難しい数量や規模を、最低限の知識と論理的思考力を使って短時間で推定する手法です」（https://www.onecareer.jp/articles/1056）
+  - 「例えば「日本にある電柱の数」など一見予想がつかない数値を、国土面積や身近にある電柱の数などから論理的に推定します」（https://www.onecareer.jp/articles/1056）
+  - 「正直に申し上げますと、筆者が初めてフェルミ推定のお題を見たときの感想は「知るかそんなもん」でした」（https://www.onecareer.jp/articles/1056）
+  - 「しかしながら、フェルミ推定は思いのほか仕事の現場で役立ちます」（https://www.onecareer.jp/articles/1056）
+  - 「そんな中で実際に商品をモノにするには「わけのわからない数字も論理的思考力だけで推定する」力が求められました」（https://www.onecareer.jp/articles/1056）
+  - 「フェルミ推定は社会人生活を送る上で、極めて実践的な技術」（https://www.onecareer.jp/articles/1056）
+  - 「フェルミ推定は、」（https://www.onecareer.jp/articles/1056）
+  - 「以下、フェルミ推定を出題する企業をご紹介します」（https://www.onecareer.jp/articles/1056）
   - 「地鳴らしにジョインした超大型巨人の数をフェルミ推定してみた！」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
   - 「「日本にコンビニは何店舗？」正解を知らなくても概数を出せるフェルミ推定の考え方」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
   - 「【フェルミ推定】例題・出題例13選！考え方と解答例も紹介｜就活サイト【ワンキャリア】」（https://www.onecareer.jp/articles/1056）
@@ -28,14 +36,6 @@
   - 「外資系企業の選考が進むにつれ「フェルミ推定」という聞きなれない単語を耳にされた方も多いかと思います」（https://www.onecareer.jp/articles/1056）
   - 「フェルミ推定は訓練すればするほどスラスラ解けるようになる一方で、未経験者にはまるでやり方が思いつかない特殊な課題」（https://www.onecareer.jp/articles/1056）
   - 「にはフェルミ推定の利用を求められるため、対策せねば散ることとなります」（https://www.onecareer.jp/articles/1056）
-  - 「そこで今回はフェルミ推定って何？ という方でも解きやすい簡単な例題から実際の選考で出題された例題を用いて、フェルミ推定のノウハウをお伝えしたいと思います」（https://www.onecareer.jp/articles/1056）
-  - 「フェルミ推定の基本例題8選・解答例」（https://www.onecareer.jp/articles/1056）
-  - 「フェルミ推定の人気・新着記事まとめ｜note」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
-  - 「フェルミ推定は、限られた情報から論理的な仮説を用いて数量を概算する思考法です」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
-  - 「コンサルの面接対策や市場規模の算出、AIを活用した検証など、実務的な活用法に関する記事が集まっています」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
-  - 「フェルミ推定は、限られた情報から論理的な仮説を用いて数量を概算する思考法です…」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
-  - 「【第40回】観客動員が伸び悩む地方の球団は、どうやって売上を伸ばすべきか｜フェルミ推定・ケース面接対策」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
-  - 「社員旅行は、辞めない理由にならないかもしれない｜生成AI研修の福利厚生をフェルミ推定した」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
 - 一次情報の探し方：
   - 「【回答例付】面接で「あなたを採用するメリットは何か」と聞かれた際の答え方」（https://unistyleinc.com/techniques/1459）
   - 「面接では「あなたを採用するメリットは何か」と聞かれることがあります」（https://unistyleinc.com/techniques/1459）
@@ -53,6 +53,7 @@
   - 「さらに、数字を探すなら「統計」「実態調査」、企業の発表を探すなら「決算説明資料」など、資料の種類を追加します」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
   - 「"発注" "飲食店" filetype:pdf」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
 - 失敗・落とし穴：
+  - 「「卒論のテーマは何ですか？」面接で失敗しない回答法【回答例付】」（https://unistyleinc.com/techniques/1459）
   - 「面接で「大学を選んだ理由」を答える際のポイント①正直に語る②専門外の人でも理解できるように言葉選びに注意する③自分の言葉で語る」（https://unistyleinc.com/techniques/1459）
   - 「面接で希望勤務地の質問に対する考え方・答える際の注意点・回答例について解説します」（https://unistyleinc.com/techniques/1459）
   - 「【必見】ITコンサルタントを外注するには？注意点や選定方法を徹底解説」（https://consul-data-bank.com/insight/5868/）
@@ -67,8 +68,9 @@
   - 「企業側の意図■課題や困難に対する乗り越え方を見たい社会人になると、失敗や挫折など乗り越えるべき壁が出てきます」（https://unistyleinc.com/techniques/1459）
   - 「具体的な数字やエピソードがない具体的な数字やエピソードがなければ、あなたの成果を正しく伝えられない可能性が高いので注意しましょう」（https://unistyleinc.com/techniques/1459）
   - 「​​また、よくある志望動機の作成パターンとして、(6)の同業比較から考え始めてしまうことが挙げられますが、狭い視点から1社1社考えることは難しく、また論理性に欠けるケースも多いため注意しましょう」（https://unistyleinc.com/techniques/1459）
-  - 「エントリーシート(ES)志望動機におけるフレームワーク-6つのステップで書き方を解説-ここからは、先ほど紹介した志望動機のフレームワークを基に、各ステップの詳細や注意点について解説します」（https://unistyleinc.com/techniques/1459）
 - 実例：
+  - 「【完全版】ケース面接必勝法｜元面接官が「受かる考え方」を全部書きました（例題6問・小技15個・1.3万字）」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
+  - 「ケース面接ニキ / コンサル転職とキャリアの話」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
   - 「元外コン面接官が書類からケース面接まで全部まとめた【コンサル転職の参考書】」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
   - 「フェルミ推定を「数字当て」で終わらせない分解のしかた｜ケース面接につながる例題3問・ツリー図つき」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
   - 「例えば「日本にある電柱の数」など一見予想がつかない数値を、国土面積や身近にある電柱の数などから論理的に推定します」（https://www.onecareer.jp/articles/1056）
@@ -82,8 +84,6 @@
   - 「EYストラテジー・アンド・コンサルティング｜テクノロジーコンサルタント2025年卒本選考のケース面接」（https://www.onecareer.jp/articles/1056）
   - 「ケース面接、人物面接ともに結論ファーストで答えることに気をつけました」（https://www.onecareer.jp/articles/1056）
   - 「東大生が書いた 問題を解く力を鍛えるケース問題ノート 50の厳選フレームワークで、どんな難問もスッキリ「地図化」」（https://www.onecareer.jp/articles/1056）
-  - 「フェルミ推定・ケース面接を対策！ポイントは「論理性・コミュ力・楽しむ姿勢」：外資戦略コンサル徹底解説Vol.2」（https://www.onecareer.jp/articles/1056）
-  - 「外資戦略系コンサルの選考などで出題されるフェルミ推定やケース面接」（https://www.onecareer.jp/articles/1056）
 - 検索結果の抜粋：
   - 「What Is Desk Research? Meaning, Methodology, ExamplesDesk Research: A Step-by-Step Method | MI ToolsDesk Research: What It Is, Methods & When to Use It | PRSScope and financial impact of unpublished data and unused ...Desk Research: Step-by-Step Guide & Tips | UXAtlasDesk research: finding and evaluating sources you can rely onDesk Research: What It Is, 12 Sources, and Steps (2026) — Jun 24, 2026 」（https://www.meltwater.com/en/blog/desk-research）
   - 「What Is Desk Research? Meaning, Methodology, ExamplesDesk Research: A Step-by-Step Method | MI ToolsDesk Research: What It Is, Methods & When to Use It | PRSDesk Research: Step-by-Step Guide & Tips | UXAtlasScope and financial impact of unpublished data and unused ...Desk research: finding and evaluating sources you can rely onDesk Research: What It Is, 12 Sources, and Steps (2026) — Jun 24, 2026 」（https://www.meltwater.com/en/blog/desk-research）
@@ -10659,11 +10659,11 @@
 
 ## 要約・翻訳の段で1件の事例が「複数」「相次ぐ」に広がる誇張と日付の混同を原文照合で見つける手順（別のモデル・人での照合）-求人 -就活（detect overgeneralization single case to multiple in summaries date confusion verify against original text）
 - 文脈：検証
-- 手順・やり方：記載なし（読んだ16頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ16頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ16頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ16頁・検索12回）
-- 実例：記載なし（読んだ16頁・検索12回）
+- 手順・やり方：記載なし（読んだ6頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ6頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ6頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ6頁・検索12回）
+- 実例：記載なし（読んだ6頁・検索12回）
 
 ## 決算公告を公告の方法（官報・日刊新聞・電子公告）から探す手順と、電子公告の掲載期間・官報だけの検索の網羅の穴（登記の公告をする方法の欄を先に見る）-求人 -就活（find company financial statement public notice by publication method electronic public notice Japan coverage gap）
 - 文脈：method
@@ -12840,15 +12840,36 @@
 ## データ報道の表計算の点検と検証の手引き（GIJN・DataJournalism.com・ethosrisk の OSINT の実務。前回 WebFetch 不達の本文を取る）（data journalism spreadsheet checks verification handbook OSINT best practices）
 - 文脈：突き合わせ
 - 手順・やり方：
-  - 「Investigators should verify online findings before treating them as reliable evidence. A single post, photo, or profile may not tell the full story, so investigators should look for supporting information from other sources. The Berkeley Protocol, an international standard for digital open-source investigations, identifies verification as a key step in the investigative process.」（https://ethosrisk.com/blog/osint-best-practices/）
-  - 「Familiarize yourself with search and research methods, and new tools.」（https://datajournalism.com/read/handbook/verification-2/1-the-opportunity-for-using-open-source-information-and-user-generated-content-in-investigative-work）
+  - 「The time is now for journalists to halt the doom and gloom narrative around the climate crisis and instead reframe the narrative with a solutions approach. Journalist Sherry Ricchiardi examines how to tell such solutions stories with data by highlighting case studies from Unbias The News and the BBC.」（https://datajournalism.com/）
+  - 「How to approach environmental investigations with OSINT」（https://datajournalism.com/）
+  - 「How to cover the climate crisis with a focus on gender」（https://datajournalism.com/）
+  - 「Scientific evidence clearly shows that women bear the brunt of climate change, yet until recently, scant attention has been paid to their plight. In many instances, the data are there, waiting to be discovered. Sherry Ricchiardi examines how to cover this pressing topic with solutions reporting underpinned by data.」（https://datajournalism.com/）
+  - 「Reporting beyond the case numbers: How to brainstorm COVID-19 data story ideas」（https://datajournalism.com/）
+  - 「In order to display three-dimensional world we live in, journalists are forced to distort reality. And every map does so in its own way. Maarten Lambrechts looks at commonly used maps and how to avoid being misled by them.」（https://datajournalism.com/）
+  - 「Many journalists see themselves as “word people” and shy away from writing about numbers. Brant Houston shows how to embrace math with an overview of spreadsheets and functions for beginners.」（https://datajournalism.com/）
+  - 「As new challenges have emerged in the digital sphere, wider opportunities to carry out more comprehensive investigations have arisen as well. The authors of the book take the reader on a walk-through to hone their online investigation tactics, providing them with step-by-step guidance to apply research, fact-checking, and data journalism techniques.」（https://datajournalism.com/）
+  - 「The first edition of the Verification Handbook has become a definitive reference for professionals worldwide. This book laid the foundations for the process of digital content verification and opened a necessary debate about the steps to follow for ensuring the accuracy of reporting within emergency situations.」（https://datajournalism.com/）
+  - 「Doing Journalism with Data: First Steps, Skills and Tools」（https://datajournalism.com/）
+  - 「How to turn numbers into stories」（https://datajournalism.com/）
+  - 「"Hi Vincent. I tried searching for flourish.studio/newsroom but it says the page doesn't exist. Any advice on how to..."」（https://datajournalism.com/）
+  - 「How to use Chartbuilder」（https://datajournalism.com/）
+  - 「The Algorithms Beat: Angles and Methods for Investigation」（https://datajournalism.com/）
+  - 「Let’s get physical: how to represent data through touch」（https://datajournalism.com/）
+- 失敗・落とし穴：
+  - 「The time is now for journalists to halt the doom and gloom narrative around the climate crisis and instead reframe the narrative with a solutions approach. Journalist Sherry Ricchiardi examines how to tell such solutions stories with data by highlighting case studies from Unbias The News and the BBC.」（https://datajournalism.com/）
+  - 「"In these chart-builder videos some common data presentation mistakes are made. for example the scatter plot in this..."」（https://datajournalism.com/）
 - 実例：
+  - 「The time is now for journalists to halt the doom and gloom narrative around the climate crisis and instead reframe the narrative with a solutions approach. Journalist Sherry Ricchiardi examines how to tell such solutions stories with data by highlighting case studies from Unbias The News and the BBC.」（https://datajournalism.com/）
+  - 「What can data journalists do to report on Internet shutdowns, which are becoming increasingly common by governments? This article provides a guide with real-world examples you can use to raise your voice.」（https://datajournalism.com/）
+  - 「Reporting beyond the case numbers: How to brainstorm COVID-19 data story ideas」（https://datajournalism.com/）
+  - 「It is a free online restyler that converts a chart (Excel/Google Sheets) or, for example, a..."」（https://datajournalism.com/）
+  - 「"In these chart-builder videos some common data presentation mistakes are made. for example the scatter plot in this..."」（https://datajournalism.com/）
+  - 「The business case for data journalism」（https://datajournalism.com/）
   - 「Journalists, human rights workers and others are constantly making use of open data, user-generated content and other open source information to produce critically important investigations of everything from conflict zones to human rights abuse cases and international corruption.」（https://datajournalism.com/read/handbook/verification-2/1-the-opportunity-for-using-open-source-information-and-user-generated-content-in-investigative-work）
   - 「It’s all thanks to open source information and user-generated content. As chapters and case studies in this Handbook detail, this same material is being used by investigative journalists in Africa and by groups such as Amnesty International and WITNESS to expose fraud, document war crimes and to help the wrongly accused defend themselves in court.」（https://datajournalism.com/read/handbook/verification-2/1-the-opportunity-for-using-open-source-information-and-user-generated-content-in-investigative-work）
   - 「This companion to the original Verification Handbook offers detailed guidance and illustrative case studies to help journalists, human rights workers and others verify and use open source information and user-generated content in service of investigative projects.」（https://datajournalism.com/read/handbook/verification-2/1-the-opportunity-for-using-open-source-information-and-user-generated-content-in-investigative-work）
-- 突き合わせ・推定：記載なし（読んだ12頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ12頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ27頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ27頁・検索12回）
 
 ## AIで作った業界分析・訂正の窓口の無い記事の見分け方と扱い（生成物を一次で取り直す）（how to identify AI-generated research reports and handle sources without corrections policy）
 - 文脈：突き合わせ
@@ -14389,6 +14410,7 @@
 ## 実質の持ち主（UBO）と名義役員・秘匿法域のたどり方（EBU Spotlight・OCCRP の手引き・登記の原本で確かめる・暫定の印）（beneficial ownership tracing nominee directors secrecy jurisdictions OSINT tutorial EBU Spotlight OCCRP）
 - 文脈：同一性・所有
 - 手順・やり方：
+  - 「STEP3：」（https://www.tdb.co.jp/services/lineup/ubo/）
   - 「確認の方法は、顧客の代表者等から申告を受ける方法です（施行規則の定め）」（https://note.com/amlcftmukudori/n/ne95e558ca244）
   - 「犯収法令で定められた確認の方法は、顧客の代表者等から申告を受ける方法です」（https://note.com/amlcftmukudori/n/ne95e558ca244）
   - 「【前提法令：入門①】AMLとは？マネーロンダリングの3ステップと実務の全体像」（https://note.com/amlcftmukudori/n/ne95e558ca244）
@@ -14403,7 +14425,6 @@
   - 「現地の登録代理人や専門家への照会を検討する方法もありますが、時間と費用がかかります」（https://note.com/amlcftmukudori/n/nf1f7c8491c0e）
   - 「これまで「名義人を立てて実際の出資者を伏せる」というやり方で進出していた場合、今後は当局に対して実質的所有者の情報を正確に提出・管理しなければならず、」（https://note.com/vnhr/n/n62aa660f36ef）
   - 「UBO（実質的支配者）とは？重要性や確認方法・注意点も解説 | ビジネスコンシェルジュ powered by お名前.com」（https://www.onamae.com/business/article/242733/）
-  - 「UBO（実質的支配者）とは？重要性や確認方法・注意点も解説」（https://www.onamae.com/business/article/242733/）
 - 突き合わせ・推定：
   - 「間接保有は「掛け算」ではなく「合算」で判定すること（施行規則の定め）」（https://note.com/amlcftmukudori/n/ne95e558ca244）
   - 「図解5：間接保有の例：掛け算ではなく合算」（https://note.com/amlcftmukudori/n/ne95e558ca244）
@@ -14469,6 +14490,10 @@
   - 「そのため、専門機関の調査を経ることで、複数の情報源をもとにした詳細な調査が行われ、調査結果の正誤を確認できます」（https://www.onamae.com/business/article/242733/）
   - 「例えば、確認したい取引先の」（https://www.onamae.com/business/article/242733/）
 - 検索結果の抜粋：
+  - 「【03顧客管理-完全版#5】法人UBO特定 25%ルールの実務適用と境界線｜A... — May 6, 2026 · 最新の改正情報は警察庁・金融庁ホームページ等でご確認ください。 本章の要旨（120〜160字）：法人顧客の実質的支配者（UBO）特定は犯収法施行規則第11条第2項の4パターン（25%超→支配的影響力→収益分配権→代表者フォールバック）で完結します。」（https://note.com/amlcftmukudori/n/n5fc3c39bb120）
+  - 「【顧客管理：実務①】KYB実務ガイド──UBO特定の判断フローと外国法人対... — Apr 4, 2026 · 最新の改正情報は金融庁ホームページ等でご確認ください。 この記事では、法人顧客の確認（KYB）で中心になる実質的支配者（UBO）の特定を取り上げます。 判定の順序、間接保有の数え方、外国法人で情報が取れないときの考え方を整理します。」（https://note.com/amlcftmukudori/n/nf1f7c8491c0e）
+  - 「法人KYCと実質的支配者 (UBO)確認の流れ｜ロイのたわ言 — Dec 11, 2025 · 法人のお客さんと取引するときって、個人のKYCよりちょっとややこしいんだよね。 なんでかっていうと、法人そのものの実態と、中の“人”もチェックしないといけないから。 ざっくり流れを話すと、こんな感じ。」（https://note.com/argentroi/n/n20e6a3206229）
+  - 「【ベトナム会社法改正】名義貸しスキームは終焉へ──「実質的所有者」... — Jul 11, 2025 · 2025年7月1日、ベトナムで施行された改正企業法（第76/2025/QH15号）は、企業の**「実質的所有者（UBO：Ultimate Beneficial Owner）」** に関する情報の申告・管理を義務化しました。」（https://note.com/vnhr/n/n62aa660f36ef）
   - 「【顧客管理：入門④】UBO（実質的支配者）とは──法人の「真の所有者」... — May 26, 2026 · この記事では、実質的支配者（UBO）の考え方と判定の順序を、犯収法と施行規則の定めに沿って、具体的な場面を交えながら整理します。 KYB（法人の確認）の全体像は、【顧客管理：実務①】KYB実務ガイドもあわせてご覧ください。」（https://note.com/amlcftmukudori/n/ne95e558ca244）
   - 「【03顧客管理-完全版#5】法人UBO特定 25%ルールの実務適用と境界線｜A... — May 6, 2026 · 最新の改正情報は警察庁・金融庁ホームページ等でご確認ください。 本章の要旨（120〜160字）：法人顧客の実質的支配者（UBO）特定は犯収法施行規則第11条第2項の4パターン（25%超→支配的影響力→収益分配権→代表者フォールバック）で完結します。本章は同条第3項の間接保有合算と、EDD時に ...」（https://note.com/amlcftmukudori/n/n5fc3c39bb120）
   - 「法人KYCと実質的支配者 (UBO)確認の流れ｜ロイのたわ言 — Dec 11, 2025 · → 情報の信頼性、本人確認書類の真正性、制裁リストとの照合など。 ③ 法人KYCの情報とUBO情報を合わせて、リスク評価する ここが“AML担当の腕の見せどころ”。 事業内容が妙に複雑じゃない？ 株主が海外のタックスヘイブン？ UBOが何人も入れ替わってる？」（https://note.com/argentroi/n/n20e6a3206229）

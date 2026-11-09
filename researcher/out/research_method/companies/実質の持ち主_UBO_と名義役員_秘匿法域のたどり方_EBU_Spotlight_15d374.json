@@ -8,125 +8,101 @@
  ],
  "context": "同一性・所有",
  "kind": "market",
- "researched_at": "2026-11-08T21:33:16.207391+00:00",
+ "researched_at": "2026-11-09T08:22:07.541460+00:00",
  "evidence": {
-  "一次情報の探し方": [
+  "失敗・落とし穴": [
    {
-    "quote": "厳格な確認が必要な場合は、株主名簿や有価証券報告書など、議決権の保有状況を示す書類の確認も行います（施行規則の定め）",
-    "url": "https://note.com/amlcftmukudori/n/ne95e558ca244",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "国内では、2022年1月に、商業登記所による実質的支配者情報一覧の保管制度が始まっています",
-    "url": "https://note.com/amlcftmukudori/n/ne95e558ca244",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "金融庁FAQは、申告の真正性を裏付ける資料の例として、株主名簿、有価証券報告書、法人税確定申告書の別表等を挙げ、実質的支配者リスト制度を活用することも考えられるとしています",
-    "url": "https://note.com/amlcftmukudori/n/ne95e558ca244",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ハイリスク取引にあたる場合は、資本多数決法人なら、株主名簿や有価証券報告書など議決権の保有状況を示す書類も確認し、代表者等からの申告も受けます",
-    "url": "https://note.com/amlcftmukudori/n/ne95e558ca244",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "登記事項証明書（履歴事項全部証明書）をもらう",
-    "url": "https://note.com/argentroi/n/n20e6a3206229",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "株主名簿や有価証券報告書など、議決権の保有状況を示す書類の確認です",
-    "url": "https://note.com/amlcftmukudori/n/nf1f7c8491c0e",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "基本確認：名称・本店所在地を確認した／事業内容を、定款や登記事項証明書など規則が挙げる書類で確認した／取引目的を確認した／取引担当者（代表者等）の本人特定事項を確認した",
-    "url": "https://note.com/amlcftmukudori/n/nf1f7c8491c0e",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "企業登録内容の変更登記を行う際、実質的支配者に関する情報の追加提出が必要です",
-    "url": "https://note.com/vnhr/n/n62aa660f36ef",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "→ すでに名義貸しスキームを用いている場合、変更登記の手続き時に当局へ真の所有者情報を開示しなければならず、過去の名義スキームが問題視される可能性があります",
-    "url": "https://note.com/vnhr/n/n62aa660f36ef",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "UBOの定義は国によって異なるが、多くの場合「25％の閾値」が採用されている",
+    "quote": "UBO（実質的支配者）とは？重要性や確認方法・注意点も解説 | ビジネスコンシェルジュ powered by お名前.com",
     "url": "https://www.onamae.com/business/article/242733/",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "また、相手企業の商号変更や本店移転といった登記変更があった際は、背後の資本も動いている可能性があるため、定期チェックを待たずに再確認を行う体制を構築すべきでしょう",
+    "quote": "UBO（実質的支配者）とは？重要性や確認方法・注意点も解説",
     "url": "https://www.onamae.com/business/article/242733/",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "つまり、法人の実態を把握するためには、登記上の代表者を確認するだけでなく、「最終的に誰がその法人を所有・支配しているのか」という視点を持つことが大切です",
+    "quote": "海外対応おすすめの反社チェックツール10選を徹底比較！海外・国際取引における反社チェックとは？注意点や方法を解説",
+    "url": "https://www.onamae.com/business/article/242733/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ここでは、UBOコンプライアンスにおける注意点を解説します",
+    "url": "https://www.onamae.com/business/article/242733/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "実質的支配者（UBO）とは？確認方法と判断基準、取引先調査の注意点を解説 | RISK EYES",
     "url": "https://www.riskeyes.jp/hansha-check-column/347",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "※実際の該当性は法人形態や支配関係などによって異なるため、公的機関の最新情報をご確認ください",
+    "quote": "実質的支配者（UBO）とは？確認方法と判断基準、取引先調査の注意点を解説",
     "url": "https://www.riskeyes.jp/hansha-check-column/347",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "これは、株式会社（特例有限会社を含む）が自ら作成した実質的支配者リストについて法務局へ申出を行い、登記官が所定の添付書面により内容を確認したうえで保管し、認証文付きの写しを交付する制度です",
+    "quote": "本記事では、実質的支配者の意味や25％・50％の判断基準、確認方法、取引先調査で注意したいポイントをわかりやすく解説します",
     "url": "https://www.riskeyes.jp/hansha-check-column/347",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "欧州では、このそれぞれの持ち分を掛け合わすこの計算方法が採用されています",
-    "url": "https://c-datalab.com/ja/blog/idr-matching_20240628",
+    "quote": "取引先調査における実質的支配者の確認方法と注意点",
+    "url": "https://www.riskeyes.jp/hansha-check-column/347",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "アジア言語におけるビジネスIDデータ検証、言語間のヒューリスティック翻字解析、非構造化データのキュレーション、ビジネスから地理のIDデータ検証など、いくつかの分野における特許の共同保有者でもある",
-    "url": "https://c-datalab.com/ja/blog/idr-matching_20240628",
+    "quote": "海外取引では制裁対象者による所有にも注意する",
+    "url": "https://www.riskeyes.jp/hansha-check-column/347",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "この基準は、多くの主要な国で採用されています",
+    "quote": "ここで注意したいのは、「25％以上」ではなく「25％を超える」という点です",
+    "url": "https://www.riskeyes.jp/hansha-check-column/347",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ここで注意したいのは、",
+    "url": "https://www.riskeyes.jp/hansha-check-column/347",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "同じ「50％」という数字が出てきますが、制度の目的や判定方法を混同しないよう注意しましょう",
+    "url": "https://www.riskeyes.jp/hansha-check-column/347",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "株主構成や資本関係は変化するため、過去の情報だけで判断せず、情報の最新性にも注意が必要です",
+    "url": "https://www.riskeyes.jp/hansha-check-column/347",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "資源が豊富な企業であっても、UBOコンプライアンスに取り組む際に同じような罠にはまることがあります",
     "url": "https://jinjibu.jp/spcl/goglobal/cl/detl/6206/",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "シンガポール、スイス、中国、日本などの主要経済圏も、25％の閾値を基本基準として採用しています",
+    "quote": "問題：国ごとに「実質的所有者」の定義が異なるため、誤りが生じやすくなります",
     "url": "https://jinjibu.jp/spcl/goglobal/cl/detl/6206/",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "海外人材紹介&採用、雇用代行、バックオフィスの",
-    "url": "https://jinjibu.jp/spcl/goglobal/cl/detl/6206/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "人材採用、グローバル",
+    "quote": "なぜ重要か：UBO規制は複雑で誤りはコストに直結します",
     "url": "https://jinjibu.jp/spcl/goglobal/cl/detl/6206/",
     "pass": 3,
     "first_seen": "2026-11-08"
@@ -138,448 +114,32 @@
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "採用競争が激化するなか、社内リソースの不足や選考スピードの向上を目的に、採用代行（RPO）や面接代行サービスを活用する企...",
-    "url": "https://jinjibu.jp/spcl/goglobal/cl/detl/6206/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "サービス利用開始 COSMOSNETから、PDFまたはcsvファイルをダウンロードいただけます",
-    "url": "https://www.tdb.co.jp/services/lineup/ubo/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "この基準は、以下の規制当局・報告制度で広く採用されています",
+    "quote": "十分なリソースを持つ企業であっても、UBOコンプライアンスへの対応において同じような落とし穴に陥ることがあります",
     "url": "https://goglobal.co.jp/news/849/",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "ただし、すべての国が同じアプローチを採用していると考えるべきではありません",
-    "url": "https://goglobal.co.jp/news/849/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "現在の法人設立は、単なる法的な登記手続きではありません",
-    "url": "https://goglobal.co.jp/news/849/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "登記簿の代表者や名簿上の株主とは限らず、法人顧客との取引時確認で必ず特定する",
-    "url": "https://amlnavi.com/glossary/ubo",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ここで大事なのが、法人相手の確認は会社の名前と登記を見るだけでは終わらない、という点です",
-    "url": "https://timewell.jp/columns/kyb-antisocial-check-guide",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "商業登記所の実質的支配者リスト制度（2022年1月開始）",
-    "url": "https://timewell.jp/columns/kyb-antisocial-check-guide",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "株式会社が申し出れば、登記官がUBO情報を確認・保管し、認証文付きの写しを無料で交付してくれる仕組みです",
-    "url": "https://timewell.jp/columns/kyb-antisocial-check-guide",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ちなみに、UBO情報を登記事項として義務的に登録する制度は、2026年7月時点では導入されていません",
-    "url": "https://timewell.jp/columns/kyb-antisocial-check-guide",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "登記情報、所在地、事業内容、そしてUBOまで確認します",
-    "url": "https://timewell.jp/columns/kyb-antisocial-check-guide",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "2025年6月24日公布の施行規則改正で、スマートフォンに搭載したマイナンバーカードの公的個人認証を使う本人確認方法が新設され、同時になりすましリスクの高い確認方法が廃止されました",
-    "url": "https://timewell.jp/columns/kyb-antisocial-check-guide",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "2027年4月1日施行予定の施行規則改正で、非対面の本人確認は、本人確認書類の画像を送る方式（いわゆるホ方式）や写しの送付が原則廃止され、マイナンバーカードの公的個人認証（JPKI）に原則一本化される予定です",
-    "url": "https://timewell.jp/columns/kyb-antisocial-check-guide",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "会社の登記だけでなく、実質的支配者（UBO）という「背後の個人」まで遡るのが特徴",
-    "url": "https://timewell.jp/columns/kyb-antisocial-check-guide",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "UBOが登場する場面は3つ（取引時確認=必須、定款認証申告=設立時必須、登記所リスト制度=任意）で、それぞれ別制度",
-    "url": "https://timewell.jp/columns/kyb-antisocial-check-guide",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "本記事は一部にAIを用いて作成し、公開前に人間が一次情報の確認と編集を行っています",
-    "url": "https://timewell.jp/columns/kyb-antisocial-check-guide",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "2024年度の経産省統計で、輸出管理違反の過半が該非判定に起因",
-    "url": "https://timewell.jp/columns/kyb-antisocial-check-guide",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "停止規則は「将来の延長がなければ2026年11月9日に終わる」と条件付きで、米中は2026年9月に2027年1月10日までの延長を発表しましたが、2026年10月5日時点で米国の連邦官報には延長の規則が載っていません",
-    "url": "https://timewell.jp/columns/kyb-antisocial-check-guide",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "米国連邦官報（90 FR 47201・90 FR 50857）・15 CFR・中国商務部の公表にもとづく",
-    "url": "https://timewell.jp/columns/kyb-antisocial-check-guide",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "2. 登記事項証明書を取得するよりも、安価かつ瞬時に役員情報を確認できます",
-    "url": "https://cdn.kyodonewsprwire.jp/prwfile/release/M101737/202403218301/_prw_PR1fl_Zj5pJFzj.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "https://www.soumu.go.jp/main_content/000478067.pdf",
-    "url": "https://cdn.kyodonewsprwire.jp/prwfile/release/M101737/202403218301/_prw_PR1fl_Zj5pJFzj.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "買い手から25%または支配までの署名済みUBO開示を取得し、関係するすべての国にわたる所有チェーンをマッピングし、公式登記簿で詳細を確認、UBOを制裁とPEP該当性でスクリーニングし、リスクベースのスケジュールで文書化と更新を行う",
+    "quote": "2022年以降のロシア関連の制裁執行は、間接的支配や多層中間体の特定失敗を浮き彫りにしている",
     "url": "https://academy.reevol.com/ja/buyer-supplier-risk/ubo-verification-cross-border/",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "登記簿が利用できない場合は、企業の提出書類、規制当局のポータル、公証済みの宣誓供述を用いる",
-    "url": "https://academy.reevol.com/ja/buyer-supplier-risk/ubo-verification-cross-border/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "名義委託者（nominator）の本人開示を求め、登記簿の記録や、登記簿に記録がない場合は宣誓供述で検証する",
-    "url": "https://academy.reevol.com/ja/buyer-supplier-risk/ubo-verification-cross-border/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "FATF相互審査は、完全に運用され検証メカニズムを備えた中央BO登記簿を実現している国が少数であることを示している",
-    "url": "https://academy.reevol.com/ja/buyer-supplier-risk/ubo-verification-cross-border/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "登記簿のカバレッジにギャップがある前提で計画する",
-    "url": "https://academy.reevol.com/ja/buyer-supplier-risk/ubo-verification-cross-border/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "加盟国の登記簿が存在し、2022年のCJEU判決（C-37/20およびC-601/20の併合事件）により一般公開アクセスは制限された一方、義務対象者や正当な利害関係者には各国ルールの下でアクセスが残る",
-    "url": "https://academy.reevol.com/ja/buyer-supplier-risk/ubo-verification-cross-border/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "アクセス可能な範囲で登記簿の抜粋を取得し、必要に応じて正当な利害の根拠を保存し、EU外の階層がある場合は越境の所有関係をマップする",
-    "url": "https://academy.reevol.com/ja/buyer-supplier-risk/ubo-verification-cross-border/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "買い手UBOフォーム、企業登記の抜粋、UBOのID資料、制裁スクリーニングログを提出する",
-    "url": "https://academy.reevol.com/ja/buyer-supplier-risk/ubo-verification-cross-border/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "登記簿の抜粋とUBOのIDを提供して限度審査を迅速化する",
-    "url": "https://academy.reevol.com/ja/buyer-supplier-risk/ubo-verification-cross-border/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "チェーン上の全法人の登記番号と、該当する場合は登録代理人の担当者連絡先も求める",
-    "url": "https://academy.reevol.com/ja/buyer-supplier-risk/ubo-verification-cross-border/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ステップ2：関係法域での登記簿検証",
-    "url": "https://academy.reevol.com/ja/buyer-supplier-risk/ubo-verification-cross-border/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "当該法人の州務長官登記を取得し、次に買い手の宣誓でCTA整合のBO詳細を求める",
-    "url": "https://academy.reevol.com/ja/buyer-supplier-risk/ubo-verification-cross-border/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "会社登記の検索と、BO届出を確認する認証済み代理人レター",
-    "url": "https://academy.reevol.com/ja/buyer-supplier-risk/ubo-verification-cross-border/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "独立の登記代理人チェックを委託し、メディアと訴訟の拡張調査を行う",
-    "url": "https://academy.reevol.com/ja/buyer-supplier-risk/ubo-verification-cross-border/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "登記簿の抜粋取得、アクセス根拠を文書化",
-    "url": "https://academy.reevol.com/ja/buyer-supplier-risk/ubo-verification-cross-border/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "AI-powered systems simultaneously query hundreds of data sources including corporate registries in 200+ countries, beneficial ownership registers, company formation agents, financial databases, court records and legal filings, news archives and adverse media, and social media and professional networks.",
+    "quote": "Algorithmic Bias and False Positives",
     "url": "https://www.flagright.com/post/the-role-of-ai-in-unmasking-beneficial-ownership-structures",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "Raw data arrives in inconsistent formats—some registries provide XML, others PDF documents, many only offer web interfaces. AI systems normalize this chaos:",
+    "quote": "Machine learning models can develop biases based on training data. If most historical enforcement actions targeted entities from specific countries, models may over-flag entities from those countries while under-weighting genuine risks elsewhere.",
     "url": "https://www.flagright.com/post/the-role-of-ai-in-unmasking-beneficial-ownership-structures",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "from PDFs, images, HTML, and databases into structured data",
+    "quote": "Regularly test models for bias across protected categories and jurisdictions. Maintain balanced training datasets. Implement human-in-the-loop review for high-stakes decisions. Monitor false positive rates and continuously retune models.",
     "url": "https://www.flagright.com/post/the-role-of-ai-in-unmasking-beneficial-ownership-structures",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Natural language processing extracts key fields from unstructured documents, identifying beneficial owners mentioned in free-text disclosures, annual reports, or legal filings with 90%+ accuracy.",
-    "url": "https://www.flagright.com/post/the-role-of-ai-in-unmasking-beneficial-ownership-structures",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Modern AI systems process beneficial ownership declarations in any format: scanned PDFs, photographed documents, handwritten forms, multi-language documents, and complex layouts with tables and checkboxes.",
-    "url": "https://www.flagright.com/post/the-role-of-ai-in-unmasking-beneficial-ownership-structures",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Leading platforms recognize thousands of beneficial ownership form types including FinCEN BOI reports (USA), PSC registers (UK), UBO declarations (EU), company registry filings (global), and bank KYB intake forms.",
-    "url": "https://www.flagright.com/post/the-role-of-ai-in-unmasking-beneficial-ownership-structures",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "SNS・note（note・本文）": [
-   {
-    "quote": "【顧客管理：入門④】UBO（実質的支配者）とは──法人の「真の所有者」を特定する犯収法の判定フロー｜AMLコンプラの人[むくどり]",
-    "url": "https://note.com/amlcftmukudori/n/ne95e558ca244",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "【顧客管理：入門④】UBO（実質的支配者）とは──法人の「真の所有者」を特定する犯収法の判定フロー",
-    "url": "https://note.com/amlcftmukudori/n/ne95e558ca244",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "実質的支配者（UBO）は、法人を実質的に支配する自然人のことで、法人顧客の取引時確認で確認します。たとえば、株主が個人3人で出資比率が40%・35%・25%の会社では、代表取締役が実質的支配者とは限りません。",
-    "url": "https://note.com/amlcftmukudori/n/ne95e558ca244",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "この記事では、実質的支配者（UBO）の考え方と判定の順序を、犯収法と施行規則の定めに沿って、具体的な場面を交えながら整理します。KYB（法人の確認）の全体像は、【顧客管理：実務①】KYB実務ガイドもあわせてご覧ください。最後によくある質問にもお答えします。",
-    "url": "https://note.com/amlcftmukudori/n/ne95e558ca244",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "実質的支配者（UBO）とは何か、なぜ法人の取引時確認で確認するのか",
-    "url": "https://note.com/amlcftmukudori/n/ne95e558ca244",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "判定の順序と、議決権の50%超を持つ人がいる場合の例外",
-    "url": "https://note.com/amlcftmukudori/n/ne95e558ca244",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "間接保有は「掛け算」ではなく「合算」で判定すること（施行規則の定め）",
-    "url": "https://note.com/amlcftmukudori/n/ne95e558ca244",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "図解1：実質的支配者の判定の順序（資本多数決法人・それ以外）",
-    "url": "https://note.com/amlcftmukudori/n/ne95e558ca244",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "【顧客管理：実務①】KYB実務ガイド──UBO特定の判断フローと外国法人対応｜AMLコンプラの人[むくどり]",
-    "url": "https://note.com/amlcftmukudori/n/nf1f7c8491c0e",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "【顧客管理：実務①】KYB実務ガイド──UBO特定の判断フローと外国法人対応",
-    "url": "https://note.com/amlcftmukudori/n/nf1f7c8491c0e",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "本記事は執筆時点の法令に基づきます。最新の改正情報は金融庁ホームページ等でご確認ください。",
-    "url": "https://note.com/amlcftmukudori/n/nf1f7c8491c0e",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "この記事では、法人顧客の確認（KYB）で中心になる実質的支配者（UBO）の特定を取り上げます。判定の順序、間接保有の数え方、外国法人で情報が取れないときの考え方を整理します。",
-    "url": "https://note.com/amlcftmukudori/n/nf1f7c8491c0e",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "KYBとは何か、個人の取引時確認（KYC）と何が違うのか",
-    "url": "https://note.com/amlcftmukudori/n/nf1f7c8491c0e",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "実質的支配者を特定する3段階の判定と、間接保有の数え方（掛け算ではなく、施行規則の合算方式）",
-    "url": "https://note.com/amlcftmukudori/n/nf1f7c8491c0e",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "外国法人や多層構造で情報が取れないときの考え方と、実務チェックリスト",
-    "url": "https://note.com/amlcftmukudori/n/nf1f7c8491c0e",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "図解1：KYC（個人）とKYB（法人）の確認項目",
-    "url": "https://note.com/amlcftmukudori/n/nf1f7c8491c0e",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "法人KYCと実質的支配者(UBO)確認の流れ｜ロイのたわ言",
-    "url": "https://note.com/argentroi/n/n20e6a3206229",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "法人KYCと実質的支配者(UBO)確認の流れ",
-    "url": "https://note.com/argentroi/n/n20e6a3206229",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "法人のお客さんと取引するときって、個人のKYCよりちょっとややこしいんだよね。",
-    "url": "https://note.com/argentroi/n/n20e6a3206229",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "なんでかっていうと、法人そのものの実態と、中の“人”もチェックしないといけないから。",
-    "url": "https://note.com/argentroi/n/n20e6a3206229",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "① まず会社そのものを確認する（法人KYC）",
-    "url": "https://note.com/argentroi/n/n20e6a3206229",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "「この会社って、ちゃんと存在してる？」「何やってる会社？」を確認するパート。",
-    "url": "https://note.com/argentroi/n/n20e6a3206229",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "登記事項証明書（履歴事項全部証明書）をもらう",
-    "url": "https://note.com/argentroi/n/n20e6a3206229",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "→ 会社名・所在地・役員・資本金・事業目的が正しいかチェック。",
-    "url": "https://note.com/argentroi/n/n20e6a3206229",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "【顧客管理：完全版 4/8】法人UBO特定 25%ルールの実務適用と境界線｜AMLコンプラの人[むくどり]",
-    "url": "https://note.com/amlcftmukudori/n/n5fc3c39bb120",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "【顧客管理：完全版 4/8】法人UBO特定 25%ルールの実務適用と境界線",
-    "url": "https://note.com/amlcftmukudori/n/n5fc3c39bb120",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "最新の改正情報は警察庁・金融庁ホームページ等でご確認ください。",
-    "url": "https://note.com/amlcftmukudori/n/n5fc3c39bb120",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "この記事は、顧客管理の完全版（全8回）の第4回です。前の回は第3回「個人のお客さまの判断フロー」、次の回は第5回「継続的顧客管理の義務範囲」です。この完全版は、顧客管理の目線から、制裁・届出・記録・体制との接点まで一続きで見通せる、AML全体の入口となる1作として書いています。それぞれの業務そのものの進め方は、別の章の記事で扱っています。",
-    "url": "https://note.com/amlcftmukudori/n/n5fc3c39bb120",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "https://note.com/amlcftmukudori/n/n9e84a1f8164d",
-    "url": "https://note.com/amlcftmukudori/n/n5fc3c39bb120",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "法人顧客の実質的支配者（UBO）は、どこまで遡るか、間接保有をどう数えるかで迷いやすい部分です。この章では、特定のルールを、4つのパターンと25%超の判定（間接保有の合算を含む）を中心に整理します。通常の確認と、厳格な顧客管理（EDD）のときの確認方法の違いまで、順番に見ていきます。",
-    "url": "https://note.com/amlcftmukudori/n/n5fc3c39bb120",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "本シリーズは全8回で、第7回にチェックリスト50問、第8回に社内展開テンプレ3種と付録Excel（CDD判定シート）を用意しています。",
-    "url": "https://note.com/amlcftmukudori/n/n5fc3c39bb120",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "実質的支配者（UBO）の4つのパターンと、当てはめる順番",
-    "url": "https://note.com/amlcftmukudori/n/n5fc3c39bb120",
     "pass": 3,
     "first_seen": "2026-11-08"
    }
@@ -982,6 +542,200 @@
     "first_seen": "2026-11-08"
    }
   ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【顧客管理：入門④】UBO（実質的支配者）とは──法人の「真の所有者」を特定する犯収法の判定フロー｜AMLコンプラの人[むくどり]",
+    "url": "https://note.com/amlcftmukudori/n/ne95e558ca244",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "【顧客管理：入門④】UBO（実質的支配者）とは──法人の「真の所有者」を特定する犯収法の判定フロー",
+    "url": "https://note.com/amlcftmukudori/n/ne95e558ca244",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "実質的支配者（UBO）は、法人を実質的に支配する自然人のことで、法人顧客の取引時確認で確認します。たとえば、株主が個人3人で出資比率が40%・35%・25%の会社では、代表取締役が実質的支配者とは限りません。",
+    "url": "https://note.com/amlcftmukudori/n/ne95e558ca244",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "この記事では、実質的支配者（UBO）の考え方と判定の順序を、犯収法と施行規則の定めに沿って、具体的な場面を交えながら整理します。KYB（法人の確認）の全体像は、【顧客管理：実務①】KYB実務ガイドもあわせてご覧ください。最後によくある質問にもお答えします。",
+    "url": "https://note.com/amlcftmukudori/n/ne95e558ca244",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "実質的支配者（UBO）とは何か、なぜ法人の取引時確認で確認するのか",
+    "url": "https://note.com/amlcftmukudori/n/ne95e558ca244",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "判定の順序と、議決権の50%超を持つ人がいる場合の例外",
+    "url": "https://note.com/amlcftmukudori/n/ne95e558ca244",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "間接保有は「掛け算」ではなく「合算」で判定すること（施行規則の定め）",
+    "url": "https://note.com/amlcftmukudori/n/ne95e558ca244",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "図解1：実質的支配者の判定の順序（資本多数決法人・それ以外）",
+    "url": "https://note.com/amlcftmukudori/n/ne95e558ca244",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "【顧客管理：実務①】KYB実務ガイド──UBO特定の判断フローと外国法人対応｜AMLコンプラの人[むくどり]",
+    "url": "https://note.com/amlcftmukudori/n/nf1f7c8491c0e",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "【顧客管理：実務①】KYB実務ガイド──UBO特定の判断フローと外国法人対応",
+    "url": "https://note.com/amlcftmukudori/n/nf1f7c8491c0e",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "本記事は執筆時点の法令に基づきます。最新の改正情報は金融庁ホームページ等でご確認ください。",
+    "url": "https://note.com/amlcftmukudori/n/nf1f7c8491c0e",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "この記事では、法人顧客の確認（KYB）で中心になる実質的支配者（UBO）の特定を取り上げます。判定の順序、間接保有の数え方、外国法人で情報が取れないときの考え方を整理します。",
+    "url": "https://note.com/amlcftmukudori/n/nf1f7c8491c0e",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "KYBとは何か、個人の取引時確認（KYC）と何が違うのか",
+    "url": "https://note.com/amlcftmukudori/n/nf1f7c8491c0e",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "実質的支配者を特定する3段階の判定と、間接保有の数え方（掛け算ではなく、施行規則の合算方式）",
+    "url": "https://note.com/amlcftmukudori/n/nf1f7c8491c0e",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "外国法人や多層構造で情報が取れないときの考え方と、実務チェックリスト",
+    "url": "https://note.com/amlcftmukudori/n/nf1f7c8491c0e",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "図解1：KYC（個人）とKYB（法人）の確認項目",
+    "url": "https://note.com/amlcftmukudori/n/nf1f7c8491c0e",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "法人KYCと実質的支配者(UBO)確認の流れ｜ロイのたわ言",
+    "url": "https://note.com/argentroi/n/n20e6a3206229",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "法人KYCと実質的支配者(UBO)確認の流れ",
+    "url": "https://note.com/argentroi/n/n20e6a3206229",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "法人のお客さんと取引するときって、個人のKYCよりちょっとややこしいんだよね。",
+    "url": "https://note.com/argentroi/n/n20e6a3206229",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "なんでかっていうと、法人そのものの実態と、中の“人”もチェックしないといけないから。",
+    "url": "https://note.com/argentroi/n/n20e6a3206229",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "① まず会社そのものを確認する（法人KYC）",
+    "url": "https://note.com/argentroi/n/n20e6a3206229",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "「この会社って、ちゃんと存在してる？」「何やってる会社？」を確認するパート。",
+    "url": "https://note.com/argentroi/n/n20e6a3206229",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "登記事項証明書（履歴事項全部証明書）をもらう",
+    "url": "https://note.com/argentroi/n/n20e6a3206229",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "→ 会社名・所在地・役員・資本金・事業目的が正しいかチェック。",
+    "url": "https://note.com/argentroi/n/n20e6a3206229",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "【顧客管理：完全版 4/8】法人UBO特定 25%ルールの実務適用と境界線｜AMLコンプラの人[むくどり]",
+    "url": "https://note.com/amlcftmukudori/n/n5fc3c39bb120",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "【顧客管理：完全版 4/8】法人UBO特定 25%ルールの実務適用と境界線",
+    "url": "https://note.com/amlcftmukudori/n/n5fc3c39bb120",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "最新の改正情報は警察庁・金融庁ホームページ等でご確認ください。",
+    "url": "https://note.com/amlcftmukudori/n/n5fc3c39bb120",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "この記事は、顧客管理の完全版（全8回）の第4回です。前の回は第3回「個人のお客さまの判断フロー」、次の回は第5回「継続的顧客管理の義務範囲」です。この完全版は、顧客管理の目線から、制裁・届出・記録・体制との接点まで一続きで見通せる、AML全体の入口となる1作として書いています。それぞれの業務そのものの進め方は、別の章の記事で扱っています。",
+    "url": "https://note.com/amlcftmukudori/n/n5fc3c39bb120",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "https://note.com/amlcftmukudori/n/n9e84a1f8164d",
+    "url": "https://note.com/amlcftmukudori/n/n5fc3c39bb120",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "法人顧客の実質的支配者（UBO）は、どこまで遡るか、間接保有をどう数えるかで迷いやすい部分です。この章では、特定のルールを、4つのパターンと25%超の判定（間接保有の合算を含む）を中心に整理します。通常の確認と、厳格な顧客管理（EDD）のときの確認方法の違いまで、順番に見ていきます。",
+    "url": "https://note.com/amlcftmukudori/n/n5fc3c39bb120",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "本シリーズは全8回で、第7回にチェックリスト50問、第8回に社内展開テンプレ3種と付録Excel（CDD判定シート）を用意しています。",
+    "url": "https://note.com/amlcftmukudori/n/n5fc3c39bb120",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "実質的支配者（UBO）の4つのパターンと、当てはめる順番",
+    "url": "https://note.com/amlcftmukudori/n/n5fc3c39bb120",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
   "突き合わせ・推定": [
    {
     "quote": "間接保有は「掛け算」ではなく「合算」で判定すること（施行規則の定め）",
@@ -1176,7 +930,63 @@
     "first_seen": "2026-11-08"
    }
   ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【顧客管理：実務①】KYB実務ガイド──UBO特定の判断フローと外国法人対... Apr 4, 2026 · 最新の改正情報は金融庁ホームページ等でご確認ください。 この記事では、法人顧客の確認（KYB）で中心になる実質的支配者（UBO）の特定を取り上げます。 判定の順序、間接保有の数え方、外国法人で情報が取れないときの考え方を整理します。",
+    "url": "https://note.com/amlcftmukudori/n/nf1f7c8491c0e",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "【03顧客管理-完全版#5】法人UBO特定 25%ルールの実務適用と境界線｜A... May 6, 2026 · 最新の改正情報は警察庁・金融庁ホームページ等でご確認ください。 本章の要旨（120〜160字）：法人顧客の実質的支配者（UBO）特定は犯収法施行規則第11条第2項の4パターン（25%超→支配的影響力→収益分配権→代表者フォールバック）で完結します。",
+    "url": "https://note.com/amlcftmukudori/n/n5fc3c39bb120",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "法人KYCと実質的支配者 (UBO)確認の流れ｜ロイのたわ言 Dec 11, 2025 · 法人のお客さんと取引するときって、個人のKYCよりちょっとややこしいんだよね。 なんでかっていうと、法人そのものの実態と、中の“人”もチェックしないといけないから。 ざっくり流れを話すと、こんな感じ。",
+    "url": "https://note.com/argentroi/n/n20e6a3206229",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "【顧客管理：入門④】UBO（実質的支配者）とは──法人の「真の所有者」... May 26, 2026 · この記事では、実質的支配者（UBO）の考え方と判定の順序を、犯収法と施行規則の定めに沿って、具体的な場面を交えながら整理します。 KYB（法人の確認）の全体像は、【顧客管理：実務①】KYB実務ガイドもあわせてご覧ください。",
+    "url": "https://note.com/amlcftmukudori/n/ne95e558ca244",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "【顧客管理：実務①】KYB実務ガイド──UBO特定の判断フローと外国法人対... Apr 4, 2026 · 本記事は執筆時点の法令に基づきます。最新の改正情報は金融庁ホームページ等でご確認ください。 この記事では、法人顧客の確認（KYB）で中心になる実質的支配者（UBO）の特定を取り上げます。判定の順序、間接保有の数え方、外国法人で情報が取れないときの考え方を整理します。 この ...",
+    "url": "https://note.com/amlcftmukudori/n/nf1f7c8491c0e",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "法人KYCと実質的支配者 (UBO)確認の流れ｜ロイのたわ言 Dec 11, 2025 · → 情報の信頼性、本人確認書類の真正性、制裁リストとの照合など。 ③ 法人KYCの情報とUBO情報を合わせて、リスク評価する ここが“AML担当の腕の見せどころ”。 事業内容が妙に複雑じゃない？ 株主が海外のタックスヘイブン？ UBOが何人も入れ替わってる？",
+    "url": "https://note.com/argentroi/n/n20e6a3206229",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "【03顧客管理-完全版#5】法人UBO特定 25%ルールの実務適用と境界線｜A... May 6, 2026 · 最新の改正情報は警察庁・金融庁ホームページ等でご確認ください。 本章の要旨（120〜160字）：法人顧客の実質的支配者（UBO）特定は犯収法施行規則第11条第2項の4パターン（25%超→支配的影響力→収益分配権→代表者フォールバック）で完結します。本章は同条第3項の間接保有合算と、EDD時に ...",
+    "url": "https://note.com/amlcftmukudori/n/n5fc3c39bb120",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "【顧客管理：入門④】 UBO （ 実質 的支配者）とは    法人の「真 ... 【顧客管理：入門④】 UBO （ 実質 的支配者）とは    法人の「真 ... note https://note.com > ビジネス > 法務・コンプライアンス・知財",
+    "url": "https://note.com/amlcftmukudori/n/ne95e558ca244",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
   "手順・やり方": [
+   {
+    "quote": "STEP3：",
+    "url": "https://www.tdb.co.jp/services/lineup/ubo/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
    {
     "quote": "確認の方法は、顧客の代表者等から申告を受ける方法です（施行規則の定め）",
     "url": "https://note.com/amlcftmukudori/n/ne95e558ca244",
@@ -1538,141 +1348,43 @@
     "first_seen": "2026-11-08"
    }
   ],
-  "失敗・落とし穴": [
-   {
-    "quote": "UBO（実質的支配者）とは？重要性や確認方法・注意点も解説 | ビジネスコンシェルジュ powered by お名前.com",
-    "url": "https://www.onamae.com/business/article/242733/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "UBO（実質的支配者）とは？重要性や確認方法・注意点も解説",
-    "url": "https://www.onamae.com/business/article/242733/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "海外対応おすすめの反社チェックツール10選を徹底比較！海外・国際取引における反社チェックとは？注意点や方法を解説",
-    "url": "https://www.onamae.com/business/article/242733/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ここでは、UBOコンプライアンスにおける注意点を解説します",
-    "url": "https://www.onamae.com/business/article/242733/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "実質的支配者（UBO）とは？確認方法と判断基準、取引先調査の注意点を解説 | RISK EYES",
-    "url": "https://www.riskeyes.jp/hansha-check-column/347",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "実質的支配者（UBO）とは？確認方法と判断基準、取引先調査の注意点を解説",
-    "url": "https://www.riskeyes.jp/hansha-check-column/347",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "本記事では、実質的支配者の意味や25％・50％の判断基準、確認方法、取引先調査で注意したいポイントをわかりやすく解説します",
-    "url": "https://www.riskeyes.jp/hansha-check-column/347",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "取引先調査における実質的支配者の確認方法と注意点",
-    "url": "https://www.riskeyes.jp/hansha-check-column/347",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "海外取引では制裁対象者による所有にも注意する",
-    "url": "https://www.riskeyes.jp/hansha-check-column/347",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ここで注意したいのは、「25％以上」ではなく「25％を超える」という点です",
-    "url": "https://www.riskeyes.jp/hansha-check-column/347",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ここで注意したいのは、",
-    "url": "https://www.riskeyes.jp/hansha-check-column/347",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "同じ「50％」という数字が出てきますが、制度の目的や判定方法を混同しないよう注意しましょう",
-    "url": "https://www.riskeyes.jp/hansha-check-column/347",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "株主構成や資本関係は変化するため、過去の情報だけで判断せず、情報の最新性にも注意が必要です",
-    "url": "https://www.riskeyes.jp/hansha-check-column/347",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "資源が豊富な企業であっても、UBOコンプライアンスに取り組む際に同じような罠にはまることがあります",
-    "url": "https://jinjibu.jp/spcl/goglobal/cl/detl/6206/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "問題：国ごとに「実質的所有者」の定義が異なるため、誤りが生じやすくなります",
-    "url": "https://jinjibu.jp/spcl/goglobal/cl/detl/6206/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "なぜ重要か：UBO規制は複雑で誤りはコストに直結します",
-    "url": "https://jinjibu.jp/spcl/goglobal/cl/detl/6206/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "【失敗事例から学ぶ】面接代行を入れたのに採用数が伸び悩む要因",
-    "url": "https://jinjibu.jp/spcl/goglobal/cl/detl/6206/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "十分なリソースを持つ企業であっても、UBOコンプライアンスへの対応において同じような落とし穴に陥ることがあります",
-    "url": "https://goglobal.co.jp/news/849/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "2022年以降のロシア関連の制裁執行は、間接的支配や多層中間体の特定失敗を浮き彫りにしている",
-    "url": "https://academy.reevol.com/ja/buyer-supplier-risk/ubo-verification-cross-border/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Algorithmic Bias and False Positives",
-    "url": "https://www.flagright.com/post/the-role-of-ai-in-unmasking-beneficial-ownership-structures",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Machine learning models can develop biases based on training data. If most historical enforcement actions targeted entities from specific countries, models may over-flag entities from those countries while under-weighting genuine risks elsewhere.",
-    "url": "https://www.flagright.com/post/the-role-of-ai-in-unmasking-beneficial-ownership-structures",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Regularly test models for bias across protected categories and jurisdictions. Maintain balanced training datasets. Implement human-in-the-loop review for high-stakes decisions. Monitor false positive rates and continuously retune models.",
-    "url": "https://www.flagright.com/post/the-role-of-ai-in-unmasking-beneficial-ownership-structures",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
   "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "デューデリジェンス201:専門家のための実践的なUBO戦術 Jun 30, 2025 · 私は、調査官がケイマン諸島で指名された取締役を数週間かけて追いかけ、実際のUBOが10年前の英国の裁判所提出書類に記載されていたり、2019年のLinkedIn投稿で「コンサルタント」として本物の管理者が登場していたのを見たことがあります。",
+    "url": "https://jp.linkedin.com/pulse/due-diligence-201-practical-ubo-tactics-experts-cynthia-ugwu-fayte?tl=ja",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Due Diligence 201: Practical UBO Tactics for Experts - LinkedIn Jun 30, 2025 · Let's talk about a practical approach to UBO tracing that prioritises efficiency, accuracy, and real-world constraints.",
+    "url": "https://www.linkedin.com/pulse/due-diligence-201-practical-ubo-tactics-experts-cynthia-ugwu-fayte/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Dominance vs. Accumulation: Understanding UBO Identification ... Nov 25, 2024 · Let’s connect and discuss how your organization approaches UBO identification or the challenges you’ve encountered!",
+    "url": "https://www.linkedin.com/pulse/dominance-vs-accumulation-understanding-ubo-methods-sunil-i8nvf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Due Diligence 201: Practical UBO Tactics for Experts - LinkedIn Jun 30, 2025 · In corporate intelligence, tracing Ultimate Beneficial Owners (UBOs) is one of the most fundamental yet often misunderstood steps in due diligence.",
+    "url": "https://www.linkedin.com/pulse/due-diligence-201-practical-ubo-tactics-experts-cynthia-ugwu-fayte/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Exposing UBOs: OSINT Methodology for Investigative ... For journalists, exposing the Ultimate Beneficial Owner (UBO)—the real person behind the corporate veil—is key to holding power to account.",
+    "url": "https://www.linkedin.com/posts/eurovisionnews-spotlight_tracing-beneficial-ownership-with-osint-for-activity-7404090131718119425-v9hK",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Derek Bowler – Investigative Journalist | OSINT, Digital ...Eurovision News Spotlight | LinkedInUBO investigation techniques: Tracing ownership via public ...NOMINEE SHAREHOLDERS AND DIRECTORS IN OFFSHORE AND ONSHORE ... I set up and ran a verification service for eyewitness media used by more than 100 public service broadcasters, then founded an OSINT and fact-checking network of 30 broadcasters ",
+    "url": "https://ch.linkedin.com/in/bowlerderek",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
    {
     "quote": "究極の実質的所有権の未来 - LinkedIn 日本 Jan 27, 2026 · 金融監督の世界は変わりつつあります。今日、世界の権威は一つの主要な目標に注力しています。それは、複雑な企業構造の背後にいる真の人物を特定することです。この概念は「究極の実益的所有権 コアコンセプト:UBOとは誰か? 金融行動タスクフォースによると (FATF)UBOとは「自然人」のこと ...",
     "url": "https://jp.linkedin.com/pulse/future-ultimate-beneficial-ownership-ubo-kcpdc?tl=ja",
@@ -1724,6 +1436,30 @@
   ],
   "検索結果の抜粋": [
    {
+    "quote": "【03顧客管理-完全版#5】法人UBO特定 25%ルールの実務適用と境界線｜A... — May 6, 2026 · 最新の改正情報は警察庁・金融庁ホームページ等でご確認ください。 本章の要旨（120〜160字）：法人顧客の実質的支配者（UBO）特定は犯収法施行規則第11条第2項の4パターン（25%超→支配的影響力→収益分配権→代表者フォールバック）で完結します。",
+    "url": "https://note.com/amlcftmukudori/n/n5fc3c39bb120",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "【顧客管理：実務①】KYB実務ガイド──UBO特定の判断フローと外国法人対... — Apr 4, 2026 · 最新の改正情報は金融庁ホームページ等でご確認ください。 この記事では、法人顧客の確認（KYB）で中心になる実質的支配者（UBO）の特定を取り上げます。 判定の順序、間接保有の数え方、外国法人で情報が取れないときの考え方を整理します。",
+    "url": "https://note.com/amlcftmukudori/n/nf1f7c8491c0e",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "法人KYCと実質的支配者 (UBO)確認の流れ｜ロイのたわ言 — Dec 11, 2025 · 法人のお客さんと取引するときって、個人のKYCよりちょっとややこしいんだよね。 なんでかっていうと、法人そのものの実態と、中の“人”もチェックしないといけないから。 ざっくり流れを話すと、こんな感じ。",
+    "url": "https://note.com/argentroi/n/n20e6a3206229",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "【ベトナム会社法改正】名義貸しスキームは終焉へ──「実質的所有者」... — Jul 11, 2025 · 2025年7月1日、ベトナムで施行された改正企業法（第76/2025/QH15号）は、企業の**「実質的所有者（UBO：Ultimate Beneficial Owner）」** に関する情報の申告・管理を義務化しました。",
+    "url": "https://note.com/vnhr/n/n62aa660f36ef",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
     "quote": "【顧客管理：入門④】UBO（実質的支配者）とは──法人の「真の所有者」... — May 26, 2026 · この記事では、実質的支配者（UBO）の考え方と判定の順序を、犯収法と施行規則の定めに沿って、具体的な場面を交えながら整理します。 KYB（法人の確認）の全体像は、【顧客管理：実務①】KYB実務ガイドもあわせてご覧ください。",
     "url": "https://note.com/amlcftmukudori/n/ne95e558ca244",
     "pass": 3,
@@ -1750,38 +1486,6 @@
    {
     "quote": "UBO の複雑な関係 - コンプライアンス・データラボ — UBO の複雑な関係 - コンプライアンス・データラボ コンプライアンス・データラボ https://c-datalab.com > blog > idr-matching_20240628",
     "url": "https://c-datalab.com/ja/blog/idr-matching_20240628",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "SNS・note（note・検索結果の抜粋）": [
-   {
-    "quote": "【顧客管理：入門④】UBO（実質的支配者）とは──法人の「真の所有者」... May 26, 2026 · この記事では、実質的支配者（UBO）の考え方と判定の順序を、犯収法と施行規則の定めに沿って、具体的な場面を交えながら整理します。 KYB（法人の確認）の全体像は、【顧客管理：実務①】KYB実務ガイドもあわせてご覧ください。",
-    "url": "https://note.com/amlcftmukudori/n/ne95e558ca244",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "【顧客管理：実務①】KYB実務ガイド──UBO特定の判断フローと外国法人対... Apr 4, 2026 · 本記事は執筆時点の法令に基づきます。最新の改正情報は金融庁ホームページ等でご確認ください。 この記事では、法人顧客の確認（KYB）で中心になる実質的支配者（UBO）の特定を取り上げます。判定の順序、間接保有の数え方、外国法人で情報が取れないときの考え方を整理します。 この ...",
-    "url": "https://note.com/amlcftmukudori/n/nf1f7c8491c0e",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "法人KYCと実質的支配者 (UBO)確認の流れ｜ロイのたわ言 Dec 11, 2025 · → 情報の信頼性、本人確認書類の真正性、制裁リストとの照合など。 ③ 法人KYCの情報とUBO情報を合わせて、リスク評価する ここが“AML担当の腕の見せどころ”。 事業内容が妙に複雑じゃない？ 株主が海外のタックスヘイブン？ UBOが何人も入れ替わってる？",
-    "url": "https://note.com/argentroi/n/n20e6a3206229",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "【03顧客管理-完全版#5】法人UBO特定 25%ルールの実務適用と境界線｜A... May 6, 2026 · 最新の改正情報は警察庁・金融庁ホームページ等でご確認ください。 本章の要旨（120〜160字）：法人顧客の実質的支配者（UBO）特定は犯収法施行規則第11条第2項の4パターン（25%超→支配的影響力→収益分配権→代表者フォールバック）で完結します。本章は同条第3項の間接保有合算と、EDD時に ...",
-    "url": "https://note.com/amlcftmukudori/n/n5fc3c39bb120",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "【顧客管理：入門④】 UBO （ 実質 的支配者）とは    法人の「真 ... 【顧客管理：入門④】 UBO （ 実質 的支配者）とは    法人の「真 ... note https://note.com > ビジネス > 法務・コンプライアンス・知財",
-    "url": "https://note.com/amlcftmukudori/n/ne95e558ca244",
     "pass": 3,
     "first_seen": "2026-11-08"
    }
@@ -1814,6 +1518,12 @@
   ],
   "SNS・note（X・検索結果の抜粋）": [
    {
+    "quote": "太田洋@SPEC on X: \"本日、内閣官房に、「法人等の実質的支配者（BO）... UBOとも呼ばれる）について義務的登録制度が整備されていない我が国において、BOの義務的登録制度を創設するための新法の整備は、AML/CFTや経済安保の観点、さらには消費者保護の観点からも喫緊の課題であり、その観点から新法創設を強く支持する意見を ...",
+    "url": "https://x.com/yota1967/status/2103101232512741821",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
     "quote": "従来から小職が主張してきた法人の実質支配者（UBO）の登録・開示制度... 従来から小職が主張してきた法人の実質支配者（UBO）の登録・開示制度、遂に新法へ。 AML/CFTだけでなく経済安保の観点からも極めて重要であり、早急な新法の整備を強く期待したい！",
     "url": "https://x.com/yota1967/status/2070384402451034364",
     "pass": 3,
@@ -1837,6 +1547,386 @@
     "pass": 3,
     "first_seen": "2026-11-08"
    }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "厳格な確認が必要な場合は、株主名簿や有価証券報告書など、議決権の保有状況を示す書類の確認も行います（施行規則の定め）",
+    "url": "https://note.com/amlcftmukudori/n/ne95e558ca244",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "国内では、2022年1月に、商業登記所による実質的支配者情報一覧の保管制度が始まっています",
+    "url": "https://note.com/amlcftmukudori/n/ne95e558ca244",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "金融庁FAQは、申告の真正性を裏付ける資料の例として、株主名簿、有価証券報告書、法人税確定申告書の別表等を挙げ、実質的支配者リスト制度を活用することも考えられるとしています",
+    "url": "https://note.com/amlcftmukudori/n/ne95e558ca244",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ハイリスク取引にあたる場合は、資本多数決法人なら、株主名簿や有価証券報告書など議決権の保有状況を示す書類も確認し、代表者等からの申告も受けます",
+    "url": "https://note.com/amlcftmukudori/n/ne95e558ca244",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "登記事項証明書（履歴事項全部証明書）をもらう",
+    "url": "https://note.com/argentroi/n/n20e6a3206229",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "株主名簿や有価証券報告書など、議決権の保有状況を示す書類の確認です",
+    "url": "https://note.com/amlcftmukudori/n/nf1f7c8491c0e",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "基本確認：名称・本店所在地を確認した／事業内容を、定款や登記事項証明書など規則が挙げる書類で確認した／取引目的を確認した／取引担当者（代表者等）の本人特定事項を確認した",
+    "url": "https://note.com/amlcftmukudori/n/nf1f7c8491c0e",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "企業登録内容の変更登記を行う際、実質的支配者に関する情報の追加提出が必要です",
+    "url": "https://note.com/vnhr/n/n62aa660f36ef",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "→ すでに名義貸しスキームを用いている場合、変更登記の手続き時に当局へ真の所有者情報を開示しなければならず、過去の名義スキームが問題視される可能性があります",
+    "url": "https://note.com/vnhr/n/n62aa660f36ef",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "UBOの定義は国によって異なるが、多くの場合「25％の閾値」が採用されている",
+    "url": "https://www.onamae.com/business/article/242733/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "また、相手企業の商号変更や本店移転といった登記変更があった際は、背後の資本も動いている可能性があるため、定期チェックを待たずに再確認を行う体制を構築すべきでしょう",
+    "url": "https://www.onamae.com/business/article/242733/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "つまり、法人の実態を把握するためには、登記上の代表者を確認するだけでなく、「最終的に誰がその法人を所有・支配しているのか」という視点を持つことが大切です",
+    "url": "https://www.riskeyes.jp/hansha-check-column/347",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "※実際の該当性は法人形態や支配関係などによって異なるため、公的機関の最新情報をご確認ください",
+    "url": "https://www.riskeyes.jp/hansha-check-column/347",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "これは、株式会社（特例有限会社を含む）が自ら作成した実質的支配者リストについて法務局へ申出を行い、登記官が所定の添付書面により内容を確認したうえで保管し、認証文付きの写しを交付する制度です",
+    "url": "https://www.riskeyes.jp/hansha-check-column/347",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "欧州では、このそれぞれの持ち分を掛け合わすこの計算方法が採用されています",
+    "url": "https://c-datalab.com/ja/blog/idr-matching_20240628",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "アジア言語におけるビジネスIDデータ検証、言語間のヒューリスティック翻字解析、非構造化データのキュレーション、ビジネスから地理のIDデータ検証など、いくつかの分野における特許の共同保有者でもある",
+    "url": "https://c-datalab.com/ja/blog/idr-matching_20240628",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "この基準は、多くの主要な国で採用されています",
+    "url": "https://jinjibu.jp/spcl/goglobal/cl/detl/6206/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "シンガポール、スイス、中国、日本などの主要経済圏も、25％の閾値を基本基準として採用しています",
+    "url": "https://jinjibu.jp/spcl/goglobal/cl/detl/6206/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "海外人材紹介&採用、雇用代行、バックオフィスの",
+    "url": "https://jinjibu.jp/spcl/goglobal/cl/detl/6206/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "人材採用、グローバル",
+    "url": "https://jinjibu.jp/spcl/goglobal/cl/detl/6206/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "【失敗事例から学ぶ】面接代行を入れたのに採用数が伸び悩む要因",
+    "url": "https://jinjibu.jp/spcl/goglobal/cl/detl/6206/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "採用競争が激化するなか、社内リソースの不足や選考スピードの向上を目的に、採用代行（RPO）や面接代行サービスを活用する企...",
+    "url": "https://jinjibu.jp/spcl/goglobal/cl/detl/6206/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "サービス利用開始 COSMOSNETから、PDFまたはcsvファイルをダウンロードいただけます",
+    "url": "https://www.tdb.co.jp/services/lineup/ubo/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "この基準は、以下の規制当局・報告制度で広く採用されています",
+    "url": "https://goglobal.co.jp/news/849/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ただし、すべての国が同じアプローチを採用していると考えるべきではありません",
+    "url": "https://goglobal.co.jp/news/849/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "現在の法人設立は、単なる法的な登記手続きではありません",
+    "url": "https://goglobal.co.jp/news/849/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "登記簿の代表者や名簿上の株主とは限らず、法人顧客との取引時確認で必ず特定する",
+    "url": "https://amlnavi.com/glossary/ubo",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ここで大事なのが、法人相手の確認は会社の名前と登記を見るだけでは終わらない、という点です",
+    "url": "https://timewell.jp/columns/kyb-antisocial-check-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "商業登記所の実質的支配者リスト制度（2022年1月開始）",
+    "url": "https://timewell.jp/columns/kyb-antisocial-check-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "株式会社が申し出れば、登記官がUBO情報を確認・保管し、認証文付きの写しを無料で交付してくれる仕組みです",
+    "url": "https://timewell.jp/columns/kyb-antisocial-check-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ちなみに、UBO情報を登記事項として義務的に登録する制度は、2026年7月時点では導入されていません",
+    "url": "https://timewell.jp/columns/kyb-antisocial-check-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "登記情報、所在地、事業内容、そしてUBOまで確認します",
+    "url": "https://timewell.jp/columns/kyb-antisocial-check-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "2025年6月24日公布の施行規則改正で、スマートフォンに搭載したマイナンバーカードの公的個人認証を使う本人確認方法が新設され、同時になりすましリスクの高い確認方法が廃止されました",
+    "url": "https://timewell.jp/columns/kyb-antisocial-check-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "2027年4月1日施行予定の施行規則改正で、非対面の本人確認は、本人確認書類の画像を送る方式（いわゆるホ方式）や写しの送付が原則廃止され、マイナンバーカードの公的個人認証（JPKI）に原則一本化される予定です",
+    "url": "https://timewell.jp/columns/kyb-antisocial-check-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "会社の登記だけでなく、実質的支配者（UBO）という「背後の個人」まで遡るのが特徴",
+    "url": "https://timewell.jp/columns/kyb-antisocial-check-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "UBOが登場する場面は3つ（取引時確認=必須、定款認証申告=設立時必須、登記所リスト制度=任意）で、それぞれ別制度",
+    "url": "https://timewell.jp/columns/kyb-antisocial-check-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "本記事は一部にAIを用いて作成し、公開前に人間が一次情報の確認と編集を行っています",
+    "url": "https://timewell.jp/columns/kyb-antisocial-check-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "2024年度の経産省統計で、輸出管理違反の過半が該非判定に起因",
+    "url": "https://timewell.jp/columns/kyb-antisocial-check-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "停止規則は「将来の延長がなければ2026年11月9日に終わる」と条件付きで、米中は2026年9月に2027年1月10日までの延長を発表しましたが、2026年10月5日時点で米国の連邦官報には延長の規則が載っていません",
+    "url": "https://timewell.jp/columns/kyb-antisocial-check-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "米国連邦官報（90 FR 47201・90 FR 50857）・15 CFR・中国商務部の公表にもとづく",
+    "url": "https://timewell.jp/columns/kyb-antisocial-check-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "2. 登記事項証明書を取得するよりも、安価かつ瞬時に役員情報を確認できます",
+    "url": "https://cdn.kyodonewsprwire.jp/prwfile/release/M101737/202403218301/_prw_PR1fl_Zj5pJFzj.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "https://www.soumu.go.jp/main_content/000478067.pdf",
+    "url": "https://cdn.kyodonewsprwire.jp/prwfile/release/M101737/202403218301/_prw_PR1fl_Zj5pJFzj.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "買い手から25%または支配までの署名済みUBO開示を取得し、関係するすべての国にわたる所有チェーンをマッピングし、公式登記簿で詳細を確認、UBOを制裁とPEP該当性でスクリーニングし、リスクベースのスケジュールで文書化と更新を行う",
+    "url": "https://academy.reevol.com/ja/buyer-supplier-risk/ubo-verification-cross-border/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "登記簿が利用できない場合は、企業の提出書類、規制当局のポータル、公証済みの宣誓供述を用いる",
+    "url": "https://academy.reevol.com/ja/buyer-supplier-risk/ubo-verification-cross-border/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "名義委託者（nominator）の本人開示を求め、登記簿の記録や、登記簿に記録がない場合は宣誓供述で検証する",
+    "url": "https://academy.reevol.com/ja/buyer-supplier-risk/ubo-verification-cross-border/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "FATF相互審査は、完全に運用され検証メカニズムを備えた中央BO登記簿を実現している国が少数であることを示している",
+    "url": "https://academy.reevol.com/ja/buyer-supplier-risk/ubo-verification-cross-border/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "登記簿のカバレッジにギャップがある前提で計画する",
+    "url": "https://academy.reevol.com/ja/buyer-supplier-risk/ubo-verification-cross-border/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "加盟国の登記簿が存在し、2022年のCJEU判決（C-37/20およびC-601/20の併合事件）により一般公開アクセスは制限された一方、義務対象者や正当な利害関係者には各国ルールの下でアクセスが残る",
+    "url": "https://academy.reevol.com/ja/buyer-supplier-risk/ubo-verification-cross-border/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "アクセス可能な範囲で登記簿の抜粋を取得し、必要に応じて正当な利害の根拠を保存し、EU外の階層がある場合は越境の所有関係をマップする",
+    "url": "https://academy.reevol.com/ja/buyer-supplier-risk/ubo-verification-cross-border/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "買い手UBOフォーム、企業登記の抜粋、UBOのID資料、制裁スクリーニングログを提出する",
+    "url": "https://academy.reevol.com/ja/buyer-supplier-risk/ubo-verification-cross-border/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "登記簿の抜粋とUBOのIDを提供して限度審査を迅速化する",
+    "url": "https://academy.reevol.com/ja/buyer-supplier-risk/ubo-verification-cross-border/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "チェーン上の全法人の登記番号と、該当する場合は登録代理人の担当者連絡先も求める",
+    "url": "https://academy.reevol.com/ja/buyer-supplier-risk/ubo-verification-cross-border/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ステップ2：関係法域での登記簿検証",
+    "url": "https://academy.reevol.com/ja/buyer-supplier-risk/ubo-verification-cross-border/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "当該法人の州務長官登記を取得し、次に買い手の宣誓でCTA整合のBO詳細を求める",
+    "url": "https://academy.reevol.com/ja/buyer-supplier-risk/ubo-verification-cross-border/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "会社登記の検索と、BO届出を確認する認証済み代理人レター",
+    "url": "https://academy.reevol.com/ja/buyer-supplier-risk/ubo-verification-cross-border/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "独立の登記代理人チェックを委託し、メディアと訴訟の拡張調査を行う",
+    "url": "https://academy.reevol.com/ja/buyer-supplier-risk/ubo-verification-cross-border/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "登記簿の抜粋取得、アクセス根拠を文書化",
+    "url": "https://academy.reevol.com/ja/buyer-supplier-risk/ubo-verification-cross-border/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "AI-powered systems simultaneously query hundreds of data sources including corporate registries in 200+ countries, beneficial ownership registers, company formation agents, financial databases, court records and legal filings, news archives and adverse media, and social media and professional networks.",
+    "url": "https://www.flagright.com/post/the-role-of-ai-in-unmasking-beneficial-ownership-structures",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Raw data arrives in inconsistent formats—some registries provide XML, others PDF documents, many only offer web interfaces. AI systems normalize this chaos:",
+    "url": "https://www.flagright.com/post/the-role-of-ai-in-unmasking-beneficial-ownership-structures",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "from PDFs, images, HTML, and databases into structured data",
+    "url": "https://www.flagright.com/post/the-role-of-ai-in-unmasking-beneficial-ownership-structures",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Natural language processing extracts key fields from unstructured documents, identifying beneficial owners mentioned in free-text disclosures, annual reports, or legal filings with 90%+ accuracy.",
+    "url": "https://www.flagright.com/post/the-role-of-ai-in-unmasking-beneficial-ownership-structures",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Modern AI systems process beneficial ownership declarations in any format: scanned PDFs, photographed documents, handwritten forms, multi-language documents, and complex layouts with tables and checkboxes.",
+    "url": "https://www.flagright.com/post/the-role-of-ai-in-unmasking-beneficial-ownership-structures",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Leading platforms recognize thousands of beneficial ownership form types including FinCEN BOI reports (USA), PSC registers (UK), UBO declarations (EU), company registry filings (global), and bank KYB intake forms.",
+    "url": "https://www.flagright.com/post/the-role-of-ai-in-unmasking-beneficial-ownership-structures",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
   ]
  },
  "figures": {},
@@ -1848,12 +1938,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/amlcftmukudori/n/nf1f7c8491c0e",
+    "url": "https://note.com/amlcftmukudori/n/n5fc3c39bb120",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/amlcftmukudori/n/n5fc3c39bb120",
+    "url": "https://note.com/amlcftmukudori/n/nf1f7c8491c0e",
     "status": "ok",
     "method": "http"
    },
@@ -1863,12 +1953,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/houritsushoku/n/n5521b49c1990",
+    "url": "https://note.com/vnhr/n/n62aa660f36ef",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/vnhr/n/n62aa660f36ef",
+    "url": "https://note.com/houritsushoku/n/n5521b49c1990",
     "status": "ok",
     "method": "http"
    },
@@ -1898,6 +1988,11 @@
     "method": "http"
    },
    {
+    "url": "https://www.mof.go.jp/policy/international_policy/amlcftcpf/Guidance-Beneficial-Ownership-Legal-Persons-Japanese.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
     "url": "https://www.moj.go.jp/MINJI/minji06_00116.html",
     "status": "ok",
     "method": "http"
@@ -1918,14 +2013,14 @@
     "method": "http"
    },
    {
-    "url": "https://cdn.kyodonewsprwire.jp/prwfile/release/M101737/202403218301/_prw_PR1fl_Zj5pJFzj.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
     "url": "https://www.kfs.go.jp/service/MP/03/0102020100.html",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://cdn.kyodonewsprwire.jp/prwfile/release/M101737/202403218301/_prw_PR1fl_Zj5pJFzj.pdf",
+    "status": "ok",
+    "method": "pdf"
    },
    {
     "url": "https://thedocs.worldbank.org/en/doc/734641611672284678-0090022021/original/BeneficialOwnershipTransparency.pdf",
@@ -1933,7 +2028,7 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.occrp.org/en/project/beneficial-ownership-data-is-critical-in-the-fight-against-corruption",
+    "url": "https://www.occrp.org/en/project/beneficial-ownership-data-is-critical-in-the-fight-against-corruption/faq-the-eu-ruling-on-ownership-transparency-and-what-it-means-for-journalists",
     "status": "ok",
     "method": "http"
    },
@@ -1988,12 +2083,7 @@
     "method": ""
    },
    {
-    "url": "https://x.com/actvmda_info/status/2070493796790624594",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://x.com/Cambodiataro/status/2054139329287708908",
+    "url": "https://x.com/yota1967/status/2103101232512741821",
     "status": "robots_disallowed",
     "method": ""
    },
@@ -2038,6 +2128,11 @@
     "method": ""
    },
    {
+    "url": "https://www.linkedin.com/posts/eurovisionnews-spotlight_tracing-beneficial-ownership-with-osint-for-activity-7404090131718119425-v9hK",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
     "url": "https://ch.linkedin.com/in/bowlerderek",
     "status": "robots_disallowed",
     "method": ""
@@ -2049,11 +2144,11 @@
    "query": "実質の持ち主（UBO）と名義役員・秘匿法域のたどり方（EBU Spotlight・OCCRP の手引き・登記の原本で確かめる・暫定の印） site:note.com",
    "results": [
     "https://note.com/amlcftmukudori/n/ne95e558ca244",
-    "https://note.com/amlcftmukudori/n/nf1f7c8491c0e",
     "https://note.com/amlcftmukudori/n/n5fc3c39bb120",
+    "https://note.com/amlcftmukudori/n/nf1f7c8491c0e",
     "https://note.com/argentroi/n/n20e6a3206229",
-    "https://note.com/houritsushoku/n/n5521b49c1990",
     "https://note.com/vnhr/n/n62aa660f36ef",
+    "https://note.com/houritsushoku/n/n5521b49c1990",
     "https://note.com/regal_liger1600/n/nabecabcfefc0"
    ],
    "engines": [
@@ -2071,8 +2166,8 @@
     "https://c-datalab.com/ja/blog/idr-matching_20240628",
     "https://note.com/amlcftmukudori/n/nf1f7c8491c0e",
     "https://jinjibu.jp/spcl/goglobal/cl/detl/6206/",
-    "https://www.moj.go.jp/MINJI/minji06_00116.html",
-    "https://cdn.kyodonewsprwire.jp/prwfile/release/M101737/202403218301/_prw_PR1fl_Zj5pJFzj.pdf"
+    "https://www.mof.go.jp/policy/international_policy/amlcftcpf/Guidance-Beneficial-Ownership-Legal-Persons-Japanese.pdf",
+    "https://www.moj.go.jp/MINJI/minji06_00116.html"
    ],
    "engines": [
     "yahoo_jp"
@@ -2083,14 +2178,14 @@
    "query": "実質の持ち主（UBO）と名義役員・秘匿法域のたどり方（EBU Spotlight・OCCRP の手引き・登記の原本で確かめる・暫定の印） やり方",
    "results": [
     "https://www.tsr-net.co.jp/service/detail/ubo.html",
-    "https://www.moj.go.jp/MINJI/minji06_00116.html",
-    "https://c-datalab.com/ja/blog/idr-matching_20240628",
     "https://www.onamae.com/business/article/242733/",
+    "https://c-datalab.com/ja/blog/idr-matching_20240628",
     "https://www.riskeyes.jp/hansha-check-column/347",
+    "https://www.moj.go.jp/MINJI/minji06_00116.html",
     "https://www.bk.mufg.jp/otorihiki_kakunin/pdf/hojin_torihikimokuteki_jissitsu.pdf",
+    "https://jinjibu.jp/spcl/goglobal/cl/detl/6206/",
     "https://www.tdb.co.jp/services/lineup/ubo/",
-    "https://goglobal.co.jp/news/849/",
-    "https://cdn.kyodonewsprwire.jp/prwfile/release/M101737/202403218301/_prw_PR1fl_Zj5pJFzj.pdf"
+    "https://goglobal.co.jp/news/849/"
    ],
    "engines": [
     "yahoo_jp"
@@ -2119,21 +2214,21 @@
    "query": "beneficial ownership tracing nominee directors secrecy jurisdictions OSINT tutorial EBU Spotlight OCCRP",
    "results": [
     "https://thedocs.worldbank.org/en/doc/734641611672284678-0090022021/original/BeneficialOwnershipTransparency.pdf",
-    "https://www.occrp.org/en/project/beneficial-ownership-data-is-critical-in-the-fight-against-corruption",
+    "https://www.occrp.org/en/project/beneficial-ownership-data-is-critical-in-the-fight-against-corruption/faq-the-eu-ruling-on-ownership-transparency-and-what-it-means-for-journalists",
     "https://www.openownership.org/en/publications/implementation-of-cosp-resolution-10-6/tracing-beneficial-ownership-networks-across-borders/",
     "https://www.fatf-gafi.org/content/dam/fatf-gafi/guidance/Guidance-transparency-beneficial-ownership.pdf.coredownload.pdf",
     "https://www.flagright.com/post/the-role-of-ai-in-unmasking-beneficial-ownership-structures",
     "https://www.lexisnexis.com/pdf/The-Hidden-World-of-Beneficial-Ownership.pdf",
     "https://www.opengovpartnership.org/open-gov-guide/anti-corruption-company-beneficial-ownership/",
+    "https://www.unodc.org/rosaf/uploads/documents/Publication/UNDC_BOT_PEP_Toolkit_web.pdf",
     "https://www.transparency.org/en/corruptionary/beneficial-ownership-secrecy",
-    "https://taxjustice.net/2022/02/16/addressing-the-secrecy-risks-of-complex-ownership-chains-another-tool-to-improve-beneficial-ownership-verification/",
-    "https://refyc.com/blog/oligarchs-shell-companies"
+    "https://osintbench.com/guides/financial-osint/"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 16
   },
   {
    "query": "site:note.com 実質の持ち主（UBO）と名義役員・秘匿法域のたどり方（EBU Spotlight・OCCRP の手引き・登記の原本で確かめる・暫定の印）",
@@ -2143,8 +2238,8 @@
     "https://note.com/amlcftmukudori/n/n5fc3c39bb120",
     "https://note.com/argentroi/n/n20e6a3206229",
     "https://note.com/houritsushoku/n/n5521b49c1990",
-    "https://note.com/nice_cosmos4982/n/n1a7ad092f9f1",
-    "https://note.com/regal_liger1600/n/nabecabcfefc0"
+    "https://note.com/regal_liger1600/n/nabecabcfefc0",
+    "https://note.com/nice_cosmos4982/n/n1a7ad092f9f1"
    ],
    "engines": [
     "ddgs:google"
@@ -2156,14 +2251,14 @@
    "results": [
     "https://x.com/yota1967/status/2070384402451034364",
     "https://x.com/921_kunii/status/2067082965222654002",
-    "https://x.com/actvmda_info/status/2070493796790624594",
-    "https://x.com/Cambodiataro/status/2054139329287708908",
-    "https://x.com/kuro_c114/status/2086977782882709813",
+    "https://x.com/yota1967/status/2103101232512741821",
     "https://x.com/KP_kansahoumu/status/2036748893778493790",
-    "https://x.com/fono5/status/2096569253684248767"
+    "https://x.com/Yomiuri_Online/status/2119600858749124618",
+    "https://x.com/gi26ai/status/2055080545051398606",
+    "https://x.com/actvmda_info/status/2070493796790624594"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   },
@@ -2174,12 +2269,12 @@
     "https://jp.linkedin.com/pulse/due-diligence-201-practical-ubo-tactics-experts-cynthia-ugwu-fayte?tl=ja",
     "https://www.linkedin.com/pulse/due-diligence-201-practical-ubo-tactics-experts-cynthia-ugwu-fayte/",
     "https://www.linkedin.com/pulse/dominance-vs-accumulation-understanding-ubo-methods-sunil-i8nvf",
-    "https://jp.linkedin.com/pulse/future-ultimate-beneficial-ownership-ubo-kcpdc?tl=ja",
     "https://jp.linkedin.com/pulse/ubos-vs-pscs-overlooked-distinction-thats-exposing-wilgenhof-plante-ecehe?tl=ja",
+    "https://jp.linkedin.com/pulse/future-ultimate-beneficial-ownership-ubo-kcpdc?tl=ja",
     "https://jp.linkedin.com/pulse/future-ultimate-beneficial-owners-ubo-identification-lies-bisht-ruc3c?tl=ja"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -2206,10 +2301,10 @@
     "https://www.tsr-net.co.jp/service/detail/ubo.html",
     "https://www.onamae.com/business/article/242733/",
     "https://www.riskeyes.jp/hansha-check-column/347",
-    "https://note.com/amlcftmukudori/n/nf1f7c8491c0e",
     "https://jinjibu.jp/spcl/goglobal/cl/detl/6206/",
     "https://c-datalab.com/ja/blog/idr-matching_20240628",
-    "https://cdn.kyodonewsprwire.jp/prwfile/release/M101737/202403218301/_prw_PR1fl_Zj5pJFzj.pdf",
+    "https://note.com/amlcftmukudori/n/nf1f7c8491c0e",
+    "https://www.moj.go.jp/MINJI/minji06_00116.html",
     "https://www.mof.go.jp/policy/international_policy/amlcftcpf/Guidance-Beneficial-Ownership-Legal-Persons-Japanese.pdf"
    ],
    "engines": [
@@ -2224,11 +2319,11 @@
     "https://www.riskeyes.jp/hansha-check-column/347",
     "https://www.onamae.com/business/article/242733/",
     "https://japan.eb.com/rg/article-04583800",
-    "https://cdn.kyodonewsprwire.jp/prwfile/release/M101737/202403218301/_prw_PR1fl_Zj5pJFzj.pdf",
     "https://note.com/amlcftmukudori/n/ne95e558ca244",
     "https://www.moj.go.jp/MINJI/minji06_00116.html",
     "https://jinjibu.jp/spcl/goglobal/cl/detl/6206/",
-    "https://www.tdb.co.jp/services/lineup/ubo/"
+    "https://www.tdb.co.jp/services/lineup/ubo/",
+    "https://cdn.kyodonewsprwire.jp/prwfile/release/M101737/202403218301/_prw_PR1fl_Zj5pJFzj.pdf"
    ],
    "engines": [
     "yahoo_jp"
@@ -2239,12 +2334,12 @@
    "query": "beneficial ownership tracing nominee directors secrecy jurisdictions OSINT tutorial EBU Spotlight OCCRP site:linkedin.com",
    "results": [
     "https://www.linkedin.com/pulse/due-diligence-201-practical-ubo-tactics-experts-cynthia-ugwu-fayte/",
-    "https://www.linkedin.com/pulse/peeling-back-layers-uncovering-beneficial-ownership-grbse",
+    "https://www.linkedin.com/posts/eurovisionnews-spotlight_tracing-beneficial-ownership-with-osint-for-activity-7404090131718119425-v9hK",
     "https://pe.linkedin.com/pulse/beneficial-ownership-transparency-critical-tool-crime-rangan-cams-ztv0c",
     "https://ch.linkedin.com/in/bowlerderek",
     "https://ch.linkedin.com/showcase/eurovisionnews-spotlight/",
-    "https://www.linkedin.com/posts/eurovisionnews-spotlight_tracing-beneficial-ownership-with-osint-for-activity-7404090131718119425-v9hK",
-    "https://www.linkedin.com/posts/adrian-gieres-cybersecurity_enhancedduediligence-edd-aml-activity-7511336375099482112-gCrx"
+    "https://www.linkedin.com/learning/mastering-financial-compliance-and-anti-money-laundering/ubo-investigation-techniques-tracing-ownership-via-public-registries-34471133",
+    "https://www.linkedin.com/pulse/nominee-shareholders-directors-offshore-onshore-jurisdictions-jl7uf"
    ],
    "engines": [
     "ddgs:google"
@@ -2254,119 +2349,107 @@
  ],
  "missing": {},
  "new_this_run": {
-  "一次情報の探し方": [
+  "SNS・note（note・検索結果の抜粋）": [
    {
-    "quote": "Natural language processing extracts key fields from unstructured documents, identifying beneficial owners mentioned in free-text disclosures, annual reports, or legal filings with 90%+ accuracy.",
-    "url": "https://www.flagright.com/post/the-role-of-ai-in-unmasking-beneficial-ownership-structures",
+    "quote": "【顧客管理：実務①】KYB実務ガイド──UBO特定の判断フローと外国法人対... Apr 4, 2026 · 最新の改正情報は金融庁ホームページ等でご確認ください。 この記事では、法人顧客の確認（KYB）で中心になる実質的支配者（UBO）の特定を取り上げます。 判定の順序、間接保有の数え方、外国法人で情報が取れないときの考え方を整理します。",
+    "url": "https://note.com/amlcftmukudori/n/nf1f7c8491c0e",
     "pass": 3,
-    "first_seen": "2026-11-08"
+    "first_seen": "2026-11-09"
    },
    {
-    "quote": "Modern AI systems process beneficial ownership declarations in any format: scanned PDFs, photographed documents, handwritten forms, multi-language documents, and complex layouts with tables and checkboxes.",
-    "url": "https://www.flagright.com/post/the-role-of-ai-in-unmasking-beneficial-ownership-structures",
+    "quote": "【03顧客管理-完全版#5】法人UBO特定 25%ルールの実務適用と境界線｜A... May 6, 2026 · 最新の改正情報は警察庁・金融庁ホームページ等でご確認ください。 本章の要旨（120〜160字）：法人顧客の実質的支配者（UBO）特定は犯収法施行規則第11条第2項の4パターン（25%超→支配的影響力→収益分配権→代表者フォールバック）で完結します。",
+    "url": "https://note.com/amlcftmukudori/n/n5fc3c39bb120",
     "pass": 3,
-    "first_seen": "2026-11-08"
+    "first_seen": "2026-11-09"
    },
    {
-    "quote": "Leading platforms recognize thousands of beneficial ownership form types including FinCEN BOI reports (USA), PSC registers (UK), UBO declarations (EU), company registry filings (global), and bank KYB intake forms.",
-    "url": "https://www.flagright.com/post/the-role-of-ai-in-unmasking-beneficial-ownership-structures",
+    "quote": "法人KYCと実質的支配者 (UBO)確認の流れ｜ロイのたわ言 Dec 11, 2025 · 法人のお客さんと取引するときって、個人のKYCよりちょっとややこしいんだよね。 なんでかっていうと、法人そのものの実態と、中の“人”もチェックしないといけないから。 ざっくり流れを話すと、こんな感じ。",
+    "url": "https://note.com/argentroi/n/n20e6a3206229",
     "pass": 3,
-    "first_seen": "2026-11-08"
+    "first_seen": "2026-11-09"
    }
   ],
-  "実例": [
+  "手順・やり方": [
    {
-    "quote": "After last week’s judgment, such a project is likely impossible in Europe. Worse, non-EU countries may follow Europe’s example and roll back progress on corporate transparency made over the past few years. That’s bad news not only for journalists, but for everyone.",
-    "url": "https://www.occrp.org/en/project/beneficial-ownership-data-is-critical-in-the-fight-against-corruption",
+    "quote": "STEP3：",
+    "url": "https://www.tdb.co.jp/services/lineup/ubo/",
     "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Last year, for example, OCCRP reporters from Turkmenistan, whose government is one of the world’s most corrupt and repressive, used information from the U.K. beneficial ownership register to show how their government had been doling out food import contracts to the president’s nephew. Perhaps in an effort to cover his tracks, he had set up his food import company in the United Kingdom.",
-    "url": "https://www.occrp.org/en/project/beneficial-ownership-data-is-critical-in-the-fight-against-corruption",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "We will continue to add updates with more information on the ruling and its implications, plus more examples of journalism enabled by public access to ownership registers.",
-    "url": "https://www.occrp.org/en/project/beneficial-ownership-data-is-critical-in-the-fight-against-corruption",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Start with a pilot analyzing 100-200 entities before enterprise-wide deployment. This reveals data quality issues in your source systems, identifies edge cases requiring custom configuration, and builds internal expertise before scaling.",
-    "url": "https://www.flagright.com/post/the-role-of-ai-in-unmasking-beneficial-ownership-structures",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Solutions must integrate with existing technology stacks through RESTful APIs for embedding into customer portals and operational systems, webhooks for real-time alerts when ownership changes, batch processing for screening large portfolios, and pre-built connectors for CRM systems (Salesforce, HubSpot), case management platforms, and core banking systems.",
-    "url": "https://www.flagright.com/post/the-role-of-ai-in-unmasking-beneficial-ownership-structures",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Deploy AI as a tool augmenting human analysts, not replacing them. Use AI to handle 80-90% of straightforward cases automatically while routing complex or ambiguous situations to experienced investigators.",
-    "url": "https://www.flagright.com/post/the-role-of-ai-in-unmasking-beneficial-ownership-structures",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "companies. The World Bank has estimated that",
-    "url": "https://www.lexisnexis.com/pdf/The-Hidden-World-of-Beneficial-Ownership.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "reported in 2014 that an estimated 8% – more than",
-    "url": "https://www.lexisnexis.com/pdf/The-Hidden-World-of-Beneficial-Ownership.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "An estimated 8% – more",
-    "url": "https://www.lexisnexis.com/pdf/The-Hidden-World-of-Beneficial-Ownership.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
+    "first_seen": "2026-11-09"
    }
   ],
   "SNS・note（LinkedIn・検索結果の抜粋）": [
    {
-    "quote": "UBOとは？実質的支配者の意味と判定の流れを図解で解説 | 酒井 星輝 実質的支配者（UBO）とは？ 法人の議決権の25%超を持つなど、その法人を実質的に支配している自然人のことです。 該当する人がいない場合は、代表者などが実質的支配者になります。 判定の流れを図解でまとめました。 https://lnkd.in/gDe-6t2k UBOとは？",
-    "url": "https://jp.linkedin.com/posts/ssakai68_uboとは実質的支配者の意味と判定の流れを図解で解説-activity-7524670754525888513-1hmD",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "デューデリジェンス201:専門家のための実践的なUBO戦術 Jun 30, 2025 · 企業インテリジェンスにおいて、究極の実質的所有者の追跡 (UBOs 経験豊富な調査官、コンプライアンス担当者、リスクアナリストにとって、これは単なる理論的な作業以上のものです。これは戦術的な挑戦であり、しばしば行き止まりやノミネートされた取締役、そしてオフショアの不透明性 ...",
+    "quote": "デューデリジェンス201:専門家のための実践的なUBO戦術 Jun 30, 2025 · 私は、調査官がケイマン諸島で指名された取締役を数週間かけて追いかけ、実際のUBOが10年前の英国の裁判所提出書類に記載されていたり、2019年のLinkedIn投稿で「コンサルタント」として本物の管理者が登場していたのを見たことがあります。",
     "url": "https://jp.linkedin.com/pulse/due-diligence-201-practical-ubo-tactics-experts-cynthia-ugwu-fayte?tl=ja",
     "pass": 3,
-    "first_seen": "2026-11-08"
+    "first_seen": "2026-11-09"
    },
    {
-    "quote": "Dominance vs. Accumulation: Understanding UBO Identification ... Nov 25, 2024 · Two primary methods are used to identify UBOs: Dominance and Accumulation. Understanding the nuances of these methods is essential for effective AML/KYC compliance.",
+    "quote": "Due Diligence 201: Practical UBO Tactics for Experts - LinkedIn Jun 30, 2025 · Let's talk about a practical approach to UBO tracing that prioritises efficiency, accuracy, and real-world constraints.",
+    "url": "https://www.linkedin.com/pulse/due-diligence-201-practical-ubo-tactics-experts-cynthia-ugwu-fayte/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Dominance vs. Accumulation: Understanding UBO Identification ... Nov 25, 2024 · Let’s connect and discuss how your organization approaches UBO identification or the challenges you’ve encountered!",
     "url": "https://www.linkedin.com/pulse/dominance-vs-accumulation-understanding-ubo-methods-sunil-i8nvf",
     "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "SNS・note（Facebook・検索結果の抜粋）": [
-   {
-    "quote": "LSEG - 効果的な #UBO (実質的支配者）コンプライアンスを行うために... Jul 22, 2024 · 効果的な #UBO (実質的支配者）コンプライアンスを行うためには、どのような点を考慮する必要があるのでしょうか。 こちらをご覧くだい >> lseg.group/3Wtdisu ＃UBO ＃実質的支配者 #最終受益者 #コンプライアンス",
-    "url": "https://www.facebook.com/LSEGJapan/photos/効果的な-ubo-実質的支配者コンプライアンスを行うためにはどのような点を考慮する必要があるのでしょうかこちらをご覧くだい-lseggroup3wtdisuub/958564096283081/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
+    "first_seen": "2026-11-09"
    },
    {
-    "quote": "【合作前先過照妖鏡？秒懂大公司都在查的「UBO 最終受益所有人」是什... UBO 審查機制的出現，就是為了確保商場上沒有這些隱藏的 八點檔，讓雙方都能基於真實透明的背景，建立穩穩的 合作信任！ 💬 你是否有聽說過一些不查不知道，一查發現一堆問題的 合作公司、人物呢? 歡迎在留言區分享！",
-    "url": "https://www.facebook.com/LawMangaShare/videos/合作前先過照妖鏡秒懂大公司都在查的ubo-最終受益所有人是什麼在進行商業合作或與銀行有往來時有時會看到一個名詞uboultimate-beneficial-ow/2037841383490375/",
+    "quote": "Due Diligence 201: Practical UBO Tactics for Experts - LinkedIn Jun 30, 2025 · In corporate intelligence, tracing Ultimate Beneficial Owners (UBOs) is one of the most fundamental yet often misunderstood steps in due diligence.",
+    "url": "https://www.linkedin.com/pulse/due-diligence-201-practical-ubo-tactics-experts-cynthia-ugwu-fayte/",
     "pass": 3,
-    "first_seen": "2026-11-08"
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Exposing UBOs: OSINT Methodology for Investigative ... For journalists, exposing the Ultimate Beneficial Owner (UBO)—the real person behind the corporate veil—is key to holding power to account.",
+    "url": "https://www.linkedin.com/posts/eurovisionnews-spotlight_tracing-beneficial-ownership-with-osint-for-activity-7404090131718119425-v9hK",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Derek Bowler – Investigative Journalist | OSINT, Digital ...Eurovision News Spotlight | LinkedInUBO investigation techniques: Tracing ownership via public ...NOMINEE SHAREHOLDERS AND DIRECTORS IN OFFSHORE AND ONSHORE ... I set up and ran a verification service for eyewitness media used by more than 100 public service broadcasters, then founded an OSINT and fact-checking network of 30 broadcasters ",
+    "url": "https://ch.linkedin.com/in/bowlerderek",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "【03顧客管理-完全版#5】法人UBO特定 25%ルールの実務適用と境界線｜A... — May 6, 2026 · 最新の改正情報は警察庁・金融庁ホームページ等でご確認ください。 本章の要旨（120〜160字）：法人顧客の実質的支配者（UBO）特定は犯収法施行規則第11条第2項の4パターン（25%超→支配的影響力→収益分配権→代表者フォールバック）で完結します。",
+    "url": "https://note.com/amlcftmukudori/n/n5fc3c39bb120",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "【顧客管理：実務①】KYB実務ガイド──UBO特定の判断フローと外国法人対... — Apr 4, 2026 · 最新の改正情報は金融庁ホームページ等でご確認ください。 この記事では、法人顧客の確認（KYB）で中心になる実質的支配者（UBO）の特定を取り上げます。 判定の順序、間接保有の数え方、外国法人で情報が取れないときの考え方を整理します。",
+    "url": "https://note.com/amlcftmukudori/n/nf1f7c8491c0e",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "法人KYCと実質的支配者 (UBO)確認の流れ｜ロイのたわ言 — Dec 11, 2025 · 法人のお客さんと取引するときって、個人のKYCよりちょっとややこしいんだよね。 なんでかっていうと、法人そのものの実態と、中の“人”もチェックしないといけないから。 ざっくり流れを話すと、こんな感じ。",
+    "url": "https://note.com/argentroi/n/n20e6a3206229",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "【ベトナム会社法改正】名義貸しスキームは終焉へ──「実質的所有者」... — Jul 11, 2025 · 2025年7月1日、ベトナムで施行された改正企業法（第76/2025/QH15号）は、企業の**「実質的所有者（UBO：Ultimate Beneficial Owner）」** に関する情報の申告・管理を義務化しました。",
+    "url": "https://note.com/vnhr/n/n62aa660f36ef",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "太田洋@SPEC on X: \"本日、内閣官房に、「法人等の実質的支配者（BO）... UBOとも呼ばれる）について義務的登録制度が整備されていない我が国において、BOの義務的登録制度を創設するための新法の整備は、AML/CFTや経済安保の観点、さらには消費者保護の観点からも喫緊の課題であり、その観点から新法創設を強く支持する意見を ...",
+    "url": "https://x.com/yota1967/status/2103101232512741821",
+    "pass": 3,
+    "first_seen": "2026-11-09"
    }
   ]
  },
- "runs": 2,
+ "runs": 3,
  "first_researched_at": "2026-11-08T13:55:06.018273+00:00"
 }
