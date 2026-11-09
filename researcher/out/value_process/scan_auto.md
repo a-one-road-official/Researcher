@@ -569,7 +569,7 @@
 - 独立の出どころ2か所以上が数字を持つ品目（突き合わせできる品目）：10件／数字のある品目 10件（100%）。残りは判定の一致を測る前に、別の出どころが同じ問いを扱っていない（選択の不一致）
   - note.com と business.nikkei.com：品目の重なり 2/2（100%）
   - note.com と bookplus.nikkei.com：品目の重なり 2/2（100%）
-  - business.nikkei.com と bookplus.nikkei.com：品目の重なり 2/2（100%）
+  - bookplus.nikkei.com と business.nikkei.com：品目の重なり 2/2（100%）
   - note.com と service.grandcentral.jp：品目の重なり 1/3（33%）
   - business.nikkei.com と service.grandcentral.jp：品目の重なり 1/3（33%）
 

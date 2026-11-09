@@ -8,9 +8,173 @@
  ],
  "context": "突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-08T18:24:22.358487+00:00",
+ "researched_at": "2026-11-09T02:41:00.869109+00:00",
  "evidence": {
+  "突き合わせ・推定": [
+   {
+    "quote": "Describe how studies were grouped for synthesis, how missing data and effect estimates were handled, how results were presented, the meta-analysis method (if used), and any heterogeneity or sensitivity analyses.",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "For every outcome, present summary statistics and effect estimates with precision (e.g. confidence intervals) for each study and each synthesis.",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Pooling clinically or methodologically heterogeneous studies into a single effect estimate because a table of results is less satisfying to present, rather than because pooling was statistically and clinically appropriate.",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Systematic reviews and meta-analyses are among the most influential forms of evidence synthesis in medical research but publication depends on more than having a statistically significant pooled estimate. Authors must demonstrate transparent methods, reproducible searches, explicit eligibility criteria, appropriate risk-of-bias assessment, defensible statistical synthesis, and complete reporting.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Do not formulate the research question after seeing the search results or pooled estimate. Changing the question or outcome emphasis in response to available evidence can introduce selective reporting and undermine methodological credibility.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Risk-of-bias assessment affects interpretation of the evidence. A pooled effect estimate without a transparent assessment of study limitations can give a misleading impression of certainty.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "A statistically significant pooled estimate does not automatically represent high-certainty evidence.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "—The combination of quantitative results of two or more studies. This encompasses meta-analysis of effect estimates (described below) and other methods, such as combining P values, calculating the range and distribution of observed effects, and vote counting based on the direction of effect (see McKenzie and Brennan",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Meta-analysis of effect estimates",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "—A statistical technique used to synthesize results when study effect estimates and their variances are available, yielding a quantitative summary of results",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "—The combination of a point estimate (such as a mean difference, risk ratio or proportion) and a measure of its precision (such as a confidence/credible interval) for a particular outcome",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Present results for main outcomes, preferably indicating the number of included studies and participants for each. If meta-analysis was done, report the summary estimate and confidence/credible interval. If comparing groups, indicate the direction of the effect (that is, which group is favoured)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Furthermore, authors need to interpret effect estimates in relation to whether the effect is of importance to decision makers. For a particular outcome and effect measure, this requires specification of thresholds (or ranges) used to interpret the size of effect (such as minimally important difference; ranges for no/trivial, small, moderate, and large effects).",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "transforming effect estimates (such as converting standardised mean differences to odds ratios",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "The principal graphical method for meta-analysis is the forest plot, which displays the effect estimates and confidence intervals of each study and often the summary estimate.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Similar to tabulation, ordering the studies in the forest plot based on study characteristics (such as by size of the effect estimate, year of publication, study weight, or overall risk of bias) rather than alphabetically (as is often done) can reveal patterns in the data.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Other graphs that aim to display information about the magnitude or direction of effects might be considered when a forest plot cannot be used due to incompletely reported effect estimates (such as no measure of precision reported).",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Various statistical methods are available to synthesise results, the most common of which is meta-analysis of effect estimates (see",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "). Meta-analysis is used to synthesise effect estimates across studies, yielding a summary estimate. Different meta-analysis models are available, with the random-effects and fixed-effect models being in widespread use. Model choice can importantly affect the summary estimate and its confidence interval; hence the rationale for the selected model should be provided (see",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Meta-analysis is a statistical technique used to synthesise results when study effect estimates and their variances are available, yielding a quantitative summary of results.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "The method facilitates interpretation that would otherwise be difficult to achieve if, for example, a narrative summary of each result was presented, particularly as the number of studies increases. Furthermore, meta-analysis increases the chance of detecting a clinically important effect as statistically significant, if it exists, and increases the precision of the estimated effect.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "The summary estimate is a weighted average of the study effect estimates, where the study weights are determined primarily by the meta-analysis model. The two most common meta-analysis models are the “fixed-effect” and “random-effects” models.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Report summary data and effect estimates for each study, including confidence intervals.",
+    "url": "https://paperguide.ai/blog/prisma-guidelines/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
   "実例": [
+   {
+    "quote": "A narrative review of selected papers, described as “systematic” without a registered protocol, documented search, or dual screening, is not a systematic review regardless of the label — this is explicitly called out as a counter-example on CASRAI’s own",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "— How review-article length varies by type (narrative, systematic, scoping, meta-analysis) and by journal, with Cochrane, JAMA, BMJ, and Nature Reviews examples.",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "For example, randomized trials, observational studies, diagnostic accuracy studies, and prognostic studies may require different risk-of-bias approaches.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "paper, which provides examples and rationale for individual checklist items.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
    {
     "quote": "In this article we explain why reporting of each item is recommended, present bullet points that detail the reporting recommendations, and present examples from published reviews",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
@@ -144,27 +308,187 @@
     "first_seen": "2026-11-08"
    }
   ],
-  "一次情報の探し方": [
-   {
-    "quote": "Specify the primary source of funding for the review",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "pagm061901.w1.pdf",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "(757.9KB, pdf)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
   "手順・やり方": [
+   {
+    "quote": "PRISMA Full Form & Meaning: Not a Methodology — CASRAI",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "PRISMA — Preferred Reporting Items for Systematic Reviews and Meta-Analyses — is a reporting checklist, not a methodology. This guide covers the full 27-item PRISMA 2020 checklist, the flow diagram, how to use PRISMA in practice, and its main extensions.",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "PRISMA stands for Preferred Reporting Items for Systematic Reviews and Meta-Analyses. It is not a research method — it is PRISMA 2020, the 27-item reporting checklist that specifies what a finished systematic review or meta-analysis must report, not how to search, screen, or synthesize evidence.",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The rules for conducting a review live in the Cochrane Handbook; a PRISMA-compliant review can still rest on flawed methodology.",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "covering what to report in the title, abstract, introduction, methods, results, discussion, and “other information” sections of a systematic review.",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Because it is a reporting standard, satisfying PRISMA is a necessary but not sufficient condition for a good systematic review. A review can be PRISMA-compliant on paper — every checklist item ticked — while still resting on a biased search or an inappropriate meta-analysis. The methodological rules for actually",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Report per the separate PRISMA 2020 for Abstracts checklist (objectives, methods, results, limitations, funding).",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Methods — Eligibility criteria",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Methods — Information sources",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Methods — Search strategy",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Methods — Selection process",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Methods — Data collection process",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Methods — Risk of bias assessment",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Specify the method and tool used to assess risk of bias, and how many reviewers were involved.",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Methods — Effect measures",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Systematic reviews and meta-analyses are among the most influential forms of evidence synthesis in medical research but publication depends on more than having a statistically significant pooled estimate. Authors must demonstrate transparent methods, reproducible searches, explicit eligibility criteria, appropriate risk-of-bias assessment, defensible statistical synthesis, and complete reporting.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The PRISMA 2020 guidelines provide the principal reporting framework for systematic reviews and meta-analyses. The updated guideline replaced PRISMA 2009 and introduced a revised 27-item checklist, an expanded checklist, a dedicated abstract checklist, and updated flow diagrams.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "For researchers preparing a manuscript in 2026, the practical objective is straightforward: build the review so that every major methodological decision can be located, justified, reproduced, and audited.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "PRISMA stands for Preferred Reporting Items for Systematic reviews and Meta-Analyses. PRISMA 2020 is a reporting guideline designed to help authors communicate why a review was conducted, how evidence was identified and selected, what methods were used, and what the review found.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The framework contains 27 main checklist items, organized across seven sections:",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "PRISMA is a reporting guideline, not a tool for determining whether the underlying systematic review is methodologically high quality. The original PRISMA publication explicitly cautioned against using the checklist as a quality-assessment instrument.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "A manuscript can contain sophisticated statistical methods and still receive editorial criticism if readers cannot determine:",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Step 1: Define a Focused Review Question",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "State an explicit review objective or research question. Depending on the research design, authors may structure the question around PICO Population, Intervention, Comparator, and Outcome or another appropriate framework.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "For diagnostic studies, prognostic research, qualitative evidence, epidemiological questions, or complex interventions, alternative frameworks may be more appropriate.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Do not formulate the research question after seeing the search results or pooled estimate. Changing the question or outcome emphasis in response to available evidence can introduce selective reporting and undermine methodological credibility.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Step 2: Establish Eligibility Criteria Before Screening",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Step 3: Build a Reproducible Literature Search",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Search methodology is one of the most heavily scrutinized components of a systematic review.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Step 4: Document Study Selection With the PRISMA Flow Diagram",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
    {
     "quote": "Clinical Research Institute, American University of Beirut, Beirut, Lebanon; Department of Health Research Methods, Evidence, and Impact, McMaster University, Hamilton, Ontario, Canada",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
@@ -346,105 +670,207 @@
     "first_seen": "2026-11-08"
    }
   ],
-  "突き合わせ・推定": [
+  "一次情報の探し方": [
    {
-    "quote": "—The combination of quantitative results of two or more studies. This encompasses meta-analysis of effect estimates (described below) and other methods, such as combining P values, calculating the range and distribution of observed effects, and vote counting based on the direction of effect (see McKenzie and Brennan",
+    "quote": "Specify the primary source of funding for the review",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "Meta-analysis of effect estimates",
+    "quote": "pagm061901.w1.pdf",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "—A statistical technique used to synthesize results when study effect estimates and their variances are available, yielding a quantitative summary of results",
+    "quote": "(757.9KB, pdf)",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "—The combination of a point estimate (such as a mean difference, risk ratio or proportion) and a measure of its precision (such as a confidence/credible interval) for a particular outcome",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Present results for main outcomes, preferably indicating the number of included studies and participants for each. If meta-analysis was done, report the summary estimate and confidence/credible interval. If comparing groups, indicate the direction of the effect (that is, which group is favoured)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Furthermore, authors need to interpret effect estimates in relation to whether the effect is of importance to decision makers. For a particular outcome and effect measure, this requires specification of thresholds (or ranges) used to interpret the size of effect (such as minimally important difference; ranges for no/trivial, small, moderate, and large effects).",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "transforming effect estimates (such as converting standardised mean differences to odds ratios",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "The principal graphical method for meta-analysis is the forest plot, which displays the effect estimates and confidence intervals of each study and often the summary estimate.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Similar to tabulation, ordering the studies in the forest plot based on study characteristics (such as by size of the effect estimate, year of publication, study weight, or overall risk of bias) rather than alphabetically (as is often done) can reveal patterns in the data.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Other graphs that aim to display information about the magnitude or direction of effects might be considered when a forest plot cannot be used due to incompletely reported effect estimates (such as no measure of precision reported).",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Various statistical methods are available to synthesise results, the most common of which is meta-analysis of effect estimates (see",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "). Meta-analysis is used to synthesise effect estimates across studies, yielding a summary estimate. Different meta-analysis models are available, with the random-effects and fixed-effect models being in widespread use. Model choice can importantly affect the summary estimate and its confidence interval; hence the rationale for the selected model should be provided (see",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Meta-analysis is a statistical technique used to synthesise results when study effect estimates and their variances are available, yielding a quantitative summary of results.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "The method facilitates interpretation that would otherwise be difficult to achieve if, for example, a narrative summary of each result was presented, particularly as the number of studies increases. Furthermore, meta-analysis increases the chance of detecting a clinically important effect as statistically significant, if it exists, and increases the precision of the estimated effect.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "The summary estimate is a weighted average of the study effect estimates, where the study weights are determined primarily by the meta-analysis model. The two most common meta-analysis models are the “fixed-effect” and “random-effects” models.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Report summary data and effect estimates for each study, including confidence intervals.",
-    "url": "https://paperguide.ai/blog/prisma-guidelines/",
     "pass": 3,
     "first_seen": "2026-11-08"
    }
   ],
   "失敗・落とし穴": [
+   {
+    "quote": "Because it is a reporting standard, satisfying PRISMA is a necessary but not sufficient condition for a good systematic review. A review can be PRISMA-compliant on paper — every checklist item ticked — while still resting on a biased search or an inappropriate meta-analysis. The methodological rules for actually",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Methods — Risk of bias assessment",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Specify the method and tool used to assess risk of bias, and how many reviewers were involved.",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Methods — Reporting bias assessment",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Describe the method used to assess bias from missing results (e.g. selective non-reporting) within each synthesis.",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Results — Risk of bias in studies",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Present risk-of-bias assessments for every included study.",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Summarise the characteristics and risk of bias of studies contributing to each synthesis; present all statistical results, including heterogeneity and sensitivity findings, for each meta-analysis or other synthesis.",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Results — Reporting biases",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Present an assessment of reporting bias for each synthesis.",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "PRISMA’s predecessor, QUOROM (1999), addressed reporting for meta-analyses of randomised trials specifically. PRISMA 2009 broadened the scope to systematic reviews generally, and PRISMA 2020 updated the checklist to reflect advances in how reviews identify, select, appraise, and synthesise studies — search reporting, risk-of-bias assessment, and certainty-of-evidence rating chief among them.",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Choose and apply a risk-of-bias tool matched to your studies’ design",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "4. Data extraction and risk-of-bias assessment",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Included studies are read in full and their data pulled into a standardised extraction form, ideally by more than one reviewer independently, to limit transcription error. Each included study is then assessed for risk of bias using a tool matched to its design — commonly the Cochrane",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "framework (high/moderate/low/very low), which combines risk of bias, inconsistency, indirectness, imprecision, and publication-bias considerations into a single certainty rating.",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Systematic reviews and meta-analyses are among the most influential forms of evidence synthesis in medical research but publication depends on more than having a statistically significant pooled estimate. Authors must demonstrate transparent methods, reproducible searches, explicit eligibility criteria, appropriate risk-of-bias assessment, defensible statistical synthesis, and complete reporting.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Document eligibility, searching, selection, extraction, risk of bias, and synthesis",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "how risk of bias was assessed;",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Step 5: Describe Data Collection and Risk-of-Bias Assessment",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "risk-of-bias assessment",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "For example, randomized trials, observational studies, diagnostic accuracy studies, and prognostic studies may require different risk-of-bias approaches.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Risk-of-bias assessment affects interpretation of the evidence. A pooled effect estimate without a transparent assessment of study limitations can give a misleading impression of certainty.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Risk of bias is not the same as PRISMA compliance. PRISMA tells you how to report the assessment; it does not prescribe a universal risk-of-bias instrument.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Avoid converting a multidomain risk-of-bias assessment into an arbitrary single “quality score” unless the methodology specifically justifies that approach.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "publication-bias or small-study-effect assessments where appropriate; and",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "PRISMA 2020 separates synthesis reporting into multiple sub-items. Authors should report the characteristics and risk of bias of studies contributing to each synthesis, statistical synthesis results, investigations of possible heterogeneity, and sensitivity analyses.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "publication or other reporting biases.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "identified evidence → included studies → extracted characteristics → risk of bias → synthesis → interpretation",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Risk-of-bias methods are specified and appropriate to study design.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Publication bias/small-study effects are assessed where appropriate.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
    {
     "quote": "Specify the methods used to assess risk of bias in the included studies",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
@@ -631,34 +1057,34 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/kimatta_kotae/n/n2cdb8416843a",
+    "url": "https://www.lifescience.co.jp/yk/jpt_online/PRISMA.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/seodoa_academy/n/n3c0a142cadc2",
+    "url": "https://www.gatsbi.com/ja/resources/prisma-guidelines",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/talkoneselfpt/n/nd0d1c5ee90c8",
+    "url": "https://japan.editverse.com/prisma-systematic-review-reporting/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/neuralworks/n/n53bc0ca3f1fd",
+    "url": "https://www.jhnfa.org/prismacheck1.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
-    "url": "https://note.com/masahiko_studio/n/n79cdd9fc4c73",
+    "url": "https://www.lifescience.co.jp/yk/jpt_online/prisma/list_1.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
-    "url": "https://note.com/zawa_warks/n/n8624e14ba73d",
+    "url": "https://www.lifescience.co.jp/yk/jpt_online/prisma/j20210831.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
     "url": "https://best-biostatistics.com/review/publication-stat-write.html",
@@ -666,32 +1092,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.intra-mart.jp/im-press/useful/multi-regression_analysis",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://smart-analytics.jp/info/spss-tips-4/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://best-biostatistics.com/summary/missing_value.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://datachemeng.com/several_experiments_in_the_same_experimental_conditions/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://mdsc.kyushu-u.ac.jp/wp/wp-content/uploads/2023/07/7a88a180ee6166757fe23f82fa579cdc.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://engineer-education.com/experimental-design-basic06_data-analysis_results-verification/",
+    "url": "https://kei-science.com/statistics-hypothesis-testing/",
     "status": "ok",
     "method": "http"
    },
@@ -701,42 +1102,37 @@
     "method": "pdf"
    },
    {
-    "url": "https://kei-science.com/statistics-hypothesis-testing/",
+    "url": "https://engineer-education.com/experimental-design-basic06_data-analysis_results-verification/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://best-biostatistics.com/toukei-er/entry/missing-data-handling-a-roadmap-to-successful-research-and-analysis/",
+    "url": "https://stat-agent.com/blog/13.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://unit.aist.go.jp/riem/ds-rg/uncertainty/club/club6-1.pdf",
-    "status": "network_error:ConnectionError",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.bmj.com/content/372/bmj.n160",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8007028/",
+    "url": "https://smart-analytics.jp/info/spss-tips-4/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.sciencedirect.com/science/article/pii/S0895435621000731",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://paperguide.ai/blog/prisma-guidelines/",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9014944/",
+    "url": "https://www.bmj.com/content/372/bmj.n71",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
     "status": "ok",
     "method": "http"
    },
@@ -744,6 +1140,11 @@
     "url": "https://www.prisma-statement.org/",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://www.writersscribe.com/resources/blog/risk-of-bias-outcome-level-vs-study-level",
+    "status": "ok",
+    "method": "browser"
    }
   ]
  },
@@ -751,78 +1152,113 @@
   {
    "query": "1つの資料に結果が複数あるときに採る値を選ぶ規則と、質でなく偏りの危険で確度を付ける考え方（PRISMA 2020 の解説・系統的レビュー・ファクトチェックの手引きの書き手） site:note.com",
    "results": [
+    "https://www.lifescience.co.jp/yk/jpt_online/PRISMA.html",
+    "https://www.gatsbi.com/ja/resources/prisma-guidelines",
+    "https://www.youtube.com/watch?v=jfrYiUS4nTk",
+    "https://japan.editverse.com/prisma-systematic-review-reporting/",
+    "https://www.jhnfa.org/prismacheck1.pdf",
+    "https://www.lifescience.co.jp/yk/jpt_online/prisma/list_1.pdf",
+    "https://www.lifescience.co.jp/yk/jpt_online/prisma/j20210831.pdf",
     "https://note.com/kimatta_kotae/n/n2cdb8416843a",
     "https://note.com/seodoa_academy/n/n3c0a142cadc2",
-    "https://note.com/talkoneselfpt/n/nd0d1c5ee90c8",
-    "https://note.com/neuralworks/n/n53bc0ca3f1fd",
-    "https://note.com/masahiko_studio/n/n79cdd9fc4c73",
-    "https://note.com/zawa_warks/n/n8624e14ba73d",
-    "https://note.com/apt_oxalis1225/n/nb1ad07baa839"
+    "https://note.com/talkoneselfpt/n/nd0d1c5ee90c8"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "1つの資料に結果が複数あるときに採る値を選ぶ規則と、質でなく偏りの危険で確度を付ける考え方（PRISMA 2020 の解説・系統的レビュー・ファクトチェックの手引きの書き手） note",
+   "results": [
+    "https://www.lifescience.co.jp/yk/jpt_online/PRISMA.html",
+    "https://www.gatsbi.com/ja/resources/prisma-guidelines",
+    "https://www.youtube.com/watch?v=jfrYiUS4nTk",
+    "https://japan.editverse.com/prisma-systematic-review-reporting/",
+    "https://www.jhnfa.org/prismacheck1.pdf",
+    "https://www.lifescience.co.jp/yk/jpt_online/prisma/j20210831.pdf",
+    "https://www.lifescience.co.jp/yk/jpt_online/prisma/list_1.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
    ],
    "n_hits": 7
   },
   {
-   "query": "1つの資料に結果が複数あるときに採る値を選ぶ規則と、質でなく偏りの危険で確度を付ける考え方（PRISMA 2020 の解説・系統的レビュー・ファクトチェックの手引きの書き手） note",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
-  },
-  {
    "query": "1つの資料に結果が複数あるときに採る値を選ぶ規則と、質でなく偏りの危険で確度を付ける考え方（PRISMA 2020 の解説・系統的レビュー・ファクトチェックの手引きの書き手） やり方",
    "results": [
-    "https://best-biostatistics.com/review/publication-stat-write.html",
-    "https://www.intra-mart.jp/im-press/useful/multi-regression_analysis",
-    "https://smart-analytics.jp/info/spss-tips-4/",
-    "https://best-biostatistics.com/summary/missing_value.html",
-    "https://datachemeng.com/several_experiments_in_the_same_experimental_conditions/",
-    "https://insight.rakuten.co.jp/knowledge/column/column028/",
-    "https://mdsc.kyushu-u.ac.jp/wp/wp-content/uploads/2023/07/7a88a180ee6166757fe23f82fa579cdc.pdf"
+    "https://www.lifescience.co.jp/yk/jpt_online/PRISMA.html",
+    "https://www.gatsbi.com/ja/resources/prisma-guidelines",
+    "https://www.youtube.com/watch?v=jfrYiUS4nTk",
+    "https://japan.editverse.com/prisma-systematic-review-reporting/",
+    "https://www.jhnfa.org/prismacheck1.pdf",
+    "https://www.lifescience.co.jp/yk/jpt_online/prisma/j20210831.pdf",
+    "https://www.lifescience.co.jp/yk/jpt_online/prisma/list_1.pdf"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "yahoo_jp"
    ],
    "n_hits": 7
   },
   {
    "query": "1つの資料に結果が複数あるときに採る値を選ぶ規則と、質でなく偏りの危険で確度を付ける考え方（PRISMA 2020 の解説・系統的レビュー・ファクトチェックの手引きの書き手） 事例",
    "results": [
+    "https://www.lifescience.co.jp/yk/jpt_online/PRISMA.html",
+    "https://www.gatsbi.com/ja/resources/prisma-guidelines",
+    "https://www.youtube.com/watch?v=jfrYiUS4nTk",
+    "https://japan.editverse.com/prisma-systematic-review-reporting/",
+    "https://www.jhnfa.org/prismacheck1.pdf",
+    "https://www.lifescience.co.jp/yk/jpt_online/prisma/j20210831.pdf",
+    "https://www.lifescience.co.jp/yk/jpt_online/prisma/list_1.pdf",
     "https://best-biostatistics.com/review/publication-stat-write.html",
-    "https://engineer-education.com/experimental-design-basic06_data-analysis_results-verification/",
-    "https://orea.or.jp/cp-bin/wordpress5/wp-content/uploads/2025/01/shinrijikken_tebiki_par2.pdf",
     "https://kei-science.com/statistics-hypothesis-testing/",
-    "https://best-biostatistics.com/toukei-er/entry/missing-data-handling-a-roadmap-to-successful-research-and-analysis/",
-    "https://datachemeng.com/several_experiments_in_the_same_experimental_conditions/",
-    "https://unit.aist.go.jp/riem/ds-rg/uncertainty/club/club6-1.pdf"
+    "https://orea.or.jp/cp-bin/wordpress5/wp-content/uploads/2025/01/shinrijikken_tebiki_par2.pdf"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 14
   },
   {
    "query": "selection of results multiple results per study risk of bias vs quality PRISMA 2020 explanation",
    "results": [
-    "https://www.bmj.com/content/372/bmj.n160",
-    "https://pmc.ncbi.nlm.nih.gov/articles/PMC8007028/",
-    "https://www.sciencedirect.com/science/article/pii/S0895435621000731",
-    "https://paperguide.ai/blog/prisma-guidelines/",
-    "https://pmc.ncbi.nlm.nih.gov/articles/PMC9014944/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
+    "https://www.bmj.com/content/372/bmj.n71",
+    "https://casrai.org/guides/prisma-and-systematic-review-methodology",
+    "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
     "https://www.prisma-statement.org/",
-    "https://www.journalmetrics.org/blog/prisma-2020-systematic-review-reporting-guide-2026"
+    "https://www.writersscribe.com/resources/blog/risk-of-bias-outcome-level-vs-study-level",
+    "https://www.sciencedirect.com/science/article/pii/S1743919121000522",
+    "https://library.hmsom.edu/SystematicReviews/Risk_Bias",
+    "https://peerreviewai.org/guides/prisma-checklist",
+    "https://www.bmj.com/content/372/bmj.n160"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 15
   },
   {
    "query": "site:note.com 1つの資料に結果が複数あるときに採る値を選ぶ規則と、質でなく偏りの危険で確度を付ける考え方（PRISMA 2020 の解説・系統的レビュー・ファクトチェックの手引きの書き手）",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://note.com/mxe05064/n/n332de67c26ed",
+    "https://note.com/ezuremanagement/n/n3e69d2b40cb9",
+    "https://note.com/kimatta_kotae/n/n2cdb8416843a",
+    "https://note.com/tad_shimizu/n/nbfe3dac5a025",
+    "https://note.com/seodoa_academy/n/n3c0a142cadc2",
+    "https://note.com/talkoneselfpt/n/nd0d1c5ee90c8",
+    "https://note.com/neuralworks/n/n53bc0ca3f1fd",
+    "https://note.com/backofficestudy/n/n0b47e647e648",
+    "https://note.com/seiuchi_juku/n/n3dbd10b13be4"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "site:x.com 1つの資料に結果が複数あるときに採る値を選ぶ規則と、質でなく偏りの危険で確度を付ける考え方（PRISMA 2020 の解説・系統的レビュー・ファクトチェックの手引きの書き手）",
@@ -831,9 +1267,9 @@
     "https://jf.x.com/images/media-preview/2110917534530822560",
     "https://x.com/ichiro_Advisor/status/2116009701116621100",
     "https://x.com/koutarou_furuno/status/2101174969950671123",
-    "https://x.com/structure_mind/status/2096106684729147718",
+    "https://x.com/PKAnzug/status/2073968436955492718",
     "https://x.com/uchita_success/status/2066818038448652543",
-    "https://x.com/PKAnzug/status/2073968436955492718"
+    "https://x.com/promptfan2026/status/2111034424091693266"
    ],
    "engines": [
     "ddgs:google"
@@ -845,10 +1281,10 @@
    "results": [
     "https://www.linkedin.com/in/ryanroslansky",
     "https://jp.linkedin.com/pulse/感覚値と期待値のズレサイコロを6回振ったときに6が出る確率は665-michio-okazaki-cvdlc",
-    "https://jp.linkedin.com/pulse/extracting-multiple-matching-values-excel-3-smart-methods-mandke-m99bf?tl=ja",
+    "https://jp.linkedin.com/posts/miki-nonaka-kinoshita_fdaが歴史上初めて約200通の医薬品申請却下書簡を公開-先週製薬業界に-activity-7350453263286099968-OC6u",
     "https://www.linkedin.com/feed/update/urn:li:activity:7327512850145390592/",
     "https://in.linkedin.com/posts/kazuro-furuya-8a0266229_人が例えば道を選択をするとき必ず悪口を言われると心せよ-2股の分かれ道で右を採ると-activity-7026546639637004288-a-oC",
-    "https://jp.linkedin.com/posts/miki-nonaka-kinoshita_fdaが歴史上初めて約200通の医薬品申請却下書簡を公開-先週製薬業界に-activity-7350453263286099968-OC6u",
+    "https://jp.linkedin.com/pulse/extracting-multiple-matching-values-excel-3-smart-methods-mandke-m99bf?tl=ja",
     "https://jp.linkedin.com/learning/excel-pivot-tables-365-2019/796397"
    ],
    "engines": [
@@ -859,297 +1295,513 @@
   {
    "query": "site:facebook.com 1つの資料に結果が複数あるときに採る値を選ぶ規則と、質でなく偏りの危険で確度を付ける考え方（PRISMA 2020 の解説・系統的レビュー・ファクトチェックの手引きの書き手）",
    "results": [
+    "https://www.facebook.com/hioki.co.jp/videos/複数の計測器を簡単コントロール計測器統合制御をexcelで実現するアドインsequence-maker-詳しくはこちらhttpssequencemakerhio/4405721939548569/",
     "https://www.facebook.com/groups/sannsai.kinoko/permalink/4476188399297269/",
     "https://www.facebook.com/Microsoft365Japan/videos/excel-40-年の常識を変えるアップデート1-セル-1-つの値-の制約がなくなり1-つのセル内から複数の情報を識別これによりセル内で配列やネストも可能にex/1105755518992422/",
     "https://www.facebook.com/mashmatrix/videos/列のコピペで複数の値をかんたんフィルタリング/400214403872759/",
-    "https://www.facebook.com/hioki.co.jp/videos/複数の計測器を簡単コントロール計測器統合制御をexcelで実現するアドインsequence-maker-詳しくはこちらhttpssequencemakerhio/4405721939548569/",
     "https://www.facebook.com/reel/1668086924381957/",
     "https://www.facebook.com/JMPjpn/videos/グラフビルダーでダイアログボックス形式でのグラフ作成/3056004481357288/",
     "https://www.facebook.com/KouzaiNouen/posts/野菜を収穫するという意味のとるいつもどの漢字を使えばいいのか悩みます取る採る獲る穫る誰かおせーてー/1044429285650201/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   },
   {
    "query": "1つの資料に結果が複数あるときに採る値を選ぶ規則と、質でなく偏りの危険で確度を付ける考え方（PRISMA 2020 の解説・系統的レビュー・ファクトチェックの手引きの書き手） note 社長",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://www.lifescience.co.jp/yk/jpt_online/PRISMA.html",
+    "https://www.gatsbi.com/ja/resources/prisma-guidelines",
+    "https://www.youtube.com/watch?v=jfrYiUS4nTk",
+    "https://japan.editverse.com/prisma-systematic-review-reporting/",
+    "https://www.jhnfa.org/prismacheck1.pdf",
+    "https://www.lifescience.co.jp/yk/jpt_online/prisma/list_1.pdf",
+    "https://www.lifescience.co.jp/yk/jpt_online/prisma/j20210831.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 7
   },
   {
    "query": "1つの資料に結果が複数あるときに採る値を選ぶ規則と、質でなく偏りの危険で確度を付ける考え方（PRISMA 2020 の解説・系統的レビュー・ファクトチェックの手引きの書き手） X 投稿",
    "results": [
+    "https://www.lifescience.co.jp/yk/jpt_online/PRISMA.html",
+    "https://www.gatsbi.com/ja/resources/prisma-guidelines",
+    "https://www.youtube.com/watch?v=jfrYiUS4nTk",
+    "https://japan.editverse.com/prisma-systematic-review-reporting/",
+    "https://www.jhnfa.org/prismacheck1.pdf",
+    "https://www.lifescience.co.jp/yk/jpt_online/prisma/list_1.pdf",
+    "https://www.lifescience.co.jp/yk/jpt_online/prisma/j20210831.pdf",
     "https://best-biostatistics.com/review/publication-stat-write.html",
-    "https://smart-analytics.jp/info/spss-tips-4/",
-    "https://datachemeng.com/several_experiments_in_the_same_experimental_conditions/",
-    "https://stat-agent.com/blog/13.html",
-    "https://unit.aist.go.jp/riem/ds-rg/uncertainty/club/club6-1.pdf",
-    "https://best-biostatistics.com/stat-test/anova.html",
+    "https://www.issoh.co.jp/tech/details/16353/",
     "https://form.run/home/blog/survey/analytics/excel-multiple-responses"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 14
   },
   {
    "query": "selection of results multiple results per study risk of bias vs quality PRISMA 2020 explanation site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/pulse/using-prisma-guidelines-strengthen-systematic-reviews-aderla-la3oc",
-    "https://www.linkedin.com/pulse/prisma-compliance-research-what-why-matters-how-get-lb4lc",
-    "https://www.linkedin.com/posts/online-class-helper_prisma-systematicreview-metaanalysis-activity-7309246232558735360-FpL7",
     "https://www.linkedin.com/posts/emmanueltsekleves_systematicreview-prisma-research-activity-7382755520362733568-w6tr",
-    "https://www.linkedin.com/pulse/how-write-systematic-review-from-scratch-using-prisma-dr-preeti-eh7xc",
-    "https://www.linkedin.com/posts/david-innocent-5427a3199_systematicreview-prisma2020-evidencesynthesis-activity-7497934356582248448-odEv",
-    "https://www.linkedin.com/advice/0/how-can-you-evaluate-quality-bias-risk-system-review"
+    "https://www.linkedin.com/posts/david-innocent-5427a3199_systematicreview-criticalappraisal-riskofbias-activity-7493226954008154112-ZSMP",
+    "https://www.linkedin.com/posts/peter-munene-9ab033b8_%F0%9D%97%A7%F0%9D%97%B5%F0%9D%97%B2-%F0%9D%97%A5%F0%9D%97%B2%F0%9D%98%80%F0%9D%97%B2%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%B0%F0%9D%97%B5-%F0%9D%97%97%F0%9D%97%B2%F0%9D%98%80%F0%9D%97%B6%F0%9D%97%B4%F0%9D%97%BB-%F0%9D%97%9B%F0%9D%97%B6-activity-7496191785765855232-pbIp",
+    "https://www.linkedin.com/pulse/systematic-literature-review-z-everything-you-need-paravli%C4%87-ph-d--fxx5f",
+    "https://www.linkedin.com/posts/david-innocent-5427a3199_systematicreview-riskofbias-evidencesynthesis-activity-7519318727973167104-Q7sg",
+    "https://www.linkedin.com/top-content/science/conducting-literature-reviews-in-science/key-sections-of-a-systematic-review/",
+    "https://www.linkedin.com/posts/david-innocent-5427a3199_systematicreview-researchmethods-evidencesynthesis-activity-7503362976398344192-siN4",
+    "https://www.linkedin.com/posts/peter-munene-9ab033b8_%F0%9D%9F%AD%F0%9D%9F%AC-%F0%9D%97%A7%F0%9D%98%86%F0%9D%97%BD%F0%9D%97%B2%F0%9D%98%80-%F0%9D%97%BC%F0%9D%97%B3-%F0%9D%97%9F%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%AE%F0%9D%98%81%F0%9D%98%82%F0%9D%97%BF%F0%9D%97%B2-activity-7518942543242477568-mY1n",
+    "https://www.linkedin.com/top-content/science/research-methods/systematic-review-techniques/",
+    "https://www.linkedin.com/posts/dr-iana-yana-malasevskaia-75a814246_systematicreview-metaanalysis-publicationbias-activity-7368599490594766850-KG9_"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   }
  ],
  "missing": {},
  "new_this_run": {
+  "突き合わせ・推定": [
+   {
+    "quote": "Describe how studies were grouped for synthesis, how missing data and effect estimates were handled, how results were presented, the meta-analysis method (if used), and any heterogeneity or sensitivity analyses.",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "For every outcome, present summary statistics and effect estimates with precision (e.g. confidence intervals) for each study and each synthesis.",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Pooling clinically or methodologically heterogeneous studies into a single effect estimate because a table of results is less satisfying to present, rather than because pooling was statistically and clinically appropriate.",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Systematic reviews and meta-analyses are among the most influential forms of evidence synthesis in medical research but publication depends on more than having a statistically significant pooled estimate. Authors must demonstrate transparent methods, reproducible searches, explicit eligibility criteria, appropriate risk-of-bias assessment, defensible statistical synthesis, and complete reporting.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Do not formulate the research question after seeing the search results or pooled estimate. Changing the question or outcome emphasis in response to available evidence can introduce selective reporting and undermine methodological credibility.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Risk-of-bias assessment affects interpretation of the evidence. A pooled effect estimate without a transparent assessment of study limitations can give a misleading impression of certainty.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "A statistically significant pooled estimate does not automatically represent high-certainty evidence.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
   "実例": [
    {
-    "quote": "PRISMA Guidelines: Step-by-Step Workflow + Examples",
-    "url": "https://paperguide.ai/blog/prisma-guidelines/",
+    "quote": "A narrative review of selected papers, described as “systematic” without a registered protocol, documented search, or dual screening, is not a systematic review regardless of the label — this is explicitly called out as a counter-example on CASRAI’s own",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
     "pass": 3,
-    "first_seen": "2026-11-08"
+    "first_seen": "2026-11-09"
    },
    {
-    "quote": "defines them with examples.",
-    "url": "https://paperguide.ai/blog/prisma-guidelines/",
+    "quote": "— How review-article length varies by type (narrative, systematic, scoping, meta-analysis) and by journal, with Cochrane, JAMA, BMJ, and Nature Reviews examples.",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
     "pass": 3,
-    "first_seen": "2026-11-08"
+    "first_seen": "2026-11-09"
    },
    {
-    "quote": "The PRISMA Flow Diagram (With Example)",
-    "url": "https://paperguide.ai/blog/prisma-guidelines/",
+    "quote": "For example, randomized trials, observational studies, diagnostic accuracy studies, and prognostic studies may require different risk-of-bias approaches.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
     "pass": 3,
-    "first_seen": "2026-11-08"
+    "first_seen": "2026-11-09"
    },
    {
-    "quote": "Example PRISMA Flow Diagram (Completed)",
-    "url": "https://paperguide.ai/blog/prisma-guidelines/",
+    "quote": "paper, which provides examples and rationale for individual checklist items.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
     "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Below is a filled example for a systematic review on mindfulness interventions for academic stress.",
-    "url": "https://paperguide.ai/blog/prisma-guidelines/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "We included randomized controlled trials and quasi-experimental studies that examined mindfulness-based interventions in undergraduate or graduate students and reported stress or anxiety outcomes. We excluded case reports, qualitative studies, and interventions shorter than four weeks.",
-    "url": "https://paperguide.ai/blog/prisma-guidelines/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Before submitting your systematic review manuscript, verify your PRISMA compliance against published examples and the official checklist to catch any reporting gaps.",
-    "url": "https://paperguide.ai/blog/prisma-guidelines/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
+    "first_seen": "2026-11-09"
    }
   ],
   "手順・やり方": [
    {
-    "quote": "PRISMA Guidelines: Step-by-Step Workflow + Examples",
-    "url": "https://paperguide.ai/blog/prisma-guidelines/",
+    "quote": "PRISMA Full Form & Meaning: Not a Methodology — CASRAI",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
     "pass": 3,
-    "first_seen": "2026-11-08"
+    "first_seen": "2026-11-09"
    },
    {
-    "quote": "After reading this guide, you will understand what PRISMA recommends, how to apply the 27-item checklist step by step, how to create a compliant flow diagram, and how to avoid the most common reporting mistakes in your own systematic review.",
-    "url": "https://paperguide.ai/blog/prisma-guidelines/",
+    "quote": "PRISMA — Preferred Reporting Items for Systematic Reviews and Meta-Analyses — is a reporting checklist, not a methodology. This guide covers the full 27-item PRISMA 2020 checklist, the flow diagram, how to use PRISMA in practice, and its main extensions.",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
     "pass": 3,
-    "first_seen": "2026-11-08"
+    "first_seen": "2026-11-09"
    },
    {
-    "quote": "The checklist covers seven sections: title, abstract, introduction, methods, results, discussion, and other information",
-    "url": "https://paperguide.ai/blog/prisma-guidelines/",
+    "quote": "PRISMA stands for Preferred Reporting Items for Systematic Reviews and Meta-Analyses. It is not a research method — it is PRISMA 2020, the 27-item reporting checklist that specifies what a finished systematic review or meta-analysis must report, not how to search, screen, or synthesize evidence.",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
     "pass": 3,
-    "first_seen": "2026-11-08"
+    "first_seen": "2026-11-09"
    },
    {
-    "quote": "PRISMA is a reporting guideline, not a methodological tool. It tells you what to report, not how to conduct the review itself",
-    "url": "https://paperguide.ai/blog/prisma-guidelines/",
+    "quote": "The rules for conducting a review live in the Cochrane Handbook; a PRISMA-compliant review can still rest on flawed methodology.",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
     "pass": 3,
-    "first_seen": "2026-11-08"
+    "first_seen": "2026-11-09"
    },
    {
-    "quote": "PRISMA is a reporting guideline, not a method for conducting a review. The distinction matters: PRISMA tells you what to include when you write up your systematic review, not how to design or execute one.",
-    "url": "https://paperguide.ai/blog/prisma-guidelines/",
+    "quote": "covering what to report in the title, abstract, introduction, methods, results, discussion, and “other information” sections of a systematic review.",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
     "pass": 3,
-    "first_seen": "2026-11-08"
+    "first_seen": "2026-11-09"
    },
    {
-    "quote": "The original PRISMA statement was published in 2009 and updated in 2020 to reflect advances in systematic review methodology over the previous decade. PRISMA 2020 replaces the earlier version and includes new items related to automation tools, risk of bias assessment, certainty of evidence, and protocol registration.",
-    "url": "https://paperguide.ai/blog/prisma-guidelines/",
+    "quote": "Because it is a reporting standard, satisfying PRISMA is a necessary but not sufficient condition for a good systematic review. A review can be PRISMA-compliant on paper — every checklist item ticked — while still resting on a biased search or an inappropriate meta-analysis. The methodological rules for actually",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
     "pass": 3,
-    "first_seen": "2026-11-08"
+    "first_seen": "2026-11-09"
    },
    {
-    "quote": "Recommends reporting individual study and overall bias assessment methods",
-    "url": "https://paperguide.ai/blog/prisma-guidelines/",
+    "quote": "Report per the separate PRISMA 2020 for Abstracts checklist (objectives, methods, results, limitations, funding).",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
     "pass": 3,
-    "first_seen": "2026-11-08"
+    "first_seen": "2026-11-09"
    },
    {
-    "quote": "Provide a structured abstract that includes the objective, data sources, study eligibility criteria, participants, interventions, study appraisal methods, synthesis methods, results, limitations, conclusions, and registration information.",
-    "url": "https://paperguide.ai/blog/prisma-guidelines/",
+    "quote": "Methods — Eligibility criteria",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
     "pass": 3,
-    "first_seen": "2026-11-08"
+    "first_seen": "2026-11-09"
    },
    {
-    "quote": "Describe the rationale for the review, referencing what is already known and what gaps exist. State the research questions and objectives, including the population, intervention, comparator, and outcome (PICO) framework where applicable.",
-    "url": "https://paperguide.ai/blog/prisma-guidelines/",
+    "quote": "Methods — Information sources",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
     "pass": 3,
-    "first_seen": "2026-11-08"
+    "first_seen": "2026-11-09"
    },
    {
-    "quote": "Section 4: Methods (Items 5-16)",
-    "url": "https://paperguide.ai/blog/prisma-guidelines/",
+    "quote": "Methods — Search strategy",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
     "pass": 3,
-    "first_seen": "2026-11-08"
+    "first_seen": "2026-11-09"
    },
    {
-    "quote": "Synthesis methods (Item 13).",
-    "url": "https://paperguide.ai/blog/prisma-guidelines/",
+    "quote": "Methods — Selection process",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
     "pass": 3,
-    "first_seen": "2026-11-08"
+    "first_seen": "2026-11-09"
    },
    {
-    "quote": "Describe methods used to assess the risk of reporting bias across studies, such as",
-    "url": "https://paperguide.ai/blog/prisma-guidelines/",
+    "quote": "Methods — Data collection process",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
     "pass": 3,
-    "first_seen": "2026-11-08"
+    "first_seen": "2026-11-09"
    },
    {
-    "quote": "Report the approach used to assess certainty of evidence, such as the GRADE framework.",
-    "url": "https://paperguide.ai/blog/prisma-guidelines/",
+    "quote": "Methods — Risk of bias assessment",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
     "pass": 3,
-    "first_seen": "2026-11-08"
+    "first_seen": "2026-11-09"
    },
    {
-    "quote": "Other methods (Item 16).",
-    "url": "https://paperguide.ai/blog/prisma-guidelines/",
+    "quote": "Specify the method and tool used to assess risk of bias, and how many reviewers were involved.",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
     "pass": 3,
-    "first_seen": "2026-11-08"
+    "first_seen": "2026-11-09"
    },
    {
-    "quote": "Describe any additional methods not covered above, such as network meta-analysis or dose-response analysis.",
-    "url": "https://paperguide.ai/blog/prisma-guidelines/",
+    "quote": "Methods — Effect measures",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
     "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "突き合わせ・推定": [
+    "first_seen": "2026-11-09"
+   },
    {
-    "quote": "Report summary data and effect estimates for each study, including confidence intervals.",
-    "url": "https://paperguide.ai/blog/prisma-guidelines/",
+    "quote": "Systematic reviews and meta-analyses are among the most influential forms of evidence synthesis in medical research but publication depends on more than having a statistically significant pooled estimate. Authors must demonstrate transparent methods, reproducible searches, explicit eligibility criteria, appropriate risk-of-bias assessment, defensible statistical synthesis, and complete reporting.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
     "pass": 3,
-    "first_seen": "2026-11-08"
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The PRISMA 2020 guidelines provide the principal reporting framework for systematic reviews and meta-analyses. The updated guideline replaced PRISMA 2009 and introduced a revised 27-item checklist, an expanded checklist, a dedicated abstract checklist, and updated flow diagrams.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "For researchers preparing a manuscript in 2026, the practical objective is straightforward: build the review so that every major methodological decision can be located, justified, reproduced, and audited.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "PRISMA stands for Preferred Reporting Items for Systematic reviews and Meta-Analyses. PRISMA 2020 is a reporting guideline designed to help authors communicate why a review was conducted, how evidence was identified and selected, what methods were used, and what the review found.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The framework contains 27 main checklist items, organized across seven sections:",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "PRISMA is a reporting guideline, not a tool for determining whether the underlying systematic review is methodologically high quality. The original PRISMA publication explicitly cautioned against using the checklist as a quality-assessment instrument.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "A manuscript can contain sophisticated statistical methods and still receive editorial criticism if readers cannot determine:",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Step 1: Define a Focused Review Question",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "State an explicit review objective or research question. Depending on the research design, authors may structure the question around PICO Population, Intervention, Comparator, and Outcome or another appropriate framework.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "For diagnostic studies, prognostic research, qualitative evidence, epidemiological questions, or complex interventions, alternative frameworks may be more appropriate.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Do not formulate the research question after seeing the search results or pooled estimate. Changing the question or outcome emphasis in response to available evidence can introduce selective reporting and undermine methodological credibility.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Step 2: Establish Eligibility Criteria Before Screening",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Step 3: Build a Reproducible Literature Search",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Search methodology is one of the most heavily scrutinized components of a systematic review.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Step 4: Document Study Selection With the PRISMA Flow Diagram",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
    }
   ],
   "失敗・落とし穴": [
    {
-    "quote": "After reading this guide, you will understand what PRISMA recommends, how to apply the 27-item checklist step by step, how to create a compliant flow diagram, and how to avoid the most common reporting mistakes in your own systematic review.",
-    "url": "https://paperguide.ai/blog/prisma-guidelines/",
+    "quote": "Because it is a reporting standard, satisfying PRISMA is a necessary but not sufficient condition for a good systematic review. A review can be PRISMA-compliant on paper — every checklist item ticked — while still resting on a biased search or an inappropriate meta-analysis. The methodological rules for actually",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
     "pass": 3,
-    "first_seen": "2026-11-08"
+    "first_seen": "2026-11-09"
    },
    {
-    "quote": "The original PRISMA statement was published in 2009 and updated in 2020 to reflect advances in systematic review methodology over the previous decade. PRISMA 2020 replaces the earlier version and includes new items related to automation tools, risk of bias assessment, certainty of evidence, and protocol registration.",
-    "url": "https://paperguide.ai/blog/prisma-guidelines/",
+    "quote": "Methods — Risk of bias assessment",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
     "pass": 3,
-    "first_seen": "2026-11-08"
+    "first_seen": "2026-11-09"
    },
    {
-    "quote": "If terms like risk of bias or protocol registration are new to you, the",
-    "url": "https://paperguide.ai/blog/prisma-guidelines/",
+    "quote": "Specify the method and tool used to assess risk of bias, and how many reviewers were involved.",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
     "pass": 3,
-    "first_seen": "2026-11-08"
+    "first_seen": "2026-11-09"
    },
    {
-    "quote": "Recommends reporting individual study and overall bias assessment methods",
-    "url": "https://paperguide.ai/blog/prisma-guidelines/",
+    "quote": "Methods — Reporting bias assessment",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
     "pass": 3,
-    "first_seen": "2026-11-08"
+    "first_seen": "2026-11-09"
    },
    {
-    "quote": "Study risk of bias (Item 11).",
-    "url": "https://paperguide.ai/blog/prisma-guidelines/",
+    "quote": "Describe the method used to assess bias from missing results (e.g. selective non-reporting) within each synthesis.",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
     "pass": 3,
-    "first_seen": "2026-11-08"
+    "first_seen": "2026-11-09"
    },
    {
-    "quote": "Report the tool used to assess risk of bias (e.g., RoB 2 for randomized trials, ROBINS-I for non-randomized studies) and how the assessment was applied.",
-    "url": "https://paperguide.ai/blog/prisma-guidelines/",
+    "quote": "Results — Risk of bias in studies",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
     "pass": 3,
-    "first_seen": "2026-11-08"
+    "first_seen": "2026-11-09"
    },
    {
-    "quote": "Reporting bias assessment (Item 14).",
-    "url": "https://paperguide.ai/blog/prisma-guidelines/",
+    "quote": "Present risk-of-bias assessments for every included study.",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
     "pass": 3,
-    "first_seen": "2026-11-08"
+    "first_seen": "2026-11-09"
    },
    {
-    "quote": "Describe methods used to assess the risk of reporting bias across studies, such as",
-    "url": "https://paperguide.ai/blog/prisma-guidelines/",
+    "quote": "Summarise the characteristics and risk of bias of studies contributing to each synthesis; present all statistical results, including heterogeneity and sensitivity findings, for each meta-analysis or other synthesis.",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
     "pass": 3,
-    "first_seen": "2026-11-08"
+    "first_seen": "2026-11-09"
    },
    {
-    "quote": "Risk of bias results (Item 19).",
-    "url": "https://paperguide.ai/blog/prisma-guidelines/",
+    "quote": "Results — Reporting biases",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
     "pass": 3,
-    "first_seen": "2026-11-08"
+    "first_seen": "2026-11-09"
    },
    {
-    "quote": "Present risk of bias assessments for each included study and describe patterns across studies.",
-    "url": "https://paperguide.ai/blog/prisma-guidelines/",
+    "quote": "Present an assessment of reporting bias for each synthesis.",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
     "pass": 3,
-    "first_seen": "2026-11-08"
+    "first_seen": "2026-11-09"
    },
    {
-    "quote": "Reporting bias results (Item 22).",
-    "url": "https://paperguide.ai/blog/prisma-guidelines/",
+    "quote": "PRISMA’s predecessor, QUOROM (1999), addressed reporting for meta-analyses of randomised trials specifically. PRISMA 2009 broadened the scope to systematic reviews generally, and PRISMA 2020 updated the checklist to reflect advances in how reviews identify, select, appraise, and synthesise studies — search reporting, risk-of-bias assessment, and certainty-of-evidence rating chief among them.",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
     "pass": 3,
-    "first_seen": "2026-11-08"
+    "first_seen": "2026-11-09"
    },
    {
-    "quote": "Present assessments of reporting bias for each synthesis.",
-    "url": "https://paperguide.ai/blog/prisma-guidelines/",
+    "quote": "Choose and apply a risk-of-bias tool matched to your studies’ design",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
     "pass": 3,
-    "first_seen": "2026-11-08"
+    "first_seen": "2026-11-09"
    },
    {
-    "quote": "Step 4: Extract Data and Assess Risk of Bias",
-    "url": "https://paperguide.ai/blog/prisma-guidelines/",
+    "quote": "4. Data extraction and risk-of-bias assessment",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
     "pass": 3,
-    "first_seen": "2026-11-08"
+    "first_seen": "2026-11-09"
    },
    {
-    "quote": "Assess risk of bias for each included study using a validated tool. For randomized trials, RoB 2 is the current standard. For non-randomized studies, ROBINS-I is recommended. Report the risk of bias results both for individual studies and as patterns across the entire body of evidence. For a deeper comparison of how different platforms support",
-    "url": "https://paperguide.ai/blog/prisma-guidelines/",
+    "quote": "Included studies are read in full and their data pulled into a standardised extraction form, ideally by more than one reviewer independently, to limit transcription error. Each included study is then assessed for risk of bias using a tool matched to its design — commonly the Cochrane",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
     "pass": 3,
-    "first_seen": "2026-11-08"
+    "first_seen": "2026-11-09"
    },
    {
-    "quote": ", consider how your chosen tools handle bias documentation at scale.",
-    "url": "https://paperguide.ai/blog/prisma-guidelines/",
+    "quote": "framework (high/moderate/low/very low), which combines risk of bias, inconsistency, indirectness, imprecision, and publication-bias considerations into a single certainty rating.",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
     "pass": 3,
-    "first_seen": "2026-11-08"
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Systematic reviews and meta-analyses are among the most influential forms of evidence synthesis in medical research but publication depends on more than having a statistically significant pooled estimate. Authors must demonstrate transparent methods, reproducible searches, explicit eligibility criteria, appropriate risk-of-bias assessment, defensible statistical synthesis, and complete reporting.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Document eligibility, searching, selection, extraction, risk of bias, and synthesis",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "how risk of bias was assessed;",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Step 5: Describe Data Collection and Risk-of-Bias Assessment",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "risk-of-bias assessment",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "For example, randomized trials, observational studies, diagnostic accuracy studies, and prognostic studies may require different risk-of-bias approaches.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Risk-of-bias assessment affects interpretation of the evidence. A pooled effect estimate without a transparent assessment of study limitations can give a misleading impression of certainty.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Risk of bias is not the same as PRISMA compliance. PRISMA tells you how to report the assessment; it does not prescribe a universal risk-of-bias instrument.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Avoid converting a multidomain risk-of-bias assessment into an arbitrary single “quality score” unless the methodology specifically justifies that approach.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "publication-bias or small-study-effect assessments where appropriate; and",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "PRISMA 2020 separates synthesis reporting into multiple sub-items. Authors should report the characteristics and risk of bias of studies contributing to each synthesis, statistical synthesis results, investigations of possible heterogeneity, and sensitivity analyses.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "publication or other reporting biases.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "identified evidence → included studies → extracted characteristics → risk of bias → synthesis → interpretation",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Risk-of-bias methods are specified and appropriate to study design.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Publication bias/small-study effects are assessed where appropriate.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
    }
   ]
  },
- "runs": 3,
+ "runs": 4,
  "first_researched_at": "2026-11-08T04:01:59.656820+00:00"
 }

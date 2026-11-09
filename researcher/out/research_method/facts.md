@@ -191,6 +191,13 @@
 ## 企業分析のやり方（非上場・中小企業）（how to analyze private small companies）
 - 文脈：企業
 - 手順・やり方：
+  - 「なお、リサーチ方法については次章にて解説します」（https://campus.doda.jp/career/job/000292.html）
+  - 「企業分析の情報取集方法3選【おすすめの企業分析を226社の企業に調査！】」（https://campus.doda.jp/career/job/000292.html）
+  - 「地方新聞では地域密着型の中小企業の情報も収集可能」（https://campus.doda.jp/career/job/000292.html）
+  - 「また、採用サイトでは、エントリー方法や選考フローも確認できます」（https://campus.doda.jp/career/job/000292.html）
+  - 「最後に、企業分析の進め方に関して就活生が疑問に感じやすい内容に回答します」（https://campus.doda.jp/career/job/000292.html）
+  - 「業界研究のやり方と活かし方が一目でわかる！業界研究ノートテンプレ付きガイド」（https://campus.doda.jp/career/job/000292.html）
+  - 「自己分析のやり方10選！就活生239人に調査したおすすめの方法を徹底解説」（https://campus.doda.jp/career/job/000292.html）
   - 「企業分析のやり方｜「会社について詳しくなること」が目的ではない｜アラサー人事の選考対策室」（https://note.com/restart_notes25/n/nf64264f912f9）
   - 「企業分析のやり方｜「会社について詳しくなること」が目的ではない」（https://note.com/restart_notes25/n/nf64264f912f9）
   - 「企業分析のやり方がわからない、何をどこまで調べれば足りるのかわからない」（https://note.com/restart_notes25/n/nf64264f912f9）
@@ -199,13 +206,6 @@
   - 「この4ステップをやってみるだけで、「調べたけれど使えない」という感覚が変わるはずです」（https://note.com/restart_notes25/n/nf64264f912f9）
   - 「Q3・Q4をより体系的に整理し、志望動機に直結させるより具体的な分析手順は、有料記事で公開予定です」（https://note.com/restart_notes25/n/nf64264f912f9）
   - 「企業分析のやり方とは？効果的な項目や注意点を紹介」（https://hr.ababa.co.jp/article/preparation/how-to-analyze-companies/）
-  - 「岡山大学在学中、最終面接で不採用となった友人の姿をきっかけに、選考プロセスそのものが評価されるスカウト型就活サービス『ABABA』を創業」（https://hr.ababa.co.jp/article/preparation/how-to-analyze-companies/）
-  - 「企業分析のやり方が分からなくて困っている方も多いのではないでしょうか」（https://hr.ababa.co.jp/article/preparation/how-to-analyze-companies/）
-  - 「就活において重要な役割を担う企業分析のやり方を紹介します」（https://hr.ababa.co.jp/article/preparation/how-to-analyze-companies/）
-  - 「具体的には、社員インタビューや口コミサイトの調査、OB・OG訪問などの方法を活用しましょう」（https://hr.ababa.co.jp/article/preparation/how-to-analyze-companies/）
-  - 「効率的な企業研究を進める方法が分からない場合やノートに...」（https://hr.ababa.co.jp/article/preparation/how-to-analyze-companies/）
-  - 「効率よく企業分析をするには、フレームワークの活用がおすすめです」（https://hr.ababa.co.jp/article/preparation/how-to-analyze-companies/）
-  - 「考え方の枠組みとなるフレームワークを使って分析することで、より効率的に企業理解を深められます」（https://hr.ababa.co.jp/article/preparation/how-to-analyze-companies/）
 - 突き合わせ・推定：
   - 「「なぜこの企業はこのような理念を掲げているのか」「この事業の強みはどこにあるのか」「3年後、5年後、この企業はどうなっているだろうか」といった問いを立て、自分なりの仮説や考えを構築していく知的作業」（https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/）
   - 「企業分析を通じて、事業のビジネスモデルを深く理解し、社員の働き方やキャリアに関するリアルな情報を収集し、企業が発信する理念やビジョンが現場にまで浸透しているのかを多角的に検証する」（https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/）
@@ -271,6 +271,7 @@
   - 「: ケーススタディ、採用情報、プレスリリースが主な情報源」（https://www.choosenic.com/yuho-shukatsu-navi/articles/guide/non-listed-company-research/）
   - 「大学によってはオンラインで企業情報データベースにアクセスできるケースもあります」（https://www.choosenic.com/yuho-shukatsu-navi/articles/guide/non-listed-company-research/）
 - 検索結果の抜粋：
+  - 「企業分析のやり方｜「会社について詳しくなること」が目的ではない｜... — Jun 26, 2026 · この記事では、企業分析で本当に答えるべき2つの問いを整理し、正しい分析の入り口をお伝えします。 企業分析のやり方でありがちな落とし穴 就活・転職において、企業分析のやり方として多くの人が最初にやることはこうです。 企業の公式」（https://note.com/restart_notes25/n/nf64264f912f9）
   - 「【28卒】企業分析のやり方とは？4ステップで就活生に向けて解説 - 選... — Dec 27, 2025 · 企業分析の目的から具体的なやり方、比較ポイントまでを徹底解説。市場動向や競合比較など、分析を成功させる4つのステップと情報収集のコツを紹介します。自分に合う企業を見極め、選考を有利に進めるためのノウハウが満載です。」（https://cheercareer.jp/ip_blogs/552）
   - 「企業分析のやり方｜「会社について詳しくなること」が目的ではない｜... — Jun 26, 2026 · 面接で深掘りされると言葉が出てこない。 それは準備量の問題ではなく、分析の設計が間違っているサインです。 この記事では、企業分析で本当に答えるべき2つの問いを整理し、正しい分析の入り口をお伝えします。」（https://note.com/restart_notes25/n/nf64264f912f9）
   - 「就職活動に役立つ企業分析のやり方｜miyu_就活 — Feb 20, 2025 · 調査方法: 企業の「会社概要」や「採用情報」ページでビジョン・ミッションを確認。 CSRレポート や インタビュー記事 をチェックして、企業の価値観や社会的責任に対する姿勢を調べる。」（https://note.com/miyu6754/n/nf3b036381057）
@@ -285,7 +286,6 @@
   - 「就活の企業分析のやり方｜見るべき項目やフレームワーク、選考への活... — 就活の企業分析のやり方を徹底解説。企業分析を行う目的から、ミッション・IR・求人情報などの調べ方、企業・業界・競合・自分の4つの視点で整理するフレームワーク、志望動機や面接に活かすポイントまで紹介します。」（https://corp.neo-m.jp/marketer-gate/career-column/company-analysis）
   - 「企業分析のやり方とは？効果的な項目や注意点を紹介 | あばば大学 — Jul 27, 2026 · 企業分析のフレームワーク 効率よく企業分析をするには、フレームワークの活用がおすすめです。考え方の枠組みとなるフレームワークを使って分析することで、より効率的に企業理解を深められます。以下では、企業分析におすすめのフレームワークを3つ紹介します。 3C分析 3C分析とは ...」（https://hr.ababa.co.jp/article/preparation/how-to-analyze-companies/）
   - 「企業分析のやり方完全ガイド｜項目・情報源・活かし方を採用のプロが... — Apr 16, 2026 · 企業分析ノートの作り方と競合比較 集めた情報は、頭の中に置いておくだけでは面接で引き出せません。 企業分析ノート として1社ごとに整理しておくことを強くおすすめします。ノートは前述の7項目（事業内容・ビジネスモデル・強み弱み・業績・将来性・社風・求める人物像）を見出しに ...」（https://sinmido-recruit.com/columns/企業分析のやり方｜有報・四季報・ir資料を使った/）
-  - 「【企業分析のやり方・コツ】業界・社会全体の動向まで調べる — Feb 16, 2024 · 今回は企業分析のやり方についてです。 面接官は 志望企業や業界、社会動向等に関する質問を多く繰り出してきます。 しっかり分析して備えておくと面接で話が盛り上がりやすくなります。 業界により、適切なやり方が若干異なるかもしれませんが、 私のやり方を参考にチューニングしてみ ...」（https://note.com/sunakeso/n/nadc16e37f21f）
 
 ## 求人情報・採用ページから会社の実態を読む方法（infer company from job postings）
 - 文脈：企業
@@ -9792,11 +9792,11 @@
 
 ## 管轄を先に決めてから登記・開示を引く会社の同一性の確かめ方と、登記が示さないもの（実質的支配者・支払能力）（osint4all・OpenCorporates・法人番号公表サイト）（company due diligence choose jurisdiction first registry evidence limits beneficial ownership solvency）
 - 文脈：一次情報
-- 手順・やり方：記載なし（読んだ15頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
-- 実例：記載なし（読んだ15頁・検索12回）
+- 手順・やり方：記載なし（読んだ16頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ16頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ16頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ16頁・検索12回）
+- 実例：記載なし（読んだ16頁・検索12回）
 
 ## 照合の判定を自動でまとめる・自動で別物・保留の3つの帯に分け、線の位置を用途で決める実務と、組ごととまとまりごとの精度の測り方（entity resolution の評価・tilores・Binette ら）（entity resolution accept reject threshold human review band cluster-level precision recall evaluation）
 - 文脈：照合
@@ -13260,11 +13260,11 @@
 
 ## 仮説の形（主効果・調整・媒介）を事業・市場の調べ物の仮説に当てはめる書き方（規模で向きが変わる仮説を規模別の表で確かめる）（hypothesis forms moderation mediation business research segment analysis）
 - 文脈：手順
-- 手順・やり方：記載なし（読んだ18頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ18頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ18頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ18頁・検索12回）
-- 実例：記載なし（読んだ18頁・検索12回）
+- 手順・やり方：記載なし（読んだ28頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ28頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
+- 実例：記載なし（読んだ28頁・検索12回）
 
 ## 法人番号（国税庁13桁）と会社法人番号（法務局12桁）の違いと、同名の別法人・グループ会社を本店所在地と法人種別で見分ける手順（登記・与信・名寄せの実務の書き手）（corporate number 13-digit vs company registration number 12-digit Japan entity matching same name different company）
 - 文脈：一次情報の探し方
@@ -13277,22 +13277,29 @@
 ## 1つの資料に結果が複数あるときに採る値を選ぶ規則と、質でなく偏りの危険で確度を付ける考え方（PRISMA 2020 の解説・系統的レビュー・ファクトチェックの手引きの書き手）（selection of results multiple results per study risk of bias vs quality PRISMA 2020 explanation）
 - 文脈：突き合わせ
 - 手順・やり方：
-  - 「Clinical Research Institute, American University of Beirut, Beirut, Lebanon; Department of Health Research Methods, Evidence, and Impact, McMaster University, Hamilton, Ontario, Canada」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
-  - 「Methods Centre, Bruyère Research Institute, Ottawa, Ontario, Canada; School of Epidemiology and Public Health, Faculty of Medicine, University of Ottawa, Ottawa, Canada」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
-  - 「We have updated the PRISMA 2009 statement (to PRISMA 2020) to ensure currency and relevance and to reflect advances in systematic review methodology and terminology.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
-  - 「); a development paper (which outlines the steps taken to update the PRISMA 2009 statement and provides rationale for modifications to the original items」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
-  - 「—A review that uses explicit, systematic methods to collate and synthesize findings of studies that address a clearly formulated question」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
-  - 「—The combination of quantitative results of two or more studies. This encompasses meta-analysis of effect estimates (described below) and other methods, such as combining P values, calculating the range and distribution of observed effects, and vote counting based on the direction of effect (see McKenzie and Brennan」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
-  - 「for a description of each method)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
-  - 「Consider providing additional information in the title, such as the method of analysis used (for example, “a systematic review with meta-analysis”), the designs of included studies (for example, “a systematic review of randomised trials”), or an indication that the review is an update of an existing review or a continually updated (“living”) systematic review.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
-  - 「but has been revised to make the wording consistent with the PRISMA 2020 statement and includes a new item recommending authors specify the methods used to present and synthesize results (item #6). The checklist includes the following 12 items:」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
-  - 「Specify the methods used to assess risk of bias in the included studies」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
-  - 「Specify the methods used to present and synthesise results」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
-  - 「An abstract providing key information about the main objective(s) or question(s) that the review addresses, methods, results, and implications of the findings should help readers decide whether to access the full report.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
-  - 「), consider presenting a logic model (sometimes referred to as a conceptual framework or theory of change) to visually display the hypothesised relationship between intervention components and outcomes.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
-  - 「Provide an explicit statement of all objective(s) or question(s) the review addresses, expressed in terms of a relevant question formulation framework (see Booth et al」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
-  - 「for various frameworks).」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「PRISMA Full Form & Meaning: Not a Methodology — CASRAI」（https://casrai.org/guides/prisma-and-systematic-review-methodology）
+  - 「PRISMA — Preferred Reporting Items for Systematic Reviews and Meta-Analyses — is a reporting checklist, not a methodology. This guide covers the full 27-item PRISMA 2020 checklist, the flow diagram, how to use PRISMA in practice, and its main extensions.」（https://casrai.org/guides/prisma-and-systematic-review-methodology）
+  - 「PRISMA stands for Preferred Reporting Items for Systematic Reviews and Meta-Analyses. It is not a research method — it is PRISMA 2020, the 27-item reporting checklist that specifies what a finished systematic review or meta-analysis must report, not how to search, screen, or synthesize evidence.」（https://casrai.org/guides/prisma-and-systematic-review-methodology）
+  - 「The rules for conducting a review live in the Cochrane Handbook; a PRISMA-compliant review can still rest on flawed methodology.」（https://casrai.org/guides/prisma-and-systematic-review-methodology）
+  - 「covering what to report in the title, abstract, introduction, methods, results, discussion, and “other information” sections of a systematic review.」（https://casrai.org/guides/prisma-and-systematic-review-methodology）
+  - 「Because it is a reporting standard, satisfying PRISMA is a necessary but not sufficient condition for a good systematic review. A review can be PRISMA-compliant on paper — every checklist item ticked — while still resting on a biased search or an inappropriate meta-analysis. The methodological rules for actually」（https://casrai.org/guides/prisma-and-systematic-review-methodology）
+  - 「Report per the separate PRISMA 2020 for Abstracts checklist (objectives, methods, results, limitations, funding).」（https://casrai.org/guides/prisma-and-systematic-review-methodology）
+  - 「Methods — Eligibility criteria」（https://casrai.org/guides/prisma-and-systematic-review-methodology）
+  - 「Methods — Information sources」（https://casrai.org/guides/prisma-and-systematic-review-methodology）
+  - 「Methods — Search strategy」（https://casrai.org/guides/prisma-and-systematic-review-methodology）
+  - 「Methods — Selection process」（https://casrai.org/guides/prisma-and-systematic-review-methodology）
+  - 「Methods — Data collection process」（https://casrai.org/guides/prisma-and-systematic-review-methodology）
+  - 「Methods — Risk of bias assessment」（https://casrai.org/guides/prisma-and-systematic-review-methodology）
+  - 「Specify the method and tool used to assess risk of bias, and how many reviewers were involved.」（https://casrai.org/guides/prisma-and-systematic-review-methodology）
+  - 「Methods — Effect measures」（https://casrai.org/guides/prisma-and-systematic-review-methodology）
 - 突き合わせ・推定：
+  - 「Describe how studies were grouped for synthesis, how missing data and effect estimates were handled, how results were presented, the meta-analysis method (if used), and any heterogeneity or sensitivity analyses.」（https://casrai.org/guides/prisma-and-systematic-review-methodology）
+  - 「For every outcome, present summary statistics and effect estimates with precision (e.g. confidence intervals) for each study and each synthesis.」（https://casrai.org/guides/prisma-and-systematic-review-methodology）
+  - 「Pooling clinically or methodologically heterogeneous studies into a single effect estimate because a table of results is less satisfying to present, rather than because pooling was statistically and clinically appropriate.」（https://casrai.org/guides/prisma-and-systematic-review-methodology）
+  - 「Systematic reviews and meta-analyses are among the most influential forms of evidence synthesis in medical research but publication depends on more than having a statistically significant pooled estimate. Authors must demonstrate transparent methods, reproducible searches, explicit eligibility criteria, appropriate risk-of-bias assessment, defensible statistical synthesis, and complete reporting.」（https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/）
+  - 「Do not formulate the research question after seeing the search results or pooled estimate. Changing the question or outcome emphasis in response to available evidence can introduce selective reporting and undermine methodological credibility.」（https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/）
+  - 「Risk-of-bias assessment affects interpretation of the evidence. A pooled effect estimate without a transparent assessment of study limitations can give a misleading impression of certainty.」（https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/）
+  - 「A statistically significant pooled estimate does not automatically represent high-certainty evidence.」（https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/）
   - 「—The combination of quantitative results of two or more studies. This encompasses meta-analysis of effect estimates (described below) and other methods, such as combining P values, calculating the range and distribution of observed effects, and vote counting based on the direction of effect (see McKenzie and Brennan」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
   - 「Meta-analysis of effect estimates」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
   - 「—A statistical technique used to synthesize results when study effect estimates and their variances are available, yielding a quantitative summary of results」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
@@ -13301,34 +13308,31 @@
   - 「Furthermore, authors need to interpret effect estimates in relation to whether the effect is of importance to decision makers. For a particular outcome and effect measure, this requires specification of thresholds (or ranges) used to interpret the size of effect (such as minimally important difference; ranges for no/trivial, small, moderate, and large effects).」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
   - 「transforming effect estimates (such as converting standardised mean differences to odds ratios」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
   - 「The principal graphical method for meta-analysis is the forest plot, which displays the effect estimates and confidence intervals of each study and often the summary estimate.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
-  - 「Similar to tabulation, ordering the studies in the forest plot based on study characteristics (such as by size of the effect estimate, year of publication, study weight, or overall risk of bias) rather than alphabetically (as is often done) can reveal patterns in the data.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
-  - 「Other graphs that aim to display information about the magnitude or direction of effects might be considered when a forest plot cannot be used due to incompletely reported effect estimates (such as no measure of precision reported).」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
-  - 「Various statistical methods are available to synthesise results, the most common of which is meta-analysis of effect estimates (see」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
-  - 「). Meta-analysis is used to synthesise effect estimates across studies, yielding a summary estimate. Different meta-analysis models are available, with the random-effects and fixed-effect models being in widespread use. Model choice can importantly affect the summary estimate and its confidence interval; hence the rationale for the selected model should be provided (see」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
-  - 「Meta-analysis is a statistical technique used to synthesise results when study effect estimates and their variances are available, yielding a quantitative summary of results.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
-  - 「The method facilitates interpretation that would otherwise be difficult to achieve if, for example, a narrative summary of each result was presented, particularly as the number of studies increases. Furthermore, meta-analysis increases the chance of detecting a clinically important effect as statistically significant, if it exists, and increases the precision of the estimated effect.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
-  - 「The summary estimate is a weighted average of the study effect estimates, where the study weights are determined primarily by the meta-analysis model. The two most common meta-analysis models are the “fixed-effect” and “random-effects” models.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
 - 一次情報の探し方：
   - 「Specify the primary source of funding for the review」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
   - 「pagm061901.w1.pdf」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
   - 「(757.9KB, pdf)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
 - 失敗・落とし穴：
-  - 「Specify the methods used to assess risk of bias in the included studies」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
-  - 「Provide a brief summary of the limitations of the evidence included in the review (such as study risk of bias, inconsistency, and imprecision)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
-  - 「Findings: Of 8122 records identified, 21 were eligible and data were available for 15 RCTs, all of which had a low to moderate risk of overall bias. Anxiety (five interventions, 728 participants) showed a greater response to intervention among women reporting intimate partner violence than among those who did not (difference in standardised mean differences [dSMD] 0.31, 95% CI 0.04 to 0.57, I」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
-  - 「) the study investigators considered most important (such as the study’s primary outcome). It is important to specify the methods that were used to select the results when multiple results were available so that users are able to judge the appropriateness of those methods and whether there is potential for bias in the selection of results.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
-  - 「Reviewers may make changes to the inclusion or definition of the outcome domains or to the importance given to them in the review (for example, an outcome listed as “important” in the protocol is considered “critical” in the review). Providing a rationale for the change allows readers to assess the legitimacy of the change and whether it has potential to introduce bias in the review process.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
-  - 「Study risk of bias assessment」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
-  - 「Item 11. Specify the methods used to assess risk of bias in the included studies, including details of the tool(s) used, how many reviewers assessed each study and whether they worked independently, and, if applicable, details of automation tools used in the process」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
-  - 「Users of reviews need to know the risk of bias in the included studies to appropriately interpret the evidence. Numerous tools have been developed to assess study limitations for various designs.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
-  - 「However, many tools have been criticised because of their content (which may extend beyond assessing study limitations that have the potential to bias findings) and the way in which the items are combined (such as scales where items are combined to yield a numerical score) (see」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
-  - 「Reporting details of the selected tool enables readers to assess whether the tool focuses solely on items that have the potential to bias findings. Reporting details of how studies were assessed (such as by one or two authors) allows readers to assess the potential for errors in the assessments.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
-  - 「Reporting how risk of bias assessments were incorporated into the analysis is addressed in Items #13e and #13f.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
-  - 「Box 4. Assessment of risk of bias in studies and bias due to missing results.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
-  - 「In PRISMA 2020, we distinguish “quality” from “risk of bias” and have focused the relevant items and elaborations on the latter. Risk of bias refers to the potential for study findings to systematically deviate from the truth due to methodological flaws in the design, conduct or analysis.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
-  - 「Quality is not well defined, but has been shown to encompass constructs beyond those that may bias the findings, including, for example, imprecision, reporting completeness, ethics, and applicability.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
-  - 「In systematic reviews, focus should be given to the design, conduct, and analysis features that may lead to important bias in the findings.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「Because it is a reporting standard, satisfying PRISMA is a necessary but not sufficient condition for a good systematic review. A review can be PRISMA-compliant on paper — every checklist item ticked — while still resting on a biased search or an inappropriate meta-analysis. The methodological rules for actually」（https://casrai.org/guides/prisma-and-systematic-review-methodology）
+  - 「Methods — Risk of bias assessment」（https://casrai.org/guides/prisma-and-systematic-review-methodology）
+  - 「Specify the method and tool used to assess risk of bias, and how many reviewers were involved.」（https://casrai.org/guides/prisma-and-systematic-review-methodology）
+  - 「Methods — Reporting bias assessment」（https://casrai.org/guides/prisma-and-systematic-review-methodology）
+  - 「Describe the method used to assess bias from missing results (e.g. selective non-reporting) within each synthesis.」（https://casrai.org/guides/prisma-and-systematic-review-methodology）
+  - 「Results — Risk of bias in studies」（https://casrai.org/guides/prisma-and-systematic-review-methodology）
+  - 「Present risk-of-bias assessments for every included study.」（https://casrai.org/guides/prisma-and-systematic-review-methodology）
+  - 「Summarise the characteristics and risk of bias of studies contributing to each synthesis; present all statistical results, including heterogeneity and sensitivity findings, for each meta-analysis or other synthesis.」（https://casrai.org/guides/prisma-and-systematic-review-methodology）
+  - 「Results — Reporting biases」（https://casrai.org/guides/prisma-and-systematic-review-methodology）
+  - 「Present an assessment of reporting bias for each synthesis.」（https://casrai.org/guides/prisma-and-systematic-review-methodology）
+  - 「PRISMA’s predecessor, QUOROM (1999), addressed reporting for meta-analyses of randomised trials specifically. PRISMA 2009 broadened the scope to systematic reviews generally, and PRISMA 2020 updated the checklist to reflect advances in how reviews identify, select, appraise, and synthesise studies — search reporting, risk-of-bias assessment, and certainty-of-evidence rating chief among them.」（https://casrai.org/guides/prisma-and-systematic-review-methodology）
+  - 「Choose and apply a risk-of-bias tool matched to your studies’ design」（https://casrai.org/guides/prisma-and-systematic-review-methodology）
+  - 「4. Data extraction and risk-of-bias assessment」（https://casrai.org/guides/prisma-and-systematic-review-methodology）
+  - 「Included studies are read in full and their data pulled into a standardised extraction form, ideally by more than one reviewer independently, to limit transcription error. Each included study is then assessed for risk of bias using a tool matched to its design — commonly the Cochrane」（https://casrai.org/guides/prisma-and-systematic-review-methodology）
+  - 「framework (high/moderate/low/very low), which combines risk of bias, inconsistency, indirectness, imprecision, and publication-bias considerations into a single certainty rating.」（https://casrai.org/guides/prisma-and-systematic-review-methodology）
 - 実例：
+  - 「A narrative review of selected papers, described as “systematic” without a registered protocol, documented search, or dual screening, is not a systematic review regardless of the label — this is explicitly called out as a counter-example on CASRAI’s own」（https://casrai.org/guides/prisma-and-systematic-review-methodology）
+  - 「— How review-article length varies by type (narrative, systematic, scoping, meta-analysis) and by journal, with Cochrane, JAMA, BMJ, and Nature Reviews examples.」（https://casrai.org/guides/prisma-and-systematic-review-methodology）
+  - 「For example, randomized trials, observational studies, diagnostic accuracy studies, and prognostic studies may require different risk-of-bias approaches.」（https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/）
+  - 「paper, which provides examples and rationale for individual checklist items.」（https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/）
   - 「In this article we explain why reporting of each item is recommended, present bullet points that detail the reporting recommendations, and present examples from published reviews」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
   - 「Consider providing additional information in the title, such as the method of analysis used (for example, “a systematic review with meta-analysis”), the designs of included studies (for example, “a systematic review of randomised trials”), or an indication that the review is an update of an existing review or a continually updated (“living”) systematic review.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
   - 「Example of item 1 of PRISMA 2020 checklist.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
@@ -13340,14 +13344,11 @@
   - 「Consider providing rationales for any notable restrictions to study eligibility. For example, authors might explain that the review was restricted to studies published from 2000 onward because that was the year the device was first available.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
   - 「Example of item 5 of PRISMA 2020 checklist.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
   - 「Authors should fully report the “what, when, and how” of the sources searched; the “what” and “when” are covered in item #6, and the “how” is covered in item #7. Further guidance and examples about searching can be found in PRISMA-Search, an extension to the PRISMA statement for reporting literature searches in systematic reviews.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
-  - 「Example of item 6 of PRISMA 2020 checklist.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
-  - 「Further guidance and examples of reporting search strategies can be found in PRISMA-Search.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
-  - 「If published approaches such as search filters designed to retrieve specific types of records (for example, filter for randomised trials)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
-  - 「or search strategies from other systematic reviews, were used, cite them. If published approaches were adapted—for example, if existing search filters were amended—note the changes made.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
 
 ## 消された・撤回された会社の記載を保存版（ウェブアーカイブ）で確かめ、取得の日時と一緒に証拠に残す手順（OSINT・調査報道の書き手）（wayback machine verify deleted company statements OSINT evidence capture）
 - 文脈：手順・やり方
 - 手順・やり方：
+  - 「まずは消されてしまったウェブ上の情報を探し出す方法をご紹介します」（https://d-jedi.jp/n/n90e111c11d23?gs=c707c3f5ef67798194ae2b2fe43863bf）
   - 「消えたURLの記事を読む方法｜ウェブ魚拓サービスの種類と使い方まとめ｜惣一郎さん」（https://note.com/zz08/n/ncd84a61a7641）
   - 「消えたURLの記事を読む方法｜ウェブ魚拓サービスの種類と使い方まとめ」（https://note.com/zz08/n/ncd84a61a7641）
   - 「この記事では、現在使えるウェブ魚拓サービスの種類と、それぞれの使い方をわかりやすく解説します」（https://note.com/zz08/n/ncd84a61a7641）
@@ -13362,7 +13363,6 @@
   - 「検索、地図、画像、動画、公文書など、一般に公開されている情報を、再検証できる手順によって組み合わせる方法である」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
   - 「何が確認でき、何が確認できていないかを分け、証拠を積み重ね、第三者が同じ手順を再現できるようにすることである」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
   - 「統計を使っているなら、元の表と調査方法を見る」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
-  - 「リバース画像検索は、画像を使って同じ画像や類似画像を探す方法である」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
 - 突き合わせ・推定：
   - 「それが後で振り返って検証しようというときに役立つはずだ」（https://note.com/shirabeshi/n/nee92b41d8cc1）
   - 「数年後、数十年後、数百年後にも検証可能な形で残す」（https://note.com/shirabeshi/n/nee92b41d8cc1）
@@ -13380,6 +13380,7 @@
   - 「調査者が「別の国の過去映像ではないか」と考えたなら、それは仮説である」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
   - 「事実、主張、仮説を混ぜると、検証前の推測が確定情報へ変わってしまう」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
 - 一次情報の探し方：
+  - 「ウェブアーカイブは、世界各国の国立図書館や公的機関が中心となって行っており、日本では国立国会図書館が2002年よりインターネット資料収集保存事業（WARP）を実施しています」（https://d-jedi.jp/n/n90e111c11d23?gs=c707c3f5ef67798194ae2b2fe43863bf）
   - 「多くは国などの公的機関が保存・公開に取り組んでいているが、民間で最も有名なのが、アメリカの非営利団体」（https://note.com/shirabeshi/n/nee92b41d8cc1）
   - 「国の機関、地方自治体、独立行政法人、国公立大学などの公的機関のサイトが中心だが、一部民間サイトも収集している」（https://note.com/shirabeshi/n/nee92b41d8cc1）
   - 「リンクをクリックすれば、その先にあったページやPDFも見られるようになっていることが多いので、目的のものがWARPにあるなら」（https://note.com/shirabeshi/n/nee92b41d8cc1）
@@ -13394,7 +13395,6 @@
   - 「WARP（国立国会図書館） & ◎ & ◎ & ✕ & 公的機関・行政サイト \\ \hlineBingキャッシュ & ○ & △ & ✕ & 最近のページ \\ \hline」（https://note.com/zz08/n/ncd84a61a7641）
   - 「保存データはHTMLだけでなく画像やスクリプト、PDFなども含まれることがあります」（https://note.com/minato_hints/n/n66753053b58f）
   - 「特許庁など一部機関で日付の証拠として受け入れられている」（https://note.com/minato_hints/n/n66753053b58f）
-  - 「将来の消失に備えるなら、気になるページは即座にSave Page NowとPDF保存をしておくのが手軽で確実です」（https://note.com/minato_hints/n/n66753053b58f）
 - 失敗・落とし穴：
   - 「以前の記事では、推し活の観点からWayback Machineの利活用を書いたが、とかく「調査」が必要な場面において大活躍間違いなしなので、」（https://note.com/shirabeshi/n/nee92b41d8cc1）
   - 「ただし、全てのページが残っているわけではないので注意が必要です」（https://note.com/minato_hints/n/n66753053b58f）
@@ -13412,6 +13412,7 @@
   - 「認知戦とは何か──情報戦・心理戦との違いと認知バイアスの基本」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
   - 「人はなぜ偏った報道を信じるのか―脳科学と認知バイアスで読み解く情報操作」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
 - 実例：
+  - 「第1章で述べたように、入札のことを告知する「入札公告」や、結果を示した「入札（経過）調書」は、官庁や自治体のホームページに掲載されますが、これが削除されてしまった、というケースがありました」（https://d-jedi.jp/n/n90e111c11d23?gs=c707c3f5ef67798194ae2b2fe43863bf）
   - 「例えば、とあるサイトで年に1度公開される調査報告書がある」（https://note.com/shirabeshi/n/nee92b41d8cc1）
   - 「例えば、「市川海老蔵」と検索してみると、メタデータの検索結果と全文の検索結果が出てくる」（https://note.com/shirabeshi/n/nee92b41d8cc1）
   - 「総務省の統計によると、市町村数は3,232（平成11年3月31日）から1,719（平成25年1月1日）へと減少し、その結果、約1,500の市町村サイトがインターネット上から消えてしまいました」（https://note.com/shirabeshi/n/nee92b41d8cc1）
@@ -13426,7 +13427,6 @@
   - 「検索結果が見つかった場合は、最も古い掲載例を探す」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
   - 「第11章 検索結果が出ないことは本物の証明ではない」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
   - 「しかし、検索結果がない理由は複数ある」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
-  - 「したがって、検索結果がないことは、出典を発見できなかったことを意味するだけである」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
 - 検索結果の抜粋：
   - 「消えたウェブサイトが見たい ――さまざまなウェブアーカイブ《国立国会... — Jul 25, 2025 · ウェブアーカイブ――日々現れては消えてゆく数々のウェブサイトをアーカイブ（保存）する取り組み。図書館が本を保存しているのと同じように、ウェブ上の情報も貴重な知的資源であるから保存しようということだ。 多くは国などの公的機関が保存・公開に取り組んでいているが、民間で ...」（https://note.com/shirabeshi/n/nee92b41d8cc1）
   - 「消えたウェブサイトが見たい ――さまざまなウェブアーカイブ《国立国会... — Jul 25, 2025 · ウェブアーカイブ――日々現れては消えてゆく数々のウェブサイトをアーカイブ（保存）する取り組み。 図書館が本を保存しているのと同じように、ウェブ上の情報も貴重な知的資源であるから保存しようということだ。」（https://note.com/shirabeshi/n/nee92b41d8cc1）
