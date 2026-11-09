@@ -39,13 +39,17 @@ def _call(token: str, prompt: str) -> dict | None:
                       json={"model": MODEL, "temperature": 0, "response_format": {"type": "json_object"},
                             "messages": [{"role": "system", "content": RULE}, {"role": "user", "content": prompt}]})
     if r.status_code == 429:
+        print(f"judge 429: {r.text[:300]} retry-after={r.headers.get('retry-after')}", flush=True)
         return {"_stop": True}
     if r.status_code != 200:
         print(f"judge http {r.status_code}: {r.text[:200]}", flush=True)
         return None
     try:
-        return json.loads(r.json()["choices"][0]["message"]["content"])
-    except Exception:
+        txt = r.json()["choices"][0]["message"]["content"]
+        txt = txt.strip().removeprefix("```json").removeprefix("```").removesuffix("```").strip()
+        return json.loads(txt)
+    except Exception as e:
+        print(f"judge parse failed: {e}: {r.text[:300]}", flush=True)
         return None
 
 
@@ -76,7 +80,11 @@ def judge_topic(name: str, token: str, budget: list[int]) -> None:
             ev = (recs.get(nm) or {}).get("evidence", {})
             items = (ev.get(cfg["japan"], [])[:6] + ev.get(cfg["scale"], [])[:3] + ev.get("検索結果の抜粋", [])[:4])
             quotes = "\n".join(f"- 「{i.get('quote', '')[:300]}」（{i.get('url', '')}）" for i in items)
-            res = _call(token, f"会社：{nm}（{row['公式URL']}）\n引用：\n{quotes}")
+            try:
+                res = _call(token, f"会社：{nm}（{row['公式URL']}）\n引用：\n{quotes}")
+            except Exception as e:
+                print(f"judge call error {nm}: {e}", flush=True)
+                res = None
             budget[0] -= 1
             if res and res.get("_stop"):
                 budget[0] = 0
@@ -93,7 +101,7 @@ def judge_topic(name: str, token: str, budget: list[int]) -> None:
         w = csv.DictWriter(f, fieldnames=list(rows[0].keys()) if rows else [])
         w.writeheader()
         w.writerows(rows)
-    print(f"judge {name}: cached {len(cache)}", flush=True)
+    print(f"judge {name}: cached {len(cache)} / rows {len(rows)} / budget left {budget[0]}", flush=True)
 
 
 def main() -> int:
