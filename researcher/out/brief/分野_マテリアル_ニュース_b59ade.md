@@ -217,7 +217,7 @@
 - SNS・note（X・検索結果の抜粋）：未完（まだ取れていない・掘る対象）
 - 検索結果の抜粋：未完（まだ取れていない・掘る対象）
 ### 業界ニュース（毎日）｜レアメタルリサイクル（e-waste precious metal recovery）
-- 取得：2026-11-08T04:41・調査5回目・読んだ頁42
+- 取得：2026-11-09T04:53・調査6回目・読んだ頁42
 - 痛み・損（深さの印）：未完（まだ取れていない・掘る対象）
 - 顧客（金を払う側）（69件）：
   - ［一次］2026-11-08「生各国で重要鉱物及びリサイクル資源の輸出管理強化、 国内資源確保、 グローバル企業の再生材利用が進む中、 我が国で」https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf
@@ -225,13 +225,13 @@
   - ［一次］2026-11-07「※3 総合環境企業ミヤマ株式会社. "再資源化（リサイクル）".」https://tenbou.nies.go.jp/science/description/detail.php?id=62
   - ［一次］2026-11-07「また、一般社団法人JBRC（Japan Portable Rechargeable Battery Recycling Center）は、小型充電式電池のメーカーとそれを利用する企業などが共同で設立した団体で、使用済みとなったニカド電池、ニッケル水素電池、リチウムイオン電池などの回収を行っています」https://tenbou.nies.go.jp/science/description/detail.php?id=62
   - ［一次］2026-11-07「この使用済みターゲット材は、ターゲット材メーカーやリサイクルメーカーへ戻され、酸溶解→中和→置換析出→溶解・鋳造→電解精製という順で処理されて、インジウムの二次地金が生産されます」https://tenbou.nies.go.jp/science/description/detail.php?id=62
-- 顧客の顧客（発注元が求めること）（15件）：
+- 顧客の顧客（発注元が求めること）（17件）：
+  - ［記事］2026-11-09「微生物を活用したレアメタル・貴金属のバイオ分離回収技術の基礎と脱炭素型リサイクル技術への応用【提携セミナー】」https://engineer-education.com/seminar_tag/seminar_rare-metal/
+  - ［記事］2026-11-09「微生物を活用した貴金属・レアメタルの分離回収の基礎と脱炭素型リサイクルへの応用【提携セミナー】」https://engineer-education.com/seminar_tag/seminar_rare-metal/
   - ［記事］2026-11-07「特にハイテク産業に不可欠なレアメタルは、現状、輸入に頼らざるを得ず、ひとたび供給不足が起これば、世界の脱炭素社会の推進に甚大な影響を及ぼします」https://startupclass.co.jp/article/2025/04/21/emulsion-flow-technologies/
   - ［記事］2026-11-07「はじめに 第8話を振り返って第8話では、「RE100・SBT・CBAM、サプライチェーン全体の脱炭素」というテーマで、自社の壁を越えた外部圧力に向き合う3つの視点を掘り下げました」https://www.dctainc.com/blog/
   - ［記事］2026-11-07「規制の地雷原を歩き、PFAS代替の壁に向き合い、中国依存の深さを数値で直視し、東南アジアの現場に入り、サプライヤーを育てることの意味を考え、在庫の哲学を問い直し、デジタルの可能性と限界を見つめ、欧州規制を機会に変」https://www.dctainc.com/blog/
-  - ［記事］2026-11-06「本記事では、製造業におけるレアメタルリサイクルの最新動向や効率化手法、導入事例を紹介し、環境課題や脱炭素社会の実現にどのように貢献できるかを解説します」https://www.ricoh.co.jp/products/list/ricoh-handy-plastic-sensor-b150/knowledge/knowledge10
-  - ［記事］2026-11-06「実際、グリーンサプライチェーンのリスク評価手法としてファジー総合評価（FCE）モデルがY社で適用され、サプライヤー選定などで定量的な判断材料を得る取り組みが報告されています（参照*6）」https://www.ricoh.co.jp/products/list/ricoh-handy-plastic-sensor-b150/knowledge/knowledge10
-- 顧客の競合（奪いに来る側）（44件）：
+- 顧客の競合（奪いに来る側）（48件）：
   - ［一次］2026-11-07「近年の鉱物資源をめぐる市場動向をみると、当初は先進諸国はもとより経済発展が著しいBRICS（ブラジル、ロシア、インド、中国、南アフリカ）などでの消費量が急速に拡大したことで、需要が逼迫し、価格も高騰していましたが、リーマン・ショックに起因する経済悪化にともない、2008年上期頃をピークに価格は下落しました」https://tenbou.nies.go.jp/science/description/detail.php?id=62
   - ［一次］2026-11-07「高品位なインドネシア産ニッケル鉱石の代替は容易ではなく、需給逼迫と価格上昇が懸念されており、リサイクルの重要性が高まっています」https://tenbou.nies.go.jp/science/description/detail.php?id=62
   - ［一次］2026-11-05「銅は、年初は8,800US$/t台で始まり、米国Trump政権による輸入関税導入の示唆や中国政府の歳出拡大などを受けて価格を押し上げ、3月には9,900US$/t台まで上昇した」https://journal.jogmec.go.jp/metal/current-topics/current-topics_01146.html
@@ -243,7 +243,7 @@
   - ［記事］2026-11-04「European Commission, Waste from Electrical and Electronic Equipment (WEEE). environment.ec.europa.eu」https://www.gminsights.com/industry-analysis/precious-metals-e-waste-recovery-market
   - ［記事］2026-11-04「Johnson Matthey remains a major platinum-group-metals refiner, with refinery commissioning activity scheduled by the end of FY2025/26. Its position rests on refining expertise and customer requirements for specification-」https://www.gminsights.com/industry-analysis/precious-metals-e-waste-recovery-market
   - ［SNS］2026-11-07「：日本は商社単独では動かず、JOGMECの出融資・債務保証とセットで権益を取りに行く（双日×JOGMEC×ライナスが典型）」https://note.com/izuku_idea/n/nfd1693d962ff
-- 政治（法・予算・規制）（52件）：
+- 政治（法・予算・規制）（55件）：
   - ［一次］2026-11-08「生各国で重要鉱物及びリサイクル資源の輸出管理強化、 国内資源確保、 グローバル企業の再生材利用が進む中、 我が国で」https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf
   - ［一次］2026-11-07「また、2011年4月からは「小型家電リサイクル法」という法律が施行されました」https://tenbou.nies.go.jp/science/description/detail.php?id=62
   - ［一次］2026-11-07「家電の回収活動で先行している自治体等と連携して検討を進めるほか、レアメタルの回収技術やそれに伴う重金属等有害物質対策、残渣処理技術等の研究開発について、「レアメタル回収技術特別枠」（循環型社会形成推進科学研究費補助金に、2009年度から新設）などの枠組みを使って積極的な支援を行っています」https://tenbou.nies.go.jp/science/description/detail.php?id=62
@@ -266,19 +266,19 @@
   - ［一次］2026-11-07「「3.代替材料開発」に関しては、「既存の延長線上にない物質・材料の革新的機能の創出」を目指す元素戦略プロジェクトの取り組みが、文部科学省により2007年度から始まっています」https://tenbou.nies.go.jp/science/description/detail.php?id=62
   - ［一次］2026-11-07「また、経済産業省も非鉄金属資源の代替材料及び使用量低減技術の確立を目的として、「希少金属代替材料開発プロジェクト」に取り組むなど、この分野には多くの注目が集まっています」https://tenbou.nies.go.jp/science/description/detail.php?id=62
   - ［一次］2026-11-07「個々のレアメタルの物性の違いや、製品中の含有率、利用方法、廃棄・回収事情の違いなどを反映し、さまざまな側面でリサイクル技術の開発が進んでいます」https://tenbou.nies.go.jp/science/description/detail.php?id=62
-- SNS・note（X・検索結果の抜粋）：未完（まだ取れていない・掘る対象）
-- SNS・note（note・検索結果の抜粋）：未完（まだ取れていない・掘る対象）
-- 検索結果の抜粋（2件）：
-  - ［一次］2026-11-07「レアメタルリサイクル技術 - 環境技術解説｜環境展望台：国立環境研究... — その課題解決の一翼を担うと期待されるレアメタルリサイクル技術について、事例を交えながら、最近の動向と課題を紹介します。 1. レアメタルとは 2. レアメタル確保の取り組み 3. レアメタルリサイクルを事業化するには」https://tenbou.nies.go.jp/science/description/detail.php?id=62
-  - ［一次］2026-11-07「レアメタルリサイクル／産業環境管理協会／資源・リサイクル促進セン... — Jan 31, 2025 · 2019.12.11 〔ネオジム〕東京エコリサイクル株式会社、日和サービス株式会社、NEOMAXエンジニアリング株式会社による先進事業「レアアース磁石におけるサーキュラーエコノミーの推進」を掲載しました。」https://www.cjc.or.jp/raremetal/
 - SNS・note（note・本文）（7件）：
   - ［SNS］2026-11-04「ゴミの山は宝の山！「都市鉱山」が注目される理由——レアメタル争奪戦と日本の秘める可能性」https://note.com/tasty_godwit501/n/na76bda3fa27a
   - ［SNS］2026-11-04「スマートフォン、パソコン、電気自動車、太陽光パネル——私たちの暮らしに欠かせないハイテク製品には、「レアメタル（希少金属）」や「レアアース（希土類）」と呼ばれる貴重な金属が使われています。」https://note.com/tasty_godwit501/n/na76bda3fa27a
   - ［SNS］2026-11-04「しかし今、中国による輸出規制の強化、中東情勢の不安定化、そして世界的な脱炭素化の加速によって、これらの資源を巡る争奪戦が激化しています。」https://note.com/tasty_godwit501/n/na76bda3fa27a
   - ［SNS］2026-11-04「そんな中、改めて熱視線を集めているのが「都市鉱山（Urban Mining）」という概念です。捨てられた電子機器の中に眠る金属を「都市に埋まる鉱山」と捉え直すこの考え方は、資源のない日本にとって大きな希望になりえます。」https://note.com/tasty_godwit501/n/na76bda3fa27a
   - ［SNS］2026-11-04「この記事では、都市鉱山の基礎知識から経済規模、日本と世界の取り組み、そして「お金の視点」で見た都市鉱山の可能性まで、わかりやすく解説します。」https://note.com/tasty_godwit501/n/na76bda3fa27a
+- SNS・note（note・検索結果の抜粋）：未完（まだ取れていない・掘る対象）
+- 検索結果の抜粋（2件）：
+  - ［一次］2026-11-07「レアメタルリサイクル技術 - 環境技術解説｜環境展望台：国立環境研究... — その課題解決の一翼を担うと期待されるレアメタルリサイクル技術について、事例を交えながら、最近の動向と課題を紹介します。 1. レアメタルとは 2. レアメタル確保の取り組み 3. レアメタルリサイクルを事業化するには」https://tenbou.nies.go.jp/science/description/detail.php?id=62
+  - ［一次］2026-11-07「レアメタルリサイクル／産業環境管理協会／資源・リサイクル促進セン... — Jan 31, 2025 · 2019.12.11 〔ネオジム〕東京エコリサイクル株式会社、日和サービス株式会社、NEOMAXエンジニアリング株式会社による先進事業「レアアース磁石におけるサーキュラーエコノミーの推進」を掲載しました。」https://www.cjc.or.jp/raremetal/
+- SNS・note（X・検索結果の抜粋）：未完（まだ取れていない・掘る対象）
 ### 業界ニュース（毎日）｜マテリアルズインフォマティクス（materials informatics）
-- 取得：2026-11-08T04:24・調査5回目・読んだ頁47
+- 取得：2026-11-09T04:49・調査6回目・読んだ頁47
 - 痛み・損（深さの印）：未完（まだ取れていない・掘る対象）
 - 顧客（金を払う側）（56件）：
   - ［一次］2026-11-06「 これに対し、MIを活用すれば、開発に必要なリソースが抑えられ、ベンチャー企業等にとって参入余地が広がる可能性があります」https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf
@@ -292,12 +292,12 @@
   - ［記事］2026-11-06「従来であれば膨大な実験が必要だった条件探索も、データとAIによって短期間で実現可能となるため、SDGsや脱炭素社会への対応を加速させる手段としても注目されています」https://labinformatics.jp/media/column/mi
   - ［記事］2026-11-05「脱炭素やカーボンニュートラルへの取り組みを反映した、“グリーンイノベーション”理念に基づき、ロボットやデジタル技術、AIを活用した自律型実験システム「Autonomous Lab」を開発します」https://www.mi-seek.com/
   - ［記事］2026-11-04「カーボンニュートラルとは、温室効果ガスの排出量から吸収・除去量を差し引き、実質的に排出をゼロにして、脱炭素社会を実現させる取り組みのことです」https://www.wsew.jp/hub/ja-jp/blog/article_35.html
-- 顧客の競合（奪いに来る側）（22件）：
+- 顧客の競合（奪いに来る側）（24件）：
   - ［一次］2026-11-06「大規模マテリアルAIモデル開発機能、データ工場・データ蓄積機能、AI駆動マテリアルラボシステム開発機能、垂直統合型研究開発機能およびオフサイト・オフキャンパス機能を必要な機能として実装し、これらの共用や共同研究事業などを通じて、運営費については企業会費制、共同研究費などで賄っていく、基礎・基盤研究のシェアリングエコノミーの形成を目指します」https://www8.cao.go.jp/cstp//////material/rfi/rfi.html
   - ［一次］2026-11-04「米国  Materials Genome Initiative（MGI）：2011年に提唱、材料開発の短期化・低コスト化に向けデータの重要性に着目（2012～2016年の5年間で5億ドルを投資）」https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf
   - ［一次］2026-11-04「欧州  Computational Materials Engineering：マルチスケール計算材料科学の確立（シミュレーションに特化）」https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf
   - ［一次］2026-11-04「韓国  Creative Materials Discovery Project：2015年から10年計画で立ち上げ  2016年、韓国科学技術研究所内にMaterials Infomatics Database for Advanced Search（MIDAS）を設置」https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf
-  - ［記事］2026-11-08「第19章 米国マテリアル・インフォマティクス市場」https://newscast.jp/smart/news/8350130
+  - ［記事］2026-11-09「2024年の装置売上高ランキングでは、1位ASML、2位AMAT、3位ラムリサーチに次いでTELが4位につけており、5位のKLAまでを含めた上位5社が業界の大半のシェアを握る構図だ」https://biz-journal.jp/company/post_395421.html
 - 自社の競合（商社・代理店・仲介）（7件）：
   - ［記事］2026-11-08「グローバルインフォメーションは360iResearch (360iリサーチ)の日本における正規代理店です」https://newscast.jp/smart/news/8350130
   - ［記事］2026-11-05「単にインフォマティクスのツールを売るだけでなく、段階的なMIの導入や、装置メーカーや商社機能としての強みを活かした課題解決ができることから、2017年から現在まで」https://www.mi-seek.com/
@@ -310,34 +310,27 @@
   - ［記事］2026-11-08「デジタルコラボレーションプラットフォームの普及に伴い、学術界、政府系研究所、民間企業からなる学際的なチームがリアルタイムで連携し、データ駆動型の仮説を実験的検証へと迅速に結びつけています」https://newscast.jp/smart/news/8350130
   - ［記事］2026-11-08「市場を牽引する変革的な変化を解き明かし、進化する関税政策の累積的な影響を評価し、詳細なセグメンテーションと地域別の視点を提供するとともに、先駆的な企業のプロファイルを紹介し、意思決定者に実践的な洞察を提供することを目的とした戦略的提言をもって締めくくります」https://newscast.jp/smart/news/8350130
   - ［記事］2026-11-08「2次調査では、学術論文、特許出願、ホワイトペーパー、および公開されている技術報告書を幅広く精査し、技術的能力、業界動向、規制状況に関する包括的なベースラインを確立しました」https://newscast.jp/smart/news/8350130
-- 経済（規模・価格・為替）（12件）：
+- 経済（規模・価格・為替）（16件）：
+  - ［記事］2026-11-09「ASML・AMAT・ラムリサーチとの性能競争が限界に近づく中、TSMC熊本工場（投資額2.7兆円規模）のような巨大工場で「導入スピード」が新たな差別化軸になる構造を解説する」https://biz-journal.jp/company/post_395421.html
+  - ［記事］2026-11-09「当初は約1.9兆円規模とされていた投資額が、AI向け半導体需要の急増を受けて2.7兆円規模へ拡大し、さらに最先端の2ナノメートル世代への対応を検討する案では投資規模が3.9兆円に達するとの試算も報じられている」https://biz-journal.jp/company/post_395421.html
+  - ［記事］2026-11-09「2024年の装置売上高ランキングでは、1位ASML、2位AMAT、3位ラムリサーチに次いでTELが4位につけており、5位のKLAまでを含めた上位5社が業界の大半のシェアを握る構図だ」https://biz-journal.jp/company/post_395421.html
+  - ［記事］2026-11-09「宮城県の新開発棟では、この仕組みを使って新装置の開発期間や立ち上げ期間そのものを短縮し、将来的には生産能力を3倍に高め、年間およそ100億円のコスト削減効果を狙うとされる」https://biz-journal.jp/company/post_395421.html
   - ［記事］2026-11-08「マテリアル・インフォマティクス市場は、2025年に7億1,995万米ドルと評価され、2026年には8億4,846万米ドルに成長し、CAGR18.34％で推移し、2032年までに23億4,119万米ドルに達すると予測されています」https://newscast.jp/smart/news/8350130
-  - ［記事］2026-11-08「典型例：第4回公募・従業員20人以下750万円〜2,500万円、21〜50人750万円〜4,000万円、51〜100人750万円〜5,500万円、101人以上750万円〜7,000万円」https://www.min-kei.jp/news_dashboard28/
-  - ［記事］2026-11-07「――2026年見通し520〜560億ドル（約8兆2,000億〜8兆9,000億円）、2025年実績409億ドル、約3割増、ファウンドリ業界全体の成長率約14%、魏哲家CEOの発言」https://semi-connect.net/semiconductor-capex-2026/
-  - ［記事］2026-11-05「しかしながら、世界のマテリアルズ・インフォマティクスの市場規模は、2023年の1億2,900万米ドルから、2028年までに2億7,600万米ドルに成長すると予測されています（※1）」https://www.mi-seek.com/
-  - ［記事］2026-11-05「Cognition評価額480億ドルへ｜Devin開発元がシリーズEで20億ドル調達・4カ月で約2倍・年換算売上10億ドル突破とAIコーディング競争の行方【2026年11月最新】」https://ai-revolution.co.jp/media/ai-in-chemical/
-- 社会（人・担い手）（38件）：
+- 社会（人・担い手）（40件）：
   - ［一次］2026-11-06「三菱ケミカルHD  中期経営計画(18～20年度)で、データプラットフォームの整備やデジタル人材の育成、MIや量子コンピュータ等の革新的なデジタル技術を活用･検討すると標榜」https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf
   - ［一次］2026-11-06「ローバル社会に貢献する会社、 国内の製造業を代表する共創型人材創出企業） と関連しており、 当社長期ビジ ョ ンの達成と社会からの期待の」https://www.resonac.com/sites/default/files/2022-12/pdf-img-corporate-vision-03.pdf
   - ［一次］2026-11-04「2026年度 DxMT人材育成セミナー「Pythonによるマテリアルズ・インフォマティクス連続ハンズオン」」https://www.nims.go.jp/events/fmd8pi0000008gre.html
   - ［一次］2026-11-04「 しかしながら、現段階では、実際のMI導入に際し、①データ基盤の不足、②データ解析技術の向上、③データ人材の不在、等の課題」https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf
-  - ［記事］2026-11-08「MIを単発で終わらせず、組織全体で継続的に活用していくためのヒントと、推進人材の育成・発掘に向けたMI-6の支援内容（miHub、Hands-on MIなど）もお伝えします」https://mono.ipros.com/company/detail/2082487/news/
-- 技術（新しい技術・実証）（48件）：
+  - ［記事］2026-11-09「【2026年11月最新】高齢者雇用で使える助成金・給付金とは？65歳超雇用推進助成金・高年齢雇用継続給付の違いを社労士事務所向けに解説し、申請準備の事務をAIに任せる方法」https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/
+- 技術（新しい技術・実証）（52件）：
   - ［一次］2026-11-06「マテリアルズ・インフォマティクスによる材料開発」https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf
   - ［一次］2026-11-06「 MIは、研究者の経験や勘に基づく従来型の手法に比べ、開発期間の大幅な短縮や開発コストの低減を実現できる他、データベース」https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf
   - ［一次］2026-11-06「 これに対し、MIを活用すれば、開発に必要なリソースが抑えられ、ベンチャー企業等にとって参入余地が広がる可能性があります」https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport090.pdf
-  - ［記事］2026-11-07「近年、従来にない新たな物性や機能を有する素材の開発をデジタルの力で効率良く進める開発手法「マテリアルズインフォマティクス（MI）」が国内外の企業から関心を集めています」https://monoist.itmedia.co.jp/mn/articles/2602/03/news016.html
-  - ［記事］2026-11-07「マテリアルズ・インフォマティクスとは？開発・研究でのメリットや事例、課題」https://www.peaks-media.com/762/
-- SNS・note（LinkedIn・検索結果の抜粋）：未完（まだ取れていない・掘る対象）
+  - ［記事］2026-11-09「マテリアルズ・インフォマティクス（MI）－材料開発の未来を担う人材探索」https://www.link-j.org/member_event/article-49468.html
+  - ［記事］2026-11-09「研究者の経験や勘に基づく従来手法に比べ、開発期間の大幅短縮やコストの低減が期待され、化学業界を中心に各社の取り組みが加速する一方、MIの導入にあたり、材料に対する深い理解とデータサイエンスの知見を備えた人材の育成・確保が大きな課題となっています」https://www.link-j.org/member_event/article-49468.html
 - SNS・note（note・検索結果の抜粋）（2件）：
   - ［SNS］2026-11-07「マテリアルズインフォマティクスの動向 2026/8/30｜トマかめ Aug 30, 2026 · ベイズ推定では、ときにありえない条件が提示されてくる、という問題があります。人間側で事前情報を与えることで現実的な条件を提示させる。 Geminiが提示してきた問題点は、もし人間側の事前情報が間違っていたら修正できないこと。 私の見解は、ある程度法則が見え始めた開発中期に ...」https://note.com/yh1973/n/n0222fa42e419
   - ［SNS］2026-11-07「マテリアルズインフォマティクス - 2026-02｜かなめ │ ケミストのDXノ... 化学業界に静かに起きている革命——マテリアルズインフォマティクスという切り札私は化学業界で約20年、材料開発の最前線に携わってきました。これまでに出願した特許も20件を超えます。そんな現場を知る立場として ...」https://note.com/ideal_lemur777/m/m78107f358db2/archive/2026-02
-- 検索結果の抜粋（12件）：
-  - ［記事］2026-11-07「【2026年10月最新】マテリアルズインフォマティクス（MI）とは？導入... — Oct 2, 2026 · マテリアルズインフォマティクス（MI）の定義・メリット・国内外の動向・企業7社の事例を整理し、専門部署がない中小企業がAIで同じ発想を活かす方法まで解説します。」https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/
-  - ［記事］2026-11-07「マテリアルズインフォマティクス関連セミナー | アイアール技術者教育... — マテリアルズインフォマティクス関連セミナー 化学/素材 研究・開発 専門技術・ノウハウ 申込受付中 WEB開催 提携セミナー 開催日 2026 年 12 月 22 日（火） 担当講師 久保 百司 氏」https://engineer-education.com/seminar_tag/seminar_materials-informatics/
-  - ［記事］2026-11-07「MI Conf 2026 -Materials Informatics Conference- — Jul 15, 2026 · MIに特化したカンファレンス、MI Conf 2026の公式サイトです。アカデミア・企業の中から厳選されたMIのトップランナーが一堂に会し、最新の潮流や今後の方向性を紹介します。」https://miconf.mi-6.co.jp/2026
-  - ［記事］2026-11-07「マテリアルズインフォマティクス（MI）の世界市場（2026年～2036年） — May 11, 2026 · マテリアルズインフォマティクス（MI）の世界市場（2026年～2036年） The Global Materials Informatics Market 2026-2036 マテリアル/化学品 発行 Future Markets, Inc. 発行日 2026年05月11日 ページ情報 英文 190 Pages, 31 Tabl」https://www.gii.co.jp/report/fmi1510802-global-materials-informatics-market.html
-  - ［記事］2026-11-07「ビッグテックの設備投資の推移【2026年10月】Microsoft・Google・Amaz... — Oct 18, 2026 · 4社の2026年7〜9月期の設備投資は合計2,019億ドルで、前年同期の約2.08倍です。Microsoft・Google（Alphabet）・Amazon・Metaの設備投資を、決算書の現金ベースで2025年1〜3月期から7四半期並べ、通年見通しの改定履歴とリースを含む数え方の違いを整理します。Amazo」https://aiteller.jp/blog/bigtech-ai-setsubi-toushi-suii
 - SNS・note（X・検索結果の抜粋）（3件）：
   - ［SNS］2026-11-07「おにぎり＠マテリアルズ・インフォマティクス (@mat_info_ai) / X 高分子の物性をAIで予測するWebアプリ「Polymer-ML」を公開しました！ モノマー構造を入力するとガラス転移温度やヤング率等の物性を即座に算出します。3Dモデルの確認も可能です URLは返信欄に載せています！ #マテリアルズインフォマティクス #Python #Streamlit #高分子」https://x.com/mat_info_ai
   - ［SNS］2026-11-07「横山トモヤス｜計算材料科学者 (@yoko_materialDX) / X パナソニック ホールディングス株式会社 シニアリードリサーチャー｜素材×DX（#マテリアルズインフォマティクス ）によるクリーンエネルギー材料の研究開発｜社会人博士課程修了｜計算材料科学、第一原理計算、機械学習｜その他の情報は個人HPへ｜会社の研修がきっかけで始めました ...」https://x.com/yoko_materialDX
@@ -348,3 +341,10 @@
   - ［SNS］2026-11-07「Bayesian Optimization for Self-Driving Materials Laboratories: From Algorithms to Physics-Informed Workflows」https://note.com/yh1973/n/n0222fa42e419
   - ［SNS］2026-11-07「ベイズ推定では、ときにありえない条件が提示されてくる、という問題があります。人間側で事前情報を与えることで現実的な条件を提示させる。」https://note.com/yh1973/n/n0222fa42e419
   - ［SNS］2026-11-07「Geminiが提示してきた問題点は、もし人間側の事前情報が間違っていたら修正できないこと。」https://note.com/yh1973/n/n0222fa42e419
+- 検索結果の抜粋（12件）：
+  - ［記事］2026-11-07「【2026年10月最新】マテリアルズインフォマティクス（MI）とは？導入... — Oct 2, 2026 · マテリアルズインフォマティクス（MI）の定義・メリット・国内外の動向・企業7社の事例を整理し、専門部署がない中小企業がAIで同じ発想を活かす方法まで解説します。」https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/
+  - ［記事］2026-11-07「マテリアルズインフォマティクス関連セミナー | アイアール技術者教育... — マテリアルズインフォマティクス関連セミナー 化学/素材 研究・開発 専門技術・ノウハウ 申込受付中 WEB開催 提携セミナー 開催日 2026 年 12 月 22 日（火） 担当講師 久保 百司 氏」https://engineer-education.com/seminar_tag/seminar_materials-informatics/
+  - ［記事］2026-11-07「MI Conf 2026 -Materials Informatics Conference- — Jul 15, 2026 · MIに特化したカンファレンス、MI Conf 2026の公式サイトです。アカデミア・企業の中から厳選されたMIのトップランナーが一堂に会し、最新の潮流や今後の方向性を紹介します。」https://miconf.mi-6.co.jp/2026
+  - ［記事］2026-11-07「マテリアルズインフォマティクス（MI）の世界市場（2026年～2036年） — May 11, 2026 · マテリアルズインフォマティクス（MI）の世界市場（2026年～2036年） The Global Materials Informatics Market 2026-2036 マテリアル/化学品 発行 Future Markets, Inc. 発行日 2026年05月11日 ページ情報 英文 190 Pages, 31 Tabl」https://www.gii.co.jp/report/fmi1510802-global-materials-informatics-market.html
+  - ［記事］2026-11-07「ビッグテックの設備投資の推移【2026年10月】Microsoft・Google・Amaz... — Oct 18, 2026 · 4社の2026年7〜9月期の設備投資は合計2,019億ドルで、前年同期の約2.08倍です。Microsoft・Google（Alphabet）・Amazon・Metaの設備投資を、決算書の現金ベースで2025年1〜3月期から7四半期並べ、通年見通しの改定履歴とリースを含む数え方の違いを整理します。Amazo」https://aiteller.jp/blog/bigtech-ai-setsubi-toushi-suii
+- SNS・note（LinkedIn・検索結果の抜粋）：未完（まだ取れていない・掘る対象）

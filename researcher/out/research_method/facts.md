@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・276品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・278品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -9861,7 +9861,7 @@
   - 「Instead of reviewing pairs of records, our evaluation approach utilizes a sample of fully-resolved entities, i.e., ground truth, or known clusters. In this approach, all pairs within a resolved cluster are known to match, and any pair that intersects a resolved cluster but is not contained within it is known to be a non-match. For example, a resolved cluster of」（https://arxiv.org/html/2404.05622）
   - 「, we showcase its application to inventor name disambiguation and its validation in simulation studies. Finally, we conclude in section」（https://arxiv.org/html/2404.05622）
   - 「We then discuss our motivating data and application in more detail. Finally, we provide additional information on current industry standards for the evaluation of entity resolution systems, using the methodology used by Statistics Canada as an example.」（https://arxiv.org/html/2404.05622）
-- 一次情報の探し方：記載なし（読んだ16頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
 
 ## 仕様（登録した項目）と報告を全件・項目ごとに突き合わせ、落とした・足した・入れ替えた項目を見つける方法（outcome switching・COMPare・CASRAI の手引き・調査報告への応用）（outcome switching registry publication comparison selective reporting audit method COMPare）
 - 文脈：報告の点検
@@ -14802,8 +14802,8 @@
   - 「coverage across all economic sectors . It may indeed be the case that these data are being」（https://www.apec.org/docs/default-source/publications/2020/4/overview-of-the-sme-sector-in-the-apec-region---key-issues-on-market-access-and-internationalization/220_psu_sme-market-access-and-internalization.pdf?sfvrsn=2758bd1_1）
   - 「Please give a precise definition. For example, if small-sized enterprises are differentiated」（https://www.apec.org/docs/default-source/publications/2020/4/overview-of-the-sme-sector-in-the-apec-region---key-issues-on-market-access-and-internationalization/220_psu_sme-market-access-and-internalization.pdf?sfvrsn=2758bd1_1）
   - 「possible (for example, if the data are disaggregated by firm size or by economic sector).」（https://www.apec.org/docs/default-source/publications/2020/4/overview-of-the-sme-sector-in-the-apec-region---key-issues-on-market-access-and-internationalization/220_psu_sme-market-access-and-internalization.pdf?sfvrsn=2758bd1_1）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ28頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
 
 ## 数字の衛生の経験則の全文（英国王立統計学会 Getstats・David Walker の12の経験則の解説・平均の種類・誤差・一定の人数あたり・4-113）（Getstats number hygiene rules explained in full Royal Statistical Society journalists）
 - 文脈：検証
@@ -15254,11 +15254,11 @@
 
 ## 調査報道・経済報道の数字の書き方の欄（CJR The Audit・推計の出どころの名指し・非公開の数字の扱い・4-120）（CJR The Audit reporting estimates private company numbers attribution）
 - 文脈：裏取り
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ29頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
+- 実例：記載なし（読んだ29頁・検索12回）
 
 ## 毎月勤労統計の標本交替・ベンチマーク更新の断層の読み方（1月分の段差・ギャップの要因の分け方・統計委員会の評価・4-120）（Monthly Labour Survey Japan sample rotation benchmark revision gap）
 - 文脈：統計の版
@@ -15331,6 +15331,168 @@
   - 「令和５年１～12 月分の結果を含めて計」（https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf）
   - 「平成23年12月分までの「時系列比較のための推計値」から作成した母集団労働者数と整合するよう再推計して指数を作成してるため、Ｇ３はこの再推計した結果から算定する」（https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf）
   - 「○ 「毎月勤労統計調査の改善に関するワーキンググループ」における検討結果を踏まえ、ベンチマーク更新時の賃金、労働時間」（https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf）
+
+## 外れ値の判定と報告の実務（中央値とMAD・IQRの柵・トリム平均・外れ値を消さず印す・公的統計の外れ値の審査）（robust outlier detection MAD IQR official statistics editing practice）
+- 文脈：集計
+- 手順・やり方：
+  - 「統計実務におけるレンジチェックのための外れ値検出方法」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「用いた外れ値検出の適切な方法を解説するとともに、サービス産業動向調査のデータを用いてレンジ」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「In this paper, we explain how to prepare the editing bounds by means of robust statistics for data with a」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「野呂竜夫、和田かず美：統計実務におけるレンジチェックのための外れ値検出方法」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「めの方法論はこれまで整備されておらず、（算術）平均値と標準偏差を用いて上限値及び下」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「限値を設定するような、検出漏れを起こしやすい方法が使用される場合もある」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「このようなデータにおける外れ値検出のためのレンジの設定方法について、実務担当者に向」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「第４章では、第３章の外れ値検出方法を、サー」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「後に第５章では、本稿で述べる外れ値検出方法の可能性についてまとめている」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「質管理における、平均値から標準偏差の２倍・３倍といった管理基準の設定方法は広く知ら」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「倍あるいは３倍離れた値をレンジと考えることは、統計学的に自然な方法である」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「実際の統計調査において、そのような方法を適用するには二つの問題がある」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「め、さらにそれを可視化する方法として箱ひげ図（box plot またはbox-and-whisker plot）を」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「正規分布の前提を置くパラメトリックな方法は適用が限られる」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「本稿で提案する方法は、分」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+- 突き合わせ・推定：
+  - 「ビス産業動向調査の調査票データを用いて実際に検証を行った結果について示している」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「りの可能性のあるデータを検出・修正して推計値が真値と乖離しないようにしている」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「数値データを用いた検証例を、第３章３節及び第４章１節で紹介する」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「案し、データの分布があらかじめ想定できない場合、順序統計量を基礎とした統計量（推定」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「値を採用することも避けながら、外れ値の影響を緩和することのできる頑健な推定手法を利」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「外れ値に頑健な中央値と四分位範囲を用いて、平均値と標準偏差を推定してレンジ設定す」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「て、第３章３節で示したレンジチェック方法の適用と検証を行う」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「4.1 検証方法」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「② 頑健な推定量（中央値及び四分位範囲）に基づくレンジ（対称分布用）」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「4.2 検証結果」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「Ｂ. ②の方法での分布の対称化による効果の検証」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「本稿で提案している方法は、 サービス産業動向調査を事例として検証を行ったが、この方」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「係数0.6745は標準正規分布の0.75分位点（Φ⁻¹(0.75)）で、MADを標準偏差の一致推定量に変換するための値です」（https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection）
+  - 「除外したレコードは件数と理由を記録し、後から検証できるようにする」（https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection）
+  - 「統計的仮説検定の基礎｜p値・有意水準・第一種/第二種の過誤・信頼区間の読み方」（https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection）
+- 一次情報の探し方：
+  - 「統計研究彙報 第 72 号 2015 年 3 月 （41～54）」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「統計実務におけるレンジチェックのための外れ値検出方法」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「統計調査における調査データは、調査対象から得た情報が調査票等に記入される」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「府が実施する統計調査はデータ量が多いので、確認すべきデータの基準（レンジ：人手による審査を」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「†独立行政法人統計センター統計情報・技術部統計技術研究課」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「野呂竜夫、和田かず美：統計実務におけるレンジチェックのための外れ値検出方法」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「統計調査データにおいては、 記入誤りや入力誤りあるいは間違いではないが特異な値など、」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「公的統計調査の製表業務においては、収集された調査票情報を電子化し、その後集計作業」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「統計調査データは大抵の場合、 正規分布などの理論上の分布には従わない」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「れており、これが統計調査データにおける外れ値検出に流用されるケースがよくみられるが、」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「出するためのものであり、最初から外れ値の存在が想定される統計調査データの外れ値検出」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「統計研究彙報 第 72 号 2015 年３月」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「倍あるいは３倍離れた値をレンジと考えることは、統計学的に自然な方法である」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「実際の統計調査において、そのような方法を適用するには二つの問題がある」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「まり頑健性のない統計量を使えば、その検出法は信頼できるものにはならない」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+- 失敗・落とし穴：
+  - 「施者が集計を行うが、集計前に調査票等の記入内容に誤りがないかなどの様々な審査が行われる」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「統計調査データにおいては、 記入誤りや入力誤りあるいは間違いではないが特異な値など、」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「一般的に、外れ値とは、データの大部分の傾向と異なるもので、必ずしも誤りとは限らな」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「本稿の目的は、誤りの」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「らかの誤りを含む可能性が高いものを指す」こととする」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「よって偏ったり拡大したりすると、それにより外れ値検出に誤りを生じやすい」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「1点だけ注意があります」（https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection）
+  - 「（時間の順に並んだデータ）の異常検知では、静的なデータ向けの手法をそのまま当てはめると失敗します」（https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection）
+  - 「季節性の落とし穴｜山を毎回「異常」と誤検知する」（https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection）
+  - 「# 注意: アラート運用では当日を基準計算に入れない」（https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection）
+  - 「全期間の平均と標準偏差を基準にすると、トレンドによる自然な水準変化を異常と誤り、平日に多く土日に落ちるといった季節の山を毎回「異常」と誤検知します」（https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection）
+- 実例：
+  - 「チェックのレンジの設定を行った事例を紹介する」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「unimodal and symmetric distribution (after transformation, if necessary). We also show the case of monthly sales」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「ビス産業動向調査の調査票データを用いて実際に検証を行った結果について示している」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「れており、これが統計調査データにおける外れ値検出に流用されるケースがよくみられるが、」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「る調査結果を公表するためには、外れ値の影響を受けにくい適切な外れ値検出手法を用いな」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「上高データについて、この方法の事例として第４章で紹介する」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「いが、データ集計や分析の際にその存在が結果の精度を悪化させる可能性があるものを指す」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「例えば、上の９つのデータでは、６，７，８，９」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「実際の統計調査データ、例えば売上高や資本金等の金額データは、右裾が長い歪んだ分布」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「実例として、事業従事者１人当たりの売上高データを図７に示す」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「4.2 検証結果」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「この二つの結果を比較すると、第３章２節で説明したように、図８に示す①の方法では、」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「ここでは上述Ａの結果を踏まえ、同じデータを使用して、分布の対称性を確保するために」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「修正された結果、このデータの場合は検出される外れ値は変わらないが、レンジの位置が上」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「本稿で提案している方法は、 サービス産業動向調査を事例として検証を行ったが、この方」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+
+## データの出どころを評価する観点（検証可能性・内部の整合・新しさ・曖昧さ・評判・期待される件数との照合）（evaluating data sources verifiability internal consistency recency journalism）
+- 文脈：出典の評価
+- 手順・やり方：
+  - 「Claudeのコメント: 政府機関の公式発表そのものが拡散の起点となる点で、外部アクターの偽情報とは異なり、事実（起訴）を素材に誤った全体像を作る国内発の情報操作の典型であり、選挙前の時期設定を監視指標にできる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「同氏によれば、エージェントは課された攻撃の課題を意図と異なる方法で解こうとしたにすぎず、OpenAIは事態を把握していればいつでも停止できた」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「2026年9月に30億ユーロ（約5,100億円）を調達して以来、初の大型製品となる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Claudeのコメント: 「再移住」という穏当な政策語と非営利法人の体裁で大量送還論を包み、刑事上の基準を下回る貼り紙で地域に浸透させる手法は、法執行の閾値の手前で過激な主張を常態化させるグレーゾーン型の世論形成であり、規制の空白をどう扱うかが国内の情報安全保障上の論点になる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「作者は「独裁者に対してできる最善のことは、人々に彼を笑わせることだ」と述べ、3Dプリントの小型像1万体を配る計画である」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「天安門事件を記念する「恥辱の柱」が香港で撤去された後、小型の複製が世界に広がった経験に学んだ」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Claudeのコメント: 小型複製を大量に配り撤去後も拡散させる手法は、物理的な展示を参加型の分散ナラティブに変える点で、影響工作が用いるミーム化と同じ構造を持ち、民主側の対抗言説（カウンターナラティブ）の実践例として位置づけられる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「原告側は、ChatGPTが妄想を強め、自殺念慮を肯定し、自傷の方法を伝えたと主張し、利用者に迎合する「sycophantic design（迎合的設計）」と安全試験の不足を訴える」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「中国の研究者による中堅国のAIガバナンス戦略論、日韓など6か国を「てこ」の型で比較」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「技術、資本、制度の3種の要素賦存（動員できる資源の基盤）と、国内能力の蓄積型、要所の掌握型の2つの転換経路を組み合わせ、6類型を示した」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Claudeのコメント: 中堅国を「受け身の均衡役ではなく能動的な形成者」と位置づけ、その規範形成を中国主導の協力網へ接続する提言が英語で発信されている点は、AIガバナンスをめぐる中国の対外的な言説形成の一例として、日本の制度主導型の取り組みがどう参照されるかと併せて注視に値する」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「筆者らは、自前の学習データを持たないLLM（大規模言語モデル）型のAI面接官でも、第10条6項により義務は検査用データに移り第72条の市販後監視でも出力の差別的影響を測る必要があると主張する」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Claudeのコメント: 対立陣営の支持者を装って離反の空気を演出する手口は、外国の影響工作で知られる「なりすまし」型と同じ構造であり、国内政治の中でも拡散者の属性分析が装われた主体を見抜く有効な手段であることを示す」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「米アクシオスは現地報道として、同氏が9月下旬に肺ペスト（肺に感染し、人から人へ広がりうる病型）の病原体が入った試験管を割ったと伝えている」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「CDC（米疾病対策センター）によれば、肺ペストは人から人へ感染しうる唯一の病型だが、咳をする患者との密接な接触が必要で、無症状の感染は記録されておらず、症状は1〜3日で現れる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+- 突き合わせ・推定：
+  - 「Claudeのコメント: 広告収入目的の集団と国家系の工作という動機の異なる主体が同じ社会不安に便乗し、結果として当局への不信を強める方向の物語を増幅しており、拡散の量から意図や帰属を推定することの難しさを示している」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Claudeのコメント: 独立した国際監視を外し、政権の指揮下にある監視要員を増やす組み合わせは、選挙後に「不正」や「正当性」をめぐる言説を争う際、第三者による検証記録が存在しない空白を生み、国内外の情報操作が入り込む余地を広げる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Claudeのコメント: 人間の説得されやすさには予測不能性という上限があるとするピンカーの指摘は、AIを使った影響工作の脅威評価でも、生成能力の高さと実際の説得効果を分けて検証する必要を示している」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Claudeのコメント: 業界が資金を出した推計が政党の公約の根拠として流通する事例であり、政策論争に影響する数値の出典の系譜をたどる検証が、影響力行使の分析でも欠かせないことを示す」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Claudeのコメント: 研究機関での感染疑いを当局が報道の大半を「虚偽」と否定する構図では、情報の空白に憶測が入り込みやすく、国際保健規則に基づく照会と回答が検証可能な一次情報の基準点として機能するかが、影響工作への耐性を左右する」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「2026年9月のAI安全論議の主流化を整理し、AI企業を検証する主体の不在を問う論考」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「筆者は、EUではAI法の執行が始まったばかりで、米国では検証が企業自身に委ねられているとし、問うべきは「誰がAI企業を検証するのか」だと論じる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Claudeのコメント: 1件の辞職投稿が1か月で大統領令にまで波及した経緯は、検証機関を欠く領域では、恐怖を喚起する物語が政策議題を左右しやすいことを示しており、AIリスク言説そのものが影響工作の格好の素材になりうる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「ClimateWorks財団は、個人と財団が気候変動に年110億〜180億ドル（約1兆6千億〜2兆7千億円）を投じていると推計する」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Claudeのコメント: 同一スローガンの同時出現は影響工作分析でも協調の兆候とされるが、本稿は団体間の資金の流れを具体的に示しておらず、主張の共有と協調行動を区別する検証が要る」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Claudeのコメント: 未公開の草稿を外部のAIサービスに預けた場合、その秘匿性は事業者の規約と自己調査に依存し、利用者側には検証手段がないという構図は、影響工作を調査する機関が分析途中の資料をAIで扱う際の情報保全の課題にも通じる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「米中間選挙に向かったロシア関連の影響工作と、標的であり拡散経路にもなる検証者」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「記事は、ロシアと関係のある影響工作「マトリョーシカ」「オペレーション・オーバーロード」「Storm-1679」の報告を突き合わせる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「VIGINUMは標的を60か国超のメディア等とし、Check Firstは検証記事を通じた偽の主張の増幅も目的に挙げる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「筆者は日本の検証者に、依頼の記録と共有、検証の優先順位付け、不要な拡散を避ける報道の三点を提案する」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+- 一次情報の探し方：
+  - 「採用などの選別アルゴリズムは、排除された人が機会を得ないため誤りの信号を残さず、提供企業は99.9%の精度を主張できるとも指摘した」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Claudeのコメント: 研究機関での感染疑いを当局が報道の大半を「虚偽」と否定する構図では、情報の空白に憶測が入り込みやすく、国際保健規則に基づく照会と回答が検証可能な一次情報の基準点として機能するかが、影響工作への耐性を左右する」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Claudeのコメント: 裁判所の認定という司法手続きを経ることで、プロパガンダ上の主張が公的な事実の体裁を得て、国内外向けのメディアで繰り返し使える素材になる点に、口実形成の段階が進んだことが表れている」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Claudeのコメント: 実在する公式統計を引用しつつ指標だけをすり替える手法は、出典の確かさが主張全体の信頼性を裏づけるように見えるため検証をすり抜けやすく、政府高官が起点となる場合は国内発の誤情報でも外国の影響工作と同様の拡散力を持ちうる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「アーカンソー州のサンダース知事がメディケイド（低所得者向け公的医療保険）の就労要件を宣伝する動画で、働かずに給付を受ける人物を若い白人男性「ブラッド」として描き、保守派論客から反発が出た」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「学習データを持たない採用AIにも及ぶEU AI規則のバイアス検査義務と実データの必要性」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「高リスク採用AIへの適用日はデジタル・オムニバス（規則2026/1744）で2027年12月2日に延びた」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Foreign-Influence Watchdog Claims China-Linked Media Registry Filing Was Pulled Over a Privacy Breach」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「https://cdn.openai.com/pdf/67869394-cb91-4c12-888c-5cbd85c7814c/OpenAI-Hugging-Face Incident-Technical-Report.pdf」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「10月2日には仏10年債利回りが一時5%を超えて2002年以来の高さとなり、公的債務は3.6兆ユーロ（約630兆円）でGDP比119%と1946年以来の水準にある」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「一方、アルバニージー豪首相が説明した件では、6月18日に同社のエージェントがメディケア統計ポータルの非公開ファイルにも到達し、豪政府への最初の通知は9月10日だった」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「https://www.theguardian.com/uk-news/2026/sep/30/mi5-issues-spy-alert-over-body-linked-chinese-state-stealing-vital-uk-research-universities」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Claudeのコメント: 同じ調査結果でも、どの比較軸で要約するかで「西側の不安」という筋書きが生まれうるという筆者の指摘は、統計の枠付けが受け手の認識を方向づける点で、ナラティブ形成の分析にも通じる（推測）」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Claudeのコメント: 結果が不利になる前に不正の疑念を先行して植え付ける言説や、公的な資格情報の削除による混乱は、選挙結果の正統性への信頼を損ない、外国の影響工作が不信を増幅する素地にもなりうる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「世界の採用慣行を悪用して各業界で信頼されたアクセスを得る遠隔IT労働者の仕組みは依然大きな脅威で、人物像の作成やソーシャルエンジニアリング（人の心理を突く欺瞞）にAIを使っている」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+- 失敗・落とし穴：
+  - 「採用などの選別アルゴリズムは、排除された人が機会を得ないため誤りの信号を残さず、提供企業は99.9%の精度を主張できるとも指摘した」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「ピンカーは知能を万能の力ではなく情報処理の「ガジェット」とみなし、人間とチンパンジーの関係をAIと人間に当てはめる類推や、道具的収束（どの目標にも自己保存や権力獲得が役立つとする議論）を誤りとした」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「一方、GPT-3.5以降の性能を受け、ニューラルネットワークでは人間並みの知能に届かないとした過去の見解は誤りだったと認めた」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「攻撃的投稿の常習者に注意を促す機能は、承認審査で出席者が「50セントが揶揄したらどうする」と懸念したことが判断を左右したと語る」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「FBI報道官は「誤り」と否定し、防諜タスクフォースを1,500人超に拡充したと述べた」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「イスラエルは2023年10月7日のハマス攻撃から3年を迎え、3週間後の総選挙では史上最悪の安全保障上の失敗に対するネタニヤフ首相の責任が中心的な争点になる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Claudeのコメント: 安全保障上の失敗を治安機関の裏切りに帰す陰謀論が政権側から流布され、不利な報道には訴訟で応じる構図は、選挙の争点そのものが国内アクターによる物語操作の対象となる例であり、外国からの干渉と並んで国内発の情報操作を観察対象に含める必要を示す」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Claudeのコメント: AIの将来像は文章では伝わらず実物を見せる必要があるとする同氏の主張は、AIの脅威認識が実演に左右されやすいことを示しており、能力の誇示や誇張された実演が世論や規制の議論を動かす経路になりうる点に注意が要る」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「恩赦法は2017年の独立の試みの失敗後の緊張緩和を目的とし、独立運動関係者約400人が恩赦を受けたが、住民投票の組織に公金を使ったとして横領に問われたプッチダモン氏は除外されていた」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「ある関係者は「縮小版の予備選」で「最初の失敗」だと語った」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「ICEは「注意をそらし、事態を沈静化する装置」と説明する」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「学習データを持たない採用AIにも及ぶEU AI規則のバイアス検査義務と実データの必要性」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「AI監査企業BABL AIのシェイ・ブラウン氏らは、EUのAI規則（AI Act）が求めるバイアス検査を論じた」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「The EU AI Act and Bias Testing」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「https://algorithmicbiaslab.substack.com/p/the-eu-ai-act-and-bias-testing」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+- 実例：
+  - 「Claudeのコメント: 広告収入目的の集団と国家系の工作という動機の異なる主体が同じ社会不安に便乗し、結果として当局への不信を強める方向の物語を増幅しており、拡散の量から意図や帰属を推定することの難しさを示している」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「同氏はさらに、移民税関捜査局（ICE）の投票所出動を否定しない政府側の発言、ジョージア州フルトン郡での2020年の投票用紙の押収などを列挙し、一連の動きを選挙結果を覆す準備として論じている」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Claudeのコメント: 業界が資金を出した推計が政党の公約の根拠として流通する事例であり、政策論争に影響する数値の出典の系譜をたどる検証が、影響力行使の分析でも欠かせないことを示す」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「WHO contacts Russia after reports of second suspected pneumonic plague case」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「https://www.rapporteur.com/news/who-contacts-russia-after-reports-of-second-suspected-pneumonic-plague-case/」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Claudeのコメント: 主要国の代表団が棄権に傾く割れ方は、欧州の不一致を強調する分断の物語の材料になりやすく、採決結果そのものより票の内訳がどう発信されるかが情報面での焦点となる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Claudeのコメント: 国際法廷の判決への反発が街頭動員と議会の駆け引きを経て法廷の権限縮小に結びついた事例であり、EUの資金と条件付けをめぐる正統性の争いは、外部の主体が「主権対EU」の物語を増幅する足場になりうる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Claudeのコメント: 政権交代後も集会参加者を顔認識で特定できる法的基盤が残る点は、市民空間を萎縮させる監視手段が制度として持ち越されることを意味し、EUのAI法が加盟国の権威主義的統制の遺産をどこまで是正できるかを測る事例となる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「OpenAIは調査の結果、同氏のプロンプトは影響し得なかったと述べた」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Claudeのコメント: 事実を偽らずに語彙の選択だけで脅威認識と立法の方向を動かす点は、技術事案のフレーミング（認識の枠組み設定）が政策形成に作用する経路として、影響工作の分析でも注視すべき事例である」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Russia warns against spreading 'false information' as reports emerge of second plague case」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「https://www.france24.com/en/europe/20261007-russia-warns-against-spreading-false-information-reports-emerge-second-plague-case」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Claudeのコメント: アウラキとの接触は、国外の過激派の宣伝がオンライン経由で軍の内部者に届いた初期の事例であり、軍の内部脅威対策が情報空間での働きかけの把握と切り離せないことを改めて示している」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Claudeのコメント: 2025年のレアアース輸出規制が残した報復への恐れが、EUの関税判断と加盟国の足並みを先回りで縛っており、経済的威圧は発動しなくても抑止として働き続けることを示す事例である」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「サンフランシスコ郡上位裁判所は2026年2月、OpenAIへの12件の訴訟を「In re: ChatGPT Product Liability Cases」に併合した」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
 
 ## 人数の定義の違い（統計の従業者・税の従業員数の時間換算1（800時間・社会保険の被保険者・求人の社員数）と1人あたりの比べ方）
 - 文脈：従業員数 定義 違い 統計 社会保険;従業者 従業員 違い 経済センサス;FTE 換算 1人当たり売上 比較 注意

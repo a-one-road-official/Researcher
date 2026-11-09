@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・268品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・271品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -13595,14 +13595,230 @@
 
 ## PRTR 届出事業所数 業種別の年次の表（概要のページの増減率でなく、表のxlsx・csvの電気めっき業・金属製品製造業の行・年ごと・4-41）（PRTR notified facilities by industry annual table electroplating Japan xlsx）
 - 文脈：統計
-- 痛み・損（深さの印）：記載なし（読んだ53頁・検索18回）
-- 事業所数・社数：記載なし（読んだ53頁・検索18回）
-- 社員数・平均社員数：記載なし（読んだ53頁・検索18回）
-- 受注金額・加工賃収入：記載なし（読んだ53頁・検索18回）
-- 1人あたり・1社あたり金額：記載なし（読んだ53頁・検索18回）
-- 生産能力・設備：記載なし（読んだ53頁・検索18回）
-- 10年推移：記載なし（読んだ53頁・検索18回）
-- 人手と仕事の差：記載なし（読んだ53頁・検索18回）
+- 痛み・損（深さの印）：記載なし（読んだ51頁・検索18回）
+- 事業所数・社数：記載なし（読んだ51頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ51頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ51頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ51頁・検索18回）
+- 生産能力・設備：記載なし（読んだ51頁・検索18回）
+- 10年推移：記載なし（読んだ51頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ51頁・検索18回）
+
+## 経済構造実態調査 製造業事業所調査 調査票記入要領と結果の概要（製造品出荷額等・加工賃収入額・付加価値額の定義・29人以下と30人以上の違い・従業者に臨時雇用・派遣・出向を含むか・規模別の推計の方法・4-121）（Economic Structure Survey manufacturing establishment questionnaire instructions definitions Japan）
+- 文脈：統計
+- 痛み・損（深さの印）：記載なし（読んだ32頁・検索18回）
+- 事業所数・社数：記載なし（読んだ32頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ32頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ32頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ32頁・検索18回）
+- 生産能力・設備：記載なし（読んだ32頁・検索18回）
+- 10年推移：記載なし（読んだ32頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ32頁・検索18回）
+
+## 経済構造実態調査 製造業事業所調査の「売上高の9割」までの調査対象と推計で埋めた部分の割合（産業細分類ごとの推計の比率・めっき・金型・熱処理・プレス・覆う割合・4-120・4-121）（Economic Structure Survey manufacturing 90 percent coverage estimated share by industry Japan）
+- 文脈：統計
+- 痛み・損（深さの印）：
+  - 「※ 非調査対象の企業等について、基礎調査で把握した新設・廃業を反映した上で、経済構造実態調査の推計値を、基礎調査の実」（https://www.stat.go.jp/data/kkj/kekka/pdf/2025gaiyo1.pdf）
+  - 「※ 非調査対象の企業等及び事業所について、基礎調査で把握した新設・廃業を反映した上で、経済構造実態調査の推計値を、基礎調」（https://www.stat.go.jp/data/kkj/kekka/pdf/2025gaiyo3.pdf）
+- 事業所数・社数：
+  - 「(1) 産業中分類別事業所数･････････････････････････････････････････････････1」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「(1) 事業所数･････････････････････････････････････････････････････････････9」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「３． 調査結果のうち、事業所数、産出事業所数、従業者数については、2024年6月1日現在」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「（1） 産業中分類別事業所数」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「ア 事業所数を産業中分類別構成比でみると、「金属製品製造業」（3 万 368 事業所、構成」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「第1 表 産業中分類別事業所数（全事業所）」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「注1：事業所数については、個人経営を含まない」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「2：事業所数の調査時点については、6月1日現在である」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「第 1 図 産業中分類別事業所数の構成比（全事業所）」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「（1）事業所数 － 事業所数が最も多いのは大阪府 －」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「第5 表 都道府県別 事業所数、従業者数、製造品出荷額等、付加価値額（全事業所）」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「2：事業所数、従業者数、製造品出荷額等及び付加価値額については、個人経営を含まない」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「3：事業所数及び従業者数の調査時点については、2024年6月1日現在である」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「事業所数及び出荷金額」の産出率及び「品目別 第6表 産業別出荷における品目別の産出事業」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「(1) 「品目別 第5表 品目別出荷における産業細分類別の産出事業所数及び出荷金額」は、生」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+- 社員数・平均社員数：
+  - 「(2) 産業中分類別従業者数･････････････････････････････････････････････････3」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「(4) 産業中分類別付加価値額（従業者29人以下は粗付加価値額）･･････････････7」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「(2) 従業者数･････････････････････････････････････････････････････････････9」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「(4) 付加価値額（従業者29 人以下は粗付加価値額）･･････････････････････････9」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「３． 調査結果のうち、事業所数、産出事業所数、従業者数については、2024年6月1日現在」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「(1) 製造業事業所調査は、個人経営を除く全ての事業所を集計しているが、工業統計につ」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「いては、国に属する事業所以外の従業者4人以上の全ての事業所を調査対象として集計」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「1161 織物製成人男子・少年服製造業（不織布製及びレース製を含む） 1161 織物製成人男子・少年服製造業（不織布製及びレース製を含む）」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「1162 織物製成人女子・少女服製造業（不織布製及びレース製を含む） 1162 織物製成人女子・少女服製造業（不織布製及びレース製を含む）」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「注1：事業所数については、個人経営を含まない」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「（2） 産業中分類別従業者数」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「ア 従業者数を産業中分類別構成比でみると、 「食料品製造業」 （112万 2868人、 構成比14.5」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「％）が最も高く、次いで「輸送用機械器具製造業」（106 万7909人、同13.8％）、「生産」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「用機械器具製造業」（65 万 7818 人、同 8.5％）、「金属製品製造業」（60 万 2242 人、」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「同 7.8％）、「電気機械器具製造業」（50 万 578 人、同 6.5％）の順となっている（第 2」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+- 受注金額・加工賃収入：
+  - 「(3) 産業中分類別製造品出荷額等･･･････････････････････････････････････････5」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「(3) 製造品出荷額等･･･････････････････････････････････････････････････････9」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「造品出荷額等）総額の9割を達成する範囲に含まれる事業所を調査対象とし、その報告を」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「の数値、製造品出荷額等、品目別出荷金額、付加価値額については、2023年1年間の数値」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「４．製造品出荷額等の経理事項については、原則消費税込みで把握しているが、一部の消費」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「じくする品目の製造品出荷額等をそれぞれ合計し、その額の最も大きいもので2桁番」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「(2) 製造業事業所調査における「在庫額」については、「統計調査における売上高等の集」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「（3） 産業中分類別製造品出荷額等」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「ア 製造品出荷額等を産業中分類別構成比でみると、「輸送用機械器具製造業」（79兆 8417」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「億円、構成比 21.4％）が最も高く、次いで「化学工業」（33 兆 3846 億円、同 8.9％）、」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「「食料品製造業」（33兆39億円、同8.8％）、「生産用機械器具製造業」（24兆8235億」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「円、同6.7％）、「鉄鋼業」（23兆8346億円、同6.4％）の順となっている（第3 表、第3」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「第3 表 産業中分類別製造品出荷額等（全事業所）」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「注1：製造品出荷額等については、個人経営を含まない」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「を上位から累積し、当該分類に係る売上高総額の８割を達成する範囲に含まれる企業を調査対」（https://www.stat.go.jp/data/kkj/kekka/pdf/2025gaiyo1.pdf）
+- 1人あたり・1社あたり金額：
+  - 「(4) 産業中分類別付加価値額（従業者29人以下は粗付加価値額）･･････････････7」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「(4) 付加価値額（従業者29 人以下は粗付加価値額）･･････････････････････････9」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「の数値、製造品出荷額等、品目別出荷金額、付加価値額については、2023年1年間の数値」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「（4） 産業中分類別付加価値額（従業者 29 人以下は粗付加価値額）」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「ア 付加価値額を産業中分類別構成比でみると、「輸送用機械器具製造業」（20 兆 3709 億」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「第4 表 産業中分類別付加価値額（全事業所）」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「注1：付加価値額について、従業者29人以下の事業所は、粗付加価値額である」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「2：付加価値額については、個人経営を含まない」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「3：付加価値額の調査期間については、2022年及び2023年におけるそれぞれ1年間の数値である」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「第 4 図 産業中分類別付加価値額の構成比（全事業所）」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「注 1：付加価値額について、従業者29人以下の事業所は、粗付加価値額である」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「（4）付加価値額（従業者29 人以下は粗付加価値額） － 付加価値額が最も多いのは愛知県 －」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「第5 表 都道府県別 事業所数、従業者数、製造品出荷額等、付加価値額（全事業所）」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「2：事業所数、従業者数、製造品出荷額等及び付加価値額については、個人経営を含まない」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「4：製造品出荷額等及び付加価値額の調査期間については、2023年における1年間の数値である」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+- 生産能力・設備：
+  - 「５．有形固定資産額（従業者30人以上の事業所）」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「(1) 有形固定資産額の取得額等には、次の区分がある」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「(3) 有形固定資産の除却・売却による減少額」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「(5) 有形固定資産額の算式は以下のとおり」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「５．有形固定資産額（従業者30人以上の事業所）」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「(1) 有形固定資産額の取得額等には、次の区分がある」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「(3) 有形固定資産の除却・売却による減少額」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「(5) 有形固定資産額の算式は以下のとおり」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+- 10年推移：
+  - 「2024 年経済構造実態調査二次集計結果」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「2025 年8 月29 日」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「１．「2024年経済構造実態調査製造業事業所調査」（以下「製造業事業所調査」という」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「３． 調査結果のうち、事業所数、産出事業所数、従業者数については、2024年6月1日現在」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「の数値、製造品出荷額等、品目別出荷金額、付加価値額については、2023年1年間の数値」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「日本標準産業分類の第14回改定に伴い、2024年調査より、製造業事業所調査用産業分」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「2023年 2024年」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「2：製造品出荷額等の調査期間については、2022年及び2023年におけるそれぞれ1年間の数値である」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「2022年 2023年」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「3：付加価値額の調査期間については、2022年及び2023年におけるそれぞれ1年間の数値である」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「3：事業所数及び従業者数の調査時点については、2024年6月1日現在である」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「4：製造品出荷額等及び付加価値額の調査期間については、2023年における1年間の数値である」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「2023年 2023年都道府県 2024年」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「注：製造品出荷額等の調査期間については、2023年における1年間の数値である」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「（億円） 2022年 2023年 （％） 産業 構成比（％） 産業 構成比（％） 産業 構成比（％）」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+- 人手と仕事の差：
+  - 「⑦ 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した商」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「(5) 製造等に関連する外注費」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「ソフトウェアの開発など、事業所収入に直接関連する外注費用をいい、派遣、委託生産費など」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「⑦ 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売し」（https://www.stat.go.jp/data/kkj/kekka/pdf/2025gaiyo1.pdf）
+  - 「他）、⑥減価償却費、⑦外注費、⑧広告宣伝費、⑨保険料、⑩水道光熱費、⑪通信費、⑫荷造運搬費、⑬旅費・交通費、」（https://www.stat.go.jp/data/kkj/kekka/pdf/2025gaiyo1.pdf）
+  - 「①外注費（国内）、②外注費（国外）」（https://www.stat.go.jp/data/kkj/kekka/pdf/2025gaiyo1.pdf）
+  - 「不動産取引業 ①用地費、②外注工事費、③土地建物購入費」（https://www.stat.go.jp/data/kkj/kekka/pdf/2025gaiyo1.pdf）
+  - 「⑦ 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した商」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「(5) 製造等に関連する外注費」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「ソフトウェアの開発など、事業所収入に直接関連する外注費用をいい、派遣、委託生産費など」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「⑥人件費及び人材派遣会社への支払額 ⑦原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した商品の仕入額」（https://www.stat.go.jp/info/kenkyu/kkjkenkyu/pdf/giji01_2.pdf）
+  - 「⑦ 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf）
+  - 「⑦ 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した」（https://www.stat.go.jp/data/kkj/kekka/pdf/2025gaiyo3.pdf）
+  - 「他）、⑥減価償却費、⑦外注費、⑧広告宣伝費、⑨保険料、⑩水道光熱費、⑪通信費、⑫荷造運搬費、⑬旅費・交通費、」（https://www.stat.go.jp/data/kkj/kekka/pdf/2025gaiyo3.pdf）
+  - 「①外注費（国内）、②外注費（国外）」（https://www.stat.go.jp/data/kkj/kekka/pdf/2025gaiyo3.pdf）
+
+## 工業統計（4人以上）と経済構造実態調査（個人経営を除く全規模）を同じ範囲でつなぐ接続の表・従業者4人以上で組み替えた2021年以降の値（めっき・金型・熱処理・プレスの細分類・4-105・4-121）（Census of Manufacture vs Economic Structure Survey 4 or more employees reconciled series Japan）
+- 文脈：統計
+- 痛み・損（深さの印）：
+  - 「紙 オ ン ライン 宛先不明戻 廃業 対象外」（https://www.stat.go.jp/info/kenkyu/kkj/pdf/bunkagiji01-2.pdf）
+- 事業所数・社数：
+  - 「３．調査結果のうち、事業所数、産出事業所数、従業者数については、令和４年（2022」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf）
+  - 「３． 調査結果のうち、事業所数及び従業者数については、2022年 6 月 1日現在の数値、製」（https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf）
+  - 「(2) R3 経済センサスは、個人経営を除く従業者規模 4人以上の事業所を対象としている」（https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf）
+  - 「(3) 工業統計は、個人経営を含む従業者規模 4人以上の事業所を対象としている」（https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf）
+  - 「「X」： 集計対象となる事業所数が1又は2であるため、統計上の秘密保護の観点から内」（https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf）
+  - 「調査名簿が事業所母集団データベースに切り替わることで、 これまでの「工業統計調査」 に比べて、対象事業所数は増加しますが、増加する事業所は従業者4～9人の事業所が大半を占め、出荷額ベースでの影響は小さいものとなります」（https://www.jagat.or.jp/archives/99010）
+  - 「2022年以降、これまで毎年実施してきた「工業統計調査」を本調査の一部として実施し、6月1日現在の事業所数、従業者数と製造品出荷額等を調査することによって、製造業の実態を明らかにしています」（https://www.city.otaru.lg.jp/docs/2020121200019/）
+  - 「事業所数・・・・・・・・・・・・・・・・・・256事業所」（https://www.city.otaru.lg.jp/docs/2020121200019/）
+  - 「事業所数・・・・・・・・・・・・・・・・・・255事業所」（https://www.city.otaru.lg.jp/docs/2020121200019/）
+  - 「産業中分類（2桁）別、従業者規模別、都道府県別に事業所数、従業者数、現金給与総額、原材料使用額等、出荷額、付加価値額を収録」（https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html）
+  - 「産業中分類（2桁）・都道府県別に事業所数、従業者数、現金給与総額、原材料使用額等、出荷額、付加価値額を収録」（https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html）
+  - 「産業中分類（2桁）・従業者規模別に事業所数、従業者数、現金給与総額、原材料使用額等、出荷額、付加価値額を収録」（https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html）
+  - 「産業分類（2、3、4桁）別に、事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、付加価値額を収録」（https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html）
+  - 「産業中分類（2桁）別、従業者規模別、都道府県別に事業所数、従業者数、出荷額、付加価値額を収録」（https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html）
+  - 「産業細分類（4桁）別に、事業所数、従業者数、現金給与総額、製造品出荷額等、付加価値額を収録」（https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html）
+- 社員数・平均社員数：
+  - 「従業者30人以上の事業所についてのみ報告を求めることとする」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf）
+  - 「・従業者４人以上の事業所であること（累年統計表は従業者３人以下も集計）」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf）
+  - 「３．調査結果のうち、事業所数、産出事業所数、従業者数については、令和４年（2022」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf）
+  - 「(1) 従業者数」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf）
+  - 「30人以上 ＝ 製造品出荷額等＋（製造品年末在庫額－製造品年初在庫額）」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf）
+  - 「４～29人 ＝ 粗付加価値額※３」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf）
+  - 「(1) 製造業事業所調査は、個人経営を除く全ての事業所を集計しているが、工業統計に」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf）
+  - 「ついては、国に属する事業所以外の従業者4人以上の全ての事業所を調査対象として集」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf）
+  - 「３． 調査結果のうち、事業所数及び従業者数については、2022年 6 月 1日現在の数値、製」（https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf）
+  - 「(1) 製造業事業所調査は、個人経営を除く全ての事業所を対象としている」（https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf）
+  - 「(2) R3 経済センサスは、個人経営を除く従業者規模 4人以上の事業所を対象としている」（https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf）
+  - 「(3) 工業統計は、個人経営を含む従業者規模 4人以上の事業所を対象としている」（https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf）
+  - 「1981年（昭和56年）以降は西暦末尾3、5、8 、0 年は全事業所、それ以外の年は従業者4人以上の事業所が対象となり、2009年（平成21年）以降は標本調査（従業者4人以上の事業所対象）となりました」（https://www.jagat.or.jp/archives/99010）
+  - 「さらに2022年調査から、全産業に属する一定規模以上の法人企業が対象になるとともに、これまでの「工業統計調査」を「経済構造実態調査」の一部（製造業事業所調査）として実施することになりました」（https://www.jagat.or.jp/archives/99010）
+  - 「調査名簿が事業所母集団データベースに切り替わることで、 これまでの「工業統計調査」 に比べて、対象事業所数は増加しますが、増加する事業所は従業者4～9人の事業所が大半を占め、出荷額ベースでの影響は小さいものとなります」（https://www.jagat.or.jp/archives/99010）
+- 受注金額・加工賃収入：
+  - 「売上高（製造品出荷額等）総額の９割を達成する範囲に含まれる事業所を調査対象とし、」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf）
+  - 「年）６月１日現在の数値、製造品出荷額等、品目別出荷金額、付加価値額について」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf）
+  - 「４．本集計において、「平成23年」、「平成28年（製造品出荷額等、付加価値額は平成27」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf）
+  - 「年）」及び「令和３年（製造品出荷額等、付加価値額は令和２年）」の数値は活動調」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf）
+  - 「査、その他の年次（令和２年以前（製造品出荷額等、付加価値額は令和元年以前））の」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf）
+  - 「５．製造品出荷額等の経理事項については、原則消費税込みで把握しているが、一部の消」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf）
+  - 「(2) 製造品出荷額等」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf）
+  - 「30人以上 ＝ 製造品出荷額等＋（製造品年末在庫額－製造品年初在庫額）」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf）
+  - 「※３ 粗付加価値額 ＝ 製造品出荷額等－(消費税を除く内国消費税額＋推計消費税額)」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf）
+  - 「積し、当該分類に係る売上高（製造品出荷額等）総額の９割を達成する範囲に含まれる」（https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf）
+  - 「造品出荷額等及び付加価値額については、2021年 1年間の数値である」（https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf）
+  - 「４． 製造品出荷額等の経理事項については、原則消費税込みで把握しているが、一部の消」（https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf）
+  - 「調査名簿が事業所母集団データベースに切り替わることで、 これまでの「工業統計調査」 に比べて、対象事業所数は増加しますが、増加する事業所は従業者4～9人の事業所が大半を占め、出荷額ベースでの影響は小さいものとなります」（https://www.jagat.or.jp/archives/99010）
+  - 「から累積し、各分類に係る売上高総額の８割を達成する範囲に含まれる企業を対象」（https://www.soumu.go.jp/main_content/000744047.pdf）
+  - 「係る売上高総額の８割を達成する範」（https://www.soumu.go.jp/main_content/000744047.pdf）
+- 1人あたり・1社あたり金額：
+  - 「年）６月１日現在の数値、製造品出荷額等、品目別出荷金額、付加価値額について」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf）
+  - 「４．本集計において、「平成23年」、「平成28年（製造品出荷額等、付加価値額は平成27」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf）
+  - 「年）」及び「令和３年（製造品出荷額等、付加価値額は令和２年）」の数値は活動調」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf）
+  - 「査、その他の年次（令和２年以前（製造品出荷額等、付加価値額は令和元年以前））の」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf）
+  - 「(3) 付加価値額」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf）
+  - 「４～29人 ＝ 粗付加価値額※３」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf）
+  - 「※３ 粗付加価値額 ＝ 製造品出荷額等－(消費税を除く内国消費税額＋推計消費税額)」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf）
+  - 「造品出荷額等及び付加価値額については、2021年 1年間の数値である」（https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf）
+  - 「製造品出荷額等・・・・・・・・・・・・22,001,097万円」（https://www.city.otaru.lg.jp/docs/2020121200019/）
+  - 「製造品出荷額等・・・・・・・・・・・・21,778,190万円」（https://www.city.otaru.lg.jp/docs/2020121200019/）
+  - 「製造品出荷額等・・・・・・・・・・・・20,121,353万円」（https://www.city.otaru.lg.jp/docs/2020121200019/）
+  - 「産業中分類（2桁）別、従業者規模別、都道府県別に事業所数、従業者数、現金給与総額、原材料使用額等、出荷額、付加価値額を収録」（https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html）
+  - 「産業中分類（2桁）・都道府県別に事業所数、従業者数、現金給与総額、原材料使用額等、出荷額、付加価値額を収録」（https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html）
+  - 「産業中分類（2桁）・従業者規模別に事業所数、従業者数、現金給与総額、原材料使用額等、出荷額、付加価値額を収録」（https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html）
+  - 「産業分類（2、3、4桁）別に、事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、付加価値額を収録」（https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html）
+- 生産能力・設備：
+  - 「有形固定資産額(従業者30人以上)［年初現在高］（百万円）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「有形固定資産額(従業者30人以上)［年末現在高］（百万円）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+- 10年推移：
+  - 「令和４年（2022年）６月１日現在とする」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf）
+  - 「年（2021年）１月から12月までの１年間を対象とする」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf）
+  - 「また、「〇」は令和３年（2021年）の年初（１月１日現在）、「◎」は年末（12月31日現」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf）
+  - 「と時系列比較を行うために、「令和４年（2022年）経済構造実態調査（製造業事業所調」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf）
+  - 「３．調査結果のうち、事業所数、産出事業所数、従業者数については、令和４年（2022」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf）
+  - 「は、令和３年（2021年）１年間の数値である」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf）
+  - 「１． この「2022年経済構造実態調査」は、令和４年（2022 年）６月１日を調査期日とし」（https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf）
+  - 「３． 調査結果のうち、事業所数及び従業者数については、2022年 6 月 1日現在の数値、製」（https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf）
+  - 「造品出荷額等及び付加価値額については、2021年 1年間の数値である」（https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf）
+  - 「産業省「2022年経済構造実態調査（製造業事業所調査）」利用上の注意の３頁目を参照ください」（https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf）
+  - 「https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_riyou2022.pdf」（https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf）
+  - 「2016 平成 28年経済センサス-活動調査 平成 28年 6 月 1日現在の数値 平成 27年（暦年）1年間の数値」（https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf）
+  - 「2017 平成 29 年工業統計調査 平成 29 年 6 月 1日現在の数値 平成 28年（暦年）1年間の数値」（https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf）
+  - 「2018 平成 30年工業統計調査 平成 30年 6 月 1日現在の数値 平成 29 年（暦年）1年間の数値」（https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf）
+  - 「2019 2019 年工業統計調査 令和元年 6 月 1日現在の数値 平成 30年（暦年）1年間の数値」（https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf）
+- 人手と仕事の差：
+  - 「⑦ 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf）
+  - 「託生産費、製造等に関連する外注」（https://www.soumu.go.jp/main_content/000744047.pdf）
+  - 「託生産費、製造等に関連する外注費」（https://www.soumu.go.jp/main_content/000744047.pdf）
+  - 「原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した商品の仕入額」（https://ja.wikipedia.org/wiki/%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した商品の仕入額の合計金額」（https://ja.wikipedia.org/wiki/%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024
