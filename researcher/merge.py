@@ -108,7 +108,7 @@ def write_judged(topic: dict, base: Path, recs: list[dict]) -> None:
     with open(base / "judged.csv", "w", newline="", encoding="utf-8-sig") as f:
         w = csv.writer(f)
         w.writerow(["社名", "公式URL", "文脈", "判定", "判定の根拠（引用）", "根拠URL", "大手の疑い（引用）", "窓口メール", "状態"])
-        counts = {}
+        counts, review = {}, []
         for t in load_targets(topic):
             r = by_name.get(t["name"])
             if not r:
@@ -125,8 +125,12 @@ def write_judged(topic: dict, base: Path, recs: list[dict]) -> None:
             for k, v in (r.get("profile") or {}).items():
                 for it in v:
                     mails += _MAIL.findall(it.get("value", ""))
+            weak = [i for i in ev.get(cfg["japan"], []) if _re.search(r"Japan|日本", i.get("quote", "")) and i not in jp]
             if jp:
                 verdict, q, u = "除外（日本に取扱いあり）", jp[0]["quote"][:220], jp[0]["url"]
+            elif weak:
+                verdict, q, u = "要確認（Claudeが読む）", weak[0]["quote"][:220], weak[0]["url"]
+                review.append((t["name"], r.get("official_url", "") or t["url"], weak[:3] + big[:1]))
             elif big:
                 verdict, q, u = "除外（大手の疑い）", big[0]["quote"][:220], big[0]["url"]
             elif r.get("error") and not ev:
@@ -137,6 +141,13 @@ def write_judged(topic: dict, base: Path, recs: list[dict]) -> None:
             counts[verdict] = counts.get(verdict, 0) + 1
             w.writerow([t["name"], r.get("official_url", "") or t["url"], t["context"], verdict, q, u,
                         (big[0]["quote"][:160] if big else ""), " ".join(dict.fromkeys(mails))[:200], "調査済み"])
+    # Claude が読むのは決めきれない会社だけ。1社3行まで・1行300字までに絞る（全部の引用は読まない）
+    lines = ["# 要確認（日本に関わる引用はあるが、代理店か募集か直送か決めきれない）", ""]
+    for name, url, items in review:
+        lines.append(f"## {name}（{url}）")
+        lines += [f"- 「{i['quote'][:300]}」（{i['url']}）" for i in items]
+        lines.append("")
+    (base / "review.md").write_text("\n".join(lines), encoding="utf-8")
     (base / "judged_counts.txt").write_text("\n".join(f"{k}\t{v}" for k, v in sorted(counts.items())), encoding="utf-8")
 
 
