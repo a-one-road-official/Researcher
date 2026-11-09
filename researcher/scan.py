@@ -3706,6 +3706,57 @@ def scan(topic):
                f"- 人の声（専門家・元社員・関係者の話）の数字の行：{len(_voice)}件、品目で{len(_vh)}品目。うち出典が1か所だけの品目：{len(_v1)}品目。同じ問いの型で2人以上に当てるまで証言どまりにし、要の数字は話の原文で確かめる（4-106・4-127）",
                *(f"  - {k[:40]}" for k in _v1[:4]), ""]
     except Exception: pass
+    # 2026-11-09 4-128（ESS guidelines on revision policy：速報の直しに偏りがあれば作り方の問題の印・方法の変更は総改定への影響を見積もって添える。
+    # UN Comtrade「Guidelines on Analyzing and Reducing Bilateral Asymmetry」2019：①食い違いがあるかを総額に対する割合で確かめ ②元を CIF/FOB・時間差・相手国の付け方・範囲で調べる。
+    # 輸入は原産国、輸出は最終仕向国で付けるので、2国の数字は相手国の付け方が違う。Resixley「OSINTでニュースを検証する方法」：同じ文は最も古い掲載を元の候補にする・
+    # 「ほぼ間違いない」と書くなら何が未確認かを添える）
+    try:
+        # ①速報→確報の直しの向きの偏り（同じ品目・区分・単位・年で速報と確報・改定が両方ある組）
+        _pv = {}
+        for r in rows:
+            if isinstance(r.get("値"), (int, float)) and r["値"] > 0 and r.get("年") and r.get("版") in ("速報", "確報", "改定"):
+                _pv.setdefault((r.get("品目", ""), r.get("区分", ""), r.get("単位", ""), r["年"]), {}).setdefault("速報" if r["版"] == "速報" else "確", []).append(r["値"])
+        _up = _dn = 0
+        for _k, _d in _pv.items():
+            if "速報" in _d and "確" in _d:
+                _s, _c = statistics.median(_d["速報"]), statistics.median(_d["確"])
+                if _c > _s: _up += 1
+                elif _c < _s: _dn += 1
+        _np = _up + _dn
+        _bias = _np >= 3 and max(_up, _dn) >= 2 * min(_up, _dn) + 1
+        # ②貿易の相手国の付け方と時間差
+        _TRD2 = re.compile(r"輸出|輸入|貿易|export|import", re.I)
+        _PART = re.compile(r"原産国|仕出国|仕向国|最終仕向|消費国|積出国|country of origin|consignment|destination", re.I)
+        _LAG = re.compile(r"船便|海上輸送|航空|輸送日数|到着|積出|in transit|time lag", re.I)
+        _trd2 = [r for r in rows if r.get("値") not in (None, "") and _TRD2.search((r.get("品目", "") or "") + (r.get("引用", "") or ""))]
+        _tp = [r for r in _trd2 if _PART.search(r.get("引用", "") or "")]
+        _tl = [r for r in _trd2 if _LAG.search(r.get("引用", "") or "")]
+        # ③同じ値・同じ文が2ホスト以上に出る組で、取得日のいちばん古いホスト（元の候補）
+        _ec = {}
+        for r in rows:
+            if r.get("値") in (None, "") or not r.get("出典"): continue
+            _ec.setdefault((r.get("品目", ""), str(r.get("値")), r.get("単位", "")), []).append(r)
+        _old = []
+        for _k, _g in _ec.items():
+            if len({r["出典"] for r in _g}) >= 2:
+                _g2 = sorted(_g, key=lambda r: (str(r.get("取得日") or "9999"), r["出典"]))
+                _old.append((_k, _g2[0]["出典"], str(_g2[0].get("取得日") or "日付なし"), len({r["出典"] for r in _g})))
+        # ④scan.md で強い可能性の語を使う行に、未確認の点が添えてあるか
+        _sm2 = os.path.join(OUT, topic, "scan.md")
+        _strong = _strong_nou = 0
+        if os.path.exists(_sm2):
+            for _ln in open(_sm2, encoding="utf-8", errors="ignore"):
+                if re.search(r"ほぼ確実|かなり高い|ほぼ間違いない", _ln):
+                    _strong += 1
+                    if not re.search(r"未確認|分かっていない|確かめていない|未検証|足りない", _ln): _strong_nou += 1
+        md += ["## 直しの偏り・相手国の付け方・最古の掲載・強い語の裏（4-128・機械）",
+               f"- 同じ欄・同じ年に速報と確報・改定がそろう組：{_np}組（確報で上に直った {_up}組・下に直った {_dn}組）。" + ("⚠ 直しが片側に偏る：その系列の速報は系統的にずれる。速報の年を向きの端に使わない（4-20・4-90・4-128）" if _bias else "偏りの判定には3組以上で片側が他方の2倍＋1以上を要する（4-128）"),
+               f"- 貿易の数字の行：{len(_trd2)}件のうち、相手国の付け方（輸入は原産国・輸出は最終仕向国など）の語がある行：{len(_tp)}件、輸送の時間差の語がある行：{len(_tl)}件。2国の数字を突き合わせる前に、①食い違いを総額に対する割合で測り ②CIF/FOB・時間差（年末の船便は翌年に入る）・相手国の付け方・範囲の順で元を調べる（4-117・4-127・4-128）",
+               f"- 同じ品目で同じ値が2ホスト以上に出る組：{len(_old)}組。取得日のいちばん古いホストを元の候補として先に本文で確かめる（取得日は掲載日ではないので、元と決めるのは公開日を本文で見てから・4-24・4-128）",
+               *(f"  - {k[0][:28]}：{k[1]}{k[2]} → 最古 {h}（{d}）／{n}ホスト" for k, h, d, n in sorted(_old, key=lambda x: -x[3])[:5]),
+               f"- scan.md で「ほぼ確実・かなり高い」を使う行：{_strong}行、うち同じ行に未確認の点が書かれていない行：{_strong_nou}行。強い語を使うなら何が未確認かを同じ行に添える（4-39・4-128）",
+               ""]
+    except Exception: pass
     ds = DIMSPLIT.get(topic)
     if ds:
         md.insert(3, f"- 食い違いの次元の集計（4-60・4-61）：【食い違い】{ds[0] + ds[1]}欄のうち、次元で分かれた {ds[0]}欄・分かれない {ds[1]}欄（{ds[1] / (ds[0] + ds[1]):.0%}）。分かれない欄は同じ対象か・単位の読みを本文で先に確かめる")
