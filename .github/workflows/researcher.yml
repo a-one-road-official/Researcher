@@ -18,6 +18,7 @@ on:
 permissions:
   contents: write
   actions: write
+  models: read
 
 concurrency:
   group: researcher
@@ -117,6 +118,9 @@ jobs:
           python -m researcher.scan || true
           python -m researcher.health || true
           python -m researcher.brief
+          # 2026-11-09 決めきれない会社だけ別のAI（GitHub Models の無料枠・課金なし）で判定を埋める
+          python -m pip install -q requests
+          GITHUB_TOKEN="${{ github.token }}" python -m researcher.judge_ai || echo "judge failed"
           # 走査の計算（AIが書いた計算プログラム）。トークンを使わずに毎回回す
           mkdir -p researcher/calc
           for f in researcher/calc/*.py; do python -I "$f" || echo "calc failed: $f"; done
