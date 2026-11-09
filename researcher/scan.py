@@ -3251,6 +3251,44 @@ def scan(topic):
                *(f"  - {n[:30]}／{k}：{s0} が {c0}／{t}件・全部の中央値 {m1:,.4g}{u}／抜いた残り {m2:,.4g}{u}" for n, k, u, s0, c0, t, m1, m2 in _lp[:6]),
                ""]
     except Exception: pass
+    # 2026-11-09 4-117（GIJN／Segnini「Investigating With Databases: Verifying Data Quality」：受け取った直後に
+    # 完全さ（極端な値・0・負の値の件数）と整合（年や状態の矛盾）を数えてから使う。
+    # UN IMTS 2010 Compilation Guide 付録9.C・Grigoriou「Mirror analysis」WCJ 2019：輸入はCIF・輸出はFOBで記録され、
+    # 計上時点・相手国の帰属・再輸出・秘匿・報告の裾切りで食い違う。月の値は時点の差が大きい）。
+    # ①金額・人数の区分で値が0以下の行（増減率・符号の付く区分を除く）＝欠けを0で埋めた・符号の取り違えの疑い
+    # ②品目×区分で値の半分以上が0の欄＝欠けの指紋（4-73）
+    # ③年が取得日の年より後なのに「予測」の印が無い行＝見込みを実績と読んだ疑い。1950年より前の年＝番号や金額を年と読んだ疑い
+    # ④貿易統計の行：CIF/FOB の印の有無、月の値か、再輸出・仲介貿易の語の有無を数える（輸入と輸出の値を突き合わせる前の確かめ）
+    try:
+        _neg, _zc, _fut, _old = [], {}, [], []
+        for r in rows:
+            try: v = float(r["値"])
+            except Exception: continue
+            k = r.get("区分", "") + r.get("文脈", "")
+            if v <= 0 and not re.search(r"増減|率|伸び|差|損益|利益|符号", k) and not r.get("符号"):
+                _neg.append(r)
+            _zc.setdefault((r["品目"], r["区分"]), [0, 0])
+            _zc[(r["品目"], r["区分"])][1] += 1
+            if v == 0: _zc[(r["品目"], r["区分"])][0] += 1
+            try:
+                y = int(float(r.get("年") or 0)); ty = int((r.get("取得日") or "0")[:4] or 0)
+            except Exception: y, ty = 0, 0
+            if y and ty and y > ty and not r.get("予測"): _fut.append(r)
+            if y and y < 1950: _old.append(r)
+        _zh = [(n, k, z, t) for (n, k), (z, t) in _zc.items() if t >= 2 and z * 2 >= t]
+        _tr = [r for r in rows if re.search(r"輸入|輸出|貿易統計|通関|import|export", (r.get("品目", "") + r.get("引用", "")), re.I)]
+        _cf = [r for r in _tr if re.search(r"CIF|FOB|c\.i\.f|f\.o\.b|運賃|保険料込", r.get("引用", ""), re.I)]
+        _mo = [r for r in _tr if re.search(r"\d{1,2}月|月次|月分|単月", r.get("引用", ""))]
+        _rx = [r for r in _tr if re.search(r"再輸出|再輸入|仲介貿易|三国間|re-?export|transit", r.get("引用", ""), re.I)]
+        md += ["## 受け取った直後の点検と、貿易統計の食い違いの元（4-117・機械）",
+               f"- 金額・人数の区分で値が0以下の行：{len(_neg)}件。欠けを0で埋めたか符号の取り違えを疑い、元の表で確かめるまで割り出しに使わない",
+               *(f"  - {r['品目'][:30]}／{r['区分']}：{r['値']}{r['単位']}（{r['出典']}）" for r in _neg[:4]),
+               f"- 値の半分以上が0の欄：{len(_zh)}欄（欠けの指紋・4-73）",
+               *(f"  - {n[:30]}／{k}：0が{z}／{t}件" for n, k, z, t in _zh[:4]),
+               f"- 年が取得日の年より後で「予測」の印が無い行：{len(_fut)}件（見込みを実績と読んだ疑い）／1950年より前の年の行：{len(_old)}件（番号・金額を年と読んだ疑い）",
+               f"- 貿易統計の行：{len(_tr)}件。うち CIF/FOB の印がある {len(_cf)}件・月の値 {len(_mo)}件・再輸出や仲介の語がある {len(_rx)}件。輸入（CIF）と相手国の輸出（FOB）を突き合わせるときは、印の無い行を同じ欄に並べず、月の値は時点の差が大きいので年の値で比べる（4-117）",
+               ""]
+    except Exception: pass
     ds = DIMSPLIT.get(topic)
     if ds:
         md.insert(3, f"- 食い違いの次元の集計（4-60・4-61）：【食い違い】{ds[0] + ds[1]}欄のうち、次元で分かれた {ds[0]}欄・分かれない {ds[1]}欄（{ds[1] / (ds[0] + ds[1]):.0%}）。分かれない欄は同じ対象か・単位の読みを本文で先に確かめる")

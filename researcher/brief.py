@@ -86,10 +86,16 @@ def junk(q: str) -> bool:
 # 2026-11-06 4-42 走査の失敗から：forbesjapan.com の1つの記事から、同じページの関連記事の題名（「企業の海外進出を支える…の「多様性」」
 # 「サステナグロースを実現する企業の条件…審査員対談」）が人型ロボットの「顧客」の事実として brief に出た。
 # 句点も数字も無い60字以下の行で、品目の名前（の3字）を含まないものは、同じページの別記事の題名とみなして外す（4-35 の本文の枠を brief にも当てる）
+# 2026-11-09 92回目の走査の失敗から：数字入りの別記事の題名が数字の除外をすり抜けて INDEX.md に出た（atpress の配信一覧の
+# 「プランテーションシャッター市場は2035年に…」「ヒト生体試料の世界市場…」が軍用ドローンの「経済」に、trafficnews の
+# 「72年走った2両が「テーマパーク入り」…」が艦艇の「顧客」に、環境ビジネスの「…神奈川県から1.6億円」が定置用蓄電池の「顧客」に）。
+# 句点の無い80字以下の行は数字の有無によらず、品目の名前（3字の切れ端。2字の名前はそのもの）を含まなければ別記事の題名として外す（4-117）
 def off_topic_title(q: str, name: str) -> bool:
     q = re.sub(r"\s+", " ", q or "").strip()
-    if "。" in q or re.search(r"\d", q) or len(q) > 60: return False
-    keys = {t[i:i + 3] for t in re.split(r"[\s・／/（）()、,]+", name or "") if len(t) >= 3 for i in range(len(t) - 2)}
+    if "。" in q or len(q) > 80: return False
+    if re.search(r"\d", q) is None and len(q) > 60: return False
+    parts = [t for t in re.split(r"[\s・／/（）()、,]+", name or "") if t]
+    keys = {t[i:i + 3] for t in parts if len(t) >= 3 for i in range(len(t) - 2)} | {t for t in parts if len(t) == 2}
     return bool(keys) and not any(k in q for k in keys)
 
 
