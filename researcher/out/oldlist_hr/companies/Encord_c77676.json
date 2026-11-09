@@ -1,0 +1,1397 @@
+{
+ "name": "Encord",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜リマイン1",
+ "researched_at": "2026-11-09T18:41:23.301494+00:00",
+ "official_url": "https://encord.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "2. Seed Round",
+    "value": "15-Jun-2021 $4.5M $4.62M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/455037-22",
+    "pass": 3
+   },
+   {
+    "label": "Seed-2",
+    "value": "863,799 $0.000100  $0.14 $0.14 1x $0.14 4.61%",
+    "url": "https://pitchbook.com/profiles/company/455037-22",
+    "pass": 3
+   },
+   {
+    "label": "Seed-1",
+    "value": "3,691,489 $0.000100  $0.88 $0.88 1x $0.88 19.68%",
+    "url": "https://pitchbook.com/profiles/company/455037-22",
+    "pass": 3
+   },
+   {
+    "label": "Total funding",
+    "value": "$45,000,000",
+    "url": "https://prospeo.io/c/encord-revenue",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$46,000",
+    "url": "https://prospeo.io/c/encord-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "San Francisco, California, United States",
+    "url": "https://prospeo.io/c/encord-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2020",
+    "url": "https://prospeo.io/c/encord-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "The data infrastructure layer for Physical AI and Enterprise teams — multimodal by design, from pre- and post-training to deployment.",
+    "url": "https://encord.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Native video annotation, LiDAR, audio, text, and sensor fusion in the same workflow. Label lineage and quality controls built in for production scale.",
+    "url": "https://encord.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Orchestrate RLHF, rubric-based evaluation, and pairwise comparison for models running in production. Find where your AI fails and route it back into training.",
+    "url": "https://encord.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Data-as-a-Service for production-grade AI",
+    "url": "https://encord.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Training-ready data for physical AI, collected by in-field operators and at our teleoperation facilities.",
+    "url": "https://encord.com/",
+    "pass": 1
+   },
+   {
+    "quote": "UiPath uses Encord to annotate and manage training data across image and text - benefitting from genuine pipeline visibility, they’ve grown their dataset 10x and improved table extraction model accuracy.",
+    "url": "https://encord.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From VLA models to world simulators, Encord provides the multimodal data infrastructure these systems require.",
+    "url": "https://encord.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Enterprise",
+    "url": "https://encord.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore video intelligence",
+    "url": "https://encord.com/",
+    "pass": 1
+   },
+   {
+    "quote": "increase in productivity on time-to-model",
+    "url": "https://encord.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "How UiPath 10x'd their dataset & improved model accuracy to 99% on their table extraction model",
+    "url": "https://encord.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": ". It's been a genuinely productive partnership as we scale our projects globally.",
+    "url": "https://encord.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Zeitview Improves Recall by 12% & 2x Data Throughput for Rooftop Penetration Detection Models",
+    "url": "https://encord.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "We're proud to partner with Encord. They're an",
+    "url": "https://encord.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "for use cases from production to cutting edge R&D.",
+    "url": "https://encord.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing to help you scale | Encord",
+    "url": "https://encord.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "The multimodal data layer for AI teams — with pricing designed to grow from prototype to production, at any scale, for any use case.",
+    "url": "https://encord.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Individuals and small teams building and prototyping small AI applications.",
+    "url": "https://encord.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Image & video annotation toolkit",
+    "url": "https://encord.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise SLA & support",
+    "url": "https://encord.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "VPC & on-prem deployments",
+    "url": "https://encord.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Model prediction import",
+    "url": "https://encord.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Annotator training modules",
+    "url": "https://encord.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-computed embeddings",
+    "url": "https://encord.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Encord brought together scalability, video-native annotation, clear label visibility, and the flexibility to support other modalities in a single, cohesive platform.",
+    "url": "https://encord.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Forterra builds by deploying rapidly: ship, watch the product in customers’ hands, and feed what it learns into the next version. That loop can only move as fast as the ground truth behind it.",
+    "url": "https://encord.com/customers/forterra/",
+    "pass": 1
+   },
+   {
+    "quote": "Forterra was getting a couple of hundred sequences annotated a quarter, and turnaround took two weeks at the very minimum. Quality was poor, so there was a lot of back and forth with providers, and Forterra’s ML and perception engineers ended up reviewing sequences themselves, time they should have been spending on the models.",
+    "url": "https://encord.com/customers/forterra/",
+    "pass": 1
+   },
+   {
+    "quote": "Encord’s work with Forterra goes beyond annotation: the two teams have adapted architectures, data collection and processes around Forterra’s data. Forterra gets more ground truth at the quality bar it needs, and its ML engineers are back to improving models instead of reviewing sequences.",
+    "url": "https://encord.com/customers/forterra/",
+    "pass": 1
+   },
+   {
+    "quote": "Forterra’s team works in the same interface as the annotators, steering quality rather than producing it. “Everybody is using the Encord interface, participating in that process to make sure that the data that we’re pushing through is the best quality,” says Amanda Sgroi, Director of Perception in the AutoDrive product team.",
+    "url": "https://encord.com/customers/forterra/",
+    "pass": 1
+   },
+   {
+    "quote": "Forterra is now in the next evolution of AutoDrive, deploying across commercial yard trucks and defense light vehicles, and integrating new payloads, sensors and effectors to automate more of each mission.",
+    "url": "https://encord.com/customers/forterra/",
+    "pass": 1
+   },
+   {
+    "quote": "using our platform, you can either import model predictions via our",
+    "url": "https://encord.com/customers/forterra/",
+    "pass": 1
+   },
+   {
+    "quote": "integrations with private cloud buckets",
+    "url": "https://encord.com/customers/forterra/",
+    "pass": 1
+   },
+   {
+    "quote": "Does Encord have a vulnerability disclosure program in place?",
+    "url": "https://encord.com/customers/forterra/",
+    "pass": 1
+   },
+   {
+    "quote": ". Our security team promptly investigates all reported issues. Learn more about data security at Encord",
+    "url": "https://encord.com/customers/forterra/",
+    "pass": 1
+   },
+   {
+    "quote": "Does Encord provide data labeling services?",
+    "url": "https://encord.com/customers/forterra/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes - we offer managed on-demand premium",
+    "url": "https://encord.com/customers/forterra/",
+    "pass": 1
+   },
+   {
+    "quote": "designed to meet your specific business objectives and offer our expert support to help you meet your goals. Our active learning platform and suite of tools are designed to automate the annotation process and maximise the ROI of each human input. The purpose of our software is to help you label less data.",
+    "url": "https://encord.com/customers/forterra/",
+    "pass": 1
+   },
+   {
+    "quote": "The best way to spend less on labeling is using purpose-built annotation software, automation features, and active learning techniques. Encord's platform provides several automation techniques, including",
+    "url": "https://encord.com/customers/forterra/",
+    "pass": 1
+   },
+   {
+    "quote": "Encord offers three different support plans: standard, premium, and enterprise support. Note that custom service agreements and uptime SLAs require an enterprise support plan. Learn more about our support plans",
+    "url": "https://encord.com/customers/forterra/",
+    "pass": 1
+   },
+   {
+    "quote": "How UiPath 10x'd their dataset and improved model accuracy to near 99%",
+    "url": "https://encord.com/customers/uipath/",
+    "pass": 1
+   },
+   {
+    "quote": "How UiPath 10x'd their dataset & improved model accuracy to 99% on their table extraction model",
+    "url": "https://encord.com/customers/uipath/",
+    "pass": 1
+   },
+   {
+    "quote": "image, video, text, and voice modalities",
+    "url": "https://encord.com/customers/uipath/",
+    "pass": 1
+   },
+   {
+    "quote": "UiPath started as an RPA (Robotic Process Automation) company, enabling people to build UI-based automations using a low-code environment. As the company has expanded, so too have the modalities it works with, moving well beyond images of UI screens or scanned documents to encompass videos of automations, text models for tool-use and customer support agents, and voice models for real-time agents.",
+    "url": "https://encord.com/customers/uipath/",
+    "pass": 1
+   },
+   {
+    "quote": "With that breadth comes a significant annotation and data management challenge: keeping training data high quality, well-tracked, and scalable across a diverse and growing set of model types.",
+    "url": "https://encord.com/customers/uipath/",
+    "pass": 1
+   },
+   {
+    "quote": "Problem: Annotation at Scale Across Multiple Modalities",
+    "url": "https://encord.com/customers/uipath/",
+    "pass": 1
+   },
+   {
+    "quote": "Annotating data sounds straightforward until you're doing it with multiple people working on the same dataset simultaneously. That is when coordination overhead, inconsistent workflows, and limited visibility into pipeline progress can quickly become a bottleneck.",
+    "url": "https://encord.com/customers/uipath/",
+    "pass": 1
+   },
+   {
+    "quote": "Before Encord, UiPath had tried annotating with a different vendor, but found it painful, particularly when dealing with edge cases, where turnaround times were frustratingly slow. The team needed a platform that could match their pace of iteration, provide genuine pipeline transparency, and handle the complexity of multi-reviewer workflows across diverse data types.",
+    "url": "https://encord.com/customers/uipath/",
+    "pass": 1
+   },
+   {
+    "quote": "For UiPath's table extraction model, a submodel of their broader UI understanding system, data quality was especially critical. The model structure is complex, requiring both images and labels to be precisely correct. Any annotation platform would need to support in-place editing and multiple review flows to keep their internal quality bar high.",
+    "url": "https://encord.com/customers/uipath/",
+    "pass": 1
+   },
+   {
+    "quote": "Encord’s native support for multiple simultaneous annotators, with fast sync between them, proved to be a significant operational upgrade. The team was able to use Encord to improve data they already had, and to iterate on their labeling process to find the right balance between speed and quality. Pipeline visibility made bottlenecks transparent and addressable in real time.",
+    "url": "https://encord.com/customers/uipath/",
+    "pass": 1
+   },
+   {
+    "quote": "For complex annotation tasks like the table extraction model where both the image and its labels need to be exactly right, Encord's review flow gave UiPath the structured internal review process they needed.",
+    "url": "https://encord.com/customers/uipath/",
+    "pass": 1
+   },
+   {
+    "quote": "The impact of moving to Encord was most visible on UiPath's table extraction model. Before, the model was performing at around 96–97% mAP on their internal dataset, which is already strong. After using Encord to more than 10x the size of the training dataset, the team achieved more than a 4x reduction in error rate, pushing accuracy above 98% and close to 99%.",
+    "url": "https://encord.com/customers/uipath/",
+    "pass": 1
+   },
+   {
+    "quote": "Critically, the improvement wasn't just in raw numbers: the expanded dataset also brought the model's distribution much closer to real production data, making the gains durable rather than artefacts of benchmark overfitting. Customers noticed the difference.",
+    "url": "https://encord.com/customers/uipath/",
+    "pass": 1
+   },
+   {
+    "quote": "Beyond the table extraction model, Encord enabled UiPath to scale a handful of models across their growing portfolio, freeing the team from the overhead of starting each new project from scratch, and giving them the headspace to focus on model development rather than data infrastructure.",
+    "url": "https://encord.com/customers/uipath/",
+    "pass": 1
+   },
+   {
+    "quote": "using our platform, you can either import model predictions via our",
+    "url": "https://encord.com/customers/uipath/",
+    "pass": 1
+   },
+   {
+    "quote": "integrations with private cloud buckets",
+    "url": "https://encord.com/customers/uipath/",
+    "pass": 1
+   },
+   {
+    "quote": "Does Encord have a vulnerability disclosure program in place?",
+    "url": "https://encord.com/customers/uipath/",
+    "pass": 1
+   },
+   {
+    "quote": ". Our security team promptly investigates all reported issues. Learn more about data security at Encord",
+    "url": "https://encord.com/customers/uipath/",
+    "pass": 1
+   },
+   {
+    "quote": "Does Encord provide data labeling services?",
+    "url": "https://encord.com/customers/uipath/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes - we offer managed on-demand premium",
+    "url": "https://encord.com/customers/uipath/",
+    "pass": 1
+   },
+   {
+    "quote": "designed to meet your specific business objectives and offer our expert support to help you meet your goals. Our active learning platform and suite of tools are designed to automate the annotation process and maximise the ROI of each human input. The purpose of our software is to help you label less data.",
+    "url": "https://encord.com/customers/uipath/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Training-ready data for physical AI, collected by in-field operators and at our teleoperation facilities.",
+    "url": "https://encord.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial & Manufacturing",
+    "url": "https://encord.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Train AI that monitors and responds to complex physical environments, across retail, construction, and warehouses.",
+    "url": "https://encord.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Enterprise",
+    "url": "https://encord.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 300+ teams building real-world AI",
+    "url": "https://encord.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Need structured video data collection - across store layouts, warehouse floors, or outdoor environments? Encord's data services team supports collection programs designed around your specific deployment context and edge case requirements.",
+    "url": "https://encord.com/smart-spaces/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 300+ of the world’s top AI teams",
+    "url": "https://encord.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial & Manufacturing",
+    "url": "https://encord.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "With Encord's analytics, workflow automation, and customization capabilities, UVeye has established a foundation for continuous improvement in their computer vision data operations, enabling them to move faster while maintaining the quality standards their safety-critical automotive inspection systems demand.",
+    "url": "https://encord.com/customers/uveye-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/encord/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Equipment Manufacturing",
+    "url": "https://www.casestudies.com/company/encord",
+    "pass": 3
+   },
+   {
+    "quote": "Foundry Robotics is an AI driven robotics company rebuilding manufacturing with advanced assembly automation…",
+    "url": "https://fundediq.co/encord-encord-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Encord is trusted by pioneering AI teams at Synthesia, Captions AI, Tractable, Stanford Medicine, Flock Safety, Protex AI, Zoopla, Philips, and many more global companies.",
+    "url": "https://prospeo.io/c/encord-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Sime Darby Industrial Sdn",
+    "url": "https://prospeo.io/c/encord-revenue",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "core part of our infrastructure",
+    "url": "https://encord.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Custom acquisition functions",
+    "url": "https://encord.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Those vehicles carry a mix of sensors, from visible light and infrared cameras to radar and LiDAR, depending on the mission. Forterra's perception team turns that sensor data into the models that let each vehicle see its surroundings and operate on its own.",
+    "url": "https://encord.com/customers/forterra/",
+    "pass": 1
+   },
+   {
+    "quote": "as a core part of their computer vision and data operations, using it across annotation, review, data curation, and automation.",
+    "url": "https://encord.com/customers/mmi/",
+    "pass": 1
+   },
+   {
+    "quote": "その中にはFortune 500企業も含まれ、医療や製造業、自動運転関連のプロジェクトで特に活躍しています",
+    "url": "https://generative-ai.co.jp/usecase/data-analytics-ai/ai-startup-usecase-encord/",
+    "pass": 3
+   },
+   {
+    "quote": "Agility、SPAC合併でナスダック上場",
+    "url": "https://physicalainews.jp/news/encord-roboteikusu-jidouunten-doroon-muke-butsuri-ai-kaihats-b0a4f2",
+    "pass": 3
+   },
+   {
+    "quote": "Encord Japan Revenue 2024: $3.1M Est.",
+    "url": "https://getlatka.com/companies/encord-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Encord Japan has not published its revenue. GetLatka estimates it at about $3.1M a year (October 2024).",
+    "url": "https://getlatka.com/companies/encord-japan",
+    "pass": 3
+   },
+   {
+    "quote": "All 3 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/encord-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Encord Japan CEO, founders & employees",
+    "url": "https://getlatka.com/companies/encord-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Akihiko Nakano founded Encord Japan in 2016 and runs it as CEO. Encord Japan had 25 employees (October 2024, LinkedIn), up from 22 a year earlier.",
+    "url": "https://getlatka.com/companies/encord-japan",
+    "pass": 3
+   },
+   {
+    "quote": "What is Encord Japan's revenue?",
+    "url": "https://getlatka.com/companies/encord-japan",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Encord Japan's revenue at about",
+    "url": "https://getlatka.com/companies/encord-japan",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Encord Japan have?",
+    "url": "https://getlatka.com/companies/encord-japan",
+    "pass": 3
+   },
+   {
+    "quote": "employees in October 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/encord-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/encord-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/encord-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/encord-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/encord/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/455037-22",
+    "pass": 3
+   },
+   {
+    "quote": "Encord has 231 total employees.",
+    "url": "https://pitchbook.com/profiles/company/455037-22",
+    "pass": 3
+   },
+   {
+    "quote": "What is Encord’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/455037-22",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Encord is",
+    "url": "https://pitchbook.com/profiles/company/455037-22",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Encord have?",
+    "url": "https://fundediq.co/encord-encord-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/encord-encord-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/encord-encord-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Encord Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/encord-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Encord",
+    "url": "https://prospeo.io/c/encord-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/encord-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/encord-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/encord-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Encord?",
+    "url": "https://prospeo.io/c/encord-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Encord generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/encord-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/encord-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/encord-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Encord have?",
+    "url": "https://prospeo.io/c/encord-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/encord-revenue",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "I consent to receive marketing emails from Encord about product updates and other relevant content. I may unsubscribe from these communications at any time.",
+    "url": "https://encord.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/encord/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/encord/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/455037-22",
+    "pass": 3
+   },
+   {
+    "quote": "Contact details for the Encord team: 1 of 1 has an email address on file.",
+    "url": "https://fundediq.co/encord-encord-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/encord-encord-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/encord-revenue",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Encord、ロボティクス・自動運転・ドローン向けフィジカルAI開発プラットフォームを発表 | 日本フィジカルAI新聞",
+    "url": "https://physicalainews.jp/news/encord-roboteikusu-jidouunten-doroon-muke-butsuri-ai-kaihats-b0a4f2",
+    "pass": 3
+   },
+   {
+    "quote": "自然な日本語による根拠付きの重要性の説明を確認できないため、該当欄を省略しました",
+    "url": "https://physicalainews.jp/news/encord-roboteikusu-jidouunten-doroon-muke-butsuri-ai-kaihats-b0a4f2",
+    "pass": 3
+   },
+   {
+    "quote": "本記事の収集・日本語化・構成にはAIを使用しています",
+    "url": "https://physicalainews.jp/news/encord-roboteikusu-jidouunten-doroon-muke-butsuri-ai-kaihats-b0a4f2",
+    "pass": 3
+   },
+   {
+    "quote": "重要ニュース5本・日本/中国・Research Picks・今週の公募",
+    "url": "https://physicalainews.jp/news/encord-roboteikusu-jidouunten-doroon-muke-butsuri-ai-kaihats-b0a4f2",
+    "pass": 3
+   },
+   {
+    "quote": "Encord Japan Revenue 2024: $3.1M Est.",
+    "url": "https://getlatka.com/companies/encord-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo, Japan",
+    "url": "https://getlatka.com/companies/encord-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Encord Japan is a Data Science and Machine Learning Platforms company based in Tokyo, founded in 2016.",
+    "url": "https://getlatka.com/companies/encord-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Encord Japan has not published its revenue. GetLatka estimates it at about $3.1M a year (October 2024).",
+    "url": "https://getlatka.com/companies/encord-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Encord Japan competitors",
+    "url": "https://getlatka.com/companies/encord-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Encord Japan competes most directly with Meta Platforms.",
+    "url": "https://getlatka.com/companies/encord-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Encord Japan CEO, founders & employees",
+    "url": "https://getlatka.com/companies/encord-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Akihiko Nakano founded Encord Japan in 2016 and runs it as CEO. Encord Japan had 25 employees (October 2024, LinkedIn), up from 22 a year earlier.",
+    "url": "https://getlatka.com/companies/encord-japan",
+    "pass": 3
+   },
+   {
+    "quote": "What is Encord Japan's revenue?",
+    "url": "https://getlatka.com/companies/encord-japan",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Encord Japan's revenue at about",
+    "url": "https://getlatka.com/companies/encord-japan",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Encord Japan have?",
+    "url": "https://getlatka.com/companies/encord-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Who is the CEO of Encord Japan?",
+    "url": "https://getlatka.com/companies/encord-japan",
+    "pass": 3
+   },
+   {
+    "quote": "is the CEO of Encord Japan and founded the company in 2016.",
+    "url": "https://getlatka.com/companies/encord-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Who founded Encord Japan?",
+    "url": "https://getlatka.com/companies/encord-japan",
+    "pass": 3
+   },
+   {
+    "quote": "founded Encord Japan in 2016.",
+    "url": "https://getlatka.com/companies/encord-japan",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "生成AIが変える未来：データアノテーションの革新者「Encord」の全貌|... — Dec 30, 2024 · Encordは、AI開発を支えるインフラとして注目されています。 その特徴的な技術と使いやすさ、そして厳格な安全基準は、多くの企業にとって魅力的なポイントです。 特に医療や自動運転、自動化技術の分野では欠かせない存在になる可能性を秘めています。",
+    "url": "https://generative-ai.co.jp/usecase/data-analytics-ai/ai-startup-usecase-encord/",
+    "pass": 3
+   },
+   {
+    "quote": "Encord徹底解説：AIデータアノテーションの最前線とOpenPose活用術 — Nov 3, 2025 · アウトライン 1. AI開発のボトルネック：データアノテーションの課題 2. Encordとは？ - 次世代AIデータプラットフォーム 2.1. Encordの3つのコアコンポーネント 2.2. 他のツールとの比較 3. Encordの主要機能とアノテーション実践 3.1. 多様なデータ形式と ...",
+    "url": "https://skywork.ai/skypage/ja/ai-data-annotation-openpose/1984163855237193728",
+    "pass": 3
+   },
+   {
+    "quote": "Encord | Train and Run AI on the Right Data — Encord is the multimodal data layer for physical AI. Manage, curate, annotate, and align petabytes of data - from sensor streams to video to text. Trusted by 300+ AI teams including Woven by Toyota, AXA, UiPath, Zipline, and more.",
+    "url": "https://encord.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Encord、ロボティクス・自動運転・ドローン向けフィジカルAI開発プラ... — Aug 15, 2026 · 何が起きたか Encordは2025年6月12日、ロボティクス、自動運転車、ドローン向けのフィジカルAI開発を加速する統合プラットフォームを発表したとBusiness Wireが報じた。",
+    "url": "https://physicalainews.jp/news/encord-roboteikusu-jidouunten-doroon-muke-butsuri-ai-kaihats-b0a4f2",
+    "pass": 3
+   },
+   {
+    "quote": "Encordとは? AIデータラベリング市場の急成長と資金調達を解説 — Aug 16, 2024 · Encordは資金調達を機にさらなる成長を目指しています。 特にマルチモーダルAI向けのラベリング機能の強化が期待されます。 しかも、日本企業のAI投資も拡大しています。 そのため、日本市場への進出も視野に入っているでしょう。",
+    "url": "https://techinnovateit.com/encord-ai-data-labeling-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Encord Japan Revenue 2024: $3.1M Est. - getlatka.com — Oct 29, 2026 · Encord Japan is a Data Science and Machine Learning Platforms company based in Tokyo, founded in 2016.",
+    "url": "https://getlatka.com/companies/encord-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Join the Encord team — We help the world's best AI teams move faster, label smarter, and ship models that actually work in production - from autonomous vehicles to surgical robotics. We're just getting started. Our team says it best! Peek behind the scenes to learn more about our day-to-day life at Encord.",
+    "url": "https://encord.com/careers/",
+    "pass": 3
+   },
+   {
+    "quote": "Real-World Success Stories | Encord — Discover how 300+ of the world's leading AI teams are using Encord to manage, curate, annotate and align petabytes of data, from first training run to real-world deployment.",
+    "url": "https://encord.com/customers/",
+    "pass": 3
+   },
+   {
+    "quote": "How UVeye Increases Annotation Speed by 30% - encord.com — UVeye's migration to Encord has transformed their annotation operations from a fragmented, manually-intensive process to a streamlined, high-performance workflow, delivering higher quality annotated data in less time while eliminating manual coordination overhead.",
+    "url": "https://encord.com/customers/uveye-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "23 Encord Case Studies, Success Stories, & Customer Stories — Encord has a 4.8/5 star rating. Learn what their customers think, get 22 free case studies and more.",
+    "url": "https://www.featuredcustomers.com/vendor/encord/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Encord B2B Case Studies & Customer Successes — See how Encord solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/encord",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Four Growers cuts annotation time by 50% with Encord — Four Growers partnered with Encord (Computer Software) to solve key challenges. \"Transforming Fruit and Vegetable Harvesting & Analytics with Computer Vision\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/encord/case-study/transforming-fruit-and-vegetable-harvesting-analytics-with-computer-vision",
+    "pass": 3
+   },
+   {
+    "quote": "Encord 2026 Company Profile: Valuation, Funding & Investors ...Encord - 2026 Company Profile, Team, Funding, Competitors ...Encord: Funding, Investors & Team (Nov 2026) | FundedIQEncord Revenue, Funding & Valuation - prospeo.ioEncord: Funding, Team & Investors | Startup IntrosEncord – Financial Footprint & Growth Factors – 2026Encord Revenue 2024: $12.8M Est. - getlatka.com — Information on valuat",
+    "url": "https://pitchbook.com/profiles/company/455037-22",
+    "pass": 3
+   },
+   {
+    "quote": "Encord - 2026 Company Profile, Team, Funding, Competitors ...Encord: Funding, Investors & Team (Nov 2026) | FundedIQEncord Revenue, Funding & Valuation - prospeo.ioEncord: Funding, Team & Investors | Startup IntrosEncord – Financial Footprint & Growth Factors – 2026Encord Revenue 2024: $12.8M Est. - getlatka.com — May 18, 2026 · Encord is a series C company based in London (United Kingdom), founde",
+    "url": "https://tracxn.com/d/companies/encord/__z_gFxzFOXuLt1zVy5O1W9GwV1-0_1zgECDZnIxu_ETE",
+    "pass": 3
+   },
+   {
+    "quote": "Encord: Funding, Investors & Team (Nov 2026) | FundedIQ — Encord has raised $90.0M across 2 funding rounds on record, the most recent a Series C of $60.0M announced in Feb 2026. That round is above the $6.0M median round size for Artificial Intelligence companies tracked on FundedIQ over the last two years.",
+    "url": "https://fundediq.co/encord-encord-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Encord Revenue, Funding & Valuation - prospeo.io — Encord has revenue of $5,500,000, estimated valuation of $17,600,000, $45,000,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/encord-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Encord: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · The enterprise maintains a global workforce of 150 employees and has raised $110 million in total funding, following a recent $60 million Series C round backed by lead investors Wellington Management and Y Combinator. Encord was founded in 2021 by Ulrik Stig Hansen and Eric Landau.",
+    "url": "https://startupintros.com/orgs/encord",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "QualSights is an immersive insights platform that enables companies, agencies, and consulting firms to gather…",
+    "url": "https://fundediq.co/encord-encord-com-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Y Combinator 解説：なぜPhysical AIが次のプラットフォームシフトな... Jul 25, 2026 · 概要 Y Combinatorの公式チャンネルで、物理AI向けデータ基盤を提供するEncordの共同創業者Eric Landau氏が、同社の歩みとPhysical AI市場の展望について語りました。",
+    "url": "https://note.com/yondo/n/ne68680db211f",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Y Combinator 解説：なぜPhysical AIが次のプラットフォームシフトなのか──Encord創業者が語るデータ戦略とAI開発の教訓｜yondo | IT・経済情報まとめ",
+    "url": "https://note.com/yondo/n/ne68680db211f",
+    "pass": 3
+   },
+   {
+    "quote": "Y Combinator 解説：なぜPhysical AIが次のプラットフォームシフトなのか──Encord創業者が語るデータ戦略とAI開発の教訓",
+    "url": "https://note.com/yondo/n/ne68680db211f",
+    "pass": 3
+   },
+   {
+    "quote": "▶ 元動画: https://www.youtube.com/watch?v=F3INH9wZXoQ",
+    "url": "https://note.com/yondo/n/ne68680db211f",
+    "pass": 3
+   },
+   {
+    "quote": "Y Combinatorの公式チャンネルで、物理AI向けデータ基盤を提供するEncordの共同創業者Eric Landau氏が、同社の歩みとPhysical AI市場の展望について語りました。素粒子物理学からクオンツへ、そしてAIスタートアップ創業へと至る異色のキャリアを持つLandau氏は、その原点にAI開発における「苦い教訓」があると説明します。ビジョン領域からスタートしたEncordは、市場の変化と製品の進化が交差する中で、自律走行やロボット工学といったPhysical AIへと軸足を移しつつあります。対談では、プロダクトマーケットフィットの見極め、営業組織の構築の失敗と教訓、そしてスタートアップ経営をジェットコースターに例えた心構えなどが語られました。",
+    "url": "https://note.com/yondo/n/ne68680db211f",
+    "pass": 3
+   },
+   {
+    "quote": "Landau氏のキャリアの共通項は、AI技術の発展の軌跡そのものだと語ります。かつてAIシステムを構築する際は、入念な設計や特徴量エンジニアリング、ドメイン知識の注入が重要視されていました。",
+    "url": "https://note.com/yondo/n/ne68680db211f",
+    "pass": 3
+   },
+   {
+    "quote": "同氏が素粒子物理学に取り組んでいた頃は、粒子の運動量など物理法則に基づいてデータをフィルタリングしていました。その後の高頻度取引のクオンツ時代には、市場を動かす要因を緻密に分析し、機械学習モデルに組み込んでいました。",
+    "url": "https://note.com/yondo/n/ne68680db211f",
+    "pass": 3
+   },
+   {
+    "quote": "Landau氏はクオンツとして10年のキャリアを持ち、創業者になるよりもはるかに高い収入を得ていたと認めます。特に退職を決意した新型コロナウイルス感染症の流行時期は、原油価格がマイナスを記録するなど市場が極度の混乱に陥り、同氏のデスクは過去3年分を上回る利益を1ヶ月で稼ぎ出しました。",
+    "url": "https://note.com/yondo/n/ne68680db211f",
+    "pass": 3
+   },
+   {
+    "quote": "クオンツ時代の終盤、同氏は夜床に就くたびに「私は人生で何をしているのだろう」という実存的な恐れを感じていたと言います。スタートアップを始めてからは、たとえ困難に直面しても、その恐れがより具体的な課題に変わり、自分の仕事が誰かに価値を提供しているという実感を得られるようになりました。自分よりも大きなものの一部であるという感覚が、何よりも大きな報酬だと語ります。",
+    "url": "https://note.com/yondo/n/ne68680db211f",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Encord (@encord_team) / X Introducing Encord-REACH: an end-to-end pipeline for real-world egocentric hand tracking. State-of-the-art 3D hand-pose accuracy, near-perfect wearer/bystander tracking and 30–70% lower error on industrial gloves.",
+    "url": "https://x.com/encord_team",
+    "pass": 3
+   },
+   {
+    "quote": "Encord on X: \"EMG-1 contains 300+ hours of synchronized ... We're releasing EMG-1 free of charge so researchers can explore new applications for muscle signals in robot learning. Explore the dataset and get access: Introducing EMG-1: the largest open dataset of wrist EMG with egocentric video | Encord From encord.com 22",
+    "url": "https://x.com/encord_team/status/2115766076143513673",
+    "pass": 3
+   },
+   {
+    "quote": "Encord on X: \"\"What if you didn't have to go through ... \"What if you didn't have to go through classical compute limits at all?\" - @PimDeWitte Pim’s argument is that the optimal approach is to learn directly from the data the universe produces continuously, rather than relying on simulators. On top of that, the training runs are tiny compared to front…",
+    "url": "https://x.com/encord_team/status/2115201887758680275",
+    "pass": 3
+   },
+   {
+    "quote": "Encord on X: \"Introducing Encord-REACH: an end-to-end ... Introducing Encord-REACH: an end-to-end pipeline for real-world egocentric hand tracking. State-of-the-art 3D hand-pose accuracy, near-perfect wearer/bystander tracking and 30–70% lower error on industrial gloves.",
+    "url": "https://x.com/encord_team/status/2115158136218882264",
+    "pass": 3
+   },
+   {
+    "quote": "Encord on X: \"\"If I built an intimidating robot, I'm going to ... Nov 2, 2026 · \"I guarantee you it's good to be canceled. Just get canceled. It's easy. You should build robots that are going to do real work.\"\" Encord @encord_team",
+    "url": "https://x.com/encord_team/status/2117380228884676645",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Encord - LinkedIn Encord is AI-native data infrastructure that helps AI teams train and run models on the right data. Index, curate, annotate, and evaluate your data across the full AI lifecycle - from development...",
+    "url": "https://www.linkedin.com/company/encord-team",
+    "pass": 3
+   },
+   {
+    "quote": "Encord - LinkedIn Encord is AI-native data infrastructure that helps AI teams train and run models on the right data. Index, curate, annotate, and evaluate your data across the full AI lifecycle - from development...",
+    "url": "https://www.linkedin.com/products/encord-team-encord/",
+    "pass": 3
+   },
+   {
+    "quote": "Encord - LinkedIn Encord is AI-native data infrastructure that helps AI teams train and run models on the right data. Index, curate, annotate, and evaluate your data across the full AI lifecycle - from development...",
+    "url": "https://uk.linkedin.com/company/encord-team",
+    "pass": 3
+   },
+   {
+    "quote": "Encord: Stringing a Powerful Cord of Futuristic Data-Centric ... Eric Landau is the Co-founder and CEO of Encord Encord’s mission is to accelerate the pace of data-centric AI in medicine so that healthcare institutions and medical professionals can reap the...",
+    "url": "https://in.linkedin.com/posts/encord-team_encord-stringing-a-powerful-cord-of-futuristic-activity-7006573372759265281-cb2V",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Encord | San Francisco CA - Facebook Encord, San Francisco. 10 likes. The fastest way to manage, curate and annotate AI data",
+    "url": "https://www.facebook.com/EncordAI/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Encord S.A.S | Popayán - FacebookFacebook - log in or sign upReuters - AI data platform developer Encord unveiled a new ...San Francisco AI company Encord unveiled a new AI training ...AI data platform developer Encord has unveiled a new training ...Encord | Longmont CO - Facebook Jun 30, 2026 · Encord S.A.S is in Popayán, Colombia. El primer paso de una gran obra es un diseño exacto. 📐 Desliza 👉 ",
+    "url": "https://www.facebook.com/encordsas/",
+    "pass": 3
+   },
+   {
+    "quote": "Reuters - AI data platform developer Encord unveiled a new ... Oct 23, 2026 · AI data platform developer Encord unveiled a new training program that combines camera vision with muscle sensors to produce higher quality data that can be used to better train robots.",
+    "url": "https://www.facebook.com/Reuters/posts/ai-data-platform-developer-encord-unveiled-a-new-training-program-that-combines-/1711098117547580/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://encord.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://encord.com/customers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://encord.com/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://encord.com/customers/forterra/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://encord.com/customers/uipath/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://encord.com/customers/mmi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://encord.com/smart-spaces/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://encord.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://encord.com/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://encord.com/customers/uveye-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://encord.com/customers/voxel-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://encord.com/customers/archetype-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://encord.com/customers/standard-ai/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://images.prismic.io/encord/vRlz3ER4Q-abE9i1_background-dither-customers-3.avif?auto=format,compress",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://images.prismic.io/encord/ah1u7weQX7-eWe9w_manufacturing-dither-1.avif?auto=format,compress?auto=compress,format",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://generative-ai.co.jp/usecase/data-analytics-ai/ai-startup-usecase-encord/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skywork.ai/skypage/ja/ai-data-annotation-openpose/1984163855237193728",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://physicalainews.jp/news/encord-roboteikusu-jidouunten-doroon-muke-butsuri-ai-kaihats-b0a4f2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.encored.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/encord-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/encord/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/encord",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://upcloud.com/global/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/455037-22",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/encord/__z_gFxzFOXuLt1zVy5O1W9GwV1-0_1zgECDZnIxu_ETE",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fundediq.co/encord-encord-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/encord-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yondo/n/ne68680db211f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/encord_team",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/encord_team/status/2115766076143513673",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/encord_team/status/2115201887758680275",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/encord_team/status/2115158136218882264",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/encord-team",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/encord-team-encord/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/company/encord-team",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/posts/encord-team_encord-stringing-a-powerful-cord-of-futuristic-activity-7006573372759265281-cb2V",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/EncordAI/about/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/encordsas/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Reuters/posts/ai-data-platform-developer-encord-unveiled-a-new-training-program-that-combines-/1711098117547580/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/encord_team",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/encord_team/status/2117380228884676645",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Encord 日本 導入",
+   "results": [
+    "https://generative-ai.co.jp/usecase/data-analytics-ai/ai-startup-usecase-encord/",
+    "https://skywork.ai/skypage/ja/ai-data-annotation-openpose/1984163855237193728",
+    "https://encord.com/",
+    "https://physicalainews.jp/news/encord-roboteikusu-jidouunten-doroon-muke-butsuri-ai-kaihats-b0a4f2",
+    "https://techinnovateit.com/encord-ai-data-labeling-funding/",
+    "https://note.com/yondo/n/ne68680db211f",
+    "https://www.encored.co.jp/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Encord 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.aon.com/japan/company-overview",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://www.onward-hd.co.jp/en/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Encord Japan",
+   "results": [
+    "https://www.encored.co.jp/",
+    "https://encord.com/",
+    "https://getlatka.com/companies/encord-japan",
+    "https://encord.com/careers/",
+    "https://www.seabourn.com/en/cruise-destinations/asia-cruises/japan",
+    "https://www.cruisecritic.com/find-a-cruise/destination-japan/ship-seabourn-encore",
+    "https://www.encoord.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Encord manufacturing customer case study",
+   "results": [
+    "https://encord.com/customers/",
+    "https://encord.com/customers/uveye-case-study/",
+    "https://www.featuredcustomers.com/vendor/encord/case-studies",
+    "https://www.casestudies.com/company/encord",
+    "https://www.casestudies.com/company/encord/case-study/transforming-fruit-and-vegetable-harvesting-analytics-with-computer-vision",
+    "https://cloud.google.com/customers/encord",
+    "https://businessmodelanalyst.com/ai-data-factories-physical-ai-margins/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Encord white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://encord.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://upcloud.com/partner-program/",
+    "https://reseller.amazon.com/",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://www.vizrt.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Encord founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/455037-22",
+    "https://tracxn.com/d/companies/encord/__z_gFxzFOXuLt1zVy5O1W9GwV1-0_1zgECDZnIxu_ETE",
+    "https://fundediq.co/encord-encord-com-funding/",
+    "https://prospeo.io/c/encord-revenue",
+    "https://startupintros.com/orgs/encord",
+    "https://compworth.com/company/encord",
+    "https://getlatka.com/companies/encord.com"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Encord",
+   "results": [
+    "https://note.com/yondo/n/ne68680db211f",
+    "https://note.com/yusukehorie/n/n7a0f4bfea835",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/arrows_column/n/nc266340c0609",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/weiden_haus_lab/n/n9a53e02f8bdf"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Encord",
+   "results": [
+    "https://x.com/encord_team",
+    "https://x.com/encord_team/status/2115766076143513673",
+    "https://x.com/encord_team/status/2115201887758680275",
+    "https://x.com/encord_team/status/2115158136218882264",
+    "https://x.com/encord_team/status/2118088904238915990",
+    "https://x.com/encord_team/status/2107150240184680711",
+    "https://x.com/encord_team/status/2118088911310475345"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Encord",
+   "results": [
+    "https://www.linkedin.com/company/encord-team",
+    "https://www.linkedin.com/products/encord-team-encord/",
+    "https://uk.linkedin.com/company/encord-team",
+    "https://in.linkedin.com/posts/encord-team_encord-stringing-a-powerful-cord-of-futuristic-activity-7006573372759265281-cb2V",
+    "https://uk.linkedin.com/in/james-sweeney1",
+    "https://www.linkedin.com/company/encord",
+    "https://www.linkedin.com/in/pingxianzhu"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Encord",
+   "results": [
+    "https://www.facebook.com/EncordAI/about/",
+    "https://www.facebook.com/encordsas/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/Reuters/posts/ai-data-platform-developer-encord-unveiled-a-new-training-program-that-combines-/1711098117547580/",
+    "https://www.facebook.com/usatodayvideo/videos/san-francisco-ai-company-encord-unveiled-a-new-ai-training-dataset-that-captures/2550840855395779/",
+    "https://www.facebook.com/reportingdoc/videos/ai-data-platform-developer-encord-has-unveiled-a-new-training-program-designed-t/1090121920562614/",
+    "https://www.facebook.com/61578081404811/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Encord note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Encord X 投稿",
+   "results": [
+    "https://x.com/encord_team",
+    "https://x.com/encord_team/status/2117380228884676645",
+    "https://www.bilibili.com/video/BV1onj8zMEUB/",
+    "https://encord.com/",
+    "https://skywork.ai/skypage/ja/ai-data-annotation-openpose/1984163855237193728",
+    "https://help.x.com/ja",
+    "https://help.x.com/ja/using-x/how-to-post"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式13頁／PDF・画像2件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式13頁／PDF・画像2件／外部32頁・検索12回）"
+ }
+}

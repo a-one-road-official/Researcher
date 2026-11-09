@@ -1,0 +1,510 @@
+{
+ "name": "Snapmaker — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:3d-metal-printer-distributor;advanced-materials-manufacturer;binder-jetting;bioink-manufacturer;bound-metal-printing;ceramic-filament;ceramics-3d-printer-reseller;ceramics-3d-printing-service;ceramics-material-manufacturer;filament-extruder;materials;powder-manufacturer",
+ "researched_at": "2026-11-09T18:15:26.349563+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/the-snapmaker-u1-is-here-and-its-something-else/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snapmaker.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/snapmaker-to-bring-its-u1-toolchanger-ecosystem-to-formnext/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/bambu-lab-x2d-vs-snapmaker-u1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dlab.jp/blog/snapmaker-u1-review-tool-changer-multi-color-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/blogs/blog/slicer-virtual-color-mixing-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/blogs/blog/3d-printed-prosthetics-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/snapmaker-211206/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rakunew.com/items/89011?t=c_gadgets%2Bc_3d_printer_scanner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000007451.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/SnapmakerJ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://shop.snapmaker.com/collections/3d-printer-filament?srsltid=AYCX9vJGyeStHimUTCvM-3Xak4F4IN1HwFrBUZqvrR-EluySbrK-hahg",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/top-products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.robotshop.com/products/snapmaker-petg-filament-1kg-1-75mm-red",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://simplyprint.io/ja/filaments/snapmaker",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snapmaker.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=TsTtwar1_ok&vl=ja",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Fw8iAvPkXHk",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://panda3dp.com/forum.php?mod=viewthread&action=printable&tid=170373",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/farsoon-partners-japan-3d-printer-co-ltd-new-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/Snapmaker-2-0-%E3%83%87%E3%83%A5%E3%82%A2%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/dp/B0C657MMZS",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://relay.amazon.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kdp.amazon.co.jp:443/ja_JP",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/5137/2424/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00016743/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00347026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/the-snapmaker-u1-is-here-and-its-something-else/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uk.linkedin.com/company/voxelmatters",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tracxn.com/d/companies/snapmaker/___yItK0t4g_pDSaTM3QwOer3r1XhmHyEA9LUuV4lvYzw",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Snapmaker — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/the-snapmaker-u1-is-here-and-its-something-else/",
+    "https://www.snapmaker.com/",
+    "https://www.voxelmatters.com/snapmaker-to-bring-its-u1-toolchanger-ecosystem-to-formnext/",
+    "https://www.voxelmatters.directory/",
+    "https://www.envirolaser3d.com/pages/snap-maker?srsltid=AYCX9vIAoRve_RixblTlrHI9mw7R1z2e7lmQKBSV6vQwOiBStIf9dDGf",
+    "https://www.voxelmatters.com/",
+    "https://www.youtube.com/watch?v=SiHzwevwcJs",
+    "https://voxelfuse3d.com/brands/snapmaker/",
+    "https://www.poly-maker.jp/polyterra-pla-01.html/snapmaker",
+    "https://www.snapmaker.com/distributors"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Snapmaker — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://skhonpo.com/blogs/3dprinter-practice/bambu-lab-x2d-vs-snapmaker-u1",
+    "https://3dlab.jp/blog/snapmaker-u1-review-tool-changer-multi-color-2026",
+    "https://skhonpo.com/blogs/blog/slicer-virtual-color-mixing-2026",
+    "https://skhonpo.com/blogs/blog/3d-printed-prosthetics-2026",
+    "https://skhonpo.com/blogs/blog/ynu-recyclable-anthracene-photocurable-resin-2026",
+    "https://novisad-advokat.com/pin/d02b06656479",
+    "https://skhonpo.com/blogs/blog/elegoo-h1-ht-filament-dryer-2026-07",
+    "https://shop.snapmaker.com/collections/all",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.youtube.com/watch?v=y49FiSnjxnQ"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Snapmaker — VoxelMatters 日本 販売",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/plastics-3dprinter/snapmaker-211206/",
+    "https://www.rakunew.com/items/89011?t=c_gadgets%2Bc_3d_printer_scanner",
+    "https://prtimes.jp/main/html/rd/p/000000012.000007451.html",
+    "https://x.com/SnapmakerJ",
+    "https://www.amazon.co.jp/Snapmaker-2-0-%E3%83%87%E3%83%A5%E3%82%A2%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/dp/B0C657MMZS",
+    "https://news.infoseek.co.jp/article/prtimes_000000012_000007451/",
+    "https://www.yodobashi.com/maker/5000006564/",
+    "https://search.rakuten.co.jp/search/mall/snapmaker/",
+    "https://www.makuake.com/project/snapmaker-j1/",
+    "https://digimaga.jp/66866/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Snapmaker — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://shop.snapmaker.com/collections/3d-printer-filament?srsltid=AYCX9vJGyeStHimUTCvM-3Xak4F4IN1HwFrBUZqvrR-EluySbrK-hahg",
+    "https://www.voxelmatters.com/top-products/",
+    "https://jp.robotshop.com/products/snapmaker-petg-filament-1kg-1-75mm-red",
+    "https://simplyprint.io/ja/filaments/snapmaker",
+    "https://www.matterhackers.com/store/c/snapmaker?srsltid=AYCX9vI7gKZgmtrbcgM9xpwKGADLCXX2hc-yzN1hwi0OpR6ku48_f7A_",
+    "https://www.amazon.co.jp/Snapmaker-PLA%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-1-75mm%E3%80%81Snapspeed-3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%80%811kg-2-2%E3%83%9D%E3%83%B3%E3%83%89/dp/B0GHN5BS4Q",
+    "https://skhonpo.com/blogs/blog/slicer-virtual-color-mixing-2026",
+    "https://3dlab.jp/blog/snapmaker-u1-review-tool-changer-multi-color-2026",
+    "https://www.poly-maker.jp/polyterra-pla-01.html/snapmaker",
+    "https://eternalcollegest.com/books/100yen-resin"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Snapmaker — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.snapmaker.com/",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://www.youtube.com/watch?v=TsTtwar1_ok&vl=ja",
+    "https://www.voxelmatters.com/the-snapmaker-u1-is-here-and-its-something-else/",
+    "https://www.youtube.com/watch?v=dT47PJKea1s&vl=ja",
+    "https://www.envirolaser3d.com/pages/snap-maker?srsltid=AYCX9vLB_c4AFwKHEuHDfYV3F5pkl6vvomQUZe4Rbg0UCeIDwUV-OMGM",
+    "https://voxelfuse3d.com/brands/snapmaker/",
+    "https://wiki.snapmaker.com/en/Service_Policy/U1_Distributor_List",
+    "https://www.snapmaker.com/distributors"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Snapmaker — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.youtube.com/watch?v=Fw8iAvPkXHk",
+    "https://panda3dp.com/forum.php?mod=viewthread&action=printable&tid=170373",
+    "https://www.voxelmatters.com/farsoon-partners-japan-3d-printer-co-ltd-new-market/",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://www.snapmaker.com/",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://nano3dprint.com/2023/06/13/nano3dprint-announces-new-japanese-distribution-channel/?srsltid=AYCX9vL6KzyKOtoSnnvJtGjsyEYrmO-1LB6HcBTCbiZKMbSkFMKRkNrP",
+    "https://ir.velo3d.com/news-events/press-releases/detail/44/velo3d-expands-into-japan-signs-distribution-agreement",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:amazon.co.jp Snapmaker — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/Snapmaker-2-0-デュアルプリントモジュール/dp/B0C657MMZS",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://relay.amazon.co.jp/",
+    "https://kdp.amazon.co.jp/ja_JP/signin",
+    "https://shigoto.amazon.co.jp/",
+    "https://business.amazon.co.jp/ja/login",
+    "https://www.amazon.co.jp/【デジタル限定-YJ-PHOTO-BOOK】月城莉奈写真集「夢か幻か、女性声優か？」-月城莉奈-ebook/dp/B0HPKKHKNS"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Snapmaker — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/p/5137/2424/",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/g/00016743/",
+    "https://www.monotaro.com/g/00347026/",
+    "https://www.monotaro.com/k/store/熱中症指数計/",
+    "https://www.monotaro.com/p/1766/2356/",
+    "https://www.monotaro.com/g/00250535/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Snapmaker — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.voxelmatters.com/the-snapmaker-u1-is-here-and-its-something-else/",
+    "https://uk.linkedin.com/company/voxelmatters",
+    "https://tracxn.com/d/companies/snapmaker/___yItK0t4g_pDSaTM3QwOer3r1XhmHyEA9LUuV4lvYzw",
+    "https://www.voxelmatters.directory/",
+    "https://www.voxelmatters.report/methodology/",
+    "https://www.similarweb.com/company/snapmaker.com/",
+    "https://www.reddit.com/r/3Dprinting/comments/1p9tn5r/i_was_trying_to_do_some_research_on_snapmaker_and/",
+    "https://www.fabbaloo.com/news/voxelmatters-reveals-top-ten-polymer-3d-printing-companies-dominating-the-market",
+    "https://www.youtube.com/watch?v=xZeRdLJ46NU",
+    "https://www.voxelmatters.com/about/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Snapmaker — VoxelMatters",
+   "results": [
+    "https://note.com/opan2opan2/n/n5a65b6f5f069",
+    "https://note.com/tokyomakers/n/nb97900508291",
+    "https://note.com/newspeak/m/m03574ad35653",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Snapmaker — VoxelMatters",
+   "results": [
+    "https://x.com/ageof3dp/status/2032288034813571280",
+    "https://x.com/voxelmatters",
+    "https://x.com/snapmaker",
+    "https://x.com/snapmaker/status/1943671626953822663",
+    "https://x.com/SnapStudioOs/status/2117015950847512870",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/itscelyunique/status/2117839228826521620",
+    "https://x.com/isaiahrmartin/status/2117871814625972663"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:linkedin.com Snapmaker — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/posts/davide-sher_ai-marketresearch-additivemanufacturing-activity-7494791267604746240-KXp7",
+    "https://nl.linkedin.com/in/nadiayaakoubi",
+    "https://www.linkedin.com/posts/chikaieto_home-activity-7456162668240850944-iOVX",
+    "https://www.linkedin.com/in/alan-mandic-a5793116a",
+    "https://www.linkedin.com/posts/havekost_off-the-shelf-eos-systems-are-highly-capable-activity-7508153266896224256-pFsV",
+    "https://www.linkedin.com/in/nicholasorf",
+    "https://cn.linkedin.com/in/tim-du",
+    "https://cz.linkedin.com/in/tobias-rittig",
+    "https://au.linkedin.com/in/james-pasco-8536aab9",
+    "https://www.linkedin.com/posts/activity-7478077837028122624-Fo8z"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com Snapmaker — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/MakerWorx/posts/when-your-lego-band-member-needs-a-realistic-trombone-3d-printed-on-the-form-2-s/1947940568586374/",
+    "https://www.facebook.com/61575427910765/posts/bambu-lab-just-announced-the-h3c-a-massive-new-3d-printer-that-can-hold-up-to-ni/122133562376847597/",
+    "https://www.facebook.com/PrusaResearch/posts/cnet-compared-our-prusa-core-one-with-a-range-of-competing-fdm-3d-printers-using/1097025786172817/",
+    "https://www.facebook.com/groups/2343515562674370/posts/2715250432167546/",
+    "https://www.facebook.com/ELEGOOOfficial/photos/708789407964773/",
+    "https://www.facebook.com/groups/662727962674955/posts/1457092873238456/",
+    "https://www.facebook.com/3dprintingcanada/posts/new-product-alert-bambu-lab-has-teased-its-upcoming-s1-3d-scanner-which-is-expec/1558558776291622/",
+    "https://www.facebook.com/groups/2343515562674370/posts/2678618262497430/",
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/snapmaker/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Snapmaker — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.instagram.com/reel/DdwGEzdjKxx/",
+    "https://backerguardian.com/campaign/snapmaker-u1",
+    "https://note.com/hashtag/Snapmaker",
+    "https://www.voxelmatters.com/category/marketing/video/",
+    "https://www.voxelmatters.report/",
+    "https://x.com/VoxelMatters",
+    "https://note.com/tokyomakers/n/n7cac96f55a25",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Snapmaker — VoxelMatters X 投稿",
+   "results": [
+    "https://www.voxelmatters.com/the-snapmaker-u1-is-here-and-its-something-else/",
+    "https://x.com/snapmaker",
+    "https://www.voxelmatters.com/snapmaker-to-bring-its-u1-toolchanger-ecosystem-to-formnext/",
+    "https://www.youtube.com/watch?v=we6D1oZmOIE",
+    "https://www.youtube.com/@voxelmatters/videos",
+    "https://www.facebook.com/snapmaker/videos/meet-snapmaker-u1-the-consumer-toolchanger-3d-printer/984713127830552/",
+    "https://www.snapmaker.com/en/community",
+    "https://3dprintingindustry.com/news/snapmaker-launches-space-platform-for-multicolor-and-multimaterial-3d-models-254989/",
+    "https://www.youtube.com/watch?v=9iOazqf5GGk&vl=ja",
+    "https://x.com/voxelmatters"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）"
+ }
+}

@@ -1,0 +1,1291 @@
+{
+ "name": "Cerrion",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜拒否",
+ "researched_at": "2026-11-09T18:34:22.013330+00:00",
+ "official_url": "https://www.cerrion.com",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2005",
+    "url": "https://www.cerrion.com/customers/abies",
+    "pass": 1
+   },
+   {
+    "label": "Founded",
+    "value": "Founded：2021",
+    "url": "https://startupintros.com/orgs/cerrion",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "Zürich, Switzerland",
+    "url": "https://startupintros.com/orgs/cerrion",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Video AI Agents Built for Manufacturing | Cerrion",
+    "url": "https://www.cerrion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Eliminate production losses with Video AI Agents",
+    "url": "https://www.cerrion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Cerrion detects production issues before they cause downtime, safety incidents, quality escapes, or waste, and automatically triggers the right preventive response in real time.",
+    "url": "https://www.cerrion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Move your manufacturing operation from reactive to proactive",
+    "url": "https://www.cerrion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Cerrion covers your production end to end, allowing you to attack all your production issues from one central platform.",
+    "url": "https://www.cerrion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven impact on the metrics that matter",
+    "url": "https://www.cerrion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Leading manufacturers across the globe are already driving multi-site measurable improvements across efficiency, quality and safety with Cerrion.",
+    "url": "https://www.cerrion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Stoelzle started with Cerrion across critical areas of three production lines at its Czech Republic plant, enabling faster operator response, automated intervention for high-risk issues, and a 1% increase in yield. The results led to a global rollout across all six facilities.",
+    "url": "https://www.cerrion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "By deploying Cerrion AI Agents on its key timber transfer conveyors, Abies enabled an autonomous, closed-loop response to transport anomalies. This significantly accelerated resolution times and reduced downtime by 70% on those assets - while building the confidence to extend automation across the entire production area and set the foundation for unmanned production.",
+    "url": "https://www.cerrion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "By deploying Cerrion AI Agents across the highest-loss points on four production lines at its Weißwasser plant, Stölzle Lausitz enabled faster operator response, prevented cascading breakage events, and achieved a 36.5% reduction in scrap - leading to rollout across all factories of the group.",
+    "url": "https://www.cerrion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A global top-5 beverage producer deployed Cerrion’s AI Agents platform across critical areas of two production lines at its European flagship facility. The deployment reduced downtime by 90.5 hours, improved OEE by 1.3%, enabled automated responses to high-risk events, and ultimately led to a full-plant rollout across 25 production areas.",
+    "url": "https://www.cerrion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Following an initial deployment that reduced safety risks and increased yield by 1.5%, Şişecam expanded Cerrion across 12 production lines at its Eskişehir glass packaging plant in Turkey.",
+    "url": "https://www.cerrion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "After a successful pilot on one of its largest production lines, Verallia expanded Cerrion across the entire hot end of its Pescia plant in Italy. Cerrion AI Agents detect production and safety issues in real time and automatically trigger alarms and machine section stops, cutting response times by up to 50%.",
+    "url": "https://www.cerrion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Today’s production challenge",
+    "url": "https://www.cerrion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Preventable downtime, safety incidents, and quality escapes.",
+    "url": "https://www.cerrion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Production teams are in constant firefighting mode. Teams spend their time reacting to issues after they have caused damage, while limited root-cause visibility means the same problems keep coming back.",
+    "url": "https://www.cerrion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Production losses don’t have to be inevitable.",
+    "url": "https://www.cerrion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Cerrion’s video AI Agents continuously monitor production lines end-to-end, detect issues as they emerge, and trigger the right response in real time. They also provide the context needed to identify root causes and prevent the same problems from recurring.",
+    "url": "https://www.cerrion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Actionable video insights",
+    "url": "https://www.cerrion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Detect production issues early, act in real time and prevent them from happening again.",
+    "url": "https://www.cerrion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Define target production outcomes, choose from pre-built agents or tailor your own and immediately detect and attack your production challenges.",
+    "url": "https://www.cerrion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Act before production issues become losses.",
+    "url": "https://www.cerrion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Cerrion can integrate with your PLC, allowing AI Agents to go beyond alerts and trigger automated preventive responses directly on the shop floor.",
+    "url": "https://www.cerrion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent issues from happening again.",
+    "url": "https://www.cerrion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Cerrion’s intelligence turns detections and videos into actionable insights and RCA, enabling your teams to prevent the same production issues from recurring.",
+    "url": "https://www.cerrion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Customer Stories: Video AI in Manufacturing | Cerrion",
+    "url": "https://www.cerrion.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Leading manufacturers around the world use Cerrion AI Agents to prevent production problems, solve them faster and stop them from happening again.",
+    "url": "https://www.cerrion.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Stölzle Lausitz deployed Cerrion across four production lines at its Weißwasser plant, enabling faster response and a 36.5% scrap reduction, leading to a rollout across all group factories.",
+    "url": "https://www.cerrion.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Global top-5 beverage producer",
+    "url": "https://www.cerrion.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "A global top-5 beverage producer deployed Cerrion across two production lines, cutting downtime by 90.5 hours and increasing OEE by 1.3%, leading to a full-plant rollout.",
+    "url": "https://www.cerrion.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Şişecam deployed Cerrion across 12 production lines at its Eskişehir plant, reducing safety risks and improving yield by 1.5%.",
+    "url": "https://www.cerrion.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "“It is very helpful to have a system that records every single problem on the line. I use it to check what has happened when I was not there. Especially with inexperienced operators, we go through the detection and analytics applications to understand what actions are needed to make the machine deliver its best performance.”",
+    "url": "https://www.cerrion.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Preventing production problems at a global scale",
+    "url": "https://www.cerrion.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Tell us what problems you’re seeing on your production lines. We’ll show you how Cerrion AI Agents can prevent them, solve them faster and stop them from happening again.",
+    "url": "https://www.cerrion.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "About Us: Production AI from Zurich | Cerrion",
+    "url": "https://www.cerrion.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Building the next generation of autonomous production monitoring",
+    "url": "https://www.cerrion.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "At Cerrion, our mission is to eliminate operational problems on manufacturing production lines. We use AI and automation to help teams see what is happening, understand why, and act before problems escalate. This means more time improving processes and less time reacting to the same problems.",
+    "url": "https://www.cerrion.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "“Ever since I first visited my family's production facility as an 8-year-old, I have been obsessed with industrial production. I grew up with the notion that the highest value in society comes from people building real things.”",
+    "url": "https://www.cerrion.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "“Cerrion is redefining how factories are run. With a product that adds measurable value from day one, rapid adoption across the world’s largest manufacturers, and a best in class team who combine cutting edge product with relentless execution, we believe Cerrion is building the intelligence layer to finally bring AI to a $20 trillion industry.”",
+    "url": "https://www.cerrion.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Swiss start-up optimises production processes worldwide",
+    "url": "https://www.cerrion.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Y Combinator-backed Cerrion raises $5 million in funding to boost AI Video tech in manufacturing",
+    "url": "https://www.cerrion.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Artificial intelligence for stable processes in industry",
+    "url": "https://www.cerrion.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Cerrion launches video-based process monitoring solution",
+    "url": "https://www.cerrion.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Abies deployed Cerrion AI Agents on its bottleneck timber transfer conveyors and extended automation across the entire production.",
+    "url": "https://www.cerrion.com/customers/abies",
+    "pass": 1
+   },
+   {
+    "quote": "By deploying Cerrion AI Agents on its key timber transfer conveyors, Abies enabled an autonomous, closed-loop response to transport anomalies. This significantly accelerated resolution times and reduced downtime by 70% on those assets - while building the confidence to extend automation across the entire production area and set the foundation for unmanned production.",
+    "url": "https://www.cerrion.com/customers/abies",
+    "pass": 1
+   },
+   {
+    "quote": "Abies’ wood-processing lines operate at high speeds, where even small deviations in material flow can escalate quickly. Boards may skew, accumulate, jam, or break at transfer points. If not addressed immediately, these issues can block production, require manual intervention, reduce throughput, and put unnecessary strain on surrounding equipment.",
+    "url": "https://www.cerrion.com/customers/abies",
+    "pass": 1
+   },
+   {
+    "quote": "One recurring problem area was the trim-and-measure cross-transfer conveyors - especially at the transfer end. When timber jammed in this zone, it had to be detected instantly to prevent longer stoppages.",
+    "url": "https://www.cerrion.com/customers/abies",
+    "pass": 1
+   },
+   {
+    "quote": "Continuously monitor critical production areas",
+    "url": "https://www.cerrion.com/customers/abies",
+    "pass": 1
+   },
+   {
+    "quote": "At Abies, Cerrion AI Agents were deployed on 10 existing cameras covering the bottleneck infeed trim-and-measure cross-transfer conveyors but also other key transfer and wood processing areas, such as planers, elevating conveyors and board splitters.",
+    "url": "https://www.cerrion.com/customers/abies",
+    "pass": 1
+   },
+   {
+    "quote": "Each event is also recorded in Cerrion’s shop floor applications, creating a clear basis for follow-up. This helps operators and line leaders understand what happened and continuously improve the process in a more structured way over time.",
+    "url": "https://www.cerrion.com/customers/abies",
+    "pass": 1
+   },
+   {
+    "quote": "Autonomous preventive line stops before blockages occur",
+    "url": "https://www.cerrion.com/customers/abies",
+    "pass": 1
+   },
+   {
+    "quote": "Clear path to run additional production areas unmanned with Cerrion AI Agents",
+    "url": "https://www.cerrion.com/customers/abies",
+    "pass": 1
+   },
+   {
+    "quote": "From downtime reduction to autonomous production",
+    "url": "https://www.cerrion.com/customers/abies",
+    "pass": 1
+   },
+   {
+    "quote": "After achieving a 70% reduction in downtime on the infeed trim-and-measure cross-transfer conveyors, Abies expanded the deployment from 10 to 22 cameras across the entire production.",
+    "url": "https://www.cerrion.com/customers/abies",
+    "pass": 1
+   },
+   {
+    "quote": "With Cerrion’s AI Agents now live throughout the factory, Abies is using the technology as a foundation for more autonomous production. The results from the initial deployment demonstrated that Cerrion AI Agents can go beyond monitoring and enable real-time operational control.",
+    "url": "https://www.cerrion.com/customers/abies",
+    "pass": 1
+   },
+   {
+    "quote": "Building on this success, Abies plans to make one key production area run fully autonomously with Cerrion. The goal is not only to detect deviations, but also to trigger the right response instantly, creating a more stable production flow with less reliance on operators.",
+    "url": "https://www.cerrion.com/customers/abies",
+    "pass": 1
+   },
+   {
+    "quote": "Video AI for Glass Container Production | Cerrion",
+    "url": "https://www.cerrion.com/solutions/glass-packaging",
+    "pass": 1
+   },
+   {
+    "quote": "Close your pack to melt gaps and protect your people.",
+    "url": "https://www.cerrion.com/solutions/glass-packaging",
+    "pass": 1
+   },
+   {
+    "quote": "Cerrion's AI Agents are purpose-built for glass production to keep your operations running and your operators protected, catch quality issues at the source, and stop waste before it accumulates.",
+    "url": "https://www.cerrion.com/solutions/glass-packaging",
+    "pass": 1
+   },
+   {
+    "quote": "Out-of-the-box solutions for your biggest production losses",
+    "url": "https://www.cerrion.com/solutions/glass-packaging",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Video AI Agents Built for Manufacturing | Cerrion",
+    "url": "https://www.cerrion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Move your manufacturing operation from reactive to proactive",
+    "url": "https://www.cerrion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Leading manufacturers across the globe are already driving multi-site measurable improvements across efficiency, quality and safety with Cerrion.",
+    "url": "https://www.cerrion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Stoelzle started with Cerrion across critical areas of three production lines at its Czech Republic plant, enabling faster operator response, automated intervention for high-risk issues, and a 1% increase in yield. The results led to a global rollout across all six facilities.",
+    "url": "https://www.cerrion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "By deploying Cerrion AI Agents across the highest-loss points on four production lines at its Weißwasser plant, Stölzle Lausitz enabled faster operator response, prevented cascading breakage events, and achieved a 36.5% reduction in scrap - leading to rollout across all factories of the group.",
+    "url": "https://www.cerrion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A global top-5 beverage producer deployed Cerrion’s AI Agents platform across critical areas of two production lines at its European flagship facility. The deployment reduced downtime by 90.5 hours, improved OEE by 1.3%, enabled automated responses to high-risk events, and ultimately led to a full-plant rollout across 25 production areas.",
+    "url": "https://www.cerrion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Following an initial deployment that reduced safety risks and increased yield by 1.5%, Şişecam expanded Cerrion across 12 production lines at its Eskişehir glass packaging plant in Turkey.",
+    "url": "https://www.cerrion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "After a successful pilot on one of its largest production lines, Verallia expanded Cerrion across the entire hot end of its Pescia plant in Italy. Cerrion AI Agents detect production and safety issues in real time and automatically trigger alarms and machine section stops, cutting response times by up to 50%.",
+    "url": "https://www.cerrion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Cerrion’s video AI Agents continuously monitor production lines end-to-end, detect issues as they emerge, and trigger the right response in real time. They also provide the context needed to identify root causes and prevent the same problems from recurring.",
+    "url": "https://www.cerrion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Cerrion can integrate with your PLC, allowing AI Agents to go beyond alerts and trigger automated preventive responses directly on the shop floor.",
+    "url": "https://www.cerrion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Why manufacturers choose Cerrion",
+    "url": "https://www.cerrion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The next era of manufacturing is already here",
+    "url": "https://www.cerrion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Leading global manufacturers use Cerrion to move from reactive to proactive operations, seeing measurable impact from day one.",
+    "url": "https://www.cerrion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Take your manufacturing operations from reactive to proactive with Cerrion.",
+    "url": "https://www.cerrion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Walk through your production challenges with one of our experts. We'll map out which AI Agents fit your line and show you real results from similar plants.",
+    "url": "https://www.cerrion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Customer Stories: Video AI in Manufacturing | Cerrion",
+    "url": "https://www.cerrion.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Leading manufacturers around the world use Cerrion AI Agents to prevent production problems, solve them faster and stop them from happening again.",
+    "url": "https://www.cerrion.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Customer stories from the shop floor",
+    "url": "https://www.cerrion.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Stölzle deployed Cerrion at its Czech Republic plant, enabling faster response and a 1% yield increase, leading to a global rollout across all six facilities.",
+    "url": "https://www.cerrion.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Stölzle Lausitz deployed Cerrion across four production lines at its Weißwasser plant, enabling faster response and a 36.5% scrap reduction, leading to a rollout across all group factories.",
+    "url": "https://www.cerrion.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "A global top-5 beverage producer deployed Cerrion across two production lines, cutting downtime by 90.5 hours and increasing OEE by 1.3%, leading to a full-plant rollout.",
+    "url": "https://www.cerrion.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Şişecam deployed Cerrion across 12 production lines at its Eskişehir plant, reducing safety risks and improving yield by 1.5%.",
+    "url": "https://www.cerrion.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Verallia piloted Cerrion on one of its largest lines, cutting response times by up to 50% and reducing safety risks, leading to a rollout across the entire hot end of its Pescia plant.",
+    "url": "https://www.cerrion.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Fastest growing industrial AI company",
+    "url": "https://www.cerrion.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing industries",
+    "url": "https://www.cerrion.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "“It is very helpful to have a system that records every single problem on the line. I use it to check what has happened when I was not there. Especially with inexperienced operators, we go through the detection and analytics applications to understand what actions are needed to make the machine deliver its best performance.”",
+    "url": "https://www.cerrion.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Tell us what problems you’re seeing on your production lines. We’ll show you how Cerrion AI Agents can prevent them, solve them faster and stop them from happening again.",
+    "url": "https://www.cerrion.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "We're a team of engineers and operators from Zurich, building AI that sees what's happening on the factory floor.",
+    "url": "https://www.cerrion.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Our world is built in factories. Our mission is to empower them.",
+    "url": "https://www.cerrion.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Everything we rely on exists because someone built it. Manufacturing creates the physical world around us. But the people running factories still spend too much time firefighting: dealing with jams, defects, machine issues, safety risks and failures that keep coming back.",
+    "url": "https://www.cerrion.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "At Cerrion, our mission is to eliminate operational problems on manufacturing production lines. We use AI and automation to help teams see what is happening, understand why, and act before problems escalate. This means more time improving processes and less time reacting to the same problems.",
+    "url": "https://www.cerrion.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "“Ever since I first visited my family's production facility as an 8-year-old, I have been obsessed with industrial production. I grew up with the notion that the highest value in society comes from people building real things.”",
+    "url": "https://www.cerrion.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Headquartered in Switzerland, trusted by leading manufacturers worldwide",
+    "url": "https://www.cerrion.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "“Cerrion is redefining how factories are run. With a product that adds measurable value from day one, rapid adoption across the world’s largest manufacturers, and a best in class team who combine cutting edge product with relentless execution, we believe Cerrion is building the intelligence layer to finally bring AI to a $20 trillion industry.”",
+    "url": "https://www.cerrion.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Y Combinator-backed Cerrion raises $5 million in funding to boost AI Video tech in manufacturing",
+    "url": "https://www.cerrion.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing impacts every aspect of our daily lives, and its AI shift is the biggest opportunity in technology today. If you want to contribute to the next generation of industrial innovation, we want you on our team.",
+    "url": "https://www.cerrion.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "However, operators cannot continuously monitor every transfer point while running the line. Manual observation alone was not sufficient.",
+    "url": "https://www.cerrion.com/customers/abies",
+    "pass": 1
+   },
+   {
+    "quote": "Ensure operators are immediately informed when the machine is stopped",
+    "url": "https://www.cerrion.com/customers/abies",
+    "pass": 1
+   },
+   {
+    "quote": "This transforms a recurring issue from something operators had to notice manually into an automatically detected and controlled event. Instead of waiting for a jam to escalate, the line now responds instantly at the point of risk.",
+    "url": "https://www.cerrion.com/customers/abies",
+    "pass": 1
+   },
+   {
+    "quote": "Each event is also recorded in Cerrion’s shop floor applications, creating a clear basis for follow-up. This helps operators and line leaders understand what happened and continuously improve the process in a more structured way over time.",
+    "url": "https://www.cerrion.com/customers/abies",
+    "pass": 1
+   },
+   {
+    "quote": "With Cerrion’s AI Agents now live throughout the factory, Abies is using the technology as a foundation for more autonomous production. The results from the initial deployment demonstrated that Cerrion AI Agents can go beyond monitoring and enable real-time operational control.",
+    "url": "https://www.cerrion.com/customers/abies",
+    "pass": 1
+   },
+   {
+    "quote": "Building on this success, Abies plans to make one key production area run fully autonomously with Cerrion. The goal is not only to detect deviations, but also to trigger the right response instantly, creating a more stable production flow with less reliance on operators.",
+    "url": "https://www.cerrion.com/customers/abies",
+    "pass": 1
+   },
+   {
+    "quote": "Walk through your challenges with a Cerrion expert. We’ll map exactly which AI Agents fit your line and show you how manufacturers reduce stoppages before they turn into losses.",
+    "url": "https://www.cerrion.com/customers/abies",
+    "pass": 1
+   },
+   {
+    "quote": "Cerrion's AI Agents are purpose-built for glass production to keep your operations running and your operators protected, catch quality issues at the source, and stop waste before it accumulates.",
+    "url": "https://www.cerrion.com/solutions/glass-packaging",
+    "pass": 1
+   },
+   {
+    "quote": "Cerrion can integrate with your PLC, allowing AI Agents to go beyond alerts and trigger automated preventive responses directly on the shop floor.",
+    "url": "https://www.cerrion.com/solutions/glass-packaging",
+    "pass": 1
+   },
+   {
+    "quote": "Glass manufacturers running Cerrion today",
+    "url": "https://www.cerrion.com/solutions/glass-packaging",
+    "pass": 1
+   },
+   {
+    "quote": "See how leading global manufacturers have transformed their production lines with Cerrion AI Agents.",
+    "url": "https://www.cerrion.com/solutions/glass-packaging",
+    "pass": 1
+   },
+   {
+    "quote": "“It is very helpful to have a system that records every single problem on the line. I use it to check what has happened when I was not there. Especially with inexperienced operators, we go through the detection and analytics applications to understand what actions are needed to make the machine deliver its best performance.”",
+    "url": "https://www.cerrion.com/solutions/glass-packaging",
+    "pass": 1
+   },
+   {
+    "quote": "Stölzle Lausitz deployed Cerrion across four production lines at its Weißwasser plant, enabling faster response and a 36.5% scrap reduction, leading to a rollout across all group factories.",
+    "url": "https://www.cerrion.com/solutions/glass-packaging",
+    "pass": 1
+   },
+   {
+    "quote": "Şişecam deployed Cerrion across 12 production lines at its Eskişehir plant, reducing safety risks and improving yield by 1.5%.",
+    "url": "https://www.cerrion.com/solutions/glass-packaging",
+    "pass": 1
+   },
+   {
+    "quote": "Verallia piloted Cerrion on one of its largest lines, cutting response times by up to 50% and reducing safety risks, leading to a rollout across the entire hot end of its Pescia plant.",
+    "url": "https://www.cerrion.com/solutions/glass-packaging",
+    "pass": 1
+   },
+   {
+    "quote": "Speak to a Cerrion expert about your glass production challenges. We’ll map exactly which AI Agents fit your operation and show you results from manufacturers like you.",
+    "url": "https://www.cerrion.com/solutions/glass-packaging",
+    "pass": 1
+   },
+   {
+    "quote": "A global top-5 beverage producer deployed Cerrion's downtime and quality solutions across their priority production line, cutting downtime by 90.5 hours and boosting OEE by 1.3%, leading to a full-plant rollout.",
+    "url": "https://www.cerrion.com/solutions/beverage-and-filling",
+    "pass": 1
+   },
+   {
+    "quote": "Act on the issues that stop or starve your lines before they lead to losses. Deploy proven detections across the production line, wherever they create value.",
+    "url": "https://www.cerrion.com/solutions/beverage-and-filling",
+    "pass": 1
+   },
+   {
+    "quote": "Catch and act on defects at the point of production before they reach your customers. Deploy proven detections across the production line, wherever quality escapes start.",
+    "url": "https://www.cerrion.com/solutions/beverage-and-filling",
+    "pass": 1
+   },
+   {
+    "quote": "Cerrion can integrate with your PLC, allowing AI Agents to go beyond alerts and trigger automated preventive responses directly on the shop floor.",
+    "url": "https://www.cerrion.com/solutions/beverage-and-filling",
+    "pass": 1
+   },
+   {
+    "quote": "See how leading global manufacturers have transformed their production lines with Cerrion AI Agents.",
+    "url": "https://www.cerrion.com/solutions/beverage-and-filling",
+    "pass": 1
+   },
+   {
+    "quote": "“It is very helpful to have a system that records every single problem on the line. I use it to check what has happened when I was not there. Especially with inexperienced operators, we go through the detection and analytics applications to understand what actions are needed to make the machine deliver its best performance.”",
+    "url": "https://www.cerrion.com/solutions/beverage-and-filling",
+    "pass": 1
+   },
+   {
+    "quote": "Stölzle Lausitz deployed Cerrion across four production lines at its Weißwasser plant, enabling faster response and a 36.5% scrap reduction, leading to a rollout across all group factories.",
+    "url": "https://www.cerrion.com/solutions/beverage-and-filling",
+    "pass": 1
+   },
+   {
+    "quote": "Şişecam deployed Cerrion across 12 production lines at its Eskişehir plant, reducing safety risks and improving yield by 1.5%.",
+    "url": "https://www.cerrion.com/solutions/beverage-and-filling",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "The next phase focuses on deeper integration with the customer’s ERP, MES, and machine control systems, enabling AI Agents to become an increasingly embedded part of daily operations and automated response workflows.",
+    "url": "https://www.cerrion.com/customers/top5",
+    "pass": 1
+   },
+   {
+    "quote": "Based on these results, Verallia expanded Cerrion across the entire hot end of the Pescia plant, bringing real-time detection, automated intervention, and incident analytics across a broader part of its production operations.",
+    "url": "https://www.cerrion.com/customers/verallia",
+    "pass": 1
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/503406-82",
+    "pass": 3
+   },
+   {
+    "quote": "Cerrion has 25 total employees.",
+    "url": "https://pitchbook.com/profiles/company/503406-82",
+    "pass": 3
+   },
+   {
+    "quote": "What is Cerrion’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/503406-82",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Cerrion is",
+    "url": "https://pitchbook.com/profiles/company/503406-82",
+    "pass": 3
+   },
+   {
+    "quote": "Cerrion's investors include Hanel Baveja, Carl Rivera, Christian Floerkemeier, Filip Kaliszan, Garrett Langley, Harry Stebbings, Johannes Schildt, Marc Maurer, Oskar Hjertonsson, Robin Chan, Roman Hölzl, Thomas.",
+    "url": "https://startupintros.com/orgs/cerrion",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Cerrion have?",
+    "url": "https://fundediq.co/cerrion-cerrion-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/cerrion-cerrion-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/cerrion-cerrion-com-funding/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Video AI Agents Built for Manufacturing | Cerrion — By deploying Cerrion AI Agents across the highest-loss points on four production lines at its Weißwasser plant, Stölzle Lausitz enabled faster operator response, prevented cascading breakage events, and achieved a 36.5% reduction in scrap - leading to rollout across all factories of the group.",
+    "url": "https://www.cerrion.com/",
+    "pass": 3
+   },
+   {
+    "quote": "cerrion.co - Video AI Agents Built for Manufacturing — Our AI agents plug into your existing or Cerrion provided cameras and monitor your production in real-time. They catch issues early and take action instantly—preventing costly downtime and product loss.",
+    "url": "https://www.cerrion.co/",
+    "pass": 3
+   },
+   {
+    "quote": "Cerrion (Computer Vision Platforms) の機能、メリット、代替案 | Sa... — Cerrion の機能、料金プラン、他の Computer Vision Platforms SaaS ビジネスの人気のある代替品などについて詳しく学びましょう。",
+    "url": "https://saasbrowser.com/ja/saas/1695093/cerrion",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories: Video AI in Manufacturing | Cerrion — Verallia piloted Cerrion on one of its largest lines, cutting response times by up to 50% and reducing safety risks, leading to a rollout across the entire hot end of its Pescia plant.",
+    "url": "https://www.cerrion.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Cerrion - AIツールレビュー | AIniche — 既存設備を交換せず、プラグアンドプレイ方式で導入できるため、初期導入のコストと時間を大幅に抑えられます。 実際のユーザーからは、事故発生前後30秒間の映像を提供する機能により、原因分析の時間を50%以上短縮できた点が高く評価されています。",
+    "url": "https://ainiche.net/ja/tools/cerrion",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories: Video AI in Manufacturing | Cerrion — Leading manufacturers around the world use Cerrion AI Agents to prevent production problems, solve them faster and stop them from happening again.",
+    "url": "https://www.cerrion.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Cerrion Licencing Agreement | LEXR — In my case, I asked people directly. About a year before Cerrion was founded, I spent my time talking to different manufacturers and the different stakeholders. I found out what their challenges were, what the status quo was, where the technology could fill a gap and how big that pain point was.",
+    "url": "https://www.lexr.com/en-ch/case-study/cerrion/",
+    "pass": 3
+   },
+   {
+    "quote": "Backing Cerrion: Made for Order - creandum.com — Nov 24, 2025 · The impact is consistent: manufacturers in food, beverage, CPG, glass, wood, and building materials using Cerrion's platform now resolve issues up to 50% faster, dramatically cutting downtime and scrap, and materially strengthening their safety performance.",
+    "url": "https://creandum.com/stories/backing-cerrion-made-for-order/",
+    "pass": 3
+   },
+   {
+    "quote": "Cerrion – Funding, Acquisitions & Key Rivals – 2026 – Zurich — On average, Cerrion is believed to generate yearly revenue close to $1.7M. Per employee, Cerrion is estimated to generate $96K in revenue. So far, investors have poured $6M into Cerrion. Cerrion's workforce currently comprises over 10+ employees. Last year, Cerrion increased its workforce by 13%.",
+    "url": "https://compworth.com/company/cerrion",
+    "pass": 3
+   },
+   {
+    "quote": "Cerrion 2026 Company Profile: Valuation, Funding & Investors ...Cerrion: Funding, Team & Investors | Startup IntrosCerrion: Funding, Investors & Team (Nov 2026) | FundedIQCerrion — Company Profile, Funding & InvestorsCerrion Revenue 2025: $1.7M Est. - getlatka.comCerrion - Crunchbase Company Profile & Funding — Information on valuation, funding, cap tables, investors, and executives for Cerrion. U",
+    "url": "https://pitchbook.com/profiles/company/503406-82",
+    "pass": 3
+   },
+   {
+    "quote": "Cerrion: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Cerrion recently secured $18 million in Series A funding led by Creandum, adding to previous backing from Y Combinator, to support a growing client base that includes Unilever alongside suppliers to Pepsi and Pfizer. The company was founded in 2021 by Karim Saleh and Nikolay Kobyshev.",
+    "url": "https://startupintros.com/orgs/cerrion",
+    "pass": 3
+   },
+   {
+    "quote": "Cerrion: Funding, Investors & Team (Nov 2026) | FundedIQ — Cerrion has raised $23.0M across 3 funding rounds on record, the most recent a Series A of $18.0M announced in Nov 2025. That round is above the $6.0M median round size for Artificial Intelligence companies tracked on FundedIQ over the last two years.",
+    "url": "https://fundediq.co/cerrion-cerrion-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Cerrion — Company Profile, Funding & Investors — Cerrion company profile with $18M raised across 2 funding rounds, HQ in Zürich, Switzerland, founded 2021. Explore its acquisitions, funding rounds, investors, key people and contacts on Acquirezy — updated 2026.",
+    "url": "https://acquirezy.com/organization/cerrion",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Or feel free to reach us directly via email at",
+    "url": "https://www.lexr.com/en-ch/case-study/cerrion/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/503406-82",
+    "pass": 3
+   },
+   {
+    "quote": "Contact details for the Cerrion team: 2 of 2 have an email address on file.",
+    "url": "https://fundediq.co/cerrion-cerrion-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/cerrion-cerrion-com-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Cerrion Proto (@CerrionProto) / X 23 Cerrion Proto @CerrionProto Sep 3, 2023 good night beepers 24 Cerrion Proto @CerrionProto Sep 3, 2023 I need more art but I dont have money for comissions :c 22 Cerrion Proto @CerrionProto Sep 3, 2023 Some art :3 36 Cerrion Proto @CerrionProto Sep 3, 2023 not gonna lie, @ Aveyzan is a cute toaster :3 1 3 219 Cerrion Proto @CerrionProto Sep 3 ...",
+    "url": "https://x.com/CerrionProto",
+    "pass": 3
+   },
+   {
+    "quote": "gameover-like demo with a new ally https://t.co/1TMbhRaiCX cerrion3 (セリオン). 2542 likes 1 replies. gameover-like demo with a new ally🙃 https://t.co/1TMbhRaiCX",
+    "url": "https://x.com/cerrion3/status/2047294404189368545",
+    "pass": 3
+   },
+   {
+    "quote": "something happened to her.. セリオン (@cerrion3). 158 likes. something happened to her..",
+    "url": "https://x.com/cerrion3/status/2060269615507456139",
+    "pass": 3
+   },
+   {
+    "quote": "?????????????????????????????????????????????????????????????????... cerrion3 (????????????). 1 likes 0 replies. ?????????????????????????????????????????????????????????????????????????????????????????? Explore Trending StoriesGo to ...",
+    "url": "https://x.com/cerrion3/status/2090321198228127986",
+    "pass": 3
+   },
+   {
+    "quote": "セリオン (@cerrion3) / Posts and Replies / X Oct 16, 2018 · セリオン (@cerrion3) - Posts and Replies - make a h-pixel game ci-en ci-en.dlsite.com/creator/24978 pixiv pixiv.net/users/5279362 ask m... | X (formerly Twitter)",
+    "url": "https://x.com/cerrion3/with_replies",
+    "pass": 3
+   },
+   {
+    "quote": "セリオン (@cerrion3) / X Caution: This profile may include potentially sensitive content You’re seeing this warning because they post potentially sensitive images or language. Do you still want to view it?",
+    "url": "https://x.com/cerrion3",
+    "pass": 3
+   },
+   {
+    "quote": "セリオン on X / X - x.com Jul 30, 2026 · セリオン (@cerrion3) on X Continue with phone Continue with Apple Continue with Google",
+    "url": "https://x.com/cerrion3/status/2082846252505715195",
+    "pass": 3
+   },
+   {
+    "quote": "セリオン on X / X - x.com Jul 7, 2026 · セリオン (@cerrion3) on X X labeled this post as containing Adult Content.",
+    "url": "https://x.com/cerrion3/status/2074524963856699651",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Cerrion - LinkedIn Cerrion is a Zurich-based AI software company developing Computer Vision technology to generate production insights and detect process deviations in real-time.",
+    "url": "https://www.linkedin.com/company/cerrion",
+    "pass": 3
+   },
+   {
+    "quote": "Xochitl Carrion - Champion of Justice | LinkedInKarim Saleh – Cerrion | LinkedInMaria Elena Carrion - Managing Partner, CFA, Certified M&A ...Macarena Carrión - Jefa de Bienestar Organizacional y ...Lamberto Ragnolini – MSc in CS @ ETH Zurich | ML/CV Eng ...Anis El-aidouni - Account Executive at Cerrion | LinkedIn Champion of Justice · Experience: Law Office of Xochitl Carrion · Education: Univers",
+    "url": "https://www.linkedin.com/in/xochitl-carrion-36009b7",
+    "pass": 3
+   },
+   {
+    "quote": "Karim Saleh – Cerrion | LinkedInMaria Elena Carrion - Managing Partner, CFA, Certified M&A ...Macarena Carrión - Jefa de Bienestar Organizacional y ...Lamberto Ragnolini – MSc in CS @ ETH Zurich | ML/CV Eng ...Anis El-aidouni - Account Executive at Cerrion | LinkedIn Berufserfahrung: Cerrion · Ausbildung: Y Combinator · Ort: Zürich Metropolitan Area · 500+ Kontakte auf LinkedIn. Sehen Sie sich das",
+    "url": "https://ch.linkedin.com/in/karim-saleh99",
+    "pass": 3
+   },
+   {
+    "quote": "Maria Elena Carrion - Managing Partner, CFA, Certified M&A ...Macarena Carrión - Jefa de Bienestar Organizacional y ...Lamberto Ragnolini – MSc in CS @ ETH Zurich | ML/CV Eng ...Anis El-aidouni - Account Executive at Cerrion | LinkedIn Managing Partner, CFA, Certified M&A Advisor, Certified MWBE, Latino Corporate Directors Association · María-Elena Carrión, CFA, Certified M&amp;A Advisor, Certifie",
+    "url": "https://pr.linkedin.com/in/maria-elena-carrion-6b09369",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Cerrion Morgan - Facebook Cerrion Morgan is on Facebook. Join Facebook to connect with Cerrion Morgan and others you may know. Facebook gives people the power to share and makes...",
+    "url": "https://www.facebook.com/cerrion.morgan/",
+    "pass": 3
+   },
+   {
+    "quote": "Carrion - FacebookFacebookFacebook - log in or sign upParròquia sant Pere Apòstol Torredembarra | FacebookEUROGAMES JUEGOS DE MESA | FacebookNingbo Cerrion | Ningbo - Facebook Oct 19, 2026 · Carrion. 5,538 followers · 39 talking about this. Belgian Death Metal since 2008 Bookings: info.carrionbe@gmail.com Log into Facebook to connect with friends, family, and people you know. Connect with friends ",
+    "url": "https://www.facebook.com/Carrionbe/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.cerrion.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cerrion.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cerrion.com/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cerrion.com/customers/abies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cerrion.com/solutions/glass-packaging",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cerrion.com/solutions/beverage-and-filling",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cerrion.com/solutions/food",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cerrion.com/solutions/cpg",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cerrion.com/solutions/tableware",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cerrion.com/solutions/wood-and-sawmilling",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cerrion.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cerrion.com/customers/stoelzle",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cerrion.com/customers/stoelzle-lausitz",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cerrion.com/customers/top5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cerrion.com/customers/sisecam",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cerrion.com/customers/verallia",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.cerrion.co/",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   },
+   {
+    "url": "https://saasbrowser.com/ja/saas/1695093/cerrion",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aon.com/japan/company-overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cerrion.co/",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lexr.com/en-ch/case-study/cerrion/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reseller.amazon.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/cerrion",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/503406-82",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://startupintros.com/orgs/cerrion",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fundediq.co/cerrion-cerrion-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/CerrionProto",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/cerrion3/status/2047294404189368545",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/cerrion3/status/2060269615507456139",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/cerrion3/status/2090321198228127986",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/cerrion",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/xochitl-carrion-36009b7",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ch.linkedin.com/in/karim-saleh99",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pr.linkedin.com/in/maria-elena-carrion-6b09369",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/cerrion.morgan/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Carrionbe/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/cerrion3/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/cerrion3",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/cerrion3/status/2082846252505715195",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/cerrion3/status/2074524963856699651",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Cerrion 日本 導入",
+   "results": [
+    "https://www.cerrion.com/",
+    "https://www.cerrion.co/",
+    "https://saasbrowser.com/ja/saas/1695093/cerrion",
+    "https://www.cerrion.com/customers",
+    "https://ainiche.net/ja/tools/cerrion",
+    "https://www.firstcvc.jp/global/cerrion.com",
+    "https://www3.to/cerion-が-ai-ビデオ-エージェントで工場のダウンタイム/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Cerrion 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.aon.com/japan/company-overview",
+    "https://cerion.com/",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://coperion.com/jp/home-jp"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Cerrion Japan",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Cerrion manufacturing customer case study",
+   "results": [
+    "https://www.cerrion.com/customers",
+    "https://www.cerrion.com/",
+    "https://www.cerrion.co/",
+    "https://www.lexr.com/en-ch/case-study/cerrion/",
+    "https://creandum.com/stories/backing-cerrion-made-for-order/",
+    "https://foodindustryexecutive.com/2025/11/cerrion-raises-18m-to-eliminate-factory-downtime-using-ai-video-agents/",
+    "https://www.glasstec-online.com/en/Media_News/Magazine/Stories/AI_as_production_assistants_–_faster,_safer_and_more_precise"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Cerrion white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://reseller.amazon.com/",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Cerrion founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/cerrion",
+    "https://pitchbook.com/profiles/company/503406-82",
+    "https://startupintros.com/orgs/cerrion",
+    "https://fundediq.co/cerrion-cerrion-com-funding/",
+    "https://acquirezy.com/organization/cerrion",
+    "https://getlatka.com/companies/cerrion.com",
+    "https://www.crunchbase.com/organization/cerrion"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Cerrion",
+   "results": [
+    "https://note.com/eager_tiger5557",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/macaron0113/n/n43777334743e",
+    "https://note.com/lush_clover5338/m/m59d1b72cf693",
+    "https://note.com/macaron0113/n/naff6f0d8c73a",
+    "https://note.com/11chic0/n/n46bc76d10552",
+    "https://note.com/macaron0113/n/na9e138777223"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Cerrion",
+   "results": [
+    "https://x.com/CerrionProto",
+    "https://x.com/cerrion3/status/2047294404189368545",
+    "https://x.com/cerrion3/status/2060269615507456139",
+    "https://x.com/cerrion3/status/2090321198228127986",
+    "https://x.com/cerrion3/status/2082846252505715195",
+    "https://x.com/cerrion3/status/2108265548438245874",
+    "https://x.com/cerrion3/status/2000951636580282628"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Cerrion",
+   "results": [
+    "https://www.linkedin.com/company/cerrion",
+    "https://www.linkedin.com/in/xochitl-carrion-36009b7",
+    "https://ch.linkedin.com/in/karim-saleh99",
+    "https://pr.linkedin.com/in/maria-elena-carrion-6b09369",
+    "https://cl.linkedin.com/in/macarena-carrión",
+    "https://uk.linkedin.com/in/anis-elaidouni",
+    "https://ch.linkedin.com/in/lamberto-ragnolini"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Cerrion",
+   "results": [
+    "https://www.facebook.com/cerrion.morgan/",
+    "https://www.facebook.com/Carrionbe/",
+    "https://lite.facebook.com/",
+    "https://secure.facebook.com/",
+    "https://business.facebook.com/groups/277455489801398/",
+    "https://www.facebook.com/cerriontreadmill/",
+    "https://business.facebook.com/groups/522239278456658/",
+    "https://www.facebook.com/carriongt/",
+    "https://www.facebook.com/AcademiaCarrion/",
+    "https://www.facebook.com/CarrionEducacionSuperior/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "Cerrion note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://note.com/sadaaki",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Cerrion X 投稿",
+   "results": [
+    "https://x.com/cerrion3/with_replies",
+    "https://x.com/cerrion3",
+    "https://x.com/cerrion3/status/2082846252505715195",
+    "https://x.com/cerrion3/status/2074524963856699651",
+    "https://x.com/cerrion3/status/2119767793218564116",
+    "https://x.com/cerrion3/status/2085343116241064446",
+    "https://x.com/cerrion3/status/2098570031550603305",
+    "https://x.com/cerrion3/status/2064015604542238910",
+    "https://x.com/cerrion3/status/2119089555295047997"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 9
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部30頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部30頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部30頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部30頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部30頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部30頁・検索12回）"
+ }
+}

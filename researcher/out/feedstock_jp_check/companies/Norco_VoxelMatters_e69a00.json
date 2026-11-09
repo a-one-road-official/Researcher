@@ -1,0 +1,426 @@
+{
+ "name": "Norco — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:advanced-materials-manufacturer",
+ "researched_at": "2026-11-09T18:21:19.669322+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookNorco Bicycles - FacebookVoxelMatters on Reels | FacebookThe Norco Sight VLT A delivers top-tier ride quality and ...FacebookThe Torrent DH is built for riders who don’t have time for ...Additive manufacturing is creating new solutions for hard-to ... Unlock the Future of Metal Additive Manufacturing with VoxelMatters! VoxelMatters Research has kicked off a pre-sale campaign",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   },
+   {
+    "quote": "Norco Bicycles - FacebookVoxelMatters on Reels | FacebookThe Norco Sight VLT A delivers top-tier ride quality and ...FacebookThe Torrent DH is built for riders who don’t have time for ...Additive manufacturing is creating new solutions for hard-to ... Developed on the World Cup circuit alongside Norco adidas Race Division, the Team DH was shaped by what riders needed at race pace, with predictable",
+    "url": "https://www.facebook.com/norcobicycles/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.norco-inc.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jensonusa.com/norco",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.norco.com/bikes/e-mountain/e-all-mountain/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.funq.jp:443/bicycle-club/article/1079556/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yoshikawayasuhiro.com/product/c1/109830218789",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sports-w.com/brands/norco/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/%E3%83%AC%E3%82%B8%E3%83%B3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop-green-ocean.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eternalcollegest.com/books/100yen-resin",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.norco.com/international-distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/category/industry-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japanesedistributors.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan-partner.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/usa/investinjapan/j-bridge.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan-partner.com/check-manufacture-year.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scmp.com/magazines/style/people/celebrities/article/3353686/who-ansel-elgorts-japanese-partner-miona-whom-he-just-welcomed-baby",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/HP-office%E6%90%AD%E8%BC%89-Elitebook-windows11-%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E4%BB%98%E3%81%8D/dp/B0HJCL9YLY",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.amazon.co.jp",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://shigoto.amazon.co.jp/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/0.4kw+4P+200V/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00683943/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/02373666/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/norcobicycles/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Norco — VoxelMatters 代理店",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Norco — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.norco-inc.com/",
+    "https://www.jensonusa.com/norco",
+    "https://www.norco.com/bikes/e-mountain/e-all-mountain/",
+    "https://industrial.panasonic.com/jp/s-search/distributors",
+    "https://www.matco-norca.com/",
+    "https://www.amazon.co.jp/-/en/Folding-Bicycle-P-O8A-Improved-Adjustable/dp/B0DX743P8M"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Norco — VoxelMatters 日本 販売",
+   "results": [
+    "https://funq.jp/bicycle-club/article/1079556/",
+    "https://www.yoshikawayasuhiro.com/product/c1/109830218789",
+    "https://www.voxelmatters.com/",
+    "https://sports-w.com/brands/norco/",
+    "https://www.norco.com/?lang=ja",
+    "https://www.tradeinn.com/bikeinn/ja/norco-bikes/17513/m",
+    "https://www.dreamnews.jp/press/0000356662"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Norco — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.monotaro.com/k/store/レジン/",
+    "https://shop-green-ocean.com/",
+    "https://skhonpo.com/",
+    "https://eternalcollegest.com/books/100yen-resin",
+    "https://my-best.com/1748",
+    "https://www.monotaro.com/g/07636225/",
+    "https://fantist.com/articles/1092"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Norco — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.norco.com/international-distributors/",
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.com/category/industry-2/",
+    "https://japanesedistributors.com/",
+    "https://www.norco.com/store-locator/",
+    "https://www.voxelmatters.report/database/",
+    "https://www.voxelmatters.directory/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Norco — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.japan-partner.com/",
+    "https://www.jetro.go.jp/usa/investinjapan/j-bridge.html",
+    "https://www.japan-partner.com/check-manufacture-year.html",
+    "https://www.scmp.com/magazines/style/people/celebrities/article/3353686/who-ansel-elgorts-japanese-partner-miona-whom-he-just-welcomed-baby",
+    "https://vietnamnews.vn/economy/1803879/pan-group-japanese-partner-join-hands-to-modernise-agriculture.html",
+    "https://japanesedistributors.com/",
+    "https://www.norevo.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:amazon.co.jp Norco — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/HP-office搭載-Elitebook-windows11-日本語キーボード付き/dp/B0HJCL9YLY",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://r.amazon.co.jp/",
+    "https://shigoto.amazon.co.jp/",
+    "https://business.amazon.co.jp/ja/solutions/payment-options/pay-by-invoice",
+    "https://ssofaast-wms.amazon.co.jp/",
+    "https://www.amazon.co.jp/兒玉遥写真集-You-will-see-兒玉遥/dp/4334111920"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Norco — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/k/store/0.4kw+4P+200V/",
+    "https://www.monotaro.com/g/00683943/",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/g/02373666/",
+    "https://www.monotaro.com/p/3506/7076/",
+    "https://www.monotaro.com/p/1766/2356/",
+    "https://www.monotaro.com/p/5131/4323/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Norco — VoxelMatters employees revenue parent company",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com Norco — VoxelMatters",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/tag/ループエンジニアリング",
+    "https://note.com/tag/ポケカ",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/tori_1980/n/n21037c205ade",
+    "https://note.com/keizokuramoto/n/nef2f6f1c855d"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Norco — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/NorcoHighSchool",
+    "https://x.com/drgfromnyc/status/2117850084365025391",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/jocelynseip/status/2118260591680983528",
+    "https://x.com/itscelyunique/status/2117839228826521620",
+    "https://x.com/thekonyjen/status/2112890582159028475"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Norco — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://www.linkedin.com/pub/dir/davide/sher",
+    "https://uk.linkedin.com/in/federico-sher",
+    "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a",
+    "https://it.linkedin.com/in/francescopulimeni",
+    "https://it.linkedin.com/in/matilde-francioni-bb64b9212",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7338097629962153986/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Norco — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/norcobicycles/",
+    "https://www.facebook.com/VoxelMatters/videos/2155326438344264/",
+    "https://www.facebook.com/norcobicycles/videos/the-norco-sight-vlt-a-delivers-top-tier-ride-quality-and-exceptional-value-witho/832943333176926/",
+    "https://www.facebook.com/\u0000jperes88/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-creating-new-solutions-for-hard-to-source-replacement-/893346590210455/",
+    "https://www.facebook.com/norcobicycles/videos/the-torrent-dh-is-built-for-riders-who-dont-have-time-for-faff-and-are-in-it-for/988246007180947/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Norco — VoxelMatters note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.voxelmatters.com/max-osmond-takes-charge-of-additive-manufacturing-at-norco/",
+    "https://www.voxelmatters.com/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://www.buffett-code.com/company/5243/governance",
+    "https://note.jp/n/neb4da3c9a8b5"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Norco — VoxelMatters X 投稿",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.voxelmatters.directory/company/norco/",
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.voxelmatters.com/contribute/",
+    "https://www.voxelmatters.com/",
+    "https://x.com/uni_ikura_okura/status/2119558481921585281"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索15回）"
+ }
+}

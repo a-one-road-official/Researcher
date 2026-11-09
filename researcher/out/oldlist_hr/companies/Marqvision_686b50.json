@@ -1,0 +1,1331 @@
+{
+ "name": "Marqvision",
+ "aliases": [],
+ "context": "旧営業リスト｜Quality / Inspection｜AUMS不適合",
+ "researched_at": "2026-11-09T17:56:34.092043+00:00",
+ "official_url": "https://www.marqvision.com/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2020",
+    "url": "https://www.marqvision.com/jp/about-us",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "回収した売上",
+    "value": "$2.3M",
+    "url": "https://www.marqvision.com/jp/brand-protection/customers/houndsy",
+    "pass": 1
+   },
+   {
+    "label": "ARR",
+    "value": "$25M",
+    "url": "https://getlatka.com/companies/marqvision",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "label": "E-mail",
+    "value": "takeshi.suzuki@marqvision.com",
+    "url": "https://www.expo-form.com/united2025/usr_detail.php?ucd=114",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$89M",
+    "url": "https://getlatka.com/companies/marqvision",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "lumen-academy-premium-mod.apk",
+    "url": "https://www.marqvision.com/jp/home",
+    "pass": 1
+   },
+   {
+    "quote": "今週のAmazon、Shopee、AliExpressにあるArvessaの模倣品出品をすべて表示して",
+    "url": "https://www.marqvision.com/jp/home",
+    "pass": 1
+   },
+   {
+    "quote": "DaimlerとToyotaで全国規模の模倣品対策を指揮した後、Alibaba Groupで5年間、シニア知財カウンセル兼IPR副ディレクターとして、TaobaoとTmallの模倣品対策の枠組み、グリーン申請チャネル、ブランドオーナー向けAPI連携を構築しました",
+    "url": "https://www.marqvision.com/jp/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Taobao、Tmall、AliExpress、Alibaba.com",
+    "url": "https://www.marqvision.com/jp/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Solve problems at the root",
+    "url": "https://www.marqvision.com/jp/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "F&Fは多様なブランドポートフォリオを展開する韓国のファッション企業で、最近ではDuvetica、Supra、Sergio Tacchiniなどのブランドの買収や立ち上げを通じて、グローバルな存在感を高めています",
+    "url": "https://www.marqvision.com/jp/brand-protection/customers/fnf",
+    "pass": 1
+   },
+   {
+    "quote": "マーケットプレイスへの対応をMarqVisionに任せてからの1年間、2025年10月から2026年10月までに、終わりがないと思えた模倣品は、Amazon、Walmart、eBay、AliExpressなどで大規模に削除されてきました",
+    "url": "https://www.marqvision.com/jp/brand-protection/customers/coloring-your-own",
+    "pass": 1
+   },
+   {
+    "quote": "対応率はAliExpressで98.1%、eBay UKで94.3%に達しました",
+    "url": "https://www.marqvision.com/jp/brand-protection/customers/coloring-your-own",
+    "pass": 1
+   },
+   {
+    "quote": "新製品、新デザイン、インフルエンサー施策やPRに使える時間が戻った",
+    "url": "https://www.marqvision.com/jp/brand-protection/customers/coloring-your-own",
+    "pass": 1
+   },
+   {
+    "quote": "インフルエンサーとの提携や新たなPR会社とともに成長を続けながら、透かしや、繰り返し柄をコピーしにくくする折り目など、デザインそのものに新しい保護策を組み込んでいます",
+    "url": "https://www.marqvision.com/jp/brand-protection/customers/coloring-your-own",
+    "pass": 1
+   },
+   {
+    "quote": "How a Global Premium Consumer",
+    "url": "https://www.marqvision.com/media/customers/consumer-brand-counterfeit-saturation-46-to-26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Key Takeaways ¢ Aglobal premium consumer brand cut its counterfeit saturation rate from 46% to",
+    "url": "https://www.marqvision.com/media/customers/consumer-brand-counterfeit-saturation-46-to-26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "global brand protection program on MarqVision.",
+    "url": "https://www.marqvision.com/media/customers/consumer-brand-counterfeit-saturation-46-to-26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "storefronts, fraudulent ads, and dupe content across social — all ripping off",
+    "url": "https://www.marqvision.com/media/customers/consumer-brand-counterfeit-saturation-46-to-26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "that are infringing — plus end-to-end coverage across marketplaces, social media,",
+    "url": "https://www.marqvision.com/media/customers/consumer-brand-counterfeit-saturation-46-to-26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "websites, domain names, and paid ads.",
+    "url": "https://www.marqvision.com/media/customers/consumer-brand-counterfeit-saturation-46-to-26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "e The decline followed a predictable curve: a steep early drop, a slower middle",
+    "url": "https://www.marqvision.com/media/customers/consumer-brand-counterfeit-saturation-46-to-26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "A Strong Program Built for a Slower Era",
+    "url": "https://www.marqvision.com/media/customers/consumer-brand-counterfeit-saturation-46-to-26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "By every conventional measure, this brand's protection program was healthy: a",
+    "url": "https://www.marqvision.com/media/customers/consumer-brand-counterfeit-saturation-46-to-26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "But the program's pace hadn't kept up. Innovation had stalled, visibility into what was",
+    "url": "https://www.marqvision.com/media/customers/consumer-brand-counterfeit-saturation-46-to-26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "faking things across the industry: convincing product images, cloned storefronts,",
+    "url": "https://www.marqvision.com/media/customers/consumer-brand-counterfeit-saturation-46-to-26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "fraudulent ads, viral dupe content, and impersonating domains could now be spun up",
+    "url": "https://www.marqvision.com/media/customers/consumer-brand-counterfeit-saturation-46-to-26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "What once took a counterfeiting operation real effort can now be produced at",
+    "url": "https://www.marqvision.com/media/customers/consumer-brand-counterfeit-saturation-46-to-26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "machine speed. Counterfeiting stopped being a marketplace-listings problem and",
+    "url": "https://www.marqvision.com/media/customers/consumer-brand-counterfeit-saturation-46-to-26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "became an every-surface problem: anywhere a customer might search, scroll, click, or",
+    "url": "https://www.marqvision.com/media/customers/consumer-brand-counterfeit-saturation-46-to-26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Meanwhile, the program's own numbers couldn't say whether it was keeping up.",
+    "url": "https://www.marqvision.com/media/customers/consumer-brand-counterfeit-saturation-46-to-26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "harder question: if we keep removing more listings every period, is the problem",
+    "url": "https://www.marqvision.com/media/customers/consumer-brand-counterfeit-saturation-46-to-26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "growing, or are we making progress? Effort-based metrics answer \"how much did we",
+    "url": "https://www.marqvision.com/media/customers/consumer-brand-counterfeit-saturation-46-to-26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "searches for our product, what do they see?",
+    "url": "https://www.marqvision.com/media/customers/consumer-brand-counterfeit-saturation-46-to-26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "To pressure-test that thesis, the brand ran a blind, competitive evaluation against",
+    "url": "https://www.marqvision.com/media/customers/consumer-brand-counterfeit-saturation-46-to-26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "But a trial win alone doesn't move an entire global program. The decision came down",
+    "url": "https://www.marqvision.com/media/customers/consumer-brand-counterfeit-saturation-46-to-26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Every vendor can produce takedown counts. MarqVision was the only vendor in the",
+    "url": "https://www.marqvision.com/media/customers/consumer-brand-counterfeit-saturation-46-to-26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "and counting the removals, a saturation-based program monitors the specific searches",
+    "url": "https://www.marqvision.com/media/customers/consumer-brand-counterfeit-saturation-46-to-26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "means Ambiguous: more effort, or a growing problem? Unambiguous: consumer exposure is rising",
+    "url": "https://www.marqvision.com/media/customers/consumer-brand-counterfeit-saturation-46-to-26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "What it proves tothe send and effort Impact and progress",
+    "url": "https://www.marqvision.com/media/customers/consumer-brand-counterfeit-saturation-46-to-26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "President & CEO, Hollywood C if Commerce",
+    "url": "https://www.marqvision.com/media/customers/hollywood-chamber-of-commerce/320f847fdaec.webp",
+    "pass": 2
+   },
+   {
+    "quote": "マークは、Google、Chanel、Sprinklrなどの大手企業出身の経営幹部で構成される経験豊富な経営チームを率いています",
+    "url": "https://salesforceventures.com/ja/perspectives/marqvision%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%EF%BC%81/",
+    "pass": 3
+   },
+   {
+    "quote": "MarqVisionのBrand Protection Specialistの求人応募",
+    "url": "https://job-boards.greenhouse.io/marqvision/jobs/5151623008",
+    "pass": 3
+   },
+   {
+    "quote": "Brand Protection Specialist",
+    "url": "https://job-boards.greenhouse.io/marqvision/jobs/5151623008",
+    "pass": 3
+   },
+   {
+    "quote": "選考プロセス / Interview Process",
+    "url": "https://job-boards.greenhouse.io/marqvision/jobs/5151623008",
+    "pass": 3
+   },
+   {
+    "quote": "By applying for this role, you acknowledge MarqVision’s Global Recruiting Privacy Policy. Your privacy is important to us. Please review our",
+    "url": "https://job-boards.greenhouse.io/marqvision/jobs/5151623008",
+    "pass": 3
+   },
+   {
+    "quote": "Candidate Privacy Notice",
+    "url": "https://job-boards.greenhouse.io/marqvision/jobs/5151623008",
+    "pass": 3
+   },
+   {
+    "quote": "お金の専門家：7,11,4ハックで$1が月$10Kに変わる！- Daniel Priestley",
+    "url": "https://www.youtube.com/watch?v=-39Yq-67MvU",
+    "pass": 3
+   },
+   {
+    "quote": "God’s Content Creation Secrets",
+    "url": "https://www.youtube.com/watch?v=-39Yq-67MvU",
+    "pass": 3
+   },
+   {
+    "quote": "Ultimate GEO / AEO Course for Marketing Leaders",
+    "url": "https://www.youtube.com/watch?v=-39Yq-67MvU",
+    "pass": 3
+   },
+   {
+    "quote": "20,498回視聴 • 2023/05/30 • #eo #entrepreneurship #MarqVision",
+    "url": "https://www.youtube.com/watch?v=-39Yq-67MvU",
+    "pass": 3
+   },
+   {
+    "quote": "EOはEntrepreneurship & Opportunities（起業家精神と機会）の略です",
+    "url": "https://www.youtube.com/watch?v=-39Yq-67MvU",
+    "pass": 3
+   },
+   {
+    "quote": "global counterfeiting problem with cutting-edge technology; Brand protection veteran",
+    "url": "https://www.prweb.com/releases/marqvision-puts-counterfeiters-on-notice-with-advanced-detection-capabilities-that-spot-fake-goods-through-social-in-under-one-minute-with-99-accuracy-302357020.html",
+    "pass": 3
+   },
+   {
+    "quote": "/PRNewswire-PRWeb/ --",
+    "url": "https://www.prweb.com/releases/marqvision-puts-counterfeiters-on-notice-with-advanced-detection-capabilities-that-spot-fake-goods-through-social-in-under-one-minute-with-99-accuracy-302357020.html",
+    "pass": 3
+   },
+   {
+    "quote": ", the leader in online brand protection, today announced the general availability of its game-changing Conversational Assistant product within its",
+    "url": "https://www.prweb.com/releases/marqvision-puts-counterfeiters-on-notice-with-advanced-detection-capabilities-that-spot-fake-goods-through-social-in-under-one-minute-with-99-accuracy-302357020.html",
+    "pass": 3
+   },
+   {
+    "quote": "With Marq AI's Conversational Assistant, however, MarqVision applies generative AI and proprietary technology to detect which messages are selling counterfeits across multiple languages and swiftly gathers the evidence that brands need for enforcement. No other brand protection platform can provide this level of detection at scale with such a high degree of accuracy.",
+    "url": "https://www.prweb.com/releases/marqvision-puts-counterfeiters-on-notice-with-advanced-detection-capabilities-that-spot-fake-goods-through-social-in-under-one-minute-with-99-accuracy-302357020.html",
+    "pass": 3
+   },
+   {
+    "quote": "\"With Conversational Assistant, we are giving brands superpowers against counterfeiters. This product roots out one of the stealthiest tactics of bad actors so that they can be shut down quickly,\" said",
+    "url": "https://www.prweb.com/releases/marqvision-puts-counterfeiters-on-notice-with-advanced-detection-capabilities-that-spot-fake-goods-through-social-in-under-one-minute-with-99-accuracy-302357020.html",
+    "pass": 3
+   },
+   {
+    "quote": ", CEO and co-founder of MarqVision. \"This is one of many advancements to come from MarqVision. We've added several exceptional leaders to our team to further accelerate our innovation initiatives, underscoring our deep commitment to protect brands' most valuable assets– their IP and their reputational capital.\"",
+    "url": "https://www.prweb.com/releases/marqvision-puts-counterfeiters-on-notice-with-advanced-detection-capabilities-that-spot-fake-goods-through-social-in-under-one-minute-with-99-accuracy-302357020.html",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Voices in Brand Protection Drive Innovation Forward",
+    "url": "https://www.prweb.com/releases/marqvision-puts-counterfeiters-on-notice-with-advanced-detection-capabilities-that-spot-fake-goods-through-social-in-under-one-minute-with-99-accuracy-302357020.html",
+    "pass": 3
+   },
+   {
+    "quote": "In addition to Conversational Assistant, MarqVision also announced that well-known brand protection expert",
+    "url": "https://www.prweb.com/releases/marqvision-puts-counterfeiters-on-notice-with-advanced-detection-capabilities-that-spot-fake-goods-through-social-in-under-one-minute-with-99-accuracy-302357020.html",
+    "pass": 3
+   },
+   {
+    "quote": "is widely known for creating impactful data and machine learning products using the latest technologies. His experience spans the full development spectrum, from designing low-level frameworks to crafting intuitive user interfaces, and translating cutting-edge research into real-world applications at Google and Tensorflow. He holds a PhD from",
+    "url": "https://www.prweb.com/releases/marqvision-puts-counterfeiters-on-notice-with-advanced-detection-capabilities-that-spot-fake-goods-through-social-in-under-one-minute-with-99-accuracy-302357020.html",
+    "pass": 3
+   },
+   {
+    "quote": "Head of Brand Protection: A Brand Protection leader with extensive product and operations management expertise, Morgan comes to MarqVision from Vorys, Sater, Seymour and Pease, where he was the Senior Director of Brand Management. He also spent 14 years with MarkMonitor, where he worked with",
+    "url": "https://www.prweb.com/releases/marqvision-puts-counterfeiters-on-notice-with-advanced-detection-capabilities-that-spot-fake-goods-through-social-in-under-one-minute-with-99-accuracy-302357020.html",
+    "pass": 3
+   },
+   {
+    "quote": ", Head of Global Customer Success: Yang is a distinguished leader when it comes to helping customers meet and exceed their goals. He most recently served as VP of Customer Success at Gem, after spending five years as an Enterprise Customer Success Leader at Optimizely.",
+    "url": "https://www.prweb.com/releases/marqvision-puts-counterfeiters-on-notice-with-advanced-detection-capabilities-that-spot-fake-goods-through-social-in-under-one-minute-with-99-accuracy-302357020.html",
+    "pass": 3
+   },
+   {
+    "quote": ", Head of Marketing: A veteran marketing leader, Kim honed her expertise during her more than eight years at Google. She also served as the Director of Product Marketing at Navan, and held key positions as the company went through a hyper-growth phase and successfully expanded into the upmarket segment.",
+    "url": "https://www.prweb.com/releases/marqvision-puts-counterfeiters-on-notice-with-advanced-detection-capabilities-that-spot-fake-goods-through-social-in-under-one-minute-with-99-accuracy-302357020.html",
+    "pass": 3
+   },
+   {
+    "quote": "MarqVision is a recognized leader in the fight against counterfeiting, establishing a strong track record of quickly identifying and seamlessly removing counterfeit listings, as well as protecting trademarks and successfully collaborating with local government officials to shut down counterfeiting operations all over the world.",
+    "url": "https://www.prweb.com/releases/marqvision-puts-counterfeiters-on-notice-with-advanced-detection-capabilities-that-spot-fake-goods-through-social-in-under-one-minute-with-99-accuracy-302357020.html",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "pellwyn-factory-outlet.com",
+    "url": "https://www.marqvision.com/jp/home",
+    "pass": 1
+   },
+   {
+    "quote": "エコシステム パートナーシップ責任者 · 約20年 · 前職：eBay, Wish, SunPower, Plantronics",
+    "url": "https://www.marqvision.com/jp/home",
+    "pass": 1
+   },
+   {
+    "quote": "エコシステム パートナーシップ責任者 · 約20年 · 前職：eBay, Wish, SunPower, Plantronics",
+    "url": "https://www.marqvision.com/jp/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study 1",
+    "url": "https://www.marqvision.com/media/customers/consumer-brand-counterfeit-saturation-46-to-26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "with manual review and effort-based reporting. If Al was industrializing the attack, the",
+    "url": "https://www.marqvision.com/media/customers/consumer-brand-counterfeit-saturation-46-to-26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "to expand globally, strengthening its presence in markets like Japan. MarqVision has doubled its annual recurring revenue each year amid continued adoption by brands in the fashion, luxury, beauty, gaming, pharmaceuticals, entertainment, automotive and consumer electronics industries. MarqVision works with more than 350 brands worldwide.",
+    "url": "https://www.builtinla.com/articles/marqvision-raises-48m-series-b-20250917",
+    "pass": 3
+   },
+   {
+    "quote": "12 Top Manufacturing Companies in Los Angeles",
+    "url": "https://www.builtinla.com/articles/marqvision-raises-48m-series-b-20250917",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "@pellwyn.japan.official",
+    "url": "https://www.marqvision.com/jp/home",
+    "pass": 1
+   },
+   {
+    "quote": "中国、韓国、日本の200名以上の専門家が、現地で権利行使を担います",
+    "url": "https://www.marqvision.com/jp/home",
+    "pass": 1
+   },
+   {
+    "quote": "Lezhin Comicsは、韓国と日本のウェブトゥーンをサブスクリプションで提供するグローバルなウェブトゥーンプラットフォームです",
+    "url": "https://www.marqvision.com/jp/customers/home",
+    "pass": 1
+   },
+   {
+    "quote": "拠点：ロサンゼルス（本社）、サンフランシスコ、ニューヨーク、ロンドン、パリ、ソウル、上海、東京",
+    "url": "https://www.marqvision.com/jp/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "〒102-0083 東京都千代田区麹町6-6-2 番町麹町ビルディング 5F",
+    "url": "https://www.marqvision.com/jp/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Marvis Korea 導入事例 | Marq AIによる並行輸入・模倣品対策",
+    "url": "https://www.marqvision.com/jp/brand-protection/customers/marvis",
+    "pass": 1
+   },
+   {
+    "quote": "Hollywood Chamber of Commerce 導入事例",
+    "url": "https://www.marqvision.com/jp/brand-protection/customers/hollywood-chamber-of-commerce",
+    "pass": 1
+   },
+   {
+    "quote": "K-ビューティーを代表するブランドとして、韓国と日本の権威あるビューティーアワードを席巻しただけでなく、ブラックフライデーのような大型ショッピングイベントでは最も話題になったビューティーブランドでもありました",
+    "url": "https://www.marqvision.com/jp/brand-protection/customers/romand",
+    "pass": 1
+   },
+   {
+    "quote": "Q：フランス、日本、中国で活動されていますが、次に狙う国はどこですか",
+    "url": "https://www.marqvision.com/jp/brand-protection/customers/romand",
+    "pass": 1
+   },
+   {
+    "quote": "導入事例 | Coloring Your Own",
+    "url": "https://www.marqvision.com/jp/brand-protection/customers/coloring-your-own",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、今年8月には将来性の高い日本市場での事業を開始し、更なる事業拡大を目指しています",
+    "url": "https://salesforceventures.com/ja/perspectives/marqvision%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%EF%BC%81/",
+    "pass": 3
+   },
+   {
+    "quote": "MarqVisionに投資した理由──日本の知財とブランドを守る | Coral Capital",
+    "url": "https://coralcap.co/2025/09/our-investment-in-marqvision-defending-japans-ip-in-the-age-of-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Coralでは、知的財産（IP）が日本にとって最も大きな資産の一つであり、同時に世界的に見ても最もリスクにさらされている分野の一つであると、以前から認識してきました",
+    "url": "https://coralcap.co/2025/09/our-investment-in-marqvision-defending-japans-ip-in-the-age-of-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "アニメやファッションから先端製造業まで、IPは日本の文化的・経済的影響力の基盤となっています",
+    "url": "https://coralcap.co/2025/09/our-investment-in-marqvision-defending-japans-ip-in-the-age-of-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "実際、日本は2023年と2024年に「国家ブランド指数」で世界第1位に選ばれました",
+    "url": "https://coralcap.co/2025/09/our-investment-in-marqvision-defending-japans-ip-in-the-age-of-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "MarqVisionは米国（ロサンゼルス、サンフランシスコ、ニューヨーク）、欧州（パリ）、アジア（ソウル、上海、そして東京）にオフィスを構え、問題が発生する現場で直接対策を行いながら、ブランドにも近い位置で活動しています",
+    "url": "https://coralcap.co/2025/09/our-investment-in-marqvision-defending-japans-ip-in-the-age-of-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "今回のラウンドを機に、MarqVisionは正式に日本での事業を開始しました",
+    "url": "https://coralcap.co/2025/09/our-investment-in-marqvision-defending-japans-ip-in-the-age-of-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "日本展開をリードするため、MarqVisionは鈴木 壮氏を初代カントリーマネージャーに迎えました",
+    "url": "https://coralcap.co/2025/09/our-investment-in-marqvision-defending-japans-ip-in-the-age-of-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "8月には、弊社Coral Capitalの虎ノ門オフィスで「MarqVision Japan ローンチイベント」が開催されました",
+    "url": "https://coralcap.co/2025/09/our-investment-in-marqvision-defending-japans-ip-in-the-age-of-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "特に日本のように、世界的に見て大きな潜在力を持ちながらもIPが十分に活用されていない市場では、その可能性は非常に魅力的です",
+    "url": "https://coralcap.co/2025/09/our-investment-in-marqvision-defending-japans-ip-in-the-age-of-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都渋谷区渋谷2-24-12 渋谷スクランブルスクエア",
+    "url": "https://www.expo-form.com/united2025/usr_detail.php?ucd=114",
+    "pass": 3
+   },
+   {
+    "quote": "日本初上陸となる今回は、「スピードと精度」を両立する次世代AIの知財保護を提供します",
+    "url": "https://www.expo-form.com/united2025/usr_detail.php?ucd=114",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo, Japan",
+    "url": "https://job-boards.greenhouse.io/marqvision/jobs/5151623008",
+    "pass": 3
+   },
+   {
+    "quote": "日本のエンタープライズ顧客の求める精緻なクオリティに合致する几帳面さ",
+    "url": "https://job-boards.greenhouse.io/marqvision/jobs/5151623008",
+    "pass": 3
+   },
+   {
+    "quote": "世界でも指折りの高い要求を求める日本のエンタープライズ顧客の要望を満たすための深い理解とそれを実行するための厳密なタスク管理と丁寧な業務遂行能力",
+    "url": "https://job-boards.greenhouse.io/marqvision/jobs/5151623008",
+    "pass": 3
+   },
+   {
+    "quote": "日本語ネイティブレベル・英語ビジネスレベル",
+    "url": "https://job-boards.greenhouse.io/marqvision/jobs/5151623008",
+    "pass": 3
+   },
+   {
+    "quote": "Panasonic・日産自動車・SEGA・Mizunoのような日本を代表するブランドのIP案件を直接担当",
+    "url": "https://job-boards.greenhouse.io/marqvision/jobs/5151623008",
+    "pass": 3
+   },
+   {
+    "quote": "2013年にいままで日本市場に存在しなかったブランド保護市場を開拓したカントリーマネージャーとの二人三脚でのゼロイチ開拓の経験ができる",
+    "url": "https://job-boards.greenhouse.io/marqvision/jobs/5151623008",
+    "pass": 3
+   },
+   {
+    "quote": "アニメ・ゲーム・精密機器・自動車部品など、日本固有の模倣品課題に特化した深い専門性が身につく",
+    "url": "https://job-boards.greenhouse.io/marqvision/jobs/5151623008",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場立ち上げ期における、大きな裁量権と迅速な意思決定が可能な環境",
+    "url": "https://job-boards.greenhouse.io/marqvision/jobs/5151623008",
+    "pass": 3
+   },
+   {
+    "quote": "【動画AIが、ロボットを動かす】動画モデルは「世界の物理」を学ぶ／世界3番目の市場・日本に4000万ドル／Runway CEOに聞く",
+    "url": "https://www.youtube.com/watch?v=SR-4tPDhPek&vl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Coral Capital、Build with Japan",
+    "url": "https://www.youtube.com/watch?v=SR-4tPDhPek&vl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "【Anduril】評価額9.7兆円の米防衛テックが日本に来た理由／日本に1兆円分の装備品が届かない／秋田の町工場が選んだ理由 | Startup Aquarium 2026",
+    "url": "https://www.youtube.com/watch?v=SR-4tPDhPek&vl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "【1万ドルのアームが、数兆円の会社を生んだ】日本の精密ロボットに「なかったもの」／LPはトヨタと双日・230億円の1号ファンド／Red Glass Ventures ビラル・ズベリ氏に聞く",
+    "url": "https://www.youtube.com/watch?v=SR-4tPDhPek&vl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "To date, MarqVision has a presence in Asia, the U.S., and Europe. Its on-the-ground talent, network, and expertise in Asia — a major epicenter for counterfeit goods — are unique and a key source of its competitive advantage. What’s more, the company is still expanding its footprint, having launched operations in the high-potential Japanese market in August.",
+    "url": "https://salesforceventures.com/perspectives/welcome-marqvision/",
+    "pass": 3
+   },
+   {
+    "quote": "to expand globally, strengthening its presence in markets like Japan. MarqVision has doubled its annual recurring revenue each year amid continued adoption by brands in the fashion, luxury, beauty, gaming, pharmaceuticals, entertainment, automotive and consumer electronics industries. MarqVision works with more than 350 brands worldwide.",
+    "url": "https://www.builtinla.com/articles/marqvision-raises-48m-series-b-20250917",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Gabriela Felix Francisco、知財法務担当、Cosmetic Warriors（Lush）",
+    "url": "https://www.marqvision.com/jp/brand-protection/customers/lush",
+    "pass": 1
+   },
+   {
+    "quote": "and points to where revenue recovery efforts should focus next.",
+    "url": "https://www.marqvision.com/media/customers/consumer-brand-counterfeit-saturation-46-to-26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Clean listings Discarded — they never enter the pipeline Classified — they are part of the denominator",
+    "url": "https://www.marqvision.com/media/customers/consumer-brand-counterfeit-saturation-46-to-26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "The qualitative signal arrived from the field. The brand's regional teams around the",
+    "url": "https://www.marqvision.com/media/customers/consumer-brand-counterfeit-saturation-46-to-26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "MarqVisionは2025年初頭にARR 2,000万ドルを突破し、世界118カ国・1,500以上のプラットフォームで300社を超えるグローバルブランドに包括的なブランドコントロールを提供しています",
+    "url": "https://coralcap.co/2025/09/our-investment-in-marqvision-defending-japans-ip-in-the-age-of-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "【1日密着】爆弾を作り、家を差し押さえられた少年が上場企業を創業するまで",
+    "url": "https://www.youtube.com/watch?v=SR-4tPDhPek&vl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "MarqVision Revenue 2025: $25M ARR, $89M Raised",
+    "url": "https://getlatka.com/companies/marqvision",
+    "pass": 3
+   },
+   {
+    "quote": "MarqVision revenue & ARR",
+    "url": "https://getlatka.com/companies/marqvision",
+    "pass": 3
+   },
+   {
+    "quote": "MarqVision's annual recurring revenue passed $25M in September 2025 (signalhub.substack.com). That is up 38% from $18.1M a year earlier.",
+    "url": "https://getlatka.com/companies/marqvision",
+    "pass": 3
+   },
+   {
+    "quote": "All 4 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/marqvision",
+    "pass": 3
+   },
+   {
+    "quote": "MarqVision CEO, founders & employees",
+    "url": "https://getlatka.com/companies/marqvision",
+    "pass": 3
+   },
+   {
+    "quote": "Mark Lee founded MarqVision in 2019 and runs it as CEO. MarqVision had 110 employees (October 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/marqvision",
+    "pass": 3
+   },
+   {
+    "quote": "What is MarqVision's revenue?",
+    "url": "https://getlatka.com/companies/marqvision",
+    "pass": 3
+   },
+   {
+    "quote": "MarqVision's annual recurring revenue passed",
+    "url": "https://getlatka.com/companies/marqvision",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does MarqVision have?",
+    "url": "https://getlatka.com/companies/marqvision",
+    "pass": 3
+   },
+   {
+    "quote": "employees in October 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/marqvision",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/marqvision",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/marqvision",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/marqvision",
+    "pass": 3
+   },
+   {
+    "quote": ", a Los Angeles-based brand control platform, raised $48 million in Series B funding. The round, led by Peak XV Partners, brings its total funding to $90 million. The funding raise coincides with MarqVision’s new brand vision, reinforcing its focus on delivering modern brand protection and revenue recovery solutions.",
+    "url": "https://www.builtinla.com/articles/marqvision-raises-48m-series-b-20250917",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2020, MarqVision uses AI and intellectual property expertise to help companies detect and remove counterfeits, impersonations, piracy and unauthorized sales across more than 1,500 platforms in over 118 countries. Its managed services are designed to protect revenue and preserve brand equity across digital and physical touchpoints.",
+    "url": "https://www.builtinla.com/articles/marqvision-raises-48m-series-b-20250917",
+    "pass": 3
+   },
+   {
+    "quote": "to expand globally, strengthening its presence in markets like Japan. MarqVision has doubled its annual recurring revenue each year amid continued adoption by brands in the fashion, luxury, beauty, gaming, pharmaceuticals, entertainment, automotive and consumer electronics industries. MarqVision works with more than 350 brands worldwide.",
+    "url": "https://www.builtinla.com/articles/marqvision-raises-48m-series-b-20250917",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "team fielded an estimated 5 to 10 of those emails a week, each requiring a vendor",
+    "url": "https://www.marqvision.com/media/customers/consumer-brand-counterfeit-saturation-46-to-26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "email and a follow-up. Now, most of that traffic is gone, and when a question does",
+    "url": "https://www.marqvision.com/media/customers/consumer-brand-counterfeit-saturation-46-to-26.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "AIブランド保護・模倣品対策プラットフォーム - MarqVision — AIブランド保護・模倣品対策プラットフォーム - MarqVision MarqVision https://www.marqvision.com > ...",
+    "url": "https://www.marqvision.com/jp/home",
+    "pass": 3
+   },
+   {
+    "quote": "MarqVision へようこそ！ - Salesforce Ventures — MarqVision へようこそ！ - Salesforce Ventures Salesforce Ventures https://salesforceventures.com > Perspectives",
+    "url": "https://salesforceventures.com/ja/perspectives/marqvision%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%EF%BC%81/",
+    "pass": 3
+   },
+   {
+    "quote": "MarqVision に投資した理由 日本 の知財とブランドを守る — MarqVision に投資した理由 日本 の知財とブランドを守る Coral Capital https://coralcap.co > Media",
+    "url": "https://coralcap.co/2025/09/our-investment-in-marqvision-defending-japans-ip-in-the-age-of-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "MarqVision Inc：採用ピッチ | Startup Aquarium 2026 - YouTube — MarqVision Inc：採用ピッチ | Startup Aquarium 2026 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=SR-4tPDhPek&vl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "MarqVision のBrand Protection Specialistの求人応募 — MarqVision のBrand Protection Specialistの求人応募 Greenhouse http://job-boards.greenhouse.io > marqvision > jobs",
+    "url": "http://job-boards.greenhouse.io/marqvision/jobs/5151623008",
+    "pass": 3
+   },
+   {
+    "quote": "MarqVision | AI Brand Protection and Control — MarqVision | AI Brand Protection and Control MarqVision https://www.marqvision.com",
+    "url": "https://www.marqvision.com/",
+    "pass": 3
+   },
+   {
+    "quote": "MarqVision - LinkedIn — MarqVision - LinkedIn LinkedIn https://www.linkedin.com > marqvision",
+    "url": "https://www.linkedin.com/company/marqvision",
+    "pass": 3
+   },
+   {
+    "quote": "MarqVision Puts Counterfeiters on Notice With Advanced ... — MarqVision Puts Counterfeiters on Notice With Advanced ... PRWeb https://www.prweb.com > releases",
+    "url": "https://www.prweb.com/releases/marqvision-puts-counterfeiters-on-notice-with-advanced-detection-capabilities-that-spot-fake-goods-through-social-in-under-one-minute-with-99-accuracy-302357020.html",
+    "pass": 3
+   },
+   {
+    "quote": "Welcome, MarqVision ! - Salesforce Ventures — Welcome, MarqVision ! - Salesforce Ventures Salesforce Ventures https://salesforceventures.com > welc...",
+    "url": "https://salesforceventures.com/perspectives/welcome-marqvision/",
+    "pass": 3
+   },
+   {
+    "quote": "MarqVision : IP operating software for brands ... - Y Combinator — MarqVision : IP operating software for brands ... - Y Combinator Y Combinator https://www.ycombinator.com > marq...",
+    "url": "https://www.ycombinator.com/companies/marqvision",
+    "pass": 3
+   },
+   {
+    "quote": "MarqVision - Brand Protection Software - RFP.wiki — MarqVision - Brand Protection Software - RFP.wiki rfp.wiki https://www.rfp.wiki > marqvision",
+    "url": "https://www.rfp.wiki/marketing/brand-protection-software/marqvision",
+    "pass": 3
+   },
+   {
+    "quote": "MarqVision Revenue 2025: $25M ARR, $89M Raised - GetLatka — MarqVision Revenue 2025: $25M ARR, $89M Raised - GetLatka GetLatka https://getlatka.com > marqvision",
+    "url": "https://getlatka.com/companies/marqvision",
+    "pass": 3
+   },
+   {
+    "quote": "MarqVision Raises $48M in Series B Funding to Advance ... — MarqVision Raises $48M in Series B Funding to Advance ... MarqVision https://www.marqvision.com > blog",
+    "url": "https://www.marqvision.com/blog/marqvision-series-b-funding",
+    "pass": 3
+   },
+   {
+    "quote": "MarqVision Raises $48M to Enable AI-Powered Brand Control — MarqVision Raises $48M to Enable AI-Powered Brand Control Built In Los Angeles https://www.builtinla.com > articles",
+    "url": "https://www.builtinla.com/articles/marqvision-raises-48m-series-b-20250917",
+    "pass": 3
+   },
+   {
+    "quote": "MarqVision - Crunchbase Company Profile & Funding — MarqVision - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > marq",
+    "url": "https://www.crunchbase.com/organization/marq",
+    "pass": 3
+   },
+   {
+    "quote": "MarqVision Lands $48 Million in Series B Funding - LA Times — MarqVision Lands $48 Million in Series B Funding - LA Times Los Angeles Times https://www.latimes.com > story > ma...",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-18/marqvision-48m-series-b-funding",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "ブランド保護と収益回復を支援する MarqVision がシリーズB ... ブランド保護と収益回復を支援する MarqVision がシリーズB ... note.com https://note.com > startuplog",
+    "url": "https://note.com/startuplog/n/n77291b002c53",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "ブランド保護と収益回復を支援するMarqVisionがシリーズBラウンドで4,800万ドルの資金調達を実施｜STARTUP LOG｜スタートアップの挑戦を、もっと身近に｜スタログ｜STALOG｜",
+    "url": "https://startuplog.com/n/n77291b002c53?gs=0c4c941cb7a9eb36a3ca3d29f48d9ef8",
+    "pass": 3
+   },
+   {
+    "quote": "ブランド保護と収益回復を支援するMarqVisionがシリーズBラウンドで4,800万ドルの資金調達を実施",
+    "url": "https://startuplog.com/n/n77291b002c53?gs=0c4c941cb7a9eb36a3ca3d29f48d9ef8",
+    "pass": 3
+   },
+   {
+    "quote": "STARTUP LOG｜スタートアップの挑戦を、もっと身近に｜スタログ｜STALOG｜",
+    "url": "https://startuplog.com/n/n77291b002c53?gs=0c4c941cb7a9eb36a3ca3d29f48d9ef8",
+    "pass": 3
+   },
+   {
+    "quote": "調達額：4,800万ドル（約70億7,072万円）",
+    "url": "https://startuplog.com/n/n77291b002c53?gs=0c4c941cb7a9eb36a3ca3d29f48d9ef8",
+    "pass": 3
+   },
+   {
+    "quote": "Global Insight -海外スタートアップニュース-",
+    "url": "https://startuplog.com/n/n77291b002c53?gs=0c4c941cb7a9eb36a3ca3d29f48d9ef8",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "守屋貴行 Takayuki Moriya on X: \" MARQVISION のビジョンが ... 守屋貴行 Takayuki Moriya on X: \" MARQVISION のビジョンが ... X https://x.com > @moriyan0626",
+    "url": "https://x.com/moriyan0626/status/1958869626269622652",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "MarqVision - LinkedIn MarqVision - LinkedIn LinkedIn https://www.linkedin.com > marqvision",
+    "url": "https://www.linkedin.com/company/marqvision",
+    "pass": 3
+   },
+   {
+    "quote": "Binna K. - Global Head of Product @ MarqVision - LinkedIn Binna K. - Global Head of Product @ MarqVision - LinkedIn LinkedIn https://www.linkedin.com > binnakim",
+    "url": "https://www.linkedin.com/in/binnakim",
+    "pass": 3
+   },
+   {
+    "quote": "Mark I. Lee - Founder & CEO at MarqVision - LinkedIn Mark I. Lee - Founder & CEO at MarqVision - LinkedIn LinkedIn https://www.linkedin.com > insup",
+    "url": "https://www.linkedin.com/in/insup",
+    "pass": 3
+   },
+   {
+    "quote": "MarqVision : Jobs - LinkedIn MarqVision : Jobs - LinkedIn LinkedIn https://www.linkedin.com > jobs",
+    "url": "https://www.linkedin.com/company/marqvision/jobs",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Marq Vision , an AI-powered anti-counterfeits startup ... Marq Vision , an AI-powered anti-counterfeits startup ... Facebook https://www.facebook.com > forbes > posts > marq-vision...",
+    "url": "https://www.facebook.com/forbes/posts/marq-vision-an-ai-powered-anti-counterfeits-startup-cofounded-by-a-south-korean/1165707042085951/",
+    "pass": 3
+   },
+   {
+    "quote": "마크비전 (@marqvisionkr) - Facebook 마크비전 (@marqvisionkr) - Facebook Facebook https://www.facebook.com > ... > Legal > Legal Service",
+    "url": "https://www.facebook.com/marqvisionkr/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.marqvision.com/jp/home",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marqvision.com/jp/partnership",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marqvision.com/jp/customers/home",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marqvision.com/jp/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marqvision.com/jp/brand-protection/customers/mschf",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marqvision.com/jp/case-studies/consumer-brand-counterfeit-saturation-46-to-26",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marqvision.com/jp/brand-protection/customers/fnf",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marqvision.com/jp/brand-protection/customers/houndsy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marqvision.com/jp/brand-protection/customers/marvis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marqvision.com/jp/brand-protection/customers/hollywood-chamber-of-commerce",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marqvision.com/jp/brand-protection/customers/lush",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marqvision.com/jp/brand-protection/customers/romand",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marqvision.com/jp/brand-protection/customers/coloring-your-own",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.marqvision.com/media/customers/consumer-brand-counterfeit-saturation-46-to-26.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.marqvision.com/media/customers/coloring-your-own/9198b051a81d.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.marqvision.com/media/customers/houndsy/96bdc76cf2b1.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.marqvision.com/media/customers/hollywood-chamber-of-commerce/320f847fdaec.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.marqvision.com/brand/logos/wall/the-north-face.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://salesforceventures.com/ja/perspectives/marqvision%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%EF%BC%81/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coralcap.co/2025/09/our-investment-in-marqvision-defending-japans-ip-in-the-age-of-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.expo-form.com/united2025/usr_detail.php?ucd=114",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.expo-form.com/united2025/usr_detail.php?ucd=114",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job-boards.greenhouse.io/marqvision/jobs/5151623008",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=SR-4tPDhPek&vl=ja",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://coralcap.co/2025/09/our-investment-in-marqvision-defending-japans-ip-in-the-age-of-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/marqvision",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=-39Yq-67MvU",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.prweb.com/releases/marqvision-puts-counterfeiters-on-notice-with-advanced-detection-capabilities-that-spot-fake-goods-through-social-in-under-one-minute-with-99-accuracy-302357020.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://markforged.com/resources/case-studies/caldwell-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://salesforceventures.com/perspectives/welcome-marqvision/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/marqvision",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/marqvision",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/marqvision",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.builtinla.com/articles/marqvision-raises-48m-series-b-20250917",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/marq",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://startuplog.com/n/n77291b002c53?gs=0c4c941cb7a9eb36a3ca3d29f48d9ef8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/moriyan0626/status/1958869626269622652",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/marqvision",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/binnakim",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/insup",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/marqvision/jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/forbes/posts/marq-vision-an-ai-powered-anti-counterfeits-startup-cofounded-by-a-south-korean/1165707042085951/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/marqvisionkr/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/marqvision",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/marqvision",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Marqvision 日本 導入",
+   "results": [
+    "https://www.marqvision.com/jp/home",
+    "https://salesforceventures.com/ja/perspectives/marqvision%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%EF%BC%81/",
+    "https://coralcap.co/2025/09/our-investment-in-marqvision-defending-japans-ip-in-the-age-of-ai/",
+    "https://www.expo-form.com/united2025/usr_detail.php?ucd=114",
+    "https://www.youtube.com/watch?v=SR-4tPDhPek&vl=ja",
+    "http://job-boards.greenhouse.io/marqvision/jobs/5151623008",
+    "https://www.marqvision.com/jp/about-us",
+    "https://www.daijob.com/jobs/company/19007",
+    "https://jp.linkedin.com/posts/takeshi-suzuki-3660ab105_%E7%B1%B3ai%E6%96%B0%E8%88%88%E3%81%AE%E3%83%9E%E3%83%BC%E3%82%AF%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%8C71%E5%84%84%E5%86%86%E8%AA%BF%E9%81%94%E6%97%A5%E6%9C%AC%E3%81%A7%E5%81%BD%E9%80%A0%E5%93%81%E6%A4%9C%E7%9F%A5%E3%82%92%E6%9C%AC%E6%A0%BC%E5%8C%96-%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E-activity-7438140087269502976-IAS_"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Marqvision 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.marqvision.com/jp/home",
+    "https://www.expo-form.com/united2025/usr_detail.php?ucd=114",
+    "http://job-boards.greenhouse.io/marqvision/jobs/5151623008",
+    "https://www.youtube.com/watch?v=SR-4tPDhPek&vl=ja",
+    "https://salesforceventures.com/ja/perspectives/marqvision%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%EF%BC%81/",
+    "https://coralcap.co/2025/09/our-investment-in-marqvision-defending-japans-ip-in-the-age-of-ai/",
+    "https://jp.linkedin.com/in/takeshi-suzuki-3660ab105",
+    "https://www.korit.jp/news/ai/platum-marqvision-ai-marqai-sns-250127/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.dell.com/ja-jp/blog/837894/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Marqvision Japan",
+   "results": [
+    "https://www.marqvision.com/",
+    "https://www.marqvision.com/jp/home",
+    "https://coralcap.co/2025/09/our-investment-in-marqvision-defending-japans-ip-in-the-age-of-ai/",
+    "https://www.linkedin.com/company/marqvision",
+    "https://www.expo-form.com/united2025/usr_detail.php?ucd=114",
+    "http://job-boards.greenhouse.io/marqvision/jobs/5151623008",
+    "https://www.ycombinator.com/companies/marqvision",
+    "https://salesforceventures.com/perspectives/welcome-marqvision/",
+    "https://marke-vision.com/",
+    "https://techcrunch.com/2025/09/15/harvard-law-to-ai-marqvision-lands-48m-to-combat-brand-abuse/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "Marqvision manufacturing customer case study",
+   "results": [
+    "https://www.marqvision.com/",
+    "https://www.youtube.com/watch?v=-39Yq-67MvU",
+    "https://www.prweb.com/releases/marqvision-puts-counterfeiters-on-notice-with-advanced-detection-capabilities-that-spot-fake-goods-through-social-in-under-one-minute-with-99-accuracy-302357020.html",
+    "https://markforged.com/resources/case-studies/caldwell-manufacturing",
+    "https://markforged.com/resources/case-studies",
+    "https://salesforceventures.com/perspectives/welcome-marqvision/",
+    "https://kanerika.com/blogs/generative-ai-in-manufacturing/",
+    "https://useimagine.ai/case-studies/marqvision",
+    "https://www.linkedin.com/company/marqvision",
+    "https://www.marqvision.com/case-studies"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Marqvision white label OR reseller OR partner program",
+   "results": [
+    "https://www.marqvision.com/",
+    "https://salesforceventures.com/perspectives/welcome-marqvision/",
+    "https://www.linkedin.com/company/marqvision",
+    "https://www.ycombinator.com/companies/marqvision",
+    "https://www.rfp.wiki/marketing/brand-protection-software/marqvision",
+    "https://journeybee.io/resources/beyond-co-branding-why-white-label-partner-software-defines-winning-partnerships",
+    "https://www.youtube.com/watch?v=-39Yq-67MvU",
+    "https://www.capterra.com/p/191947/MarqVision/",
+    "https://techcrunch.com/2022/08/02/marqvision-wants-to-combat-counterfeit-goods-with-its-ai-powered-ip-protection-platform/",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Marqvision founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/marqvision",
+    "https://www.marqvision.com/blog/marqvision-series-b-funding",
+    "https://www.builtinla.com/articles/marqvision-raises-48m-series-b-20250917",
+    "https://www.crunchbase.com/organization/marq",
+    "https://www.latimes.com/b2b/ai-technology/story/2025-09-18/marqvision-48m-series-b-funding",
+    "https://growjo.com/company/MarqVision",
+    "https://www.facebook.com/forbes/posts/marq-vision-an-ai-powered-anti-counterfeits-startup-cofounded-by-a-south-korean/1165707042085951/",
+    "https://www.prnewswire.com/news-releases/marqvision-lands-48m-series-b-to-power-brand-control-and-revenue-growth-for-global-brands-302555518.html",
+    "https://tracxn.com/d/companies/marqvision/__W83UAfcMFmMXMpY1pQUlUEc57_i0hrHnZx1MH4O5MkU",
+    "https://compworth.com/company/marqvision"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Marqvision",
+   "results": [
+    "https://note.com/startuplog/n/n77291b002c53",
+    "https://note.com/jafcogroup8595/n/n5e457e03a783",
+    "https://note.com/cerealtalk/n/ne50874de0119",
+    "https://note.com/satoshi_hayasaki/n/nce4dd531cf31",
+    "https://note.com/the_ai_times/n/n14d1a7e0b438?hl=ko",
+    "https://note.com/startup_now0708/n/n43d0c5385e57?hl=en",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/tag/禍話リライト",
+    "https://note.com/",
+    "https://note.com/japan_best_trip/n/nae8f86cd243a"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:x.com Marqvision",
+   "results": [
+    "https://x.com/moriyan0626/status/1958869626269622652",
+    "https://x.com/coral_capital/status/2032335745701331227",
+    "https://x.com/coral_capital/status/2108515316368068925/video/1",
+    "https://x.com/finSMEs",
+    "https://x.com/joinmassive",
+    "https://x.com/coral_capital",
+    "https://x.com/MarqVision",
+    "https://x.com/MarqVision/status/2079204766501007764",
+    "https://x.com/MarqVision/with_replies",
+    "https://x.com/hashtag/marqvision"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:linkedin.com Marqvision",
+   "results": [
+    "https://www.linkedin.com/company/marqvision",
+    "https://www.linkedin.com/in/binnakim",
+    "https://www.linkedin.com/in/insup",
+    "https://www.linkedin.com/company/marqvision/jobs",
+    "https://www.linkedin.com/in/alexismalmberg",
+    "https://jp.linkedin.com/jobs/view/brand-protection-specialist-at-marqvision-4406951568",
+    "https://www.linkedin.com/in/spenceryu",
+    "https://jp.linkedin.com/jobs/view/account-executive-japan-at-marqvision-4374759920",
+    "https://www.linkedin.com/posts/y-combinator_marqvision-yc-s21-has-raised-48m-in-series-activity-7373491955772686336-wkQg",
+    "https://www.linkedin.com/products/marqvision-yc-s21/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Marqvision",
+   "results": [
+    "https://www.facebook.com/forbes/posts/marq-vision-an-ai-powered-anti-counterfeits-startup-cofounded-by-a-south-korean/1165707042085951/",
+    "https://www.facebook.com/marqvisionkr/",
+    "https://www.facebook.com/JamesWelsh.Videos/videos/the-truth-about-buying-k-beauty-on-amazon-skincare-amazon-viral/1720035092612991/",
+    "https://www.facebook.com/coralcapital/posts/%E6%B5%B7%E5%A4%96%E7%99%BA%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%81%AF%E6%97%A5%E6%9C%AC%E3%81%A7%E3%81%A9%E3%81%86%E4%BC%B8%E3%81%B3%E3%82%8B%E3%81%8B-%E9%80%B2%E5%87%BA1%E5%B9%B4%E4%BB%A5%E4%B8%8A%E5%89%8D%E3%81%AB%E5%BD%B9%E5%93%A1%E5%90%AB%E3%82%805%E4%BA%BA%E3%81%8C%E6%97%A5%E6%9C%AC%E3%81%AB1%E9%80%B1%E9%96%93%E6%BB%9E%E5%9C%A8-%E7%AB%8B%E3%81%A1%E4%B8%8A%E3%81%92%E3%81%AF1%E4%BA%BA%E5%96%B6%E6%A5%AD%E3%82%82%E6%8E%A1%E7%94%A8%E3%82%82%E3%81%99%E3%81%B9%E3%81%A6%E8%87%AA%E5%88%86%E3%81%A7-%E6%AC%B2%E3%81%97%E3%81%84%E3%81%AE%E3%81%AF%E5%A4%96%E8%B3%87%E5%87%BA%E8%BA%AB%E8%80%85%E3%82%88%E3%82%8A%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88/1640650654738119/",
+    "https://www.facebook.com/groups/620085907520234/posts/1136529135875906/",
+    "https://www.facebook.com/groups/idiotsofvinted/posts/2050185909252032/",
+    "https://www.facebook.com/carlynbag/",
+    "https://www.facebook.com/coralcapital/videos/%E6%B5%B7%E5%A4%96%E7%99%BA%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%81%AF%E6%97%A5%E6%9C%AC%E3%81%A7%E3%81%A9%E3%81%86%E4%BC%B8%E3%81%B3%E3%82%8B%E3%81%8B-%E9%80%B2%E5%87%BA1%E5%B9%B4%E4%BB%A5%E4%B8%8A%E5%89%8D%E3%81%AB%E5%BD%B9%E5%93%A1%E5%90%AB%E3%82%805%E4%BA%BA%E3%81%8C%E6%97%A5%E6%9C%AC%E3%81%AB1%E9%80%B1%E9%96%93%E6%BB%9E%E5%9C%A8-%E7%AB%8B%E3%81%A1%E4%B8%8A%E3%81%92%E3%81%AF1%E4%BA%BA%E5%96%B6%E6%A5%AD%E3%82%82%E6%8E%A1%E7%94%A8%E3%82%82%E3%81%99%E3%81%B9%E3%81%A6%E8%87%AA%E5%88%86%E3%81%A7-%E6%AC%B2%E3%81%97%E3%81%84%E3%81%AE%E3%81%AF%E5%A4%96%E8%B3%87%E5%87%BA%E8%BA%AB%E8%80%85%E3%82%88%E3%82%8A%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88/1096275119935742/",
+    "https://www.facebook.com/nkvaavik/",
+    "https://www.facebook.com/marqvision/about/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Marqvision note 社長",
+   "results": [
+    "https://www.marqvision.com/jp/about-us",
+    "https://salesforceventures.com/ja/perspectives/marqvision%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%EF%BC%81/",
+    "https://www.linkedin.com/company/marqvision",
+    "https://www.youtube.com/watch?v=-39Yq-67MvU",
+    "https://www.ycombinator.com/companies/marqvision",
+    "https://www.marqvision.com/jp/blog/marqvision-series-b-funding",
+    "https://getlatka.com/companies/marqvision",
+    "https://www.instagram.com/marqvision/",
+    "https://note.com/keokeo/n/n48e6bd986b15",
+    "https://www.marqvision.com/jp/leadership"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Marqvision X 投稿",
+   "results": [
+    "https://www.marqvision.com/jp/home",
+    "https://www.youtube.com/watch?v=-39Yq-67MvU",
+    "https://www.linkedin.com/company/marqvision",
+    "https://www.trustpilot.com/review/www.marqvision.com",
+    "https://www.ycombinator.com/companies/marqvision",
+    "https://www.instagram.com/marqvision/",
+    "https://www.marqvision.com/jp/brand-protection",
+    "https://tech-lab.sios.jp/archives/54667",
+    "https://www.nikkei.com/article/DGXZQOGN207K50Q6A120C2000000/",
+    "https://x.com/MarqVision"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式13頁／PDF・画像5件／外部27頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式13頁／PDF・画像5件／外部27頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式13頁／PDF・画像5件／外部27頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式13頁／PDF・画像5件／外部27頁・検索12回）"
+ }
+}

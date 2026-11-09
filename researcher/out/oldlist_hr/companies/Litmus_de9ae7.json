@@ -1,0 +1,1999 @@
+{
+ "name": "Litmus",
+ "aliases": [],
+ "context": "旧営業リスト｜Factory Software / MES / Industrial Data｜AUMS不適合",
+ "researched_at": "2026-11-09T17:58:56.354777+00:00",
+ "official_url": "https://litmus.io/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Seed",
+    "value": "4,378,912 $0.000100 $0.11 $1.35 $1.35 1x $1.35 14.47%",
+    "url": "https://pitchbook.com/profiles/company/86659-39",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "製造業の実績": [
+   {
+    "quote": "Litmus | The Modern Industrial Data Platform for AI",
+    "url": "https://litmus.io/ja",
+    "pass": 1
+   },
+   {
+    "quote": "Gartner, Magic Quadrant for Global Industrial AIoT Platforms、著者：Scot Kim、Sudip Pattanayak他、2026年9月15日",
+    "url": "https://litmus.io/ja",
+    "pass": 1
+   },
+   {
+    "quote": "Join the Litmus partner ecosystem to deliver AI-ready industrial solutions faster, unlock new revenue streams, and help your clients scale from edge to cloud globally.",
+    "url": "https://litmus.io/ja/partners-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Power tomorrow’s industrial edge with us",
+    "url": "https://litmus.io/ja/partners-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Litmus is the only edge-native data platform purpose-built for industrial scale. Our certified solutions make it easy to plug into existing infrastructure, connect legacy systems, and deliver trusted data for AI—fast.",
+    "url": "https://litmus.io/ja/partners-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you’re delivering services, building solutions, or enabling infrastructure, Litmus offers partnership paths that drive revenue, expand customer reach, and accelerate industrial data and AI adoption.",
+    "url": "https://litmus.io/ja/partners-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver clean, contextualized industrial data to your cloud services. With Litmus, your AI/ML, analytics, and digital twin solutions are more powerful—and easier to deploy.",
+    "url": "https://litmus.io/ja/partners-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Pair your innovative solutions with our industrial data engine. As a trusted Alliance Partner, you’ll create powerful, proven solutions for shared customers.",
+    "url": "https://litmus.io/ja/partners-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Focus on insights, not messy data. Litmus delivers clean, modeled industrial data to your app—so you can drive outcomes, not integration headaches.",
+    "url": "https://litmus.io/ja/partners-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Litmus | The Modern Industrial Data Platform for AI",
+    "url": "https://litmus.io/ja/partners",
+    "pass": 1
+   },
+   {
+    "quote": "これらのお客様がどのようにIndustrial DataOpsの実践を解き放ち、活性化し、拡張して、オペレーションに革命を起こし、業務効率を高め、実世界のアプリケーションでイノベーションを推進してきたかをご覧ください",
+    "url": "https://litmus.io/ja/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Webinar Replay: Improving Food & Beverage Manufacturing at Scale | Litmus",
+    "url": "https://litmus.io/ja/resources/webinar-improving-food-and-beverage-manufacturing-at-scale",
+    "pass": 1
+   },
+   {
+    "quote": "With Litmus and Databricks, they built a unified data foundation that standardized operations, accelerated digitalization, and enabled AI-driven decisions across every plant.",
+    "url": "https://litmus.io/ja/resources/webinar-improving-food-and-beverage-manufacturing-at-scale",
+    "pass": 1
+   },
+   {
+    "quote": "Litmus | The Modern Industrial Data Platform for AI",
+    "url": "https://litmus.io/ja/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "A self-contained Windows service that bridges legacy OPC DA (Classic) industrial systems with modern OPC UA clients. Includes an embedded web-based configuration interface for easy management.",
+    "url": "https://litmus.io/ja/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "A tire plant from the mixing room to final finish over EtherNet/IP, where a batch mixed on time instead of energy leaves tires that look right and are undercured.",
+    "url": "https://litmus.io/ja/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Three identical bottling lines on one syrup room, one air plant and one CIP skid, where a worn pump costs nothing at two lines and everything at three.",
+    "url": "https://litmus.io/ja/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Electronics Manufacturing",
+    "url": "https://litmus.io/ja/customers/cable-manufacturer-improves-quality-and-reduces-manufacturing-costs-with-iiot",
+    "pass": 1
+   },
+   {
+    "quote": "Precision Manufacturing",
+    "url": "https://litmus.io/ja/customers/cable-manufacturer-improves-quality-and-reduces-manufacturing-costs-with-iiot",
+    "pass": 1
+   },
+   {
+    "quote": "Transportation + Automotive",
+    "url": "https://litmus.io/ja/customers/voss-empowers-their-manufacturing-process-through-data-innovation",
+    "pass": 1
+   },
+   {
+    "quote": "効率性が鍵となる厳しい自動車市場において、VOSS Automotiveは斬新な発想でリードしています",
+    "url": "https://litmus.io/ja/customers/voss-empowers-their-manufacturing-process-through-data-innovation",
+    "pass": 1
+   },
+   {
+    "quote": "その結果、包括的なIndustrial DataOps戦略が生まれました：",
+    "url": "https://litmus.io/ja/customers/voss-empowers-their-manufacturing-process-through-data-innovation",
+    "pass": 1
+   },
+   {
+    "quote": "Tire manufacturing | Litmus",
+    "url": "https://litmus.io/ja/solutions/tire-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "A tire plant from the mixing room to final finish over EtherNet/IP, where a batch mixed on time instead of energy leaves tires that look right and are undercured.",
+    "url": "https://litmus.io/ja/solutions/tire-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "A passenger and light-truck tire plant from the mixing room to final finish: two Banbury mixers, two tread extruders, a ply calender, two tire builders, a bank of six curing presses and final inspection. Nine Allen-Bradley controllers on one ControlLogix chassis, 357 tags over EtherNet/IP.",
+    "url": "https://litmus.io/ja/solutions/tire-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": ", so the plant ships free rubber with nothing rejected",
+    "url": "https://litmus.io/ja/solutions/tire-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Al Platform",
+    "url": "https://litmus.io/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F7xdd0wzmxlfo%2F6FmZo51WLdjacUajKOiXpa%2F750980f95a231e03a1dcbabec47d18cb%2FPartners_Hero_Image.png&w=3840&q=75",
+    "pass": 2
+   },
+   {
+    "quote": "Industrial Data Platform",
+    "url": "https://litmus.io/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F7xdd0wzmxlfo%2F6FmZo51WLdjacUajKOiXpa%2F750980f95a231e03a1dcbabec47d18cb%2FPartners_Hero_Image.png&w=3840&q=75",
+    "pass": 2
+   },
+   {
+    "quote": "Hannover Messe 2025 - Unifying Edge and Cloud for Industrial AI Transformation - YouTube",
+    "url": "https://www.youtube.com/watch?v=0H9h3Ubgg-c",
+    "pass": 3
+   },
+   {
+    "quote": "Hannover Messe 2025 - Unifying Edge and Cloud for Industrial AI Transformation",
+    "url": "https://www.youtube.com/watch?v=0H9h3Ubgg-c",
+    "pass": 3
+   },
+   {
+    "quote": "61回視聴 • 2025/05/14 • #industrial #AWSEvents #hannovermesse",
+    "url": "https://www.youtube.com/watch?v=0H9h3Ubgg-c",
+    "pass": 3
+   },
+   {
+    "quote": "Learn how real-world manufacturers use Litmus Edge and AWS IoT to simplify complexity, unlock actionable insights, and future-proof operations with scalable, real-time intelligence.",
+    "url": "https://www.youtube.com/watch?v=0H9h3Ubgg-c",
+    "pass": 3
+   },
+   {
+    "quote": "Learn more about AWS for Industrial -",
+    "url": "https://www.youtube.com/watch?v=0H9h3Ubgg-c",
+    "pass": 3
+   },
+   {
+    "quote": "has raised a total of $79M across two funding rounds. Their most recent funding was a Series B round led by Belden, a strategic investor in the industrial technology space.",
+    "url": "https://sacra.com/c/litmus/",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of an industrial data operations and edge intelligence platform designed to connect, contextualize, and operationalize industrial data.",
+    "url": "https://pitchbook.com/profiles/company/86659-39",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of an industrial data operations and edge intelligence platform designed to connect, contextualize, and operat",
+    "url": "https://pitchbook.com/profiles/company/86659-39",
+    "pass": 3
+   }
+  ],
+  "採用・広告の製品": [
+   {
+    "quote": "Litmus Partner Program | Edge-to-Cloud IIoT Partnerships | Litmus",
+    "url": "https://litmus.io/ja/partners-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Get co-branded assets, sales training, and technical enablement to win faster.",
+    "url": "https://litmus.io/ja/partners-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Explore the program that fits your business model",
+    "url": "https://litmus.io/ja/partners-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Build and scale real-time OT/IT solutions faster. Litmus gives you proven tools, data pipelines, and best practices to reduce risk and deliver measurable impact.",
+    "url": "https://litmus.io/ja/partners-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Pair your innovative solutions with our industrial data engine. As a trusted Alliance Partner, you’ll create powerful, proven solutions for shared customers.",
+    "url": "https://litmus.io/ja/partners-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Offer clients edge-ready insights and centralized device control. We back you with training, enablement, and go-to-market support to help you win more deals.",
+    "url": "https://litmus.io/ja/partners-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Make your devices IIoT-ready—out of the box. Embed Litmus to give customers built-in data collection, protocol translation, and edge computing with zero dev lift.",
+    "url": "https://litmus.io/ja/partners-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Managed Services Provider (MSP)",
+    "url": "https://litmus.io/ja/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Webinar Replay: Improving Food & Beverage Manufacturing at Scale | Litmus",
+    "url": "https://litmus.io/ja/resources/webinar-improving-food-and-beverage-manufacturing-at-scale",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive Maintenance",
+    "url": "https://litmus.io/ja/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Converts Kepware JSON project exports into Litmus Edge DeviceHub templates, mapping drivers, translating tag addresses and reporting anything it could not convert.",
+    "url": "https://litmus.io/ja/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "A web UI for looking inside the DataHub (NATS) broker on a Litmus Edge device: watch messages live, browse tags, inspect payloads and chart values.",
+    "url": "https://litmus.io/ja/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "A fine-paper machine and its scanning quality control system over OPC UA, with the cross-direction sheet profile the operator actually runs the machine on.",
+    "url": "https://litmus.io/ja/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Four well pads and a custody transfer meter over Enron Modbus, where a well quietly loads up with water and stops flowing without ever alarming.",
+    "url": "https://litmus.io/ja/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Managed Services Provider (MSP)",
+    "url": "https://litmus.io/ja/partners/Ericsson_Wireless_Solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Precision Manufacturing",
+    "url": "https://litmus.io/ja/customers/cable-manufacturer-improves-quality-and-reduces-manufacturing-costs-with-iiot",
+    "pass": 1
+   },
+   {
+    "quote": "A passenger and light-truck tire plant from the mixing room to final finish: two Banbury mixers, two tread extruders, a ply calender, two tire builders, a bank of six curing presses and final inspection. Nine Allen-Bradley controllers on one ControlLogix chassis, 357 tags over EtherNet/IP.",
+    "url": "https://litmus.io/ja/solutions/tire-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "It is batch, continuous and discrete in one material flow. How well a compound was mixed is a batch property, carried by a green tire into the cure, and",
+    "url": "https://litmus.io/ja/solutions/tire-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "the press never learns which compound it holds",
+    "url": "https://litmus.io/ja/solutions/tire-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "8 Analytics groups, among them cure state verification, compound quality, tread giveaway and process capability by die cavity",
+    "url": "https://litmus.io/ja/solutions/tire-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "A failing steam trap on one press",
+    "url": "https://litmus.io/ja/solutions/tire-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "© LiTMUS / noprops / Game Studio Inc.",
+    "url": "https://litmus-ent.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing & Business Consulting | Global & Japan — Litmus Japan",
+    "url": "https://www.litmus-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing & Business Consulting",
+    "url": "https://www.litmus-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Litmus works with businesses to unlock product-led growth (PLG) in Japan. We provide localization and market entry/go-to-market (GTM) services based on our knowledge of consumer and industry trends.",
+    "url": "https://www.litmus-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Together with our partners, we work closely to deliver services across marketing, advertising, and e-commerce to both Japanese and global brands.",
+    "url": "https://www.litmus-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Litmus provides strategic services as a distributed resource to help business teams tackle multiple projects or workstreams in parallel across key markets.",
+    "url": "https://www.litmus-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "We understand the challenges that come with managing different priorities, responsibilities, and expectations, especially with short-term constraints in place.",
+    "url": "https://www.litmus-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Our team is experienced in research and analysis, strategy and business development, and project management across multiple industries and geographies.",
+    "url": "https://www.litmus-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "With a background in brand management at Procter & Gamble (P&G), Naoki went on to lead global marketing initiatives for Rakuten, a Japanese internet services conglomerate, in Singapore and Japan.",
+    "url": "https://www.litmus-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Julian started in financial and commercial advisory for Deloitte in Australia before crossing over to branding and marketing in internet services for Rakuten in Japan and the US.",
+    "url": "https://www.litmus-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Together with senior leadership, he went on to grow Rakuten’s capability in global marketing and commercial partnerships by way of sponsorship to accelerate brand and business growth in key markets.",
+    "url": "https://www.litmus-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": ", where we make industry content more accessible with the aid of the latest tools in artificial intelligence (AI) and digital transformation (DX).",
+    "url": "https://www.litmus-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Litmus provides strategic and tactical services at every step of the way, tailored to your needs and objectives in Japan.",
+    "url": "https://www.litmus-jp.com/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Localization is more than just translation. We will work with you to scope out a customer and product experience that is essential to unlocking the potential for product-led growth (PLG).",
+    "url": "https://www.litmus-jp.com/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing & Business Development",
+    "url": "https://www.litmus-jp.com/japan",
+    "pass": 3
+   },
+   {
+    "quote": "We will kickstart awareness and credibility building through turnkey market development tactics that will also build out your marketing-sales funnel.",
+    "url": "https://www.litmus-jp.com/japan",
+    "pass": 3
+   },
+   {
+    "quote": "We will lead sales sprints to convert and validate the market in a data-driven way to justify a more holistic entry into Japan.",
+    "url": "https://www.litmus-jp.com/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Your project is our project.",
+    "url": "https://www.litmus-jp.com/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Think of us as an extension of your team. We will do what it takes to get the job done properly when it comes to localization and go-to-market (GTM).",
+    "url": "https://www.litmus-jp.com/japan",
+    "pass": 3
+   },
+   {
+    "quote": "We pride ourselves on our execution, but our strategic and analytical acumen is just as strong. As your thought partner, we will help you rationalize your business case as well as advise you on consumer and industry trends in Japan.",
+    "url": "https://www.litmus-jp.com/japan",
+    "pass": 3
+   },
+   {
+    "quote": "We think your product or service should do the talking.",
+    "url": "https://www.litmus-jp.com/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Co-creation and a holistic approach to market entry are key to unlocking product-led growth (PLG) in Japan.",
+    "url": "https://www.litmus-jp.com/japan",
+    "pass": 3
+   },
+   {
+    "quote": "From localizing product and associated website and marketing collateral, to testing and establishing a robust marketing and sales funnel, we have experience generating awareness and closing sales deals.",
+    "url": "https://www.litmus-jp.com/japan",
+    "pass": 3
+   },
+   {
+    "quote": "—domain experts in marketing, advertising, and e-commerce operations—helping bring your brand and business to life.",
+    "url": "https://www.litmus-jp.com/japan",
+    "pass": 3
+   },
+   {
+    "quote": "We believe that the returns can be more than worth it with the right approach and partners.",
+    "url": "https://www.litmus-jp.com/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Litmus integrates seamlessly with your email service provider (ESP), code editor, and more.",
+    "url": "https://www.litmus.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Email Service Provider",
+    "url": "https://www.litmus.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Salesforce Marketing Cloud",
+    "url": "https://www.litmus.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Email marketing content",
+    "url": "https://www.litmus.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Elevate your email marketing with our expert insights, tips, trends, and tools.",
+    "url": "https://www.litmus.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Leverage these free tools from Litmus to enhance your email marketing today.",
+    "url": "https://www.litmus.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Join us at an upcoming event, conference, or view previous events on-demand.",
+    "url": "https://www.litmus.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "We help companies get more from their entire marketing mix by putting the most dependable channel—email—first.",
+    "url": "https://www.litmus.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Mail Privacy Protection (MPP) Hub",
+    "url": "https://www.litmus.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing & Ad Agencies",
+    "url": "https://www.litmus.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Email Marketing Performance",
+    "url": "https://www.litmus.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Filter by Email Service Provider",
+    "url": "https://www.litmus.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "The ATTA marketing team saves up to five hours a day on their email campaigns with Litmus.",
+    "url": "https://www.litmus.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Harvard Business Review cut their email review and approval time in half with Litmus",
+    "url": "https://www.litmus.com/customers",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Litmus Partner Program | Edge-to-Cloud IIoT Partnerships | Litmus",
+    "url": "https://litmus.io/ja/partners-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Reseller & Distributor",
+    "url": "https://litmus.io/ja/partners-overview",
+    "pass": 1
+   },
+   {
+    "quote": "OEM Hardware & Devices",
+    "url": "https://litmus.io/ja/partners-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Reseller / Distributor",
+    "url": "https://litmus.io/ja/partners",
+    "pass": 1
+   },
+   {
+    "quote": "—domain experts in marketing, advertising, and e-commerce operations—helping bring your brand and business to life.",
+    "url": "https://www.litmus-jp.com/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing & Ad Agencies",
+    "url": "https://www.litmus.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and Ad Agencies",
+    "url": "https://www.litmus.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Email Previews",
+    "url": "https://www.litmus.com/partnership",
+    "pass": 3
+   },
+   {
+    "quote": "White label email previews",
+    "url": "https://www.litmus.com/partnership",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Join the Litmus partner ecosystem to deliver AI-ready industrial solutions faster, unlock new revenue streams, and help your clients scale from edge to cloud globally.",
+    "url": "https://litmus.io/ja/partners-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Bundle Litmus with your services to unlock new deals and grow recurring revenue.",
+    "url": "https://litmus.io/ja/partners-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you’re delivering services, building solutions, or enabling infrastructure, Litmus offers partnership paths that drive revenue, expand customer reach, and accelerate industrial data and AI adoption.",
+    "url": "https://litmus.io/ja/partners-overview",
+    "pass": 1
+   },
+   {
+    "quote": "It is batch, continuous and discrete in one material flow. How well a compound was mixed is a batch property, carried by a green tire into the cure, and",
+    "url": "https://litmus.io/ja/solutions/tire-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Litmus is now part of Validity Engage.",
+    "url": "https://www.litmus.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "The Litmus capabilities you know and love are now part of our AI-powered platform.",
+    "url": "https://www.litmus.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "“Litmus is an integral part of the email campaign building process. Mailchimp users are able to check the integrity of their campaigns, giving them the confidence that their marketing will look beautiful across email clients.”",
+    "url": "https://www.litmus.com/partnership",
+    "pass": 3
+   },
+   {
+    "quote": "“We actually know what’s going to go up before it goes out and Litmus improves deliverability with the Spam Test tool. We know if we’ve been blocklisted and we know if that email the content is actually hitting the inbox; that’s been very helpful.”",
+    "url": "https://www.litmus.com/partnership",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. We are committed to data privacy and security at Litmus and it is embedded in every part of our business, including our partnerships and integrations. Learn more about our privacy and security",
+    "url": "https://www.litmus.com/partnership",
+    "pass": 3
+   },
+   {
+    "quote": "Litmus revenue, funding & growth rate | Sacra",
+    "url": "https://sacra.com/c/litmus/",
+    "pass": 3
+   },
+   {
+    "quote": "launched and operated as a self-funded business until 2015, hitting $1M in revenue in 2010. They raised a $49M Series A from Spectrum Equity in 2015.",
+    "url": "https://sacra.com/c/litmus/",
+    "pass": 3
+   },
+   {
+    "quote": "today is at about $45M annual recurring revenue (ARR), growing about 15% year-over-year. Sacra estimates that",
+    "url": "https://sacra.com/c/litmus/",
+    "pass": 3
+   },
+   {
+    "quote": "was at about $42M at the end of 2022. During CEO Erik Nierenberg's tenure prior to the April 2025 acquisition by Validity,",
+    "url": "https://sacra.com/c/litmus/",
+    "pass": 3
+   },
+   {
+    "quote": "'s installed base at the time of acquisition included 700,000+ users and 80% of the Fortune 100.",
+    "url": "https://sacra.com/c/litmus/",
+    "pass": 3
+   },
+   {
+    "quote": "Validity positioned the acquisition as advancing an end-to-end email platform",
+    "url": "https://sacra.com/c/litmus/",
+    "pass": 3
+   },
+   {
+    "quote": "The Validity acquisition has meaningfully extended Litmus's product surface beyond pre-send testing.",
+    "url": "https://sacra.com/c/litmus/",
+    "pass": 3
+   },
+   {
+    "quote": "'s Enterprise plan—Mark, formerly at Rebel Mail, reported getting quoted $20,000 per month prior to their acquisition by Salesforce.",
+    "url": "https://sacra.com/c/litmus/",
+    "pass": 3
+   },
+   {
+    "quote": "Following the Validity acquisition,",
+    "url": "https://sacra.com/c/litmus/",
+    "pass": 3
+   },
+   {
+    "quote": "has a coding environment as part of its platform, but it isn't its primary function—and Parcel customers that we talked to were unanimous in preferring Parcel’s editor, particularly for the Chrome Dev Tools-like “inspect” experience and the inline feedback & approvals workflow elements.",
+    "url": "https://sacra.com/c/litmus/",
+    "pass": 3
+   },
+   {
+    "quote": "About 29% of email developers use Adobe Dreamweaver to write emails—many of them get it for free as part of their Creative Cloud bundle.",
+    "url": "https://sacra.com/c/litmus/",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/86659-39",
+    "pass": 3
+   },
+   {
+    "quote": "Litmus has 150 total employees.",
+    "url": "https://pitchbook.com/profiles/company/86659-39",
+    "pass": 3
+   },
+   {
+    "quote": "What is Litmus’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/86659-39",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Litmus is",
+    "url": "https://pitchbook.com/profiles/company/86659-39",
+    "pass": 3
+   },
+   {
+    "quote": "The essence of a layoff is the act of admitting that the company failed to keep its promise to its employees. You tell someone you hired by saying, 'We will hire you and you will thrive here,' that 'I am sorry, but the company no longer has the resources to support you.' This is not a matter of numbers; it is a matter of trust.",
+    "url": "https://note.com/threeplussix/n/n7e9ffcd0e9a0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "If the executive does not admit this fact and says it is 'the economy's fault' or 'the market's fault,' the employees will see through it. They will think, 'This management team does not admit their own judgment errors and is pushing the responsibility onto the people on the front lines.' That is where trust collapses.",
+    "url": "https://note.com/threeplussix/n/n7e9ffcd0e9a0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This is because when you ask people to leave, you are not just being watched by those who are leaving. The people who remain are watching everything, too. 'How did the company treat those who left?' 'Did the leader speak honestly?' 'Did they try to deceive us?'—the remaining employees will remember these things, and they will work under the shadow of those memories for years to come.",
+    "url": "https://note.com/threeplussix/n/n7e9ffcd0e9a0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The same thing happened at Horowitz's company. Because the way they handled the layoffs was sincere, the remaining employees felt they could trust the company and were able to overcome the crisis.",
+    "url": "https://note.com/threeplussix/n/n7e9ffcd0e9a0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Because focus is concentrated on how to handle those who are leaving, communication with those who remain is often put on the back burner. As a result, the remaining employees are left in a state of uncertainty. 'I wasn't affected this time, but will there be a next time?' 'What is the company thinking?'—these anxieties erode the organization.",
+    "url": "https://note.com/threeplussix/n/n7e9ffcd0e9a0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A mass email arrives from the HR department. Top management makes an announcement in a large hall. Subordinates find out whether they were affected by checking an email or a list—this approach may look efficient, but it wounds the organization most deeply.",
+    "url": "https://note.com/threeplussix/n/n7e9ffcd0e9a0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The amount of dialogue the CEO or leaders have with those who remain in the weeks following a layoff announcement shows the company's level of seriousness. If employees are left alone with the thought that 'it's fine because I wasn't targeted,' the anxiety of those remaining will quietly erode the organization.",
+    "url": "https://note.com/threeplussix/n/n7e9ffcd0e9a0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This article is part of a series that delves into the details of 'The Hard Thing About Hard Things'.",
+    "url": "https://note.com/threeplussix/n/n7e9ffcd0e9a0?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "会社情報｜Litmus Automation日本パートナー｜JIG-SAW",
+    "url": "https://litmus.jig-saw.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "JIG-SAW株式会社は、米国インダストリアルIoT企業Litmus Automationの",
+    "url": "https://litmus.jig-saw.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "JIG-SAW株式会社／JIG-SAW INC.",
+    "url": "https://litmus.jig-saw.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "東京証券取引所グロース（証券コード 3914）",
+    "url": "https://litmus.jig-saw.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "東京本社：〒104-0028",
+    "url": "https://litmus.jig-saw.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都中央区八重洲2丁目2-1 東京ミッドタウン八重洲 八重洲セントラルタワー33F（",
+    "url": "https://litmus.jig-saw.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "LiTMUS株式会社は実況動画や生配信に特化した",
+    "url": "https://litmus-ent.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "人気アクションゲーム「脱獄ごっこ」が期間限定イベント「脱獄！日本縦断〜チバ編〜」を開催！",
+    "url": "https://litmus-ent.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "富士ソフト、SIパートナーとして「Litmus Automation」と代理店契約を締結 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXLRSP487233_X00C18A8000000/",
+    "pass": 3
+   },
+   {
+    "quote": "、日本初のSIパートナーとしてLitmus Automationと代理店契約を締結",
+    "url": "https://www.nikkei.com/article/DGXLRSP487233_X00C18A8000000/",
+    "pass": 3
+   },
+   {
+    "quote": "富士ソフト株式会社（本社:神奈川県横浜市、代表取締役 社長執行役員:坂下 智保）は、製造業IoTのプラットフォームプロバイダであるLitmus Automation Japan KK（本社:東京都渋谷区、代表者:ヴェニュ サティラジュ）と、販売代理店契約を締結し、日本初となるSIパートナーとして8月6日(月)より「LoopEdge」、「LoopCloud」を含むLitmus Automation製品を富士ソフトのサービス、技術と融合させ、ソリューション提供を開始いたしました",
+    "url": "https://www.nikkei.com/article/DGXLRSP487233_X00C18A8000000/",
+    "pass": 3
+   },
+   {
+    "quote": "■Litmus Automation Japan KK(リトマスオートメーション・ジャパン株式会社)",
+    "url": "https://www.nikkei.com/article/DGXLRSP487233_X00C18A8000000/",
+    "pass": 3
+   },
+   {
+    "quote": "本社:東京都渋谷区恵比寿南1-1-1 ヒューマックス恵比寿ビル8F",
+    "url": "https://www.nikkei.com/article/DGXLRSP487233_X00C18A8000000/",
+    "pass": 3
+   },
+   {
+    "quote": "日本経済新聞の編集者が選んだ押さえておきたい「ニュース５本」をお届けします",
+    "url": "https://www.nikkei.com/article/DGXLRSP487233_X00C18A8000000/",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing & Business Consulting | Global & Japan — Litmus Japan",
+    "url": "https://www.litmus-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Litmus works with businesses to unlock product-led growth (PLG) in Japan. We provide localization and market entry/go-to-market (GTM) services based on our knowledge of consumer and industry trends.",
+    "url": "https://www.litmus-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Our team is experienced when it comes to navigating the business and cultural nuances associated with the Japanese market.",
+    "url": "https://www.litmus-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Together with our partners, we work closely to deliver services across marketing, advertising, and e-commerce to both Japanese and global brands.",
+    "url": "https://www.litmus-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "With a background in brand management at Procter & Gamble (P&G), Naoki went on to lead global marketing initiatives for Rakuten, a Japanese internet services conglomerate, in Singapore and Japan.",
+    "url": "https://www.litmus-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "He then joined Facebook (now Meta) in business strategy and operations, responsible for Japan, before leading PicsArt’s market entry into Japan and South Korea as its general manager.",
+    "url": "https://www.litmus-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Julian started in financial and commercial advisory for Deloitte in Australia before crossing over to branding and marketing in internet services for Rakuten in Japan and the US.",
+    "url": "https://www.litmus-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Julian brings an outsider’s perspective to demystifying the Japanese market, in addition to his experience with digital and partnerships in driving PLG outcomes internationally.",
+    "url": "https://www.litmus-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Localization, Market Entry & Go-To-Market | Japan — Litmus Japan",
+    "url": "https://www.litmus-jp.com/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Win Your Japan Market Entry",
+    "url": "https://www.litmus-jp.com/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Litmus provides strategic and tactical services at every step of the way, tailored to your needs and objectives in Japan.",
+    "url": "https://www.litmus-jp.com/japan",
+    "pass": 3
+   },
+   {
+    "quote": "We will lead sales sprints to convert and validate the market in a data-driven way to justify a more holistic entry into Japan.",
+    "url": "https://www.litmus-jp.com/japan",
+    "pass": 3
+   },
+   {
+    "quote": "We pride ourselves on our execution, but our strategic and analytical acumen is just as strong. As your thought partner, we will help you rationalize your business case as well as advise you on consumer and industry trends in Japan.",
+    "url": "https://www.litmus-jp.com/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Co-creation and a holistic approach to market entry are key to unlocking product-led growth (PLG) in Japan.",
+    "url": "https://www.litmus-jp.com/japan",
+    "pass": 3
+   },
+   {
+    "quote": ", Japan is sometimes overlooked as a market when expanding internationally.",
+    "url": "https://www.litmus-jp.com/japan",
+    "pass": 3
+   },
+   {
+    "quote": "But there is a movement to digitize Japan’s economy, which has only picked up pace since the COVID-19 pandemic.",
+    "url": "https://www.litmus-jp.com/japan",
+    "pass": 3
+   },
+   {
+    "quote": "in June 2022 to realize Japan as a digital society.",
+    "url": "https://www.litmus-jp.com/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Public cloud market growth in Japan",
+    "url": "https://www.litmus-jp.com/japan",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "The Modern Industrial Data Platform for AI - Litmus — The Modern Industrial Data Platform for AI - Litmus Litmus Automation https://litmus.io > ...",
+    "url": "https://litmus.io/ja",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報｜ Litmus Automation 日本 パートナー｜JIG-SAW — 会社情報｜ Litmus Automation 日本 パートナー｜JIG-SAW JIG-SAW株式会社 https://litmus.jig-saw.com > company",
+    "url": "https://litmus.jig-saw.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "リトマス ・オートメーション・ジャパンと パナソニック ... — リトマス ・オートメーション・ジャパンと パナソニック ... Litmus Automation https://litmus.io > newsroom > litmus-automation-japan-a...",
+    "url": "https://litmus.io/ja/newsroom/litmus-automation-japan-and-panasonic-solution-technologies-announce",
+    "pass": 3
+   },
+   {
+    "quote": "LiTMUS ( リトマス )株式会社 — LiTMUS ( リトマス )株式会社 LiTMUS(リトマス)株式会社 https://litmus-ent.jp",
+    "url": "https://litmus-ent.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "富士ソフト、SIパートナーとして「 Litmus Automation」と ... — 富士ソフト、SIパートナーとして「 Litmus Automation」と ... 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXLRSP487233_X00C18A8000000/",
+    "pass": 3
+   },
+   {
+    "quote": "戦略・事業開発｜グローバル - リトマス — 戦略・事業開発｜グローバル - リトマス Litmus Japan https://jp.litmus-jp.com > global",
+    "url": "https://jp.litmus-jp.com/global",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing & Business Consulting | Global & Japan — Litmus ... — Marketing & Business Consulting | Global & Japan — Litmus ... Litmus Japan https://www.litmus-jp.com",
+    "url": "https://www.litmus-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "LITMUS (@litmuslitmuslitmus) • Instagram photos and videos — LITMUS (@litmuslitmuslitmus) • Instagram photos and videos Instagram https://www.instagram.com > litmuslitmuslitmus",
+    "url": "https://www.instagram.com/litmuslitmuslitmus/",
+    "pass": 3
+   },
+   {
+    "quote": "The Modern Industrial Data Platform for AI - Litmus.io — The Modern Industrial Data Platform for AI - Litmus.io Litmus Automation https://litmus.io > ...",
+    "url": "https://litmus.io/ja",
+    "pass": 3
+   },
+   {
+    "quote": "Localization, Market Entry & Go-To-Market - Litmus Japan — Localization, Market Entry & Go-To-Market - Litmus Japan Litmus Japan https://www.litmus-jp.com > japan",
+    "url": "https://www.litmus-jp.com/japan",
+    "pass": 3
+   },
+   {
+    "quote": "About us ｜ リトマス みんなとつくる ファクトチェック専門 ... — About us ｜ リトマス みんなとつくる ファクトチェック専門 ... litmus-factcheck.jp https://litmus-factcheck.jp > about",
+    "url": "https://litmus-factcheck.jp/about/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Customers | Litmus — Customers | Litmus Litmus Automation https://litmus.io > customers",
+    "url": "https://litmus.io/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Success Stories & Reviews - Litmus — Customer Success Stories & Reviews - Litmus Litmus https://www.litmus.com > customers",
+    "url": "https://www.litmus.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Litmus | The Modern Industrial Data Platform for AI — Litmus | The Modern Industrial Data Platform for AI Litmus Automation https://litmus.io",
+    "url": "https://litmus.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Litmus Automation Case Study | PDF - Scribd — Litmus Automation Case Study | PDF - Scribd Scribd https://www.scribd.com > document",
+    "url": "https://www.scribd.com/document/1032107209/Litmus-Automation-Case-Study",
+    "pass": 3
+   },
+   {
+    "quote": "Litmus Partnerships: Help Your Customers Make Every Send ... — Litmus Partnerships: Help Your Customers Make Every Send ... Litmus https://www.litmus.com > partnership",
+    "url": "https://www.litmus.com/partnership",
+    "pass": 3
+   },
+   {
+    "quote": "Litmus Partner Program | Edge-to-Cloud IIoT Partnerships — Litmus Partner Program | Edge-to-Cloud IIoT Partnerships Litmus Automation https://litmus.io > Partners",
+    "url": "https://litmus.io/ja/partners-overview",
+    "pass": 3
+   },
+   {
+    "quote": "Litmus's Competitors, Revenue , Number of Employees ... - Owler — Litmus's Competitors, Revenue , Number of Employees ... - Owler Owler https://www.owler.com > company",
+    "url": "https://www.owler.com/company/litmus-automation-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Litmus revenue , funding & growth rate | Sacra — Litmus revenue , funding & growth rate | Sacra sacra.com https://sacra.com > litmus",
+    "url": "https://sacra.com/c/litmus/",
+    "pass": 3
+   },
+   {
+    "quote": "Litmus - 2026 Company Profile, Team, Funding & Competitors — Litmus - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/litmus/__FcKb-mAF4SEbzeF3izF9JwYs-6Tmjv8yz2wFYQYzoYM",
+    "pass": 3
+   },
+   {
+    "quote": "Litmus 2026 Company Profile: Valuation, Funding & Investors — Litmus 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/86659-39",
+    "pass": 3
+   },
+   {
+    "quote": "Litmus Raises $30M in Series B Funding Led by Belden — Litmus Raises $30M in Series B Funding Led by Belden Litmus Automation https://litmus.io > newsroom > litmus-...",
+    "url": "https://litmus.io/newsroom/litmus-raises-usd30m-in-series-b-funding-led-by-belden",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Email Personalization",
+    "url": "https://www.litmus.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Email Collaboration and Review",
+    "url": "https://www.litmus.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "AI & Emerging Email Technologies",
+    "url": "https://www.litmus.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "The latest updates to make your email campaigns even more effective.",
+    "url": "https://www.litmus.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Litmus integrates seamlessly with your email service provider (ESP), code editor, and more.",
+    "url": "https://www.litmus.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Email Service Provider",
+    "url": "https://www.litmus.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Email marketing content",
+    "url": "https://www.litmus.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Elevate your email marketing with our expert insights, tips, trends, and tools.",
+    "url": "https://www.litmus.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "State of Email Reports",
+    "url": "https://www.litmus.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Leverage these free tools from Litmus to enhance your email marketing today.",
+    "url": "https://www.litmus.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Email Client Market Share",
+    "url": "https://www.litmus.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Thousands of brands across every size and industry trust Litmus to send better email, faster.",
+    "url": "https://www.litmus.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "We help companies get more from their entire marketing mix by putting the most dependable channel—email—first.",
+    "url": "https://www.litmus.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Email Personalization Handbook",
+    "url": "https://www.litmus.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Thousands of brands across every size and industry trust Litmus to send better email, faster. Here’s what they have to say about us.",
+    "url": "https://www.litmus.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Litmus empowers Hudl to cut email review time by 40% while boosting email accuracy by 70%.",
+    "url": "https://www.litmus.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "increase in email accuracy",
+    "url": "https://www.litmus.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Email Marketing Performance",
+    "url": "https://www.litmus.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Filter by Email Service Provider",
+    "url": "https://www.litmus.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Amazon Simple Email Service",
+    "url": "https://www.litmus.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "The ATTA marketing team saves up to five hours a day on their email campaigns with Litmus.",
+    "url": "https://www.litmus.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Zen Internet spends 90% less time testing emails and doubles their click-through rate with Litmus.",
+    "url": "https://www.litmus.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Idaho Central Credit Union effectively personalizes emails in 5 minutes or less with Litmus Personalize",
+    "url": "https://www.litmus.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Harvard Business Review cut their email review and approval time in half with Litmus",
+    "url": "https://www.litmus.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Certified Email Designer & Developer at Centraal Beheer",
+    "url": "https://www.litmus.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "State of Email Reports",
+    "url": "https://www.litmus.com/partnership",
+    "pass": 3
+   },
+   {
+    "quote": "Email Personalization Handbook",
+    "url": "https://www.litmus.com/partnership",
+    "pass": 3
+   },
+   {
+    "quote": "Give your customers the tools they need to test and analyze their email campaigns to drive the best results.",
+    "url": "https://www.litmus.com/partnership",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Email Previews",
+    "url": "https://www.litmus.com/partnership",
+    "pass": 3
+   },
+   {
+    "quote": "Empower your customers to test and preview in 100+ popular email clients—including Dark Mode—from a single spot.",
+    "url": "https://www.litmus.com/partnership",
+    "pass": 3
+   },
+   {
+    "quote": "Enable your customers to get ahead of deliverability issues by automatically scanning their emails against 25+ popular spam filters.",
+    "url": "https://www.litmus.com/partnership",
+    "pass": 3
+   },
+   {
+    "quote": "Subscriber-level Email Analytics",
+    "url": "https://www.litmus.com/partnership",
+    "pass": 3
+   },
+   {
+    "quote": "Deliver the most robust, holistic view of email performance to your customers with email engagement insights that provide deeper insights.",
+    "url": "https://www.litmus.com/partnership",
+    "pass": 3
+   },
+   {
+    "quote": "White label email previews",
+    "url": "https://www.litmus.com/partnership",
+    "pass": 3
+   },
+   {
+    "quote": "Automate testing for your customers with instant email previews in 100+ email clients—including Dark Mode—so they can rest assured they’re providing their users with the best experience.",
+    "url": "https://www.litmus.com/partnership",
+    "pass": 3
+   },
+   {
+    "quote": "“Litmus is an integral part of the email campaign building process. Mailchimp users are able to check the integrity of their campaigns, giving them the confidence that their marketing will look beautiful across email clients.”",
+    "url": "https://www.litmus.com/partnership",
+    "pass": 3
+   },
+   {
+    "quote": "Deliver more emails to the inbox",
+    "url": "https://www.litmus.com/partnership",
+    "pass": 3
+   },
+   {
+    "quote": "Give your customers the tools they need to proactively follow email best practices before they send so they can avoid potential deliverability issues in the future and make every send count.",
+    "url": "https://www.litmus.com/partnership",
+    "pass": 3
+   },
+   {
+    "quote": "“We actually know what’s going to go up before it goes out and Litmus improves deliverability with the Spam Test tool. We know if we’ve been blocklisted and we know if that email the content is actually hitting the inbox; that’s been very helpful.”",
+    "url": "https://www.litmus.com/partnership",
+    "pass": 3
+   },
+   {
+    "quote": "Easily incorporate subscriber engagement insights, like read time and email client and device usage, to the data available from your platform, giving your customers the most holistic picture of email performance so they can effectively optimize future campaigns.",
+    "url": "https://www.litmus.com/partnership",
+    "pass": 3
+   },
+   {
+    "quote": "Take the first step in providing your customers with an email marketing solution that delivers the best results.",
+    "url": "https://www.litmus.com/partnership",
+    "pass": 3
+   },
+   {
+    "quote": "You can integrate 100+ trusted Litmus Email Previews, Spam Testing, link functionality tests, and Email Analytics.",
+    "url": "https://www.litmus.com/partnership",
+    "pass": 3
+   },
+   {
+    "quote": "Yes! We are always looking for like-minded thought leaders to collaborate with on delivering the insights that email marketers need most. Let us know if your company is interested in a marketing collaboration.",
+    "url": "https://www.litmus.com/partnership",
+    "pass": 3
+   },
+   {
+    "quote": "Tool for testing and previewing email HTML across clients like Outlook and Gmail",
+    "url": "https://sacra.com/c/litmus/",
+    "pass": 3
+   },
+   {
+    "quote": "Validity positioned the acquisition as advancing an end-to-end email platform",
+    "url": "https://sacra.com/c/litmus/",
+    "pass": 3
+   },
+   {
+    "quote": "For email developers,",
+    "url": "https://sacra.com/c/litmus/",
+    "pass": 3
+   },
+   {
+    "quote": "That includes features around the writing of code like the lack of a code linter, as well as the lack of client-specific syntax highlighting and formatting to help write e.g. Outlook-specific email code.",
+    "url": "https://sacra.com/c/litmus/",
+    "pass": 3
+   },
+   {
+    "quote": "The core reason for an email developer to use",
+    "url": "https://sacra.com/c/litmus/",
+    "pass": 3
+   },
+   {
+    "quote": "'s email coder would be that",
+    "url": "https://sacra.com/c/litmus/",
+    "pass": 3
+   },
+   {
+    "quote": "or for a non-technical marketing team to use to build emails.",
+    "url": "https://sacra.com/c/litmus/",
+    "pass": 3
+   },
+   {
+    "quote": "Developers who are building email functionality into their products at companies like",
+    "url": "https://sacra.com/c/litmus/",
+    "pass": 3
+   },
+   {
+    "quote": "to help ensure that the features they're building generate emails that will look the same across the many clients and devices that their customers might be using.",
+    "url": "https://sacra.com/c/litmus/",
+    "pass": 3
+   },
+   {
+    "quote": "During the development process, they might use an email block coded in React to generate an email that gets sent into a",
+    "url": "https://sacra.com/c/litmus/",
+    "pass": 3
+   },
+   {
+    "quote": "Some companies that use Parcel for coding marketing emails",
+    "url": "https://sacra.com/c/litmus/",
+    "pass": 3
+   },
+   {
+    "quote": "keep an active Litmus account for emails that don't need the fine-grained coding features of a Parcel",
+    "url": "https://sacra.com/c/litmus/",
+    "pass": 3
+   },
+   {
+    "quote": ", for example, the marketing operations team that owns all marketing email across the organization writes all emails in Parcel. Transactional emails are run by the product and engineering team, and they use",
+    "url": "https://sacra.com/c/litmus/",
+    "pass": 3
+   },
+   {
+    "quote": "The typical workflow for an email developer or marketer using",
+    "url": "https://sacra.com/c/litmus/",
+    "pass": 3
+   },
+   {
+    "quote": "(or any similar email design tools) to send emails was that they would copy and paste HTML into",
+    "url": "https://sacra.com/c/litmus/",
+    "pass": 3
+   },
+   {
+    "quote": "email address), edit it, and then export or download it for importation into their ESP.",
+    "url": "https://sacra.com/c/litmus/",
+    "pass": 3
+   },
+   {
+    "quote": "of creating and sending emails via",
+    "url": "https://sacra.com/c/litmus/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "The Essence of Pas de Deux and Litmus Paper—Perhaps ... The Essence of Pas de Deux and Litmus Paper—Perhaps ... note https://note.com > hayato_ballet",
+    "url": "https://note.com/hayato_ballet/n/nc11fcc8fe084?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "#1 [Scenario Techniques] What is the \" Litmus Method ... - note #1 [Scenario Techniques] What is the \" Litmus Method ... - note note https://note.com > 創作系 > 創作ノウハウ",
+    "url": "https://note.com/tararikurari/n/n1a3d29171f6a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Layoffs are a Litmus Test for Institutional Design and Humanity Layoffs are a Litmus Test for Institutional Design and Humanity note https://note.com > ビジネス > 人事・労務・採用",
+    "url": "https://note.com/threeplussix/n/n7e9ffcd0e9a0?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "The Essence of Pas de Deux and Litmus Paper—Perhaps Good Human Relationships Are in a 'Neutral' State—｜HayatoDoi バレエダンサー",
+    "url": "https://note.com/hayato_ballet/n/nc11fcc8fe084?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Essence of Pas de Deux and Litmus Paper—Perhaps Good Human Relationships Are in a 'Neutral' State—",
+    "url": "https://note.com/hayato_ballet/n/nc11fcc8fe084?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What is a Pas de Deux?",
+    "url": "https://note.com/hayato_ballet/n/nc11fcc8fe084?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Pas de deux is a French term meaning 'dance for two,' referring to a performance in classical ballet where a man and a woman dance as a pair.",
+    "url": "https://note.com/hayato_ballet/n/nc11fcc8fe084?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Many ballerinas harbor a longing for the pas de deux.",
+    "url": "https://note.com/hayato_ballet/n/nc11fcc8fe084?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "On the other hand, there are likely many who feel it seems 'difficult' or 'not for me.'",
+    "url": "https://note.com/hayato_ballet/n/nc11fcc8fe084?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "However, the sense required for a pas de deux is actually not a special talent.",
+    "url": "https://note.com/hayato_ballet/n/nc11fcc8fe084?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It is a feeling that anyone who has ever tried to accomplish something with someone else has faced at least once.",
+    "url": "https://note.com/hayato_ballet/n/nc11fcc8fe084?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "#1 [Scenario Techniques] What is the \"Litmus Method\" that instantly improves your scenario writing...? [Must-see for writers]｜たみな涼介 | アプリエンジニア",
+    "url": "https://note.com/tararikurari/n/n1a3d29171f6a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "#1 [Scenario Techniques] What is the \"Litmus Method\" that instantly improves your scenario writing...? [Must-see for writers]",
+    "url": "https://note.com/tararikurari/n/n1a3d29171f6a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Today, while I was reading a book titled \"Basic Techniques of Scenario Writing\" by Hajime Arai,",
+    "url": "https://note.com/tararikurari/n/n1a3d29171f6a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I learned a special method that I thought I'd share with you all!",
+    "url": "https://note.com/tararikurari/n/n1a3d29171f6a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This time, I've even included",
+    "url": "https://note.com/tararikurari/n/n1a3d29171f6a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "original illustrations",
+    "url": "https://note.com/tararikurari/n/n1a3d29171f6a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "you're guaranteed to understand! Let's get started right away!",
+    "url": "https://note.com/tararikurari/n/n1a3d29171f6a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Litmus Method = Giving people or objects to convey emotions to the reader.",
+    "url": "https://note.com/tararikurari/n/n1a3d29171f6a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Layoffs are a Litmus Test for Institutional Design and Humanity: Learning How to 'Let People Go' from 'The Hard Thing About Hard Things'｜森浩昭｜成長の現場に戦略を｜Three Plus Six LLC｜",
+    "url": "https://note.com/threeplussix/n/n7e9ffcd0e9a0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Layoffs are a Litmus Test for Institutional Design and Humanity: Learning How to 'Let People Go' from 'The Hard Thing About Hard Things'",
+    "url": "https://note.com/threeplussix/n/n7e9ffcd0e9a0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "森浩昭｜成長の現場に戦略を｜Three Plus Six LLC｜",
+    "url": "https://note.com/threeplussix/n/n7e9ffcd0e9a0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A layoff is not just a task of reducing numbers. It is a litmus test for institutional design and humanity, where the company acknowledges it failed to keep its promises and protects the dignity of both those who leave and those who remain.",
+    "url": "https://note.com/threeplussix/n/n7e9ffcd0e9a0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"Due to deteriorating performance, we have announced a reduction in force.\"",
+    "url": "https://note.com/threeplussix/n/n7e9ffcd0e9a0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Behind this single line in the news, what does the executive think, what do they prepare, and how do they communicate it? The quality of the design of that entire process will have a long-lasting impact on the company's future.",
+    "url": "https://note.com/threeplussix/n/n7e9ffcd0e9a0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Ben Horowitz experienced three layoffs during his time at Loudcloud/Opsware. In particular, the pivot from Loudcloud to Opsware involved a reduction of 400 people. At first, it was trial and error, and it was painful.",
+    "url": "https://note.com/threeplussix/n/n7e9ffcd0e9a0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "But from that experience, he began to rethink layoffs not as a 'necessary evil,' but as the moment where a leader's integrity is most tested.",
+    "url": "https://note.com/threeplussix/n/n7e9ffcd0e9a0?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Litmus (@litmusapp) / X Litmus (@litmusapp) / X X https://x.com > litmusapp",
+    "url": "https://x.com/litmusapp",
+    "pass": 3
+   },
+   {
+    "quote": "litmus * (@litmus_music) / X litmus * (@litmus_music) / X X https://x.com > litmus_music",
+    "url": "https://x.com/litmus_music",
+    "pass": 3
+   },
+   {
+    "quote": "LitMus (@LitMus9_) / X LitMus (@LitMus9_) / X X https://x.com > LitMus9_",
+    "url": "https://x.com/LitMus9_",
+    "pass": 3
+   },
+   {
+    "quote": "COOKIERUNFESS on X: \" LITMUS COOKIE ℹ️  \" / X COOKIERUNFESS on X: \" LITMUS COOKIE ℹ️  \" / X X https://x.com > @cookierunfess",
+    "url": "https://x.com/cookierunfess/status/2049340767941128479",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Litmus - LinkedIn Litmus - LinkedIn LinkedIn https://www.linkedin.com > litmus-com",
+    "url": "https://www.linkedin.com/company/litmus-com",
+    "pass": 3
+   },
+   {
+    "quote": "Litmus - LinkedIn Litmus - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/litmus-automation",
+    "pass": 3
+   },
+   {
+    "quote": "Litmus - LinkedIn Litmus - LinkedIn LinkedIn https://www.linkedin.com > products",
+    "url": "https://www.linkedin.com/products/litmus-com-litmus/",
+    "pass": 3
+   },
+   {
+    "quote": "litMUS Music - LinkedIn litMUS Music - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/litmusmusic",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Litmus (@LitmusApp) - Facebook Litmus (@LitmusApp) - Facebook Facebook https://www.facebook.com > ... > Other > Brand > Software",
+    "url": "https://www.facebook.com/LitmusApp/",
+    "pass": 3
+   },
+   {
+    "quote": "Digital Litmus | London - Facebook Digital Litmus | London - Facebook Facebook https://www.facebook.com > digitallitmus",
+    "url": "https://www.facebook.com/digitallitmus/",
+    "pass": 3
+   },
+   {
+    "quote": "Litmus | Colombo - Facebook Litmus | Colombo - Facebook Facebook https://www.facebook.com > ... > Advertising Agency",
+    "url": "https://www.facebook.com/litmus.lk/",
+    "pass": 3
+   },
+   {
+    "quote": "Litmus Green (@LitmusGreen23) - Facebook Litmus Green (@LitmusGreen23) - Facebook Facebook https://www.facebook.com > ... > Musician/band",
+    "url": "https://www.facebook.com/LitmusGreen23/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://litmus.io/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://litmus.io/ja/partners-overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://litmus.io/ja/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://litmus.io/ja/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://litmus.io/ja/resources/webinar-improving-food-and-beverage-manufacturing-at-scale",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://litmus.io/ja/become-a-partner-litmus-partner-ecosystem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://litmus.io/ja/solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://litmus.io/ja/partners/Ericsson_Wireless_Solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://litmus.io/ja/customers/cable-manufacturer-improves-quality-and-reduces-manufacturing-costs-with-iiot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://litmus.io/ja/customers/voss-empowers-their-manufacturing-process-through-data-innovation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://litmus.io/ja/customers/mining-company-augments-scada-with-iot-platform-to-enable-predictive",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://litmus.io/ja/solutions/tire-manufacturing",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://litmus.io/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F7xdd0wzmxlfo%2F6FmZo51WLdjacUajKOiXpa%2F750980f95a231e03a1dcbabec47d18cb%2FPartners_Hero_Image.png&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://litmus.io/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F7xdd0wzmxlfo%2F2wc1tSRmiOFSR5TSJzcaeJ%2Fc1d6fbfbae7e74fde303600626d01ccc%2FRevenue_Marketing_Partners.png&w=1920&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://litmus.io/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F7xdd0wzmxlfo%2F2Hb6dnWdM7uBu9CP2zTM0S%2F8d866d6620f4979155ce6c9bcc491438%2FFaster_Time_Marketing_Partners__1_.png&w=1920&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://litmus.io/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F7xdd0wzmxlfo%2F3uunEcByJ70JHj7Pj9ku1A%2F789c66e2a20d292f0d8d1af6ce213f9d%2Faerospace_manufacturing.png&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://litmus.jig-saw.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/2004852/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://litmus-ent.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXLRSP487233_X00C18A8000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.litmus-jp.com/global",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.litmus-jp.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/litmuslitmuslitmus/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.litmus-jp.com/japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.litmus.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=0H9h3Ubgg-c",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.litmus.com/partnership",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.siptrunk.com/blog/white-label-saas-reseller/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.campaignmonitor.com/blog/email-marketing/white-label-email-marketing-platforms/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.owler.com/company/litmus-automation-inc",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://sacra.com/c/litmus/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/litmus/__FcKb-mAF4SEbzeF3izF9JwYs-6Tmjv8yz2wFYQYzoYM",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/86659-39",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/hayato_ballet/n/nc11fcc8fe084?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tararikurari/n/n1a3d29171f6a?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/threeplussix/n/n7e9ffcd0e9a0?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/litmusapp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/litmus_music",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/LitMus9_",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/cookierunfess/status/2049340767941128479",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/litmus-com",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/litmus-automation",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/litmus-com-litmus/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/litmusmusic",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/LitmusApp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/digitallitmus/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/litmus.lk/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/LitmusGreen23/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/LitMus9_",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/litmus_music",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Litmus 日本 導入",
+   "results": [
+    "https://litmus.io/ja",
+    "https://litmus.jig-saw.com/company/",
+    "https://metoree.com/companies/2004852/",
+    "https://litmus.io/ja/newsroom/litmus-automation-japan-and-panasonic-solution-technologies-announce",
+    "https://prtimes.jp/main/html/searchrlp/company_id/139327",
+    "https://www.nikkei.com/article/DGXZRSP698875_R31C25A0000000/",
+    "https://373news.com/lifestyle/info/pr_times/detail/000000170.000062053.html",
+    "https://cloud.watch.impress.co.jp/docs/news/1137363.html",
+    "https://mono.ipros.com/company/detail/2095695/",
+    "https://jp.litmus-jp.com/japan"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Litmus 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://litmus.io/ja",
+    "https://litmus-ent.jp/",
+    "https://www.nikkei.com/article/DGXLRSP487233_X00C18A8000000/",
+    "https://jp.litmus-jp.com/global",
+    "https://monoist.itmedia.co.jp/mn/articles/1808/28/news029.html",
+    "https://litmus.jig-saw.com/about/",
+    "https://litmus-litmus.com/privacy",
+    "https://metoree.com/companies/2004852/",
+    "https://litmus.co.jp/",
+    "https://ja.wikipedia.org/wiki/日本サムスン"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Litmus Japan",
+   "results": [
+    "https://www.litmus-jp.com/",
+    "https://www.instagram.com/litmuslitmuslitmus/",
+    "https://litmus.io/ja",
+    "https://www.litmus-jp.com/japan",
+    "https://litmus-factcheck.jp/about/en/",
+    "https://litmus.jp/news",
+    "https://theorg.com/org/litmus-japan",
+    "https://www.linkedin.com/posts/litmus-jp_the-digital-playbook-search-social-media-activity-7497477890356277249-mCxZ",
+    "https://crane-elephant-ghzz.squarespace.com/global",
+    "https://www.linkedin.com/company/litmus-jp"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Litmus manufacturing customer case study",
+   "results": [
+    "https://litmus.io/customers",
+    "https://www.litmus.com/customers",
+    "https://litmus.io/",
+    "https://www.youtube.com/watch?v=0H9h3Ubgg-c",
+    "https://www.scribd.com/document/1032107209/Litmus-Automation-Case-Study",
+    "https://blog.processminer.com/news/processminer-partners-with-litmus",
+    "https://www.l2l.com/case-studies",
+    "https://www.youtube.com/@Litmusautomation/videos",
+    "https://goamplifi.com/knowledge-base/case-study-6-case-studies-of-data-management-success-in-manufacturing"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Litmus white label OR reseller OR partner program",
+   "results": [
+    "https://www.litmus.com/partnership",
+    "https://litmus.io/ja/partners-overview",
+    "https://www.siptrunk.com/blog/white-label-saas-reseller/",
+    "https://www.campaignmonitor.com/blog/email-marketing/white-label-email-marketing-platforms/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://textus.com/blog/white-label-sms-marketing",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://getreditus.com/resources/glossary/white-label-saas",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Litmus founded funding employees revenue",
+   "results": [
+    "https://www.owler.com/company/litmus-automation-inc",
+    "https://sacra.com/c/litmus/",
+    "https://tracxn.com/d/companies/litmus/__FcKb-mAF4SEbzeF3izF9JwYs-6Tmjv8yz2wFYQYzoYM",
+    "https://pitchbook.com/profiles/company/86659-39",
+    "https://litmus.io/newsroom/litmus-raises-usd30m-in-series-b-funding-led-by-belden",
+    "https://growjo.com/company/Litmus",
+    "https://www.clay.com/dossier/litmus-funding",
+    "https://www.litmus.com/about",
+    "https://www.reveliolabs.com/companies/litmus-software/employees",
+    "https://tracxn.com/d/companies/litmus/__u1nO4lBjR8xk0B-2SVH57tVswMJf7ca1B2X4ywGNl24"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Litmus",
+   "results": [
+    "https://note.com/hayato_ballet/n/nc11fcc8fe084?hl=en",
+    "https://note.com/tararikurari/n/n1a3d29171f6a?hl=en",
+    "https://note.com/threeplussix/n/n7e9ffcd0e9a0?hl=en",
+    "https://note.com/shoutengai/n/n7e9bb5cab991?hl=en",
+    "https://note.com/clever_zinnia927/n/n6218da92a06a?hl=en",
+    "https://note.com/takami_haruka/n/n322c63ef0816?hl=en",
+    "https://note.com/litmus_ave/n/n2a7c6741f087",
+    "https://note.com/hihillstyle/n/n034b859dee34?hl=en",
+    "https://note.com/goukalize/n/ne5a26e6db104?hl=en",
+    "https://note.com/ipnote/n/n1dbc84e95aa0?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com Litmus",
+   "results": [
+    "https://x.com/litmusapp",
+    "https://x.com/litmus_music",
+    "https://x.com/LitMus9_",
+    "https://x.com/cookierunfess/status/2049340767941128479",
+    "https://x.com/UseLitmus",
+    "https://x.com/DETONATEDcom/status/2090912133349351726",
+    "https://x.com/LombardiHimself/status/2103176317391044614",
+    "https://x.com/levie/status/2116652002830963114",
+    "https://x.com/PPRTyler/status/2117334690780901540",
+    "https://x.com/Hieraaetus/status/1597918287383638018"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:linkedin.com Litmus",
+   "results": [
+    "https://www.linkedin.com/company/litmus-com",
+    "https://www.linkedin.com/company/litmus-automation",
+    "https://www.linkedin.com/products/litmus-com-litmus/",
+    "https://www.linkedin.com/company/litmusmusic",
+    "https://www.linkedin.com/company/litmushiring",
+    "https://in.linkedin.com/company/litmus-ink",
+    "https://www.linkedin.com/pulse/validity-acquires-litmus-what-does-mean-shaun-reynolds--epuqe",
+    "https://www.linkedin.com/products/litmus-com-litmus-email-analytics/",
+    "https://ca.linkedin.com/jobs/litmus-jobs",
+    "https://www.linkedin.com/in/vatsal12"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Litmus",
+   "results": [
+    "https://www.facebook.com/LitmusApp/",
+    "https://www.facebook.com/digitallitmus/",
+    "https://www.facebook.com/litmus.lk/",
+    "https://www.facebook.com/LitmusGreen23/",
+    "https://www.facebook.com/litmusautomation/",
+    "https://www.facebook.com/thelitmusnews/reels/",
+    "https://www.facebook.com/groups/295023985976263/posts/1357140039764647/",
+    "https://www.facebook.com/UKspacerockband/",
+    "https://www.facebook.com/litmusink/",
+    "https://www.facebook.com/litmuspress/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Litmus note 社長",
+   "results": [
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://x.com/sadaaki",
+    "https://www.youtube.com/watch?v=xPafg3yYObE",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.com/note_ir/n/n722b1675e9e7",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://diamond.jp/articles/-/388572",
+    "https://froggy.smbcnikko.co.jp/66481/",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Litmus X 投稿",
+   "results": [
+    "https://x.com/LitMus9_",
+    "https://x.com/litmus_music",
+    "https://www.instagram.com/litmus_star/",
+    "https://litmus.com/blog/litmus-live-london-2018-a-recap-in-tweets",
+    "https://lit.link/litmus",
+    "https://litmus9.com/",
+    "https://www.youtube.com/channel/UCzvxNwzyw6kclFOujbek3Sw",
+    "https://syncable.biz/associate/litmus-factcheck/vision",
+    "https://www.instagram.com/reel/DWY2HZGtQUa/",
+    "https://x.com/litmus_music/status/2084984011957346646"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式12頁／PDF・画像4件／外部34頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式12頁／PDF・画像4件／外部34頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像4件／外部34頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式12頁／PDF・画像4件／外部34頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式12頁／PDF・画像4件／外部34頁・検索12回）"
+ }
+}

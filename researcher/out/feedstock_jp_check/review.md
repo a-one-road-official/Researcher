@@ -25,3 +25,10 @@
 
 ## Jeol — VoxelMatters（https://bit.ly/3zUkyBr）
 - 「3-1-2 Musashino, Akishima, Tokyo, Japan」（https://www.voxelmatters.directory/company/jeol/）
+
+## Norm Holding (Norm Additive, Norm 3D) — VoxelMatters（https://bit.ly/3zUkyBr）
+- 「ZEN Global is a Kobe-based additive manufacturing technology partner and reseller, providing 3D printing solutions across polymer, composite, metal, and ceramic AM for manufacturing, medical, and research applications in Japan.」（https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/）
+- 「Norm Holding operates in 9 different countries, national and international, with more than 4,000 employees, 24 companies, 20 production, and 15 sales and logistics centers in the field of fasteners, marketing and trade, technology, additive manufacturing, tooling and sheet metal forming, machining, 」（https://www.voxelmatters.directory/company/norm-additive/）
+
+## SUNLU (Guangdong) Technology Co.,Ltd. — VoxelMatters（https://bit.ly/3zUkyBr）
+- 「Malaysia and Thailand supplied the largest contingents of international visitors, followed by Russia, Singapore, the United States, Indonesia, Japan, South Korea, Brazil, and Vietnam. Seven of the ten leading international visitor markets were in Asia.」（https://www.voxelmatters.com/formnext-asia-shenzhen-2026-closes-with-record-attendance-up-65/）

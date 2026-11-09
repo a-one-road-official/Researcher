@@ -1,0 +1,1312 @@
+{
+ "name": "Etiq",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AUMS不適合",
+ "researched_at": "2026-11-09T18:07:11.365671+00:00",
+ "official_url": "https://www.etiq.ai/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Etiq helps employees build AI skills through their real work, verifies the AI-assisted work they produce, and shows you where capability is growing across your workforce.",
+    "url": "https://www.etiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Etiq proves capability.",
+    "url": "https://www.etiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "MOST TRAINING MEASURES",
+    "url": "https://www.etiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Work produced and verified",
+    "url": "https://www.etiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Feel prepared to use it well",
+    "url": "https://www.etiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "AI adoption is widespread.",
+    "url": "https://www.etiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Training completion says nothing about real work",
+    "url": "https://www.etiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Someone can finish every module and still produce output nobody should send. Completion is attendance, not capability.",
+    "url": "https://www.etiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Usage dashboards show that people are prompting. They do not show that the numbers reconcile or that the claim is actually accurate.",
+    "url": "https://www.etiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "No view of which teams are improving, which tasks are moving to AI, or which mistakes keep coming back.",
+    "url": "https://www.etiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Flagged before the work left the person's screen, and recorded against their capability profile.",
+    "url": "https://www.etiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "An AI tutor alongside them while they practise and do real work.",
+    "url": "https://www.etiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Verified work becomes evidence of workforce capability.",
+    "url": "https://www.etiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Workforce intelligence",
+    "url": "https://www.etiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "See how your workforce is actually adapting to AI",
+    "url": "https://www.etiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Every time someone learns, practises or completes real work with AI, Etiq builds a clearer picture of capability across your organisation. Not a survey, not a self-assessment, and not a completion rate. Evidence from the work itself.",
+    "url": "https://www.etiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Where capability is improving",
+    "url": "https://www.etiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Credits saved through better prompting",
+    "url": "https://www.etiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "This is what makes Etiq more than training:",
+    "url": "https://www.etiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "every verified interaction becomes information about what your workforce can genuinely do.",
+    "url": "https://www.etiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Onboarding asks what each person does and what the business needs. Their modules, their practice tasks and the checks on their work are built around that answer.",
+    "url": "https://www.etiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Why generic AI training does not build capability",
+    "url": "https://www.etiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Information has never been hard to find. What is missing is practice on real work, feedback while it happens, and a check on whether the answer is right. Select an option to compare.",
+    "url": "https://www.etiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Coached practice on their own work",
+    "url": "https://www.etiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "They practise on real work",
+    "url": "https://www.etiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Per-seat pricing that scales with your team. You only pay for the seats you use.",
+    "url": "https://www.etiq.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Hands-on tasks your team completes in their own environment, using your data and processes.",
+    "url": "https://www.etiq.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Private workspaces / sandboxes",
+    "url": "https://www.etiq.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Full activity trails and role-based permissions designed for professional compliance requirements.",
+    "url": "https://www.etiq.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Learning content shaped around the specific tools, systems, and workflows your team actually uses.",
+    "url": "https://www.etiq.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Run it on your team's actual data and tasks, not sample content.",
+    "url": "https://www.etiq.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Teams can start applying AI to real work from week one. Because learning happens inside practical workflows instead of isolated training exercises, employees build useful capability while they work. Verification and guardrails help reinforce good habits and improve output quality as they learn on the job.",
+    "url": "https://www.etiq.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "No. Most people do not need to become AI developers. Etiq helps teams learn how to use AI effectively, validate outputs properly, and apply AI confidently in the work they already do. Learning paths adapt to different roles, experience levels, and business functions.",
+    "url": "https://www.etiq.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Etiq is designed to support enterprise governance requirements. Organisations can control how data is accessed and used, including private deployment options where needed. Synthetic environments can also be used so teams can practise safely without exposing sensitive information.",
+    "url": "https://www.etiq.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Can we customise the content for our industry?",
+    "url": "https://www.etiq.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Custom learning paths aligned to how you work and what your goals are, included in the Company tier. We work with you to ensure that content created matches the goals of your learners and your business.",
+    "url": "https://www.etiq.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How do you measure whether people are actually improving?",
+    "url": "https://www.etiq.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Etiq measures practical capability, not just course completion. Progress is tracked through real tasks, workflows, project outputs, and quality trends over time. Managers can see where teams are building confidence and applying AI effectively in day-to-day work.",
+    "url": "https://www.etiq.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Every week without a verified reskilling programme is a week of liability exposure, productivity loss, and ground given to competitors who are moving faster. The conversation costs nothing.",
+    "url": "https://www.etiq.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Lean Consulting, Lean Training, Lean Tours",
+    "url": "https://shinkamanagement.com/ja/japanese-business-etiquette-guide/",
+    "pass": 3
+   },
+   {
+    "quote": ", or the seat of honor. Your Japanese guests will then self-organize and spontaneously select seats roughly according to hierarchy but also with practicality and language capability in mind.",
+    "url": "https://shinkamanagement.com/ja/japanese-business-etiquette-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "is not provided, especially when the funeral is being kept small and intimate, or in the case where they may wish to avoid having to prepare",
+    "url": "https://shinkamanagement.com/ja/japanese-business-etiquette-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Business Etiquette Training",
+    "url": "https://shinkamanagement.com/ja/japanese-business-etiquette-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Shinka Management runs online and onsite training courses to support clients in doing business with the Japanese.",
+    "url": "https://shinkamanagement.com/ja/japanese-business-etiquette-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Learn More about running a Japanese Business Etiquette training program for your staff.",
+    "url": "https://shinkamanagement.com/ja/japanese-business-etiquette-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan, along with other East Asian countries, has a longstanding tradition of masking, even prior to COVID. Whether during flu season, or on a case-by-case basis for those displaying moderate cold symptoms, masking has been encouraged as pro-social action in Japan for over 100 years.",
+    "url": "https://www.japan.travel/en/ca/etiquette/",
+    "pass": 3
+   },
+   {
+    "quote": "You will find that precautionary masking is still the norm in a post-pandemic Japan. Although there is understanding that this is a personal choice, it tends to leave a better impression to put on a mask in crowded & confined areas if you are displaying any cold-like symptoms.",
+    "url": "https://www.japan.travel/en/ca/etiquette/",
+    "pass": 3
+   },
+   {
+    "quote": "When in doubt, chances are there’s a line. Unlike some restaurants in North America, in Japan it is standard to make your presence known before taking a seat. Some popular restaurants such as sushi trains may even require you to take a number from a machine (these tend to be bigger chains, where the interface is multilingual).",
+    "url": "https://www.japan.travel/en/ca/etiquette/",
+    "pass": 3
+   },
+   {
+    "quote": "Tabearuki (or walking and eating) is a “taboo” within Japanese society which prospective visitors are often warned about. However, those visiting the busy shopping arcades of Osaka and market districts like Shimokitazawa may be surprised to see several locals carrying snacks and coffee as they go about their day. So what gives?",
+    "url": "https://www.japan.travel/en/ca/etiquette/",
+    "pass": 3
+   },
+   {
+    "quote": "Drone permissions can also be a very fraught area, with policies varying depending on the prefecture and property. In general, permission is required before flying a drone over any private property, or busy public areas. To avoid any flack, confirming with the relevant property staff or local koban (police box) is always a good way to go.",
+    "url": "https://www.japan.travel/en/ca/etiquette/",
+    "pass": 3
+   },
+   {
+    "quote": "Proper manners and consideration towards others are highly valued in Japan, and misbehaving tourists are increasingly causing frictions. In order not to annoy or offend the locals, foreign visitors should be familiar with at least the basic rules:",
+    "url": "https://www.japan-guide.com/e/e622.html",
+    "pass": 3
+   },
+   {
+    "quote": "Is this the best way to visit Yamaguchi Prefecture?",
+    "url": "https://www.japan-guide.com/e/e622.html",
+    "pass": 3
+   },
+   {
+    "quote": "Anything we can improve?",
+    "url": "https://www.japan-guide.com/e/e622.html",
+    "pass": 3
+   },
+   {
+    "quote": "We strive to keep Japan Guide up-to-date and accurate, and we're always looking for ways to improve. If you have any updates, suggestions, corrections or opinions, please let us know:",
+    "url": "https://www.japan-guide.com/e/e622.html",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "practiced throughout the nation of Japan. The",
+    "url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": ". This is done in the same room as the tub, while seated on a small stool and using a hand-held shower. Soap, a wash cloth, and shampoo are provided, and the bather is expected to wash and rinse thoroughly twice before stepping into the",
+    "url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "because the heated water is not drained after each person's use, and several hours (and the expense of a considerable amount of water) are required to heat fresh water. Any hair or debris is scooped from the water after the bath, and a lid is placed over the tub to maintain the water temperature and prevent",
+    "url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "In a home or small inn, a traditional tub is square and deep enough that the water covers the bather's shoulders, but its length and width are small so the bather sits with the knees drawn up. A scoop is provided so the bather can douse their head with the tub water. Because the",
+    "url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "is meant for a relaxing private soak, yet serves numerous people, the bather needs to be careful not to indulge too long. Many",
+    "url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Etiq helps employees build AI skills through their real work, verifies the AI-assisted work they produce, and shows you where capability is growing across your workforce.",
+    "url": "https://www.etiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "employees use AI at work at least sometimes",
+    "url": "https://www.etiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Every time someone works with AI, Etiq checks the resulting work against the underlying evidence. So employees learn from mistakes while they work, and managers do not have to take AI-generated output on trust.",
+    "url": "https://www.etiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Teams can start applying AI to real work from week one. Because learning happens inside practical workflows instead of isolated training exercises, employees build useful capability while they work. Verification and guardrails help reinforce good habits and improve output quality as they learn on the job.",
+    "url": "https://www.etiq.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Tabearuki (or walking and eating) is a “taboo” within Japanese society which prospective visitors are often warned about. However, those visiting the busy shopping arcades of Osaka and market districts like Shimokitazawa may be surprised to see several locals carrying snacks and coffee as they go about their day. So what gives?",
+    "url": "https://www.japan.travel/en/ca/etiquette/",
+    "pass": 3
+   },
+   {
+    "quote": "Service and public employees",
+    "url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "is an important part of the daily routine in Japan, where bath tubs are for relaxing, not cleaning the body. Therefore, the body must be cleaned and scrubbed before entering the",
+    "url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "is probably the feature of Japanese etiquette that is best known outside Japan. Bowing is extremely important: although children normally begin learning how to bow at a very young age, companies commonly train their employees precisely how they are to bow.",
+    "url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "that gave their life to become part of the meal.",
+    "url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "are provided for short walks outside when entering the house. It is generally considered polite to wear shoes instead of sandals, but sandal wearers may carry a pair of white socks to put over their bare feet or stockings, so that their bare feet will not touch the slippers that the host offers, or they may use",
+    "url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Regarding seating arrangements, see",
+    "url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "which is starting. They request the addressee's continued favor in the new year. If one receives a card from someone to whom one has not sent a card, etiquette dictates that one must send a card in return, to arrive no later than the seventh of January.",
+    "url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japan is frequently cited by non-Japanese as a place where service is excellent. Such claims are difficult, if not impossible, to quantify. Nevertheless, service at public establishments such as restaurants, drinking places, shops and services is generally friendly, attentive and very polite, as reflected in a common reminder given by managers and employers to their employees:",
+    "url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "\"). Generally, service employees will seldom engage in casual conversation with a customer with the aim of forming a rapport as sometimes happens in western cultures. The service employees are expected to maintain a more formal, professional relationship with all customers. Private conversations among service staff are considered inappropriate when a customer is near.",
+    "url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "In general, as in most countries, etiquette dictates that the customer is treated with reverence. In Japan this means that employees speak in a",
+    "url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Dress for employees is normally neat and formal, depending on the type and style of establishment. Public employees such as",
+    "url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "whose job is to ensure that as many people as possible board the rush-hour trains—and other types of employees who must touch people—often wear white gloves.",
+    "url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": ". Tarrytown, NY: Marshall Cavendish.",
+    "url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Etiq AI Revenue 2025: $2M Est.",
+    "url": "https://getlatka.com/companies/etiq.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Etiq AI has not published its revenue. GetLatka estimates it at about $2M a year (September 2025).",
+    "url": "https://getlatka.com/companies/etiq.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Etiq AI has 18 employees (September 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/etiq.ai",
+    "pass": 3
+   },
+   {
+    "quote": "What is Etiq AI's revenue?",
+    "url": "https://getlatka.com/companies/etiq.ai",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Etiq AI's revenue at about",
+    "url": "https://getlatka.com/companies/etiq.ai",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Etiq AI have?",
+    "url": "https://getlatka.com/companies/etiq.ai",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of September 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/etiq.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/etiq.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/etiq.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/etiq.ai",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": ", whether the work is a board pack, a client email, a contract summary or a piece of analysis.",
+    "url": "https://www.etiq.ai/",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本のビジネスマナーと文化に関する完全ガイド",
+    "url": "https://shinkamanagement.com/ja/japanese-business-etiquette-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "OTRS 導入事例 – トヨタ紡織株式会社様",
+    "url": "https://shinkamanagement.com/ja/japanese-business-etiquette-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "OTRS 導入事例 – 丸五ゴム工業株式会社様",
+    "url": "https://shinkamanagement.com/ja/japanese-business-etiquette-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "OTRS 導入事例 – 日本通運株式会社様",
+    "url": "https://shinkamanagement.com/ja/japanese-business-etiquette-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "OTRS 導入事例 – 株式会社リジョイスカンパニー様",
+    "url": "https://shinkamanagement.com/ja/japanese-business-etiquette-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "日本のビジネスエチケットを理解し、尊重することは、日本でのビジネス関係を成功させたい人にとって重要である",
+    "url": "https://shinkamanagement.com/ja/japanese-business-etiquette-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "本書は、日本での生活と仕事、",
+    "url": "https://shinkamanagement.com/ja/japanese-business-etiquette-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "引率、そしてシンカ・マネジメント・チームとの協働による企業対日本人ビジネス支援の経験から、日本のビジネス・エチケットの重要な側面を包括的に紹介している",
+    "url": "https://shinkamanagement.com/ja/japanese-business-etiquette-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "日本のビジネスエチケットと文化についてのこのガイドは、きっと役に立つだろう：",
+    "url": "https://shinkamanagement.com/ja/japanese-business-etiquette-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場に進出している、または進出を検討している外国企業",
+    "url": "https://shinkamanagement.com/ja/japanese-business-etiquette-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "外国人スタッフを抱える日系多国籍企業が、日本人の同僚を理解し、関係を築きたいと考えている",
+    "url": "https://shinkamanagement.com/ja/japanese-business-etiquette-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の組織に買収された、または買収される予定の企業",
+    "url": "https://shinkamanagement.com/ja/japanese-business-etiquette-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "日本での駐在員やパートナーをお探しの企業様",
+    "url": "https://shinkamanagement.com/ja/japanese-business-etiquette-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "日本または日系多国籍企業への就職を希望する個人",
+    "url": "https://shinkamanagement.com/ja/japanese-business-etiquette-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "日本のビジネスエチケットをナビゲートするのは、まるで別世界に足を踏み入れたような気分になるかもしれない",
+    "url": "https://shinkamanagement.com/ja/japanese-business-etiquette-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "最初は難しく感じるかもしれないが、ちょっとした洞察力と練習で、日本人相手でも効果的な人間関係を築くことができる",
+    "url": "https://shinkamanagement.com/ja/japanese-business-etiquette-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "日本のビジネスマナーは、日本のビジネスプロフェッショナルにとっても難しいテーマであるのが現実だ！",
+    "url": "https://shinkamanagement.com/ja/japanese-business-etiquette-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "東京の一般的な書店に行くと、ビジネスコーナーにはビジネスマナー、会議でのエチケット、丁寧なビジネス用語など、日本のプロフェッショナルのビジネス交流をサポートする本が棚いっぱいに並べられている",
+    "url": "https://shinkamanagement.com/ja/japanese-business-etiquette-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "また、日本でキャリアをスタートするほとんどの日本人は、入社研修の一環として、ビジネスマナーやホスピタリティに関する広範囲にわたる研修を受講します",
+    "url": "https://shinkamanagement.com/ja/japanese-business-etiquette-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "社員が、年上の同僚や顧客、一般社会を前に、どのようにコミュニケーションをとり、行動すべきかを理解することは重要なことであり、このような観点から、日本の産業界全体では、これらの研修が一般的に実施さてれいるのです",
+    "url": "https://shinkamanagement.com/ja/japanese-business-etiquette-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "多くの外国人にとって、日本に住んだり日本企業で働いたりしない限り、日本のビジネスマナーをマスターするのは難しいことかもしれません",
+    "url": "https://shinkamanagement.com/ja/japanese-business-etiquette-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに難しいことには、ほとんどの日本人は（少なくとも表面上は）失態に対して寛容であり、意図せずに誤った判断を犯した外国人に対し、その失態を指摘することで恥をかかせるようなことはしない、ということを覚えておく必要があります",
+    "url": "https://shinkamanagement.com/ja/japanese-business-etiquette-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "習得にはまだ何年もかかるかもしれないが、ビジネス習慣やマナーについて十分な知識と意識を持つことで、日本人と接する際の効果を大幅に向上させることは可能だ",
+    "url": "https://shinkamanagement.com/ja/japanese-business-etiquette-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "本稿は、私が日本に住み始めた最初の頃に入手できていれば良かったなと思うことを記載した総合ガイドです",
+    "url": "https://shinkamanagement.com/ja/japanese-business-etiquette-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "本ガイドを通じて、皆さんが日本の社会とビジネス文化の複雑さをうまく切り抜け、私が過去30年以上にわたって、日本の人々と共に過ごし、仕事をし、ビジネスをしてきた中で犯してきたような多くの失敗を避けるために必要不可欠な知識を提供できれば嬉しく思います",
+    "url": "https://shinkamanagement.com/ja/japanese-business-etiquette-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Hachimanzaka Slope is a popular photo spot, and visitors from both Japan and overseas can sometimes be seen standing in the middle of the road to take commemorative photos. However, the road is not closed to traffic, and taking photos in the roadway can obstruct vehicles and poses a serious risk of injury. Please do not enter the roadway when taking photos.",
+    "url": "https://www.hakodate.travel/en/news/hachimanzaka/",
+    "pass": 3
+   },
+   {
+    "quote": "Etiquette | Travel Japan | JNTO",
+    "url": "https://www.japan.travel/en/ca/etiquette/",
+    "pass": 3
+   },
+   {
+    "quote": "Planning a Trip to Japan?",
+    "url": "https://www.japan.travel/en/ca/etiquette/",
+    "pass": 3
+   },
+   {
+    "quote": "Share your travel photos with us by hashtagging your images with #visitjapanjp",
+    "url": "https://www.japan.travel/en/ca/etiquette/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Etiquette 101:",
+    "url": "https://www.japan.travel/en/ca/etiquette/",
+    "pass": 3
+   },
+   {
+    "quote": "Eleven Things to Keep in Mind Before Travelling to Japan",
+    "url": "https://www.japan.travel/en/ca/etiquette/",
+    "pass": 3
+   },
+   {
+    "quote": "Handshakes, high-fives, hugs, and certainly kisses are far less common as a form of greeting in Japan. Though not necessarily frowned upon, people have different comfort levels when it comes to displays of physical affection or intimacy. Be mindful of others’ body language, and try to meet them where they are at. If you’re unsure of someone’s comfort level, simply bowing is usually the safest bet.",
+    "url": "https://www.japan.travel/en/ca/etiquette/",
+    "pass": 3
+   },
+   {
+    "quote": "All of the noise you will encounter Japanese cityscapes - from the din of arcades and pachinko parlours, to supermarket jingles, to campaign trucks blasting slogans - may lead you to believe that Japan is a very loud country. However, on an interpersonal level, Japan tends to be rather soft-spoken.",
+    "url": "https://www.japan.travel/en/ca/etiquette/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan, along with other East Asian countries, has a longstanding tradition of masking, even prior to COVID. Whether during flu season, or on a case-by-case basis for those displaying moderate cold symptoms, masking has been encouraged as pro-social action in Japan for over 100 years.",
+    "url": "https://www.japan.travel/en/ca/etiquette/",
+    "pass": 3
+   },
+   {
+    "quote": "You will find that precautionary masking is still the norm in a post-pandemic Japan. Although there is understanding that this is a personal choice, it tends to leave a better impression to put on a mask in crowded & confined areas if you are displaying any cold-like symptoms.",
+    "url": "https://www.japan.travel/en/ca/etiquette/",
+    "pass": 3
+   },
+   {
+    "quote": "When in doubt, chances are there’s a line. Unlike some restaurants in North America, in Japan it is standard to make your presence known before taking a seat. Some popular restaurants such as sushi trains may even require you to take a number from a machine (these tend to be bigger chains, where the interface is multilingual).",
+    "url": "https://www.japan.travel/en/ca/etiquette/",
+    "pass": 3
+   },
+   {
+    "quote": "Tabearuki (or walking and eating) is a “taboo” within Japanese society which prospective visitors are often warned about. However, those visiting the busy shopping arcades of Osaka and market districts like Shimokitazawa may be surprised to see several locals carrying snacks and coffee as they go about their day. So what gives?",
+    "url": "https://www.japan.travel/en/ca/etiquette/",
+    "pass": 3
+   },
+   {
+    "quote": "When it comes to photography, most Japanese etiquette falls under the realm of common sense. Do not take others’ photos without permission, including those in traditional attire, unless at a designated event for such purposes. Many shops and museums will also have ample signage indicating where photography is or isn’t permitted.",
+    "url": "https://www.japan.travel/en/ca/etiquette/",
+    "pass": 3
+   },
+   {
+    "quote": "11) If You Have Japanese - Use It!",
+    "url": "https://www.japan.travel/en/ca/etiquette/",
+    "pass": 3
+   },
+   {
+    "quote": "Search japan-guide.com",
+    "url": "https://www.japan-guide.com/e/e622.html",
+    "pass": 3
+   },
+   {
+    "quote": "Proper manners and consideration towards others are highly valued in Japan, and misbehaving tourists are increasingly causing frictions. In order not to annoy or offend the locals, foreign visitors should be familiar with at least the basic rules:",
+    "url": "https://www.japan-guide.com/e/e622.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Travel News - Autumn 2026",
+    "url": "https://www.japan-guide.com/e/e622.html",
+    "pass": 3
+   },
+   {
+    "quote": "The many appetites of Osaka",
+    "url": "https://www.japan-guide.com/e/e622.html",
+    "pass": 3
+   },
+   {
+    "quote": "New reasons to visit Tokyo's Imperial Palace",
+    "url": "https://www.japan-guide.com/e/e622.html",
+    "pass": 3
+   },
+   {
+    "quote": "What will be your main mode of transportation within Japan on your next trip?",
+    "url": "https://www.japan-guide.com/e/e622.html",
+    "pass": 3
+   },
+   {
+    "quote": "We strive to keep Japan Guide up-to-date and accurate, and we're always looking for ways to improve. If you have any updates, suggestions, corrections or opinions, please let us know:",
+    "url": "https://www.japan-guide.com/e/e622.html",
+    "pass": 3
+   },
+   {
+    "quote": "Sign in and subscribe for the latest Japan travel news and updates.",
+    "url": "https://www.japan-guide.com/e/e622.html",
+    "pass": 3
+   },
+   {
+    "quote": "Etiquette in Japan - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "practiced throughout the nation of Japan. The",
+    "url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "of Japan has changed greatly over the millennia as different civilizations influenced its culture. Modern Japanese etiquette has a strong influence from that of",
+    "url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "is an important part of the daily routine in Japan, where bath tubs are for relaxing, not cleaning the body. Therefore, the body must be cleaned and scrubbed before entering the",
+    "url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Bathtubs are increasingly common in modern Japanese homes; however, in cities there are still many small and old apartments that do not have bathtubs, so public",
+    "url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "is probably the feature of Japanese etiquette that is best known outside Japan. Bowing is extremely important: although children normally begin learning how to bow at a very young age, companies commonly train their employees precisely how they are to bow.",
+    "url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "When dealing with non-Japanese people, many Japanese will",
+    "url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": ". Since many non-Japanese are familiar with the custom of bowing, this often leads to a combined bow and handshake which can become complicated. Bows may be combined with handshakes or performed before or after shaking hands. Generally when bowing in close proximity, as necessitated when combining bowing and shaking hands, people turn slightly to one side (usually the left) to avoid bumping heads.",
+    "url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "It is common for Japanese businesses to set out a small tray near a cash register so customers can place their money on the tray rather than handing it directly to the cashier. If a business provides such a tray, it is a breach of etiquette to disregard it and instead hold out the money for the cashier to take by hand.",
+    "url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": ", is not a custom in Japan, but may exist as an fixed service charge or built into the product price.",
+    "url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Customs and etiquette in Japanese dining",
+    "url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "before eating, which is common practice according to Japanese etiquette",
+    "url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Meals in Japan traditionally begin with the word",
+    "url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "日本 のビジネスマナーと文化に関する完全ガイド — 日本 のビジネスマナーと文化に関する完全ガイド Shinka Management https://shinkamanagement.com > japanese-business-etique...",
+    "url": "https://shinkamanagement.com/ja/japanese-business-etiquette-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "【Important Notice】Photography and Sightseeing Etiquette ... — 【Important Notice】Photography and Sightseeing Etiquette ... Travel Hakodate https://www.hakodate.travel > news",
+    "url": "https://www.hakodate.travel/en/news/hachimanzaka/",
+    "pass": 3
+   },
+   {
+    "quote": "Etiquette | Travel Japan | JNTO — Etiquette | Travel Japan | JNTO Japan National Tourism Organization (JNTO) https://www.japan.travel > etiquette",
+    "url": "https://www.japan.travel/en/ca/etiquette/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Etiquette - Japan Guide — Japanese Etiquette - Japan Guide Japan Guide https://www.japan-guide.com > ...",
+    "url": "https://www.japan-guide.com/e/e622.html",
+    "pass": 3
+   },
+   {
+    "quote": "Etiquette in Japan - Wikipedia — Etiquette in Japan - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Etiq...",
+    "url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Etiq AI Revenue 2025: $2M Est. - GetLatka — Etiq AI Revenue 2025: $2M Est. - GetLatka GetLatka https://getlatka.com > companies > etiq",
+    "url": "https://getlatka.com/companies/etiq.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Etiq AI - 2026 Company Profile & Team - Tracxn — Etiq AI - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/etiq-ai/__-oqpc6ScbPyYtUVZKF9944OkCByQ4PZlstFwcLbxKSo",
+    "pass": 3
+   },
+   {
+    "quote": "Etiq AI announce €900000 seed funding from GapMinder VC — Etiq AI announce €900000 seed funding from GapMinder VC Etiq AI https://www.etiq.ai > posts > etiq-ai-a...",
+    "url": "https://www.etiq.ai/posts/etiq-ai-announce-eu900-000-seed-funding-from-gapminder-vc",
+    "pass": 3
+   },
+   {
+    "quote": "Iris Li - Currently fundraising for Etiq AI - LinkedIn — Iris Li - Currently fundraising for Etiq AI - LinkedIn LinkedIn https://uk.linkedin.com > ...",
+    "url": "https://uk.linkedin.com/in/iris-li-8887073b",
+    "pass": 3
+   },
+   {
+    "quote": "Etiq AI: Why etiq .com matters after Seed funding - Westmore — Etiq AI: Why etiq .com matters after Seed funding - Westmore westmore.com https://westmore.com > funded > etiq-ai",
+    "url": "https://westmore.com/funded/etiq-ai",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "meaning \"very few live a long life up to 70 years of age\" in a Chinese poem",
+    "url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Supermarket Cart Loaded with Snacks Draws Health and Etiq ... Supermarket Cart Loaded with Snacks Draws Health and Etiq ... X https://x.com > Trending",
+    "url": "https://x.com/i/trending/1996369060440031546",
+    "pass": 3
+   },
+   {
+    "quote": "Etiquette Knowledge (@etiquipedia) / X Etiquette Knowledge (@etiquipedia) / X X https://x.com > etiquipedia",
+    "url": "https://x.com/etiquipedia",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Etiq - LinkedIn Etiq - LinkedIn LinkedIn https://www.linkedin.com > etiqdesign",
+    "url": "https://www.linkedin.com/company/etiqdesign",
+    "pass": 3
+   },
+   {
+    "quote": "Etiq AI - LinkedIn Etiq AI - LinkedIn LinkedIn https://uk.linkedin.com > etiq",
+    "url": "https://uk.linkedin.com/company/etiq",
+    "pass": 3
+   },
+   {
+    "quote": "Kartik Shah - ETIQ - LinkedIn Kartik Shah - ETIQ - LinkedIn LinkedIn https://www.linkedin.com > ...",
+    "url": "https://www.linkedin.com/in/kartik-shah-142aa6ab",
+    "pass": 3
+   },
+   {
+    "quote": "Raluca Crisan - CTO & Co-founder @EtiqAI | LinkedIn Raluca Crisan - CTO & Co-founder @EtiqAI | LinkedIn LinkedIn https://uk.linkedin.com > rraluca",
+    "url": "https://uk.linkedin.com/in/rraluca",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "metki i wszywki do odzieży (@ Etiq .poland) - Facebook metki i wszywki do odzieży (@ Etiq .poland) - Facebook Facebook https://www.facebook.com > Etiq.poland",
+    "url": "https://www.facebook.com/Etiq.poland/",
+    "pass": 3
+   },
+   {
+    "quote": "ETIQ Construction | Quatre Bornes - Facebook ETIQ Construction | Quatre Bornes - Facebook Facebook https://www.facebook.com > ... > Construction Company",
+    "url": "https://www.facebook.com/p/ETIQ-Construction-100025765278649/",
+    "pass": 3
+   },
+   {
+    "quote": "EtiQ Services Financiers | Laval QC - Facebook EtiQ Services Financiers | Laval QC - Facebook Facebook https://www.facebook.com > ... > Financial service",
+    "url": "https://www.facebook.com/etiQservicesfinanciers/",
+    "pass": 3
+   },
+   {
+    "quote": "ETIQ | New York NY - Facebook ETIQ | New York NY - Facebook Facebook https://www.facebook.com > ... > Design & fashion",
+    "url": "https://www.facebook.com/etiqofficial/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.etiq.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.etiq.ai/pricing",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://shinkamanagement.com/ja/japanese-business-etiquette-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.travelvoice.jp/20260219-159279",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.etias.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reuters.com/jp/economy/industry/MJGXK2E5RJO7VFIRVVL5LIEKRM-2025-06-13/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.hakodate.travel/en/news/hachimanzaka/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/topics/keywords/%E6%97%A5%E6%9C%AC%E7%B7%8F%E4%BB%A3%E7%90%86%E5%BA%97",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=m9qq9nQP9KI",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://alpc.tokyo/pages/business-d2c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan.travel/en/ca/etiquette/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan-guide.com/e/e622.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/p/DWhD4IEGHDA/?hl=bn",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vKM6i35gG_drc8bewfBil77oT_NA_sDu114XhEDbEN4xlofndfE",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eepqualitygroup.com/Case-Studies",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://highqa.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/industries/customer-success-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://webinone.com/reseller-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.reddit.com/r/GrowthHacking/comments/1rxruln/using_a_whitelabel_or_reseller_program_to/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/etiq.ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/etiq-ai/__-oqpc6ScbPyYtUVZKF9944OkCByQ4PZlstFwcLbxKSo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/iris-li-8887073b",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/i/trending/1996369060440031546",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/etiqdesign",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/company/etiq",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/kartik-shah-142aa6ab",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/rraluca",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Etiq.poland/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/ETIQ-Construction-100025765278649/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/etiQservicesfinanciers/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/etiqofficial/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/etiquipedia",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Etiq 日本 導入",
+   "results": [
+    "https://shinkamanagement.com/ja/japanese-business-etiquette-guide/",
+    "https://www.travelvoice.jp/20260219-159279",
+    "https://www.etias.co.jp/",
+    "https://www.reuters.com/jp/economy/industry/MJGXK2E5RJO7VFIRVVL5LIEKRM-2025-06-13/",
+    "https://kintetsu.com/ja/news/%E6%97%A5%E6%9C%AC%E7%89%88esta%E5%B0%8E%E5%85%A5%E3%81%B8%EF%BC%812028%E5%B9%B4%E5%BA%A6%E3%81%8B%E3%82%89%E5%A7%8B%E3%81%BE%E3%82%8B%E6%96%B0%E3%83%BB%E9%9B%BB%E5%AD%90%E6%B8%A1%E8%88%AA%E8%AA%8D/",
+    "https://www.youtube.com/watch?v=T-bMaT0qMm4",
+    "https://www.facebook.com/nytimes/videos/tokyos-government-has-a-new-summer-dress-code-allowing-shorts-and-t-shirts-at-wo/1077878528233651/",
+    "https://bestcarweb.jp/news/entame/1669612?prd=2",
+    "https://www.etiq.ai/",
+    "https://www.ai-souken.com/article/ai-adoption-japan-status"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Etiq 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.hakodate.travel/en/news/hachimanzaka/",
+    "https://prtimes.jp/topics/keywords/%E6%97%A5%E6%9C%AC%E7%B7%8F%E4%BB%A3%E7%90%86%E5%BA%97",
+    "https://www.youtube.com/watch?v=m9qq9nQP9KI",
+    "https://alpc.tokyo/pages/business-d2c",
+    "https://ebis.obda.or.jp/faq/1143",
+    "https://ebisumart.com/blog/agency-m/",
+    "http://www.makototusho.co.jp/shops",
+    "https://solxia.co.jp/import-agency",
+    "https://www.asteal.co.jp/partner.html",
+    "https://kathalo.com/kathalog/import-business/1027/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Etiq Japan",
+   "results": [
+    "https://www.japan.travel/en/ca/etiquette/",
+    "https://www.japan-guide.com/e/e622.html",
+    "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+    "https://www.instagram.com/p/DWhD4IEGHDA/?hl=bn",
+    "https://intl.khakis2020.com/products/letiquette-japan-special-issue?srsltid=AYCX9vLdQFoz7nlOJePZbvXLz2uYOJTPEbZTR7Ukto87jYIxX_9B2njE",
+    "https://www.goodreads.com/book/show/31035.Etiquette_Guide_to_Japan",
+    "https://www.travelvoice.jp/english/japan-tourism-agency-creates-new-travel-etiquette-and-tourism-pictogram-as-guidances-for-travelers-to-promote-sustainable-tourism",
+    "https://milkatrip.com/japan-etiquette-guide/",
+    "https://www.soon.global/l-etiquette-japan-special-issue",
+    "https://etiqdesign.com/collections/necklace"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Etiq manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vKM6i35gG_drc8bewfBil77oT_NA_sDu114XhEDbEN4xlofndfE",
+    "https://www.eepqualitygroup.com/Case-Studies",
+    "https://highqa.com/case-studies/",
+    "https://www.eos.info/industries/customer-success-stories",
+    "https://www.factbird.com/resources/case-studies",
+    "https://etintegrators.com/case-studies/",
+    "https://www.athenaswc.com/case-studies/",
+    "https://protechdesign.com/customercasestudy/",
+    "https://www.etiqa.it/case-studies",
+    "https://about.ads.microsoft.com/en/resources/discover/case-studies/etiqa-success-story"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Etiq white label OR reseller OR partner program",
+   "results": [
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://webinone.com/reseller-program",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://www.reddit.com/r/GrowthHacking/comments/1rxruln/using_a_whitelabel_or_reseller_program_to/",
+    "https://legiit.com/blog/top-12-white-label-seo-reseller-programs-agencies",
+    "https://oddit.co/collections/white-label-web-design-reseller",
+    "https://journeybee.io/resources/beyond-co-branding-why-white-label-partner-software-defines-winning-partnerships",
+    "https://www.quora.com/If-you-build-a-successful-company-as-a-reseller-of-software-as-a-white-label-partner-will-a-company-ever-acquire-you-or-will-they-just-go-to-the-company-you-whitelabeled-from-Can-you-really-have-an-exit-starting-a",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Etiq founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/etiq.ai",
+    "https://tracxn.com/d/companies/etiq-ai/__-oqpc6ScbPyYtUVZKF9944OkCByQ4PZlstFwcLbxKSo",
+    "https://www.etiq.ai/posts/etiq-ai-announce-eu900-000-seed-funding-from-gapminder-vc",
+    "https://uk.linkedin.com/in/iris-li-8887073b",
+    "https://westmore.com/funded/etiq-ai",
+    "https://www.uktechnews.info/2021/01/28/etiq-ai-secures-585k-pre-seed-investment-from-sfc-capital/",
+    "https://fi.co/benchmarks",
+    "https://soferadvisors.com/insights/blog/how-to-value-a-startup-before-it-has-revenue/",
+    "https://gaps.com/finance/",
+    "https://pitchbook.com/profiles/company/459455-05"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Etiq",
+   "results": [
+    "https://note.com/archit_games/n/n7b9650b0ddd5",
+    "https://note.com/neo_blood/n/nba23f8b00f19",
+    "https://note.com/archit_games/n/n7b9650b0ddd5?hl=ko",
+    "https://note.com/sam_anj_air/n/n39a98e171a39",
+    "https://note.com/keitafukui/n/ncb016e458e75?hl=en",
+    "https://note.com/hyfilters_japan/n/na26f9473c0e4",
+    "https://note.com/sasimitu/n/n57afa70bd1b0?hl=en",
+    "https://note.com/global_education/n/n761ef9394c05",
+    "https://note.com/squid7384/n/n1056b5f903cd",
+    "https://note.com/tag/我々は宇宙人"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com Etiq",
+   "results": [
+    "https://x.com/prefet974/status/586552788538302464",
+    "https://x.com/i/trending/1996369060440031546",
+    "https://x.com/Profeco/status/2119429735235412179",
+    "https://x.com/AnimeBallsDeep/status/2020135569183867022",
+    "https://x.com/AnimeBallsDeep/status/2014309027694452940",
+    "https://x.com/zapping_ecu/status/1923456651622793514",
+    "https://x.com/PressRacing/status/2117025082572976247",
+    "https://x.com/Itssan17/status/2106947196772126730",
+    "https://x.com/DelhiHighCourt",
+    "https://x.com/etiq_"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Etiq",
+   "results": [
+    "https://www.linkedin.com/company/etiqdesign",
+    "https://uk.linkedin.com/company/etiq",
+    "https://www.linkedin.com/in/kartik-shah-142aa6ab",
+    "https://uk.linkedin.com/in/rraluca",
+    "https://www.linkedin.com/jobs/view/lead-fine-jewelry-sales-associate-at-etiq-4358591338",
+    "https://uk.linkedin.com/in/iris-li-8887073b",
+    "https://ca.linkedin.com/company/etiq-services-financiers",
+    "https://www.linkedin.com/posts/anojensen_i-asked-ai-to-make-a-promotion-for-etiq-concierge-activity-7524455758843801601-hwaP",
+    "https://www.linkedin.com/company/etiq-print/",
+    "https://www.linkedin.com/company/etiq"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:facebook.com Etiq",
+   "results": [
+    "https://www.facebook.com/Etiq.poland/",
+    "https://www.facebook.com/p/ETIQ-Construction-100025765278649/",
+    "https://www.facebook.com/etiQservicesfinanciers/",
+    "https://www.facebook.com/etiqofficial/",
+    "https://www.facebook.com/etiqtandartsen/",
+    "https://www.facebook.com/groups/1859392030939447/posts/4532002770345013/",
+    "https://www.facebook.com/EtiqFX/posts/hi-guys-etiq-markets-brings-you-the-top-news-which-will-be-the-highlight-of-the-/264858682004036/?locale=pt_BR",
+    "https://www.facebook.com/OKIEurope/videos/label-expo-etiqprintmp4/987037469899809/",
+    "https://www.facebook.com/AssociationETIQ/",
+    "https://www.facebook.com/etiqofficial/posts/the-heritage-of-etiq-new-york-are-intertwined-our-deconstruct-motif-is-meant-to-/204007402152881/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Etiq note 社長",
+   "results": [
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/sadaaki",
+    "https://x.com/sadaaki",
+    "https://note.com/lgritceo",
+    "https://www.ye-digital.com/jp/news/detail.php?id=838&year=2025",
+    "https://note.com/take/n/nc98f219cc574",
+    "https://ja.wikipedia.org/wiki/Note_(%E4%BC%81%E6%A5%AD)",
+    "https://www.youtube.com/watch?v=796hK2y9pVE",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Etiq X 投稿",
+   "results": [
+    "https://www.instagram.com/etiq.official/",
+    "https://x.com/etiquipedia",
+    "https://docs.etiq.ai/",
+    "https://blog.hubspot.com/sales/the-ultimate-guide-to-twitter-etiquette-infographic",
+    "https://www.mpcaaca.org/twitter-etiquette",
+    "https://www.youtube.com/watch?v=gvbCoPOjdwA",
+    "https://goinswriter.com/twitter-etiquette/",
+    "https://www.outboundengine.com/blog/15-expert-tips-for-social-media-etiquette/",
+    "https://x.com/etiq_",
+    "https://www.instagram.com/etiqdesign/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部33頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部33頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部33頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部33頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部33頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部33頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部33頁・検索12回）"
+ }
+}

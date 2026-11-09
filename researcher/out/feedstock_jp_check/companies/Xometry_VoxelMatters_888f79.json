@@ -1,0 +1,520 @@
+{
+ "name": "Xometry — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:3d-metal-printer-distributor;advanced-materials-manufacturer;binder-jetting;bioink-manufacturer;bound-metal-printing;ceramic-filament;ceramics-3d-printer-reseller;ceramics-3d-printing-service;ceramics-material-manufacturer;filament-extruder;materials;powder-manufacturer",
+ "researched_at": "2026-11-09T17:50:29.609486+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/xometry-europes-one-stop-additive-manufacturing-shop/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://investors.xometry.com/news-releases/news-release-details/xometry-marketplace-accelerates-solutions-complex-manufacturing",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://directory.imts.com/8_0/exhibitor/00071405/Xometry",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/xometrys-polymer-am-technologies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xometry.com/start/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xometry.eu/en/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xometryus.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xometry.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.3ds.com/ja/newsroom/press-releases/dassault-systemes-and-xometry-partner-offer-instant-part-production-design-environment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.siemens.com/ja-jp/siemens-xometry-strategic-partnership/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/ir/service-bureau-xometry-220830/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xometry.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/top-products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xometry.com/materials/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xometry.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/voxelmatters_3dprinting-additivemanufacturing-xometry-activity-7429836895540363264-dMgZ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xometry.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://investors.stratasys.com/news-events/press-releases/detail/731/stratasys-direct-and-xometry-partner-to-deliver?ref=manufactur3dmag.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xometry.asia/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xometry.com/start/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xometry.eu/en/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.xometryus.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xometry.com/start/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xometry.eu/en/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.xometryus.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/xometry-reports-record-229-3-million-in-q2-2026-revenue-up-41-yoy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://investors.xometry.com/news-and-events/in-the-news",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.globaldata.com/company-profile/xometry-inc/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Xometry — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/xometry-europes-one-stop-additive-manufacturing-shop/",
+    "https://investors.xometry.com/news-releases/news-release-details/xometry-marketplace-accelerates-solutions-complex-manufacturing",
+    "https://directory.imts.com/8_0/exhibitor/00071405/Xometry",
+    "https://www.voxelmatters.com/xometrys-polymer-am-technologies/",
+    "https://www.youtube.com/watch?v=8x-Fo--w5TI",
+    "https://www.voxelmatters.directory/company-category/digital-inventory/",
+    "https://www.3ds.com/make/service/provider/xometry-one-stop-shop-manufacturing-demand",
+    "https://xometry.eu/en/",
+    "https://www.cbinsights.com/company/xometry",
+    "https://en.wikipedia.org/wiki/Xometry"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "Xometry — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://en.wikipedia.org/wiki/Xometry",
+    "https://www.xometry.com/start/",
+    "https://xometry.eu/en/",
+    "https://www.xometryus.com/",
+    "https://get.xometry.com/",
+    "https://get.xometry.com/register",
+    "https://community.xometry.com/kb/articles/665-what-is-xometry",
+    "https://www.xometry.com/about-us/",
+    "https://www.xometry.com/cnc-start/",
+    "https://www.xometry.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Xometry — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.xometry.com/",
+    "https://www.3ds.com/ja/newsroom/press-releases/dassault-systemes-and-xometry-partner-offer-instant-part-production-design-environment",
+    "https://news.siemens.com/ja-jp/siemens-xometry-strategic-partnership/",
+    "https://news.sharelab.jp/3dp-news/ir/service-bureau-xometry-220830/",
+    "https://www.rapiddirect.com/ja/blog/top-13-xometry-competitors/",
+    "https://idarts.co.jp/3dp/xometry-shift-on-demand-manufacturing-marketplace/?srsltid=AYCX9vLsoOlFmq6wKT3grJ19pYuBek-pYMFXCTaa-C_9ieneDNV8ixIA",
+    "https://ezramade.com/ja/xometry-vs-protolabs/",
+    "https://sekapri.com/business/20211221-13635/",
+    "https://3dprinter.co.jp/",
+    "https://en.wikipedia.org/wiki/Xometry"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "Xometry — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.xometry.com/",
+    "https://www.voxelmatters.com/top-products/",
+    "https://www.xometry.com/materials/",
+    "https://skhonpo.com/",
+    "https://www.poly-maker.jp/",
+    "https://jp.rs-online.com/web/c/computing-peripherals/3d-printing-scanning/?pn=13&srsltid=AYCX9vLTehKSDFjOVrN4eLfS4btuEWtdfYlgFkINaGnVC2bLEqnAsiTR",
+    "https://www.askul.co.jp/s/02-0205-0205004-02050040002/",
+    "https://ja.3dsystems.com/materials/filament-materials",
+    "https://www.monotaro.com/s/q-3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E7%94%A8%20%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/?srsltid=AYCX9vK43VAEWbH-_yIY1ZAyv0sF8u82gcHlus2HSRMFIZlXy-GpI57g",
+    "https://en.wikipedia.org/wiki/Xometry"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 28
+  },
+  {
+   "query": "Xometry — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.xometry.com/",
+    "https://www.linkedin.com/posts/voxelmatters_3dprinting-additivemanufacturing-xometry-activity-7429836895540363264-dMgZ",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://xometry.asia/en/",
+    "https://investors.stratasys.com/news-events/press-releases/detail/731/stratasys-direct-and-xometry-partner-to-deliver?ref=manufactur3dmag.com",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://xometry.eu/en/",
+    "https://jiga.io/articles/xometry-competitors/",
+    "https://en.wikipedia.org/wiki/Xometry"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "Xometry — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.xometry.com/",
+    "https://investors.stratasys.com/news-events/press-releases/detail/731/stratasys-direct-and-xometry-partner-to-deliver?ref=manufactur3dmag.com",
+    "https://xometry.asia/en/",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://directory.imts.com/8_0/exhibitor/00071405/Xometry",
+    "https://xometry.eu/en/",
+    "https://www.reddit.com/r/3Dprinting/comments/1u3tc7k/anyone_here_a_xometry_or_craftcloud_manufacturing/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://en.wikipedia.org/wiki/Xometry"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:amazon.co.jp Xometry — VoxelMatters",
+   "results": [
+    "https://en.wikipedia.org/wiki/Xometry",
+    "https://www.xometry.com/start/",
+    "https://xometry.eu/en/",
+    "https://www.xometryus.com/",
+    "https://get.xometry.com/",
+    "https://get.xometry.com/register",
+    "https://community.xometry.com/kb/articles/665-what-is-xometry",
+    "https://www.xometry.com/about-us/",
+    "https://www.xometry.com/cnc-start/",
+    "https://www.xometry.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:monotaro.com Xometry — VoxelMatters",
+   "results": [
+    "https://en.wikipedia.org/wiki/Xometry",
+    "https://www.xometry.com/start/",
+    "https://xometry.eu/en/",
+    "https://www.xometryus.com/",
+    "https://get.xometry.com/",
+    "https://get.xometry.com/register",
+    "https://community.xometry.com/kb/articles/665-what-is-xometry",
+    "https://www.xometry.com/about-us/",
+    "https://www.xometry.com/cnc-start/",
+    "https://www.xometry.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Xometry — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.voxelmatters.com/xometry-reports-record-229-3-million-in-q2-2026-revenue-up-41-yoy/",
+    "https://investors.xometry.com/news-and-events/in-the-news",
+    "https://en.wikipedia.org/wiki/Xometry",
+    "https://www.globaldata.com/company-profile/xometry-inc/",
+    "https://3dprint.com/336116/3d-printing-financials-yet-again-xometry-sets-a-new-revenue-record/",
+    "https://www.voxelmatters.com/xometry-posts-record-q1-2026-revenue-of-205-million-strikes-50-million-siemens-partnership/",
+    "https://www.cbinsights.com/company/xometry",
+    "https://tracxn.com/d/companies/xometry/__P17TPrDmpCsEijtnFzbogaYSmCuwxOK9UUkmhM37hjs",
+    "https://www.voxelmatters.report/methodology/",
+    "https://www.xometry.com/start/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "site:note.com Xometry — VoxelMatters",
+   "results": [
+    "https://note.com/ccre1018/n/n77e6fbc62af0",
+    "https://note.com/kagawatomo/n/nf65a446ed216",
+    "https://note.com/jack4manastalk/n/n46be4d6e1cd3",
+    "https://en.wikipedia.org/wiki/Xometry",
+    "https://www.xometry.com/start/",
+    "https://xometry.eu/en/",
+    "https://www.xometryus.com/",
+    "https://get.xometry.com/",
+    "https://get.xometry.com/register",
+    "https://community.xometry.com/kb/articles/665-what-is-xometry"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:x.com Xometry — VoxelMatters",
+   "results": [
+    "https://x.com/KagawaTomo/status/2065355815238963291",
+    "https://en.wikipedia.org/wiki/Xometry",
+    "https://www.xometry.com/start/",
+    "https://xometry.eu/en/",
+    "https://www.xometryus.com/",
+    "https://get.xometry.com/",
+    "https://get.xometry.com/register",
+    "https://community.xometry.com/kb/articles/665-what-is-xometry",
+    "https://www.xometry.com/about-us/",
+    "https://www.xometry.com/cnc-start/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:linkedin.com Xometry — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/posts/voxelmatters_3dprinting-additivemanufacturing-xometry-activity-7429836895540363264-dMgZ",
+    "https://www.linkedin.com/posts/xometry-emea-apac_additivemanufacturing-serialproduction-activity-7439956160180404224-rZna",
+    "https://www.linkedin.com/posts/admire-research-center_regionaldevelopment-industrialinnovation-activity-7423009296629723136-4dpY",
+    "https://www.linkedin.com/posts/stephen-ryan-md-496a26184_3dprinting-medtech-innovationstrategy-activity-7429921643306786817-xfGT",
+    "https://uk.linkedin.com/in/federico-sher",
+    "https://de.linkedin.com/in/nikolaus-mroncz-157719127",
+    "https://www.linkedin.com/posts/amir-hossein-salahshoor-9a2a61a1_data-driven-design-d3-of-multi-material-activity-7425972636385673217-V_XJ",
+    "https://de.linkedin.com/in/albert-belousov-260473a6",
+    "https://fr.linkedin.com/in/constance-gossot-164617121"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com Xometry — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/ComplexSneakers/posts/zellerfeld-wants-you-to-make-your-own-3d-printed-sneaker/497121219333322/",
+    "https://www.facebook.com/groups/725827207773601/posts/2659899487699687/",
+    "https://en.wikipedia.org/wiki/Xometry",
+    "https://www.xometry.com/start/",
+    "https://xometry.eu/en/",
+    "https://www.xometryus.com/",
+    "https://get.xometry.com/",
+    "https://get.xometry.com/register",
+    "https://community.xometry.com/kb/articles/665-what-is-xometry",
+    "https://www.xometry.com/about-us/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "Xometry — VoxelMatters note 社長",
+   "results": [
+    "https://investors.xometry.com/news-and-events/in-the-news",
+    "https://www.voxelmatters.com/xometry-reports-record-q4-and-strong-fy-2025-results/",
+    "https://www.linkedin.com/posts/voxelmatters_3dprinting-additivemanufacturing-xometry-activity-7429836895540363264-dMgZ",
+    "https://xometry.pro/en/articles/xometry-cloud-manufacturing/",
+    "https://www.voxelmatters.com/xometrys-polymer-am-technologies/",
+    "https://www.voxelmatters.report/",
+    "https://3dprintingindustry.com/news/interview-randy-altschuler-xometry-ceo-a-modern-manufacturing-marketplace-propelled-by-ai-and-3d-printing-225895/",
+    "https://www.xometry.com/",
+    "https://note.com/atpw/n/nb43cdee9d150",
+    "https://en.wikipedia.org/wiki/Xometry"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "Xometry — VoxelMatters X 投稿",
+   "results": [
+    "https://www.voxelmatters.com/xometrys-polymer-am-technologies/",
+    "https://www.linkedin.com/posts/voxelmatters_3dprinting-additivemanufacturing-xometry-activity-7429836895540363264-dMgZ",
+    "https://investors.xometry.com/news-and-events/in-the-news",
+    "https://www.xometry.com/resources/3d-printing/video-how-to-get-a-full-color-3d-printing-quote/",
+    "https://x.com/Xometry",
+    "https://www.voxelmatters.com/xometry-posts-record-q3-2025-revenue-as-marketplace-growth-accelerates/",
+    "https://xometry.pro/en/community/",
+    "https://community.xometry.com/kb/articles/749-accuracy-for-3d-printed-metals",
+    "https://en.wikipedia.org/wiki/Xometry",
+    "https://www.xometry.com/start/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）"
+ }
+}

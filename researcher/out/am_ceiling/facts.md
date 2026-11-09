@@ -1,4 +1,4 @@
-# 金属AM受託の頭打ち金額 — 1件・1社年間・用途ごとの上限（事実のみ・22品目）
+# 金属AM受託の頭打ち金額 — 1件・1社年間・用途ごとの上限（事実のみ・24品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -1518,3 +1518,101 @@
   - 「| 医療AM | 高品質・認証・安全性が重要 |」（https://note.com/kagawatomo/n/nf65a446ed216）
   - 「3Dプリンターを試作だけでなく治具・検査具・補修部品に使う」（https://note.com/kagawatomo/n/nf65a446ed216）
   - 「品質保証・検査・認証まで含めたサービスを作る」（https://note.com/kagawatomo/n/nf65a446ed216）
+
+## 日本標準産業分類での金属AM受託の位置（細分類の番号・またがる番号・経済構造実態調査の表で拾える番号・4-131）（JSIC classification code metal additive manufacturing contract service Japan）
+- 文脈：国内・分類
+- 1件の単価：記載なし（読んだ45頁・検索16回）
+- 最大案件・上限：記載なし（読んだ45頁・検索16回）
+- 顧客1社の年間：記載なし（読んだ45頁・検索16回）
+- 受託会社の売上：記載なし（読んだ45頁・検索16回）
+- 用途別：記載なし（読んだ45頁・検索16回）
+- 価格を決める要因：記載なし（読んだ45頁・検索16回）
+
+## 上場の金属AM受託・装置各社のセグメント別売上（有価証券報告書・10-K の segment・受託サービスの部門・4-131）（metal additive manufacturing service segment revenue annual report 10-K）
+- 文脈：上場・セグメント
+- 1件の単価：
+  - 「U.S. additive manufacturing market size was estimated at USD 3.56 billion in 2022」（https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report）
+  - 「USD 16.48 billion」（https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report）
+  - 「Revenue in USD million/billion, and CAGR from 2023 to 2030」（https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report）
+  - 「Component Outlook (Revenue, USD Million, 2017 - 2030)」（https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report）
+  - 「Printer Type Outlook (Revenue, USD Million, 2017 - 2030)」（https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report）
+  - 「Technology Outlook (Revenue, USD Million, 2017 - 2030)」（https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report）
+  - 「Software Outlook (Revenue, USD Million, 2017 - 2030)」（https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report）
+  - 「Application Outlook (Revenue, USD Million, 2017 - 2030)」（https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report）
+  - 「Vertical Outlook (Revenue, USD Million, 2017 - 2030)」（https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report）
+  - 「Material Outlook (Revenue, USD Million, 2017 - 2030)」（https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report）
+  - 「The U.S. additive manufacturing market size was estimated at USD 3.56 billion in 2022 and is expected to reach USD 4.26 billion in 2023.」（https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report）
+  - 「The U.S. additive manufacturing market is expected to grow at a compound annual growth rate of 21.3% from 2023 to 2030 to reach USD 16.48 billion by 2030.」（https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report）
+  - 「and South America (“Americas”), Europe and the Middle East (“EMEA”) and Asia Pacific and Oceania (“APAC”). We provide comprehensive 3D printing and」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「• Level 1 - Inputs are based on quoted prices in active markets for identical assets and liabilities.」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「• Level 2 - Inputs are based on observable inputs other than quoted prices in active markets for identical or similar assets and liabilities.」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+- 最大案件・上限：
+  - 「ORNL and partners win CAMX award for 3D printed nuclear concrete forms」（https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/）
+  - 「Taxes paid related to net-share settlement of equity awards (11) (285)」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「Shares withheld related to net-share settlement of equity awards (6) — (11) — — (11)」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「Shares withheld related to net-share settlement of equity awards (96) — (285) — — (285)」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「As of March 31, 2026, there was $6.0 million of unrecognized stock-based compensation expense related to all unvested share-based payment awards that the」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+- 顧客1社の年間：
+  - 「The U.S. additive manufacturing market is expected to grow at a compound annual growth rate of 21.3% from 2023 to 2030 to reach USD 16.48 billion by 2030.」（https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report）
+  - 「financial statements and should be read in conjunction with the audited financial statements included in our Annual Report on Form 10-K for the year ended」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「December 31, 2025 (the “2025 Annual Report on Form 10-K”). The Company believes that the disclosures included in this Form 10-Q are adequate to make」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「Our annual reporting period is the calendar year. The Company's results of operations for the three months ended March 31, 2026 are not necessarily indicative」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「There have been no significant changes to our accounting policies since those disclosed in the Company's 2025 Annual Report on Form 10-K.」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「significant development uncertainty. This update is effective for annual periods beginning after December 15, 2027, with early adoption permitted. The」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「annual periods beginning after December 15, 2026, and interim periods within fiscal years beginning after December 15, 2027, with early adoption permitted.」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「The 2030 Notes are senior secured obligations, guaranteed by certain U.S. subsidiaries of the Company (the "Note Parties"), and bear interest semiannually at a」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「The 2026 Notes have an annual effective interest rate of 0.594%, reflecting original issue discounts, commissions, and offering expenses. The 2026 Notes are」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「$10.0 million suspended penalty must be approved by the DTCC, which approval will be sought on an annual basis in accordance with the terms of the」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「10-K for the fiscal year ended December 31, 2025 (the "2025 Annual Report on Form 10-K") and our Condensed Consolidated Financial Statements as of and」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「in annual FY2024 revenue. According to GlobeNewswire,」（https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/）
+  - 「The global metal additive manufacturing market reaches USD 17.24 billion in 2025 and USD 145.80 billion by 2035, growing at a CAGR of 23.8%. Aerospace, defense, and medical demand anchor this growth as manufacturers shift metal AM into serial production programs.」（https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/）
+  - 「Aerospace and defense qualification programs drove metal AM system shipments to 3,793 units in 2023 — a 24.4% annual increase per Wohlers Report 2024. Government investment through the U.S. DoD Additive Manufacturing for Sustainment program reinforces structural demand through the forecast period.」（https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/）
+  - 「Gibraltar (+350)」（https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/）
+- 受託会社の売上：
+  - 「The top 10 metal AM companies by revenue | VoxelMatters - The heart of additive manufacturing」（https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/）
+  - 「https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue.md」（https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/）
+  - 「The top 10 metal AM companies by revenue」（https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/）
+  - 「If we combine revenues from all core AM segments (hardware, materials, and services), all of the top 10 metal AM companies by revenue in 2023 are hardware manufacturers. This is one of the key findings from」（https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/）
+  - 「Revenue forecast in 2030」（https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report）
+  - 「Revenue in USD million/billion, and CAGR from 2023 to 2030」（https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report）
+  - 「The report forecasts revenue growth at the country level and provides an analysis of the latest trends in each of the sub-segments from 2017 to 2030. For this study, Grand View Research has segmented the U.S. additive manufacturing market report based on component, printer type, technology, software, application, vertical, and material:」（https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report）
+  - 「Component Outlook (Revenue, USD Million, 2017 - 2030)」（https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report）
+  - 「Printer Type Outlook (Revenue, USD Million, 2017 - 2030)」（https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report）
+  - 「Technology Outlook (Revenue, USD Million, 2017 - 2030)」（https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report）
+  - 「Software Outlook (Revenue, USD Million, 2017 - 2030)」（https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report）
+  - 「Application Outlook (Revenue, USD Million, 2017 - 2030)」（https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report）
+  - 「Vertical Outlook (Revenue, USD Million, 2017 - 2030)」（https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report）
+  - 「Material Outlook (Revenue, USD Million, 2017 - 2030)」（https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report）
+  - 「The Hardware segment led the U.S. additive manufacturing market and accounted for more than 64.15% share of the global revenue in 2022.」（https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report）
+- 用途別：
+  - 「Semiconductors & Electronics »」（https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report）
+  - 「Key factors that are driving the additive manufacturing market growth include the assertive research & development in three-dimensional printing and the increasing demand for prototyping applications from various industry verticals, particularly healthcare, automotive, and aerospace & defense」（https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report）
+  - 「dental, medical devices, personalized health services and regenerative medicine) and Industrial Solutions (which includes aerospace, defense, transportation」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「medical devices, personalized health services and regenerative medicine. For Industrial Solutions, those industry verticals include aerospace, defense,」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「laws, including the International Traffic in Arms Regulations administered by the Directorate of Defense Trade Controls of the Department of State ("DTCC")」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「Our solutions support advanced applications in two key industry verticals: Healthcare Solutions (which includes dental, medical devices, personalized health」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「services and regenerative medicine) and Industrial Solutions (which includes aerospace, defense, transportation and general manufacturing). We have more」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「aerospace and defense markets and a favorable impact of foreign currency which was partially offset by unfavorable price/mix, lower volume in the jewelry」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「price/mix and increased sales in the aerospace and defense market.」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「. Aerospace, defense, and medical manufacturers are pushing adoption as metal AM moves from prototyping into serial production.」（https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/）
+  - 「market share, driven by precision requirements in aerospace and medical applications.」（https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/）
+  - 「in 2025, supported by a strong aerospace and defense manufacturing base.」（https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/）
+  - 「The metal additive manufacturing market covers industrial processes that build fully dense metal parts layer by layer from digital files, serving aerospace, automotive, medical, defense, and energy manufacturers that need complex geometries, low-volume precision parts, or performance properties no standard process can match.」（https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/）
+  - 「Metal additive manufacturing solves a core production constraint. Aerospace, automotive, and medical buyers need parts lighter, stronger, and more geometrically complex than casting allows. Existing tooling costs and lead time make standard supply chains unworkable for these geometries. Metal AM operates as the highest-value sub-category within the broader」（https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/）
+  - 「Precision complex-geometry aerospace and medical parts」（https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/）
+- 価格を決める要因：
+  - 「consolidated revenue. We expect to maintain our relationships with these customers.」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「investor, which diluted our ownership share to 34.3% of the joint ventures common stock as of March 31, 2026. The Company recognized a gain on the」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「printers in any particular period, a shift in the timing and concentration of orders and shipments from one period to another can materially affect reported」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「ownership share in the three months ended March 31, 2026.」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「31.1† Certification of Principal Executive Officer filed pursuant to Section 302 of the Sarbanes-Oxley Act of 2002」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「31.2† Certification of Principal Financial Officer filed pursuant to Section 302 of the Sarbanes-Oxley Act of 2002」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「32.1† Certification of Principal Executive Officer filed pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「32.2† Certification of Principal Financial Officer filed pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「CERTIFICATION PURSUANT TO」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「This certification is provided pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 and accompanies the Quarterly Report on Form 10-Q (the “Form 10-」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「system shipments reached」（https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/）
+  - 「Post-processing, contract manufacturing, and maintenance services growing at 15.5% in 2025 per Wohlers Report 2026, now representing 48% of total AM market value」（https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/）
+  - 「run active metal AM qualification programs for flight-critical components, and the U.S. Department of Defense Additive Manufacturing for Sustainment program is accelerating adoption at military depots and shipyards. This combination of private-sector demand and government-backed qualification makes the U.S. the single most important geography for metal AM capital deployment decisions through」（https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/）
+  - 「ISO 13485」（https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/）
+  - 「Aerospace Demand Drove Metal AM Shipments to 3,793 Units in 2023」（https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/）

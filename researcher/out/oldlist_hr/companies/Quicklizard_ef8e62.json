@@ -1,0 +1,1646 @@
+{
+ "name": "Quicklizard",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AUMS不適合",
+ "researched_at": "2026-11-09T18:09:31.771326+00:00",
+ "official_url": "https://www.quicklizard.com",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "Pricing scope",
+    "value": "8,000 selected SKUs",
+    "url": "https://quicklizard.com/blog/sephora-case-study/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$39,000",
+    "url": "https://prospeo.io/c/quicklizard-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$14,000,000",
+    "url": "https://prospeo.io/c/quicklizard-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "7 Albemarle Street, London, England W1S 4HQ, GB",
+    "url": "https://prospeo.io/c/quicklizard-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Quicklizard Pricing Software for Retailers & DTC Brands",
+    "url": "https://quicklizard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Competitive Pricing Intelligence",
+    "url": "https://quicklizard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Home Improvement & DIY",
+    "url": "https://quicklizard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Agents on the Pricing Team",
+    "url": "https://quicklizard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How AI agents help retailers uncover pricing conflicts, explain recommendations, and improve pricing strategies with human oversight.",
+    "url": "https://quicklizard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Leading the Future of Agentic Pricing",
+    "url": "https://quicklizard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Quicklizard is the Agentic Pricing Platform for retailers and brands, automating pricing decisions across every product, channel, and market.",
+    "url": "https://quicklizard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Social Proof and Immediate Impact",
+    "url": "https://quicklizard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Multiple competitors, fast-changing demand, and massive catalogs make manual pricing and simple rules unreliable. The result:",
+    "url": "https://quicklizard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Productivity Increase in team output",
+    "url": "https://quicklizard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Real-Time Pricing for the Modern Retail Ecosystem.",
+    "url": "https://quicklizard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We replace manual guesswork with a \"Glass Box\" AI infrastructure that automates the entire pricing lifecycle on a global scale.",
+    "url": "https://quicklizard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "React only where it actually matters. Identify which competitor moves truly impact your demand so you protect profit instead of starting price races.",
+    "url": "https://quicklizard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "One pricing brain for every channel. Synchronize eCommerce, marketplaces, and physical stores (ESL) in real-time to eliminate channel conflict.",
+    "url": "https://quicklizard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Quicklizard is designed for global retailers and brands who need to move quickly without the burden of heavy IT lift or multi-year rollout cycles. We take you from raw data to controlled price execution faster than any legacy provider.",
+    "url": "https://quicklizard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We go live in selected categories to calibrate AI models and demonstrate immediate profit growth before you scale.",
+    "url": "https://quicklizard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-Grade Security",
+    "url": "https://quicklizard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Security is the foundation of Quicklizard. We protect your sensitive cost structures and competitive signals with cloud-grade infrastructure and continuous compliance.",
+    "url": "https://quicklizard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Award-Winning Pricing Platform",
+    "url": "https://quicklizard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to Scale Your Pricing Performance?",
+    "url": "https://quicklizard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Talk to a Pricing Expert",
+    "url": "https://quicklizard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Why do manual pricing and simple rules stop working for retailers?",
+    "url": "https://quicklizard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Multiple competitors, fast-changing demand and massive catalogs overwhelm manual pricing and simple rules don’t cater sufficiently with the resulting complexity. Quicklizard is an AI-powered dynamic pricing platform that replaces manual guesswork with Glass Box AI, automating the entire pricing lifecycle on a global scale and moving retailers from gut feel to measurable yield.",
+    "url": "https://quicklizard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How does pricing automation change the role of a pricing team?",
+    "url": "https://quicklizard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Quicklizard shifts pricing teams from manual operational and tactical work to strategic oversight. Routine execution is automated, so teams can focus on category-level strategy and growth instead of updating individual prices.",
+    "url": "https://quicklizard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Competitive Pricing Intelligence",
+    "url": "https://quicklizard.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Home Improvement & DIY",
+    "url": "https://quicklizard.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Meet Quicklizard | AI-Powered Dynamic Pricing",
+    "url": "https://quicklizard.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "We empower retailers and brands with AI-driven dynamic pricing technology - enabling smarter decision-making, sustainable growth, and increased profitability.",
+    "url": "https://quicklizard.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver pricing impact faster for global retailers and brands.",
+    "url": "https://quicklizard.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Quicklizard is the \"Pricing Platform\" for the global retail ecosystem, a platform engineered to silence operational noise and elevate Pricing leaders into strategic architects. By joining our elite partner network, you equip your clients with a Glass Box operational system that replaces manual guesswork with high velocity, automated, and data backed decision capabilities.",
+    "url": "https://quicklizard.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Empower your clients with a blueprint for pricing excellence built on technical trust and commercial speed.",
+    "url": "https://quicklizard.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock verified outcomes for your clients, including an average 11% profit increase and up to 15% revenue uplift. We target the KPIs executives care about: Gross Margin, ROI, and Market Share Growth.",
+    "url": "https://quicklizard.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Eliminate \"integration tax\" with enterprise grade connectors for",
+    "url": "https://quicklizard.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Access a collaborative growth engine featuring co marketing, sales enablement, and active lead sharing programs designed for global scale.",
+    "url": "https://quicklizard.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy with confidence using SOC 2, ISO, and GDPR ready processes. Our platform features tenant isolation and full decision audit logs for every price action.",
+    "url": "https://quicklizard.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Practitioner Led Excellence",
+    "url": "https://quicklizard.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner with a team led by former BCG experts and retail veterans who speak the language of category performance and margin pressure.",
+    "url": "https://quicklizard.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Scale your practice through our dedicated reseller, referral, implementation, or strategic alliance tracks.",
+    "url": "https://quicklizard.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "The digital business transformation powerhouse of Publicis Groupe. They partner with global enterprises to engineer and sustain permanent competitive advantage in a digital first economy.",
+    "url": "https://quicklizard.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Seasoned retail specialists that harmonize business processes with technology implementation to drive scalable operational excellence.",
+    "url": "https://quicklizard.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Practitioner led experts bridging functional silos, from merchandising to supply chain, with a consumer centric perspective based on decades of seat time experien",
+    "url": "https://quicklizard.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "An international management consultancy providing performance management and commercial excellence initiatives.",
+    "url": "https://quicklizard.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Sophisticated pricing and revenue management specialists that design bespoke value realization programs.",
+    "url": "https://quicklizard.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "London based experts focused on translating high level pricing strategy into practical commercial execution.",
+    "url": "https://quicklizard.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "A high precision price intelligence platform that delivers deep visibility into competitive pricing, promotions, and availability.",
+    "url": "https://quicklizard.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "A commerce intelligence powerhouse providing SKU level digital shelf analytics and competitive insights across global markets.",
+    "url": "https://quicklizard.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "A global competitive intelligence platform offering real time visibility across pricing, assortment, and stock signals.",
+    "url": "https://quicklizard.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "An enterprise-grade price intelligence provider, delivering 99%+ accurate competitor pricing, promotion, and assortment data across thousands of retailer sites. Powered by AI-driven matching and real-time monitoring for reliable, SKU-level market visibility at scale.",
+    "url": "https://quicklizard.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "A price monitoring and repricing platform that helps retailers track competitors and optimize pricing decisions.",
+    "url": "https://quicklizard.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "The AI Dynamic Pricing Platform - Quicklizard",
+    "url": "https://quicklizard.com/the-ai-dynamic-pricing-platform/",
+    "pass": 1
+   },
+   {
+    "quote": "Competitive Pricing Intelligence",
+    "url": "https://quicklizard.com/the-ai-dynamic-pricing-platform/",
+    "pass": 1
+   },
+   {
+    "quote": "Home Improvement & DIY",
+    "url": "https://quicklizard.com/the-ai-dynamic-pricing-platform/",
+    "pass": 1
+   },
+   {
+    "quote": "Meet Quicklizard | AI-Powered Dynamic Pricing",
+    "url": "https://quicklizard.com/the-ai-dynamic-pricing-platform/",
+    "pass": 1
+   },
+   {
+    "quote": "We empower retailers and brands with AI-driven dynamic pricing technology - enabling smarter decision-making, sustainable growth, and increased profitability.",
+    "url": "https://quicklizard.com/the-ai-dynamic-pricing-platform/",
+    "pass": 1
+   },
+   {
+    "quote": "Quicklizard is a modular pricing platform built for modern retail and brands. It combines a trusted data foundation, explainable decisioning, and controlled execution so pricing teams can model, simulate, and deploy price actions across SKUs and channels with speed, control, and traceability.",
+    "url": "https://quicklizard.com/the-ai-dynamic-pricing-platform/",
+    "pass": 1
+   },
+   {
+    "quote": "Elevate your strategy by moving from manual guesswork to intelligent pricing without sacrificing control or accountability.",
+    "url": "https://quicklizard.com/the-ai-dynamic-pricing-platform/",
+    "pass": 1
+   },
+   {
+    "quote": "The platform is designed for one goal: scalable pricing execution with control and traceability.",
+    "url": "https://quicklizard.com/the-ai-dynamic-pricing-platform/",
+    "pass": 1
+   },
+   {
+    "quote": "Unified data layer combining all relevant sources of information from product master data to sales transactions, inventory status, competitor prices and behavioral data such as online traffic, on-site and in-store shopping behavior, or external contextual information incl. local holidays and weather data.",
+    "url": "https://quicklizard.com/the-ai-dynamic-pricing-platform/",
+    "pass": 1
+   },
+   {
+    "quote": "Continuous data validation and integrity checks, regular article segmentation, price elasticity estimation, competitor sensitivity assessment, seasonality detection, and demand forecasting and stock prediction.",
+    "url": "https://quicklizard.com/the-ai-dynamic-pricing-platform/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Automotive Supplies & Parts",
+    "url": "https://quicklizard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Supplies & Parts",
+    "url": "https://quicklizard.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "A digital powerhouse in 30+ countries, trusted by leading retailers to solve core challenges through disruptive, nimble solutions.",
+    "url": "https://quicklizard.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Supplies & Parts",
+    "url": "https://quicklizard.com/the-ai-dynamic-pricing-platform/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Supplies & Parts",
+    "url": "https://quicklizard.com/products/dynamic-pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Supplies & Parts",
+    "url": "https://quicklizard.com/products/pricing-optimization/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Supplies & Parts",
+    "url": "https://quicklizard.com/products/pricing-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Supplies & Parts",
+    "url": "https://quicklizard.com/products/pricing-elasticity/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Supplies & Parts",
+    "url": "https://quicklizard.com/solutions/retailers/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Global Market Leaders",
+    "url": "https://quicklizard.com/solutions/retailers/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Supplies & Parts",
+    "url": "https://quicklizard.com/solutions/dtc-brands/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Global Market Leaders",
+    "url": "https://quicklizard.com/solutions/dtc-brands/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Supplies & Parts",
+    "url": "https://quicklizard.com/solutions/travel/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue teams often struggle to balance volume and margin. We prevent revenue loss caused by underpriced peak demand or overpriced off-peak inventory that results in empty inventory .",
+    "url": "https://quicklizard.com/solutions/travel/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Global Leaders in Travel and Hospitality",
+    "url": "https://quicklizard.com/solutions/travel/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturers - Quicklizard",
+    "url": "https://quicklizard.com/solutions/manufacturers/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Supplies & Parts",
+    "url": "https://quicklizard.com/solutions/manufacturers/",
+    "pass": 1
+   },
+   {
+    "quote": "Navigating the Complexity of Global Manufacturing",
+    "url": "https://quicklizard.com/solutions/manufacturers/",
+    "pass": 1
+   },
+   {
+    "quote": "Failure to maintain manufacturer price floors jeopardizes brand relationships and devalues the product line.",
+    "url": "https://quicklizard.com/solutions/manufacturers/",
+    "pass": 1
+   },
+   {
+    "quote": "From Data to Action: The Manufacturing Intelligence Hub",
+    "url": "https://quicklizard.com/solutions/manufacturers/",
+    "pass": 1
+   },
+   {
+    "quote": "Engineered for Manufacturing Precision",
+    "url": "https://quicklizard.com/solutions/manufacturers/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing partners transform pricing from an operational burden into a primary driver of enterprise value:",
+    "url": "https://quicklizard.com/solutions/manufacturers/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Global Market Leaders",
+    "url": "https://quicklizard.com/solutions/manufacturers/",
+    "pass": 1
+   },
+   {
+    "quote": "Don’t let manual processes or cost volatility hold back your growth. Join the world’s leading manufacturers that use Quicklizard to stay one step ahead of the market.",
+    "url": "https://quicklizard.com/solutions/manufacturers/",
+    "pass": 1
+   },
+   {
+    "quote": "What is pricing software for manufacturers?",
+    "url": "https://quicklizard.com/solutions/manufacturers/",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing software for manufacturers automates prices across the entire distribution network while retaining commercial control. Quicklizard connects ERP, supply chain data and market feeds into one unified pricing brain, using Glass Box AI to automate the pricing lifecycle at global scale.",
+    "url": "https://quicklizard.com/solutions/manufacturers/",
+    "pass": 1
+   },
+   {
+    "quote": "How can manufacturers protect margins against commodity cost volatility?",
+    "url": "https://quicklizard.com/solutions/manufacturers/",
+    "pass": 1
+   },
+   {
+    "quote": "Can manufacturers test pricing scenarios before execution?",
+    "url": "https://quicklizard.com/solutions/manufacturers/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Quicklizard's Simulation and Scenario Testing lets manufacturers evaluate pricing and promotion scenarios before execution, comparing expected outcomes for revenue, profit and stock turn.",
+    "url": "https://quicklizard.com/solutions/manufacturers/",
+    "pass": 1
+   },
+   {
+    "quote": "Are manufacturer price changes auditable?",
+    "url": "https://quicklizard.com/solutions/manufacturers/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Supplies & Parts",
+    "url": "https://quicklizard.com/solutions/growth/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Global Market Leaders",
+    "url": "https://quicklizard.com/solutions/growth/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Supplies & Parts",
+    "url": "https://quicklizard.com/solutions/efficiency/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Global Market Leaders",
+    "url": "https://quicklizard.com/solutions/efficiency/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Supplies & Parts",
+    "url": "https://quicklizard.com/solutions/profit-optimization/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Global Market Leaders",
+    "url": "https://quicklizard.com/solutions/profit-optimization/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Supplies & Parts",
+    "url": "https://quicklizard.com/solutions/consumer-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect your margins in a market defined by rapid product lifecycles and constant competitor price moves. Quicklizard provides the real time agility to lead on high visibility KVIs while ensuring absolute compliance with manufacturer pricing policies across every digital and physical channel.",
+    "url": "https://quicklizard.com/solutions/consumer-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Global Market Leaders",
+    "url": "https://quicklizard.com/solutions/consumer-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Supplies and Parts",
+    "url": "https://quicklizard.com/solutions/automative-and-supply-parts/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive players operate under unique technical constraints where a single final product can require thousands of non interchangeable components. We solve the structural barriers to aftermarket profitability:",
+    "url": "https://quicklizard.com/solutions/automative-and-supply-parts/",
+    "pass": 1
+   },
+   {
+    "quote": "From Data to Action: Engineered for Automotive Precision",
+    "url": "https://quicklizard.com/solutions/automative-and-supply-parts/",
+    "pass": 1
+   },
+   {
+    "quote": "Strategic Capabilities for Automotive Parts Precision",
+    "url": "https://quicklizard.com/solutions/automative-and-supply-parts/",
+    "pass": 1
+   },
+   {
+    "quote": "Automation requires oversight providing the Guardrails necessary for absolute executive confidence in high volume automotive retail:",
+    "url": "https://quicklizard.com/solutions/automative-and-supply-parts/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Global Market Leaders",
+    "url": "https://quicklizard.com/solutions/automative-and-supply-parts/",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to Lead the Automotive Market?",
+    "url": "https://quicklizard.com/solutions/automative-and-supply-parts/",
+    "pass": 1
+   },
+   {
+    "quote": "Sephora Case Study - Quicklizard",
+    "url": "https://quicklizard.com/blog/sephora-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Supplies & Parts",
+    "url": "https://quicklizard.com/blog/sephora-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "The complete case study, formatted for sharing internally.",
+    "url": "https://quicklizard.com/blog/sephora-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Intersport case study",
+    "url": "https://quicklizard.com/blog/sephora-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Supplies & Parts",
+    "url": "https://quicklizard.com/resources-case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Intersport case study",
+    "url": "https://quicklizard.com/resources-case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Taxi Platform Case Study",
+    "url": "https://quicklizard.com/resources-case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Online Travel Agency Case Study​",
+    "url": "https://quicklizard.com/resources-case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Online Retailer Case Study",
+    "url": "https://quicklizard.com/resources-case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Supplies & Parts",
+    "url": "https://quicklizard.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "An industrial engineer and serial entrepreneur with over 20 years of leadership in retail technology, Pini directs our mission to resolve manual operational bottlenecks and scale pricing intelligence for global enterprises.",
+    "url": "https://quicklizard.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Supplies & Parts",
+    "url": "https://quicklizard.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study - Quicklizard",
+    "url": "https://quicklizard.com/blog/category/resources-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive Supplies & Parts",
+    "url": "https://quicklizard.com/blog/category/resources-case-study/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Scale your practice through our dedicated reseller, referral, implementation, or strategic alliance tracks.",
+    "url": "https://quicklizard.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "A travel technology platform providing real time pricing, availability, and distribution solutions for airlines, hotels, and travel agencies.",
+    "url": "https://quicklizard.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "We offer a \"Glass Box\" AI approach: a combination of sophisticated business rules and machine learning that provides transparent recommendations you can trust. This ensures your pricing strategy remains aligned with your brand identity while operating at the speed of the market.",
+    "url": "https://quicklizard.com/solutions/retailers/",
+    "pass": 1
+   },
+   {
+    "quote": "Empower your brand to lead the market, not follow it. Align pricing across flagship web stores, global marketplaces, and wholesale partners with AI-driven precision. Enforce absolute price integrity while maximizing direct-to-consumer profitability.",
+    "url": "https://quicklizard.com/solutions/dtc-brands/",
+    "pass": 1
+   },
+   {
+    "quote": "Automated \"repricers\" on marketplaces trigger destructive price wars, ignoring your brand rules and eroding hard-won premium positioning.",
+    "url": "https://quicklizard.com/solutions/dtc-brands/",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically detect and respond to competitor shifts with AI that understands which products are highly sensitive to market movements without compromising your brand rules.",
+    "url": "https://quicklizard.com/solutions/dtc-brands/",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to Automate Your Brand’s Pricing Strategy?",
+    "url": "https://quicklizard.com/solutions/dtc-brands/",
+    "pass": 1
+   },
+   {
+    "quote": "Seize market trends and optimize capacity with an AI powered platform built for the speed of modern aviation and travel. Quicklizard provides the analytical depth and precision required to execute complex business strategies across airlines, Hotels , and transportation. Maximize your total yield while protecting your brand value through transparent, AI-driven decisions.",
+    "url": "https://quicklizard.com/solutions/travel/",
+    "pass": 1
+   },
+   {
+    "quote": "Manage complex relationships across Global Distribution Systems, Online Travel Agencies, and direct channels from a single source of truth to ensure parity and maximize direct bookings.",
+    "url": "https://quicklizard.com/solutions/travel/",
+    "pass": 1
+   },
+   {
+    "quote": "Quicklizard's Centralized Distribution Intelligence manages Global Distribution Systems, Online Travel Agencies and direct channels from a single source of truth, ensuring parity and maximizing direct bookings.",
+    "url": "https://quicklizard.com/solutions/travel/",
+    "pass": 1
+   },
+   {
+    "quote": "Quicklizard sits at the heart of your growth strategy. By integrating with your existing ecosystem, we replace \"gut-feeling\" expansion with high-velocity, data-backed decisions. Our \"Glass Box\" AI ensures that as you scale, your brand identity remains intact while your pricing operates at the speed of the global market.",
+    "url": "https://quicklizard.com/solutions/growth/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Unlock verified outcomes for your clients, including an average 11% profit increase and up to 15% revenue uplift. We target the KPIs executives care about: Gross Margin, ROI, and Market Share Growth.",
+    "url": "https://quicklizard.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Management Labs (RML)",
+    "url": "https://quicklizard.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Sophisticated pricing and revenue management specialists that design bespoke value realization programs.",
+    "url": "https://quicklizard.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Do you need POS data for Revenue Management?",
+    "url": "https://quicklizard.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. We actively collaborate with our elite partners on co-branded webinars and industry events. We also provide a structured lead sharing program led by our best in class Business Development team to ensure our partners are able to drive significant revenue uplift.",
+    "url": "https://quicklizard.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Off-the-shelf AI modules from competitive pricing, revenue maximization or profit optimization to lifecycle pricing incl. clearance automation and dynamic stock-based price adjustments preventing out-of-stock or reducing overstock.",
+    "url": "https://quicklizard.com/the-ai-dynamic-pricing-platform/",
+    "pass": 1
+   },
+   {
+    "quote": "Manual repricing can’t keep up with the market. Quicklizard’s AI-powered dynamic pricing software adjusts every price automatically to demand, competitor prices and inventory, growing margin and revenue across every SKU and channel, with full control.",
+    "url": "https://quicklizard.com/products/dynamic-pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Delayed responses to demand spikes, pricing gaps, and competitor moves leave revenue unrealized and can weaken competitive position.",
+    "url": "https://quicklizard.com/products/dynamic-pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "What-if simulations and scenario planning allow pricing teams to compare strategies such as competitive pricing, profit optimization, and regional pricing before deployment. Teams can evaluate expected trade-offs between volume, revenue, and profit to validate pricing strategies before putting them into action.",
+    "url": "https://quicklizard.com/products/dynamic-pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "models to analyze demand, elasticity, inventory, competitor prices, and business constraints and recommend prices that support revenue and profit objectives.",
+    "url": "https://quicklizard.com/products/dynamic-pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Adjust prices as demand changes using SKU-level elasticity and demand forecasts to identify opportunities to improve revenue and margin.",
+    "url": "https://quicklizard.com/products/dynamic-pricing/",
+    "pass": 1
+   },
+   {
+    "quote": ", hybrid AI optimizers, and governed price automation to boost revenue, margins, and sell-through for retailers and brands.",
+    "url": "https://quicklizard.com/products/pricing-optimization/",
+    "pass": 1
+   },
+   {
+    "quote": "Slow response to demand spikes and competitor moves that leave revenue unrealized and cede competitive advantage.",
+    "url": "https://quicklizard.com/products/pricing-optimization/",
+    "pass": 1
+   },
+   {
+    "quote": "Hybrid automation enforces configurable commercial policies, defined and owned by your pricing team, including margin floors, MSRP, MAP and RRP, alongside AI generated price recommendations. It supports fully automated execution within guardrails, hybrid approval workflows, and manual overrides. Staged rollouts and continuous monitoring ensure controlled, auditable scaling.",
+    "url": "https://quicklizard.com/products/pricing-optimization/",
+    "pass": 1
+   },
+   {
+    "quote": "Quicklizard’s Price Elasticity models how demand responds to price changes at SKU level, including cross SKU effects, while accounting for promotions, competitors, seasonality, and price levels. This enables optimizers to simulate outcomes and choose price moves that maximize revenue or profit.",
+    "url": "https://quicklizard.com/products/pricing-elasticity/",
+    "pass": 1
+   },
+   {
+    "quote": "We treat price elasticity as a continuous input across the pricing stack. We measure elasticity and demand responses, then integrate those signals into simulation and optimizers that target incremental profit or revenue, not just volume.",
+    "url": "https://quicklizard.com/products/pricing-elasticity/",
+    "pass": 1
+   },
+   {
+    "quote": "Elasticity models retrain as new price points, competitor dynamics, and assortment changes arrive, with confidence intervals and diagnostics to support trust. Business friendly explainability helps teams understand when estimates are robust and when more data or testing is needed.",
+    "url": "https://quicklizard.com/products/pricing-elasticity/",
+    "pass": 1
+   },
+   {
+    "quote": "Elasticities are inputs to revenue/price optimizers and what-if simulations that compute incremental profit for price strategies under business constraints.",
+    "url": "https://quicklizard.com/products/pricing-elasticity/",
+    "pass": 1
+   },
+   {
+    "quote": "In an era of hyper-competition and volatile supply chains, traditional pricing methods cannot keep pace. Retail leaders today face a common set of barriers to profitable growth:",
+    "url": "https://quicklizard.com/solutions/retailers/",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerated Revenue Growth",
+    "url": "https://quicklizard.com/solutions/retailers/",
+    "pass": 1
+   },
+   {
+    "quote": "As DTC brands scale into global enterprises, the friction between high-velocity sales and premium brand perception becomes a critical barrier. Revenue leaders face four core structural challenges:",
+    "url": "https://quicklizard.com/solutions/dtc-brands/",
+    "pass": 1
+   },
+   {
+    "quote": "Relying on static spreadsheets to update thousands of SKUs across global regions leaves revenue unrealized and margins undefended.",
+    "url": "https://quicklizard.com/solutions/dtc-brands/",
+    "pass": 1
+   },
+   {
+    "quote": "The Intelligence Barrier (Real-Time Execution)",
+    "url": "https://quicklizard.com/solutions/dtc-brands/",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerated DTC Revenue Growth",
+    "url": "https://quicklizard.com/solutions/dtc-brands/",
+    "pass": 1
+   },
+   {
+    "quote": "Travel providers operate in a landscape where inventory has a strict expiration date and margins are pressured by fluctuating operating costs. We solve the structural barriers to yield optimization in this sector:",
+    "url": "https://quicklizard.com/solutions/travel/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue teams often struggle to balance volume and margin. We prevent revenue loss caused by underpriced peak demand or overpriced off-peak inventory that results in empty inventory .",
+    "url": "https://quicklizard.com/solutions/travel/",
+    "pass": 1
+   },
+   {
+    "quote": "Manual Revenue Management Lag:",
+    "url": "https://quicklizard.com/solutions/travel/",
+    "pass": 1
+   },
+   {
+    "quote": "In the high-velocity travel market, traditional reactive workflows result in missed revenue windows that occur immediately after a change in market demand or a competitor price adjustment.",
+    "url": "https://quicklizard.com/solutions/travel/",
+    "pass": 1
+   },
+   {
+    "quote": "Benefit from the specialized expertise of Yifat Yeger, Director of Travel and Hospitality, who brings over 20 years of revenue management experience from the Airline and Hospitality industries.",
+    "url": "https://quicklizard.com/solutions/travel/",
+    "pass": 1
+   },
+   {
+    "quote": "Travel partners transform revenue management from an operational burden into a primary driver of enterprise value:",
+    "url": "https://quicklizard.com/solutions/travel/",
+    "pass": 1
+   },
+   {
+    "quote": "5% to 15 % Revenue Growth",
+    "url": "https://quicklizard.com/solutions/travel/",
+    "pass": 1
+   },
+   {
+    "quote": "Drastically reduce time consumption and manual errors in your revenue management workflows by leveraging enterprise pricing automation.",
+    "url": "https://quicklizard.com/solutions/travel/",
+    "pass": 1
+   },
+   {
+    "quote": "Manually steering unique price lists for long-tail spare parts across diverse segments (from direct webshops to Enterprise B2B accounts) creates massive revenue leaks and operational friction.",
+    "url": "https://quicklizard.com/solutions/manufacturers/",
+    "pass": 1
+   },
+   {
+    "quote": "Evaluate pricing and promotion scenarios before execution to compare expected outcomes for revenue, profit, and stock turn.",
+    "url": "https://quicklizard.com/solutions/manufacturers/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Quicklizard's Simulation and Scenario Testing lets manufacturers evaluate pricing and promotion scenarios before execution, comparing expected outcomes for revenue, profit and stock turn.",
+    "url": "https://quicklizard.com/solutions/manufacturers/",
+    "pass": 1
+   },
+   {
+    "quote": "FUEL YOUR GROWTH, INCREASE REVENUE, AND SCALE FAST",
+    "url": "https://quicklizard.com/solutions/growth/",
+    "pass": 1
+   },
+   {
+    "quote": "Empower your pricing teams to outpace the market:. Drive market share and capture revenue velocity across every channel, region, and store.",
+    "url": "https://quicklizard.com/solutions/growth/",
+    "pass": 1
+   },
+   {
+    "quote": "Manually updating prices for only the top products leaves 90% of your catalog with \"stale\" pricing, missing massive revenue opportunities.",
+    "url": "https://quicklizard.com/solutions/growth/",
+    "pass": 1
+   },
+   {
+    "quote": "Leverage best-in-class forecasting and price elasticity estimation to deliberately steer the profit and growth trade-off to achieve highest revenues while protecting margins.",
+    "url": "https://quicklizard.com/solutions/growth/",
+    "pass": 1
+   },
+   {
+    "quote": "Capture revenue from every single SKU by automating price adjustments for your entire assortment.",
+    "url": "https://quicklizard.com/solutions/growth/",
+    "pass": 1
+   },
+   {
+    "quote": "Know your (super) KVIs where price really matters and beat all relevant competitors to win buy boxes, increase conversion, lowering acquisition cost and becoming the number one destination for your customers.",
+    "url": "https://quicklizard.com/solutions/growth/",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerated Revenue Growth",
+    "url": "https://quicklizard.com/solutions/growth/",
+    "pass": 1
+   },
+   {
+    "quote": "How does dynamic pricing drive revenue growth?",
+    "url": "https://quicklizard.com/solutions/growth/",
+    "pass": 1
+   },
+   {
+    "quote": "Quicklizard uses best-in-class forecasting and price elasticity estimation to steer the profit and growth trade-off deliberately. Retailers achieve the highest revenues while protecting margins, instead of treating the trade-off as a gamble.",
+    "url": "https://quicklizard.com/solutions/growth/",
+    "pass": 1
+   },
+   {
+    "quote": "Key Value Items (KVIs) are the products where price really matters to customers. Quicklizard identifies them so retailers can beat relevant competitors, win buy boxes, increase conversion and lower acquisition costs.",
+    "url": "https://quicklizard.com/solutions/growth/",
+    "pass": 1
+   },
+   {
+    "quote": "As catalogs grow and markets fragment, manual pricing becomes a strategic liability. Enterprise operations today face a common set of structural barriers to efficiency:",
+    "url": "https://quicklizard.com/solutions/efficiency/",
+    "pass": 1
+   },
+   {
+    "quote": "Sub-optimal markdown optimization that results in high carrying costs and aggressive, uncoordinated end-of-season liquidations.",
+    "url": "https://quicklizard.com/solutions/profit-optimization/",
+    "pass": 1
+   },
+   {
+    "quote": "Quicklizard's Dynamic Markdown Optimization paces discounts throughout the liquidation lifecycle. It maximizes value and avoids the high carrying costs and aggressive, uncoordinated liquidations that come with poor end-of-season markdowns.",
+    "url": "https://quicklizard.com/solutions/profit-optimization/",
+    "pass": 1
+   },
+   {
+    "quote": "The system forecasts the expected impact of a price change on units, revenue, and profit. In the retrospective, this impact will be visible in the Price Performance Graph that tracks those metrics over time. For a more robust value proof, we recommend clients to conduct an A/B test which is easy to set up directly in our UI.",
+    "url": "https://quicklizard.com/solutions/profit-optimization/",
+    "pass": 1
+   },
+   {
+    "quote": "Consumer electronics are an environment of extreme price transparency and narrow product windows. We solve the structural barriers to profitability in this sector:",
+    "url": "https://quicklizard.com/solutions/consumer-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive players operate under unique technical constraints where a single final product can require thousands of non interchangeable components. We solve the structural barriers to aftermarket profitability:",
+    "url": "https://quicklizard.com/solutions/automative-and-supply-parts/",
+    "pass": 1
+   },
+   {
+    "quote": "With an emphasis on financial rigor and value realization, Or manages the economic frameworks that enable our partners to convert pricing operations into measurable revenue and profit uplift.",
+    "url": "https://quicklizard.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "We collect information from competitive landscapes, customer journeys, and demand trends. By actively adapting to changes in the market, you can set the right prices to maximize sales volume and increase revenue by up to 30%.",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/quicklizard.312276207",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing with confidence in today's complex retail landscape requires a robust and deep-rooted partnership between the client and vendor. With UST and Quicklizard, clients are empowered with best-in-class technology solutions as part of a comprehensive, scientific approach to pricing that is unequivocally aimed at client business success.",
+    "url": "https://www.ust.com/en/our-partners/ust-and-quicklizard",
+    "pass": 3
+   },
+   {
+    "quote": "Discover how our pricing optimization platform stimulated revenue increases and profit growth for a UK taxi platform, via real-time, AI-based adjustments.",
+    "url": "https://quicklizard.com/blog/category/resources-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Taxi Platform achieves 16% revenue growth with Quicklizard commission optimization",
+    "url": "https://www.casestudies.com/company/quicklizard",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Travel Agency boosts revenue and profit with Quicklizard",
+    "url": "https://www.casestudies.com/company/quicklizard",
+    "pass": 3
+   },
+   {
+    "quote": "Online revenue share shows a positive YoY trend, reflecting the impact of more frequent and data-driven price updates",
+    "url": "https://quicklizard.com/blog/dehner-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Dynamic-priced revenue remains anchored in Hardware, reflecting Dehner’s online assortment structure. Despite a challenging competitive environment in this category, dynamic pricing helped stabilize performance, while Zoo shows the fastest relative growth in active-pricing adoption",
+    "url": "https://quicklizard.com/blog/dehner-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Quicklizard Revenue 2024: $6.7M Est.",
+    "url": "https://getlatka.com/companies/quicklizard",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Quicklizard Pricing Software for Retailers & DTC Brands — Quicklizard is designed for global retailers and brands who need to move quickly without the burden of heavy IT lift or multi-year rollout cycles. We take you from raw data to controlled price execution faster than any legacy provider.",
+    "url": "https://quicklizard.com/",
+    "pass": 3
+   },
+   {
+    "quote": "About Us - Discover Quicklizard's Mission & Vision — Meet Quicklizard's team of pricing experts—driven professionals dedicated to precision, innovation, and ensuring your success in dynamic pricing.",
+    "url": "https://quicklizard.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Quicklizard | Microsoft Marketplace — By actively adapting to changes in the market, you can set the right prices to maximize sales volume and increase revenue by up to 30%. Quicklizard seamlessly integrates with most commerce, retail and ERP platforms, while automatically syncing pricing recommendations.",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/quicklizard.312276207",
+    "pass": 3
+   },
+   {
+    "quote": "FitGap | QuickLizardとは？強み、注意点を専門家がレビュー — Pythonベースのオープンプラットフォームを採用しており、各企業が持つ独自の複雑な価格戦略にも柔軟に対応できる設計となっています。 導入期間は平均12～16週間で、グローバル展開を行う企業のニーズに応えるため、複数通貨や多言語にも対応しています。",
+    "url": "https://fitgap.com/jp/products/quicklizard",
+    "pass": 3
+   },
+   {
+    "quote": "機械学習と人工知能によるダイナミックプライシングプラットフォームQ... — Aug 25, 2022 · 日本国内のBtoC小売市場にてQuicklizardソリューションを活用することで、企業の収益増加とマーケットの適正価格設定とが実現できるよう支援して ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000073.000057359.html",
+    "pass": 3
+   },
+   {
+    "quote": "Retailers - Quicklizard — Dynamic pricing software automatically adjusts retail prices based on demand, seasonality, inventory, article roles, price elasticity, product relations, and competitor behavior. Quicklizard is an AI-powered dynamic pricing platform that manages millions of SKUs in real time. Its Glass Box AI combines business rules and machine learning to deliver transparent recommendati",
+    "url": "https://quicklizard.com/solutions/retailers/",
+    "pass": 3
+   },
+   {
+    "quote": "Quicklizard - LinkedIn — Quicklizard combines AI-powered optimization with the control pricing teams need. Its Glass Box AI makes pricing decisions explainable and traceable, while configurable business rules,...",
+    "url": "https://jp.linkedin.com/company/quicklizard",
+    "pass": 3
+   },
+   {
+    "quote": "UST and Quicklizard — Revolutionize your pricing strategy with UST and Quicklizard. Utilize advanced AI tools for precise market intelligence and boost your retail revenue effectively.",
+    "url": "https://www.ust.com/en/our-partners/ust-and-quicklizard",
+    "pass": 3
+   },
+   {
+    "quote": "Quicklizard - Riverwood Capital — Quicklizard allows companies to scale smarter, faster and with greater precision turning pricing into a strategic growth engine.",
+    "url": "https://www.riverwoodcapital.com/investment/quicklizard/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study - Quicklizard — Intersport Deutschland eG improved pricing operations with Quicklizard by replacing manual processes with a scalable and automated system. This enabled more efficient management of over 340,000 SKUs, reduced operational effort, and strengthened pricing control during rapid growth.",
+    "url": "https://quicklizard.com/blog/category/resources-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Quicklizard B2B Case Studies & Customer Successes — See how Quicklizard solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/quicklizard",
+    "pass": 3
+   },
+   {
+    "quote": "Dehner case study - Quicklizard — Feb 3, 2026 · Dehner, one of Europe’s leading garden and pet retailers, partnered with Quicklizard to modernize its pricing operations and accelerate online growth. The collaboration began in mid-2024 with a focus on online pricing and was also expanded to brick-and-mortar stores.",
+    "url": "https://quicklizard.com/blog/dehner-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How Quicklizard Uses Software & Services — Explore case studies featuring Quicklizard as the customer — learn how vendors and partners helped Quicklizard solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/quicklizard",
+    "pass": 3
+   },
+   {
+    "quote": "5 Quicklizard Case Studies, Success Stories, & Customer ... — Discover how other companies use Quicklizard, get inspired, and find ways to improve your business.",
+    "url": "https://www.featuredcustomers.com/vendor/quicklizard/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Quicklizard – Financial Footprint & Growth Factors – 2026 — Discover Quicklizard's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/quicklizard",
+    "pass": 3
+   },
+   {
+    "quote": "Quicklizard Revenue 2024: $6.7M Est. - getlatka.com — Dec 23, 2024 · Quicklizard is a Hospitality Software company based in Petah Tikva, founded in 2010.",
+    "url": "https://getlatka.com/companies/quicklizard",
+    "pass": 3
+   },
+   {
+    "quote": "Quicklizard - 2026 Company Profile, Team, Funding ... - Tracxn — Mar 10, 2026 · Quicklizard is an acquired company based in Bnei Brak (Israel), founded in 2011 by Yossi Cohen, Pini Mandel, Yariv Peer and Tal Weber. It operates as a Provider of dynamic price optimization software for retailers and brands. Quicklizard has raised $9.15M in funding from Cockpit Innovation.",
+    "url": "https://tracxn.com/d/companies/quicklizard/__-v-eQkawgSV1T5DmUeLLbtPT_gT4hXdB2FoaQG8MSuU",
+    "pass": 3
+   },
+   {
+    "quote": "Quicklizard Revenue, Funding & Valuation - prospeo.io — Quicklizard has revenue of $3,500,000, estimated valuation of $11,200,000, $14,000,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/quicklizard-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "QuickLizard 2026 Company Profile: Valuation, Funding ... — Information on valuation, funding, acquisitions, investors, and executives for QuickLizard. Use the PitchBook Platform to explore the full profile.",
+    "url": "https://pitchbook.com/profiles/company/58793-41",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/quicklizard-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Quicklizard Ltd. (@QuicklizardCom) / X Quicklizard: leading developer of price intelligence solutions, enabling companies to create their optimal pricing strategy with rule-driven dynamic pricing.",
+    "url": "https://x.com/quicklizardcom",
+    "pass": 3
+   },
+   {
+    "quote": "Quicklizard (@QuicklizardAI) / Posts / X The Quicklizard elasticity module uses data science to calculate how a price changeaffects demand, while accounting for factors like seasonality, cannibalization, clustering, and competitor price changes.",
+    "url": "https://x.com/QuickLizardAI",
+    "pass": 3
+   },
+   {
+    "quote": "Quicklizard Boi (@quicklizard) / Posts / X quicklizard Joined: Aug 14, 2021 3Posts 5Following 0Followers 0 🔁Reposted by Quicklizard Boi AxioreAxiore Aug 28",
+    "url": "https://x.com/quicklizard",
+    "pass": 3
+   },
+   {
+    "quote": "Shadow Fox Infinite on X: \"Variable pricing exists on just ... Variable pricing exists on just about every online marketplace now, actively monitored by multiple AI models like Pricefx/QuickLizard, etc. It works not only for online prices, but also for prices at retail. Even if physical gaming remained, it wouldn't stop what's already here",
+    "url": "https://x.com/ShadowFoxArche/status/2083580188697182380",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Quicklizard - LinkedIn Quicklizard | Leading the Future of Agentic Pricing for Retailers & Brands | Quicklizard is an AI-powered Agentic Pricing and price optimization platform for retailers and brands.",
+    "url": "https://www.linkedin.com/company/quicklizard",
+    "pass": 3
+   },
+   {
+    "quote": "Quicklizard - LinkedIn Quicklizard combines AI-powered optimization with the control pricing teams need. Its Glass Box AI makes pricing decisions explainable and traceable, while configurable business rules,...",
+    "url": "https://uk.linkedin.com/company/quicklizard",
+    "pass": 3
+   },
+   {
+    "quote": "Quicklizard - LinkedIn Quicklizard combines AI-powered optimization with the control pricing teams need. Its Glass Box AI makes pricing decisions explainable and traceable, while configurable business rules,...",
+    "url": "https://il.linkedin.com/company/quicklizard",
+    "pass": 3
+   },
+   {
+    "quote": "AI-Powered Dynamic Pricing Platform | LinkedIn Quicklizard is an AI-driven pricing platform built for modern retailers and brands. It transforms fragmented pricing data into actionable insights and automated price decisions across SKUs ...",
+    "url": "https://www.linkedin.com/products/quicklizard/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Secret Tel Aviv | Hey, my company Quicklizard is Hiring an ... Feb 21, 2025 · Hey, my company Quicklizard is Hiring an SDR for the US, LATAM, and Nordics Markets! 🚀 If you're hungry, ambitious, and ready to make an impact in the...",
+    "url": "https://www.facebook.com/groups/secrettelaviv/posts/10162333390325943/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://quicklizard.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://quicklizard.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://quicklizard.com/the-ai-dynamic-pricing-platform/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://quicklizard.com/products/dynamic-pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://quicklizard.com/products/pricing-optimization/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://quicklizard.com/products/pricing-intelligence/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://quicklizard.com/products/pricing-elasticity/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://quicklizard.com/solutions/retailers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://quicklizard.com/solutions/dtc-brands/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://quicklizard.com/solutions/travel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://quicklizard.com/solutions/manufacturers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://quicklizard.com/solutions/growth/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://quicklizard.com/solutions/efficiency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://quicklizard.com/solutions/profit-optimization/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://quicklizard.com/solutions/consumer-electronics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://quicklizard.com/solutions/automative-and-supply-parts/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://quicklizard.com/blog/sephora-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://quicklizard.com/resources-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://quicklizard.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://quicklizard.com/careers/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://quicklizard.com/wp-content/uploads/2026/05/partners-image1.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://quicklizard.com/wp-content/uploads/2026/04/From-Data-to-Action_-The-Manufacturing-Intelligence-Hub.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://quicklizard.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://quicklizard.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketplace.microsoft.com/ja-jp/product/quicklizard.312276207",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fitgap.com/jp/products/quicklizard",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://quicklizard.com/solutions/retailers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://quicklizard.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://quicklizard.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/quicklizard",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ust.com/en/our-partners/ust-and-quicklizard",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://quicklizard.com/blog/category/resources-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/quicklizard",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://quicklizard.com/blog/dehner-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/quicklizard",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/quicklizard",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/quicklizard",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/quicklizard/__-v-eQkawgSV1T5DmUeLLbtPT_gT4hXdB2FoaQG8MSuU",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://prospeo.io/c/quicklizard-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/quicklizardcom",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/QuickLizardAI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/quicklizard",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ShadowFoxArche/status/2083580188697182380",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/quicklizard",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/company/quicklizard",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://il.linkedin.com/company/quicklizard",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/quicklizard/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/secrettelaviv/posts/10162333390325943/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/quicklizardcom",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/QuickLizardAI",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Quicklizard 日本 導入",
+   "results": [
+    "https://quicklizard.com/",
+    "https://quicklizard.com/about-us/",
+    "https://marketplace.microsoft.com/ja-jp/product/quicklizard.312276207",
+    "https://fitgap.com/jp/products/quicklizard",
+    "https://prtimes.jp/main/html/rd/p/000000073.000057359.html",
+    "https://www.gaprise.com/topics/202208251600",
+    "https://ecclab.empowershop.co.jp/archives/78447"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Quicklizard 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://quicklizard.com/solutions/retailers/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.gilead.com/ja-jp/company/gilead-in-japan",
+    "https://www.paypal.com/jp/digital-wallet/corporate/corporate-info"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Quicklizard Japan",
+   "results": [
+    "https://quicklizard.com/",
+    "https://quicklizard.com/about-us/",
+    "https://jp.linkedin.com/company/quicklizard",
+    "https://www.ust.com/en/our-partners/ust-and-quicklizard",
+    "https://www.riverwoodcapital.com/investment/quicklizard/",
+    "https://marketplace.microsoft.com/ja-jp/product/quicklizard.312276207",
+    "https://www.gaprise.com/topics/202208251600"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Quicklizard manufacturing customer case study",
+   "results": [
+    "https://quicklizard.com/blog/category/resources-case-study/",
+    "https://www.casestudies.com/company/quicklizard",
+    "https://quicklizard.com/blog/dehner-case-study/",
+    "https://www.casestudies.com/customer/quicklizard",
+    "https://www.featuredcustomers.com/vendor/quicklizard/case-studies",
+    "https://valuehub.valuecore.ai/valuehub/organizations/quicklizard/business-documents",
+    "https://www.appsruntheworld.com/customers-database/products/view/quicklizard",
+    "https://quicklizard.com/blog/intersport-case-study/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Quicklizard white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://skyswitch.com/",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Quicklizard founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/quicklizard",
+    "https://getlatka.com/companies/quicklizard",
+    "https://tracxn.com/d/companies/quicklizard/__-v-eQkawgSV1T5DmUeLLbtPT_gT4hXdB2FoaQG8MSuU",
+    "https://prospeo.io/c/quicklizard-revenue",
+    "https://pitchbook.com/profiles/company/58793-41",
+    "https://acquirezy.com/organization/quicklizard",
+    "https://www.thecompanycheck.com/company/b/quicklizard/oy1wlnu85c0vih5kg"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Quicklizard",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com Quicklizard",
+   "results": [
+    "https://x.com/quicklizardcom",
+    "https://x.com/QuickLizardAI",
+    "https://x.com/quicklizard",
+    "https://x.com/ShadowFoxArche/status/2083580188697182380",
+    "https://x.com/DavidGrunewald",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/_InfoGram_/status/2118253289573949943"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Quicklizard",
+   "results": [
+    "https://www.linkedin.com/company/quicklizard",
+    "https://uk.linkedin.com/company/quicklizard",
+    "https://il.linkedin.com/company/quicklizard",
+    "https://www.linkedin.com/products/quicklizard/",
+    "https://dk.linkedin.com/company/quicklizard",
+    "https://il.linkedin.com/in/pini-mandel-05769114",
+    "https://ph.linkedin.com/in/aiko-gerong-a01495347"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Quicklizard",
+   "results": [
+    "https://secure.facebook.com/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/groups/secrettelaviv/posts/10162333390325943/",
+    "https://www.facebook.com/\u0000jperes88/",
+    "https://www.facebook.com/neta.parnasvizel/videos/leadership-management-global-training-leadershipdevelopment/1879009229739047/",
+    "https://www.facebook.com/tracyheath123/",
+    "https://www.facebook.com/groups/185364866044514/posts/1310623680185288/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Quicklizard note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://quicklizard.com/about-us/",
+    "https://quicklizard.com/",
+    "https://note.com/koala_president",
+    "https://note.com/koala_president/all",
+    "https://en.globes.co.il/en/article-riverwood-capital-buys-israeli-ai-pricing-co-quicklizard-1001501462",
+    "https://il.linkedin.com/in/pini-mandel-05769114"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Quicklizard X 投稿",
+   "results": [
+    "https://x.com/quicklizardcom",
+    "https://x.com/QuickLizardAI",
+    "https://quicklizard.com/",
+    "https://quicklizard.com/resources/",
+    "https://x.com/quicklizard",
+    "https://search.yahoo.co.jp/realtime/search/投稿/",
+    "https://search.yahoo.co.jp/realtime/search/リアルタイム検索/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部35頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部35頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部35頁・検索12回）"
+ }
+}

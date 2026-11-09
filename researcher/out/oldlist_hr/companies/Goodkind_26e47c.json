@@ -1,0 +1,942 @@
+{
+ "name": "Goodkind",
+ "aliases": [],
+ "context": "旧営業リスト｜Non-AUMS｜NG",
+ "researched_at": "2026-11-09T18:14:57.272412+00:00",
+ "official_url": "https://goodkind.com/",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/goodkind-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$125,000",
+    "url": "https://prospeo.io/c/goodkind-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Toronto, Ontario M5G 1L5, CA",
+    "url": "https://prospeo.io/c/goodkind-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2021",
+    "url": "https://prospeo.io/c/goodkind-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "How happy are our customers? Well, our latest Net Promoter Score (NPS) is 78, a score on par with folks like Apple, Starbucks and Warby Parker.",
+    "url": "https://www.goodkindco.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Net Promotor Score (NPS) is a key metric that reflects customer loyalty and satisfaction. A “good” NPS typically varies by industry, but a score above 0 is generally considered positive, above 20 favorable, and above 50 excellent.",
+    "url": "https://www.goodkindco.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Trust that we’re always going to tell them the truth, trust that we’re going to make their products the way we say we will, trust that we’re going to deliver on time and trust that we’re going to become their favorite business partner.",
+    "url": "https://www.goodkindco.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Goodkind streamlines data import and onboarding with Flatfile",
+    "url": "https://www.casestudies.com/customer/goodkind",
+    "pass": 3
+   },
+   {
+    "quote": "Goodkind scales personalized video messaging with hotglue",
+    "url": "https://www.casestudies.com/customer/goodkind",
+    "pass": 3
+   },
+   {
+    "quote": "That’s why we provide our customers with complete visibility into their projects through our project management tool, Asana. Asana enables transparent communication and real-time updates, ensuring our clients are always informed. If something causes a delay in a project, our customers know it as soon as we do. No more finding out a week before the due date.",
+    "url": "https://www.goodkindco.com/why-goodkind",
+    "pass": 3
+   },
+   {
+    "quote": "Asana helps everyone stay on the same page by making progress, priorities, and responsibilities clear across teams.",
+    "url": "https://www.goodkindco.com/why-goodkind",
+    "pass": 3
+   },
+   {
+    "quote": "Asana gives a real-time view of where production batches stand at any moment, helping ensure nothing gets overlooked and every production task stays on track.",
+    "url": "https://www.goodkindco.com/why-goodkind",
+    "pass": 3
+   },
+   {
+    "quote": "We’re committed to collaborating closely to build reporting, tools, and processes that align with how our clients want to work—our goal is ultimately to simplify and support.",
+    "url": "https://www.goodkindco.com/why-goodkind",
+    "pass": 3
+   },
+   {
+    "quote": "we know how much is already on your plate. So we honor the privilege of manufacturing products for our customers. Our north star is to always go beyond your expectations.",
+    "url": "https://www.goodkindco.com/why-goodkind",
+    "pass": 3
+   },
+   {
+    "quote": "We have deep technical expertise and are investing in technology to further enhance our customer relationships and bring additional transparency and efficiency to our process.",
+    "url": "https://www.goodkindco.com/why-goodkind",
+    "pass": 3
+   },
+   {
+    "quote": "Our customer portal that will make project management easier, allow our customers to access their data easily and provide enhanced reporting. Need an inventory update or access to a certificate of analysis? Our new portal will provide quick and easy access to those and other important information.",
+    "url": "https://www.goodkindco.com/why-goodkind",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Goodkind streamlines data import and onboarding with Flatfile | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/flatfile/case-study/flatfile-data-exchange-platform-helps-goodkind-bring-back-face-to-face-communication",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Goodkind streamlines data import and onboarding with Flatfile",
+    "url": "https://www.casestudies.com/company/flatfile/case-study/flatfile-data-exchange-platform-helps-goodkind-bring-back-face-to-face-communication",
+    "pass": 3
+   },
+   {
+    "quote": "Personal, Higher Education, Recruitment, Outreach, Admissions, Saas, Storytelling, Video, Connection",
+    "url": "https://prospeo.io/c/goodkind-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Goodkind is the leading video-first student engagement platform. Send video messages to engage, excite and motivate prospective students to inquire, apply and accept.",
+    "url": "https://prospeo.io/c/goodkind-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View contact profiles from",
+    "url": "https://prospeo.io/c/goodkind-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Premiere Kansas Whitetails",
+    "url": "https://prospeo.io/c/goodkind-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Goodkind has approximately",
+    "url": "https://prospeo.io/c/goodkind-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/goodkind-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/goodkind-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Get Targeted Leads for free",
+    "url": "https://prospeo.io/c/goodkind-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Goodkind 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/463162-69",
+    "pass": 3
+   },
+   {
+    "quote": "Educational and Training Services (B2C)",
+    "url": "https://pitchbook.com/profiles/company/463162-69",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of a marketing platform designed to help brands authentically connect with customers.",
+    "url": "https://pitchbook.com/profiles/company/463162-69",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of a marketing platform designed to help brands authentically connect with customers. The company's platform uses artificial intelligence by bringing personalized videos on product displays and value demonstrations to engage their audience and drive intent across the customer journey, enabling clients to make their businesses personal and effective.",
+    "url": "https://pitchbook.com/profiles/company/463162-69",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/463162-69",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/463162-69",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/463162-69",
+    "pass": 3
+   },
+   {
+    "quote": "Goodkind’s primary industry is Educational and Training Services (B2C).",
+    "url": "https://pitchbook.com/profiles/company/463162-69",
+    "pass": 3
+   },
+   {
+    "quote": "Is Goodkind a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/463162-69",
+    "pass": 3
+   },
+   {
+    "quote": "Goodkind is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/463162-69",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/463162-69",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/463162-69",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/463162-69",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/goodkind.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/goodkind.com",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "We are a better kind of contract manufacturer. We measure our partnerships based on our customers’ satisfaction with us, not by how many units we ship them.",
+    "url": "https://www.goodkindco.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories about Software and Services used by Goodkind",
+    "url": "https://www.casestudies.com/customer/goodkind",
+    "pass": 3
+   },
+   {
+    "quote": "We are a manufacturer that thinks like a brand.",
+    "url": "https://www.goodkindco.com/why-goodkind",
+    "pass": 3
+   },
+   {
+    "quote": "we know how much is already on your plate. So we honor the privilege of manufacturing products for our customers. Our north star is to always go beyond your expectations.",
+    "url": "https://www.goodkindco.com/why-goodkind",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Goodkind streamlines data import and onboarding with Flatfile | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/flatfile/case-study/flatfile-data-exchange-platform-helps-goodkind-bring-back-face-to-face-communication",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Goodkind streamlines data import and onboarding with Flatfile",
+    "url": "https://www.casestudies.com/company/flatfile/case-study/flatfile-data-exchange-platform-helps-goodkind-bring-back-face-to-face-communication",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/flatfile/case-study/flatfile-data-exchange-platform-helps-goodkind-bring-back-face-to-face-communication",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/flatfile/case-study/flatfile-data-exchange-platform-helps-goodkind-bring-back-face-to-face-communication",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Home | The Goodkind Co. — It’s rare to find a manufacturing partner that feels like an extension of your own team, but that's exactly what we’ve found in Goodkind. They’re responsive, solutions-focused, and committed to getting it right.",
+    "url": "https://www.goodkindco.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Meet Goodkind (now part of Niche) — Jan 9, 2025 · Niche has acquired Goodkind to shake up how K-12 schools and higher ed institutions connect with students and families. With tools like video messaging, texting, and AI chatbots, Goodkind enables personalized, real-time communication at every stage of the funnel.",
+    "url": "https://www.niche.com/about/enrollment-insights/meet-goodkind-now-part-of-niche/",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How Goodkind Uses Software & Services — Explore case studies featuring Goodkind as the customer — learn how vendors and partners helped Goodkind solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/goodkind",
+    "pass": 3
+   },
+   {
+    "quote": "Why We're Different | The Goodkind Co. — What does that mean for you? We know how damn hard it is to develop and to manage a brand and we know how much is already on your plate. So we honor the privilege of manufacturing products for our customers. Our north star is to always go beyond your expectations.",
+    "url": "https://www.goodkindco.com/why-goodkind",
+    "pass": 3
+   },
+   {
+    "quote": "Flatfile Case Study: Goodkind – Flatfile Data Exchange ... — Goodkind partnered with Flatfile (Computer Software) to solve key challenges. \"Flatfile Data Exchange Platform helps Goodkind bring back face-to-face communication\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/flatfile/case-study/flatfile-data-exchange-platform-helps-goodkind-bring-back-face-to-face-communication",
+    "pass": 3
+   },
+   {
+    "quote": "35.9 Interview with GoodKind - kisacoresearch.com — At Goodkind, we always put our brand partners first and make all of our decisions in service to the brand. Fittingly, we measure our success based on how happy (objectively) our brand partners are with us - not based on just how many units we produce for them.",
+    "url": "https://www.kisacoresearch.com/sites/default/files/documents/the_goodkind_co_interview.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Goodkind – Industry Ranking & Company Valuation – 2026 — Discover Goodkind's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/goodkind",
+    "pass": 3
+   },
+   {
+    "quote": "Goodkind Revenue, Funding & Valuation - prospeo.io — Goodkind has raised a total of $125,000 across 1 funding rounds. This investment has helped the company grow and expand its operations. Goodkind has revenue of $342,220, estimated valuation of $1,100,000, $125,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/goodkind-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Goodkind 2026 Company Profile: Valuation, Investors ...Goodkind Revenue 2024: $7.2M Est. ARR (Bootstrapped)GoodKind - Overview, News & Similar companies | ZoomInfo.comGoodkind: Funding, Team & Investors | Startup IntrosGoodkind - Products, Competitors, Financials, Employees ... — Information on acquisition, funding, cap tables, investors, and executives for Goodkind. Use the PitchBook Platform to ",
+    "url": "https://pitchbook.com/profiles/company/463162-69",
+    "pass": 3
+   },
+   {
+    "quote": "Goodkind Revenue 2024: $7.2M Est. ARR (Bootstrapped) — Aug 10, 2026 · Goodkind 2024 estimated revenue: $7.2M ARR. Bootstrapped (no outside funding). 27 employees. Founded 2021. HQ: Canada Updated Aug 10, 2026.",
+    "url": "https://getlatka.com/companies/goodkind.com",
+    "pass": 3
+   },
+   {
+    "quote": "GoodKind - Overview, News & Similar companies | ZoomInfo.com — View GoodKind (www.goodkind.com) location in Ontario, Canada , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+    "url": "https://www.zoominfo.com/c/goodkind-llc/116999658",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "We are led by individuals with a deep passion for brands, innovation and transparency. They’ve founded their own brands and startups, led divisions of Fortune 500 companies, and learned at some of the leading brands of the world.",
+    "url": "https://www.goodkindco.com/why-goodkind",
+    "pass": 3
+   },
+   {
+    "quote": "This rigorous achievement demonstrates our commitment to making decisions that are in the best interests of our employees, our customers, our community and the environment.",
+    "url": "https://www.goodkindco.com/why-goodkind",
+    "pass": 3
+   },
+   {
+    "quote": "Goodkind Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/goodkind-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Goodkind",
+    "url": "https://prospeo.io/c/goodkind-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/goodkind-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/goodkind-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Goodkind?",
+    "url": "https://prospeo.io/c/goodkind-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Goodkind generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/goodkind-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/goodkind-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/goodkind-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Goodkind have?",
+    "url": "https://prospeo.io/c/goodkind-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/goodkind-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Goodkind 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/463162-69",
+    "pass": 3
+   },
+   {
+    "quote": "4. Merger/Acquisition",
+    "url": "https://pitchbook.com/profiles/company/463162-69",
+    "pass": 3
+   },
+   {
+    "quote": "Goodkind has 24 total employees.",
+    "url": "https://pitchbook.com/profiles/company/463162-69",
+    "pass": 3
+   },
+   {
+    "quote": "What is Goodkind’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/463162-69",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Goodkind is",
+    "url": "https://pitchbook.com/profiles/company/463162-69",
+    "pass": 3
+   },
+   {
+    "quote": "When was Goodkind acquired?",
+    "url": "https://pitchbook.com/profiles/company/463162-69",
+    "pass": 3
+   },
+   {
+    "quote": "Goodkind was acquired on 01-Jan-2025.",
+    "url": "https://pitchbook.com/profiles/company/463162-69",
+    "pass": 3
+   },
+   {
+    "quote": "Who acquired Goodkind?",
+    "url": "https://pitchbook.com/profiles/company/463162-69",
+    "pass": 3
+   },
+   {
+    "quote": "Goodkind was acquired by",
+    "url": "https://pitchbook.com/profiles/company/463162-69",
+    "pass": 3
+   },
+   {
+    "quote": "Goodkind Revenue 2024: $7.2M Est.",
+    "url": "https://getlatka.com/companies/goodkind.com",
+    "pass": 3
+   },
+   {
+    "quote": "Goodkind has not published its revenue. GetLatka estimates it at about $7.2M a year (June 2024).",
+    "url": "https://getlatka.com/companies/goodkind.com",
+    "pass": 3
+   },
+   {
+    "quote": "Goodkind CEO, founders & employees",
+    "url": "https://getlatka.com/companies/goodkind.com",
+    "pass": 3
+   },
+   {
+    "quote": "Justin Rotman founded Goodkind in 2021 and runs it as CEO. Goodkind had 27 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/goodkind.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Goodkind's revenue?",
+    "url": "https://getlatka.com/companies/goodkind.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Goodkind's revenue at about",
+    "url": "https://getlatka.com/companies/goodkind.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Goodkind have?",
+    "url": "https://getlatka.com/companies/goodkind.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/goodkind.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/goodkind.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/goodkind.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/goodkind.com",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/goodkind-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/463162-69",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Nicole Goodkind (@NicoleGoodkind) / X Developer Builds Web-Based TypeScript Port Of Geometry Nodes From 80.lv 98 Nicole Goodkind @NicoleGoodkind May 19",
+    "url": "https://x.com/NicoleGoodkind",
+    "pass": 3
+   },
+   {
+    "quote": "Nicole Goodkind on X: \"Only exception to our no screen time ... Post Nicole Goodkind @NicoleGoodkind Only exception to our no screen time rule 7:36 PM · Oct 28, 2026 ·",
+    "url": "https://x.com/NicoleGoodkind/status/2115528036044967977",
+    "pass": 3
+   },
+   {
+    "quote": "Goodkind Network (@be_goodkind) / Posts / X Goodkind Network (@be_goodkind) - Posts - Michael Goodkind and Parker Van Dyke covering premiere games across the state of Utah and beyond. | X (formerly Twitter)",
+    "url": "https://x.com/be_goodkind",
+    "pass": 3
+   },
+   {
+    "quote": "Adam Goodkind (@adamgreatkind) / Posts / X Adam Goodkind (@adamgreatkind) - Posts - Postdoctoral Research Fellow @IRPatNIH . Interested in HCI, UX, NLP, and the social dynamics of dia... | X (formerly Twitter)",
+    "url": "https://x.com/adamgreatkind",
+    "pass": 3
+   },
+   {
+    "quote": "@goodkind | X The latest posts from @goodkind",
+    "url": "https://x.com/goodkind",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Goodkind - LinkedIn Goodkind is a video-first recruitment platform that is used by higher education institutions to engage, excite and motivate prospective students to inquire, apply and accept their offers.",
+    "url": "https://www.linkedin.com/company/goodkind",
+    "pass": 3
+   },
+   {
+    "quote": "The Goodkind Co - LinkedIn The Goodkind Co | 4,767 followers on LinkedIn. We're on a mission to create personal and beauty care products that are better for (any)body and planet.",
+    "url": "https://www.linkedin.com/company/goodkind-co",
+    "pass": 3
+   },
+   {
+    "quote": "Justin Rotman - Founder & CEO, Goodkind (acquired by Niche ...Julian Goodkind - Founder & CEO - Pure Sync & Cover Sauce ...Ritvik Singh - Software Engineer Intern @ Goodkind ... - LinkedInGraham Goodkind - United Kingdom | Professional Profile ...The Goodkind Group, LLC - LinkedIn Founder & CEO, Goodkind (acquired by Niche) · I was the co-founder and CEO of Goodkind, an ed-tech company. Goodkind w",
+    "url": "https://ca.linkedin.com/in/jrotman",
+    "pass": 3
+   },
+   {
+    "quote": "Julian Goodkind - Founder & CEO - Pure Sync & Cover Sauce ...Ritvik Singh - Software Engineer Intern @ Goodkind ... - LinkedInGraham Goodkind - United Kingdom | Professional Profile ...The Goodkind Group, LLC - LinkedIn · Experience: Pure Sync · Education: Highgate School · Location: London · 500+ connections on LinkedIn. View Julian Goodkind’s profile on LinkedIn, a professional community of 1 bi",
+    "url": "https://uk.linkedin.com/in/juliangoodkind",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Goodkind | Milwaukee WI - FacebookGoodKind (@goodkind.goodkind) • Facebook, Connect with friendsGoodKind - FacebookGoodkind - FacebookShop GoodKind - FacebookTerry Goodkind - FacebookOfficial Terry Goodkind & Sword of Truth Book Club - Facebook Jun 15, 2026 · Meet Goodkind’s new Chef de Cuisine Isabella Del Castillo! @isastllo There have only been 2 Chef de Cuisines in the twelve year history of G",
+    "url": "https://www.facebook.com/goodkindbayview/",
+    "pass": 3
+   },
+   {
+    "quote": "GoodKind (@goodkind.goodkind) • Facebook, Connect with friends GoodKind is on Facebook. Join Facebook to connect with GoodKind and others you may know. Facebook gives people the power to share and makes the world...",
+    "url": "https://www.facebook.com/goodkind.goodkind/",
+    "pass": 3
+   },
+   {
+    "quote": "GoodKind - Facebook Jul 6, 2026 · GoodKind From the makers of Advent Blocks. Helping you make the GoodKind of habits and holiday celebrations.",
+    "url": "https://www.facebook.com/GoodKindCompany/",
+    "pass": 3
+   },
+   {
+    "quote": "Goodkind - Facebook View the Menu of Goodkind in 2457 S Wentworth Ave, Milwaukee, WI. Share it with friends or find your next meal. Full service indoor and outdoor dining &...",
+    "url": "https://www.facebook.com/goodkindbayview/menu/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.niche.com/about/partners/highered-goodkind/",
+    "status": "http_403",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.goodkindco.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niche.com/about/enrollment-insights/meet-goodkind-now-part-of-niche/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.msn.com/ja-jp/autos/trucks/%E3%82%A2%E3%83%A1%E8%BB%8A%E3%81%AF%E3%81%93%E3%82%8C%E3%81%8F%E3%82%89%E3%81%84%E6%8C%AF%E3%82%8A%E5%88%87%E3%81%A3%E3%81%A6%E3%81%84%E3%81%84-%E5%A4%A7%E5%9E%8B%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF-ram-1500-limited-%E6%97%A5%E6%9C%AC%E5%B0%8E%E5%85%A5%E3%81%AB%E9%A9%9A%E3%81%8D%E3%81%AE%E5%A3%B0/ar-AA2h3Ph5",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://bestcarweb.jp/news/entame/1669612",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.houjin-bangou.nta.go.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/goodkind",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.goodkindco.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.goodkindco.com/why-goodkind",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/flatfile/case-study/flatfile-data-exchange-platform-helps-goodkind-bring-back-face-to-face-communication",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.upcounsel.com/reseller-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.t-mobile.com/business/partner-recruitment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/goodkind",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/goodkind-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/463162-69",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/goodkind.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/NicoleGoodkind",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/NicoleGoodkind/status/2115528036044967977",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/be_goodkind",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/adamgreatkind",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/goodkind",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/goodkind-co",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/jrotman",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/juliangoodkind",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/goodkindbayview/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/goodkind.goodkind/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/GoodKindCompany/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/goodkindbayview/menu/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/goodkind",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Goodkind 日本 導入",
+   "results": [
+    "https://www.goodkindco.com/",
+    "https://www.niche.com/about/enrollment-insights/meet-goodkind-now-part-of-niche/",
+    "https://www.msn.com/ja-jp/autos/trucks/アメ車はこれくらい振り切っていい-大型ピックアップトラック-ram-1500-limited-日本導入に驚きの声/ar-AA2h3Ph5",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://1-president.com/services-japan-absence/",
+    "https://mainichi.jp/articles/20261031/k00/00m/010/262000c",
+    "https://bunshun.jp/articles/-/85300"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Goodkind 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.houjin-bangou.nta.go.jp/",
+    "http://phatcompany.jp/about.html",
+    "https://info.gbiz.go.jp/",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Goodkind Japan",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Goodkind manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/customer/goodkind",
+    "https://www.goodkindco.com/",
+    "https://www.goodkindco.com/why-goodkind",
+    "https://www.casestudies.com/company/flatfile/case-study/flatfile-data-exchange-platform-helps-goodkind-bring-back-face-to-face-communication",
+    "https://www.kisacoresearch.com/sites/default/files/documents/the_goodkind_co_interview.pdf",
+    "https://marketing.goodkind.com/Goodkind+and+Austin+Peay+State+-+Case+Study.pdf",
+    "https://marketing.goodkind.com/Goodkind+Austin+Peay+Case+Study.pdf"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Goodkind white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.t-mobile.com/business/partner-recruitment",
+    "https://www.seoreseller.com/",
+    "https://www.canva.com/partners/reseller/",
+    "https://www.appspace.com/resellers-alliances/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Goodkind founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/goodkind",
+    "https://prospeo.io/c/goodkind-revenue",
+    "https://pitchbook.com/profiles/company/463162-69",
+    "https://getlatka.com/companies/goodkind.com",
+    "https://www.zoominfo.com/c/goodkind-llc/116999658",
+    "https://startupintros.com/orgs/goodkind",
+    "https://www.cbinsights.com/company/goodkind-1"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Goodkind",
+   "results": [
+    "https://note.com/umalog_keiba/n/nb3b757bc8b74",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/assolato25253/n/n8c42ab9df9a9",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/azutani/n/ne65c79cb7bc7"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Goodkind",
+   "results": [
+    "https://x.com/NicoleGoodkind",
+    "https://x.com/NicoleGoodkind/status/2115528036044967977",
+    "https://x.com/be_goodkind",
+    "https://x.com/adamgreatkind",
+    "https://x.com/goodkind_co",
+    "https://x.com/NicoleGoodkind/status/2113323303435747625",
+    "https://x.com/Mashak99/status/2118681203901333591"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Goodkind",
+   "results": [
+    "https://www.linkedin.com/company/goodkind",
+    "https://www.linkedin.com/company/goodkind-co",
+    "https://ca.linkedin.com/in/jrotman",
+    "https://uk.linkedin.com/in/juliangoodkind",
+    "https://ca.linkedin.com/in/ritvik-singh-0789b7263",
+    "https://uk.linkedin.com/in/goodkind",
+    "https://www.linkedin.com/company/the-goodkind-group-llc"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Goodkind",
+   "results": [
+    "https://www.facebook.com/goodkindbayview/",
+    "https://www.facebook.com/goodkind.goodkind/",
+    "https://www.facebook.com/GoodKindCompany/",
+    "https://www.facebook.com/goodkindbayview/menu/",
+    "https://www.facebook.com/ShopGoodKind/",
+    "https://www.facebook.com/terrygoodkind/",
+    "https://www.facebook.com/groups/terrygoodkind/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Goodkind note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Goodkind X 投稿",
+   "results": [
+    "https://x.com/goodkind",
+    "https://www.instagram.com/p/DZsgTF0DACJ/",
+    "https://www.instagram.com/goodkind_docs/",
+    "https://www.goodkindco.com/",
+    "https://x.com/NicoleGoodkind/status/2113323303435747625",
+    "https://xkings.jp/",
+    "https://help.x.com/ja/using-x/how-to-post"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）"
+ }
+}

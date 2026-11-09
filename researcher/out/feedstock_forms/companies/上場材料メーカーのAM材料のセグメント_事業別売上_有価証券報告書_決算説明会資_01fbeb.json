@@ -1,0 +1,2339 @@
+{
+ "name": "上場材料メーカーのAM材料のセグメント・事業別売上（有価証券報告書・決算説明会資料・4-131）",
+ "en": "additive manufacturing materials segment revenue listed company",
+ "aliases": [
+  "AM材料 セグメント 売上",
+  "3Dプリンター 材料 事業 売上 決算説明会",
+  "積層造形 粉末 事業 売上"
+ ],
+ "context": "上場・セグメント",
+ "kind": "market",
+ "researched_at": "2026-11-09T18:13:56.897343+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の予測市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "グラフ：金属粉末を用いた積層造形市場規模、材料別、2022年～2035年（100万米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "グラフ：米国金属パウダーを用いた積層造形市場規模、2022～2035年（100万米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "<h1>3Dプリンティング市場規模とシェア、2025～2034年</h1>",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "<p>世界の3Dプリンティング市場規模は、2024年に__NUMVAL_0__と推定されており、2025年から2034年にかけて年平均成長率（CAGR）__NUMVAL_1__で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "<th>2024年市場規模</th>",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "<dt>世界の3Dプリンティング市場規模はどのくらいですか？</dt>",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "<dd>2024年の市場規模は__NUMVAL_0__と推定されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "<dd>アジア太平洋地域は2024年に__NUMVAL_17__の市場規模を記録し、予測期間中に__NUMVAL_18__のCAGRで成長すると予測されており、世界で最も高い成長率が見込まれています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の金属粉末を用いた付加製造市場の市場規模はどのくらいでしたか",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は2025年に6.508億米ドルであり、2035年までに15.4%の年平均成長率（CAGR）が予想されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は2026年に8.138億米ドルに達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "2018年上期に13台出荷し売上770万ドル（約8億円）、ということは、1台59万（約6200万円）で販売しているとみられる",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/nasdaq%E4%B8%8A%E5%A0%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E8%A3%BD%E9%80%A0exone%E3%81%AB%E8%A6%8B%E3%82%8B%E6%A5%AD%E7%B8%BE%E6%A7%8B%E9%80%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年上期に21台出荷し売上が1256万ドル（約13億円）なので、1台60万ドルと、ほぼ前年度と同価格帯で市場を広げているといえる",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/nasdaq%E4%B8%8A%E5%A0%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E8%A3%BD%E9%80%A0exone%E3%81%AB%E8%A6%8B%E3%82%8B%E6%A5%AD%E7%B8%BE%E6%A7%8B%E9%80%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "利益の面でも好調で、売上は2490万ドル（約26億円）で＋９％の水準だが、粗利は₊85％と大幅改善しており、絶対金額でも360万＄（約3億8千万円）の増額と大きく伸ばしている",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/nasdaq%E4%B8%8A%E5%A0%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E8%A3%BD%E9%80%A0exone%E3%81%AB%E8%A6%8B%E3%82%8B%E6%A5%AD%E7%B8%BE%E6%A7%8B%E9%80%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/nasdaq%E4%B8%8A%E5%A0%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E8%A3%BD%E9%80%A0exone%E3%81%AB%E8%A6%8B%E3%82%8B%E6%A5%AD%E7%B8%BE%E6%A7%8B%E9%80%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "TDKは、米国のFabric8Labsを最大4億ドルで買収すると発表した",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模：世界のAM市場は2025年に約242億ドル規模へ",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "NikonがSLM Solutionsを買収し、TDKがFabric8Labsを最大4億ドルで買収すると発表した流れは、まさにこの金属AMが「国家・産業インフラ」になり始めたことを示している",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "TDKは2026年6月10日、Fabric8Labsを最大4億ドルで買収する契約を発表し、同社のECAM技術をデータセンター冷却、電子部品、半導体パッケージング、AIインフラ向けに活用すると説明している",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "2. 市場規模：世界のAM市場は2025年に約242億ドル規模へ",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "242億ドル",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| Xometry | 2025年売上 約6.866億ドル | 3Dプリントだけでなく、CNC、板金など製造マーケットプレイス全体 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| Stratasys | 2025年売上 約5.511億ドル | 産業用ポリマーAM中心 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| Protolabs | 2025年売上 約5.331億ドル | 3Dプリント、CNC、射出成形など含む |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| 3D Systems | 2025年売上 約3.869億ドル | 医療・産業AM",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "Xometryは、2025年売上が約6.866億ドルとなり、製造マーケットプレイス企業として大きく成長している",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "Stratasysは2025年売上が約5.511億ドルで、2024年の約5.725億ドルから減少した",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、2026年は5.65億〜5.75億ドルの売上を見込んでいる",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "Protolabsは2025年に過去最高の約5.331億ドルの売上を記録した",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "3D Systemsは2025年売上が約3.869億ドルで、前年比12％減だった",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "当初予想との対比になりますが、売上高は当初予想21億300万円に対して、25億円と修正しています",
+    "url": "https://finance.logmi.jp/articles/314884",
+    "pass": 3
+   },
+   {
+    "quote": "こちら（左側の売上高のグラフ）の一番右端は業績予想になりますが、25億円です",
+    "url": "https://finance.logmi.jp/articles/314884",
+    "pass": 3
+   },
+   {
+    "quote": "東邦亜鉛、1Qは前年同期比で増収増益 足元で銀相場が下落する中、在庫評価損除外のEBITDAは15億円黒字を確保",
+    "url": "https://finance.logmi.jp/articles/314884",
+    "pass": 3
+   },
+   {
+    "quote": "Metal Additive Manufacturing Market Size, Share, Forecast 2033",
+    "url": "https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Metal Additive Manufacturing Market Size to worth USD 19.34 Billion by 2033: Market Insight Report",
+    "url": "https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Global Metal Additive Manufacturing Market Size is Expected to Grow from USD 5.26 Billion in 2023 to USD 19.34 Billion by 2033, at a CAGR of 13.91% during the forecast period 2023-2033.",
+    "url": "https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Metal Additive Manufacturing Market Size to worth USD 19.34 Billion by 2033",
+    "url": "https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Size is Expected to Grow from USD 5.26 Billion in 2023 to USD 19.34 Billion by 2033, at a CAGR of 13.91% during the forecast period 2023-2033.",
+    "url": "https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "- ExxonMobil reported US$323.905 billion in sales and operating revenue in 2025, highlighting its role in global energy markets and the potential of AI-driven technologies to improve operational efficiency.",
+    "url": "https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Meet the leaders of the $12.3 billion global additive manufacturing market | VoxelMatters - The heart of additive manufacturing",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market.md",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Meet the leaders of the $12.3 billion global additive manufacturing market",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "According to VoxelMatters’ new annual Additive Manufacturing Market 2025 report, the global AM industry generated nearly $12.3 billion in revenue in 2024. We forecast that this figure will grow significantly to $108 billion by 2034, supported by a strong compound annual growth rate of 24.4%.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "In 2024, the core AM market—encompassing hardware, materials, and services—generated $12.3 billion in revenue, with hardware accounting for $5.5 billion, services for $4.3 billion, and materials for $ 2.4 billion.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": ", having introduced the first commercial stereolithography (SLA) printer—the SL-1—in 1988. Currently, it ranks as the second-largest AM company by revenue, although its financial performance has declined in recent years. In 2024, 3D Systems reported revenue of $440 million, reflecting a 10% year-over-year drop and marking its weakest performance since 2012.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "quickly gained attention in desktop FFF printing with the launch of the X1, which raised over $7 million on Kickstarter in just one month. The printer stood out for its fast print speeds, self-calibration, and ability to handle multiple materials—features that raised expectations for consumer 3D printing.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise went public in 2014 and reported total revenue of €266.8 million in 2024",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "$57.8 million in revenue for 2024, reflecting a 2.6% year-over-year increase",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Nikon SLM reported €150 million in revenue, a 36% year-over-year increase",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "In 2024, Stratasys reported $572.5 million in revenue, an 8.8% decline from $627.6 million the previous year",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Polymer additive manufacturing continues to lead the AM market in overall value, generating $7.4 billion in revenue in 2024. Driven by a wide range of industrial and consumer applications, the segment is projected to reach $46 billion by 2034, growing at a 20.1% compound annual growth rate.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Metal additive manufacturing followed closely, with $4.7 billion in 2024 revenue. Supported by strong adoption in sectors such as aerospace, energy, and healthcare, the segment is on track to grow to nearly $60 billion by 2034, at a projected CAGR of 29%.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Ceramics AM is [also] the fastest-growing category, projected to reach $2.5 billion by 2034, with a compound annual growth rate of 31.2%.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry posts record Q3 revenue of $252 million and raises 2026 outlook",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "2026年の8.138億米ドルから2035年の29億米ドルに成長する見通しであり、2026～2035年にかけて年平均成長率（CAGR）15.4%で拡大すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（2026～2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "合金粉末は最大の材料カテゴリであり、2025年に1.9672億米ドルと評価されており、2035年までに8.1946億米ドルに達すると予測されており、年平均成長率（CAGR）はおよそ15.47%です",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "貴金属粉末は2025年の40.46百万米ドルから2035年の1.8504億米ドルに増加すると予測されており、年平均成長率（CAGR）はおよそ16.55%です",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "タングステンは33.94百万米ドルから1.586億米ドルへの拡大が予想されており、年平均成長率（CAGR）はおよそ16.81%です",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "DMDおよびLENSを含く吹き付け粉末技術は2025年の1.6701億米ドルから2035年の7.4016億米ドルに成長すると予測されており、最速の技術年平均成長率（CAGR）はおよそ16.19%です",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "このセグメントの年平均成長率（CAGR）が約15.61%となることは、生産性、安全な粉末取扱い、および従来の大量生産の広範な置き換えではなく、対象となるアプリケーションにおける実証済みのコスト優位性に依存しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギーは60.01百万米ドルから2.6434億米ドルに拡大すると予測され、年平均成長率（CAGR）が約16.12%と最速の用途成長率です",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は最大の地域市場であり、2025年に2.2423億米ドルと評価され、2035年までに8.644億米ドルに達すると予測されており、年平均成長率（CAGR）は約14.58%です",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は最も急速な成長が予測されており、2025年の1.7751億米ドルから2035年の8.4589億米ドルへと上昇し、年平均成長率（CAGR）は約17.03%です",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "ラテンアメリカは2025年の33.26百万米ドルから2035年の1.4539億米ドルに成長すると予想されており、年平均成長率（CAGR）は約16.03%です",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "中東・アフリカ市場は2025年に36.65百万米ドルと評価され、2035年までに1.0045億米ドルに達すると予測されており、年平均成長率（CAGR）は約10.56%です",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "<p>世界の3Dプリンティング市場規模は、2024年に__NUMVAL_0__と推定されており、2025年から2034年にかけて年平均成長率（CAGR）__NUMVAL_1__で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "医療機器・デバイス製造業は__NUMVAL_11__の成長率を記録し、個別化医療ソリューションの需要拡大に支えられています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "その成長率は約60%と大きな伸び幅",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/nasdaq%E4%B8%8A%E5%A0%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E8%A3%BD%E9%80%A0exone%E3%81%AB%E8%A6%8B%E3%82%8B%E6%A5%AD%E7%B8%BE%E6%A7%8B%E9%80%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "【業界別動向】航空宇宙業界3Dプリンター市場は年平均成長率26.6%の見通し",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/nasdaq%E4%B8%8A%E5%A0%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E8%A3%BD%E9%80%A0exone%E3%81%AB%E8%A6%8B%E3%82%8B%E6%A5%AD%E7%B8%BE%E6%A7%8B%E9%80%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "となり、前年比10.9％増加した",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "、前年比5.7％成長とされている",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "前年比12％減 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "会社年報ベースで前年比45.4％増 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "3D Systemsは2025年売上が約3.869億ドルで、前年比12％減だった",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "また、国内エンジニア数(含 コンサルタント)は1,639名(対前年比250名増加)となりました",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "The Global Metal Additive Manufacturing Market Size is Expected to Grow from USD 5.26 Billion in 2023 to USD 19.34 Billion by 2033, at a CAGR of 13.91% during the forecast period 2023-2033.",
+    "url": "https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Size is Expected to Grow from USD 5.26 Billion in 2023 to USD 19.34 Billion by 2033, at a CAGR of 13.91% during the forecast period 2023-2033.",
+    "url": "https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "28.88% of the market share in 2023 and is expected to grow at a significant CAGR during the forecast period.",
+    "url": "https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The aerospace segment held 33.68% of the market share in 2023 and is estimated to grow at a CAGR of 17.75% during the forecast period.",
+    "url": "https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "According to VoxelMatters’ new annual Additive Manufacturing Market 2025 report, the global AM industry generated nearly $12.3 billion in revenue in 2024. We forecast that this figure will grow significantly to $108 billion by 2034, supported by a strong compound annual growth rate of 24.4%.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Polymer additive manufacturing continues to lead the AM market in overall value, generating $7.4 billion in revenue in 2024. Driven by a wide range of industrial and consumer applications, the segment is projected to reach $46 billion by 2034, growing at a 20.1% compound annual growth rate.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Metal additive manufacturing followed closely, with $4.7 billion in 2024 revenue. Supported by strong adoption in sectors such as aerospace, energy, and healthcare, the segment is on track to grow to nearly $60 billion by 2034, at a projected CAGR of 29%.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Ceramics AM is [also] the fastest-growing category, projected to reach $2.5 billion by 2034, with a compound annual growth rate of 31.2%.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "金属粉末を用いた付加製造市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "グラフ：金属粉末を用いた積層造形市場の売上高シェア（%）、用途別（2025年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末を用いた積層造形市場シェアと競争環境",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "金属パウダーを用いた3Dプリンティング業界の主要企業は誰ですか",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "<h1>3Dプリンティング市場規模とシェア、2025～2034年</h1>",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "<th>2024年市場シェア</th>",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "<p>航空宇宙・防衛産業は__NUMVAL_10__の市場シェアを占め、引き続き主要成長分野となっています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車産業は__NUMVAL_12__のシェアを保有し、プロトタイピングと部品製造での採用が増加しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "<h2>主要企業と競争環境</h2>",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "<p>3Dプリンティング市場の主要企業には、3D Systems Corporation、Additive Industries、Advanced Powder & Coatings, Inc、Aubert & Duval S.A、Aerojet Rocketdyne（L3Harris傘下）、Airbus SE、Allegheny Technologies（ATI）、APWorks、Xi'an Bright Laser Technologies、Carpenter Technologies Corp、Colibrium Additive（GE Additive傘下）、Constelliumなどが含まれます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "<p>これら主要企業は、生産能力の拡大、研究開発投資の増加、戦略的パートナーシップの構築を通じて競争力を強化しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "<li><strong>レポート範囲：</strong>市場規模、シェア、成長動向、競争環境、機会分析</li>",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "<dt>最大の市場シェアを占めるセグメントはどれですか？</dt>",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "<dd>技術別では熔融堆積モデリング（FDM）が__NUMVAL_2__のシェアで市場をリードしており、用途別では航空宇宙・防衛産業が__NUMVAL_10__で最大のセグメントとなっています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "<dt>3Dプリンティング市場の主要企業はどの企業ですか？</dt>",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "シェアラボは主催者セミナー開催とブースで出展 …",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/nasdaq%E4%B8%8A%E5%A0%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E8%A3%BD%E9%80%A0exone%E3%81%AB%E8%A6%8B%E3%82%8B%E6%A5%AD%E7%B8%BE%E6%A7%8B%E9%80%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 国内メーカー一覧",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/nasdaq%E4%B8%8A%E5%A0%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E8%A3%BD%E9%80%A0exone%E3%81%AB%E8%A6%8B%E3%82%8B%E6%A5%AD%E7%B8%BE%E6%A7%8B%E9%80%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 海外メーカー一覧",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/nasdaq%E4%B8%8A%E5%A0%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E8%A3%BD%E9%80%A0exone%E3%81%AB%E8%A6%8B%E3%82%8B%E6%A5%AD%E7%B8%BE%E6%A7%8B%E9%80%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、世界のプラスチック・金属3Dプリンター業界の全体像、主要企業、売上規模、業界再編、日本企業の買収、Nikonの減損、そして「日本はまだ金型時代なのか」という問いまで含めて整理する",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "Nikonは2023年、金属3Dプリンター大手SLM Solutionsを買収し、同社を連結子会社化した",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "Bambu Labのシェアは37％とされ、Creality、Elegoo、Anycubicなど中国企業を含めると、エントリーレベル市場の大部分を中国メーカーが占める構図になっている",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "CONTEXT関連報道では、2025年時点のプロフェッショナル市場でFormlabsが38％のシェアを持つとされている",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "6. 世界の主要企業リスト",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "7-1. 公開情報で確認できる主要企業の売上",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、市場シェアとユーザー体験の面では、家庭用3Dプリンター市場の主役になりつつある",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "また、中国メーカーが中国や東南アジアの一般産業向けでシェアを伸ばしていること、競争が激化していることも挙げている",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "28.88% of the market share in 2023 and is expected to grow at a significant CAGR during the forecast period.",
+    "url": "https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The aerospace segment held 33.68% of the market share in 2023 and is estimated to grow at a CAGR of 17.75% during the forecast period.",
+    "url": "https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Major key players in the metal additive manufacturing market include GE Additive, 3D Systems, Desktop Metal, EOS GmbH, Renishaw, SLM Solutions, Stratasys, Markforged, Velo3D, DMG Mori, HP Inc., TRUMPF, ExOne (a Desktop Metal company), Materialise, Formlabs, Norsk Titanium, Optomec, Prima Additive, XJet, and VulcanForms, and Others.",
+    "url": "https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Most leading AM companies continue to generate the majority of their revenue from machine sales. While many also supply first-party (and in some cases third-party) materials or offer production services, hardware remains the cornerstone of the industry.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Boston-based Formlabs has evolved from an MIT spinout into a leading supplier of prosumer SLA systems",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "UnionTech, a leading industrial SLA 3D printing company",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": ". Its prominence here among leading additive manufacturing companies is largely attributed to an aggressive acquisition strategy, which includes companies such as Desktop Metal, Markforged, ExOne, ETEC, Fabrica, and Admatec/Formatec.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The leading players in this segment—such as EOS, Nikon SLM, BLT and DMG MORI—have already been profiled above.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "VoxelMatters is a leading market research and analysis publisher for the additive manufacturing industry. We help companies and organizations capitalize on the latest trends and communicate their offerings to their target audience.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   }
+  ],
+  "安全・規制・保管": [
+   {
+    "quote": "金属積層造形は、幾何学的複雑性、性能、またはサプライチェーン回復力が、アトマイズ粉末、機械時間、不活性ガス処理、後処理及び検査のコストを相殺するアプリケーションに集約しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.tctmagazine.com/wohlers-report-2026-additive-manufacturing-revenues-reach-24-2-billion/",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "- NextEra Energy is investing in power generation, transmission networks, solar energy, wind power, and energy storage to strengthen electricity infrastructure and support growing demand from AI and digital industries.",
+    "url": "https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Polymer additive manufacturing continues to lead the AM market in overall value, generating $7.4 billion in revenue in 2024. Driven by a wide range of industrial and consumer applications, the segment is projected to reach $46 billion by 2034, growing at a 20.1% compound annual growth rate.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Ceramics AM is [also] the fastest-growing category, projected to reach $2.5 billion by 2034, with a compound annual growth rate of 31.2%.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for statistical purposes.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   }
+  ],
+  "品質・証明": [
+   {
+    "quote": "その結果生じた需要基盤は、単に基礎となる金属の商品価格ではなく、適格機械、検証されたプロセスパラメータ、およびトレーサブルな粉末ロットとの使用が関連している材料に根ざしています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "化学組成、粒度分布、再利用プロトコル、機械パラメータ、後処理、および検査は単一の証拠チェーンに接続されます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "ASTM F2924 などのチタン合金仕様は、粉床溶融金属管理に対する認識された根拠を提供しており、植込みのパフォーマンスとトレーサビリティが中心的な要件となるアプリケーションでの使用をサポートしています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界規模で、認定航空宇宙粉末需要が集約化している地域で深刻",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "原料変更はプロセスチェーン全体を通じて再認定作業を引き起こす可能性があるからです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "規制対象アプリケーションの長い認定サイクル",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "確立されたサプライヤーを保護するのと同じ認定要件が、新しい材料と参入者の導入を遅延させることができます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "FAA規制は材料管理とプロセス仕様を結び付けており、EASAのCM-S-008は積層造形の認定に関する考慮事項に対応しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "高い重要性を持つ部品の場合、製造業者は粉末ロット、製造方向、後処理及び検査全体の再現性を確立する必要があります",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "認定により、顧客は代替供給源の名目粉末価格が低くても、代替供給源への移行をためらうようになる可能性があります",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "この依存関係は、デュアルソーシング、在庫規律及びロット追跡可能性を保持する粉末取扱いシステムの重要性を増大させます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "これは一貫性を文書化し、認定をサポートし、長期プログラムサイクル全体を通じてサプライチェーン継続性を維持する能力に依存しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国は航空宇宙・防衛需要、医療機器製造、および比較的成熟した適格認定環境を組み合わせています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Equispheres とのこの地域は、パウダーエンジニアリングと適格認定生産プラットフォームの結合に焦点を当てていることを示しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "EASAの積層造形認定覚書は、当地域の規制インフラを支援しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "| Protolabs | 米国 | デジタル製造、3Dプリント、CNC | 試作・小ロット製造 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| 小ロット販売 | 3Dプリンター |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度末の流動比率は267.3％となり引続き高い流動性を維持し、固定比率は40.8％となり安全性を維持しております",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "②キャッシュ・フローの状況の分析・検討内容並びに資本の財源及び資金の流動性に係る情報",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "流動性について、当連結会計年度末において4,592百万円の現金及び現金同等物を保有し、当社グループの事業運営上十分な流動性を確保していると考えております",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "2016年に実施したCSM Software Private Limited（現SOLIZE PARTNERS India Private Limited）及びCSM Software USA,LLC（現SOLIZE USA Corporation）の買収時のように、一時的にまとまった資金需要が発生し、資金の流動性が低下するリスクがあるため、借入等機動的な資金調達ができる体制の構築を進めて参ります",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": ". Reorganized in 2024, it focuses on deploying laser powder bed fusion (LPBF) and directed energy deposition (DED) technologies, supported by in-house expertise in metallurgy, qualification, and metrology.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Detroit Arsenal pilots 3D printed overclad panels for building energy retrofits",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   }
+  ],
+  "装置縛り・オープン材料": [
+   {
+    "quote": "EOSのTitanium Ti64 Grade 5データシートは認識されたチタン規格との互換性を識別し、金属積層造形用途向けの材料をポジショニングしています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Carpenter Additiveのチタン合金粉末供給は、主要な金属積層造形プロセスファミリーとの互換性を示し、供給者の位置付けにおける材料データとプロセス適用性の重要性を説明しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要なトレンドには、加法製造と減法製造を組み合わせたハイブリッド製造、IoTとデータ分析を用いたデジタル製造エコシステム、クローズドループ粉末管理システム、および持続可能性に焦点を当てた製造方法が含まれます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、これは買収対象企業側の性能主張であり、実際の効果はチップ構成、冷却方式、流量、設計条件で変わる",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| Prusa Research | チェコ | デスクトップFDM | オープンソース系の代表格 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "いわゆるインプロセス監視とクローズドループ制御である",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "従来のFDM系3Dプリンターは、専用フィラメントという割高な材料が前提だった",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "※６ VR（Virtual Reality）：専用ゴーグル等を用いて視界を覆い、現実とは別の仮想空間の中に没入させ、実際にその空間にいるように感じさせる技術",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "そのため当社グループには、エンジニアやコンサルタント等人財への投資、製品の設計開発を行う専用ハードウエア及びソフトウエア等のツールへの投資、３Ｄ造形設備への投資、及びその原材料費の支払や人件費等運転資金に対して資金の需要があります",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、本社にデータ解析ルームという専用の部屋を設けながら、お客さんがもっと解析や撮像を依頼できるようにということでやっていきます",
+    "url": "https://finance.logmi.jp/articles/314884",
+    "pass": 3
+   },
+   {
+    "quote": "The company is also a major material provider, offering proprietary photopolymers, SLS powders, and dental resins through its 2017 acquisition of NextDent. Its solutions serve various industries, including healthcare, dental, aerospace, and consumer goods.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": ", solidifying its role as a major player in the additive manufacturing market. Founded in 2000, the company supports industries such as aerospace, medical, and footwear with advanced 3D printing solutions and a complete technology ecosystem—including proprietary hardware, software like Polydevs and Unionfab ONE, and materials developed through its R&D division and subsidiary Synthestic.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "introduced Ataru, a UV-curable, low-viscosity resin compatible with a wide range of DLP platforms",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": ", incorporating high-speed DLP and extrusion technologies that enhance its Origin platform. This move aligns with Stratasys’s focus on more open materials strategies, particularly in FDM and photopolymer workflows.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   }
+  ],
+  "売り方・商流": [
+   {
+    "quote": "商業機会は、適格認定金属積層造形能力の広い導入ベースというより、ローカライズされた修理、輸入代替、および応用固有製造に集中しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "ラテンアメリカと中東・アフリカは小規模な売上基盤を有していますが、その修理、エネルギー、および輸入耐性ユースケースは商業的に有意義なローカルクラスターを生成できます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "PyroGenesis チタン粉末適格性評価の進捗（2025年3月）:- PyroGenesis は 2025年3月、同社の NexGen プラズマ霧化チタン粗粉末が世界的な航空機 OEM の技術要件を満たし、顧客の適格性評価プロセスを進めていると発表しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "その情報を一次調査と市場規模推計に活用し、販売代理店、メーカー、業界団体などの主要関係者による検証を受けます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 国内代理店一覧",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/nasdaq%E4%B8%8A%E5%A0%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E8%A3%BD%E9%80%A0exone%E3%81%AB%E8%A6%8B%E3%82%8B%E6%A5%AD%E7%B8%BE%E6%A7%8B%E9%80%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "既存の米3D Systems社及び米HP社のほか、2025年より伊Roboze社、米Formlabs社の日本国内正規代理店として、３Ｄプリンターの販売・運用サポート等を行っております",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "これに関しては、代理店施策を取っております",
+    "url": "https://finance.logmi.jp/articles/314884",
+    "pass": 3
+   },
+   {
+    "quote": "前段の展示会で私どもが啓蒙活動を行い、そこで発生したニーズを、代理店さんが刈り取りにいくという流れを作り始めているところで、結果に出ていると思っています",
+    "url": "https://finance.logmi.jp/articles/314884",
+    "pass": 3
+   },
+   {
+    "quote": "心臓カテーテルシミュレーター「HEARTROID」の販売促進ですが、これは先ほどお伝えしたとおり、国内外に代理店を置きながら、いろいろな展示会……ESCやMEDICAといったものがドイツなどでありますが、こういった世界の展示会や学会に出ながらしっかり啓蒙をして、代理店というインフラを活用できるようにしていきたいと思っています",
+    "url": "https://finance.logmi.jp/articles/314884",
+    "pass": 3
+   },
+   {
+    "quote": "Value-Added Resellers (VARs)",
+    "url": "https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market",
+    "pass": 3
+   }
+  ],
+  "技術支援": [
+   {
+    "quote": "粉末床プロセスは微細特性および高密度の部品をサポートし、指向性堆積プロセスは修復、肉盛り、および大型フォーマット用途に対応しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "その結果生じた需要基盤は、単に基礎となる金属の商品価格ではなく、適格機械、検証されたプロセスパラメータ、およびトレーサブルな粉末ロットとの使用が関連している材料に根ざしています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "化学組成、粒度分布、再利用プロトコル、機械パラメータ、後処理、および検査は単一の証拠チェーンに接続されます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形は、多孔質構造、患者固有の植込み、従来の除去加工では製造が困難な複雑な格子設計をサポートしています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "ASTM F2924 などのチタン合金仕様は、粉床溶融金属管理に対する認識された根拠を提供しており、植込みのパフォーマンスとトレーサビリティが中心的な要件となるアプリケーションでの使用をサポートしています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "これは一貫性を文書化し、認定をサポートし、長期プログラムサイクル全体を通じてサプライチェーン継続性を維持する能力に依存しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Ti6Al4VおよびTi6Al4V ELIを含むチタン合金は、認識された仕様が粉末床融解における制御された使用をサポートするため、航空宇宙および医療用埋入材料用途で重要です",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Inconel 625、Inconel 718、Hastelloy Xを含むニッケル合金は高温用途に対応し、コバルト合金は耐摩耗性および耐食性が求められる医療および歯科用途をサポートしています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国エネルギー省は原子炉環境用のFe系合金の積層造形研究をサポートしており、これは重苛酷サービスエネルギー条件で先進材料を適用するためのより広い推進を示しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "当地域のより保守的な成長プロファイルは、適格認定機器、材料、および後処理能力の導入ベースが小さいことを反映していますが、ローカルな重要予備部品プログラムは、サプライチェーン復元力が高い価値を持つ場合に集中した機会を生成できます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "これらの市場に参入する供給者は、粉末流通をスタンドアロン活動として扱うのではなく、粉末供給を用途エンジニアリング、トレーニング、および検証された後処理サポートと組み合わせる必要があります",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "粉末供給者は、合金の幅広さ、アトマイズ能力、ロット一貫性、プロセスデータ、および要求の厳しい認定プログラムをサポートする能力を通じて競争しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "粉末は、取扱、水分管理、ロット識別、および安全な移送が機械パラメータと同じ厳密さで管理されない場合、価値を失う可能性があります",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "貴社の調査ニーズに基づき、地域分析、国別分析、企業プロファイル、またはその他のセグメント別インサイトを個別に購入できます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "レーザーのエネルギー分布を造形条件に合わせて変えるビームシェーピング",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "材料、設計、シミュレーション、造形条件、品質保証、後処理、検査、納品まで含めて提供できる会社が強くなる",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、設計ソフト、シミュレーション、AIによる造形条件最適化、インライン検査、品質データ管理が重要になる",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "併せて、３Ｄプリンターの販売・保守サポート、材料販売、新材料開発、AM（※９）技術導入支援など、周辺領域を含めたサービスを展開しております",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "既存の米3D Systems社及び米HP社のほか、2025年より伊Roboze社、米Formlabs社の日本国内正規代理店として、３Ｄプリンターの販売・運用サポート等を行っております",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "・RFQ Guide View：大量のRFQ（Request For Quotation：見積依頼書）に対しAIが読解をサポート",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   }
+  ],
+  "日本": [
+   {
+    "quote": "グローバル、北米、欧州、日本で最も高い強度",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国は国内航空宇宙、自動車、機器、および材料能力の組み合わせを通じて、当地域の成長の中心となっています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "インド、日本、韓国、オーストラリアは防衛、産業、医療、および先進製造プログラムを通じて需要を追加しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "多様な粉末に対応した最新型金属3Dプリンター「FormUp 350」を発表し、日本への展開加速",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/nasdaq%E4%B8%8A%E5%A0%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E8%A3%BD%E9%80%A0exone%E3%81%AB%E8%A6%8B%E3%82%8B%E6%A5%AD%E7%B8%BE%E6%A7%8B%E9%80%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年11月5～10日に「JIMTOF2024 第32回日本国際工作機械見本市」が東京ビッグサイトで開催された",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/nasdaq%E4%B8%8A%E5%A0%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E8%A3%BD%E9%80%A0exone%E3%81%AB%E8%A6%8B%E3%82%8B%E6%A5%AD%E7%B8%BE%E6%A7%8B%E9%80%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "TCT Japan 2025主催者に聞く！3Dプリンター展示会来場のポイントとは？",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/nasdaq%E4%B8%8A%E5%A0%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E8%A3%BD%E9%80%A0exone%E3%81%AB%E8%A6%8B%E3%82%8B%E6%A5%AD%E7%B8%BE%E6%A7%8B%E9%80%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "ShareLabは日本の業務用3Dプリンタ―およびAM（アディティブ・マニュファクチャリング）に関するあらゆる情報が集まるポータルサイトです",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/nasdaq%E4%B8%8A%E5%A0%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E8%A3%BD%E9%80%A0exone%E3%81%AB%E8%A6%8B%E3%82%8B%E6%A5%AD%E7%B8%BE%E6%A7%8B%E9%80%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/nasdaq%E4%B8%8A%E5%A0%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E8%A3%BD%E9%80%A0exone%E3%81%AB%E8%A6%8B%E3%82%8B%E6%A5%AD%E7%B8%BE%E6%A7%8B%E9%80%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Additive Manufacturing Meet-up (JAMM) #12 参加申込フォーム",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/nasdaq%E4%B8%8A%E5%A0%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E8%A3%BD%E9%80%A0exone%E3%81%AB%E8%A6%8B%E3%82%8B%E6%A5%AD%E7%B8%BE%E6%A7%8B%E9%80%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Additive Manufacturing Meet-up (JAMM) #13 参加申込フォーム",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/nasdaq%E4%B8%8A%E5%A0%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E8%A3%BD%E9%80%A0exone%E3%81%AB%E8%A6%8B%E3%82%8B%E6%A5%AD%E7%B8%BE%E6%A7%8B%E9%80%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Additive Manufacturing Meet-up (JAMM) #14 参加申込フォーム",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/nasdaq%E4%B8%8A%E5%A0%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E8%A3%BD%E9%80%A0exone%E3%81%AB%E8%A6%8B%E3%82%8B%E6%A5%AD%E7%B8%BE%E6%A7%8B%E9%80%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 国内メーカー一覧",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/nasdaq%E4%B8%8A%E5%A0%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E8%A3%BD%E9%80%A0exone%E3%81%AB%E8%A6%8B%E3%82%8B%E6%A5%AD%E7%B8%BE%E6%A7%8B%E9%80%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 国内代理店一覧",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/nasdaq%E4%B8%8A%E5%A0%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E8%A3%BD%E9%80%A0exone%E3%81%AB%E8%A6%8B%E3%82%8B%E6%A5%AD%E7%B8%BE%E6%A7%8B%E9%80%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "日本は、家庭用3Dプリンターの量販競争では出遅れた",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "日本では、Nikonがドイツの金属3DプリンターメーカーSLM Solutionsを買収した",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "そして日本が狙うべき場所は、後者である",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、世界のプラスチック・金属3Dプリンター業界の全体像、主要企業、売上規模、業界再編、日本企業の買収、Nikonの減損、そして「日本はまだ金型時代なのか」という問いまで含めて整理する",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業の3Dプリンター関連M&A",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "これは、日本企業が得意としてきた「高品質だが高価格」の製造モデルとはかなり違う",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| Mimaki | 日本 | フルカラー3Dプリンター | 色再現を活かした模型・医療・教育向け |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| Keyence | 日本 | 高精細3Dプリンター | 試作・評価向け",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| Roland DG | 日本 | セラミック粉末バインダージェッティング | 2025年発売のPB-600 / PB-400で美術・工芸・建築装飾向けのセラミック造形に展開 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "※Roland DGのPBシリーズはセラミック粉末を固める方式であり、厳密には樹脂系ではないが、日本のデジタル機器メーカーによる参入例としてここに掲載した",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| Nikon SLM Solutions | 日本 / ドイツ | LPBF / SLM | Nikon傘下",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| DMG MORI | 日本 / ドイツ | DED、ハイブリッド加工、SLM | 工作機械とAMの融合 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| Sodick / AltForm（旧Prima Additive） | 日本 / イタリア | 金属PBF、DED、レーザー加工 | ソディック傘下（持分94.35％）",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| Matsuura Machinery | 日本 | 金属積層＋切削 | LUMEXで金型向けに強み |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| JEOL | 日本 | 電子ビーム金属AM | 電子ビーム技術を活かした金属AM |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの事業は、1990年の設立時に、日本の製造業が海外に後れを取ることなく競争力を高めていくことを目指し、３Ｄ技術及び光造形技術を活用した製造業向け開発支援を開始したことに端を発します",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "以上の強みを基盤として事業体制を整備しており、現在、当社グループは国内子会社７社及び海外子会社５社で構成されています",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "また日本を始め北米・中国・インド・タイにてサービスを展開しております",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "当サービスにおいても、顧客企業のグローバル製品開発を支援する体制及び、グローバルで優秀な人材を獲得することを目的として、日本、北米、中国、インド、タイの５極体制を構築しております",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "内訳としては、日本1,639名、インド190名、米国48名、中国31名、カナダ34名、タイ５名 となっております",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、光造形機、粉末造形機、金属造形機など国内最大級のハイエンド３Ｄプリンター設備と豊富な材料バリエーションを活用し、顧客ニーズに応じたタイムリーな製品提供を行っています",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "既存の米3D Systems社及び米HP社のほか、2025年より伊Roboze社、米Formlabs社の日本国内正規代理店として、３Ｄプリンターの販売・運用サポート等を行っております",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、1990年に日本で初めて米3D Systems社の造形機を導入し、日本でいち早く光造形の試作サービスを開始したため、単なる装置販売や装置メーカーとの技術協力にとどまらず、長年にわたり蓄積してきた生産技術ノウハウを活用し、顧客企業が装置を導入する際には、そのニーズに応じた生産技術を併せて提案しております",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "経営方針・経営戦略、経営上の目標の達成状況を判断するため、当社グループでは売上高対前年増加率及び営業利益額を重視するとともに、売上高の大部分を占める構成要素である国内エンジニア数(含 コンサルタント)を客観的な指標としております",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、国内エンジニア数(含 コンサルタント)は1,639名(対前年比250名増加)となりました",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "医療分野への注力で、国内外の展示会へ出展しました",
+    "url": "https://finance.logmi.jp/articles/314884",
+    "pass": 3
+   },
+   {
+    "quote": "その下で、「HEARTROID」の国内外販売強化と書いてあります",
+    "url": "https://finance.logmi.jp/articles/314884",
+    "pass": 3
+   },
+   {
+    "quote": "これは前回もお話ししていますが、私どもの一番のお客さまである日本電産さまが、この数字の中の大きな割合を占めています",
+    "url": "https://finance.logmi.jp/articles/314884",
+    "pass": 3
+   },
+   {
+    "quote": "この3種類を揃えることによって、国内では最大規模（になります）",
+    "url": "https://finance.logmi.jp/articles/314884",
+    "pass": 3
+   },
+   {
+    "quote": "心臓カテーテルシミュレーター「HEARTROID」の販売促進ですが、これは先ほどお伝えしたとおり、国内外に代理店を置きながら、いろいろな展示会……ESCやMEDICAといったものがドイツなどでありますが、こういった世界の展示会や学会に出ながらしっかり啓蒙をして、代理店というインフラを活用できるようにしていきたいと思っています",
+    "url": "https://finance.logmi.jp/articles/314884",
+    "pass": 3
+   },
+   {
+    "quote": "3番目は、フルラインナップが揃ったため、日本最大級の撮像能力を有して、どんどん前に進んでいきます",
+    "url": "https://finance.logmi.jp/articles/314884",
+    "pass": 3
+   },
+   {
+    "quote": "Since the acquisition, Nikon has expanded SLM’s manufacturing and support capabilities, including U.S.-based production of NXG systems and new technology centers in California and Japan.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "2018年上期に13台出荷し売上770万ドル（約8億円）、ということは、1台59万（約6200万円）で販売しているとみられる",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/nasdaq%E4%B8%8A%E5%A0%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E8%A3%BD%E9%80%A0exone%E3%81%AB%E8%A6%8B%E3%82%8B%E6%A5%AD%E7%B8%BE%E6%A7%8B%E9%80%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年上期に21台出荷し売上が1256万ドル（約13億円）なので、1台60万ドルと、ほぼ前年度と同価格帯で市場を広げているといえる",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/nasdaq%E4%B8%8A%E5%A0%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E8%A3%BD%E9%80%A0exone%E3%81%AB%E8%A6%8B%E3%82%8B%E6%A5%AD%E7%B8%BE%E6%A7%8B%E9%80%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "利益の面でも好調で、売上は2490万ドル（約26億円）で＋９％の水準だが、粗利は₊85％と大幅改善しており、絶対金額でも360万＄（約3億8千万円）の増額と大きく伸ばしている",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/nasdaq%E4%B8%8A%E5%A0%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E8%A3%BD%E9%80%A0exone%E3%81%AB%E8%A6%8B%E3%82%8B%E6%A5%AD%E7%B8%BE%E6%A7%8B%E9%80%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/nasdaq%E4%B8%8A%E5%A0%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E8%A3%BD%E9%80%A0exone%E3%81%AB%E8%A6%8B%E3%82%8B%E6%A5%AD%E7%B8%BE%E6%A7%8B%E9%80%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/nasdaq%E4%B8%8A%E5%A0%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E8%A3%BD%E9%80%A0exone%E3%81%AB%E8%A6%8B%E3%82%8B%E6%A5%AD%E7%B8%BE%E6%A7%8B%E9%80%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/nasdaq%E4%B8%8A%E5%A0%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E8%A3%BD%E9%80%A0exone%E3%81%AB%E8%A6%8B%E3%82%8B%E6%A5%AD%E7%B8%BE%E6%A7%8B%E9%80%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/nasdaq%E4%B8%8A%E5%A0%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E8%A3%BD%E9%80%A0exone%E3%81%AB%E8%A6%8B%E3%82%8B%E6%A5%AD%E7%B8%BE%E6%A7%8B%E9%80%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "カタログスペックと価格だけでは選ばない！製造業向け3Dプリンターの比較・選び方とは？",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/nasdaq%E4%B8%8A%E5%A0%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E8%A3%BD%E9%80%A0exone%E3%81%AB%E8%A6%8B%E3%82%8B%E6%A5%AD%E7%B8%BE%E6%A7%8B%E9%80%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "家庭用の低価格プラスチック3Dプリンターは、中国勢が主導権を握り始めている",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "一方には、個人やクリエイター向けの低価格・高性能なプラスチック3Dプリンター市場がある",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "この低価格デスクトップ市場は30％超成長し、その売上規模が産業用金属・ポリマー装置販売にほぼ並ぶ水準になっているとされる",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "CONTEXTの2025年市場データでは、低価格エントリーレベル機の出荷が大きく伸び、Bambu LabがCrealityを抜いて首位になったと報じられている",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "2年続いた業界の停滞を抜け出す原動力になったのは、産業用ではなく、この低価格デスクトップ機だった",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "Crealityも中国発の低価格3Dプリンターブランドとして世界展開しており、香港証券取引所の上場ヒアリングを通過したと報じられている",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "報道ベースでは、2025年売上は約31.3億元と大きい一方、純損失は約1.82億元で、増収でも利益が出にくい価格競争の厳しさも示している",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "報道ベースでは、Nano DimensionがMarkforgedを取得した際の価格は約1.16億ドルとされ、今回の売却額はそれを大きく下回る",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "報道ベースでは、買収には800億円強が投じられたとされる",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度末の資産合計は前連結会計年度末に比べて251百万円増加し、15,699百万円となりました",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "現金及び預金等の流動資産が1,558百万円減少した一方、のれん等の無形固定資産が1,410百万円増加したほか、投資有価証券等の投資その他の資産が258百万円増加したこと等が主な要因となっております",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度末の負債合計は前連結会計年度末に比べて401百万円増加し、4,371百万円となりました",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "その他流動負債が90百万円減少、また買掛金が70百万円減少した一方、未払消費税等が529百万円増加したこと等が主な要因となっております",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度末の純資産合計は前連結会計年度末に比べて149百万円減少し、11,328百万円となりました",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "資本剰余金が69百万円増加、また自己株式の減少により68百万円増加した一方、利益剰余金が283百万円減少したこと等が主な要因となっております",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "これらの結果、当社グループの連結売上高は25,779百万円（前年同期比13.5％増）、営業利益は85百万円（前年同期比81.2％減）、経常利益は82百万円（前年同期比80.3％減）、親会社株主に帰属する当期純損失は36百万円（前年同期の親会社株主に帰属する当期純利益は254百万円）となりました",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "これらの結果、エンジニアリング・マニュファクチャリング事業の売上高は18,828百万円（前年同期比6.9％増）、セグメント利益は435百万円（前年同期比35.9％減）となりました",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "これらの結果、コンサルティング・エンジニアリング事業の売上高は4,617百万円（前年同期比20.1％増）、セグメント利益は305百万円（前年同期比57.5％減）となりました",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "これらの結果、ビジネスインキュベーションの売上高は2,333百万円（前年同期比86.5％増）、セグメント損失は834百万円（前年同期のセグメント損失は942百万円）となりました",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "営業外収益は、為替差益の増加等により前連結会計年度と比較して23百万円増加し42百万円となりました",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、営業外費用は、上場関連費用の減少等により11百万円減少し46百万円となりました",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、特別損失は、投資有価証券評価損の減少等により46百万円減少し38百万円となりました",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "これらの結果、前連結会計年度と比較して税金等調整前当期純利益が287百万円減少し43百万円となり、法人税、住民税及び事業税が166百万円減少し59百万円となった一方、一部子会社において、税効果会計における会社分類を保守的に判定したこと等により法人税等調整額が169百万円増加し、親会社株主に帰属する当期純損失は36百万円となりました",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度末における現金及び現金同等物の残高は4,592百万円となり、前連結会計年度末と比較し2,597百万円の減少となりました",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上高に関しては（前年同期の）7億1,700万円に対して12億7,100万円",
+    "url": "https://finance.logmi.jp/articles/314884",
+    "pass": 3
+   },
+   {
+    "quote": "昨年は300万円だったものに対して今期は1億6,400万円というところで、ここでは大きな伸びを示しております",
+    "url": "https://finance.logmi.jp/articles/314884",
+    "pass": 3
+   },
+   {
+    "quote": "（当初予想の）売上高10億8,800万円に対して12億7,100万円",
+    "url": "https://finance.logmi.jp/articles/314884",
+    "pass": 3
+   },
+   {
+    "quote": "増減額としては1億8,200万円",
+    "url": "https://finance.logmi.jp/articles/314884",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益に関しては（当初予想の）3,600万円に対して1億6,400万円",
+    "url": "https://finance.logmi.jp/articles/314884",
+    "pass": 3
+   },
+   {
+    "quote": "製品仕入に関しては、先ほどお話ししたとおり、CTの販売がありますので、1億3,600万円というボリュームになっています",
+    "url": "https://finance.logmi.jp/articles/314884",
+    "pass": 3
+   },
+   {
+    "quote": "流動資産で2億100万円増えています",
+    "url": "https://finance.logmi.jp/articles/314884",
+    "pass": 3
+   },
+   {
+    "quote": "固定資産に関してはCTを増やしたり、第5期棟、鋳造棟の内装工事をしているため、そこで1億1,500万円（の増加です）",
+    "url": "https://finance.logmi.jp/articles/314884",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター事業は、売上高2億5,800万円、利益が6,800万円",
+    "url": "https://finance.logmi.jp/articles/314884",
+    "pass": 3
+   },
+   {
+    "quote": "鋳造事業に関しては、（前年同期の）4億4,900万円に対して7億5,300万円と、大きく数字を伸ばしています",
+    "url": "https://finance.logmi.jp/articles/314884",
+    "pass": 3
+   },
+   {
+    "quote": "CT事業に関しては、装置が2台入っていますので、昨年の7,300万円に対して2億6,000万円というかたちです",
+    "url": "https://finance.logmi.jp/articles/314884",
+    "pass": 3
+   },
+   {
+    "quote": "当初予想との対比になりますが、売上高は当初予想21億300万円に対して、25億円と修正しています",
+    "url": "https://finance.logmi.jp/articles/314884",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益は、少し大きめになっていますが、1億2,600万円に対して2億6,000万円です",
+    "url": "https://finance.logmi.jp/articles/314884",
+    "pass": 3
+   },
+   {
+    "quote": "こちら（左側の売上高のグラフ）の一番右端は業績予想になりますが、25億円です",
+    "url": "https://finance.logmi.jp/articles/314884",
+    "pass": 3
+   }
+  ],
+  "コモディティ化": [
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/nasdaq%E4%B8%8A%E5%A0%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E8%A3%BD%E9%80%A0exone%E3%81%AB%E8%A6%8B%E3%82%8B%E6%A5%AD%E7%B8%BE%E6%A7%8B%E9%80%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "家庭用の低価格プラスチック3Dプリンターは、中国勢が主導権を握り始めている",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "一方には、個人やクリエイター向けの低価格・高性能なプラスチック3Dプリンター市場がある",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "この市場は、低価格、高速化、多色造形、使いやすいソフトウェア、クラウド共有、コミュニティ、材料販売を組み合わせた総合力の勝負になっている",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "この低価格デスクトップ市場は30％超成長し、その売上規模が産業用金属・ポリマー装置販売にほぼ並ぶ水準になっているとされる",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "下では、中国メーカー主導の低価格デスクトップ機が急拡大する",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "CONTEXTの2025年市場データでは、低価格エントリーレベル機の出荷が大きく伸び、Bambu LabがCrealityを抜いて首位になったと報じられている",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "2年続いた業界の停滞を抜け出す原動力になったのは、産業用ではなく、この低価格デスクトップ機だった",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| Creality | 中国 | デスクトップFDM、樹脂 | 低価格機で世界展開 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| Bambu Lab | 非上場、推定値のみ | 低価格デスクトップ市場で急成長 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "Crealityも中国発の低価格3Dプリンターブランドとして世界展開しており、香港証券取引所の上場ヒアリングを通過したと報じられている",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "報道ベースでは、2025年売上は約31.3億元と大きい一方、純損失は約1.82億元で、増収でも利益が出にくい価格競争の厳しさも示している",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターは、誰でも買ってすぐ儲かる汎用機械ではなかった",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "Epson機は、射出成形で使われる安価な汎用ペレット材をそのまま使える",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "家庭用3Dプリンターでも材料は売れるが、フィラメントは汎用品化しており、インクのような利益率は出ない",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "低価格、高性能、量産力、ソフトウェア、コミュニティ、材料販売を組み合わせた企業が勝つ",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   }
+  ],
+  "繰り返し性": [
+   {
+    "quote": "当社グループの報告セグメントは、当社グループの構成単位のうち分離された財務情報が入手可能であり、取締役会が、経営資源の配分の決定及び業績を評価するために、定期的に検討を行う対象となっているものであります",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "（そのうち）既存顧客重視による売上拡大と利益率改善に関しては、既存顧客あってのJMCであり、既存客の方々に、私どものサービスに満足いただいて、リピートいただいて、付加価値を認めていただいて売上が増していくという構図だと思っております",
+    "url": "https://finance.logmi.jp/articles/314884",
+    "pass": 3
+   },
+   {
+    "quote": ", a startup focused on making powder-bed fusion systems more accessible. The company now offers a comprehensive polymer AM ecosystem, complete with materials, software, and automation tools. It generates substantial recurring revenue through resin and powder sales for applications in dental, jewelry, prototyping, and small-batch production.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "15.4",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "quote": "2026年の8.138億米ドルから2035年の29億米ドルに成長する見通しであり、2026～2035年にかけて年平均成長率（CAGR）15.4%で拡大すると予測されています"
+   },
+   {
+    "value": "15.47",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "quote": "合金粉末は最大の材料カテゴリであり、2025年に1.9672億米ドルと評価されており、2035年までに8.1946億米ドルに達すると予測されており、年平均成長率（CAGR）はおよそ15.47%です"
+   },
+   {
+    "value": "16.55",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "quote": "貴金属粉末は2025年の40.46百万米ドルから2035年の1.8504億米ドルに増加すると予測されており、年平均成長率（CAGR）はおよそ16.55%です"
+   },
+   {
+    "value": "16.81",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "quote": "タングステンは33.94百万米ドルから1.586億米ドルへの拡大が予想されており、年平均成長率（CAGR）はおよそ16.81%です"
+   },
+   {
+    "value": "16.19",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "quote": "DMDおよびLENSを含く吹き付け粉末技術は2025年の1.6701億米ドルから2035年の7.4016億米ドルに成長すると予測されており、最速の技術年平均成長率（CAGR）はおよそ16.19%です"
+   },
+   {
+    "value": "15.61",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "quote": "このセグメントの年平均成長率（CAGR）が約15.61%となることは、生産性、安全な粉末取扱い、および従来の大量生産の広範な置き換えではなく、対象となるアプリケーションにおける実証済みのコスト優位性に依存しています"
+   },
+   {
+    "value": "16.12",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "quote": "エネルギーは60.01百万米ドルから2.6434億米ドルに拡大すると予測され、年平均成長率（CAGR）が約16.12%と最速の用途成長率です"
+   },
+   {
+    "value": "14.58",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "quote": "北米は最大の地域市場であり、2025年に2.2423億米ドルと評価され、2035年までに8.644億米ドルに達すると予測されており、年平均成長率（CAGR）は約14.58%です"
+   },
+   {
+    "value": "17.03",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "quote": "アジア太平洋地域は最も急速な成長が予測されており、2025年の1.7751億米ドルから2035年の8.4589億米ドルへと上昇し、年平均成長率（CAGR）は約17.03%です"
+   },
+   {
+    "value": "16.03",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "quote": "ラテンアメリカは2025年の33.26百万米ドルから2035年の1.4539億米ドルに成長すると予想されており、年平均成長率（CAGR）は約16.03%です"
+   },
+   {
+    "value": "10.56",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "quote": "中東・アフリカ市場は2025年に36.65百万米ドルと評価され、2035年までに1.0045億米ドルに達すると予測されており、年平均成長率（CAGR）は約10.56%です"
+   },
+   {
+    "value": "26.6",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/nasdaq%E4%B8%8A%E5%A0%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E8%A3%BD%E9%80%A0exone%E3%81%AB%E8%A6%8B%E3%82%8B%E6%A5%AD%E7%B8%BE%E6%A7%8B%E9%80%A0/",
+    "quote": "【業界別動向】航空宇宙業界3Dプリンター市場は年平均成長率26.6%の見通し"
+   },
+   {
+    "value": "13.91",
+    "url": "https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market",
+    "quote": "The Global Metal Additive Manufacturing Market Size is Expected to Grow from USD 5.26 Billion in 2023 to USD 19.34 Billion by 2033, at a CAGR of 13.91% during the forecast period 2023-2033."
+   },
+   {
+    "value": "17.75",
+    "url": "https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market",
+    "quote": "The aerospace segment held 33.68% of the market share in 2023 and is estimated to grow at a CAGR of 17.75% during the forecast period."
+   },
+   {
+    "value": "24.4",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "quote": "According to VoxelMatters’ new annual Additive Manufacturing Market 2025 report, the global AM industry generated nearly $12.3 billion in revenue in 2024. We forecast that this figure will grow significantly to $108 billion by 2034, supported by a strong compound annual growth rate of 24.4%."
+   },
+   {
+    "value": "29",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "quote": "Metal additive manufacturing followed closely, with $4.7 billion in 2024 revenue. Supported by strong adoption in sectors such as aerospace, energy, and healthcare, the segment is on track to grow to nearly $60 billion by 2034, at a projected CAGR of 29%."
+   },
+   {
+    "value": "31.2",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "quote": "Ceramics AM is [also] the fastest-growing category, projected to reach $2.5 billion by 2034, with a compound annual growth rate of 31.2%."
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "37",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "quote": "Bambu Labのシェアは37％とされ、Creality、Elegoo、Anycubicなど中国企業を含めると、エントリーレベル市場の大部分を中国メーカーが占める構図になっている"
+   },
+   {
+    "value": "38",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "quote": "CONTEXT関連報道では、2025年時点のプロフェッショナル市場でFormlabsが38％のシェアを持つとされている"
+   },
+   {
+    "value": "28.88",
+    "url": "https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market",
+    "quote": "28.88% of the market share in 2023 and is expected to grow at a significant CAGR during the forecast period."
+   },
+   {
+    "value": "33.68",
+    "url": "https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market",
+    "quote": "The aerospace segment held 33.68% of the market share in 2023 and is estimated to grow at a CAGR of 17.75% during the forecast period."
+   },
+   {
+    "value": "17.75",
+    "url": "https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market",
+    "quote": "The aerospace segment held 33.68% of the market share in 2023 and is estimated to grow at a CAGR of 17.75% during the forecast period."
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E5%B8%82%E5%A0%B4-115506",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/japan-printed-circuit-board-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/nasdaq%E4%B8%8A%E5%A0%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E8%A3%BD%E9%80%A0exone%E3%81%AB%E8%A6%8B%E3%82%8B%E6%A5%AD%E7%B8%BE%E6%A7%8B%E9%80%A0/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crex-data.com/company/5704",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.inx.co.jp/news/news_file/file/20260212_148-4q.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/%E3%83%9E%E3%83%86%E3%83%AA%E3%82%A2%E3%83%A9%E3%82%A4%E3%82%BA%E3%80%81%E5%8C%BB%E7%99%82%E9%83%A8%E9%96%80%E3%81%8C3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E4%BA%8B%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7-2/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jx-nmm.com/sustainability/pdf/report2025_j_interactive.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/market-trends/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chem-industrial-news.com/020-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.resonac.com/sites/default/files/2025-08/pdf-sustainability-report-integratedreport-RESONAC25J_spread.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.marklines.com/ja/top500/adient",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://edinetdb.jp/rankings/segment-count",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://semi-engineers.com/jp-stock-listed/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.basf.com/jp/ja/media/news-releases/asia-pacific/2020/01/basf_3d_printing_solutions_reinforces_asia_pacific_presence",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/5871/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.logmi.jp/articles/314884",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adeka.co.jp/ir/library/pdf/157_2Q_setsumei.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/fond_ferret685/n/n28b2866de32f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nakano-am.co.jp/wp-content/uploads/2024/12/mr_njgf_2412.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adeka.co.jp/ir/library/pdf/yuhou_163-4.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nissanchem.co.jp/ir_info/archive/ar/ar2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jp.nipponsanso.com/LinkClick.aspx?fileticket=IN8qId1KoD0%3D",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ir.mmc.co.jp/ja/ir/library/annual/main/010/teaserItems3/0/linkList/0/link/00Integrated2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20260910/g4e2dy/140120260909533558.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://sanko-chemical.co.jp/news/2026.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://contents.xj-storage.jp/xcontents/AS04881/98c96dee/7817/4f63/9e7d/6394b242536b/140120220708597185.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.marketenterprise.co.jp/ir/upload_file/m000-/140120160823480609.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.skymark.co.jp/ja/company/investor/120501_press_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.coinex.com/ja/information/news/6a98db982ba3ae82d5977e1c",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/additive-manufacturing-equipment-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/additive-manufacturing-material-market-34489",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/market-reports/additive-manufacturing-market-119206?srsltid=AYCX9vLkiL6xGqMzFU6FlxtrVeambnrQNBMVOY08XrJA-mvlMrmUpose",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchgate.net/publication/393766153_Additive_Manufacturing_Market_Trends_Growth_Forecast_and_Opportunities",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/the-additive-manufacturing-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.1176.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "上場材料メーカーのAM材料のセグメント・事業別売上（有価証券報告書・決算説明会資料・4-131） 市場規模 CAGR",
+   "results": [
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://news.sharelab.jp/category/3dp-news/report/",
+    "https://www.fortunebusinessinsights.com/jp/%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E5%B8%82%E5%A0%B4-115506",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "https://www.mordorintelligence.com/ja/industry-reports/japan-printed-circuit-board-market",
+    "https://www.datainsightsreports.com/ja/reports/noseramikkusu-23775",
+    "https://www.marketresearch.co.jp/insights/metal-additive-manufacturing-market-stra/",
+    "https://www.jx-nmm.com/sustainability/pdf/report2025_j_interactive.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "上場材料メーカーのAM材料のセグメント・事業別売上（有価証券報告書・決算説明会資料・4-131） 価格",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/nasdaq%E4%B8%8A%E5%A0%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E8%A3%BD%E9%80%A0exone%E3%81%AB%E8%A6%8B%E3%82%8B%E6%A5%AD%E7%B8%BE%E6%A7%8B%E9%80%A0/",
+    "https://www.crex-data.com/company/5704",
+    "https://www.inx.co.jp/news/news_file/file/20260212_148-4q.pdf",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/%E3%83%9E%E3%83%86%E3%83%AA%E3%82%A2%E3%83%A9%E3%82%A4%E3%82%BA%E3%80%81%E5%8C%BB%E7%99%82%E9%83%A8%E9%96%80%E3%81%8C3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E4%BA%8B%E6%A5%AD%E3%81%AE%E6%88%90%E9%95%B7-2/",
+    "https://www.jx-nmm.com/sustainability/pdf/report2025_j_interactive.pdf",
+    "https://note.com/kagawatomo/n/nf65a446ed216",
+    "https://finance.logmi.jp/articles/379866",
+    "https://www.resonac.com/sites/default/files/2025-08/pdf-sustainability-report-integratedreport-RESONAC25J_spread.pdf",
+    "https://marketwatch-jp.com/guide-company-amat-appliedmaterials.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "上場材料メーカーのAM材料のセグメント・事業別売上（有価証券報告書・決算説明会資料・4-131） 主要メーカー 一覧",
+   "results": [
+    "https://news.sharelab.jp/market-trends/",
+    "https://www.chem-industrial-news.com/020-2/",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://www.crex-data.com/company/5704",
+    "https://www.jx-nmm.com/sustainability/pdf/report2025_j_interactive.pdf",
+    "https://www.inx.co.jp/news/news_file/file/20260212_148-4q.pdf",
+    "https://www.resonac.com/sites/default/files/2025-08/pdf-sustainability-report-integratedreport-RESONAC25J_spread.pdf",
+    "https://www.marklines.com/ja/top500/adient",
+    "https://edinetdb.jp/rankings/segment-count",
+    "https://semi-engineers.com/jp-stock-listed/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "上場材料メーカーのAM材料のセグメント・事業別売上（有価証券報告書・決算説明会資料・4-131） 代理店 日本",
+   "results": [
+    "https://news.sharelab.jp/market-trends/",
+    "https://www.basf.com/jp/ja/media/news-releases/asia-pacific/2020/01/basf_3d_printing_solutions_reinforces_asia_pacific_presence",
+    "https://www.inx.co.jp/news/news_file/file/20260212_148-4q.pdf",
+    "https://kitaishihon.com/company/5871/business",
+    "https://finance.logmi.jp/articles/314884",
+    "https://www.adeka.co.jp/ir/library/pdf/157_2Q_setsumei.pdf",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/nasdaq%E4%B8%8A%E5%A0%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E8%A3%BD%E9%80%A0exone%E3%81%AB%E8%A6%8B%E3%82%8B%E6%A5%AD%E7%B8%BE%E6%A7%8B%E9%80%A0/",
+    "https://note.com/fond_ferret685/n/n28b2866de32f",
+    "https://nakano-am.co.jp/wp-content/uploads/2024/12/mr_njgf_2412.pdf",
+    "https://www.tradingkey.com/jp/markets/stocks/amat/revenue"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "上場材料メーカーのAM材料のセグメント・事業別売上（有価証券報告書・決算説明会資料・4-131） 規制 保管 危険物",
+   "results": [
+    "https://www.resonac.com/sites/default/files/2025-08/pdf-sustainability-report-integratedreport-RESONAC25J_spread.pdf",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.adeka.co.jp/ir/library/pdf/yuhou_163-4.pdf",
+    "https://www.jx-nmm.com/sustainability/pdf/report2025_j_interactive.pdf",
+    "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "https://www.nissanchem.co.jp/ir_info/archive/ar/ar2025.pdf",
+    "https://jp.nipponsanso.com/LinkClick.aspx?fileticket=IN8qId1KoD0%3D",
+    "https://ir.mmc.co.jp/ja/ir/library/annual/main/010/teaserItems3/0/linkList/0/link/00Integrated2025.pdf",
+    "https://www.inabata.co.jp/themes/inabata/investor/library/integrated_report/file/integrated_report2025.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "上場材料メーカーのAM材料のセグメント・事業別売上（有価証券報告書・決算説明会資料・4-131） 純正 指定材料 互換",
+   "results": [
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20260910/g4e2dy/140120260909533558.pdf",
+    "https://sanko-chemical.co.jp/news/2026.html",
+    "https://contents.xj-storage.jp/xcontents/AS04881/98c96dee/7817/4f63/9e7d/6394b242536b/140120220708597185.pdf",
+    "https://www.marketenterprise.co.jp/ir/upload_file/m000-/140120160823480609.pdf",
+    "https://www.skymark.co.jp/ja/company/investor/120501_press_1.pdf",
+    "https://www.coinex.com/ja/information/news/6a98db982ba3ae82d5977e1c",
+    "https://dc.jpx-jquants.com/ja/product?dateTypes=%E7%B5%B1&assetTypes=%E3%81%9D%E3%81%AE%E4%BB%96%2C%E7%8F%BE%E7%89%A9%E6%83%85%E5%A0%B1&assetType2s=%E6%A0%AA%E5%BC%8F",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100VBL5.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "additive manufacturing materials segment revenue listed company market size CAGR",
+   "results": [
+    "https://www.grandviewresearch.com/industry-analysis/additive-manufacturing-equipment-market-report",
+    "https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market",
+    "https://www.marketresearchfuture.com/reports/additive-manufacturing-material-market-34489",
+    "https://www.businessresearchinsights.com/market-reports/additive-manufacturing-market-119206?srsltid=AYCX9vLkiL6xGqMzFU6FlxtrVeambnrQNBMVOY08XrJA-mvlMrmUpose",
+    "https://www.researchgate.net/publication/393766153_Additive_Manufacturing_Market_Trends_Growth_Forecast_and_Opportunities",
+    "https://market.us/report/the-additive-manufacturing-market/",
+    "https://straitsresearch.com/report/metal-additive-manufacturing-market",
+    "https://www.coherentmarketinsights.com/market-insight/polymers-for-additive-manufacturing-market-4496",
+    "https://www.linkedin.com/pulse/revenue-growth-market-insights-additive-manufacturing-jbwwf",
+    "https://www.grandviewresearch.com/industry-analysis/additive-manufacturing-market"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "additive manufacturing materials segment revenue listed company price per kg",
+   "results": [
+    "https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report",
+    "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.1176.pdf",
+    "https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market",
+    "https://www.businessresearchinsights.com/market-reports/additive-manufacturing-market-119206?srsltid=AYCX9vJYVDvvQZvytkJ25q3LXRuGi5Mh9SpHeT5NuD13bEqK0fXbnjYZ",
+    "https://market.us/report/the-additive-manufacturing-market/",
+    "https://www.facebook.com/3dprintcom/posts/according-to-its-latest-financial-update-6k-additive-generated-72-million-in-rev/1817712643728854/",
+    "https://www.mordorintelligence.com/industry-reports/global-additive-manufacturing-and-material-market-industry",
+    "https://additive-manufacturing-report.com/general/3d-printing-market-size/",
+    "https://www.cognitivemarketresearch.com/additive-manufacturing-materials-market-report"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "additive manufacturing materials segment revenue listed company key players",
+   "results": [
+    "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report",
+    "https://market.us/report/the-additive-manufacturing-market/",
+    "https://www.linkedin.com/pulse/us-additive-manufacturing-industrys-5-biggest-segments-8skaf",
+    "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "https://revenuebase.ai/companies/additive-manufacturing-materials-suppliers/united-states",
+    "https://manufacturing-today.com/news/top-10-additive-manufacturing-companies-shaping-the-future/",
+    "https://additive-manufacturing-report.com/general/3d-printing-market-size/",
+    "https://manufacturingdigital.com/top10/top-10-additive-manufacturing-companies",
+    "https://www.mordorintelligence.com/industry-reports/global-additive-manufacturing-and-material-market-industry/companies"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "additive manufacturing materials segment revenue listed company distributor Japan",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-market/Japan",
+    "https://www.trade.gov/market-intelligence/japan-additive-manufacturing-and-3d-printing",
+    "https://market.us/report/the-additive-manufacturing-market/",
+    "https://additive-manufacturing-report.com/general/3d-printing-market-size/",
+    "https://www.linkedin.com/pulse/japan-additive-manufacturing-3d-printing-market-size-os7sf",
+    "https://manufacturingdigital.com/top10/top-10-additive-manufacturing-companies",
+    "https://www.fortunebusinessinsights.com/additive-manufacturing-market-115506",
+    "https://www.grandviewresearch.com/industry-analysis/additive-manufacturing-equipment-market-report",
+    "https://www.reportsinsights.com/quants/research/additive-manufacturing-market/japan"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "additive manufacturing materials segment revenue listed company safety storage regulation",
+   "results": [
+    "https://www.ul.com/resources/additive-manufacturing-equipment",
+    "https://www.grandviewresearch.com/industry-analysis/additive-manufacturing-equipment-market-report",
+    "https://ww2.eagle.org/en/innovation-and-technology/technology-advancements/additive-manufacturing.html",
+    "https://www.businessresearchinsights.com/market-reports/additive-manufacturing-market-119206?srsltid=AYCX9vK5n84xLZU9D2m1PN23L2-npoZV-y-bFTR7EcQFPQsHbKrJbXgb",
+    "https://www.mordorintelligence.com/industry-reports/global-additive-manufacturing-and-material-market-industry",
+    "https://www.metal-am.com/articles/safety-management-in-metal-3d-printing/",
+    "https://market.us/report/the-additive-manufacturing-market/",
+    "https://www.nfpa.org/news-blogs-and-articles/blogs/2021/03/05/additive-manufacturing-3d-printing",
+    "https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market",
+    "https://addithive.com/public-additive-manufacturing-stocks-exposure-map/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "additive manufacturing materials segment revenue listed company closed system open material third-party",
+   "results": [
+    "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "https://www.grandviewresearch.com/industry-analysis/additive-manufacturing-equipment-market-report",
+    "https://freemelt.com/investors/freemelt_as_an_investment/market-potential/",
+    "https://run.unl.pt/bitstreams/beeef12d-cfed-4c41-a2ab-63f037ba16df/download",
+    "https://www.mordorintelligence.com/industry-reports/global-additive-manufacturing-and-material-market-industry",
+    "https://www.youtube.com/watch?v=IXEC7ndHpKM",
+    "https://market.us/report/the-additive-manufacturing-market/",
+    "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "https://www.sec.gov/Archives/edgar/data/1754820/000155837024003411/dm-20231231x10k.htm"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "additive manufacturing materials segment revenue listed company commodity price competition",
+   "results": [
+    "https://www.marketresearchfuture.com/reports/additive-manufacturing-material-market-34489",
+    "https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report",
+    "https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market",
+    "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "https://www.businessresearchinsights.com/market-reports/additive-manufacturing-materials-market-102050?srsltid=AYCX9vJGrhyx4QU8YbvYBZmiBhvGzGxnFsNnpRUm3B07_ksP-pkBGIkX",
+    "https://www.meticulousresearch.com/product/additive-manufacturing-market-5838",
+    "https://www.researchgate.net/publication/393766153_Additive_Manufacturing_Market_Trends_Growth_Forecast_and_Opportunities",
+    "https://www.factmr.com/report/additive-manufacturing-market",
+    "https://market.us/report/the-additive-manufacturing-market/",
+    "https://www.fortunebusinessinsights.com/additive-manufacturing-market-115506"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "additive manufacturing materials segment revenue listed company technical support parameters",
+   "results": [
+    "https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report",
+    "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "https://www.businessresearchinsights.com/market-reports/additive-manufacturing-market-119206?srsltid=AYCX9vIxbggtJeJISYOR-24d72HiXfmOUQOgF5EjG2HRECoFwYgxWS8H",
+    "https://market.us/report/the-additive-manufacturing-market/",
+    "https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.1176.pdf",
+    "https://www.mordorintelligence.com/industry-reports/global-additive-manufacturing-and-material-market-industry",
+    "https://www.voxelmatters.report/methodology/",
+    "https://formlabs.com/blog/additive-manufacturing/",
+    "https://www.researchgate.net/publication/393766153_Additive_Manufacturing_Market_Trends_Growth_Forecast_and_Opportunities",
+    "https://www.cognitivemarketresearch.com/additive-manufacturing-materials-market-report"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 上場材料メーカーのAM材料のセグメント・事業別売上（有価証券報告書・決算説明会資料・4-131）",
+   "results": [
+    "https://note.com/kagawatomo/n/nf65a446ed216",
+    "https://note.com/fond_ferret685/n/n28b2866de32f",
+    "https://note.com/tatsuya_sabato/n/nc781e22aa762",
+    "https://note.com/bright_bee861/n/n8c9901f1e60d",
+    "https://note.com/kabutabi2000/n/ne7f3960bc125",
+    "https://note.com/stock1/n/nf36080df8d2c",
+    "https://note.com/aimark/n/nea16e121a0e2",
+    "https://note.com/nakanoam/n/n07511286b3ab",
+    "https://note.com/lucid_lotus6287/n/nefa45440b310",
+    "https://note.com/yamashantoushi/n/nafefaabb2891"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 上場材料メーカーのAM材料のセグメント・事業別売上（有価証券報告書・決算説明会資料・4-131）",
+   "results": [
+    "https://x.com/IGoldeneggs/status/2115640511541465564",
+    "https://x.com/IGoldeneggs/status/2117155831816868200",
+    "https://x.com/IGoldeneggs/status/2118553103121400310",
+    "https://x.com/IGoldeneggs/status/2119645847625621805",
+    "https://x.com/IGoldeneggs/status/2116033453036851603",
+    "https://x.com/IGoldeneggs/status/2118597451926151679",
+    "https://x.com/IGoldeneggs/status/2115705246261653746",
+    "https://x.com/IGoldeneggs/status/2115271939044553159",
+    "https://x.com/IGoldeneggs/status/2119699481142661349",
+    "https://x.com/miraclemasui/status/2092209611243966800"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com 上場材料メーカーのAM材料のセグメント・事業別売上（有価証券報告書・決算説明会資料・4-131）",
+   "results": [
+    "https://jp.linkedin.com/pulse/semiconductor-decade-trillion-dollar-industry-ondrej-burkacky?tl=ja",
+    "https://jp.linkedin.com/in/%E9%82%A6%E8%A6%AA-%E4%B9%85%E4%BF%9D%E7%94%B0-bb6644218",
+    "https://jp.linkedin.com/in/keisuke-tanasawa-b935b141",
+    "https://jp.linkedin.com/in/yosuke-isa-%E4%BC%8A%E4%BD%90%E9%99%BD%E4%BB%8B-9514a12a7",
+    "https://jp.linkedin.com/in/%E6%85%B6%E5%A4%AA%E9%83%8E-%E5%8A%A0%E8%97%A4-a09210303",
+    "https://jp.linkedin.com/in/%E5%AF%9B%E4%B9%8B-%E6%9D%BE%E6%B5%A6-44059a121",
+    "https://www.linkedin.com/login-cap",
+    "https://www.linkedin.com/games/wend/?skipRedirect=true",
+    "https://api.linkedin.com/checkpoint/rp/request-password-reset?trk=reset_password",
+    "https://za.linkedin.com/in/charlotte-tibana-32626527a"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:facebook.com 上場材料メーカーのAM材料のセグメント・事業別売上（有価証券報告書・決算説明会資料・4-131）",
+   "results": [
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/thefishcolumbus/",
+    "https://www.facebook.com/vowellphotography/",
+    "https://www.facebook.com/prettycutiebrown/",
+    "https://www.facebook.com/jpShareLab/posts/ベントレーam事業に約4億7000万円を投資動き出した3dプリンター戦略とはその背景と同社の3dプリンター事業についてご紹介します3dプリンター-3dprint/3087663861494753/",
+    "https://www.facebook.com/hits.or.jp/posts/am事業研究会mtg-2023春こんにちはhitsですお知らせです3dプリンターの活用に関心のある中小企業や関係機関の方はぜひご参加ください️詳細httpwww/172170318895308/",
+    "https://www.facebook.com/INTERMOLD/photos/am-expo名古屋特別講演am品質保証のiso規格化認証の最新動向テュフズードジャパン株式会社-com事業部-avmグループ-エキスパート-永野知与-氏国内外/969612551625506/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "上場材料メーカーのAM材料のセグメント・事業別売上（有価証券報告書・決算説明会資料・4-131） note 社長",
+   "results": [
+    "https://www.resonac.com/sites/default/files/2025-08/pdf-sustainability-report-integratedreport-RESONAC25J_spread.pdf",
+    "https://note.com/nakanoam/n/n07511286b3ab",
+    "https://finance.logmi.jp/articles/375924",
+    "https://www.nikkei-cnbc.co.jp/program/1807_topinterview",
+    "https://www.nri.com/jp/media/column/financial_business_trends/files/20260330kaneko-3.html",
+    "https://int1.msn.com/ja-jp/money/stockdetails/v-us-stock-earnings/fi-a256cw?ocid=ansMSNMoney11",
+    "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2022/slm/pdf/20220902_j04.pdf",
+    "https://www.nikkan.co.jp/brand/interview/executive/",
+    "https://www.yokowo.co.jp/ir/library/pdf/annual/report2026_ja_2.pdf",
+    "https://note.com/bloomo_economics/n/naf3684a3e45b"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "上場材料メーカーのAM材料のセグメント・事業別売上（有価証券報告書・決算説明会資料・4-131） X 投稿",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/nasdaq%E4%B8%8A%E5%A0%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E8%A3%BD%E9%80%A0exone%E3%81%AB%E8%A6%8B%E3%82%8B%E6%A5%AD%E7%B8%BE%E6%A7%8B%E9%80%A0/",
+    "https://x.com/ai_analyst_ir/status/2116037619238781304",
+    "https://int1.msn.com/ja-jp/money/stockdetails/413630-kr-stock-earnings/fi-c5m4vh",
+    "https://www.nikkeikinholdings.co.jp/common/file/ir/sp_m_ns_web_ir2025.pdf",
+    "https://www.ooc.co.jp/csr/report/pdf/Integrated_report2026.pdf",
+    "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/sr/pdf/25fr_j.pdf",
+    "https://www.meti.go.jp/meti_lib/report/2021FY/000418.pdf",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100WQWW.pdf",
+    "https://www.tradingkey.com/jp/markets/stocks/amat/revenue",
+    "https://marketwatch-jp.com/guide-company-amat-appliedmaterials.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "additive manufacturing materials segment revenue listed company site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/matthias-schmidt-lehr_medical-is-not-an-application-focus-it-activity-7506485711584489472-MEKm",
+    "https://www.linkedin.com/pulse/revenue-forecast-growth-outlook-metal-additive-manufacturing-kee2e",
+    "https://www.linkedin.com/pulse/additive-manufacturing-material-market-segmentation-p4owe",
+    "https://www.linkedin.com/pulse/aluminum-alloys-additive-manufacturing-market-size-2026-2033-ru0ge",
+    "https://www.linkedin.com/pulse/comprehensive-rapid-liquid-printing-market-size-report-2026-4p6xe",
+    "https://in.linkedin.com/in/priyanka-nadig",
+    "https://in.linkedin.com/in/priyesh-mehta-86138555",
+    "https://in.linkedin.com/in/chandradhekar-achar-8b6558213",
+    "https://au.linkedin.com/in/kevin-price-6553ba52",
+    "https://in.linkedin.com/in/sriram-renganathan-87a83ba9"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {}
+}

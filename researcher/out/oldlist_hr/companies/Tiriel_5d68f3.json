@@ -1,0 +1,828 @@
+{
+ "name": "Tiriel",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AUMS不適合",
+ "researched_at": "2026-11-09T18:18:52.545921+00:00",
+ "official_url": "https://www.tiriel.ai",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Tiriel | The AI Workforce for Freight Dispatch",
+    "url": "https://tiriel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "A workforce works for you.",
+    "url": "https://tiriel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "What is an AI workforce for freight dispatch? →",
+    "url": "https://tiriel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Six specialists. One AI workforce.",
+    "url": "https://tiriel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Searches load boards and broker inboxes continuously, filters the noise, and surfaces the loads that actually fit each truck.",
+    "url": "https://tiriel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Result: the right loads reach you before the competition.",
+    "url": "https://tiriel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Gets loads back on track.",
+    "url": "https://tiriel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Result: exceptions get handled before they become expensive problems.",
+    "url": "https://tiriel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Protects every dollar.",
+    "url": "https://tiriel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Validates brokers and rate confirmations, checks paperwork, detects risk, processes PODs, and catches detention, TONU, and other recoverable revenue.",
+    "url": "https://tiriel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Your lanes, your minimum rates, your drivers' preferences. The workforce operates inside limits you set, and never outside them.",
+    "url": "https://tiriel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Approve the exceptions",
+    "url": "https://tiriel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Your workforce ran 11h 32m overnight.",
+    "url": "https://tiriel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "WORKFORCE | ACTIVE | TUE 15 APR | 06:04 CT",
+    "url": "https://tiriel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Agreed price $1,300. RC says $1,150. Delivery in 4 hours.",
+    "url": "https://tiriel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Unexpected unloading fee at the receiver. Broker approval pending.",
+    "url": "https://tiriel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "RoadLink Express blocked",
+    "url": "https://tiriel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "7 loads for Hugo",
+    "url": "https://tiriel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Rebuilt one to one from the live product · design partner accounts anonymized",
+    "url": "https://tiriel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Every call your agents make is recorded, transcribed, and logged. These two are from production.",
+    "url": "https://tiriel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "I truly appreciate working with you on this. To make it work, we need $721, so locking it in now would be great.",
+    "url": "https://tiriel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "YOUR FLEET'S LANGUAGE, YOUR BROKER'S LANGUAGE, SAME WORKFORCE",
+    "url": "https://tiriel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "From live product calls. Names anonymized. Recorded with consent. Every negotiation runs inside rate floors you set, with a cap on counteroffers.",
+    "url": "https://tiriel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "An example of what an operation can look like when the workforce does the work and the dispatcher adds trucks. One illustration, not a promise: your pace, your fleet, your numbers.",
+    "url": "https://tiriel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "First Tiriel-negotiated loads activated",
+    "url": "https://tiriel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Your first month costs $99. It is not a free trial and not a deposit. It is the full price of your first month of operation.",
+    "url": "https://tiriel.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Use Replace unit on that unit's profile. The previous truck is archived and the new one added in a single step, with no change to your seat count or your plan.",
+    "url": "https://tiriel.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Agents stop calling and searching loads for that unit. For day-to-day changes, a truck out of service for the weekend.",
+    "url": "https://tiriel.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "When all your seats are occupied and you want to add or reactivate another unit, we show you the next plan, its price, and the exact amount that would be charged.",
+    "url": "https://tiriel.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "No calls, no emails, no retention process",
+    "url": "https://tiriel.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We accept credit and debit cards. ACH available for Pro and Enterprise",
+    "url": "https://tiriel.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Prices exclude taxes. Sales tax is calculated and added at checkout where applicable",
+    "url": "https://tiriel.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "If during your first 30 days the platform did not produce a single load reaching READY status (a load ready for your approval) for any of your trucks, and the conditions of the guarantee were met, we refund your $99 in full. Conditions are in the",
+    "url": "https://tiriel.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Billing, Pricing & Refund Policy",
+    "url": "https://tiriel.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Full access for 30 days, unlimited trucks, assisted onboarding. From month 2, your plan comes from your seat count, with the exact amount and date notified seven days ahead.",
+    "url": "https://tiriel.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing effective August 10, 2026. Tiriel may modify pricing with at least 30 days' notice to active subscribers.",
+    "url": "https://tiriel.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Hod as articulation, symbolic precision, and ordered transmission rather than mental scatter.",
+    "url": "https://arcanelibrary.org/tiriel/",
+    "pass": 3
+   },
+   {
+    "quote": "The mercurial governor above: protection, logos, and the structural clarity that Tiriel gathers inwardly.",
+    "url": "https://arcanelibrary.org/tiriel/",
+    "pass": 3
+   },
+   {
+    "quote": "The intelligence proper of Mercury: quickness gathered into legible inner order.",
+    "url": "https://arcanelibrary.org/tiriel/",
+    "pass": 3
+   },
+   {
+    "quote": "The spirit below: symbolic precision turned toward exchange, implementation, and worldly signal.",
+    "url": "https://arcanelibrary.org/tiriel/",
+    "pass": 3
+   },
+   {
+    "quote": "governs it as logos and protection,",
+    "url": "https://arcanelibrary.org/tiriel/",
+    "pass": 3
+   },
+   {
+    "quote": "displays it cosmically, Tiriel gathers that display into symbolic precision,",
+    "url": "https://arcanelibrary.org/tiriel/",
+    "pass": 3
+   },
+   {
+    "quote": "turns that precision toward operative exchange, and the",
+    "url": "https://arcanelibrary.org/tiriel/",
+    "pass": 3
+   },
+   {
+    "quote": "In practical terms, Tiriel is the faculty that asks not only \"What does this mean?\" but",
+    "url": "https://arcanelibrary.org/tiriel/",
+    "pass": 3
+   },
+   {
+    "quote": "\"How does this connect, and under what rule?\" It is mercurial intelligence as interpretive",
+    "url": "https://arcanelibrary.org/tiriel/",
+    "pass": 3
+   },
+   {
+    "quote": "badge for your profile!",
+    "url": "https://myanimelist.net/character/1946/Tiriel",
+    "pass": 3
+   },
+   {
+    "quote": "Tiriel - Products, Competitors, Financials, Employees, Headquarters Locations",
+    "url": "https://www.cbinsights.com/company/tiriel",
+    "pass": 3
+   },
+   {
+    "quote": "Tiriel provides an artificial intelligence (AI) workforce for the freight dispatch industry. The company offers AI agents that handle tasks such as scanning load boards, negotiating with brokers, coordinating with drivers, and processing paperwork. Its services operate without traditional dispatch software. It was founded in 2021 and is based in San Francisco, California.",
+    "url": "https://www.cbinsights.com/company/tiriel",
+    "pass": 3
+   },
+   {
+    "quote": "permits us to improve and customize your experience. You can read more about your",
+    "url": "https://www.cbinsights.com/company/tiriel",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "5 owner-operators",
+    "url": "https://tiriel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "8 owner-operators",
+    "url": "https://tiriel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "13 owner-operators",
+    "url": "https://tiriel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "19 owner-operators",
+    "url": "https://tiriel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Three operators. One workforce.",
+    "url": "https://tiriel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "5 owner-operators, capped at 14-hour days.",
+    "url": "https://tiriel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "No. Tiriel does the repetitive 90% of the day: boards, calls, negotiation, paperwork. You keep the 10% that needs a human: which owner operators to take on, which lanes to build, which brokers to trust, and every decision that moves money. Tiriel does the work. You decide.",
+    "url": "https://tiriel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Verification of your owner-operators, authority, insurance, and identity",
+    "url": "https://tiriel.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "From 5 to 19 owner-operators by day 90.",
+    "url": "https://tiriel.ai/pricing",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Validates brokers and rate confirmations, checks paperwork, detects risk, processes PODs, and catches detention, TONU, and other recoverable revenue.",
+    "url": "https://tiriel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Each unit is identified by its USDOT number together with its unit number. If you register the same truck twice, it occupies a single seat. If a carrier operates several trucks under one USDOT number, each truck occupies its own seat.",
+    "url": "https://tiriel.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Tiriel does not charge by owner-operator, by driver, by carrier, or by load. An owner-operator running three trucks occupies three seats, because you are dispatching three vehicles.",
+    "url": "https://tiriel.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Tiriel is mercurial intelligence as exact transmission: language made clean enough to carry force without distortion.",
+    "url": "https://arcanelibrary.org/tiriel/",
+    "pass": 3
+   },
+   {
+    "quote": "move quickly and still arrive confused. The intelligence layer is the place where movement",
+    "url": "https://arcanelibrary.org/tiriel/",
+    "pass": 3
+   },
+   {
+    "quote": "mercurial movement becomes exact enough to carry meaning. The point is not merely to have",
+    "url": "https://arcanelibrary.org/tiriel/",
+    "pass": 3
+   },
+   {
+    "quote": "trivia, and magical naming becomes theatrical gesture. With it, a symbol can actually carry force.",
+    "url": "https://arcanelibrary.org/tiriel/",
+    "pass": 3
+   },
+   {
+    "quote": "Tiriel - Products, Competitors, Financials, Employees, Headquarters Locations",
+    "url": "https://www.cbinsights.com/company/tiriel",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Built to plug into the tools you already run. The load boards you already use, broker email inboxes, SMS, voice, FMCSA, payment processors, and accounting. We meet your operation where it lives. We don't ask you to switch.",
+    "url": "https://tiriel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "That same day we send you an email and an in-app notification with your occupied seats, the plan that applies, the exact amount, the exact date of the charge, and a link to cancel, remove units, or request a lower plan. One click, no support call.",
+    "url": "https://tiriel.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "No calls, no emails, no retention process",
+    "url": "https://tiriel.ai/pricing",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Tiriel - Shakugan no Shana Wiki — Tiriel is an extravagant, western looking girl who is about the size of a ten year old, with beautiful, long, wavy blonde hair which reaches her back and bright blue eyes, with her attire resembling that of a little European princess.",
+    "url": "https://shakugan.fandom.com/wiki/Tiriel",
+    "pass": 3
+   },
+   {
+    "quote": "Tiriel — Mercurial Intelligence · Arcane Library — Tiriel: the planetary intelligence of Mercury in the Hod chain. The mercurial intelligence that gathers language, symbol, and transmission into lucid articulation.",
+    "url": "https://arcanelibrary.org/tiriel/",
+    "pass": 3
+   },
+   {
+    "quote": "Tiriel (Shakugan no Shana) - MyAnimeList.net — Read more information about the character Tiriel from Shakugan no Shana? At MyAnimeList, you can find out about their voice actors, animeography, pictures and much more!",
+    "url": "https://myanimelist.net/character/1946/Tiriel",
+    "pass": 3
+   },
+   {
+    "quote": "Tiriel_Baiduwiki - 百度百科 — Tiriel (ティリエル/Tiriel) is a fictional character in the light novel series Shakugan no Shana and its derivative works, voiced by Yukari Tamura (Japanese) and Xu Yunyun (Taiwanese).",
+    "url": "https://baike.baidu.com/en/item/Tiriel/3265479",
+    "pass": 3
+   },
+   {
+    "quote": "Tiriel from Burning Eyes Shana | ACDB - Anime Characters Databaseティリエル_百度百科What Is an AI Workforce for Freight Dispatch? | Tiriel — Tiriel appears in Burning Eyes Shana as an unsorted character with very long blonde hair and blue eyes. ティリエル（ティリエル/Tiriel）は、ライトノベル『 灼眼のシャナ 』およびその派生作品に登場する架空のキャラクターである。 声優は田村ゆかり、許雲雲。 その真名は「愛染他」といい、紅世の徒である。 種別は異世界生物である紅世の徒である。 炎は山吹色である。 また、兄である ソラト と特別な感情的な絆を持ち、「溺愛の抱擁」",
+    "url": "https://www.animecharactersdatabase.com/characters.php?id=5270",
+    "pass": 3
+   },
+   {
+    "quote": "Tiriel 2026 Company Profile: Valuation, Funding & Investors ... — Information on valuation, funding, cap tables, investors, and executives for Tiriel. Use the PitchBook Platform to explore the full profile.",
+    "url": "https://pitchbook.com/profiles/company/1165144-24",
+    "pass": 3
+   },
+   {
+    "quote": "Tiriel - Products, Competitors, Financials, Employees ... — The company offers AI agents that handle tasks such as scanning load boards, negotiating with brokers, coordinating with drivers, and processing paperwork. Its services operate without traditional dispatch software. It was founded in 2021 and is based in San Francisco, California.",
+    "url": "https://www.cbinsights.com/company/tiriel",
+    "pass": 3
+   },
+   {
+    "quote": "Tiriel AI - Crunchbase Company Profile & Funding — Tiriel AI has 6 investors including Act One Ventures and Y Combinator. When was the last funding round for Tiriel AI? Tiriel AI closed its last funding round on.",
+    "url": "https://www.crunchbase.com/organization/tiriel-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Tiriel AI - Financial Details - Crunchbase — Tiriel AI is funded by 6 investors. Act One Ventures and Y Combinator are the most recent investors. Which investors participated in the most funding rounds? Show",
+    "url": "https://www.crunchbase.com/organization/tiriel-ai/financial_details",
+    "pass": 3
+   },
+   {
+    "quote": "Tiriel — Company Profile | The Company Check — Tiriel, established in 2018 and currently in Dissolved stage, focuses on leveraging cutting-edge technology, providing IT services, offering digital marketing tools, and web and marketing.",
+    "url": "https://www.thecompanycheck.com/company/b/tiriel/47a1f158b2444dc59",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Tiriel AI - LinkedIn Tiriel is the AI workforce for freight dispatch, built for the $940B U.S. trucking market. Every truck depends on a dispatcher to keep it moving, yet dispatch is still manual work: living on load...",
+    "url": "https://www.linkedin.com/company/tirielai",
+    "pass": 3
+   },
+   {
+    "quote": "Hugo Alvarez - Co-Founder │ CRO at Tiriel AI (YC S21). The AI ... Tiriel AI develops specialized AI employees that find freight, negotiate with brokers, coordinate drivers, process paperwork, and continuously improve carrier operations under human supervision.",
+    "url": "https://www.linkedin.com/in/hugo-alvarez-248867132",
+    "pass": 3
+   },
+   {
+    "quote": "Porfirio Díaz - Tiriel AI | LinkedInOmar Alejandro Morones Muñoz - Tiriel AI | LinkedInTiriel Lovejoy - Store Manager at The Food Warehouse | LinkedIn40+ \"Toriel\" profiles | LinkedInEduardo Narváez - Tiriel AI | LinkedIn Experiencia: Tiriel AI · Educación: Universidad Autónoma de Zacatecas · Ubicación: Zacatecas · 144 contactos en LinkedIn. Ver el perfil de Porfirio Díaz en LinkedIn, una red profe",
+    "url": "https://mx.linkedin.com/in/porfirioads",
+    "pass": 3
+   },
+   {
+    "quote": "Omar Alejandro Morones Muñoz - Tiriel AI | LinkedInTiriel Lovejoy - Store Manager at The Food Warehouse | LinkedIn40+ \"Toriel\" profiles | LinkedInEduardo Narváez - Tiriel AI | LinkedIn Experiencia: Tiriel AI · Educación: universidad autónoma de durango · Ubicación: Guadalupe y alrededores · 96 contactos en LinkedIn. Ver el perfil de Omar Alejandro Morones Muñoz en LinkedIn,... Store Manager at The",
+    "url": "https://mx.linkedin.com/in/omar-alejandro-morones-muñoz-718a43195",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Tiriel IT - Facebook Oct 19, 2018 · Tiriel IT. 36 likes. Tiriel offers a range of web and technical solutions with an expertise in Radio and Broadcast.",
+    "url": "https://www.facebook.com/tirielit/",
+    "pass": 3
+   },
+   {
+    "quote": "Tiriel | San Francisco CA - Facebook Tiriel , San Francisco. 2 likes. Tiriel is the AI workforce for freight dispatch: specialized AI agents that scan 14+ load boards, negotiate rates with...",
+    "url": "https://www.facebook.com/tirielai/",
+    "pass": 3
+   },
+   {
+    "quote": "Tiriel - https://www.instagram.com/tirielphoto/ | Facebook Nov 13, 2017 · My instagram 👉 @tirielphoto Jeśli lubisz moje prace i podoba Ci się to co robię - możesz mnie wesprzeć, jeśli chcesz. If you like what I do and if you want to you can support me. 👉 https://buycoffee.to/tiriel #photomodel #photosession #photographer #Sony #godox - with Kamila Skórka - Trener Personalny.",
+    "url": "https://www.facebook.com/tirielphoto/photos/httpswwwinstagramcomtirielphoto/1319806978141800/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://tiriel.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tiriel.ai/pricing",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://global.honda/jp/news/2026/4260305b.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pmda.go.jp/review-services/inspections/drugs/0012.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/invest/newsroom/2026/4ca9cc291cb3937f.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://response.jp/article/2026/10/06/417434.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/TRIALCOMPANY/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shakugan.fandom.com/wiki/Tiriel",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://arcanelibrary.org/tiriel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://myanimelist.net/character/1946/Tiriel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baike.baidu.com/en/item/Tiriel/3265479",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://link.springer.com/article/10.1007/s40092-017-0234-6",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.econstor.eu/bitstream/10419/195620/1/1028999550.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.researchgate.net/publication/319950661_Six-sigma_application_in_tire-manufacturing_company_a_case_study",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3ds.com/sites/default/files/2020-05/toyo-tires-case-study-web-2020.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/1165144-24",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/tiriel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/tiriel-ai",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/tiriel-ai/financial_details",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/tirielai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/hugo-alvarez-248867132",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://mx.linkedin.com/in/porfirioads",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://mx.linkedin.com/in/omar-alejandro-morones-muñoz-718a43195",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tirielit/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tirielai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tirielphoto/photos/httpswwwinstagramcomtirielphoto/1319806978141800/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Tiriel 日本 導入",
+   "results": [
+    "https://global.honda/jp/news/2026/4260305b.html",
+    "https://www.pmda.go.jp/review-services/inspections/drugs/0012.html",
+    "https://www.jetro.go.jp/invest/newsroom/2026/4ca9cc291cb3937f.html",
+    "https://response.jp/article/2026/10/06/417434.html",
+    "https://note.com/jpbsa/n/n016e825ba2c3",
+    "https://www.linical.com/ja/articles-research/why-japan-is-becoming-a-prime-destination-for-clinical-trials",
+    "https://www.efpia.jp/link/EFPIA_DCT.pdf",
+    "https://www.pmda.go.jp/review-services/trials/0019.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Tiriel 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://www.facebook.com/TRIALCOMPANY/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.trial-net.co.jp/shops/search-area/",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://trial-holdings.inc/news/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Tiriel Japan",
+   "results": [
+    "https://shakugan.fandom.com/wiki/Tiriel",
+    "https://arcanelibrary.org/tiriel/",
+    "https://myanimelist.net/character/1946/Tiriel",
+    "https://baike.baidu.com/en/item/Tiriel/3265479",
+    "https://www.animecharactersdatabase.com/characters.php?id=5270",
+    "https://tiriel.ai/what-is-an-ai-workforce",
+    "https://baike.baidu.com/ja/item/ティリエル/3719959",
+    "https://characters.fandom.com/wiki/Tiriel",
+    "https://redreduction.fandom.com/wiki/Tiriel"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Tiriel manufacturing customer case study",
+   "results": [
+    "https://link.springer.com/article/10.1007/s40092-017-0234-6",
+    "https://www.econstor.eu/bitstream/10419/195620/1/1028999550.pdf",
+    "https://www.researchgate.net/publication/319950661_Six-sigma_application_in_tire-manufacturing_company_a_case_study",
+    "https://www.3ds.com/sites/default/files/2020-05/toyo-tires-case-study-web-2020.pdf",
+    "https://o9solutions.com/case-studies/tire-manufacturer",
+    "https://www.chrobinson.com/en-us/resources/resource-center/case-studies/tire-manufacturer-case-study/",
+    "https://www.researchgate.net/publication/374417052_Supply_Chain_and_Digital_Transformation_of_the_Tire_Manufacturing_Company_during_the_COVID-19_Pandemic_A_Case_Study_of_PT_X"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tiriel white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.yealink.com/",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://partners.adobe.com/s/directory/channel?lang=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tiriel founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/1165144-24",
+    "https://www.cbinsights.com/company/tiriel",
+    "https://www.crunchbase.com/organization/tiriel-ai",
+    "https://www.crunchbase.com/organization/tiriel-ai/financial_details",
+    "https://www.thecompanycheck.com/company/b/tiriel/47a1f158b2444dc59",
+    "https://indexed.vc/companies/tiriel-ai",
+    "https://app.dealroom.co/companies/tiriel"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Tiriel",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/stargazingwario/n/nc8ea3d35c0f4",
+    "https://note.com/araratsan/n/n1c8ff4156c80",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/masashi3122/n/n6f41b990b137"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Tiriel",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Tiriel",
+   "results": [
+    "https://www.linkedin.com/company/tirielai",
+    "https://www.linkedin.com/in/hugo-alvarez-248867132",
+    "https://mx.linkedin.com/in/porfirioads",
+    "https://mx.linkedin.com/in/omar-alejandro-morones-muñoz-718a43195",
+    "https://uk.linkedin.com/in/tiriel-lovejoy-61219283",
+    "https://ca.linkedin.com/pub/dir/+/Toriel",
+    "https://www.linkedin.com/in/eduardoakil"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Tiriel",
+   "results": [
+    "https://www.facebook.com/tirielit/",
+    "https://www.facebook.com/tirielai/",
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/tirielphoto/photos/httpswwwinstagramcomtirielphoto/1319806978141800/",
+    "https://www.facebook.com/peternorthbooks/posts/meet-tiriel-and-goldie-the-heros-companions-in-okay-maybe-just-one-more-side-que/1011612801606057/",
+    "https://www.facebook.com/61574420524632/",
+    "https://www.facebook.com/groups/memorylaneaust/posts/25141975602065426/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tiriel note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/藤原岳史",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/n10ae3b3f8acd",
+    "https://yuumeijin-now.com/nitaniyurie-genzai/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tiriel X 投稿",
+   "results": [
+    "https://donmai.moe/artists/53843.html",
+    "https://cos.lycore.co/artists/37285",
+    "https://x.com/Toriel",
+    "https://x.com/hashtag/toriel",
+    "https://psychostuff.fanbox.cc/posts/9160313",
+    "https://www.pixiv.net/tags/Toriel",
+    "https://pixzapix.fanbox.cc/posts/12185261"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部31頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部31頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部31頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部31頁・検索12回）"
+ }
+}

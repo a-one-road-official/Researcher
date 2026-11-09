@@ -1,0 +1,468 @@
+{
+ "name": "Plansee — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:advanced-materials-manufacturer",
+ "researched_at": "2026-11-09T18:32:58.580015+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Tess Boissonneault - Freelance Content Writer, Editor | LinkedInPlansee - LinkedInMetal AM Market 2025 | VoxelMatters - LinkedInVoxelMatters Consumer AM Focus 2025 eBook | VoxelMattersAI-Based Visual Anomaly Detection Keeps Furnace Firing Freelance Content Writer, Editor · Experience: VoxelMatters · Education: University of Amsterdam · Location: Montreal · 500+ connections on LinkedIn. View Tess B",
+    "url": "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookPlansee - Strong Metals - FacebookFacebookVoxelMatters on Reels | FacebookA glimpse into the execution phase where every detail matters ...VoxelMatters spent two months... - Prusa Research 3D printers ...PlanSee - A glimpse into the execution phase where every ... Unlock the Future of Metal Additive Manufacturing with VoxelMatters! VoxelMatters Research has kicked off a pre-",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   },
+   {
+    "quote": "Plansee - Strong Metals - FacebookFacebookVoxelMatters on Reels | FacebookA glimpse into the execution phase where every detail matters ...VoxelMatters spent two months... - Prusa Research 3D printers ...PlanSee - A glimpse into the execution phase where every ... Oct 29, 2026 · Plansee India has received the prestigious EEPC India Export Award for the fourth time, having been recognised for outst",
+    "url": "https://www.facebook.com/Plansee/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.plansee.com/zh/%E5%85%AC%E5%8F%B8/%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F/%E6%97%A5%E6%9C%AC.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plansee.com/zh.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://plansee-group.com/en/locations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plansee.com/en/company/contact/japan.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plansee.com/ja/%E8%A3%BD%E5%93%81.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://my.plansee.com/ja-jp/Root-Category/c/1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://my.plansee.com/ja-jp/%E3%82%88%E3%81%86%E3%81%93%E3%81%9D",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plansee.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://shop.croccha.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.yuzawaya.shop/shopbrand/ct1006/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plansee.com/en/company/contact/japan.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plansee.com/de/unternehmen/kontakt/japan.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://plansee-group.com/en/locations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan-partner.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plansee.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://japanesedistributors.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/usa/investinjapan/j-bridge.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E9%80%B1%E5%88%8A%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A-2026%E5%B9%B411%E6%9C%8819%E6%97%A5%E5%8F%B7-No-1970-%E9%80%B1%E5%88%8A%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E7%B7%A8%E9%9B%86%E9%83%A8/dp/B0HNSMCCCL",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/stores/%E3%82%B3%E3%83%BC%E3%83%81/page/0B7ABB90-8D18-4DA8-A1F8-ED8E7CF10A4A",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://kdp.amazon.co.jp/ja_JP/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/0992/8834/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/6892/1283/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/s/c-24915/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Plansee_Group",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://plansee-group.com/en/articles/detail/geschaeftsjahr-2025-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/plansee-group",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/plansee-se/30654717",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Plansee/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Plansee — VoxelMatters 代理店",
+   "results": [
+    "https://www.plansee.com/zh/公司/联系方式/日本.html",
+    "https://www.voxelmatters.com/",
+    "https://www.plansee.com/zh.html",
+    "https://plansee-group.com/en/locations",
+    "https://www.semitorrinc.com/high-purity/second-source-spare-parts/plansee-electro-graph/",
+    "https://ionimplant.plansee.com/",
+    "https://ionimplant.plansee.com/?m_gv_comp=appcontact"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Plansee — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Plansee — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.plansee.com/en/company/contact/japan.html",
+    "https://www.plansee.com/ja/製品.html",
+    "https://my.plansee.com/ja-jp/Root-Category/c/1",
+    "https://my.plansee.com/ja-jp/ようこそ",
+    "https://ionimplant.plansee.com/",
+    "https://ionimplant.plansee.com/?m_gv_comp=appcontact",
+    "https://mono.ipros.com/product/detail/2000493956/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Plansee — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://skhonpo.com/",
+    "https://www.plansee.com/",
+    "https://shop.croccha.com/",
+    "https://www.yuzawaya.shop/shopbrand/ct1006/",
+    "https://shop-green-ocean.com/",
+    "https://fantist.com/articles/1017",
+    "https://voxelpla.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Plansee — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.plansee.com/en/company/contact/japan.html",
+    "https://www.plansee.com/de/unternehmen/kontakt/japan.html",
+    "https://www.voxelmatters.com/",
+    "https://plansee-group.com/en/locations",
+    "https://japanesedistributors.com/",
+    "https://ionimplant.plansee.com/",
+    "https://ionimplant.plansee.com/?m_gv_comp=appcontact"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Plansee — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.japan-partner.com/",
+    "https://www.plansee.com/",
+    "https://japanesedistributors.com/",
+    "https://www.jetro.go.jp/usa/investinjapan/j-bridge.html",
+    "https://vietnamnews.vn/economy/1803879/pan-group-japanese-partner-join-hands-to-modernise-agriculture.html",
+    "https://www.japan-partner.com/check-manufacture-year.html",
+    "https://www.scmp.com/magazines/style/people/celebrities/article/3353686/who-ansel-elgorts-japanese-partner-miona-whom-he-just-welcomed-baby"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:amazon.co.jp Plansee — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/週刊ファミ通-2026年11月19日号-No-1970-週刊ファミ通編集部/dp/B0HNSMCCCL",
+    "https://www.amazon.co.jp/stores/コーチ/page/0B7ABB90-8D18-4DA8-A1F8-ED8E7CF10A4A",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://kdp.amazon.co.jp/",
+    "https://shigoto.amazon.co.jp/",
+    "https://ssofaast-wms.amazon.co.jp/",
+    "https://business.amazon.co.jp/ja/login"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Plansee — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/p/0992/8834/",
+    "https://www.monotaro.com/p/6892/1283/",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/s/c-24915/",
+    "https://www.monotaro.com/p/3764/0793/",
+    "https://www.monotaro.com/g/00278835/",
+    "https://www.monotaro.com/p/5137/2424/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Plansee — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://en.wikipedia.org/wiki/Plansee_Group",
+    "https://plansee-group.com/en/articles/detail/geschaeftsjahr-2025-2026",
+    "https://compworth.com/company/plansee-group",
+    "https://www.zoominfo.com/c/plansee-se/30654717",
+    "https://www.plansee.com/en/company.html",
+    "https://www.plansee.com/download/?DOKNR=10002012875&DOKAR=QM1&DOKTL=100",
+    "https://plansee-group.com/en/articles/detail/geschaftsjahr-2024-25"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Plansee — VoxelMatters",
+   "results": [
+    "https://note.com/oreillyjapan",
+    "https://note.com/seigo77",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Plansee — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/itscelyunique/status/2117839228826521620",
+    "https://x.com/isaiahrmartin/status/2117871814625972663",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/jocelynseip/status/2118260591680983528",
+    "https://x.com/DemocraticWins/status/2117994783016685719",
+    "https://x.com/PopBase/status/2116494180054909027"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Plansee — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://www.linkedin.com/pub/dir/davide/sher",
+    "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a",
+    "https://www.linkedin.com/company/plansee",
+    "https://www.linkedin.com/posts/voxelmatters_metal-am-market-2025-voxelmatters-deep-activity-7285618036043087872-8URk",
+    "https://www.linkedin.com/posts/voxelmatters_voxelmatters-consumer-am-focus-2025-ebook-activity-7315029440747454465-lSW3",
+    "https://www.linkedin.com/pulse/ai-based-visual-anomaly-detection-keeps-furnace-hopfenzitz-cyege"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Plansee — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/Plansee/",
+    "https://www.facebook.com/\u0000jperes88/",
+    "https://www.facebook.com/VoxelMatters/videos/2155326438344264/",
+    "https://www.facebook.com/PrusaResearch/posts/voxelmatters-spent-two-months-testing-the-prusa-core-one-l-and-described-it-as-a/948639757678088/",
+    "https://www.facebook.com/PlanSee.me/posts/a-glimpse-into-the-execution-phase-where-every-detail-mattersstay-tuned-for-more/1119980253517093/",
+    "https://www.facebook.com/PlanSee.me/videos/752715034375062/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Plansee — VoxelMatters note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://plansee-group.com/ja/company/management-governance",
+    "https://www.voxelmatters.com/",
+    "https://www.plansee.com/en/company/news/2024/plansee-group-high-investments-for-a-strong-future.html",
+    "https://plansee-group.com/en/company/management-governance",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://rocketreach.co/plansee-composite-materials-gmbh-management_b5c7e6adf42e0d82"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Plansee — VoxelMatters X 投稿",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/hashtag/voxelmatters",
+    "https://www.voxelmatters.com/contribute/",
+    "https://www.voxelmatters.com/",
+    "https://x.com/VoxelMatters/status/2117922086492508517",
+    "https://x.com/VoxelMatters/status/2117922030947614944",
+    "https://x.com/VVoxie/status/2117960597610340805"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索15回）"
+ }
+}

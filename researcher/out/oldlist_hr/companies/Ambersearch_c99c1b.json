@@ -1,0 +1,1027 @@
+{
+ "name": "Ambersearch",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜送付済み",
+ "researched_at": "2026-11-09T18:36:01.166273+00:00",
+ "official_url": "https://ambersearch.de/",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$24,000",
+    "url": "https://prospeo.io/c/amber-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$2,300,000",
+    "url": "https://prospeo.io/c/amber-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Jülicher Straße 72a, Aachen, Nordrhein-Westfalen 52070, DE",
+    "url": "https://prospeo.io/c/amber-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2021",
+    "url": "https://prospeo.io/c/amber-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Your privacy, your choice",
+    "url": "https://amber.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "More in our privacy policy",
+    "url": "https://amber.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "amber connects to your existing systems, understands content in context and respects every permission – without migration, without copying data, without a second permission management.",
+    "url": "https://amber.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate repetitive tasks without programming.",
+    "url": "https://amber.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "A place for team, knowledge and AI: Every contribution to the project expands the shared context",
+    "url": "https://amber.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "In the company, 500 people ask questions – and each one is allowed to see different content. Amber automatically adopts existing access rights.",
+    "url": "https://amber.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "With Amber, you choose the appropriate AI model for each task. Search, assistant, and agent remain the same – only the underlying model becomes more powerful.",
+    "url": "https://amber.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "A tool that's not used outside of your daily work routine. Amber integrates with your everyday programs via plugins – whether in your browser, desktop application, Teams, or Office programs. No need to switch tools, just greater user acceptance.",
+    "url": "https://amber.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Business Process Optimization, Zentis",
+    "url": "https://amber.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "\"As a consortium of several companies, amber provides centralized access to our data without storing it locally—for example, this allows us to process warranty claims much more quickly.\"",
+    "url": "https://amber.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "\"amber integrates all of our systems and makes even older project knowledge searchable—ideal for quickly bringing new colleagues up to speed.\"",
+    "url": "https://amber.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "\"amber helps us quickly find older project files, protects sensitive information in a GDPR-compliant way, and offers flexible LLM selection as well as AI agents to connect and share internal company knowledge with colleagues.\"",
+    "url": "https://amber.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "All development and processing steps take place on servers in Germany and Europe",
+    "url": "https://amber.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Your privacy, your choice",
+    "url": "https://amber.de/en/product/ambersearch/",
+    "pass": 3
+   },
+   {
+    "quote": "More in our privacy policy",
+    "url": "https://amber.de/en/product/ambersearch/",
+    "pass": 3
+   },
+   {
+    "quote": "ISO-27001 certified, GDPR & EU AI Act compliant",
+    "url": "https://amber.de/en/product/ambersearch/",
+    "pass": 3
+   },
+   {
+    "quote": "The investment pays for itself quickly through saved search times, faster training and less duplication of work.",
+    "url": "https://amber.de/en/product/ambersearch/",
+    "pass": 3
+   },
+   {
+    "quote": "Secure & GDPR compliant",
+    "url": "https://amber.de/en/product/ambersearch/",
+    "pass": 3
+   },
+   {
+    "quote": "Highest security standards and complete GDPR compliance to protect your company data.",
+    "url": "https://amber.de/en/product/ambersearch/",
+    "pass": 3
+   },
+   {
+    "quote": "More effective onboarding and offboarding",
+    "url": "https://amber.de/en/product/ambersearch/",
+    "pass": 3
+   },
+   {
+    "quote": "Faster problem solving through access to expert knowledge",
+    "url": "https://amber.de/en/product/ambersearch/",
+    "pass": 3
+   },
+   {
+    "quote": "Search is amber's AI-powered enterprise search. It makes knowledge from distributed sources searchable and usable, helping employees quickly find what they need.",
+    "url": "https://amber.de/en/product/ambersearch/",
+    "pass": 3
+   },
+   {
+    "quote": "How is Search different from traditional enterprise search solutions?",
+    "url": "https://amber.de/en/product/ambersearch/",
+    "pass": 3
+   },
+   {
+    "quote": "Search goes beyond simple document search. It combines AI search with company knowledge to provide relevant results and usable answers.",
+    "url": "https://amber.de/en/product/ambersearch/",
+    "pass": 3
+   },
+   {
+    "quote": "Security and compliance are core parts of the amber platform. Existing access rights are preserved, so users can only access content they are authorized to view.",
+    "url": "https://amber.de/en/product/ambersearch/",
+    "pass": 3
+   },
+   {
+    "quote": "How do implementation, trial phase, and pricing work?",
+    "url": "https://amber.de/en/product/ambersearch/",
+    "pass": 3
+   },
+   {
+    "quote": "Search can be introduced step by step and is supported by structured onboarding. Roll-out and pricing depend on the use case, integration depth, and scope of usage.",
+    "url": "https://amber.de/en/product/ambersearch/",
+    "pass": 3
+   },
+   {
+    "quote": "An enterprise search must be able to cover dozens of special cases and be therefore sophisticated. With our function overview we show what is important.",
+    "url": "https://amber.de/en/product/ambersearch/",
+    "pass": 3
+   },
+   {
+    "quote": "Preview documents used during processing for reference",
+    "url": "https://amber.de/en/product/ambersearch/",
+    "pass": 3
+   },
+   {
+    "quote": "Comprehensible answers",
+    "url": "https://amber.de/en/product/ambersearch/",
+    "pass": 3
+   },
+   {
+    "quote": "Collect, analyze and respond to feedback to improve the company’s knowledge base.",
+    "url": "https://amber.de/en/product/ambersearch/",
+    "pass": 3
+   },
+   {
+    "quote": "amber automatically and continuously improves results based on user feedback.",
+    "url": "https://amber.de/en/product/ambersearch/",
+    "pass": 3
+   },
+   {
+    "quote": "Users can search in their preferred language and get results in all languages they understand.",
+    "url": "https://amber.de/en/product/ambersearch/",
+    "pass": 3
+   },
+   {
+    "quote": "amber understands your specific company language, including product and service names or company-specific abbreviations.",
+    "url": "https://amber.de/en/product/ambersearch/",
+    "pass": 3
+   },
+   {
+    "quote": "amber supports all major content types, including files, websites, messages, people, conversations, and customers.",
+    "url": "https://amber.de/en/product/ambersearch/",
+    "pass": 3
+   },
+   {
+    "quote": "Search your own data using deep research models. Let AI find the best solution/approach to your challenge. Feel free to optimize.",
+    "url": "https://amber.de/en/product/ambersearch/",
+    "pass": 3
+   },
+   {
+    "quote": "Query the AI agents via API and enrich your processes with specialist knowledge.",
+    "url": "https://amber.de/en/product/ambersearch/",
+    "pass": 3
+   },
+   {
+    "quote": "GDPR compliant, ISO 27001 certified and fully developed in Europe.",
+    "url": "https://amber.de/en/product/ambersearch/",
+    "pass": 3
+   },
+   {
+    "quote": "Ambersearchは、2021年にRwth Aachen Universityの卒業生Bastian Maiworm、Igli Manaj、およびPhilippReißelによって設立されました",
+    "url": "https://www3.to/%E3%83%89%E3%82%A4%E3%83%84%E3%81%AEai-search%E4%BC%81%E6%A5%ADambersearch%E3%81%AF%E3%80%81210%E4%B8%87%E3%83%A6%E3%83%BC%E3%83%AD%E3%81%AE%E7%A8%AE%E5%AD%90%E6%8A%95%E8%B3%87%E3%82%92%E7%A2%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "Ambersearchの共同設立者兼CEOであるPhilippReißelによると、同社は中小企業、特に製造などの従来のセクターでAIの力を中小企業にもたらすことを目指しています",
+    "url": "https://www3.to/%E3%83%89%E3%82%A4%E3%83%84%E3%81%AEai-search%E4%BC%81%E6%A5%ADambersearch%E3%81%AF%E3%80%81210%E4%B8%87%E3%83%A6%E3%83%BC%E3%83%AD%E3%81%AE%E7%A8%AE%E5%AD%90%E6%8A%95%E8%B3%87%E3%82%92%E7%A2%BA/",
+    "pass": 3
+   },
+   {
+    "quote": ". Through this partnership, we are expanding our portfolio with a powerful, AI-driven solution that provides access to internal company knowledge while meeting the stringent security and compliance requirements of regulated industries.",
+    "url": "https://www.digital-ls.de/en/news/new-partnership-digital-life-sciences-and-amber/",
+    "pass": 3
+   },
+   {
+    "quote": "For our customers, this means secure, structured access to their own knowledge: amber makes information discoverable that was previously locked away in individual systems, while its security and compliance standards allow it to integrate seamlessly into the",
+    "url": "https://www.digital-ls.de/en/news/new-partnership-digital-life-sciences-and-amber/",
+    "pass": 3
+   },
+   {
+    "quote": "-compliant environments in which regulated companies operate every day. This enables faster, well-informed decision-making without compromising on auditability and traceability.",
+    "url": "https://www.digital-ls.de/en/news/new-partnership-digital-life-sciences-and-amber/",
+    "pass": 3
+   },
+   {
+    "quote": "This partnership reflects our shared commitment to making a lasting difference for life sciences companies by enhancing quality, efficiency and transparency, while ensuring secure, efficient and traceable processes.",
+    "url": "https://www.digital-ls.de/en/news/new-partnership-digital-life-sciences-and-amber/",
+    "pass": 3
+   },
+   {
+    "quote": "Digitally managing SOP training: From document changes to audit-compliant training records",
+    "url": "https://www.digital-ls.de/en/news/new-partnership-digital-life-sciences-and-amber/",
+    "pass": 3
+   },
+   {
+    "quote": "In April 2026, the FDA issued its first warning letter focusing on inappropriate use of AI in cGMP processes. The issues raised concerned AI-generated specifications,",
+    "url": "https://www.digital-ls.de/en/news/new-partnership-digital-life-sciences-and-amber/",
+    "pass": 3
+   },
+   {
+    "quote": "amberSearch is all the central search tool and start page in the browser. amberSearch is an intelligent enterprise search engine to help employees to find all relevant documents easily and quickly by integrating all company internal data sources into one search engine.",
+    "url": "https://www.casestudies.com/company/ambersearch",
+    "pass": 3
+   },
+   {
+    "quote": "Müller Maschinentechnik improves information access and onboarding with amberSearch",
+    "url": "https://www.casestudies.com/company/ambersearch",
+    "pass": 3
+   },
+   {
+    "quote": "Open Telekom Cloud improves knowledge access with amberSearch AI chatbot",
+    "url": "https://www.casestudies.com/company/ambersearch",
+    "pass": 3
+   },
+   {
+    "quote": "RAG achieves faster, smarter enterprise search with amberSearch",
+    "url": "https://www.casestudies.com/company/ambersearch",
+    "pass": 3
+   },
+   {
+    "quote": "Siemens Energy improves enterprise information search with amberSearch",
+    "url": "https://www.casestudies.com/company/ambersearch",
+    "pass": 3
+   },
+   {
+    "quote": "IntraFind develops products and solutions for easy searching, finding, and analyzing of structured and unstructured information across all available data sources of a company. Key aspects are full-text search and …",
+    "url": "https://www.featuredcustomers.com/vendor/ambersearch/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Coveo brings superior AI-Relevance to every point-of-experience, transforming how enterprises connect with their customers and employees to maximize business outcomes. Relevance is about moving from persona to person, the degree …",
+    "url": "https://www.featuredcustomers.com/vendor/ambersearch/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Recognized as a leader in the Gartner Magic Quadrant for Enterprise Search and other analysts' reports, Sinequa provides a cognitive search and analytics platform for Fortune Global 2000 companies and …",
+    "url": "https://www.featuredcustomers.com/vendor/ambersearch/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Let potential prospects find you on the world's only",
+    "url": "https://www.featuredcustomers.com/vendor/ambersearch/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/ambersearch/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "FREE and learn about our upgraded profile options to",
+    "url": "https://www.featuredcustomers.com/vendor/ambersearch/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "unlock all of your customer references for prospects",
+    "url": "https://www.featuredcustomers.com/vendor/ambersearch/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/ambersearch/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Müller Maschinentechnik improves information access and onboarding with amberSearch | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/ambersearch/case-study/muller-maschinentechnik-successfully-centralizes-access-to-know-how-for-employees",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "One model does not carry every use case",
+    "url": "https://amber.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "\"As a consortium of several companies, amber provides centralized access to our data without storing it locally—for example, this allows us to process warranty claims much more quickly.\"",
+    "url": "https://amber.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Your company knows more than your employees can find.",
+    "url": "https://amber.de/en/product/ambersearch/",
+    "pass": 3
+   },
+   {
+    "quote": "Secure the knowledge of your experienced employees and make it accessible to future generations – before it is lost.",
+    "url": "https://amber.de/en/product/ambersearch/",
+    "pass": 3
+   },
+   {
+    "quote": "Employees find information in seconds instead of hours. This means more time for value-adding activities.",
+    "url": "https://amber.de/en/product/ambersearch/",
+    "pass": 3
+   },
+   {
+    "quote": "Search is amber's AI-powered enterprise search. It makes knowledge from distributed sources searchable and usable, helping employees quickly find what they need.",
+    "url": "https://amber.de/en/product/ambersearch/",
+    "pass": 3
+   },
+   {
+    "quote": "amberSearch is all the central search tool and start page in the browser. amberSearch is an intelligent enterprise search engine to help employees to find all relevant documents easily and quickly by integrating all company internal data sources into one search engine.",
+    "url": "https://www.casestudies.com/company/ambersearch",
+    "pass": 3
+   },
+   {
+    "quote": "Coveo brings superior AI-Relevance to every point-of-experience, transforming how enterprises connect with their customers and employees to maximize business outcomes. Relevance is about moving from persona to person, the degree …",
+    "url": "https://www.featuredcustomers.com/vendor/ambersearch/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/ambersearch/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Müller Maschinentechnik successfully centralizes access to know-how for employees",
+    "url": "https://www.casestudies.com/company/ambersearch/case-study/muller-maschinentechnik-successfully-centralizes-access-to-know-how-for-employees",
+    "pass": 3
+   },
+   {
+    "quote": "amber Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/amber-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At amber",
+    "url": "https://prospeo.io/c/amber-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/amber-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/amber-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/amber-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of amber?",
+    "url": "https://prospeo.io/c/amber-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "amber generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/amber-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/amber-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/amber-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does amber have?",
+    "url": "https://prospeo.io/c/amber-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/amber-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does amberSearch have?",
+    "url": "https://fundediq.co/ambersearch-ambersearch-de-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/ambersearch-ambersearch-de-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/ambersearch-ambersearch-de-funding/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "One search across all sources: Drive, Teams, emails, ticketing systems and more.",
+    "url": "https://amber.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/ambersearch/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/ambersearch/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/amber-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Contact details for the amberSearch team: 1 of 1 has an email address on file.",
+    "url": "https://fundediq.co/ambersearch-ambersearch-de-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/ambersearch-ambersearch-de-funding/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "amberSearch | AI search for internal company knowledge — amberSearch makes all company knowledge searchable and usable With hybrid AI search, you’ll find what you need in seconds",
+    "url": "https://amber.de/en/product/ambersearch/",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツのAI-Search企業Ambersearchは、210万ユーロの種子投資を確保し... — Mar 25, 2025 · Ambersearchを使用すると、従業員は、クエリを単一のAI搭載の検索エンジンとチャットインターフェイスに合理化することにより、内部企業のソースからドキュメント、データ、洞察を即座に取得できます。",
+    "url": "https://www3.to/ドイツのai-search企業ambersearchは、210万ユーロの種子投資を確/",
+    "pass": 3
+   },
+   {
+    "quote": "Partnership: Digital Life Sciences and amberSearch — Jul 27, 2026 · DLS and amberSearch partner to deliver secure, EU-GDPR-compliant AI access to company knowledge across regulated life sciences industries.",
+    "url": "https://www.digital-ls.de/en/news/new-partnership-digital-life-sciences-and-amber/",
+    "pass": 3
+   },
+   {
+    "quote": "amberとは？ | 機能や料金、導入事例をご紹介【キャプテラ】 — amberの概要： amberとは？ amberSearchは、自然言語処理、ディープ・ラーニング、コンピュータ・ビジョンを使用して、企業情報を1か所で検索できるインテリジェントなエンタープライズ検索エンジンです。",
+    "url": "https://www.capterra.jp/software/1010957/ambersearch",
+    "pass": 3
+   },
+   {
+    "quote": "amberSearch | AI search for internal company knowledge — Integrate amber’s features into existing apps and workflows through our REST API.",
+    "url": "https://amber.de/en/product/ambersearch/",
+    "pass": 3
+   },
+   {
+    "quote": "ambersearch — Find information in data silos like your server, your intranet, your email inbox or your DMS without having to ask your colleagues for help. With our self-developed AI models, we enable companies to benefit from new technological developments and realise the added value even with limited IT resources.",
+    "url": "https://app.ambersearch.de/?lang=de",
+    "pass": 3
+   },
+   {
+    "quote": "amberとは？ | 機能や料金、導入事例をご紹介【キャプテラ】 — amberSearchは、さまざまな情報サイロを組み合わせて従業員が知識を利用できるようにすることで、企業が全く新しいワークフローを開発することを可能にします。",
+    "url": "https://www.capterra.jp/software/1010957/ambersearch",
+    "pass": 3
+   },
+   {
+    "quote": "amberSearch B2B Case Studies & Customer Successes — See how amberSearch solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/ambersearch",
+    "pass": 3
+   },
+   {
+    "quote": "11 amberSearch Case Studies, Success Stories, & Customer ... — Discover how other companies use amberSearch, get inspired, and find ways to improve your business.",
+    "url": "https://www.featuredcustomers.com/vendor/ambersearch/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Müller Maschinentechnik improves information ... — The vendor amberSearch provided an AI-based tool that enabled staff to find information independently, including multimedia content from various sources. View this case study…",
+    "url": "https://www.casestudies.com/company/ambersearch/case-study/muller-maschinentechnik-successfully-centralizes-access-to-know-how-for-employees",
+    "pass": 3
+   },
+   {
+    "quote": "Amber 2026 Company Profile: Valuation, Funding & Investors ...amberSearch: Funding, Investors & Team (Oct 2026) | FundedIQAmberSearch — venture-backed company profile | DealroomAmberSearch · SVTRamberSearch — investors & funding | gritt.ioamberSearch secures €2.1m from Ventech to accelerate AI ... — Information on valuation, funding, cap tables, investors, and executives for Amber. Use the PitchBo",
+    "url": "https://pitchbook.com/profiles/company/518248-54",
+    "pass": 3
+   },
+   {
+    "quote": "amberSearch: Funding, Investors & Team (Oct 2026) | FundedIQ — amberSearch is an Administrative Services company in Aachen, Germany. Raised $2.3M across 1 round; latest a Seed in Mar 2025. Investors and funding history.",
+    "url": "https://fundediq.co/ambersearch-ambersearch-de-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "AmberSearch — venture-backed company profile | Dealroom — The company offers a variety of connectors and an open API, making it easy for businesses to connect their data sources to the AmberSearch tool. The company generates revenue by charging businesses for the use of their software.",
+    "url": "https://dealroom.co/companies/ambersearch/",
+    "pass": 3
+   },
+   {
+    "quote": "AmberSearch · SVTR — Oct 10, 2026 · AmberSearch, founded in 2021 in Germany, specializes in AI-powered enterprise search engines that help employees quickly retrieve internal company documents and data. Latest funding: Series A, $8M (2026-08), led by Ventech & NRW.Venture.",
+    "url": "https://svtr.ai/orgs/ambersearch?lang=en",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Automation Machinery Manufacturing",
+    "url": "https://www.casestudies.com/company/ambersearch",
+    "pass": 3
+   },
+   {
+    "quote": "Electrical Equipment Manufacturing",
+    "url": "https://www.casestudies.com/company/ambersearch",
+    "pass": 3
+   },
+   {
+    "quote": "Food and Beverage Manufacturing",
+    "url": "https://www.casestudies.com/company/ambersearch",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/ambersearch/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Müller Maschinentechnik improves information access and onboarding with amberSearch | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/ambersearch/case-study/muller-maschinentechnik-successfully-centralizes-access-to-know-how-for-employees",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Müller Maschinentechnik improves information access and onboarding with amberSearch",
+    "url": "https://www.casestudies.com/company/ambersearch/case-study/muller-maschinentechnik-successfully-centralizes-access-to-know-how-for-employees",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/ambersearch/case-study/muller-maschinentechnik-successfully-centralizes-access-to-know-how-for-employees",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/ambersearch/case-study/muller-maschinentechnik-successfully-centralizes-access-to-know-how-for-employees",
+    "pass": 3
+   },
+   {
+    "quote": "One.Five develops AI-powered packaging solutions that support product developers and manufacturers in…",
+    "url": "https://fundediq.co/ambersearch-ambersearch-de-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Ventech (@Ventech_VC) / X There's a €6bn mid-market company software market potential, and @Ambersearch_ is leading the way. amberSearch helps organizations break down data silos and surface expert knowledge through an AI-powered search engine and assistant.",
+    "url": "https://x.com/Ventech_VC",
+    "pass": 3
+   },
+   {
+    "quote": "@ambersearch_ | X The latest posts from @ambersearch_",
+    "url": "https://x.com/ambersearch_",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "amberSearch – AI search for your internal data | LinkedIn amberSearch – AI search for your internal data | Find your answers in seconds – across all internal data sources, even with exponential data growth. - Intelligent, cross-system search - Generated...",
+    "url": "https://sd.linkedin.com/products/amberoad-amberise-intelligent-enterprise-search",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Amber Renee Search (@ambersearch) • Facebook, Connect with ... Amber Renee Search is on Facebook. Join Facebook to connect with Amber Renee Search and others you may know. Facebook gives people the power to share and makes the world more open and connected.",
+    "url": "https://www.facebook.com/ambersearch/photos/",
+    "pass": 3
+   },
+   {
+    "quote": "Amber Search Profiles | Facebook View the profiles of people named Amber Search. Join Facebook to connect with Amber Search and others you may know. Facebook gives people the power to...",
+    "url": "https://www.facebook.com/public/Amber-Search/",
+    "pass": 3
+   },
+   {
+    "quote": "Amber Tech GmbH | Aachen - Facebook Oct 17, 2025 · Daher wird unsere Hauptbrand ab jetzt amber sein. amberSearch wird jedoch als Produktname weiterhin immer zu unserem Kern gehören. Was uns auf dem Team-Offsite besonders beeindruckt hat, waren die vielen Aha-Momente.",
+    "url": "https://www.facebook.com/p/Amber-Tech-GmbH-61578765474347/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://amber.de/en/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://amber.de/en/product/ambersearch/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www3.to/%E3%83%89%E3%82%A4%E3%83%84%E3%81%AEai-search%E4%BC%81%E6%A5%ADambersearch%E3%81%AF%E3%80%81210%E4%B8%87%E3%83%A6%E3%83%BC%E3%83%AD%E3%81%AE%E7%A8%AE%E5%AD%90%E6%8A%95%E8%B3%87%E3%82%92%E7%A2%BA/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.digital-ls.de/en/news/new-partnership-digital-life-sciences-and-amber/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.capterra.jp/software/1010957/ambersearch",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baseconnect.in/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-maker",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000084.000042886.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.digital-ls.de/en/news/new-partnership-digital-life-sciences-and-amber/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amber.de/en/product/ambersearch/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://app.ambersearch.de/?lang=de",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.casestudies.com/company/ambersearch",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amber.de/en/customers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/ambersearch/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/ambersearch/case-study/muller-maschinentechnik-successfully-centralizes-access-to-know-how-for-employees",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prospeo.io/c/amber-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/518248-54",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://fundediq.co/ambersearch-ambersearch-de-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dealroom.co/companies/ambersearch/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Ventech_VC",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://sd.linkedin.com/products/amberoad-amberise-intelligent-enterprise-search",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ambersearch/photos/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/public/Amber-Search/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Amber-Tech-GmbH-61578765474347/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ambersearch_",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Ambersearch 日本 導入",
+   "results": [
+    "https://amber.de/en/product/ambersearch/",
+    "https://www3.to/ドイツのai-search企業ambersearchは、210万ユーロの種子投資を確/",
+    "https://www.digital-ls.de/en/news/new-partnership-digital-life-sciences-and-amber/",
+    "https://www.capterra.jp/software/1010957/ambersearch",
+    "https://prtimes.jp/main/html/rd/p/000000200.000118298.html",
+    "https://jp.linkedin.com/company/ambersearch",
+    "https://www.amber-inc.com/faq"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ambersearch 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://baseconnect.in/",
+    "https://www.indexpro.co.jp/distributor/search-maker",
+    "https://www.aon.com/japan/company-overview",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 6
+  },
+  {
+   "query": "Ambersearch Japan",
+   "results": [
+    "https://prtimes.jp/main/html/rd/p/000000084.000042886.html",
+    "https://www.digital-ls.de/en/news/new-partnership-digital-life-sciences-and-amber/",
+    "https://amber.de/en/product/ambersearch/",
+    "https://app.ambersearch.de/?lang=de",
+    "https://www.capterra.jp/software/1010957/ambersearch",
+    "https://amber.de/en/",
+    "https://www.linkedin.com/company/ambersearch",
+    "https://en.wikipedia.org/wiki/Japanese_amber",
+    "https://en.kuji.co.jp/",
+    "https://en.kuji.co.jp/museum"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Ambersearch manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/ambersearch",
+    "https://amber.de/en/customers/",
+    "https://www.featuredcustomers.com/vendor/ambersearch/case-studies",
+    "https://www.casestudies.com/company/ambersearch/case-study/muller-maschinentechnik-successfully-centralizes-access-to-know-how-for-employees",
+    "https://amber.de/en/product/ambersearch/",
+    "https://www.featuredcustomers.com/vendor/ambersearch",
+    "https://www.ventechvc.com/stories/a-eu6bn-mid-market-intranet-software-market---why-we-invested-in-ambersearch"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ambersearch white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.spectrum.com/",
+    "https://www.upcounsel.com/reseller-agreement"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ambersearch founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/amber-revenue",
+    "https://pitchbook.com/profiles/company/518248-54",
+    "https://fundediq.co/ambersearch-ambersearch-de-funding/",
+    "https://dealroom.co/companies/ambersearch/",
+    "https://svtr.ai/orgs/ambersearch?lang=en",
+    "https://www.gritt.io/company/ambersearch/",
+    "https://www.ventechvc.com/stories/ambersearch-secures-eu2-1m-from-ventech-to-accelerate-ai-adoption-for-smes"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Ambersearch",
+   "results": [
+    "https://note.com/hope__hope/n/n9fe8d14edbb1?hl=en",
+    "https://note.com/seigo77",
+    "https://note.com/tag/禍話リライト",
+    "https://note.com/kentabright/n/nb116f899a6ac",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/torikarafever/n/na1a38be675e6"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Ambersearch",
+   "results": [
+    "https://help.x.com/en/using-x/x-advanced-search",
+    "https://x.com/Ventech_VC",
+    "https://x.com/amber_search",
+    "https://x.com/amber_ac_",
+    "https://help.x.com/en/using-x/x-search",
+    "https://x.com/hashtag/amber_?f=user",
+    "https://x.com/aamber_moore/status/2109459256684519636"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Ambersearch",
+   "results": [
+    "https://www.linkedin.com/company/ambersearch",
+    "https://www.linkedin.com/products/ambersearch/",
+    "https://sd.linkedin.com/products/amberoad-amberise-intelligent-enterprise-search",
+    "https://www.linkedin.com/company/ambersearch/jobs/",
+    "https://www.linkedin.com/company/ambersearch/life",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7310363597673558017",
+    "https://www.linkedin.com/posts/the-big-deal-©_ambersearch-raises-21m-to-scale-ai-powered-activity-7310233917943341057-zT-a"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Ambersearch",
+   "results": [
+    "https://www.facebook.com/ambersearch/photos/",
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/public/Amber-Search/",
+    "https://www.facebook.com/p/Amber-Tech-GmbH-61578765474347/",
+    "https://www.facebook.com/AMETRASecm/",
+    "https://www.facebook.com/AMBERAdvocate/",
+    "https://www.facebook.com/aachen2026.official/videos/youve-got-questions-weve-got-answers-whether-its-about-tickets-programme-travel-/2264551320972319/",
+    "https://www.facebook.com/\u0000jperes88/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Ambersearch note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://amber.de/en/product/ambersearch/",
+    "https://ambernote.jp/",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Ambersearch X 投稿",
+   "results": [
+    "https://x.com/ambersearch_",
+    "https://www.instagram.com/ambersearch_official/",
+    "https://www.instagram.com/ambersearch_official/reels/",
+    "https://x.com/chiroruchoko03/status/2115286685135302901",
+    "https://automaton-media.com/articles/newsjp/20261109-478221/",
+    "https://search.yahoo.co.jp/realtime/search/投稿/",
+    "https://tui.xun.me/",
+    "https://amber.de/en/product/ambersearch/",
+    "https://help.x.com/ja/using-x/edit-post"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 9
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）"
+ }
+}

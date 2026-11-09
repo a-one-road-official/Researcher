@@ -1,0 +1,970 @@
+{
+ "name": "THEKER Robotics",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜リマイン1",
+ "researched_at": "2026-11-09T18:26:15.005047+00:00",
+ "official_url": "https://theker.eu/",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/theker-robotics-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$22,100,000",
+    "url": "https://prospeo.io/c/theker-robotics-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Barcelona, Catalonia, Spain",
+    "url": "https://prospeo.io/c/theker-robotics-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Procurement & Purchasing Specialist",
+    "url": "https://theker.factorial.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Deployment Project Engineer",
+    "url": "https://theker.factorial.com/",
+    "pass": 3
+   },
+   {
+    "quote": "How this Barcelona-born physical AI company is taking on the biggest unsolved problem in industrial automation",
+    "url": "https://cathayinnovation.com/behind-the-term-sheet-theker-robotics-85m-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "Traditional robots are very good at doing the same thing over and over again. The problem is that most factories and warehouses do not work that way.",
+    "url": "https://cathayinnovation.com/behind-the-term-sheet-theker-robotics-85m-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "Products change shape, size, weight and position. Garments crumple. Packages bend or overlap. A human worker adjusts without thinking, while a traditional robot often needs a controlled environment, fixed programming and a narrowly defined task.",
+    "url": "https://cathayinnovation.com/behind-the-term-sheet-theker-robotics-85m-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "The next wave of AI value creation will come from integrated industrial systems that operate in the real world and prove customer ROI fast. The moats being built today live in proprietary data pipelines, domain expertise, deployment infrastructure and customer relationships that generate real-world feedback loops continuously scaling data collection and improving the system.",
+    "url": "https://cathayinnovation.com/behind-the-term-sheet-theker-robotics-85m-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2021 in Barcelona, Theker Robotics is building a full-stack, multi-vertical manipulation robotics platform combining proprietary AI software, electronics, grippers and in-house manufacturing deployed directly to end-customers under a Robot-as-a-Service model. Their mission is ambitious in the most grounded way imaginable: solve 100% of physical work.",
+    "url": "https://cathayinnovation.com/behind-the-term-sheet-theker-robotics-85m-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "Built for production.",
+    "url": "https://cathayinnovation.com/behind-the-term-sheet-theker-robotics-85m-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "Theker does not approach customers through long innovation programs or experimental pilots. The team works directly with operations and logistics leaders, focusing on workflows where the problem is immediate and the value of automation can be clearly measured.",
+    "url": "https://cathayinnovation.com/behind-the-term-sheet-theker-robotics-85m-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "This creates a direct feedback loop between the factory floor and the engineering team. Every deployment exposes the system to new objects, configurations and edge cases, generating data that improves the platform and helps Theker address new workflows faster.",
+    "url": "https://cathayinnovation.com/behind-the-term-sheet-theker-robotics-85m-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "By owning the software, electronics, grippers and manufacturing, Theker can identify precisely where a problem occurs and improve the relevant part of the system. Hardware and software evolve together rather than being developed as separate products.",
+    "url": "https://cathayinnovation.com/behind-the-term-sheet-theker-robotics-85m-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "As the company deploys more systems, that advantage compounds. More robots create more real-world data, which improves performance, expands the range of use cases and makes future deployments faster.",
+    "url": "https://cathayinnovation.com/behind-the-term-sheet-theker-robotics-85m-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "and Jiaqiang Ye Zhu, we have been deeply impressed by their exceptional ambition and visionary obsession to build a category-defining, global winner in robotics.",
+    "url": "https://cathayinnovation.com/behind-the-term-sheet-theker-robotics-85m-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "Theker sits squarely at the center of that thesis, combining real-world production deployments at scale, a generalist architecture that adapts across industries without custom engineering, and a proprietary hardware stack that generates a data moat compounding with every deployment.",
+    "url": "https://cathayinnovation.com/behind-the-term-sheet-theker-robotics-85m-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "In physical AI, the window for establishing a commanding position is open but it will not stay that way indefinitely. The companies that own the deployment data, the customer relationship, and the proprietary hardware stack will be structurally difficult to displace at scale. And that’s exactly what Carla, Jiaqiang, and the Theker team are building at an incredible pace and discipline.",
+    "url": "https://cathayinnovation.com/behind-the-term-sheet-theker-robotics-85m-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "THEKER Robotics 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/597604-06",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/597604-06",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/597604-06",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/597604-06",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/597604-06",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/597604-06",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/597604-06",
+    "pass": 3
+   },
+   {
+    "quote": "THEKER Robotics’s primary industry is Machinery (B2B).",
+    "url": "https://pitchbook.com/profiles/company/597604-06",
+    "pass": 3
+   },
+   {
+    "quote": "Is THEKER Robotics a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/597604-06",
+    "pass": 3
+   },
+   {
+    "quote": "THEKER Robotics is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/597604-06",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/597604-06",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/597604-06",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/597604-06",
+    "pass": 3
+   },
+   {
+    "quote": "View contact profiles from",
+    "url": "https://prospeo.io/c/theker-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "THEKER Robotics has approximately",
+    "url": "https://prospeo.io/c/theker-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/theker-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/theker-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Get Targeted Leads for free",
+    "url": "https://prospeo.io/c/theker-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "The Bitter Lesson of Robotics: It's extremely easy to make a video of a robot doing something once under perfect conditions then post it to X. But it often takes a decade to harden systems and design for all the insane edge cases of the real world. Many companies raising $$$$ on…",
+    "url": "https://note.com/tempura_tech/n/n9a6499b047c1",
+    "pass": 3
+   },
+   {
+    "quote": "The Bitter Lesson of Robotics: It's extremely easy to make a video of a robot doing something once under perfect conditions then post it to X. But it often takes a decade to harden systems and design for all the insane edge cases of the real world. Many companies raising $$$$ on…",
+    "url": "https://note.com/tempura_tech/n/n9a6499b047c1?hl=ko",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Warehouse & Stock Controller",
+    "url": "https://theker.factorial.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial design Engineer",
+    "url": "https://theker.factorial.com/",
+    "pass": 3
+   },
+   {
+    "quote": "How this Barcelona-born physical AI company is taking on the biggest unsolved problem in industrial automation",
+    "url": "https://cathayinnovation.com/behind-the-term-sheet-theker-robotics-85m-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "Traditional robots are very good at doing the same thing over and over again. The problem is that most factories and warehouses do not work that way.",
+    "url": "https://cathayinnovation.com/behind-the-term-sheet-theker-robotics-85m-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "We believe that Theker is positioned to solve for one of the largest remaining challenges in industrial automation: making robots useful when the task, object or environment changes. Here’s what got us invested.",
+    "url": "https://cathayinnovation.com/behind-the-term-sheet-theker-robotics-85m-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "The Market: When Physical AI Meets Industrial Reality.",
+    "url": "https://cathayinnovation.com/behind-the-term-sheet-theker-robotics-85m-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "The next wave of AI value creation will come from integrated industrial systems that operate in the real world and prove customer ROI fast. The moats being built today live in proprietary data pipelines, domain expertise, deployment infrastructure and customer relationships that generate real-world feedback loops continuously scaling data collection and improving the system.",
+    "url": "https://cathayinnovation.com/behind-the-term-sheet-theker-robotics-85m-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2021 in Barcelona, Theker Robotics is building a full-stack, multi-vertical manipulation robotics platform combining proprietary AI software, electronics, grippers and in-house manufacturing deployed directly to end-customers under a Robot-as-a-Service model. Their mission is ambitious in the most grounded way imaginable: solve 100% of physical work.",
+    "url": "https://cathayinnovation.com/behind-the-term-sheet-theker-robotics-85m-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "The company’s systems are already operating in live industrial environments. Theker can move from identifying a use case to deployment in days or weeks, rather than the long installation cycles typically associated with industrial robotics.",
+    "url": "https://cathayinnovation.com/behind-the-term-sheet-theker-robotics-85m-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "This creates a direct feedback loop between the factory floor and the engineering team. Every deployment exposes the system to new objects, configurations and edge cases, generating data that improves the platform and helps Theker address new workflows faster.",
+    "url": "https://cathayinnovation.com/behind-the-term-sheet-theker-robotics-85m-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "By owning the software, electronics, grippers and manufacturing, Theker can identify precisely where a problem occurs and improve the relevant part of the system. Hardware and software evolve together rather than being developed as separate products.",
+    "url": "https://cathayinnovation.com/behind-the-term-sheet-theker-robotics-85m-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "THEKER is revolutionizing industrial robotics through their AI-powered technology, and has just announced a $21m round led by us!",
+    "url": "https://note.com/tempura_tech/n/n9a6499b047c1",
+    "pass": 3
+   },
+   {
+    "quote": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+    "url": "https://note.com/tempura_tech/n/n9a6499b047c1",
+    "pass": 3
+   },
+   {
+    "quote": "THEKER is revolutionizing industrial robotics through their AI-powered technology, and has just announced a $21m round led by us!",
+    "url": "https://note.com/tempura_tech/n/n9a6499b047c1?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+    "url": "https://note.com/tempura_tech/n/n9a6499b047c1?hl=ko",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "THEKER Robotics - LinkedIn — THEKER Robotics is a company specialized in robotics, deep learning, and computer vision. It has the capability to design, manufacture, and comprehensively market all types of autonomous...",
+    "url": "https://www.linkedin.com/company/theker",
+    "pass": 3
+   },
+   {
+    "quote": "THEKER ROBOTICS SL - Job offers, offices and team — Check out all the job offers at THEKER ROBOTICS SL. Get to know the team, see our offices, learn about our values, and discover the benefits of working at THEKER ROBOTICS SL.",
+    "url": "https://theker.factorial.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Theker Robotics - Forbes — Apr 14, 2026 · Theker's approach combines in-house software with robotics arms that can see, adapt and operate across different production lines without needing to be rebuilt for each task.",
+    "url": "https://www.forbes.com/profile/theker-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Behind the Term Sheet: Theker Robotics’ $85M Series A — Jun 24, 2026 · Enter Theker. Founded in 2021 in Barcelona, Theker Robotics is building a full-stack, multi-vertical manipulation robotics platform combining proprietary AI software, electronics, grippers and in-house manufacturing deployed directly to end-customers under a Robot-as-a-Service model.",
+    "url": "https://cathayinnovation.com/behind-the-term-sheet-theker-robotics-85m-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "THEKER Robotics 2026 Company Profile: Valuation, Funding ... — Information on valuation, funding, cap tables, investors, and executives for THEKER Robotics. Use the PitchBook Platform to explore the full profile.",
+    "url": "https://pitchbook.com/profiles/company/597604-06",
+    "pass": 3
+   },
+   {
+    "quote": "TheKer - 2026 Company Profile, Team, Funding & Competitors ...THEKER Robotics Revenue, Funding & Valuation - prospeo.ioTHEKER Robotics — Company Profile, Funding & InvestorsTheker Funding History: $106.0M | Indexed.vcTHEKER Robotics: Funding, Investors & Team (Sep 2026)THEKER Robotics - Crunchbase Company Profile & Funding — Aug 19, 2026 · TheKer - About the company TheKer is a seed company based ",
+    "url": "https://tracxn.com/d/companies/theker/__74PkMeRB6zMmocP-KsD0SCIJ8XorEx9iiER6Us27LD8",
+    "pass": 3
+   },
+   {
+    "quote": "THEKER Robotics Revenue, Funding & Valuation - prospeo.io — THEKER Robotics is a company specialized in robotics, deep learning, and computer vision. It has the capability to design, manufacture, and comprehensively market all types of autonomous machines or robots for process automation within the industrial sector.",
+    "url": "https://prospeo.io/c/theker-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "THEKER Robotics — Company Profile, Funding & Investors — THEKER Robotics company profile with $21.15M raised across 2 funding rounds, HQ in Barcelona, Spain, founded 2022. Explore its acquisitions, funding rounds, investors, key people and contacts on Acquirezy — updated 2026.",
+    "url": "https://acquirezy.com/organization/theker-robotics-1174323",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Products change shape, size, weight and position. Garments crumple. Packages bend or overlap. A human worker adjusts without thinking, while a traditional robot often needs a controlled environment, fixed programming and a narrowly defined task.",
+    "url": "https://cathayinnovation.com/behind-the-term-sheet-theker-robotics-85m-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "By owning the software, electronics, grippers and manufacturing, Theker can identify precisely where a problem occurs and improve the relevant part of the system. Hardware and software evolve together rather than being developed as separate products.",
+    "url": "https://cathayinnovation.com/behind-the-term-sheet-theker-robotics-85m-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "We could not be more excited to be part of the journey.",
+    "url": "https://cathayinnovation.com/behind-the-term-sheet-theker-robotics-85m-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "Carrer de la Llacuna, Number 162",
+    "url": "https://pitchbook.com/profiles/company/597604-06",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/597604-06",
+    "pass": 3
+   },
+   {
+    "quote": "THEKER Robotics has 38 total employees.",
+    "url": "https://pitchbook.com/profiles/company/597604-06",
+    "pass": 3
+   },
+   {
+    "quote": "What is THEKER Robotics’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/597604-06",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for THEKER Robotics is",
+    "url": "https://pitchbook.com/profiles/company/597604-06",
+    "pass": 3
+   },
+   {
+    "quote": "THEKER Robotics Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/theker-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "THEKER Robotics Revenue",
+    "url": "https://prospeo.io/c/theker-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At THEKER Robotics",
+    "url": "https://prospeo.io/c/theker-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/theker-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/theker-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/theker-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of THEKER Robotics?",
+    "url": "https://prospeo.io/c/theker-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "THEKER Robotics generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/theker-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/theker-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/theker-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does THEKER Robotics have?",
+    "url": "https://prospeo.io/c/theker-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/theker-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.linkedin.com/posts/marta-mateu-vilalta-2b19b041_mango-colabora-con-theker-para-desarrollar-activity-7488509545741295617-eUUz",
+    "url": "https://note.com/tempura_tech/n/n9a6499b047c1",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.linkedin.com/posts/marta-mateu-vilalta-2b19b041_mango-colabora-con-theker-para-desarrollar-activity-7488509545741295617-eUUz",
+    "url": "https://note.com/tempura_tech/n/n9a6499b047c1?hl=ko",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/597604-06",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/theker-robotics-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "人型にこだわらない再構成可能ロボット──Thekerが狙う柔軟自動化 バルセロナのTHEKER Roboticsは2026年6月、8,500万ドルのシリーズAを発表しました。 同社が掲げるのは、人型を前提にせず、手先、腕、全体形状を作業に合わせて組み替えるAI-native generalist robotです。",
+    "url": "https://note.com/tempura_tech/n/n9a6499b047c1",
+    "pass": 3
+   },
+   {
+    "quote": "인간형에 집착하지 않는 재구성 가능한 로봇──Theker가 노리는 유연한... 바르셀로나의 THEKER Robotics는 2026년 6월, 8,500만 달러 규모의 시리즈 A 투자를 발표했습니다. 이 회사가 내세우는 것은 인간형을 전제로 하지 않고, 손끝, 팔, 전체 형상을 작업에 맞춰 재조합하는 AI 네이티브 범용 로봇 (AI-native generalist robot)입니다.",
+    "url": "https://note.com/tempura_tech/n/n9a6499b047c1?hl=ko",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "人型にこだわらない再構成可能ロボット──Thekerが狙う柔軟自動化｜Tempura technologies株式会社",
+    "url": "https://note.com/tempura_tech/n/n9a6499b047c1",
+    "pass": 3
+   },
+   {
+    "quote": "Tempura technologies株式会社",
+    "url": "https://note.com/tempura_tech/n/n9a6499b047c1",
+    "pass": 3
+   },
+   {
+    "quote": "인간형에 집착하지 않는 재구성 가능한 로봇──Theker가 노리는 유연한 자동화｜Tempura technologies株式会社",
+    "url": "https://note.com/tempura_tech/n/n9a6499b047c1?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "Tempura technologies株式会社",
+    "url": "https://note.com/tempura_tech/n/n9a6499b047c1?hl=ko",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "人型にこだわらない再構成可能ロボット──Thekerが狙う柔軟自動化｜Tempura technologies株式会社",
+    "url": "https://note.com/tempura_tech/n/n9a6499b047c1",
+    "pass": 3
+   },
+   {
+    "quote": "人型にこだわらない再構成可能ロボット──Thekerが狙う柔軟自動化",
+    "url": "https://note.com/tempura_tech/n/n9a6499b047c1",
+    "pass": 3
+   },
+   {
+    "quote": "Tempura technologies株式会社",
+    "url": "https://note.com/tempura_tech/n/n9a6499b047c1",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせやご依頼のある方は以下のフォームからお願い致します。",
+    "url": "https://note.com/tempura_tech/n/n9a6499b047c1",
+    "pass": 3
+   },
+   {
+    "quote": "工場ロボットの競争軸が、「一つの作業をどれだけ速く反復できるか」から、「製品や荷姿、工程の変化にどれだけ短時間で追随できるか」へ広がりつつあります。バルセロナのTHEKER Roboticsは2026年6月、8,500万ドルのシリーズAを発表しました。同社が掲げるのは、人型を前提にせず、手先、腕、全体形状を作業に合わせて組み替えるAI-native generalist robotです。",
+    "url": "https://note.com/tempura_tech/n/n9a6499b047c1",
+    "pass": 3
+   },
+   {
+    "quote": "注目すべきなのは「何でもできる」という言葉の強さではありません。現場では、SKUの追加、包装材の変更、箱の向きのばらつき、繁忙期の物量変動が日常的に起きます。そのたびに専用設備を作り直したり、長い再ティーチングを行ったりするコストを減らせるなら、従来は自動化の採算が合わなかった工程にも対象が広がります。一方、資金調達額やデモ映像だけでは、安定稼働、保守負荷、投資回収は判断できません。",
+    "url": "https://note.com/tempura_tech/n/n9a6499b047c1",
+    "pass": 3
+   },
+   {
+    "quote": "・THEKERの発表は、柔軟な産業用ロボットへ資本と顧客の関心が集まっていることを示します。",
+    "url": "https://note.com/tempura_tech/n/n9a6499b047c1",
+    "pass": 3
+   },
+   {
+    "quote": "・汎用性は抽象的な能力ではなく、現場の変化へ対応できるかで評価します。",
+    "url": "https://note.com/tempura_tech/n/n9a6499b047c1",
+    "pass": 3
+   },
+   {
+    "quote": "인간형에 집착하지 않는 재구성 가능한 로봇──Theker가 노리는 유연한 자동화｜Tempura technologies株式会社",
+    "url": "https://note.com/tempura_tech/n/n9a6499b047c1?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "인간형에 집착하지 않는 재구성 가능한 로봇──Theker가 노리는 유연한 자동화",
+    "url": "https://note.com/tempura_tech/n/n9a6499b047c1?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "Tempura technologies株式会社",
+    "url": "https://note.com/tempura_tech/n/n9a6499b047c1?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "문의나 의뢰가 있으신 분은 아래 양식을 통해 부탁드립니다.",
+    "url": "https://note.com/tempura_tech/n/n9a6499b047c1?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "공장 로봇의 경쟁 축이 '하나의 작업을 얼마나 빠르게 반복할 수 있는가'에서 '제품이나 포장 형태, 공정의 변화에 얼마나 단시간에 대응할 수 있는가'로 넓어지고 있습니다. 바르셀로나의 THEKER Robotics는 2026년 6월, 8,500만 달러 규모의 시리즈 A 투자를 발표했습니다. 이 회사가 내세우는 것은 인간형을 전제로 하지 않고, 손끝, 팔, 전체 형상을 작업에 맞춰 재조합하는 AI 네이티브 범용 로봇(AI-native generalist robot)입니다.",
+    "url": "https://note.com/tempura_tech/n/n9a6499b047c1?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "주목해야 할 점은 '무엇이든 할 수 있다'는 말의 강함이 아닙니다. 현장에서는 SKU 추가, 포장재 변경, 상자 방향의 불균일, 성수기 물량 변동이 일상적으로 일어납니다. 그때마다 전용 설비를 다시 만들거나 긴 재티칭을 수행하는 비용을 줄일 수 있다면, 기존에는 자동화 채산성이 맞지 않았던 공정으로도 대상이 확대됩니다. 한편, 자금 조달액이나 데모 영상만으로는 안정적인 가동, 유지보수 부하, 투자 회수를 판단할 수 없습니다.",
+    "url": "https://note.com/tempura_tech/n/n9a6499b047c1?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "·THEKER의 발표는 유연한 산업용 로봇으로 자본과 고객의 관심이 모이고 있음을 보여줍니다.",
+    "url": "https://note.com/tempura_tech/n/n9a6499b047c1?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "·범용성은 추상적인 능력이 아니라 현장의 변화에 대응할 수 있는지를 기준으로 평가합니다.",
+    "url": "https://note.com/tempura_tech/n/n9a6499b047c1?hl=ko",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "THEKER Robotics (@THEKER_ai) / X THEKER builds AI-native generalist robots that operate inside real industrial production environments. Solving 100% of physical work.",
+    "url": "https://x.com/THEKER_ai",
+    "pass": 3
+   },
+   {
+    "quote": "Replies by THEKER Robotics (@THEKER_ai) / X THEKER builds AI-native generalist robots that operate inside real industrial production environments. Solving 100% of physical work.",
+    "url": "https://x.com/THEKER_ai/with_replies",
+    "pass": 3
+   },
+   {
+    "quote": "THEKER Robotics on X: \"We just raised $85M, Europe's largest ... Jun 11, 2026 · They met as engineers at UPC, started the university's robotics club, and competed and won at an international level. Years later, that obsession became THEKER: a company built from Barcelona to be the largest in the world, and to crack the technical problems other people call impossible.",
+    "url": "https://x.com/theker_ai/status/2065086814289809566",
+    "pass": 3
+   },
+   {
+    "quote": "BREAKING: THEKER Robotics just raised $85 million in the ... Jun 11, 2026 · @THEKER_ai makes AI-native generalist robots for industrial production, robots that deploy in days, adapt in real time to changing environments, mixed SKUs and irregular shapes, and continuously learn in production without manual reprogramming.",
+    "url": "https://x.com/lukas_m_ziegler/status/2065134892069884081",
+    "pass": 3
+   },
+   {
+    "quote": "THEKER Robotics (@THEKER_ai) / X Our robots are already operating inside @Mango 's logistics chain 🦾 We started THEKER with a simple idea: build intelligent robots that adapt to real environments, not the other way around.",
+    "url": "https://x.com/THEKER_ai",
+    "pass": 3
+   },
+   {
+    "quote": "Replies by THEKER Robotics (@THEKER_ai) / X - x.com THEKER builds AI-native generalist robots that operate inside real industrial production environments. Solving 100% of physical work.",
+    "url": "https://x.com/THEKER_ai/with_replies",
+    "pass": 3
+   },
+   {
+    "quote": "Post by THEKER Robotics on X: Join us: THEKER Robotics (@THEKER_ai). 8 likes. Join us:",
+    "url": "https://x.com/THEKER_ai/status/2065086816210845923",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "FashionUnited - Inditex invests in AI-powered robotics ... Jul 15, 2025 · Inditex invests in AI-powered robotics start-up Theker Robotics. The board approves 2024 accounts and celebrates Zara's 50th anniversary. Growth and......",
+    "url": "https://www.facebook.com/FashionUnited/posts/inditex-invests-in-ai-powered-robotics-start-up-theker-robotics-the-board-approv/1264538605681370/",
+    "pass": 3
+   },
+   {
+    "quote": "TIN NÓNG: THEKER Robotics vừa huy... - Trạm sạc kỹ sư 4.0 ... THEKER Robotics được thành lập bởi Carla Gómez Cano và Jiaqiang Ye Zhu, hai kỹ sư robotics và AI, những người đã từ chối lời mời làm việc từ Meta và ServiceNow để xây dựng công ty của riêng mình tại Barcelona.",
+    "url": "https://www.facebook.com/tramsackysu/posts/tin-nóng-theker-robotics-vừa-huy-động-thành-công-85-triệu-usd-trong-vòng-series-/122179611062908664/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.theker.ai/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.theker.ai/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/theker",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://theker.factorial.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://robotstart.info/article/2026/10/09/382506.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ifr.org/case-studies/industry-robots-case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cathayinnovation.com/behind-the-term-sheet-theker-robotics-85m-series-a/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techbuzz.ai/articles/theker-lands-85m-for-reconfigurable-factory-robots",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/597604-06",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/theker/__74PkMeRB6zMmocP-KsD0SCIJ8XorEx9iiER6Us27LD8",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://prospeo.io/c/theker-robotics-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://acquirezy.com/organization/theker-robotics-1174323",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tempura_tech/n/n9a6499b047c1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tempura_tech/n/n9a6499b047c1?hl=ko",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/THEKER_ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/THEKER_ai/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/theker_ai/status/2065086814289809566",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/lukas_m_ziegler/status/2065134892069884081",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/FashionUnited/posts/inditex-invests-in-ai-powered-robotics-start-up-theker-robotics-the-board-approv/1264538605681370/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tramsackysu/posts/tin-nóng-theker-robotics-vừa-huy-động-thành-công-85-triệu-usd-trong-vòng-series-/122179611062908664/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/THEKER_ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/THEKER_ai/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/THEKER_ai/status/2065086816210845923",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "THEKER Robotics 日本 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "THEKER Robotics 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.theker.ai/careers",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.theker.ai/",
+    "https://www.dell.com/ja-jp/blog/837894/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "THEKER Robotics Japan",
+   "results": [
+    "https://www.linkedin.com/company/theker",
+    "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+    "https://theker.factorial.com/",
+    "https://robotstart.info/article/2026/10/09/382506.html",
+    "https://www.forbes.com/profile/theker-robotics/",
+    "https://www.theker.ai/",
+    "https://www.thinker-robotics.co.jp/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "THEKER Robotics manufacturing customer case study",
+   "results": [
+    "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+    "https://ifr.org/case-studies/industry-robots-case-studies",
+    "https://cathayinnovation.com/behind-the-term-sheet-theker-robotics-85m-series-a/",
+    "https://www.techbuzz.ai/articles/theker-lands-85m-for-reconfigurable-factory-robots",
+    "https://robottoday.com/industry-briefing/theker-just-raised-85m-to-build-the-factory-robot-that-doesn-t-specialize-in-anything/5758",
+    "https://tscfo.com/en/success-stories-thecker/",
+    "https://www.theker.ai/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "THEKER Robotics white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://learn.g2.com/what-is-a-partner-program",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.verkada.com/partners/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partner.vw.com/partner",
+    "https://www.upcounsel.com/reseller-agreement"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "THEKER Robotics founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/597604-06",
+    "https://tracxn.com/d/companies/theker/__74PkMeRB6zMmocP-KsD0SCIJ8XorEx9iiER6Us27LD8",
+    "https://prospeo.io/c/theker-robotics-revenue",
+    "https://acquirezy.com/organization/theker-robotics-1174323",
+    "https://indexed.vc/companies/theker",
+    "https://fundediq.co/theker-robotics-theker-ai-funding/",
+    "https://www.crunchbase.com/organization/theker-robotics"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com THEKER Robotics",
+   "results": [
+    "https://note.com/tempura_tech/n/n9a6499b047c1",
+    "https://note.com/tempura_tech/n/n9a6499b047c1?hl=ko",
+    "https://note.com/se_maruo/n/ncdd0bcb0b180?hl=en",
+    "https://note.com/se_maruo/n/ncdd0bcb0b180",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/nosuke0607/n/n09d02c47e173"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com THEKER Robotics",
+   "results": [
+    "https://x.com/THEKER_ai",
+    "https://x.com/THEKER_ai/with_replies",
+    "https://x.com/theker_ai/status/2065086814289809566",
+    "https://x.com/lukas_m_ziegler/status/2065134892069884081",
+    "https://x.com/IvanLandabaso/status/2065461924838383956",
+    "https://x.com/roboticomarket/status/2065735952753176662",
+    "https://x.com/Jbosch_/status/2065356611313385895"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com THEKER Robotics",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com THEKER Robotics",
+   "results": [
+    "https://www.facebook.com/Techmeme/posts/barcelona-based-theker-which-is-building-ai-powered-robots-for-industrial-enviro/1443879677774342/",
+    "https://www.facebook.com/FashionUnited/posts/inditex-invests-in-ai-powered-robotics-start-up-theker-robotics-the-board-approv/1264538605681370/",
+    "https://www.facebook.com/tramsackysu/posts/tin-nóng-theker-robotics-vừa-huy-động-thành-công-85-triệu-usd-trong-vòng-series-/122179611062908664/",
+    "https://www.facebook.com/p/Ely-Ely-61589927780668/",
+    "https://www.facebook.com/p/Eliz-Grand-61589559155253/",
+    "https://www.facebook.com/p/Eli-Granda-61589462289299/",
+    "https://www.facebook.com/tramsackysu/photos/tin-nóng-theker-robotics-vừa-huy-động-thành-công-85-triệu-usd-trong-vòng-series-/122179611008908664/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "THEKER Robotics note 社長",
+   "results": [
+    "https://www.f6s.com/member/jiaqiang-ye-zhu",
+    "https://pitchbook.com/profiles/company/597604-06",
+    "https://www.theofficialboard.com/biography/carla-gomez-cano-g2402",
+    "https://www.elmundo.es/economia/empresas/2026/06/11/6a2a9992fdddff51348b45ab.html",
+    "https://www.theker.ai/",
+    "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+    "https://tracxn.com/d/companies/theker/__74PkMeRB6zMmocP-KsD0SCIJ8XorEx9iiER6Us27LD8"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "THEKER Robotics X 投稿",
+   "results": [
+    "https://x.com/THEKER_ai",
+    "https://x.com/THEKER_ai/with_replies",
+    "https://www.theker.ai/",
+    "https://x.com/THEKER_ai/status/2065086816210845923",
+    "https://x.com/theker_ai/status/2065086814289809566",
+    "https://whatships.com/videos/theker/",
+    "https://doomers.ai/launches/theker-robotics"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）"
+ }
+}

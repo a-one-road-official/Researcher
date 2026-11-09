@@ -1,0 +1,1022 @@
+{
+ "name": "Tenyks",
+ "aliases": [],
+ "context": "旧営業リスト｜Education / Childcare｜AUMS不適合",
+ "researched_at": "2026-11-09T18:05:29.682383+00:00",
+ "official_url": "https://tenyks.ai/",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/tenyks-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$6,800,000",
+    "url": "https://prospeo.io/c/tenyks-revenue",
+    "pass": 3
+   },
+   {
+    "label": "3. Seed Round",
+    "value": "01-Sep-2021    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/469984-24",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Eagle Labs, 28 Chesterton Road,, Cambridge, CB4 3AZ, GB",
+    "url": "https://prospeo.io/c/tenyks-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2019",
+    "url": "https://prospeo.io/c/tenyks-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Tenyks Visual Intelligence - Video AI Agents for Operational Excellence",
+    "url": "https://www.tenyks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Sorry, your browser doesn't support embedded videos.",
+    "url": "https://www.tenyks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "El Browser que estás usando no aguanta video. Usa Brave o alguno otro.",
+    "url": "https://www.tenyks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Predict busy periods and product demand using AI, so you're always prepared",
+    "url": "https://www.tenyks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"We improved speed of service and order accuracy in a week.\"",
+    "url": "https://www.tenyks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Onboarding is now a breeze — new hires get up to speed so fast.\"",
+    "url": "https://www.tenyks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Tenyks made onboarding new staff so much smoother.\"",
+    "url": "https://www.tenyks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Solved our recurring problem with slow drive-thru orders.\"",
+    "url": "https://www.tenyks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Operations have never felt this dialed-in and future-proof.\"",
+    "url": "https://www.tenyks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "What about data privacy & security?",
+    "url": "https://www.tenyks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Tenyks Visual Intelligence - Video AI Agents for Operational Excellence",
+    "url": "https://www.tenyks.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "We love constructive conflict and regular feedback because obstacles make us stronger and better problem solvers",
+    "url": "https://www.tenyks.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "We started Tenyks to invent the way humanity interacts with AI to protect the world from its misuse while ensuring that it’s developed with passion, excitement, and joy!",
+    "url": "https://www.tenyks.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "At Tenyks we set our goals ridiculously high and stick together to push further than anything previously imaginable. We start small, work hard, and deliver fast; embracing obstacles with open hearts because challenges fuel our burning desire for learning.",
+    "url": "https://www.tenyks.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "We're driven by a relentless pursuit of excellence, to outperform our prior best and a drive to achieve the highest standards",
+    "url": "https://www.tenyks.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Our hacker mindset encourages us to achieve the impossible, make the unimaginable a reality, and do more with less by taking unconventional approaches to problems",
+    "url": "https://www.tenyks.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Built with a blend of PhD research and Industry-grade engineering so that ML Engineers can produce their best work",
+    "url": "https://www.tenyks.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Nominated for GenAI category for most promising startups in the GenAI space",
+    "url": "https://www.tenyks.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Nominated by CBInsights as a critical vendor helping enterprises build and deploy AI in an ethical and legal manner",
+    "url": "https://www.tenyks.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Built with a blend of PhD research and Industry-grade engineering so that ML engineers can produce their best work",
+    "url": "https://www.tenyks.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "A franchisee of a leading QSR brand specialising in burgers and sandwiches faced challenges during peak periods: long queues in-store and at the drive-thru, inconsistent service times, and inefficient staff deployment. These operational bottlenecks slowed throughput, reduced customer satisfaction, and constrained profitability.",
+    "url": "https://www.tenyks.ai/case-study/qsr",
+    "pass": 1
+   },
+   {
+    "quote": "Without the resources to hire a professional consultant team, the franchisee was able to optimise throughput, labour allocation, and service accuracy. They achieved this by leveraging existing camera infrastructure. Tenyks Visual Intelligence delivered real-time queue insights, staff-movement analytics, and proactive alerts.",
+    "url": "https://www.tenyks.ai/case-study/qsr",
+    "pass": 1
+   },
+   {
+    "quote": "The result: a 4.8% boost in revenue and a 2% increase in profitability, as well as faster lines and more engaged staff.",
+    "url": "https://www.tenyks.ai/case-study/qsr",
+    "pass": 1
+   },
+   {
+    "quote": "With real-time queue monitoring, spaghetti charts of staff movement, and proactive alerts, the QSR pilot reduced bottlenecks and redeployed staff more effectively.",
+    "url": "https://www.tenyks.ai/case-study/qsr",
+    "pass": 1
+   },
+   {
+    "quote": "Alerts prompted managers to open another till or assign staff as a bagger when queues spiked, preventing walk-offs and abandoned orders.",
+    "url": "https://www.tenyks.ai/case-study/qsr",
+    "pass": 1
+   },
+   {
+    "quote": "Enabled rebalancing of labour across prep, cookline, and service stations, cutting idle and wasted walking time and increasing throughput.",
+    "url": "https://www.tenyks.ai/case-study/qsr",
+    "pass": 1
+   },
+   {
+    "quote": "Achieved 2% labour cost savings ($32,400 per store annually), with total projected annual savings of $324,000 across the portfolio locations.",
+    "url": "https://www.tenyks.ai/case-study/qsr",
+    "pass": 1
+   },
+   {
+    "quote": "No new hardware was required. The Visual AI platform integrated seamlessly with the chain’s existing camera systems, turning ordinary video feeds into a source of operational intelligence.",
+    "url": "https://www.tenyks.ai/case-study/qsr",
+    "pass": 1
+   },
+   {
+    "quote": "The system provided real-time alerts whenever queues spiked, prompting managers to open another till or deploy staff as baggers. Bottlenecks were flagged instantly, enabling proactive intervention.",
+    "url": "https://www.tenyks.ai/case-study/qsr",
+    "pass": 1
+   },
+   {
+    "quote": "“Tenyks is the one-stop shop, bringing everything together to allow operators who are not physically present to get data. Insights that help me serve guests better, faster, and in a way that makes them loyal. This is really appealing to any franchisee who uses numbers and statistics to run their restaurant business.”",
+    "url": "https://www.tenyks.ai/case-study/qsr",
+    "pass": 1
+   },
+   {
+    "quote": "“We have all that data, drive-thru, front-of-house, back-of-house insights —all in one spot, you can actually start making some really good business decisions proactively versus reactively.”",
+    "url": "https://www.tenyks.ai/case-study/qsr",
+    "pass": 1
+   },
+   {
+    "quote": "“We have total situational awareness, connecting the customer experience to employee efficiency, to measure and improve operational performance”",
+    "url": "https://www.tenyks.ai/case-study/qsr",
+    "pass": 1
+   },
+   {
+    "quote": "Tenyks Visual Intelligence - Video AI Agents for Operational Excellence",
+    "url": "https://www.tenyks.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "White glove onboarding",
+    "url": "https://www.tenyks.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "2 months of bi-weekly 1h virtual training sessions",
+    "url": "https://www.tenyks.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "3 months of bi-weekly 1h virtual training sessions",
+    "url": "https://www.tenyks.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "On-demand training sessions",
+    "url": "https://www.tenyks.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Dedicated success manager and Priority Support",
+    "url": "https://www.tenyks.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Dedicated Support Team and Premium SLA",
+    "url": "https://www.tenyks.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Prioritise New Features and Product Improvements",
+    "url": "https://www.tenyks.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "1h virtual training session",
+    "url": "https://www.tenyks.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "On-prem install (dockerised)",
+    "url": "https://www.tenyks.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Drag & Drop Model Predictions in Common Formats",
+    "url": "https://www.tenyks.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "White-glove Onboarding",
+    "url": "https://www.tenyks.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Priority Support, Dedicated Success Manager",
+    "url": "https://www.tenyks.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "White-glove Onboarding, Tailored Training",
+    "url": "https://www.tenyks.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How does your per camera pricing model work?",
+    "url": "https://www.tenyks.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "VideoGPT方式の自然言語クエリにより、数万時間の映像から特定の出来事を即座に検索し、800種類以上の活動タイプを手動学習なしで追跡します",
+    "url": "https://ainiche.net/ja/tools/tenyks",
+    "pass": 3
+   },
+   {
+    "quote": "自然言語ベースのVideoGPT映像検索およびQ&A",
+    "url": "https://ainiche.net/ja/tools/tenyks",
+    "pass": 3
+   },
+   {
+    "quote": "・マルチモーダル・ビジョン言語モデル（VLM）と空間コンピューティング: 動画の要約、自然言語による検索・質問応答（GPT for Video）に加え、物体追跡、動作認識、滞在時間測定を組み合わせた高度な映像解析を行う",
+    "url": "https://www.firstcvc.jp/global/tenyks.ai",
+    "pass": 3
+   },
+   {
+    "quote": "・対象市場の定義と規模・成長率: AIを活用したビデオ分析（Video Analytics）市場および外食（QSR）産業市場",
+    "url": "https://www.firstcvc.jp/global/tenyks.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Forbes 30 Under 30, former Director of Sponsorship for Cambridge University Entrepreneurs",
+    "url": "https://startuply.vc/article/tenyks-explainable-ai-convinces-the-factory-safety-camera-to-talk-i61ezk",
+    "pass": 3
+   },
+   {
+    "quote": "AI-driven research and reporting on private companies. Every page is",
+    "url": "https://startuply.vc/article/tenyks-explainable-ai-convinces-the-factory-safety-camera-to-talk-i61ezk",
+    "pass": 3
+   },
+   {
+    "quote": "Customers evaluate the quality of Tenyks’s products using the following success metrics.",
+    "url": "https://www.cbinsights.com/company/tenyks/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Quality of Delivery: Improvement in model performance by 5%-10%",
+    "url": "https://www.cbinsights.com/company/tenyks/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Improved Customer Satisfaction: Our customers receive a service of higher quality and reduction in operational costs",
+    "url": "https://www.cbinsights.com/company/tenyks/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Voxel51 provides services including data curation, annotation, and model evaluation. It serves sectors that require visual data analysis, including agriculture, autonomous systems, defense, healthcare, manufacturing, retail, robotics, and security. It was founded in 2018 and is based in Ann Arbor, Michigan.",
+    "url": "https://www.cbinsights.com/company/tenyks/customers",
+    "pass": 3
+   },
+   {
+    "quote": "permits us to improve and customize your experience. You can read more about your",
+    "url": "https://www.cbinsights.com/company/tenyks/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Data Quality, Explainable Ai, Mlops, Model Monitoring, Ml Versioning, Model Improvement",
+    "url": "https://prospeo.io/c/tenyks-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Tenyks is a Cambridge University spin-out and Y Combinator (S21) alum pioneering the future of operational intelligence through video. Founded in 2021, Tenyks began as a visual debugging platform for AI researchers before making a bold pivot to focus on the largest untapped data source in enterprise: video.",
+    "url": "https://prospeo.io/c/tenyks-revenue",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Join the growing community of restaurant operators who've transformed their operations",
+    "url": "https://www.tenyks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“Tenyks is the one-stop shop, bringing everything together to allow operators who are not physically present to get data. Insights that help me serve guests better, faster, and in a way that makes them loyal. This is really appealing to any franchisee who uses numbers and statistics to run their restaurant business.”",
+    "url": "https://www.tenyks.ai/case-study/qsr",
+    "pass": 1
+   },
+   {
+    "quote": "Tenyks' Explainable AI Convinces the Factory Safety Camera to Talk | Startuply",
+    "url": "https://startuply.vc/article/tenyks-explainable-ai-convinces-the-factory-safety-camera-to-talk-i61ezk",
+    "pass": 3
+   },
+   {
+    "quote": "Tenyks' Explainable AI Convinces the Factory Safety Camera to Talk",
+    "url": "https://startuply.vc/article/tenyks-explainable-ai-convinces-the-factory-safety-camera-to-talk-i61ezk",
+    "pass": 3
+   },
+   {
+    "quote": "The Cambridge spinout's visual intelligence platform, built on PhD research, is shifting from developer tools to operational agents for retail and industrial customers.",
+    "url": "https://startuply.vc/article/tenyks-explainable-ai-convinces-the-factory-safety-camera-to-talk-i61ezk",
+    "pass": 3
+   },
+   {
+    "quote": "Voxel51 provides services including data curation, annotation, and model evaluation. It serves sectors that require visual data analysis, including agriculture, autonomous systems, defense, healthcare, manufacturing, retail, robotics, and security. It was founded in 2018 and is based in Ann Arbor, Michigan.",
+    "url": "https://www.cbinsights.com/company/tenyks/customers",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Your existing security cameras become powerful business intelligence tools. No new hardware — just actionable insights that drive revenue.",
+    "url": "https://www.tenyks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We analyze your camera setup and identify immediate revenue opportunities.",
+    "url": "https://www.tenyks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Start seeing actionable intelligence within 3 days. Revenue recovery begins immediately.",
+    "url": "https://www.tenyks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The result: a 4.8% boost in revenue and a 2% increase in profitability, as well as faster lines and more engaged staff.",
+    "url": "https://www.tenyks.ai/case-study/qsr",
+    "pass": 1
+   },
+   {
+    "quote": "14 additional customers served during a 3-hour peak window, equating to $78,359 in annual revenue uplift per store.",
+    "url": "https://www.tenyks.ai/case-study/qsr",
+    "pass": 1
+   },
+   {
+    "quote": "Huscarlは、企業の自家保険（セルフインシュアランス）および自家保険子会社（キャプティブ）の運用を支援するAIアクチュアリー（保険数理）プラットフォー...",
+    "url": "https://www.firstcvc.jp/global/tenyks.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Metriportは、米国の医療データを統合・標準化し、医療従事者や臨床AIエージェントにリアルタイムで提供するオープンソースの医療データインフラ企業であ...",
+    "url": "https://www.firstcvc.jp/global/tenyks.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Tenyks Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/tenyks-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Tenyks",
+    "url": "https://prospeo.io/c/tenyks-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/tenyks-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/tenyks-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/tenyks-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Tenyks?",
+    "url": "https://prospeo.io/c/tenyks-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Tenyks generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/tenyks-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/tenyks-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/tenyks-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Tenyks have?",
+    "url": "https://prospeo.io/c/tenyks-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/tenyks-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/469984-24",
+    "pass": 3
+   },
+   {
+    "quote": "Tenyks has 17 total employees.",
+    "url": "https://pitchbook.com/profiles/company/469984-24",
+    "pass": 3
+   },
+   {
+    "quote": "What is Tenyks’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/469984-24",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Tenyks is",
+    "url": "https://pitchbook.com/profiles/company/469984-24",
+    "pass": 3
+   },
+   {
+    "quote": "Tenyks Revenue 2024: $2.4M Est.",
+    "url": "https://getlatka.com/companies/tenyks.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Tenyks has not published its revenue. GetLatka estimates it at about $2.4M a year (December 2024).",
+    "url": "https://getlatka.com/companies/tenyks.ai",
+    "pass": 3
+   },
+   {
+    "quote": "All 2 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/tenyks.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Tenyks CEO, founders & employees",
+    "url": "https://getlatka.com/companies/tenyks.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Botty Dimanov founded Tenyks in 2019 and runs it as CEO. Tenyks had 16 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/tenyks.ai",
+    "pass": 3
+   },
+   {
+    "quote": "What is Tenyks' revenue?",
+    "url": "https://getlatka.com/companies/tenyks.ai",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Tenyks' revenue at about",
+    "url": "https://getlatka.com/companies/tenyks.ai",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Tenyks have?",
+    "url": "https://getlatka.com/companies/tenyks.ai",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/tenyks.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/tenyks.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/tenyks.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/tenyks.ai",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Tenyks - AIツールレビュー | AIniche — 概要 Tenyksは、ケンブリッジ大学の研究チームによって設立されたVision-Language Model（VLM）ベースの視覚知能プラットフォームであり、既存のCCTVインフらを変更することなく連携させ、リアルタイムの映像データをビジネスインサイトへと変換します。",
+    "url": "https://ainiche.net/ja/tools/tenyks",
+    "pass": 3
+   },
+   {
+    "quote": "Tenyks Visual Intelligence - Video AI Agents for Operational ... — Tenyks’ Vision AI Platform empowers brick-and-mortar businesses to achieve workforce efficiency and operational excellence by turning everyday cameras into AI-powered agents. Unlock actionable insights from surveillance camera feeds - optimize staffing, reduce wait times, and elevate customer experience with real-time, intelligent ",
+    "url": "https://www.tenyks.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Tenyksの資金調達・投資家情報 | 海外スタートアップ | FIRST CVC — Y Combinator、Speedinvestのポートフォリオに掲載される海外スタートアップTenyksの企業プロフィール。Tenyksは、既存の監視カメラ映像をリアルタイムの業務改善データへと変換するビジュアルインテリジェンスプラットフォームを開発・提供する英国ケンブリッジ大学発のAI企業である。同社のプラッ...",
+    "url": "https://www.firstcvc.jp/global/tenyks.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Tenyks - LinkedIn 日本 — Tenyks | LinkedInのフォロワー数4,583人。Inventing the way humanity interacts with AI | Tenyks is a Cambridge University spin-out and Y Combinator (S21) alum pioneering the future of operational intelligence through video. Founded in 2021, Tenyks began as a visual debugging platform for AI researchers before making a bold pivot to focus on the largest untapped data source in enterpris",
+    "url": "https://jp.linkedin.com/company/tenyks/",
+    "pass": 3
+   },
+   {
+    "quote": "Startuply.vc: Tenyks' Explainable AI Convinces the Factory ... — May 23, 2026 · Tenyks' Explainable AI Convinces the Factory Safety Camera to Talk The Cambridge spinout's visual intelligence platform, built on PhD research, is shifting from developer tools to operational agents for retail and industrial customers.",
+    "url": "https://startuply.vc/article/tenyks-explainable-ai-convinces-the-factory-safety-camera-to-talk-i61ezk",
+    "pass": 3
+   },
+   {
+    "quote": "Tenyks Customers - CB Insights — How Tenyks benefits their customers Customers evaluate the quality of Tenyks’s products using the following success metrics.",
+    "url": "https://www.cbinsights.com/company/tenyks/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Tenyks’s lightning fast SOC 2: Compliant in one week - Cognisys — CASE STUDY | 28th August Tenyks’s lightning fast SOC 2: Compliant in one week Discover how Tenyks achieved SOC 2 Type 1 compliance at lightning speed, from Monday’s kickoff to Friday’s successful audit.",
+    "url": "https://cognisys.co.uk/case-study/tenkys-lightning-fast-soc2-compliant-in-one-week/",
+    "pass": 3
+   },
+   {
+    "quote": "Tenyks Revenue, Funding & Valuation - prospeo.io — Tenyks has revenue of $1,197,770, estimated valuation of $3,900,000, $6,800,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/tenyks-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Tenyks – Performance Metrics & Competitor Intelligence – 2026 — Discover Tenyks's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/tenyks",
+    "pass": 3
+   },
+   {
+    "quote": "Tenyks 2026 Company Profile: Valuation, Funding & Investors ...Tenyks Revenue 2024: $2.4M Est. - getlatka.comTenyks — Company Profile, Funding & InvestorsTenyks - 2025 Company Profile, Funding & Financials - TracxnTenyks — investors & funding | gritt.io — Tenyks FAQs When was Tenyks founded? Tenyks was founded in 2019. Where is Tenyks headquartered? Tenyks is headquartered in Cambridge, United Kin",
+    "url": "https://pitchbook.com/profiles/company/469984-24",
+    "pass": 3
+   },
+   {
+    "quote": "Tenyks Revenue 2024: $2.4M Est. - getlatka.com — Sep 2, 2026 · Tenyks 2024 estimated revenue: $2.4M. 16 employees. Industry: Data Science and Machine Learning Platforms. Founded 2019. Updated Sep 2, 2026.",
+    "url": "https://getlatka.com/companies/tenyks.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Tenyks — Company Profile, Funding & Investors — Tenyks company profile with HQ in Cambridge, United Kingdom, founded 2019. Explore its acquisitions, funding rounds, investors, key people and contacts on Acquirezy — updated 2026.",
+    "url": "https://acquirezy.com/organization/tenyks-2491629",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/tenyks-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/469984-24",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Skynet (@Tenyks) / X Only approved followers can see @tenyks’s posts ...",
+    "url": "https://x.com/tenyks",
+    "pass": 3
+   },
+   {
+    "quote": "Mario Peshev on X: \"Only 1% of camera footage is watched ... Only 1% of camera footage is watched - here's how @Tenyks_AI gets emotional reactions, time to serve, daily analytics, quality of services across the board with AI analysis of camera footage 📷",
+    "url": "https://x.com/no_fear_inc/status/1927323567311458611",
+    "pass": 3
+   },
+   {
+    "quote": "Botty Dimanov (@botty_dimanov) / Posts / X Mar 5 \"de-biasing a large and diverse dataset may be prohibitively expensive\" @aleks_madry, Tenyks and data curation platforms solve exactly that problem. Would love to give Madry Lab full access to see how much your team can push extrapolation and robustness.",
+    "url": "https://x.com/botty_dimanov",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Tenyks - LinkedIn Tenyks is a Cambridge University spin-out and Y Combinator (S21) alum pioneering the future of operational intelligence through video. Founded in 2021, Tenyks began as a visual debugging platform ...",
+    "url": "https://www.linkedin.com/company/tenyks",
+    "pass": 3
+   },
+   {
+    "quote": "Botty Dimanov, PhD - Tenyks | LinkedInTenyks' founding story and future plans by CEO - LinkedInMaleakhi Wijaya - Co-founder & Director of Technology ...Andrea Minieri - MLOps Engineer @ Tenyks | Machine Learning ...Tenyks is much more than AI and MLOps. A key part of our ...#tenyks #ai #ml #computervision #waicf24 | Tenyks - LinkedIn Dr. Botty Dimanov, CEO &amp; Co-Founder of Tenyks, holds a PhD i",
+    "url": "https://uk.linkedin.com/in/botty-dimanov",
+    "pass": 3
+   },
+   {
+    "quote": "Tenyks' founding story and future plans by CEO - LinkedIn 🧐 Want to learn more about Tenyks’ founding story and what we have in store for the future? Our CEO and Co-founder, Botty Dimanov, PhD, PhD, sat down with Maddyness UK for its Quick Founder ...",
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7341774345192599553/",
+    "pass": 3
+   },
+   {
+    "quote": "Maleakhi Wijaya - Co-founder & Director of Technology ...Andrea Minieri - MLOps Engineer @ Tenyks | Machine Learning ...Tenyks is much more than AI and MLOps. A key part of our ...#tenyks #ai #ml #computervision #waicf24 | Tenyks - LinkedIn Jun 1, 2020 · Maleakhi is the Co-founder and Director of Technology at Tenyks, a Y Combinator–backed University of Cambridge spin-out building AI systems that ",
+    "url": "https://uk.linkedin.com/in/maleakhi-agung-wijaya",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.tenyks.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tenyks.ai/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tenyks.ai/case-study/qsr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tenyks.ai/pricing",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/63a0220866f41638081f4fce/663b007640262b45c1628890_profile-Partners.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ainiche.net/ja/tools/tenyks",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tenyks.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.firstcvc.jp/global/tenyks.ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/tenyks/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yonex.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tennis-japan.co.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.tenyks.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startuply.vc/article/tenyks-explainable-ai-convinces-the-factory-safety-camera-to-talk-i61ezk",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/tenyks/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.upcounsel.com/reseller-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/creators/earn/youtube-partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/groups/2356868454775088/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://prospeo.io/c/tenyks-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/tenyks",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/469984-24",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/tenyks.ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/tenyks",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/no_fear_inc/status/1927323567311458611",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/botty_dimanov",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/tenyks",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/botty-dimanov",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7341774345192599553/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/maleakhi-agung-wijaya",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tenyks",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Tenyks 日本 導入",
+   "results": [
+    "https://ainiche.net/ja/tools/tenyks",
+    "https://www.tenyks.ai/",
+    "https://www.firstcvc.jp/global/tenyks.ai",
+    "https://jp.linkedin.com/company/tenyks/",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://car-repo.jp/blog-entry-u-s-made-re-imported-vehicles-in-the-japanese-market-in-20262027.html",
+    "https://motor-fan.jp/article/1616149/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tenyks 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.yonex.co.jp/company/",
+    "https://www.tennis-japan.co.jp/",
+    "https://www.takkyuya.com/",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://jpmktg.winbond.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tenyks Japan",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Tenyks manufacturing customer case study",
+   "results": [
+    "https://www.tenyks.ai/",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://startuply.vc/article/tenyks-explainable-ai-convinces-the-factory-safety-camera-to-talk-i61ezk",
+    "https://www.cbinsights.com/company/tenyks/customers",
+    "https://cognisys.co.uk/case-study/tenkys-lightning-fast-soc2-compliant-in-one-week/",
+    "https://thecreatorfund.com/case-studies/tenyks/",
+    "https://www.tenyks.ai/case-study/qsr"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tenyks white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.youtube.com/creators/earn/youtube-partner-program/",
+    "https://www.facebook.com/groups/2356868454775088/",
+    "https://www.facebook.com/groups/1390590848697838/",
+    "https://www.youtube.com/watch?v=BozYSBSLIp0",
+    "https://www.godaddy.com/help/get-started-with-basic-and-pro-reseller-7454"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tenyks founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/tenyks-revenue",
+    "https://compworth.com/company/tenyks",
+    "https://pitchbook.com/profiles/company/469984-24",
+    "https://getlatka.com/companies/tenyks.ai",
+    "https://acquirezy.com/organization/tenyks-2491629",
+    "https://tracxn.com/d/companies/tenyks/__PV7KHME41VfPhAFFto4gX8rrxNYcJqwd-fRc6mtrHj8",
+    "https://www.gritt.io/company/tenyks/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Tenyks",
+   "results": [
+    "https://note.com/tag/dots",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/chikama_teppei/n/nd5b65fb5e514",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/uchita_success/n/n030ad63765d3",
+    "https://note.com/merumeru1975/n/n5aed8d9fb24e"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Tenyks",
+   "results": [
+    "https://x.com/tenyks",
+    "https://x.com/",
+    "https://x.com/no_fear_inc/status/1927323567311458611",
+    "https://x.com/botty_dimanov",
+    "https://x.com/dmitrykazhdan",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/_InfoGram_/status/2118253289573949943"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Tenyks",
+   "results": [
+    "https://www.linkedin.com/company/tenyks",
+    "https://uk.linkedin.com/in/botty-dimanov",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7341774345192599553/",
+    "https://uk.linkedin.com/in/maleakhi-agung-wijaya",
+    "https://it.linkedin.com/in/andreaminieri",
+    "https://www.linkedin.com/posts/tenyks_tenyks-is-much-more-than-ai-and-mlops-a-activity-7052573588628856832-aBW1",
+    "https://www.linkedin.com/posts/tenyks_tenyks-ai-ml-activity-7163247616250621953-KGpr"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Tenyks",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Tenyks note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://kitaishihon.com/company/5243/board-of-director"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tenyks X 投稿",
+   "results": [
+    "https://x.com/tenyks",
+    "https://www.instagram.com/tenyks.ai/",
+    "https://www.instagram.com/_tenyks_/",
+    "https://x.com/tennis_sokuhou",
+    "https://x.com/ten_oekaki01/status/2118249190711247034",
+    "https://xkings.jp/",
+    "https://www.twidouga.net/jp/ranking_t1.php"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部28頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部28頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部28頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部28頁・検索12回）"
+ }
+}

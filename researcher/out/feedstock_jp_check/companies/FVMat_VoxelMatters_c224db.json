@@ -1,0 +1,432 @@
+{
+ "name": "FVMat — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:advanced-materials-manufacturer",
+ "researched_at": "2026-11-09T18:25:21.069241+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fvmat.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/database/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/space/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fvmat.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.instagram.com/antenna_ts/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://industrial.panasonic.com/jp/s-search/distributors",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ja.aliexpress.com/item/1005008750227593.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kkday.com/ja/product/819497?srsltid=AYCX9vKO1tQSYlHBV-tPFKZFzbrXKcFujOz3x7DG9JX3wtVW6IP8xQaY",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tower.jp/search/advanced/item/search?titleId=6001551&srsltid=AYCX9vKBa_gUEzcksLAb-KqpbKwCnqe8Ho44mgYCpxBmaGV21KwBhGEN",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://bdolytics.com/jp/market/item/7960?page=237",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/top-products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thevirtualfoundry.com/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/collections/all/%E6%B6%88%E8%80%97%E5%93%81",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.3dsystems.com/materials/pellet-materials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fvmat.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fvmat.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/%E3%82%A2%E3%83%AB%E3%83%9F+%E8%B8%8F%E3%81%BF%E5%8F%B0/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/p/2351/6788/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/%E3%82%B9%E3%83%AD%E3%83%BC%E3%83%97/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/490078-90",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/fvmat-ltd/476945952",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://open.endole.co.uk/insight/company/10417555-voxelmatters-ltd",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://acquirezy.com/organization/fvmat",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "FVMat — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://fvmat.com/",
+    "https://www.voxelmatters.report/database/",
+    "https://www.voxelmatters.directory/company-category/space/",
+    "https://www.linkedin.com/posts/voxelmatters_additivemanufacturing-3dprinting-ebook-activity-7516128261437845504-opWf",
+    "https://www.voxelmatters.group/consultancy/",
+    "https://www.voxelmatters.com/about/contact/",
+    "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "https://www.voxelmatters.report/methodology/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "FVMat — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://fvmat.com/about/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.instagram.com/antenna_ts/",
+    "https://industrial.panasonic.com/jp/s-search/distributors",
+    "https://formulatrix.com/",
+    "https://www.indexpro.co.jp/distributor/search-maker",
+    "https://fermat.biz/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "FVMat — VoxelMatters 日本 販売",
+   "results": [
+    "https://ja.aliexpress.com/item/1005008750227593.html",
+    "https://www.kkday.com/ja/product/819497?srsltid=AYCX9vKO1tQSYlHBV-tPFKZFzbrXKcFujOz3x7DG9JX3wtVW6IP8xQaY",
+    "https://tower.jp/search/advanced/item/search?titleId=6001551&srsltid=AYCX9vKBa_gUEzcksLAb-KqpbKwCnqe8Ho44mgYCpxBmaGV21KwBhGEN",
+    "https://bdolytics.com/jp/market/item/7960?page=237",
+    "https://www.youtube.com/watch?v=xx8cGPfm3f4",
+    "https://rtrp.jp/items/24894352/",
+    "https://shiba78.co.jp/products/detail.php?product_id=5363&plg_accesscontrolspmb=pc",
+    "https://skhonpo.com/blogs/blog/3dvam2",
+    "https://mono.ipros.com/product/detail/2000425323/",
+    "https://fvmat.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "FVMat — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.voxelmatters.com/top-products/",
+    "https://thevirtualfoundry.com/products/",
+    "https://skhonpo.com/collections/all/%E6%B6%88%E8%80%97%E5%93%81",
+    "https://ja.3dsystems.com/materials/pellet-materials",
+    "https://jp.rs-online.com/web/c/computing-peripherals/3d-printing-scanning/3d-printing-materials/?srsltid=AYCX9vIUjATpkpWDkcsMYgbLfY6thmQKNjhCfm48PlNU01AVrHKcdbKg",
+    "https://systemcreate-inc.co.jp/products/modular",
+    "https://www.askul.co.jp/s/02-0205-0205004-02050040002/",
+    "https://apple-tree.shop/?mode=cate&cbid=1729720&csid=0",
+    "https://shop.exmatelab.com/",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "FVMat — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://fvmat.com/",
+    "https://www.voxelmatters.directory/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.voxelmatters.report/database/",
+    "https://www.linkedin.com/posts/voxelmatters_additivemanufacturing-3dprinting-ebook-activity-7516128261437845504-opWf",
+    "https://fvmat.com/about/",
+    "https://www.voxelmatters.group/consultancy/",
+    "https://vsparticle.com/about/distributors",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "FVMat — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://fvmat.com/",
+    "https://www.voxelmatters.directory/company-category/3d-printing-consultancy/",
+    "https://all3dp.com/4/3d-printing-advanced-technology-center-opens-in-japan-to-spur-adoption-of-additive-manufacturing/",
+    "https://3dprint.com/217218/intamsys-partnership-japan/",
+    "https://www.3ds.com/partners/partner-details/200000001017775_VTI_JAPAN_CO_LTD",
+    "https://www.youtube.com/watch?v=6M8csskWCcI&vl=ja",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:amazon.co.jp FVMat — VoxelMatters",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:monotaro.com FVMat — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/k/store/アルミ+踏み台/",
+    "https://www.monotaro.com/p/2351/6788/",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/k/store/スロープ/",
+    "https://www.monotaro.com/g/02779452/",
+    "https://www.monotaro.com/note/calibration-service/",
+    "https://www.monotaro.com/p/0949/7467/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "FVMat — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://pitchbook.com/profiles/company/490078-90",
+    "https://www.zoominfo.com/c/fvmat-ltd/476945952",
+    "https://open.endole.co.uk/insight/company/10417555-voxelmatters-ltd",
+    "https://acquirezy.com/organization/fvmat",
+    "https://www.cbinsights.com/company/voxelmatters",
+    "https://www.cbinsights.com/company/fvmat",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com FVMat — VoxelMatters",
+   "results": [
+    "https://note.com/seigo77",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/tori_1980/n/n21037c205ade",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/keizokuramoto/n/nef2f6f1c855d",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com FVMat — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/darkilingnaty/status/2116203949992694035",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/DemocraticWins/status/2117994783016685719",
+    "https://x.com/jocelynseip/status/2118260591680983528",
+    "https://x.com/WhiteHouse/status/2117601073124778410",
+    "https://x.com/mickvanwely/status/2108610127398101300"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com FVMat — VoxelMatters",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com FVMat — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/VoxelMatters/videos/2155326438344264/",
+    "https://www.facebook.com/VoxelMatters/posts/dmc-and-dyemansion-collaborate-to-provide-polymer-am3dprinting-additivemanufactu/1716322958539822/",
+    "https://www.facebook.com/VoxelMatters/posts/the-top-10-metal-am-companies-by-revenueeos-leads-a-group-of-key-players-in-meta/845175904280126/",
+    "https://www.facebook.com/groups/h3cgroup/posts/1189777390376319/",
+    "https://www.facebook.com/\u0000jperes88/",
+    "https://www.facebook.com/VoxelMatters/posts/for-his-final-year-project-at-central-saint-martins-noé-chouraqui-designed-point/1319191043545274/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "FVMat — VoxelMatters note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "FVMat — VoxelMatters X 投稿",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://fvmat.com/",
+    "https://x.com/hashtag/voxelmatters",
+    "https://www.youtube.com/@voxelmatters",
+    "https://www.voxelmatters.com/",
+    "https://x.com/VoxelMatters/status/2117922030947614944",
+    "https://x.com/TobinArts/status/2119691258050277419"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）"
+ }
+}

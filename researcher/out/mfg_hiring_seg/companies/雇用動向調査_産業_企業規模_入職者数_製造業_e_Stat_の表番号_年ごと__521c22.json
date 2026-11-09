@@ -1,0 +1,1509 @@
+{
+ "name": "雇用動向調査 産業×企業規模 入職者数 製造業（e-Stat の表番号・年ごと・4-131）",
+ "en": "Survey on Employment Trends hires by industry and firm size manufacturing e-Stat",
+ "aliases": [
+  "雇用動向調査 企業規模別 入職者 製造業 表",
+  "入職者数 産業 規模 e-Stat",
+  "雇用動向調査 製造業 入職率 規模"
+ ],
+ "context": "国内・統計",
+ "kind": "market",
+ "researched_at": "2026-11-09T18:08:08.953361+00:00",
+ "evidence": {
+  "痛み・損（深さの印）": [
+   {
+    "quote": "１ 入職と離職の推移 ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥ ６ページ",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 産業別の入職と離職 ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥ 11ページ",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４ 離職理由別離職率の推移‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥ 17ページ",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "主要産業における入職・離職及び未充足求人の状況並びに入職者・離職者に係る個人別の属性及び入職・",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "離職に関する事情を調査し、雇用労働力の産業、規模、職業及び地域間の移動の実態を明らかにすることを",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（５）離職者",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和７（2025）年中に、上記（３）に属する事業所を離職した常用労働者のうちから、無作為に抽出し",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "での間に、入職者調査及び離職者調査は令和７年７月から８月までの間に実施した",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年１月までの間に、入職者調査及び離職者調査は令和８年１月から２月までの間に実施した",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業、職業、従業上の地位、離職期間、企業規模、前の勤め先を辞めた理由、現在の勤め先を選んだ理",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（３）離職者調査",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "就業形態、職業、勤続期間及び離職理由",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（３）離職者調査（離職者票）",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "回収した事業所票から厚生労働省が委託した民間事業者が調査対象離職者数を算出し、調査対象事業所",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "に対して、郵送により離職者票を配布した",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "」で、入職と離職の推移、転職入職者の状況、未充足求人の状況を見ていきましょう",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年1～6月の入職者数は453万9,400人、離職者数は426万1,900人で、入職者数が離職者数を上回っています",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "全体では入職超過となっていますが、パートタイム労働者は離職者数が上回りました",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "16の産業のうち、入職率より離職率が高くなったのは「鉱業、採石業、砂利採取業」「卸売業、小売業」「複合サービス事業」の3種類です",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年6月末時点で、欠員を補充する目的で行っている求人である未充足求人は148万1,500人あり、欠員率は2.9％です",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "コロナ禍のタイミングで欠員率は1度下がりましたが、長いスパンで見ると上昇傾向が続いています",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "欠員率が2.9％を超えている産業は、全体の状況と比べても、より人手不足が深刻な状況と考えられます",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "」によると、欠員率は上昇傾向で人手不足が進行している状況といえるでしょう",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "「従業員退職型」の倒産動向（2024年）",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "」によると、2024年の人手不足倒産342件のうち、従業員や経営幹部の退職がきっかけとなった、従業員退職型の倒産（賃上げ難倒産）は87件で、2023年と比べて約30％増加しています",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンク｜「従業員退職型」の倒産動向（2024年）",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "賃上げ難倒産とは？広がる人手不足による倒産を避ける方法",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "１ 入職と離職の推移 ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥ ６ページ",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-1/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 産業別の入職と離職の状況 ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥ 11ページ",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-1/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "主要産業における入職・離職及び未充足求人の状況並びに入職者・離職者に係る個人別の属性及び入",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-1/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "職・離職に関する事情を調査し、雇用労働力の産業、規模、職業及び地域間の移動の実態を明らかにする",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-1/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（５）離職者",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-1/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和７（2025）年１月から６月中に、上記（３）に属する事業所を離職した常用労働者のうちから、",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-1/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "入職者調査及び離職者調査は令和７年７月から８月までの間に調査を実施した",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-1/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業、職業、従業上の地位、離職期間、企業規模、前の勤め先を辞めた理由、現在の勤め先を選ん",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-1/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（３）離職者調査（離職者票）",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-1/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "就業形態、職業、勤続期間及び離職理由",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-1/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "回収した事業所票から厚生労働省が委託した民間事業者が調査対象離職者数を算出し、調査対象事",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-1/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業所に対して、郵送により離職者票を配布した",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-1/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（３）離職者調査 厚生労働省－民間事業者－報告者",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-1/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "離職者調査：集計離職者数 43,788人",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-1/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５ 事業所及び離職者に関する項目は事業所の回答、入職者に関する項目は入職者の回答である",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-1/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "全国の主要産業の事業所における入職・離職及び未充足求人の状況並びに入職者・離職者について個人別に属性、入職・離職に関する事情等を調査し、雇用労働力の産業、規模、職業及び地域間の移動の実態を明らかにすることを目的とした調査で上半期と下半期の年２回実施しています",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00450&toukei=00450073",
+    "pass": 3
+   },
+   {
+    "quote": "入職者と離職者の人数や率の推移を産業、年齢階級、雇用形態、就業形態ごとに集計を行い、転職入職者の状況を雇用形態間の移動、前職をやめた理由、前職との賃金変動状況、更に離職理由別離職の状況の集計を行い提供しています",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00450&toukei=00450073",
+    "pass": 3
+   },
+   {
+    "quote": "常用労働者のうち、調査対象期間中に、就職、転職、退職などの労働移動を行った者で、本調査では、入職者、離職者を合わせて「延べ労働移動者」としている",
+    "url": "https://www.mhlw.go.jp/toukei/list/9-23-1b.html",
+    "pass": 3
+   },
+   {
+    "quote": "離職者のうち、調査対象期間中に離職した出向者・出向復帰者を除いたものをいう",
+    "url": "https://www.mhlw.go.jp/toukei/list/9-23-1b.html",
+    "pass": 3
+   },
+   {
+    "quote": "6月末日現在、事業所における欠員であり、仕事があるにもかかわらず、その仕事に従事する者がいない状態を補充するために行っている求人をいう",
+    "url": "https://www.mhlw.go.jp/toukei/list/9-23-1b.html",
+    "pass": 3
+   },
+   {
+    "quote": "常用労働者数に対する延べ労働移動者数（入職者数＋離職者数）の割合をいい、次式により算出している",
+    "url": "https://www.mhlw.go.jp/toukei/list/9-23-1b.html",
+    "pass": 3
+   },
+   {
+    "quote": "プラスであれば入職率が離職率を上回っている（入職超過）",
+    "url": "https://www.mhlw.go.jp/toukei/list/9-23-1b.html",
+    "pass": 3
+   },
+   {
+    "quote": "マイナスであれば離職率が入職率を上回っている（離職超過）",
+    "url": "https://www.mhlw.go.jp/toukei/list/9-23-1b.html",
+    "pass": 3
+   },
+   {
+    "quote": "調査結果から、調査対象の常用労働者5人以上の事業所における全国の在籍常用労働者（上半期分1月、下半期分7月）及び調査対象期間（上半期1〜6月、下半期7〜12月）中における入・離職者数の推計値を産業、規模別に以下のように算出する",
+    "url": "https://www.mhlw.go.jp/toukei/list/9-23-1b.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、入・離職率",
+    "url": "https://www.mhlw.go.jp/toukei/list/9-23-1b.html",
+    "pass": 3
+   },
+   {
+    "quote": "なお、調査産業計、事業所規模計など積み上げ区分の場合、入・離職率の推計値は分母・分子毎に各層の推計値を積み上げた上で比を取ったものによる",
+    "url": "https://www.mhlw.go.jp/toukei/list/9-23-1b.html",
+    "pass": 3
+   },
+   {
+    "quote": "調査結果から、調査対象期間（上半期1〜6月、下半期7〜12月）中における属性、職歴、入・離職時の状況別入・離職者数の推計値を以下のように算出する",
+    "url": "https://www.mhlw.go.jp/toukei/list/9-23-1b.html",
+    "pass": 3
+   },
+   {
+    "quote": "番目の標本事業所における入・離職者の抽出数",
+    "url": "https://www.mhlw.go.jp/toukei/list/9-23-1b.html",
+    "pass": 3
+   },
+   {
+    "quote": "番目の入・離職者がある属性を持っているかどうかを表す値（例：20〜24歳であれば1、なければ0）",
+    "url": "https://www.mhlw.go.jp/toukei/list/9-23-1b.html",
+    "pass": 3
+   },
+   {
+    "quote": "番目の抽出入・離職者の人数（＝1）",
+    "url": "https://www.mhlw.go.jp/toukei/list/9-23-1b.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、入職者（離職者）のうち当該属性を持つ者の割合",
+    "url": "https://www.mhlw.go.jp/toukei/list/9-23-1b.html",
+    "pass": 3
+   },
+   {
+    "quote": "入職率・離職率の状況等は「介護労働者の確保・定着に関する研究会（厚生労働省職業安定局）」、「働く女性の実情（女性労働白書）」、「労働移動支援助成金事業、高年齢者職業安定対策基本方針」及び「子ども・若者白書」の基礎資料として利用されている",
+    "url": "https://www.mhlw.go.jp/toukei/list/9-23-1b.html",
+    "pass": 3
+   },
+   {
+    "quote": "１ 入職と離職の推移 ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥ ６ページ",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/25-2/dl/gaikyou.pdf",
+    "pass": 3
+   }
+  ],
+  "セグメント定義": [
+   {
+    "quote": "に属し、５人以上の常用労働者を雇用する事業所のうちから、都道府県、産業、事業所規模別に層化して",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方、非正規雇用の従業員が、前年同期より増加したのは3期ぶりです",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "また「家事・育児・介護等と両立しやすいから（10.7％）」「正規の職員・従業員の仕事がないから（8.5％）」は前年同期と比べて回答数が減少しました",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "「従業員退職型」の倒産動向（2024年）",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "」によると、2024年の人手不足倒産342件のうち、従業員や経営幹部の退職がきっかけとなった、従業員退職型の倒産（賃上げ難倒産）は87件で、2023年と比べて約30％増加しています",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "賃上げできず、正社員を採用できない、今いる従業員が辞めてしまう、という企業が増えてきている状況といえるでしょう",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンク｜「従業員退職型」の倒産動向（2024年）",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "【業種別】正社員の採用を予定している企業の割合",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "両立支援とは、従業員が育児や介護などと仕事を両立しやすくなるように、制度や環境を整えることです",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員が都合に合わせて働きやすいよう、制度や環境を整えることで、採用がスムーズに進みやすくなる可能性があります",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "制度を導入したら、従業員が必要なタイミングで利用できるよう、整備した制度や制度の利用方法の周知も行いましょう",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "福利厚生の充実度アップは、従業員満足度の向上や人材確保、生産性の向上などに役立つといわれています",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし期待する効果が現れるのは、従業員が「ほしい」と考えている福利厚生を充実させた場合です",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員が求めている福利厚生の導入に役立つアンケート調査を紹介します",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "」では、導入・注力してほしい福利厚生について、従業員を対象に調査を実施しました",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "この集計結果によると、企業規模を問わず従業員のニーズが高い福利厚生は「社宅・住宅手当・家賃補助」「通勤手当」「長期休暇（リフレッシュ休暇など）」です",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "次に、中小企業における産業別の従業員数における過不足状況（従業員数過不足',）をみ",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方、 製造業の従業員数における過不足状況 （従業員数過不足',） をみると、\u0015\u0013\u0014\u001a",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図\u0015\u0014\u0014\u0010\u0017：中小企業における産業別従業員数過不足',（今期の水準）の推移\u0003",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "備考：従業員数過不足',は、今期の従業員数が「過剰」と答えた企業の割合（％）から、「不足」と答えた企",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "卒入職者の従業員数に基づく企業規模別の内訳をみると、 前年の\u0015\u0013\u0015\u0015年と比較し、 「\u0018～\u0015 人 」、",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「\u0014\u0013\u0013～\u0015 人」及び「\u0014\u000f\u0013\u0013\u0013人以上」の企業への入職者数が増加し、 「\u0016\u0013～ 人」及び「\u0016\u0013\u0013～",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "\u0015．外国人労働者数（製造業）と外国人労働者数（非製造業）は、\u0014\u000f\u0013\u0013\u0013人未満を四捨五入しているため、",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国内の製造業の労働時間の推移をみると、 製造業の事業所規模\u0018人以上の事業所における労",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "備考：事業所規模\u0018人以上の事業所における一般労働者の、月間実労働時間の年平均を表している",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "備考：\u0014．\u0014\u0013人以上の常用労働者を雇用する民営事業所における一般労働者の\u0019月の所定内給与額",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業に属し、５人以上の常用労働者を雇用する事業所のうちから、都道府県、産業、事業所規模別に層化",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-1/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査結果から、調査対象の常用労働者5人以上の事業所における全国の在籍常用労働者（上半期分1月、下半期分7月）及び調査対象期間（上半期1〜6月、下半期7〜12月）中における入・離職者数の推計値を産業、規模別に以下のように算出する",
+    "url": "https://www.mhlw.go.jp/toukei/list/9-23-1b.html",
+    "pass": 3
+   },
+   {
+    "quote": "の推計値は、産業、事業所規模別に以下の式による",
+    "url": "https://www.mhlw.go.jp/toukei/list/9-23-1b.html",
+    "pass": 3
+   },
+   {
+    "quote": "業に属し、５人以上の常用労働者を雇用する事業所のうちから、都道府県、産業、事業所規模別に層化",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/25-2/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "雇用動向調査_表3_性、企業規模別入職・離職率_年次 1991年 – 2025年 (列 – 複数値形式)",
+    "url": "https://data-seisaku.com/00450-mhlw-00450073-hyo2-full-listm/",
+    "pass": 3
+   }
+  ],
+  "充足・欠員": [
+   {
+    "quote": "主要産業における入職・離職及び未充足求人の状況並びに入職者・離職者に係る個人別の属性及び入職・",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "エ 職業及び就業形態別常用労働者数並びに未充足求人数",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "」で、入職と離職の推移、転職入職者の状況、未充足求人の状況を見ていきましょう",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年6月末時点で、欠員を補充する目的で行っている求人である未充足求人は148万1,500人あり、欠員率は2.9％です",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "コロナ禍のタイミングで欠員率は1度下がりましたが、長いスパンで見ると上昇傾向が続いています",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "欠員率が2.9％を超えている産業は、全体の状況と比べても、より人手不足が深刻な状況と考えられます",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "【2025年最新】人手不足の日本の現状と中小企業の生き残り戦略",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "」によると、欠員率は上昇傾向で人手不足が進行している状況といえるでしょう",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "」によると、2024年の人手不足倒産342件のうち、従業員や経営幹部の退職がきっかけとなった、従業員退職型の倒産（賃上げ難倒産）は87件で、2023年と比べて約30％増加しています",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "賃上げ難倒産とは？広がる人手不足による倒産を避ける方法",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足は低賃金が原因？中小企業の賃上げの実態と求められる施策を解説",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省の「雇用動向調査結果の概要」、総務省統計局の「労働力調査」、帝国データバンクの「2025年度の雇用動向に関する企業の意識調査」を見ると、前年同期と比べて働く人全体の数は増えているものの、人手不足の状況は進行しているといえます",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "\u0003 有効求人倍率（季節調整値）は、\u0015\u0013\u0014\u0013年以降上昇し、\u0015\u0013\u0014\u001b年 月に\u0014\u0011\u0019\u0017倍を記録したが、同",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が、\u0015\u0013\u0015\u0013年第\u0014四半期からマイナス幅が縮小し、\u0015\u0013\u0015\u0013年第\u0015四半期にはマイナス\u0014\u0011\u0014と不足感が",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図\u0015\u0014\u0014\u0010\u0015：有効求人倍率（季節調整値）の推移\u0003",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４ 未充足求人の状況 ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥ 15ページ",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-1/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "主要産業における入職・離職及び未充足求人の状況並びに入職者・離職者に係る個人別の属性及び入",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-1/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "エ 職業及び就業形態別常用労働者数及び未充足求人数",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-1/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "６月末日現在、事業所における欠員であり、仕事があるにもかかわらず、その仕事に従事する者",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-1/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "常用労働者数に対する未充足求人数の割合をいい、次式により算出している",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-1/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "欠員率 ＝ × 100（％）",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-1/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４ 未充足求人の状況",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-1/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（１）未充足求人の状況",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-1/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和７（2025）年６月末日現在の未充足求人数は1,359.5千人、欠員率は2.6％となっている",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-1/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、未充足求人数のうちパートタイム労働者は465.6千人で、欠員率は3.3％となっている",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-1/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図５ 欠員率の推移（各年６月末日現在）",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-1/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（２）産業別未充足求人の状況",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-1/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和７（2025）年６月末日現在の未充足求人数を産業別にみると、「医療，福祉」が246.9千人と最",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-1/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "欠員率では、「宿泊業，飲食サービス業」が4.8％と最も高く、次いで「運輸業，郵便業」の4.1％",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-1/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表７ 産業別未充足求人の状況（各年６月末日現在）",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-1/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "全国の主要産業の事業所における入職・離職及び未充足求人の状況並びに入職者・離職者について個人別に属性、入職・離職に関する事情等を調査し、雇用労働力の産業、規模、職業及び地域間の移動の実態を明らかにすることを目的とした調査で上半期と下半期の年２回実施しています",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00450&toukei=00450073",
+    "pass": 3
+   },
+   {
+    "quote": "6月末日現在、事業所における欠員であり、仕事があるにもかかわらず、その仕事に従事する者がいない状態を補充するために行っている求人をいう",
+    "url": "https://www.mhlw.go.jp/toukei/list/9-23-1b.html",
+    "pass": 3
+   },
+   {
+    "quote": "常用労働者数に対する未充足求人数の割合をいい、次式により算出している",
+    "url": "https://www.mhlw.go.jp/toukei/list/9-23-1b.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要産業における入職・離職及び未充足求人の状況並びに入職者・離職者に係る個人別の属性及び入職・",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/25-2/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "エ 職業及び就業形態別常用労働者数並びに未充足求人数",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/25-2/dl/gaikyou.pdf",
+    "pass": 3
+   }
+  ],
+  "調査主体・時期": [
+   {
+    "quote": "－令和７（2025）年雇用動向調査結果の概況－",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査の概要 ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥ １ページ",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和７（2025）年雇用動向調査の結果は、厚生労働省のホームページにも掲載されています",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１ 調査の目的",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "離職に関する事情を調査し、雇用労働力の産業、規模、職業及び地域間の移動の実態を明らかにすることを",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 調査の範囲",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３ 調査の時期",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "上半期調査 令和７（2025）年１月から６月までの状況について、事業所調査は令和７年６月から７月ま",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "での間に、入職者調査及び離職者調査は令和７年７月から８月までの間に実施した",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "下半期調査 令和７年７月から12月までの状況について、事業所調査は令和７年12月から令和８（2026）",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年１月までの間に、入職者調査及び離職者調査は令和８年１月から２月までの間に実施した",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４ 調査事項",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（１）事業所調査",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（２）入職者調査",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（３）離職者調査",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【2025年版】雇用動向調査から読み解く人材戦略｜選ばれる企業になるには",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省「雇用動向調査結果の概要」をチェック",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省の実施している「雇用動向調査」では、「建設業」「製造業」「電気・ガス・熱供給・水道業」「情報通信業」「運輸業，郵便業」など16の産業について、就業者の移動の実態を調査しています",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "令和6年上半期雇用動向調査結果の概要",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省｜令和6年上半期雇用動向調査結果の概要",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "【働きがい1万人調査】から見る｜大転職時代に選ばれる企業とは",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "国民の就業状況を確認する「労働力調査」の結果も見ていきましょう",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "総務省統計局｜労働力調査 主な結果｜2025年1～3月期平均結果",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "」では、非正規雇用を選んだ理由についても調査しています",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "最も多い回答は「自分の都合のよい時間に働きたいから（36.4％）」でした",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "また「家事・育児・介護等と両立しやすいから（10.7％）」「正規の職員・従業員の仕事がないから（8.5％）」は前年同期と比べて回答数が減少しました",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンク「2025年度の雇用動向に関する企業の意識調査」をチェック",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度の雇用動向に関する企業の意識調査",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "」によると、正社員の「採用予定がある」と回答した企業の割合は58.8％と2年連続で低下しています",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "また「採用予定はない」と回答した企業は28.5％と2年連続で上昇中です",
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "pass": 3
+   },
+   {
+    "quote": "資料：総務省「労働力調査」（\u0015\u0013\u0015\u0018年\u0017月）\u0003",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり白書29",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり白書30",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：中小企業庁「中小企業景況調査」（\u0015\u0013\u0015\u0017年\u0014\u0015月）\u0003",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：総務省「労働力調査」 （\u0015\u0013\u0015\u0018年\u0014月）\u0003",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり白書32",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：厚生労働省「雇用動向調査」（\u0015\u0013\u0015\u0017年\u001b月）\u0003",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり白書34",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "とめ （各年\u0014\u0013月末時点） 及び総務省 「労働力調査」 （各年\u0014\u0013月） を基に 「製造業の外国人労働者数」 を",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：厚生労働省 「外国人雇用状況」 の届出状況まとめ （各年\u0014\u0013月末時点） 、 総務省 「労働力調査」 （\u0015\u0013\u0015\u0018年\u0014月）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：厚生労働省「毎月勤労統計調査」（\u0015\u0013\u0015\u0018年\u0015月）\u0003",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり白書36",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "\u0015．\u0015\u0013\u0014\u001b年以前は、調査対象産業「宿泊業、飲食サービス業」 のうち 「バー、キャバレー、ナイトクラブ」",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：厚生労働省「賃金構造基本統計調査」 （\u0015\u0013\u0015\u0018年\u0016月）\u0003",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "― 令和７（2025）年上半期雇用動向調査結果の概況 ―",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-1/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査の概要 ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥ １ページ",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-1/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和７（2025）年上半期雇用動向調査の結果は、厚生労働省のホームページに掲載しています",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-1/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１ 調査の目的",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-1/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "職・離職に関する事情を調査し、雇用労働力の産業、規模、職業及び地域間の移動の実態を明らかにする",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-1/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 調査の範囲",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-1/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３ 調査の時期",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-1/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和７（2025）年１月から６月までの状況について、事業所調査は令和７年６月から７月までの間に、",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-1/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "入職者調査及び離職者調査は令和７年７月から８月までの間に調査を実施した",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-1/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４ 調査事項",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-1/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（１）事業所調査（事業所票）",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-1/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（２）入職者調査（入職者票）",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-1/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（３）離職者調査（離職者票）",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-1/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５ 調査の方法",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-1/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省が委託した民間事業者が調査対象事業所に対して、郵送により事業所票を配布した",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-1/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "雇用動向調査 | すべて | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00450&toukei=00450073",
+    "pass": 3
+   }
+  ],
+  "採用経路": [
+   {
+    "quote": "看護師等学校養成所入学状況及び卒業生就業状況調査",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00450&toukei=00450073",
+    "pass": 3
+   },
+   {
+    "quote": "平成16年調査から調査の範囲に学校教育、社会教育等を加えており、平成15年調査以前の調査産業計の調査結果は、平成16年の調査以降と直接比較することはできないため、注意を要する",
+    "url": "https://www.mhlw.go.jp/toukei/list/9-23-1b.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://entera.tmedia.jp/column/34_employee_turnover_rate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tkg.co.jp/column/recruitment-retention/106/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hrc-j.com/column/29182/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20260519-laborshortage202604/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&iroha=10&toukei=00450073&stat_infid=000040490140",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ab.jcci.or.jp/article/131083/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00450073&kikan=00450&tstat=000001012468&stat_infid=000031676667&result_page=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://crossborder.brexa.com/blog/manufacturing-workforce_20261030/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/statistics/00450073",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOCD3097Z0Q5A930C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&kikan=00450&toukei=00450073&stat_infid=000040489927",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00450073&tstat=000001012468&tclass1=000001012469&tclass2=000001161806&tclass3val=0&year=20230&month=0&result_back=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-1/dl/gaikyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.surece.co.jp/monitor/progress/6111/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00450&toukei=00450073",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/list/9-23-1b.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?bunya_l=03&layout=dataset&toukei=00450073&stat_infid=000031852570",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesdock.jp/blog/manufacturing-youth-retention",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mbp-japan.com/kanagawa/shonan-mssr/column/5238151/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003376330",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&bunya_l=03&layout=dataset&cycle=3&toukei=00450073&tstat=000001012468&tclass1=000001012474&tclass2=000001161807&result_page=1&tclass3val=0&stat_infid=000040387287",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/25-2/dl/gaikyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/kokunai/statistics/shozai/html/k34.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20250325-employment2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?statdisp_id=0003398539",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003376333",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00450073&stat_infid=000040490263",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=03&layout=dataset&toukei=00450073&tstat=000001012468&result_page=1&statdisp_id=0003376359",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-seisaku.com/00450-mhlw-00450073-hyo2-full-listm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00450073&tstat=000001012468&cycle=7&year=20250&stat_infid=000040490242",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20251117-laborshortage202510/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sr_sqi/n/n5d68b23b90e0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20250519-laborshortage202504/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rodo.co.jp/column/211120/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&bunya_l=03&layout=dataset&toukei=00450073&stat_infid=000040305965",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/list/9-23-1d.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/files?page=1&bunya_l=03&layout=dataset&toukei=00450073&tstat=000001012468&stat_infid=000040096423",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?alpha=11&layout=dataset&statdisp_id=0003398545",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/gaiyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "雇用動向調査 産業×企業規模 入職者数 製造業（e-Stat の表番号・年ごと・4-131） 人手不足 受注 断る",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "https://entera.tmedia.jp/column/34_employee_turnover_rate/",
+    "https://tkg.co.jp/column/recruitment-retention/106/",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "https://www.hrc-j.com/column/29182/",
+    "https://edenred.jp/article/hr-recruiting/285/",
+    "https://mentena.biz/insight/labor-shortage/",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/",
+    "https://www.techs-s.com/media/show/127"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "雇用動向調査 産業×企業規模 入職者数 製造業（e-Stat の表番号・年ごと・4-131） 受注残 人手不足",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "https://www.tdb.co.jp/report/economic/20260519-laborshortage202604/",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&iroha=10&toukei=00450073&stat_infid=000040490140",
+    "https://entera.tmedia.jp/column/34_employee_turnover_rate/",
+    "https://ab.jcci.or.jp/article/131083/",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/index.html",
+    "https://edenred.jp/article/hr-recruiting/285/",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00450073&kikan=00450&tstat=000001012468&stat_infid=000031676667&result_page=1",
+    "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?statdisp_id=0003398539"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "雇用動向調査 産業×企業規模 入職者数 製造業（e-Stat の表番号・年ごと・4-131） 人手不足 損失 億円",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "https://www.tdb.co.jp/report/economic/20260519-laborshortage202604/",
+    "https://crossborder.brexa.com/blog/manufacturing-workforce_20261030/",
+    "https://entera.tmedia.jp/column/34_employee_turnover_rate/",
+    "https://www.e-stat.go.jp/statistics/00450073",
+    "https://www.nikkei.com/article/DGXZQOCD3097Z0Q5A930C2000000/",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/index.html",
+    "https://www.hrc-j.com/column/29182/",
+    "https://edenred.jp/article/hr-recruiting/285/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "雇用動向調査 産業×企業規模 入職者数 製造業（e-Stat の表番号・年ごと・4-131） 採用単価 規模別",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&kikan=00450&toukei=00450073&stat_infid=000040489927",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00450073&tstat=000001012468&tclass1=000001012469&tclass2=000001161806&tclass3val=0&year=20230&month=0&result_back=1",
+    "https://edenred.jp/article/hr-recruiting/285/",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-1/dl/gaikyou.pdf",
+    "https://www.surece.co.jp/monitor/progress/6111/",
+    "https://www.e-stat.go.jp/stat-search?page=1&kikan=00450&toukei=00450073",
+    "https://www.mhlw.go.jp/toukei/list/9-23-1b.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/files?page=1&bunya_l=03&layout=dataset&toukei=00450073&tstat=000001012468&stat_infid=000040096423",
+    "https://www.e-stat.go.jp/stat-search/database?statdisp_id=0003398532"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "雇用動向調査 産業×企業規模 入職者数 製造業（e-Stat の表番号・年ごと・4-131） 採用コスト 調査 万円",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "https://entera.tmedia.jp/column/34_employee_turnover_rate/",
+    "https://www.e-stat.go.jp/stat-search/files?bunya_l=03&layout=dataset&toukei=00450073&stat_infid=000031852570",
+    "https://ab.jcci.or.jp/article/131083/",
+    "https://edenred.jp/article/hr-recruiting/285/",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/index.html",
+    "https://www.salesdock.jp/blog/manufacturing-youth-retention",
+    "https://mbp-japan.com/kanagawa/shonan-mssr/column/5238151/",
+    "https://www.e-stat.go.jp/dbview?sid=0003376330"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "雇用動向調査 産業×企業規模 入職者数 製造業（e-Stat の表番号・年ごと・4-131） 中途採用状況調査 従業員規模別",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&bunya_l=03&layout=dataset&cycle=3&toukei=00450073&tstat=000001012468&tclass1=000001012474&tclass2=000001161807&result_page=1&tclass3val=0&stat_infid=000040387287",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00450073&tstat=000001012468&tclass1=000001012469&tclass2=000001161806&tclass3val=0&year=20230&month=0&result_back=1",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/25-2/dl/gaikyou.pdf",
+    "https://edenred.jp/article/hr-recruiting/285/",
+    "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "https://www.e-stat.go.jp/stat-search?page=1&kikan=00450&toukei=00450073",
+    "https://www.jil.go.jp/kokunai/statistics/shozai/html/k34.html",
+    "https://www.tdb.co.jp/report/economic/20250325-employment2025/",
+    "https://www.e-stat.go.jp/stat-search/database?statdisp_id=0003398539"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "雇用動向調査 産業×企業規模 入職者数 製造業（e-Stat の表番号・年ごと・4-131） 採用経路 割合 調査",
+   "results": [
+    "https://www.e-stat.go.jp/dbview?sid=0003376333",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00450073&stat_infid=000040490263",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/25-2/dl/gaikyou.pdf",
+    "https://edenred.jp/article/hr-recruiting/285/",
+    "https://www.surece.co.jp/monitor/progress/6111/",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=03&layout=dataset&toukei=00450073&tstat=000001012468&result_page=1&statdisp_id=0003376359",
+    "https://data-seisaku.com/00450-mhlw-00450073-hyo2-full-listm/",
+    "https://www.jil.go.jp/kokunai/statistics/shozai/html/k34.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "雇用動向調査 産業×企業規模 入職者数 製造業（e-Stat の表番号・年ごと・4-131） 人手不足 充足率 調査 2025",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00450073&tstat=000001012468&cycle=7&year=20250&stat_infid=000040490242",
+    "https://ab.jcci.or.jp/article/131083/",
+    "https://www.tdb.co.jp/report/economic/20251117-laborshortage202510/",
+    "https://edenred.jp/article/hr-recruiting/285/",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-1/dl/gaikyou.pdf",
+    "https://note.com/sr_sqi/n/n5d68b23b90e0",
+    "https://www.tdb.co.jp/report/economic/20250519-laborshortage202504/",
+    "https://www.rodo.co.jp/column/211120/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "雇用動向調査 産業×企業規模 入職者数 製造業（e-Stat の表番号・年ごと・4-131） 白書 採用",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&bunya_l=03&layout=dataset&toukei=00450073&stat_infid=000040305965",
+    "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "https://www.mhlw.go.jp/toukei/list/9-23-1d.html",
+    "https://edenred.jp/article/hr-recruiting/285/",
+    "https://www.e-stat.go.jp/index.php/stat-search/files?page=1&bunya_l=03&layout=dataset&toukei=00450073&tstat=000001012468&stat_infid=000040096423",
+    "https://www.surece.co.jp/monitor/progress/6111/",
+    "https://data-seisaku.com/00450-mhlw-00450073-hyo2-full-listm/",
+    "https://www.jil.go.jp/kokunai/statistics/shozai/html/k34.html",
+    "https://www.e-stat.go.jp/stat-search/database?statdisp_id=0003398539"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com 雇用動向調査 産業×企業規模 入職者数 製造業（e-Stat の表番号・年ごと・4-131）",
+   "results": [
+    "https://note.com/mt_square/n/n505a2343a462",
+    "https://note.com/amane_writer/n/n23d692954637",
+    "https://note.com/chic_deer1160/n/n90f503955cf1",
+    "https://note.com/sion_remake0415/n/n132cf0d6df03",
+    "https://note.com/keisemi/n/naf14ab3c9062",
+    "https://note.com/onamae_business/n/n5f1b0780d233",
+    "https://note.com/kyuzin_yomikaki/n/nf470156a925d",
+    "https://note.com/relative/n/n3ef0e69fce89",
+    "https://note.com/make_many_money/n/n9ac7dd816166",
+    "https://note.com/ryu_business/n/n7b82b2997f89"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 雇用動向調査 産業×企業規模 入職者数 製造業（e-Stat の表番号・年ごと・4-131）",
+   "results": [
+    "https://x.com/SumitaHayato",
+    "https://x.com/saiyo_kakaricho",
+    "https://x.com/foresight_sha",
+    "https://x.com/searched_press/article/2114998760732500256?lang=ar-x-fm",
+    "https://x.com/cdb_jp",
+    "https://x.com/YOLOJAPANco",
+    "https://x.com/MACA_and_PEACE",
+    "https://x.com/xmile_noro",
+    "https://x.com/career_studio",
+    "https://x.com/KagawaTomo/article/2067187010239103424"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com 雇用動向調査 産業×企業規模 入職者数 製造業（e-Stat の表番号・年ごと・4-131）",
+   "results": [
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E5%85%A8%E7%A4%BEr-d%E3%80%91%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%82%AF%E3%82%B9%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E6%8B%93%E3%81%8F-%E7%B5%84%E8%BE%BC%E3%81%BF%E3%82%BD%E3%83%95%E3%83%88-%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E5%8B%9F%E9%9B%86%EF%BC%81-%E6%96%B0%E6%8B%A0%E7%82%B9%E7%AB%8B%E3%81%A1%E4%B8%8A%E3%81%92%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%E5%8B%9F%E9%9B%86-at-omron-group-4486774713?position=50&pageNum=0&refId=OL9HxSvg2P%2B42LLmLM89xw%3D%3D&trackingId=ggbzpI%2BDCfY1EOJnvIgshg%3D%3D",
+    "https://www.linkedin.com/in/hitoha-okita-0b1831340",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E5%8C%BB%E7%99%82%E6%A5%AD%E7%95%8C%E6%9C%AA%E7%B5%8C%E9%A8%93%E8%80%85%E6%AD%93%E8%BF%8E%E3%80%91%E5%A4%A7%E5%9E%8B%E5%8C%BB%E7%99%82%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AE%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E5%96%B6%E6%A5%AD%EF%BC%88%E5%8C%97%E7%B1%B3%E6%8B%85%E5%BD%93%EF%BC%89%E3%80%90ht775%E3%80%91-at-hitachi-high-tech-corporation-4402893937",
+    "https://www.linkedin.com/pulse/%E6%8E%A1%E7%94%A8%E6%88%A6%E5%9B%BD%E6%99%82%E4%BB%A3%E3%81%AE%E4%BB%8A%E3%81%93%E3%81%9D%E7%AC%AC%E4%B8%80%E5%BF%97%E6%9C%9B%E3%81%A7%E5%BF%9C%E5%8B%9F%E3%81%95%E3%82%8C%E3%82%8B%E6%8E%A1%E7%94%A8%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AE%E3%81%A4%E3%81%8F%E3%82%8A%E3%81%8B%E3%81%9F-%E5%B4%87-%E5%A0%80%E5%86%85-bo2rc",
+    "https://jp.linkedin.com/in/%E3%81%95%E3%81%8F%E3%82%89-%E6%9B%BD%E6%A0%B9-851ab6358",
+    "https://jp.linkedin.com/jobs/view/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%97%E3%83%AD%E3%83%87%E3%83%A5%E3%83%BC%E3%82%B5%E3%83%BC-business-producer-%EF%BD%9E3-000%E4%B8%87%E5%86%86-at-randstad-japan-4477082873",
+    "https://jp.linkedin.com/in/nobukazu-nishio",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E6%9D%B1%E4%BA%AC%E3%80%91%E5%BA%83%E5%A0%B1%E6%8B%85%E5%BD%93%E2%80%BB%E7%A4%BE%E5%86%85%E5%A4%96%E5%90%91%E3%81%91%E3%81%AE%E5%BA%83%E5%A0%B1%E7%AD%89%E2%97%86%E3%80%8C%E3%81%9F%E3%81%AE%E3%82%81%E3%83%BC%E3%82%8B%E3%80%8D%E3%81%A7%E3%81%8A%E9%A6%B4%E6%9F%93%E3%81%BF%E3%81%AE%E4%B8%8A%E5%A0%B4%E4%BC%81%E6%A5%AD%EF%BC%8F%E7%A6%8F%E5%88%A9%E5%8E%9A%E7%94%9F%E5%85%85%E5%AE%9F%EF%BC%8F%E9%9B%A2%E8%81%B7%E7%8E%87%E7%B4%844%25-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4482729374",
+    "https://aq.linkedin.com/jobs/view/%E3%80%90%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%82%BF%E3%83%BC%EF%BC%88%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%EF%BC%89%E3%80%91%E5%B8%82%E5%A0%B4%E8%AA%BF%E6%9F%BB%E3%81%8B%E3%82%89%E3%80%81%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E6%88%A6%E7%95%A5%E3%82%84%E8%A3%BD%E5%93%81%E3%82%B3%E3%83%B3%E3%82%BB%E3%83%97%E3%83%88%E3%81%AE%E4%BC%81%E7%94%BB%E3%81%BE%E3%81%A7%E5%B9%85%E5%BA%83%E3%81%8F%E6%8B%85%E5%BD%93%EF%BC%81-at-techcareer-japan-4443572655",
+    "https://jp.linkedin.com/in/yasuhiro-toson-9742b13b8"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:facebook.com 雇用動向調査 産業×企業規模 入職者数 製造業（e-Stat の表番号・年ごと・4-131）",
+   "results": [
+    "https://www.facebook.com/bizjournal.anglecreate/",
+    "https://www.facebook.com/shinkeiren/posts/%E6%AC%A7%E5%B7%9E%E8%A3%BD%E5%93%81%E6%B3%95european-product-act%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E9%80%A3%E5%90%8D%E6%9B%B8%E7%B0%A1%E3%81%AB%E7%BD%B2%E5%90%8D%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-home%E6%8F%90%E8%A8%80%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E6%94%BF%E7%AD%96%E3%83%86%E3%83%BC%E3%83%9E%E6%AC%A7%E5%B7%9E%E8%A3%BD%E5%93%81%E6%B3%95european-product-ac/1533710092121695/",
+    "https://www.facebook.com/100064515737150/?locale=be_BY",
+    "https://www.facebook.com/GlobalLeadersAssociation.JAPAN/posts/-%E7%99%BB%E5%A3%87%E6%B1%BA%E5%AE%9A%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%BF%E3%82%AB%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%87%E3%82%B8%E3%83%86%E3%83%83%E3%82%AF%E5%8F%A4%E6%BE%A4-%E8%89%AF%E7%A5%90-%E7%A4%BE%E9%95%B72026%E5%B9%B4-%E9%96%A2%E8%A5%BF%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA%E6%96%B0%E6%98%A5%E7%89%B9%E5%88%A5%E4%BC%9A122%E9%96%8B%E5%82%AC%E7%AC%AC17%E5%9B%9E-%E9%96%A2%E8%A5%BF%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA%E4%BC%9A%E3%81%AF%E7%89%B9%E5%88%A5%E4%BC%81%E7%94%BB2026%E5%B9%B4-%E6%96%B0%E6%98%A5%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC/1444353197699300/",
+    "https://www.facebook.com/groups/2041243516100661/",
+    "https://www.facebook.com/100015127804576/posts/boeing%E5%8E%9F%E7%88%86%E7%A9%BA%E8%A5%B2%E5%A3%B2%E5%9B%BD%E5%A5%B4%E6%AD%A3%E4%BD%93%E3%81%A8%E3%81%AF%E3%83%93%E3%83%AB%E3%83%80%E3%83%BC%E3%83%90%E3%83%BC%E3%82%B0%E4%BC%9A%E8%AD%B0wiki%E6%8B%BE%E3%81%84%E8%AA%AD%E3%81%BFmra%E9%81%93%E5%BE%B3%E5%86%8D%E6%AD%A6%E8%A3%85%E8%A8%AD%E7%AB%8B%E3%83%96%E3%83%83%E3%82%AF%E3%83%9E%E3%83%B3%E9%80%A3%E5%90%88%E5%9B%BD%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E4%BA%BA%E3%81%A8%E6%88%A6%E6%99%82%E4%B8%AD%E9%80%A3%E7%B5%A1%E7%B6%B2%E6%B8%8B%E6%B2%A2%E9%9B%85%E8%8B%B1%E4%B8%89%E5%9B%BD%E5%90%8C%E7%9B%9F%E9%99%B8%E8%BB%8D%E5%B0%91%E5%B0%89%E9%80%9A%E4%BF%A1%E5%85%B5m/1679367679244143/",
+    "https://www.facebook.com/mhlw.japan/posts/令和7年下半期-雇用動向調査を実施中主要産業における入職離職や未充足求人の状況などを調査しています調査票がお手元に届きましたらぜひご協力をお願いします入職者票離/1315096163987107/",
+    "https://www.facebook.com/mhlw.japan/posts/令和7年上半期-雇用動向調査を実施中主要産業における入職離職や未充足求人の状況などを調査しています調査票がお手元に届きましたらぜひご協力をお願いします入職者票離/1159409019555823/",
+    "https://www.facebook.com/mhlw.japan/posts/雇用動向調査上半期を実施しています主要産業における入職離職や未充足求人の状況などを調査していますお手元に調査票が届いている事業所でまだ回答がお済みでない場合はご/1435509178612471/",
+    "https://www.facebook.com/mhlw.japan/posts/令和6年下半期-雇用動向調査を実施中主要産業における入職離職や未充足求人の状況などを調査しています調査票がお手元に届きましたらぜひご協力をお願いします回答はオン/1019527123544014/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "雇用動向調査 産業×企業規模 入職者数 製造業（e-Stat の表番号・年ごと・4-131） note 社長",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "https://note.com/sr_sqi/n/n5d68b23b90e0",
+    "https://note.com/nishougongo/n/n25a9973f1bc1",
+    "https://www.solare-sr.com/post-7593/",
+    "https://www.e-stat.go.jp/dbview?sid=0003376330",
+    "https://career-tasu.nikkeihr.co.jp/now_news/inews/14/NIRKDB20261106NKM0366/",
+    "https://entera.tmedia.jp/column/34_employee_turnover_rate/",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_3_1.html",
+    "https://note.com/amane_writer/n/n23d692954637",
+    "https://www.e-stat.go.jp/stat-search/database?statdisp_id=0003398539"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "雇用動向調査 産業×企業規模 入職者数 製造業（e-Stat の表番号・年ごと・4-131） X 投稿",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&kikan=00450&toukei=00450073&stat_infid=000040489927",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "https://x.com/MHLWitter/status/2067427175830278163",
+    "https://www.deviseansr.com/post/%E4%BB%A4%E5%92%8C%EF%BC%97%E5%B9%B4-%E9%9B%87%E7%94%A8%E5%8B%95%E5%90%91%E8%AA%BF%E6%9F%BB%E3%81%8B%E3%82%89%E8%AA%AD%E3%82%80-%E7%94%A3%E6%A5%AD%E5%88%A5%E3%81%AE%E5%85%A5%E8%81%B7%E9%9B%A2%E8%81%B7%E7%8A%B6%E6%B3%81%E3%81%A8%E6%8E%A1%E7%94%A8%E6%88%A6%E7%95%A5",
+    "https://www.e-stat.go.jp/dbview?sid=0003376331",
+    "https://entera.tmedia.jp/column/34_employee_turnover_rate/",
+    "https://edenred.jp/article/hr-recruiting/285/",
+    "https://www.mhlw.go.jp/toukei/list/9-23-1d.html",
+    "https://ab.jcci.or.jp/article/131083/",
+    "https://www.e-stat.go.jp/stat-search/database?statdisp_id=0003398539"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Survey on Employment Trends hires by industry and firm size manufacturing e-Stat site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/news/story/us-unexpectedly-lost-23k-jobs-in-july-7474108/",
+    "https://economicgraph.linkedin.com/content/dam/me/economicgraph/en-us/PDF/skills-first-report-2023.pdf",
+    "https://economicgraph.linkedin.com/content/dam/me/economicgraph/en-us/PDF/skills-based-hiring-march-2025.pdf",
+    "https://business.linkedin.com/content/dam/lem/business/en/hire/resources/talent-strategy/talent-analytics/Final_v4_NAMER_Rise-of-Analytics-Report.pdf",
+    "https://economicgraph.linkedin.com/resources/linkedin-workforce-report-uk-september-2018",
+    "https://www.linkedin.com/pulse/data-scientists-job-trends-after-gen-ai-rick-hightower-behvc",
+    "https://in.linkedin.com/company/marketsandmarkets",
+    "https://uk.linkedin.com/in/augustoschmidt",
+    "https://uk.linkedin.com/company/stephenson-executive-search",
+    "https://www.linkedin.com/in/yi-huahuang"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "採用単価": "記載なし（読んだ45頁・検索16回）",
+  "年間採用費": "記載なし（読んだ45頁・検索16回）"
+ }
+}

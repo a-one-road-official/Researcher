@@ -1,0 +1,640 @@
+{
+ "name": "金属AM・3Dプリンターの市場規模の記事で書き手が「独自に検証できていない」と断った数字と、評価額（調達前・調達後）の数字の区別（売上・市場規模の欄に入れない・4-129）",
+ "en": "metal additive manufacturing market size could not independently verify valuation post-money revenue Japan",
+ "aliases": [
+  "金属3Dプリンター 市場規模 調査要綱 調査対象 調査方法 site:yano.co.jp",
+  "金属3Dプリンター 受託 売上 決算 公告 -予測",
+  "積層造形 スタートアップ 評価額 調達後 売上 区別"
+ ],
+ "context": "市場規模・定義",
+ "kind": "market",
+ "researched_at": "2026-11-09T17:42:00.044154+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sinto.co.jp/promotion/metal-am/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E9%87%91%E5%B1%9E%E5%B8%82%E5%A0%B4-110817",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://monoque.jp/news/551fc9fdd8f0ae4f35fb855e5e431afacbb70fd5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://3d.kinzoku-kakou-odec.com/column/column-702/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://idarts.co.jp/3dp/metal-3d-printing-market-expand-significantly-2024/?srsltid=AYCX9vK-lLLH3sxUXJt-_7tU2DCt-MTFoh-q4xyq9uEWDmBwsBlRjRWf",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/series/34923/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://idarts.co.jp/3dp/metal-3d-printing-market-expand-significantly-2024/?srsltid=AYCX9vINJMp6JWduKQeyb12LvvibeqS-liSlb6kYJNhMe23wHTqh8OpH",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mail.google.com/mail",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://support.google.com/mail/answer/8494?hl=en-GB&co=GENIE.Platform=Desktop",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.google.com/mail/answer/9259955?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.justanswer.com/email/gaa4c-gmail-says-done-nothing-primarie-inbox-know.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.justanswer.com/computer/tlfr6-restore-gmail-inbox-primary-social-tabs.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://idarts.co.jp/3dp/metal-3d-printing-market-expand-significantly-2024/?srsltid=AYCX9vLZTxFxi4-w5Hom0rsYg-QuL0Dnel0vQZVn2WpPhXS0h3VndpZm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qyresearch-news.hatenadiary.jp/entry/2026/05/08/112022",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yhrnews.hatenablog.com/entry/2026/11/03/100150_3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E9%87%91%E5%B1%9E%E5%B8%82%E5%A0%B4-110817",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/am-research-q1-2026-3d-printing-market-growth-260730/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://idarts.co.jp/3dp/metal-3d-printing-market-expand-significantly-2024/?srsltid=AYCX9vLZ4_a4dbFHS7yCLTVm4lfO-q1nZ_GepWWGJPzaELjy8qf_7eTB",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/market-trends/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://idarts.co.jp/3dp/metal-3d-printing-market-expand-significantly-2024/?srsltid=AYCX9vKiew-XNt_dSrYCf54GyxM_S6N61nSPGttQ_mdSkWDFhGaWrKHy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://translate.google.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.deepl.com/en/translator",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://translate.google.com/details",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bing.com/translator/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.deepl.com/es/translator",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://idarts.co.jp/3dp/metal-3d-printing-market-expand-significantly-2024/?srsltid=AYCX9vJ36Eb9fxBEVxi7jA-5TPn_p_FRAdY4pTZszWP7wzMgrarVK5al",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dailymotion.com/video/x8l1cng",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bilibili.tv/en/video/4793368795550208",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ficoforums.myfico.com/t5/Credit-Cards/Sears-Cards-to-be-Converted-to-ThankYou-Mastercards/td-p/6811521",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ficoforums.myfico.com/t5/Credit-Cards/Constant-problems-with-Citi-online-logging-on/td-p/5389792",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ficoforums.myfico.com/t5/Credit-Cards/Citi-Thankyou-Preferred-Mastercard/td-p/4136569",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://idarts.co.jp/3dp/metal-3d-printing-market-expand-significantly-2024/?srsltid=AYCX9vKHwEgpRPwcrgBvJkLsnwXs4Ow0t1PM0Pvct4m54iObqY14dW02",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dlab.jp/blog/3d-printer-industry-trends-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sdki.jp/reports/metal-3d-printing-market/54134",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/qy_research/n/n16bb29a944f8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://idarts.co.jp/3dp/metal-3d-printing-market-expand-significantly-2024/?srsltid=AYCX9vImftuHVmSA1J0VhS8GmRvr2BZJPwJsVMRZTrYbblknjbDLUUsz",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yelp.com/search?cflt=bike_repair_maintenance&find_loc=Longview,+WA+98632",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.yelp.com/search?cflt=bike_repair_maintenance&find_loc=WA-411,+Longview,+WA",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.chamberofcommerce.com/united-states/washington/longview/bicycle-repair-shop/2006578587-proper-cycle-werks",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://bobsmerch.com/bike-shop/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yellowpages.com/longview-wa/bicycle-repair",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://idarts.co.jp/3dp/metal-3d-printing-market-expand-significantly-2024/?srsltid=AYCX9vKDFLkE1csno1eM4ZxvfzpnUsSeheViuN77mKCd87IQbTfFbaqI",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3d-with.com/business/3d-printing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-market/Japan",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idtechex.com/en/research-article/trends-impacting-metal-additive-manufacturings-us-13-billion-future/33233",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.statista.com/topics/1969/additive-manufacturing-and-3d-printing/?srsltid=AYCX9vIIe9Ia75dRlJi7wbyAlyNqLoNGRv7VtBKp0VlqezIjdos4oFKd",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "金属AM・3Dプリンターの市場規模の記事で書き手が「独自に検証できていない」と断った数字と、評価額（調達前・調達後）の数字の区別（売上・市場規模の欄に入れない・4-129） 人手不足 受注 断る",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "https://www.sinto.co.jp/promotion/metal-am/",
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://www.fortunebusinessinsights.com/jp/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E9%87%91%E5%B1%9E%E5%B8%82%E5%A0%B4-110817",
+    "https://monoque.jp/news/551fc9fdd8f0ae4f35fb855e5e431afacbb70fd5/",
+    "http://3d.kinzoku-kakou-odec.com/column/column-702/",
+    "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "https://idarts.co.jp/3dp/metal-3d-printing-market-expand-significantly-2024/?srsltid=AYCX9vIvZfoxe1GKWPpHl46nVF7AlwUN1Fl2vbwwuhC17GRpwU6zucHs",
+    "https://monoist.itmedia.co.jp/mn/series/34923/",
+    "https://qyresearch-news.hatenadiary.jp/entry/2026/05/08/112022"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "金属AM・3Dプリンターの市場規模の記事で書き手が「独自に検証できていない」と断った数字と、評価額（調達前・調達後）の数字の区別（売上・市場規模の欄に入れない・4-129） 受注残 人手不足",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "https://www.sinto.co.jp/promotion/metal-am/",
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://www.fortunebusinessinsights.com/jp/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E9%87%91%E5%B1%9E%E5%B8%82%E5%A0%B4-110817",
+    "https://monoque.jp/news/551fc9fdd8f0ae4f35fb855e5e431afacbb70fd5/",
+    "http://3d.kinzoku-kakou-odec.com/column/column-702/",
+    "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "https://idarts.co.jp/3dp/metal-3d-printing-market-expand-significantly-2024/?srsltid=AYCX9vK-lLLH3sxUXJt-_7tU2DCt-MTFoh-q4xyq9uEWDmBwsBlRjRWf",
+    "https://monoist.itmedia.co.jp/mn/series/34923/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "金属AM・3Dプリンターの市場規模の記事で書き手が「独自に検証できていない」と断った数字と、評価額（調達前・調達後）の数字の区別（売上・市場規模の欄に入れない・4-129） 人手不足 損失 億円",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "https://www.sinto.co.jp/promotion/metal-am/",
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://www.fortunebusinessinsights.com/jp/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E9%87%91%E5%B1%9E%E5%B8%82%E5%A0%B4-110817",
+    "https://monoque.jp/news/551fc9fdd8f0ae4f35fb855e5e431afacbb70fd5/",
+    "http://3d.kinzoku-kakou-odec.com/column/column-702/",
+    "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "https://idarts.co.jp/3dp/metal-3d-printing-market-expand-significantly-2024/?srsltid=AYCX9vINJMp6JWduKQeyb12LvvibeqS-liSlb6kYJNhMe23wHTqh8OpH",
+    "https://monoist.itmedia.co.jp/mn/series/34923/",
+    "https://mail.google.com/mail"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 26
+  },
+  {
+   "query": "金属AM・3Dプリンターの市場規模の記事で書き手が「独自に検証できていない」と断った数字と、評価額（調達前・調達後）の数字の区別（売上・市場規模の欄に入れない・4-129）",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "https://www.sinto.co.jp/promotion/metal-am/",
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://www.fortunebusinessinsights.com/jp/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E9%87%91%E5%B1%9E%E5%B8%82%E5%A0%B4-110817",
+    "https://monoque.jp/news/551fc9fdd8f0ae4f35fb855e5e431afacbb70fd5/",
+    "http://3d.kinzoku-kakou-odec.com/column/column-702/",
+    "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "https://idarts.co.jp/3dp/metal-3d-printing-market-expand-significantly-2024/?srsltid=AYCX9vLZTxFxi4-w5Hom0rsYg-QuL0Dnel0vQZVn2WpPhXS0h3VndpZm",
+    "https://monoist.itmedia.co.jp/mn/series/34923/",
+    "https://qyresearch-news.hatenadiary.jp/entry/2026/05/08/112022"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "金属AM・3Dプリンターの市場規模の記事で書き手が「独自に検証できていない」と断った数字と、評価額（調達前・調達後）の数字の区別（売上・市場規模の欄に入れない・4-129） 推移",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "https://www.sinto.co.jp/promotion/metal-am/",
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://www.fortunebusinessinsights.com/jp/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E9%87%91%E5%B1%9E%E5%B8%82%E5%A0%B4-110817",
+    "https://monoque.jp/news/551fc9fdd8f0ae4f35fb855e5e431afacbb70fd5/",
+    "http://3d.kinzoku-kakou-odec.com/column/column-702/",
+    "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "https://idarts.co.jp/3dp/metal-3d-printing-market-expand-significantly-2024/?srsltid=AYCX9vLZ4_a4dbFHS7yCLTVm4lfO-q1nZ_GepWWGJPzaELjy8qf_7eTB",
+    "https://monoist.itmedia.co.jp/mn/series/34923/",
+    "https://qyresearch-news.hatenadiary.jp/entry/2026/05/08/112022"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "金属AM・3Dプリンターの市場規模の記事で書き手が「独自に検証できていない」と断った数字と、評価額（調達前・調達後）の数字の区別（売上・市場規模の欄に入れない・4-129） 統計 PDF",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "https://www.sinto.co.jp/promotion/metal-am/",
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://www.fortunebusinessinsights.com/jp/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E9%87%91%E5%B1%9E%E5%B8%82%E5%A0%B4-110817",
+    "https://monoque.jp/news/551fc9fdd8f0ae4f35fb855e5e431afacbb70fd5/",
+    "http://3d.kinzoku-kakou-odec.com/column/column-702/",
+    "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "https://idarts.co.jp/3dp/metal-3d-printing-market-expand-significantly-2024/?srsltid=AYCX9vKiew-XNt_dSrYCf54GyxM_S6N61nSPGttQ_mdSkWDFhGaWrKHy",
+    "https://monoist.itmedia.co.jp/mn/series/34923/",
+    "https://translate.google.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 29
+  },
+  {
+   "query": "金属AM・3Dプリンターの市場規模の記事で書き手が「独自に検証できていない」と断った数字と、評価額（調達前・調達後）の数字の区別（売上・市場規模の欄に入れない・4-129） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "https://www.sinto.co.jp/promotion/metal-am/",
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://www.fortunebusinessinsights.com/jp/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E9%87%91%E5%B1%9E%E5%B8%82%E5%A0%B4-110817",
+    "https://monoque.jp/news/551fc9fdd8f0ae4f35fb855e5e431afacbb70fd5/",
+    "http://3d.kinzoku-kakou-odec.com/column/column-702/",
+    "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "https://idarts.co.jp/3dp/metal-3d-printing-market-expand-significantly-2024/?srsltid=AYCX9vJ36Eb9fxBEVxi7jA-5TPn_p_FRAdY4pTZszWP7wzMgrarVK5al",
+    "https://monoist.itmedia.co.jp/mn/series/34923/",
+    "https://www.youtube.com/playlist?list=PLy8WDOJkSFFzEmdEiqpyhaBNhvBD_nINA"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 29
+  },
+  {
+   "query": "金属AM・3Dプリンターの市場規模の記事で書き手が「独自に検証できていない」と断った数字と、評価額（調達前・調達後）の数字の区別（売上・市場規模の欄に入れない・4-129） 従業者規模別",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "https://www.sinto.co.jp/promotion/metal-am/",
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://www.fortunebusinessinsights.com/jp/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E9%87%91%E5%B1%9E%E5%B8%82%E5%A0%B4-110817",
+    "https://monoque.jp/news/551fc9fdd8f0ae4f35fb855e5e431afacbb70fd5/",
+    "http://3d.kinzoku-kakou-odec.com/column/column-702/",
+    "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "https://idarts.co.jp/3dp/metal-3d-printing-market-expand-significantly-2024/?srsltid=AYCX9vKHwEgpRPwcrgBvJkLsnwXs4Ow0t1PM0Pvct4m54iObqY14dW02",
+    "https://monoist.itmedia.co.jp/mn/series/34923/",
+    "https://qyresearch-news.hatenadiary.jp/entry/2026/05/08/112022"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "金属AM・3Dプリンターの市場規模の記事で書き手が「独自に検証できていない」と断った数字と、評価額（調達前・調達後）の数字の区別（売上・市場規模の欄に入れない・4-129） 1人当たり 万円",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "https://www.sinto.co.jp/promotion/metal-am/",
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://www.fortunebusinessinsights.com/jp/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E9%87%91%E5%B1%9E%E5%B8%82%E5%A0%B4-110817",
+    "https://monoque.jp/news/551fc9fdd8f0ae4f35fb855e5e431afacbb70fd5/",
+    "http://3d.kinzoku-kakou-odec.com/column/column-702/",
+    "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "https://idarts.co.jp/3dp/metal-3d-printing-market-expand-significantly-2024/?srsltid=AYCX9vImftuHVmSA1J0VhS8GmRvr2BZJPwJsVMRZTrYbblknjbDLUUsz",
+    "https://monoist.itmedia.co.jp/mn/series/34923/",
+    "https://www.yelp.com/search?cflt=bike_repair_maintenance&find_loc=Longview,+WA+98632"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "金属AM・3Dプリンターの市場規模の記事で書き手が「独自に検証できていない」と断った数字と、評価額（調達前・調達後）の数字の区別（売上・市場規模の欄に入れない・4-129） 2015 2025",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "https://www.sinto.co.jp/promotion/metal-am/",
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://www.fortunebusinessinsights.com/jp/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E9%87%91%E5%B1%9E%E5%B8%82%E5%A0%B4-110817",
+    "https://monoque.jp/news/551fc9fdd8f0ae4f35fb855e5e431afacbb70fd5/",
+    "http://3d.kinzoku-kakou-odec.com/column/column-702/",
+    "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "https://idarts.co.jp/3dp/metal-3d-printing-market-expand-significantly-2024/?srsltid=AYCX9vKDFLkE1csno1eM4ZxvfzpnUsSeheViuN77mKCd87IQbTfFbaqI",
+    "https://monoist.itmedia.co.jp/mn/series/34923/",
+    "https://qyresearch-news.hatenadiary.jp/entry/2026/05/08/112022"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "metal additive manufacturing market size could not independently verify valuation post-money revenue Japan Japan statistics",
+   "results": [
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-market/Japan",
+    "https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market",
+    "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "https://www.idtechex.com/en/research-article/trends-impacting-metal-additive-manufacturings-us-13-billion-future/33233",
+    "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "https://www.statista.com/topics/1969/additive-manufacturing-and-3d-printing/?srsltid=AYCX9vIIe9Ia75dRlJi7wbyAlyNqLoNGRv7VtBKp0VlqezIjdos4oFKd",
+    "https://www.linkedin.com/pulse/japan-metal-additive-manufacturing-software-tdsdf",
+    "https://market.us/report/the-additive-manufacturing-market/",
+    "https://www.coherentmarketinsights.com/industry-reports/metal-additive-manufacturing-market",
+    "https://www.imarcgroup.com/japan-metal-additive-manufacturing-market"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 金属AM・3Dプリンターの市場規模の記事で書き手が「独自に検証できていない」と断った数字と、評価額（調達前・調達後）の数字の区別（売上・市場規模の欄に入れない・4-129）",
+   "results": [
+    "https://qyresearch-news.hatenadiary.jp/entry/2026/05/08/112022",
+    "https://yhrnews.hatenablog.com/entry/2026/11/03/100150_3",
+    "https://www.fortunebusinessinsights.com/jp/3dプリンティング金属市場-110817",
+    "https://news.sharelab.jp/3dp-news/report/am-research-q1-2026-3d-printing-market-growth-260730/",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://news.sharelab.jp/market-trends/",
+    "https://straitsresearch.com/jp/report/3d-printing-metal-market"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 金属AM・3Dプリンターの市場規模の記事で書き手が「独自に検証できていない」と断った数字と、評価額（調達前・調達後）の数字の区別（売上・市場規模の欄に入れない・4-129）",
+   "results": [
+    "https://qyresearch-news.hatenadiary.jp/entry/2026/05/08/112022",
+    "https://yhrnews.hatenablog.com/entry/2026/11/03/100150_3",
+    "https://www.fortunebusinessinsights.com/jp/3dプリンティング金属市場-110817",
+    "https://news.sharelab.jp/3dp-news/report/am-research-q1-2026-3d-printing-market-growth-260730/",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://news.sharelab.jp/market-trends/",
+    "https://straitsresearch.com/jp/report/3d-printing-metal-market"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 金属AM・3Dプリンターの市場規模の記事で書き手が「独自に検証できていない」と断った数字と、評価額（調達前・調達後）の数字の区別（売上・市場規模の欄に入れない・4-129）",
+   "results": [
+    "https://qyresearch-news.hatenadiary.jp/entry/2026/05/08/112022",
+    "https://yhrnews.hatenablog.com/entry/2026/11/03/100150_3",
+    "https://www.fortunebusinessinsights.com/jp/3dプリンティング金属市場-110817",
+    "https://news.sharelab.jp/3dp-news/report/am-research-q1-2026-3d-printing-market-growth-260730/",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://news.sharelab.jp/market-trends/",
+    "https://straitsresearch.com/jp/report/3d-printing-metal-market"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 金属AM・3Dプリンターの市場規模の記事で書き手が「独自に検証できていない」と断った数字と、評価額（調達前・調達後）の数字の区別（売上・市場規模の欄に入れない・4-129）",
+   "results": [
+    "https://qyresearch-news.hatenadiary.jp/entry/2026/05/08/112022",
+    "https://yhrnews.hatenablog.com/entry/2026/11/03/100150_3",
+    "https://www.fortunebusinessinsights.com/jp/3dプリンティング金属市場-110817",
+    "https://news.sharelab.jp/3dp-news/report/am-research-q1-2026-3d-printing-market-growth-260730/",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://news.sharelab.jp/market-trends/",
+    "https://straitsresearch.com/jp/report/3d-printing-metal-market"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "金属AM・3Dプリンターの市場規模の記事で書き手が「独自に検証できていない」と断った数字と、評価額（調達前・調達後）の数字の区別（売上・市場規模の欄に入れない・4-129） note 社長",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "https://www.sinto.co.jp/promotion/metal-am/",
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://www.fortunebusinessinsights.com/jp/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E9%87%91%E5%B1%9E%E5%B8%82%E5%A0%B4-110817",
+    "https://monoque.jp/news/551fc9fdd8f0ae4f35fb855e5e431afacbb70fd5/",
+    "http://3d.kinzoku-kakou-odec.com/column/column-702/",
+    "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "https://idarts.co.jp/3dp/metal-3d-printing-market-expand-significantly-2024/?srsltid=AYCX9vLfTWbmYNUipUKMCBxOf4flIr_MNR9QyeWZ07Nyo7Cbnc6T-NWw",
+    "https://monoist.itmedia.co.jp/mn/series/34923/",
+    "https://qyresearch-news.hatenadiary.jp/entry/2026/05/08/112022"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "金属AM・3Dプリンターの市場規模の記事で書き手が「独自に検証できていない」と断った数字と、評価額（調達前・調達後）の数字の区別（売上・市場規模の欄に入れない・4-129） X 投稿",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "https://www.sinto.co.jp/promotion/metal-am/",
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://www.fortunebusinessinsights.com/jp/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E9%87%91%E5%B1%9E%E5%B8%82%E5%A0%B4-110817",
+    "https://monoque.jp/news/551fc9fdd8f0ae4f35fb855e5e431afacbb70fd5/",
+    "http://3d.kinzoku-kakou-odec.com/column/column-702/",
+    "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "https://idarts.co.jp/3dp/metal-3d-printing-market-expand-significantly-2024/?srsltid=AYCX9vJ7SoxfkLHsAIX1V8l1mgf_59guR9OzpyDotDrp5nNn-J9XEs9m",
+    "https://monoist.itmedia.co.jp/mn/series/34923/",
+    "https://qyresearch-news.hatenadiary.jp/entry/2026/05/08/112022"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "metal additive manufacturing market size could not independently verify valuation post-money revenue Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/michael-pecota_chinese-super-factory-with-400-metal-3d-printers-activity-7515407153684271105-CJKK",
+    "https://www.linkedin.com/pulse/revenue-forecast-growth-outlook-metal-additive-manufacturing-kee2e",
+    "https://uk.linkedin.com/company/metalammagazine",
+    "https://www.linkedin.com/posts/metalammagazine_this-week-metal-ams-top-five-most-read-news-activity-7524803388782567424-TEDC",
+    "https://www.linkedin.com/posts/michael-pecota_interview-one-minute-to-midnight-josef-activity-7518217396386701314-tEXN",
+    "https://www.linkedin.com/pulse/aluminum-alloys-additive-manufacturing-market-size-2026-2033-ru0ge",
+    "https://www.linkedin.com/in/scott-dunham-b394b528",
+    "https://uk.linkedin.com/in/martin-hamill-34b14846",
+    "https://www.linkedin.com/pulse/material-jetting-mj-market-growth-from-2026-2033-projected-o7smc",
+    "https://uk.linkedin.com/in/michael-petch-47206688"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ53頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ53頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ53頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ53頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ53頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ53頁・検索18回）",
+  "10年推移": "記載なし（読んだ53頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ53頁・検索18回）"
+ }
+}

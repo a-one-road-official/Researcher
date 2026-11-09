@@ -1,0 +1,1521 @@
+{
+ "name": "Rinsed",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜AUMS不適合",
+ "researched_at": "2026-11-09T18:01:41.285516+00:00",
+ "official_url": "https://www.rinsed.com",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2019",
+    "url": "https://startupintros.com/orgs/rinsed",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "New York City, NY, USA",
+    "url": "https://startupintros.com/orgs/rinsed",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Show submenu for Products",
+    "url": "https://www.rinsed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Car Wash CRM integrates directly with your POS and website, so all of your customer data, marketing tools, and business metrics are in one easy-to-use platform.",
+    "url": "https://www.rinsed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Salespath brings visibility to the driveway, providing insights into each sales moment to improve the sales process & increase conversions. Works with any POS.",
+    "url": "https://www.rinsed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve your customer experience",
+    "url": "https://www.rinsed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"As a training consultant for nearly 10 years, I have helped customers grow their membership base and SalePath is the best tool I have come across to aid in that growth.\"",
+    "url": "https://www.rinsed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“I've been washing cars for over 20 years, and there is no one close to the capabilities of Rinsed. The secret sauce is the simplified checkout process. It lets us keep more members by reducing churn, and also sell more memberships online.",
+    "url": "https://www.rinsed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Rinsed has transformed the way we leverage data and given us the technology to increase new member signups and reduce churn. The Rinsed team works with us to understand our business and provides the tools our leaders need to grow the business effectively.”",
+    "url": "https://www.rinsed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Rinsed simplified our reporting process, as well as gave us the platform to skyrocket our online presence. If you are looking for a reliable platform with modification ability to your specific needs, Rinsed is where to look.”",
+    "url": "https://www.rinsed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Rinsed not only helps us achieve our goals, but more importantly, Rinsed helps us define and measure our performance, so we as managers can make better goal-setting decisions. Rinsed is a competitive advantage for us, and we are able to provide a much better customer experience because of it.”",
+    "url": "https://www.rinsed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Rinsed integrates directly with your POS and website, so all of your customer data, marketing tools, and business metrics are in one easy-to-use platform.",
+    "url": "https://www.rinsed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Terms & Conditions and Privacy Policy",
+    "url": "https://www.rinsed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Terms of Use",
+    "url": "https://www.rinsed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Show submenu for Products",
+    "url": "https://www.rinsed.com/solutions-partners",
+    "pass": 1
+   },
+   {
+    "quote": "We’ve teamed up with trusted marketing experts who can help with everything from building your website to planning full-scale campaigns. Explore our partners below and see how they can help your wash grow.",
+    "url": "https://www.rinsed.com/solutions-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you need a fresh website, help designing promotions, or a full-scale marketing plan, our Solutions Partners are here to support you. Each partner has been carefully selected for their expertise in helping car washes attract, engage, and retain customers, so you can choose the right fit for your goals.",
+    "url": "https://www.rinsed.com/solutions-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Our team of story tellers and story sellers does work (not just marketing talk) that creates results. Think of us as your team of fractional Chief Marketing Officers, ready to help and stay in your budget.",
+    "url": "https://www.rinsed.com/solutions-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Terms & Conditions and Privacy Policy",
+    "url": "https://www.rinsed.com/solutions-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Terms of Use",
+    "url": "https://www.rinsed.com/solutions-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Show submenu for Products",
+    "url": "https://www.rinsed.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "With Rinsed, car washes are growing their memberships. Our CRM platform and sales tools drive growth, improve retention, and streamline marketing. See the impact for yourself by watching our customer success stories.",
+    "url": "https://www.rinsed.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How Camel Express Car Wash Automated 98% of their Service Tickets with the help of Support Agent & Customer Portal",
+    "url": "https://www.rinsed.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How LUV Car Wash Saved 3,400 Members, Drove 12K Memberships Online, And Improved Workflows with Rinsed",
+    "url": "https://www.rinsed.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How Camel Express Car Wash Added Over 28K to Their Retail Rewards Program and Converted 24% to Members Using Rinsed",
+    "url": "https://www.rinsed.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How Sparkle Express Car Wash Grew Membership Sales & Achieved 2X Conversions Through a Partnership with Rinsed",
+    "url": "https://www.rinsed.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How Monty’s Express Car Wash Increased Memberships by 57% YOY",
+    "url": "https://www.rinsed.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Terms & Conditions and Privacy Policy",
+    "url": "https://www.rinsed.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Terms of Use",
+    "url": "https://www.rinsed.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Rinsed Product Pricing",
+    "url": "https://www.rinsed.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Show submenu for Products",
+    "url": "https://www.rinsed.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Transparent pricing and contracts made for Car Washes",
+    "url": "https://www.rinsed.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-channel marketing",
+    "url": "https://www.rinsed.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Customer loyalty and upsell programs",
+    "url": "https://www.rinsed.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Customized training videos",
+    "url": "https://www.rinsed.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing built around your wash.",
+    "url": "https://www.rinsed.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Every car wash is different. That's why Rinsed doesn't offer one-size-fits-all pricing. Tell us about your business and we'll build a solution around your goals.",
+    "url": "https://www.rinsed.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Bundled pricing is available when you combine two or more of our products. It’s a smart way to save and an even smarter way to run your wash.",
+    "url": "https://www.rinsed.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "\"As a training consultant for nearly 10 years, I have helped customers grow their membership base and SalePath is the best tool I have come across to aid in that growth.\"",
+    "url": "https://www.rinsed.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "“I've been washing cars for over 20 years, and there is no one close to the capabilities of Rinsed. The secret sauce is the simplified checkout process. It lets us keep more members by reducing churn, and also sell more memberships online.",
+    "url": "https://www.rinsed.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "“Rinsed has transformed the way we leverage data and given us the technology to increase new member signups and reduce churn. The Rinsed team works with us to understand our business and provides the tools our leaders need to grow the business effectively.”",
+    "url": "https://www.rinsed.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "“Rinsed simplified our reporting process, as well as gave us the platform to skyrocket our online presence. If you are looking for a reliable platform with modification ability to your specific needs, Rinsed is where to look.”",
+    "url": "https://www.rinsed.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "“Rinsed not only helps us achieve our goals, but more importantly, Rinsed helps us define and measure our performance, so we as managers can make better goal-setting decisions. Rinsed is a competitive advantage for us, and we are able to provide a much better customer experience because of it.”",
+    "url": "https://www.rinsed.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How does Rinsed pricing work?",
+    "url": "https://www.rinsed.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We price based on what you actually need — the products you use and how many locations you're running. Multi-location operators get bundled pricing. Single-site operators get a solution sized to their business. Either way, our team builds the proposal with you, not for you. Fill out the form above and we'll be in touch.",
+    "url": "https://www.rinsed.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "What products does Rinsed offer?",
+    "url": "https://www.rinsed.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Rinsed offers three core products:",
+    "url": "https://www.rinsed.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "The Car Wash CRM for membership marketing and retention",
+    "url": "https://www.rinsed.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Many of our customers run two or all three together for bundled pricing.",
+    "url": "https://www.rinsed.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Most locations go live within a few weeks of signing. Our implementation team works directly with your team through onboarding, so you're not doing it alone.",
+    "url": "https://www.rinsed.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Rinsed integrates directly with your POS and website, so all of your customer data, marketing tools, and business metrics are in one easy-to-use platform.",
+    "url": "https://www.rinsed.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Terms & Conditions and Privacy Policy",
+    "url": "https://www.rinsed.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Terms of Use",
+    "url": "https://www.rinsed.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Show submenu for Products",
+    "url": "https://www.rinsed.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We're a B2B SaaS company, providing car washes all the tools they need to transition to a subscription model. Modern car washes are fully-automated tunnels that can wash over 200 cars/hr, shifting from selling single washes to all-you-can-wash subscriptions. We are giving this $15bn underserved market the tools to manage and grow their subscription revenue.",
+    "url": "https://www.rinsed.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "While working in private equity, our CEO, Austin, met with dozens of car wash operators. He was excited about the future of the industry and the growth of the subscription model, but recognized the lack of tools to support the evolving needs of the next generation of car washes.",
+    "url": "https://www.rinsed.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Today, Rinsed is even more than just The Car Wash CRM. In May of 2024, we acquired Ignite Wash, expanding our product set to include Salespath, The Car Wash Salesperson Platform.",
+    "url": "https://www.rinsed.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "What we've built so far is just the beginning. Get to be part of the founding DNA of building a great product, a great culture, and a great company!",
+    "url": "https://www.rinsed.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We're proud to be recognized by leading platforms as one of the best places to work and a top startup to watch.",
+    "url": "https://www.rinsed.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "\"I love the fast paced environment of working at a startup every day like Rinsed. I get to work on problems that directly impact both our business and our customers, and being able to see the real time impact of what we're building is just so rewarding and makes me really excited and energized about my work.\"",
+    "url": "https://www.rinsed.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "\"I love the autonomy and the culture. Any position has the ability to go beyond what you were hired for. And then the work culture is really great. I love that I can interact with people from all over the USA and even some international employees. Team dynamics are super fun. I love that there's a lot of different people and everyone brings their own personality.\"",
+    "url": "https://www.rinsed.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "When there’s something to make, improve, change, or get rid of, it gets done.",
+    "url": "https://www.rinsed.com/careers",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by over 3,000 car washes",
+    "url": "https://www.rinsed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Rinsed is specifically built for car wash owners and operators to grow and manage their memberships.",
+    "url": "https://www.rinsed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Rinsed is specifically built for car wash owners and operators to grow and manage their memberships.",
+    "url": "https://www.rinsed.com/solutions-partners",
+    "pass": 1
+   },
+   {
+    "quote": "How Sud's Factory Car Wash Doubled Their Conversion Rate with Salespath",
+    "url": "https://www.rinsed.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Rinsed is specifically built for car wash owners and operators to grow and manage their memberships.",
+    "url": "https://www.rinsed.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the Top Car Wash Companies",
+    "url": "https://www.rinsed.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We price based on what you actually need — the products you use and how many locations you're running. Multi-location operators get bundled pricing. Single-site operators get a solution sized to their business. Either way, our team builds the proposal with you, not for you. Fill out the form above and we'll be in touch.",
+    "url": "https://www.rinsed.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Rinsed is specifically built for car wash owners and operators to grow and manage their memberships.",
+    "url": "https://www.rinsed.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "While working in private equity, our CEO, Austin, met with dozens of car wash operators. He was excited about the future of the industry and the growth of the subscription model, but recognized the lack of tools to support the evolving needs of the next generation of car washes.",
+    "url": "https://www.rinsed.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Seeing an opportunity to make a meaningful impact in the car wash industry, Austin set out to create a platform that would help operators manage every aspect of the customer journey. He brought in his co-founders, Sam and Nic, to develop The Car Wash CRM platform, and the rest is history!",
+    "url": "https://www.rinsed.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Rinsed is specifically built for car wash owners and operators to grow and manage their memberships.",
+    "url": "https://www.rinsed.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Raw denim is unwashed, stiff, and offers the highest fade potential but requires careful sizing, while rinsed (one-wash) denim has been washed once at the factory to remove shrinkage — making it softer, more predictable to size, and ready to wear, at the cost of slightly muted maximum fades.",
+    "url": "https://japan-denim.com/blogs/blog/denim-rinse-vs-raw",
+    "pass": 3
+   },
+   {
+    "quote": "A: Raw denim is unwashed, stiff, and shrinks on first wash, offering the highest fade potential. Rinsed or one-wash denim has been washed once at the factory to remove shrinkage, making it softer and predictable to size.",
+    "url": "https://japan-denim.com/blogs/blog/denim-rinse-vs-raw",
+    "pass": 3
+   },
+   {
+    "quote": "Sud's Factory Car Wash Doubles Membership Conversion with Rinsed Salespath",
+    "url": "https://www.casestudies.com/company/rinsed",
+    "pass": 3
+   },
+   {
+    "quote": "Sud's Factory Car Wash",
+    "url": "https://www.casestudies.com/company/rinsed",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Rinsed scales QBRs for every customer with Rollstack | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/rollstack/case-study/rinsed-delivers-qbrs-to-100-of-customers-with-rollstack",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Rinsed scales QBRs for every customer with Rollstack",
+    "url": "https://www.casestudies.com/company/rollstack/case-study/rinsed-delivers-qbrs-to-100-of-customers-with-rollstack",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/rollstack/case-study/rinsed-delivers-qbrs-to-100-of-customers-with-rollstack",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/rollstack/case-study/rinsed-delivers-qbrs-to-100-of-customers-with-rollstack",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/rinsed/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2019 by Nic Hippenmeyer, Samuel Logan, and Austin Esecson, Rinsed arose from recognizing the car wash sector's need for purpose-built technology. The founders identified specific challenges in managing memberships and customer engagement. Their insight was to deliver a comprehensive, industry-specific CRM, enabling operators to modernize and optimize unique business processes.",
+    "url": "https://startupintros.com/orgs/rinsed",
+    "pass": 3
+   },
+   {
+    "quote": "Rinsed serves car wash businesses, helping them attract and retain unlimited wash club members. The company's vision is to be the foundational technology for the car wash industry, streamlining operations, elevating customer experiences, and driving profitability. By centralizing essential business functions, Rinsed empowers operators to achieve sustainable growth and make data-driven decisions.",
+    "url": "https://startupintros.com/orgs/rinsed",
+    "pass": 3
+   },
+   {
+    "quote": "automotive services, SaaS, and subscription-based business models",
+    "url": "https://startupintros.com/orgs/rinsed",
+    "pass": 3
+   },
+   {
+    "quote": "car wash owners and operators",
+    "url": "https://startupintros.com/orgs/rinsed",
+    "pass": 3
+   },
+   {
+    "quote": "Easy integration without requiring hardware changes; designed for operators of all sizes to quickly adopt and scale.",
+    "url": "https://startupintros.com/orgs/rinsed",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Membership Revenue Growth",
+    "url": "https://www.rinsed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Using Rinsed has brought our unlimited wash pass memberships churn rate down significantly, and that's helped with the bottom line big time. We've recovered a lot of revenue since using Rinsed.”",
+    "url": "https://www.rinsed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Grow and retain your car wash membership revenue today",
+    "url": "https://www.rinsed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How Drive & Shine Car Wash retained over $400K in revenue using downsells",
+    "url": "https://www.rinsed.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you're running one location or fifty, we work with you to find the right combination of tools to grow memberships, reduce churn, and drive revenue.",
+    "url": "https://www.rinsed.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Increase in Membership Revenue Growth",
+    "url": "https://www.rinsed.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Growth in the First Year",
+    "url": "https://www.rinsed.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "“Using Rinsed has brought our unlimited wash pass memberships churn rate down significantly, and that's helped with the bottom line big time. We've recovered a lot of revenue since using Rinsed.”",
+    "url": "https://www.rinsed.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Grow and retain your car wash membership revenue today",
+    "url": "https://www.rinsed.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We're a B2B SaaS company, providing car washes all the tools they need to transition to a subscription model. Modern car washes are fully-automated tunnels that can wash over 200 cars/hr, shifting from selling single washes to all-you-can-wash subscriptions. We are giving this $15bn underserved market the tools to manage and grow their subscription revenue.",
+    "url": "https://www.rinsed.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Today, Rinsed is even more than just The Car Wash CRM. In May of 2024, we acquired Ignite Wash, expanding our product set to include Salespath, The Car Wash Salesperson Platform.",
+    "url": "https://www.rinsed.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "What we've built so far is just the beginning. Get to be part of the founding DNA of building a great product, a great culture, and a great company!",
+    "url": "https://www.rinsed.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "What Our Employees Say About Us",
+    "url": "https://www.rinsed.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "\"I love the autonomy and the culture. Any position has the ability to go beyond what you were hired for. And then the work culture is really great. I love that I can interact with people from all over the USA and even some international employees. Team dynamics are super fun. I love that there's a lot of different people and everyone brings their own personality.\"",
+    "url": "https://www.rinsed.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Parental Leave: Family comes first. Employees are eligible from Day 1 for up to 20 weeks’ fully paid leave for primary caregivers, and 16 weeks’ for secondary caregivers.",
+    "url": "https://www.rinsed.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Wellness: Our benefits go beyond just standard Medical, Dental, & Vision. Employees have access to additional programs like Spring Health, One Medical, a gym membership stipend, and a monthly HSA contribution.",
+    "url": "https://www.rinsed.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We have offices located in New York City and Lehi, Utah, as well as employees located in 19 states across the US! Our team includes both fully remote and hybrid workers.",
+    "url": "https://www.rinsed.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Drive & Shine Car Wash retains over $400K in revenue with Rinsed",
+    "url": "https://www.casestudies.com/company/rinsed",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/rinsed/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions (1)",
+    "url": "https://pitchbook.com/profiles/company/437303-44",
+    "pass": 3
+   },
+   {
+    "quote": "Rinsed’s most recent deal was a Merger/Acquisition with",
+    "url": "https://pitchbook.com/profiles/company/437303-44",
+    "pass": 3
+   },
+   {
+    "quote": "To view Rinsed’s complete acquisitions history, request access »",
+    "url": "https://pitchbook.com/profiles/company/437303-44",
+    "pass": 3
+   },
+   {
+    "quote": "Rinsed has 65 total employees.",
+    "url": "https://pitchbook.com/profiles/company/437303-44",
+    "pass": 3
+   },
+   {
+    "quote": "What is Rinsed’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/437303-44",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Rinsed is",
+    "url": "https://pitchbook.com/profiles/company/437303-44",
+    "pass": 3
+   },
+   {
+    "quote": "scalable B2B SaaS platforms that enable recurring revenue models",
+    "url": "https://startupintros.com/orgs/rinsed",
+    "pass": 3
+   },
+   {
+    "quote": "Family Plans for multi-vehicle memberships, Salespath acquisition for salesforce automation, and comprehensive analytics to reduce churn and increase membership sales[2][3][6].",
+    "url": "https://startupintros.com/orgs/rinsed",
+    "pass": 3
+   },
+   {
+    "quote": "Rinsed’s evolution from a niche CRM provider to a critical enabler of subscription revenue models in the $15 billion car wash market underscores the power of targeted SaaS innovation in transforming legacy industries.",
+    "url": "https://startupintros.com/orgs/rinsed",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "We don’t like agencies. And we know most car washes don’t either.",
+    "url": "https://www.rinsed.com/solutions-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Most agencies guess. We track everything and evolve. Knowing what works matters more than thinking it might.",
+    "url": "https://www.rinsed.com/solutions-partners",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本語WordNet(英和)での「・rinse」の英訳",
+    "url": "https://ejje.weblio.jp/content/%E3%83%BBrinse",
+    "pass": 3
+   },
+   {
+    "quote": "出典: フリー多機能辞典『ウィクショナリー日本語版（Wiktionary）』",
+    "url": "https://ja.wiktionary.org/wiki/rinse",
+    "pass": 3
+   },
+   {
+    "quote": "Rinsed Japanese Denim Jeans by 45rpm Studio",
+    "url": "https://45rglobal.com/collections/rinsed-japanese-jeans",
+    "pass": 3
+   },
+   {
+    "quote": "– JAPAN Denim Fashion & Co",
+    "url": "https://japan-denim.com/blogs/blog/denim-rinse-vs-raw",
+    "pass": 3
+   },
+   {
+    "quote": "Genuine Japanese denim",
+    "url": "https://japan-denim.com/blogs/blog/denim-rinse-vs-raw",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese brands commonly offer the same model in both raw and one-wash, letting buyers choose their preference. At Japan-Denim.com, we see one-wash as a thoughtful bridge — keeping the soul of selvedge denim while removing the sizing anxiety that scares off newcomers.",
+    "url": "https://japan-denim.com/blogs/blog/denim-rinse-vs-raw",
+    "pass": 3
+   },
+   {
+    "quote": "At Japan-Denim.com, we tell US buyers: choose raw if dramatic fades and the break-in ritual excite you and you are comfortable managing sizing; choose one-wash if you want a guaranteed fit, a softer feel, and still-excellent fades with less fuss.",
+    "url": "https://japan-denim.com/blogs/blog/denim-rinse-vs-raw",
+    "pass": 3
+   },
+   {
+    "quote": "One-Wash: Japan Blue J301 (One-Wash)",
+    "url": "https://japan-denim.com/blogs/blog/denim-rinse-vs-raw",
+    "pass": 3
+   },
+   {
+    "quote": "Raw and rinsed denim are two paths to the same beautiful selvedge. Choose raw if you want the highest-contrast fades and enjoy the break-in ritual, and are ready to size up and soak. Choose rinsed one-wash if you want a guaranteed fit, a softer feel, and still-excellent fades without the sizing guesswork. Many Japanese brands offer both, so you can pick the experience that suits you.",
+    "url": "https://japan-denim.com/blogs/blog/denim-rinse-vs-raw",
+    "pass": 3
+   },
+   {
+    "quote": "At Japan-Denim.com, we stock both raw and one-wash selvedge so every buyer — from first-timer to seasoned fade chaser — can find their ideal pair. Explore our denim collection and choose your path.",
+    "url": "https://japan-denim.com/blogs/blog/denim-rinse-vs-raw",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Denim for Beginners: The Complete Starter Guide for US Buyers",
+    "url": "https://japan-denim.com/blogs/blog/denim-rinse-vs-raw",
+    "pass": 3
+   },
+   {
+    "quote": "rinsed in Japanese? How to use rinsed in Japanese. Learn Japanese",
+    "url": "https://wikilanguages.net/Japanese/rinsed.html",
+    "pass": 3
+   },
+   {
+    "quote": "English - Japanese Dictionary",
+    "url": "https://wikilanguages.net/Japanese/rinsed.html",
+    "pass": 3
+   },
+   {
+    "quote": "Do you know rinsed in Japanese? How to use rinsed in Japanese and how to say rinsed in Japanese?",
+    "url": "https://wikilanguages.net/Japanese/rinsed.html",
+    "pass": 3
+   },
+   {
+    "quote": "How to write rinsed in Japanese",
+    "url": "https://wikilanguages.net/Japanese/rinsed.html",
+    "pass": 3
+   },
+   {
+    "quote": "? Now let's learn how to say rinsed in Japanese language.",
+    "url": "https://wikilanguages.net/Japanese/rinsed.html",
+    "pass": 3
+   },
+   {
+    "quote": "rinsed translate to Japanese meanings:",
+    "url": "https://wikilanguages.net/Japanese/rinsed.html",
+    "pass": 3
+   },
+   {
+    "quote": "すすぎ in Japanese is rinsed in English.",
+    "url": "https://wikilanguages.net/Japanese/rinsed.html",
+    "pass": 3
+   },
+   {
+    "quote": "How to use rinsed in Japanese?",
+    "url": "https://wikilanguages.net/Japanese/rinsed.html",
+    "pass": 3
+   },
+   {
+    "quote": "How to say rinsed in Japanese?",
+    "url": "https://wikilanguages.net/Japanese/rinsed.html",
+    "pass": 3
+   },
+   {
+    "quote": "How to write rinsed in Japanese?",
+    "url": "https://wikilanguages.net/Japanese/rinsed.html",
+    "pass": 3
+   },
+   {
+    "quote": "Why we should learn Japanese language?",
+    "url": "https://wikilanguages.net/Japanese/rinsed.html",
+    "pass": 3
+   },
+   {
+    "quote": "About Japanese language",
+    "url": "https://wikilanguages.net/Japanese/rinsed.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese language code",
+    "url": "https://wikilanguages.net/Japanese/rinsed.html",
+    "pass": 3
+   },
+   {
+    "quote": "Conclusion on rinsed in Japanese",
+    "url": "https://wikilanguages.net/Japanese/rinsed.html",
+    "pass": 3
+   },
+   {
+    "quote": "Meaning of rinsed in Japanese language is:",
+    "url": "https://wikilanguages.net/Japanese/rinsed.html",
+    "pass": 3
+   },
+   {
+    "quote": "Other words in Japanese",
+    "url": "https://wikilanguages.net/Japanese/rinsed.html",
+    "pass": 3
+   },
+   {
+    "quote": "7 reasons to learn a Japanese language",
+    "url": "https://wikilanguages.net/Japanese/rinsed.html",
+    "pass": 3
+   },
+   {
+    "quote": ". This is your most common way to say rinsed in すすぎ language. Click audio icon to pronounce rinsed in Japanese::",
+    "url": "https://wikilanguages.net/Japanese/rinsed.html",
+    "pass": 3
+   },
+   {
+    "quote": "The standard way to write \"rinsed\" in Japanese is:",
+    "url": "https://wikilanguages.net/Japanese/rinsed.html",
+    "pass": 3
+   },
+   {
+    "quote": "about Japanese language in here",
+    "url": "https://wikilanguages.net/Japanese/rinsed.html",
+    "pass": 3
+   },
+   {
+    "quote": "Writing system in Japanese",
+    "url": "https://wikilanguages.net/Japanese/rinsed.html",
+    "pass": 3
+   },
+   {
+    "quote": "Mixed scripts of Kanji (Chinese character) and Kana (Hiragana, Katakana), Japanese Braille",
+    "url": "https://wikilanguages.net/Japanese/rinsed.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Speaking Countries and Territories",
+    "url": "https://wikilanguages.net/Japanese/rinsed.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Speaking Countries and Territories: Japan.",
+    "url": "https://wikilanguages.net/Japanese/rinsed.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese native speakers",
+    "url": "https://wikilanguages.net/Japanese/rinsed.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "rinsedの意味・使い方・読み方 | Weblio英和辞書 — rinsedの意味や使い方 すすぎ, リンス, すすぐ, リンスする関連語rinsing - 約506万語ある英和辞典・和英辞典。 発音・イディオムも分かる英語辞書。",
+    "url": "https://ejje.weblio.jp/content/rinsed",
+    "pass": 3
+   },
+   {
+    "quote": "「rinsed」の意味・使い方｜よく使うフレーズと例文で学ぼう | 英語例... — Oct 27, 2025 · 英単語「rinsed」の意味や使い方、よく使われるフレーズや例文を紹介しました。 英語学習は例文やフレーズと一緒に単語の意味や使い方を覚えると効果的です。 ここで紹介している例文を日々の英語学習に役立ててください。",
+    "url": "https://reibun-eigo.com/entry-rinsed/",
+    "pass": 3
+   },
+   {
+    "quote": "英語「・rinse」の意味・使い方・読み方 | Weblio英和辞書 — rinse (third-person singular simple present rinses, present participle rinsing, simple past and past participle rinsed) (transitive) To wash (something) quickly using water and no soap.",
+    "url": "https://ejje.weblio.jp/content/・rinse",
+    "pass": 3
+   },
+   {
+    "quote": "rinse - ウィクショナリー日本語版 — 動詞 編集 rinse (三単現: rinses, 現在分詞: rinsing, 過去形: rinsed, 過去分詞: rinsed ) (他動詞) 濯 （ すす ） ぐ。 濯 （ ゆす ） ぐ。 (他動詞) （石鹼などを） 洗 （ あら ） い 流 （ なが ） す。",
+    "url": "https://ja.wiktionary.org/wiki/rinse",
+    "pass": 3
+   },
+   {
+    "quote": "Rinsed Japanese Denim Jeans by 45rpm Studio – 45R GLOBAL — 45R’s one-wash jeans offer a soft, wearable alternative to raw denim—crafted in Japan with 12–14 oz fabrics in classic indigo tones.",
+    "url": "https://45rglobal.com/collections/rinsed-japanese-jeans",
+    "pass": 3
+   },
+   {
+    "quote": "Rinsed vs Raw Denim: Which Should You Buy? (One-Wash Guide ... — Jun 24, 2026 · Rinsed vs raw denim: how one-wash and raw selvedge differ in shrinkage, fades, feel, and sizing, plus the best Japanese picks for US buyers.",
+    "url": "https://japan-denim.com/blogs/blog/denim-rinse-vs-raw",
+    "pass": 3
+   },
+   {
+    "quote": "rinsed in Japanese? How to use rinsed in Japanese. Learn Japanese — Nov 9, 2024 · Now that you have learned and understood the common ways of saying rinsed in Japanese is \"すすぎ\", it's time to learn how to say rinsed in Japanese. This will hopefully give you a little motivation to study Japanese today.",
+    "url": "https://wikilanguages.net/Japanese/rinsed.html",
+    "pass": 3
+   },
+   {
+    "quote": "Rinsed in Japanese - English-Japanese Dictionary | Glosbe — Check 'Rinsed' translations into Japanese. Look through examples of Rinsed translation in sentences, listen to pronunciation and learn grammar.",
+    "url": "https://glosbe.com/en/ja/Rinsed",
+    "pass": 3
+   },
+   {
+    "quote": "rinsed - Japanese translation – Linguee — Many translated example sentences containing \"rinsed\" – Japanese-English dictionary and search engine for Japanese translations.",
+    "url": "https://www.linguee.com/english-japanese/translation/rinsed.html",
+    "pass": 3
+   },
+   {
+    "quote": "Rinsed B2B Case Studies & Customer Successes — See how Rinsed solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/rinsed",
+    "pass": 3
+   },
+   {
+    "quote": "Rinsed Customer Success Stories — Discover how car washes have achieved success with Rinsed. Watch real customer stories and testimonials showcasing increased efficiency, growth, and customer satisfaction.",
+    "url": "https://www.rinsed.com/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Rinsed scales QBRs for every customer with ... — Rinsed (Computer Software) partnered with Rollstack (Computer Software) to solve key challenges. \"Rinsed delivers QBRs to 100% of customers with Rollstack\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/rollstack/case-study/rinsed-delivers-qbrs-to-100-of-customers-with-rollstack",
+    "pass": 3
+   },
+   {
+    "quote": "11 Rinsed Case Studies, Success Stories, & Customer Stories — Rinsed has a 4.8/5 star rating. Learn what their customers think, get 11 free case studies and more.",
+    "url": "https://www.featuredcustomers.com/vendor/rinsed/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "How Rinsed scaled QBRs from enterprise to every customer — Learn how Rinsed turned QBRs into a growth engine with Rollstack, delivering data-driven business reviews to every customer, not just enterprise accounts.",
+    "url": "https://www.rollstack.com/customers/rinsed",
+    "pass": 3
+   },
+   {
+    "quote": "Rinsed – Revenue Estimate & Market Landscape – 2026 — Rinsed’s team and funding include estimated revenue of $17M, team of around 100+ employees, based in United States, helping drive core operations.",
+    "url": "https://compworth.com/company/rinsed",
+    "pass": 3
+   },
+   {
+    "quote": "Rinsed 2026 Company Profile: Valuation, Funding & Investors ...Rinsed - 2026 Company Profile, Team, Funding & Competitors ...Rinsed: Funding, Team & Investors | Startup IntrosHow Rinsed hit $5M revenue with a 49 person team in 2023.Rinsed - Overview, News & Similar companies | ZoomInfo.comRinsed — Company Profile | The Company Check — Information on valuation, funding, acquisitions, investors, and",
+    "url": "https://pitchbook.com/profiles/company/437303-44",
+    "pass": 3
+   },
+   {
+    "quote": "Rinsed - 2026 Company Profile, Team, Funding & Competitors ...Rinsed: Funding, Team & Investors | Startup IntrosHow Rinsed hit $5M revenue with a 49 person team in 2023.Rinsed - Overview, News & Similar companies | ZoomInfo.comRinsed — Company Profile | The Company Check — Mar 23, 2026 · Rinsed is a series B company based in New York City (United States), founded in 2019 by Samuel Logan, Nic Hippe",
+    "url": "https://tracxn.com/d/companies/rinsed/__9rcs9ntCj6Veb7dhka-3wQ8EZc-EpT5FC64RP5_PJi0",
+    "pass": 3
+   },
+   {
+    "quote": "Rinsed: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Frequently Asked Questions Who founded Rinsed? Rinsed was founded in 2019 by Austin Esecson (Founder) and Sam Logan (Co-Founder & COO) and Nic Hippenmeyer (Founder). How much funding has Rinsed raised? Rinsed has raised $32.0M in total across 2 funding rounds.",
+    "url": "https://startupintros.com/orgs/rinsed",
+    "pass": 3
+   },
+   {
+    "quote": "How Rinsed hit $5M revenue with a 49 person team in 2023. — Rinsed CEO Austin Esecson shares how Rinsed grew to $5M over the past 6 years. Rinsed has bootstrapped. See Rinsed growth here.",
+    "url": "https://getlatka.com/companies/rinsed.com/customers",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "By clicking Subscribe, you agree to receive marketing emails from 45R. You can unsubscribe at any time by clicking the link in our emails. For details on how we handle your personal information, please see our",
+    "url": "https://45rglobal.com/collections/rinsed-japanese-jeans",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/rinsed/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/rinsed/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/437303-44",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Winter Hair Care, Countermeasures for Dryness｜cokua If treatment is not rinsed enough, it can remain unevenly on parts of the hair, leading to stickiness or poor finger-combing. Run your fingers through the applied areas and rinse thoroughly until no sliminess remains. It is designed to properly exert its effect of improving finger-combing even when fully rinsed.",
+    "url": "https://note.com/cokua_care0604/n/nc9134e61651d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Difference Between Pure Water and Tap Water for Car ... \"I rinsed it thoroughly, but white rings remained on the dry body.\" One cause of this is the minerals dissolved in tap water. \"Pure water,\" which you may see on car wash menus, is water from which these minerals have been almost entirely removed. Using it for the final rinse makes it less likely",
+    "url": "https://note.com/youkaichi0114/n/n75ce533271bf?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Winter Hair Care, Countermeasures for Dryness｜cokua",
+    "url": "https://note.com/cokua_care0604/n/nc9134e61651d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Winter Hair Care, Countermeasures for Dryness",
+    "url": "https://note.com/cokua_care0604/n/nc9134e61651d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Your hair spreading out in winter might be due to how you wash it.",
+    "url": "https://note.com/cokua_care0604/n/nc9134e61651d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "As the air gets drier, there are complaints we hear every year.",
+    "url": "https://note.com/cokua_care0604/n/nc9134e61651d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"My hair is frizzy,\" \"It's unmanageable due to static electricity,\" \"Even if I style it in the morning, it spreads out by the evening.\"",
+    "url": "https://note.com/cokua_care0604/n/nc9134e61651d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Before adding expensive treatments, the first thing I want you to review is your daily washing and application methods.",
+    "url": "https://note.com/cokua_care0604/n/nc9134e61651d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Today, I have summarized habits you can try starting tonight.",
+    "url": "https://note.com/cokua_care0604/n/nc9134e61651d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【What you will learn in this article】",
+    "url": "https://note.com/cokua_care0604/n/nc9134e61651d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Difference Between Pure Water and Tap Water for Car Washing | Why White Water Spot Marks Remain｜東近江の洗車屋まっちゃん",
+    "url": "https://note.com/youkaichi0114/n/n75ce533271bf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Difference Between Pure Water and Tap Water for Car Washing | Why White Water Spot Marks Remain",
+    "url": "https://note.com/youkaichi0114/n/n75ce533271bf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"I rinsed it thoroughly, but white rings remained on the dry body.\" One cause of this is the minerals dissolved in tap water. \"Pure water,\" which you may see on car wash menus, is water from which these minerals have been almost entirely removed. Using it for the final rinse makes it less likely that water-derived marks will be left behind.",
+    "url": "https://note.com/youkaichi0114/n/n75ce533271bf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Hello. This is Macchan, the car washer from Higashiomi, at Green Road SS (Yokaichi Gas Co., Ltd.) in Higashiomi City, Shiga Prefecture.",
+    "url": "https://note.com/youkaichi0114/n/n75ce533271bf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Why do white rings remain after water droplets disappear?",
+    "url": "https://note.com/youkaichi0114/n/n75ce533271bf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A photo showing whitish stains on the door mirror and side panel. The header image is the same car. From a photo taken before Mineral Off treatment on our shop blog (posted October 18, 2026).",
+    "url": "https://note.com/youkaichi0114/n/n75ce533271bf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For example, suppose a single water droplet remains on the hood after washing. As time passes, the moisture evaporates, but components like calcium that were dissolved in the water remain there. That is why you see white rings along the places where the water droplets were.",
+    "url": "https://note.com/youkaichi0114/n/n75ce533271bf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "However, not everything that looks white on the body is necessarily a tap water mark. The photo is of a car we previously introduced as an example of Mineral Off treatment at our shop. If you find something similar on your own car, it will be a clue for consultation if you remember whether it was \"not visible immediately after rinsing but appeared once it dried\" or \"was in the same place before wa",
+    "url": "https://note.com/youkaichi0114/n/n75ce533271bf?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "RINSED (@rinseddotfun) / X Spawn your fresh ideas on rinsed.fun. Stress tested for 10K users at the same time.",
+    "url": "https://x.com/rinseddotfun",
+    "pass": 3
+   },
+   {
+    "quote": "rinsed (@rinsednyc) / Posts / X RINSED is turning 7! To celebrate we’re taking over Le Bain not once, but twice! Also just… instagram.com/p/BbSvklVhI3T/ 💬0 🔄0 🤍1 0 📎 rinsedrinsednyc Oct 30",
+    "url": "https://x.com/rinsednyc",
+    "pass": 3
+   },
+   {
+    "quote": "Rinsed Gaming (@RinseGaming) / X Rinsed Gaming incoming: 🟡 Goo Crew 🧼 Otto’s Wild Wash 💥 Rinse Rush Frenzy 2Three new ways to get rinsed. Which one’s first on your list? #RinsedGaming #UpcomingGames",
+    "url": "https://x.com/RinseGaming",
+    "pass": 3
+   },
+   {
+    "quote": "KeessHazess on X: \"@GrifterTheGoat Brotha so many rinsed ... @GrifterTheGoat Brotha so many rinsed chads in the trenches when i had 40k i slided some chads who asked me for a small blessing cuz ive been there myself so many times, i dont see it as begging when someone ask if u can slide him 1 sol. But thats me anyway i respect you brotha. 🦾",
+    "url": "https://x.com/KeessHazess/status/2119300487883137439",
+    "pass": 3
+   },
+   {
+    "quote": "米 ⊹ ࣪ ˖₊˚⊹⋆ (@RinsedRice) / Posts / X - x.com ・ご自身のXアカウントにて、着用写真を1回投稿していただける方 【応募方法】 1️⃣ 当アカウントをフォロー 2️⃣ このポストをRT / RP 3️⃣ リプライに「モデルに応募します！ 」の一言と、 ご自身のアバター写真を添えて投稿してください 【結果発表】",
+    "url": "https://x.com/RinsedRice",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Rinsed - LinkedIn Rinsed | 13,295 followers on LinkedIn. The Car Wash CRM | The Car Wash CRM. Grow and retain your car wash membership revenue with Rinsed",
+    "url": "https://www.linkedin.com/company/rinsed",
+    "pass": 3
+   },
+   {
+    "quote": "Rinsed - LinkedIn RINSED is rethinking the way we wash our hair. Most hair routines are built around the same cycle: shampoo strips, conditioner coats, and additional products are added to solve the problems left...",
+    "url": "https://www.linkedin.com/company/shoprinsed",
+    "pass": 3
+   },
+   {
+    "quote": "Fabrice Castel - Director of Engineering @ Rinsed | LinkedInAustin Esecson - Co-Founder & CEO at Rinsed | LinkedInRinsed: Culture | LinkedInRinsed - LinkedInRinsed: Jobs | LinkedIn Director of Engineering @ Rinsed · Experience: Rinsed · Education: University of Waterloo · Location: Toronto · 316 connections on LinkedIn. View Fabrice Castel’s profile on LinkedIn, a... Co-Founder & CEO at Rinsed · E",
+    "url": "https://ca.linkedin.com/in/fcastel",
+    "pass": 3
+   },
+   {
+    "quote": "Austin Esecson - Co-Founder & CEO at Rinsed | LinkedInRinsed: Culture | LinkedInRinsed - LinkedInRinsed: Jobs | LinkedIn Co-Founder & CEO at Rinsed · Experience: Rinsed · Education: Y Combinator · Location: New York · 500+ connections on LinkedIn. With more than 10 million active memberships managed through Rinsed, we’re transforming an industry that’s growing fast—and having a lot of fun doing it",
+    "url": "https://www.linkedin.com/in/austinesecson",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Rinsed: The Car Wash CRM - FacebookRinsed - FacebookRinsed co - FacebookRinsed Products - FacebookRinsed - Rinsed added a new photo. - FacebookRinsed Clothing - FacebookRinsed - Facebook Dec 16, 2025 · Rinsed: The Car Wash CRM. 362 followers. Subscription management for modern car washes. Jun 14, 2026 · Thank you so much for touching our lives so deeply with your beautiful souls. Few parties make ",
+    "url": "https://www.facebook.com/RinsedCarWash/",
+    "pass": 3
+   },
+   {
+    "quote": "Rinsed - FacebookRinsed co - FacebookRinsed Products - FacebookRinsed - Rinsed added a new photo. - FacebookRinsed Clothing - FacebookRinsed - Facebook Jun 14, 2026 · Thank you so much for touching our lives so deeply with your beautiful souls. Few parties make it 15 years in New York City - RINSED is only possible because of you. To many more…. 📸: @gp.selvaggio Stand for something - join the host",
+    "url": "https://www.facebook.com/rinsed.it/",
+    "pass": 3
+   },
+   {
+    "quote": "Rinsed co - Facebook Oct 18, 2026 · Come check out: * Rinsed Co x Road King Toy Hauler * Rinsed Drift Car * Selected range of Rinsed Co merch * Me & Kano will be there all day KickAss are also running massive discounts across a selected range of their products, so if you’ve been waiting to grab something, this is the perfect chance.",
+    "url": "https://www.facebook.com/rinsed.co/",
+    "pass": 3
+   },
+   {
+    "quote": "Rinsed Products - Facebook Jun 30, 2026 · Rinsed Products. 411 likes · 2 talking about this. RINSED® | Bike Care & Clothing 🧼 Bike cleaners & detailing 🧥 Waterproof jackets & dry robes 👕 Hoodies...",
+    "url": "https://www.facebook.com/61587970182388/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.rinsed.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rinsed.com/solutions-partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rinsed.com/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rinsed.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rinsed.com/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.rinsed.com/hs-fs/hubfs/sr-rinsed/Images/all_logos.png?width=900&height=363&name=all_logos.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.rinsed.com/hubfs/sr-rinsed/Images/67c22e789b73fd34ae1145dd_Screenshot%202025-02-28%20at%203.41.42%20PM.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ejje.weblio.jp/content/rinsed",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reibun-eigo.com/entry-rinsed/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ejje.weblio.jp/content/%E3%83%BBrinse",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wiktionary.org/wiki/rinse",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chigai2.fromation.co.jp/archives/30533",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://45rglobal.com/collections/rinsed-japanese-jeans",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan-denim.com/blogs/blog/denim-rinse-vs-raw",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wikilanguages.net/Japanese/rinsed.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://glosbe.com/en/ja/Rinsed",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/rinsed",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/rollstack/case-study/rinsed-delivers-qbrs-to-100-of-customers-with-rollstack",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/rinsed/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/rinsed",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/437303-44",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/rinsed/__9rcs9ntCj6Veb7dhka-3wQ8EZc-EpT5FC64RP5_PJi0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://startupintros.com/orgs/rinsed",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/cokua_care0604/n/nc9134e61651d?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/youkaichi0114/n/n75ce533271bf?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/rinseddotfun",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/rinsednyc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/RinseGaming",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/KeessHazess/status/2119300487883137439",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/rinsed",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/shoprinsed",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/fcastel",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/austinesecson",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/RinsedCarWash/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/rinsed.it/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/rinsed.co/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61587970182388/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/rinseddotfun",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/RinsedRice",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Rinsed 日本 導入",
+   "results": [
+    "https://ejje.weblio.jp/content/rinsed",
+    "https://reibun-eigo.com/entry-rinsed/",
+    "https://ejje.weblio.jp/content/・rinse",
+    "https://ja.wiktionary.org/wiki/rinse",
+    "https://carview.yahoo.co.jp/news/detail/47e6455a7095c54bc0ec0f739549cf4f3c6fa475/",
+    "https://binge-reading.com/archives/591",
+    "https://kiwi-english.net/62298",
+    "https://bestcarweb.jp/news/entame/1669612"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Rinsed 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://chigai2.fromation.co.jp/archives/30533",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://www.jetro.go.jp/invest/setting_up/section1/page2.html",
+    "https://www.jetro.go.jp/invest/setting_up/section1/page1.html",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.ipsen.com/japan/会社/",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Rinsed Japan",
+   "results": [
+    "https://45rglobal.com/collections/rinsed-japanese-jeans",
+    "https://japan-denim.com/blogs/blog/denim-rinse-vs-raw",
+    "https://wikilanguages.net/Japanese/rinsed.html",
+    "https://glosbe.com/en/ja/Rinsed",
+    "https://www.linguee.com/english-japanese/translation/rinsed.html",
+    "https://www.selfedge.com/index.php?route=product/product&product_id=3938",
+    "https://www.selfedge.com/pure-blue-japan"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rinsed manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/rinsed",
+    "https://www.rinsed.com/customer-stories",
+    "https://www.casestudies.com/company/rollstack/case-study/rinsed-delivers-qbrs-to-100-of-customers-with-rollstack",
+    "https://www.featuredcustomers.com/vendor/rinsed/case-studies",
+    "https://www.rollstack.com/customers/rinsed",
+    "https://support.rinsed.com/hc/en-us/articles/50497191343123-Customer-Success-at-Rinsed",
+    "https://www.rinsed.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rinsed white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://www.canva.com/partners/reseller/",
+    "https://www.seoreseller.com/",
+    "https://www.tenable.com/partners/channel-partner-program"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rinsed founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/rinsed",
+    "https://pitchbook.com/profiles/company/437303-44",
+    "https://tracxn.com/d/companies/rinsed/__9rcs9ntCj6Veb7dhka-3wQ8EZc-EpT5FC64RP5_PJi0",
+    "https://startupintros.com/orgs/rinsed",
+    "https://getlatka.com/companies/rinsed.com/customers",
+    "https://www.zoominfo.com/c/rinsed-inc/565041210",
+    "https://www.thecompanycheck.com/company/b/rinsed/4ha6snmaqmr51swtg"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Rinsed",
+   "results": [
+    "https://note.com/lively_pika8336/n/n5adf36c23e7b",
+    "https://note.com/seigo77",
+    "https://note.com/cokua_care0604/n/nc9134e61651d?hl=en",
+    "https://note.com/youkaichi0114/n/n75ce533271bf?hl=en",
+    "https://note.com/arijisui/n/n3ea47e6cd79f?hl=en",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Rinsed",
+   "results": [
+    "https://x.com/rinseddotfun",
+    "https://x.com/rinsednyc",
+    "https://x.com/RinseGaming",
+    "https://x.com/KeessHazess/status/2119300487883137439",
+    "https://x.com/rinsed_crm",
+    "https://x.com/tonberry_2/status/2119282947899420923",
+    "https://x.com/trezzz/status/2119822272844435911"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Rinsed",
+   "results": [
+    "https://www.linkedin.com/company/rinsed",
+    "https://www.linkedin.com/company/shoprinsed",
+    "https://ca.linkedin.com/in/fcastel",
+    "https://www.linkedin.com/in/austinesecson",
+    "https://www.linkedin.com/company/rinsed/life",
+    "https://www.linkedin.com/company/rinsed-studio",
+    "https://www.linkedin.com/company/rinsed/jobs"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Rinsed",
+   "results": [
+    "https://www.facebook.com/RinsedCarWash/",
+    "https://www.facebook.com/rinsed.it/",
+    "https://www.facebook.com/rinsed.co/",
+    "https://www.facebook.com/61587970182388/",
+    "https://www.facebook.com/photo.php/?fbid=1220359949649405",
+    "https://www.facebook.com/RinsedClothing/",
+    "https://www.facebook.com/rinsed.nz/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rinsed note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://nikkeimatome.com/?p=74703"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rinsed X 投稿",
+   "results": [
+    "https://x.com/rinseddotfun",
+    "https://www.instagram.com/rinsed/",
+    "https://www.instagram.com/reel/Dcs06hiyXfJ/",
+    "https://x.com/RinsedRice",
+    "https://x-sou.com/ja/u/greedybratgod/2089774914295284057",
+    "https://fantia.jp/fanclubs/90880/posts",
+    "https://search.yahoo.co.jp/realtime/search/投稿/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式5頁／PDF・画像2件／外部39頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像2件／外部39頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像2件／外部39頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式5頁／PDF・画像2件／外部39頁・検索12回）"
+ }
+}

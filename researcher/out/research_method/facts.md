@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・303品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・305品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -6211,6 +6211,8 @@
 ## 会社の名寄せ（登記番号・社名変更・支店・解散会社）の実務（company entity resolution registry identifiers name changes branches dissolved）
 - 文脈：同一性
 - 手順・やり方：
+  - 「system is quietly changing everything. By the end you’ll know exactly where the major potholes lie, the tools top aggregators deploy, and how to tell if your “single source of truth” is really golden or just gold-plated.」（https://blog.opencorporates.com/2025/06/17/entity-resolution-for-data-aggregators/）
+  - 「, typically the official state registries, and flows through five critical steps:」（https://blog.opencorporates.com/2025/06/17/entity-resolution-for-data-aggregators/）
   - 「Company Entity Resolution: How to Match Legal Entities Globally (200+ Countries) - globaldatabase.com」（https://www.globaldatabase.com/company-entity-resolution-how-to-match-legal-entities-globally-200-countries）
   - 「Company Entity Resolution: How to Match Legal Entities Globally (200+ Countries)」（https://www.globaldatabase.com/company-entity-resolution-how-to-match-legal-entities-globally-200-countries）
   - 「The practical design is layered: try deterministic matches first, score the rest probabilistically, auto-merge only above a high threshold, and send the middle band to a human with the evidence attached. That review step is where ambiguous cases like parents and subsidiaries get resolved correctly.」（https://www.globaldatabase.com/company-entity-resolution-how-to-match-legal-entities-globally-200-countries）
@@ -6224,11 +6226,11 @@
   - 「Can you really trust your data? Here’s how to find out」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
   - 「How to check data coverage and freshness in OpenCorporates」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
   - 「Altss Entity Resolution Methodology | Altss Frameworks」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
-  - 「Matching methods used to find candidate pairs, and the limits on what they may decide.」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
-  - 「LP/GP Relationship Intelligence Methodology」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
 - 突き合わせ・推定：
   - 「Revenue and employee estimates」（https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/）
 - 一次情報の探し方：
+  - 「pull filings from every jurisdiction (plus SEC, tax, and licensing data).」（https://blog.opencorporates.com/2025/06/17/entity-resolution-for-data-aggregators/）
+  - 「, and every field links back to its official filing. That provenance isn’t a nice-to-have; auditors demand it, regulators expect it, and machine-learning teams need it for training sets.」（https://blog.opencorporates.com/2025/06/17/entity-resolution-for-data-aggregators/）
   - 「merges two different companies: one company's insolvency or adverse filing is attributed to the wrong counterparty, and decisions get made on someone else's data.」（https://www.globaldatabase.com/company-entity-resolution-how-to-match-legal-entities-globally-200-countries）
   - 「Resolve each legal entity, then link them through ownership filings」（https://www.globaldatabase.com/company-entity-resolution-how-to-match-legal-entities-globally-200-countries）
   - 「resolved entities change status, names, officers and owners. Watch the register and re-resolve when a material filing appears, with」（https://www.globaldatabase.com/company-entity-resolution-how-to-match-legal-entities-globally-200-countries）
@@ -6242,11 +6244,14 @@
   - 「– like addresses and corporate filings – are vital. They add context that strengthens risk assessments and reveals hidden links.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
   - 「The question "is this the same entity?". Answered by a registry identifier or by a filing naming both as one.」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
   - 「No public IRS register among the sources cited; taken from a filing that states it」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
-  - 「4.2 Filings that establish identity.」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
-  - 「A registry identifier retrieved from the issuing body's own system (the Global LEI Index, EDGAR, BrokerCheck or IAPD, SIRENE, the Companies House register), or from a filing on a regulator's system that states it, has origin REGULATORY_PUBLIC_RECORD and derivation OBSERVED.」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
 - 失敗・落とし穴：
+  - 「you can reliably collapse duplicates. No matter how rich your datasets or how cutting-edge your graph database, if you match “Acme Holdings LLC” (parent) to “Acme Corp Ltd” (subsidiary) by mistake, your risk scores, supply-chain exposure, and ESG metrics all fall like dominoes. Entity Resolution is the hinge on which the entire narrative, and any real-world compliance program, turns.」（https://blog.opencorporates.com/2025/06/17/entity-resolution-for-data-aggregators/）
+  - 「Many US states still hide officers, and only a slice of businesses carry LEIs. Bias can creep into machine-learning matches, and survivorship rules require human oversight. Finally, if your downstream teams ignore the golden source and keep editing records locally, duplicates will creep back. Entity resolution is a」（https://blog.opencorporates.com/2025/06/17/entity-resolution-for-data-aggregators/）
   - 「Dates can change in format or have mistakes, but they typically reflect a consistent historical fact about the entity.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
 - 実例：
+  - 「Case study: Red Oak’s automated approach to detecting Outside Business Activities (OBAs)」（https://blog.opencorporates.com/2025/06/17/entity-resolution-for-data-aggregators/）
+  - 「Case study: Why automating fund verification is the new standard for Client Lifecycle Management (CLM) providers」（https://blog.opencorporates.com/2025/06/17/entity-resolution-for-data-aggregators/）
+  - 「Case study: How a large US bank re-checks the businesses on its book against the secretary of state」（https://blog.opencorporates.com/2025/06/17/entity-resolution-for-data-aggregators/）
   - 「The practical design is layered: try deterministic matches first, score the rest probabilistically, auto-merge only above a high threshold, and send the middle band to a human with the evidence attached. That review step is where ambiguous cases like parents and subsidiaries get resolved correctly.」（https://www.globaldatabase.com/company-entity-resolution-how-to-match-legal-entities-globally-200-countries）
   - 「Illustrative example: the KYC record from the top of this guide against the subsidiary」（https://www.globaldatabase.com/company-entity-resolution-how-to-match-legal-entities-globally-200-countries）
   - 「Setting thresholds by use case」（https://www.globaldatabase.com/company-entity-resolution-how-to-match-legal-entities-globally-200-countries）
@@ -6259,9 +6264,6 @@
   - 「in risk profiles. For example, if a company’s address moves to a high-risk area, the compliance team can quickly re-evaluate the entity’s risk.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
   - 「Entity Verification Case Study Compendium」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
   - 「Case study: How a large US bank re-checks the businesses on its book against the secretary of state」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
-  - 「Case study: Why automating fund verification is the new standard for Client Lifecycle Management (CLM) providers」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
-  - 「Strip legal-form suffixes, punctuation and case; transliterate scripts; expand common abbreviations. Normalised strings are used only to compare. The names as stated in sources are kept. See」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
-  - 「A unique identifier that clearly refers to the same individual in both records: for example an individual's CRD number (the CRD system holds the registration records of individuals associated with broker-dealers, and investment adviser representatives are registered through it), or a unique canonical identifier issued by the source for that individual.」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
 - 検索結果の抜粋：
   - 「Frequently Asked Questions - California Secretary of StateEntity Resolution Explained: Matching Company Records Across ...Entity Resolution Without Fuzzy Matching: How Registry ...Tracking Entity Name Changes Across State SOS DatabasesHow to Verify a Business Was Dissolved & Get ProofTrack Entity Name Changes Through SOS Records — A business entity can be formed in California online at bizfileOnli」（https://www.sos.ca.gov/business-programs/business-entities/faqs）
 
@@ -13446,11 +13448,11 @@
 
 ## 法人番号（国税庁13桁）と会社法人番号（法務局12桁）の違いと、同名の別法人・グループ会社を本店所在地と法人種別で見分ける手順（登記・与信・名寄せの実務の書き手）（corporate number 13-digit vs company registration number 12-digit Japan entity matching same name different company）
 - 文脈：一次情報の探し方
-- 手順・やり方：記載なし（読んだ16頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ16頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ16頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ16頁・検索12回）
-- 実例：記載なし（読んだ16頁・検索12回）
+- 手順・やり方：記載なし（読んだ14頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ14頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ14頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ14頁・検索12回）
+- 実例：記載なし（読んだ14頁・検索12回）
 
 ## 1つの資料に結果が複数あるときに採る値を選ぶ規則と、質でなく偏りの危険で確度を付ける考え方（PRISMA 2020 の解説・系統的レビュー・ファクトチェックの手引きの書き手）（selection of results multiple results per study risk of bias vs quality PRISMA 2020 explanation）
 - 文脈：突き合わせ
@@ -13527,21 +13529,23 @@
 - 文脈：手順・やり方
 - 手順・やり方：
   - 「まずは消されてしまったウェブ上の情報を探し出す方法をご紹介します」（https://d-jedi.jp/n/n90e111c11d23?gs=c707c3f5ef67798194ae2b2fe43863bf）
-  - 「消えたURLの記事を読む方法｜ウェブ魚拓サービスの種類と使い方まとめ｜惣一郎さん」（https://note.com/zz08/n/ncd84a61a7641）
-  - 「消えたURLの記事を読む方法｜ウェブ魚拓サービスの種類と使い方まとめ」（https://note.com/zz08/n/ncd84a61a7641）
-  - 「この記事では、現在使えるウェブ魚拓サービスの種類と、それぞれの使い方をわかりやすく解説します」（https://note.com/zz08/n/ncd84a61a7641）
-  - 「魚拓とはもともと魚の形を墨で紙に写し取る日本の伝統技法ですが、ウェブの世界でもページの「型」を取るイメージからこの名前が使われています」（https://note.com/zz08/n/ncd84a61a7641）
-  - 「ブックマーク先が消えたときに試したい、Wayback Machineで過去のページを探す方法｜みなとHints｜暮らしの小さな発見(フォロバ100)」（https://note.com/minato_hints/n/n66753053b58f）
-  - 「ブックマーク先が消えたときに試したい、Wayback Machineで過去のページを探す方法」（https://note.com/minato_hints/n/n66753053b58f）
-  - 「ドメイン部分だけ入力して、トップページから目的ページを探す方法もある」（https://note.com/minato_hints/n/n66753053b58f）
-  - 「OSINTでニュースを検証する方法―画像・動画・地図・公文書から事実を確かめる | Resixley Blog」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
-  - 「OSINTでニュースを検証する方法―画像・動画・地図・公文書から事実を確かめる」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
-  - 「でニュースを検証する方法―画像・動画・地図・公文書から事実を確かめる」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
-  - 「画像、動画、地図、衛星画像、天候記録、公文書、企業資料、ウェブアーカイブなどを組み合わせ、情報の出所、撮影場所、日時、変更履歴を確かめる方法を扱う」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
-  - 「検索、地図、画像、動画、公文書など、一般に公開されている情報を、再検証できる手順によって組み合わせる方法である」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
-  - 「何が確認でき、何が確認できていないかを分け、証拠を積み重ね、第三者が同じ手順を再現できるようにすることである」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
-  - 「統計を使っているなら、元の表と調査方法を見る」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
+  - 「Wayback Machineの使い方完全ガイド｜過去ページ閲覧・保存（Save Page Now）・復元の手順【2026】 - SEO日報」（https://seo-nippou.com/entry/20250906）
+  - 「基本の使い方：過去のページを閲覧する（URL検索）」（https://seo-nippou.com/entry/20250906）
+  - 「見つからないときの探し方（成功率を上げるコツ）」（https://seo-nippou.com/entry/20250906）
+  - 「ページを保存する方法：Save Page Now（今のページを残す）」（https://seo-nippou.com/entry/20250906）
+  - 「上位ページの過去版からSEO改善のヒントを見つける具体的な手順は、」（https://seo-nippou.com/entry/20250906）
+  - 「Webアーカイブを使ったSEO競合分析のやり方」（https://seo-nippou.com/entry/20250906）
+  - 「削除されたホームページを復元する方法（SEO担当者向け）」（https://seo-nippou.com/entry/20250906）
+  - 「Webアーカイブを使ったSEO競合分析のやり方｜上位ページの過去版から改善ヒントを見つける手順」（https://seo-nippou.com/entry/20250906）
+  - 「削除されたウェブページを見る方法【2026】｜URLから保存履歴を確認 | Kiroku」（https://kiroku.today/guides/view-deleted-pages）
+  - 「削除されたウェブページを見る方法【2026】｜URLから保存履歴を確認」（https://kiroku.today/guides/view-deleted-pages）
+  - 「削除・404になったページのURLから、Kiroku、Wayback Machine、archive.todayの保存履歴を確認する手順を解説」（https://kiroku.today/guides/view-deleted-pages）
+  - 「Googleキャッシュ廃止後に、消えた記事・サイトを探す現実的な方法を整理します」（https://kiroku.today/guides/view-deleted-pages）
+  - 「URLが分からない場合の探し方と、今後消えるかもしれないページを事前保存する際の検品方法も説明します」（https://kiroku.today/guides/view-deleted-pages）
+  - 「方法1: Wayback Machine（最も広範）」（https://kiroku.today/guides/view-deleted-pages）
 - 突き合わせ・推定：
+  - 「Kiroku編集部は、公開ウェブページの保存、変更監視、証拠保全ワークフローを継続的に検証しながら、実務で使える保存ガイドを制作しています」（https://kiroku.today/guides/view-deleted-pages）
+  - 「Kiroku編集部は、公開ウェブページの保存、変更監視、証拠保全ワークフローを継続的に検証しながら、実務で使える保存ガイドを制作しています」（https://kiroku.today/guides/save-webpage-before-deleted-chrome-extension）
   - 「それが後で振り返って検証しようというときに役立つはずだ」（https://note.com/shirabeshi/n/nee92b41d8cc1）
   - 「数年後、数十年後、数百年後にも検証可能な形で残す」（https://note.com/shirabeshi/n/nee92b41d8cc1）
   - 「IPアドレスが分かると5ちゃんねる等の過去ログと照合して「匿名投稿」と「note上の本人」を結びつけられる（＝デラノニマイズ／非匿名化）の危険が現実に指摘された」（https://note.com/zz08/n/ncd84a61a7641）
@@ -13555,25 +13559,28 @@
   - 「こうした情報を収集し、整理し、別の情報と照合して、調査上の問いへ答える」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
   - 「第4章 事実、主張、仮説を分ける」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
   - 「OSINTでは、確認された事実と、投稿者の主張と、調査者の仮説を分けなければならない」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
-  - 「調査者が「別の国の過去映像ではないか」と考えたなら、それは仮説である」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
-  - 「事実、主張、仮説を混ぜると、検証前の推測が確定情報へ変わってしまう」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
 - 一次情報の探し方：
   - 「ウェブアーカイブは、世界各国の国立図書館や公的機関が中心となって行っており、日本では国立国会図書館が2002年よりインターネット資料収集保存事業（WARP）を実施しています」（https://d-jedi.jp/n/n90e111c11d23?gs=c707c3f5ef67798194ae2b2fe43863bf）
+  - 「保存したいURL（ウェブページ・PDF）を入力」（https://kiroku.today/guides/view-deleted-pages）
+  - 「一次情報を優先し、公式ドキュメント、政府・公的機関、プラットフォームのヘルプ、プロダクト実測をもとに記述します」（https://kiroku.today/guides/view-deleted-pages）
+  - 「ニュース記事、ブログ、求人情報、不動産物件ページなど、消えやすいコンテンツは見つけた時点で保存するのがおすすめです」（https://kiroku.today/guides/view-deleted-pages）
+  - 「炎上ポスト、求人詐欺、規約改定、物件の急な価格変更」（https://kiroku.today/guides/save-webpage-before-deleted-chrome-extension）
+  - 「削除されたページの扱いや証拠としての採用可否は、案件ごとに弁護士や専門家へ確認してください」（https://kiroku.today/guides/save-webpage-before-deleted-chrome-extension）
+  - 「繰り返し変わりうるページ（規約・価格・求人）はURL監視に登録し、次回の変更を自動で残す」（https://kiroku.today/guides/save-webpage-before-deleted-chrome-extension）
+  - 「④ 不自然に高待遇な求人・副業広告 ― 応募者対応が始まると掲載が下げられる」（https://kiroku.today/guides/save-webpage-before-deleted-chrome-extension）
+  - 「規約ページ・価格ページ・求人ページなど、1回保存しただけでは足りないものは、Kirokuダッシュボードで同じURLをURL監視に登録します」（https://kiroku.today/guides/save-webpage-before-deleted-chrome-extension）
+  - 「一次情報を優先し、公式ドキュメント、政府・公的機関、プラットフォームのヘルプ、プロダクト実測をもとに記述します」（https://kiroku.today/guides/save-webpage-before-deleted-chrome-extension）
+  - 「実際の証拠採用可否は個別案件ごとに異なるため、提出前に弁護士の確認を受けてください」（https://kiroku.today/guides/save-webpage-before-deleted-chrome-extension）
+  - 「A digital library of academic journals, books, and primary sources. JSTOR is essential for accessing historical and contemporary academic research.」（https://www.neotas.com/using-archives-for-osint-investigations/）
   - 「多くは国などの公的機関が保存・公開に取り組んでいているが、民間で最も有名なのが、アメリカの非営利団体」（https://note.com/shirabeshi/n/nee92b41d8cc1）
   - 「国の機関、地方自治体、独立行政法人、国公立大学などの公的機関のサイトが中心だが、一部民間サイトも収集している」（https://note.com/shirabeshi/n/nee92b41d8cc1）
   - 「リンクをクリックすれば、その先にあったページやPDFも見られるようになっていることが多いので、目的のものがWARPにあるなら」（https://note.com/shirabeshi/n/nee92b41d8cc1）
-  - 「たとえ現在のサイトから消えたとしても、WARPに保存されていれば過去のデータも（リンク先のPDFまで）さかのぼることができる」（https://note.com/shirabeshi/n/nee92b41d8cc1）
-  - 「公的機関のサイトが多いとはいえ、それ以外も意外とあるのがWARPの面白いところ」（https://note.com/shirabeshi/n/nee92b41d8cc1）
-  - 「総務省の統計によると、市町村数は3,232（平成11年3月31日）から1,719（平成25年1月1日）へと減少し、その結果、約1,500の市町村サイトがインターネット上から消えてしまいました」（https://note.com/shirabeshi/n/nee92b41d8cc1）
-  - 「特に、国や自治体といった公的機関のサイトには、過去の大事な情報も、現在の大事な情報も詰まっている」（https://note.com/shirabeshi/n/nee92b41d8cc1）
-  - 「日本の国立機関が運営する、信頼性の高い公的ウェブアーカイブです」（https://note.com/zz08/n/ncd84a61a7641）
-  - 「公的機関サイトを法律に基づいて網羅的に収集」（https://note.com/zz08/n/ncd84a61a7641）
-  - 「PDFなどのリンク先ファイルも含めて保存されるため、統計・報告書の確認に強い」（https://note.com/zz08/n/ncd84a61a7641）
-  - 「WARPに保存されているのは主に公的機関のサイトです」（https://note.com/zz08/n/ncd84a61a7641）
-  - 「WARP（国立国会図書館） & ◎ & ◎ & ✕ & 公的機関・行政サイト \\ \hlineBingキャッシュ & ○ & △ & ✕ & 最近のページ \\ \hline」（https://note.com/zz08/n/ncd84a61a7641）
-  - 「保存データはHTMLだけでなく画像やスクリプト、PDFなども含まれることがあります」（https://note.com/minato_hints/n/n66753053b58f）
-  - 「特許庁など一部機関で日付の証拠として受け入れられている」（https://note.com/minato_hints/n/n66753053b58f）
 - 失敗・落とし穴：
+  - 「取得には時間がかかる場合があり、取得元のアクセス制限などで失敗することもあります」（https://kiroku.today/guides/view-deleted-pages）
+  - 「削除理由が法的要請（名誉毀損、プライバシー侵害等）の場合は、閲覧した内容の取り扱いに注意してください」（https://kiroku.today/guides/view-deleted-pages）
+  - 「入力間違いを防ぐため、コピー＆ペーストでの入力をおすすめします」（https://konohaya.com/24283）
+  - 「消える前にウェブページを保存するには、URLコピペよりChrome拡張機能のほうが圧倒的に速く、失敗しにくいです」（https://kiroku.today/guides/save-webpage-before-deleted-chrome-extension）
+  - 「本記事では「削除される前兆」「ジャンル別の保存優先度」「証拠として後から使うための条件」を整理し、実務で失敗しない運用手順を紹介します」（https://kiroku.today/guides/save-webpage-before-deleted-chrome-extension）
   - 「以前の記事では、推し活の観点からWayback Machineの利活用を書いたが、とかく「調査」が必要な場面において大活躍間違いなしなので、」（https://note.com/shirabeshi/n/nee92b41d8cc1）
   - 「ただし、全てのページが残っているわけではないので注意が必要です」（https://note.com/minato_hints/n/n66753053b58f）
   - 「保存操作は対象サイトのアクセスログに残るため、こっそり調査したい場合は注意してください」（https://note.com/minato_hints/n/n66753053b58f）
@@ -13584,28 +13591,24 @@
   - 「一つの仮説だけで進めると、確証バイアスによって、それを支持する証拠だけを集めやすくなる」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
   - 「「ほぼ間違いない」という表現を使うなら、何が未確認なのかを示す」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
   - 「誤りが判明したら、元の投稿を黙って削除するだけでは不十分である」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
-  - 「・OSINT調査者にも、誤りを透明に訂正する責任がある」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
-  - 「・誤りが判明した場合に訂正できる形で公開しているか」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
-  - 「07:認知戦・認知バイアス」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
-  - 「認知戦とは何か──情報戦・心理戦との違いと認知バイアスの基本」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
-  - 「人はなぜ偏った報道を信じるのか―脳科学と認知バイアスで読み解く情報操作」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
 - 実例：
   - 「第1章で述べたように、入札のことを告知する「入札公告」や、結果を示した「入札（経過）調書」は、官庁や自治体のホームページに掲載されますが、これが削除されてしまった、というケースがありました」（https://d-jedi.jp/n/n90e111c11d23?gs=c707c3f5ef67798194ae2b2fe43863bf）
-  - 「例えば、とあるサイトで年に1度公開される調査報告書がある」（https://note.com/shirabeshi/n/nee92b41d8cc1）
-  - 「例えば、「市川海老蔵」と検索してみると、メタデータの検索結果と全文の検索結果が出てくる」（https://note.com/shirabeshi/n/nee92b41d8cc1）
-  - 「総務省の統計によると、市町村数は3,232（平成11年3月31日）から1,719（平成25年1月1日）へと減少し、その結果、約1,500の市町村サイトがインターネット上から消えてしまいました」（https://note.com/shirabeshi/n/nee92b41d8cc1）
-  - 「以前はGoogle検索結果から「キャッシュ」をクリックすることでページの保存版を見られましたが、段階的に廃止が進み」（https://note.com/zz08/n/ncd84a61a7641）
-  - 「現在はGoogleの代替として、検索結果の「この結果について」メニューからWayback Machineへのリンクが提供される場合があります」（https://note.com/zz08/n/ncd84a61a7641）
-  - 「以前読んだ解説、閉店したお店の告知、昔よく見ていたブログなど、検索しても再発見できないケースも」（https://note.com/minato_hints/n/n66753053b58f）
-  - 「https:// と http://、wwwの有無で結果が変わることがある」（https://note.com/minato_hints/n/n66753053b58f）
-  - 「検索結果やフォーム送信後に表示されるページ」（https://note.com/minato_hints/n/n66753053b58f）
-  - 「OSINTでは、単に検索結果を並べるだけでは不十分である」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
-  - 「しかし、検索結果の上位記事を読んだだけで、OSINTを行ったことにはならない」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
-  - 「OSINTでは、検索結果から元の情報源へ戻る」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
-  - 「検索結果が見つかった場合は、最も古い掲載例を探す」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
-  - 「第11章 検索結果が出ないことは本物の証明ではない」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
-  - 「しかし、検索結果がない理由は複数ある」（https://www.resixley.co.jp/blog/cognitive-warfare/osint-news-verification）
+  - 「保存したスクリーンショット・HTMLの実例を見る」（https://kiroku.today/guides/view-deleted-pages）
+  - 「サンプルには説明用ドメインのexample.comを使います」（https://kiroku.today/guides/view-deleted-pages）
+  - 「検索結果の「キャッシュ」リンクとcache:演算子は使えなくなっています」（https://kiroku.today/guides/view-deleted-pages）
+  - 「重要なページがまだ見えるなら、先に保存し、その保存結果を開いて必要箇所が残ったか確認する方が、削除後の探索だけに頼るより制御しやすくなります」（https://kiroku.today/guides/view-deleted-pages）
+  - 「色々なケースで、過去に存在していたページを見たいときがあると思います」（https://konohaya.com/24283）
+  - 「すると、検索結果が出ます」（https://konohaya.com/24283）
+  - 「右クリック方式 ― リンクを開かずに、リンク先をそのまま保存できる（SNSや検索結果で有効）」（https://kiroku.today/guides/save-webpage-before-deleted-chrome-extension）
+  - 「特にX投稿は専用レンダラの有無で結果が変わる」（https://kiroku.today/guides/save-webpage-before-deleted-chrome-extension）
+  - 「SNSのタイムラインや検索結果など、「ページを開いて表示」させるとそれが削除を誘発する場面があります」（https://kiroku.today/guides/save-webpage-before-deleted-chrome-extension）
+  - 「ツールバーアイコンは現在開いているタブ1枚だけを対象にしますが、検索結果やSNSのタイムラインに並んでいる複数リンクは、右クリックの「このリンクをKirokuに保存」を連続実行すれば、それぞれ開かずに保存できます」（https://kiroku.today/guides/save-webpage-before-deleted-chrome-extension）
+  - 「Archives offer a historical perspective that helps investigators understand how events, behaviours, and trends have evolved. This context is crucial for making informed predictions and drawing connections between past and present situations. For example, analysing archived financial reports can reveal long-term economic trends and help predict future market behaviours.」（https://www.neotas.com/using-archives-for-osint-investigations/）
+  - 「Archival records are essential for verifying current data and corroborating information from other sources. For instance, when investigating a corporate fraud case, historical press releases and financial statements can confirm the accuracy of recent reports and highlight inconsistencies.」（https://www.neotas.com/using-archives-for-osint-investigations/）
+  - 「Archives enable investigators to identify patterns and trends over time. For example, examining historical crime data can help law enforcement agencies detect recurring patterns, such as the seasonal rise in certain types of crimes, thereby aiding in preventive measures.」（https://www.neotas.com/using-archives-for-osint-investigations/）
+  - 「: In cases of legal takedowns or other reasons for content removal, archives serve as a repository of information that has been taken offline. This allows analysts to access data that may have been censored or removed from websites.」（https://www.neotas.com/using-archives-for-osint-investigations/）
 - 検索結果の抜粋：
+  - 「Wayback Machineの使い方完全ガイド｜過去ページ閲覧・保存（Save Pag... — Sep 6, 2025 · インターネットは日々変化し、ウェブページが削除・更新されて「過去の情報」が失われることは珍しくありません。そんなときに役立つのが、 Wayback Machine（ウェイバック・マシン） です。 Wayback Machineは、非営利団体 Internet Archive が提供するウェブアーカイブ（ウェブの保存）サービスで、URL ...」（https://seo-nippou.com/entry/20250906）
   - 「消えたウェブサイトが見たい ――さまざまなウェブアーカイブ《国立国会... — Jul 25, 2025 · ウェブアーカイブ――日々現れては消えてゆく数々のウェブサイトをアーカイブ（保存）する取り組み。図書館が本を保存しているのと同じように、ウェブ上の情報も貴重な知的資源であるから保存しようということだ。 多くは国などの公的機関が保存・公開に取り組んでいているが、民間で ...」（https://note.com/shirabeshi/n/nee92b41d8cc1）
   - 「消えたウェブサイトが見たい ――さまざまなウェブアーカイブ《国立国会... — Jul 25, 2025 · ウェブアーカイブ――日々現れては消えてゆく数々のウェブサイトをアーカイブ（保存）する取り組み。 図書館が本を保存しているのと同じように、ウェブ上の情報も貴重な知的資源であるから保存しようということだ。」（https://note.com/shirabeshi/n/nee92b41d8cc1）
   - 「消えたURLの記事を読む方法｜ウェブ魚拓サービスの種類と使い方まとめ — Feb 24, 2026 · 削除された記事や閉鎖されたサイトでも、ウェブ魚拓（ウェブアーカイブ）サービスを使えば、過去の状態を閲覧できる場合があります。 この記事では、現在使えるウェブ魚拓サービスの種類と、それぞれの使い方をわかりやすく解説します。」（https://note.com/zz08/n/ncd84a61a7641）
@@ -16817,8 +16820,8 @@
 - 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 - 実例：記載なし（読んだ30頁・検索12回）
 
-## 人数の定義の違い（統計の従業者・税の従業員数の時間換算1（800時間・社会保険の被保険者・求人の社員数）と1人あたりの比べ方）
-- 文脈：従業員数 定義 違い 統計 社会保険;従業者 従業員 違い 経済センサス;FTE 換算 1人当たり売上 比較 注意
+## 非上場の売上で届出と推定が割れたときの確かめ方（グループの人数・観測の年・別業種の基準・ランキングの方法の注記）（private company revenue reported vs estimated discrepancy group-wide headcount observation date benchmark industry）
+- 文脈：推定
 - 手順・やり方：記載なし（読んだ30頁・検索12回）
 - 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
 - 一次情報の探し方：記載なし（読んだ30頁・検索12回）
@@ -16966,8 +16969,109 @@
   - 「例えば、労働生産性（労働投入1 単位当たりのアウトプット）が上」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
   - 「値決めが労働時間当たり単価をベースに行われる事例が多い「建物サービス・警備」」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
 
-## 非上場の売上で届出と推定が割れたときの確かめ方（グループの人数・観測の年・別業種の基準・ランキングの方法の注記）（private company revenue reported vs estimated discrepancy group-wide headcount observation date benchmark industry）
-- 文脈：推定
+## 業種の範囲を分類コードで先に決める調べ方（日本標準産業分類・NAICS・SIC・開示の業種と統計の業種の対応・4-131）（industry research define scope classification codes NAICS SIC methodology）
+- 文脈：手法・業種
+- 手順・やり方：
+  - 「Every U.S. business can be classified using NAICS and SIC based on its primary business activity. These standardized industry frameworks support research, analysis, segmentation, reporting, and business applications.」（https://siccode.com/）
+  - 「Business intelligence services built on the same governed classification framework support segmentation, outreach, and analytics while remaining anchored to standardized taxonomies.」（https://siccode.com/）
+  - 「NAICS and SIC define primary business activity for analytics, compliance, and institutional research. SICCODE.com documents methodology, named reviewers, and citation-backed guidance.」（https://siccode.com/）
+  - 「Classification frameworks and reference data support industry classification, research, and reporting across government, academic, and enterprise environments.」（https://siccode.com/）
+- 突き合わせ・推定：
+  - 「Describe your ideal prospects. Our team will identify the right NAICS/SIC scope, estimate available counts, and help keep your business or email list precisely targeted.」（https://siccode.com/）
+- 実例：
+  - 「Example classification」（https://siccode.com/）
+  - 「Example for classification reference. No affiliation or endorsement implied.」（https://siccode.com/）
+  - 「Describe the companies, products, services, or use case. You do not need a NAICS or SIC code to start.」（https://siccode.com/）
+  - 「Example: Commercial Plumbers」（https://siccode.com/）
+  - 「when your target is more specific than an industry code, for example commercial plumbers, not every plumbing company, or suppliers to restaurants, not restaurants themselves. For a」（https://siccode.com/）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+
+## 情報源の利害を問う読み方（利害当事者の予測・監視団体や調査会社の事業上の動機・4-131）（source interest bias stakeholder forecast verification analyst）
+- 文脈：手法・出どころ
+- 手順・やり方：
+  - 「しかし、多くの人はこの「情報の信頼性を見極める方法」について体系的に学ぶ機会がありません」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「この記事では、情報の信頼性を判断するための具体的な基準と方法について、一般的には語られないポイントも含めて詳しく解説します」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「2. 透明性: 情報の出所と方法論の開示」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「信頼できる情報源は、情報の出所や収集方法、分析手法などを明確に開示しています」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「例えば、調査結果を報告する際には、サンプルサイズ、調査方法、調査期間、誤差範囲などの基本的な情報が明記されているべきです」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「情報のファクトチェック：プロが実践する3ステップ」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「情報の信頼性を確認するための実践的な方法として、プロのジャーナリストや研究者が日常的に行っているファクトチェックの手法を紹介します」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「ステップ1：一次情報へのさかのぼり」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「ステップ2：複数の独立した情報源による交差検証」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「ステップ3：批判的思考による分析」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「3. サンプルサイズや研究方法は適切か」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「ここでは、情報リテラシーを効果的に高めるための具体的な方法を紹介します」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「デジタル技術の発展により、情報の生成・拡散の方法は劇的に変化しています」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「特にAIの発達により、従来の情報評価の方法だけでは不十分になりつつあります」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「ここでは、デジタル時代特有の「情報の罠」とその回避方法について解説します」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+- 突き合わせ・推定：
+  - 「例えば、政治的な報道において、政権交代や支持率の変動に関わらず、同じ基準で批判的検証を行っているメディアは信頼性が高いと言えます」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「3. 最新の関連情報との整合性：その後に発表された研究や情報と矛盾していないか確認する」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「ステップ2：複数の独立した情報源による交差検証」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「例えば、ある企業の業績に関する情報を調査する場合、その企業の公式発表だけでなく、独立したアナリストのレポート、業界団体の統計、競合他社との比較データなど、異なる視点からの情報を収集して検証することで、より正確な全体像を把握できます」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「3. 当初の予測や分析がどの程度的中したかを検証する」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「4. 技術的検証：可能であれば、メタデータの確認やフォレンジック分析を行う」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「1. 強い感情反応を引き起こす情報に対しては特に慎重に検証する」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「情報の統合と批判的分析：「三角測量」アプローチ」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「複数の情報源から得られた情報を効果的に統合し、より信頼性の高い結論を導き出すための「三角測量」アプローチを紹介します」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「8. 他の信頼できる情報源でも確認できるか？：複数の独立した情報源による交差検証」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「4. 複数の独立した情報源による交差検証を行う」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「8. 情報の事後検証（フォローアップ）を習慣づける」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「掲載日、更新日、元資料の日付を照合する」（https://www.foneclaw.ai/ja/diversify-news-sources.html）
+  - 「ただし、発表側の主張を別の媒体が繰り返しただけなら、独立した検証が加わったとは数えません」（https://www.foneclaw.ai/ja/diversify-news-sources.html）
+  - 「公表側の説明であり、実使用の独立検証とは限らない」（https://www.foneclaw.ai/ja/diversify-news-sources.html）
+- 一次情報の探し方：
+  - 「同様に、特定の政治団体や業界団体から資金提供を受けている研究機関は、その支援者に有利な結論を導き出す傾向があるかもしれません」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「2. 引用されている研究や統計の年代：古いデータに基づいた結論は現在の状況を正確に反映していない可能性がある」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「ステップ1：一次情報へのさかのぼり」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「信頼性を確認するためには、可能な限り「一次情報」まで遡ることが重要です」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「4. 統計データの場合は、政府機関や研究機関の公式発表を参照」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「例えば、ある企業の業績に関する情報を調査する場合、その企業の公式発表だけでなく、独立したアナリストのレポート、業界団体の統計、競合他社との比較データなど、異なる視点からの情報を収集して検証することで、より正確な全体像を把握できます」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「1. 情報源同士が独立していることを確認（同じ一次情報を引用しているだけではない）」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「6. 記述的リサーチ：統計データ、市場調査レポート、アンケート結果」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「例えば、ある業界の将来性を評価する場合、市場調査レポートの統計データ（定量）、業界リーダーへのインタビュー（定性）、学術研究の予測（理論）など、異なる種類の情報を組み合わせることで、より立体的な理解が可能になります」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「7. 一次情報源は何か？： 可能であれば元の情報源まで遡れるか」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「3. 可能な限り一次情報源まで遡る」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「主張を一文に分け、発信者・根拠・日付・一次情報・別資料との一致を確認し、確認できないときは『不明』のまま拡散しないことが情報評価の基本です」（https://sukyojuku.com/joho1-information-search-fact-check/）
+  - 「一次情報でも発信者の利害や調査方法を確認し、二次情報は元資料までたどります」（https://sukyojuku.com/joho1-information-search-fact-check/）
+  - 「URLの末尾や見た目だけで公的機関のページだと判断する」（https://sukyojuku.com/joho1-information-search-fact-check/）
+  - 「同じ一次情報を転載した複数記事を、独立した複数根拠として数える」（https://sukyojuku.com/joho1-information-search-fact-check/）
+- 失敗・落とし穴：
+  - 「過去に誤った情報を訂正せずに放置しているメディアや、センセーショナルな見出しで内容を歪めて伝える傾向のある情報源には注意が必要です」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「3. 独立性と利益相反: 隠れたバイアスを見抜く」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「逆に、その時々の「人気のある意見」に合わせて論調を変えるような情報源は注意が必要です」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「また、過去の誤りに対する対応も重要な指標です」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「また、自分の既存の信念や価値観に合致する情報だけを選択的に受け入れる「確証バイアス」に陥らないよう、意識的に多様な情報源からの情報を取り入れることも大切です」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「収集した情報を鵜呑みにせず、批判的思考を用いて分析することが重要です」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「2. 各情報源の特性（強み・弱み・バイアスの傾向）を記録する」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「ここでは、デジタル時代特有の「情報の罠」とその回避方法について解説します」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「アルゴリズムバイアス：「パーソナライズされた真実」の危険性」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「4. 相違点については、その理由を分析する（情報源のバイアス、時間的変化、文脈の違いなど）」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「それぞれの情報源が持つ限界やバイアスを相互に補完することで、単一の情報源に依存するよりも信頼性の高い結論を導き出せます」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「4. 情報源に利益相反はないか？：経済的インセンティブやイデオロギー的バイアスの可能性」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「9. デジタル時代特有の情報の罠（ディープフェイク、アルゴリズムバイアス、情報のゲーミフィケーション）に注意する」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「発表文を使っていること自体は、情報が誤りだという意味ではありません」（https://www.foneclaw.ai/ja/diversify-news-sources.html）
+  - 「4. 間違いやすいポイント」（https://sukyojuku.com/joho1-information-search-fact-check/）
+- 実例：
+  - 「例えば、医療情報を調べる場合、医師や医学研究者による情報と、特定の商品を販売するためのマーケティングサイトによる情報では、信頼性に大きな差があります」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「例えば、調査結果を報告する際には、サンプルサイズ、調査方法、調査期間、誤差範囲などの基本的な情報が明記されているべきです」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「例えば、特定の製品についての情報を調べる場合、その製品のメーカーが直接提供している情報と、独立した消費者団体や第三者機関による評価では、客観性に大きな違いがあります」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「例えば、政治的な報道において、政権交代や支持率の変動に関わらず、同じ基準で批判的検証を行っているメディアは信頼性が高いと言えます」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「例えば、社会問題についての報道では、様々な利害関係者や専門家の意見を幅広く取り上げ、読者が多角的に問題を理解できるよう配慮しているかどうかが重要です」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「例えば、AIや機械学習の分野では、数ヶ月で新たな手法やモデルが登場し、従来の「ベストプラクティス」が書き換えられることがあります」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「例えば、「ある研究によると〜」という記事を読んだ場合、その研究論文自体を確認することで、記事の解釈が正確かどうかを判断できます」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「例えば、ある企業の業績に関する情報を調査する場合、その企業の公式発表だけでなく、独立したアナリストのレポート、業界団体の統計、競合他社との比較データなど、異なる視点からの情報を収集して検証することで、より正確な全体像を把握できます」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「例えば、「製品Aを使用した100人中95人が効果を実感！」という広告を見た場合、サンプルの選び方、「効果」の定義、比較対象（プラセボ効果の考慮）などを検討することで、この主張の信頼性をより適切に評価できます」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「例えば、経済ニュースを追う場合、保守系と革新系のメディア、国内と海外のメディア、そして専門家のコラムや学術的な経済分析など、複数の視点から情報を収集することで、より立体的な理解が可能になります」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「例えば、テクノロジー分野であれば、速報性に優れたニュースサイト、詳細な分析を提供する専門メディア、実務者の知見が得られる技術ブログ、学術的裏付けのある研究論文など、目的に応じた情報源のポートフォリオを構築しておくと効率的です」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「1. プライベートブラウジングや異なるブラウザを使用して検索結果を比較する」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「例えば、ある社会問題について調査する場合、自分の普段使用するアカウントでの検索結果と、プライベートブラウジングモードでの検索結果を比較することで、パーソナライズの影響を把握できます」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「例えば、SNSで大量のシェアを集めている衝撃的なニュースに接した場合、即座に反応する前に、複数の信頼できる情報源でその内容を確認し、全体の文脈を理解することが重要です」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+  - 「6. 記述的リサーチ：統計データ、市場調査レポート、アンケート結果」（https://note.com/shiny_magpie4504/n/n44e2b1fb4962）
+
+## 人数の定義の違い（統計の従業者・税の従業員数の時間換算1（800時間・社会保険の被保険者・求人の社員数）と1人あたりの比べ方）
+- 文脈：従業員数 定義 違い 統計 社会保険;従業者 従業員 違い 経済センサス;FTE 換算 1人当たり売上 比較 注意
 - 手順・やり方：記載なし（読んだ30頁・検索12回）
 - 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
 - 一次情報の探し方：記載なし（読んだ30頁・検索12回）

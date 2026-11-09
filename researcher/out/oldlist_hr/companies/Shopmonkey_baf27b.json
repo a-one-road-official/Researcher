@@ -1,0 +1,1340 @@
+{
+ "name": "Shopmonkey",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AUMS不適合",
+ "researched_at": "2026-11-09T18:14:13.409283+00:00",
+ "official_url": "https://www.shopmonkey.io",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "1. Seed Round",
+    "value": "01-Nov-2018 $1.2M $1.2M  Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/235021-24",
+    "pass": 3
+   },
+   {
+    "label": "Seed-2",
+    "value": "483,601 $0.000010  $0.28 $0.28 1x $0.28 3.12%",
+    "url": "https://pitchbook.com/profiles/company/235021-24",
+    "pass": 3
+   },
+   {
+    "label": "Seed-1",
+    "value": "485,997 $0.000010  $0.14 $0.14 1x $0.14 3.14%",
+    "url": "https://pitchbook.com/profiles/company/235021-24",
+    "pass": 3
+   },
+   {
+    "label": "Total raised",
+    "value": "$110M",
+    "url": "https://getlatka.com/companies/shopmonkey",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "The auto shop software that combines your hustle and craftsmanship with efficiency and profit!",
+    "url": "https://www.shopmonkey.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Grow Your Business With Built-in Shop Marketing",
+    "url": "https://www.shopmonkey.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Manage tire inventory, speed up estimates, and boost profits.",
+    "url": "https://www.shopmonkey.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Onboarding",
+    "url": "https://www.shopmonkey.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Shopmonkey lived up to every promise.",
+    "url": "https://www.shopmonkey.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Marketing Solutions | Shopmonkey",
+    "url": "https://www.shopmonkey.io/product/automotive-marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Marketing Solutions",
+    "url": "https://www.shopmonkey.io/product/automotive-marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Keep your bays full by sending special offers and promotions.",
+    "url": "https://www.shopmonkey.io/product/automotive-marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Easily manage reviews with helpful pre-generated responses.",
+    "url": "https://www.shopmonkey.io/product/automotive-marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Turn “maybe next time” into scheduled appointments with automatic reminders for previously-declined services.",
+    "url": "https://www.shopmonkey.io/product/automotive-marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Manage and track all your marketing from one centralized place.",
+    "url": "https://www.shopmonkey.io/product/automotive-marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Customers trust experiences, not advertising.",
+    "url": "https://www.shopmonkey.io/product/automotive-marketing",
+    "pass": 1
+   },
+   {
+    "quote": "MARKETING FOR MULTI-LOCATION SHOPS",
+    "url": "https://www.shopmonkey.io/product/automotive-marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Launch promotional campaigns effortlessly, targeting specific regions for maximum impact.",
+    "url": "https://www.shopmonkey.io/product/automotive-marketing",
+    "pass": 1
+   },
+   {
+    "quote": "“In today’s social media driven culture,",
+    "url": "https://www.shopmonkey.io/product/automotive-marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Get proven advice from shop management experts via email or text!",
+    "url": "https://www.shopmonkey.io/product/automotive-marketing",
+    "pass": 1
+   },
+   {
+    "quote": "MARKETING FOR THE MODERN SHOP",
+    "url": "https://www.shopmonkey.io/product/automotive-marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Take “word of mouth” marketing to the next level.",
+    "url": "https://www.shopmonkey.io/product/automotive-marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Your one-stop shop for great marketing.",
+    "url": "https://www.shopmonkey.io/product/scheduling",
+    "pass": 1
+   },
+   {
+    "quote": "Add an intuitive scheduler on your website or social profile that allows customers to book appointments from anywhere.",
+    "url": "https://www.shopmonkey.io/product/scheduling",
+    "pass": 1
+   },
+   {
+    "quote": "The proof is in: According to recent studies, 94% of consumers will choose a business that offers online booking over one that does not.",
+    "url": "https://www.shopmonkey.io/product/scheduling",
+    "pass": 1
+   },
+   {
+    "quote": "Get proven advice from shop management experts via email or text!",
+    "url": "https://www.shopmonkey.io/product/scheduling",
+    "pass": 1
+   },
+   {
+    "quote": "Keep your bays full by sending special offers and promotions.",
+    "url": "https://www.shopmonkey.io/product/scheduling",
+    "pass": 1
+   },
+   {
+    "quote": "MARKETING FOR THE MODERN SHOP",
+    "url": "https://www.shopmonkey.io/product/scheduling",
+    "pass": 1
+   },
+   {
+    "quote": "Take “word of mouth” marketing to the next level.",
+    "url": "https://www.shopmonkey.io/product/scheduling",
+    "pass": 1
+   },
+   {
+    "quote": "59% of shop owners don't know their monthly profit without calling their accountant.",
+    "url": "https://www.shopmonkey.io/product/accounting-bookkeeping",
+    "pass": 1
+   },
+   {
+    "quote": "Both products are native to Shopmonkey. The difference is who does the work.",
+    "url": "https://www.shopmonkey.io/product/accounting-bookkeeping",
+    "pass": 1
+   },
+   {
+    "quote": "“Been using the software for almost 3 years. Our customers love the transparency we’re able to offer. The price is just right and having CRM integrated is also a big plus. They have earned my business from here on out.”",
+    "url": "https://www.shopmonkey.io/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "Pro Transmissions & Auto of Athens",
+    "url": "https://www.shopmonkey.io/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "“Shopmonkey HQ gives us clear visibility across our shops where we can spot problems and opportunities while there's time to act.”",
+    "url": "https://www.shopmonkey.io/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "“Shopmonkey HQ gives us a pre-built platform to work on our business — everywhere from planning to coaching to supporting our franchisees. It lets us, as a franchisor, better serve our franchisees and grow our brand.”",
+    "url": "https://www.shopmonkey.io/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "We've only recently started using Shopmonkey at Evanoff Powersports LLC, but the experience has been excellent so far. The software is clean, professional, and much more capable than the invoicing systems I tried before. It gives me confidence that I'll be able to manage estimates, repair orders, invoices, customer information, and my shop all in one place as my business grows.",
+    "url": "https://www.shopmonkey.io/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "“You don’t need to have different solutions to solve different problems. Shopmonkey hits it all very well — all the things you need to grow.”",
+    "url": "https://www.shopmonkey.io/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "\"I was nervous about adding accounting software to my workflow, but Shopmonkey made it surprisingly painless. The whole process made it easy to hit the ground running.\"",
+    "url": "https://www.shopmonkey.io/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "I got a very detailed look into the software and made a decision on Shopmonkey over Tekmetric. The customizable job board, REAL QuickBooks integration and appointment reminders, along with Joe G’s expertise, locked me in for a new adventure. I’ve been working with old-school software for years, and Shopmonkey is a pretty amazing way to grow the business to the next level.",
+    "url": "https://www.shopmonkey.io/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "Probably the best customer service I have ever experienced with any company",
+    "url": "https://www.shopmonkey.io/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "April 20, 2026",
+    "url": "https://www.shopmonkey.io/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "April 14, 2026",
+    "url": "https://www.shopmonkey.io/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "Phenomenal Leadership Crew and Awesome Product.",
+    "url": "https://www.shopmonkey.io/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "April 09, 2026",
+    "url": "https://www.shopmonkey.io/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "Phenomenal Leadership Crew and Awesome Product. With those two you can’t go wrong. But support teams are my favorite, whenever there’s a problem they follow up fast. Great Product",
+    "url": "https://www.shopmonkey.io/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "\"They listen to their customers and constantly work to improve their product. Highly recommend!\"",
+    "url": "https://www.shopmonkey.io/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "Shopmonkey's ability to neatly organize our customers, fleets, vehicles and associate notes & photos from our technicians has allowed us to provide our customers with a full report of services performed. Whenever I have had an issue, it's been relatively easy to contact support and get a resolution or at least gather further information into the issue that I'm experiencing.",
+    "url": "https://www.shopmonkey.io/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "Get proven advice from shop management experts via email!",
+    "url": "https://www.shopmonkey.io/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "How LTEK Diagnostics Drove 20% Higher Productivity",
+    "url": "https://www.shopmonkey.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Pro Transmissions & Auto of Athens",
+    "url": "https://www.shopmonkey.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Pro Transmissions & Auto of Athens enhanced customer communication, retention, and online visibility by utilizing Shopmonkey CRM Essentials.",
+    "url": "https://www.shopmonkey.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "By adding flexible, transparent payment options with Shopmonkey Payments and Affirm, this European vehicle specialist helped customers approve higher-cost repairs while improving cash flow.",
+    "url": "https://www.shopmonkey.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "This family-run diesel repair shop scaled its business and exceeded expectations without compromising quality by leveraging Shopmonkey’s cloud-based digital solutions.",
+    "url": "https://www.shopmonkey.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "The family-owned dealership streamlined workflows, improved communication, and gained the tools to scale confidently.",
+    "url": "https://www.shopmonkey.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "RNR Tire Express Midwest",
+    "url": "https://www.shopmonkey.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "The team at RNR Tire Express Midwest drove tire sales to their highest point in company history.",
+    "url": "https://www.shopmonkey.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Your Shop's Real Product Isn't the Repair. It's the Time.",
+    "url": "https://www.shopmonkey.io/resource-library?type=video",
+    "pass": 1
+   },
+   {
+    "quote": "Get proven advice from shop management experts via email or text!",
+    "url": "https://www.shopmonkey.io/resource-library?type=video",
+    "pass": 1
+   },
+   {
+    "quote": "A $200 PM inspection beats a $12,000 roadside breakdown. Here's what actually keeps trucks and trailers moving, and customers coming back.",
+    "url": "https://www.shopmonkey.io/resource-library?type=video",
+    "pass": 1
+   },
+   {
+    "quote": "Compare the best auto repair shop management software for 2026 — real prices for Shopmonkey, Tekmetric, AutoLeap, Fullbay, Shop-Ware, Torque360 and more.",
+    "url": "https://www.shopmonkey.io/resource-library?type=video",
+    "pass": 1
+   },
+   {
+    "quote": "Maximize your shop’s profit with the best auto repair bill software. Automate invoicing, track labor, and get paid faster with mobile payments. See the 2026 top-rated tools.",
+    "url": "https://www.shopmonkey.io/resource-library?type=video",
+    "pass": 1
+   },
+   {
+    "quote": "The 2026 Auto Repair Shop Marketing Playbook: Driving Growth in the Age of AI",
+    "url": "https://www.shopmonkey.io/resource-library?type=video",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to take your auto repair shop to the next level? Uncover expert insights and actionable tips to supercharge your marketing efforts.",
+    "url": "https://www.shopmonkey.io/resource-library?type=video",
+    "pass": 1
+   },
+   {
+    "quote": "There are many factors in deciding the rate for your auto technicians’ labor. Here are a few considerations to help get you started and keep you profitable!",
+    "url": "https://www.shopmonkey.io/resource-library?type=video",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "to customers digitally via text or email.",
+    "url": "https://www.shopmonkey.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Upsell shop services and build customer trust by sending detailed vehicle inspections via email or text using our",
+    "url": "https://www.shopmonkey.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Effortlessly create and send targeted email and text campaigns.",
+    "url": "https://www.shopmonkey.io/product/automotive-marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Get proven advice from shop management experts via email or text!",
+    "url": "https://www.shopmonkey.io/product/automotive-marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Get proven advice from shop management experts via email or text!",
+    "url": "https://www.shopmonkey.io/product/scheduling",
+    "pass": 1
+   },
+   {
+    "quote": "Get proven advice from shop management experts via email!",
+    "url": "https://www.shopmonkey.io/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "Your customer isn't checking email from a desk, they're in a cab or a parking lot. Here's what's actually working for HD shops on the communication side, from two-way texting to real-time authorization tracking.",
+    "url": "https://www.shopmonkey.io/resource-library?type=video",
+    "pass": 1
+   },
+   {
+    "quote": "Get proven advice from shop management experts via email or text!",
+    "url": "https://www.shopmonkey.io/resource-library?type=video",
+    "pass": 1
+   },
+   {
+    "quote": "2-Way Text & Email",
+    "url": "https://www.shopmonkey.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us for pricing",
+    "url": "https://www.shopmonkey.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Unlimited 2-Way SMS and Email",
+    "url": "https://www.shopmonkey.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Save time and reduce phone calls by automatically sending reminders via text or email.",
+    "url": "https://www.shopmonkey.io/product/customer-comms",
+    "pass": 1
+   },
+   {
+    "quote": "Get proven advice from shop management experts via email or text!",
+    "url": "https://www.shopmonkey.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Get proven advice from shop management experts via email!",
+    "url": "https://www.shopmonkey.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "2-way SMS and email messaging, included in every plan.",
+    "url": "https://www.shopmonkey.io/demo-multi-location-shops",
+    "pass": 1
+   },
+   {
+    "quote": "Live, in-house phone, chat, and email support",
+    "url": "https://www.shopmonkey.io/demo-multi-location-shops",
+    "pass": 1
+   },
+   {
+    "quote": "Top Shop Auto gained momentum on their repairs with two-way text and email.",
+    "url": "https://www.jbtools.com/shopmonkey/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/shopmonkey/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/shopmonkey/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/235021-24",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Automotive Marketing Solutions | Shopmonkey",
+    "url": "https://www.shopmonkey.io/product/automotive-marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Marketing Solutions",
+    "url": "https://www.shopmonkey.io/product/automotive-marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Scheduling Software | Shopmonkey",
+    "url": "https://www.shopmonkey.io/product/scheduling",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Scheduling Software",
+    "url": "https://www.shopmonkey.io/product/scheduling",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive service scheduling software",
+    "url": "https://www.shopmonkey.io/product/scheduling",
+    "pass": 1
+   },
+   {
+    "quote": "Shopmonkey's ability to neatly organize our customers, fleets, vehicles and associate notes & photos from our technicians has allowed us to provide our customers with a full report of services performed. Whenever I have had an issue, it's been relatively easy to contact support and get a resolution or at least gather further information into the issue that I'm experiencing.",
+    "url": "https://www.shopmonkey.io/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "A truck gets fixed in four hours, and the invoice sits unpaid for four days. Here's what's closing that gap for HD shops, from pay-by-text invoicing to Buy Now Pay Later for owner-operators.",
+    "url": "https://www.shopmonkey.io/resource-library?type=video",
+    "pass": 1
+   },
+   {
+    "quote": "There are many factors in deciding the rate for your auto technicians’ labor. Here are a few considerations to help get you started and keep you profitable!",
+    "url": "https://www.shopmonkey.io/resource-library?type=video",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Customer Service Software | Shopmonkey",
+    "url": "https://www.shopmonkey.io/product/customer-comms",
+    "pass": 1
+   },
+   {
+    "quote": "Our founder, Ashot Iskandarian, translates his passion for cars into his first line of Shopmonkey code. The automotive care experience begins.",
+    "url": "https://www.shopmonkey.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Shopmonkey for Techs, the first and only app designed for auto technicians, is launched.",
+    "url": "https://www.shopmonkey.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Shopmonkey is more than a career move. It’s a chance to transform the automotive care experience as we know it. You on board? We’re building a movement.",
+    "url": "https://www.shopmonkey.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Shopmonkey is more than a career move. It’s a chance to transform the automotive care experience as we know it.",
+    "url": "https://www.shopmonkey.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Change the automotive industry creating solutions that matter.",
+    "url": "https://www.shopmonkey.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Rated #1. Trusted by 10,000+ auto shops.",
+    "url": "https://www.shopmonkey.io/demo-multi-location-shops",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Tools & Supplies",
+    "url": "https://www.jbtools.com/shopmonkey/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive Polishing Compound",
+    "url": "https://www.jbtools.com/shopmonkey/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Ventilation",
+    "url": "https://www.jbtools.com/shopmonkey/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer Matching Policy",
+    "url": "https://www.jbtools.com/shopmonkey/",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories about Software and Services used by Shopmonkey",
+    "url": "https://www.casestudies.com/customer/shopmonkey",
+    "pass": 3
+   },
+   {
+    "quote": "Pro Transmissions & Automotive of Athens adds 310+ customers YoY with Shopmonkey",
+    "url": "https://www.featuredcustomers.com/vendor/shopmonkey/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/shopmonkey/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Shopmonkey is a US-based cloud-based shop management software platform for the automotive repair industry.",
+    "url": "https://getlatka.com/companies/shopmonkey",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Boost business and revenue across locations.",
+    "url": "https://www.shopmonkey.io/product/automotive-marketing",
+    "pass": 1
+   },
+   {
+    "quote": "40% Average Revenue Boost",
+    "url": "https://www.shopmonkey.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Shops across the board saw an average revenue increase of 40% in their first year.",
+    "url": "https://www.shopmonkey.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "If your shop is still relying solely on phone calls, whiteboards, and paper calendars to book service appointments, you aren’t just creating extra work for your service advisors you are actively losing revenue.",
+    "url": "https://www.shopmonkey.io/resource-library?type=video",
+    "pass": 1
+   },
+   {
+    "quote": "The barrier to entry has shifted. A decade ago, a set of high-quality wrenches and a reliable lift were enough to get started. Today, the most successful shops are Technology Hubs.",
+    "url": "https://www.shopmonkey.io/resource-library?type=video",
+    "pass": 1
+   },
+   {
+    "quote": "Our full shop management package for shops ready to optimize every part of their business and keep growing.",
+    "url": "https://www.shopmonkey.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "40% Average Revenue Boost",
+    "url": "https://www.shopmonkey.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Shops across the board saw an average revenue increase of 40% in their first year.",
+    "url": "https://www.shopmonkey.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "With 10 full-time employees on board, Shopmonkey continues to pick up momentum.",
+    "url": "https://www.shopmonkey.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Our team grows to 100 employees",
+    "url": "https://www.shopmonkey.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "What our employees are saying:",
+    "url": "https://www.shopmonkey.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "More revenue, less chaos. See it in a live demo.",
+    "url": "https://www.shopmonkey.io/demo-multi-location-shops",
+    "pass": 1
+   },
+   {
+    "quote": "Average Revenue Boost",
+    "url": "https://www.jbtools.com/shopmonkey/",
+    "pass": 3
+   },
+   {
+    "quote": "Shops across the board saw an average revenue increase of 40% in their first year.",
+    "url": "https://www.jbtools.com/shopmonkey/",
+    "pass": 3
+   },
+   {
+    "quote": "Windows and Wheels boosts revenue 50% with Shopmonkey",
+    "url": "https://www.featuredcustomers.com/vendor/shopmonkey/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "University Auto & Tire boosts tire sales to 15% of revenue with Shopmonkey",
+    "url": "https://www.featuredcustomers.com/vendor/shopmonkey/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/shopmonkey/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/235021-24",
+    "pass": 3
+   },
+   {
+    "quote": "Shopmonkey has 200 total employees.",
+    "url": "https://pitchbook.com/profiles/company/235021-24",
+    "pass": 3
+   },
+   {
+    "quote": "What is Shopmonkey’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/235021-24",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Shopmonkey is",
+    "url": "https://pitchbook.com/profiles/company/235021-24",
+    "pass": 3
+   },
+   {
+    "quote": "Shopmonkey Revenue 2024: $29.7M Est., $110M Raised",
+    "url": "https://getlatka.com/companies/shopmonkey",
+    "pass": 3
+   },
+   {
+    "quote": "Shopmonkey has not published its revenue. GetLatka estimates it at about $29.7M a year (October 2024).",
+    "url": "https://getlatka.com/companies/shopmonkey",
+    "pass": 3
+   },
+   {
+    "quote": "All 3 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/shopmonkey",
+    "pass": 3
+   },
+   {
+    "quote": "Shopmonkey CEO & employees",
+    "url": "https://getlatka.com/companies/shopmonkey",
+    "pass": 3
+   },
+   {
+    "quote": "Ashot Iskandarian is CEO of Shopmonkey. Shopmonkey had 192 employees (December 2024, LinkedIn), up from 167 a year earlier.",
+    "url": "https://getlatka.com/companies/shopmonkey",
+    "pass": 3
+   },
+   {
+    "quote": "What is Shopmonkey's revenue?",
+    "url": "https://getlatka.com/companies/shopmonkey",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Shopmonkey's revenue at about",
+    "url": "https://getlatka.com/companies/shopmonkey",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Shopmonkey have?",
+    "url": "https://getlatka.com/companies/shopmonkey",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/shopmonkey",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/shopmonkey",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/shopmonkey",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/shopmonkey",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Auto Repair Software | Shop Management Solution | Shopmonkey — “You don’t need to have different solutions to solve different problems. Shopmonkey hits it all very well — all the things you need to grow your business.”",
+    "url": "https://www.shopmonkey.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Shopmonkey、Stripe Capital で決済額を 30% 拡大 | Stripe — Shopmonkey は、さまざまな決済手段に加え、ワンクリック決済、後払い (BNPL) オプション、対面決済受け付けを提供して、自動車修理店がより多くの売上を獲得できるよう支援したいと考えていました。",
+    "url": "https://stripe.com/jp/customers/shopmonkey",
+    "pass": 3
+   },
+   {
+    "quote": "Welcome to the Newsroom - Shopmonkey — Dec 15, 2022 · See all of the latest news about Shopmonkey, including press releases and articles in major online publications.",
+    "url": "https://www.shopmonkey.io/newsroom",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive Franchise Management Software | Shopmonkey — Increase profitability, streamline operations and scale your business to new heights with Shopmonkey, expertly built for automotive franchise groups.",
+    "url": "https://www.shopmonkey.io/enterprise",
+    "pass": 3
+   },
+   {
+    "quote": "What's New in Shopmonkey? – Shopmonkey — Shopmonkey Updates: November 2025 Shopmonkey Updates: October 2025 Shopmonkey Updates: September 2025 Shopmonkey Updates: August 2025 Shopmonkey Updates: July 2025 Shopmonkey Updates: June 2025 Shopmonkey Updates: May 2025 Shopmonkey Updates: April 2025 Shopmonkey Updates: March 2025 Shopmonkey Updates: February 2025 Shopmonkey Updates: January ...",
+    "url": "https://support.shopmonkey.io/hc/en-us/sections/39984353568660-What-s-New-in-Shopmonkey",
+    "pass": 3
+   },
+   {
+    "quote": "Auto Repair Software | Shop Management Solution | Shopmonkey — Smart and simple repair shop management software that does it all. Invoices, POS system, CRM, inventory, scheduling, & more. Request a demo today!",
+    "url": "https://www.shopmonkey.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Auto Repair Software | Shop Management Solution | Shopmonkey — Communicate with customers and your team within Shopmonkey to send estimates, add updates, and answer questions. Whether you run one shop or a multi-shop operation, manage every job, technician, parts order, and more — all in one place. Lightning-fast estimates, invoices and payments.",
+    "url": "https://www.shopmonkey.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Shopmonkey Customer Support Team | Get Help Fast — Get quick support from Shopmonkey’s customer care team. Find FAQs, onboarding guides, system updates, and connect with experts for fast, reliable assistance.",
+    "url": "https://www.shopmonkey.io/support-team",
+    "pass": 3
+   },
+   {
+    "quote": "What's New in Shopmonkey? – Shopmonkey — What's New in Shopmonkey?",
+    "url": "https://support.shopmonkey.io/hc/en-us/sections/39984353568660-What-s-New-in-Shopmonkey",
+    "pass": 3
+   },
+   {
+    "quote": "Shopmonkey - JB Tools — When can I start using Shopmonkey? Shops that sign up for Shopmonkey can verify their business and use their Shopmonkey account within less than 24 hours. Also, our support teams are always available to help make the process as smooth as possible.",
+    "url": "https://www.jbtools.com/shopmonkey/",
+    "pass": 3
+   },
+   {
+    "quote": "Shopmonkey - LinkedIn — Shopmonkey is automotive shop management software built for shop excellence. Founded in 2016, Shopmonkey was born from a simple observation: shop owners were spending too much time fighting...",
+    "url": "https://jp.linkedin.com/company/shopmonkey",
+    "pass": 3
+   },
+   {
+    "quote": "Shopmonkey Case Studies | Customer Stories — Discover how this family-owned and operated shop has kept customers coming back for decades with a high-quality customer experience. Shopmonkey allowed the heavy duty shop to integrate its systems into one place, double business and create excellent customer experiences.",
+    "url": "https://www.shopmonkey.io/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies Featuring Shopmonkey as the Customer — Explore case studies featuring Shopmonkey as the customer — learn how vendors and partners helped Shopmonkey solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/shopmonkey",
+    "pass": 3
+   },
+   {
+    "quote": "Bus & Truck of Chicago Doubles Business and Forges Customer ... — A small but ambitious auto repair shop in Houston, TX, turned to Shopmonkey to stay organized, earn customer trust, and build a foundation for long-term growth.",
+    "url": "https://www.shopmonkey.io/case-studies/bus-and-truck-of-chicago",
+    "pass": 3
+   },
+   {
+    "quote": "17 Shopmonkey Case Studies, Success Stories, & Customer ... — Narrow down 17 case studies by company size & industry to find out how Shopmonkey works for a business like yours.",
+    "url": "https://www.featuredcustomers.com/vendor/shopmonkey/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "List of Shopmonkey Customers - Apps Run The World — Since 2010, our global team of researchers has been studying Shopmonkey customers around the world, aggregating massive amounts of data points that form the basis of our forecast assumptions and perhaps the rise and fall of certain vendors and their products on a quarterly basis.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/shopmonkey",
+    "pass": 3
+   },
+   {
+    "quote": "Label - Shopmonkey Developer — Sep 17, 2026 · Label A Label object describe a specific label you can attach to various objects in the Shopmonkey app.",
+    "url": "https://shopmonkey.dev/resources/label",
+    "pass": 3
+   },
+   {
+    "quote": "Shopmonkey 2026 Company Profile: Valuation, Funding ...Shopmonkey - 2026 Company Profile, Team, Funding ... - TracxnShopmonkey Revenue 2024: $29.7M Est., $110M Raised - LATKAShopmonkey — Company Profile | The Company CheckShopmonkey.io – Revenue Estimate & Market Landscape – 2026Shopmonkey Revenue, Funding & Valuation - prospeo.ioShopmonkey: Funding, Team & Investors | Startup Intros — Information",
+    "url": "https://pitchbook.com/profiles/company/235021-24",
+    "pass": 3
+   },
+   {
+    "quote": "Shopmonkey - 2026 Company Profile, Team, Funding ... - TracxnShopmonkey Revenue 2024: $29.7M Est., $110M Raised - LATKAShopmonkey — Company Profile | The Company CheckShopmonkey.io – Revenue Estimate & Market Landscape – 2026Shopmonkey Revenue, Funding & Valuation - prospeo.ioShopmonkey: Funding, Team & Investors | Startup Intros — Mar 5, 2026 · Shopmonkey is a series C company based in San Franci",
+    "url": "https://tracxn.com/d/companies/shopmonkey/__FB_ABkY1oiHqbxBNP8VHERIhalFJG8A7qOhIOAtqh_U",
+    "pass": 3
+   },
+   {
+    "quote": "Shopmonkey Revenue 2024: $29.7M Est., $110M Raised - LATKA — Oct 7, 2026 · Shopmonkey 2024 estimated revenue: $29.7M (up from $19.5M in 2023). Total funding: $110M across 3 rounds. 7K customers, 192 employees. Updated Oct 7, 2026.",
+    "url": "https://getlatka.com/companies/shopmonkey",
+    "pass": 3
+   },
+   {
+    "quote": "Shopmonkey — Company Profile | The Company Check — Shopmonkey is a company based in San Francisco (United States) founded in 2016 by Travis Brown and Ashot Iskandarian. Shopmonkey has raised $110 million across 3 funding rounds from investors including Bessemer Venture Partners, Index Ventures and I2BF Global Ventures.",
+    "url": "https://www.thecompanycheck.com/company/b/shopmonkey/fgr68t46dtb9xiq1i",
+    "pass": 3
+   },
+   {
+    "quote": "Shopmonkey.io – Revenue Estimate & Market Landscape – 2026 — Revenue, valuation, and funding figures for Shopmonkey.io are estimates based on publicly available information, industry analysis, regulatory filings, company-provided profile updates, and proprietary data aggregation methods.",
+    "url": "https://compworth.com/company/shopmonkey-io",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Shopmonkey (@Shopmonkeys) / X 7 followers · 24 following. Morgan Hill, CA. Joined Feb 2023. See the latest conversations with @Shopmonkeys",
+    "url": "https://x.com/shopmonkeys",
+    "pass": 3
+   },
+   {
+    "quote": "\"#Shopmonkey\" - Results on X | Live Posts & Updates Results for \"#Shopmonkey\" on X (Twitter). Find the latest posts, discussions, and updates about #Shopmonkey. 5 results found.",
+    "url": "https://x.com/hashtag/Shopmonkey",
+    "pass": 3
+   },
+   {
+    "quote": "Shopmonkey.nl (@Shopmonkeynl) / X Shopmonkey = LIVE vanaf vandaag. Check shopmonkey.nl en laat ons weten wat je ervan vindt! 1",
+    "url": "https://x.com/shopmonkeynl",
+    "pass": 3
+   },
+   {
+    "quote": "@Shopmonkey | X The latest posts from @Shopmonkey",
+    "url": "https://x.com/Shopmonkey",
+    "pass": 3
+   },
+   {
+    "quote": "Shopmonkey (@Shopmonkeyio) / Twitter Mar 12, 2019 · Follow Shopmonkey @Shopmonkeyio Shopmonkey is the leading Auto Repair Shop Management Software. #software #autoshop #automotive California, USAshopmonkey.ioJoined March 2019 0Following 118Followers @Shopmonkeyio hasn’t Tweeted",
+    "url": "https://twitter.com/Shopmonkeyio",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Shopmonkey - LinkedIn Today, Shopmonkey serves over 9,000 shops across North America with a connected platform that brings workflow, customer communication, payments, scheduling, reporting, and more into one system.",
+    "url": "https://www.linkedin.com/company/shopmonkey/",
+    "pass": 3
+   },
+   {
+    "quote": "Shopmonkey - LinkedIn Shopmonkey | Shopmonkey - Smart & Simple Shop Management Software for Mechanics, Auto Shops, & Repair Shops. Get Started For Free!",
+    "url": "https://www.linkedin.com/products/shopmonkey",
+    "pass": 3
+   },
+   {
+    "quote": "Shopmonkey: Jobs | LinkedIn Today, Shopmonkey serves over 9,000 shops across North America with a connected platform that brings workflow, customer communication, payments, scheduling, reporting, and more into one system.",
+    "url": "https://www.linkedin.com/company/shopmonkey/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "Shopmonkey - LinkedIn Shopmonkey | 392 followers on LinkedIn. Wij bouwen webwinkels. | Wij helpen merken groeien met slimme replatforming, maatwerkontwikkeling en structurele optimalisatie.",
+    "url": "https://www.linkedin.com/company/shopmonkeynl",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Shopmonkey - FacebookShopmonkey.io User Group - FacebookShopmonkey V2 Users Group - FacebookEvery time a customer calls in, someone on your team has to ...Offer Buy Now, Pay Later options right from Shopmonkey ...You don’t have to keep writing the same estimate over and ...We're here to help you run your auto shop with easy-to-use ... Oct 21, 2026 · Shopmonkey keeps declined services for each cust",
+    "url": "https://www.facebook.com/shopmonkey.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Shopmonkey.io User Group - Facebook This group is for current Shopmonkey users to connect, network, and share their best tips, tricks, and practices. Your participation is welcome and...",
+    "url": "https://www.facebook.com/groups/shopmonkey.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Shopmonkey V2 Users Group - Facebook A user group for current or future users of Shopmonkey V2. Users can express issues or suggestions without being suppressed by Shopmonkey.",
+    "url": "https://www.facebook.com/groups/699079922355689/",
+    "pass": 3
+   },
+   {
+    "quote": "Offer Buy Now, Pay Later options right from Shopmonkey ... Offer Buy Now, Pay Later options right from Shopmonkey Payments — helping you close more jobs without awkward financing conversations or adding another tool to your workflow.",
+    "url": "https://www.facebook.com/shopmonkey.io/videos/boost-sales-with-buy-now-pay-later/1078188398600101/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.shopmonkey.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shopmonkey.io/product/automotive-marketing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shopmonkey.io/product/scheduling",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shopmonkey.io/product/accounting-bookkeeping",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shopmonkey.io/reviews",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shopmonkey.io/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shopmonkey.io/resource-library?type=video",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shopmonkey.io/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shopmonkey.io/product/customer-comms",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shopmonkey.io/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shopmonkey.io/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shopmonkey.io/demo-multi-location-shops",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.datocms-assets.com/38431/1646802381-bessemer-venture-partners.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.datocms-assets.com/38431/1646934354-vector.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.datocms-assets.com/38431/1647968620-shopmonkey-history-icons-customers-3-000-clients.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://stripe.com/jp/customers/shopmonkey",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.shopmonkey.io/hc/en-us/sections/39984353568660-What-s-New-in-Shopmonkey",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jbtools.com/shopmonkey/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/shopmonkey",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/shopmonkey/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://shopmonkey.dev/resources/label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/235021-24",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/shopmonkey/__FB_ABkY1oiHqbxBNP8VHERIhalFJG8A7qOhIOAtqh_U",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/shopmonkey",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/shopmonkey/fgr68t46dtb9xiq1i",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/shopmonkeys",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/Shopmonkey",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/shopmonkeynl",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/shopmonkey/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/shopmonkey",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/shopmonkey/jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/shopmonkeynl",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/shopmonkey.io/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/shopmonkey.io/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/699079922355689/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/shopmonkey.io/videos/boost-sales-with-buy-now-pay-later/1078188398600101/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/shopmonkeys",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Shopmonkey",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://twitter.com/Shopmonkeyio",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Shopmonkey 日本 導入",
+   "results": [
+    "https://www.shopmonkey.io/",
+    "https://stripe.com/jp/customers/shopmonkey",
+    "https://www.shopmonkey.io/newsroom",
+    "https://www.shopmonkey.io/enterprise",
+    "https://support.shopmonkey.io/hc/en-us/sections/39984353568660-What-s-New-in-Shopmonkey",
+    "https://saasmap.jp/tools/shopmonkey",
+    "https://note.com/leal_bonobo279/n/n985d9797e660",
+    "https://www.jetro.go.jp/news/announcement/2026/51c2084e6dfcb5ea.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Shopmonkey 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.shopmonkey.io/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.worldshopping.global/",
+    "https://www.yellowmong.com.tw/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Shopmonkey Japan",
+   "results": [
+    "https://www.shopmonkey.io/",
+    "https://www.shopmonkey.io/support-team",
+    "https://support.shopmonkey.io/hc/en-us/sections/39984353568660-What-s-New-in-Shopmonkey",
+    "https://www.jbtools.com/shopmonkey/",
+    "https://jp.linkedin.com/company/shopmonkey",
+    "https://stripe.com/jp/customers/shopmonkey",
+    "https://support.shopmonkey.io/hc/en-us/articles/50124584294932-Shopmonkey-Plans",
+    "https://saasmap.jp/tools/shopmonkey"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Shopmonkey manufacturing customer case study",
+   "results": [
+    "https://www.shopmonkey.io/case-studies",
+    "https://www.casestudies.com/customer/shopmonkey",
+    "https://www.shopmonkey.io/case-studies/bus-and-truck-of-chicago",
+    "https://www.featuredcustomers.com/vendor/shopmonkey/case-studies",
+    "https://www.appsruntheworld.com/customers-database/products/view/shopmonkey",
+    "https://assets.ctfassets.net/00voh0j35590/4KIsV40L10XIsDXAT15k34/4a10e0f01a9dc5299f34a87e05d69ff7/CockroachLabs-SHOPMONKEY-Case-Study.pdf",
+    "https://support.shopmonkey.io/hc/en-us/articles/41311556791956-Sales-by-Customer-Report"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Shopmonkey white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://shopmonkey.dev/resources/label",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.reseller.co.nz/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Shopmonkey founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/235021-24",
+    "https://tracxn.com/d/companies/shopmonkey/__FB_ABkY1oiHqbxBNP8VHERIhalFJG8A7qOhIOAtqh_U",
+    "https://getlatka.com/companies/shopmonkey",
+    "https://www.thecompanycheck.com/company/b/shopmonkey/fgr68t46dtb9xiq1i",
+    "https://compworth.com/company/shopmonkey-io",
+    "https://prospeo.io/c/shopmonkey-revenue",
+    "https://startupintros.com/orgs/shopmonkey"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Shopmonkey",
+   "results": [
+    "https://note.com/nakamuraclinic/all",
+    "https://note.com/joshbikessj7/n/n66ba50d5d7cd?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/keibunshabooks/n/n4f4357e7a1fd",
+    "https://note.com/guaran/n/ne1da1b216a7a"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Shopmonkey",
+   "results": [
+    "https://x.com/shopmonkeys",
+    "https://x.com/hashtag/Shopmonkey",
+    "https://x.com/shopmonkeynl",
+    "https://x.com/FireMonkey",
+    "https://x.com/FireMonkey/status/2114847332596420736",
+    "https://x.com/FireMonkey/status/2111245997036691945",
+    "https://x.com/FireMonkey/status/2115918739829084497"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Shopmonkey",
+   "results": [
+    "https://www.linkedin.com/company/shopmonkey/",
+    "https://www.linkedin.com/products/shopmonkey",
+    "https://www.linkedin.com/company/shopmonkey/jobs",
+    "https://www.linkedin.com/company/shopmonkeynl",
+    "https://www.linkedin.com/company/shopmonkey/life/",
+    "https://www.linkedin.com/in/travishamiltonbrown",
+    "https://www.linkedin.com/in/kaiichikawa"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Shopmonkey",
+   "results": [
+    "https://www.facebook.com/shopmonkey.io/",
+    "https://www.facebook.com/groups/shopmonkey.io/",
+    "https://www.facebook.com/groups/699079922355689/",
+    "https://www.facebook.com/shopmonkey.io/videos/boost-sales-with-buy-now-pay-later/1078188398600101/",
+    "https://www.facebook.com/shopmonkey.io/videos/stop-wasting-time-on-estimates/1865674521506211/",
+    "https://www.facebook.com/shopmonkey.io/videos/you-dont-have-to-keep-writing-the-same-estimate-over-and-over-with-shopmonkeys-c/1439073014774591/",
+    "https://www.facebook.com/shopmonkey.io/videos/trusted-partner-for-auto-shops/719470101115741/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Shopmonkey note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Shopmonkey X 投稿",
+   "results": [
+    "https://x.com/shopmonkeys",
+    "https://x.com/Shopmonkey",
+    "https://twitter.com/Shopmonkeyio",
+    "https://www.shopmonkey.io/",
+    "https://x.com/hashtag/Shopmonkey",
+    "https://support.shopmonkey.io/hc/en-us/articles/38743795316628-Submit-Feature-Requests",
+    "https://imginn.com/ja/shopmonkey.io/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式12頁／PDF・画像3件／外部30頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式12頁／PDF・画像3件／外部30頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像3件／外部30頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式12頁／PDF・画像3件／外部30頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式12頁／PDF・画像3件／外部30頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式12頁／PDF・画像3件／外部30頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式12頁／PDF・画像3件／外部30頁・検索12回）"
+ }
+}

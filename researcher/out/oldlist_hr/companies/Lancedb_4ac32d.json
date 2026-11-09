@@ -1,0 +1,1929 @@
+{
+ "name": "Lancedb",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial AI/ML Infrastructure｜AUMS不適合",
+ "researched_at": "2026-11-09T18:10:59.623602+00:00",
+ "official_url": "https://lancedb.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Existing Privacy Settings Found",
+    "url": "https://www.lancedb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Edit Privacy Settings",
+    "url": "https://www.lancedb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "LeRobot trains directly from Lance datasets in object storage, a hybrid scan mines robot fleet data for edge cases, and distributed search reaches 1,066 QPS across 10B vectors, plus upcoming events, enterprise updates, and community contributions.",
+    "url": "https://www.lancedb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See how Jev performs in a benchmark of 19 reranker configurations across five datasets, covering accuracy, latency, and prompt-driven relevance for LanceDB search.",
+    "url": "https://www.lancedb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "LanceDB adds ASOF join support to Apache DataFusion, improving time-series joins while giving back to the open source projects we rely on.",
+    "url": "https://www.lancedb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "LanceDB lets you tune search precision at query time, balance memory and disk caching, and keep new data searchable as your table grows.",
+    "url": "https://www.lancedb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A Practical LLM Pretraining Pipeline with LanceDB",
+    "url": "https://www.lancedb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Training a GPT-2-like model from raw text in 25 minutes with LanceDB, using one table for curation, tokenization, shuffling, packing, training, and analysis.",
+    "url": "https://www.lancedb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reverie launches as LanceDB's summit for AI builders, GPU training bottlenecks traced to CPU-side transforms, and CrewAI unifies cognitive memory on LanceDB, plus upcoming events, enterprise updates, and community updates.",
+    "url": "https://www.lancedb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The next bottleneck in robotics and autonomous systems is turning fleet experience into the right training data.",
+    "url": "https://www.lancedb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Run a multimodal feature-engineering pipeline in ten minutes with geneva-examples, then rebuild its CLIP embedding step with LanceDB's feature engineering API, the same calls you'd use to enrich your own tables on LanceDB Enterprise.",
+    "url": "https://www.lancedb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "One day with the researchers and engineers building generative video, world models, physical AI, and the data systems beneath them.",
+    "url": "https://www.lancedb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-bit RaBitQ hits 96% recall without refine overhead, Volcano Engine cuts training pipelines from 7 days to 1, Lance powers 100 Hz robotics data ingestion, plus upcoming events, enterprise updates, community updates.",
+    "url": "https://www.lancedb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "CrewAI replaced a two-system memory stack with LanceDB, then rebuilt agent memory to resolve contradictions and gate recall on confidence. It now ships by default across 12 million monthly downloads and 2B+ agent executions.",
+    "url": "https://www.lancedb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Data Loading for AI/ML: A Comprehensive Guide",
+    "url": "https://www.lancedb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A deep dive into data loading for model training — the three pipeline stages, parallelism strategies, shuffling, caching, resumability, and how LanceDB's StreamingDataset fits in.",
+    "url": "https://www.lancedb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples",
+    "url": "https://www.lancedb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Lance turns long robotics videos into random-access multimodal training data with 1.7–6× faster reads and 42% lower storage use.",
+    "url": "https://www.lancedb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How LanceDB's latest IVF_RQ improvements raise recall, cut p99 latency, and let teams tune vector search at query time with approx_mode.",
+    "url": "https://www.lancedb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Benchmark Lance vs Delta vs Iceberg on S3 metadata performance, update blob rows without reading bytes, and train world models directly from object storage, plus upcoming events and enterprise and community updates.",
+    "url": "https://www.lancedb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How Lance format and LanceDB's Enterprise feature engineering platform make VLM fine-tuning faster by materializing expensive multimodal features once and training from those columns.",
+    "url": "https://www.lancedb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A Rust benchmark comparison of Lance, Delta Lake, and Apache Iceberg on S3 and S3 Express, and why Lance is optimized for object storage metadata.",
+    "url": "https://www.lancedb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Stable-Worldmodel: A High Performance Platform for Reproducible World Model Research",
+    "url": "https://www.lancedb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Introducing stable-worldmodel, an open-source platform for reproducible world model research, evaluation, and benchmarking under visual and physical distribution shifts.",
+    "url": "https://www.lancedb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reproducible Data Curation In The Multimodal Lakehouse",
+    "url": "https://www.lancedb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Existing Privacy Settings Found",
+    "url": "https://www.lancedb.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Edit Privacy Settings",
+    "url": "https://www.lancedb.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "LeRobot trains directly from Lance datasets in object storage, a hybrid scan mines robot fleet data for edge cases, and distributed search reaches 1,066 QPS across 10B vectors, plus upcoming events, enterprise updates, and community contributions.",
+    "url": "https://www.lancedb.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "See how Jev performs in a benchmark of 19 reranker configurations across five datasets, covering accuracy, latency, and prompt-driven relevance for LanceDB search.",
+    "url": "https://www.lancedb.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "LanceDB adds ASOF join support to Apache DataFusion, improving time-series joins while giving back to the open source projects we rely on.",
+    "url": "https://www.lancedb.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "LanceDB lets you tune search precision at query time, balance memory and disk caching, and keep new data searchable as your table grows.",
+    "url": "https://www.lancedb.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "A Practical LLM Pretraining Pipeline with LanceDB",
+    "url": "https://www.lancedb.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Training a GPT-2-like model from raw text in 25 minutes with LanceDB, using one table for curation, tokenization, shuffling, packing, training, and analysis.",
+    "url": "https://www.lancedb.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Reverie launches as LanceDB's summit for AI builders, GPU training bottlenecks traced to CPU-side transforms, and CrewAI unifies cognitive memory on LanceDB, plus upcoming events, enterprise updates, and community updates.",
+    "url": "https://www.lancedb.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "The next bottleneck in robotics and autonomous systems is turning fleet experience into the right training data.",
+    "url": "https://www.lancedb.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Run a multimodal feature-engineering pipeline in ten minutes with geneva-examples, then rebuild its CLIP embedding step with LanceDB's feature engineering API, the same calls you'd use to enrich your own tables on LanceDB Enterprise.",
+    "url": "https://www.lancedb.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "One day with the researchers and engineers building generative video, world models, physical AI, and the data systems beneath them.",
+    "url": "https://www.lancedb.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-bit RaBitQ hits 96% recall without refine overhead, Volcano Engine cuts training pipelines from 7 days to 1, Lance powers 100 Hz robotics data ingestion, plus upcoming events, enterprise updates, community updates.",
+    "url": "https://www.lancedb.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "CrewAI replaced a two-system memory stack with LanceDB, then rebuilt agent memory to resolve contradictions and gate recall on confidence. It now ships by default across 12 million monthly downloads and 2B+ agent executions.",
+    "url": "https://www.lancedb.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Data Loading for AI/ML: A Comprehensive Guide",
+    "url": "https://www.lancedb.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "A deep dive into data loading for model training — the three pipeline stages, parallelism strategies, shuffling, caching, resumability, and how LanceDB's StreamingDataset fits in.",
+    "url": "https://www.lancedb.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples",
+    "url": "https://www.lancedb.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Lance turns long robotics videos into random-access multimodal training data with 1.7–6× faster reads and 42% lower storage use.",
+    "url": "https://www.lancedb.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "How LanceDB's latest IVF_RQ improvements raise recall, cut p99 latency, and let teams tune vector search at query time with approx_mode.",
+    "url": "https://www.lancedb.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Benchmark Lance vs Delta vs Iceberg on S3 metadata performance, update blob rows without reading bytes, and train world models directly from object storage, plus upcoming events and enterprise and community updates.",
+    "url": "https://www.lancedb.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "How Lance format and LanceDB's Enterprise feature engineering platform make VLM fine-tuning faster by materializing expensive multimodal features once and training from those columns.",
+    "url": "https://www.lancedb.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "A Rust benchmark comparison of Lance, Delta Lake, and Apache Iceberg on S3 and S3 Express, and why Lance is optimized for object storage metadata.",
+    "url": "https://www.lancedb.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Stable-Worldmodel: A High Performance Platform for Reproducible World Model Research",
+    "url": "https://www.lancedb.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Introducing stable-worldmodel, an open-source platform for reproducible world model research, evaluation, and benchmarking under visual and physical distribution shifts.",
+    "url": "https://www.lancedb.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Reproducible Data Curation In The Multimodal Lakehouse",
+    "url": "https://www.lancedb.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "LanceDB In Production | Multimodal Lakehouse for AI",
+    "url": "https://www.lancedb.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Existing Privacy Settings Found",
+    "url": "https://www.lancedb.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Edit Privacy Settings",
+    "url": "https://www.lancedb.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "LeRobot trains directly from Lance datasets in object storage, a hybrid scan mines robot fleet data for edge cases, and distributed search reaches 1,066 QPS across 10B vectors, plus upcoming events, enterprise updates, and community contributions.",
+    "url": "https://www.lancedb.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "See how Jev performs in a benchmark of 19 reranker configurations across five datasets, covering accuracy, latency, and prompt-driven relevance for LanceDB search.",
+    "url": "https://www.lancedb.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "LanceDB adds ASOF join support to Apache DataFusion, improving time-series joins while giving back to the open source projects we rely on.",
+    "url": "https://www.lancedb.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "LanceDB lets you tune search precision at query time, balance memory and disk caching, and keep new data searchable as your table grows.",
+    "url": "https://www.lancedb.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "A Practical LLM Pretraining Pipeline with LanceDB",
+    "url": "https://www.lancedb.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Training a GPT-2-like model from raw text in 25 minutes with LanceDB, using one table for curation, tokenization, shuffling, packing, training, and analysis.",
+    "url": "https://www.lancedb.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Reverie launches as LanceDB's summit for AI builders, GPU training bottlenecks traced to CPU-side transforms, and CrewAI unifies cognitive memory on LanceDB, plus upcoming events, enterprise updates, and community updates.",
+    "url": "https://www.lancedb.com/customers",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "⚖️ Harvey’s Enterprise-Grade RAG on LanceDB, 💼 Dosu Case Study, Minimax&LumaLabs❤️Lance-Ray",
+    "url": "https://www.lancedb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our August newsletter features a new case study with Dosu, recaps from events with Harvey and Databricks, and the latest product and community updates.",
+    "url": "https://www.lancedb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Netflix’s Media Data Lake ❤️ LanceDB, CodeRabbit 💼 Case Study, Lance Namespace",
+    "url": "https://www.lancedb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our August newsletter highlights LanceDB powering Netflix's Media Data Lake, a case study on CodeRabbit's AI-powered code reviews, and updates on Lance Namespace and Spark integration.",
+    "url": "https://www.lancedb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Meet Dosu - the Intelligent Knowledge Base for Software Teams and Agents",
+    "url": "https://www.lancedb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: How CodeRabbit Leverages LanceDB for AI-Powered Code Reviews",
+    "url": "https://www.lancedb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "⚖️ Harvey’s Enterprise-Grade RAG on LanceDB, 💼 Dosu Case Study, Minimax&LumaLabs❤️Lance-Ray",
+    "url": "https://www.lancedb.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Our August newsletter features a new case study with Dosu, recaps from events with Harvey and Databricks, and the latest product and community updates.",
+    "url": "https://www.lancedb.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Netflix’s Media Data Lake ❤️ LanceDB, CodeRabbit 💼 Case Study, Lance Namespace",
+    "url": "https://www.lancedb.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Our August newsletter highlights LanceDB powering Netflix's Media Data Lake, a case study on CodeRabbit's AI-powered code reviews, and updates on Lance Namespace and Spark integration.",
+    "url": "https://www.lancedb.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Meet Dosu - the Intelligent Knowledge Base for Software Teams and Agents",
+    "url": "https://www.lancedb.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: How CodeRabbit Leverages LanceDB for AI-Powered Code Reviews",
+    "url": "https://www.lancedb.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "⚖️ Harvey’s Enterprise-Grade RAG on LanceDB, 💼 Dosu Case Study, Minimax&LumaLabs❤️Lance-Ray",
+    "url": "https://www.lancedb.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Our August newsletter features a new case study with Dosu, recaps from events with Harvey and Databricks, and the latest product and community updates.",
+    "url": "https://www.lancedb.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Netflix’s Media Data Lake ❤️ LanceDB, CodeRabbit 💼 Case Study, Lance Namespace",
+    "url": "https://www.lancedb.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Our August newsletter highlights LanceDB powering Netflix's Media Data Lake, a case study on CodeRabbit's AI-powered code reviews, and updates on Lance Namespace and Spark integration.",
+    "url": "https://www.lancedb.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Meet Dosu - the Intelligent Knowledge Base for Software Teams and Agents",
+    "url": "https://www.lancedb.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: How CodeRabbit Leverages LanceDB for AI-Powered Code Reviews",
+    "url": "https://www.lancedb.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by teams building the next generation of AI.",
+    "url": "https://www.lancedb.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "⚖️ Harvey’s Enterprise-Grade RAG on LanceDB, 💼 Dosu Case Study, Minimax&LumaLabs❤️Lance-Ray",
+    "url": "https://www.lancedb.com/blog/zero-shot-image-classification-with-vector-search",
+    "pass": 1
+   },
+   {
+    "quote": "Our August newsletter features a new case study with Dosu, recaps from events with Harvey and Databricks, and the latest product and community updates.",
+    "url": "https://www.lancedb.com/blog/zero-shot-image-classification-with-vector-search",
+    "pass": 1
+   },
+   {
+    "quote": "Netflix’s Media Data Lake ❤️ LanceDB, CodeRabbit 💼 Case Study, Lance Namespace",
+    "url": "https://www.lancedb.com/blog/zero-shot-image-classification-with-vector-search",
+    "pass": 1
+   },
+   {
+    "quote": "Our August newsletter highlights LanceDB powering Netflix's Media Data Lake, a case study on CodeRabbit's AI-powered code reviews, and updates on Lance Namespace and Spark integration.",
+    "url": "https://www.lancedb.com/blog/zero-shot-image-classification-with-vector-search",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Meet Dosu - the Intelligent Knowledge Base for Software Teams and Agents",
+    "url": "https://www.lancedb.com/blog/zero-shot-image-classification-with-vector-search",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: How CodeRabbit Leverages LanceDB for AI-Powered Code Reviews",
+    "url": "https://www.lancedb.com/blog/zero-shot-image-classification-with-vector-search",
+    "pass": 1
+   },
+   {
+    "quote": "⚖️ Harvey’s Enterprise-Grade RAG on LanceDB, 💼 Dosu Case Study, Minimax&LumaLabs❤️Lance-Ray",
+    "url": "https://www.lancedb.com/blog/tokens-per-second-is-not-all-you-need",
+    "pass": 1
+   },
+   {
+    "quote": "Our August newsletter features a new case study with Dosu, recaps from events with Harvey and Databricks, and the latest product and community updates.",
+    "url": "https://www.lancedb.com/blog/tokens-per-second-is-not-all-you-need",
+    "pass": 1
+   },
+   {
+    "quote": "Netflix’s Media Data Lake ❤️ LanceDB, CodeRabbit 💼 Case Study, Lance Namespace",
+    "url": "https://www.lancedb.com/blog/tokens-per-second-is-not-all-you-need",
+    "pass": 1
+   },
+   {
+    "quote": "Our August newsletter highlights LanceDB powering Netflix's Media Data Lake, a case study on CodeRabbit's AI-powered code reviews, and updates on Lance Namespace and Spark integration.",
+    "url": "https://www.lancedb.com/blog/tokens-per-second-is-not-all-you-need",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Meet Dosu - the Intelligent Knowledge Base for Software Teams and Agents",
+    "url": "https://www.lancedb.com/blog/tokens-per-second-is-not-all-you-need",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: How CodeRabbit Leverages LanceDB for AI-Powered Code Reviews",
+    "url": "https://www.lancedb.com/blog/tokens-per-second-is-not-all-you-need",
+    "pass": 1
+   },
+   {
+    "quote": "⚖️ Harvey’s Enterprise-Grade RAG on LanceDB, 💼 Dosu Case Study, Minimax&LumaLabs❤️Lance-Ray",
+    "url": "https://www.lancedb.com/blog/search-within-an-image-331b54e4285e",
+    "pass": 1
+   },
+   {
+    "quote": "Our August newsletter features a new case study with Dosu, recaps from events with Harvey and Databricks, and the latest product and community updates.",
+    "url": "https://www.lancedb.com/blog/search-within-an-image-331b54e4285e",
+    "pass": 1
+   },
+   {
+    "quote": "Netflix’s Media Data Lake ❤️ LanceDB, CodeRabbit 💼 Case Study, Lance Namespace",
+    "url": "https://www.lancedb.com/blog/search-within-an-image-331b54e4285e",
+    "pass": 1
+   },
+   {
+    "quote": "Our August newsletter highlights LanceDB powering Netflix's Media Data Lake, a case study on CodeRabbit's AI-powered code reviews, and updates on Lance Namespace and Spark integration.",
+    "url": "https://www.lancedb.com/blog/search-within-an-image-331b54e4285e",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Meet Dosu - the Intelligent Knowledge Base for Software Teams and Agents",
+    "url": "https://www.lancedb.com/blog/search-within-an-image-331b54e4285e",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: How CodeRabbit Leverages LanceDB for AI-Powered Code Reviews",
+    "url": "https://www.lancedb.com/blog/search-within-an-image-331b54e4285e",
+    "pass": 1
+   },
+   {
+    "quote": "⚖️ Harvey’s Enterprise-Grade RAG on LanceDB, 💼 Dosu Case Study, Minimax&LumaLabs❤️Lance-Ray",
+    "url": "https://www.lancedb.com/blog/scalable-computer-vision-with-lancedb-voxel51-d8b65066d5f6",
+    "pass": 1
+   },
+   {
+    "quote": "Our August newsletter features a new case study with Dosu, recaps from events with Harvey and Databricks, and the latest product and community updates.",
+    "url": "https://www.lancedb.com/blog/scalable-computer-vision-with-lancedb-voxel51-d8b65066d5f6",
+    "pass": 1
+   },
+   {
+    "quote": "Netflix’s Media Data Lake ❤️ LanceDB, CodeRabbit 💼 Case Study, Lance Namespace",
+    "url": "https://www.lancedb.com/blog/scalable-computer-vision-with-lancedb-voxel51-d8b65066d5f6",
+    "pass": 1
+   },
+   {
+    "quote": "Our August newsletter highlights LanceDB powering Netflix's Media Data Lake, a case study on CodeRabbit's AI-powered code reviews, and updates on Lance Namespace and Spark integration.",
+    "url": "https://www.lancedb.com/blog/scalable-computer-vision-with-lancedb-voxel51-d8b65066d5f6",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Meet Dosu - the Intelligent Knowledge Base for Software Teams and Agents",
+    "url": "https://www.lancedb.com/blog/scalable-computer-vision-with-lancedb-voxel51-d8b65066d5f6",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: How CodeRabbit Leverages LanceDB for AI-Powered Code Reviews",
+    "url": "https://www.lancedb.com/blog/scalable-computer-vision-with-lancedb-voxel51-d8b65066d5f6",
+    "pass": 1
+   },
+   {
+    "quote": "⚖️ Harvey’s Enterprise-Grade RAG on LanceDB, 💼 Dosu Case Study, Minimax&LumaLabs❤️Lance-Ray",
+    "url": "https://www.lancedb.com/blog/my-simd-is-faster-than-yours-fb2989bf25e7",
+    "pass": 1
+   },
+   {
+    "quote": "Our August newsletter features a new case study with Dosu, recaps from events with Harvey and Databricks, and the latest product and community updates.",
+    "url": "https://www.lancedb.com/blog/my-simd-is-faster-than-yours-fb2989bf25e7",
+    "pass": 1
+   },
+   {
+    "quote": "Netflix’s Media Data Lake ❤️ LanceDB, CodeRabbit 💼 Case Study, Lance Namespace",
+    "url": "https://www.lancedb.com/blog/my-simd-is-faster-than-yours-fb2989bf25e7",
+    "pass": 1
+   },
+   {
+    "quote": "Our August newsletter highlights LanceDB powering Netflix's Media Data Lake, a case study on CodeRabbit's AI-powered code reviews, and updates on Lance Namespace and Spark integration.",
+    "url": "https://www.lancedb.com/blog/my-simd-is-faster-than-yours-fb2989bf25e7",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Meet Dosu - the Intelligent Knowledge Base for Software Teams and Agents",
+    "url": "https://www.lancedb.com/blog/my-simd-is-faster-than-yours-fb2989bf25e7",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: How CodeRabbit Leverages LanceDB for AI-Powered Code Reviews",
+    "url": "https://www.lancedb.com/blog/my-simd-is-faster-than-yours-fb2989bf25e7",
+    "pass": 1
+   },
+   {
+    "quote": "⚖️ Harvey’s Enterprise-Grade RAG on LanceDB, 💼 Dosu Case Study, Minimax&LumaLabs❤️Lance-Ray",
+    "url": "https://www.lancedb.com/blog/multi-document-agentic-rag-a-walkthrough",
+    "pass": 1
+   },
+   {
+    "quote": "Our August newsletter features a new case study with Dosu, recaps from events with Harvey and Databricks, and the latest product and community updates.",
+    "url": "https://www.lancedb.com/blog/multi-document-agentic-rag-a-walkthrough",
+    "pass": 1
+   },
+   {
+    "quote": "Netflix’s Media Data Lake ❤️ LanceDB, CodeRabbit 💼 Case Study, Lance Namespace",
+    "url": "https://www.lancedb.com/blog/multi-document-agentic-rag-a-walkthrough",
+    "pass": 1
+   },
+   {
+    "quote": "Our August newsletter highlights LanceDB powering Netflix's Media Data Lake, a case study on CodeRabbit's AI-powered code reviews, and updates on Lance Namespace and Spark integration.",
+    "url": "https://www.lancedb.com/blog/multi-document-agentic-rag-a-walkthrough",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Meet Dosu - the Intelligent Knowledge Base for Software Teams and Agents",
+    "url": "https://www.lancedb.com/blog/multi-document-agentic-rag-a-walkthrough",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: How CodeRabbit Leverages LanceDB for AI-Powered Code Reviews",
+    "url": "https://www.lancedb.com/blog/multi-document-agentic-rag-a-walkthrough",
+    "pass": 1
+   },
+   {
+    "quote": "Here’s how we can build a specialized RAG agent for automotive needs. Imagine you’re facing car troubles and need guidance—this agent would help you to:",
+    "url": "https://www.lancedb.com/blog/multi-document-agentic-rag-a-walkthrough",
+    "pass": 1
+   },
+   {
+    "quote": "\"\"\"Searches the problem catalog to find relevant automotive problems for the query.\"\"\"",
+    "url": "https://www.lancedb.com/blog/multi-document-agentic-rag-a-walkthrough",
+    "pass": 1
+   },
+   {
+    "quote": "retriever object to gather context on the relevant maintenance schedule, including different tasks based on the car’s mileage. This context was then used by the",
+    "url": "https://www.lancedb.com/blog/multi-document-agentic-rag-a-walkthrough",
+    "pass": 1
+   },
+   {
+    "quote": "⚖️ Harvey’s Enterprise-Grade RAG on LanceDB, 💼 Dosu Case Study, Minimax&LumaLabs❤️Lance-Ray",
+    "url": "https://www.lancedb.com/blog/modified-rag-parent-document-bigger-chunk-retriever-62b3d1e79bc6",
+    "pass": 1
+   },
+   {
+    "quote": "Our August newsletter features a new case study with Dosu, recaps from events with Harvey and Databricks, and the latest product and community updates.",
+    "url": "https://www.lancedb.com/blog/modified-rag-parent-document-bigger-chunk-retriever-62b3d1e79bc6",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Native Lance support on Hugging Face Hub, Git-style branching and shallow clone for AI data, and Arrow-native geospatial with R-Tree indexing, plus steady OSS and community momentum.",
+    "url": "https://www.lancedb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Introducing the Multimodal Lakehouse - a unified platform for managing AI data from raw files to production-ready features, now part of LanceDB Enterprise.",
+    "url": "https://www.lancedb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How Lance's Arrow-native architecture enables first-class geospatial support through extension types, GeoDataFusion integration, and R-Tree indexing.",
+    "url": "https://www.lancedb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Write a Python UDF; LanceDB runs it across a distributed cluster and writes the result back as a new column. Backfill existing rows with checkpointing, automatically process new rows as they arrive, and add embeddings without rewriting the table.",
+    "url": "https://www.lancedb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Native Lance support on Hugging Face Hub, Git-style branching and shallow clone for AI data, and Arrow-native geospatial with R-Tree indexing, plus steady OSS and community momentum.",
+    "url": "https://www.lancedb.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Introducing the Multimodal Lakehouse - a unified platform for managing AI data from raw files to production-ready features, now part of LanceDB Enterprise.",
+    "url": "https://www.lancedb.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "How Lance's Arrow-native architecture enables first-class geospatial support through extension types, GeoDataFusion integration, and R-Tree indexing.",
+    "url": "https://www.lancedb.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Arrow-native interop – LanceDB results as Pandas DataFrames instantly.",
+    "url": "https://www.lancedb.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Lance format is built on Apache Arrow for zero-copy analytics.",
+    "url": "https://www.lancedb.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Collaborate on deals, share pipelines, and unlock new revenue through joint go-to-market motions.",
+    "url": "https://www.lancedb.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Native Lance support on Hugging Face Hub, Git-style branching and shallow clone for AI data, and Arrow-native geospatial with R-Tree indexing, plus steady OSS and community momentum.",
+    "url": "https://www.lancedb.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Introducing the Multimodal Lakehouse - a unified platform for managing AI data from raw files to production-ready features, now part of LanceDB Enterprise.",
+    "url": "https://www.lancedb.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Lance's Arrow-native architecture enables first-class geospatial support through extension types, GeoDataFusion integration, and R-Tree indexing.",
+    "url": "https://www.lancedb.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Native Lance support on Hugging Face Hub, Git-style branching and shallow clone for AI data, and Arrow-native geospatial with R-Tree indexing, plus steady OSS and community momentum.",
+    "url": "https://www.lancedb.com/blog/zero-shot-image-classification-with-vector-search",
+    "pass": 1
+   },
+   {
+    "quote": "Introducing the Multimodal Lakehouse - a unified platform for managing AI data from raw files to production-ready features, now part of LanceDB Enterprise.",
+    "url": "https://www.lancedb.com/blog/zero-shot-image-classification-with-vector-search",
+    "pass": 1
+   },
+   {
+    "quote": "How Lance's Arrow-native architecture enables first-class geospatial support through extension types, GeoDataFusion integration, and R-Tree indexing.",
+    "url": "https://www.lancedb.com/blog/zero-shot-image-classification-with-vector-search",
+    "pass": 1
+   },
+   {
+    "quote": "# Move embeddings to CPU and convert to numpy array",
+    "url": "https://www.lancedb.com/blog/zero-shot-image-classification-with-vector-search",
+    "pass": 1
+   },
+   {
+    "quote": "Native Lance support on Hugging Face Hub, Git-style branching and shallow clone for AI data, and Arrow-native geospatial with R-Tree indexing, plus steady OSS and community momentum.",
+    "url": "https://www.lancedb.com/blog/tokens-per-second-is-not-all-you-need",
+    "pass": 1
+   },
+   {
+    "quote": "Introducing the Multimodal Lakehouse - a unified platform for managing AI data from raw files to production-ready features, now part of LanceDB Enterprise.",
+    "url": "https://www.lancedb.com/blog/tokens-per-second-is-not-all-you-need",
+    "pass": 1
+   },
+   {
+    "quote": "How Lance's Arrow-native architecture enables first-class geospatial support through extension types, GeoDataFusion integration, and R-Tree indexing.",
+    "url": "https://www.lancedb.com/blog/tokens-per-second-is-not-all-you-need",
+    "pass": 1
+   },
+   {
+    "quote": "Native Lance support on Hugging Face Hub, Git-style branching and shallow clone for AI data, and Arrow-native geospatial with R-Tree indexing, plus steady OSS and community momentum.",
+    "url": "https://www.lancedb.com/blog/search-within-an-image-331b54e4285e",
+    "pass": 1
+   },
+   {
+    "quote": "Introducing the Multimodal Lakehouse - a unified platform for managing AI data from raw files to production-ready features, now part of LanceDB Enterprise.",
+    "url": "https://www.lancedb.com/blog/search-within-an-image-331b54e4285e",
+    "pass": 1
+   },
+   {
+    "quote": "How Lance's Arrow-native architecture enables first-class geospatial support through extension types, GeoDataFusion integration, and R-Tree indexing.",
+    "url": "https://www.lancedb.com/blog/search-within-an-image-331b54e4285e",
+    "pass": 1
+   },
+   {
+    "quote": "Native Lance support on Hugging Face Hub, Git-style branching and shallow clone for AI data, and Arrow-native geospatial with R-Tree indexing, plus steady OSS and community momentum.",
+    "url": "https://www.lancedb.com/blog/scalable-computer-vision-with-lancedb-voxel51-d8b65066d5f6",
+    "pass": 1
+   },
+   {
+    "quote": "Introducing the Multimodal Lakehouse - a unified platform for managing AI data from raw files to production-ready features, now part of LanceDB Enterprise.",
+    "url": "https://www.lancedb.com/blog/scalable-computer-vision-with-lancedb-voxel51-d8b65066d5f6",
+    "pass": 1
+   },
+   {
+    "quote": "How Lance's Arrow-native architecture enables first-class geospatial support through extension types, GeoDataFusion integration, and R-Tree indexing.",
+    "url": "https://www.lancedb.com/blog/scalable-computer-vision-with-lancedb-voxel51-d8b65066d5f6",
+    "pass": 1
+   },
+   {
+    "quote": "LanceDB is compatible with the Python data ecosystem and can be used with pandas, NumPy, and Arrow.",
+    "url": "https://www.lancedb.com/blog/scalable-computer-vision-with-lancedb-voxel51-d8b65066d5f6",
+    "pass": 1
+   },
+   {
+    "quote": "pa = table.to_arrow()",
+    "url": "https://www.lancedb.com/blog/scalable-computer-vision-with-lancedb-voxel51-d8b65066d5f6",
+    "pass": 1
+   },
+   {
+    "quote": "# get the table as an arrow table",
+    "url": "https://www.lancedb.com/blog/scalable-computer-vision-with-lancedb-voxel51-d8b65066d5f6",
+    "pass": 1
+   },
+   {
+    "quote": "Native Lance support on Hugging Face Hub, Git-style branching and shallow clone for AI data, and Arrow-native geospatial with R-Tree indexing, plus steady OSS and community momentum.",
+    "url": "https://www.lancedb.com/blog/my-simd-is-faster-than-yours-fb2989bf25e7",
+    "pass": 1
+   },
+   {
+    "quote": "Introducing the Multimodal Lakehouse - a unified platform for managing AI data from raw files to production-ready features, now part of LanceDB Enterprise.",
+    "url": "https://www.lancedb.com/blog/my-simd-is-faster-than-yours-fb2989bf25e7",
+    "pass": 1
+   },
+   {
+    "quote": "How Lance's Arrow-native architecture enables first-class geospatial support through extension types, GeoDataFusion integration, and R-Tree indexing.",
+    "url": "https://www.lancedb.com/blog/my-simd-is-faster-than-yours-fb2989bf25e7",
+    "pass": 1
+   },
+   {
+    "quote": "Second attempt: Arrow compute kernel",
+    "url": "https://www.lancedb.com/blog/my-simd-is-faster-than-yours-fb2989bf25e7",
+    "pass": 1
+   },
+   {
+    "quote": "LanceDB is built on top of Apache Arrow (Rust), can we do better by using Arrow compute kernels directly?",
+    "url": "https://www.lancedb.com/blog/my-simd-is-faster-than-yours-fb2989bf25e7",
+    "pass": 1
+   },
+   {
+    "quote": "// Use arrow arith kernels.",
+    "url": "https://www.lancedb.com/blog/my-simd-is-faster-than-yours-fb2989bf25e7",
+    "pass": 1
+   },
+   {
+    "quote": "arrow_arith::arithmetic::{multiply, subtract};",
+    "url": "https://www.lancedb.com/blog/my-simd-is-faster-than-yours-fb2989bf25e7",
+    "pass": 1
+   },
+   {
+    "quote": "arrow_arith::arity::binary;",
+    "url": "https://www.lancedb.com/blog/my-simd-is-faster-than-yours-fb2989bf25e7",
+    "pass": 1
+   },
+   {
+    "quote": "l2_arrow_1",
+    "url": "https://www.lancedb.com/blog/my-simd-is-faster-than-yours-fb2989bf25e7",
+    "pass": 1
+   },
+   {
+    "quote": "(x: &Float32Array, y: &Float32Array) ->",
+    "url": "https://www.lancedb.com/blog/my-simd-is-faster-than-yours-fb2989bf25e7",
+    "pass": 1
+   },
+   {
+    "quote": "l2_arrow_2",
+    "url": "https://www.lancedb.com/blog/my-simd-is-faster-than-yours-fb2989bf25e7",
+    "pass": 1
+   },
+   {
+    "quote": "m: Float32Array = binary(x, y, |a, b| (a - b).powi(",
+    "url": "https://www.lancedb.com/blog/my-simd-is-faster-than-yours-fb2989bf25e7",
+    "pass": 1
+   },
+   {
+    "quote": "respectively. Surprisingly, using arrow compute kernel is slower than our naive implementation. The reason being that, unlike the native L2 function that has zero memory allocation and only scan",
+    "url": "https://www.lancedb.com/blog/my-simd-is-faster-than-yours-fb2989bf25e7",
+    "pass": 1
+   },
+   {
+    "quote": "array once, invaliding L1/L2 cache twice, and two extra memory allocations for",
+    "url": "https://www.lancedb.com/blog/my-simd-is-faster-than-yours-fb2989bf25e7",
+    "pass": 1
+   },
+   {
+    "quote": "Native Lance support on Hugging Face Hub, Git-style branching and shallow clone for AI data, and Arrow-native geospatial with R-Tree indexing, plus steady OSS and community momentum.",
+    "url": "https://www.lancedb.com/blog/multi-document-agentic-rag-a-walkthrough",
+    "pass": 1
+   },
+   {
+    "quote": "Introducing the Multimodal Lakehouse - a unified platform for managing AI data from raw files to production-ready features, now part of LanceDB Enterprise.",
+    "url": "https://www.lancedb.com/blog/multi-document-agentic-rag-a-walkthrough",
+    "pass": 1
+   },
+   {
+    "quote": "How Lance's Arrow-native architecture enables first-class geospatial support through extension types, GeoDataFusion integration, and R-Tree indexing.",
+    "url": "https://www.lancedb.com/blog/multi-document-agentic-rag-a-walkthrough",
+    "pass": 1
+   },
+   {
+    "quote": "Native Lance support on Hugging Face Hub, Git-style branching and shallow clone for AI data, and Arrow-native geospatial with R-Tree indexing, plus steady OSS and community momentum.",
+    "url": "https://www.lancedb.com/blog/modified-rag-parent-document-bigger-chunk-retriever-62b3d1e79bc6",
+    "pass": 1
+   },
+   {
+    "quote": "Introducing the Multimodal Lakehouse - a unified platform for managing AI data from raw files to production-ready features, now part of LanceDB Enterprise.",
+    "url": "https://www.lancedb.com/blog/modified-rag-parent-document-bigger-chunk-retriever-62b3d1e79bc6",
+    "pass": 1
+   },
+   {
+    "quote": "How Lance's Arrow-native architecture enables first-class geospatial support through extension types, GeoDataFusion integration, and R-Tree indexing.",
+    "url": "https://www.lancedb.com/blog/modified-rag-parent-document-bigger-chunk-retriever-62b3d1e79bc6",
+    "pass": 1
+   },
+   {
+    "quote": "Native Lance support on Hugging Face Hub, Git-style branching and shallow clone for AI data, and Arrow-native geospatial with R-Tree indexing, plus steady OSS and community momentum.",
+    "url": "https://www.lancedb.com/blog/memgpt-os-inspired-llms-that-manage-their-own-memory-793d6eed417e",
+    "pass": 1
+   },
+   {
+    "quote": "Introducing the Multimodal Lakehouse - a unified platform for managing AI data from raw files to production-ready features, now part of LanceDB Enterprise.",
+    "url": "https://www.lancedb.com/blog/memgpt-os-inspired-llms-that-manage-their-own-memory-793d6eed417e",
+    "pass": 1
+   },
+   {
+    "quote": "How Lance's Arrow-native architecture enables first-class geospatial support through extension types, GeoDataFusion integration, and R-Tree indexing.",
+    "url": "https://www.lancedb.com/blog/memgpt-os-inspired-llms-that-manage-their-own-memory-793d6eed417e",
+    "pass": 1
+   },
+   {
+    "quote": "Native Lance support on Hugging Face Hub, Git-style branching and shallow clone for AI data, and Arrow-native geospatial with R-Tree indexing, plus steady OSS and community momentum.",
+    "url": "https://www.lancedb.com/blog/hybrid-search-rag-for-real-life-production-grade-applications-e1e727b3965a",
+    "pass": 1
+   },
+   {
+    "quote": "Introducing the Multimodal Lakehouse - a unified platform for managing AI data from raw files to production-ready features, now part of LanceDB Enterprise.",
+    "url": "https://www.lancedb.com/blog/hybrid-search-rag-for-real-life-production-grade-applications-e1e727b3965a",
+    "pass": 1
+   },
+   {
+    "quote": "How Lance's Arrow-native architecture enables first-class geospatial support through extension types, GeoDataFusion integration, and R-Tree indexing.",
+    "url": "https://www.lancedb.com/blog/hybrid-search-rag-for-real-life-production-grade-applications-e1e727b3965a",
+    "pass": 1
+   },
+   {
+    "quote": "ModifiedLinearReranker",
+    "url": "https://www.lancedb.com/blog/hybrid-search-rag-for-real-life-production-grade-applications-e1e727b3965a",
+    "pass": 1
+   },
+   {
+    "quote": "modified_reranker = ModifiedLinearReranker(filters=[",
+    "url": "https://www.lancedb.com/blog/hybrid-search-rag-for-real-life-production-grade-applications-e1e727b3965a",
+    "pass": 1
+   },
+   {
+    "quote": "Native Lance support on Hugging Face Hub, Git-style branching and shallow clone for AI data, and Arrow-native geospatial with R-Tree indexing, plus steady OSS and community momentum.",
+    "url": "https://www.lancedb.com/blog/guide-to-use-contextual-retrieval-and-prompt-caching-with-lancedb",
+    "pass": 1
+   },
+   {
+    "quote": "Introducing the Multimodal Lakehouse - a unified platform for managing AI data from raw files to production-ready features, now part of LanceDB Enterprise.",
+    "url": "https://www.lancedb.com/blog/guide-to-use-contextual-retrieval-and-prompt-caching-with-lancedb",
+    "pass": 1
+   },
+   {
+    "quote": "How Lance's Arrow-native architecture enables first-class geospatial support through extension types, GeoDataFusion integration, and R-Tree indexing.",
+    "url": "https://www.lancedb.com/blog/guide-to-use-contextual-retrieval-and-prompt-caching-with-lancedb",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Build an autonomous customer support agent using LangGraph and LanceDB that automatically fetches, classifies, drafts, and responds to emails with RAG-powered policy retrieval.",
+    "url": "https://www.lancedb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Build an autonomous customer support agent using LangGraph and LanceDB that automatically fetches, classifies, drafts, and responds to emails with RAG-powered policy retrieval.",
+    "url": "https://www.lancedb.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "In the meantime, please check your email — we’ve sent you a confirmation.",
+    "url": "https://www.lancedb.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Build an autonomous customer support agent using LangGraph and LanceDB that automatically fetches, classifies, drafts, and responds to emails with RAG-powered policy retrieval.",
+    "url": "https://www.lancedb.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Build an autonomous customer support agent using LangGraph and LanceDB that automatically fetches, classifies, drafts, and responds to emails with RAG-powered policy retrieval.",
+    "url": "https://www.lancedb.com/blog/zero-shot-image-classification-with-vector-search",
+    "pass": 1
+   },
+   {
+    "quote": "Build an autonomous customer support agent using LangGraph and LanceDB that automatically fetches, classifies, drafts, and responds to emails with RAG-powered policy retrieval.",
+    "url": "https://www.lancedb.com/blog/tokens-per-second-is-not-all-you-need",
+    "pass": 1
+   },
+   {
+    "quote": "Build an autonomous customer support agent using LangGraph and LanceDB that automatically fetches, classifies, drafts, and responds to emails with RAG-powered policy retrieval.",
+    "url": "https://www.lancedb.com/blog/search-within-an-image-331b54e4285e",
+    "pass": 1
+   },
+   {
+    "quote": "Build an autonomous customer support agent using LangGraph and LanceDB that automatically fetches, classifies, drafts, and responds to emails with RAG-powered policy retrieval.",
+    "url": "https://www.lancedb.com/blog/scalable-computer-vision-with-lancedb-voxel51-d8b65066d5f6",
+    "pass": 1
+   },
+   {
+    "quote": "Build an autonomous customer support agent using LangGraph and LanceDB that automatically fetches, classifies, drafts, and responds to emails with RAG-powered policy retrieval.",
+    "url": "https://www.lancedb.com/blog/my-simd-is-faster-than-yours-fb2989bf25e7",
+    "pass": 1
+   },
+   {
+    "quote": "Build an autonomous customer support agent using LangGraph and LanceDB that automatically fetches, classifies, drafts, and responds to emails with RAG-powered policy retrieval.",
+    "url": "https://www.lancedb.com/blog/multi-document-agentic-rag-a-walkthrough",
+    "pass": 1
+   },
+   {
+    "quote": "Build an autonomous customer support agent using LangGraph and LanceDB that automatically fetches, classifies, drafts, and responds to emails with RAG-powered policy retrieval.",
+    "url": "https://www.lancedb.com/blog/modified-rag-parent-document-bigger-chunk-retriever-62b3d1e79bc6",
+    "pass": 1
+   },
+   {
+    "quote": "Build an autonomous customer support agent using LangGraph and LanceDB that automatically fetches, classifies, drafts, and responds to emails with RAG-powered policy retrieval.",
+    "url": "https://www.lancedb.com/blog/memgpt-os-inspired-llms-that-manage-their-own-memory-793d6eed417e",
+    "pass": 1
+   },
+   {
+    "quote": "Build an autonomous customer support agent using LangGraph and LanceDB that automatically fetches, classifies, drafts, and responds to emails with RAG-powered policy retrieval.",
+    "url": "https://www.lancedb.com/blog/hybrid-search-rag-for-real-life-production-grade-applications-e1e727b3965a",
+    "pass": 1
+   },
+   {
+    "quote": "Build an autonomous customer support agent using LangGraph and LanceDB that automatically fetches, classifies, drafts, and responds to emails with RAG-powered policy retrieval.",
+    "url": "https://www.lancedb.com/blog/guide-to-use-contextual-retrieval-and-prompt-caching-with-lancedb",
+    "pass": 1
+   },
+   {
+    "quote": "Build an autonomous customer support agent using LangGraph and LanceDB that automatically fetches, classifies, drafts, and responds to emails with RAG-powered policy retrieval.",
+    "url": "https://www.lancedb.com/blog/case-study-netflix",
+    "pass": 1
+   },
+   {
+    "quote": "Build an autonomous customer support agent using LangGraph and LanceDB that automatically fetches, classifies, drafts, and responds to emails with RAG-powered policy retrieval.",
+    "url": "https://www.lancedb.com/blog/case-study-dosu",
+    "pass": 1
+   },
+   {
+    "quote": "Build an autonomous customer support agent using LangGraph and LanceDB that automatically fetches, classifies, drafts, and responds to emails with RAG-powered policy retrieval.",
+    "url": "https://www.lancedb.com/blog/case-study-cognee",
+    "pass": 1
+   },
+   {
+    "quote": "Build an autonomous customer support agent using LangGraph and LanceDB that automatically fetches, classifies, drafts, and responds to emails with RAG-powered policy retrieval.",
+    "url": "https://www.lancedb.com/blog/case-study-coderabbit",
+    "pass": 1
+   },
+   {
+    "quote": "Build an autonomous customer support agent using LangGraph and LanceDB that automatically fetches, classifies, drafts, and responds to emails with RAG-powered policy retrieval.",
+    "url": "https://www.lancedb.com/category/case-study",
+    "pass": 3
+   },
+   {
+    "quote": "In the meantime, please check your email — we’ve sent you a confirmation.",
+    "url": "https://www.lancedb.com/category/case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Please show us what you’re building and should you need guidance on your noble quest don’t hesitate to email us at hello@minio.io or join our round table on",
+    "url": "https://www.min.io/blog/lancedb-trusted-steed-against-data-complexity",
+    "pass": 3
+   },
+   {
+    "quote": "Build an autonomous customer support agent using LangGraph and LanceDB that automatically fetches, classifies, drafts, and responds to emails with RAG-powered policy retrieval.",
+    "url": "https://www.lancedb.com/blog/series-a-funding",
+    "pass": 3
+   },
+   {
+    "quote": "企業Agentで考えると、 過去の会議 Slack Email CRM 契約書 顧客対応履歴 過去のAgent Action 成功したWorkflow 失敗したWorkflow コード 画像 音声 などが蓄積される",
+    "url": "https://note.com/kagawatomo/n/n4d7e6243a888",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "nomic-embed-text は主に英語向けで、日本語テキストの精度は落ちます",
+    "url": "https://dev.classmethod.jp/articles/lancedb-vector-search-how-it-works/",
+    "pass": 3
+   },
+   {
+    "quote": "【11/26（木）】AWSアカウントごと侵害されても、データを元に戻せますか？ 2025 Japan AWS Top Engineers が解説、ランサムウェア対策の\"最終防衛ライン\"をどう築くか",
+    "url": "https://dev.classmethod.jp/articles/lancedb-vector-search-how-it-works/",
+    "pass": 3
+   },
+   {
+    "quote": "AI エージェントのための軽量ハイブリッド検索 : LanceDB と Lindera を使って日本語全文検索",
+    "url": "https://zenn.dev/dimor47/articles/3ee0705a094b10",
+    "pass": 3
+   },
+   {
+    "quote": "の上で Lindera をつかって軽量な日本語全文検索とハイブリッド検索",
+    "url": "https://zenn.dev/dimor47/articles/3ee0705a094b10",
+    "pass": 3
+   },
+   {
+    "quote": "は Rust 製日本語形態素解析器ですが、Lance 上で利用できるようになっており、",
+    "url": "https://zenn.dev/dimor47/articles/3ee0705a094b10",
+    "pass": 3
+   },
+   {
+    "quote": "# sentence-transformers の多言語モデルを使用（日本語対応）",
+    "url": "https://zenn.dev/dimor47/articles/3ee0705a094b10",
+    "pass": 3
+   },
+   {
+    "quote": "\"日本語の全文検索をlancedbで試す\"",
+    "url": "https://zenn.dev/dimor47/articles/3ee0705a094b10",
+    "pass": 3
+   },
+   {
+    "quote": "│ 1 ┆ 日本語の全文検索をlancedbで試す ┆ [0.079305, -0.047349, … 0.0601… │",
+    "url": "https://zenn.dev/dimor47/articles/3ee0705a094b10",
+    "pass": 3
+   },
+   {
+    "quote": "# lindera tokenizer を使った日本語検索",
+    "url": "https://zenn.dev/dimor47/articles/3ee0705a094b10",
+    "pass": 3
+   },
+   {
+    "quote": "LanceDB で Lindera を使った日本語全文検索やハイブリッド検索が実現できました",
+    "url": "https://zenn.dev/dimor47/articles/3ee0705a094b10",
+    "pass": 3
+   },
+   {
+    "quote": "そして、Lindera のおかげで日本語の全文検索も非常に簡単に実現できました",
+    "url": "https://zenn.dev/dimor47/articles/3ee0705a094b10",
+    "pass": 3
+   },
+   {
+    "quote": "第27章 LanceDBの強みと弱点――どこがMoatになり、どこで負け得るのか 28. 第28章 「AI時代のDatabricks」になれるのか――Reverie Summitが示す野心 29. 第29章 日本企業にとって何が重要なのか 30. 第30章 結論――LanceDBは「AIとDatabaseが絡んだ製品」なのか",
+    "url": "https://note.com/kagawatomo/n/n4d7e6243a888",
+    "pass": 3
+   },
+   {
+    "quote": "例えば「customer_id = 1234」「price ＞ 100」「country = 'Japan'」といった条件である",
+    "url": "https://note.com/kagawatomo/n/n4d7e6243a888",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業がPhysical AIのデータ戦略を考えるなら、この二社を同時に見ておく必要がある",
+    "url": "https://note.com/kagawatomo/n/n4d7e6243a888",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製薬、素材、材料研究の文脈でも、同じ論点は成立する",
+    "url": "https://note.com/kagawatomo/n/n4d7e6243a888",
+    "pass": 3
+   },
+   {
+    "quote": "第29章 日本企業にとって何が重要なのか",
+    "url": "https://note.com/kagawatomo/n/n4d7e6243a888",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業がLanceDBを見るとき、「新しいVector DBが出た」という理解で終わらせない方がよい",
+    "url": "https://note.com/kagawatomo/n/n4d7e6243a888",
+    "pass": 3
+   },
+   {
+    "quote": "このDataを中国や米国のRobot Vendorへ送り続けるだけなら、日本企業側にはIntelligenceが蓄積しない",
+    "url": "https://note.com/kagawatomo/n/n4d7e6243a888",
+    "pass": 3
+   },
+   {
+    "quote": "例えば日本の工場が中国製Humanoidを100台導入するとする",
+    "url": "https://note.com/kagawatomo/n/n4d7e6243a888",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "LanceDB | Multimodal Lakehouse for AI — LanceDB | Multimodal Lakehouse for AI LanceDB https://www.lancedb.com",
+    "url": "https://www.lancedb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "GitHub - lancedb / lancedb : Developer-friendly OSS embedded ... — GitHub - lancedb / lancedb : Developer-friendly OSS embedded ... GitHub https://github.com > lancedb > lancedb",
+    "url": "https://github.com/lancedb/lancedb",
+    "pass": 3
+   },
+   {
+    "quote": "LanceDB でベクトル検索の仕組みを触ってみた - DevelopersIO — LanceDB でベクトル検索の仕組みを触ってみた - DevelopersIO DevelopersIO https://dev.classmethod.jp > articles > lancedb-vector-sear...",
+    "url": "https://dev.classmethod.jp/articles/lancedb-vector-search-how-it-works/",
+    "pass": 3
+   },
+   {
+    "quote": "LanceDB とは？Rust製ベクトルDBをPythonでローカル実行 — LanceDB とは？Rust製ベクトルDBをPythonでローカル実行 lexia-hp.com https://lexia-hp.com > ブログ",
+    "url": "https://lexia-hp.com/blog/lancedb-vector-search-guide",
+    "pass": 3
+   },
+   {
+    "quote": "ベクトル検索機能に関する LanceDB とAerospikeの比較 - Zilliz — ベクトル検索機能に関する LanceDB とAerospikeの比較 - Zilliz zilliz.com https://zilliz.com > blog > lance-db-vs-aerospike-a-compr...",
+    "url": "https://zilliz.com/jp/blog/lance-db-vs-aerospike-a-comprehensive-vector-database-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "LanceDB と Lindera を使って 日本 語全文検索 - Zenn — LanceDB と Lindera を使って 日本 語全文検索 - Zenn Zenn https://zenn.dev > dimor47 > articles",
+    "url": "https://zenn.dev/dimor47/articles/3ee0705a094b10",
+    "pass": 3
+   },
+   {
+    "quote": "LanceDB - LanceDB — LanceDB - LanceDB LanceDB https://docs.lancedb.com",
+    "url": "https://docs.lancedb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study - LanceDB — Case Study - LanceDB LanceDB https://www.lancedb.com > case-study",
+    "url": "https://www.lancedb.com/category/case-study",
+    "pass": 3
+   },
+   {
+    "quote": "LanceDB | PhoenixAI Glossary — LanceDB | PhoenixAI Glossary phoenixdata.ai https://www.phoenixdata.ai > lancedb",
+    "url": "https://www.phoenixdata.ai/glossary/lancedb",
+    "pass": 3
+   },
+   {
+    "quote": "LanceDB : Your Trusted Steed in the Joust Against Data ... — LanceDB : Your Trusted Steed in the Joust Against Data ... MinIO https://www.min.io > blog > lancedb-t...",
+    "url": "https://www.min.io/blog/lancedb-trusted-steed-against-data-complexity",
+    "pass": 3
+   },
+   {
+    "quote": "LanceDB : Validating Vector Search Datasets with FiftyOne — LanceDB : Validating Vector Search Datasets with FiftyOne Voxel51 https://voxel51.com > Customers",
+    "url": "https://voxel51.com/customers/lancedb",
+    "pass": 3
+   },
+   {
+    "quote": "LanceDB Raises $30M Series A to Build the Multimodal ... — LanceDB Raises $30M Series A to Build the Multimodal ... LanceDB https://www.lancedb.com > blog > ser...",
+    "url": "https://www.lancedb.com/blog/series-a-funding",
+    "pass": 3
+   },
+   {
+    "quote": "LanceDB - 2026 Company Profile & Team - Tracxn — LanceDB - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/lancedb/__ie1HuEEUoPOIc3tEX5yowY9yMJz9kdNTH01mwCePxLw",
+    "pass": 3
+   },
+   {
+    "quote": "LanceDB raises $30M for multimodal AI data platform - LinkedIn — LanceDB raises $30M for multimodal AI data platform - LinkedIn LinkedIn https://www.linkedin.com > posts > y-...",
+    "url": "https://www.linkedin.com/posts/y-combinator_lancedb-just-raised-30m-in-series-a-funding-activity-7343282195597336576-gGXT",
+    "pass": 3
+   },
+   {
+    "quote": "LanceDB 2026 Company Profile: Valuation, Funding & Investors — LanceDB 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/493221-61",
+    "pass": 3
+   },
+   {
+    "quote": "LanceDB - Crunchbase Company Profile & Funding — LanceDB - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > lancedb",
+    "url": "https://www.crunchbase.com/organization/lancedb",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "LanceDB 完全解説――Vector Databaseを超え、「AI時代の ... LanceDB 完全解説――Vector Databaseを超え、「AI時代の ... note https://note.com > コンピュータ・IT > データベース",
+    "url": "https://note.com/kagawatomo/n/n4d7e6243a888",
+    "pass": 3
+   },
+   {
+    "quote": "マルチモーダル時代のベクトルデータベース、 LanceDB の ... マルチモーダル時代のベクトルデータベース、 LanceDB の ... note https://note.com > コンピュータ・IT > データベース",
+    "url": "https://note.com/snake_dragon/n/n3e0fbcb53797",
+    "pass": 3
+   },
+   {
+    "quote": "初心者向け！ LanceDB とLlamaIndexで始めるAI検索エンジン ... 初心者向け！ LanceDB とLlamaIndexで始めるAI検索エンジン ... note https://note.com > 科学・テクノロジー > AI・機械学習",
+    "url": "https://note.com/sunwood_ai_labs/n/n3e455a455e17",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "LanceDB完全解説――Vector Databaseを超え、「AI時代のMultimodal Lakehouse」を狙うデータ基盤企業の正体｜香川友志",
+    "url": "https://note.com/kagawatomo/n/n4d7e6243a888",
+    "pass": 3
+   },
+   {
+    "quote": "LanceDB完全解説――Vector Databaseを超え、「AI時代のMultimodal Lakehouse」を狙うデータ基盤企業の正体",
+    "url": "https://note.com/kagawatomo/n/n4d7e6243a888",
+    "pass": 3
+   },
+   {
+    "quote": "AI競争の本当のボトルネックは、モデルそのものから「データをどう保存し、探し、学習へ戻すか」へ移り始めている。 LanceDBはVector Databaseの一社ではない。画像、動画、音声、Embedding、ロボットのSensor Dataまでを同じ基盤で扱い、「AI時代のMultimodal Lakehouse」を取りにいく企業だ。本稿では、その技術、創業者、顧客、競合、Physical AIへの展開までを一気に読み解く。",
+    "url": "https://note.com/kagawatomo/n/n4d7e6243a888",
+    "pass": 3
+   },
+   {
+    "quote": "はじめに――AIの次の主戦場は「モデル」ではなく「データ基盤」になるのか",
+    "url": "https://note.com/kagawatomo/n/n4d7e6243a888",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIの世界では、どうしてもOpenAI、Anthropic、Google DeepMind、Meta、xAIといった「モデルを作る企業」に注目が集まりやすい。しかし、AIが研究室のデモから企業の本番システムへ入り、さらにAI Agent、自動運転、ヒューマノイド、世界モデルへと広がっていくほど、別の巨大な問題が浮かび上がる。 それが「AIが利用するデータを、どこに、どの形式で、どう保存し、どう検索し、どう学習に戻すのか」という問題だ。 LLMであれば文書や会話履歴が中心だった。ところがマルチモーダルAIになると、画像、動画、音声、PDF、コード、Embedding、特徴量までが加わる。自動運転やロボティクスになると、さらにカメラ映像、LiDAR点群、Depth、IMU、関節角、トルク、モーター電流、操作ログ、人間によるTeleoperation、失敗データなどが毎日大量に生まれる。 従",
+    "url": "https://note.com/kagawatomo/n/n4d7e6243a888",
+    "pass": 3
+   },
+   {
+    "quote": "一つの検索方法で扱うことは難しい。画像や動画はS3、業務メタデータはPostgreSQL、EmbeddingはVector Database、分析はSnowflakeやDatabricks、モデル学習用データはParquetやWebDataset、Feature Storeはまた別のシステム、というようにシステムが分裂しやすい。",
+    "url": "https://note.com/kagawatomo/n/n4d7e6243a888",
+    "pass": 3
+   },
+   {
+    "quote": "LanceDBは、この分裂そのものをAI時代の根本的な問題と考える会社である。 2026年現在、LanceDBは自らを単なる「Vector Database」とは表現していない。同社が掲げているのは「Multimodal Lakehouse for AI」である。つまり、文章、画像、動画、音声、Embedding、メタデータ、Point Cloudなどを同じデータ基盤で扱い、検索だけでなく、データキュレーション、Feature Engineering、モデル学習までを一つの流れに統合しようとしている。 この会社を「PineconeのようなVector DBの一社」とだけ理解すると、本質を見誤る。 LanceDBが本当に狙っているのは、Vector Search市場よりもはるかに大きい可能性がある。それは「AI時代のデータ形式」と「AI時代のLakehouse」である。もし同社のオープンソー",
+    "url": "https://note.com/kagawatomo/n/n4d7e6243a888",
+    "pass": 3
+   },
+   {
+    "quote": "WebDataset、あるいは一部のLakehouse用途を置き換えるほど普及するなら、LanceDBはAIインフラのかなり深いレイヤーに入り込むことになる。",
+    "url": "https://note.com/kagawatomo/n/n4d7e6243a888",
+    "pass": 3
+   },
+   {
+    "quote": "マルチモーダル時代のベクトルデータベース、LanceDBの仕組みを技術解説｜スネドラ",
+    "url": "https://note.com/snake_dragon/n/n3e0fbcb53797",
+    "pass": 3
+   },
+   {
+    "quote": "マルチモーダル時代のベクトルデータベース、LanceDBの仕組みを技術解説",
+    "url": "https://note.com/snake_dragon/n/n3e0fbcb53797",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIを使ったアプリケーションを作っていると、必ずベクトルデータベースの選定に行き当たります。埋め込みベクトルを保存し、意味的に近いデータを高速に検索する仕組みです。",
+    "url": "https://note.com/snake_dragon/n/n3e0fbcb53797",
+    "pass": 3
+   },
+   {
+    "quote": "選択肢は数多くあります。Pinecone、Weaviate、Chromaなど、それぞれに強みがあります。ただし多くは専用サーバーを前提にしており、運用コストやネットワーク遅延という別の課題を抱えています。",
+    "url": "https://note.com/snake_dragon/n/n3e0fbcb53797",
+    "pass": 3
+   },
+   {
+    "quote": "LanceDBは、この前提そのものを見直したベクトルデータベースです。アプリケーションのプロセス内に組み込んで動作し、S3などのオブジェクトストレージへ直接アクセスします。サーバーを立てずに、数十億件規模のデータを扱えます。",
+    "url": "https://note.com/snake_dragon/n/n3e0fbcb53797",
+    "pass": 3
+   },
+   {
+    "quote": "Lanceフォーマットという独自の列指向データ形式、組み込み型アーキテクチャがもたらす運用面の変化、他のベクトルデータベースとの違いを順に見ていきます。導入を検討する際に押さえておきたい注意点も合わせて取り上げます。",
+    "url": "https://note.com/snake_dragon/n/n3e0fbcb53797",
+    "pass": 3
+   },
+   {
+    "quote": "RAG（検索拡張生成）システムやAIエージェントの記憶機構を構築するチームほど、この設計思想の恩恵を受けやすい傾向があります。テキストだけでなく画像や音声といった多様なデータ形式を扱う場面でも、その特性が生きてきます。",
+    "url": "https://note.com/snake_dragon/n/n3e0fbcb53797",
+    "pass": 3
+   },
+   {
+    "quote": "2. なぜ今、ベクトルデータベースが必要なのか",
+    "url": "https://note.com/snake_dragon/n/n3e0fbcb53797",
+    "pass": 3
+   },
+   {
+    "quote": "初心者向け！LanceDBとLlamaIndexで始めるAI検索エンジン構築｜Maki@Sunwood.ai.labs",
+    "url": "https://note.com/sunwood_ai_labs/n/n3e455a455e17",
+    "pass": 3
+   },
+   {
+    "quote": "初心者向け！LanceDBとLlamaIndexで始めるAI検索エンジン構築",
+    "url": "https://note.com/sunwood_ai_labs/n/n3e455a455e17",
+    "pass": 3
+   },
+   {
+    "quote": "近年のAI技術の進歩により、従来の検索エンジンを超える、より高度な検索体験を提供することが可能になりました。本記事では、その中核技術であるベクトル検索を、",
+    "url": "https://note.com/sunwood_ai_labs/n/n3e455a455e17",
+    "pass": 3
+   },
+   {
+    "quote": "を用いて実装する方法を、初心者の方でも理解できるように丁寧に解説します。",
+    "url": "https://note.com/sunwood_ai_labs/n/n3e455a455e17",
+    "pass": 3
+   },
+   {
+    "quote": "LanceDBとLlamaIndexの概要",
+    "url": "https://note.com/sunwood_ai_labs/n/n3e455a455e17",
+    "pass": 3
+   },
+   {
+    "quote": "LanceDBとLlamaIndexを用いたベクトル検索の実装",
+    "url": "https://note.com/sunwood_ai_labs/n/n3e455a455e17",
+    "pass": 3
+   },
+   {
+    "quote": "Pythonコードと詳細なコメントによる解説",
+    "url": "https://note.com/sunwood_ai_labs/n/n3e455a455e17",
+    "pass": 3
+   },
+   {
+    "quote": "ベクトル検索は、テキストや画像などのデータを多次元ベクトルに変換し、そのベクトル間の類似度に基づいて検索を行う技術です。従来のキーワード検索では不可能だった、意味的な類似性に基づいた検索を可能にします。",
+    "url": "https://note.com/sunwood_ai_labs/n/n3e455a455e17",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "LanceDB - X LanceDB - X X https://x.com > lancedb",
+    "url": "https://x.com/lancedb",
+    "pass": 3
+   },
+   {
+    "quote": "LanceDB on X: \"Your training run has said “3 hours remaining ... LanceDB on X: \"Your training run has said “3 hours remaining ... X https://x.com > @lancedb",
+    "url": "https://x.com/lancedb/status/2117294386606477817",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "LanceDB - LinkedIn LanceDB - LinkedIn LinkedIn https://www.linkedin.com > lancedb",
+    "url": "https://www.linkedin.com/company/lancedb",
+    "pass": 3
+   },
+   {
+    "quote": "LanceDB raises $30M for multimodal AI database - LinkedIn LanceDB raises $30M for multimodal AI database - LinkedIn LinkedIn https://www.linkedin.com > posts > ai...",
+    "url": "https://www.linkedin.com/posts/ai-world-eu_daily-startup-spotlight-lancedb-founded-activity-7345855026726141955-43El",
+    "pass": 3
+   },
+   {
+    "quote": "Jack Ye - TLM @ LanceDB , Open Source Software Engineer Jack Ye - TLM @ LanceDB , Open Source Software Engineer LinkedIn https://www.linkedin.com > yezhaoqin",
+    "url": "https://www.linkedin.com/in/yezhaoqin",
+    "pass": 3
+   },
+   {
+    "quote": "Chang She - github.com/ lancedb / lancedb | LinkedIn Chang She - github.com/ lancedb / lancedb | LinkedIn LinkedIn https://www.linkedin.com > changshe",
+    "url": "https://www.linkedin.com/in/changshe",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Dream reflection write-back plan for LanceDB and Mamba Dream reflection write-back plan for LanceDB and Mamba Facebook https://www.facebook.com > Onesyupz1 > posts > the-gap...",
+    "url": "https://www.facebook.com/Onesyupz1/posts/the-gap-in-one-sentence-episodic-memory-lancedb-updates-continuously-parametric-/2976050302746534/",
+    "pass": 3
+   },
+   {
+    "quote": "Reembed 865k records with onnx in lancedb - Facebook Reembed 865k records with onnx in lancedb - Facebook Facebook https://www.facebook.com > Onesyupz1 > posts",
+    "url": "https://www.facebook.com/Onesyupz1/posts/-verified-865080-records-memory-588886-archive-276194-34-min-estimated-summary-o/2979918499026381/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.lancedb.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lancedb.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lancedb.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lancedb.com/blog/zero-shot-image-classification-with-vector-search",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lancedb.com/blog/tokens-per-second-is-not-all-you-need",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lancedb.com/blog/search-within-an-image-331b54e4285e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lancedb.com/blog/scalable-computer-vision-with-lancedb-voxel51-d8b65066d5f6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lancedb.com/blog/my-simd-is-faster-than-yours-fb2989bf25e7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lancedb.com/blog/multi-document-agentic-rag-a-walkthrough",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lancedb.com/blog/modified-rag-parent-document-bigger-chunk-retriever-62b3d1e79bc6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lancedb.com/blog/memgpt-os-inspired-llms-that-manage-their-own-memory-793d6eed417e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lancedb.com/blog/hybrid-search-rag-for-real-life-production-grade-applications-e1e727b3965a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lancedb.com/blog/guide-to-use-contextual-retrieval-and-prompt-caching-with-lancedb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lancedb.com/blog/case-study-netflix",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lancedb.com/blog/case-study-dosu",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lancedb.com/blog/case-study-cognee",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lancedb.com/blog/case-study-coderabbit",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.lancedb.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/lancedb/lancedb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dev.classmethod.jp/articles/lancedb-vector-search-how-it-works/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lexia-hp.com/blog/lancedb-vector-search-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.knowleful.ai/partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ext.cx/agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://log-port.com/aidx-partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lansitec.com/ja/%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lancedb.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/lancedb/lancedb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zenn.dev/dimor47/articles/3ee0705a094b10",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dev.classmethod.jp/articles/lancedb-vector-search-how-it-works/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lancedb.com/category/case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.phoenixdata.ai/glossary/lancedb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.min.io/blog/lancedb-trusted-steed-against-data-complexity",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://c3.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lancedb.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lancedb.com/blog/series-a-funding",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/lancedb/__ie1HuEEUoPOIc3tEX5yowY9yMJz9kdNTH01mwCePxLw",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/y-combinator_lancedb-just-raised-30m-in-series-a-funding-activity-7343282195597336576-gGXT",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/493221-61",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kagawatomo/n/n4d7e6243a888",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/snake_dragon/n/n3e0fbcb53797",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sunwood_ai_labs/n/n3e455a455e17",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/lancedb",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/lancedb/status/2117294386606477817",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/lancedb",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/ai-world-eu_daily-startup-spotlight-lancedb-founded-activity-7345855026726141955-43El",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/yezhaoqin",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/changshe",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Onesyupz1/posts/the-gap-in-one-sentence-episodic-memory-lancedb-updates-continuously-parametric-/2976050302746534/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Onesyupz1/posts/-verified-865080-records-memory-588886-archive-276194-34-min-estimated-summary-o/2979918499026381/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/kagawatomo/n/n4d7e6243a888",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/snake_dragon/n/n3e0fbcb53797",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/lancedb",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Lancedb 日本 導入",
+   "results": [
+    "https://www.lancedb.com/",
+    "https://github.com/lancedb/lancedb",
+    "https://dev.classmethod.jp/articles/lancedb-vector-search-how-it-works/",
+    "https://lexia-hp.com/blog/lancedb-vector-search-guide",
+    "https://zilliz.com/jp/blog/lance-db-vs-aerospike-a-comprehensive-vector-database-comparison",
+    "https://zenn.dev/kun432/articles/20230921-vector-databases-jp-part-1",
+    "https://tensorflow.classcat.com/2023/09/22/lancedb-guides-tables-and-search/",
+    "https://qiita.com/Maki-HamarukiLab/items/eea446ceef04615c7365",
+    "https://mcp.aibase.com/ja/server/1916355807569485826",
+    "https://note.com/snake_dragon/n/n3e0fbcb53797"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Lancedb 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.knowleful.ai/partner/",
+    "https://ext.cx/agency/",
+    "https://log-port.com/aidx-partner-program/",
+    "https://www.lansitec.com/ja/%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "https://www.componentsource.co.jp/resellers",
+    "https://prtimes.jp/main/html/rd/p/000000207.000004876.html",
+    "https://venture-lab.jp/service/agency.html",
+    "https://www.lancers.jp/menu/tag/%E4%BB%A3%E7%90%86%E5%BA%97?srsltid=AYCX9vKVZNghsAwFsI-TCKDT6dKfcGuFHio82aHmyQPeNHFX6S07h9w8",
+    "https://bizresearch.net/prod/197"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Lancedb Japan",
+   "results": [
+    "https://www.lancedb.com/",
+    "https://github.com/lancedb/lancedb",
+    "https://zenn.dev/dimor47/articles/3ee0705a094b10",
+    "https://dev.classmethod.jp/articles/lancedb-vector-search-how-it-works/",
+    "https://docs.lancedb.com/",
+    "https://blog.ingage.jp/entry/2026/01/17/173122",
+    "https://www.youtube.com/watch?v=hJn1gHq5dI8",
+    "https://aws.amazon.com/marketplace/seller-profile?id=seller-j2iyakivouoa4",
+    "https://www.ycombinator.com/companies/lancedb",
+    "https://www.linkedin.com/company/lancedb"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Lancedb manufacturing customer case study",
+   "results": [
+    "https://www.lancedb.com/category/case-study",
+    "https://www.phoenixdata.ai/glossary/lancedb",
+    "https://www.min.io/blog/lancedb-trusted-steed-against-data-complexity",
+    "https://c3.ai/customers",
+    "https://voxel51.com/customers/lancedb",
+    "https://github.com/lancedb/lancedb",
+    "https://dosu.dev/blog/how-lancedb-supercharged-our-knowledge-graph",
+    "https://thedataquarry.com/blog/embedded-db-3",
+    "https://www.lancedb.com/blog/case-study-coderabbit",
+    "https://www.casestudies.com/company/lancedb"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Lancedb white label OR reseller OR partner program",
+   "results": [
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://www.lancedb.com/",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://www.youtube.com/watch?v=0j22JYl44z4",
+    "https://journeybee.io/resources/beyond-co-branding-why-white-label-partner-software-defines-winning-partnerships",
+    "https://www.reddit.com/r/startups/comments/w857z8/b2b_white_label_saas_reselling/",
+    "https://synthflow.ai/blog/white-label-reseller",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Lancedb founded funding employees revenue",
+   "results": [
+    "https://www.lancedb.com/blog/series-a-funding",
+    "https://tracxn.com/d/companies/lancedb/__ie1HuEEUoPOIc3tEX5yowY9yMJz9kdNTH01mwCePxLw",
+    "https://www.linkedin.com/posts/y-combinator_lancedb-just-raised-30m-in-series-a-funding-activity-7343282195597336576-gGXT",
+    "https://pitchbook.com/profiles/company/493221-61",
+    "https://www.crunchbase.com/organization/lancedb",
+    "https://leadiq.com/c/lancedb/6491e1e8db69237869dfe5e6",
+    "https://www.zoominfo.com/c/lancedb-inc/5000033323",
+    "https://www.ycombinator.com/companies/lancedb",
+    "https://aiworld.eu/story/lancedb-raises-30m-to-power-multimodal-ai-infrastructure",
+    "https://compworth.com/company/lancedb"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Lancedb",
+   "results": [
+    "https://note.com/kagawatomo/n/n4d7e6243a888",
+    "https://note.com/snake_dragon/n/n3e0fbcb53797",
+    "https://note.com/sunwood_ai_labs/n/n3e455a455e17",
+    "https://note.com/ai_driven/n/n7344e9bfe230?hl=en",
+    "https://note.com/aidedekiru/n/ndb5d770db1eb",
+    "https://note.com/kyutaro15/n/n9c3e7da011fc",
+    "https://note.com/kagawatomo/n/na67776e22edb",
+    "https://note.com/hiro924164/n/n8ebe2c8df6eb",
+    "https://note.com/lush_cosmos4027/n/nddff56e7238c",
+    "https://note.com/kagawatomo/n/n4d7e6243a888?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:x.com Lancedb",
+   "results": [
+    "https://x.com/lancedb",
+    "https://x.com/changhiskhan",
+    "https://x.com/LeRobotHF/status/2103153768648843285",
+    "https://x.com/lancedb/status/2117294386606477817",
+    "https://x.com/lancedb/status/2116289959737098360",
+    "https://x.com/MaxiBoether/status/2113652842019864645",
+    "https://x.com/etodotai",
+    "https://x.com/digitalocean/status/2116296129734193553",
+    "https://x.com/nowledgelabs/status/2102426619508031673",
+    "https://x.com/lancedb/status/2061526973273211268"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com Lancedb",
+   "results": [
+    "https://www.linkedin.com/company/lancedb",
+    "https://www.linkedin.com/posts/ai-world-eu_daily-startup-spotlight-lancedb-founded-activity-7345855026726141955-43El",
+    "https://www.linkedin.com/in/yezhaoqin",
+    "https://www.linkedin.com/in/changshe",
+    "https://www.linkedin.com/pulse/why-lancedb-database-multimodal-ai-technical-comparison-ran-chen-0z97f",
+    "https://www.linkedin.com/in/eddyxu",
+    "https://www.linkedin.com/posts/prrao87_why-lancedb-is-the-most-natural-memory-layer-activity-7439306892746637312-vRXP",
+    "https://www.linkedin.com/in/dan-mcnamara-a1802770",
+    "https://www.linkedin.com/company/lancedb/jobs",
+    "https://cn.linkedin.com/in/xuanwo"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:facebook.com Lancedb",
+   "results": [
+    "https://www.facebook.com/Onesyupz1/posts/the-gap-in-one-sentence-episodic-memory-lancedb-updates-continuously-parametric-/2976050302746534/",
+    "https://www.facebook.com/Onesyupz1/posts/-verified-865080-records-memory-588886-archive-276194-34-min-estimated-summary-o/2979918499026381/",
+    "https://www.facebook.com/PythonDvz/posts/choosing-the-wrong-vector-database-can-silently-kill-your-ai-projectnot-because-/1487704870062878/",
+    "https://www.facebook.com/groups/595424764221375/posts/2464081690688997/",
+    "https://www.facebook.com/groups/517689422131634/posts/2088714268362467/",
+    "https://www.facebook.com/groups/1577315533418837/posts/1647363379747385/",
+    "https://www.facebook.com/bekaluai/posts/the-vector-database-ecosystem-what-every-ai-builder-should-know-vector-databases/122133748761065772/",
+    "https://www.facebook.com/makehealthcarebetter/posts/1754712696659743/",
+    "https://www.facebook.com/groups/vibecodinglife/posts/2029610160960844/",
+    "https://www.facebook.com/groups/gaitech/posts/1621758379008371/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Lancedb note 社長",
+   "results": [
+    "https://www.lancedb.com/",
+    "https://note.com/kagawatomo/n/n4d7e6243a888",
+    "https://bering.hatenadiary.com/entry/2026/06/28/105546",
+    "https://note.com/snake_dragon/n/n3e0fbcb53797",
+    "https://www.youtube.com/watch?v=slZ1xg2UznQ&vl=ja",
+    "https://github.com/lancedb",
+    "https://www.forkable.io/p/lancedb-leans-on-open-source-to-build",
+    "https://hackernoon.com/what-the-heck-is-lancedb",
+    "https://www.linkedin.com/in/changshe",
+    "https://www.bloomberg.com/profile/person/24941479"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Lancedb X 投稿",
+   "results": [
+    "https://x.com/lancedb",
+    "https://www.lancedb.com/",
+    "https://lancedb.github.io/lancedb/python/python/",
+    "https://haystack.deepset.ai/integrations/lancedb",
+    "https://github.com/lancedb/lancedb-duckdb-demo",
+    "https://www.lancedb.com/blog/semantic-memory-for-hermes-agent-with-lancedb",
+    "https://docs.nebius.com/tutorials/lancedb-vector-embeddings",
+    "https://www.youtube.com/watch?v=6SweXJhboTA",
+    "https://docs.lakefs.io/integrations/lancedb/",
+    "https://x.com/hashtag/LanceDB"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式17頁／PDF・画像0件／外部38頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式17頁／PDF・画像0件／外部38頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式17頁／PDF・画像0件／外部38頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式17頁／PDF・画像0件／外部38頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式17頁／PDF・画像0件／外部38頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式17頁／PDF・画像0件／外部38頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式17頁／PDF・画像0件／外部38頁・検索12回）"
+ }
+}

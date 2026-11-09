@@ -1,0 +1,1794 @@
+{
+ "name": "Trackingplan",
+ "aliases": [],
+ "context": "旧営業リスト｜Marketing Technology｜AUMS不適合",
+ "researched_at": "2026-11-09T18:32:04.592719+00:00",
+ "official_url": "https://trackingplan.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "New York, USA",
+    "url": "https://www.trackingplan.com/customer-stories/how-csa-havas-media-network-regained-client-trust-with-out-of-the-box-data-quality-monitoring",
+    "pass": 1
+   },
+   {
+    "label": "Headquarters",
+    "value": "Barcelona, Spain",
+    "url": "https://www.trackingplan.com/customer-stories/how-elogia-scaled-value-with-trackingplan",
+    "pass": 1
+   },
+   {
+    "label": "Headquarters",
+    "value": "Copenhagen, Denmark",
+    "url": "https://www.trackingplan.com/customer-stories/how-fact-keeps-analytics-accurate-for-a-growing-client-portfolio",
+    "pass": 1
+   },
+   {
+    "label": "Headquarters",
+    "value": "Alcorcón, Madrid",
+    "url": "https://www.trackingplan.com/customer-stories/how-on-top-media-prevented-tracking-breakdowns-with-trackingplan-automated-validation",
+    "pass": 1
+   },
+   {
+    "label": "Headquarters",
+    "value": "Zaragoza, Spain",
+    "url": "https://www.trackingplan.com/customer-stories/how-semmantica-simplified-analytics-management-with-trackingplan",
+    "pass": 1
+   },
+   {
+    "label": "Headquarters",
+    "value": "Tallinn, Estonia",
+    "url": "https://www.trackingplan.com/customer-stories/how-rethink-reduced-manual-workload-through-proactive-error-alerts",
+    "pass": 1
+   },
+   {
+    "label": "HQ",
+    "value": "Barcelona, Spain",
+    "url": "https://startupintros.com/orgs/trackingplan",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "1. Seed Round",
+    "value": "01-Apr-2021    Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/471663-46",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2021",
+    "url": "https://startupintros.com/orgs/trackingplan",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "We came across exactly the solution we were looking for. And this is rare; it’s not every day you find something so perfectly suited to your problem.",
+    "url": "https://www.trackingplan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "What we needed was a solution that could look at real user sessions and provide live or near-live alerts when something wasn’t working as expected.",
+    "url": "https://www.trackingplan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Digital & Analytics Project Manager, MicroAnalytics",
+    "url": "https://www.trackingplan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Before Trackingplan, we spent around five to six hours per project every month just debugging and ensuring data accuracy.",
+    "url": "https://www.trackingplan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The industry is automating the production of answers without fixing the data underneath. But an agent can’t reliably operate a system it can’t observe.",
+    "url": "https://www.trackingplan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trackingplan works where your data is produced: the hit, the dataLayer, the SDK, the pixel, the CAPI payload, the consent state, the GTM release. That’s where a number becomes true or false — and where Trackingplan actually looks.",
+    "url": "https://www.trackingplan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Anomalies, missing properties, attribution errors, duplicate or broken triggers, consent breaches — caught the moment they appear, sent to the team responsible for them.",
+    "url": "https://www.trackingplan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect your ad spend from broken conversion data.",
+    "url": "https://www.trackingplan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Review the paid campaigns currently live — where is data being lost and how could we improve ROAS?",
+    "url": "https://www.trackingplan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Review the dataLayer and the main events — tell me if you see any implementation problem.",
+    "url": "https://www.trackingplan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Inspect every hit for PII leaks, Consent Mode misfires, and vendors firing without permission. The audit your DPO would do manually, on every hit, with the evidence and legal context your privacy team needs to act before it escalates.",
+    "url": "https://www.trackingplan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Privacy audit for this week — anything I need to flag to legal?",
+    "url": "https://www.trackingplan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "· Microsoft Advertising · set by",
+    "url": "https://www.trackingplan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The other 45 match the CMP declaration, including purpose and retention. Nothing is set by the apps.",
+    "url": "https://www.trackingplan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Personal data in properties",
+    "url": "https://www.trackingplan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Promo 2023 – Click",
+    "url": "https://www.trackingplan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "DL – promoCode2023",
+    "url": "https://www.trackingplan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Top products this week — and what moved them",
+    "url": "https://www.trackingplan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "— price went from 129€ to 99€ on the 6th; volume doubled within two days.",
+    "url": "https://www.trackingplan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "— no price change, no campaign,",
+    "url": "https://www.trackingplan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Top 20 and the full causes in Trackingplan · Reply to ask about any product.",
+    "url": "https://www.trackingplan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Meta leads are 40% below baseline since Wednesday. This is not your tracking.",
+    "url": "https://www.trackingplan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "schema diff v94 → v95 · 20 sample payloads before and after",
+    "url": "https://www.trackingplan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing wants ROAS by campaign. Finance wants clean purchases. Product wants funnel drop-off. Trackingplan takes the manual work off the digital analyst’s plate and gives everyone reliable answers.",
+    "url": "https://www.trackingplan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“What we needed was a solution that could look at real user sessions and provide live or near-live alerts when something wasn’t working as expected.”",
+    "url": "https://www.trackingplan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing, analytics, digital consulting, or development agencies that want to expand their service offerings with a",
+    "url": "https://www.trackingplan.com/partners/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Flexibility to Work the Way You Prefer",
+    "url": "https://www.trackingplan.com/partners/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Integrate Trackingplan into client projects, or bundle it with other services.",
+    "url": "https://www.trackingplan.com/partners/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Our team can assist with demos, sales, procurement, and setup—but always in collaboration with the partner.",
+    "url": "https://www.trackingplan.com/partners/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Sell Trackingplan as a standalone solution or bundle it with your analytics, marketing, or development services.",
+    "url": "https://www.trackingplan.com/partners/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Detect tracking errors and data issues that others miss, turning data problems into opportunities to prove your value and win long-term client trust.",
+    "url": "https://www.trackingplan.com/partners/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Access training, product expertise, and help with demos or complex implementations when needed.",
+    "url": "https://www.trackingplan.com/partners/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Free Proof of Concept",
+    "url": "https://www.trackingplan.com/partners/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Co-marketing opportunities",
+    "url": "https://www.trackingplan.com/partners/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Trackingplan has become more than a QA tool – it’s a strategic ally that enables us to deliver data excellence at scale, anticipate problems before clients do, and maintain the standard of trust that defines the agency’s value.",
+    "url": "https://www.trackingplan.com/partners/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "How a Global Enterprise Discovered That Paid Traffic Was Invisible to Its Analytics",
+    "url": "https://www.trackingplan.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "“We came across exactly the solution we were looking for – and this is rare; it’s not every day you find something so perfectly suited to your problem.”",
+    "url": "https://www.trackingplan.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "April 4, 2026",
+    "url": "https://www.trackingplan.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How On Top Media Prevented Tracking Breakdowns with Trackingplan",
+    "url": "https://www.trackingplan.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "“Before Trackingplan, we spent around five to six hours per project every month just debugging and ensuring data accuracy.”",
+    "url": "https://www.trackingplan.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "“What we needed was a solution that could look at real user sessions and provide live or near-live alerts when something wasn’t working as expected.”",
+    "url": "https://www.trackingplan.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "· Digital & Analytics Project Manager",
+    "url": "https://www.trackingplan.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Digital Solutions & Marketing",
+    "url": "https://www.trackingplan.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How Rethink reduced manual workload through proactive error alerts",
+    "url": "https://www.trackingplan.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "e-commerce marketing agency",
+    "url": "https://www.trackingplan.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "· Product Director at Elogia",
+    "url": "https://www.trackingplan.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Your implementations audited around the clock with real-time, real-user data. Real-time alerts about errors or changes in your data, campaigns, pixels, privacy and consent. Let AI flag issues before they cost you.",
+    "url": "https://www.trackingplan.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Share Trackingplan with your network and earn up to 15% for every customer you refer successfully. No need to sell or integrate—simply spread the word and let us handle the rest.",
+    "url": "https://www.trackingplan.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Life’s too short for tracking headaches. We’re building a way to keep analytics monitoring proactive, automatic, and far less painful.",
+    "url": "https://www.trackingplan.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We came across exactly the solution we were looking for – and this is rare; it’s not every day you find something so perfectly suited to your problem.",
+    "url": "https://www.trackingplan.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "What we needed was a solution that could look at real user sessions and provide live or near-live alerts when something wasn’t working as expected.",
+    "url": "https://www.trackingplan.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Digital & Analytics Project Manager",
+    "url": "https://www.trackingplan.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Product Director at Elogia",
+    "url": "https://www.trackingplan.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Before Trackingplan, we spent around five to six hours per project every month just debugging and ensuring data accuracy.",
+    "url": "https://www.trackingplan.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Share tracked referral links or forms. No need to sell or integrate—simply spread the word and let us handle the rest.",
+    "url": "https://www.trackingplan.com/partners/affiliates",
+    "pass": 1
+   },
+   {
+    "quote": "Optional co-marketing activities",
+    "url": "https://www.trackingplan.com/partners/affiliates",
+    "pass": 1
+   },
+   {
+    "quote": "Opportunity to be featured on partner pages, webinars, or content collaborations.",
+    "url": "https://www.trackingplan.com/partners/affiliates",
+    "pass": 1
+   },
+   {
+    "quote": "Apply to join the program by filling the form. Include your website or social media links and a brief outline of how you plan to promote Trackingplan.",
+    "url": "https://www.trackingplan.com/partners/affiliates",
+    "pass": 1
+   },
+   {
+    "quote": "We’ll review your promotion plan and, if it aligns with our brand and program, set you up on our affiliate platform.",
+    "url": "https://www.trackingplan.com/partners/affiliates",
+    "pass": 1
+   },
+   {
+    "quote": "our Learning Center, ready-to-use marketing assets, and guidance from the Trackingplan team",
+    "url": "https://www.trackingplan.com/partners/affiliates",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by 756+ companies putting reliable data in everyone’s hands.",
+    "url": "https://www.trackingplan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Without a trust layer underneath, AI doesn’t fix bad data — it just industrializes your organization’s mistakes.",
+    "url": "https://www.trackingplan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "dashboards & warehouse",
+    "url": "https://www.trackingplan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Why not just connect ChatGPT or Claude to our data warehouse?",
+    "url": "https://www.trackingplan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A warehouse tells you what data eventually arrived. It doesn’t tell you whether the pixel fired correctly this morning, whether a consent state changed, whether a GTM release dropped a parameter, or whether Meta started receiving a different payload after a deployment. By the time the problem reaches the warehouse, the evidence about how the number was produced may already be gone.",
+    "url": "https://www.trackingplan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Digital Business Operators",
+    "url": "https://www.trackingplan.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "No. The Trackingplan installation script is purpose-built to be lightweight, non-intrusive, and secure—similar to scripts used by trusted observability tools like Datadog and Sentry. At under 10KB, it loads asynchronously, ensuring it never blocks or delays existing page elements or scripts.",
+    "url": "https://www.trackingplan.com/landings/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 756+ companies putting reliable data in everyone’s hands.",
+    "url": "https://www.trackingplan.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "These situations were particularly frustrating because – although errors weren’t caused by CSA – the team still had to manage the consequences, explain what had gone wrong, and justify why the problem hadn’t been detected sooner. This",
+    "url": "https://www.trackingplan.com/customer-stories/how-csa-havas-media-network-regained-client-trust-with-out-of-the-box-data-quality-monitoring",
+    "pass": 1
+   },
+   {
+    "quote": "Being able to proactively notify clients about incidents or anomalies, even when caused by other teams, has positioned CSA as a",
+    "url": "https://www.trackingplan.com/customer-stories/how-csa-havas-media-network-regained-client-trust-with-out-of-the-box-data-quality-monitoring",
+    "pass": 1
+   },
+   {
+    "quote": "and others) caused by a DataLayer activation issue affecting Spain and Portugal.",
+    "url": "https://www.trackingplan.com/customer-stories/how-elogia-scaled-value-with-trackingplan",
+    "pass": 1
+   },
+   {
+    "quote": "During a marketing campaign for a financial services client, an unusual spike in form submissions caused by testing bots was detected.",
+    "url": "https://www.trackingplan.com/customer-stories/how-elogia-scaled-value-with-trackingplan",
+    "pass": 1
+   },
+   {
+    "quote": "Irrelevant Dimensions in GA4 (Custom Manufacturing Brand)",
+    "url": "https://www.trackingplan.com/customer-stories/how-elogia-scaled-value-with-trackingplan",
+    "pass": 1
+   },
+   {
+    "quote": "A client in custom manufacturing was sending meaningless dimension values to GA4 due to a previous tool generating arbitrary data.",
+    "url": "https://www.trackingplan.com/customer-stories/how-elogia-scaled-value-with-trackingplan",
+    "pass": 1
+   },
+   {
+    "quote": "Digital Business Operators",
+    "url": "https://www.trackingplan.com/customer-stories/how-elogia-scaled-value-with-trackingplan",
+    "pass": 1
+   },
+   {
+    "quote": "wasn’t caused by a hidden technical issue.",
+    "url": "https://www.trackingplan.com/customer-stories/how-fact-keeps-analytics-accurate-for-a-growing-client-portfolio",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 756+ data-driven tech leaders",
+    "url": "https://www.trackingplan.com/demo",
+    "pass": 1
+   },
+   {
+    "quote": "Trackingplan automatically monitors and documents your tracking, ensuring marketing data governance and observability for analytics, marketing pixels, data privacy, and consent. Install in minutes to prevent errors and gain reliable insights. Trusted by teams like Dentsu and Havas, Trackingplan helps you make data-driven decisions with confidence.",
+    "url": "https://www.casestudies.com/company/trackingplan",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/trackingplan/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: On Top Media saves 25-30 hours a month with Trackingplan | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/trackingplan/case-study/how-on-top-media-prevented-tracking-breakdowns-with-trackingplan",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: On Top Media saves 25-30 hours a month with Trackingplan",
+    "url": "https://www.casestudies.com/company/trackingplan/case-study/how-on-top-media-prevented-tracking-breakdowns-with-trackingplan",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/trackingplan/case-study/how-on-top-media-prevented-tracking-breakdowns-with-trackingplan",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/trackingplan/case-study/how-on-top-media-prevented-tracking-breakdowns-with-trackingplan",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Agencies & consultancies",
+    "url": "https://www.trackingplan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "For agencies and consultants, the value isn’t in spending hours manually checking pixels, chasing broken implementations, or answering the same tracking question for the tenth time. It’s in being able to take on more sophisticated work, serve more clients without adding proportional headcount, and spend your time where expertise actually matters.",
+    "url": "https://www.trackingplan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner with Trackingplan | Become an Agency Partner",
+    "url": "https://www.trackingplan.com/partners/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing, analytics, digital consulting, or development agencies that want to expand their service offerings with a",
+    "url": "https://www.trackingplan.com/partners/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "reseller, consultant,",
+    "url": "https://www.trackingplan.com/partners/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Become one of the agencies already partnering with Trackingplan",
+    "url": "https://www.trackingplan.com/partners/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Become an Agency Partner",
+    "url": "https://www.trackingplan.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Agencies that stopped auditing by hand",
+    "url": "https://www.trackingplan.com/landings/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Become an Agency Partner",
+    "url": "https://www.trackingplan.com/landings/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "About agencies and Trackingplan",
+    "url": "https://www.trackingplan.com/landings/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "How Trackingplan Helps Agencies Overcome These Challenges",
+    "url": "https://www.trackingplan.com/landings/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "With Trackingplan, agencies can quickly assess and verify the integrity of their client's existing data, eliminating the need to start over from scratch.",
+    "url": "https://www.trackingplan.com/landings/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Moreover, it also provides clear visibility into all integration updates and modifications, ensuring that all changes are correctly implemented. Similarly, as Trackingplan continuously monitors for any changes made by clients or other agencies, its system will alert you immediately if there’s any issue.",
+    "url": "https://www.trackingplan.com/landings/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Yet, by using Trackingplan, agencies can not only overcome these common challenges, but they can also enhance their service offerings, improve efficiency, and boost profitability. That way, by streamlining operations and reducing the time spent on troubleshooting and data verification, agencies can cut costs and find new revenue streams with Trackingplan:",
+    "url": "https://www.trackingplan.com/landings/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "By eliminating the need for manual validations, Trackingplan allows agencies to manage more clients with the same team, helping them operate more cost-effectively.",
+    "url": "https://www.trackingplan.com/landings/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Agencies are free to mention and add Trackingplan to their portfolio, adding Trackingplan’s services to ensure the quality of their client's data to drive better results and client satisfaction. In this regard, our solution offers",
+    "url": "https://www.trackingplan.com/landings/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "data quality management for agencies",
+    "url": "https://www.trackingplan.com/landings/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "This can be done by highlighting how their service includes all the advantages of Trackingplan, by bundling Trackingplan as a part of their core offerings, or by charging Trackingplan’s data quality assurance solution as an extra service. This flexibility allows agencies to demonstrate their commitment to top-notch data quality management and to position themselves as leaders in this field.",
+    "url": "https://www.trackingplan.com/landings/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Trackingplan offers revenue-sharing models, providing agencies with the opportunity to earn passive income. That way, Agencies can earn additional revenue without extra work.",
+    "url": "https://www.trackingplan.com/landings/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Is Trackingplan suitable for agencies of all sizes?",
+    "url": "https://www.trackingplan.com/landings/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "designed to meet the diverse needs of agencies of all sizes. Whether you’re a boutique firm specializing in complex technical projects, a small agency managing a variety of accounts, or a medium to large agency with multidisciplinary processes and a wide range of clients, Trackingplan adapts to your requirements.",
+    "url": "https://www.trackingplan.com/landings/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Moreover, Trackingplan offers versatility across different types of agencies:",
+    "url": "https://www.trackingplan.com/landings/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Analytics and Data Agencies",
+    "url": "https://www.trackingplan.com/landings/agencies",
+    "pass": 1
+   },
+   {
+    "quote": ", Trackingplan empowers both integrators and analysts to maintain the accuracy and reliability of their analytics implementations and reports. By providing real-time monitoring and alerts, Trackingplan ensures that any discrepancies in data tracking are identified and resolved swiftly. This capability allows agencies to present precise analytics to their clients, enhancing trust and credibility.",
+    "url": "https://www.trackingplan.com/landings/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Digital Marketing Agencies",
+    "url": "https://www.trackingplan.com/landings/agencies",
+    "pass": 1
+   },
+   {
+    "quote": ", Trackingplan plays a crucial role in enhancing campaign performance. It helps prevent errors in campaign attribution, which can significantly impact clients' performance metrics and return on investment (ROI). By ensuring accurate tracking and reporting, agencies can make data-driven decisions that optimize their marketing strategies.",
+    "url": "https://www.trackingplan.com/landings/agencies",
+    "pass": 1
+   },
+   {
+    "quote": ", and up to 30% revenue share as an Agency Partner, Trackingplan integrates seamlessly into every agency's workflow. This marketing agency tool is designed for scalability, allowing agencies to efficiently monitor multiple sites and apps. By centralizing",
+    "url": "https://www.trackingplan.com/landings/agencies",
+    "pass": 1
+   },
+   {
+    "quote": ", Trackingplan streamlines operations, reduces manual errors, and saves valuable time—enabling agencies to focus on delivering high-quality services to their clients.",
+    "url": "https://www.trackingplan.com/landings/agencies",
+    "pass": 1
+   },
+   {
+    "quote": ", Trackingplan ensures that all data handling meets strict privacy standards, giving both agencies and their clients peace of mind.",
+    "url": "https://www.trackingplan.com/landings/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Agencies use the same plans as everyone else: Starter, Growth, or Enterprise, priced by the sessions Trackingplan monitors plus credits for the agent’s work. See them on the",
+    "url": "https://www.trackingplan.com/landings/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "In this method, partners use Trackingplan with specific clients or prospects, expanding their service offerings and earning up to 30% revenue share. Here, the partners can incorporate Trackingplan into their services, bundle it with other offerings, or act as advocates or resellers.",
+    "url": "https://www.trackingplan.com/landings/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Agency Partners earn up to 30% revenue share on the clients they bring. Clients pay the same public plans, and Trackingplan can run a free Proof of Concept (PoC) with them first.",
+    "url": "https://www.trackingplan.com/landings/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Become an Agency Partner",
+    "url": "https://www.trackingplan.com/partner-directory",
+    "pass": 1
+   },
+   {
+    "quote": "Explore agencies and specialists raising the bar for data quality through proactive governance, reliable tracking, and a commitment to client success.",
+    "url": "https://www.trackingplan.com/partner-directory",
+    "pass": 1
+   },
+   {
+    "quote": "Trackingplan agency partners Program",
+    "url": "https://www.trackingplan.com/partner-directory",
+    "pass": 1
+   },
+   {
+    "quote": "Join the Trackingplan partner program and offer your clients always-on analytics monitoring, automated QA, and AI-powered debugging.",
+    "url": "https://www.trackingplan.com/partner-directory",
+    "pass": 1
+   },
+   {
+    "quote": "Become an Agency Partner: sell Trackingplan as part of your services and earn up to 30% revenue share.",
+    "url": "https://www.trackingplan.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Become an Agency Partner",
+    "url": "https://www.trackingplan.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Agencies use the same plans. As an",
+    "url": "https://www.trackingplan.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Starter and Growth: pay by card, monthly. Enterprise and agencies: talk to our team.",
+    "url": "https://www.trackingplan.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "For agencies managing complex analytics setups, CSA’s experience with Trackingplan demonstrates how",
+    "url": "https://www.trackingplan.com/customer-stories/how-csa-havas-media-network-regained-client-trust-with-out-of-the-box-data-quality-monitoring",
+    "pass": 1
+   },
+   {
+    "quote": "For agencies aiming to pivot toward outcome‑based models,",
+    "url": "https://www.trackingplan.com/customer-stories/how-elogia-scaled-value-with-trackingplan",
+    "pass": 1
+   },
+   {
+    "quote": "changes made by the clients’ development agencies",
+    "url": "https://www.trackingplan.com/customer-stories/how-fact-keeps-analytics-accurate-for-a-growing-client-portfolio",
+    "pass": 1
+   },
+   {
+    "quote": "This level of rigor sets Fact apart. As he continues, even agencies with their own analytics teams have often turned to Fact when they hit a roadblock.",
+    "url": "https://www.trackingplan.com/customer-stories/how-fact-keeps-analytics-accurate-for-a-growing-client-portfolio",
+    "pass": 1
+   },
+   {
+    "quote": "“People know we deliver the quality we promise. Trackingplan acts as a quality stamp, differentiating us from other agencies. Otherwise, we wouldn’t be recommended by other professionals in the sector.”",
+    "url": "https://www.trackingplan.com/customer-stories/how-fact-keeps-analytics-accurate-for-a-growing-client-portfolio",
+    "pass": 1
+   },
+   {
+    "quote": "When asked whether Trackingplan provides a competitive edge over agencies that don’t use the tool, Álvaro responded:",
+    "url": "https://www.trackingplan.com/customer-stories/how-on-top-media-prevented-tracking-breakdowns-with-trackingplan-automated-validation",
+    "pass": 1
+   },
+   {
+    "quote": "For agencies managing complex analytics setups",
+    "url": "https://www.trackingplan.com/customer-stories/how-on-top-media-prevented-tracking-breakdowns-with-trackingplan-automated-validation",
+    "pass": 1
+   },
+   {
+    "quote": "For agencies like Semmántica, where data accuracy is key to proving ROI, Trackingplan bridges the gap between analysts and developers—ensuring clean, reliable data and strengthening client relationships.",
+    "url": "https://www.trackingplan.com/customer-stories/how-semmantica-simplified-analytics-management-with-trackingplan",
+    "pass": 1
+   },
+   {
+    "quote": "certification, the highest one agencies can get granted from Google Ads. Moreover, they are also part of the exclusive",
+    "url": "https://www.trackingplan.com/customer-stories/how-semmantica-simplified-analytics-management-with-trackingplan",
+    "pass": 1
+   },
+   {
+    "quote": ", a global selection of top-performing agencies. Additionally, they hold",
+    "url": "https://www.trackingplan.com/customer-stories/how-semmantica-simplified-analytics-management-with-trackingplan",
+    "pass": 1
+   },
+   {
+    "quote": "For agencies managing complex analytics setups",
+    "url": "https://www.trackingplan.com/customer-stories/how-semmantica-simplified-analytics-management-with-trackingplan",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "A sentence in plain English becomes a report, a rule or an alert — narrative, chart and evidence, delivered where the team already works.",
+    "url": "https://www.trackingplan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manage more clients. Grow revenue without growing your team.",
+    "url": "https://www.trackingplan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Scale your client portfolio, not your payroll. Trackingplan acts as an always-on analyst for every account you manage, automating the work that eats into your team’s time. Increase delivery capacity, reduce operational costs, and turn more revenue into margin.",
+    "url": "https://www.trackingplan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "97% of EU sessions carry a state. On 3% of DE sessions the Meta pixel fires before it.",
+    "url": "https://www.trackingplan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "carry plain emails to GA4. Values masked in the evidence.",
+    "url": "https://www.trackingplan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The three that carry the week",
+    "url": "https://www.trackingplan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Meta campaign went live on the 11th; 71% of its purchases carry that UTM.",
+    "url": "https://www.trackingplan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "has been missing on 6% of purchases since release v94, so the breakdown by list under-counts. Units and revenue are unaffected.",
+    "url": "https://www.trackingplan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A warehouse tells you what data eventually arrived. It doesn’t tell you whether the pixel fired correctly this morning, whether a consent state changed, whether a GTM release dropped a parameter, or whether Meta started receiving a different payload after a deployment. By the time the problem reaches the warehouse, the evidence about how the number was produced may already be gone.",
+    "url": "https://www.trackingplan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "GA4, Meta and your backend count differently: consent, ad blockers, view-through attribution. Trackingplan tells you which part of the gap is normal and which part is an error, and where the error comes from.",
+    "url": "https://www.trackingplan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "If your site or app sends user IDs to your analytics or ad vendors, Trackingplan inspects these requests as part of its monitoring. These IDs are never stored, linked, or enriched. All data is anonymized or masked on the user’s device before being forwarded for analysis.",
+    "url": "https://www.trackingplan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Grow revenue while expanding your service offering",
+    "url": "https://www.trackingplan.com/partners/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Grow revenue while expanding your service offering",
+    "url": "https://www.trackingplan.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Boost your agency’s value and service portfolio by offering Trackingplan to clients, and earn up to 30% in revenue share.",
+    "url": "https://www.trackingplan.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Make content in your own style: share tips, stories, or analysis using Trackingplan as part of your workflow—no demos required.",
+    "url": "https://www.trackingplan.com/partners/advocates",
+    "pass": 1
+   },
+   {
+    "quote": "Create content your way, with Trackingplan as part of your stack",
+    "url": "https://www.trackingplan.com/partners/advocates",
+    "pass": 1
+   },
+   {
+    "quote": "Trackingplan acts as an always-on analyst for every account you manage, automating the work that eats into your team’s time. Increase delivery capacity, reduce operational costs, and turn more revenue into margin.",
+    "url": "https://www.trackingplan.com/landings/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock recurring revenue",
+    "url": "https://www.trackingplan.com/landings/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "As a partner, you can turn monitoring into a paid service, adding recurring revenue to your retainers while giving clients more reasons to stay.",
+    "url": "https://www.trackingplan.com/landings/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Yet, by using Trackingplan, agencies can not only overcome these common challenges, but they can also enhance their service offerings, improve efficiency, and boost profitability. That way, by streamlining operations and reducing the time spent on troubleshooting and data verification, agencies can cut costs and find new revenue streams with Trackingplan:",
+    "url": "https://www.trackingplan.com/landings/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "This can be done by highlighting how their service includes all the advantages of Trackingplan, by bundling Trackingplan as a part of their core offerings, or by charging Trackingplan’s data quality assurance solution as an extra service. This flexibility allows agencies to demonstrate their commitment to top-notch data quality management and to position themselves as leaders in this field.",
+    "url": "https://www.trackingplan.com/landings/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Opportunities",
+    "url": "https://www.trackingplan.com/landings/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Trackingplan offers revenue-sharing models, providing agencies with the opportunity to earn passive income. That way, Agencies can earn additional revenue without extra work.",
+    "url": "https://www.trackingplan.com/landings/agencies",
+    "pass": 1
+   },
+   {
+    "quote": ", and up to 30% revenue share as an Agency Partner, Trackingplan integrates seamlessly into every agency's workflow. This marketing agency tool is designed for scalability, allowing agencies to efficiently monitor multiple sites and apps. By centralizing",
+    "url": "https://www.trackingplan.com/landings/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "This method allows partner employees to use Trackingplan for any of their clients. Trackingplan integrates seamlessly into the company workflow, saving time and resources while enhancing the quality of their client's marketing and analytics. As a",
+    "url": "https://www.trackingplan.com/landings/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Moreover, our experience has shown that Trackingplan delivers greater value when monitoring multiple sites and apps. This is why partners have the flexibility to use Trackingplan as part of their internal routines for as many clients as they need.",
+    "url": "https://www.trackingplan.com/landings/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "In this method, partners use Trackingplan with specific clients or prospects, expanding their service offerings and earning up to 30% revenue share. Here, the partners can incorporate Trackingplan into their services, bundle it with other offerings, or act as advocates or resellers.",
+    "url": "https://www.trackingplan.com/landings/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Agency Partners earn up to 30% revenue share on the clients they bring. Clients pay the same public plans, and Trackingplan can run a free Proof of Concept (PoC) with them first.",
+    "url": "https://www.trackingplan.com/landings/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "This can be done by highlighting how their service includes all the advantages of Trackingplan, by bundling Trackingplan as a part of their core offerings, or by charging Trackingplan’s",
+    "url": "https://www.trackingplan.com/landings/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Grow revenue while expanding your service offering",
+    "url": "https://www.trackingplan.com/partner-directory",
+    "pass": 1
+   },
+   {
+    "quote": "Boost your agency’s value and service portfolio by offering Trackingplan to clients, and earn up to 30% in revenue share.",
+    "url": "https://www.trackingplan.com/partner-directory",
+    "pass": 1
+   },
+   {
+    "quote": "Become an Agency Partner: sell Trackingplan as part of your services and earn up to 30% revenue share.",
+    "url": "https://www.trackingplan.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock recurring revenue",
+    "url": "https://www.trackingplan.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "As a partner, you can turn monitoring into a paid service, adding recurring revenue to your retainers while giving clients more reasons to stay.",
+    "url": "https://www.trackingplan.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Monitoring, anomaly detection, alerts, and daily digests are part of the sessions fee on every plan. They never use credits.",
+    "url": "https://www.trackingplan.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": ", you sell Trackingplan as part of your services and earn up to 30% revenue share. Every client sits in one workspace, and you can reuse the same event specifications across their plans. If you manage several clients, all their sites and apps add up too.",
+    "url": "https://www.trackingplan.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "event was missing both the transaction ID and value, causing lost transaction and revenue data.",
+    "url": "https://www.trackingplan.com/customer-stories/how-elogia-scaled-value-with-trackingplan",
+    "pass": 1
+   },
+   {
+    "quote": "By partnering with Trackingplan, Elogia has been able to embed scalable, efficient QA solutions as a standard part of every proposal — solutions that are not only profitable but also significantly reduce the reactive workload on their Data Tech team.",
+    "url": "https://www.trackingplan.com/customer-stories/how-elogia-scaled-value-with-trackingplan",
+    "pass": 1
+   },
+   {
+    "quote": "becoming a key driver of new business and client acquisition, thanks to the competitive edge Fact gains with Trackingplan.",
+    "url": "https://www.trackingplan.com/customer-stories/how-fact-keeps-analytics-accurate-for-a-growing-client-portfolio",
+    "pass": 1
+   },
+   {
+    "quote": "This quick check has become an essential part of his daily workflow, enabling him to stay ahead of any potential tracking issues. By leveraging Trackingplan’s automated alerts and real-time monitoring, Álvaro and his team can now gain a clearer, more immediate understanding of what’s happening in each client's analytics setup.",
+    "url": "https://www.trackingplan.com/customer-stories/how-on-top-media-prevented-tracking-breakdowns-with-trackingplan-automated-validation",
+    "pass": 1
+   },
+   {
+    "quote": "\"Yes, definitely. That's part of why we’ve decided to invest in the tool. One of our core values is educating our clients that it’s not just about having data, but ensuring that the data we have is accurate.”",
+    "url": "https://www.trackingplan.com/customer-stories/how-on-top-media-prevented-tracking-breakdowns-with-trackingplan-automated-validation",
+    "pass": 1
+   },
+   {
+    "quote": "With the ability to catch issues before they impact reports, On Top Media not only saves valuable time but also strengthens client trust—offering a service built on reliability and precision. Trackingplan has become an essential part of their strategy, reinforcing their commitment to delivering high-quality, data-driven insights that clients can truly rely on.",
+    "url": "https://www.trackingplan.com/customer-stories/how-on-top-media-prevented-tracking-breakdowns-with-trackingplan-automated-validation",
+    "pass": 1
+   },
+   {
+    "quote": "Despite not managing campaigns directly, Trackingplan still plays a crucial role by providing Semmántica with the context they need to quickly identify untagged or incorrectly tagged data despite not being part of the agency's responsibilities. This allows Pablo to proactively flag issues for clients, often uncovering problems they may not even be aware of.",
+    "url": "https://www.trackingplan.com/customer-stories/how-semmantica-simplified-analytics-management-with-trackingplan",
+    "pass": 1
+   },
+   {
+    "quote": "Moreover, beyond Trackingplan’s Health Summary, the ability to compare daily vs. weekly metrics and track starred items (such as key events like purchase or add_to_cart) makes it easier for him to monitor fluctuations.",
+    "url": "https://www.trackingplan.com/customer-stories/how-semmantica-simplified-analytics-management-with-trackingplan",
+    "pass": 1
+   },
+   {
+    "quote": "certification, the highest one agencies can get granted from Google Ads. Moreover, they are also part of the exclusive",
+    "url": "https://www.trackingplan.com/customer-stories/how-semmantica-simplified-analytics-management-with-trackingplan",
+    "pass": 1
+   },
+   {
+    "quote": "“There was a situation where analytics data was reporting no revenue for a couple of days and the issue only came to light on the 3rd day. A timely warning could have made all the difference.”",
+    "url": "https://www.trackingplan.com/customer-stories/how-rethink-reduced-manual-workload-through-proactive-error-alerts",
+    "pass": 1
+   },
+   {
+    "quote": ", Trackingplan has become an integral part of the tracking setup for several of Rethink’s clients.",
+    "url": "https://www.trackingplan.com/customer-stories/how-rethink-reduced-manual-workload-through-proactive-error-alerts",
+    "pass": 1
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/trackingplan/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Trackingplan has 16 total employees.",
+    "url": "https://pitchbook.com/profiles/company/471663-46",
+    "pass": 3
+   },
+   {
+    "quote": "What is Trackingplan’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/471663-46",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Trackingplan is",
+    "url": "https://pitchbook.com/profiles/company/471663-46",
+    "pass": 3
+   },
+   {
+    "quote": "Trackingplan Revenue 2024: $5M Est.",
+    "url": "https://getlatka.com/companies/trackingplan.com",
+    "pass": 3
+   },
+   {
+    "quote": "Trackingplan has not published its revenue. GetLatka estimates it at about $5M a year (June 2024).",
+    "url": "https://getlatka.com/companies/trackingplan.com",
+    "pass": 3
+   },
+   {
+    "quote": "Trackingplan CEO, founders & employees",
+    "url": "https://getlatka.com/companies/trackingplan.com",
+    "pass": 3
+   },
+   {
+    "quote": "Alexandros Chaaraoui founded Trackingplan in 2021 and runs it as CEO. Trackingplan had 15 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/trackingplan.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Trackingplan's revenue?",
+    "url": "https://getlatka.com/companies/trackingplan.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Trackingplan's revenue at about",
+    "url": "https://getlatka.com/companies/trackingplan.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Trackingplan have?",
+    "url": "https://getlatka.com/companies/trackingplan.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/trackingplan.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/trackingplan.com",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Hotjar receives the email hash on",
+    "url": "https://www.trackingplan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "carry plain emails to GA4. Values masked in the evidence.",
+    "url": "https://www.trackingplan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every line links the hits it came from · Reply to this email to ask anything, the agent answers in-thread.",
+    "url": "https://www.trackingplan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ask it a question, give it a task, or let it run an automation. It works from your actual traffic — not from assumptions — and can deliver the answer where your team already works: Slack, Teams, email, your app, or your IDE.",
+    "url": "https://www.trackingplan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We’ll review it and get in touch with you shortly at the email you left us.",
+    "url": "https://www.trackingplan.com/partners/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "We’ll review it and get in touch with you shortly at the email you left us.",
+    "url": "https://www.trackingplan.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We’ll review it and get in touch with you shortly at the email you left us.",
+    "url": "https://www.trackingplan.com/partners/affiliates",
+    "pass": 1
+   },
+   {
+    "quote": "We’ll review it and get in touch with you shortly at the email you left us.",
+    "url": "https://www.trackingplan.com/partners/advocates",
+    "pass": 1
+   },
+   {
+    "quote": "Nothing signals churn like a client emailing you about a broken tag. With Trackingplan, every client’s tracking is monitored around the clock, so you are the one raising the flag.",
+    "url": "https://www.trackingplan.com/landings/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Nothing signals churn like a client emailing you about a broken tag. With Trackingplan, every client’s tracking is monitored around the clock, so you are the one raising the flag.",
+    "url": "https://www.trackingplan.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Start with Starter if you monitor up to 5 sites or apps, stay under 600k sessions a month, and are happy with community support. Choose Growth if you need onboarding, email support, up to 20 sites or apps, or up to 3.5M sessions a month. Choose Enterprise above that, or if you buy through procurement and want a named CSM and the Compliance module included.",
+    "url": "https://www.trackingplan.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Just as they were about to kick off the development of their internal solution, gathering the team to discuss feasibility, architecture, and functionality, a colleague forwarded them an email about Trackingplan. It immediately caught their attention, as it",
+    "url": "https://www.trackingplan.com/customer-stories/how-csa-havas-media-network-regained-client-trust-with-out-of-the-box-data-quality-monitoring",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/trackingplan/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/trackingplan/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/471663-46",
+    "pass": 3
+   },
+   {
+    "quote": "Provides instant notifications via email, Slack, or Teams for traffic anomalies, event errors, pixel misconfigurations, and privacy risks, enabling rapid issue resolution before business impact[6].",
+    "url": "https://startupintros.com/orgs/trackingplan",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "このプラットフォームは、重要なビジネス上の意思決定を行うために正確なデータに依存する、デジタルアナリスト、マーケター、開発者、代理店などのデータ駆動型チーム向けに構築されています",
+    "url": "https://www.toolmage.com/ja/tool/trackingplan/",
+    "pass": 3
+   },
+   {
+    "quote": "複数のクライアントを管理する代理店向けに、すべてのアカウントで合計500,000 MAUから始まるカスタム価格パッケージが利用可能です",
+    "url": "https://www.toolmage.com/ja/tool/trackingplan/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Trackingplanとは？ | 機能や料金、導入事例をご紹介【キャプテラ】 — Trackingplanを実際に使用したユーザーのレビューから、製品の機能や価格、メリットデメリットをご覧いただけます。 類似製品との比較も簡単、ぴったりのSaaSが見つかるはず！",
+    "url": "https://www.capterra.jp/software/1057272/trackingplan",
+    "pass": 3
+   },
+   {
+    "quote": "Trackingplan | 自動分析＆データ品質監視 - ToolMage — Aug 13, 2025 · データエクスプローラーやトラックエクスプローラーなどのツールを含むTrackingplanのダッシュボードを使用して、チームは根本原因分析を実行し、問題を迅速に診断して正しい修正を実装し、解決時間を短縮できます。",
+    "url": "https://www.toolmage.com/ja/tool/trackingplan/",
+    "pass": 3
+   },
+   {
+    "quote": "Trackingplan:正確で信頼性の高いデータを確保するため、デジタル分析... — Trackingplanは、ウェブサイトやアプリからサードパーティの分析やマーケティングツールへのデータフローを自動的に監視、文書化、検証するために設計された包括的なソリューションです。",
+    "url": "https://moge.ai/ja/product/trackingplan",
+    "pass": 3
+   },
+   {
+    "quote": "Trackingplan AI—リアルタイム監視とAI活用の自動化デジタル分析品質... — QTrackingplan AI を使用するにはコード記述が必要ですか？ ノーコードまたはローコードの導入方式を提供しており、軽量なタグやSDKを使って迅速に導入でき、既存システムへの影響は最小限です。",
+    "url": "https://toolverto.com/ja/tool/trackingplan",
+    "pass": 3
+   },
+   {
+    "quote": "計測の監視はTrackingplanか目視か｜AIに見せる通信の線 | BtoB AIマ... — 公式サイトによれば、タグ1つ、アプリの組み込みの部品、またはサーバー側の接続で導入し、サイトが分析や広告の送信先へ送っている通信と、計測の受け渡しに使うデータレイヤーを観測します（2026年10月時点）。",
+    "url": "https://debono.co.jp/media/trackingplan-keisoku-kanshi/",
+    "pass": 3
+   },
+   {
+    "quote": "Trackingplan — your digital analytics agent — Grow revenue without growing your team. Scale your client portfolio, not your payroll. Trackingplan acts as an always-on analyst for every account you manage, automating the work that eats into your team’s time. Increase delivery capacity, reduce operational costs, and turn more revenue into margin. Status of all clients this morning? Standup ...",
+    "url": "https://www.trackingplan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Truth is not negotiable | Trackingplan — Determined to fix it, we built Trackingplan — a tool to automatically monitor, validate data tracking, and catch issues before they impact business decisions. What began as a solution for ourselves quickly became essential for companies around the world.",
+    "url": "https://www.trackingplan.com/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing | Trackingplan — As an Agency Partner, you sell Trackingplan as part of your services and earn up to 30% revenue share. Every client sits in one workspace, and you can reuse the same event specifications across their plans.",
+    "url": "https://www.trackingplan.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories | Trackingplan — Explore, with real customer success stories, how businesses and agencies are enhancing their analytics and improving data quality with Trackingplan.",
+    "url": "https://www.trackingplan.com/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Trackingplan B2B Case Studies & Customer Successes — See how Trackingplan solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/trackingplan",
+    "pass": 3
+   },
+   {
+    "quote": "4 Trackingplan Case Studies, Success Stories, & Customer ... — Narrow down 4 case studies by company size & industry to find out how Trackingplan works for a business like yours.",
+    "url": "https://www.featuredcustomers.com/vendor/trackingplan/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: On Top Media saves 25-30 hours a month with ... — By implementing Trackingplan, On Top Media automated data quality checks and gained real-time error detection capabilities. The solution provided better visibility into client changes and eliminated the need for manual reviews.",
+    "url": "https://www.casestudies.com/company/trackingplan/case-study/how-on-top-media-prevented-tracking-breakdowns-with-trackingplan",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories | Fact x Trackingplan | Trackingplan - LinkedIn — In case you’ve missed it, our latest case study with Fact - A Shopify & Marketing Agency shows how Trackingplan helps them catch issues before clients even notice, reducing manual work and ...",
+    "url": "https://www.linkedin.com/posts/trackingplan_customer-stories-fact-x-trackingplan-activity-7413897106479960064-4Zt9",
+    "pass": 3
+   },
+   {
+    "quote": "Trackingplan 2026 Company Profile: Valuation, Funding ...Trackingplan – Market Position & Workforce Comparison – 2026Trackingplan: Funding, Team & Investors | Startup IntrosTrackingplan Revenue 2024: $5M Est. ARR - getlatka.comTrackingplan - 2025 Company Profile, Team, Funding ...How Trackingplan hit $5M revenue with a 15 person team in 2024.Trackingplan - Crunchbase Company Profile & Funding — In",
+    "url": "https://pitchbook.com/profiles/company/471663-46",
+    "pass": 3
+   },
+   {
+    "quote": "Trackingplan – Market Position & Workforce Comparison – 2026 — Revenue, valuation, and funding figures for Trackingplan are estimates based on publicly available information, industry analysis, regulatory filings, company-provided profile updates, and proprietary data aggregation methods.",
+    "url": "https://compworth.com/company/trackingplan",
+    "pass": 3
+   },
+   {
+    "quote": "Trackingplan: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Founded in 2021 by Alexandros Chaaraoui, a software engineer with a PhD in Machine Learning and experience at Google and Rohde & Schwarz, Trackingplan emerged from the need to address the challenges of maintaining accurate digital analytics data in real time.",
+    "url": "https://startupintros.com/orgs/trackingplan",
+    "pass": 3
+   },
+   {
+    "quote": "Trackingplan Revenue 2024: $5M Est. ARR - getlatka.com — Sep 2, 2026 · Trackingplan 2024 estimated revenue: $5M ARR. 15 employees. Industry: Other Analytics Software. Founded 2021. HQ: Spain Updated Sep 2, 2026.",
+    "url": "https://getlatka.com/companies/trackingplan.com",
+    "pass": 3
+   },
+   {
+    "quote": "Trackingplan - 2025 Company Profile, Team, Funding ...How Trackingplan hit $5M revenue with a 15 person team in 2024.Trackingplan - Crunchbase Company Profile & Funding — Aug 28, 2025 · Trackingplan is a seed company based in Torrevieja (Spain), founded in 2021 by Oleg Kozynenko, Jose Luis Perez Gonzalez, Alexandros Andre Chaaraoui, Jose Padilla and Pedro Trujillano. It operates as a Provider of a",
+    "url": "https://tracxn.com/d/companies/trackingplan/__aUzLgfrShsTGAvoxaJD7wwGJt2ix1aISE_lN7soXiqs",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Tracking Plan (@trackingplan) / Posts / X Tracking Plan (@trackingplan) - Posts - On a mission to help teams get better at analytics by improving the tools to design, discuss and org... | X (formerly Twitter)",
+    "url": "https://x.com/trackingplan",
+    "pass": 3
+   },
+   {
+    "quote": "What’s new at Trackingplan? Debug analytics in-browser with ... What’s new at Trackingplan? 🐞 Debug analytics in-browser with Trackingplan's Omnibug Extension 📊 Hourly traffic breakdown in Data Explorer 🌍 Percentages in Trackingplan's Presence Map 🎥 Launching Trackingplan Academy for video learning https://t.co/9PREY5bo7s",
+    "url": "https://x.com/trackingplanco/status/1939987615429595163",
+    "pass": 3
+   },
+   {
+    "quote": "Trackingplan is now live. Built around a simple mission: make ... Trackingplan is now live. Built around a simple mission: make digital analytics observable, reliable and easier to understand. Real traffic. Real signals. Real-time monitoring. The next phase starts now. CA: 0x92c6aa9114bacB34e7bA0eFc23F95cEf644b138c Live on: @ponsdotfamily trackingplan@usetrackingplan",
+    "url": "https://x.com/usetrackingplan/status/2107504561258901654",
+    "pass": 3
+   },
+   {
+    "quote": "trackingplan on X: \"We're building around a simple idea: You ... Trackingplan gives teams a continuous view of what their tracking is actually doing — across analytics, advertising, attribution and consent. Now it's time to bring the project on-chain.",
+    "url": "https://x.com/usetrackingplan/status/2107491608065425425",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Trackingplan - LinkedIn Trackingplan is the AI agent for Digital Analytics & Performance that, unlike AIs built to answer, is built to know what’s actually happening before confidently giving you a response.",
+    "url": "https://www.linkedin.com/company/trackingplan/",
+    "pass": 3
+   },
+   {
+    "quote": "Trackingplan.com - LinkedIn Discover how Trackingplan transforms your marketing and analytics workflows by automating tag validation, detecting data issues in real time, and helping you fix them before they hurt your...",
+    "url": "https://www.linkedin.com/products/trackingplan-com/",
+    "pass": 3
+   },
+   {
+    "quote": "David Pombar Lourido - Trackingplan | LinkedInJose Padilla - Trackingplan | LinkedInAlexandros Andre Chaaraoui - Software Engineer, Ex-Googler ...Josele Perez - Trackingplan Founder. YCombinator (W22 ...What’s new in Trackingplan this month? - LinkedIn Experiencia: Trackingplan · Educación: Universidad de A Coruna · Ubicación: Pontevedra y alrededores · Más de 500 contactos en LinkedIn. Ver el per",
+    "url": "https://es.linkedin.com/in/davidpombar/es",
+    "pass": 3
+   },
+   {
+    "quote": "Jose Padilla - Trackingplan | LinkedInAlexandros Andre Chaaraoui - Software Engineer, Ex-Googler ...Josele Perez - Trackingplan Founder. YCombinator (W22 ...What’s new in Trackingplan this month? - LinkedIn Experience: Trackingplan · Education: Universitat d'Alacant · Location: Warsaw · 500+ connections on LinkedIn. View Jose Padilla’s profile on LinkedIn, a professional community of 1 billion... ",
+    "url": "https://pl.linkedin.com/in/joserpadilla/en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Trackingplan | San Francisco CA - FacebookTrackingplan - Hello world! We are super excited to announce ...Trackingplan - Hello world! We are super excited to... | FacebookROXCODE - Trackingplan - Monitor your analytics without...Our fleet is monitored real time, all the time - FacebookChasity Peterson - FacebookTrackPlan Fm Software | Limerick - Facebook Jan 7, 2022 · With just one pixel on your s",
+    "url": "https://www.facebook.com/trackingplan/",
+    "pass": 3
+   },
+   {
+    "quote": "Trackingplan - Hello world! We are super excited to announce ... Jan 7, 2022 · With just one pixel on your site or app, Trackingplan automatically watches and documents in real-time all your customer data, and alerts you of wrong data or traffic anomalies in your events, user attributes, or campaigns.",
+    "url": "https://www.facebook.com/trackingplan/photos/hello-world-we-are-super-excited-to-announce-trackingplan-has-been-backed-by-y-c/102672658976139/",
+    "pass": 3
+   },
+   {
+    "quote": "Trackingplan - Hello world! We are super excited to... | Facebook Jan 7, 2022 · Trackingplan was born to make sure product analytics, tracking, pixels, and campaigns are always working as planned, and we help fast growing and traffic intensive",
+    "url": "https://www.facebook.com/trackingplan/posts/hello-world-we-are-super-excited-to-announce-trackingplan-has-been-backed-by-y-c/102677528975652/",
+    "pass": 3
+   },
+   {
+    "quote": "ROXCODE - Trackingplan - Monitor your analytics without... Mar 14, 2021 · Trackingplan - Monitor your analytics without the hassle https://t.co/BbSxgZtV3Y #webdevelopers https://t.co/Rw3ydnUoZJ #roxcodewebnews",
+    "url": "https://www.facebook.com/roxcode/posts/trackingplan-monitor-your-analytics-without-the-hassle-httpstcobbsxgztv3y-webdev/2799361230379062/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.trackingplan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trackingplan.com/partners/agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trackingplan.com/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trackingplan.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trackingplan.com/partners/affiliates",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trackingplan.com/partners/advocates",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trackingplan.com/landings/agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trackingplan.com/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trackingplan.com/partner-directory",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trackingplan.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trackingplan.com/customer-stories/how-csa-havas-media-network-regained-client-trust-with-out-of-the-box-data-quality-monitoring",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trackingplan.com/customer-stories/how-elogia-scaled-value-with-trackingplan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trackingplan.com/customer-stories/how-fact-keeps-analytics-accurate-for-a-growing-client-portfolio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trackingplan.com/customer-stories/how-on-top-media-prevented-tracking-breakdowns-with-trackingplan-automated-validation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trackingplan.com/customer-stories/how-semmantica-simplified-analytics-management-with-trackingplan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trackingplan.com/customer-stories/how-rethink-reduced-manual-workload-through-proactive-error-alerts",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trackingplan.com/demo",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.trackingplan.com/assets/logos/ontop.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.trackingplan.com/assets/logos/semmantica.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.trackingplan.com/assets/logos/rethink.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.capterra.jp/software/1057272/trackingplan",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toolmage.com/ja/tool/trackingplan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://moge.ai/ja/product/trackingplan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toolverto.com/ja/tool/trackingplan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trackingplan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.post.japanpost.jp/index_en.html?ld=ASUSSOADirect",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trackingplan.com/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trackingplan.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trackingplan.com/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/trackingplan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/trackingplan/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/trackingplan/case-study/how-on-top-media-prevented-tracking-breakdowns-with-trackingplan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/471663-46",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/trackingplan",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/trackingplan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/trackingplan.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/trackingplan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/trackingplanco/status/1939987615429595163",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/usetrackingplan/status/2107504561258901654",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/usetrackingplan/status/2107491608065425425",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/trackingplan/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/trackingplan-com/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://es.linkedin.com/in/davidpombar/es",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pl.linkedin.com/in/joserpadilla/en",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/trackingplan/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/trackingplan/photos/hello-world-we-are-super-excited-to-announce-trackingplan-has-been-backed-by-y-c/102672658976139/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/trackingplan/posts/hello-world-we-are-super-excited-to-announce-trackingplan-has-been-backed-by-y-c/102677528975652/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/roxcode/posts/trackingplan-monitor-your-analytics-without-the-hassle-httpstcobbsxgztv3y-webdev/2799361230379062/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/trackingplan",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Trackingplan 日本 導入",
+   "results": [
+    "https://www.capterra.jp/software/1057272/trackingplan",
+    "https://www.toolmage.com/ja/tool/trackingplan/",
+    "https://moge.ai/ja/product/trackingplan",
+    "https://toolverto.com/ja/tool/trackingplan",
+    "https://debono.co.jp/media/trackingplan-keisoku-kanshi/",
+    "https://monoist.itmedia.co.jp/mn/articles/2607/03/news025.html",
+    "https://www.jmd.co.jp/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Trackingplan 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://www.aon.com/japan/company-overview"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Trackingplan Japan",
+   "results": [
+    "https://www.trackingplan.com/",
+    "https://www.post.japanpost.jp/index_en.html?ld=ASUSSOADirect",
+    "https://www.trackingplan.com/about-us",
+    "https://www.trackingplan.com/pricing",
+    "https://posttrack.com/en/carriers/postal/japan-post",
+    "https://www.parcelmonitor.com/en/track-japan",
+    "http://tracking.post.japanpost.jp/services/srv/search/?locale=en"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Trackingplan manufacturing customer case study",
+   "results": [
+    "https://www.trackingplan.com/customer-stories",
+    "https://www.casestudies.com/company/trackingplan",
+    "https://www.featuredcustomers.com/vendor/trackingplan/case-studies",
+    "https://www.casestudies.com/company/trackingplan/case-study/how-on-top-media-prevented-tracking-breakdowns-with-trackingplan",
+    "https://www.linkedin.com/posts/trackingplan_customer-stories-fact-x-trackingplan-activity-7413897106479960064-4Zt9",
+    "https://www.featuredcustomers.com/vendor/trackingplan",
+    "https://www.trackingplan.com/customer-stories/how-elogia-scaled-value-with-trackingplan"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Trackingplan white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.spectrum.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://upcloud.com/partner-program/",
+    "https://connect.redhat.com/en/partner-program"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Trackingplan founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/471663-46",
+    "https://compworth.com/company/trackingplan",
+    "https://startupintros.com/orgs/trackingplan",
+    "https://getlatka.com/companies/trackingplan.com",
+    "https://tracxn.com/d/companies/trackingplan/__aUzLgfrShsTGAvoxaJD7wwGJt2ix1aISE_lN7soXiqs",
+    "https://getlatka.com/companies/trackingplan.com/funding",
+    "https://www.crunchbase.com/organization/trackingplan"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Trackingplan",
+   "results": [
+    "https://note.com/tag/ポリティカルパン",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/yamirinchann/n/nac773914a154",
+    "https://note.com/hearty_crane114/n/ndbfe98eb796f?hl=en",
+    "https://note.com/tori_1980/n/n21037c205ade",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/godel/n/n219ff14f4820"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Trackingplan",
+   "results": [
+    "https://x.com/trackingplan",
+    "https://x.com/trackingplanco/status/1939987615429595163",
+    "https://x.com/usetrackingplan/status/2107504561258901654",
+    "https://x.com/usetrackingplan/status/2107491608065425425",
+    "https://x.com/usetrackingplan/status/2107457750649499865",
+    "https://x.com/AndreAlexandros",
+    "https://x.com/joseleperez"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Trackingplan",
+   "results": [
+    "https://www.linkedin.com/company/trackingplan/",
+    "https://www.linkedin.com/products/trackingplan-com/",
+    "https://es.linkedin.com/in/davidpombar/es",
+    "https://pl.linkedin.com/in/joserpadilla/en",
+    "https://es.linkedin.com/in/alexandrosandre/en",
+    "https://www.linkedin.com/in/joseleperez",
+    "https://www.linkedin.com/pulse/whats-new-trackingplan-month-trackingplan-rwdtf/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Trackingplan",
+   "results": [
+    "https://www.facebook.com/trackingplan/",
+    "https://www.facebook.com/trackingplan/photos/hello-world-we-are-super-excited-to-announce-trackingplan-has-been-backed-by-y-c/102672658976139/",
+    "https://www.facebook.com/trackingplan/posts/hello-world-we-are-super-excited-to-announce-trackingplan-has-been-backed-by-y-c/102677528975652/",
+    "https://www.facebook.com/roxcode/posts/trackingplan-monitor-your-analytics-without-the-hassle-httpstcobbsxgztv3y-webdev/2799361230379062/",
+    "https://www.facebook.com/leedspk/videos/our-fleet-is-monitored-real-time-all-the-time/706041834094947/",
+    "https://www.facebook.com/chasitycp/",
+    "https://www.facebook.com/trackplanfm/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Trackingplan note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.buffett-code.com/company/5243/governance",
+    "https://www.trackingplan.com/",
+    "https://note.com/sadaaki",
+    "https://www.linkedin.com/company/trackingplan/",
+    "https://www.trackingplan.com/about-us",
+    "https://note.com/joyous_auk228"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Trackingplan X 投稿",
+   "results": [
+    "https://x.com/trackingplan",
+    "https://www.trackingplan.com/",
+    "https://note.com/aikachan_ai/n/n8e895a829c92",
+    "https://fitly.pics/blog/x-twitter-post-tips",
+    "https://note.com/mgane/n/n1c0d7384c8a0",
+    "https://x.com/x2775co/status/2119757299296383438",
+    "https://www.witha.jp/sns・マーケティング/x-posting-guide-beginners/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式17頁／PDF・画像3件／外部37頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式17頁／PDF・画像3件／外部37頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式17頁／PDF・画像3件／外部37頁・検索12回）"
+ }
+}

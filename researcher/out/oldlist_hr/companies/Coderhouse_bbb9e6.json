@@ -1,0 +1,675 @@
+{
+ "name": "Coderhouse",
+ "aliases": [],
+ "context": "旧営業リスト｜Online Education / Professional Development｜AUMS不適合",
+ "researched_at": "2026-11-09T17:51:11.238649+00:00",
+ "official_url": "https://www.coderhouse.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Build AI systems you can explain, evaluate, and improve—not just demos that happen to call an LLM. Work hands-on with retrieval, RAG, tool use, agents, evals, observability, and deployment while learning the engineering judgment behind reliable AI applications.",
+    "url": "https://www.coderhouse.com/en/home",
+    "pass": 1
+   },
+   {
+    "quote": "For career switchers, analysts & data-driven professionals",
+    "url": "https://www.coderhouse.com/en/home",
+    "pass": 1
+   },
+   {
+    "quote": "Learn to turn data into decisions—not just dashboards. Build practical skills in SQL, Python, metrics, statistics, experimentation, visualization, and AI-assisted analysis, with live feedback from practitioners who do this work professionally.",
+    "url": "https://www.coderhouse.com/en/home",
+    "pass": 1
+   },
+   {
+    "quote": "Builds your resume from projects you shipped",
+    "url": "https://www.coderhouse.com/en/home",
+    "pass": 1
+   },
+   {
+    "quote": "Runs a mock interview before the real one",
+    "url": "https://www.coderhouse.com/en/home",
+    "pass": 1
+   },
+   {
+    "quote": "Practices the questions you will actually get",
+    "url": "https://www.coderhouse.com/en/home",
+    "pass": 1
+   },
+   {
+    "quote": "Assignments and a final project",
+    "url": "https://www.coderhouse.com/en/home",
+    "pass": 1
+   },
+   {
+    "quote": "You submit work throughout the course. Atlas and your instructor review each one. That work becomes the final project you need to pass for the certificate.",
+    "url": "https://www.coderhouse.com/en/home",
+    "pass": 1
+   },
+   {
+    "quote": "Final project: apply what you learned to a real problem",
+    "url": "https://www.coderhouse.com/en/home",
+    "pass": 1
+   },
+   {
+    "quote": "A private chat with your instructor and cohort between sessions. Questions, notes, and quick unblocks without waiting for next week.",
+    "url": "https://www.coderhouse.com/en/home",
+    "pass": 1
+   },
+   {
+    "quote": "Show up, submit, practice. Points stack into a live cohort ranking so you see where you stand.",
+    "url": "https://www.coderhouse.com/en/home",
+    "pass": 1
+   },
+   {
+    "quote": "education technology startups in the region are given new opportunities to grow. In the past week, Coderhouse, a live cohort-based learning platform, and Crehana, an on-demand skills development service for the enterprise, both announced financing rounds.",
+    "url": "https://techcrunch.com/2021/08/05/as-edtech-evolves-latam-reskilling-platforms-raise-millions-to-bring-outcomes-into-the-mix/",
+    "pass": 3
+   },
+   {
+    "quote": ", founded in 2014 by Christian Patiño, is a platform for LatAm professionals to take live, online cohort-based courses in topics such as data, coding, design and marketing.",
+    "url": "https://techcrunch.com/2021/08/05/as-edtech-evolves-latam-reskilling-platforms-raise-millions-to-bring-outcomes-into-the-mix/",
+    "pass": 3
+   },
+   {
+    "quote": "Crehana for Business is an enterprise solution packaged for a specific company looking to up-skill a portion of their staff. Crehana will continue to offer individual seats on its learning platform, but Crehana for Business illustrates what Olcese sees as the future: the centralization of education as a focus within companies.",
+    "url": "https://techcrunch.com/2021/08/05/as-edtech-evolves-latam-reskilling-platforms-raise-millions-to-bring-outcomes-into-the-mix/",
+    "pass": 3
+   },
+   {
+    "quote": "“We’re building this so companies can understand the end-to-end process of employee development in the company, from the onboarding process to when an employee gets promoted in their job,” he said. “We are centralizing that management for HR teams.”",
+    "url": "https://techcrunch.com/2021/08/05/as-edtech-evolves-latam-reskilling-platforms-raise-millions-to-bring-outcomes-into-the-mix/",
+    "pass": 3
+   },
+   {
+    "quote": "The San Francisco-based platform launched an enterprise product that now has over 7,000 customers, hitting near $200 million in annual recurring revenue. Crehana didn’t disclose specifics around revenue, but did say that it had 10x year over year growth in Crehana for Business, with the overall business hitting 4x year over year growth; both metrics are between 2019 to 2020.",
+    "url": "https://techcrunch.com/2021/08/05/as-edtech-evolves-latam-reskilling-platforms-raise-millions-to-bring-outcomes-into-the-mix/",
+    "pass": 3
+   },
+   {
+    "quote": "Olcese said that Crehana’s biggest difference from Udemy is in how it handles content. Crehana produces, designs and publishes all content on its site, and selects which teachers will instruct on which topics. Comparatively, Udemy has a",
+    "url": "https://techcrunch.com/2021/08/05/as-edtech-evolves-latam-reskilling-platforms-raise-millions-to-bring-outcomes-into-the-mix/",
+    "pass": 3
+   },
+   {
+    "quote": "Crehana’s hands-on content strategy makes sense, but is hard to scale; and content isn’t competitive forever. This tension is why the company thinks its future looks more like Crehana for Business, which uses content as part of a broader infrastructure on how employees are skilled, instead of looking like a content provider.",
+    "url": "https://techcrunch.com/2021/08/05/as-edtech-evolves-latam-reskilling-platforms-raise-millions-to-bring-outcomes-into-the-mix/",
+    "pass": 3
+   },
+   {
+    "quote": "As it works toward becoming an education infrastructure layer, Crehana is experimenting with technology that would allow companies to create their own content that isn’t just localized to geography, but is tuned into personalities, management structures and more.",
+    "url": "https://techcrunch.com/2021/08/05/as-edtech-evolves-latam-reskilling-platforms-raise-millions-to-bring-outcomes-into-the-mix/",
+    "pass": 3
+   },
+   {
+    "quote": "Generally speaking, Crehana and Coderhouse’s pair of financings show that investors see LatAm’s digital transformation having a fundamental, long-tail impact on edtech adoption within regional companies. The question then becomes, which is the best way to serve a newly hungry group of learners, and what is the easiest answer for employers’ biggest stresses: unqualified candidates.",
+    "url": "https://techcrunch.com/2021/08/05/as-edtech-evolves-latam-reskilling-platforms-raise-millions-to-bring-outcomes-into-the-mix/",
+    "pass": 3
+   },
+   {
+    "quote": "While the strategies look different in sales, both build off of current strides in edtech, not limited to but including the ability to learn online and the understanding that lifelong learning is a key competitive advantage for professionals.",
+    "url": "https://techcrunch.com/2021/08/05/as-edtech-evolves-latam-reskilling-platforms-raise-millions-to-bring-outcomes-into-the-mix/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "#コンダーハウス # coderhouse #Wedding #ファーストミート ... — #コンダーハウス # coderhouse #Wedding #ファーストミート ... Instagram https://www.instagram.com > reel > DXzPIU-TKEp",
+    "url": "https://www.instagram.com/reel/DXzPIU-TKEp/",
+    "pass": 3
+   },
+   {
+    "quote": "Read Customer Service Reviews of www. coderhouse .com — Read Customer Service Reviews of www. coderhouse .com Trustpilot https://www.trustpilot.com > review",
+    "url": "https://www.trustpilot.com/review/www.coderhouse.com",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "The company announced this week that it has raised a $13.5 million Series A round led by Monashees, along with Reach Capital, David Velez from Nubank, Guillermo Rauch from Vercel, Hugo Barra (former head of VR at Facebook) and the founders of Loggi, Rappi, Wildlife Studios, Méliuz, MadeiraMadeira, Cornershop, Bitso, Casai, Clara, RunaHR and Belvo.",
+    "url": "https://techcrunch.com/2021/08/05/as-edtech-evolves-latam-reskilling-platforms-raise-millions-to-bring-outcomes-into-the-mix/",
+    "pass": 3
+   },
+   {
+    "quote": "As Coderhouse figures out how to be an affordable bootcamp for aspiring and current employees, Crehana is finding its stride in going straight to the companies that employ them.",
+    "url": "https://techcrunch.com/2021/08/05/as-edtech-evolves-latam-reskilling-platforms-raise-millions-to-bring-outcomes-into-the-mix/",
+    "pass": 3
+   },
+   {
+    "quote": "Crehana announced today that it has raised a $70 million Series B just months after a $13 million Series A extension round. Per CEO Diego Olcese, the round will lead to “aggressively scaling” an offering that now accounts for half of Crehana’s revenue: Crehana for Business.",
+    "url": "https://techcrunch.com/2021/08/05/as-edtech-evolves-latam-reskilling-platforms-raise-millions-to-bring-outcomes-into-the-mix/",
+    "pass": 3
+   },
+   {
+    "quote": "The San Francisco-based platform launched an enterprise product that now has over 7,000 customers, hitting near $200 million in annual recurring revenue. Crehana didn’t disclose specifics around revenue, but did say that it had 10x year over year growth in Crehana for Business, with the overall business hitting 4x year over year growth; both metrics are between 2019 to 2020.",
+    "url": "https://techcrunch.com/2021/08/05/as-edtech-evolves-latam-reskilling-platforms-raise-millions-to-bring-outcomes-into-the-mix/",
+    "pass": 3
+   },
+   {
+    "quote": "Crehana’s hands-on content strategy makes sense, but is hard to scale; and content isn’t competitive forever. This tension is why the company thinks its future looks more like Crehana for Business, which uses content as part of a broader infrastructure on how employees are skilled, instead of looking like a content provider.",
+    "url": "https://techcrunch.com/2021/08/05/as-edtech-evolves-latam-reskilling-platforms-raise-millions-to-bring-outcomes-into-the-mix/",
+    "pass": 3
+   },
+   {
+    "quote": ", create its own mini-university to train and up-skill employees, the founder was clear: “It’ll be better than a university,” he said.",
+    "url": "https://techcrunch.com/2021/08/05/as-edtech-evolves-latam-reskilling-platforms-raise-millions-to-bring-outcomes-into-the-mix/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Coderhouse on X / X Coderhouse on X / X X https://x.com > @coderhouse",
+    "url": "https://x.com/coderhouse/status/2118752204123164687/photo/1",
+    "pass": 3
+   },
+   {
+    "quote": "Coderhouse - X Coderhouse - X X https://x.com > coderhouse",
+    "url": "https://x.com/coderhouse",
+    "pass": 3
+   },
+   {
+    "quote": "Coderhouse on X / X Coderhouse on X / X X https://x.com > @coderhouse",
+    "url": "https://x.com/coderhouse/status/2118752204123164687",
+    "pass": 3
+   },
+   {
+    "quote": "Coderhouse on X: \"Señales de hacia donde va el mercado ... Coderhouse on X: \"Señales de hacia donde va el mercado ... X https://x.com > @coderhouse",
+    "url": "https://x.com/coderhouse/status/2117656119183089964",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Empleados, ubicación y antiguos alumnos de Coderhouse Empleados, ubicación y antiguos alumnos de Coderhouse LinkedIn https://ar.linkedin.com > coderhouse",
+    "url": "https://ar.linkedin.com/school/coderhouse/",
+    "pass": 3
+   },
+   {
+    "quote": "Coder House - LinkedIn Coder House - LinkedIn LinkedIn https://www.linkedin.com > showcase",
+    "url": "https://www.linkedin.com/showcase/coderrhouse/",
+    "pass": 3
+   },
+   {
+    "quote": "Founding Student Ambassador at Coderhouse - Jobs - LinkedIn Founding Student Ambassador at Coderhouse - Jobs - LinkedIn LinkedIn https://www.linkedin.com > jobs > view",
+    "url": "https://www.linkedin.com/jobs/view/founding-student-ambassador-at-coderhouse-4486421558",
+    "pass": 3
+   },
+   {
+    "quote": "Coderhouse Jobs in Worldwide (15000+ Open Roles) - LinkedIn Coderhouse Jobs in Worldwide (15000+ Open Roles) - LinkedIn LinkedIn https://www.linkedin.com > jobs > co...",
+    "url": "https://www.linkedin.com/jobs/coderhouse-jobs-worldwide",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Coderhouse - Facebook Coderhouse - Facebook Facebook https://www.facebook.com > Coderhouse",
+    "url": "https://www.facebook.com/Coderhouse/",
+    "pass": 3
+   },
+   {
+    "quote": "Así aprendemos en Coderhouse - Facebook Así aprendemos en Coderhouse - Facebook Facebook https://www.facebook.com > ... > Coderhouse > Videos",
+    "url": "https://www.facebook.com/Coderhouse/videos/as%C3%AD-aprendemos-en-coderhouse/1098678573063427/",
+    "pass": 3
+   },
+   {
+    "quote": "Coderween: hasta 70% OFF en carreras y cursos. ¡Inscríbete ... Coderween: hasta 70% OFF en carreras y cursos. ¡Inscríbete ... Facebook https://www.facebook.com > ... > Coderhouse > Videos",
+    "url": "https://www.facebook.com/Coderhouse/videos/coderween-hasta-70-off/1619290983077814/",
+    "pass": 3
+   },
+   {
+    "quote": "Coderhouse on Reels - Facebook Coderhouse on Reels - Facebook Facebook https://www.facebook.com > ... > Coderhouse > Videos",
+    "url": "https://www.facebook.com/Coderhouse/videos/2294176351395356/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.coderhouse.com/en/home",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.instagram.com/reel/DXzPIU-TKEp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://theconderhouse.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.condehouseglobal.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.plugandplaytechcenter.com/event/japan-dual-usedefense-tech-japan-cta-program-signature-pitch-event-2026-09-28",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=m9qq9nQP9KI",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/business/use/contract/distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.condehouseglobal.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://theconderhouse.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.condehouse.com/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/reel/DXzPIU-TKEp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-case-studies--44452?srsltid=AYCX9vKVXIvLfOvJDQqvC3rbHIzwaVikI5LlgZSa4PCiuDdqP2ZPwR9L",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://c3.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ptc.com/en/case-studies?srsltid=AYCX9vIdg7cwxG2gVjvWocxoXIi3UdxWwFFjkYmTFI6jQZIedM7x0Ijp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cadtalk.com/cadtalk-case-studies-for-manufacturers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://webinone.com/reseller-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=0j22JYl44z4",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://multiples.vc/private-comps/coder",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techcrunch.com/2021/08/05/as-edtech-evolves-latam-reskilling-platforms-raise-millions-to-bring-outcomes-into-the-mix/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/coder.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/Coder",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/coderhouse/status/2118752204123164687/photo/1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/coderhouse",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/coderhouse/status/2118752204123164687",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/coderhouse/status/2117656119183089964",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ar.linkedin.com/school/coderhouse/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/showcase/coderrhouse/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/view/founding-student-ambassador-at-coderhouse-4486421558",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/coderhouse-jobs-worldwide",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Coderhouse/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Coderhouse/videos/as%C3%AD-aprendemos-en-coderhouse/1098678573063427/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Coderhouse/videos/coderween-hasta-70-off/1619290983077814/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Coderhouse/videos/2294176351395356/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/coderhouse/status/2118752204123164687/photo/1",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Coderhouse 日本 導入",
+   "results": [
+    "https://www.instagram.com/reel/DXzPIU-TKEp/",
+    "https://theconderhouse.com/",
+    "https://www.condehouseglobal.com/",
+    "https://japan.plugandplaytechcenter.com/event/japan-dual-usedefense-tech-japan-cta-program-signature-pitch-event-2026-09-28",
+    "https://www.condehouse.com/about-us/",
+    "https://www.instagram.com/condehouse_global_official/",
+    "https://www.facebook.com/TheConderHouse/posts/the-conder-house%E3%81%AB%E3%81%AF%E8%B1%A1%E5%BE%B4%E7%9A%84%E3%81%AA%E8%8F%AF%E3%82%84%E3%81%8B%E3%81%A7%E9%87%8D%E5%8E%9A%E6%84%9F%E3%82%92%E6%84%9F%E3%81%98%E3%82%8B%E8%B5%A4%E3%81%84%E5%A4%A7%E9%9A%8E%E6%AE%B5%E3%81%AE%E4%BB%96%E3%81%AB%E6%9C%A8%E3%81%AE%E6%9F%94%E3%82%89%E3%81%8B%E3%81%AA%E8%B3%AA%E6%84%9F%E3%82%92%E6%84%9F%E3%81%98%E3%82%8B%E3%82%AF%E3%83%A9%E3%82%B7%E3%83%83%E3%82%AF%E3%81%A7%E4%B8%8A%E8%B3%AA%E3%81%AA%E8%9E%BA%E6%97%8B%E9%9A%8E%E6%AE%B5%E3%81%8C%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99%E9%9A%8E%E6%AE%B5%E3%81%AE%E4%B8%AD%E5%BF%83%E3%81%AB%E3%81%AF%EF%BC%96/1442541704550747/",
+    "https://www.youtube.com/watch?v=zJL-aZyzBWU",
+    "https://laboratoryy.work/conde-house/",
+    "https://www.coderhouse.com/en/graduates"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Coderhouse 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://dairitenboshu.com/",
+    "https://www.youtube.com/watch?v=m9qq9nQP9KI",
+    "https://b-seeds.com/business/use/contract/distributor",
+    "https://messe.nikkei.co.jp/exhibitor/category/FS/ja/278",
+    "https://www.condehouseglobal.com/",
+    "https://theconderhouse.com/",
+    "https://j-dma.org/archives/7447",
+    "https://www.ccn-catv.co.jp/company/showroom/head/202010.html",
+    "https://metoree.com/companies/distributors-relationships/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Coderhouse Japan",
+   "results": [
+    "https://www.condehouseglobal.com/",
+    "https://theconderhouse.com/",
+    "https://www.condehouse.com/products/",
+    "https://www.instagram.com/reel/DXzPIU-TKEp/",
+    "https://www.trustpilot.com/review/www.coderhouse.com",
+    "https://www.linkedin.com/jobs/view/founding-student-ambassador-at-coderhouse-4486421558",
+    "https://www.instagram.com/condehouse_global_official/",
+    "https://condehousejapan.com/shops-and-offices/",
+    "https://globalproduce-event.com/what/venue/the-conder-house/",
+    "https://coderdojo.jp/english"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Coderhouse manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-case-studies--44452?srsltid=AYCX9vKVXIvLfOvJDQqvC3rbHIzwaVikI5LlgZSa4PCiuDdqP2ZPwR9L",
+    "https://c3.ai/customers",
+    "https://www.ptc.com/en/case-studies?srsltid=AYCX9vIdg7cwxG2gVjvWocxoXIi3UdxWwFFjkYmTFI6jQZIedM7x0Ijp",
+    "https://cadtalk.com/cadtalk-case-studies-for-manufacturers/",
+    "https://fourjaw.com/tell-your-manufacturing-story",
+    "https://www.paisanos.io/projects/coderhouse-brand-case-study",
+    "https://www.athenaswc.com/case-studies/",
+    "https://www.industryweek.com/leadership/strategic-planning-execution/article/21261091/winning-with-customer-case-studies-4-tips-6-pitfalls",
+    "https://www.tth.com/resources/case-studies",
+    "https://studiochat.io/case-studies/coderhouse"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Coderhouse white label OR reseller OR partner program",
+   "results": [
+    "https://webinone.com/reseller-program",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://www.youtube.com/watch?v=0j22JYl44z4",
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://sales-label.com/blog/white-label-saas-reseller",
+    "https://seedlycrm.com/blog/white-label-crm-playbook",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Coderhouse founded funding employees revenue",
+   "results": [
+    "https://multiples.vc/private-comps/coder",
+    "https://techcrunch.com/2021/08/05/as-edtech-evolves-latam-reskilling-platforms-raise-millions-to-bring-outcomes-into-the-mix/",
+    "https://getlatka.com/companies/coder.com",
+    "https://growjo.com/company/Coder",
+    "https://forgeglobal.com/coder_ipo/",
+    "https://rocketreach.co/coderhouse-profile_b5f4eb43f42d2be2",
+    "https://www.crunchbase.com/organization/coder",
+    "https://coder.com/blog/90m-series-c-led-by-kkr-to-advance-secure-enterprise-ai-development",
+    "https://www.ycombinator.com/companies/coderhouse",
+    "https://pitchbook.com/profiles/company/432589-06"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Coderhouse",
+   "results": [
+    "https://note.com/seigo77",
+    "https://note.com/tag/禍話リライト",
+    "https://note.com/tag/半透明ハイキング",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kzstock/n/n8464ba129797",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Coderhouse",
+   "results": [
+    "https://x.com/coderhouse/status/2118752204123164687/photo/1",
+    "https://x.com/coderhouse",
+    "https://x.com/coderhouse/status/2118752204123164687",
+    "https://x.com/coderhouse/status/2117656119183089964",
+    "https://x.com/coderhouse/status/2118404817525629307",
+    "https://x.com/coderhouse/status/2118084240684302793",
+    "https://x.com/coderhouse/status/2118010894978261113",
+    "https://x.com/coderhouse/status/2118355421140586987",
+    "https://x.com/coderhouse/status/2118015470259314838",
+    "https://x.com/coder_house"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com Coderhouse",
+   "results": [
+    "https://ar.linkedin.com/school/coderhouse/",
+    "https://www.linkedin.com/showcase/coderrhouse/",
+    "https://www.linkedin.com/jobs/view/founding-student-ambassador-at-coderhouse-4486421558",
+    "https://www.linkedin.com/jobs/coderhouse-jobs-worldwide",
+    "https://www.linkedin.com/posts/vahid-alejandro_certified-uxui-designer-coderhouse-activity-7523113013235847168-_mxf",
+    "https://ar.linkedin.com/in/christian-alberto-patino/en",
+    "https://ar.linkedin.com/jobs/coderhouse-empleos",
+    "https://ng.linkedin.com/in/kendra-isibor-90913b248",
+    "https://gy.linkedin.com/in/red-zone-088548249",
+    "https://www.linkedin.com/school/coderhouse/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com Coderhouse",
+   "results": [
+    "https://www.facebook.com/Coderhouse/",
+    "https://www.facebook.com/Coderhouse/videos/as%C3%AD-aprendemos-en-coderhouse/1098678573063427/",
+    "https://www.facebook.com/Coderhouse/videos/coderween-hasta-70-off/1619290983077814/",
+    "https://www.facebook.com/Coderhouse/videos/2294176351395356/",
+    "https://www.facebook.com/Coderhouse/videos/1047886458252999/",
+    "https://www.facebook.com/elespectadorcom/posts/coderhouse-la-primera-escuela-argentina-de-educaci%C3%B3n-100-en-l%C3%ADnea-y-en-vivo-lleg/10159364026344066/",
+    "https://www.facebook.com/61594763951409/photos/122118398199492131/",
+    "https://www.facebook.com/Coderhouse/videos/estudi%C3%A1-marketing-ahora/916901934722531/",
+    "https://www.facebook.com/Coderhouse/photos/por-qu%C3%A9-coder-queremos-contarles-bien-quienes-somos-qu%C3%A9-hacemos-y-todos-los-bene/3473184132696380/",
+    "https://www.facebook.com/Coderhouse.br/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Coderhouse note 社長",
+   "results": [
+    "https://note.com/sadaaki",
+    "https://www.youtube.com/watch?v=xPafg3yYObE",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://x.com/sadaaki",
+    "https://froggy.smbcnikko.co.jp/66481/",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/",
+    "https://note.com/sharehouse180/n/nda94f4885bc5",
+    "https://ja.wikipedia.org/wiki/%E5%8A%A0%E8%97%A4%E8%B2%9E%E9%A1%95",
+    "https://ar.linkedin.com/in/christian-alberto-patino"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Coderhouse X 投稿",
+   "results": [
+    "https://x.com/coderhouse/status/2118752204123164687/photo/1",
+    "https://www.coderhouse.com/en/home",
+    "https://www.trustpilot.com/review/www.coderhouse.com",
+    "https://play.google.com/store/apps/details?id=com.coderhouse.app",
+    "https://v.pok.tech/r/60c01deb-2289-4091-bad1-a9447324f65d",
+    "https://www.facebook.com/Coderhouse/?locale=ja_JP",
+    "https://x.com/coderhouse",
+    "https://www.instagram.com/coderhouse/?hl=ja",
+    "https://x.com/coderhouse/articles",
+    "https://www.coderhouse.com/mx/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）"
+ }
+}

@@ -1,0 +1,864 @@
+{
+ "name": "中小企業景況調査 製造業 経営上の問題点 最新期（中小機構の原表・求人難の割合・4-122）",
+ "en": "SME business conditions survey manufacturing management problems labor shortage latest",
+ "aliases": [
+  "中小企業景況調査 経営上の問題点 製造業 最新",
+  "中小機構 景況調査 求人難 割合",
+  "景況調査 製造業 人手不足 原表"
+ ],
+ "context": "国内・統計",
+ "kind": "market",
+ "researched_at": "2026-11-09T17:42:41.130499+00:00",
+ "evidence": {
+  "継続して払うか": [
+   {
+    "quote": "リピートオーダー頻度（間隔）が長期化、対象商品終売によるパッケージ終",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "リピートオーダー頻度（間隔）が長期化、対象商品終売によるパッケージ終了",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf",
+    "pass": 3
+   }
+  ],
+  "どう買われるか": [
+   {
+    "quote": "(2) 調査方法 原則として、全国の商工会、商工会議所の経営指導員、及び中小企業",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 調査方法 原則として、全国の商工会、商工会議所の経営指導員、及び中小企業",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/185sokuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "輸出の引き合いが決まり、また和歌山県展示会に出",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/185sokuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．対象企業数 商工会地区の約 8,000 企業",
+    "url": "https://www.kumashoko.or.jp/kuma-wp/wp-content/uploads/2025/04/%E5%85%A8%E5%9B%BD%E9%80%A3%E7%89%882026%E5%B9%B41-3%E6%9C%88%E6%9C%9F.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊委 員 福田 徹也 \u0007 （全国商工会連合会 中小企業問題研究所 調査・分析チーム\u0007",
+    "url": "https://www.kumashoko.or.jp/kuma-wp/wp-content/uploads/2025/04/%E5%85%A8%E5%9B%BD%E9%80%A3%E7%89%882026%E5%B9%B41-3%E6%9C%88%E6%9C%9F.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事務局 渡辺 梓 （全国商工会連合会 中小企業問題研究所 調査 ・ 分析チーム）",
+    "url": "https://www.kumashoko.or.jp/kuma-wp/wp-content/uploads/2025/04/%E5%85%A8%E5%9B%BD%E9%80%A3%E7%89%882026%E5%B9%B41-3%E6%9C%88%E6%9C%9F.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "全国商工会連合会（会長 ： 森義久）は、 2026 年 1 〜 3 月期中小企業景況調査（約",
+    "url": "https://www.kumashoko.or.jp/kuma-wp/wp-content/uploads/2025/04/%E5%85%A8%E5%9B%BD%E9%80%A3%E7%89%882026%E5%B9%B41-3%E6%9C%88%E6%9C%9F.pdf",
+    "pass": 3
+   }
+  ],
+  "営業と採用のどちらに困っているか": [
+   {
+    "quote": "前期 1位 28.0 2位 18.7 5位 8.3 4位 9.1 3位 9.5",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前々期 1位 30.5 2位 18.3 5位 7.4 4位 9.2 3位 9.3",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前期 1位 33.8 2位 20.9 3位 8.7 4位 7.7 5位 6.7",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前々期 1位 34.8 2位 19.4 3位 8.1 4位 7.2 5位 6.8",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前期 2位 20.4 1位 24.7 4位 9.3 3位 10.9 5位 5.3",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前々期 2位 20.0 1位 26.7 4位 9.3 3位 10.3 5位 6.6",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前期 1位 27.5 3位 13.0 2位 13.8 4位 7.6 5位 7.4",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前々期 1位 28.4 3位 12.4 2位 12.9 5位 7.9 4位 8.1",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前期 1位 25.7 3位 11.3 5位 9.3 2位 11.8 4位 9.9",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前期 1位 39.9 2位 13.1 3位 8.1 4位 7.2 6位 5.4",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/185sokuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前々期 1位 27.7 2位 18.3 3位 10.0 4位 9.9 5位 8.8",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/185sokuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前期 1位 42.1 3位 12.6 5位 4.4 4位 5.1 6位 4.2",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/185sokuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前々期 1位 33.2 2位 20.0 3位 7.9 6位 6.7 4位 7.4",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/185sokuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前期 1位 35.0 2位 15.2 3位 8.3 4位 7.7 5位 6.8",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/185sokuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前々期 1位 23.7 2位 20.3 4位 10.5 3位 11.4 5位 6.0",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/185sokuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前期 1位 32.4 3位 10.8 2位 11.5 4位 7.8 5位 6.9",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/185sokuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "％（同 2.5 ポイント減）はその割合がやや減少したが、代わりに「需要の停滞」",
+    "url": "https://www.kumashoko.or.jp/kuma-wp/wp-content/uploads/2025/04/%E5%85%A8%E5%9B%BD%E9%80%A3%E7%89%882026%E5%B9%B41-3%E6%9C%88%E6%9C%9F.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "位も順位は変わらず「需要の停滞」14.9％で、前回からは 0.6％わずかに増加している",
+    "url": "https://www.kumashoko.or.jp/kuma-wp/wp-content/uploads/2025/04/%E5%85%A8%E5%9B%BD%E9%80%A3%E7%89%882026%E5%B9%B41-3%E6%9C%88%E6%9C%9F.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3 位、 4 位は「民間需要の停滞」7.5％（前期比変わらず）",
+    "url": "https://www.kumashoko.or.jp/kuma-wp/wp-content/uploads/2025/04/%E5%85%A8%E5%9B%BD%E9%80%A3%E7%89%882026%E5%B9%B41-3%E6%9C%88%E6%9C%9F.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「官公需要の停滞」7.3％（同 0.4％増加）が続き、 前回からひとつずつ順位を上げているが、",
+    "url": "https://www.kumashoko.or.jp/kuma-wp/wp-content/uploads/2025/04/%E5%85%A8%E5%9B%BD%E9%80%A3%E7%89%882026%E5%B9%B41-3%E6%9C%88%E6%9C%9F.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2 位は「需要の停滞」12.1％だったが、1.6％増加",
+    "url": "https://www.kumashoko.or.jp/kuma-wp/wp-content/uploads/2025/04/%E5%85%A8%E5%9B%BD%E9%80%A3%E7%89%882026%E5%B9%B41-3%E6%9C%88%E6%9C%9F.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2 位には「需要の停滞」11.7％が前回の 4 位から浮上しており、指摘する割",
+    "url": "https://www.kumashoko.or.jp/kuma-wp/wp-content/uploads/2025/04/%E5%85%A8%E5%9B%BD%E9%80%A3%E7%89%882026%E5%B9%B41-3%E6%9C%88%E6%9C%9F.pdf",
+    "pass": 3
+   }
+  ],
+  "前例の会社（製造業特化）": [
+   {
+    "quote": "(5) 全産業の従業員数過不足ＤＩ （今期の水準） は、 ▲23.0（前期差0.0ポイント） と横ばいとな",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・熱中症対策が義務付けられており、 従業員に飲物を渡すなど、 対策を行っている",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．売上額ＤＩ",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "全産業の売上額ＤＩ（「増加」－「減少」）は、▲8.7（前期▲8.1、前期差0.6ポイント",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "８．産業別従業員数過不足ＤＩ",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "全産業の従業員数過不足ＤＩ（「過剰」－「不足」、今期の水準）は、▲23.0（前期▲23.0、",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上が伸びている反面、原材料費、経費の増加も比例して",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 熱中症対策が義務付けられており、従業員に飲物を渡すなど、対策を行っている",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "それにより売上が上がっているが、製造コストと人件費",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．－(1) 売上額ＤＩ （「増加」－「減少」 前年同期比）",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．－(2) 売上単価・客単価ＤＩ （「上昇」－「低下」 前年同期比）",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "７．従業員数ＤＩ （「増加」－「減少」 前年同期比）",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "８．従業員数過不足ＤＩ （「過剰」－「不足」 今期の水準）",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "原材料価格の上昇 需要の停滞 人件費の増加 生産設備の不足・老 従業員の確保難",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "材料価格の上昇 従業員の確保難 熟練技術者の確保難 官公需要の停滞 民間需要の停滞",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(5) 全産業の従業員数過不足ＤＩ （今期の水準） は、 ▲23.5（前期差0.7ポイント減）とやや低下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/185sokuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．売上額ＤＩ",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/185sokuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "全産業の売上額ＤＩ（「増加」－「減少」）は、▲7.2（前期▲8.3、前期差1.1ポイント",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/185sokuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "８．産業別従業員数過不足ＤＩ",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/185sokuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "全産業の従業員数過不足ＤＩ（「過剰」－「不足」、今期の水準）は、▲23.5（前期▲22.8、",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/185sokuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高、経費ともに上昇しており、一方で価格転嫁が困難で",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/185sokuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．－(1) 売上額ＤＩ （「増加」－「減少」 前年同期比）",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/185sokuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．－(2) 売上単価・客単価ＤＩ （「上昇」－「低下」 前年同期比）",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/185sokuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "７．従業員数ＤＩ （「増加」－「減少」 前年同期比）",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/185sokuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "８．従業員数過不足ＤＩ （「過剰」－「不足」 今期の水準）",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/185sokuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "原材料価格の上昇 需要の停滞 生産設備の不足・老 従業員の確保難 人件費の増加",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/185sokuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "材料価格の上昇 従業員の確保難 熟練技術者の確保難 官公需要の停滞 民間需要の停滞",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/185sokuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "仕入単価の上昇 需要の停滞 人件費の増加 従業員の確保難 人件費以外の経費の",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/185sokuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "材料等仕入単価の上 利用者ニーズの変化 人件費の増加 従業員の確保難 需要の停滞",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/185sokuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注 1）\u0007 DI（前年同期比）は、売上額（完成工事額） ・採算・資金繰り",
+    "url": "https://www.kumashoko.or.jp/kuma-wp/wp-content/uploads/2025/04/%E5%85%A8%E5%9B%BD%E9%80%A3%E7%89%882026%E5%B9%B41-3%E6%9C%88%E6%9C%9F.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "委 員 中野 雅貴 \u0007 （株式会社日本政策金融公庫 総合研究所 中小企業研究第一",
+    "url": "https://www.kumashoko.or.jp/kuma-wp/wp-content/uploads/2025/04/%E5%85%A8%E5%9B%BD%E9%80%A3%E7%89%882026%E5%B9%B41-3%E6%9C%88%E6%9C%9F.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "委 員 大橋 創 \u0007 （株式会社日本政策金融公庫 総合研究所 小企業研究第二グ",
+    "url": "https://www.kumashoko.or.jp/kuma-wp/wp-content/uploads/2025/04/%E5%85%A8%E5%9B%BD%E9%80%A3%E7%89%882026%E5%B9%B41-3%E6%9C%88%E6%9C%9F.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "委 員 齊藤 基 （株式会社商工組合中央金庫 ＲＭ推進部 オフィサー）",
+    "url": "https://www.kumashoko.or.jp/kuma-wp/wp-content/uploads/2025/04/%E5%85%A8%E5%9B%BD%E9%80%A3%E7%89%882026%E5%B9%B41-3%E6%9C%88%E6%9C%9F.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（２） 従業員数別企業数",
+    "url": "https://www.kumashoko.or.jp/kuma-wp/wp-content/uploads/2025/04/%E5%85%A8%E5%9B%BD%E9%80%A3%E7%89%882026%E5%B9%B41-3%E6%9C%88%E6%9C%9F.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "指数・前年同期比）は、売上額がマイナス 12.5（前期比 2.3 ポイント低下） 、採算",
+    "url": "https://www.kumashoko.or.jp/kuma-wp/wp-content/uploads/2025/04/%E5%85%A8%E5%9B%BD%E9%80%A3%E7%89%882026%E5%B9%B41-3%E6%9C%88%E6%9C%9F.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "今期の主要 3DI を 1 年前の同時期と比較すると、売上額は 4.3 ポイント、採算は",
+    "url": "https://www.kumashoko.or.jp/kuma-wp/wp-content/uploads/2025/04/%E5%85%A8%E5%9B%BD%E9%80%A3%E7%89%882026%E5%B9%B41-3%E6%9C%88%E6%9C%9F.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "それぞれの詳細をみていくと、まず製造業は売上額が前期",
+    "url": "https://www.kumashoko.or.jp/kuma-wp/wp-content/uploads/2025/04/%E5%85%A8%E5%9B%BD%E9%80%A3%E7%89%882026%E5%B9%B41-3%E6%9C%88%E6%9C%9F.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業種別でみると、全 17 業種中、前回より改善した分野は売上額で 5",
+    "url": "https://www.kumashoko.or.jp/kuma-wp/wp-content/uploads/2025/04/%E5%85%A8%E5%9B%BD%E9%80%A3%E7%89%882026%E5%B9%B41-3%E6%9C%88%E6%9C%9F.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "建設業は売上額（完成工事額）が前期比 5.4 ポイント、",
+    "url": "https://www.kumashoko.or.jp/kuma-wp/wp-content/uploads/2025/04/%E5%85%A8%E5%9B%BD%E9%80%A3%E7%89%882026%E5%B9%B41-3%E6%9C%88%E6%9C%9F.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "採算は 3.0 ポイント、資金繰りも 2.7 ポイント悪化したが、特に売上額の下落幅",
+    "url": "https://www.kumashoko.or.jp/kuma-wp/wp-content/uploads/2025/04/%E5%85%A8%E5%9B%BD%E9%80%A3%E7%89%882026%E5%B9%B41-3%E6%9C%88%E6%9C%9F.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方、小売業は売上額は前期比 1.8 ポイント低下したが、採算は 1.5 ポイント、",
+    "url": "https://www.kumashoko.or.jp/kuma-wp/wp-content/uploads/2025/04/%E5%85%A8%E5%9B%BD%E9%80%A3%E7%89%882026%E5%B9%B41-3%E6%9C%88%E6%9C%9F.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "全 6 業種のうち売上額は 2 業種のみだったが、採算は 4、資金繰りでは 3 業種と",
+    "url": "https://www.kumashoko.or.jp/kuma-wp/wp-content/uploads/2025/04/%E5%85%A8%E5%9B%BD%E9%80%A3%E7%89%882026%E5%B9%B41-3%E6%9C%88%E6%9C%9F.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "続くサービス業は売上額が前期比 2.5 ポ",
+    "url": "https://www.kumashoko.or.jp/kuma-wp/wp-content/uploads/2025/04/%E5%85%A8%E5%9B%BD%E9%80%A3%E7%89%882026%E5%B9%B41-3%E6%9C%88%E6%9C%9F.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業種別でみても、前回より改善したのは全 6 業種のうち「自動車整備業」の売上",
+    "url": "https://www.kumashoko.or.jp/kuma-wp/wp-content/uploads/2025/04/%E5%85%A8%E5%9B%BD%E9%80%A3%E7%89%882026%E5%B9%B41-3%E6%9C%88%E6%9C%9F.pdf",
+    "pass": 3
+   }
+  ],
+  "社数（規模別）": [
+   {
+    "quote": "２．対象企業数 商工会地区の約 8,000 企業",
+    "url": "https://www.kumashoko.or.jp/kuma-wp/wp-content/uploads/2025/04/%E5%85%A8%E5%9B%BD%E9%80%A3%E7%89%882026%E5%B9%B41-3%E6%9C%88%E6%9C%9F.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．回答企業数 7,905 企業（回答率 98.8％）",
+    "url": "https://www.kumashoko.or.jp/kuma-wp/wp-content/uploads/2025/04/%E5%85%A8%E5%9B%BD%E9%80%A3%E7%89%882026%E5%B9%B41-3%E6%9C%88%E6%9C%9F.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（２） 従業員数別企業数",
+    "url": "https://www.kumashoko.or.jp/kuma-wp/wp-content/uploads/2025/04/%E5%85%A8%E5%9B%BD%E9%80%A3%E7%89%882026%E5%B9%B41-3%E6%9C%88%E6%9C%9F.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（１）業種別（中分類）企業数",
+    "url": "https://www.kumashoko.or.jp/kuma-wp/wp-content/uploads/2025/04/%E5%85%A8%E5%9B%BD%E9%80%A3%E7%89%882026%E5%B9%B41-3%E6%9C%88%E6%9C%9F.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smrj.go.jp/research_case/survey/fbrion0000002oup-att/185_42_seizogyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shinkin.co.jp/kanazawa/assets/pdf/houjin/soudan/kinshin189.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.aichi.jp/soshiki/sangyo-seisaku/keikyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.works-i.com/column/labor-market/detail004.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smrj.go.jp/research_case/survey/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.douyukai.or.jp/dor/2025/07/dor-53250.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/nagasaki-roudoukyoku/content/contents/shiryou5-2-26101502.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fukushima-cci.or.jp/wp-content/uploads/2014/05/h26-keikyoucyousa.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/data/chushou/keikyou",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/185sokuhou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://saikicci.or.jp/wp-content/uploads/2026/09/3e77fd99647465c9c74a7ffa3fb0121b.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kumashoko.or.jp/kuma-wp/wp-content/uploads/2025/04/%E5%85%A8%E5%9B%BD%E9%80%A3%E7%89%882026%E5%B9%B41-3%E6%9C%88%E6%9C%9F.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.gifushoko.or.jp/wp/wp-content/uploads/2024/01/%E7%AC%AC178%E5%9B%9E%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E6%99%AF%E6%B3%81%E8%AA%BF%E6%9F%BB%E5%A0%B1%E5%91%8A%E6%9B%B8%E3%80%902023%E5%B9%B410-12%E6%9C%88%E6%9C%9F%E3%80%91-.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.oita-shokokai.or.jp/dev/wp-content/uploads/2026/03/k24_4-6_report.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.suginami.tokyo.jp/documents/6190/keikyou-061012.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://chuokai-fukuoka.or.jp/info/newsfukuoka/201608/16081811241857b51pdf_path_1.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.seri.or.jp/news/news_2021.12.23-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www5.cao.go.jp/j-j/cr/cr07/chr07_1-2-5.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.bunkyo.lg.jp/documents/9197/0610-0612.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chuokai.or.jp/index.php/13574/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osaka-ue.ac.jp/file/general/25705",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.taito.lg.jp/bunka_kanko/sangyotokei/sangyo_plan/keikyo.files/keikyohoukoku.2026.4-6.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://hikawanet.com/wp-content/uploads/%E7%AC%AC181%E5%9B%9E%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E6%99%AF%E6%B3%81%E8%AA%BF%E6%9F%BB%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%882025%E5%B9%B47-9%E6%9C%88%E6%9C%9F%EF%BC%89%E3%80%88%E8%A3%BD%E9%80%A0%E6%A5%AD%E7%B7%A8%E3%80%89.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.shinguumachi.or.jp/wordpress/wp-content/uploads/2026/07/%E7%AC%AC184%E5%9B%9E%EF%BC%882026%E5%B9%B44-6%E6%9C%88%E6%9C%9F%EF%BC%89%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E6%99%AF%E6%B3%81%E8%AA%BF%E6%9F%BB_%E8%A3%BD%E9%80%A0%E6%A5%AD.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/smseach2026_10.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.aichi.jp/uploaded/attachment/611793.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hakusanshinkin.co.jp/hojin/hojin_menu/keikichosa/pdf/goudou_29.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.metro.tokyo.lg.jp/information/press/2026/02/2026022403",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chushin.co.jp/cms_source/files/20260929260.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "中小企業景況調査 製造業 経営上の問題点 最新期（中小機構の原表・求人難の割合・4-122）",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "https://www.smrj.go.jp/research_case/survey/fbrion0000002oup-att/185_42_seizogyo.pdf",
+    "https://www.shinkin.co.jp/kanazawa/assets/pdf/houjin/soudan/kinshin189.pdf",
+    "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "https://www.pref.aichi.jp/soshiki/sangyo-seisaku/keikyo.html",
+    "https://www.works-i.com/column/labor-market/detail004.html",
+    "https://www.smrj.go.jp/research_case/survey/",
+    "https://www.douyukai.or.jp/dor/2025/07/dor-53250.html",
+    "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index_gaiyo.html",
+    "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/185sokuhou.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "中小企業景況調査 製造業 経営上の問題点 最新期（中小機構の原表・求人難の割合・4-122） 調査 PDF",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "https://www.smrj.go.jp/research_case/survey/fbrion0000002oup-att/185_42_seizogyo.pdf",
+    "https://www.shinkin.co.jp/kanazawa/assets/pdf/houjin/soudan/kinshin189.pdf",
+    "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "https://www.pref.aichi.jp/soshiki/sangyo-seisaku/keikyo.html",
+    "https://www.shokochukin.co.jp/report/data/",
+    "https://www.smrj.go.jp/research_case/survey/",
+    "https://www.douyukai.or.jp/dor/2025/07/dor-53250.html",
+    "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "中小企業景況調査 製造業 経営上の問題点 最新期（中小機構の原表・求人難の割合・4-122） 厚生労働省",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "https://www.smrj.go.jp/research_case/survey/fbrion0000002oup-att/185_42_seizogyo.pdf",
+    "https://jsite.mhlw.go.jp/nagasaki-roudoukyoku/content/contents/shiryou5-2-26101502.pdf",
+    "https://www.shinkin.co.jp/kanazawa/assets/pdf/houjin/soudan/kinshin189.pdf",
+    "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "https://www.fukushima-cci.or.jp/wp-content/uploads/2014/05/h26-keikyoucyousa.pdf",
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/data/chushou/keikyou",
+    "https://www.works-i.com/column/labor-market/detail004.html",
+    "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "https://www.smrj.go.jp/research_case/survey/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "中小企業景況調査 製造業 経営上の問題点 最新期（中小機構の原表・求人難の割合・4-122） 規模別 万円",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "https://www.smrj.go.jp/research_case/survey/",
+    "https://www.gifushoko.or.jp/wp/wp-content/uploads/2024/01/%E7%AC%AC178%E5%9B%9E%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E6%99%AF%E6%B3%81%E8%AA%BF%E6%9F%BB%E5%A0%B1%E5%91%8A%E6%9B%B8%E3%80%902023%E5%B9%B410-12%E6%9C%88%E6%9C%9F%E3%80%91-.pdf",
+    "https://www.oita-shokokai.or.jp/dev/wp-content/uploads/2026/03/k24_4-6_report.pdf",
+    "https://www.shinkin.co.jp/kanazawa/assets/pdf/houjin/soudan/kinshin189.pdf",
+    "https://www.city.suginami.tokyo.jp/documents/6190/keikyou-061012.pdf",
+    "https://chuokai-fukuoka.or.jp/info/newsfukuoka/201608/16081811241857b51pdf_path_1.pdf",
+    "https://www.seri.or.jp/news/news_2021.12.23-1.pdf",
+    "https://www5.cao.go.jp/j-j/cr/cr07/chr07_1-2-5.html",
+    "http://www.shinguumachi.or.jp/wordpress/wp-content/uploads/2026/05/中小企業景況調査報告書_2026年1-3月期_製造業編.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "中小企業景況調査 製造業 経営上の問題点 最新期（中小機構の原表・求人難の割合・4-122） 製造業 事例",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "https://www.smrj.go.jp/research_case/survey/fbrion0000002oup-att/185_42_seizogyo.pdf",
+    "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "https://www.shinkin.co.jp/kanazawa/assets/pdf/houjin/soudan/kinshin189.pdf",
+    "https://www.city.bunkyo.lg.jp/documents/9197/0610-0612.pdf",
+    "https://www.chuokai.or.jp/index.php/13574/",
+    "https://www.city.suginami.tokyo.jp/documents/6190/keikyou-061012.pdf",
+    "https://www.osaka-ue.ac.jp/file/general/25705",
+    "https://www.city.taito.lg.jp/bunka_kanko/sangyotokei/sangyo_plan/keikyo.files/keikyohoukoku.2026.4-6.pdf",
+    "https://www.smrj.go.jp/research_case/survey/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "中小企業景況調査 製造業 経営上の問題点 最新期（中小機構の原表・求人難の割合・4-122） 2025 OR 2026",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "https://www.smrj.go.jp/research_case/survey/fbrion0000002oup-att/185_42_seizogyo.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/smseach2026_10.pdf",
+    "https://www.shinkin.co.jp/kanazawa/assets/pdf/houjin/soudan/kinshin189.pdf",
+    "https://www.pref.aichi.jp/uploaded/attachment/611793.pdf",
+    "https://www.hakusanshinkin.co.jp/hojin/hojin_menu/keikichosa/pdf/goudou_29.pdf",
+    "https://www.metro.tokyo.lg.jp/information/press/2026/02/2026022403",
+    "https://www.chushin.co.jp/cms_source/files/20260929260.pdf",
+    "https://www.smrj.go.jp/research_case/survey/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:note.com 中小企業景況調査 製造業 経営上の問題点 最新期（中小機構の原表・求人難の割合・4-122）",
+   "results": [
+    "https://note.com/fir_institute/n/ne55f7b1218fb",
+    "https://note.com/shiranuhigyosei/n/nc70db5758f13",
+    "https://note.com/kens_reading1/n/n9d4afdd81a29",
+    "https://note.com/wasetsuan_kthm/n/n19ff7e27e522",
+    "https://note.com/y44901726/n/n29483099cda3",
+    "https://note.com/shin_tigerjet/n/n6df1c1c68b9f",
+    "https://note.com/tatsuya_sabato/n/nfcfddddb66d8",
+    "https://note.com/one_seed_office/n/n72cc9a8e2623",
+    "https://note.com/shiny_moraea618/n/n3786cff5bc6f",
+    "https://note.com/y44901726/n/ndac0365a7d6c"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 中小企業景況調査 製造業 経営上の問題点 最新期（中小機構の原表・求人難の割合・4-122）",
+   "results": [
+    "https://x.com/amusement_japan/status/2115989899396739404",
+    "https://x.com/keizaireport",
+    "https://x.com/cao_keizai",
+    "https://x.com/i/status/2092790514261364988",
+    "https://x.com/nerisapo2020",
+    "https://x.com/TKC_koushiki",
+    "https://x.com/J_marketing_net",
+    "https://x.com/naohat23",
+    "https://x.com/innoshima_cci",
+    "https://x.com/NNAASIA"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:linkedin.com 中小企業景況調査 製造業 経営上の問題点 最新期（中小機構の原表・求人難の割合・4-122）",
+   "results": [
+    "https://jp.linkedin.com/in/yu-hiraoka-9631a1109",
+    "https://jp.linkedin.com/in/%E6%85%8E%E5%8F%B8-%E4%BB%99%E6%B3%A2-47bb12a2",
+    "https://jp.linkedin.com/in/%E5%98%89%E6%B5%A9-%E4%BC%8A%E8%97%A4-78856468",
+    "https://jp.linkedin.com/posts/yutaka-watanabe-19732912b_中小企業庁及び中小機構が中小企業景況調査報告第184回2026年4-6月期調査結果-activity-7480451810965483521-X-7F",
+    "https://www.linkedin.com/pulse/利益が出ているから大丈夫が一番危ない-製造業経営者が見るべき5つの数字-美徳-鈴木-fwsbe/",
+    "https://www.linkedin.com/pulse/製造業経営rd投資潜在ニーズ発掘知財ガバナンスで捉える企業の永続的成長-美徳-鈴木-bne8c/",
+    "https://jp.linkedin.com/posts/naruhiro-seya-a66281342_日本の製造業が長年築き上げてきた現場力や品質力-今それが組織のあちこちで-activity-7465205137754492928-s1Rd",
+    "https://jp.linkedin.com/posts/美徳-鈴木-376180160_製造業の経営16コンプライアンスなぜ今現場とガバナンスの構造改革が必要-activity-7490710603800473602-smnA",
+    "https://jp.linkedin.com/posts/funaisoken_売上77億の業界トップが語る2025年の展望製造業編-activity-7282321235709980672-zQkG",
+    "https://jp.linkedin.com/posts/kpmg-jp_kpmgグローバルceo調査2025製造自動車業界-activity-7449343464502358016-cCSR"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:facebook.com 中小企業景況調査 製造業 経営上の問題点 最新期（中小機構の原表・求人難の割合・4-122）",
+   "results": [
+    "https://www.facebook.com/kajimaya.asako/photos/%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E8%AA%BF%E6%9F%BB%E5%A4%A7%E5%90%8C%E7%94%9F%E5%91%BD%E3%82%B5%E3%83%BC%E3%83%99%E3%82%A4-2020%E5%B9%B46%E6%9C%88%E5%BA%A6%E8%AA%BF%E6%9F%BB%E7%B5%90%E6%9E%9C%E6%96%B0%E5%9E%8B%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E3%81%AB%E3%82%88%E3%82%8B%E8%B3%87%E9%87%91%E7%B9%B0%E3%82%8A%E3%81%B8%E3%81%AE%E5%BD%B1%E9%9F%BF%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AFfacebook%E3%83%81%E3%83%BC%E3%83%A0%E3%81%AE%E5%B1%B1%E5%8F%A3%E3%81%A7%E3%81%99%E5%BD%93%E7%A4%BE%E3%81%A7%E3%81%AF%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AE%E6%99%AF%E6%B3%81%E6%84%9F/4037048973033529/",
+    "https://www.facebook.com/smrjpr/?locale=ja_JP",
+    "https://www.facebook.com/kwbr.cpa/",
+    "https://www.facebook.com/chuokai.shiga/",
+    "https://www.facebook.com/miharacci/?locale=ja_JP",
+    "https://www.facebook.com/smrjchubu/?locale=ja_KS",
+    "https://www.facebook.com/miharacci/posts/%E5%85%AC%E8%B2%A1%E3%81%B2%E3%82%8D%E3%81%97%E3%81%BE%E7%94%A3%E6%A5%AD%E6%8C%AF%E8%88%88%E6%A9%9F%E6%A7%8B-%E4%B8%BB%E5%82%AC%E5%BA%83%E5%B3%B6%E7%9C%8C%E5%86%85%E3%81%AE%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E4%BC%81%E6%A5%AD%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E7%9A%86%E6%A7%98%E3%82%92%E5%AF%BE%E8%B1%A1%E3%81%AB%E7%9C%8C%E5%A4%96%E5%A4%A7%E6%89%8B%E4%BC%81%E6%A5%AD%E3%81%A8%E3%81%AE%E6%96%B0%E3%81%9F%E3%81%AA%E5%8F%96%E5%BC%95%E3%81%AE%E7%8D%B2%E5%BE%97%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E6%96%B0%E5%B8%82%E5%A0%B4%E9%96%8B%E6%8B%93%E5%AE%9F%E8%B7%B5%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E5%9E%8B%E8%B2%A9%E8%B7%AF%E9%96%8B%E6%8B%93%E6%8B%A1/1417829633810595/",
+    "https://www.facebook.com/minamiaizushokokai/?locale=ja_JP",
+    "https://www.facebook.com/nihonmiraiken/",
+    "https://www.facebook.com/miharacci/photos/zoom%E4%BD%BF%E7%94%A8%E7%B5%8C%E5%96%B6%E5%AE%89%E5%AE%9A%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E9%80%86%E5%A2%83%E3%81%AB%E8%B2%A0%E3%81%91%E3%81%AA%E3%81%84-%E5%BC%B7%E3%81%84%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AE%E5%9C%A8%E3%82%8A%E6%96%B9with%E3%82%B3%E3%83%AD%E3%83%8Aafter%E3%82%B3%E3%83%AD%E3%83%8A%E3%81%AE%E6%99%82%E4%BB%A3%E3%81%AB%E5%90%91%E3%81%91%E3%81%A6-1117%E7%81%AB%E9%96%8B%E5%82%AC-%E4%BA%AC%E9%83%BD%E3%81%A71%E6%97%A5100%E9%A3%9F%E9%99%90%E5%AE%9A%E3%81%AE%E3%81%8A%E5%BA%97%E4%BD%B0%E9%A3%9F%E5%B1%8B/3521883517834922/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "中小企業景況調査 製造業 経営上の問題点 最新期（中小機構の原表・求人難の割合・4-122） note 社長",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "https://www.smrj.go.jp/research_case/survey/fbrion0000002oup-att/185_42_seizogyo.pdf",
+    "https://www.shinkin.co.jp/kanazawa/assets/pdf/houjin/soudan/kinshin189.pdf",
+    "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "https://note.com/fir_institute/n/ne55f7b1218fb",
+    "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "https://www.works-i.com/column/labor-market/detail004.html",
+    "https://note.com/syacyo_otasuke/n/nd98e36229cfe",
+    "https://www.tokyo-cci.or.jp/page.jsp?id=1206333",
+    "https://www.smrj.go.jp/research_case/survey/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "中小企業景況調査 製造業 経営上の問題点 最新期（中小機構の原表・求人難の割合・4-122） X 投稿",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "https://www.smrj.go.jp/research_case/survey/",
+    "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "https://yokosukacci.com/yokosukahot/docs/fd181808186cfbd07a037309cb3607ff42b58e14.pdf",
+    "https://www.works-i.com/column/labor-market/detail004.html",
+    "https://www.youtube.com/watch?v=HmVOVBfAg8Q",
+    "http://www.hokusei-shinkin.co.jp/hotnews/files/pdf/1635.pdf",
+    "https://www.douyukai.or.jp/dor/2025/07/dor-53250.html",
+    "https://www.metro.tokyo.lg.jp/information/press/2026/02/2026022403",
+    "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/185sokuhou.pdf"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "SME business conditions survey manufacturing management problems labor shortage latest site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/growing-complexity-running-sme-2025s-biggest-louann-conner-bl6gc",
+    "https://www.linkedin.com/pulse/closing-europes-skills-gap-why-one-solution-fit-every-business-w7kzf",
+    "https://www.linkedin.com/posts/west-yorkshire-manufacturing-services_skills-smes-policy-activity-7422254668820615169-K736",
+    "https://uk.linkedin.com/in/mr-nathan-palmer",
+    "https://www.linkedin.com/posts/angelina-cannizzaro-69131b31_this-is-a-great-summary-of-the-main-take-activity-7506340029686882305-t9eF",
+    "https://www.linkedin.com/posts/andreaglorioso_one-of-the-latest-projects-ive-been-coordinating-activity-7520722842284396544-6kNG",
+    "https://www.linkedin.com/pulse/uk-graduate-labour-market-news-15th-june-charlie-ball",
+    "https://ua.linkedin.com/in/oksana-kuziakiv-6029934",
+    "https://www.linkedin.com/posts/memorynguwi_what-human-capital-capabilities-must-zimbabwe-activity-7509837658366500864-Kc70",
+    "https://mc.linkedin.com/in/edoardo-colman-699a6aa7"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "採用難（公的統計）": "記載なし（読んだ35頁・検索13回）",
+  "採用にいくら払うか": "記載なし（読んだ35頁・検索13回）",
+  "採用広報・採用サイトの単価": "記載なし（読んだ35頁・検索13回）",
+  "作る側の原価": "記載なし（読んだ35頁・検索13回）"
+ }
+}

@@ -1,0 +1,450 @@
+{
+ "name": "MULTI3D — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:advanced-materials-manufacturer",
+ "researched_at": "2026-11-09T18:27:29.634472+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Tess Boissonneault - Freelance Content Writer, Editor | LinkedInMULTI3DPRINT - LinkedInResearchers use multi-material 3D printing to customize food ...Boom Supersonic uses EOS 3D printing for aerospace partsDavide Sher - Co-founder and CEO at VoxelMatters | LinkedIn Freelance Content Writer, Editor · Experience: VoxelMatters · Education: University of Amsterdam · Location: Montreal · 500+ connecti",
+    "url": "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a",
+    "pass": 3
+   },
+   {
+    "quote": "Shengrong Ye - Multi3D Inc | LinkedIn加藤貞顕 - WikipediaDavide Sher - Co-founder and CEO at VoxelMatters | LinkedInAbout | VoxelMatters - The heart of additive manufacturingMulti3D 2026 Company Profile: Valuation, Funding & Investors ...Articles by Voxel Matters’s Profile | VoxelMatters ... Feb 12, 2016 · Shengrong Ye is the founder of Multi3D, Inc. (www.multi3dmaterials.com), based in… 加藤貞顕 加藤 貞顕 （か",
+    "url": "https://www.linkedin.com/in/shengrong-ye-27462132",
+    "pass": 3
+   },
+   {
+    "quote": "Davide Sher - Co-founder and CEO at VoxelMatters | LinkedInAbout | VoxelMatters - The heart of additive manufacturingMulti3D 2026 Company Profile: Valuation, Funding & Investors ...Articles by Voxel Matters’s Profile | VoxelMatters ... Apr 26, 2022 · As a journalist and entrepreneur with a passion for additive manufacturing (AM) and its potential to transform the world, I co-founded VoxelMatters, ",
+    "url": "https://it.linkedin.com/in/davide-sher",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookVoxelMatters on Reels | FacebookMulti3D - FacebookVoxelMatters Early H3C Unboxing - FacebookVoxelMatters - From top precious metal AM powders to 3D...Additive manufacturing is creating new solutions for hard-to ...VoxelMatters - Risks come from the dark web, not 3D... - Facebook Unlock the Future of Metal Additive Manufacturing with VoxelMatters! VoxelMatters Research has ki",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.multi3dllc.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meta.com/jp/retailers/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://store.azone.biz/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3day-printer.com/media/explanation/3d-printer-resin/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.mercari.com/shops/product/2JWrz9sikFjeJfQm4vptaD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/%E3%83%AC%E3%82%B8%E3%83%B3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.multi3dllc.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japanesedistributors.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/search/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan-partner.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japanesedistributors.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/usa/investinjapan/j-bridge.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/SNIDEL-%E3%82%B9%E3%83%8A%E3%82%A4%E3%83%87%E3%83%AB-SWNO261061-%E3%82%B7%E3%82%A2%E3%83%BC%E3%82%A4%E3%83%AC%E3%83%98%E3%83%A0%E3%83%8B%E3%83%83%E3%83%88%E3%82%B3%E3%83%B3%E3%83%93%E3%83%AF%E3%83%B3%E3%83%94%E3%83%BC%E3%82%B9SWNO261061%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B9/dp/B0GCC67819",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://business.amazon.co.jp/ja/solutions/payment-options/pay-by-invoice",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shigoto.amazon.co.jp/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://kdp.amazon.co.jp/ja_JP",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/0807/1707/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/0.4kw+4P+200V/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/g/02608575/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.konaequity.com/company/multi3d-4860283314/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://rocketreach.co/multi3d-inc-profile_b42adabffe02a882",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/233214-13",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/shengrong-ye-27462132",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://it.linkedin.com/in/davide-sher",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "MULTI3D — VoxelMatters 代理店",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "MULTI3D — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "MULTI3D — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.multi3dllc.com/",
+    "https://www.meta.com/jp/retailers/",
+    "https://store.azone.biz/",
+    "https://www.am-teams.com/distribution/",
+    "https://www.msn.com/ja-jp/news/other/jr西日本-忘れ物のビニール傘を再び-傘-に-10月26日から15店舗で販売-価格は/ar-AA2g2mgP",
+    "https://3d-modely.com/blog/3d-cg/3d-data-online-sale/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MULTI3D — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://skhonpo.com/",
+    "https://3day-printer.com/media/explanation/3d-printer-resin/",
+    "https://jp.mercari.com/shops/product/2JWrz9sikFjeJfQm4vptaD",
+    "https://www.monotaro.com/k/store/レジン/",
+    "https://www.monotaro.com/g/07636225/",
+    "https://jp.daisonet.com/collections/handmade0243",
+    "https://voxelpla.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MULTI3D — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.multi3dllc.com/",
+    "https://japanesedistributors.com/",
+    "https://www.voxelmatters.directory/search/",
+    "https://www.voxelmatters.report/database/",
+    "https://www.voxelmatters.directory/",
+    "https://www.am-teams.com/distribution/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MULTI3D — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.japan-partner.com/",
+    "https://japanesedistributors.com/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.jetro.go.jp/usa/investinjapan/j-bridge.html",
+    "https://vietnamnews.vn/economy/1803879/pan-group-japanese-partner-join-hands-to-modernise-agriculture.html",
+    "https://www.japan-partner.com/stocklist.html",
+    "https://www.marinelink.com/news/demosath-floating-wind-project-enters-new-543787"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:amazon.co.jp MULTI3D — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/SNIDEL-スナイデル-SWNO261061-シアーイレヘムニットコンビワンピースSWNO261061レディース/dp/B0GCC67819",
+    "https://business.amazon.co.jp/ja/solutions/payment-options/pay-by-invoice",
+    "https://shigoto.amazon.co.jp/",
+    "https://kdp.amazon.co.jp/ja_JP",
+    "https://www.cdn.amazon.co.jp/b?ie=UTF8&node=3211799051",
+    "https://business.amazon.co.jp/ja/login",
+    "https://www.amazon.co.jp/Matters-Traces-Codes-Afar-Headphone/dp/B0FD4B3F67"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com MULTI3D — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/p/0807/1707/",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/k/store/0.4kw+4P+200V/",
+    "https://www.monotaro.com/g/02608575/",
+    "https://www.monotaro.com/s/c-23764/",
+    "https://www.monotaro.com/g/00011859/",
+    "https://www.monotaro.com/g/01201596/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MULTI3D — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.konaequity.com/company/multi3d-4860283314/",
+    "https://rocketreach.co/multi3d-inc-profile_b42adabffe02a882",
+    "https://pitchbook.com/profiles/company/233214-13",
+    "https://www.voxelmatters.com/",
+    "https://www.multi3dmaterials.com/about",
+    "https://www.voxelmatters.com/category/money/financials/",
+    "https://www.cbinsights.com/company/multi3d",
+    "https://www.cbinsights.com/company/voxelmatters"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:note.com MULTI3D — VoxelMatters",
+   "results": [
+    "https://note.com/seigo77",
+    "https://note.com/kagawatomo/n/nf65a446ed216",
+    "https://note.com/npaka/n/nde5589d13536?hl=en",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/watarutida/n/n75017e960add",
+    "https://note.com/sj_2020/n/n494c87da7182",
+    "https://note.com/snapreplica/n/nbaafc4e308eb"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com MULTI3D — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/multi3d",
+    "https://x.com/multi3d2025",
+    "https://x.com/hashtag/Multi3D",
+    "https://x.com/hashtag/Multi3D?f=user",
+    "https://x.com/",
+    "https://x.com/isaiahrmartin/status/2117871814625972663"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com MULTI3D — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://www.linkedin.com/company/multi3d",
+    "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a",
+    "https://in.linkedin.com/company/multi-3d-print",
+    "https://www.linkedin.com/pub/dir/davide/sher",
+    "https://www.linkedin.com/posts/voxelmatters_researchers-use-multi-material-3d-printing-activity-7236342135032090625-MSIb",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7338097629962153986/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com MULTI3D — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/VoxelMatters/videos/2155326438344264/",
+    "https://www.facebook.com/100083550698904/",
+    "https://www.facebook.com/groups/h3cgroup/posts/1189777390376319/",
+    "https://www.facebook.com/VoxelMatters/posts/from-top-precious-metal-am-powders-to-3d-printed-custom-footwear-welcome-to-the-/716625425176252/",
+    "https://www.facebook.com/VoxelMatters/posts/risks-come-from-the-dark-web-not-3d-printing-we-spoke-with-giacomo-persi-paoli-a/1003064873198971/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-creating-new-solutions-for-hard-to-source-replacement-/893346590210455/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MULTI3D — VoxelMatters note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.voxelmatters.com/",
+    "https://www.linkedin.com/in/shengrong-ye-27462132",
+    "https://it.linkedin.com/in/davide-sher",
+    "https://www.voxelmatters.com/about/",
+    "https://pitchbook.com/profiles/company/233214-13",
+    "https://muckrack.com/voxel-matters/articles"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MULTI3D — VoxelMatters X 投稿",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/multi3d",
+    "https://www.youtube.com/@voxelmatters",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.voxelmatters.com/",
+    "https://x.com/VoxelMatters/status/2117922086492508517",
+    "https://x.com/muteless_vrc/status/2119731723961348441"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）"
+ }
+}

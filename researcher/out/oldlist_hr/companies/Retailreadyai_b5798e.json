@@ -1,0 +1,750 @@
+{
+ "name": "Retailreadyai",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AUMS不適合",
+ "researched_at": "2026-11-09T18:24:02.662431+00:00",
+ "official_url": "https://www.retailreadyai.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Use approved packaging",
+    "url": "https://www.retailreadyai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "When something goes wrong, the proof is already there",
+    "url": "https://www.retailreadyai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every order ships with proof",
+    "url": "https://www.retailreadyai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Threshold Enterprises",
+    "url": "https://www.retailreadyai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Customers come and say, 'Hey, we're going into Target. We're going into Sprouts, Ulta.' And there's no hesitation. We can just say, 'Yeah, we can do that.'\"",
+    "url": "https://www.retailreadyai.com/",
+    "pass": 1
+   },
+   {
+    "quote": ". Either way, our team coordinates with your 3PL, retailers and EDI provider from kickoff through go-live.",
+    "url": "https://www.retailreadyai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Setup on our side takes less than two weeks. Each retailer then runs its own testing period, which can take a few days or up to about 15 business days. Please note that net new WMS or ERP integrations can increase time to go live, usually by about two weeks. Every implementation includes a kickoff call, warehouse training and a review after your first orders ship.",
+    "url": "https://www.retailreadyai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. We support regional chains like Scheels, Von Maur and Hy-Vee, and distributors like KeHE and UNFI. For retailers that don’t use EDI, we provide a manual workflow that still produces compliant labels and packing instructions. Any retailer not already on the platform can be requested at any time.",
+    "url": "https://www.retailreadyai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Is there variable pricing?",
+    "url": "https://www.retailreadyai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "No. RetailReady doesn’t charge per document, per transaction or per user. Pricing is tailored to your business, based on your retailer connections and the modules you choose: EDI, packout compliance, chargeback recovery, or the full suite. Per-connection rates drop as you add retailers, and plans are typically annual with unlimited users.",
+    "url": "https://www.retailreadyai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "RetailReady prevents chargebacks at packout and disputes the ones that still happen. Every order comes with a compliance report, including carton dimensions, label images, and pallet and BOL photos, which our AI agents use as evidence. Brands keep 100% of recovered funds, and we’ll audit your last 30 days of chargebacks for free. See how",
+    "url": "https://www.retailreadyai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How is RetailReady different from legacy EDI providers?",
+    "url": "https://www.retailreadyai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Legacy EDI providers like SPS Commerce are built mainly to move documents between suppliers and retailers. RetailReady handles EDI too, plus packout compliance and AI-powered chargeback disputes, all on one platform. There are no per-document fees, and our team manages retailer testing for you. We can also run alongside your current provider while you move retailers over in phases.",
+    "url": "https://www.retailreadyai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "bottles. They are young, hungry, and eager to win. I respect that energy. I’m big on giving credit where it’s earned. Early on, I’m impressed by both what they’ve built and how they operate.",
+    "url": "https://www.retailreadyai.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Supergoop! VP of Operations | Supply Chain Oversight | Inventory Forecasting & Management | Demand Planning | 3PL Oversight | Team Management | Continuous Improvement | Cost Optimization | Negotiation",
+    "url": "https://www.retailreadyai.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Monday morning I'm having a conversation about how manual chargeback disputes still are in fulfillment — brand goes to warehouse, warehouse pulls paperwork, someone crafts a response, uploads into retailer portals... rinse and repeat. My take? AI will get there, but we're not there yet. 🤷‍♀️",
+    "url": "https://www.retailreadyai.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": ". Either way, our team coordinates with your 3PL, retailers and EDI provider from kickoff through go-live.",
+    "url": "https://www.retailreadyai.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Setup on our side takes less than two weeks. Each retailer then runs its own testing period, which can take a few days or up to about 15 business days. Please note that net new WMS or ERP integrations can increase time to go live, usually by about two weeks. Every implementation includes a kickoff call, warehouse training and a review after your first orders ship.",
+    "url": "https://www.retailreadyai.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. We support regional chains like Scheels, Von Maur and Hy-Vee, and distributors like KeHE and UNFI. For retailers that don’t use EDI, we provide a manual workflow that still produces compliant labels and packing instructions. Any retailer not already on the platform can be requested at any time.",
+    "url": "https://www.retailreadyai.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Is there variable pricing?",
+    "url": "https://www.retailreadyai.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "No. RetailReady doesn’t charge per document, per transaction or per user. Pricing is tailored to your business, based on your retailer connections and the modules you choose: EDI, packout compliance, chargeback recovery, or the full suite. Per-connection rates drop as you add retailers, and plans are typically annual with unlimited users.",
+    "url": "https://www.retailreadyai.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "RetailReady prevents chargebacks at packout and disputes the ones that still happen. Every order comes with a compliance report, including carton dimensions, label images, and pallet and BOL photos, which our AI agents use as evidence. Brands keep 100% of recovered funds, and we’ll audit your last 30 days of chargebacks for free. See how",
+    "url": "https://www.retailreadyai.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How is RetailReady different from legacy EDI providers?",
+    "url": "https://www.retailreadyai.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Legacy EDI providers like SPS Commerce are built mainly to move documents between suppliers and retailers. RetailReady handles EDI too, plus packout compliance and AI-powered chargeback disputes, all on one platform. There are no per-document fees, and our team manages retailer testing for you. We can also run alongside your current provider while you move retailers over in phases.",
+    "url": "https://www.retailreadyai.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Every new account brings more EDI, fulfillment rules, and ways for something to go wrong. Brands end up stitching together systems, warehouse partners, spreadsheets, and people just to keep up.",
+    "url": "https://www.retailreadyai.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We saw the same problem from inside the supply chain industry and started RetailReady to build a better way.",
+    "url": "https://www.retailreadyai.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "A Duke Engineering graduate, Elle's journey through BlackRock and later as a Product Leader at Stord showcases her blend of corporate expertise and startup innovation. While at Stord, she played a key role in product development during its rise to unicorn status.",
+    "url": "https://www.retailreadyai.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Elle's vision for RetailReady centers on transforming reactive compliance into proactive solutions, developing guided workflows that streamline operations for brands, 3PLs, and retailers alike.",
+    "url": "https://www.retailreadyai.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "A Georgia Tech Industrial Engineering graduate, Sarah began her journey at Microsoft before becoming a Strategy Associate to the CTO at Stord. Her expertise in supply chain software solutions and passion for practical innovation drives RetailReady's technical vision.",
+    "url": "https://www.retailreadyai.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Sarah loves transforming retail compliance through AI-powered solutions, focusing on eliminating manual processes and introducing new standards of efficiency in the industry.",
+    "url": "https://www.retailreadyai.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "RetailReady Company Profile and Key Stats",
+    "url": "https://fundediq.co/retailready-retailreadyai-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "AngelEye provides a complete HIPAA-compliant tele-engagement platform to integrate parents simply and…",
+    "url": "https://fundediq.co/retailready-retailreadyai-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "HappyCo is taking traditional paper based processes out of the dark ages. HappyCo develops software for…",
+    "url": "https://fundediq.co/retailready-retailreadyai-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "ChatBox is a simple, scalable solution for communicating with customers in their preferred medium —…",
+    "url": "https://fundediq.co/retailready-retailreadyai-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "K Health is a digital primary care app that uses AI to provide personalized healthcare based on data…",
+    "url": "https://fundediq.co/retailready-retailreadyai-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Fly.io offers an Application Delivery Network (ADN) expected to assist site proprietors with getting…",
+    "url": "https://fundediq.co/retailready-retailreadyai-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "FundedIQ tracks announced funding rounds and refreshes this profile every week. Round dates,",
+    "url": "https://fundediq.co/retailready-retailreadyai-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Radar from $49/mo · Pro from $149/mo. Card required, nothing charged until",
+    "url": "https://fundediq.co/retailready-retailreadyai-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/retailreadyai.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/retailreadyai.com",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Burlington Coat Factory",
+    "url": "https://www.retailreadyai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sportsman's Warehouse",
+    "url": "https://www.retailreadyai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Use your own warehouse, your existing 3PLs,",
+    "url": "https://www.retailreadyai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Setup on our side takes less than two weeks. Each retailer then runs its own testing period, which can take a few days or up to about 15 business days. Please note that net new WMS or ERP integrations can increase time to go live, usually by about two weeks. Every implementation includes a kickoff call, warehouse training and a review after your first orders ship.",
+    "url": "https://www.retailreadyai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "came to visit our warehouse this yesterday.",
+    "url": "https://www.retailreadyai.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Monday morning I'm having a conversation about how manual chargeback disputes still are in fulfillment — brand goes to warehouse, warehouse pulls paperwork, someone crafts a response, uploads into retailer portals... rinse and repeat. My take? AI will get there, but we're not there yet. 🤷‍♀️",
+    "url": "https://www.retailreadyai.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Setup on our side takes less than two weeks. Each retailer then runs its own testing period, which can take a few days or up to about 15 business days. Please note that net new WMS or ERP integrations can increase time to go live, usually by about two weeks. Every implementation includes a kickoff call, warehouse training and a review after your first orders ship.",
+    "url": "https://www.retailreadyai.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Every new account brings more EDI, fulfillment rules, and ways for something to go wrong. Brands end up stitching together systems, warehouse partners, spreadsheets, and people just to keep up.",
+    "url": "https://www.retailreadyai.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "A Georgia Tech Industrial Engineering graduate, Sarah began her journey at Microsoft before becoming a Strategy Associate to the CTO at Stord. Her expertise in supply chain software solutions and passion for practical innovation drives RetailReady's technical vision.",
+    "url": "https://www.retailreadyai.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "YC grad RetailReady raises $3.3M for AI warehouse app",
+    "url": "https://www.retailreadyai.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "An AI-powered supply chain compliance engine replacing manual warehouse...",
+    "url": "https://www.retailreadyai.com/about",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "ASN before shipment arrival",
+    "url": "https://www.retailreadyai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Routing guide carrier",
+    "url": "https://www.retailreadyai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How many employees does RetailReady have?",
+    "url": "https://fundediq.co/retailready-retailreadyai-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/retailready-retailreadyai-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/retailready-retailreadyai-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "RetailReady Revenue 2024: $1.8M Est.",
+    "url": "https://getlatka.com/companies/retailreadyai.com",
+    "pass": 3
+   },
+   {
+    "quote": "RetailReady has not published its revenue. GetLatka estimates it at about $1.8M a year (June 2024).",
+    "url": "https://getlatka.com/companies/retailreadyai.com",
+    "pass": 3
+   },
+   {
+    "quote": "RetailReady CEO, founders & employees",
+    "url": "https://getlatka.com/companies/retailreadyai.com",
+    "pass": 3
+   },
+   {
+    "quote": "Elle Smyth founded RetailReady in 2024 and runs it as CEO. RetailReady had 3–12 employees (June 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/retailreadyai.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is RetailReady's revenue?",
+    "url": "https://getlatka.com/companies/retailreadyai.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates RetailReady's revenue at about",
+    "url": "https://getlatka.com/companies/retailreadyai.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does RetailReady have?",
+    "url": "https://getlatka.com/companies/retailreadyai.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/retailreadyai.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/retailreadyai.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/retailreadyai.com",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "RetailReady - AIツールレビュー | AIniche — 数百ページに及ぶ流通規制をデジタルガイドに変換し、倉庫での誤配送や罰金を防止するAI物流ソリューション 有料MobileLLMベース 公式サイトへretailreadyai.com Aidoc と比較 RetailReady の代替ツールを見る",
+    "url": "https://ainiche.net/ja/tools/retailready",
+    "pass": 3
+   },
+   {
+    "quote": "RetailReady AI — Sell in more stores, without the risk. EDI, compliant shipping, and deduction recovery for every retailer you sell to. Password Forgot your password?",
+    "url": "https://3pl.retailreadyai.com/login",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies - retailreadyai.com — Legacy EDI providers like SPS Commerce are built mainly to move documents between suppliers and retailers. RetailReady handles EDI too, plus packout compliance and AI-powered chargeback disputes, all on one platform.",
+    "url": "https://www.retailreadyai.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "RetailReady: AI-Powered Supply Chain Compliance and ... — Oct 25, 2026 · Independent editorial analysis and scorecard of RetailReady (retailreadyai.com), the YC W24 and Bain Capital-backed supply chain compliance platform.",
+    "url": "https://presentofai.com/spotlight/retailreadyai.com",
+    "pass": 3
+   },
+   {
+    "quote": "RetailReady 2026 Company Profile: Valuation, Funding ...RetailReady Revenue 2024: $1.8M Est. - getlatka.comRetailReady – Growth Analysis & Alternative Companies – 2026RetailReady - Products, Competitors, Financials, Employees ...Retailreadyai: 10 Tools Behind $4M Revenue [2026] | TechList.ai — Information on valuation, funding, cap tables, investors, and executives for RetailReady. Use the PitchBo",
+    "url": "https://pitchbook.com/profiles/company/591147-73",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/retailready-retailreadyai-com-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "RetailReady - LinkedIn Website http://retailreadyai.com Industry Software Development Company size 11-50 employees Headquarters San Francisco, CA",
+    "url": "https://www.linkedin.com/company/retailreadyai",
+    "pass": 3
+   },
+   {
+    "quote": "Nolan Krutonog - Lead Product Engineer @RetailReadyAI | LinkedInSarah Hamer - Co-founder / COO @ RetailReady | YC W24 ...Thea Dietrick - RetailReady | LinkedInHow RetailReady uses AI to solve retail compliance | She ...Juliette Lermusiaux - Founding GTM @ RetailReady | LinkedInContinuing our RetailReady Spotlight, we’re PUMPED to ... Lead Product Engineer @RetailReadyAI · Lead Product Engineer. Su",
+    "url": "https://www.linkedin.com/in/nolankrutonog",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.retailreadyai.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.retailreadyai.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.retailreadyai.com/about",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/6ab686a61f99aae88fa44daa/6ac6ea1a72cff0c458985c62_case_hero.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/6ab70e27d6d5e2ec76b694ca/6ad01b1530ec8a677469cf6f_6ac82d5d84d69bccaa0541cd_idezwfJvHQ_logos.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/6ab70e27d6d5e2ec76b694ca/6ad01b1830ec8a677469cfb2_6ac82c8cef006f15abbcc540_id-PU0uSgD_logos.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/6ab70e27d6d5e2ec76b694ca/6ad01ad3f000a2a1bfb578b9_6aced31f7d518c2f662144e3_idE_M7Xprn_logos.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.retail-ai.jp/en/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ainiche.net/ja/tools/retailready",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.yahoo.co.jp/articles/f1f69c55e8d579a2eb8bf90dbdbf374db0cc028a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/contract/basic/8378/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ainiche.net/ja/tools/retailready",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.retail-ai.jp/company/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tezeract.ai/proven-ai-in-retail-use-cases-and-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vktr.com/ai-disruption/5-ai-case-studies-in-retail/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kore.ai/blog/ai-agents-in-retail-12-proven-use-cases-examples",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://indexed.vc/companies/retailreadyai",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fundediq.co/retailready-retailreadyai-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/591147-73",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/retailreadyai.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/retailreadyai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/nolankrutonog",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Retailreadyai 日本 導入",
+   "results": [
+    "https://www.retail-ai.jp/en/",
+    "https://www.retailreadyai.com/",
+    "https://ainiche.net/ja/tools/retailready",
+    "https://news.yahoo.co.jp/articles/f1f69c55e8d579a2eb8bf90dbdbf374db0cc028a",
+    "https://retailguide.tokubai.co.jp/strategy/6458/",
+    "https://www.retail-ai.jp/company/",
+    "https://aipicks.jp/mag/japan-ai-adoption-rate-stats-2026"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Retailreadyai 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://www.weblio.jp/content/総代理店",
+    "https://www.retailreadyai.com/",
+    "https://www.retailreadyai.com/about"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Retailreadyai Japan",
+   "results": [
+    "https://ainiche.net/ja/tools/retailready",
+    "https://www.retailreadyai.com/",
+    "https://www.retail-ai.jp/company/",
+    "https://www.retailreadyai.com/about",
+    "https://3pl.retailreadyai.com/login",
+    "https://www.retail-ai.jp/en/",
+    "https://aimyflow.com/ja/ai/retailreadyai-com"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Retailreadyai manufacturing customer case study",
+   "results": [
+    "https://tezeract.ai/proven-ai-in-retail-use-cases-and-case-studies/",
+    "https://www.vktr.com/ai-disruption/5-ai-case-studies-in-retail/",
+    "https://www.kore.ai/blog/ai-agents-in-retail-12-proven-use-cases-examples",
+    "https://www.retailreadyai.com/case-studies",
+    "https://presentofai.com/spotlight/retailreadyai.com",
+    "https://platoseed.com/companies/retailready",
+    "https://www.retailreadyai.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Retailreadyai white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.ninjaone.com/partner-program/",
+    "https://upcloud.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Retailreadyai founded funding employees revenue",
+   "results": [
+    "https://indexed.vc/companies/retailreadyai",
+    "https://fundediq.co/retailready-retailreadyai-com-funding/",
+    "https://pitchbook.com/profiles/company/591147-73",
+    "https://getlatka.com/companies/retailreadyai.com",
+    "https://www.cbinsights.com/company/retailready",
+    "https://techlist.ai/retailreadyai.com",
+    "https://compworth.com/company/retailready"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Retailreadyai",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/tag/硤合憲三",
+    "https://note.com/light_coot554",
+    "https://note.com/humble_rose2342/n/n80964fd3cf03?hl=en",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/osirius3150/n/n164c9a6f7cf8",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Retailreadyai",
+   "results": [
+    "https://x.com/certifiedretail",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/marketsquarengr/status/2040876400438071404",
+    "https://x.com/retailreadyfi",
+    "https://x.com/RetailReadyMeat",
+    "https://x.com/CertifiedRetail/status/847112500386648064",
+    "https://x.com/ReadyAI_"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Retailreadyai",
+   "results": [
+    "https://www.linkedin.com/company/retailreadyai",
+    "https://www.linkedin.com/in/nolankrutonog",
+    "https://www.linkedin.com/in/sarah-hamer",
+    "https://www.linkedin.com/in/ftdietrick",
+    "https://www.linkedin.com/in/juliette-lermusiaux",
+    "https://www.linkedin.com/posts/she-supply-chains_retailready-supplychain-retail-activity-7313910734688505858-vU-h",
+    "https://www.linkedin.com/posts/retailreadyai_continuing-our-retailready-spotlight-activity-7287861649569402881-QDYG"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Retailreadyai",
+   "results": [
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/RetailReadyFI/",
+    "https://www.facebook.com/dallasmarket/videos/in-this-weeks-retail-ready-lesson-one-product-photo-becomes-a-full-week-of-conte/1113413948282685/",
+    "https://www.facebook.com/rrstl/",
+    "https://www.facebook.com/people/Retail-Ready-Auto/100065194642736/",
+    "https://www.facebook.com/shuioflife/videos/own-you-own-retail-store-feeling-stuck-ai-doesnt-have-to-be-complicatedretail-re/919798500973151/",
+    "https://www.facebook.com/dallasmarket/videos/introducing-retail-ready-practical-ai-training-for-independent-retailersmeet-the/1103148752429727/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Retailreadyai note 社長",
+   "results": [
+    "https://www.bizprofile.net/ca/san-francisco/retailreadyai-inc",
+    "https://www.bloomberg.com/profile/company/2453147D:US",
+    "https://fundediq.co/retailready-retailreadyai-com-funding/",
+    "https://www.ycombinator.com/companies/retailready",
+    "https://www.retailreadyai.com/about",
+    "https://www.retailreadyai.com/",
+    "https://www.linkedin.com/in/ellesmyth"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Retailreadyai X 投稿",
+   "results": [
+    "https://www.instagram.com/retailreadyai/",
+    "https://www.retailreadyai.com/privacy-policy",
+    "https://www.retailreadyai.com/",
+    "https://submissions.retailready.ai/",
+    "https://3pl.retailreadyai.com/login",
+    "https://x.com/ishida_chatgpt/article/2066323646180954330",
+    "https://x.com/Tokyolabrattt/status/2119081954989822105"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式3頁／PDF・画像4件／外部22頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式3頁／PDF・画像4件／外部22頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像4件／外部22頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像4件／外部22頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式3頁／PDF・画像4件／外部22頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像4件／外部22頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式3頁／PDF・画像4件／外部22頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式3頁／PDF・画像4件／外部22頁・検索12回）"
+ }
+}

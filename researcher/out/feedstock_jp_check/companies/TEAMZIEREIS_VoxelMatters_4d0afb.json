@@ -1,0 +1,474 @@
+{
+ "name": "TEAMZIEREIS — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:3d-metal-printer-distributor",
+ "researched_at": "2026-11-09T18:02:39.927315+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "TEAMZIEREIS — VoxelMatters - The largest database of additive ... — Since 2008, TEAMZIEREIS has integrated advanced manufacturing techniques such as 3D printing, milling, and laser sintering to provide highly accurate and durable dental solutions.",
+    "url": "https://www.voxelmatters.directory/company/teamziereis/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Niclas Ziereis – Geschäftsführer bei TEAMZIEREIS GmbH | LinkedInLydia Ziereis – Geschäftsführerin bei TEAMZIEREIS GmbH | LinkedInFederico Sher - Co-founder of VoxelMatters | LinkedInFrancesco Pulimeni - Co-founder and CRO at VoxelMatters ...Davide Sher - Co-founder and CEO at VoxelMatters | LinkedIn Geschäftsführer bei TEAMZIEREIS GmbH · Berufserfahrung: TEAMZIEREIS GmbH · Ausbildung: DHBW Karlsru",
+    "url": "https://de.linkedin.com/in/niclas-ziereis-771898144",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookTEAMZIEREIS GmbH | Engelsbrand - Facebookteamziereis GmbH - FacebookTEAMZIEREIS GmbH added a new photo. - TEAMZIEREIS GmbH - FacebookIn unserem neuen Online-Shop können Sie... - TEAMZIEREIS GmbH ...Intraoralscanner Expertentag mit Dr.... - TEAMZIEREIS GmbH ...Vertiefen Sie Ihr Wissen im Bereich... - TEAMZIEREIS GmbH ... Unlock the Future of Metal Additive Manufacturing with ",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/-/en/Folding-Bicycle-P-O8A-Improved-Adjustable/dp/B0DX743P8M",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/gavugavugavu123/status/2102199549704257741",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.instagram.com/kpopusaonline/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/understanding-true-economics-behind-high-end-shoichiro-tanaka-uch6c",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.myday.com.tw/a_myday/product_view.php?apiname=api_japan_yahoo&itemcode=l1111505960",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://teamziereis.de/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://teamziereis.de/shop/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jp.mercari.com/shops/product/2JWrz9sikFjeJfQm4vptaD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kinofu.com/uvresin-guide2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://best-item.co.jp/resin-liquid-osusume",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/@_oshi_wan",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-printer-distributor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-products-resellers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-printing-consultancy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/category/global-am-hubs/japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-products-resellers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.cdn.amazon.co.jp/b?ie=UTF8&node=3211799051",
+    "status": "network_error:SSLError",
+    "method": "http"
+   },
+   {
+    "url": "https://ssofaast-wms.amazon.co.jp/ap/signin?clientContext=355-5876359-4124050&openid.pape.max_auth_age=3600&openid.return_to=https%3A%2F%2Fssofaast-wms.amazon.co.jp%2Frosters&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=amzn_faast_privatepool_jp&openid.mode=checkid_setup&language=ja_JP&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/07981931/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/01201596/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/1041/4214/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00176641/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/category/money/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rocketreach.co/teamziereis-gmbh-profile_b4527b13fc8f6705",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/teamziereis-gmbh/430096245",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.northdata.com/TEAMZIEREIS+GmbH,+Engelsbrand/Amtsgericht+Mannheim+HRB+504895",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://de.linkedin.com/in/niclas-ziereis-771898144",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "TEAMZIEREIS — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 1
+  },
+  {
+   "query": "TEAMZIEREIS — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://www.amazon.co.jp/-/en/Folding-Bicycle-P-O8A-Improved-Adjustable/dp/B0DX743P8M",
+    "https://x.com/gavugavugavu123/status/2102199549704257741",
+    "https://www.instagram.com/kpopusaonline/",
+    "https://www.linkedin.com/pulse/understanding-true-economics-behind-high-end-shoichiro-tanaka-uch6c",
+    "https://www.instagram.com/reel/DdikDTXy_7S/",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://kakaku.com/ranking/interior/0017_0049/0002/172090008/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "TEAMZIEREIS — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.myday.com.tw/a_myday/product_view.php?apiname=api_japan_yahoo&itemcode=l1111505960",
+    "https://www.voxelmatters.com/",
+    "https://teamziereis.de/",
+    "https://teamziereis.de/shop/",
+    "https://www.voxelmatters.directory/company/teamziereis/",
+    "https://teamziereis-aligner.de/shop",
+    "https://www.msn.com/ja-jp/news/other/jr西日本-忘れ物のビニール傘を再び-傘-に-10月26日から15店舗で販売-価格は/ar-AA2g2mgP"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "TEAMZIEREIS — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://jp.mercari.com/shops/product/2JWrz9sikFjeJfQm4vptaD",
+    "https://kinofu.com/uvresin-guide2026/",
+    "https://best-item.co.jp/resin-liquid-osusume",
+    "https://www.youtube.com/@_oshi_wan",
+    "https://www.msn.com/ja-jp/news/other/魔法の天使クリィミーマミ-より森沢優が変身した姿-クリィミーマミ-がレジンキットで登場-2027年3月3日ごろ発売/ar-AA2h1Yrq",
+    "https://www.youtube.com/@163tube",
+    "https://www.toyzmetaverse.com/categories/in-stock"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "TEAMZIEREIS — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://www.voxelmatters.directory/company-category/3d-printer-distributor/",
+    "https://www.voxelmatters.directory/company-category/3d-products-resellers/",
+    "https://www.voxelmatters.directory/company-category/3d-printing-consultancy/",
+    "https://www.voxelmatters.directory/company-category/ceramics-3d-printer-reseller/",
+    "https://www.voxelmatters.com/",
+    "https://japanesedistributors.com/",
+    "https://www.voxelmatters.com/category/industry-2/distribution/",
+    "https://teamziereis.de/",
+    "https://teamziereis.de/fertigungszentrum"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "TEAMZIEREIS — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://www.voxelmatters.com/category/global-am-hubs/japan/",
+    "https://www.voxelmatters.directory/company-category/3d-products-resellers/",
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.directory/company-category/3d-printing-consultancy/",
+    "https://www.voxelmatters.directory/company-category/3d-printer-distributor/",
+    "https://www.voxelmatters.directory/company-category/ceramics-3d-printer-reseller/",
+    "https://www.japan-partner.com/",
+    "https://www.facebook.com/eva.c.chabi/videos/how-i-get-japanese-friend-languagepartner-internationalfriends-hellotalkfriend-e/1064512069946702/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:amazon.co.jp TEAMZIEREIS — VoxelMatters",
+   "results": [
+    "https://r.amazon.co.jp/",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://www.cdn.amazon.co.jp/b?ie=UTF8&node=3211799051",
+    "https://ssofaast-wms.amazon.co.jp/",
+    "https://www.amazon.co.jp/兒玉遥写真集-You-will-see-兒玉遥/dp/4334111920",
+    "https://business.amazon.co.jp/ja/login",
+    "https://www.amazon.co.jp/【デジタル限定-YJ-PHOTO-BOOK】月城莉奈写真集「夢か幻か、女性声優か？」-月城莉奈-ebook/dp/B0HPKKHKNS"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com TEAMZIEREIS — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/g/07981931/",
+    "https://www.monotaro.com/g/01201596/",
+    "https://www.monotaro.com/p/1041/4214/",
+    "https://www.monotaro.com/g/00176641/",
+    "https://www.monotaro.com/g/03445327/",
+    "https://www.monotaro.com/g/02779452/",
+    "https://www.monotaro.com/p/3764/0793/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "TEAMZIEREIS — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.voxelmatters.com/category/money/",
+    "https://rocketreach.co/teamziereis-gmbh-profile_b4527b13fc8f6705",
+    "https://www.zoominfo.com/c/teamziereis-gmbh/430096245",
+    "https://www.northdata.com/TEAMZIEREIS+GmbH,+Engelsbrand/Amtsgericht+Mannheim+HRB+504895",
+    "https://www.cbinsights.com/company/voxelmatters",
+    "https://www.voxelmatters.com/",
+    "https://implisense.com/en/companies/teamziereis-gmbh-engelsbrand-DEB3U8I75V81",
+    "https://www.voxelmatters.com/category/money/financials/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:note.com TEAMZIEREIS — VoxelMatters",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/fp_tax_note/n/n64645f20c992"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com TEAMZIEREIS — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/darkilingnaty/status/2116203949992694035",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/isaiahrmartin/status/2117871814625972663",
+    "https://x.com/PopBase/status/2116494180054909027",
+    "https://x.com/WhiteHouse/status/2117601073124778410",
+    "https://x.com/jocelynseip/status/2118260591680983528"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com TEAMZIEREIS — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://www.linkedin.com/company/teamziereis-gmbh",
+    "https://de.linkedin.com/in/niclas-ziereis-771898144",
+    "https://de.linkedin.com/in/lydia-ziereis-6a69202b3",
+    "https://uk.linkedin.com/in/federico-sher",
+    "https://it.linkedin.com/in/francescopulimeni",
+    "https://www.linkedin.com/pub/dir/davide/sher"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com TEAMZIEREIS — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/teamziereis/",
+    "https://www.facebook.com/pages/teamziereis+GmbH/200241527208910/",
+    "https://www.facebook.com/teamziereis/photos/1273767951422168/",
+    "https://www.facebook.com/teamziereis/posts/in-unserem-neuen-online-shop-können-sie-bequem-ihre-bestellung-bei-uns-aufgeben-/1510030282715479/",
+    "https://www.facebook.com/teamziereis/posts/intraoralscanner-expertentag-mit-dr-kay-vietor-27092025-engelsbrandtauchen-sie-t/1353088560156773/",
+    "https://www.facebook.com/teamziereis/posts/-vertiefen-sie-ihr-wissen-im-bereich-intraoralscanner-am-27092025-bieten-wir-ein/1311250877673875/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "TEAMZIEREIS — VoxelMatters note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "TEAMZIEREIS — VoxelMatters X 投稿",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://teamziereis.de/",
+    "https://www.instagram.com/teamziereis_gmbh/",
+    "https://x.com/hashtag/voxelmatters",
+    "https://www.voxelmatters.com/",
+    "https://x.com/VoxelMatters/status/2117922086492508517",
+    "https://x.com/mikaerien/status/2119797629060288567"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索15回）"
+ }
+}

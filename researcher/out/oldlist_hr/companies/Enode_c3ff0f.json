@@ -1,0 +1,1441 @@
+{
+ "name": "Enode",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Energy Management / Grid Solutions｜AUMS不適合",
+ "researched_at": "2026-11-09T17:58:37.431697+00:00",
+ "official_url": "https://enode.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "3. Seed Round",
+    "value": "15-Jul-2021    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/463285-99",
+    "pass": 3
+   },
+   {
+    "label": "1. Seed Round",
+    "value": "Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/463285-99",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Our platform already connects assets, coordinates homes, and shapes how they respond to prices. It’s highly composable, so you make only what sets you apart.",
+    "url": "https://enode.com/",
+    "pass": 1
+   },
+   {
+    "quote": "One integration, every product",
+    "url": "https://enode.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our team builds and tests the integration against real hardware. We handle the technical work and the edge cases so you stay focused on your product.",
+    "url": "https://enode.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Once live, your hardware works with the leading energy companies building on Enode. We keep the integration current as your products evolve and new features ship.",
+    "url": "https://enode.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "The principles that guide how we build",
+    "url": "https://enode.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "The energy system is messy underneath. Our job is to make sure none of that reaches our partners. Clean abstractions, clear documentation, and predictable behavior.",
+    "url": "https://enode.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "The measure isn’t what we ship. It’s what our partners can build because of it. When they move faster, reach more customers, and build better products, we’ve done our job.",
+    "url": "https://enode.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Engineers, product thinkers, energy specialists, and commercial operators building the software infrastructure powering the energy transition.",
+    "url": "https://enode.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Enode is backed by leading climate and technology investors who share our conviction that the energy transition is, at its core, a software problem.",
+    "url": "https://enode.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Hive expands smart home platform to be compatible with hundreds of new eco-tech products",
+    "url": "https://enode.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Indra and Enode partner to bring smart EV charging into energy apps and flexibility programs",
+    "url": "https://enode.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Apr 8, 2026",
+    "url": "https://enode.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Logos, leadership bios, and a company fact sheet. For interviews, numbers, or anything the kit doesn’t cover, talk to us.",
+    "url": "https://enode.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "We’re solving one of the hardest infrastructure problems in energy.",
+    "url": "https://enode.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Enode’s guided connection flow meant customers could link their vehicle in minutes, without needing to understand the technical details. Vattenfall could focus on the product experience rather than the integration plumbing.",
+    "url": "https://enode.com/customers/vattenfall",
+    "pass": 1
+   },
+   {
+    "quote": "Vattenfall customers who connect their EV to the Mitt Vattenfall app set a target charge level and a departure time, and the app handles the rest. Charging happens when grid demand is lowest and electricity prices are cheapest — automatically, in the background.",
+    "url": "https://enode.com/customers/vattenfall",
+    "pass": 1
+   },
+   {
+    "quote": "The result is a product that delivers real, measurable value on the customer’s energy bill, and a reason to stay with Vattenfall beyond the commodity contract.",
+    "url": "https://enode.com/customers/vattenfall",
+    "pass": 1
+   },
+   {
+    "quote": "“We didn’t want connectivity to be something customers had to think about. It should work in the background, deliver consistent savings, and make the product more valuable over time. That’s what drives long-term engagement.”",
+    "url": "https://enode.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Product Lead, HEMS & VPP, Ostrom",
+    "url": "https://enode.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "“The cost and connectivity needs of hardware-based solutions limited our ability to reach every customer. We needed a more scalable, flexible foundation, and that meant adding a software approach.”",
+    "url": "https://enode.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "SVP of Product, Sense",
+    "url": "https://enode.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "“Our mission has always been to make EV charging affordable and convenient, and through Flex we provide a hassle-free charging experience when energy is cheapest, resulting in a win-win-win for Pod Point, our customers and the Grid.”",
+    "url": "https://enode.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "“At Resideo, we make it easier for utilities to build scalable flexibility programs that engage more customers. Partnering with Enode helps us do that faster, connecting new DERs onto our platform quickly and reliably, and giving our utility partners the tools they need to meet evolving grid needs.”",
+    "url": "https://enode.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Program Director, TotalEnergies On",
+    "url": "https://enode.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "We’re solving one of the hardest problems in energy: making millions of distributed devices work together as one system.",
+    "url": "https://enode.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Values and principles that shape how we decide, build, and treat each other",
+    "url": "https://enode.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We know our mission, and why it matters. We proactively deepen our understanding of the energy transition and spread that knowledge inside and outside the company. Conviction turns into resilience.",
+    "url": "https://enode.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We make better decisions when we put our heads together. We share information openly, voice concerns and disagreements honestly, and give each other continuous feedback. Transparency builds trust and better outcomes.",
+    "url": "https://enode.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Product Engineer",
+    "url": "https://enode.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "“At Enode, I’ve found the best culture I’ve experienced, and I’m proud to help nurture it as we grow. Our team is extremely bright and genuinely kind. There’s a refreshing lack of ego here, making collaboration a true joy. I’m inspired every day by our team and our mission, and there’s nothing more energizing than working alongside people who share the same purpose.”",
+    "url": "https://enode.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "“Working at Enode provides me with the opportunity to collaborate with incredibly talented and kind individuals while tackling exciting challenges in home energy integrations. Being part of the transition to a sustainable energy future is deeply motivating.”",
+    "url": "https://enode.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "“Ambition fuels everything we do – it’s about bold strategies that create real impact. Working remotely gives us the flexibility to balance personal priorities while advancing a mission transforming the future of energy. The team inspires me to grow, challenge myself, and push boundaries every day. It’s not just work; it’s purpose.”",
+    "url": "https://enode.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "A straightforward process, designed to respect your time",
+    "url": "https://enode.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "You’ll meet the hiring manager to go deeper on the role, how you work, and your alignment with what we’re building.",
+    "url": "https://enode.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "The practical, optimistic case for electrifying everything: homes, transport, and industry. Required reading for anyone working in energy.",
+    "url": "https://enode.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We hire across engineering, product, and go-to-market. All roles are remote-first within Europe.",
+    "url": "https://enode.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Your customers already have EV chargers at home. Increasingly, those chargers are becoming part of a wider energy service: charging when electricity is cheaper, making better use of energy produced at home and responding when the grid needs flexibility.",
+    "url": "https://enode.com/newsroom/wallbox-and-enode-make-smart-charging-easier-to-build-at-scale",
+    "pass": 1
+   },
+   {
+    "quote": "With Wallbox chargers connected through Enode, you can build services around how and when EVs charge. Shift charging to cheaper hours on a dynamic tariff. Coordinate charging with solar and other devices in the home. Bring Wallbox chargers into flexibility programs alongside other connected devices.",
+    "url": "https://enode.com/newsroom/wallbox-and-enode-make-smart-charging-easier-to-build-at-scale",
+    "pass": 1
+   },
+   {
+    "quote": "Your team can focus on the energy product and customer experience instead of building and maintaining the underlying device connection.",
+    "url": "https://enode.com/newsroom/wallbox-and-enode-make-smart-charging-easier-to-build-at-scale",
+    "pass": 1
+   },
+   {
+    "quote": "For Wallbox owners, this opens up more ways for their charger to work with the energy services they use, from smarter charging around electricity prices to participating in flexibility programs through their energy provider.",
+    "url": "https://enode.com/newsroom/wallbox-and-enode-make-smart-charging-easier-to-build-at-scale",
+    "pass": 1
+   },
+   {
+    "quote": "Connecting a charger is the starting point. Keeping that connection reliable as products change and energy services become more advanced requires ongoing work.",
+    "url": "https://enode.com/newsroom/wallbox-and-enode-make-smart-charging-easier-to-build-at-scale",
+    "pass": 1
+   },
+   {
+    "quote": "Wallbox and Enode work directly together on the underlying connectivity. As Wallbox products develop, the teams can work together to maintain the connection and support the capabilities energy companies need.",
+    "url": "https://enode.com/newsroom/wallbox-and-enode-make-smart-charging-easier-to-build-at-scale",
+    "pass": 1
+   },
+   {
+    "quote": "That becomes increasingly important as smart charging moves into more demanding use cases. A charging schedule needs current device data to make good decisions. A flexibility program needs chargers to respond when called on. And when you build across many device brands, you need connections you can rely on.",
+    "url": "https://enode.com/newsroom/wallbox-and-enode-make-smart-charging-easier-to-build-at-scale",
+    "pass": 1
+   },
+   {
+    "quote": "“Reliable connectivity is what turns a connected charger into something energy companies can build around. Working directly with Wallbox helps us keep improving that connection as their products evolve, so energy companies can bring Wallbox chargers into smart charging and flexibility services with confidence.”",
+    "url": "https://enode.com/newsroom/wallbox-and-enode-make-smart-charging-easier-to-build-at-scale",
+    "pass": 1
+   },
+   {
+    "quote": "Hive expands smart home platform to be compatible with hundreds of new eco-tech products",
+    "url": "https://enode.com/newsroom/wallbox-and-enode-make-smart-charging-easier-to-build-at-scale",
+    "pass": 1
+   },
+   {
+    "quote": ", a leading provider of solar solutions, partners with Enode to help energy companies connect and optimize SMA assets through a single, reliable integration.",
+    "url": "https://enode.com/newsroom/sma-partners-with-enode-to-unlock-solar-and-battery-flexibility-for-the-next-grid",
+    "pass": 1
+   },
+   {
+    "quote": "Through this partnership, energy retailers, utilities and energy platforms using Enode, can integrate SMA-connected assets into energy products and flexibility programs without building and maintaining their own integration.",
+    "url": "https://enode.com/newsroom/sma-partners-with-enode-to-unlock-solar-and-battery-flexibility-for-the-next-grid",
+    "pass": 1
+   },
+   {
+    "quote": "The partnership supports a range of use cases, including solar self-consumption optimization, home battery optimization, dynamic tariff automation, demand response programs and virtual power plant participation.",
+    "url": "https://enode.com/newsroom/sma-partners-with-enode-to-unlock-solar-and-battery-flexibility-for-the-next-grid",
+    "pass": 1
+   },
+   {
+    "quote": "For households, this means more value from their SMA assets and greater freedom to choose the energy apps and services that work best for them. They can connect to a growing ecosystem of energy apps and flexibility programs that help optimize consumption, automate savings and unlock the full potential of their solar and battery systems.",
+    "url": "https://enode.com/newsroom/sma-partners-with-enode-to-unlock-solar-and-battery-flexibility-for-the-next-grid",
+    "pass": 1
+   },
+   {
+    "quote": "Hive expands smart home platform to be compatible with hundreds of new eco-tech products",
+    "url": "https://enode.com/newsroom/sma-partners-with-enode-to-unlock-solar-and-battery-flexibility-for-the-next-grid",
+    "pass": 1
+   },
+   {
+    "quote": "Indra and Enode partner to bring smart EV charging into energy apps and flexibility programs",
+    "url": "https://enode.com/newsroom/sma-partners-with-enode-to-unlock-solar-and-battery-flexibility-for-the-next-grid",
+    "pass": 1
+   },
+   {
+    "quote": "Across the Netherlands, electric vehicle (EV) adoption is moving from early growth to mainstream. For energy retailers, that shift is changing what customers expect from their energy provider.",
+    "url": "https://enode.com/newsroom/peblar-x-enode-expanding-ev-charger-choices-for-energy-retailers",
+    "pass": 1
+   },
+   {
+    "quote": "What began as EV-specific tariffs is evolving into offers that include a home charger, app-based smart charging, and flexibility programs designed to optimize renewable energy use and support grid stability. Now, EV charging optimization is becoming part of the core energy proposition, not an add-on.",
+    "url": "https://enode.com/newsroom/peblar-x-enode-expanding-ev-charger-choices-for-energy-retailers",
+    "pass": 1
+   },
+   {
+    "quote": "Peblar is one of the fastest growing EV charger brands in the Benelux region, with more than 125 000 chargers installed and partnerships across eight countries. Developed, tested, and produced at its vertically integrated facility in Eindhoven, Peblar has built a strong reputation for reliability, ease of installation, and hardware quality, with a reported failure rate below 0.05 percent.",
+    "url": "https://enode.com/newsroom/peblar-x-enode-expanding-ev-charger-choices-for-energy-retailers",
+    "pass": 1
+   },
+   {
+    "quote": "Through this partnership, Peblar chargers can be integrated directly into energy apps and flexibility programs powered by Enode.",
+    "url": "https://enode.com/newsroom/peblar-x-enode-expanding-ev-charger-choices-for-energy-retailers",
+    "pass": 1
+   },
+   {
+    "quote": "More energy retailers are moving beyond selling energy as a standalone product and into distributing their own energy hardware, starting with home EV chargers.",
+    "url": "https://enode.com/newsroom/peblar-x-enode-expanding-ev-charger-choices-for-energy-retailers",
+    "pass": 1
+   },
+   {
+    "quote": "Owning part of the physical asset in the home strengthens the customer relationship and creates a direct path to deliver smart charging and flexibility as an integrated part of the energy offering. For EV drivers, that means a single setup and charging that can be managed in the same app they already use for their energy, automatically aligning with price signals and renewable availability.",
+    "url": "https://enode.com/newsroom/peblar-x-enode-expanding-ev-charger-choices-for-energy-retailers",
+    "pass": 1
+   },
+   {
+    "quote": "For retailers, this reduces operational friction and support volume. For customers, it means fewer installation issues, fewer outages, and charging that behaves predictably over time.",
+    "url": "https://enode.com/newsroom/peblar-x-enode-expanding-ev-charger-choices-for-energy-retailers",
+    "pass": 1
+   },
+   {
+    "quote": "When chargers are reliable and deeply integrated into the energy app, flexibility becomes easier to forecast, dispatch, and manage across portfolios. Smart charging shifts from being a feature to becoming a dependable part of the core energy proposition.",
+    "url": "https://enode.com/newsroom/peblar-x-enode-expanding-ev-charger-choices-for-energy-retailers",
+    "pass": 1
+   },
+   {
+    "quote": "With a dedicated third party API in place, Peblar and Enode are working together to integrate Peblar chargers into Enode-powered EV and flexibility propositions.",
+    "url": "https://enode.com/newsroom/peblar-x-enode-expanding-ev-charger-choices-for-energy-retailers",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Your brand, front and center",
+    "url": "https://enode.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Peblar supports this shift through white label distribution, enabling retailers to bring chargers to market under their own brand while retaining control of the customer experience.",
+    "url": "https://enode.com/newsroom/peblar-x-enode-expanding-ev-charger-choices-for-energy-retailers",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Engineers, product thinkers, energy specialists, and commercial operators building the software infrastructure powering the energy transition.",
+    "url": "https://enode.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Smart charging requires reliable, real-time access to vehicle and charger data across dozens of brands. Building and maintaining those integrations in-house would take years — and would need constant upkeep as manufacturers updated their APIs. Vattenfall needed a faster path to market.",
+    "url": "https://enode.com/customers/vattenfall",
+    "pass": 1
+   },
+   {
+    "quote": "They launch smart charging, home energy management and virtual power plants on a single platform.",
+    "url": "https://enode.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Now it lives across homes, cars, batteries, and solar panels, in millions of devices. Enode connects those devices and gives them rhythm. We’re the layer between the home and the grid, used by Europe’s largest energy companies to build smart charging, home energy management, and grid flexibility at scale.",
+    "url": "https://enode.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Depending on the role, this may include a take-home task, a case study, or a series of conversations with the wider team. We’ll share full details in advance.",
+    "url": "https://enode.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "The partnership supports a range of use cases, including solar self-consumption optimization, home battery optimization, dynamic tariff automation, demand response programs and virtual power plant participation.",
+    "url": "https://enode.com/newsroom/sma-partners-with-enode-to-unlock-solar-and-battery-flexibility-for-the-next-grid",
+    "pass": 1
+   },
+   {
+    "quote": "aggregates flexibility across assets into a single operable Virtual Power Plant (VPP) that can be forecasted, dispatched, and integrated into existing energy management processes.",
+    "url": "https://enode.com/newsroom/enode-selected-by-engie-to-scale-residential-ev-flexibility",
+    "pass": 1
+   },
+   {
+    "quote": "Ostrom pairs a dynamic tariff with its NeoGrid virtual power plant, connecting devices directly into the core energy product rather than bolting them on beside it. Over the past year the company has nearly doubled its connected device base to tens of thousands of EV chargers, batteries and solar systems, with battery connections alone growing around 200 percent year over year.",
+    "url": "https://enode.com/customers/ostrom",
+    "pass": 1
+   },
+   {
+    "quote": "Ostrom passed 10,000 connected devices early and kept growing. Building on Enode’s infrastructure, it operates the portfolio without managing individual integrations, while keeping device behaviour consistent across manufacturers — reliable data, reliable commands, and a single way to coordinate how devices respond to pricing and optimization logic.",
+    "url": "https://enode.com/customers/ostrom",
+    "pass": 1
+   },
+   {
+    "quote": "Case study report on design, manufacturing and digital representation of a DED-Arc steel node for construction | Scientific Reports",
+    "url": "https://www.nature.com/articles/s41598-026-37315-2",
+    "pass": 3
+   },
+   {
+    "quote": "Case study report on design, manufacturing and digital representation of a DED-Arc steel node for construction",
+    "url": "https://www.nature.com/articles/s41598-026-37315-2",
+    "pass": 3
+   },
+   {
+    "quote": "Connected, digitalized wire arc additive manufacturing: utilizing data in the internet of production to enable industrie 4.0",
+    "url": "https://www.nature.com/articles/s41598-026-37315-2",
+    "pass": 3
+   },
+   {
+    "quote": "Experimental investigations on hybrid manufacturing: WEDM of WAAM-fabricated stainless-steel components using ANFIS modelling",
+    "url": "https://www.nature.com/articles/s41598-026-37315-2",
+    "pass": 3
+   },
+   {
+    "quote": "Investigation of wire arc additive manufacturing of cylindrical components by using cold metal transfer arc welding process",
+    "url": "https://www.nature.com/articles/s41598-026-37315-2",
+    "pass": 3
+   },
+   {
+    "quote": ". Among these, Additive Manufacturing (AM) stands out as a disruptive technology with the potential to revolutionize the construction landscape over the coming decades",
+    "url": "https://www.nature.com/articles/s41598-026-37315-2",
+    "pass": 3
+   },
+   {
+    "quote": "Structural and architectural designs in construction have historically been shaped by the limitations and capabilities of conventional production methods. AM necessitates a redefinition of design principles to align with the unique characteristics of this innovative manufacturing approach",
+    "url": "https://www.nature.com/articles/s41598-026-37315-2",
+    "pass": 3
+   },
+   {
+    "quote": "In the domain of Additive Manufacturing (AM), the Directed Energy Deposition (DED)-Arc process stands out as a technique utilizing gas metal arc welding (GMAW) for the fabrication of metal components",
+    "url": "https://www.nature.com/articles/s41598-026-37315-2",
+    "pass": 3
+   },
+   {
+    "quote": "One compelling application of the DED-Arc process in construction lies in the manufacturing of force flow-optimized steel nodes. These specialized nodes play a pivotal role as connectors between semi-finished parts, introducing a new dimension of efficiency and structural integrity in construction projects",
+    "url": "https://www.nature.com/articles/s41598-026-37315-2",
+    "pass": 3
+   },
+   {
+    "quote": ", must be addressed. The process intricacies become more pronounced as the degrees of freedom of the manufacturing system come into play. This involves accommodating the dynamic nature of the manufacturing process and ensuring that the printing strategy is able to handle variations in geometry, such as edge defects, layer waviness",
+    "url": "https://www.nature.com/articles/s41598-026-37315-2",
+    "pass": 3
+   },
+   {
+    "quote": "This work offers comprehensive insights into the challenges encountered during the manufacturing and digital representation of a Y-Node, as shown in Fig.",
+    "url": "https://www.nature.com/articles/s41598-026-37315-2",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing of a Y-Node using DED-Arc",
+    "url": "https://www.nature.com/articles/s41598-026-37315-2",
+    "pass": 3
+   },
+   {
+    "quote": "DED-Arc manufacturing system (8-axis).",
+    "url": "https://www.nature.com/articles/s41598-026-37315-2",
+    "pass": 3
+   },
+   {
+    "quote": "The specific manufacturing setup employed for fabricating the Y-Node, as illustrated in Fig.",
+    "url": "https://www.nature.com/articles/s41598-026-37315-2",
+    "pass": 3
+   },
+   {
+    "quote": ") was used with a flow rate of 14 L/min during manufacturing. The DED-Arc process parameters (current, voltage and wire feed rate) were measured during the manufacturing using a welding process scanner (HKS Weldscanner).",
+    "url": "https://www.nature.com/articles/s41598-026-37315-2",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing strategy of the node",
+    "url": "https://www.nature.com/articles/s41598-026-37315-2",
+    "pass": 3
+   },
+   {
+    "quote": "Rendering of the structure (left); Planar slicing (middle); Separation of the node into main body (blue) and bridge structure (red) as manufacturing strategy for the avoidance of unfavorable overhangs, crossing points and sharp radii in the strong overhang areas (right).",
+    "url": "https://www.nature.com/articles/s41598-026-37315-2",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing of the demonstrator",
+    "url": "https://www.nature.com/articles/s41598-026-37315-2",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing of the bridge for closing the Y-Node.",
+    "url": "https://www.nature.com/articles/s41598-026-37315-2",
+    "pass": 3
+   },
+   {
+    "quote": "Digital linkage of design, manufacturing and geometry data",
+    "url": "https://www.nature.com/articles/s41598-026-37315-2",
+    "pass": 3
+   },
+   {
+    "quote": "It is evident that the manufacturing process influences the design, manufacturing strategy and component performance. Consequently, localized information is required to comprehend the correlation of as-designed geometry, print strategy, process data and as-built geometry (see Fig.",
+    "url": "https://www.nature.com/articles/s41598-026-37315-2",
+    "pass": 3
+   },
+   {
+    "quote": "Assessing the manufacturing data",
+    "url": "https://www.nature.com/articles/s41598-026-37315-2",
+    "pass": 3
+   },
+   {
+    "quote": "Visualization of mean wire feed rate per layer during manufacturing.",
+    "url": "https://www.nature.com/articles/s41598-026-37315-2",
+    "pass": 3
+   },
+   {
+    "quote": "Although the influence of the main DED-Arc process parameters on the mechanical strength has been investigated, manufacturing parameters beyond direct welding affect the resulting material behavior and surface topology, including print overhang angle, start point location, print direction, and print pauses",
+    "url": "https://www.nature.com/articles/s41598-026-37315-2",
+    "pass": 3
+   },
+   {
+    "quote": "describes the assessment of the calculated layer orientation relative to the print path. The manufacturing strategy described in the section \"",
+    "url": "https://www.nature.com/articles/s41598-026-37315-2",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "“I’ve never worked anywhere quite like Enode. The level of talent and ambition here is super high. At the same time, everyone is very empathic and our collective mission and the team always come first. No egos. This combination is incredibly rare, and I am very thankful to be part of it.”",
+    "url": "https://enode.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "“Working at Enode provides me with the opportunity to collaborate with incredibly talented and kind individuals while tackling exciting challenges in home energy integrations. Being part of the transition to a sustainable energy future is deeply motivating.”",
+    "url": "https://enode.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Your customers already have EV chargers at home. Increasingly, those chargers are becoming part of a wider energy service: charging when electricity is cheaper, making better use of energy produced at home and responding when the grid needs flexibility.",
+    "url": "https://enode.com/newsroom/wallbox-and-enode-make-smart-charging-easier-to-build-at-scale",
+    "pass": 1
+   },
+   {
+    "quote": "What began as EV-specific tariffs is evolving into offers that include a home charger, app-based smart charging, and flexibility programs designed to optimize renewable energy use and support grid stability. Now, EV charging optimization is becoming part of the core energy proposition, not an add-on.",
+    "url": "https://enode.com/newsroom/peblar-x-enode-expanding-ev-charger-choices-for-energy-retailers",
+    "pass": 1
+   },
+   {
+    "quote": "As expectations rise, EV charging needs to be reliable, easy to manage in the same app customers already use for their energy management, and delivered as part of a cohesive customer experience.",
+    "url": "https://enode.com/newsroom/peblar-x-enode-expanding-ev-charger-choices-for-energy-retailers",
+    "pass": 1
+   },
+   {
+    "quote": "Owning part of the physical asset in the home strengthens the customer relationship and creates a direct path to deliver smart charging and flexibility as an integrated part of the energy offering. For EV drivers, that means a single setup and charging that can be managed in the same app they already use for their energy, automatically aligning with price signals and renewable availability.",
+    "url": "https://enode.com/newsroom/peblar-x-enode-expanding-ev-charger-choices-for-energy-retailers",
+    "pass": 1
+   },
+   {
+    "quote": "When chargers are reliable and deeply integrated into the energy app, flexibility becomes easier to forecast, dispatch, and manage across portfolios. Smart charging shifts from being a feature to becoming a dependable part of the core energy proposition.",
+    "url": "https://enode.com/newsroom/peblar-x-enode-expanding-ev-charger-choices-for-energy-retailers",
+    "pass": 1
+   },
+   {
+    "quote": "Electrical vehicle (EV) charging is no longer a standalone activity. It needs to work as part of the overall energy product, connected to tariffs, responsive to grid conditions, and simple to use in everyday life. That shift puts pressure on how chargers are integrated and operated.",
+    "url": "https://enode.com/newsroom/indra-and-enode-partner-to-bring-smart-ev-charging-into-energy-apps-and-flexibility-programs",
+    "pass": 1
+   },
+   {
+    "quote": "Making smart charging part of the energy product",
+    "url": "https://enode.com/newsroom/indra-and-enode-partner-to-bring-smart-ev-charging-into-energy-apps-and-flexibility-programs",
+    "pass": 1
+   },
+   {
+    "quote": "As more households adopt EVs and other energy devices, seamless integration across them is becoming an expectation from homeowners. Energy retailers are increasingly working to deliver on that as part of their core offering.",
+    "url": "https://enode.com/newsroom/indra-and-enode-partner-to-bring-smart-ev-charging-into-energy-apps-and-flexibility-programs",
+    "pass": 1
+   },
+   {
+    "quote": "Operate residential flexibility as part of a global energy management rather than as a standalone initiative.",
+    "url": "https://enode.com/newsroom/enode-selected-by-engie-to-scale-residential-ev-flexibility",
+    "pass": 1
+   },
+   {
+    "quote": "“Our goal is to build a system that allows us to operate residential flexibility as a part of our existing end to end large scale energy management processes. Enode Flex provides the platform we need to do that.”",
+    "url": "https://enode.com/newsroom/enode-selected-by-engie-to-scale-residential-ev-flexibility",
+    "pass": 1
+   },
+   {
+    "quote": "“Enode Flex was built for energy retailers who are serious about operating consumer flexibility at scale. When you invest in the right foundations early, flexibility can grow into a durable part of the energy system.”",
+    "url": "https://enode.com/newsroom/enode-selected-by-engie-to-scale-residential-ev-flexibility",
+    "pass": 1
+   },
+   {
+    "quote": "There are no restroom facilities at Kamakura-koko-mae Station. Please use a restroom elsewhere before arriving.",
+    "url": "https://www.enoden.co.jp/en/train/",
+    "pass": 3
+   },
+   {
+    "quote": ". This transformation and alignment step forms part of the communication and data-exchange layer that connects the physical process, process monitoring and inspection data",
+    "url": "https://www.nature.com/articles/s41598-026-37315-2",
+    "pass": 3
+   },
+   {
+    "quote": ". The process necessitates meticulous planning and care during data acquisition to ensure accurate parameter determination. The feasibility of merging datasets is contingent upon the availability of identifiable reference markers within the respective datasets",
+    "url": "https://www.nature.com/articles/s41598-026-37315-2",
+    "pass": 3
+   },
+   {
+    "quote": "Enode Revenue 2024: $8.4M Est.",
+    "url": "https://getlatka.com/companies/enode.com",
+    "pass": 3
+   },
+   {
+    "quote": "Enode has not published its revenue. GetLatka estimates it at about $8.4M a year (December 2024).",
+    "url": "https://getlatka.com/companies/enode.com",
+    "pass": 3
+   },
+   {
+    "quote": "All 2 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/enode.com",
+    "pass": 3
+   },
+   {
+    "quote": "Enode CEO, founders & employees",
+    "url": "https://getlatka.com/companies/enode.com",
+    "pass": 3
+   },
+   {
+    "quote": "Henrik Langeland founded Enode in 2020 and runs it as CEO. Enode had 56 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/enode.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Enode's revenue?",
+    "url": "https://getlatka.com/companies/enode.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Enode's revenue at about",
+    "url": "https://getlatka.com/companies/enode.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Enode have?",
+    "url": "https://getlatka.com/companies/enode.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/enode.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/enode.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/enode.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/enode.com",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/463285-99",
+    "pass": 3
+   },
+   {
+    "quote": "Enode has 62 total employees.",
+    "url": "https://pitchbook.com/profiles/company/463285-99",
+    "pass": 3
+   },
+   {
+    "quote": "What is Enode’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/463285-99",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Enode is",
+    "url": "https://pitchbook.com/profiles/company/463285-99",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Enode:超小型VBTデバイス / エスアンドシー株式会社機器紹介",
+    "url": "https://sandccorporation.com/enode",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月からは日本語化対応も開始し、さらに多くのユーザーに利用されています",
+    "url": "https://sandccorporation.com/enode",
+    "pass": 3
+   },
+   {
+    "quote": "Vmaxproから名称変更されたVBTデバイス“ Enode” ｜お知らせ｜JATI-日本トレーニング指導者協会",
+    "url": "https://jati.jp/news/detail.php?info_id=1160",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツ製VBTデバイス「Enode:エノード」待望の日本語対応!｜お知らせ｜JATI-日本トレーニング指導者協会",
+    "url": "https://jati.jp/news/detail.php?info_id=1294",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツ製VBTデバイス「Enode:エノード」待望の日本語対応!",
+    "url": "https://jati.jp/news/detail.php?info_id=1294",
+    "pass": 3
+   },
+   {
+    "quote": "平均速度、平均推進速度、パワー、フォース、ピーク速度出現までの時間、RFD、RSI、RSImodなど多くの指標を取得できるEnodeがこの度、日本語表示に対応しました",
+    "url": "https://jati.jp/news/detail.php?info_id=1294",
+    "pass": 3
+   },
+   {
+    "quote": "千葉・東京、神奈川を中心に活動しているアスレティックトレーナーの蟹田です",
+    "url": "https://note.com/kani_akt25/n/n47fc0a82bbb4",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "info@sandcplanning.com",
+    "url": "https://sandccorporation.com/enode",
+    "pass": 3
+   },
+   {
+    "quote": "E-mail: info@sandcplanning.com",
+    "url": "https://jati.jp/news/detail.php?info_id=1160",
+    "pass": 3
+   },
+   {
+    "quote": "E-mail: info@sandcplanning.com",
+    "url": "https://jati.jp/news/detail.php?info_id=1294",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/463285-99",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Enode :超小型VBTデバイス / エスアンドシー株式会社機器紹介 — Enode :超小型VBTデバイス / エスアンドシー株式会社機器紹介 sandccorporation.com https://sandccorporation.com > enode",
+    "url": "https://sandccorporation.com/enode",
+    "pass": 3
+   },
+   {
+    "quote": "この度、弊社翻訳作業により、 Enode Proアプリの 日本 語化が ... — この度、弊社翻訳作業により、 Enode Proアプリの 日本 語化が ... Facebook https://www.facebook.com > SandCCorporation > posts",
+    "url": "https://www.facebook.com/SandCCorporation/posts/%E3%81%93%E3%81%AE%E5%BA%A6%E5%BC%8A%E7%A4%BE%E7%BF%BB%E8%A8%B3%E4%BD%9C%E6%A5%AD%E3%81%AB%E3%82%88%E3%82%8Aenode-pro%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AE%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%8C%96%E3%81%8C%E5%AE%8C%E4%BA%86%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%8C%96%E3%81%AB%E5%AF%BE%E5%BF%9C%E3%81%97%E3%81%9F%E3%81%93%E3%81%A8%E3%81%A7%E7%9B%B4%E6%84%9F%E7%9A%84%E3%81%AB%E6%93%8D%E4%BD%9C%E3%81%97%E3%82%84%E3%81%99%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%8A%E3%82%8A%E3%81%BE%E3%81%99%E3%81%AE%E3%81%A7%E6%98%AF%E9%9D%9Eenode%E3%82%92%E3%81%94%E6%B4%BB%E7%94%A8%E3%81%8F%E3%81%A0/924630386334169/",
+    "pass": 3
+   },
+   {
+    "quote": "超小型VBTデバイス【 Enode 】 — 超小型VBTデバイス【 Enode 】 sport-science.jp https://sport-science.jp > ブログ",
+    "url": "https://sport-science.jp/blog/detail/20250411172408/",
+    "pass": 3
+   },
+   {
+    "quote": "Vmaxproから名称変更されたVBTデバイス“ Enode ” - JATI — Vmaxproから名称変更されたVBTデバイス“ Enode ” - JATI JATI-日本トレーニング指導者協会 https://jati.jp > news > detail",
+    "url": "https://jati.jp/news/detail.php?info_id=1160",
+    "pass": 3
+   },
+   {
+    "quote": "VBTデバイス【 Enode 】 導入 のお知らせ - PEP Osaka — VBTデバイス【 Enode 】 導入 のお知らせ - PEP Osaka pep-osaka.jp https://pep-osaka.jp > info",
+    "url": "https://pep-osaka.jp/info/20231122",
+    "pass": 3
+   },
+   {
+    "quote": "eNODE -4 eDMX converter for DINA-DR1 — eNODE -4 eDMX converter for DINA-DR1 Nicolaudie Architectural https://www.nicolaudie.com > enode-4",
+    "url": "https://www.nicolaudie.com/ja/enode-4",
+    "pass": 3
+   },
+   {
+    "quote": "Enode - スポーツの科学はエスアンドシー — Enode - スポーツの科学はエスアンドシー sport-science.jp https://sport-science.jp > 商品一覧",
+    "url": "https://sport-science.jp/products2/detail/20240909111937/",
+    "pass": 3
+   },
+   {
+    "quote": "ENODEN（TRAIN） | Enoshima Electric Railway — ENODEN（TRAIN） | Enoshima Electric Railway 江ノ島電鉄株式会社 https://www.enoden.co.jp > train",
+    "url": "https://www.enoden.co.jp/en/train/",
+    "pass": 3
+   },
+   {
+    "quote": "Enode : Orchestrating energy for the next grid — Enode : Orchestrating energy for the next grid Enode https://enode.com",
+    "url": "https://enode.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツ製VBTデバイス「 Enode :エノード」待望の 日本 語対応! — ドイツ製VBTデバイス「 Enode :エノード」待望の 日本 語対応! JATI-日本トレーニング指導者協会 https://jati.jp > news > detail",
+    "url": "https://jati.jp/news/detail.php?info_id=1294",
+    "pass": 3
+   },
+   {
+    "quote": "Enode アプリ - App Store — Enode アプリ - App Store Apple https://apps.apple.com > app > enode",
+    "url": "https://apps.apple.com/jp/app/enode/id6450605402",
+    "pass": 3
+   },
+   {
+    "quote": "Q1 recap: Scaling flexibility across the ecosystem - Enode — Q1 recap: Scaling flexibility across the ecosystem - Enode Enode https://enode.com > updates > q1-reca...",
+    "url": "https://enode.com/updates/q1-recap-scaling-flexibility-across-the-ecosystem",
+    "pass": 3
+   },
+   {
+    "quote": "Peblar x Enode : Expanding EV charger choices for energy ... — Peblar x Enode : Expanding EV charger choices for energy ... Enode https://enode.com > newsroom > pebl...",
+    "url": "https://enode.com/newsroom/peblar-x-enode-expanding-ev-charger-choices-for-energy-retailers",
+    "pass": 3
+   },
+   {
+    "quote": "Enode Revenue 2024: $8.4M Est. - GetLatka — Enode Revenue 2024: $8.4M Est. - GetLatka GetLatka https://getlatka.com > enode",
+    "url": "https://getlatka.com/companies/enode.com",
+    "pass": 3
+   },
+   {
+    "quote": "Enode 2026 Company Profile: Valuation, Funding & Investors — Enode 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/463285-99",
+    "pass": 3
+   },
+   {
+    "quote": "Enode - 2026 Company Profile & Team - Tracxn — Enode - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/enode/__BbC9QDTInSvM8NgUFO_NFgCoqgiLIStJJfxcxN0E68Y",
+    "pass": 3
+   },
+   {
+    "quote": "Enode — venture-backed company profile - Dealroom — Enode — venture-backed company profile - Dealroom Dealroom https://dealroom.co > enode",
+    "url": "https://dealroom.co/companies/enode/",
+    "pass": 3
+   },
+   {
+    "quote": "Enode Funding | $7.3M Revenue | Complete Analysis — Enode Funding | $7.3M Revenue | Complete Analysis Extruct AI https://www.extruct.ai > enode-com",
+    "url": "https://www.extruct.ai/hub/enode-com/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "数値でみる3種類のジャンプ～ Enode を使った自己分析 - note 数値でみる3種類のジャンプ～ Enode を使った自己分析 - note note https://note.com > スポーツ > フィットネス・トレーニング",
+    "url": "https://note.com/kani_akt25/n/n47fc0a82bbb4",
+    "pass": 3
+   },
+   {
+    "quote": "VBTトレーニングデバイス Enode の導入 - note VBTトレーニングデバイス Enode の導入 - note note https://note.com > スポーツ > フィットネス・トレーニング",
+    "url": "https://note.com/takanotakuma/n/n41abf3c461dc",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "数値でみる3種類のジャンプ～Enodeを使った自己分析～｜蟹田亮人",
+    "url": "https://note.com/kani_akt25/n/n47fc0a82bbb4",
+    "pass": 3
+   },
+   {
+    "quote": "数値でみる3種類のジャンプ～Enodeを使った自己分析～",
+    "url": "https://note.com/kani_akt25/n/n47fc0a82bbb4",
+    "pass": 3
+   },
+   {
+    "quote": "千葉・東京、神奈川を中心に活動しているアスレティックトレーナーの蟹田です。",
+    "url": "https://note.com/kani_akt25/n/n47fc0a82bbb4",
+    "pass": 3
+   },
+   {
+    "quote": "現在はスポーツ現場でのサポートを中心に、コンディショニングジム内で一般の方からアスリートまで幅広く指導を行っています。",
+    "url": "https://note.com/kani_akt25/n/n47fc0a82bbb4",
+    "pass": 3
+   },
+   {
+    "quote": "今年からEnodeというVBTデバイスを導入して、トレーニングや体の反応を数値で見える化しながらトレーニング指導を行っています。今回はその一環として、自分自身のジャンプを数値化しながら分析を行ってみたので「数値でみる3種類のジャンプ」というテーマでお届けしたいと思います。",
+    "url": "https://note.com/kani_akt25/n/n47fc0a82bbb4",
+    "pass": 3
+   },
+   {
+    "quote": "ジャンプテストは単に跳ぶ高さだけを見ているのではなく、ジャンプの種類によって、筋出力、SSC、協調性など「力の出し方の癖」や「苦手パターン」が浮き彫りになります。",
+    "url": "https://note.com/kani_akt25/n/n47fc0a82bbb4",
+    "pass": 3
+   },
+   {
+    "quote": "今回実施した3種類のジャンプは以下になります。",
+    "url": "https://note.com/kani_akt25/n/n47fc0a82bbb4",
+    "pass": 3
+   },
+   {
+    "quote": "しゃがんで反動をつけて跳ぶ動作。SSCや全身の連動性が評価できる。",
+    "url": "https://note.com/kani_akt25/n/n47fc0a82bbb4",
+    "pass": 3
+   },
+   {
+    "quote": "VBTトレーニングデバイス Enode の導入｜鷹野琢磨@KOA GYM Trainer",
+    "url": "https://note.com/takanotakuma/n/n41abf3c461dc",
+    "pass": 3
+   },
+   {
+    "quote": "VBTトレーニングデバイス Enode の導入",
+    "url": "https://note.com/takanotakuma/n/n41abf3c461dc",
+    "pass": 3
+   },
+   {
+    "quote": "VBT（Velocity Based Training) ヴェロシティーとは速度を意味します。",
+    "url": "https://note.com/takanotakuma/n/n41abf3c461dc",
+    "pass": 3
+   },
+   {
+    "quote": "速度、出力向上を目的としたトレーニングとなっており、",
+    "url": "https://note.com/takanotakuma/n/n41abf3c461dc",
+    "pass": 3
+   },
+   {
+    "quote": "Enodehは速度センサーを搭載し測定、可視化しながらのトレーニングを可能とします。",
+    "url": "https://note.com/takanotakuma/n/n41abf3c461dc",
+    "pass": 3
+   },
+   {
+    "quote": "トレーニングの基本は筋肥大、筋持久力などがありますが、速度、出力はより実践的な要素になります。",
+    "url": "https://note.com/takanotakuma/n/n41abf3c461dc",
+    "pass": 3
+   },
+   {
+    "quote": "例えばプロアスリートに求められる、瞬間的なパワー。",
+    "url": "https://note.com/takanotakuma/n/n41abf3c461dc",
+    "pass": 3
+   },
+   {
+    "quote": "速く走る、高く飛ぶ、遠くに投げる、強く打つ等々、全ての動作には瞬間的なパワーの発揮が必要ですね。",
+    "url": "https://note.com/takanotakuma/n/n41abf3c461dc",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Enode (@EnodeHQ) / X Enode (@EnodeHQ) / X X https://x.com > EnodeHQ",
+    "url": "https://x.com/EnodeHQ",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Enode | LinkedIn Enode | LinkedIn LinkedIn Norge https://no.linkedin.com > enode-io",
+    "url": "https://no.linkedin.com/company/enode-io",
+    "pass": 3
+   },
+   {
+    "quote": "Henrik Langeland – CEO & Co-founder at Enode | LinkedIn Henrik Langeland – CEO & Co-founder at Enode | LinkedIn LinkedIn Norge https://no.linkedin.com > henriklange...",
+    "url": "https://no.linkedin.com/in/henriklangeland",
+    "pass": 3
+   },
+   {
+    "quote": "Tim Finney - VP Operations @ Enode - LinkedIn Tim Finney - VP Operations @ Enode - LinkedIn LinkedIn https://www.linkedin.com > tim-finney",
+    "url": "https://www.linkedin.com/in/tim-finney",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Enode - make every rep count | Magdeburg - Facebook Enode - make every rep count | Magdeburg - Facebook Facebook https://www.facebook.com > ... > Brand > Product/service",
+    "url": "https://www.facebook.com/enodesports/",
+    "pass": 3
+   },
+   {
+    "quote": "Velocity based training for individual lifters with Enode Velocity based training for individual lifters with Enode Facebook https://www.facebook.com > enodesports > posts > vbt-is-...",
+    "url": "https://www.facebook.com/enodesports/posts/vbt-is-for-pro-teams-with-a-budgetit-was-ten-years-ago-now-its-a-16-g-sensor-on-/1692879369514781/",
+    "pass": 3
+   },
+   {
+    "quote": "How to share Kia EV9 data via Enode for ABRP - Facebook How to share Kia EV9 data via Enode for ABRP - Facebook Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/822432632987199/posts/1495010022396120/",
+    "pass": 3
+   },
+   {
+    "quote": "Enode アプリが新機能を搭載し、新登場します！ 新しい ... Enode アプリが新機能を搭載し、新登場します！ 新しい ... Facebook https://www.facebook.com > S&C Corporation > Videos",
+    "url": "https://www.facebook.com/SandCCorporation/videos/enode%E3%82%A2%E3%83%97%E3%83%AA%E3%81%8C%E6%96%B0%E6%A9%9F%E8%83%BD%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E6%96%B0%E7%99%BB%E5%A0%B4%E3%81%97%E3%81%BE%E3%81%99%E6%96%B0%E3%81%97%E3%81%84%E3%83%95%E3%82%A3%E3%83%BC%E3%83%89%E3%83%90%E3%83%83%E3%82%AF%E7%94%BB%E9%9D%A2%E3%82%B9%E3%82%B1%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E6%A9%9F%E8%83%BD%E8%B1%8A%E5%AF%8C%E3%81%AA%E7%A8%AE%E7%9B%AE%E3%82%A6%E3%82%A7%E3%83%96%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-portal%E3%81%AE%E7%99%BB%E5%A0%B4%E3%81%AA%E3%81%A9%E3%82%A2%E3%83%97%E3%83%AA%E3%81%8C%E4%B8%80%E6%96%B0%E3%81%95%E3%82%8C/1567822511055668/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://enode.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enode.com/partnerships",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enode.com/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enode.com/customers/vattenfall",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enode.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enode.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enode.com/newsroom/wallbox-and-enode-make-smart-charging-easier-to-build-at-scale",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enode.com/newsroom/sma-partners-with-enode-to-unlock-solar-and-battery-flexibility-for-the-next-grid",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enode.com/newsroom/peblar-x-enode-expanding-ev-charger-choices-for-energy-retailers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enode.com/newsroom/indra-and-enode-partner-to-bring-smart-ev-charging-into-energy-apps-and-flexibility-programs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enode.com/newsroom/enode-selected-by-engie-to-scale-residential-ev-flexibility",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enode.com/customers/ostrom",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enode.com/customers/iberdrola",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://sandccorporation.com/enode",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.facebook.com/SandCCorporation/posts/%E3%81%93%E3%81%AE%E5%BA%A6%E5%BC%8A%E7%A4%BE%E7%BF%BB%E8%A8%B3%E4%BD%9C%E6%A5%AD%E3%81%AB%E3%82%88%E3%82%8Aenode-pro%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AE%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%8C%96%E3%81%8C%E5%AE%8C%E4%BA%86%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%8C%96%E3%81%AB%E5%AF%BE%E5%BF%9C%E3%81%97%E3%81%9F%E3%81%93%E3%81%A8%E3%81%A7%E7%9B%B4%E6%84%9F%E7%9A%84%E3%81%AB%E6%93%8D%E4%BD%9C%E3%81%97%E3%82%84%E3%81%99%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%8A%E3%82%8A%E3%81%BE%E3%81%99%E3%81%AE%E3%81%A7%E6%98%AF%E9%9D%9Eenode%E3%82%92%E3%81%94%E6%B4%BB%E7%94%A8%E3%81%8F%E3%81%A0/924630386334169/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://sport-science.jp/blog/detail/20250411172408/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://jati.jp/news/detail.php?info_id=1160",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sandcplanning.com/contact",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nicolaudie.com/ja/enode-4",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.pendo.io/ja-jp/news/pendo-announces-its-first-partnership-with-macnica-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sport-science.jp/products2/detail/20240909111937/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.enoden.co.jp/en/train/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jati.jp/news/detail.php?info_id=1294",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sandccorporation.com/enode",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vL2BxFmK2I9eYoeVfXmqJXw8-IFZQrXEptGNmniaHX_7Y7F4Kel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nature.com/articles/s41598-026-37315-2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/industries/customer-success-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://webinone.com/reseller-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/enode.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/463285-99",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/enode/__BbC9QDTInSvM8NgUFO_NFgCoqgiLIStJJfxcxN0E68Y",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://dealroom.co/companies/enode/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kani_akt25/n/n47fc0a82bbb4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/takanotakuma/n/n41abf3c461dc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/EnodeHQ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://no.linkedin.com/company/enode-io",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://no.linkedin.com/in/henriklangeland",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/tim-finney",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/enodesports/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/enodesports/posts/vbt-is-for-pro-teams-with-a-budgetit-was-ten-years-ago-now-its-a-16-g-sensor-on-/1692879369514781/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/822432632987199/posts/1495010022396120/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SandCCorporation/videos/enode%E3%82%A2%E3%83%97%E3%83%AA%E3%81%8C%E6%96%B0%E6%A9%9F%E8%83%BD%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E6%96%B0%E7%99%BB%E5%A0%B4%E3%81%97%E3%81%BE%E3%81%99%E6%96%B0%E3%81%97%E3%81%84%E3%83%95%E3%82%A3%E3%83%BC%E3%83%89%E3%83%90%E3%83%83%E3%82%AF%E7%94%BB%E9%9D%A2%E3%82%B9%E3%82%B1%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E6%A9%9F%E8%83%BD%E8%B1%8A%E5%AF%8C%E3%81%AA%E7%A8%AE%E7%9B%AE%E3%82%A6%E3%82%A7%E3%83%96%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-portal%E3%81%AE%E7%99%BB%E5%A0%B4%E3%81%AA%E3%81%A9%E3%82%A2%E3%83%97%E3%83%AA%E3%81%8C%E4%B8%80%E6%96%B0%E3%81%95%E3%82%8C/1567822511055668/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Enode 日本 導入",
+   "results": [
+    "https://sandccorporation.com/enode",
+    "https://www.facebook.com/SandCCorporation/posts/%E3%81%93%E3%81%AE%E5%BA%A6%E5%BC%8A%E7%A4%BE%E7%BF%BB%E8%A8%B3%E4%BD%9C%E6%A5%AD%E3%81%AB%E3%82%88%E3%82%8Aenode-pro%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AE%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%8C%96%E3%81%8C%E5%AE%8C%E4%BA%86%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%8C%96%E3%81%AB%E5%AF%BE%E5%BF%9C%E3%81%97%E3%81%9F%E3%81%93%E3%81%A8%E3%81%A7%E7%9B%B4%E6%84%9F%E7%9A%84%E3%81%AB%E6%93%8D%E4%BD%9C%E3%81%97%E3%82%84%E3%81%99%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%8A%E3%82%8A%E3%81%BE%E3%81%99%E3%81%AE%E3%81%A7%E6%98%AF%E9%9D%9Eenode%E3%82%92%E3%81%94%E6%B4%BB%E7%94%A8%E3%81%8F%E3%81%A0/924630386334169/",
+    "https://sport-science.jp/blog/detail/20250411172408/",
+    "https://jati.jp/news/detail.php?info_id=1160",
+    "https://pep-osaka.jp/info/20231122",
+    "https://www.fujitraininggym.com/2025/08/31/%E5%BD%93%E3%82%B8%E3%83%A0%E3%81%8C%E6%89%B1%E3%81%86vbt%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9-enode-%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E9%80%9F%E5%BA%A6%E3%81%A7%E7%AE%A1%E7%90%86%E3%81%99%E3%82%8B%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0/",
+    "https://www.instagram.com/reel/DIlYPXKznvy/",
+    "https://www.instagram.com/p/Cmh5_J2vY9o/",
+    "https://www.instagram.com/reel/DJV7boDTWc1/",
+    "https://enode.com/partnerships"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Enode 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://sandcplanning.com/contact",
+    "https://www.nicolaudie.com/ja/enode-4",
+    "https://www.pendo.io/news/pendo-announces-its-first-partnership-with-macnica-in-japan/",
+    "https://sport-science.jp/products2/detail/20240909111937/",
+    "https://www.instagram.com/p/DHvLm7STuax/",
+    "https://innovator-inc.co.jp/service/oem/",
+    "https://sandcplanning.stores.jp/items/60b73ef37c42ee514d4059b1",
+    "https://www.enetsystems.co.jp/agency/",
+    "https://b-seeds.com/business/target/btob/company",
+    "https://metoree.com/companies/distributors-relationships/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Enode Japan",
+   "results": [
+    "https://www.enoden.co.jp/en/train/",
+    "https://enode.com/",
+    "https://jati.jp/news/detail.php?info_id=1294",
+    "https://sandccorporation.com/enode",
+    "https://apps.apple.com/jp/app/enode/id6450605402",
+    "https://www.youtube.com/watch?v=_XvQVo0_-3Q",
+    "https://www.facebook.com/SandCCorporation/videos/enode%E3%82%A2%E3%83%97%E3%83%AA%E3%81%8C%E6%96%B0%E6%A9%9F%E8%83%BD%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E6%96%B0%E7%99%BB%E5%A0%B4%E3%81%97%E3%81%BE%E3%81%99%E6%96%B0%E3%81%97%E3%81%84%E3%83%95%E3%82%A3%E3%83%BC%E3%83%89%E3%83%90%E3%83%83%E3%82%AF%E7%94%BB%E9%9D%A2%E3%82%B9%E3%82%B1%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E6%A9%9F%E8%83%BD%E8%B1%8A%E5%AF%8C%E3%81%AA%E7%A8%AE%E7%9B%AE%E3%82%A6%E3%82%A7%E3%83%96%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-portal%E3%81%AE%E7%99%BB%E5%A0%B4%E3%81%AA%E3%81%A9%E3%82%A2%E3%83%97%E3%83%AA%E3%81%8C%E4%B8%80%E6%96%B0%E3%81%95%E3%82%8C/1567822511055668/",
+    "https://play.google.com/store/apps/details?id=com.enode.enodeone",
+    "https://sport-science.jp/products2/detail/20240909111937/",
+    "https://enode.com/company"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Enode manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vL2BxFmK2I9eYoeVfXmqJXw8-IFZQrXEptGNmniaHX_7Y7F4Kel",
+    "https://www.nature.com/articles/s41598-026-37315-2",
+    "https://enode.com/updates/q1-recap-scaling-flexibility-across-the-ecosystem",
+    "https://www.eos.info/industries/customer-success-stories",
+    "https://www.factbird.com/resources/case-studies",
+    "https://kanerika.com/blogs/generative-ai-in-manufacturing/",
+    "https://safetychain.com/resources/case-studies",
+    "https://c3.ai/customers",
+    "https://www.rit.edu/advancedmanufacturing/industry40/course/industry-40-case-studies-curated",
+    "https://enode.com/customers/essent"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Enode white label OR reseller OR partner program",
+   "results": [
+    "https://enode.com/newsroom/peblar-x-enode-expanding-ev-charger-choices-for-energy-retailers",
+    "https://webinone.com/reseller-program",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://www.agencyplatform.com/seo-reseller-program/",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://evincedev.com/blog/a-detailed-guide-to-white-label-reseller-program-to-grow-your-existing-business/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Enode founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/enode.com",
+    "https://pitchbook.com/profiles/company/463285-99",
+    "https://tracxn.com/d/companies/enode/__BbC9QDTInSvM8NgUFO_NFgCoqgiLIStJJfxcxN0E68Y",
+    "https://dealroom.co/companies/enode/",
+    "https://www.extruct.ai/hub/enode-com/",
+    "https://www.crunchbase.com/organization/enode",
+    "https://leadiq.com/c/enode/5f7c9f7912990524e7f7fe30",
+    "https://enode.com/newsroom/series-a-accelerate-worlds-energy-transition",
+    "https://www.cbinsights.com/company/enode/financials",
+    "https://compworth.com/company/enode"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com Enode",
+   "results": [
+    "https://note.com/kani_akt25/n/n47fc0a82bbb4",
+    "https://note.com/takanotakuma/n/n41abf3c461dc",
+    "https://note.com/jun610448/n/nd8806c19bb13",
+    "https://note.com/jun610448/n/n8f13d14bb9eb",
+    "https://note.com/jun610448/n/na660a517f3c7",
+    "https://note.com/jun610448/n/n53ab770853eb",
+    "https://note.com/kani_akt25/n/n6f18216fc9f8",
+    "https://note.com/kani_akt25/n/n1f77f3833f98",
+    "https://note.com/jun610448/n/n8bfe2c4561e4",
+    "https://note.com/takanotakuma"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:x.com Enode",
+   "results": [
+    "https://x.com/EnodeHQ",
+    "https://x.com/takedaiguji30/status/2080933348936163366",
+    "https://x.com/Fukaya_VBC/status/1838945480279298098/photo/3",
+    "https://x.com/FunatoJunya",
+    "https://x.com/hashtag/VPP",
+    "https://x.com/shonanjincom/status/2090729369711046914",
+    "https://x.com/ChargedEVs",
+    "https://x.com/atracosrd/status/2119138508782833982/photo/3",
+    "https://x.com/hashtag/sandccorp?src=hashtag_click",
+    "https://x.com/enodesports"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com Enode",
+   "results": [
+    "https://no.linkedin.com/company/enode-io",
+    "https://no.linkedin.com/in/henriklangeland",
+    "https://www.linkedin.com/posts/thorvald-thorsnes_after-six-incredible-years-ive-stepped-activity-7470744071402172416-kgLn",
+    "https://www.linkedin.com/in/tim-finney",
+    "https://no.linkedin.com/jobs/view/product-lead-experience-at-enode-4432916575",
+    "https://www.linkedin.com/in/enodepro",
+    "https://no.linkedin.com/jobs/view/partnerships-manager-at-enode-4456889913",
+    "https://www.linkedin.com/posts/enode-io_enode-orchestrating-energy-for-the-next-activity-7500478942781411328-xqjl",
+    "https://es.linkedin.com/in/daanaya",
+    "https://www.linkedin.com/company/enode-io"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Enode",
+   "results": [
+    "https://www.facebook.com/enodesports/",
+    "https://www.facebook.com/enodesports/posts/vbt-is-for-pro-teams-with-a-budgetit-was-ten-years-ago-now-its-a-16-g-sensor-on-/1692879369514781/",
+    "https://www.facebook.com/groups/822432632987199/posts/1495010022396120/",
+    "https://www.facebook.com/SandCCorporation/videos/enode%E3%82%A2%E3%83%97%E3%83%AA%E3%81%8C%E6%96%B0%E6%A9%9F%E8%83%BD%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E6%96%B0%E7%99%BB%E5%A0%B4%E3%81%97%E3%81%BE%E3%81%99%E6%96%B0%E3%81%97%E3%81%84%E3%83%95%E3%82%A3%E3%83%BC%E3%83%89%E3%83%90%E3%83%83%E3%82%AF%E7%94%BB%E9%9D%A2%E3%82%B9%E3%82%B1%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E6%A9%9F%E8%83%BD%E8%B1%8A%E5%AF%8C%E3%81%AA%E7%A8%AE%E7%9B%AE%E3%82%A6%E3%82%A7%E3%83%96%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-portal%E3%81%AE%E7%99%BB%E5%A0%B4%E3%81%AA%E3%81%A9%E3%82%A2%E3%83%97%E3%83%AA%E3%81%8C%E4%B8%80%E6%96%B0%E3%81%95%E3%82%8C/1567822511055668/",
+    "https://www.facebook.com/groups/vw.id.buzz.bulli/posts/3020458111456303/",
+    "https://www.facebook.com/groups/theioniqguy/posts/1427304135293461/",
+    "https://www.facebook.com/groups/everythingstagelighting/posts/1544238159111950/",
+    "https://www.facebook.com/SandCCorporation/posts/%E3%81%93%E3%81%AE%E5%BA%A6%E5%BC%8A%E7%A4%BE%E7%BF%BB%E8%A8%B3%E4%BD%9C%E6%A5%AD%E3%81%AB%E3%82%88%E3%82%8Aenode-pro%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AE%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%8C%96%E3%81%8C%E5%AE%8C%E4%BA%86%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%8C%96%E3%81%AB%E5%AF%BE%E5%BF%9C%E3%81%97%E3%81%9F%E3%81%93%E3%81%A8%E3%81%A7%E7%9B%B4%E6%84%9F%E7%9A%84%E3%81%AB%E6%93%8D%E4%BD%9C%E3%81%97%E3%82%84%E3%81%99%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%8A%E3%82%8A%E3%81%BE%E3%81%99%E3%81%AE%E3%81%A7%E6%98%AF%E9%9D%9Eenode%E3%82%92%E3%81%94%E6%B4%BB%E7%94%A8%E3%81%8F%E3%81%A0/924630386334169/",
+    "https://www.facebook.com/groups/everythingstagelighting/posts/615191018683340/",
+    "https://www.facebook.com/enodesports/reels/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Enode note 社長",
+   "results": [
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/sadaaki",
+    "https://www.youtube.com/watch?v=xPafg3yYObE",
+    "https://enode.com/company",
+    "https://x.com/sadaaki",
+    "https://note.com/ine_pr/m/m9f603fabbde1",
+    "https://team.nipponia.or.jp/blog/3571/",
+    "https://note.com/note_ir/n/n722b1675e9e7",
+    "https://note.com/irie_cocoo",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Enode X 投稿",
+   "results": [
+    "https://enode.ai/",
+    "https://simplifaster.com/articles/enode-pro-review/",
+    "https://www.youtube.com/watch?v=BsSmz2EeAY8",
+    "https://www.instagram.com/reel/DMNhhukMOiO/",
+    "https://www.instagram.com/enodesports/",
+    "https://play.google.com/store/apps/details?id=com.enode.enodeone&hl=ja",
+    "https://www.facebook.com/enodesports/",
+    "https://www.youtube.com/watch?v=_XvQVo0_-3Q",
+    "https://x.com/EnodeHQ",
+    "https://x.com/enodesports"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部31頁・検索12回）"
+ }
+}

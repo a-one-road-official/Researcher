@@ -1,0 +1,538 @@
+{
+ "name": "XJet — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:3d-metal-printer-distributor;advanced-materials-manufacturer;binder-jetting;bioink-manufacturer;bound-metal-printing;ceramic-filament;ceramics-3d-printer-reseller;ceramics-3d-printing-service;ceramics-material-manufacturer;filament-extruder;materials;powder-manufacturer",
+ "researched_at": "2026-11-09T18:19:37.362681+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "XJet (@XJet_3d) / Posts / X Dec 7 Thank you to @VoxelMatters team for this comprehensive feature on XJet's approach to metal additive manufacturing! Read the full article:",
+    "url": "https://x.com/XJet_3d",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookVoxelMatters - Alumina: XJet's new technical ceramic and ...VoxelMatters on Reels | FacebookFacebook瓏昇實業股份有限公司 | Taichung - FacebookX-Jet Technologies - Facebook3DPrint.com - In #3DPrinting News Briefs, 3dpbm has... | Facebook VoxelMatters. 2,907 followers · 4 talking about this. The additive manufacturing insights that matter Nov 15, 2018 · VoxelMatters Jan 23 Susan Fang ju",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   },
+   {
+    "quote": "VoxelMatters - Alumina: XJet's new technical ceramic and ... Nov 15, 2018 · VoxelMatters Jan 23 Susan Fang just dropped these 3D printed iPhone 17 Pro cases in collaboration with Apple. 🌸 The organic, floral textures are printed in flexible TPU and each piece is hand-dyed at Fang’s studio. It is a completely made-to-order process, which is why they can get away with such complex, nature ...",
+    "url": "https://www.facebook.com/VoxelMatters/posts/alumina-xjets-new-technical-ceramic-and-support-material-unveiled3dprinting-addi/1063146603857464/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/category/industry-2/distribution/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://xjet3d.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=E8uJKDCSU08",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/xjet-to-launch-xparts-3d-printing-service-for-ceramics-and-metals/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/xjet-3d-partners-with-complete-am-to-open-up-us-opportunities/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://xjet3d.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://i-maker.jp/blog/metal-xjet-3dprinter-9381.html?srsltid=AYCX9vIt3wFuavoUgezIIxe3N_mE8OSquZagIAiz13bvZfQ4mGgnlnhF",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ohno-inkjet.com/?p=110625",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=U5HTyOcdKVY&vl=ja",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zen-global.co/pages/about-xjet?srsltid=AYCX9vLB99ftiHWLFdgRD-LypYcvQ6Gro8cBJRX53WUDU5DDc_aU2ilz",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.poly-maker.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop.exmatelab.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/category/industry-2/distribution/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://xjet3d.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=E8uJKDCSU08",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://xjet3d.com/pr/xjet-appoints-zen-global-as-sales-partner-and-representative-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://xjet3d.com/prs-archive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=E8uJKDCSU08",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/PRESSURE-DELUXE-VARIABLE-RANGE-NOZZLE/dp/B071RR8M91",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/6%E3%83%9D%E3%83%BC%E3%83%88%E5%90%8C%E6%99%82%E6%80%A5%E9%80%9F%E5%85%85%E9%9B%BB-%E3%83%80%E3%83%96%E3%83%ABGaNFast%E2%85%A2-%E5%8D%98%E4%B8%80%E3%83%9D%E3%83%BC%E3%83%88100W%E5%B8%B8%E6%99%82%E5%AF%BE%E5%BF%9C-%E8%A4%87%E6%95%B0%E3%83%8E%E3%83%BC%E3%83%88PC%E3%81%AB%E6%80%A5%E9%80%9F%E5%85%85%E9%9B%BB%E5%AF%BE%E5%BF%9C-PD%E5%AF%BE%E5%BF%9CWindows/dp/B0DHXT7BJV",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.amazon.co.jp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00683943/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/02608575/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/01409991/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/xjet-to-launch-xparts-3d-printing-service-for-ceramics-and-metals/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://finder.startupnationcentral.org/company_page/xjet-ltd",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/55315-90",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/xjet/__3ecxQhUSO7r2TwwGDFemi4rl4YgR2JWlRsk_xDck_eg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/XJet_3d",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/posts/alumina-xjets-new-technical-ceramic-and-support-material-unveiled3dprinting-addi/1063146603857464/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "XJet — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/category/industry-2/distribution/",
+    "https://xjet3d.com/",
+    "https://www.voxelmatters.directory/",
+    "https://www.youtube.com/watch?v=E8uJKDCSU08",
+    "https://www.voxelmatters.com/",
+    "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "https://www.voxeljet.com/3d-parts-on-demand/",
+    "https://idarts.co.jp/3dp/xjet-inkjet-metal-3d-printer/?srsltid=AYCX9vJOsq0pgcUH3vcgGa0cfhYqiDUE6oUTFOp70zkFc1WzI7bt2VXT",
+    "https://xjet3d.com/pr/xjet-appoints-zen-global-as-sales-partner-and-representative-in-japan/",
+    "https://www.voxelmatters.com/xjet-enters-japanese-market-through-zen-global-sales-partnership/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "XJet — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://www.voxelmatters.com/xjet-to-launch-xparts-3d-printing-service-for-ceramics-and-metals/",
+    "https://www.voxelmatters.com/xjet-3d-partners-with-complete-am-to-open-up-us-opportunities/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://xjet3d.com/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.porsche.com/japan/jp/accessoriesandservice/vehicle-accessories/",
+    "https://jpn.mizuno.com/shop/mizunoshop_shinsaibashi",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://distymap.com/distributors",
+    "https://skhonpo.com/pages/maker"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "XJet — VoxelMatters 日本 販売",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://i-maker.jp/blog/metal-xjet-3dprinter-9381.html?srsltid=AYCX9vIt3wFuavoUgezIIxe3N_mE8OSquZagIAiz13bvZfQ4mGgnlnhF",
+    "https://ohno-inkjet.com/?p=110625",
+    "https://www.youtube.com/watch?v=U5HTyOcdKVY&vl=ja",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://ja.aliexpress.com/item/1005012496128442.html",
+    "https://www.amazon.co.jp/-/en/Additive-Manufacturing-Products/b?ie=UTF8&node=2500103051",
+    "https://shop.exmatelab.com/",
+    "https://jp.linkedin.com/in/kayne-ikeda-28982954/ja",
+    "https://www.voxelmatters.com/xjet-enters-japanese-market-through-zen-global-sales-partnership/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "XJet — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://skhonpo.com/",
+    "https://zen-global.co/pages/about-xjet?srsltid=AYCX9vLB99ftiHWLFdgRD-LypYcvQ6Gro8cBJRX53WUDU5DDc_aU2ilz",
+    "https://www.poly-maker.jp/",
+    "https://shop.exmatelab.com/",
+    "https://www.amazon.co.jp/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF-%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E7%B4%A0%E6%9D%90/b?ie=UTF8&node=3489859051",
+    "https://www.askul.co.jp/s/02-0205-0205004-02050040002/",
+    "https://search.rakuten.co.jp/search/mall/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E7%94%A8%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/",
+    "https://3dfs.idarts.co.jp/",
+    "https://www.monotaro.com/k/store/レジン/",
+    "https://fantist.com/articles/1092"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "XJet — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/category/industry-2/distribution/",
+    "https://xjet3d.com/",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://www.youtube.com/watch?v=E8uJKDCSU08",
+    "https://xjet3d.com/pr/xjet-appoints-zen-global-as-sales-partner-and-representative-in-japan/",
+    "https://www.voxelmatters.report/methodology/",
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.exone.com/en/",
+    "https://www.upnano.com/distributors/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "XJet — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://xjet3d.com/pr/xjet-appoints-zen-global-as-sales-partner-and-representative-in-japan/",
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://xjet3d.com/prs-archive/",
+    "https://www.youtube.com/watch?v=E8uJKDCSU08",
+    "https://www.voxelmatters.directory/",
+    "https://develop3d.com/3d-printing/xjet-3dprinting-jetting-off-into-the-future-israel-ceramic-metal/",
+    "https://www.voxelmatters.com/category/industry-2/distribution/",
+    "https://www.exone.com/en/",
+    "https://www.upnano.com/distributors/",
+    "https://www.voxelmatters.com/xjet-enters-japanese-market-through-zen-global-sales-partnership/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:amazon.co.jp XJet — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/PRESSURE-DELUXE-VARIABLE-RANGE-NOZZLE/dp/B071RR8M91",
+    "https://www.amazon.co.jp/6ポート同時急速充電-ダブルGaNFastⅢ-単一ポート100W常時対応-複数ノートPCに急速充電対応-PD対応Windows/dp/B0DHXT7BJV",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://r.amazon.co.jp/",
+    "https://business.amazon.co.jp/ja/solutions/payment-options/pay-by-invoice",
+    "https://shigoto.amazon.co.jp/",
+    "https://business.amazon.co.jp/ja/login"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com XJet — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/g/00683943/",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/g/02608575/",
+    "https://www.monotaro.com/g/01409991/",
+    "https://www.monotaro.com/p/0816/1133/",
+    "https://www.monotaro.com/p/3764/0793/",
+    "https://www.monotaro.com/p/0807/1707/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "XJet — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.voxelmatters.com/xjet-to-launch-xparts-3d-printing-service-for-ceramics-and-metals/",
+    "https://finder.startupnationcentral.org/company_page/xjet-ltd",
+    "https://pitchbook.com/profiles/company/55315-90",
+    "https://tracxn.com/d/companies/xjet/__3ecxQhUSO7r2TwwGDFemi4rl4YgR2JWlRsk_xDck_eg",
+    "https://www.youtube.com/watch?v=E8uJKDCSU08",
+    "https://www.voxelmatters.directory/",
+    "https://www.voxelmatters.report/database/",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "https://www.fabbaloo.com/news/voxelmatters-reveals-top-ten-polymer-3d-printing-companies-dominating-the-market",
+    "https://compworth.com/company/xjet"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com XJet — VoxelMatters",
+   "results": [
+    "https://note.com/kagawatomo/n/nf65a446ed216",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/lively_pika8336/n/n5adf36c23e7b",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/hirokimiyano/n/nadc41879ae3a",
+    "https://note.com/harunatravel/n/n6a94aa3c3817",
+    "https://note.com/keizokuramoto/n/nef2f6f1c855d"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:x.com XJet — VoxelMatters",
+   "results": [
+    "https://x.com/KagawaTomo/status/2065355815238963291",
+    "https://x.com/XJet_3d",
+    "https://x.com/voxelmatters",
+    "https://x.com/TheXJetLife",
+    "https://x.com/xjet/status/2092983796807413899",
+    "https://x.com/xjet008",
+    "https://x.com/jet6302/status/2118798682460160308",
+    "https://x.com/a017444/status/2119433650010005777"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:linkedin.com XJet — VoxelMatters",
+   "results": [
+    "https://cz.linkedin.com/company/xjet",
+    "https://cn.linkedin.com/company/xjet",
+    "https://uk.linkedin.com/in/federico-sher",
+    "https://il.linkedin.com/in/guy-zimmerman-b7ab38",
+    "https://it.linkedin.com/in/matilde-francioni-bb64b9212",
+    "https://il.linkedin.com/company/3d-alliances-ltd",
+    "https://il.linkedin.com/company/tritone-technologies",
+    "https://il.linkedin.com/in/sava-hmelnitski-a0b3765",
+    "https://www.linkedin.com/in/hunter-taylor-2b080ba3",
+    "https://www.linkedin.com/posts/voxelmatters_xolutions-acquires-xjet-metal-am-solution-activity-7153015539315986433-8E1u"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com XJet — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/VoxelMatters/posts/alumina-xjets-new-technical-ceramic-and-support-material-unveiled3dprinting-addi/1063146603857464/",
+    "https://www.facebook.com/VoxelMatters/videos/2155326438344264/",
+    "https://www.facebook.com/\u0000jperes88/",
+    "https://www.facebook.com/TeixeirAGroup/",
+    "https://www.facebook.com/p/X-Jet-Technologies-100054626432617/",
+    "https://www.facebook.com/3dprintcom/posts/in-3dprinting-news-briefs-3dpbm-has-rebranded-to-voxelmatters-and-xaba-closed-a-/2229888943849297/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "XJet — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.report/",
+    "https://xjet3d.com/pr/xjet-appoints-zen-global-as-sales-partner-and-representative-in-japan/",
+    "https://www.voxelmatters.directory/company-category/space/",
+    "https://www.voxelmatters.com/author/davidesher/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://www.voxelmatters.group/about/",
+    "https://www.youtube.com/watch?v=kBIObxpZLPw",
+    "https://www.additivemanufacturing.media/why-additive-manufacturing-needs-the-executive-perspective/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "XJet — VoxelMatters X 投稿",
+   "results": [
+    "https://www.voxelmatters.com/xjet-to-launch-xparts-3d-printing-service-for-ceramics-and-metals/",
+    "https://xjet3d.com/",
+    "https://cz.linkedin.com/company/xjet",
+    "https://www.youtube.com/@voxelmatters/videos",
+    "https://www.voxelmatters.com/beyond-the-print-xjets-approach-to-production-ready-metal-parts/",
+    "https://www.youtube.com/watch?v=N-k0vi23Dy0",
+    "https://develop3d.com/3d-printing/xjet-3dprinting-jetting-off-into-the-future-israel-ceramic-metal/",
+    "https://www.voxelmatters.report/",
+    "https://x.com/voxelmatters",
+    "https://x.com/XJet_3d"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）"
+ }
+}

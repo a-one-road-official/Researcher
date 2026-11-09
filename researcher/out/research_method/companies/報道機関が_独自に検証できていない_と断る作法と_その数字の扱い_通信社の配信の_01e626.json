@@ -1,0 +1,418 @@
+{
+ "name": "報道機関が「独自に検証できていない」と断る作法と、その数字の扱い（通信社の配信の断り書き・他社報道の引用・未確認の印）",
+ "en": "news agency could not independently verify attribution practice handling unverified figures",
+ "aliases": [
+  "ロイター 独自に確認できていない 報道 扱い",
+  "通信社 配信 他社報道 引用 断り書き",
+  "could not independently verify Reuters handbook attribution"
+ ],
+ "context": "手順・やり方",
+ "kind": "market",
+ "researched_at": "2026-11-09T17:47:19.313040+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/hirokimiyano/n/n607fc3d21fbb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/shioshio38/n/n9dcfccd7dcdd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hirokimiyano/n/n70d876cd40aa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hirokimiyano/n/n5a8000d43f35",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://slownews.com/n/na015a3e95970?gs=f19b83d2d5d183270a50bc1f71077f7c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/lingfieldwork/n/n4f76fa8f52be",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/terueshinkawa/n/n07d8a2cd53a7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/minamominamoto/n/n6dafd444d520",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yohei30hobby/n/naa65f4db80d1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cas.go.jp/jp/seisaku/nisejouhou_portal/keihatsu.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toben.or.jp/message/libra/pdf/2016_03/p58.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%A0%B1%E9%81%93%E3%81%97%E3%81%AA%E3%81%84%E8%87%AA%E7%94%B1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ppc.go.jp/personalinfo/faq/APPI_QA/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nhk.or.jp/info-blog/672227.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/syuisyo/217/syuh/s217071.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000867454.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.gov-online.go.jp/article/202403/entry-5920.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shugiin.go.jp/internet/itdb_kenpou.nsf/html/kenpou/2170410_2kokkaitosyokan-siryou.pdf/$File/2170410_2kokkaitosyokan-siryou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/8bit_horijun/n/nbce3b894e31b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000948334.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.dri.ne.jp/wp/wp-content/uploads/press1_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://gendai.media/articles/-/168990",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://que.dailyshincho.jp/node/19881/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yomiuri.co.jp/election/yoron-chosa/20260818-GYT1T00102/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.apmreports.org/news-ethics-guidelines",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mediahelpingmedia.org/ethics/accuracy-in-journalism/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://laist.com/editorial-ethics-guidelines-standards-of-practice",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://carnegieendowment.org/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://journals.sagepub.com/doi/full/10.1177/14648849251371952",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://scholarworks.gsu.edu/bitstreams/5c5daad4-db7d-404a-901c-e77e1c8cde25/download",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "報道機関が「独自に検証できていない」と断る作法と、その数字の扱い（通信社の配信の断り書き・他社報道の引用・未確認の印） site:note.com",
+   "results": [
+    "https://note.com/hirokimiyano/n/n607fc3d21fbb",
+    "https://note.com/shioshio38/n/n9dcfccd7dcdd",
+    "https://note.com/hirokimiyano/n/n70d876cd40aa",
+    "https://note.com/hirokimiyano/n/n5a8000d43f35",
+    "https://note.com/slownews/n/na015a3e95970",
+    "https://note.com/lingfieldwork/n/n4f76fa8f52be",
+    "https://note.com/hirokimiyano/n/n66396d110ce2",
+    "https://note.com/syogaku/n/nc5d444c1b06c",
+    "https://note.com/ochyai/n/n2a17d42b85b6",
+    "https://note.com/zep4/n/nf05b0486f46b"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "報道機関が「独自に検証できていない」と断る作法と、その数字の扱い（通信社の配信の断り書き・他社報道の引用・未確認の印） note",
+   "results": [
+    "https://note.com/terueshinkawa/n/n07d8a2cd53a7",
+    "https://note.com/minamominamoto/n/n6dafd444d520",
+    "https://note.com/yohei30hobby/n/naa65f4db80d1",
+    "https://www.youtube.com/watch?v=d4QaFhmcfYo",
+    "https://www.cas.go.jp/jp/seisaku/nisejouhou_portal/keihatsu.html",
+    "https://www.toben.or.jp/message/libra/pdf/2016_03/p58.pdf",
+    "https://ja.wikipedia.org/wiki/%E5%A0%B1%E9%81%93%E3%81%97%E3%81%AA%E3%81%84%E8%87%AA%E7%94%B1",
+    "https://note.com/nobuaki1976/n/n24dad13c0f68",
+    "https://api.lib.kyushu-u.ac.jp/opac_download_md/2800468/p017.pdf",
+    "https://note.com/prime_mint4983/n/n9018d2184d2e"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "報道機関が「独自に検証できていない」と断る作法と、その数字の扱い（通信社の配信の断り書き・他社報道の引用・未確認の印） やり方",
+   "results": [
+    "https://www.youtube.com/watch?v=e-J7_ft9N7I",
+    "https://www.cas.go.jp/jp/seisaku/nisejouhou_portal/keihatsu.html",
+    "https://www.ppc.go.jp/personalinfo/faq/APPI_QA/",
+    "https://www.nhk.or.jp/info-blog/672227.html",
+    "https://www.sangiin.go.jp/japanese/joho1/kousei/syuisyo/217/syuh/s217071.htm",
+    "https://www.soumu.go.jp/main_content/000867454.pdf",
+    "https://www.gov-online.go.jp/article/202403/entry-5920.html",
+    "https://www.shugiin.go.jp/internet/itdb_kenpou.nsf/html/kenpou/2170410_2kokkaitosyokan-siryou.pdf/$File/2170410_2kokkaitosyokan-siryou.pdf",
+    "https://www.facebook.com/takako.daichi/posts/%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93%E3%81%AE%E5%95%8F%E9%A1%8C%E3%81%AF%E5%8F%96%E6%9D%90%E3%81%AA%E3%81%8F%E5%A0%B1%E3%81%98%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86%E5%A7%BF%E5%8B%A2%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84%E3%81%A7%E3%81%97%E3%82%87%E3%81%86%E3%81%8B%E6%98%A8%E4%BB%8A%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AB%E3%82%88%E3%82%8B%E3%83%9F%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%89%E3%82%84%E8%AA%A4%E5%A0%B1%E3%81%8C%E5%95%8F%E9%A1%8C%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%99%E3%81%8C%E3%81%9D%E3%81%AE%E8%83%8C%E6%99%AF%E3%81%AB%E3%81%AF%E5%BD%93%E4%BA%8B%E8%80%85%E3%81%B8%E3%81%AE%E5%8F%96%E6%9D%90%E3%82%84%E4%BA%8B%E5%AE%9F%E7%A2%BA%E8%AA%8D%E3%81%8C%E5%8D%81%E5%88%86%E3%81%AB%E3%81%AA%E3%81%95%E3%82%8C/3653696844806615/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "報道機関が「独自に検証できていない」と断る作法と、その数字の扱い（通信社の配信の断り書き・他社報道の引用・未確認の印） 事例",
+   "results": [
+    "https://note.com/8bit_horijun/n/nbce3b894e31b",
+    "https://www.ppc.go.jp/personalinfo/faq/APPI_QA/",
+    "https://www.cas.go.jp/jp/seisaku/nisejouhou_portal/keihatsu.html",
+    "https://www.nhk.or.jp/info-blog/672227.html",
+    "https://www.soumu.go.jp/main_content/000948334.pdf",
+    "https://www.dri.ne.jp/wp/wp-content/uploads/press1_2.pdf",
+    "https://www.shugiin.go.jp/internet/itdb_kenpou.nsf/html/kenpou/2170410_2kokkaitosyokan-siryou.pdf/$File/2170410_2kokkaitosyokan-siryou.pdf",
+    "https://www.youtube.com/watch?v=GxOKbtOPsjk&vl=ja",
+    "https://ja.wikipedia.org/wiki/%E5%A0%B1%E9%81%93%E3%81%97%E3%81%AA%E3%81%84%E8%87%AA%E7%94%B1",
+    "https://gendai.media/articles/-/168990"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "news agency could not independently verify attribution practice handling unverified figures",
+   "results": [
+    "https://www.apmreports.org/news-ethics-guidelines",
+    "https://mediahelpingmedia.org/ethics/accuracy-in-journalism/",
+    "https://laist.com/editorial-ethics-guidelines-standards-of-practice",
+    "https://carnegieendowment.org/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide",
+    "https://journals.sagepub.com/doi/full/10.1177/14648849251371952",
+    "https://scholarworks.gsu.edu/bitstreams/5c5daad4-db7d-404a-901c-e77e1c8cde25/download",
+    "https://americanpressinstitute.org/ethical-curation-attribution/",
+    "https://unesdoc.unesco.org/ark:/48223/pf0000265552",
+    "https://repository.law.miami.edu/umlr/vol78/iss1/4/",
+    "https://www.camera.org/article/aps-selective-inability-to-verify-information/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 報道機関が「独自に検証できていない」と断る作法と、その数字の扱い（通信社の配信の断り書き・他社報道の引用・未確認の印）",
+   "results": [
+    "https://note.com/hirokimiyano/n/n607fc3d21fbb",
+    "https://note.com/shioshio38/n/n9dcfccd7dcdd",
+    "https://note.com/hirokimiyano/n/n70d876cd40aa",
+    "https://note.com/hirokimiyano/n/n5a8000d43f35",
+    "https://note.com/lingfieldwork/n/n4f76fa8f52be",
+    "https://note.com/slownews/n/na015a3e95970",
+    "https://note.com/hirokimiyano/n/n66396d110ce2",
+    "https://note.com/syogaku/n/nc5d444c1b06c",
+    "https://note.com/ochyai/n/n2a17d42b85b6",
+    "https://note.com/oszerosakai/n/n76349f8cd915"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 報道機関が「独自に検証できていない」と断る作法と、その数字の扱い（通信社の配信の断り書き・他社報道の引用・未確認の印）",
+   "results": [
+    "https://help.x.com/ja/rules-and-policies/personal-information",
+    "https://x.com/ken1shimomura",
+    "https://x.com/kyodo_official",
+    "https://x.com/Hiraki_Daisaku/status/2092139993485697455",
+    "https://x.com/sato51643335",
+    "https://x.com/ak_tch/article/2056578902194262520",
+    "https://help.x.com/ja/rules-and-policies/authenticity",
+    "https://x.com/GACKT/status/1910623174963978323",
+    "https://help.x.com/ja/rules-and-policies/media-settings",
+    "https://x.com/000fukumoto"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com 報道機関が「独自に検証できていない」と断る作法と、その数字の扱い（通信社の配信の断り書き・他社報道の引用・未確認の印）",
+   "results": [
+    "https://jp.linkedin.com/legal/l/service-terms",
+    "https://jp.linkedin.com/pulse/living-beyond-human-scale-bren%C3%A9-brown-gicbc?tl=ja",
+    "https://www.linkedin.com/help/linkedin/answer/a544945?lang=ja-JP",
+    "https://www.linkedin.com/posts/fahimkawsar_ive-truly-missed-japan-my-once-regular-activity-7520528912800612352-xrEC",
+    "https://www.linkedin.com/help/linkedin/answer/a1339473?lang=ja-JP",
+    "https://jp.linkedin.com/company/centers-for-disease-control-and-prevention",
+    "https://www.linkedin.com/help/recruiter/answer/a1421501/recruiter-talent-insights-?lang=ja",
+    "https://www.linkedin.com/help/linkedin/answer/a6282984?lang=ja-JP",
+    "https://www.linkedin.com/help/lms/answer/a569144?lang=ja",
+    "https://www.linkedin.com/help/linkedin/answer/a1516753?lang=ja-JP"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:facebook.com 報道機関が「独自に検証できていない」と断る作法と、その数字の扱い（通信社の配信の断り書き・他社報道の引用・未確認の印）",
+   "results": [
+    "https://www.facebook.com/business/help/1010927809958006?locale=ja_JP",
+    "https://www.facebook.com/help/767411547028573?locale=ja_JP",
+    "https://www.facebook.com/tbsnewsdig/videos/%E3%83%95%E3%82%B8%E7%94%A3%E7%B5%8C-%E4%B8%96%E8%AB%96%E8%AA%BF%E6%9F%BB%E3%81%AB%E4%B8%8D%E6%AD%A3%E3%81%AA%E5%85%A5%E5%8A%9B%E8%AA%BF%E6%9F%BB%E4%BC%9A%E7%A4%BE%E3%81%8C%E6%9E%B6%E7%A9%BA%E3%83%87%E3%83%BC%E3%82%BF/880906159101145/",
+    "https://www.facebook.com/takaichisanae/posts/%E4%BB%8A%E8%88%AC%E7%B1%B3%E5%9B%BD%E3%81%8C%E5%9B%BD%E9%9A%9B%E5%88%91%E4%BA%8B%E8%A3%81%E5%88%A4%E6%89%80icc%E3%81%9D%E3%82%8C%E8%87%AA%E4%BD%93%E3%81%B8%E3%81%AE%E5%88%B6%E8%A3%81%E3%82%92%E6%B1%BA%E5%AE%9A%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E6%88%91%E3%81%8C%E5%9B%BD%E3%81%AF%E5%9B%BD%E9%9A%9B%E7%A4%BE%E4%BC%9A%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%B3%95%E3%81%AE%E6%94%AF%E9%85%8D%E3%82%92%E4%B8%80%E8%B2%AB%E3%81%97%E3%81%A6%E9%87%8D%E8%A6%96%E3%81%97%E3%81%9D%E3%81%AE%E5%BD%B9%E5%89%B2%E3%82%92%E6%8B%85%E3%81%86icc%E3%82%92%E6%94%AF%E6%8C%81%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E4%BB%8A%E5%9B%9E%E3%81%AE%E6%8E%AA%E7%BD%AE%E3%81%AF%E3%81%93%E3%81%86/1466787375546911/",
+    "https://ja-jp.facebook.com/business/help/1486382031937045",
+    "https://www.facebook.com/takaichisanae/posts/%E6%98%8E%E6%97%A59%E6%9C%8819%E6%97%A5-%E3%81%AE%E7%95%AA%E7%B5%84%E5%87%BA%E6%BC%94%E4%BA%88%E5%AE%9A%E3%81%A7%E3%81%99730-%E3%83%95%E3%82%B8-%E6%97%A5%E6%9B%9C%E5%A0%B1%E9%81%93-the-prime900-%EF%BD%8E%EF%BD%88%EF%BD%8B-%E6%97%A5%E6%9B%9C%E8%A8%8E%E8%AB%961815-%E8%87%AA%E6%B0%91%E5%85%9A-%E3%82%AB%E3%83%95%E3%82%A7%E3%82%B9%E3%82%BF%E6%9C%AC%E6%97%A5%E3%82%82%E6%94%BF%E7%AD%96%E3%82%84%E5%80%99%E8%A3%9C%E8%80%85%E9%96%93%E3%81%AE%E8%AD%B0%E8%AB%96%E3%82%92%E9%87%8D%E3%81%AD/2481340725330317/",
+    "https://www.facebook.com/help/instagram/2589432474704452?locale=ja_JP",
+    "https://www.facebook.com/hiranokf/posts/%E6%97%A5%E6%9C%AC%E3%81%A7%E3%81%AF%E6%88%A6%E5%BE%8C%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E7%99%BA%E3%81%AE%E5%A4%A7%E6%8A%B5%E3%81%AE%E9%9F%B3%E6%A5%BD%E3%81%8C%E5%8F%97%E3%81%91%E5%85%A5%E3%82%8C%E3%82%89%E3%82%8C%E3%81%A6%E3%81%8D%E3%81%9F%E3%81%91%E3%81%A9%E3%83%89%E3%83%AA%E3%83%BC%E3%83%91%E3%83%BC%E3%83%88%E3%83%B3%E6%AD%BB%E5%8E%BB%E5%BE%8C%E3%81%AE%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%81%AE%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AE%E6%89%B1%E3%81%84%E3%81%AE%E5%A4%A7%E3%81%8D%E3%81%95%E3%82%92%E8%A6%8B%E3%81%A6%E3%81%84%E3%82%8B%E3%81%A8%E3%81%93%E3%81%93%E3%81%AB%E5%A4%A7%E3%81%8D%E3%81%AA%E8%A6%8B%E8%90%BD%E3%81%A8%E3%81%97%E3%81%8C%E3%81%82%E3%82%8B%E3%81%AE%E3%82%92%E6%84%9F%E3%81%98%E3%82%8B/28448734888144556/",
+    "https://www.facebook.com/help/533727544131571?locale=ja_JP",
+    "https://www.facebook.com/takaichisanae/posts/%E5%85%88%E6%9C%88%E9%96%89%E4%BC%9A%E3%81%97%E3%81%9F%E5%9B%BD%E4%BC%9A%E3%81%A7%E6%88%90%E7%AB%8B%E3%81%97%E3%81%9F%E7%9A%87%E5%AE%A4%E5%85%B8%E7%AF%84%E6%94%B9%E6%AD%A3%E6%B3%95%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E5%A5%B3%E6%80%A7%E5%A4%A9%E7%9A%87%E3%81%B8%E3%81%AE%E9%81%93%E3%82%92%E9%96%89%E3%81%96%E3%81%97%E3%81%9F%E3%81%A8%E3%81%84%E3%81%A3%E3%81%9F%E3%81%94%E6%84%8F%E8%A6%8B%E3%82%92%E5%A7%8B%E3%82%81%E6%A7%98%E3%80%85%E3%81%AA%E3%81%8A%E5%A3%B0%E3%82%92%E9%A0%82%E3%81%84%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E4%BB%8A%E5%9B%9E%E3%81%AE%E7%9A%87%E5%AE%A4%E5%85%B8%E7%AF%84%E3%81%AE%E6%94%B9%E6%AD%A3%E3%81%8C%E4%BD%95%E3%82%92%E7%9B%AE%E7%9A%84%E3%81%A8%E3%81%97%E3%81%A6%E8%A1%8C%E3%82%8F%E3%82%8C%E4%BD%95/1434501112108871/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "報道機関が「独自に検証できていない」と断る作法と、その数字の扱い（通信社の配信の断り書き・他社報道の引用・未確認の印） note 社長",
+   "results": [
+    "https://note.com/katosatoshi/n/n5313a5621d79",
+    "https://note.com/terueshinkawa/n/n07d8a2cd53a7",
+    "https://www.youtube.com/watch?v=d4QaFhmcfYo",
+    "https://note.com/1955questory/n/n92939870a06d",
+    "https://www.facebook.com/takako.daichi/posts/%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93%E3%81%AE%E5%95%8F%E9%A1%8C%E3%81%AF%E5%8F%96%E6%9D%90%E3%81%AA%E3%81%8F%E5%A0%B1%E3%81%98%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86%E5%A7%BF%E5%8B%A2%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84%E3%81%A7%E3%81%97%E3%82%87%E3%81%86%E3%81%8B%E6%98%A8%E4%BB%8A%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AB%E3%82%88%E3%82%8B%E3%83%9F%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%89%E3%82%84%E8%AA%A4%E5%A0%B1%E3%81%8C%E5%95%8F%E9%A1%8C%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%99%E3%81%8C%E3%81%9D%E3%81%AE%E8%83%8C%E6%99%AF%E3%81%AB%E3%81%AF%E5%BD%93%E4%BA%8B%E8%80%85%E3%81%B8%E3%81%AE%E5%8F%96%E6%9D%90%E3%82%84%E4%BA%8B%E5%AE%9F%E7%A2%BA%E8%AA%8D%E3%81%8C%E5%8D%81%E5%88%86%E3%81%AB%E3%81%AA%E3%81%95%E3%82%8C/3653696844806615/",
+    "https://note.com/nobuaki1976/n/n24dad13c0f68",
+    "https://newspicks.com/news/14966338/",
+    "https://ja.wikipedia.org/wiki/%E5%A0%B1%E9%81%93%E3%81%97%E3%81%AA%E3%81%84%E8%87%AA%E7%94%B1",
+    "https://project.nikkeibp.co.jp/NHCdigital/special/051400032/index.html",
+    "https://note.com/senioranalyst_sn/n/nddbb2c7bd0f8"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "報道機関が「独自に検証できていない」と断る作法と、その数字の扱い（通信社の配信の断り書き・他社報道の引用・未確認の印） X 投稿",
+   "results": [
+    "https://www.kottolaw.com/column/000509.html",
+    "https://help.x.com/ja/resources/addressing-misleading-info",
+    "https://www.bbc.com/japanese/66956681",
+    "https://www.cas.go.jp/jp/seisaku/nisejouhou_portal/keihatsu.html",
+    "https://www.nhk.or.jp/info-blog/672227.html",
+    "https://www.gov-online.go.jp/article/202403/entry-5920.html",
+    "https://www.ppc.go.jp/personalinfo/faq/APPI_QA/",
+    "https://www.asahi.com/corporate/info/16630257",
+    "https://www.facebook.com/takako.daichi/posts/%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93%E3%81%AE%E5%95%8F%E9%A1%8C%E3%81%AF%E5%8F%96%E6%9D%90%E3%81%AA%E3%81%8F%E5%A0%B1%E3%81%98%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86%E5%A7%BF%E5%8B%A2%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84%E3%81%A7%E3%81%97%E3%82%87%E3%81%86%E3%81%8B%E6%98%A8%E4%BB%8A%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AB%E3%82%88%E3%82%8B%E3%83%9F%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%89%E3%82%84%E8%AA%A4%E5%A0%B1%E3%81%8C%E5%95%8F%E9%A1%8C%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%99%E3%81%8C%E3%81%9D%E3%81%AE%E8%83%8C%E6%99%AF%E3%81%AB%E3%81%AF%E5%BD%93%E4%BA%8B%E8%80%85%E3%81%B8%E3%81%AE%E5%8F%96%E6%9D%90%E3%82%84%E4%BA%8B%E5%AE%9F%E7%A2%BA%E8%AA%8D%E3%81%8C%E5%8D%81%E5%88%86%E3%81%AB%E3%81%AA%E3%81%95%E3%82%8C/3653696844806615/",
+    "https://www.asahi.com/articles/ASV763TG9V76UTIL02PM.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "news agency could not independently verify attribution practice handling unverified figures site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/shariberg_theres-no-such-thing-as-an-unbiased-journalist-activity-7416518678843895808-frQE",
+    "https://www.linkedin.com/pulse/rogue-agents-cannot-tolerated-why-ai-agent-foundation-sairam-vedam-tbkpf",
+    "https://uk.linkedin.com/in/nadia-gyane-80ba4479",
+    "https://www.linkedin.com/posts/varqa-abyaneh-5ba02864_openai-is-pissing-off-a-bunch-of-mathematiciansagain-activity-7516112204023193601-Ospv",
+    "https://www.linkedin.com/posts/peyregne_usa-today-co-formerly-gannett-has-entered-activity-7514054226902315008-Btcr",
+    "https://www.linkedin.com/posts/marinivezic_pqc-migration-framework-30-puts-crypto-agility-activity-7505568481661280256-5lJb",
+    "https://www.linkedin.com/in/ramar-mcqueen-962a2772",
+    "https://www.linkedin.com/posts/michaelstumpf1_theoreticalbiology-theoryoflivingsystems-activity-7516427632368877568-7wr3",
+    "https://www.linkedin.com/posts/gregmutch_i-dont-know-if-this-is-going-to-turn-out-activity-7518302926076026881-C8Pc",
+    "https://www.linkedin.com/pulse/pakistans-ai-has-moved-past-policy-can-accountability-ruhangariyo-9li3c"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "手順・やり方": "記載なし（読んだ30頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）",
+  "実例": "記載なし（読んだ30頁・検索12回）"
+ },
+ "new_this_run": {},
+ "runs": 1,
+ "first_researched_at": "2026-11-09T17:47:19.313040+00:00"
+}

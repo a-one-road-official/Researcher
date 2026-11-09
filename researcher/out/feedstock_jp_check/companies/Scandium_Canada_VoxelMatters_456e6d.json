@@ -1,0 +1,495 @@
+{
+ "name": "Scandium Canada — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:advanced-materials-manufacturer",
+ "researched_at": "2026-11-09T18:29:03.832754+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Scandium Canada — VoxelMatters - The largest database of ... — A Canadian-based technology metals company focused on the advancement of its strategic metals and gold properties in Québec. Scandium Canada is publicly listed on the TSX Venture Exchange as “SCD” and is led by an exceptional team of dedicated and experienced professionals with an enviable track record of success both technically and c",
+    "url": "https://www.voxelmatters.directory/company/scandium-canada/",
+    "pass": 3
+   },
+   {
+    "quote": "Scandium Canada — VoxelMatters - The largest database of ... — Scandium Canada Ltd. is currently developing one of the largest primary scandium projects in the world with a vision to contribute to society’s goal to reduce carbon emissions to net zero.",
+    "url": "https://www.voxelmatters.directory/company/scandium-canada/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Scandium Canada Ltd. | Montreal QC - FacebookVoxelMatters - FacebookScalium+ | Quebec QC - FacebookScandium - A Fresh New Look for Scandium Canada Ltd. ! We ...A Fresh New Look for Scandium... - Scandium Canada Ltd ...La seule source primaire de... - Scandium Canada Ltd. | FacebookCanadian... - Scandium Canada Ltd. - Facebook Oct 15, 2026 · Scandium Canada Ltd., Montreal. 885 followers · 14 talkin",
+    "url": "https://www.facebook.com/ScandiumCanada/",
+    "pass": 3
+   },
+   {
+    "quote": "VoxelMatters - FacebookScalium+ | Quebec QC - FacebookScandium - A Fresh New Look for Scandium Canada Ltd. ! We ...A Fresh New Look for Scandium... - Scandium Canada Ltd ...La seule source primaire de... - Scandium Canada Ltd. | FacebookCanadian... - Scandium Canada Ltd. - Facebook Full breakdown, only on VoxelMatters 🍒 #AdditiveManufacturing #3DPrinting #FoodSafe #FoodGrade #Manufacturing 3DPrint",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://scandium-canada.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://scandium-canada.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.riotinto.com/en/can/products/scandium",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/scandium-canada/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/scandium-canada-to-advance-aluminum-scandium-alloy-for-am-research/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ca.finance.yahoo.com/quote/SCD.V/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/scandiumcanada/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://chemlogix.ca/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://scandium-canada.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://scandium-canada.com/investors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.marketscreener.com/quote/stock/SCANDIUM-CANADA-LTD-49479362/company-shareholders/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://filaments.ca/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/%E3%83%AC%E3%82%B8%E3%83%B3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingcanada.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://scandium-canada.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://scandium-canada.com/investors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smm.co.jp/en/business/refining/products/scandium/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/scandium-canada/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.japan-partner.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vietnamnews.vn/economy/1803879/pan-group-japanese-partner-join-hands-to-modernise-agriculture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan-partner.com/check-manufacture-year.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scmp.com/magazines/style/people/celebrities/article/3353686/who-ansel-elgorts-japanese-partner-miona-whom-he-just-welcomed-baby",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://music.amazon.co.jp/podcasts/3c36a270-93ab-4736-9a9a-7745305d6e20/episodes/d633a30f-d053-41f5-b0db-1f98c3b5ac7e/investor-news-pat-bolland-with-guy-bourassa-on-scandium-canada%E2%80%99s-recent-rights-offering",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/HP-office%E6%90%AD%E8%BC%89-Elitebook-windows11-%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E4%BB%98%E3%81%8D/dp/B0HJCL9YLY",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://shigoto.amazon.co.jp/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://music.amazon.co.jp/artists/B07S8K9CFJ/perfume",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00263786/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/1766/2356/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/6076/6222/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://scandium-canada.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markets.ft.com/data/equities/tearsheet/profile?s=SCDCF:PKL",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stockanalysis.com/quote/tsxv/SCD/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://projets.lalancette.org/wp-content/uploads/2026/01/VF_Scandium-Canada_Corporate_January-2026_Final.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.facebook.com/ScandiumCanada/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Scandium Canada — VoxelMatters 代理店",
+   "results": [
+    "https://scandium-canada.com/",
+    "https://scandium-canada.com/about/",
+    "https://www.riotinto.com/en/can/products/scandium",
+    "https://www.voxelmatters.directory/company/scandium-canada/",
+    "https://www.voxelmatters.com/",
+    "https://ca.finance.yahoo.com/quote/SCD.V/",
+    "https://www.voltametals.ca/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Scandium Canada — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://www.voxelmatters.com/scandium-canada-to-advance-aluminum-scandium-alloy-for-am-research/",
+    "https://ca.finance.yahoo.com/quote/SCD.V/",
+    "https://www.linkedin.com/company/scandiumcanada/",
+    "https://chemlogix.ca/",
+    "https://spancan.com/",
+    "https://novexco.com/en/",
+    "https://www.scpscience.com/en/products"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Scandium Canada — VoxelMatters 日本 販売",
+   "results": [
+    "https://scandium-canada.com/",
+    "https://scandium-canada.com/investors/",
+    "https://www.voxelmatters.com/",
+    "https://www.marketscreener.com/quote/stock/SCANDIUM-CANADA-LTD-49479362/company-shareholders/",
+    "https://www.voxelmatters.directory/company/scandium-canada/",
+    "https://www.voltametals.ca/",
+    "https://www.samaterials.jp/295-scandium-evaporation-materials.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Scandium Canada — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://filaments.ca/",
+    "https://skhonpo.com/",
+    "https://www.monotaro.com/k/store/レジン/",
+    "https://3dprintingcanada.com/",
+    "https://www.voxelfactory.com/",
+    "https://shop3d.ca/",
+    "https://www.amazon.ca/filaments-pla/s?k=filaments+pla",
+    "https://sayakobo.com/",
+    "https://www.yuzawaya.shop/shopbrand/ct1006/",
+    "https://www.amazon.co.jp/エポキシ樹脂-2液性レジン液-大容量4kg-エポキシレジン-セルフレベリング/dp/B0FR9JYMVZ"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "Scandium Canada — VoxelMatters Japan distributor",
+   "results": [
+    "https://scandium-canada.com/",
+    "https://scandium-canada.com/investors/",
+    "https://www.smm.co.jp/en/business/refining/products/scandium/",
+    "https://www.voxelmatters.directory/company/scandium-canada/",
+    "https://japanesedistributors.com/",
+    "https://www.riotinto.com/en/can/products/scandium",
+    "https://www2.newsfilecorp.com/release/323107/Scalium-Hires-a-Chief-Product-Officer-and-a-Senior-Metallurgist-a-New-Phase-of-Growth-for-Scandium-Canadas-Alloy-Subsidiary",
+    "https://scandium-canada.com/about/",
+    "https://www.voxelmatters.report/database/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Scandium Canada — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.japan-partner.com/",
+    "https://vietnamnews.vn/economy/1803879/pan-group-japanese-partner-join-hands-to-modernise-agriculture.html",
+    "https://www.japan-partner.com/check-manufacture-year.html",
+    "https://www.scmp.com/magazines/style/people/celebrities/article/3353686/who-ansel-elgorts-japanese-partner-miona-whom-he-just-welcomed-baby",
+    "https://www.phoenixcommercialproperty.com/macnaughton-snags-290-unit-luxury-complex-near-phoenix-with-japanese-partner-the-business-journals/",
+    "https://www.marinelink.com/news/demosath-floating-wind-project-enters-new-543787",
+    "https://www.scaliumplus.com/en-ca"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:amazon.co.jp Scandium Canada — VoxelMatters",
+   "results": [
+    "https://music.amazon.co.jp/podcasts/3c36a270-93ab-4736-9a9a-7745305d6e20/episodes/d633a30f-d053-41f5-b0db-1f98c3b5ac7e/investor-news-pat-bolland-with-guy-bourassa-on-scandium-canada’s-recent-rights-offering",
+    "https://www.amazon.co.jp/HP-office搭載-Elitebook-windows11-日本語キーボード付き/dp/B0HJCL9YLY",
+    "https://shigoto.amazon.co.jp/",
+    "https://music.amazon.co.jp/artists/B07S8K9CFJ/perfume",
+    "https://business.amazon.co.jp/ja/solutions/payment-options/pay-by-invoice",
+    "https://kdp.amazon.co.jp/",
+    "https://www.amazon.co.jp/美しいキモノ-2026年冬号増刊吉田仁人特別版-ハースト婦人画報社/dp/B0HDC7JPDJ"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Scandium Canada — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/g/00263786/",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/p/1766/2356/",
+    "https://www.monotaro.com/p/6076/6222/",
+    "https://www.monotaro.com/p/1720/0496/",
+    "https://www.monotaro.com/g/04188176/",
+    "https://www.monotaro.com/p/3764/0793/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Scandium Canada — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://scandium-canada.com/about/",
+    "https://markets.ft.com/data/equities/tearsheet/profile?s=SCDCF:PKL",
+    "https://stockanalysis.com/quote/tsxv/SCD/company/",
+    "https://projets.lalancette.org/wp-content/uploads/2026/01/VF_Scandium-Canada_Corporate_January-2026_Final.pdf",
+    "https://projets.lalancette.org/wp-content/uploads/2025/12/VF_Scandium-Canada_Corporate_Novembre-2025_Final.pdf",
+    "https://ca.finance.yahoo.com/quote/SCD.V/profile/",
+    "https://scandium-canada.com/financial-reports/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Scandium Canada — VoxelMatters",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/diparururun",
+    "https://note.com/sim/n/n2c6fe6688de8",
+    "https://note.com/contest/noteで読めるマンガ",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/end_hamaokanp/n/n86a8ede22413",
+    "https://note.com/glossy_pika3109/n/n7c99eb8ee64d"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Scandium Canada — VoxelMatters",
+   "results": [
+    "https://x.com/InvestorNews/status/2108147480798048359",
+    "https://x.com/voxelmatters",
+    "https://x.com/InvestorNews/status/2112885267350900841",
+    "https://x.com/newsfile_corp/status/2107945485549855044",
+    "https://x.com/NewsRamp_Alerts/status/2065121147054604575",
+    "https://x.com/JrMiningNetwork/status/2107946575364305190",
+    "https://x.com/Mining_Hub_/status/2119821162582511677"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Scandium Canada — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/company/scandiumcanada/",
+    "https://www.linkedin.com/pulse/metal-future-scandium-canada-now-mining-com-au-qdsjc",
+    "https://ca.linkedin.com/in/simon-thibault",
+    "https://ca.linkedin.com/in/guy-bourassa-3547272ab",
+    "https://fr.linkedin.com/posts/scandiumcanada_vekta-criticalminerals-mcs-activity-7429258016203571201-JYzq",
+    "https://fr.linkedin.com/posts/scandiumcanada_scandium-matériauxcritiques-activity-7350476764617293824-v1jO",
+    "https://www.linkedin.com/posts/scandiumcanada_innovation-criticalmaterials-scandium-activity-7348422432975708161-oVrD"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Scandium Canada — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/ScandiumCanada/",
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/scaliumplus/",
+    "https://www.facebook.com/ScandiumCanada/photos/-a-fresh-new-look-for-scandium-canada-ltd-we-are-pleased-to-announce-the-refresh/1474451250255142/",
+    "https://www.facebook.com/ScandiumCanada/posts/-a-fresh-new-look-for-scandium-canada-ltd-we-are-pleased-to-announce-the-refresh/1474452953588305/",
+    "https://www.facebook.com/ScandiumCanada/posts/la-seule-source-primaire-de-scandium-en-amérique-du-nord-une-filiale-dalliages-e/1704815927218672/",
+    "https://www.facebook.com/ScandiumCanada/posts/scandium-canada-canadian-technology-metals-company-focused-on-advancing-its-flag/1099267721106832/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Scandium Canada — VoxelMatters note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Scandium Canada — VoxelMatters X 投稿",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://scandium-canada.com/",
+    "https://www.voxelmatters.com/",
+    "https://scandium-canada.com/scandium-news/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.voxelmatters.com/category/materials/metals-materials/",
+    "https://x.com/Mining_Hub_/status/2119821162582511677"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）"
+ }
+}

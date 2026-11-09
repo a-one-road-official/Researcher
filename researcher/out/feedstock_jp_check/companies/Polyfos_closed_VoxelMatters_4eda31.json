@@ -1,0 +1,836 @@
+{
+ "name": "Polyfos (closed) — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:advanced-materials-manufacturer",
+ "researched_at": "2026-11-09T18:22:59.993703+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   },
+   {
+    "quote": "In no case may any of the information be distributed outside the designated users’ organization, including posting on social media, or used with, or provided to, any external clients, consultants, or suppliers, unless specifically authorized in writing by VoxelMatters. Please contact us at research@voxelmatters.com with requests of this nature.",
+    "url": "https://www.voxelmatters.report/product/metal-am-market-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "For futher information regarding this report or to request an excerpt please contact us.",
+    "url": "https://www.voxelmatters.report/product/metal-am-market-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "info@voxelmatters.com",
+    "url": "https://www.voxelmatters.report/product/metal-am-market-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us if you want to have business with Japan Partner in machinery",
+    "url": "https://www.japan-partner.com/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.voxelmatters.directory/company/polyfos-3d/",
+    "pass": 3
+   },
+   {
+    "quote": "This new market study from VoxelMatters provides one of the most in-depth analyses and forecasts of the metal additive manufacturing market (revenue and units), including hardware, materials and services, by end-user segment and geography.",
+    "url": "https://www.voxelmatters.report/product/metal-am-market-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "The total metal AM market grew +12.2% in 2025 to just over $5 billion. Hardware remained the largest segment, but services grew fastest, with service providers adding more revenue than hardware and materials companies combined and taking a larger share of the market.",
+    "url": "https://www.voxelmatters.report/product/metal-am-market-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Companies based in APAC accounted for more than half of the market’s growth and gained share. EMEA companies remained the largest group, but APAC hardware companies all but closed the gap with them, and APAC service providers grew more than twice as fast as those in EMEA and North America. By end market, aerospace and defense was the largest across all three segments.",
+    "url": "https://www.voxelmatters.report/product/metal-am-market-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Hardware revenue and units by technology",
+    "url": "https://www.voxelmatters.report/product/metal-am-market-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Hardware revenue and units by sub-technology",
+    "url": "https://www.voxelmatters.report/product/metal-am-market-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "PBF sub-technology (revenue, unit sales)",
+    "url": "https://www.voxelmatters.report/product/metal-am-market-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "DED sub-technology (revenue, unit sales)",
+    "url": "https://www.voxelmatters.report/product/metal-am-market-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "JET sub-technology (revenue, unit sales)",
+    "url": "https://www.voxelmatters.report/product/metal-am-market-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "BND sub-technology (revenue, unit sales)",
+    "url": "https://www.voxelmatters.report/product/metal-am-market-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Cold spray (revenue, unit sales)",
+    "url": "https://www.voxelmatters.report/product/metal-am-market-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Hardware revenue and units by price segment",
+    "url": "https://www.voxelmatters.report/product/metal-am-market-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast of hardware revenue and units by technology",
+    "url": "https://www.voxelmatters.report/product/metal-am-market-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Materials revenue and volume by material form",
+    "url": "https://www.voxelmatters.report/product/metal-am-market-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Powder revenue and volume by material",
+    "url": "https://www.voxelmatters.report/product/metal-am-market-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Wire revenue and volume by material",
+    "url": "https://www.voxelmatters.report/product/metal-am-market-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Bound feedstock revenue and volume by material",
+    "url": "https://www.voxelmatters.report/product/metal-am-market-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast of materials revenue and volume by material form",
+    "url": "https://www.voxelmatters.report/product/metal-am-market-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue and parts produced by technology",
+    "url": "https://www.voxelmatters.report/product/metal-am-market-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue and parts produced by part type",
+    "url": "https://www.voxelmatters.report/product/metal-am-market-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue and parts produced by sub-technology",
+    "url": "https://www.voxelmatters.report/product/metal-am-market-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "PBF sub-technology (revenue, parts produced)",
+    "url": "https://www.voxelmatters.report/product/metal-am-market-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "DED sub-technology (revenue, parts produced)",
+    "url": "https://www.voxelmatters.report/product/metal-am-market-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Cold spray (revenue, parts produced)",
+    "url": "https://www.voxelmatters.report/product/metal-am-market-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast of revenue and parts produced by technology",
+    "url": "https://www.voxelmatters.report/product/metal-am-market-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast of revenue and parts produced by part type",
+    "url": "https://www.voxelmatters.report/product/metal-am-market-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Sophos was listed on the",
+    "url": "https://en.wikipedia.org/wiki/Sophos",
+    "pass": 3
+   },
+   {
+    "quote": "until it was acquired by",
+    "url": "https://en.wikipedia.org/wiki/Sophos",
+    "pass": 3
+   },
+   {
+    "quote": "In 2011, Utimaco Safeware AG (acquired by Sophos in 2008) was accused of supplying data monitoring and tracking software to partners that have sold to governments such as Syria.",
+    "url": "https://en.wikipedia.org/wiki/Sophos",
+    "pass": 3
+   },
+   {
+    "quote": "In 2003, Sophos acquired",
+    "url": "https://en.wikipedia.org/wiki/Sophos",
+    "pass": 3
+   },
+   {
+    "quote": "In 2007, Sophos acquired ENDFORCE, a company based in",
+    "url": "https://en.wikipedia.org/wiki/Sophos",
+    "pass": 3
+   },
+   {
+    "quote": "In February 2014, Sophos announced that it had acquired Cyberoam Technologies, a provider of network security products.",
+    "url": "https://en.wikipedia.org/wiki/Sophos",
+    "pass": 3
+   },
+   {
+    "quote": "In November 2016, Sophos acquired Barricade, a start-up with a behavior-based analytics engine.",
+    "url": "https://en.wikipedia.org/wiki/Sophos",
+    "pass": 3
+   },
+   {
+    "quote": "In February 2017, Sophos acquired",
+    "url": "https://en.wikipedia.org/wiki/Sophos",
+    "pass": 3
+   },
+   {
+    "quote": ", a publicly held company majority-owned by",
+    "url": "https://en.wikipedia.org/wiki/Sophos",
+    "pass": 3
+   },
+   {
+    "quote": "\"Sophos Exec: Here's How MSPs Can Drive Revenue With Our Products\"",
+    "url": "https://en.wikipedia.org/wiki/Sophos",
+    "pass": 3
+   },
+   {
+    "quote": "\"ActiveState Acquired by Employees and Pender Financial Group; Company Renews Focus on Tools and Solutions for Dynamic Languages\"",
+    "url": "https://en.wikipedia.org/wiki/Sophos",
+    "pass": 3
+   },
+   {
+    "quote": "\"Sophos Sheds 6% of Employees After Closing Secureworks Deal\"",
+    "url": "https://en.wikipedia.org/wiki/Sophos",
+    "pass": 3
+   },
+   {
+    "quote": "Companies formerly listed on the London Stock Exchange",
+    "url": "https://en.wikipedia.org/wiki/Sophos",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Polyfos (closed) — VoxelMatters - The largest database of ... — Based on DLP and designed for automatic single-step post-processing, resilient parts, and low scale-up costs, Polyfos solutions will allow wide adoption of additive manufacturing by manufacturing industries.",
+    "url": "https://www.voxelmatters.directory/company/polyfos-3d/",
+    "pass": 3
+   },
+   {
+    "quote": "Polyfos (closed) — VoxelMatters - The largest database of ... — Polyfos develops the the first multi-material digital light processing additive manufacturing solutions to address the industries' automation, productivity, and yield requirements.",
+    "url": "https://www.voxelmatters.directory/company/polyfos-3d/",
+    "pass": 3
+   },
+   {
+    "quote": "Polyfos 2026 Company Profile: Valuation, Funding & Investors ...Polyfos (closed) — VoxelMatters - The largest database of ...Polyfos 3D — Company Profile, Funding & InvestorsPOLYFOS 3D LTD, Yerushalayim, IL | Company InformationPolyfos 3D Ltd. - IVC Data & InsightsPolyfos 3D — Industrial Technologies | FinderPOLYFOS 3D LTD - Israel Company Information — Information on valuation, funding, cap table",
+    "url": "https://pitchbook.com/profiles/company/537040-18",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Japanese Used Cars for Export | Japan Partner",
+    "url": "https://www.japan-partner.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese used sports car exporter",
+    "url": "https://www.japan-partner.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Most popular japanese used cars",
+    "url": "https://www.japan-partner.com/",
+    "pass": 3
+   },
+   {
+    "quote": "popular japanese used cars",
+    "url": "https://www.japan-partner.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Nissan Skyline exporter in Japan",
+    "url": "https://www.japan-partner.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese used cars — our most popular stock",
+    "url": "https://www.japan-partner.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Browse JDM performance cars from Japan Partner stock — Skyline, Supra, RX-7 and related models when available.",
+    "url": "https://www.japan-partner.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Partner Inc is excited to announce a launch of a free service for our members where they can check manufacture year and in most cases manufacture month for Japan made vehicles..",
+    "url": "https://www.japan-partner.com/",
+    "pass": 3
+   },
+   {
+    "quote": "While most of japanese cars for sale are left hand drive, well",
+    "url": "https://www.japan-partner.com/",
+    "pass": 3
+   },
+   {
+    "quote": "awared customers are in the market for Japanese left hand drive cars of European",
+    "url": "https://www.japan-partner.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Partner Inc has been assisting numerous companies around",
+    "url": "https://www.japan-partner.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese vehicles which are usually ordered either in 40ft or 20 ft containers.",
+    "url": "https://www.japan-partner.com/",
+    "pass": 3
+   },
+   {
+    "quote": "of such a vehicle from Japan into the USA isn't connected with costly procedures",
+    "url": "https://www.japan-partner.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Why japanese used cars are the most preferred in the world",
+    "url": "https://www.japan-partner.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Cars in Japan are very carefully maintained and the Japanese roads are renowned to be the best in",
+    "url": "https://www.japan-partner.com/",
+    "pass": 3
+   },
+   {
+    "quote": "the world. Maintenance standards for motor cars driven in Japan are one of the highest in the",
+    "url": "https://www.japan-partner.com/",
+    "pass": 3
+   },
+   {
+    "quote": "world. Japanese government discourages people to own cars more than 5-6 years through a tier",
+    "url": "https://www.japan-partner.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Get access to 190+ car auction houses in Japan using a convenient online service. Choose",
+    "url": "https://www.japan-partner.com/",
+    "pass": 3
+   },
+   {
+    "quote": "in price in Japan. We will handle the rest: all required paperwork, pre-shipping inspection,",
+    "url": "https://www.japan-partner.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Browse cars for sale in Japan",
+    "url": "https://www.japan-partner.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Partner provides car dismantling services for cars you buy from auctions or from our",
+    "url": "https://www.japan-partner.com/",
+    "pass": 3
+   },
+   {
+    "quote": "JAPANESE USED CARS FOR SALE. VIDEO",
+    "url": "https://www.japan-partner.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese market offers a vast opportunity for businesses outside Japan to find good quantity of",
+    "url": "https://www.japan-partner.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us if you want to have business with Japan Partner in machinery",
+    "url": "https://www.japan-partner.com/",
+    "pass": 3
+   }
+  ],
+  "代理店網": [
+   {
+    "quote": "Are you a car dealer buying a lot of cars every month? We can offer you competitive",
+    "url": "https://www.japan-partner.com/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookVoxelMatters Early H3C Unboxing - FacebookMike Kweon - 내가 리더해서 개발한 무인기 - 40개가 넘는 신기술의 ...Valerie J. Jackson - FacebookYessica Carmona (@YessiCarmona) • Facebook, Connect with friends\"jus'sayin\" - FacebookProfessionally, my first post for this footage was anchored ... Unlock the Future of Metal Additive Manufacturing with VoxelMatters! VoxelMatters Research has kicked off a p",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.directory/company/polyfos-3d/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/product/metal-am-market-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/meet-the-top-companies-from-voxelmatters-polymer-am-2026-report-and-see-how-theyre-trending/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Sophos",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/polyfos-3d/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://industrial.panasonic.com/jp/s-search/distributors",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/polyfos-3d/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/research-category/reports/previous-editions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/category/global-am-hubs/japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%B8%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%B8%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/polyfos-3d/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/polyfos-3d/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/product/metal-am-market-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/category/industry-2/distribution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan-partner.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/polyfos-3d/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scmp.com/magazines/style/people/celebrities/article/3353686/who-ansel-elgorts-japanese-partner-miona-whom-he-just-welcomed-baby",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan-partner.com/stocklist.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.amazon.co.jp",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://affiliate.amazon.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://business.amazon.co.jp/ja/solutions/payment-options/pay-by-invoice",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/01201596/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/1766/2356/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/02888691/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/537040-18",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/polyfos-3d/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://acquirezy.com/organization/polyfos-3d",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.infobel.com/en/israel/polyfos_3d_ltd/yerushalayim/IL101128145/businessdetails.aspx",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Polyfos (closed) — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.directory/company/polyfos-3d/",
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.report/product/metal-am-market-2026/",
+    "https://www.voxelmatters.com/meet-the-top-companies-from-voxelmatters-polymer-am-2026-report-and-see-how-theyre-trending/",
+    "https://china3dprint.com/archives/1235.html",
+    "https://www.voxelmatters.directory/",
+    "https://www.voxelmatters.report/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Polyfos (closed) — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://en.wikipedia.org/wiki/Sophos",
+    "https://www.voxelmatters.directory/company/polyfos-3d/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://industrial.panasonic.com/jp/s-search/distributors",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/",
+    "https://www.porsche.com/japan/jp/accessoriesandservice/vehicle-accessories/",
+    "https://www.instagram.com/popular/pokemon-golf-headcovers/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Polyfos (closed) — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.voxelmatters.directory/company/polyfos-3d/",
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.report/research-category/reports/previous-editions/",
+    "https://www.voxelmatters.com/category/global-am-hubs/japan/",
+    "https://www.voxelmatters.report/database/",
+    "https://www.garrettaudio.com/filmcaplist.html",
+    "https://www.tec-sol.shop/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Polyfos (closed) — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://ja.wikipedia.org/wiki/レジンコンクリート",
+    "https://ja.wikipedia.org/wiki/レジン",
+    "https://www.voxelmatters.directory/company/polyfos-3d/",
+    "https://skhonpo.com/",
+    "https://www.iguazu-phrozen.jp/material",
+    "https://www.monotaro.com/k/store/レジン/",
+    "https://formfutura.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Polyfos (closed) — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.directory/company/polyfos-3d/",
+    "https://www.voxelmatters.report/product/metal-am-market-2026/",
+    "https://www.voxelmatters.com/category/industry-2/distribution/",
+    "https://www.voxelmatters.report/database/",
+    "https://www.voxelmatters.directory/",
+    "https://www.am-teams.com/distribution/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Polyfos (closed) — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.japan-partner.com/",
+    "https://www.voxelmatters.directory/company/polyfos-3d/",
+    "https://www.scmp.com/magazines/style/people/celebrities/article/3353686/who-ansel-elgorts-japanese-partner-miona-whom-he-just-welcomed-baby",
+    "https://www.japan-partner.com/stocklist.html",
+    "https://www.facebook.com/eva.c.chabi/videos/how-i-get-japanese-friend-languagepartner-internationalfriends-hellotalkfriend-e/1064512069946702/",
+    "https://www.jetro.go.jp/usa/investinjapan/j-bridge.html",
+    "https://vietnamnews.vn/economy/1803879/pan-group-japanese-partner-join-hands-to-modernise-agriculture.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:amazon.co.jp Polyfos (closed) — VoxelMatters",
+   "results": [
+    "https://vendorcentral.amazon.co.jp/",
+    "https://r.amazon.co.jp/",
+    "https://affiliate.amazon.co.jp/",
+    "https://business.amazon.co.jp/ja/solutions/payment-options/pay-by-invoice",
+    "https://www.amazon.co.jp/桐原美月-ｓｗｅｅｔ-ｇｉｒｌ-ＦＲＩＤＡＹデジタル写真集-Ｔａｋｅｏ-Ｄｅｃ．-ebook/dp/B0HLDS675M",
+    "https://business.amazon.co.jp/ja/login",
+    "https://www.amazon.co.jp/【電子版だけの特典カット付き】大島璃乃１ｓｔ写真集-ＲｉＮｏ-西條彰仁-ebook/dp/B0HPF6WBM6"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Polyfos (closed) — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/g/01201596/",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/p/1766/2356/",
+    "https://www.monotaro.com/g/02888691/",
+    "https://www.monotaro.com/g/02779452/",
+    "https://www.monotaro.com/g/01007054/",
+    "https://www.monotaro.com/p/0672/1942/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Polyfos (closed) — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://pitchbook.com/profiles/company/537040-18",
+    "https://www.voxelmatters.directory/company/polyfos-3d/",
+    "https://acquirezy.com/organization/polyfos-3d",
+    "https://www.infobel.com/en/israel/polyfos_3d_ltd/yerushalayim/IL101128145/businessdetails.aspx",
+    "https://www.ivc-online.com/Google-Card?Id=03e5e7ea-16c1-eb11-b80b-00505695cd29",
+    "https://finder.startupnationcentral.org/company_page/polyfos-3d",
+    "https://www.kycisrael.com/companies/516436870/polyfos-3d-ltd/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Polyfos (closed) — VoxelMatters",
+   "results": [
+    "https://note.com/info/n/nf1f5ac6c3f7b",
+    "https://note.com/seigo77",
+    "https://note.com/lively_pika8336/n/n5adf36c23e7b",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/nosuke0607/n/n09d02c47e173"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Polyfos (closed) — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/Stardust_VAL/status/2119104463306989833",
+    "https://x.com/DemocraticWins/status/2117994783016685719",
+    "https://x.com/PopBase/status/2116494180054909027",
+    "https://x.com/Vanlenciacf/status/2115571969827668368",
+    "https://x.com/jocelynseip/status/2118260591680983528"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Polyfos (closed) — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://www.linkedin.com/posts/davide-sher_polyfos-joins-october-7th-startups-project-activity-7136047705394470913-qgwt",
+    "https://www.linkedin.com/pub/dir/davide/sher",
+    "https://www.linkedin.com/posts/voxelmatters_voxelmatters-polymer-am-focus-2025-ebook-activity-7325913599795769346-QYyd",
+    "https://www.linkedin.com/posts/francescopulimeni_meet-the-top-companies-from-voxelmatters-activity-7489936649108328448-aK4a",
+    "https://il.linkedin.com/company/polyfos-3d",
+    "https://it.linkedin.com/in/francescopulimeni"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Polyfos (closed) — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/groups/h3cgroup/posts/1189777390376319/",
+    "https://www.facebook.com/YessiCarmona/",
+    "https://www.facebook.com/vjjackson1/",
+    "https://www.facebook.com/jussayin.007/photos/",
+    "https://www.facebook.com/vincent.verdoni/videos/professionally-my-first-post-for-this-footage-was-anchored-in-two-types-of-long-/1520917976755104/",
+    "https://www.facebook.com/mike.kweon/posts/내가-리더해서-개발한-무인기-40개가-넘는-신기술의-조합-여러개의-신기술은-세계-최초어제-미국-육군-홈페이지-장식-기대는-했지만-현재-엄청-많은/29458435143774310/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Polyfos (closed) — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.directory/company/polyfos-3d/",
+    "https://acquirezy.com/organization/polyfos-3d",
+    "https://www.voxelmatters.report/product/metal-am-market-2026/",
+    "https://www.linkedin.com/posts/veresh_exciting-news-from-polyfos-we-have-a-place-activity-7079372705501724672-UMaV",
+    "https://pitchbook.com/profiles/company/537040-18",
+    "https://finder.startupnationcentral.org/company_page/polyfos-3d"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Polyfos (closed) — VoxelMatters X 投稿",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://www.voxelmatters.directory/company/polyfos-3d/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.voxelmatters.com/",
+    "https://x.com/VoxelMatters/status/2117922030947614944",
+    "https://x.com/VoxelMatters/status/2117922086492508517",
+    "https://x.com/VoxelizedBits/status/2118951415217295615"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）"
+ }
+}

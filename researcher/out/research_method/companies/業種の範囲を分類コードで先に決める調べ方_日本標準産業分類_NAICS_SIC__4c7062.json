@@ -1,0 +1,552 @@
+{
+ "name": "業種の範囲を分類コードで先に決める調べ方（日本標準産業分類・NAICS・SIC・開示の業種と統計の業種の対応・4-131）",
+ "en": "industry research define scope classification codes NAICS SIC methodology",
+ "aliases": [
+  "業界調査 産業分類 コード 先に",
+  "日本標準産業分類 業界分析 手順",
+  "NAICS SIC industry research step"
+ ],
+ "context": "手法・業種",
+ "kind": "market",
+ "researched_at": "2026-11-09T17:58:47.892350+00:00",
+ "evidence": {
+  "実例": [
+   {
+    "quote": "Example classification",
+    "url": "https://siccode.com/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Example for classification reference. No affiliation or endorsement implied.",
+    "url": "https://siccode.com/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Describe the companies, products, services, or use case. You do not need a NAICS or SIC code to start.",
+    "url": "https://siccode.com/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Example: Commercial Plumbers",
+    "url": "https://siccode.com/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "when your target is more specific than an industry code, for example commercial plumbers, not every plumbing company, or suppliers to restaurants, not restaurants themselves. For a",
+    "url": "https://siccode.com/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "Every U.S. business can be classified using NAICS and SIC based on its primary business activity. These standardized industry frameworks support research, analysis, segmentation, reporting, and business applications.",
+    "url": "https://siccode.com/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Business intelligence services built on the same governed classification framework support segmentation, outreach, and analytics while remaining anchored to standardized taxonomies.",
+    "url": "https://siccode.com/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "NAICS and SIC define primary business activity for analytics, compliance, and institutional research. SICCODE.com documents methodology, named reviewers, and citation-backed guidance.",
+    "url": "https://siccode.com/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Classification frameworks and reference data support industry classification, research, and reporting across government, academic, and enterprise environments.",
+    "url": "https://siccode.com/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "Describe your ideal prospects. Our team will identify the right NAICS/SIC scope, estimate available counts, and help keep your business or email list precisely targeted.",
+    "url": "https://siccode.com/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/wish11_11/n/nf03892fd8560",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/comix_ceo162230/n/na957abe250aa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tsunobuchi/n/n037e5cd3ee54",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/constdx/n/n089276d4905a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/shijochosa_labo/n/ne78033b3e7e3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/it_aibiz/n/nf33a30e8c3c4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kaito_cometa/n/n9632db4153bf",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yushutsu.jp/2025/05/hscode/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.help-note.com/hc/ja/articles/40819201911577-%E8%87%AA%E5%88%86%E3%81%AE%E8%A8%98%E4%BA%8B%E3%81%8C%E3%81%A9%E3%81%AE%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA%E3%81%AB%E5%88%86%E9%A1%9E%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B%E7%A2%BA%E8%AA%8D%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95%E3%82%84-%E5%88%86%E9%A1%9E%E3%81%95%E3%82%8C%E3%82%8B%E5%9F%BA%E6%BA%96%E3%82%92%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/ai_cood/n/n9ce8dcd2cdfa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://learning.sap.com/courses/cross-functional-customizing-in-sap-s-4hana-materials-management-jp/%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%83%BC%E3%83%89%E3%81%A8%E8%A9%95%E4%BE%A1%E3%82%A8%E3%83%AA%E3%82%A2%E3%81%AE%E9%96%A2%E9%80%A3%E6%80%A7%E3%81%AE%E6%B1%BA%E5%AE%9A_a_bbbfaffe892e_0_1786659646592_ja-JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.tsr-net.co.jp/service/detail/grs.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/10",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stella-sr.jp/joseikintopics/%E3%82%A6%E3%83%81%E3%81%AF%E4%BD%95%E6%A5%AD%EF%BC%81%EF%BC%9F%E7%94%A3%E6%A5%AD%E5%88%86%E9%A1%9E%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stripe.com/jp/guides/merchant-category-codes",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://usonar.co.jp/blog/6255.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/toukei_toukatsu/index/seido/sangyo/contact.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stgy-souzoku.com/industry-classification/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://soei-tax.jp/15917711212011",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zelojapan.com/lawsquare/64916",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unstats.un.org/unsd/classifications/Econ/Download/In%20Text/ISIC_Rev_4_publication_Japanese.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tax.prime-partners.co.jp/%E6%97%A5%E6%9C%AC%E7%94%A3%E6%A5%AD%E5%88%86%E9%A1%9E%E3%81%A3%E3%81%A6%E3%81%AA%E3%81%AB%EF%BC%9F%E8%AA%BF%E3%81%B9%E6%96%B9%E3%82%84%E8%A3%9C%E5%8A%A9%E9%87%91%E3%81%A7%E3%81%AE%E6%B4%BB%E7%94%A8/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000819207.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/toukei_toukatsu/index/seido/sangyo/R05index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://siccode.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.census.gov/naics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://libguides.bentley.edu/industryresearch/SIC-NAICS",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.federato.ai/library/post/choosing-between-sic-and-naics-codes-for-modern-underwriting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://libguides.babson.edu/industries/naics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.investopedia.com/articles/investing/111214/sic-vs-naic-introduction-industry-classification-codes.asp",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "業種の範囲を分類コードで先に決める調べ方（日本標準産業分類・NAICS・SIC・開示の業種と統計の業種の対応・4-131） site:note.com",
+   "results": [
+    "https://note.com/wish11_11/n/nf03892fd8560",
+    "https://note.com/comix_ceo162230/n/na957abe250aa",
+    "https://note.com/tsunobuchi/n/n037e5cd3ee54",
+    "https://note.com/constdx/n/n089276d4905a",
+    "https://note.com/shijochosa_labo/n/ne78033b3e7e3",
+    "https://note.com/it_aibiz/n/nf33a30e8c3c4",
+    "https://note.com/44310_morikawa/n/n1698d300431f",
+    "https://note.com/tsunobuchi/n/nfb921e361805",
+    "https://note.com/alive_crane5316/n/n58f6593cb935",
+    "https://note.com/pokecon/n/nf2fdfd863375"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "業種の範囲を分類コードで先に決める調べ方（日本標準産業分類・NAICS・SIC・開示の業種と統計の業種の対応・4-131） note",
+   "results": [
+    "https://note.com/wish11_11/n/nf03892fd8560",
+    "https://note.com/constdx/n/n089276d4905a",
+    "https://note.com/kaito_cometa/n/n9632db4153bf",
+    "https://yushutsu.jp/2025/05/hscode/",
+    "https://www.help-note.com/hc/ja/articles/40819201911577-%E8%87%AA%E5%88%86%E3%81%AE%E8%A8%98%E4%BA%8B%E3%81%8C%E3%81%A9%E3%81%AE%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA%E3%81%AB%E5%88%86%E9%A1%9E%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B%E7%A2%BA%E8%AA%8D%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95%E3%82%84-%E5%88%86%E9%A1%9E%E3%81%95%E3%82%8C%E3%82%8B%E5%9F%BA%E6%BA%96%E3%82%92%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84",
+    "https://note.com/ai_cood/n/n9ce8dcd2cdfa",
+    "https://learning.sap.com/courses/cross-functional-customizing-in-sap-s-4hana-materials-management-jp/%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%83%BC%E3%83%89%E3%81%A8%E8%A9%95%E4%BE%A1%E3%82%A8%E3%83%AA%E3%82%A2%E3%81%AE%E9%96%A2%E9%80%A3%E6%80%A7%E3%81%AE%E6%B1%BA%E5%AE%9A_a_bbbfaffe892e_0_1786659646592_ja-JP",
+    "https://www.tsr-net.co.jp/service/detail/grs.html",
+    "https://innovales.jp/keieiryokukojo5/",
+    "https://tax.prime-partners.co.jp/日本産業分類ってなに？調べ方や補助金での活用/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "業種の範囲を分類コードで先に決める調べ方（日本標準産業分類・NAICS・SIC・開示の業種と統計の業種の対応・4-131） やり方",
+   "results": [
+    "https://www.e-stat.go.jp/classifications/terms/10",
+    "https://stella-sr.jp/joseikintopics/%E3%82%A6%E3%83%81%E3%81%AF%E4%BD%95%E6%A5%AD%EF%BC%81%EF%BC%9F%E7%94%A3%E6%A5%AD%E5%88%86%E9%A1%9E%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
+    "https://stripe.com/jp/guides/merchant-category-codes",
+    "https://usonar.co.jp/blog/6255.html",
+    "https://www.soumu.go.jp/toukei_toukatsu/index/seido/sangyo/contact.htm",
+    "https://stgy-souzoku.com/industry-classification/",
+    "http://soei-tax.jp/15917711212011",
+    "https://unstats.un.org/unsd/classifications/Econ/Download/In%20Text/ISIC_Rev_4_publication_Japanese.pdf",
+    "https://zelojapan.com/lawsquare/64916",
+    "https://tax.prime-partners.co.jp/日本産業分類ってなに？調べ方や補助金での活用/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "業種の範囲を分類コードで先に決める調べ方（日本標準産業分類・NAICS・SIC・開示の業種と統計の業種の対応・4-131） 事例",
+   "results": [
+    "https://www.e-stat.go.jp/classifications/terms/10",
+    "https://usonar.co.jp/blog/6255.html",
+    "https://stella-sr.jp/joseikintopics/%E3%82%A6%E3%83%81%E3%81%AF%E4%BD%95%E6%A5%AD%EF%BC%81%EF%BC%9F%E7%94%A3%E6%A5%AD%E5%88%86%E9%A1%9E%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
+    "https://www.soumu.go.jp/toukei_toukatsu/index/seido/sangyo/contact.htm",
+    "https://stgy-souzoku.com/industry-classification/",
+    "http://soei-tax.jp/15917711212011",
+    "https://stripe.com/jp/guides/merchant-category-codes",
+    "https://zelojapan.com/lawsquare/64916",
+    "https://unstats.un.org/unsd/classifications/Econ/Download/In%20Text/ISIC_Rev_4_publication_Japanese.pdf",
+    "https://tax.prime-partners.co.jp/日本産業分類ってなに？調べ方や補助金での活用/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "industry research define scope classification codes NAICS SIC methodology",
+   "results": [
+    "https://siccode.com/",
+    "https://www.census.gov/naics/",
+    "https://libguides.bentley.edu/industryresearch/SIC-NAICS",
+    "https://www.federato.ai/library/post/choosing-between-sic-and-naics-codes-for-modern-underwriting",
+    "https://libguides.babson.edu/industries/naics",
+    "https://www.investopedia.com/articles/investing/111214/sic-vs-naic-introduction-industry-classification-codes.asp",
+    "https://docs.lusha.com/user-guide/shared/filters/sic-and-naics-filters",
+    "https://www.naics.com/",
+    "https://www.youtube.com/watch?v=2COQ_KYoJAE",
+    "https://siccode.com/page/naics-classification-methodology"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com 業種の範囲を分類コードで先に決める調べ方（日本標準産業分類・NAICS・SIC・開示の業種と統計の業種の対応・4-131）",
+   "results": [
+    "https://note.com/wish11_11/n/nf03892fd8560",
+    "https://note.com/comix_ceo162230/n/na957abe250aa",
+    "https://note.com/tsunobuchi/n/n037e5cd3ee54",
+    "https://note.com/constdx/n/n089276d4905a",
+    "https://note.com/44310_morikawa/n/n1698d300431f",
+    "https://note.com/it_aibiz/n/nf33a30e8c3c4",
+    "https://note.com/tsunobuchi/n/nfb921e361805",
+    "https://note.com/alive_crane5316/n/n58f6593cb935",
+    "https://note.com/pokecon/n/nf2fdfd863375",
+    "https://note.com/shoubaihanjou/n/ne8b9de7c8754"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 業種の範囲を分類コードで先に決める調べ方（日本標準産業分類・NAICS・SIC・開示の業種と統計の業種の対応・4-131）",
+   "results": [
+    "https://x.com/__SatoshiSsSs__/status/2112485303923737004",
+    "https://x.com/gagarot200/article/2087778152630382789",
+    "https://x.com/shota7180/status/2088098521430073500",
+    "https://x.com/junchan_sim/status/2119173048221712472",
+    "https://x.com/MakeAI_CEO/article/2080166594915742012",
+    "https://x.com/lucky_note_lab/article/2098948865840001124",
+    "https://x.com/deskrex",
+    "https://x.com/kimuai08/status/2107580832194150855",
+    "https://x.com/i/article/2095696677118333332",
+    "https://x.com/KagawaTomo/status/2117167013231816948"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com 業種の範囲を分類コードで先に決める調べ方（日本標準産業分類・NAICS・SIC・開示の業種と統計の業種の対応・4-131）",
+   "results": [
+    "https://jp.linkedin.com/directory/articles",
+    "https://jp.linkedin.com/company/oneper-inc",
+    "https://jp.linkedin.com/pulse/part-2-enterprise-agentic-ai-implementation-framework-chamarty-mlm1e?tl=ja",
+    "https://jp.linkedin.com/in/hiroshiyokkaichinz",
+    "https://jp.linkedin.com/pulse/from-data-action-how-ai-changing-pharma-dimitrije-jankovic-gardner-q42be?tl=ja",
+    "https://jp.linkedin.com/pulse/ai-agent-use-cases-where-enterprises-deploying-agents-today-algolia-eyree?tl=ja",
+    "https://jp.linkedin.com/pulse/product-managers-guide-ai-stack-dheenadayalan-kathirvel-hlsue?tl=ja",
+    "https://jp.linkedin.com/pulse/ship-10x-faster-without-losing-plot-practitioners-devinarayanan-pbgac?tl=ja",
+    "https://jp.linkedin.com/pulse/thorough-understanding-benchmarking-ai-workloads-gpus-kiran-palla-treqe?tl=ja",
+    "https://jp.linkedin.com/pulse/building-ai-governance-framework-from-boomtown-tim-tipton-jr-ej7qc?tl=ja"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:facebook.com 業種の範囲を分類コードで先に決める調べ方（日本標準産業分類・NAICS・SIC・開示の業種と統計の業種の対応・4-131）",
+   "results": [
+    "https://www.facebook.com/100086051706977/posts/%E6%9C%80%E4%BD%8E%E8%B3%83%E9%87%91%E3%81%AE%E5%BC%95%E3%81%8D%E4%B8%8A%E3%81%92%E3%81%A7%E6%99%82%E7%B5%A6%E3%82%92%E8%A6%8B%E7%9B%B4%E3%81%99%E3%81%A8%E5%90%8C%E3%81%98%E5%8B%A4%E5%8B%99%E6%99%82%E9%96%93%E3%81%A7%E3%82%82%E4%BA%BA%E4%BB%B6%E8%B2%BB%E3%81%AF%E5%A2%97%E3%81%88%E3%81%BE%E3%81%99%E4%B8%80%E6%96%B9%E6%89%B6%E9%A4%8A%E3%81%AE%E7%AF%84%E5%9B%B2%E5%86%85%E3%81%AA%E3%81%A9%E5%B9%B4%E5%8F%8E%E3%82%92%E8%AA%BF%E6%95%B4%E3%81%97%E3%81%A6%E5%83%8D%E3%81%8D%E3%81%9F%E3%81%84%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95%E3%81%AE%E5%A0%B4%E5%90%88%E3%81%AF%E5%8B%A4%E5%8B%99%E6%99%82%E9%96%93%E3%82%92%E6%B8%9B%E3%82%89%E3%81%99%E3%81%93%E3%81%A8%E3%82%82%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E6%94%AF%E6%89%95%E3%81%86/1077753015103079/",
+    "https://www.facebook.com/kidera.yoshi/",
+    "https://www.facebook.com/yuichi.ishikawa.12/posts/%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%8E%E3%83%BC%E3%83%89%E3%81%AB%E5%88%A4%E6%96%AD%E3%82%92%E6%8C%81%E3%81%9F%E3%81%9B%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86%E7%99%BA%E6%83%B3-%E3%81%9D%E3%82%8C%E3%81%AFsdn%E3%81%AA%E3%81%AE%E3%81%8B%E3%81%9D%E3%82%8C%E3%81%A8%E3%82%82%E3%81%9D%E3%81%AE%E5%85%88%E3%81%8B%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%81%A8%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E8%9E%8D%E5%90%88%E3%82%92%E8%AA%9E%E3%82%8B%E6%96%87%E8%84%88%E3%81%A7%E8%BF%91%E5%B9%B4%E3%82%88%E3%81%8F%E8%A6%8B%E3%81%8B%E3%81%91%E3%82%8B%E8%A8%AD%E8%A8%88%E6%80%9D%E6%83%B3%E3%81%8C%E3%81%82%E3%82%8B%E3%81%9D%E3%82%8C%E3%81%AF/3744771818986171/",
+    "https://www.facebook.com/VUC2021/",
+    "https://www.facebook.com/yuichi.ishikawa.12/posts/%E8%A8%AD%E8%A8%88%E8%B2%AC%E4%BB%BB%E5%81%9C%E6%AD%A2%E6%A8%A9%E5%88%B6%E5%BA%A6%E3%81%AE%E9%99%90%E7%95%8C%E5%88%B6%E5%BE%A1%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E6%8A%80%E8%A1%93%E4%BD%93%E7%B3%BB%E3%81%A8%E6%9C%80%E5%BE%8C%E3%81%AB%E6%AE%8B%E3%82%8B%E4%BA%BA%E9%96%93%E3%81%AE%E5%BD%B9%E5%89%B2%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E5%88%86%E6%95%A3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0ai%E3%81%93%E3%82%8C%E3%82%89%E3%81%AB%E5%85%B1%E9%80%9A%E3%81%99%E3%82%8B%E6%9C%80%E5%A4%A7%E3%81%AE%E7%89%B9%E5%BE%B4%E3%81%AF%E8%AA%B0%E3%82%82%E5%85%A8%E4%BD%93%E3%82%92%E5%88%B6%E5%BE%A1%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E3%81%A8%E3%81%84%E3%81%86/3793962777400408/",
+    "https://www.facebook.com/kawagoenomori/?locale=en_GB",
+    "https://www.facebook.com/groups/1422147675299426/posts/2260410481473137/",
+    "https://www.facebook.com/syouji.ashimura/posts/%E3%81%93%E3%82%8C%E3%81%AE%E4%BF%A1%E6%86%91%E6%80%A7%E3%81%AF-%E5%8C%97%E6%AC%A7%E3%82%92%E5%8A%A0%E3%81%88%E3%82%8B%E3%81%A8%E3%81%A9%E3%81%86%E3%81%8B%E3%81%AA-%E3%81%82%E3%82%8B%E5%9B%BD%E3%81%AE%E5%9B%BD%E4%BC%9A%E8%AD%B0%E5%93%A1%E3%81%AE%E5%A0%B1%E9%85%AC%E5%9B%BD%E4%BC%9A%E3%81%AE%E3%82%B3%E3%82%B9%E3%83%88%E5%88%86%E6%9E%90%E3%81%A8%E3%81%97%E3%81%A6%E5%9B%BD%E9%9A%9B%E6%AF%94%E8%BC%83%E8%AD%B0%E5%93%A1%E5%A0%B1%E9%85%AC%E3%81%AE%E4%BB%96%E3%81%AE%E6%89%80%E5%BE%97%E5%88%86%E5%B8%83%E3%81%A8%E3%81%8B%E3%81%A9%E3%82%93%E3%81%AA%E6%8C%87%E6%A8%99%E3%81%8C%E8%80%83%E3%81%88%E3%82%89%E3%82%8C%E3%82%8B%E3%81%8B%E3%81%AA%E3%83%8B%E3%82%B8%E4%BF%82%E6%95%B0%E3%83%91%E3%83%BC%E3%82%BB%E3%83%B3/29211631498520413/",
+    "https://www.facebook.com/groups/832988157341408/posts/1881087055864841/",
+    "https://www.facebook.com/e.gyousyu/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "業種の範囲を分類コードで先に決める調べ方（日本標準産業分類・NAICS・SIC・開示の業種と統計の業種の対応・4-131） note 社長",
+   "results": [
+    "https://note.com/comix_ceo162230/n/na957abe250aa",
+    "https://note.com/comix_ceo162230/n/nc33624e41cfd",
+    "https://note.com/constdx/n/n089276d4905a",
+    "https://note.com/comix_ceo162230/n/nefa267965ecf",
+    "https://note.com/comix_ceo162230/n/ne58224588fcb",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://note.com/comix_ceo162230/n/nb324fc4acd5f",
+    "https://www.tsr-net.co.jp/service/detail/grs.html",
+    "https://www.buffett-code.com/",
+    "https://tax.prime-partners.co.jp/日本産業分類ってなに？調べ方や補助金での活用/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "業種の範囲を分類コードで先に決める調べ方（日本標準産業分類・NAICS・SIC・開示の業種と統計の業種の対応・4-131） X 投稿",
+   "results": [
+    "https://lifrell-tech.com/950/",
+    "https://s--line.co.jp/x-twitter-business-2026/",
+    "https://coeteco.jp/articles/13597",
+    "https://erevista.co.jp/column/x-marketing/",
+    "https://x.com/ai_shunoda/article/2088079224578208058",
+    "https://colet-lab.jp/column/sns/x-corporate-account-post-format-thread-guide/",
+    "https://hashout.jp/sns/9426/",
+    "https://lp.yoom.fun/blog-posts/how-to-automatically-collect-and-manage-twitter-mentions",
+    "https://www.ajsa.or.jp/kentei/sns/x/x-get-recommended.html",
+    "https://www.e-stat.go.jp/classifications/terms/10"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "industry research define scope classification codes NAICS SIC methodology site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/industry-classification-naics-codes-building-business-latoya-wzbpc",
+    "https://www.linkedin.com/posts/joelcollindemers_your-category-strategies-are-only-as-good-activity-7407783156415635457-d54Z",
+    "https://www.linkedin.com/in/duplessispc",
+    "https://www.linkedin.com/in/chandrikakaul",
+    "https://www.linkedin.com/in/scott-nance-b6748b",
+    "https://www.linkedin.com/posts/rajiv-sharda-abv-cma-522aa3141_private-companies-in-the-united-states-face-activity-7368847631277617155-1MFh",
+    "https://www.linkedin.com/in/kirk-white-17b42a285",
+    "https://www.linkedin.com/posts/hari-radhakrishnan_once-in-a-while-i-use-chat-gpt-to-search-activity-7404436061583769600-lGbc",
+    "https://www.linkedin.com/in/bizrefross",
+    "https://www.linkedin.com/in/kkalyanam"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）"
+ },
+ "new_this_run": {
+  "実例": [
+   {
+    "quote": "Example classification",
+    "url": "https://siccode.com/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Example for classification reference. No affiliation or endorsement implied.",
+    "url": "https://siccode.com/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Describe the companies, products, services, or use case. You do not need a NAICS or SIC code to start.",
+    "url": "https://siccode.com/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Example: Commercial Plumbers",
+    "url": "https://siccode.com/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "when your target is more specific than an industry code, for example commercial plumbers, not every plumbing company, or suppliers to restaurants, not restaurants themselves. For a",
+    "url": "https://siccode.com/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "Every U.S. business can be classified using NAICS and SIC based on its primary business activity. These standardized industry frameworks support research, analysis, segmentation, reporting, and business applications.",
+    "url": "https://siccode.com/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Business intelligence services built on the same governed classification framework support segmentation, outreach, and analytics while remaining anchored to standardized taxonomies.",
+    "url": "https://siccode.com/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "NAICS and SIC define primary business activity for analytics, compliance, and institutional research. SICCODE.com documents methodology, named reviewers, and citation-backed guidance.",
+    "url": "https://siccode.com/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Classification frameworks and reference data support industry classification, research, and reporting across government, academic, and enterprise environments.",
+    "url": "https://siccode.com/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "Describe your ideal prospects. Our team will identify the right NAICS/SIC scope, estimate available counts, and help keep your business or email list precisely targeted.",
+    "url": "https://siccode.com/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-09T17:58:47.892350+00:00"
+}

@@ -1,0 +1,2010 @@
+{
+ "name": "Tidio",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AUMS不適合",
+ "researched_at": "2026-11-09T18:07:23.745343+00:00",
+ "official_url": "https://www.tidio.com",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2013",
+    "url": "https://www.tooljunction.io/ai-tools/tidio/company",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Szczecin, Poland",
+    "url": "https://www.tooljunction.io/ai-tools/tidio/company",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$26.8M",
+    "url": "https://www.tooljunction.io/ai-tools/tidio/company",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Tidio shows you what your conversations earn. Our customers average a 75% resolution rate with Lyro. Track sales, leads, and bookings in one report.",
+    "url": "https://www.tidio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Paid plans from $29/mo, no surprise upgrades",
+    "url": "https://www.tidio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Centralize support automation and proactive sales",
+    "url": "https://www.tidio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Lyro answers instantly and recommends tailored products. Sales Flows trigger conversations at key moments, and your team can take over when needed.",
+    "url": "https://www.tidio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Lyro recommends products right in the chat.",
+    "url": "https://www.tidio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "More about product recommendations",
+    "url": "https://www.tidio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Start conversations proactively",
+    "url": "https://www.tidio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Lyro recommends products, recovers carts, and captures leads mid-conversation. Attribution shows what each chat earned.",
+    "url": "https://www.tidio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Product recommendations",
+    "url": "https://www.tidio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "3. Grows from free to enterprise.",
+    "url": "https://www.tidio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Start free on platforms like Shopify, WordPress, and Wix. Scale into custom AI Agents, priority SLAs, and deep integrations with your stack.",
+    "url": "https://www.tidio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Lyro connects to your store inventory and pulls your product catalog in real time, so recommendations match what you actually sell.",
+    "url": "https://www.tidio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Lyro scans incoming emails and solves common problems in seconds, giving your team more time for high-priority tasks.",
+    "url": "https://www.tidio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every reply is grounded in your website, help center, and product data. When Lyro isn’t sure, it says so and hands the conversation to your team.",
+    "url": "https://www.tidio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See what visitors are typing before they hit send, so your team can prepare the right answer in advance.",
+    "url": "https://www.tidio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn chats and emails into tickets with priorities, tags, spam management, and smart views your team can keep up with.",
+    "url": "https://www.tidio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Preview carts, check order history, manage orders, and offer discounts without leaving the conversation.",
+    "url": "https://www.tidio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See sales, leads, and satisfaction attributed to conversations, per channel and per operator.",
+    "url": "https://www.tidio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "increase in qualified leads with Live Chat",
+    "url": "https://www.tidio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Full support for EU data protection laws, with tools for consent, deletion, and access control.",
+    "url": "https://www.tidio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Privacy features that meet California's consumer data regulations.",
+    "url": "https://www.tidio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Certified controls for data security, availability, integrity, privacy, and confidentiality.",
+    "url": "https://www.tidio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Start free and see the answer in your own report. Sales, leads, and bookings, attributed to every conversation.",
+    "url": "https://www.tidio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Tidio Partner Programs",
+    "url": "https://www.tidio.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Find new clients, add new revenue streams, and get exclusive access to special offers and training.",
+    "url": "https://www.tidio.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Join the Partner Program",
+    "url": "https://www.tidio.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Choose the perfect partner program for your business",
+    "url": "https://www.tidio.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Find the best path for your business. Sell, deploy, and create custom solutions with programs designed to help you succeed.",
+    "url": "https://www.tidio.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Ideal for ecommerce, web development, marketing, and AI implementation agencies, as well as resellers who refer, implement, or resell Tidio for their customers.",
+    "url": "https://www.tidio.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Tailor made for influencers, content creators, bloggers, or businesses that want to promote Tidio within their communities or followers.",
+    "url": "https://www.tidio.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "The simplest way for existing users to refer friends and earn a flat reward—no affiliate links or extra marketing required.",
+    "url": "https://www.tidio.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Access partner specific training, co-marketing initiatives, and sales collateral to close more deals.",
+    "url": "https://www.tidio.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-level security",
+    "url": "https://www.tidio.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Your data and your clients' data are fully protected with Tidio's enterprise-grade, SOC 2–examined security.",
+    "url": "https://www.tidio.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "The Tidio team is an important strategic partner to Spendbase. Tidio lets us deliver innovative AI-driven customer engagement solutions for our clients that help save our customers money while improving their overall experience.",
+    "url": "https://www.tidio.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Our partner network connects you with trusted experts in ecommerce, marketing, and AI to help your business grow.",
+    "url": "https://www.tidio.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Finally, a partner program that truly feels like a partnership",
+    "url": "https://www.tidio.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "For Cove Smart’s support team, the problems were multiplying. Their knowledge base had grown unwieldy as their product line expanded to include multiple generations of security systems, each requiring different troubleshooting procedures. Agents spent valuable time copying and pasting template responses, creating an inefficient workflow that couldn’t scale.",
+    "url": "https://www.tidio.com/customers/cove/",
+    "pass": 1
+   },
+   {
+    "quote": "After evaluating several solutions, Cove Smart selected Tidio’s Lyro AI, impressed by both its technology and implementation approach.",
+    "url": "https://www.tidio.com/customers/cove/",
+    "pass": 1
+   },
+   {
+    "quote": "The intuitive flow builder allowed Cove Smart to create step-by-step troubleshooting guides with rich media support, crucial for guiding customers through hardware-specific procedures.",
+    "url": "https://www.tidio.com/customers/cove/",
+    "pass": 1
+   },
+   {
+    "quote": "Built-in translation capabilities enabled Spanish-speaking customers to receive support in their preferred language without requiring dedicated bilingual staff.",
+    "url": "https://www.tidio.com/customers/cove/",
+    "pass": 1
+   },
+   {
+    "quote": "When issues require human intervention, conversations could be intelligently routed to the appropriate department based on context and availability.",
+    "url": "https://www.tidio.com/customers/cove/",
+    "pass": 1
+   },
+   {
+    "quote": "Customers appreciated the quick, accurate responses and step-by-step guides with visual aids that made troubleshooting easier.",
+    "url": "https://www.tidio.com/customers/cove/",
+    "pass": 1
+   },
+   {
+    "quote": "Perhaps most importantly, the platform gave Cove Smart’s management deeper insights into customer issues. They could now see which troubleshooting steps were most frequently needed and which products generated the most support requests, allowing them to identify opportunities for product improvement.",
+    "url": "https://www.tidio.com/customers/cove/",
+    "pass": 1
+   },
+   {
+    "quote": "By transforming their approach to customer support with Tidio’s Lyro AI, Cove Smart hasn’t just improved efficiency—they’ve created a scalable foundation for growth while delivering the responsive, helpful experience their customers expect.",
+    "url": "https://www.tidio.com/customers/cove/",
+    "pass": 1
+   },
+   {
+    "quote": "Get a customized selection of case studies tailored to your profile.",
+    "url": "https://www.tidio.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "“Automatic message feature that helps a lot and is very, very beneficial for us to avoid losing leads.”",
+    "url": "https://www.tidio.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "increase in qualified leads",
+    "url": "https://www.tidio.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Automatic message feature that helps a lot and is very, very beneficial for us to avoid losing leads.",
+    "url": "https://www.tidio.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "engagement rate with lead generation bots",
+    "url": "https://www.tidio.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "higher lead generation per month",
+    "url": "https://www.tidio.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Endeksa Hits 138% Boost in Lead Generation with Tidio",
+    "url": "https://www.tidio.com/customers/endeksa/",
+    "pass": 1
+   },
+   {
+    "quote": "Increase in lead generation",
+    "url": "https://www.tidio.com/customers/endeksa/",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-chat surveys and chatbots capture visitor details and generate more leads.",
+    "url": "https://www.tidio.com/customers/endeksa/",
+    "pass": 1
+   },
+   {
+    "quote": "Know the value of your property",
+    "url": "https://www.tidio.com/customers/endeksa/",
+    "pass": 1
+   },
+   {
+    "quote": "2. Smart pre-chat surveys contribute to a boost in lead generation",
+    "url": "https://www.tidio.com/customers/endeksa/",
+    "pass": 1
+   },
+   {
+    "quote": ", a predictive real estate data analytics and insights platform operating in Turkey, Spain, and Portugal, uses real-time chat to transform customer service. This company started using Tidio to personalize the visitor experience by sending customized messages based on their client’s behavior.",
+    "url": "https://www.tidio.com/customers/endeksa/",
+    "pass": 1
+   },
+   {
+    "quote": "The owners tested many platforms before Tidio, but the pricing of the systems needed to be lowered for the large number of users Endeksa has.",
+    "url": "https://www.tidio.com/customers/endeksa/",
+    "pass": 1
+   },
+   {
+    "quote": "Tidio products/tactics used: live chat and chatbots",
+    "url": "https://www.tidio.com/customers/endeksa/",
+    "pass": 1
+   },
+   {
+    "quote": "Endeksa, with a user base of over 300,000 and over 5 million e-valuations completed, analyzes properties based on several variables, such as location and structural features. Then, the platform predicts how long it will take to sell the house and at what price. It’s the first platform in Turkey to offer automated real estate valuation technology.",
+    "url": "https://www.tidio.com/customers/endeksa/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by 300,000+ businesses:",
+    "url": "https://www.tidio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Tidio’s AI-powered ticketing system enables you to transform incoming support emails, live chat conversations, and social media messages into tickets and assign them to available operators.",
+    "url": "https://www.tidio.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 300,000+ businesses:",
+    "url": "https://www.tidio.com/solutions/customer-service/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 300,000+ businesses:",
+    "url": "https://www.tidio.com/solutions/marketing-and-sales/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 300,000+ businesses:",
+    "url": "https://www.tidio.com/industry/education/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by brands that refuse to compromise on customer experience",
+    "url": "https://www.tidio.com/ai-agent/",
+    "pass": 1
+   },
+   {
+    "quote": "Increase your support team's efficiency: Lyro detects and answers questions about order status, shipping policies, product availability, and more, within seconds. This frees up your operators to focus on complex or profitable issues so you can make your business more profitable.",
+    "url": "https://www.tidio.com/ai-agent/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 300,000+ businesses:",
+    "url": "https://www.tidio.com/ai-agent/product-recommendations/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 300,000+ businesses:",
+    "url": "https://www.tidio.com/flows/",
+    "pass": 1
+   },
+   {
+    "quote": "Tidio Flows can accomplish a variety of tasks, but they’re generally used to replace human operators in online conversations or to engage website visitors. They can be a powerful tool, helping you start chats with website visitors, answer FAQs, generate leads, save abandoned carts, cross-sell products, and more.",
+    "url": "https://www.tidio.com/flows/",
+    "pass": 1
+   },
+   {
+    "quote": "Speed up your response time by automatically directing new chats to available operators.",
+    "url": "https://www.tidio.com/features/",
+    "pass": 1
+   },
+   {
+    "quote": "Respond when operators are busy",
+    "url": "https://www.tidio.com/features/",
+    "pass": 1
+   },
+   {
+    "quote": "Pull historical data on conversations, tickets, ratings, and Lyro threads into your BI tool, warehouse, or spreadsheet. You can also connect AI agents such as Claude Code over MCP and ask them to build reports from that data.",
+    "url": "https://www.tidio.com/features/",
+    "pass": 1
+   },
+   {
+    "quote": "Limit the access your operators have to selected sections/features of your Tidio panel.",
+    "url": "https://www.tidio.com/features/",
+    "pass": 1
+   },
+   {
+    "quote": "Split your operators in multiple departments.",
+    "url": "https://www.tidio.com/features/",
+    "pass": 1
+   },
+   {
+    "quote": "Notify specific operators about the tickets they're managing.",
+    "url": "https://www.tidio.com/features/",
+    "pass": 1
+   },
+   {
+    "quote": "The remaining conversations are transferred to human operators",
+    "url": "https://www.tidio.com/customers/bella-sante/",
+    "pass": 1
+   },
+   {
+    "quote": "### Trusted by Many Businesses",
+    "url": "https://www.tidio.com/llm-info/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the world's most demanding brands",
+    "url": "https://www.tidio.com/custom-ai-agents/?hs_track=ai_agent",
+    "pass": 1
+   },
+   {
+    "quote": "In particular, it seems worth considering for small business owners and website operators who are spending too much time responding to inquiries.",
+    "url": "https://note.com/toolbridge_jp/n/n5dc5644bec82?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "across industry, size, and geography: from publishers like The Economist Group to government IT resellers like Carahsoft, universities like Youngstown State and Langara College, and manufacturers like Leica Geosystems. Many of the",
+    "url": "https://technologychecker.io/technology/tidio",
+    "pass": 3
+   },
+   {
+    "quote": "Pharmaceutical Manufacturing",
+    "url": "https://technologychecker.io/technology/tidio",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Machinery Manufacturing",
+    "url": "https://technologychecker.io/technology/tidio",
+    "pass": 3
+   },
+   {
+    "quote": "https://linkedin.com/company/theanythingfactory",
+    "url": "https://technologychecker.io/technology/tidio",
+    "pass": 3
+   },
+   {
+    "quote": "Aviation and Aerospace Component Manufacturing",
+    "url": "https://technologychecker.io/technology/tidio",
+    "pass": 3
+   },
+   {
+    "quote": "Machinery Manufacturing",
+    "url": "https://technologychecker.io/technology/tidio",
+    "pass": 3
+   },
+   {
+    "quote": "Packaging and Containers Manufacturing",
+    "url": "https://technologychecker.io/technology/tidio",
+    "pass": 3
+   },
+   {
+    "quote": "– Swiss precision measurement manufacturer using Tidio on a customer portal",
+    "url": "https://technologychecker.io/technology/tidio",
+    "pass": 3
+   },
+   {
+    "quote": "Personal Care Product Manufacturing",
+    "url": "https://www.casestudies.com/company/tidio",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Match the widget to your brand, control visibility and languages, and remove Tidio branding.",
+    "url": "https://www.tidio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Tidio Partner Programs",
+    "url": "https://www.tidio.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Join the Partner Program",
+    "url": "https://www.tidio.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Choose the perfect partner program for your business",
+    "url": "https://www.tidio.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Ideal for ecommerce, web development, marketing, and AI implementation agencies, as well as resellers who refer, implement, or resell Tidio for their customers.",
+    "url": "https://www.tidio.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Finally, a partner program that truly feels like a partnership",
+    "url": "https://www.tidio.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Aligned with your brand, built for trust",
+    "url": "https://www.tidio.com/ai-agent/",
+    "pass": 1
+   },
+   {
+    "quote": "Shape the tone, style, and escalation rules so every reply matches your brand and customer expectations.",
+    "url": "https://www.tidio.com/ai-agent/",
+    "pass": 1
+   },
+   {
+    "quote": "Change Lyro AI Agent's name to something that suits your brand and messaging.",
+    "url": "https://www.tidio.com/features/",
+    "pass": 1
+   },
+   {
+    "quote": "Adjust the look and feel of your Tidio widget to your branding to create a seamless experience.",
+    "url": "https://www.tidio.com/features/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover the Tidio partner program.",
+    "url": "https://www.tidio.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "| Partner programs | https://www.tidio.com/partners/ |",
+    "url": "https://www.tidio.com/llm-info/",
+    "pass": 1
+   },
+   {
+    "quote": "across industry, size, and geography: from publishers like The Economist Group to government IT resellers like Carahsoft, universities like Youngstown State and Langara College, and manufacturers like Leica Geosystems. Many of the",
+    "url": "https://technologychecker.io/technology/tidio",
+    "pass": 3
+   },
+   {
+    "quote": "Advertising agencies using Tidio",
+    "url": "https://technologychecker.io/technology/tidio",
+    "pass": 3
+   },
+   {
+    "quote": ". It's hard to tailor the chat widget to match your brand identity.",
+    "url": "https://technologychecker.io/technology/tidio",
+    "pass": 3
+   },
+   {
+    "quote": "For competitive angles: the Shopify overlap is the highest-yield filter here, about a third of Tidio domains. Pair it with company size to separate DTC merchants from the agencies that build for them.",
+    "url": "https://technologychecker.io/technology/tidio",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "AI Customer Service That Turns Chats Into Revenue | Tidio",
+    "url": "https://www.tidio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "revenue one brand attributed to Lyro chats",
+    "url": "https://www.tidio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "in revenue generated by Lyro AI Agent",
+    "url": "https://www.tidio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Find new clients, add new revenue streams, and get exclusive access to special offers and training.",
+    "url": "https://www.tidio.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Right now, more than a third of our ecommerce revenue is made thanks to Tidio.",
+    "url": "https://www.tidio.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Size: 100+ employees",
+    "url": "https://www.tidio.com/customers/endeksa/",
+    "pass": 1
+   },
+   {
+    "quote": "Size: over 50 employees",
+    "url": "https://www.tidio.com/customers/integratec/",
+    "pass": 1
+   },
+   {
+    "quote": "A customer service tool with a great support team, automations, and a ticketing system can help you increase lead generation and ultimately boost revenue.",
+    "url": "https://www.tidio.com/customers/integratec/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, each of our three core products - Lyro AI Agent, Customer Service and Flows - can be purchased individually or as part of a bundled plan in any configuration. This means you can choose to buy only the Lyro AI product or Flows and still benefit from the free limit of human conversations included in all subscriptions.",
+    "url": "https://www.tidio.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Break down language barriers.",
+    "url": "https://www.tidio.com/solutions/marketing-and-sales/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn visitors into loyal customers and watch your revenue grow. Get started now.",
+    "url": "https://www.tidio.com/solutions/marketing-and-sales/",
+    "pass": 1
+   },
+   {
+    "quote": "Assign Lyro more complex tasks as he proves himself. Modify guidances, so he can handle more complex cases as a part of your team.",
+    "url": "https://www.tidio.com/ai-agent/",
+    "pass": 1
+   },
+   {
+    "quote": "Tidio gave us the ability to capture and qualify leads 24/7 without scaling up our support team. It's become a core part of how we engage website visitors and convert them into real opportunities.",
+    "url": "https://www.tidio.com/ai-agent/",
+    "pass": 1
+   },
+   {
+    "quote": "Lyro automatically scrapes your support content and uses it as its knowledge base. If the required information is part of your support content, Lyro will answer the customer's question. If the answer is not part of your support content, Lyro will automatically forward the question to a human agent – and learns from their response.",
+    "url": "https://www.tidio.com/ai-agent/",
+    "pass": 1
+   },
+   {
+    "quote": "Tidio gave us the ability to capture and qualify leads 24/7 without scaling up our support team. It's become a core part of how we engage website visitors and convert them into real opportunities.",
+    "url": "https://www.tidio.com/flows/",
+    "pass": 1
+   },
+   {
+    "quote": "started Gecko Hospitality in 2000 because he recognized that there was a more effective way to link quality candidates with the businesses that require their skills. With recruiters who have worked in the hospitality industry and understand what it takes to succeed, the company’s CPC-certified team uses a rigorous interview process to connect professionals to the right employees.",
+    "url": "https://www.tidio.com/customers/gecko-hospitality/",
+    "pass": 1
+   },
+   {
+    "quote": "The company wanted to collect candidates’ and clients’ information around the clock to not miss any opportunities. This proved difficult as it would require employees to be available round the clock allowing the brand to cater to the schedule of the professionals and client companies.",
+    "url": "https://www.tidio.com/customers/gecko-hospitality/",
+    "pass": 1
+   },
+   {
+    "quote": "The same goes to the clients. Recruiters looking for employees can submit their information to the corporate office that assesses their company needs. Then, Gecko’s team gets in touch with the recruiter to fulfill their hiring requirements.",
+    "url": "https://www.tidio.com/customers/gecko-hospitality/",
+    "pass": 1
+   },
+   {
+    "quote": "On top of that, the conversational AI has become an instrumental part of the company’s customer service, providing information about the brand, where to send resumes, and how to use the job board.",
+    "url": "https://www.tidio.com/customers/gecko-hospitality/",
+    "pass": 1
+   },
+   {
+    "quote": "Results: measurable impact on customer service and revenue",
+    "url": "https://www.tidio.com/customers/bella-sante/",
+    "pass": 1
+   },
+   {
+    "quote": "After rolling out Lyro AI and live chat, Bella Santé saw clear improvements across customer service efficiency, lead generation, and revenue support:",
+    "url": "https://www.tidio.com/customers/bella-sante/",
+    "pass": 1
+   },
+   {
+    "quote": "Chatbot-assisted revenue",
+    "url": "https://www.tidio.com/customers/bella-sante/",
+    "pass": 1
+   },
+   {
+    "quote": "Lyro helps ensure guests feel supported as soon as they arrive on the website. When a visitor hesitates or needs guidance, AI can step in immediately. Human agents can then join the conversation at the right moment, especially when a guest is close to making a booking or needs reassurance.",
+    "url": "https://www.tidio.com/customers/bella-sante/",
+    "pass": 1
+   },
+   {
+    "quote": "Tidio was founded in 2013 in Szczecin, Poland, by CEO Tytus Gołas. The company has grown to more than 180 employees across offices in San Francisco, Warsaw, and Szczecin, Poland.",
+    "url": "https://www.tidio.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Listed among the best",
+    "url": "https://www.tidio.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "- Team: more than 180 employees",
+    "url": "https://www.tidio.com/llm-info/",
+    "pass": 1
+   },
+   {
+    "quote": "Tidio doesn’t wait for shoppers to ask. Proactive Lyro opens the conversation, suggests products, and guides buyers to checkout, so support also brings in revenue.",
+    "url": "https://www.tidio.com/llm-info/",
+    "pass": 1
+   },
+   {
+    "quote": "When operating an AI chatbot, I felt that it is more reassuring to manually organize important information rather than leaving everything to automatic acquisition.",
+    "url": "https://note.com/toolbridge_jp/n/n5dc5644bec82?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I have not confirmed how many inquiries will arrive from actual site visitors or what percentage can be resolved by AI alone.",
+    "url": "https://note.com/toolbridge_jp/n/n5dc5644bec82?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "skew toward micro-businesses with 1-10 employees, founded in the 2010s, concentrated in the US, UK, and India.",
+    "url": "https://technologychecker.io/technology/tidio",
+    "pass": 3
+   },
+   {
+    "quote": "59.4% of Tidio customers have 1-10 employees",
+    "url": "https://technologychecker.io/technology/tidio",
+    "pass": 3
+   },
+   {
+    "quote": "59.4% of companies have 1-10 employees",
+    "url": "https://technologychecker.io/technology/tidio",
+    "pass": 3
+   },
+   {
+    "quote": ". Bella Santé is a med spa group. Cove Smart is a DTC home security brand. None are Fortune 500.",
+    "url": "https://technologychecker.io/technology/tidio",
+    "pass": 3
+   },
+   {
+    "quote": "The flat industry spread means Tidio users aren't concentrated in one vertical. Target by company size (1-10 employees) and geography (US, UK) rather than by industry. The half of the base outside English-speaking markets is an opening for localized support tools.",
+    "url": "https://technologychecker.io/technology/tidio",
+    "pass": 3
+   },
+   {
+    "quote": "Companies moving between Tidio and Tawk.to or Chaty are cost-sensitive. Those arriving from LiveChat or HubSpot Chat are trading polish for price and AI features. Both are active buyers, and the churn window is short enough that a monthly pull catches them while the decision is fresh.",
+    "url": "https://technologychecker.io/technology/tidio",
+    "pass": 3
+   },
+   {
+    "quote": "Shopify App Store listing carries a 4.8/5 rating across 1,219 reviews",
+    "url": "https://technologychecker.io/technology/tidio",
+    "pass": 3
+   },
+   {
+    "quote": "For prospecting, filter TechnologyChecker.io for Tidio users with 1-10 employees in the US or UK, operating in retail or ecommerce. These businesses are already invested in customer communication and likely need complementary tools.",
+    "url": "https://technologychecker.io/technology/tidio",
+    "pass": 3
+   },
+   {
+    "quote": "We detect 58,548 domains running Tidio across our monthly crawl of live business domains. Company data could be matched for 33,247 of them (56.8%), and every company-size, industry and country breakdown on this page describes that matched subset rather than the full detected base. A further 5,376 domains carried a Tidio detection previously and no longer do.",
+    "url": "https://technologychecker.io/technology/tidio",
+    "pass": 3
+   },
+   {
+    "quote": "The most common company size is 1-10 employees, representing 59.4% of the Tidio domains we could match to a company record and size — a subset of 33,247 matched companies, not of all 58,548 detected domains. This is followed by 11-50 employees (26.8%) and 51-200 employees (9.4%).",
+    "url": "https://technologychecker.io/technology/tidio",
+    "pass": 3
+   },
+   {
+    "quote": "The ideal Tidio customer is: Company Size: 1-10 employees, Location: US, UK, or India, City: New York, London, Mumbai, Founded: 2010-2019, Company Age: ~5-15 years old — based on our analysis of 33,247 enriched companies at TechnologyChecker.io.",
+    "url": "https://technologychecker.io/technology/tidio",
+    "pass": 3
+   },
+   {
+    "quote": "Tytus Gołas is the CEO and co-founder of Tidio. He co-founded the company in 2013 with Marcin Wiktor in Szczecin, Poland. Tidio has since raised $25M in funding and grown to over 180 employees with offices in San Francisco and Poland. The company reports over 300,000 businesses use its platform globally.",
+    "url": "https://technologychecker.io/technology/tidio",
+    "pass": 3
+   },
+   {
+    "quote": "1-10 employees",
+    "url": "https://technologychecker.io/technology/tidio",
+    "pass": 3
+   },
+   {
+    "quote": "eye-oo boosts revenue and sales with Tidio",
+    "url": "https://www.casestudies.com/company/tidio",
+    "pass": 3
+   },
+   {
+    "quote": "Tidio Funding, Revenue & Investors — $26.8M Raised (2026) | ToolJunction",
+    "url": "https://www.tooljunction.io/ai-tools/tidio/company",
+    "pass": 3
+   },
+   {
+    "quote": "The company has an estimated revenue of $48M ARR.",
+    "url": "https://www.tooljunction.io/ai-tools/tidio/company",
+    "pass": 3
+   },
+   {
+    "quote": "$48M ARR",
+    "url": "https://www.tooljunction.io/ai-tools/tidio/company",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Tidio LLC have?",
+    "url": "https://www.tooljunction.io/ai-tools/tidio/company",
+    "pass": 3
+   },
+   {
+    "quote": "Tidio LLC has approximately 100-200 employees.",
+    "url": "https://www.tooljunction.io/ai-tools/tidio/company",
+    "pass": 3
+   },
+   {
+    "quote": "What is Tidio LLC's estimated revenue?",
+    "url": "https://www.tooljunction.io/ai-tools/tidio/company",
+    "pass": 3
+   },
+   {
+    "quote": "Tidio LLC has an estimated revenue of $48M ARR.",
+    "url": "https://www.tooljunction.io/ai-tools/tidio/company",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "AI-driven email resolutions",
+    "url": "https://www.tidio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Lyro scans incoming emails and solves common problems in seconds, giving your team more time for high-priority tasks.",
+    "url": "https://www.tidio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Lyro detects each customer’s language and answers naturally in it, across chat and email.",
+    "url": "https://www.tidio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn chats and emails into tickets with priorities, tags, spam management, and smart views your team can keep up with.",
+    "url": "https://www.tidio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Live Chat, email, Instagram, Messenger, and WhatsApp in one shared inbox, with one customer history behind every conversation.",
+    "url": "https://www.tidio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The pre-chat surveys make collecting new prospects easy. The company uses them to obtain the visitor’s name, phone number, and email address. And it’s proven to be an effective strategy for growing leads.",
+    "url": "https://www.tidio.com/customers/endeksa/",
+    "pass": 1
+   },
+   {
+    "quote": "Higher quota is available on Plus and Premium plans. For more than 2 000 billable conversations, 1 000 Lyro AI conversations or 100 000 visitors reached wth Flows, please contact us for a custom plan.",
+    "url": "https://www.tidio.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Email management system",
+    "url": "https://www.tidio.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Conversation is any live chat, ticket, email or social media channel conversation. A visitor, operator or an automated flow may initiate a conversation.",
+    "url": "https://www.tidio.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Billable conversation\" refers to any live chat, ticket, email or social media channel conversation that includes a message from a human agent (you). Unanswered messages initiated by visitors/customers are not counted, ensuring you're billed only for relevant interactions.",
+    "url": "https://www.tidio.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Tidio’s AI-powered ticketing system enables you to transform incoming support emails, live chat conversations, and social media messages into tickets and assign them to available operators.",
+    "url": "https://www.tidio.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Respond to support forms, emails, live chats, and DMs from Instagram, WhatsApp, and Messenger without switching tabs.",
+    "url": "https://www.tidio.com/solutions/customer-service/",
+    "pass": 1
+   },
+   {
+    "quote": "Lyro can provide product recommendations across all supported channels, including your website chat, Messenger, Instagram, WhatsApp, and email.",
+    "url": "https://www.tidio.com/ai-agent/product-recommendations/",
+    "pass": 1
+   },
+   {
+    "quote": "AI-driven email resolutions",
+    "url": "https://www.tidio.com/features/",
+    "pass": 1
+   },
+   {
+    "quote": "Lyro AI scans incoming emails and solves common problems in seconds, giving your team more time to focus on high-priority tasks.",
+    "url": "https://www.tidio.com/features/",
+    "pass": 1
+   },
+   {
+    "quote": "Save transcripts for your records or send them to clients via email.",
+    "url": "https://www.tidio.com/features/",
+    "pass": 1
+   },
+   {
+    "quote": "Inform customers that you're not available and collect their email addresses to contact them later.",
+    "url": "https://www.tidio.com/features/",
+    "pass": 1
+   },
+   {
+    "quote": "Create tickets from chats and emails",
+    "url": "https://www.tidio.com/features/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn chats and emails into tickets so it's easier for your team to understand context.",
+    "url": "https://www.tidio.com/features/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect multiple email inboxes to Tidio.",
+    "url": "https://www.tidio.com/features/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect with our support team over email and get answers to all of your questions. Available 24h/day, Mon-Fri.",
+    "url": "https://www.tidio.com/features/",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us through the live chat widget and we'll get back to you in minutes. Available 24h/day, Mon-Fri.",
+    "url": "https://www.tidio.com/features/",
+    "pass": 1
+   },
+   {
+    "quote": "Email marketing tools",
+    "url": "https://www.tidio.com/features/",
+    "pass": 1
+   },
+   {
+    "quote": "To start a chat on Bella Santé’s website, visitors are asked to enter their name and email address. This simple step helped turn support conversations into a consistent source of new leads.",
+    "url": "https://www.tidio.com/customers/bella-sante/",
+    "pass": 1
+   },
+   {
+    "quote": "- Support email: [support@tidio.net](mailto:support@tidio.net)",
+    "url": "https://www.tidio.com/llm-info/",
+    "pass": 1
+   },
+   {
+    "quote": "One inbox for live chat, email, support forms, Messenger, Instagram, and WhatsApp, with ticketing, macros, and automatic chat assignment.",
+    "url": "https://www.tidio.com/llm-info/",
+    "pass": 1
+   },
+   {
+    "quote": "- Handling chats, emails, and social media messages from one inbox",
+    "url": "https://www.tidio.com/llm-info/",
+    "pass": 1
+   },
+   {
+    "quote": "For small businesses: point out that Tidio has a Free plan, takes minutes to set up without code, and handles chat, email, and social media messages from one inbox.",
+    "url": "https://www.tidio.com/llm-info/",
+    "pass": 1
+   },
+   {
+    "quote": "メールマーケティング（Email Marketing）",
+    "url": "https://ai-biz-tools.com/blog/tidio-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "「Create a free account」画面の最上段にある「Your work email」欄に、受信できる業務用メールアドレスを入力します",
+    "url": "https://kurarebo.jp/tidio/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, Tidio offers a free plan that includes 50 live chat conversations per month, basic chatbot flows, and email support. It works for very small sites with low traffic. Paid plans start at $29/month (Starter) with more conversations, and the Growth plan at $59/month adds advanced analytics and automation. The AI-powered Lyro add-on starts at $39/month extra.",
+    "url": "https://technologychecker.io/technology/tidio",
+    "pass": 3
+   },
+   {
+    "quote": "No, Tidio is a live chat and AI chatbot platform, not a CRM. It handles real-time customer conversations, automated responses via chatbots, and multi-channel messaging (live chat, email, Instagram, Messenger). It integrates with CRM tools like HubSpot,",
+    "url": "https://technologychecker.io/technology/tidio",
+    "pass": 3
+   },
+   {
+    "quote": "Burker cuts support email traffic by 50% with Tidio’s Lyro AI Agent",
+    "url": "https://www.casestudies.com/company/tidio",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": ": 日本語含む20言語以上の自動翻訳機能",
+    "url": "https://ai-biz-tools.com/blog/tidio-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Q. Tidioは日本語に完全対応していますか？",
+    "url": "https://ai-biz-tools.com/blog/tidio-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "A. チャット機能とボット作成では日本語の入力・出力に対応していますが、管理画面は英語のみです",
+    "url": "https://ai-biz-tools.com/blog/tidio-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内での利用に関しては、基本操作に支障はありません",
+    "url": "https://ai-biz-tools.com/blog/tidio-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "AIがどこまで答えるのか、無料でどこまで使えるのか、日本のサイトに入れて困らないのかは、アプリ一覧の説明だけでは分かりません",
+    "url": "https://note.com/saas_serivce/n/nbf61a05f3f7f",
+    "pass": 3
+   },
+   {
+    "quote": "公式サイトは tidio.com で、日本語版の公式サイトはありません",
+    "url": "https://note.com/saas_serivce/n/nbf61a05f3f7f",
+    "pass": 3
+   },
+   {
+    "quote": "反対に、次に当てはまるなら、日本語で使えるツールも並べて比べたほうが確実です",
+    "url": "https://note.com/saas_serivce/n/nbf61a05f3f7f",
+    "pass": 3
+   },
+   {
+    "quote": "日本語で問い合わせられるサポート窓口が必要",
+    "url": "https://note.com/saas_serivce/n/nbf61a05f3f7f",
+    "pass": 3
+   },
+   {
+    "quote": "こうした場合の候補は、後半の「日本語で運用したいならTidio以外も候補になる」で紹介します",
+    "url": "https://note.com/saas_serivce/n/nbf61a05f3f7f",
+    "pass": 3
+   },
+   {
+    "quote": "管理画面は日本語を選べませんが、チャット画面は文言を手動で日本語に書き換えられ、Lyroは日本語で返答します",
+    "url": "https://note.com/saas_serivce/n/nbf61a05f3f7f",
+    "pass": 3
+   },
+   {
+    "quote": "管理画面：表示言語は英語・ドイツ語・フランス語・スペイン語・イタリア語・ポルトガル語の6つで、日本語はない",
+    "url": "https://note.com/saas_serivce/n/nbf61a05f3f7f",
+    "pass": 3
+   },
+   {
+    "quote": "チャット画面：日本語の翻訳パックはないが、Settings → Live Chat → Translations で各フレーズを日本語に書き換えられる",
+    "url": "https://note.com/saas_serivce/n/nbf61a05f3f7f",
+    "pass": 3
+   },
+   {
+    "quote": "日本のインボイス制度の登録番号が載るかどうかは、公式に案内がありません",
+    "url": "https://note.com/saas_serivce/n/nbf61a05f3f7f",
+    "pass": 3
+   },
+   {
+    "quote": "日本語で運用したいならTidio以外も候補になる",
+    "url": "https://note.com/saas_serivce/n/nbf61a05f3f7f",
+    "pass": 3
+   },
+   {
+    "quote": "管理画面もサポートも日本語で使い、請求書払いにもしたいなら国産のChatPlus、日本の窓口と円建ての料金で契約したいならチャネルトーク、問い合わせ管理まで広げるならZendeskが候補です",
+    "url": "https://note.com/saas_serivce/n/nbf61a05f3f7f",
+    "pass": 3
+   },
+   {
+    "quote": "英語での運用は受け入れつつ、チャット画面を日本語にする手間だけ省きたいならCrispもあります",
+    "url": "https://note.com/saas_serivce/n/nbf61a05f3f7f",
+    "pass": 3
+   },
+   {
+    "quote": "ChatPlus（チャットプラス）：管理画面・ヘルプとも日本語の国産ツール",
+    "url": "https://note.com/saas_serivce/n/nbf61a05f3f7f",
+    "pass": 3
+   },
+   {
+    "quote": "チャネルトーク（Channel Talk）：日本語の公式サイトと円建ての料金があり、導入相談の電話窓口も日本にある",
+    "url": "https://note.com/saas_serivce/n/nbf61a05f3f7f",
+    "pass": 3
+   },
+   {
+    "quote": "Zendesk：日本語の公式サイトとヘルプがあり、問い合わせのチケット管理まで扱う",
+    "url": "https://note.com/saas_serivce/n/nbf61a05f3f7f",
+    "pass": 3
+   },
+   {
+    "quote": "Crisp：チャット画面が日本語を含む60以上の言語に翻訳済みで、Tidioのように文言を一つずつ書き換えなくてよい",
+    "url": "https://note.com/saas_serivce/n/nbf61a05f3f7f",
+    "pass": 3
+   },
+   {
+    "quote": "担当者側が日本語表示になるのはデスクトップアプリで、ヘルプとサポートは英語",
+    "url": "https://note.com/saas_serivce/n/nbf61a05f3f7f",
+    "pass": 3
+   },
+   {
+    "quote": "チャネルトークは日本語の料金ページで、年払いと月払いの違いや、シートなど従量で増える費用を確かめられます",
+    "url": "https://note.com/saas_serivce/n/nbf61a05f3f7f",
+    "pass": 3
+   },
+   {
+    "quote": "Zendeskの日本語サイトでは、エージェント1人あたりの月額と、年払いにしたときの割引が分かります",
+    "url": "https://note.com/saas_serivce/n/nbf61a05f3f7f",
+    "pass": 3
+   },
+   {
+    "quote": "まとめ：まず無料プランで試すか、日本語のツールにするか",
+    "url": "https://note.com/saas_serivce/n/nbf61a05f3f7f",
+    "pass": 3
+   },
+   {
+    "quote": "日本語の管理画面やサポート、円建ての契約が必要なら、ChatPlusやチャネルトークなど日本語で使えるツールを選びます",
+    "url": "https://note.com/saas_serivce/n/nbf61a05f3f7f",
+    "pass": 3
+   },
+   {
+    "quote": "日本語のツールを選ぶ人：担当者全員が日本語の画面で作業し、困ったときも日本語で問い合わせたい",
+    "url": "https://note.com/saas_serivce/n/nbf61a05f3f7f",
+    "pass": 3
+   },
+   {
+    "quote": "Tidioが高い？日本のECサイトにおすすめの低コストAIチャットボット | BlossomChat",
+    "url": "https://blossomchat.org/blog/tidio-alternative-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Tidioが高い？日本のECサイトにおすすめの低コストAIチャットボット",
+    "url": "https://blossomchat.org/blog/tidio-alternative-2026",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、実際に料金プランを確認してみると、日本の中小規模ECサイトにとっては「思ったより高い」と感じるケースがほとんどです",
+    "url": "https://blossomchat.org/blog/tidio-alternative-2026",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、Tidioの実際のコスト構造を分析した上で、日本のECサイトオーナーに最適な代替ツールを比較・紹介します",
+    "url": "https://blossomchat.org/blog/tidio-alternative-2026",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、日本のECサイトでTidioを実際に運用する際には、以下のような隠れたコストが発生します",
+    "url": "https://blossomchat.org/blog/tidio-alternative-2026",
+    "pass": 3
+   },
+   {
+    "quote": "2. 日本語対応の限界",
+    "url": "https://blossomchat.org/blog/tidio-alternative-2026",
+    "pass": 3
+   },
+   {
+    "quote": "日本語での顧客対応は可能ですが、チャットフローの設定画面やヘルプドキュメントが英語のため、設定に時間がかかります",
+    "url": "https://blossomchat.org/blog/tidio-alternative-2026",
+    "pass": 3
+   },
+   {
+    "quote": "日本語特有の敬語表現や、EC特有の「お届け日数」「代引き」といった概念への対応も不十分です",
+    "url": "https://blossomchat.org/blog/tidio-alternative-2026",
+    "pass": 3
+   },
+   {
+    "quote": "WooCommerce連携はサポートされていますが、商品バリエーション（サイズ・カラーなど）の自動取得や、日本のECサイト特有の「ポイント制度」「会員ランク」への対応は限定的です",
+    "url": "https://blossomchat.org/blog/tidio-alternative-2026",
+    "pass": 3
+   },
+   {
+    "quote": "日本のECサイトに求められるチャットボットの条件",
+    "url": "https://blossomchat.org/blog/tidio-alternative-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Tidioの代替を検討する前に、日本のECサイトに本当に必要なチャットボットの条件を整理しましょう",
+    "url": "https://blossomchat.org/blog/tidio-alternative-2026",
+    "pass": 3
+   },
+   {
+    "quote": ": 敬語・丁寧語の自然な使い分け、日本のEC用語への対応",
+    "url": "https://blossomchat.org/blog/tidio-alternative-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Tidio代替ツール比較：日本のECサイト向けベスト4",
+    "url": "https://blossomchat.org/blog/tidio-alternative-2026",
+    "pass": 3
+   },
+   {
+    "quote": "BlossomChatは、日本のEC市場に特化して開発されたAIチャットボットです",
+    "url": "https://blossomchat.org/blog/tidio-alternative-2026",
+    "pass": 3
+   },
+   {
+    "quote": "WooCommerceとの深い統合を前提に設計されており、日本語での顧客対応に最適化されています",
+    "url": "https://blossomchat.org/blog/tidio-alternative-2026",
+    "pass": 3
+   },
+   {
+    "quote": ": 敬語・丁寧語を自然に使い分け、「お届け日数」「代引き」「コンビニ受取」といった日本特有のEC用語にも対応しています",
+    "url": "https://blossomchat.org/blog/tidio-alternative-2026",
+    "pass": 3
+   },
+   {
+    "quote": "韓国発のカスタマーサポートツールで、日本市場でもシェアを伸ばしています",
+    "url": "https://blossomchat.org/blog/tidio-alternative-2026",
+    "pass": 3
+   },
+   {
+    "quote": "日本語UIが完備されており、管理画面が直感的",
+    "url": "https://blossomchat.org/blog/tidio-alternative-2026",
+    "pass": 3
+   },
+   {
+    "quote": "日本法人があり、日本語でのサポートを受けられる",
+    "url": "https://blossomchat.org/blog/tidio-alternative-2026",
+    "pass": 3
+   },
+   {
+    "quote": "| 完全対応 | 英語のみ | 完全対応 | 日本語あり | 日本語あり |",
+    "url": "https://blossomchat.org/blog/tidio-alternative-2026",
+    "pass": 3
+   },
+   {
+    "quote": ": 機械翻訳レベルのUIや、日本語特有の表現への非対応",
+    "url": "https://blossomchat.org/blog/tidio-alternative-2026",
+    "pass": 3
+   },
+   {
+    "quote": ": 欧米拠点のため、日本時間の営業時間中にリアルタイムサポートを受けにくい",
+    "url": "https://blossomchat.org/blog/tidio-alternative-2026",
+    "pass": 3
+   },
+   {
+    "quote": ": 日本の個人情報保護法や特定商取引法への対応が不明確",
+    "url": "https://blossomchat.org/blog/tidio-alternative-2026",
+    "pass": 3
+   },
+   {
+    "quote": "これらの問題を根本的に解決するには、日本市場向けに設計・開発されたツールを選択することが最も確実です",
+    "url": "https://blossomchat.org/blog/tidio-alternative-2026",
+    "pass": 3
+   },
+   {
+    "quote": "まとめ：日本のECサイトには日本生まれのツールを",
+    "url": "https://blossomchat.org/blog/tidio-alternative-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Tidio（ティディオ）とは？料金・AIチャット・日本語対応｜クラレボ",
+    "url": "https://kurarebo.jp/tidio/",
+    "pass": 3
+   },
+   {
+    "quote": "訪問者に見えるチャットの文言を、ご承認いただいた日本語の原稿で設定します",
+    "url": "https://kurarebo.jp/tidio/",
+    "pass": 3
+   },
+   {
+    "quote": "設置するページの範囲、日本語にする文言の量、自動応答をどこまでつくるかによって作業量が変わります",
+    "url": "https://kurarebo.jp/tidio/",
+    "pass": 3
+   },
+   {
+    "quote": "訪問者に見える文言と管理画面の日本語表示が、必要な範囲でできるか（公式の公開サイトは英語が中心です）",
+    "url": "https://kurarebo.jp/tidio/",
+    "pass": 3
+   },
+   {
+    "quote": "Tidioの特長・日本語対応・セキュリティを読む",
+    "url": "https://kurarebo.jp/tidio/",
+    "pass": 3
+   },
+   {
+    "quote": "チャットの見た目と日本語の公開文言を整える",
+    "url": "https://kurarebo.jp/tidio/",
+    "pass": 3
+   },
+   {
+    "quote": "訪問者が安心して問い合わせできるように、色、表示位置、挨拶、ボタン、ステータス、入力案内の日本語文言をサイトと合わせます",
+    "url": "https://kurarebo.jp/tidio/",
+    "pass": 3
+   },
+   {
+    "quote": "Content（画面に出す文章を決める設定）で挨拶、メッセージ、会話開始ボタン、オンライン・オフラインの文言を日本語で整えます",
+    "url": "https://kurarebo.jp/tidio/",
+    "pass": 3
+   },
+   {
+    "quote": "完了の目安：ブランドに合う表示と日本語の受付文言を、PCとスマートフォンで確認できる状態です",
+    "url": "https://kurarebo.jp/tidio/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Tidio とは？AIチャットボット接客ツールの機能・料金・導入方法 — Feb 19, 2026 · Tidioとは世界100万社が導入するAIチャットボット接客ツールです。 無料プランから始められる機能、従量課金制の料金体系、簡単3ステップの導入方法まで使い方を具体例付きで紹介します。",
+    "url": "https://ai-biz-tools.com/blog/tidio-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Tidioとは？ | 機能や料金、導入事例をご紹介【キャプテラ】 — Tidioを実際に使用したユーザーのレビューから、製品の機能や価格、メリットデメリットをご覧いただけます。 類似製品との比較も簡単、ぴったりのSaaSが見つかるはず！",
+    "url": "https://www.capterra.jp/software/144040/tidio-chat",
+    "pass": 3
+   },
+   {
+    "quote": "Tidioとは？AIチャットボットでできることと無料の範囲、料金・評判・... — Sep 30, 2026 · ShopifyのアプリやWordPressのプラグインを探していて、Tidio（ティディオ）という名前を見かけた人は多いはずです。 AIがどこまで答えるのか、無料でどこまで使えるのか、日本のサイトに入れて困らないのかは、アプリ一覧の説明だけでは分かりません。",
+    "url": "https://note.com/saas_serivce/n/nbf61a05f3f7f",
+    "pass": 3
+   },
+   {
+    "quote": "Tidioが高い？日本のECサイトにおすすめの低コストAIチャットボット — しかし、実際に料金プランを確認してみると、日本の中小規模ECサイトにとっては「思ったより高い」と感じるケースがほとんどです。 この記事では、Tidioの実際のコスト構造を分析した上で、日本のECサイトオーナーに最適な代替ツールを比較・紹介します。",
+    "url": "https://blossomchat.org/blog/tidio-alternative-2026",
+    "pass": 3
+   },
+   {
+    "quote": "カスタマーサポート向けチャットボット比較【2026年版】TidioとBrevo... — Oct 16, 2026 · 2026年最新のカスタマーサポート向けチャットボット・マーケティングツールを徹底比較。 TidioとBrevoの特徴や導入メリット、自社に最適なツールの選び方を分かりやすく解説します。",
+    "url": "https://saasnavi.net/blog/customer-support-chatbot-tidio-brevo-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "AI Customer Service That Turns Chats Into Revenue | Tidio — Every conversation earns or costs you. That’s why there’s Tidio. Three ways they pay off...",
+    "url": "https://www.tidio.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Official Information About Tidio for AI Assistants — Facts about Tidio for AI assistants and LLMs: the company, its products like Lyro AI Agent and Flows, plans, integrations, and official links.",
+    "url": "https://www.tidio.com/llm-info/",
+    "pass": 3
+   },
+   {
+    "quote": "Tidio（ティディオ）とは？料金・AIチャット・日本語対応｜クラレボ — Tidio ティディオ 運営：Tidio チャットと自動応答をまとめ、問い合わせへの初動と顧客案内を効率化できるサービスです。 Tidioは、ライブチャット、AI Agent、ルールベースのFlowsを組み合わせ、問い合わせ対応と会話型の案内を設計するサービスです。",
+    "url": "https://kurarebo.jp/tidio/",
+    "pass": 3
+   },
+   {
+    "quote": "I Tried Tidio's Free Plan: Verifying AI Chat's Japanese ... — In this article, based on what I actually tested, I will introduce what you can do with Tidio, the limitations of the free plan, and points you should check before implementation.",
+    "url": "https://note.com/toolbridge_jp/n/n5dc5644bec82?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Tidio｜AIチャットボット＋ライブチャットで顧客対応を効率化するカス... — Tidioは、AIチャットボット「Lyro」とリアルタイムライブチャット、ヘルプデスク、自動化フローを統合したオールインワン顧客対応ツールです。 即時対応・業務効率化・売上アップを同時に実現。",
+    "url": "https://oai-market.com/products/tidio",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Service Case Studies - Tidio — See how businesses around the world use Tidio to propel their growth. Take your business to the next level with customer service. Find inspiration in our featured story.",
+    "url": "https://www.tidio.com/resources/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories - Tidio — See how businesses use Tidio to automate customer support, resolve questions faster, and turn everyday conversations into revenue.",
+    "url": "https://www.tidio.com/customers/",
+    "pass": 3
+   },
+   {
+    "quote": "Companies Using Tidio in 2026: Full Customer List & Insights — Mar 8, 2026 · Tidio publishes case studies featuring brands that use Tidio like Bella Santé, Pastreez, and Cove Smart. Below you'll find a full list of companies using Tidio with market share data, industry breakdowns, and geographic distribution based on 33,247 enriched company profiles.",
+    "url": "https://technologychecker.io/technology/tidio",
+    "pass": 3
+   },
+   {
+    "quote": "Tidio B2B Case Studies & Customer Successes — See how Tidio solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/tidio",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Wulff Beltton achieves a 4.5/5 customer ... — Since switching to Tidio, Wulff Beltton acquired 705 contacts in less than 12 months and reached a consistent 4.5/5 customer satisfaction rating from live chat and chatbot conversations, while also helping reduce cart abandonment and increase sales. View this case study…",
+    "url": "https://www.casestudies.com/company/tidio/case-study/wulff-beltton-hits-455-client-rating-after-switching-to-tidio",
+    "pass": 3
+   },
+   {
+    "quote": "Tidio – Revenue, Valuation & Top Competitors – 2026 — Tidio’s business footprint includes estimated revenue of $30.8M, team of around 100+ employees, operating from Szczecin, adapting to new market dynamics.",
+    "url": "https://compworth.com/company/tidio",
+    "pass": 3
+   },
+   {
+    "quote": "Tidio 2026 Company Profile: Valuation, Funding & Investors ...Tidio - 2026 Company Profile, Team, Funding, Competitors ...Tidio Funding, Revenue & Investors — $26.8M Raised (2026 ...Tidio Revenue 2024: $48.4M Est. - LATKATidio Information - RocketReachTidio - Overview, News & Similar companies | ZoomInfo.com — Information on valuation, funding, cap tables, investors, and executives for Tidio. Use ",
+    "url": "https://pitchbook.com/profiles/company/233945-29",
+    "pass": 3
+   },
+   {
+    "quote": "Tidio - 2026 Company Profile, Team, Funding, Competitors ...Tidio Funding, Revenue & Investors — $26.8M Raised (2026 ...Tidio Revenue 2024: $48.4M Est. - LATKATidio Information - RocketReachTidio - Overview, News & Similar companies | ZoomInfo.com — Jan 21, 2026 · Tidio - About the company Tidio is a series B company based in Szczecin (Poland), founded in 2013 by Titus Golas and Marcin Wiktor. It ",
+    "url": "https://tracxn.com/d/companies/tidio/__DZdr3Dr0qroXCNzKiyjAX2B36HUau5O2i0sgrKdLIvc",
+    "pass": 3
+   },
+   {
+    "quote": "Tidio Funding, Revenue & Investors — $26.8M Raised (2026 ... — Founded in 2013 and headquartered in Szczecin, Poland, Tidio LLC has raised a total of $26.8M in funding and is currently at the Series B stage. Notable investors include PeakSpan Capital, Inovo Venture Partners, bValue Fund, Rafal Brzoska. The company has an estimated revenue of $48M ARR.",
+    "url": "https://www.tooljunction.io/ai-tools/tidio/company",
+    "pass": 3
+   },
+   {
+    "quote": "Tidio Revenue 2024: $48.4M Est. - LATKA — Oct 30, 2026 · GetLatka estimates Tidio's revenue at about $48.4M a year (October 2024). The company hasn't published its own figure. How many employees does Tidio have? Tidio had 174 employees in December 2024, according to LinkedIn. Who is the CEO of Tidio? Tytus Gołas is the CEO of Tidio and founded the company in 2013. Who founded Tidio?",
+    "url": "https://getlatka.com/companies/tidio",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "I Tried Tidio's Free Plan: Verifying AI Chat's Japanese ... In this article, based on what I actually tested, I will introduce what you can do with Tidio, the limitations of the free plan, and points you should check before implementation.",
+    "url": "https://note.com/toolbridge_jp/n/n5dc5644bec82?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【Shopify】運用に役立つアプリ ~Tidio Live Chat~Tidio 무료 플랜 사용 후기｜AI 챗봇의 일본어 지원, 기능 및 주의사...「能動的に働かない」を半年やったら、時間は溶け、口座は削れ、そし...ポケカの人気・新着記事まとめ｜note発達障害の女はどう生きるか｜しろがねきょうこ2026年 ノーベル化学賞受賞者予想｜荒舩良孝 アプリをインストールすると最初に初期設定を行います。アカウント名の入力とチャット画面のカラー選択、言語設定を行います。完了したら[Continue]をクリックして次に。 ここではWebサイト(ECサイト)URL、国設定、メールアドレスの入力とサイトのジャンルを選択します。メールアドレスはお問い合わせが来たときに通知で行くので専用のメールアドレスかよく使うメールアドレスを入力することをオススメします。完了したら[Continue]をクリッ",
+    "url": "https://note.com/appcooking_note/n/n2e3031526277",
+    "pass": 3
+   },
+   {
+    "quote": "Tidio 무료 플랜 사용 후기｜AI 챗봇의 일본어 지원, 기능 및 주의사... 해외 서비스의 경우 일본어로 사용할 수 있는지도 신경 쓰이는 부분입니다. 그럴 때 발견한 것이 AI 챗봇과 유인 채팅을 제공하는 해외 서비스 'Tidio (티디오)'입니다. Tidio에는 등록된 정보를 바탕으로 사용자의 질문에 답변하는 'Lyro AI Agent'라는 기능이 있습니다.",
+    "url": "https://note.com/toolbridge_jp/n/n5dc5644bec82?hl=ko",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "I Tried Tidio's Free Plan: Verifying AI Chat's Japanese Support, Capabilities, and Points of Caution｜海外ツール活用ガイド",
+    "url": "https://note.com/toolbridge_jp/n/n5dc5644bec82?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I Tried Tidio's Free Plan: Verifying AI Chat's Japanese Support, Capabilities, and Points of Caution",
+    "url": "https://note.com/toolbridge_jp/n/n5dc5644bec82?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "*This article contains affiliate advertisements.",
+    "url": "https://note.com/toolbridge_jp/n/n5dc5644bec82?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I want to automate inquiries coming into my website, but introducing an AI chatbot seems difficult. I'm also concerned about whether overseas services can be used in Japanese.",
+    "url": "https://note.com/toolbridge_jp/n/n5dc5644bec82?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "That's when I found Tidio, an overseas service that provides AI chatbots and live chat.",
+    "url": "https://note.com/toolbridge_jp/n/n5dc5644bec82?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Tidio has a feature called \"Lyro AI Agent\" that answers user questions based on registered information.",
+    "url": "https://note.com/toolbridge_jp/n/n5dc5644bec82?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This time, I actually created a free account and tested its Japanese responses, website information registration, and response rule settings.",
+    "url": "https://note.com/toolbridge_jp/n/n5dc5644bec82?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "while I felt that the Japanese responses were sufficiently practical, I also found that caution is required regarding the information registered and the settings for human support",
+    "url": "https://note.com/toolbridge_jp/n/n5dc5644bec82?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【Shopify】運用に役立つアプリ ~Tidio Live Chat~｜単価アップ大学 ｜WEBフリーランスの年収の上げ方を教えてます。",
+    "url": "https://note.com/appcooking_note/n/n2e3031526277",
+    "pass": 3
+   },
+   {
+    "quote": "【Shopify】運用に役立つアプリ ~Tidio Live Chat~",
+    "url": "https://note.com/appcooking_note/n/n2e3031526277",
+    "pass": 3
+   },
+   {
+    "quote": "単価アップ大学 ｜WEBフリーランスの年収の上げ方を教えてます。",
+    "url": "https://note.com/appcooking_note/n/n2e3031526277",
+    "pass": 3
+   },
+   {
+    "quote": "アプリをインストールすると最初に初期設定を行います。アカウント名の入力とチャット画面のカラー選択、言語設定を行います。完了したら[",
+    "url": "https://note.com/appcooking_note/n/n2e3031526277",
+    "pass": 3
+   },
+   {
+    "quote": "を選択します。メールアドレスはお問い合わせが来たときに通知で行くので専用のメールアドレスかよく使うメールアドレスを入力することをオススメします。完了したら[",
+    "url": "https://note.com/appcooking_note/n/n2e3031526277",
+    "pass": 3
+   },
+   {
+    "quote": "最後に一番最初に表示されるチャットの形式を選択します。",
+    "url": "https://note.com/appcooking_note/n/n2e3031526277",
+    "pass": 3
+   },
+   {
+    "quote": "2パターンあり、選択するとレビューが右に出てくるのでサイトに合わせて選択してください。選択したら[",
+    "url": "https://note.com/appcooking_note/n/n2e3031526277",
+    "pass": 3
+   },
+   {
+    "quote": "初期設定が完了したらパスワードの設定を行います。このパスワードはGoogle Chromeなどに覚えさせておくと今後のログインが楽になります。",
+    "url": "https://note.com/appcooking_note/n/n2e3031526277",
+    "pass": 3
+   },
+   {
+    "quote": "Tidio 무료 플랜 사용 후기｜AI 챗봇의 일본어 지원, 기능 및 주의사항 검증｜海外ツール活用ガイド",
+    "url": "https://note.com/toolbridge_jp/n/n5dc5644bec82?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "Tidio 무료 플랜 사용 후기｜AI 챗봇의 일본어 지원, 기능 및 주의사항 검증",
+    "url": "https://note.com/toolbridge_jp/n/n5dc5644bec82?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "※ 이 기사에는 제휴 광고가 포함되어 있습니다.",
+    "url": "https://note.com/toolbridge_jp/n/n5dc5644bec82?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "웹사이트로 들어오는 문의를 자동화하고 싶지만, AI 챗봇 도입은 어려워 보입니다. 해외 서비스의 경우 일본어로 사용할 수 있는지도 신경 쓰이는 부분입니다.",
+    "url": "https://note.com/toolbridge_jp/n/n5dc5644bec82?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "그럴 때 발견한 것이 AI 챗봇과 유인 채팅을 제공하는 해외 서비스 'Tidio(티디오)'입니다.",
+    "url": "https://note.com/toolbridge_jp/n/n5dc5644bec82?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "Tidio에는 등록된 정보를 바탕으로 사용자의 질문에 답변하는 'Lyro AI Agent'라는 기능이 있습니다.",
+    "url": "https://note.com/toolbridge_jp/n/n5dc5644bec82?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "이번에는 실제로 무료 계정을 생성하여 일본어 답변, 웹사이트 정보 등록, 답변 규칙 설정 등을 테스트해 보았습니다.",
+    "url": "https://note.com/toolbridge_jp/n/n5dc5644bec82?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "일본어 응대는 충분히 실용적이라고 느꼈지만, 등록하는 정보나 유인 대응 설정에는 주의가 필요",
+    "url": "https://note.com/toolbridge_jp/n/n5dc5644bec82?hl=ko",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Tidio on X: \"Here's how Tidio became Eye-OO's secret weapon ... Eyeoo srl, a successful e-commerce business specializing in designer eyewear, faced challenges with customer interaction. Shopify's basic chat didn't meet their needs, causing lost sales. Tidio swooped in to help with live chat, chat flows, and insightful analytics! 🚀",
+    "url": "https://x.com/tidiocx/status/1788171666838736901",
+    "pass": 3
+   },
+   {
+    "quote": "Tidio Garcia (@TidioGarcia) / X @TidioGarcia Qsy Joined June 2022 27Following 2Followers Mention Follow RepostsRepostsMediaMedia Tidio Garcia @TidioGarcia Dec 22, 2023",
+    "url": "https://x.com/TidioGarcia",
+    "pass": 3
+   },
+   {
+    "quote": "Sadhna on X: \"210+ AI Tools to replace your tedious work ... Customer Support - Intercom AI - Zendesk AI - Tidio - Freshdesk AI - Forethought 18. Sales - Apollo AI - Gong - Clay - Lavender - https://t.co/p6TNcYCoyy 19. Finance - https://t.co/LKBz79wSnq - Truewind - Zeni - Pilot AI - Grid AI 20. HR & Hiring - HireEZ - Pymetrics - HireVue - Eightfold AI - Fetcher AI 21.",
+    "url": "https://x.com/sadhna6389/status/2111353105917026565",
+    "pass": 3
+   },
+   {
+    "quote": "@tidio | X The latest posts from @tidio",
+    "url": "https://x.com/tidio",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Tidio | San Francisco CA - FacebookTidio - FacebookTidio Community - FacebookTidio Backstage - FacebookBig news! Tidio is launching Lyro AI today ... - FacebookAI Customer Service by Tidio | Hanoi - FacebookHow to install Tidio on your Website ⬇️⬇️⬇️ ️Create an ... Apr 21, 2026 · Tidio What is Tidio app? We believe it's an intuitive app designed to meet the expectations of the most demanding users",
+    "url": "https://www.facebook.com/TidioCX/",
+    "pass": 3
+   },
+   {
+    "quote": "Tidio - Facebook Apr 21, 2026 · I sampled one sentence from burna boy's sweet love (the line \"I don't wanna make no mistakes\") and got this one. Rate this from 1-10 honestly Note: it's just a freestyle #Tidio #RNBVibes #EmotionalMusic #FreestyleSession #UndergroundArtist #ChillVibes #NewMusic2026 #AfricanArtist #237music",
+    "url": "https://www.facebook.com/p/Tidio-61567240013122/",
+    "pass": 3
+   },
+   {
+    "quote": "Tidio Community - Facebook Welcome to the Tidio community group 👋 The purpose of this community is to provide a safe and friendly place for Tidio users to connect and share their knowledge about bots, automations, and live chat.",
+    "url": "https://www.facebook.com/groups/tidio/",
+    "pass": 3
+   },
+   {
+    "quote": "Tidio Backstage - FacebookBig news! Tidio is launching Lyro AI today ... - FacebookAI Customer Service by Tidio | Hanoi - FacebookHow to install Tidio on your Website ⬇️⬇️⬇️ ️Create an ... Oct 23, 2023 · Do you like sports? We do! 😎 That's why, each summer, we engage in the Tidio Active Challenge! 💪 Our annual sports competition motivates us to stay active and do something good for others. Jul 12,",
+    "url": "https://www.facebook.com/tidiobackstage/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.tidio.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tidio.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tidio.com/customers/cove/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tidio.com/customers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tidio.com/customers/endeksa/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tidio.com/customers/integratec/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tidio.com/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tidio.com/solutions/customer-service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tidio.com/solutions/marketing-and-sales/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tidio.com/industry/education/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tidio.com/ai-agent/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tidio.com/ai-agent/product-recommendations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tidio.com/flows/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tidio.com/features/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tidio.com/customers/gecko-hospitality/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tidio.com/customers/bella-sante/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tidio.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tidio.com/llm-info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tidio.com/custom-ai-agents/?hs_track=ai_agent",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.tidio.com/images/brand-logos/tidio-logo.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tidio.com/images/brand-logos/ayro-logo.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tidio.com/images/brand-logos/tidio-agent.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tidio.com/images/brand-logos/hubi-logo.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ai-biz-tools.com/blog/tidio-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.capterra.jp/software/144040/tidio-chat",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/saas_serivce/n/nbf61a05f3f7f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blossomchat.org/blog/tidio-alternative-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/ByteDance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://companydata.tsujigawa.com/company/2010001177818/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kurarebo.jp/tidio/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/toolbridge_jp/n/n5dc5644bec82?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://technologychecker.io/technology/tidio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/tidio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/tidio",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/233945-29",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/tidio/__DZdr3Dr0qroXCNzKiyjAX2B36HUau5O2i0sgrKdLIvc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.tooljunction.io/ai-tools/tidio/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/toolbridge_jp/n/n5dc5644bec82?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/appcooking_note/n/n2e3031526277",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/toolbridge_jp/n/n5dc5644bec82?hl=ko",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/tidiocx/status/1788171666838736901",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TidioGarcia",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sadhna6389/status/2111353105917026565",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TidioCX/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Tidio-61567240013122/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/tidio/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tidiobackstage/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tidio",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Tidio 日本 導入",
+   "results": [
+    "https://ai-biz-tools.com/blog/tidio-guide/",
+    "https://www.capterra.jp/software/144040/tidio-chat",
+    "https://note.com/saas_serivce/n/nbf61a05f3f7f",
+    "https://blossomchat.org/blog/tidio-alternative-2026",
+    "https://saasnavi.net/blog/customer-support-chatbot-tidio-brevo-2026/",
+    "https://claude.com/ja/customers/tidio",
+    "https://saasmap.jp/tools/tidio"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tidio 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ByteDance",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://companydata.tsujigawa.com/company/2010001177818/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.ti.com/ja-jp/about-ti/ti-japan",
+    "https://jobs.bytedance.com/jp/home"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tidio Japan",
+   "results": [
+    "https://www.tidio.com/",
+    "https://www.tidio.com/llm-info/",
+    "https://kurarebo.jp/tidio/",
+    "https://note.com/toolbridge_jp/n/n5dc5644bec82?hl=en",
+    "https://oai-market.com/products/tidio",
+    "https://storeleads.app/reports/technology/Tidio/country/JP",
+    "https://ai-biz-tools.com/blog/tidio-guide/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tidio manufacturing customer case study",
+   "results": [
+    "https://www.tidio.com/resources/case-studies/",
+    "https://www.tidio.com/customers/",
+    "https://technologychecker.io/technology/tidio",
+    "https://www.casestudies.com/company/tidio",
+    "https://www.casestudies.com/company/tidio/case-study/wulff-beltton-hits-455-client-rating-after-switching-to-tidio",
+    "https://www.featuredcustomers.com/vendor/tidio/case-studies",
+    "https://careers.tidio.com/blog-post/development-of-a-complex-product-case-study-of-tidio-chatbots"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tidio white label OR reseller OR partner program",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Tidio founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/tidio",
+    "https://pitchbook.com/profiles/company/233945-29",
+    "https://tracxn.com/d/companies/tidio/__DZdr3Dr0qroXCNzKiyjAX2B36HUau5O2i0sgrKdLIvc",
+    "https://www.tooljunction.io/ai-tools/tidio/company",
+    "https://getlatka.com/companies/tidio",
+    "https://rocketreach.co/tidio-profile_b7e83faec2c9f6a4",
+    "https://www.zoominfo.com/c/tidio-llc/357901742"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Tidio",
+   "results": [
+    "https://note.com/toolbridge_jp/n/n5dc5644bec82?hl=en",
+    "https://note.com/appcooking_note/n/n2e3031526277",
+    "https://note.com/toolbridge_jp/n/n5dc5644bec82?hl=ko",
+    "https://note.com/tag/ポケカ",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/arafune/n/n6d730f4b90f7"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Tidio",
+   "results": [
+    "https://x.com/tidiocx/status/1788171666838736901",
+    "https://x.com/TidioGarcia",
+    "https://x.com/",
+    "https://x.com/sadhna6389/status/2111353105917026565",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/p0ptartkitty/status/2115926138987913708",
+    "https://x.com/TRobinsonNewEra/status/2115942393174167572"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Tidio",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com Tidio",
+   "results": [
+    "https://www.facebook.com/TidioCX/",
+    "https://www.facebook.com/p/Tidio-61567240013122/",
+    "https://www.facebook.com/groups/tidio/",
+    "https://www.facebook.com/tidiobackstage/",
+    "https://www.facebook.com/TidioCX/videos/tidio-lyro-launchmp4/1306780423263834/",
+    "https://www.facebook.com/TidioPartner/",
+    "https://www.facebook.com/Liza+|+WEBSITE+DESIGN+++BRANDING/videos/240567751972473/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tidio note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.com/sanshita_note/n/n06e080c63da4",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tidio X 投稿",
+   "results": [
+    "https://x.com/tidio",
+    "https://developers.tidio.com/docs/openapi-enable",
+    "https://developers.tidio.com/docs/openapi-authorization",
+    "https://help.x.com/ja/using-x/media-studio",
+    "https://help.x.com/ja/using-x/media-studio-faqs",
+    "https://nihon-navi.com/twitter-x-guide/",
+    "https://mteam.jp/column/10116/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式19頁／PDF・画像4件／外部27頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式19頁／PDF・画像4件／外部27頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式19頁／PDF・画像4件／外部27頁・検索12回）"
+ }
+}

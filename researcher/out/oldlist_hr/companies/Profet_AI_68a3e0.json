@@ -1,0 +1,1836 @@
+{
+ "name": "Profet AI",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AUMS不適合",
+ "researched_at": "2026-11-09T17:59:17.355639+00:00",
+ "official_url": "https://www.profetai.com/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "台湾台北市信義區基隆路一段111號\n3階",
+    "url": "https://prtimes.jp/main/html/rd/p/000000020.000084857.html",
+    "pass": 3
+   },
+   {
+    "label": "Area/Address",
+    "value": "Taipei, Taiwan Dai-ichi Life Hibiya First 12th floor, 1-13-2 Yurakucho, Chiyoda-ku, Tokyo",
+    "url": "https://tokyo-gc.metro.tokyo.lg.jp/startups_en/profetai/",
+    "pass": 3
+   },
+   {
+    "label": "Headquarters",
+    "value": "110057 Keelung Road Section 1, Number 111, 3F, Xinyi District, Taipei City, TW",
+    "url": "https://prospeo.io/c/profet-ai-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2018年04月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000020.000084857.html",
+    "pass": 3
+   },
+   {
+    "label": "Founded",
+    "value": "Founded：2018",
+    "url": "https://prospeo.io/c/profet-ai-revenue",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$53,000",
+    "url": "https://prospeo.io/c/profet-ai-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$5,600,000",
+    "url": "https://prospeo.io/c/profet-ai-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Profet AI 杰倫智能｜助力製造業實現AI轉型",
+    "url": "https://profetai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "了解製造業者如何在實際營運中導入 Profet AI",
+    "url": "https://profetai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "查看 Profet AI 的最新資訊、合作與發布",
+    "url": "https://profetai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Profet AI 收斂 20 年國際軟體大廠服務經驗及深厚製造經驗，建立簡單易用的 AI 軟體工具和以人為本的 AI 方法論，協助企業達成老師傅經驗傳承，快速落地 AI 應用",
+    "url": "https://profetai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Profet AI 以超過 200 家亞洲製造業中大型客戶的成功經驗作為基礎，邁向日本市場，並獲得東京都政府、瑞穗銀行、Jetro 日本貿易振興機構等大力支持，正式成立日本分公司！",
+    "url": "https://profetai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Profet AI × PacRim Group × Hexatech Solutions",
+    "url": "https://profetai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "前進泰國！Profet AI 正式和泰國領先 AI 專家 Hexatech Solutions 成為戰略合作夥伴，更與 PacRim Group 三方合作，透過 AI for CEO 峰會，在曼谷當地和近百位 CXO 一同探索台灣頂尖企業 AI 轉型成功心法 🏅",
+    "url": "https://profetai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Profet AI 提供創新、可靠的 AI 解決方案，結合具豐富產業服務背景的顧問團隊",
+    "url": "https://profetai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AUO 與 Profet AI 合作，使用 AutoML No-code Platform，讓非資料科學家都可使用 AI 解決部門問題，實踐全員 AI",
+    "url": "https://profetai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "與 Profet AI 合作達到快速決策、快速預防才可在艱難的環境下保持公司優勢『好的人才、好的工具、好的合作夥伴，才是企業提升 AI 的關鍵』",
+    "url": "https://profetai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AUO 對內與 Profet AI 合作，啟動全民 AI 策略，加速 AI 落地題目；對外與 Profet AI 共創產品與方案，強化智慧製造布局",
+    "url": "https://profetai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "我們破除陳見與 Profet AI 合作，真的一週就看到效果，也快速展開老師傅經驗傳承與優化的重要策略",
+    "url": "https://profetai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "導入 Profet AI，目標藉此優化設備效能，提高整體設備效率 (Overall Equipment Effectiveness)，盼將現有產能拉到極致",
+    "url": "https://profetai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ATP 與 Profet AI 展開全民 AI 的合作，加速實現 AI Power",
+    "url": "https://profetai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Profet AI 延攬陽明交大林英超教授擔任顧問，深化半導體與 IC 設計 AI 布局",
+    "url": "https://profetai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Profet AI助力業成 GIS 推動製造 AI 落地",
+    "url": "https://profetai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "訂閱製造 AI 洞察、Crossover Talks 回顧與 Profet AI 最新動態",
+    "url": "https://profetai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Profet AI Technology © 2018–2026",
+    "url": "https://profetai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "了解製造業者如何在實際營運中導入 Profet AI",
+    "url": "https://profetai.com/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "查看 Profet AI 的最新資訊、合作與發布",
+    "url": "https://profetai.com/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "訂閱製造 AI 洞察、Crossover Talks 回顧與 Profet AI 最新動態",
+    "url": "https://profetai.com/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Profet AI Technology © 2018–2026",
+    "url": "https://profetai.com/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "了解製造業者如何在實際營運中導入 Profet AI",
+    "url": "https://profetai.com/ai-case-studies_semiconductor/",
+    "pass": 1
+   },
+   {
+    "quote": "查看 Profet AI 的最新資訊、合作與發布",
+    "url": "https://profetai.com/ai-case-studies_semiconductor/",
+    "pass": 1
+   },
+   {
+    "quote": "訂閱製造 AI 洞察、Crossover Talks 回顧與 Profet AI 最新動態",
+    "url": "https://profetai.com/ai-case-studies_semiconductor/",
+    "pass": 1
+   },
+   {
+    "quote": "Profet AI Technology © 2018–2026",
+    "url": "https://profetai.com/ai-case-studies_semiconductor/",
+    "pass": 1
+   },
+   {
+    "quote": "了解製造業者如何在實際營運中導入 Profet AI",
+    "url": "https://profetai.com/ai-case-studies_ems/",
+    "pass": 1
+   },
+   {
+    "quote": "查看 Profet AI 的最新資訊、合作與發布",
+    "url": "https://profetai.com/ai-case-studies_ems/",
+    "pass": 1
+   },
+   {
+    "quote": "透過 Profet AI 的多領域製程專家，運用製程數據建立預測模型，協助電子製造服務產業進行製程參數優化、品質問題因子、開線前參數模擬以及製造結果虛擬量測",
+    "url": "https://profetai.com/ai-case-studies_ems/",
+    "pass": 1
+   },
+   {
+    "quote": "訂閱製造 AI 洞察、Crossover Talks 回顧與 Profet AI 最新動態",
+    "url": "https://profetai.com/ai-case-studies_ems/",
+    "pass": 1
+   },
+   {
+    "quote": "Profet AI Technology © 2018–2026",
+    "url": "https://profetai.com/ai-case-studies_ems/",
+    "pass": 1
+   },
+   {
+    "quote": "了解製造業者如何在實際營運中導入 Profet AI",
+    "url": "https://profetai.com/ai-case-studies_pcb/",
+    "pass": 1
+   },
+   {
+    "quote": "查看 Profet AI 的最新資訊、合作與發布",
+    "url": "https://profetai.com/ai-case-studies_pcb/",
+    "pass": 1
+   },
+   {
+    "quote": "通過 Profet AI AutoML 優化製程控制、提升生產效率和品質，降低原物料成本，更進一步滿足客戶不同需求",
+    "url": "https://profetai.com/ai-case-studies_pcb/",
+    "pass": 1
+   },
+   {
+    "quote": "訂閱製造 AI 洞察、Crossover Talks 回顧與 Profet AI 最新動態",
+    "url": "https://profetai.com/ai-case-studies_pcb/",
+    "pass": 1
+   },
+   {
+    "quote": "Profet AI Technology © 2018–2026",
+    "url": "https://profetai.com/ai-case-studies_pcb/",
+    "pass": 1
+   },
+   {
+    "quote": "了解製造業者如何在實際營運中導入 Profet AI",
+    "url": "https://profetai.com/ai-case-studies_equipment-supplier/",
+    "pass": 1
+   },
+   {
+    "quote": "查看 Profet AI 的最新資訊、合作與發布",
+    "url": "https://profetai.com/ai-case-studies_equipment-supplier/",
+    "pass": 1
+   },
+   {
+    "quote": "透過 Profet AI AutoML，設備供應商能夠運用製程數據建立預測模型，自動化建構一套智慧監測系統，減少停機次數與時間",
+    "url": "https://profetai.com/ai-case-studies_equipment-supplier/",
+    "pass": 1
+   },
+   {
+    "quote": "訂閱製造 AI 洞察、Crossover Talks 回顧與 Profet AI 最新動態",
+    "url": "https://profetai.com/ai-case-studies_equipment-supplier/",
+    "pass": 1
+   },
+   {
+    "quote": "Profet AI Technology © 2018–2026",
+    "url": "https://profetai.com/ai-case-studies_equipment-supplier/",
+    "pass": 1
+   },
+   {
+    "quote": "了解製造業者如何在實際營運中導入 Profet AI",
+    "url": "https://profetai.com/ai-case-studies_chemistry/",
+    "pass": 1
+   },
+   {
+    "quote": "查看 Profet AI 的最新資訊、合作與發布",
+    "url": "https://profetai.com/ai-case-studies_chemistry/",
+    "pass": 1
+   },
+   {
+    "quote": "Profet AI 協助化工企業透過模型分析、預測及模擬，達成化工配方研發加速與連續型製程改善",
+    "url": "https://profetai.com/ai-case-studies_chemistry/",
+    "pass": 1
+   },
+   {
+    "quote": "訂閱製造 AI 洞察、Crossover Talks 回顧與 Profet AI 最新動態",
+    "url": "https://profetai.com/ai-case-studies_chemistry/",
+    "pass": 1
+   },
+   {
+    "quote": "Profet AI Technology © 2018–2026",
+    "url": "https://profetai.com/ai-case-studies_chemistry/",
+    "pass": 1
+   },
+   {
+    "quote": "了解製造業者如何在實際營運中導入 Profet AI",
+    "url": "https://profetai.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "查看 Profet AI 的最新資訊、合作與發布",
+    "url": "https://profetai.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "訂閱製造 AI 洞察、Crossover Talks 回顧與 Profet AI 最新動態",
+    "url": "https://profetai.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Profet AI Technology © 2018–2026",
+    "url": "https://profetai.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "了解製造業者如何在實際營運中導入 Profet AI",
+    "url": "https://profetai.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "查看 Profet AI 的最新資訊、合作與發布",
+    "url": "https://profetai.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "同樣地，Profet AI 的團隊也圍繞著「以人為本」的信念建立，持續賦能並傳承經驗，打造屬於自己的 AI 故事，都是我們的重要核心理念",
+    "url": "https://profetai.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "你也有一股勇於接受挑戰的熱情嗎？讓我們一起把 Profet AI 帶上國際舞台！",
+    "url": "https://profetai.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Profet AI 為期六個月的實習計畫，讓你深入探索 AI 領域！",
+    "url": "https://profetai.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "在 Profet AI，除了持續以 AI 賦能全球企業，我們也致力於打造一個激發想像力、凝聚創意、促進成長的協作環境",
+    "url": "https://profetai.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "訂閱製造 AI 洞察、Crossover Talks 回顧與 Profet AI 最新動態",
+    "url": "https://profetai.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Profet AI Technology © 2018–2026",
+    "url": "https://profetai.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "了解製造業者如何在實際營運中導入 Profet AI",
+    "url": "https://profetai.com/ai-case-studies_textile/",
+    "pass": 1
+   },
+   {
+    "quote": "查看 Profet AI 的最新資訊、合作與發布",
+    "url": "https://profetai.com/ai-case-studies_textile/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Empowering AI Native Manufacturing",
+    "url": "https://profetai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Profet AI｜AI Adoptions for the Manufacturing Industry",
+    "url": "https://en.profetai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Integrate manufacturing expertise, enterprise data, ML predictions, and Agentic AI into governed workflows. Make predictions explainable and enable Agents to act within governed boundaries.",
+    "url": "https://en.profetai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Machine learning and decision support for structured manufacturing data.",
+    "url": "https://en.profetai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Technical service and engineering-knowledge collaboration for equipment manufacturers.",
+    "url": "https://en.profetai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "See how Domain Twin™ is applied in real manufacturing operations. Use customer stories and partners to identify the next step from understanding to evaluation.",
+    "url": "https://en.profetai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "See how manufacturers apply Profet AI in real operations.",
+    "url": "https://en.profetai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Explore manufacturing AI perspectives, case studies, and company updates. Use content and perspectives to understand Domain Twin™ in practice.",
+    "url": "https://en.profetai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing AI perspectives and practices.",
+    "url": "https://en.profetai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing AI conversations and insights across industry, government, and academia.",
+    "url": "https://en.profetai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Profet AI leverages 20 years of international software industry experience and deep manufacturing expertise to create easy-to-use AI software tools and human-centric AI methodologies. These solutions help businesses transfer the valuable experience of senior experts and quickly implement AI applications.",
+    "url": "https://en.profetai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Medium and Large Manufacturing Clients",
+    "url": "https://en.profetai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing and Related Industries",
+    "url": "https://en.profetai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Facing regional economic fluctuations and talent shortages, the global manufacturing industry is at a critical point of transformation. The complexities of supply chains and uncertainties in international trade make AI transformation an urgent necessity. Profet AI offers innovative and reliable AI solutions, supported by a consultant team with rich industry service experience.",
+    "url": "https://en.profetai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "AUO Digitech partnered with Profet AI to launch the Citizen AI strategy to accelerate organization-wide AI adoption; we co-created products and solutions with Profet AI to strengthen and offer smart manufacturing capabilities industry-wide.",
+    "url": "https://en.profetai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Kinik partnered with Profet AI to digitalize the knowledge and experience of their senior craftsmen across their production lines, and saw immediate effect within a week into the partnership.",
+    "url": "https://en.profetai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Turn manufacturing know-how into scalable, governed AI.",
+    "url": "https://en.profetai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "\"Moving forward, companies in the manufacturing sector must digitalise their operations to ensure success and continuity. Profet AI's AutoML Virtual Data Scientist Platform enables this digital transformation as it enables companies to rapidly develop and deploy Industrial AI applications, resulting in maximised efficiency through streamlines operations,\"",
+    "url": "https://www.prnewswire.com/news-releases/profet-ai-closes-us5-6m-series-a-round-to-fuel-regional-expansion-and-product-development-301714170.html",
+    "pass": 3
+   },
+   {
+    "quote": "\"We have high hopes for Profet AI's contributions to the manufacturing industry potential and will leverage our extensive experience in the semiconductor and electronics sectors to actively support them in market development.\"",
+    "url": "https://www.prnewswire.com/news-releases/profet-ai-closes-us5-6m-series-a-round-to-fuel-regional-expansion-and-product-development-301714170.html",
+    "pass": 3
+   },
+   {
+    "quote": ", a leading international IT research and advisory firm. In the near future, the firm will be concentrating on product development and overseas expansion as it furthers its mission of empowering more enterprises by helping them rapidly adopt, deploy, and scale Industrial AI solutions for optimal operational efficiency.",
+    "url": "https://www.prnewswire.com/news-releases/profet-ai-closes-us5-6m-series-a-round-to-fuel-regional-expansion-and-product-development-301714170.html",
+    "pass": 3
+   },
+   {
+    "quote": "AI from Taiwan that Transforms the Manufacturing Sector Expands into Tokyo",
+    "url": "https://tokyo-gc.metro.tokyo.lg.jp/interview_en/profetai/",
+    "pass": 3
+   },
+   {
+    "quote": "1. By utilizing an AutoML (automated machine learning) algorithm specifically tailored for the manufacturing industry, we can achieve highly accurate predictions using historical data.",
+    "url": "https://tokyo-gc.metro.tokyo.lg.jp/interview_en/profetai/",
+    "pass": 3
+   },
+   {
+    "quote": "Our competitors include companies like DataRobot from the United States and Dataiku from France, but our strength lies in focusing on the manufacturing industry and emphasizing practical usability for everyone.",
+    "url": "https://tokyo-gc.metro.tokyo.lg.jp/interview_en/profetai/",
+    "pass": 3
+   },
+   {
+    "quote": "The ideal partner is a systems integrator (SIer) with expertise in artificial intelligence (AI) with whom we can share mutual goals. We are considering collaboration not only with large corporations but also with medium-sized and small manufacturing businesses.",
+    "url": "https://tokyo-gc.metro.tokyo.lg.jp/interview_en/profetai/",
+    "pass": 3
+   },
+   {
+    "quote": "We already have a track record with two companies in the automotive industry and one company in the food industry. We aim for implementation in 20 companies by the end of FY2025. Once we have reached the milestone of working with more than ten companies, we plan to increase our workforce in Japan.",
+    "url": "https://tokyo-gc.metro.tokyo.lg.jp/interview_en/profetai/",
+    "pass": 3
+   },
+   {
+    "quote": "The delay in digital transformation poses a significant risk to the Japanese manufacturing industry. We have gained extensive experience in Taiwan and China and have resolved various problems. We welcome you to try it out through a PoC.",
+    "url": "https://tokyo-gc.metro.tokyo.lg.jp/interview_en/profetai/",
+    "pass": 3
+   },
+   {
+    "quote": "AI-powered Manufacturing Process Optimization Platform",
+    "url": "https://tokyo-gc.metro.tokyo.lg.jp/interview_en/profetai/",
+    "pass": 3
+   },
+   {
+    "quote": "Information and communication / AI (Manufacturing)",
+    "url": "https://tokyo-gc.metro.tokyo.lg.jp/startups_en/profetai/",
+    "pass": 3
+   },
+   {
+    "quote": "Provides a platform to optimize manufacturing processes with AI",
+    "url": "https://tokyo-gc.metro.tokyo.lg.jp/startups_en/profetai/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing industries",
+    "url": "https://tokyo-gc.metro.tokyo.lg.jp/startups_en/profetai/",
+    "pass": 3
+   },
+   {
+    "quote": "・Automobile manufacturing industry",
+    "url": "https://tokyo-gc.metro.tokyo.lg.jp/startups_en/profetai/",
+    "pass": 3
+   },
+   {
+    "quote": "・Food manufacturing industry",
+    "url": "https://tokyo-gc.metro.tokyo.lg.jp/startups_en/profetai/",
+    "pass": 3
+   },
+   {
+    "quote": "AI-powered Manufacturing Process Optimization Platform",
+    "url": "https://tokyo-gc.metro.tokyo.lg.jp/startups_en/profetai/",
+    "pass": 3
+   },
+   {
+    "quote": "Integrate manufacturing expertise, enterprise data, ML predictions, and Agentic AI into governed workflows. Make predictions explainable and enable Agents to act within governed boundaries.",
+    "url": "https://en.profetai.com/ai-case-studies_production/",
+    "pass": 3
+   },
+   {
+    "quote": "Machine learning and decision support for structured manufacturing data.",
+    "url": "https://en.profetai.com/ai-case-studies_production/",
+    "pass": 3
+   },
+   {
+    "quote": "Technical service and engineering-knowledge collaboration for equipment manufacturers.",
+    "url": "https://en.profetai.com/ai-case-studies_production/",
+    "pass": 3
+   },
+   {
+    "quote": "See how Domain Twin™ is applied in real manufacturing operations. Use customer stories and partners to identify the next step from understanding to evaluation.",
+    "url": "https://en.profetai.com/ai-case-studies_production/",
+    "pass": 3
+   },
+   {
+    "quote": "See how manufacturers apply Profet AI in real operations.",
+    "url": "https://en.profetai.com/ai-case-studies_production/",
+    "pass": 3
+   },
+   {
+    "quote": "Explore manufacturing AI perspectives, case studies, and company updates. Use content and perspectives to understand Domain Twin™ in practice.",
+    "url": "https://en.profetai.com/ai-case-studies_production/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing AI perspectives and practices.",
+    "url": "https://en.profetai.com/ai-case-studies_production/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing AI conversations and insights across industry, government, and academia.",
+    "url": "https://en.profetai.com/ai-case-studies_production/",
+    "pass": 3
+   },
+   {
+    "quote": "In manufacturing, controlling equipment parameters is crucial for ensuring product quality, improving production efficiency, and extending equipment life. Quickly finding the optimal parameter combination is a challenge for production personnel.",
+    "url": "https://en.profetai.com/ai-case-studies_production/",
+    "pass": 3
+   },
+   {
+    "quote": "As manufacturing continues to develop, the demand for high product quality increases, and traditional sampling methods can no longer meet production needs.",
+    "url": "https://en.profetai.com/ai-case-studies_production/",
+    "pass": 3
+   },
+   {
+    "quote": "Difficult Production Line Adjustments",
+    "url": "https://en.profetai.com/ai-case-studies_production/",
+    "pass": 3
+   },
+   {
+    "quote": ": Existing measurement methods cannot provide immediate feedback, making production line adjustments difficult, affecting efficiency and product quality.",
+    "url": "https://en.profetai.com/ai-case-studies_production/",
+    "pass": 3
+   },
+   {
+    "quote": "Predictive Simulation Functions: Combined with production lines, it",
+    "url": "https://en.profetai.com/ai-case-studies_production/",
+    "pass": 3
+   },
+   {
+    "quote": "Immediate Feedback: Helps process personnel adjust production line parameters in real-time,",
+    "url": "https://en.profetai.com/ai-case-studies_production/",
+    "pass": 3
+   },
+   {
+    "quote": "In modern factories, the stability of equipment operation is crucial for production efficiency and product quality. However, current maintenance processes are usually reactive, with repairs only occurring after problems arise, leading to low maintenance efficiency and production interruptions.",
+    "url": "https://en.profetai.com/ai-case-studies_production/",
+    "pass": 3
+   },
+   {
+    "quote": "Turn manufacturing know-how into scalable, governed AI.",
+    "url": "https://en.profetai.com/ai-case-studies_production/",
+    "pass": 3
+   },
+   {
+    "quote": "Integrate manufacturing expertise, enterprise data, ML predictions, and Agentic AI into governed workflows. Make predictions explainable and enable Agents to act within governed boundaries.",
+    "url": "https://en.profetai.com/category/success-case/",
+    "pass": 3
+   },
+   {
+    "quote": "Machine learning and decision support for structured manufacturing data.",
+    "url": "https://en.profetai.com/category/success-case/",
+    "pass": 3
+   },
+   {
+    "quote": "Technical service and engineering-knowledge collaboration for equipment manufacturers.",
+    "url": "https://en.profetai.com/category/success-case/",
+    "pass": 3
+   },
+   {
+    "quote": "See how Domain Twin™ is applied in real manufacturing operations. Use customer stories and partners to identify the next step from understanding to evaluation.",
+    "url": "https://en.profetai.com/category/success-case/",
+    "pass": 3
+   },
+   {
+    "quote": "See how manufacturers apply Profet AI in real operations.",
+    "url": "https://en.profetai.com/category/success-case/",
+    "pass": 3
+   },
+   {
+    "quote": "Explore manufacturing AI perspectives, case studies, and company updates. Use content and perspectives to understand Domain Twin™ in practice.",
+    "url": "https://en.profetai.com/category/success-case/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing AI perspectives and practices.",
+    "url": "https://en.profetai.com/category/success-case/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing AI conversations and insights across industry, government, and academia.",
+    "url": "https://en.profetai.com/category/success-case/",
+    "pass": 3
+   },
+   {
+    "quote": "Profet AI Supports GIS in Advancing Manufacturing AI from Deployment to Organizational Capability",
+    "url": "https://en.profetai.com/category/success-case/",
+    "pass": 3
+   },
+   {
+    "quote": "From Customer Requirements to Supply Chain Competition, AI Becomes a Key Driver of Manufacturing Upgrade",
+    "url": "https://en.profetai.com/category/success-case/",
+    "pass": 3
+   },
+   {
+    "quote": "He also noted that the rapid rise of regional supply chains has made supply chain security and resilience a higher priority for both countries and enterprises. For manufacturers, the key question is no longer only where to deploy production capacity, but how to use AI to improve quality, speed, and overall competitiveness across operations.",
+    "url": "https://en.profetai.com/category/success-case/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Profet AI 以超過 200 家亞洲製造業中大型客戶的成功經驗作為基礎，邁向日本市場，並獲得東京都政府、瑞穗銀行、Jetro 日本貿易振興機構等大力支持，正式成立日本分公司！",
+    "url": "https://profetai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "東京都中央区銀座六丁目6番1号 銀座風月堂ビル5階",
+    "url": "https://profetai.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "導入事例とパートナーから、次の一歩を検討",
+    "url": "https://ja.profetai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業AIの知見、導入事例、最新情報を確認します",
+    "url": "https://ja.profetai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Profet AI、日本支社を開設 | Profet AI, Inc.のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000020.000084857.html",
+    "pass": 3
+   },
+   {
+    "quote": "Profet AI、日本支社を開設",
+    "url": "https://prtimes.jp/main/html/rd/p/000000020.000084857.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業向けAIソリューションを開発するProfet AIは、みずほ銀行の推薦と東京都の支援を受け、このたび日本法人 日本プロフェトAI株式会社（所在地： 東京都千代田区)を設立いたしました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000020.000084857.html",
+    "pass": 3
+   },
+   {
+    "quote": "先日開催された日本支社開設式には、群創光電（Innolux Corporation）名誉会長の段行建氏をはじめ、国立台湾大学の李家岩教授、Qisda BenQ グループ会長特別補佐の翁溓松氏、アイ・ティ・イノベーション代表取締役の林衛氏、佳龍科技（Super Dragon Technology）の会長呉界欣氏など、台日の産官学各界のリーダーが一堂に会し、日本市場におけるAI発展と協業の可能性について意見を交わしました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000020.000084857.html",
+    "pass": 3
+   },
+   {
+    "quote": "■アジア太平洋地域での実績を活かし、日本企業のAI活用を支援",
+    "url": "https://prtimes.jp/main/html/rd/p/000000020.000084857.html",
+    "pass": 3
+   },
+   {
+    "quote": "Profet AIは、人間中心のAI活用を通じて、日本のIT人材不足という課題解決を目指します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000020.000084857.html",
+    "pass": 3
+   },
+   {
+    "quote": "これにより日本の製造業は、経済環境の変化に対応しながら競争力を高め、持続可能なAI活用を達成できます」と述べています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000020.000084857.html",
+    "pass": 3
+   },
+   {
+    "quote": "「日本企業は意思決定に時間を要するものの、一度決定された事項は確実に実行に移されます」と指摘し、ワークショップや教育研修を通じた社内AI活用の促進が、日本企業の着実な実行力と内部改革のニーズに合致すると述べました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000020.000084857.html",
+    "pass": 3
+   },
+   {
+    "quote": "ProfetAIとの協力を通じて、日本市場にさらなる実績をもたらし、共に成長しながら、持続可能な技術革新と企業の社会的責任を推進していきたいと考えています」と述べました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000020.000084857.html",
+    "pass": 3
+   },
+   {
+    "quote": "Profet AIは日本市場での事業展開を加速するため、3社との戦略的パートナーシップを締結しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000020.000084857.html",
+    "pass": 3
+   },
+   {
+    "quote": "Profet AI日本支社長の呉培彰は「台湾と日本は製造業において、文化や技術基盤が類似しており、台湾およびアジア太平洋地域での200社以上の企業導入事例を通じて、製造業向けの独自のAI導入プロセスと手法を確立しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000020.000084857.html",
+    "pass": 3
+   },
+   {
+    "quote": "特に日本の製造業に対応し、人材不足の課題に応じ、企業の競争力を向上させ、高効率なAI活用を実現したいと考えています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000020.000084857.html",
+    "pass": 3
+   },
+   {
+    "quote": "Profet AI 東京拠点が盛大にオープン！日台の産官学界エリートがAI協力を共に模索｜Meet Japan－台湾スタートアップ企業ニュース速報",
+    "url": "https://meet-japan.bnextmedia.com/articles/view/48114",
+    "pass": 3
+   },
+   {
+    "quote": "Profet AI 東京拠点が盛大にオープン！日台の産官学界エリートがAI協力を共に模索",
+    "url": "https://meet-japan.bnextmedia.com/articles/view/48114",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域での実績を活かし、日本企業のAI転換や人手不足の課題を支援",
+    "url": "https://meet-japan.bnextmedia.com/articles/view/48114",
+    "pass": 3
+   },
+   {
+    "quote": "Profet AIは、AIによる人材不足の解決を目指し、アジア太平洋地域での200件以上の成功事例を活かして日本市場に展開します",
+    "url": "https://meet-japan.bnextmedia.com/articles/view/48114",
+    "pass": 3
+   },
+   {
+    "quote": "Profet AIのCEO、黄建豪氏は「Profet AIの独自の『レジリエンス・マネジメント』手法により、各工程や部門にAIを浸透させ、日本の製造業が経済変動に対処しながら持続可能な競争力を高め、AI変革を実現できる」と述べました",
+    "url": "https://meet-japan.bnextmedia.com/articles/view/48114",
+    "pass": 3
+   },
+   {
+    "quote": "協力パートナーとの鏡開き儀式での開幕祝い（左から）Biprogy 戦略企画部事業開発第2センターの新井康治氏、IT innovation 社長の林衛氏、Profet AI日本支社長の呉培彰氏、Profet AI CEOの黄建豪氏、群創光電の名誉会長 段行建氏、AXLBIT 社外取締役の林佳史氏",
+    "url": "https://meet-japan.bnextmedia.com/articles/view/48114",
+    "pass": 3
+   },
+   {
+    "quote": "IT innovation 社長である林衛氏も、企業内部に全社員AI文化を構築することの重要性について述べ、日本企業は意思決定に時間がかかるものの、一旦実施が決まると迅速に実行できるとし、ワークショップや研修を通じて企業変革を推進する必要があると指摘しました",
+    "url": "https://meet-japan.bnextmedia.com/articles/view/48114",
+    "pass": 3
+   },
+   {
+    "quote": "佳龍科技の董事長である呉界欣氏もESGとAIの二軸転換の重要性について触れ、「日本市場での実用的なAI導入事例をProfet AIと共に増やし、持続可能な技術革新と企業社会責任を実現したい」と語りました",
+    "url": "https://meet-japan.bnextmedia.com/articles/view/48114",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場でのAI活用に向けて、地元パートナーと連携強化",
+    "url": "https://meet-japan.bnextmedia.com/articles/view/48114",
+    "pass": 3
+   },
+   {
+    "quote": "Profet AIは、日本市場に密着し多面的な協力を推進するため、現地の3社と代理店契約を結びました",
+    "url": "https://meet-japan.bnextmedia.com/articles/view/48114",
+    "pass": 3
+   },
+   {
+    "quote": "Profet AI日本支社長の呉培彰氏は「台湾と日本は製造業において文化と技術基盤に共通点が多く、台湾やアジア太平洋地域での200件以上の事例を通じて確立したAI導入の成熟したプロセスと手法論を活用し、特に製造業のニーズに対応したAIソリューションを提供したい」と述べ、日本製造業との連携で競争力を向上させ、人手不足の解決と効率的なAI変革を目指す意向を表明しました",
+    "url": "https://meet-japan.bnextmedia.com/articles/view/48114",
+    "pass": 3
+   },
+   {
+    "quote": "日本・ベトナムへ進出し、商用車に「ソフトウェアの頭脳」を実装",
+    "url": "https://meet-japan.bnextmedia.com/articles/view/48114",
+    "pass": 3
+   },
+   {
+    "quote": "OenTech（應援科技）、初の国際提携！日本のプラットフォーム「For Good」と手を組み、台日間の公益クラウドファンディング事業を始動",
+    "url": "https://meet-japan.bnextmedia.com/articles/view/48114",
+    "pass": 3
+   },
+   {
+    "quote": "東証上場へ！PChomeの子会社21JPが日本でIPOを申請：新株の2割超を発行、台湾と日本の決済事業統合は新たな段階へ",
+    "url": "https://meet-japan.bnextmedia.com/articles/view/48114",
+    "pass": 3
+   },
+   {
+    "quote": "製造現場から生まれたAIスタートアップ！日本のCADDiがシリーズD資金調達を完了、「工場向けの部品探し」から評価額12億ドルのユニコーン企業へと躍進",
+    "url": "https://meet-japan.bnextmedia.com/articles/view/48114",
+    "pass": 3
+   },
+   {
+    "quote": "FUNNOW、和泰汽車から約3億台湾ドルを調達しシリーズCを完了！両社の提携でまずは日本市場を開拓へ",
+    "url": "https://meet-japan.bnextmedia.com/articles/view/48114",
+    "pass": 3
+   },
+   {
+    "quote": "第5回「台湾・日本イノベーションサミット」が東京で開催！46社の台湾スタートアップが、台湾・日本・米国の協力による新たな機会を共に模索",
+    "url": "https://meet-japan.bnextmedia.com/articles/view/48114",
+    "pass": 3
+   },
+   {
+    "quote": "Darwin Venturesとみずほキャピタルが投資する日本のフィジカルAIスタートアップ！bestatがシリーズA資金調達を完了、海外進出の第一弾として台湾へ",
+    "url": "https://meet-japan.bnextmedia.com/articles/view/48114",
+    "pass": 3
+   },
+   {
+    "quote": "宿泊業界から飲食業界へ進出！Aiello（アイエロ）が日本のTableCheckと提携し、AIエージェントによる24時間電話予約対応を実現",
+    "url": "https://meet-japan.bnextmedia.com/articles/view/48114",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例：製造業向けAIプラットフォーム Profet AI 製造業 ものづくりDX × カーボンニュートラル｜BIPROGY株式会社",
+    "url": "https://www.biprogy.com/solution/theme/dx-manufacturing_profetai.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例：製造業向けAIプラットフォーム Profet AI",
+    "url": "https://www.biprogy.com/solution/theme/dx-manufacturing_profetai.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業向けAIプラットフォーム Profet AI の導入事例をご紹介します",
+    "url": "https://www.biprogy.com/solution/theme/dx-manufacturing_profetai.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例1：射出成形パラメーターの最適化",
+    "url": "https://www.biprogy.com/solution/theme/dx-manufacturing_profetai.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例2：電力消費量予測",
+    "url": "https://www.biprogy.com/solution/theme/dx-manufacturing_profetai.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例3：設備予知保全（PHM）／回転子の異常分類",
+    "url": "https://www.biprogy.com/solution/theme/dx-manufacturing_profetai.html",
+    "pass": 3
+   },
+   {
+    "quote": "Profet AI Japan Co., Ltd. | 金融機関等と連携した海外企業誘致促進事業",
+    "url": "https://tokyo-gc.metro.tokyo.lg.jp/interview_en/profetai/",
+    "pass": 3
+   },
+   {
+    "quote": "Profet AI Japan Co., Ltd.",
+    "url": "https://tokyo-gc.metro.tokyo.lg.jp/interview_en/profetai/",
+    "pass": 3
+   },
+   {
+    "quote": "We spoke directly with Eason Lo, Chief of Sales and head of operations in Japan.",
+    "url": "https://tokyo-gc.metro.tokyo.lg.jp/interview_en/profetai/",
+    "pass": 3
+   },
+   {
+    "quote": "AI from Taiwan that Transforms the Manufacturing Sector Expands into Tokyo",
+    "url": "https://tokyo-gc.metro.tokyo.lg.jp/interview_en/profetai/",
+    "pass": 3
+   },
+   {
+    "quote": "What prompted your expansion into the Japanese market, and how do you position the Tokyo market?",
+    "url": "https://tokyo-gc.metro.tokyo.lg.jp/interview_en/profetai/",
+    "pass": 3
+   },
+   {
+    "quote": "As part of our global strategy, Japan is an important market following Taiwan and China. We aim to replicate our successful experiences here and create alongside Japanese companies.",
+    "url": "https://tokyo-gc.metro.tokyo.lg.jp/interview_en/profetai/",
+    "pass": 3
+   },
+   {
+    "quote": "What strategies and challenges have you encountered in adapting to the Japanese market?",
+    "url": "https://tokyo-gc.metro.tokyo.lg.jp/interview_en/profetai/",
+    "pass": 3
+   },
+   {
+    "quote": "The localization of the product into Japanese is about 90% complete, but there are challenges with the expressions and nuances of technical terms in the user guide. We continuously make improvements based on feedback from our customers in Japan.",
+    "url": "https://tokyo-gc.metro.tokyo.lg.jp/interview_en/profetai/",
+    "pass": 3
+   },
+   {
+    "quote": "Additionally, as a foreign company with low brand recognition, gaining trust can be a time-consuming challenge. This is why we place great importance on responding sincerely and earnestly and establishing a strong presence in the Japanese market alongside our partner companies.",
+    "url": "https://tokyo-gc.metro.tokyo.lg.jp/interview_en/profetai/",
+    "pass": 3
+   },
+   {
+    "quote": "What efforts are you making with business partners in Japan?",
+    "url": "https://tokyo-gc.metro.tokyo.lg.jp/interview_en/profetai/",
+    "pass": 3
+   },
+   {
+    "quote": "We are already collaborating with three companies in Tokyo: BIPROGY, IT Innovation, and AXLBIT. We collaborate with these companies to handle customer inquiries and provide implementation support.",
+    "url": "https://tokyo-gc.metro.tokyo.lg.jp/interview_en/profetai/",
+    "pass": 3
+   },
+   {
+    "quote": "Could you tell us about your achievements in the Japanese market and your future plans?",
+    "url": "https://tokyo-gc.metro.tokyo.lg.jp/interview_en/profetai/",
+    "pass": 3
+   },
+   {
+    "quote": "We already have a track record with two companies in the automotive industry and one company in the food industry. We aim for implementation in 20 companies by the end of FY2025. Once we have reached the milestone of working with more than ten companies, we plan to increase our workforce in Japan.",
+    "url": "https://tokyo-gc.metro.tokyo.lg.jp/interview_en/profetai/",
+    "pass": 3
+   },
+   {
+    "quote": "In Taiwan, we support a wide range of clients from the semiconductor to the food industry, and we are similarly exploring opportunities for expansion across various industries in Japan.",
+    "url": "https://tokyo-gc.metro.tokyo.lg.jp/interview_en/profetai/",
+    "pass": 3
+   },
+   {
+    "quote": "Please share a message for businesses and support organizations in Tokyo.",
+    "url": "https://tokyo-gc.metro.tokyo.lg.jp/interview_en/profetai/",
+    "pass": 3
+   },
+   {
+    "quote": "The delay in digital transformation poses a significant risk to the Japanese manufacturing industry. We have gained extensive experience in Taiwan and China and have resolved various problems. We welcome you to try it out through a PoC.",
+    "url": "https://tokyo-gc.metro.tokyo.lg.jp/interview_en/profetai/",
+    "pass": 3
+   },
+   {
+    "quote": "Profet AI 日本支社グランドオープン - プロフェトAI",
+    "url": "https://ja.profetai.com/japan-opening/",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例とパートナーから、次の一歩を検討",
+    "url": "https://ja.profetai.com/japan-opening/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業AIの知見、導入事例、最新情報を確認します",
+    "url": "https://ja.profetai.com/japan-opening/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "東証上場へ！PChomeの子会社21JPが日本でIPOを申請：新株の2割超を発行、台湾と日本の決済事業統合は新たな段階へ",
+    "url": "https://meet-japan.bnextmedia.com/articles/view/48114",
+    "pass": 3
+   },
+   {
+    "quote": "As Agentic AI Arrives, From SEMI E187 to Agentic Security: How Should the Semiconductor Industry Build Its Next Cybersecurity Defense?",
+    "url": "https://en.profetai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Profet AI doubled its revenue in 2022, demonstrating strong growth with a capital efficiency ratio of over 1:1. The firm was also recently selected as",
+    "url": "https://www.prnewswire.com/news-releases/profet-ai-closes-us5-6m-series-a-round-to-fuel-regional-expansion-and-product-development-301714170.html",
+    "pass": 3
+   },
+   {
+    "quote": "As part of our global strategy, Japan is an important market following Taiwan and China. We aim to replicate our successful experiences here and create alongside Japanese companies.",
+    "url": "https://tokyo-gc.metro.tokyo.lg.jp/interview_en/profetai/",
+    "pass": 3
+   },
+   {
+    "quote": "3. Furthermore, by utilizing Domain Twin (AI specifically designed for enterprises), the expertise of veteran employees can be transformed into AI knowledge, enabling anyone within the company to make decisions at the same level.",
+    "url": "https://tokyo-gc.metro.tokyo.lg.jp/interview_en/profetai/",
+    "pass": 3
+   },
+   {
+    "quote": ": Manual experience is hard to summarize and transfer to new employees, making it difficult to apply to new materials and processes.",
+    "url": "https://en.profetai.com/ai-case-studies_production/",
+    "pass": 3
+   },
+   {
+    "quote": "For many employees, AI first appeared as an unfamiliar rival, fast and precise but speaking in",
+    "url": "https://en.profetai.com/category/success-case/",
+    "pass": 3
+   },
+   {
+    "quote": ", tracking employees’ learning and application progress. “Supervisors can see their team’s growth, and employees can see their own progress.”",
+    "url": "https://en.profetai.com/category/success-case/",
+    "pass": 3
+   },
+   {
+    "quote": "Looking ahead, Chyi Ding aims to leverage Profet AI’s tools and methodologies to digitize the expertise of senior employees across departments. By doing so, they hope to significantly reduce the training time for new hires. Instead of learning every step from scratch, new employees can start from an advanced point, allowing them to build on existing, systematized knowledge from the get-go.",
+    "url": "https://en.profetai.com/category/success-case/",
+    "pass": 3
+   },
+   {
+    "quote": ", and other major U.S. cloud service providers (CSPs) among its primary customers. Benefiting from the widespread adoption of cloud applications, Wiwynn has experienced rapid revenue growth in recent years.",
+    "url": "https://en.profetai.com/category/success-case/",
+    "pass": 3
+   },
+   {
+    "quote": "to develop bamboo powder of the same quality even if different bamboo species are used, breaking through the limitations of bamboo species and making the acquisition of raw materials for Hsinchu Gold Bamboo products more flexible.",
+    "url": "https://en.profetai.com/category/success-case/",
+    "pass": 3
+   },
+   {
+    "quote": "Introduction of AI successfully improved the manufacturing process, broke through the production bottleneck and carried out formula exploration",
+    "url": "https://en.profetai.com/category/success-case/",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Giant Boosts Maintenance Revenue with AI-based Monitoring",
+    "url": "https://en.profetai.com/category/success-case/",
+    "pass": 3
+   },
+   {
+    "quote": "Implementing the Profet AI AutoML Platform has Resulted in a Remarkable Increase in Efficiency and Revenue of Over 30% in Asia Giant’s Maintenance Operations",
+    "url": "https://en.profetai.com/category/success-case/",
+    "pass": 3
+   },
+   {
+    "quote": "Grand Kuo said that ACON began to introduce application program interfaces (APIs) as early as 12 years ago to improve production and optimize processes. From 2016 to 2018, industrial upgrading was carried out through automated testing and manufacturing.",
+    "url": "https://en.profetai.com/category/success-case/",
+    "pass": 3
+   },
+   {
+    "quote": "As Agentic AI Arrives, From SEMI E187 to Agentic Security: How Should the Semiconductor Industry Build Its Next Cybersecurity Defense?",
+    "url": "https://en.profetai.com/category/success-case/",
+    "pass": 3
+   },
+   {
+    "quote": "Profet AI Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/profet-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Profet AI",
+    "url": "https://prospeo.io/c/profet-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/profet-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Profet AI has assisted enterprises across 12 major manufacturing industries, boasting an impressive clientele of over 160 listed companies worldwide. Notably, it has been adopted by top players in the world's panel, semiconductor, PCB, EMS, and chemical sectors, solidifying its position as a trusted partner for industry leaders seeking AI-driven solutions.",
+    "url": "https://prospeo.io/c/profet-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/profet-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/profet-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Profet AI?",
+    "url": "https://prospeo.io/c/profet-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Profet AI generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/profet-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/profet-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/profet-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Profet AI have?",
+    "url": "https://prospeo.io/c/profet-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/profet-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/472024-09",
+    "pass": 3
+   },
+   {
+    "quote": "Profet AI has 16 total employees.",
+    "url": "https://pitchbook.com/profiles/company/472024-09",
+    "pass": 3
+   },
+   {
+    "quote": "What is Profet AI’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/472024-09",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Profet AI is",
+    "url": "https://pitchbook.com/profiles/company/472024-09",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "プロフェトAI｜Profet AI - プロフェトAI — Profet AIのDomain Twinソリューションとは？ AutoML・AI Studio・AILMを三位一体で備えた、実績ある即導入型AIソリューションです。 AutoMLは、ノーコードで機械学習モデルを構築し、企業が短期間で効果的なAI活用を支援します。",
+    "url": "https://ja.profetai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Profet AI、日本支社を開設 | Profet AI, Inc.のプレスリリース — Oct 24, 2024 · BIPROGYとの協業では、同社の包括的なDXソリューションにProfet AIのAutoML自動機械学習プラットフォームを組み込むことで、容易にAIを活用できる ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000020.000084857.html",
+    "pass": 3
+   },
+   {
+    "quote": "Profet AI 東京拠点が盛大にオープン！日台の産官学界エリートがAI協... — Oct 28, 2024 · 2024年10月24日、台北発 – 製造業向けAIソリューションを提供する杰倫智能科技（Profet AI）は、日本の瑞穂銀行の推薦を受け、東京都政府の支援計画に選出され、日本法人の設立に成功しました。",
+    "url": "https://meet-japan.bnextmedia.com/articles/view/48114",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例：製造業向けAIプラットフォーム Profet AI 製造業 ものづく... — 事例3：設備予知保全（PHM）／回転子の異常分類 製造業向けAIプラットフォーム Profet AI の導入事例をご紹介します。 Profet AI は台湾の製造業 150 社以上への導入実績を有し、製造業の各用途に合ったAIモデルをノンプログラミングで自動作成します。",
+    "url": "https://www.biprogy.com/solution/theme/dx-manufacturing_profetai.html",
+    "pass": 3
+   },
+   {
+    "quote": "Profet AI 日本支社グランドオープン - プロフェトAI — 努力を重ねた結果、日本の代理店3社と提携し、実績を積み重ねてきました。 また、東京都政府の海外スタートアップ支援プログラムにも認定されました。 2024年、ついに日本市場へ本格進出し、新拠点を開設いたします。",
+    "url": "https://ja.profetai.com/japan-opening/",
+    "pass": 3
+   },
+   {
+    "quote": "Profet AI｜AI Adoptions for the Manufacturing Industry — Profet AI leverages 20 years of international software industry experience and deep manufacturing expertise to create easy-to-use AI software tools and human-centric AI methodologies. These solutions help businesses transfer the valuable experience of senior experts and quickly implement AI applications.",
+    "url": "https://en.profetai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "PROFET AI CLOSES US$5.6M SERIES A ROUND TO FUEL REGIONAL ... — Jan 5, 2023 · /PRNewswire/ -- Profet AI, a Taiwan-based developer of auto machine learning solutions, has raised US$5.6 million in a Series A funding round led by Darwin...",
+    "url": "https://www.prnewswire.com/news-releases/profet-ai-closes-us5-6m-series-a-round-to-fuel-regional-expansion-and-product-development-301714170.html",
+    "pass": 3
+   },
+   {
+    "quote": "Profet AI 代理店 Profiles - Facebook — View the profiles of people named Profet AI 代理店. Join Facebook to connect with Profet AI 代理店 and others you may know. Facebook gives people the power to...",
+    "url": "https://www.facebook.com/public/Profet-AI-代理店/",
+    "pass": 3
+   },
+   {
+    "quote": "Profet AI｜AI Adoptions for the Manufacturing Industry — The complexities of supply chains and uncertainties in international trade make AI transformation an urgent necessity. Profet AI offers innovative and reliable AI solutions, supported by a consultant team with rich industry service experience.",
+    "url": "https://en.profetai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Profet AI Japan Co., Ltd. | 金融機関等と連携した海外企業誘致促進... — Originally from Taiwan and having lived in Japan for 10 years, I joined Profet AI in 2023. Profet AI was founded in Taiwan in 2018 and has been providing AI solutions for the manufacturing industry, with a focus on semiconductors.",
+    "url": "https://tokyo-gc.metro.tokyo.lg.jp/interview_en/profetai/",
+    "pass": 3
+   },
+   {
+    "quote": "Profet AI 日本支社グランドオープン - プロフェトAI — Profet AIは、設立以来200社を超えるアジア太平洋地域の中堅・大手企業に成功事例を提供し、製造業が直面する課題を解決し、企業AI変革を加速させてきました。",
+    "url": "https://ja.profetai.com/japan-opening/",
+    "pass": 3
+   },
+   {
+    "quote": "Profet AI Japan Co., Ltd. | 金融機関等と連携した海外企業誘致促進... — Profet AI Japan Co., Ltd. home > Overseas Startups Expanding Into Tokyo > Profet AI Japan Co., Ltd. AI (Manufacturing)",
+    "url": "https://tokyo-gc.metro.tokyo.lg.jp/startups_en/profetai/",
+    "pass": 3
+   },
+   {
+    "quote": "Profet AI | Official Website Access – An AI Transformation ... — Following the establishment of its Japanese subsidiary, Profet AI received strong support from the Tokyo Metropolitan Government, Mizuho Bank, and JETRO (Japan External Trade Organization), exporting Taiwan’s best practices in AI transformation to the Japanese market.",
+    "url": "https://www.cxgn.cn/en/profet-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Production AI Case Studies | Profet AI — In manufacturing, controlling equipment parameters is crucial for ensuring product quality, improving production efficiency, and extending equipment life. Quickly finding the optimal parameter combination is a challenge for production personnel.",
+    "url": "https://en.profetai.com/ai-case-studies_production/",
+    "pass": 3
+   },
+   {
+    "quote": "〈成功案例 〉彙整頁面 | Profet AI — Over roughly two years of collaboration, the two companies have completed more than 100 AI projects and built over 1,500 AI models across manufacturing scenarios including process improvement, quality analysis, and anomaly prediction.",
+    "url": "https://en.profetai.com/category/success-case/",
+    "pass": 3
+   },
+   {
+    "quote": "Profet AI Japan Co., Ltd. - Company Information / Case Studies — Develops user-friendly AI software tools and human-centered AI methodologies based on 20 years of experience in an international software company and deep knowledge of the manufacturing industry",
+    "url": "https://tokyo-gc.metro.tokyo.lg.jp/cms/wp-content/uploads/2025/09/case_studies_profetai_en.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Successful AI Adoption in Taiwan's Manufacturing ... - LinkedIn — Jan 12, 2026 · This case study highlights how Profet AI partnered with a 36-year-old equipment manufacturer to implement AI-driven changes, resulting in remarkable improvements.",
+    "url": "https://www.linkedin.com/pulse/successful-ai-adoption-taiwans-manufacturing-sector-profet-lau-efvcc",
+    "pass": 3
+   },
+   {
+    "quote": "Profet AI Revenue, Funding & Valuation - prospeo.ioProfet AI 2026 Company Profile: Valuation, Funding ...Profet AI Information - RocketReachProfet AI - Overview, News & Similar companies | ZoomInfo.comProfet AI - Crunchbase Company Profile & FundingProfet AI Suzhou 2026 Company Profile: Valuation, Funding ...Profet AI - 2025 Company Profile, Funding & Competitors - Tracxn — Profet AI has revenue o",
+    "url": "https://prospeo.io/c/profet-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Profet AI 2026 Company Profile: Valuation, Funding ...Profet AI Information - RocketReachProfet AI - Overview, News & Similar companies | ZoomInfo.comProfet AI - Crunchbase Company Profile & FundingProfet AI Suzhou 2026 Company Profile: Valuation, Funding ...Profet AI - 2025 Company Profile, Funding & Competitors - Tracxn — Information on valuation, funding, cap tables, investors, and executives f",
+    "url": "https://pitchbook.com/profiles/company/472024-09",
+    "pass": 3
+   },
+   {
+    "quote": "Profet AI Information - RocketReachProfet AI - Overview, News & Similar companies | ZoomInfo.comProfet AI - Crunchbase Company Profile & FundingProfet AI Suzhou 2026 Company Profile: Valuation, Funding ...Profet AI - 2025 Company Profile, Funding & Competitors - Tracxn — Profet AI is a Software Development company located in Taipei City, TW with $10.5 million in revenue and 65 employees. Find top ",
+    "url": "https://rocketreach.co/profet-ai-profile_b7f3b3e7c25db148",
+    "pass": 3
+   },
+   {
+    "quote": "Profet AI - Overview, News & Similar companies | ZoomInfo.com — Profet AI helps manufacturers improve efficiency by empowering their employees with AI. The Taiwan-based AI software developer has launched an ambitious plan to expand in Asia, especially China, Japan and Vietnam.",
+    "url": "https://www.zoominfo.com/c/profet-ai/556351237",
+    "pass": 3
+   },
+   {
+    "quote": "Profet AI - Crunchbase Company Profile & Funding — Profet AI currently serves more than 300 manufacturing enterprises across Asia, spanning electronics, semiconductors, PCB, IC design, display panels, and advanced materials.",
+    "url": "https://www.crunchbase.com/organization/profet-ai",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Privacy Policy · Contact Us",
+    "url": "https://en.profetai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Privacy Policy · Contact Us",
+    "url": "https://en.profetai.com/ai-case-studies_production/",
+    "pass": 3
+   },
+   {
+    "quote": "Privacy Policy · Contact Us",
+    "url": "https://en.profetai.com/category/success-case/",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/profet-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/472024-09",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Founded in 1959, it has witnessed Taiwan’s evolution from OEM to brand creation and accompanied the automotive industry from fuel-powered to electric vehicles. Its product line continues to expand—ranging from passenger car tires to off-road and winter tires—with more than 3,000 specifications accumulated.",
+    "url": "https://en.profetai.com/category/success-case/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "AIを用いた2026年日経平均株価予測★正解は一年後～AIモデル構築/予測... Jul 28, 2026 · 一方で、 近年はGeminiやChatGPTのような生成AIでも、数値予測やデータ分析に関する回答を得ることができます。 そこで、おまけとして、本検証で用いたAutoML（Profet AI）による予測結果と、生成AIによる予測結果を比較しました。",
+    "url": "https://note.com/it_innovation/n/n1131dceeb73e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "AIを用いた2026年日経平均株価予測★正解は一年後～AIモデル構築/予測評価 編（その2）～｜株式会社アイ・ティ・イノベーション",
+    "url": "https://note.com/it_innovation/n/n1131dceeb73e",
+    "pass": 3
+   },
+   {
+    "quote": "AIを用いた2026年日経平均株価予測★正解は一年後～AIモデル構築/予測評価 編（その2）～",
+    "url": "https://note.com/it_innovation/n/n1131dceeb73e",
+    "pass": 3
+   },
+   {
+    "quote": "下記の記事は株式会社アイティイノベーションのブログ「AI×データのベストシナジーを引き出す秘訣」を再編集したものです。",
+    "url": "https://note.com/it_innovation/n/n1131dceeb73e",
+    "pass": 3
+   },
+   {
+    "quote": "https://it-innovation.co.jp/2026/05/26-085925/",
+    "url": "https://note.com/it_innovation/n/n1131dceeb73e",
+    "pass": 3
+   },
+   {
+    "quote": "前回の記事では、3か月後の予測モデルを題材に、日時情報の持たせ方や目的変数の置き方によって、予測精度がどのように変わるのかを確認しました。",
+    "url": "https://note.com/it_innovation/n/n1131dceeb73e",
+    "pass": 3
+   },
+   {
+    "quote": "特に、目的変数を株価水準から対数リターンに変更することで、日経平均株価およびS&P 500のいずれについても一定の改善が見られました。一方で、日経平均株価については、3か月後予測では目標値を超えられたものの、4か月後・5か月後の予測まで考えると、まだ十分な余裕があるとは言えません。",
+    "url": "https://note.com/it_innovation/n/n1131dceeb73e",
+    "pass": 3
+   },
+   {
+    "quote": "そこで本記事では、前回の結果を踏まえて、以下の内容を中心に記載しています。",
+    "url": "https://note.com/it_innovation/n/n1131dceeb73e",
+    "pass": 3
+   },
+   {
+    "quote": "日経平均株価予測モデル（3か月先の予測）に対する改善",
+    "url": "https://note.com/it_innovation/n/n1131dceeb73e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Profet AI ｜杰倫智能 (@profet_ai) / X Profet AI provides an end-to-end AutoML platform that enables all domain users to rapidly generate world-class AI models and applications for any use case.",
+    "url": "https://x.com/profet_ai",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Profet AI - LinkedIn Profet AI currently serves more than 400 manufacturing enterprises across Asia, spanning electronics, semiconductors, PCB, IC design, display panels, and advanced materials.",
+    "url": "https://www.linkedin.com/company/profetai",
+    "pass": 3
+   },
+   {
+    "quote": "Profet AI - Virtual Data Scientist l Machine Learning ...Forster Lin - Profet AI | 杰倫智能科技 Profet AI Co-Founder & ...不怕老師傅退休了！Profet AI 如何把「工廠靈魂」變成可複製的智慧？...Publicación de Profet AIKojiro Nomura - Japan Industrial Market Entry & Research ... Having implemented AI initiatives with over 160 companies, Profet AI serves as a virtual data scientist with over six years of experience in facilitating AI tr",
+    "url": "https://tw.linkedin.com/in/profet-ai-ab6224294",
+    "pass": 3
+   },
+   {
+    "quote": "Forster Lin - Profet AI | 杰倫智能科技 Profet AI Co-Founder & ...不怕老師傅退休了！Profet AI 如何把「工廠靈魂」變成可複製的智慧？...Publicación de Profet AIKojiro Nomura - Japan Industrial Market Entry & Research ... Profet AI is widely adopted by world's leading customers across industries, including the world's leading EMS, Semi-OSAT, PCB, IC design House , display panel and materials solution providers. 如何確保當企業在美國、東南亞或中國設立新廠時，",
+    "url": "https://tw.linkedin.com/in/forster-lin-b3a1a559",
+    "pass": 3
+   },
+   {
+    "quote": "不怕老師傅退休了！Profet AI 如何把「工廠靈魂」變成可複製的智慧？... 如何確保當企業在美國、東南亞或中國設立新廠時，台灣工廠數十年累積的製程智慧能夠被快速移植？ Profet AI 的答案是將這些隱性知識結構化，讓每一次成功的調校、每一個關鍵參數的選擇，都成為可以被學習、被傳承的數位資產。",
+    "url": "https://cn.linkedin.com/posts/james-yang-841b0aab_不怕老師傅退休了profet-ai-如何把工廠靈魂變成可複製的智慧杰倫智能-activity-7395111336474697729-WulF",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "杰倫智能科技 Profet AI | Taipei - Facebook【Profet AI × HPE × NVIDIA | PCB Domain... - 杰倫智能科技 Profet ...Prophet: forecasting at scale - Meta Research【Profet AI 前進檳城：From Semiconductor... - 杰倫智能科技 Profet...Profet AI創辦人暨執行長 Jerry Huang... - 杰倫智能科技 Profet AI |...【想吃下 Agentic AI 變現紅利？Profet AI 邀您直擊... - 杰倫智能科...️【Profet AI Beyond PoC Insight｜從 Demo... - 杰倫智能科技 Profet... 4 days ago · Profet AI 的 Domain Twin™，",
+    "url": "https://www.facebook.com/ProfetAIishere/",
+    "pass": 3
+   },
+   {
+    "quote": "【Profet AI × HPE × NVIDIA | PCB Domain... - 杰倫智能科技 Profet ... May 9, 2025 · Profet AI 將於 5/19 展示攜手 NVIDIA Omniverse與 HPE GPU 的 「PCB 領域數位分身」，分享如何成功協助用戶縮短 40% 學習曲線、降低 30% 試產成本，加速 50% 部署時間，將domain know- how有效保存，更讓新人快速上手、減少人力依賴、減 輕工作負擔，真正實現智慧減壓與決策 ...",
+    "url": "https://www.facebook.com/ProfetAIishere/posts/1008463771430558/",
+    "pass": 3
+   },
+   {
+    "quote": "【Profet AI 前進檳城：From Semiconductor... - 杰倫智能科技 Profet... Jul 30, 2026 · 【Profet AI 前進檳城：From Semiconductor Know-How to AI ROI】 半導體一直是 Profet AI 長期深耕的重要產業。 這次，我們來到馬來西亞半導體重鎮—檳城，與在地夥伴 Ashisuto 共同舉辦「From Semiconductor Know-How to...",
+    "url": "https://www.facebook.com/ProfetAIishere/posts/profet-ai-前進檳城from-semiconductor-know-how-to-ai-roi半導體一直是-profet-ai-長期深耕的重要產業這次我/1358379859772279/",
+    "pass": 3
+   },
+   {
+    "quote": "Profet AI創辦人暨執行長 Jerry Huang... - 杰倫智能科技 Profet AI |... Apr 1, 2025 · Profet AI創辦人暨執行長 Jerry Huang ：「製造業現在最大的敵人就是時間。 」 謝謝 數位時代 的報導和專訪，討論Profet AI如何協助台灣企業AI轉型。",
+    "url": "https://www.facebook.com/ProfetAIishere/posts/profet-ai創辦人暨執行長-jerry-huang-製造業現在最大的敵人就是時間謝謝-數位時代-的報導和專訪討論profet-ai如何協助台灣企業ai轉型/980196870923915/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://profetai.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://profetai.com/partnership/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://profetai.com/ai-case-studies_semiconductor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://profetai.com/ai-case-studies_ems/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://profetai.com/ai-case-studies_pcb/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://profetai.com/ai-case-studies_equipment-supplier/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://profetai.com/ai-case-studies_chemistry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://profetai.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://profetai.com/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://profetai.com/ai-case-studies_textile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://profetai.com/ai-case-studies_food/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://profetai.com/ai-case-studies_connector/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://profetai.com/ai-case-studies_panel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://profetai.com/ai-case-studies_research-and-development/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://profetai.com/ai-case-studies_information-technology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://profetai.com/ai-case-studies_production/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://ja.profetai.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000020.000084857.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meet-japan.bnextmedia.com/articles/view/48114",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.biprogy.com/solution/theme/dx-manufacturing_profetai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%B5%E3%83%A0%E3%82%B9%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.profetai.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prnewswire.com/news-releases/profet-ai-closes-us5-6m-series-a-round-to-fuel-regional-expansion-and-product-development-301714170.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/public/Profet-AI-代理店/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://en.profetai.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyo-gc.metro.tokyo.lg.jp/interview_en/profetai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.profetai.com/japan-opening/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyo-gc.metro.tokyo.lg.jp/startups_en/profetai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.profetai.com/ai-case-studies_production/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.profetai.com/category/success-case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyo-gc.metro.tokyo.lg.jp/cms/wp-content/uploads/2025/09/case_studies_profetai_en.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/successful-ai-adoption-taiwans-manufacturing-sector-profet-lau-efvcc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.databricks.com/blog/introducing-new-databricks-partner-program-and-well-architected-framework-isvs-and-data",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newsroom.servicenow.com/press-releases/details/2026/ServiceNow-enhances-global-Partner-Program-to-accelerate-AI-agent-innovation/default.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/@resellerrevenue",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prospeo.io/c/profet-ai-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/472024-09",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://rocketreach.co/profet-ai-profile_b7f3b3e7c25db148",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/profet-ai/556351237",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/it_innovation/n/n1131dceeb73e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/profet_ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/profetai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tw.linkedin.com/in/profet-ai-ab6224294",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tw.linkedin.com/in/forster-lin-b3a1a559",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cn.linkedin.com/posts/james-yang-841b0aab_不怕老師傅退休了profet-ai-如何把工廠靈魂變成可複製的智慧杰倫智能-activity-7395111336474697729-WulF",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ProfetAIishere/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ProfetAIishere/posts/1008463771430558/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ProfetAIishere/posts/profet-ai-前進檳城from-semiconductor-know-how-to-ai-roi半導體一直是-profet-ai-長期深耕的重要產業這次我/1358379859772279/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ProfetAIishere/posts/profet-ai創辦人暨執行長-jerry-huang-製造業現在最大的敵人就是時間謝謝-數位時代-的報導和專訪討論profet-ai如何協助台灣企業ai轉型/980196870923915/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/profet_ai",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Profet AI 日本 導入",
+   "results": [
+    "https://ja.profetai.com/",
+    "https://prtimes.jp/main/html/rd/p/000000020.000084857.html",
+    "https://meet-japan.bnextmedia.com/articles/view/48114",
+    "https://www.biprogy.com/solution/theme/dx-manufacturing_profetai.html",
+    "https://ja.profetai.com/japan-opening/",
+    "https://www.it-innovation.co.jp/profetai/",
+    "https://www.itmedia.co.jp/enterprise/articles/2611/06/news022.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Profet AI 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/日本サムスン",
+    "https://en.profetai.com/",
+    "https://www.prnewswire.com/news-releases/profet-ai-closes-us5-6m-series-a-round-to-fuel-regional-expansion-and-product-development-301714170.html",
+    "https://www.facebook.com/public/Profet-AI-代理店/",
+    "https://chigai2.fromation.co.jp/archives/30533",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.dell.com/ja-jp/blog/837894/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Profet AI Japan",
+   "results": [
+    "https://en.profetai.com/",
+    "https://tokyo-gc.metro.tokyo.lg.jp/interview_en/profetai/",
+    "https://ja.profetai.com/japan-opening/",
+    "https://tokyo-gc.metro.tokyo.lg.jp/startups_en/profetai/",
+    "https://www.cxgn.cn/en/profet-ai",
+    "https://ja.profetai.com/",
+    "https://profetai.com/about-us/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Profet AI manufacturing customer case study",
+   "results": [
+    "https://en.profetai.com/ai-case-studies_production/",
+    "https://en.profetai.com/category/success-case/",
+    "https://tokyo-gc.metro.tokyo.lg.jp/cms/wp-content/uploads/2025/09/case_studies_profetai_en.pdf",
+    "https://www.linkedin.com/pulse/successful-ai-adoption-taiwans-manufacturing-sector-profet-lau-efvcc",
+    "https://www.controleng.com/four-ai-case-study-successes-in-industrial-manufacturing/",
+    "https://www.linkedin.com/posts/profetai_profet-ai-at-taoyuan-smart-industry-academy-activity-7368900595249840129-mwHJ",
+    "https://cloudberrycomms.com/profetai"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Profet AI white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://www.databricks.com/blog/introducing-new-databricks-partner-program-and-well-architected-framework-isvs-and-data",
+    "https://newsroom.servicenow.com/press-releases/details/2026/ServiceNow-enhances-global-Partner-Program-to-accelerate-AI-agent-innovation/default.aspx",
+    "https://www.youtube.com/@resellerrevenue",
+    "https://www.facebook.com/groups/2356868454775088/",
+    "https://play.google.com/store/apps/details?id=com.selfshop.reseller&hl=en-US",
+    "https://blog.vendoo.co/reselling-101-how-to-become-a-reseller-start-making-a-profit"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Profet AI founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/profet-ai-revenue",
+    "https://pitchbook.com/profiles/company/472024-09",
+    "https://rocketreach.co/profet-ai-profile_b7f3b3e7c25db148",
+    "https://www.zoominfo.com/c/profet-ai/556351237",
+    "https://www.crunchbase.com/organization/profet-ai",
+    "https://pitchbook.com/profiles/company/527847-40",
+    "https://tracxn.com/d/companies/profet-ai/__AATb8Bx7Yat8imZriM4cVdHRNQk5j8EY8xAqe-r94OM"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Profet AI",
+   "results": [
+    "https://note.com/bunsekiya_tech/n/ne31a8ebb5261?hl=en",
+    "https://note.com/it_innovation/n/n1131dceeb73e",
+    "https://note.com/nice_camel539/n/n2ff0c5fe79f2?hl=en",
+    "https://note.com/nodeai/n/nea2cdf372b48?hl=en",
+    "https://note.com/steam0101/n/nd9fa5ff9a6c3",
+    "https://note.com/stai/n/n02bbe83ac952",
+    "https://note.com/nodeai/n/nabf6bbcba8fa"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Profet AI",
+   "results": [
+    "https://x.com/profet_ai",
+    "https://x.com/prophetmarketai/status/2067270898470863178",
+    "https://x.com/prophetmarketai/article/2033916407340024276",
+    "https://x.com/prophetmarketai/status/2067226802464952746",
+    "https://x.com/prophetmarketai/status/2049509702308970847",
+    "https://x.com/prophetmarketai/status/2051750158312828954",
+    "https://x.com/prophetmarketai/status/2034635796691460140"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Profet AI",
+   "results": [
+    "https://www.linkedin.com/company/profetai",
+    "https://tw.linkedin.com/in/profet-ai-ab6224294",
+    "https://tw.linkedin.com/in/forster-lin-b3a1a559",
+    "https://cn.linkedin.com/posts/james-yang-841b0aab_不怕老師傅退休了profet-ai-如何把工廠靈魂變成可複製的智慧杰倫智能-activity-7395111336474697729-WulF",
+    "https://pe.linkedin.com/posts/profetai_profetai-smartmanufacturing-aiadoption-activity-7316037235017998336-igno",
+    "https://www.linkedin.com/products/profetai-profet-ai-automl-platform/",
+    "https://jp.linkedin.com/in/kojiro-nomura/en"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Profet AI",
+   "results": [
+    "https://www.facebook.com/ProfetAIishere/",
+    "https://www.facebook.com/ProfetAIishere/posts/1008463771430558/",
+    "https://www.facebook.com/ProfetAIishere/posts/profet-ai-前進檳城from-semiconductor-know-how-to-ai-roi半導體一直是-profet-ai-長期深耕的重要產業這次我/1358379859772279/",
+    "https://www.facebook.com/ProfetAIishere/posts/profet-ai創辦人暨執行長-jerry-huang-製造業現在最大的敵人就是時間謝謝-數位時代-的報導和專訪討論profet-ai如何協助台灣企業ai轉型/980196870923915/",
+    "https://www.facebook.com/ProfetAIishere/posts/想吃下-agentic-ai-變現紅利profet-ai-邀您直擊-computex-2026-製造決策現場年度科技盛事-computex-2026-即將到來全/1305152141761718/",
+    "https://www.facebook.com/ProfetAIishere/posts/️profet-ai-beyond-poc-insight從-demo-到-dollar關鍵在於讓-ai-成為企業的長期能力ai-投資正不斷增加但能真正轉化為生/1147099404233660/",
+    "https://research.facebook.com/blog/2017/2/prophet-forecasting-at-scale/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Profet AI note 社長",
+   "results": [
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.jp/n/ncc37a1d4aa0b",
+    "https://note.com/ceoai15",
+    "https://ja.profetai.com/",
+    "https://profetai.com/about-us/",
+    "https://www.twincn.com/item.aspx?no=42954231",
+    "https://www.linkedin.com/in/aaronkwittken"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Profet AI X 投稿",
+   "results": [
+    "https://x.com/profet_ai",
+    "https://en.profetai.com/",
+    "https://linktr.ee/profet_ai",
+    "https://www.instagram.com/profet.ai/",
+    "https://ja.profetai.com/",
+    "https://x.com/prophetmarketai",
+    "https://techgym.jp/column/x-twitter/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部35頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部35頁・検索12回）"
+ }
+}

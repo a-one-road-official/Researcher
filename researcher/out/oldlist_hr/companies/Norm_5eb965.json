@@ -1,0 +1,1812 @@
+{
+ "name": "Norm",
+ "aliases": [],
+ "context": "旧営業リスト｜Enterprise AI / Compliance Solutions｜AUMS不適合",
+ "researched_at": "2026-11-09T18:03:47.549991+00:00",
+ "official_url": "https://norm.ai",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/norm-ai-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$134,100,000",
+    "url": "https://prospeo.io/c/norm-ai-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Brooklyn, New York, United States",
+    "url": "https://prospeo.io/c/norm-ai-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Norm — AI-native Professional Services",
+    "url": "https://www.norm.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We build AI-native professional services firms and the technology that powers them.",
+    "url": "https://www.norm.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Symbiotic Firms are built from the ground up around humans and AI agents working, learning, and improving together to accomplish far more than either could alone.",
+    "url": "https://www.norm.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The expert professionals directly shape the technology through their work. When their experience reveals a better way for agents and people to coordinate work, we build it into the shared platform. Those improvements accumulate, delivering the firms we power more capabilities that further benefit their clients.",
+    "url": "https://www.norm.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "At Norm, our work shapes both the technology and the business around it. Engineering, research, product, design and operations come together to build the platform, develop new services and change how firms deliver them.",
+    "url": "https://www.norm.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We work alongside the professionals putting those capabilities into practice, with a direct impact on outcomes. That experience helps guide what we build next.",
+    "url": "https://www.norm.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We began by empowering people in high-stakes legal and compliance work, bringing together attorneys and engineers to translate expert judgment into systems designed for demanding institutional environments. Our legal and compliance platform now serves institutions representing more than $35 trillion in combined assets under management.",
+    "url": "https://www.norm.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "That work established the foundation for a broader ambition: building the infrastructure for professional services designed around AI.",
+    "url": "https://www.norm.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Does the productivity promise of The Firm break down with AI agents? It doesn’t have to.",
+    "url": "https://www.norm.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "like this, the people and the AI inextricably depend on, and improve, each other.",
+    "url": "https://www.norm.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Our Mission is to help expert professionals deliver better work at greater scale.",
+    "url": "https://www.norm.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "The reach of expert judgment shapes what businesses can accomplish. We build AI-native firms and the technology that powers them to extend that reach, so clients can investigate risks more deeply, seek specialized advice earlier and undertake work that once demanded prohibitive resources.",
+    "url": "https://www.norm.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Every company has its own unique DNA that defines its culture, values, and approach. Here’s a deeper look into what makes ours:",
+    "url": "https://www.norm.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We step up rather than wait to be asked, follow through on commitments, and proactively solve problems instead of passing them along.",
+    "url": "https://www.norm.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We listen, celebrate each other's contributions, and recognize not just our own wins, but the wins of others. We share credit generously, communicate openly, and approach problems with curiosity and cooperation.",
+    "url": "https://www.norm.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive coverage for you and your dependents, designed to prioritize both everyday care and unexpected needs.",
+    "url": "https://www.norm.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Full reimbursement of state bar fees, supporting your professional standing and ongoing practice.",
+    "url": "https://www.norm.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Associate - Private Equity",
+    "url": "https://www.norm.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Content Marketing Manager",
+    "url": "https://www.norm.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Integrated Marketing Manager",
+    "url": "https://www.norm.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Talent Acquisition Partner",
+    "url": "https://www.norm.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Director of PR & Communications",
+    "url": "https://www.norm.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Norm builds AI-native professional services firms and the technology that powers them.",
+    "url": "https://www.norm.ai/tech",
+    "pass": 1
+   },
+   {
+    "quote": "Developing the firm organically on an AI platform lets us co-design the firm of the future from first principles, without overfitting our platform to how traditional firms operate today.",
+    "url": "https://www.norm.ai/tech",
+    "pass": 1
+   },
+   {
+    "quote": "Our technology connects AI agents with the knowledge, tools and expert direction needed to carry complex assignments forward and provides immediate signal for online learning.",
+    "url": "https://www.norm.ai/tech",
+    "pass": 1
+   },
+   {
+    "quote": "How a professional delegates, corrects, or reviews work reveals both what a good result looks like and the reasoning behind it. We’re developing methods to leverage how agents adapt to individuals and how the firm’s collective experience becomes shared institutional knowledge.",
+    "url": "https://www.norm.ai/tech",
+    "pass": 1
+   },
+   {
+    "quote": "The experts working in the platform own the outcome ultimately returned to a client. As agents take on more work, it’s critical that users understand what work is happening and are able to move naturally between delegating work, monitoring parallel tasks, intervening, and approving actions.",
+    "url": "https://www.norm.ai/tech",
+    "pass": 1
+   },
+   {
+    "quote": "Better agents produce better client work.",
+    "url": "https://www.norm.ai/tech",
+    "pass": 1
+   },
+   {
+    "quote": "Those measures also guide our research into how agents learn from professionals, coordinate complex tasks, and improve through experience. The work of the firm gives technical progress a concrete standard to meet.",
+    "url": "https://www.norm.ai/tech",
+    "pass": 1
+   },
+   {
+    "quote": "We’re hiring engineers to build the multi-agent platform powering AI-native firms. If you want to advance how agents learn from expert judgment and see your work change what an entire firm can accomplish, we want to hear from you.",
+    "url": "https://www.norm.ai/tech",
+    "pass": 1
+   },
+   {
+    "quote": "Material (NORM) in Japan; A Comprehensive Survey of Exposure",
+    "url": "https://www.jstage.jst.go.jp/article/jhps/57/4/57_181/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "processing plant in Japan, Health Phys. , 113, 220 –224",
+    "url": "https://www.jstage.jst.go.jp/article/jhps/57/4/57_181/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "protection and safety of radiation sources: international",
+    "url": "https://www.jstage.jst.go.jp/article/jhps/57/4/57_181/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5) International Commission on Radiological Protection",
+    "url": "https://www.jstage.jst.go.jp/article/jhps/57/4/57_181/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(ICRP); Radiological protection from naturally occurring",
+    "url": "https://www.jstage.jst.go.jp/article/jhps/57/4/57_181/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "radioactive material (NORM) in industrial processes,",
+    "url": "https://www.jstage.jst.go.jp/article/jhps/57/4/57_181/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "of Raw Materials and Products Containing Uranium or",
+    "url": "https://www.jstage.jst.go.jp/article/jhps/57/4/57_181/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Safety Regulation Strategic Promotion Project Funded",
+    "url": "https://www.jstage.jst.go.jp/article/jhps/57/4/57_181/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "radioactivity of bedrock bath instruments and hot spring",
+    "url": "https://www.jstage.jst.go.jp/article/jhps/57/4/57_181/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Japan, Radiat. Prot. Dosim., 167, 135–138 (2015).",
+    "url": "https://www.jstage.jst.go.jp/article/jhps/57/4/57_181/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "168-3-2-2号：A Policy Framework for Managing Naturally Occurring Radioactive Materials(NORM) in Japan: The Radiation Council's Approach （口頭発表）（差替版）",
+    "url": "https://www.da.nsr.go.jp/view/NRA100013112?contents=NRA100013112-002-005",
+    "pass": 3
+   },
+   {
+    "quote": "168-3-2-3号：A Policy Framework for Managing Naturally Occurring Radioactive Materials(NORM) in Japan: The Radiation Council's Approach （ポスター発表）",
+    "url": "https://www.da.nsr.go.jp/view/NRA100013112?contents=NRA100013112-002-005",
+    "pass": 3
+   },
+   {
+    "quote": "is designed to help you master keigo (business Japanese) and improve professional communication skills. Gain the confidence to speak with colleagues and clients, navigate meetings like a native, and open up new career opportunities!",
+    "url": "https://cotoacademy.com/japanese-etiquette-and-cultural-norms/",
+    "pass": 3
+   },
+   {
+    "quote": ", or respectful language, which elevates the status of the listener or a third person and is often used in professional settings through special respectful verbs; and 謙譲語",
+    "url": "https://cotoacademy.com/japanese-etiquette-and-cultural-norms/",
+    "pass": 3
+   },
+   {
+    "quote": "Alongside the verbal expressions of respect, physical gestures like bowing play a significant role. The depth and duration of a bow vary depending on the situation, ranging from a casual nod to a deep bow in more formal or sincere settings.",
+    "url": "https://cotoacademy.com/japanese-etiquette-and-cultural-norms/",
+    "pass": 3
+   },
+   {
+    "quote": "– This is a formal expression used to offer greetings or give your regards.",
+    "url": "https://cotoacademy.com/japanese-etiquette-and-cultural-norms/",
+    "pass": 3
+   },
+   {
+    "quote": "– This phrase is used before leaving a meeting or someone’s presence to politely excuse oneself.",
+    "url": "https://cotoacademy.com/japanese-etiquette-and-cultural-norms/",
+    "pass": 3
+   },
+   {
+    "quote": "Upon entering, you can express your gratitude and respect by saying",
+    "url": "https://cotoacademy.com/japanese-etiquette-and-cultural-norms/",
+    "pass": 3
+   },
+   {
+    "quote": ".” This phrase reflects the Japanese value of humility and appreciation for the warm welcome extended to guests.",
+    "url": "https://cotoacademy.com/japanese-etiquette-and-cultural-norms/",
+    "pass": 3
+   },
+   {
+    "quote": "When presented with a gift during your visit, it’s polite to receive it with both hands and express your thanks. However, it’s considered impolite to open the gift in front of the giver. Instead, wait until later to open and enjoy it.",
+    "url": "https://cotoacademy.com/japanese-etiquette-and-cultural-norms/",
+    "pass": 3
+   },
+   {
+    "quote": "Chopstick etiquette is crucial in Japan. Avoid actions like sticking chopsticks upright in a bowl of rice, as this resembles a funeral ritual. Before starting a meal, it’s customary to say",
+    "url": "https://cotoacademy.com/japanese-etiquette-and-cultural-norms/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese onsens (hot springs) are a haven of tranquillity. Before entering the bath, thoroughly wash and rinse your body. Remember, the water in the bath is for soaking, not for washing. While enjoying the onsen, maintain a peaceful environment and respect others’ space.",
+    "url": "https://cotoacademy.com/japanese-etiquette-and-cultural-norms/",
+    "pass": 3
+   },
+   {
+    "quote": "A common concern among visitors to Japan is the acceptance of tattoos in onsens. Traditionally, many onsens have policies against tattoos, but this is changing. At some onsens, everyone is welcome, regardless of whether they have tattoos. The hot springs are tattoo-friendly, ensuring that all guests can enjoy a relaxing experience.",
+    "url": "https://cotoacademy.com/japanese-etiquette-and-cultural-norms/",
+    "pass": 3
+   },
+   {
+    "quote": "To accommodate guests with tattoos, many onsens provide options for covering them. You can use bandages or tattoo seals (",
+    "url": "https://cotoacademy.com/japanese-etiquette-and-cultural-norms/",
+    "pass": 3
+   },
+   {
+    "quote": "While soaking in the onsen, it’s crucial to maintain a peaceful environment and respect others’ space. Be mindful of noise levels and avoid disturbing fellow bathers. By adhering to these practices, you can fully immerse yourself in the serene atmosphere of Japanese onsens, ensuring a relaxing experience for everyone.",
+    "url": "https://cotoacademy.com/japanese-etiquette-and-cultural-norms/",
+    "pass": 3
+   },
+   {
+    "quote": "While there are jobs in Japan besides English teaching, your options might still be limited. The best way to boost your career prospects in Japan is by improving your Japanese skills!",
+    "url": "https://cotoacademy.com/japanese-etiquette-and-cultural-norms/",
+    "pass": 3
+   },
+   {
+    "quote": "Why not take Japanese lessons at Coto Academy and open more doors for your career? With locations in Shibuya, Yokohama, and online, our classes are designed to fit the busy schedules of working professionals. Discover how we can help you achieve your Japanese language goals. If you’re unsure where to start, we offer a free Japanese level check to guide you on the right path.",
+    "url": "https://cotoacademy.com/japanese-etiquette-and-cultural-norms/",
+    "pass": 3
+   },
+   {
+    "quote": "Learning and trying out the protocols is a fun way to experience cultural Japan",
+    "url": "https://www.japan.travel/en/guide/understanding-and-mastering-japanese-manners-and-etiquette/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan has many culturally unique social customs and forms of showing respect. While instinctive to most Japanese people, things like taking off shoes or bowing can feel like a whole new world for the unaccustomed traveler. Although not expected to become a master, learning the basic etiquette and protocols can be part of a rich travel experience and a great way to interact with local people.",
+    "url": "https://www.japan.travel/en/guide/understanding-and-mastering-japanese-manners-and-etiquette/",
+    "pass": 3
+   },
+   {
+    "quote": "In general, Japanese people are less prone to body contact during everyday interactions. This goes for kisses, hugs, and handshakes used as greetings, as well as other public displays of affection. While body contact is not totally frowned upon, keep an eye on how others around you are interacting to get an idea of the level of intimacy expected.",
+    "url": "https://www.japan.travel/en/guide/understanding-and-mastering-japanese-manners-and-etiquette/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by institutions managing over",
+    "url": "https://www.norm.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "processing plant in Japan, Health Phys. , 113, 220 –224",
+    "url": "https://www.jstage.jst.go.jp/article/jhps/57/4/57_181/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "radioactive material (NORM) in industrial processes,",
+    "url": "https://www.jstage.jst.go.jp/article/jhps/57/4/57_181/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "in zirconium refractory plants in Japan, Health Phys., 104,",
+    "url": "https://www.jstage.jst.go.jp/article/jhps/57/4/57_181/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "nonmetallic industrial raw materials in Japan, J. Environ.",
+    "url": "https://www.jstage.jst.go.jp/article/jhps/57/4/57_181/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Root Cause Analysis Examples: 5 Manufacturing Case Studies Walked Through - PPAP Documents | Production Part Approval Process",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Root Cause Analysis Examples: 5 Manufacturing Case Studies Walked Through",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Root cause analysis is best understood through real scenarios. This article walks through five manufacturing case studies: a dimensional nonconformance, a repeat customer complaint, a machine breakdown, an incoming material failure, and an audit finding. Each example shows the investigation process from problem identification through corrective action.",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study 1: Dimensional Nonconformance on a Machined Component",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "A Tier 2 automotive supplier receives a customer rejection for a machined aluminum housing. The bore diameter on 340 parts measures 25.12 to 25.18 mm against a specification of 25.00 +/- 0.05 mm. All rejected parts were produced during second shift on a single CNC machining center over a two-day period.",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Why was the counter not set? The second-shift setup operator was not trained on the counter reset procedure. First-shift operators had been handling this task, and the procedure was passed informally rather than documented.",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Revise the setup work instruction to include the counter reset step with visual aids. Retrain all operators on all shifts. Add counter verification to the startup checklist. Update the PFMEA to reflect the tool life management risk and the new control.",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study 2: Repeat Customer Complaint on Cosmetic Defects",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study 3: Recurring Machine Breakdown",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Replace the fatigued spring immediately. Add wire feed assembly spring replacement to the PM schedule at an interval consistent with the manufacturer’s recommendation. Review all similar welding robots to verify their PM schedules include this component. Add a feed tension check to the weekly operator maintenance checklist as a secondary control.",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study 4: Incoming Material Failure",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study 5: Internal Audit Finding on Document Control",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "A root cause analysis example walks through a real or realistic problem scenario showing the investigation method, the chain of cause and effect, the systemic root cause identified, and the corrective action implemented. The case studies above demonstrate this process across five common manufacturing situations.",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "What is the most common root cause in manufacturing?",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Can these examples be adapted for non-manufacturing environments?",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. The investigation structure (define the problem, contain the damage, analyze the cause, implement corrective action, verify effectiveness) applies to any industry. Replace the manufacturing-specific details with your process context and the methodology works the same way.",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Stay Current on Automotive Quality",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "How to Build a Lean Culture in an Automotive Manufacturing Plant",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Lean Manufacturing Tools: The 10 Most Effective Techniques for the Shop Floor",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Norm Case Study | 20% Faster In-Plant Logistics with VEGA-X",
+    "url": "https://www.threadinmotion.com/case-studies/norm-holding/",
+    "pass": 3
+   },
+   {
+    "quote": "Hands-free, faster warehouse flows",
+    "url": "https://www.threadinmotion.com/case-studies/norm-holding/",
+    "pass": 3
+   },
+   {
+    "quote": "Norm Enhanced In-Plant Logistics with VEGA-X",
+    "url": "https://www.threadinmotion.com/case-studies/norm-holding/",
+    "pass": 3
+   },
+   {
+    "quote": "Norm enhanced in-plant logistics and assembly feeding processes with VEGA-X integrated into the existing software infrastructure. Hands-free workflows, simultaneous barcode scanning, and real-time validation strengthened operational execution.",
+    "url": "https://www.threadinmotion.com/case-studies/norm-holding/",
+    "pass": 3
+   },
+   {
+    "quote": "\"Stellantis advanced manufacturing workflows with VEGA wearable technology integrated through LoRa connectivity. Real-time part verification and multi-sensory feedback improved operational traceability across assembly processes.\"",
+    "url": "https://www.threadinmotion.com/case-studies/norm-holding/",
+    "pass": 3
+   },
+   {
+    "quote": "Lactalis Elevated Warehouse Precision with VEGA-X and AI",
+    "url": "https://www.threadinmotion.com/case-studies/norm-holding/",
+    "pass": 3
+   },
+   {
+    "quote": "\"Lactalis improved warehouse operations with VEGA-X smart gloves integrated with Axata WMS for bidirectional real-time data flow. TIM FLOW and TIM PERFORM platforms optimized workflows and operational visibility across logistics processes.\"",
+    "url": "https://www.threadinmotion.com/case-studies/norm-holding/",
+    "pass": 3
+   },
+   {
+    "quote": "\"Çimsa enabled real-time inventory synchronization and traceability with TIM INVENTORY integrated with SAP systems. VEGA-X wearable technology digitized warehouse workflows with hands-free operations.\"",
+    "url": "https://www.threadinmotion.com/case-studies/norm-holding/",
+    "pass": 3
+   },
+   {
+    "quote": "Trusted by the world’s",
+    "url": "https://www.threadinmotion.com/case-studies/norm-holding/",
+    "pass": 3
+   },
+   {
+    "quote": "Girvin Case Study: Norm Thompson Outfitters – Norm Thompson Outfitters - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/girvin/case-study/norm-thompson-outfitters-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Norm Thompson Outfitters - Customer Case Study",
+    "url": "https://www.casestudies.com/company/girvin/case-study/norm-thompson-outfitters-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Norm Thompson Outfitters used Girvin",
+    "url": "https://www.casestudies.com/company/girvin/case-study/norm-thompson-outfitters-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Open case study document...",
+    "url": "https://www.casestudies.com/company/girvin/case-study/norm-thompson-outfitters-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/girvin/case-study/norm-thompson-outfitters-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "For example, there may have been a problem with the test procedure, issues related to analytical equipment or test methods, or quality issues originating from the manufacturing process.",
+    "url": "https://note.com/modern_plover406/n/n13683aa8155c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "5. Case Study 1: What to do when an out-of-specification result occurs?",
+    "url": "https://note.com/modern_plover406/n/n13683aa8155c?hl=en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Talent Acquisition Partner",
+    "url": "https://www.norm.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Our technology connects AI agents with the knowledge, tools and expert direction needed to carry complex assignments forward and provides immediate signal for online learning.",
+    "url": "https://www.norm.ai/tech",
+    "pass": 1
+   },
+   {
+    "quote": ",” but carries the same meaning as “",
+    "url": "https://cotoacademy.com/japanese-etiquette-and-cultural-norms/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan has many culturally unique social customs and forms of showing respect. While instinctive to most Japanese people, things like taking off shoes or bowing can feel like a whole new world for the unaccustomed traveler. Although not expected to become a master, learning the basic etiquette and protocols can be part of a rich travel experience and a great way to interact with local people.",
+    "url": "https://www.japan.travel/en/guide/understanding-and-mastering-japanese-manners-and-etiquette/",
+    "pass": 3
+   },
+   {
+    "quote": "If you carry a phone, keep it on silent mode and avoid speaking on it. If in doubt, just follow the locals.",
+    "url": "https://www.japan.travel/en/guide/understanding-and-mastering-japanese-manners-and-etiquette/",
+    "pass": 3
+   },
+   {
+    "quote": "Moving to Japan is exciting, but navigating the social landscape can feel overwhelming at first. Japanese culture operates on a complex web of unspoken rules, expectations, and customs that have developed over centuries. Understanding these norms isn't just about avoiding embarrassment — it's the key to building genuine relationships, thriving in the workplace, and truly feeling at home in Japan.",
+    "url": "https://japanlivinglife.com/articles/japanese-social-customs-expectations-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Understanding these values helps explain why certain behaviors that seem perfectly normal elsewhere can feel jarring to Japanese people. It's not about rigid rules for their own sake — it's about maintaining collective harmony.",
+    "url": "https://japanlivinglife.com/articles/japanese-social-customs-expectations-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Chopstick etiquette in Japan carries significant cultural weight, particularly around customs associated with funeral rituals:",
+    "url": "https://japanlivinglife.com/articles/japanese-social-customs-expectations-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese trains are extraordinarily punctual — an average delay of one minute is apologized for over the intercom. Arrive early and know your route in advance.",
+    "url": "https://japanlivinglife.com/articles/japanese-social-customs-expectations-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Arrive early, use proper keigo",
+    "url": "https://japanlivinglife.com/articles/japanese-social-customs-expectations-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Arriving exactly on time",
+    "url": "https://japanlivinglife.com/articles/japanese-social-customs-expectations-guide",
+    "pass": 3
+   },
+   {
+    "quote": "— In Japan, on time means 5-10 minutes early. Arrive at the scheduled time and you're already late by local standards.",
+    "url": "https://japanlivinglife.com/articles/japanese-social-customs-expectations-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Understanding Japanese social customs takes time, patience, and a willingness to observe and adapt. Approach each new situation with curiosity and respect, and you'll find that Japan's social customs are not a barrier — they're a doorway into one of the world's most thoughtful and rewarding cultures.",
+    "url": "https://japanlivinglife.com/articles/japanese-social-customs-expectations-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Cultural Barriers to Friendship in Japan and How to Overcome Them",
+    "url": "https://japanlivinglife.com/articles/japanese-social-customs-expectations-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Discover the key cultural barriers to making friends in Japan — from uchi-soto dynamics to tatemae — and get practical strategies to build genuine Japanese friendships as a foreigner.",
+    "url": "https://japanlivinglife.com/articles/japanese-social-customs-expectations-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Complete guide to joining sports clubs and teams in Japan as a foreigner. Find expat-friendly clubs, understand costs, navigate language barriers, and build your social life through sport.",
+    "url": "https://japanlivinglife.com/articles/japanese-social-customs-expectations-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Part Submission Warrant (PSW)",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Carrefour Scaled Retail Logistics with VEGA-X and AI",
+    "url": "https://www.threadinmotion.com/case-studies/norm-holding/",
+    "pass": 3
+   },
+   {
+    "quote": "\"Carrefour enhanced logistics visibility with VEGA-X smart gloves integrated into SAP infrastructure for hands-free workflows. TIM FLOW and TIM PERFORM platforms optimized operational data, workflows, and workforce planning.\"",
+    "url": "https://www.threadinmotion.com/case-studies/norm-holding/",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/554358-07",
+    "pass": 3
+   },
+   {
+    "quote": "Norm Ai has 204 total employees.",
+    "url": "https://pitchbook.com/profiles/company/554358-07",
+    "pass": 3
+   },
+   {
+    "quote": "What is Norm Ai’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/554358-07",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Norm Ai is",
+    "url": "https://pitchbook.com/profiles/company/554358-07",
+    "pass": 3
+   },
+   {
+    "quote": "Norm Ai Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/norm-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Norm Ai",
+    "url": "https://prospeo.io/c/norm-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/norm-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/norm-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/norm-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Norm Ai?",
+    "url": "https://prospeo.io/c/norm-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Norm Ai generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/norm-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/norm-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/norm-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Norm Ai have?",
+    "url": "https://prospeo.io/c/norm-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/norm-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "The match was at Toyama's home, YKK AP ARENA. The venue on the other side of the screen carried over the local atmosphere that had been heating up since that morning with the prefectural qualifying finals of the Junior Winter Cup.",
+    "url": "https://note.com/fukki_/n/n3dba374ac915?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Toyama bench was in an uproar. A pass they thought would reach its target by going over him was snatched away, and they were scored on instead. It was only two points, but that steal carried a declaration: \"We've read your 'norm'.\"",
+    "url": "https://note.com/fukki_/n/n3dba374ac915?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "NORM株式会社 ｜世界最高品質サプリメントをアスリートと共に",
+    "url": "https://www.norm-inc.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "日本代表選手を含む、多くのプロアスリートに対して、血液検査を行い、結果を参考にしながら、NORM所属の管理栄養士よりフィードバック、サプリメントの摂取スケジュールのご提案や、食事アドバイスなどを行う、TOTAL PERFORMANCE SUPPORTです",
+    "url": "https://www.norm-inc.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ベトナムと日本は、廃棄物を資源に転換するための解決策を模索している",
+    "url": "https://www.vietnam.vn/ja/viet-nam-nhat-ban-tim-giai-phap-bien-chat-thai-thanh-tai-nguyen",
+    "pass": 3
+   },
+   {
+    "quote": "原子力委員会（JAEC）、東京工業大学、東京大学、およびVRECと共同で、「循環型経済と資源価値向上を通じた安全かつ持続可能なNORM管理に向けて」をテーマとした科学セミナーを開催した",
+    "url": "https://www.vietnam.vn/ja/viet-nam-nhat-ban-tim-giai-phap-bien-chat-thai-thanh-tai-nguyen",
+    "pass": 3
+   },
+   {
+    "quote": "科学技術省は、ベトナムと日本の科学者および専門家間の広範な協力が、これらの方向性をベトナムで効果的に実施できる適切な技術的解決策へと変換するのに役立つと期待している",
+    "url": "https://www.vietnam.vn/ja/viet-nam-nhat-ban-tim-giai-phap-bien-chat-thai-thanh-tai-nguyen",
+    "pass": 3
+   },
+   {
+    "quote": "伊藤直樹駐ベトナム日本国総大使がセミナーで講演した",
+    "url": "https://www.vietnam.vn/ja/viet-nam-nhat-ban-tim-giai-phap-bien-chat-thai-thanh-tai-nguyen",
+    "pass": 3
+   },
+   {
+    "quote": "代表団は、ベトナムと日本の科学者が科学技術省の支援を受けながら、緊密かつ継続的な協力関係を築き、技術的、経済的、環境的な課題に段階的に取り組んでいく必要性を強調した",
+    "url": "https://www.vietnam.vn/ja/viet-nam-nhat-ban-tim-giai-phap-bien-chat-thai-thanh-tai-nguyen",
+    "pass": 3
+   },
+   {
+    "quote": "それを踏まえ、セミナーでは、放射線安全を確保し、元素回収効率を向上させるための技術的解決策を開発するために、ベトナム原子力研究所と日本の科学者との間で長期的な協力関係を構築することが議論され、提案された",
+    "url": "https://www.vietnam.vn/ja/viet-nam-nhat-ban-tim-giai-phap-bien-chat-thai-thanh-tai-nguyen",
+    "pass": 3
+   },
+   {
+    "quote": "Material (NORM) in Japan; A Comprehensive Survey of Exposure",
+    "url": "https://www.jstage.jst.go.jp/article/jhps/57/4/57_181/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Honcho, Hirosaki-shi, Aomori 036–8564, Japan.",
+    "url": "https://www.jstage.jst.go.jp/article/jhps/57/4/57_181/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "8555, Japan.",
+    "url": "https://www.jstage.jst.go.jp/article/jhps/57/4/57_181/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Iwakicho, *oshogawara-shi, Aomori 037–0074, Japan.",
+    "url": "https://www.jstage.jst.go.jp/article/jhps/57/4/57_181/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "processing plant in Japan, Health Phys. , 113, 220 –224",
+    "url": "https://www.jstage.jst.go.jp/article/jhps/57/4/57_181/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(in Japanese). Available at: https://www.mext.go.jp/",
+    "url": "https://www.jstage.jst.go.jp/article/jhps/57/4/57_181/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese). Available at: https://www.mext.go.jp/b_menu/",
+    "url": "https://www.jstage.jst.go.jp/article/jhps/57/4/57_181/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(in Japanese). Available at: https://www.nra.go.jp/",
+    "url": "https://www.jstage.jst.go.jp/article/jhps/57/4/57_181/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "instruments in Japan, J. Radioanal. Nucl. Chem. , 295,",
+    "url": "https://www.jstage.jst.go.jp/article/jhps/57/4/57_181/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "coverings in Japan, Health Phys., 104, 41–50 (2013).",
+    "url": "https://www.jstage.jst.go.jp/article/jhps/57/4/57_181/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "in zirconium refractory plants in Japan, Health Phys., 104,",
+    "url": "https://www.jstage.jst.go.jp/article/jhps/57/4/57_181/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "nonmetallic industrial raw materials in Japan, J. Environ.",
+    "url": "https://www.jstage.jst.go.jp/article/jhps/57/4/57_181/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Japan, Radiat. Prot. Dosim., 167, 135–138 (2015).",
+    "url": "https://www.jstage.jst.go.jp/article/jhps/57/4/57_181/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "168-3-2-2号：A Policy Framework for Managing Naturally Occurring Radioactive Materials(NORM) in Japan: The Radiation Council's Approach （口頭発表）（差替版）",
+    "url": "https://www.da.nsr.go.jp/view/NRA100013112?contents=NRA100013112-002-005",
+    "pass": 3
+   },
+   {
+    "quote": "168-3-2-3号：A Policy Framework for Managing Naturally Occurring Radioactive Materials(NORM) in Japan: The Radiation Council's Approach （ポスター発表）",
+    "url": "https://www.da.nsr.go.jp/view/NRA100013112?contents=NRA100013112-002-005",
+    "pass": 3
+   },
+   {
+    "quote": "原子力規制委員会（東京都港区六本木1丁目9-9六本木ファーストビル）13階A会議室",
+    "url": "https://www.da.nsr.go.jp/view/NRA100013112?contents=NRA100013112-002-005",
+    "pass": 3
+   },
+   {
+    "quote": "NORMA JEAN (日本のバンド) - Wikipedia",
+    "url": "https://ja.wikipedia.org/wiki/NORMA_JEAN_(%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%90%E3%83%B3%E3%83%89)",
+    "pass": 3
+   },
+   {
+    "quote": "イカ天キングの4週目での敗北は、NORMA JEANが最初に勝利した宮尾すすむと日本の社長など数例があったが、グランドイカ天キング獲得のかかった5週目での敗北は初めてであった",
+    "url": "https://ja.wikipedia.org/wiki/NORMA_JEAN_(%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%90%E3%83%B3%E3%83%89)",
+    "pass": 3
+   },
+   {
+    "quote": "その後、1990年1月1日の『輝く!日本イカ天大賞』に出場した",
+    "url": "https://ja.wikipedia.org/wiki/NORMA_JEAN_(%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%90%E3%83%B3%E3%83%89)",
+    "pass": 3
+   },
+   {
+    "quote": "2006年7月22日、東京のライブハウスの",
+    "url": "https://ja.wikipedia.org/wiki/NORMA_JEAN_(%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%90%E3%83%B3%E3%83%89)",
+    "pass": 3
+   },
+   {
+    "quote": "https://ja.wikipedia.org/w/index.php?title=NORMA_JEAN_(日本のバンド)&oldid=111644266",
+    "url": "https://ja.wikipedia.org/wiki/NORMA_JEAN_(%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%90%E3%83%B3%E3%83%89)",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Etiquette and Cultural Norms",
+    "url": "https://cotoacademy.com/japanese-etiquette-and-cultural-norms/",
+    "pass": 3
+   },
+   {
+    "quote": "Want to Boost Your Career in Japan? Take Japanese Lessons at Coto Academy",
+    "url": "https://cotoacademy.com/japanese-etiquette-and-cultural-norms/",
+    "pass": 3
+   },
+   {
+    "quote": "Want to fast-track your career in Japan?",
+    "url": "https://cotoacademy.com/japanese-etiquette-and-cultural-norms/",
+    "pass": 3
+   },
+   {
+    "quote": "3-month Business Japanese Course",
+    "url": "https://cotoacademy.com/japanese-etiquette-and-cultural-norms/",
+    "pass": 3
+   },
+   {
+    "quote": "is designed to help you master keigo (business Japanese) and improve professional communication skills. Gain the confidence to speak with colleagues and clients, navigate meetings like a native, and open up new career opportunities!",
+    "url": "https://cotoacademy.com/japanese-etiquette-and-cultural-norms/",
+    "pass": 3
+   },
+   {
+    "quote": "Join 3-month Business Japanese Course",
+    "url": "https://cotoacademy.com/japanese-etiquette-and-cultural-norms/",
+    "pass": 3
+   },
+   {
+    "quote": "Central to Japanese culture is",
+    "url": "https://cotoacademy.com/japanese-etiquette-and-cultural-norms/",
+    "pass": 3
+   },
+   {
+    "quote": "Understanding and correctly using these forms of keigo can be challenging, but mastering them is seen as a sign of cultural fluency and respect in Japan.",
+    "url": "https://cotoacademy.com/japanese-etiquette-and-cultural-norms/",
+    "pass": 3
+   },
+   {
+    "quote": "Some examples of useful phrases for mastering Japanese interaction:",
+    "url": "https://cotoacademy.com/japanese-etiquette-and-cultural-norms/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan is known for its serene and orderly public life. Silence is golden in public transportation, and it’s common to see people speaking quietly on their phones or refraining from phone calls altogether. Also, unlike many Western cultures, eating or drinking while walking is generally frowned upon, as it is seen as a distraction from the respectful enjoyment of food.",
+    "url": "https://cotoacademy.com/japanese-etiquette-and-cultural-norms/",
+    "pass": 3
+   },
+   {
+    "quote": "When entering a Japanese home, it’s customary to remove your shoes, symbolising leaving the outside world behind.",
+    "url": "https://cotoacademy.com/japanese-etiquette-and-cultural-norms/",
+    "pass": 3
+   },
+   {
+    "quote": ".” This phrase reflects the Japanese value of humility and appreciation for the warm welcome extended to guests.",
+    "url": "https://cotoacademy.com/japanese-etiquette-and-cultural-norms/",
+    "pass": 3
+   },
+   {
+    "quote": "Additionally, during your visit, you’ll likely be offered tea or a small snack. It’s customary to accept these offerings as a sign of politeness and to engage in light conversation with your host. Showing respect, gratitude, and humility are key aspects of Japanese social customs when visiting someone’s home.",
+    "url": "https://cotoacademy.com/japanese-etiquette-and-cultural-norms/",
+    "pass": 3
+   },
+   {
+    "quote": "In Japan, business cards, or",
+    "url": "https://cotoacademy.com/japanese-etiquette-and-cultural-norms/",
+    "pass": 3
+   },
+   {
+    "quote": "Chopstick etiquette is crucial in Japan. Avoid actions like sticking chopsticks upright in a bowl of rice, as this resembles a funeral ritual. Before starting a meal, it’s customary to say",
+    "url": "https://cotoacademy.com/japanese-etiquette-and-cultural-norms/",
+    "pass": 3
+   },
+   {
+    "quote": "How to avoid and overcome culture shock in Japan",
+    "url": "https://cotoacademy.com/japanese-etiquette-and-cultural-norms/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese onsens (hot springs) are a haven of tranquillity. Before entering the bath, thoroughly wash and rinse your body. Remember, the water in the bath is for soaking, not for washing. While enjoying the onsen, maintain a peaceful environment and respect others’ space.",
+    "url": "https://cotoacademy.com/japanese-etiquette-and-cultural-norms/",
+    "pass": 3
+   },
+   {
+    "quote": "A common concern among visitors to Japan is the acceptance of tattoos in onsens. Traditionally, many onsens have policies against tattoos, but this is changing. At some onsens, everyone is welcome, regardless of whether they have tattoos. The hot springs are tattoo-friendly, ensuring that all guests can enjoy a relaxing experience.",
+    "url": "https://cotoacademy.com/japanese-etiquette-and-cultural-norms/",
+    "pass": 3
+   },
+   {
+    "quote": "While soaking in the onsen, it’s crucial to maintain a peaceful environment and respect others’ space. Be mindful of noise levels and avoid disturbing fellow bathers. By adhering to these practices, you can fully immerse yourself in the serene atmosphere of Japanese onsens, ensuring a relaxing experience for everyone.",
+    "url": "https://cotoacademy.com/japanese-etiquette-and-cultural-norms/",
+    "pass": 3
+   },
+   {
+    "quote": "If you’re exploring Japan and looking for tattoo-friendly onsen options, consider visiting other welcoming locations. Several onsens across Japan are open to guests with tattoos, allowing everyone to partake in this quintessential Japanese experience. For a broader exploration of Japan during your stay, you can find more suggestions and information on",
+    "url": "https://cotoacademy.com/japanese-etiquette-and-cultural-norms/",
+    "pass": 3
+   },
+   {
+    "quote": "While there are jobs in Japan besides English teaching, your options might still be limited. The best way to boost your career prospects in Japan is by improving your Japanese skills!",
+    "url": "https://cotoacademy.com/japanese-etiquette-and-cultural-norms/",
+    "pass": 3
+   },
+   {
+    "quote": "Why not take Japanese lessons at Coto Academy and open more doors for your career? With locations in Shibuya, Yokohama, and online, our classes are designed to fit the busy schedules of working professionals. Discover how we can help you achieve your Japanese language goals. If you’re unsure where to start, we offer a free Japanese level check to guide you on the right path.",
+    "url": "https://cotoacademy.com/japanese-etiquette-and-cultural-norms/",
+    "pass": 3
+   },
+   {
+    "quote": "Find Your Japanese Level in 30 Minutes",
+    "url": "https://cotoacademy.com/japanese-etiquette-and-cultural-norms/",
+    "pass": 3
+   },
+   {
+    "quote": "Understanding and Mastering Japanese Manners and Etiquette | Guide | Travel Japan - Japan National Tourism Organization (Official Site)",
+    "url": "https://www.japan.travel/en/guide/understanding-and-mastering-japanese-manners-and-etiquette/",
+    "pass": 3
+   },
+   {
+    "quote": "Planning a Trip to Japan?",
+    "url": "https://www.japan.travel/en/guide/understanding-and-mastering-japanese-manners-and-etiquette/",
+    "pass": 3
+   },
+   {
+    "quote": "Share your travel photos with us by hashtagging your images with #visitjapanjp",
+    "url": "https://www.japan.travel/en/guide/understanding-and-mastering-japanese-manners-and-etiquette/",
+    "pass": 3
+   },
+   {
+    "quote": "Understanding and Mastering Japanese Manners and Etiquette",
+    "url": "https://www.japan.travel/en/guide/understanding-and-mastering-japanese-manners-and-etiquette/",
+    "pass": 3
+   },
+   {
+    "quote": "Learning and trying out the protocols is a fun way to experience cultural Japan",
+    "url": "https://www.japan.travel/en/guide/understanding-and-mastering-japanese-manners-and-etiquette/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan has a unique culture and customs, such as taking off shoes when entering inside. Public baths, onsens, and pools have various rules about what clothing or items are allowed.",
+    "url": "https://www.japan.travel/en/guide/understanding-and-mastering-japanese-manners-and-etiquette/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan has many culturally unique social customs and forms of showing respect. While instinctive to most Japanese people, things like taking off shoes or bowing can feel like a whole new world for the unaccustomed traveler. Although not expected to become a master, learning the basic etiquette and protocols can be part of a rich travel experience and a great way to interact with local people.",
+    "url": "https://www.japan.travel/en/guide/understanding-and-mastering-japanese-manners-and-etiquette/",
+    "pass": 3
+   },
+   {
+    "quote": "In general, Japanese people are less prone to body contact during everyday interactions. This goes for kisses, hugs, and handshakes used as greetings, as well as other public displays of affection. While body contact is not totally frowned upon, keep an eye on how others around you are interacting to get an idea of the level of intimacy expected.",
+    "url": "https://www.japan.travel/en/guide/understanding-and-mastering-japanese-manners-and-etiquette/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "# Corresponding author; E-mail: yamada.ryohei@hirosaki-u.ac.jp",
+    "url": "https://www.jstage.jst.go.jp/article/jhps/57/4/57_181/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Why were the revisions not distributed to this workstation? Because the document control coordinator distributed revisions via email to supervisors, and this supervisor did not print and replace the document at the workstation.",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "The document control distribution process does not include a verification step to confirm that updated documents have been received and posted at the workstation. The process relies entirely on email distribution to supervisors without a feedback loop.",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Save my name, email, and website in this browser for the next time I comment.",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "info@threadinmotion.com",
+    "url": "https://www.threadinmotion.com/case-studies/norm-holding/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/554358-07",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/norm-ai-revenue",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "NORM株式会社 ｜世界最高品質サプリメントをアスリートと共に — Norm株式会社（ノーム株式会社）の公式ホームページです。 サプリメントの開発・販売しております。 専属の管理栄養士が独自の検査を元にあなたに最適なサプリメントを提供します。",
+    "url": "https://www.norm-inc.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ベトナムと日本は、廃棄物を資源に転換するための解決策を模索してい... — 4 days ago · 2026年11月5日、ベトナム原子力研究所は、 日本 原子力委員会（JAEC）、東京工業大学、東京大学、およびVRECと共同で、「循環型経済と資源価値向上を通じた安全かつ持続可能なNORM管理に向けて」をテーマとした科学セミナーを開催した。 このセミナーでは、NORM廃棄物を安全に管理するという ...",
+    "url": "https://www.vietnam.vn/ja/viet-nam-nhat-ban-tim-giai-phap-bien-chat-thai-thanh-tai-nguyen",
+    "pass": 3
+   },
+   {
+    "quote": "57-4 - J-STAGE — したがって, NORM に対する放射線防護では, すでに高濃度の NORM が報告されていることから規制管理方法の検討を行うとともに, 不足している被ばく実態の把握についても並行して進めることが重要である。わが国では, ある一定量を超える NORM に対しては「核 ...",
+    "url": "https://www.jstage.jst.go.jp/article/jhps/57/4/57_181/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "[N-ADRES]第168回放射線審議会総会 令和7年9月29日 — 168-3-2-3号：A Policy Framework for Managing Naturally Occurring Radioactive Materials (NORM) in Japan: The Radiation Council's Approach （ポスター発表） 参考資料1：放射線審議会 第167回総会議事録 参考資料2：放射線障害防止の技術的基準に関する法律",
+    "url": "https://www.da.nsr.go.jp/view/NRA100013112?contents=NRA100013112-002-005",
+    "pass": 3
+   },
+   {
+    "quote": "NORMA JEAN (日本のバンド) — NORMA JEAN（ノーマ・ジーン）は、主に1990年代前期に活躍していた日本のガールズバンド。バンド名はマリリン・モンローの本名に因んでいる。いわゆるイカ天出身バンドの一つである。アメリカのメタルコアバンド、ノーマ・ジーンとは別のバンドである。",
+    "url": "https://ja.wikipedia.org/wiki/NORMA_JEAN_(日本のバンド)",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Etiquette and Cultural Norms - Coto Academy — Feb 9, 2024 · Want to know more about Japanese culture, tradition, onsen etiquette, and more? Check out our guide to Japanese etiquette.",
+    "url": "https://cotoacademy.com/japanese-etiquette-and-cultural-norms/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Social Customs & Expectations: A Guide for ... — Mar 4, 2026 · Learn essential Japanese social customs, etiquette rules, and cultural expectations for foreigners living in Japan. From bowing to dining, workplace norms to onsen etiquette — understand Japan's social culture.",
+    "url": "https://japanlivinglife.com/articles/japanese-social-customs-expectations-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Norm Case Study | 20% Faster In-Plant Logistics with VEGA-X — Discover how Norm optimized in-plant logistics with VEGA-X. Achieve 20% faster operations, 100% accuracy, and hands-free assembly feeding through real-time ERP and WMS integration.",
+    "url": "https://www.threadinmotion.com/case-studies/norm-holding/",
+    "pass": 3
+   },
+   {
+    "quote": "NORM HOLDING SUCCESS STORY — Norm Holding - A top 5 fastener manufacturer in Europe, operating 20 global production centers with 4,000+ employees. Supplying the automotive and white-goods sectors requires absolute precision through Just-in-Sequence (JIS) logistics.",
+    "url": "https://www.threadinmotion.com/hubfs/Case+Studies+EN/Norm+Holding+Success+Story+EN.pdf?hsLang=en",
+    "pass": 3
+   },
+   {
+    "quote": "Norm Thompson Outfitters - Customer Case Study — Norm Thompson Outfitters partnered with Girvin (Design) to solve key challenges. \"Norm Thompson Outfitters - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/girvin/case-study/norm-thompson-outfitters-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "From Manual to Masterful: How to Transform CNC Machining ...Vander Brand Case Study: Norm Li – Norm Li - Customer Case ...Revolutionizing Manufacturing: How Norm Additive used ... — Jul 16, 2025 · Discover how Norm Tooling revolutionized its precision machining operations by integrating FANUC's advanced CNC solutions. Faced with the challenge of reducing manual intervention while... Norm Li (Archi",
+    "url": "https://www.youtube.com/watch?v=0y3zgk3elQg",
+    "pass": 3
+   },
+   {
+    "quote": "Norm Ai – Business Snapshot & Rival Analysis – 2026 — Discover Norm Ai's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/norm-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Norm Ai 2026 Company Profile: Valuation, Funding & Investors ...Norm Ai - 2026 Company Profile, Team, Funding & Competitors ...Norm Ai Revenue, Funding & Valuation - prospeo.ioLegal AI startup Norm Ai hits $1.2 billion valuation after ...Norm Ai raises $120M at $1.2B valuation - New York Business ...Norm Ai - Products, Competitors, Financials, Employees ... — Information on valuation, funding, cap",
+    "url": "https://pitchbook.com/profiles/company/554358-07",
+    "pass": 3
+   },
+   {
+    "quote": "Norm Ai - 2026 Company Profile, Team, Funding & Competitors ... — Mar 7, 2026 · Norm Ai - About the company Norm Ai is a series B company based in New York City (United States), founded in 2023 by John J Nay. It operates as a Provider of AI agents for legal and regulatory compliance workflows. Norm Ai has raised $147M in funding from Coatue and Blackstone.",
+    "url": "https://tracxn.com/d/companies/normai/__AWbkwAgzQVganjRmyYq578QqI6qYxPCqaW5g-ilPZGA",
+    "pass": 3
+   },
+   {
+    "quote": "Norm Ai Revenue, Funding & Valuation - prospeo.ioLegal AI startup Norm Ai hits $1.2 billion valuation after ...Norm Ai raises $120M at $1.2B valuation - New York Business ...Norm Ai - Products, Competitors, Financials, Employees ... — Norm Ai has raised a total of $134,100,000 across 4 funding rounds. This investment has helped the company grow and expand its operations. Norm Ai has revenue of $9,",
+    "url": "https://prospeo.io/c/norm-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Legal AI startup Norm Ai hits $1.2 billion valuation after ... — Jul 7, 2026 · Norm Ai said on Tuesday it had raised $120 million in a Series C funding round led by Khosla Ventures, valuing the legal AI startup at $1.2 billion.",
+    "url": "https://www.reuters.com/technology/legal-ai-startup-norm-ai-hits-12-billion-valuation-after-120-million-funding-2026-07-07/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Episode 11: The Man Who Breaks the Norm - note（ノート） In the middle of that norm, an extraordinary record was born. Dai opened his notebook. Dolphins 93-80 Toyama. A familiar group of faces, and an extraordinary record. He added a small note. It was Saito who broke Toyama's norm. The next game is Monday night, November 9th. An away game against the formidable Gunma. It looks like it will be a hot ..",
+    "url": "https://note.com/fukki_/n/n3dba374ac915?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "How to Act When Test Results Differ from the Norm: The Basics ... 3 days ago · How to Act When Test Results Differ from the Norm: The Basics of OOS and OOT, and the Importance of Reporting and Consultation",
+    "url": "https://note.com/modern_plover406/n/n13683aa8155c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "After Being Told I Was 'Not Normal' Due to Truancy, My ... 18 hours ago · However, if fitting too much into the frame of 'normal' lowers one's happiness compared to a state of not caring about 'normal,' then I believe it is meaningful to pursue one's own individuality, even if it means stepping out of the norm a little. If, as a result of pursuing one's individuality, one fits into the norm, that ",
+    "url": "https://note.com/hutoko_view/n/n239379843921?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "レイヤー正規化とは｜澁谷直樹 - note（ノート） Apr 23, 2025 · 言語モデルで使われるレイヤー正規化（Layer Normalization）は、学習の安定性を高めるための手法です。訓練中にデータの分布（平均や標準偏差）が大きく変動することを防ぎ、学習を安定かつ効率的に進めることができます。 この目的は、画像処理でよく使われるバッチ正規化（Batch Normalization ...",
+    "url": "https://note.com/kikaben/n/nda0d7a609f88",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Episode 11: The Man Who Breaks the Norm｜FU",
+    "url": "https://note.com/fukki_/n/n3dba374ac915?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Episode 11: The Man Who Breaks the Norm",
+    "url": "https://note.com/fukki_/n/n3dba374ac915?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Dolphins 93-80 Toyama. A familiar group of faces, and an extraordinary record.",
+    "url": "https://note.com/fukki_/n/n3dba374ac915?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Saturday, November 7th. Rittō (the beginning of winter).",
+    "url": "https://note.com/fukki_/n/n3dba374ac915?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "When Dai opened the door to \"Red Moon,\" he felt a little strange.",
+    "url": "https://note.com/fukki_/n/n3dba374ac915?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "No one had said, \"Let's meet today.\" Yet, the seats were already starting to fill up. Kubota was in the back by the counter, opening his laptop. Aoi had already finished ordering her drink, and Misaki had naturally secured the seat with the best view of the screen.",
+    "url": "https://note.com/fukki_/n/n3dba374ac915?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"Oh, D-san. Over here, over here.\"",
+    "url": "https://note.com/fukki_/n/n3dba374ac915?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Misaki waved. She didn't apologize, nor did she seem surprised. Dai put his bag down and sat in his usual seat.",
+    "url": "https://note.com/fukki_/n/n3dba374ac915?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[3rd QC Introduction Training] How to act when test results are different from usual - Basics of OOS/OOT and the importance of reporting and consultation -｜Pharma_opaさん",
+    "url": "https://note.com/modern_plover406/n/n13683aa8155c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[3rd QC Introduction Training] How to act when test results are different from usual - Basics of OOS/OOT and the importance of reporting and consultation -",
+    "url": "https://note.com/modern_plover406/n/n13683aa8155c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Introduction: Is it really okay to say, \"It's within specifications, so it's fine\"?",
+    "url": "https://note.com/modern_plover406/n/n13683aa8155c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A new employee recently assigned to the Quality Control (QC) department of a pharmaceutical company is in charge of an assay for a certain drug.",
+    "url": "https://note.com/modern_plover406/n/n13683aa8155c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In this test, the amount of active ingredient contained in the product is measured.",
+    "url": "https://note.com/modern_plover406/n/n13683aa8155c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Typical test results are generally around 99–101%.",
+    "url": "https://note.com/modern_plover406/n/n13683aa8155c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "However, today's test result was 95.2%.",
+    "url": "https://note.com/modern_plover406/n/n13683aa8155c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The product specification is 95.0–105.0%.",
+    "url": "https://note.com/modern_plover406/n/n13683aa8155c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "How my relationship with 'normal' changed after being told I was 'not normal' while skipping school｜ほし｜不登校から自分と社会を考える",
+    "url": "https://note.com/hutoko_view/n/n239379843921?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "How my relationship with 'normal' changed after being told I was 'not normal' while skipping school",
+    "url": "https://note.com/hutoko_view/n/n239379843921?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I have been told that truancy is not normal.",
+    "url": "https://note.com/hutoko_view/n/n239379843921?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In my previous article, \"",
+    "url": "https://note.com/hutoko_view/n/n239379843921?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "From Feeling Ashamed of Truancy to Taking 'Pride' in It",
+    "url": "https://note.com/hutoko_view/n/n239379843921?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\", I wrote about how I stopped going to school in the first grade and how I eventually came to take pride in that experience. This time, I would like to broaden my perspective and write about what I have thought regarding the concept of \"normal\".",
+    "url": "https://note.com/hutoko_view/n/n239379843921?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Am I wrong for not being able to do things like those around me? Today, I believe that being outside the norm is not wrong. However, I did not always think that way. When I was truant, I was just doing my best to survive, and I didn't feel that I was wrong, nor did I feel that I was right. I couldn't distinguish between the two.",
+    "url": "https://note.com/hutoko_view/n/n239379843921?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I believe that \"normal\" is something like an \"average score\" standardized within society across various phenomena. When you deviate from that, you are labeled as not normal, and there is a sense of being viewed as slightly peculiar.",
+    "url": "https://note.com/hutoko_view/n/n239379843921?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "（Layer Normalization）は、",
+    "url": "https://note.com/kikaben/n/nda0d7a609f88",
+    "pass": 3
+   },
+   {
+    "quote": "ための手法です。訓練中にデータの分布（平均や標準偏差）が大きく変動することを防ぎ、学習を安定かつ効率的に進めることができます。",
+    "url": "https://note.com/kikaben/n/nda0d7a609f88",
+    "pass": 3
+   },
+   {
+    "quote": "（Batch Normalization）と共通しています。しかし、バッチ正規化はバッチ全体で平均と分散を計算するため、入力データごとに",
+    "url": "https://note.com/kikaben/n/nda0d7a609f88",
+    "pass": 3
+   },
+   {
+    "quote": "シーケンス長が異なる自然言語処理（NLP）のようなタスクには適していません",
+    "url": "https://note.com/kikaben/n/nda0d7a609f88",
+    "pass": 3
+   },
+   {
+    "quote": "そこでこの記事では、まずバッチ正規化について簡単に紹介し、次にレイヤー正規化がどのようにそれを補う役割を果たしているのかを解説します。",
+    "url": "https://note.com/kikaben/n/nda0d7a609f88",
+    "pass": 3
+   },
+   {
+    "quote": "最後まで読むとこの表の意味がはっきりと理解できるようになっています。",
+    "url": "https://note.com/kikaben/n/nda0d7a609f88",
+    "pass": 3
+   },
+   {
+    "quote": "バッチ正規化は、ニューロンの出力（活性化）に対して、",
+    "url": "https://note.com/kikaben/n/nda0d7a609f88",
+    "pass": 3
+   },
+   {
+    "quote": "を行う手法です。これにより、出力が平均0・標準偏差1の分布になるよう調整され、学習が安定しやすくなります。さらに、正規化された値にはスケール",
+    "url": "https://note.com/kikaben/n/nda0d7a609f88",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Norm (@normativeai) / X In their latest piece for @FortuneMagazine, Norm Ai CEO John Nay and Former SEC Commissioner Troy A. Paredes explore encoding regulations into AI systems to better serve the public interest.",
+    "url": "https://x.com/normativeai",
+    "pass": 3
+   },
+   {
+    "quote": "Norm Eisen (@NormEisen) / X Norm Eisen 32K posts Norm Eisen @NormEisen Sr. Fellow @ brookingsgov, Co-Founder of @ DDAction_ & Co-Founder of The Contrarian contrarian.substack.com. Posts with \"TN\" are from Team Norm Washington, DC Joined October 2013",
+    "url": "https://x.com/NormEisen",
+    "pass": 3
+   },
+   {
+    "quote": "The New Norm Show (@XNewNorm) / X YOU can now be IN The New Norm with Norm and Chaz! 🤯 Yes, actually INSIDE the show. Just upload your photo, tell us what you want to happen, and watch yourself become part of the madness. 💀 We're LIVE on GLITCH Get in here 👇",
+    "url": "https://x.com/XNewNorm",
+    "pass": 3
+   },
+   {
+    "quote": "Norm (@Normonfun) / X Norm mainly checks for painted charts and bundles, most coins correct 95%+ even if they aren't a pure rug or fake chart. Norm just helps detecting fake charts for normies!",
+    "url": "https://x.com/Normonfun",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Norm Ai - LinkedIn Norm Ai | 16,167 followers on LinkedIn. AI Powered Professional Services | AI Powered Professional Services",
+    "url": "https://www.linkedin.com/company/normative-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Norm Laudermilch - Clifton, Virginia, United States ...Norman Johnston - London Area, United Kingdom | Professional ...Norm Maamary - Associate General Counsel, APAC at Fluence ...Norm Jones - Senior Consultant -Radison Group International ...Norm Dimmell - President - Emera Newfoundland & Labrador ...Norm Cappell - Investor. Fintech founder. Debt market veteran ... Location: Clifton · 500+ connec",
+    "url": "https://www.linkedin.com/in/norm911",
+    "pass": 3
+   },
+   {
+    "quote": "Norman Johnston - London Area, United Kingdom | Professional ...Norm Maamary - Associate General Counsel, APAC at Fluence ...Norm Jones - Senior Consultant -Radison Group International ...Norm Dimmell - President - Emera Newfoundland & Labrador ...Norm Cappell - Investor. Fintech founder. Debt market veteran ... Experience: SharpEnd · Location: London Area, United Kingdom · 500+ connections on Lin",
+    "url": "https://uk.linkedin.com/in/normjohnston",
+    "pass": 3
+   },
+   {
+    "quote": "Norm Maamary - Associate General Counsel, APAC at Fluence ...Norm Jones - Senior Consultant -Radison Group International ...Norm Dimmell - President - Emera Newfoundland & Labrador ...Norm Cappell - Investor. Fintech founder. Debt market veteran ... Associate General Counsel, APAC at Fluence · Experience: Fluence · Education: University of Sydney · Location: Greater Sydney Area · 500+ connections ",
+    "url": "https://au.linkedin.com/in/normmaamary",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "NORMS Restaurants - FacebookNational Organization of Rheumatology Management - NORMThe NORM Bangkok | Bang Rak - FacebookNorm's Eatery & Alehouse | Seattle WA - FacebookNorm+ | Phnom Penh - FacebookNorm Lewis - FacebookNORMS Restaurants | Van Nuys CA - Facebook NORMS Restaurants. 99,580 followers · 583 talking about this · 63,273 were here. Where Life Happens.® Oct 19, 2026 · Thank you to everyone",
+    "url": "https://www.facebook.com/normsrestaurants/",
+    "pass": 3
+   },
+   {
+    "quote": "National Organization of Rheumatology Management - NORMThe NORM Bangkok | Bang Rak - FacebookNorm's Eatery & Alehouse | Seattle WA - FacebookNorm+ | Phnom Penh - FacebookNorm Lewis - FacebookNORMS Restaurants | Van Nuys CA - Facebook Oct 19, 2026 · Thank you to everyone who joined us in New Orleans and helped make the 2026 NORM Annual Conference such a success! We loved seeing so many familiar fac",
+    "url": "https://www.facebook.com/NORMGroup/",
+    "pass": 3
+   },
+   {
+    "quote": "The NORM Bangkok | Bang Rak - Facebook The NORM Bangkok, Bang Rak. 1,127 followers · 150 talking about this · 2,848 were here. Here, You Belong \"The NORM\"",
+    "url": "https://www.facebook.com/thenormbkk/",
+    "pass": 3
+   },
+   {
+    "quote": "Norm's Eatery & Alehouse | Seattle WA - Facebook Mar 24, 2022 · Norm's Eatery & Alehouse, Seattle. 3,944 likes · 20,403 were here. Seattle's favorite dog and family friendly eatery and bar. Tasty food, great beer and...",
+    "url": "https://www.facebook.com/p/Norms-Eatery-Alehouse-100063526092093/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.norm.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.norm.ai/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.norm.ai/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.norm.ai/tech",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.norm-inc.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vietnam.vn/ja/viet-nam-nhat-ban-tim-giai-phap-bien-chat-thai-thanh-tai-nguyen",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jstage.jst.go.jp/article/jhps/57/4/57_181/_pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.da.nsr.go.jp/view/NRA100013112?contents=NRA100013112-002-005",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/contract/basic/8378/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/NORMA_JEAN_(%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%90%E3%83%B3%E3%83%89)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cotoacademy.com/japanese-etiquette-and-cultural-norms/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan.travel/en/guide/understanding-and-mastering-japanese-manners-and-etiquette/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japanlivinglife.com/articles/japanese-social-customs-expectations-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.threadinmotion.com/case-studies/norm-holding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.threadinmotion.com/hubfs/Case+Studies+EN/Norm+Holding+Success+Story+EN.pdf?hsLang=en",
+    "status": "http_404",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.casestudies.com/company/girvin/case-study/norm-thompson-outfitters-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.tenable.com/partners/channel-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/norm-ai",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/554358-07",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/normai/__AWbkwAgzQVganjRmyYq578QqI6qYxPCqaW5g-ilPZGA",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://prospeo.io/c/norm-ai-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/fukki_/n/n3dba374ac915?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/modern_plover406/n/n13683aa8155c?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hutoko_view/n/n239379843921?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kikaben/n/nda0d7a609f88",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/normativeai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/NormEisen",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/XNewNorm",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Normonfun",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/normative-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/norm911",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/normjohnston",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://au.linkedin.com/in/normmaamary",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/normsrestaurants/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/NORMGroup/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/thenormbkk/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Norms-Eatery-Alehouse-100063526092093/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Norm 日本 導入",
+   "results": [
+    "https://www.norm-inc.jp/",
+    "https://www.vietnam.vn/ja/viet-nam-nhat-ban-tim-giai-phap-bien-chat-thai-thanh-tai-nguyen",
+    "https://www.jstage.jst.go.jp/article/jhps/57/4/57_181/_pdf",
+    "https://www.da.nsr.go.jp/view/NRA100013112?contents=NRA100013112-002-005",
+    "https://response.jp/article/2026/03/24/409037.html",
+    "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j18.pdf",
+    "https://response.jp/article/2026/03/25/409095.html",
+    "https://fansvoice.jp/2026/09/10/normal-release/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Norm 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://taimen-eigyo.com/words/so-dairiten/",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://office-tree.jp/blog/legal-documents/sales-agency-agreement-writing/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Norm Japan",
+   "results": [
+    "https://ja.wikipedia.org/wiki/NORMA_JEAN_(日本のバンド)",
+    "https://cotoacademy.com/japanese-etiquette-and-cultural-norms/",
+    "https://www.japan.travel/en/guide/understanding-and-mastering-japanese-manners-and-etiquette/",
+    "https://japanlivinglife.com/articles/japanese-social-customs-expectations-guide",
+    "https://www.norm-inc.jp/",
+    "https://www.worldculturepost.com/2026/03/japanese-society-structure.html",
+    "https://www.norman.co.jp/",
+    "https://www.britannica.com/place/Japan/Daily-life-and-social-customs"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Norm manufacturing customer case study",
+   "results": [
+    "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "https://www.threadinmotion.com/case-studies/norm-holding/",
+    "https://www.threadinmotion.com/hubfs/Case+Studies+EN/Norm+Holding+Success+Story+EN.pdf?hsLang=en",
+    "https://www.casestudies.com/company/girvin/case-study/norm-thompson-outfitters-customer-case-study",
+    "https://www.youtube.com/watch?v=0y3zgk3elQg",
+    "https://www.casestudies.com/company/vander-brand/case-study/norm-li-customer-case-study",
+    "https://www.autodesk.com/support/partners/success-stories/revolutionizing-manufacturing-how-norm-additive-used-autodesk-generative-design-to-transform-a-five-part-system-into-a-light-weight-masterpiece/10650"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Norm white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://www.tenable.com/partners/channel-partner-program",
+    "https://www.seoreseller.com/",
+    "https://partners.spectrum.com/",
+    "https://www.canva.com/partners/reseller/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Norm founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/norm-ai",
+    "https://pitchbook.com/profiles/company/554358-07",
+    "https://tracxn.com/d/companies/normai/__AWbkwAgzQVganjRmyYq578QqI6qYxPCqaW5g-ilPZGA",
+    "https://prospeo.io/c/norm-ai-revenue",
+    "https://www.reuters.com/technology/legal-ai-startup-norm-ai-hits-12-billion-valuation-after-120-million-funding-2026-07-07/",
+    "https://www.bizjournals.com/newyork/news/2026/07/07/legal-ai-startup-hits-12b-valuation.html",
+    "https://www.cbinsights.com/company/norm-ai"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Norm",
+   "results": [
+    "https://note.com/fukki_/n/n3dba374ac915?hl=en",
+    "https://note.com/modern_plover406/n/n13683aa8155c?hl=en",
+    "https://note.com/hutoko_view/n/n239379843921?hl=en",
+    "https://note.com/kikaben/n/nda0d7a609f88",
+    "https://note.com/hiraoka9421/n/n7002c2f5ca53",
+    "https://note.com/ai_powered_biz/n/n5e533e016ad1"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 6
+  },
+  {
+   "query": "site:x.com Norm",
+   "results": [
+    "https://x.com/normativeai",
+    "https://x.com/NormEisen",
+    "https://x.com/XNewNorm",
+    "https://x.com/Normonfun",
+    "https://x.com/normmacdonald",
+    "https://x.com/normofnorth",
+    "https://x.com/normposter"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Norm",
+   "results": [
+    "https://www.linkedin.com/company/normative-ai",
+    "https://www.linkedin.com/in/norm911",
+    "https://uk.linkedin.com/in/normjohnston",
+    "https://au.linkedin.com/in/normmaamary",
+    "https://ca.linkedin.com/in/norm-cappell",
+    "https://cr.linkedin.com/in/norm-jones-8724103a",
+    "https://ca.linkedin.com/in/norm-dimmell-97930131"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Norm",
+   "results": [
+    "https://www.facebook.com/normsrestaurants/",
+    "https://www.facebook.com/NORMGroup/",
+    "https://www.facebook.com/thenormbkk/",
+    "https://www.facebook.com/p/Norms-Eatery-Alehouse-100063526092093/",
+    "https://www.facebook.com/normpharmacy/",
+    "https://www.facebook.com/OfficialNormLewis/",
+    "https://www.facebook.com/NORMSVanNuys/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Norm note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Norm X 投稿",
+   "results": [
+    "https://blog.csdn.net/weixin_29192365/article/details/166527620",
+    "https://docs.tia.siemens.cloud/r/simatic_s7_1200_manual_collection_enus_20/basic-instructions/conversion-operations/scale_x-scale-and-norm_x-normalize",
+    "https://www.10100.com/article/121215475",
+    "https://blog.csdn.net/sinat_36001828/article/details/123685413",
+    "https://www.bilibili.com/video/BV17g4y1i7Dd/",
+    "https://x.com/normtopology/status/2109607656897819010",
+    "https://x.com/normtopology/status/2113980956742918241"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部40頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部40頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部40頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部40頁・検索12回）"
+ }
+}

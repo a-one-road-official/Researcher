@@ -1,0 +1,2206 @@
+{
+ "name": "情報源の利害を問う読み方（利害当事者の予測・監視団体や調査会社の事業上の動機・4-131）",
+ "en": "source interest bias stakeholder forecast verification analyst",
+ "aliases": [
+  "情報源 利害 検証",
+  "利害当事者 予測 鵜呑み",
+  "source motive bias intelligence analysis"
+ ],
+ "context": "手法・出どころ",
+ "kind": "market",
+ "researched_at": "2026-11-09T17:43:50.303609+00:00",
+ "evidence": {
+  "手順・やり方": [
+   {
+    "quote": "しかし、多くの人はこの「情報の信頼性を見極める方法」について体系的に学ぶ機会がありません",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "この記事では、情報の信頼性を判断するための具体的な基準と方法について、一般的には語られないポイントも含めて詳しく解説します",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2. 透明性: 情報の出所と方法論の開示",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "信頼できる情報源は、情報の出所や収集方法、分析手法などを明確に開示しています",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、調査結果を報告する際には、サンプルサイズ、調査方法、調査期間、誤差範囲などの基本的な情報が明記されているべきです",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "情報のファクトチェック：プロが実践する3ステップ",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "情報の信頼性を確認するための実践的な方法として、プロのジャーナリストや研究者が日常的に行っているファクトチェックの手法を紹介します",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ステップ1：一次情報へのさかのぼり",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ステップ2：複数の独立した情報源による交差検証",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ステップ3：批判的思考による分析",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3. サンプルサイズや研究方法は適切か",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ここでは、情報リテラシーを効果的に高めるための具体的な方法を紹介します",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "デジタル技術の発展により、情報の生成・拡散の方法は劇的に変化しています",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "特にAIの発達により、従来の情報評価の方法だけでは不十分になりつつあります",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ここでは、デジタル時代特有の「情報の罠」とその回避方法について解説します",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ニュース情報源を増やす方法：情報の出どころで整理するリストの作り方 - FoneClaw",
+    "url": "https://www.foneclaw.ai/ja/diversify-news-sources.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "方法、対象、条件、限界を見る",
+    "url": "https://www.foneclaw.ai/ja/diversify-news-sources.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "一方、記事Eには、接続方法、音量設定、試した環境、観察の限界を明示した独自テストがあるとします",
+    "url": "https://www.foneclaw.ai/ja/diversify-news-sources.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "代表の記事から関連リンクとして残し、読む頻度だけ下げる方法があります",
+    "url": "https://www.foneclaw.ai/ja/diversify-news-sources.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば週に一度15分を取り、一つのテーマと直近の数項目だけを点検する方法を提案します",
+    "url": "https://www.foneclaw.ai/ja/diversify-news-sources.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "リストを見直して「発売後の独自検証をまだ読めていない」などの不足が残ったら、私たちのFoneClawカスタムニュースで、そのテーマを継続して追う方法があります",
+    "url": "https://www.foneclaw.ai/ja/diversify-news-sources.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2. 判断・実行の手順",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "この補講では、発信元・時期・対象・数値を照合する方法を、具体例と独自の確認問題で練習します",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "このページは、検索した情報の根拠を確認する手順を扱います",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "一次情報でも発信者の利害や調査方法を確認し、二次情報は元資料までたどります",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "発信者、更新日、根拠、対象範囲、調査方法、訂正履歴を確認する",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "検索語を追加・除外し、目的の情報源へ絞る方法を選ぶ",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "選択肢を読むときは、用語だけでなく、目的に合う行動、条件を満たす手順、誤りの原因を確認します",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "提出期限が近い場合は、確かめられた別の資料に絞り、調べた範囲を明記する方法があります",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "二つの割合を比べる際には、質問文や回答方法、対象学年、調査期間が同じかも確認します",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "グラフの色や大きな文字よりも、注記や集計方法へ戻る作業が先です",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "別々の調査が同じ結果でも、双方の方法に似た偏りがあるかもしれません",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "元の調査票と集計条件を確かめ、必要なら別の方法で集められた資料を探します",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "資料の数を誇張せず、分かった範囲と調査方法の限界を説明するのが適切です",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "学習上の相談なら、個人を特定する情報を載せず、確認したい論点だけを先生や保護者に説明する方法を考えてください",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "調査方法、対象範囲、更新日、利害、誤りや訂正の有無を確認します",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "例えば、医療情報を調べる場合、医師や医学研究者による情報と、特定の商品を販売するためのマーケティングサイトによる情報では、信頼性に大きな差があります",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、調査結果を報告する際には、サンプルサイズ、調査方法、調査期間、誤差範囲などの基本的な情報が明記されているべきです",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、特定の製品についての情報を調べる場合、その製品のメーカーが直接提供している情報と、独立した消費者団体や第三者機関による評価では、客観性に大きな違いがあります",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、政治的な報道において、政権交代や支持率の変動に関わらず、同じ基準で批判的検証を行っているメディアは信頼性が高いと言えます",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、社会問題についての報道では、様々な利害関係者や専門家の意見を幅広く取り上げ、読者が多角的に問題を理解できるよう配慮しているかどうかが重要です",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、AIや機械学習の分野では、数ヶ月で新たな手法やモデルが登場し、従来の「ベストプラクティス」が書き換えられることがあります",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、「ある研究によると〜」という記事を読んだ場合、その研究論文自体を確認することで、記事の解釈が正確かどうかを判断できます",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、ある企業の業績に関する情報を調査する場合、その企業の公式発表だけでなく、独立したアナリストのレポート、業界団体の統計、競合他社との比較データなど、異なる視点からの情報を収集して検証することで、より正確な全体像を把握できます",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、「製品Aを使用した100人中95人が効果を実感！」という広告を見た場合、サンプルの選び方、「効果」の定義、比較対象（プラセボ効果の考慮）などを検討することで、この主張の信頼性をより適切に評価できます",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、経済ニュースを追う場合、保守系と革新系のメディア、国内と海外のメディア、そして専門家のコラムや学術的な経済分析など、複数の視点から情報を収集することで、より立体的な理解が可能になります",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、テクノロジー分野であれば、速報性に優れたニュースサイト、詳細な分析を提供する専門メディア、実務者の知見が得られる技術ブログ、学術的裏付けのある研究論文など、目的に応じた情報源のポートフォリオを構築しておくと効率的です",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "1. プライベートブラウジングや異なるブラウザを使用して検索結果を比較する",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、ある社会問題について調査する場合、自分の普段使用するアカウントでの検索結果と、プライベートブラウジングモードでの検索結果を比較することで、パーソナライズの影響を把握できます",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、SNSで大量のシェアを集めている衝撃的なニュースに接した場合、即座に反応する前に、複数の信頼できる情報源でその内容を確認し、全体の文脈を理解することが重要です",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "6. 記述的リサーチ：統計データ、市場調査レポート、アンケート結果",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "FoneClawカスタムニュースは、残った疑問を追う補助として使い、結果の出典を実際に開いて確認してください",
+    "url": "https://www.foneclaw.ai/ja/diversify-news-sources.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば「ワイヤレススピーカーについて、発表内容と実際の使用条件の違いを追いたい」という目的を仮に置きます",
+    "url": "https://www.foneclaw.ai/ja/diversify-news-sources.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "挙げた確認先は役割の例であり、特定の媒体を調査して評価した結果ではありません",
+    "url": "https://www.foneclaw.ai/ja/diversify-news-sources.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば週に一度15分を取り、一つのテーマと直近の数項目だけを点検する方法を提案します",
+    "url": "https://www.foneclaw.ai/ja/diversify-news-sources.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "「この記述は発表からの引用か、独自に確認した結果か」と追加質問し、判明した情報をリストへ戻します",
+    "url": "https://www.foneclaw.ai/ja/diversify-news-sources.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "通信やAndroidのバックグラウンド制限で遅れる場合があるため、指定時刻の結果を前提にしないでください",
+    "url": "https://www.foneclaw.ai/ja/diversify-news-sources.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "練習ケース1：去年の延期案内が今日届いた",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "練習ケース2：回答者の8割は、全員の8割か",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "練習ケース3：三つの記事と一つの調査",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "検索結果の順位だけで信用せず、根拠までたどる",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "この講の問い：検索結果の一番上に表示されたページは、最も正しい情報なのか",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "検索結果やAIの回答を見つけたら、内容を読んで終わらず、その主張を支える資料までたどります",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "記事が調査結果を紹介しているなら、記事同士を数えるのではなく同じ調査票・集計表へ戻ります",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "本稿のケースは、その授業の転載ではなく、家庭でも判断の理由を言葉にするために作った練習です",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "元資料が調査予定を告知しているだけなら、実施済みの結果として書くこともできません",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ケース1の判断過程を見る",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ケース2の計算と、言える範囲を見る",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "別々の調査が同じ結果でも、双方の方法に似た偏りがあるかもしれません",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "反対に結果が違う場合には、直ちにどちらかを誤りとせず、時期・地域・対象者・質問の意味を比べます",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ケース3の理由と次の行動を見る",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "表現が一致するのは、同じ資料を使った結果かもしれません",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "同様に、特定の政治団体や業界団体から資金提供を受けている研究機関は、その支援者に有利な結論を導き出す傾向があるかもしれません",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2. 引用されている研究や統計の年代：古いデータに基づいた結論は現在の状況を正確に反映していない可能性がある",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ステップ1：一次情報へのさかのぼり",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "信頼性を確認するためには、可能な限り「一次情報」まで遡ることが重要です",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "4. 統計データの場合は、政府機関や研究機関の公式発表を参照",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、ある企業の業績に関する情報を調査する場合、その企業の公式発表だけでなく、独立したアナリストのレポート、業界団体の統計、競合他社との比較データなど、異なる視点からの情報を収集して検証することで、より正確な全体像を把握できます",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "1. 情報源同士が独立していることを確認（同じ一次情報を引用しているだけではない）",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "6. 記述的リサーチ：統計データ、市場調査レポート、アンケート結果",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、ある業界の将来性を評価する場合、市場調査レポートの統計データ（定量）、業界リーダーへのインタビュー（定性）、学術研究の予測（理論）など、異なる種類の情報を組み合わせることで、より立体的な理解が可能になります",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "7. 一次情報源は何か？： 可能であれば元の情報源まで遡れるか",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3. 可能な限り一次情報源まで遡る",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "主張を一文に分け、発信者・根拠・日付・一次情報・別資料との一致を確認し、確認できないときは『不明』のまま拡散しないことが情報評価の基本です",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "一次情報でも発信者の利害や調査方法を確認し、二次情報は元資料までたどります",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "URLの末尾や見た目だけで公的機関のページだと判断する",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "同じ一次情報を転載した複数記事を、独立した複数根拠として数える",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "古い統計や切り取られたグラフを、現在や別の集団へそのまま当てはめる",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "一次情報と二次情報、事実と意見、相関と因果を区別する",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "賛成側の語だけでなく反対側の語、正式名称、旧名称、統計名、PDF、調査主体名でも探すと、同じ主張を別方向から確かめられます",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "画像は逆画像検索や撮影時期・場所の手掛かり、統計は分母・定義・欠測、グラフは軸・切断・比較期間まで確認します",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "① 報告書が一次情報、ニュース記事が二次情報である",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "② ニュース記事が一次情報、報告書が二次情報である",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "当事者・制度所管機関・原研究が直接公表したものが一次情報、それを報道・解説・要約したものが二次情報です",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "二次情報を読んだら元資料までたどるのが原則で、一次情報であっても発信者の利害や調査方法の確認は必要です",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "共通テスト・情報関係基礎・私大の問題と正解 64本のPDF",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "このページの内容を1つのPDFにまとめました",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "このページの問題・解答解説（PDF・7ページ）",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "過去に誤った情報を訂正せずに放置しているメディアや、センセーショナルな見出しで内容を歪めて伝える傾向のある情報源には注意が必要です",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3. 独立性と利益相反: 隠れたバイアスを見抜く",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "逆に、その時々の「人気のある意見」に合わせて論調を変えるような情報源は注意が必要です",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "また、過去の誤りに対する対応も重要な指標です",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "また、自分の既存の信念や価値観に合致する情報だけを選択的に受け入れる「確証バイアス」に陥らないよう、意識的に多様な情報源からの情報を取り入れることも大切です",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "収集した情報を鵜呑みにせず、批判的思考を用いて分析することが重要です",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2. 各情報源の特性（強み・弱み・バイアスの傾向）を記録する",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ここでは、デジタル時代特有の「情報の罠」とその回避方法について解説します",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "アルゴリズムバイアス：「パーソナライズされた真実」の危険性",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "4. 相違点については、その理由を分析する（情報源のバイアス、時間的変化、文脈の違いなど）",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "それぞれの情報源が持つ限界やバイアスを相互に補完することで、単一の情報源に依存するよりも信頼性の高い結論を導き出せます",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "4. 情報源に利益相反はないか？：経済的インセンティブやイデオロギー的バイアスの可能性",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "9. デジタル時代特有の情報の罠（ディープフェイク、アルゴリズムバイアス、情報のゲーミフィケーション）に注意する",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "発表文を使っていること自体は、情報が誤りだという意味ではありません",
+    "url": "https://www.foneclaw.ai/ja/diversify-news-sources.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "4. 間違いやすいポイント",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "正しいか誤りかの二択を急ぎ、未確認という結論を避ける",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "選択肢を読むときは、用語だけでなく、目的に合う行動、条件を満たす手順、誤りの原因を確認します",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "誤りの有無を、文章の丁寧さや回答の自信で決めないようにします",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "反対に結果が違う場合には、直ちにどちらかを誤りとせず、時期・地域・対象者・質問の意味を比べます",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ただし「元資料が一つだから内容は誤り」とも言えません",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "調査方法、対象範囲、更新日、利害、誤りや訂正の有無を確認します",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "訂正履歴が公開されていることは、誤りがない証明ではなく、修正可能性を示す材料です",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "② 正しいか誤りかの二択で無理にでも判断を下す",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "政府広報オンライン インターネット上の偽情報や誤情報にご注意",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "例えば、政治的な報道において、政権交代や支持率の変動に関わらず、同じ基準で批判的検証を行っているメディアは信頼性が高いと言えます",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3. 最新の関連情報との整合性：その後に発表された研究や情報と矛盾していないか確認する",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ステップ2：複数の独立した情報源による交差検証",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、ある企業の業績に関する情報を調査する場合、その企業の公式発表だけでなく、独立したアナリストのレポート、業界団体の統計、競合他社との比較データなど、異なる視点からの情報を収集して検証することで、より正確な全体像を把握できます",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3. 当初の予測や分析がどの程度的中したかを検証する",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "4. 技術的検証：可能であれば、メタデータの確認やフォレンジック分析を行う",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "1. 強い感情反応を引き起こす情報に対しては特に慎重に検証する",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "情報の統合と批判的分析：「三角測量」アプローチ",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "複数の情報源から得られた情報を効果的に統合し、より信頼性の高い結論を導き出すための「三角測量」アプローチを紹介します",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "8. 他の信頼できる情報源でも確認できるか？：複数の独立した情報源による交差検証",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "4. 複数の独立した情報源による交差検証を行う",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "8. 情報の事後検証（フォローアップ）を習慣づける",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "掲載日、更新日、元資料の日付を照合する",
+    "url": "https://www.foneclaw.ai/ja/diversify-news-sources.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ただし、発表側の主張を別の媒体が繰り返しただけなら、独立した検証が加わったとは数えません",
+    "url": "https://www.foneclaw.ai/ja/diversify-news-sources.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "公表側の説明であり、実使用の独立検証とは限らない",
+    "url": "https://www.foneclaw.ai/ja/diversify-news-sources.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "リストを見直して「発売後の独自検証をまだ読めていない」などの不足が残ったら、私たちのFoneClawカスタムニュースで、そのテーマを継続して追う方法があります",
+    "url": "https://www.foneclaw.ai/ja/diversify-news-sources.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "依頼の例は「ワイヤレススピーカーの新製品について、発表以外の独自検証と、公開された技術資料の更新を朝に確認したい」です",
+    "url": "https://www.foneclaw.ai/ja/diversify-news-sources.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "資料や検証記事が必ず見つかる保証もありません",
+    "url": "https://www.foneclaw.ai/ja/diversify-news-sources.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "この補講では、発信元・時期・対象・数値を照合する方法を、具体例と独自の確認問題で練習します",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "情報の信頼性はサイト全体の雰囲気ではなく、検証したい主張ごとに、誰が・いつ・何を根拠に述べたかを確かめます",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "検索したいテーマを、検証可能な一つの主張へ分ける",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "偽・誤情報を拡散しないための検証順序を並べる",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "同省の情報モラル教育の実践例でも、生成映像を扱う際に、出典や公式発表を照合してから共有する学習が紹介されています",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "自分が最初に信じた結論に合う資料だけを選ばず、食い違いの理由を言えるかを確認してください",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "記事全体へ一つの信頼度を付けるのではなく、検証したい文を一つずつ取り出し、その文を支えるデータや原文があるかを確認します",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "順位を決める仕組みと、内容の検証を分けます",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/hanseatic_league/n/nac30a2f038e5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kagawatomo/n/n9c0f3f62dcfa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/you_829_koji/n/n87d6e0d8c273",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tanabata_lab/n/n426e18637415",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/44310_morikawa/n/n94e83d3320b7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sayurusky/n/nef69c22ccff7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/egao_it/n/n371643a25ab6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/expwakui/n/n2655f8188777",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://e-words.jp/w/%E6%83%85%E5%A0%B1%E6%BA%90.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/fumika_pen7/n/n2bab96eaaf42",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kotobank.jp/word/%E6%83%85%E5%A0%B1%E6%BA%90-533297",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.weforum.org/stories/health-and-healthcare-systems/tackling-covid-19-misinformation-who",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/Journalism/comments/17hhtbz/how_to_verify_sources/?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.foneclaw.ai/ja/diversify-news-sources.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/hakusho-kids/safety/point/information/information_02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eleschool-compass.com/school-matching/shinbun/words/rieki-sohan.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.josai.ac.jp/josai_lab/1469/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www-cycle.nies.go.jp/magazine/kenkyu/201606.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.weblio.jp/content/%E6%83%85%E5%A0%B1%E6%BA%90",
+    "status": "http_500",
+    "method": "http"
+   },
+   {
+    "url": "https://www.obc.co.jp/360/list/post277",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%83%85%E5%A0%B1%E6%BA%90",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://netliteracy.jp/reliable-source-guide-for-high-school/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S1059056025008949",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mdpi.com/1911-8074/18/10/585",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "http://www.columbia.edu/~hh2679/analysts-Jf.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jwgfvr.github.io/forecastverification/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.horizonsolutions.ai/supply-chain-planning/what-is-forecast-bias",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ecmwf.int/sites/default/files/elibrary/052025/81662-forecast-verification-using-information-and-noise.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "情報源の利害を問う読み方（利害当事者の予測・監視団体や調査会社の事業上の動機・4-131） site:note.com",
+   "results": [
+    "https://note.com/hanseatic_league/n/nac30a2f038e5",
+    "https://note.com/kagawatomo/n/n9c0f3f62dcfa",
+    "https://note.com/you_829_koji/n/n87d6e0d8c273",
+    "https://note.com/tanabata_lab/n/n426e18637415",
+    "https://note.com/44310_morikawa/n/n94e83d3320b7",
+    "https://note.com/sayurusky/n/nef69c22ccff7",
+    "https://note.com/uta__kuma/n/n93500934fb8e",
+    "https://note.com/owlet_notes/n/n7f496a91a541",
+    "https://note.com/ailibrary/n/nad0f102a30b2",
+    "https://note.com/ma_strategynews/n/n3c816d3b4b67"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "情報源の利害を問う読み方（利害当事者の予測・監視団体や調査会社の事業上の動機・4-131） note",
+   "results": [
+    "https://note.com/egao_it/n/n371643a25ab6",
+    "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "https://note.com/expwakui/n/n2655f8188777",
+    "https://e-words.jp/w/%E6%83%85%E5%A0%B1%E6%BA%90.html",
+    "https://note.com/fumika_pen7/n/n2bab96eaaf42",
+    "https://kotobank.jp/word/%E6%83%85%E5%A0%B1%E6%BA%90-533297",
+    "https://note.com/omoi0kane/n/n5ac5834f318c",
+    "https://www-cycle.nies.go.jp/magazine/kenkyu/201606.html",
+    "https://ja.wikipedia.org/wiki/情報源",
+    "https://report.prism-ai.jp/thesis-writing-note-citation/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "情報源の利害を問う読み方（利害当事者の予測・監視団体や調査会社の事業上の動機・4-131） やり方",
+   "results": [
+    "https://jp.weforum.org/stories/health-and-healthcare-systems/tackling-covid-19-misinformation-who",
+    "https://www.reddit.com/r/Journalism/comments/17hhtbz/how_to_verify_sources/?tl=ja",
+    "https://www.foneclaw.ai/ja/diversify-news-sources.html",
+    "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "https://www.soumu.go.jp/hakusho-kids/safety/point/information/information_02.html",
+    "https://eleschool-compass.com/school-matching/shinbun/words/rieki-sohan.php",
+    "https://www.asahi.com/asagakuplus/article/asachuko/16897878",
+    "https://www-cycle.nies.go.jp/magazine/kenkyu/201606.html",
+    "https://biz.moneyforward.com/work-efficiency/basic/1925/",
+    "https://ja.wikipedia.org/wiki/情報源"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "情報源の利害を問う読み方（利害当事者の予測・監視団体や調査会社の事業上の動機・4-131） 事例",
+   "results": [
+    "https://e-words.jp/w/%E6%83%85%E5%A0%B1%E6%BA%90.html",
+    "https://kotobank.jp/word/%E6%83%85%E5%A0%B1%E6%BA%90-533297",
+    "https://note.com/egao_it/n/n371643a25ab6",
+    "https://www.josai.ac.jp/josai_lab/1469/",
+    "https://www-cycle.nies.go.jp/magazine/kenkyu/201606.html",
+    "https://www.weblio.jp/content/%E6%83%85%E5%A0%B1%E6%BA%90",
+    "https://www.soumu.go.jp/hakusho-kids/safety/point/information/information_02.html",
+    "https://www.obc.co.jp/360/list/post277",
+    "https://ja.wikipedia.org/wiki/情報源",
+    "https://netliteracy.jp/reliable-source-guide-for-high-school/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "source interest bias stakeholder forecast verification analyst",
+   "results": [
+    "https://www.sciencedirect.com/science/article/pii/S1059056025008949",
+    "https://www.mdpi.com/1911-8074/18/10/585",
+    "http://www.columbia.edu/~hh2679/analysts-Jf.pdf",
+    "https://jwgfvr.github.io/forecastverification/",
+    "https://www.horizonsolutions.ai/supply-chain-planning/what-is-forecast-bias",
+    "https://www.ecmwf.int/sites/default/files/elibrary/052025/81662-forecast-verification-using-information-and-noise.pdf",
+    "https://www.researchgate.net/publication/228320963_Nonfinancial_Disclosure_and_Analyst_Forecast_Accuracy_International_Evidence_on_Corporate_Social_Responsibility_Disclosure",
+    "https://www.hyperbots.com/glossary/forecast-bias-detection",
+    "https://safiosolutions.com/forecast-bias-what-it-is-why-it-matters-and-how-to-reduce-it/",
+    "https://www.sciencedirect.com/science/article/pii/S0929119926001550"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 情報源の利害を問う読み方（利害当事者の予測・監視団体や調査会社の事業上の動機・4-131）",
+   "results": [
+    "https://note.com/tanabata_lab/n/n426e18637415",
+    "https://note.com/reading_monkey/n/nc163a82be160",
+    "https://note.com/kiyo_ai_note/n/n0a9ac673d208",
+    "https://note.com/hirokimiyano/n/nc1f97dc2fd1b",
+    "https://note.com/zz08/n/na6632360cf2b",
+    "https://note.com/hirokimiyano/n/n002e379eec4e",
+    "https://note.com/ichi_twnovel/n/n02363dc0f2b9",
+    "https://note.com/gyokuto15/n/nc027d22004ff",
+    "https://note.com/jkmf/n/na9710c4ab33d",
+    "https://note.com/takashi_asa_wip/n/n528d669e391d"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 情報源の利害を問う読み方（利害当事者の予測・監視団体や調査会社の事業上の動機・4-131）",
+   "results": [
+    "https://x.com/tatsuki_nowave/article/2069242190740783575",
+    "https://x.com/searched_press/status/2068127572219842770?lang=bg",
+    "https://x.com/KagawaTomo/status/2118268204300767441",
+    "https://x.com/mimizuku_tutor",
+    "https://x.com/HeyheyShonana",
+    "https://x.com/searched_press/article/2074766735941738592",
+    "https://x.com/searched_press/article/2064865179310174338",
+    "https://x.com/cm3",
+    "https://x.com/iidatetsunari/status/2095768343340855372",
+    "https://x.com/OcciDentArs"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com 情報源の利害を問う読み方（利害当事者の予測・監視団体や調査会社の事業上の動機・4-131）",
+   "results": [
+    "https://jp.linkedin.com/pulse/reading-room-actually-skill-nobody-teaches-everyone-needs-magady-mmlvc?tl=ja",
+    "https://jp.linkedin.com/pulse/distribution-trust-reach-dr-petri-i-salonen-9ecpc?tl=ja",
+    "https://jp.linkedin.com/in/jugglertakyu",
+    "https://jp.linkedin.com/in/%E7%BF%BC-%E9%AB%98%E7%95%91-11836b315"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 4
+  },
+  {
+   "query": "site:facebook.com 情報源の利害を問う読み方（利害当事者の予測・監視団体や調査会社の事業上の動機・4-131）",
+   "results": [
+    "https://www.facebook.com/groups/487715464667256/",
+    "https://m.facebook.com/100057613173304",
+    "https://www.facebook.com/nomitomo/posts/%E6%9C%AC%E6%97%A5%E3%81%AE%E8%AA%AD%E6%9B%B810%E6%9C%8831%E6%97%A5%E3%81%AF2%E5%86%8A%E8%AA%AD%E4%BA%861%E5%86%8A%E7%9B%AE-%E3%82%A4%E3%83%B3%E3%83%86%E3%83%B3%E3%83%88%E3%82%BB%E3%83%BC%E3%83%AB%E3%82%B9%E5%B0%8F%E7%AC%A0%E5%8E%9F%E7%BE%BD%E6%81%AD%E8%91%97-%E3%81%93%E3%81%AE%E6%9C%AC%E3%82%92%E4%B8%80%E8%A8%80%E3%81%A7%E8%A8%80%E3%81%86%E3%81%A8-%E9%A1%A7%E5%AE%A2%E3%81%8C%E4%BB%8A%E8%AA%BF%E3%81%B9%E3%81%A6%E3%81%84%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8B%E3%82%89%E5%96%B6%E6%A5%AD%E3%81%AE%E9%A0%86%E7%95%AA%E3%82%92%E7%B5%84%E3%81%BF%E7%AB%8B%E3%81%A6%E7%9B%B4%E3%81%99%E6%9C%AC-%E5%96%B6%E6%A5%AD%E3%81%8C%E3%81%86%E3%81%BE%E3%81%8F/29001930406100673/",
+    "https://www.facebook.com/kaoru.morishita.1291/",
+    "https://www.facebook.com/nikkan.gendai/posts/%E9%AB%98%E5%B8%82%E6%94%BF%E6%A8%A9%E3%81%AE%E3%83%80%E3%83%96%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89%E7%B1%B3%E5%9B%BD%E3%81%AE%E8%9B%AE%E8%A1%8C%E3%81%AB%E6%B2%88%E9%BB%99%E3%81%A7%E3%81%84%E3%81%84%E3%81%AE%E3%81%8B%E5%9B%BD%E9%9A%9B%E6%B3%95%E3%82%92%E7%84%A1%E8%A6%96%E3%81%97%E3%81%9F%E7%B1%B3%E5%9B%BD%E3%81%AE%E3%83%99%E3%83%8D%E3%82%BA%E3%82%A8%E3%83%A9%E3%81%B8%E3%81%AE%E6%AD%A6%E5%8A%9B%E8%A1%8C%E4%BD%BF%E6%94%BF%E6%A8%A9%E8%BB%A2%E8%A6%86%E3%81%AB%E6%B2%88%E9%BB%99%E3%81%AE%E8%A5%BF%E5%81%B4%E8%AB%B8%E5%9B%BD%E3%81%AE%E6%83%85%E3%81%91%E3%81%AA%E3%81%95%E4%B8%AD%E3%81%A7%E3%82%82%E9%AB%98%E5%B8%82%E6%94%BF%E6%A8%A9%E3%81%AF%E4%BB%8A%E5%BE%8C%E3%82%82%E3%83%88%E3%83%A9%E3%83%B3/1458315772961049/",
+    "https://www.facebook.com/nihonjintoyudayajin/",
+    "https://www.facebook.com/100015127804576/posts/boeing%E5%8E%9F%E7%88%86%E7%A9%BA%E8%A5%B2%E5%A3%B2%E5%9B%BD%E5%A5%B4%E6%AD%A3%E4%BD%93%E3%81%A8%E3%81%AF%E3%83%93%E3%83%AB%E3%83%80%E3%83%BC%E3%83%90%E3%83%BC%E3%82%B0%E4%BC%9A%E8%AD%B0wiki%E6%8B%BE%E3%81%84%E8%AA%AD%E3%81%BFmra%E9%81%93%E5%BE%B3%E5%86%8D%E6%AD%A6%E8%A3%85%E8%A8%AD%E7%AB%8B%E3%83%96%E3%83%83%E3%82%AF%E3%83%9E%E3%83%B3%E9%80%A3%E5%90%88%E5%9B%BD%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E4%BA%BA%E3%81%A8%E6%88%A6%E6%99%82%E4%B8%AD%E9%80%A3%E7%B5%A1%E7%B6%B2%E6%B8%8B%E6%B2%A2%E9%9B%85%E8%8B%B1%E4%B8%89%E5%9B%BD%E5%90%8C%E7%9B%9F%E9%99%B8%E8%BB%8D%E5%B0%91%E5%B0%89%E9%80%9A%E4%BF%A1%E5%85%B5m/1679367679244143/",
+    "https://www.facebook.com/hidenori.yanagida.5/",
+    "https://www.facebook.com/groups/661768685599819/",
+    "https://www.facebook.com/groups/379436797253303/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "情報源の利害を問う読み方（利害当事者の予測・監視団体や調査会社の事業上の動機・4-131） note 社長",
+   "results": [
+    "https://note.com/egao_it/n/n371643a25ab6",
+    "https://note.com/long_holly4382/n/naad374be5edd",
+    "https://note.com/tatsuya_sabato/n/n3a66832bfd04",
+    "https://irnote.com/",
+    "https://note.com/note_ir/n/nde9f6a4188c6",
+    "https://e-words.jp/w/%E6%83%85%E5%A0%B1%E6%BA%90.html",
+    "https://www.xserver.ne.jp/blog/introduction-of-note-and-difference-blog/",
+    "https://note.com/take/n/neb875b49fa99",
+    "https://note.com/polistride/n/nc7905a223703",
+    "https://note.com/takamo8/n/n243b27184120"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "情報源の利害を問う読み方（利害当事者の予測・監視団体や調査会社の事業上の動機・4-131） X 投稿",
+   "results": [
+    "https://help.x.com/ja/resources/addressing-misleading-info",
+    "https://www.kalanchoe-law.com/post/%E7%99%BA%E4%BF%A1%E8%80%85%E6%83%85%E5%A0%B1%E9%96%8B%E7%A4%BA%E8%AB%8B%E6%B1%82%E3%81%AE%E6%89%8B%E9%A0%86%EF%BC%88twitter%E3%81%AE%E5%A0%B4%E5%90%88%EF%BC%89",
+    "https://ds-b.jp/dsmagazine/what-is-twitter/",
+    "https://www.youtube.com/watch?v=t4zElltiKTM",
+    "https://www.koukoku.jp/service/suketto/marketer/sns/%E3%80%902025%E5%B9%B4%E6%9C%80%E6%96%B0%E3%80%91x%EF%BC%88%E6%97%A7twitter%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E5%A7%8B%E3%82%81%E6%96%B9%E3%81%8B%E3%82%89%E6%B4%BB%E7%94%A8%E6%96%B9%E6%B3%95/",
+    "https://d-m-f.jp/blog/0035-2/",
+    "https://cyberarts.tokyo/archives/8669",
+    "https://www.humancentrix.com/columns/x-btob-marketing",
+    "https://kanji.reader.bz/情報源",
+    "https://kotobank.jp/word/情報源-533297"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "source interest bias stakeholder forecast verification analyst site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/ojasphansekar",
+    "https://gh.linkedin.com/in/justice-hanson",
+    "https://www.linkedin.com/in/enriquerosero",
+    "https://uk.linkedin.com/in/fiona-spuler-0812a6159",
+    "https://de.linkedin.com/in/yukta-pai",
+    "https://www.linkedin.com/in/oliviagyapong32116",
+    "https://www.linkedin.com/in/khem-raj-bhatt",
+    "https://www.linkedin.com/in/williamchiu",
+    "https://www.linkedin.com/in/svetoslav-gasharov-95249540",
+    "https://www.linkedin.com/in/shaneausleybutler"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {},
+ "new_this_run": {
+  "手順・やり方": [
+   {
+    "quote": "しかし、多くの人はこの「情報の信頼性を見極める方法」について体系的に学ぶ機会がありません",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "この記事では、情報の信頼性を判断するための具体的な基準と方法について、一般的には語られないポイントも含めて詳しく解説します",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2. 透明性: 情報の出所と方法論の開示",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "信頼できる情報源は、情報の出所や収集方法、分析手法などを明確に開示しています",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、調査結果を報告する際には、サンプルサイズ、調査方法、調査期間、誤差範囲などの基本的な情報が明記されているべきです",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "情報のファクトチェック：プロが実践する3ステップ",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "情報の信頼性を確認するための実践的な方法として、プロのジャーナリストや研究者が日常的に行っているファクトチェックの手法を紹介します",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ステップ1：一次情報へのさかのぼり",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ステップ2：複数の独立した情報源による交差検証",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ステップ3：批判的思考による分析",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3. サンプルサイズや研究方法は適切か",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ここでは、情報リテラシーを効果的に高めるための具体的な方法を紹介します",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "デジタル技術の発展により、情報の生成・拡散の方法は劇的に変化しています",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "特にAIの発達により、従来の情報評価の方法だけでは不十分になりつつあります",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ここでは、デジタル時代特有の「情報の罠」とその回避方法について解説します",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ニュース情報源を増やす方法：情報の出どころで整理するリストの作り方 - FoneClaw",
+    "url": "https://www.foneclaw.ai/ja/diversify-news-sources.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "方法、対象、条件、限界を見る",
+    "url": "https://www.foneclaw.ai/ja/diversify-news-sources.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "一方、記事Eには、接続方法、音量設定、試した環境、観察の限界を明示した独自テストがあるとします",
+    "url": "https://www.foneclaw.ai/ja/diversify-news-sources.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "代表の記事から関連リンクとして残し、読む頻度だけ下げる方法があります",
+    "url": "https://www.foneclaw.ai/ja/diversify-news-sources.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば週に一度15分を取り、一つのテーマと直近の数項目だけを点検する方法を提案します",
+    "url": "https://www.foneclaw.ai/ja/diversify-news-sources.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "リストを見直して「発売後の独自検証をまだ読めていない」などの不足が残ったら、私たちのFoneClawカスタムニュースで、そのテーマを継続して追う方法があります",
+    "url": "https://www.foneclaw.ai/ja/diversify-news-sources.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2. 判断・実行の手順",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "この補講では、発信元・時期・対象・数値を照合する方法を、具体例と独自の確認問題で練習します",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "このページは、検索した情報の根拠を確認する手順を扱います",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "一次情報でも発信者の利害や調査方法を確認し、二次情報は元資料までたどります",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "発信者、更新日、根拠、対象範囲、調査方法、訂正履歴を確認する",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "検索語を追加・除外し、目的の情報源へ絞る方法を選ぶ",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "選択肢を読むときは、用語だけでなく、目的に合う行動、条件を満たす手順、誤りの原因を確認します",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "提出期限が近い場合は、確かめられた別の資料に絞り、調べた範囲を明記する方法があります",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "二つの割合を比べる際には、質問文や回答方法、対象学年、調査期間が同じかも確認します",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "グラフの色や大きな文字よりも、注記や集計方法へ戻る作業が先です",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "別々の調査が同じ結果でも、双方の方法に似た偏りがあるかもしれません",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "元の調査票と集計条件を確かめ、必要なら別の方法で集められた資料を探します",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "資料の数を誇張せず、分かった範囲と調査方法の限界を説明するのが適切です",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "学習上の相談なら、個人を特定する情報を載せず、確認したい論点だけを先生や保護者に説明する方法を考えてください",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "調査方法、対象範囲、更新日、利害、誤りや訂正の有無を確認します",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "例えば、医療情報を調べる場合、医師や医学研究者による情報と、特定の商品を販売するためのマーケティングサイトによる情報では、信頼性に大きな差があります",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、調査結果を報告する際には、サンプルサイズ、調査方法、調査期間、誤差範囲などの基本的な情報が明記されているべきです",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、特定の製品についての情報を調べる場合、その製品のメーカーが直接提供している情報と、独立した消費者団体や第三者機関による評価では、客観性に大きな違いがあります",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、政治的な報道において、政権交代や支持率の変動に関わらず、同じ基準で批判的検証を行っているメディアは信頼性が高いと言えます",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、社会問題についての報道では、様々な利害関係者や専門家の意見を幅広く取り上げ、読者が多角的に問題を理解できるよう配慮しているかどうかが重要です",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、AIや機械学習の分野では、数ヶ月で新たな手法やモデルが登場し、従来の「ベストプラクティス」が書き換えられることがあります",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、「ある研究によると〜」という記事を読んだ場合、その研究論文自体を確認することで、記事の解釈が正確かどうかを判断できます",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、ある企業の業績に関する情報を調査する場合、その企業の公式発表だけでなく、独立したアナリストのレポート、業界団体の統計、競合他社との比較データなど、異なる視点からの情報を収集して検証することで、より正確な全体像を把握できます",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、「製品Aを使用した100人中95人が効果を実感！」という広告を見た場合、サンプルの選び方、「効果」の定義、比較対象（プラセボ効果の考慮）などを検討することで、この主張の信頼性をより適切に評価できます",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、経済ニュースを追う場合、保守系と革新系のメディア、国内と海外のメディア、そして専門家のコラムや学術的な経済分析など、複数の視点から情報を収集することで、より立体的な理解が可能になります",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、テクノロジー分野であれば、速報性に優れたニュースサイト、詳細な分析を提供する専門メディア、実務者の知見が得られる技術ブログ、学術的裏付けのある研究論文など、目的に応じた情報源のポートフォリオを構築しておくと効率的です",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "1. プライベートブラウジングや異なるブラウザを使用して検索結果を比較する",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、ある社会問題について調査する場合、自分の普段使用するアカウントでの検索結果と、プライベートブラウジングモードでの検索結果を比較することで、パーソナライズの影響を把握できます",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、SNSで大量のシェアを集めている衝撃的なニュースに接した場合、即座に反応する前に、複数の信頼できる情報源でその内容を確認し、全体の文脈を理解することが重要です",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "6. 記述的リサーチ：統計データ、市場調査レポート、アンケート結果",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "FoneClawカスタムニュースは、残った疑問を追う補助として使い、結果の出典を実際に開いて確認してください",
+    "url": "https://www.foneclaw.ai/ja/diversify-news-sources.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば「ワイヤレススピーカーについて、発表内容と実際の使用条件の違いを追いたい」という目的を仮に置きます",
+    "url": "https://www.foneclaw.ai/ja/diversify-news-sources.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "挙げた確認先は役割の例であり、特定の媒体を調査して評価した結果ではありません",
+    "url": "https://www.foneclaw.ai/ja/diversify-news-sources.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば週に一度15分を取り、一つのテーマと直近の数項目だけを点検する方法を提案します",
+    "url": "https://www.foneclaw.ai/ja/diversify-news-sources.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "「この記述は発表からの引用か、独自に確認した結果か」と追加質問し、判明した情報をリストへ戻します",
+    "url": "https://www.foneclaw.ai/ja/diversify-news-sources.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "通信やAndroidのバックグラウンド制限で遅れる場合があるため、指定時刻の結果を前提にしないでください",
+    "url": "https://www.foneclaw.ai/ja/diversify-news-sources.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "練習ケース1：去年の延期案内が今日届いた",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "練習ケース2：回答者の8割は、全員の8割か",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "練習ケース3：三つの記事と一つの調査",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "検索結果の順位だけで信用せず、根拠までたどる",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "この講の問い：検索結果の一番上に表示されたページは、最も正しい情報なのか",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "検索結果やAIの回答を見つけたら、内容を読んで終わらず、その主張を支える資料までたどります",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "記事が調査結果を紹介しているなら、記事同士を数えるのではなく同じ調査票・集計表へ戻ります",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "本稿のケースは、その授業の転載ではなく、家庭でも判断の理由を言葉にするために作った練習です",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "元資料が調査予定を告知しているだけなら、実施済みの結果として書くこともできません",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ケース1の判断過程を見る",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ケース2の計算と、言える範囲を見る",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "別々の調査が同じ結果でも、双方の方法に似た偏りがあるかもしれません",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "反対に結果が違う場合には、直ちにどちらかを誤りとせず、時期・地域・対象者・質問の意味を比べます",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ケース3の理由と次の行動を見る",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "表現が一致するのは、同じ資料を使った結果かもしれません",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "同様に、特定の政治団体や業界団体から資金提供を受けている研究機関は、その支援者に有利な結論を導き出す傾向があるかもしれません",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2. 引用されている研究や統計の年代：古いデータに基づいた結論は現在の状況を正確に反映していない可能性がある",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ステップ1：一次情報へのさかのぼり",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "信頼性を確認するためには、可能な限り「一次情報」まで遡ることが重要です",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "4. 統計データの場合は、政府機関や研究機関の公式発表を参照",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、ある企業の業績に関する情報を調査する場合、その企業の公式発表だけでなく、独立したアナリストのレポート、業界団体の統計、競合他社との比較データなど、異なる視点からの情報を収集して検証することで、より正確な全体像を把握できます",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "1. 情報源同士が独立していることを確認（同じ一次情報を引用しているだけではない）",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "6. 記述的リサーチ：統計データ、市場調査レポート、アンケート結果",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、ある業界の将来性を評価する場合、市場調査レポートの統計データ（定量）、業界リーダーへのインタビュー（定性）、学術研究の予測（理論）など、異なる種類の情報を組み合わせることで、より立体的な理解が可能になります",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "7. 一次情報源は何か？： 可能であれば元の情報源まで遡れるか",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3. 可能な限り一次情報源まで遡る",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "主張を一文に分け、発信者・根拠・日付・一次情報・別資料との一致を確認し、確認できないときは『不明』のまま拡散しないことが情報評価の基本です",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "一次情報でも発信者の利害や調査方法を確認し、二次情報は元資料までたどります",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "URLの末尾や見た目だけで公的機関のページだと判断する",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "同じ一次情報を転載した複数記事を、独立した複数根拠として数える",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "古い統計や切り取られたグラフを、現在や別の集団へそのまま当てはめる",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "一次情報と二次情報、事実と意見、相関と因果を区別する",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "賛成側の語だけでなく反対側の語、正式名称、旧名称、統計名、PDF、調査主体名でも探すと、同じ主張を別方向から確かめられます",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "画像は逆画像検索や撮影時期・場所の手掛かり、統計は分母・定義・欠測、グラフは軸・切断・比較期間まで確認します",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "① 報告書が一次情報、ニュース記事が二次情報である",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "② ニュース記事が一次情報、報告書が二次情報である",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "当事者・制度所管機関・原研究が直接公表したものが一次情報、それを報道・解説・要約したものが二次情報です",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "二次情報を読んだら元資料までたどるのが原則で、一次情報であっても発信者の利害や調査方法の確認は必要です",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "共通テスト・情報関係基礎・私大の問題と正解 64本のPDF",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "このページの内容を1つのPDFにまとめました",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "このページの問題・解答解説（PDF・7ページ）",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "過去に誤った情報を訂正せずに放置しているメディアや、センセーショナルな見出しで内容を歪めて伝える傾向のある情報源には注意が必要です",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3. 独立性と利益相反: 隠れたバイアスを見抜く",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "逆に、その時々の「人気のある意見」に合わせて論調を変えるような情報源は注意が必要です",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "また、過去の誤りに対する対応も重要な指標です",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "また、自分の既存の信念や価値観に合致する情報だけを選択的に受け入れる「確証バイアス」に陥らないよう、意識的に多様な情報源からの情報を取り入れることも大切です",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "収集した情報を鵜呑みにせず、批判的思考を用いて分析することが重要です",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2. 各情報源の特性（強み・弱み・バイアスの傾向）を記録する",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ここでは、デジタル時代特有の「情報の罠」とその回避方法について解説します",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "アルゴリズムバイアス：「パーソナライズされた真実」の危険性",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "4. 相違点については、その理由を分析する（情報源のバイアス、時間的変化、文脈の違いなど）",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "それぞれの情報源が持つ限界やバイアスを相互に補完することで、単一の情報源に依存するよりも信頼性の高い結論を導き出せます",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "4. 情報源に利益相反はないか？：経済的インセンティブやイデオロギー的バイアスの可能性",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "9. デジタル時代特有の情報の罠（ディープフェイク、アルゴリズムバイアス、情報のゲーミフィケーション）に注意する",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "発表文を使っていること自体は、情報が誤りだという意味ではありません",
+    "url": "https://www.foneclaw.ai/ja/diversify-news-sources.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "4. 間違いやすいポイント",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "正しいか誤りかの二択を急ぎ、未確認という結論を避ける",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "選択肢を読むときは、用語だけでなく、目的に合う行動、条件を満たす手順、誤りの原因を確認します",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "誤りの有無を、文章の丁寧さや回答の自信で決めないようにします",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "反対に結果が違う場合には、直ちにどちらかを誤りとせず、時期・地域・対象者・質問の意味を比べます",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ただし「元資料が一つだから内容は誤り」とも言えません",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "調査方法、対象範囲、更新日、利害、誤りや訂正の有無を確認します",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "訂正履歴が公開されていることは、誤りがない証明ではなく、修正可能性を示す材料です",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "② 正しいか誤りかの二択で無理にでも判断を下す",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "政府広報オンライン インターネット上の偽情報や誤情報にご注意",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "例えば、政治的な報道において、政権交代や支持率の変動に関わらず、同じ基準で批判的検証を行っているメディアは信頼性が高いと言えます",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3. 最新の関連情報との整合性：その後に発表された研究や情報と矛盾していないか確認する",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ステップ2：複数の独立した情報源による交差検証",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、ある企業の業績に関する情報を調査する場合、その企業の公式発表だけでなく、独立したアナリストのレポート、業界団体の統計、競合他社との比較データなど、異なる視点からの情報を収集して検証することで、より正確な全体像を把握できます",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3. 当初の予測や分析がどの程度的中したかを検証する",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "4. 技術的検証：可能であれば、メタデータの確認やフォレンジック分析を行う",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "1. 強い感情反応を引き起こす情報に対しては特に慎重に検証する",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "情報の統合と批判的分析：「三角測量」アプローチ",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "複数の情報源から得られた情報を効果的に統合し、より信頼性の高い結論を導き出すための「三角測量」アプローチを紹介します",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "8. 他の信頼できる情報源でも確認できるか？：複数の独立した情報源による交差検証",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "4. 複数の独立した情報源による交差検証を行う",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "8. 情報の事後検証（フォローアップ）を習慣づける",
+    "url": "https://note.com/shiny_magpie4504/n/n44e2b1fb4962",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "掲載日、更新日、元資料の日付を照合する",
+    "url": "https://www.foneclaw.ai/ja/diversify-news-sources.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ただし、発表側の主張を別の媒体が繰り返しただけなら、独立した検証が加わったとは数えません",
+    "url": "https://www.foneclaw.ai/ja/diversify-news-sources.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "公表側の説明であり、実使用の独立検証とは限らない",
+    "url": "https://www.foneclaw.ai/ja/diversify-news-sources.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "リストを見直して「発売後の独自検証をまだ読めていない」などの不足が残ったら、私たちのFoneClawカスタムニュースで、そのテーマを継続して追う方法があります",
+    "url": "https://www.foneclaw.ai/ja/diversify-news-sources.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "依頼の例は「ワイヤレススピーカーの新製品について、発表以外の独自検証と、公開された技術資料の更新を朝に確認したい」です",
+    "url": "https://www.foneclaw.ai/ja/diversify-news-sources.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "資料や検証記事が必ず見つかる保証もありません",
+    "url": "https://www.foneclaw.ai/ja/diversify-news-sources.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "この補講では、発信元・時期・対象・数値を照合する方法を、具体例と独自の確認問題で練習します",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "情報の信頼性はサイト全体の雰囲気ではなく、検証したい主張ごとに、誰が・いつ・何を根拠に述べたかを確かめます",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "検索したいテーマを、検証可能な一つの主張へ分ける",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "偽・誤情報を拡散しないための検証順序を並べる",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "同省の情報モラル教育の実践例でも、生成映像を扱う際に、出典や公式発表を照合してから共有する学習が紹介されています",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "自分が最初に信じた結論に合う資料だけを選ばず、食い違いの理由を言えるかを確認してください",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "記事全体へ一つの信頼度を付けるのではなく、検証したい文を一つずつ取り出し、その文を支えるデータや原文があるかを確認します",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "順位を決める仕組みと、内容の検証を分けます",
+    "url": "https://sukyojuku.com/joho1-information-search-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-09T17:43:50.303609+00:00"
+}

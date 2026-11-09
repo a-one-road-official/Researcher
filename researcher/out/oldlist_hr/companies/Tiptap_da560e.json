@@ -1,0 +1,1318 @@
+{
+ "name": "Tiptap",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial AI / Software｜AUMS不適合",
+ "researched_at": "2026-11-09T18:10:02.590544+00:00",
+ "official_url": "https://tiptap.dev/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Open source. MIT-licensed. Headless. Your interface, your content types.",
+    "url": "https://tiptap.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring storage, collaboration, review, conversion, and AI into your product.",
+    "url": "https://tiptap.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Tiptap Cloud , dedicated cloud, or on-premises",
+    "url": "https://tiptap.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Create any editing experience. Deploy on-premises or in our managed cloud, even air-gapped if needed. Maintain control over your data, infrastructure, and application. SOC 2 Type II, GDPR compliant, and HIPAA support for customers with a signed BAA.",
+    "url": "https://tiptap.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Tiptap provides the whole document stack: the editor, real-time collaboration, storage and history, and Word conversion. Our core is MIT-licensed, so you’re never locked in.",
+    "url": "https://tiptap.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Our core editor will always be free, along with over seventy extensions you need to ship fast. Unlock the rest with a paid plan or an enterprise contract.",
+    "url": "https://tiptap.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time, collaborative editing with live cursors, presence, and offline support at scale.",
+    "url": "https://tiptap.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Hosted by us in the EU or the US, with an EU-only option so data never leaves European jurisdiction. We also offer custom jurisdictions for Enterprise customers who need them.",
+    "url": "https://tiptap.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Tested in production daily",
+    "url": "https://tiptap.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Sanitizing pasted content, patching dependencies, and owning every vulnerability.",
+    "url": "https://tiptap.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Most teams meet Tiptap as the world’s most popular open source rich text editor. That's the core: MIT-licensed, built on ProseMirror, extensible.",
+    "url": "https://tiptap.dev/",
+    "pass": 1
+   },
+   {
+    "quote": ": Tiptap Cloud, dedicated cloud, or on-premises in your own infrastructure",
+    "url": "https://tiptap.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Can I self-host Tiptap or run it on-premises?",
+    "url": "https://tiptap.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. You get three options: Tiptap Cloud, Dedicated Cloud, or On-Premises via Docker in your own infrastructure. Regulated teams usually pick On-Premises so content never leaves their network.",
+    "url": "https://tiptap.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Can I use my own AI model, or does my content go to OpenAI?",
+    "url": "https://tiptap.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "It’s your choice. The AI Toolkit is model-agnostic. Run it with your own LLM infrastructure, on-prem or client-side.",
+    "url": "https://tiptap.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "You can to some extent. But then you own every extension, security patch, bug fix, and edge case forever. Buying gets you a stable framework maintained by a team of professional engineers, plus a growing list of feature-rich add-ons, so you can focus on building your product—not the document infrastructure that powers it.",
+    "url": "https://tiptap.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Tiptap Cloud defaults to EU hosting, with a US option. Or self-host anywhere with On-Premises.",
+    "url": "https://tiptap.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "What do you give us for a security and procurement review?",
+    "url": "https://tiptap.dev/",
+    "pass": 1
+   },
+   {
+    "quote": ": the SOC 2 Type II report under NDA, a DPA, the subprocessor list, and the On-Premises option. Send us the questionnaire and we'll turn it around.",
+    "url": "https://tiptap.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "MIT core, free forever. Enterprise when you need it.",
+    "url": "https://tiptap.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Ship unique content experiences",
+    "url": "https://tiptap.dev/customers",
+    "pass": 1
+   },
+   {
+    "quote": "AI-ready document infrastructure for modern content, trusted by leading developers and enterprise teams.",
+    "url": "https://tiptap.dev/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Project management tool",
+    "url": "https://tiptap.dev/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise learning management system",
+    "url": "https://tiptap.dev/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing management platform",
+    "url": "https://tiptap.dev/customers",
+    "pass": 1
+   },
+   {
+    "quote": "eProcurement platform",
+    "url": "https://tiptap.dev/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Product management software",
+    "url": "https://tiptap.dev/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise content management software",
+    "url": "https://tiptap.dev/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Content management system",
+    "url": "https://tiptap.dev/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Social media platform",
+    "url": "https://tiptap.dev/customers",
+    "pass": 1
+   },
+   {
+    "quote": "AI-Powered Prospecting Workflows",
+    "url": "https://tiptap.dev/customers",
+    "pass": 1
+   },
+   {
+    "quote": "AI-Powered Presentation Builder",
+    "url": "https://tiptap.dev/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Experimental AI & Tech Prototypes",
+    "url": "https://tiptap.dev/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Business social media",
+    "url": "https://tiptap.dev/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Private AI bookmarking platform",
+    "url": "https://tiptap.dev/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Content collaboration platform",
+    "url": "https://tiptap.dev/customers",
+    "pass": 1
+   },
+   {
+    "quote": "AI-powered creator marketing platform",
+    "url": "https://tiptap.dev/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Project management platform",
+    "url": "https://tiptap.dev/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Product operating system",
+    "url": "https://tiptap.dev/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Productivity platform",
+    "url": "https://tiptap.dev/customers",
+    "pass": 1
+   },
+   {
+    "quote": "AI video tutorial creator",
+    "url": "https://tiptap.dev/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Tiptap Pricing - Choose your fit",
+    "url": "https://tiptap.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Add editing tools to your agent and AI model. Let AI read selections & documents, apply precise edits, stream content, and review AI changes.",
+    "url": "https://tiptap.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Read, insert and patch document content",
+    "url": "https://tiptap.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enable suggestion mode and change tracking in your editor. Let reviewers propose edits, track insertions and deletions, and accept or reject changes.",
+    "url": "https://tiptap.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading developers and enterprise teams",
+    "url": "https://tiptap.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "If you’re building a prototype or serving a small user base, Start is a good fit. Teams launching production apps typically choose Team for the full AI toolkit and advanced collaboration features. Business and Enterprise are designed for large-scale deployments with dedicated infrastructure, higher document limits, and advanced support.",
+    "url": "https://tiptap.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Do I need the Platform for AI/Pro features?",
+    "url": "https://tiptap.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Collaboration, and document history require Tiptap Platform's Cloud documents. AI and some Pro extensions need an active subscription for verification but can run without Cloud documents.",
+    "url": "https://tiptap.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Tiptap’s core editor is Open Source. You can self‑host, extend it with your own extensions, and contribute via PRs. The Platform and Enterprise add managed infrastructure and support on top of the OSS core.",
+    "url": "https://tiptap.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Tiptap Platform runs on managed cloud infrastructure with regional options. Enterprise customers can choose private or on‑prem deployments. For data residency details, contact us.",
+    "url": "https://tiptap.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "What features are not available on Tiptap Platform or on‑premises?",
+    "url": "https://tiptap.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Most features are available in both models. Advanced collaboration features require managed documents – either in Tiptap Platform or in your own managed deployment (Enterprise). Check the plan comparison for specifics.",
+    "url": "https://tiptap.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Do you have special pricing for open source projects, educational institutions, or startups?",
+    "url": "https://tiptap.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We consider discounts and programs case by case. Tell us about your project and team size on the contact page.",
+    "url": "https://tiptap.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "What features and permissions are available to Enterprise users?",
+    "url": "https://tiptap.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Typical Enterprise capabilities include on‑prem deployment, full API access, higher limits, data residency options, SLAs, early access to features, and direct engineering support. We tailor integrations and terms to your workflow.",
+    "url": "https://tiptap.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "No. The editor runs without the Platform. However, features like real‑time collaboration, comments, and document history require managed cloud documents (in Tiptap Platform or an Enterprise on-prem deployment).",
+    "url": "https://tiptap.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How is pricing calculated for managed cloud documents?",
+    "url": "https://tiptap.dev/pricing",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Headless, customizable, open source (MIT). Used by 35k+ developers and trusted by the world’s largest platforms.",
+    "url": "https://tiptap.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "AI-ready document infrastructure for modern content, trusted by leading developers and enterprise teams.",
+    "url": "https://tiptap.dev/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading developers and enterprise teams",
+    "url": "https://tiptap.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "NeuronicWorks Case Study: Tiptap – Tiptap - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/neuronicworks/case-study/tiptap-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Tiptap - Customer Case Study",
+    "url": "https://www.casestudies.com/company/neuronicworks/case-study/tiptap-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Tiptap used NeuronicWorks",
+    "url": "https://www.casestudies.com/company/neuronicworks/case-study/tiptap-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/neuronicworks/case-study/tiptap-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/neuronicworks/case-study/tiptap-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Reach further : Case Study 2 | Cybersource - A Visa Solution",
+    "url": "https://www.cybersource.com/en-us/solutions/product-catalog/reach-further/case-study-2/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories about Software and Services used by Tiptap",
+    "url": "https://www.casestudies.com/customer/tiptap",
+    "pass": 3
+   },
+   {
+    "quote": "Tiptap - Customer Case Study",
+    "url": "https://www.casestudies.com/customer/tiptap",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Email API for developers",
+    "url": "https://tiptap.dev/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Tiptap Platform runs on managed cloud infrastructure with regional options. Enterprise customers can choose private or on‑prem deployments. For data residency details, contact us.",
+    "url": "https://tiptap.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "No, we won’t block the creation of new documents or affect any existing documents in order to avoid interrupting your business. Instead, we will send you an email when you reach your limit and ask for an update. If we don’t hear back from you, your plan will be upgraded automatically.",
+    "url": "https://tiptap.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/434074-33",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Tiptapエディタ徹底解説：AI時代のコンテンツ作成を革新する — Nov 2, 2025 · 導入：なぜ今、リッチテキストエディタ「Tiptap」が注目されるのか？ Tiptapとは何か？ 開発者が熱狂する「ヘッドレスエディタ」の正体 1. ヘッドレス（Headless）：UIからの解放 2. ProseMirror：堅牢な基盤 3. エクステンション（Extensions）：機能のモジュール化",
+    "url": "https://skywork.ai/skypage/ja/tiptap-editor-ai-content-creation/1984056539721158656",
+    "pass": 3
+   },
+   {
+    "quote": "Headless EditorフレームワークのTiptapの使い方を基礎から学ぶ — Sep 12, 2024 · 本文書は数あるRich Text Editorの中でHeadlessタイプのTiptapの設定方法について説明を行っています。 TipTapは特定のフレームワーク/UIライブラリに縛られないのでVanilla JavaScript, React, Vue, Svelteなどで利用することができます。",
+    "url": "https://reffect.co.jp/javascript/tiptap",
+    "pass": 3
+   },
+   {
+    "quote": "Tiptapでオリジナルエディタをつくろう！ - Zenn — Oct 6, 2023 · TiptapのようなHeadless Editor Frameworkは、エディタで必要な機能のコア機能を提供し、必要なUIや機能は拡張機能として追加できるような仕組みになっています。 これにより、エディタを提供したい人にとって柔軟性の高いエディタライブラリとなっています。",
+    "url": "https://zenn.dev/tellernovel_inc/articles/4a471eff90ab12",
+    "pass": 3
+   },
+   {
+    "quote": "Tiptapに入門してみた - Zenn — Oct 23, 2022 · 最後に この記事ではWYSIWYGエディタを作成できるTiptapの基本的な使い方を解説しました。 WYSIWYGエディタと聞くと実装が難しいように思えますが、Tiptapを使えばサクッと実装できるのでオススメです。",
+    "url": "https://zenn.dev/yuu104/articles/8bbbbaabe52e1e",
+    "pass": 3
+   },
+   {
+    "quote": "WYSIWYGエディタを自作するためにTipTapを選んだ理由 - Qiita — Mar 18, 2026 · エディタのコア部分に何を使うかは最初の大きな判断ポイントでした。 この記事では、なぜ TipTap を選んだのかを整理します。 候補を比較した 最初に候補として挙がったのは以下の3つです。",
+    "url": "https://qiita.com/hyskhppp/items/8e1d07d99d7ea9eabf6a",
+    "pass": 3
+   },
+   {
+    "quote": "TipTap — 「TipTap CHARITY LIVE for KUMAMOTO」開催決定！ 2026年7月「令和8年熊本地震」が発生しました。微力ながら被災地支援のためにチャリティ配信ライブを企画しました。収益を日本赤十字社の「令和8年熊本地震災害義援金」に寄付させて頂きます。",
+    "url": "https://tiptap.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Tiptap Pricing - Choose your fit — From building a new app to scaling globally to millions of documents and users, Tiptap covers your editor's growth.",
+    "url": "https://tiptap.dev/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "TipTap Japan – Helping Your Japan Dream — Feb 14, 2022 · Yuk, terima tantangan “Giveaway Pinter” dari TipTap Japan dan dapatkan saldo OVO/Gopay/LinkAja/Dana senilai 200.000 rupiah!",
+    "url": "https://tiptapjp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "TipTap — 「Double Curtain Call」 上演決定！ 活動20周年を迎えた劇団TipTapが、記念すべきこの1年の最後にお届けする2年振りの新作オリジナルミュージカル。 懐かしさとほろ苦さに満ちたクリスマスに贈る人生讃歌を、ぜひ劇場でお楽しみください。",
+    "url": "https://tiptap.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "TipTap Japan - FacebookTipTap Japan (@tiptapjp) • Instagram photos and videosApa sih itu TipTap Japan? – TipTap Japanworks - TipTap@tiptapjp is on Instagram • 197 people follow their account — Oct 8, 2024 · TipTap Japan. 1,401 likes. Berbagai informasi dan tips seputar topik kerja di Jepang. Kami juga dapat membantu kalian yang ingi. 417 Followers, 215 Following, 119 Posts - TipTap Japan (@tiptapj",
+    "url": "https://www.facebook.com/tiptapjp/",
+    "pass": 3
+   },
+   {
+    "quote": "TipTap Japan (@tiptapjp) • Instagram photos and videosApa sih itu TipTap Japan? – TipTap Japanworks - TipTap@tiptapjp is on Instagram • 197 people follow their account — 417 Followers, 215 Following, 119 Posts - TipTap Japan (@tiptapjp) on Instagram: \"Berbagi informasi dan tips seputar topik kerja di Jepang. Silakan DM untuk Konsultasi Gratis!\" Mar 25, 2021 · Yuk yuk kita kenalan… jadi TipTap Japa",
+    "url": "https://www.instagram.com/tiptapjp/",
+    "pass": 3
+   },
+   {
+    "quote": "Apa sih itu TipTap Japan? – TipTap Japan — Mar 25, 2021 · Yuk yuk kita kenalan… jadi TipTap Japan itu apa sih? Jadi, TipTap Japan adalah wadah yang akan memberikan informasi dan tips seputar topik kerja di Jepang… secara singkat sih begitu deh.",
+    "url": "https://tiptapjp.com/apa-sih-itu-tiptap-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Tiptap - Customer Case Study — Tiptap partnered with NeuronicWorks (Design) to solve key challenges. \"Tiptap - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/neuronicworks/case-study/tiptap-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Reach further : Case Study 2 | Cybersource - A Visa Solution — Using our payment platform, we provided tiptap with access to 200+ acquirers and processors around the world and 190 regional markets. This helped accelerate the startup’s reach and reduce its costs.",
+    "url": "https://www.cybersource.com/en-us/solutions/product-catalog/reach-further/case-study-2/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How Tiptap Uses Software & Services — Explore case studies featuring Tiptap as the customer — learn how vendors and partners helped Tiptap solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/tiptap",
+    "pass": 3
+   },
+   {
+    "quote": "tiptap and Cybersource take touchless giving™ global — Jun 29, 2021 · tiptap, a Canadian startup, talks about how they used Cybersource to expand their markets by replacing cash and coin with contactless giving™ and touchless payments™.",
+    "url": "https://www.cybersource.com/en-us/blog/2021/tiptap-customer-story.html",
+    "pass": 3
+   },
+   {
+    "quote": "TipTap 2026 Company Profile: Valuation, Funding & Investors ...tiptap – Performance Metrics & Competitor Intelligence – 2026Tiptap Revenue 2024: $2.3M Est. ARR (Bootstrapped)Tiptap - 2025 Company Profile, Team, Funding & Competitors ...Tiptap — Company Profile, Funding & InvestorsTiptap: Funding, Investors & Team (Nov 2026) | FundedIQTiptap: Funding, Team & Investors | Startup Intros — Information",
+    "url": "https://pitchbook.com/profiles/company/434074-33",
+    "pass": 3
+   },
+   {
+    "quote": "tiptap – Performance Metrics & Competitor Intelligence – 2026 — Discover tiptap's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/tiptap",
+    "pass": 3
+   },
+   {
+    "quote": "Tiptap Revenue 2024: $2.3M Est. ARR (Bootstrapped) — Aug 10, 2026 · Tiptap is a bootstrapped Team Collaboration Software startup. Founded in 2022, Tiptap has grown to $2.3M in revenue without raising any venture capital or outside funding. As a self-funded Team Collaboration Software SaaS company, Tiptap has built its business with no outside investment. Philip Isik is listed as CEO at Tiptap. Wha",
+    "url": "https://getlatka.com/companies/tiptap.dev",
+    "pass": 3
+   },
+   {
+    "quote": "Tiptap - 2025 Company Profile, Team, Funding & Competitors ... — Sep 7, 2025 · Explore Tiptap's in-depth company profile, including funding details, key investors, leadership, and competitors.",
+    "url": "https://tracxn.com/d/companies/tiptap/__h28B8_Y_pwvszh4MVZpYB3h8ewuHq54FC5tQ5S07qLs",
+    "pass": 3
+   },
+   {
+    "quote": "Tiptap — Company Profile, Funding & Investors — Tiptap company profile with HQ in Berlin, Germany, founded 2022. Explore its acquisitions, funding rounds, investors, key people and contacts on Acquirezy — updated 2026.",
+    "url": "https://acquirezy.com/organization/tiptap",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "TipTap Japan – Helping Your Japan Dream",
+    "url": "https://tiptapjp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Helping Your Japan Dream",
+    "url": "https://tiptapjp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Yuk, terima tantangan “Giveaway Pinter” dari TipTap Japan dan dapatkan saldo OVO/Gopay/LinkAja/Dana senilai 200.000 rupiah!",
+    "url": "https://tiptapjp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Yuk, Simulasi Ujian SSW di Tiptap Japan!",
+    "url": "https://tiptapjp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Konnichiwa! Mimin membawa kabar baik nih. TipTap Japan sedang mengembangkan simulasi ujian SSW yang berbasis online lho! Jadi, simulasi ini",
+    "url": "https://tiptapjp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Konnichiwa~ Kembali lagi bersama mimin TipTap Japan di sini. Kali ini mimin akan membahas mengenai cara registrasi di situs SISKOTKLN",
+    "url": "https://tiptapjp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Two Pitfalls and Workarounds I Encountered Upgrading Tiptap from v2 to v3｜noco株式会社 note編集部",
+    "url": "https://note.com/nocoinc/n/n3ac747e02ba7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Tiptap v2→v3 アップグレードでハマった2つの落とし穴と回避策｜noco株式会社 note編集部",
+    "url": "https://note.com/nocoinc/n/n3ac747e02ba7",
+    "pass": 3
+   },
+   {
+    "quote": "Developing a file attachment feature in Tiptap: stumbling blocks and solutions｜noco株式会社 note編集部",
+    "url": "https://note.com/nocoinc/n/n181e1726d6c9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Tiptapでのファイル添付機能開発、つまづいたポイントとその解決方法｜noco株式会社 note編集部",
+    "url": "https://note.com/nocoinc/n/n181e1726d6c9",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/434074-33",
+    "pass": 3
+   },
+   {
+    "quote": "TipTap has 39 total employees.",
+    "url": "https://pitchbook.com/profiles/company/434074-33",
+    "pass": 3
+   },
+   {
+    "quote": "What is TipTap’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/434074-33",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for TipTap is",
+    "url": "https://pitchbook.com/profiles/company/434074-33",
+    "pass": 3
+   },
+   {
+    "quote": "Tiptap Revenue 2024: $2.3M Est.",
+    "url": "https://getlatka.com/companies/tiptap.dev",
+    "pass": 3
+   },
+   {
+    "quote": "Tiptap has not published its revenue. GetLatka estimates it at about $2.3M a year (June 2024).",
+    "url": "https://getlatka.com/companies/tiptap.dev",
+    "pass": 3
+   },
+   {
+    "quote": "Tiptap CEO, founders & employees",
+    "url": "https://getlatka.com/companies/tiptap.dev",
+    "pass": 3
+   },
+   {
+    "quote": "Philip Isik founded Tiptap in 2022 and runs it as CEO. Tiptap had 15 employees (June 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/tiptap.dev",
+    "pass": 3
+   },
+   {
+    "quote": "What is Tiptap's revenue?",
+    "url": "https://getlatka.com/companies/tiptap.dev",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Tiptap's revenue at about",
+    "url": "https://getlatka.com/companies/tiptap.dev",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Tiptap have?",
+    "url": "https://getlatka.com/companies/tiptap.dev",
+    "pass": 3
+   },
+   {
+    "quote": "employees in June 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/tiptap.dev",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/tiptap.dev",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/tiptap.dev",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/tiptap.dev",
+    "pass": 3
+   },
+   {
+    "quote": "in v3 is incompatible with React's useEffect dependency array pattern",
+    "url": "https://note.com/nocoinc/n/n3ac747e02ba7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The proxying itself was introduced as part of v3's SSR support (",
+    "url": "https://note.com/nocoinc/n/n3ac747e02ba7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "My experience with the Tiptap v3 upgrade was that, rather than the API differences listed in the release notes, it was the",
+    "url": "https://note.com/nocoinc/n/n3ac747e02ba7?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Two Pitfalls and Workarounds I Encountered Upgrading Tiptap ... May 13, 2026 · In this article, I will share two pitfalls I encountered, their respective workarounds, and the trade-offs involved, specifically for engineers running Tiptap in production.",
+    "url": "https://note.com/nocoinc/n/n3ac747e02ba7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Tiptap v2→v3 アップグレードでハマった2つの落とし穴と回避策 May 13, 2026 · この記事では、 Tiptap を本番運用しているエンジニア向けに、踏んだ2つの落とし穴とそれぞれの回避策・判断のトレードオフを書いていきます。 ※ v3 の新機能紹介や基本的な使い方には踏み込みません。",
+    "url": "https://note.com/nocoinc/n/n3ac747e02ba7",
+    "pass": 3
+   },
+   {
+    "quote": "Developing a file attachment feature in Tiptap: stumbling ... In this article, I will explain the steps for Tiptap extension development through concrete examples that solve these challenges.",
+    "url": "https://note.com/nocoinc/n/n181e1726d6c9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Tiptapでのファイル添付機能開発、つまづいたポイントとその解決方法... Jan 15, 2025 · Tiptap は ProseMirror ベースのリッチテキストエディタライブラリで、拡張性が高く使いやすいライブラリとして、昨今注目を集めています。 ただその自由度の高さから、どう拡張機能を開発していけばよいか、わからない方も多いかと思います。",
+    "url": "https://note.com/nocoinc/n/n181e1726d6c9",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Two Pitfalls and Workarounds I Encountered Upgrading Tiptap from v2 to v3｜noco株式会社 note編集部",
+    "url": "https://note.com/nocoinc/n/n3ac747e02ba7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Two Pitfalls and Workarounds I Encountered Upgrading Tiptap from v2 to v3",
+    "url": "https://note.com/nocoinc/n/n3ac747e02ba7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Hello, I'm tomo, a Web Engineer.",
+    "url": "https://note.com/nocoinc/n/n3ac747e02ba7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "in several editing screens, such as article editors and form builders. When I upgraded the major version from v2 to v3, I ran into a few issues due to behavioral changes not mentioned in the release notes.",
+    "url": "https://note.com/nocoinc/n/n3ac747e02ba7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In this article, I will share two pitfalls I encountered, their respective workarounds, and the trade-offs involved, specifically for engineers running Tiptap in production.",
+    "url": "https://note.com/nocoinc/n/n3ac747e02ba7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "※ This does not cover new features or basic usage of v3.",
+    "url": "https://note.com/nocoinc/n/n3ac747e02ba7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What you will gain from reading this article",
+    "url": "https://note.com/nocoinc/n/n3ac747e02ba7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Proxying of editor.view",
+    "url": "https://note.com/nocoinc/n/n3ac747e02ba7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Tiptap v2→v3 アップグレードでハマった2つの落とし穴と回避策｜noco株式会社 note編集部",
+    "url": "https://note.com/nocoinc/n/n3ac747e02ba7",
+    "pass": 3
+   },
+   {
+    "quote": "Tiptap v2→v3 アップグレードでハマった2つの落とし穴と回避策",
+    "url": "https://note.com/nocoinc/n/n3ac747e02ba7",
+    "pass": 3
+   },
+   {
+    "quote": "こんにちは、Web エンジニアの tomo です。",
+    "url": "https://note.com/nocoinc/n/n3ac747e02ba7",
+    "pass": 3
+   },
+   {
+    "quote": "記事エディタやフォームビルダーなど、いくつかの編集画面で",
+    "url": "https://note.com/nocoinc/n/n3ac747e02ba7",
+    "pass": 3
+   },
+   {
+    "quote": "を使っているのですが、今回メジャーバージョンを v2 から v3 に上げてみたところ、リリースノートには出てこない挙動変化でいくつかハマりました。",
+    "url": "https://note.com/nocoinc/n/n3ac747e02ba7",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、 Tiptap を本番運用しているエンジニア向けに、踏んだ2つの落とし穴とそれぞれの回避策・判断のトレードオフを書いていきます。",
+    "url": "https://note.com/nocoinc/n/n3ac747e02ba7",
+    "pass": 3
+   },
+   {
+    "quote": "※ v3 の新機能紹介や基本的な使い方には踏み込みません。",
+    "url": "https://note.com/nocoinc/n/n3ac747e02ba7",
+    "pass": 3
+   },
+   {
+    "quote": "editor.view の Proxy 化",
+    "url": "https://note.com/nocoinc/n/n3ac747e02ba7",
+    "pass": 3
+   },
+   {
+    "quote": "Developing a file attachment feature in Tiptap: stumbling blocks and solutions｜noco株式会社 note編集部",
+    "url": "https://note.com/nocoinc/n/n181e1726d6c9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Developing a file attachment feature in Tiptap: stumbling blocks and solutions",
+    "url": "https://note.com/nocoinc/n/n181e1726d6c9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "-based rich text editor library that has been gaining attention recently for being highly extensible and easy to use.",
+    "url": "https://note.com/nocoinc/n/n181e1726d6c9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "However, due to its high degree of freedom, many people may find it difficult to know how to develop extensions.",
+    "url": "https://note.com/nocoinc/n/n181e1726d6c9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In this article, I will explain how to develop Tiptap extensions through the development of a file attachment feature.",
+    "url": "https://note.com/nocoinc/n/n181e1726d6c9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Why am I writing this article?",
+    "url": "https://note.com/nocoinc/n/n181e1726d6c9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Tiptap is an excellent rich text editor that can handle many use cases, but because of its high degree of freedom, many people struggle with designing extensions.",
+    "url": "https://note.com/nocoinc/n/n181e1726d6c9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In particular, when implementing a file upload feature in the editor, there are challenges such as the following:",
+    "url": "https://note.com/nocoinc/n/n181e1726d6c9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Tiptapでのファイル添付機能開発、つまづいたポイントとその解決方法｜noco株式会社 note編集部",
+    "url": "https://note.com/nocoinc/n/n181e1726d6c9",
+    "pass": 3
+   },
+   {
+    "quote": "Tiptapでのファイル添付機能開発、つまづいたポイントとその解決方法",
+    "url": "https://note.com/nocoinc/n/n181e1726d6c9",
+    "pass": 3
+   },
+   {
+    "quote": "ベースのリッチテキストエディタライブラリで、拡張性が高く使いやすいライブラリとして、昨今注目を集めています。",
+    "url": "https://note.com/nocoinc/n/n181e1726d6c9",
+    "pass": 3
+   },
+   {
+    "quote": "ただその自由度の高さから、どう拡張機能を開発していけばよいか、わからない方も多いかと思います。",
+    "url": "https://note.com/nocoinc/n/n181e1726d6c9",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、ファイル添付機能の開発を通して、Tiptap の拡張機能開発を解説していきます。",
+    "url": "https://note.com/nocoinc/n/n181e1726d6c9",
+    "pass": 3
+   },
+   {
+    "quote": "Tiptap は多くのユースケースに対応できる優れたリッチテキストエディタですが、その自由度の高さゆえに拡張機能の設計で悩む方が多いです。",
+    "url": "https://note.com/nocoinc/n/n181e1726d6c9",
+    "pass": 3
+   },
+   {
+    "quote": "特に、ファイルアップロード機能をエディタに実装する際には、以下のような課題があります。",
+    "url": "https://note.com/nocoinc/n/n181e1726d6c9",
+    "pass": 3
+   },
+   {
+    "quote": "SEOを考慮しつつ、CSR（クライアントサイドレンダリング）とSSR（サーバーサイドレンダリング）をどう使い分けるか？",
+    "url": "https://note.com/nocoinc/n/n181e1726d6c9",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Tiptap (@tiptap_editor) / X If you built something open source around Tiptap, or using Tiptap for your project, just add it to our awesome-tiptap repo and share it with the community! It's a collection of extensions, framework wrappers, demos, blog posts and projects.",
+    "url": "https://x.com/tiptap_editor",
+    "pass": 3
+   },
+   {
+    "quote": "tiptap Foundation (@tiptapForChange) / X The tiptap Foundation works with communities to empower them to raise funds for causes that affect us all. TTF is a not-for-profit registered charity.",
+    "url": "https://x.com/tiptapForChange",
+    "pass": 3
+   },
+   {
+    "quote": "Tiptap on X: \"Ever wanted to draw in a text editor? Us ... Ever wanted to draw in a text editor? Us neither. Anyway, here is an example of how to do that in Tiptap 🤷♂️",
+    "url": "https://x.com/tiptap_editor/status/2118345183032996108",
+    "pass": 3
+   },
+   {
+    "quote": "Tiptap on X: \"We just crossed 100M monthly downloads Thanks ... Tiptap on X: \"We just crossed 100M monthly downloads 🎉 Thanks to every dev (and AI agent) who picked Tiptap for their editor!\" / X",
+    "url": "https://x.com/tiptap_editor/status/2118657892811166029",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Tiptap - LinkedIn Tiptap provides content editing and real-time collaboration tools that enable developers to implement multiplayer editing features in their own apps, just like Notion or Google Docs.",
+    "url": "https://www.linkedin.com/company/tiptapdev/",
+    "pass": 3
+   },
+   {
+    "quote": "tiptap - LinkedIn tiptap | 4,300 followers on LinkedIn. tiptap is a frictionless, in-person, omnichannel donation solution powering 1,000s of nonprofits and charities | tiptap is the leading in-person...",
+    "url": "https://ca.linkedin.com/company/tiptappay",
+    "pass": 3
+   },
+   {
+    "quote": "TipTap LLC - LinkedIn With TipTap, customers can leave a tip using their smartphone in seconds, while workers gain transparency, convenience, and faster access to their earnings.",
+    "url": "https://www.linkedin.com/company/tiptap-llc",
+    "pass": 3
+   },
+   {
+    "quote": "Henrietta Sung - Tech for Good Direct Sales Manager @ tiptap ...Sven Adlung – CTO & Co-Founder @ Tiptap (YC S23) | LinkedInArnau Gómez - AI Engineer at Tiptap (YC S23) | LinkedInAbhishek Patel - Senior Frontend Engineer (7+ Yrs) | React.js ... About I am a Direct Sales Manager at tiptap, a digital payment platform that enables contactless transactions for businesses and consumers. With over 20 yea",
+    "url": "https://ca.linkedin.com/in/hsungmulticulturalmarketing",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "TipTap - Facebooktiptap | Burlington ON - FacebookTipTap Delivery | Lynnwood - FacebookTipTap - FacebookTipTap - FacebookTipTap - FacebookTipTap - Facebook Oct 17, 2019 · Welcome to TipTap. Tips made fair. TipTap allows consumers to reward good service, via an app, with a cashless payment in a secure and transparent way directly to a worker or organisation. This means more tips and 100% of them wi",
+    "url": "https://www.facebook.com/tiptapit/",
+    "pass": 3
+   },
+   {
+    "quote": "tiptap | Burlington ON - FacebookTipTap Delivery | Lynnwood - FacebookTipTap - FacebookTipTap - FacebookTipTap - FacebookTipTap - Facebook Aug 14, 2026 · Place your tiptap devices in prominent areas where they are easily visible and most people will pass them. Also place your displays in areas where the donor is most likely to already have their mobile devices or wallets already out and handy. Oct",
+    "url": "https://www.facebook.com/tiptappay/",
+    "pass": 3
+   },
+   {
+    "quote": "TipTap Delivery | Lynnwood - FacebookTipTap - FacebookTipTap - FacebookTipTap - FacebookTipTap - Facebook Oct 7, 2025 · Tiptap Delivery is a fantastic option for busy people, those who don't feel like cooking, or anyone who wants to enjoy their favorite foods from the comfort of their own home! Dec 15, 2025 · TipTap. 1 like. Never miss a tip again - earn instantly with just one tap. Secure, seamle",
+    "url": "https://www.facebook.com/tiptapdelivery/",
+    "pass": 3
+   },
+   {
+    "quote": "TipTap - Facebook Dec 15, 2025 · TipTap. 1 like. Never miss a tip again - earn instantly with just one tap. Secure, seamless, and cashless tipping designed to put more money in your pocket!",
+    "url": "https://www.facebook.com/people/TipTap/61582416598359/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://tiptap.dev/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tiptap.dev/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tiptap.dev/pricing",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://skywork.ai/skypage/ja/tiptap-editor-ai-content-creation/1984056539721158656",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reffect.co.jp/javascript/tiptap",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zenn.dev/tellernovel_inc/articles/4a471eff90ab12",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zenn.dev/yuu104/articles/8bbbbaabe52e1e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tiptap.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kkhashi.com/blogs/detail/145/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tiptapjp.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tiptap.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/tiptapjp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.instagram.com/tiptapjp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.casestudies.com/company/neuronicworks/case-study/tiptap-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybersource.com/en-us/solutions/product-catalog/reach-further/case-study-2/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/tiptap",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybersource.com/en-us/blog/2021/tiptap-customer-story.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.t-mobile.com/business/partner-recruitment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.canva.com/partners/reseller/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.appspace.com/resellers-alliances/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/434074-33",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/tiptap",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/tiptap.dev",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/tiptap/__h28B8_Y_pwvszh4MVZpYB3h8ewuHq54FC5tQ5S07qLs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/nocoinc/n/n3ac747e02ba7?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nocoinc/n/n3ac747e02ba7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nocoinc/n/n181e1726d6c9?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nocoinc/n/n181e1726d6c9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/tiptap_editor",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tiptapForChange",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tiptap_editor/status/2118345183032996108",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tiptap_editor/status/2118657892811166029",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/tiptapdev/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/tiptappay",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/tiptap-llc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/hsungmulticulturalmarketing",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tiptapit/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tiptappay/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tiptapdelivery/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/people/TipTap/61582416598359/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tiptap_editor",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Tiptap 日本 導入",
+   "results": [
+    "https://skywork.ai/skypage/ja/tiptap-editor-ai-content-creation/1984056539721158656",
+    "https://reffect.co.jp/javascript/tiptap",
+    "https://zenn.dev/tellernovel_inc/articles/4a471eff90ab12",
+    "https://zenn.dev/yuu104/articles/8bbbbaabe52e1e",
+    "https://qiita.com/hyskhppp/items/8e1d07d99d7ea9eabf6a",
+    "https://qiita.com/RintaroNasu/items/d82a8af81e0c6a3ea8f2",
+    "https://seektool.ai/jp/ai/tiptap-dev"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tiptap 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://tiptap.jp/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://tiptap.dev/pricing",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://context.reverso.net/翻訳/日本語-英語/総代理店",
+    "https://www.indexpro.co.jp/distributor/search-maker"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tiptap Japan",
+   "results": [
+    "https://tiptapjp.com/",
+    "https://tiptap.jp/",
+    "https://www.facebook.com/tiptapjp/",
+    "https://www.instagram.com/tiptapjp/",
+    "https://tiptapjp.com/apa-sih-itu-tiptap-japan/",
+    "https://tiptap.jp/works/",
+    "https://www.instagram.com/tiptapjp/reels/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tiptap manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/neuronicworks/case-study/tiptap-customer-case-study",
+    "https://www.cybersource.com/en-us/solutions/product-catalog/reach-further/case-study-2/index.html",
+    "https://www.casestudies.com/customer/tiptap",
+    "https://www.cybersource.com/en-us/blog/2021/tiptap-customer-story.html",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.youtube.com/watch?v=kE1Hwjpr_78",
+    "https://earlyaccess.frontfundr.com/case-studies/tiptap"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tiptap white label OR reseller OR partner program",
+   "results": [
+    "https://www.t-mobile.com/business/partner-recruitment",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.canva.com/partners/reseller/",
+    "https://www.appspace.com/resellers-alliances/",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://www.tenable.com/partners/channel-partner-program",
+    "https://www.upcounsel.com/reseller-agreement"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tiptap founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/434074-33",
+    "https://compworth.com/company/tiptap",
+    "https://getlatka.com/companies/tiptap.dev",
+    "https://tracxn.com/d/companies/tiptap/__h28B8_Y_pwvszh4MVZpYB3h8ewuHq54FC5tQ5S07qLs",
+    "https://acquirezy.com/organization/tiptap",
+    "https://fundediq.co/tiptap-tiptap-dev-funding/",
+    "https://startupintros.com/orgs/tiptap"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Tiptap",
+   "results": [
+    "https://note.com/nocoinc/n/n3ac747e02ba7?hl=en",
+    "https://note.com/nocoinc/n/n3ac747e02ba7",
+    "https://note.com/nocoinc/n/n181e1726d6c9?hl=en",
+    "https://note.com/nocoinc/n/n181e1726d6c9",
+    "https://note.com/hikotopi/n/nc3fcb031354b",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/mitu0000/n/n02b4dd2d768b?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Tiptap",
+   "results": [
+    "https://x.com/tiptap_editor",
+    "https://x.com/tiptapForChange",
+    "https://x.com/tiptap_editor/status/2118345183032996108",
+    "https://x.com/tiptap_editor/status/2118657892811166029",
+    "https://x.com/gekidan_TipTap/status/2100183839184416937",
+    "https://x.com/theTipTap",
+    "https://x.com/timoisik"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Tiptap",
+   "results": [
+    "https://www.linkedin.com/company/tiptapdev/",
+    "https://ca.linkedin.com/company/tiptappay",
+    "https://www.linkedin.com/company/tiptap-llc",
+    "https://ca.linkedin.com/in/hsungmulticulturalmarketing",
+    "https://de.linkedin.com/in/sven-adlung",
+    "https://es.linkedin.com/in/arnaugomez",
+    "https://in.linkedin.com/in/abhishek-patel-445159173"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Tiptap",
+   "results": [
+    "https://www.facebook.com/tiptapit/",
+    "https://www.facebook.com/tiptappay/",
+    "https://www.facebook.com/tiptapdelivery/",
+    "https://www.facebook.com/people/TipTap/61582416598359/",
+    "https://www.facebook.com/p/TipTap-61572728648500/",
+    "https://www.facebook.com/tiptaptoday/",
+    "https://www.facebook.com/mrtiptap/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tiptap note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/",
+    "https://note.com/sadaaki",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tiptap X 投稿",
+   "results": [
+    "https://x.com/tiptap_editor",
+    "https://tiptap.dev/docs",
+    "https://docs.nexusmc.cn/docs/api/tiptap-content-format",
+    "https://twoer.github.io/tiptap-vue-pro/guide/live-demo",
+    "https://juejin.cn/post/7240833787159838775",
+    "https://x.com/gekidan_TipTap/status/2082738583287611857",
+    "https://note.com/misosoup1853/n/n8836ce28f0b4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部40頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部40頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部40頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部40頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部40頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部40頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部40頁・検索12回）"
+ }
+}

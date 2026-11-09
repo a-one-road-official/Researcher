@@ -1,0 +1,501 @@
+{
+ "name": "Indurate Alloys — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:advanced-materials-manufacturer",
+ "researched_at": "2026-11-09T17:53:59.694984+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/scaling-metal-powder-supply-and-alloy-development-join-continuum-in-our-upcoming-webinar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/methodology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/space/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.group/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.merriam-webster.com/dictionary/indurate",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dictionary.com/browse/indurate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thefreedictionary.com/indurate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wiktionary.org/wiki/indurate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/product/metal-am-market-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/wp-content/uploads/2024/11/VoxelMatters-VMFocus2024-eBook-Metal-AM.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.voxelmatters.report/methodology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/top-products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.poly-maker.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/collections/filament",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitajimuki.com/user_data/cate_fdm_print_supply.php?srsltid=AYCX9vIfwSJtkpfDPcbOPVhU7YJKtrEWw0UU52nGbrNUfDSWLONer5Fl",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/methodology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/advanced-materials-manufacturer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/advanced-materials-manufacturer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.farsoon-gl.com/news/solize-partners-japan-3d-printer-and-farsoon-technologies-announces-3-way-strategic-partnership-to-advance-large-format-lpbf-solutions-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.merriam-webster.com/dictionary/indurate",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dictionary.com/browse/indurate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thefreedictionary.com/indurate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wiktionary.org/wiki/indurate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.merriam-webster.com/dictionary/indurate",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dictionary.com/browse/indurate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thefreedictionary.com/indurate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wiktionary.org/wiki/indurate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.merriam-webster.com/dictionary/indurate",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dictionary.com/browse/indurate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thefreedictionary.com/indurate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wiktionary.org/wiki/indurate",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Indurate Alloys — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/scaling-metal-powder-supply-and-alloy-development-join-continuum-in-our-upcoming-webinar/",
+    "https://www.voxelmatters.report/methodology/",
+    "https://www.voxelmatters.directory/company-category/space/",
+    "https://www.voxelmatters.group/",
+    "https://www.voxelmatters.com/",
+    "https://www.additiveindustries.com/",
+    "https://www.voxelmatters.com/about/contact/",
+    "https://www.voxelmatters.report/",
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://www.merriam-webster.com/dictionary/indurate"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Indurate Alloys — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://www.merriam-webster.com/dictionary/indurate",
+    "https://www.dictionary.com/browse/indurate",
+    "https://www.thefreedictionary.com/indurate",
+    "https://en.wiktionary.org/wiki/indurate",
+    "https://www.merriam-webster.com/thesaurus/indurate",
+    "https://dictionary.cambridge.org/dictionary/english/indurated",
+    "https://www.vocabulary.com/dictionary/indurate",
+    "https://www.oed.com/dictionary/indurate_adj",
+    "https://www.oed.com/dictionary/indurate_v",
+    "https://www.collinsdictionary.com/dictionary/english/indurate"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Indurate Alloys — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.report/product/metal-am-market-2025/",
+    "https://www.voxelmatters.com/wp-content/uploads/2024/11/VoxelMatters-VMFocus2024-eBook-Metal-AM.pdf",
+    "https://www.voxelmatters.report/methodology/",
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://www.cadjapan.com/news/2026/d20260310_03.html",
+    "https://orion-am.com/ja",
+    "https://www.voxelmatters.com/category/marketing/additive-manufacturing-guides-and-maps/",
+    "https://www.nttdata-xam.com/news/info/article_8906/",
+    "https://www.merriam-webster.com/dictionary/indurate"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Indurate Alloys — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.voxelmatters.com/top-products/",
+    "https://www.poly-maker.jp/",
+    "https://skhonpo.com/collections/filament",
+    "https://www.mitajimuki.com/user_data/cate_fdm_print_supply.php?srsltid=AYCX9vIfwSJtkpfDPcbOPVhU7YJKtrEWw0UU52nGbrNUfDSWLONer5Fl",
+    "https://www.hotty.co.jp/columns/strength-filament-3dprinter/",
+    "https://www.alloys.com.au/print-consumables/3d?srsltid=AYCX9vLMkJT5cWV_j8WbpPjxIObR1sGmBkOwpir5I6GYFGZNbIwWL2MR",
+    "https://shop.exmatelab.com/",
+    "https://www.amazon.co.jp/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF-%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E7%B4%A0%E6%9D%90/b?ie=UTF8&node=3489859051",
+    "https://jp.rs-online.com/web/c/computing-peripherals/3d-printing-scanning/3d-printing-materials/?srsltid=AYCX9vJvkzrJwLRMWxsuBejBOk9v5jHHIpl75lgn1k4jvtZU6QS_oZ9k",
+    "https://www.merriam-webster.com/dictionary/indurate"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Indurate Alloys — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.report/methodology/",
+    "https://www.voxelmatters.directory/company-category/advanced-materials-manufacturer/",
+    "https://www.voxelmatters.com/",
+    "https://partners.solize.com/en/manufacturing",
+    "https://aeroedge.co.jp/en/additive-manufacturing/",
+    "https://www.voestalpine.com/highperformancemetals/en-gl/services/additive-manufacturing/",
+    "https://www.youtube.com/watch?v=db6VK7ePYGo",
+    "https://www.velo3d.com/materials",
+    "https://www.merriam-webster.com/dictionary/indurate"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Indurate Alloys — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.directory/company-category/advanced-materials-manufacturer/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.farsoon-gl.com/news/solize-partners-japan-3d-printer-and-farsoon-technologies-announces-3-way-strategic-partnership-to-advance-large-format-lpbf-solutions-in-japan/",
+    "https://www.voxelmatters.report/methodology/",
+    "https://www.metal-am.com/articles/the-current-status-and-outlook-for-metal-additive-manufacturing-in-japan/",
+    "https://global.jaxa.jp/press/2024/06/20240613-1_e.html",
+    "https://www.additiveassurance.com/press.html",
+    "https://partners.solize.com/en/manufacturing",
+    "https://www.merriam-webster.com/dictionary/indurate"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "site:amazon.co.jp Indurate Alloys — VoxelMatters",
+   "results": [
+    "https://www.merriam-webster.com/dictionary/indurate",
+    "https://www.dictionary.com/browse/indurate",
+    "https://www.thefreedictionary.com/indurate",
+    "https://en.wiktionary.org/wiki/indurate",
+    "https://www.merriam-webster.com/thesaurus/indurate",
+    "https://dictionary.cambridge.org/dictionary/english/indurated",
+    "https://www.vocabulary.com/dictionary/indurate",
+    "https://www.oed.com/dictionary/indurate_adj",
+    "https://www.oed.com/dictionary/indurate_v",
+    "https://www.collinsdictionary.com/dictionary/english/indurate"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:monotaro.com Indurate Alloys — VoxelMatters",
+   "results": [
+    "https://www.merriam-webster.com/dictionary/indurate",
+    "https://www.dictionary.com/browse/indurate",
+    "https://www.thefreedictionary.com/indurate",
+    "https://en.wiktionary.org/wiki/indurate",
+    "https://www.merriam-webster.com/thesaurus/indurate",
+    "https://dictionary.cambridge.org/dictionary/english/indurated",
+    "https://www.vocabulary.com/dictionary/indurate",
+    "https://www.oed.com/dictionary/indurate_adj",
+    "https://www.collinsdictionary.com/dictionary/english/indurate",
+    "https://www.oed.com/dictionary/indurate_v"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Indurate Alloys — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.merriam-webster.com/dictionary/indurate",
+    "https://www.dictionary.com/browse/indurate",
+    "https://www.thefreedictionary.com/indurate",
+    "https://en.wiktionary.org/wiki/indurate",
+    "https://www.merriam-webster.com/thesaurus/indurate",
+    "https://dictionary.cambridge.org/dictionary/english/indurated",
+    "https://www.vocabulary.com/dictionary/indurate",
+    "https://www.oed.com/dictionary/indurate_adj",
+    "https://www.oed.com/dictionary/indurate_v",
+    "https://www.collinsdictionary.com/dictionary/english/indurate"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:note.com Indurate Alloys — VoxelMatters",
+   "results": [
+    "https://www.merriam-webster.com/dictionary/indurate",
+    "https://www.dictionary.com/browse/indurate",
+    "https://www.thefreedictionary.com/indurate",
+    "https://en.wiktionary.org/wiki/indurate",
+    "https://www.merriam-webster.com/thesaurus/indurate",
+    "https://dictionary.cambridge.org/dictionary/english/indurated",
+    "https://www.vocabulary.com/dictionary/indurate",
+    "https://www.oed.com/dictionary/indurate_adj",
+    "https://www.collinsdictionary.com/dictionary/english/indurate",
+    "https://www.oed.com/dictionary/indurate_v"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:x.com Indurate Alloys — VoxelMatters",
+   "results": [
+    "https://www.merriam-webster.com/dictionary/indurate",
+    "https://www.dictionary.com/browse/indurate",
+    "https://www.thefreedictionary.com/indurate",
+    "https://en.wiktionary.org/wiki/indurate",
+    "https://www.merriam-webster.com/thesaurus/indurate",
+    "https://dictionary.cambridge.org/dictionary/english/indurated",
+    "https://www.vocabulary.com/dictionary/indurate",
+    "https://www.oed.com/dictionary/indurate_adj",
+    "https://www.collinsdictionary.com/dictionary/english/indurate",
+    "https://www.oed.com/dictionary/indurate_v"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:linkedin.com Indurate Alloys — VoxelMatters",
+   "results": [
+    "https://www.merriam-webster.com/dictionary/indurate",
+    "https://www.dictionary.com/browse/indurate",
+    "https://www.thefreedictionary.com/indurate",
+    "https://en.wiktionary.org/wiki/indurate",
+    "https://www.merriam-webster.com/thesaurus/indurate",
+    "https://dictionary.cambridge.org/dictionary/english/indurated",
+    "https://www.vocabulary.com/dictionary/indurate",
+    "https://www.oed.com/dictionary/indurate_adj",
+    "https://www.collinsdictionary.com/dictionary/english/indurate",
+    "https://www.oed.com/dictionary/indurate_v"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:facebook.com Indurate Alloys — VoxelMatters",
+   "results": [
+    "https://www.merriam-webster.com/dictionary/indurate",
+    "https://www.dictionary.com/browse/indurate",
+    "https://www.thefreedictionary.com/indurate",
+    "https://en.wiktionary.org/wiki/indurate",
+    "https://www.merriam-webster.com/thesaurus/indurate",
+    "https://dictionary.cambridge.org/dictionary/english/indurated",
+    "https://www.vocabulary.com/dictionary/indurate",
+    "https://www.oed.com/dictionary/indurate_adj",
+    "https://www.collinsdictionary.com/dictionary/english/indurate",
+    "https://www.oed.com/dictionary/indurate_v"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Indurate Alloys — VoxelMatters note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Indurate Alloys — VoxelMatters X 投稿",
+   "results": [
+    "https://www.merriam-webster.com/dictionary/indurate",
+    "https://www.dictionary.com/browse/indurate",
+    "https://www.thefreedictionary.com/indurate",
+    "https://en.wiktionary.org/wiki/indurate",
+    "https://www.merriam-webster.com/thesaurus/indurate",
+    "https://dictionary.cambridge.org/dictionary/english/indurated",
+    "https://www.vocabulary.com/dictionary/indurate",
+    "https://www.oed.com/dictionary/indurate_adj",
+    "https://www.oed.com/dictionary/indurate_v",
+    "https://www.collinsdictionary.com/dictionary/english/indurate"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）"
+ }
+}

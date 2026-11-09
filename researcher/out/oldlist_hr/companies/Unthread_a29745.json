@@ -1,0 +1,1461 @@
+{
+ "name": "Unthread",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜AUMS不適合",
+ "researched_at": "2026-11-09T18:11:53.485406+00:00",
+ "official_url": "https://unthread.io",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "料金体系",
+    "value": "自社に最適なプランは？",
+    "url": "https://skywork.ai/skypage/ja/ai-service-desk/1985144591029182464",
+    "pass": 3
+   },
+   {
+    "label": "料金体系",
+    "value": "自社に最適なプランは？ Unthreadは14日間の無料トライアルを提供しており、主要な機能を試すことができます",
+    "url": "https://skywork.ai/skypage/ja/ai-service-desk/1985144591029182464",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Powering support teams from fast-growing startups to enterprises",
+    "url": "https://unthread.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Capture Slack threads, Teams messages, email, and portal requests without forcing employees or customers into a separate system.",
+    "url": "https://unthread.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Answer the question, trigger a workflow, collect an approval, update a system, or escalate with the full history attached.",
+    "url": "https://unthread.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Every resolution improves the operation.",
+    "url": "https://unthread.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise service operations",
+    "url": "https://unthread.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Move beyond a collection of support tools. Unthread connects the conversational front door to the systems, controls, and service-management practices modern enterprises depend on.",
+    "url": "https://unthread.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Coordinate change management and CAB approvals with the context, ownership, and history needed to move safely.",
+    "url": "https://unthread.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically track tickets from Slack or Microsoft Teams channels, or let users DM a support bot for private ticket creation.",
+    "url": "https://unthread.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Unthread includes ITIL-ready capabilities such as CMDB, asset tracking, change management, problem management, CAB approvals, SLAs, knowledge, and omnichannel intake.",
+    "url": "https://unthread.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Unthread uses connected knowledge to answer requests and can capture resolved conversations to propose or update documentation so future answers stay current.",
+    "url": "https://unthread.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Unthread's AI often amazes me with how helpful it is in managing SLAs and sending reminder notifications. It generates action-based workflows and auto-resolves many tasks from our knowledge-base, allowing our team to focus on what's important in the product roadmap.",
+    "url": "https://unthread.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Unthread made it so that we could continue to provide blazing fast support via Slack, but made it so that we could scale up Slack-based support. The tool works wonderfully and has allowed us to keep our response times low and customer satisfaction high.",
+    "url": "https://unthread.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Powering support teams from fast-growing startups to enterprises",
+    "url": "https://unthread.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Unthread is more than a ticketing solution. The product touches every aspect of operational communication — from seed startups to public companies.",
+    "url": "https://unthread.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Escalations & approval requests",
+    "url": "https://unthread.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Everything in Pro, plus:",
+    "url": "https://unthread.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Slack enterprise grid",
+    "url": "https://unthread.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Powering support teams from fast-growing startups to enterprises",
+    "url": "https://unthread.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How do I know if I need the enterprise plan?",
+    "url": "https://unthread.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We found Unthread in the Y Combinator community. We looked at 30+ AI and Slack ticketing solutions right after GPT changed the world, and it was clear that their unique approach to AI and ticketing built directly into our Slack channels was the winning approach.",
+    "url": "https://unthread.io/blog/case-study-how-lemonade-boosts-efficiency-with-unthread-and-gen-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Unthread is used across our business to help support our global employees with a huge gamut of requests and business processes, all through Slack. Dozens of internal operational teams track work through Unthread’s automated ticketing platform.",
+    "url": "https://unthread.io/blog/case-study-how-lemonade-boosts-efficiency-with-unthread-and-gen-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We get access to the latest LLMs, and we can build automations freaking fast. We can update our AI prompts, knowledge, and behavior and see it in effect instantly.",
+    "url": "https://unthread.io/blog/case-study-how-lemonade-boosts-efficiency-with-unthread-and-gen-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We initially spoke to Unthread to adopt a modern ITSM to replace Jira. As we saw its capabilities, we saw that any operational team who uses Slack (aka any operational team) would benefit from Unthread. We launched with IT initially but quickly saw the adoption from Finance, Operations, People Ops, PR, Talent, and we’re happy to say that our quality of life has improved in big ways. .",
+    "url": "https://unthread.io/blog/case-study-how-lemonade-boosts-efficiency-with-unthread-and-gen-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "that come in across our different teams. This means countless hours saved for employees across the organization. The Unthread team has been prioritizing AI features to lead the way in agentic service management.",
+    "url": "https://unthread.io/blog/case-study-how-lemonade-boosts-efficiency-with-unthread-and-gen-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Aside from numbers, our employee happiness is a top priority here. We get feedback from employees that Unthread feels like “magic”, and they couldn’t be happier that we made the switch.",
+    "url": "https://unthread.io/blog/case-study-how-lemonade-boosts-efficiency-with-unthread-and-gen-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "this has to be more than a marketing buzzword. Look at how this fits in with the user experience and the agent experience to provide real value rather than an afterthought.",
+    "url": "https://unthread.io/blog/case-study-how-lemonade-boosts-efficiency-with-unthread-and-gen-ai/",
+    "pass": 1
+   },
+   {
+    "quote": ": do you vibe with their team? It’s not scientific, but it is crucial. Vibing means that the vendor has shared values and truly understands your problem on a deep level. They must be able to collaborate , be obsessed about the experience, and show (not just tell) how they are translating their inspiration into the product.",
+    "url": "https://unthread.io/blog/case-study-how-lemonade-boosts-efficiency-with-unthread-and-gen-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Speed is the first thing that comes to mind. Speed of setup, speed of day-to-day tasks, speed of the development team in shipping new features every week. Lemonade is a fast-paced company built on AI, and Unthread is a product that propels that energy.",
+    "url": "https://unthread.io/blog/case-study-how-lemonade-boosts-efficiency-with-unthread-and-gen-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "To learn more about Lemonade’s leading insurance products, you can sign up instantly at",
+    "url": "https://unthread.io/blog/case-study-how-lemonade-boosts-efficiency-with-unthread-and-gen-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Since switching to Unthread, the team can focus on being proactive rather than reactive, and employees get the help they need faster”",
+    "url": "https://unthread.io/blog/case-study-how-sisenses-it-team-achieved-99-csat-with-unthread/",
+    "pass": 1
+   },
+   {
+    "quote": "Sisense is an AI company that provides world-class embedded analytics and insights for their customers. When AI intelligence is at the heart of your company like Sisense, it’s important that your ITSM and your employee experience matches that.",
+    "url": "https://unthread.io/blog/case-study-how-sisenses-it-team-achieved-99-csat-with-unthread/",
+    "pass": 1
+   },
+   {
+    "quote": "What started with Slack now extends to AI clients through the Unthread MCP, allowing users to access support directly from their favorite approved AI tools.",
+    "url": "https://unthread.io/blog/case-study-how-sisenses-it-team-achieved-99-csat-with-unthread/",
+    "pass": 1
+   },
+   {
+    "quote": "Transitioning ITSMs can be an arduous process involving a lot of factors like migrating data, recreating configurations, training team members. A key part of the transition was the seamless sync of data and configuration into Unthread so the team could get up and running on day one.",
+    "url": "https://unthread.io/blog/case-study-how-sisenses-it-team-achieved-99-csat-with-unthread/",
+    "pass": 1
+   },
+   {
+    "quote": "It’s no surprise that when you let employees file tickets from the tools they already use every day, they’re more likely to be satisfied with the services provided. On top of that, the IT team has access to automation tools and agentic AI to resolve issues in a matter of seconds. The result has been a",
+    "url": "https://unthread.io/blog/case-study-how-sisenses-it-team-achieved-99-csat-with-unthread/",
+    "pass": 1
+   },
+   {
+    "quote": "Dennis led the charge of the IT team first testing Unthread in a POC before bringing on other key teams like Procurement, Finance and other business teams. With everyone’s ticketing unified into a single tool, it’s easier to collaborate and share context, especially with details being shared across Slack with the right team members.",
+    "url": "https://unthread.io/blog/case-study-how-sisenses-it-team-achieved-99-csat-with-unthread/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by IT teams at fast-growing companies and enterprises",
+    "url": "https://unthread.io/solutions/it-service-desk",
+    "pass": 1
+   },
+   {
+    "quote": "Create tickets from Slack threads, DMs, and emails automatically.",
+    "url": "https://unthread.io/solutions/it-service-desk",
+    "pass": 1
+   },
+   {
+    "quote": "Full ITIL coverage — CMDB, asset tracking, change management, problem management, and CAB approvals — alongside agentic AI, knowledge base, SLAs, and omnichannel intake. All Slack-native, all in one platform.",
+    "url": "https://unthread.io/solutions/it-service-desk",
+    "pass": 1
+   },
+   {
+    "quote": "Slack-native ticket creation with zero training",
+    "url": "https://unthread.io/solutions/it-service-desk",
+    "pass": 1
+   },
+   {
+    "quote": "The AI agent reads every ticket",
+    "url": "https://unthread.io/solutions/it-service-desk",
+    "pass": 1
+   },
+   {
+    "quote": "Category, priority & team auto-assigned",
+    "url": "https://unthread.io/solutions/it-service-desk",
+    "pass": 1
+   },
+   {
+    "quote": "Custom agentic prompts for bespoke logic",
+    "url": "https://unthread.io/solutions/it-service-desk",
+    "pass": 1
+   },
+   {
+    "quote": "Unthread AI reads context, searches your docs, and delivers grounded answers — not generic summaries. Deflects 40% on day one.",
+    "url": "https://unthread.io/solutions/it-service-desk",
+    "pass": 1
+   },
+   {
+    "quote": "Performance you can prove",
+    "url": "https://unthread.io/solutions/it-service-desk",
+    "pass": 1
+   },
+   {
+    "quote": "Anya · primary · 4h left",
+    "url": "https://unthread.io/solutions/it-service-desk",
+    "pass": 1
+   },
+   {
+    "quote": "Every laptop, phone, software license, and configuration item lives in one searchable CMDB. Lock a lost laptop, push an OS update, or provision a new hire's kit — all without leaving the conversation.",
+    "url": "https://unthread.io/solutions/it-service-desk",
+    "pass": 1
+   },
+   {
+    "quote": "MacBook Pro 16\"",
+    "url": "https://unthread.io/solutions/it-service-desk",
+    "pass": 1
+   },
+   {
+    "quote": "iPhone 15 Pro",
+    "url": "https://unthread.io/solutions/it-service-desk",
+    "pass": 1
+   },
+   {
+    "quote": "MDM-synced · 3 providers",
+    "url": "https://unthread.io/solutions/it-service-desk",
+    "pass": 1
+   },
+   {
+    "quote": "New hire · Engineering",
+    "url": "https://unthread.io/solutions/it-service-desk",
+    "pass": 1
+   },
+   {
+    "quote": "Onboarding & offboarding",
+    "url": "https://unthread.io/solutions/it-service-desk",
+    "pass": 1
+   },
+   {
+    "quote": "From the moment an offer's signed to the day someone hands back their laptop — every access grant, device, and HR handoff flows through a single ticket. No more spreadsheets, no more forgotten accounts.",
+    "url": "https://unthread.io/solutions/it-service-desk",
+    "pass": 1
+   },
+   {
+    "quote": "New hire ready · day 1",
+    "url": "https://unthread.io/solutions/it-service-desk",
+    "pass": 1
+   },
+   {
+    "quote": "First day · fully provisioned",
+    "url": "https://unthread.io/solutions/it-service-desk",
+    "pass": 1
+   },
+   {
+    "quote": "Slack + email + SSO provisioned",
+    "url": "https://unthread.io/solutions/it-service-desk",
+    "pass": 1
+   },
+   {
+    "quote": "Ramp-up · training + check-in",
+    "url": "https://unthread.io/solutions/it-service-desk",
+    "pass": 1
+   },
+   {
+    "quote": "Training courses auto-assigned",
+    "url": "https://unthread.io/solutions/it-service-desk",
+    "pass": 1
+   },
+   {
+    "quote": "Onboarding record archived",
+    "url": "https://unthread.io/solutions/it-service-desk",
+    "pass": 1
+   },
+   {
+    "quote": "Unthread is an ITIL-ready IT service management platform that combines Slack-native intake with ticketing, agentic AI, knowledge, CMDB, asset tracking, change management, problem management, CAB approvals, SLAs, and integrations.",
+    "url": "https://unthread.io/solutions/it-service-desk",
+    "pass": 1
+   },
+   {
+    "quote": "Unthread includes ticketing, CMDB, asset and device tracking, change and problem management, CAB approvals, knowledge, SLAs, automation, analytics, and omnichannel intake.",
+    "url": "https://unthread.io/solutions/it-service-desk",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "A request arrives where work already happens.",
+    "url": "https://unthread.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Capture Slack threads, Teams messages, email, and portal requests without forcing employees or customers into a separate system.",
+    "url": "https://unthread.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Apply permissions and durable workflows across teams without giving up the conversational experience employees adopt.",
+    "url": "https://unthread.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted from fast-growing teams to the Fortune 500.",
+    "url": "https://unthread.io/",
+    "pass": 1
+   },
+   {
+    "quote": "from seed to Fortune 500",
+    "url": "https://unthread.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Unthread is used across our business to help support our global employees with a huge gamut of requests and business processes, all through Slack. Dozens of internal operational teams track work through Unthread’s automated ticketing platform.",
+    "url": "https://unthread.io/blog/case-study-how-lemonade-boosts-efficiency-with-unthread-and-gen-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "I have administered every flavor of Jira for over 10 years. I wanted to bring a rich Slack user experience employees can fall in love with, generating unmatched user efficiency, with AI features around every corner of the platform. Unthread is this.",
+    "url": "https://unthread.io/blog/case-study-how-lemonade-boosts-efficiency-with-unthread-and-gen-ai/",
+    "pass": 1
+   },
+   {
+    "quote": ", while delivering a distinctively frictionless and delightful interface. Our employees deserve the exact same experience. Using Unthread in our Slack delivers this for us.",
+    "url": "https://unthread.io/blog/case-study-how-lemonade-boosts-efficiency-with-unthread-and-gen-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "With Unthread and Slack, our support teams are augmented with AI to reduce mundane interactions, and with Slack, our teams operate in a simple interface. Unthread brings employees closer and quicker to the supporting team only when truly needed.",
+    "url": "https://unthread.io/blog/case-study-how-lemonade-boosts-efficiency-with-unthread-and-gen-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our support agents get to use their powerful web dashboard to manage tickets, generate automations, and handle tickets instantly, all while employees get the Slack experience that they want.",
+    "url": "https://unthread.io/blog/case-study-how-lemonade-boosts-efficiency-with-unthread-and-gen-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "that come in across our different teams. This means countless hours saved for employees across the organization. The Unthread team has been prioritizing AI features to lead the way in agentic service management.",
+    "url": "https://unthread.io/blog/case-study-how-lemonade-boosts-efficiency-with-unthread-and-gen-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Aside from numbers, our employee happiness is a top priority here. We get feedback from employees that Unthread feels like “magic”, and they couldn’t be happier that we made the switch.",
+    "url": "https://unthread.io/blog/case-study-how-lemonade-boosts-efficiency-with-unthread-and-gen-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Since switching to Unthread, the team can focus on being proactive rather than reactive, and employees get the help they need faster”",
+    "url": "https://unthread.io/blog/case-study-how-sisenses-it-team-achieved-99-csat-with-unthread/",
+    "pass": 1
+   },
+   {
+    "quote": "Meeting Employees Where They Are",
+    "url": "https://unthread.io/blog/case-study-how-sisenses-it-team-achieved-99-csat-with-unthread/",
+    "pass": 1
+   },
+   {
+    "quote": "Transitioning ITSMs can be an arduous process involving a lot of factors like migrating data, recreating configurations, training team members. A key part of the transition was the seamless sync of data and configuration into Unthread so the team could get up and running on day one.",
+    "url": "https://unthread.io/blog/case-study-how-sisenses-it-team-achieved-99-csat-with-unthread/",
+    "pass": 1
+   },
+   {
+    "quote": "It’s no surprise that when you let employees file tickets from the tools they already use every day, they’re more likely to be satisfied with the services provided. On top of that, the IT team has access to automation tools and agentic AI to resolve issues in a matter of seconds. The result has been a",
+    "url": "https://unthread.io/blog/case-study-how-sisenses-it-team-achieved-99-csat-with-unthread/",
+    "pass": 1
+   },
+   {
+    "quote": "How do employees request help?",
+    "url": "https://unthread.io/solutions/it-service-desk",
+    "pass": 1
+   },
+   {
+    "quote": "Employees can ask for help in Slack or other connected channels. Unthread captures the request, provides self-service when possible, and creates a managed ticket when needed.",
+    "url": "https://unthread.io/solutions/it-service-desk",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Employees can request help and receive updates in Slack, while IT manages structured tickets, ownership, SLAs, automations, and service data in Unthread.",
+    "url": "https://unthread.io/solutions/it-service-desk",
+    "pass": 1
+   },
+   {
+    "quote": "For Revenue Operations",
+    "url": "https://unthread.io/solutions/revops",
+    "pass": 1
+   },
+   {
+    "quote": "Works with your revenue stack",
+    "url": "https://unthread.io/solutions/revops",
+    "pass": 1
+   },
+   {
+    "quote": "Since switching to Unthread, the team can focus on being proactive rather than reactive, and employees get the help they need faster”",
+    "url": "https://unthread.io/blog/tag/customer-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "Heron Data is a YC-backed company that takes unstructured, messy bank data and turns it into cash-flow reports that are used to power highly predictive, explainable lending decisions. Heron enables automated and manual decisioning across the credit space, including for lines of credit, cash advances, revenue-based financing, business credit cards",
+    "url": "https://unthread.io/blog/tag/customer-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "Unthread is built with security at its core. We're SOC 2 Type II certified and trusted by Fortune 500 companies to handle their most sensitive support operations.",
+    "url": "https://unthread.io/security",
+    "pass": 1
+   },
+   {
+    "quote": "主な利用部門: IT、人事(People Ops)、法務、財務、RevOps(Revenue Operations)、カスタマーサポート 導入企業: Intuit, Lemonade, Automatticなど、Fortune 500企業から急成長スタートアップまで幅広く導入されています",
+    "url": "https://skywork.ai/skypage/ja/ai-service-desk/1985144591029182464",
+    "pass": 3
+   },
+   {
+    "quote": "Unthreadは、これらのレガシーなツールが抱える「体験の分断」や「設定の複雑さ」といった課題に対し、「Meet employees where they are（従業員がいる場所で対応する）」という哲学で明確なアンサーを提示しているのです",
+    "url": "https://skywork.ai/skypage/ja/ai-service-desk/1985144591029182464",
+    "pass": 3
+   },
+   {
+    "quote": "Unthread Revenue 2024: $108.9K Est.",
+    "url": "https://getlatka.com/companies/unthread.io#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Unthread has not published its revenue. GetLatka estimates it at about $108.9K a year (October 2024).",
+    "url": "https://getlatka.com/companies/unthread.io#customers",
+    "pass": 3
+   },
+   {
+    "quote": "All 2 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/unthread.io#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Unthread CEO, founders & employees",
+    "url": "https://getlatka.com/companies/unthread.io#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Tom Bachant founded Unthread in 2022 and runs it as CEO. Unthread had 6 employees (October 2024, LinkedIn), up from 2 a year earlier.",
+    "url": "https://getlatka.com/companies/unthread.io#customers",
+    "pass": 3
+   },
+   {
+    "quote": "What is Unthread's revenue?",
+    "url": "https://getlatka.com/companies/unthread.io#customers",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Unthread's revenue at about",
+    "url": "https://getlatka.com/companies/unthread.io#customers",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Unthread have?",
+    "url": "https://getlatka.com/companies/unthread.io#customers",
+    "pass": 3
+   },
+   {
+    "quote": "employees in October 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/unthread.io#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/unthread.io#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/unthread.io#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/unthread.io#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Unthread Revenue 2024: $108.9K Est.",
+    "url": "https://getlatka.com/companies/unthread.io",
+    "pass": 3
+   },
+   {
+    "quote": "Unthread has not published its revenue. GetLatka estimates it at about $108.9K a year (October 2024).",
+    "url": "https://getlatka.com/companies/unthread.io",
+    "pass": 3
+   },
+   {
+    "quote": "All 2 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/unthread.io",
+    "pass": 3
+   },
+   {
+    "quote": "Unthread CEO, founders & employees",
+    "url": "https://getlatka.com/companies/unthread.io",
+    "pass": 3
+   },
+   {
+    "quote": "Tom Bachant founded Unthread in 2022 and runs it as CEO. Unthread had 6 employees (October 2024, LinkedIn), up from 2 a year earlier.",
+    "url": "https://getlatka.com/companies/unthread.io",
+    "pass": 3
+   },
+   {
+    "quote": "What is Unthread's revenue?",
+    "url": "https://getlatka.com/companies/unthread.io",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Unthread's revenue at about",
+    "url": "https://getlatka.com/companies/unthread.io",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Unthread have?",
+    "url": "https://getlatka.com/companies/unthread.io",
+    "pass": 3
+   },
+   {
+    "quote": "employees in October 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/unthread.io",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/unthread.io",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/unthread.io",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/unthread.io",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Unthread have?",
+    "url": "https://fundediq.co/unthread-unthread-io-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/unthread-unthread-io-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/unthread-unthread-io-funding/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Unthread tracks requests across Slack, Teams, email, or your favorite LLM — and",
+    "url": "https://unthread.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Capture Slack threads, Teams messages, email, and portal requests without forcing employees or customers into a separate system.",
+    "url": "https://unthread.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Slack, Teams, email, web, and API",
+    "url": "https://unthread.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Unthread supports IT, HR, customer support, employee support, and RevOps teams that manage requests in Slack, Microsoft Teams, email, or shared support channels.",
+    "url": "https://unthread.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Unthread is built to create, manage, and resolve support tickets directly from Slack conversations, while also supporting Microsoft Teams, email, portals, and connected channels.",
+    "url": "https://unthread.io/",
+    "pass": 1
+   },
+   {
+    "quote": "I couldn't be happier with Unthread. It has seamlessly consolidated our ticket flows from Slack, Teams, email, and chat, bringing everything together in one intuitive interface. The automations are top-notch and save us tons of time.",
+    "url": "https://unthread.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Mass email broadcasts",
+    "url": "https://unthread.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Create tickets from Slack threads, DMs, and emails automatically.",
+    "url": "https://unthread.io/solutions/it-service-desk",
+    "pass": 1
+   },
+   {
+    "quote": "Email-to-ticket with threading & attachments",
+    "url": "https://unthread.io/solutions/it-service-desk",
+    "pass": 1
+   },
+   {
+    "quote": "Slack, email, web chat, Teams, API — unified.",
+    "url": "https://unthread.io/solutions/it-service-desk",
+    "pass": 1
+   },
+   {
+    "quote": "Slack + email + SSO provisioned",
+    "url": "https://unthread.io/solutions/it-service-desk",
+    "pass": 1
+   },
+   {
+    "quote": "SSO + email suspended",
+    "url": "https://unthread.io/solutions/it-service-desk",
+    "pass": 1
+   },
+   {
+    "quote": "Create tickets from Slack threads, DMs, and emails automatically.",
+    "url": "https://unthread.io/solutions/hr-service-desk",
+    "pass": 1
+   },
+   {
+    "quote": "Email-to-ticket with threading & attachments",
+    "url": "https://unthread.io/solutions/hr-service-desk",
+    "pass": 1
+   },
+   {
+    "quote": "Slack, email, web chat, Teams, API — unified.",
+    "url": "https://unthread.io/solutions/hr-service-desk",
+    "pass": 1
+   },
+   {
+    "quote": "Email-to-ticket with threading & attachments",
+    "url": "https://unthread.io/solutions/customer-support",
+    "pass": 1
+   },
+   {
+    "quote": "Slack, email, web chat, Teams, API — unified.",
+    "url": "https://unthread.io/solutions/customer-support",
+    "pass": 1
+   },
+   {
+    "quote": "Unified inbox across Slack, email, web chat & API",
+    "url": "https://unthread.io/solutions/customer-support",
+    "pass": 1
+   },
+   {
+    "quote": "Create tickets from Slack threads, DMs, and emails automatically.",
+    "url": "https://unthread.io/solutions/employee-support",
+    "pass": 1
+   },
+   {
+    "quote": "Email-to-ticket with threading & attachments",
+    "url": "https://unthread.io/solutions/employee-support",
+    "pass": 1
+   },
+   {
+    "quote": "Slack, email, web chat, Teams, API — unified.",
+    "url": "https://unthread.io/solutions/employee-support",
+    "pass": 1
+   },
+   {
+    "quote": "Create tickets from Slack threads, DMs, and emails automatically.",
+    "url": "https://unthread.io/solutions/revops",
+    "pass": 1
+   },
+   {
+    "quote": "Email-to-ticket with threading & attachments",
+    "url": "https://unthread.io/solutions/revops",
+    "pass": 1
+   },
+   {
+    "quote": "Slack, email, web chat, Teams, API — unified.",
+    "url": "https://unthread.io/solutions/revops",
+    "pass": 1
+   },
+   {
+    "quote": "Such a large and diverse user base also makes for a thriving community, where folks can help answer each other’s questions and provide best practices. thirdweb focused early on building out an engaged community and providing help where users needed it. Customer questions come from many disparate platforms – Discord, Telegram, shared Slack channels, email, in-app chat, and more.",
+    "url": "https://unthread.io/blog/customer-story-thirdweb-makes-web3-easy-for-developers/",
+    "pass": 1
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/unthread-unthread-io-funding/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by leaders in SaaS, fintech, consulting, and more.",
+    "url": "https://unthread.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: How Sisense’s IT Team Achieved 99% CSAT with Unthread",
+    "url": "https://unthread.io/blog/case-study-how-sisenses-it-team-achieved-99-csat-with-unthread/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by IT teams at fast-growing companies and enterprises",
+    "url": "https://unthread.io/solutions/it-service-desk",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by IT leaders",
+    "url": "https://unthread.io/solutions/it-service-desk",
+    "pass": 1
+   },
+   {
+    "quote": "Read the full case study",
+    "url": "https://unthread.io/solutions/it-service-desk",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by HR leaders",
+    "url": "https://unthread.io/solutions/hr-service-desk",
+    "pass": 1
+   },
+   {
+    "quote": "Read the full case study",
+    "url": "https://unthread.io/solutions/hr-service-desk",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by support teams at fast-growing companies and enterprises",
+    "url": "https://unthread.io/solutions/customer-support",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by support leaders",
+    "url": "https://unthread.io/solutions/customer-support",
+    "pass": 1
+   },
+   {
+    "quote": "Read the full case study",
+    "url": "https://unthread.io/solutions/customer-support",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by internal support teams at fast-growing companies and enterprises",
+    "url": "https://unthread.io/solutions/employee-support",
+    "pass": 1
+   },
+   {
+    "quote": "Read the full case study",
+    "url": "https://unthread.io/solutions/employee-support",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by RevOps teams at fast-growing companies and enterprises",
+    "url": "https://unthread.io/solutions/revops",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by ops leaders",
+    "url": "https://unthread.io/solutions/revops",
+    "pass": 1
+   },
+   {
+    "quote": "Read the full case study",
+    "url": "https://unthread.io/solutions/revops",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how Unthread is being used by one of the leading medical technology companies across their IT and customer support operations and delivering measurable results.",
+    "url": "https://unthread.io/blog/tag/customer-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "Unthread is built with security at its core. We're SOC 2 Type II certified and trusted by Fortune 500 companies to handle their most sensitive support operations.",
+    "url": "https://unthread.io/security",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Renegade Technologies uses Unthread to Deflect 70% of IT Tickets",
+    "url": "https://unthread.io/blog/case-study-renegade-technologies-uses-unthread-to-deflect-70-of-it-tickets/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: How a Top Telemedicine Platform Solves Issues 86% Faster With Unthread",
+    "url": "https://unthread.io/blog/case-study-how-a-top-telemedicine-platform-solves-issues-86-faster-with-unthread/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how Unthread is being used by one of the leading medical technology companies across their IT and customer support operations and delivering measurable results.",
+    "url": "https://unthread.io/blog/case-study-how-a-top-telemedicine-platform-solves-issues-86-faster-with-unthread/",
+    "pass": 1
+   },
+   {
+    "quote": "thirdweb’s customers include some of the biggest web3 projects including web3 gaming leaders Pixels and Gala Games, and NFT projects like Mirror and Layer3.",
+    "url": "https://unthread.io/blog/customer-story-thirdweb-makes-web3-easy-for-developers/",
+    "pass": 1
+   },
+   {
+    "quote": "Foundry Robotics is an AI driven robotics company rebuilding manufacturing with advanced assembly automation…",
+    "url": "https://fundediq.co/unthread-unthread-io-funding/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "データソース: Unthreadの機能および一般的なナレッジマネジメント手法に基づく分析 Unthreadに関するよくある質問（FAQ） Q1: Unthreadはどのような業種の企業に適していますか？ A1: Unthreadは、SaaS、フィンテック、コンサルティング、代理店など、幅広い業種で導入されています",
+    "url": "https://skywork.ai/skypage/ja/ai-service-desk/1985144591029182464",
+    "pass": 3
+   },
+   {
+    "quote": "Q4: Unthreadは日本語に対応していますか？ A4: 公式ドキュメントでは、対応言語として英語が明記されています",
+    "url": "https://skywork.ai/skypage/ja/ai-service-desk/1985144591029182464",
+    "pass": 3
+   },
+   {
+    "quote": "UIの日本語対応状況や、AIの日本語処理能力については、最新の情報を得るためにデモをリクエストするか、直接問い合わせることをお勧めします",
+    "url": "https://skywork.ai/skypage/ja/ai-service-desk/1985144591029182464",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、連携するAIモデル（GPT-4, Geminiなど）自体は高い日本語能力を持っているため、AIによる応答や要約機能は日本語でも高い精度で機能する可能性があります",
+    "url": "https://skywork.ai/skypage/ja/ai-service-desk/1985144591029182464",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Unthread徹底解説（2025年版）：Moveworks後の世界で輝くAIサービスデ... — Nov 5, 2025 · Unthreadは、Slackを基盤にしたAIサービスデスクで、業務効率化を促進。自動化されたサポートシステムでコミュニケーションの混乱を解消します。",
+    "url": "https://skywork.ai/skypage/ja/ai-service-desk/1985144591029182464",
+    "pass": 3
+   },
+   {
+    "quote": "Unthread — Unthread is an AI-native helpdesk for Slack and Microsoft Teams that automates ticketing, answers, knowledge, and workflows for IT, HR, customer support, and RevOps teams.",
+    "url": "https://unthread.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Unthread – AI helpdesk for Slack & Teams — Unthread is an AI helpdesk built into Slack and Teams. IT, HR, and CS teams use Unthread's AI Agent to automatically generate answers and run workflows to solve issues instantly.",
+    "url": "https://www.notion.com/ja/connections/unthread",
+    "pass": 3
+   },
+   {
+    "quote": "ChatGPT 向け Unthread プラグイン | OpenAI — 仕組み Unthread は、エンジニアリングチームやプロダクトチーム向けの B2B サポートプラットフォームです。 このプラグインは、必要な機能を検索して使えるシンプルなツールインターフェースを通じて、Unthread のワークスペースを ChatGPT に接続します。",
+    "url": "https://openai.com/ja-JP/business/plugins/unthread/",
+    "pass": 3
+   },
+   {
+    "quote": "Unthread · past 300 characters - Unthread — What is an unthread? A Bluesky post that didn't fit in 300 characters.",
+    "url": "https://unthread.at/",
+    "pass": 3
+   },
+   {
+    "quote": "UNTHREAD translation in Japanese | English-Japanese ... - Reverso — Understand the exact meaning of \"unthread\" and learn how to use it correctly in any context. Examples come from millions of authentic texts: movie dialogues, news articles, official documents, and more.",
+    "url": "https://dictionary.reverso.net/english-japanese/unthread",
+    "pass": 3
+   },
+   {
+    "quote": "【年内最後】池田貴将・1DAYセミナー『UNTHREAD』 — Oct 16, 2026 · その名もUNTHREAD解放・ほどく・解きほぐすという意味を持つこのアンスレッド2026年の年始から1年間がんじがらめになった思考を解放するという ...",
+    "url": "https://www.youtube.com/watch?v=sPHgOyNlgE8",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories - Unthread — Learn how Unthread is being used by one of the leading medical technology companies across their IT and customer support operations and delivering measurable results.",
+    "url": "https://unthread.io/blog/tag/customer-stories/",
+    "pass": 3
+   },
+   {
+    "quote": "Unthread B2B Case Studies & Customer Successes — See how Unthread solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/unthread",
+    "pass": 3
+   },
+   {
+    "quote": "Customers | Unthread — Unthread made it so that we could continue to provide blazing fast support via Slack, but made it so that we could scale up Slack-based support. The tool works wonderfully and has allowed us to keep our response times low and customer satisfaction high.",
+    "url": "https://unthread.io/customers",
+    "pass": 3
+   },
+   {
+    "quote": "5 Unthread Case Studies, Success Stories, & Customer Stories ... — Unthread has a 5.0/5 star rating. Learn what their customers think, get 5 free case studies and more.",
+    "url": "https://www.featuredcustomers.com/vendor/unthread/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "How Unthread hit $108.9K revenue with a 6 person team in 2024. — Unthread CEO Tom Bachant shares how Unthread grew to $108.9K over the past 3 years. Unthread has bootstrapped. See Unthread growth here.",
+    "url": "https://getlatka.com/companies/unthread.io/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Unthread – Business Snapshot & Rival Analysis – 2026 — Discover Unthread's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/unthread",
+    "pass": 3
+   },
+   {
+    "quote": "Unthread Revenue 2024: $108.9K Est. - LATKA — Oct 30, 2026 · How many employees does Unthread have? Unthread had 6 employees in October 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/unthread.io",
+    "pass": 3
+   },
+   {
+    "quote": "Unthread: Funding, Investors & Team (Nov 2026) | FundedIQ — Unthread Funding FAQs What does Unthread do? Unthread provides a user-friendly inbox on Slack for customer support teams to manage incoming requests. This platform allows teams to assign, prioritize, and escalate requests directly on Slack, as well as collaborate, educate, and measure their performance.",
+    "url": "https://fundediq.co/unthread-unthread-io-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Unthread Funding | $108.9K Revenue | Complete Analysis — Explore Unthread complete analysis: product features, pricing model, market positioning, and business strategy.",
+    "url": "https://www.extruct.ai/hub/unthread-io-funding/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "QualSights is an immersive insights platform that enables companies, agencies, and consulting firms to gather…",
+    "url": "https://fundediq.co/unthread-unthread-io-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "\"#UnThread\" - Results on X | Live Posts & Updates Results for \"#UnThread\" on X (Twitter). Find the latest posts, discussions, and updates about #UnThread. 19 results found.",
+    "url": "https://x.com/hashtag/UnThread",
+    "pass": 3
+   },
+   {
+    "quote": "Ananya FanBoy on X: \"Just wanna unthread all of them and fuck ... Ananya FanBoy @AnanyaFanBoy Fan account Just wanna unthread all of them and fuck her in beach 🥵💦 11:18 AM · Nov 3, 2026 · 14K Views",
+    "url": "https://x.com/AnanyaFanBoy/status/2117577266792382901",
+    "pass": 3
+   },
+   {
+    "quote": "vince 𒉭 on X: \"unthread your grip from the throat of what was ..... unthread your grip from the throat of what was never yours to hold. shatter the vessel. let the dark spill into the dark, heavy, thick, and unbothered by your keeping. you were only ever a wraith attempting to chain a tempest. surrender the frenzy.",
+    "url": "https://x.com/sacrivex/status/2110767405592965492",
+    "pass": 3
+   },
+   {
+    "quote": "UnthreadeROT (@UnthreadeRot) / X #we r of #tru #androd #hakr #we r not of #fakr #we r of #rot ur devise :)",
+    "url": "https://x.com/UnthreadeRot",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Unthread - LinkedIn Unthread is a self-learning helpdesk that automates support in Slack & Teams. IT, HR, customer support, and RevOps teams use Unthread to manage requests across chat, email, portals, and...",
+    "url": "https://www.linkedin.com/company/unthreadai",
+    "pass": 3
+   },
+   {
+    "quote": "Unthread - LinkedIn About Unthread is a Slack inbox that turns support requests into prioritized tickets with assignments and SLAs.",
+    "url": "https://www.linkedin.com/products/unthreadio-unthread/",
+    "pass": 3
+   },
+   {
+    "quote": "Unthread - LinkedIn The Global Ecommerce Platform About us The Global Ecommerce Platform Website https://www.unthread.world Industry Software Development Company size 11-50 employees Headquarters Mumbai, Maharashtra",
+    "url": "https://www.linkedin.com/company/unthread-world/",
+    "pass": 3
+   },
+   {
+    "quote": "Tom Bachant - Founder/CEO @ Unthread, the self-learning ...Jake McCloskey - Co-founder and CTO at Unthread | LinkedInRodrigo Ventura - Founding AE at Unthread | Eliminating ...Unthread on LinkedIn: Unthread | November Product Update 2024 Founder/CEO @ Unthread, the self-learning helpdesk · Experience: Unthread · Education: The University of Connecticut · Location: New York · 500+ connections on Li",
+    "url": "https://www.linkedin.com/in/tombachant",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Unthread - Facebook Unthread 6y · Public 2019’s TOP 5 a sneaker from @mocopops Co- Founder of @street.superior. Singapore’s Premium Sneaker & Streetwear Convention @ Singapore",
+    "url": "https://www.facebook.com/unthread/",
+    "pass": 3
+   },
+   {
+    "quote": "Unthread - Facebook Unthread. 137 followers · 2 talking about this. Vintage inspired handmade plant hangers. Crocheted using 100% cotton.",
+    "url": "https://www.facebook.com/Unthread.crochet/",
+    "pass": 3
+   },
+   {
+    "quote": "Unthread PH - FacebookUnthread PH - EXTENDED SALE!!! 3 FOR 999 ... - FacebookAlright facebook. Who knows how to... - Stanley Weeks III ...Why does my machine unthread each time after cutting?Episode 1 of Unthreaded’s rig rundown! We will be doing a ... Nov 18, 2023 · Unthread PH. 10,074 likes. Get the hottest trends and fashions from the best retail clothing store. Level up your looks and upgrade ",
+    "url": "https://www.facebook.com/unthreadph/",
+    "pass": 3
+   },
+   {
+    "quote": "Unthread PH - EXTENDED SALE!!! 3 FOR 999 ... - Facebook Jul 29, 2021 · Unthread PH - 🔥🔥EXTENDED SALE!!! 3 FOR 999 PROMO!!! COD... | Facebook Unthread PH Jul 29, 2021",
+    "url": "https://www.facebook.com/unthreadph/posts/121600476859325/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://unthread.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unthread.io/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unthread.io/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unthread.io/blog/case-study-how-lemonade-boosts-efficiency-with-unthread-and-gen-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unthread.io/blog/case-study-how-sisenses-it-team-achieved-99-csat-with-unthread/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unthread.io/solutions/it-service-desk",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unthread.io/solutions/hr-service-desk",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unthread.io/solutions/customer-support",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unthread.io/solutions/employee-support",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unthread.io/solutions/revops",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unthread.io/blog/tag/customer-stories/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unthread.io/security",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unthread.io/blog/case-study-renegade-technologies-uses-unthread-to-deflect-70-of-it-tickets/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unthread.io/blog/case-study-how-a-top-telemedicine-platform-solves-issues-86-faster-with-unthread/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unthread.io/blog/customer-story-thirdweb-makes-web3-easy-for-developers/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://skywork.ai/skypage/ja/ai-service-desk/1985144591029182464",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.notion.com/ja/connections/unthread",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://openai.com/ja-JP/business/plugins/unthread/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/UD%E3%83%AA%E3%83%86%E3%83%BC%E3%83%AB",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/thread_japan/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://unthread.at/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dictionary.reverso.net/english-japanese/unthread",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/unthread",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/unthread.io#customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/unthread",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/unthread.io",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fundediq.co/unthread-unthread-io-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hashtag/UnThread",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/AnanyaFanBoy/status/2117577266792382901",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sacrivex/status/2110767405592965492",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/UnthreadeRot",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/unthreadai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/unthreadio-unthread/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/unthread-world/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/tombachant",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/unthread/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Unthread.crochet/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/unthreadph/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/unthreadph/posts/121600476859325/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Unthread 日本 導入",
+   "results": [
+    "https://skywork.ai/skypage/ja/ai-service-desk/1985144591029182464",
+    "https://unthread.io/",
+    "https://www.notion.com/ja/connections/unthread",
+    "https://openai.com/ja-JP/business/plugins/unthread/",
+    "https://news.yahoo.co.jp/articles/82a32d3cf6c0ca76f13b11dddcfc54f722724546",
+    "https://about.fb.com/ja/news/2026/06/meta-launching-new-features-500-million-monthly-threads-users/",
+    "https://bestcarweb.jp/news/entame/1669612"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Unthread 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/UDリテール",
+    "https://unthread.io/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://partner-prop.com/lab/partner-business/agency/256/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Unthread Japan",
+   "results": [
+    "https://unthread.io/",
+    "https://www.instagram.com/thread_japan/",
+    "https://unthread.at/",
+    "https://dictionary.reverso.net/english-japanese/unthread",
+    "https://www.youtube.com/watch?v=sPHgOyNlgE8",
+    "https://www.united-japan.com/",
+    "https://unthread.io/security"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Unthread manufacturing customer case study",
+   "results": [
+    "https://unthread.io/blog/tag/customer-stories/",
+    "https://www.casestudies.com/company/unthread",
+    "https://unthread.io/customers",
+    "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "https://www.featuredcustomers.com/vendor/unthread/case-studies",
+    "https://www.casestudies.com/company/unthread/case-study/blee-helps-companies-launch-internationally",
+    "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/CS-MFG-Pepsi-v1.pdf",
+    "https://docs.unthread.io/docs/customer-engagement"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Unthread white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://www.seoreseller.com/",
+    "https://www.canva.com/partners/reseller/",
+    "https://www.ninjaone.com/partner-program/",
+    "https://upcloud.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Unthread founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/unthread.io/customers",
+    "https://compworth.com/company/unthread",
+    "https://getlatka.com/companies/unthread.io",
+    "https://fundediq.co/unthread-unthread-io-funding/",
+    "https://www.extruct.ai/hub/unthread-io-funding/",
+    "https://startupintros.com/orgs/unthread",
+    "https://www.thecompanycheck.com/company/b/unthread/0m7pz0nb45k037uvz"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Unthread",
+   "results": [
+    "https://note.com/tag/ポケカ",
+    "https://note.com/tag/ユニオンアリーナ",
+    "https://note.com/light_coot554",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/kangokenkyu/n/na5112d7404f5"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Unthread",
+   "results": [
+    "https://x.com/hashtag/UnThread",
+    "https://x.com/AnanyaFanBoy/status/2117577266792382901",
+    "https://x.com/sacrivex/status/2110767405592965492",
+    "https://x.com/UnthreadeRot",
+    "https://help.x.com/en",
+    "https://x.com/threadreaderapp",
+    "https://x.com/UnrollThread"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Unthread",
+   "results": [
+    "https://www.linkedin.com/company/unthreadai",
+    "https://www.linkedin.com/products/unthreadio-unthread/",
+    "https://www.linkedin.com/company/unthread-world/",
+    "https://www.linkedin.com/in/tombachant",
+    "https://www.linkedin.com/in/jakemccloskey",
+    "https://www.linkedin.com/in/rodrigo-ventura-490b41175",
+    "https://www.linkedin.com/posts/unthreadai_unthread-november-product-update-2024-activity-7262826673232867329-1P89"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Unthread",
+   "results": [
+    "https://www.facebook.com/unthread/",
+    "https://www.facebook.com/Unthread.crochet/",
+    "https://www.facebook.com/unthreadph/",
+    "https://www.facebook.com/unthreadph/posts/121600476859325/",
+    "https://www.facebook.com/stanley.weeksiii/posts/alright-facebook-who-knows-how-to-unthread-the-cap-off-of-this-barrel-im-not-fam/29586782950939029/",
+    "https://www.facebook.com/groups/574555626652143/posts/2189236078517415/",
+    "https://www.facebook.com/UnthreadedBand/videos/episode-1-of-unthreadeds-rig-rundown-we-will-be-doing-a-bunch-of-videos-breaking/1375217541425394/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Unthread note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/藤原岳史",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://x.com/Chat_yuu/status/2119560717296959981"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Unthread X 投稿",
+   "results": [
+    "https://unthread.io/",
+    "https://unthread.at/login",
+    "https://x.com/i/trending/2057034024460390444",
+    "https://x.com/inaba_shin_/article/2071883073160147029",
+    "https://note.com/kyonroom/n/nd53d9e012294",
+    "https://s-carlett.com/x-threads-simultaneous-post-automation/",
+    "https://note.com/gas_lab/n/n64b80bd47c3e",
+    "https://help.x.com/ja/using-x/create-a-thread",
+    "https://toolkitslab.com/blog/x-thread-writing-guide"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 9
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式15頁／PDF・画像0件／外部31頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式15頁／PDF・画像0件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式15頁／PDF・画像0件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式15頁／PDF・画像0件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式15頁／PDF・画像0件／外部31頁・検索12回）"
+ }
+}

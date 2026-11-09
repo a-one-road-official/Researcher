@@ -1,0 +1,708 @@
+{
+ "name": "Servo7",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜リマイン1",
+ "researched_at": "2026-11-09T19:00:08.181651+00:00",
+ "official_url": "https://servo7.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "The robot reads the container in real time and handles each box as it finds it. No pre-mapped configurations, no operator intervention between loads.",
+    "url": "https://servo7.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Handles boxes up to 23kg and unloads onto conveyor or pallet. Works at your dock door, no facility redesign.",
+    "url": "https://servo7.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Show the robot the task you want automated. No code, no engineers, no integration project. Just demonstrate.",
+    "url": "https://servo7.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our AI watches, adapts, and starts performing the task. On-the-job learning improves performance over time.",
+    "url": "https://servo7.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Once reliable, deploy additional units across your facility. Scale without proportional overhead.",
+    "url": "https://servo7.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re a small team, building robots to automate how the world's goods are moved. We love the craft of building a real physical product from nothing, and seeing it doing useful work.",
+    "url": "https://servo7.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We're proud to be backed by some of the world's best investors, founders and AI researchers.",
+    "url": "https://servo7.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Amsterdam, NH, NL · Full-time · Offers equity · Any (new grads ok)",
+    "url": "https://servo7.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Servo7 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/1366589-98",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/1366589-98",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/1366589-98",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/1366589-98",
+    "pass": 3
+   },
+   {
+    "quote": "Servo7’s primary industry is Machinery (B2B).",
+    "url": "https://pitchbook.com/profiles/company/1366589-98",
+    "pass": 3
+   },
+   {
+    "quote": "Is Servo7 a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/1366589-98",
+    "pass": 3
+   },
+   {
+    "quote": "Servo7 is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/1366589-98",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/1366589-98",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/1366589-98",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/1366589-98",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "We always respond within one hour on WhatsApp, phone and email.",
+    "url": "https://servo7.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We always respond within one hour on WhatsApp, phone and email.",
+    "url": "https://servo7.com/resources/bts-logistics-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/1366589-98",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "We're partnering with BTS Logistics to put Mammoth to work unloading containers in their warehouse.",
+    "url": "https://servo7.com/resources/bts-logistics-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Today, we’re announcing our innovation partnership with BTS Logistics. We’ve been working with BTS for a while, putting our robot to work in their warehouse.",
+    "url": "https://servo7.com/resources/bts-logistics-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "We’ve successfully unloaded multiple containers with our robot Mammoth, reducing the physical strain and making daily warehouse operations more reliable.",
+    "url": "https://servo7.com/resources/bts-logistics-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Thank you to the BTS Logistics team for welcoming us into their warehouse and working with us to bring robotics into daily operations.",
+    "url": "https://servo7.com/resources/bts-logistics-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "We're a small team with an office and a mini-factory in Amsterdam, with an actual shipping container inside. Everyone is hands-on: writing code, on the road to the warehouse, helping each other out where needed.",
+    "url": "https://servo7.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Developer of warehouse robots designed to simplify the deployment of robots for repetitive material handling tasks.",
+    "url": "https://pitchbook.com/profiles/company/1366589-98",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Manufacturing",
+    "url": "https://pitchbook.com/profiles/company/1366589-98",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Almost everything you own arrived in a shipping container that someone emptied by hand, in brutal heat or freezing cold. It's the most demanding job in logistics, and it's the entry point of the entire supply chain. We're here to automate it, and to build the company that ends up handling most of the goods on earth.",
+    "url": "https://servo7.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "For roles we haven't listed. Tell us what you'd want to build.",
+    "url": "https://servo7.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Servo7 has 4 total employees.",
+    "url": "https://pitchbook.com/profiles/company/1366589-98",
+    "pass": 3
+   },
+   {
+    "quote": "What is Servo7’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/1366589-98",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Servo7 is",
+    "url": "https://pitchbook.com/profiles/company/1366589-98",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Servo7 | Home — Servo7 builds container unloading robots. Loose-loaded containers unloaded in under 2.5 hours, deployed at your dock door with only 45 minutes set-up time.",
+    "url": "https://servo7.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Servo7 | About — Servo7 builds AI-powered robots that automate repetitive tasks without requiring facility redesign.",
+    "url": "https://servo7.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Servo7 | About — It's the most demanding job in logistics, and it's the entry point of the entire supply chain. We're here to automate it, and to build the company that ends up handling most of the goods on earth. We will measure ourselves by how much of the world's goods are handled by a Servo7 robot.",
+    "url": "https://servo7.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Servo7 | Home — Handles boxes up to 23kg and unloads onto conveyor or pallet. Works at your dock door, no facility redesign. Three steps from first contact to full deployment. After just 45 minutes, you'll have a robot ready to work. Show the robot the task you want automated. No code, no engineers, no integration project. Just demonstrate.",
+    "url": "https://servo7.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Servo7 | Resources — May 6, 2026 · Start with two exports and build a record of your volumes, handling times, and costs. Servo7 builds container unloading robots. Loose-loaded containers unloaded in under 2.5 hours, deployed at your dock door with only 45 minutes set-up time.",
+    "url": "https://servo7.com/resources",
+    "pass": 3
+   },
+   {
+    "quote": "Servo7 2026 Company Profile: Valuation, Funding & Investors ... — Information on valuation, funding, cap tables, investors, and executives for Servo7. Use the PitchBook Platform to explore the full profile.",
+    "url": "https://pitchbook.com/profiles/company/1366589-98",
+    "pass": 3
+   },
+   {
+    "quote": "Servo7 — Company Profile, Funding & Investors — Servo7 company profile with HQ in Amsterdam, The Netherlands, founded 2025. Explore its acquisitions, funding rounds, investors, key people and contacts on Acquirezy — updated 2026.",
+    "url": "https://acquirezy.com/organization/servo7",
+    "pass": 3
+   },
+   {
+    "quote": "Servo7 — Company Profile & Funding (2026) | Indexed.vc — Servo7 builds robots that automate unloading shipping containers by hand, the most demanding job in logistics and entry point of the supply chain.",
+    "url": "https://indexed.vc/companies/servo7",
+    "pass": 3
+   },
+   {
+    "quote": "Servo7 — Amsterdam startup hiring | StartupMap — Founded in 2025, Servo7 participated in Y Combinator's Winter 2026 batch and has raised $500,000 in funding to date. Servo7 is an Amsterdam-based startup developing AI-powered robots designed to automate warehouse operations such as order picking, packaging, sorting…",
+    "url": "https://startupmap.one/startup/servo7_nl",
+    "pass": 3
+   },
+   {
+    "quote": "Servo7 - Products, Competitors, Financials, Employees ... — Servo7 provides warehouse automation through robotics and artificial intelligence (AI). The company offers robots that automate tasks such as order fulfillment, sorting, and logistics operations, which integrate with existing warehouse infrastructure.",
+    "url": "https://www.cbinsights.com/company/servo7",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "The \"Year of Hard Tech\": Macro Trends from YC Winter 2026 Y ... Standouts: Companies like GrazeMate are deploying \"Robot Cowboys\" (autonomous drones) to herd and monitor cattle, while Servo7 and Remy AI are building dexterous, autonomous warehouse robots capable of intricate \"pick-and-pack\" operations.",
+    "url": "https://x.com/Internoun/status/2041204327294091583",
+    "pass": 3
+   },
+   {
+    "quote": "Luis Almanza (@lmalmanza) / Posts / X Remy AI and Servo7 build warehouse robots learning from human demonstrations (80% of warehouses have zero automation) Origami Robotics builds robot hands RoboDock went viral deploying their MVP in 60 days, landed a $100K Waymo contract Fort (three ex-Tesla engineers) tracks strength training, something Whoop/Oura still can’t do",
+    "url": "https://x.com/lmalmanza",
+    "pass": 3
+   },
+   {
+    "quote": "@Servo7Robotics | X The latest posts from @Servo7Robotics",
+    "url": "https://x.com/Servo7Robotics",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Servo7 (YC W26) - LinkedIn About us Servo7 is a Netherlands-based robotics startup. We design, build and deploy robots that unload loose-loaded shipping containers in warehouses.",
+    "url": "https://www.linkedin.com/company/servo7",
+    "pass": 3
+   },
+   {
+    "quote": "Servo7 launches AI-powered robotics for various tasks ... Big day: Servo7 is live! We’re building general-purpose robotics powered by AI, for places traditional robots can’t go. Product assembly, textile sorting, testing, you name it!",
+    "url": "https://www.linkedin.com/posts/servo7_lerobot-robotics-startup-activity-7349798820534190082-pNYn",
+    "pass": 3
+   },
+   {
+    "quote": "Willem Momma - Founding Engineer at Servo7 | LinkedInJasper van Leuven - Co-Founder Servo7 (YC W26) | LinkedInServo7 Jobs Jobs in United States (11,000+ Open Roles) | LinkedInLaunching Servo7! Our new startup building smart robotic arms ...This robot is fully AI-controlled. We trained an AI model ... Founding Engineer at Servo7 · Ervaring: Servo7 (YC W26) · Opleiding: TU Delft · Locatie: Amsterdam",
+    "url": "https://nl.linkedin.com/in/willem-momma",
+    "pass": 3
+   },
+   {
+    "quote": "Jasper van Leuven - Co-Founder Servo7 (YC W26) | LinkedInServo7 Jobs Jobs in United States (11,000+ Open Roles) | LinkedInLaunching Servo7! Our new startup building smart robotic arms ...This robot is fully AI-controlled. We trained an AI model ... Co-Founder Servo7 (YC W26) · Ervaring: Servo7 (YC W26) · Opleiding: Y Combinator · Locatie: Amsterdam · 500+ connecties op LinkedIn. Bekijk het profiel",
+    "url": "https://nl.linkedin.com/in/jasper-van-leuven-14a3ba1b6",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Servo 7 - FacebookServo IT Solutions - FacebookServo 7 - #localgigs #santacruzmusic #montereymusic... - FacebookSERVOServo Motor Oil | Multan - FacebookA closer look at Servo7's unloading robot during its recent ...Servo 7 - Last nights vibes Santa Cruz locals ... - Facebook Jan 19, 2024 · Posts Servo 7 2y · Public 🚨New album from Rock Shed Rangers!🚨 Servo 7 is now @rock_shed_rangers and @rivets.a",
+    "url": "https://www.facebook.com/Servo7Music/",
+    "pass": 3
+   },
+   {
+    "quote": "Servo IT Solutions - FacebookServo 7 - #localgigs #santacruzmusic #montereymusic... - FacebookSERVOServo Motor Oil | Multan - FacebookA closer look at Servo7's unloading robot during its recent ...Servo 7 - Last nights vibes Santa Cruz locals ... - Facebook Servo IT Solutions. 10,468 followers · 57 talking about this. Powering Hospitality Excellence. #localgigs #santacruzmusic #montereymusic #loca",
+    "url": "https://www.facebook.com/ServoITSolutions/",
+    "pass": 3
+   },
+   {
+    "quote": "Servo 7 - #localgigs #santacruzmusic #montereymusic... - Facebook #localgigs #santacruzmusic #montereymusic #localmusic #santacruzmusicians #servo7 #livemusic @steelbonnetbrewing @chaminaderesort @historicbrookdalelodge",
+    "url": "https://www.facebook.com/Servo7Music/posts/localgigs-santacruzmusic-montereymusic-localmusic-santacruzmusicians-servo7-live/951819028833970/",
+    "pass": 3
+   },
+   {
+    "quote": "SERVOServo Motor Oil | Multan - FacebookA closer look at Servo7's unloading robot during its recent ...Servo 7 - Last nights vibes Santa Cruz locals ... - Facebook Jul 6, 2026 · SERVO. 25,575 likes · 12 talking about this. The Official Page of SERVO lubes and greases. SERVO Serves as a one -stop shop for complete lubrication solutions in the automotive, Industrial , Marine &... Oct 25, 2026 · Serv",
+    "url": "https://www.facebook.com/servolubricant/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://servo7.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://servo7.com/resources/bts-logistics-partnership",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://servo7.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://servo7.com/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://servo7.com/images/logos/text-black-bg-trans.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://servo7.com/images/bts-logistics-partnership.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://servo7.com/images/investor-portraits/logos/ycombinator-orange.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://servo7.com/images/investor-portraits/logos/np-hard.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.jema-net.or.jp/engineering/servo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inspirecorp.co.jp/news/information/bodygram-20210621",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujielectric.co.jp/products/drive_ctrl_equipment/servo/product_series/alpha7_overview.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-mechatronics.com/product/servo/sgm7/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jpn.bizdirlib.com/ja/node/115726",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/149398-48",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.galco.com/manufacturer/japan-servo-co-ltd",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.casestudies.com/company/kovair-software/case-study/medha-servo-drives-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://powersafeautomation.com/resources/knowledge-hub/case-studies/case-study-servo-driven-indexing-table-with-MC-model-radars",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/medha-servo-drives",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.servicenow.com/partners.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/1366589-98",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://acquirezy.com/organization/servo7",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://indexed.vc/companies/servo7",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://startupmap.one/startup/servo7_nl",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Internoun/status/2041204327294091583",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/lmalmanza",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/servo7",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/servo7_lerobot-robotics-startup-activity-7349798820534190082-pNYn",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://nl.linkedin.com/in/willem-momma",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://nl.linkedin.com/in/jasper-van-leuven-14a3ba1b6",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Servo7Music/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ServoITSolutions/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Servo7Music/posts/localgigs-santacruzmusic-montereymusic-localmusic-santacruzmusicians-servo7-live/951819028833970/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/servolubricant/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Servo7Robotics",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Servo7 日本 導入",
+   "results": [
+    "https://servo7.com/",
+    "https://www.jema-net.or.jp/engineering/servo/index.html",
+    "https://www.inspirecorp.co.jp/news/information/bodygram-20210621",
+    "https://www.fujielectric.co.jp/products/drive_ctrl_equipment/servo/product_series/alpha7_overview.html",
+    "https://news.nicovideo.jp/watch/nw9480186",
+    "https://www.facebook.com/bodygramJP/posts/日本を代表するユニフォームメーカーサーヴォが導入した新サービスservo-fitサーヴォフィットにbodygramのai技術が採用され全国で非接触採寸が可能にb/837806080451240/",
+    "https://www.facebook.com/prtimes.tech/posts/日本を代表するユニフォームメーカーサーヴォが導入した新サービスservo-fitサーヴォフィットにbodygramのai技術が採用され全国で非接触採寸が可能に/4204895349571151/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Servo7 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://servo7.com/about",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.e-mechatronics.com/product/servo/sgm7/",
+    "https://www.indexpro.co.jp/distributor/search-maker",
+    "https://maymobility.com/ja",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Servo7 Japan",
+   "results": [
+    "https://servo7.com/about",
+    "https://jpn.bizdirlib.com/ja/node/115726",
+    "https://pitchbook.com/profiles/company/149398-48",
+    "https://www.galco.com/manufacturer/japan-servo-co-ltd",
+    "https://servo7.com/",
+    "https://www.ycombinator.com/companies/servo7",
+    "https://www.nidec.com/en/nidec-advancedmotor/corporate/about/history/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Servo7 manufacturing customer case study",
+   "results": [
+    "https://servo7.com/",
+    "https://www.casestudies.com/company/kovair-software/case-study/medha-servo-drives-customer-case-study",
+    "https://powersafeautomation.com/resources/knowledge-hub/case-studies/case-study-servo-driven-indexing-table-with-MC-model-radars",
+    "https://www.casestudies.com/customer/medha-servo-drives",
+    "https://servo7.com/resources",
+    "https://www.shi-mechatronics.jp/solutions/en/case/airservo/174/",
+    "https://www.iis-servo.com/motion-control-articles/industry-trends-and-case-studies-implementing-servo-technology-in-high-speed-automation/",
+    "https://norobots.co/startup/servo7/",
+    "https://startupog.com/products/servo7",
+    "https://www.rockwellautomation.com/en-us/company/news/case-studies.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "Servo7 white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.servicenow.com/partners.html",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://upcloud.com/partner-program/",
+    "https://partners.spectrum.com/",
+    "https://www.appspace.com/resellers-alliances/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Servo7 founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/1366589-98",
+    "https://acquirezy.com/organization/servo7",
+    "https://indexed.vc/companies/servo7",
+    "https://startupmap.one/startup/servo7_nl",
+    "https://www.cbinsights.com/company/servo7",
+    "https://fundup.ai/recently-funded-startups/company/df20d91bcbd898ca0d2acd2d1f62d55924de481086ab781d0b7cdf4f02f8c447/servo7",
+    "https://startupintros.com/orgs/servo7"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Servo7",
+   "results": [
+    "https://note.com/luciferlove",
+    "https://note.com/konan0119/n/n59ee5305f31f?hl=en",
+    "https://note.com/npaka/n/n8424d322ebd4?hl=en",
+    "https://note.com/st_hazama714/n/n07dd850a5ecb?hl=en",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/araiyuma/n/nfe631f268bcd"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Servo7",
+   "results": [
+    "https://x.com/Servo117",
+    "https://x.com/Internoun/status/2041204327294091583",
+    "https://x.com/servo_diaries/status/2118812514536571068",
+    "https://x.com/lmalmanza",
+    "https://x.com/grok/status/2031745370150101294",
+    "https://x.com/SERVO6pWWE",
+    "https://x.com/servo_diaries/status/2118660259719852425"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Servo7",
+   "results": [
+    "https://www.linkedin.com/company/servo7",
+    "https://www.linkedin.com/posts/servo7_lerobot-robotics-startup-activity-7349798820534190082-pNYn",
+    "https://nl.linkedin.com/in/willem-momma",
+    "https://nl.linkedin.com/in/jasper-van-leuven-14a3ba1b6",
+    "https://www.linkedin.com/jobs/servo7-jobs-jobs",
+    "https://www.linkedin.com/posts/jasper-van-leuven-14a3ba1b6_launching-servo7-our-new-startup-building-activity-7349800467293474816-t_NO",
+    "https://www.linkedin.com/posts/pieterbecking_this-robot-is-fully-ai-controlled-we-trained-activity-7377029405266706432-OHZP"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Servo7",
+   "results": [
+    "https://www.facebook.com/Servo7Music/",
+    "https://www.facebook.com/ServoITSolutions/",
+    "https://www.facebook.com/Servo7Music/posts/localgigs-santacruzmusic-montereymusic-localmusic-santacruzmusicians-servo7-live/951819028833970/",
+    "https://www.facebook.com/servolubricant/",
+    "https://www.facebook.com/ServoMotorOilpk/",
+    "https://www.facebook.com/btslogisticsbv/videos/a-closer-look-at-servo7s-unloading-robot-during-its-recent-test-in-our-warehouse/997229150065002/",
+    "https://www.facebook.com/Servo7Music/posts/last-nights-vibes-santa-cruz-locals-let-us-know-where-you-wanna-see-us-perform-s/825354874813720/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Servo7 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://servo7.com/about",
+    "https://servo7.com/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://startupintros.com/orgs/servo7",
+    "https://fundup.ai/recently-funded-startups/company/df20d91bcbd898ca0d2acd2d1f62d55924de481086ab781d0b7cdf4f02f8c447/servo7"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Servo7 X 投稿",
+   "results": [
+    "https://servo7.com/",
+    "https://x.com/Servo7Robotics",
+    "https://www.instagram.com/servo7robotics/",
+    "https://twstalker.com/Servo7Robotics",
+    "https://servo7.com/about",
+    "https://x.com/Qiita/status/2101227293435965559",
+    "https://www.hugobeck.com/en/solutions-portfolio/packing/form-fill-and-seal-machines/continuous/servo-x"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部31頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部31頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部31頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部31頁・検索12回）"
+ }
+}

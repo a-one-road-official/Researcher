@@ -1,0 +1,552 @@
+{
+ "name": "Multitrade 3D Systems — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:3d-metal-printer-distributor",
+ "researched_at": "2026-11-09T17:54:32.752893+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   },
+   {
+    "quote": "info@multitrade3d.com",
+    "url": "https://www.voxelmatters.directory/company/multitrade-3d-systems/",
+    "pass": 3
+   }
+  ],
+  "代理店網": [
+   {
+    "quote": "Metal 3D Printer Reseller",
+    "url": "https://www.voxelmatters.directory/company/multitrade-3d-systems/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.voxelmatters.directory/company/multitrade-3d-systems/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Multitrade 3D Systems — VoxelMatters - The largest database ... — Multitrade 3D Systems — VoxelMatters - The largest database ... voxelmatters.directory https://www.voxelmatters.directory > ...",
+    "url": "https://www.voxelmatters.directory/company/multitrade-3d-systems/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "MX3D enters sales partnership with Multitrade 3D Systems ... Jaclyn Voke Marketing Manager 1y https://lnkd.in/deY6XaQg MX3D enters sales partnership with Multitrade 3D Systems voxelmatters.com 4 2,899 followers 163 Posts",
+    "url": "https://www.linkedin.com/posts/jaclyn-voke-5b42aba4_mx3d-enters-sales-partnership-with-multitrade-activity-7205928060905283584-gVZ-",
+    "pass": 3
+   },
+   {
+    "quote": "Davide Sher - Co-founder and CEO at VoxelMatters | LinkedInPublicación de Multitrade 3D Systems - LinkedInMultitrade 3D Systems | Devon Hagedorn-Hansen on cooperation ...Devon Hagedorn-Hansen, PhD - AMT3D - Advanced Manufacturing ... Apr 26, 2022 · As a journalist and entrepreneur with a passion for additive manufacturing (AM) and its potential to transform the world, I co-founded VoxelMatters, a ",
+    "url": "https://it.linkedin.com/in/davide-sher",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookMultitrade 3D Systems - FacebookMultitrade 3D Systems | FacebookHere’s a look at Multitrade 3D... - Multitrade 3D SystemsExciting News Alert! Get ready... - Multitrade 3D Systems ...⛵️ 3D-Printed Innovation in Yacht... - Multitrade 3D Systems ...Multitrade 3D Systems specialises in metal Additive ... From the first 3D printed collection ever made at home, to dresses wired wi",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/mx3d-enters-sales-partnership-with-multitrade-3d-systems/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dsystems.com/customer-innovation-centers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Rebel_Without_a_Cause",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.machinetoolsafrica.co.za/exhibitor/multitrade-3d-systems/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amt3d.com/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.3dsystems.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sunstella.co.jp/?srsltid=AYCX9vJhcQqnyrRl8X0VLUA1hU4S0qd5ys7arooeP8pxcxXSWqSIp8HJ",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprinter.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.3dsystems.com/materials/pellet-materials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=YZShiVV1qZ4",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.solidyard.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/mx3d-enters-sales-partnership-with-multitrade-3d-systems/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dsystems.com/service-bureaus",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exone.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/mx3d-enters-sales-partnership-with-multitrade-3d-systems/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/multitrade-3d-systems/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dsystems.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metalworkingnews.info/multitrade-3d-systems-offers-metal-additive-manufacturing-machines/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/-/en/Club3D-Transport-DisplayPort-Display-CSV-1550/dp/B081VZGP5G",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.amazon.co.jp",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://kdp.amazon.co.jp:443/ja_JP",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/1654/8263/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/06923263/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00683943/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00011105/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/3d-systems-q2-2025-results-show-improved-profitability-but-declining-revenues/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/3D_Systems",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/3D_Systems",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dsystems.com/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/jaclyn-voke-5b42aba4_mx3d-enters-sales-partnership-with-multitrade-activity-7205928060905283584-gVZ-",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://it.linkedin.com/in/davide-sher",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Multitrade 3D Systems — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/mx3d-enters-sales-partnership-with-multitrade-3d-systems/",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://www.3dsystems.com/customer-innovation-centers",
+    "https://www.voxelmatters.com/",
+    "https://jp.linkedin.com/company/3d-systems",
+    "https://objexunlimited.com/3d-equipment/3d-printers/3d-printing-companies/3d-systems-printers/",
+    "https://www.tctmagazine.com/3d-systems-to-divest-oqton-3dxpert-software-platforms/",
+    "https://partners.solize.com/3dp-sales/3dsystems",
+    "https://www.youtube.com/watch?v=ci4q7iwoWDo"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Multitrade 3D Systems — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://en.wikipedia.org/wiki/Rebel_Without_a_Cause",
+    "https://www.voxelmatters.com/",
+    "https://www.machinetoolsafrica.co.za/exhibitor/multitrade-3d-systems/",
+    "https://amt3d.com/contact/",
+    "https://amt3d.com/our-offerings/",
+    "https://www.directoryupdate.co.za/com_directory_listingdetails.aspx?cid=88442&sid=18",
+    "https://www.ampulse.online/company/multitrade-3d-systems",
+    "https://partners.solize.com/3dp-sales/3dsystems",
+    "https://blog.buyer-zemi.jp/2026/07/12/sole-distributor-vs-sales-agent/",
+    "https://dairitenboshu.com/column/detail/soudairiten"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Multitrade 3D Systems — VoxelMatters 日本 販売",
+   "results": [
+    "https://ja.3dsystems.com/",
+    "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "https://sunstella.co.jp/?srsltid=AYCX9vJhcQqnyrRl8X0VLUA1hU4S0qd5ys7arooeP8pxcxXSWqSIp8HJ",
+    "https://3dprinter.co.jp/",
+    "https://ja.3dsystems.com/3d-printers/metal",
+    "https://www.meti.go.jp/meti_lib/report/2021FY/000098.pdf",
+    "http://www.brain-design.jp/3DPrinter-top.html",
+    "https://www.cadjapan.com/news/2025/d20251007_03.html",
+    "https://prtimes.jp/main/html/rd/p/000000012.000102537.html",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Multitrade 3D Systems — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://ja.3dsystems.com/materials/pellet-materials",
+    "https://skhonpo.com/",
+    "https://www.youtube.com/watch?v=YZShiVV1qZ4",
+    "https://www.solidyard.jp/",
+    "https://systemcreate-inc.co.jp/products/modular",
+    "https://www.poly-maker.jp/",
+    "https://www.monotaro.com/s/q-3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E7%94%A8%20%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/?srsltid=AYCX9vK2Fbz8AbVIf7-yZIKezNTP6J70cTTw32z7ULgX75qyOpk97_JS",
+    "http://www.nihonbinary.co.jp/Products/3DModeling/@FDM.html",
+    "https://ja.3dsystems.com/materials",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Multitrade 3D Systems — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/mx3d-enters-sales-partnership-with-multitrade-3d-systems/",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://www.3dsystems.com/service-bureaus",
+    "https://www.exone.com/en/",
+    "https://www.youtube.com/watch?v=jztWRZ3ciGg",
+    "https://partners.solize.com/en/manufacturing",
+    "https://www.voxelmatters.com/",
+    "https://3dzgroup.com/about/",
+    "https://3dprint.com/2229/3d-systems-expands-their-business-in-japan-thanks-to-canon-marketing/",
+    "https://japanesedistributors.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Multitrade 3D Systems — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/mx3d-enters-sales-partnership-with-multitrade-3d-systems/",
+    "https://www.voxelmatters.directory/company/multitrade-3d-systems/",
+    "https://www.3dsystems.com/",
+    "https://metalworkingnews.info/multitrade-3d-systems-offers-metal-additive-manufacturing-machines/",
+    "https://partners.solize.com/en/manufacturing",
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://mx3d.com/geo/robotic-metal-3d-printing-japan/",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://3dzgroup.com/about/",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:amazon.co.jp Multitrade 3D Systems — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/-/en/Club3D-Transport-DisplayPort-Display-CSV-1550/dp/B081VZGP5G",
+    "https://r.amazon.co.jp/",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://kdp.amazon.co.jp/ja_JP/signin",
+    "https://shigoto.amazon.co.jp/",
+    "https://business.amazon.co.jp/ja/login",
+    "https://www.amazon.co.jp/美しいキモノ-2026年冬号増刊吉田仁人特別版-ハースト婦人画報社/dp/B0HDC7JPDJ"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Multitrade 3D Systems — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/p/1654/8263/",
+    "https://www.monotaro.com/g/06923263/",
+    "https://www.monotaro.com/g/00683943/",
+    "https://www.monotaro.com/g/00011105/",
+    "https://www.monotaro.com/p/6892/1283/",
+    "https://www.monotaro.com/p/6953/4721/",
+    "https://www.monotaro.com/g/00023019/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Multitrade 3D Systems — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.voxelmatters.com/3d-systems-q2-2025-results-show-improved-profitability-but-declining-revenues/",
+    "https://en.wikipedia.org/wiki/3D_Systems",
+    "https://growjo.com/company/3D_Systems",
+    "https://www.3dsystems.com/about-us",
+    "https://www.globaldata.com/company-profile/3d-systems-corp/",
+    "https://craft.co/3d-systems",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "https://umbrex.com/resources/company-profiles/3d-systems/",
+    "https://vectorshift.ai/research/companies/3d-systems/financials",
+    "https://www.crunchbase.com/organization/multitrade-3d-systems"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Multitrade 3D Systems — VoxelMatters",
+   "results": [
+    "https://note.com/info/n/nf1f5ac6c3f7b",
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/tag/積読美術館",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/gen_note/n/n799a00ca1ea7",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/tinu_no_cg/n/n0ff1ea1443cf?hl=ko"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Multitrade 3D Systems — VoxelMatters",
+   "results": [
+    "https://x.com/3dsystems",
+    "https://x.com/3dpbmPulse/status/1221847936335859713",
+    "https://x.com/multitradeIN",
+    "https://x.com/voxelmatters",
+    "https://x.com/3dprinteros",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/xhazeling/status/2114183586970734857"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Multitrade 3D Systems — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://www.linkedin.com/posts/jaclyn-voke-5b42aba4_mx3d-enters-sales-partnership-with-multitrade-activity-7205928060905283584-gVZ-",
+    "https://za.linkedin.com/in/multitrade-3d-systems-689944195",
+    "https://it.linkedin.com/in/davide-sher",
+    "https://pe.linkedin.com/posts/amazemet_multitrade-3d-systems-devon-hagedorn-hansen-activity-7265689611778093056-IO6T",
+    "https://es.linkedin.com/posts/multitrade-3d-systems_we-have-some-exciting-news-to-share-with-activity-7018516879300268032-GnJ3",
+    "https://za.linkedin.com/in/devon-hagedorn-hansen-phd-3b544335"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Multitrade 3D Systems — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/Multitrade3DSystems/followers/",
+    "https://www.facebook.com/Multitrade3DSystems/posts/129525803164516/",
+    "https://www.facebook.com/Multitrade3DSystems/posts/548430951273997/",
+    "https://www.facebook.com/Multitrade3DSystems/posts/404812492302511/",
+    "https://www.facebook.com/Multitrade3DSystems/posts/561837946599964/",
+    "https://www.facebook.com/Multitrade3DSystems/videos/multitrade-3d-systems-specialises-in-metal-additive-manufacturing-offering-top-n/1643104399807650/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Multitrade 3D Systems — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://za.linkedin.com/in/multitrade-3d-systems-689944195",
+    "https://prospeo.io/c/multitrade-3d-systems-email-format",
+    "https://za.linkedin.com/in/devon-hagedorn-hansen-phd-3b544335",
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://www.ampulse.online/company/multitrade-3d-systems",
+    "https://amt3d.com/news/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Multitrade 3D Systems — VoxelMatters X 投稿",
+   "results": [
+    "https://www.voxelmatters.com/mx3d-enters-sales-partnership-with-multitrade-3d-systems/",
+    "https://www.3dsystems.com/press-releases/3d-systems-expands-selective-laser-sintering-portfolio-through-strategic-partnership",
+    "https://www.youtube.com/@voxelmatters",
+    "https://www.voxelmatters.com/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.youtube.com/watch?v=jztWRZ3ciGg",
+    "https://www.voxelmatters.report/",
+    "https://x.com/3dsystems/status/1909225988455530826",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://x.com/voxelmatters"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）"
+ }
+}

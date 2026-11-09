@@ -1,0 +1,526 @@
+{
+ "name": "HAMR Industries — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:advanced-materials-manufacturer",
+ "researched_at": "2026-11-09T18:16:45.944280+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "HAMR Industries — VoxelMatters - The largest database of ... — HAMR Industries — VoxelMatters - The largest database of ... voxelmatters.directory https://www.voxelmatters.directory > ...",
+    "url": "https://www.voxelmatters.directory/company/hamr-industries/",
+    "pass": 3
+   },
+   {
+    "quote": "HAMR Industries — VoxelMatters - The largest database of ... — HAMR Industries LLC was founded as means to transition academic, applied, and unproven early stage technology out of the lab and into the hands of our commercial partners and our nation’s warfighters. Our focus lies in developing advanced materials and manufacturing techniques for components functioning in harsh and extreme environment",
+    "url": "https://www.voxelmatters.directory/company/hamr-industries/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Davide Sher - Co-founder and CEO at VoxelMatters | LinkedInVoxelMatters - LinkedInMichael Schmitt - CEO and Senior Research Scientist | LinkedIn#metalpowders #coppernickel #maritime | Metal Powder WorksAccording to this article from Joris Peels and 3DPrint.com ... Apr 26, 2022 · As a journalist and entrepreneur with a passion for additive manufacturing (AM) and its potential to transform the world",
+    "url": "https://it.linkedin.com/in/davide-sher",
+    "pass": 3
+   },
+   {
+    "quote": "Michael Schmitt - CEO and Senior Research Scientist | LinkedInHAMR and Freemelt show tungsten 3D printed rounds at ...HAMR Industries CEO, Founder, Key Executive Team, Board of ...HAMR Industries — VoxelMatters - The largest database of ... Focus areas include aerospace, energy, defense, and industrial applications. · Experience: HAMR Industries LLC · Education: Penn State University · Location: H",
+    "url": "https://www.linkedin.com/in/michael-schmitt-hamr",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookVoxel Industries Inc. - FacebookHamr Inc - FacebookVoxel Industries, LLC - FacebookNicole Loehr Rivero (@nloehr1) • Facebook, Connect with friendsVoxelMatters - The top 10 metal AM companies by revenue ...HAMR - Facebook Unlock the Future of Metal Additive Manufacturing with VoxelMatters! VoxelMatters Research has kicked off a pre-sale campaign for its upcoming Metal AM Mark",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.directory/company/hamr-industries/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/database/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%9E%E3%83%83%E3%82%AF%E3%82%B9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/hamr-industries/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hamrindustries.com/what-we-do",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.jp/industry-reports/japan-thermally-assisted-magnetic-recording-hamr-devices-market/955",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tm-co.co.jp/glossary/the-next-step-after-hamr-hdmr-dot-recording-a-future-technolo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://soho-jp.com/column-hamr/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/top-products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matterhackers.com/store?srsltid=AYCX9vJV08MaspczF_ZOHTMBfApvzQzP0dFGKSu67AKzI0VWzJMliHJg",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.poly-maker.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/collections/filament",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spee3d.com/case_study/business-case-study-hamr-industries-llc-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/hamr-industries/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/HP-office%E6%90%AD%E8%BC%89-Elitebook-windows11-%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E4%BB%98%E3%81%8D/dp/B0HJCL9YLY",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E9%80%B1%E5%88%8A%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A-2026%E5%B9%B411%E6%9C%8819%E6%97%A5%E5%8F%B7-No-1970-%E9%80%B1%E5%88%8A%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E7%B7%A8%E9%9B%86%E9%83%A8/dp/B0HNSMCCCL",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.monotaro.com/p/1654/8263/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/6892/1283/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/0250/0495/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/s/c-116373/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rocketreach.co/hamr-industries-llc-profile_b778fa32c51a3fa4",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hamrindustries.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hamrindustries.com/team",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/hamr-industries-llc/443457069",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://it.linkedin.com/in/davide-sher",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/michael-schmitt-hamr",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "HAMR Industries — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.directory/company/hamr-industries/",
+    "https://www.voxelmatters.com/about/",
+    "https://www.voxelmatters.report/database/",
+    "https://www.voxelmatters.com/",
+    "https://www.thorlabs.co.jp/ja/distributors",
+    "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "https://www.connectpositronic.com/jp/%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "https://hdc3d.com/ja/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B%E3%83%BB%E9%80%A3%E7%B5%A1%E5%85%88/",
+    "https://www.voxelmatters.directory/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "HAMR Industries — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ミスターマックス",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.voxelmatters.directory/company/hamr-industries/",
+    "https://www.hamrindustries.com/what-we-do",
+    "https://industrial.panasonic.com/jp/s-search/distributors",
+    "https://www.maharam.com/",
+    "https://www.porsche.com/japan/jp/accessoriesandservice/vehicle-accessories/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "HAMR Industries — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.researchnester.jp/industry-reports/japan-thermally-assisted-magnetic-recording-hamr-devices-market/955",
+    "https://tm-co.co.jp/glossary/the-next-step-after-hamr-hdmr-dot-recording-a-future-technolo/",
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://soho-jp.com/column-hamr/",
+    "https://www.storagereview.com/ja/news/seagate-brings-out-the-hamr-with-moziac-3-platform",
+    "https://note.com/erinaomi/n/n3b0a9ce2b6df",
+    "https://pc.watch.impress.co.jp/docs/topic/special/2017179.html",
+    "https://www.reportprime.com/ja/%E7%86%B1%E3%82%A2%E3%82%B7%E3%82%B9%E3%83%88%E7%A3%81%E6%B0%97%E8%A8%98%E9%8C%B2%E7%94%A8HAMR%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96-r3894/company",
+    "https://eetimes.itmedia.co.jp/ee/articles/2603/16/news077_2.html",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "HAMR Industries — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.voxelmatters.com/top-products/",
+    "https://www.matterhackers.com/store?srsltid=AYCX9vJV08MaspczF_ZOHTMBfApvzQzP0dFGKSu67AKzI0VWzJMliHJg",
+    "https://www.poly-maker.jp/",
+    "https://skhonpo.com/collections/filament",
+    "https://apple-tree.shop/?mode=cate&cbid=1729720&csid=0",
+    "https://jp.rs-online.com/web/c/computing-peripherals/3d-printing-scanning/?pn=13&srsltid=AYCX9vKvpEW8YCt5399mQ6G_OVnnYVdanQYc5HuhQVzXWRpKObim7DMK",
+    "https://www.amazon.co.jp/-/en/Additive-Manufacturing-Products/b?ie=UTF8&node=2500103051",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://i-maker.jp/ic/pla-filament?srsltid=AYCX9vKoEjN15t9inb-3ws_TAkY5HL1Y0MoYy6brbm236TNzGggBoPft",
+    "https://skhonpo.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "HAMR Industries — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.spee3d.com/case_study/business-case-study-hamr-industries-llc-2/",
+    "https://www.voxelmatters.directory/company/hamr-industries/",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "https://www.voxelmatters.report/methodology/",
+    "https://www.voxelmatters.com/category/industry-2/",
+    "https://wohlersassociates.com/reference-guides/service-providers/",
+    "https://www.voxelmatters.group/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "HAMR Industries — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.voxelmatters.directory/",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://www.voxelmatters.report/methodology/",
+    "https://mx3d.com/geo/robotic-metal-3d-printing-japan/",
+    "https://www.imarcgroup.com/japan-3d-printing-market",
+    "https://www.raise3d.com/sales-partners-voice/japan-3d-printer-co-ltd-sales-partner-in-japan/",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:amazon.co.jp HAMR Industries — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/HP-office搭載-Elitebook-windows11-日本語キーボード付き/dp/B0HJCL9YLY",
+    "https://www.amazon.co.jp/週刊ファミ通-2026年11月19日号-No-1970-週刊ファミ通編集部/dp/B0HNSMCCCL",
+    "https://r.amazon.co.jp/",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://kdp.amazon.co.jp/ja_JP/signin",
+    "https://shigoto.amazon.co.jp/",
+    "https://business.amazon.co.jp/ja/login"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com HAMR Industries — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/p/1654/8263/",
+    "https://www.monotaro.com/p/6892/1283/",
+    "https://www.monotaro.com/p/0250/0495/",
+    "https://www.monotaro.com/s/c-116373/",
+    "https://www.monotaro.com/p/1766/2383/",
+    "https://www.monotaro.com/g/04061115/",
+    "https://www.monotaro.com/p/0852/8037/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "HAMR Industries — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://rocketreach.co/hamr-industries-llc-profile_b778fa32c51a3fa4",
+    "https://www.hamrindustries.com/",
+    "https://www.hamrindustries.com/team",
+    "https://www.zoominfo.com/c/hamr-industries-llc/443457069",
+    "https://incfact.com/company/hamrindustries-clinton-pa/",
+    "https://www.linkedin.com/company/hamr-industries",
+    "https://pitchbook.com/profiles/company/526468-96"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com HAMR Industries — VoxelMatters",
+   "results": [
+    "https://note.com/kishioka/n/n7ed97fccfd34?hl=en",
+    "https://note.com/semicontimes/n/n9f34f2b56753?hl=en",
+    "https://note.com/semicontimes/n/n9f34f2b56753",
+    "https://note.com/kototamashacho",
+    "https://note.com/osirius3150/n/n164c9a6f7cf8",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com HAMR Industries — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/EmmanuelInvest/status/2056413907758067883",
+    "https://x.com/isaiahrmartin/status/2117871814625972663",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/jocelynseip/status/2118260591680983528",
+    "https://x.com/hollanovrryy/status/2117808047364133189",
+    "https://x.com/drgfromnyc/status/2117850084365025391"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com HAMR Industries — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/company/hamr-industries",
+    "https://www.linkedin.com/posts/davide-sher_hamr-and-freemelt-show-tungsten-3d-printed-activity-7309968347465441282-OwkU",
+    "https://it.linkedin.com/in/davide-sher",
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://www.linkedin.com/in/michael-schmitt-hamr",
+    "https://www.linkedin.com/posts/neighborhood-91_hamr-industries-gets-a-formalloy-x5r-at-neighborhood-activity-7329141441010511874-9k7m",
+    "https://www.linkedin.com/posts/metal-powder-works_metalpowders-coppernickel-maritime-activity-7412134917125632000-YfnK"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com HAMR Industries — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/Voxel-Industries-Inc-100703142723804/",
+    "https://www.facebook.com/p/Hamr-Inc-100066550905523/",
+    "https://www.facebook.com/Voxel-Industries-LLC-113451451106268/",
+    "https://www.facebook.com/nloehr1/",
+    "https://www.facebook.com/VoxelMatters/posts/the-top-10-metal-am-companies-by-revenueeos-leads-a-group-of-key-players-in-meta/845175904280126/",
+    "https://www.facebook.com/kapela.hamr/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "HAMR Industries — VoxelMatters note 社長",
+   "results": [
+    "https://www.hamrindustries.com/team",
+    "https://www.hamrindustries.com/about/",
+    "https://www.voxelmatters.com/",
+    "https://www.linkedin.com/in/michael-schmitt-hamr",
+    "https://www.linkedin.com/posts/davide-sher_hamr-and-freemelt-show-tungsten-3d-printed-activity-7309968347465441282-OwkU",
+    "https://www.cbinsights.com/company/hamr-industries/people",
+    "https://www.voxelmatters.directory/company/hamr-industries/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "HAMR Industries — VoxelMatters X 投稿",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://www.voxelmatters.com/",
+    "https://www.hamrindustries.com/",
+    "https://www.voxelmatters.com/industry/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.voxelmatters.report/product/metal-am-market-2026/",
+    "https://www.voxelmatters.com/category/industry-2/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）"
+ }
+}

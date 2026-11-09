@@ -1,0 +1,1265 @@
+{
+ "name": "Roofr",
+ "aliases": [],
+ "context": "旧営業リスト｜Construction Technology｜リマイン1",
+ "researched_at": "2026-11-09T18:45:37.888698+00:00",
+ "official_url": "https://roofr.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "4. Seed Round",
+    "value": "18-May-2021    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/182791-54",
+    "pass": 3
+   },
+   {
+    "label": "3. Seed Round",
+    "value": "06-Feb-2019    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/182791-54",
+    "pass": 3
+   },
+   {
+    "label": "2. Seed Round",
+    "value": "01-Sep-2017  $120K  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/182791-54",
+    "pass": 3
+   },
+   {
+    "label": "Seed Plus",
+    "value": "",
+    "url": "https://pitchbook.com/profiles/company/182791-54",
+    "pass": 3
+   },
+   {
+    "label": "Seed 1",
+    "value": "113,999 $0.000010 $0.07 $0.88 $0.88 1x $0.88 0.28%",
+    "url": "https://pitchbook.com/profiles/company/182791-54",
+    "pass": 3
+   },
+   {
+    "label": "Seed",
+    "value": "3,243,925 $0.000010 $0.07 $0.91 $0.91 1x $0.91 8.03%",
+    "url": "https://pitchbook.com/profiles/company/182791-54",
+    "pass": 3
+   },
+   {
+    "label": "Total funding",
+    "value": "No funding",
+    "url": "https://prospeo.io/c/roofr-revenue",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$137,000",
+    "url": "https://prospeo.io/c/roofr-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "221 Kearny St, San Francisco, California 94108, US",
+    "url": "https://prospeo.io/c/roofr-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2015",
+    "url": "https://prospeo.io/c/roofr-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Tools proven to win more jobs.",
+    "url": "https://roofr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automations, customer comms, invoicing, and integrated material ordering makes your processes run smoother than that first scoop of peanut butter.",
+    "url": "https://roofr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Capture leads instantly",
+    "url": "https://roofr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Give homeowners instant estimates based on your custom pricing, and get job details are delivered right into your Job Board.",
+    "url": "https://roofr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Use it in ads, on website, door knockers, social, or anywhere else.",
+    "url": "https://roofr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Presentation ready, baby",
+    "url": "https://roofr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "WOW homeowners with customized proposals that only took you a few minutes to create.",
+    "url": "https://roofr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Templated proposals are flexible enough to be personal and automated enough to save you time. Build trust with your customers faster than your competition can pick up the phone.",
+    "url": "https://roofr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Material lists are part of your Roofr Reports! And with our supplier integrations, you can order directly from your preferred supplier.",
+    "url": "https://roofr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Smoother production = happier team = stronger referrals.",
+    "url": "https://roofr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Collect payments online with credit card and ACH processing at affordable rates and keep customer data secure.",
+    "url": "https://roofr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Send a proposal before leaving the home",
+    "url": "https://roofr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Follow up with leads while you wait for materials",
+    "url": "https://roofr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Capture quality leads by offering instant roof estimates with your pricing.",
+    "url": "https://roofr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Professional, fully customizable proposals that empower you to win jobs faster.",
+    "url": "https://roofr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn more about Proposals",
+    "url": "https://roofr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“The Roofr Proposal tool was completely blowing people away.”",
+    "url": "https://roofr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“It helps keep us organized and streamlines our process.”",
+    "url": "https://roofr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our CEO was a roofer and built Roofr to solve real problems.",
+    "url": "https://roofr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "unlimited onboarding calls*.",
+    "url": "https://roofr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "It totally depends on your business. And we know that you’re busy. That’s why we have dedicated Implementation Teams to help you get set up your account - including uploading materials, creating proposal templates, adding your team etc. Plus, you’re paired with an account manager that meets with you regularly to make sure you’re always getting the most out of your account.",
+    "url": "https://roofr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Onboarding packages vary depending on your plan.",
+    "url": "https://roofr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Does Roofr CRM have tools to generate leads?",
+    "url": "https://roofr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "With Roofr’s Instant Estimator, you can not only generate leads - you generate QUALIFIED leads. The instant estimator replaces gathering contact information from a form, and actually provides an instant quote based on the lead’s address. It doesn’t replace a full marketing strategy, but makes it more efficient. Way more efficient.",
+    "url": "https://roofr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes! You can customize your job stages in the job board to match your existing workflows.",
+    "url": "https://roofr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Chandler Got 35 Leads in One Month and Doubled His Close Rate",
+    "url": "https://roofr.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Find out how Chandler Pedini at Five Star Roofing generated 35 leads in one month with Instant Estimator — no ad spend, and double the usual close rate. Read more.",
+    "url": "https://roofr.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "See how James Brown at Your Roof Specialist nearly doubled his close rate after switching from Jobber to Roofr — and cut proposal admin time just as dramatically.",
+    "url": "https://roofr.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Nathan Sends Proposals 80% Faster After Switching From JobNimbus",
+    "url": "https://roofr.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how Nathan Spurbeck at Ark Roofing eliminated manual math and cut proposal time from 45 minutes to 5 — by switching from JobNimbus to Roofr.",
+    "url": "https://roofr.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how Nick Grote streamlined operations, improved project visibility, and scaled his roofing business with Roofr. Read the full customer success story.",
+    "url": "https://roofr.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "See how Sean O’Hare at Evolution RoofWorks cut ordering time in half by pairing Roofr with QXO’s real-time pricing — closing faster and protecting margins.",
+    "url": "https://roofr.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how Brad Strawbridge transformed his roofing business with Roofr’s digital proposals, streamlining operations and boosting his conversion rate to 56%.",
+    "url": "https://roofr.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how Roofr partnered with Santa Claus to measure over 255 million rooftops before December 24th — giving his reindeer a precise landing plan for every home.",
+    "url": "https://roofr.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how Hannah Smith at Smithrock Roofing replaced scattered tools with Roofr — cutting proposal time from 15 minutes to under 2 and saving 12 hours every week.",
+    "url": "https://roofr.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Increased Efficiency & Improved Customer Service with Roofr CRM",
+    "url": "https://roofr.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how Bradford Xteriors owner Jason Shumway uses Roofr to run an efficient, profitable roofing business — and close half his deals over the phone.",
+    "url": "https://roofr.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "See how Amanda Veinott at Maven Roofing closed a $52k job within 7 days of adding Roofr’s Instant Estimator — generating 2 extra jobs per month with no paid ads.",
+    "url": "https://roofr.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Master Craft Roofing built a strong foundation — then needed tech to scale it. See how Joseph Andrews doubled production in year two by switching to Roofr.",
+    "url": "https://roofr.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Project Manager, Five Star Roofing",
+    "url": "https://roofr.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing/Accounting, Peaks View Roofing",
+    "url": "https://roofr.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "President, Landmark Roofing",
+    "url": "https://roofr.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Partnering with Roofr allows you to provide roofing contractors with the tools they need to streamline and scale their businesses. Empower your contractors and become a valuable resource in the roofing community.",
+    "url": "https://roofr.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Roofr has built a reputation as a trusted brand in the roofing industry by providing contractors with reliable, easy-to-use software that simplifies their daily operations. Our commitment to innovation is what makes us a brand they trust.",
+    "url": "https://roofr.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive Support and Resources",
+    "url": "https://roofr.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Roofr is committed to helping partners succeed through extensive training, marketing resources, and responsive support. We equip partners to promote our platform effectively. Together, we can offer contractors the solutions they need.",
+    "url": "https://roofr.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Roofr collaborates with suppliers and distributors to streamline material sourcing and delivery, making it easier for roofing contractors to access quality products efficiently.",
+    "url": "https://roofr.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing partners work with Roofr to empower contractors to increase the demand and sales of their top-of-the-line materials and products.",
+    "url": "https://roofr.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Check out our step by step video guides that help you get the most out of our platform.",
+    "url": "https://roofr.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Join thousands of roofers who successfully streamline their sales process with Roofr",
+    "url": "https://roofr.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Roofr Product Suite: Tools Built for Roofers | Roofr",
+    "url": "https://roofr.com/product-hub",
+    "pass": 1
+   },
+   {
+    "quote": "All the Roofr product updates you’ll want to know about first.",
+    "url": "https://roofr.com/product-hub",
+    "pass": 1
+   },
+   {
+    "quote": "A place to stay informed on everything our product team has been working on. Check here for platform improvements, bug fixes, UI updates etc.",
+    "url": "https://roofr.com/product-hub",
+    "pass": 1
+   },
+   {
+    "quote": "A guide to all things product including tips and tricks.",
+    "url": "https://roofr.com/product-hub",
+    "pass": 1
+   },
+   {
+    "quote": "Product Roundup - October 26-30, 2026",
+    "url": "https://roofr.com/product-hub",
+    "pass": 1
+   },
+   {
+    "quote": "New this round: updates to Roofr CRM, Proposals, Material Ordering, and Payments.",
+    "url": "https://roofr.com/product-hub",
+    "pass": 1
+   },
+   {
+    "quote": "Product Masterclasses",
+    "url": "https://roofr.com/product-hub",
+    "pass": 1
+   },
+   {
+    "quote": "A deep dive with Roofr experts on how to best use our products and features.",
+    "url": "https://roofr.com/product-hub",
+    "pass": 1
+   },
+   {
+    "quote": "Production in Roofr: Keeping Crews Booked & Briefed",
+    "url": "https://roofr.com/product-hub",
+    "pass": 1
+   },
+   {
+    "quote": "Join Nic and Pete as they share best practices and show off Roofr's production tools: work orders, scheduling, crew management, documentation, and more.",
+    "url": "https://roofr.com/product-hub",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Material lists are part of your Roofr Reports! And with our supplier integrations, you can order directly from your preferred supplier.",
+    "url": "https://roofr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How HoneyDew Roofing Streamlined Sales, Boosted Revenue, and Built a Better Workflow",
+    "url": "https://roofr.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how Jacob LaRue of HoneyDew Roofing streamlined operations, hit a 60–65% close rate, and scaled his team's revenue using Roofr's all-in-one platform.",
+    "url": "https://roofr.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "We chatted with Ben Morrow at ROOF TIGER to hear his success story. Last year, he had a total of $2.5M in revenue. Here’s how we helped him make it happen.",
+    "url": "https://roofr.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "We carry ourselves with quiet confidence. We’re kind, and we trust and support each other. Open, honest and constant communication is key to innovation and growth.",
+    "url": "https://roofr.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Revenue Enablement Specialist",
+    "url": "https://roofr.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Enablement Lead - Partnerships",
+    "url": "https://roofr.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Director of Talent Acquisition",
+    "url": "https://roofr.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Operations Expert",
+    "url": "https://roofr.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We are committed to building an organization that empowers inclusion and diversity. We encourage candidates and employees to be true to themselves and express all aspects of their identities. We believe that the convergence of fresh perspectives and experiences from all walks of life is what makes our product and culture so great.",
+    "url": "https://roofr.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We provide medical, dental and vision benefits to employees and their dependents. Health benefits are paid in part by the company.",
+    "url": "https://roofr.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Get your reports back in the time listed, or under. Changes depending on plan.",
+    "url": "https://roofr.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Track important metrics like revenue, jobs won, team leaderboard, monthly earnings, and more.",
+    "url": "https://roofr.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Daily billing gives you a real-time view of your revenue. Instead of a surprise bill at month's end, fees are deducted daily before funds hit your account — making cash flow more predictable and easier to plan for.",
+    "url": "https://roofr.com/payments",
+    "pass": 1
+   },
+   {
+    "quote": "Now Master Craft Roofing is a CRM power user after being a part of the beta program that helped shape the CRM’s development. Through feedback and testing, Master Craft helped Roofr craft the tools that they, and other roofing businesses, actually needed to succeed.",
+    "url": "https://roofr.com/case-studies/joseph-andrews",
+    "pass": 1
+   },
+   {
+    "quote": "Roof Tiger Achieves $2.5M in Revenue with Roofr",
+    "url": "https://www.casestudies.com/company/roofr",
+    "pass": 3
+   },
+   {
+    "quote": "Roofr reduces customer acquisition costs with Digital Shift",
+    "url": "https://www.casestudies.com/customer/roofr",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/roofr/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/182791-54",
+    "pass": 3
+   },
+   {
+    "quote": "Roofr has 193 total employees.",
+    "url": "https://pitchbook.com/profiles/company/182791-54",
+    "pass": 3
+   },
+   {
+    "quote": "What is Roofr’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/182791-54",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Roofr is",
+    "url": "https://pitchbook.com/profiles/company/182791-54",
+    "pass": 3
+   },
+   {
+    "quote": "Roofr Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/roofr-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Roofr",
+    "url": "https://prospeo.io/c/roofr-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/roofr-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/roofr-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/roofr-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Roofr?",
+    "url": "https://prospeo.io/c/roofr-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Roofr generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/roofr-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/roofr-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/roofr-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Roofr have?",
+    "url": "https://prospeo.io/c/roofr-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/roofr-revenue",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Paper invoices can get lost. Digital invoices sent right to a customers email or linked in a text message? They can’t ignore that.",
+    "url": "https://roofr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Imagine waking up to an email that you’ve been paid. No driving to get cheques, no deposit roadblocks, no losing track of invoices.",
+    "url": "https://roofr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Call us, chat with us, or email us.",
+    "url": "https://roofr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sign up for free with email. No credit card required.",
+    "url": "https://roofr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Email & email templates",
+    "url": "https://roofr.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Trigger actions based on job stage or proposal status. Can also be used to send emails or texts.",
+    "url": "https://roofr.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Send and track emails directly from the job card for better customer communication.",
+    "url": "https://roofr.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Connect your Gmail to keep work related emails with the rest of your work.",
+    "url": "https://roofr.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Connect your Outlook to keep work related emails with the rest of your work.",
+    "url": "https://roofr.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Contact our support team via chat, phone or email for any questions you have.",
+    "url": "https://roofr.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Give them good-better-best pricing, and send an automated follow-up email, AND order a Roofr Report all before the other guy even checks their email.",
+    "url": "https://roofr.com/estimator",
+    "pass": 1
+   },
+   {
+    "quote": "Print or email proposals, and let homeowners sign",
+    "url": "https://roofr.com/measurements",
+    "pass": 1
+   },
+   {
+    "quote": "In the event of a chargeback, the funds are immediately returned to the cardholder and debited from your account. After you receive a chargeback notification, you will be given the opportunity to contest the chargeback and submit any evidence that proves the validity of the original transaction (ie: signed documentation, photos of completed work). For any chargeback, please contact us at",
+    "url": "https://roofr.com/payments",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/roofr/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/roofr/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/182791-54",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/roofr-revenue",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Discover how Jesse Schreuder streamlined operations, saved time, and grew his roofing business using Roofr's all-in-one platform. Read the case study to learn how.",
+    "url": "https://roofr.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Partners",
+    "url": "https://roofr.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing partners work with Roofr to empower contractors to increase the demand and sales of their top-of-the-line materials and products.",
+    "url": "https://roofr.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Roofr is already trusted by thousands of roofers",
+    "url": "https://roofr.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Success Stories about Software and Services used by Roofr",
+    "url": "https://www.casestudies.com/customer/roofr",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/roofr/case-studies",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本でも、2018年9月からドローンを活用した測量サービスを提供している株式会社テラドローンが、",
+    "url": "https://contech.jp/roofr/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "衛星画像を活用してたった26秒で屋根の修繕費を見積もるRoofr | 建設... — Feb 20, 2019 · Roofrを利用するメリット Roofrのサービスがもつ魅力は、家主と業者の双方が利益を得ることができる点です。 家主側は、衛星を活用したサービスにより、住所を入力するだけですぐに費用の見積もりを確認することができます。",
+    "url": "https://contech.jp/roofr/",
+    "pass": 3
+   },
+   {
+    "quote": "Best Roofing Software | Roofr — Roofr works where you work, whether you’re at home, in a driveway, or on a roof. Pull up your jobs, see what you need, respond fast, and stay organized from anywhere.",
+    "url": "https://roofr.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Roofr：屋根工のための販売ソフトウェア | 航空測定 + 秒単位の提案 — Roofrは、屋根工事事業の効率化を支援する統合型ソフトウェアです。 リアルタイムデータに基づいた戦略的意思決定を可能にし、見積作成から支払いまでをシームレスに管理できます。",
+    "url": "https://huntscreens.com/ja/products/roofr",
+    "pass": 3
+   },
+   {
+    "quote": "A Manga Guide to the Beautiful Roofs in Japanese Architecture金属屋根工事・雨樋工事は富士市のルーフジャパンへHome - ジャパンルーフ株式会社 雨漏り・瓦屋根工事のことならお任せ...Japanese Roofs - Setouchi Explorer衛星画像を活用してたった26秒で屋根の修繕費を見積もるRoofr | 建設...Roofer in Tokyo | 4 listed - IntentlyBest Roofing Software | Roofr — May 14, 2020 · The various roofs in Japanese architecture look similar at first glance, but they can actually be distinguished into t",
+    "url": "https://www.tsunagujapan.com/japanese-architecture-roofs/",
+    "pass": 3
+   },
+   {
+    "quote": "衛星画像を活用してたった26秒で屋根の修繕費を見積もるRoofr | 建設... — Feb 20, 2019 · もう一方でRoofrと契約している業者側は、Roofr を通して屋根修繕を行ったときのみ手数料を支払う成果報酬型になります。 顧客の情報を見るだけでも手数料を取られてしまう他の多くの大きな会社に比べ優しい点がRoofr の魅力であると言えるでしょう。",
+    "url": "https://contech.jp/roofr/",
+    "pass": 3
+   },
+   {
+    "quote": "Best Roofing Software | Roofr — All-in-one roofing software with CRM, instant estimates, proposals, measurements, payments & material ordering. Rated 4.7/5 stars. Start free, no credit card.",
+    "url": "https://roofr.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Roofr Case Studies | Roofr — Discover how Nick Grote streamlined operations, improved project visibility, and scaled his roofing business with Roofr. Read the full customer success story.",
+    "url": "https://roofr.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "7 Roofr Case Studies | CaseStudies.com — Roofr is the single roofing software that has all the tools a roofing business needs to effectively run their operations. Manage measurement reports, digital proposals, invoicing, payments and more, all on easy-to-use platform.",
+    "url": "https://www.casestudies.com/company/roofr",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How Roofr Uses Software & Services — Explore case studies featuring Roofr as the customer — learn how vendors and partners helped Roofr solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/roofr",
+    "pass": 3
+   },
+   {
+    "quote": "7 Roofr Case Studies, Success Stories, & Customer Stories ... — Narrow down 7 case studies by company size & industry to find out how Roofr works for a business like yours.",
+    "url": "https://www.featuredcustomers.com/vendor/roofr/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Roofr Brand Kit: Logos, Colors and Official Assets | Roofr — Welcome to the Roofr Brand Kit! Our kit includes the proper logos, colors, and assets you’ll need when promoting or referencing the Roofr brand.",
+    "url": "https://roofr.com/brand-kit",
+    "pass": 3
+   },
+   {
+    "quote": "Roofr - 2026 Company Profile, Team, Funding & Competitors ...Roofr 2026 Company Profile: Valuation, Funding & Investors ...Roofr Revenue, Funding & Valuation - prospeo.ioRoofr – Valuation, Revenue & Market Scope – 2026Roofr - Overview, News & Similar companies | ZoomInfo.comRoofr: Funding, Team & Investors | Startup IntrosRoofr: Funding, Investors & Team (Nov 2026) | FundedIQ — Jun 4, 2026 · Roofr",
+    "url": "https://tracxn.com/d/companies/roofr/__6mi_m9GfIUPXCI-ZdXnRXBKO7UO2jT1N6_nNfFyFWhY",
+    "pass": 3
+   },
+   {
+    "quote": "Roofr 2026 Company Profile: Valuation, Funding & Investors ...Roofr Revenue, Funding & Valuation - prospeo.ioRoofr – Valuation, Revenue & Market Scope – 2026Roofr - Overview, News & Similar companies | ZoomInfo.comRoofr: Funding, Team & Investors | Startup IntrosRoofr: Funding, Investors & Team (Nov 2026) | FundedIQ — Information on valuation, funding, cap tables, investors, and executives for Roo",
+    "url": "https://pitchbook.com/profiles/company/182791-54",
+    "pass": 3
+   },
+   {
+    "quote": "Roofr Revenue, Funding & Valuation - prospeo.io — Roofr is the single roofing software that has all the tools a roofing business needs to effectively run their operations. Manage measurement reports, digital proposals, invoicing, payments and more, all on easy-to-use platform.",
+    "url": "https://prospeo.io/c/roofr-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Roofr – Valuation, Revenue & Market Scope – 2026 — Roofr’s scale is reflected by estimated revenue of $70.5M, team of around 200+ employees, located in San Francisco, with growing sector engagement.",
+    "url": "https://compworth.com/company/roofr",
+    "pass": 3
+   },
+   {
+    "quote": "Roofr - Overview, News & Similar companies | ZoomInfo.com — The company was founded by a third-generation roofer with a vision to build the most trusted roofing platform in the world. Roofr gives roofing contractors everything they need to save time, money, and close more business.",
+    "url": "https://www.zoominfo.com/c/roofr-inc/435361218",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Roofr (@Roofrapp) / Posts / X May 3, 2016 · Roofr (@Roofrapp) - Posts - Roofing estimates in seconds. Connect with the best roofers. | X (formerly Twitter)",
+    "url": "https://x.com/roofrapp",
+    "pass": 3
+   },
+   {
+    "quote": "@roofr | X The latest posts from @roofr",
+    "url": "https://x.com/roofr",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Roofr - LinkedIn Roofr is the single roofing software that has all the tools a roofing business needs to effectively run their operations. Manage measurement reports, digital proposals, invoicing, payments and ...",
+    "url": "https://www.linkedin.com/company/roofr",
+    "pass": 3
+   },
+   {
+    "quote": "Roofr - LinkedIn Roofr is the single roofing software that has all the tools a roofing business needs to effectively run their operations. Manage measurement reports, digital proposals, invoicing, payments and more, all on easy-to-use platform. Roofr streamlines day-to-day operations so you can spend less time on admin and more time growing your business.",
+    "url": "https://ca.linkedin.com/company/roofr",
+    "pass": 3
+   },
+   {
+    "quote": "Brandon Axthelm - Axthelm Construction, Inc | LinkedInJose (Freddy) Villalobos - From planning to completion ...Richy Nelson - On a mission to build the most trusted roofing ...Roofr tops G2’s Fall 2025 Reports. These badges aren’t just ...Scam Alert: Impersonation of Roofr at roofrr.com - LinkedIn Experience: Axthelm Construction, Inc · Education: Central Washington University · Location: Greater",
+    "url": "https://www.linkedin.com/in/brandon-axthelm-153501ba",
+    "pass": 3
+   },
+   {
+    "quote": "Jose (Freddy) Villalobos - From planning to completion ...Richy Nelson - On a mission to build the most trusted roofing ...Roofr tops G2’s Fall 2025 Reports. These badges aren’t just ...Scam Alert: Impersonation of Roofr at roofrr.com - LinkedIn Jose (Freddy) Villalobos From planning to completion - managing projects that last Pasco, Washington, United States 325 followers 324 connections See your",
+    "url": "https://www.linkedin.com/in/jose-freddy-villalobos-51624924b",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Roofr - FacebookRowlands Roofing | Moses Lake WA - FacebookBasin’s Best Roofing | Moses Lake WA - FacebookHeavenly Roofing Restoration Experts | Ephrata WA - FacebookBailey And Son Construction | Moses Lake WA - FacebookArrowhead Roofing LLC | Moses Lake WA - FacebookBiery Construction | Moses Lake WA - Facebook Oct 21, 2026 · Roofr. 16,513 followers · 196 talking about this. The CRM built for roo",
+    "url": "https://www.facebook.com/getroofr/",
+    "pass": 3
+   },
+   {
+    "quote": "Rowlands Roofing | Moses Lake WA - FacebookBasin’s Best Roofing | Moses Lake WA - FacebookHeavenly Roofing Restoration Experts | Ephrata WA - FacebookBailey And Son Construction | Moses Lake WA - FacebookArrowhead Roofing LLC | Moses Lake WA - FacebookBiery Construction | Moses Lake WA - Facebook Jul 28, 2026 · 100% recommend (12 reviews) Always open Moses Lake, WA, United States, 98837-2416 Moses",
+    "url": "https://www.facebook.com/rowlandsroofingcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "Heavenly Roofing Restoration Experts | Ephrata WA - FacebookBailey And Son Construction | Moses Lake WA - FacebookArrowhead Roofing LLC | Moses Lake WA - FacebookBiery Construction | Moses Lake WA - Facebook Another beautiful roof completed in Moses Lake, WA! GAF Charcoal shingles are always a great choice for a clean, timeless look. #HeavenlyRoofing #MosesLakeWA #GAFRoofing #CharcoalShingles #Roo",
+    "url": "https://www.facebook.com/heavenlyroofing/",
+    "pass": 3
+   },
+   {
+    "quote": "Basin’s Best Roofing | Moses Lake WA - Facebook Jun 16, 2026 · Basin’s Best Roofing is in Moses Lake, WA. 🏘️ Does your home need a NEW ROOF? Or possibly a simple roof repair?! It’s NOT to late to get a new roof replacement or a roof repair! This the PERFECT TIME to get your roof replaced or get a repair done before the colder weather approaches!",
+    "url": "https://www.facebook.com/p/Basins-Best-Roofing-100086008320967/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://roofr.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roofr.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roofr.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roofr.com/resources",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roofr.com/product-hub",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roofr.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roofr.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roofr.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roofr.com/estimator",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roofr.com/measurements",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roofr.com/proposals",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roofr.com/payments",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roofr.com/case-studies/amanda-veinott",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roofr.com/case-studies/joseph-andrews",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roofr.com/case-studies/ben-morrow",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roofr.com/case-studies/matthew-watson",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roofr.com/talk-to-an-expert",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/6493173e3cea69ef8852e657/653f46e0270573247a69c35e_Logos_00000085949586263558912960000011930238539155516304_.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/6493173e3cea69ef8852e657/673e18fe53d1d3128c09b2c0_Supplier%20and%20Distribution%20Partners.avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/6493173e3cea69ef8852e657/673e190775fe2fc9b79285a8_Manufacturing%20Partners.avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/6493173e3cea69ef8852e657/673e18fe121f251343f939b2_Integration%20Partners.avif",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://contech.jp/roofr/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://huntscreens.com/ja/products/roofr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renewable-ei.org/activities/reports/20260820.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsunagujapan.com/japanese-architecture-roofs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.setouchiexplorer.com/japanese-roofs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://contech.jp/roofr/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/roofr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/roofr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/roofr/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/roofr/__6mi_m9GfIUPXCI-ZdXnRXBKO7UO2jT1N6_nNfFyFWhY",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/182791-54",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prospeo.io/c/roofr-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/roofr",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/roofrapp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/roofr",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/roofr",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/brandon-axthelm-153501ba",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/jose-freddy-villalobos-51624924b",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/getroofr/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/rowlandsroofingcompany/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/heavenlyroofing/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Basins-Best-Roofing-100086008320967/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/roofr",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Roofr 日本 導入",
+   "results": [
+    "https://contech.jp/roofr/",
+    "https://roofr.com/",
+    "https://huntscreens.com/ja/products/roofr",
+    "https://www.renewable-ei.org/activities/reports/20260820.php",
+    "https://www.tetsudo.com/column/1612/",
+    "https://carview.yahoo.co.jp/article/detail/ec3c48a77f8e185b727bfc3c5b84b45a70deba74/",
+    "https://diamond.jp/articles/-/395504"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Roofr 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://roofgeneralstore.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Roofr Japan",
+   "results": [
+    "https://www.tsunagujapan.com/japanese-architecture-roofs/",
+    "https://www.setouchiexplorer.com/japanese-roofs/",
+    "https://contech.jp/roofr/",
+    "https://roofr.com/",
+    "https://intently.co/suppliers/Japan/Tokyo/Roofer",
+    "http://roof-japan.com/",
+    "https://japanroof.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Roofr manufacturing customer case study",
+   "results": [
+    "https://roofr.com/case-studies",
+    "https://www.casestudies.com/company/roofr",
+    "https://www.casestudies.com/customer/roofr",
+    "https://www.featuredcustomers.com/vendor/roofr/case-studies",
+    "https://www.lemtroofing.com/blogs/case-studies-successful-roofing-projects-and-what-made-them-work",
+    "https://roofr.com/case-studies/hannah-smith",
+    "https://assets-global.website-files.com/6493173e3cea69ef8852e65e/6493173e3cea69ef8852ed49_Roofr+Case+Study+-+Justin.pdf"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Roofr white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://roofr.com/brand-kit",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://dor.wa.gov/taxes-rates/retail-sales-tax/reseller-permits",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://reseller.amazon.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Roofr founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/roofr/__6mi_m9GfIUPXCI-ZdXnRXBKO7UO2jT1N6_nNfFyFWhY",
+    "https://pitchbook.com/profiles/company/182791-54",
+    "https://prospeo.io/c/roofr-revenue",
+    "https://compworth.com/company/roofr",
+    "https://www.zoominfo.com/c/roofr-inc/435361218",
+    "https://startupintros.com/orgs/roofr",
+    "https://fundediq.co/roofr-roofr-com-funding/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Roofr",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com Roofr",
+   "results": [
+    "https://x.com/roofrapp",
+    "https://x.com/RoofCoffeeShop",
+    "https://x.com/RealmRoof",
+    "https://x.com/RoofContr",
+    "https://x.com/BestDamnRoofer",
+    "https://x.com/BestDamnRoofer/status/1709941689887150149",
+    "https://x.com/QXOInc"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Roofr",
+   "results": [
+    "https://www.linkedin.com/company/roofr",
+    "https://ca.linkedin.com/company/roofr",
+    "https://www.linkedin.com/in/brandon-axthelm-153501ba",
+    "https://www.linkedin.com/in/jose-freddy-villalobos-51624924b",
+    "https://www.linkedin.com/in/richy-nelson-105b7593",
+    "https://www.linkedin.com/posts/roofr_roofr-tops-g2s-fall-2025-reports-these-activity-7396224663934291968-SP5R",
+    "https://www.linkedin.com/posts/roofr_scam-alert-impersonation-of-roofr-activity-7348476971602825216-7RTx"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Roofr",
+   "results": [
+    "https://www.facebook.com/getroofr/",
+    "https://www.facebook.com/rowlandsroofingcompany/",
+    "https://www.facebook.com/heavenlyroofing/",
+    "https://www.facebook.com/p/Basins-Best-Roofing-100086008320967/",
+    "https://www.facebook.com/BaileyandSonConstruction/",
+    "https://www.facebook.com/arrowheadroofingml/",
+    "https://www.facebook.com/p/Biery-Construction-100063703953672/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Roofr note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/藤原岳史",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://plus-note.jp/message.html",
+    "https://shachomeikan.jp/industry_article/5902",
+    "https://www.chunichi.co.jp/article/986614",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Roofr X 投稿",
+   "results": [
+    "https://x.com/roofr",
+    "https://roofr.com/",
+    "https://x.com/sn_r4oo/status/2115751990437580809",
+    "https://roofxloop.com/members",
+    "https://x-force.thinkforce.co.jp/archives/461",
+    "https://fitly.pics/blog/x-twitter-post-tips",
+    "https://www.witha.jp/sns・マーケティング/x-posting-guide-beginners/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式17頁／PDF・画像4件／外部30頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式17頁／PDF・画像4件／外部30頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式17頁／PDF・画像4件／外部30頁・検索12回）"
+ }
+}

@@ -1,0 +1,776 @@
+{
+ "name": "Yhat",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜NG",
+ "researched_at": "2026-11-09T18:16:44.592504+00:00",
+ "official_url": "https://www.yhat.solutions/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Lead generation, monitoring, reporting and document generation that run on their own and tell you when something needs a human.",
+    "url": "https://www.yhat.solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Lead generation pipelines",
+    "url": "https://www.yhat.solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Spot problems before your customers do",
+    "url": "https://www.yhat.solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "An AI lead generation platform that pulls remote job listings from TheirStack and Apollo, filters them for employer-of-record opportunities, and hands qualified leads to the sales team.",
+    "url": "https://www.yhat.solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Qualified leads delivered to sales",
+    "url": "https://www.yhat.solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "This platform is the most important thing in the company right now. It finds opportunities we would never have spotted by hand, and the Yhat team ships improvements every week.",
+    "url": "https://www.yhat.solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Card pre-authorisation for charging sessions",
+    "url": "https://www.yhat.solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Yhat gives us the kind of senior product engineering that can hold payments, mobile UX, and charging infrastructure in one head. The work lands cleanly, even where the edge cases are ugly.",
+    "url": "https://www.yhat.solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "An AI assistant built into their property management product. It answers questions from company data and shows its work clearly while it runs.",
+    "url": "https://www.yhat.solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Lives inside the existing product",
+    "url": "https://www.yhat.solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Clear progress on long-running tasks",
+    "url": "https://www.yhat.solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "The AI platform has become a real product surface, not a demo. It connects to our tools, streams complex agent work clearly, and gives property managers useful insight inside the workflows they already use.",
+    "url": "https://www.yhat.solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Smart metering for a utility management company. We replaced manual processes with AI, from reading meters off photos to catching leaks and unusual usage, and built the pipelines and monitoring that keep it all running.",
+    "url": "https://www.yhat.solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Modernising the software behind one of their portfolio companies, a medical device distributor. We work alongside the team, inside their Syspro ERP, connecting warehouse, inventory and the systems around them so they finally talk to each other.",
+    "url": "https://www.yhat.solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Syspro ERP integration",
+    "url": "https://www.yhat.solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Our own product · in beta",
+    "url": "https://www.yhat.solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Praxis lets lawyers work with AI to produce structured, precise legal documents. The lawyer stays in charge of the argument. The software handles the formatting and the repetition.",
+    "url": "https://www.yhat.solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "A conversation about what you need. Then a short written plan with a price and a date.",
+    "url": "https://www.yhat.solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Got a problem software could",
+    "url": "https://www.yhat.solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive Analytics Software",
+    "url": "https://getlatka.com/companies/yhat.com",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/yhat.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/yhat.com",
+    "pass": 3
+   },
+   {
+    "quote": "I tried using the time series analysis library Prophet.｜分析屋",
+    "url": "https://note.com/bunsekiya_tech/n/ne31a8ebb5261?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I tried using the time series analysis library Prophet.",
+    "url": "https://note.com/bunsekiya_tech/n/ne31a8ebb5261?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In the article above, I learned about a time series analysis library for Python and R called Prophet (Prophet?). It seems to be a widely used library.",
+    "url": "https://note.com/bunsekiya_tech/n/ne31a8ebb5261?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Prophet is a forecasting procedure implemented in R and Python. It provides fast, fully automated forecasts and also allows data scientists and analysts to tune them manually.",
+    "url": "https://note.com/bunsekiya_tech/n/ne31a8ebb5261?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Prophet is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects. It works best with time series that have strong seasonal effects and several seasons of historical data. Prophet is robust to missing data and shifts in the trend, and typically handles outliers well.",
+    "url": "https://note.com/bunsekiya_tech/n/ne31a8ebb5261?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Let's just run it as shown on the official page. It seemed to work in Google Colab without needing to install Prophet.",
+    "url": "https://note.com/bunsekiya_tech/n/ne31a8ebb5261?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "from prophet import Prophet",
+    "url": "https://note.com/bunsekiya_tech/n/ne31a8ebb5261?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "df = pd.read_csv('https://raw.githubusercontent.com/facebook/prophet/main/examples/example_wp_log_peyton_manning.csv')",
+    "url": "https://note.com/bunsekiya_tech/n/ne31a8ebb5261?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The input to Prophet is always a dataframe with two columns: ds (datestamp) and y, just like the dataframe above. The y column must be numeric and represent the measurement you want to forecast.",
+    "url": "https://note.com/bunsekiya_tech/n/ne31a8ebb5261?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Now, let's use Prophet.",
+    "url": "https://note.com/bunsekiya_tech/n/ne31a8ebb5261?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Next, we perform the forecast. Pass the future dataframe created earlier to the predict method.",
+    "url": "https://note.com/bunsekiya_tech/n/ne31a8ebb5261?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "forecast = m.predict(future)",
+    "url": "https://note.com/bunsekiya_tech/n/ne31a8ebb5261?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The predict method assigns a predicted value to each row in future and names it yhat. If you pass past dates, it provides an in-sample fit. The forecast object here is a new dataframe. The dataframe contains the predicted yhat column, as well as columns for components and uncertainty intervals.",
+    "url": "https://note.com/bunsekiya_tech/n/ne31a8ebb5261?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "So, although I don't fully understand it yet, I took a look at the code on the official Prophet page since it's a library that's getting a lot of attention.",
+    "url": "https://note.com/bunsekiya_tech/n/ne31a8ebb5261?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Automatic changepoint detection in Prophet",
+    "url": "https://note.com/bunsekiya_tech/n/ne31a8ebb5261?hl=en",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Modernising the software behind one of their portfolio companies, a medical device distributor. We work alongside the team, inside their Syspro ERP, connecting warehouse, inventory and the systems around them so they finally talk to each other.",
+    "url": "https://www.yhat.solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse and inventory systems that share data",
+    "url": "https://www.yhat.solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "We provide analysis algorithm development services, such as machine learning and various other algorithms. While our past work has mainly involved analyzing medical vital data, our policy is to apply the experience and technology cultivated through that work to help solve problems for companies in other fields, such as manufacturing.",
+    "url": "https://note.com/bunsekiya_tech/n/ne31a8ebb5261?hl=en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Yhat Revenue 2024: $1.2M Est.",
+    "url": "https://getlatka.com/companies/yhat.com",
+    "pass": 3
+   },
+   {
+    "quote": "Yhat has not published its revenue. GetLatka estimates it at about $1.2M a year (December 2024).",
+    "url": "https://getlatka.com/companies/yhat.com",
+    "pass": 3
+   },
+   {
+    "quote": "All 2 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/yhat.com",
+    "pass": 3
+   },
+   {
+    "quote": "Yhat CEO, founders & employees",
+    "url": "https://getlatka.com/companies/yhat.com",
+    "pass": 3
+   },
+   {
+    "quote": "Austin Ogilvie founded Yhat in 2013 and runs it as CEO. Yhat had 8 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/yhat.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Yhat's revenue?",
+    "url": "https://getlatka.com/companies/yhat.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Yhat's revenue at about",
+    "url": "https://getlatka.com/companies/yhat.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Yhat have?",
+    "url": "https://getlatka.com/companies/yhat.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/yhat.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/yhat.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/yhat.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/yhat.com",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Founded Revenue, Funding & Valuation - prospeo.ioYhat Revenue 2024: $1.2M Est. ARR, $3.6M ValuationYhat 2026 Company Profile: Valuation, Investors, Acquisition ...Company Revenue Lookup | Search Any Company's Revenuefounded: Revenue, Competitors, Alternatives - GrowjoAnthropic Revenue 2026: $65B, $965B Valuation - LATKA — What are the revenues of Founded? Founded generates an estimated annual reve",
+    "url": "https://prospeo.io/c/founded-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Yhat Revenue 2024: $1.2M Est. ARR, $3.6M Valuation — Aug 10, 2026 · Yhat 2024 estimated revenue: $1.2M ARR. Valuation: $3.6M. 8 employees. Industry: Data Science and Machine Learning Platforms Updated Apr 10, 2025.",
+    "url": "https://getlatka.com/companies/yhat.com",
+    "pass": 3
+   },
+   {
+    "quote": "Yhat 2026 Company Profile: Valuation, Investors, Acquisition ...Company Revenue Lookup | Search Any Company's Revenuefounded: Revenue, Competitors, Alternatives - GrowjoAnthropic Revenue 2026: $65B, $965B Valuation - LATKA — Information on acquisition, funding, cap tables, investors, and executives for Yhat. Use the PitchBook Platform to explore the full profile. Company revenue lookup: search any",
+    "url": "https://pitchbook.com/profiles/company/60460-48",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "I tried using the time series analysis library Prophet.｜分析屋 The predict method assigns a predicted value to each row in future and names it yhat. If you pass past dates, it provides an in-sample fit. The forecast object here is a new dataframe. The dataframe contains the predicted yhat column, as well as columns for components and uncertainty intervals. By the way, the other columns were as follow",
+    "url": "https://note.com/bunsekiya_tech/n/ne31a8ebb5261?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "[Enriching Japan through data analysis]",
+    "url": "https://note.com/bunsekiya_tech/n/ne31a8ebb5261?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "I tried using the time series analysis library Prophet.｜分析屋",
+    "url": "https://note.com/bunsekiya_tech/n/ne31a8ebb5261?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I tried using the time series analysis library Prophet.",
+    "url": "https://note.com/bunsekiya_tech/n/ne31a8ebb5261?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I'm Shimotaki, an analyst.",
+    "url": "https://note.com/bunsekiya_tech/n/ne31a8ebb5261?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In the article above, I learned about a time series analysis library for Python and R called Prophet (Prophet?). It seems to be a widely used library.",
+    "url": "https://note.com/bunsekiya_tech/n/ne31a8ebb5261?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "With the hope of keeping it in my memory, I tried running the code from the official page.",
+    "url": "https://note.com/bunsekiya_tech/n/ne31a8ebb5261?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The official description states the following.",
+    "url": "https://note.com/bunsekiya_tech/n/ne31a8ebb5261?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Prophet is a forecasting procedure implemented in R and Python. It provides fast, fully automated forecasts and also allows data scientists and analysts to tune them manually.",
+    "url": "https://note.com/bunsekiya_tech/n/ne31a8ebb5261?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Prophet is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects. It works best with time series that have strong seasonal effects and several seasons of historical data. Prophet is robust to missing data and shifts in the trend, and typically handles outliers well.",
+    "url": "https://note.com/bunsekiya_tech/n/ne31a8ebb5261?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "\"#yhat\" - Results on X | Live Posts & Updates Results for \"#yhat\" on X (Twitter). Find the latest posts, discussions, and updates about #yhat. 20 results found.",
+    "url": "https://x.com/hashtag/yhat",
+    "pass": 3
+   },
+   {
+    "quote": "Yhat Malang (@yhatzkie05) / X The “Kath” is finally out of the bag! 👀 So excited to finally share this with everyone. Thank you, Madame Tussauds HK for this huge honor. 🤎🇵🇭 #KathrynShinesAtMTHK#MadameTussaudshongkong 87 Yhat Malang @yhatzkie05 Oct 22, 2025 🥶",
+    "url": "https://x.com/yhatzkie05",
+    "pass": 3
+   },
+   {
+    "quote": "ね (@yhat_0639) / X お花に話しかけてその後食べる。 These posts are protected Only approved followers can see @yhat_0639’s posts.",
+    "url": "https://x.com/yhat_0639",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Yhat, Inc. (acquired by Alteryx NYSE:AYX) - LinkedIn Yhat (pronounced Y-hat) is a data science and decision management platform that lets data scientists create, deploy and integrate real-time insights into any business application without IT.",
+    "url": "https://www.linkedin.com/company/yhat-inc-",
+    "pass": 3
+   },
+   {
+    "quote": "Gonzalo Guarnaschelli - Apasionado de los datos, Co-Founder ...LILDROPSHOTS YHAT - Student at Green River College | LinkedIn#yhat #investigathon #cienciaargentina #innovacion #deeptech ...Ashika Mohan - YHat | LinkedInYHAT.APP - LinkedIn Apasionado de los datos, Co-Founder @YHAT · Experiencia: YHAT.APP · Educación: UTEC, MITx · Ubicación: Montevideo · Más de 500 contactos en LinkedIn. Mira el perf",
+    "url": "https://uy.linkedin.com/in/gonzalo-guarnaschelli-61b21652",
+    "pass": 3
+   },
+   {
+    "quote": "LILDROPSHOTS YHAT - Student at Green River College | LinkedIn Student at Green River College · Education: Green River College · Location: Greater Brisbane Area. View LILDROPSHOTS YHAT’s profile on LinkedIn, a professional community of 1 billion members.",
+    "url": "https://au.linkedin.com/in/lildropshots-yhat-b3528217b",
+    "pass": 3
+   },
+   {
+    "quote": "#yhat #investigathon #cienciaargentina #innovacion #deeptech ... El futuro no se adivina, se modela. 🔥 #YHat #Investigathon #CienciaArgentina #Innovacion #DeepTech #ExactasUBA #UBA #Latam| 16 comentarios en LinkedIn",
+    "url": "https://es.linkedin.com/posts/y-hat-exactas_yhat-investigathon-cienciaargentina-activity-7407482565122584577-TcOE",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.yhat.solutions/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.yhat.solutions/_next/image?url=%2Fimages%2Fclient_logos%2FZeroCarbonCharge-512x309.png&w=1080&q=75&dpl=dpl_73AydwRV3j866f7mp4PSLGiXJgGc",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.yhat.solutions/_next/image?url=%2Fimages%2Fclient_logos%2FWeconnectU-819x167.png&w=1920&q=75&dpl=dpl_73AydwRV3j866f7mp4PSLGiXJgGc",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.yhat.solutions/_next/image?url=%2Fimages%2Fclient_logos%2FUrbtec-1024x373.png&w=2048&q=75&dpl=dpl_73AydwRV3j866f7mp4PSLGiXJgGc",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.yhat.solutions/_next/image?url=%2Fimages%2Fclient_logos%2FDNA-EOR.png&w=1080&q=75&dpl=dpl_73AydwRV3j866f7mp4PSLGiXJgGc",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://mainichi.jp/articles/20261031/k00/00m/010/262000c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.travelvoice.jp/20260219-159279",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://limo.media/articles/-/115254",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://the-explain-ai.com/blog/japan-government-claude-mythos-cyber-defense-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chigai-hikaku.com/?p=36920",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyatt.com/promo/hotels-in-japan",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://thejapantravelblog.com/best-places-to-visit-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.conveyormg.com/resources/blogs/creating-manufacturing-case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.canva.com/partners/reseller/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/founded",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/founded-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/yhat.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/60460-48",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/bunsekiya_tech/n/ne31a8ebb5261?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hashtag/yhat",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/yhatzkie05",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/yhat_0639",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/yhat-inc-",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uy.linkedin.com/in/gonzalo-guarnaschelli-61b21652",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://au.linkedin.com/in/lildropshots-yhat-b3528217b",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://es.linkedin.com/posts/y-hat-exactas_yhat-investigathon-cienciaargentina-activity-7407482565122584577-TcOE",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Yhat 日本 導入",
+   "results": [
+    "https://mainichi.jp/articles/20261031/k00/00m/010/262000c",
+    "https://www.travelvoice.jp/20260219-159279",
+    "https://limo.media/articles/-/115254",
+    "https://the-explain-ai.com/blog/japan-government-claude-mythos-cyber-defense-2026/",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://www.yomiuri.co.jp/politics/20250423-OYT1T50104/",
+    "https://www.proofpoint.com/jp/blog/cyberthreats/dmarc-adoption-industry-japan-us-2026"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Yhat 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://chigai-hikaku.com/?p=36920",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://www.jetro.go.jp/invest/setting_up/section1/page1.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Yhat Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Japan",
+    "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "https://www.hyatt.com/promo/hotels-in-japan",
+    "https://thejapantravelblog.com/best-places-to-visit-in-japan/",
+    "https://www.britannica.com/place/Japan",
+    "https://www.hyatt.com/park-hyatt/en-US/tyoph-park-hyatt-tokyo",
+    "https://newsroom.hyatt.com/Introducing_Alila_Sengokuhara_Hakone_A_Mindful_Mountain_Retreat_for_Japans_Onsen_Country"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Yhat manufacturing customer case study",
+   "results": [
+    "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.conveyormg.com/resources/blogs/creating-manufacturing-case-studies",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.infosys.com/industries/industrial-manufacturing/case-studies.html",
+    "https://www.microsoft.com/en-us/customers/",
+    "https://itape-qa-wp.itape.com/wp-content/uploads/2025/02/case-study/yacht-manufacturer-01232025lp.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Yhat white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.canva.com/partners/reseller/",
+    "https://partner.vw.com/partner",
+    "https://www.appspace.com/resellers-alliances/",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://www.resellercluster.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Yhat founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/founded",
+    "https://prospeo.io/c/founded-revenue",
+    "https://getlatka.com/companies/yhat.com",
+    "https://pitchbook.com/profiles/company/60460-48",
+    "https://companydata.com/company-revenue-lookup/",
+    "https://growjo.com/company/founded",
+    "https://getlatka.com/companies/anthropic"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Yhat",
+   "results": [
+    "https://note.com/bunsekiya_tech/n/ne31a8ebb5261?hl=en",
+    "https://note.com/gay_egret4207/n/n0637b04233ca?hl=en",
+    "https://note.com/senzokuondai/n/n3781993bb980?hl=en",
+    "https://tales.note.com/little0_0me/wjvqsfpo2t3c3/episodes/eyr3a4811peq4",
+    "https://tales.note.com/noteyoumatome5/w76b5s6x50ota",
+    "https://note.com/alert_boar5422/n/n03d28fb09de8?hl=en",
+    "https://note.com/serene_sovereign/n/nc8ac6adceaa8?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Yhat",
+   "results": [
+    "https://x.com/hashtag/yhat",
+    "https://x.com/yhatzkie05",
+    "https://x.com/yhat_0639",
+    "https://x.com:2096/_yhat_",
+    "https://x.com/somos_yhat",
+    "https://help.x.com/en/using-x/x-advanced-search",
+    "https://x.com/SladesBrother"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Yhat",
+   "results": [
+    "https://www.linkedin.com/company/yhat-inc-",
+    "https://uy.linkedin.com/in/gonzalo-guarnaschelli-61b21652",
+    "https://au.linkedin.com/in/lildropshots-yhat-b3528217b",
+    "https://es.linkedin.com/posts/y-hat-exactas_yhat-investigathon-cienciaargentina-activity-7407482565122584577-TcOE",
+    "https://za.linkedin.com/in/ashika-mohan-01027718",
+    "https://www.linkedin.com/company/yhat-app",
+    "https://www.linkedin.com/pulse/understanding-meaning-usage-yhat-naming-convention-tbwvc"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Yhat",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Yhat note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.com/saiyou_dekirukun/all",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.com/sadaaki",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://x.com/sadaaki"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Yhat X 投稿",
+   "results": [
+    "https://x.com/Yuichi1673402/status/2119316489467777134",
+    "https://note.com/mgane/n/n1c0d7384c8a0",
+    "https://www.witha.jp/sns・マーケティング/x-posting-guide-beginners/",
+    "https://fitly.pics/blog/x-twitter-post-tips",
+    "https://x-force.thinkforce.co.jp/archives/461",
+    "https://lifestyle.assist-all.co.jp/how-to-post-on-x-for-beginners-2/",
+    "https://shuno26-blog.com/twtr-pstpcsp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部32頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部32頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部32頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部32頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部32頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部32頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部32頁・検索12回）"
+ }
+}

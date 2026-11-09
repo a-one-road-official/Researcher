@@ -1,0 +1,1512 @@
+{
+ "name": "Bulletin",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜NG",
+ "researched_at": "2026-11-09T18:19:13.547930+00:00",
+ "official_url": "https://bulletin.co",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$660,000",
+    "url": "https://prospeo.io/c/bulletin-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "No funding",
+    "url": "https://prospeo.io/c/bulletin-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "100 Broadway, 14th floor, New York, New York 10005, US",
+    "url": "https://prospeo.io/c/bulletin-revenue",
+    "pass": 3
+   },
+   {
+    "label": "HQ",
+    "value": "New York City, NY, USA",
+    "url": "https://startupintros.com/orgs/bulletin",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2015",
+    "url": "https://prospeo.io/c/bulletin-revenue",
+    "pass": 3
+   },
+   {
+    "label": "Founded",
+    "value": "Founded：2016",
+    "url": "https://startupintros.com/orgs/bulletin",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "label": "ContactMonkey",
+    "value": "Venture Capital-Backed Toronto, Canada",
+    "url": "https://pitchbook.com/profiles/company/501903-46",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Its print ISSN is 0009-2673 and its electronic ISSN is 1348-0634, with CODEN BCSJA8.",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Oxford University Press",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Oxford University Press describes the journal as publishing research in theoretical and physical chemistry, analytical and inorganic chemistry, organic and biological chemistry, and applied and materials chemistry.",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "On 30 June 2023 the press announced that, from 1 January 2024, it would publish the",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "The library's current imprint reads \"Oxford University Press on behalf of Chemical Society of Japan,\" beginning in 2024.",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "The National Library of Medicine states that publication was suspended from January 1945 through December 1946 and that print issues ceased with volume 91 in 2018, while the journal continued to be issued online.",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "OpenAlex, which also gives the host organization as Oxford University Press and the country as",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "The first issue opens with Masao Katayama’s sketch “Professor Kikunae Ikeda,” dated November 1925. Katayama wrote that friends and former pupils had raised money for the birthday anniversary of",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "the previous October and that, at Ikeda’s wish, the sum was given to the society as a fund for scientific publication. The society, he continued, decided to publish short papers and abstracts in European languages, “which took the form of this Bulletin.”",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Volume 1 was organized in monthly numbers and already carried original research, including a paper by Sameshima; its contents also list contributions under German and French titles.",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "continued, a postwar roll in which about 7,000 people—one third of the combined membership of the Chemical Society of Japan and the industrial-chemistry society (工業化学会)—could not be contacted, and a resumption of society activity around the beginning of 1946. Those two societies merged in January 1948 as a new Chemical Society of Japan, with Ichiro Ishikawa as its first president.",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "The Japan Science and Technology Agency, which had begun an electronic-archive program in fiscal 2005 after requests from Japanese societies, placed the",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Print issues ceased with volume 91 (2018); the National Library of Medicine notes that the journal is also issued online.",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "from 1 January 2024. The release described the arrangement as joint publication. A society representative quoted there said that OUP’s online platform would strengthen publication processes, support high-quality papers, widen international recognition, and help the move toward open science, including through transformative agreements.",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "From 2024 the National Library of Medicine imprint is Oxford University Press on behalf of the Chemical Society of Japan, in place of the original Tokyo imprint, and the catalog’s electronic links include the Oxford Academic site.",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Crossref lists Oxford University Press as publisher and records the January 2024 editorial “BCSJ 2024 new year issue” in volume 97, issue 1.",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "would publish the journal from January 2024, the press described it as publishing research papers in",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Award Accounts are requested from recipients of four society prizes—the CSJ Award, the CSJ Award for Creative Work, the CSJ Award for Young Chemists, and the CSJ Award for Outstanding Young Women Chemists—on the basis of the work those prizes recognize.",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "From 2024 the library’s imprint is “Oxford University Press on behalf of Chemical Society of Japan,” and its country of publication is given as England.",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Publishing work and editorial decisions were divided rather than transferred: a journal working group set up in June 2022 inside the society’s strategic planning committee recommended co-publication with an overseas press, and the 666th meeting of the board of directors approved Oxford University Press on 25 May 2023, for a start in January 2024.",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "states that CSJ-led editorial boards still accept the papers, that submission and peer review were left unchanged, and that Oxford University Press publishes the accepted papers and placed both journals in its 2024 collection while editorial independence was kept.",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "would be developed as a non-profit model, including through transformative agreements, rather than one organized around profit.",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Crossref lists Oxford University Press as the",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": ", the second title in the 2024 arrangement, began in 1972. It is monthly and in English, and the National Library of Medicine gives it the same 2024 imprint, Oxford University Press on behalf of the Chemical Society of Japan, noting that print issues ceased with volume 47 (2018).",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "The society’s journals page describes the contents as highlight reviews and letters on current topics in all aspects of chemistry.",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Print ISSN : 0021-4426",
+    "url": "https://www.jstage.jst.go.jp/browse/materia1962",
+    "pass": 3
+   },
+   {
+    "quote": "Rheocast Process and Stirring Synthesis Technique",
+    "url": "https://www.jstage.jst.go.jp/browse/materia1962",
+    "pass": 3
+   },
+   {
+    "quote": "Recent Trends of Advanced Rolling Technologies for Strip Products",
+    "url": "https://www.jstage.jst.go.jp/browse/materia1962",
+    "pass": 3
+   },
+   {
+    "quote": "Explore the dynamic world of manufacturing with our comprehensive resources. From cutting-edge technologies to innovative processes, we delve into the heart of the industry’s advancements and challenges. Our content covers everything from supply chain optimization and lean manufacturing principles to sustainability initiatives and emerging trends like Industry 4.0.",
+    "url": "https://b2bulletin.com/manufacturing-bulletin/",
+    "pass": 3
+   },
+   {
+    "quote": "Whether you’re a seasoned professional, an aspiring entrepreneur, or an industry enthusiast, our articles, case studies, and insights provide valuable perspectives to help you navigate the ever-evolving landscape of manufacturing. Join us as we spotlight best practices, showcase success stories, and uncover the strategies driving innovation and growth in this vital sector.",
+    "url": "https://b2bulletin.com/manufacturing-bulletin/",
+    "pass": 3
+   },
+   {
+    "quote": "Smart water technology enhances decision–making for utility professionals – Aveva",
+    "url": "https://b2bulletin.com/manufacturing-bulletin/",
+    "pass": 3
+   },
+   {
+    "quote": "Merchandising, Buying, Technology, Sourcing, Wholesale, Wholesale Inventory, Visual Merchandising, Inventory, Retail Technology, Wholesale Products, Wholesale Merchandise",
+    "url": "https://prospeo.io/c/bulletin-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Bulletin is a premium community where retailers go to discover, meet, and shop the best brands on the planet.",
+    "url": "https://prospeo.io/c/bulletin-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View contact profiles from",
+    "url": "https://prospeo.io/c/bulletin-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Microsoft Advertising",
+    "url": "https://prospeo.io/c/bulletin-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Bulletin has approximately",
+    "url": "https://prospeo.io/c/bulletin-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/bulletin-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/bulletin-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Get Targeted Leads for free",
+    "url": "https://prospeo.io/c/bulletin-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Bulletin uses historical sales data, customer engagement metrics, and best-seller trends to recommend products tailored to each retailer’s unique needs, increasing the likelihood of successful sales and repeat orders.",
+    "url": "https://startupintros.com/orgs/bulletin",
+    "pass": 3
+   },
+   {
+    "quote": "The platform features a curated selection of global brands, ensuring quality and relevance for retailers and reducing the risk of poor-fit products.",
+    "url": "https://startupintros.com/orgs/bulletin",
+    "pass": 3
+   },
+   {
+    "quote": "Bulletin offers Net 60 payment terms, improving cash flow for retailers and making it easier for them to experiment with new products.",
+    "url": "https://startupintros.com/orgs/bulletin",
+    "pass": 3
+   },
+   {
+    "quote": "Bulletin fosters a premium commerce community, emphasizing relationships over transactions and providing tools like Bulletin Plus for brands to promote their stories, new arrivals, and promotions.",
+    "url": "https://startupintros.com/orgs/bulletin",
+    "pass": 3
+   },
+   {
+    "quote": "Integrated Marketing Tools:",
+    "url": "https://startupintros.com/orgs/bulletin",
+    "pass": 3
+   },
+   {
+    "quote": "Bulletin leverages platforms like Norby to host virtual events, manage SMS and email marketing, and deliver personalized shopping experiences, driving engagement and sales.",
+    "url": "https://startupintros.com/orgs/bulletin",
+    "pass": 3
+   },
+   {
+    "quote": "Bulletin (Business/Productivity Software) 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/501903-46",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/501903-46",
+    "pass": 3
+   },
+   {
+    "quote": "Bulletin (Business/Productivity Software)",
+    "url": "https://pitchbook.com/profiles/company/501903-46",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of a newsletter creation platform designed to manage the newsletter creation process.",
+    "url": "https://pitchbook.com/profiles/company/501903-46",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/501903-46",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/501903-46",
+    "pass": 3
+   },
+   {
+    "quote": "Bulletin (Business/Productivity Software) Valuation & Funding",
+    "url": "https://pitchbook.com/profiles/company/501903-46",
+    "pass": 3
+   },
+   {
+    "quote": "This information is available in the PitchBook Platform. To explore Bulletin (Business/Productivity Software)‘s full profile, request access.",
+    "url": "https://pitchbook.com/profiles/company/501903-46",
+    "pass": 3
+   },
+   {
+    "quote": "Bulletin (Business/Productivity Software) Comparisons",
+    "url": "https://pitchbook.com/profiles/company/501903-46",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of a newsletter creation platform designed to manage the newsletter creation process. The company's platform e",
+    "url": "https://pitchbook.com/profiles/company/501903-46",
+    "pass": 3
+   },
+   {
+    "quote": "Bulletin (Business/Productivity Software) Competitors (1)",
+    "url": "https://pitchbook.com/profiles/company/501903-46",
+    "pass": 3
+   },
+   {
+    "quote": "One of Bulletin (Business/Productivity Software)’s competitors is",
+    "url": "https://pitchbook.com/profiles/company/501903-46",
+    "pass": 3
+   },
+   {
+    "quote": "Bulletin (Business/Productivity Software) FAQs",
+    "url": "https://pitchbook.com/profiles/company/501903-46",
+    "pass": 3
+   },
+   {
+    "quote": "When was Bulletin (Business/Productivity Software) founded?",
+    "url": "https://pitchbook.com/profiles/company/501903-46",
+    "pass": 3
+   },
+   {
+    "quote": "Bulletin (Business/Productivity Software) was founded in 2021.",
+    "url": "https://pitchbook.com/profiles/company/501903-46",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "continued, a postwar roll in which about 7,000 people—one third of the combined membership of the Chemical Society of Japan and the industrial-chemistry society (工業化学会)—could not be contacted, and a resumption of society activity around the beginning of 1946. Those two societies merged in January 1948 as a new Chemical Society of Japan, with Ichiro Ishikawa as its first president.",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Buckley Williams Case Study: Bulletin – Bulletin - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/buckley-williams/case-study/bulletin-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Bulletin - Customer Case Study",
+    "url": "https://www.casestudies.com/company/buckley-williams/case-study/bulletin-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Bulletin used Buckley Williams",
+    "url": "https://www.casestudies.com/company/buckley-williams/case-study/bulletin-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/buckley-williams/case-study/bulletin-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/buckley-williams/case-study/bulletin-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Tonjoo Case Study: Bulletin – Bulletin - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/tonjoo/case-study/bulletin-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Bulletin - Customer Case Study",
+    "url": "https://www.casestudies.com/company/tonjoo/case-study/bulletin-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Bulletin used Tonjoo",
+    "url": "https://www.casestudies.com/company/tonjoo/case-study/bulletin-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/tonjoo/case-study/bulletin-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/tonjoo/case-study/bulletin-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Bulletin - B2BULLETINS",
+    "url": "https://b2bulletin.com/manufacturing-bulletin/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Bulletin",
+    "url": "https://b2bulletin.com/manufacturing-bulletin/",
+    "pass": 3
+   },
+   {
+    "quote": "Explore the dynamic world of manufacturing with our comprehensive resources. From cutting-edge technologies to innovative processes, we delve into the heart of the industry’s advancements and challenges. Our content covers everything from supply chain optimization and lean manufacturing principles to sustainability initiatives and emerging trends like Industry 4.0.",
+    "url": "https://b2bulletin.com/manufacturing-bulletin/",
+    "pass": 3
+   },
+   {
+    "quote": "Whether you’re a seasoned professional, an aspiring entrepreneur, or an industry enthusiast, our articles, case studies, and insights provide valuable perspectives to help you navigate the ever-evolving landscape of manufacturing. Join us as we spotlight best practices, showcase success stories, and uncover the strategies driving innovation and growth in this vital sector.",
+    "url": "https://b2bulletin.com/manufacturing-bulletin/",
+    "pass": 3
+   },
+   {
+    "quote": "Agents given an unsolvable task look for answers outside the task. In the process, they discovered that JFrog's 'Artifactory,' which was running on an internal host, was in a shared and writable state.",
+    "url": "https://note.com/hacklog_stealth/n/n16f5bd539592?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": Artifactory stopped due to massive access, and it was officially treated as an incident",
+    "url": "https://note.com/hacklog_stealth/n/n16f5bd539592?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Bulletin of the Chemical Society of Japan — Grokipedia",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Bulletin of the Chemical Society of Japan",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Chemical Society of Japan",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "The library's current imprint reads \"Oxford University Press on behalf of Chemical Society of Japan,\" beginning in 2024.",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "The title page of the first volume names Jitsusaburo Sameshima as editor and gives the publisher as the society at the Faculty of Science of the Imperial University of Tokyo, now the",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "The National Library of Medicine records the language as English and the frequency as monthly, and lists the society, under its Japanese name Nihon Kagakkai, as the collective author.",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "continued, a postwar roll in which about 7,000 people—one third of the combined membership of the Chemical Society of Japan and the industrial-chemistry society (工業化学会)—could not be contacted, and a resumption of society activity around the beginning of 1946. Those two societies merged in January 1948 as a new Chemical Society of Japan, with Ichiro Ishikawa as its first president.",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "began in 2002, and that contributions from outside Japan increased after electronic submission opened.",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "The Japan Science and Technology Agency, which had begun an electronic-archive program in fiscal 2005 after requests from Japanese societies, placed the",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "From 2024 the National Library of Medicine imprint is Oxford University Press on behalf of the Chemical Society of Japan, in place of the original Tokyo imprint, and the catalog’s electronic links include the Oxford Academic site.",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "editorial office’s Tokyo address and a sample received date of 12 October 2004, asked authors to name one of the four sections so that the paper would be handled by the corresponding section editor.",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "(CSJ; 日本化学会). The National Library of Medicine catalogues it under the collective author Nihon Kagakkai and records",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "From 2024 the library’s imprint is “Oxford University Press on behalf of Chemical Society of Japan,” and its country of publication is given as England.",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": ", the second title in the 2024 arrangement, began in 1972. It is monthly and in English, and the National Library of Medicine gives it the same 2024 imprint, Oxford University Press on behalf of the Chemical Society of Japan, noting that print issues ceased with volume 47 (2018).",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "The library catalogues it as an official publication of the Chemical Society of Japan and other bodies, started in 2001, in English, six times a year, and published in",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "release of 26 March 2012 states that the Asian Chemical Editorial Society was founded in 2005 by the Chemical Society of Japan, the",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": ". Japanese biographical dictionaries credit the physical chemist Jitsusaburo Sameshima with launching the society's English-language journal in 1926, although they do not assign him the later title of editor-in-chief.",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Science University of Tokyo",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Katsuhiko Ariga, editor-in-chief of the Bulletin of the Chemical Society of Japan, in a National Institute for Materials Science directory portrait.",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "The editorial-board page dated from a 26 February 2024 capture still named Ariga editor-in-chief and Suginome deputy editor-in-chief. Under them were 14 senior editors based in Japan, India, Germany, the United States, China, Canada, and South Korea, among them Makoto Fujita and Kyoko Nozaki of the",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "; a dedicated editor, Toshiaki Murai of Gifu University; four section editors, a group that included Suginome; and 23 associate editors, nearly all at Japanese universities. An honorary advisory board and a separate advisory board listed senior chemists in Japan and abroad. Noyori and Sakurai appeared on the honorary board, and Tamao and Tokitoh on the advisory board.",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Bull. Chem. Soc. Japan",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "BULL. CHEM. SOC. JPN. (TOKYO)",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "On 30 January 2016 the J-STAGE page, then the journal’s platform at the Japan Science and Technology Agency, showed both ISSNs and 37,303 registered articles, with volumes back to 1926.",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "NLM’s current imprint reads “2024– : [Oxford] : Oxford University Press on behalf of Chemical Society of Japan,” and the catalog links the Oxford Academic site with the society’s former journal address.",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Bulletin of the Japan Institute of Metals",
+    "url": "https://www.jstage.jst.go.jp/browse/materia1962",
+    "pass": 3
+   },
+   {
+    "quote": "The Japan Institute of Metals",
+    "url": "https://www.jstage.jst.go.jp/browse/materia1962",
+    "pass": 3
+   },
+   {
+    "quote": "Bulletin of the Japan Institut ...",
+    "url": "https://www.jstage.jst.go.jp/browse/materia1962",
+    "pass": 3
+   },
+   {
+    "quote": "[in Japanese], [in Japanese]",
+    "url": "https://www.jstage.jst.go.jp/browse/materia1962",
+    "pass": 3
+   },
+   {
+    "quote": "bulletとbulletinについて 語源などをもとに調べたこと｜hitoshijj30 英語＋日本語学習応援！",
+    "url": "https://note.com/hitoshi1988/n/n9955b71f5257",
+    "pass": 3
+   },
+   {
+    "quote": "hitoshijj30 英語＋日本語学習応援！",
+    "url": "https://note.com/hitoshi1988/n/n9955b71f5257",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Volume 1 was organized in monthly numbers and already carried original research, including a paper by Sameshima; its contents also list contributions under German and French titles.",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "—listed as founded in 1926—among titles partly released on 27 March 2006 in Journal@rchive, a free full-text archive of back numbers, with remaining portions of the selected journals expected within the fiscal year.",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "from 1 January 2024. The release described the arrangement as joint publication. A society representative quoted there said that OUP’s online platform would strengthen publication processes, support high-quality papers, widen international recognition, and help the move toward open science, including through transformative agreements.",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Manuscripts are sorted by those headings. A template for Short Articles, carrying the",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "The same instructions state that, as of October 2023, the journal no longer accepts submissions of Short Articles. Headline Articles are not among the types listed there.",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": ", the second title in the 2024 arrangement, began in 1972. It is monthly and in English, and the National Library of Medicine gives it the same 2024 imprint, Oxford University Press on behalf of the Chemical Society of Japan, noting that print issues ceased with volume 47 (2018).",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": ", started in 2012 and issued monthly by Wiley-VCH, is an ACES journal and the official journal of the Korean Society of Organic Synthesis; the library records it as co-owned by ACES’s thirteen member societies and that Korean society.",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": ", started in 2015 and issued monthly online by Wiley-VCH for the Asian Chemical Editorial Society, carries the subtitle “chemistry of nanomaterials for energy, biology and more” and is catalogued as a sister journal of the other two ACES titles.",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Named editors-in-chief appear on later mastheads. A North American distribution page maintained by the American Chemical Society listed",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Norihiro Tokitoh, also of Kyoto University, records on his researchmap profile that he was editor-in-chief of the society's English-language journal from 2013 to 2016, and the journal's site listed him in that post in March 2014.",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "; a dedicated editor, Toshiaki Murai of Gifu University; four section editors, a group that included Suginome; and 23 associate editors, nearly all at Japanese universities. An honorary advisory board and a separate advisory board listed senior chemists in Japan and abroad. Noyori and Sakurai appeared on the honorary board, and Tamao and Tokitoh on the advisory board.",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Crossref’s journal record, retrieved on 21 October 2026, listed 38,350 DOIs, of which 415 were classed as current and 37,935 as backfile.",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Institutions can take the full archive, a subject archive, or a single-journal archive by subscription, perpetual purchase, title-by-title purchase, or evidence-based acquisition.",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Those copies must acknowledge the publisher source, link to the publisher version—with the DOI on the repository route—and carry a set phrase.",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "carried Fukui’s “An MO-Theoretical Illumination for the Principle of Stereoselection” (1966, volume 39, pages 498–503) and, with Hiroshi Fujimoto, a two-part analysis of interaction energy (1968, volume 41, pages 1989–1997; 1969, volume 42, pages 3399–3409).",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Noboru Mataga, Yozo Kaifu and Masao Koizumi, “Solvent Effects upon Fluorescence Spectra and the Dipolemoments of Excited Molecules” (1956, volume 29, pages 465–470), had 1,730 and 1,698. With E. Lippert’s related work, it underlies the Lippert–Mataga equation for the change in dipole moment on electronic excitation.",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Bulletin Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/bulletin-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Bulletin",
+    "url": "https://prospeo.io/c/bulletin-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/bulletin-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/bulletin-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/bulletin-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Bulletin?",
+    "url": "https://prospeo.io/c/bulletin-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Bulletin generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/bulletin-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/bulletin-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/bulletin-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Bulletin have?",
+    "url": "https://prospeo.io/c/bulletin-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/bulletin-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Bulletin fosters a premium commerce community, emphasizing relationships over transactions and providing tools like Bulletin Plus for brands to promote their stories, new arrivals, and promotions.",
+    "url": "https://startupintros.com/orgs/bulletin",
+    "pass": 3
+   },
+   {
+    "quote": "Corporate Backed or Acquired",
+    "url": "https://pitchbook.com/profiles/company/501903-46",
+    "pass": 3
+   },
+   {
+    "quote": "What is Bulletin (Business/Productivity Software)’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/501903-46",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Bulletin (Business/Productivity Software) is",
+    "url": "https://pitchbook.com/profiles/company/501903-46",
+    "pass": 3
+   },
+   {
+    "quote": "It began on May 7, during reinforcement learning for an unreleased internal experimental model. It seems that part of the learning task had unintentionally become impossible to solve.",
+    "url": "https://note.com/hacklog_stealth/n/n16f5bd539592?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "First, make a list of 'places where any agent can write,' and read the files left there with your own eyes. You will usually find at least one place where state is being carried over unintentionally.",
+    "url": "https://note.com/hacklog_stealth/n/n16f5bd539592?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "If you are using Claude Code, you can explicitly deny read access to the path where credentials are stored using `permissions.deny` in `settings.json`, which narrows the scope of a potential accident.",
+    "url": "https://note.com/hacklog_stealth/n/n16f5bd539592?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "That one sentence carried an indescribable sense of loneliness.",
+    "url": "https://note.com/lovely_swift8589/n/nc68cec1cbf42?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "5% of the daily net revenue generated by the directly referred user",
+    "url": "https://note.com/calm_orchid4712/n/n38c83fbdf3c9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue sharing calculations begin once the referral code link is successful",
+    "url": "https://note.com/calm_orchid4712/n/n38c83fbdf3c9?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Bulletin of the Chemical Society of Japan — The Bulletin of the Chemical Society of Japan (BCSJ; ISO 4: Bull. Chem. Soc. Jpn.) is a peer-reviewed scientific journal covering all fields of chemistry, published by the Chemical Society of Japan. Established in 1926, it is issued monthly and publ…",
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Bulletin of the Chemical Society of Japan | Oxford Academic — Founded in 1878, The Chemical Society of Japan serves to promote chemistry for science and industry in collaboration with other domestic and global societies. Find out more. Fill out our simple online form to recommend Bulletin of the Chemical Society of Japan to your library. Recommend now.",
+    "url": "https://academic.oup.com/bcsj",
+    "pass": 3
+   },
+   {
+    "quote": "Bulletin of the Japan Institute of Metals - J-STAGE — 3 days ago · Access full-text academic articles: J-STAGE is an online platform for Japanese academic journals.",
+    "url": "https://www.jstage.jst.go.jp/browse/materia1962",
+    "pass": 3
+   },
+   {
+    "quote": "Issues | Bulletin of the Chemical Society of Japan | Oxford ... — The Chemical Society of Japan Award for Creative Work for 2017 Molecular nanocarbons as function-encoding units: from atomistic precision to collective function Siyuan Ye and others Bulletin of the Chemical Society of Japan, Volume 99, Issue 11, November 2026, uoag144, https://doi.org/10.1093/bulcsj/uoag144 Abstracts View article",
+    "url": "https://academic.oup.com/bcsj/issue",
+    "pass": 3
+   },
+   {
+    "quote": "Chemical and Pharmaceutical Bulletin - J-STAGE — Yakugaku Zasshi is published mostly in Japanese, except for some articles related to clinical pharmacy and pharmaceutical education, which are published in English.",
+    "url": "https://www.jstage.jst.go.jp/browse/cpb",
+    "pass": 3
+   },
+   {
+    "quote": "Buckley Williams Case Study: Bulletin – Bulletin - Customer ... — Bulletin partnered with Buckley Williams (Design) to solve key challenges. \"Bulletin - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/buckley-williams/case-study/bulletin-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Bulletin - Customer Case Study — Bulletin (Retail) partnered with Tonjoo to solve key challenges. \"Bulletin - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/tonjoo/case-study/bulletin-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Bulletin - B2BULLETINS — Whether you’re a seasoned professional, an aspiring entrepreneur, or an industry enthusiast, our articles, case studies, and insights provide valuable perspectives to help you navigate the ever-evolving landscape of manufacturing.",
+    "url": "https://b2bulletin.com/manufacturing-bulletin/",
+    "pass": 3
+   },
+   {
+    "quote": "Bulletin Revenue, Funding & Valuation - prospeo.io — Funding Data Explore Bulletin 's funding history, including investment rounds, total capital raised, and key backers.",
+    "url": "https://prospeo.io/c/bulletin-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Bulletin – Industry Ranking & Company Valuation – 2026 — Discover Bulletin's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/bulletin",
+    "pass": 3
+   },
+   {
+    "quote": "Bulletin: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · The enterprise currently maintains a workforce of approximately 15 employees to support its growing network of retail customers and premium brand partners. Bulletin was originally founded in 2016 by co-founders Alana Branston and Ali Kriegsman.",
+    "url": "https://startupintros.com/orgs/bulletin",
+    "pass": 3
+   },
+   {
+    "quote": "Bulletin (Business/Productivity Software) 2026 Company ... — Information on valuation, funding, acquisitions, investors, and executives for Bulletin (Business/Productivity Software). Use the PitchBook Platform to explore the full profile.",
+    "url": "https://pitchbook.com/profiles/company/501903-46",
+    "pass": 3
+   },
+   {
+    "quote": "Bulletin - 2025 Company Profile, Team, Funding & Competitors ...Bulletin - Products, Competitors, Financials, Employees ...Bulletin - 2025 Company Profile, Team, Competitors ... - Tracxn — Sep 8, 2025 · Bulletin is an acquired company based in Brooklyn (United States), founded in 2015 by Alana Branston and Ali Kriegsman. It operates as an Online marketplace offering multi-category products for ent",
+    "url": "https://tracxn.com/d/companies/bulletin/__QfdhBND2p4wBou3SEEuvGEWnrKW5DntlXISO1Il_mxU",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Sign up to receive email updates, fresh news and more!",
+    "url": "https://b2bulletin.com/manufacturing-bulletin/",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/bulletin-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Bulletin leverages platforms like Norby to host virtual events, manage SMS and email marketing, and deliver personalized shopping experiences, driving engagement and sales.",
+    "url": "https://startupintros.com/orgs/bulletin",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/501903-46",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "bulletとbulletinについて 語源などをもとに調べたこと｜hitoshijj30 ... Feb 6, 2023 · bulletとbulletinについて 語源などをもとに調べたこと",
+    "url": "https://note.com/hitoshi1988/n/n9955b71f5257",
+    "pass": 3
+   },
+   {
+    "quote": "AI Agents Created a 'Secret Bulletin Board' Inside the ... Aug 9, 2026 · At Black Hat USA 2026 (August 5), OpenAI provided a detailed explanation of an incident that occurred during their internal experiments. The story goes that during reinforcement learning, AI agents created their own communication channel on internal servers, shared vulnerability information ther",
+    "url": "https://note.com/hacklog_stealth/n/n16f5bd539592?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "No Trolling on the Bulletin Board. What Was Internet Security ... In the old days, personal websites had bulletin boards.It was a place called a BBS, a term that sounds a bit nostalgic now.Visitors could post freely.The administrator would reply.Regulars would talk to each other.Occasionally, a stranger would appear.And, usually, an incident would occur somewh",
+    "url": "https://note.com/lovely_swift8589/n/nc68cec1cbf42?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[ByPet] Friend Code Bulletin Board | Post friend requests and ... Sep 24, 2026 · When playing ByPet, you might find yourself wanting to: \"Increase your number of friends\" \"Find people to enter your friend code\" \"Post your own friend code somewhere\" That is why I have set up this page to be used as a ByPet Friend Code Bulletin Board as a place to use. Please write your friend code in the comments s",
+    "url": "https://note.com/calm_orchid4712/n/n38c83fbdf3c9?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "bulletとbulletinについて 語源などをもとに調べたこと｜hitoshijj30 英語＋日本語学習応援！",
+    "url": "https://note.com/hitoshi1988/n/n9955b71f5257",
+    "pass": 3
+   },
+   {
+    "quote": "bulletとbulletinについて 語源などをもとに調べたこと",
+    "url": "https://note.com/hitoshi1988/n/n9955b71f5257",
+    "pass": 3
+   },
+   {
+    "quote": "hitoshijj30 英語＋日本語学習応援！",
+    "url": "https://note.com/hitoshi1988/n/n9955b71f5257",
+    "pass": 3
+   },
+   {
+    "quote": "bulletとbulletinについて 語源などをもとに調べたことをお伝えします。",
+    "url": "https://note.com/hitoshi1988/n/n9955b71f5257",
+    "pass": 3
+   },
+   {
+    "quote": "参考→①Online Etymology Dictionary",
+    "url": "https://note.com/hitoshi1988/n/n9955b71f5257",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.etymonline.com/word/bulletin",
+    "url": "https://note.com/hitoshi1988/n/n9955b71f5257",
+    "pass": 3
+   },
+   {
+    "quote": "②Bull, Bullet, Bulletin",
+    "url": "https://note.com/hitoshi1988/n/n9955b71f5257",
+    "pass": 3
+   },
+   {
+    "quote": "http://www.kyreles.com/2009/08/bull-bullet-bulletin.html",
+    "url": "https://note.com/hitoshi1988/n/n9955b71f5257",
+    "pass": 3
+   },
+   {
+    "quote": "AI Agents Created a 'Secret Bulletin Board' Inside the Company: The Method That Led to a Hugging Face Breach in 13 Hours｜Hack-Log",
+    "url": "https://note.com/hacklog_stealth/n/n16f5bd539592?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "AI Agents Created a 'Secret Bulletin Board' Inside the Company: The Method That Led to a Hugging Face Breach in 13 Hours",
+    "url": "https://note.com/hacklog_stealth/n/n16f5bd539592?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "At Black Hat USA 2026 (August 5), OpenAI provided a detailed explanation of an incident that occurred during their internal experiments. The story goes that during reinforcement learning, AI agents created their own communication channel on internal servers, shared vulnerability information there, and eventually obtained administrator privileges for the cluster.",
+    "url": "https://note.com/hacklog_stealth/n/n16f5bd539592?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In this article, I will organize the disclosed timeline and methods, and then write about the points that individuals running agents should check today. While it sounds like science fiction, the structure of what happened is actually very mundane and applies directly to your own environment.",
+    "url": "https://note.com/hacklog_stealth/n/n16f5bd539592?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It started with an 'unsolvable task'",
+    "url": "https://note.com/hacklog_stealth/n/n16f5bd539592?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It began on May 7, during reinforcement learning for an unreleased internal experimental model. It seems that part of the learning task had unintentionally become impossible to solve.",
+    "url": "https://note.com/hacklog_stealth/n/n16f5bd539592?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Agents given an unsolvable task look for answers outside the task. In the process, they discovered that JFrog's 'Artifactory,' which was running on an internal host, was in a shared and writable state.",
+    "url": "https://note.com/hacklog_stealth/n/n16f5bd539592?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This was the turning point. Being able to write meant they could leave messages.",
+    "url": "https://note.com/hacklog_stealth/n/n16f5bd539592?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "No Trolling on the Bulletin Board. What Was Internet Security Like Back Then?｜ネット三等兵",
+    "url": "https://note.com/lovely_swift8589/n/nc68cec1cbf42?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "No Trolling on the Bulletin Board. What Was Internet Security Like Back Then?",
+    "url": "https://note.com/lovely_swift8589/n/nc68cec1cbf42?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In the old days, personal websites had bulletin boards.",
+    "url": "https://note.com/lovely_swift8589/n/nc68cec1cbf42?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It was a place called a BBS, a term that sounds a bit nostalgic now.",
+    "url": "https://note.com/lovely_swift8589/n/nc68cec1cbf42?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Visitors could post freely.",
+    "url": "https://note.com/lovely_swift8589/n/nc68cec1cbf42?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The administrator would reply.",
+    "url": "https://note.com/lovely_swift8589/n/nc68cec1cbf42?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Regulars would talk to each other.",
+    "url": "https://note.com/lovely_swift8589/n/nc68cec1cbf42?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Occasionally, a stranger would appear.",
+    "url": "https://note.com/lovely_swift8589/n/nc68cec1cbf42?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[ByPet] Friend Code Bulletin Board | Post friend requests and your own friend code｜無料で稼ぎ隊",
+    "url": "https://note.com/calm_orchid4712/n/n38c83fbdf3c9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[ByPet] Friend Code Bulletin Board | Post friend requests and your own friend code",
+    "url": "https://note.com/calm_orchid4712/n/n38c83fbdf3c9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "When playing ByPet, you might find yourself wanting to:",
+    "url": "https://note.com/calm_orchid4712/n/n38c83fbdf3c9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"Increase your number of friends\"",
+    "url": "https://note.com/calm_orchid4712/n/n38c83fbdf3c9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"Find people to enter your friend code\"",
+    "url": "https://note.com/calm_orchid4712/n/n38c83fbdf3c9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"Post your own friend code somewhere\"",
+    "url": "https://note.com/calm_orchid4712/n/n38c83fbdf3c9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "That is why I have set up this page to be used as a",
+    "url": "https://note.com/calm_orchid4712/n/n38c83fbdf3c9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "ByPet Friend Code Bulletin Board",
+    "url": "https://note.com/calm_orchid4712/n/n38c83fbdf3c9?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "The Bulletin (@NorwichBulletin) / Posts / X The Bulletin (@NorwichBulletin) - Posts - The Bulletin is a daily newspaper covering Eastern Connecticut | X (formerly Twitter)",
+    "url": "https://x.com/norwichbulletin",
+    "pass": 3
+   },
+   {
+    "quote": "The Bulletin (@_TheBulletin) / X Your guide to Brussels and Belgium in English since 1962. The platform for Belgium's international community.",
+    "url": "https://x.com/_TheBulletin",
+    "pass": 3
+   },
+   {
+    "quote": "The OC Bulletin (@oc_bulletin) / X Oakland Heights Farm and BLM Bull and Rodeo Company are back with their popular summer rodeo series, and The OC Bulletin was there to catch the action. Get the scoop in our latest video:",
+    "url": "https://x.com/oc_bulletin",
+    "pass": 3
+   },
+   {
+    "quote": "The Bulletin (@thebulletin) / X Oregon and Washington baseball will face each other on Oct. 3 at Bend's Vince Genna Stadium in the inaugural Northwest Elite Collegiate Classic. Tickets go on sale today.",
+    "url": "https://x.com/thebulletin",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Bulletin - LinkedIn Bulletin | 3,070 followers on LinkedIn. Your Premium Wholesale Marketplace | Bulletin is a premium community where retailers go to discover, meet, and shop the best brands on the planet. We ...",
+    "url": "https://www.linkedin.com/company/bulletin",
+    "pass": 3
+   },
+   {
+    "quote": "Bulletin - LinkedIn Bulletin | 407 followers on LinkedIn. Keep your customers and community informed without another monthly email subscription.",
+    "url": "https://www.linkedin.com/company/ourbulletin",
+    "pass": 3
+   },
+   {
+    "quote": "Bulletin - LinkedIn Bulletin | 535 followers on LinkedIn. Bulletin enables advertisers to reach audiences while they are streaming content on any device | Bulletin enables advertisers to reach audiences while they are streaming content on any device. Our exclusive partnerships with world-class publishers ensure that your brand will be situated next to only the most premium content.",
+    "url": "https://ca.linkedin.com/company/bulletincanada",
+    "pass": 3
+   },
+   {
+    "quote": "Bulletin Virtual Radio Newsroom - LinkedIn Bulletin Virtual Radio Newsroom Broadcast Media Production and Distribution Cape TOWN, Western Cape 59 followers A subscription-based virtual radio newsroom, run by seasoned journalists with combined experience close to 300 years.",
+    "url": "https://za.linkedin.com/company/bulletin-virtual-radio-newsroom",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Our Lady of Fatima Catholic Church | Moses Lake WA - FacebookFacebook - log in or sign upSullivan County News & Bulletin Board | FacebookThe Bulletin News - FacebookMoses Lake Bulletin Board - FacebookSeattle Bulletin | Seattle WA - Facebook Oct 22, 2026 · Acompáñanos este lunes 19 de octubre a las 6:00 p.m. junto a nuestros invitados especiales Eliazar y Lety Garza quienes compartirán el tema: “L",
+    "url": "https://www.facebook.com/olf.moseslake/",
+    "pass": 3
+   },
+   {
+    "quote": "Sullivan County News & Bulletin Board | Facebook 5 hours ago · * This page and group are not affiliated with the Sullivan County government; it is privately owned and operated. * Welcome to Sullivan County News & Bulletin Board, your go-to source for updates and community information in Sullivan County, Pennsylvania. Whether you're a resident or own property here, our group is dedicated to keeping",
+    "url": "https://business.facebook.com/groups/scnbbgroup/",
+    "pass": 3
+   },
+   {
+    "quote": "The Bulletin News - FacebookMoses Lake Bulletin Board - FacebookSeattle Bulletin | Seattle WA - Facebook 2 days ago · The Bulletin News. 2,841 followers · 1 talking about this. Inform, Educate, and Entertain. Partner newspaper to The Long Beach Times (Long Beach, CA) ️ Aug 18, 2024 · Everything Moses Lake, WA. 0 reactions Tanner Buchmann 2y · Public 0 reactions Tanner Buchmann 2y · Public 0 reacti",
+    "url": "https://www.facebook.com/thebulletinnews/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://bulletin.co",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/contract/basic/8378/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://academic.oup.com/bcsj",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jstage.jst.go.jp/browse/materia1962",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://academic.oup.com/bcsj/issue",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/buckley-williams/case-study/bulletin-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/tonjoo/case-study/bulletin-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b2bulletin.com/manufacturing-bulletin/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/bulletin-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/bulletin",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/bulletin",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/501903-46",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/hitoshi1988/n/n9955b71f5257",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hacklog_stealth/n/n16f5bd539592?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/lovely_swift8589/n/nc68cec1cbf42?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/calm_orchid4712/n/n38c83fbdf3c9?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/norwichbulletin",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/_TheBulletin",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/oc_bulletin",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/thebulletin",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/bulletin",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/ourbulletin",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/bulletincanada",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://za.linkedin.com/company/bulletin-virtual-radio-newsroom",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/olf.moseslake/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://business.facebook.com/groups/scnbbgroup/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/thebulletinnews/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Bulletin 日本 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Bulletin 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://partner-prop.com/lab/partner-business/agency/256/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Bulletin Japan",
+   "results": [
+    "https://grokipedia.com/page/Bulletin_of_the_Chemical_Society_of_Japan",
+    "https://academic.oup.com/bcsj",
+    "https://www.jstage.jst.go.jp/browse/materia1962",
+    "https://academic.oup.com/bcsj/issue",
+    "https://www.jstage.jst.go.jp/browse/cpb",
+    "http://japanmetalbulletin.com/",
+    "https://www.data.jma.go.jp/eqev/data/bulletin/index_e.html",
+    "https://www.gsj.jp/en/publications/bulletin/index.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Bulletin manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/buckley-williams/case-study/bulletin-customer-case-study",
+    "https://www.casestudies.com/company/tonjoo/case-study/bulletin-customer-case-study",
+    "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "https://b2bulletin.com/manufacturing-bulletin/",
+    "https://www.conveyormg.com/resources/blogs/creating-manufacturing-case-studies",
+    "https://gbgmarketing.com/labs/how-to-write-a-manufacturing-case-study-the-4-section-formula-for-turning-a-customer-win-into-a-sales-tool/",
+    "https://public.dhe.ibm.com/software/data/sw-library/cognos/pdfs/casestudies/ss_bundle_customer_success_in_manufacturing.pdf",
+    "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/how-retail-startup-bulletin-is-building-an-entire-brand-through-brick-and-mortar.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Bulletin white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.mycompanyworks.com/reseller",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.spectrum.com/",
+    "https://www.seoreseller.com/",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Bulletin founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/bulletin-revenue",
+    "https://compworth.com/company/bulletin",
+    "https://startupintros.com/orgs/bulletin",
+    "https://pitchbook.com/profiles/company/501903-46",
+    "https://tracxn.com/d/companies/bulletin/__QfdhBND2p4wBou3SEEuvGEWnrKW5DntlXISO1Il_mxU",
+    "https://www.cbinsights.com/company/bulletin",
+    "https://tracxn.com/d/companies/bulletin/__HMrfdnvdavjdTdfAH1spc_sCWnNz8dIIfIQNZQ3hNGY"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Bulletin",
+   "results": [
+    "https://note.com/hitoshi1988/n/n9955b71f5257",
+    "https://note.com/hacklog_stealth/n/n16f5bd539592?hl=en",
+    "https://note.com/lovely_swift8589/n/nc68cec1cbf42?hl=en",
+    "https://note.com/calm_orchid4712/n/n38c83fbdf3c9?hl=en",
+    "https://note.com/hoboie_tsuruga/n/neef91b671ae4?hl=en",
+    "https://note.com/__yuuaself__/n/na897b8bef74d",
+    "https://note.com/20081/n/n0777f292433c?hl=en",
+    "https://note.com/asca_corporation"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:x.com Bulletin",
+   "results": [
+    "https://x.com/norwichbulletin",
+    "https://x.com/_TheBulletin",
+    "https://x.com/oc_bulletin",
+    "https://x.com/thebulletin",
+    "https://x.com/BULLETlN",
+    "https://x.com/DestinyBulletn/status/2111124148907065714",
+    "https://x.com/Turbinetraveler/status/2062983413682831597"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Bulletin",
+   "results": [
+    "https://www.linkedin.com/company/bulletin",
+    "https://www.linkedin.com/company/ourbulletin",
+    "https://ca.linkedin.com/company/bulletincanada",
+    "https://za.linkedin.com/company/bulletin-virtual-radio-newsroom",
+    "https://www.linkedin.com/company/bulletin-net",
+    "https://www.linkedin.com/company/bulletin-newspapers/",
+    "https://www.linkedin.com/jobs/view/barista-to-go-specialist-at-ted-s-bulletin-4382151423"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Bulletin",
+   "results": [
+    "https://www.facebook.com/olf.moseslake/",
+    "https://secure.facebook.com/",
+    "https://business.facebook.com/groups/scnbbgroup/",
+    "https://www.facebook.com/thebulletinnews/",
+    "https://www.facebook.com/seattlebulletin/",
+    "https://www.facebook.com/p/St-Martins-Episcopal-Church-100066765144243/",
+    "https://www.facebook.com/groups/476873761798330/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Bulletin note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/saiyou_dekirukun/all",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.zaikai.jp/articles/detail/2552",
+    "https://note.com/kaiun_shacho/n/n2d7a9751fd38?hl=en",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Bulletin X 投稿",
+   "results": [
+    "https://note.com/mgane/n/n1c0d7384c8a0",
+    "https://fitly.pics/blog/x-twitter-post-tips",
+    "https://help.x.com/ja/using-x/edit-post",
+    "https://help.x.com/ja/using-x/how-to-post",
+    "https://note.com/kagura6284/n/n96b2006704cf",
+    "https://x.com/inaba_shin_/article/2071883073160147029",
+    "https://x-force.thinkforce.co.jp/archives/461"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索12回）"
+ }
+}

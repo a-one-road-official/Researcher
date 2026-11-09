@@ -1,0 +1,1633 @@
+{
+ "name": "Clever",
+ "aliases": [],
+ "context": "旧営業リスト｜Education / Childcare｜AUMS不適合",
+ "researched_at": "2026-11-09T17:56:17.521778+00:00",
+ "official_url": "https://www.clever.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "San Francisco , CA , US",
+    "url": "https://enrichlayer.com/company/clever-inc",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2012",
+    "url": "https://enrichlayer.com/company/clever-inc",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Explore case studies, reports and best practices",
+    "url": "https://www.clever.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Free online training for educators",
+    "url": "https://www.clever.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The latest product and feature updates and platform improvements",
+    "url": "https://www.clever.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our layered security approach provides identity and access management for the entire school community.",
+    "url": "https://www.clever.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Children’s Privacy Notice",
+    "url": "https://www.clever.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Benefit from tailored support, including training, shared go-to-market strategy, and market development funds.",
+    "url": "https://www.clever.com/global-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Become a certified Clever reseller. Sell and implement Clever products to provide a holistic edtech experience to your customers.",
+    "url": "https://www.clever.com/global-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Our product offerings",
+    "url": "https://www.clever.com/global-partners",
+    "pass": 1
+   },
+   {
+    "quote": "We continually invest in people, practices, and infrastructure to safeguard staff and student data.",
+    "url": "https://www.clever.com/global-partners",
+    "pass": 1
+   },
+   {
+    "quote": "We make it easy to keep student data safe with our comprehensive security program, including compliance with GDPR, privacy acts in Australia and Canada, COPPA, FERPA, and more.",
+    "url": "https://www.clever.com/global-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Chosen by leading providers",
+    "url": "https://www.clever.com/global-partners",
+    "pass": 1
+   },
+   {
+    "quote": "A single, unified API connects you to every type of school system, from large enterprise districts to small schools on spreadsheets. That includes schools not on Clever, via the AnySchool capability. Save months of dev work and brittle one-off integrations, so your team can focus on product growth and predictable on-time launches.",
+    "url": "https://www.clever.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Your product is only as good as the data that powers it. Clever Complete provides a clean, unified identity layer and augments it with rich, expanded data from any school. This is the data foundation your product needs to unlock the next generation of features, including AI and advanced personalization.",
+    "url": "https://www.clever.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Integrate once with Clever and reach every school system, from the largest districts like New York City and Los Angeles to the smallest schools on spreadsheets, including schools not on Clever via the AnySchool capability. Founded in 2012 and with 111,000 schools across 60+ countries, you can be confident in a proven solution that saves you months of development time.",
+    "url": "https://www.clever.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Higher adoption, stronger retention",
+    "url": "https://www.clever.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Our connections provide a single sign-on (SSO) experience that reduces friction for students and teachers, leading to higher usage and stronger renewal rates.",
+    "url": "https://www.clever.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "About one in four children in America have used Prodigy. This growth so far wasn’t because we sold to districts. It was because teachers loved the fact it was both zero cost and that it motivated their students. Now, rostering with Clever has enabled us to deepen our relationships and trust at a district level.",
+    "url": "https://www.clever.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Product, Prodigy",
+    "url": "https://www.clever.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Knowing what we know now, we should use Clever from Day One! I was previously one of the biggest holdouts, but using Clever has been so worth the money! We’re really happy – the onboarding for new and migrating customers feels really smooth and simple and we’re unblocking many previously blocked customers.",
+    "url": "https://www.clever.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Clever Complete will be a game-changer for how we work with schools. The solution gives us the flexibility to support different school systems and provide a consistent user experience, without the engineering and support headaches.",
+    "url": "https://www.clever.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Integrate for free with Clever Library to provide a safe, simple way for teachers to search for free or freemium versions of apps and instantly create rostered accounts for a single class.",
+    "url": "https://www.clever.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We continually invest in people, practices, and infrastructure to safeguard staff and student data.",
+    "url": "https://www.clever.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Districts maintain 100% control over their data, and our data minimization features send only the data needed, no data masking needed. Clever is compliant with FERPA and a COPPA, and state privacy laws. And Clever is a signatory of the Student Data Privacy Pledge.",
+    "url": "https://www.clever.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Built for growing teams . Prove your impact, then scale.",
+    "url": "https://www.clever.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "It is often difficult to scale in districts without a successful pilot, and pilots shouldn’t require a full-price commitment. With the Clever Starter Pack, you pay a one-time integration fee, build your integration, and your first five schools are included. Meet district data requirements, prove your impact, and move into standard partnership pricing when you’re ready to grow.",
+    "url": "https://www.clever.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Clever Secure Sync Rostering is the single solution you need to effortlessly manage and share user and school data. By providing a clean, normalized, and secure data flow, we power a faster rollout of educational technology, leading to superior user experiences, higher engagement, and minimal support overhead.",
+    "url": "https://www.clever.com/rostering-for-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Simplified onboarding with AnySchool",
+    "url": "https://www.clever.com/rostering-for-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Our white-labeled, self-serve onboarding flow allows your team to easily guide schools through the integration process. This branded experience simplifies rostering, so you can connect with schools efficiently, regardless of their technical expertise. Our platform works with ClassLink, manual CSV rostering, and many other systems.",
+    "url": "https://www.clever.com/rostering-for-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Our platform gives you access to only the data you need through granular sharing permissions, recommended sharing rules, and custom filters. This limits your liability and keeps district data secure. We also help you stay in control of your sync by automatically monitoring for risky changes, preventing major data errors before they happen.",
+    "url": "https://www.clever.com/rostering-for-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Classes are created from rostering data and maintained on a consistent basis. Any updates made in the Student Information System (SIS) prompt corresponding updates in your connected applications.",
+    "url": "https://www.clever.com/rostering-for-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Go beyond basic rostering. Our single API gives you a complete picture of your user base, providing key attendance and demographic data to enrich your application. You can also unlock a wider range of users by ingesting data for all staff types, including instructional and non-instructional employees, helping you serve every role within a school.",
+    "url": "https://www.clever.com/rostering-for-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Knowing what we know now, we should use Clever from Day One! I was previously one of the biggest holdouts, but using Clever has been so worth the money! We’re really happy – the onboarding for new and migrating customers feels really smooth and simple and we’re unblocking many previously blocked customers.",
+    "url": "https://www.clever.com/rostering-for-partners",
+    "pass": 1
+   },
+   {
+    "quote": "About one in four children in America have used Prodigy. This growth so far wasn’t because we sold to districts. It was because teachers loved the fact it was both zero cost and that it motivated their students. Now, rostering with Clever has enabled us to deepen our relationships and trust at a district level.",
+    "url": "https://www.clever.com/rostering-for-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Product, Prodigy",
+    "url": "https://www.clever.com/rostering-for-partners",
+    "pass": 1
+   },
+   {
+    "quote": "“Handling sensitive student information requires robust security measures. Effective identity and access management are crucial to protect the entire school community’s data, and align with our responsibility to ensure a safe digital environment for our users. We’re thrilled to have Clever as a partner in that endeavor.”",
+    "url": "https://www.clever.com/rostering-for-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Clever Badges replace commonly-used and less secure practices in lower grades, like sharing or posting passwords. Students can login to their devices with the flash of a badge.",
+    "url": "https://www.clever.com/sso-partners",
+    "pass": 1
+   },
+   {
+    "quote": "With Clever, we’re better able to quickly expand connections to EVERFI from just one school to the entire district and ensure our program is equitable to access.",
+    "url": "https://www.clever.com/sso-partners",
+    "pass": 1
+   },
+   {
+    "quote": "AI proves time-saving potential for teachers, but are they ready?",
+    "url": "https://www.clever.com/sso-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Educators and administrators agree that artificial intelligence will revolutionize K-12 education, however teachers’ are skeptical of the tool despite its time-saving potential. How can districts prepare educators for the integration of AI in classrooms?",
+    "url": "https://www.clever.com/sso-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Read Clever’s detailed Secure by Design product roadmap – a critical aspect of fulfilling the Secure by Design Pledge. In August 2023, I had the privilege of joining the Back to School Safely Cybersecurity event hosted by First Lady Dr. Jill Biden at the White House. In partnership with the U.S. Cybersecurity and Infrastructure Security […]",
+    "url": "https://www.clever.com/sso-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Clever is the translator and accelerator that helps sophisticated companies apply their proven go-to-market expertise to the unique demands of K-12. We handle the education-specific complexities so you can focus on your core product innovation.",
+    "url": "https://www.clever.com/partners-entering-education",
+    "pass": 1
+   },
+   {
+    "quote": "With a platform trusted by 95 of the top 100 U.S. districts, we make your product “district-ready” from day one, providing the instant credibility that overcomes security and procurement barriers.",
+    "url": "https://www.clever.com/partners-entering-education",
+    "pass": 1
+   },
+   {
+    "quote": "Protect your roadmap and resources",
+    "url": "https://www.clever.com/partners-entering-education",
+    "pass": 1
+   },
+   {
+    "quote": "Our proven ability to drive adoption—like helping Canva reach 1.7 million students in its first year—gives you the ROI and success stories needed to secure internal budget and build a compelling long-term business case.",
+    "url": "https://www.clever.com/partners-entering-education",
+    "pass": 1
+   },
+   {
+    "quote": "Over decades of experience supporting complex systems for major school districts, Clever provides a reliable platform that guarantees stability and consistent performance, even during peak usage times.",
+    "url": "https://www.clever.com/partners-entering-education",
+    "pass": 1
+   },
+   {
+    "quote": "A single API connects you to every type of school system, from large districts on PowerSchool to small schools using spreadsheets, without custom work for each SIS or LMS. Save months of dev time and avoid brittle one-off integrations.",
+    "url": "https://www.clever.com/partners-entering-education",
+    "pass": 1
+   },
+   {
+    "quote": "By managing all your data exchanges through Clever, our security certifications (FERPA, COPPA, GDPR, SOC2) give districts confidence in your app, removing a key barrier in procurement and scaling.",
+    "url": "https://www.clever.com/partners-entering-education",
+    "pass": 1
+   },
+   {
+    "quote": "Knowing what we know now, we should use Clever from Day One! I was previously one of the biggest holdouts, but using Clever has been so worth the money! We’re really happy – the onboarding for new and migrating customers feels really smooth and simple and we’re unblocking many previously blocked customers.",
+    "url": "https://www.clever.com/partners-entering-education",
+    "pass": 1
+   },
+   {
+    "quote": "A district-level integration that makes your application compatible with any SIS through Secure Sync rostering. Accounts are automatically provisioned and available through single sign-on.",
+    "url": "https://www.clever.com/partners-entering-education",
+    "pass": 1
+   },
+   {
+    "quote": "You’ve built a successful company. You know how to scale into new markets. The K-12 market looks like a natural extension, and many companies hit a wall because the playbook is not the same. The biggest challenge isn’t a lack of opportunity; it’s the gap between how enterprises do business and the very specific demands of K-12.",
+    "url": "https://www.clever.com/partners-entering-education",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to build a future-proof integration?",
+    "url": "https://www.clever.com/partners-entering-education",
+    "pass": 1
+   },
+   {
+    "quote": "Prodigy Scales District-Wide Adoption Without Sacrificing Its Zero-Cost Teacher-First Model",
+    "url": "https://www.clever.com/partners-entering-education",
+    "pass": 1
+   },
+   {
+    "quote": "Prodigy scaled to over 8,300 districts in one year—preserving its free, teacher-first model—by partnering with Clever to deepen district trust, streamline rostering, and drive both top-down adoption and daily engagement from first-time educators.",
+    "url": "https://www.clever.com/partners-entering-education",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how Big Ideas Learning launched their new LMS integration 4x faster and with improved support outcomes using Clever LMS Connect.",
+    "url": "https://www.clever.com/partners-entering-education",
+    "pass": 1
+   },
+   {
+    "quote": "Explore case studies, reports and best practices",
+    "url": "https://www.clever.com/developer-signup",
+    "pass": 1
+   },
+   {
+    "quote": "Free online training for educators",
+    "url": "https://www.clever.com/developer-signup",
+    "pass": 1
+   },
+   {
+    "quote": "The latest product and feature updates and platform improvements",
+    "url": "https://www.clever.com/developer-signup",
+    "pass": 1
+   },
+   {
+    "quote": "Boost retention with repeat logins and increased user engagement.",
+    "url": "https://www.clever.com/developer-signup",
+    "pass": 1
+   },
+   {
+    "quote": "Eliminate integration complexity, and improve data integrity.",
+    "url": "https://www.clever.com/developer-signup",
+    "pass": 1
+   },
+   {
+    "quote": "Get in touch with a Clever representative",
+    "url": "https://www.clever.com/developer-signup",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by schools and IT leaders",
+    "url": "https://www.clever.com/global-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by districts to safeguard data",
+    "url": "https://www.clever.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "The fast and powerful API to easily and securely get up and running with any school’s data, used by 111,000 schools globally.",
+    "url": "https://www.clever.com/rostering-for-partners",
+    "pass": 1
+   },
+   {
+    "quote": "With a platform trusted by 95 of the top 100 U.S. districts, we make your product “district-ready” from day one, providing the instant credibility that overcomes security and procurement barriers.",
+    "url": "https://www.clever.com/partners-entering-education",
+    "pass": 1
+   },
+   {
+    "quote": "Read the full case study →",
+    "url": "https://www.clever.com/next-clever-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Identity and security solutions trusted by thousands of schools",
+    "url": "https://www.clever.com/solutions/identity-and-security",
+    "pass": 1
+   },
+   {
+    "quote": "Clever, the global identity platform used by most schools in the U.S., announced Clever Complete, a single, robust integration that enables edtech applications to integrate with Clever to roster, power single-sign-on, and scale LMS support for any school.",
+    "url": "https://www.clever.com/about/news",
+    "pass": 1
+   },
+   {
+    "quote": "If wear is observed, it is safer to stop using it and follow the manufacturer's instructions.",
+    "url": "https://note.com/hakuchoroca/n/n0b117d0af55a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Following the acquisition, Frank Antonysamy, who previously served as Chief Growth Officer at Hitachi Digital and led the launch of Hitachi's industrial AI business, has been appointed as CEO of Clever Devices.",
+    "url": "https://note.com/sankituushin/n/n324c2b4bc7fe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "New CEO Frank Antonysamy expressed his enthusiasm, stating, 'As part of Hitachi Rail, we will leverage investment in HMAX and over 115 years of OT expertise to accelerate innovation and expand our global footprint. Through advanced digital mobility solutions, we will further enhance the value we provide to transport operators and passengers.'",
+    "url": "https://note.com/sankituushin/n/n324c2b4bc7fe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Hitachi Rail has been actively investing in the North American market. The company has been steadily strengthening its infrastructure, such as the opening of a $110 million digital factory in Hagerstown, Maryland, and the establishment of a new headquarters in Canada (an investment of approximately 3.4 billion yen). This acquisition will further accelerate these efforts.",
+    "url": "https://note.com/sankituushin/n/n324c2b4bc7fe?hl=en",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Become a certified Clever reseller. Sell and implement Clever products to provide a holistic edtech experience to your customers.",
+    "url": "https://www.clever.com/global-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Our white-labeled, self-serve onboarding flow allows your team to easily guide schools through the integration process. This branded experience simplifies rostering, so you can connect with schools efficiently, regardless of their technical expertise. Our platform works with ClassLink, manual CSV rostering, and many other systems.",
+    "url": "https://www.clever.com/rostering-for-partners",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Go beyond basic rostering. Our single API gives you a complete picture of your user base, providing key attendance and demographic data to enrich your application. You can also unlock a wider range of users by ingesting data for all staff types, including instructional and non-instructional employees, helping you serve every role within a school.",
+    "url": "https://www.clever.com/rostering-for-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Clever SSO helps 29.3 million students and teachers log into their learning apps easily and securely, alongside Secure Sync rostering. Included as part of Clever Complete.",
+    "url": "https://www.clever.com/sso-partners",
+    "pass": 1
+   },
+   {
+    "quote": "With a platform trusted by 95 of the top 100 U.S. districts, we make your product “district-ready” from day one, providing the instant credibility that overcomes security and procurement barriers.",
+    "url": "https://www.clever.com/partners-entering-education",
+    "pass": 1
+   },
+   {
+    "quote": "By managing all your data exchanges through Clever, our security certifications (FERPA, COPPA, GDPR, SOC2) give districts confidence in your app, removing a key barrier in procurement and scaling.",
+    "url": "https://www.clever.com/partners-entering-education",
+    "pass": 1
+   },
+   {
+    "quote": "Retaining customers and growing revenue",
+    "url": "https://www.clever.com/developer-signup",
+    "pass": 1
+   },
+   {
+    "quote": "Register now to see where we’re investing to help you serve more school organizations, get customers live faster, and become part of the technology they rely on every day, without adding integration complexity as you grow.",
+    "url": "https://www.clever.com/next-clever-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Offering a competitive salary is a key way to align our employees’ interests with our company’s long-term growth and success.",
+    "url": "https://www.clever.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Generous paid parental leave to all employees who are growing a family",
+    "url": "https://www.clever.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We prioritize work-life balance and encourage all our employees to take at least three weeks off per year. In addition, we offer our Cleverites the opportunity to take extended time off at the five-year and ten-year mark as a way to recharge and pursue their passions outside of work",
+    "url": "https://www.clever.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Your LMS integration shouldn’t be a barrier to adoption. Without a deep connection, teachers are forced into the tedious, manual work of creating assignments in two places and transferring grades by hand. Clever LMS Connect automates this entire workflow—from assignment creation to grade sync—making your application an indispensable part of the classroom and driving daily usage.",
+    "url": "https://www.clever.com/clever-lms-connect",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Revenue Officer",
+    "url": "https://www.clever.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "A proud Texan by way of New Mexico, Dominic holds a BS in English Education and an MS in Education from Baylor University. He’s an empty nester, married with three sons, and enjoys golf and gardening.",
+    "url": "https://www.clever.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Sharing Clever’s demographic data is part of our commitment to transparency.",
+    "url": "https://www.clever.com/about/inclusion",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度(2026年3月期)売上収益は10兆5,867億円、2026年3月末時点で連結子会社は606社、全世界で約29万人の従業員を擁しています",
+    "url": "https://www.hitachi.com/ja-jp/press/articles/2026/07/0702a/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは、TPR株式会社の子会社であるTPRトータルサービス株式会社（旧テーピ興産株式会社）が100％出資し、分社独立した保険代理店です",
+    "url": "https://tpr-clever.co.jp/clever/",
+    "pass": 3
+   },
+   {
+    "quote": "Clever Inc.: Employees, Funding & HQ | Enrich Layer",
+    "url": "https://enrichlayer.com/company/clever-inc",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Clever Inc. have?",
+    "url": "https://enrichlayer.com/company/clever-inc",
+    "pass": 3
+   },
+   {
+    "quote": "As of 2026-10-29, Clever Inc. has 278 employees, based on the Enrich Layer count of person profiles that list Clever Inc. as their current employer. Its listed company size band is 201 to 500.",
+    "url": "https://enrichlayer.com/company/clever-inc",
+    "pass": 3
+   },
+   {
+    "quote": ". Clever recently acquired this domain name and has moved its website from the previously-used",
+    "url": "https://finance.yahoo.com/news/clever-raises-10-3-million-113000627.html",
+    "pass": 3
+   },
+   {
+    "quote": "San Francisco-based Clever was founded in 2012 by three Harvard classmates --Tyler Bosmeny, Dan Carroll and Rafael Garcia -- who shared a passion for education and technology. The company was originally started as part of Y Combinator and has quickly become established as a leader in education technology.",
+    "url": "https://finance.yahoo.com/news/clever-raises-10-3-million-113000627.html",
+    "pass": 3
+   },
+   {
+    "quote": "Hitachi Rail Completes Acquisition of US-based Clever Devices, Strengthening Multimodal Transport Solutions｜kikai-news.net 産機通信",
+    "url": "https://note.com/sankituushin/n/n324c2b4bc7fe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Hitachi Rail Completes Acquisition of US-based Clever Devices, Strengthening Multimodal Transport Solutions",
+    "url": "https://note.com/sankituushin/n/n324c2b4bc7fe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "announced on July 2 that it has completed the acquisition of",
+    "url": "https://note.com/sankituushin/n/n324c2b4bc7fe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", a leading US-based provider of Intelligent Transportation Systems (ITS) for public transit. Through this acquisition, Hitachi Rail will accelerate its business expansion into the multimodal mobility sector beyond rail, significantly strengthening its competitiveness, particularly in the North American market.",
+    "url": "https://note.com/sankituushin/n/n324c2b4bc7fe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Following the acquisition, Frank Antonysamy, who previously served as Chief Growth Officer at Hitachi Digital and led the launch of Hitachi's industrial AI business, has been appointed as CEO of Clever Devices.",
+    "url": "https://note.com/sankituushin/n/n324c2b4bc7fe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "New CEO Frank Antonysamy expressed his enthusiasm, stating, 'As part of Hitachi Rail, we will leverage investment in HMAX and over 115 years of OT expertise to accelerate innovation and expand our global footprint. Through advanced digital mobility solutions, we will further enhance the value we provide to transport operators and passengers.'",
+    "url": "https://note.com/sankituushin/n/n324c2b4bc7fe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Hitachi Rail has been actively investing in the North American market. The company has been steadily strengthening its infrastructure, such as the opening of a $110 million digital factory in Hagerstown, Maryland, and the establishment of a new headquarters in Canada (an investment of approximately 3.4 billion yen). This acquisition will further accelerate these efforts.",
+    "url": "https://note.com/sankituushin/n/n324c2b4bc7fe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This transaction was carried out in collaboration with Hitachi's Strategic SIB business unit, and synergies are also expected with the digital technologies of group companies such as Hitachi Digital, GlobalLogic, and Hitachi Digital Services.",
+    "url": "https://note.com/sankituushin/n/n324c2b4bc7fe?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Please use your organization email address.",
+    "url": "https://www.clever.com/developer-signup",
+    "pass": 1
+   },
+   {
+    "quote": "Every school is different. If these options don’t meet your needs, contact us and we’ll help you out.",
+    "url": "https://www.clever.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "contact@clever-access.com",
+    "url": "https://www.clever-access.com/ja/japan/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Hello Clever Japan株式会社のプレスリリース｜PR TIMES",
+    "url": "https://prtimes.jp/main/html/searchrlp/company_id/176989",
+    "pass": 3
+   },
+   {
+    "quote": "Hello Clever Japan株式会社",
+    "url": "https://prtimes.jp/main/html/searchrlp/company_id/176989",
+    "pass": 3
+   },
+   {
+    "quote": "Hello Cleverは、世界展開を目指す日本企業および日本進出を目指す海外企業向けに、グローバル決済ソリューションを提供しています",
+    "url": "https://prtimes.jp/main/html/searchrlp/company_id/176989",
+    "pass": 3
+   },
+   {
+    "quote": "Hello Clever Japan株式会社、日本語公式サイトをローンチ",
+    "url": "https://prtimes.jp/main/html/searchrlp/company_id/176989",
+    "pass": 3
+   },
+   {
+    "quote": "Hello CleverとGMOあおぞらネット銀行、日本と海外を結ぶ取引を支える決済基盤の強化に向けて更新系API連携を開始",
+    "url": "https://prtimes.jp/main/html/searchrlp/company_id/176989",
+    "pass": 3
+   },
+   {
+    "quote": "東京都渋谷区神南1-5-6",
+    "url": "https://prtimes.jp/main/html/searchrlp/company_id/176989",
+    "pass": 3
+   },
+   {
+    "quote": "Services in Japan – Clever-Access",
+    "url": "https://www.clever-access.com/ja/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "日本のサービス - 日本におけるマーケットアクセスの進化とともに",
+    "url": "https://www.clever-access.com/ja/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "日本におけるマーケットアクセスの進化とともに",
+    "url": "https://www.clever-access.com/ja/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Clever-Access Japanは、医薬品、医療機器をはじめとする革新的な医療技術のマーケットアクセスと社会実装を支援する日本のコンサルティングパートナーです",
+    "url": "https://www.clever-access.com/ja/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは、グローバルで豊富な実績を持つClever-Accessの科学的エビデンスと高度なデータ分析技術を活かし、医療技術の市場参入（マーケットアクセス）から保険適用・価値創出まで包括的に支え、日本の医療・ライフサイエンス分野のより良い未来へ貢献します",
+    "url": "https://www.clever-access.com/ja/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場におけるマーケットアクセス戦略の重要性",
+    "url": "https://www.clever-access.com/ja/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Clever-Access Japanは、制度設計の実態と政策評価の観点をふまえ、実効性の高いアクセス戦略を日本市場向けにカスタマイズして提供しています",
+    "url": "https://www.clever-access.com/ja/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "現在の日本におけるHTAは、欧州諸国とは異なり、薬価調整の参考情報として位置付けられています",
+    "url": "https://www.clever-access.com/ja/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは、HTAを戦略的価値訴求の場として活用する視点を持ち、日本固有の制度環境にフィットした支援を行っています",
+    "url": "https://www.clever-access.com/ja/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルカウンターパートとの連携・ローカライズ支援（グローバル戦略との整合性をとりながら、日本の制度・慣習に合わせた実行計画設計、ワークショップ実施等）",
+    "url": "https://www.clever-access.com/ja/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Clever-Access Japanは、医療の研究開発から社会実装に至るまでの全ステージにおいて、信頼されるパートナーとしてお客様に寄り添います",
+    "url": "https://www.clever-access.com/ja/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Clever-Access Japanは、単なるアドバイザーではなく、医療現場・政策・社会課題に深く向き合い、共に進める「伴走者」でありたいと考えています",
+    "url": "https://www.clever-access.com/ja/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "」の理念のもと、日本の医療の持続可能な発展と、革新的医療技術が一人ひとりの生活をよりよい方向へ変えることを目指し、全力で支援を続けてまいります",
+    "url": "https://www.clever-access.com/ja/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語、英語のどちらでも対応可能です",
+    "url": "https://www.clever-access.com/ja/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "米国、豪州および日本の IT・Eコマース業界でスタートアップからフォーブス・グローバル2000に掲載される会社経営まで、25年以上の豊富な経験を有しており2012年に日本法人代表取締役就任",
+    "url": "https://grow.cleverbridge.com/ja-jp/about",
+    "pass": 3
+   },
+   {
+    "quote": "会社名：クレバーブリッジ株式会社 （英名：cleverbridge K.K.)",
+    "url": "https://grow.cleverbridge.com/ja-jp/about",
+    "pass": 3
+   },
+   {
+    "quote": "東京都中央区日本橋本町3-3-6",
+    "url": "https://grow.cleverbridge.com/ja-jp/about",
+    "pass": 3
+   },
+   {
+    "quote": "(日本時間7月2日3:30)に発表しました",
+    "url": "https://www.hitachi.com/ja-jp/press/articles/2026/07/0702a/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社日立製作所(以下、日立)の鉄道システム事業を担う日立レールは、公共交通機関向け高度道路交通システム(ITS)の分野で世界的に事業を展開する米国企業Clever Devices(クレバー・デバイシィズ)の買収を完了しました",
+    "url": "https://www.hitachi.com/ja-jp/press/articles/2026/07/0702a/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.hitachids.com/vn-japanese/",
+    "url": "https://www.hitachi.com/ja-jp/press/articles/2026/07/0702a/",
+    "pass": 3
+   },
+   {
+    "quote": "会社沿革 | 岡谷の保険はクレバー保険企画株式会社",
+    "url": "https://tpr-clever.co.jp/clever/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは、TPR株式会社の子会社であるTPRトータルサービス株式会社（旧テーピ興産株式会社）が100％出資し、分社独立した保険代理店です",
+    "url": "https://tpr-clever.co.jp/clever/",
+    "pass": 3
+   },
+   {
+    "quote": "2014年10月に、株式会社ファルテックサービスの保険部門と統合し首都圏支店を開設、営業を開始しました",
+    "url": "https://tpr-clever.co.jp/clever/",
+    "pass": 3
+   },
+   {
+    "quote": "(株)損保ジャパン代理店となる（安田火災と日産火災合併）",
+    "url": "https://tpr-clever.co.jp/clever/",
+    "pass": 3
+   },
+   {
+    "quote": "NKSJひまわり生命代理店（損保ジャパンひまわり生命と日本興亜生命が合併）",
+    "url": "https://tpr-clever.co.jp/clever/",
+    "pass": 3
+   },
+   {
+    "quote": "損保ジャパン日本興亜代理店（損保ジャパンと日本興亜損保合併）",
+    "url": "https://tpr-clever.co.jp/clever/",
+    "pass": 3
+   },
+   {
+    "quote": "損保ジャパン日本興亜ひまわり生命代理店（NKSJひまわり生命から社名変更）",
+    "url": "https://tpr-clever.co.jp/clever/",
+    "pass": 3
+   },
+   {
+    "quote": "ソニー生命 代理店登録 2018年 ジブラルタ生命 代理店登録 2018年 エヌエヌ生命 代理店登録 2018年",
+    "url": "https://tpr-clever.co.jp/clever/",
+    "pass": 3
+   },
+   {
+    "quote": "旧プライム保険 合併 日本生命 代理店登録 2019年",
+    "url": "https://tpr-clever.co.jp/clever/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年・2020年 損保ジャパンのPAトップグレード代理店を認定",
+    "url": "https://tpr-clever.co.jp/clever/",
+    "pass": 3
+   },
+   {
+    "quote": "日本創倫株式会社による 代理店の外部監査機関の評価が「A」ランク取",
+    "url": "https://tpr-clever.co.jp/clever/",
+    "pass": 3
+   },
+   {
+    "quote": "損保ジャパンのＰＡトップグレード代理店継続認定",
+    "url": "https://tpr-clever.co.jp/clever/",
+    "pass": 3
+   },
+   {
+    "quote": "もしものときにも、顔が見える保険代理店だからこそ、お客様に身近で迅速な問題解決にあたります",
+    "url": "https://tpr-clever.co.jp/clever/",
+    "pass": 3
+   },
+   {
+    "quote": "これからの保険会社、保険代理店選びは、“安心づくりのパートナー”探しだと私たちは考えます",
+    "url": "https://tpr-clever.co.jp/clever/",
+    "pass": 3
+   },
+   {
+    "quote": "Hello Clever | Sydney to Tokyo: Hello Clever Expands to Japan",
+    "url": "https://helloclever.co/blogs/sydney-to-tokyo-hello-clever-expands-to-japan",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Hello Clever Japan株式会社のプレスリリース - PR TIMES — Hello Clever Japan株式会社のプレスリリース - PR TIMES PR TIMES https://prtimes.jp > main > html > searchrlp > company_id",
+    "url": "https://prtimes.jp/main/html/searchrlp/company_id/176989",
+    "pass": 3
+   },
+   {
+    "quote": "Services in Japan - Clever-Access — Services in Japan - Clever-Access Clever-Access https://www.clever-access.com > japan",
+    "url": "https://www.clever-access.com/ja/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "クレバー ブリッジについて - Cleverbridge — クレバー ブリッジについて - Cleverbridge Cleverbridge https://grow.cleverbridge.com > ja-jp > about",
+    "url": "https://grow.cleverbridge.com/ja-jp/about",
+    "pass": 3
+   },
+   {
+    "quote": "日立レールが米国 Clever Devicesの買収を完了し - Hitachi Global — 日立レールが米国 Clever Devicesの買収を完了し - Hitachi Global Hitachi Global https://www.hitachi.com > 日本 Home > プレスリリース",
+    "url": "https://www.hitachi.com/ja-jp/press/articles/2026/07/0702a/",
+    "pass": 3
+   },
+   {
+    "quote": "TCS Clever Energy™ - IoT | 日本 タタ・コンサルタンシー ... — TCS Clever Energy™ - IoT | 日本 タタ・コンサルタンシー ... Tata Consultancy Services https://www.tcs.com > services > iot > tcs-clever-energy",
+    "url": "https://www.tcs.com/jp-ja/what-we-do/services/iot/tcs-clever-energy",
+    "pass": 3
+   },
+   {
+    "quote": "保険 代理店 | 株式会社 クレバー ジャパン — 保険 代理店 | 株式会社 クレバー ジャパン 株式会社クレバージャパン https://clever-japan.com > 事業案内",
+    "url": "https://clever-japan.com/business/insurance/",
+    "pass": 3
+   },
+   {
+    "quote": "会社沿革 - 岡谷の保険はクレバー保険企画株式会社 — 会社沿革 - 岡谷の保険はクレバー保険企画株式会社 クレバー保険企画株式会社 https://tpr-clever.co.jp > clever",
+    "url": "https://tpr-clever.co.jp/clever/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ｜株式会社 クレバー — お問い合わせ｜株式会社 クレバー 株式会社紙本鉄工 http://www.kamimoto.co.jp > clever > contact > agency",
+    "url": "http://www.kamimoto.co.jp/clever/contact/agency.html",
+    "pass": 3
+   },
+   {
+    "quote": "札幌市東区の保険 代理店 ｜株式会社 クレバー インシュアランス ... — 札幌市東区の保険 代理店 ｜株式会社 クレバー インシュアランス ... 株式会社クレバーインシュアランスサービス https://clever-inss.co.jp",
+    "url": "https://clever-inss.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 クレバージャパン — 株式会社 クレバージャパン 株式会社クレバージャパン https://clever-japan.com",
+    "url": "https://clever-japan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Sydney to Tokyo: Hello Clever Expands to Japan — Sydney to Tokyo: Hello Clever Expands to Japan Hello Clever https://helloclever.co > blogs > sydne...",
+    "url": "https://helloclever.co/blogs/sydney-to-tokyo-hello-clever-expands-to-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Hello Clever Japan 株式会社 - Compalyze — Hello Clever Japan 株式会社 - Compalyze Compalyze https://compalyze.co.jp > 企業検索 > 決済・送金",
+    "url": "https://compalyze.co.jp/company/2010401191773",
+    "pass": 3
+   },
+   {
+    "quote": "CLEVER .jp (@ clever .co.jp) · Sendai, Miyagi - Instagram — CLEVER .jp (@ clever .co.jp) · Sendai, Miyagi - Instagram Instagram https://www.instagram.com > clever.co.jp",
+    "url": "https://www.instagram.com/clever.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Hello Clever Japan 株式会社のプレスリリース - PR TIMES — Hello Clever Japan 株式会社のプレスリリース - PR TIMES PR TIMES https://prtimes.jp > main > html > searchrlp > company_id",
+    "url": "https://prtimes.jp/main/html/searchrlp/company_id/176989",
+    "pass": 3
+   },
+   {
+    "quote": "Clever's Competitors, Revenue , Number of Employees ... - Owler — Clever's Competitors, Revenue , Number of Employees ... - Owler Owler https://www.owler.com > clever",
+    "url": "https://www.owler.com/company/clever",
+    "pass": 3
+   },
+   {
+    "quote": "Clever Inc.: Employees , Funding & HQ | Enrich Layer — Clever Inc.: Employees , Funding & HQ | Enrich Layer Enrich Layer https://enrichlayer.com > clever-inc",
+    "url": "https://enrichlayer.com/company/clever-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Clever - 2026 Company Profile, Team, Funding & Competitors — Clever - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/clever/__tWcONuCUbSxnZAyWOZcVPWgn4jfoW0v-ZwEoTmf8ng8",
+    "pass": 3
+   },
+   {
+    "quote": "Clever Raises $10.3 Million in Series A Investment Led by ... — Clever Raises $10.3 Million in Series A Investment Led by ... Yahoo Finance https://finance.yahoo.com > news > cl...",
+    "url": "https://finance.yahoo.com/news/clever-raises-10-3-million-113000627.html",
+    "pass": 3
+   },
+   {
+    "quote": "Clever : Revenue , Competitors, Alternatives - Growjo — Clever : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > company > Clever",
+    "url": "https://growjo.com/company/Clever",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Clever Slicer Reviews | The Definitive Vegetable Slicer ... - note Clever Slicer Reviews | The Definitive Vegetable Slicer ... - note note https://note.com > ... > 商品レビュー",
+    "url": "https://note.com/hakuchoroca/n/n0b117d0af55a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【場面英語】“ clever ”＝ずる賢いと思ってたのに違ったときの話 【場面英語】“ clever ”＝ずる賢いと思ってたのに違ったときの話 note https://note.com > 語学 > 英語学習",
+    "url": "https://note.com/meko_neika/n/n57456bde9b01",
+    "pass": 3
+   },
+   {
+    "quote": "Hitachi Rail Completes Acquisition of US-based Clever ... - note Hitachi Rail Completes Acquisition of US-based Clever ... - note note https://note.com > ビジネス > 戦略・組織論",
+    "url": "https://note.com/sankituushin/n/n324c2b4bc7fe?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Clever Slicer Reviews | The Definitive Vegetable Slicer? Disadvantages and How to Choose｜roca",
+    "url": "https://note.com/hakuchoroca/n/n0b117d0af55a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Clever Slicer Reviews | The Definitive Vegetable Slicer? Disadvantages and How to Choose",
+    "url": "https://note.com/hakuchoroca/n/n0b117d0af55a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "*This article contains promotions.",
+    "url": "https://note.com/hakuchoroca/n/n0b117d0af55a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Are you spending too much time every day using a knife and cutting board to shred cabbage or slice radishes? For those interested in time-saving appliances and gadgets who are looking into reviews for the \"Clever Slicer,\" I have organized both the pros and the points of concern.",
+    "url": "https://note.com/hakuchoroca/n/n0b117d0af55a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What is the Clever Slicer?",
+    "url": "https://note.com/hakuchoroca/n/n0b117d0af55a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Clever Slicer is a rotary slicer that allows you to shred or slice vegetables just by turning a handle.",
+    "url": "https://note.com/hakuchoroca/n/n0b117d0af55a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Because it is designed so that your hands do not come into direct contact with the blades, it is easy to use even for those who are uncomfortable with cooking with a knife.",
+    "url": "https://note.com/hakuchoroca/n/n0b117d0af55a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It is a product that became a hot topic at places like Costco and frequently ranks in the kitchenware rankings on Rakuten Ichiba.",
+    "url": "https://note.com/hakuchoroca/n/n0b117d0af55a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【場面英語】“clever”＝ずる賢いと思ってたのに違ったときの話｜Neika | TOEIC550→815",
+    "url": "https://note.com/meko_neika/n/n57456bde9b01",
+    "pass": 3
+   },
+   {
+    "quote": "【場面英語】“clever”＝ずる賢いと思ってたのに違ったときの話",
+    "url": "https://note.com/meko_neika/n/n57456bde9b01",
+    "pass": 3
+   },
+   {
+    "quote": "高校生の頃に出会った、ある英単語についてのお話。",
+    "url": "https://note.com/meko_neika/n/n57456bde9b01",
+    "pass": 3
+   },
+   {
+    "quote": "“clever” ってあまりいい意味じゃないと習った記憶があります。高校から配布された単語帳に出てきた単語のひとつで、『ずる賢い』という訳として載っていました。",
+    "url": "https://note.com/meko_neika/n/n57456bde9b01",
+    "pass": 3
+   },
+   {
+    "quote": "なるほど、cleverってネガティヴなイメージなのか。そんなニュアンスがあるなら、あまり使わない方がいいと、当時は自己理解した記憶があります。",
+    "url": "https://note.com/meko_neika/n/n57456bde9b01",
+    "pass": 3
+   },
+   {
+    "quote": "最終日にちょっとしたサプライズを用意しました。",
+    "url": "https://note.com/meko_neika/n/n57456bde9b01",
+    "pass": 3
+   },
+   {
+    "quote": "すごく大したことではないんですが、感謝を伝えたくてやったものです。",
+    "url": "https://note.com/meko_neika/n/n57456bde9b01",
+    "pass": 3
+   },
+   {
+    "quote": "すごく嬉しそうに、ポジティブなトーンで言ってくれてハグまでしてくれました。",
+    "url": "https://note.com/meko_neika/n/n57456bde9b01",
+    "pass": 3
+   },
+   {
+    "quote": "Hitachi Rail Completes Acquisition of US-based Clever Devices, Strengthening Multimodal Transport Solutions｜kikai-news.net 産機通信",
+    "url": "https://note.com/sankituushin/n/n324c2b4bc7fe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Hitachi Rail Completes Acquisition of US-based Clever Devices, Strengthening Multimodal Transport Solutions",
+    "url": "https://note.com/sankituushin/n/n324c2b4bc7fe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・Expanding presence in the North American market and accelerating digital transformation",
+    "url": "https://note.com/sankituushin/n/n324c2b4bc7fe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "announced on July 2 that it has completed the acquisition of",
+    "url": "https://note.com/sankituushin/n/n324c2b4bc7fe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", a leading US-based provider of Intelligent Transportation Systems (ITS) for public transit. Through this acquisition, Hitachi Rail will accelerate its business expansion into the multimodal mobility sector beyond rail, significantly strengthening its competitiveness, particularly in the North American market.",
+    "url": "https://note.com/sankituushin/n/n324c2b4bc7fe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Clever Devices is known for providing advanced ITS solutions that enable fleet management, improved passenger services, and operational efficiency. With operations in the US, Europe, and South America, the company has a strong track record, including implementing its solutions for 8 out of the 10 largest public transit agencies in North America. It employs approximately 600 people and expects reve",
+    "url": "https://note.com/sankituushin/n/n324c2b4bc7fe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Through this acquisition, Hitachi Rail will integrate Clever Devices' onboard and fleet management data solutions with its own digital asset management platform, 'HMAX Mobility' (specifically HMAX for Rail). By further advancing the construction of digital twins for railways using physical AI, and combining sensor technology, AI, and edge computing for asset optimization, the company will achieve ",
+    "url": "https://note.com/sankituushin/n/n324c2b4bc7fe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "■ Frank Antonysamy Appointed as New CEO",
+    "url": "https://note.com/sankituushin/n/n324c2b4bc7fe?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Clever - X Clever - X X https://x.com > clever",
+    "url": "https://x.com/clever",
+    "pass": 3
+   },
+   {
+    "quote": "Clever (@moshpit) / X Clever (@moshpit) / X X https://x.com > moshpit",
+    "url": "https://x.com/moshpit",
+    "pass": 3
+   },
+   {
+    "quote": "Clever Lab (@guido_clever) / X Clever Lab (@guido_clever) / X X https://x.com > guido_clever",
+    "url": "https://x.com/guido_clever",
+    "pass": 3
+   },
+   {
+    "quote": "Clever (@cleveranimation) / X Clever (@cleveranimation) / X X https://x.com > cleveranimation",
+    "url": "https://x.com/cleveranimation",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Clever Inc. - LinkedIn Clever Inc. - LinkedIn LinkedIn https://www.linkedin.com > clever-inc-",
+    "url": "https://www.linkedin.com/company/clever-inc-",
+    "pass": 3
+   },
+   {
+    "quote": "Trish Sparks - CEO @ Clever | Ex-LinkedIn, Former Teacher Trish Sparks - CEO @ Clever | Ex-LinkedIn, Former Teacher LinkedIn https://www.linkedin.com > trishsparks",
+    "url": "https://www.linkedin.com/in/trishsparks",
+    "pass": 3
+   },
+   {
+    "quote": "Anthony Clever - Multi Media, LLC - LinkedIn Anthony Clever - Multi Media, LLC - LinkedIn LinkedIn https://www.linkedin.com > anthonyc...",
+    "url": "https://www.linkedin.com/in/anthonyclever",
+    "pass": 3
+   },
+   {
+    "quote": "Clever -Access - LinkedIn Clever -Access - LinkedIn LinkedIn https://fr.linkedin.com > clever-access",
+    "url": "https://fr.linkedin.com/company/clever-access",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Barnstable Public Schools - Facebook Barnstable Public Schools - Facebook Facebook https://www.facebook.com > posts > what-is-clever-clever...",
+    "url": "https://www.facebook.com/BarnstablePublicSchools/posts/what-is-clever-clever-is-an-app-that-makes-it-easy-for-students-to-access-many-o/910163919424536/",
+    "pass": 3
+   },
+   {
+    "quote": "Clever (@whoisclever) - Facebook Clever (@whoisclever) - Facebook Facebook https://www.facebook.com > Pages > Public figure > Artist",
+    "url": "https://www.facebook.com/whoisclever/",
+    "pass": 3
+   },
+   {
+    "quote": "How does a student access Clever to do homework? - Facebook How does a student access Clever to do homework? - Facebook Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/105049159831988/posts/2647258558944356/",
+    "pass": 3
+   },
+   {
+    "quote": "Parents: Are you Clever ? Today is the day that you will be ... Parents: Are you Clever ? Today is the day that you will be ... Facebook https://www.facebook.com > MagnoliaISD > posts > pare...",
+    "url": "https://www.facebook.com/MagnoliaISD/posts/parents-are-you-clever-today-is-the-day-that-you-will-be-receiving-your-invitati/5741252312575085/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.clever.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clever.com/global-partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clever.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clever.com/rostering-for-partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clever.com/sso-partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clever.com/partners-entering-education",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clever.com/developer-signup",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clever.com/next-clever-partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clever.com/about/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clever.com/clever-lms-connect",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clever.com/solutions/data-and-access",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clever.com/solutions/identity-and-security",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clever.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clever.com/solutions/interoperability",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clever.com/teachers-solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clever.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clever.com/about/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clever.com/about/inclusion",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clever.com/blog/category/partners",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.clever.com/wp-content/uploads/2025/10/30SEPT2025-CLEVER-ROSTERING-FOR-PARTNERS-GRAPHIC-01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.clever.com/wp-content/uploads/2025/10/30SEPT2025-CLEVER-ROSTERING-FOR-PARTNERS-GRAPHIC-03.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.clever.com/wp-content/uploads/2025/10/30SEPT2025-CLEVER-ROSTERING-FOR-PARTNERS-GRAPHIC-04.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.clever.com/wp-content/uploads/2025/10/30SEPT2025-CLEVER-ROSTERING-FOR-PARTNERS-GRAPHIC-05.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://prtimes.jp/main/html/searchrlp/company_id/176989",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.clever-access.com/ja/japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://grow.cleverbridge.com/ja-jp/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hitachi.com/ja-jp/press/articles/2026/07/0702a/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://grow.cleverbridge.com/ja-jp/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://clever-japan.com/business/insurance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tpr-clever.co.jp/clever/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.kamimoto.co.jp/clever/contact/agency.html",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://clever-japan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://helloclever.co/blogs/sydney-to-tokyo-hello-clever-expands-to-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compalyze.co.jp/company/2010401191773",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/clever.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S2212827124013945",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://aws.amazon.com/jp/manufacturing/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lenovo.com/us/en/case-studies-customer-success-stories/?srsltid=AYCX9vJXmw5ZoR_8VVXN0oeV1xsmsyOI-6IGdksH5eG2jqnSwXl6iuCd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://business.bt.com/insights/case-studies/manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.siptrunk.com/blog/white-label-saas-reseller/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.owler.com/company/clever",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://enrichlayer.com/company/clever-inc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/clever/__tWcONuCUbSxnZAyWOZcVPWgn4jfoW0v-ZwEoTmf8ng8",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://finance.yahoo.com/news/clever-raises-10-3-million-113000627.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hakuchoroca/n/n0b117d0af55a?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/meko_neika/n/n57456bde9b01",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sankituushin/n/n324c2b4bc7fe?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/clever",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/moshpit",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/guido_clever",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/cleveranimation",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/clever-inc-",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/trishsparks",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/anthonyclever",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fr.linkedin.com/company/clever-access",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/BarnstablePublicSchools/posts/what-is-clever-clever-is-an-app-that-makes-it-easy-for-students-to-access-many-o/910163919424536/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/whoisclever/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/105049159831988/posts/2647258558944356/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MagnoliaISD/posts/parents-are-you-clever-today-is-the-day-that-you-will-be-receiving-your-invitati/5741252312575085/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Clever 日本 導入",
+   "results": [
+    "https://prtimes.jp/main/html/searchrlp/company_id/176989",
+    "https://www.clever-access.com/ja/japan/",
+    "https://grow.cleverbridge.com/ja-jp/about",
+    "https://www.hitachi.com/ja-jp/press/articles/2026/07/0702a/",
+    "https://www.tcs.com/jp-ja/what-we-do/services/iot/tcs-clever-energy",
+    "https://helloclever.co/jp",
+    "https://clever-japan.com/",
+    "https://news.infoseek.co.jp/article/prtimes_000000003_000176989/",
+    "https://prtimes.jp/main/html/rd/p/000000003.000176989.html",
+    "https://prtimes.jp/main/html/rd/p/000000002.000176989.html"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Clever 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://grow.cleverbridge.com/ja-jp/about",
+    "https://clever-japan.com/business/insurance/",
+    "https://tpr-clever.co.jp/clever/",
+    "http://www.kamimoto.co.jp/clever/contact/agency.html",
+    "https://clever-inss.co.jp/",
+    "https://map-agent.sompo-japan.jp/detail/E4458000/",
+    "https://www.clever-protein.com/about/",
+    "https://www.viet-jo.com/news/economy/150905111431.html",
+    "https://www.c-friend.co.jp/company/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Clever Japan",
+   "results": [
+    "https://clever-japan.com/",
+    "https://helloclever.co/blogs/sydney-to-tokyo-hello-clever-expands-to-japan",
+    "https://compalyze.co.jp/company/2010401191773",
+    "https://www.instagram.com/clever.co.jp/",
+    "https://prtimes.jp/main/html/searchrlp/company_id/176989",
+    "https://www.hireplanner.com/jobs/companies/18313",
+    "https://www.clever-jp.com/english/company/index.html",
+    "https://www.youtube.com/watch?v=JDPi1YkMLW4",
+    "https://offers.helloclever.co/connecting-japan-jp",
+    "https://cleverjapan.com/about.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Clever manufacturing customer case study",
+   "results": [
+    "https://www.sciencedirect.com/science/article/pii/S2212827124013945",
+    "https://aws.amazon.com/manufacturing/case-studies/",
+    "https://www.lenovo.com/us/en/case-studies-customer-success-stories/?srsltid=AYCX9vJXmw5ZoR_8VVXN0oeV1xsmsyOI-6IGdksH5eG2jqnSwXl6iuCd",
+    "https://business.bt.com/insights/case-studies/manufacturing/",
+    "https://www.linkedin.com/top-content/innovation/innovation-in-manufacturing-processes/case-studies-on-successful-manufacturing-innovations/",
+    "https://www.manufacturingsuccess.org/case-studies",
+    "https://www.mdpi.com/2227-9717/5/3/39",
+    "https://www.netsuite.com/portal/resource/articles/erp/smart-manufacturing.shtml",
+    "https://www.flexwareinnovation.com/case-studies/",
+    "https://www.casestudies.com/company/clever"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Clever white label OR reseller OR partner program",
+   "results": [
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://www.siptrunk.com/blog/white-label-saas-reseller/",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/",
+    "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "https://getzendo.io/blog/best-white-label-software-to-resell/",
+    "https://content.platfio.com/blog/software-reseller-programs-worth-joining-2026",
+    "https://www.nuwebgroup.com/blog/entrepreneur/everything-you-need-to-know-about-white-label-reseller-programs",
+    "https://partner.vw.com/",
+    "https://www.mycompanyworks.com/reseller"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Clever founded funding employees revenue",
+   "results": [
+    "https://www.owler.com/company/clever",
+    "https://enrichlayer.com/company/clever-inc",
+    "https://tracxn.com/d/companies/clever/__tWcONuCUbSxnZAyWOZcVPWgn4jfoW0v-ZwEoTmf8ng8",
+    "https://finance.yahoo.com/news/clever-raises-10-3-million-113000627.html",
+    "https://growjo.com/company/Clever",
+    "https://www.linkedin.com/posts/carolinequynhtran_hello-clever-has-hit-a15m-arr-this-activity-7365865576482689025-S-Vc",
+    "https://www.crunchbase.com/organization/clever",
+    "https://helloclever.co/blogs/this-year-wasnt-just-growth-we-made-the-leap",
+    "https://pitchbook.com/profiles/company/54700-03",
+    "https://compworth.com/company/clever"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com Clever",
+   "results": [
+    "https://note.com/hakuchoroca/n/n0b117d0af55a?hl=en",
+    "https://note.com/rsensui/n/nc0c8d02aa283?hl=en",
+    "https://note.com/meko_neika/n/n57456bde9b01",
+    "https://note.com/sankituushin/n/n324c2b4bc7fe?hl=en",
+    "https://note.com/lovesydbarrett/n/nbd82c04c390d?hl=en",
+    "https://note.com/chiyomaru_style/n/n140a980de204",
+    "https://note.com/hiranohira/n/na412017b9e9a?hl=en",
+    "https://note.com/fabien_tabard/n/neae89c5fceee",
+    "https://note.com/light_fox3746/n/ndeda49e583e2?hl=en",
+    "https://note.com/chikaonishida/n/n39dd85666d87?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com Clever",
+   "results": [
+    "https://x.com/clever",
+    "https://x.com/moshpit",
+    "https://x.com/guido_clever",
+    "https://x.com/cleveranimation",
+    "https://marketing.x.com/en_gb/success-stories/auto-trader-builds-sentiment-and-drives-traffic-with-a-clever-world-cup-campaign",
+    "https://x.com/hashtag/CLEVER",
+    "https://x.com/CollegeGameDay/status/2116527107819835582/photo/1",
+    "https://devcommunity.x.com/t/brainstorming-clever-ways-to-recruit-survey-participants-with-specific-inclusion-criteria/154135",
+    "https://x.com/itsamaddworld/status/2101254765892325401",
+    "https://x.com/cleverpdf"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com Clever",
+   "results": [
+    "https://www.linkedin.com/company/clever-inc-",
+    "https://www.linkedin.com/in/trishsparks",
+    "https://www.linkedin.com/in/anthonyclever",
+    "https://fr.linkedin.com/company/clever-access",
+    "https://www.linkedin.com/in/phillip-j-mikula",
+    "https://www.linkedin.com/in/jreffell",
+    "https://www.linkedin.com/company/cleverbuilds",
+    "https://www.linkedin.com/in/clever-streich-7840a11a4",
+    "https://www.linkedin.com/company/acleveragency"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com Clever",
+   "results": [
+    "https://www.facebook.com/BarnstablePublicSchools/posts/what-is-clever-clever-is-an-app-that-makes-it-easy-for-students-to-access-many-o/910163919424536/",
+    "https://www.facebook.com/whoisclever/",
+    "https://www.facebook.com/groups/105049159831988/posts/2647258558944356/",
+    "https://www.facebook.com/MagnoliaISD/posts/parents-are-you-clever-today-is-the-day-that-you-will-be-receiving-your-invitati/5741252312575085/",
+    "https://www.facebook.com/groups/aesvalleycubs/posts/2581671132023860/",
+    "https://www.facebook.com/clever/",
+    "https://www.facebook.com/groups/789178482944828/posts/1267829471746391/",
+    "https://www.facebook.com/groups/693834944691264/posts/694791514595607/",
+    "https://www.facebook.com/groups/PS17JC/posts/5325084604256340/",
+    "https://www.facebook.com/groups/971295206625898/posts/2538079433280793/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Clever note 社長",
+   "results": [
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.instagram.com/reel/DDG9WidNcll/",
+    "https://corp.magnote.com/business_activities/",
+    "https://diamond.jp/articles/-/388572",
+    "https://x.com/sadaaki",
+    "https://clever-ltd.co.jp/kenichi-nakajima.html",
+    "https://allsmart.co.jp/news/news-10592/",
+    "https://www.clever.com/blog/2022/04/trish-sparks-appointed-clever-ceo",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://clevernote.net/en/about/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Clever X 投稿",
+   "results": [
+    "https://cleverx.com/customers",
+    "https://www.youtube.com/watch?v=_cPTIhal0oc",
+    "https://cleverx.com/opportunities",
+    "https://dev.clever.com/",
+    "https://x.com/cleverbot",
+    "https://www.clever.com/app-gallery/explr",
+    "https://www.clever.com/newsletter",
+    "https://kuroco.app/ja/docs/tutorials/setting-up-twitter-integration/",
+    "https://cleverx.com/",
+    "https://x.com/t_clever_/with_replies"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式19頁／PDF・画像4件／外部39頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式19頁／PDF・画像4件／外部39頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式19頁／PDF・画像4件／外部39頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式19頁／PDF・画像4件／外部39頁・検索12回）"
+ }
+}

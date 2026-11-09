@@ -1,4 +1,4 @@
-# 製造業の採用コストと採用状況 — 企業規模・職種・業種・地域のセグメント別（事実のみ・40品目）
+# 製造業の採用コストと採用状況 — 企業規模・職種・業種・地域のセグメント別（事実のみ・42品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -3165,3 +3165,85 @@
   - 「一般職業紹介状況(令和7年3月分及び令和6年度分)について」（https://media.crowd-agent.com/2025/12/03/joboffer_ratio/）
   - 「令和6年度の一般職業紹介状況を振り返ると、有効求人倍率は平均1.25倍となり、前年度の1.29倍を0.04ポイント下回りました」（https://media.crowd-agent.com/2025/12/03/joboffer_ratio/）
   - 「また、令和6年度の有効求人数は前年度に比べて3.0％減少しましたが、有効求職者数は逆に0.2％増加しています」（https://media.crowd-agent.com/2025/12/03/joboffer_ratio/）
+
+## 就労条件総合調査 募集費 企業規模別 製造業（e-Stat の表番号・労働費用のうち募集費・常用労働者1人1か月・4-131）（General Survey on Working Conditions recruitment cost by firm size manufacturing e-Stat table）
+- 文脈：国内・統計
+- 痛み・損（深さの印）：記載なし（読んだ50頁・検索16回）
+- セグメント定義：記載なし（読んだ50頁・検索16回）
+- 採用単価：記載なし（読んだ50頁・検索16回）
+- 年間採用費：記載なし（読んだ50頁・検索16回）
+- 採用経路：記載なし（読んだ50頁・検索16回）
+- 充足・欠員：記載なし（読んだ50頁・検索16回）
+- 調査主体・時期：記載なし（読んだ50頁・検索16回）
+
+## 雇用動向調査 産業×企業規模 入職者数 製造業（e-Stat の表番号・年ごと・4-131）（Survey on Employment Trends hires by industry and firm size manufacturing e-Stat）
+- 文脈：国内・統計
+- 痛み・損（深さの印）：
+  - 「１ 入職と離職の推移 ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥ ６ページ」（https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf）
+  - 「２ 産業別の入職と離職 ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥ 11ページ」（https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf）
+  - 「４ 離職理由別離職率の推移‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥ 17ページ」（https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf）
+  - 「主要産業における入職・離職及び未充足求人の状況並びに入職者・離職者に係る個人別の属性及び入職・」（https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf）
+  - 「離職に関する事情を調査し、雇用労働力の産業、規模、職業及び地域間の移動の実態を明らかにすることを」（https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf）
+  - 「（５）離職者」（https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf）
+  - 「令和７（2025）年中に、上記（３）に属する事業所を離職した常用労働者のうちから、無作為に抽出し」（https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf）
+  - 「での間に、入職者調査及び離職者調査は令和７年７月から８月までの間に実施した」（https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf）
+  - 「年１月までの間に、入職者調査及び離職者調査は令和８年１月から２月までの間に実施した」（https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf）
+  - 「産業、職業、従業上の地位、離職期間、企業規模、前の勤め先を辞めた理由、現在の勤め先を選んだ理」（https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf）
+  - 「（３）離職者調査」（https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf）
+  - 「就業形態、職業、勤続期間及び離職理由」（https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf）
+  - 「（３）離職者調査（離職者票）」（https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf）
+  - 「回収した事業所票から厚生労働省が委託した民間事業者が調査対象離職者数を算出し、調査対象事業所」（https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf）
+  - 「に対して、郵送により離職者票を配布した」（https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf）
+- セグメント定義：
+  - 「に属し、５人以上の常用労働者を雇用する事業所のうちから、都道府県、産業、事業所規模別に層化して」（https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf）
+  - 「一方、非正規雇用の従業員が、前年同期より増加したのは3期ぶりです」（https://edenred.jp/article/hr-recruiting/285/）
+  - 「また「家事・育児・介護等と両立しやすいから（10.7％）」「正規の職員・従業員の仕事がないから（8.5％）」は前年同期と比べて回答数が減少しました」（https://edenred.jp/article/hr-recruiting/285/）
+  - 「「従業員退職型」の倒産動向（2024年）」（https://edenred.jp/article/hr-recruiting/285/）
+  - 「」によると、2024年の人手不足倒産342件のうち、従業員や経営幹部の退職がきっかけとなった、従業員退職型の倒産（賃上げ難倒産）は87件で、2023年と比べて約30％増加しています」（https://edenred.jp/article/hr-recruiting/285/）
+  - 「賃上げできず、正社員を採用できない、今いる従業員が辞めてしまう、という企業が増えてきている状況といえるでしょう」（https://edenred.jp/article/hr-recruiting/285/）
+  - 「帝国データバンク｜「従業員退職型」の倒産動向（2024年）」（https://edenred.jp/article/hr-recruiting/285/）
+  - 「【業種別】正社員の採用を予定している企業の割合」（https://edenred.jp/article/hr-recruiting/285/）
+  - 「両立支援とは、従業員が育児や介護などと仕事を両立しやすくなるように、制度や環境を整えることです」（https://edenred.jp/article/hr-recruiting/285/）
+  - 「従業員が都合に合わせて働きやすいよう、制度や環境を整えることで、採用がスムーズに進みやすくなる可能性があります」（https://edenred.jp/article/hr-recruiting/285/）
+  - 「制度を導入したら、従業員が必要なタイミングで利用できるよう、整備した制度や制度の利用方法の周知も行いましょう」（https://edenred.jp/article/hr-recruiting/285/）
+  - 「福利厚生の充実度アップは、従業員満足度の向上や人材確保、生産性の向上などに役立つといわれています」（https://edenred.jp/article/hr-recruiting/285/）
+  - 「ただし期待する効果が現れるのは、従業員が「ほしい」と考えている福利厚生を充実させた場合です」（https://edenred.jp/article/hr-recruiting/285/）
+  - 「従業員が求めている福利厚生の導入に役立つアンケート調査を紹介します」（https://edenred.jp/article/hr-recruiting/285/）
+  - 「」では、導入・注力してほしい福利厚生について、従業員を対象に調査を実施しました」（https://edenred.jp/article/hr-recruiting/285/）
+- 採用経路：
+  - 「看護師等学校養成所入学状況及び卒業生就業状況調査」（https://www.e-stat.go.jp/stat-search?page=1&kikan=00450&toukei=00450073）
+  - 「平成16年調査から調査の範囲に学校教育、社会教育等を加えており、平成15年調査以前の調査産業計の調査結果は、平成16年の調査以降と直接比較することはできないため、注意を要する」（https://www.mhlw.go.jp/toukei/list/9-23-1b.html）
+- 充足・欠員：
+  - 「主要産業における入職・離職及び未充足求人の状況並びに入職者・離職者に係る個人別の属性及び入職・」（https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf）
+  - 「エ 職業及び就業形態別常用労働者数並びに未充足求人数」（https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf）
+  - 「」で、入職と離職の推移、転職入職者の状況、未充足求人の状況を見ていきましょう」（https://edenred.jp/article/hr-recruiting/285/）
+  - 「2024年6月末時点で、欠員を補充する目的で行っている求人である未充足求人は148万1,500人あり、欠員率は2.9％です」（https://edenred.jp/article/hr-recruiting/285/）
+  - 「コロナ禍のタイミングで欠員率は1度下がりましたが、長いスパンで見ると上昇傾向が続いています」（https://edenred.jp/article/hr-recruiting/285/）
+  - 「欠員率が2.9％を超えている産業は、全体の状況と比べても、より人手不足が深刻な状況と考えられます」（https://edenred.jp/article/hr-recruiting/285/）
+  - 「【2025年最新】人手不足の日本の現状と中小企業の生き残り戦略」（https://edenred.jp/article/hr-recruiting/285/）
+  - 「」によると、欠員率は上昇傾向で人手不足が進行している状況といえるでしょう」（https://edenred.jp/article/hr-recruiting/285/）
+  - 「」によると、2024年の人手不足倒産342件のうち、従業員や経営幹部の退職がきっかけとなった、従業員退職型の倒産（賃上げ難倒産）は87件で、2023年と比べて約30％増加しています」（https://edenred.jp/article/hr-recruiting/285/）
+  - 「賃上げ難倒産とは？広がる人手不足による倒産を避ける方法」（https://edenred.jp/article/hr-recruiting/285/）
+  - 「人手不足は低賃金が原因？中小企業の賃上げの実態と求められる施策を解説」（https://edenred.jp/article/hr-recruiting/285/）
+  - 「厚生労働省の「雇用動向調査結果の概要」、総務省統計局の「労働力調査」、帝国データバンクの「2025年度の雇用動向に関する企業の意識調査」を見ると、前年同期と比べて働く人全体の数は増えているものの、人手不足の状況は進行しているといえます」（https://edenred.jp/article/hr-recruiting/285/）
+  - 「 有効求人倍率（季節調整値）は、年以降上昇し、年 月に倍を記録したが、同」（https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf）
+  - 「が、年第四半期からマイナス幅が縮小し、年第四半期にはマイナスと不足感が」（https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf）
+  - 「図：有効求人倍率（季節調整値）の推移」（https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf）
+- 調査主体・時期：
+  - 「－令和７（2025）年雇用動向調査結果の概況－」（https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf）
+  - 「調査の概要 ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥ １ページ」（https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf）
+  - 「令和７（2025）年雇用動向調査の結果は、厚生労働省のホームページにも掲載されています」（https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf）
+  - 「１ 調査の目的」（https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf）
+  - 「離職に関する事情を調査し、雇用労働力の産業、規模、職業及び地域間の移動の実態を明らかにすることを」（https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf）
+  - 「２ 調査の範囲」（https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf）
+  - 「３ 調査の時期」（https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf）
+  - 「上半期調査 令和７（2025）年１月から６月までの状況について、事業所調査は令和７年６月から７月ま」（https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf）
+  - 「での間に、入職者調査及び離職者調査は令和７年７月から８月までの間に実施した」（https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf）
+  - 「下半期調査 令和７年７月から12月までの状況について、事業所調査は令和７年12月から令和８（2026）」（https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf）
+  - 「年１月までの間に、入職者調査及び離職者調査は令和８年１月から２月までの間に実施した」（https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf）
+  - 「４ 調査事項」（https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf）
+  - 「（１）事業所調査」（https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf）
+  - 「（２）入職者調査」（https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf）
+  - 「（３）離職者調査」（https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf）
+- 採用単価：記載なし（読んだ45頁・検索16回）
+- 年間採用費：記載なし（読んだ45頁・検索16回）

@@ -1,0 +1,1327 @@
+{
+ "name": "Rhoda AI",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜リマイン1",
+ "researched_at": "2026-11-09T18:32:14.324808+00:00",
+ "official_url": "https://www.rhoda.ai/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Mobile DVA: A Single Video-Action Policy for Manipulation and Mobility",
+    "url": "https://www.rhoda.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We extend the Rhoda Direct Video-Action (DVA) model to combine manipulation and mobility in one policy, enabling it to learn new mobile tasks from as little as 15 minutes of additional robot data.",
+    "url": "https://www.rhoda.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "brings the capability to handle real world industrial tasks autonomously. Our Direct Video Action model unlocks generalization that conventional VLA pipelines struggle to achieve. Rhoda works not just in labs but in factories, warehouses, and real production environments.",
+    "url": "https://www.rhoda.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "of web-scale video data",
+    "url": "https://www.rhoda.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We first pre-train our model with hundreds of millions of videos, giving it a strong prior on motion, physics, and dynamics. We then post-train on robot data with actions to teach the model to learn specific tasks. This combination of pre- and post-training creates generalist robot policies that can work and adapt in dynamic environments.",
+    "url": "https://www.rhoda.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We explore a new paradigm for scaling robot intelligence with web-scale video pre-training. We’ve published an in-depth research blog to discuss the novel architectural designs and the benefits of such an approach.",
+    "url": "https://www.rhoda.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "This is an end-to-end returns processing task for a customer in the logistics industry. The task contains ambiguity—visually similar states can correspond to very different points in the pipeline. Rather than relying on the current frame alone the model maintains memory, in the form of a long history of frames.",
+    "url": "https://www.rhoda.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "This task comes from an automotive assembly line. The customer initially believed it could not be automated because of several challenges: each box weighs 10 kg, the lifting strap can easily tear, removing the tab requires precise control, and the transparent plastic bag is difficult for a robot to grasp.",
+    "url": "https://www.rhoda.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Long-context enables in-context learning, allowing us to inject human demonstrations into our robot's context window. This enables our robot to perform tasks single-shot, without retraining. Here we demonstrate single-shot pick and place and single-shot drawing from human demonstrations.",
+    "url": "https://www.rhoda.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Rhoda AIが4億5000万ドルの資金調達とともにステルスモードを解除し、「動画から直接ロボットを訓練する」というアプローチを公開しました（Rhoda AI exits stealth with $450M to train robots from video）",
+    "url": "https://techshift.jp/2026/03/13/post-848/",
+    "pass": 3
+   },
+   {
+    "quote": "動画からのロボット訓練（Video-to-Action）は、長年ロボティクス研究者の夢でしたが、実装には高い壁がありました",
+    "url": "https://techshift.jp/2026/03/13/post-848/",
+    "pass": 3
+   },
+   {
+    "quote": "Musk confirms xAI-Tesla joint ‘Digital Optimus’ project — after saying Tesla didn’t need xAI",
+    "url": "https://techshift.jp/2026/03/13/post-848/",
+    "pass": 3
+   },
+   {
+    "quote": "Rhoda AIがもたらすVideo-to-Actionのブレイクスルーは、その進化の時計の針を数年単位で早める確実な特異点となるでしょう",
+    "url": "https://techshift.jp/2026/03/13/post-848/",
+    "pass": 3
+   },
+   {
+    "quote": "この基盤の上に構築されたのがFutureVisionと呼ばれるフレームワークであり、その中核がDVA（Direct Video Action）アーキテクチャだ",
+    "url": "https://flowtune-media.com/posts/rhoda-ai-robotics-intelligence",
+    "pass": 3
+   },
+   {
+    "quote": "Khosla Ventures、Temasek（シンガポール政府系ファンド）、John Doerr（個人）、Mayfield、Premji Investなど",
+    "url": "https://flowtune-media.com/posts/rhoda-ai-robotics-intelligence",
+    "pass": 3
+   },
+   {
+    "quote": "ベゾスがAmazon退任後に選んだのは「物理世界を理解するAI」だった — Project Prometheusの正体",
+    "url": "https://flowtune-media.com/posts/rhoda-ai-robotics-intelligence",
+    "pass": 3
+   },
+   {
+    "quote": "ジェフ・ベゾスの物理AIスタートアップProject Prometheusが1.5兆円を調達へ",
+    "url": "https://flowtune-media.com/posts/rhoda-ai-robotics-intelligence",
+    "pass": 3
+   },
+   {
+    "quote": "この「映像予測制御（Video-Predictive Control）」という技術アプローチが、製造・物流・医療分野の自動化を根本から変える可能性を持っている",
+    "url": "https://note.com/shiodome_098/n/n34bdf6fba777",
+    "pass": 3
+   },
+   {
+    "quote": "約18か月間、事業を公表せずに開発に専念したのち、2026年3月10日にSeries A $450M（評価額$1.7B）を公表して姿を現し、業界主流の「Vision-Language-Action（VLA: 視覚・言語・行動）モデル」とは異なる独自の「Direct Video Action（DVA: 直接動画予測型行動）モデル」を中核設計として掲げています",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.rhoda.ai/research/direct-video-action",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd",
+    "pass": 3
+   },
+   {
+    "quote": "予測動画による事前確認（Interpretability）",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd",
+    "pass": 3
+   },
+   {
+    "quote": "SiliconAngleはPremji Invest（Wiproグループ創業者Azim Premji氏の資産運用会社）を筆頭と記載する一方、法律顧問Wilson Sonsiniの報道発表はCapricorn Investment Group（パロアルト拠点のインパクト投資会社）を筆頭としており、公式BusinessWireは投資家をアルファベット順で並べ筆頭を明示していません",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd",
+    "pass": 3
+   },
+   {
+    "quote": "業界主流のVLA（Vision-Language-Action: 視覚・言語・行動）に追随せず、動きそのものをこれから起きる動画として予測させるDVA（Direct Video Action: 直接動画予測型行動）という別系統の設計を選び、その技術選択自体を参入障壁にしています",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd",
+    "pass": 3
+   },
+   {
+    "quote": "Premji Invest、Capricorn Investment Group、Khosla Ventures、Temasek、John Doerr氏（個人）といった、深い技術領域とアジア産業界の双方に人脈を持つ投資家の顔ぶれも、その事業化能力を裏付けています",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd",
+    "pass": 3
+   },
+   {
+    "quote": "Rhoda AI Unveils Video-Trained Robots, Nabs $450M … | RoboHorizon",
+    "url": "https://robohorizon.com/en-us/news/2026/03/rhoda-ai-unveils-video-trained-robots-nabs-450m-at-17b-valuation/",
+    "pass": 3
+   },
+   {
+    "quote": "and officially unveils its ambitious plan to give industrial robots a brain trained on internet videos.",
+    "url": "https://robohorizon.com/en-us/news/2026/03/rhoda-ai-unveils-video-trained-robots-nabs-450m-at-17b-valuation/",
+    "pass": 3
+   },
+   {
+    "quote": "This strategy of using vast, unstructured video data to create generalist AI models is a significant departure from traditional robotics and mirrors the foundation model approach being championed by giants like",
+    "url": "https://robohorizon.com/en-us/news/2026/03/rhoda-ai-unveils-video-trained-robots-nabs-450m-at-17b-valuation/",
+    "pass": 3
+   },
+   {
+    "quote": ". While Tesla trains its Optimus humanoids and self-driving AI using real-world video fleet data, Nvidia is building the ecosystem for others with its Isaac platform and GR00T foundation model for humanoid robots. Rhoda is positioning itself as the “brains” provider for the broader industrial market, a hardware-agnostic play that could upgrade existing fleets of robots.",
+    "url": "https://robohorizon.com/en-us/news/2026/03/rhoda-ai-unveils-video-trained-robots-nabs-450m-at-17b-valuation/",
+    "pass": 3
+   },
+   {
+    "quote": "The sheer size of this Series A round for a company focused purely on software signals a massive vote of confidence from investors like Premji Invest,",
+    "url": "https://robohorizon.com/en-us/news/2026/03/rhoda-ai-unveils-video-trained-robots-nabs-450m-at-17b-valuation/",
+    "pass": 3
+   },
+   {
+    "quote": "Nebius × Rhoda AI Customer Story Video | 175 Productions",
+    "url": "https://175productions.com/commercial-video-production-case-study-nebius-rhoda-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Event Video/Live Stream",
+    "url": "https://175productions.com/commercial-video-production-case-study-nebius-rhoda-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Interview/Podcast Video Production",
+    "url": "https://175productions.com/commercial-video-production-case-study-nebius-rhoda-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial and Product Video",
+    "url": "https://175productions.com/commercial-video-production-case-study-nebius-rhoda-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Vertical Social Media",
+    "url": "https://175productions.com/commercial-video-production-case-study-nebius-rhoda-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Social Media Marketing",
+    "url": "https://175productions.com/commercial-video-production-case-study-nebius-rhoda-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Vertical Social Media ➝",
+    "url": "https://175productions.com/commercial-video-production-case-study-nebius-rhoda-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Explore Video Editing Services",
+    "url": "https://175productions.com/commercial-video-production-case-study-nebius-rhoda-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "SOCIAL MEDIA MARKETING",
+    "url": "https://175productions.com/commercial-video-production-case-study-nebius-rhoda-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Grow your brand’s digital footprint with data-driven strategies and thumb-stopping content tailored for maximum engagement.",
+    "url": "https://175productions.com/commercial-video-production-case-study-nebius-rhoda-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Explore Social Media Marketing Services",
+    "url": "https://175productions.com/commercial-video-production-case-study-nebius-rhoda-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "How to Film a Professional Interview Outdoors: Lighting, Audio & Camera Setup",
+    "url": "https://175productions.com/commercial-video-production-case-study-nebius-rhoda-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Traveling With Video Production Equipment: Behind the Logistics of a Location Shoot",
+    "url": "https://175productions.com/commercial-video-production-case-study-nebius-rhoda-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Outdoor Video Production: How to Plan a Professional Location Shoot",
+    "url": "https://175productions.com/commercial-video-production-case-study-nebius-rhoda-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "How Multi-Camera Podcast Production Creates More Engaging Interviews",
+    "url": "https://175productions.com/commercial-video-production-case-study-nebius-rhoda-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "How to Capture Engaging Animal Footage for Fundraising Videos",
+    "url": "https://175productions.com/commercial-video-production-case-study-nebius-rhoda-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Interview and Podcast Video Production",
+    "url": "https://175productions.com/commercial-video-production-case-study-nebius-rhoda-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "How do you turn a highly technical story about robotics, AI, data, and cloud infrastructure into a video that people can actually understand?",
+    "url": "https://175productions.com/commercial-video-production-case-study-nebius-rhoda-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "That was the challenge behind this customer story video for Nebius, featuring Rhoda AI.",
+    "url": "https://175productions.com/commercial-video-production-case-study-nebius-rhoda-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Rhoda AI is working on a difficult problem in robotics: how to give robots enough understanding of the physical world to operate beyond controlled demonstrations. Its story involves data, AI models, large-scale video, compute, storage, and the infrastructure required to train increasingly capable systems.",
+    "url": "https://175productions.com/commercial-video-production-case-study-nebius-rhoda-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "For 175 Productions, the production challenge was different but closely connected: how do you tell that story clearly, while keeping the people and partnership at the center?",
+    "url": "https://175productions.com/commercial-video-production-case-study-nebius-rhoda-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "The result was a customer story video that brings together Rhoda AI’s perspective, Nebius’ infrastructure, and the larger goal of making robotics work in the real world.",
+    "url": "https://175productions.com/commercial-video-production-case-study-nebius-rhoda-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "At the center of the story is a problem Rhoda AI describes simply:",
+    "url": "https://175productions.com/commercial-video-production-case-study-nebius-rhoda-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Robotics is a data problem.",
+    "url": "https://175productions.com/commercial-video-production-case-study-nebius-rhoda-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Robots can perform impressive demonstrations in controlled situations. But moving from a demonstration to reliable operation in the real world is much more difficult.",
+    "url": "https://175productions.com/commercial-video-production-case-study-nebius-rhoda-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Real task from an auto manufacturer assembly line. Our customer thought this task could never be automated because of the amount of variables that could go wrong throughout the process: each box weighs 10 kg; the strap can easily tear during lifting; pulling out the tab requires precise control; the plastic bag is transparent and hard to grasp.",
+    "url": "https://www.youtube.com/watch?v=L4-e_IZOtuQ",
+    "pass": 3
+   },
+   {
+    "quote": "Learn more at rhoda.ai/research/direct-video-action",
+    "url": "https://www.youtube.com/watch?v=L4-e_IZOtuQ",
+    "pass": 3
+   },
+   {
+    "quote": "Rhoda AI: A Foundation Model for Predicting Future Video and Converting It into Robot Actions｜生成AI事例集",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Rhoda AI: A Foundation Model for Predicting Future Video and Converting It into Robot Actions",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The foundation model, \"FutureVision,\" predicts robot movements as \"video of what will happen next\" and translates that into actual actions for control. DVA is responsible for this prediction, designed to learn \"how the world moves\" in advance from hundreds of millions of internet videos.",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Rather than following the \"teaching actions through appearance and language\" (VLA) type adopted by many competitors, Rhoda chose a different design lineage called DVA, which \"predicts the movement itself.\" The essence lies in the fact that this technological choice is positioned as its competitive axis.",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd?hl=en",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Our team focuses on deploying robotic systems into the real world. We build general purpose foundation models that can adapt to the variability of commercial and industrial environments.",
+    "url": "https://www.rhoda.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "brings the capability to handle real world industrial tasks autonomously. Our Direct Video Action model unlocks generalization that conventional VLA pipelines struggle to achieve. Rhoda works not just in labs but in factories, warehouses, and real production environments.",
+    "url": "https://www.rhoda.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "This task comes from an automotive assembly line. The customer initially believed it could not be automated because of several challenges: each box weighs 10 kg, the lifting strap can easily tear, removing the tab requires precise control, and the transparent plastic bag is difficult for a robot to grasp.",
+    "url": "https://www.rhoda.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Contico are 50-pound, heavy-duty boxes that are ubiquitous in manufacturing for transporting materials between facilities. After use, they must be manually cleared of debris of random sizes and type, unlatched, and collapsed for return or storage. This task is difficult to automate due to the large box size and variability in debris.",
+    "url": "https://www.rhoda.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We work with a variety of customers across verticals in automotive, manufacturing, logistics, and ecommerce. If you’re interested in working with us at your facility, reach out here.",
+    "url": "https://www.rhoda.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "and officially unveils its ambitious plan to give industrial robots a brain trained on internet videos.",
+    "url": "https://robohorizon.com/en-us/news/2026/03/rhoda-ai-unveils-video-trained-robots-nabs-450m-at-17b-valuation/",
+    "pass": 3
+   },
+   {
+    "quote": ". While Tesla trains its Optimus humanoids and self-driving AI using real-world video fleet data, Nvidia is building the ecosystem for others with its Isaac platform and GR00T foundation model for humanoid robots. Rhoda is positioning itself as the “brains” provider for the broader industrial market, a hardware-agnostic play that could upgrade existing fleets of robots.",
+    "url": "https://robohorizon.com/en-us/news/2026/03/rhoda-ai-unveils-video-trained-robots-nabs-450m-at-17b-valuation/",
+    "pass": 3
+   },
+   {
+    "quote": "Rhoda AI: Automotive Factory Demo - YouTube",
+    "url": "https://www.youtube.com/watch?v=L4-e_IZOtuQ",
+    "pass": 3
+   },
+   {
+    "quote": "Rhoda AI: Automotive Factory Demo",
+    "url": "https://www.youtube.com/watch?v=L4-e_IZOtuQ",
+    "pass": 3
+   },
+   {
+    "quote": "Inside a Huge PCB Factory",
+    "url": "https://www.youtube.com/watch?v=L4-e_IZOtuQ",
+    "pass": 3
+   },
+   {
+    "quote": "Real task from an auto manufacturer assembly line. Our customer thought this task could never be automated because of the amount of variables that could go wrong throughout the process: each box weighs 10 kg; the strap can easily tear during lifting; pulling out the tab requires precise control; the plastic bag is transparent and hard to grasp.",
+    "url": "https://www.youtube.com/watch?v=L4-e_IZOtuQ",
+    "pass": 3
+   },
+   {
+    "quote": "Changes in conditions such as lighting shifts, slight misalignments in object orientation, or the presence of unfamiliar items on a workbench make it difficult to replicate lab demos in commercial and industrial environments. As a result, the time required from a lab demo video to commercial deployment extends to several years, delaying the return on investment.",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Rhoda first equips its own dual-arm robots with FutureVision and deploys them in industrial sites such as automotive factories and logistics warehouses. A key feature is that it positions its own hardware as a means to collect real-world operational data to improve model accuracy, rather than making the sale of the robots themselves the primary objective.",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "While Rhoda possesses its own hardware, its business focus is not that of a robot manufacturer, but rather a provider of an \"intelligence layer\" that can be installed on a variety of robots. Its versatility, which allows it to be deployed to multiple robot manufacturers without being tied to specific hardware, determines the scalability of the business.",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The policy for the foundation model \"FutureVision\" is that it is \"scheduled to be provided to various robot manufacturing companies and software company partners in the future.\" There is no official information regarding specific pricing or terms of provision.",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "As of June 2026, Rhoda has not disclosed revenue metrics such as ARR, contract values, or the number of annual contracts. In terms of positioning, mass production evaluation at automotive factories was completed in Q1 2026, and it is in the early commercialization stage where full-scale annual enterprise revenue generation is just beginning.",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In the 'Generative AI Case Study Collection,' we explain successful American generative AI startups in detail under the 'Winning Horse' series. We publish articles at a pace of two per week. Every week, one article is free, and the other is a paid article. (This article is a free article.)",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "With the individual membership, you can access articles only, while with the corporate membership, you can use articles, detailed explanation slides, and company lists (spreadsheets). For details on the 'Winning Horse' series of the Generative AI Case Study Collection, including the differences between individual and corporate versions, please see here.",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ". Through autoregressive video rollouts, one can visually inspect the robot's behavior, compare multiple settings, and confirm safe actions in advance. For business stakeholders considering deployment in factories or logistics sites, being able to see 'what the robot is trying to do' as a video is highly significant in terms of 'ensuring reliability.'",
+    "url": "https://note.com/kmoriyama/n/nd2a3fb904eb1?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "現代自とサムスンが28年人型ロボ3万台量産｜日本サプライヤーの戦略",
+    "url": "https://techshift.jp/2026/03/13/post-848/",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイド向けDRAM需要が2030年に17万2000Tbへ急拡大する中、ファナックやソニーグループなど産業用ロボット部材を抱える日本企業にも調達規格の再設計が波及します",
+    "url": "https://techshift.jp/2026/03/13/post-848/",
+    "pass": 3
+   },
+   {
+    "quote": "テスラとスペースXが月産100万枚ファブ始動｜日本の装置産業に及ぶ影響",
+    "url": "https://techshift.jp/2026/03/13/post-848/",
+    "pass": 3
+   },
+   {
+    "quote": "AppleのHALOが自律成功率91%達成｜日本ロボット部品開発への示唆",
+    "url": "https://techshift.jp/2026/03/13/post-848/",
+    "pass": 3
+   },
+   {
+    "quote": "Rhoda AI FutureVision $450M完全解説2026年：映像予測制御ロボット知能プラットフォームが日本製造・物流・医療に与える5インパクトと「ロボットAIコンサル副業」月収15万円設計｜しおどめ",
+    "url": "https://note.com/shiodome_098/n/n34bdf6fba777",
+    "pass": 3
+   },
+   {
+    "quote": "Rhoda AI FutureVision $450M完全解説2026年：映像予測制御ロボット知能プラットフォームが日本製造・物流・医療に与える5インパクトと「ロボットAIコンサル副業」月収15万円設計図",
+    "url": "https://note.com/shiodome_098/n/n34bdf6fba777",
+    "pass": 3
+   },
+   {
+    "quote": "# Rhoda AI FutureVision $450M完全解説2026年：映像予測制御ロボット知能プラットフォームが日本製造・物流・医療に与える5インパクトと「ロボットAIコンサル副業」月収15万円設計図",
+    "url": "https://note.com/shiodome_098/n/n34bdf6fba777",
+    "pass": 3
+   },
+   {
+    "quote": "そして、日本はこの変化の影響を最も強く受ける国の一つだ",
+    "url": "https://note.com/shiodome_098/n/n34bdf6fba777",
+    "pass": 3
+   },
+   {
+    "quote": "Rhodaの導入事例からは、「これまで自動化が現実的でないとされてきた作業を機械に任せられる技術的成熟度」と「長時間の連続稼働に耐える安定性」という2つの強力な示唆が読み取れます",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd",
+    "pass": 3
+   },
+   {
+    "quote": "【海外の反応】「タダで研いだら新品が売れなくなる!!」閉店間近のイギリスの刃物店で、日本の大阪娘が客の包丁を砥石で研ぎ始めると…",
+    "url": "https://www.youtube.com/watch?v=L4-e_IZOtuQ",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "米アジリティ・ロボティクスが上場｜国内工場の18カ月投資回収試算への影響",
+    "url": "https://techshift.jp/2026/03/13/post-848/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年に米国カリフォルニア州パロアルトで設立され、固体電池企業QuantumScape（クアンタムスケープ、NYSE: QS）を株式公開まで率いた連続起業家のJagdeep Singh（ジャグディープ・シン）氏がCEOを務めています",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd",
+    "pass": 3
+   },
+   {
+    "quote": "CEOのSingh氏はQuantumScape、Infinera（NASDAQ: INFN）を株式公開まで導いた連続上場・買収の事業化実績を持ち、その信頼資本が大型調達の背景にあります",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd",
+    "pass": 3
+   },
+   {
+    "quote": "Leitmotif代表であり、QuantumScape（クアンタムスケープ、NYSE: QS）へのVolkswagen戦略投資を主導した経歴を持つJens Wiese（イェンス・ヴィーゼ）氏は「本当に難しいのは一度解くことではなく、現実の生産環境で一貫して信頼できる結果を出し続けることだ」と述べており、Singh CEOの過去の事業経歴と投資家人脈が今回の大型調達の背景にあることが読み取れます",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd",
+    "pass": 3
+   },
+   {
+    "quote": "Rhodaは初期商用化段階にあり、売上・ARR（Annual Recurring Revenue: 年間経常収益）の公式数値は公表されていません（2026年6月時点）",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd",
+    "pass": 3
+   },
+   {
+    "quote": "RhodaはARR、契約金額、年間契約数といった収益指標を2026年6月時点で公表していません",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd",
+    "pass": 3
+   },
+   {
+    "quote": "CEOのJagdeep Singh（ジャグディープ・シン）氏は、QuantumScape（クアンタムスケープ、NYSE: QS）、Infinera（NASDAQ: INFN）を株式公開まで導き、Lightera（Cienaが買収）、Raxium（Googleが約$1Bで買収）を手掛けた連続起業家です",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd",
+    "pass": 3
+   },
+   {
+    "quote": "Singh氏はQuantumScape（クアンタムスケープ、NYSE: QS）、Infinera（NASDAQ: INFN）を株式公開まで導いた連続起業家であり、$450MをSeries A単独で調達した資本の厚みがこれを補強します",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd",
+    "pass": 3
+   },
+   {
+    "quote": "Transform your raw footage into a high-impact, cinematic narrative that captivates your audience from the first frame.",
+    "url": "https://175productions.com/commercial-video-production-case-study-nebius-rhoda-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "That idea became an important part of the customer story.",
+    "url": "https://175productions.com/commercial-video-production-case-study-nebius-rhoda-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "This is an important part of commercial video production for technology companies.",
+    "url": "https://175productions.com/commercial-video-production-case-study-nebius-rhoda-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Why the Interview Was Only Part of the Story",
+    "url": "https://175productions.com/commercial-video-production-case-study-nebius-rhoda-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "For the Rhoda AI story, the narrative moves from a familiar problem—the gap between impressive robotics demonstrations and real-world operation—into the larger data challenge.",
+    "url": "https://175productions.com/commercial-video-production-case-study-nebius-rhoda-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Another part of the partnership involved storage.",
+    "url": "https://175productions.com/commercial-video-production-case-study-nebius-rhoda-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "And thoughtful post-production turns individual interview responses into a coherent narrative.",
+    "url": "https://175productions.com/commercial-video-production-case-study-nebius-rhoda-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "which information matters to the audience and how to turn it into a coherent narrative.",
+    "url": "https://175productions.com/commercial-video-production-case-study-nebius-rhoda-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "The company achieved an exceptional $450M solo funding round immediately after emerging from stealth. CEO Singh has a track record of serial public offerings and acquisitions, having led QuantumScape and Infinera (NASDAQ: INFN) to their public listings, and this trust capital is the backdrop for the large-scale funding.",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The three assumed revenue models are as follows.",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "At the mass production evaluation stage, it is described as \"exceeding the metrics required by the customer,\" suggesting it may be a revenue model based on achieved outcomes (Service Level Agreement, hereinafter \"SLA\").",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "6. Revenue and Revenue Growth",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Rhoda is in the early commercialization stage, and official figures for revenue and ARR (Annual Recurring Revenue) have not been disclosed (as of June 2026). However, its current momentum can be inferred from its business stage and valuation positioning.",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial Revenue Not Disclosed",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "As of June 2026, Rhoda has not disclosed revenue metrics such as ARR, contract values, or the number of annual contracts. In terms of positioning, mass production evaluation at automotive factories was completed in Q1 2026, and it is in the early commercialization stage where full-scale annual enterprise revenue generation is just beginning.",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Rhoda's revenue growth is still at a stage where there is no \"commercial annual revenue data that can be shown in a time series.\" Instead, future growth momentum will be reflected in business milestones preceding commercialization and the pace of acquiring publishable metrics.",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "*For comparison, Rhoda itself is also listed in the top row of the table below.",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Track record of serial IPOs and acquisitions",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Rhoda AI — We extend the Rhoda Direct Video-Action (DVA) model to combine manipulation and mobility in one policy, enabling it to learn new mobile tasks from as little as 15 minutes of additional robot data.",
+    "url": "https://www.rhoda.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Rhoda AIの仕組みと実用化ロードマップ｜動画によるロボット訓練の技... — Rhoda AIによる4億5000万ドルの調達と「動画からのロボット訓練」の本格化は、ロボティクス業界におけるデータスケーリング則の証明であり、ハードウェアの進化以上にソフトウェア（基礎モデル）が産業構造を決定づける時代の幕開けを意味します。",
+    "url": "https://techshift.jp/2026/03/13/post-848/",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットの「脳」だけを作る会社に675億円が集まった — Rhoda AIの賭... — 隣の作業員が予想外の動きをする。 ラボで99%の成功率を出したロボットが、現場では使い物にならない。 この「ラボと現実のギャップ」を埋めるために18ヶ月のステルス期間を費やし、$450M（約675億円）のSeries Aを調達して登場したのが Rhoda AI だ。",
+    "url": "https://flowtune-media.com/posts/rhoda-ai-robotics-intelligence",
+    "pass": 3
+   },
+   {
+    "quote": "Rhoda AI FutureVision $450M完全解説2026年：映像予測制御ロボット知... — この「映像予測制御（Video-Predictive Control）」という技術アプローチが、製造・物流・医療分野の自動化を根本から変える可能性を持っている。 そして、日本はこの変化の影響を最も強く受ける国の一つだ。",
+    "url": "https://note.com/shiodome_098/n/n34bdf6fba777",
+    "pass": 3
+   },
+   {
+    "quote": "Rhoda AIが$4.5億調達——動画学習でロボに知能を与える | KAGIYA TechS... — ロボティクスAIの進化速度は加速しています。 ハードウェアの進化を待つだけでなく、「知能プラットフォーム」という新しいレイヤーに早期から注目することが、日本の製造業・物流業の競争力維持につながるはずです。",
+    "url": "https://kagiya-n.com/articles/rhoda-ai-robotics-foundation-model-450m",
+    "pass": 3
+   },
+   {
+    "quote": "Rhoda AI: 未来の映像を予測し、ロボットの動作に変換する基盤モデル... — Sep 22, 2026 · 本記事で取り上げるRhoda AI（ローダ・エーアイ、以下「Rhoda」）は、この「研究室と現場のギャップ」を埋めるために生まれたロボット基盤モデル企業です。 2024年に米国カリフォルニア州パロアルトで設立され、固体電池企業QuantumScape（クアンタムスケープ、NYSE: QS）を株式公開まで率いた連続起業家のJagdeep Singh（ジャグディープ・シン）氏がCEOを務めています。",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd",
+    "pass": 3
+   },
+   {
+    "quote": "Rhoda AI FutureVision $450M完全解説2026年：映像予測制御ロボット知... — Apr 18, 2026 · 2026年、ロボット×AI融合の新興企業「Rhoda AI」が4億5000万ドル（約675億円）の大型資金調達を完了した。 この企業が持つ技術の名称は 「FutureVision」 ——映像データを基にロボットが「次に何が起こるか」を予測し、最適な動作を自律的に実行するシステムだ。",
+    "url": "https://note.com/shiodome_098/n/n34bdf6fba777",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットの「脳」だけを作る会社に675億円が集まった — Rhoda AIの賭... — Apr 24, 2026 · 隣の作業員が予想外の動きをする。 ラボで99%の成功率を出したロボットが、現場では使い物にならない。 この「ラボと現実のギャップ」を埋めるために18ヶ月のステルス期間を費やし、$450M（約675億円）のSeries Aを調達して登場したのが Rhoda AI だ。",
+    "url": "https://flowtune-media.com/posts/rhoda-ai-robotics-intelligence",
+    "pass": 3
+   },
+   {
+    "quote": "Rhoda AI Unveils Video-Trained Robots, Nabs $450M … | RoboHorizon — Mar 11, 2026 · Instead of relying solely on painstaking data gathered by humans remotely operating robots, Rhoda pre-trains its AI on hundreds of millions of public internet videos to build a foundational understanding of physics, motion, and interaction.",
+    "url": "https://robohorizon.com/en-us/news/2026/03/rhoda-ai-unveils-video-trained-robots-nabs-450m-at-17b-valuation/",
+    "pass": 3
+   },
+   {
+    "quote": "Rhoda AI — Our team focuses on deploying robotic systems into the real world. We build general purpose foundation models that can adapt to the variability of commercial and industrial environments. FutureVision brings the capability to handle real world industrial tasks autonomously.",
+    "url": "https://www.rhoda.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Nebius × Rhoda AI Customer Story Video | 175 Productions — Sep 17, 2026 · The result was a customer story video that brings together Rhoda AI’s perspective, Nebius’ infrastructure, and the larger goal of making robotics work in the real world.",
+    "url": "https://175productions.com/commercial-video-production-case-study-nebius-rhoda-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Rhoda AI — The customer initially believed it could not be automated because of several challenges: each box weighs 10 kg, the lifting strap can easily tear, removing the tab requires precise control, and the transparent plastic bag is difficult for a robot to grasp.",
+    "url": "https://www.rhoda.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Rhoda AI: Automotive Factory Demo - YouTube — Mar 12, 2026 · Real task from an auto manufacturer assembly line. Our customer thought this task could never be automated because of the amount of variables that could go w...",
+    "url": "https://www.youtube.com/watch?v=L4-e_IZOtuQ",
+    "pass": 3
+   },
+   {
+    "quote": "Rhoda AI's Robots Recover Mid-Task on the Factory Floor — Nov 2, 2026 · Rhoda AI showed dual-arm industrial robots recovering from mid-task disruptions that engineers introduced on the spot, in a video demonstration published Sunday by former Meta chief technology officer Mike Schroepfer as part of his \"Field Trips with Schrep\" series.",
+    "url": "https://www.robotaigeek.com/news/rhoda-ais-robots-recover-mid-task-on-the-factory-floor",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Grow your brand’s digital footprint with data-driven strategies and thumb-stopping content tailored for maximum engagement.",
+    "url": "https://175productions.com/commercial-video-production-case-study-nebius-rhoda-ai/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Rhoda AI: A Foundation Model for Predicting Future Video and ... Sep 21, 2026 · Rhoda AI is a robot foundation model company that addresses the gap between the laboratory and the field—where things work in the lab but fail in real factories—by designing the model to learn robot movements as future video predictions.",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Rhoda AI Announces 'DVA' Model That Learns Action Policies ... Mar 14, 2026 · Rhoda AI, a startup developing robot foundation models, has emerged from near-stealth mode to announce its 'Direct Video-Action (DVA) model.' As the name implies, it is a model that learns action policies directly from video.",
+    "url": "https://note.com/kmoriyama/n/nd2a3fb904eb1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Rhoda AI: 未来の映像を予測し、ロボットの動作に変換する基盤モデル Sep 22, 2026 · 8. まとめ Rhoda AIは、「研究室では動くのに、現実の工場では崩れる」という研究室と現場のギャップに対し、ロボットの動きを未来の動画予測として学ばせる設計で応えるロボット基盤モデル企業です。",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd",
+    "pass": 3
+   },
+   {
+    "quote": "Rhoda AI、ビデオから直接アクションポリシーを学習する「DVA」モデル... Mar 15, 2026 · ロボット基盤モデルを開発するスタートアップ「Rhoda AI」がほぼステルス状態から脱し、「Direct Video-Action（DVA）モデル」を発表しました。 文字通り、ビデオから直接アクションポリシーを学習するモデルです。",
+    "url": "https://note.com/kmoriyama/n/nd2a3fb904eb1",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Rhoda AI: A Foundation Model for Predicting Future Video and Converting It into Robot Actions｜生成AI事例集",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Rhoda AI: A Foundation Model for Predicting Future Video and Converting It into Robot Actions",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"Robots work in the lab, but fail in real-world factories.\" This challenge, long held by robotics researchers and industrial automation professionals, is now being seriously re-addressed in the field of \"Physical AI\" (AI that operates in the real world). According to a report by investor Mayfield, the global manual labor market is worth approximately $30T annually, with the US alone reaching $4T t",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Rhoda AI (hereinafter \"Rhoda\"), the subject of this article, is a robot foundation model company born to bridge this \"gap between the lab and the field.\" Founded in 2024 in Palo Alto, California, the company is led by CEO Jagdeep Singh, a serial entrepreneur who led solid-state battery company QuantumScape (NYSE: QS) to its public offering. After 18 months of stealth development, the company emerg",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The foundation model, \"FutureVision,\" predicts robot movements as \"video of what will happen next\" and translates that into actual actions for control. DVA is responsible for this prediction, designed to learn \"how the world moves\" in advance from hundreds of millions of internet videos.",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Divergence from Mainstream Design",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Rather than following the \"teaching actions through appearance and language\" (VLA) type adopted by many competitors, Rhoda chose a different design lineage called DVA, which \"predicts the movement itself.\" The essence lies in the fact that this technological choice is positioned as its competitive axis.",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Capital and Track Record",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Rhoda AI Announces 'DVA' Model That Learns Action Policies Directly from Video, Enabling Multi-Step Tasks and Raising $450 Million｜森山和道 ライター、書評屋",
+    "url": "https://note.com/kmoriyama/n/nd2a3fb904eb1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Rhoda AI Announces 'DVA' Model That Learns Action Policies Directly from Video, Enabling Multi-Step Tasks and Raising $450 Million",
+    "url": "https://note.com/kmoriyama/n/nd2a3fb904eb1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Rhoda AI, a startup developing robot foundation models, has emerged from near-stealth mode to announce its 'Direct Video-Action (DVA) model.' As the name implies, it is a model that learns action policies directly from video.",
+    "url": "https://note.com/kmoriyama/n/nd2a3fb904eb1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The founder and CEO of Rhoda AI is Jagdeep Singh, a serial entrepreneur who previously founded QuantumScape, which focuses on EV batteries, and Infinera, which specializes in optical communication technology.",
+    "url": "https://note.com/kmoriyama/n/nd2a3fb904eb1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The company has reportedly raised $450 million in a Series A funding round. I believe this technology is noteworthy for several reasons, so I have summarized it here.",
+    "url": "https://note.com/kmoriyama/n/nd2a3fb904eb1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Treating Robot Control as a Video Generation Problem",
+    "url": "https://note.com/kmoriyama/n/nd2a3fb904eb1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The currently trending VLA (Visual-Language-Action) models are primarily trained using operational data collected via teleoperation or actual robots. While synthetic data from simulations is also used, the foundation is typically a method where humans operate robots using teleoperation devices to collect trajectories, camera images, and other time-series data. However, this method faces the proble",
+    "url": "https://note.com/kmoriyama/n/nd2a3fb904eb1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This is why a method of learning movements from video, known as",
+    "url": "https://note.com/kmoriyama/n/nd2a3fb904eb1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Rhoda AI: 未来の映像を予測し、ロボットの動作に変換する基盤モデル｜生成AI事例集",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd",
+    "pass": 3
+   },
+   {
+    "quote": "Rhoda AI: 未来の映像を予測し、ロボットの動作に変換する基盤モデル",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd",
+    "pass": 3
+   },
+   {
+    "quote": "「ロボットは研究室では動くのに、現実の工場では崩れる」。ロボティクスの研究者や産業界の自動化担当者が長年抱えてきた課題が、いま「Physical AI（現実世界で動くAI）」の領域で本格的な再挑戦を受けています。投資家Mayfieldのレポートによれば、世界の手作業による労働市場は年間約$30T規模、米国だけでも$4T〜$5T規模に達しており、人手不足と、単調で不衛生な、危険を伴う作業を機械に代替させる動機が高まっています。",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd",
+    "pass": 3
+   },
+   {
+    "quote": "本記事で取り上げるRhoda AI（ローダ・エーアイ、以下「Rhoda」）は、この「研究室と現場のギャップ」を埋めるために生まれたロボット基盤モデル企業です。2024年に米国カリフォルニア州パロアルトで設立され、固体電池企業QuantumScape（クアンタムスケープ、NYSE: QS）を株式公開まで率いた連続起業家のJagdeep Singh（ジャグディープ・シン）氏がCEOを務めています。約18か月間、事業を公表せずに開発に専念したのち、2026年3月10日にSeries A $450M（評価額$1.7B）を公表して姿を現し、業界主流の「Vision-Language-Action（VLA: 視覚・言語・行動）モデル」とは異なる独自の「Direct Video Action（DVA: 直接動画予測型行動）モデル」を中核設計として掲げています。",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd",
+    "pass": 3
+   },
+   {
+    "quote": "基盤モデル「FutureVision（フューチャービジョン）」は、ロボットの動きを「これから起きる動画」として先読みし、それを実際の動作に翻訳して制御します。この予測を担うのがDVAで、数億本のインターネット動画から「世界がどう動くか」を事前に学ばせておく設計です。",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd",
+    "pass": 3
+   },
+   {
+    "quote": "競合の多くが採用する「見た目と言葉で動作を教える」型（VLA）に追随せず、Rhodaは「動きそのものを予測させる」DVAという別系統の設計を選びました。この技術選択そのものを競争軸に据えている点に本質があります。",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd",
+    "pass": 3
+   },
+   {
+    "quote": "事業公表直後の初回ラウンドとしては異例の$450M単独調達を実現しています。CEOのSingh氏はQuantumScape、Infinera（NASDAQ: INFN）を株式公開まで導いた連続上場・買収の事業化実績を持ち、その信頼資本が大型調達の背景にあります。",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットに動き方を教えるAIには、業界で広く採用されているVLAと、Rhoda独自のDVAという2つの系統があります。どちらも大量のデータを使って学習する点は共通していますが、AIに「何を予測させるか」という学習の目的が根本的に異なります。この設計思想の違いは、ロボットが状況を覚えていられる長さの差にも直結しており、結果としてDVAは新しい作業をより短時間で習得できる設計になっています。",
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd",
+    "pass": 3
+   },
+   {
+    "quote": "Rhoda AI、ビデオから直接アクションポリシーを学習する「DVA」モデルを発表 多段階タスクも可能 4億5,000万ドル調達｜森山和道 ライター、書評屋",
+    "url": "https://note.com/kmoriyama/n/nd2a3fb904eb1",
+    "pass": 3
+   },
+   {
+    "quote": "Rhoda AI、ビデオから直接アクションポリシーを学習する「DVA」モデルを発表 多段階タスクも可能 4億5,000万ドル調達",
+    "url": "https://note.com/kmoriyama/n/nd2a3fb904eb1",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット基盤モデルを開発するスタートアップ「Rhoda AI」がほぼステルス状態から脱し、「Direct Video-Action（DVA）モデル」を発表しました。文字通り、ビデオから直接アクションポリシーを学習するモデルです。",
+    "url": "https://note.com/kmoriyama/n/nd2a3fb904eb1",
+    "pass": 3
+   },
+   {
+    "quote": "Rhoda AIの創業者兼CEOは、EV用バッテリーのQuantumScapeや光通信技術のInfineraを創業してきたシリアルアントレプレナーのジャグディープ・シン（Jagdeep Singh）氏です。",
+    "url": "https://note.com/kmoriyama/n/nd2a3fb904eb1",
+    "pass": 3
+   },
+   {
+    "quote": "今回、同社はSeries Aで4億5,000万ドルを調達したとされています。様々な面で注目すべき技術だと思いますので、まとめておきます。",
+    "url": "https://note.com/kmoriyama/n/nd2a3fb904eb1",
+    "pass": 3
+   },
+   {
+    "quote": "いま注目されているVLA（ビジュアル・ランゲージ・アクション）モデルは、主に遠隔操作やロボット実機によって収集された操作データを使って訓練されています。シミュレーションによる合成データも用いますが、基本となるのは遠隔操作装置を使って人間がロボットを操作し、その軌跡や取得カメラ画像その他の時系列データを収集する方法です。しかしこの方法はデータ収集のコストが極めて高く、訓練データ量の大規模拡張が難しいという問題を抱えています。",
+    "url": "https://note.com/kmoriyama/n/nd2a3fb904eb1",
+    "pass": 3
+   },
+   {
+    "quote": "そこで注目され始めているのが動画から動きを学習させる方法、",
+    "url": "https://note.com/kmoriyama/n/nd2a3fb904eb1",
+    "pass": 3
+   },
+   {
+    "quote": "VAM（Video-Action Model、動画行動モデル）",
+    "url": "https://note.com/kmoriyama/n/nd2a3fb904eb1",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Rhoda AI (@RhodaAI) / X At Rhoda, we care deeply about the science of pre-training for robotics. In one of the most rigorous studies of its kind, over thousands of trials and hundreds of hours of robot evaluations, we show how scaling web-video pre-training leads to better real-world robot performance.",
+    "url": "https://x.com/RhodaAI",
+    "pass": 3
+   },
+   {
+    "quote": "Rhoda AI on X: \"What can a robot do without vision? We gave ... What can a robot do without vision? We gave our robot a sense of touch and showed it can recognize and retrieve objects with its cameras blindfolded. Introducing Rhoda’s new tactile sensor—it feels pressure, texture, vibration, slip, and temperature, just like your fingertips.",
+    "url": "https://x.com/RhodaAI/status/2110402702178148451",
+    "pass": 3
+   },
+   {
+    "quote": "Rhoda AI on X: \"More industries. More real customer work ... At Rhoda, we tackle real-world problems through fundamental research. Interested in building the future of robotics? Explore opportunities and apply:",
+    "url": "https://x.com/RhodaAI/status/2105689202532688247",
+    "pass": 3
+   },
+   {
+    "quote": "Rhoda AI on X: \"Here’s something we’ve never seen done before ... At Rhoda, we tackle real-world problems through fundamental research. Full story and technical deep-dive:",
+    "url": "https://x.com/RhodaAI/status/2042302652911173720",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Rhoda AI - LinkedIn Rhoda AI Technology, Information and Internet Building at the frontier of embodied intelligence. About us Building at the frontier of embodied intelligence.",
+    "url": "https://www.linkedin.com/company/rhoda-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Jagdeep Singh - Co-founder and CEO, Rhoda AI -- building ...Andrew Wooten - Rhoda AI | LinkedInEric Chan - CTO, Rhoda AI | LinkedInWill Peterson - Director of Application Engineering at Rhoda ...Why We Backed Rhoda AI: The $30 Trillion Physical AI MarketRhoda A. - San Francisco Bay Area | Professional Profile ... Most recently I cofounded Rhoda, where we are building a new class of AI system desig",
+    "url": "https://www.linkedin.com/in/jagdeep-singh-3b2a9222",
+    "pass": 3
+   },
+   {
+    "quote": "Andrew Wooten - Rhoda AI | LinkedInEric Chan - CTO, Rhoda AI | LinkedInWill Peterson - Director of Application Engineering at Rhoda ...Why We Backed Rhoda AI: The $30 Trillion Physical AI MarketRhoda A. - San Francisco Bay Area | Professional Profile ... Building generalist intelligent robots at Rhoda AI · Experience: Rhoda AI · Education: Stanford University Graduate School of Business · Location",
+    "url": "https://www.linkedin.com/in/andrewcwooten",
+    "pass": 3
+   },
+   {
+    "quote": "Eric Chan - CTO, Rhoda AI | LinkedInWill Peterson - Director of Application Engineering at Rhoda ...Why We Backed Rhoda AI: The $30 Trillion Physical AI MarketRhoda A. - San Francisco Bay Area | Professional Profile ... CTO, Rhoda AI · Generative models + 3D vision & graphics. Website: ericryanchan.github.io · Experience: Rhoda AI · Education: Stanford University · Location: Palo Alto · 500+ conne",
+    "url": "https://www.linkedin.com/in/eric-chan-28353322a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Rhoda AI (@rhoda.ai.7) • Facebook, Connect with friends Rhoda AI is on Facebook. Join Facebook to connect with Rhoda AI and others you may know. Facebook gives people the power to share and makes the world...",
+    "url": "https://www.facebook.com/rhoda.ai.7/",
+    "pass": 3
+   },
+   {
+    "quote": "Rhoda AI (Future of Robots) | Artificial Intelligence Rhoda ... Rhoda AI (Future of Robots) | Artificial Intelligence Rhoda AI is a fast-growing company building real-world robots powered by advanced artificial intelligence.",
+    "url": "https://www.facebook.com/reel/1455571936021524/",
+    "pass": 3
+   },
+   {
+    "quote": "Rhoda AI is betting the future of robotics starts with ... Rhoda AI is betting the future of robotics starts with internet video, not lab data. We visited the company’s headquarters to see how its Direct Video Action model learns physics from hundreds of millions of clips.",
+    "url": "https://www.facebook.com/cnet/videos/meet-the-robot-trained-on-100-million-internet-videos/1983191655731258/",
+    "pass": 3
+   },
+   {
+    "quote": "| Ai Tales By Rhoda - Facebook Jul 24, 2026 · intellectually stimulating man I've been chatting with for three weeks me what about you boss queen the woman who cried on my shoulder via text about how hard it is to run a business you are the same crazy lady who almost smashed my bumper and wished death upon my entire family Pages Public figure Digital creator Ai Tales By Rhoda Videos 😂😂",
+    "url": "https://www.facebook.com/Talesbyrhoda/videos/a87e1b81/2134057407530336/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.rhoda.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rhoda.ai/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.rhoda.ai/assets/images/services/Automotive.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.rhoda.ai/assets/images/services/Manufacturing.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://techshift.jp/2026/03/13/post-848/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://flowtune-media.com/posts/rhoda-ai-robotics-intelligence",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/shiodome_098/n/n34bdf6fba777",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E9%BB%92%E7%94%B0%E6%AD%A6%E5%BF%97",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/shiodome_098/n/n34bdf6fba777",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://flowtune-media.com/posts/rhoda-ai-robotics-intelligence",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://robohorizon.com/en-us/news/2026/03/rhoda-ai-unveils-video-trained-robots-nabs-450m-at-17b-valuation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://175productions.com/commercial-video-production-case-study-nebius-rhoda-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=L4-e_IZOtuQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/sandeshpatnam_not-demoware-or-a-staged-video-real-customers-activity-7511460237237772288-EpyY",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://connect.redhat.com/en/partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kmoriyama/n/nd2a3fb904eb1?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gen_ai/n/nc0a4d54b23fd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kmoriyama/n/nd2a3fb904eb1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/RhodaAI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/RhodaAI/status/2110402702178148451",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/RhodaAI/status/2105689202532688247",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/RhodaAI/status/2042302652911173720",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/rhoda-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/jagdeep-singh-3b2a9222",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/andrewcwooten",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/eric-chan-28353322a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/rhoda.ai.7/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/reel/1455571936021524/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/cnet/videos/meet-the-robot-trained-on-100-million-internet-videos/1983191655731258/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Talesbyrhoda/videos/a87e1b81/2134057407530336/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/RhodaAI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/RhodaAI/status/2105689202532688247",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Rhoda AI 日本 導入",
+   "results": [
+    "https://www.rhoda.ai/",
+    "https://techshift.jp/2026/03/13/post-848/",
+    "https://flowtune-media.com/posts/rhoda-ai-robotics-intelligence",
+    "https://note.com/shiodome_098/n/n34bdf6fba777",
+    "https://kagiya-n.com/articles/rhoda-ai-robotics-foundation-model-450m",
+    "https://note.com/gen_ai/n/nc0a4d54b23fd",
+    "https://media.huroc.org/articles/rhoda-ai-dva-factory-edge-case-recovery/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rhoda AI 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/黒田武志",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.redhat.com/ja/explore/information/corporate-profile",
+    "https://techno-road.com/",
+    "https://jp.linkedin.com/company/conferma",
+    "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "https://www.capgemini.com/jp-jp/about-us/overview-and-access/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Rhoda AI Japan",
+   "results": [
+    "https://note.com/gen_ai/n/nc0a4d54b23fd",
+    "https://note.com/shiodome_098/n/n34bdf6fba777",
+    "https://flowtune-media.com/posts/rhoda-ai-robotics-intelligence",
+    "https://robohorizon.com/en-us/news/2026/03/rhoda-ai-unveils-video-trained-robots-nabs-450m-at-17b-valuation/",
+    "https://www.rhoda.ai/",
+    "https://www.rhoda.ai/team",
+    "https://forbesjapan.com/articles/detail/83477"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rhoda AI manufacturing customer case study",
+   "results": [
+    "https://175productions.com/commercial-video-production-case-study-nebius-rhoda-ai/",
+    "https://www.rhoda.ai/",
+    "https://www.youtube.com/watch?v=L4-e_IZOtuQ",
+    "https://www.linkedin.com/posts/sandeshpatnam_not-demoware-or-a-staged-video-real-customers-activity-7511460237237772288-EpyY",
+    "https://www.robotaigeek.com/news/rhoda-ais-robots-recover-mid-task-on-the-factory-floor",
+    "https://x.com/RhodaAI/status/2105689202532688247",
+    "https://www.humanoidsdaily.com/news/rhoda-ai-schrep-dva-factory-edge-case-demos"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rhoda AI white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://connect.redhat.com/en/partner-program",
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.seoreseller.com/",
+    "https://www.databricks.com/partners"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rhoda AI founded funding employees revenue",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com Rhoda AI",
+   "results": [
+    "https://note.com/gen_ai/n/nc0a4d54b23fd?hl=en",
+    "https://note.com/kmoriyama/n/nd2a3fb904eb1?hl=en",
+    "https://note.com/gen_ai/n/nc0a4d54b23fd",
+    "https://note.com/kmoriyama/n/nd2a3fb904eb1",
+    "https://note.com/shiodome_098/n/n34bdf6fba777",
+    "https://note.com/gen_ai/n/nc0a4d54b23fd?hl=ko",
+    "https://note.com/rita_robotics/n/n727f1389befa?hl=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Rhoda AI",
+   "results": [
+    "https://x.com/RhodaAI",
+    "https://x.com/RhodaAI/status/2110402702178148451",
+    "https://x.com/RhodaAI/status/2105689202532688247",
+    "https://x.com/RhodaAI/status/2042302652911173720",
+    "https://x.com/RhodaAI/status/2117663101910983074",
+    "https://x.com/RhodaAI/status/2099914696556237126",
+    "https://x.com/RhodaAI/status/2049881742245511531"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Rhoda AI",
+   "results": [
+    "https://www.linkedin.com/company/rhoda-ai",
+    "https://www.linkedin.com/in/jagdeep-singh-3b2a9222",
+    "https://www.linkedin.com/in/andrewcwooten",
+    "https://www.linkedin.com/in/eric-chan-28353322a",
+    "https://www.linkedin.com/in/will-peterson-08a857170",
+    "https://www.linkedin.com/pulse/why-we-backed-rhoda-ai-30-trillion-physical-market-navin-chaddha-inwdc",
+    "https://www.linkedin.com/in/rhodamaearonce"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Rhoda AI",
+   "results": [
+    "https://www.facebook.com/rhoda.ai.7/",
+    "https://www.facebook.com/reel/1455571936021524/",
+    "https://www.facebook.com/cnet/videos/meet-the-robot-trained-on-100-million-internet-videos/1983191655731258/",
+    "https://www.facebook.com/Talesbyrhoda/videos/a87e1b81/2134057407530336/",
+    "https://www.facebook.com/theartificialintelligencee/posts/rhoda-ai-raises-450m-at-17b-valuation-that-means-another-unicorn-in-robotics-ind/122152473080409602/",
+    "https://www.facebook.com/Techmeme/posts/documents-rhoda-ai-which-raised-a-1626m-series-a-in-april-and-genesis-ai-which-r/1243798894449089/",
+    "https://www.facebook.com/Talesbyrhoda/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rhoda AI note 社長",
+   "results": [
+    "https://robo-ken.jp/media/interview/rhoda-ai-ceo-video-pretraining-interview-a3/",
+    "https://www.rhoda.ai/",
+    "https://siliconvalleyinvestclub.com/id/companies/rhoda/",
+    "https://www.insideorg.com/org/rhoda-ai",
+    "https://www.automate.org/ai/industry-insights/rhoda-ai",
+    "https://tw.stock.yahoo.com/news/rhoda-ai機器人創辦人日前來台拜訪-佳能擴大佈局不排除投資及合作-011707770.html",
+    "https://www.rhoda.ai/team"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rhoda AI X 投稿",
+   "results": [
+    "https://x.com/RhodaAI",
+    "https://x.com/RhodaAI/status/2105689202532688247",
+    "https://www.rhoda.ai/",
+    "https://x-sou.com/ja/u/RhodaAI",
+    "https://www.launchvideo.com/directory/rhoda-ai",
+    "https://zhuanlan.zhihu.com/p/2027048618180321564",
+    "https://x-sou.com/u/RhodaAI"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像2件／外部36頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式2頁／PDF・画像2件／外部36頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像2件／外部36頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像2件／外部36頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式2頁／PDF・画像2件／外部36頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像2件／外部36頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式2頁／PDF・画像2件／外部36頁・検索12回）"
+ }
+}

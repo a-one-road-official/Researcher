@@ -1,0 +1,1480 @@
+{
+ "name": "Snappr",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜AUMS不適合",
+ "researched_at": "2026-11-09T18:30:04.777651+00:00",
+ "official_url": "https://www.snappr.com",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue",
+    "value": "$11B / year",
+    "url": "https://www.snappr.com/customers/mohawk-industries",
+    "pass": 1
+   },
+   {
+    "label": "Revenue",
+    "value": "$18B / year",
+    "url": "https://www.snappr.com/customers/ppg-industries",
+    "pass": 1
+   },
+   {
+    "label": "Revenue",
+    "value": "$648B / year",
+    "url": "https://www.snappr.com/customers/walmart",
+    "pass": 1
+   },
+   {
+    "label": "Revenue",
+    "value": "$575B / year",
+    "url": "https://www.snappr.com/customers/amazon",
+    "pass": 1
+   },
+   {
+    "label": "Revenue",
+    "value": "$307B / year",
+    "url": "https://www.snappr.com/customers/alphabet",
+    "pass": 1
+   },
+   {
+    "label": "Revenue",
+    "value": "$277B / year",
+    "url": "https://www.snappr.com/customers/mckesson",
+    "pass": 1
+   },
+   {
+    "label": "Revenue",
+    "value": "$242B / year",
+    "url": "https://www.snappr.com/customers/costco",
+    "pass": 1
+   },
+   {
+    "label": "Revenue",
+    "value": "$153B / year",
+    "url": "https://www.snappr.com/customers/home-depot",
+    "pass": 1
+   },
+   {
+    "label": "Revenue",
+    "value": "$135B / year",
+    "url": "https://www.snappr.com/customers/meta-platforms",
+    "pass": 1
+   },
+   {
+    "label": "Revenue",
+    "value": "$107B / year",
+    "url": "https://www.snappr.com/customers/target",
+    "pass": 1
+   },
+   {
+    "label": "Revenue per employee",
+    "value": "$31,000",
+    "url": "https://prospeo.io/c/snappr-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "No funding",
+    "url": "https://prospeo.io/c/snappr-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "1 California St, San Francisco, California 94111, US",
+    "url": "https://prospeo.io/c/snappr-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2017",
+    "url": "https://prospeo.io/c/snappr-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "On-demand photography, videography & AI visuals | Snappr",
+    "url": "https://www.snappr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Content that compounds",
+    "url": "https://www.snappr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Snappr helps you turn pixels into success, with inspiring visual content that pays for itself. From high volume needs to individual projects, we streamline the production of high-impact photography, videography, and AI image generation.",
+    "url": "https://www.snappr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "60% higher CTR on ads",
+    "url": "https://www.snappr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "40% higher CTR on ads",
+    "url": "https://www.snappr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "For businesses with growing visual content needs.",
+    "url": "https://www.snappr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Create Business Content Now",
+    "url": "https://www.snappr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "For enterprises creating visual content at scale.",
+    "url": "https://www.snappr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore Snappr for Enterprises",
+    "url": "https://www.snappr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From photoshoots and videoshoots to AI imagery, Snappr brings all your content creation workflows into one seamless, scalable system. This is human creativity at the speed of AI.",
+    "url": "https://www.snappr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Centralized content dashboard",
+    "url": "https://www.snappr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Instantly access top-tier photographers, videographers, and editors on-demand.",
+    "url": "https://www.snappr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Utilize your imagery and Snappr’s AI technology to create new content quickly, with human creators in the loop.",
+    "url": "https://www.snappr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Visual content in a click",
+    "url": "https://www.snappr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From fast-moving marketplaces to high-volume retailers, brands utilize Snappr to create high-performing visual content across a wide range of use cases.",
+    "url": "https://www.snappr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A top 3 food delivery platform uses Snappr to shoot 140K restaurant menus in 791 cities",
+    "url": "https://www.snappr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Produce menu and food imagery at scale for restaurants and delivery platforms",
+    "url": "https://www.snappr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We increased the sale price +2.5% for Bring A Trailer listings",
+    "url": "https://www.snappr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Capture high-converting vehicle photos and video for marketplaces, dealerships, and rental fleets",
+    "url": "https://www.snappr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A top 3 real estate platform uses Snappr to push images live 50% faster",
+    "url": "https://www.snappr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Standardize listing photography for real estate platforms and property managers.",
+    "url": "https://www.snappr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A fast-growing eComm brand saves 90% on SKU imagery production",
+    "url": "https://www.snappr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock more with our Enterprise tier",
+    "url": "https://www.snappr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Scale your visual content production without scaling all of the headaches.",
+    "url": "https://www.snappr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our API enables content production directly from your application. Trigger photoshoots the moment new products or partners are added, plus much more.",
+    "url": "https://www.snappr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing and social media visuals that perform | Snappr",
+    "url": "https://www.snappr.com/use-cases/marketing-and-social-media",
+    "pass": 1
+   },
+   {
+    "quote": "Content that stops the scroll",
+    "url": "https://www.snappr.com/use-cases/marketing-and-social-media",
+    "pass": 1
+   },
+   {
+    "quote": "Turn marketing ideas into publish-ready visuals. Snappr combines on-demand brand photography and videography with AI image and video generation so your team can produce more content, stay on-brand, and move faster across every channel.",
+    "url": "https://www.snappr.com/use-cases/marketing-and-social-media",
+    "pass": 1
+   },
+   {
+    "quote": "For growing marketing teams and agencies",
+    "url": "https://www.snappr.com/use-cases/marketing-and-social-media",
+    "pass": 1
+   },
+   {
+    "quote": "For enterprises producing content at scale",
+    "url": "https://www.snappr.com/use-cases/marketing-and-social-media",
+    "pass": 1
+   },
+   {
+    "quote": "Explore Snappr for Enterprises",
+    "url": "https://www.snappr.com/use-cases/marketing-and-social-media",
+    "pass": 1
+   },
+   {
+    "quote": "For anyone capturing a personal project.",
+    "url": "https://www.snappr.com/use-cases/marketing-and-social-media",
+    "pass": 1
+   },
+   {
+    "quote": "From campaign shoots to AI-generated content, Snappr takes care of everything so your marketing team can focus on strategy.",
+    "url": "https://www.snappr.com/use-cases/marketing-and-social-media",
+    "pass": 1
+   },
+   {
+    "quote": "Schedule an on-site photographer or videographer, or run an AI image or video generation job. Let us know your needs and we will match you with the right creator in real time.",
+    "url": "https://www.snappr.com/use-cases/marketing-and-social-media",
+    "pass": 1
+   },
+   {
+    "quote": "We handle end-to-end production so you do not have to. Photography, videography, AI image generation, or AI video generation, plus editing and QA, all managed in one place.",
+    "url": "https://www.snappr.com/use-cases/marketing-and-social-media",
+    "pass": 1
+   },
+   {
+    "quote": "Edited photos and videos are delivered via the Snappr app within days, with one-click sharing or downloading to your marketing platforms.",
+    "url": "https://www.snappr.com/use-cases/marketing-and-social-media",
+    "pass": 1
+   },
+   {
+    "quote": "Snappr powers visual content for 74% of the Fortune 500, leading agencies, high-growth brands, and marketing teams worldwide.",
+    "url": "https://www.snappr.com/use-cases/marketing-and-social-media",
+    "pass": 1
+   },
+   {
+    "quote": "product images created",
+    "url": "https://www.snappr.com/use-cases/marketing-and-social-media",
+    "pass": 1
+   },
+   {
+    "quote": "“Sam was fantastic! She made me feel very comfortable, made thoughtful suggestions and ensured I got a wide range of photos for marketing and social media.”",
+    "url": "https://www.snappr.com/use-cases/marketing-and-social-media",
+    "pass": 1
+   },
+   {
+    "quote": "\"Snappr has been a game-changer for us. Their platform has completely transformed our visual content strategy, allowing us to quickly produce high-quality lifestyle images that resonate with our audience.\"",
+    "url": "https://www.snappr.com/use-cases/marketing-and-social-media",
+    "pass": 1
+   },
+   {
+    "quote": "\"The new images have directly contributed to increased sales. The process is now much more efficient.\"",
+    "url": "https://www.snappr.com/use-cases/marketing-and-social-media",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise features for always-on content",
+    "url": "https://www.snappr.com/use-cases/marketing-and-social-media",
+    "pass": 1
+   },
+   {
+    "quote": "Increase content production without increasing the production overhead.",
+    "url": "https://www.snappr.com/use-cases/marketing-and-social-media",
+    "pass": 1
+   },
+   {
+    "quote": "Automate production workflows",
+    "url": "https://www.snappr.com/use-cases/marketing-and-social-media",
+    "pass": 1
+   },
+   {
+    "quote": "API-driven production",
+    "url": "https://www.snappr.com/use-cases/marketing-and-social-media",
+    "pass": 1
+   },
+   {
+    "quote": "Trigger jobs from your marketing tools using API integrations, then route finished assets to your destinations automatically.",
+    "url": "https://www.snappr.com/use-cases/marketing-and-social-media",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise visibility and reporting",
+    "url": "https://www.snappr.com/use-cases/marketing-and-social-media",
+    "pass": 1
+   },
+   {
+    "quote": "Track production status across campaigns and teams so stakeholders can monitor progress and timelines.",
+    "url": "https://www.snappr.com/use-cases/marketing-and-social-media",
+    "pass": 1
+   },
+   {
+    "quote": "Embed brand standards into production",
+    "url": "https://www.snappr.com/use-cases/marketing-and-social-media",
+    "pass": 1
+   },
+   {
+    "quote": "Centralize guidelines so photography, videography, and AI-generated visuals stay consistent and on-brand.",
+    "url": "https://www.snappr.com/use-cases/marketing-and-social-media",
+    "pass": 1
+   },
+   {
+    "quote": "Welcome to the Snappr Careers page. Here are the positions we are currently hiring. More about Snappr",
+    "url": "https://www.snappr.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Explore roles at Snappr",
+    "url": "https://www.snappr.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Snappr is a place to lean into",
+    "url": "https://www.snappr.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We promote and invest in people who show genuine care and passion.",
+    "url": "https://www.snappr.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Snappr is a track for",
+    "url": "https://www.snappr.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Snappr is an unrivaled environment for",
+    "url": "https://www.snappr.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Join us to revolutionize the visual content ecosystem and make an impact!",
+    "url": "https://www.snappr.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "As owners, we are obsessed with solving our customers’ problems, we put the needs of the customer ahead of our own, and when something doesn’t work we take it personally.",
+    "url": "https://www.snappr.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "As owners, we take a whole-of-business perspective, we collaborate rather than work in silos, we view every problem as our problem, and we don’t care about blame or excuses.",
+    "url": "https://www.snappr.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "As owners, we don’t have time for fluff and politics, we communicate with deadly precision, we are obliged to dissent when something is wrong, and when we disagree we still commit.",
+    "url": "https://www.snappr.com/careers",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "For growing marketing teams and agencies",
+    "url": "https://www.snappr.com/use-cases/marketing-and-social-media",
+    "pass": 1
+   },
+   {
+    "quote": "Snappr powers visual content for 74% of the Fortune 500, leading agencies, high-growth brands, and marketing teams worldwide.",
+    "url": "https://www.snappr.com/use-cases/marketing-and-social-media",
+    "pass": 1
+   },
+   {
+    "quote": "Add your brand to the directory of companies that create their visual content with Snappr.",
+    "url": "https://www.snappr.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Start from your brand guidelines. Build a brief in minutes, or reuse a template your team has already approved.",
+    "url": "https://www.snappr.com/customers/mohawk-industries",
+    "pass": 1
+   },
+   {
+    "quote": "Start from your brand guidelines. Build a brief in minutes, or reuse a template your team has already approved.",
+    "url": "https://www.snappr.com/customers/ppg-industries",
+    "pass": 1
+   },
+   {
+    "quote": "Start from your brand guidelines. Build a brief in minutes, or reuse a template your team has already approved.",
+    "url": "https://www.snappr.com/customers/walmart",
+    "pass": 1
+   },
+   {
+    "quote": "Start from your brand guidelines. Build a brief in minutes, or reuse a template your team has already approved.",
+    "url": "https://www.snappr.com/customers/amazon",
+    "pass": 1
+   },
+   {
+    "quote": "Start from your brand guidelines. Build a brief in minutes, or reuse a template your team has already approved.",
+    "url": "https://www.snappr.com/customers/alphabet",
+    "pass": 1
+   },
+   {
+    "quote": "Imagery that earns trust on sight — facility, staff, and corporate photography held to your brand and compliance standards at every site.",
+    "url": "https://www.snappr.com/customers/mckesson",
+    "pass": 1
+   },
+   {
+    "quote": "Start from your brand guidelines. Build a brief in minutes, or reuse a template your team has already approved.",
+    "url": "https://www.snappr.com/customers/mckesson",
+    "pass": 1
+   },
+   {
+    "quote": "Start from your brand guidelines. Build a brief in minutes, or reuse a template your team has already approved.",
+    "url": "https://www.snappr.com/customers/costco",
+    "pass": 1
+   },
+   {
+    "quote": "Start from your brand guidelines. Build a brief in minutes, or reuse a template your team has already approved.",
+    "url": "https://www.snappr.com/customers/home-depot",
+    "pass": 1
+   },
+   {
+    "quote": "Start from your brand guidelines. Build a brief in minutes, or reuse a template your team has already approved.",
+    "url": "https://www.snappr.com/customers/meta-platforms",
+    "pass": 1
+   },
+   {
+    "quote": "Start from your brand guidelines. Build a brief in minutes, or reuse a template your team has already approved.",
+    "url": "https://www.snappr.com/customers/target",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Snappr powers visual content for 74% of the Fortune 500, leading agencies, high-growth brands, and marketing teams worldwide.",
+    "url": "https://www.snappr.com/use-cases/marketing-and-social-media",
+    "pass": 1
+   },
+   {
+    "quote": "of Fortune 500",
+    "url": "https://www.snappr.com/use-cases/marketing-and-social-media",
+    "pass": 1
+   },
+   {
+    "quote": "More than 70% of the Fortune 500 — and thousands of growing brands — use Snappr for commercial photography, videography, image editing, and AI visual content at enterprise scale.",
+    "url": "https://www.snappr.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "That combination is why more than 70% of the Fortune 500, across",
+    "url": "https://www.snappr.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Of Fortune 500 companies have used Snappr",
+    "url": "https://www.snappr.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Explore the Fortune 500 companies that have used Snappr for photography, videography, image editing, and AI-generated visual content — organized by the industries we serve.",
+    "url": "https://www.snappr.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 general merchandise company · 2.1M employees · $648B annual revenue.",
+    "url": "https://www.snappr.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 internet retail company · 1.5M employees · $575B annual revenue.",
+    "url": "https://www.snappr.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 internet retail company · 183K employees · $307B annual revenue.",
+    "url": "https://www.snappr.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 healthcare wholesale company · 48K employees · $277B annual revenue.",
+    "url": "https://www.snappr.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 general merchandise company · 316K employees · $242B annual revenue.",
+    "url": "https://www.snappr.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 specialty retail company · 463K employees · $153B annual revenue.",
+    "url": "https://www.snappr.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 internet retail company · 67K employees · $135B annual revenue.",
+    "url": "https://www.snappr.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 general merchandise company · 415K employees · $107B annual revenue.",
+    "url": "https://www.snappr.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 specialty retail company · 226K employees · $86B annual revenue.",
+    "url": "https://www.snappr.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 food & drug retail company · 199K employees · $78B annual revenue.",
+    "url": "https://www.snappr.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 food wholesale company · 72K employees · $76B annual revenue.",
+    "url": "https://www.snappr.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 internet retail company · 30K employees · $37B annual revenue.",
+    "url": "https://www.snappr.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 computers company · 161K employees · $383B annual revenue.",
+    "url": "https://www.snappr.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 software company · 221K employees · $212B annual revenue.",
+    "url": "https://www.snappr.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 telecommunications company · 105K employees · $134B annual revenue.",
+    "url": "https://www.snappr.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 telecommunications company · 150K employees · $122B annual revenue.",
+    "url": "https://www.snappr.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 IT services company · 297K employees · $62B annual revenue.",
+    "url": "https://www.snappr.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 networking company · 85K employees · $57B annual revenue.",
+    "url": "https://www.snappr.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 telecommunications company · 101K employees · $55B annual revenue.",
+    "url": "https://www.snappr.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 semiconductors company · 125K employees · $54B annual revenue.",
+    "url": "https://www.snappr.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 computers company · 58K employees · $54B annual revenue.",
+    "url": "https://www.snappr.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Mohawk Industries is a Fortune 500 home goods company headquartered in the United States, with approximately 43K employees and around $11B in annual revenue.",
+    "url": "https://www.snappr.com/customers/mohawk-industries",
+    "pass": 1
+   },
+   {
+    "quote": "PPG Industries is a Fortune 500 chemicals company headquartered in the United States, with approximately 53K employees and around $18B in annual revenue.",
+    "url": "https://www.snappr.com/customers/ppg-industries",
+    "pass": 1
+   },
+   {
+    "quote": "Walmart is a Fortune 500 general merchandise company headquartered in the United States, with approximately 2.1M employees and around $648B in annual revenue.",
+    "url": "https://www.snappr.com/customers/walmart",
+    "pass": 1
+   },
+   {
+    "quote": "Amazon is a Fortune 500 internet retail company headquartered in the United States, with approximately 1.5M employees and around $575B in annual revenue.",
+    "url": "https://www.snappr.com/customers/amazon",
+    "pass": 1
+   },
+   {
+    "quote": "Alphabet is a Fortune 500 internet retail company headquartered in the United States, with approximately 183K employees and around $307B in annual revenue.",
+    "url": "https://www.snappr.com/customers/alphabet",
+    "pass": 1
+   },
+   {
+    "quote": "McKesson is a Fortune 500 healthcare wholesale company headquartered in the United States, with approximately 48K employees and around $277B in annual revenue.",
+    "url": "https://www.snappr.com/customers/mckesson",
+    "pass": 1
+   },
+   {
+    "quote": "Costco is a Fortune 500 general merchandise company headquartered in the United States, with approximately 316K employees and around $242B in annual revenue.",
+    "url": "https://www.snappr.com/customers/costco",
+    "pass": 1
+   },
+   {
+    "quote": "Home Depot is a Fortune 500 specialty retail company headquartered in the United States, with approximately 463K employees and around $153B in annual revenue.",
+    "url": "https://www.snappr.com/customers/home-depot",
+    "pass": 1
+   },
+   {
+    "quote": "Meta Platforms is a Fortune 500 internet retail company headquartered in the United States, with approximately 67K employees and around $135B in annual revenue.",
+    "url": "https://www.snappr.com/customers/meta-platforms",
+    "pass": 1
+   },
+   {
+    "quote": "Target is a Fortune 500 general merchandise company headquartered in the United States, with approximately 415K employees and around $107B in annual revenue.",
+    "url": "https://www.snappr.com/customers/target",
+    "pass": 1
+   },
+   {
+    "quote": "数百万件の撮影・編集に対応し、Fortune 500企業の半数以上や大手マーケットプレイス企業にも信頼されています",
+    "url": "https://moge.ai/ja/product/snappr",
+    "pass": 3
+   },
+   {
+    "quote": "Marriott International",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/snappr",
+    "pass": 3
+   },
+   {
+    "quote": ", a Australia based Automotive organisation with 65 employees and revenues of $12.0 million,",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/snappr",
+    "pass": 3
+   },
+   {
+    "quote": ", a United States based Distribution organisation with 28 employees and revenues of $3.0 million and many others.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/snappr",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us if you need a completed and verified list of companies using Snappr, including the breakdown by industry (21 Verticals), Geography (Region, Country, State, City), Company Size (Revenue, Employees, Asset) and related IT Decision Makers, Key Stakeholders, business and technology executives responsible for the software purchases.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/snappr",
+    "pass": 3
+   },
+   {
+    "quote": "Companies using Snappr range from small businesses with 0-100 employees - 100%, to mid-sized firms with 101-1,000 employees - 0%, large organizations with 1,001-10,000 employees - 0%, and global enterprises with 10,000+ employees - 0%.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/snappr",
+    "pass": 3
+   },
+   {
+    "quote": "Q7. What is the breakdown by revenue of companies using Snappr?",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/snappr",
+    "pass": 3
+   },
+   {
+    "quote": "Customers of Snappr include firms across all revenue levels — from $0-100M, to $101M-$1B, $1B-$10B, and $10B+ global corporations.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/snappr",
+    "pass": 3
+   },
+   {
+    "quote": "Contact APPS RUN THE WORLD to access the full verified Snappr customer database with detailed Firmographics such as industry, geography, revenue, and employee breakdowns as well as key decision makers in charge of Video Editing.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/snappr",
+    "pass": 3
+   },
+   {
+    "quote": "Snappr Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/snappr-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Snappr",
+    "url": "https://prospeo.io/c/snappr-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/snappr-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/snappr-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/snappr-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Snappr?",
+    "url": "https://prospeo.io/c/snappr-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Snappr generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/snappr-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/snappr-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/snappr-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Snappr have?",
+    "url": "https://prospeo.io/c/snappr-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/snappr-revenue",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "retail and ecommerce, technology, finance, consumer goods, industrials, healthcare, automotive, and real estate",
+    "url": "https://www.snappr.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Snappr is trusted by the world’s most demanding brands across retail, tech, finance, healthcare, and beyond.",
+    "url": "https://www.snappr.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial, energy, and manufacturing companies use Snappr to document facilities, operations, equipment, and field sites across their footprint.",
+    "url": "https://www.snappr.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 industrial machinery company · 125K employees · $68B annual revenue.",
+    "url": "https://www.snappr.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 industrial machinery company · 76K employees · $34B annual revenue.",
+    "url": "https://www.snappr.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 industrial machinery company · 53K employees · $22B annual revenue.",
+    "url": "https://www.snappr.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 industrial machinery company · 67K employees · $18B annual revenue.",
+    "url": "https://www.snappr.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive and mobility companies use Snappr to photograph inventory, dealerships, and vehicles, and to produce corporate and marketing visual content.",
+    "url": "https://www.snappr.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 automotive company · 140K employees · $97B annual revenue.",
+    "url": "https://www.snappr.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Penske Automotive Group",
+    "url": "https://www.snappr.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 automotive company · 40K employees · $16B annual revenue.",
+    "url": "https://www.snappr.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "More than 70% of the Fortune 500, along with thousands of growing businesses, have used Snappr. Customers span retail and ecommerce, technology, finance, consumer goods, industrials, healthcare, automotive, and real estate.",
+    "url": "https://www.snappr.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial companies like PPG Industries use Snappr to document facilities, operations, equipment, and field sites across their footprint.",
+    "url": "https://www.snappr.com/customers/ppg-industries",
+    "pass": 1
+   },
+   {
+    "quote": "Operations worth showing off — plants, field sites, and equipment documented to one standard across your entire footprint.",
+    "url": "https://www.snappr.com/customers/ppg-industries",
+    "pass": 1
+   },
+   {
+    "quote": "industrial and energy",
+    "url": "https://www.snappr.com/customers/ppg-industries",
+    "pass": 1
+   },
+   {
+    "quote": "Success Stories about Software and Services used by Snappr",
+    "url": "https://www.casestudies.com/customer/snappr",
+    "pass": 3
+   },
+   {
+    "quote": "Snappr - Customer Case Study",
+    "url": "https://www.casestudies.com/customer/snappr",
+    "pass": 3
+   },
+   {
+    "quote": ", a Australia based Automotive organisation with 65 employees and revenues of $12.0 million,",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/snappr",
+    "pass": 3
+   },
+   {
+    "quote": "Companies using Snappr are most concentrated in Automotive and Distribution, with adoption spanning over 21 industries.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/snappr",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Tokyo Interviews（東京インタビュー）のInstagramアカウントとは？",
+    "url": "https://askai.glarity.app/ja/search/Snappr%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Snappr:オンデマンドでプロの写真撮影とAIによる高品質な画像・動画制... — Snapprは、オンデマンド写真マーケットプレイスおよびAI駆動型ビジュアルコンテンツソリューションを提供するテクノロジー企業です。 数時間以内にプロカメラマンとマッチングし、個人ポートレートから大規模EC撮影まで幅広いニーズに対応します。",
+    "url": "https://moge.ai/ja/product/snappr",
+    "pass": 3
+   },
+   {
+    "quote": "On-demand photography, videography & AI visuals | Snappr — From photoshoots and videoshoots to AI imagery, Snappr brings all your content creation workflows into one seamless, scalable system. This is human creativity at the speed of AI.",
+    "url": "https://www.snappr.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Press | Snappr Photography — \"For occasions when a seflie or smartphone photo won’t suffice, San Diegans can now book a professional photographer with just a moment’s notice through online marketplace Snappr. Started around a year ago, Snappr matches people who need a photographer with an available professional in the area.",
+    "url": "https://www.snappr.com/press",
+    "pass": 3
+   },
+   {
+    "quote": "Snapprについて教えてください。 - 質問と回答 - Glarity — Mar 4, 2025 · 2016年に設立され、写真撮影を必要とする個人や企業に対して、プロフェッショナルなカメラマンを簡単に手配できるサービスを提供しています。 Snapprの特徴は以下の通りです： 1",
+    "url": "https://askai.glarity.app/ja/search/Snapprについて教えてください",
+    "pass": 3
+   },
+   {
+    "quote": "Big In Japan Snatches Snappr From The Grave For Better ... — Mar 4, 2010 · Today, one of the big players in this space, Big In Japan, is announcing the acquisition of another former player, Snappr, to beef up the offering.",
+    "url": "https://techcrunch.com/2010/03/04/big-in-japan-snappr/",
+    "pass": 3
+   },
+   {
+    "quote": "Book a Photographer Near You | Snappr On-Demand Photography ... — Snappr is the most popular on-demand photography network in the world. You let us know when, where and why, and we'll take care of the rest. Snappr will recommend the best-matched photographers in realtime.",
+    "url": "https://www.snappr.com/shoots",
+    "pass": 3
+   },
+   {
+    "quote": "Big In Japan Snatches Snappr From The Grave For Better ... — Mar 4, 2010 · Today, one of the big players in this space, Big In Japan, is announcing the acquisition of another former player, Snappr, to beef up the offering. Big In Japan is best known as the app...",
+    "url": "https://techcrunch.com/2010/03/04/big-in-japan-snappr/",
+    "pass": 3
+   },
+   {
+    "quote": "Snappr Customers — Enterprise Photography, Video & AI Content — Explore the Fortune 500 companies that have used Snappr for photography, videography, image editing, and AI-generated visual content — organized by the industries we serve.",
+    "url": "https://www.snappr.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "General Electric is a Snappr Customer — General Electric is among the Fortune 500 companies that have used Snappr for professional photography, videography, and AI visual content.",
+    "url": "https://www.snappr.com/customers/general-electric",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How Snappr Uses Software & Services — Explore case studies featuring Snappr as the customer — learn how vendors and partners helped Snappr solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/snappr",
+    "pass": 3
+   },
+   {
+    "quote": "List of Snappr Customers - Apps Run The World — Since 2010, our global team of researchers has been studying Snappr customers around the world, aggregating massive amounts of data points that form the basis of our forecast assumptions and perhaps the rise and fall of certain vendors and their products on a quarterly basis.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/snappr",
+    "pass": 3
+   },
+   {
+    "quote": "Snappr Marketplace UX & CRO | SaaS Case Study | Raw Studio — After securing a funding of $3M, they approached Raw.Studio to aid them in increasing conversions and user retention. Repositioning Snappr’s brand and transforming its experience. We targeted bottlenecks, repositioning the brand towards high-end customer & utilising conversion optimisation tactics.",
+    "url": "https://raw.studio/case-study/ux-saas-marketplace-photographer-snappr",
+    "pass": 3
+   },
+   {
+    "quote": "Snappr 2026 Company Profile: Valuation, Funding & Investors ...Snappr - 2026 Company Profile, Team, Funding & Competitors ...Snappr Revenue, Funding & Valuation - prospeo.ioSnappr – Estimated Net Worth, Growth & Competitor Overview – 2026Snappr: Funding, Team & Investors | Startup IntrosSnappr - Overview, News & Similar companies | ZoomInfo.comSnappr — Company Profile & Funding | Indexed.vc — Info",
+    "url": "https://pitchbook.com/profiles/company/161796-97",
+    "pass": 3
+   },
+   {
+    "quote": "Snappr - 2026 Company Profile, Team, Funding & Competitors ...Snappr Revenue, Funding & Valuation - prospeo.ioSnappr – Estimated Net Worth, Growth & Competitor Overview – 2026Snappr: Funding, Team & Investors | Startup IntrosSnappr - Overview, News & Similar companies | ZoomInfo.comSnappr — Company Profile & Funding | Indexed.vc — Mar 24, 2026 · Snappr is a series A company based in San Francisco ",
+    "url": "https://tracxn.com/d/companies/snappr/__GdMQRLZnZ1SgEOuevmaAoLAi3Xbb8LY0S9TQVmhhJ_Q",
+    "pass": 3
+   },
+   {
+    "quote": "Snappr Revenue, Funding & Valuation - prospeo.io — Founded in 2016, Snappr is the one-stop-shop for visual content creation. From on-demand photoshoots and editing to automating massive workflows – if your need is a single gallery of images or hundreds of thousands, Snappr can power it.",
+    "url": "https://prospeo.io/c/snappr-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Snappr – Estimated Net Worth, Growth & Competitor Overview – 2026 — Snappr’s team and funding include estimated revenue of $7.5M, team of around 300+ employees, based in San Francisco, helping drive core operations.",
+    "url": "https://compworth.com/company/snappr",
+    "pass": 3
+   },
+   {
+    "quote": "Snappr: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Founded in 2017 by Matt Schiller, a former web developer, pilot, McKinsey consultant, and medical doctor, Snappr emerged from the need to simplify and scale professional photography services.",
+    "url": "https://startupintros.com/orgs/snappr",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact us if you need a completed and verified list of companies using Snappr, including the breakdown by industry (21 Verticals), Geography (Region, Country, State, City), Company Size (Revenue, Employees, Asset) and related IT Decision Makers, Key Stakeholders, business and technology executives responsible for the software purchases.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/snappr",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/snappr-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Snappr Inc. (@snappr_com) / X Snappr is the one-stop shop for visual content creation, including the largest on-demand photographer and photo editing marketplace.",
+    "url": "https://x.com/snappr_com",
+    "pass": 3
+   },
+   {
+    "quote": "Heather Willison (@SnapPR) / X 202 followers · 0 following. Boulder, CO. Joined Jan 2008. See the latest conversations with @SnapPR",
+    "url": "https://x.com/snappr",
+    "pass": 3
+   },
+   {
+    "quote": "snappr_net (@snappr_net) / Posts / X snappr_net (@snappr_net) - Posts - Snappr is now a proud part of @shopsavvy | X (formerly Twitter)",
+    "url": "https://x.com/snappr_net",
+    "pass": 3
+   },
+   {
+    "quote": "Selling cars? The photos drive the deal. A Snappr client ... Snappr Inc. (@snappr_com). 79 views. Selling cars? The photos drive the deal. 🚗📷 A Snappr client saw their listings sell for 10% higher simply by upgrading their visuals. Snappr captures every car’s best angles and drives higher margins with visuals that convert. 📷https://t.co/yJeM1oWLXk",
+    "url": "https://x.com/snappr_com/status/2023902783129190467",
+    "pass": 3
+   },
+   {
+    "quote": "Snappr (@getsnappr) / Posts / X Sep 22, 2015 · Snappr (@getsnappr) - Posts - | X (formerly Twitter) getsnappr Joined: Sep 22, 2015 0Posts 0Following 0Followers",
+    "url": "https://x.com/getsnappr",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Snappr - LinkedIn Founded in 2016, Snappr is the one-stop-shop for visual content creation. From on-demand photoshoots and editing to automating massive workflows – if your need is a single gallery of images or ...",
+    "url": "https://www.linkedin.com/company/snappr",
+    "pass": 3
+   },
+   {
+    "quote": "Snappr - LinkedIn About Snappr Workflows helps enterprise companies automate tasks associated with producing visual content for their business.",
+    "url": "https://www.linkedin.com/products/snappr/",
+    "pass": 3
+   },
+   {
+    "quote": "Matt Schiller - Snappr Inc. | LinkedInSergio Rueda Liñares - VP of Operations @ Snappr | Stanford ...LinkedIn AI Photo Analyzer — Rate Your Profile Picture ...Snappr Workflows is changing photography management for ...Snappr - LinkedIn Aug 2, 2016 · About CEO of Snappr, the one-stop-shop for original visual content creation. Also these things:… Apr 22, 2019 · VP of Operations @ Snappr | Stanford G",
+    "url": "https://www.linkedin.com/in/mdschiller",
+    "pass": 3
+   },
+   {
+    "quote": "Sergio Rueda Liñares - VP of Operations @ Snappr | Stanford ...LinkedIn AI Photo Analyzer — Rate Your Profile Picture ...Snappr Workflows is changing photography management for ...Snappr - LinkedIn Apr 22, 2019 · VP of Operations @ Snappr | Stanford GSB | ex-Bain · Stanford MBA, E. Eng. MSc. · Experience: Snappr · Education: Stanford University Graduate School of Business · Location: San Francisco",
+    "url": "https://www.linkedin.com/in/sergio-rueda",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Snappr - FacebookLife at Snappr - FacebookSnappr On-Demand Photography - FacebookSnappr - Car buyers in 2026 make their decision before ...Snappr On-Demand Photography - FacebookSnappr On-Demand Photography - FacebookSnappr On-Demand Photography - Facebook Sep 29, 2026 · Say hello to Snappr Pro, our new membership for businesses that shoot photos and videos on a regular basis. With Pro, you get a ",
+    "url": "https://www.facebook.com/snappr.shoots/",
+    "pass": 3
+   },
+   {
+    "quote": "Life at Snappr - FacebookSnappr On-Demand Photography - FacebookSnappr - Car buyers in 2026 make their decision before ...Snappr On-Demand Photography - FacebookSnappr On-Demand Photography - FacebookSnappr On-Demand Photography - Facebook Feb 17, 2026 · At Snappr, we’re passionate about nurturing the next generation of creative talent! 📸 Today, we welcomed our very first class of Photo Editing In",
+    "url": "https://www.facebook.com/lifeatsnappr/",
+    "pass": 3
+   },
+   {
+    "quote": "Snappr On-Demand Photography - Facebook Snappr On-Demand Photography, New York. 12 followers. Snappr New York City is an on-demand professional photography service. We provide amazing...",
+    "url": "https://www.facebook.com/SnapprNewYorkCity/",
+    "pass": 3
+   },
+   {
+    "quote": "Snappr On-Demand Photography - Facebook Snappr On-Demand Photography, San Diego, California. Snappr San Diego is an on-demand professional photography service. We provide amazing pre-vetted...",
+    "url": "https://www.facebook.com/SnapprSanDiego/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.snappr.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snappr.com/use-cases/marketing-and-social-media",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snappr.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snappr.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snappr.com/customers/mohawk-industries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snappr.com/customers/ppg-industries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snappr.com/customers/walmart",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snappr.com/customers/amazon",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snappr.com/customers/alphabet",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snappr.com/customers/mckesson",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snappr.com/customers/costco",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snappr.com/customers/home-depot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snappr.com/customers/meta-platforms",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snappr.com/customers/target",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/5ca95f7a3be192f65a7b4e4f/6994a4e76ac037e60cf223dd_industrial-workforce-brand-photography-manufacturing.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://moge.ai/ja/product/snappr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://askai.glarity.app/ja/search/Snappr%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chigai-hikaku.com/?p=36920",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Japanese_snapper",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inaturalist.org/taxa/108418-Paracaesio-caerulea",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/snappr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/snappr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.appspace.com/resellers-alliances/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/161796-97",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/snappr/__GdMQRLZnZ1SgEOuevmaAoLAi3Xbb8LY0S9TQVmhhJ_Q",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://prospeo.io/c/snappr-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/snappr",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/snappr_com",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/snappr",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/snappr_net",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/snappr_com/status/2023902783129190467",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/snappr",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/snappr/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/mdschiller",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/sergio-rueda",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/snappr.shoots/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/lifeatsnappr/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SnapprNewYorkCity/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SnapprSanDiego/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/snappr_com",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/getsnappr",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Snappr 日本 導入",
+   "results": [
+    "https://moge.ai/ja/product/snappr",
+    "https://www.snappr.com/",
+    "https://www.snappr.com/press",
+    "https://askai.glarity.app/ja/search/Snapprについて教えてください",
+    "https://techcrunch.com/2010/03/04/big-in-japan-snappr/",
+    "https://www.sankei.com/pressrelease/prtimes/OAIY7M2V2BKYXEU4J2SYVG2FYQ/",
+    "https://www.abbyy.com/ja/customer-stories/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Snappr 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://chigai-hikaku.com/?p=36920",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://www.kkhashi.com/blogs/detail/145/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Snappr Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Japanese_snapper",
+    "https://www.snappr.com/",
+    "https://www.snappr.com/shoots",
+    "https://www.inaturalist.org/taxa/108418-Paracaesio-caerulea",
+    "https://techcrunch.com/2010/03/04/big-in-japan-snappr/",
+    "https://www.fws.gov/species/japanese-snapper-paracaesio-caerulea",
+    "https://app.snappr.com/en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Snappr manufacturing customer case study",
+   "results": [
+    "https://www.snappr.com/customers",
+    "https://www.snappr.com/customers/general-electric",
+    "https://www.casestudies.com/customer/snappr",
+    "https://www.appsruntheworld.com/customers-database/products/view/snappr",
+    "https://raw.studio/case-study/ux-saas-marketplace-photographer-snappr",
+    "https://www.appsruntheworld.com/customers-database/vendors/view/snappr",
+    "https://www.casestudies.com/company/starkmedia/case-study/snapper-customer-case-study"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Snappr white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://www.appspace.com/resellers-alliances/",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://www.canva.com/partners/reseller/",
+    "https://www.tenable.com/partners/channel-partner-program"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Snappr founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/161796-97",
+    "https://tracxn.com/d/companies/snappr/__GdMQRLZnZ1SgEOuevmaAoLAi3Xbb8LY0S9TQVmhhJ_Q",
+    "https://prospeo.io/c/snappr-revenue",
+    "https://compworth.com/company/snappr",
+    "https://startupintros.com/orgs/snappr",
+    "https://www.zoominfo.com/c/snappr-inc/404779363",
+    "https://indexed.vc/companies/snappr"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Snappr",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/akira_umapro",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://tales.note.com/",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Snappr",
+   "results": [
+    "https://x.com/snappr_com",
+    "https://x.com/snappr",
+    "https://x.com/snappr_net",
+    "https://x.com/snappr_com/status/2023902783129190467",
+    "https://x.com/snapprnews/status/2068115179402076623",
+    "https://x.com/elksnappr/status/2119461890711560629",
+    "https://x.com/elksnappr/status/2119382389415657621"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Snappr",
+   "results": [
+    "https://www.linkedin.com/company/snappr",
+    "https://www.linkedin.com/products/snappr/",
+    "https://www.linkedin.com/in/mdschiller",
+    "https://www.linkedin.com/in/sergio-rueda",
+    "https://www.linkedin.com/posts/snappr_snappr-photo-analyzer-activity-7115045299588382721-BnN6",
+    "https://www.linkedin.com/posts/snappr_snappr-workflows-is-changing-photography-activity-7131015412825133056-lVL6",
+    "https://www.linkedin.com/company/snappr-nl"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Snappr",
+   "results": [
+    "https://www.facebook.com/snappr.shoots/",
+    "https://www.facebook.com/lifeatsnappr/",
+    "https://www.facebook.com/SnapprNewYorkCity/",
+    "https://www.facebook.com/SnapprSanDiego/",
+    "https://www.facebook.com/SnapprSanFrancisco/",
+    "https://www.facebook.com/SnapprDallas/",
+    "https://www.facebook.com/snappr.shoots/posts/car-buyers-in-2026-make-their-decision-before-they-ever-shake-a-salespersons-han/1516529130516283/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Snappr note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/n10ae3b3f8acd",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://x.com/note_corp/status/2074734197949034502",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Snappr X 投稿",
+   "results": [
+    "https://x.com/snappr_com",
+    "https://x.com/getsnappr",
+    "https://www.snappr.com/",
+    "https://app.snappr.com/",
+    "https://www.cxgn.cn/snappr",
+    "https://x.com/snappr_net",
+    "https://photo-tools.tech/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部32頁・検索12回）"
+ }
+}

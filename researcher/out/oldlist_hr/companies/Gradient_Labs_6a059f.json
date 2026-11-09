@@ -1,0 +1,1276 @@
+{
+ "name": "Gradient Labs",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜NG",
+ "researched_at": "2026-11-09T18:36:54.946219+00:00",
+ "official_url": "https://gradient-labs.ai",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "1. Seed Round",
+    "value": "20-Aug-2024    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/530494-75",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Introducing Collaborate: Improve AI agents like code, wherever you work →",
+    "url": "https://gradient-labs.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "New customer onboarding",
+    "url": "https://gradient-labs.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "When an account falls into arrears, the AI agent contacts the borrower at the time they're most likely to respond, personalises each message from their account history, and secures a promise to pay.",
+    "url": "https://gradient-labs.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate business verification: the AI agent checks each document against your internal policy, requests anything missing from the customer, and verifies the business before routing it to onboarding.",
+    "url": "https://gradient-labs.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Each agent is purpose-built for distinct long-running processes in financial services, working together to automate your most complex customer operations.",
+    "url": "https://gradient-labs.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Provably compliant at every step",
+    "url": "https://gradient-labs.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-configured to comply with global regulations and consumer protection laws, with 20+ guardrails out of the box.",
+    "url": "https://gradient-labs.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Learns from real conversations, not just your help centre, and executes natural-language procedures that mirror your operations.",
+    "url": "https://gradient-labs.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-grade security",
+    "url": "https://gradient-labs.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Robust failover system across multiple cloud and LLM providers for uninterrupted service.",
+    "url": "https://gradient-labs.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Fully GDPR compliant for transparent data handling and protection.",
+    "url": "https://gradient-labs.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "SSO, comprehensive audit logs, and role-based permissions that scale flexibly.",
+    "url": "https://gradient-labs.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Built for US, UK, and EU rules: FCA Consumer Duty, CONC, Reg E and Reg Z, PSD2, GDPR, and the EU AI Act.",
+    "url": "https://gradient-labs.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Impressed customers,",
+    "url": "https://gradient-labs.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Gradient Labs’ AI solution delivered impressive results with minimal effort on our part.",
+    "url": "https://gradient-labs.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "The proof of concept made the decision clear, and the rollout was seamless. Seeing such a high CSAT (80%) and resolution rate (52%) validated our choice.",
+    "url": "https://gradient-labs.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "We sat down with Wise's Rohan Basu, Global Head of Operations, and Jergan Callebaut, Product Lead for Customer Support, to discuss how AI - and Wise’s partnership with Gradient Labs - is helping customers get faster, clearer support at scale.",
+    "url": "https://gradient-labs.ai/customers/wise",
+    "pass": 1
+   },
+   {
+    "quote": "Before we partnered, Zego encountered three critical challenges that were constraining their customer support operations and threatening their growth trajectory:",
+    "url": "https://gradient-labs.ai/customers/zego",
+    "pass": 1
+   },
+   {
+    "quote": "These emerged as Zego’s growth began to outpace its support infrastructure. Their reliance on human agents created a bottleneck that risked either compromising service quality or unsustainable increases in headcount to meet demand.",
+    "url": "https://gradient-labs.ai/customers/zego",
+    "pass": 1
+   },
+   {
+    "quote": "We began with a targeted proof of concept that allowed Zego to experience our platform's capabilities for themselves. We spent time understanding Zego’s unique business, the pain points in their existing customer journeys, and the most critical touchpoints for us to lean into together.",
+    "url": "https://gradient-labs.ai/customers/zego",
+    "pass": 1
+   },
+   {
+    "quote": "Importantly, Alex has also become central to the work of Zego’s human agents, and particularly in other areas across Zego’s operations ecosystem where processes have not yet been automated.",
+    "url": "https://gradient-labs.ai/customers/zego",
+    "pass": 1
+   },
+   {
+    "quote": "Alex can help Zego auto-generate procedures based on observed conversations between Zego customers and its human agents. Through this mechanism, Alex suggests the most impactful data points and actions required to create fully automated end-to-end process flows that solve the most pressing and effort-intensive customer issues.",
+    "url": "https://gradient-labs.ai/customers/zego",
+    "pass": 1
+   },
+   {
+    "quote": "In only a matter of weeks, we’ve tested and enabled Alex to manage and resolve more complex, data and action-oriented processes, allowing for greater levels of self-service and customer satisfaction.",
+    "url": "https://gradient-labs.ai/customers/zego",
+    "pass": 1
+   },
+   {
+    "quote": "Within just a few months, our partnership has delivered impressive and measurable outcomes.",
+    "url": "https://gradient-labs.ai/customers/zego",
+    "pass": 1
+   },
+   {
+    "quote": "Customer satisfaction rates have increased significantly from 61% to 77%, demonstrating the immediate impact of the improved experience.",
+    "url": "https://gradient-labs.ai/customers/zego",
+    "pass": 1
+   },
+   {
+    "quote": "Quickly improving AI performance",
+    "url": "https://gradient-labs.ai/customers/zego",
+    "pass": 1
+   },
+   {
+    "quote": "Digital claims reporting increased from approximately 37% in March to 50% by May, showing customers' preference for the new self-service options, even for complex use cases.",
+    "url": "https://gradient-labs.ai/customers/zego",
+    "pass": 1
+   },
+   {
+    "quote": "We’re able to provide customers with real-time updates (e.g. on their claims), reducing follow-up contacts and improving customer confidence in the process.",
+    "url": "https://gradient-labs.ai/customers/zego",
+    "pass": 1
+   },
+   {
+    "quote": "Plum, the award-winning financial app, empowers 2 million users in 10 markets to save, invest, and budget effortlessly. As Plum accelerates its growth across the EU, its primary support channel, Intercom chat, faced growing demands.",
+    "url": "https://gradient-labs.ai/customers/plum",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-product customer support",
+    "url": "https://gradient-labs.ai/customers/plum",
+    "pass": 1
+   },
+   {
+    "quote": "Gradient's AI solution delivered impressive results with minimal effort on our part. The proof of concept made the decision clear, and the rollout was seamless. Seeing such a high CSAT and resolution rate validated our choice.",
+    "url": "https://gradient-labs.ai/customers/plum",
+    "pass": 1
+   },
+   {
+    "quote": "It was critical for Plum to not take any risks with customer experience or any regulatory requirements. We launched on a small scale first, allowing Plum to review every single conversation. This process helped establish an internal quality score before rolling out the product more widely. Setting up the agent on Intercom took 30 minutes without any engineering effort.",
+    "url": "https://gradient-labs.ai/customers/plum",
+    "pass": 1
+   },
+   {
+    "quote": "Gradient’s AI Agent matched human CSAT performance, and >2× the previous AI agent’s score.",
+    "url": "https://gradient-labs.ai/customers/plum",
+    "pass": 1
+   },
+   {
+    "quote": "Gradient Labs enabled Plum to maintain human-level support whilst increasing volume in a highly regulated environment. The 30-minute setup with immediate results proves advanced AI support can be deployed quickly across complex financial services.",
+    "url": "https://gradient-labs.ai/customers/plum",
+    "pass": 1
+   },
+   {
+    "quote": "Yonder, the UK fintech, uses Gradient Labs' frontline and back-office agents to resolve disputes 150% faster, with an 80% one-touch rate and CSAT over 90%.",
+    "url": "https://gradient-labs.ai/customers/yonder",
+    "pass": 1
+   },
+   {
+    "quote": "Hitting the ceiling of frontline AI automation",
+    "url": "https://gradient-labs.ai/customers/yonder",
+    "pass": 1
+   },
+   {
+    "quote": "Prior to Gradient Labs, Yonder had attempted some of this deeper automation with their disputes process, but the team had hit the ceiling of what was possible with a single agent that couldn't retain context across frontline and back office systems. With Gradient Labs' AI disputes agent able to bridge this gap, Yonder finally saw the opportunity to fully automate dispute investigations end-to-end.",
+    "url": "https://gradient-labs.ai/customers/yonder",
+    "pass": 1
+   },
+   {
+    "quote": "The game changer for us is that Gradient Labs' frontline and back office agents talk to each other and keep the full context of a case. If evidence is missing, the customer hears about it in the moment.",
+    "url": "https://gradient-labs.ai/customers/yonder",
+    "pass": 1
+   },
+   {
+    "quote": "From frontline support to AI disputes automation",
+    "url": "https://gradient-labs.ai/customers/yonder",
+    "pass": 1
+   },
+   {
+    "quote": "to call customers in arrears and communicate payment deadlines, secure commitments, and handle sensitive conversations with empathy. The AI agent proved itself by handling complex calls without latency, maintaining a natural tone, and adhering to strict compliance standards with the same guardrails baked into the frontline agents already handling chat, email, and inbound calls.",
+    "url": "https://gradient-labs.ai/customers/yonder",
+    "pass": 1
+   },
+   {
+    "quote": "With AI customer service agents deployed on voice, email, and chat, and outbound collections calls operating at scale each week, most teams turn their focus to a backlog of back-office use cases. Yonder's team knows that while most customer support automation programmes tend to peak at 60–65% resolution, the most significant cost savings occur past that plateau.",
+    "url": "https://gradient-labs.ai/customers/yonder",
+    "pass": 1
+   },
+   {
+    "quote": "The 40% of customer operations work that stays manual is often blocked by cases that go beyond frontline conversations and dig into back-office systems. Horizontal agents aren't built for the back-office work beneath the ticket. Gradient Labs' AI agents are: they work back-office cases, communicate with the frontline agents, and share context across conversations.",
+    "url": "https://gradient-labs.ai/customers/yonder",
+    "pass": 1
+   },
+   {
+    "quote": "Prior to Gradient Labs, Yonder had attempted some disputes automation with AI, but the team had hit the ceiling of what was possible with a single agent that couldn't retain context across frontline and back office systems. Yonder's workflow after that initial optimisation was as follows:",
+    "url": "https://gradient-labs.ai/customers/yonder",
+    "pass": 1
+   },
+   {
+    "quote": "Only after days of back and forth was a case fully evidenced and ready for a human to decide and submit. While already an improvement on the previous process, the target turnaround time was 5 days, but the cycle averaged 5–7 days, stretching to 7–9 during volume spikes.",
+    "url": "https://gradient-labs.ai/customers/yonder",
+    "pass": 1
+   },
+   {
+    "quote": "operates on the back office layer that its frontline agent doesn't touch, but the two agents can talk to each other, retain context, and act reliably and independently without human oversight. Yonder's team immediately saw how this capability could transform their disputes automation workflow.",
+    "url": "https://gradient-labs.ai/customers/yonder",
+    "pass": 1
+   },
+   {
+    "quote": ": cases that took 5-7 days now close in 2. And this timeline holds steady even through volume spikes, which used to cause a 33% increase in processing time. Most importantly, since implementing this new workflow, Yonder has seen customer satisfaction rates climb. Their CSAT rating for disputes has held steady at",
+    "url": "https://gradient-labs.ai/customers/yonder",
+    "pass": 1
+   },
+   {
+    "quote": "85% of Yonder's collections book is processed by Gradient Labs' lending agent.",
+    "url": "https://gradient-labs.ai/customers/yonder",
+    "pass": 1
+   },
+   {
+    "quote": "collections processed",
+    "url": "https://gradient-labs.ai/customers/yonder",
+    "pass": 1
+   },
+   {
+    "quote": "Yonder set out to buy a proven AI foundation rather than spend years building one, and in that amount of time, they've turned that decision into one of the most comprehensive AI customer operations programmes in fintech. Gradient Labs' AI agents now handle inbound chat and email at 80–90% CSAT, answer 100% of inbound calls, and reach 85% of the collections book each week.",
+    "url": "https://gradient-labs.ai/customers/yonder",
+    "pass": 1
+   },
+   {
+    "quote": "“We truly think that if people have a problem and you solve it, that builds brand loyalty. That's why customer resolution is so important. With Gradient Labs, we have an AI agent that's actually resolving problems, boosting our CSAT rating, and absorbing growth without us having to scale the team. I’m confident that with this partnership, we can get to 100% automation.”",
+    "url": "https://gradient-labs.ai/customers/pockit",
+    "pass": 1
+   },
+   {
+    "quote": "The setup process took about three weeks to go live, which included integration work, knowledge ingestion, intent generation, and testing. Notably, the customer operations team had limited engineering resources, but it was still possible to launch quickly because of close collaboration with Gradient Labs’ team and case prioritisation.",
+    "url": "https://gradient-labs.ai/customers/pockit",
+    "pass": 1
+   },
+   {
+    "quote": "Gradient Labs’ built-in guardrails and extensive familiarity with financial services regulations meant that early tests quickly proved to be safe, reliable, and effective, which made it possible to launch with real customers in a timely manner.",
+    "url": "https://gradient-labs.ai/customers/pockit",
+    "pass": 1
+   },
+   {
+    "quote": "While some companies achieve this benchmark purely by having the AI agent handle the most common customer queries, maximising efficiency at high-volume points, this approach wouldn’t work for Pockit.",
+    "url": "https://gradient-labs.ai/customers/pockit",
+    "pass": 1
+   },
+   {
+    "quote": "So to achieve a high rate of automation, Pockit knew it would need to automate the full breadth of its customer support queries as quickly as possible, which meant everything from pending transfer questions, requests for account review timelines, reporting unauthorised payments, refunds for pending pre-authorisation holds, physical cards missing, and much more.",
+    "url": "https://gradient-labs.ai/customers/pockit",
+    "pass": 1
+   },
+   {
+    "quote": "During this testing process, the Pockit team also put long-term processes in place to ensure the knowledge base would remain current and updated, and that regular quality checks would be performed.",
+    "url": "https://gradient-labs.ai/customers/pockit",
+    "pass": 1
+   },
+   {
+    "quote": "Gradient Labs’ AI agent demonstrated consistent behaviour across chat and email and was unfailing in its regulatory compliance, something possible because of the finance-specific guardrails that came pre-baked into the agent.",
+    "url": "https://gradient-labs.ai/customers/pockit",
+    "pass": 1
+   },
+   {
+    "quote": "Once live, Pockit prioritised rolling out new intents and use case types as quickly as possible. In just a few months, the AI agent was able to handle nearly all inbound queries on two channels, chat and email.",
+    "url": "https://gradient-labs.ai/customers/pockit",
+    "pass": 1
+   },
+   {
+    "quote": "This indicates that unlike the legacy chatbot, the Gradient Labs’ AI agent was able to make customers feel that their problems were truly addressed, across a wide range of topics, while staying compliant in a highly-regulated space.",
+    "url": "https://gradient-labs.ai/customers/pockit",
+    "pass": 1
+   },
+   {
+    "quote": "With Ask a Human, the new flow reduces the number of human touchpoints to one, speeding up the process. The new flow keeps the human in the loop and has the AI agent do most of the heavy lifting. It looks like this:",
+    "url": "https://gradient-labs.ai/customers/pockit",
+    "pass": 1
+   },
+   {
+    "quote": "With Gradient Labs’ AI voice agent, SteadyPay scaled outbound collections calls to 33,000 per month, without compromising on compliance standards.",
+    "url": "https://gradient-labs.ai/customers/steadypay",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "When an account falls into arrears, the AI agent contacts the borrower at the time they're most likely to respond, personalises each message from their account history, and secures a promise to pay.",
+    "url": "https://gradient-labs.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We've used plenty of AI tools, and nothing else has come close to that, especially for disputes. It helps that Gradient Labs genuinely knows financial services; we're working with people who understand disputes as well as we do. Cases that took us the best part of a week to decide now take a day. Better for our customers, and better for our team.",
+    "url": "https://gradient-labs.ai/customers/yonder",
+    "pass": 1
+   },
+   {
+    "quote": "AI lending agent for accounts in arrears",
+    "url": "https://gradient-labs.ai/customers/yonder",
+    "pass": 1
+   },
+   {
+    "quote": "to call customers in arrears and communicate payment deadlines, secure commitments, and handle sensitive conversations with empathy. The AI agent proved itself by handling complex calls without latency, maintaining a natural tone, and adhering to strict compliance standards with the same guardrails baked into the frontline agents already handling chat, email, and inbound calls.",
+    "url": "https://gradient-labs.ai/customers/yonder",
+    "pass": 1
+   },
+   {
+    "quote": "80% of disputes arrive fully evidenced and ready to resolve.",
+    "url": "https://gradient-labs.ai/customers/yonder",
+    "pass": 1
+   },
+   {
+    "quote": "Danai Antoniou, Co-Founder at Gradient Labs, building agents and hitting $1m ARR in 4 months!",
+    "url": "https://gradient-labs.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "A brief conversation with our talent acquisition team to get to know you and your background.",
+    "url": "https://gradient-labs.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Founded in 2023 by former Monzo employees Dimitri Masin, Neal Lathia, and Danai Antoniou, Gradient Labs reports revenue grew 900% over the past year and that its agents now reach more than 32 million end users. Its customer roster includes Wise, Monzo, Zego, and Pockit in Europe, plus US names Current, Stash, and Rho.",
+    "url": "https://www.accountsrecovery.net/2026/06/03/gradient-labs-raises-series-a-to-26-million-as-ai-agents-push-into-collections-workflows/",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/530494-75",
+    "pass": 3
+   },
+   {
+    "quote": "Gradient Labs (Business/Productivity Software) has 46 total employees.",
+    "url": "https://pitchbook.com/profiles/company/530494-75",
+    "pass": 3
+   },
+   {
+    "quote": "What is Gradient Labs (Business/Productivity Software)’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/530494-75",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Gradient Labs (Business/Productivity Software) is",
+    "url": "https://pitchbook.com/profiles/company/530494-75",
+    "pass": 3
+   },
+   {
+    "quote": "ローンチから4ヶ月でARR（年間経常収益）$1Mに到達したとCEOのDimitri Masin氏が公表しており、2025年7月にはRedpoint Venturesが主導するシリーズAラウンドで$13Mを調達、累計調達額は約$16.6Mに達しています",
+    "url": "https://note.com/gen_ai/n/nafebdf2ad6c9",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Delight customers with natural conversations on email, text, and voice, achieving higher CSAT than human teams.",
+    "url": "https://gradient-labs.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Alex speaks to customers 24/7 across live chat and email, enabling them to get help when they need it most, no matter the time of day.",
+    "url": "https://gradient-labs.ai/customers/zego",
+    "pass": 1
+   },
+   {
+    "quote": "The success of chat and email encouraged Yonder's team to expand automation to new channels. Yonder implemented Gradient Labs'",
+    "url": "https://gradient-labs.ai/customers/yonder",
+    "pass": 1
+   },
+   {
+    "quote": "to call customers in arrears and communicate payment deadlines, secure commitments, and handle sensitive conversations with empathy. The AI agent proved itself by handling complex calls without latency, maintaining a natural tone, and adhering to strict compliance standards with the same guardrails baked into the frontline agents already handling chat, email, and inbound calls.",
+    "url": "https://gradient-labs.ai/customers/yonder",
+    "pass": 1
+   },
+   {
+    "quote": "With AI customer service agents deployed on voice, email, and chat, and outbound collections calls operating at scale each week, most teams turn their focus to a backlog of back-office use cases. Yonder's team knows that while most customer support automation programmes tend to peak at 60–65% resolution, the most significant cost savings occur past that plateau.",
+    "url": "https://gradient-labs.ai/customers/yonder",
+    "pass": 1
+   },
+   {
+    "quote": "Yonder set out to buy a proven AI foundation rather than spend years building one, and in that amount of time, they've turned that decision into one of the most comprehensive AI customer operations programmes in fintech. Gradient Labs' AI agents now handle inbound chat and email at 80–90% CSAT, answer 100% of inbound calls, and reach 85% of the collections book each week.",
+    "url": "https://gradient-labs.ai/customers/yonder",
+    "pass": 1
+   },
+   {
+    "quote": "Gradient Labs’ AI agent demonstrated consistent behaviour across chat and email and was unfailing in its regulatory compliance, something possible because of the finance-specific guardrails that came pre-baked into the agent.",
+    "url": "https://gradient-labs.ai/customers/pockit",
+    "pass": 1
+   },
+   {
+    "quote": "Once live, Pockit prioritised rolling out new intents and use case types as quickly as possible. In just a few months, the AI agent was able to handle nearly all inbound queries on two channels, chat and email.",
+    "url": "https://gradient-labs.ai/customers/pockit",
+    "pass": 1
+   },
+   {
+    "quote": "Pockit saw a jump in CSAT rates from deploying the AI agent to handle inbound chat and email.",
+    "url": "https://gradient-labs.ai/customers/pockit",
+    "pass": 1
+   },
+   {
+    "quote": "These customers, who were considered lapsed or “cold,” were recategorised as engaged, as they had reached out proactively after seeing the voicemail or missed call and could confirm awareness of their loan balance and payment expectations. In one month, SteadyPay saw a",
+    "url": "https://gradient-labs.ai/customers/steadypay",
+    "pass": 1
+   },
+   {
+    "quote": "SteadyPay uses Gradient Labs’ AI voice agent to call customers with loan balances who haven’t responded to, or have missed, written communication via email or text.",
+    "url": "https://gradient-labs.ai/customers/steadypay",
+    "pass": 1
+   },
+   {
+    "quote": "Please enter your username or email address to reset your password.",
+    "url": "https://www.accountsrecovery.net/2026/06/03/gradient-labs-raises-series-a-to-26-million-as-ai-agents-push-into-collections-workflows/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/530494-75",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by financial innovators",
+    "url": "https://gradient-labs.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Digital banking case study",
+    "url": "https://gradient-labs.ai/customers/wise",
+    "pass": 1
+   },
+   {
+    "quote": "Digital banking case study",
+    "url": "https://gradient-labs.ai/customers/zego",
+    "pass": 1
+   },
+   {
+    "quote": "Digital banking case study",
+    "url": "https://gradient-labs.ai/customers/plum",
+    "pass": 1
+   },
+   {
+    "quote": "Digital banking case study",
+    "url": "https://gradient-labs.ai/customers/yonder",
+    "pass": 1
+   },
+   {
+    "quote": "Digital banking case study",
+    "url": "https://gradient-labs.ai/customers/pockit",
+    "pass": 1
+   },
+   {
+    "quote": "Digital banking case study",
+    "url": "https://gradient-labs.ai/customers/steadypay",
+    "pass": 1
+   },
+   {
+    "quote": "Digital banking case study",
+    "url": "https://gradient-labs.ai/customers/morse",
+    "pass": 1
+   },
+   {
+    "quote": "13 fintech operators to watch in Europe",
+    "url": "https://gradient-labs.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Digital banking case study",
+    "url": "https://gradient-labs.ai/customers/digital-bank-at-scale",
+    "pass": 1
+   },
+   {
+    "quote": "Success Stories about Software and Services used by Gradient Labs",
+    "url": "https://www.casestudies.com/customer/gradient-labs",
+    "pass": 3
+   },
+   {
+    "quote": "In the 'Generative AI Case Study Collection,' we provide detailed explanations of successful generative AI startups in the U.S. under our 'Winning Horses' series. We publish articles at a pace of two per week. Each week, one article is free, and the other is a paid article. (This article is a paid article.)",
+    "url": "https://note.com/gen_ai/n/nafebdf2ad6c9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The individual membership provides access to articles only, while the corporate membership includes articles, detailed explanatory slides, and a company list (spreadsheet). Please see here for details on the 'Winning Horses' series of the Generative AI Case Study Collection, including the differences between the individual and corporate plans.",
+    "url": "https://note.com/gen_ai/n/nafebdf2ad6c9?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "英語・日本語・スペイン語など複数言語での対話",
+    "url": "https://ainow.jp/gradient-labs-ai-account-manager-launch/",
+    "pass": 3
+   },
+   {
+    "quote": "日本では金融庁のガイドライン、米国ではFDICやOCCの監督下に置かれており、AIによる金融商品の勧誘・アドバイスには特別な対応が必要です",
+    "url": "https://ainow.jp/gradient-labs-ai-account-manager-launch/",
+    "pass": 3
+   },
+   {
+    "quote": "A. 技術的には可能ですが、日本語対応の品質・金融庁のガイドライン対応・既存システムとの統合という3点の確認が必要です",
+    "url": "https://ainow.jp/gradient-labs-ai-account-manager-launch/",
+    "pass": 3
+   },
+   {
+    "quote": "現時点では米国市場を主なターゲットとしており、日本展開の詳細は公式に確認することをおすすめします",
+    "url": "https://ainow.jp/gradient-labs-ai-account-manager-launch/",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 | Gradient Labs | Claude by Anthropic",
+    "url": "https://claude.com/ja/customers/gradient-labs",
+    "pass": 3
+   },
+   {
+    "quote": "これは金融業界における最大規模の顧客対応AIエージェント導入事例の一つとされています",
+    "url": "https://note.com/gen_ai/n/nafebdf2ad6c9",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Gradient Labs、銀行顧客向けにAIアカウントマネージャーを提供開始 — Apr 2, 2026 · 低遅延・高可用性の設計 金融系サービスでは「遅い」「落ちる」は致命的です。 Gradient Labsは低レイテンシーでの応答を設計上の優先事項としており、顧客が入力してから回答が返るまでのタイムラグを最小化しています。",
+    "url": "https://ainow.jp/gradient-labs-ai-account-manager-launch/",
+    "pass": 3
+   },
+   {
+    "quote": "Gradient Labs、全銀行顧客に AI 口座担当者を提供 | OpenAI — Apr 1, 2026 · Gradient Labs の売上は過去1年で10倍超に拡大し、インバウンドサポートからアウトバウンド、さらにバックオフィス業務へと展開しています。 今後を見据え、Gradient Labsは、やり取りをまたいで文脈を保持できるシステムに注力しています。",
+    "url": "https://openai.com/ja-JP/index/gradient-labs/",
+    "pass": 3
+   },
+   {
+    "quote": "Gradient Labsレビュー (2026年):金融特化型AIエージェントは本当に価... — Jun 25, 2026 · Ottoのアーキテクチャ、解決率、成果報酬型の料金体系、そしてこの金融特化型AIサポートエージェントが本当に向いているのは誰かを解説するGradient Labsの実践レビュー。",
+    "url": "https://www.eesel.ai/ja/blog/gradient-labs-review",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 | Gradient Labs | Claude by Anthropic — Gradient Labs が Claude AI を使用して金融機関のカスタマーサポート自動化で80〜90% の解決率を達成。 銀行・金融における規制コンプライアンスを維持しながら複雑な問い合わせ解決を変革した事例をご紹介します。",
+    "url": "https://claude.com/ja/customers/gradient-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Gradient Labsが銀行の顧客対応をAIエージェント化。自社のサポート部... — Apr 2, 2026 · Gradient Labsが最新のGPTモデルを活用し、銀行のカスタマーサポート業務を担うAIアカウントマネージャーを発表した。 口座の問い合わせから取引の説明まで、従来なら熟練のオペレーターが対応してきた業務をAIエージェントが直接担う。",
+    "url": "https://intechnews.intwk.co.jp/posts/2026-04-02-daily-news/",
+    "pass": 3
+   },
+   {
+    "quote": "Gradient Labs | AI for Customer Operations in Finance — Gradient Labs builds AI agents for financial services. Automate disputes, KYC, lending, customer support, and the back-office work in between. Book a demo.",
+    "url": "https://gradient-labs.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "GradientLabs — A software laboratory in motion — A laboratory for software in ascent. GradientLabs is an umbrella for focused, deliberate ventures in software. Each product is a step along the gradient — chosen because it points, locally, toward the steepest improvement we can imagine.",
+    "url": "https://gradientlabs.us/",
+    "pass": 3
+   },
+   {
+    "quote": "Gradient Labs — We build scalable, custom software tailored to your business needs and growth plans. We provide expert guidance to optimise your tech stack and drive digital transformation. © Gradient Labs LLC. All rights reserved.",
+    "url": "https://gradientlabs.llc/",
+    "pass": 3
+   },
+   {
+    "quote": "Gradient Labs、全銀行顧客に AI 口座担当者を提供 | OpenAI — Apr 1, 2026 · Gradient Labs は GPT-4.1 と GPT-5.4 mini、nano を活用し、低レイテンシかつ高信頼で銀行サポート業務フローを自動化する AI エージェントを提供しています。",
+    "url": "https://openai.com/ja-JP/index/gradient-labs/",
+    "pass": 3
+   },
+   {
+    "quote": "Gradient Labs | Intelligence for the physical world — Gradient Labs builds applied AI, precision sensing, terrain intelligence, and field systems for snow operations, construction, and machine perception.",
+    "url": "https://gradientlabsusa.com/",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies Featuring Gradient Labs as the Customer — Explore case studies featuring Gradient Labs as the customer — learn how vendors and partners helped Gradient Labs solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/gradient-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Gradient Labs B2B Case Studies & Customer Successes — See how Gradient Labs solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/gradient-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Gradient Labs gives every bank customer an AI account manager — Apr 1, 2026 · Gradient Labs uses GPT‑4.1 and GPT‑5.4 mini and nano to run complex financial support workflows with high accuracy and low latency. In banking, resolving a customer issue is rarely simple. Cases like fraud or blocked payments require strict adherence to complex procedures across multiple teams.",
+    "url": "https://openai.com/index/gradient-labs/",
+    "pass": 3
+   },
+   {
+    "quote": "AI Use Cases for Customer Operations | Gradient Labs — Explore our use case library to discover what AI agents can achieve across the entire lifecycle of customer support and operations.",
+    "url": "https://gradient-labs.ai/use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "3 Gradient Labs Case Studies, Success Stories, & Customer ... — Discover how other companies use Gradient Labs, get inspired, and find ways to improve your business.",
+    "url": "https://www.featuredcustomers.com/vendor/gradient-labs/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Gradient Labs Funding History: $44.0M | Indexed.vc — Gradient Labs was founded in 2023, is headquartered in London, United Kingdom, lists 11–50 employees, and has $44.0M in recorded funding across 6 rounds.",
+    "url": "https://indexed.vc/companies/gradient-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Gradient Labs Raises Series A to $26 Million as AI Agents ... — Jun 3, 2026 · Founded in 2023 by former Monzo employees Dimitri Masin, Neal Lathia, and Danai Antoniou, Gradient Labs reports revenue grew 900% over the past year and that its agents now reach more than 32 million end users.",
+    "url": "https://www.accountsrecovery.net/2026/06/03/gradient-labs-raises-series-a-to-26-million-as-ai-agents-push-into-collections-workflows/",
+    "pass": 3
+   },
+   {
+    "quote": "Gradient Labs — Company Profile, Funding & Investors — Gradient Labs company profile with $16.64M raised across 2 funding rounds, HQ in London, United Kingdom, founded 2023. Explore its acquisitions, funding rounds, investors, key people and contacts on Acquirezy — updated 2026.",
+    "url": "https://acquirezy.com/organization/gradient-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Gradient Labs (Business/Productivity Software) - PitchBookGradient Labs - 2026 Company Profile, Team, Funding ... - TracxnGradient Labs - Crunchbase Company Profile & FundingGradient Labs - Overview, News & Similar companies - ZoomInfo — Aug 20, 2024 · Information on valuation, funding, cap tables, investors, and executives for Gradient Labs (Business/Productivity Software). Use the PitchBook Plat",
+    "url": "https://pitchbook.com/profiles/company/530494-75",
+    "pass": 3
+   },
+   {
+    "quote": "Gradient Labs - 2026 Company Profile, Team, Funding ... - Tracxn — Feb 21, 2026 · Explore Gradient Labs' in-depth company profile, including funding details, key investors, leadership, and competitors.",
+    "url": "https://tracxn.com/d/companies/gradientlabs/__p0tDwQFFcE2UwIFpKWUU80irFAaLI5GyKQbBa76GDsQ",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Gradient Labs: An AI Agent That 'Fully Automates' Customer ... In the field of generative AI, a startup that is focusing on customer support in the financial industry—such as banking and insurance—and is poised to significantly transform how these operations are conducted is Gradient Labs, a provider of AI agents for customer support automation.",
+    "url": "https://note.com/gen_ai/n/nafebdf2ad6c9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Gradient Labs: 金融業界の顧客対応を“丸ごと自動化”するAIエージェン... Jul 14, 2026 · 生成AIの分野でいま、銀行や保険といった金融業界の顧客対応を的に絞り、その業務のあり方を大きく変えようとしているスタートアップが、顧客対応自動化AIエージェントを提供するGradient Labs（グラディエント・ラボ）です。",
+    "url": "https://note.com/gen_ai/n/nafebdf2ad6c9",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Gradient Labs: An AI Agent That 'Fully Automates' Customer Support in the Financial Industry｜生成AI事例集",
+    "url": "https://note.com/gen_ai/n/nafebdf2ad6c9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Gradient Labs: An AI Agent That 'Fully Automates' Customer Support in the Financial Industry",
+    "url": "https://note.com/gen_ai/n/nafebdf2ad6c9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In the field of generative AI, a startup that is focusing on customer support in the financial industry—such as banking and insurance—and is poised to significantly transform how these operations are conducted is Gradient Labs, a provider of AI agents for customer support automation. The company develops AI agents that automatically handle inquiries for financial service providers, including banks",
+    "url": "https://note.com/gen_ai/n/nafebdf2ad6c9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in London in 2023 by three individuals from the prominent British digital bank Monzo, the company officially launched its AI agent in November 2024 after 14 months of private development. CEO Dimitri Masin announced that the company reached $1M in ARR (Annual Recurring Revenue) within four months of launch, and in July 2025, it raised $13M in a Series A round led by Redpoint Ventures, brin",
+    "url": "https://note.com/gen_ai/n/nafebdf2ad6c9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Gradient Labs' AI agents are already in production at a major European bank and key fintech companies such as Plum, Zego, Lendable, Yonder, Nala, Sling Money, and SteadyPay. The company reports that one European digital bank achieved an 84% CSAT (Customer Satisfaction Score) and a 98% QA (Quality Assurance) score, maintaining quality that exceeds human support teams while serving over 500,000 cust",
+    "url": "https://note.com/gen_ai/n/nafebdf2ad6c9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In this article, we will explain in detail why Gradient Labs has come to be seen as a leader in 'AI agents for financial customer support' in such a short period, through an examination of its specific mechanisms, unique features, case studies of companies that have adopted it, and its strengths compared to competitors.",
+    "url": "https://note.com/gen_ai/n/nafebdf2ad6c9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "https://gradient-labs.ai/about",
+    "url": "https://note.com/gen_ai/n/nafebdf2ad6c9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "https://gradient-labs.ai/blog/series-a-announcement",
+    "url": "https://note.com/gen_ai/n/nafebdf2ad6c9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Gradient Labs: 金融業界の顧客対応を“丸ごと自動化”するAIエージェント｜生成AI事例集",
+    "url": "https://note.com/gen_ai/n/nafebdf2ad6c9",
+    "pass": 3
+   },
+   {
+    "quote": "Gradient Labs: 金融業界の顧客対応を“丸ごと自動化”するAIエージェント",
+    "url": "https://note.com/gen_ai/n/nafebdf2ad6c9",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIの分野でいま、銀行や保険といった金融業界の顧客対応を的に絞り、その業務のあり方を大きく変えようとしているスタートアップが、顧客対応自動化AIエージェントを提供するGradient Labs（グラディエント・ラボ）です。同社は、銀行、保険、融資、決済といった金融サービス事業者の問い合わせ対応を、チャット、メール、電話にまたがって自動で処理するAIエージェントを開発しています。一般的なAIチャットボットでは手が届かない、異議申し立て、不正利用調査、返済交渉といった手間のかかる手続き業務まで担えるのが最大の特長です。",
+    "url": "https://note.com/gen_ai/n/nafebdf2ad6c9",
+    "pass": 3
+   },
+   {
+    "quote": "2023年、英国を代表するデジタル銀行Monzo出身の3名がロンドンで創業した同社は、14ヶ月の非公開での開発期間を経て、2024年11月にAIエージェントを正式にローンチしました。ローンチから4ヶ月でARR（年間経常収益）$1Mに到達したとCEOのDimitri Masin氏が公表しており、2025年7月にはRedpoint Venturesが主導するシリーズAラウンドで$13Mを調達、累計調達額は約$16.6Mに達しています。同年10月には米国市場への進出を発表し、ニューヨークにも拠点を構えました。",
+    "url": "https://note.com/gen_ai/n/nafebdf2ad6c9",
+    "pass": 3
+   },
+   {
+    "quote": "Gradient LabsのAIエージェントは既に、欧州のある大手銀行、Plum、Zego、Lendable、Yonder、Nala、Sling Money、SteadyPayといった主要フィンテック企業で本番運用されています。ある欧州のデジタル銀行ではCSAT（顧客満足度スコア）84%、QA（品質保証）スコア98%を達成し、50万人を超える顧客に対応しながら、人間のサポートチームを上回る品質を維持していると同社は公表しています。これは金融業界における最大規模の顧客対応AIエージェント導入事例の一つとされています。",
+    "url": "https://note.com/gen_ai/n/nafebdf2ad6c9",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、Gradient Labsの具体的な仕組みや独自機能、導入企業の事例、そして競合各社と比べたときの強みを通じて、なぜ同社がこれほど短期間で「金融の顧客対応に強いAIエージェント」のリーダー格と目されるようになったのかを詳しく解説します。",
+    "url": "https://note.com/gen_ai/n/nafebdf2ad6c9",
+    "pass": 3
+   },
+   {
+    "quote": "https://gradient-labs.ai/about",
+    "url": "https://note.com/gen_ai/n/nafebdf2ad6c9",
+    "pass": 3
+   },
+   {
+    "quote": "https://gradient-labs.ai/blog/series-a-announcement",
+    "url": "https://note.com/gen_ai/n/nafebdf2ad6c9",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Gradient Labs (@GradientLabsAI) / Posts / X Apr 5, 2023 · As the only AI agent purpose-built for financial services, Gradient Labs is helping Current deliver the kind of 24/7 support that is essential for building and maintaining customer trust.",
+    "url": "https://x.com/GradientLabsAI",
+    "pass": 3
+   },
+   {
+    "quote": "Gradient Labs on X: \"Did you catch us on @AnthropicAI's ... Jul 17, 2026 · Gradient Labs on X: \"Did you catch us on @AnthropicAI's website? 🎙️ We’re featured in a customer story about how our team uses Claude to automate customer operations for banks, fintechs, lenders, and more. Most AI support tools stop at the simple queries.",
+    "url": "https://x.com/GradientLabsAI/status/2078094872037163259",
+    "pass": 3
+   },
+   {
+    "quote": "Reposts by Gradient Labs (@GradientLabsAI) / X Ex-Monzo team's Gradient Labs doubles Series A to $26M as AI agents take over financial operations...",
+    "url": "https://x.com/GradientLabsAI/reposts",
+    "pass": 3
+   },
+   {
+    "quote": "Gradient Labs on X: \"View our open roles: https://t.co ... Jul 1, 2026 · That’s where our team comes in. 💪 Our AI teams guide and advise our customers throughout the entire journey, from scoping first use cases and passing legal and infosec, through Show more 11 6363 Gradient Labs @GradientLabsAI View our open roles: Gradient Labs | Careers From gradient-labs.ai 1:00 PM · Jul 1, 2026 · 26 Views",
+    "url": "https://x.com/GradientLabsAI/status/2072304212201869567",
+    "pass": 3
+   },
+   {
+    "quote": "Gradient Labs (@GradientLabsAI) / Posts / X Apr 5, 2023 · For the next two days, our CTO and co-founder @neal_lathia and our Head of Marketing Emma Martin will take over the Gradient Labs account to bring you real insights and observations gained on the go at Money20/20.",
+    "url": "https://x.com/GradientLabsAI",
+    "pass": 3
+   },
+   {
+    "quote": "@gradientlabs | X The latest posts from @gradientlabs",
+    "url": "https://x.com/gradientlabs",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Gradient Labs - LinkedIn AI-native customer operations for financial services. | Gradient Labs is the conversational AI platform transforming customer operations in financial services.",
+    "url": "https://www.linkedin.com/company/gradientlabs/",
+    "pass": 3
+   },
+   {
+    "quote": "Gradient Labs - LinkedIn Gradient Labs | 74 followers on LinkedIn. Making AI practical, profitable, and surprisingly painless | We turn AI from impressive demos into impressive results.",
+    "url": "https://www.linkedin.com/company/gradientlabs-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Gradient Labs - LinkedIn Headquartered in London, Gradient Labs is powering forward-thinking financial innovators like Yonder, Plum, Sling Money, Pockit, Nala, Penfold, Zego, and more, with AI that understands the...",
+    "url": "https://uk.linkedin.com/company/gradientlabs",
+    "pass": 3
+   },
+   {
+    "quote": "Gradient Labs. - Gradient Labs is a technology studio ... About Gradient Labs is a technology and product studio focused on turning ideas into useful, modern digital experiences. We build apps, AI-powered tools, creative technologies, and software...",
+    "url": "https://in.linkedin.com/in/gradient-labs-0a2782395",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Gradient Labs - Facebook Jan 20, 2017 · Gradient Labs. 47 likes. Our obsessions: time, narratives, the architecture of information, relationships, visualization.",
+    "url": "https://www.facebook.com/gradientlabs/",
+    "pass": 3
+   },
+   {
+    "quote": "Gradient Labs - Facebook Gradient Labs is on Facebook. Join Facebook to connect with Gradient Labs and others you may know. Facebook gives people the power to share and makes the...",
+    "url": "https://www.facebook.com/people/Gradient-Labs/61577805177365/",
+    "pass": 3
+   },
+   {
+    "quote": "Gradient Labs - Facebook Feb 2, 2024 · Gradient Labs. 1 like. Software Company Gradient Labs updated their cover photo.",
+    "url": "https://www.facebook.com/gradientlaboratory/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://gradient-labs.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gradient-labs.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gradient-labs.ai/customers/wise",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gradient-labs.ai/customers/zego",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gradient-labs.ai/customers/plum",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gradient-labs.ai/customers/yonder",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gradient-labs.ai/customers/pockit",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gradient-labs.ai/customers/steadypay",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gradient-labs.ai/customers/morse",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gradient-labs.ai/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gradient-labs.ai/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gradient-labs.ai/customers/digital-bank-at-scale",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gradient-labs.ai/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://ainow.jp/gradient-labs-ai-account-manager-launch/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://openai.com/ja-JP/index/gradient-labs/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.eesel.ai/ja/blog/gradient-labs-review",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://claude.com/ja/customers/gradient-labs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://hid-labs.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.thorlabs.co.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://gradientlabs.us/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://gradientlabs.llc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://openai.com/ja-JP/index/gradient-labs/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/gradient-labs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/gradient-labs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://openai.com/index/gradient-labs/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mastercard.com/global/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://indexed.vc/companies/gradient-labs",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.accountsrecovery.net/2026/06/03/gradient-labs-raises-series-a-to-26-million-as-ai-agents-push-into-collections-workflows/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://acquirezy.com/organization/gradient-labs",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/530494-75",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/gen_ai/n/nafebdf2ad6c9?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gen_ai/n/nafebdf2ad6c9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/GradientLabsAI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/GradientLabsAI/status/2078094872037163259",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/GradientLabsAI/reposts",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/GradientLabsAI/status/2072304212201869567",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/gradientlabs/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/gradientlabs-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/company/gradientlabs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/gradient-labs-0a2782395",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/gradientlabs/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/people/Gradient-Labs/61577805177365/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/gradientlaboratory/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/GradientLabsAI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/gradientlabs",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Gradient Labs 日本 導入",
+   "results": [
+    "https://ainow.jp/gradient-labs-ai-account-manager-launch/",
+    "https://openai.com/ja-JP/index/gradient-labs/",
+    "https://www.eesel.ai/ja/blog/gradient-labs-review",
+    "https://claude.com/ja/customers/gradient-labs",
+    "https://intechnews.intwk.co.jp/posts/2026-04-02-daily-news/",
+    "https://note.com/gen_ai/n/nafebdf2ad6c9",
+    "https://xix.ai/ja/live/3041"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gradient Labs 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://gradient-labs.ai/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://hid-labs.com/",
+    "https://www.thorlabs.co.jp/",
+    "https://www.indexpro.co.jp/distributor/search-maker",
+    "https://www.u-blox.com/en/about-us/sales-network-offices/japan-2",
+    "https://grlabs.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gradient Labs Japan",
+   "results": [
+    "https://gradient-labs.ai/",
+    "https://gradientlabs.us/",
+    "https://gradientlabs.llc/",
+    "https://openai.com/ja-JP/index/gradient-labs/",
+    "https://gradientlabsusa.com/",
+    "https://momon-laboratory.com/2026/04/01/gradient-labsが全ての銀行顧客にaiアカウントマネージャー/",
+    "https://ainow.jp/gradient-labs-ai-account-manager-launch/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gradient Labs manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/customer/gradient-labs",
+    "https://www.casestudies.com/company/gradient-labs",
+    "https://openai.com/index/gradient-labs/",
+    "https://gradient-labs.ai/use-cases",
+    "https://www.featuredcustomers.com/vendor/gradient-labs/case-studies",
+    "https://claude.com/customers/gradient-labs",
+    "https://gradient-labs.ai/customers"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gradient Labs white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://www.mastercard.com/global/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "https://www.mycompanyworks.com/reseller",
+    "https://partners.wiz.io/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gradient Labs founded funding employees revenue",
+   "results": [
+    "https://indexed.vc/companies/gradient-labs",
+    "https://www.accountsrecovery.net/2026/06/03/gradient-labs-raises-series-a-to-26-million-as-ai-agents-push-into-collections-workflows/",
+    "https://acquirezy.com/organization/gradient-labs",
+    "https://pitchbook.com/profiles/company/530494-75",
+    "https://tracxn.com/d/companies/gradientlabs/__p0tDwQFFcE2UwIFpKWUU80irFAaLI5GyKQbBa76GDsQ",
+    "https://www.crunchbase.com/organization/gradient-labs-6ea5",
+    "https://www.zoominfo.com/c/gradient-labs-ltd/1335218821"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Gradient Labs",
+   "results": [
+    "https://note.com/gen_ai/n/nafebdf2ad6c9?hl=en",
+    "https://note.com/gen_ai/n/nafebdf2ad6c9",
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/nozomu_lab/n/n69146c54976a",
+    "https://note.com/hiroki11x/n/n3b74922fed88",
+    "https://note.com/sd1111sdxl_lab/n/n69331eb3197d",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Gradient Labs",
+   "results": [
+    "https://x.com/GradientLabsAI",
+    "https://x.com/GradientLabsAI/status/2078094872037163259",
+    "https://x.com/GradientLabsAI/reposts",
+    "https://x.com/GradientLabsAI/status/2072304212201869567",
+    "https://x.com/GradientLabsAI/with_replies",
+    "https://x.com/GradientLabsAI/status/2075565708528800025",
+    "https://x.com/GradientLabsAI/status/2080239063043293222"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Gradient Labs",
+   "results": [
+    "https://www.linkedin.com/company/gradientlabs/",
+    "https://www.linkedin.com/company/gradientlabs-ai",
+    "https://uk.linkedin.com/company/gradientlabs",
+    "https://in.linkedin.com/in/gradient-labs-0a2782395",
+    "https://in.linkedin.com/company/gradientlabsstudio",
+    "https://uk.linkedin.com/in/dimitrimasin",
+    "https://www.linkedin.com/in/dylantdavis"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Gradient Labs",
+   "results": [
+    "https://www.facebook.com/gradientlabs/",
+    "https://www.facebook.com/people/Gradient-Labs/61577805177365/",
+    "https://www.facebook.com/gradientlaboratory/",
+    "https://www.facebook.com/gradientaudiolab/",
+    "https://www.facebook.com/the.gradient.lab/",
+    "https://www.facebook.com/gradientaudiolab/photos/weve-got-a-new-sample-pack-up-for-grabs-on-our-bandcamp-pagelink-in-the-comments/1250473310418681/",
+    "https://www.facebook.com/gradientaudiolab/posts/download-gradient-lab-presents-standard-drums-vol-3-standard-drums-returns-with-/5056405474481030/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gradient Labs note 社長",
+   "results": [
+    "https://en.wikipedia.org/wiki/Gradient_Labs",
+    "https://gradient-labs.ai/about",
+    "https://www.unite.ai/ja/author/dimitrimasin/",
+    "https://www.crunchbase.com/person/dimitri-masin",
+    "https://www.founderland.ai/founder/dimitri-masin",
+    "https://www.sohu.com/a/898186543_122396381",
+    "https://www.unite.ai/zh-cn/dimitri-masin-ceo-co-founder-at-gradient-labs-interview-series/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gradient Labs X 投稿",
+   "results": [
+    "https://x.com/GradientLabsAI",
+    "https://x.com/gradientlabs",
+    "https://editor.gradientlab.co/",
+    "https://gradient-labs.ai/",
+    "https://www.cxo-community.com/2026/04/openal-x-gradient-labs-founder-spotlight.html",
+    "https://gradientlab.co/docs",
+    "https://github.com/gradientlabs-ai"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部36頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部36頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部36頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部36頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部36頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部36頁・検索12回）"
+ }
+}

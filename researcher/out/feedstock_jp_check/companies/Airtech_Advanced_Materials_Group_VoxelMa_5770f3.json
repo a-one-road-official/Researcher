@@ -1,0 +1,473 @@
+{
+ "name": "Airtech Advanced Materials Group — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:advanced-materials-manufacturer",
+ "researched_at": "2026-11-09T18:07:37.821585+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Airtech Advanced Materials Group — VoxelMatters - The largest database of additive manufacturing companies",
+    "url": "https://www.voxelmatters.directory/company/airtech/",
+    "pass": 3
+   },
+   {
+    "quote": "Airtech Advanced Materials Group",
+    "url": "https://www.voxelmatters.directory/company/airtech/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Airtech Advanced Materials Group — VoxelMatters - The largest ... — Airtech Advanced Materials Group, the world’s largest manufacturer of vacuum bagging and composite tooling materials, has invested in new technology in the form of a Large Scale Additive Manufacturing (LSAM) 3D printing machine with integrated machining capability. The LSAM relies on thermoplastic extrusion, a core competency of A",
+    "url": "https://www.voxelmatters.directory/company/airtech/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookAirtech Advanced Material Group - FacebookAirtech Advanced Materials - FacebookMiddle East Composites & Advanced Materials Expo - FacebookExhibito... - Middle East Composites & Advanced Materials ...Airtech New Feature - Additive Manufacturing | The future of ...Airtech Advanced Materials UK - Facebook Unlock the Future of Metal Additive Manufacturing with VoxelMatters! Voxe",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://airtech.com/links",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/airtech-paves-way-for-more-sustainable-and-efficient-aerospace-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.airtech.asia/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.airtechintl.com/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/airtech/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://airtech.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://airtech.com/products",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catalog.airtechintl.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.airtech.asia/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cadjapan.com/news/2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://airtech.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catalog.airtechintl.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://airtech.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://airtech.com/links",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/wp-content/uploads/2023/07/VoxelMatters-VMFocus2023-eBook-Aerospace-AM.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.airtechintl.com/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://airtech.com/contact-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://airtech.com/links",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/category/global-am-hubs/japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.airtech.asia/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.airtechintl.com/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E5%BE%B9%E5%BA%95%E4%BA%88%E6%B8%AC2026-%E6%97%A5%E7%B5%8C%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9/dp/B0G43QWTV1",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://shigoto.amazon.co.jp/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E4%BF%BA%E3%81%A0%E3%81%91%E3%83%AC%E3%83%99%E3%83%AB%E3%82%A2%E3%83%83%E3%83%97%E3%81%AA%E4%BB%B6-piccomics-DUBU-REDICE-STUDIO-ebook/dp/B0H4LJTFST",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/VARNIC-%E6%8A%98%E3%82%8A%E3%81%9F%E3%81%9F%E3%81%BF%E5%82%98-%E3%80%90%E9%A0%91%E4%B8%88%E3%81%AA12%E6%9C%AC%E9%AA%A8-%E3%83%AF%E3%83%B3%E3%82%BF%E3%83%83%E3%83%81%E3%81%A7%E8%87%AA%E5%8B%95%E9%96%8B%E9%96%89-%E5%A4%A7%E3%81%8D%E3%81%84%E3%82%B5%E3%82%A4%E3%82%BA/dp/B0GKVGD3R7",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/g/01410277/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/0687/5583/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/04188100/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/s/c-22260/attr_f950-1000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/airtech-advanced-materials-group/1118334451",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/Airtech_Advanced_Materials_Group",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zippia.com/airtech-careers-1096945/revenue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/airtech-advanced-materials-group",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Airtech Advanced Materials Group — VoxelMatters 代理店",
+   "results": [
+    "https://airtech.com/links",
+    "https://www.voxelmatters.com/airtech-paves-way-for-more-sustainable-and-efficient-aerospace-manufacturing/",
+    "https://www.airtech.asia/ja",
+    "https://www.airtechintl.com/ja",
+    "https://www.voxelmatters.directory/company-category/advanced-materials-manufacturer/",
+    "https://www.voxelmatters.com/airtech-supports-aerospace-sustainability-with-smarter-3d-printing-materials/",
+    "https://www.voxelmatters.com/a-new-airtech-era-is-on-the-horizon/",
+    "https://www.voxelmatters.com/airtech-and-kimya-a-perfect-pairing-2/",
+    "https://airtech.com/",
+    "https://airtech.com/products"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Airtech Advanced Materials Group — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://www.voxelmatters.directory/company/airtech/",
+    "https://airtech.com/",
+    "https://airtech.com/products",
+    "https://catalog.airtechintl.com/",
+    "https://estore.airtechintl.com/",
+    "https://www.voxelmatters.directory/company/airtech-advanced-materials-uk/",
+    "https://airtech.asia/en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Airtech Advanced Materials Group — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.airtech.asia/ja",
+    "https://www.cadjapan.com/news/2026/",
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://airtech.com/",
+    "https://airtech.com/products",
+    "https://airtechintl.com/ja/home",
+    "https://www.voxelmatters.report/database/",
+    "https://airtech.asia/ja/home",
+    "https://airtech.asia/ja/airtech",
+    "https://www.airtech.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Airtech Advanced Materials Group — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://catalog.airtechintl.com/",
+    "https://skhonpo.com/",
+    "https://www.voxelmatters.com/",
+    "https://airtech.com/",
+    "https://kinofu.com/uvresin-guide2026/",
+    "https://www.kitetsu.biz/",
+    "https://www.youtube.com/@_oshi_wan",
+    "https://www.3dxtech.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Airtech Advanced Materials Group — VoxelMatters Japan distributor",
+   "results": [
+    "https://airtech.com/links",
+    "https://www.voxelmatters.com/wp-content/uploads/2023/07/VoxelMatters-VMFocus2023-eBook-Aerospace-AM.pdf",
+    "https://www.airtechintl.com/ja",
+    "https://airtech.com/contact-us",
+    "https://www.voxelmatters.com/category/global-am-hubs/japan/",
+    "https://www.airtech3d.com/",
+    "https://www.voxelmatters.directory/company-category/3d-printer-distributor/",
+    "https://airtech.asia/",
+    "https://estore.airtechintl.com/about-airtech",
+    "https://airtech.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Airtech Advanced Materials Group — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://airtech.com/links",
+    "https://www.voxelmatters.com/category/global-am-hubs/japan/",
+    "https://www.airtech.asia/ja",
+    "https://www.airtechintl.com/ja",
+    "https://www.voxelmatters.directory/company-category/advanced-materials-manufacturer/",
+    "https://airtech.asia/ja/airtech-advanced-materials-group-and-additive-engineering-solutions-partner-to-grow-large-format-additive-manufacturing-applications",
+    "https://airtech.com/",
+    "https://www.voxelmatters.com/airtech-and-kimya-a-perfect-pairing-2/",
+    "https://airtech3d.com/marine",
+    "https://airtech.asia/en"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:amazon.co.jp Airtech Advanced Materials Group — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/徹底予測2026-日経ビジネス/dp/B0G43QWTV1",
+    "https://shigoto.amazon.co.jp/",
+    "https://www.amazon.co.jp/俺だけレベルアップな件-piccomics-DUBU-REDICE-STUDIO-ebook/dp/B0H4LJTFST",
+    "https://www.amazon.co.jp/VARNIC-折りたたみ傘-【頑丈な12本骨-ワンタッチで自動開閉-大きいサイズ/dp/B0GKVGD3R7",
+    "https://www.amazon.co.jp/SNIDEL-スナイデル-SWFJ261071-デタッチャブルフリルカラーツイードジャケットSWFJ261071レディース/dp/B0GC9M4NY7",
+    "https://www.amazon.co.jp/ベビーサークル-ベビーフェンス（固定パーツは別売り）３ways変形フェンス-ドアロック付き-140cmｘ200cmｘ68cm-【グレー・ホワイトmix】/dp/B0CSG2WHPS",
+    "https://www.amazon.co.jp/やっかいな人撃退大全（プレジデント2026年7-3号）-プレジデント社/dp/B0H2HFHJ9H"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Airtech Advanced Materials Group — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/g/01410277/",
+    "https://www.monotaro.com/p/0687/5583/",
+    "https://www.monotaro.com/g/04188100/",
+    "https://www.monotaro.com/s/c-22260/attr_f950-1000/",
+    "https://www.monotaro.com/p/0631/7026/",
+    "https://www.monotaro.com/s/c-122219/",
+    "https://www.monotaro.com/g/02385147/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Airtech Advanced Materials Group — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.zoominfo.com/c/airtech-advanced-materials-group/1118334451",
+    "https://growjo.com/company/Airtech_Advanced_Materials_Group",
+    "https://www.zippia.com/airtech-careers-1096945/revenue/",
+    "https://compworth.com/company/airtech-advanced-materials-group",
+    "https://prospeo.io/c/airtech-advanced-materials-group-revenue",
+    "https://craft.co/airtech-international",
+    "https://www.cience.com/company/airtech-advanced-materials-group/6210382590615401297"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Airtech Advanced Materials Group — VoxelMatters",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com Airtech Advanced Materials Group — VoxelMatters",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Airtech Advanced Materials Group — VoxelMatters",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com Airtech Advanced Materials Group — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/Airtech-Advanced-Material-Group-107230642124428/",
+    "https://www.facebook.com/Airtech-Advanced-Materials-108814885487674/",
+    "https://www.facebook.com/MECAMexpo/photos/exhibitor-alertairtech-advanced-materials-group-is-exhibiting-at-the-3rd-edition/605568575661108/",
+    "https://www.facebook.com/MECAMexpo/posts/exhibitor-alertairtech-advanced-materials-group-is-exhibiting-at-the-3rd-edition/605568602327772/",
+    "https://www.facebook.com/OfficialAirtech/videos/airtech-new-feature-additive-manufacturing/1602524973481510/",
+    "https://www.facebook.com/Airtech-Advanced-Materials-UK-109932068649325/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Airtech Advanced Materials Group — VoxelMatters note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Airtech Advanced Materials Group — VoxelMatters X 投稿",
+   "results": [
+    "https://x.com/AirtechOfficial",
+    "https://x.com/voxelmatters",
+    "https://www.voxelmatters.directory/company/airtech/",
+    "https://airtech.com/",
+    "https://airtech.com/media-center",
+    "https://www.linkedin.com/posts/airtech-advanced-materials-uk_a-large-format-portal-to-the-future-of-composite-activity-7444676972829396992-xT6m",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）"
+ }
+}

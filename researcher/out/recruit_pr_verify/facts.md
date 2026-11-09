@@ -1,4 +1,4 @@
-# 仮説の検証 — 中堅製造業向け採用広報：社数・採用難・採用費・採用広報の単価・継続・原価・買い方・前例（事実のみ・40品目）
+# 仮説の検証 — 中堅製造業向け採用広報：社数・採用難・採用費・採用広報の単価・継続・原価・買い方・前例（事実のみ・42品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -3754,3 +3754,162 @@
   - 「例：粗利率30％の会社では100万円損失＝300万円売上が必要」（https://resus.jp/topics/4594/）
   - 「離職は売上換算で数百万円～数千万円規模の損失」（https://resus.jp/topics/4594/）
 - 作る側の原価：記載なし（読んだ30頁・検索13回）
+
+## 日本銀行 短観 雇用人員判断DI 製造業 中小企業 最新期（時系列統計データ検索サイトの系列コード・4-122・4-131）（BOJ Tankan employment conditions DI manufacturing small enterprises latest series code）
+- 文脈：国内・統計
+- 社数（規模別）：
+  - 「【企業規模】：日銀短観では、資本金を基準に大企業＝資本金10億円以上、中堅企業＝同1億円以上10億円未満、中小企業＝同2000万円以上1億円未満に区分している」（https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html）
+  - 「市場予想（プラス25）には届かなかったものの、中堅企業の製造業はプラス23（6ポイント改善）、中小企業の製造業はプラス14（5ポイント改善）と、規模の小さい企業ほど改善幅が大きく、製造業の景況感の改善が幅広い企業に広がっています」（https://www.oanda.jp/lab-education/market_news/tankan-sep-2026-review/）
+  - 「中堅企業の非製造業はプラス24（2ポイント悪化）、中小企業の非製造業はプラス15（横ばい）です」（https://www.oanda.jp/lab-education/market_news/tankan-sep-2026-review/）
+- 採用難（公的統計）：
+  - 「雇用人員判断DI｜短観9月調査に見る製造業の人手不足」（https://eiko-et.com/tankan-koyou/）
+  - 「本日のブログは、日本銀行の短観（全国企業短期経済観測調査）2026年9月調査に基づき、製造業の人手不足の状況についてお伝えします」（https://eiko-et.com/tankan-koyou/）
+  - 「その前提として必要なのは、自社の業種や規模における人手不足の程度を把握することであり、9月調査はそのための判断材料になります」（https://eiko-et.com/tankan-koyou/）
+  - 「では、9月調査で製造業の人手不足はどのように変化したのでしょうか」（https://eiko-et.com/tankan-koyou/）
+  - 「製造業の雇用人員判断DIは全規模合計で-29となり、6月調査の-27から人手不足感が強まりました」（https://eiko-et.com/tankan-koyou/）
+  - 「つまり、製造業の各社は、業況については慎重な見通しを示しながらも、人手不足感は12月まで緩和しないとみています」（https://eiko-et.com/tankan-koyou/）
+  - 「雇用人員判断DIが全産業で-38（前回調査-36）となり、企業の深刻な人手不足が継続」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「○ 平成27年（2015年）６月の有効求人倍率は1.19倍、完全失業率は3.4％となっている」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「図表22 日銀短観（雇用人員判断D.I. 産業別）～過去、有効求人倍率が1倍を超えた時期との比較～」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「雇用人員判断DI（全規模・全産業）はマイナス38（6月マイナス37）と、バブル期に迫る人手不足が一段と強まりました」（https://www.oanda.jp/lab-education/market_news/tankan-sep-2026-review/）
+  - 「大企業はマイナス29、中小企業はマイナス42で、特に中小企業で人手不足感が強まっています（先行きは全規模でマイナス41）」（https://www.oanda.jp/lab-education/market_news/tankan-sep-2026-review/）
+  - 「人手不足感はマイナス38へ強まり、設備投資計画は＋11.3%と小幅に下方修正」（https://www.oanda.jp/lab-education/market_news/tankan-sep-2026-review/）
+- 採用にいくら払うか：
+  - 「（資料出所）平成10年までは総務省統計局「労働力調査（特別調査）」（2月調査）、平成15年以降は総務省統計局「労働力調査（詳細集計）」（年平均）」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「（資料出所）総務省「労働力調査（詳細集計）」（平成26年平均）」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「図表９ 「不本意非正規」の状況（年齢階級別）平成26年平均」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「図表14 年間総実労働時間の推移」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「○ 一般労働者の年間総実労働時間は、2000時間を超える水準で推移している」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「※ 年平均労働時間は、2013年の各国の就業者一人当たりの年間」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「図表16 年平均労働時間と長時間労働者の各国比較」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「（注）１）集計対象は、①または②に該当し、かつ③に該当するこの１１年間に子どもが生まれた同居夫婦である」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「平均はマイナス2.4で、3カ月先の予測は「不足」側に2～3程度、外れる傾向があったことが分かります」（https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html）
+  - 「一定期間内（一般には1年間）に国内で新たに生み出されたモノやサービスの付加価値の合計」（https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html）
+  - 「【企業規模】：日銀短観では、資本金を基準に大企業＝資本金10億円以上、中堅企業＝同1億円以上10億円未満、中小企業＝同2000万円以上1億円未満に区分している」（https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html）
+  - 「9月30日に半導体・AI関連株の買いで1,272円高の66,753円と大幅反発した日経平均株価にとって、7月初めにつけた7万円台までの戻りを試すには、半導体関連株の勢いが続くかどうかに加え、円安の流れが維持されるかが鍵になります」（https://www.oanda.jp/lab-education/market_news/tankan-sep-2026-review/）
+- 採用広報・採用サイトの単価：
+  - 「１人当たり ５０万円/２０万円 を税額控除」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「１人当たり ３０万円 の税額控除を追加」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「★法人全体の雇用者増加率が１０％以上 １人当たり ５０万円」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「★法人全体の雇用者増加率が１０％未満 １人当たり ２０万円」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「初年度１人最大８０万円」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「３年間１人最大１４０万円」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「措置内容 雇用増加人数１人当たり40万円の税額控除」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「【企業規模】：日銀短観では、資本金を基準に大企業＝資本金10億円以上、中堅企業＝同1億円以上10億円未満、中小企業＝同2000万円以上1億円未満に区分している」（https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html）
+  - 「9月30日に半導体・AI関連株の買いで1,272円高の66,753円と大幅反発した日経平均株価にとって、7月初めにつけた7万円台までの戻りを試すには、半導体関連株の勢いが続くかどうかに加え、円安の流れが維持されるかが鍵になります」（https://www.oanda.jp/lab-education/market_news/tankan-sep-2026-review/）
+- 継続して払うか：
+  - 「11期連続での＋10％ポイント超えとなり、底堅さが継続する」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「販売価格の見通し：5年後＋5.2％とインフレマインドが継続する見通し」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「雇用人員判断DIが全産業で-38（前回調査-36）となり、企業の深刻な人手不足が継続」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「常に最新のデータを手元に：更新作業から解放」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「作成した分析表（Excelシート）は、更新ボタンひと押しで最新データに更新可能」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「コンプライアンス面でも安心なデータ運用をサポートします」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「＜2025/12/25 更新＞」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「○ 夫の家事・育児時間が長いほど、出産後の妻の就業継続割合が高い傾向にある」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「図表20 子どもがいる夫婦の夫の平日の家事・育児時間別にみた妻の就業継続の有無」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「１畳当たり家賃・間代（月額・専用住宅総数）」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「（※②は最大３年間継続」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「同じ8時50分に公表された9月会合の「主な意見」では、利上げの継続を支持する意見が目立ちました」（https://www.oanda.jp/lab-education/market_news/tankan-sep-2026-review/）
+- どう買われるか：
+  - 「契約形態の選定と単価の決定については、それぞれ別のブログでお伝えしているため、必要な範囲に絞ってご紹介します」（https://eiko-et.com/tankan-koyou/）
+  - 「この考え方は、弊社のコーポレートサイトの事業紹介ページに図解しています」（https://eiko-et.com/tankan-koyou/）
+  - 「日本銀行が12月に公表した「全国企業短期経済観測調査（日銀短観）」につき、データからわかる動向・特徴について紹介します」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「今回紹介したデータだけでなく、過去の調査結果も含め、日銀短観データのすべてを収録しております」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「本記事でご紹介した分析は、当社が提供する経済統計データベース『」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「以下では、Accelがもたらす主なメリットをご紹介します」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「職業紹介機関）（11.2％）」となっており、非正社員の採用では「ハローワーク（30.5％）」「求人媒体（紙：就職情報誌・新聞」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「折り込みチラシ等）（13.8％）」「人材サービス会社（民間の職業紹介機関）（6.9％）」となっている」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「図表38 地元（Ｕターン含む）就職を希望しない理由」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「○ 地元（Uターン含む）就職を希望しないと回答した学生に理由を聞いてみると、「志望する企業がないから」が」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「希望しない学生が将来的に地元（Uターン含む）就職を考えるかという問には半数（49.6％）が「分からない」」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「（資料出所）2015年卒マイナビ大学生Ｕターン・地元就職に関する調査 ※有効回答数 4,964名」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「企業を対象とした同様の調査は他にも複数の役所や金融機関が実施しているのですが、日銀の短観は回答率が高いなどデータの質が良いことで知られています」（https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html）
+  - 「「物価の安定」と「金融システムの安定」を目的に設立され、銀行券（お札）の発行や金融機関同士の決済のほか、金利操作などの金融政策を担っている」（https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html）
+- 営業と採用のどちらに困っているか：
+  - 「雇用人員判断DI｜短観9月調査に見る製造業の人手不足」（https://eiko-et.com/tankan-koyou/）
+  - 「本日のブログは、日本銀行の短観（全国企業短期経済観測調査）2026年9月調査に基づき、製造業の人手不足の状況についてお伝えします」（https://eiko-et.com/tankan-koyou/）
+  - 「その前提として必要なのは、自社の業種や規模における人手不足の程度を把握することであり、9月調査はそのための判断材料になります」（https://eiko-et.com/tankan-koyou/）
+  - 「では、9月調査で製造業の人手不足はどのように変化したのでしょうか」（https://eiko-et.com/tankan-koyou/）
+  - 「製造業の雇用人員判断DIは全規模合計で-29となり、6月調査の-27から人手不足感が強まりました」（https://eiko-et.com/tankan-koyou/）
+  - 「2026年9月調査の製造業の雇用人員判断DIは、全規模合計で-29、中小企業で-32です」（https://eiko-et.com/tankan-koyou/）
+  - 「図1 製造業の雇用人員判断DI（規模別）」（https://eiko-et.com/tankan-koyou/）
+  - 「雇用人員判断DI（2026年9月調査、％ポイント）」（https://eiko-et.com/tankan-koyou/）
+  - 「図2 2026年9月調査の雇用人員判断DI（製造業・全産業・非製造業）」（https://eiko-et.com/tankan-koyou/）
+  - 「製造業の雇用人員判断DIは、全規模合計で-29、中小企業で-32です」（https://eiko-et.com/tankan-koyou/）
+  - 「雇用人員判断DI：-27から」（https://eiko-et.com/tankan-koyou/）
+  - 「雇用人員判断DIが全産業で-38（前回調査-36）となり、企業の深刻な人手不足が継続」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「業況判断DIが大きく落ち込んでマイナスに転じたのに対し、雇用人員判断DIは2020年12月調査でもマイナス圏にあるのです」（https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html）
+  - 「雇用人員判断DI（全規模・全産業）はマイナス38（6月マイナス37）と、バブル期に迫る人手不足が一段と強まりました」（https://www.oanda.jp/lab-education/market_news/tankan-sep-2026-review/）
+  - 「大企業はマイナス29、中小企業はマイナス42で、特に中小企業で人手不足感が強まっています（先行きは全規模でマイナス41）」（https://www.oanda.jp/lab-education/market_news/tankan-sep-2026-review/）
+- 前例の会社（製造業特化）：
+  - 「婚礼の現場からフリーのウエディングプランナーとして独立後、2015年に株式会社永光の代表取締役に就任し、2018年にウエディングプランナーの業務委託サービス「プラスワン・プランナー」を立ち上げる」（https://eiko-et.com/tankan-koyou/）
+  - 「全国約1万社の企業を対象に、年4回（3月、6月、9月、12月）四半期ごとに実施され、企業の業況や経済環境の現状・先行き（今後3か月）についての判断、売上高、収益、設備投資額などの事業計画の実績と予測値を調査します」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「⑤地域の特性を生かした創業の促進・事業活動の活性」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「4）正規雇用労働者：勤め先での呼称が「正規の職員・従業員」である者」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「○○ 役員を除く雇用者に占める非正規の職員・従業員の割合は、1991年（平成３年）には約２割であったが、2003年（平成15年）には３割を超え、2014年（平成26年）には37.4％となっている」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「２）不本意非正規：現職の雇用形態（非正規雇用）についた主な理由が「正規の職員・従業員の仕事がないから」と回答した者」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「資料出所：「従業員の労働時間と休暇に関する調査（労働者調査）」（2013年）」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「資料出所：「従業員の労働時間と休暇に関する調査（企業調査）」」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「○ パワハラが職場や企業に与える影響として考えられるものを企業に尋ねたところ、「職場の雰囲気が悪くなる」「従業員の心の」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「健康を害する」「従業員が十分に能力を発揮できなくなる」「職場の生産性が低下する」等を回答する企業が多い」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「（注）1.承継形態が「創業者の再就任」、「分社化の一環」、「出向」並びに「不明」の企業は除いて集計している」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「2.「内部昇格」とは、経営者の親族以外の社内の役員や従業員が経営者に昇格することをいう」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「コロナ禍以前は深刻な人手不足が生じていた飲食業では、休業や時短営業を迫られた結果、逆に従業員を減らす動きが広がっています」（https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html）
+  - 「企業が従業員について感じている過不足感も、この指標で把握できます」（https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html）
+  - 「「物価の安定」と「金融システムの安定」を目的に設立され、銀行券（お札）の発行や金融機関同士の決済のほか、金利操作などの金融政策を担っている」（https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html）
+- 作る側の原価：記載なし（読んだ25頁・検索13回）
+
+## 中小企業景況調査 製造業 経営上の問題点 最新期（中小機構の原表・求人難の割合・4-122）（SME business conditions survey manufacturing management problems labor shortage latest）
+- 文脈：国内・統計
+- 社数（規模別）：
+  - 「２．対象企業数 商工会地区の約 8,000 企業」（https://www.kumashoko.or.jp/kuma-wp/wp-content/uploads/2025/04/%E5%85%A8%E5%9B%BD%E9%80%A3%E7%89%882026%E5%B9%B41-3%E6%9C%88%E6%9C%9F.pdf）
+  - 「３．回答企業数 7,905 企業（回答率 98.8％）」（https://www.kumashoko.or.jp/kuma-wp/wp-content/uploads/2025/04/%E5%85%A8%E5%9B%BD%E9%80%A3%E7%89%882026%E5%B9%B41-3%E6%9C%88%E6%9C%9F.pdf）
+  - 「（２） 従業員数別企業数」（https://www.kumashoko.or.jp/kuma-wp/wp-content/uploads/2025/04/%E5%85%A8%E5%9B%BD%E9%80%A3%E7%89%882026%E5%B9%B41-3%E6%9C%88%E6%9C%9F.pdf）
+  - 「（１）業種別（中分類）企業数」（https://www.kumashoko.or.jp/kuma-wp/wp-content/uploads/2025/04/%E5%85%A8%E5%9B%BD%E9%80%A3%E7%89%882026%E5%B9%B41-3%E6%9C%88%E6%9C%9F.pdf）
+- 継続して払うか：
+  - 「リピートオーダー頻度（間隔）が長期化、対象商品終売によるパッケージ終」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf）
+  - 「リピートオーダー頻度（間隔）が長期化、対象商品終売によるパッケージ終了」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf）
+- どう買われるか：
+  - 「(2) 調査方法 原則として、全国の商工会、商工会議所の経営指導員、及び中小企業」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf）
+  - 「(2) 調査方法 原則として、全国の商工会、商工会議所の経営指導員、及び中小企業」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/185sokuhou.pdf）
+  - 「輸出の引き合いが決まり、また和歌山県展示会に出」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/185sokuhou.pdf）
+  - 「２．対象企業数 商工会地区の約 8,000 企業」（https://www.kumashoko.or.jp/kuma-wp/wp-content/uploads/2025/04/%E5%85%A8%E5%9B%BD%E9%80%A3%E7%89%882026%E5%B9%B41-3%E6%9C%88%E6%9C%9F.pdf）
+  - 「＊委 員 福田 徹也  （全国商工会連合会 中小企業問題研究所 調査・分析チーム」（https://www.kumashoko.or.jp/kuma-wp/wp-content/uploads/2025/04/%E5%85%A8%E5%9B%BD%E9%80%A3%E7%89%882026%E5%B9%B41-3%E6%9C%88%E6%9C%9F.pdf）
+  - 「事務局 渡辺 梓 （全国商工会連合会 中小企業問題研究所 調査 ・ 分析チーム）」（https://www.kumashoko.or.jp/kuma-wp/wp-content/uploads/2025/04/%E5%85%A8%E5%9B%BD%E9%80%A3%E7%89%882026%E5%B9%B41-3%E6%9C%88%E6%9C%9F.pdf）
+  - 「全国商工会連合会（会長 ： 森義久）は、 2026 年 1 〜 3 月期中小企業景況調査（約」（https://www.kumashoko.or.jp/kuma-wp/wp-content/uploads/2025/04/%E5%85%A8%E5%9B%BD%E9%80%A3%E7%89%882026%E5%B9%B41-3%E6%9C%88%E6%9C%9F.pdf）
+- 営業と採用のどちらに困っているか：
+  - 「前期 1位 28.0 2位 18.7 5位 8.3 4位 9.1 3位 9.5」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf）
+  - 「前々期 1位 30.5 2位 18.3 5位 7.4 4位 9.2 3位 9.3」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf）
+  - 「前期 1位 33.8 2位 20.9 3位 8.7 4位 7.7 5位 6.7」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf）
+  - 「前々期 1位 34.8 2位 19.4 3位 8.1 4位 7.2 5位 6.8」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf）
+  - 「前期 2位 20.4 1位 24.7 4位 9.3 3位 10.9 5位 5.3」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf）
+  - 「前々期 2位 20.0 1位 26.7 4位 9.3 3位 10.3 5位 6.6」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf）
+  - 「前期 1位 27.5 3位 13.0 2位 13.8 4位 7.6 5位 7.4」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf）
+  - 「前々期 1位 28.4 3位 12.4 2位 12.9 5位 7.9 4位 8.1」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf）
+  - 「前期 1位 25.7 3位 11.3 5位 9.3 2位 11.8 4位 9.9」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf）
+  - 「前期 1位 39.9 2位 13.1 3位 8.1 4位 7.2 6位 5.4」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/185sokuhou.pdf）
+  - 「前々期 1位 27.7 2位 18.3 3位 10.0 4位 9.9 5位 8.8」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/185sokuhou.pdf）
+  - 「前期 1位 42.1 3位 12.6 5位 4.4 4位 5.1 6位 4.2」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/185sokuhou.pdf）
+  - 「前々期 1位 33.2 2位 20.0 3位 7.9 6位 6.7 4位 7.4」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/185sokuhou.pdf）
+  - 「前期 1位 35.0 2位 15.2 3位 8.3 4位 7.7 5位 6.8」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/185sokuhou.pdf）
+  - 「前々期 1位 23.7 2位 20.3 4位 10.5 3位 11.4 5位 6.0」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/185sokuhou.pdf）
+- 前例の会社（製造業特化）：
+  - 「(5) 全産業の従業員数過不足ＤＩ （今期の水準） は、 ▲23.0（前期差0.0ポイント） と横ばいとな」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf）
+  - 「・熱中症対策が義務付けられており、 従業員に飲物を渡すなど、 対策を行っている」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf）
+  - 「２．売上額ＤＩ」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf）
+  - 「全産業の売上額ＤＩ（「増加」－「減少」）は、▲8.7（前期▲8.1、前期差0.6ポイント」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf）
+  - 「８．産業別従業員数過不足ＤＩ」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf）
+  - 「全産業の従業員数過不足ＤＩ（「過剰」－「不足」、今期の水準）は、▲23.0（前期▲23.0、」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf）
+  - 「売上が伸びている反面、原材料費、経費の増加も比例して」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf）
+  - 「・ 熱中症対策が義務付けられており、従業員に飲物を渡すなど、対策を行っている」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf）
+  - 「それにより売上が上がっているが、製造コストと人件費」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf）
+  - 「２．－(1) 売上額ＤＩ （「増加」－「減少」 前年同期比）」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf）
+  - 「２．－(2) 売上単価・客単価ＤＩ （「上昇」－「低下」 前年同期比）」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf）
+  - 「７．従業員数ＤＩ （「増加」－「減少」 前年同期比）」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf）
+  - 「８．従業員数過不足ＤＩ （「過剰」－「不足」 今期の水準）」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf）
+  - 「原材料価格の上昇 需要の停滞 人件費の増加 生産設備の不足・老 従業員の確保難」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf）
+  - 「材料価格の上昇 従業員の確保難 熟練技術者の確保難 官公需要の停滞 民間需要の停滞」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/keikyo/181sokuhou.pdf）
+- 採用難（公的統計）：記載なし（読んだ35頁・検索13回）
+- 採用にいくら払うか：記載なし（読んだ35頁・検索13回）
+- 採用広報・採用サイトの単価：記載なし（読んだ35頁・検索13回）
+- 作る側の原価：記載なし（読んだ35頁・検索13回）

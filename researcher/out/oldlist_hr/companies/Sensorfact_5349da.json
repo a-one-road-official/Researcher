@@ -1,0 +1,1431 @@
+{
+ "name": "Sensorfact",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial IoT / Analytics｜AUMS不適合",
+ "researched_at": "2026-11-09T18:08:56.407894+00:00",
+ "official_url": "https://www.sensorfact.eu/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "7. Seed Round",
+    "value": "16-Jul-2020    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/167389-66",
+    "pass": 3
+   },
+   {
+    "label": "6. Seed Round",
+    "value": "01-Aug-2019    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/167389-66",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Monitor the condition of your machines real-time to prevent machine breakdown, and get notifications.",
+    "url": "https://www.sensorfact.eu/",
+    "pass": 1
+   },
+   {
+    "quote": "Monitor your OEE to optimize your manufacturing process.",
+    "url": "https://www.sensorfact.eu/",
+    "pass": 1
+   },
+   {
+    "quote": "Monitor the flow of your compressed air system, and receive real-time notifications if we identify leakages.",
+    "url": "https://www.sensorfact.eu/",
+    "pass": 1
+   },
+   {
+    "quote": "Monitor your temperature consistently to ensure production quality in your plant",
+    "url": "https://www.sensorfact.eu/",
+    "pass": 1
+   },
+   {
+    "quote": "Van Delft: towards more efficient production and less waste with Sensorfact OEE",
+    "url": "https://www.sensorfact.eu/",
+    "pass": 1
+   },
+   {
+    "quote": "Future Pipe Industries: towards less downtime and more insight with predictive maintenance",
+    "url": "https://www.sensorfact.eu/",
+    "pass": 1
+   },
+   {
+    "quote": "Sensorfact: Future Pipe Industries' Predictive Maintenance Success - Sensorfact: smart monitoring for industry",
+    "url": "https://www.sensorfact.eu/customer-stories/future-pipe-industries-towards-less-downtime-and-more-insight-with-predictive-maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "Future Pipe Industries: towards less downtime and more insight with predictive maintenance",
+    "url": "https://www.sensorfact.eu/customer-stories/future-pipe-industries-towards-less-downtime-and-more-insight-with-predictive-maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "Early and accurate detection of potential machine problems",
+    "url": "https://www.sensorfact.eu/customer-stories/future-pipe-industries-towards-less-downtime-and-more-insight-with-predictive-maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "The implementation of Sensorfact’s vibration sensors has significantly relieved the technical service department of Future Pipe Industries. The time previously spent on inspection rounds can now be used for targeted maintenance tasks, troubleshooting, and strategic projects.",
+    "url": "https://www.sensorfact.eu/customer-stories/future-pipe-industries-towards-less-downtime-and-more-insight-with-predictive-maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "Improved prediction and planning:",
+    "url": "https://www.sensorfact.eu/customer-stories/future-pipe-industries-towards-less-downtime-and-more-insight-with-predictive-maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "The early and accurate signals from the vibration sensors enable Future Pipe Industries to plan maintenance much better. There is more time to order the necessary materials and coordinate interventions with the production department, minimizing unplanned downtime.",
+    "url": "https://www.sensorfact.eu/customer-stories/future-pipe-industries-towards-less-downtime-and-more-insight-with-predictive-maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "By identifying and addressing potential problems at an early stage, the chance of unexpected machine breakdowns is significantly reduced. This results in a more stable production process and less stress and ad-hoc actions for the technical service team.",
+    "url": "https://www.sensorfact.eu/customer-stories/future-pipe-industries-towards-less-downtime-and-more-insight-with-predictive-maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "Van Delft: towards more efficient production and less waste with Sensorfact OEE",
+    "url": "https://www.sensorfact.eu/customer-stories/van-delft-towards-more-efficient-production-and-less-waste-with-sensorfact-oee/",
+    "pass": 1
+   },
+   {
+    "quote": "Automated and concrete insights into production losses",
+    "url": "https://www.sensorfact.eu/customer-stories/van-delft-towards-more-efficient-production-and-less-waste-with-sensorfact-oee/",
+    "pass": 1
+   },
+   {
+    "quote": "Targeted improvements based on factual OEE data",
+    "url": "https://www.sensorfact.eu/customer-stories/van-delft-towards-more-efficient-production-and-less-waste-with-sensorfact-oee/",
+    "pass": 1
+   },
+   {
+    "quote": "The solution involved placing three photocells per machine, totaling six for the two linked machines on the production line:",
+    "url": "https://www.sensorfact.eu/customer-stories/van-delft-towards-more-efficient-production-and-less-waste-with-sensorfact-oee/",
+    "pass": 1
+   },
+   {
+    "quote": "The implementation of Sensorfact OEE has led to measurable improvements and a cultural shift at Van Delft:",
+    "url": "https://www.sensorfact.eu/customer-stories/van-delft-towards-more-efficient-production-and-less-waste-with-sensorfact-oee/",
+    "pass": 1
+   },
+   {
+    "quote": "Effective approach to short stops:",
+    "url": "https://www.sensorfact.eu/customer-stories/van-delft-towards-more-efficient-production-and-less-waste-with-sensorfact-oee/",
+    "pass": 1
+   },
+   {
+    "quote": "Proactive maintenance and less unplanned downtime:",
+    "url": "https://www.sensorfact.eu/customer-stories/van-delft-towards-more-efficient-production-and-less-waste-with-sensorfact-oee/",
+    "pass": 1
+   },
+   {
+    "quote": "Detailed registration of stops enables preventive maintenance. For example, if a conveyor belt has broken three times, Van Delft proactively replaces it after a certain period. This prevents unplanned downtime and results in less production loss and a more stable production process.",
+    "url": "https://www.sensorfact.eu/customer-stories/van-delft-towards-more-efficient-production-and-less-waste-with-sensorfact-oee/",
+    "pass": 1
+   },
+   {
+    "quote": "The OEE solution now automatically calculates waste (output – input), which was previously manual, time-consuming, and often unreliable. This automated measurement provides crucial real-time insight into our waste streams, which is essential for continuous optimization.",
+    "url": "https://www.sensorfact.eu/customer-stories/van-delft-towards-more-efficient-production-and-less-waste-with-sensorfact-oee/",
+    "pass": 1
+   },
+   {
+    "quote": "Sensorfact's OEE solution has not only given us concrete real-time figures on our production efficiency but has also positively changed the mindset of our operators. It's a tool that connects and encourages improvement, precisely what every modern production facility needs.",
+    "url": "https://www.sensorfact.eu/customer-stories/van-delft-towards-more-efficient-production-and-less-waste-with-sensorfact-oee/",
+    "pass": 1
+   },
+   {
+    "quote": "Production Manager / CI Manager",
+    "url": "https://www.sensorfact.eu/customer-stories/van-delft-towards-more-efficient-production-and-less-waste-with-sensorfact-oee/",
+    "pass": 1
+   },
+   {
+    "quote": "Bravilor Bonamat, a global leader in premium coffee machine manufacturing, is dedicated to enhancing operational efficiency and sustainability. The company has already made significant strides toward sustainability, including investing in solar panels that power a large part of their production. Bravilor Bonamat partnered with Sensorfact to further improve efficiency and reduce energy consumption.",
+    "url": "https://www.sensorfact.eu/customer-stories/bravilor-bonamat-steps-up-sustainability-efforts/",
+    "pass": 1
+   },
+   {
+    "quote": "Improved environmental footprint",
+    "url": "https://www.sensorfact.eu/customer-stories/bravilor-bonamat-steps-up-sustainability-efforts/",
+    "pass": 1
+   },
+   {
+    "quote": "Bravilor Bonamat needed to comply with the NEN-EN 15001 energy management standard, which required monitoring the factory’s major energy consumers. Although solar panels reduced costs, they did not lower energy consumption. Additionally, the company faced increasing demands from customers and regulators for sustainable measures and detailed carbon footprint data.",
+    "url": "https://www.sensorfact.eu/customer-stories/bravilor-bonamat-steps-up-sustainability-efforts/",
+    "pass": 1
+   },
+   {
+    "quote": "To better manage their energy usage, Bravilor Bonamat installed 30 energy sensors across 10 assembly lines and distribution panels. These sensors targeted the most energy-intensive equipment, including laser cutters, printers, and two large compressors.",
+    "url": "https://www.sensorfact.eu/customer-stories/bravilor-bonamat-steps-up-sustainability-efforts/",
+    "pass": 1
+   },
+   {
+    "quote": "The energy insights also simplified planning and budgeting for future energy use. While exact savings for the coming year are hard to predict due to fluctuating production schedules, the data has laid a strong foundation for ongoing energy optimization.",
+    "url": "https://www.sensorfact.eu/customer-stories/bravilor-bonamat-steps-up-sustainability-efforts/",
+    "pass": 1
+   },
+   {
+    "quote": "Sensorfact’s solution gave us clear insights into our energy consumption at the machine level, enabling us to make targeted improvements. The platform is user-friendly, and their expert advice directly contributed to achieving measurable savings.",
+    "url": "https://www.sensorfact.eu/customer-stories/bravilor-bonamat-steps-up-sustainability-efforts/",
+    "pass": 1
+   },
+   {
+    "quote": "Structuring energy data to manage consumption: the approach of Trivium Packaging Beaurepaire",
+    "url": "https://www.sensorfact.eu/customer-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive Maintenance: How Plásticos Modernos cut its repair costs tenfold",
+    "url": "https://www.sensorfact.eu/customer-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "Anticipate, optimize, perform: Coffein Compagnie Italy S.r.l. relies on predictive maintenance",
+    "url": "https://www.sensorfact.eu/customer-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "Composites Busch: ensuring air quality and worker safety with Predictive Maintenance",
+    "url": "https://www.sensorfact.eu/customer-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "Amarant Bakkers increases efficiency and production output with Sensorfact OEE",
+    "url": "https://www.sensorfact.eu/customer-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "Van Delft: towards more efficient production and less waste with Sensorfact OEE",
+    "url": "https://www.sensorfact.eu/customer-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "Future Pipe Industries: towards less downtime and more insight with predictive maintenance",
+    "url": "https://www.sensorfact.eu/customer-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "Plasthill prevents costly downtime with Sensorfact’s vibration sensors",
+    "url": "https://www.sensorfact.eu/customer-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "Devro prevents €11,320 in losses with Sensorfact’s Predictive Maintenance solution",
+    "url": "https://www.sensorfact.eu/customer-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "The NRF prevents a loss of €10,600 through predictive maintenance with Sensorfact",
+    "url": "https://www.sensorfact.eu/customer-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "We develop products that allow manufacturers to easily monitor energy consumption and gain insight into machine maintenance. Our focus is on making smart monitoring simple. We do this by offering a solution that is easy to install and use. In addition, our consultants provide customized advice appropriate to your plant’s situation.",
+    "url": "https://www.sensorfact.eu/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "We aim to reduce the human environmental footprint by eliminating all waste in the industry. We believe that if reducing waste is easy (time efficient, cost efficient) and reliable, industrial companies will improve their efficiency.",
+    "url": "https://www.sensorfact.eu/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "The detailed energy consumption data allows us to benchmark our machines, gain more control over our processes and allows us to make data-driven investment decisions.",
+    "url": "https://www.sensorfact.eu/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Are you interested in working with us or with our product? Get in touch with our sales team",
+    "url": "https://www.sensorfact.eu/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Do you need help with our product? Our support team will help you with any questions you have!",
+    "url": "https://www.sensorfact.eu/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Interested in working with us? For any questions regarding vacancies or our team, get in touch with our recruitment team.",
+    "url": "https://www.sensorfact.eu/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "recruitment@sensorfact.eu",
+    "url": "https://www.sensorfact.eu/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Do not expect to be micromanaged. We provide you with freedom & flexibility, so you can take ownership.",
+    "url": "https://www.sensorfact.eu/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Employee happiness is one of our three key strategic objectives. We measure employee happiness every quarter and take initiatives to improve it.",
+    "url": "https://www.sensorfact.eu/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Pension, budget for your home office, laptop, phone allowance, travelcosts reimbursement, training, fun team activities, a Sensorfact-hoodie - you've got it!",
+    "url": "https://www.sensorfact.eu/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Growth & Strategic projects",
+    "url": "https://www.sensorfact.eu/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Working in sales with a team that feels like family energises me and makes me want to go to work every day. Sensorfact provides the opportunity to think about the future of the company, and they take my opinion into account.",
+    "url": "https://www.sensorfact.eu/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Feel free to get in contact with the recruitment team if you have any questions on working at Sensorfact, the hiring process and / or our vacancies.",
+    "url": "https://www.sensorfact.eu/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Our solution will help you reduce the carbon footprint of your plant.",
+    "url": "https://www.sensorfact.eu/product/electricity-management/",
+    "pass": 1
+   },
+   {
+    "quote": "We are ready to help! If you encounter any problems you can reach our customer service by phone, email or WhatsApp.",
+    "url": "https://www.sensorfact.eu/product/electricity-management/",
+    "pass": 1
+   },
+   {
+    "quote": "We were surprised that Sensorfact identified so many easy-to-implement savings opportunities. We are extremely satisfied with the cooperation and would recommend the system at any time.",
+    "url": "https://www.sensorfact.eu/product/electricity-management/",
+    "pass": 1
+   },
+   {
+    "quote": "Monitor the condition of your machines real-time to prevent machine breakdown, and get notifications.",
+    "url": "https://www.sensorfact.eu/product/electricity-management/",
+    "pass": 1
+   },
+   {
+    "quote": "Monitor the flow of your compressed air system, and receive real-time notifications if we identify leakages.",
+    "url": "https://www.sensorfact.eu/product/electricity-management/",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive Maintenance - Sensorfact: smart monitoring for industry",
+    "url": "https://www.sensorfact.eu/product/predictive-maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive maintenance",
+    "url": "https://www.sensorfact.eu/product/predictive-maintenance/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Monitor your OEE to optimize your manufacturing process.",
+    "url": "https://www.sensorfact.eu/",
+    "pass": 1
+   },
+   {
+    "quote": "Monitor your temperature consistently to ensure production quality in your plant",
+    "url": "https://www.sensorfact.eu/",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you want to save on energy or avoid maintenance, we can show you how our smart monitoring solution will benefit your plant. Don’t wait any longer and start saving on time and costs right away.",
+    "url": "https://www.sensorfact.eu/customer-stories/future-pipe-industries-towards-less-downtime-and-more-insight-with-predictive-maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "The solution involved placing three photocells per machine, totaling six for the two linked machines on the production line:",
+    "url": "https://www.sensorfact.eu/customer-stories/van-delft-towards-more-efficient-production-and-less-waste-with-sensorfact-oee/",
+    "pass": 1
+   },
+   {
+    "quote": "Sensorfact's OEE solution has not only given us concrete real-time figures on our production efficiency but has also positively changed the mindset of our operators. It's a tool that connects and encourages improvement, precisely what every modern production facility needs.",
+    "url": "https://www.sensorfact.eu/customer-stories/van-delft-towards-more-efficient-production-and-less-waste-with-sensorfact-oee/",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you want to save on energy or avoid maintenance, we can show you how our smart monitoring solution will benefit your plant. Don’t wait any longer and start saving on time and costs right away.",
+    "url": "https://www.sensorfact.eu/customer-stories/van-delft-towards-more-efficient-production-and-less-waste-with-sensorfact-oee/",
+    "pass": 1
+   },
+   {
+    "quote": "Bravilor Bonamat, a global leader in premium coffee machine manufacturing, is dedicated to enhancing operational efficiency and sustainability. The company has already made significant strides toward sustainability, including investing in solar panels that power a large part of their production. Bravilor Bonamat partnered with Sensorfact to further improve efficiency and reduce energy consumption.",
+    "url": "https://www.sensorfact.eu/customer-stories/bravilor-bonamat-steps-up-sustainability-efforts/",
+    "pass": 1
+   },
+   {
+    "quote": "Bravilor Bonamat needed to comply with the NEN-EN 15001 energy management standard, which required monitoring the factory’s major energy consumers. Although solar panels reduced costs, they did not lower energy consumption. Additionally, the company faced increasing demands from customers and regulators for sustainable measures and detailed carbon footprint data.",
+    "url": "https://www.sensorfact.eu/customer-stories/bravilor-bonamat-steps-up-sustainability-efforts/",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you want to save on energy or avoid maintenance, we can show you how our smart monitoring solution will benefit your plant. Don’t wait any longer and start saving on time and costs right away.",
+    "url": "https://www.sensorfact.eu/customer-stories/bravilor-bonamat-steps-up-sustainability-efforts/",
+    "pass": 1
+   },
+   {
+    "quote": "We develop products that allow manufacturers to easily monitor energy consumption and gain insight into machine maintenance. Our focus is on making smart monitoring simple. We do this by offering a solution that is easy to install and use. In addition, our consultants provide customized advice appropriate to your plant’s situation.",
+    "url": "https://www.sensorfact.eu/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "We aim to reduce the human environmental footprint by eliminating all waste in the industry. We believe that if reducing waste is easy (time efficient, cost efficient) and reliable, industrial companies will improve their efficiency.",
+    "url": "https://www.sensorfact.eu/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Sensorfact was founded in 2016 and has grown to 4000+ customers in 80+ countries. To date we have identified 420+ GWh of energy savings. This is just the beginning. Our ambition is to become the leading smart IoT platform for industrial SMEs globally.",
+    "url": "https://www.sensorfact.eu/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Manufacturing, Maintenance and Facility Engineer",
+    "url": "https://www.sensorfact.eu/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "It is our ambition to eliminate all industrial waste. Your work will contribute to our mission and with that, a more sustainable world.",
+    "url": "https://www.sensorfact.eu/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce your electricity costs by eliminating industrial energy waste. On average, plants save up to 10% on their energy bill by using our EMS.",
+    "url": "https://www.sensorfact.eu/product/electricity-management/",
+    "pass": 1
+   },
+   {
+    "quote": "Our solution will help you reduce the carbon footprint of your plant.",
+    "url": "https://www.sensorfact.eu/product/electricity-management/",
+    "pass": 1
+   },
+   {
+    "quote": "Save time on maintenance in your plant and prevent breakdown by monitoring the condition of your machines. Our smart software detects deviations in vibrations and sends alerts long before you would notice any signs of defects.",
+    "url": "https://www.sensorfact.eu/product/predictive-maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "Our intuitive software interfaces easily with both operators and management. Our secret: we speak your language, and make the right data available to the right user.",
+    "url": "https://www.sensorfact.eu/product/oee/",
+    "pass": 1
+   },
+   {
+    "quote": "Our software focuses on ease of use for operators. Stops are detected automatically, and logged in under 10 seconds. Dive into your biggest issues, thereby continuously improving efficiency.",
+    "url": "https://www.sensorfact.eu/product/oee/",
+    "pass": 1
+   },
+   {
+    "quote": "Details around production orders and status of critical assets is displayed in real time, so operators can take appropriate action in case of down time or below expected performance.",
+    "url": "https://www.sensorfact.eu/product/oee/",
+    "pass": 1
+   },
+   {
+    "quote": "Identify and fix inefficiencies whilst implementing strategies to avoid them in the future. Use OEE dashboards to get insights into performance of your production lines.",
+    "url": "https://www.sensorfact.eu/product/oee/",
+    "pass": 1
+   },
+   {
+    "quote": "Monitor your temperature consistently to ensure production quality in your plant",
+    "url": "https://www.sensorfact.eu/product/oee/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by manufacturers worldwide, read what they say",
+    "url": "https://www.sensorfact.eu/product/gas-management/",
+    "pass": 1
+   },
+   {
+    "quote": "Save energy by making sure your compressed air system is not leaking. Our smart software automatically detects on production line level where your system is leaking, and provides real time insight in the amount of air that goes to waste.",
+    "url": "https://www.sensorfact.eu/product/compressed-air-management/",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Manufacturing, Maintenance and Facility Engineer",
+    "url": "https://www.sensorfact.eu/product/water-management/",
+    "pass": 1
+   },
+   {
+    "quote": "Ensure great process quality by closely monitoring temperature and humidity in your plant. Our easy-to-install sensors automatically send data to your online dashboard. Two sensor types are available: Our temperature sensors reliably measure temperature in humid environments, while our humidity sensors monitor temperature and humidity in clean, dry settings.",
+    "url": "https://www.sensorfact.eu/product/temperature-humidity/",
+    "pass": 1
+   },
+   {
+    "quote": "You can confidently measure temperatures for your plant with precision, thanks to the broad temperature range of -40 to 85°C.",
+    "url": "https://www.sensorfact.eu/product/temperature-humidity/",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent costly downtime in manufacturing with vibration sensors | Sensorfact - Sensorfact: smart monitoring for industry",
+    "url": "https://www.sensorfact.eu/customer-stories/prevent-manufacturing-downtime/",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you want to save on energy or avoid maintenance, we can show you how our smart monitoring solution will benefit your plant. Don’t wait any longer and start saving on time and costs right away.",
+    "url": "https://www.sensorfact.eu/customer-stories/prevent-manufacturing-downtime/",
+    "pass": 1
+   },
+   {
+    "quote": "The first measure had an immediate effect: all presses are now consistently switched off during breaks. But the real result became apparent with the 8,000-tonne Loire press. This giant turned out to be responsible for a third of the factory’s total consumption.",
+    "url": "https://www.sensorfact.eu/customer-stories/phoenix-3d-metaal-we-thought-we-knew-until-we-saw-the-data/",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you want to save on energy or avoid maintenance, we can show you how our smart monitoring solution will benefit your plant. Don’t wait any longer and start saving on time and costs right away.",
+    "url": "https://www.sensorfact.eu/customer-stories/phoenix-3d-metaal-we-thought-we-knew-until-we-saw-the-data/",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you want to save on energy or avoid maintenance, we can show you how our smart monitoring solution will benefit your plant. Don’t wait any longer and start saving on time and costs right away.",
+    "url": "https://www.sensorfact.eu/customer-stories/structuring-energy-data-to-manage-consumption-the-approach-of-trivium-packaging-beaurepaire/",
+    "pass": 1
+   },
+   {
+    "quote": "Doulux is a leading player in the paper and hygiene industry in Réunion, specializing in the production of sanitary and household paper products. Based in Le Port, the company combines strong local roots with industrial innovation. Its ambition: to deliver high-quality, accessible solutions that showcase the unique identity of Réunion.",
+    "url": "https://www.sensorfact.eu/customer-stories/when-energy-data-becomes-a-performance-driver-at-doulux/",
+    "pass": 1
+   },
+   {
+    "quote": "At first, Doulux aimed to implement a monitoring system for its production lines. The main objective was to better manage operations and maintain an accurate record of equipment speed and energy consumption.",
+    "url": "https://www.sensorfact.eu/customer-stories/when-energy-data-becomes-a-performance-driver-at-doulux/",
+    "pass": 1
+   },
+   {
+    "quote": "“Until then, data collection was carried out manually through production sheets filled in by operators,” explains Loïc Mayeresse, Production Manager at Doulux. “This method lacked the responsiveness and precision needed to detect deviations in real time.”",
+    "url": "https://www.sensorfact.eu/customer-stories/when-energy-data-becomes-a-performance-driver-at-doulux/",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you want to save on energy or avoid maintenance, we can show you how our smart monitoring solution will benefit your plant. Don’t wait any longer and start saving on time and costs right away.",
+    "url": "https://www.sensorfact.eu/customer-stories/when-energy-data-becomes-a-performance-driver-at-doulux/",
+    "pass": 1
+   },
+   {
+    "quote": "Under the coordination of Marvin Vargas, Max Calderón, who has led the maintenance workshop for nearly two decades and manages a team of 19 technicians, Plásticos Modernos already had a preventive and predictive maintenance program.",
+    "url": "https://www.sensorfact.eu/customer-stories/predictive-maintenance-how-plasticos-modernos-cut-its-repair-costs-tenfold/",
+    "pass": 1
+   },
+   {
+    "quote": "However, this process relied mainly on manual inspections. Technicians performed vibration measurements periodically, leaving room for mechanical deviations that could go unnoticed between measurements. In some cases — especially for confined or hard-to-reach motors — it was not even possible to measure certain parameters, increasing the risk of unexpected failures and operational uncertainty.",
+    "url": "https://www.sensorfact.eu/customer-stories/predictive-maintenance-how-plasticos-modernos-cut-its-repair-costs-tenfold/",
+    "pass": 1
+   },
+   {
+    "quote": "By integrating predictive maintenance into its industrial digitalization plan, Plásticos Modernos strengthens its position as one of the pioneering companies in the sector in Costa Rica — combining reliability, technological innovation, and sustainable growth.",
+    "url": "https://www.sensorfact.eu/customer-stories/predictive-maintenance-how-plasticos-modernos-cut-its-repair-costs-tenfold/",
+    "pass": 1
+   },
+   {
+    "quote": "Maintenance and Plant Manager",
+    "url": "https://www.sensorfact.eu/customer-stories/predictive-maintenance-how-plasticos-modernos-cut-its-repair-costs-tenfold/",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you want to save on energy or avoid maintenance, we can show you how our smart monitoring solution will benefit your plant. Don’t wait any longer and start saving on time and costs right away.",
+    "url": "https://www.sensorfact.eu/customer-stories/predictive-maintenance-how-plasticos-modernos-cut-its-repair-costs-tenfold/",
+    "pass": 1
+   },
+   {
+    "quote": "Based in Italy, the company is committed to continuous industrial improvement, combining performance, sustainability, and technological innovation.",
+    "url": "https://www.sensorfact.eu/customer-stories/anticipate-optimize-perform-coffein-compagnie-italy-s-r-l-relies-on-predictive-maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "Under the leadership of Sergio Roversi, Maintenance and Plant Manager, Coffein Compagnie Italy sought to improve the reliability of its maintenance operations and reduce unplanned downtime.",
+    "url": "https://www.sensorfact.eu/customer-stories/anticipate-optimize-perform-coffein-compagnie-italy-s-r-l-relies-on-predictive-maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "Maintenance and Plant Manager",
+    "url": "https://www.sensorfact.eu/customer-stories/anticipate-optimize-perform-coffein-compagnie-italy-s-r-l-relies-on-predictive-maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you want to save on energy or avoid maintenance, we can show you how our smart monitoring solution will benefit your plant. Don’t wait any longer and start saving on time and costs right away.",
+    "url": "https://www.sensorfact.eu/customer-stories/anticipate-optimize-perform-coffein-compagnie-italy-s-r-l-relies-on-predictive-maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "Sensorfact's hardware-enabled SaaS solution uses AI to help manufacturers digitalize operations and reduce industrial waste, like energy consumption",
+    "url": "https://www.abb.com/global/en/news/122814/abb-to-acquire-sensorfact-expanding-its-digital-energy-management-offering",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisition strengthens ABB’s digital energy management offering for industrial customers",
+    "url": "https://www.abb.com/global/en/news/122814/abb-to-acquire-sensorfact-expanding-its-digital-energy-management-offering",
+    "pass": 3
+   },
+   {
+    "quote": "Sensorfact has established itself as the European market leader in AI-powered industrial energy efficiency. The partnership with ABB will further accelerate growth.",
+    "url": "https://www.startbase.com/news/set-ventures-gibt-erfolgreichen-exit-von-sensorfact-an-abb-bekannt/",
+    "pass": 3
+   },
+   {
+    "quote": "ABB and Sensorfact are joining forces to help companies increase energy efficiency, reduce costs and optimize production. The integration of Sensorfact strengthens our digital strategy by providing customers with innovative tools to digitize their manufacturing processes.",
+    "url": "https://www.startbase.com/news/set-ventures-gibt-erfolgreichen-exit-von-sensorfact-an-abb-bekannt/",
+    "pass": 3
+   },
+   {
+    "quote": "With ABB, we are bringing our smart factory platform to global markets faster. Together, we will help companies worldwide to further reduce costs and CO₂ emissions",
+    "url": "https://www.startbase.com/news/set-ventures-gibt-erfolgreichen-exit-von-sensorfact-an-abb-bekannt/",
+    "pass": 3
+   },
+   {
+    "quote": "FluoRok, an Oxford spin-off, is developing a process for manufacturing fluorochemicals without using highly hazardous hydrofluoric acid.",
+    "url": "https://www.startbase.com/news/set-ventures-gibt-erfolgreichen-exit-von-sensorfact-an-abb-bekannt/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Temperature Sensors",
+    "url": "https://www.pressac.com/case-studies/sensorfact-energy-sensors/",
+    "pass": 3
+   },
+   {
+    "quote": "Sensorfact started out as energy advisers for manufacturing companies. They’d calculate how much energy each machine used and deliver a report listing energy-saving opportunities and a business case for investment.",
+    "url": "https://www.pressac.com/case-studies/sensorfact-energy-sensors/",
+    "pass": 3
+   },
+   {
+    "quote": "It uses Pressac’s sensors to help create end-to-end energy management solutions for manufacturing clients across the world.",
+    "url": "https://www.pressac.com/case-studies/sensorfact-energy-sensors/",
+    "pass": 3
+   },
+   {
+    "quote": "Sensorfact searched for manufacturers of wireless current clamp sensors and found Pressac.",
+    "url": "https://www.pressac.com/case-studies/sensorfact-energy-sensors/",
+    "pass": 3
+   },
+   {
+    "quote": "Our energy-monitoring sensors measure the amount of energy consumed by each machine every 30 seconds. Data then feeds into Sensorfact’s software, allowing them to give accurate, real-time insights in the energy used by machines and components.",
+    "url": "https://www.pressac.com/case-studies/sensorfact-energy-sensors/",
+    "pass": 3
+   },
+   {
+    "quote": "This gives manufacturers greater control over their production process, as they know how each machine is functioning at any time.",
+    "url": "https://www.pressac.com/case-studies/sensorfact-energy-sensors/",
+    "pass": 3
+   },
+   {
+    "quote": "Overview This case study explores three distinct projects where Gridimp, in partnership with Pressac, deployed its IoT-driven energy",
+    "url": "https://www.pressac.com/case-studies/sensorfact-energy-sensors/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial temperature",
+    "url": "https://www.pressac.com/case-studies/sensorfact-energy-sensors/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial temperature sensors",
+    "url": "https://www.pressac.com/case-studies/sensorfact-energy-sensors/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Bravilor Bonamat, a global leader in premium coffee machine manufacturing, is dedicated to enhancing operational efficiency and sustainability. The company has already made significant strides toward sustainability, including investing in solar panels that power a large part of their production. Bravilor Bonamat partnered with Sensorfact to further improve efficiency and reduce energy consumption.",
+    "url": "https://www.sensorfact.eu/customer-stories/bravilor-bonamat-steps-up-sustainability-efforts/",
+    "pass": 1
+   },
+   {
+    "quote": "Why employees choose us",
+    "url": "https://www.sensorfact.eu/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Our employees can work remote (abroad) for two months per year.",
+    "url": "https://www.sensorfact.eu/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Reasons why employees choose us",
+    "url": "https://www.sensorfact.eu/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "I enjoy being part of a fast growing company that is doing something great for our customers and the environment. The team is supportive and close and we're all excited to help companies to achieve their goals.",
+    "url": "https://www.sensorfact.eu/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Do you want to be part of our amazing team?",
+    "url": "https://www.sensorfact.eu/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "For Phoenix 3D Metaal, sustainability is a priority they are tackling proactively; customers are asking about it more often and it is an integral part of the business strategy. Jan-Willem knew that the six press brakes, lasers and presses consumed a lot of energy, but the exact breakdown was missing.",
+    "url": "https://www.sensorfact.eu/customer-stories/phoenix-3d-metaal-we-thought-we-knew-until-we-saw-the-data/",
+    "pass": 1
+   },
+   {
+    "quote": "“Until then, data collection was carried out manually through production sheets filled in by operators,” explains Loïc Mayeresse, Production Manager at Doulux. “This method lacked the responsiveness and precision needed to detect deviations in real time.”",
+    "url": "https://www.sensorfact.eu/customer-stories/when-energy-data-becomes-a-performance-driver-at-doulux/",
+    "pass": 1
+   },
+   {
+    "quote": "A deeper investigation revealed that the looseness had accelerated bearing wear, causing damage. Following our recommendations, the maintenance team carried out the following corrective actions:",
+    "url": "https://www.sensorfact.eu/customer-stories/predictive-maintenance-how-plasticos-modernos-cut-its-repair-costs-tenfold/",
+    "pass": 1
+   },
+   {
+    "quote": "Acquisition strengthens ABB’s digital energy management offering for industrial customers",
+    "url": "https://www.abb.com/global/en/news/122814/abb-to-acquire-sensorfact-expanding-its-digital-energy-management-offering",
+    "pass": 3
+   },
+   {
+    "quote": "ABB is acquiring Sensorfact BV, a fast-growing energy management company headquartered in Utrecht, Netherlands. The acquisition further expands ABB’s digital energy management offering and is expected to close in Q1 2025. Financial terms were not disclosed.",
+    "url": "https://www.abb.com/global/en/news/122814/abb-to-acquire-sensorfact-expanding-its-digital-energy-management-offering",
+    "pass": 3
+   },
+   {
+    "quote": "Established in 2017, Sensorfact offers a scalable software as a service (SaaS) solution that helps small and medium sized enterprises use AI in their operations and energy management to lower costs and increase efficiency. The company has more than 250 full-time employees in Utrecht, Amsterdam, Barcelona, and Berlin and serves more than 1,900 customers across Europe.",
+    "url": "https://www.abb.com/global/en/news/122814/abb-to-acquire-sensorfact-expanding-its-digital-energy-management-offering",
+    "pass": 3
+   },
+   {
+    "quote": "Successful exit: The acquisition is intended to expand ABB's portfolio for digital energy management solutions and accelerate the global expansion of the AI-supported platform.",
+    "url": "https://www.startbase.com/news/set-ventures-gibt-erfolgreichen-exit-von-sensorfact-an-abb-bekannt/",
+    "pass": 3
+   },
+   {
+    "quote": "Successful exit: Acquisition to expand ABB's portfolio of digital energy management solutions and accelerate global expansion of AI-powered platform",
+    "url": "https://www.startbase.com/news/set-ventures-gibt-erfolgreichen-exit-von-sensorfact-an-abb-bekannt/",
+    "pass": 3
+   },
+   {
+    "quote": "has announced the successful sale of its portfolio company Sensorfact to ABB. Utrecht-based energy management solutions provider Sensorfact will further strengthen ABB's digital energy management portfolio. The acquisition is expected to close in the first quarter of 2025. Financial details of the transaction were not disclosed.",
+    "url": "https://www.startbase.com/news/set-ventures-gibt-erfolgreichen-exit-von-sensorfact-an-abb-bekannt/",
+    "pass": 3
+   },
+   {
+    "quote": "Sensorfact was founded in 2017 and offers a scalable Software-as-a-Service (SaaS) solution for small and medium-sized companies in Europe. The platform uses AI to help companies reduce their energy consumption and increase efficiency. With over 250 employees in Utrecht, Amsterdam, Barcelona and Berlin, the company serves more than 1,900 customers across Europe.",
+    "url": "https://www.startbase.com/news/set-ventures-gibt-erfolgreichen-exit-von-sensorfact-an-abb-bekannt/",
+    "pass": 3
+   },
+   {
+    "quote": "The acquisition of Sensorfact is part of the global trend towards greater energy efficiency. According to a report by the International Energy Agency (IEA), energy efficiency must be doubled by 2030 in order to sustainably meet rising energy demand. Digital innovations such as those from Sensorfact are crucial to this.",
+    "url": "https://www.startbase.com/news/set-ventures-gibt-erfolgreichen-exit-von-sensorfact-an-abb-bekannt/",
+    "pass": 3
+   },
+   {
+    "quote": "WeFact grows to over 45,000 customers and becomes part of Visma. The strategic takeover provides new impetus for scaling.",
+    "url": "https://www.startbase.com/news/set-ventures-gibt-erfolgreichen-exit-von-sensorfact-an-abb-bekannt/",
+    "pass": 3
+   },
+   {
+    "quote": "With the acquisition, IBM is expanding its leading position in the hybrid cloud segment and demonstrating how start-ups can accelerate the digitalization of even large corporations.",
+    "url": "https://www.startbase.com/news/set-ventures-gibt-erfolgreichen-exit-von-sensorfact-an-abb-bekannt/",
+    "pass": 3
+   },
+   {
+    "quote": "Pressac Shortlisted for Sustainability Award at the East Midlands Business of the Year Awards",
+    "url": "https://www.pressac.com/case-studies/sensorfact-energy-sensors/",
+    "pass": 3
+   },
+   {
+    "quote": "The Challenge With hybrid working policies becoming standardised, our client introduced a formal expectation that employees work onsite",
+    "url": "https://www.pressac.com/case-studies/sensorfact-energy-sensors/",
+    "pass": 3
+   },
+   {
+    "quote": "1,600+ industrial customers, 200+ employees.",
+    "url": "https://www.dynapps.ch/en/cases/sensorfact",
+    "pass": 3
+   },
+   {
+    "quote": "Four Odoo modules went live in five months: purchase, inventory, accounting and sales. The intent was narrow on purpose: put the spine of the business onto one system, give the operations team visibility on what was in stock and what was on order, and move the purchasing decision from a feel exercise to a data one.",
+    "url": "https://www.dynapps.ch/en/cases/sensorfact",
+    "pass": 3
+   },
+   {
+    "quote": "That trade-off is workable, but it carries a system-hygiene cost. When a team configures, tests and adopts a new ERP all in the same months, the cleanliness of the data, the discipline of the workflows and the maturity of the standard operating procedures all take a hit that has to be paid down afterwards. Sensorfact got the go-live; the work of cleaning up behind it was part of the deal.",
+    "url": "https://www.dynapps.ch/en/cases/sensorfact",
+    "pass": 3
+   },
+   {
+    "quote": "The business is ready to grow. The systems are not. A PE-backed trajectory, new markets, acquisitions ahead, and administrative overhead that drags on the very growth it should be enabling.",
+    "url": "https://www.dynapps.ch/en/cases/sensorfact",
+    "pass": 3
+   },
+   {
+    "quote": "Belgian family-owned ingredients manufacturer, 75 production units across 55 countries. Kept SAP at the largest sites; built one Odoo template for the smaller acquisitions.",
+    "url": "https://www.dynapps.ch/en/cases/sensorfact",
+    "pass": 3
+   },
+   {
+    "quote": "A Spanish B2B distributor of high-visibility safety gear moved off a custom legacy system onto Odoo. A bulk-order grid on standard e-commerce now carries 95% of its orders.",
+    "url": "https://www.dynapps.ch/en/cases/sensorfact",
+    "pass": 3
+   },
+   {
+    "quote": "SensorFact 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/167389-66",
+    "pass": 3
+   },
+   {
+    "quote": "11. Merger/Acquisition",
+    "url": "https://pitchbook.com/profiles/company/167389-66",
+    "pass": 3
+   },
+   {
+    "quote": ", a Corporate Backed or Acquired company based in San Francisco, CA.",
+    "url": "https://pitchbook.com/profiles/company/167389-66",
+    "pass": 3
+   },
+   {
+    "quote": "Corporate Backed or Acquired",
+    "url": "https://pitchbook.com/profiles/company/167389-66",
+    "pass": 3
+   },
+   {
+    "quote": "SensorFact has 318 total employees.",
+    "url": "https://pitchbook.com/profiles/company/167389-66",
+    "pass": 3
+   },
+   {
+    "quote": "What is SensorFact’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/167389-66",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for SensorFact is",
+    "url": "https://pitchbook.com/profiles/company/167389-66",
+    "pass": 3
+   },
+   {
+    "quote": "When was SensorFact acquired?",
+    "url": "https://pitchbook.com/profiles/company/167389-66",
+    "pass": 3
+   },
+   {
+    "quote": "SensorFact was acquired on 03-Feb-2025.",
+    "url": "https://pitchbook.com/profiles/company/167389-66",
+    "pass": 3
+   },
+   {
+    "quote": "Who acquired SensorFact?",
+    "url": "https://pitchbook.com/profiles/company/167389-66",
+    "pass": 3
+   },
+   {
+    "quote": "SensorFact was acquired by",
+    "url": "https://pitchbook.com/profiles/company/167389-66",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "We are ready to help! If you encounter any problems you can reach our customer service by phone, email or WhatsApp.",
+    "url": "https://www.sensorfact.eu/product/electricity-management/",
+    "pass": 1
+   },
+   {
+    "quote": "Receive alerts when temperature or humidity thresholds are exceeded by email and act when necessary to ensure your products quality.",
+    "url": "https://www.sensorfact.eu/product/temperature-humidity/",
+    "pass": 1
+   },
+   {
+    "quote": "Email alerts have been set up: in the event of a deviation or excessive consumption, the information is forwarded to the maintenance department for investigation and corrective action.",
+    "url": "https://www.sensorfact.eu/customer-stories/structuring-energy-data-to-manage-consumption-the-approach-of-trivium-packaging-beaurepaire/",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/167389-66",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Home - Sensorfact: smart monitoring for industry — Van Delft: towards more efficient production and less waste with Sensorfact OEE Predictive maintenance",
+    "url": "https://www.sensorfact.eu/",
+    "pass": 3
+   },
+   {
+    "quote": "ABB が Sensorfact を買収：産業用エネルギー効率の飛躍的な進歩 — 2017 年に設立された Sensorfact は、中小企業が業務とエネルギー管理に AI を使用してコストを削減し、効率を向上させるのに役立つスケーラブルな SaaS ソリューションを提供しています。",
+    "url": "https://www3.to/abb-が-sensorfact-を買収：産業用エネルギー効率の飛躍的な/",
+    "pass": 3
+   },
+   {
+    "quote": "ABB to acquire Sensorfact expanding its digital energy ... — Jan 21, 2025 · ABB is acquiring Sensorfact BV, a fast-growing energy management company headquartered in Utrecht, Netherlands. The acquisition further expands ABB’s digital energy management offering and is expected to close in Q1 2025.",
+    "url": "https://www.abb.com/global/en/news/122814/abb-to-acquire-sensorfact-expanding-its-digital-energy-management-offering",
+    "pass": 3
+   },
+   {
+    "quote": "工控巨头ABB，2025又一重磅收购！！ - 知乎 — 1月21日，全球工控巨头ABB宣布了其年内第二次重要收购，目标是荷兰快速发展的能源管理公司Sensorfact BV。 此次交易旨在加强ABB的数字化能源管理服务组合，并支持工业客户实现运营智能化和减少废弃物的目标。 预计该…",
+    "url": "https://zhuanlan.zhihu.com/p/19859658671",
+    "pass": 3
+   },
+   {
+    "quote": "Just eight years after being founded – AI climate tech firm ... — Jan 22, 2025 · Sensorfact founder Pieter Broekema launched his software company in 2017 after seeing how difficult it was for manufacturers to identify opportunities for energy savings.",
+    "url": "https://impactloop.com/article/just-seven-years-after-it-being-founded-ai-climate-tech-firm-gets-snapped-up-by-giant-abb",
+    "pass": 3
+   },
+   {
+    "quote": "ABB to acquire Sensorfact expanding its digital energy ... — Jan 21, 2025 · Established in 2017, Sensorfact offers a scalable software as a service (SaaS) solution that helps small and medium sized enterprises use AI in their operations and energy management to lower costs and increase efficiency.",
+    "url": "https://www.abb.com/global/en/news/122814/abb-to-acquire-sensorfact-expanding-its-digital-energy-management-offering",
+    "pass": 3
+   },
+   {
+    "quote": "Sensorfact - LinkedIn — Sensorfact | 19,933 followers on LinkedIn. Join us on our mission to create a smart and sustainable industry! | We develop products that allow manufacturers to easily monitor energy consumption...",
+    "url": "https://www.linkedin.com/company/sensorfact",
+    "pass": 3
+   },
+   {
+    "quote": "SET Ventures announces successful exit of Sensorfact to ABB — Jan 21, 2025 · SET Ventures, which has been investing in Sensorfact since 2022, helped the company to grow and supported its last financing round of 25 million euros. The partnership has now ended in a strategic exit.",
+    "url": "https://www.startbase.com/news/set-ventures-gibt-erfolgreichen-exit-von-sensorfact-an-abb-bekannt/",
+    "pass": 3
+   },
+   {
+    "quote": "Sensorfact | ABB Electrification U.S. — By combining real-time monitoring, actionable insights, and seamless integration, Sensorfact™ helps companies reduce costs, improve efficiency, and meet sustainability goals.",
+    "url": "https://electrification.us.abb.com/products/energy-management-systems/sensorfact",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories - Sensorfact: smart monitoring for industry — See how our customers manage to get clear insights in their energy consumption and how they succeed to detect and implement savings.",
+    "url": "https://www.sensorfact.eu/customer-stories/",
+    "pass": 3
+   },
+   {
+    "quote": "How Sensorfact Helped Clients Save an Average of 10% on Energy — Oct 12, 2022 · It uses Pressac’s sensors to help create end-to-end energy management solutions for manufacturing clients across the world. By feeding the sensor’s accurate real-time data into Sensorfact software customers can understand, control and reduce their energy consumption.",
+    "url": "https://www.pressac.com/case-studies/sensorfact-energy-sensors/",
+    "pass": 3
+   },
+   {
+    "quote": "Prevent costly downtime in manufacturing with vibration ... — Learn how Plasthill, a plastics leader, prevents costly manufacturing downtime using Sensorfact's vibration sensors. Discover their predictive maintenance approach and significant ROI.",
+    "url": "https://www.sensorfact.eu/customer-stories/prevent-manufacturing-downtime/",
+    "pass": 3
+   },
+   {
+    "quote": "Sensorfact: Odoo case study | Dynapps — See how Sensorfact works with Dynapps on Odoo, from the first challenge through to the results.",
+    "url": "https://www.dynapps.ch/en/cases/sensorfact",
+    "pass": 3
+   },
+   {
+    "quote": "Sensorfact – Company Insights & Financial Strength – 2026 — Revenue, valuation, and funding figures for Sensorfact are estimates based on publicly available information, industry analysis, regulatory filings, company-provided profile updates, and proprietary data aggregation methods.",
+    "url": "https://compworth.com/company/sensorfact",
+    "pass": 3
+   },
+   {
+    "quote": "SensorFact 2026 Company Profile: Valuation, Investors ...Sensorfact - Overview, News & Similar companies | ZoomInfo.comSensorfact - 2025 Company Profile, Team, Funding ... - TracxnSensorfact: Funding, Team & Investors | Startup IntrosSensorfact — Company Profile | The Company CheckSensorfact — Company Profile, Funding & Investors — Information on acquisition, funding, cap tables, investors, and ex",
+    "url": "https://pitchbook.com/profiles/company/167389-66",
+    "pass": 3
+   },
+   {
+    "quote": "Sensorfact - Overview, News & Similar companies | ZoomInfo.com — Gather financial insights about Sensorfact, including details on funding rounds, investors, total funding, and acquisitions, to gain a comprehensive understanding of their financial strategy.",
+    "url": "https://www.zoominfo.com/c/sensorfact/481418164",
+    "pass": 3
+   },
+   {
+    "quote": "Sensorfact - 2025 Company Profile, Team, Funding ... - Tracxn — Sensorfact - About the company Sensorfact is an acquired company based in Utrecht (Netherlands), founded in 2016 by Pieter Broekema. It operates as a Smart energy monitoring. Sensorfact has raised $48.4M in funding from investors like Korys, EIT InnoEnergy and FORWARD.one.",
+    "url": "https://tracxn.com/d/companies/sensorfact/__R4fKLqaUAKyXQJkZs_5fbjNGmM51EcExaIpKlKs3Rn0",
+    "pass": 3
+   },
+   {
+    "quote": "Sensorfact: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Sensorfact is poised to dominate as the leading global smart IoT platform for industrial SMEs, expanding beyond energy to full utilities/OEE monitoring amid tightening regulations and AI-driven predictive tools.",
+    "url": "https://startupintros.com/orgs/sensorfact",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "We are acquiring Sensorfact BV, a fast-growing energy ... We are acquiring Sensorfact BV, a fast-growing energy management company from the Netherlands! The acquisition expands our portfolio of energy management solutions, helping our customers #outrun leaner and cleaner.",
+    "url": "https://x.com/ABBgroupnews/status/1881666741207785695",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Sensorfact - LinkedIn Sensorfact | 19,933 followers on LinkedIn. Join us on our mission to create a smart and sustainable industry! | We develop products that allow manufacturers to easily monitor energy consumption...",
+    "url": "https://www.linkedin.com/company/sensorfact",
+    "pass": 3
+   },
+   {
+    "quote": "Sensorfact: Jobs | LinkedIn Sensorfact | 19,895 followers on LinkedIn. Join us on our mission to create a smart and sustainable industry! | We develop products that allow manufacturers to easily monitor energy consumption...",
+    "url": "https://www.linkedin.com/company/sensorfact/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "Meet & Greet with Pieter Broekema, CEO of Sensorfact - LinkedIn May 5, 2022 · I would like for Sensorfact to have a significant and measurable impact on CO2 reduction in the industry and that as many people as possible have a great ride working here!",
+    "url": "https://www.linkedin.com/pulse/meet-greet-pieter-broekema-ceo-sensorfact-sensorfact",
+    "pass": 3
+   },
+   {
+    "quote": "Sensorfact: Culture | LinkedIn Help us shape our company culture! Sensorfact fosters a culture that empowers employees through a blend of ownership, autonomy and transparency.",
+    "url": "https://www.linkedin.com/company/sensorfact/life",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Startup - ABB is acquiring Sensorfact BV, a fast-growing ... Jan 21, 2025 · ABB is acquiring Sensorfact BV, a fast-growing energy management company headquartered in Utrecht, Netherlands. The acquisition further expands ABB’s digital energy management offering and is expected to close in Q1 2025. Financial terms were not disclosed.",
+    "url": "https://www.facebook.com/startuprise.eu/photos/abb-is-acquiring-sensorfact-bv-a-fast-growing-energy-management-company-headquar/122189080466154780/",
+    "pass": 3
+   },
+   {
+    "quote": "Enerji - ABB, Sensorfact'ı satın alarak dijital ... - Facebook Jan 29, 2025 · ABB, Sensorfact'ı satın alarak dijital enerji yönetimi yelpazesini genişletiyor...",
+    "url": "https://www.facebook.com/enerjivetesisat/photos/abb-sensorfactı-satın-alarak-dijital-enerji-yönetimi-yelpazesini-genişletiyorhtt/1213798180177687/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sensorfact.eu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensorfact.eu/customer-stories/future-pipe-industries-towards-less-downtime-and-more-insight-with-predictive-maintenance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensorfact.eu/customer-stories/van-delft-towards-more-efficient-production-and-less-waste-with-sensorfact-oee/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensorfact.eu/customer-stories/bravilor-bonamat-steps-up-sustainability-efforts/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensorfact.eu/customer-stories/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensorfact.eu/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensorfact.eu/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensorfact.eu/product/electricity-management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensorfact.eu/product/predictive-maintenance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensorfact.eu/product/oee/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensorfact.eu/product/gas-management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensorfact.eu/product/compressed-air-management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensorfact.eu/product/water-management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensorfact.eu/product/temperature-humidity/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensorfact.eu/customer-stories/prevent-manufacturing-downtime/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensorfact.eu/customer-stories/phoenix-3d-metaal-we-thought-we-knew-until-we-saw-the-data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensorfact.eu/customer-stories/structuring-energy-data-to-manage-consumption-the-approach-of-trivium-packaging-beaurepaire/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensorfact.eu/customer-stories/when-energy-data-becomes-a-performance-driver-at-doulux/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensorfact.eu/customer-stories/predictive-maintenance-how-plasticos-modernos-cut-its-repair-costs-tenfold/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensorfact.eu/customer-stories/anticipate-optimize-perform-coffein-compagnie-italy-s-r-l-relies-on-predictive-maintenance/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www3.to/abb-%E3%81%8C-sensorfact-%E3%82%92%E8%B2%B7%E5%8F%8E%EF%BC%9A%E7%94%A3%E6%A5%AD%E7%94%A8%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E5%8A%B9%E7%8E%87%E3%81%AE%E9%A3%9B%E8%BA%8D%E7%9A%84%E3%81%AA/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abb.com/global/en/news/122814/abb-to-acquire-sensorfact-expanding-its-digital-energy-management-offering",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zhuanlan.zhihu.com/p/19859658671",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dolphin-s.co.jp.siteindices.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abb.com/global/en/news/122814/abb-to-acquire-sensorfact-expanding-its-digital-energy-management-offering",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www3.to/abb-%E3%81%8C-sensorfact-%E3%82%92%E8%B2%B7%E5%8F%8E%EF%BC%9A%E7%94%A3%E6%A5%AD%E7%94%A8%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E5%8A%B9%E7%8E%87%E3%81%AE%E9%A3%9B%E8%BA%8D%E7%9A%84%E3%81%AA/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/sensorfact",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.startbase.com/news/set-ventures-gibt-erfolgreichen-exit-von-sensorfact-an-abb-bekannt/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pressac.com/case-studies/sensorfact-energy-sensors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dynapps.ch/en/cases/sensorfact",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/sensorfact",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/167389-66",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/sensorfact/481418164",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/sensorfact/__R4fKLqaUAKyXQJkZs_5fbjNGmM51EcExaIpKlKs3Rn0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ABBgroupnews/status/1881666741207785695",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/sensorfact",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/sensorfact/jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/meet-greet-pieter-broekema-ceo-sensorfact-sensorfact",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/sensorfact/life",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/startuprise.eu/photos/abb-is-acquiring-sensorfact-bv-a-fast-growing-energy-management-company-headquar/122189080466154780/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/enerjivetesisat/photos/abb-sensorfactı-satın-alarak-dijital-enerji-yönetimi-yelpazesini-genişletiyorhtt/1213798180177687/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Sensorfact 日本 導入",
+   "results": [
+    "https://www.sensorfact.eu/",
+    "https://www3.to/abb-が-sensorfact-を買収：産業用エネルギー効率の飛躍的な/",
+    "https://www.abb.com/global/en/news/122814/abb-to-acquire-sensorfact-expanding-its-digital-energy-management-offering",
+    "https://zhuanlan.zhihu.com/p/19859658671",
+    "https://impactloop.com/article/just-seven-years-after-it-being-founded-ai-climate-tech-firm-gets-snapped-up-by-giant-abb",
+    "https://www.iij.ad.jp/news/pressrelease/2026/0326.html",
+    "https://monoist.itmedia.co.jp/mn/articles/2610/29/news032.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sensorfact 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://dolphin-s.co.jp.siteindices.com/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.u-blox.com/en/about-us/sales-network-offices/japan-2",
+    "https://www.aon.com/japan/company-overview",
+    "https://baseconnect.in/",
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://www.sensofar.com/",
+    "https://www.ifm.com/jp/ja"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Sensorfact Japan",
+   "results": [
+    "https://www.abb.com/global/en/news/122814/abb-to-acquire-sensorfact-expanding-its-digital-energy-management-offering",
+    "https://www3.to/abb-が-sensorfact-を買収：産業用エネルギー効率の飛躍的な/",
+    "https://www.linkedin.com/company/sensorfact",
+    "https://www.startbase.com/news/set-ventures-gibt-erfolgreichen-exit-von-sensorfact-an-abb-bekannt/",
+    "https://electrification.us.abb.com/products/energy-management-systems/sensorfact",
+    "https://www.sensorfact.eu/",
+    "https://www.sensorfact.eu/contact/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sensorfact manufacturing customer case study",
+   "results": [
+    "https://www.sensorfact.eu/customer-stories/",
+    "https://www.pressac.com/case-studies/sensorfact-energy-sensors/",
+    "https://www.sensorfact.eu/customer-stories/prevent-manufacturing-downtime/",
+    "https://www.dynapps.ch/en/cases/sensorfact",
+    "https://www.pressac.com/case-studies/",
+    "https://www.younium.com/customer-cases/case-study-sensorfact",
+    "https://www.enocean.com/en/news/success-stories/how-smart-sensors-help-some-of-the-biggest-names-in-manufacturing-cut-their-energy-usage/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sensorfact white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://partners.spectrum.com/",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://www.ninjaone.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sensorfact founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/sensorfact",
+    "https://pitchbook.com/profiles/company/167389-66",
+    "https://www.zoominfo.com/c/sensorfact/481418164",
+    "https://tracxn.com/d/companies/sensorfact/__R4fKLqaUAKyXQJkZs_5fbjNGmM51EcExaIpKlKs3Rn0",
+    "https://startupintros.com/orgs/sensorfact",
+    "https://www.thecompanycheck.com/company/b/sensorfact/7yfbwlt9yxs4l26uw",
+    "https://acquirezy.com/organization/sensorfact-1401529"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Sensorfact",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/tag/TFT",
+    "https://note.com/lively_pika8336/n/n5adf36c23e7b",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/tori_1980/n/n21037c205ade",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Sensorfact",
+   "results": [
+    "https://x.com/ABBgroupnews/status/1881666741207785695",
+    "https://x.com/",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/darkilingnaty/status/2116203949992694035",
+    "https://x.com/BuzzingPop/status/2117864405064892847",
+    "https://x.com/CogitoEdu/status/2117911840973861028",
+    "https://x.com/chillestwoman/status/2116669325868400644"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Sensorfact",
+   "results": [
+    "https://www.linkedin.com/company/sensorfact",
+    "https://www.linkedin.com/company/sensorfact/jobs",
+    "https://www.linkedin.com/pulse/meet-greet-pieter-broekema-ceo-sensorfact-sensorfact",
+    "https://www.linkedin.com/company/sensorfact/life",
+    "https://www.linkedin.com/products/sensorfact-predictive-maintenance/",
+    "https://nl.linkedin.com/in/pieter-broekema",
+    "https://nl.linkedin.com/in/senan-king-4907491a"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Sensorfact",
+   "results": [
+    "https://www.facebook.com/startuprise.eu/photos/abb-is-acquiring-sensorfact-bv-a-fast-growing-energy-management-company-headquar/122189080466154780/",
+    "https://www.facebook.com/\u0000jperes88/",
+    "https://www.facebook.com/era.kasami/",
+    "https://www.facebook.com/enerjivetesisat/photos/abb-sensorfactı-satın-alarak-dijital-enerji-yönetimi-yelpazesini-genişletiyorhtt/1213798180177687/",
+    "https://www.facebook.com/100064232997165/",
+    "https://www.facebook.com/ABB.Egypt/videos/توفير-الطاقة-من-أكبر-التحديات-اللي-بنقابلها-النهارده-في-الحلقة-دي-من-abb-monday-/1132226123093234/",
+    "https://www.facebook.com/utrechtinc/videos/are-you-looking-for-a-new-role-our-startups-current-and-alumni-are-hiring-check-/1602817307513670/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sensorfact note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.com/sadaaki",
+    "https://note.jp/n/ncc37a1d4aa0b",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/",
+    "https://www.linkedin.com/pulse/meet-greet-pieter-broekema-ceo-sensorfact-sensorfact"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sensorfact X 投稿",
+   "results": [
+    "https://www.sensorfact.eu/",
+    "https://www.instagram.com/sensorfact_/",
+    "https://www.sensorfact.eu/careers/",
+    "https://x.com/ishida_chatgpt/article/2066323646180954330",
+    "https://x.com/twitcasting_jp/status/2100831269575868441",
+    "https://fitly.pics/blog/x-twitter-post-tips",
+    "https://note.com/munou_ac/n/n3489f9572885"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部28頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部28頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部28頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部28頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部28頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部28頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部28頁・検索12回）"
+ }
+}

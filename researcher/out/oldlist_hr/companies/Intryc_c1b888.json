@@ -1,0 +1,1043 @@
+{
+ "name": "Intryc",
+ "aliases": [],
+ "context": "旧営業リスト｜Customer Experience Software｜AUMS不適合",
+ "researched_at": "2026-11-09T18:18:52.355830+00:00",
+ "official_url": "https://intryc.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "4. Seed Round",
+    "value": "19-Sep-2024 $3.1M   Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/537922-72",
+    "pass": 3
+   },
+   {
+    "label": "2. Seed Round",
+    "value": "07-Nov-2023 $1.25M $1.25M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/537922-72",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Announcing “The 90% Accuracy Promise”",
+    "url": "https://www.intryc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Announcing “The 90% Accuracy Promise” - or your money back",
+    "url": "https://www.intryc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Intryc turns fragmented CX workflows into one connected system for QA, training, coaching, and insights.",
+    "url": "https://www.intryc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Hello! I'd be happy to help with your balance transfer. Our Platinum card currently offers 0% APR on balance transfers for 18 months, with a 3% transfer fee.",
+    "url": "https://www.intryc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Exactly right! The 3% fee would be $156. After the promotional period, the rate goes to our standard variable APR, currently 16.99%. Do you have enough available credit on your Platinum card?",
+    "url": "https://www.intryc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Realistic AI simulations reduce onboarding time by half and risk by 40%.",
+    "url": "https://www.intryc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Most QA tools stop after identifying what went wrong. Intryc connects evaluation, feedback, coaching, training, and automation so every quality insight can lead to measurable improvement.",
+    "url": "https://www.intryc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven metrics from research show that measuring quality is no longer enough. The new standard is continuous improvement, conversation after conversation.",
+    "url": "https://www.intryc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how companies use Intryc to improve their customer support.",
+    "url": "https://www.intryc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Since adopting Intryc, we’ve increased our audit output by 40% and enhanced continuous improvement insights by 130%.”",
+    "url": "https://www.intryc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-grade security and privacy",
+    "url": "https://www.intryc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The conversations you analyze and the quality data we generate are protected by rigorously tested safeguards.",
+    "url": "https://www.intryc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "All customer information that comes through your support tickets stays protected and processed lawfully.",
+    "url": "https://www.intryc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Quality Manager | Enterprise (> 1000 emp.)",
+    "url": "https://www.intryc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Intryc has enabled quality assurance across our multiple CX teams. Our CX environment involves fairly complex operations across different markets and contact channels, yet Intryc still provides the team with straightforward workflows, AutoQA (AI)-powered evaluations, and strong data analytics that help us act on our findings.",
+    "url": "https://www.intryc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Intryc Transformed Our QA with Seamless Integrations and Impressive AI Insights”",
+    "url": "https://www.intryc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Intryc has transformed our QA process from manual sampling to 100% automated coverage. It’s no longer about finding “needles in haystacks”; we can now see the whole forest.",
+    "url": "https://www.intryc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "UI / UX: The platform looks sleek and modern, and the navigation feels intuitive. It’s easy for team leads to move from high-level sentiment trends straight into specific call moments without getting lost in layers of menus.",
+    "url": "https://www.intryc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Support / Onboarding: The transition to Intryc was smooth. Their team helped us calibrate our initial rubrics so the AI scoring matched our human standards from day one.",
+    "url": "https://www.intryc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI / Intelligence: The AI’s ability to pick up nuance and intent is genuinely impressive. It surfaces coaching opportunities and compliance risks that our manual reviews used to miss, and it delivers a level of depth that standard keyword spotting simply can’t match.",
+    "url": "https://www.intryc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Voice Analyst Technical Assistance Center | Enterprise (> 1000 emp.)",
+    "url": "https://www.intryc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Training & Quality Manager | Mid-Market (51-1000 emp.)",
+    "url": "https://www.intryc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Intryc is user-friendly and intuitive to navigate, and connecting it with our helpdesk software was straightforward. The team's support throughout setup and onboarding has been excellent.",
+    "url": "https://www.intryc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We also worked with the Intryc team to build a custom integration for our moderation function, pulling moderation decisions directly into Intryc as tickets with priority-based sampling rules for high-risk content categories. That has opened up QA coverage we simply did not have before and significantly reduced manual effort in the process.",
+    "url": "https://www.intryc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The product reflects that same level of expertise. For every QA scenario we’ve raised so far, there’s been a feature that supports it. And when we’ve asked for things that aren’t available yet, the team listens and is open to adjusting the roadmap in that direction. Their focus on automating the low-value parts of QA, the tasks that quietly drain support managers, is what I appreciate most.",
+    "url": "https://www.intryc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We share the impact our product has had on our customers and their customer support infrastructure.",
+    "url": "https://www.intryc.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How Deliverect Doubled QA Coverage While Improving CSAT and IQS with Intryc",
+    "url": "https://www.intryc.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "From QA to coaching to training, Intryc turns every insight into action, so quality keeps compounding instead of leaking away.",
+    "url": "https://www.intryc.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Deel, a global HR and payroll platform operating 24/7 support across chat, email, and phone in over 150 countries, needed more than just a support QA solution. They needed a platform that would allow them to build a scalable, best-in-class quality assurance and agent training program that would enable their teams to move at the highest speed and service quality in the market.",
+    "url": "https://www.intryc.com/customer-stories/how-deel-doubled-qa-evaluation-capacity-without-adding-headcount",
+    "pass": 1
+   },
+   {
+    "quote": "By implementing Intryc's AI-driven platform, the Operational Excellence team at Deel has more than doubled their evaluation output, at a fraction of the time previously required and with the same QA headcount, while almost eliminating all previous manual work and improving root cause targeting accuracy.",
+    "url": "https://www.intryc.com/customer-stories/how-deel-doubled-qa-evaluation-capacity-without-adding-headcount",
+    "pass": 1
+   },
+   {
+    "quote": "The platform they were using before Intryc had limitations. Managing multiple scorecards made trend analysis difficult, and the manual QA process consumed significant time on tasks that didn't contribute to insight generation. As Portillo explains: \"Not having better QA coverage limited our visibility into performance trends and slowed down coaching cycles.\"",
+    "url": "https://www.intryc.com/customer-stories/how-deel-doubled-qa-evaluation-capacity-without-adding-headcount",
+    "pass": 1
+   },
+   {
+    "quote": "Deel evaluated several top QA platforms using G2 reviews and peer recommendations. \"We noticed that a lot of them had good QA processes, appeared to be very strong, but they lacked the flexibility that we needed as we were trying to scale,\" Portillo says. Most platforms fell short on key dimensions: customization required extra manual effort, and data centralization was limited.",
+    "url": "https://www.intryc.com/customer-stories/how-deel-doubled-qa-evaluation-capacity-without-adding-headcount",
+    "pass": 1
+   },
+   {
+    "quote": "\"Automation reduced manual work in assigning tickets and reporting, allowing QAs to focus on insights and process improvements. We now have a data-driven approach to evaluate performance and reward our teams\" (Portillo).",
+    "url": "https://www.intryc.com/customer-stories/how-deel-doubled-qa-evaluation-capacity-without-adding-headcount",
+    "pass": 1
+   },
+   {
+    "quote": "Automation features now save several hours per week per QA analyst. QA analysts at Deel have elevated their scope of work, instead focusing on core issues or patterns across the business that need the most attention from support or adjacent teams like product, engineering, or sales. Evaluations move faster and provide more thorough, detailed insights.",
+    "url": "https://www.intryc.com/customer-stories/how-deel-doubled-qa-evaluation-capacity-without-adding-headcount",
+    "pass": 1
+   },
+   {
+    "quote": "Tagging accuracy and process consistency both improved, contributing to faster First Contact Resolution and more relevant coaching sessions. \"While CSAT and NPS are influenced by many factors, the improved QA visibility and feedback cycles have supported a noticeable improvement in overall agent performance and quality consistency across teams\" (Portillo).",
+    "url": "https://www.intryc.com/customer-stories/how-deel-doubled-qa-evaluation-capacity-without-adding-headcount",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to scale your quality operations without scaling headcount? See how Intryc's AI-powered platform can transform your QA process.",
+    "url": "https://www.intryc.com/customer-stories/how-deel-doubled-qa-evaluation-capacity-without-adding-headcount",
+    "pass": 1
+   },
+   {
+    "quote": "From QA to coaching to training, Intryc turns every insight into action, so quality keeps compounding instead of leaking away.",
+    "url": "https://www.intryc.com/customer-stories/how-deel-doubled-qa-evaluation-capacity-without-adding-headcount",
+    "pass": 1
+   },
+   {
+    "quote": "International wire transfer problem",
+    "url": "https://www.intryc.com/solutions/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Approved SOP language followed",
+    "url": "https://www.intryc.com/solutions/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Complaint process followed",
+    "url": "https://www.intryc.com/solutions/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Skip APR and focus on the rate.",
+    "url": "https://www.intryc.com/solutions/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "“We’re now doing 3x more evaluations with the same staff. That’s been the biggest unexpected benefit. Everyone really enjoys using the tool and appreciate the AI support behind it.”",
+    "url": "https://www.intryc.com/solutions/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Your customers' financial data never leaves a controlled environment. Intryc is SOC 2 Type II certified and GDPR compliant, with role-based access, data segregation and PII redaction built in.",
+    "url": "https://www.intryc.com/solutions/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "From QA to coaching to training, Intryc turns every insight into action, so quality keeps compounding instead of leaking away.",
+    "url": "https://www.intryc.com/solutions/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Absolutely. I can prepare the new keys for you now. You’re welcome to stop by the front desk, or I can have a team member bring them up to your room.",
+    "url": "https://www.intryc.com/solutions/travel-hospitality",
+    "pass": 1
+   },
+   {
+    "quote": "Intryc lets you build scorecards around the standards you're actually measured on, including the empathy and service-excellence criteria a generic form may leave out. Now a warm recovery scores as a win, and every conversation holds to the same standard your property is inspected on.",
+    "url": "https://www.intryc.com/solutions/travel-hospitality",
+    "pass": 1
+   },
+   {
+    "quote": "Intryc evaluates conversations in every language your guests speak and across every channel they reach you on so service quality holds consistent across every property worldwide. Intryc is also SOC 2 Type II certified and GDPR compliant.",
+    "url": "https://www.intryc.com/solutions/travel-hospitality",
+    "pass": 1
+   },
+   {
+    "quote": "From QA to coaching to training, Intryc turns every insight into action, so quality keeps compounding instead of leaking away.",
+    "url": "https://www.intryc.com/solutions/travel-hospitality",
+    "pass": 1
+   },
+   {
+    "quote": "Repeat Contact Resolution Training",
+    "url": "https://www.intryc.com/solutions/bpos",
+    "pass": 1
+   },
+   {
+    "quote": "20260705_training",
+    "url": "https://www.intryc.com/solutions/bpos",
+    "pass": 1
+   },
+   {
+    "quote": "I’m sorry you’ve had to contact us more than once. I reviewed the previous notes and confirmed your order is delayed at the local distribution center. It is now expected tomorrow, and I’ll document this update so you receive consistent information if you need to follow up.",
+    "url": "https://www.intryc.com/solutions/bpos",
+    "pass": 1
+   },
+   {
+    "quote": "Escalation Request Training",
+    "url": "https://www.intryc.com/solutions/bpos",
+    "pass": 1
+   },
+   {
+    "quote": "Run separate scorecards, SLAs and reporting for every client you serve from one workspace. Each account is now graded against its own standards without spinning up a new process per contract.",
+    "url": "https://www.intryc.com/solutions/bpos",
+    "pass": 1
+   },
+   {
+    "quote": "Approved resolution path followed",
+    "url": "https://www.intryc.com/solutions/bpos",
+    "pass": 1
+   },
+   {
+    "quote": "Intryc spots the patterns pulling your scores down, turns them into practice scenarios built from your team's real calls, and gets agents reps before the gap reaches a customer.",
+    "url": "https://www.intryc.com/solutions/bpos",
+    "pass": 1
+   },
+   {
+    "quote": "Intryc connects to your CCaaS platform, helpdesk and telephony, so every call and ticket comes in on its own, with nothing to export or upload. It's SOC 2 Type II certified and GDPR compliant, keeps each client's data separate, controls who sees what by role, and strips out PII automatically.",
+    "url": "https://www.intryc.com/solutions/bpos",
+    "pass": 1
+   },
+   {
+    "quote": "From QA to coaching to training, Intryc turns every insight into action, so quality keeps compounding instead of leaking away.",
+    "url": "https://www.intryc.com/solutions/bpos",
+    "pass": 1
+   },
+   {
+    "quote": "Every support conversation either protects a renewal or chips away at it, and more of them now run through AI agents. Intryc scores all of them, for technical accuracy and experience, so the misses that quietly lose accounts surface while you can still fix them.",
+    "url": "https://www.intryc.com/solutions/saas",
+    "pass": 1
+   },
+   {
+    "quote": "Intryc connects to Zendesk, Intercom, Salesforce and the rest of your support stack, so every conversation flows in automatically with nothing to export. It's SOC 2 Type II certified and GDPR compliant, with role-based access, data segregation and PII redaction.",
+    "url": "https://www.intryc.com/solutions/saas",
+    "pass": 1
+   },
+   {
+    "quote": "From QA to coaching to training, Intryc turns every insight into action, so quality keeps compounding instead of leaking away.",
+    "url": "https://www.intryc.com/solutions/saas",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by world-class teams who are obsessed with their customers’ experience",
+    "url": "https://www.intryc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Team Intryc (S24) here and excited to show you the second and most upgraded iteration of our product, already used by billion dollar companies like",
+    "url": "https://www.ycombinator.com/companies/intryc",
+    "pass": 3
+   },
+   {
+    "quote": "Intryc Case Study · SuperMarketers",
+    "url": "https://www.supermarketers.ai/case-studies/intryc",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Deel, a global HR and payroll platform operating 24/7 support across chat, email, and phone in over 150 countries, needed more than just a support QA solution. They needed a platform that would allow them to build a scalable, best-in-class quality assurance and agent training program that would enable their teams to move at the highest speed and service quality in the market.",
+    "url": "https://www.intryc.com/customer-stories/how-deel-doubled-qa-evaluation-capacity-without-adding-headcount",
+    "pass": 1
+   },
+   {
+    "quote": "I’m sorry you’ve had to contact us more than once. I reviewed the previous notes and confirmed your order is delayed at the local distribution center. It is now expected tomorrow, and I’ll document this update so you receive consistent information if you need to follow up.",
+    "url": "https://www.intryc.com/solutions/bpos",
+    "pass": 1
+   },
+   {
+    "quote": "I’m locked out and lost email access.",
+    "url": "https://www.intryc.com/solutions/bpos",
+    "pass": 1
+   },
+   {
+    "quote": "Score 100% of support conversations across email, chat and voice instead of a 3% sample. The misses that quietly lose accounts surface the moment they happen, not in next quarter's churn report.",
+    "url": "https://www.intryc.com/solutions/saas",
+    "pass": 1
+   },
+   {
+    "quote": "I am locked out of my account and lost access to my email.",
+    "url": "https://www.intryc.com/solutions/saas",
+    "pass": 1
+   },
+   {
+    "quote": "I am locked out of my account and lost access to my email.",
+    "url": "https://www.intryc.com/solutions/telecommunications",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/537922-72",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Make every arrival worth coming back for",
+    "url": "https://www.intryc.com/solutions/travel-hospitality",
+    "pass": 1
+   },
+   {
+    "quote": "I want to cancel my plan, I'm switching to another carrier.",
+    "url": "https://www.intryc.com/solutions/telecommunications",
+    "pass": 1
+   },
+   {
+    "quote": "Behind Intryc is a team of former Revolut, Confluent, and Twitter employees with more than seven years of experience improving customer experience. Our founders saw firsthand how manual, repetitive, and error-prone support QA was, and built Intryc so support teams could focus on their customers and business goals.",
+    "url": "https://www.intryc.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Previously led Customer Success in Northern Europe for Confluent, overseeing $40M in ARR across strategic customers. Prior to that, first Enterprise Customer Success Manager in EMEA for Navan (aka TripActions), establishing the EMEA’s first team and presence.",
+    "url": "https://www.intryc.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Intryc has become an integral part of Djamo's support team's daily routine. \"Everyone has their workload and targets to reach. They really enjoy using the tool and appreciate the AI support behind it.\"",
+    "url": "https://www.intryc.com/customer-stories/djamo-scales-support-quality-with-intryc-3x-more-qa-coverage-with-the-same-team",
+    "pass": 1
+   },
+   {
+    "quote": "Welcome Pickups operates in over 370 destinations across 116 countries, providing pre-booked, personalized airport transfers and sightseeing experiences. Founded in 2015 in Athens, Greece, the company built its reputation on a simple promise: stress-free arrival experiences powered by carefully selected local drivers.",
+    "url": "https://www.intryc.com/customer-stories/how-welcome-pickups-cut-qa-time-by-93-while-reducing-agent-driven-dissatisfaction-by-22",
+    "pass": 1
+   },
+   {
+    "quote": "Superintelligent health insurance that keeps employees healthy",
+    "url": "https://www.workatastartup.com/companies/intryc",
+    "pass": 3
+   },
+   {
+    "quote": "Average rank when listed",
+    "url": "https://www.supermarketers.ai/case-studies/intryc",
+    "pass": 3
+   },
+   {
+    "quote": "Initially we were at eighteen percent of visibility in AI answers, and that grew to thirty-seven percent within the first month. On head-to-head comparisons we went from thirty-eight to fifty-seven plus win rate. It goes back to us controlling the narrative, and not our competitors controlling our product's narrative.",
+    "url": "https://www.supermarketers.ai/case-studies/intryc",
+    "pass": 3
+   },
+   {
+    "quote": "Intryc started out mostly outbound. Now new prospects are arriving from search and from AI. When the team asks how they found Intryc, the answer is increasingly",
+    "url": "https://www.supermarketers.ai/case-studies/intryc",
+    "pass": 3
+   },
+   {
+    "quote": "Brand brain, winning narrative, voice guide and a verified proof bank. Every future page draws on one source of truth.",
+    "url": "https://www.supermarketers.ai/case-studies/intryc",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/537922-72",
+    "pass": 3
+   },
+   {
+    "quote": "Intryc has 19 total employees.",
+    "url": "https://pitchbook.com/profiles/company/537922-72",
+    "pass": 3
+   },
+   {
+    "quote": "What is Intryc’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/537922-72",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Intryc is",
+    "url": "https://pitchbook.com/profiles/company/537922-72",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Intryc (YC S24) - LinkedIn — Intryc (YC S24) - LinkedIn LinkedIn https://www.linkedin.com > intryc",
+    "url": "https://www.linkedin.com/company/intryc",
+    "pass": 3
+   },
+   {
+    "quote": "Intryc : Close the Loop on Customer Experience — Intryc : Close the Loop on Customer Experience Intryc https://www.intryc.com",
+    "url": "https://www.intryc.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Intryc is the unified quality assurance, governance, and ... — Intryc is the unified quality assurance, governance, and ... Y Combinator https://www.ycombinator.com > intryc",
+    "url": "https://www.ycombinator.com/companies/intryc",
+    "pass": 3
+   },
+   {
+    "quote": "Jobs at Intryc (S24) | Y Combinator's Work at a Startup — Jobs at Intryc (S24) | Y Combinator's Work at a Startup Y Combinator's Work at a Startup https://www.workatastartup.com > int...",
+    "url": "https://www.workatastartup.com/companies/intryc",
+    "pass": 3
+   },
+   {
+    "quote": "Intryc : AI Website Design & Webflow | ViDesigns — Intryc : AI Website Design & Webflow | ViDesigns ViDesigns https://videsigns.uk > intryc",
+    "url": "https://videsigns.uk/case-study/intryc",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories | Intryc — Customer Stories | Intryc Intryc https://www.intryc.com > customer-st...",
+    "url": "https://www.intryc.com/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Intryc Case Study - AI visibility 2 - SuperMarketers — Intryc Case Study - AI visibility 2 - SuperMarketers supermarketers.ai https://www.supermarketers.ai > intryc",
+    "url": "https://www.supermarketers.ai/case-studies/intryc",
+    "pass": 3
+   },
+   {
+    "quote": "How Intryc Is Redefining Customer Success with AI - YouTube — How Intryc Is Redefining Customer Success with AI - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=ZoxLqNEQ5n4",
+    "pass": 3
+   },
+   {
+    "quote": "Blog | Intryc — Blog | Intryc Intryc https://www.intryc.com > blog",
+    "url": "https://www.intryc.com/blog",
+    "pass": 3
+   },
+   {
+    "quote": "About Us - Intryc — About Us - Intryc Intryc https://www.intryc.com > about",
+    "url": "https://www.intryc.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Intryc 2026 Company Profile: Valuation, Funding & Investors — Intryc 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/537922-72",
+    "pass": 3
+   },
+   {
+    "quote": "Intryc - Crunchbase Company Profile & Funding — Intryc - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > organi...",
+    "url": "https://www.crunchbase.com/organization/sentify-ac9e",
+    "pass": 3
+   },
+   {
+    "quote": "Intryc - 2026 Company Profile, Team, Funding & Competitors — Intryc - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/intryc/__YaMg20DFL_YwCZHxD1kPZFJnoX_6kzpjwMXhKDqKo9o",
+    "pass": 3
+   },
+   {
+    "quote": "Intryc Revenue 2024: $1.4M Est. - GetLatka — Intryc Revenue 2024: $1.4M Est. - GetLatka GetLatka https://getlatka.com > intryc",
+    "url": "https://getlatka.com/companies/intryc.com",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "The options were the usual three: an agency, a full-time marketing hire, or the founder doing it himself. He spoke to agencies and interviewed candidates, looking for one person who understood the product, the landscape and the technical side of AI search, and who could ship fast.",
+    "url": "https://www.supermarketers.ai/case-studies/intryc",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Intryc (YC S24) - LinkedIn Intryc (YC S24) - LinkedIn LinkedIn https://www.linkedin.com > intryc",
+    "url": "https://www.linkedin.com/company/intryc",
+    "pass": 3
+   },
+   {
+    "quote": "Alex Marantelos - Co-Founder/CEO @ Intryc (YC S24) - LinkedIn Alex Marantelos - Co-Founder/CEO @ Intryc (YC S24) - LinkedIn LinkedIn https://www.linkedin.com > alexmara...",
+    "url": "https://www.linkedin.com/in/alexmarantelos",
+    "pass": 3
+   },
+   {
+    "quote": "Intryc Launches QA and Training Platform for Human and AI ... Intryc Launches QA and Training Platform for Human and AI ... LinkedIn https://www.linkedin.com > posts",
+    "url": "https://www.linkedin.com/posts/alexmarantelos_icymi-we-just-launched-our-new-website-and-activity-7494050569406550016-7gKe",
+    "pass": 3
+   },
+   {
+    "quote": "Senior Product Designer at Intryc (YC S24) - LinkedIn Senior Product Designer at Intryc (YC S24) - LinkedIn LinkedIn https://www.linkedin.com > jobs > view",
+    "url": "https://www.linkedin.com/jobs/view/senior-product-designer-at-intryc-yc-s24-4382810928",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.intryc.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intryc.com/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intryc.com/customer-stories/how-deel-doubled-qa-evaluation-capacity-without-adding-headcount",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intryc.com/solutions/financial-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intryc.com/solutions/travel-hospitality",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intryc.com/solutions/bpos",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intryc.com/solutions/saas",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intryc.com/solutions/telecommunications",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intryc.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intryc.com/customer-stories/case-study-how-sadapay-scaled-qa-efficiency-10x-with-intryc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intryc.com/customer-stories/djamo-scales-support-quality-with-intryc-3x-more-qa-coverage-with-the-same-team",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intryc.com/customer-stories/how-welcome-pickups-cut-qa-time-by-93-while-reducing-agent-driven-dissatisfaction-by-22",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intryc.com/customer-stories/how-dashbpo-5xd-qa-sample-volume-while-reducing-disputes-by-3-across-multi-client-operations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intryc.com/customer-stories/how-deliverect-doubled-qa-coverage-while-improving-csat-and-iqs-with-intryc",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.intryc.com/logos/customers/deliverect.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.intryc.com/logos/customers/welcome-pickups.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.intryc.com/logos/customers/dashbpo.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.intryc.com/logos/customers/blueground.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bestcarweb.jp/news/entame/1669612",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mycar-life.com/article/2026/11/08/32725.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bgent.net/plus/article/7044",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hits-company.co.jp/alliance/column/agency-business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/785/distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/company/intryc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.intryc.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/intryc",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.workatastartup.com/companies/intryc",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.intryc.com/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.supermarketers.ai/case-studies/intryc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=ZoxLqNEQ5n4",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.infor.com/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intryc.com/blog",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intryc.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/537922-72",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/sentify-ac9e",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/intryc/__YaMg20DFL_YwCZHxD1kPZFJnoX_6kzpjwMXhKDqKo9o",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/intryc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/alexmarantelos",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/alexmarantelos_icymi-we-just-launched-our-new-website-and-activity-7494050569406550016-7gKe",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/view/senior-product-designer-at-intryc-yc-s24-4382810928",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Intryc 日本 導入",
+   "results": [
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://www.mycar-life.com/article/2026/11/08/32725.html",
+    "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "https://www.youtube.com/watch?v=Hs-oiuXs54U",
+    "https://www.netdenjd.com/archives/708202",
+    "https://ecnavi.jp/mainichi_news/article/c94ab04840a50bfa9881f03b50b562cd/",
+    "https://newswitch.jp/p/50724",
+    "https://peaky.co.jp/intryc/",
+    "https://www.intryc.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Intryc 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.bgent.net/plus/article/7044",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://www.hits-company.co.jp/alliance/column/agency-business/",
+    "https://metoree.com/companies/785/distributors/",
+    "https://fc-kamei.net/ID30/KW11",
+    "https://web-repo.jp/articles/1451",
+    "https://www.rakus.co.jp/rakurakucloud/hanbai/column/2021/0202.php",
+    "https://b-seeds.com/column/agency-types",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=2935",
+    "https://b-seeds.com/column/sole-agency-agreement"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Intryc Japan",
+   "results": [
+    "https://www.linkedin.com/company/intryc",
+    "https://www.intryc.com/",
+    "https://www.ycombinator.com/companies/intryc",
+    "https://www.workatastartup.com/companies/intryc",
+    "https://videsigns.uk/case-study/intryc",
+    "https://www.youtube.com/watch?v=ZoxLqNEQ5n4",
+    "https://yespress.io/intryc-yc-s24",
+    "https://www.intryc.com/about",
+    "https://www.intralinkgroup.com/japan",
+    "https://www.intryc.com/platform"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Intryc manufacturing customer case study",
+   "results": [
+    "https://www.intryc.com/customer-stories",
+    "https://www.supermarketers.ai/case-studies/intryc",
+    "https://www.youtube.com/watch?v=ZoxLqNEQ5n4",
+    "https://www.infor.com/customer-stories",
+    "https://www.industryweek.com/leadership/strategic-planning-execution/article/21261091/winning-with-customer-case-studies-4-tips-6-pitfalls",
+    "https://c3.ai/customers",
+    "https://www.nice.com/blog/4-case-studies-that-prove-the-value-of-using-the-best-customer-experience-software",
+    "https://dxc.com/insights/customer-stories",
+    "https://www.iic.com/case-studies",
+    "https://www.casestudies.com/company/intryc"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Intryc white label OR reseller OR partner program",
+   "results": [
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.intryc.com/blog",
+    "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://www.linkedin.com/company/intryc",
+    "https://journeybee.io/resources/beyond-co-branding-why-white-label-partner-software-defines-winning-partnerships",
+    "https://getquantic.com/become-white-label-software-reseller/",
+    "https://synthflow.ai/blog/white-label-reseller",
+    "https://intandem.vcita.com/blog/partners/different-types-of-white-label-partnerships",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Intryc founded funding employees revenue",
+   "results": [
+    "https://www.intryc.com/about",
+    "https://pitchbook.com/profiles/company/537922-72",
+    "https://www.crunchbase.com/organization/sentify-ac9e",
+    "https://tracxn.com/d/companies/intryc/__YaMg20DFL_YwCZHxD1kPZFJnoX_6kzpjwMXhKDqKo9o",
+    "https://getlatka.com/companies/intryc.com",
+    "https://www.startupmag.co.uk/funding/intryc-raised-3100000/",
+    "https://www.linkedin.com/company/intryc",
+    "https://yespress.io/intryc-yc-s24",
+    "https://www.ycombinator.com/companies/intryc/jobs/Lr6k3V0-fullstack-software-engineer",
+    "https://fundediq.co/intryc-intryc-com-funding/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com Intryc",
+   "results": [
+    "https://note.com/kazunoricc/n/nf3c502ee2f90",
+    "https://note.com/dashboard",
+    "https://note.com/kaa_kun_/n/n0c3b5a994b74",
+    "https://note.com/genial_quince1/n/nfa82b3b404bc",
+    "https://note.com/donut2/n/n5b326fae9f9a",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/cd350476/n/n6883f35ae37c"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:x.com Intryc",
+   "results": [
+    "https://x.com/fin_ai",
+    "https://x.com/jbwyme",
+    "https://x.com/gendou_official/status/2111594946394571232",
+    "https://x.com/",
+    "https://x.com/alexmarantelos",
+    "https://x.com/DimitrisIlias",
+    "https://x.com/shivishekhar",
+    "https://x.com/aaryanux",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/buffys/status/2114931049780441163"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:linkedin.com Intryc",
+   "results": [
+    "https://www.linkedin.com/company/intryc",
+    "https://www.linkedin.com/in/alexmarantelos",
+    "https://www.linkedin.com/posts/alexmarantelos_icymi-we-just-launched-our-new-website-and-activity-7494050569406550016-7gKe",
+    "https://www.linkedin.com/jobs/view/senior-product-designer-at-intryc-yc-s24-4382810928",
+    "https://www.linkedin.com/in/dimilias",
+    "https://uk.linkedin.com/in/georgepastakas",
+    "https://www.linkedin.com/in/kevin-mckay-92aba21a2",
+    "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-intryc-yc-s24-4461360956",
+    "https://www.linkedin.com/posts/manavgolecha_here-is-my-interview-with-alex-marantelos-activity-7299819058315571200-U5K7",
+    "https://gr.linkedin.com/in/tdaglis"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:facebook.com Intryc",
+   "results": [
+    "https://www.facebook.com/SamirAbuEidKorrespondent/posts/st%C3%A4ll-dina-fr%C3%A5gor-om-nordkoreajag-%C3%A4r-hemma-i-sverige-efter-att-ha-tillbringat-10/1636498536425887/",
+    "https://www.facebook.com/61571804232110/posts/sideboard-teak-ikea-r%C3%A5by-1962-retro-stort-och-rymligt-sideboardsk%C3%A4nk-fr%C3%A5n-ikea-r/122154079040726807/",
+    "https://www.facebook.com/jenny.frutos.79/posts/1503326098244141/",
+    "https://www.facebook.com/GazetaShneta/videos/-dr-agron-bytyqi-kirurg-maksilofacial-n%C3%AB-ada-dent-shpjegon-trajtimin-e-%C3%A7rregulli/727677249857270/",
+    "https://www.facebook.com/hemtex/posts/f%C3%A4rgskalan-i-sommarens-f%C3%B6rsta-trend-flourish-%C3%A4r-helt-r%C3%A4tt-i-tiden-med-olika-nyan/10159114489185233/",
+    "https://www.facebook.com/malmoopera/videos/don-giovanni-il-mio-tesoro/665827848858464/",
+    "https://www.facebook.com/nojeslivet/posts/genom-%C3%A5ren-korsades-deras-v%C3%A4gar-vid-flera-tillf%C3%A4llen-astrid-lindgrens-f%C3%B6rsta-m%C3%B6t/1355845519891728/",
+    "https://www.facebook.com/p4sormland/videos/h%C3%A4r-kliver-vi-in-i-en-av-de-14-nya-operationssalarna-i-nya-m%C3%A4larsjukhuset-i-eski/1458443185710720/",
+    "https://www.facebook.com/VisitAland/photos/en-vacker-och-smakrik-produkt-som-f%C3%B6r-tankarna-till-medelhavet-det-lyxiga-intryc/826902797342581/?locale=hi_IN"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Intryc note 社長",
+   "results": [
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://note.com/sadaaki",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://x.com/sadaaki",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://diamond.jp/articles/-/388572",
+    "https://the-shashi.com/tse/5243/ceo/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Intryc X 投稿",
+   "results": [
+    "https://www.intryc.com/privacy-policy",
+    "https://www.youtube.com/watch?v=5X55mmsuwok",
+    "https://www.intryxtx.com/",
+    "https://www.instagram.com/intryxofficial/",
+    "https://www.intruex.com/",
+    "https://www.youtube.com/user/inticreates",
+    "https://intryxdigital.com/",
+    "https://x.com/interesting_aIl",
+    "https://x.com/intryc",
+    "https://www.intryc.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部28頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部28頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部28頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部28頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部28頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部28頁・検索12回）"
+ }
+}

@@ -8,7 +8,7 @@
  ],
  "context": "手順",
  "kind": "market",
- "researched_at": "2026-11-09T02:38:47.198988+00:00",
+ "researched_at": "2026-11-09T18:01:32.521341+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -74,6 +74,11 @@
     "method": "http"
    },
    {
+    "url": "https://ils.tokyo/contents/hypothesis-verification/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.asmarq.co.jp/column/column-cat/how_to/how_formulate_hypothesis/",
     "status": "ok",
     "method": "http"
@@ -84,17 +89,7 @@
     "method": "http"
    },
    {
-    "url": "https://ils.tokyo/contents/hypothesis-verification/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.bi.ksc.co.jp/tips/data-utilization/formulating-hypotheses",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://ndlsearch.ndl.go.jp/books/R000000004-I032930006",
+    "url": "https://freeasy24.research-plus.net/blog/c264",
     "status": "ok",
     "method": "http"
    },
@@ -104,12 +99,12 @@
     "method": "http"
    },
    {
-    "url": "https://corp.linkers.net/blog/openwithlinkers/12530/",
+    "url": "https://ndlsearch.ndl.go.jp/books/R000000004-I032930006",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://freeasy24.research-plus.net/blog/c264",
+    "url": "https://corp.linkers.net/blog/openwithlinkers/12530/",
     "status": "ok",
     "method": "http"
    },
@@ -124,6 +119,11 @@
     "method": "pdf"
    },
    {
+    "url": "https://crexgroup.com/ja/data/column/research-design/hypothesis-setting-how-to-tips/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2908713/",
     "status": "ok",
     "method": "http"
@@ -134,18 +134,18 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.regorz-statistik.de/en/moderated_mediation_or_mediated_moderation.html",
+    "url": "https://savvystatistics.com/the-three-most-common-types-of-hypotheses/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.researchgate.net/post/Does_my_mediation_hypothesis_support_or_not_in_the_moderated_mediation_model",
+    "url": "https://www.researchgate.net/post/How_do_we_write_the_moderated_moderation_hypothesis",
     "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://publications.aaahq.org/jfr/article/8/1/11/138/A-Practical-Guide-to-Using-Path-Analysis-Mediation",
-    "status": "http_403",
+    "url": "https://www.regorz-statistik.de/en/moderated_mediation_or_mediated_moderation.html",
+    "status": "ok",
     "method": "http"
    },
    {
@@ -186,32 +186,29 @@
     "https://note.com/takahitosasaki83/n/n46a21dced431",
     "https://norimune.net/2693",
     "https://metricgate.com/blogs/ja/moderator-vs-mediator-variable/",
-    "https://note.com/tsunobuchi/n/n14a67db1074a",
-    "https://ndlsearch.ndl.go.jp/books/R000000004-I032930006",
-    "https://www.jstage.jst.go.jp/article/jaiop/36/2/36_189/_article/-char/ja"
+    "https://note.com/tsunobuchi/n/n14a67db1074a"
    ],
    "engines": [
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 12
+   "n_hits": 8
   },
   {
    "query": "仮説の形（主効果・調整・媒介）を事業・市場の調べ物の仮説に当てはめる書き方（規模で向きが変わる仮説を規模別の表で確かめる） やり方",
    "results": [
-    "https://www.jaiop.jp/journal/3753.html",
     "https://cir.nii.ac.jp/crid/1520859768692888576",
     "https://note.com/hal_note22/n/n25f6b5d952f4",
-    "https://norimune.net/2693",
-    "https://www.asmarq.co.jp/column/column-cat/how_to/how_formulate_hypothesis/",
-    "https://www.cross-m.co.jp/column/marketing/mkc20260717",
+    "https://www.jaiop.jp/journal/3753.html",
     "https://ils.tokyo/contents/hypothesis-verification/",
-    "https://www.bi.ksc.co.jp/tips/data-utilization/formulating-hypotheses",
-    "https://note.com/takahitosasaki83/n/n46a21dced431",
-    "https://ndlsearch.ndl.go.jp/books/R000000004-I032930006"
+    "https://www.asmarq.co.jp/column/column-cat/how_to/how_formulate_hypothesis/",
+    "https://norimune.net/2693",
+    "https://www.cross-m.co.jp/column/marketing/mkc20260717",
+    "https://freeasy24.research-plus.net/blog/c264",
+    "https://www.jstage.jst.go.jp/article/jaiop/36/2/36_189/_article/-char/ja",
+    "https://note.com/takahitosasaki83/n/n46a21dced431"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 13
@@ -222,39 +219,40 @@
     "https://note.com/hal_note22/n/n25f6b5d952f4",
     "https://cir.nii.ac.jp/crid/1520859768692888576",
     "https://www.jaiop.jp/journal/3753.html",
-    "https://www.asmarq.co.jp/column/column-cat/how_to/how_formulate_hypothesis/",
     "https://ils.tokyo/contents/hypothesis-verification/",
+    "https://www.asmarq.co.jp/column/column-cat/how_to/how_formulate_hypothesis/",
     "https://corp.linkers.net/blog/openwithlinkers/12530/",
     "https://freeasy24.research-plus.net/blog/c264",
     "https://www.cross-m.co.jp/column/marketing/mkc20260717",
-    "https://note.com/takahitosasaki83/n/n46a21dced431",
-    "https://ndlsearch.ndl.go.jp/books/R000000004-I032930006"
+    "https://www.jstage.jst.go.jp/article/jaiop/36/2/36_189/_article/-char/ja",
+    "https://note.com/takahitosasaki83/n/n46a21dced431"
    ],
    "engines": [
     "ddgs:bing",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 13
+   "n_hits": 14
   },
   {
    "query": "hypothesis forms moderation mediation business research segment analysis",
    "results": [
     "https://pmc.ncbi.nlm.nih.gov/articles/PMC2908713/",
     "https://tarheels.live/jeffreyedwardswebsite/wp-content/uploads/sites/5503/2024/03/Aguinisetal2016.pdf",
+    "https://savvystatistics.com/the-three-most-common-types-of-hypotheses/",
+    "https://www.researchgate.net/post/How_do_we_write_the_moderated_moderation_hypothesis",
     "https://www.youtube.com/watch?v=Zu-P_KE0x4c",
     "https://www.regorz-statistik.de/en/moderated_mediation_or_mediated_moderation.html",
-    "https://www.researchgate.net/post/Does_my_mediation_hypothesis_support_or_not_in_the_moderated_mediation_model",
-    "https://publications.aaahq.org/jfr/article/8/1/11/138/A-Practical-Guide-to-Using-Path-Analysis-Mediation",
     "http://quantpsy.org/pubs/preacher_rucker_hayes_2007.pdf",
-    "https://savvystatistics.com/the-three-most-common-types-of-hypotheses/",
-    "https://www.sciencedirect.com/science/article/pii/S0268401225001276",
-    "https://www.subthesis.com/blog/mediation-moderation-analysis-research-guide"
+    "https://openpublishing.library.umass.edu/pare/article/1615/galley/1566/view/",
+    "https://www.statisticssolutions.com/similarities-and-differences-between-mediation-and-moderation-analyses/",
+    "https://www.sciencedirect.com/science/article/pii/S0268401225001276"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 16
   },
   {
    "query": "site:note.com 仮説の形（主効果・調整・媒介）を事業・市場の調べ物の仮説に当てはめる書き方（規模で向きが変わる仮説を規模別の表で確かめる）",
@@ -263,23 +261,29 @@
     "https://note.com/jack4manastalk/n/n880406135053",
     "https://note.com/limber_spirea435/n/nd7b1362c9bfb",
     "https://note.com/huge_kamaitachi/n/n13b33e5dc981",
-    "https://note.com/yasubow202/n/n4f5f2ea2c76e"
+    "https://note.com/yasubow202/n/n4f5f2ea2c76e",
+    "https://note.com/takahitosasaki83/n/n46a21dced431",
+    "https://note.com/hal_note22/n/n25f6b5d952f4",
+    "https://note.com/takaos/n/nd6cb3a8250d6",
+    "https://note.com/i_partners/n/nc08bc6e3d5de",
+    "https://note.com/tsubasatada/n/n87d82e24b291"
    ],
    "engines": [
+    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 5
+   "n_hits": 12
   },
   {
    "query": "site:x.com 仮説の形（主効果・調整・媒介）を事業・市場の調べ物の仮説に当てはめる書き方（規模で向きが変わる仮説を規模別の表で確かめる）",
    "results": [
-    "https://x.com/kanawakakasuga/status/2101280150524436850",
+    "https://x.com/urinobi_media/status/2119266155575541784",
     "https://x.com/FindyTeamPlus/status/2050110928176468152",
     "https://x.com/yoshikbiz/status/2084848250960724254",
-    "https://x.com/miya_dilx/status/2111263546067829146",
     "https://x.com/Wayout_consul/status/1925514477849456984",
-    "https://x.com/Nospare_Inc/status/2054335814457504121",
-    "https://x.com/kawai_design/status/2117753692384276826"
+    "https://x.com/kanawakakasuga/status/2101280150524436850",
+    "https://x.com/misaipro/status/2072961794562294098",
+    "https://x.com/uchita_success/status/2075161288024707323"
    ],
    "engines": [
     "ddgs:google"
@@ -298,7 +302,7 @@
     "https://jp.linkedin.com/posts/卓也-川合-354782262_リサーチどの型を使えばいい-調べたいことから選ぶ-フレームワーク18選をご紹介-activity-7523519684873437185-dRxX"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -314,7 +318,7 @@
     "https://www.facebook.com/reel/1286367639382111/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -329,8 +333,8 @@
     "https://norimune.net/2693",
     "https://metricgate.com/blogs/ja/moderator-vs-mediator-variable/",
     "https://note.com/tsunobuchi/n/n14a67db1074a",
-    "https://ndlsearch.ndl.go.jp/books/R000000004-I032930006",
-    "https://www.jstage.jst.go.jp/article/jaiop/36/2/36_189/_article/-char/ja"
+    "https://www.jstage.jst.go.jp/article/jaiop/36/2/36_189/_article/-char/ja",
+    "https://ndlsearch.ndl.go.jp/books/R000000004-I032930006"
    ],
    "engines": [
     "ddgs:google",
@@ -348,12 +352,12 @@
     "https://metricgate.com/blogs/ja/moderator-vs-mediator-variable/",
     "https://corp.linkers.net/blog/openwithlinkers/12530/",
     "https://www.cross-m.co.jp/column/marketing/mkc20260717",
-    "https://www.asmarq.co.jp/column/column-cat/how_to/how_formulate_hypothesis/",
+    "https://www.asmarq.co.jp/column/column-cat/how_to/hypothesis_research/",
     "https://note.com/takahitosasaki83/n/n46a21dced431",
     "https://ndlsearch.ndl.go.jp/books/R000000004-I032930006"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 13
@@ -364,16 +368,16 @@
     "https://www.linkedin.com/in/zoeziani",
     "https://www.linkedin.com/in/sara-mcmullinphd",
     "https://www.linkedin.com/in/golnoosh-behrouzian-ph-d-95b3bb15a",
-    "https://fr.linkedin.com/in/sylvie-borau-2a3a0b20/en",
     "https://it.linkedin.com/in/francesco-laviola/en",
-    "https://www.linkedin.com/in/maryam-tajmirriyahi",
+    "https://fr.linkedin.com/in/sylvie-borau-2a3a0b20/en",
     "https://www.linkedin.com/in/vokhoi",
+    "https://www.linkedin.com/in/maryam-tajmirriyahi",
     "https://es.linkedin.com/in/verabutkouskaya",
-    "https://www.linkedin.com/in/jie-doreen-shen-phd-a00a6b12b",
-    "https://www.linkedin.com/in/mengchen87"
+    "https://www.linkedin.com/in/justin-petrillo-6098344b",
+    "https://www.linkedin.com/in/jie-doreen-shen-phd-a00a6b12b"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -387,6 +391,6 @@
   "実例": "記載なし（読んだ28頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 4,
+ "runs": 5,
  "first_researched_at": "2026-11-08T03:59:01.729371+00:00"
 }

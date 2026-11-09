@@ -1,0 +1,1153 @@
+{
+ "name": "Allus AI",
+ "aliases": [],
+ "context": "旧営業リスト｜Quality / Inspection / Metrology｜リマイン1",
+ "researched_at": "2026-11-09T18:27:49.983391+00:00",
+ "official_url": "https://allus.ai",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2025",
+    "url": "https://startupintros.com/orgs/allus-ai",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "Atlanta, GA, USA",
+    "url": "https://startupintros.com/orgs/allus-ai",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Video → steps & timing",
+    "url": "https://www.allus.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Operational priorities",
+    "url": "https://www.allus.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "What your teams work to improve each shift.",
+    "url": "https://www.allus.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Video → steps & timing",
+    "url": "https://www.allus.ai/?story=advanced-materials",
+    "pass": 1
+   },
+   {
+    "quote": "Operational priorities",
+    "url": "https://www.allus.ai/?story=advanced-materials",
+    "pass": 1
+   },
+   {
+    "quote": "What your teams work to improve each shift.",
+    "url": "https://www.allus.ai/?story=advanced-materials",
+    "pass": 1
+   },
+   {
+    "quote": "Today's most powerful AI systems reason over language, software and information. Yet the world still runs through machines, factories, workers and physical processes.",
+    "url": "https://www.allus.ai/company",
+    "pass": 3
+   },
+   {
+    "quote": "Allus builds next-gen vision foundation models that bring real intelligence to manufacturing. Enabling factories to see, understand, and improve production in real time.",
+    "url": "https://www.ycombinator.com/companies/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Allus is a 1B parameter vision foundation model trained on over 1.5 billion industrial, robotics, and manufacturing data pairs collected over five years. It achieves state-of-the-art accuracy in defect detection (> 99.95%) and process monitoring (> 99.2%).",
+    "url": "https://www.ycombinator.com/companies/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Allus understands manufacturing the same way ChatGPT understands language. The dataset we used to train Allus is more than 100x larger than comparable industrial datasets, giving Allus a strong baseline familiarity with the entire factory ecosystem, including machines, people, and processes.",
+    "url": "https://www.ycombinator.com/companies/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Today 95% of manufacturers still rely on manual inspection to detect defects and monitor process compliance on the factory floor. This work can be automated with computer vision, but these solutions are domain-specific, take months to implement and cost millions of dollars.",
+    "url": "https://www.ycombinator.com/companies/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "In the last three months, we’ve deployed it on production lines run by five global fortune 500 manufacturers, where we’ve been able to improve defect detection accuracy in some cases by more than 100x.",
+    "url": "https://www.ycombinator.com/companies/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "That positioning matters because it immediately tells you where Zhisen An and the team are trying to play. They are not chasing broad AI branding. They are going after one of the most expensive and frustrating problems in industrial operations: making visual intelligence practical at scale.",
+    "url": "https://www.okreporter.com/how-zhisen-an-helped-allus-ai-bring-vision-foundation-models-to-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "The Manufacturing Problem Allus AI Set Out to Solve",
+    "url": "https://www.okreporter.com/how-zhisen-an-helped-allus-ai-bring-vision-foundation-models-to-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "The phrase vision foundation model can sound technical, but the practical idea is simple. Instead of building a different computer vision setup for every single use case, the company is trying to build a more general model that already understands industrial environments at a broad level. From there, it can be adapted to specific problems much faster than older systems.",
+    "url": "https://www.okreporter.com/how-zhisen-an-helped-allus-ai-bring-vision-foundation-models-to-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "How Zhisen An Helped Shape Allus AI’s Practical Direction",
+    "url": "https://www.okreporter.com/how-zhisen-an-helped-allus-ai-bring-vision-foundation-models-to-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "The founder story also gives the company more depth. Y Combinator lists Zhisen An as a co-founder with a Georgia Tech background, while the company’s CREATE-X profile ties the team to Georgia Tech and frames their mission around automating quality inspection without human intervention. Y Combinator also lists Allus AI as part of its Fall 2025 batch.",
+    "url": "https://www.okreporter.com/how-zhisen-an-helped-allus-ai-bring-vision-foundation-models-to-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Turning a Complex AI Idea Into a Factory-Ready Product",
+    "url": "https://www.okreporter.com/how-zhisen-an-helped-allus-ai-bring-vision-foundation-models-to-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "A lot of AI companies struggle at this point. They can explain the science, but not the workflow. Allus AI is trying to solve that by making the product feel operational rather than experimental. The company says it supports deployment to cameras, industrial PCs, and robots, while also offering real-time analytics and AI-driven insights to optimize quality and efficiency.",
+    "url": "https://www.okreporter.com/how-zhisen-an-helped-allus-ai-bring-vision-foundation-models-to-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "That matters because manufacturers do not buy models. They buy outcomes. They want fewer defects, better process monitoring, stronger quality assurance, and less delay between identifying a problem and fixing it. When Allus AI talks about production deployment, analytics, and rapid solution delivery, it is translating sophisticated AI into something much closer to operational language.",
+    "url": "https://www.okreporter.com/how-zhisen-an-helped-allus-ai-bring-vision-foundation-models-to-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "That is one reason Zhisen An and Allus AI stand out as a founder-company pairing worth covering. The company’s message is not only about intelligence. It is about usability. And in manufacturing, usable often beats impressive.",
+    "url": "https://www.okreporter.com/how-zhisen-an-helped-allus-ai-bring-vision-foundation-models-to-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "That does not sound like a team stuck in prototype mode. It sounds like a company moving quickly into real environments where performance actually matters. For a founder story, that changes everything. It turns the article from a profile about promise into a profile about momentum.",
+    "url": "https://www.okreporter.com/how-zhisen-an-helped-allus-ai-bring-vision-foundation-models-to-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "And that is where the success angle lands best. Zhisen An is not simply part of a startup building AI for industry. He is part of a founding team trying to prove that vision foundation models can work where the bar is high, the margin for error is low, and adoption only happens when the product earns trust.",
+    "url": "https://www.okreporter.com/how-zhisen-an-helped-allus-ai-bring-vision-foundation-models-to-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "The bigger reason this story matters is because manufacturing is becoming a serious proving ground for applied AI. For years, industrial AI has been discussed as a huge opportunity, but implementation has often lagged behind the vision. Companies that can reduce setup time, improve flexibility, and fit into messy real-world production environments have a much better chance of breaking through.",
+    "url": "https://www.okreporter.com/how-zhisen-an-helped-allus-ai-bring-vision-foundation-models-to-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Allus AI’s pitch fits that shift well. It combines foundation model language with very specific factory use cases like defect detection, process monitoring, quality assurance, anomaly detection, and production analytics. That combination is important because it moves the conversation away from AI as spectacle and toward AI as infrastructure.",
+    "url": "https://www.okreporter.com/how-zhisen-an-helped-allus-ai-bring-vision-foundation-models-to-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "That is why the story of Zhisen An and Allus AI feels worth following. It sits at the intersection of manufacturing, computer vision, industrial automation, and AI-native software. More importantly, it points to a version of startup success that feels grounded. Not just funding. Not just branding. Not just technical ambition. Real traction tied to a real industrial problem.",
+    "url": "https://www.okreporter.com/how-zhisen-an-helped-allus-ai-bring-vision-foundation-models-to-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "How Brooke Motta is building RAD Security to protect cloud-native systems in real time",
+    "url": "https://www.okreporter.com/how-zhisen-an-helped-allus-ai-bring-vision-foundation-models-to-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Jody Glidden Net Worth: How the Tech Entrepreneur Built His Fortune",
+    "url": "https://www.okreporter.com/how-zhisen-an-helped-allus-ai-bring-vision-foundation-models-to-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "organizes the product around three layers: AllusONE for the core model, AllusFlow for video, steps and timing, and AllusEdge for running on customer hardware. The company says the system connects video and plant data to operational priorities around safety, quality, delivery and cost.",
+    "url": "https://www.lazyweb.com/companies/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "The advantage is the attempt to move from a single camera model to a common factory context. A manufacturer could want one system that sees a process, understands the local language of the plant and runs near the equipment. The homepage also advertises edge execution and a trust-center path, which are relevant when footage cannot simply leave the facility.",
+    "url": "https://www.lazyweb.com/companies/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "The founding team’s public profile is technical: Kai Cui, Zhisen An and Shijie Wang are described as Georgia Tech computer-science graduates building the company across CEO, operations and CTO roles. The background fits a model-and-deployment company. It does not validate the company’s accuracy claims or the cost of a production rollout.",
+    "url": "https://www.lazyweb.com/companies/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "I would ask which factory workflow is already supported, how reference examples are labeled, where inference runs, how model changes are approved, and what happens when an operator disagrees with a detection. Pricing is not published in the checked pages. The buyer needs a pilot boundary, hardware requirements and a measurable definition of “better” before a demo becomes a production decision.",
+    "url": "https://www.lazyweb.com/companies/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Shortlist Allus if you operate a factory with repeatable visual checks and want a platform conversation rather than another isolated model. It is not a fit-by-default for every camera problem. The real question is whether the common model and edge path reduce deployment work without making the plant trust an opaque score.",
+    "url": "https://www.lazyweb.com/companies/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturers with defect, process or compliance workflows",
+    "url": "https://www.lazyweb.com/companies/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Allus AI is listed in Fall 2025. In our 2026-09-18 directory snapshot, 14 of 146 listed companies in that cohort have YC’s primary industry label Industrials (9.6%). This is a current-directory comparison, not an original intake count or a performance ranking.",
+    "url": "https://www.lazyweb.com/companies/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Observed 2026-09-19 16:14 UTC in raw homepage HTML. This records visible metadata and advertised links, not agent execution or product quality.",
+    "url": "https://www.lazyweb.com/companies/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Product description metadata",
+    "url": "https://www.lazyweb.com/companies/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Cofounder of Lazyweb (a16z Speedrun). Previously grew subscriptions and built native ads at Duolingo. Writes First1000 (90,000+ subscribers).",
+    "url": "https://www.lazyweb.com/companies/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "For an investment firm, Allus AI represents a transformative player in the industrial AI space, focusing on",
+    "url": "https://startupintros.com/orgs/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Product Differentiators:",
+    "url": "https://startupintros.com/orgs/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Allus AI’s vision foundation model is trained on an unprecedented scale of industrial data (1.5 billion data pairs), enabling it to generalize across multiple manufacturing domains without the need for extensive retraining.",
+    "url": "https://startupintros.com/orgs/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Achieves state-of-the-art defect detection (>99.95%) and process monitoring (>99.2%) accuracy, surpassing human-level inspection reliability.",
+    "url": "https://startupintros.com/orgs/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Provides an end-to-end AI solution with self-labeling, training, validation, and deployment capabilities that integrate seamlessly with existing factory hardware (cameras, robots, edge devices).",
+    "url": "https://startupintros.com/orgs/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "While still early-stage, Allus AI is building a presence among global manufacturers and industrial AI practitioners, fostering adoption across diverse sectors.",
+    "url": "https://startupintros.com/orgs/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Allus AI has raised $500k across 1 funding round on record, the most recent a Pre-Seed of $500k announced in Dec 2025.",
+    "url": "https://fundediq.co/allus-ai-allus-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Allus AI Company Profile and Key Stats",
+    "url": "https://fundediq.co/allus-ai-allus-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Pre-Seed Funded Startups",
+    "url": "https://fundediq.co/allus-ai-allus-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Pre-Seed Funded Artificial Intelligence Startups",
+    "url": "https://fundediq.co/allus-ai-allus-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Pre-Seed Funded Startups in the United States",
+    "url": "https://fundediq.co/allus-ai-allus-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "HELIOS® is a technology company that assists athletes and teams in improving at a quicker pace. Through their…",
+    "url": "https://fundediq.co/allus-ai-allus-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Tutor Intelligence is a comprehensive robotics and automation company designed to assist contract packagers.…",
+    "url": "https://fundediq.co/allus-ai-allus-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "An AI startup that builds custom AI models and \"Specific Intelligence\" solutions for enterprises.",
+    "url": "https://fundediq.co/allus-ai-allus-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Serval provides an AI-native IT service management platform designed to automate help desk operations, access…",
+    "url": "https://fundediq.co/allus-ai-allus-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Ravical assists skilled firms in adopting an AI-focused approach for the future. We create AI solutions that…",
+    "url": "https://fundediq.co/allus-ai-allus-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Broccoli provides automated phone support solutions for plumbing, HVAC, and electrical businesses, enabling…",
+    "url": "https://fundediq.co/allus-ai-allus-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Allus AI has raised $500k across 1 round on record. The most recent is a Pre-Seed of $500k announced in Dec 2025.",
+    "url": "https://fundediq.co/allus-ai-allus-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Allus AI's most recent funding round on record is a Pre-Seed of $500k, announced in Dec 2025.",
+    "url": "https://fundediq.co/allus-ai-allus-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "FundedIQ tracks announced funding rounds and refreshes this profile every week. Round dates,",
+    "url": "https://fundediq.co/allus-ai-allus-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Radar from $49/mo · Pro from $149/mo. Card required, nothing charged until",
+    "url": "https://fundediq.co/allus-ai-allus-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Allus AI — Industrial Intelligence for Manufacturing",
+    "url": "https://www.allus.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Intelligence",
+    "url": "https://www.allus.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Allus AI — Industrial Intelligence for Manufacturing",
+    "url": "https://www.allus.ai/?story=advanced-materials",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Intelligence",
+    "url": "https://www.allus.ai/?story=advanced-materials",
+    "pass": 1
+   },
+   {
+    "quote": "We build the intelligence layer that lets machines and factories perceive what is happening, understand its context and — under governance — act.",
+    "url": "https://www.allus.ai/company",
+    "pass": 3
+   },
+   {
+    "quote": "Today's most powerful AI systems reason over language, software and information. Yet the world still runs through machines, factories, workers and physical processes.",
+    "url": "https://www.allus.ai/company",
+    "pass": 3
+   },
+   {
+    "quote": "Allus AI: Transforming manufacturing with our next-gen Vision Foundation Model | Y Combinator",
+    "url": "https://www.ycombinator.com/companies/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Transforming manufacturing with our next-gen Vision Foundation Model",
+    "url": "https://www.ycombinator.com/companies/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Allus builds next-gen vision foundation models that bring real intelligence to manufacturing. Enabling factories to see, understand, and improve production in real time.",
+    "url": "https://www.ycombinator.com/companies/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Founder & CEO @ Allus AI. BS + MS in CS from Georgia Tech. Building vision foundation model to transform manufacturing.",
+    "url": "https://www.ycombinator.com/companies/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Allus AI — Vision Foundation Model for Manufacturing",
+    "url": "https://www.ycombinator.com/companies/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "We’re building a vision foundation model for manufacturing.",
+    "url": "https://www.ycombinator.com/companies/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": ": Traditional manufacturing vision systems are slow, complex, and expensive. Allus delivers a million-dollar vision solution in minutes.",
+    "url": "https://www.ycombinator.com/companies/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "A Vision Foundation Model for Manufacturing",
+    "url": "https://www.ycombinator.com/companies/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Allus is a 1B parameter vision foundation model trained on over 1.5 billion industrial, robotics, and manufacturing data pairs collected over five years. It achieves state-of-the-art accuracy in defect detection (> 99.95%) and process monitoring (> 99.2%).",
+    "url": "https://www.ycombinator.com/companies/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Allus understands manufacturing the same way ChatGPT understands language. The dataset we used to train Allus is more than 100x larger than comparable industrial datasets, giving Allus a strong baseline familiarity with the entire factory ecosystem, including machines, people, and processes.",
+    "url": "https://www.ycombinator.com/companies/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Today 95% of manufacturers still rely on manual inspection to detect defects and monitor process compliance on the factory floor. This work can be automated with computer vision, but these solutions are domain-specific, take months to implement and cost millions of dollars.",
+    "url": "https://www.ycombinator.com/companies/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "In the last three months, we’ve deployed it on production lines run by five global fortune 500 manufacturers, where we’ve been able to improve defect detection accuracy in some cases by more than 100x.",
+    "url": "https://www.ycombinator.com/companies/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "We’re working with manufacturers across the globe, from electronics and automotive to food & beverage, FMCG, and high-performance materials.",
+    "url": "https://www.ycombinator.com/companies/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "If you want to bring intelligence to your factory, talk to us!",
+    "url": "https://www.ycombinator.com/companies/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "How Zhisen An Helped Allus AI Bring Vision Foundation Models to Manufacturing",
+    "url": "https://www.okreporter.com/how-zhisen-an-helped-allus-ai-bring-vision-foundation-models-to-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "That positioning matters because it immediately tells you where Zhisen An and the team are trying to play. They are not chasing broad AI branding. They are going after one of the most expensive and frustrating problems in industrial operations: making visual intelligence practical at scale.",
+    "url": "https://www.okreporter.com/how-zhisen-an-helped-allus-ai-bring-vision-foundation-models-to-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "The Manufacturing Problem Allus AI Set Out to Solve",
+    "url": "https://www.okreporter.com/how-zhisen-an-helped-allus-ai-bring-vision-foundation-models-to-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "This is where Zhisen An’s work becomes part of a bigger success story. Helping build a company in this category means solving for reliability, speed, usability, and adaptability all at once. It is not enough to build a strong model. The model has to fit the reality of the factory floor.",
+    "url": "https://www.okreporter.com/how-zhisen-an-helped-allus-ai-bring-vision-foundation-models-to-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Why Vision Foundation Models Matter in Manufacturing",
+    "url": "https://www.okreporter.com/how-zhisen-an-helped-allus-ai-bring-vision-foundation-models-to-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "The phrase vision foundation model can sound technical, but the practical idea is simple. Instead of building a different computer vision setup for every single use case, the company is trying to build a more general model that already understands industrial environments at a broad level. From there, it can be adapted to specific problems much faster than older systems.",
+    "url": "https://www.okreporter.com/how-zhisen-an-helped-allus-ai-bring-vision-foundation-models-to-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "This is where success starts to look more meaningful. Zhisen An’s role in helping Allus AI matters because the company is trying to bridge two worlds that do not always connect easily: advanced AI research and everyday industrial operations. That bridge is where real value gets built.",
+    "url": "https://www.okreporter.com/how-zhisen-an-helped-allus-ai-bring-vision-foundation-models-to-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "For Zhisen An, that makes the success story more compelling. It is not just about being attached to a startup in a hot category. It is about helping move a difficult industrial AI concept from a university-linked founding environment into one of the best-known startup ecosystems in the world.",
+    "url": "https://www.okreporter.com/how-zhisen-an-helped-allus-ai-bring-vision-foundation-models-to-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Turning a Complex AI Idea Into a Factory-Ready Product",
+    "url": "https://www.okreporter.com/how-zhisen-an-helped-allus-ai-bring-vision-foundation-models-to-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "A lot of AI companies struggle at this point. They can explain the science, but not the workflow. Allus AI is trying to solve that by making the product feel operational rather than experimental. The company says it supports deployment to cameras, industrial PCs, and robots, while also offering real-time analytics and AI-driven insights to optimize quality and efficiency.",
+    "url": "https://www.okreporter.com/how-zhisen-an-helped-allus-ai-bring-vision-foundation-models-to-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "That matters because manufacturers do not buy models. They buy outcomes. They want fewer defects, better process monitoring, stronger quality assurance, and less delay between identifying a problem and fixing it. When Allus AI talks about production deployment, analytics, and rapid solution delivery, it is translating sophisticated AI into something much closer to operational language.",
+    "url": "https://www.okreporter.com/how-zhisen-an-helped-allus-ai-bring-vision-foundation-models-to-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "That is one reason Zhisen An and Allus AI stand out as a founder-company pairing worth covering. The company’s message is not only about intelligence. It is about usability. And in manufacturing, usable often beats impressive.",
+    "url": "https://www.okreporter.com/how-zhisen-an-helped-allus-ai-bring-vision-foundation-models-to-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Why This Story Fits a Bigger Shift in Industrial AI",
+    "url": "https://www.okreporter.com/how-zhisen-an-helped-allus-ai-bring-vision-foundation-models-to-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "The bigger reason this story matters is because manufacturing is becoming a serious proving ground for applied AI. For years, industrial AI has been discussed as a huge opportunity, but implementation has often lagged behind the vision. Companies that can reduce setup time, improve flexibility, and fit into messy real-world production environments have a much better chance of breaking through.",
+    "url": "https://www.okreporter.com/how-zhisen-an-helped-allus-ai-bring-vision-foundation-models-to-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Allus AI’s pitch fits that shift well. It combines foundation model language with very specific factory use cases like defect detection, process monitoring, quality assurance, anomaly detection, and production analytics. That combination is important because it moves the conversation away from AI as spectacle and toward AI as infrastructure.",
+    "url": "https://www.okreporter.com/how-zhisen-an-helped-allus-ai-bring-vision-foundation-models-to-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "That is why the story of Zhisen An and Allus AI feels worth following. It sits at the intersection of manufacturing, computer vision, industrial automation, and AI-native software. More importantly, it points to a version of startup success that feels grounded. Not just funding. Not just branding. Not just technical ambition. Real traction tied to a real industrial problem.",
+    "url": "https://www.okreporter.com/how-zhisen-an-helped-allus-ai-bring-vision-foundation-models-to-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Allus AI: vision foundation models for manufacturing | Lazyweb",
+    "url": "https://www.lazyweb.com/companies/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Allus AI is trying to make factory vision useful beyond a one-off defect detector.",
+    "url": "https://www.lazyweb.com/companies/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Allus describes a vision foundation model for manufacturing. The current",
+    "url": "https://www.lazyweb.com/companies/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "organizes the product around three layers: AllusONE for the core model, AllusFlow for video, steps and timing, and AllusEdge for running on customer hardware. The company says the system connects video and plant data to operational priorities around safety, quality, delivery and cost.",
+    "url": "https://www.lazyweb.com/companies/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "The advantage is the attempt to move from a single camera model to a common factory context. A manufacturer could want one system that sees a process, understands the local language of the plant and runs near the equipment. The homepage also advertises edge execution and a trust-center path, which are relevant when footage cannot simply leave the facility.",
+    "url": "https://www.lazyweb.com/companies/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "I would ask which factory workflow is already supported, how reference examples are labeled, where inference runs, how model changes are approved, and what happens when an operator disagrees with a detection. Pricing is not published in the checked pages. The buyer needs a pilot boundary, hardware requirements and a measurable definition of “better” before a demo becomes a production decision.",
+    "url": "https://www.lazyweb.com/companies/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Shortlist Allus if you operate a factory with repeatable visual checks and want a platform conversation rather than another isolated model. It is not a fit-by-default for every camera problem. The real question is whether the common model and edge path reduce deployment work without making the plant trust an opaque score.",
+    "url": "https://www.lazyweb.com/companies/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Vision foundation model and edge/flow layers for manufacturing",
+    "url": "https://www.lazyweb.com/companies/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturers with defect, process or compliance workflows",
+    "url": "https://www.lazyweb.com/companies/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Company says it has deployed with global manufacturers; not independently verified here",
+    "url": "https://www.lazyweb.com/companies/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Which plant workflow can be piloted with owned data and operator review?",
+    "url": "https://www.lazyweb.com/companies/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Allus AI is listed in Fall 2025. In our 2026-09-18 directory snapshot, 14 of 146 listed companies in that cohort have YC’s primary industry label Industrials (9.6%). This is a current-directory comparison, not an original intake count or a performance ranking.",
+    "url": "https://www.lazyweb.com/companies/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "next-generation vision foundation model specifically designed for manufacturing",
+    "url": "https://startupintros.com/orgs/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "For an investment firm, Allus AI represents a transformative player in the industrial AI space, focusing on",
+    "url": "https://startupintros.com/orgs/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "industrial automation and AI-driven manufacturing efficiency",
+    "url": "https://startupintros.com/orgs/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Allus AI’s vision foundation model is trained on an unprecedented scale of industrial data (1.5 billion data pairs), enabling it to generalize across multiple manufacturing domains without the need for extensive retraining.",
+    "url": "https://startupintros.com/orgs/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Provides an end-to-end AI solution with self-labeling, training, validation, and deployment capabilities that integrate seamlessly with existing factory hardware (cameras, robots, edge devices).",
+    "url": "https://startupintros.com/orgs/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "While still early-stage, Allus AI is building a presence among global manufacturers and industrial AI practitioners, fostering adoption across diverse sectors.",
+    "url": "https://startupintros.com/orgs/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Foundry Robotics is an AI driven robotics company rebuilding manufacturing with advanced assembly automation…",
+    "url": "https://fundediq.co/allus-ai-allus-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Allus AI builds next-gen vision foundation models that bring real intelligence to manufacturing",
+    "url": "https://fundediq.co/allus-ai-allus-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Company — Intelligence for the Physical World | Allus AI — Allus AI builds the intelligence that powers the physical world. Backed by Y Combinator and NVIDIA Inception. Cupertino · Atlanta.",
+    "url": "https://www.allus.ai/company",
+    "pass": 3
+   },
+   {
+    "quote": "Allus AI (YC F25) | LinkedIn — Allus is a company that offers specialized AI vision-based services tailored to industrial manufacturing corporations worldwide that excel in optimizing processes and boosting productivity.",
+    "url": "https://www.linkedin.com/company/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Allus AI — Industrial Intelligence for Manufacturing — Vision foundation models that see the work, understand it over time and run where the work happens. Built for real-world latency, reliability and compute constraints.",
+    "url": "https://www.allus.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Company — Intelligence for the Physical World | Allus AI — Allus AI is the intelligence layer that lets industrial systems perceive what is happening, understand its context and, under governance, act. When machines understand their environment, intelligence becomes infrastructure — and human expertise scales.",
+    "url": "https://www.allus.ai/company",
+    "pass": 3
+   },
+   {
+    "quote": "Allus AI — Industrial Intelligence for Manufacturing — Why Allus What sets it apart. 01 One foundation model, not point solutions AllusONE powers every solution; configure it, don't rebuild it. 02 Runs inside your boundary Edge, on-premise, private cloud or hybrid — your data never trains shared models.",
+    "url": "https://www.allus.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Allus AI: Transforming manufacturing with our next-gen Vision ... — Allus is a 1B parameter vision foundation model trained on over 1.5 billion industrial, robotics, and manufacturing data pairs collected over five years. It achieves state-of-the-art accuracy in defect detection (> 99.95%) and process monitoring (> 99.2%).",
+    "url": "https://www.ycombinator.com/companies/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Allus AI (YC F25) - LinkedIn — Allus is a company that offers specialized AI vision-based services tailored to industrial manufacturing corporations worldwide that excel in optimizing processes and boosting productivity....",
+    "url": "https://www.linkedin.com/company/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Allus AI: vision foundation models for manufacturing - Lazyweb — Sep 19, 2026 · Allus AI applies vision models, edge deployment and plant context to manufacturing quality, process and operations workflows.",
+    "url": "https://www.lazyweb.com/companies/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "How Zhisen An Helped Allus AI Bring Vision Foundation Models ... — On its site, Allus says customers can define manufacturing vision problems in natural language, generate production-ready AI solutions, and deliver industrial-grade vision solutions in 30 minutes.",
+    "url": "https://www.okreporter.com/how-zhisen-an-helped-allus-ai-bring-vision-foundation-models-to-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Allus AI: vision foundation models for manufacturing | Lazyweb — Sep 19, 2026 · Allus says traditional manufacturing vision systems are slow and expensive to configure, while its implementation agent can adapt a model to a use case from a small number of reference examples.",
+    "url": "https://www.lazyweb.com/companies/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Allus AI | FYI Combinator — Plant operations or manufacturing IT at multi‑site enterprises: They need to scale pilots across many lines/sites, integrate with PLCs/industrial networks, and meet security/compliance needs.",
+    "url": "https://fyicombinator.com/company/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Allus AI — Company Profile, Funding & Investors — Allus AI company profile with HQ in Atlanta, United States, founded 2025. Explore its acquisitions, funding rounds, investors, key people and contacts on Acquirezy — updated 2026.",
+    "url": "https://acquirezy.com/organization/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Allus AI: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Backed by seed funding from Y Combinator, the company provides its computer vision software to major corporate customers including Apple, Tesla, Panasonic, and Novo Nordisk. Allus AI was founded in 2025 by Zhisen An, Chris Kai Cui, and Shijie Wang.",
+    "url": "https://startupintros.com/orgs/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Allus AI: Funding, Investors & Team (Nov 2026) | FundedIQ — Allus AI is an Artificial Intelligence company in Atlanta, United States. Raised $500k across 1 round; latest a Pre-Seed in Dec 2025.",
+    "url": "https://fundediq.co/allus-ai-allus-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Allus AI Funding: $500K | Indexed.vc — Summary Allus AI is an Artificial Intelligence company based in Atlanta, United States, founded in 2025. It has raised $500K in total across 1 round, most recently a $500K Seed round in Dec 2025. Investors include Scale Asia Ventures and Decacorn Capital.",
+    "url": "https://indexed.vc/companies/allus-ai",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "In the last three months, we’ve deployed it on production lines run by five global fortune 500 manufacturers, where we’ve been able to improve defect detection accuracy in some cases by more than 100x.",
+    "url": "https://www.ycombinator.com/companies/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "This is where Zhisen An’s work becomes part of a bigger success story. Helping build a company in this category means solving for reliability, speed, usability, and adaptability all at once. It is not enough to build a strong model. The model has to fit the reality of the factory floor.",
+    "url": "https://www.okreporter.com/how-zhisen-an-helped-allus-ai-bring-vision-foundation-models-to-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "The founder story also gives the company more depth. Y Combinator lists Zhisen An as a co-founder with a Georgia Tech background, while the company’s CREATE-X profile ties the team to Georgia Tech and frames their mission around automating quality inspection without human intervention. Y Combinator also lists Allus AI as part of its Fall 2025 batch.",
+    "url": "https://www.okreporter.com/how-zhisen-an-helped-allus-ai-bring-vision-foundation-models-to-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "And that is where the success angle lands best. Zhisen An is not simply part of a startup building AI for industry. He is part of a founding team trying to prove that vision foundation models can work where the bar is high, the margin for error is low, and adoption only happens when the product earns trust.",
+    "url": "https://www.okreporter.com/how-zhisen-an-helped-allus-ai-bring-vision-foundation-models-to-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Allus AI is listed in Fall 2025. In our 2026-09-18 directory snapshot, 14 of 146 listed companies in that cohort have YC’s primary industry label Industrials (9.6%). This is a current-directory comparison, not an original intake count or a performance ranking.",
+    "url": "https://www.lazyweb.com/companies/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Allus AI have?",
+    "url": "https://fundediq.co/allus-ai-allus-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/allus-ai-allus-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/allus-ai-allus-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "QualSights is an immersive insights platform that enables companies, agencies, and consulting firms to gather…",
+    "url": "https://fundediq.co/allus-ai-allus-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/allus-ai-allus-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Allus AI (YC F25) - LinkedIn Allus is a company that offers specialized AI vision-based services tailored to industrial manufacturing corporations worldwide that excel in optimizing processes and boosting productivity.",
+    "url": "https://www.linkedin.com/company/allus-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Shijie Wang - Co-Founder & CTO @ Allus AI (YC F25) | LinkedIn Co-Founder & CTO @ Allus AI (YC F25) · Co-Founder & CTO @ Allus Personal Website: wsj.ai · Experience: Allus AI (YC F25) · Education: Y Combinator · Location: Atlanta · 500+ connections...",
+    "url": "https://www.linkedin.com/in/shijiew",
+    "pass": 3
+   },
+   {
+    "quote": "Chris(Kai) Cui - Co-Founder @ Allus AI (YC F25) | Leading AI ... About Founder & CEO of Allus AI (YC), building the intelligence layer for manufacturing. Venture Partner at Pioneer Fund.",
+    "url": "https://www.linkedin.com/in/kaixiang-cui",
+    "pass": 3
+   },
+   {
+    "quote": "Allus AI (YC F25)’s Post - LinkedIn I'm excited to unveil 🌟 Allus LLC 🌟, our innovative startup poised to redefine the industrial manufacturing landscape with advanced AI vision-based services.",
+    "url": "https://www.linkedin.com/posts/allus-llc_allusllc-ai-industrialmanufacturing-activity-7130014109336551424-vUEp",
+    "pass": 3
+   },
+   {
+    "quote": "Shijie Wang - Co-Founder & CTO @ Allus AI (YC F25) | 领英 Co-Founder & CTO @ Allus AI (YC F25) · Co-Founder & CTO @ Allus Personal Website: wsj.ai · 工作经历: Allus AI (YC F25) · 教育经历: Y Combinator · 地点: 亚特兰大 · 500 ...",
+    "url": "https://www.linkedin.com/in/shijiew/zh-cn",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Reallusion - FacebookAllus - FacebookAllus Allus (@allusbpocenter) • Facebook, Connect with friendsHe regretted it after I lost weight #highlightseveryone # ...Y'all, like what do y'all really what from life? AI and Tech ...ALLUS | Groet - Facebook Oct 22, 2026 · Discover how John C. Martin combined 3D and AI to tell a story that proves technology creates images, but human talent creates emotions.",
+    "url": "https://www.facebook.com/ReallusionSoftware/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "@allus_ai | X The latest posts from @allus_ai",
+    "url": "https://x.com/allus_ai",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.allus.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.allus.ai/?story=advanced-materials",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.allus.ai/assets/partners/yc-combinator.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.allus.ai/assets/partners/nvidia-inception.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.ai-souken.com/article/ai-adoption-japan-status",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ai_labo26/n/nb6bdbf2c36a2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pwc.com/jp/ja/knowledge/thoughtleadership/generative-ai-survey2026.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ik-c.co.jp/20260330",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.allus.ai/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/allus-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.allus.ai/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.allus.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/allus-ai",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/company/allus-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.allus.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.okreporter.com/how-zhisen-an-helped-allus-ai-bring-vision-foundation-models-to-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://allus.pro/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lazyweb.com/companies/allus-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nebius.com/nebius-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://customgpt.ai/ai-reseller-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/1158759-55",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://acquirezy.com/organization/allus-ai",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/allus-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fundediq.co/allus-ai-allus-ai-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/allus-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/shijiew",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/kaixiang-cui",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/allus-llc_allusllc-ai-industrialmanufacturing-activity-7130014109336551424-vUEp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ReallusionSoftware/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/shijiew/zh-cn",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/allus_ai",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Allus AI 日本 導入",
+   "results": [
+    "https://www.ai-souken.com/article/ai-adoption-japan-status",
+    "https://note.com/ai_labo26/n/nb6bdbf2c36a2",
+    "https://www.pwc.com/jp/ja/knowledge/thoughtleadership/generative-ai-survey2026.html",
+    "https://www.ik-c.co.jp/20260330",
+    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd112220.html",
+    "https://www.generativeai.tokyo/media/ai-adoption-survey-2026-sme/",
+    "https://artvibes.co.jp/blog/250528-ai_rate_2025/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Allus AI 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://www.allus.ai/company",
+    "https://www.linkedin.com/company/allus-ai",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.allus.ai/",
+    "https://wsj.ai/",
+    "https://www.dell.com/ja-jp/blog/837894/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Allus AI Japan",
+   "results": [
+    "https://www.allus.ai/company",
+    "https://www.allus.ai/",
+    "https://www.ycombinator.com/companies/allus-ai",
+    "https://www.linkedin.com/company/allus-ai",
+    "https://www.lazyweb.com/companies/allus-ai",
+    "https://fyicombinator.com/company/allus-ai",
+    "https://allus.pro/",
+    "https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/05/08/transforming-japan-with-ai-5-companies-from-the-front-lines-of-innovation/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Allus AI manufacturing customer case study",
+   "results": [
+    "https://www.allus.ai/",
+    "https://www.okreporter.com/how-zhisen-an-helped-allus-ai-bring-vision-foundation-models-to-manufacturing/",
+    "https://allus.pro/",
+    "https://www.lazyweb.com/companies/allus-ai",
+    "https://fyicombinator.com/company/allus-ai",
+    "https://www.ycombinator.com/companies/allus-ai",
+    "https://www.allus.ai/solutions"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Allus AI white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://nebius.com/nebius-partner-program",
+    "https://partner.vw.com/",
+    "https://customgpt.ai/ai-reseller-program/",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.nextiva.com/company/partners",
+    "https://www.seoreseller.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Allus AI founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/1158759-55",
+    "https://acquirezy.com/organization/allus-ai",
+    "https://startupintros.com/orgs/allus-ai",
+    "https://fundediq.co/allus-ai-allus-ai-funding/",
+    "https://indexed.vc/companies/allus-ai",
+    "https://www.allus.ai/company",
+    "https://aventure.vc/companies/allus-ai-atlanta-ga-us/fundraising"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Allus AI",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com Allus AI",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Allus AI",
+   "results": [
+    "https://www.linkedin.com/company/allus-ai",
+    "https://www.linkedin.com/in/shijiew",
+    "https://www.linkedin.com/in/kaixiang-cui",
+    "https://www.linkedin.com/posts/allus-llc_allusllc-ai-industrialmanufacturing-activity-7130014109336551424-vUEp",
+    "https://www.linkedin.com/in/zhisenan",
+    "https://www.linkedin.com/posts/y-combinator_allus-ai-yc-f25-is-transforming-manufacturing-activity-7394162015776329728-6qDq",
+    "https://www.linkedin.com/posts/allus-ai_always-here-for-all-of-us-activity-7277684526959472640-avjV"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Allus AI",
+   "results": [
+    "https://www.facebook.com/ReallusionSoftware/",
+    "https://www.facebook.com/p/Allus-100063583561149/",
+    "https://www.facebook.com/allusbpocenter/",
+    "https://www.facebook.com/allusdeband/",
+    "https://www.facebook.com/nekekwe/posts/tekedia-capital-is-excited-to-announce-our-investment-in-allus-a-company-buildin/1645367047072945/",
+    "https://www.facebook.com/danmiked/videos/he-regretted-it-after-i-lost-weighthighlightseveryone-aigenerated-foryouシ-weight/1422363759352006/",
+    "https://www.facebook.com/vonathantaylor/videos/yall-like-what-do-yall-really-what-from-life-ai-and-tech-is-gonna-kill-us-all-be/1593198118711121/",
+    "https://www.facebook.com/AITotalUS/",
+    "https://www.facebook.com/\u0000jperes88/",
+    "https://www.facebook.com/ChannelNewsAsia/posts/how-exactly-might-ai-kill-us-all-most-of-the-scenarios-involve-superintelligent-/1540699464753101/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Allus AI note 社長",
+   "results": [
+    "https://www.allus.ai/company",
+    "https://www.ycombinator.com/companies/allus-ai",
+    "https://www.f6s.com/member/kai-cui2",
+    "https://www.linkedin.com/in/shijiew/zh-cn",
+    "https://www.allus.ai/",
+    "https://www.linkedin.com/in/kaixiang-cui",
+    "https://www.ycombinator.com/founders/shijie-wang",
+    "https://note.jp/n/ncc37a1d4aa0b"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Allus AI X 投稿",
+   "results": [
+    "https://x.com/allus_ai",
+    "https://www.allus.ai/",
+    "https://create-x.gatech.edu/node/10154",
+    "https://x.com/x2775co/status/2118832284040380468",
+    "https://contentai.jp/blog/x-twitter-growth-ai",
+    "https://note.com/munou_ac/n/n3489f9572885",
+    "https://xboost.now/notes/x-post-automation-tools-2026"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式2頁／PDF・画像2件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像2件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像2件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像2件／外部31頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式2頁／PDF・画像2件／外部31頁・検索12回）"
+ }
+}

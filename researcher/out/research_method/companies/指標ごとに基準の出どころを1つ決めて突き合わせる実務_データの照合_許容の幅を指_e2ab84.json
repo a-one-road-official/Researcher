@@ -8,8 +8,726 @@
  ],
  "context": "突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-09T03:07:37.233563+00:00",
+ "researched_at": "2026-11-09T17:53:37.386661+00:00",
  "evidence": {
+  "実例": [
+   {
+    "quote": "Other use cases include",
+    "url": "https://docs.soda.io/soda-documentation/find/data-testing/data-reconciliation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "feed into a single target: for example, validating that a consolidated data warehouse matches both a staging environment and an operational database.",
+    "url": "https://docs.soda.io/soda-documentation/find/data-testing/data-reconciliation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "on each source dataset, allowing you to reconcile only a subset of records that match certain criteria (for example, only transactions from the current month, or only rows belonging to a specific business unit).",
+    "url": "https://docs.soda.io/soda-documentation/find/data-testing/data-reconciliation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": ". This tolerance can be set depending on the business context. Some use cases may allow small discrepancies (e.g., rounding differences), while others require exact equality.",
+    "url": "https://docs.soda.io/soda-documentation/find/data-testing/data-reconciliation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "that is applied on top of any existing dataset filters. This allows you to reconcile only a targeted segment of data within the context of the specific check—for example, testing only a single business unit, product family, or date range.",
+    "url": "https://docs.soda.io/soda-documentation/find/data-testing/data-reconciliation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "A single filter expression only works when the same SQL is valid against both datasets. That is often not the case: a legacy source and its migrated copy routinely differ in column names, status encodings, or partitioning conventions.",
+    "url": "https://docs.soda.io/soda-documentation/find/data-testing/data-reconciliation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "on both sides makes a code that differs only in case or padding count as the same code, rather than as one value missing on each side. There are no key columns there, so the caution above does not apply.",
+    "url": "https://docs.soda.io/soda-documentation/find/data-testing/data-reconciliation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Pick the direction that matches the relationship — the target constrained to the values of the source (the usual case when the source is the system of record), the source constrained to the target, or the two required to hold exactly the same set. Because the comparison is over distinct values, duplicates are irrelevant and no key column has to be declared; rows whose compared columns are",
+    "url": "https://docs.soda.io/soda-documentation/find/data-testing/data-reconciliation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Entries in the source list may reference the same dataset, each through its own filter — for example, two differently filtered slices of one dataset compared against the target. Where the slicing only differs per check, a single source with per-check filters keeps the contract shorter.",
+    "url": "https://docs.soda.io/soda-documentation/find/data-testing/data-reconciliation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "この「静かな失敗」を検出できるのは、結果の数字を突き合わせる作業だけです",
+    "url": "https://www.asteria.com/jp/warp/blog/166270.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Practical pattern: run deterministic rules to auto‑match the low‑risk portion, run probabilistic matching for the medium‑risk bulk, and route heuristic or ambiguous cases to a",
+    "url": "https://beefed.ai/en/cmdb-reconciliation-rules-algorithms",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Attribute-weight example for a physical server (weights as",
+    "url": "https://beefed.ai/en/cmdb-reconciliation-rules-algorithms",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "A compact Python example implementing a Fellegi–Sunter style scoring function with Jaro–Winkler similarity for strings:",
+    "url": "https://beefed.ai/en/cmdb-reconciliation-rules-algorithms",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Merge example (practical scenario):",
+    "url": "https://beefed.ai/en/cmdb-reconciliation-rules-algorithms",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Sample SQL to find obvious duplicates (hostname example):",
+    "url": "https://beefed.ai/en/cmdb-reconciliation-rules-algorithms",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Example Splink workflow (high-level) for probabilistic linkage:",
+    "url": "https://beefed.ai/en/cmdb-reconciliation-rules-algorithms",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "For example, a typical setup might reconcile Customer and Order facts across ERP and CRM nightly. The platform can alert you if order counts by day diverge, if SHA-256 fingerprints differ, or if order status transitions violate business rules. For broader industry patterns on reconciliation, see this practical",
+    "url": "https://dqpursuit.com/cross-system-data-validation-a-7-step-reconciliation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Perform row-level diffs by key and verify business logic coherence with cross-field rules. Examples include uniqueness on order_id, referential integrity from invoice to customer, non-negative inventory, and valid timestamp ranges. A reliable sequence: count group count table hash row hash by key direct field comparison. Avoid engine-specific",
+    "url": "https://dqpursuit.com/cross-system-data-validation-a-7-step-reconciliation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Use day, account, and product groupings for early signals, then set acceptable variance policies for late data. For example, many teams allow a tiny variance in the most recent hour (e.g., within a small percentage or count), then require exact agreement for prior days once freshness SLAs elapse.",
+    "url": "https://dqpursuit.com/cross-system-data-validation-a-7-step-reconciliation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "結果として、多くのマネージャーが手探りでマネジメントと向き合うことになります",
+    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "：VTuber事務所、行政機関などが公表している資料や事例",
+    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "目標を定め、工程を設計し、結果を振り返る",
+    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "自分で決め、結果を受け止める経験を積むことで、活動を自分で組み立てる力が身につきます",
+    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "結果として、トラブルのきっかけになることもあります",
+    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "人手が足りず、結果として手が回っていない状態",
+    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "数字は結果の指標であって、行動の指示ではありません",
+    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "しかし方法を考えるには、他の事例、過去の数字、使える予算、失敗しても大丈夫な範囲という情報が要ります",
+    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "その負担は、結果や数字には表れません",
+    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "10,000人という結果指標だけがあり、どうやって10,000人に届かせるかという行動が設計されていなかったことが、批判の対象でした",
+    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "タレントと一緒に設定する目標は、結果と行動の二段階で設計します",
+    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「この行動をこれだけやれば、この結果に届くはずだ」という仮説です",
+    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「結果指標を仮説として扱い、タレントが直接コントロールできる行動指標と分ける」という方法は、そうした知見をバーチャルタレントのマネジメントに合わせて私なりに翻訳した実務上の提案です",
+    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「結果指標は仮説、合意対象は行動指標」とする二段構え自体は、本稿の実務上の整理です",
+    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "2023年に行われた「TIFアイドル総選挙」では予備選挙一位、本選挙三位という結果を残し、最終日のグランドフィナーレでHOT STAGEに立つという目標も実現しました",
+    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "タスクから始めると、結果を決めていない工程を速くしてしまい、どこまで細かく見ればよいかの基準も持てないからです（第4章の4.1）",
+    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "意思決定の一覧に、実際の決定者、頻度、1件あたりの金額、材料、人によって結果が違う疑いが書かれ、関わっている人が確かめている",
+    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "意思決定の結果の記録（頻度と金額を補うため）",
+    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "- 数えた結果から言えることと、言えないことを分けて書いてください",
+    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "20件の案件が、判断の結果の大小、結果の良し悪し、顧客の区分、競合の有無が混ざるように選ばれ、半数程度に判断を分けそうな事情が含まれている",
+    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "案件資料から、結果と、結果を調べられる手がかりが除かれている",
+    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "結果が出ている案件の記録（A社では見積と受注の記録）",
+    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "推進役が、案件の記録をAIに渡し、プロンプト4-1で20件を選び、回答者に配る案件資料と、推進役だけが持つ対応表（元の番号、実際の結果）を分けて作る",
+    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "推進役が、「除いた項目」の一覧を見て、結果が漏れていないかを確かめる",
+    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "- 結果が既に出ている案件から、〈件数〉件を選んでください",
+    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例：値引き率〉が大きかった案件と小さかった案件、〈結果",
+    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "- 結果：〈例：承認された値引き率、受注か失注か、粗利率〉",
+    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "- 結果を調べられる手がかり：案件の番号、顧客の番号、担当者の番号、正確な日付（月までに丸める）",
+    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "- メモのうち、この案件の結果を示す記述",
+    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "前回の案件の結果は、判断の時点で分かっていた情報なので残してよい",
+    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば10月16日に連系した設備の10月発電量を、10月1日から31日の試算と比較すれば、少なく見えるのは当然です",
+    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "そろわなければ、結果の大小を比べる前に説明を補ってもらいましょう",
+    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば4kWh/m²・日という数字は、一か月の合計4kWh/m²ではありません",
+    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "精度を漠然と追い求めるより、結果を左右する入力かどうかを見極める方が、調査費用を使う順番を決めやすくなります",
+    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "計算結果が30分ごとに出ていても、入力データが30分観測とは限りません",
+    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば一時間平均4kWという情報だけでは、その一時間がずっと4kWだったのか、2kWと6kWを行き来したのかはわかりません",
+    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "それでも、説明に必要な条件表と月別結果は受け取っておきたいところです",
+    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "更新前後の差は、設備が改善した結果なのか、気象データが変わった結果なのかを分けて示します",
+    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ただし、その結果の月別グラフが、翌年の各月にそのまま現れるわけではありません",
+    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "多照年や寡照年を使った結果は、条件を振って変化を見る材料になります",
+    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "実年計算の結果が実測へ近づいても、それだけで設備の問題がないとは断定できません",
+    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "地域、季節、雲、温度などの変化をどう扱うかで結果は変わります",
+    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "おすすめするのは、計算結果を三種類に分けることです",
+    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "データの時間分解能と計算結果の表示間隔も別に記録します",
+    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "比較表には、角度変更による発電量差、必要な工事、追加費用、構造・防水の確認結果を別々に書きます",
+    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "弊社が支援した現場では、月次KPIの原因不明な変動のうち半分程度が、データ品質側の問題として説明のついたケースもありました",
+    "url": "https://data-viz-lab.com/kpi-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ノイズの大きさを把握しないまま統計的な検定にかけても、結果の解釈は安定しません",
+    "url": "https://data-viz-lab.com/kpi-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "制約を隠さず開示する姿勢が、かえって数値への信頼を高める結果につながります",
+    "url": "https://data-viz-lab.com/kpi-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "変換ルールはExcelの対応表でも管理できますが、繰り返し実行するならTableau Prepの「グループ化と置換」機能やSQLのCASE式など、再実行が可能な形で残します",
+    "url": "https://data-viz-lab.com/kpi-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "1回きりの作業なら手作業で構いませんが、毎月発生する変換であれば、初回に30分かけてでもルール化しておくほうが結果的に速く終わります",
+    "url": "https://data-viz-lab.com/kpi-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "よくあるつまずきは、判定基準を厳しくしすぎて重複が残るケースです",
+    "url": "https://data-viz-lab.com/kpi-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "検証結果は、KPIを利用する部門へ共有してから本番に反映します",
+    "url": "https://data-viz-lab.com/kpi-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "改善したように見えた率が、実は分母の縮小によるものだったという事例も少なくありません",
+    "url": "https://data-viz-lab.com/kpi-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "手順どおりに進めたつもりでも、進め方の細部で品質が損なわれるケースは少なくありません",
+    "url": "https://data-viz-lab.com/kpi-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "数値のズレは集計結果ではなく、元データと集計ロジックの側で直すことが原則です",
+    "url": "https://data-viz-lab.com/kpi-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "すでに逆の順序で進めてしまった場合は、名寄せの結果を破棄して標準化からやり直すほうが結局は早く終わります",
+    "url": "https://data-viz-lab.com/kpi-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "中途半端に統合されたデータを手作業で直すコストは、再実行のコストを上回るケースがほとんどです",
+    "url": "https://data-viz-lab.com/kpi-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "手順書だけでなく、SQLやTableau Prepのフローなど、実行すれば同じ結果が再現されるものを正とします",
+    "url": "https://data-viz-lab.com/kpi-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ここまでの手順と観点が実務でどう機能するかを、弊社の支援経験をもとにした3つの事例で紹介します",
+    "url": "https://data-viz-lab.com/kpi-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "重複排除の結果、リード数は約15％減少し、商談化率は見かけ上2ポイント程度改善しました",
+    "url": "https://data-viz-lab.com/kpi-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "Before running checks, profile both data sets and understand their volumes, distributions, and known quirks. Reconciling unquestioningly generates noise. Profiling first makes your checks meaningful and your results actionable.",
+    "url": "https://www.tricentis.com/learn/data-reconciliation",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "The profiling step above makes this stage a lot easier. Compare row counts between source and target for given time windows or business keys. Mismatches here typically mean ingestion or filtering failures: something didn’t make it through right.",
+    "url": "https://www.tricentis.com/learn/data-reconciliation",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Think anti-money laundering filings, capital adequacy reports, HIPAA, or GDPR audits.",
+    "url": "https://www.tricentis.com/learn/data-reconciliation",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Profiling and business-rule tests",
+    "url": "https://www.tricentis.com/learn/data-reconciliation",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "These frameworks shine for declarative expectations, profiling, and unit-like tests in your pipelines. They integrate well with warehouses and orchestrators, and they help teams standardize rules for completeness, uniqueness, and freshness.",
+    "url": "https://dqpursuit.com/cross-system-data-validation-a-7-step-reconciliation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "本稿は、VTuberやVSinger、バーチャルタレントのマネジメントについて、筆者自身の実務経験と、一般的なマネジメント論・組織論・公的資料を照らし合わせながら整理したものです",
+    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "一部のVTuber事務所が公表している採用情報やインタビューでも、タレントマネージャーの役割はスケジュール管理だけに限定されていません",
+    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "本章の法制度に関する記述は、総務省・法務省などの公的資料を優先し、最新情報を確認してください",
+    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "本稿では、筆者自身の実務経験に加えて、以下の書籍、論文、公的資料、業界各社の公開情報を参考にしました",
+    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "COVER株式会社 採用情報「Talent Management」",
+    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "- 効果は、おおまかには「AIを使える範囲 × 推奨が採用される割合 × 採用された推奨が判定基準に合う割合 × 一件あたりの改善幅」",
+    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "- AIの推奨が採用される割合は、高いほど良いとは限りません",
+    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "たとえば、一件あたりの改善幅が4ポイントで、すべての案件にAIを使えるなら、「推奨が採用される割合 × 採用された推奨が判定基準に合う割合」が約65%以上必要になる（2.6ポイント÷4ポイント）",
+    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "推奨が採用されなければ効果はないが、採用率だけを上げても、一件あたりの改善幅が小さければ目標に届かない",
+    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AIの推奨の採用率を、高いほど良いものとして目標にしてしまう：上限の目安を置き、採用率と一件あたりの改善幅を合わせて見る",
+    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "公的なデータを使っていることは、出どころを確認するうえで重要です",
+    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "2021年4月の解説書では、前者は2010〜2018年を統計期間とする1kmメッシュの月平均推定値、後者は全国835地点の代表年の毎時推定値として説明されています",
+    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ここで大切なのは、公的データだから疑わしいと考えることでも、古い統計期間があるから使えないと決めることでもありません",
+    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "全天日射量については、日照時間のメッシュ平年値から統計的な関係で推定する旨が説明されています",
+    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "採用理由と代替地点を残し、差が判断に影響するかを調べます",
+    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "必要なのは、提供主体、資料名・版、取得日、対象地点、統計期間、時間幅、単位、欠測の扱い、加工内容です",
+    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ファイル名だけではなく、ダウンロード元と採用理由も添えます",
+    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "統計期間と選び方が違えば意味も変わるためです",
+    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "一方、載せられる枚数が多いから採用するとも限りません",
+    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "測定方法と採用した向きを設計担当者に確認します",
+    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "まだ構造確認ができていない案は「発電量は計算できたが採用可否は未確定」と扱います",
+    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "初期概算で一律率を使うなら、その仮定が採用判断を左右するかを感度分析します",
+    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "本稿第10章もこの簡略化を採用しており、実機設計の判断には使えません",
+    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "影の不確実性が大きく、調査もできない場合は、楽観値だけで契約を進めず、保守的な条件でも採用するかを検討します",
+    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "実機を比較する場合は、採用する型式のデータシートにある係数と、その定義を確認します",
+    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ノイズの大きさを把握しないまま統計的な検定にかけても、結果の解釈は安定しません",
+    "url": "https://data-viz-lab.com/kpi-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "外れ値の処理には、統計的な基準と業務的な妥当性の両面からの判断が必要です",
+    "url": "https://data-viz-lab.com/kpi-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "国民経済計算（国の経済統計）では、概念上は一致するはずの支出側と生産側の国内総生産の推計値の乖離を「統計上の不突合」と呼びます",
+    "url": "https://boostx-inc.com/blog/ai-invoice-matching-method/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "メール添付のPDF、郵送の紙、取引先のWeb明細",
+    "url": "https://boostx-inc.com/blog/ai-invoice-matching-method/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "3帳票のPDF・画像",
+    "url": "https://boostx-inc.com/blog/ai-invoice-matching-method/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "御社の公開情報と業界の一次統計をもとに、本当の課題、選んだテーマの解決策、効果の試算の式、最初の30日までを",
+    "url": "https://boostx-inc.com/blog/ai-invoice-matching-method/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "PDF・15ページ",
+    "url": "https://boostx-inc.com/blog/ai-invoice-matching-method/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "最初に行うのは、紙やPDFの帳票を表のデータに変えることです",
+    "url": "https://boostx-inc.com/blog/ai-invoice-matching-method/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "COMPANY PROFILE ／ PDF 全46ページ",
+    "url": "https://boostx-inc.com/blog/ai-invoice-matching-method/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Banks reconcile millions of transactions daily across core banking systems, payment networks, trading platforms, and regulatory reports. Reconciliation ensures that settlements match, accounts balance, and regulatory filings are accurate.",
+    "url": "https://performalytic.com/blog/data-reconciliation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
   "失敗・落とし穴": [
    {
     "quote": "運用が続くほど、相手システムの仕様変更や例外的なデータ、処理の一部失敗によって、ずれは静かに忍び込みます",
@@ -830,248 +1548,6 @@
     "first_seen": "2026-11-07"
    }
   ],
-  "一次情報の探し方": [
-   {
-    "quote": "Before running checks, profile both data sets and understand their volumes, distributions, and known quirks. Reconciling unquestioningly generates noise. Profiling first makes your checks meaningful and your results actionable.",
-    "url": "https://www.tricentis.com/learn/data-reconciliation",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "The profiling step above makes this stage a lot easier. Compare row counts between source and target for given time windows or business keys. Mismatches here typically mean ingestion or filtering failures: something didn’t make it through right.",
-    "url": "https://www.tricentis.com/learn/data-reconciliation",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Think anti-money laundering filings, capital adequacy reports, HIPAA, or GDPR audits.",
-    "url": "https://www.tricentis.com/learn/data-reconciliation",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Profiling and business-rule tests",
-    "url": "https://www.tricentis.com/learn/data-reconciliation",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "These frameworks shine for declarative expectations, profiling, and unit-like tests in your pipelines. They integrate well with warehouses and orchestrators, and they help teams standardize rules for completeness, uniqueness, and freshness.",
-    "url": "https://dqpursuit.com/cross-system-data-validation-a-7-step-reconciliation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "本稿は、VTuberやVSinger、バーチャルタレントのマネジメントについて、筆者自身の実務経験と、一般的なマネジメント論・組織論・公的資料を照らし合わせながら整理したものです",
-    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "一部のVTuber事務所が公表している採用情報やインタビューでも、タレントマネージャーの役割はスケジュール管理だけに限定されていません",
-    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "本章の法制度に関する記述は、総務省・法務省などの公的資料を優先し、最新情報を確認してください",
-    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "本稿では、筆者自身の実務経験に加えて、以下の書籍、論文、公的資料、業界各社の公開情報を参考にしました",
-    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "COVER株式会社 採用情報「Talent Management」",
-    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "- 効果は、おおまかには「AIを使える範囲 × 推奨が採用される割合 × 採用された推奨が判定基準に合う割合 × 一件あたりの改善幅」",
-    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "- AIの推奨が採用される割合は、高いほど良いとは限りません",
-    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "たとえば、一件あたりの改善幅が4ポイントで、すべての案件にAIを使えるなら、「推奨が採用される割合 × 採用された推奨が判定基準に合う割合」が約65%以上必要になる（2.6ポイント÷4ポイント）",
-    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "推奨が採用されなければ効果はないが、採用率だけを上げても、一件あたりの改善幅が小さければ目標に届かない",
-    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "AIの推奨の採用率を、高いほど良いものとして目標にしてしまう：上限の目安を置き、採用率と一件あたりの改善幅を合わせて見る",
-    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "公的なデータを使っていることは、出どころを確認するうえで重要です",
-    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "2021年4月の解説書では、前者は2010〜2018年を統計期間とする1kmメッシュの月平均推定値、後者は全国835地点の代表年の毎時推定値として説明されています",
-    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ここで大切なのは、公的データだから疑わしいと考えることでも、古い統計期間があるから使えないと決めることでもありません",
-    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "全天日射量については、日照時間のメッシュ平年値から統計的な関係で推定する旨が説明されています",
-    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "採用理由と代替地点を残し、差が判断に影響するかを調べます",
-    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "必要なのは、提供主体、資料名・版、取得日、対象地点、統計期間、時間幅、単位、欠測の扱い、加工内容です",
-    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ファイル名だけではなく、ダウンロード元と採用理由も添えます",
-    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "統計期間と選び方が違えば意味も変わるためです",
-    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "一方、載せられる枚数が多いから採用するとも限りません",
-    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "測定方法と採用した向きを設計担当者に確認します",
-    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "まだ構造確認ができていない案は「発電量は計算できたが採用可否は未確定」と扱います",
-    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "初期概算で一律率を使うなら、その仮定が採用判断を左右するかを感度分析します",
-    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "本稿第10章もこの簡略化を採用しており、実機設計の判断には使えません",
-    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "影の不確実性が大きく、調査もできない場合は、楽観値だけで契約を進めず、保守的な条件でも採用するかを検討します",
-    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "実機を比較する場合は、採用する型式のデータシートにある係数と、その定義を確認します",
-    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ノイズの大きさを把握しないまま統計的な検定にかけても、結果の解釈は安定しません",
-    "url": "https://data-viz-lab.com/kpi-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "外れ値の処理には、統計的な基準と業務的な妥当性の両面からの判断が必要です",
-    "url": "https://data-viz-lab.com/kpi-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "国民経済計算（国の経済統計）では、概念上は一致するはずの支出側と生産側の国内総生産の推計値の乖離を「統計上の不突合」と呼びます",
-    "url": "https://boostx-inc.com/blog/ai-invoice-matching-method/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "メール添付のPDF、郵送の紙、取引先のWeb明細",
-    "url": "https://boostx-inc.com/blog/ai-invoice-matching-method/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "3帳票のPDF・画像",
-    "url": "https://boostx-inc.com/blog/ai-invoice-matching-method/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "御社の公開情報と業界の一次統計をもとに、本当の課題、選んだテーマの解決策、効果の試算の式、最初の30日までを",
-    "url": "https://boostx-inc.com/blog/ai-invoice-matching-method/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "PDF・15ページ",
-    "url": "https://boostx-inc.com/blog/ai-invoice-matching-method/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "最初に行うのは、紙やPDFの帳票を表のデータに変えることです",
-    "url": "https://boostx-inc.com/blog/ai-invoice-matching-method/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "COMPANY PROFILE ／ PDF 全46ページ",
-    "url": "https://boostx-inc.com/blog/ai-invoice-matching-method/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Banks reconcile millions of transactions daily across core banking systems, payment networks, trading platforms, and regulatory reports. Reconciliation ensures that settlements match, accounts balance, and regulatory filings are accurate.",
-    "url": "https://performalytic.com/blog/data-reconciliation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
   "手順・やり方": [
    {
     "quote": "システム間のデータ突合の方法｜運用中のずれを早く見つける仕組み｜ASTERIA Warp",
@@ -1583,514 +2059,123 @@
     "pass": 3,
     "first_seen": "2026-11-07"
    }
-  ],
-  "実例": [
-   {
-    "quote": "Other use cases include",
-    "url": "https://docs.soda.io/soda-documentation/find/data-testing/data-reconciliation",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "feed into a single target: for example, validating that a consolidated data warehouse matches both a staging environment and an operational database.",
-    "url": "https://docs.soda.io/soda-documentation/find/data-testing/data-reconciliation",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "on each source dataset, allowing you to reconcile only a subset of records that match certain criteria (for example, only transactions from the current month, or only rows belonging to a specific business unit).",
-    "url": "https://docs.soda.io/soda-documentation/find/data-testing/data-reconciliation",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": ". This tolerance can be set depending on the business context. Some use cases may allow small discrepancies (e.g., rounding differences), while others require exact equality.",
-    "url": "https://docs.soda.io/soda-documentation/find/data-testing/data-reconciliation",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "that is applied on top of any existing dataset filters. This allows you to reconcile only a targeted segment of data within the context of the specific check—for example, testing only a single business unit, product family, or date range.",
-    "url": "https://docs.soda.io/soda-documentation/find/data-testing/data-reconciliation",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "A single filter expression only works when the same SQL is valid against both datasets. That is often not the case: a legacy source and its migrated copy routinely differ in column names, status encodings, or partitioning conventions.",
-    "url": "https://docs.soda.io/soda-documentation/find/data-testing/data-reconciliation",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "on both sides makes a code that differs only in case or padding count as the same code, rather than as one value missing on each side. There are no key columns there, so the caution above does not apply.",
-    "url": "https://docs.soda.io/soda-documentation/find/data-testing/data-reconciliation",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Pick the direction that matches the relationship — the target constrained to the values of the source (the usual case when the source is the system of record), the source constrained to the target, or the two required to hold exactly the same set. Because the comparison is over distinct values, duplicates are irrelevant and no key column has to be declared; rows whose compared columns are",
-    "url": "https://docs.soda.io/soda-documentation/find/data-testing/data-reconciliation",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Entries in the source list may reference the same dataset, each through its own filter — for example, two differently filtered slices of one dataset compared against the target. Where the slicing only differs per check, a single source with per-check filters keeps the contract shorter.",
-    "url": "https://docs.soda.io/soda-documentation/find/data-testing/data-reconciliation",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "この「静かな失敗」を検出できるのは、結果の数字を突き合わせる作業だけです",
-    "url": "https://www.asteria.com/jp/warp/blog/166270.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Practical pattern: run deterministic rules to auto‑match the low‑risk portion, run probabilistic matching for the medium‑risk bulk, and route heuristic or ambiguous cases to a",
-    "url": "https://beefed.ai/en/cmdb-reconciliation-rules-algorithms",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Attribute-weight example for a physical server (weights as",
-    "url": "https://beefed.ai/en/cmdb-reconciliation-rules-algorithms",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "A compact Python example implementing a Fellegi–Sunter style scoring function with Jaro–Winkler similarity for strings:",
-    "url": "https://beefed.ai/en/cmdb-reconciliation-rules-algorithms",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Merge example (practical scenario):",
-    "url": "https://beefed.ai/en/cmdb-reconciliation-rules-algorithms",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Sample SQL to find obvious duplicates (hostname example):",
-    "url": "https://beefed.ai/en/cmdb-reconciliation-rules-algorithms",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Example Splink workflow (high-level) for probabilistic linkage:",
-    "url": "https://beefed.ai/en/cmdb-reconciliation-rules-algorithms",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "For example, a typical setup might reconcile Customer and Order facts across ERP and CRM nightly. The platform can alert you if order counts by day diverge, if SHA-256 fingerprints differ, or if order status transitions violate business rules. For broader industry patterns on reconciliation, see this practical",
-    "url": "https://dqpursuit.com/cross-system-data-validation-a-7-step-reconciliation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Perform row-level diffs by key and verify business logic coherence with cross-field rules. Examples include uniqueness on order_id, referential integrity from invoice to customer, non-negative inventory, and valid timestamp ranges. A reliable sequence: count group count table hash row hash by key direct field comparison. Avoid engine-specific",
-    "url": "https://dqpursuit.com/cross-system-data-validation-a-7-step-reconciliation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Use day, account, and product groupings for early signals, then set acceptable variance policies for late data. For example, many teams allow a tiny variance in the most recent hour (e.g., within a small percentage or count), then require exact agreement for prior days once freshness SLAs elapse.",
-    "url": "https://dqpursuit.com/cross-system-data-validation-a-7-step-reconciliation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "結果として、多くのマネージャーが手探りでマネジメントと向き合うことになります",
-    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "：VTuber事務所、行政機関などが公表している資料や事例",
-    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "目標を定め、工程を設計し、結果を振り返る",
-    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "自分で決め、結果を受け止める経験を積むことで、活動を自分で組み立てる力が身につきます",
-    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "結果として、トラブルのきっかけになることもあります",
-    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "人手が足りず、結果として手が回っていない状態",
-    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "数字は結果の指標であって、行動の指示ではありません",
-    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "しかし方法を考えるには、他の事例、過去の数字、使える予算、失敗しても大丈夫な範囲という情報が要ります",
-    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "その負担は、結果や数字には表れません",
-    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "10,000人という結果指標だけがあり、どうやって10,000人に届かせるかという行動が設計されていなかったことが、批判の対象でした",
-    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "タレントと一緒に設定する目標は、結果と行動の二段階で設計します",
-    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "「この行動をこれだけやれば、この結果に届くはずだ」という仮説です",
-    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "「結果指標を仮説として扱い、タレントが直接コントロールできる行動指標と分ける」という方法は、そうした知見をバーチャルタレントのマネジメントに合わせて私なりに翻訳した実務上の提案です",
-    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "「結果指標は仮説、合意対象は行動指標」とする二段構え自体は、本稿の実務上の整理です",
-    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "2023年に行われた「TIFアイドル総選挙」では予備選挙一位、本選挙三位という結果を残し、最終日のグランドフィナーレでHOT STAGEに立つという目標も実現しました",
-    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "タスクから始めると、結果を決めていない工程を速くしてしまい、どこまで細かく見ればよいかの基準も持てないからです（第4章の4.1）",
-    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "意思決定の一覧に、実際の決定者、頻度、1件あたりの金額、材料、人によって結果が違う疑いが書かれ、関わっている人が確かめている",
-    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "意思決定の結果の記録（頻度と金額を補うため）",
-    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "- 数えた結果から言えることと、言えないことを分けて書いてください",
-    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "20件の案件が、判断の結果の大小、結果の良し悪し、顧客の区分、競合の有無が混ざるように選ばれ、半数程度に判断を分けそうな事情が含まれている",
-    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "案件資料から、結果と、結果を調べられる手がかりが除かれている",
-    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "結果が出ている案件の記録（A社では見積と受注の記録）",
-    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "推進役が、案件の記録をAIに渡し、プロンプト4-1で20件を選び、回答者に配る案件資料と、推進役だけが持つ対応表（元の番号、実際の結果）を分けて作る",
-    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "推進役が、「除いた項目」の一覧を見て、結果が漏れていないかを確かめる",
-    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "- 結果が既に出ている案件から、〈件数〉件を選んでください",
-    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例：値引き率〉が大きかった案件と小さかった案件、〈結果",
-    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "- 結果：〈例：承認された値引き率、受注か失注か、粗利率〉",
-    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "- 結果を調べられる手がかり：案件の番号、顧客の番号、担当者の番号、正確な日付（月までに丸める）",
-    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "- メモのうち、この案件の結果を示す記述",
-    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "前回の案件の結果は、判断の時点で分かっていた情報なので残してよい",
-    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば10月16日に連系した設備の10月発電量を、10月1日から31日の試算と比較すれば、少なく見えるのは当然です",
-    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "そろわなければ、結果の大小を比べる前に説明を補ってもらいましょう",
-    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば4kWh/m²・日という数字は、一か月の合計4kWh/m²ではありません",
-    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "精度を漠然と追い求めるより、結果を左右する入力かどうかを見極める方が、調査費用を使う順番を決めやすくなります",
-    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "計算結果が30分ごとに出ていても、入力データが30分観測とは限りません",
-    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば一時間平均4kWという情報だけでは、その一時間がずっと4kWだったのか、2kWと6kWを行き来したのかはわかりません",
-    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "それでも、説明に必要な条件表と月別結果は受け取っておきたいところです",
-    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "更新前後の差は、設備が改善した結果なのか、気象データが変わった結果なのかを分けて示します",
-    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ただし、その結果の月別グラフが、翌年の各月にそのまま現れるわけではありません",
-    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "多照年や寡照年を使った結果は、条件を振って変化を見る材料になります",
-    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "実年計算の結果が実測へ近づいても、それだけで設備の問題がないとは断定できません",
-    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "地域、季節、雲、温度などの変化をどう扱うかで結果は変わります",
-    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "おすすめするのは、計算結果を三種類に分けることです",
-    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "データの時間分解能と計算結果の表示間隔も別に記録します",
-    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "比較表には、角度変更による発電量差、必要な工事、追加費用、構造・防水の確認結果を別々に書きます",
-    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "弊社が支援した現場では、月次KPIの原因不明な変動のうち半分程度が、データ品質側の問題として説明のついたケースもありました",
-    "url": "https://data-viz-lab.com/kpi-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ノイズの大きさを把握しないまま統計的な検定にかけても、結果の解釈は安定しません",
-    "url": "https://data-viz-lab.com/kpi-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "制約を隠さず開示する姿勢が、かえって数値への信頼を高める結果につながります",
-    "url": "https://data-viz-lab.com/kpi-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "変換ルールはExcelの対応表でも管理できますが、繰り返し実行するならTableau Prepの「グループ化と置換」機能やSQLのCASE式など、再実行が可能な形で残します",
-    "url": "https://data-viz-lab.com/kpi-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "1回きりの作業なら手作業で構いませんが、毎月発生する変換であれば、初回に30分かけてでもルール化しておくほうが結果的に速く終わります",
-    "url": "https://data-viz-lab.com/kpi-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "よくあるつまずきは、判定基準を厳しくしすぎて重複が残るケースです",
-    "url": "https://data-viz-lab.com/kpi-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "検証結果は、KPIを利用する部門へ共有してから本番に反映します",
-    "url": "https://data-viz-lab.com/kpi-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "改善したように見えた率が、実は分母の縮小によるものだったという事例も少なくありません",
-    "url": "https://data-viz-lab.com/kpi-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "手順どおりに進めたつもりでも、進め方の細部で品質が損なわれるケースは少なくありません",
-    "url": "https://data-viz-lab.com/kpi-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "数値のズレは集計結果ではなく、元データと集計ロジックの側で直すことが原則です",
-    "url": "https://data-viz-lab.com/kpi-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "すでに逆の順序で進めてしまった場合は、名寄せの結果を破棄して標準化からやり直すほうが結局は早く終わります",
-    "url": "https://data-viz-lab.com/kpi-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "中途半端に統合されたデータを手作業で直すコストは、再実行のコストを上回るケースがほとんどです",
-    "url": "https://data-viz-lab.com/kpi-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "手順書だけでなく、SQLやTableau Prepのフローなど、実行すれば同じ結果が再現されるものを正とします",
-    "url": "https://data-viz-lab.com/kpi-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ここまでの手順と観点が実務でどう機能するかを、弊社の支援経験をもとにした3つの事例で紹介します",
-    "url": "https://data-viz-lab.com/kpi-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "重複排除の結果、リード数は約15％減少し、商談化率は見かけ上2ポイント程度改善しました",
-    "url": "https://data-viz-lab.com/kpi-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/chokuzen_note/n/n71a3010f5ca5",
+    "url": "https://note.com/modern_flea8708/n/n4e4fbe37f79b",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/chokuzen_note/n/nc473263f3252",
+    "url": "https://note.com/enogu_llc/n/ncd8acbdc4199",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/chokuzen_note/n/nbf8ce982507b",
+    "url": "https://note.com/satoruhiguchi/n/n645bc9cbb946",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/excel_jidouka/n/n1bc287bdb593",
+    "url": "https://note.com/jack4manastalk/n/nae5c1f7c390a",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/nob75note/n/n052803f42d1f",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/goukaku_charge/n/n9ea50b9627cb",
+    "url": "https://note.com/harunakamura41/n/n7cfa7307c806",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/poka_nero/n/n85048bd7be59",
+    "url": "https://data-viz-lab.com/kpi-data",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/honda_crosscom/n/n8a23b33bbb4a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bscdesigner.com/ja/kpi-bunseki.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hik0107/n/nc9be6f41e459",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ximix.niandc.co.jp/column/what-are-the-six-metrics-for-measuring-data-quality",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dsk-cloud.com/blog/basic-knowledge-and-benefits-with-kpi-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amed.go.jp/content/000034153.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kaonavi.jp/dictionary/mokuhyo_shihyo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/78/pdf/2-2-782.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.gpol.co.jp/blog/166/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ecalpro.com/ja/methodology",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lit.fpark.tmu.ac.jp/lit/contents/office2019/statistics/01/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-society-alliance.org/data-ex/area-data/article/article7/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boostx-inc.com/blog/ai-invoice-matching-method/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tazna.io/news/data-assessment",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://smart-analytics.jp/smart-mba/learning/data-driven-decision/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://esu-po.com/info/sw009",
     "status": "ok",
     "method": "http"
    },
@@ -2100,48 +2185,13 @@
     "method": "http"
    },
    {
-    "url": "https://data-viz-lab.com/excel",
+    "url": "https://performalytic.com/blog/data-reconciliation-guide/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://data.bfts.co.jp/blog/data-dictionary-for-bi",
+    "url": "https://www.onetribeadvisory.com/knowledge-hub/single-source-of-truth-finance/",
     "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://analytics-intro.withhive.com/ja/blog/common-metric-standard/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://a-x.inc/blog/ai-data-matching-automation/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://xn--8pr380g.com/ja/blog/data-totsugou/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://hondana1.jp/%E6%8C%87%E6%A8%99%E3%82%AC%E3%83%90%E3%83%8A%E3%83%B3%E3%82%B9%E3%81%A8%E3%83%A1%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9%E5%AE%9A%E7%BE%A9%E6%9B%B8%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.issoh.co.jp/column/details/16465/",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://beefed.ai/en/cmdb-reconciliation-rules-algorithms",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://fastercapital.com/content/Data-Reconciliation--Data-Mapping-for-Data-Reconciliation--How-to-Compare-and-Resolve-Data-Discrepancies.html",
-    "status": "http_403",
     "method": "http"
    },
    {
@@ -2150,17 +2200,17 @@
     "method": "http"
    },
    {
-    "url": "https://dqpursuit.com/cross-system-data-validation-a-7-step-reconciliation-guide/",
+    "url": "https://montecarlo.ai/blog-data-reconciliation",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://bitecode.tech/en/blog/single-source-of-truth",
+    "url": "https://www.irion-edm.com/data-management-insight/data-reconciliation-what-it-is-why-it-matters-how-to-get-started-and-how-it-differs-from-data-validation/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.progressiverobot.com/2026/08/11/create-a-single-source-of-truth/",
+    "url": "https://www.datafold.com/blog/data-reconciliation-best-practices/",
     "status": "ok",
     "method": "http"
    }
@@ -2170,93 +2220,131 @@
   {
    "query": "指標ごとに基準の出どころを1つ決めて突き合わせる実務（データの照合・許容の幅を指標の種類で変える・食い違いの記録） site:note.com",
    "results": [
-    "https://note.com/chokuzen_note/n/n71a3010f5ca5",
-    "https://note.com/chokuzen_note/n/nc473263f3252",
-    "https://note.com/chokuzen_note/n/nbf8ce982507b",
-    "https://note.com/excel_jidouka/n/n1bc287bdb593",
-    "https://note.com/goukaku_charge/n/n9ea50b9627cb",
-    "https://note.com/poka_nero/n/n85048bd7be59",
-    "https://note.com/hiro_forge_mfg/n/n39fe3b0d69f2"
+    "https://note.com/modern_flea8708/n/n4e4fbe37f79b",
+    "https://note.com/enogu_llc/n/ncd8acbdc4199",
+    "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "https://note.com/jack4manastalk/n/nae5c1f7c390a",
+    "https://note.com/nob75note/n/n052803f42d1f",
+    "https://note.com/harunakamura41/n/n7cfa7307c806",
+    "https://note.com/modern_flea8708/n/n4cb0a9cf14b7",
+    "https://note.com/reading_monkey/n/n9010c821e570",
+    "https://note.com/modern_flea8708/n/n26c2ceb2e79a",
+    "https://note.com/mototchen/n/nc0bb8247ad0e"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   },
   {
    "query": "指標ごとに基準の出どころを1つ決めて突き合わせる実務（データの照合・許容の幅を指標の種類で変える・食い違いの記録） note",
    "results": [
-    "https://www.asteria.com/jp/warp/blog/166270.html",
-    "https://note.com/chokuzen_note/n/n71a3010f5ca5",
-    "https://data-viz-lab.com/excel",
-    "https://data.bfts.co.jp/blog/data-dictionary-for-bi",
-    "https://note.com/chokuzen_note/n/nc473263f3252",
-    "https://analytics-intro.withhive.com/ja/blog/common-metric-standard/",
-    "https://a-x.inc/blog/ai-data-matching-automation/"
+    "https://data-viz-lab.com/kpi-data",
+    "https://note.com/honda_crosscom/n/n8a23b33bbb4a",
+    "https://bscdesigner.com/ja/kpi-bunseki.htm",
+    "https://note.com/hik0107/n/nc9be6f41e459",
+    "https://ximix.niandc.co.jp/column/what-are-the-six-metrics-for-measuring-data-quality",
+    "https://www.dsk-cloud.com/blog/basic-knowledge-and-benefits-with-kpi-analysis",
+    "https://note.com/isdataconsulting/n/n317e99558c60",
+    "https://lefixea.jp/mfg/articles/manufacturing-cost-review55",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://www.asteria.com/jp/warp/blog/166270.html"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "指標ごとに基準の出どころを1つ決めて突き合わせる実務（データの照合・許容の幅を指標の種類で変える・食い違いの記録） やり方",
    "results": [
-    "https://www.asteria.com/jp/warp/blog/166270.html",
-    "https://data.bfts.co.jp/blog/data-dictionary-for-bi",
-    "https://a-x.inc/blog/ai-data-matching-automation/",
-    "https://xn--8pr380g.com/ja/blog/data-totsugou/",
-    "https://analytics-intro.withhive.com/ja/blog/common-metric-standard/",
-    "https://hondana1.jp/指標ガバナンスとメトリクス定義書の作り方/",
-    "https://www.issoh.co.jp/column/details/16465/"
+    "https://ximix.niandc.co.jp/column/what-are-the-six-metrics-for-measuring-data-quality",
+    "https://www.amed.go.jp/content/000034153.pdf",
+    "https://www.kaonavi.jp/dictionary/mokuhyo_shihyo/",
+    "https://www.stat.go.jp/training/2kenkyu/ihou/78/pdf/2-2-782.pdf",
+    "https://www.gpol.co.jp/blog/166/",
+    "https://ecalpro.com/ja/methodology",
+    "https://lit.fpark.tmu.ac.jp/lit/contents/office2019/statistics/01/index.html",
+    "https://www.videor.co.jp/digestplus/article/ad-marketing240731.html",
+    "https://jp.drinet.co.jp/blog/datamanagement/sdgs_indicators",
+    "https://www.asteria.com/jp/warp/blog/166270.html"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "指標ごとに基準の出どころを1つ決めて突き合わせる実務（データの照合・許容の幅を指標の種類で変える・食い違いの記録） 事例",
    "results": [
-    "https://www.asteria.com/jp/warp/blog/166270.html",
-    "https://data.bfts.co.jp/blog/data-dictionary-for-bi",
-    "https://a-x.inc/blog/ai-data-matching-automation/",
-    "https://analytics-intro.withhive.com/ja/blog/common-metric-standard/",
-    "https://data-viz-lab.com/excel",
-    "https://hondana1.jp/指標ガバナンスとメトリクス定義書の作り方/",
-    "https://www.issoh.co.jp/column/details/16465/"
+    "https://data-viz-lab.com/kpi-data",
+    "https://bscdesigner.com/ja/kpi-bunseki.htm",
+    "https://data-society-alliance.org/data-ex/area-data/article/article7/",
+    "https://ximix.niandc.co.jp/column/what-are-the-six-metrics-for-measuring-data-quality",
+    "https://boostx-inc.com/blog/ai-invoice-matching-method/",
+    "https://www.amed.go.jp/content/000034153.pdf",
+    "https://tazna.io/news/data-assessment",
+    "https://smart-analytics.jp/smart-mba/learning/data-driven-decision/",
+    "https://esu-po.com/info/sw009",
+    "https://www.asteria.com/jp/warp/blog/166270.html"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "data reconciliation single source of truth per metric tolerance thresholds discrepancy log",
    "results": [
-    "https://beefed.ai/en/cmdb-reconciliation-rules-algorithms",
-    "https://fastercapital.com/content/Data-Reconciliation--Data-Mapping-for-Data-Reconciliation--How-to-Compare-and-Resolve-Data-Discrepancies.html",
+    "https://performalytic.com/blog/data-reconciliation-guide/",
+    "https://www.onetribeadvisory.com/knowledge-hub/single-source-of-truth-finance/",
     "https://docs.soda.io/soda-documentation/find/data-testing/data-reconciliation",
-    "https://dqpursuit.com/cross-system-data-validation-a-7-step-reconciliation-guide/",
-    "https://bitecode.tech/en/blog/single-source-of-truth",
-    "https://www.progressiverobot.com/2026/08/11/create-a-single-source-of-truth/",
-    "https://www.acceldata.io/blog/how-to-fix-conflicting-metrics-across-teams-a-practical-guide"
+    "https://montecarlo.ai/blog-data-reconciliation",
+    "https://www.irion-edm.com/data-management-insight/data-reconciliation-what-it-is-why-it-matters-how-to-get-started-and-how-it-differs-from-data-validation/",
+    "https://www.datafold.com/blog/data-reconciliation-best-practices/",
+    "https://www.tricentis.com/learn/data-reconciliation",
+    "https://www.workday.com/en-us/topics/erp/ssot.html",
+    "https://dqops.com/docs/categories-of-data-quality-checks/how-to-reconcile-data-and-detect-differences/"
    ],
    "engines": [
-    "ddgs:bing"
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 9
   },
   {
    "query": "site:note.com 指標ごとに基準の出どころを1つ決めて突き合わせる実務（データの照合・許容の幅を指標の種類で変える・食い違いの記録）",
    "results": [
-    "https://note.com/zen_ai_lab/n/n1514d7e7c104",
-    "https://note.com/poka_nero/n/n85048bd7be59",
-    "https://note.com/makememo/n/n3afc3a565394",
-    "https://note.com/chokuzen_note/n/n71a3010f5ca5",
-    "https://note.com/minato74_/n/n91b93693aac4",
-    "https://note.com/excel_jidouka/n/n1bc287bdb593",
-    "https://note.com/chokuzen_note/n/nc473263f3252"
+    "https://note.com/enogu_llc/n/ncd8acbdc4199",
+    "https://note.com/satoruhiguchi/n/n645bc9cbb946",
+    "https://note.com/harunakamura41/n/n7cfa7307c806",
+    "https://note.com/pure_hyssop2167/n/ndac7dd6807ed",
+    "https://note.com/clever_shark607/n/n5e5c26a0d6a5",
+    "https://note.com/humble_loris7474/n/n9d9b343298d2",
+    "https://note.com/hazelrecords/n/na27f2f160639",
+    "https://note.com/otankonash/n/neb75e47be05e",
+    "https://note.com/mizuame_yukina26/n/n0a6f988f6572",
+    "https://note.com/zen_ai_lab/n/n1514d7e7c104"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com 指標ごとに基準の出どころを1つ決めて突き合わせる実務（データの照合・許容の幅を指標の種類で変える・食い違いの記録）",
+   "results": [
+    "https://x.com/otemachiprep/status/2093597522199544221",
+    "https://x.com/f8q75wzwaibw/status/2077226401493819410",
+    "https://x.com/AIjitan_sokuhou/status/2117953794822508873",
+    "https://x.com/kaji_dx/status/2112098937251467322",
+    "https://x.com/tsuntsun2914/status/2065335458033516717",
+    "https://x.com/223Works0709/status/2106508522888532213",
+    "https://x.com/keirijouhou/status/2117046743724679251"
    ],
    "engines": [
     "ddgs:google"
@@ -2264,141 +2352,100 @@
    "n_hits": 7
   },
   {
-   "query": "site:x.com 指標ごとに基準の出どころを1つ決めて突き合わせる実務（データの照合・許容の幅を指標の種類で変える・食い違いの記録）",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
-  },
-  {
    "query": "site:linkedin.com 指標ごとに基準の出どころを1つ決めて突き合わせる実務（データの照合・許容の幅を指標の種類で変える・食い違いの記録）",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://jp.linkedin.com/pulse/measuring-data-quality-metrics-kpis-robert-seltzer-fgu9c?tl=ja",
+    "https://jp.linkedin.com/learning/marketing-foundations-analytics-27974673/4094008",
+    "https://jp.linkedin.com/pulse/building-strong-data-governance-program-part-3-kpis-lippisch-cipm-qofmc?tl=ja",
+    "https://jp.linkedin.com/pulse/making-improvements-through-data-driven-quality-metrics-joshua-chezum-bgalc?tl=ja",
+    "https://jp.linkedin.com/pulse/building-trust-data-step-by-step-guide-implementing-chetna-chaudhari-28hwc?tl=ja",
+    "https://jp.linkedin.com/pulse/top-40-data-quality-improvement-initiatives-nrz4f?tl=ja",
+    "https://jp.linkedin.com/learning/leading-projects-2/2359645"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:facebook.com 指標ごとに基準の出どころを1つ決めて突き合わせる実務（データの照合・許容の幅を指標の種類で変える・食い違いの記録）",
    "results": [
-    "https://www.facebook.com/hkn.jp/videos/認定代理店座談会認定を取った代理店は組織の何を変えたかーー-モニタリング不備管理証跡設計の実務を社長と現場管理者が語るーー/4510083399277393/",
-    "https://www.facebook.com/shikigaku2015/videos/経営者向け社員が納得する評価制度/2029072644538565/",
     "https://www.facebook.com/eiichiro49/posts/施設基準比較アプリ最新データに更新しました2026年7月1日8月1日届出分を反映していますそして今回待望の新機能を追加しました自院の名前を入れるだけで届出できそ/28241020562201302/",
+    "https://www.facebook.com/shikigaku2015/videos/経営者向け社員が納得する評価制度/2029072644538565/",
+    "https://www.facebook.com/hkn.jp/videos/認定代理店座談会認定を取った代理店は組織の何を変えたかーー-モニタリング不備管理証跡設計の実務を社長と現場管理者が語るーー/4510083399277393/",
+    "https://www.facebook.com/bugyo.obc/videos/電卓での検算まだ続けますか/1467398958506860/",
     "https://www.facebook.com/soficojapan/videos/導入事例札幌レンタリース様/1776885310016868/",
     "https://www.facebook.com/shigeyo.tomo/videos/選ぶ基準値は指標は自分軸でありベクトル相手でもあるどんな基準値で誰のために判断するのかここがしっかりとあることが判断軸の土台ですこのアカウントでは長年サラリーマ/1569069634950708/",
-    "https://www.facebook.com/bugyo.obc/videos/電卓での検算まだ続けますか/1467398958506860/",
     "https://www.facebook.com/KPMG.JP/photos/必見ifrs-18実践ポイント-第8回ifrsr会計基準適用企業はifrs第18号の適用に向け検討を進めています本解説シリーズではifrs第18号の主な留意点を/1283073440506517/"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
   {
    "query": "指標ごとに基準の出どころを1つ決めて突き合わせる実務（データの照合・許容の幅を指標の種類で変える・食い違いの記録） note 社長",
    "results": [
-    "https://www.asteria.com/jp/warp/blog/166270.html",
-    "https://data.bfts.co.jp/blog/data-dictionary-for-bi",
-    "https://analytics-intro.withhive.com/ja/blog/common-metric-standard/",
-    "https://a-x.inc/blog/ai-data-matching-automation/",
-    "https://data-viz-lab.com/excel",
-    "https://hondana1.jp/指標ガバナンスとメトリクス定義書の作り方/",
-    "https://www.issoh.co.jp/column/details/16465/"
+    "https://data-viz-lab.com/kpi-data",
+    "https://note.com/isdataconsulting/n/n317e99558c60",
+    "https://bscdesigner.com/ja/kpi-bunseki.htm",
+    "https://note.com/hik0107/n/nc9be6f41e459",
+    "https://ximix.niandc.co.jp/column/what-are-the-six-metrics-for-measuring-data-quality",
+    "https://note.com/honda_crosscom/n/n8a23b33bbb4a",
+    "https://smart-analytics.jp/smart-mba/learning/data-driven-decision/",
+    "https://tazna.io/news/data-assessment",
+    "https://jp.drinet.co.jp/blog/datamanagement/sdgs_indicators",
+    "https://www.asteria.com/jp/warp/blog/166270.html"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "指標ごとに基準の出どころを1つ決めて突き合わせる実務（データの照合・許容の幅を指標の種類で変える・食い違いの記録） X 投稿",
    "results": [
-    "https://www.asteria.com/jp/warp/blog/166270.html",
-    "https://data.bfts.co.jp/blog/data-dictionary-for-bi",
-    "https://a-x.inc/blog/ai-data-matching-automation/",
-    "https://analytics-intro.withhive.com/ja/blog/common-metric-standard/",
-    "https://data-viz-lab.com/excel",
-    "https://hondana1.jp/指標ガバナンスとメトリクス定義書の作り方/",
-    "https://xn--8pr380g.com/ja/blog/data-totsugou/"
+    "https://www.nttdata-kansai.co.jp/media/056/",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://developers.google.com/meridian/docs/post-modeling/interpret-visualizations?hl=ja",
+    "https://www.nttcoms.com/service/social/column/sns-kpi/",
+    "https://ferret-one.com/blog/marketing-effectiveness-measurement",
+    "https://www.videor.co.jp/digestplus/article/ad-marketing240731.html",
+    "https://asana.com/ja/resources/social-media-metrics",
+    "https://ferret-plus.com/5348",
+    "https://www.icrossborderjapan.com/blog/archives/17416/",
+    "https://www.asteria.com/jp/warp/blog/166270.html"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "data reconciliation single source of truth per metric tolerance thresholds discrepancy log site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/pulse/from-fragmented-reports-single-source-truth-data-governance-patel-stqxc",
-    "https://www.linkedin.com/advice/0/how-do-you-perform-data-reconciliation-testing-between",
-    "https://www.linkedin.com/pulse/effective-strategies-manage-single-source-truth-data-jwala-vedantam-otoyc/",
-    "https://www.linkedin.com/pulse/mastering-reconciliation-reports-etl-data-warehousing-oruganti-w4anf/",
-    "https://www.linkedin.com/advice/0/how-can-organizations-achieve-single-source-truth-rstuf",
-    "https://www.linkedin.com/pulse/why-single-source-truth-fails-what-actually-works-steve-shurtz-wd4zc",
-    "https://www.linkedin.com/pulse/cross-model-reconciliation-framework-ensuring-data-truth-jujaray-k4spc"
+    "https://www.linkedin.com/pulse/stop-polling-your-database-building-real-time-cdc-kafka-kunal-agrawal-yqarf",
+    "https://www.linkedin.com/in/dougschiller",
+    "https://www.linkedin.com/posts/fezza_if-your-gtm-reporting-is-a-mess-but-you-arent-activity-7510338756114292736-mlFl",
+    "https://www.linkedin.com/pulse/integrating-data-governance-master-management-vijay-idutc",
+    "https://www.linkedin.com/in/ian-webb-9a30ab31",
+    "https://www.linkedin.com/pulse/autonomous-financial-close-reimagining-corporate-age-andre-ctcle",
+    "https://www.linkedin.com/in/prithvi-gude",
+    "https://www.linkedin.com/in/josephlmann",
+    "https://www.linkedin.com/in/ridhideora",
+    "https://bg.linkedin.com/in/mariyan-familiyanov"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:yahoo",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   }
  ],
  "missing": {},
- "new_this_run": {
-  "実例": [
-   {
-    "quote": "Other use cases include",
-    "url": "https://docs.soda.io/soda-documentation/find/data-testing/data-reconciliation",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "feed into a single target: for example, validating that a consolidated data warehouse matches both a staging environment and an operational database.",
-    "url": "https://docs.soda.io/soda-documentation/find/data-testing/data-reconciliation",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "on each source dataset, allowing you to reconcile only a subset of records that match certain criteria (for example, only transactions from the current month, or only rows belonging to a specific business unit).",
-    "url": "https://docs.soda.io/soda-documentation/find/data-testing/data-reconciliation",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": ". This tolerance can be set depending on the business context. Some use cases may allow small discrepancies (e.g., rounding differences), while others require exact equality.",
-    "url": "https://docs.soda.io/soda-documentation/find/data-testing/data-reconciliation",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "that is applied on top of any existing dataset filters. This allows you to reconcile only a targeted segment of data within the context of the specific check—for example, testing only a single business unit, product family, or date range.",
-    "url": "https://docs.soda.io/soda-documentation/find/data-testing/data-reconciliation",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "A single filter expression only works when the same SQL is valid against both datasets. That is often not the case: a legacy source and its migrated copy routinely differ in column names, status encodings, or partitioning conventions.",
-    "url": "https://docs.soda.io/soda-documentation/find/data-testing/data-reconciliation",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "on both sides makes a code that differs only in case or padding count as the same code, rather than as one value missing on each side. There are no key columns there, so the caution above does not apply.",
-    "url": "https://docs.soda.io/soda-documentation/find/data-testing/data-reconciliation",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Pick the direction that matches the relationship — the target constrained to the values of the source (the usual case when the source is the system of record), the source constrained to the target, or the two required to hold exactly the same set. Because the comparison is over distinct values, duplicates are irrelevant and no key column has to be declared; rows whose compared columns are",
-    "url": "https://docs.soda.io/soda-documentation/find/data-testing/data-reconciliation",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Entries in the source list may reference the same dataset, each through its own filter — for example, two differently filtered slices of one dataset compared against the target. Where the slicing only differs per check, a single source with per-check filters keeps the contract shorter.",
-    "url": "https://docs.soda.io/soda-documentation/find/data-testing/data-reconciliation",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ]
- },
- "runs": 5,
+ "new_this_run": {},
+ "runs": 6,
  "first_researched_at": "2026-11-07T22:00:52.267206+00:00"
 }
