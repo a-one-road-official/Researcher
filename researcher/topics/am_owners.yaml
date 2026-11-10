@@ -1,7 +1,6 @@
 # 本人の指示（2026-11-10）：日本で金属AM（PBF：SLMなど）の装置を持っている会社・研究機関＝すでに金属粉を買っている先を洗い出す。
 # 製造元は問わない。市場は小さいので水増ししない。第1段（build）で検索から名簿、第2段（ここ）で1社ずつ公式サイトで装置の保有・資本金・創業年度・株主構成を三重確認。
 title: 日本の金属AM（PBF）装置の保有者（会社・研究機関）— 保有装置・方式・台数・資本金・創業年度・株主構成
-build: researcher.build_am_owners
 input: researcher/inputs/am_owners.csv
 columns: {name: 社名, url: 公式URL, aliases: 別名, context: 文脈}
 

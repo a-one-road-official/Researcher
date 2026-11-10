@@ -29,10 +29,15 @@ from researcher.search import search
 from researcher.targets import ROOT
 
 OUT = ROOT / "out" / "am_owners"
-EVID = OUT / "evidence.csv"
 OWNERS = OUT / "owners.csv"
-DONEQ = OUT / "done_queries.txt"
-DONEU = OUT / "done_urls.txt"
+# 2026-11-10 本人：爆速で。検索語を分けて同時並行（am_owners.yml の matrix）。ぶつからないよう本ごとに別ファイル
+import os
+SHARD = int(os.environ.get("AM_SHARD", "0"))
+SHARDS = int(os.environ.get("AM_SHARDS", "1"))
+EV_DIR = OUT / "evidence"
+EVID = EV_DIR / f"{SHARD}.csv"
+DONEQ = EV_DIR / f"done_queries_{SHARD}.txt"
+DONEU = EV_DIR / f"done_urls_{SHARD}.txt"
 INPUT = ROOT / "inputs" / "am_owners.csv"
 EV_FIELDS = ["org", "org_kind", "pbf", "machine", "quote", "url", "query"]
 
@@ -145,7 +150,7 @@ def _scan(url: str, title: str, text: str, query: str) -> list[dict]:
 
 
 def _append(rows: list[dict]) -> None:
-    OUT.mkdir(parents=True, exist_ok=True)
+    EV_DIR.mkdir(parents=True, exist_ok=True)
     new = not EVID.exists()
     with open(EVID, "a", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=EV_FIELDS, extrasaction="ignore")
@@ -155,10 +160,12 @@ def _append(rows: list[dict]) -> None:
 
 
 def _summarize() -> int:
-    if not EVID.exists():
+    files = sorted(EV_DIR.glob("*.csv")) if EV_DIR.exists() else []
+    if not files:
         return 0
     orgs: dict[str, dict] = {}
-    with open(EVID, encoding="utf-8") as f:
+    for fp in files:
+      with open(fp, encoding="utf-8") as f:
         for r in csv.DictReader(f):
             o = orgs.setdefault(r["org"], {"org": r["org"], "org_kind": r["org_kind"], "pbf": "unknown",
                                            "machines": set(), "urls": set(), "n_quotes": 0, "first_quote": r["quote"]})
@@ -191,9 +198,10 @@ def _summarize() -> int:
 
 def main(deadline_s: float = 3 * 3600) -> int:
     deadline = time.time() + deadline_s
-    OUT.mkdir(parents=True, exist_ok=True)
+    EV_DIR.mkdir(parents=True, exist_ok=True)
     done_q, done_u = _read_set(DONEQ), _read_set(DONEU)
-    for q in _queries():
+    mine = _queries()[SHARD::SHARDS]
+    for q in mine:
         if time.time() > deadline:
             break
         if q in done_q:
@@ -218,13 +226,14 @@ def main(deadline_s: float = 3 * 3600) -> int:
             done_u.add(u)
         _add_line(DONEQ, q)
         done_q.add(q)
-        print(f"q done: {q} ({len(done_q)}/{len(_queries())})", flush=True)
-        if len(done_q) % 10 == 0:
-            _summarize()
+        print(f"shard {SHARD}: q done {q} ({len(done_q)}/{len(mine)})", flush=True)
+    print(f"shard {SHARD} finished: {len(done_q)}/{len(mine)}", flush=True)
+    return 0
+
+
+def summarize_main() -> int:
     n = _summarize()
     print(f"orgs: {n}", flush=True)
-    if time.time() < deadline and done_q >= set(_queries()):
-        (OUT / "BUILD_DONE").write_text(f"{n}\n", encoding="utf-8")
     return 0
 
 
@@ -233,4 +242,4 @@ def is_done() -> bool:
 
 
 if __name__ == "__main__":
-    sys.exit(main())
+    sys.exit(summarize_main() if "summarize" in sys.argv else main(float(os.environ.get("AM_DEADLINE_S", 3 * 3600))))
