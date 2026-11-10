@@ -100,7 +100,7 @@ def _queries() -> list[str]:
         qs += [f"{m} 導入", f"{m} 保有"]
     for t in PBF_TERMS:
         qs += [f"{t} 装置 導入", f"{t} 保有設備"]
-    return qs + INST_QUERIES + COMPANY_QUERIES
+    return COMPANY_QUERIES + INST_QUERIES + qs
 
 
 def _read_set(p) -> set[str]:
@@ -219,6 +219,8 @@ def main(deadline_s: float = 3 * 3600) -> int:
         _add_line(DONEQ, q)
         done_q.add(q)
         print(f"q done: {q} ({len(done_q)}/{len(_queries())})", flush=True)
+        if len(done_q) % 10 == 0:
+            _summarize()
     n = _summarize()
     print(f"orgs: {n}", flush=True)
     if time.time() < deadline and done_q >= set(_queries()):
