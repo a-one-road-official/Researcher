@@ -63,7 +63,8 @@ jobs:
             sleep 420
             git pull -q --rebase || true
             python -m researcher.build_am_owners summarize
-            git add researcher/out/am_owners/owners.csv researcher/inputs/am_owners.csv
+            # 2026-11-10 まだ0件で owners.csv が無い回に git add で落ちて、まとめが止まっていたので、あるものだけ add する
+            git add -A researcher/out/am_owners researcher/inputs/am_owners.csv || true
             if ! git diff --cached --quiet; then
               git commit -q -m "am_owners: 名簿まとめ round ${round}"
               for i in 1 2 3 4 5; do git pull -q --rebase && git push -q && break; sleep 5; done
