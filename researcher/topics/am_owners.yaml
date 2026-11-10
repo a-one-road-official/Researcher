@@ -25,3 +25,15 @@ figure_patterns:
   資本金(億円): "資本金・株主|資本金\\s*[:：]?\\s*([\\d,\\.]+)\\s*億"
 
 subpage_keywords: [会社概要, 会社情報, 企業情報, 設備, 設備紹介, 保有設備, 設備一覧, 機器, 開放機器, 共用設備, 3Dプリンタ, 積層造形, 沿革, ニュース, お知らせ, about, company, equipment, facility, news]
+
+# 2026-11-10 external_queries が無く、1社ずつの精査が全48社 KeyError で落ちていたので追加（公式サイトだけでなく外部の一次情報も当てる）
+external_queries:
+  - "{name} 会社概要 資本金 設立"
+  - "{name} 金属3Dプリンタ 導入"
+  - "{name} 金属積層造形 設備"
+  - "{name} 株主 出資 親会社"
+  - "{name} 売上高 従業員数"
+
+image_keywords: ['概要', '設備']
+
+limits: {pages: 14, subpages: 12, pdfs: 2, images: 2, external_per_query: 3}
