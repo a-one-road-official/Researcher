@@ -231,6 +231,12 @@ def main(deadline_s: float = 3 * 3600) -> int:
     return 0
 
 
+def check_main() -> int:
+    """自分の担当の検索語が全部済んでいれば 0、残りがあれば 1（ワークフローの区切りループ用）"""
+    mine = _queries()[SHARD::SHARDS]
+    return 0 if set(mine) <= _read_set(DONEQ) else 1
+
+
 def summarize_main() -> int:
     n = _summarize()
     print(f"orgs: {n}", flush=True)
@@ -242,4 +248,4 @@ def is_done() -> bool:
 
 
 if __name__ == "__main__":
-    sys.exit(summarize_main() if "summarize" in sys.argv else main(float(os.environ.get("AM_DEADLINE_S", 3 * 3600))))
+    sys.exit(check_main() if "check" in sys.argv else summarize_main() if "summarize" in sys.argv else main(float(os.environ.get("AM_DEADLINE_S", 3 * 3600))))

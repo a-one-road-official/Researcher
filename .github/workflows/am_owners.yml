@@ -43,12 +43,7 @@ jobs:
               git commit -q -m "am_owners: shard ${AM_SHARD} round ${round}"
               for i in 1 2 3 4 5 6 7 8; do git pull -q --rebase && git push -q && break; sleep $((RANDOM % 10 + 3)); done
             fi
-            python - <<'PY' && break
-import os,sys
-from researcher import build_am_owners as b
-mine=b._queries()[b.SHARD::b.SHARDS]
-sys.exit(0 if set(mine)<=b._read_set(b.DONEQ) else 1)
-PY
+            python -m researcher.build_am_owners check && break
           done
 
   summarize:
