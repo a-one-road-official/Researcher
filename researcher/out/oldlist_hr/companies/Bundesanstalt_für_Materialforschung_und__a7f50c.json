@@ -1,0 +1,872 @@
+{
+ "name": "Bundesanstalt für Materialforschung und -prüfung (BAM)",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜送付済み",
+ "researched_at": "2026-11-10T22:12:02.423838+00:00",
+ "official_url": "https://www.bam.de",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "Address",
+    "value": "Rudower Chaussee 11 Berlin 12489 Germany",
+    "url": "https://find-a-conformity-assessment-body.service.gov.uk/search/cab-profile/bundesanstalt-fur-materialforschung-und-prufung-bam/53067ecd-1fba-431e-a3e4-d0f772bf62ed",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "label": "Email",
+    "value": "Not provided",
+    "url": "https://find-a-conformity-assessment-body.service.gov.uk/search/cab-profile/bundesanstalt-fur-materialforschung-und-prufung-bam/53067ecd-1fba-431e-a3e4-d0f772bf62ed",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "CAB profile - Bundesanstalt fur Materialforschung und -prufung (BAM) - UK Market Conformity Assessment Bodies",
+    "url": "https://find-a-conformity-assessment-body.service.gov.uk/search/cab-profile/bundesanstalt-fur-materialforschung-und-prufung-bam/53067ecd-1fba-431e-a3e4-d0f772bf62ed",
+    "pass": 3
+   },
+   {
+    "quote": "Bundesanstalt fur Materialforschung und -prufung (BAM)",
+    "url": "https://find-a-conformity-assessment-body.service.gov.uk/search/cab-profile/bundesanstalt-fur-materialforschung-und-prufung-bam/53067ecd-1fba-431e-a3e4-d0f772bf62ed",
+    "pass": 3
+   },
+   {
+    "quote": "Last updated: 1 Apr 2026",
+    "url": "https://find-a-conformity-assessment-body.service.gov.uk/search/cab-profile/bundesanstalt-fur-materialforschung-und-prufung-bam/53067ecd-1fba-431e-a3e4-d0f772bf62ed",
+    "pass": 3
+   },
+   {
+    "quote": "Previous Body number(s)",
+    "url": "https://find-a-conformity-assessment-body.service.gov.uk/search/cab-profile/bundesanstalt-fur-materialforschung-und-prufung-bam/53067ecd-1fba-431e-a3e4-d0f772bf62ed",
+    "pass": 3
+   },
+   {
+    "quote": "Help us improve this service",
+    "url": "https://find-a-conformity-assessment-body.service.gov.uk/search/cab-profile/bundesanstalt-fur-materialforschung-und-prufung-bam/53067ecd-1fba-431e-a3e4-d0f772bf62ed",
+    "pass": 3
+   },
+   {
+    "quote": "Provide more feedback about this page",
+    "url": "https://find-a-conformity-assessment-body.service.gov.uk/search/cab-profile/bundesanstalt-fur-materialforschung-und-prufung-bam/53067ecd-1fba-431e-a3e4-d0f772bf62ed",
+    "pass": 3
+   },
+   {
+    "quote": "Bundesanstalt fuer Materialforschung und -pruefung, Richard-Willstaetter-Str. 11, 12489 Berlin",
+    "url": "https://www.comar.bam.de/apex/r/eptiscomar/f_103106107107200990333500400/fact-sheet?p6_id=517693&clear=RR,6",
+    "pass": 3
+   },
+   {
+    "quote": "49 materials have been produced under a valid ISO 17034",
+    "url": "https://www.comar.bam.de/apex/r/eptiscomar/f_103106107107200990333500400/fact-sheet?p6_id=517693&clear=RR,6",
+    "pass": 3
+   },
+   {
+    "quote": "If you find any mistakes please contact the RM Producer,",
+    "url": "https://www.comar.bam.de/apex/r/eptiscomar/f_103106107107200990333500400/fact-sheet?p6_id=517693&clear=RR,6",
+    "pass": 3
+   },
+   {
+    "quote": "Bundesanstalt fuer Materialforschung und -pruefung",
+    "url": "https://inspirehep.net/institutions/1646983",
+    "pass": 3
+   },
+   {
+    "quote": "Thermomechanical Properties of Polymers for Use in Superconducting Magnets",
+    "url": "https://inspirehep.net/institutions/1646983",
+    "pass": 3
+   },
+   {
+    "quote": "Mechanical Properties of the HL-LHC 11 T Nb",
+    "url": "https://inspirehep.net/institutions/1646983",
+    "pass": 3
+   },
+   {
+    "quote": "一方、米国においては、これまでNMR 関連学会と言えばアカデミックな ENC（Experimental Nuclear Magnetic Resonance Conference）が思い浮かべられましたが（参加者はほぼ大学関係者で占められています）、ここ数年これまでのNMR 関連学会とは一線を画す新たな学会 PANIC（Practical Applications of NMR in Industry Conference）が開催され話題を集めています",
+    "url": "https://labchem-wako.fujifilm.com/jp/siyaku-blog/010996.html",
+    "pass": 3
+   },
+   {
+    "quote": "Bundesanstalt für materialforschung und –prüfunung (BAM)",
+    "url": "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "pass": 3
+   },
+   {
+    "quote": "Pretoria, South Africa",
+    "url": "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "pass": 3
+   },
+   {
+    "quote": "Montevideo, Uruguay",
+    "url": "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "pass": 3
+   },
+   {
+    "quote": "Working Group (OAWG) for NMIs and DIs which provide measurement services in organic analysis",
+    "url": "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "pass": 3
+   },
+   {
+    "quote": "Participants were required to assign the mass fractions, expressed in units of μg/g, of methoxychlor (M)",
+    "url": "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "pass": 3
+   },
+   {
+    "quote": "and trifluralin (T) in solution in acetonitrile (ACN). The content and analytical challenges of the selected",
+    "url": "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "pass": 3
+   },
+   {
+    "quote": "analytes are representative of those for calibration solutions for non-polar organic analytes in solution.",
+    "url": "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "pass": 3
+   },
+   {
+    "quote": "Participation in CCQM-K78.b benchmarked capability for assigning the content of non-polar organic",
+    "url": "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "pass": 3
+   },
+   {
+    "quote": "Gravimetric preparation of comparison stock solution ....................................................................................... 9",
+    "url": "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "pass": 3
+   },
+   {
+    "quote": "APPENDIX B: STUDY PROTOCOL ...................................................................................................... 29",
+    "url": "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "pass": 3
+   },
+   {
+    "quote": "Table 2 Gravimetric mass fraction content of analytes in CCQM-K78.b solution",
+    "url": "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "pass": 3
+   },
+   {
+    "quote": "Table 9: Estimators for Analyte content in CCQM-K78.b",
+    "url": "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 6: Trifluralin content by method",
+    "url": "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 8: Methoxychlor content by method",
+    "url": "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "pass": 3
+   },
+   {
+    "quote": "Appendix B: Study protocol",
+    "url": "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "pass": 3
+   },
+   {
+    "quote": "PRM Primary Reference Material",
+    "url": "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "pass": 3
+   },
+   {
+    "quote": "the quantity with an approximate 95 % level of confidence",
+    "url": "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "pass": 3
+   },
+   {
+    "quote": "which provide measurement services in organic analysis under the CIPM MRA. Gravimetrically-prepared",
+    "url": "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "pass": 3
+   },
+   {
+    "quote": "The ability to undertake assignments of the property value and associated uncertainty of the content of",
+    "url": "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "pass": 3
+   },
+   {
+    "quote": "calibration solutions is critical for the provision of SI -traceable measurements and is thus a core",
+    "url": "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "pass": 3
+   },
+   {
+    "quote": "competency for producers of reference materials as standard solutions and for providers of calibration and",
+    "url": "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "pass": 3
+   },
+   {
+    "quote": "NMIs or DIs to benchmark their procedures to assign the mass fraction content of single or multi -",
+    "url": "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "pass": 3
+   },
+   {
+    "quote": "component non-polar organic analytes in organic standard solutions. All NMIs with ongoing programs in",
+    "url": "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "pass": 3
+   },
+   {
+    "quote": "CMC claims for this class of measurement service. It allows NMIs and DIs to provide objective evidence",
+    "url": "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "pass": 3
+   },
+   {
+    "quote": "that the procedures they use for the property value assignment of calibration solutions are suitable for their",
+    "url": "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "pass": 3
+   },
+   {
+    "quote": "von der TU Berlin zum Dr.-Ing. promoviert.",
+    "url": "https://de.wikipedia.org/wiki/Klaus_Brandes",
+    "pass": 3
+   },
+   {
+    "quote": "und Brandes erstmals in der Bundesrepublik Deutschland bruchmechanische Betrachtungen bei der Untersuchung von ermüdungsbeanspruchten Tragwerksteilen in genieteten Brücken ein. So unterstützt Brandes mit seinen Ermüdungsversuchen an Fachwerkträgern der",
+    "url": "https://de.wikipedia.org/wiki/Klaus_Brandes",
+    "pass": 3
+   },
+   {
+    "quote": "Die Ableitung der Verschiebungsgleichungen der Kreiszylinderschale mit dem Prinzip der virtuellen Kräfte",
+    "url": "https://de.wikipedia.org/wiki/Klaus_Brandes",
+    "pass": 3
+   },
+   {
+    "quote": "Aus Theorie und Praxis der Ingenieurwissenschaften: Mathematik, Mechanik, Bauwesen",
+    "url": "https://de.wikipedia.org/wiki/Klaus_Brandes",
+    "pass": 3
+   },
+   {
+    "quote": "(PDF) Hrsg.: International Association for Structural Mechanics in Reactor Technology, Bundesanstalt für Materialprüfung und Klaus Brandes in enger Zusammenarbeit mit Brunhilt Jaeger und Wolfgang Matthees. Bundesanstalt für Materialprüfung (BAM), Berlin 1985, S. 27–106.",
+    "url": "https://de.wikipedia.org/wiki/Klaus_Brandes",
+    "pass": 3
+   },
+   {
+    "quote": "Ermüdungsversuche an Fachwerkträgern der Berliner U-Bahn-Linie U1 unter Einbeziehung zerstörungsfreier Prüfmethoden zur Rißdetektierung bei der Begutachtung alter Stahlbrücken",
+    "url": "https://de.wikipedia.org/wiki/Klaus_Brandes",
+    "pass": 3
+   },
+   {
+    "quote": "Erweiterte Strukturabbildung von Brücken mit adaptiven mathematischen Modellen zur Lösung aktueller noch ungelöster Probleme",
+    "url": "https://de.wikipedia.org/wiki/Klaus_Brandes",
+    "pass": 3
+   },
+   {
+    "quote": "Die Lagerung des kreiszylindrischen Rohres auf einer kreisförmigen starren Schneide – Lösung eines gemischten Randwertproblems mit Hilfe einer speziellen Kollokationsmethode",
+    "url": "https://de.wikipedia.org/wiki/Klaus_Brandes",
+    "pass": 3
+   },
+   {
+    "quote": "Die Lagerung des Kreiszylinderrohres auf einem starren Linienlager – Beitrag zur praktischen Berechnung der Kontaktkräfte",
+    "url": "https://de.wikipedia.org/wiki/Klaus_Brandes",
+    "pass": 3
+   },
+   {
+    "quote": "Der Archivlink wurde automatisch eingesetzt und noch nicht geprüft. Bitte prüfe Original- und Archivlink gemäß",
+    "url": "https://de.wikipedia.org/wiki/Klaus_Brandes",
+    "pass": 3
+   },
+   {
+    "quote": "Begleitung praxisnaher Forschungsprojekte.",
+    "url": "https://de.wikipedia.org/wiki/Klaus_Brandes",
+    "pass": 3
+   },
+   {
+    "quote": "Wikipedia:Defekte Weblinks/Ungeprüfte Archivlinks 2025-12",
+    "url": "https://de.wikipedia.org/wiki/Klaus_Brandes",
+    "pass": 3
+   },
+   {
+    "quote": "verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den",
+    "url": "https://de.wikipedia.org/wiki/Klaus_Brandes",
+    "pass": 3
+   },
+   {
+    "quote": "Impressum / Sicherheit",
+    "url": "https://de.wikipedia.org/wiki/Klaus_Brandes",
+    "pass": 3
+   },
+   {
+    "quote": "With more than 100 attendants from industry, science and research, the third AM Ceramics opened by Dr. Johannes Homa, CEO of Lithoz® and host of the event. Professor Jens Günster from BAM (Bundesanstalt für Materialforschung) moderated the sessions with his expert knowledge of ceramics and 3D printing.",
+    "url": "https://congress.dkg.de/event/am_ceramics_2018/retrospect_2018/en",
+    "pass": 3
+   },
+   {
+    "quote": "Tom Wasley, from the MTC, gave the first presentation, discussing aspects involved in the wider adaptation of AM technology in industry. Although there has been a growth in the adaptation and usage of AM, there is still a reluctance to employ this technology due to the innovative changes it brings and its rapid growth.",
+    "url": "https://congress.dkg.de/event/am_ceramics_2018/retrospect_2018/en",
+    "pass": 3
+   },
+   {
+    "quote": "Professor Graule, of EMPA in Switzerland, spoke about the development of UV-curable acrylate-based ceramic dispersions and how they can be shaped to become dense or porous green and sintered parts, focusing particularly on micro parts and gradient structures.",
+    "url": "https://congress.dkg.de/event/am_ceramics_2018/retrospect_2018/en",
+    "pass": 3
+   },
+   {
+    "quote": "The final presentation of this first session was given by Dr. Alexander Platzer, of Imerys Technology Center Austria GmbH. Dr. Platzer shared his insight into the requirements for the 3D printing of casting cores and compared the material properties of slurry and pre-fired AM ceramic mixes with the existing technology of injection molding.",
+    "url": "https://congress.dkg.de/event/am_ceramics_2018/retrospect_2018/en",
+    "pass": 3
+   },
+   {
+    "quote": "Mr. Martin Reinauer, of KLS, then gave an industrial perspective on the potential of AM in creating medical devices, and spoke about the possibility of digitally planning operations such as creating implant designs for dysgnathia operations. He also shared his positive experiences using patient specific implants which were made from resorbable ceramics and produced using LCM technology.",
+    "url": "https://congress.dkg.de/event/am_ceramics_2018/retrospect_2018/en",
+    "pass": 3
+   },
+   {
+    "quote": "Mr. Scheithauer, of Fraunhofer IKTS, showcased the different shapes and tilts of objects produced through AM, and how these properties can greatly affect the strength of the components.",
+    "url": "https://congress.dkg.de/event/am_ceramics_2018/retrospect_2018/en",
+    "pass": 3
+   },
+   {
+    "quote": "Professor Christiansen, of the Helmholz Institute, measured micro cracks in materials, and discussed how these measurements can be used to predict future behavior and even bone diseases.",
+    "url": "https://congress.dkg.de/event/am_ceramics_2018/retrospect_2018/en",
+    "pass": 3
+   },
+   {
+    "quote": "The final presentation was given by Dr. Aran Rafferty, and highlighted his thorough research into the porosity of alumina relating to curing temperature.",
+    "url": "https://congress.dkg.de/event/am_ceramics_2018/retrospect_2018/en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Bundesanstalt fuer Materialforschung und -pruefung ( BAM ... — Bundesanstalt fuer Materialforschung und -pruefung ( BAM ... International Atomic Energy Agency https://inis.iaea.org > records",
+    "url": "https://inis.iaea.org/records/t8eps-4sj40",
+    "pass": 3
+   },
+   {
+    "quote": "Bundesanstalt fur Materialforschung und -prufung ( BAM ) — Bundesanstalt fur Materialforschung und -prufung ( BAM ) UK Market Conformity Assessment Bodies https://find-a-conformity-assessment-body.service.gov.uk > ...",
+    "url": "https://find-a-conformity-assessment-body.service.gov.uk/search/cab-profile/bundesanstalt-fur-materialforschung-und-prufung-bam/53067ecd-1fba-431e-a3e4-d0f772bf62ed",
+    "pass": 3
+   },
+   {
+    "quote": "COMAR CRM FACTSHEET — COMAR CRM FACTSHEET comar.bam.de https://www.comar.bam.de > fact-sheet",
+    "url": "https://www.comar.bam.de/apex/r/eptiscomar/f_103106107107200990333500400/fact-sheet?p6_id=517693&clear=RR,6",
+    "pass": 3
+   },
+   {
+    "quote": "BAM , Berlin - Inspire HEP — BAM , Berlin - Inspire HEP Inspire HEP https://inspirehep.net > institutions",
+    "url": "https://inspirehep.net/institutions/1646983",
+    "pass": 3
+   },
+   {
+    "quote": "Review on image registration methods for the quality control in ... — Review on image registration methods for the quality control in ... KOBV – Kooperativer Bibliotheksverbund Berlin-Brandenburg PDF https://opus4.kobv.de > opus4-bam > files",
+    "url": "https://opus4.kobv.de/opus4-bam/files/62449/s40964-024-00932-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "B2B purchase | Bambu Lab — The reseller will assist you throughout the purchasing process. If you are eligible for tax exemptions and accept online payment methods, please apply an online tax-exempt account.",
+    "url": "https://bambulab.com/en/corporate-sales",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "【連載】The Gateway to qNMR ～定量NMRへの扉～ 「第 4 話 日本及び海外の動向のご紹介」｜siyaku blog｜試薬-富士フイルム和光純薬",
+    "url": "https://labchem-wako.fujifilm.com/jp/siyaku-blog/010996.html",
+    "pass": 3
+   },
+   {
+    "quote": "【連載】The Gateway to qNMR ～定量NMRへの扉～ 「第 4 話 日本及び海外の動向のご紹介」",
+    "url": "https://labchem-wako.fujifilm.com/jp/siyaku-blog/010996.html",
+    "pass": 3
+   },
+   {
+    "quote": "において、富士フイルム和光純薬株式会社 試薬化成品事業部ケミカル開発本部 機能性材料研究所 三浦 亨が執筆したものです",
+    "url": "https://labchem-wako.fujifilm.com/jp/siyaku-blog/010996.html",
+    "pass": 3
+   },
+   {
+    "quote": "最終話となった今回は、qNMR を取り巻く日本及び海外の動向をご紹介させて頂きます",
+    "url": "https://labchem-wako.fujifilm.com/jp/siyaku-blog/010996.html",
+    "pass": 3
+   },
+   {
+    "quote": "（qNMR 高精度化のはじまり）においてもご紹介させて頂きましたが、精確な内標準法としての qNMR は日本の食品添加物公定書において世界で初めて公定法化されました",
+    "url": "https://labchem-wako.fujifilm.com/jp/siyaku-blog/010996.html",
+    "pass": 3
+   },
+   {
+    "quote": "食品添加物公定書では、既に 3 種の定量対象標品の純度決定に、日本薬局方では 8 種の定量指標成分標品の純度決定に採用されています",
+    "url": "https://labchem-wako.fujifilm.com/jp/siyaku-blog/010996.html",
+    "pass": 3
+   },
+   {
+    "quote": "、2018 年 1 月には日本産業規格（JIS）の通則に定量核磁気共鳴分光法通則 （qNMR 通則）として採用されています",
+    "url": "https://labchem-wako.fujifilm.com/jp/siyaku-blog/010996.html",
+    "pass": 3
+   },
+   {
+    "quote": "qNMR を取り巻く動向も日本が最もエキサイティングであることは間違いありません",
+    "url": "https://labchem-wako.fujifilm.com/jp/siyaku-blog/010996.html",
+    "pass": 3
+   },
+   {
+    "quote": "また日本国内のみならず米国・欧州をはじめとした海外においても、qNMR の標準化・公定法化に関する取り組みが開始されており、後述する「qNMR summit」を中心に活発に検討が進められています",
+    "url": "https://labchem-wako.fujifilm.com/jp/siyaku-blog/010996.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本では、2012 年に日本の国家計量機関（National Metrology Institute, NMI）である産業技術総合研究所計量総合標準センター（National Metrology Institute of Japan, NMIJ）（昔の工業技術院計量研究所が母体となっています）が定量 NMR クラブを発足し、NMR を利用した有機化合物の定量分析を汎用的かつ信頼性の高い技術として普及させることを目的に活動を行っています",
+    "url": "https://labchem-wako.fujifilm.com/jp/siyaku-blog/010996.html",
+    "pass": 3
+   },
+   {
+    "quote": "例年 12 月に多くの一般参加者を含めた会合を開催し qNMR に関連する講演が行われ、日本におけるqNMR の普及を積極的に推進しています",
+    "url": "https://labchem-wako.fujifilm.com/jp/siyaku-blog/010996.html",
+    "pass": 3
+   },
+   {
+    "quote": "2017 年には当社と日本電子（株）が共同で qNMR ランチョンセミナーを開催し 200 名を超える参加者が集まりました",
+    "url": "https://labchem-wako.fujifilm.com/jp/siyaku-blog/010996.html",
+    "pass": 3
+   },
+   {
+    "quote": "2016 年 10 月に米国薬局方（United States Pharmacopeia, USP）（ロックビル市）で第 1 回、2017 年3 月にドイツの NMI であるドイツ連邦材料試験研究所（Federal Institute for Materials Research and Testing, BAM）（ベルリン市）で第 2 回が開催され、第 3 回は 2018 年 1 月に東京で「qNMR summit 2018 in Tokyo」として開催されました",
+    "url": "https://labchem-wako.fujifilm.com/jp/siyaku-blog/010996.html",
+    "pass": 3
+   },
+   {
+    "quote": "「qNMR summit 2018 in Tokyo」は、経済産業省「平成 29 年度 戦略的国際標準化加速事業 （政府戦略分野に係る国際標準開発活動）」制度支援のもと、qNMR 法の国際標準化（ISO）の取り組みの一環として開催されました",
+    "url": "https://labchem-wako.fujifilm.com/jp/siyaku-blog/010996.html",
+    "pass": 3
+   },
+   {
+    "quote": "BIPM と日本の国家計量機関の機能を有する産業技術総合研究所は、2014 年より革新的トレーサビリティ体系の普及・発展を目指す目的から、qNMR に関する共同研究を行っており、その研究成果は、その目的の達成のため、qNMR Internal Standard Reference Data（ISRD）としてBIPM のウェブサイトで一般公開されています",
+    "url": "https://labchem-wako.fujifilm.com/jp/siyaku-blog/010996.html",
+    "pass": 3
+   },
+   {
+    "quote": "最後に、日本においては、測定条件など qNMR の手法に関して概ねコンセンサスが得られ始めており、あらたな公定法案の策定など次の段階へと進みつつあります",
+    "url": "https://labchem-wako.fujifilm.com/jp/siyaku-blog/010996.html",
+    "pass": 3
+   },
+   {
+    "quote": "その 10 年前の状況は今の米国や欧州に当てはまり、まさに米国や欧州の現況は筆者の所感として混沌としていますが、qNMR の国際標準化や世界各国の公定法への適用と相まって今後 5 年～10 年程度で概ね日本を含め国際的なコンセンサスが得られるのではないかと期待しています",
+    "url": "https://labchem-wako.fujifilm.com/jp/siyaku-blog/010996.html",
+    "pass": 3
+   },
+   {
+    "quote": "National Metrology Institute of Japan (NMIJ)",
+    "url": "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "pass": 3
+   },
+   {
+    "quote": "Tsukuba, Japan",
+    "url": "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "pass": 3
+   },
+   {
+    "quote": "National Metrology Institute of Japan NMIJ Japan Miho Kuroe",
+    "url": "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "pass": 3
+   },
+   {
+    "quote": "Yamaguchi-University (Japan)",
+    "url": "https://de.wikipedia.org/wiki/Klaus_Brandes",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "The Primary Reference Materials (PRMs) used by the BIPM in the gravimetric preparation of the",
+    "url": "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "pass": 3
+   },
+   {
+    "quote": "to quantify the T and M content of the solution were unable to achieve a satisfactory degree of",
+    "url": "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "pass": 3
+   },
+   {
+    "quote": "of the PRMs for methoxychlor and trifluralin used by each participant.",
+    "url": "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "pass": 3
+   },
+   {
+    "quote": "Table 8: Analytical Methods and Calibration Strategy used by Participants",
+    "url": "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "pass": 3
+   },
+   {
+    "quote": "Methods based on GC -MS/MS using exact matching IDMS were used by six participants. Two",
+    "url": "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "pass": 3
+   },
+   {
+    "quote": "ampoules 240 of the comparison material appears satisfactory and is unlikely to be the source",
+    "url": "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "pass": 3
+   },
+   {
+    "quote": "of October, 2018, experts on ceramics, additive manufacturing and ceramic material development came together for the AM Ceramics event 2018, hosted by the DKG and Lithoz® in Vienna.",
+    "url": "https://congress.dkg.de/event/am_ceramics_2018/retrospect_2018/en",
+    "pass": 3
+   },
+   {
+    "quote": "Mr. Martin Reinauer, of KLS, then gave an industrial perspective on the potential of AM in creating medical devices, and spoke about the possibility of digitally planning operations such as creating implant designs for dysgnathia operations. He also shared his positive experiences using patient specific implants which were made from resorbable ceramics and produced using LCM technology.",
+    "url": "https://congress.dkg.de/event/am_ceramics_2018/retrospect_2018/en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "under the CIPM MRA. The key comparison forms part of the current OAWG 10-year strategic plan of",
+    "url": "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "pass": 3
+   },
+   {
+    "quote": "MRA Mutual Recognition Arrangement (of the CIPM)",
+    "url": "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "pass": 3
+   },
+   {
+    "quote": "Competencies claimed to have been demonstrated in this study. The t wenty institutes listed in Table",
+    "url": "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "pass": 3
+   },
+   {
+    "quote": "1 Results listed with an asterix (*) in Table 6 were recalculated subsequent to initial submission to",
+    "url": "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "pass": 3
+   },
+   {
+    "quote": "participants used a multipoint calibration GC-MS/MS approach. Other methods used to obtain either",
+    "url": "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "pass": 3
+   },
+   {
+    "quote": "or bracketing calibration strategies whereas results obtained using multipoint calibration showed a",
+    "url": "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "pass": 3
+   },
+   {
+    "quote": "• exact matching or bracketing rather than multipoint calibration;",
+    "url": "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "pass": 3
+   },
+   {
+    "quote": "Estimators for the KCRV for methoxychlor are listed in Table 9. For methoxychlor the Hierarchical",
+    "url": "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "pass": 3
+   },
+   {
+    "quote": "Participants who carry out in-house purity assignment of a material to use as their primary calibrator",
+    "url": "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "pass": 3
+   },
+   {
+    "quote": "to carry out an in-house assessment, if undertaken;",
+    "url": "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "pass": 3
+   },
+   {
+    "quote": "o if dilution of the solution is undertaken as part of the analysis method, mass fraction",
+    "url": "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "pass": 3
+   },
+   {
+    "quote": "Die Lagerung des kreiszylindrischen Rohres auf einer kreisförmigen starren Schneide – Lösung eines gemischten Randwertproblems mit Hilfe einer speziellen Kollokationsmethode",
+    "url": "https://de.wikipedia.org/wiki/Klaus_Brandes",
+    "pass": 3
+   },
+   {
+    "quote": "Die Lagerung des Kreiszylinderrohres auf einem starren Linienlager – Beitrag zur praktischen Berechnung der Kontaktkräfte",
+    "url": "https://de.wikipedia.org/wiki/Klaus_Brandes",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "a completed Core Competency table. The results are to be sent via e-mail to the study coordinator",
+    "url": "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "pass": 3
+   },
+   {
+    "quote": "I consent to receive marketing emails about Bambu Lab & MakerWorld's products, services and more. To understand our privacy practice, see",
+    "url": "https://bambulab.com/en/corporate-sales",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Submit a purchase inquiry and connect with authorized resellers for enhanced service.",
+    "url": "https://bambulab.com/en/corporate-sales",
+    "pass": 3
+   },
+   {
+    "quote": "Customers submitting the request may be assigned an authorized reseller to provide faster and better service tailored to your business needs.",
+    "url": "https://bambulab.com/en/corporate-sales",
+    "pass": 3
+   },
+   {
+    "quote": "The reseller will assist you throughout the purchasing process.",
+    "url": "https://bambulab.com/en/corporate-sales",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.bam.de",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://inis.iaea.org/records/t8eps-4sj40",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://find-a-conformity-assessment-body.service.gov.uk/search/cab-profile/bundesanstalt-fur-materialforschung-und-prufung-bam/53067ecd-1fba-431e-a3e4-d0f772bf62ed",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.comar.bam.de/apex/r/eptiscomar/f_103106107107200990333500400/fact-sheet?p6_id=517693&clear=RR,6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://inspirehep.net/institutions/1646983",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://labchem-wako.fujifilm.com/jp/siyaku-blog/010996.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%BC%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%82%BA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%AB_(%E4%BC%9A%E7%A4%BE)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hojinkai.de/members",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itohpat.co.jp/en/patent/aki-shimamura/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://staff.aist.go.jp/nob.yamashita/image/2025sep16.pdf",
+    "status": "network_error:ConnectionError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://de.wikipedia.org/wiki/Klaus_Brandes",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://congress.dkg.de/event/am_ceramics_2018/retrospect_2018/en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://opus4.kobv.de/opus4-bam/files/62449/s40964-024-00932-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://journals.iucr.org/paper?xx5022",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ekahau.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bambulab.com/en/corporate-sales",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.broadcom.com/how-to-buy/partner-distributor-lookup",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fsapartners.ed.gov/knowledge-center/library/guides-worksheets/2026-02-23/nslds-enrollment-reporting-guide-february-2026",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Bundesanstalt für Materialforschung und -prüfung (BAM) 日本 導入",
+   "results": [
+    "https://inis.iaea.org/records/t8eps-4sj40",
+    "https://find-a-conformity-assessment-body.service.gov.uk/search/cab-profile/bundesanstalt-fur-materialforschung-und-prufung-bam/53067ecd-1fba-431e-a3e4-d0f772bf62ed",
+    "https://www.comar.bam.de/apex/r/eptiscomar/f_103106107107200990333500400/fact-sheet?p6_id=517693&clear=RR,6",
+    "https://inspirehep.net/institutions/1646983",
+    "https://scholar.google.com/citations?user=9FexFggAAAAJ&hl=de",
+    "https://mech.fsv.cvut.cz/wiki/images/3/3a/Vacancy-BAM.pdf",
+    "https://pubmed.ncbi.nlm.nih.gov/38881037/",
+    "https://laro.lanl.gov/esploro/outputs/journalArticle/ABL-and-BAM-Friction-Analysis-Comparison/9916369340803761",
+    "https://www.facebook.com/TheBritishCollege/videos/best-of-luck-to-garima-dhakal-bsc-it-student-at-the-british-college-as-she-begin/1350100828905383/",
+    "https://biogroup.usc.es/star4bbs"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Bundesanstalt für Materialforschung und -prüfung (BAM) 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://labchem-wako.fujifilm.com/jp/siyaku-blog/010996.html",
+    "https://ja.wikipedia.org/wiki/シャーウィン・ウィリアムズ",
+    "https://ja.wikipedia.org/wiki/クロール_(会社)",
+    "https://www.hojinkai.de/members",
+    "https://www.msh-systems.com/partners/",
+    "http://www.sowa-trading.co.jp/company/english.php",
+    "https://japan-company.net/",
+    "https://japan.ahk.de/jp/mitgliedschaft/mitgliederverzeichnis"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Bundesanstalt für Materialforschung und -prüfung (BAM) Japan",
+   "results": [
+    "https://www.itohpat.co.jp/en/patent/aki-shimamura/",
+    "https://staff.aist.go.jp/nob.yamashita/image/2025sep16.pdf",
+    "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "https://de.wikipedia.org/wiki/Klaus_Brandes",
+    "https://journals.iucr.org/paper?mo5261",
+    "https://opus4.kobv.de/opus4-bam/files/65401/10_1016_j_pecs_2025_101276.pdf",
+    "https://www.brammerstandard.com/introduction.html",
+    "https://www.jci-net.or.jp/~tc163a/member.html",
+    "https://uol.de/en/icbm/look-and-sea/junior-scientists/career-insights-online",
+    "https://bam.de/Navigation/EN/Home/home"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Bundesanstalt für Materialforschung und -prüfung (BAM) manufacturing customer case study",
+   "results": [
+    "https://congress.dkg.de/event/am_ceramics_2018/retrospect_2018/en",
+    "https://opus4.kobv.de/opus4-bam/files/62449/s40964-024-00932-2.pdf",
+    "https://www.bipm.org/documents/d/guest/ccqm-k78-b",
+    "https://journals.iucr.org/paper?xx5022",
+    "https://www.tandfonline.com/doi/full/10.1080/01495739.2025.2541862",
+    "https://resources.inmm.org/system/files/patram_proceedings/2019/a1418_1.pdf",
+    "https://docenti.unisa.it/004354/en/curriculum",
+    "https://iopscience.iop.org/article/10.1088/1757-899X/1342/1/012067/pdf",
+    "https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0047/html?srsltid=AYCX9vIlIhJva9FnibiuE9D4UtoZarqMDhtJ0EYC2LDx7xwZrcQavPts",
+    "https://www.brammerstandard.com/introduction.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Bundesanstalt für Materialforschung und -prüfung (BAM) white label OR reseller OR partner program",
+   "results": [
+    "https://www.ekahau.com/partners/",
+    "https://bambulab.com/en/corporate-sales",
+    "https://www.broadcom.com/how-to-buy/partner-distributor-lookup",
+    "https://fsapartners.ed.gov/knowledge-center/library/nslds-user-resources/2026-02-23/nslds-enrollment-reporting-guide-february-2026",
+    "https://www.google.com/",
+    "https://translate.google.com/",
+    "https://wa.me/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Bundesanstalt für Materialforschung und -prüfung (BAM) founded funding employees revenue",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com Bundesanstalt für Materialforschung und -prüfung (BAM)",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com Bundesanstalt für Materialforschung und -prüfung (BAM)",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Bundesanstalt für Materialforschung und -prüfung (BAM)",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com Bundesanstalt für Materialforschung und -prüfung (BAM)",
+   "results": [
+    "https://www.facebook.com/Bundesanstalt-für-Materialforschung-531776733934707/",
+    "https://www.facebook.com/FreiwilligeFeuerwehrStadtKronach/photos/tipps-und-hinweise-der-kronacher-feuerwehrfür-das-bevorstehende-silvesterfeuerwe/911675484854997/",
+    "https://www.facebook.com/bamse.aouci/videos/einen-sicheren-hafen-für-die-eigenen-kinder-zu-bilden-ist-das-schönste-auf-der-w/2236323150560490/",
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/TheBritishCollege/videos/best-of-luck-to-garima-dhakal-bsc-it-student-at-the-british-college-as-she-begin/1350100828905383/",
+    "https://www.facebook.com/feuerwehr.muenchen/videos/großbrand-durch-akkus-interview-mit-branddirektor-björn-maiworm-zu-deutschlandwe/348652891365165/",
+    "https://research.facebook.com/publications/segment-anything/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Bundesanstalt für Materialforschung und -prüfung (BAM) note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Bundesanstalt für Materialforschung und -prüfung (BAM) X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）"
+ }
+}

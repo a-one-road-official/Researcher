@@ -1,0 +1,893 @@
+{
+ "name": "Mach-3D GmbH",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜AI送信済み",
+ "researched_at": "2026-11-10T21:51:10.215002+00:00",
+ "official_url": "https://www.mach-3d.de",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Mach-3D ist dein 3D-Druck-Service mit eigener Fertigung in Norddeutschland: Prototypen und Serien in FDM, SLA und SLS ab 1 Stück, Großteile bis 900 × 900 × 1000 mm am Stück. Den Richtpreis siehst du sofort nach dem Upload, das verbindliche Angebot kommt sofort.",
+    "url": "https://mach-3d.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Express-Termin auf Anfrage",
+    "url": "https://mach-3d.de/",
+    "pass": 1
+   },
+   {
+    "quote": ". Lieber persönlich besprechen und abholen? Alles zu Abholung und Terminen vor Ort steht unter",
+    "url": "https://mach-3d.de/",
+    "pass": 1
+   },
+   {
+    "quote": "STEP, STL oder 3MF hochladen, Material wählen, Richtpreis mit Staffelpreisen sofort sehen.",
+    "url": "https://mach-3d.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Wir prüfen die Machbarkeit, empfehlen Verfahren und Material und schicken ein Angebot.",
+    "url": "https://mach-3d.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Prototyp, Kleinserie oder Wiederholteil. Zur Fertigung →",
+    "url": "https://mach-3d.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Du hast schon eine 3D-Datei? Dann siehst du den Richtpreis sofort.",
+    "url": "https://mach-3d.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Das hängt von 5 Dingen ab: Funktion, Temperatur, Belastung, Geometrie und Stückzahl. Du musst das nicht allein entscheiden: Wir prüfen jede Anfrage und empfehlen ein Verfahren, statt dir eine Liste zu schicken. Die Unterschiede im Detail erklärt unser Ratgeber",
+    "url": "https://mach-3d.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Nicht jeder 3D-Druck-Service liefert mehr als eine gedruckte Datei. Bei Mach-3D bekommst du Beratung, Fertigung und Qualitätsprüfung aus einer Hand, orientiert an den Begriffen der Richtlinie",
+    "url": "https://mach-3d.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Ein guter 3D-Druck-Dienstleister prüft deine Datei, bevor gedruckt wird: Wandstärken, Überhänge, Passungen. Die Prüfung auf Druckbarkeit ist bei Mach-3D kostenlos, bei Bedarf mit",
+    "url": "https://mach-3d.de/",
+    "pass": 1
+   },
+   {
+    "quote": "FDM, SLA und SLS unter einem Dach, dazu 14 Materialien von PLA, PETG und ASA über PA12 bis PC. Du bekommst eine Empfehlung statt einer Preisliste.",
+    "url": "https://mach-3d.de/",
+    "pass": 1
+   },
+   {
+    "quote": "FDM erreicht ±0,15–0,8 mm je nach Bauteilgröße, SLA ±0,05 mm. Kritische Maße prüfen wir nach Zeichnung, auf Wunsch mit Maßprotokoll.",
+    "url": "https://mach-3d.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Angebot sofort, Fertigung in 2–5 Werktagen, Express-Termine auf Anfrage. Fertige Teile holst du in Altenholz ab, oder wir versenden.",
+    "url": "https://mach-3d.de/",
+    "pass": 1
+   },
+   {
+    "quote": "kannst, als Prototyp, Kleinserie oder Wiederholteil. Mehr Hintergrund zum Verfahren liefert der Artikel über",
+    "url": "https://mach-3d.de/",
+    "pass": 1
+   },
+   {
+    "quote": "So lässt du dein Bauteil 3D drucken: in 3 Schritten vom ersten Upload bis zum geprüften Teil. Angebot sofort, Fertigung in 2–5 Werktagen.",
+    "url": "https://mach-3d.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Wir prüfen die Machbarkeit",
+    "url": "https://mach-3d.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Prototyp, Nullserie oder Wiederholteil, geprüft und dokumentiert. Versand oder Abholung in Altenholz.",
+    "url": "https://mach-3d.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Den Preis siehst du im",
+    "url": "https://mach-3d.de/",
+    "pass": 1
+   },
+   {
+    "quote": "sofort nach dem Upload, mit Staffelpreisen ab 1 Stück.",
+    "url": "https://mach-3d.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Für Kleinserien lohnt der Blick auf die Staffel, weil der Stückpreis mit der Menge sinkt. Auch ohne 3D-Datei: Stell die Anfrage mit Foto oder Zeichnung.",
+    "url": "https://mach-3d.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Staffelpreise ab 1 Stück",
+    "url": "https://mach-3d.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Ein fester Ansprechpartner, kein Ticketsystem. Du sprichst mit Menschen, die dein Bauteil kennen, vom ersten Anruf bis zur Nachbestellung.",
+    "url": "https://mach-3d.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Prozessberater additive Fertigung",
+    "url": "https://mach-3d.de/",
+    "pass": 1
+   },
+   {
+    "quote": "PRESSE · PODCAST · FACHMEDIEN",
+    "url": "https://mach-3d.de/",
+    "pass": 1
+   },
+   {
+    "quote": "„Großraum-3D-Druck: Zwischen Glücksspiel und Prozesssicherheit“, Gespräch mit Geschäftsführer Erik Dieckmann",
+    "url": "https://mach-3d.de/",
+    "pass": 1
+   },
+   {
+    "quote": "3D printing service in Germany: 1 part in 2–5 days | Mach-3D",
+    "url": "https://mach-3d.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "3D printing calculator",
+    "url": "https://mach-3d.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Large-scale 3D printing",
+    "url": "https://mach-3d.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "SAM Large-format 3D printer",
+    "url": "https://mach-3d.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "3D printing service",
+    "url": "https://mach-3d.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Mach-3D is your 3D printing service with in-house manufacturing in Northern Germany: Prototypes and series in FDM, SLA and SLS starting at 1 piece, large parts up to 900 × 900 × 1000 mm per piece. You can see the exact price immediately after uploading, the binding offer comes immediately.",
+    "url": "https://mach-3d.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Your own large-format 3D printer?",
+    "url": "https://mach-3d.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Express delivery on request",
+    "url": "https://mach-3d.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Where can I have parts 3D printed?",
+    "url": "https://mach-3d.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "With Mach-3D: You commission your 3D printing online via file upload or send a drawing; we manufacture it in 2–5 working days and send you the parts by mail. Three ways, depending on what you already have:",
+    "url": "https://mach-3d.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": ". Prefer to talk in person and collect? Everything about collection and on-site appointments is under",
+    "url": "https://mach-3d.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "3D printing Kiel",
+    "url": "https://mach-3d.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Upload STEP, STL or 3MF, choose material, see the direct price with tiered prices immediately.",
+    "url": "https://mach-3d.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "We assess the feasibility, recommend procedures and materials, and send you a quote.",
+    "url": "https://mach-3d.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "I need a large 3D printer",
+    "url": "https://mach-3d.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "The SAM large-format 3D printer, developed in-house, has a build area of 900 × 900 × 1000 mm.",
+    "url": "https://mach-3d.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "What does the 3D printing service from Mach-3D produce?",
+    "url": "https://mach-3d.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Five services, one production site in Altenholz. We deliver parts including material,",
+    "url": "https://mach-3d.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "and proof of quality. If you are not yet sure which method suits you, we start with advice and",
+    "url": "https://mach-3d.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "3D printing contract manufacturing",
+    "url": "https://mach-3d.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Prototype, small series or repeat part. For production →",
+    "url": "https://mach-3d.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Do you already have a 3D file? Then you can see the exact price immediately.",
+    "url": "https://mach-3d.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Which 3D printing method is suitable for your component?",
+    "url": "https://mach-3d.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "It depends on 5 things: function, temperature, load, geometry and quantity. You don't have to decide this alone: we review every request and recommend a procedure, rather than sending you a list. Our guide explains the differences in detail.",
+    "url": "https://mach-3d.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "How a 3D printer works →",
+    "url": "https://mach-3d.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Guide Continuing Education | Mach-3D Academy",
+    "url": "https://mach-3d-akademie.de/en/guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Production Manager Training",
+    "url": "https://mach-3d-akademie.de/en/guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Guide: 3D Printing",
+    "url": "https://mach-3d-akademie.de/en/guide/",
+    "pass": 3
+   },
+   {
+    "quote": ", funding, procedure",
+    "url": "https://mach-3d-akademie.de/en/guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Careers with 3D printing: What jobs are there?",
+    "url": "https://mach-3d-akademie.de/en/guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Which CAD software for 3D printing? Fusion 360, Blender & Co.",
+    "url": "https://mach-3d-akademie.de/en/guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion 360, Blender, FreeCAD and Slicer compared: which program suits you, typical beginner mistakes and a learning path in 4 steps.",
+    "url": "https://mach-3d-akademie.de/en/guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Learning 3D printing: self-taught, course, or subsidized further education?",
+    "url": "https://mach-3d-akademie.de/en/guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Short answer: You can teach yourself how to operate an FDM printer in just a few weeks. What you can hardly teach yourself on your own: designing for printability, systematically troubleshooting, and working with SLA and SLS. For the ...",
+    "url": "https://mach-3d-akademie.de/en/guide/",
+    "pass": 3
+   },
+   {
+    "quote": "FDM, SLA or SLS: which 3D printing technology for what purpose?",
+    "url": "https://mach-3d-akademie.de/en/guide/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "(DFM = Design for Manufacturing: Konstruktion so auslegen, dass sie sich wirtschaftlich fertigen lässt).",
+    "url": "https://mach-3d.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Mach-3D is your 3D printing service with in-house manufacturing in Northern Germany: Prototypes and series in FDM, SLA and SLS starting at 1 piece, large parts up to 900 × 900 × 1000 mm per piece. You can see the exact price immediately after uploading, the binding offer comes immediately.",
+    "url": "https://mach-3d.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "(DFM = Design for Manufacturing: Designing so that it can be manufactured economically).",
+    "url": "https://mach-3d.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "3D printing contract manufacturing",
+    "url": "https://mach-3d.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Contract Manufacturing Production Manager",
+    "url": "https://mach-3d.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive manufacturing process consultant",
+    "url": "https://mach-3d.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Mach-3D Development is developing a modular, AI-powered manufacturing system using the RAX platform that combines additive and subtractive manufacturing into a scalable cellular assembly. Each manufacturing cell is a complete manufacturing machine and can be connected to larger assemblies – from the entry system to the industrial production line.",
+    "url": "https://mach-3d.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial 3D printing for prototypes, small series, and series production. We manufacture high-quality functional components, advise on materials and 3D printing methods (FDM, SLA, SLS), and deliver reliably according to your requirements. Ideal for testing 3D printing, outsourcing, or comparing economically with CNC.",
+    "url": "https://mach-3d.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Design, manufacturing, design, medical technology: 6 key points on what you need to get started and how to get started.",
+    "url": "https://mach-3d-akademie.de/en/guide/",
+    "pass": 3
+   },
+   {
+    "quote": "A 3D printing training course provides you with the knowledge to produce components, models, and functional designs using modern additive manufacturing processes. You will learn the entire process from digital design to the finished 3D-printed product. The Mach-3D Academy places emphasis on practical relevance, industrial quality, and the professional applicability of your skills.",
+    "url": "https://mach-3d-akademie.de/en/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "The advanced training course is suitable for career changers, job seekers, soldiers in the German Armed Forces Career Service (BfD), technicians, designers, engineers, and anyone who wants to gain a foothold in industry or product development. You can start even without prior knowledge and will be trained step by step to become a 3D printing specialist.",
+    "url": "https://mach-3d-akademie.de/en/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "At the Mach 3D Academy, you will learn about FDM, SLA, and SLS as well as their industrial applications. You will discover how to optimize components constructively, aesthetically, and for manufacturability for each process.",
+    "url": "https://mach-3d-akademie.de/en/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "Parts of the training are conducted online, especially theoretical content and CAD training. For practical sessions, you work on-site at the Mach-3D Academy to get to know real machines and industrial materials.",
+    "url": "https://mach-3d-akademie.de/en/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "Typical professions are: 3D printing technician, additive manufacturing designer, prototyping specialist, production technician, model maker, workshop technician, or technical assistant in R&D departments. Many graduates work in mechanical engineering, medicine, product development, and Industry 4.0.",
+    "url": "https://mach-3d-akademie.de/en/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "The starting salary is usually between €32,000 and €45,000 annually. With a specialization in design engineering or complex additive manufacturing, salaries of €50,000 and more are realistic. The demand for skilled professionals is growing continuously.",
+    "url": "https://mach-3d-akademie.de/en/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. Additive manufacturing is one of the fastest-growing industries. Companies in medical technology, aerospace, mechanical engineering, and the automotive sector are urgently looking for qualified professionals. Further training in 3D printing significantly improves your career prospects.",
+    "url": "https://mach-3d-akademie.de/en/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. We help you with your CV, portfolio, application documents, and preparation for interviews with companies from the 3D printing and manufacturing industry.",
+    "url": "https://mach-3d-akademie.de/en/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing manager",
+    "url": "https://mach-3d-akademie.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "3D printing is no longer a vision of the future; it has long been a reality. From the automotive industry to medical technology, new applications are emerging every day. Anyone who learns the right skills now will have a clear advantage.",
+    "url": "https://mach-3d-akademie.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing manager, designer, or engineer. Unsure? The aptitude test shows you what fits.",
+    "url": "https://mach-3d-akademie.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "With real industrial projects and direct access to manufacturing.",
+    "url": "https://mach-3d-akademie.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Typical professions: 3D printing technician, additive manufacturing designer, prototyping specialist, manufacturing engineer, model builder, or technical assistant in development departments – in mechanical engineering, medicine, product development, and Industry 4.0.",
+    "url": "https://mach-3d-akademie.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Nine industries where additive manufacturing is already an everyday reality – and which course will take you there.",
+    "url": "https://mach-3d-akademie.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Matching course: Manufacturing Manager →",
+    "url": "https://mach-3d-akademie.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Motorsport & Automotive Engineering",
+    "url": "https://mach-3d-akademie.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Target audience: Automotive, prototyping, motorsports",
+    "url": "https://mach-3d-akademie.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Target audience: Manufacturing, Maintenance, Spare parts",
+    "url": "https://mach-3d-akademie.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive & Large Components",
+    "url": "https://mach-3d-akademie.de/en/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Technical storage or access is essential for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or solely for the purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://mach-3d.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://mach-3d-akademie.de/en/guide/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot typically be used to identify you.",
+    "url": "https://mach-3d-akademie.de/en/guide/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://mach-3d-akademie.de/en/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot typically be used to identify you.",
+    "url": "https://mach-3d-akademie.de/en/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://mach-3d-akademie.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot typically be used to identify you.",
+    "url": "https://mach-3d-akademie.de/en/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Mach - 3D GmbH (@_mach3d_) • Instagram photos and videos — Mach - 3D GmbH (@_mach3d_) • Instagram photos and videos Instagram https://www.instagram.com > ...",
+    "url": "https://www.instagram.com/_mach3d_/",
+    "pass": 3
+   },
+   {
+    "quote": "Bewertungen zu Mach - 3D GmbH - Trustpilot — Bewertungen zu Mach - 3D GmbH - Trustpilot Trustpilot https://de.trustpilot.com > mach-3d",
+    "url": "https://de.trustpilot.com/review/mach-3d.de",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Registration is easily done via the contact form, by phone, or by email. Afterwards, we conduct a brief consultation and support you until you receive your course confirmation and funding.",
+    "url": "https://mach-3d-akademie.de/en/faq/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://mach-3d.de/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://mach-3d.de/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mach3d.it/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/mach_3d/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://3dprinter.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mach-3d.de/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mach3d.it/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/_mach3d_/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.trustpilot.com/review/mach-3d.de",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://mach-3d.de/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mach3d.it/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mach-3d-akademie.de/en/guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Fw8iAvPkXHk",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.eos.info/industries/customer-success-stories",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://thevirtualfoundry.com/manufacturing-using-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/resources/case-studies/caldwell-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.stratasys.com/en/Resources/Case-Studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mach-3d-akademie.de/en/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mach-3d.de/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://printago.io/solutions/oem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3d-druckdienstleister.de/partner/programm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mach-3d-akademie.de/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techechelon.com/post/mach-industries-raises-300-million-series-c-at-1-8-billion-valuation-nearly-quadrupling-worth-in",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sacra.com/c/mach-industries/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/Mach_Industries",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Mach-3D GmbH 日本 導入",
+   "results": [
+    "https://mach-3d.de/en/",
+    "https://www.mach3d.it/",
+    "https://www.instagram.com/mach_3d/",
+    "https://3dprinter.co.jp/",
+    "https://www.youtube.com/watch?v=dkanjZcJoOY",
+    "https://www.3dmart.co.jp/?srsltid=AYCX9vIlsNr1S5L4SZ0Q3GlV3ngaT0jJWQ0ltV_d1ZSxVmJvtqVBHMy-",
+    "https://idarts.co.jp/3dp/bosch-3d-printer-ultimaker/?srsltid=AYCX9vLbDQ2XtEZhhvWtRGhoNvjG1tTAbyKIRueJAEzi886hmIeYqFGX",
+    "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/carfulan%E3%81%8Cmach-2026%E3%81%A7%E6%96%B0%E3%81%97%E3%81%84%E6%B8%AC%E5%AE%9A%E6%8A%80%E8%A1%93%E3%81%A8%E8%A3%BD%E9%80%A0%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88/?/kglmcw/",
+    "https://mach-3d.de/",
+    "https://3druck.com/ja/プリンターと製品/マッh-3d-sam-800-大型fdmシステム-工業用プラスチック部品用-27/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Mach-3D GmbH 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://mach-3d.de/en/",
+    "https://www.mach3d.it/",
+    "https://www.instagram.com/_mach3d_/",
+    "https://de.trustpilot.com/review/mach-3d.de",
+    "https://mach-3d.de/en/contact/",
+    "https://hdc3d.com/ja/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B%E3%83%BB%E9%80%A3%E7%B5%A1%E5%85%88/",
+    "https://www.materialise.com/ja/industrial/software/partnerships/reseller",
+    "https://www.mark3d.com/de/en/ansprechpartner/",
+    "https://www.3dpc.co.jp/",
+    "https://ja.wikipedia.org/wiki/Insta360"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Mach-3D GmbH Japan",
+   "results": [
+    "https://mach-3d.de/en/",
+    "https://www.mach3d.it/",
+    "https://mach-3d-akademie.de/en/guide/",
+    "https://www.youtube.com/watch?v=Fw8iAvPkXHk",
+    "https://3d-architech.com/",
+    "https://www.instagram.com/explore/locations/332786756595466/mach-3d/",
+    "https://de.linkedin.com/company/mach-3d",
+    "https://mach-3d-akademie.de/en/contact/",
+    "https://www.mech-mind.com/",
+    "https://mach-3d.de/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Mach-3D GmbH manufacturing customer case study",
+   "results": [
+    "https://www.eos.info/industries/customer-success-stories",
+    "https://thevirtualfoundry.com/manufacturing-using-3d-printing/",
+    "https://markforged.com/resources/case-studies/caldwell-manufacturing",
+    "https://support.stratasys.com/en/Resources/Case-Studies",
+    "https://mach-3d-akademie.de/en/guide/",
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vIArOlArM3miXk2GjRl6hFZtBw_o2kYfkxJxlsocB26ztW3fooY",
+    "https://www.youtube.com/watch?v=Up_Vb9nmuwQ",
+    "https://www.prusa3d.com/p/case-studies/",
+    "https://www.mdpi.com/2227-9717/13/5/1282",
+    "https://mach-3d.de/en/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Mach-3D GmbH white label OR reseller OR partner program",
+   "results": [
+    "https://mach-3d-akademie.de/en/faq/",
+    "https://mach-3d.de/en/",
+    "https://printago.io/solutions/oem",
+    "https://3d-druckdienstleister.de/partner/programm",
+    "https://www.materialise.com/en/industrial/software/partnerships/reseller",
+    "https://reinvent.hp.com/us-en-3dprint-amnetworkdirectory",
+    "https://www.3devo.com/resellers/become-a-reseller",
+    "https://dyemansion.com/partners/",
+    "https://www.youtube.com/watch?v=ABGMRo8XSDU",
+    "https://www.mycompanyworks.com/reseller"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Mach-3D GmbH founded funding employees revenue",
+   "results": [
+    "https://mach-3d-akademie.de/en/",
+    "https://www.techechelon.com/post/mach-industries-raises-300-million-series-c-at-1-8-billion-valuation-nearly-quadrupling-worth-in",
+    "https://sacra.com/c/mach-industries/",
+    "https://growjo.com/company/Mach_Industries",
+    "https://multiples.vc/private-comps/mach-industries",
+    "https://machindustries.com/articles/mach-industries-raises-300-million-in-series-c-funding",
+    "https://www.prnewswire.com/news-releases/mach-industries-raises-300-million-in-series-c-funding-302787788.html",
+    "https://finance.yahoo.com/sectors/technology/articles/defense-tech-darling-mach-industries-214035551.html",
+    "https://mach-3d.de/en/",
+    "https://www.crunchbase.com/organization/mach-3d-gmbh"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Mach-3D GmbH",
+   "results": [
+    "https://note.com/kc_tmn/n/n67b6a7bcf44d",
+    "https://note.com/pokiiio/m/m91b27cc2181b/hashtag/103592",
+    "https://note.com/hmjrd",
+    "https://note.com/nn1112/n/n593d5a8b3fd4",
+    "https://note.com/nn1112/n/n7572ce57ac1b",
+    "https://note.com/studiebob/n/n9075fb690c98",
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/eager_tiger5557",
+    "https://note.com/tag/肉球人狼",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:x.com Mach-3D GmbH",
+   "results": [
+    "https://x.com/secotools",
+    "https://x.com/popularairsoft",
+    "https://x.com/TLM_Laser",
+    "https://x.com/vowalon",
+    "https://x.com/PlasmaphysikIPP",
+    "https://x.com/amadagmbh",
+    "https://x.com/eurofighter",
+    "https://x.com/ML4Q_cluster",
+    "https://x.com/mITSM_GmbH",
+    "https://x.com/BYD_Europe"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com Mach-3D GmbH",
+   "results": [
+    "https://de.linkedin.com/company/mach-3d",
+    "https://de.linkedin.com/in/erik-dieckmann",
+    "https://www.linkedin.com/company/mach",
+    "https://de.linkedin.com/company/picco-s-3d-world",
+    "https://de.linkedin.com/in/hansjoergschoesser/en",
+    "https://uk.linkedin.com/in/carmen-mach-32b5a7293",
+    "https://de.linkedin.com/company/3d-model-ag",
+    "https://www.linkedin.com/posts/dr-mach_drmach-newest-medical-light-solutions-activity-7447988309320114176-OTcs",
+    "https://www.linkedin.com/in/kevinmach",
+    "https://www.linkedin.com/company/mach-3d"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com Mach-3D GmbH",
+   "results": [
+    "https://www.facebook.com/KomatsuEurope/posts/3d-machine-guidance-flex-field-proven-retrofittable-technology-brings-3d-guidanc/1604286481739336/",
+    "https://www.facebook.com/shootingillustrated/posts/the-new-p385-from-sig-sauer-was-on-display-at-the-ausa-show-this-all-new-design/1628761432623954/",
+    "https://www.facebook.com/maybocorp/videos/mitutoyo-mach-3a-in-line-cnc-cmm/228981308411496/",
+    "https://www.facebook.com/IGO3D/videos/%EF%B8%8F%EF%B8%8F-aus-einem-bild-wird-ein-3d-modell-ganz-einfach-mit-bambu-studio-mit-der-neuen/1249631869996965/",
+    "https://www.facebook.com/garminaviation/posts/d2-mach-2-an-airworthy-design-with-advanced-flight-mapping-and-aviation-tool-set/1408638804635841/",
+    "https://www.facebook.com/ScottsdaleTactical/posts/p385-all-new-from-sig-sauer-sigsauer-sigp385-scottsdaletactical/1563299802485863/",
+    "https://www.facebook.com/IU.SEaSAP/posts/-%F0%9D%90%84%F0%9D%90%91%F0%9D%90%8D%F0%9D%90%92%F0%9D%90%93-%F0%9D%90%8C%F0%9D%90%80%F0%9D%90%82%F0%9D%90%87-%F0%9D%90%86%F0%9D%90%91%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%93-%F0%9D%90%92%F0%9D%90%82%F0%9D%90%87%F0%9D%90%8E%F0%9D%90%8B%F0%9D%90%80%F0%9D%90%91%F0%9D%90%92%F0%9D%90%87%F0%9D%90%88%F0%9D%90%8F-%F0%9D%90%8C%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%80%F0%9D%90%86%F0%9D%90%84%F0%9D%90%8C%F0%9D%90%84%F0%9D%90%8D%F0%9D%90%93-%F0%9D%90%82%F0%9D%90%84%F0%9D%90%8D%F0%9D%90%93%F0%9D%90%84%F0%9D%90%91-%F0%9D%90%88%F0%9D%90%8D%F0%9D%90%8D%F0%9D%90%92%F0%9D%90%81%F0%9D%90%91%F0%9D%90%94%F0%9D%90%82%F0%9D%90%8A-%F0%9D%90%80%F0%9D%90%94%F0%9D%90%92%F0%9D%90%93%F0%9D%90%91%F0%9D%90%88%F0%9D%90%80-%F0%9D%90%80%F0%9D%90%98-%F0%9D%9F%90%F0%9D%9F%8E%F0%9D%9F%90%F0%9D%9F%95-%F0%9D%9F%90%F0%9D%9F%8E%F0%9D%9F%90%F0%9D%9F%96-f/1829063992083818/",
+    "https://www.facebook.com/MatsuuraUK/posts/at-mach-2026-matsuura-uk-introduced-the-mx-520t-pc7-a-7-pallet-5-axis-mill-turn-/1754225043379871/",
+    "https://www.facebook.com/tony.richards.528/posts/an-interesting-afternoon-spent-at-mmus-launch-of-the-d-mach-facilityhyperspectra/10243186339776993/",
+    "https://www.facebook.com/p/Mach-3D-61564150474551/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Mach-3D GmbH note 社長",
+   "results": [
+    "https://mach-3d.de/en/",
+    "https://mach-3d-akademie.de/en/guide/",
+    "https://dl.acm.org/doi/10.1145/3706598.3714294",
+    "https://www.kn-online.de/lokales/rendsburg-eckernfoerde/3d-druck-made-in-altenholz-junges-unternehmen-mach-3d-auf-der-ueberholspur-EFFQMB32UVGYVNGYDRGR6FC6VM.html",
+    "https://note.com/mar810",
+    "https://de.linkedin.com/company/mach-3d",
+    "https://hexagon.com/company/divisions/manufacturing-intelligence",
+    "https://support.shining3ddental.com/en/support/solutions/articles/60000706166-download-the-intraoralscan",
+    "https://www.instagram.com/_mach3d_/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Mach-3D GmbH X 投稿",
+   "results": [
+    "https://mach-3d.de/en/",
+    "https://www.mach3d.it/",
+    "https://machexhibition.com/industry-processes/3d-printing-and-additive-manufacturing/",
+    "https://mach-3d-akademie.de/en/",
+    "https://all3dp.com/6/mach-x-marks-the-spot-nikon-slm-teases-its-next-metal-lpbf/",
+    "https://machalliance.org/mach-x",
+    "https://markforged.com/jp/resources/videos/metal-3d-printer-process",
+    "https://x.com/Mach_Industries",
+    "https://www.instagram.com/mach_3d/",
+    "https://x.com/mach_3d"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）"
+ }
+}

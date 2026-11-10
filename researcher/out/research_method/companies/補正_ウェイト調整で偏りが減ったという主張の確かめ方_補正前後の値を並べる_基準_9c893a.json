@@ -8,7 +8,7 @@
  ],
  "context": "突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-09T09:02:02.687538+00:00",
+ "researched_at": "2026-11-10T21:54:47.634554+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -19,9 +19,9 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.esri.cao.go.jp/jp/stat/report/report_5.pdf",
+    "url": "https://metricgate.com/docs/ja/apparent-vs-optimism-corrected/",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
     "url": "https://m-science-navi.com/control/light/20220212_tth/",
@@ -34,13 +34,13 @@
     "method": "http"
    },
    {
-    "url": "https://adaptation-platform.nies.go.jp/climate_change_adapt/qa/05.html",
+    "url": "https://www.esri.cao.go.jp/jp/stat/report/report_5.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
-    "url": "https://www.worldoftest.com/ja/print/pdf/node/5979",
-    "status": "http_403",
+    "url": "https://adaptation-platform.nies.go.jp/climate_change_adapt/qa/05.html",
+    "status": "ok",
     "method": "http"
    },
    {
@@ -49,14 +49,19 @@
     "method": "pdf"
    },
    {
-    "url": "https://nan.ac/solutions/23631",
+    "url": "https://www.jmag-international.com/jp/images/loss_analysis/worksheet_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://necostat.hatenablog.jp/entry/2023/01/06/131428",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.jmag-international.com/jp/images/loss_analysis/worksheet_01.pdf",
+    "url": "https://note.com/komeyaukon/n/n9cbceb3d088c",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
     "url": "https://metricgate.com/blogs/ja/weighting-survey-data/",
@@ -64,7 +69,12 @@
     "method": "http"
    },
    {
-    "url": "https://www.jstage.jst.go.jp/article/arepj/63/0/63_322/_pdf",
+    "url": "https://www.issoh.co.jp/column/details/5568/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.esri.cao.go.jp/jp/stat/report/report_2_3.pdf",
     "status": "ok",
     "method": "pdf"
    },
@@ -74,32 +84,17 @@
     "method": "http"
    },
    {
-    "url": "https://nikkeishin.or.jp/jkahojo/120717sokutei_hutashikasa.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.ibm.com/docs/SSLVMB_27.0.0/pdf/amos/IBM_SPSS_Amos_User_Guide_ja.pdf",
-    "status": "http_403",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.issoh.co.jp/column/details/5568/",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://gmo-research.ai/research-column/weighted-sampling",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.esri.cao.go.jp/jp/stat/report/report_2_3.pdf",
+    "url": "https://www.jstage.jst.go.jp/article/arepj/63/0/63_322/_pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
     "url": "https://mkt-assist.jp/knowledge/weight-back",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gmo-research.ai/research-column/weighted-sampling",
     "status": "ok",
     "method": "http"
    },
@@ -111,7 +106,7 @@
    {
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6114127/",
     "status": "ok",
-    "method": "http"
+    "method": "browser"
    },
    {
     "url": "https://www.sogolytics.com/learning-center/consumer-research/non-response-bias/",
@@ -140,18 +135,18 @@
    "query": "補正・ウェイト調整で偏りが減ったという主張の確かめ方（補正前後の値を並べる・基準となる外部の値との比較・数字の無い宣言を信じない）と、デスクリサーチの手順を書く調査会社のコラム（crexgroup の調査手法コラムなど） site:note.com",
    "results": [
     "https://www.widexpro.com/-/media/widex/ja-jp/document-library/article/widex_press_jp/widexpress-47-further-improvements-to-widex-moment_jp.pdf",
-    "https://www.esri.cao.go.jp/jp/stat/report/report_5.pdf",
+    "https://metricgate.com/docs/ja/apparent-vs-optimism-corrected/",
     "https://m-science-navi.com/control/light/20220212_tth/",
     "https://www.tandd.co.jp/support/webhelp/tr74ui-operation-guide/html/010_how_to_use/050_convenient_function/030_adjustment_guidline.html",
+    "https://www.esri.cao.go.jp/jp/stat/report/report_5.pdf",
     "https://adaptation-platform.nies.go.jp/climate_change_adapt/qa/05.html",
-    "https://www.worldoftest.com/ja/print/pdf/node/5979",
     "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/kk040200.pdf",
-    "https://nan.ac/solutions/23631",
+    "https://necostat.hatenablog.jp/entry/2023/01/06/131428",
     "https://www.jmag-international.com/jp/images/loss_analysis/worksheet_01.pdf",
-    "https://note.com/miiichii/n/nec5d67c0ed4c"
+    "https://note.com/deta_passion/n/n33ccf31252f8"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -160,18 +155,18 @@
    "query": "補正・ウェイト調整で偏りが減ったという主張の確かめ方（補正前後の値を並べる・基準となる外部の値との比較・数字の無い宣言を信じない）と、デスクリサーチの手順を書く調査会社のコラム（crexgroup の調査手法コラムなど） note",
    "results": [
     "https://www.widexpro.com/-/media/widex/ja-jp/document-library/article/widex_press_jp/widexpress-47-further-improvements-to-widex-moment_jp.pdf",
-    "https://www.esri.cao.go.jp/jp/stat/report/report_5.pdf",
+    "https://metricgate.com/docs/ja/apparent-vs-optimism-corrected/",
     "https://m-science-navi.com/control/light/20220212_tth/",
     "https://www.tandd.co.jp/support/webhelp/tr74ui-operation-guide/html/010_how_to_use/050_convenient_function/030_adjustment_guidline.html",
+    "https://www.esri.cao.go.jp/jp/stat/report/report_5.pdf",
     "https://adaptation-platform.nies.go.jp/climate_change_adapt/qa/05.html",
-    "https://www.worldoftest.com/ja/print/pdf/node/5979",
     "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/kk040200.pdf",
-    "https://nan.ac/solutions/23631",
     "https://www.jmag-international.com/jp/images/loss_analysis/worksheet_01.pdf",
-    "https://metricgate.com/blogs/ja/weighting-survey-data/"
+    "https://necostat.hatenablog.jp/entry/2023/01/06/131428",
+    "https://note.com/komeyaukon/n/n9cbceb3d088c"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -180,38 +175,36 @@
    "query": "補正・ウェイト調整で偏りが減ったという主張の確かめ方（補正前後の値を並べる・基準となる外部の値との比較・数字の無い宣言を信じない）と、デスクリサーチの手順を書く調査会社のコラム（crexgroup の調査手法コラムなど） やり方",
    "results": [
     "https://www.widexpro.com/-/media/widex/ja-jp/document-library/article/widex_press_jp/widexpress-47-further-improvements-to-widex-moment_jp.pdf",
-    "https://www.esri.cao.go.jp/jp/stat/report/report_5.pdf",
+    "https://metricgate.com/docs/ja/apparent-vs-optimism-corrected/",
     "https://m-science-navi.com/control/light/20220212_tth/",
-    "https://nikkeishin.or.jp/jkahojo/120717sokutei_hutashikasa.pdf",
     "https://www.tandd.co.jp/support/webhelp/tr74ui-operation-guide/html/010_how_to_use/050_convenient_function/030_adjustment_guidline.html",
-    "https://www.ibm.com/docs/SSLVMB_27.0.0/pdf/amos/IBM_SPSS_Amos_User_Guide_ja.pdf",
-    "https://www.worldoftest.com/ja/print/pdf/node/5979",
+    "https://www.esri.cao.go.jp/jp/stat/report/report_5.pdf",
+    "https://adaptation-platform.nies.go.jp/climate_change_adapt/qa/05.html",
     "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/kk040200.pdf",
-    "https://nan.ac/solutions/23631",
-    "https://www.issoh.co.jp/column/details/5568/"
+    "https://necostat.hatenablog.jp/entry/2023/01/06/131428",
+    "https://www.jmag-international.com/jp/images/loss_analysis/worksheet_01.pdf"
    ],
    "engines": [
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 9
   },
   {
    "query": "補正・ウェイト調整で偏りが減ったという主張の確かめ方（補正前後の値を並べる・基準となる外部の値との比較・数字の無い宣言を信じない）と、デスクリサーチの手順を書く調査会社のコラム（crexgroup の調査手法コラムなど） 事例",
    "results": [
     "https://www.widexpro.com/-/media/widex/ja-jp/document-library/article/widex_press_jp/widexpress-47-further-improvements-to-widex-moment_jp.pdf",
-    "https://www.esri.cao.go.jp/jp/stat/report/report_5.pdf",
-    "https://www.ibm.com/docs/SSLVMB_27.0.0/pdf/amos/IBM_SPSS_Amos_User_Guide_ja.pdf",
+    "https://metricgate.com/docs/ja/apparent-vs-optimism-corrected/",
     "https://m-science-navi.com/control/light/20220212_tth/",
     "https://www.tandd.co.jp/support/webhelp/tr74ui-operation-guide/html/010_how_to_use/050_convenient_function/030_adjustment_guidline.html",
-    "https://nikkeishin.or.jp/jkahojo/120717sokutei_hutashikasa.pdf",
-    "https://www.worldoftest.com/ja/print/pdf/node/5979",
+    "https://www.esri.cao.go.jp/jp/stat/report/report_5.pdf",
+    "https://adaptation-platform.nies.go.jp/climate_change_adapt/qa/05.html",
     "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/kk040200.pdf",
-    "https://nan.ac/solutions/23631",
+    "https://necostat.hatenablog.jp/entry/2023/01/06/131428",
+    "https://www.jmag-international.com/jp/images/loss_analysis/worksheet_01.pdf",
     "https://metricgate.com/blogs/ja/weighting-survey-data/"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -227,15 +220,12 @@
     "https://onlinelibrary.wiley.com/doi/full/10.1111/insr.12566",
     "http://www.csam.or.kr/journal/view.html?uid=2223&&vmd=Full",
     "https://link.springer.com/article/10.1186/s12889-017-4189-8",
-    "https://www.geopoll.com/blog/explainer-understanding-nonresponse-bias-in-research-and-how-to-mitigate-it/",
-    "https://statspolicy.gov/assets/fcsm/files/docs/FCSM+NRBA+Report+062623.pdf"
+    "https://www.geopoll.com/blog/explainer-understanding-nonresponse-bias-in-research-and-how-to-mitigate-it/"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 9
   },
   {
    "query": "site:note.com 補正・ウェイト調整で偏りが減ったという主張の確かめ方（補正前後の値を並べる・基準となる外部の値との比較・数字の無い宣言を信じない）と、デスクリサーチの手順を書く調査会社のコラム（crexgroup の調査手法コラムなど）",
@@ -244,12 +234,12 @@
     "https://note.com/yukidanna/n/nc1c08a301357",
     "https://note.com/satoruhiguchi/n/n3c9284227d45",
     "https://note.com/epolicy_actvst/n/n4fb34ca1fddc",
-    "https://note.com/next_cube/n/nc365fb5d2424",
     "https://note.com/mminamig/n/n9f6bbd8e709b",
+    "https://note.com/next_cube/n/nc365fb5d2424",
     "https://note.com/tsunobuchi/n/n5100dbf82075",
     "https://note.com/epolicy_actvst/n/nca89858e3caf",
     "https://note.com/kagawatomo/n/nff8d5b93448b",
-    "https://note.com/to_maechan/n/nff1d0e7a1860"
+    "https://note.com/doipoline/n/n4f00ebb1be4a"
    ],
    "engines": [
     "ddgs:google",
@@ -264,12 +254,12 @@
     "https://x.com/fujikawa/status/2118500956690362408",
     "https://x.com/fujikawa/status/2113405959590867403",
     "https://x.com/fujikawa/status/2115937793298079996",
-    "https://x.com/fujikawa/status/2113757249411989772",
+    "https://x.com/fujikawa/status/2119562203577913642",
     "https://x.com/KagawaTomo/article/2069711549241930193",
     "https://x.com/fujikawa/status/2109777613304799610",
     "https://x.com/KagawaTomo/article/2097808992601014755",
     "https://x.com/h1data",
-    "https://x.com/MLB_Connection/status/2117048192529523185"
+    "https://x.com/MLB_Connection/status/2119824433666052197"
    ],
    "engines": [
     "ddgs:google",
@@ -284,15 +274,15 @@
     "https://jp.linkedin.com/pulse/constant-temperature-humidity-test-chambers-key-reliable-product-ukegc?tl=ja",
     "https://jp.linkedin.com/in/yukitake-miyamoto-87932247",
     "https://jp.linkedin.com/in/yokoyamadaiki",
-    "https://jp.linkedin.com/learning/six-sigma-foundations-3/2886108",
     "https://jp.linkedin.com/learning/data-science-foundations-fundamentals-22851503/4518082",
+    "https://jp.linkedin.com/pulse/difference-between-outlier-skewness-how-control-them-model-hounmenou-mksre?tl=ja",
     "https://www.linkedin.com/feed/update/urn:li:activity:7516650975860781056/",
     "https://jp.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-16412054/3202367",
-    "https://jp.linkedin.com/pulse/difference-between-outlier-skewness-how-control-them-model-hounmenou-mksre?tl=ja",
+    "https://jp.linkedin.com/learning/six-sigma-foundations-3/2886108",
     "https://jp.linkedin.com/pulse/crucial-role-data-cleansing-balanced-training-building-pareek-6cvbc?tl=ja"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 11
@@ -301,37 +291,38 @@
    "query": "site:facebook.com 補正・ウェイト調整で偏りが減ったという主張の確かめ方（補正前後の値を並べる・基準となる外部の値との比較・数字の無い宣言を信じない）と、デスクリサーチの手順を書く調査会社のコラム（crexgroup の調査手法コラムなど）",
    "results": [
     "https://www.facebook.com/groups/agribusnavi/posts/3208909909326366/",
-    "https://www.facebook.com/porsche.autoengineering/",
     "https://www.facebook.com/groups/974399833046924/posts/2234006430419585/",
-    "https://www.facebook.com/groups/233899196696841/posts/26176334968693242/",
+    "https://www.facebook.com/porsche.autoengineering/",
     "https://www.facebook.com/tofukeitai/posts/sharp-aquos-sense-10-%E6%97%A5%E6%9C%AC%E5%88%B0%E8%B2%A8%E5%B7%B2%E8%A8%82%E5%AE%A2%E6%88%B8%E6%9C%80%E5%BF%AB%E6%9C%AC%E6%9C%8817%E5%8F%B7%E5%8F%96%E8%B2%A8%E5%A6%8215%E5%8F%B7%E6%97%A9%E5%88%B0%E4%BC%9A%E5%8F%A6%E8%A1%8C%E9%80%9A%E7%9F%A56128gb8256gb-%E8%BF%8E%E6%8E%A5%E5%8F%97%E9%A0%90%E8%A8%82%E6%9C%80%E5%BE%8C%E4%BB%8A%E6%97%A5%E4%BA%866%E8%89%B2%E5%90%8C%E4%BE%A1%E6%9C%AC%E5%BA%97%E8%B3%BC%E8%B2%B7/1287273200106388/",
+    "https://www.facebook.com/groups/1415877389140436/posts/1937979610263542/",
     "https://www.facebook.com/fujitaltd/",
+    "https://www.facebook.com/groups/233899196696841/posts/26176334968693242/",
     "https://www.facebook.com/groups/196981310437791/posts/3377216869080870/",
-    "https://www.facebook.com/groups/233899196696841/posts/26311191635207574/",
-    "https://www.facebook.com/groups/233899196696841/",
-    "https://www.facebook.com/groups/1848794089020669/"
+    "https://www.facebook.com/groups/1848794089020669/",
+    "https://www.facebook.com/kawagoenomori/?locale=en_GB"
    ],
    "engines": [
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 10
+   "n_hits": 17
   },
   {
    "query": "補正・ウェイト調整で偏りが減ったという主張の確かめ方（補正前後の値を並べる・基準となる外部の値との比較・数字の無い宣言を信じない）と、デスクリサーチの手順を書く調査会社のコラム（crexgroup の調査手法コラムなど） note 社長",
    "results": [
     "https://www.widexpro.com/-/media/widex/ja-jp/document-library/article/widex_press_jp/widexpress-47-further-improvements-to-widex-moment_jp.pdf",
-    "https://www.esri.cao.go.jp/jp/stat/report/report_5.pdf",
+    "https://metricgate.com/docs/ja/apparent-vs-optimism-corrected/",
     "https://m-science-navi.com/control/light/20220212_tth/",
-    "https://nikkeishin.or.jp/jkahojo/120717sokutei_hutashikasa.pdf",
     "https://www.tandd.co.jp/support/webhelp/tr74ui-operation-guide/html/010_how_to_use/050_convenient_function/030_adjustment_guidline.html",
-    "https://www.ibm.com/docs/SSLVMB_27.0.0/pdf/amos/IBM_SPSS_Amos_User_Guide_ja.pdf",
-    "https://www.worldoftest.com/ja/print/pdf/node/5979",
+    "https://www.esri.cao.go.jp/jp/stat/report/report_5.pdf",
+    "https://adaptation-platform.nies.go.jp/climate_change_adapt/qa/05.html",
     "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/kk040200.pdf",
-    "https://nan.ac/solutions/23631",
+    "https://www.jmag-international.com/jp/images/loss_analysis/worksheet_01.pdf",
+    "https://necostat.hatenablog.jp/entry/2023/01/06/131428",
     "https://metricgate.com/blogs/ja/weighting-survey-data/"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -340,18 +331,18 @@
    "query": "補正・ウェイト調整で偏りが減ったという主張の確かめ方（補正前後の値を並べる・基準となる外部の値との比較・数字の無い宣言を信じない）と、デスクリサーチの手順を書く調査会社のコラム（crexgroup の調査手法コラムなど） X 投稿",
    "results": [
     "https://www.widexpro.com/-/media/widex/ja-jp/document-library/article/widex_press_jp/widexpress-47-further-improvements-to-widex-moment_jp.pdf",
-    "https://www.esri.cao.go.jp/jp/stat/report/report_5.pdf",
     "https://m-science-navi.com/control/light/20220212_tth/",
-    "https://nikkeishin.or.jp/jkahojo/120717sokutei_hutashikasa.pdf",
     "https://www.tandd.co.jp/support/webhelp/tr74ui-operation-guide/html/010_how_to_use/050_convenient_function/030_adjustment_guidline.html",
     "https://www.ibm.com/docs/SSLVMB_27.0.0/pdf/amos/IBM_SPSS_Amos_User_Guide_ja.pdf",
-    "https://www.worldoftest.com/ja/print/pdf/node/5979",
+    "https://www.esri.cao.go.jp/jp/stat/report/report_5.pdf",
+    "https://nikkeishin.or.jp/jkahojo/120717sokutei_hutashikasa.pdf",
+    "https://adaptation-platform.nies.go.jp/climate_change_adapt/qa/05.html",
     "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/kk040200.pdf",
-    "https://nan.ac/solutions/23631",
+    "https://necostat.hatenablog.jp/entry/2023/01/06/131428",
     "https://metricgate.com/blogs/ja/weighting-survey-data/"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -362,29 +353,29 @@
     "https://www.linkedin.com/in/jennifer-kali",
     "https://www.linkedin.com/in/jaime-shaw-8809889",
     "https://www.linkedin.com/in/brad-edwards-606a8a4",
+    "https://kr.linkedin.com/in/hyunsungkim",
     "https://www.linkedin.com/in/zhiyuan-jin-82205a173",
-    "https://www.linkedin.com/in/jonathan-sims-90006716",
     "https://www.linkedin.com/in/jacklee838",
-    "https://www.linkedin.com/in/kruti-lehenbauer",
+    "https://www.linkedin.com/in/slramz",
     "https://www.linkedin.com/in/glen-w-spiteri",
-    "https://kz.linkedin.com/in/nurimanov/en",
-    "https://www.linkedin.com/in/cemarg"
+    "https://www.linkedin.com/in/kruti-lehenbauer",
+    "https://kz.linkedin.com/in/nurimanov/en"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 17
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ24頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ24頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ24頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ24頁・検索12回）",
-  "実例": "記載なし（読んだ24頁・検索12回）"
+  "手順・やり方": "記載なし（読んだ23頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ23頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ23頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ23頁・検索12回）",
+  "実例": "記載なし（読んだ23頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 4,
+ "runs": 5,
  "first_researched_at": "2026-11-08T07:53:08.957834+00:00"
 }

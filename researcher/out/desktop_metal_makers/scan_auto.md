@@ -94,9 +94,9 @@
 - 独立の出どころ2か所以上が数字を持つ品目（突き合わせできる品目）：2件／数字のある品目 2件（100%）。残りは判定の一致を測る前に、別の出どころが同じ問いを扱っていない（選択の不一致）
   - www.bybit.com と www.snowx.com：品目の重なり 1/1（100%）
   - 3dprintingindustry.com と www.voxelmatters.com：品目の重なり 2/2（100%）
+  - www.voxelmatters.com と www.valcun.be：品目の重なり 1/2（50%）
   - www.voxelmatters.com と www.snowx.com：品目の重なり 1/2（50%）
   - www.voxelmatters.com と www.bybit.com：品目の重なり 1/2（50%）
-  - www.voxelmatters.com と 3dprint.com：品目の重なり 1/2（50%）
 
 ## 出どころが1か所だけの欄（裏が薄い。穴埋めの検索の対象・4-23）
 - （なし）

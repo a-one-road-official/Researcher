@@ -1,0 +1,928 @@
+{
+ "name": "Andromedasurgical",
+ "aliases": [],
+ "context": "旧営業リスト｜Education / Childcare｜AUMS不適合",
+ "researched_at": "2026-11-10T22:25:52.943025+00:00",
+ "official_url": "https://www.andromedasurgical.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "6. Seed Round",
+    "value": "01-Sep-2025    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/528424-93",
+    "pass": 3
+   },
+   {
+    "label": "4. Seed Round",
+    "value": "06-Sep-2023    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/528424-93",
+    "pass": 3
+   },
+   {
+    "label": "2. Seed Round",
+    "value": "28-Apr-2023 $900K $900K  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/528424-93",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2023",
+    "url": "https://startupintros.com/orgs/andromeda-surgical",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "San Francisco, CA, USA",
+    "url": "https://startupintros.com/orgs/andromeda-surgical",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Andromeda’s spatial navigation system provides surgeons with GPS-like guidance through human anatomy, ensuring they always know where they are and what to do next. With a iPad interface, learning new procedures becomes streamlined. Surgeons can master techniques without a burdensome robotic training program.",
+    "url": "https://www.andromedasurgical.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We are developing proprietary AI models that will allow for surgeon-in-the-loop autonomous surgical tasks. Our software will act as a \"sous surgeon\", leveraging data from thousands of cases to supercharge surgical decisions.",
+    "url": "https://www.andromedasurgical.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our goal: Enable surgeons to perform more procedures per day and empower every surgeon to deliver optimal results to every patient, every time.",
+    "url": "https://www.andromedasurgical.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Andromeda's software platform continuously improves. Regular updates mean new capabilities, enhanced precision, and expanded procedures.",
+    "url": "https://www.andromedasurgical.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our open architecture seamlessly integrates with existing surgical tools, allowing any interventional procedure to run on our platform. It's not just a surgical robot. It's the brain at the center of the operating room of the future.",
+    "url": "https://www.andromedasurgical.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Founded by Serial Autonomy & Healthcare Entrepreneurs",
+    "url": "https://www.andromedasurgical.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Nick Damiano (CEO) and Kartik Tiwari (CTO) launched Andromeda Surgical in San Francisco, combining deep medtech experience with autonomous vehicle expertise. Nick previously founded two successful medtech companies (Zenflow and Avail MedSystems), while Kartik co-founded Starsky Robotics and built the world's first driverless truck on public roads.",
+    "url": "https://www.andromedasurgical.com/",
+    "pass": 1
+   },
+   {
+    "quote": "World's First Robotic-Assisted HoLEP Procedure",
+    "url": "https://www.andromedasurgical.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Achieved a historic medical milestone with the world's first robotic-assisted HoLEP (RoLEP™) procedure performed at Universidad Católica in Santiago, Chile. Dr. Cristián Trucco completed the surgery using their tablet-based interface, launching the ASTRA clinical trial under the leadership of Prof. Peter Gilling, who pioneered the HoLEP procedure in 1997.",
+    "url": "https://www.andromedasurgical.com/",
+    "pass": 1
+   },
+   {
+    "quote": "With successful clinical trials ongoing in various countries, Andromeda Surgical is preparing to scale beyond HoLEP procedures into additional surgical specialties. Our long-term vision positions us as \"the Tesla of Surgical Robotics\"—enabling every surgeon to operate at world expert level through progressive autonomy and AI assistance.",
+    "url": "https://www.andromedasurgical.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Serial healthcare founder who has built hardware and software products that have launched in 1,000 hospitals.",
+    "url": "https://www.andromedasurgical.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The product is only available for sale in Canada and New Zealand. We are designing this product with the intent to improve surgery. All information on this website represents design goals and should not be construed as claims.",
+    "url": "https://www.andromedasurgical.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Andromeda Surgical is developing AI-powered robotic systems to democratize complex surgical procedures, starting with HoLEP for benign prostatic hyperplasia (BPH). Their technology combines AI guidance with off-the-shelf robotic arms to improve surgical outcomes and efficiency while reducing the steep learning curve for surgeons.",
+    "url": "https://cybernetix.vc/portfolio/andromedasurgical/",
+    "pass": 3
+   },
+   {
+    "quote": "Your Privacy on this Website",
+    "url": "https://cybernetix.vc/portfolio/andromedasurgical/",
+    "pass": 3
+   },
+   {
+    "quote": "Phaze Ventures first invested in Andromeda at seed in September 2025, when the company had performed the world's first robotic-assisted HoLEP procedure in Santiago, Chile, and not much else. Nine months later, Standard Capital led the Series A.",
+    "url": "https://phazeventures.com/andromeda-surgical-raises-15m-series-a",
+    "pass": 3
+   },
+   {
+    "quote": "Andromeda now holds regulatory clearance in Canada and New Zealand, with further approvals in progress, and expects its first commercial systems in hospitals within two months. More news on the launch is coming soon.",
+    "url": "https://phazeventures.com/andromeda-surgical-raises-15m-series-a",
+    "pass": 3
+   },
+   {
+    "quote": "Phaze Ventures is proud to continue backing Nick, Kartik, and the Andromeda team as they move into commercial launch. The best is yet to come.",
+    "url": "https://phazeventures.com/andromeda-surgical-raises-15m-series-a",
+    "pass": 3
+   },
+   {
+    "quote": "Andromeda Surgical builds autonomous surgical robots designed to make surgery safer, easier, and more efficient. The company's first indication is HoLEP, with a broader vision to build an AI-guided platform for multiple surgical procedures.",
+    "url": "https://phazeventures.com/andromeda-surgical-raises-15m-series-a",
+    "pass": 3
+   },
+   {
+    "quote": "From Prototype to Clinical Tool",
+    "url": "https://www.forcen.tech/post/case-study-from-prototype-to-clinical-tool-2026-08-11",
+    "pass": 3
+   },
+   {
+    "quote": "Product is not available in this quantity.",
+    "url": "https://www.forcen.tech/post/case-study-from-prototype-to-clinical-tool-2026-08-11",
+    "pass": 3
+   },
+   {
+    "quote": "Our latest case study explores how Andromeda successfully transitioned their technology from an early prototype to a clinical tool. Discover how integrating ForceN sensors helped them significantly reduce their development timelines.",
+    "url": "https://www.forcen.tech/post/case-study-from-prototype-to-clinical-tool-2026-08-11",
+    "pass": 3
+   },
+   {
+    "quote": "Tech’s breath of fresh air is improving patient outcomes in COVID-19 treatment",
+    "url": "https://www.forcen.tech/post/case-study-from-prototype-to-clinical-tool-2026-08-11",
+    "pass": 3
+   },
+   {
+    "quote": "Andromeda Surgical 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/528424-93",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of AI-guided surgical navigation and robotic surgery technology designed to improve precision, efficiency, and outcomes in minimally invasive procedures.",
+    "url": "https://pitchbook.com/profiles/company/528424-93",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/528424-93",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/528424-93",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/528424-93",
+    "pass": 3
+   },
+   {
+    "quote": "28-Apr-2023",
+    "url": "https://pitchbook.com/profiles/company/528424-93",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/528424-93",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/528424-93",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/528424-93",
+    "pass": 3
+   },
+   {
+    "quote": "Andromeda Surgical’s primary industry is Surgical Devices.",
+    "url": "https://pitchbook.com/profiles/company/528424-93",
+    "pass": 3
+   },
+   {
+    "quote": "Is Andromeda Surgical a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/528424-93",
+    "pass": 3
+   },
+   {
+    "quote": "Andromeda Surgical is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/528424-93",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/528424-93",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/528424-93",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/528424-93",
+    "pass": 3
+   },
+   {
+    "quote": "HoLEP has been the gold-standard treatment for enlarged prostate since 1998 but has seen limited adoption precisely because it requires extensive training to master.[2] By reducing this learning curve, Andromeda unlocks a massive addressable market—most urologists currently cannot perform the procedure at expert level, creating artificial scarcity in access to optimal outcomes.",
+    "url": "https://startupintros.com/orgs/andromeda-surgical",
+    "pass": 3
+   },
+   {
+    "quote": "Building a functional robotic platform in three months is exceptional in an industry where hardware development typically spans years.[1] This speed reflects both the founders' autonomous vehicle background (where rapid iteration is standard) and their deliberate choice to avoid mechanical complexity by targeting natural orifice procedures.",
+    "url": "https://startupintros.com/orgs/andromeda-surgical",
+    "pass": 3
+   },
+   {
+    "quote": "prnewswire.com/news-releases/andromeda-surgical-announces-worlds-first-robotic-assisted-holep-procedure-302336273.html",
+    "url": "https://startupintros.com/orgs/andromeda-surgical",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/andromedasurgical.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/andromedasurgical.com",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Top operators from techmed & autonomy",
+    "url": "https://www.andromedasurgical.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our latest case study explores how Andromeda successfully transitioned their technology from an early prototype to a clinical tool. Discover how integrating ForceN sensors helped them significantly reduce their development timelines.",
+    "url": "https://www.forcen.tech/post/case-study-from-prototype-to-clinical-tool-2026-08-11",
+    "pass": 3
+   },
+   {
+    "quote": "Read the full case study here:",
+    "url": "https://www.forcen.tech/post/case-study-from-prototype-to-clinical-tool-2026-08-11",
+    "pass": 3
+   },
+   {
+    "quote": "ForceN featured by Autodesk for ventilator sensor contribution to Canadian manufacturing during supply chain shortage.",
+    "url": "https://www.forcen.tech/post/case-study-from-prototype-to-clinical-tool-2026-08-11",
+    "pass": 3
+   },
+   {
+    "quote": "AI Factory Austria (AI:AT)",
+    "url": "https://getlatka.com/companies/andromedasurgical.com",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Andromeda Surgical — With successful clinical trials ongoing in various countries, Andromeda Surgical is preparing to scale beyond HoLEP procedures into additional surgical specialties.",
+    "url": "https://www.andromedasurgical.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Andromeda Surgical — Andromeda’s spatial navigation system provides surgeons with GPS-like guidance through human anatomy, ensuring they always know where they are and what to do next. With a iPad interface, learning new procedures becomes streamlined. Surgeons can master techniques without a burdensome robotic training program. This isn't just easier surgery. It's surgery reimagined for a softwar",
+    "url": "https://www.andromedasurgical.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Andromeda Surgical - LinkedIn — Andromeda Surgical | 6,716 followers on LinkedIn. Giving surgeons more autonomy. | Autonomous surgery platform designed to make surgery safer, easier, and more efficient",
+    "url": "https://www.linkedin.com/company/andromeda-surgical",
+    "pass": 3
+   },
+   {
+    "quote": "Andromeda Surgical | Cybernetix Ventures — Andromeda Surgical is developing AI-powered robotic systems to democratize complex surgical procedures, starting with HoLEP for benign prostatic hyperplasia (BPH). Their technology combines AI guidance with off-the-shelf robotic arms to improve surgical outcomes and efficiency while reducing the steep learning curve for surgeons.",
+    "url": "https://cybernetix.vc/portfolio/andromedasurgical/",
+    "pass": 3
+   },
+   {
+    "quote": "Nick Damiano - Andromeda Surgical | LinkedInAndromeda Surgical 2026 Company Profile: Valuation, Funding ...Andromeda Surgical - 2026 Company Profile & Team - Tracxn本社・営業所 — Techmed/deeptech/physical AI founder. Mission is to build tech that maximally improves… · Experience: Andromeda Surgical · Education: Stanford University · Location: San Francisco · 500 ... Information on valuation, funding, ca",
+    "url": "https://www.linkedin.com/in/nickdamiano",
+    "pass": 3
+   },
+   {
+    "quote": "Andromeda Surgical 2026 Company Profile: Valuation, Funding ...Andromeda Surgical - 2026 Company Profile & Team - Tracxn本社・営業所 — Information on valuation, funding, cap tables, investors, and executives for Andromeda Surgical. Use the PitchBook Platform to explore the full profile. Feb 19, 2026 · Explore Andromeda Surgical's in-depth company profile, including funding details, key investors, leader",
+    "url": "https://pitchbook.com/profiles/company/528424-93",
+    "pass": 3
+   },
+   {
+    "quote": "Andromeda Surgical | JSK Investments — Andromeda Surgical is developing a next-generation autonomous robotic surgical system that is redefining the paradigm of minimally invasive surgery - from a tool in the hands of a surgeon to an intelligent platform capable of operating independently.",
+    "url": "https://www.jskinvestments.cz/en/projects/andromeda-surgical",
+    "pass": 3
+   },
+   {
+    "quote": "Andromeda Surgical - LinkedIn — Our vision at Andromeda is to end the global surgeon shortage and give any patient anywhere who needs surgery access to the world’s best treatment quickly. Once we achieve this vision, millions...",
+    "url": "https://www.linkedin.com/company/andromeda-surgical",
+    "pass": 3
+   },
+   {
+    "quote": "Andromeda Surgical Raises $15M Series A Led by Standard ... — Aug 4, 2026 · Founded by Nick Damiano and Kartik Tiwari, Andromeda builds autonomous surgical robots that combine AI-driven anatomical mapping with surgeon-in-the-loop autonomy, all run from a tablet.",
+    "url": "https://phazeventures.com/andromeda-surgical-raises-15m-series-a",
+    "pass": 3
+   },
+   {
+    "quote": "Nick Damiano - Andromeda Surgical | LinkedInCareers — Andromeda SurgicalSurgical Products – Andromeda Overseas — Say you're a surgical robotics company with great robotic hardware. You see where trends are going, have lots of surgical data, and want to make your robots autonomous. To do that, you're going to... Open roles at Andromeda Surgical. Help every surgeon operate at world-expert level. And",
+    "url": "https://www.linkedin.com/in/nickdamiano",
+    "pass": 3
+   },
+   {
+    "quote": "Andromeda Surgical 2026 Company Profile: Valuation, Funding ...Andromeda Surgical: Funding, Team & Investors | Startup IntrosAndromeda Surgical - 2026 Company Profile, Team, Funding ...How Andromeda Surgical hit $1.5M revenue with a 13 person ...How Andromeda Surgical hit $1.5M revenue with a 13 person ...Andromeda Surgical — Company Profile, Funding & InvestorsAndromeda Surgical — venture-backed ",
+    "url": "https://pitchbook.com/profiles/company/528424-93",
+    "pass": 3
+   },
+   {
+    "quote": "Andromeda Surgical: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Operating with a team of 10 employees, the medical technology firm has generated $1.5 million in revenue and secured $500,000 in early funding.",
+    "url": "https://startupintros.com/orgs/andromeda-surgical",
+    "pass": 3
+   },
+   {
+    "quote": "Andromeda Surgical - 2026 Company Profile, Team, Funding ... — Feb 19, 2026 · Andromeda Surgical is a seed company based in San Francisco (United States), founded in 2023 by Kartik Tiwari and Nick Damiano. It operates as a Developer of autonomous robots for surgery. Andromeda Surgical has raised $500K in funding from Y Combinator and CoreNest.",
+    "url": "https://tracxn.com/d/companies/andromedasurgical/__13yhcfzphM3NT9qOLtSVWznol6dPjH1559rcHjLdkfE",
+    "pass": 3
+   },
+   {
+    "quote": "How Andromeda Surgical hit $1.5M revenue with a 13 person ... — Sep 2, 2026 · Since its launch in 2023, Andromeda Surgical has shown consistent revenue growth, reflecting its expanding user base and increasing adoption across various industries.",
+    "url": "https://getlatka.com/companies/andromedasurgical.com",
+    "pass": 3
+   },
+   {
+    "quote": "Andromeda Surgical — Company Profile, Funding & Investors — Andromeda Surgical is a developer of autonomous robots intended to make surgery more consistent, error-free, and efficient. Andromeda Surgical on Acquirezy — acquisitions, funding rounds, investments, investors, key people & contacts.",
+    "url": "https://acquirezy.com/organization/andromeda-surgical",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/528424-93",
+    "pass": 3
+   },
+   {
+    "quote": "Andromeda Surgical has 20 total employees.",
+    "url": "https://pitchbook.com/profiles/company/528424-93",
+    "pass": 3
+   },
+   {
+    "quote": "What is Andromeda Surgical’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/528424-93",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Andromeda Surgical is",
+    "url": "https://pitchbook.com/profiles/company/528424-93",
+    "pass": 3
+   },
+   {
+    "quote": "Andromeda Surgical Revenue 2024: $1.5M Est.",
+    "url": "https://getlatka.com/companies/andromedasurgical.com",
+    "pass": 3
+   },
+   {
+    "quote": "Andromeda Surgical revenue",
+    "url": "https://getlatka.com/companies/andromedasurgical.com",
+    "pass": 3
+   },
+   {
+    "quote": "Andromeda Surgical has not published its revenue. GetLatka estimates it at about $1.5M a year (June 2024).",
+    "url": "https://getlatka.com/companies/andromedasurgical.com",
+    "pass": 3
+   },
+   {
+    "quote": "Andromeda Surgical CEO, founders & employees",
+    "url": "https://getlatka.com/companies/andromedasurgical.com",
+    "pass": 3
+   },
+   {
+    "quote": "Nick Damiano founded Andromeda Surgical in 2023 and runs it as CEO. Andromeda Surgical had 13 employees (June 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/andromedasurgical.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Andromeda Surgical's revenue?",
+    "url": "https://getlatka.com/companies/andromedasurgical.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Andromeda Surgical's revenue at about",
+    "url": "https://getlatka.com/companies/andromedasurgical.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Andromeda Surgical have?",
+    "url": "https://getlatka.com/companies/andromedasurgical.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in June 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/andromedasurgical.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/andromedasurgical.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/andromedasurgical.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/andromedasurgical.com",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/528424-93",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Why did we focus first on supporting surgeons doing #HoLEP ... Why did we focus first on supporting surgeons doing #HoLEP for our first clinical use case? 1. HoLEP is the only permanent cure for BPH (enlarged prostate), but there's a wide gap between novices struggling through 4-hour cases and experts completing the same procedure in 30 Andromeda Surgical@andromedasurg",
+    "url": "https://x.com/andromedasurg/status/2064446869456183544",
+    "pass": 3
+   },
+   {
+    "quote": "Omar M. Khateeb on X: \"Autonomous Surgery: How Andromeda ... Autonomous Surgery: How Andromeda Surgical Is Building a New MedTech Playbook with Nick Damiano and Dave Messina of Pioneer Fund. What if the next billion-dollar MedTech companies are built more like Silicon Valley startups than traditional device businesses?",
+    "url": "https://x.com/OmarMKhateeb/status/2114744996226302315",
+    "pass": 3
+   },
+   {
+    "quote": "Menlo Times on X: \"-> Andromeda Surgical has raised $15M ... -> 🤖🩺 Andromeda Surgical has raised $15M in Series A funding to build the intelligence layer for autonomous surgery.Led by Standard Capital, the round includes Y Combinator, Vox Capital, Lingotto Innovation, Alumni Ventures, WestWave Capital and others.Its system has already been used by urologists in 3 countries across 40+ patients for ",
+    "url": "https://x.com/menlotimes/status/2085341899796484530",
+    "pass": 3
+   },
+   {
+    "quote": "Andromeda Surgical (@andromedasurg) / X We go inside how Andromeda Surgical turns an off-the-shelf robot arm into a “sous surgeon,” controlled from an iPad. PLUS Mogul lets anyone buy a slice of a rental home for as low as $250.",
+    "url": "https://x.com/andromedasurg",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Andromeda Surgical - LinkedIn Andromeda Surgical | 6,716 followers on LinkedIn. Giving surgeons more autonomy. | Autonomous surgery platform designed to make surgery safer, easier, and more efficient",
+    "url": "https://www.linkedin.com/company/andromeda-surgical",
+    "pass": 3
+   },
+   {
+    "quote": "Nick Damiano - Andromeda Surgical | LinkedIn#andromedasurgical #surgicalautonomy #techmed #healthtech # ...#aua24 #ucirvine #holep #urology #surgicalrobotics #ai # ...#techmed | Andromeda Surgical - LinkedInWe're hiring! We’re looking for elite team members with high ...Building great products requires exceptional engineers who ... Mission is to build tech that maximally improves… · Experience: An",
+    "url": "https://www.linkedin.com/in/nickdamiano",
+    "pass": 3
+   },
+   {
+    "quote": "#andromedasurgical #surgicalautonomy #techmed #healthtech # ... The future of surgery will be built in software. This will be the year that starts becoming obvious. #andromedasurgical #surgicalautonomy #techmed #healthtech #deeptech #medtech",
+    "url": "https://www.linkedin.com/posts/andromeda-surgical_andromedasurgical-surgicalautonomy-techmed-activity-7413741493779128320-phNy",
+    "pass": 3
+   },
+   {
+    "quote": "#techmed | Andromeda Surgical - LinkedIn Reminder that we’re still hiring. The roles we posted last week remain open. And that’s intentional. Because we’re not trying to fill seats or check boxes. We’re trying to find the small ...",
+    "url": "https://www.linkedin.com/posts/andromeda-surgical_techmed-activity-7434628697481179136-e-Sr",
+    "pass": 3
+   },
+   {
+    "quote": "Nick Damiano - Andromeda Surgical | LinkedInNick Damiano | CEO & Co-founder at Andromeda Surgical | F6S ...CEO Interview: Andromeda Surgical - CB Insights ResearchNick Damiano - DeviceTalks WestAndromeda Surgical - RobotTodayAndromeda Surgical CEO, Founder, Key Executive Team, Board of ... Mission is to build tech that maximally improves… · Experience: Andromeda Surgical · Education: Stanford Univ",
+    "url": "https://www.linkedin.com/in/nickdamiano",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Come see Andromeda Surgical, Inc. pitch at the 2025 ... Come see Andromeda Surgical, Inc. pitch at the 2025 Innovation Nexus Conference. Register today! ️ https://bit.ly/3FrvMU5 #AUAInnovationNexus #AUA25...",
+    "url": "https://www.facebook.com/watch/?v=1634105807466495",
+    "pass": 3
+   },
+   {
+    "quote": "Andromeda Surgical | San Francisco CA - Facebook Dec 19, 2024 · Andromeda Surgical, San Francisco. 7 likes. Autonomous robots for safer, better, faster surgery",
+    "url": "https://www.facebook.com/andromedasurgical/",
+    "pass": 3
+   },
+   {
+    "quote": "FDA Is Making Software-Defined MedTech More ... - Facebook Oct 27, 2026 · Episode 426: Autonomous Surgery: Andromeda Surgical’s New MedTech Playbook with Nick Damiano & Dave Messina #autonomousrobots #surgicalrobotics #medtechinnovation #physicalai #medtechindustry",
+    "url": "https://www.facebook.com/stateofmedtech/videos/why-software-could-break-medtechs-old-business-model/2504975816662077/",
+    "pass": 3
+   },
+   {
+    "quote": "The CEO Mistake MedTech Investors Keep Making ... - Facebook Oct 29, 2026 · Episode 426: Autonomous Surgery: Andromeda Surgical’s New MedTech Playbook with Nick Damiano & Dave Messina #autonomousrobots #surgicalrobotics #medtechinnovation #physicalai #medtechindustry",
+    "url": "https://www.facebook.com/stateofmedtech/videos/why-replacing-the-founder-can-be-a-huge-mistake/28564726476556598/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.andromedasurgical.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.andromedasurgical.com/careers/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.andromedasurgical.com/images/andromeda-surgical-team-global-partnerships-2025.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.sangyo-times.jp/article.aspx?ID=8150",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saitama-med.ac.jp/news/nid00000616.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/visioneo/n/n3e77b477c943",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/andromeda-surgical",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cybernetix.vc/portfolio/andromedasurgical/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/in/nickdamiano",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.jskinvestments.cz/en/projects/andromeda-surgical",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/andromeda-surgical",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://phazeventures.com/andromeda-surgical-raises-15m-series-a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://andromeda.tech/case_studies/ticket-reduction-manufacturer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/amanladak_check-out-our-latest-case-study-of-us-working-activity-7492959172574162944-qIvc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.forcen.tech/post/case-study-from-prototype-to-clinical-tool-2026-08-11",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cloudtango.net/media/casestudies/Andromeda_Comit+Manufacturer+CaseStudy_112923_1709849225-min_1709850217.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.upcounsel.com/reseller-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/528424-93",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://startupintros.com/orgs/andromeda-surgical",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/andromedasurgical/__13yhcfzphM3NT9qOLtSVWznol6dPjH1559rcHjLdkfE",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/andromedasurgical.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/andromedasurg/status/2064446869456183544",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/OmarMKhateeb/status/2114744996226302315",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/menlotimes/status/2085341899796484530",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/andromedasurg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/andromeda-surgical",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/nickdamiano",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/andromeda-surgical_andromedasurgical-surgicalautonomy-techmed-activity-7413741493779128320-phNy",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/andromeda-surgical_techmed-activity-7434628697481179136-e-Sr",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/watch/?v=1634105807466495",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/andromedasurgical/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/stateofmedtech/videos/why-software-could-break-medtechs-old-business-model/2504975816662077/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/stateofmedtech/videos/why-replacing-the-founder-can-be-a-huge-mistake/28564726476556598/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/nickdamiano",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/andromedasurg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/andromedasurg/status/2064446869456183544",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Andromedasurgical 日本 導入",
+   "results": [
+    "https://www.andromedasurgical.com/",
+    "https://www.sangyo-times.jp/article.aspx?ID=8150",
+    "https://www.saitama-med.ac.jp/news/nid00000616.html",
+    "https://note.com/visioneo/n/n3e77b477c943",
+    "https://note.com/medi_notes/n/n526a5fd51ff9",
+    "https://physical-ai.yurufuwa.work/learn/surgical-robots",
+    "https://www.max-robotics.com/zh/companies/andromeda-surgical"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Andromedasurgical 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.andromedasurgical.com/",
+    "https://www.linkedin.com/company/andromeda-surgical",
+    "https://cybernetix.vc/portfolio/andromedasurgical/",
+    "https://www.linkedin.com/in/nickdamiano",
+    "https://pitchbook.com/profiles/company/528424-93",
+    "https://tracxn.com/d/companies/andromedasurgical/__13yhcfzphM3NT9qOLtSVWznol6dPjH1559rcHjLdkfE",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Andromedasurgical Japan",
+   "results": [
+    "https://www.andromedasurgical.com/",
+    "https://www.jskinvestments.cz/en/projects/andromeda-surgical",
+    "https://www.linkedin.com/company/andromeda-surgical",
+    "https://phazeventures.com/andromeda-surgical-raises-15m-series-a",
+    "https://www.linkedin.com/in/nickdamiano",
+    "https://www.andromedasurgical.com/careers/",
+    "https://www.andromedaoverseas.com/surgical-products/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Andromedasurgical manufacturing customer case study",
+   "results": [
+    "https://andromeda.tech/case_studies/ticket-reduction-manufacturer",
+    "https://www.linkedin.com/posts/amanladak_check-out-our-latest-case-study-of-us-working-activity-7492959172574162944-qIvc",
+    "https://www.forcen.tech/post/case-study-from-prototype-to-clinical-tool-2026-08-11",
+    "https://www.cloudtango.net/media/casestudies/Andromeda_Comit+Manufacturer+CaseStudy_112923_1709849225-min_1709850217.pdf",
+    "https://www.andromedasurgical.com/",
+    "https://www.tonik.com/case-studies/andromeda-surgical",
+    "https://www.linkedin.com/pulse/building-autonomous-ai-guided-future-surgery-nick-damiano-khateeb-apsyf"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Andromedasurgical white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://upcloud.com/partner-program/",
+    "https://www.databricks.com/partners/partner-program",
+    "https://reseller.amazon.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Andromedasurgical founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/528424-93",
+    "https://startupintros.com/orgs/andromeda-surgical",
+    "https://tracxn.com/d/companies/andromedasurgical/__13yhcfzphM3NT9qOLtSVWznol6dPjH1559rcHjLdkfE",
+    "https://getlatka.com/companies/andromedasurgical.com",
+    "https://acquirezy.com/organization/andromeda-surgical",
+    "https://getlatka.com/companies/andromedasurgical.com/customers",
+    "https://dealroom.co/companies/andromeda-surgical/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Andromedasurgical",
+   "results": [
+    "https://note.com/tag/台風25号",
+    "https://note.com/geoscience16",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/hunter_5160/n/neb1bf44afe25",
+    "https://note.com/hardp",
+    "https://note.com/glossy_pika3109/n/n85e1eafab62a",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Andromedasurgical",
+   "results": [
+    "https://x.com/andromedasurg/status/2064446869456183544",
+    "https://x.com/OmarMKhateeb/status/2114744996226302315",
+    "https://x.com/menlotimes/status/2085341899796484530",
+    "https://x.com/andromedasurg",
+    "https://x.com/StateofMedTech/status/2117045126878933277",
+    "https://x.com/AbukhalilRami",
+    "https://x.com/i/trending/2105363978671001790"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Andromedasurgical",
+   "results": [
+    "https://www.linkedin.com/company/andromeda-surgical",
+    "https://www.linkedin.com/in/nickdamiano",
+    "https://www.linkedin.com/posts/andromeda-surgical_andromedasurgical-surgicalautonomy-techmed-activity-7413741493779128320-phNy",
+    "https://www.linkedin.com/posts/andromeda-surgical_techmed-activity-7434628697481179136-e-Sr",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7430642448789381121/",
+    "https://www.linkedin.com/posts/andromeda-surgical_building-great-products-requires-exceptional-activity-7490460601073364992-27Qu",
+    "https://www.linkedin.com/posts/andromeda-surgical_aua24-ucirvine-holep-activity-7155268004010708992-vY6W"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Andromedasurgical",
+   "results": [
+    "https://www.facebook.com/watch/?v=1634105807466495",
+    "https://www.facebook.com/andromedasurgical/",
+    "https://www.facebook.com/stateofmedtech/videos/why-software-could-break-medtechs-old-business-model/2504975816662077/",
+    "https://www.facebook.com/stateofmedtech/videos/why-replacing-the-founder-can-be-a-huge-mistake/28564726476556598/",
+    "https://www.facebook.com/NoleusTech/photos/followersnick-damiano-is-a-serial-medtech-entrepreneur-leader-and-innovator-he-i/942099344280408/",
+    "https://www.facebook.com/stateofmedtech/videos/why-startups-need-one-beachhead-market/1001919282281699/",
+    "https://www.facebook.com/stateofmedtech/videos/60-million-miles-later-is-autonomous-surgery-next/1792139841906890/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Andromedasurgical note 社長",
+   "results": [
+    "https://www.andromedasurgical.com/",
+    "https://www.linkedin.com/in/nickdamiano",
+    "https://www.f6s.com/member/nick-damiano",
+    "https://www.cbinsights.com/research/ceo-interview-andromeda-surgical/",
+    "https://west.devicetalks.com/speaker/nick-damiano/",
+    "https://robottoday.com/suppliers-discovery/andromeda-surgical",
+    "https://www.cbinsights.com/company/andromeda-surgical/people"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Andromedasurgical X 投稿",
+   "results": [
+    "https://www.instagram.com/andromedasurgical/",
+    "https://x.com/andromedasurg",
+    "https://www.andromedasurgical.com/",
+    "https://x.com/andromedasurg/status/2064446869456183544",
+    "https://x.com/RecodeX_AI/status/2100551702919389254",
+    "https://www.andromedasurgical.com/careers/ux-designer/",
+    "https://www.max-robotics.com/zh/companies/andromeda-surgical"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像1件／外部36頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像1件／外部36頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像1件／外部36頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像1件／外部36頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式2頁／PDF・画像1件／外部36頁・検索12回）"
+ }
+}

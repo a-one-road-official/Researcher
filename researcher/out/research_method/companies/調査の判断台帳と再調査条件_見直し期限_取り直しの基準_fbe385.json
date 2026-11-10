@@ -8,8 +8,16 @@
  ],
  "context": "手順・やり方",
  "kind": "market",
- "researched_at": "2026-11-09T09:05:03.081041+00:00",
+ "researched_at": "2026-11-10T21:50:14.389006+00:00",
  "evidence": {
+  "一次情報の探し方": [
+   {
+    "quote": "This page is reference information for research and learning. For accounting, legal, finance, health, security, or other individual decisions, confirm against primary sources or qualified professionals.",
+    "url": "https://core.yogoq.com/en-US/core/decision-log-refresh-plan",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "手順・やり方": [
    {
     "quote": "Stale Data: How to Identify and Mitigate its Impact",
@@ -180,6 +188,28 @@
     "first_seen": "2026-11-05"
    }
   ],
+  "突き合わせ・推定": [
+   {
+    "quote": "Estimate value and cost savings from data observability.",
+    "url": "https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "shows that organizations lose an estimated $13 million annually due to poor data quality, including stale data.",
+    "url": "https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Decision log: template, examples, and best practices [2026]Data Refresh in Power BI - How to Keep Your Reports From ...Keep a Decision Log with Clear Revisit Conditions - BiNotePadsWhy English? Recovery Data-Release Rollback NoticesDecision Log Refresh Plan - YogoQ CoreHow to create Data Refresh Rules for Stale CI's - ServiceNow — A decision log is a record of all the important decisions your team",
+    "url": "https://monday.com/blog/project-management/decision-log/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
   "実例": [
    {
     "quote": "Here’s how these risks manifest with real-world examples:",
@@ -241,43 +271,28 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "This page is reference information for research and learning. For accounting, legal, finance, health, security, or other individual decisions, confirm against primary sources or qualified professionals.",
-    "url": "https://core.yogoq.com/en-US/core/decision-log-refresh-plan",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "Estimate value and cost savings from data observability.",
-    "url": "https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "shows that organizations lose an estimated $13 million annually due to poor data quality, including stale data.",
-    "url": "https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "検索結果の抜粋": [
-   {
-    "quote": "Decision log: template, examples, and best practices [2026]Data Refresh in Power BI - How to Keep Your Reports From ...Keep a Decision Log with Clear Revisit Conditions - BiNotePadsWhy English? Recovery Data-Release Rollback NoticesDecision Log Refresh Plan - YogoQ CoreHow to create Data Refresh Rules for Stale CI's - ServiceNow — A decision log is a record of all the important decisions your team",
-    "url": "https://monday.com/blog/project-management/decision-log/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
+    "url": "https://note.com/egashi_aiwork/n/nc8df49e96910",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/shunsuke_ai/n/n30adef79361f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://note.com/minahoken/n/n5512b9076f3e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/bright_hound7065/n/n7d281441c517",
     "status": "ok",
     "method": "http"
    },
@@ -288,21 +303,6 @@
    },
    {
     "url": "https://note.com/tsunobuchi/n/n037e5cd3ee54",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/aoyamacpa/n/n61ae30204e43",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/revoyasukawa/n/n41e66da376fc",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/nikki_r2d2/n/ne2507672f58b",
     "status": "ok",
     "method": "http"
    },
@@ -322,6 +322,11 @@
     "method": "http"
    },
    {
+    "url": "https://www.nta.go.jp/law/tsutatsu/kihon/igi/01_02/01_02.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://note.com/the_mogutarou/n/n8906602b8a3e",
     "status": "ok",
     "method": "http"
@@ -332,12 +337,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/tag/%E5%86%8D%E8%AA%BF%E6%9F%BB",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.nta.go.jp/law/tsutatsu/kihon/igi/01_02/01_02.htm",
+    "url": "https://m-assets.com/lp/tax-audit/blog/re-investigation-request-deadline",
     "status": "ok",
     "method": "http"
    },
@@ -347,12 +347,7 @@
     "method": "http"
    },
    {
-    "url": "http://www.s-sakata-law.jp/96301534",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.kfs.go.jp/system/relation.html",
+    "url": "https://hanawa-office.jp/oshiete/blogs/640-%E7%94%B3%E8%AB%8B%E5%87%A6%E5%88%86%E3%81%AE%E5%AF%A9%E6%9F%BB%E8%AB%8B%E6%B1%82%E3%81%B8%E7%9B%B4%E8%A1%8C%E3%81%99%E3%81%B9%E3%81%8D%E3%81%8B-%E5%86%8D%E8%AA%BF%E6%9F%BB%E8%AB%8B%E6%B1%82-%E5%86%8D%E5%AF%A9%E6%9F%BB%E8%AB%8B%E6%B1%82%E3%81%A8%E3%81%AE%E4%BD%BF%E3%81%84%E5%88%86%E3%81%91%E3%81%A8%E5%AE%9F%E5%8B%99%E5%88%A4%E6%96%AD/",
     "status": "ok",
     "method": "http"
    },
@@ -362,12 +357,27 @@
     "method": "http"
    },
    {
-    "url": "https://www.bousai.go.jp/taisaku/pdf/saigai_tebiki_5.pdf",
+    "url": "http://www.s-sakata-law.jp/96301534",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
+   },
+   {
+    "url": "https://arakawa-g3.com/column/detail/20251119202257/",
+    "status": "http_403",
+    "method": "http"
    },
    {
     "url": "https://dprofessions.co.jp/%E5%BC%81%E8%AD%B7%E5%A3%AB/%E8%A1%8C%E6%94%BF%E4%BA%8B%E4%BB%B6/%E4%B8%8D%E6%9C%8D%E7%94%B3%E7%AB%8B%E3%81%A6/%E5%86%8D%E8%AA%BF%E6%9F%BB%E3%81%AE%E8%AB%8B%E6%B1%82%E3%81%A8%E5%AF%A9%E6%9F%BB%E8%AB%8B%E6%B1%82%E3%81%AF%E3%81%A9%E3%81%86%E4%BD%BF%E3%81%84%E5%88%86%E3%81%91%E3%82%8B%E3%81%B9%E3%81%8D%E3%81%8B/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mlit.go.jp/jutakukentiku/jutakukentiku_house_fr_000061.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kfs.go.jp/service/MP/01/1002000000.html",
     "status": "ok",
     "method": "http"
    },
@@ -382,18 +392,8 @@
     "method": "http"
    },
    {
-    "url": "https://www.nta.go.jp/about/organization/ntc/kenkyu/ronsou/88/03/index.htm",
+    "url": "https://www.subsurface-exploration.com/necessity/reinvestigation.html",
     "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.pmda.go.jp/files/000274571.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://arakawa-g3.com/column/detail/20251119202257/",
-    "status": "http_403",
     "method": "http"
    },
    {
@@ -402,17 +402,17 @@
     "method": "http"
    },
    {
-    "url": "https://bigid.com/blog/stale-data-meaning/",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions",
+    "url": "https://www.metaplane.dev/blog/stale-data-leads-to-bad-business-decisions",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.metaplane.dev/blog/stale-data-leads-to-bad-business-decisions",
+    "url": "https://www.projectmanagertemplate.com/post/decision-logs-the-ultimate-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions",
     "status": "ok",
     "method": "http"
    },
@@ -432,19 +432,19 @@
   {
    "query": "調査の判断台帳と再調査条件（見直し期限・取り直しの基準） site:note.com",
    "results": [
+    "https://note.com/egashi_aiwork/n/nc8df49e96910",
+    "https://note.com/shunsuke_ai/n/n30adef79361f",
     "https://note.com/minahoken/n/n5512b9076f3e",
+    "https://note.com/bright_hound7065/n/n7d281441c517",
     "https://note.com/shijochosa_labo/n/n2ddb4ff574a3",
     "https://note.com/tsunobuchi/n/n037e5cd3ee54",
     "https://note.com/aoyamacpa/n/n61ae30204e43",
     "https://note.com/revoyasukawa/n/n41e66da376fc",
-    "https://note.com/nikki_r2d2/n/ne2507672f58b",
-    "https://note.com/gtminami/n/n11b7ec48a970",
     "https://note.com/cpsus16/n/neb8be93dc715",
-    "https://note.com/ip_genesis/n/n3491babc8234",
-    "https://note.com/wish11_11/n/n19742c05705d"
+    "https://note.com/nikki_r2d2/n/ne2507672f58b"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -452,19 +452,19 @@
   {
    "query": "調査の判断台帳と再調査条件（見直し期限・取り直しの基準） note",
    "results": [
+    "https://note.com/egashi_aiwork/n/nc8df49e96910",
     "https://note.com/massets/n/na43d8e7f84d5",
     "https://note.com/tsunobuchi/n/n5c8494641ad9",
     "https://dprofessions.co.jp/%E5%BC%81%E8%AD%B7%E5%A3%AB/%E7%A8%8E%E5%8B%99%E8%A8%B4%E8%A8%9F/%E6%9B%B4%E6%AD%A3%E5%87%A6%E5%88%86/%E5%86%8D%E8%AA%BF%E6%9F%BB%E3%81%AE%E8%AB%8B%E6%B1%82%E3%81%A8%E5%AF%A9%E6%9F%BB%E8%AB%8B%E6%B1%82%E3%81%AE%E3%81%A9%E3%81%A1%E3%82%89%E3%82%92%E9%81%B8%E3%81%B6%E3%81%B9%E3%81%8D%E3%81%8B/",
+    "https://www.nta.go.jp/law/tsutatsu/kihon/igi/01_02/01_02.htm",
     "https://note.com/the_mogutarou/n/n8906602b8a3e",
     "https://hanawa-office.jp/oshiete/blogs/625-%E7%94%B3%E8%AB%8B%E5%87%A6%E5%88%86%E3%81%A7%E5%86%8D%E8%AA%BF%E6%9F%BB%E8%AB%8B%E6%B1%82%E3%82%92%E4%BD%BF%E3%81%88%E3%82%8B%E3%81%8B-%E5%80%8B%E5%88%A5%E6%B3%95-%E6%95%99%E7%A4%BA-%E4%BE%8B%E5%A4%96%E3%81%AE%E7%A2%BA%E8%AA%8D%E6%89%8B%E9%A0%86/",
-    "https://note.com/tag/%E5%86%8D%E8%AA%BF%E6%9F%BB",
-    "https://www.nta.go.jp/about/organization/ntc/kenkyu/ronsou/88/03/index.htm",
     "https://gns-tax.or.jp/media/tax-investigation-re-examination/",
     "https://www.subsurface-exploration.com/necessity/reinvestigation.html",
     "https://note.com/magic_ai7978/n/n958a56fe11e6"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 14
@@ -474,13 +474,13 @@
    "results": [
     "https://www.nta.go.jp/law/tsutatsu/kihon/igi/01_02/01_02.htm",
     "https://dprofessions.co.jp/%E5%BC%81%E8%AD%B7%E5%A3%AB/%E7%A8%8E%E5%8B%99%E8%A8%B4%E8%A8%9F/%E6%9B%B4%E6%AD%A3%E5%87%A6%E5%88%86/%E5%86%8D%E8%AA%BF%E6%9F%BB%E3%81%AE%E8%AB%8B%E6%B1%82%E3%81%A8%E5%AF%A9%E6%9F%BB%E8%AB%8B%E6%B1%82%E3%81%AE%E3%81%A9%E3%81%A1%E3%82%89%E3%82%92%E9%81%B8%E3%81%B6%E3%81%B9%E3%81%8D%E3%81%8B/",
+    "https://m-assets.com/lp/tax-audit/blog/re-investigation-request-deadline",
     "https://q-one.jp/group-ta/lp/zeimu/column/real/1764/",
-    "https://hanawa-office.jp/oshiete/blogs/625-%E7%94%B3%E8%AB%8B%E5%87%A6%E5%88%86%E3%81%A7%E5%86%8D%E8%AA%BF%E6%9F%BB%E8%AB%8B%E6%B1%82%E3%82%92%E4%BD%BF%E3%81%88%E3%82%8B%E3%81%8B-%E5%80%8B%E5%88%A5%E6%B3%95-%E6%95%99%E7%A4%BA-%E4%BE%8B%E5%A4%96%E3%81%AE%E7%A2%BA%E8%AA%8D%E6%89%8B%E9%A0%86/",
-    "http://www.s-sakata-law.jp/96301534",
-    "https://www.kfs.go.jp/system/relation.html",
+    "https://hanawa-office.jp/oshiete/blogs/640-%E7%94%B3%E8%AB%8B%E5%87%A6%E5%88%86%E3%81%AE%E5%AF%A9%E6%9F%BB%E8%AB%8B%E6%B1%82%E3%81%B8%E7%9B%B4%E8%A1%8C%E3%81%99%E3%81%B9%E3%81%8D%E3%81%8B-%E5%86%8D%E8%AA%BF%E6%9F%BB%E8%AB%8B%E6%B1%82-%E5%86%8D%E5%AF%A9%E6%9F%BB%E8%AB%8B%E6%B1%82%E3%81%A8%E3%81%AE%E4%BD%BF%E3%81%84%E5%88%86%E3%81%91%E3%81%A8%E5%AE%9F%E5%8B%99%E5%88%A4%E6%96%AD/",
     "https://gyosyo.info/%E8%A1%8C%E6%94%BF%E4%B8%8D%E6%9C%8D%E5%AF%A9%E6%9F%BB%E6%B3%9559%E6%9D%A1%EF%BC%9A%E5%86%8D%E8%AA%BF%E6%9F%BB%E3%81%AE%E8%AB%8B%E6%B1%82%E3%81%AE%E8%AA%8D%E5%AE%B9%E3%81%AE%E6%B1%BA%E5%AE%9A/",
-    "https://www.bousai.go.jp/taisaku/pdf/saigai_tebiki_5.pdf",
+    "http://www.s-sakata-law.jp/96301534",
     "https://arakawa-g3.com/column/detail/20251119202257/",
+    "https://www.kfs.go.jp/system/relation.html",
     "https://note.com/magic_ai7978/n/n958a56fe11e6"
    ],
    "engines": [
@@ -493,15 +493,35 @@
    "query": "調査の判断台帳と再調査条件（見直し期限・取り直しの基準） 事例",
    "results": [
     "https://dprofessions.co.jp/%E5%BC%81%E8%AD%B7%E5%A3%AB/%E8%A1%8C%E6%94%BF%E4%BA%8B%E4%BB%B6/%E4%B8%8D%E6%9C%8D%E7%94%B3%E7%AB%8B%E3%81%A6/%E5%86%8D%E8%AA%BF%E6%9F%BB%E3%81%AE%E8%AB%8B%E6%B1%82%E3%81%A8%E5%AF%A9%E6%9F%BB%E8%AB%8B%E6%B1%82%E3%81%AF%E3%81%A9%E3%81%86%E4%BD%BF%E3%81%84%E5%88%86%E3%81%91%E3%82%8B%E3%81%B9%E3%81%8D%E3%81%8B/",
+    "https://www.nta.go.jp/law/tsutatsu/kihon/igi/01_02/01_02.htm",
+    "https://www.mlit.go.jp/jutakukentiku/jutakukentiku_house_fr_000061.html",
+    "https://www.kfs.go.jp/service/MP/01/1002000000.html",
     "https://www.bousai.go.jp/taisaku/unyou.html",
-    "https://www.kfs.go.jp/system/relation.html",
-    "https://www.sakuratd.co.jp/post/sr-043",
-    "https://www.nta.go.jp/about/organization/ntc/kenkyu/ronsou/88/03/index.htm",
     "https://q-one.jp/group-ta/lp/zeimu/column/real/1764/",
+    "https://www.sakuratd.co.jp/post/sr-043",
     "http://www.s-sakata-law.jp/96301534",
-    "https://www.pmda.go.jp/files/000274571.pdf",
-    "https://arakawa-g3.com/column/detail/20251119202257/",
-    "https://gns-tax.or.jp/media/tax-investigation-re-examination/"
+    "https://hanawa-office.jp/oshiete/blogs/640-%E7%94%B3%E8%AB%8B%E5%87%A6%E5%88%86%E3%81%AE%E5%AF%A9%E6%9F%BB%E8%AB%8B%E6%B1%82%E3%81%B8%E7%9B%B4%E8%A1%8C%E3%81%99%E3%81%B9%E3%81%8D%E3%81%8B-%E5%86%8D%E8%AA%BF%E6%9F%BB%E8%AB%8B%E6%B1%82-%E5%86%8D%E5%AF%A9%E6%9F%BB%E8%AB%8B%E6%B1%82%E3%81%A8%E3%81%AE%E4%BD%BF%E3%81%84%E5%88%86%E3%81%91%E3%81%A8%E5%AE%9F%E5%8B%99%E5%88%A4%E6%96%AD/",
+    "https://www.subsurface-exploration.com/necessity/reinvestigation.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "research decision log revisit conditions stale data refresh criteria",
+   "results": [
+    "https://monday.com/blog/project-management/decision-log/",
+    "https://www.metaplane.dev/blog/stale-data-leads-to-bad-business-decisions",
+    "https://www.projectmanagertemplate.com/post/decision-logs-the-ultimate-guide",
+    "https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions",
+    "https://www.ibm.com/think/topics/stale-data",
+    "https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay",
+    "https://www.reforge.com/artifacts/c/team-operations/decision-log",
+    "https://www.businesswire.com/news/home/20220511005403/en/Over-80-Percent-of-Companies-Rely-on-Stale-Data-for-Decision-Making",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC11025262/",
+    "https://team400.ai/blog/2026-07-power-bi-data-refresh"
    ],
    "engines": [
     "ddgs:google",
@@ -510,43 +530,24 @@
    "n_hits": 15
   },
   {
-   "query": "research decision log revisit conditions stale data refresh criteria",
-   "results": [
-    "https://monday.com/blog/project-management/decision-log/",
-    "https://bigid.com/blog/stale-data-meaning/",
-    "https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions",
-    "https://www.metaplane.dev/blog/stale-data-leads-to-bad-business-decisions",
-    "https://www.ibm.com/think/topics/stale-data",
-    "https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay",
-    "https://scispace.com/agents/decision-log-template-fcjojbou",
-    "https://www.projectmanagertemplate.com/post/decision-logs-the-ultimate-guide",
-    "https://www.projectmanager.com/blog/project-decision-log",
-    "https://smartstatistics.co.uk/power-bi-refresh-timestamp-build-a-stale-data-warning/"
-   ],
-   "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
-   ],
-   "n_hits": 15
-  },
-  {
    "query": "site:note.com 調査の判断台帳と再調査条件（見直し期限・取り直しの基準）",
    "results": [
+    "https://note.com/egashi_aiwork/n/nc8df49e96910",
+    "https://note.com/shunsuke_ai/n/n30adef79361f",
+    "https://note.com/bright_hound7065/n/n7d281441c517",
     "https://note.com/minahoken/n/n5512b9076f3e",
     "https://note.com/shijochosa_labo/n/n2ddb4ff574a3",
     "https://note.com/tsunobuchi/n/n037e5cd3ee54",
     "https://note.com/aoyamacpa/n/n61ae30204e43",
-    "https://note.com/revoyasukawa/n/n41e66da376fc",
     "https://note.com/nikki_r2d2/n/ne2507672f58b",
-    "https://note.com/gtminami/n/n11b7ec48a970",
-    "https://note.com/cpsus16/n/neb8be93dc715",
-    "https://note.com/ip_genesis/n/n3491babc8234",
-    "https://note.com/wish11_11/n/n19742c05705d"
+    "https://note.com/revoyasukawa/n/n41e66da376fc",
+    "https://note.com/cpsus16/n/neb8be93dc715"
    ],
    "engines": [
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 10
+   "n_hits": 17
   },
   {
    "query": "site:x.com 調査の判断台帳と再調査条件（見直し期限・取り直しの基準）",
@@ -559,31 +560,31 @@
     "https://x.com/MakeAI_CEO/status/2084991158426755538",
     "https://x.com/ai_ai_ailover/status/2076515159581794584",
     "https://x.com/connect24h/article/2075574834902470839",
-    "https://x.com/LWYRUPDAI/status/1905509423172489470",
+    "https://x.com/jaicofficial/status/2106882328018714747",
     "https://x.com/wakukoete/status/2115205650003136525"
    ],
    "engines": [
     "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 15
   },
   {
    "query": "site:linkedin.com 調査の判断台帳と再調査条件（見直し期限・取り直しの基準）",
    "results": [
     "https://jp.linkedin.com/posts/hiroki-ebuchi_%E5%A4%B1%E6%95%97%E3%81%97%E3%81%9F%E8%87%AA%E5%8B%95%E5%87%A6%E7%90%86%E3%82%92%E5%AE%89%E5%85%A8%E3%81%AB%E5%86%8D%E9%96%8B%E3%81%99%E3%82%8B%E5%86%AA%E7%AD%89%E6%80%A7%E3%82%AD%E3%83%BC%E3%81%A8%E5%AE%9F%E8%A1%8C%E5%8F%B0%E5%B8%B3%E3%81%AE%E8%A8%AD%E8%A8%88-activity-7522554286472560640-mR5U",
     "https://jp.linkedin.com/pulse/how-forensic-investigators-follow-money-crypto-bankruptcies-rob-loh-01hme?tl=ja",
+    "https://jp.linkedin.com/pulse/year-ai-gets-audited-neha-kedia-iva1c?tl=ja",
     "https://jp.linkedin.com/pulse/ai-vc-playbook-keith-yuki-isobe-8suac",
-    "https://jp.linkedin.com/pulse/maximum-fidelity-how-four-indicator-types-strengthen-board-thomas-yzjte?tl=ja",
-    "https://jp.linkedin.com/in/shusei-maeda-8109a84a",
+    "https://www.linkedin.com/in/mio-burdick-16784568",
     "https://jp.linkedin.com/pulse/agents-use-cards-first-stablecoins-simon-taylor--8bnhe?tl=ja",
+    "https://jp.linkedin.com/in/shusei-maeda-8109a84a",
     "https://jp.linkedin.com/pulse/five-ways-your-finance-team-can-actually-use-ai-right-rob-steele-5hwye?tl=ja",
-    "https://jp.linkedin.com/pulse/evidence-your-second-line-reading-written-first-roni-van-der-fehr-qqgxc?tl=ja",
     "https://jp.linkedin.com/pulse/ai-rediscovering-management-hard-way-andrew-savikas-bqchc?tl=ja",
-    "https://jp.linkedin.com/pulse/organizational-antibodies-why-good-ideas-stall-alexander-korenevski-kj7de?tl=ja"
+    "https://jp.linkedin.com/pulse/maximum-fidelity-how-four-indicator-types-strengthen-board-thomas-yzjte?tl=ja"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -592,15 +593,15 @@
    "query": "site:facebook.com 調査の判断台帳と再調査条件（見直し期限・取り直しの基準）",
    "results": [
     "https://www.facebook.com/growthpartners0711/photos/1514200263845086/",
+    "https://www.facebook.com/sammy.au.54/posts/s-au-ett-series-no-26f-structured-tree-management-ett-%E7%B3%BB%E5%88%97%E7%AC%AC-26f%E7%AF%87-%E7%B5%90%E6%A7%8B%E5%8C%96%E6%A8%B9%E6%9C%A8%E7%AE%A1%E7%90%86-ett%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E7%AC%AC-/10244025180274131/",
     "https://www.facebook.com/100015175352703/posts/%E7%B7%8F%E5%90%88%E5%AD%A6%E8%A1%93%E7%A0%94%E7%A9%B6%E6%A7%8B%E6%83%B3-%E6%B1%A0%E7%94%B0%E9%9B%85%E5%85%89%E5%AD%A6%E3%81%AB%E3%82%88%E3%82%8B%E4%B8%96%E7%95%8C%E6%96%87%E6%98%8E%E7%BE%8E%E5%AD%A6%E3%81%A8-%E7%BE%8E%E3%81%AE%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E6%A7%8B%E7%AF%89%E4%BA%8B%E6%A5%AD-%E5%AE%A4%E7%94%BA%E6%96%87%E5%8C%96%E6%9D%B1%E5%B1%B1%E6%96%87%E5%8C%96%E3%82%92%E8%B5%B7%E7%82%B9%E3%81%A8%E3%81%99%E3%82%8B%E6%96%87%E5%8C%96%E8%B2%A1%E4%BF%9D%E5%AD%98%E6%B4%BB%E7%94%A8%E5%86%8D%E5%89%B5%E9%80%A0%E4%B8%96%E7%95%8C%E9%81%BA%E7%94%A3%E4%BE%A1%E5%80%A4%E3%81%AE%E6%9C%AA%E6%9D%A5%E7%9A%84%E5%B1%95%E9%96%8B-%E7%A0%94%E7%A9%B6%E6%A7%8B/2726882381160914/",
     "https://www.facebook.com/chinaarbor/",
     "https://www.facebook.com/amelajapan/posts/-php%E3%82%92%E6%9B%B4%E6%96%B0%E3%81%97%E3%81%9F%E3%81%9D%E3%82%8C%E3%81%A0%E3%81%91%E3%81%A7%E6%9C%AC%E5%BD%93%E3%81%AB%E5%AE%89%E5%85%A8%E3%81%A8%E8%A8%80%E3%81%88%E3%82%8B%E3%81%AE%E3%81%8B%E8%84%86%E5%BC%B1%E6%80%A7%E3%81%AE%E4%BF%AE%E6%AD%A3%E7%89%88%E3%82%92%E9%81%A9%E7%94%A8%E3%81%97%E3%81%9F%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%82%E7%A2%BA%E8%AA%8D%E3%81%97%E3%81%9F%E3%81%9D%E3%82%8C%E3%81%A7%E6%9C%AC%E5%BD%93%E3%81%AB%E5%AF%BE%E5%BF%9C%E3%81%AF%E5%AE%8C%E4%BA%86%E3%81%A7%E3%81%97%E3%82%87%E3%81%86%E3%81%8B2026%E5%B9%B410%E6%9C%8821%E6%97%A5php%E3%81%A72%E3%81%A4/122312528408220139/",
     "https://www.facebook.com/YoshikawaYuzo.kouenkai/posts/%E4%BB%8A%E9%80%B1%E3%81%8B%E3%82%89%E5%89%8D%E9%80%B1%E3%81%AE%E8%87%AA%E6%B2%BB%E4%BD%93%E8%A1%8C%E6%94%BF%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E4%BA%8B%E9%A0%85%E3%82%92%E6%9C%88%E6%9B%9C%E6%97%A5%E3%81%AB%E5%82%99%E5%BF%98%E9%8C%B2%E3%81%AE%E3%81%9F%E3%82%81%E6%8A%95%E7%A8%BF%E3%81%97%E3%81%BE%E3%81%99%E8%87%AA%E6%B2%BB%E4%BD%93%E8%A1%8C%E6%94%BF%E9%80%B1%E5%88%8A%E3%83%96%E3%83%AA%E3%83%BC%E3%83%95%E5%AF%BE%E8%B1%A12026%E5%B9%B49%E6%9C%8828%E6%97%A510%E6%9C%884%E6%97%A5%E4%BB%8A%E9%80%B1%E3%81%AE%E7%B5%90%E8%AB%96%E6%9C%80%E5%84%AA%E5%85%88%E3%81%AF10%E6%9C%881%E6%97%A5%E3%81%AB%E6%96%BD%E8%A1%8C%E3%81%95/1526793436143352/",
     "https://www.facebook.com/amelajapan/posts/%E8%A6%8B%E3%82%8B%E3%81%A0%E3%81%91%E3%81%A0%E3%81%A3%E3%81%9F%E7%94%BB%E5%83%8F%E3%82%92%E6%A5%AD%E5%8B%99%E3%81%A7%E6%B4%BB%E3%81%8B%E3%81%9B%E3%82%8B%E6%83%85%E5%A0%B1%E3%81%B8%E4%BC%81%E6%A5%AD%E3%81%AE%E6%97%A5%E3%80%85%E3%81%AE%E6%A5%AD%E5%8B%99%E3%81%AB%E3%81%AF%E3%81%95%E3%81%BE%E3%81%96%E3%81%BE%E3%81%AA%E7%94%BB%E5%83%8F%E6%83%85%E5%A0%B1%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E4%BE%8B%E3%81%88%E3%81%B0%E8%AB%8B%E6%B1%82%E6%9B%B8%E3%82%84%E7%94%B3%E8%AB%8B%E6%9B%B8%E5%95%86%E5%93%81%E5%86%99%E7%9C%9Fweb%E7%94%BB%E9%9D%A2%E3%81%AE%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%E8%A8%AD%E5%82%99%E3%81%AE%E5%86%99%E7%9C%9F%E6%A4%9C%E6%9F%BB/122304199778220139/",
     "https://www.facebook.com/100063584305362/?locale=ru_RU",
-    "https://www.facebook.com/100015175352703/posts/%E7%B7%8F%E5%90%88%E5%AD%A6%E8%A1%93%E7%A0%94%E7%A9%B6%E6%A7%8B%E6%83%B3%E6%B1%A0%E7%94%B0%E9%9B%85%E5%85%89%E5%AD%A6%E3%81%AB%E3%82%88%E3%82%8B%E4%B8%96%E7%95%8C%E6%96%87%E6%98%8E%E7%BE%8E%E5%AD%A6%E3%81%A8%E7%BE%8E%E3%81%AE%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E6%A7%8B%E7%AF%89%E4%BA%8B%E6%A5%AD%E5%AE%A4%E7%94%BA%E6%96%87%E5%8C%96%E6%9D%B1%E5%B1%B1%E6%96%87%E5%8C%96%E3%82%92%E8%B5%B7%E7%82%B9%E3%81%A8%E3%81%99%E3%82%8B%E6%96%87%E5%8C%96%E8%B2%A1%E4%BF%9D%E5%AD%98%E6%B4%BB%E7%94%A8%E5%86%8D%E5%89%B5%E9%80%A0%E4%B8%96%E7%95%8C%E9%81%BA%E7%94%A3%E4%BE%A1%E5%80%A4%E3%81%AE%E6%9C%AA%E6%9D%A5%E7%9A%84%E5%B1%95%E9%96%8B%E7%A0%94%E7%A9%B6%E6%A7%8B%E6%83%B3%E6%9B%B8%E7%B5%B1%E5%90%88/2726882074494278/",
-    "https://www.facebook.com/groups/627324771859424/posts/1570994957492396/",
-    "https://www.facebook.com/sammy.au.54/posts/s-au-ett-series-no-26f-structured-tree-management-ett-%E7%B3%BB%E5%88%97%E7%AC%AC-26f%E7%AF%87-%E7%B5%90%E6%A7%8B%E5%8C%96%E6%A8%B9%E6%9C%A8%E7%AE%A1%E7%90%86-ett%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E7%AC%AC-/10244025180274131/"
+    "https://www.facebook.com/100015175352703/posts/%E7%B7%8F%E5%90%88%E5%AD%A6%E8%A1%93%E7%A0%94%E7%A9%B6%E6%A7%8B%E6%83%B3%E6%B1%A0%E7%94%B0%E9%9B%85%E5%85%89%E5%AD%A6%E3%81%AB%E3%82%88%E3%82%8B%E4%B8%96%E7%95%8C%E6%96%87%E6%98%8E%E7%BE%8E%E5%AD%A6%E3%81%A8%E7%BE%8E%E3%81%AE%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E6%A7%8B%E7%AF%89%E4%BA%8B%E6%A5%AD%E5%AE%A4%E7%94%BA%E6%96%87%E5%8C%96%E6%9D%B1%E5%B1%B1%E6%96%87%E5%8C%96%E3%82%92%E8%B5%B7%E7%82%B9%E3%81%A8%E3%81%99%E3%82%8B%E6%96%87%E5%8C%96%E8%B2%A1%E4%BF%9D%E5%AD%98%E6%B4%BB%E7%94%A8%E5%86%8D%E5%89%B5%E9%80%A0%E4%B8%96%E7%95%8C%E9%81%BA%E7%94%A3%E4%BE%A1%E5%80%A4%E3%81%AE%E6%9C%AA%E6%9D%A5%E7%9A%84%E5%B1%95%E9%96%8B%E7%A0%94%E7%A9%B6%E6%A7%8B%E6%83%B3%E6%9B%B8%E7%B5%B1%E5%90%88/2726881887827630/",
+    "https://www.facebook.com/groups/627324771859424/posts/1570994957492396/"
    ],
    "engines": [
     "ddgs:google",
@@ -611,16 +612,16 @@
   {
    "query": "調査の判断台帳と再調査条件（見直し期限・取り直しの基準） note 社長",
    "results": [
+    "https://note.com/egashi_aiwork/n/nc8df49e96910",
     "https://note.com/shikaku_toruzo/n/nafaeeb41d877",
-    "https://note.com/tsunobuchi/n/n9ffadb8c6a93",
     "https://dprofessions.co.jp/%E5%BC%81%E8%AD%B7%E5%A3%AB/%E7%A8%8E%E5%8B%99%E8%A8%B4%E8%A8%9F/%E6%9B%B4%E6%AD%A3%E5%87%A6%E5%88%86/%E5%86%8D%E8%AA%BF%E6%9F%BB%E3%81%AE%E8%AB%8B%E6%B1%82%E3%81%A8%E5%AF%A9%E6%9F%BB%E8%AB%8B%E6%B1%82%E3%81%AE%E3%81%A9%E3%81%A1%E3%82%89%E3%82%92%E9%81%B8%E3%81%B6%E3%81%B9%E3%81%8D%E3%81%8B/",
     "https://www.nta.go.jp/law/tsutatsu/kihon/igi/01_02/01_02.htm",
-    "https://note.com/tsunobuchi/n/n037e5cd3ee54",
+    "https://note.com/tsunobuchi/n/n9ffadb8c6a93",
     "https://gns-tax.or.jp/media/tax-investigation-re-examination/",
-    "https://nakamitsu-blog.site/category15/entry126.html",
-    "https://www.kfs.go.jp/system/relation.html",
-    "https://debono.co.jp/media/ai-usecase/soil-sampling-field-note-ocr/",
-    "https://note.com/ip_genesis/n/n3491babc8234"
+    "https://note.com/ai0615/n/nd46e70c68e53",
+    "https://q-one.jp/group-ta/lp/zeimu/column/real/1764/",
+    "https://tax-front.jp/column/column-42552/",
+    "https://note.com/magic_ai7978/n/n958a56fe11e6"
    ],
    "engines": [
     "ddgs:bing",
@@ -631,19 +632,19 @@
   {
    "query": "調査の判断台帳と再調査条件（見直し期限・取り直しの基準） X 投稿",
    "results": [
+    "https://note.com/egashi_aiwork/n/nc8df49e96910",
     "https://communitynotes.x.com/guide/ja/contributing/additional-review",
     "https://www.dreamnews.jp/press/0000363647",
     "https://qiita.com/akira_papa_AI/items/0ccb9e12dbd58fd0a5a8",
+    "https://www.contracts.co.jp/useful/21951/",
     "https://cyberarts.tokyo/archives/8669",
     "https://www.ppc.go.jp/personalinfo/faq/APPI_QA/",
-    "https://www.authense.jp/defamation/column/disclosure-request/28/",
-    "https://nexa-corp.jp/exa-agent-ultra-business/",
-    "https://www.kalanchoe-law.com/post/%E7%99%BA%E4%BF%A1%E8%80%85%E6%83%85%E5%A0%B1%E9%96%8B%E7%A4%BA%E8%AB%8B%E6%B1%82%E3%81%AE%E6%89%8B%E9%A0%86%EF%BC%88twitter%E3%81%AE%E5%A0%B4%E5%90%88%EF%BC%89",
+    "https://dprofessions.co.jp/%E5%BC%81%E8%AD%B7%E5%A3%AB/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/%E9%9B%BB%E5%AD%90%E8%A8%BC%E6%8B%A0/SNS%E4%B8%8A%E3%81%AE%E6%8A%95%E7%A8%BF%E3%82%92%E8%A8%BC%E6%8B%A0%E3%81%A8%E3%81%97%E3%81%A6%E7%A2%BA%E4%BF%9D%E3%81%99%E3%82%8B%E6%89%8B%E9%A0%86%E3%81%A8%E3%83%84%E3%83%BC%E3%83%AB/",
     "https://manabinoba.blog/grok-x-research-report/",
     "https://www.aicjp.ai/column-ai-work-20261015"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 15
@@ -654,13 +655,13 @@
     "https://www.linkedin.com/top-content/change-management/real-time-change-management-updates/real-time-decision-making-processes/",
     "https://www.linkedin.com/pulse/decision-layer-where-ai-becomes-enterprise-valueor-risk-nyiri-y3kyf",
     "https://www.linkedin.com/pulse/prd-isnt-dead-just-changed-jobs-sachin-sharma-mzrqc",
-    "https://www.linkedin.com/posts/benjamin-aaron-reed_saas-founders-and-revops-teams-heres-how-activity-7514531082512560128-Uens",
     "https://www.linkedin.com/posts/shahidqaisrani_%F0%9D%97%94%F0%9D%97%BB-%F0%9D%97%B6%F0%9D%98%80%F0%9D%98%80%F0%9D%98%82%F0%9D%97%B2-%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%AE%F0%9D%98%81-%F0%9D%97%BB%F0%9D%97%B2%F0%9D%98%83%F0%9D%97%B2%F0%9D%97%BF-%F0%9D%97%B2%F0%9D%98%80%F0%9D%97%B0%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B2%F0%9D%98%80-activity-7485690657647403008-gvDx",
-    "https://www.linkedin.com/top-content/business-strategy/intelligent-business-decisions/real-time-decision-making-for-founders/",
     "https://www.linkedin.com/in/swaminathansivasubramanian",
+    "https://www.linkedin.com/top-content/business-strategy/intelligent-business-decisions/real-time-decision-making-for-founders/",
     "https://www.linkedin.com/posts/david-cantrick-brooks_how-often-should-boards-review-their-policies-activity-7512062822286114816-SdD7",
-    "https://www.linkedin.com/posts/bianca-brijnath_ethnically-inclusionscience-equity-activity-7518968223950692352-hXJP",
-    "https://www.linkedin.com/top-content/leadership/strategic-decision-making/executive-buying-team-decision-making-process/"
+    "https://www.linkedin.com/in/iqbal-hossain-phd-9578649",
+    "https://www.linkedin.com/in/ravenbrothers",
+    "https://www.linkedin.com/in/shashirshankar"
    ],
    "engines": [
     "ddgs:google",
@@ -673,6 +674,6 @@
   "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 23,
+ "runs": 24,
  "first_researched_at": "2026-11-05T06:55:09.007957+00:00"
 }

@@ -2942,8 +2942,8 @@
   - 「TAM, SAM, and SOM: Definitions, Formulas, and Examples」（https://bizminer.com/revenue-per-employee-benchmarks/）
 - 検索結果の抜粋：
   - 「Revenue Per Employee Benchmarks : 2026 Ranges by Industry — Revenue Per Employee Benchmarks : 2026 Ranges by Industry Bizminer https://bizminer.com > revenue-per-e...」（https://bizminer.com/revenue-per-employee-benchmarks/）
-- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ12頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 
 ## 出どころと取り方を分ける証拠の記録（Altss OSINT 検証基準・ICD 203）（OSINT evidence provenance origin vs collection method ICD 203 likelihood language）
 - 文脈：突き合わせ
@@ -4444,7 +4444,7 @@
 - 実例：
   - 「Worked example: a commercial HVAC company」（https://nodior.com/private-company-revenue-estimation）
   - 「The example is a commercial HVAC contractor serving two counties in one metro area, with service contracts, repairs and equipment replacement.」（https://nodior.com/private-company-revenue-estimation）
-- 失敗・落とし穴：記載なし（読んだ27頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
 
 ## 統計の系列の末端と改訂（速報の値がのちに動く・リアルタイムの推計と事後の推計の差）の扱い方（real-time data revision end-point problem trend estimate statistics）
 - 文脈：点検
@@ -8196,7 +8196,7 @@
   - 「を用いた特許情報調査の実例について紹介した」（https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf）
   - 「6.1年前に既に公開されているという驚くべき結果が」（https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf）
   - 「しかし，審査の結果，特許が付与されたの」（https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf）
-- 突き合わせ・推定：記載なし（読んだ20頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ19頁・検索12回）
 
 ## 調べる仕様と実行の記録の照合（PRISMA-S・検索の記録・採否の基準を設定ファイルに固定する実務）（PRISMA-S search reporting log reproducible search protocol）
 - 文脈：手法・突き合わせ
@@ -14133,11 +14133,11 @@
 
 ## 補正・ウェイト調整で偏りが減ったという主張の確かめ方（補正前後の値を並べる・基準となる外部の値との比較・数字の無い宣言を信じない）と、デスクリサーチの手順を書く調査会社のコラム（crexgroup の調査手法コラムなど）（verifying claims that weighting reduced nonresponse bias benchmark comparison desk research guide）
 - 文脈：突き合わせ
-- 手順・やり方：記載なし（読んだ24頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
-- 実例：記載なし（読んだ24頁・検索12回）
+- 手順・やり方：記載なし（読んだ23頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
+- 実例：記載なし（読んだ23頁・検索12回）
 
 ## 統計を自分で加工して読む製造業の実務家の連載（基準年=100の指数化・規模別の分解・退出による平均の上がり・本文の丸め語と表の値の差）（practitioner columns re-analysing manufacturing statistics index base year survivorship）
 - 文脈：統計の読み方
@@ -16073,11 +16073,11 @@
 
 ## 生き残りの偏りの見つけ方と直し方（退出・倒産・上場廃止した先を含める・時点の名簿・偏りの大きさの測り方）（survivorship bias detection correction point-in-time universe delisted firms）
 - 文脈：突き合わせ
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ24頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
+- 実例：記載なし（読んだ24頁・検索12回）
 
 ## 二国間の貿易統計の食い違いの分析手順（UN Comtrade・ミラー統計・CIF/FOB・再輸出・数量と単価の点検）（bilateral trade asymmetry analysis guidelines UN Comtrade mirror statistics）
 - 文脈：突き合わせ

@@ -1,0 +1,1292 @@
+{
+ "name": "奈良工業高等専門学校",
+ "aliases": [],
+ "context": "PBF=unknown 装置= 出典=https://www.nara-k.ac.jp/institution/venture_factory/equipments/",
+ "researched_at": "2026-11-10T22:05:03.118826+00:00",
+ "official_url": "https://www.nara-k.ac.jp/",
+ "identified_by": "search:yahoo_jp:奈良工業高等専門学校",
+ "profile": {
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "酸素・窒素・アルゴン等各種産業ガス、LP ガス、医療用ガス、特殊ガスの製造・販売及び溶",
+    "url": "https://nsc.jp.nipponsanso.com/LinkClick.aspx?fileticket=bwjbqlrR9fw%3D",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "高等専門学校・高等教育機関",
+    "url": "https://nsc.jp.nipponsanso.com/LinkClick.aspx?fileticket=bwjbqlrR9fw%3D",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上収益",
+    "value": "4,204 億円※",
+    "url": "https://nsc.jp.nipponsanso.com/LinkClick.aspx?fileticket=bwjbqlrR9fw%3D",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：1964年4月1日",
+    "url": "https://www.marubeni-idigio.com/insight-hub/narakousen-studiosystem2/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "用途・客の産業": [
+   {
+    "quote": "奈良県主催 環境にやさしいエネルギー学習イベントに山田研究室が参加しました",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/post_344.html",
+    "pass": 1
+   },
+   {
+    "quote": "奈良県主催『脱炭素を実現する夢の水素エネルギー』イベントに山田ラボが参加しました",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/post_344.html",
+    "pass": 1
+   },
+   {
+    "quote": "奈良県主催『脱炭素を実現する夢の水素エネルギー』イベントに山田ラボ参加！",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/post_344.html",
+    "pass": 1
+   },
+   {
+    "quote": "『脱炭素を実現する夢の水素エネルギー』イベントで科学教室を実施しました",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/post_344.html",
+    "pass": 1
+   },
+   {
+    "quote": "未来の科学者・技術者たちへ エネルギー教室を開講！",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/post_344.html",
+    "pass": 1
+   },
+   {
+    "quote": "『医療現場に必要な工学の知識と技術、そして考え方』と題し、特別講演会が行われました",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/post_344.html",
+    "pass": 1
+   },
+   {
+    "quote": "GEAR奈良高専メンバーが学生と「次世代エネルギー（水素）啓発活動」で参加！！",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/post_344.html",
+    "pass": 1
+   },
+   {
+    "quote": "奈良県主催 環境にやさしいエネルギー学習イベントに山田研究室が参加しました",
+    "url": "https://www.nara-k.ac.jp/cooperation/innovation/info/",
+    "pass": 1
+   },
+   {
+    "quote": "奈良県主催『脱炭素を実現する夢の水素エネルギー』イベントに山田ラボが参加しました",
+    "url": "https://www.nara-k.ac.jp/cooperation/innovation/info/",
+    "pass": 1
+   },
+   {
+    "quote": "奈良県主催『脱炭素を実現する夢の水素エネルギー』イベントに山田ラボ参加！",
+    "url": "https://www.nara-k.ac.jp/cooperation/innovation/info/",
+    "pass": 1
+   },
+   {
+    "quote": "『脱炭素を実現する夢の水素エネルギー』イベントで科学教室を実施しました",
+    "url": "https://www.nara-k.ac.jp/cooperation/innovation/info/",
+    "pass": 1
+   },
+   {
+    "quote": "未来の科学者・技術者たちへ エネルギー教室を開講！",
+    "url": "https://www.nara-k.ac.jp/cooperation/innovation/info/",
+    "pass": 1
+   },
+   {
+    "quote": "『医療現場に必要な工学の知識と技術、そして考え方』と題し、特別講演会が行われました",
+    "url": "https://www.nara-k.ac.jp/cooperation/innovation/info/",
+    "pass": 1
+   },
+   {
+    "quote": "GEAR奈良高専メンバーが学生と「次世代エネルギー（水素）啓発活動」で参加！！",
+    "url": "https://www.nara-k.ac.jp/cooperation/innovation/info/",
+    "pass": 1
+   },
+   {
+    "quote": "奈良県主催 環境にやさしいエネルギー学習イベントに山田研究室が参加しました",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/",
+    "pass": 1
+   },
+   {
+    "quote": "奈良県主催『脱炭素を実現する夢の水素エネルギー』イベントに山田ラボが参加しました",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/",
+    "pass": 1
+   },
+   {
+    "quote": "奈良県主催『脱炭素を実現する夢の水素エネルギー』イベントに山田ラボ参加！",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/",
+    "pass": 1
+   },
+   {
+    "quote": "『脱炭素を実現する夢の水素エネルギー』イベントで科学教室を実施しました",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/",
+    "pass": 1
+   },
+   {
+    "quote": "未来の科学者・技術者たちへ エネルギー教室を開講！",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/",
+    "pass": 1
+   },
+   {
+    "quote": "『医療現場に必要な工学の知識と技術、そして考え方』と題し、特別講演会が行われました",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/",
+    "pass": 1
+   },
+   {
+    "quote": "GEAR奈良高専メンバーが学生と「次世代エネルギー（水素）啓発活動」で参加！！",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/",
+    "pass": 1
+   },
+   {
+    "quote": "奈良県主催 環境にやさしいエネルギー学習イベントに山田研究室が参加しました",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/_6_in_2023.html",
+    "pass": 1
+   },
+   {
+    "quote": "奈良県主催『脱炭素を実現する夢の水素エネルギー』イベントに山田ラボが参加しました",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/_6_in_2023.html",
+    "pass": 1
+   },
+   {
+    "quote": "奈良県主催『脱炭素を実現する夢の水素エネルギー』イベントに山田ラボ参加！",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/_6_in_2023.html",
+    "pass": 1
+   },
+   {
+    "quote": "『脱炭素を実現する夢の水素エネルギー』イベントで科学教室を実施しました",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/_6_in_2023.html",
+    "pass": 1
+   },
+   {
+    "quote": "未来の科学者・技術者たちへ エネルギー教室を開講！",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/_6_in_2023.html",
+    "pass": 1
+   },
+   {
+    "quote": "『医療現場に必要な工学の知識と技術、そして考え方』と題し、特別講演会が行われました",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/_6_in_2023.html",
+    "pass": 1
+   },
+   {
+    "quote": "GEAR奈良高専メンバーが学生と「次世代エネルギー（水素）啓発活動」で参加！！",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/_6_in_2023.html",
+    "pass": 1
+   },
+   {
+    "quote": "奈良県主催 環境にやさしいエネルギー学習イベントに山田研究室が参加しました",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/_5_in_2022.html",
+    "pass": 1
+   },
+   {
+    "quote": "奈良県主催『脱炭素を実現する夢の水素エネルギー』イベントに山田ラボが参加しました",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/_5_in_2022.html",
+    "pass": 1
+   },
+   {
+    "quote": "奈良県主催『脱炭素を実現する夢の水素エネルギー』イベントに山田ラボ参加！",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/_5_in_2022.html",
+    "pass": 1
+   },
+   {
+    "quote": "『脱炭素を実現する夢の水素エネルギー』イベントで科学教室を実施しました",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/_5_in_2022.html",
+    "pass": 1
+   },
+   {
+    "quote": "未来の科学者・技術者たちへ エネルギー教室を開講！",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/_5_in_2022.html",
+    "pass": 1
+   },
+   {
+    "quote": "『医療現場に必要な工学の知識と技術、そして考え方』と題し、特別講演会が行われました",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/_5_in_2022.html",
+    "pass": 1
+   },
+   {
+    "quote": "GEAR奈良高専メンバーが学生と「次世代エネルギー（水素）啓発活動」で参加！！",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/_5_in_2022.html",
+    "pass": 1
+   },
+   {
+    "quote": "奈良県主催 環境にやさしいエネルギー学習イベントに山田研究室が参加しました",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/fukushikiki20190921.html",
+    "pass": 1
+   },
+   {
+    "quote": "奈良県主催『脱炭素を実現する夢の水素エネルギー』イベントに山田ラボが参加しました",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/fukushikiki20190921.html",
+    "pass": 1
+   },
+   {
+    "quote": "奈良県主催『脱炭素を実現する夢の水素エネルギー』イベントに山田ラボ参加！",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/fukushikiki20190921.html",
+    "pass": 1
+   },
+   {
+    "quote": "『脱炭素を実現する夢の水素エネルギー』イベントで科学教室を実施しました",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/fukushikiki20190921.html",
+    "pass": 1
+   },
+   {
+    "quote": "未来の科学者・技術者たちへ エネルギー教室を開講！",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/fukushikiki20190921.html",
+    "pass": 1
+   },
+   {
+    "quote": "『医療現場に必要な工学の知識と技術、そして考え方』と題し、特別講演会が行われました",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/fukushikiki20190921.html",
+    "pass": 1
+   },
+   {
+    "quote": "GEAR奈良高専メンバーが学生と「次世代エネルギー（水素）啓発活動」で参加！！",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/fukushikiki20190921.html",
+    "pass": 1
+   },
+   {
+    "quote": "奈良県主催 環境にやさしいエネルギー学習イベントに山田研究室が参加しました",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/_2018.html",
+    "pass": 1
+   },
+   {
+    "quote": "奈良県主催『脱炭素を実現する夢の水素エネルギー』イベントに山田ラボが参加しました",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/_2018.html",
+    "pass": 1
+   },
+   {
+    "quote": "奈良県主催『脱炭素を実現する夢の水素エネルギー』イベントに山田ラボ参加！",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/_2018.html",
+    "pass": 1
+   },
+   {
+    "quote": "『脱炭素を実現する夢の水素エネルギー』イベントで科学教室を実施しました",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/_2018.html",
+    "pass": 1
+   },
+   {
+    "quote": "未来の科学者・技術者たちへ エネルギー教室を開講！",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/_2018.html",
+    "pass": 1
+   },
+   {
+    "quote": "『医療現場に必要な工学の知識と技術、そして考え方』と題し、特別講演会が行われました",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/_2018.html",
+    "pass": 1
+   },
+   {
+    "quote": "GEAR奈良高専メンバーが学生と「次世代エネルギー（水素）啓発活動」で参加！！",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/_2018.html",
+    "pass": 1
+   },
+   {
+    "quote": "奈良県主催 環境にやさしいエネルギー学習イベントに山田研究室が参加しました",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/2018fukushikikiten.html",
+    "pass": 1
+   },
+   {
+    "quote": "奈良県主催『脱炭素を実現する夢の水素エネルギー』イベントに山田ラボが参加しました",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/2018fukushikikiten.html",
+    "pass": 1
+   },
+   {
+    "quote": "奈良県主催『脱炭素を実現する夢の水素エネルギー』イベントに山田ラボ参加！",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/2018fukushikikiten.html",
+    "pass": 1
+   },
+   {
+    "quote": "『脱炭素を実現する夢の水素エネルギー』イベントで科学教室を実施しました",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/2018fukushikikiten.html",
+    "pass": 1
+   },
+   {
+    "quote": "未来の科学者・技術者たちへ エネルギー教室を開講！",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/2018fukushikikiten.html",
+    "pass": 1
+   },
+   {
+    "quote": "『医療現場に必要な工学の知識と技術、そして考え方』と題し、特別講演会が行われました",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/2018fukushikikiten.html",
+    "pass": 1
+   },
+   {
+    "quote": "GEAR奈良高専メンバーが学生と「次世代エネルギー（水素）啓発活動」で参加！！",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/2018fukushikikiten.html",
+    "pass": 1
+   },
+   {
+    "quote": "奈良県主催 環境にやさしいエネルギー学習イベントに山田研究室が参加しました",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/post_104.html",
+    "pass": 1
+   },
+   {
+    "quote": "奈良県主催『脱炭素を実現する夢の水素エネルギー』イベントに山田ラボが参加しました",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/post_104.html",
+    "pass": 1
+   },
+   {
+    "quote": "奈良県主催『脱炭素を実現する夢の水素エネルギー』イベントに山田ラボ参加！",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/post_104.html",
+    "pass": 1
+   },
+   {
+    "quote": "『脱炭素を実現する夢の水素エネルギー』イベントで科学教室を実施しました",
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/post_104.html",
+    "pass": 1
+   }
+  ],
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "ティブマニュファクチャリング（以下、金属ＡＭ）分野において、自社で保有する溶接プロセ",
+    "url": "https://nsc.jp.nipponsanso.com/LinkClick.aspx?fileticket=bwjbqlrR9fw%3D",
+    "pass": 3
+   },
+   {
+    "quote": "ンター Conflux1 を奈良高専に導入しました",
+    "url": "https://nsc.jp.nipponsanso.com/LinkClick.aspx?fileticket=bwjbqlrR9fw%3D",
+    "pass": 3
+   },
+   {
+    "quote": "今回導入したConflux1 は金属の小型部品を１日で造形",
+    "url": "https://nsc.jp.nipponsanso.com/LinkClick.aspx?fileticket=bwjbqlrR9fw%3D",
+    "pass": 3
+   },
+   {
+    "quote": "導入した３Ｄプリンター",
+    "url": "https://nsc.jp.nipponsanso.com/LinkClick.aspx?fileticket=bwjbqlrR9fw%3D",
+    "pass": 3
+   },
+   {
+    "quote": "○ 基幹的科目についての学力等の調査方法の検討・導入状況 15",
+    "url": "https://www.kosen-k.go.jp/assets/pdf/release/225/H18jigyohokokusho1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 卒業生を含めた学生による授業評価・学校評価の方法の開発の検討・導入状況 16",
+    "url": "https://www.kosen-k.go.jp/assets/pdf/release/225/H18jigyohokokusho1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 人事交流制度等の検討・導入状況 22",
+    "url": "https://www.kosen-k.go.jp/assets/pdf/release/225/H18jigyohokokusho1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "は全高専の人事給与業務を一元化するための、新人事給与システムの導入作業を開始、１２月から",
+    "url": "https://www.kosen-k.go.jp/assets/pdf/release/225/H18jigyohokokusho1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "導入し、教職員の能力向上による業務の効率を高めることとしている",
+    "url": "https://www.kosen-k.go.jp/assets/pdf/release/225/H18jigyohokokusho1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "部委託方式を導入することとし、旅費規則の改正を前提に平成２０年度当初を目途に実施す",
+    "url": "https://www.kosen-k.go.jp/assets/pdf/release/225/H18jigyohokokusho1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "立てるために、学力や実技能力の 調査方法を検討し、その導入を図る",
+    "url": "https://www.kosen-k.go.jp/assets/pdf/release/225/H18jigyohokokusho1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "④ 卒業生を含めた学生による適切な授業評価・学校評価の方法の開発について検討し、その導入を図る",
+    "url": "https://www.kosen-k.go.jp/assets/pdf/release/225/H18jigyohokokusho1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 基幹的科目についての学力等の調査方法の検討・導入状況",
+    "url": "https://www.kosen-k.go.jp/assets/pdf/release/225/H18jigyohokokusho1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "全高専において、ＴＯＥＩＣを活用した授業を導入しており、専攻科の修了要件として、４００",
+    "url": "https://www.kosen-k.go.jp/assets/pdf/release/225/H18jigyohokokusho1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "コンピュータ支援のＣＡＬＬ語学学習システムを導入し、ｅ－ランニングシステムを活用して、",
+    "url": "https://www.kosen-k.go.jp/assets/pdf/release/225/H18jigyohokokusho1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 卒業生を含めた学生による授業評価・学校評価の方法の開発の検討・導入状況",
+    "url": "https://www.kosen-k.go.jp/assets/pdf/release/225/H18jigyohokokusho1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "おいて開発校と具体の導入に向けた検討を開始した",
+    "url": "https://www.kosen-k.go.jp/assets/pdf/release/225/H18jigyohokokusho1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "① 多様な背景を持つ教員組織とするため、中期目標の期間中に、公募制の導入などにより、教授及び助教授に",
+    "url": "https://www.kosen-k.go.jp/assets/pdf/release/225/H18jigyohokokusho1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "との任期を付した人事交流制度等について検討を進め、これらの制度を導入する",
+    "url": "https://www.kosen-k.go.jp/assets/pdf/release/225/H18jigyohokokusho1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "制度の導入について、検討を進める",
+    "url": "https://www.kosen-k.go.jp/assets/pdf/release/225/H18jigyohokokusho1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "きる制度を平成１８年４月から導入し、実施した",
+    "url": "https://www.kosen-k.go.jp/assets/pdf/release/225/H18jigyohokokusho1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "長岡技術科学大学と連携し、統合図書館システムの導入を図るため、 「企画委員会」が主導と",
+    "url": "https://www.kosen-k.go.jp/assets/pdf/release/225/H18jigyohokokusho1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なって説明会の開催や、導入の意向調査を実施して、長岡技術科学大学と導入スケジュールの調",
+    "url": "https://www.kosen-k.go.jp/assets/pdf/release/225/H18jigyohokokusho1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "この結果、平成１８年度には１４校が本システムの導入を行った",
+    "url": "https://www.kosen-k.go.jp/assets/pdf/release/225/H18jigyohokokusho1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、今後も順次導入が図られ、 最終的には４３校が本システムを導入する予定となっている",
+    "url": "https://www.kosen-k.go.jp/assets/pdf/release/225/H18jigyohokokusho1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本システムの導入により、各学校で行われているシステム導入における仕様の作成が不要となり",
+    "url": "https://www.kosen-k.go.jp/assets/pdf/release/225/H18jigyohokokusho1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "高専の人的負担が軽減されるとともに、導入に係る経費が安価になることが期待されている",
+    "url": "https://www.kosen-k.go.jp/assets/pdf/release/225/H18jigyohokokusho1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "③ 設備の更新に当たってはリース制の導入も視野に入れた検討をする",
+    "url": "https://www.kosen-k.go.jp/assets/pdf/release/225/H18jigyohokokusho1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "③ 設備の効率的な整備を推進する手法としてのリース及びレンタル制について、導入の状況を調査するととも",
+    "url": "https://www.kosen-k.go.jp/assets/pdf/release/225/H18jigyohokokusho1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターで変わる教育 - 奈良高専の挑戦",
+    "url": "https://www.marubeni-idigio.com/insight-hub/narakousen-studiosystem2/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター",
+    "url": "https://www.marubeni-idigio.com/insight-hub/narakousen-studiosystem2/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターの登場により、図面から現実への変換が容易になり、複雑なデザインも手軽に実現可能に",
+    "url": "https://www.marubeni-idigio.com/insight-hub/narakousen-studiosystem2/",
+    "pass": 3
+   },
+   {
+    "quote": "「Desktop Metal Studio システム 2」の安全性を高く評価し、発売された2021年にいち早く導入",
+    "url": "https://www.marubeni-idigio.com/insight-hub/narakousen-studiosystem2/",
+    "pass": 3
+   },
+   {
+    "quote": "学生だけでも安全に金属3Dプリンターの運用ができるようにしたい",
+    "url": "https://www.marubeni-idigio.com/insight-hub/narakousen-studiosystem2/",
+    "pass": 3
+   },
+   {
+    "quote": "導入・設置やトラブル対応が業務の負担にならないようにしたい",
+    "url": "https://www.marubeni-idigio.com/insight-hub/narakousen-studiosystem2/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターの導入により、内部での治具製作が実現",
+    "url": "https://www.marubeni-idigio.com/insight-hub/narakousen-studiosystem2/",
+    "pass": 3
+   },
+   {
+    "quote": "有機溶剤を使わない安全な金属3Dプリンター「Desktop Metal Studio システム 2」の選択により、学生による自主的な運用を実現",
+    "url": "https://www.marubeni-idigio.com/insight-hub/narakousen-studiosystem2/",
+    "pass": 3
+   },
+   {
+    "quote": "01[導入の背景]",
+    "url": "https://www.marubeni-idigio.com/insight-hub/narakousen-studiosystem2/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂3Dプリンターが数十台並び、金属3Dプリンター、小型ウォータージェットカッター、金属カッター、大中小の5軸加工機、レーザーマーカー、デジタル刺繍ミシンなど、多種多様な機器が揃っている",
+    "url": "https://www.marubeni-idigio.com/insight-hub/narakousen-studiosystem2/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターは2021年2月に発売された「Desktop Metal Studio システム 2」を同年導入し、アジア初の導入例となった",
+    "url": "https://www.marubeni-idigio.com/insight-hub/narakousen-studiosystem2/",
+    "pass": 3
+   },
+   {
+    "quote": "その他の機器も最先端のものを積極的に導入している",
+    "url": "https://www.marubeni-idigio.com/insight-hub/narakousen-studiosystem2/",
+    "pass": 3
+   },
+   {
+    "quote": "02[導入のポイント]",
+    "url": "https://www.marubeni-idigio.com/insight-hub/narakousen-studiosystem2/",
+    "pass": 3
+   },
+   {
+    "quote": "同校では、従来から樹脂3Dプリンターを多数導入し、授業で使用している",
+    "url": "https://www.marubeni-idigio.com/insight-hub/narakousen-studiosystem2/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂3Dプリンターの教育効果を実感することで、金属3Dプリンターの導入による「デジタルものづくり」教育進展の確信が深まったという",
+    "url": "https://www.marubeni-idigio.com/insight-hub/narakousen-studiosystem2/",
+    "pass": 3
+   },
+   {
+    "quote": "導入にあたって丸紅情報システムズから受けた、設置、試運転、操作指導といったサポートにも満足しているという",
+    "url": "https://www.marubeni-idigio.com/insight-hub/narakousen-studiosystem2/",
+    "pass": 3
+   },
+   {
+    "quote": "導入当初は予期せぬトラブルが多発しましたが、丸紅情報システムズのエンジニアの方々が知見をお持ちで、原因究明と対策を迅速に行ってくれました",
+    "url": "https://www.marubeni-idigio.com/insight-hub/narakousen-studiosystem2/",
+    "pass": 3
+   },
+   {
+    "quote": "学生は、同校が実施している「チャレンジプロジェクト」などの活動を通じて金属3Dプリンターの使用を申請できる",
+    "url": "https://www.marubeni-idigio.com/insight-hub/narakousen-studiosystem2/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂3Dプリンターで検証してから金属3Dプリンターで製作しています」（須田准教授）",
+    "url": "https://www.marubeni-idigio.com/insight-hub/narakousen-studiosystem2/",
+    "pass": 3
+   },
+   {
+    "quote": "「従来は図面を描くことはできても実際に作ってみるのは難しかったのが、金属3Dプリンターのお蔭で実際に作ってすぐに確かめられるようになりました",
+    "url": "https://www.marubeni-idigio.com/insight-hub/narakousen-studiosystem2/",
+    "pass": 3
+   },
+   {
+    "quote": "従来は外部に委託して1か月以上を要していた実験用治具の制作も、金属3Dプリンターで1週間程度に短縮された",
+    "url": "https://www.marubeni-idigio.com/insight-hub/narakousen-studiosystem2/",
+    "pass": 3
+   },
+   {
+    "quote": "それを作るための金型を設計して、金属3Dプリンターで製作したのがこちらです",
+    "url": "https://www.marubeni-idigio.com/insight-hub/narakousen-studiosystem2/",
+    "pass": 3
+   },
+   {
+    "quote": "「金属3Dプリンターで金型を作って樹脂で製作するプロセスを中山君が実現してくれたので、3年生の授業で射出成型用の金型の企画・3Dデザインを課題として出しています」（須田准教授）",
+    "url": "https://www.marubeni-idigio.com/insight-hub/narakousen-studiosystem2/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターは高専という教育機関に非常に合致していると思います」（谷口教授）",
+    "url": "https://www.marubeni-idigio.com/insight-hub/narakousen-studiosystem2/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターは、学生がアイデアをすぐに形にできること、複雑な形状のものが作れること、短納期で試行錯誤しやすいことなどの利点がある",
+    "url": "https://www.marubeni-idigio.com/insight-hub/narakousen-studiosystem2/",
+    "pass": 3
+   },
+   {
+    "quote": "Research / Development",
+    "url": "https://nsc.jp.nipponsanso.com/jp/news/detail.html?itemid=777&dispmid=952",
+    "pass": 3
+   },
+   {
+    "quote": "大陽日酸は、金属３Ｄプリンター等を用いて、さまざまな形状の製品を製造する金属アディティブマニュファクチャリング（以下、金属ＡＭ）分野において、自社で保有する溶接プロセス、ガス精製、熱処理等の産業ガスアプリケーション技術を応用したＡＭソリューションビジネスを展開しております",
+    "url": "https://nsc.jp.nipponsanso.com/jp/news/detail.html?itemid=777&dispmid=952",
+    "pass": 3
+   },
+   {
+    "quote": "共同研究にあたり、大陽日酸の商材の一つである Rapidia社（加）の最新鋭金属３ＤプリンターConflux1を奈良高専に導入しました",
+    "url": "https://nsc.jp.nipponsanso.com/jp/news/detail.html?itemid=777&dispmid=952",
+    "pass": 3
+   },
+   {
+    "quote": "今回導入したConflux1は金属の小型部品を１日で造形できる金属３Ｄプリンターであり、より手軽により短時間で造形可能という特徴を有しています",
+    "url": "https://nsc.jp.nipponsanso.com/jp/news/detail.html?itemid=777&dispmid=952",
+    "pass": 3
+   },
+   {
+    "quote": "導入した３Ｄプリンター",
+    "url": "https://nsc.jp.nipponsanso.com/jp/news/detail.html?itemid=777&dispmid=952",
+    "pass": 3
+   },
+   {
+    "quote": "を導入していたが、2021年度をもって廃止",
+    "url": "https://ja.wikipedia.org/wiki/%E5%A5%88%E8%89%AF%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "株 主：日本酸素ホールディングス株式会社（出資比率100％）",
+    "url": "https://nsc.jp.nipponsanso.com/LinkClick.aspx?fileticket=bwjbqlrR9fw%3D",
+    "pass": 3
+   },
+   {
+    "quote": "４．資本金の状況 2",
+    "url": "https://www.kosen-k.go.jp/assets/pdf/release/225/H18jigyohokokusho1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４．資本金の状況",
+    "url": "https://www.kosen-k.go.jp/assets/pdf/release/225/H18jigyohokokusho1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 ２，７８６億円 （平成１９年４月現在）",
+    "url": "https://www.kosen-k.go.jp/assets/pdf/release/225/H18jigyohokokusho1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "程（646 名）で，一部上場・地元企業や大学・高専等各",
+    "url": "https://www.niad.ac.jp/sub_hyouka/ninsyou/hyoukahou201403/kousen/no6_1_3_nara_k201403.pdf",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "奈良工業高等専門学校 — 奈良工業高等専門学校 奈良工業高等専門学校 https://www.nara-k.ac.jp",
+    "url": "https://www.nara-k.ac.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "奈良工業高等専門学校 アーカイブ - 月刊高専 — 奈良工業高等専門学校 アーカイブ - 月刊高専 月刊高専 https://gekkan-kosen.com > 奈良工業高等専門学校",
+    "url": "https://gekkan-kosen.com/post-kosen/%E5%A5%88%E8%89%AF%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "設備一覧｜ 奈良工業高等専門学校 — 設備一覧｜ 奈良工業高等専門学校 奈良工業高等専門学校 https://www.nara-k.ac.jp > venture_factory > equipments",
+    "url": "https://www.nara-k.ac.jp/institution/venture_factory/equipments/",
+    "pass": 3
+   },
+   {
+    "quote": "奈良工業高等専門学校 - SolidWorks — 奈良工業高等専門学校 - SolidWorks SolidWorks https://www.solidworks.com > ... > SOLIDWORKS",
+    "url": "https://www.solidworks.com/ja/story/Narakousen",
+    "pass": 3
+   },
+   {
+    "quote": "設備 一覧｜ 奈良工業高等専門学校 — 設備 一覧｜ 奈良工業高等専門学校 奈良工業高等専門学校 https://www.nara-k.ac.jp > venture_factory > equipments",
+    "url": "https://www.nara-k.ac.jp/institution/venture_factory/equipments/",
+    "pass": 3
+   },
+   {
+    "quote": "奈良工業高等専門学校 の方々にご訪問いただきました — 奈良工業高等専門学校 の方々にご訪問いただきました 中外炉工業株式会社 https://www.chugai.co.jp > ...",
+    "url": "https://www.chugai.co.jp/8878/",
+    "pass": 3
+   },
+   {
+    "quote": "奈良工業高等専門学校 共通機器管理センター — 奈良工業高等専門学校 共通機器管理センター nit-nara-ia-center.share-ac.jp https://www.nit-nara-ia-center.share-ac.jp > facilities > detail",
+    "url": "https://www.nit-nara-ia-center.share-ac.jp/facilities/detail.php?id=4",
+    "pass": 3
+   },
+   {
+    "quote": "奈良工業高等専門学校 - Wikipedia — 奈良工業高等専門学校 - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 奈良工業高等専門学校",
+    "url": "https://ja.wikipedia.org/wiki/%E5%A5%88%E8%89%AF%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1",
+    "pass": 3
+   },
+   {
+    "quote": "奈良工業高等専門学校 — 奈良工業高等専門学校 niad.ac.jp PDF https://www.niad.ac.jp > no6_1_3_nara_k201403",
+    "url": "https://www.niad.ac.jp/sub_hyouka/ninsyou/hyoukahou201403/kousen/no6_1_3_nara_k201403.pdf",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "高校Q＆A 奈良工業高等専門学校 ｜御所市PTA連絡協議会 - note 高校Q＆A 奈良工業高等専門学校 ｜御所市PTA連絡協議会 - note note https://note.com > 教育・学び > 学び・受験",
+    "url": "https://note.com/gosepta/n/n675e4d1c9a71",
+    "pass": 3
+   },
+   {
+    "quote": "奈良工業高等専門学校 一般推薦枠の面接は100点 - note 奈良工業高等専門学校 一般推薦枠の面接は100点 - note note https://note.com > 教育・学び > 学び・受験",
+    "url": "https://note.com/ao_ai_fukugyo/n/n11ee864fb1d5",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "高校Q＆A 奈良工業高等専門学校｜御所市PTA連絡協議会",
+    "url": "https://note.com/gosepta/n/n675e4d1c9a71",
+    "pass": 3
+   },
+   {
+    "quote": "現在５つのコースありますが、来年度からデジタル社会のニーズに対",
+    "url": "https://note.com/gosepta/n/n675e4d1c9a71",
+    "pass": 3
+   },
+   {
+    "quote": "応し、情報分野の高い専門性を備えた「情報科学科」と、機械・ロボ",
+    "url": "https://note.com/gosepta/n/n675e4d1c9a71",
+    "pass": 3
+   },
+   {
+    "quote": "ティクス・電気電子・化学などの高い専門技術力を備え、かつ最先端",
+    "url": "https://note.com/gosepta/n/n675e4d1c9a71",
+    "pass": 3
+   },
+   {
+    "quote": "の情報・ＡＩ技術を専門分野に活用できる「システムデザイン工学",
+    "url": "https://note.com/gosepta/n/n675e4d1c9a71",
+    "pass": 3
+   },
+   {
+    "quote": "科」、「物質創成化学科」の３つのコースに変わります",
+    "url": "https://note.com/gosepta/n/n675e4d1c9a71",
+    "pass": 3
+   },
+   {
+    "quote": "Q２．学校生活で一番楽しいことは何ですか？",
+    "url": "https://note.com/gosepta/n/n675e4d1c9a71",
+    "pass": 3
+   },
+   {
+    "quote": "まだ決まっていないのですが、大学進学かそのまま就職（エンジニ",
+    "url": "https://note.com/gosepta/n/n675e4d1c9a71",
+    "pass": 3
+   },
+   {
+    "quote": "奈良工業高等専門学校 一般推薦枠の面接は100点／300点満点｜2027年度 志願理由書も100点、推薦書は面接の質問事項の参考資料、卓越エンジニア養成枠に面接はありません｜高校受験 面接研究所｜塾講師の都道府県別分析",
+    "url": "https://note.com/ao_ai_fukugyo/n/n11ee864fb1d5",
+    "pass": 3
+   },
+   {
+    "quote": "奈良工業高等専門学校 一般推薦枠の面接は100点／300点満点｜2027年度 志願理由書も100点、推薦書は面接の質問事項の参考資料、卓越エンジニア養成枠に面接はありません",
+    "url": "https://note.com/ao_ai_fukugyo/n/n11ee864fb1d5",
+    "pass": 3
+   },
+   {
+    "quote": "高校受験 面接研究所｜塾講師の都道府県別分析",
+    "url": "https://note.com/ao_ai_fukugyo/n/n11ee864fb1d5",
+    "pass": 3
+   },
+   {
+    "quote": "奈良工業高等専門学校（奈良県大和郡山市矢田町22番地）の2027（令和9）年度入学者選抜で、面接があるのは推薦選抜の「一般推薦枠」だけです。総合点は300点満点で、内訳は調査書100点、志願理由書100点、面接100点。この数字は令和9年度学生募集要項の本文に、そのまま書かれています。",
+    "url": "https://note.com/ao_ai_fukugyo/n/n11ee864fb1d5",
+    "pass": 3
+   },
+   {
+    "quote": "同じ推薦選抜でも、もう一方の「卓越エンジニア養成枠」に面接はありません。こちらは総合点200点満点で、内訳は調査書100点と志願理由書100点。要項の選抜方法の欄に、面接の項目そのものがありません。学力選抜にも面接はありません。「奈良高専の推薦は面接がある」と一括りにすると、準備する枠を間違えます。",
+    "url": "https://note.com/ao_ai_fukugyo/n/n11ee864fb1d5",
+    "pass": 3
+   },
+   {
+    "quote": "そしてこの学校には、面接の質問がどこから来るかを学校自身が書いている一文があります。推薦書の様式の裏面、記入上の注意の⑵です。「推薦書は面接時の質問事項の参考資料としますので，推薦理由について，具体的に記入してください。」。推薦書は中学校の校長先生が書いて厳封する書類で、受験生は中身を見られません。この記事は、一般推薦枠の面接100点と志願理由書100点の準備だけを扱います。",
+    "url": "https://note.com/ao_ai_fukugyo/n/n11ee864fb1d5",
+    "pass": 3
+   },
+   {
+    "quote": "扱うのは、奈良工業高等専門学校の2027（令和9）年度入学者選抜のうち、推薦選抜「一般推薦枠」の面接と志願理由書です。以下、要項のページは「要項PDF通しp.7（紙面5）」の形で書きます。PDFの通し番号と紙面のノンブルが2ずれているためです。",
+    "url": "https://note.com/ao_ai_fukugyo/n/n11ee864fb1d5",
+    "pass": 3
+   },
+   {
+    "quote": "・一般推薦枠（令和9年1月23日・土）に出願する予定のご家庭",
+    "url": "https://note.com/ao_ai_fukugyo/n/n11ee864fb1d5",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "奈良工業高等専門学校 （奈良高専）（NITNC） - X 奈良工業高等専門学校 （奈良高専）（NITNC） - X X https://x.com > NaraKosen_PR",
+    "url": "https://x.com/NaraKosen_PR",
+    "pass": 3
+   },
+   {
+    "quote": "奈良工業高等専門学校 （奈良高専）（NITNC） - X 奈良工業高等専門学校 （奈良高専）（NITNC） - X X https://x.com > NaraKosen_PR > reposts",
+    "url": "https://x.com/NaraKosen_PR/reposts",
+    "pass": 3
+   },
+   {
+    "quote": "奈良工業高等専門学校 （奈良高専）（NITNC） on X: \"【令和9 ... 奈良工業高等専門学校 （奈良高専）（NITNC） on X: \"【令和9 ... X https://x.com > @NaraKosen_PR",
+    "url": "https://x.com/NaraKosen_PR/status/2089989388877103433",
+    "pass": 3
+   },
+   {
+    "quote": "奈良工業高等専門学校 （奈良高専）（NITNC） on X: \"皆さん ... 奈良工業高等専門学校 （奈良高専）（NITNC） on X: \"皆さん ... X https://x.com > @NaraKosen_PR",
+    "url": "https://x.com/NaraKosen_PR/status/2065003841842712751",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "奈良工業高等専門学校 の社員、場所、同窓生 | LinkedIn 奈良工業高等専門学校 の社員、場所、同窓生 | LinkedIn LinkedIn https://jp.linkedin.com > school > 奈良工業高等専門学校",
+    "url": "https://jp.linkedin.com/school/%E5%A5%88%E8%89%AF%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "Toshio NAKAYAMA - 奈良工業高等専門学校 - 助教 | LinkedIn Toshio NAKAYAMA - 奈良工業高等専門学校 - 助教 | LinkedIn LinkedIn https://jp.linkedin.com > ...",
+    "url": "https://jp.linkedin.com/in/toshio-nakayama-55a196113",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "奈良工業高等専門学校 - Home - Facebook 奈良工業高等専門学校 - Home - Facebook Facebook https://www.facebook.com > ...",
+    "url": "https://www.facebook.com/655909371133138",
+    "pass": 3
+   },
+   {
+    "quote": "奈良工業高等専門学校 - Home | Facebook 奈良工業高等専門学校 - Home | Facebook Facebook https://www.facebook.com > 奈良工業高等専門学校",
+    "url": "https://www.facebook.com/pages/%E5%A5%88%E8%89%AF%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1/114894035207535",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.nara-k.ac.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nara-k.ac.jp/guide/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/post_344.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nara-k.ac.jp/cooperation/innovation/info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/_6_in_2023.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/_5_in_2022.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/fukushikiki20190921.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/_2018.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/2018fukushikikiten.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/post_104.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/2fukushikiki2017.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nara-k.ac.jp/cooperation/sangaku/news/naradaihatsu2017.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nara-k.ac.jp/cooperation/chiikisosei/coc/info/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://nsc.jp.nipponsanso.com/LinkClick.aspx?fileticket=bwjbqlrR9fw%3D",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kosen-k.go.jp/assets/pdf/release/225/H18jigyohokokusho1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.marubeni-idigio.com/insight-hub/narakousen-studiosystem2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nsc.jp.nipponsanso.com/jp/news/detail.html?itemid=777&dispmid=952",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nsc.jp.nipponsanso.com/LinkClick.aspx?fileticket=bwjbqlrR9fw%3D",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chugai.co.jp/8878/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nsc.jp.nipponsanso.com/LinkClick.aspx?fileticket=bwjbqlrR9fw%3D",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%A5%88%E8%89%AF%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gekkan-kosen.com/post-kosen/%E5%A5%88%E8%89%AF%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niad.ac.jp/sub_hyouka/ninsyou/hyoukahou201403/kousen/no6_1_3_nara_k201403.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/gosepta/n/n675e4d1c9a71",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ao_ai_fukugyo/n/n11ee864fb1d5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/NaraKosen_PR",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/NaraKosen_PR/reposts",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/NaraKosen_PR/status/2089989388877103433",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/NaraKosen_PR/status/2065003841842712751",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/school/%E5%A5%88%E8%89%AF%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/toshio-nakayama-55a196113",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/655909371133138",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/%E5%A5%88%E8%89%AF%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1/114894035207535",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/NaraKosen_PR",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "奈良工業高等専門学校",
+   "results": [
+    "https://www.nara-k.ac.jp/",
+    "https://www.instagram.com/narakosen_pr/",
+    "https://ja.wikipedia.org/wiki/%E5%A5%88%E8%89%AF%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1",
+    "https://x.com/NaraKosen_PR",
+    "https://hikousenjuku.com/blog/5185/",
+    "https://ja.wikipedia.org/wiki/奈良工業高等専門学校",
+    "https://www.minkou.jp/hischool/school/16665/",
+    "https://www.minkou.jp/hischool/school/deviation/16665/",
+    "https://koucolle.com/奈良工業高等専門学校/",
+    "https://www.nara-k.ac.jp/admission/department/requirement/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "奈良工業高等専門学校 会社概要 資本金 設立",
+   "results": [
+    "https://www.nara-k.ac.jp/",
+    "https://nsc.jp.nipponsanso.com/LinkClick.aspx?fileticket=bwjbqlrR9fw%3D",
+    "https://www.kosen-k.go.jp/assets/pdf/release/225/H18jigyohokokusho1.pdf",
+    "https://www.008008.jp/moving/single/lp/?cd=1990291025&utm_source=mediation&utm_medium=banner&utm_campaign=qr_1990291025",
+    "https://gekkan-kosen.com/post-kosen/%E5%A5%88%E8%89%AF%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1/",
+    "https://www.niad.ac.jp/sub_hyouka/ninsyou/hyoukahou201403/kousen/no6_1_3_nara_k201403.pdf",
+    "https://www.sihsreact.com/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/",
+    "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8010105000820",
+    "https://www.youtube.com/watch?v=h6CAYzuAEZ4",
+    "https://ja.wikipedia.org/wiki/奈良工業高等専門学校"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "奈良工業高等専門学校 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.marubeni-idigio.com/insight-hub/narakousen-studiosystem2/",
+    "https://nsc.jp.nipponsanso.com/jp/news/detail.html?itemid=777&dispmid=952",
+    "https://www.nara-k.ac.jp/institution/venture_factory/equipments/",
+    "https://igaspedia.com/2024/02/29/tn-sanso-nara-k-ac-metal-am-3d-printer/",
+    "https://www.solidworks.com/ja/story/Narakousen",
+    "https://www.schadbach.de/?y=m1o1u2n3t8a3n3t62742",
+    "https://www.instagram.com/p/De-12rqEgdl/",
+    "https://nsc.jp.nipponsanso.com/LinkClick.aspx?fileticket=bwjbqlrR9fw%3D",
+    "https://www.nara-ni.ac.jp/nara_colleges/1362/",
+    "https://www.solidworks.com/sites/default/files/2022-12/3DS_2022_BRAND_CASESTUDY_A4_NARAKOSEN.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "奈良工業高等専門学校 金属積層造形 設備",
+   "results": [
+    "https://www.nara-k.ac.jp/institution/venture_factory/equipments/",
+    "https://nsc.jp.nipponsanso.com/LinkClick.aspx?fileticket=bwjbqlrR9fw%3D",
+    "https://www.chugai.co.jp/8878/",
+    "https://www.marubeni-idigio.com/product/3dprinter/products/topics/3dprinter-kousen/",
+    "https://www.nit-nara-ia-center.share-ac.jp/facilities/detail.php?id=4",
+    "https://igaspedia.com/2024/02/29/tn-sanso-nara-k-ac-metal-am-3d-printer/",
+    "https://www.nara-ni.ac.jp/nara_colleges/1362/",
+    "https://www.instagram.com/p/DcPef5akwzV/",
+    "https://nsc.jp.nipponsanso.com/jp/news/detail.html?itemid=777&dispmid=952",
+    "https://www.nara-k.ac.jp/contribution/奈良高専　設備・機器リスト.pdf"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "奈良工業高等専門学校 株主 出資 親会社",
+   "results": [
+    "https://www.nara-k.ac.jp/",
+    "https://nsc.jp.nipponsanso.com/LinkClick.aspx?fileticket=bwjbqlrR9fw%3D",
+    "https://ja.wikipedia.org/wiki/%E5%A5%88%E8%89%AF%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1",
+    "https://www.nara-sangyoshinko.or.jp/publication/pdf/jyouhou/chu_03.pdf",
+    "https://www.kosen-k.go.jp/about/kosen_history",
+    "https://compalyze.co.jp/company/6150005002582",
+    "https://www.nara-k.ac.jp/cooperation/sangaku/",
+    "https://www.buffett-code.com/company/f1abdvwc9f/",
+    "https://www.nara-ni.ac.jp/nara_colleges/platform/organization/organization.html",
+    "https://ja.wikipedia.org/wiki/奈良工業高等専門学校"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "奈良工業高等専門学校 売上高 従業員数",
+   "results": [
+    "https://www.nara-k.ac.jp/",
+    "https://gekkan-kosen.com/post-kosen/%E5%A5%88%E8%89%AF%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1/",
+    "https://www.niad.ac.jp/sub_hyouka/ninsyou/hyoukahou201403/kousen/no6_1_3_nara_k201403.pdf",
+    "https://nsc.jp.nipponsanso.com/LinkClick.aspx?fileticket=bwjbqlrR9fw%3D",
+    "https://www.kosen-k.go.jp/assets/pdf/release/225/R5jigyouhoukoku.pdf",
+    "https://compalyze.co.jp/company/6150005002582",
+    "https://research-er.jp/ranking/researcher/budget?institution_id=1027",
+    "https://jp.indeed.com/q-%E5%A5%88%E8%89%AF%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1-l-%E5%A5%88%E8%89%AF%E7%9C%8C-%E5%A5%88%E8%89%AF%E5%B8%82-%E6%B1%82%E4%BA%BA.html",
+    "https://ja.wikipedia.org/wiki/%E5%A5%88%E8%89%AF%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1",
+    "https://ja.wikipedia.org/wiki/奈良工業高等専門学校"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 奈良工業高等専門学校",
+   "results": [
+    "https://note.com/rururu657/n/nf94a2a7a7905",
+    "https://note.com/kurume_asm/n/nc6486a13e62a",
+    "https://note.com/gosepta/n/n675e4d1c9a71",
+    "https://note.com/ao_ai_fukugyo/n/n11ee864fb1d5",
+    "https://note.com/avakansai/n/n3a0ba1eea857",
+    "https://note.com/eism_ms/n/n4d29abd3bada",
+    "https://note.com/online_hennyu/n/n8f09c881f7fb",
+    "https://note.com/kosenjinkai/n/n731f4c89cd32",
+    "https://note.com/vsrx/n/nb91271ad4c43",
+    "https://note.com/kosenjinkai/n/n613b27cce534"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:x.com 奈良工業高等専門学校",
+   "results": [
+    "https://x.com/NaraKosen_PR",
+    "https://x.com/NaraKosen_PR/reposts",
+    "https://x.com/NaraKosen_PR/status/2089989388877103433",
+    "https://x.com/NaraKosen_PR/status/2065003841842712751",
+    "https://x.com/NaraKosen_PR/status/1995746443823304772",
+    "https://x.com/NaraKosen_PR/status/2087444157073916381",
+    "https://x.com/NaraKosen_PR/status/1923279429058392260",
+    "https://x.com/NaraKosen_PR/status/2041069812303155440",
+    "https://x.com/NaraKosen_PR/status/2105611525193191618",
+    "https://x.com/NaraKosen_PR/status/2022212074370392213"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com 奈良工業高等専門学校",
+   "results": [
+    "https://jp.linkedin.com/school/%E5%A5%88%E8%89%AF%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1/",
+    "https://jp.linkedin.com/in/toshio-nakayama-55a196113",
+    "https://jp.linkedin.com/in/sayaka-ishimizu-07669a9a",
+    "https://jp.linkedin.com/in/%E5%84%AA%E4%BB%81-%E7%9F%B3%E7%94%B0-543b25246",
+    "https://jp.linkedin.com/in/shigeru-mori-369495300",
+    "https://jp.linkedin.com/in/masayuki-kinoshita-5b62a813a",
+    "https://jp.linkedin.com/in/saori-ohji-458487327",
+    "https://jp.linkedin.com/in/%E5%9C%AD%E5%A4%AA-%E5%B2%A1%E6%9C%AC-0a0905299",
+    "https://jp.linkedin.com/in/%E6%B4%8B%E6%98%8E-%E5%B0%8F%E5%9D%82-51ab7575",
+    "https://jp.linkedin.com/school/奈良工業高等専門学校/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com 奈良工業高等専門学校",
+   "results": [
+    "https://www.facebook.com/655909371133138",
+    "https://www.facebook.com/ksiijp/posts/%E3%82%B7%E3%83%BC%E3%82%BA%E9%9B%86%E3%82%92%E6%8E%B2%E8%BC%89%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E5%A5%88%E8%89%AF%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1%E3%81%AE%E7%A0%94%E7%A9%B6%E3%82%B7%E3%83%BC%E3%82%BA%E9%9B%86%E3%82%92%E5%85%AC%E9%96%8B%E3%81%97%E3%81%BE%E3%81%97%E3%81%9Fksii-%E3%81%A7%E3%81%AF%E5%8F%82%E7%94%BB%E5%A4%A7%E5%AD%A6%E3%81%AE%E3%82%B7%E3%83%BC%E3%82%BA%E9%9B%86%E3%82%92%E9%9B%86%E7%B4%84%E3%81%97%E3%81%A6%E3%81%8A%E3%82%8A%E6%A8%AA%E6%96%AD%E7%9A%84%E3%81%AB%E6%A4%9C%E7%B4%A2%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E5%8F%AF%E8%83%BD%E3%81%A7%E3%81%99%E3%81%94%E9%96%A2%E5%BF%83%E3%81%AE%E3%83%86%E3%83%BC%E3%83%9E/1127175529856888/",
+    "https://www.facebook.com/pages/%E5%A5%88%E8%89%AF%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1/114894035207535",
+    "https://www.facebook.com/100000427405942/posts/%E7%B4%A0%E6%99%B4%E3%82%89%E3%81%97%E3%81%84/29364885059775685/",
+    "https://www.facebook.com/nnctorg/",
+    "https://www.facebook.com/cew1930/posts/hp%E3%83%96%E3%83%AD%E3%82%B0%E6%9B%B4%E6%96%B0108%E6%9C%A8%E7%8B%AC%E7%AB%8B%E8%A1%8C%E6%94%BF%E6%B3%95%E4%BA%BA%E5%9B%BD%E7%AB%8B%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1%E6%A9%9F%E6%A7%8B%E3%81%AE%E5%A5%88%E8%89%AF%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1%E6%A7%98%E3%82%88%E3%82%8A%E6%83%85%E5%A0%B1%E5%B7%A5%E5%AD%A6%E7%A7%911%E5%B9%B4%E7%94%9F%E3%81%AE%E5%AD%A6%E7%94%9F40%E5%90%8D%E5%85%88%E7%94%9F3%E5%90%8D%E3%81%8C%E6%9D%A5%E7%A4%BE%E3%81%95%E3%82%8C%E4%BC%9A%E7%A4%BE%E8%A6%8B%E5%AD%A6%E4%BC%9A%E3%82%92%E5%AE%9F%E6%96%BD%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%83%99%E3%83%86%E3%83%A9%E3%83%B3/1674030181089673/",
+    "https://www.facebook.com/pages/%E5%A5%88%E8%89%AF%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1/655909371133138?locale=he_IL",
+    "https://www.facebook.com/100000427405942/posts/too-difficult-/29291619370435588/",
+    "https://www.facebook.com/rikiya.imanishi/",
+    "https://www.facebook.com/奈良工業高等専門学校-114894035207535/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "奈良工業高等専門学校 note 社長",
+   "results": [
+    "https://note.com/kurume_asm/n/nc6486a13e62a",
+    "https://note.com/avakansai/n/n3a0ba1eea857",
+    "https://narakosen.u-coop.net/new-comer/study/goods/PC01.html",
+    "https://note.com/yuzu_milk_ice/n/nebbdb3052fc8",
+    "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%BC%E3%83%88%3A%E5%A5%88%E8%89%AF%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1",
+    "https://note.com/rururu657/n/nf94a2a7a7905",
+    "https://europort.jp/blog/casestudy-narakougyou?srsltid=AYCX9vK1EjZtPzezY6Jmkl2o7fWfaEZD8VJM6PEZz2qp0RP3-apq-R_V",
+    "https://www.sentankyo.jp/articles/6efd6c3e-fbd5-4d47-8f99-152970569fa9",
+    "https://ja.wikipedia.org/wiki/近藤科江",
+    "https://ja.wikipedia.org/wiki/奈良工業高等専門学校"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "奈良工業高等専門学校 X 投稿",
+   "results": [
+    "https://x.com/NaraKosen_PR",
+    "https://www.nara-k.ac.jp/link/2010/03/post.html",
+    "https://www.elec.nara-k.ac.jp/2025/07/10/%E5%A5%88%E8%89%AF%E9%AB%98%E5%B0%82%E9%9B%BB%E6%B0%97%E5%B7%A5%E5%AD%A6%E7%A7%91%E3%80%80%E5%85%AC%E5%BC%8Fx%E3%81%AE%E9%81%8B%E7%94%A8%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
+    "https://www.instagram.com/narakosen_pr/",
+    "https://nara-kosensai.com/2025/",
+    "https://joken.github.io/",
+    "https://x.com/NaraKosen_PR/status/2089989388877103433",
+    "https://ja.wikipedia.org/wiki/%E5%A5%88%E8%89%AF%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1",
+    "https://www.youtube.com/@NaraKosen_PR",
+    "https://www.nara-k.ac.jp/link/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "資本金": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部21頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部21頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部21頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部21頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部21頁・検索12回）",
+  "使っている金属粉（材質）": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部21頁・検索12回）"
+ }
+}

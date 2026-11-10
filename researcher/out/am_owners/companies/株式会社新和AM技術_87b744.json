@@ -1,0 +1,467 @@
+{
+ "name": "株式会社新和AM技術",
+ "aliases": [],
+ "context": "PBF=yes 装置=DMLS 出典=https://eishin1.jp/pages/13/",
+ "researched_at": "2026-11-10T21:56:16.896047+00:00",
+ "official_url": "",
+ "identified_by": "not_found",
+ "profile": {},
+ "evidence": {},
+ "checked": {
+  "pass1": [],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.k-sinwa.com/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shinwagiken.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aisin.com/jp/group/aisin-sinwa/company/outline.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=KZaXU_KnoEY",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/AM-WG.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttdata.com/global/ja/news/services_info/2020/063000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXLRSP463089_T11C17A1000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shinwa-jpn.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/01803-00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp80219/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.shinwa-jpn.co.jp/business/data.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "新和AM技術",
+   "results": [
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/AM-WG.html",
+    "https://www.nttdata-xam.com/am/",
+    "https://shinwa2006.com/features/",
+    "https://www.youtube.com/watch?v=KZaXU_KnoEY",
+    "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "https://news.sharelab.jp/study/practice-am/",
+    "https://www.sinto.co.jp/promotion/metal-am/",
+    "https://yht.co.jp/column/250312_3dprinter/",
+    "https://www.mazak.com/jp-ja/products/am/",
+    "https://www.net-shinwa.co.jp/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "株式会社新和AM技術",
+   "results": [
+    "https://shinwa2006.com/",
+    "https://shin-wa.biz/",
+    "http://shinwa-seisakusyo.co.jp/company.html",
+    "https://shinwa-ss.co.jp/",
+    "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "https://www.nttdata-xam.com/am/",
+    "https://www.shinwa-cc.co.jp/",
+    "https://www.shinwa-jpn.co.jp/",
+    "https://w-shinwa.net/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "新和AM技術 株式会社",
+   "results": [
+    "https://www.nttdata-xam.com/am/",
+    "https://shinwa2006.com/features/",
+    "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "https://www.nihon-seiki.jp/am.html",
+    "https://www.sinto.co.jp/promotion/metal-am/",
+    "https://shin-wa.biz/",
+    "https://jampt.jp/service/am-material/",
+    "https://news.sharelab.jp/study/practice-am/",
+    "https://jsam.or.jp/member/regular/",
+    "https://w-shinwa.net/equipment"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "新和ＡＭ技術",
+   "results": [
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/AM-WG.html",
+    "https://www.nttdata-xam.com/am/",
+    "https://shinwa2006.com/features/",
+    "https://www.youtube.com/watch?v=KZaXU_KnoEY",
+    "https://news.sharelab.jp/study/practice-am/",
+    "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "https://www.sinto.co.jp/promotion/metal-am/",
+    "https://yht.co.jp/column/250312_3dprinter/",
+    "https://www.mazak.com/jp-ja/products/am/",
+    "https://www.net-shinwa.co.jp/company/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "新和AM技術 Japan",
+   "results": [
+    "https://ji-am.jp/",
+    "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "https://www.additivejapan.com/am-technology-consulting",
+    "https://www.nihon-seiki.jp/am.html",
+    "https://www.va-intl.co.jp/man/2022/07/15/%E3%82%A2%E3%83%87%E3%82%A3%E3%83%86%E3%82%A3%E3%83%96%E3%83%BB%E3%83%9E%E3%83%8B%E3%83%A5%E3%83%95%E3%82%A1%E3%82%AF%E3%83%81%E3%83%A3%E3%83%AA%E3%83%B3%E3%82%B0%EF%BC%88am%EF%BC%89%E3%81%8C%E3%82%82/",
+    "https://www.sinto.co.jp/news/3822",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/AM-WG.html",
+    "https://jsam.or.jp/",
+    "https://www.jsme.or.jp/kaisi-tag/%E7%89%B9%E9%9B%86%E3%80%80additive-manufacturing-%E6%8A%80%E8%A1%93%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E6%8A%80%E8%A1%93%E8%80%85%E3%81%AE%E6%84%8F%E8%AD%98/",
+    "https://ji-am.jp/2026/10/2nd-new-lecture/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "新和AM技術 日本",
+   "results": [
+    "https://jampt.jp/",
+    "https://www.nihon-seiki.jp/am.html",
+    "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "https://ji-am.jp/",
+    "https://www.youtube.com/watch?v=QHO7LJ02aZ8",
+    "https://www.jri.co.jp/column/opinion/detail/11918/",
+    "https://www.mizuhobank.co.jp/corporate/industry/pdf/msif_239.pdf",
+    "https://www.va-intl.co.jp/man/2022/07/15/%E3%82%A2%E3%83%87%E3%82%A3%E3%83%86%E3%82%A3%E3%83%96%E3%83%BB%E3%83%9E%E3%83%8B%E3%83%A5%E3%83%95%E3%82%A1%E3%82%AF%E3%83%81%E3%83%A3%E3%83%AA%E3%83%B3%E3%82%B0%EF%BC%88am%EF%BC%89%E3%81%8C%E3%82%82/",
+    "https://www.nttdata-xam.com/am/",
+    "https://ji-am.jp/2026/10/2nd-new-lecture/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "新和AM技術 K.K.",
+   "results": [
+    "https://shinwa2006.com/features/",
+    "https://www.nttdata-xam.com/am/",
+    "https://shinwa-seikou.jp/",
+    "https://www.nihon-seiki.jp/am.html",
+    "https://shin-wa.biz/",
+    "https://www.sinto.co.jp/promotion/metal-am/",
+    "https://www.youtube.com/watch?v=axubxkcwj1M",
+    "https://aspect.jpn.com/",
+    "https://shinwa-ss.co.jp/",
+    "https://www.net-shinwa.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "新和AM技術 会社概要 資本金 設立",
+   "results": [
+    "https://www.k-sinwa.com/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/",
+    "https://shinwagiken.com/company/",
+    "https://www.aisin.com/jp/group/aisin-sinwa/company/outline.php",
+    "https://www.nttdata-xam.com/news/info/article_1073/",
+    "https://job.mynavi.jp/27/pc/search/corp80219/outline.html",
+    "https://www.shinwa-ss.co.jp/about.html",
+    "http://shinwa-seisakusyo.co.jp/company.html",
+    "https://www.shinwatec.co.jp/company/outline/",
+    "https://www.nttdata.com/global/ja/news/services_info/2020/063000/",
+    "https://www.net-shinwa.co.jp/company/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "新和AM技術 金属3Dプリンタ 導入",
+   "results": [
+    "https://jampt.jp/",
+    "https://news.sharelab.jp/category/3dp-news/metal-3dprinter/",
+    "https://www.jeol.co.jp/column/detail001.html",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/pdf/am-sankoushiryousyu.pdf",
+    "https://www.youtube.com/watch?v=Ew517KG1bOI",
+    "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "https://www.eos.info/ja/content/blog/know-how/metal-myths-exposed",
+    "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "https://www.tokushuko.or.jp/publication/magazine/pdf/2023/magazine2305.pdf",
+    "https://seisan-navi.com/metal-3d-printer-am/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "新和AM技術 金属積層造形 設備",
+   "results": [
+    "https://jampt.jp/",
+    "https://www.youtube.com/watch?v=KZaXU_KnoEY",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/AM-WG.html",
+    "https://www.dmgmori.co.jp/sp/am/",
+    "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "https://www.mit.pref.miyagi.jp/services/voice/jampt_interview/",
+    "https://www.nims.go.jp/cccenter/ismg/equipments.html",
+    "https://www.jeol.co.jp/column/detail001.html",
+    "https://www.mazak.com/jp-ja/products/am/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "新和AM技術 株主 出資 親会社",
+   "results": [
+    "https://www.nttdata.com/global/ja/news/services_info/2020/063000/",
+    "https://www.nikkei.com/article/DGXLRSP463089_T11C17A1000000/",
+    "https://www.shinwa-jpn.co.jp/",
+    "https://journal.ntt.co.jp/article/18448",
+    "https://www.sinto.co.jp/promotion/metal-am/",
+    "https://jp.nipponsanso.com/LinkClick.aspx?fileticket=YIiIoPkpLGc%3D&tabid=153&mid=848",
+    "https://kuring.hiro.kindai.ac.jp/annai/hokoku/data14/065.pdf",
+    "https://www.nipponsteel.com/factbook/07-02.html",
+    "https://www.smtg.jp/group_info/group_companies",
+    "https://catr.jp/companies/85523/44132/settlements/0e80a/149766"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "新和AM技術 売上高 従業員数",
+   "results": [
+    "https://growth-100-oku.smrj.go.jp/companies/pdf/01803-00.pdf",
+    "https://job.mynavi.jp/28/pc/search/corp80219/outline.html",
+    "https://recruit.shinwa-jpn.co.jp/business/data.html",
+    "https://shinwa-grp.co.jp/recruit/corporate/",
+    "https://www.aisin.com/jp/group/aisin-sinwa/company/outline.php",
+    "https://www.ss-shinwa.co.jp/recruit/data/",
+    "https://www.shinwatec.co.jp/company/outline/",
+    "https://baseconnect.in/companies/4a555eda-d152-402d-8f9e-fa4332958edd",
+    "https://job.mynavi.jp/27/pc/search/corp88896/outline.html",
+    "https://baseconnect.in/companies/651a2d88-59f4-4ea1-8ddd-1027041c6846"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com 新和AM技術",
+   "results": [
+    "https://note.com/tag/%E9%87%91%E5%B1%9E3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC",
+    "https://note.com/polyuse3dp/n/n3dfe2df69b81",
+    "https://note.com/tag/%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2",
+    "https://note.com/alpha_design/n/n65b67a05b49c",
+    "https://note.com/tatsuya_sabato/n/n361ae24ba9af",
+    "https://note.com/kabu_neko_nya/n/n61ce31fd995f",
+    "https://note.com/good_dill292/n/nf1da4a394ca1",
+    "https://note.com/newspeak/n/nd6f30a6740e4",
+    "https://note.com/newmohq/n/n57ecd1e9c393?hl=en",
+    "https://note.com/hro_iri/n/n3cc49e7022dd"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 新和AM技術",
+   "results": [
+    "https://x.com/TSR_NEWS/status/2084073642498183420",
+    "https://x.com/netshinwa/status/218242283596808193",
+    "https://x.com/shinwa_construc/status/2114562742078292013",
+    "https://x.com/shinwa_construc/status/2117057205208035581",
+    "https://x.com/shinwa_construc/status/2095439335193719143",
+    "https://x.com/nedo_info/status/2016748179514151312",
+    "https://x.com/orist_pr",
+    "https://x.com/shinwa_construc/status/2112385011924218289",
+    "https://x.com/shinwa_construc/status/2116120811279208532",
+    "https://x.com/jwes5823/status/2042507582741581911"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com 新和AM技術",
+   "results": [
+    "https://jp.linkedin.com/in/akira-saito-745766178",
+    "https://jp.linkedin.com/in/%E4%B8%80%E9%9A%86-%E7%9F%B3%E5%B4%8E-30993521b",
+    "https://tw.linkedin.com/company/accordance-systems-inc",
+    "https://jp.linkedin.com/in/t-yamamoto",
+    "https://cn.linkedin.com/company/kurtz-ersa",
+    "https://jp.linkedin.com/in/kaichih",
+    "https://jp.linkedin.com/company/tomofun",
+    "https://www.linkedin.com/in/shingo-watanabe",
+    "https://tw.linkedin.com/company/purismev",
+    "https://www.linkedin.com/in/akaushik"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "site:facebook.com 新和AM技術",
+   "results": [
+    "https://www.facebook.com/iti.yamaguchi/posts/%E8%A1%8C%E4%BA%8B%E4%BA%88%E5%AE%9A%E6%A8%B9%E8%84%82%E7%B3%BB%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E9%80%A0%E5%BD%A2%E6%9D%90%E6%96%99%E3%81%AE%E6%96%B0%E6%BD%AE%E6%B5%81%E4%BB%A4%E5%92%8C7%E5%B9%B4%E5%BA%A6%E3%82%84%E3%81%BE%E3%81%90%E3%81%A1%EF%BC%93d%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E7%A0%94%E7%A9%B6%E4%BC%9A%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99%E9%96%8B%E5%82%AC%E6%97%A5%E6%99%82%E4%BB%A4%E5%92%8C8%E5%B9%B43%E6%9C%8813%E6%97%A5%E9%87%9113301630%EF%BC%93%EF%BD%84%E3%82%82%E3%81%AE%E3%81%A5/893169256556455/",
+    "https://www.facebook.com/dosoken/posts/%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E9%96%8B%E5%82%AC%E6%A1%88%E5%86%853d%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E9%80%A0%E5%BD%A2%E7%A0%94%E4%BF%AE%E7%AC%AC1%E5%9B%9E-3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E6%9C%80%E6%96%B0%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC-%E6%9C%80%E6%96%B0%E3%81%AE%E7%A0%94%E7%A9%B6%E4%BA%8B%E4%BE%8B%E3%81%A8am14%E7%A4%BE%E3%81%8C%E9%9B%86%E7%B5%90%E5%B1%95%E7%A4%BA%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E6%96%BD%E8%A8%AD%E8%A6%8B%E5%AD%A6%E9%96%8B%E5%82%AC%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E7%94%B3%E8%BE%BC%E7%B7%A0%E5%88%87925%E8%A3%BD%E9%80%A0/1517683593493701/",
+    "https://www.facebook.com/jgsdf.fp/posts/%E9%99%B8%E4%B8%8A%E8%87%AA%E8%A1%9B%E9%9A%8A-%E3%81%AF%E9%98%B2%E8%A1%9B%E5%8A%9B%E3%81%AE%E6%8A%9C%E6%9C%AC%E7%9A%84%E5%BC%B7%E5%8C%96-%E3%81%AE%E4%B8%80%E7%92%B0%E3%81%A8%E3%81%97%E3%81%A6%E6%95%B4%E5%82%99%E8%83%BD%E5%8A%9B%E3%82%92%E5%BC%B7%E5%8C%96%E3%81%99%E3%81%B9%E3%81%8F%EF%BC%93%EF%BD%84%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC-%E3%81%AE%E5%B0%8E%E5%85%A5%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E5%8F%96%E7%B5%84%E3%82%92%E9%80%B2%E3%82%81%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E9%83%A8%E5%93%81%E7%AD%89%E3%81%AE%E8%A3%9C%E7%B5%A6%E3%81%8C%E9%9B%A3%E3%81%97%E3%81%84%E6%B4%BB%E5%8B%95%E5%9C%B0%E5%9F%9F%E3%81%A7%E3%82%82%EF%BC%93%EF%BD%84%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC/879045307578325/",
+    "https://www.facebook.com/diginel/?locale=ja_JP",
+    "https://www.facebook.com/100079511810042/posts/%E6%9C%AC%E9%80%B1%E9%96%8B%E5%A7%8B%E4%BB%8B%E7%B4%B9%E9%A6%AC%E4%BE%86%E8%A5%BF%E4%BA%9E%E6%95%B8%E4%BD%8D%E8%BD%89%E5%9E%8B%E6%87%89%E7%94%A8%E6%88%90%E5%8A%9F%E6%A1%88%E4%BE%8B%E7%A0%94%E7%A9%B6introduction-on-industry-40-in-malaysiamalaysia-launched-i/5272308776185388/",
+    "https://www.facebook.com/jgsdf.fp/videos/%E9%99%B8%E4%B8%8A%E8%87%AA%E8%A1%9B%E9%9A%8A-%E3%81%AF%E9%98%B2%E8%A1%9B%E5%8A%9B%E3%81%AE%E6%8A%9C%E6%9C%AC%E7%9A%84%E5%BC%B7%E5%8C%96-%E3%81%AE%E4%B8%80%E7%92%B0%E3%81%A8%E3%81%97%E3%81%A6%E6%95%B4%E5%82%99%E8%83%BD%E5%8A%9B%E3%82%92%E5%BC%B7%E5%8C%96%E3%81%99%E3%81%B9%E3%81%8F%EF%BC%93%EF%BD%84%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC-%E3%81%AE%E5%B0%8E%E5%85%A5%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E5%8F%96%E7%B5%84%E3%82%92%E9%80%B2%E3%82%81%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E9%83%A8%E5%93%81%E7%AD%89%E3%81%AE%E8%A3%9C%E7%B5%A6%E3%81%8C%E9%9B%A3%E3%81%97%E3%81%84%E6%B4%BB%E5%8B%95%E5%9C%B0%E5%9F%9F%E3%81%A7%E3%82%82%EF%BC%93%EF%BD%84%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC/1030915528478654/",
+    "https://www.facebook.com/matsuuramc/posts/%E7%B4%84130%E5%8F%B0%E3%81%AE%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E3%82%92%E4%BF%9D%E6%9C%89%E3%81%97%E5%A4%9A%E5%93%81%E7%A8%AE%E5%B0%91%E9%87%8F%E7%94%9F%E7%94%A3%E3%82%92%E5%BE%97%E6%84%8F%E3%81%A8%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E4%B8%AD%E5%B3%B6%E3%82%BF%E3%83%BC%E3%83%AC%E3%83%83%E3%83%88%E6%A7%98%E4%BB%8A%E5%9B%9E%E3%81%AF%E5%90%8C%E7%A4%BE%E3%81%AB%E5%B0%8E%E5%85%A5%E3%81%84%E3%81%9F%E3%81%A0%E3%81%84%E3%81%A6%E3%81%84%E3%82%8Bmx-520%E3%81%AE%E6%93%8D%E4%BD%9C%E6%80%A7%E4%BD%9C%E6%A5%AD%E6%80%A7%E3%82%84gibbscam%E3%81%A8/1736197931730700/",
+    "https://www.facebook.com/ROCTAIWANatEswatini/posts/-empowering-future-aquaculture-leaders-the-taiwan-technical-mission-recently-org/1444860757669848/",
+    "https://www.facebook.com/GunmaAMPF/posts/%E3%81%8A%E6%80%A5%E3%81%8E%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E7%BE%A4%E9%A6%AC%E7%9C%8C%E3%81%AE%EF%BC%93d%E9%87%91%E5%B1%9E%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E5%AE%9F%E7%94%A8%E5%8C%96%E6%94%AF%E6%8F%B4%E4%BA%8B%E6%A5%AD-am%E5%AE%9F%E7%94%A8%E5%8C%96%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E7%84%A1%E6%96%99%E3%81%A8%E8%A9%A6%E4%BD%9C%E9%80%A0%E5%BD%A2%E7%BE%A4%E9%A6%AC%E7%9C%8C%E3%81%8B%E3%82%89%E6%9C%80%E5%A4%A750%E4%B8%87%E5%86%86%E3%81%AE%E8%A3%9C%E5%8A%A9%E3%82%92%E8%A1%8C%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99-%E5%8B%9F%E9%9B%86%E7%B7%A0%E5%88%879%E6%9C%8830%E6%97%A5%E7%81%AB-%E8%AA%AC%E6%98%8E/792144616702451/",
+    "https://www.facebook.com/netshinwa/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "新和AM技術 note 社長",
+   "results": [
+    "https://note.com/arcmasters/n/n3caf8b849268",
+    "https://kojomag.nikkan.co.jp/kata/kanto/539",
+    "https://www.va-intl.co.jp/man/2022/07/15/%E3%82%A2%E3%83%87%E3%82%A3%E3%83%86%E3%82%A3%E3%83%96%E3%83%BB%E3%83%9E%E3%83%8B%E3%83%A5%E3%83%95%E3%82%A1%E3%82%AF%E3%83%81%E3%83%A3%E3%83%AA%E3%83%B3%E3%82%B0%EF%BC%88am%EF%BC%89%E3%81%8C%E3%82%82/",
+    "https://www.youtube.com/watch?v=WhMOzUC-xUk",
+    "https://journal.ntt.co.jp/article/18448",
+    "https://www.nttdata-xam.com/blog/development/article_9467/",
+    "https://www.sinto.co.jp/promotion/metal-am/",
+    "https://www.cho-monodzukuri.jp/u/jdo7o4b5sp/gdacntjcp7vcdu",
+    "https://www.jsme.or.jp/kaisi-tag/%E7%89%B9%E9%9B%86%E3%80%80additive-manufacturing-%E6%8A%80%E8%A1%93%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E6%8A%80%E8%A1%93%E8%80%85%E3%81%AE%E6%84%8F%E8%AD%98/",
+    "https://note.com/shinwa_kyoto"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "新和AM技術 X 投稿",
+   "results": [
+    "https://www.youtube.com/watch?v=axubxkcwj1M",
+    "https://www.sinto.co.jp/promotion/metal-am/",
+    "https://ji-am.jp/",
+    "https://jsam.or.jp/news/2026-03-23-6547/",
+    "https://www.nttdata-xam.com/am/",
+    "https://www.manufacturing-world.jp/hub/ja-jp/about/am.html",
+    "https://x.com/sinwa_ss",
+    "https://news.sharelab.jp/study/practice-am/",
+    "https://www.youtube.com/watch?v=WhMOzUC-xUk",
+    "https://x.com/hashtag/AM技術"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索18回）",
+  "資本金": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索18回）",
+  "創業年度": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索18回）",
+  "従業員数": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索18回）",
+  "売上高": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索18回）",
+  "株主": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索18回）",
+  "所在地": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索18回）",
+  "保有設備": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索18回）",
+  "金属AM装置の保有（型番・製造元・台数・導入年）": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索18回）",
+  "使っている金属粉（材質）": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索18回）",
+  "用途・客の産業": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索18回）",
+  "資本金・株主": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索18回）"
+ }
+}

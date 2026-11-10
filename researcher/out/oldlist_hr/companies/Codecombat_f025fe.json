@@ -1,0 +1,1313 @@
+{
+ "name": "Codecombat",
+ "aliases": [],
+ "context": "旧営業リスト｜Non-AUMS｜AUMS不適合",
+ "researched_at": "2026-11-10T22:42:26.259834+00:00",
+ "official_url": "https://codecombat.com",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$56,000",
+    "url": "https://prospeo.io/c/codecombat-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$325,700",
+    "url": "https://prospeo.io/c/codecombat-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "301 Howard St Suite 830, San Francisco, California 94105, US",
+    "url": "https://prospeo.io/c/codecombat-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2013",
+    "url": "https://prospeo.io/c/codecombat-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "In partnership with Roblox Education, this AI enabled experience super-charges student coding abilities and provides a real-world platform to create amazing games and experiences.",
+    "url": "https://codecombat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "An epic competitive coding esports platform that encourages creative programming in a game-based environment.",
+    "url": "https://codecombat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The first generative AI companion tool specifically crafted for those new to AI with a focus on student privacy and safety. Blending simplicity and power, the platform accelerates student abilities and unleashes their creative potential.",
+    "url": "https://codecombat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AP CSP Exam Preperations",
+    "url": "https://codecombat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We are recognized by the College Board as an endorsed provider of curriculum and professional development for AP® Computer Science Principles (AP CSP). Our AP CSP curriculum provides game-based and turnkey tools to prepare students for the AP exam.",
+    "url": "https://codecombat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We've officially entered the AI era. Along with hype and hyperbole comes a wave of fear and uncertainty concerning the future of computer science. Videos of AI writing code with simple inputs and stories of engineers replaced by AI bots fueled a dramatic yet ultimately flawed narrative. The truth is, AI isn’t replacing coding; it’s accelerating it!",
+    "url": "https://codecombat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Career Technical Education (CTE) prepares students to become lifelong learners and provides them with the skills and knowledge they need to succeed in their future careers. In this episode, Pat Keeney, CTE Champion at McGraw Hill, shares his experience",
+    "url": "https://codecombat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock premium content",
+    "url": "https://codecombat.com/roblox",
+    "pass": 1
+   },
+   {
+    "quote": "Explore the 3D immersive experience of CodeCombat Worlds. Program your pets and adventure into a universe of creativity and shared experiences with friends.",
+    "url": "https://codecombat.com/roblox",
+    "pass": 1
+   },
+   {
+    "quote": "No Roblox Studio? No problem. Code in-game in Creative Mode to make full Roblox games to share with your friends.",
+    "url": "https://codecombat.com/roblox",
+    "pass": 1
+   },
+   {
+    "quote": "Valued partners like Code Ninjas and IDEA Lab Kids use our game to teach real Python and JavaScript coding to students in their franchise locations. We offer an easy to use program, implementation resources and training options to ensure an amazing student experience.",
+    "url": "https://codecombat.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "supported the CodeCombat AI League from its inaugural season, building compelling promotional programs around this unique esport.",
+    "url": "https://codecombat.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Our programs have served students in over 190 countries and our content is translated into over",
+    "url": "https://codecombat.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We seek relationships with nonprofits and community-based organizations working with groups underrepresented in computer science and technology careers. Our partnership with",
+    "url": "https://codecombat.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "has helped us reach the Latinx community with a partnership to engage students in this often underserved and underrepresented group.",
+    "url": "https://codecombat.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "\"It is important to me to see Latino boys and girls represented in this space,\" said Eugenio Derbez. \"Coding is the language of the future and if we want to be a part of that future then we need to get our kids coding.\"",
+    "url": "https://codecombat.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Need to engage your employees with a turnkey activity that will inspire their competitive spirit and challenge them to creatively problem solve? Work with us to build a custom competitive coding tournament that will have your team programming their own strategies while playing a game.",
+    "url": "https://codecombat.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "If you want to learn to program, you need to write (a lot of) code.",
+    "url": "https://codecombat.com/about",
+    "pass": 1
+   },
+   {
+    "quote": ", because everyone should have the chance to learn the magic of programming.",
+    "url": "https://codecombat.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We value open and respectful dialogue, where the best idea wins. Our decisions are grounded in customer research and our process is focused on delivering tangible results for them. Everyone is hands-on, from our CEO to our GitHub contributors, because we value growth and learning in our team.",
+    "url": "https://codecombat.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Over 650 contributors have lent their support and time to this project.",
+    "url": "https://codecombat.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "have started their programming journey through CodeCombat and Ozaria",
+    "url": "https://codecombat.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "across many different programming languages",
+    "url": "https://codecombat.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Our very first sketch depicting a programming game in action.",
+    "url": "https://codecombat.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Libraries play an important role in advancing educational equity in their communities. Many young learners do not have access or exposure to computer science, and libraries can provide important resources to these underserved groups. That is why we are partnering with libraries across the country to provide access to our game-based learning tools and educational resources.",
+    "url": "https://codecombat.com/libraries",
+    "pass": 1
+   },
+   {
+    "quote": "Our games teach real typed Python, JavaScript and C++ coding languages through the power of play. The gameplay is paired with a scaffolded curriculum to allow self-paced learners the ability to master foundational programming concepts before moving on to the more complex. Each level challenges the player to type the code necessary to advance their hero and achieve the level goal.",
+    "url": "https://codecombat.com/libraries",
+    "pass": 1
+   },
+   {
+    "quote": "A basic computer with internet access is all you need to sign-in and start playing. The content is intended for beginners with no prior coding experience.",
+    "url": "https://codecombat.com/libraries",
+    "pass": 1
+   },
+   {
+    "quote": "Teachers are not required as players can dictate the pace at which they move through the curriculum. Our custom code engine and interpreter is designed for beginners, it understands the mistakes kids make and speaks to them using human, beginner-friendly terms.",
+    "url": "https://codecombat.com/libraries",
+    "pass": 1
+   },
+   {
+    "quote": "Our games can be easily incorporated into your digital library interface through EZProxy or other popular systems. This structure provides instant access with the members’ existing log in and no staff is needed to manage any logistics of licensing or access.",
+    "url": "https://codecombat.com/libraries",
+    "pass": 1
+   },
+   {
+    "quote": "We take user safety, cybersecurity, and data privacy seriously, following many stringent privacy regulations, like COPPA, FERPA, SOPIPA, California AB 1584, CalOPPA, Fair Information Practices, CAN-SPAM, and GDPR. These policies and protective measures have let us securely serve over twenty million users around the world. See",
+    "url": "https://codecombat.com/libraries",
+    "pass": 1
+   },
+   {
+    "quote": "our full privacy policy.",
+    "url": "https://codecombat.com/libraries",
+    "pass": 1
+   },
+   {
+    "quote": "To ensure the security of your members, we do not offer in-game chat or other communication features between players, however we do allow members to safely share their coding projects with friends, family and the CodeCombat community. We restrict any upsell or marketing messaging to provide an uninterrupted experience for your patrons.",
+    "url": "https://codecombat.com/libraries",
+    "pass": 1
+   },
+   {
+    "quote": "Gain insight to your members’ usage with our snapshot reporting tool. It provides access to usage stats at any time, including monthly active users, licensed days used and more valuable data points.",
+    "url": "https://codecombat.com/libraries",
+    "pass": 1
+   },
+   {
+    "quote": "Our esports program offers an opportunity to further engage your members through a fun and exciting competition. The AI League allows members to showcase their understanding of coding concepts in a new environment and practice problem solving strategies as they go head to head in battle against the global community.",
+    "url": "https://codecombat.com/libraries",
+    "pass": 1
+   },
+   {
+    "quote": "“Let me make this clear first. I recommend your product because it is the best programming teaching tool currently on Earth.”",
+    "url": "https://codecombat.com/schools",
+    "pass": 1
+   },
+   {
+    "quote": "“[Ozaria] is a full curriculum for computer science education, it’s super impressive, very extensive [...] It’s got everything you need [...] I don't know that we've seen anything with this much extra stuff to help you teach it well.”",
+    "url": "https://codecombat.com/schools",
+    "pass": 1
+   },
+   {
+    "quote": "Editorial Director - Learning Content, Common Sense Education",
+    "url": "https://codecombat.com/schools",
+    "pass": 1
+   },
+   {
+    "quote": "“CodeCombat was one of the easiest to implement programs we’ve piloted and student engagement was extremely high. The way the content is designed, scaffolds perfectly and allows students to quickly move into high level programming skills far beyond anything we could have hoped for.”",
+    "url": "https://codecombat.com/schools",
+    "pass": 1
+   },
+   {
+    "quote": "Our scaffolded approach covers computer science fundamentals up through advanced courses and features",
+    "url": "https://codecombat.com/schools",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive Tools & Resources",
+    "url": "https://codecombat.com/schools",
+    "pass": 1
+   },
+   {
+    "quote": "Our program is a proven success for both middle",
+    "url": "https://codecombat.com/schools",
+    "pass": 1
+   },
+   {
+    "quote": "Between the pre-assessment and the final assessment, students made an average gain score of +47%",
+    "url": "https://codecombat.com/schools",
+    "pass": 1
+   },
+   {
+    "quote": "We provide administrators the insight they need with real-time usage data and progress reports at the class, school, district and state level. Student level progress tracking enables educators to easily identify when intervention is needed and the built in pre and post module assessments measure student comprehension.",
+    "url": "https://codecombat.com/schools",
+    "pass": 1
+   },
+   {
+    "quote": "High Quality Professional Development",
+    "url": "https://codecombat.com/schools",
+    "pass": 1
+   },
+   {
+    "quote": ", the course provides 44+ hours of self-directed, web-based, and on-demand learning. The program is self-paced and designed to fit any busy schedule. The course prepares anyone with or without teaching experience to successfully implement a CS curriculum.",
+    "url": "https://codecombat.com/schools",
+    "pass": 1
+   },
+   {
+    "quote": "AP CSP Exam Preperations",
+    "url": "https://codecombat.com/schools",
+    "pass": 1
+   },
+   {
+    "quote": "We are recognized by the College Board as an endorsed provider of curriculum and professional development for AP® Computer Science Principles (AP CSP). Our AP CSP curriculum provides game-based and turnkey tools to prepare students for the AP exam.",
+    "url": "https://codecombat.com/schools",
+    "pass": 1
+   },
+   {
+    "quote": "The first generative AI companion tool specifically crafted for those new to AI with a focus on student privacy and safety. Blending simplicity and power, the platform accelerates student abilities and unleashes their creative potential.",
+    "url": "https://codecombat.com/schools",
+    "pass": 1
+   },
+   {
+    "quote": "Practice & Enrichment",
+    "url": "https://codecombat.com/schools",
+    "pass": 1
+   },
+   {
+    "quote": "An epic competitive coding esports platform that encourages creative programming in a game-based environment.",
+    "url": "https://codecombat.com/schools",
+    "pass": 1
+   },
+   {
+    "quote": "In partnership with Roblox Education, this AI enabled experience super-charges student coding abilities and provides a real-world platform to create amazing games and experiences.",
+    "url": "https://codecombat.com/schools",
+    "pass": 1
+   },
+   {
+    "quote": "We understand the funding hurdles that schools encounter and are passionate about helping to overcome these obstacles. Check out our comprehensive guide to grant funding or speak with our team to learn more.",
+    "url": "https://codecombat.com/schools",
+    "pass": 1
+   },
+   {
+    "quote": "Want to provide high-quality CS instruction, but don’t have the staff to execute? Our team of master instructors can provide engaging virtual lessons perfect for in-class or after school programs.",
+    "url": "https://codecombat.com/schools",
+    "pass": 1
+   },
+   {
+    "quote": "Teachers receive an allocation of 100 AI prompts per month",
+    "url": "https://codecombat.com/schools",
+    "pass": 1
+   },
+   {
+    "quote": "each student gets 10 AI prompts per week",
+    "url": "https://codecombat.com/schools",
+    "pass": 1
+   },
+   {
+    "quote": ", to create multiple AI projects.",
+    "url": "https://codecombat.com/schools",
+    "pass": 1
+   },
+   {
+    "quote": "platforms which include CodeCombat Junior, our flagship elementary level curriculum features a progression of learning levels that",
+    "url": "https://codecombat.com/schools",
+    "pass": 1
+   },
+   {
+    "quote": "that allows students to sketch, write, and design their own digital products.This scaffolded progression will let students grow with our immersive content and explore a wide variety of computational thinking and computer science concepts",
+    "url": "https://codecombat.com/schools",
+    "pass": 1
+   },
+   {
+    "quote": "Open-Ended AI Projects",
+    "url": "https://codecombat.com/schools",
+    "pass": 1
+   },
+   {
+    "quote": "AP® Computer Science Principles（※１）やCSTA（※２）など、米国の学習基準に準拠した専門家育成の公認カリキュラムでもあり、子ども達がロールプレイングゲームをプレイしながら、楽しみながらプログラミング言語を学べる点が特長です",
+    "url": "https://fce-group.jp/7311/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "A narrative coding adventure that establishes the fundamentals of computer science.",
+    "url": "https://codecombat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We've officially entered the AI era. Along with hype and hyperbole comes a wave of fear and uncertainty concerning the future of computer science. Videos of AI writing code with simple inputs and stories of engineers replaced by AI bots fueled a dramatic yet ultimately flawed narrative. The truth is, AI isn’t replacing coding; it’s accelerating it!",
+    "url": "https://codecombat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"It is important to me to see Latino boys and girls represented in this space,\" said Eugenio Derbez. \"Coding is the language of the future and if we want to be a part of that future then we need to get our kids coding.\"",
+    "url": "https://codecombat.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Need to engage your employees with a turnkey activity that will inspire their competitive spirit and challenge them to creatively problem solve? Work with us to build a custom competitive coding tournament that will have your team programming their own strategies while playing a game.",
+    "url": "https://codecombat.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Game-based learning drives engagement from the start but perhaps even more importantly keeps students engaged when the concepts get more challenging. In a game environment failure and success are expected and embraced as part of the play experience.",
+    "url": "https://codecombat.com/libraries",
+    "pass": 1
+   },
+   {
+    "quote": "A narrative coding adventure that establishes the fundamentals of computer science.",
+    "url": "https://codecombat.com/schools",
+    "pass": 1
+   },
+   {
+    "quote": "We've officially entered the AI era. Along with hype and hyperbole comes a wave of fear and uncertainty concerning the future of computer science. Videos of AI writing code with simple inputs and stories of engineers replaced by AI bots fueled a dramatic yet ultimately flawed narrative. The truth is, AI isn’t replacing coding; it’s accelerating it!",
+    "url": "https://codecombat.com/schools",
+    "pass": 1
+   },
+   {
+    "quote": "上場会社社長自らAIを駆使し、全64ペー…",
+    "url": "https://fce-group.jp/7311/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は東証に上場しています（東証：9564）",
+    "url": "https://fce-group.jp/7311/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は東証に上場しています（証券コード：9564）",
+    "url": "https://codecombat.jp/news/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は東証に上場しています（証券コード：9564）",
+    "url": "https://fc-education.co.jp/post-457/",
+    "pass": 3
+   },
+   {
+    "quote": "※当社は株式会社FCE Holdings（東証上場）のグループ会社です",
+    "url": "https://prtimes.jp/main/html/rd/p/000000138.000029370.html",
+    "pass": 3
+   },
+   {
+    "quote": "CodeCombat Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/codecombat-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At CodeCombat",
+    "url": "https://prospeo.io/c/codecombat-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/codecombat-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/codecombat-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/codecombat-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of CodeCombat?",
+    "url": "https://prospeo.io/c/codecombat-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "CodeCombat generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/codecombat-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/codecombat-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/codecombat-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does CodeCombat have?",
+    "url": "https://prospeo.io/c/codecombat-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/codecombat-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "10. WarriorJS",
+    "url": "https://note.com/shiba_program/n/n340a81ea3c8d",
+    "pass": 3
+   },
+   {
+    "quote": "WarriorJSはjavascriptを書いて戦士を操作し、モンスターなどと戦いながら塔を登っていくゲームです",
+    "url": "https://note.com/shiba_program/n/n340a81ea3c8d",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "River Ridge High School Case Study",
+    "url": "https://codecombat.com/schools",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "世界190カ国で展開する「CodeCombat」の日本初の公式導入校が決定！その決め手を聞いてみました | FaCE! by FCE",
+    "url": "https://fce-group.jp/7311/",
+    "pass": 3
+   },
+   {
+    "quote": "世界190カ国で展開する「CodeCombat」の日本初の公式導入校が決定！その…",
+    "url": "https://fce-group.jp/7311/",
+    "pass": 3
+   },
+   {
+    "quote": "中でも今回は、日本初の公式導入校となった中央情報専門学校さまに「CodeCombat」の導入の理由やその決め手などについて聞きました",
+    "url": "https://fce-group.jp/7311/",
+    "pass": 3
+   },
+   {
+    "quote": "今回ご紹介するのは、「CodeCombat」の日本初の公式導入校となった「中央情報専門学校」さま",
+    "url": "https://fce-group.jp/7311/",
+    "pass": 3
+   },
+   {
+    "quote": "現在、中央情報専門学校（埼玉県）と早稲田文理専門学校（東京都）の2つの専門学校を有し、両校は姉妹校としてそれぞれの強みを共有し、高度な専門知識と技術を習得した専門職業人の育成に努めている学校です",
+    "url": "https://fce-group.jp/7311/",
+    "pass": 3
+   },
+   {
+    "quote": "飛躍か退化か、10年を見据えた企業の生き残りの鍵は「日本型DX」（後半）＃未来の話をしよう",
+    "url": "https://fce-group.jp/7311/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社FCE Holdingsは「株式会社FCE」に社名変更しました",
+    "url": "https://codecombat.jp/news/",
+    "pass": 3
+   },
+   {
+    "quote": "『CodeCombat（コードコンバット）』の日本初となる中学校への公式導入校に、",
+    "url": "https://codecombat.jp/news/",
+    "pass": 3
+   },
+   {
+    "quote": "世界190カ国2000万人のユーザーを持つプログラミング「CodeCombat」とFCEエデュケーションが日本での提供開始",
+    "url": "https://codecombat.jp/news/",
+    "pass": 3
+   },
+   {
+    "quote": "世界190カ国2000万人のユーザーを持つプログラミング「CodeCombat」とFCEエデュケーションが日本での提供開始 | FCEエデュケーション",
+    "url": "https://fc-education.co.jp/post-457/",
+    "pass": 3
+   },
+   {
+    "quote": "世界190カ国2000万人のユーザーを持つプログラミング「CodeCombat」とFCEエデュケーションが日本での提供開始",
+    "url": "https://fc-education.co.jp/post-457/",
+    "pass": 3
+   },
+   {
+    "quote": "世界4000万部発行の世界的ベストセラー『7つの習慣』の子ども向けプログラム「7つの習慣J®」などの教育事業を運営する株式会社FCEエデュケーションは、CodeCombat Inc.と提携し、世界中の子ども達にプログラミングを学ぶ機会を提供するために開発された「英語＆ゲームで学ぶ本格的プログラミング」カリキュラム『CodeCombat』の日本での展開を開始します",
+    "url": "https://fc-education.co.jp/post-457/",
+    "pass": 3
+   },
+   {
+    "quote": "世界190カ国2000万人のユーザーを持つプログラミング「CodeCombat」とFCEエデュケーションが日本での提供開始 | 株式会社ＦＣＥのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000138.000029370.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界190カ国2000万人のユーザーを持つプログラミング「CodeCombat」とFCEエデュケーションが日本での提供開始",
+    "url": "https://prtimes.jp/main/html/rd/p/000000138.000029370.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界4000万部発行の世界的ベストセラー『7つの習慣』の子ども向けプログラム「7つの習慣J®」などの教育事業を運営する株式会社FCEエデュケーション（所在地：東京都新宿区/代表取締役：尾上幸裕、以下FCE）は、CodeCombat Inc.（所在地：米国／CEO：Nick Winter）と提携し、世界中の子ども達にプログラミングを学ぶ機会を提供するために開発された「英語＆ゲームで学ぶ本格的プログラミング」カリキュラム『CodeCombat』の日本での展開を開始し�ます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000138.000029370.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社はFCE Holdings（東京都新宿区、代表取締役：石川淳悦、東証：9564）のグループ会社です",
+    "url": "https://prtimes.jp/main/html/rd/p/000000138.000029370.html",
+    "pass": 3
+   },
+   {
+    "quote": "（出典：GMO メディア 株式会社「コエテコ」 と 船井総合研究所『 2022 年プログラミング教育市場規模調査』 2022 年 6 月 20 日,",
+    "url": "https://prtimes.jp/main/html/rd/p/000000138.000029370.html",
+    "pass": 3
+   },
+   {
+    "quote": "“We are thrilled to partner with FCE Education to help give the children of Japan this opportunity to learn and grow! Using the CodeCombat curriculum, the Japanese children will learn the magic of creating a better world and future.”",
+    "url": "https://prtimes.jp/main/html/rd/p/000000138.000029370.html",
+    "pass": 3
+   },
+   {
+    "quote": "「FCEエデュケーションとのパートナーシップにより、日本の子ども達の学びや成長の機会を提供できることにワクワクしています！CodeCombatのカリキュラムを通して、日本の子ども達はより良い世界と未来を創る魔法を身につけてくれることでしょう",
+    "url": "https://prtimes.jp/main/html/rd/p/000000138.000029370.html",
+    "pass": 3
+   },
+   {
+    "quote": "“We are very privileged to forge this strong partnership with FCE Education, and we’re confident that, through our partnership, we can bring a high-quality programming education to young learners in Japan”",
+    "url": "https://prtimes.jp/main/html/rd/p/000000138.000029370.html",
+    "pass": 3
+   },
+   {
+    "quote": "このパートナーシップにより、日本の学生に高い品質のプログラミング教育を提供できると確信しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000138.000029370.html",
+    "pass": 3
+   },
+   {
+    "quote": "※当社は株式会社FCE Holdings（東証上場）のグループ会社です",
+    "url": "https://prtimes.jp/main/html/rd/p/000000138.000029370.html",
+    "pass": 3
+   },
+   {
+    "quote": "住 所：東京都新宿区西新宿2ー4ー1 新宿NSビル10F",
+    "url": "https://prtimes.jp/main/html/rd/p/000000138.000029370.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都新宿区西新宿2-4-1",
+    "url": "https://prtimes.jp/main/html/rd/p/000000138.000029370.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年に公表されたMcKinsey&Companyの調査では、2030年までに日本の業務の27%が自動化され、1,660万人分の雇用が代替される可能性があるとされています",
+    "url": "https://codecombat.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "戦後の日本においては、復興のため集団の団結力が重視され「横並びの教育」が行われました",
+    "url": "https://codecombat.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社FCE Holdingsは「株式会社FCE」に社名変更しました",
+    "url": "https://codecombat.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "RPG風のグラフィックで覚える「CodeCombat」｜インターステラ株式会社",
+    "url": "https://note.com/interstellar/n/n9dc0afdb896a",
+    "pass": 3
+   },
+   {
+    "quote": "今回は日本語訳もあり、ヒントもよくあるのですんなりと解くことができます",
+    "url": "https://note.com/interstellar/n/n9dc0afdb896a",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "世界190カ国で展開する「CodeCombat」の日本初の公式導入校が決定！そ... — Apr 26, 2023 · 中央情報専門学校さまについて 今回ご紹介するのは、「CodeCombat」の日本初の公式導入校となった「中央情報専門学校」さま。 同校は、1987年「広く社会に役立つ、責任感と意欲を持った職業人を育成する」ことを建学の教育理念に掲げ創立されました。",
+    "url": "https://fce-group.jp/7311/",
+    "pass": 3
+   },
+   {
+    "quote": "ニュース - コードコンバットCodeCombat — Nov 7, 2025 · 『CodeCombat（コードコンバット）』の日本初となる中学校への公式導入校に、 学校法人共栄学園 春日部共栄中学校が決定しました 2023年2月9日 お知らせ ...",
+    "url": "https://codecombat.jp/news/",
+    "pass": 3
+   },
+   {
+    "quote": "世界190カ国2000万人のユーザーを持つプログラミング「CodeCombat」と... — 世界4000万部発行の世界的ベストセラー『7つの習慣』の子ども向けプログラム「7つの習慣J®」などの教育事業を運営する株式会社FCEエデュケーションは、CodeCombat Inc.と提携し、世界中の子ども達にプログラミングを学ぶ機会を提供",
+    "url": "https://fc-education.co.jp/post-457/",
+    "pass": 3
+   },
+   {
+    "quote": "世界190カ国2000万人のユーザーを持つプログラミング「CodeCombat」と... — Nov 22, 2022 · 株式会社FCEのプレスリリース（2022年11月22日 10時02分）世界190カ国2000万人のユーザーを持つプログラミング「CodeCombat」とFCEエデュケーションが ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000138.000029370.html",
+    "pass": 3
+   },
+   {
+    "quote": "HOME - コードコンバットCodeCombat — ゲームを通して本格的に プログラミングを学習することができるカリキュラムです。 PythonやJavaScriptなど、大学入試科目「情報Ⅰ」の教科書にも 採用されている人気のプログラミング言語に対応しているため、 未来を見据えてご活用いただくことができます。",
+    "url": "https://codecombat.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "カリキュラム - コードコンバットCodeCombat — カリキュラム CURRICULUM CodeCombat (コードコンバット)のカリキュラムについて Why CodeCombat? コードコンバットの特長 コードコンバットは、実際にコードを書きながらゲーム感覚で楽しくプログラミングを学ぶカリキュラムです。",
+    "url": "https://codecombat.jp/curriculum/",
+    "pass": 3
+   },
+   {
+    "quote": "CodeCombatとは - コードコンバットCodeCombat — What is CodeCombat? コードコンバットとは コードコンバットは、世界190ヵ国以上で活用され、 2000万人のユーザー、 14万人の教育者から支持を得ている、 ゲームを通して本格的にプログラミングを学習することができるカリキュラムです。 生徒は初めから実際にコードを書き、 学習を進めるたびに ...",
+    "url": "https://codecombat.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "CodeCombat - Coding games to learn Python and JavaScript — Learn typed code through a programming game. Learn Python, JavaScript, and HTML as you solve puzzles and learn to make your own coding games and websites.",
+    "url": "https://codecombat.com/  ",
+    "pass": 3
+   },
+   {
+    "quote": "近くの教室を探す - コードコンバットCodeCombat — ゲームを通して本格的に プログラミングを学習することができるカリキュラムです。 PythonやJavaScriptなど、大学入試科目「情報Ⅰ」の教科書にも 採用されている人気のプログラミング言語に対応しているため、 未来を見据えてご活用いただくことができます。",
+    "url": "https://codecombat.jp/class/",
+    "pass": 3
+   },
+   {
+    "quote": "CodeCombat – Funding, Acquisitions & Key Rivals – 2026 — According to data, CodeCombat has estimated revenue of $6.5M, team of around 50+ employees, centered in San Francisco, with ongoing milestones reached.",
+    "url": "https://compworth.com/company/codecombat",
+    "pass": 3
+   },
+   {
+    "quote": "CodeCombat - 2026 Company Profile, Team, Funding ... - TracxnCodeCombat 2026 Company Profile: Valuation, Funding ...CodeCombat Revenue, Funding & Valuation - prospeo.ioCodeCombat Revenue 2024: $5.4M Est. - getlatka.comAnnual Revenue, Growth & Competitor Analysis Report for ...CodeCombat — Company Profile & Funding | Indexed.vc — Mar 5, 2026 · CodeCombat is a series A company based in San Francisco",
+    "url": "https://tracxn.com/d/companies/codecombat/__To-4IdEaslB_da5tRPcWNJGxGm3KJTa80j-93KFNN2s",
+    "pass": 3
+   },
+   {
+    "quote": "CodeCombat 2026 Company Profile: Valuation, Funding ...CodeCombat Revenue, Funding & Valuation - prospeo.ioCodeCombat Revenue 2024: $5.4M Est. - getlatka.comAnnual Revenue, Growth & Competitor Analysis Report for ...CodeCombat — Company Profile & Funding | Indexed.vc — CodeCombat FAQs When was CodeCombat founded? CodeCombat was founded in 2013. Where is CodeCombat headquartered? CodeCombat is head",
+    "url": "https://pitchbook.com/profiles/company/62024-50",
+    "pass": 3
+   },
+   {
+    "quote": "CodeCombat Revenue, Funding & Valuation - prospeo.io — CodeCombat has revenue of $1,875,000, estimated valuation of $6,000,000, $325,700 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/codecombat-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "CodeCombat Revenue 2024: $5.4M Est. - getlatka.com — Sep 2, 2026 · CodeCombat 2024 estimated revenue: $5.4M. 38 employees. Founded 2013. HQ: United States. Updated Sep 2, 2026.",
+    "url": "https://getlatka.com/companies/codecombat.com",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/codecombat-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "RPG風のグラフィックで覚える「CodeCombat」｜インターステラ株式会社 Feb 4, 2021 · 無料のプログラミング学習ソフトはいくつもある中、 今回はRPG風のグラフィックで進めていく学習ソフトを紹介します。 「CodeCombat」 という無料学習ソフトです。一応課金もできますが、基本的に無料でできます。 CodeCombat - Coding games to learn Python and JavaScript Learn typed code through a programming game ...",
+    "url": "https://note.com/interstellar/n/n9dc0afdb896a",
+    "pass": 3
+   },
+   {
+    "quote": "プログラミング初心者がゲーム感覚で楽しく学べる無料サービス16選｜... Sep 13, 2022 · 4. Code Combat CodeCombat - Coding games to learn Python and JavaScript Learn typed code through a programming game. Learn Python, Ja codecombat.com Code Combatはプログラムを書いて主人公のヒーローを操作し、さまざまなダンジョンをクリアするRPGゲームです。",
+    "url": "https://note.com/shiba_program/n/n340a81ea3c8d",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "RPG風のグラフィックで覚える「CodeCombat」｜インターステラ株式会社",
+    "url": "https://note.com/interstellar/n/n9dc0afdb896a",
+    "pass": 3
+   },
+   {
+    "quote": "RPG風のグラフィックで覚える「CodeCombat」",
+    "url": "https://note.com/interstellar/n/n9dc0afdb896a",
+    "pass": 3
+   },
+   {
+    "quote": "無料のプログラミング学習ソフトはいくつもある中、",
+    "url": "https://note.com/interstellar/n/n9dc0afdb896a",
+    "pass": 3
+   },
+   {
+    "quote": "今回はRPG風のグラフィックで進めていく学習ソフトを紹介します。",
+    "url": "https://note.com/interstellar/n/n9dc0afdb896a",
+    "pass": 3
+   },
+   {
+    "quote": "という無料学習ソフトです。一応課金もできますが、基本的に無料でできます。",
+    "url": "https://note.com/interstellar/n/n9dc0afdb896a",
+    "pass": 3
+   },
+   {
+    "quote": "こちらでは、Python JavaScript CoffeeScript C++ の４つの言語を使えます。",
+    "url": "https://note.com/interstellar/n/n9dc0afdb896a",
+    "pass": 3
+   },
+   {
+    "quote": "CoffeeScriptとは何だろうと思ったので調べると、JavaScriptを省略できるようにしたもの、といった感じでした。",
+    "url": "https://note.com/interstellar/n/n9dc0afdb896a",
+    "pass": 3
+   },
+   {
+    "quote": "とりあえず今回はPythonでやってみます。",
+    "url": "https://note.com/interstellar/n/n9dc0afdb896a",
+    "pass": 3
+   },
+   {
+    "quote": "プログラミング初心者がゲーム感覚で楽しく学べる無料サービス16選｜苦しんでプログラミングを学んだ柴犬（くるしば）",
+    "url": "https://note.com/shiba_program/n/n340a81ea3c8d",
+    "pass": 3
+   },
+   {
+    "quote": "プログラミング初心者がゲーム感覚で楽しく学べる無料サービス16選",
+    "url": "https://note.com/shiba_program/n/n340a81ea3c8d",
+    "pass": 3
+   },
+   {
+    "quote": "苦しんでプログラミングを学んだ柴犬（くるしば）",
+    "url": "https://note.com/shiba_program/n/n340a81ea3c8d",
+    "pass": 3
+   },
+   {
+    "quote": "苦しんでプログラミングを学んだ柴犬こと、「くるしば」と申します。",
+    "url": "https://note.com/shiba_program/n/n340a81ea3c8d",
+    "pass": 3
+   },
+   {
+    "quote": "元々コンサルタントの仕事をしていましたが、独学でプログラミングを学習し、Webサービスを作って起業しました。",
+    "url": "https://note.com/shiba_program/n/n340a81ea3c8d",
+    "pass": 3
+   },
+   {
+    "quote": "その後個人で開発したサービスを売却したり、また別のIT系の会社を創業、経営したりしています。",
+    "url": "https://note.com/shiba_program/n/n340a81ea3c8d",
+    "pass": 3
+   },
+   {
+    "quote": "去年の8月から下記のTwitterにてプログラミング学習に関して発信し始め、ありがたいことに",
+    "url": "https://note.com/shiba_program/n/n340a81ea3c8d",
+    "pass": 3
+   },
+   {
+    "quote": "10000人以上の方々にフォローして頂きました。",
+    "url": "https://note.com/shiba_program/n/n340a81ea3c8d",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "CodeCombat (@CodeCombat) / X CodeCombat will be at @fetc 2025! Visit us at Booth 2749 to see live demos of our latest solutions AI HackStack and CodeCombat Junior, our tools for teaching AI and coding to students of all ages.",
+    "url": "https://x.com/CodeCombat",
+    "pass": 3
+   },
+   {
+    "quote": "CodeCombat Europe (@CodeCombatEU) / Posts / X CodeCombat Europe (@CodeCombatEU) - Posts - Learn real computercode by playing a game! How cool is that. Programming lessons for kids in primary... | X (formerly Twitter)",
+    "url": "https://x.com/CodeCombatEU",
+    "pass": 3
+   },
+   {
+    "quote": "Himanshu Kumar on X: \"6️⃣ Codecombat simple on the surface ... 6️⃣ Codecombat simple on the surface and smart underneath, codecombat drops students into an adventure where progress comes from writing actual code, one level at a time. codecombat.com",
+    "url": "https://x.com/codewithimanshu/status/2087347479813791865",
+    "pass": 3
+   },
+   {
+    "quote": "#codecom - Search / X PeoplePeopleMedia CODE Combat @codecombatau The best Australian and international fight news, features & analysis ️🎙 | Download the app | Get your first month for $1 today CodeCommando @CodeCommando_ Passionné d'informatique et de gaming Mes vidéos et autres c'est ici bento.me/codecommando CodeCombat @CodeCombat Learn to code and use AI, all through the power of play. 🕹👾🖥 ...",
+    "url": "https://x.com/hashtag/codecom?f=user",
+    "pass": 3
+   },
+   {
+    "quote": "CodeCombat Europe (@CodeCombatEU) / Posts / X May 13, 2016 · CodeCombat Europe (@CodeCombatEU) - Posts - Learn real computercode by playing a game! How cool is that. Programming lessons for kids in primary... | X (formerly Twitter)",
+    "url": "https://x.com/CodeCombatEU",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "CodeCombat - LinkedIn CodeCombat | 3,654 followers on LinkedIn. Learn to code and use AI, all through the power of play! | Learn to code and use AI, all through the power of play! At CodeCombat, we create innovative ...",
+    "url": "https://www.linkedin.com/company/codecombat",
+    "pass": 3
+   },
+   {
+    "quote": "Nick Winter - SVP Frontier Lab Safety, Gray Swan; Co-Founder ...Lawrence Kotovets - Customer Success Manager at CodeCombat ...Codecombat Jobs in United States (6,000+ Open Roles) | LinkedInCODECOMBAT PROGRAMMING ARENA 2025 RETURNS - LinkedIn#codecombat | APU Forensic & Cybersecurity Research Centre ...Zhiran Chen - CodeCombat - 课研负责人 | LinkedIn SVP Frontier Lab Safety, Gray Swan; Co-Founder, CodeC",
+    "url": "https://www.linkedin.com/in/nwinter",
+    "pass": 3
+   },
+   {
+    "quote": "Lawrence Kotovets - Customer Success Manager at CodeCombat ...Codecombat Jobs in United States (6,000+ Open Roles) | LinkedInCODECOMBAT PROGRAMMING ARENA 2025 RETURNS - LinkedIn#codecombat | APU Forensic & Cybersecurity Research Centre ...Zhiran Chen - CodeCombat - 课研负责人 | LinkedIn Customer Success Manager at CodeCombat | DSW with Sac. Fire CERT · I'm a curious guy who helps people solve problems,",
+    "url": "https://www.linkedin.com/in/lawrence-kotovets",
+    "pass": 3
+   },
+   {
+    "quote": "Codecombat Jobs in United States (6,000+ Open Roles) | LinkedIn Today’s top 6,000+ Codecombat jobs in United States. Leverage your professional network, and get hired. New Codecombat jobs added daily.",
+    "url": "https://www.linkedin.com/jobs/codecombat-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "Nick Winter - SVP Frontier Lab Safety, Gray Swan; Co-Founder ...加藤貞顕 - WikipediaCodeCombat - LinkedInCodeCombat CEO and Key Executive Team - Craft.co経営チーム｜note株式会社 SVP Frontier Lab Safety, Gray Swan; Co-Founder, CodeCombat & Skritter · Entrepreneur, technologist, author, dad, and general all-around hacker guy. Currently focused on AI, especially making ... 加藤 貞顕 （かとう さだあき、 1973年 6月11日 [1] - ）は、日本の",
+    "url": "https://www.linkedin.com/in/nwinter",
+    "pass": 3
+   },
+   {
+    "quote": "CodeCombat - LinkedIn At CodeCombat, we create innovative play experiences to make computer science engaging and accessible to all. Our learning tools combine gameplay with a standards-aligned curriculum and turnkey educator resources for an experience that students and teachers love.",
+    "url": "https://jp.linkedin.com/company/codecombat",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "CodeCombat - FacebookCodeCombat - We’re excited to introduce ... - FacebookWe’re excited to introduce CodeCombat Junior, our new K-5 ...CodeCombat - Join us for the Hour of AI ... - FacebookCodeCombat - We are beyond thrilled to share ... - FacebookCodeCombat Tech | Beirut - FacebookCodeCombat - Link your CodeCombat and Roblox accounts to ... Sep 10, 2026 · CodeCombat. 9,237 followers · 3 talking ",
+    "url": "https://www.facebook.com/codecombat/",
+    "pass": 3
+   },
+   {
+    "quote": "CodeCombat - We’re excited to introduce ... - Facebook Sep 5, 2024 · We’re excited to introduce CodeCombat Junior, our new K-5 coding curriculum! Designed for young learners, it helps students start with icon-based blocks and progress to typing real code at their...",
+    "url": "https://www.facebook.com/codecombat/posts/-were-excited-to-introduce-codecombat-junior-our-new-k-5-coding-curriculum-desig/1412165333049777/",
+    "pass": 3
+   },
+   {
+    "quote": "We’re excited to introduce CodeCombat Junior, our new K-5 ...CodeCombat - Join us for the Hour of AI ... - FacebookCodeCombat - We are beyond thrilled to share ... - FacebookCodeCombat Tech | Beirut - FacebookCodeCombat - Link your CodeCombat and Roblox accounts to ... Sep 5, 2024 · 🎉 We’re excited to introduce CodeCombat Junior, our new K-5 coding curriculum! Designed for young learners, it helps",
+    "url": "https://www.facebook.com/codecombat/videos/-were-excited-to-introduce-codecombat-junior-our-new-k-5-coding-curriculum-desig/1057520362645436/",
+    "pass": 3
+   },
+   {
+    "quote": "CodeCombat - We are beyond thrilled to share ... - Facebook Jul 8, 2024 · CodeCombat Feb 4, 2025 · Why is it important to make time for play, both with students and with educators? Matt Barinholtz, Founder & CEO of FutureMakers, is passionate about creating playful, hands-on learning and encourages professional educators to find ways to play! 🔊Keep listening: https://codecombat.",
+    "url": "https://www.facebook.com/codecombat/posts/-we-are-beyond-thrilled-to-share-that-our-roblox-game-codecombat-worlds-is-a-fin/1373967856869525/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://codecombat.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://codecombat.com/roblox",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://codecombat.com/partners",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://codecombat.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://codecombat.com/libraries",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://codecombat.com/schools",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://codecombat.com/images/pages/partners/coding-image.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://codecombat.com/images/pages/partners/esports-powered-by-hyper.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://codecombat.com/images/pages/partners/international-distribution.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://codecombat.com/images/pages/partners/tech-equity.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://fce-group.jp/7311/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://codecombat.jp/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fc-education.co.jp/post-457/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000138.000029370.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E6%9C%AC%E5%BA%B7%E4%BA%8C",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.koaglobal.com/corporate/offices/distributors1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.redhat.com/ja/explore/information/corporate-profile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://codecombat.jp/curriculum/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://codecombat.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://codecombat.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/codecombat",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/codecombat/__To-4IdEaslB_da5tRPcWNJGxGm3KJTa80j-93KFNN2s",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/62024-50",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/codecombat-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/interstellar/n/n9dc0afdb896a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/shiba_program/n/n340a81ea3c8d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/CodeCombat",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/CodeCombatEU",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/codewithimanshu/status/2087347479813791865",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/codecom?f=user",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/codecombat",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/nwinter",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/lawrence-kotovets",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/codecombat-jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/codecombat/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/codecombat/posts/-were-excited-to-introduce-codecombat-junior-our-new-k-5-coding-curriculum-desig/1412165333049777/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/codecombat/videos/-were-excited-to-introduce-codecombat-junior-our-new-k-5-coding-curriculum-desig/1057520362645436/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/codecombat/posts/-we-are-beyond-thrilled-to-share-that-our-roblox-game-codecombat-worlds-is-a-fin/1373967856869525/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/nwinter",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/codecombat",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/CodeCombat",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/CodeCombatEU",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Codecombat 日本 導入",
+   "results": [
+    "https://fce-group.jp/7311/",
+    "https://codecombat.jp/news/",
+    "https://fc-education.co.jp/post-457/",
+    "https://prtimes.jp/main/html/rd/p/000000138.000029370.html",
+    "https://codecombat.jp/",
+    "https://fc-education.co.jp/blog/blog-170/",
+    "https://prtimes.jp/main/html/rd/p/000000164.000029370.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Codecombat 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/山本康二",
+    "https://www.koaglobal.com/corporate/offices/distributors1",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.redhat.com/ja/explore/information/corporate-profile",
+    "https://1688japan.co.jp/",
+    "https://j-dma.org/trouble",
+    "https://www.aon.com/japan/company-overview"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Codecombat Japan",
+   "results": [
+    "https://codecombat.jp/curriculum/",
+    "https://codecombat.jp/about/",
+    "https://codecombat.jp/",
+    "https://codecombat.com/  ",
+    "https://codecombat.jp/class/",
+    "https://codecombat.jp/introduction/",
+    "https://codecombat.jp/news/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Codecombat manufacturing customer case study",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Codecombat white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://learn.g2.com/what-is-a-partner-program",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.ninjaone.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Codecombat founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/codecombat",
+    "https://tracxn.com/d/companies/codecombat/__To-4IdEaslB_da5tRPcWNJGxGm3KJTa80j-93KFNN2s",
+    "https://pitchbook.com/profiles/company/62024-50",
+    "https://prospeo.io/c/codecombat-revenue",
+    "https://getlatka.com/companies/codecombat.com",
+    "https://incfact.com/company/codecombat-sanfrancisco-ca/",
+    "https://indexed.vc/companies/codecombat"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Codecombat",
+   "results": [
+    "https://note.com/interstellar/n/n9dc0afdb896a",
+    "https://note.com/shiba_program/n/n340a81ea3c8d",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/momiji_man_10/n/n62ea2d9a9a9a"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Codecombat",
+   "results": [
+    "https://x.com/CodeCombat",
+    "https://x.com/CodeCombatEU",
+    "https://x.com/codewithimanshu/status/2087347479813791865",
+    "https://x.com/hashtag/codecom?f=user",
+    "https://jf.x.com/images/media-preview/2095828865230979258",
+    "https://x.com/sripathiteja4/status/2112375543153004907",
+    "https://x.com/p0ptartkitty/status/2115926138987913708"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Codecombat",
+   "results": [
+    "https://www.linkedin.com/company/codecombat",
+    "https://www.linkedin.com/in/nwinter",
+    "https://www.linkedin.com/in/lawrence-kotovets",
+    "https://www.linkedin.com/jobs/codecombat-jobs",
+    "https://www.linkedin.com/pulse/codecombat-programming-arena-2025-returns-warriors-get-gwa0c",
+    "https://www.linkedin.com/posts/forensic-security-research-center-student-section-apu_codecombat-activity-7372081291317424128-D1SL",
+    "https://hk.linkedin.com/in/zhiran-chen-a89a0b2b7"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Codecombat",
+   "results": [
+    "https://www.facebook.com/codecombat/",
+    "https://www.facebook.com/codecombat/posts/-were-excited-to-introduce-codecombat-junior-our-new-k-5-coding-curriculum-desig/1412165333049777/",
+    "https://www.facebook.com/codecombat/videos/-were-excited-to-introduce-codecombat-junior-our-new-k-5-coding-curriculum-desig/1057520362645436/",
+    "https://www.facebook.com/codecombat/posts/-we-are-beyond-thrilled-to-share-that-our-roblox-game-codecombat-worlds-is-a-fin/1373967856869525/",
+    "https://www.facebook.com/61575214892111/",
+    "https://www.facebook.com/codecombat/posts/link-your-codecombat-and-roblox-accounts-to-enjoy-a-seamless-experience-and-star/1209950519937927/",
+    "https://www.facebook.com/codecombat/posts/-join-us-for-the-hour-of-ai-webinarour-hour-of-ai-classroom-activities-featured-/1750294045903569/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Codecombat note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://codecombat.jp/corporate/",
+    "https://www.linkedin.com/in/nwinter",
+    "https://jp.linkedin.com/company/codecombat",
+    "https://craft.co/codecombat/executives",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/herunia_dx/n/n378def952fc8"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Codecombat X 投稿",
+   "results": [
+    "https://x.com/CodeCombat",
+    "https://x.com/CodeCombatEU",
+    "https://www.youtube.com/watch?v=JCD_PZNMkMs",
+    "https://office-kibunya.com/tool/codecombat.html",
+    "https://codecombat.com/  ",
+    "https://codecombat.jp/",
+    "https://note.com/ai_clutch/n/ne310f9f82874"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式6頁／PDF・画像4件／外部37頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式6頁／PDF・画像4件／外部37頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式6頁／PDF・画像4件／外部37頁・検索12回）"
+ }
+}

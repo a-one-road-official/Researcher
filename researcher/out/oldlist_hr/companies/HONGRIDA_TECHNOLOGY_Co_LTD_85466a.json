@@ -1,0 +1,448 @@
+{
+ "name": "HONGRIDA TECHNOLOGY Co., LTD.",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜送付済み",
+ "researched_at": "2026-11-10T21:51:50.498589+00:00",
+ "official_url": "https://www.hongrida.com",
+ "identified_by": "given",
+ "profile": {
+  "連絡先": [
+   {
+    "label": "Email",
+    "value": "zhous@hrdconn.com",
+    "url": "https://www.hongrida.com/",
+    "pass": 1
+   },
+   {
+    "label": "E-mail",
+    "value": "wangxiaolin@hrdconn.com",
+    "url": "https://www.hongrida.com/",
+    "pass": 1
+   },
+   {
+    "label": "Email",
+    "value": "zhous@hrdconn.com",
+    "url": "https://www.hongrida.com/about_4.html",
+    "pass": 1
+   },
+   {
+    "label": "E-mail",
+    "value": "wangxiaolin@hrdconn.com",
+    "url": "https://www.hongrida.com/about_4.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "PRODUCTION CAPABILITY · 生产能力",
+    "url": "https://www.hongrida.com/",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "具备焊接仿真验证能力，以日本进口模拟设备测量焊接区域动态翘曲变化量，提前识别量产风险",
+    "url": "https://www.hongrida.com/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Email：zhous@hrdconn.com",
+    "url": "https://www.hongrida.com/",
+    "pass": 1
+   },
+   {
+    "quote": "E-mail：wangxiaolin@hrdconn.com",
+    "url": "https://www.hongrida.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Email：zhous@hrdconn.com",
+    "url": "https://www.hongrida.com/about_4.html",
+    "pass": 1
+   },
+   {
+    "quote": "E-mail：wangxiaolin@hrdconn.com",
+    "url": "https://www.hongrida.com/about_4.html",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Hongrida Technology Co ., Ltd . — Hongrida Technology Co ., Ltd . 百度百科 https://baike.baidu.com > item > Hon...",
+    "url": "https://baike.baidu.com/en/item/Hongrida%20Technology%20Co.%2C%20Ltd./62739",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.hongrida.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hongrida.com/about_5.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hongrida.com/about_6.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hongrida.com/about_4.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://baike.baidu.com/en/item/Hongrida%20Technology%20Co.%2C%20Ltd./62739",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/483463-72",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/quote/301285.SZ/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baike.baidu.com/en/item/Hongrida%20Technology%20Co.%2C%20Ltd./62739",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=4635",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.microchip.co.jp/buy/distributor.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baike.baidu.com/en/item/Hongrida%20Technology%20Co.%2C%20Ltd./62739",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.moomoo.com/stock/301285-SZ/company",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.emis.com/php/company-profile/CN/Hong_Ri_Da_Technology_Company_Limited__%E9%B8%BF%E6%97%A5%E8%BE%BE%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8___%E9%B8%BF%E6%97%A5%E8%BE%BE%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8__Hong_Ri_Da_Technology_Company_Limited___en_14023447.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baike.baidu.com/en/item/Hongrida%20Technology%20Co.%2C%20Ltd./62739",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.hpe.com/us/en/customer-case-studies.html",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/483463-72",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://baike.baidu.com/en/item/Hongrida%20Technology%20Co.%2C%20Ltd./62739",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.intermedia.com/resellers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/quote/301285.SZ/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baike.baidu.com/en/item/Hongrida%20Technology%20Co.%2C%20Ltd./62739",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://finance.yahoo.com/quote/301285.SZ/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/483463-72",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.foxconn.com/en-us/press-center/press-releases/latest-news/2095",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "HONGRIDA TECHNOLOGY Co., LTD. 日本 導入",
+   "results": [
+    "https://www.hongrida.com/",
+    "https://baike.baidu.com/en/item/Hongrida%20Technology%20Co.%2C%20Ltd./62739",
+    "https://pitchbook.com/profiles/company/483463-72",
+    "https://finance.yahoo.com/quote/301285.SZ/",
+    "https://www.emis.com/php/company-profile/CN/Hong_Ri_Da_Technology_Company_Limited__%E9%B8%BF%E6%97%A5%E8%BE%BE%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8___%E9%B8%BF%E6%97%A5%E8%BE%BE%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8__Hong_Ri_Da_Technology_Company_Limited___en_14023447.html",
+    "https://assets.kpmg.com/content/dam/kpmgsites/cn/pdf/en/2024/04/southeast-asia-new-energy-market.pdf",
+    "https://www.moomoo.com/stock/301285-SZ/company",
+    "https://cn.linkedin.com/in/naiyan-jin-876503107",
+    "https://baike.baidu.com/en/item/Hongrida+Technology+Co.,+Ltd./62739",
+    "https://www.ampulse.online/company/hongrida-technology-co-ltd"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "HONGRIDA TECHNOLOGY Co., LTD. 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://baike.baidu.com/en/item/Hongrida%20Technology%20Co.%2C%20Ltd./62739",
+    "https://www.hongrida.com/",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=4635",
+    "https://www.microchip.co.jp/buy/distributor.html",
+    "https://toshinelec.jp/agent.asp",
+    "https://atkeytech.ntt-at.com/optic1_distributor.html",
+    "https://www.hashiudo-denshi.jp/maker/",
+    "https://idtechproducts.com/ja/company/distributors/",
+    "https://www.zaikostore.com/zaikostore/maker?srsltid=AYCX9vJ6mwKJq-QOrQqkTrRV2irDdafaDlcvepRC5y7TRKXX1MVqOelK",
+    "https://baike.baidu.com/en/item/Hongrida+Technology+Co.,+Ltd./62739"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "HONGRIDA TECHNOLOGY Co., LTD. Japan",
+   "results": [
+    "https://www.hongrida.com/",
+    "https://baike.baidu.com/en/item/Hongrida%20Technology%20Co.%2C%20Ltd./62739",
+    "https://www.moomoo.com/stock/301285-SZ/company",
+    "https://www.emis.com/php/company-profile/CN/Hong_Ri_Da_Technology_Company_Limited__%E9%B8%BF%E6%97%A5%E8%BE%BE%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8___%E9%B8%BF%E6%97%A5%E8%BE%BE%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8__Hong_Ri_Da_Technology_Company_Limited___en_14023447.html",
+    "http://hongrida.com/uploads/20260929/d9e81d482f8d577491082f00b434d4e7.pdf",
+    "https://www.foxconn.com/en-us",
+    "https://www.hirata.co.jp/en/",
+    "https://cn.linkedin.com/in/naiyan-jin-876503107",
+    "https://baike.baidu.com/en/item/Hongrida+Technology+Co.,+Ltd./62739",
+    "https://www.ampulse.online/company/hongrida-technology-co-ltd"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "HONGRIDA TECHNOLOGY Co., LTD. manufacturing customer case study",
+   "results": [
+    "https://baike.baidu.com/en/item/Hongrida%20Technology%20Co.%2C%20Ltd./62739",
+    "https://www.hpe.com/us/en/customer-case-studies.html",
+    "https://www.hongrida.com/",
+    "https://pitchbook.com/profiles/company/483463-72",
+    "https://www.japanunix.com/en/casestudy_category/automationcase/",
+    "https://www.researchgate.net/publication/358714207_Driving_factors_of_digital_transformation_for_manufacturing_enterprises_a_multi-case_study_from_China",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.moomoo.com/stock/301285-SZ/company",
+    "https://www.intechopen.com/chapters/87328",
+    "https://www.ampulse.online/company/hongrida-technology-co-ltd"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "HONGRIDA TECHNOLOGY Co., LTD. white label OR reseller OR partner program",
+   "results": [
+    "https://baike.baidu.com/en/item/Hongrida%20Technology%20Co.%2C%20Ltd./62739",
+    "https://www.intermedia.com/resellers",
+    "https://finance.yahoo.com/quote/301285.SZ/",
+    "https://www.hongrida.com/",
+    "https://pitchbook.com/profiles/company/483463-72",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.advangrid.com/en/partner/whitelabel/",
+    "https://evincedev.com/blog/a-detailed-guide-to-white-label-reseller-program-to-grow-your-existing-business/",
+    "https://www.anunta.com/oems-partners/daas-partner-program/",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "HONGRIDA TECHNOLOGY Co., LTD. founded funding employees revenue",
+   "results": [
+    "https://baike.baidu.com/en/item/Hongrida%20Technology%20Co.%2C%20Ltd./62739",
+    "https://finance.yahoo.com/quote/301285.SZ/",
+    "https://pitchbook.com/profiles/company/483463-72",
+    "https://www.foxconn.com/en-us/press-center/press-releases/latest-news/2095",
+    "https://www.hongrida.com/",
+    "https://image.honhai.com/financy_by_year/%E9%B4%BB%E6%B5%B7111%E5%B9%B4%E5%A0%B1_EN(0516%E8%BF%BD%E5%8A%A0)_for_Print.pdf",
+    "https://www.perplexity.ai/finance/HNHPF",
+    "https://www.facebook.com/ForbesMENA.English/videos/hon-hai-precision-industry-also-known-as-foxconn-has-raised-11-billion-through-a/863234832328178/",
+    "https://szse.io/releases/301285-hong-ri-da-technology-company-limited/1225153863-2025-annual-report",
+    "https://www.crunchbase.com/organization/hongrida-technology"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com HONGRIDA TECHNOLOGY Co., LTD.",
+   "results": [
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/seigo77",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/tag/積読美術館",
+    "https://note.com/geoscience16",
+    "https://note.com/tag/ポケカ",
+    "https://note.com/end_hamaokanp/n/n86a8ede22413"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com HONGRIDA TECHNOLOGY Co., LTD.",
+   "results": [
+    "https://x.com/HongdaSmile",
+    "https://x.com/jocelynseip/status/2118260591680983528",
+    "https://x.com/itscelyunique/status/2117839228826521620",
+    "https://x.com/Roonysters/status/2113946927280865657",
+    "https://x.com/Marlayna29/status/2115433590150606880",
+    "https://x.com/AlexZarkage/status/2113754409410674975",
+    "https://x.com/HongdaServices"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com HONGRIDA TECHNOLOGY Co., LTD.",
+   "results": [
+    "https://cn.linkedin.com/in/naiyan-jin-876503107",
+    "https://cn.linkedin.com/company/thinkru-hydrogen-erg-gz-co-ltd",
+    "https://cn.linkedin.com/company/newmat-material-technology",
+    "https://cn.linkedin.com/company/hongguang-communication-kunshan-co-ltd",
+    "https://www.linkedin.com/pulse/integrated-heat-spreader-ihs-industry-projections-market-revenue-ygtfe",
+    "https://www.linkedin.com/company/jkmmould",
+    "https://jp.linkedin.com/pulse/ic%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%92%E3%83%BC%E3%83%88%E3%82%B9%E3%83%97%E3%83%AC%E3%83%83%E3%83%80%E3%83%BC%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%AE%E9%81%B8%E3%81%B3%E6%96%B9%E3%81%A8%E4%B8%BB%E8%A6%81%E4%BC%81%E6%A5%AD-ohm-orbits-d3kye",
+    "https://www.linkedin.com/pulse/cpugpu-heat-spreader-market-size-expected-sqoce",
+    "https://jp.linkedin.com/pulse/cpugpu%E7%86%B1%E6%8B%A1%E6%95%A3%E5%99%A8%E3%81%AE%E6%97%A5%E6%9C%AC%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E4%B8%80%E8%A6%A7-pharmaquantum-insights-gj4ne",
+    "https://cn.linkedin.com/company/hongrida-technology-co-ltd"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com HONGRIDA TECHNOLOGY Co., LTD.",
+   "results": [
+    "https://www.facebook.com/groups/308698444213374/posts/1388935106189697/",
+    "https://www.facebook.com/groups/370529474355396/",
+    "https://www.facebook.com/groups/1408522152635933/",
+    "https://www.facebook.com/groups/550935830447319/",
+    "https://www.facebook.com/groups/2309995039311152/",
+    "https://www.facebook.com/groups/8664842263535749/",
+    "https://www.facebook.com/groups/693451858839006/posts/1597335175117332/",
+    "https://www.facebook.com/groups/550935830447319/permalink/1289093913298170/",
+    "https://www.facebook.com/groups/1104252506349687/permalink/28184666674548237/",
+    "https://www.facebook.com/groups/thanhlapcongty.hokinhdoanh/permalink/1550248789628791/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "HONGRIDA TECHNOLOGY Co., LTD. note 社長",
+   "results": [
+    "https://www.hongrida.com/",
+    "https://usb.org/sites/default/files/vendor_ids051920_0.pdf",
+    "https://www.foxconn.com/s3/reports/shareholders-meetings/2022/Annual%20Report.pdf",
+    "https://www.fairphone.com/wp-content/uploads/2024/05/SCE-2024.pdf",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://baike.baidu.com/ja/item/%E9%B4%BB%E6%97%A5%E9%81%94%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/381328",
+    "https://note.com/brexa_holdings",
+    "https://www.youtube.com/watch?v=o2xLCKWS0sk",
+    "https://www.sbiaruhi-group.jp/news/publicity/it-leadersrpaocr",
+    "https://stockanalysis.com/quote/she/301285/company/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "HONGRIDA TECHNOLOGY Co., LTD. X 投稿",
+   "results": [
+    "https://www.hongrida.com/",
+    "https://baike.baidu.com/en/item/Hongrida%20Technology%20Co.%2C%20Ltd./62739",
+    "https://x.com/HonHai_Foxconn",
+    "https://www.foxconn.com/en-us",
+    "https://www.emis.com/php/company-profile/CN/Hong_Ri_Da_Technology_Company_Limited__%E9%B8%BF%E6%97%A5%E8%BE%BE%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8___%E9%B8%BF%E6%97%A5%E8%BE%BE%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8__Hong_Ri_Da_Technology_Company_Limited___en_14023447.html",
+    "https://www.moomoo.com/stock/301285-SZ/company",
+    "https://www.facebook.com/kartajayahermawan/videos/xhd-guangdong-xinhuida-machinery-technology-co-ltddongguan-china-may-12-2025the-/1071975188315229/",
+    "https://hstsmart.en.alibaba.com/",
+    "https://www.hongrida.com/uploads/20260929/37dc477ac84120de496f95bd358181f6.pdf",
+    "https://baike.baidu.com/en/item/Hongrida+Technology+Co.,+Ltd./62739"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部19頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部19頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部19頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部19頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部19頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部19頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部19頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部19頁・検索12回）",
+  "規模・親会社": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部19頁・検索12回）"
+ }
+}

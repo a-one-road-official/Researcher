@@ -1,0 +1,768 @@
+{
+ "name": "Hackerverse",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜AUMS不適合",
+ "researched_at": "2026-11-10T22:36:21.793413+00:00",
+ "official_url": "https://hackerverse.ai",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "HACKERverse® | Autonomous Cybersecurity Proof Engine",
+    "url": "https://hackerverse.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Replace vendor promises with cryptographically-signed evidence of what actually works.",
+    "url": "https://hackerverse.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "✓ 234 TTPs executed | 40 techniques | Proof signed",
+    "url": "https://hackerverse.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The MMA Ring for Cybersecurity Products",
+    "url": "https://hackerverse.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Think of it as a competitive arena where security tools prove themselves in combat. Our autonomous agents deploy real MITRE ATT&CK techniques against your defenses—not in a sanitized demo, but in a gloves-off, isolated battlefield.",
+    "url": "https://hackerverse.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Every test is recorded. Every result is cryptographically signed. If a vendor claims their product blocks 99% of attacks, we make them prove it. Right now. In a live arena.",
+    "url": "https://hackerverse.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Vendor Claims vs. Cryptographic Proof",
+    "url": "https://hackerverse.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Traditional evaluations rely on vendor-controlled demos, self-reported metrics, and PowerPoint decks. HACKERverse replaces all of that with independently verified, tamper-proof evidence.",
+    "url": "https://hackerverse.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "From deployment to cryptographic proof in minutes, not months.",
+    "url": "https://hackerverse.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We spin up an isolated AWS \"detonation chamber\"—a fully contained VPC with your security tool deployed exactly as it would be in production.",
+    "url": "https://hackerverse.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Every attack, every detection (or miss), every response is recorded, timestamped, and cryptographically signed for tamper-proof verification.",
+    "url": "https://hackerverse.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "signed proof artifacts",
+    "url": "https://hackerverse.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Stop trusting PowerPoint. Start demanding proof. See your security tools tested against 234 real-world TTPs—with cryptographically-signed results in under 10 minutes.",
+    "url": "https://hackerverse.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Hackerverse is EC-Council's global, skill-based Capture-the-Flag platform, hosting free-to-enter competitions where cybersecurity professionals from around the world test their skills, validate their expertise, and earn recognition through measurable performance.",
+    "url": "https://www.hackerverse.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Trusted by 19,000+ learners and professionals worldwide.",
+    "url": "https://www.hackerverse.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Participate in CTF Challenges and get a chance to win cash prizes and awards!",
+    "url": "https://www.hackerverse.com/",
+    "pass": 3
+   },
+   {
+    "quote": "cybersecurity video library*",
+    "url": "https://www.hackerverse.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Test your skills in web exploitation, AI supply chain attacks, AI vulnerability discovery through neuron fuzzing concepts, and advanced LLM exploitation. Uncover weaknesses and capture hidden flags across four progressive levels.",
+    "url": "https://www.hackerverse.com/",
+    "pass": 3
+   },
+   {
+    "quote": "completing a series of carefully designed questions that get progressively more difficult.",
+    "url": "https://www.hackerverse.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Players will compete against a global network for prizes and top rankings. The primary focus",
+    "url": "https://www.hackerverse.com/",
+    "pass": 3
+   },
+   {
+    "quote": "The Hackerverse CTF offers monthly cash and in-kind prizes to qualifying winners.",
+    "url": "https://www.hackerverse.com/",
+    "pass": 3
+   },
+   {
+    "quote": "CASH AND IN-KIND PRIZES",
+    "url": "https://www.hackerverse.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Experience EC-Council private Capture-the-Flag Competitions onsite",
+    "url": "https://www.hackerverse.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Hackerverse is a revolutionary decentralized hackathon platform that integrates smart contract automation, IPFS permanent storage, multi-wallet support, and community governance features, providing developers worldwide with a fair, transparent, and efficient innovation competition ecosystem.",
+    "url": "https://www.hackquest.io/ja/projects/HackX-Buildathon-hackerverse",
+    "pass": 3
+   },
+   {
+    "quote": "v1: 1.add project manage 2. add admin and judge manage",
+    "url": "https://www.hackquest.io/ja/projects/HackX-Buildathon-hackerverse",
+    "pass": 3
+   },
+   {
+    "quote": "Hackerverse is EC-Council's global, skill-based Capture-the-Flag platform, hosting free-to-enter competitions where cybersecurity professionals from around the world test their skills, validate their expertise, and earn recognition through measurable performance.",
+    "url": "https://www.hackerverse.com/register",
+    "pass": 3
+   },
+   {
+    "quote": "Trusted by 19,000+ learners and professionals worldwide.",
+    "url": "https://www.hackerverse.com/register",
+    "pass": 3
+   },
+   {
+    "quote": "Participate in CTF Challenges and get a chance to win cash prizes and awards!",
+    "url": "https://www.hackerverse.com/register",
+    "pass": 3
+   },
+   {
+    "quote": "cybersecurity video library*",
+    "url": "https://www.hackerverse.com/register",
+    "pass": 3
+   },
+   {
+    "quote": "Test your skills in web exploitation, AI supply chain attacks, AI vulnerability discovery through neuron fuzzing concepts, and advanced LLM exploitation. Uncover weaknesses and capture hidden flags across four progressive levels.",
+    "url": "https://www.hackerverse.com/register",
+    "pass": 3
+   },
+   {
+    "quote": "completing a series of carefully designed questions that get progressively more difficult.",
+    "url": "https://www.hackerverse.com/register",
+    "pass": 3
+   },
+   {
+    "quote": "Players will compete against a global network for prizes and top rankings. The primary focus",
+    "url": "https://www.hackerverse.com/register",
+    "pass": 3
+   },
+   {
+    "quote": "The Hackerverse CTF offers monthly cash and in-kind prizes to qualifying winners.",
+    "url": "https://www.hackerverse.com/register",
+    "pass": 3
+   },
+   {
+    "quote": "CASH AND IN-KIND PRIZES",
+    "url": "https://www.hackerverse.com/register",
+    "pass": 3
+   },
+   {
+    "quote": "Experience EC-Council private Capture-the-Flag Competitions onsite",
+    "url": "https://www.hackerverse.com/register",
+    "pass": 3
+   },
+   {
+    "quote": "Craig Ellrod, Founder & CEO of HACKERverse (Techstars 2024), is using AI to make cybersecurity software prove itself — replacing demos with real, automated validation.",
+    "url": "https://www.techstars.com/blog/startup-spotlight/hackerverse-craig-ellrod-is-replacing-pocs-with-autonomous-ai-validation",
+    "pass": 3
+   },
+   {
+    "quote": "HACKERverse.ai automates how cybersecurity software proves its value. Our platform uses AI and agentic automation to spin up live, production-like environments where tools are tested against real attack simulations — giving buyers proof instead of promises.",
+    "url": "https://www.techstars.com/blog/startup-spotlight/hackerverse-craig-ellrod-is-replacing-pocs-with-autonomous-ai-validation",
+    "pass": 3
+   },
+   {
+    "quote": "Today, proofs of concept (PoCs) take weeks or months and rely on subjective demos. HACKERverse cuts that to minutes, using autonomous evaluation arenas that validate products objectively and at scale.",
+    "url": "https://www.techstars.com/blog/startup-spotlight/hackerverse-craig-ellrod-is-replacing-pocs-with-autonomous-ai-validation",
+    "pass": 3
+   },
+   {
+    "quote": "The cybersecurity sales cycle is broken — buyers spend months testing tools in complex, manual PoCs that drain resources and still fail to prove efficacy.",
+    "url": "https://www.techstars.com/blog/startup-spotlight/hackerverse-craig-ellrod-is-replacing-pocs-with-autonomous-ai-validation",
+    "pass": 3
+   },
+   {
+    "quote": "HACKERverse.ai disrupts this by introducing Automated Autonomous Evaluation — a new standard where AI agents spin up live environments, run attack simulations, and generate proof automatically.",
+    "url": "https://www.techstars.com/blog/startup-spotlight/hackerverse-craig-ellrod-is-replacing-pocs-with-autonomous-ai-validation",
+    "pass": 3
+   },
+   {
+    "quote": "We’ve replaced human-dependent PoCs with AI-driven, continuous evaluations, turning a slow, biased, and expensive process into an instant, data-backed experience.",
+    "url": "https://www.techstars.com/blog/startup-spotlight/hackerverse-craig-ellrod-is-replacing-pocs-with-autonomous-ai-validation",
+    "pass": 3
+   },
+   {
+    "quote": "What was the most memorable experience from your Techstars program?",
+    "url": "https://www.techstars.com/blog/startup-spotlight/hackerverse-craig-ellrod-is-replacing-pocs-with-autonomous-ai-validation",
+    "pass": 3
+   },
+   {
+    "quote": "Midway through the program, we reframed everything: our category, our narrative, even our measure of success. The mentors pushed us to stop explaining what we built and start leading with why it matters. That shift turned HACKERverse from a product into a movement — where software finally has to prove itself.",
+    "url": "https://www.techstars.com/blog/startup-spotlight/hackerverse-craig-ellrod-is-replacing-pocs-with-autonomous-ai-validation",
+    "pass": 3
+   },
+   {
+    "quote": "What was your biggest takeaway from your time spent in program?",
+    "url": "https://www.techstars.com/blog/startup-spotlight/hackerverse-craig-ellrod-is-replacing-pocs-with-autonomous-ai-validation",
+    "pass": 3
+   },
+   {
+    "quote": "My biggest takeaway from Techstars was that clarity isn’t just a message — it’s momentum. I came in focused on building; I left focused on communicating why what we’re building matters. The program pushed us to refine our story until everyone — from investors to engineers — could feel the purpose behind “proof over promises.” That clarity changed how we lead, sell, and scale.",
+    "url": "https://www.techstars.com/blog/startup-spotlight/hackerverse-craig-ellrod-is-replacing-pocs-with-autonomous-ai-validation",
+    "pass": 3
+   },
+   {
+    "quote": "Muhammad Hunain, Founder and CEO of Melagen Labs (Techstars 2024), is a finalist for Playmaker of the Year at the 2026 Global Space Awards for his work protecting space hardware from cosmic radiation.",
+    "url": "https://www.techstars.com/blog/startup-spotlight/hackerverse-craig-ellrod-is-replacing-pocs-with-autonomous-ai-validation",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by 19,000+ learners and professionals worldwide.",
+    "url": "https://www.hackerverse.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Trusted by 19,000+ learners and professionals worldwide.",
+    "url": "https://www.hackerverse.com/register",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Challenges are available during each competition’s announced dates. Each CTF competition is independent. Scores and ranking levels do not carry over to the next competition.",
+    "url": "https://www.hackerverse.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Challenges are available during each competition’s announced dates. Each CTF competition is independent. Scores and ranking levels do not carry over to the next competition.",
+    "url": "https://www.hackerverse.com/register",
+    "pass": 3
+   },
+   {
+    "quote": "Midway through the program, we reframed everything: our category, our narrative, even our measure of success. The mentors pushed us to stop explaining what we built and start leading with why it matters. That shift turned HACKERverse from a product into a movement — where software finally has to prove itself.",
+    "url": "https://www.techstars.com/blog/startup-spotlight/hackerverse-craig-ellrod-is-replacing-pocs-with-autonomous-ai-validation",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "You’ll receive your login credentials shortly at the email address you used to register. Look for an email from EC-Council Learning, and check your spam or junk folder if you don’t see it in your inbox.",
+    "url": "https://www.hackerverse.com/",
+    "pass": 3
+   },
+   {
+    "quote": "You’ll receive your login credentials shortly at the email address you used to register. Look for an email from EC-Council Learning, and check your spam or junk folder if you don’t see it in your inbox.",
+    "url": "https://www.hackerverse.com/register",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "HACKERverse® | Autonomous Cybersecurity Proof Engine — The Autonomous Proof Engine for Cybersecurity HACKERverse deploys AI-powered bots in isolated battle arenas to test, attack, and validate cybersecurity tools in real-time. Cut evaluation cycles by 85%. Replace vendor promises with cryptographically-signed evidence of what actually works.",
+    "url": "https://hackerverse.ai/index",
+    "pass": 3
+   },
+   {
+    "quote": "Join the Hackerverse: CTF challenges and cybersecurity ... — Enhance your cybersecurity expertise with Capture the Flag (CTF) challenges. Compete globally in CTF competitions, sharpen your skills, and join the Hackerverse community now.",
+    "url": "https://www.hackerverse.com/",
+    "pass": 3
+   },
+   {
+    "quote": "hackerverse - HackQuest — Hackerverse is a revolutionary decentralized hackathon platform that integrates smart contract automation, IPFS permanent storage, multi-wallet support, and community governance features, providing developers worldwide with a fair, transparent, and efficient innovation competition ecosystem.",
+    "url": "https://www.hackquest.io/ja/projects/HackX-Buildathon-hackerverse",
+    "pass": 3
+   },
+   {
+    "quote": "Join the Hackerverse: CTF challenges and cybersecurity ... — Enhance your cybersecurity expertise with Capture the Flag (CTF) challenges. Compete globally in CTF competitions, sharpen your skills, and join the Hackerverse community now.",
+    "url": "https://www.hackerverse.com/register",
+    "pass": 3
+   },
+   {
+    "quote": "HACKERverse® | Autonomous Cybersecurity Proof Engine — HACKERverse delivers signed proof in under 10 minutes—freeing your team to build, not babysit demos. Across initial arena tests, security tools miss an average of 23% of real-world MITRE ATT&CK techniques—exposing critical blind spots vendors never mention in sales calls.",
+    "url": "https://hackerverse.ai/index",
+    "pass": 3
+   },
+   {
+    "quote": "HACKERverse Founder & CEO Craig Ellrod Is Replacing PoCs With ... — Oct 30, 2025 · HACKERverse cuts that to minutes, using autonomous evaluation arenas that validate products objectively and at scale. It’s important because cybersecurity buying decisions shape how the world defends itself — and right now, those decisions are made on faith, not facts.",
+    "url": "https://www.techstars.com/blog/startup-spotlight/hackerverse-craig-ellrod-is-replacing-pocs-with-autonomous-ai-validation",
+    "pass": 3
+   },
+   {
+    "quote": "HACKERverse keeps attack case and product response visible — HACKERverse keeps the attack case and product response visible, so the conversation can stay focused on what actually ran and how the product behaved instead of becoming another argument about...",
+    "url": "https://www.linkedin.com/posts/hackerverse_hackerverse-worldhackergames-proof-activity-7487944162005139456-qfgx",
+    "pass": 3
+   },
+   {
+    "quote": "Cybersecurity Success Can Be a Teachable Moment | HACKERverse ... — HACKERverse records the defined attack case alongside the product response and supporting evidence, which means a successful result doesn’t have to be treated as something the team simply checks...",
+    "url": "https://www.linkedin.com/posts/hackerverse_hackerverse-worldhackergames-proof-activity-7508899301587283969-B2jM",
+    "pass": 3
+   },
+   {
+    "quote": "The MMA Ring for Cybersecurity — HackerVerse | AI for Founders — May 27, 2025 · At organizations running 70+ security tools across fragmented departments, the tech closet problem is endemic. HackerVerse's thesis is that showing the product working under realistic conditions - before the purchase - solves both problems simultaneously.",
+    "url": "https://aiforfounders.co/podcast/the-mma-ring-for-cybersecurity-inside-hackerverses-product-showdowns",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "HackerVerse.io (@Hackerverseio) / X HackerVerse is the first-of-its-kind product that includes companies building products, engineers, product thinkers, designers, and community evangelists in one place.",
+    "url": "https://x.com/Hackerverseio",
+    "pass": 3
+   },
+   {
+    "quote": "HACKERverse (@_KIKRR_) / Posts / X HACKERverse (@_KIKRR_) - Posts - ⚡️The esports platform and marketplace for cybersecurity 🔥The cybersecurity sales revolution has ... | X (formerly Twitter)",
+    "url": "https://x.com/_KIKRR_",
+    "pass": 3
+   },
+   {
+    "quote": "Steve (@hackerverse) / Posts / X Steve (@hackerverse) - Posts - Taking a nap. | X (formerly Twitter) hackerverse Location: Canada Joined: Mar 20, 2014 3Posts 2Following 4Followers",
+    "url": "https://x.com/hackerverse",
+    "pass": 3
+   },
+   {
+    "quote": "The #Hackerverse helps you move beyond concepts and into ... Hackerverse Official (@hackerverse_ecc). 9 views. The #Hackerverse helps you move beyond concepts and into practical problem-solving through challenges designed to reflect real-world cybersecurity scenarios.",
+    "url": "https://x.com/hackerverse_ecc/status/2025994087568973856",
+    "pass": 3
+   },
+   {
+    "quote": "\"#HACKERverse\" - Results on X | Live Posts & Updates Results for \"#HACKERverse\" on X (Twitter). Find the latest posts, discussions, and updates about #HACKERverse. 19 results found.",
+    "url": "https://x.com/hashtag/HACKERverse",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "HACKERverse® - LinkedIn Where CyberSecurity Proves Itself! | HACKERverse® is the autonomous cybersecurity proof engine platform — built to replace vendor-graded simulations with cryptographic attestation.",
+    "url": "https://www.linkedin.com/company/hackerverse",
+    "pass": 3
+   },
+   {
+    "quote": "Hackerverse - LinkedIn Join Hackerverse, the global CTF competition ecosystem by EC-Council. Participate in #CTF challenges, hone your skills, solve real-world problems, and rise in the cybersecurity field.",
+    "url": "https://www.linkedin.com/company/hackerverse-official",
+    "pass": 3
+   },
+   {
+    "quote": "HackerVerse.io - LinkedIn About us HackerVerse (or HV) is a metaverse tech community of engineers, tech geeks, creators, and like-minded enthusiasts.",
+    "url": "https://www.linkedin.com/company/hackerverse-io",
+    "pass": 3
+   },
+   {
+    "quote": "HACKER verse® - Join the HACKERverse® | LinkedInJoin the Hackerverse CTF: A Global Cybersecurity Competition ...Cybersecurity Evaluation Context with HACKERverse - LinkedInIntroducing HACKERverse®, a new cybersecurity community Join the HACKERverse® · Experience: HACKERverse® · Location: Castle Rock · 87 connections on LinkedIn. View HACKER verse®’s profile on LinkedIn, a professional community of",
+    "url": "https://www.linkedin.com/in/hacker-verse®-199418235",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Hackerverse - Facebook Oct 5, 2026 · Hackerverse is where learners and professionals come together to solve challenges, test their skills, and grow through real CTF competition. Take the first step in your CTF journey.",
+    "url": "https://www.facebook.com/hackerverse.official/",
+    "pass": 3
+   },
+   {
+    "quote": "HACKERverse - Facebook Oct 2, 2025 · HACKERverse® is where cybersecurity products prove their worth fast. Upload your tool, watch our AI build a production-like environment, and see it face real attack simulations.",
+    "url": "https://www.facebook.com/HACKERverse/",
+    "pass": 3
+   },
+   {
+    "quote": "Hackerverse - ⏳ Final hours. The Hackerverse DFIR CTF ... Oct 5, 2026 · Step into the live VM and take on intense DFIR challenges. Every flag earned brings you closer to the leaderboard’s best. Entry is free. Prizes are on the line. Time is running out. Prove your skills. Earn your rank. Enter the Hackerverse. #Hackerverse #DFIR #CTF #FreeCTF #DigitalForensics #IncidentResponse Hackerverse 1w · Pu",
+    "url": "https://www.facebook.com/hackerverse.official/posts/-final-hours-the-hackerverse-dfir-ctf-closes-in-a-few-hours-enter-the-hackervers/122177216138650211/",
+    "pass": 3
+   },
+   {
+    "quote": "Hackerverse - The Hackerverse DFIR CTF is live ... - Facebook Sep 29, 2026 · One live VM. One challenging DFIR investigation. Four missions that get progressively tougher. Just six hours to crack it. Hackerverse is back. Prove your DFIR skills. Win big. Enter the hackerverse from",
+    "url": "https://www.facebook.com/hackerverse.official/posts/the-hackerverse-dfir-ctf-is-live-register-or-log-in-and-crack-the-case-️1-live-v/122176647470650211/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://hackerverse.ai/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.hackerverse.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hackquest.io/ja/projects/HackX-Buildathon-hackerverse",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000183523.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hackerverse.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.nozominetworks.com/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hackerverse.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hackerverse.com/register",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.etnownews.com/technology/japan-declares-cybersecurity-emergency-as-ai-powered-attacks-hit-14-million-citizens-and-breach-495-businesses-article-156326067",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indiehackers.com/post/japan-data-breach-map-who-got-hit-in-october-2026-and-how-the-attackers-got-in-4c6cd6ac6c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techstars.com/blog/startup-spotlight/hackerverse-craig-ellrod-is-replacing-pocs-with-autonomous-ai-validation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/hackerverse_hackerverse-worldhackergames-proof-activity-7487944162005139456-qfgx",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/hackerverse_hackerverse-worldhackergames-proof-activity-7508899301587283969-B2jM",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.verkada.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Hackerverseio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/_KIKRR_",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hackerverse",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hackerverse_ecc/status/2025994087568973856",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/hackerverse",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/hackerverse-official",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/hackerverse-io",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/hacker-verse®-199418235",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/hackerverse.official/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/HACKERverse/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/hackerverse.official/posts/-final-hours-the-hackerverse-dfir-ctf-closes-in-a-few-hours-enter-the-hackervers/122177216138650211/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/hackerverse.official/posts/the-hackerverse-dfir-ctf-is-live-register-or-log-in-and-crack-the-case-️1-live-v/122176647470650211/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Hackerverseio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/HACKERverse",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Hackerverse 日本 導入",
+   "results": [
+    "https://hackerverse.ai/index",
+    "https://www.hackerverse.com/",
+    "https://www.hackquest.io/ja/projects/HackX-Buildathon-hackerverse",
+    "https://prtimes.jp/main/html/rd/p/000000003.000183523.html",
+    "https://news.mynavi.jp/techplus/article/20261009-5091768/",
+    "https://www.itmedia.co.jp/business/articles/2610/08/news016.html",
+    "https://qiita.com/NDA/items/6bd42cacbf31163ffb58"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hackerverse 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.hackerverse.com/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://ja.nozominetworks.com/company",
+    "https://www.capgemini.com/jp-jp/about-us/overview-and-access/",
+    "https://jpmktg.winbond.com/",
+    "https://www.aon.com/japan/company-overview"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hackerverse Japan",
+   "results": [
+    "https://www.hackerverse.com/",
+    "https://www.hackerverse.com/register",
+    "https://www.etnownews.com/technology/japan-declares-cybersecurity-emergency-as-ai-powered-attacks-hit-14-million-citizens-and-breach-495-businesses-article-156326067",
+    "https://www.indiehackers.com/post/japan-data-breach-map-who-got-hit-in-october-2026-and-how-the-attackers-got-in-4c6cd6ac6c",
+    "https://japancyberwatch.com/",
+    "https://www.linkedin.com/company/hackerverse",
+    "https://hackerverse.ai/index"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hackerverse manufacturing customer case study",
+   "results": [
+    "https://hackerverse.ai/index",
+    "https://www.techstars.com/blog/startup-spotlight/hackerverse-craig-ellrod-is-replacing-pocs-with-autonomous-ai-validation",
+    "https://www.linkedin.com/posts/hackerverse_hackerverse-worldhackergames-proof-activity-7487944162005139456-qfgx",
+    "https://www.linkedin.com/posts/hackerverse_hackerverse-worldhackergames-proof-activity-7508899301587283969-B2jM",
+    "https://aiforfounders.co/podcast/the-mma-ring-for-cybersecurity-inside-hackerverses-product-showdowns",
+    "https://medium.com/@Dragon_warrior/hackerverse-july-ctf-a-fun-deep-dive-8d2653089820",
+    "https://www.futurismtechnologies.com/cyber-security-casestudy/manufracturing/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hackerverse white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://www.verkada.com/partners/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://partners.spectrum.com/",
+    "https://www.seoreseller.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hackerverse founded funding employees revenue",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com Hackerverse",
+   "results": [
+    "https://note.com/_ninety__five_/n/n7d070403b566",
+    "https://note.com/c0rkk_0n_g14c3/n/n3d6ff473e96d",
+    "https://note.com/dean4602208686/n/nee8509052992",
+    "https://note.com/miyazakimitsuo/n/n215362175fa5",
+    "https://note.com/calm_ixora907/n/n3eb07ba22132",
+    "https://note.com/semicontimes/n/n9f490160f69f",
+    "https://note.com/kumiko_shiraki/n/n71a4935ed2dc"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Hackerverse",
+   "results": [
+    "https://x.com/Hackerverseio",
+    "https://x.com/_KIKRR_",
+    "https://x.com/hackerverse",
+    "https://x.com/hackerverse_ecc/status/2025994087568973856",
+    "https://x.com/hashtag/HACKERverse",
+    "https://x.com/hackerverse_ecc/status/2071282552669630705",
+    "https://x.com/hackerverse_ecc/status/2039685390353715283"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Hackerverse",
+   "results": [
+    "https://www.linkedin.com/company/hackerverse",
+    "https://www.linkedin.com/company/hackerverse-official",
+    "https://www.linkedin.com/company/hackerverse-io",
+    "https://www.linkedin.com/in/hacker-verse®-199418235",
+    "https://www.linkedin.com/posts/ec-council_hackerversectf-capturetheflag-hackerverse-activity-7353472200969998336-yUdI",
+    "https://www.linkedin.com/posts/hackerverse_the-autonomous-activity-7514006215841001473-XS-k",
+    "https://www.linkedin.com/posts/hackerverse_since-our-community-has-grown-quite-a-activity-7229547542525399040-PIyw"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Hackerverse",
+   "results": [
+    "https://www.facebook.com/hackerverse.official/",
+    "https://www.facebook.com/HACKERverse/",
+    "https://www.facebook.com/hackerverse.official/posts/-final-hours-the-hackerverse-dfir-ctf-closes-in-a-few-hours-enter-the-hackervers/122177216138650211/",
+    "https://www.facebook.com/hackerverse.official/posts/the-hackerverse-dfir-ctf-is-live-register-or-log-in-and-crack-the-case-️1-live-v/122176647470650211/",
+    "https://www.facebook.com/hackerverse.official/posts/-just-one-day-left-make-it-count-the-hackerverse-dfir-live-vm-ctf-closes-on-octo/122177130572650211/",
+    "https://www.facebook.com/hackerverse.official/videos/the-ultimate-ctf-challenge-is-back-the-hackerverse-ctf-returns-this-may-with-a-n/1576667133888714/",
+    "https://www.facebook.com/hackerverse.official/posts/every-month-brings-a-new-ctf-challenge-on-the-hackerverse-platform-and-a-fresh-c/122168178998650211/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hackerverse note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://diamond.jp/articles/-/388572"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hackerverse X 投稿",
+   "results": [
+    "https://x.com/Hackerverseio",
+    "https://x.com/hashtag/HACKERverse",
+    "https://www.hackerverse.com/",
+    "https://www.instagram.com/hackerverse_official/",
+    "https://github.com/HackerVerse-X",
+    "https://www.youtube.com/@HackerverseX",
+    "https://www.hackerverse.eu/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）"
+ }
+}

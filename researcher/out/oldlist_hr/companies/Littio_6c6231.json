@@ -1,0 +1,1052 @@
+{
+ "name": "Littio",
+ "aliases": [],
+ "context": "旧営業リスト｜Neobank / Digital Banking｜AUMS不適合",
+ "researched_at": "2026-11-10T22:26:43.820777+00:00",
+ "official_url": "https://www.littio.co/",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/littio-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$500,000",
+    "url": "https://prospeo.io/c/littio-revenue",
+    "pass": 3
+   },
+   {
+    "label": "3. Seed Round",
+    "value": "17-Apr-2023    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/490690-90",
+    "pass": 3
+   },
+   {
+    "label": "1. Seed Round",
+    "value": "10-Mar-2022 $3.7M $3.7M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/490690-90",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Suba, Capital District, Colombia",
+    "url": "https://prospeo.io/c/littio-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Empieza gratis desde tu celular. 1% de cashback con Pro.",
+    "url": "https://littio.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Una tarjeta para compras, viajes y tu día a día.",
+    "url": "https://littio.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Empieza gratis. Con Pro, recompensas más altas.",
+    "url": "https://littio.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Cada meta merece su propio plan.",
+    "url": "https://littio.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Tokens que replican el precio de las empresas más grandes del mundo. Participa en el resultado de 18 empresas y 6 fondos de EE. UU. desde 1 USDc. Producto sintético provisto por Dinari. El valor puede subir o bajar.",
+    "url": "https://littio.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Compras oro al precio de ese momento. El valor puede subir o bajar.",
+    "url": "https://littio.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Compras y ventas a cualquier hora. El valor puede subir o bajar.",
+    "url": "https://littio.co/",
+    "pass": 1
+   },
+   {
+    "quote": "$0 con Pro",
+    "url": "https://littio.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Hago freelos y uso Littio para recibir mis pagos. Es fácil de usar y me sale mucho mejor que otras opciones que he probado.",
+    "url": "https://littio.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Cómo aprovechar el dólar barato y ganar hasta 12% anual",
+    "url": "https://littio.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Las condiciones que acompañan cada producto. Se ven antes de activar.",
+    "url": "https://littio.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Cada producto, sus condiciones",
+    "url": "https://littio.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Recarga tu saldo o recibe tu primer pago. Tú eliges por dónde empezar.",
+    "url": "https://littio.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Littio no es un banco ni está vigilado por la Superintendencia Financiera. Opera con activos digitales (USDc, EURc, COPm) y cada producto tiene sus condiciones.",
+    "url": "https://littio.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Selenio es el asistente de Littio. Lo abres en la app o por el WhatsApp registrado. Te ayuda con productos, envíos y lo que está en curso.",
+    "url": "https://littio.co/",
+    "pass": 1
+   },
+   {
+    "quote": "¿Littio PRO se renueva solo?",
+    "url": "https://littio.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Descarga Littio, verifica tu identidad y recibe tu primer pago del exterior.",
+    "url": "https://littio.co/",
+    "pass": 1
+   },
+   {
+    "quote": "实测支持 ChatGPT Plus、Claude Pro 等海外订阅及国际海淘消费",
+    "url": "https://ucard.observer/cards/littio-card/",
+    "pass": 3
+   },
+   {
+    "quote": "官网当前写收益介于 Bolsillos 的 4% E.A. 与 Bóvedas 的 9.8% E.A. 之间；Bóvedas 的 USDC 档为 90 天期限（9.8% 需 Littio Pro），可随时取用的是 Bolsillos（4% E.A.）",
+    "url": "https://ucard.observer/cards/littio-card/",
+    "pass": 3
+   },
+   {
+    "quote": "官网首页写「Elige el plazo que mejor se adapte a tus planes y obtén recompensas entre el 4% E.A. con Bolsillos y el 9.8% E.A. con Bóvedas en USDC a 90 días con Littio Pro」",
+    "url": "https://ucard.observer/cards/littio-card/",
+    "pass": 3
+   },
+   {
+    "quote": "：实测支持 ChatGPT Plus、Claude Pro 等海外订阅及国际海淘消费",
+    "url": "https://ucard.observer/cards/littio-card/",
+    "pass": 3
+   },
+   {
+    "quote": "Littio 官网（littio.co，2026-11-05 核对）写「Compra y paga en USDC, EURC o MXMB en más de 190 países」，并写以美元、欧元或数字比索消费「$0 en comisiones」，0 月管理费不变",
+    "url": "https://ucard.observer/cards/littio-card/",
+    "pass": 3
+   },
+   {
+    "quote": "Littio 官网（littio.co）写「recompensas entre el 4% E.A. con Bolsillos y el 9.8% E.A. con Bóvedas en USDC a 90 días con Littio Pro」：Bolsillos 是灵活期限（4% E.A.），Bóvedas 按所选期限锁定（USDC 90 天，9.8% 需 Littio Pro）",
+    "url": "https://ucard.observer/cards/littio-card/",
+    "pass": 3
+   },
+   {
+    "quote": "Littio 官网（「recompensas entre el 4% E.A. con Bolsillos y el 9.8% E.A. con Bóvedas en USDC a 90 días con Littio Pro」「$0 en cuota de manejo」，2026-10-26 核对）",
+    "url": "https://ucard.observer/cards/littio-card/",
+    "pass": 3
+   },
+   {
+    "quote": "Start for free from your phone. 1% cashback with Pro.",
+    "url": "https://littio.co/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Start for free. With Pro, higher rewards.",
+    "url": "https://littio.co/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Tokens that track the price of the world's largest companies. Get exposure to the performance of 18 US companies and 6 funds from 1 USDc. Synthetic product provided by Dinari. The value can go up or down.",
+    "url": "https://littio.co/en/",
+    "pass": 3
+   },
+   {
+    "quote": "You buy gold at the current price. The value can go up or down.",
+    "url": "https://littio.co/en/",
+    "pass": 3
+   },
+   {
+    "quote": "$0 with Pro",
+    "url": "https://littio.co/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Cómo aprovechar el dólar barato y ganar hasta 12% anual",
+    "url": "https://littio.co/en/",
+    "pass": 3
+   },
+   {
+    "quote": "The terms that come with each product. You see them before activating.",
+    "url": "https://littio.co/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Every product, its own terms",
+    "url": "https://littio.co/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Littio is not a bank and is not supervised by the Superintendencia Financiera, Colombia's financial regulator. It operates with digital assets (USDc, EURc, COPm) and each product has its own terms.",
+    "url": "https://littio.co/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Selenio is Littio's assistant. You open it in the app or through your registered WhatsApp. It helps you with products, transfers and anything in progress.",
+    "url": "https://littio.co/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Does Littio PRO renew automatically?",
+    "url": "https://littio.co/en/",
+    "pass": 3
+   },
+   {
+    "quote": "🔺 Avalanche unlocks worldwide access to a diverse range of investment products and utilities 🔺",
+    "url": "https://crypto-times.jp/news-avalanche-littio/",
+    "pass": 3
+   },
+   {
+    "quote": "Start for free from your phone. 1% cashback with Pro.",
+    "url": "https://littio.co/en/card",
+    "pass": 3
+   },
+   {
+    "quote": "Through our intuitive, secure, and accessible app, we offer a Global Multicurrency Account that allows people to choose their preferred currency for saving, sending, spending and investing.",
+    "url": "https://prospeo.io/c/littio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View contact profiles from",
+    "url": "https://prospeo.io/c/littio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Crossroads Turning Points",
+    "url": "https://prospeo.io/c/littio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Littio has approximately",
+    "url": "https://prospeo.io/c/littio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/littio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/littio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Get Targeted Leads for free",
+    "url": "https://prospeo.io/c/littio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Littio 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/490690-90",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of a financial application designed to protect money without any hidden costs.",
+    "url": "https://pitchbook.com/profiles/company/490690-90",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of a financial application designed to protect money without any hidden costs. The company's application manages its finances in a stable currency, sends and receives international payments seamlessly, and potentially grows its wealth through dollar-denominated investments, mitigating the risks associated with currency devaluation, enabling users to generate returns in digital dollars.",
+    "url": "https://pitchbook.com/profiles/company/490690-90",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/490690-90",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/490690-90",
+    "pass": 3
+   },
+   {
+    "quote": "17-Apr-2023",
+    "url": "https://pitchbook.com/profiles/company/490690-90",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/490690-90",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/490690-90",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/490690-90",
+    "pass": 3
+   },
+   {
+    "quote": "Littio’s primary industry is Financial Software.",
+    "url": "https://pitchbook.com/profiles/company/490690-90",
+    "pass": 3
+   },
+   {
+    "quote": "Is Littio a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/490690-90",
+    "pass": 3
+   },
+   {
+    "quote": "Littio is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/490690-90",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/490690-90",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/490690-90",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/490690-90",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/littio.co",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "If a payment is taking a while to arrive.",
+    "url": "https://littio.co/en/",
+    "pass": 3
+   },
+   {
+    "quote": "A fee, and it often arrives in pesos",
+    "url": "https://littio.co/en/",
+    "pass": 3
+   },
+   {
+    "quote": "In your Wallet you activate your ACH details (account and routing number, in your name) or your IBAN. With them you receive from a bank, Deel, Wise or another platform. You can see the estimated arrival time in the app before the payment is sent.",
+    "url": "https://littio.co/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Littio Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/littio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Littio",
+    "url": "https://prospeo.io/c/littio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/littio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/littio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/littio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Littio?",
+    "url": "https://prospeo.io/c/littio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Littio generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/littio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/littio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/littio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Littio have?",
+    "url": "https://prospeo.io/c/littio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/littio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/490690-90",
+    "pass": 3
+   },
+   {
+    "quote": "Littio has 43 total employees.",
+    "url": "https://pitchbook.com/profiles/company/490690-90",
+    "pass": 3
+   },
+   {
+    "quote": "What is Littio’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/490690-90",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Littio is",
+    "url": "https://pitchbook.com/profiles/company/490690-90",
+    "pass": 3
+   },
+   {
+    "quote": "Littio Revenue 2024: $3.8M Est.",
+    "url": "https://getlatka.com/companies/littio.co",
+    "pass": 3
+   },
+   {
+    "quote": "Littio has not published its revenue. GetLatka estimates it at about $3.8M a year (June 2024).",
+    "url": "https://getlatka.com/companies/littio.co",
+    "pass": 3
+   },
+   {
+    "quote": "Littio CEO, founders & employees",
+    "url": "https://getlatka.com/companies/littio.co",
+    "pass": 3
+   },
+   {
+    "quote": "Luis Huertas founded Littio in 2021 and runs it as CEO. Littio had 25 employees (June 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/littio.co",
+    "pass": 3
+   },
+   {
+    "quote": "What is Littio's revenue?",
+    "url": "https://getlatka.com/companies/littio.co",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Littio's revenue at about",
+    "url": "https://getlatka.com/companies/littio.co",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Littio have?",
+    "url": "https://getlatka.com/companies/littio.co",
+    "pass": 3
+   },
+   {
+    "quote": "employees in June 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/littio.co",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/littio.co",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/littio.co",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/littio.co",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Littio Card U卡：费用、KYC、返现与申请地区（2026） · U卡观察 — Oct 15, 2026 · Littio Card：Littio Card 是拉丁美洲领先数字美元新银行平台 Littio 联合 Pomelo 发行的 Mastercard 金卡（Mastercard Gold Contactl… 查阅费用、返现、KYC、申请地区与官方来源。核验日期：2026-10-26。",
+    "url": "https://ucard.observer/cards/littio-card/",
+    "pass": 3
+   },
+   {
+    "quote": "Littio: Your Dollar Account - Access a Bank Account in the ... — Open your dollar account with Littio and access banking services in the United States from Latin America. Start from $1.",
+    "url": "https://littio.co/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Avalanche、ネオバンクLittioの米ドル口座の強化へ - CRYPTO TIMES — Oct 10, 2024 · コロンビアのネオバンクLittioがAvalancheと提携し、Opentradeのブロックチェーンベースのプラットフォームを通じて利息付きの米ドル口座を提供することを発表しました。 モバイルバンキングで知られるLittioは、Opentradeの実世界資産で裏付けられた「Yield…",
+    "url": "https://crypto-times.jp/news-avalanche-littio/",
+    "pass": 3
+   },
+   {
+    "quote": "Littio Card: Your International Mastercard Without Management ... — Discover the Littio Card, your international Mastercard with no maintenance fee. Use your card in multiple currencies and enjoy global shopping without additional fees.",
+    "url": "https://littio.co/en/littio-card",
+    "pass": 3
+   },
+   {
+    "quote": "Littio - LinkedIn — Littio | 14,894 followers on LinkedIn. The app for global citizens | Littio es una plataforma tecnológica para ciudadanos del mundo. Desde una sola app, las personas pueden recibir pagos desde ...",
+    "url": "https://www.linkedin.com/company/littio-co",
+    "pass": 3
+   },
+   {
+    "quote": "OpenTrade Case Study: Littio – How OpenTrade is helping ... — Littio (Internet) partnered with OpenTrade (Internet) to solve key challenges. \"How OpenTrade is helping Littio, a neobanking application for LATAM\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/opentrade/case-study/how-opentrade-is-helping-littio-a-neobanking-application-for-latam",
+    "pass": 3
+   },
+   {
+    "quote": "Littio Turned Idle USDC Into $250K+ in User Earnings - OpenTrade — Through Littio's partnership with OpenTrade, Littio can directly invest USDC & EURC from their segregated wallet into yield-generating assets via OpenTrade.",
+    "url": "https://www.opentrade.io/case-studies/littio",
+    "pass": 3
+   },
+   {
+    "quote": "Littio Revenue, Funding & Valuation - prospeo.io — Littio has revenue of $3,251,090, estimated valuation of $10,500,000, $500,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/littio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Littio 2026 Company Profile: Valuation, Funding & Investors ...Littio Revenue, Valuation & Funding History (2024)Littio - 2026 Company Profile, Team, Funding & Competitors ...Littio: Funding, Investors & Team (Oct 2026) | FundedIQLittio — Funding, Investors & Team | SeedtableLittio: Funding, Team & Investors | Startup Intros — Littio has 43 total employees. What industry is Littio in? Littio’s pri",
+    "url": "https://pitchbook.com/profiles/company/490690-90",
+    "pass": 3
+   },
+   {
+    "quote": "Littio Revenue, Valuation & Funding History (2024) — Apr 10, 2025 · Littio's revenue history, valuation, funding rounds and customer growth for 2024 — see the full breakdown on GetLatka. Updated Apr 10, 2025.",
+    "url": "https://getlatka.com/companies/littio.co",
+    "pass": 3
+   },
+   {
+    "quote": "Littio - 2026 Company Profile, Team, Funding & Competitors ... — Feb 16, 2026 · Littio is a seed company based in Bogota (Colombia), founded in 2021 by Luis Huertas, Ivan Torroledo Pena and Christian Daccach. It operates as an App-based money management and payment card for individuals. Littio has raised $500K in funding from Y Combinator. The company has 3 active competitors, including 2 that are",
+    "url": "https://tracxn.com/d/companies/littio/__XI20PwaLggWIu6suxaJNOIuHb0Zk_O86MACwZ5R6R9k",
+    "pass": 3
+   },
+   {
+    "quote": "Littio: Funding, Investors & Team (Oct 2026) | FundedIQ — Littio is a Financial Services company in Bogotá, Colombia. Raised $500k across 1 round; latest a Pre-Seed in Apr 2023. Investors and funding history.",
+    "url": "https://fundediq.co/littio-littio-co-funding/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "OpenTrade Case Study: Littio – How OpenTrade is helping Littio, a neobanking application for LATAM | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/opentrade/case-study/how-opentrade-is-helping-littio-a-neobanking-application-for-latam",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Littio used OpenTrade",
+    "url": "https://www.casestudies.com/company/opentrade/case-study/how-opentrade-is-helping-littio-a-neobanking-application-for-latam",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/opentrade/case-study/how-opentrade-is-helping-littio-a-neobanking-application-for-latam",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/opentrade/case-study/how-opentrade-is-helping-littio-a-neobanking-application-for-latam",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/littio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/490690-90",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Littio (@littioco) / X Littio @littioco Nov 26, 2024 En @pulzo ya puedes leer las ventajas que te da Littio Card para la temporada de descuentos que se acerca con Black Friday y Navidad. 🚀",
+    "url": "https://x.com/littioco",
+    "pass": 3
+   },
+   {
+    "quote": "Forbes Colombia on X: \"Littio, la fintech colombiana que ... Forbes Colombia @forbescolombia Littio, la fintech colombiana que ofrece cuentas multimoneda respaldadas en criptomonedas estables con paridad al dólar y al euro, fue seleccionada como Empresa Endeavor tras superar el Panel Internacional 106 celebrado en Singapur. 👉 f.mtr.cool/utnmynjuwt 9:47 PM · Mar 6, 2026 906Views 2 2 17 1 Ontop @ont",
+    "url": "https://x.com/forbescolombia/status/2030037555781960063",
+    "pass": 3
+   },
+   {
+    "quote": "dataiFX on X: \"Littio habilita desde US$1 el acceso a ... Littio habilita desde US$1 el acceso a acciones y ETFs de Estados Unidos https://t.co/PMhnt3fSA1",
+    "url": "https://x.com/dataiFX/status/2094560067110449326",
+    "pass": 3
+   },
+   {
+    "quote": "Littio (@littioco) / X Littio @littioco Nov 19, 2024 Cuatro estrategias para aprovechar la temporada de descuentos con tu Littio Card: - Revisar precios con anticipación - Llenar el carrito de compras desde ya - Aprovechar envíos internacionales gratuitos ¿Quieres saber más? 👇",
+    "url": "https://x.com/littioco",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Littio - LinkedIn Littio | 14,894 followers on LinkedIn. The app for global citizens | Littio es una plataforma tecnológica para ciudadanos del mundo. Desde una sola app, las personas pueden recibir pagos desde ...",
+    "url": "https://www.linkedin.com/company/littio-co",
+    "pass": 3
+   },
+   {
+    "quote": "Littio | LinkedIn Littio | 14.863 seguidores en LinkedIn. La cuenta para ciudadanos globales. | Littio is a digital bank that builds financial services in U.S. dollars and Euros for people in Latin America. Through our intuitive, secure, and accessible app, we offer a Global Multicurrency Account that allows people to choose their preferred currency for saving, sending, spending and investing. Gui",
+    "url": "https://mx.linkedin.com/company/littio-co",
+    "pass": 3
+   },
+   {
+    "quote": "Luis Huertas - Stealth Startup | LinkedIn Luis is the Co-Founder of Littio (YC), a fintech company that builds dollar-backed… · Experience: Stealth Startup · Education: Y Combinator · Location: New York · 500+ connections on ...",
+    "url": "https://www.linkedin.com/in/luiseduardohuertas",
+    "pass": 3
+   },
+   {
+    "quote": "Christian Knudsen Daccach - Littio | LinkedIn Experiencia: Littio · Educación: Y Combinator · Ubicación: Colombia · Más de 500 contactos en LinkedIn. Ver el perfil de Christian Knudsen Daccach en LinkedIn, una red profesional de más de 1.000 millones de miembros.",
+    "url": "https://co.linkedin.com/in/christian-knudsen-littio",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Littio - FacebookLittio Littio Littio (@littio) • Facebook, Connect with friendsLittio - FacebookCompra dólares y protege tu capital de la devaluación | LittioLittio - ¡Aprovecha hoy y recarga tu cuenta con $20 COP de ...Littio on Reels - FacebookLittio on Reels - Facebook Littio. 3,063 followers · 750 talking about this. La cuenta global para ciudadanos del mundo Traspasa las fronteras con tu cue",
+    "url": "https://www.facebook.com/littio.col/",
+    "pass": 3
+   },
+   {
+    "quote": "Littio Littio Littio (@littio) • Facebook, Connect with friends Littio Littio Littio is on Facebook. Join Facebook to connect with Littio Littio Littio and others you may know. Facebook gives people the power to share and makes the world more open and connected.",
+    "url": "https://www.facebook.com/littio/",
+    "pass": 3
+   },
+   {
+    "quote": "Littio - Facebook Jun 21, 2023 · Littio. 1,455 followers. Banda tapatía de rock-alternativo, conformada por César Toscano, Mario Anaya, Miguel Gutiérrez, Marco Olmos y Carlos Delgadillo....",
+    "url": "https://www.facebook.com/littioband/",
+    "pass": 3
+   },
+   {
+    "quote": "Compra dólares y protege tu capital de la devaluación | LittioLittio - ¡Aprovecha hoy y recarga tu cuenta con $20 COP de ...Littio on Reels - FacebookLittio on Reels - Facebook Oct 2, 2025 · Aprovecha tu cuenta Littio al máximo Compra dólares y protege tu capital de la devaluación Marlon Montes and 7 others 8 Aug 12, 2024 · En Littio, celebramos esa fe en el futuro y la acompañamos con las herrami",
+    "url": "https://www.facebook.com/littio.col/videos/aprovecha-tu-cuenta-littio-al-máximo/792626483632886/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://littio.co/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://ucard.observer/cards/littio-card/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://littio.co/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://crypto-times.jp/news-avalanche-littio/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kuruma-news.jp/post/1009278",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jomon.group/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mo.globalsmi.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000161875.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.millerjapan.com/outline/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://littio.co/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://littio.co/en/card",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qxciw.com/video-E4YXLjjwrLg/japanese-innocent-little-adult-himekawa/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/littio-co",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.casestudies.com/company/opentrade/case-study/how-opentrade-is-helping-littio-a-neobanking-application-for-latam",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.opentrade.io/case-studies/littio",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://littio.co/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://partnerportal.fortinet.com/English/?ReturnUrl=%2FEnglish%2FNAReseller%2Fhome.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/littio-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/490690-90",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/littio.co",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/littio/__XI20PwaLggWIu6suxaJNOIuHb0Zk_O86MACwZ5R6R9k",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/littioco",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/forbescolombia/status/2030037555781960063",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/dataiFX/status/2094560067110449326",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/littio-co",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://mx.linkedin.com/company/littio-co",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/luiseduardohuertas",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://co.linkedin.com/in/christian-knudsen-littio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/littio.col/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/littio/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/littioband/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/littio.col/videos/aprovecha-tu-cuenta-littio-al-máximo/792626483632886/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/littioco",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Littio 日本 導入",
+   "results": [
+    "https://ucard.observer/cards/littio-card/",
+    "https://littio.co/en/",
+    "https://crypto-times.jp/news-avalanche-littio/",
+    "https://kuruma-news.jp/post/1009278",
+    "https://mc-web.jp/motorcycle/163652/",
+    "https://dc.watch.impress.co.jp/docs/news/2154888.html",
+    "https://paymentnavi.com/paymentnews/147153.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Littio 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://jomon.group/",
+    "https://mo.globalsmi.com/",
+    "https://prtimes.jp/main/html/rd/p/000000010.000161875.html",
+    "https://www.millerjapan.com/outline/",
+    "https://www.gdm.or.jp/pressrelease/2026/0902/650522",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://prtimes.jp/main/html/rd/p/000000687.000032317.html"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Littio Japan",
+   "results": [
+    "https://littio.co/en/",
+    "https://littio.co/en/littio-card",
+    "https://www.qxciw.com/video-E4YXLjjwrLg/japanese-innocent-little-adult-himekawa/",
+    "https://www.linkedin.com/company/littio-co",
+    "https://www.littlejapan.jp/",
+    "https://order.toasttab.com/online/little-japan-2-113-depot-st",
+    "https://www.littlejapandavie.com/Home.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Littio manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/opentrade/case-study/how-opentrade-is-helping-littio-a-neobanking-application-for-latam",
+    "https://www.opentrade.io/case-studies/littio",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://littio.co/en/",
+    "https://elogic.co/projects/manufacturing-industry-case/",
+    "https://www.glbc.com/blog/category/customer-content/manufacturing/",
+    "https://litmus.io/customers"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Littio white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.spectrum.com/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://partner.vw.com/partner",
+    "https://www.appspace.com/resellers-alliances/",
+    "https://www.canva.com/partners/reseller/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Littio founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/littio-revenue",
+    "https://pitchbook.com/profiles/company/490690-90",
+    "https://getlatka.com/companies/littio.co",
+    "https://tracxn.com/d/companies/littio/__XI20PwaLggWIu6suxaJNOIuHb0Zk_O86MACwZ5R6R9k",
+    "https://fundediq.co/littio-littio-co-funding/",
+    "https://seedtable.com/companies/littio",
+    "https://startupintros.com/orgs/littio"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Littio",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/t_words_c/n/ndfad4f7a2a16",
+    "https://note.com/no_mad_were_here/n/n912039b8c4aa",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/nahouemura/n/n9e519ef21b17"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Littio",
+   "results": [
+    "https://x.com/littioco",
+    "https://x.com:8443/LittiO",
+    "https://x.com/forbescolombia/status/2030037555781960063",
+    "https://x.com/dataiFX/status/2094560067110449326",
+    "https://x.com/LITTIO19",
+    "https://x.com/opentrade_io/status/1928046599906656554",
+    "https://x.com/LITTIO19/status/2085481843311182160"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Littio",
+   "results": [
+    "https://www.linkedin.com/company/littio-co",
+    "https://mx.linkedin.com/company/littio-co",
+    "https://www.linkedin.com/in/luiseduardohuertas",
+    "https://co.linkedin.com/in/christian-knudsen-littio",
+    "https://www.linkedin.com/in/ivantorroledo",
+    "https://www.linkedin.com/in/diego-a-alcoreza-trigo",
+    "https://www.linkedin.com/posts/littio-co_open-your-account-in-minutes-no-hidden-fees-activity-7439428828000595969-aXvf"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Littio",
+   "results": [
+    "https://www.facebook.com/littio.col/",
+    "https://www.facebook.com/littio/",
+    "https://www.facebook.com/littioband/",
+    "https://www.facebook.com/littio.col/videos/aprovecha-tu-cuenta-littio-al-máximo/792626483632886/",
+    "https://www.facebook.com/littio.col/photos/aprovecha-hoy-y-recarga-tu-cuenta-con-20-cop-de-descuento-en-la-tasa-de-usd-y-eu/518975637369715/",
+    "https://www.facebook.com/littio.col/videos/2276743449791546/",
+    "https://www.facebook.com/littio.col/videos/1016582128073597/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Littio note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://jp.linkedin.com/in/yoshihito-kita-625852100",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://litalico.co.jp/about/officers/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Littio X 投稿",
+   "results": [
+    "https://x.com:8443/LittiO",
+    "https://x.com/littioco",
+    "https://www.instagram.com/littiox/",
+    "https://x.com/littletaino",
+    "https://x.com/lottiefiles",
+    "https://tansajp.org/investigativejournal/13936/",
+    "https://www.instagram.com/litioo/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）"
+ }
+}

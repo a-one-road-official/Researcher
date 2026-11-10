@@ -8,7 +8,7 @@
  ],
  "context": "記録",
  "kind": "market",
- "researched_at": "2026-11-09T09:07:48.020167+00:00",
+ "researched_at": "2026-11-10T21:52:29.396773+00:00",
  "evidence": {
   "失敗・落とし穴": [
    {
@@ -116,6 +116,330 @@
    {
     "quote": "Mistake 12 — No backup",
     "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "探偵・調査会社向けOSINT証拠保全2026｜報告書に添える検証可能な記録と社名入りPDF｜ProofSnap",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "社名入りPDF · 複数タブのセッション記録 ·",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "各タブにスクリーンショット、ページソース、メタデータ、チェーン・オブ・カストディ、PDFを生成",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "：自社ロゴ入りPDFと証拠ZIPを添付し、依頼者と弁護士が独立に検証できる形で引き渡します",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "EnterpriseとCompanyでは自社ロゴ入りPDFを出力でき、報告書と体裁を統一できます",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "法人サイトの沿革や役員情報、求人票の記載、報道、口コミ",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "各タブにスクリーンショット、ページソース、テキスト、メタデータ、チェーン・オブ・カストディ、PDFが生成されます",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "EnterpriseプランおよびCompanyプランでは、証拠PDFに自社のロゴ、名称、住所、連絡先、指定色を反映できます",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Capture pages exactly as seen, expand comments automatically, and generate digitally signed PDF evidence in seconds.",
+    "url": "https://www.forensicosint.com/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Generate digitally signed, court-ready PDF reports at capture time",
+    "url": "https://www.forensicosint.com/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Generate professional PDF reports structured for investigative review, disclosure, and legal scrutiny.",
+    "url": "https://www.forensicosint.com/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Professional PDF Reports",
+    "url": "https://www.forensicosint.com/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Digitally signed PDF outputs, with the time recorded by the Forensic OSINT system.",
+    "url": "https://www.forensicosint.com/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "You can generate professional, court-ready PDF reports that include:",
+    "url": "https://www.forensicosint.com/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "複数タブのセッション記録 · EnterpriseとCompanyは社名入りPDF ·",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "タブごとに、スクリーンショット、取得時のHTML、メタデータ、チェーン・オブ・カストディ、PDFを生成",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "：社名入りPDF（EnterpriseとCompany）または証拠PDFに証拠ZIPを添えて、依頼者と弁護士が検証できる形で引き渡します",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "EnterpriseとCompanyでは社名入りPDFを出力でき、報告書と体裁をそろえられます",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "企業サイトの沿革や役員情報、求人票の記載、報道、口コミ",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "メンバー管理、社名入りPDF、1ユーザーあたり月5回のeIDAS適格タイムスタンプを利用できます",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "タブごとに、スクリーンショット、取得時のHTML、テキスト、メタデータ、チェーン・オブ・カストディ、PDFが生成されます",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "EnterpriseプランとCompanyプランでは、証拠PDFに自社のロゴ、名称、住所、連絡先、指定色を反映できます",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "取得無制限と社名入りPDFが必要ならEnterprise 月額28.99 USD（約4,590円）、2名以上のチームにはCompany 1ユーザーあたり月額18.99 USD（約3,010円）があります",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "File format affects whether evidence can be authenticated in court. Static formats like basic PDFs strip away metadata needed for verification. Purpose-built formats preserve the full capture state and authentication data together.",
+    "url": "https://blog.pagefreezer.com/osint-evidence-capture-features-that-matter",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "files represent the industry standard for legal proceedings. Digitally signed PDFs that embed capture tool signatures and metadata also hold up well.",
+    "url": "https://blog.pagefreezer.com/osint-evidence-capture-features-that-matter",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "WARC files represent the accepted standard for web evidence in legal proceedings. Digitally signed PDFs with embedded metadata also work well for authentication purposes.",
+    "url": "https://blog.pagefreezer.com/osint-evidence-capture-features-that-matter",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Avoid relying on basic image files or standard PDFs that don't preserve the underlying data needed to verify authenticity in court.",
+    "url": "https://blog.pagefreezer.com/osint-evidence-capture-features-that-matter",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "タブごとに、スクリーンショット、取得時のHTML、メタデータ、証拠管理の連鎖、PDFを生成",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "タブごとに、スクリーンショット、取得時のHTML、テキスト、メタデータ、証拠管理の連鎖、PDFが生成されます",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "公開アーカイブには登録されません · EnterpriseとCompanyは媒体ロゴ入りPDF ·",
+    "url": "https://getproofsnap.com/hodo-kikan-kisha-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "：SNSの投稿、企業の公式発表、行政の公表資料、統計ページをPCのChromeまたはEdgeで開きます",
+    "url": "https://getproofsnap.com/hodo-kikan-kisha-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "プレスリリース、IR資料、行政の公表ページ、統計",
+    "url": "https://getproofsnap.com/hodo-kikan-kisha-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "EnterpriseとCompanyでは、証拠PDFに媒体のロゴ、名称、連絡先、指定色を",
+    "url": "https://getproofsnap.com/hodo-kikan-kisha-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "メンバー管理、媒体ロゴ入りPDF、1ユーザーあたり月5回のeIDAS適格タイムスタンプを利用できます",
+    "url": "https://getproofsnap.com/hodo-kikan-kisha-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "確認に使った一次情報のページを、URLと取得日時が分かる形で残します",
+    "url": "https://getproofsnap.com/hodo-kikan-kisha-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "EnterpriseプランとCompanyプランでは、証拠PDFに媒体のロゴ、名称、住所、連絡先、指定色を反映できます",
+    "url": "https://getproofsnap.com/hodo-kikan-kisha-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "探偵・調査会社向けOSINT証拠保全2026｜報告書に添える検証可能な記録と社名入りPDF｜ProofSnap",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "検証ツール（Trust Verifier）",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "依頼者も、その先の弁護士も、無料の検証ツールで独立に検証できます",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "リンクまたはファイルをお送りいただければ、裁判所が検証できる署名付き・タイムスタンプ付きのパッケージを48時間以内にお返しします",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "：自社ロゴ入りPDFと証拠ZIPを添付し、依頼者と弁護士が独立に検証できる形で引き渡します",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "NTPで検証した時刻、DNSの解決結果、TLS情報、HTTPレスポンスヘッダ、WHOIS情報も併せて記録され、ISO/IEC 27037の考え方に沿った構成になっています",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "弁護士側は無料の検証ツールで独立に検証できるため、調査会社の信用に依存しない形で受け渡せます",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "探偵の調査報告書とネット調査の証拠保全【2026年版】｜OSINTの記録を検証可能に｜ProofSnap",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "依頼者や弁護士は無料の検証ツールで確認できます",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "オープンソースで検証可能（MITライセンス）",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "：社名入りPDF（EnterpriseとCompany）または証拠PDFに証拠ZIPを添えて、依頼者と弁護士が検証できる形で引き渡します",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ZIPにはハッシュ値、署名付きマニフェスト、チェーン・オブ・カストディが含まれ、弁護士は無料の検証ツールやZIP内の検証スクリプトで確認できます",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ZIPにはハッシュ値、署名付きマニフェスト、証拠管理の連鎖が含まれ、弁護士は無料の検証ツールやZIP内の検証スクリプトで確認できます",
+    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "報道機関・記者のファクトチェック記録【2026年版】｜取材で参照したページを検証できる形で保全｜ProofSnap",
+    "url": "https://getproofsnap.com/hodo-kikan-kisha-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "オープンソースで検証可能（MITライセンス）",
+    "url": "https://getproofsnap.com/hodo-kikan-kisha-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ProofSnapなら参照したページごとに証拠ZIPを作成でき、デスクや編集部の担当者は無料の検証ツールでファイルを確認できます",
+    "url": "https://getproofsnap.com/hodo-kikan-kisha-shoko-hozen.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "How to document OSINT evidence for court — Oct 4, 2026 · A practical guide to digital chain of custody for OSINT evidence: what to capture, how, with what metadata and how to make it reconstructible and admissible.",
+    "url": "https://osint-ui.com/en/blog/document-osint-evidence-court",
     "pass": 3,
     "first_seen": "2026-11-06"
    }
@@ -999,330 +1323,6 @@
     "pass": 3,
     "first_seen": "2026-11-06"
    }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "探偵・調査会社向けOSINT証拠保全2026｜報告書に添える検証可能な記録と社名入りPDF｜ProofSnap",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "社名入りPDF · 複数タブのセッション記録 ·",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "各タブにスクリーンショット、ページソース、メタデータ、チェーン・オブ・カストディ、PDFを生成",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "：自社ロゴ入りPDFと証拠ZIPを添付し、依頼者と弁護士が独立に検証できる形で引き渡します",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "EnterpriseとCompanyでは自社ロゴ入りPDFを出力でき、報告書と体裁を統一できます",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "法人サイトの沿革や役員情報、求人票の記載、報道、口コミ",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "各タブにスクリーンショット、ページソース、テキスト、メタデータ、チェーン・オブ・カストディ、PDFが生成されます",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "EnterpriseプランおよびCompanyプランでは、証拠PDFに自社のロゴ、名称、住所、連絡先、指定色を反映できます",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Capture pages exactly as seen, expand comments automatically, and generate digitally signed PDF evidence in seconds.",
-    "url": "https://www.forensicosint.com/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Generate digitally signed, court-ready PDF reports at capture time",
-    "url": "https://www.forensicosint.com/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Generate professional PDF reports structured for investigative review, disclosure, and legal scrutiny.",
-    "url": "https://www.forensicosint.com/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Professional PDF Reports",
-    "url": "https://www.forensicosint.com/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Digitally signed PDF outputs, with the time recorded by the Forensic OSINT system.",
-    "url": "https://www.forensicosint.com/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "You can generate professional, court-ready PDF reports that include:",
-    "url": "https://www.forensicosint.com/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "複数タブのセッション記録 · EnterpriseとCompanyは社名入りPDF ·",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "タブごとに、スクリーンショット、取得時のHTML、メタデータ、チェーン・オブ・カストディ、PDFを生成",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "：社名入りPDF（EnterpriseとCompany）または証拠PDFに証拠ZIPを添えて、依頼者と弁護士が検証できる形で引き渡します",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "EnterpriseとCompanyでは社名入りPDFを出力でき、報告書と体裁をそろえられます",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "企業サイトの沿革や役員情報、求人票の記載、報道、口コミ",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "メンバー管理、社名入りPDF、1ユーザーあたり月5回のeIDAS適格タイムスタンプを利用できます",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "タブごとに、スクリーンショット、取得時のHTML、テキスト、メタデータ、チェーン・オブ・カストディ、PDFが生成されます",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "EnterpriseプランとCompanyプランでは、証拠PDFに自社のロゴ、名称、住所、連絡先、指定色を反映できます",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "取得無制限と社名入りPDFが必要ならEnterprise 月額28.99 USD（約4,590円）、2名以上のチームにはCompany 1ユーザーあたり月額18.99 USD（約3,010円）があります",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "File format affects whether evidence can be authenticated in court. Static formats like basic PDFs strip away metadata needed for verification. Purpose-built formats preserve the full capture state and authentication data together.",
-    "url": "https://blog.pagefreezer.com/osint-evidence-capture-features-that-matter",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "files represent the industry standard for legal proceedings. Digitally signed PDFs that embed capture tool signatures and metadata also hold up well.",
-    "url": "https://blog.pagefreezer.com/osint-evidence-capture-features-that-matter",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "WARC files represent the accepted standard for web evidence in legal proceedings. Digitally signed PDFs with embedded metadata also work well for authentication purposes.",
-    "url": "https://blog.pagefreezer.com/osint-evidence-capture-features-that-matter",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Avoid relying on basic image files or standard PDFs that don't preserve the underlying data needed to verify authenticity in court.",
-    "url": "https://blog.pagefreezer.com/osint-evidence-capture-features-that-matter",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "タブごとに、スクリーンショット、取得時のHTML、メタデータ、証拠管理の連鎖、PDFを生成",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "タブごとに、スクリーンショット、取得時のHTML、テキスト、メタデータ、証拠管理の連鎖、PDFが生成されます",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "公開アーカイブには登録されません · EnterpriseとCompanyは媒体ロゴ入りPDF ·",
-    "url": "https://getproofsnap.com/hodo-kikan-kisha-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "：SNSの投稿、企業の公式発表、行政の公表資料、統計ページをPCのChromeまたはEdgeで開きます",
-    "url": "https://getproofsnap.com/hodo-kikan-kisha-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "プレスリリース、IR資料、行政の公表ページ、統計",
-    "url": "https://getproofsnap.com/hodo-kikan-kisha-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "EnterpriseとCompanyでは、証拠PDFに媒体のロゴ、名称、連絡先、指定色を",
-    "url": "https://getproofsnap.com/hodo-kikan-kisha-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "メンバー管理、媒体ロゴ入りPDF、1ユーザーあたり月5回のeIDAS適格タイムスタンプを利用できます",
-    "url": "https://getproofsnap.com/hodo-kikan-kisha-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "確認に使った一次情報のページを、URLと取得日時が分かる形で残します",
-    "url": "https://getproofsnap.com/hodo-kikan-kisha-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "EnterpriseプランとCompanyプランでは、証拠PDFに媒体のロゴ、名称、住所、連絡先、指定色を反映できます",
-    "url": "https://getproofsnap.com/hodo-kikan-kisha-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "探偵・調査会社向けOSINT証拠保全2026｜報告書に添える検証可能な記録と社名入りPDF｜ProofSnap",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "検証ツール（Trust Verifier）",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "依頼者も、その先の弁護士も、無料の検証ツールで独立に検証できます",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "リンクまたはファイルをお送りいただければ、裁判所が検証できる署名付き・タイムスタンプ付きのパッケージを48時間以内にお返しします",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "：自社ロゴ入りPDFと証拠ZIPを添付し、依頼者と弁護士が独立に検証できる形で引き渡します",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "NTPで検証した時刻、DNSの解決結果、TLS情報、HTTPレスポンスヘッダ、WHOIS情報も併せて記録され、ISO/IEC 27037の考え方に沿った構成になっています",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "弁護士側は無料の検証ツールで独立に検証できるため、調査会社の信用に依存しない形で受け渡せます",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "探偵の調査報告書とネット調査の証拠保全【2026年版】｜OSINTの記録を検証可能に｜ProofSnap",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "依頼者や弁護士は無料の検証ツールで確認できます",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "オープンソースで検証可能（MITライセンス）",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "：社名入りPDF（EnterpriseとCompany）または証拠PDFに証拠ZIPを添えて、依頼者と弁護士が検証できる形で引き渡します",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ZIPにはハッシュ値、署名付きマニフェスト、チェーン・オブ・カストディが含まれ、弁護士は無料の検証ツールやZIP内の検証スクリプトで確認できます",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ZIPにはハッシュ値、署名付きマニフェスト、証拠管理の連鎖が含まれ、弁護士は無料の検証ツールやZIP内の検証スクリプトで確認できます",
-    "url": "https://getproofsnap.com/tantei-osint-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "報道機関・記者のファクトチェック記録【2026年版】｜取材で参照したページを検証できる形で保全｜ProofSnap",
-    "url": "https://getproofsnap.com/hodo-kikan-kisha-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "オープンソースで検証可能（MITライセンス）",
-    "url": "https://getproofsnap.com/hodo-kikan-kisha-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ProofSnapなら参照したページごとに証拠ZIPを作成でき、デスクや編集部の担当者は無料の検証ツールでファイルを確認できます",
-    "url": "https://getproofsnap.com/hodo-kikan-kisha-shoko-hozen.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "検索結果の抜粋": [
-   {
-    "quote": "How to document OSINT evidence for court — Oct 4, 2026 · A practical guide to digital chain of custody for OSINT evidence: what to capture, how, with what metadata and how to make it reconstructible and admissible.",
-    "url": "https://osint-ui.com/en/blog/document-osint-evidence-court",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
   ]
  },
  "figures": {},
@@ -1330,6 +1330,11 @@
   "pass3": [
    {
     "url": "https://note.com/4989er/n/n40c8fd7dc601",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kenji_tocho/n/n2c60480396d6",
     "status": "ok",
     "method": "http"
    },
@@ -1344,17 +1349,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/kenji_tocho/n/n2c60480396d6",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/kagawatomo/n/nb6c0632d2e41",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/hirokimiyano/n/nac0b207aaf5f",
+    "url": "https://note.com/oracle_kaisetsu/n/n032a813b48e1",
     "status": "ok",
     "method": "http"
    },
@@ -1364,14 +1364,14 @@
     "method": "http"
    },
    {
-    "url": "https://digitalforensic.jp/wp-content/uploads/2023/02/shokohoznGL9.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
     "url": "https://www.ti.com/bin/ti/transcripts/5799500859001_ja-jp.json",
     "status": "robots_disallowed",
     "method": ""
+   },
+   {
+    "url": "https://digitalforensic.jp/wp-content/uploads/2023/02/shokohoznGL9.pdf",
+    "status": "ok",
+    "method": "pdf"
    },
    {
     "url": "https://sites.mit.edu/toshi/ja/author/toshiyuk/",
@@ -1394,6 +1394,11 @@
     "method": "pdf"
    },
    {
+    "url": "https://jpn.nec.com/cybersecurity/blog/230612/pdf/session2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
     "url": "https://www.ipa.go.jp/security/reports/oversea/nist/ug65p90000019cp4-att/begoj9000000bf0q.pdf",
     "status": "ok",
     "method": "pdf"
@@ -1404,7 +1409,7 @@
     "method": ""
    },
    {
-    "url": "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
+    "url": "https://qiita.com/dokoka/items/161daaec4ef77339b4b5",
     "status": "ok",
     "method": "http"
    },
@@ -1414,38 +1419,33 @@
     "method": "http"
    },
    {
-    "url": "https://qiita.com/dokoka/items/161daaec4ef77339b4b5",
+    "url": "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://anchor-u.com/maltego-hunchly-introduction/",
+    "url": "https://www.cyberdefense.jp/column/about_forensics",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://bksuccess.net/digital-forensics-evidence-preservation/",
+    "url": "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://cybersecurity-jp.com/contents/data-security/16796/",
+    "url": "https://tex2e.github.io/blog/security/rfc3227-evidence-collection",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.cyber110.pro/forensics/blo/forensic-evidence-preservation/",
+    "url": "https://kiroku.today/guides/save-website-legal-evidence",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.securewave.co.jp/blog/077",
+    "url": "https://kiroku.today/guides/digital-evidence-authentication",
     "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://yamanaka-bengoshi.jp/2026/09/09/dejitaru-shouko-genpon-hozen-hasshuchi/",
-    "status": "http_403",
     "method": "http"
    },
    {
@@ -1485,18 +1485,18 @@
    "query": "OSINT の証拠保全（取得日時・ハッシュ・取り方・ページの変更の記録）の実務 site:note.com",
    "results": [
     "https://note.com/4989er/n/n40c8fd7dc601",
+    "https://note.com/kenji_tocho/n/n2c60480396d6",
     "https://note.com/bodybeat/n/nd781d748d5aa",
     "https://note.com/hiro_shi_note/n/n47fe9a6527bb",
-    "https://note.com/kenji_tocho/n/n2c60480396d6",
     "https://note.com/kagawatomo/n/nb6c0632d2e41",
+    "https://note.com/oracle_kaisetsu/n/n032a813b48e1",
     "https://note.com/hirokimiyano/n/nac0b207aaf5f",
-    "https://note.com/oracle_kaisetsu/n/n18aff27af8a8",
+    "https://note.com/coreinsight/n/n90d69091b16c",
     "https://note.com/kenji822/n/nf188332e6383",
-    "https://note.com/shoeisha_bizit/n/n283c1a88f80d",
-    "https://note.com/oracle_kaisetsu/n/n032a813b48e1"
+    "https://note.com/oracle_kaisetsu/n/n18aff27af8a8"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -1505,18 +1505,18 @@
    "query": "OSINT の証拠保全（取得日時・ハッシュ・取り方・ページの変更の記録）の実務 note",
    "results": [
     "https://note.com/nikinusu318/n/nf6a8daf345d3",
-    "https://digitalforensic.jp/wp-content/uploads/2023/02/shokohoznGL9.pdf",
     "https://www.ti.com/bin/ti/transcripts/5799500859001_ja-jp.json",
+    "https://digitalforensic.jp/wp-content/uploads/2023/02/shokohoznGL9.pdf",
     "https://sites.mit.edu/toshi/ja/author/toshiyuk/",
-    "https://note.com/4989er/n/n40c8fd7dc601",
     "https://digitaldata-forensics.com/column/forensics/26187/",
+    "https://note.com/4989er/n/n40c8fd7dc601",
     "https://nii-auth.atlassian.net/wiki/spaces/UPKIFAQ/pages/43745748",
     "https://qiita.com/dokoka/items/161daaec4ef77339b4b5",
-    "https://tex2e.github.io/blog/security/rfc3227-evidence-collection",
+    "https://west-sec.com/entry/forensic",
     "https://kiroku.today/guides/save-website-legal-evidence"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -1525,18 +1525,18 @@
    "query": "OSINT の証拠保全（取得日時・ハッシュ・取り方・ページの変更の記録）の実務 やり方",
    "results": [
     "https://digitalforensic.jp/wp-content/uploads/2025/04/shokohozenGL10.pdf",
+    "https://jpn.nec.com/cybersecurity/blog/230612/pdf/session2.pdf",
     "https://www.ipa.go.jp/security/reports/oversea/nist/ug65p90000019cp4-att/begoj9000000bf0q.pdf",
     "https://jp.linkedin.com/pulse/how-hackers-exploit-osint-find-vulnerabilities-sonny-sehgal-tu4te?tl=ja",
-    "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
-    "https://group.gmo/security/cybersecurity/penetration-testing/blog/osint/",
     "https://qiita.com/dokoka/items/161daaec4ef77339b4b5",
+    "https://group.gmo/security/cybersecurity/penetration-testing/blog/osint/",
+    "https://west-sec.com/entry/forensic",
     "https://jouhou.main.jp/?p=37061",
     "https://www.sentinelone.com/ja/cybersecurity-101/cybersecurity/hashing/",
-    "https://www.cyberdefense.jp/column/about_forensics",
     "https://kiroku.today/guides/save-website-legal-evidence"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -1544,22 +1544,22 @@
   {
    "query": "OSINT の証拠保全（取得日時・ハッシュ・取り方・ページの変更の記録）の実務 事例",
    "results": [
-    "https://anchor-u.com/maltego-hunchly-introduction/",
     "https://digitalforensic.jp/wp-content/uploads/2025/04/shokohozenGL10.pdf",
-    "https://bksuccess.net/digital-forensics-evidence-preservation/",
-    "https://cybersecurity-jp.com/contents/data-security/16796/",
-    "https://www.cyber110.pro/forensics/blo/forensic-evidence-preservation/",
-    "https://www.securewave.co.jp/blog/077",
-    "https://yamanaka-bengoshi.jp/2026/09/09/dejitaru-shouko-genpon-hozen-hasshuchi/",
-    "https://note.com/kenji_tocho/n/n642a1d4ccfe1",
-    "https://infra-sec-lab.com/incident-evidence-preservation/",
+    "https://note.com/nikinusu318/n/nf6a8daf345d3",
+    "https://www.ipa.go.jp/security/reports/oversea/nist/ug65p90000019cp4-att/begoj9000000bf0q.pdf",
+    "https://jpn.nec.com/cybersecurity/blog/230612/pdf/session2.pdf",
+    "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
+    "https://www.cyberdefense.jp/column/about_forensics",
+    "https://jp.linkedin.com/pulse/how-hackers-exploit-osint-find-vulnerabilities-sonny-sehgal-tu4te?tl=ja",
+    "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
+    "https://tex2e.github.io/blog/security/rfc3227-evidence-collection",
     "https://kiroku.today/guides/save-website-legal-evidence"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 14
+   "n_hits": 16
   },
   {
    "query": "OSINT evidence preservation chain of custody hashing web capture",
@@ -1571,33 +1571,35 @@
     "https://forensicdiscovery.expert/blog/chain-of-custody-for-digital-evidence-best-practices/",
     "https://blog.pagefreezer.com/osint-evidence-capture-features-that-matter",
     "https://www.next-sight.com/resources/chain-of-custody-osint",
-    "https://www.mdpi.com/2073-8994/14/2/334",
     "https://www.eccu.edu/blog/how-investigators-preserve-digital-evidence/",
-    "https://osint-ui.com/en/blog/document-osint-evidence-court"
+    "https://www.mdpi.com/2073-8994/14/2/334",
+    "https://www.forensicosint.com/web-capture-technology"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com OSINT の証拠保全（取得日時・ハッシュ・取り方・ページの変更の記録）の実務",
+   "results": [
+    "https://note.com/kenji_tocho/n/n2c60480396d6",
+    "https://note.com/hirokimiyano/n/nac0b207aaf5f",
+    "https://note.com/kagawatomo/n/nb6c0632d2e41",
+    "https://note.com/ichi_twnovel/n/nf3812ef43dcb",
+    "https://note.com/dotai/n/n0a79157bb26b",
+    "https://note.com/ichi_twnovel/n/n53b5aa039a0c",
+    "https://note.com/jack4manastalk/n/ncabf83a88dd4",
+    "https://note.com/kunugiyama123/n/n99fe88f0a212",
+    "https://note.com/patentpower/n/n07422dba56af",
+    "https://note.com/dds_field_note/n/n7e979f5f57d5"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
-  },
-  {
-   "query": "site:note.com OSINT の証拠保全（取得日時・ハッシュ・取り方・ページの変更の記録）の実務",
-   "results": [
-    "https://note.com/kenji_tocho/n/n2c60480396d6",
-    "https://note.com/kagawatomo/n/nb6c0632d2e41",
-    "https://note.com/hirokimiyano/n/nac0b207aaf5f",
-    "https://note.com/ichi_twnovel/n/nf3812ef43dcb",
-    "https://note.com/dotai/n/n0a79157bb26b",
-    "https://note.com/jack4manastalk/n/ncabf83a88dd4",
-    "https://note.com/kunugiyama123/n/n99fe88f0a212",
-    "https://note.com/patentpower/n/n07422dba56af",
-    "https://note.com/masa13_/n/n56317b0cd19c"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
   },
   {
    "query": "site:x.com OSINT の証拠保全（取得日時・ハッシュ・取り方・ページの変更の記録）の実務",
@@ -1608,23 +1610,23 @@
     "https://x.com/tbr_works_JP/status/2076594665546289639",
     "https://x.com/tbr_works_JP/status/2073634709310251230",
     "https://x.com/t_nihonmatsu/status/2064365977807302930",
-    "https://x.com/t_nihonmatsu/status/2067457903871844370"
+    "https://x.com/t_nihonmatsu/status/2064524490667880761"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   },
   {
    "query": "site:linkedin.com OSINT の証拠保全（取得日時・ハッシュ・取り方・ページの変更の記録）の実務",
    "results": [
-    "https://jp.linkedin.com/pulse/best-practices-conducting-osint-research-vijay-gupta--mmiac?tl=ja",
     "https://jp.linkedin.com/pulse/how-extract-information-from-websites-automated-osint-gupta--hfi9c?tl=ja",
+    "https://jp.linkedin.com/pulse/building-your-osint-workstation-practical-guide-tommy-knowles-5k0xe?tl=ja",
     "https://at.linkedin.com/posts/nihonmatsu_ctivd-automated-osint自動化されたosint-オープンソース-activity-7065927076675006465-OeBm",
+    "https://jp.linkedin.com/pulse/best-practices-conducting-osint-research-vijay-gupta--mmiac?tl=ja",
     "https://jp.linkedin.com/pulse/osint-cyber-forensics-cracking-digital-mystery-er-mohit-dhabuwala-8p0yf?tl=ja",
-    "https://jp.linkedin.com/pulse/case-studies-successful-osint-investigations-vijay-gupta--0b7cc?tl=ja",
-    "https://jp.linkedin.com/pulse/open-source-intelligence-osint-powerful-tool-information-t-w96pc?tl=ja",
-    "https://jp.linkedin.com/posts/takashi-ito-0303a641_私が扱っているツールについてできることとできないことをはっきり書いておきます-activity-7510127188923510784-AyWk"
+    "https://jp.linkedin.com/pulse/osint-threat-intelligence-enovise-3go6f?tl=ja",
+    "https://jp.linkedin.com/pulse/introducing-osint-handbook-comprehensive-guide-odi4c?tl=ja"
    ],
    "engines": [
     "ddgs:google"
@@ -1636,15 +1638,15 @@
    "results": [
     "https://www.facebook.com/kusuyama1975/posts/openai-chatgpt-%E6%97%A5%E5%88%8Aai-yusukekusuyama%EF%B8%8Edaily-ai-yusukekusuyama%EF%B8%8E%E7%89%B9%E8%A8%B1%E8%AB%96%E6%96%87%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E7%B5%B1%E5%90%88%E7%89%88-paten/1740487548087418/",
     "https://www.facebook.com/qiita/posts/100lgtm-普段の調査で利用するosintまとめ-by-_roku_/2926902907345529/",
-    "https://www.facebook.com/OneBeInc/photos/新コラム現代社会で重要性がましているosintopen-source-intelligenceosintとはインターネットなどの公開情報を収集分析して有用な情報/1452940110171432/",
     "https://www.facebook.com/EYJapanOfficial/posts/セミナー情報6月24日水開催-経済安全保障osint活用セミナー第4回研究における産業スパイ対策事例研究セキュリティ確保のため必要な取り組みとは詳細お申し込み-/1539739791497336/",
+    "https://www.facebook.com/OneBeInc/photos/新コラム現代社会で重要性がましているosintopen-source-intelligenceosintとはインターネットなどの公開情報を収集分析して有用な情報/1452940110171432/",
     "https://www.facebook.com/Securitydays13/photos/-注目講演security-days-東京日本ハッカー協会-杉浦代表理事がosint-でランサムグループの実態を可視化リークサイト交渉痕跡暗号資産の動きから-組/122176936220783877/",
-    "https://www.facebook.com/balimoto.transcriber/videos/裁判になってから証拠を集め始める人は少なくありませんしかしその頃には重要な資料が失われていることもあります勝つ人はトラブル発生直後から時系列を整理し写真やメール/1812053313576042/",
     "https://www.facebook.com/balimoto.transcriber/videos/録音データを保存していてもいつ録音したものなのか分からないという状態では後から整理するのに苦労することがあります特に同じ相手と何度も話し合っている場合日時が分か/1103810655327923/",
-    "https://www.facebook.com/bengokakumei/posts/証拠番号をpdfファイルに自動で埋め込む機能が追加されます弁護革命に登録された証拠番号が自動でpdfファイルの右肩に書き込まれます証拠の提出も楽々に間もなくリリ/244682650598557/"
+    "https://www.facebook.com/balimoto.transcriber/videos/裁判になってから証拠を集め始める人は少なくありませんしかしその頃には重要な資料が失われていることもあります勝つ人はトラブル発生直後から時系列を整理し写真やメール/1812053313576042/",
+    "https://www.facebook.com/newstamago/videos/武蔵大学-で-偽情報-と-ファクトチェック-についての-集中授業-3日間の2日目はじめに-nhk-報道の方からファクトチェックするトピックの社会的な機能に合わせ/1993042744740175/"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 8
@@ -1652,33 +1654,35 @@
   {
    "query": "OSINT の証拠保全（取得日時・ハッシュ・取り方・ページの変更の記録）の実務 note 社長",
    "results": [
-    "https://note.com/kenji_tocho/n/n642a1d4ccfe1",
-    "https://note.com/nikinusu318/n/nf6a8daf345d3",
-    "https://www.ti.com/bin/ti/transcripts/5799500859001_ja-jp.json",
     "https://digitalforensic.jp/wp-content/uploads/2023/02/shokohoznGL9.pdf",
     "https://sites.mit.edu/toshi/ja/author/toshiyuk/",
+    "https://note.com/4989er/n/n40c8fd7dc601",
     "https://digitaldata-forensics.com/column/forensics/26445/",
+    "https://ja.exploratory.io/note/6412637879363595/5147932562192300/note_content/note.html",
     "https://jouhou.main.jp/?p=37061",
-    "https://note.com/terueda/n/n5707498651c3",
-    "https://ja.exploratory.io/note/6412637879363595/5147932562192300/note_content/note.html"
+    "https://qiita.com/dokoka/items/161daaec4ef77339b4b5",
+    "https://note.com/red_structure/n/na2c79b00d217",
+    "https://www.sentinelone.com/ja/cybersecurity-101/cybersecurity/hashing/",
+    "https://kiroku.today/guides/save-website-legal-evidence"
    ],
    "engines": [
+    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 9
+   "n_hits": 16
   },
   {
    "query": "OSINT の証拠保全（取得日時・ハッシュ・取り方・ページの変更の記録）の実務 X 投稿",
    "results": [
-    "https://digitalforensic.jp/wp-content/uploads/2025/04/shokohozenGL10.pdf",
+    "https://digitalforensic.jp/wp-content/uploads/2023/02/shokohoznGL9.pdf",
     "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
     "https://jp.linkedin.com/pulse/how-hackers-exploit-osint-find-vulnerabilities-sonny-sehgal-tu4te?tl=ja",
-    "https://nii-auth.atlassian.net/wiki/spaces/UPKIFAQ/pages/43745748",
     "https://group.gmo/security/cybersecurity/penetration-testing/blog/osint/",
-    "https://thrive.trellix.com/s/article/KB85652?language=ja",
-    "https://qiita.com/dokoka/items/161daaec4ef77339b4b5",
+    "https://nii-auth.atlassian.net/wiki/spaces/UPKIFAQ/pages/43745748",
     "https://www.secure-iv.co.jp/blog/20079",
-    "https://www.security-next.com/056537",
+    "https://thrive.trellix.com/s/article/KB85438?language=ja",
+    "https://qiita.com/osada/items/c75c34ce716ee4ffba8f",
+    "https://www.youtube.com/watch?v=k-gICgZ_RgM",
     "https://kiroku.today/guides/save-website-legal-evidence"
    ],
    "engines": [
@@ -1697,18 +1701,19 @@
     "https://in.linkedin.com/in/ajayjethe",
     "https://www.linkedin.com/top-content/science/forensic-science-in-criminal-investigations/how-to-handle-digital-evidence-in-forensics/",
     "https://www.linkedin.com/posts/iamsangramsahoo_cdac-cdacstdc-windowsforensics-activity-7462053551599431680-qiMY",
-    "https://www.linkedin.com/company/eliteforensics",
     "https://uk.linkedin.com/in/ritujaa-kelaskar-681201334",
+    "https://www.linkedin.com/company/eliteforensics",
     "https://pk.linkedin.com/in/sajawalhacker"
    ],
    "engines": [
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 10
+   "n_hits": 17
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 14,
+ "runs": 15,
  "first_researched_at": "2026-11-06T05:53:25.729862+00:00"
 }

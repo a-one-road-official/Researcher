@@ -1,0 +1,421 @@
+{
+ "name": "Polyram UK LTD",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜未接触",
+ "researched_at": "2026-11-10T21:49:55.352071+00:00",
+ "official_url": "https://www.polyram-group.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Polyram Plastic Industries Ltd | LinkedIn Polyram Plastic Industries Ltd | LinkedIn LinkedIn https://uk.linkedin.com > company",
+    "url": "https://uk.linkedin.com/company/polyram-industries",
+    "pass": 3
+   },
+   {
+    "quote": "Mark Timmins - Chief Executive Officer at Polyram UK Ltd Mark Timmins - Chief Executive Officer at Polyram UK Ltd LinkedIn https://uk.linkedin.com > mark-timmi...",
+    "url": "https://uk.linkedin.com/in/mark-timmins-aab15942",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.polyram-group.com",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://polyram-group.com/gloucestershire-uk/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uk.linkedin.com/company/polyram-industries",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/polyramgroup/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://polyram-group.com/distributors/u-k/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://polyram-group.com/distributors/u-k/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uk.linkedin.com/company/polyram-industries",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/polyramgroup/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://polyram-group.com/gloucestershire-uk/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://polyram-group.com/distributors/u-k/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://find-and-update.company-information.service.gov.uk/company/05177839",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uk.linkedin.com/company/polyram-industries",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://polyram-group.com/gloucestershire-uk/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/polyram-industries",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://polyram-group.com/gloucestershire-uk/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vLP1sRSE3E9Qd3sjGJoOihBmTUKtBmEiGtHP_g6maYwaOIK075J",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/polyramgroup/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://polyram-group.com/production-sites/production-site-3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uk.linkedin.com/company/polyram-industries",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://find-and-update.company-information.service.gov.uk/company/05177839",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/polyramgroup/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://find-and-update.company-information.service.gov.uk/company/05177839/filing-history",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/polyram-industries",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://polyram-group.com/production-sites/production-site-3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markets.ft.com/data/equities/tearsheet/profile?s=POLP:TLV",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uk.linkedin.com/company/polyram-industries",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/mark-timmins-aab15942",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/company/polyram-industries",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/company/polyram-industries",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Polyram UK LTD 日本 導入",
+   "results": [
+    "https://polyram-group.com/gloucestershire-uk/",
+    "https://uk.linkedin.com/company/polyram-industries",
+    "https://www.facebook.com/polyramgroup/",
+    "https://polyram-group.com/distributors/u-k/",
+    "https://www.facebook.com/polyramgroup/videos/expanding-our-global-footprint/1015155833486439/",
+    "https://www.ubqmaterials.com/polyram-group-partners-with-ubq-materials-to-introduce-sustainable-high-performance-thermoplastic-compounds/",
+    "https://www.facebook.com/polyramgroup/videos/usa-production-facility/1018048059496349/",
+    "https://www.facebook.com/PolyramUK/",
+    "https://polyram-group.com/factories/polyram-uk/",
+    "https://polyram-group.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Polyram UK LTD 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://polyram-group.com/distributors/u-k/",
+    "https://uk.linkedin.com/company/polyram-industries",
+    "https://www.facebook.com/polyramgroup/",
+    "https://polyram-group.com/gloucestershire-uk/",
+    "https://jp.linkedin.com/company/polyram-industries",
+    "https://www.importgenius.com/suppliers/polyram-plastic-industries",
+    "https://polyram-group.com/",
+    "https://www.cbinsights.com/company/polyram-plastic-industries",
+    "https://www.facebook.com/polyramgroup/posts/our-experts-including-specialists-from-polyram-germany-and-polyram-uk-are-excite/1006541767941732/",
+    "https://www.bloomberg.com/profile/company/2491294D:LN"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Polyram UK LTD Japan",
+   "results": [
+    "https://polyram-group.com/distributors/u-k/",
+    "https://find-and-update.company-information.service.gov.uk/company/05177839",
+    "https://uk.linkedin.com/company/polyram-industries",
+    "https://polyram-group.com/gloucestershire-uk/",
+    "https://www.facebook.com/polyramgroup/",
+    "https://interplasinsights.com/plastics-industry-news/polyram-uk-establishes-first-european-production-unit-in-lyd/",
+    "https://powerbase.info/index.php/Polyram_U.K._Limited",
+    "https://www.facebook.com/polyramgroup/videos/expanding-our-global-footprint/1015155833486439/",
+    "https://www.ubqmaterials.com/polyram-group-partners-with-ubq-materials-to-introduce-sustainable-high-performance-thermoplastic-compounds/",
+    "https://www.bloomberg.com/profile/company/2491294D:LN"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Polyram UK LTD manufacturing customer case study",
+   "results": [
+    "https://www.linkedin.com/company/polyram-industries",
+    "https://polyram-group.com/gloucestershire-uk/",
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vLP1sRSE3E9Qd3sjGJoOihBmTUKtBmEiGtHP_g6maYwaOIK075J",
+    "https://www.facebook.com/polyramgroup/",
+    "https://www.ubqmaterials.com/polyram-group-partners-with-ubq-materials-to-introduce-sustainable-high-performance-thermoplastic-compounds/",
+    "https://www.tangoai.co/polyram",
+    "https://www.rutlandplastics.co.uk/case-studies/",
+    "https://prototalgroup.com/uk/cases/",
+    "https://polyram-group.com/production-sites/production-site-3/",
+    "https://www.casestudies.com/company/processgene/case-study/polyram-customer-case-study"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Polyram UK LTD white label OR reseller OR partner program",
+   "results": [
+    "https://polyram-group.com/production-sites/production-site-3/",
+    "https://uk.linkedin.com/company/polyram-industries",
+    "https://find-and-update.company-information.service.gov.uk/company/05177839",
+    "https://www.facebook.com/polyramgroup/",
+    "https://www.ubqmaterials.com/polyram-group-partners-with-ubq-materials-to-introduce-sustainable-high-performance-thermoplastic-compounds/",
+    "https://polyram-group.com/distributors/u-k/",
+    "https://www.instagram.com/polyramgroup/",
+    "https://www.plastribution.co.uk/polyram/",
+    "https://mayafiles.tase.co.il/rpdf/1510001-1511000/P1510634-00.pdf",
+    "https://polyram-group.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Polyram UK LTD founded funding employees revenue",
+   "results": [
+    "https://find-and-update.company-information.service.gov.uk/company/05177839/filing-history",
+    "https://www.linkedin.com/company/polyram-industries",
+    "https://polyram-group.com/production-sites/production-site-3/",
+    "https://markets.ft.com/data/equities/tearsheet/profile?s=POLP:TLV",
+    "https://graphiq.ai/dossier/polyram-plastic-industries",
+    "https://www.leadersleague.com/en/news/polyram-group-acquires-majority-stake-in-italy-s-lapo-compound",
+    "https://www.mp-corporatefinance.com/deals/the-founders-sold-their-majority-in-lapo-compound-group-to-polyram-plastic-industries-tasepolp/",
+    "https://www.israel.com/companies/515251593",
+    "https://finance.yahoo.com/quote/POLP.TA/",
+    "https://find-and-update.company-information.service.gov.uk/company/05177839"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Polyram UK LTD",
+   "results": [
+    "https://note.com/seigo77",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/yoshiki_shibata/n/n185f3d9e13bc",
+    "https://note.com/isomitsuo/n/nd6f66ed87bfd"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Polyram UK LTD",
+   "results": [
+    "https://x.com/PolyramG",
+    "https://x.com/polyramusa",
+    "https://x.com/isaiahrmartin/status/2117871814625972663",
+    "https://x.com/AlexZarkage/status/2113754409410674975",
+    "https://x.com/chillestwoman/status/2116669325868400644",
+    "https://x.com/lesbianlotuss/status/2113307573482934521",
+    "https://help.x.com/zh-tw/using-x"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Polyram UK LTD",
+   "results": [
+    "https://uk.linkedin.com/company/polyram-industries",
+    "https://uk.linkedin.com/in/mark-timmins-aab15942",
+    "https://uk.linkedin.com/in/andy-taylor-abb602203",
+    "https://www.linkedin.com/posts/polyram-industries_our-experts-including-specialists-from-polyram-activity-7251914720817926144-A3ns",
+    "https://uk.linkedin.com/in/tomas-rees-46092684",
+    "https://uk.linkedin.com/in/steven-hemsworth-a9736b23",
+    "https://jp.linkedin.com/company/polyram-industries",
+    "https://www.linkedin.com/posts/polyram-industries_ram3d-polyram-formnext2026-activity-7523293521592840193-1Uu0",
+    "https://be.linkedin.com/in/martial-faure-5391601",
+    "https://www.linkedin.com/in/abigail-higginbotham-63a156127"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com Polyram UK LTD",
+   "results": [
+    "https://www.facebook.com/polyramgroup/",
+    "https://www.facebook.com/polyramgroup/?locale=th_TH",
+    "https://www.facebook.com/VeoliaUK/videos/we-are-thrilled-to-highlight-our-partnership-with-gloucester-rugby-a-premiership/1227981192529692/",
+    "https://www.facebook.com/polyramgroup/posts/%D7%9E%D7%9E%D7%A9%D7%99%D7%9B%D7%99%D7%9D-%D7%9C%D7%92%D7%99%D7%99%D7%A1-%D7%A2%D7%95%D7%91%D7%93%D7%99%D7%9D-%D7%9E%D7%A2%D7%95%D7%9C%D7%99%D7%9D-%D7%9C%D7%9E%D7%A9%D7%A4%D7%97%D7%AA-%D7%A4%D7%95%D7%9C%D7%99%D7%A8%D7%9D/1475591374370100/",
+    "https://www.facebook.com/CottonAustralia/videos/ever-wondered-what-happens-to-your-plastic-module-wrap-at-the-end-of-each-season/834584505187525/",
+    "https://www.facebook.com/polytecgroupkarriere/posts/izb-2026-innovation-spannende-gespr%C3%A4che-und-starke-teamarbeit-das-war-die-izb-20/1536546541909916/",
+    "https://www.facebook.com/GinuJosephIndia/posts/wittmann-at-fakuma-2026-shaping-the-future-of-digital-production/1789058449890297/",
+    "https://www.facebook.com/BASFAgriculturalSolutionsIN/posts/-empowering-apples-with-basfs-smart-spray-programme-at-basf-we-take-pride-in-par/1347436300753858/",
+    "https://m.facebook.com/polyramgroup/photos/%D7%A2%D7%95%D7%91%D7%93%D7%99-%D7%A4%D7%95%D7%9C%D7%99%D7%A8%D7%9D-%D7%9C%D7%A7%D7%95%D7%97%D7%95%D7%AA%D7%99%D7%A0%D7%95-%D7%95%D7%A1%D7%A4%D7%A7%D7%99%D7%A0%D7%95-%D7%94%D7%99%D7%A7%D7%A8%D7%99%D7%9D%D7%97%D7%92-%D7%94%D7%A4%D7%A1%D7%97-%D7%94%D7%95%D7%90-%D7%97%D7%92-%D7%A9%D7%9C-%D7%97%D7%99%D7%A8%D7%95%D7%AA-%D7%AA%D7%A7%D7%95%D7%95%D7%94-%D7%95%D7%94%D7%AA%D7%97%D7%93%D7%A9%D7%95%D7%AA%D7%90%D7%A0%D7%95-%D7%91/1135341235061784/",
+    "https://www.facebook.com/ADAMAAUST/videos/folpan-protection-that-fits/2698757670582390/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Polyram UK LTD note 社長",
+   "results": [
+    "https://polyram-group.com/gloucestershire-uk/",
+    "https://uk.linkedin.com/company/polyram-industries",
+    "https://find-and-update.company-information.service.gov.uk/company/05177839/filing-history",
+    "https://www.facebook.com/polyramgroup/",
+    "https://www.leadersleague.com/en/news/polyram-group-acquires-majority-stake-in-italy-s-lapo-compound",
+    "https://www.instagram.com/polyramgroup/",
+    "https://polyram-group.com/distributors/u-k/",
+    "https://www.ubqmaterials.com/polyram-group-partners-with-ubq-materials-to-introduce-sustainable-high-performance-thermoplastic-compounds/",
+    "https://www.youtube.com/channel/UCeAqYxwGo-0lYFa_ESjmBOQ",
+    "https://find-and-update.company-information.service.gov.uk/company/05177839"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Polyram UK LTD X 投稿",
+   "results": [
+    "https://polyram-group.com/distributors/u-k/",
+    "https://uk.linkedin.com/company/polyram-industries",
+    "https://www.facebook.com/polyramgroup/",
+    "https://polyram-group.com/",
+    "https://www.ubqmaterials.com/polyram-group-partners-with-ubq-materials-to-introduce-sustainable-high-performance-thermoplastic-compounds/",
+    "https://www.instagram.com/polyramgroup/",
+    "https://www.sustainabilityreports.com/polyram-plastic-industries",
+    "https://www.investing.com/equities/polyram-plastic-industries",
+    "https://www.youtube.com/channel/UCeAqYxwGo-0lYFa_ESjmBOQ"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "採用・広告の製品": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）"
+ }
+}

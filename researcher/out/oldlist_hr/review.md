@@ -1150,9 +1150,68 @@
 - 「Studieren in Australien, Kanada, Japan, Südkorea, den USA oder an einer unserer zahlreichen europäischen Partnerhochschulen? Jetzt bewerben!」（https://www.international-office.uni-bayreuth.de/de/index.html）
 - 「RTG 2156: "Deep Earth Volatile Cycles" (with Tōhoku University, Japan)」（https://en.wikipedia.org/wiki/University_of_Bayreuth）
 
+## Performance Review Institute | PRI（https://www.p-r-i.org）
+- 「As Nadcap grew internationally, we established offices in London, UK to serve Europe and in Beijing, China and Aichi, Japan serving the Asia-Pacific region to improve our customer service, breaking through both language and time zone barriers.」（https://www.p-r-i.org/about-us）
+
 ## KSB SE & Co. KGaA（https://www.ksb.de）
 - 「with two Asian companies. The German-Japanese cooperation Nikkiso-KSB GmbH develops and sells canned motor pumps for the European and Middle Eastern markets. The German-Chinese joint venture company Shanghai Electric-KSB Nuclear Pumps and Valves Co. manufactures safety-relevant pumps and valves for 」（https://en.wikipedia.org/wiki/KSB_SE_&_Co._KGaA）
 - 「KSB, a Frankenthal, Germany–based maker of pumps, valves, and services with about 15,000 employees operating in 100+ countries, needed to coordinate complex international sales cycles and fully digitalize its sales and service processes to keep a clear overview across markets and customer lifecycles」（https://www.casestudies.com/company/sap-sales-cloud/case-study/2500-users-delighted-with-cloud-based-sales-solution）
+
+## Hessen Trade & Invest GmbH（https://www.htai.de）
+- 「Changing investment landscape plays to Hessen’s strengths | The Japan Times」（https://www.japantimes.co.jp/country-report/2026/10/28/germany-report-2026/changing-investment-landscape-plays-hessens-strengths/）
+- 「To enjoy our content, please include The Japan Times on your ad-blocker's list of approved sites.」（https://www.japantimes.co.jp/country-report/2026/10/28/germany-report-2026/changing-investment-landscape-plays-hessens-strengths/）
+- 「Hessen is gaining renewed attention from Japanese investors as regulatory certainty, talent and innovation carry greater weight in European expansion decisions.」（https://www.japantimes.co.jp/country-report/2026/10/28/germany-report-2026/changing-investment-landscape-plays-hessens-strengths/）
+
+## Shenzhen Yongchanghe Technology Co., Ltd.（https://www.jamghe.com）
+- 「Japan Advance Filing Rule.」（https://www.jctrans.com/en/company/kmyi89c/）
+- 「Shenzhen Yongchanghe Technology Co., Ltd. is a subsidiary of Meilianxing Technology Co., Ltd. It is a professional company in UV light curing with decades of experience in development and manufacturing.」（https://www.jamghe.com/pages/about-us）
+
+## Bayern Innovativ GmbH（https://www.forschung-innovation-bayern.de/）
+- 「Bayern Innovativ GmbH / SEMICON Japan 2026」（https://semicon-japan.german-pavilion.com/en/sites/exhibitors/144964）
+- 「SEMICON Japan 2026」（https://semicon-japan.german-pavilion.com/en/sites/exhibitors/144964）
+- 「Bayern Innovativ GmbH - SEMICON Japan 2026」（https://portal2026.semiconjapan.org/co/bayern-innovativ-gmbh）
+
+## Metalpine GmbH（https://www.metalpine.at）
+- 「METALPINE is part of the internationally represented htm Group (hightech metal invest) with locations in Germany, Austria, Bahrain and Japan.」（https://metalpine.at/）
+- 「METALPINE is part of the internationally represented htm Group (hightech metal invest) with locations in Germany, Austria, Bahrain and Japan.」（https://metalpine.at/）
+
+## Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e.V.（https://www.fraunhofer.de）
+- 「Towards Germany – Japan Semiconductor & Microsystems Innovation」（https://www.fraunhofer.de/de/fuer-kunden-und-partner.html）
+- 「Zum 17. Fraunhofer-Symposium bringen wir erneut Expertinnen und Experten aus Industrie und Wissenschaft sowie unsere Kooperationspartner aus Japan und Deutschland zusammen.」（https://www.fraunhofer.de/de/fuer-kunden-und-partner.html）
+- 「Wir laden Sie herzlich zum Fraunhofer-Symposium „Towards Germany–Japan Semiconductor & Microsystems Innovation“ am 7. und 8. Dezember 2026 in Tokio, Japan, ein.」（https://www.fraunhofer.de/de/fuer-kunden-und-partner.html）
+- 「. It includes 74 institutes and research units, each focusing on different research fields. With some 32,000 employees, mainly」（https://en.wikipedia.org/wiki/Fraunhofer-Gesellschaft）
+
+## Shenzhen Mingda Technology Co., Ltd.（https://www.3dmingda.com）
+- 「TCT Exhibition in Japan」（https://www.3dmingda.com/about-us）
+- 「Exhibition in Japan in May 2023」（https://www.3dmingda.com/about-us）
+- 「MINGDA 3D Makes a Splash at TCT 2024 in Japan, Leading the New Trend of 3D Printing Technology | Shenzhen Mingda Technology Co., Ltd」（https://www.3dmingda.com/blog/mingda-3d-makes-a-splash-at-tct-2024-in-japan）
+
+## Henan Creatbot Technology Limited（https://www.creatbot.com）
+- 「2023-4 Manufacturing World Nagoya Japan」（https://www.creatbot.com/about-us/）
+
+## HONGRIDA TECHNOLOGY Co., LTD.（https://www.hongrida.com）
+- 「具备焊接仿真验证能力，以日本进口模拟设备测量焊接区域动态翘曲变化量，提前识别量产风险」（https://www.hongrida.com/）
+
+## Alaan（https://www.alaan.com/）
+- 「Alaan in Japanese - Beautiful Kanji, Hiragana & Katakana」（https://www.in-japanese.com/da/kanji/name/Alaan）
+- 「Discover your name in beautiful Japanese writing systems」（https://www.in-japanese.com/da/kanji/name/Alaan）
+- 「Japanese written with Latin letters.」（https://www.in-japanese.com/da/kanji/name/Alaan）
+
+## Entocycle（https://entocycle.com/）
+- 「The more I hear about insect farming, the more it seems like a flawless business. In Japan, MUSCA comes to mind as a company engaged in similar efforts. I would like to research this company in the future as well.」（https://note.com/mushizukan_note/n/n9e696f7ecec6?hl=en）
+- 「日本では類似する取り組みをしている会社としてMUSCAが思い浮かびます」（https://note.com/mushizukan_note/n/n9e696f7ecec6）
+
+## Heartaerospace（https://www.heartaerospace.com）
+- 「日本のような狭小な島国だからこそこのような航空機は需要がありそう」（https://note.com/kazumat/n/n353d25dd658e）
+
+## Heyfood（https://heyfood.africa/）
+- 「日本128間信用金庫ATM大癱瘓 3,430間分行受影響 逾5小時後全...」（https://unwire.hk/2026/03/16/heyfood/life-tech/）
+- 「日本正式批准 iPS 細胞療法 重新編程成人細胞治柏金遜症」（https://unwire.hk/2026/03/16/heyfood/life-tech/）
+- 「日本研究：無糖強氣泡水減疲勞 電競玩家飲用後犯錯次數明顯減少」（https://unwire.hk/2026/03/16/heyfood/life-tech/）
+
+## Metalpine GmbH（https://www.metalpine.at）
+- 「METALPINE is part of the internationally represented htm Group (hightech metal invest) with locations in Germany, Austria, Bahrain and Japan.」（https://metalpine.at/）
+- 「METALPINE is part of the internationally represented htm Group (hightech metal invest) with locations in Germany, Austria, Bahrain and Japan.」（https://metalpine.at/）
 
 ## VBN Components AB（https://www.vbncomponents.com）
 - 「Swedish VBN Components AB is announcing the cooperation with HTL Co. Japan Ltd. as their distributor for VBN’s Vibenite materials.」（https://blog.wor-con.com/en/industry/vbn-components-and-htl-sign-strategic-partnership/）

@@ -1,0 +1,1101 @@
+{
+ "name": "Curacel",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AUMS不適合",
+ "researched_at": "2026-11-10T22:25:57.939973+00:00",
+ "official_url": "https://www.curacel.co/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$450K",
+    "url": "https://getlatka.com/companies/curacel",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Curacel Health AI powers instant responses to health-related claims, policy questions, and approvals giving your team speed and your customers peace of mind.",
+    "url": "https://www.curacel.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Curacel Auto AI streamlines claims and approvals with AI-powered automation, reducing delays and delivering quick, accurate results for insurers and customers.",
+    "url": "https://www.curacel.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Streamlined Claims Processing",
+    "url": "https://www.curacel.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Curacel's advanced AI-driven tools enable rapid processing of health insurance claims with minimal human intervention, significantly increasing operational efficiency.",
+    "url": "https://www.curacel.co/",
+    "pass": 1
+   },
+   {
+    "quote": "The platform's sophisticated fraud detection capabilities effectively identify and curb fraudulent claims, protecting revenue and enhancing financial security.",
+    "url": "https://www.curacel.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Curacel Grow assists Fintech, Credit, Logistics, and eCommerce companies in Africa in expanding their customer base and increasing sales through integrated insurance products, opening new avenues for growth and profitability.",
+    "url": "https://www.curacel.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate your entire insurance process",
+    "url": "https://www.curacel.co/",
+    "pass": 1
+   },
+   {
+    "quote": "We provide insurance solutions in Africa and emerging markets with fully integrated platformsthat bring together everything required to automate the insurance process for leading industries",
+    "url": "https://www.curacel.co/",
+    "pass": 1
+   },
+   {
+    "quote": "\"With Curacel we have made it massively easy for our clients to easily protect their property on the move. Fastest partnership we ever did!!!\"",
+    "url": "https://www.curacel.co/",
+    "pass": 1
+   },
+   {
+    "quote": "We knew that we wanted to provide insurance to support the small businesses using Oze and as soon as we saw a demo we knew that Curacel could help us to do it. From day 1 the process has been seamless.",
+    "url": "https://www.curacel.co/",
+    "pass": 1
+   },
+   {
+    "quote": "CURACEL PARTNER PROGRAM",
+    "url": "https://www.curacel.co/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Welcome to the Curacel Partner Program!",
+    "url": "https://www.curacel.co/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "At Curacel, we believe that collaboration drives innovation. Our Partner Program is designed to build a powerful network of health insurance professionals like you. Together, we'll reshape the future of the health insurance industry.",
+    "url": "https://www.curacel.co/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Benefit from personalised training, dedicated assistance, and ongoing guidance to succeed in the dynamic insurance market.",
+    "url": "https://www.curacel.co/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "We welcome health insurance executives, IT providers, and insurance brokers in Africa and emerging markets. Whether you're an established industry leader or a rising star, our program is designed to accelerate your growth and success.",
+    "url": "https://www.curacel.co/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Be part of the future of health insurance. Join the Curacel Partner Program and unlock a world of opportunities. Together, let's redefine the insurance landscape and pave the way for Universal Health Coverage.",
+    "url": "https://www.curacel.co/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Curacel partners Are bridging Business and Insurance gaps with Our Products",
+    "url": "https://www.curacel.co/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Take a look at how our customers use our products to grow their businesses, cut costs and accelerate the insurance process.",
+    "url": "https://www.curacel.co/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Cornerstone Nigeria, a trusted leader in insurance, is transforming motor insurance with Curacel’s AI-powered remote vehicle inspections. By leveraging AI for damage detection and assessment, Cornerstone is delivering faster, more transparent, and more reliable processes for customers and the industry.",
+    "url": "https://www.curacel.co/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "AXA Mansard, one of Nigeria’s leading insurers, is advancing the future of auto insurance by adopting artificial intelligence in partnership with Curacel. Through AI-powered vehicle damage detection and assessment, AXA Mansard is creating faster, more transparent, and more reliable processes for both customers and the industry.",
+    "url": "https://www.curacel.co/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Universal Insurance Nigeria, a leading auto insurer, partnered with Curacel to transform their vehicle underwriting, inspection, and claims management. Facing challenges like slow processing, inaccurate assessments, and customer dissatisfaction, they leveraged Curacel’s solutions to streamline operations, improve efficiency, and enhance customer service.",
+    "url": "https://www.curacel.co/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "First Guaranty Healthcare, a health insurance company collaborated with Curacel to transform their claims management processes from facing hurdles to processing easily and quickly.",
+    "url": "https://www.curacel.co/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Streamlining Health Insurance Processes: Curacel’s Collaboration with Serene Healthcare",
+    "url": "https://www.curacel.co/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Serene Healthcare, a healthcare insurance provider seized the opportunity for transformation by working with Curacel after being frustrated by growing inefficiencies caused by manual processes.",
+    "url": "https://www.curacel.co/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "To stay ahead in the competitive insurance market, GNI Healthcare, known for its affordable premiums, partnered with Curacel. They implemented Curacel's AI-powered claims processing system to streamline their operations and offer their customers a faster and more reliable service.",
+    "url": "https://www.curacel.co/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Lifeworth HMO, Nigeria’s foremost, proactive, and trustworthy HMO since 2014 has teamed up with Curacel to improve operational efficiencies and patient care services through digitization.",
+    "url": "https://www.curacel.co/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How Wellness HMO Transformed its Claims Processes with Curacel’s Technology",
+    "url": "https://www.curacel.co/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Wellness HMO, a leading Healthcare Service Provider in Nigeria, providing clients with stress-free access to quality healthcare has partnered with Curacel to revolutionize its claims processes. This strategic alliance has resulted in a remarkable transition from cumbersome manual operations to a sophisticated, digitized system, yielding significant cost savings and operational efficiencies.",
+    "url": "https://www.curacel.co/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Fixr is a premier service provider in the electronic appliance repair industry, known for its skilled technicians and commitment to efficient, reliable service.",
+    "url": "https://www.curacel.co/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Trade Lenda is revolutionizing SME financing in Africa by offering accessible solutions to Micro, Small, and informal retailers. With a focus on empowering growth and bridging supply chain gaps, they serve as a comprehensive support system for business expansion.",
+    "url": "https://www.curacel.co/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "SHiiP, recognized for its prowess in connecting individuals and small businesses with top-notch delivery options, real-time rate comparison, and on-demand tracking, aligns seamlessly with Curacel's commitment to excellence in insurance services",
+    "url": "https://www.curacel.co/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "SportReels, pioneering in digital sports insurance and promotion, revolutionizes athlete and team support, mitigating sports-related risks while promoting sports data. It fosters a supportive ecosystem for talent development and protection within the dynamic realm of sports.",
+    "url": "https://www.curacel.co/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Advancly is revolutionizing Africa's financial landscape, enhancing access to money for MSMEs through innovative credit, technology, and data solutions. With products like Advancly Spark and Advancly Embed, along with a significant loan disbursement volume, Advancly stands as a pivotal partner for business growth and stability.",
+    "url": "https://www.curacel.co/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Rayda, a leader in global fixed asset management, integrates Curacel Grow's embedded insurance feature, enhancing its asset lifecycle management platform. This strategic move provides a holistic solution for comprehensive asset management and insurance, streamlining the asset lifecycle experience for businesses worldwide.",
+    "url": "https://www.curacel.co/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Talstack, a leading B2B SaaS learning platform, has taken a significant step towards enhancing its comprehensive talent development offering by integrating Curacel Grow. This partnership empowers Talstack to embed device insurance seamlessly into its platform, offering businesses a holistic solution for employee upskilling and device protection",
+    "url": "https://www.curacel.co/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "In the dynamic landscape of global banking, Grey has emerged as a trailblazing fintech company, enabling users to handle multiple currencies in one app. By forging a strategic partnership with Curacel Grow, Grey has seamlessly embedded a diverse range of insurance products within its platform using innovative APIs.",
+    "url": "https://www.curacel.co/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Micropay, the ultimate hub for micro-payments, revolutionizes financial transactions with its dynamic ecosystem. The platform simplifies life with a three-step process: register/download the app, fund your account via bank transfers, USSD, or card debit, and seamlessly pay for services securely and efficiently.",
+    "url": "https://www.curacel.co/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Venco is the leading all-in-one community management software across nine cities in Africa, serving over 14,000 property units and 18,000 residents. This innovative solution streamlines operations for multi-unit residential and commercial communities, offering features like visitor management, community database, amenities booking, and automated billing.",
+    "url": "https://www.curacel.co/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How Pocket by Piggyvest Expanded their product offerings and Enhanced Insurance Access with Curacel",
+    "url": "https://www.curacel.co/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Findrex, a prominent travel agency specializing in travel bookings, tours, and experiences for corporate clients, sees enhanced customer service and satisfaction by diversifying their insurance options with Curacel.",
+    "url": "https://www.curacel.co/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Shipbubble serves as a bridge for growing African SMEs, providing an all-inclusive cloud shipping software solution. It seamlessly connects online merchants, marketplaces, and e-commerce platforms to multiple shipping carriers globally, all from a single API and dashboard",
+    "url": "https://www.curacel.co/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "We aim to create a world with equal opportunity and prosperity.",
+    "url": "https://www.curacel.co/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We want to make it easy to get & use risk protection in emerging markets.",
+    "url": "https://www.curacel.co/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "More than 3 billion people all over the world are not protected from the risks they face in their daily lives. People try to build successful lives for themselves and their families, but these risks can set them back by years.",
+    "url": "https://www.curacel.co/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We're helping businesses improve the insurance process, one country at a time.",
+    "url": "https://www.curacel.co/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Curacel as seen in the press",
+    "url": "https://www.curacel.co/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We provide a work computer to enable you do your best work",
+    "url": "https://www.curacel.co/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Curacel has a very collaborative and light atmosphere. Even when there is some pressure from clients, everyone rallies round to get stuff done. At Curacel, I have also grown to be comfortable interacting with MDs and top managers in different companies.",
+    "url": "https://www.curacel.co/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Sales Development Representative",
+    "url": "https://www.curacel.co/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Customer Onboarding Associate",
+    "url": "https://www.curacel.co/careers",
+    "pass": 1
+   },
+   {
+    "quote": "The supportive work culture at our company has allowed me to thrive and grow both personally and professionally. I have appreciated the opportunity to learn from my colleagues, who are highly skilled engineers.",
+    "url": "https://www.curacel.co/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Working on diverse projects and technologies has also helped me expand my knowledge and skills in web development.",
+    "url": "https://www.curacel.co/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Join our Graduate Trainee & Undergraduate Internship Program and kickstart your journey in insurtech",
+    "url": "https://www.curacel.co/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Account Executive",
+    "url": "https://www.curacel.co/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Cornerstone Nigeria, a trusted leader in insurance, is transforming motor insurance with Curacel’s AI-powered remote vehicle inspections. By leveraging AI for damage detection and assessment, Cornerstone is delivering faster, more transparent, and more reliable processes for customers and the industry.",
+    "url": "https://www.curacel.co/case-studies/streamlining-healthcare-payments-curacels-partnership-with-century-medicaid-nigeria",
+    "pass": 1
+   },
+   {
+    "quote": "AXA Mansard, one of Nigeria’s leading insurers, is advancing the future of auto insurance by adopting artificial intelligence in partnership with Curacel. Through AI-powered vehicle damage detection and assessment, AXA Mansard is creating faster, more transparent, and more reliable processes for both customers and the industry.",
+    "url": "https://www.curacel.co/case-studies/streamlining-healthcare-payments-curacels-partnership-with-century-medicaid-nigeria",
+    "pass": 1
+   },
+   {
+    "quote": "First Guaranty Healthcare, a health insurance company collaborated with Curacel to transform their claims management processes from facing hurdles to processing easily and quickly.",
+    "url": "https://www.curacel.co/case-studies/revolutionizing-claims-management-first-guaranty-healthcares-partnership-with-curacel",
+    "pass": 1
+   },
+   {
+    "quote": "Before Curacel, FGH had gone through many different software without much success, keeping the team grappling with inefficiencies, errors, and delays in processing insurance claims from their providers. These issues were causing a lot of financial losses and increased Turn-Around Time (TAT), as well as stress for the team.",
+    "url": "https://www.curacel.co/case-studies/revolutionizing-claims-management-first-guaranty-healthcares-partnership-with-curacel",
+    "pass": 1
+   },
+   {
+    "quote": "They sought a solution to streamline their claims management processes and improve efficiency. They turned to Curacel, a renowned provider of AI-powered claims processing solutions, for assistance. Curacel offered a comprehensive claims automation system that could help FGH address its challenges.",
+    "url": "https://www.curacel.co/case-studies/revolutionizing-claims-management-first-guaranty-healthcares-partnership-with-curacel",
+    "pass": 1
+   },
+   {
+    "quote": "“Curacel has saved us. We went from all these manual processes to having everything digitized and automated. We are happy to be working alongside Curacel\"",
+    "url": "https://www.curacel.co/case-studies/revolutionizing-claims-management-first-guaranty-healthcares-partnership-with-curacel",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "The platform's sophisticated fraud detection capabilities effectively identify and curb fraudulent claims, protecting revenue and enhancing financial security.",
+    "url": "https://www.curacel.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Be part of the future of health insurance. Join the Curacel Partner Program and unlock a world of opportunities. Together, let's redefine the insurance landscape and pave the way for Universal Health Coverage.",
+    "url": "https://www.curacel.co/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Pocket by Piggyvest is a social commerce platform that facilitates peer-to-peer (P2P) and customer-to-business (C2B) payments. With over 100 employees, they are dedicated to making everyday financial transactions more accessible and secure for their customers. To further enhance their service offering, Pocket by Piggyvest partnered with Curacel.",
+    "url": "https://www.curacel.co/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Shipbubble serves as a bridge for growing African SMEs, providing an all-inclusive cloud shipping software solution. It seamlessly connects online merchants, marketplaces, and e-commerce platforms to multiple shipping carriers globally, all from a single API and dashboard",
+    "url": "https://www.curacel.co/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Oze, an all-in-one business app catering to SMBs in Ghana and Nigeria, teams up with Curacel for efficient and cost-effective acquisition of credit life insurance, thus minimizing the risk of non-performing loans.",
+    "url": "https://www.curacel.co/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "The integration of Curacel's technology transformed Micropay's approach to insurance distribution. Users could now navigate the platform effortlessly to secure micro-pensions, insurance coverage, and credit options. This streamlined process eliminated barriers and made financial protection more accessible to a demographic traditionally underserved by traditional insurance channels.",
+    "url": "https://www.curacel.co/case-studies/revolutionizing-micro-payments-micropays-strategic-partnership-with-curacel",
+    "pass": 1
+   },
+   {
+    "quote": "Breaking Down Barriers with Innovative Solutions",
+    "url": "https://www.curacel.co/case-studies/axa-mansard-curacel-grow-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Renowned across Africa for its world-class insurance services, AXA Mansard was nonetheless grappling with the immense challenge of tariff standardization. Operating in a diverse landscape with thousands of providers, each with their unique tariff structures, had long stood as a barrier to streamlining their services.",
+    "url": "https://www.curacel.co/case-studies/axa-mansard-curacel-grow-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Curacel’s journey highlights how no-code test automation can break technical barriers and help growing companies scale their testing efforts. By switching to Scandium, Curacel has streamlined its QA processes, enabling its team to focus on delivering high-quality software at speed.",
+    "url": "https://getscandium.com/case-studies/curacel/",
+    "pass": 3
+   },
+   {
+    "quote": "Curacel Revenue 2024: $6.3M Est., $450K Raised",
+    "url": "https://getlatka.com/companies/curacel",
+    "pass": 3
+   },
+   {
+    "quote": "Curacel has not published its revenue. RocketReach puts it at about $6.3M a year (November 2024).",
+    "url": "https://getlatka.com/companies/curacel",
+    "pass": 3
+   },
+   {
+    "quote": "All 4 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/curacel",
+    "pass": 3
+   },
+   {
+    "quote": "Curacel CEO, founders & employees",
+    "url": "https://getlatka.com/companies/curacel",
+    "pass": 3
+   },
+   {
+    "quote": "Henry Mascot founded Curacel in 2016 and runs it as CEO. Curacel had 50 employees (October 2024, LinkedIn), up from 46 a year earlier.",
+    "url": "https://getlatka.com/companies/curacel",
+    "pass": 3
+   },
+   {
+    "quote": "What is Curacel's revenue?",
+    "url": "https://getlatka.com/companies/curacel",
+    "pass": 3
+   },
+   {
+    "quote": "RocketReach estimates Curacel's revenue at about",
+    "url": "https://getlatka.com/companies/curacel",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Curacel have?",
+    "url": "https://getlatka.com/companies/curacel",
+    "pass": 3
+   },
+   {
+    "quote": "employees in October 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/curacel",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/curacel",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/curacel",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/curacel",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by the fastest growing brands",
+    "url": "https://www.curacel.co/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Serene Healthcare, a healthcare insurance provider seized the opportunity for transformation by working with Curacel after being frustrated by growing inefficiencies caused by manual processes.",
+    "url": "https://www.curacel.co/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Empowering Technicians: Fixr's Enhanced Insurance Coverage with Curacel Grow",
+    "url": "https://www.curacel.co/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Fixr is a premier service provider in the electronic appliance repair industry, known for its skilled technicians and commitment to efficient, reliable service.",
+    "url": "https://www.curacel.co/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "We’re trusted by 7000+ organizations operating across 10+ countries and backed by leading tech investors like Google, Tencent and YCombinator.",
+    "url": "https://www.curacel.co/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "In conclusion, the strategic partnership between Micropay and Curacel has successfully merged micro-payments with essential insurance products, redefining financial services for the informal sector. This case study highlights the transformative impact of technology in fostering financial inclusion and empowering individuals with accessible insurance solutions.",
+    "url": "https://www.curacel.co/case-studies/revolutionizing-micro-payments-micropays-strategic-partnership-with-curacel",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing & Industrial Tech",
+    "url": "https://getscandium.com/case-studies/curacel/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "CURACEL PARTNER PROGRAM",
+    "url": "https://www.curacel.co/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Welcome to the Curacel Partner Program!",
+    "url": "https://www.curacel.co/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "At Curacel, we believe that collaboration drives innovation. Our Partner Program is designed to build a powerful network of health insurance professionals like you. Together, we'll reshape the future of the health insurance industry.",
+    "url": "https://www.curacel.co/partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Be part of the future of health insurance. Join the Curacel Partner Program and unlock a world of opportunities. Together, let's redefine the insurance landscape and pave the way for Universal Health Coverage.",
+    "url": "https://www.curacel.co/partnership",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "About Us - Curacel — Curacel empowers insurance in emerging markets with AI infrastructure. Trusted by 7000+ organizations across 10+ countries, backed by Google, Tencent & YC.",
+    "url": "https://www.curacel.co/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "Curacel - AI Powered Infrastructure for Insurance — We knew that we wanted to provide insurance to support the small businesses using Oze and as soon as we saw a demo we knew that Curacel could help us to do it. From day 1 the process has been seamless.",
+    "url": "https://www.curacel.co/",
+    "pass": 3
+   },
+   {
+    "quote": "CuraCell - Towards a Life Free from Cancer — CuraCell advanced activation and enrichment platform, CytoPLY TM amplifies cytotoxicity of T-cell therapies such as TILs and TCR-Ts. CytoPLY TM enables T-cell therapies to advance into cold solid tumor cancers with large unmet medical needs. Applicable to a broad range of solid tumors, CuraCell’s first TIL product generation aims at late-stage prostate ",
+    "url": "https://curacell.se/",
+    "pass": 3
+   },
+   {
+    "quote": "Curel Japanese Skin Care Intensive Face Cream ... - AmazonAbout Us - CuracelWhere to Buy Curél® Japanese Skincare | Curél® Official SiteTop | Kao Curél — Specifically developed for dry, sensitive skin with unique textures and the latest in ceramide care. We’re trusted by 7000+ organizations operating across 10+ countries and backed by leading tech investors like Google, Tencent and YCombinator. We",
+    "url": "https://www.amazon.com/Intensive-Moisturizer-Anti-Aging-Fragrance-Free-Anti-Wrinkle/dp/B0869L7KPR",
+    "pass": 3
+   },
+   {
+    "quote": "About Us - Curacel — We’re trusted by 7000+ organizations operating across 10+ countries and backed by leading tech investors like Google, Tencent and YCombinator. We aim to create a world with equal opportunity and prosperity. We want to make it easy to get & use risk protection in emerging markets.",
+    "url": "https://www.curacel.co/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies - curacel.co — Facing challenges like slow processing, inaccurate assessments, and customer dissatisfaction, they leveraged Curacel’s solutions to streamline operations, improve efficiency, and enhance customer service.",
+    "url": "https://www.curacel.co/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Curacel Case 2025 | PDF | Software As A Service | Insurance — Curacel pivoted from a narrowly focused health-tech product into a full-stack software platform serving insurers, healthcare providers, and distribution partners.",
+    "url": "https://www.scribd.com/document/960856208/Curacel-Case-2025",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies - ar.curacel.co — To stay ahead in the competitive insurance market, GNI Healthcare, known for its affordable premiums, partnered with Curacel. They implemented Curacel's AI-powered claims processing system to streamline their operations and offer their customers a faster and more reliable service. Read Case Study",
+    "url": "https://ar.curacel.co/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Curacel - Scandium — Curacel’s journey highlights how no-code test automation can break technical barriers and help growing companies scale their testing efforts. By switching to Scandium, Curacel has streamlined its QA processes, enabling its team to focus on delivering high-quality software at speed.",
+    "url": "https://getscandium.com/case-studies/curacel/",
+    "pass": 3
+   },
+   {
+    "quote": "Curacel - AI-powered Insurance Infrastructure — \"Working with Curacel Grow has helped us deliver on our promise of simplicity, transparency, and value to our customers. We've achieved operational efficiency and customer satisfaction, which are both critical to our continued growth and success,\" concluded the Topship spokesperson.",
+    "url": "https://www.curacel.co/case-studies/topship-curacel-grow-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Curacel - 2026 Company Profile, Team, Funding & Competitors ...Curacel 2026 Company Profile: Valuation, Funding & Investors ...Curacel – Revenue Estimate & Market Landscape – 2026 – LagosCuracel Revenue 2024: $6.3M ARR, $450K Raised - getlatka.comCuracel: Company Profile, Funding & InvestorsCuracel: Funding, Team & Investors | Startup IntrosCuracel - Overview, News & Similar companies | ZoomInfo.c",
+    "url": "https://tracxn.com/d/companies/curacel/__DXeu2HFkba_ZxNczf4iJrl7wz4Z2-okT-CeNPmbDVhM",
+    "pass": 3
+   },
+   {
+    "quote": "Curacel 2026 Company Profile: Valuation, Funding & Investors ...Curacel – Revenue Estimate & Market Landscape – 2026 – LagosCuracel Revenue 2024: $6.3M ARR, $450K Raised - getlatka.comCuracel: Company Profile, Funding & InvestorsCuracel: Funding, Team & Investors | Startup IntrosCuracel - Overview, News & Similar companies | ZoomInfo.com — Information on valuation, funding, cap tables, investors, ",
+    "url": "https://pitchbook.com/profiles/company/175508-29",
+    "pass": 3
+   },
+   {
+    "quote": "Curacel – Revenue Estimate & Market Landscape – 2026 – Lagos — Curacel is gaining ground with estimated revenue of $6.7M, team of around 50+ employees, in Lagos, proving resilience in changing conditions.",
+    "url": "https://compworth.com/company/curacel",
+    "pass": 3
+   },
+   {
+    "quote": "Curacel Revenue 2024: $6.3M ARR, $450K Raised - getlatka.com — Nov 30, 2024 · In 2024, Curacel's revenue reached $6.3M. The company previously reported $3.1M in 2024. Since its launch in 2016, Curacel has shown consistent revenue growth. Curacel has not publicly disclosed its valuation. The company has raised $450K in total funding to date.",
+    "url": "https://getlatka.com/companies/curacel",
+    "pass": 3
+   },
+   {
+    "quote": "Curacel: Company Profile, Funding & Investors — Nov 3, 2026 · Curacel is an Insurance, InsurTech and Health Insurance company based in Accra, Ghana, founded in 2017. It has raised $3.5M across 2 rounds.",
+    "url": "https://www.startuplist.africa/startups/curacel",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Curacel (YC W22) on X: \"Curacel’s CTO/CO-Founder, John Dada ... Curacel’s CTO/CO-Founder, John Dada will be attending #GitexGlobal, one of the world's largest #tech and #startup exhibition happening at Dubai World Trade Centre.",
+    "url": "https://x.com/curacel/status/1579801007403732992",
+    "pass": 3
+   },
+   {
+    "quote": "Henry Mascot on X: \"This is how my team at @curacel has been ... This is how my team at @curacel has been using @openclaw since Jan. Except that they aren’t called Claude, they have personality and different names for different teams depending on their roles.",
+    "url": "https://x.com/iAmHenryMascot/status/2069526907184386048",
+    "pass": 3
+   },
+   {
+    "quote": "John Dada, also known as Dr. Flash, is a seasoned software ... Before Curacel, he developed innovative tech solutions for industries, including creating an eLearning platform for Nigerian banks and migrating enterprise products to the cloud.",
+    "url": "https://x.com/DataFestAfrica/status/1845039636432945629",
+    "pass": 3
+   },
+   {
+    "quote": "@curacel | X The latest posts from @curacel",
+    "url": "https://x.com/curacel",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Curacel (YC 22) - LinkedIn Curacel is built for the next generation of African financial services: API-first, AI-assisted, operationally practical, and focused on making protection easier to access, manage, and trust.",
+    "url": "https://www.linkedin.com/company/curacel",
+    "pass": 3
+   },
+   {
+    "quote": "Curacel (YC 22) | LinkedIn Curacel builds AI-powered infrastructure for Financial services businesses across Africa. We help insurers, HMOs, brokers, fintechs, logistics platforms, lenders, and other financial-services...",
+    "url": "https://ng.linkedin.com/company/curacel",
+    "pass": 3
+   },
+   {
+    "quote": "Curacel (YC 22) - LinkedIn Curacel builds AI-powered infrastructure for Financial services businesses across Africa. We help insurers, HMOs, brokers, fintechs, logistics platforms, lenders, and other financial-services...",
+    "url": "https://ke.linkedin.com/company/curacel",
+    "pass": 3
+   },
+   {
+    "quote": "John Dada - CTO & Co-Founder @ Curacel (YC W22) | LinkedIn Curacel has been selected as one of the top 10 Africa focused FinTech startups around the world. Startupbootcamp is a network of industry-focused startup accelerators.",
+    "url": "https://uk.linkedin.com/in/john-dada-16235b57",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Curacel | Lagos - FacebookCuracel - Let’s make it happen for your insurance business ...Curacel - Videos - FacebookReintroducing Curacel: Revolutionizing Insurance Operations ...Curacel - On this month's episode of \"meet a Curalyte ...In insurance, your word is only as strong as your ability to ...One-size-fits-all insurance is already outdated. Most ... May 24, 2026 · In insurance, your word is o",
+    "url": "https://www.facebook.com/curacel/",
+    "pass": 3
+   },
+   {
+    "quote": "Curacel - Let’s make it happen for your insurance business ... Curacel Jan 6 Let’s make it happen for your insurance business in 2025: The year you stop worrying about “what if” and start delivering seamless solutions. Message us now to secure your success!",
+    "url": "https://www.facebook.com/curacel/posts/lets-make-it-happen-for-your-insurance-business-in-2025-the-year-you-stop-worryi/1116786493474764/",
+    "pass": 3
+   },
+   {
+    "quote": "Curacel - Videos - Facebook Curacel's AI fraud detection platform is for every part of the insurance policy life cycle. Our integrated end-to-end offerings solve the biggest challenges faced by insurers, distributors and advisors.",
+    "url": "https://www.facebook.com/curacel/videos/",
+    "pass": 3
+   },
+   {
+    "quote": "Reintroducing Curacel: Revolutionizing Insurance Operations ... Curacel is revolutionizing insurance worldwide, helping insurers unlock new levels of efficiency, agility, and customer satisfaction. Ready to join the revolution? Let's reimagine what's possible, together.",
+    "url": "https://www.facebook.com/curacel/videos/-reintroducing-curacel-revolutionizing-insurance-operations-at-curacel-were-not-/969803921632154/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.curacel.co/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.curacel.co/partnership",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.curacel.co/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.curacel.co/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.curacel.co/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.curacel.co/case-studies/streamlining-healthcare-payments-curacels-partnership-with-century-medicaid-nigeria",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.curacel.co/case-studies/revolutionizing-claims-management-first-guaranty-healthcares-partnership-with-curacel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.curacel.co/case-studies/revolutionizing-micro-payments-micropays-strategic-partnership-with-curacel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.curacel.co/case-studies/remote-vehicle-inspections-curacels-partnership-with-cornerstone-nigeria",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.curacel.co/case-studies/optimizing-health-claims-curacels-automated-adjudication-partnership-with-defmis-kenya",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.curacel.co/case-studies/minimizing-operational-costs-and-mitigating-fraud-gni-healthcares-partnership-with-curacel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.curacel.co/case-studies/axa-mansard-curacel-grow-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.curacel.co/case-studies/ai-powered-vehicle-damage-detection-and-assessment-axa-mansard-and-curacel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.curacel.co/case-studies/revolutionizing-auto-insurance-operations-curacels-collaboration-with-universal-insurance-nigeria",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/63785d19707d745caf0fcabc/68b90a52bf61d5e8d367e9bd_Curacel_Insurance_Partners_CORNERSTONE.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/63785d19707d745caf0fcabc/68ab750bef5ddf2053007c0c_Curacel_Insurance_Partners_AXA%20MANSAD.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/63785d19707d745caf0fcabc/68592d252b9c9a2240838541_Curacel_Insurance_Partners_DEFMIS.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/63785d19707d745caf0fcabc/684fdb59ac9cc91744dc65a7_Curacel_Insurance_Partners_CENTURY.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://curacell.se/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://global.honda/jp/news/2026/4260305b.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smith-nephew.com/en-us/contact-us/companyinfo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://us.curel.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.curel.com/en-gb/products/moisturizers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.com/Intensive-Moisturizer-Anti-Aging-Fragrance-Free-Anti-Wrinkle/dp/B0869L7KPR",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://us.curel.com/curel-facecare-where-to-buy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scribd.com/document/960856208/Curacel-Case-2025",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ar.curacel.co/case-studies",
+    "status": "network_error:SSLError",
+    "method": "http"
+   },
+   {
+    "url": "https://getscandium.com/case-studies/curacel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.canva.com/partners/reseller/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/curacel/__DXeu2HFkba_ZxNczf4iJrl7wz4Z2-okT-CeNPmbDVhM",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/175508-29",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/curacel",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/curacel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/curacel/status/1579801007403732992",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/iAmHenryMascot/status/2069526907184386048",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/DataFestAfrica/status/1845039636432945629",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/curacel",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ng.linkedin.com/company/curacel",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ke.linkedin.com/company/curacel",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/john-dada-16235b57",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/curacel/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/curacel/posts/lets-make-it-happen-for-your-insurance-business-in-2025-the-year-you-stop-worryi/1116786493474764/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/curacel/videos/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/curacel/videos/-reintroducing-curacel-revolutionizing-insurance-operations-at-curacel-were-not-/969803921632154/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/curacel",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Curacel 日本 導入",
+   "results": [
+    "https://www.curacel.co/about-us",
+    "https://www.curacel.co/",
+    "https://curacell.se/",
+    "https://global.honda/jp/news/2026/4260305b.html",
+    "https://www.jetro.go.jp/invest/newsroom/2026/4ca9cc291cb3937f.html",
+    "https://prtimes.jp/main/html/rd/p/000000595.000070897.html",
+    "https://kuruma-news.jp/post/1131871"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Curacel 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://curamedical.com/",
+    "https://www.ipsen.com/japan/会社/",
+    "https://www.gilead.com/ja-jp/company/gilead-in-japan"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Curacel Japan",
+   "results": [
+    "https://us.curel.com/",
+    "https://www.curel.com/en-gb/products/moisturizers/",
+    "https://www.amazon.com/Intensive-Moisturizer-Anti-Aging-Fragrance-Free-Anti-Wrinkle/dp/B0869L7KPR",
+    "https://us.curel.com/curel-facecare-where-to-buy",
+    "https://www.curacel.co/about-us",
+    "https://www.curel.com/en-us/",
+    "https://web.kao.com/sg/curel/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Curacel manufacturing customer case study",
+   "results": [
+    "https://www.curacel.co/case-studies",
+    "https://www.scribd.com/document/960856208/Curacel-Case-2025",
+    "https://ar.curacel.co/case-studies",
+    "https://getscandium.com/case-studies/curacel/",
+    "https://www.curacel.co/case-studies/topship-curacel-grow-case-study",
+    "https://contextdata.ai/use-cases/curacel",
+    "https://www.curacelhealth.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Curacel white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.canva.com/partners/reseller/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://www.appspace.com/resellers-alliances/",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Curacel founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/curacel/__DXeu2HFkba_ZxNczf4iJrl7wz4Z2-okT-CeNPmbDVhM",
+    "https://pitchbook.com/profiles/company/175508-29",
+    "https://compworth.com/company/curacel",
+    "https://getlatka.com/companies/curacel",
+    "https://www.startuplist.africa/startups/curacel",
+    "https://startupintros.com/orgs/curacel",
+    "https://www.zoominfo.com/c/curacel/536086865"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Curacel",
+   "results": [
+    "https://note.com/yoniumuhibi",
+    "https://note.com/seigo77",
+    "https://note.com/tag/禍話リライト",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://tales.note.com/",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/michiruf",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/inokun/n/n7efa91c9eeb2"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:x.com Curacel",
+   "results": [
+    "https://x.com/curacel/status/1579801007403732992",
+    "https://x.com/iAmHenryMascot/status/2069526907184386048",
+    "https://x.com/Curacaofootbal1",
+    "https://x.com/DataFestAfrica/status/1845039636432945629",
+    "https://help.x.com/en/business-and-advertising/financial-services",
+    "https://x.com/crulge/status/2113868737480729014",
+    "https://x.com/NieuwsCuracao"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Curacel",
+   "results": [
+    "https://www.linkedin.com/company/curacel",
+    "https://ng.linkedin.com/company/curacel",
+    "https://ke.linkedin.com/company/curacel",
+    "https://uk.linkedin.com/in/john-dada-16235b57",
+    "https://www.linkedin.com/in/henrymascot",
+    "https://ng.linkedin.com/jobs/view/spartan-graduate-trainee-programme-at-curacel-yc-22-4452760636",
+    "https://uk.linkedin.com/jobs/view/enterprise-account-executive-new-ai-pilled-at-curacel-yc-22-4461651415"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Curacel",
+   "results": [
+    "https://www.facebook.com/curacel/",
+    "https://www.facebook.com/curacel/posts/lets-make-it-happen-for-your-insurance-business-in-2025-the-year-you-stop-worryi/1116786493474764/",
+    "https://www.facebook.com/curacel/videos/",
+    "https://www.facebook.com/curacel/videos/-reintroducing-curacel-revolutionizing-insurance-operations-at-curacel-were-not-/969803921632154/",
+    "https://www.facebook.com/curacel/posts/on-this-months-episode-of-meet-a-curalyte-series-we-have-with-us-dakara-fega-lea/1741728232697972/",
+    "https://www.facebook.com/curacel/videos/in-insurance-your-word-is-only-as-strong-as-your-ability-to-deliverat-curacel-we/1043558964616713/",
+    "https://www.facebook.com/curacel/videos/one-size-fits-all-insurance-is-already-outdated-most-insurers-just-dont-know-it-/1490475622521181/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Curacel note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://note.com/rei20000815/n/nb310c1b46e67",
+    "https://the-shashi.com/tse/5243/ceo/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Curacel X 投稿",
+   "results": [
+    "https://x.com/curacel",
+    "https://www.curacel.co/",
+    "https://www.instagram.com/curacelai/",
+    "https://www.curacelhealth.com/",
+    "https://x.com/curel_kao/status/2120063913660420503",
+    "https://x.com/i/trending/2119325226513387540",
+    "https://business.x.com/ja/advertising/carousels"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部33頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部33頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部33頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部33頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部33頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部33頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部33頁・検索12回）"
+ }
+}

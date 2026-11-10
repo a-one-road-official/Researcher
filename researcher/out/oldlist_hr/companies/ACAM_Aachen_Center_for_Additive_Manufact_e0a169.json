@@ -1,0 +1,429 @@
+{
+ "name": "ACAM Aachen Center for Additive Manufacturing GmbH",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜AI送信済み",
+ "researched_at": "2026-11-10T21:58:45.994050+00:00",
+ "official_url": "https://www.acam-aachen.de",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "検索結果の抜粋": [
+   {
+    "quote": "ACAM Aachen Center for Additive Manufacturing GmbH — ACAM Aachen Center for Additive Manufacturing GmbH LinkedIn https://de.linkedin.com > company",
+    "url": "https://de.linkedin.com/company/acam-aachen-center-for-additive-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "ACAM Aachen Center for Additive Manufacturing GmbH — ACAM Aachen Center for Additive Manufacturing GmbH acam.digital https://acam.digital",
+    "url": "https://acam.digital/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "ACAM Aachen Center for Additive Manufacturing GmbH",
+    "url": "https://acam.digital/accounts/login/?next=/blog/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "ACAM Aachen Center for Additive Manufacturing GmbH ACAM Aachen Center for Additive Manufacturing GmbH LinkedIn https://de.linkedin.com > company",
+    "url": "https://de.linkedin.com/company/acam-aachen-center-for-additive-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "ACAM Aachen Center for Additive Manufacturing GmbH's Post ACAM Aachen Center for Additive Manufacturing GmbH's Post LinkedIn https://www.linkedin.com > posts > ac...",
+    "url": "https://www.linkedin.com/posts/acam-aachen-center-for-additive-manufacturing_additivemanufacturing-amcommunity-3dprinting-activity-7428071674807418880-Grg0",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.acam-aachen.de",
+    "status": "network_error:SSLError",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://acam.rwth-campus.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://de.linkedin.com/company/acam-aachen-center-for-additive-manufacturing",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://dap-aachen.de/en/advanced-training",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tctmagazine.com/stratasys-acam-5-year-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://acam.rwth-campus.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://de.linkedin.com/company/acam-aachen-center-for-additive-manufacturing",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://dap-aachen.de/en/advanced-training",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://acam.digital/accounts/login/?next=/blog/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://de.linkedin.com/company/acam-aachen-center-for-additive-manufacturing",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://acam.rwth-campus.com/presse/networking-day-additive-manufacturing-for-acam-japanese-members/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amgta.org/amgta-member-spotlight-gerret-lukas-of-acam-aachen-center-for-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://acam.rwth-campus.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://de.linkedin.com/company/acam-aachen-center-for-additive-manufacturing",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://acam.rwth-campus.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJRVZRIBTmkGUmRNTl9nKzvdRaiYiVrcxDVOga_akKtWRGWApgE",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amgta.org/amgta-member-spotlight-gerret-lukas-of-acam-aachen-center-for-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://acam.rwth-campus.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://de.linkedin.com/company/acam-aachen-center-for-additive-manufacturing",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://toffeex.com/news/toffeex-joins-acam-to-advance-physics-driven-design-for-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dap-aachen.de/en/advanced-training",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://de.linkedin.com/company/acam-aachen-center-for-additive-manufacturing",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://acam.rwth-campus.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amgta.org/amgta-member-spotlight-gerret-lukas-of-acam-aachen-center-for-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://de.linkedin.com/company/acam-aachen-center-for-additive-manufacturing",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/acam-aachen-center-for-additive-manufacturing_additivemanufacturing-amcommunity-3dprinting-activity-7428071674807418880-Grg0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/company/acam-aachen-center-for-additive-manufacturing",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/company/acam-aachen-center-for-additive-manufacturing",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ACAM Aachen Center for Additive Manufacturing GmbH 日本 導入",
+   "results": [
+    "https://acam.rwth-campus.com/",
+    "https://de.linkedin.com/company/acam-aachen-center-for-additive-manufacturing",
+    "https://dap-aachen.de/en/advanced-training",
+    "https://www.tctmagazine.com/stratasys-acam-5-year-additive-manufacturing/",
+    "https://acam.digital/",
+    "https://www.voxelmatters.com/germany-based-acam-plans-international-innovative-training-network-additive-manufacturing/",
+    "https://nachrichten.idw-online.de/2016/04/04/aachen-center-for-additive-manufacturing",
+    "https://www.instagram.com/acamaachen/",
+    "https://acam.rwth-campus.com/author/roll/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "ACAM Aachen Center for Additive Manufacturing GmbH 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://acam.rwth-campus.com/",
+    "https://de.linkedin.com/company/acam-aachen-center-for-additive-manufacturing",
+    "https://dap-aachen.de/en/advanced-training",
+    "https://acam.digital/",
+    "https://nachrichten.idw-online.de/2015/10/01/acam-aachen-center-for-additive-manufacturing",
+    "https://acam.rwth-campus.com/press-releases/",
+    "https://3druck.com/ja/%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9/%E3%82%A2%E3%82%AB%E3%83%A0%E3%83%BB%E3%82%A2%E3%83%BC%E3%83%98%E3%83%B3%E3%83%BB%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%95%E3%82%A9%E3%83%BC%E3%83%BB%E3%82%A2%E3%83%87%E3%82%A3%E3%83%86-2/",
+    "https://www.instagram.com/acamaachen/",
+    "https://www.linkedin.com/posts/acam-aachen-center-for-additive-manufacturing_additivemanufacturing-amcommunity-3dprinting-activity-7428071674807418880-Grg0",
+    "https://jp.linkedin.com/company/acam-aachen-center-for-additive-manufacturing"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "ACAM Aachen Center for Additive Manufacturing GmbH Japan",
+   "results": [
+    "https://de.linkedin.com/company/acam-aachen-center-for-additive-manufacturing",
+    "https://acam.rwth-campus.com/presse/networking-day-additive-manufacturing-for-acam-japanese-members/",
+    "https://amgta.org/amgta-member-spotlight-gerret-lukas-of-acam-aachen-center-for-additive-manufacturing/",
+    "https://acam.rwth-campus.com/",
+    "https://dap-aachen.de/en/advanced-training",
+    "https://toffeex.com/news/toffeex-joins-acam-to-advance-physics-driven-design-for-additive-manufacturing/",
+    "https://www.youtube.com/watch?v=obAtfRtA7yk",
+    "https://acam.digital/",
+    "https://www.instagram.com/acamaachen/",
+    "https://acam.rwth-campus.com/about-us-2/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "ACAM Aachen Center for Additive Manufacturing GmbH manufacturing customer case study",
+   "results": [
+    "https://de.linkedin.com/company/acam-aachen-center-for-additive-manufacturing",
+    "https://acam.rwth-campus.com/",
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJRVZRIBTmkGUmRNTl9nKzvdRaiYiVrcxDVOga_akKtWRGWApgE",
+    "https://amgta.org/amgta-member-spotlight-gerret-lukas-of-acam-aachen-center-for-additive-manufacturing/",
+    "https://www.eos.info/industries/customer-success-stories",
+    "https://dap-aachen.de/en/advanced-training",
+    "https://www.tctmagazine.com/stratasys-acam-5-year-additive-manufacturing/",
+    "https://www.econstor.eu/bitstream/10419/310245/1/1811930816.pdf",
+    "https://www.youtube.com/watch?v=obAtfRtA7yk",
+    "https://acam.rwth-campus.com/infrastructure/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "ACAM Aachen Center for Additive Manufacturing GmbH white label OR reseller OR partner program",
+   "results": [
+    "https://acam.rwth-campus.com/",
+    "https://de.linkedin.com/company/acam-aachen-center-for-additive-manufacturing",
+    "https://toffeex.com/news/toffeex-joins-acam-to-advance-physics-driven-design-for-additive-manufacturing/",
+    "https://dap-aachen.de/en/advanced-training",
+    "https://wiesemann1893.com/blogs/enable3d/joining-acam-community?srsltid=AYCX9vLZgSRBtaumlL3FcOhmtq7hIGhznYsRDIfuZVBI-_jI0b2AlGiy",
+    "https://acam.digital/",
+    "https://nachrichten.idw-online.de/2015/10/01/acam-aachen-center-for-additive-manufacturing",
+    "https://www.linkedin.com/posts/johannes-henrich-schleifenbaum-162268209_ready-to-make-am-accessible-for-all-students-activity-7513991219446726656-Wghi",
+    "https://www.enable-3d.com/pages/partners",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "ACAM Aachen Center for Additive Manufacturing GmbH founded funding employees revenue",
+   "results": [
+    "https://de.linkedin.com/company/acam-aachen-center-for-additive-manufacturing",
+    "https://acam.rwth-campus.com/",
+    "https://amgta.org/amgta-member-spotlight-gerret-lukas-of-acam-aachen-center-for-additive-manufacturing/",
+    "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "https://nachrichten.idw-online.de/2015/10/01/acam-aachen-center-for-additive-manufacturing",
+    "https://dealroom.co/lists/additive-manufacturing-startups/",
+    "https://www.csis.org/analysis/achieving-additive-manufacturing-breakthrough",
+    "https://dap-aachen.de/en/advanced-training",
+    "https://www.grandviewresearch.com/industry-analysis/additive-manufacturing-equipment-market-report",
+    "https://rocketreach.co/acam-aachen-center-for-additive-manufacturing-gmbh-profile_b44b2f3ffd068045"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com ACAM Aachen Center for Additive Manufacturing GmbH",
+   "results": [
+    "https://note.com/wildriverpeace",
+    "https://note.com/swash_1217/n/n43a95e97ecbc",
+    "https://note.com/beloved_tomoka/n/nc8b0ea28f73b",
+    "https://note.com/glad_tulip351/n/n709ba44781ff",
+    "https://note.com/planetofgori/n/ne61adc04d30b",
+    "https://note.com/watarutida/n/n75017e960add",
+    "https://note.com/yutsuki358/n/nb6532113a898"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com ACAM Aachen Center for Additive Manufacturing GmbH",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com ACAM Aachen Center for Additive Manufacturing GmbH",
+   "results": [
+    "https://de.linkedin.com/company/acam-aachen-center-for-additive-manufacturing",
+    "https://www.linkedin.com/posts/acam-aachen-center-for-additive-manufacturing_additivemanufacturing-amcommunity-3dprinting-activity-7428071674807418880-Grg0",
+    "https://www.linkedin.com/posts/johannes-henrich-schleifenbaum-162268209_ready-to-make-am-accessible-for-all-students-activity-7513991219446726656-Wghi",
+    "https://www.linkedin.com/posts/dap-rwth-aachen_%F0%9D%97%A6%F0%9D%97%BD%F0%9D%97%AE%F0%9D%97%B0%F0%9D%97%B2%F0%9D%97%94%F0%9D%97%A0-%F0%9D%97%A3%F0%9D%97%BF%F0%9D%97%BC%F0%9D%97%B7%F0%9D%97%B2%F0%9D%97%B0%F0%9D%98%81-%F0%9D%97%A6%F0%9D%98%82%F0%9D%97%B0%F0%9D%97%B0%F0%9D%97%B2%F0%9D%98%80%F0%9D%98%80%F0%9D%97%B3%F0%9D%98%82%F0%9D%97%B9%F0%9D%97%B9%F0%9D%98%86-activity-7486329610125783040-smIr",
+    "https://sg.linkedin.com/company/addup?trk=similar-pages_result-card_full-click",
+    "https://www.linkedin.com/posts/daniele-vanerio_extending-artificial-intelligence-assisted-activity-7451556084126732288-NoPv",
+    "https://www.linkedin.com/company/additivelabtsilv",
+    "https://www.linkedin.com/posts/dap-rwth-aachen_family-activity-7394328186366435329-EFtR",
+    "https://de.linkedin.com/school/dap-rwth-aachen/",
+    "https://www.linkedin.com/posts/dap-rwth-aachen_the-dap-at-icam-prof-schleifenbaum-on-the-activity-7376597999491235840-LKyd"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:facebook.com ACAM Aachen Center for Additive Manufacturing GmbH",
+   "results": [
+    "https://www.facebook.com/formnext/posts/formnext-2026-more-than-an-expoa-comprehensive-supporting-program-allows-visitor/1572360594919092/",
+    "https://www.facebook.com/formnext/",
+    "https://www.facebook.com/Aconity3D/",
+    "https://www.facebook.com/OMD3D/photos/d41d8cd9/557612116371463/",
+    "https://www.facebook.com/ACAM-Aachen-Center-for-Additive-Manufacturing-GmbH-222358674817989/",
+    "https://www.facebook.com/Rapid.Tech3Dcom/videos/acam-aachen-center-for-additive-manufacturing-gmbhrapidtechmesse-erfurt-2018hot-/1965960913416669/",
+    "https://www.facebook.com/formnext/videos/discover3dprinting/547689315562925/",
+    "https://www.facebook.com/DepcoEnterprises/posts/acam-aachen-center-for-additive-manufacturing-gmbh/544370829567730/",
+    "https://www.facebook.com/SPEE3Dofficial/photos/attending-formnext2025-next-week-meet-our-emea-director-of-business-development-/1443869064408958/",
+    "https://www.facebook.com/metaalmagazine/posts/acam-aachen-center-for-additive-manufacturinggebündeltes-know-how-am-rwth-aachen/851705321592666/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "ACAM Aachen Center for Additive Manufacturing GmbH note 社長",
+   "results": [
+    "https://acam.rwth-campus.com/",
+    "https://de.linkedin.com/company/acam-aachen-center-for-additive-manufacturing",
+    "https://www.dyndrite.com/dyndrite-acam",
+    "https://amgta.org/amgta-member-spotlight-gerret-lukas-of-acam-aachen-center-for-additive-manufacturing/",
+    "https://toffeex.com/news/toffeex-joins-acam-to-advance-physics-driven-design-for-additive-manufacturing/",
+    "https://acam.digital/",
+    "https://dap-aachen.de/en/advanced-training",
+    "https://www.youtube.com/watch?v=obAtfRtA7yk",
+    "https://nachrichten.idw-online.de/2015/10/01/acam-aachen-center-for-additive-manufacturing",
+    "https://firmendata.com/en/company/aachen/HRB19782/acam-aachen-center-for-additive-manufacturing-gmbh"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "ACAM Aachen Center for Additive Manufacturing GmbH X 投稿",
+   "results": [
+    "https://acam.rwth-campus.com/",
+    "https://de.linkedin.com/company/acam-aachen-center-for-additive-manufacturing",
+    "https://toffeex.com/news/toffeex-joins-acam-to-advance-physics-driven-design-for-additive-manufacturing/",
+    "https://www.voxelmatters.directory/company/acam-aachen-center-additive-manufacturing-gmbh/",
+    "https://acam.digital/",
+    "https://dap-aachen.de/en/advanced-training",
+    "https://www.youtube.com/watch?v=obAtfRtA7yk",
+    "https://www.metal-am.com/aachen-centre-for-additive-manufacturing-opens-for-business/",
+    "https://www.instagram.com/acamaachen/",
+    "https://www.xing.com/pages/acamaachencenterforadditivemanufacturinggmbh/about_us"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "採用・広告の製品": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）"
+ }
+}

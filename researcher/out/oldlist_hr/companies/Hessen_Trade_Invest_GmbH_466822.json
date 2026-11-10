@@ -1,0 +1,971 @@
+{
+ "name": "Hessen Trade & Invest GmbH",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜FORMNEXT案件",
+ "researched_at": "2026-11-10T21:57:36.827552+00:00",
+ "official_url": "https://www.htai.de",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "Address",
+    "value": "Mainzer Straße 118 Wiesbaden, Landeshauptstadt 65189 Germany",
+    "url": "https://een.ec.europa.eu/local-contact-points/de/hessen-trade-invest-gmbh",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "label": "Email",
+    "value": "een@htai.de",
+    "url": "https://een.ec.europa.eu/local-contact-points/de/hessen-trade-invest-gmbh",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Hessisches Auslandsmesseprogramm",
+    "url": "https://www.htai.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Zudem finden auf internationalen Messen oder Kongressen Kooperationsbörsen des Enterprise Europe Network Hessen (EEN) Hessen statt – auch online, meistens an ein bis zwei Tagen. Dabei treffen die Teilnehmenden in vorab arrangierten Gesprächen potenzielle Geschäfts- und Technologiepartner, um mögliche Kooperationen zu besprechen.",
+    "url": "https://www.htai.de/",
+    "pass": 1
+   },
+   {
+    "quote": "In Hessen entstehen Ideen mit Zukunft. Damit daraus nachhaltiges Wachstum wird, braucht es Innovation, starke Netzwerke, passende Fördermöglichkeiten und internationale Perspektiven. Der StartHub Hessen und das Enterprise Europe Network (EEN) Hessen begleiten Gründerinnen und Gründer, Start-ups, Scale-ups sowie kleine und mittlere Unternehmen auf ihrem Weg.",
+    "url": "https://www.htai.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Wer global erfolgreich sein will, braucht einen stabilen, weltoffenen Standort für sein Unternehmen. Hessen ist einer der attraktivsten Standorte für heimische und internationale Unternehmen und Investoren. Die HTAI übernimmt die wichtige Aufgabe, diese starke Wirtschaftsregion innerhalb Deutschlands zu repräsentieren und weltweit ins rechte Licht zu setzen. Wir beraten Investoren.",
+    "url": "https://www.htai.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Das Enterprise Europe Network (EEN) Hessen bietet Unternehmen kompetente Hilfestellung beim Aufbau und der Ausweitung von Geschäftsbeziehungen ins Ausland.",
+    "url": "https://www.htai.de/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Wir als mittelständisches Unternehmen müssen auf Schwankungen und Trends im Markt optimal reagieren können. Gemeinsam mit Hessen Trade & Invest haben wir eine Veranstaltung zum Thema Bionik und 3D-Druck bei uns im Haus organisiert, die wir für spannende und konstruktive Gespräche nutzen konnten.\"",
+    "url": "https://www.htai.de/",
+    "pass": 1
+   },
+   {
+    "quote": "General Manager Sales & Marketing, Dexerials Europe B.V., Frankfurt",
+    "url": "https://www.htai.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Fachgebiet Produktionsorganisation und Fabrikplanung",
+    "url": "https://www.htai.de/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Uns ist es wichtig, das Thema Digitalisierung in der Produktions- und Logistikplanung nicht nur in der Universität zu reflektieren und zu diskutieren. Hessen Trade & Invest hat uns bei mehreren erfolgreichen Veranstaltungen über Digitalisierung und Simulation unterstützt.\"",
+    "url": "https://www.htai.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Prof. Dr.-Ing. Sigrid Wenzel",
+    "url": "https://www.htai.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Fachgebietsleiterin, Universität Kassel, Fachgebiet Produktionsorganisation und Fabrikplanung",
+    "url": "https://www.htai.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Maßgeschneiderte Programme für hessische Unternehmen",
+    "url": "https://www.htai.de/aussenwirtschaft/company-missions/",
+    "pass": 1
+   },
+   {
+    "quote": "Das Programm einer Company Mission kann z. B. enthalten:",
+    "url": "https://www.htai.de/aussenwirtschaft/company-missions/",
+    "pass": 1
+   },
+   {
+    "quote": "Individuelle B2B-Gespräche und gezielte Vermittlung von passenden Geschäftspartnern und Branchenexperten",
+    "url": "https://www.htai.de/aussenwirtschaft/company-missions/",
+    "pass": 1
+   },
+   {
+    "quote": "Professionelle Planung und Durchführung durch unser Team",
+    "url": "https://www.htai.de/aussenwirtschaft/company-missions/",
+    "pass": 1
+   },
+   {
+    "quote": "Projektleitung Energieeffizienz für Unternehmen",
+    "url": "https://www.htai.de/ansprechpartner/",
+    "pass": 1
+   },
+   {
+    "quote": "Projektmanager Breitbandbüro Hessen",
+    "url": "https://www.htai.de/ansprechpartner/",
+    "pass": 1
+   },
+   {
+    "quote": "Projektmanagerin Fachzentrum Nachhaltige Mobilitätsplanung Hessen",
+    "url": "https://www.htai.de/ansprechpartner/",
+    "pass": 1
+   },
+   {
+    "quote": "Projektmanagerin StartHub Hessen",
+    "url": "https://www.htai.de/ansprechpartner/",
+    "pass": 1
+   },
+   {
+    "quote": "Projektmanagerin Breitbandbüro Hessen",
+    "url": "https://www.htai.de/ansprechpartner/",
+    "pass": 1
+   },
+   {
+    "quote": "Projektmanagerin Digitale Transformation",
+    "url": "https://www.htai.de/ansprechpartner/",
+    "pass": 1
+   },
+   {
+    "quote": "Kaufmännische Projektassistenz",
+    "url": "https://www.htai.de/ansprechpartner/",
+    "pass": 1
+   },
+   {
+    "quote": "Projektleitung WirtschaftsWandel Hessen",
+    "url": "https://www.htai.de/ansprechpartner/",
+    "pass": 1
+   },
+   {
+    "quote": "Berater EU-Förderprogramme, Innovation, Nachhaltigkeit",
+    "url": "https://www.htai.de/ansprechpartner/",
+    "pass": 1
+   },
+   {
+    "quote": "Projektmanager Digitale Transformation",
+    "url": "https://www.htai.de/ansprechpartner/",
+    "pass": 1
+   },
+   {
+    "quote": "Projektleitung Landesstelle Wasserstoff",
+    "url": "https://www.htai.de/ansprechpartner/",
+    "pass": 1
+   },
+   {
+    "quote": "Projektmanagerin Automatisierung & Produktionstechnik",
+    "url": "https://www.htai.de/ansprechpartner/",
+    "pass": 1
+   },
+   {
+    "quote": "Projektmanager WirtschaftsWandel Hessen",
+    "url": "https://www.htai.de/ansprechpartner/",
+    "pass": 1
+   },
+   {
+    "quote": "Projektmanager Location Marketing & Investoren Services",
+    "url": "https://www.htai.de/ansprechpartner/",
+    "pass": 1
+   },
+   {
+    "quote": "Projektmanagerin Unternehmenskommunikation & Social Media",
+    "url": "https://www.htai.de/ansprechpartner/",
+    "pass": 1
+   },
+   {
+    "quote": "Projekt- und Kommunikationsmanagerin",
+    "url": "https://www.htai.de/ansprechpartner/",
+    "pass": 1
+   },
+   {
+    "quote": "Projektmanager Fachzentrum Nachhaltige Mobilitätsplanung Hessen",
+    "url": "https://www.htai.de/ansprechpartner/",
+    "pass": 1
+   },
+   {
+    "quote": "Projektmanagerin Presse",
+    "url": "https://www.htai.de/ansprechpartner/",
+    "pass": 1
+   },
+   {
+    "quote": "Projektmanagerin CO2-Strategie",
+    "url": "https://www.htai.de/ansprechpartner/",
+    "pass": 1
+   },
+   {
+    "quote": "Beraterin EU-Förderprogramme, Innovation",
+    "url": "https://www.htai.de/ansprechpartner/",
+    "pass": 1
+   },
+   {
+    "quote": "Projektleitung Automatisierung & Produktionstechnik",
+    "url": "https://www.htai.de/ansprechpartner/",
+    "pass": 1
+   },
+   {
+    "quote": "Projektmanagerin Nachhaltige Kraftstoffe",
+    "url": "https://www.htai.de/ansprechpartner/",
+    "pass": 1
+   },
+   {
+    "quote": "Projektmanagerin Strategische Projekte",
+    "url": "https://www.htai.de/ansprechpartner/",
+    "pass": 1
+   },
+   {
+    "quote": "Projektmanagerin WirtschaftsWandel Hessen",
+    "url": "https://www.htai.de/ansprechpartner/",
+    "pass": 1
+   },
+   {
+    "quote": "Projektmanager Außenwirtschaft",
+    "url": "https://www.htai.de/ansprechpartner/",
+    "pass": 1
+   },
+   {
+    "quote": "stehen innovative Technologien, Produkte und Lösungen für die Gesundheitsversorgung der Zukunft. Das Themenspektrum reicht von",
+    "url": "https://www.htai.de/aussenwirtschaft/company-missions/company-mission-whx-osaka/",
+    "pass": 1
+   },
+   {
+    "quote": "Medizintechnik, medizinischer Diagnostik und digitalen Gesundheitsanwendungen über Künstliche Intelligenz (KI) im Gesundheitswesen, Robotik und vernetzte Medizinsysteme bis hin zu Krankenhausausstattung, Prävention und innovativen Versorgungskonzepten",
+    "url": "https://www.htai.de/aussenwirtschaft/company-missions/company-mission-whx-osaka/",
+    "pass": 1
+   },
+   {
+    "quote": "Nähere Informationen zur Company Mission inklusive Programm folgen in Kürze.",
+    "url": "https://www.htai.de/aussenwirtschaft/company-missions/company-mission-whx-osaka/",
+    "pass": 1
+   },
+   {
+    "quote": "EUR 500 pro Person zzgl. USt.",
+    "url": "https://www.htai.de/aussenwirtschaft/company-missions/company-mission-whx-osaka/",
+    "pass": 1
+   },
+   {
+    "quote": "Hessische Unternehmen sind berechtigt, mit maximal zwei Personen an der Company Mission teilzunehmen. Die Kosten für Flug, Hotel und Verpflegung außerhalb des Programms müssen von den Teilnehmenden selbst getragen werden.",
+    "url": "https://www.htai.de/aussenwirtschaft/company-missions/company-mission-whx-osaka/",
+    "pass": 1
+   },
+   {
+    "quote": "Projektmanagerin für Außenwirtschaft und Messen",
+    "url": "https://www.htai.de/aussenwirtschaft/company-missions/company-mission-whx-osaka/",
+    "pass": 1
+   },
+   {
+    "quote": "HESSEN TRADE & INVEST GMBH | Enterprise Europe Network",
+    "url": "https://een.ec.europa.eu/local-contact-points/de/hessen-trade-invest-gmbh",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise Europe Network",
+    "url": "https://een.ec.europa.eu/local-contact-points/de/hessen-trade-invest-gmbh",
+    "pass": 3
+   },
+   {
+    "quote": "Follow the European Commission on social media",
+    "url": "https://een.ec.europa.eu/local-contact-points/de/hessen-trade-invest-gmbh",
+    "pass": 3
+   },
+   {
+    "quote": "To enjoy our content, please include The Japan Times on your ad-blocker's list of approved sites.",
+    "url": "https://www.japantimes.co.jp/country-report/2026/10/28/germany-report-2026/changing-investment-landscape-plays-hessens-strengths/",
+    "pass": 3
+   },
+   {
+    "quote": "More than 250 Japanese companies already operate in Hessen, and the agency reports a 96% retention rate. Its support extends beyond market entry to include expansion, recruitment, site searches and connections to institutions, suppliers and other partners as business needs develop.",
+    "url": "https://www.japantimes.co.jp/country-report/2026/10/28/germany-report-2026/changing-investment-landscape-plays-hessens-strengths/",
+    "pass": 3
+   },
+   {
+    "quote": "“What we often hear is that Hessen’s accessibility and international character are expected, but the density of business networks and the practical support available locally can exceed expectations,” Damrau said.",
+    "url": "https://www.japantimes.co.jp/country-report/2026/10/28/germany-report-2026/changing-investment-landscape-plays-hessens-strengths/",
+    "pass": 3
+   },
+   {
+    "quote": "The 165th anniversary of Germany-Japan relations, dating back to the 1861 treaty between Japan and Prussia, adds another dimension to Hessen’s efforts to deepen cooperation in innovation, sustainable industry and future technologies.",
+    "url": "https://www.japantimes.co.jp/country-report/2026/10/28/germany-report-2026/changing-investment-landscape-plays-hessens-strengths/",
+    "pass": 3
+   },
+   {
+    "quote": "Frankfurt’s international connectivity, Hessen’s research and industrial networks and an established Japanese business community provide a strong platform for companies entering or expanding in Germany. Hessen is positioning these strengths around a long-term proposition: supporting businesses as they establish operations, expand and adapt to new opportunities.",
+    "url": "https://www.japantimes.co.jp/country-report/2026/10/28/germany-report-2026/changing-investment-landscape-plays-hessens-strengths/",
+    "pass": 3
+   },
+   {
+    "quote": "Regulation of the activities of providing health care, education, cultural services and other social services, excluding social security",
+    "url": "https://app.implisense.com/en/companies/hessen-trade-invest-gmbh-wiesbaden--DE29112C0Q66",
+    "pass": 3
+   },
+   {
+    "quote": "Medium-sized enterprise",
+    "url": "https://app.implisense.com/en/companies/hessen-trade-invest-gmbh-wiesbaden--DE29112C0Q66",
+    "pass": 3
+   },
+   {
+    "quote": "Available in the full profile",
+    "url": "https://app.implisense.com/en/companies/hessen-trade-invest-gmbh-wiesbaden--DE29112C0Q66",
+    "pass": 3
+   },
+   {
+    "quote": "In this company's full profile: email address, multi-year financial figures, VAT ID, representation rules, and 2 more. A free account opens 20 full profiles to start with and 5 every month.",
+    "url": "https://app.implisense.com/en/companies/hessen-trade-invest-gmbh-wiesbaden--DE29112C0Q66",
+    "pass": 3
+   },
+   {
+    "quote": "Stability assessment in the full profile",
+    "url": "https://app.implisense.com/en/companies/hessen-trade-invest-gmbh-wiesbaden--DE29112C0Q66",
+    "pass": 3
+   },
+   {
+    "quote": "Financial figures, signals and the complete history are in the full profile.",
+    "url": "https://app.implisense.com/en/companies/hessen-trade-invest-gmbh-wiesbaden--DE29112C0Q66",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Zudem finden auf internationalen Messen oder Kongressen Kooperationsbörsen des Enterprise Europe Network Hessen (EEN) Hessen statt – auch online, meistens an ein bis zwei Tagen. Dabei treffen die Teilnehmenden in vorab arrangierten Gesprächen potenzielle Geschäfts- und Technologiepartner, um mögliche Kooperationen zu besprechen.",
+    "url": "https://www.htai.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Hessen is gaining renewed attention from Japanese investors as regulatory certainty, talent and innovation carry greater weight in European expansion decisions.",
+    "url": "https://www.japantimes.co.jp/country-report/2026/10/28/germany-report-2026/changing-investment-landscape-plays-hessens-strengths/",
+    "pass": 3
+   },
+   {
+    "quote": "Recent meetings in Tokyo with the Japan External Trade Organization, AHK Japan and Toshiba formed part of a business delegation to Japan and China that saw Hessen Trade & Invest engage with about 110 companies across both markets.",
+    "url": "https://www.japantimes.co.jp/country-report/2026/10/28/germany-report-2026/changing-investment-landscape-plays-hessens-strengths/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue, result, equity and the multi-year history are in the full profile.",
+    "url": "https://app.implisense.com/en/companies/hessen-trade-invest-gmbh-wiesbaden--DE29112C0Q66",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue, result and equity across every available year",
+    "url": "https://app.implisense.com/en/companies/hessen-trade-invest-gmbh-wiesbaden--DE29112C0Q66",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Company Mission Industrial Transformation Africa",
+    "url": "https://www.htai.de/aussenwirtschaft/company-missions/",
+    "pass": 1
+   },
+   {
+    "quote": "The state economic development agency is seeing continued interest in Hessen’s established strengths, including mobility, information and communications technology, life sciences and financial services. At the same time, discussions are increasingly focused on artificial intelligence and digital infrastructure, advanced manufacturing, energy technologies and decarbonization.",
+    "url": "https://www.japantimes.co.jp/country-report/2026/10/28/germany-report-2026/changing-investment-landscape-plays-hessens-strengths/",
+    "pass": 3
+   },
+   {
+    "quote": "“Japanese companies are looking for locations where technology, industrial partners, research institutions and access to European markets come together,” Damrau said.",
+    "url": "https://www.japantimes.co.jp/country-report/2026/10/28/germany-report-2026/changing-investment-landscape-plays-hessens-strengths/",
+    "pass": 3
+   },
+   {
+    "quote": "Frankfurt’s international connectivity, Hessen’s research and industrial networks and an established Japanese business community provide a strong platform for companies entering or expanding in Germany. Hessen is positioning these strengths around a long-term proposition: supporting businesses as they establish operations, expand and adapt to new opportunities.",
+    "url": "https://www.japantimes.co.jp/country-report/2026/10/28/germany-report-2026/changing-investment-landscape-plays-hessens-strengths/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Company Mission WHX Osaka",
+    "url": "https://www.htai.de/aussenwirtschaft/company-missions/",
+    "pass": 1
+   },
+   {
+    "quote": "Company Mission WHX Osaka / HTAI",
+    "url": "https://www.htai.de/aussenwirtschaft/company-missions/company-mission-whx-osaka/",
+    "pass": 1
+   },
+   {
+    "quote": "WHX Osaka (World Health Expo) 2027",
+    "url": "https://www.htai.de/aussenwirtschaft/company-missions/company-mission-whx-osaka/",
+    "pass": 1
+   },
+   {
+    "quote": "WHX Osaka 2027 (World Health Expo)",
+    "url": "https://www.htai.de/aussenwirtschaft/company-missions/company-mission-whx-osaka/",
+    "pass": 1
+   },
+   {
+    "quote": "WHX Osaka 2027",
+    "url": "https://www.htai.de/aussenwirtschaft/company-missions/company-mission-whx-osaka/",
+    "pass": 1
+   },
+   {
+    "quote": "und laden hessische Unternehmen ein, gemeinsam mit uns die Messe zu besuchen und den japanischen Gesundheitsmarkt sowie das Innovationsökosystem vor Ort kennenzulernen.",
+    "url": "https://www.htai.de/aussenwirtschaft/company-missions/company-mission-whx-osaka/",
+    "pass": 1
+   },
+   {
+    "quote": "Changing investment landscape plays to Hessen’s strengths | The Japan Times",
+    "url": "https://www.japantimes.co.jp/country-report/2026/10/28/germany-report-2026/changing-investment-landscape-plays-hessens-strengths/",
+    "pass": 3
+   },
+   {
+    "quote": "To enjoy our content, please include The Japan Times on your ad-blocker's list of approved sites.",
+    "url": "https://www.japantimes.co.jp/country-report/2026/10/28/germany-report-2026/changing-investment-landscape-plays-hessens-strengths/",
+    "pass": 3
+   },
+   {
+    "quote": "Hessen is gaining renewed attention from Japanese investors as regulatory certainty, talent and innovation carry greater weight in European expansion decisions.",
+    "url": "https://www.japantimes.co.jp/country-report/2026/10/28/germany-report-2026/changing-investment-landscape-plays-hessens-strengths/",
+    "pass": 3
+   },
+   {
+    "quote": "Recent meetings in Tokyo with the Japan External Trade Organization, AHK Japan and Toshiba formed part of a business delegation to Japan and China that saw Hessen Trade & Invest engage with about 110 companies across both markets.",
+    "url": "https://www.japantimes.co.jp/country-report/2026/10/28/germany-report-2026/changing-investment-landscape-plays-hessens-strengths/",
+    "pass": 3
+   },
+   {
+    "quote": "“Japanese companies are looking for locations where technology, industrial partners, research institutions and access to European markets come together,” Damrau said.",
+    "url": "https://www.japantimes.co.jp/country-report/2026/10/28/germany-report-2026/changing-investment-landscape-plays-hessens-strengths/",
+    "pass": 3
+   },
+   {
+    "quote": "More than 250 Japanese companies already operate in Hessen, and the agency reports a 96% retention rate. Its support extends beyond market entry to include expansion, recruitment, site searches and connections to institutions, suppliers and other partners as business needs develop.",
+    "url": "https://www.japantimes.co.jp/country-report/2026/10/28/germany-report-2026/changing-investment-landscape-plays-hessens-strengths/",
+    "pass": 3
+   },
+   {
+    "quote": "The 165th anniversary of Germany-Japan relations, dating back to the 1861 treaty between Japan and Prussia, adds another dimension to Hessen’s efforts to deepen cooperation in innovation, sustainable industry and future technologies.",
+    "url": "https://www.japantimes.co.jp/country-report/2026/10/28/germany-report-2026/changing-investment-landscape-plays-hessens-strengths/",
+    "pass": 3
+   },
+   {
+    "quote": "“Our message is that Japanese companies are not just investors in Hessen; they are long-term partners in the region’s successful economic development,” Damrau said.",
+    "url": "https://www.japantimes.co.jp/country-report/2026/10/28/germany-report-2026/changing-investment-landscape-plays-hessens-strengths/",
+    "pass": 3
+   },
+   {
+    "quote": "Frankfurt’s international connectivity, Hessen’s research and industrial networks and an established Japanese business community provide a strong platform for companies entering or expanding in Germany. Hessen is positioning these strengths around a long-term proposition: supporting businesses as they establish operations, expand and adapt to new opportunities.",
+    "url": "https://www.japantimes.co.jp/country-report/2026/10/28/germany-report-2026/changing-investment-landscape-plays-hessens-strengths/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Hessen Trade & Invest GmbH - LinkedIn — Hessen Trade & Invest GmbH - LinkedIn LinkedIn https://de.linkedin.com > company",
+    "url": "https://de.linkedin.com/company/hessen-trade-&-invest-gmbh",
+    "pass": 3
+   },
+   {
+    "quote": "Hessen Trade & Invest GmbH — Hessen Trade & Invest GmbH Hessen Trade & Invest GmbH (HTAI) https://www.htai.de",
+    "url": "https://www.htai.de/",
+    "pass": 3
+   },
+   {
+    "quote": "HESSEN TRADE & INVEST GMBH - Enterprise Europe Network — HESSEN TRADE & INVEST GMBH - Enterprise Europe Network Enterprise Europe Network https://een.ec.europa.eu > hessen-trad...",
+    "url": "https://een.ec.europa.eu/local-contact-points/de/hessen-trade-invest-gmbh",
+    "pass": 3
+   },
+   {
+    "quote": "Hessen Trade & Invest GmbH | Wiesbaden - Facebook — Hessen Trade & Invest GmbH | Wiesbaden - Facebook Facebook https://www.facebook.com > hessentradeinvest",
+    "url": "https://www.facebook.com/hessentradeinvest/",
+    "pass": 3
+   },
+   {
+    "quote": "Hessen Trade & Invest GmbH | Implisense — The key figures on balance sheet total, revenue, profit and number of employees were generated by a fully automatic extraction from published annual financial statements. The summarized balance sheet helps to check the economic situation of important customers, suppliers and competitors.",
+    "url": "https://implisense.com/en/companies/hessen-trade-invest-gmbh-wiesbaden-DE29112C0Q66",
+    "pass": 3
+   },
+   {
+    "quote": "Hessen Trade & Invest - 2025 Company Profile & Team - TracxnHessen Trade & Invest GmbH - Overview, Competitors, And ...Hessen Trade & Invest GmbH - Crunchbase Company Profile & FundingHessen Trade & Invest - Crunchbase Company Profile & FundingHessen Trade and Invest GmbH: Revenue, Competitors, Alternatives — Jun 26, 2025 · Hessen Trade & Invest - About the company Hessen Trade & Invest is a funde",
+    "url": "https://tracxn.com/d/companies/hessen-trade-invest/__WsOlFHD8NzKRdy9vvZcFAstqZVY5sBOdFvcY6ywcdjk",
+    "pass": 3
+   },
+   {
+    "quote": "Hessen Trade & Invest GmbH - Overview, Competitors, And ... — Together with representatives from industry, science and government, we work as a catalyst to develop Hessen further and make it permanently competitive for the future.",
+    "url": "https://www.ampliz.com/company/hessen-trade-invest-gmbh/90288847",
+    "pass": 3
+   },
+   {
+    "quote": "Hessen Trade & Invest GmbH - Crunchbase Company Profile & FundingHessen Trade & Invest - Crunchbase Company Profile & FundingHessen Trade and Invest GmbH: Revenue, Competitors, Alternatives — Hessen Trade & Invest GmbH is a government administration that focuses on developing Hessen as a business and technology location in order to consolidate and expand its competitiveness. Hessen Trade & Invest ",
+    "url": "https://www.crunchbase.com/organization/hessen-trade-invest-gmbh",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "In this company's full profile: email address, multi-year financial figures, VAT ID, representation rules, and 2 more. A free account opens 20 full profiles to start with and 5 every month.",
+    "url": "https://app.implisense.com/en/companies/hessen-trade-invest-gmbh-wiesbaden--DE29112C0Q66",
+    "pass": 3
+   },
+   {
+    "quote": "AI-powered research for publicly available contacts: name, role, phone, email, LinkedIn.",
+    "url": "https://app.implisense.com/en/companies/hessen-trade-invest-gmbh-wiesbaden--DE29112C0Q66",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Invest in Hessen (@investinhessen) / Posts / X Mar 13, 2017 · Gemeinsam mit Wirtschaftskonsul Bhupendra Singh Nikhurpa traf sich die neue Generalkonsulin Shuchita Kishore mit Dr. Rainer Waldschmidt, Geschäftsführer der Hessen Trade & Invest GmbH (HTAI), und Dr. David Eckensberger, Abteilungsleiter Int. Angelegenheiten in Wiesbaden. 🇩🇪🤝🇮🇳",
+    "url": "https://x.com/investinhessen",
+    "pass": 3
+   },
+   {
+    "quote": "Frankfurt RheinMain (@FRM_GmbH) / Posts / X Jun 15, 2012 · The new representative of #Hessen in the USA is called Julius Bosak. 🇺🇸 🇩🇪 The #USA representation in #Chicago is a project of Hessen Trade & Invest GmbH & @FRM_GmbH.",
+    "url": "https://x.com/FRM_GmbH",
+    "pass": 3
+   },
+   {
+    "quote": "Invest in Hessen (@investinhessen) / Posts / X Mar 13, 2017 · Nagihan İlknur Akdevelioğlu, Consul General of Türkiye, visited Hessen Trade & Invest GmbH in #Wiesbaden. 📍😀 With our CEO Dr. Rainer Waldschmidt, the Consul General spoke about expanding economic cooperation between #Türkiye & #Hessen. ⬇️",
+    "url": "https://x.com/investinhessen",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Hessen Trade & Invest GmbH - LinkedIn Unsere Aufgabe ist es, den Wirtschafts- und Technologiestandort Hessen nachhaltig weiterzuentwickeln, um seine Wettbewerbsfähigkeit zu festigen und auszubauen.",
+    "url": "https://www.linkedin.com/company/hessen-trade-&-invest-gmbh/",
+    "pass": 3
+   },
+   {
+    "quote": "Hessische Auslandsmesseprogramm 2027 | Hessen Trade & Invest GmbH Sprechen Sie uns an: Heike Müller-Sedlaczek, Vincent N., Stephanie Sauer, Nicole Wawer Wir freuen uns auf Sie – gemeinsam bringen wir hessische Unternehmen voran! Wirtschaftsministerium Hessen,...",
+    "url": "https://de.linkedin.com/posts/hessen-trade-&-invest-gmbh_hessische-auslandsmesseprogramm-2027-activity-7500896225404076032-ptMA",
+    "pass": 3
+   },
+   {
+    "quote": "Hessen Trade & Invest GmbH - LinkedIn Mit Frankfurt als einem treibenden Zentrum möchte ich dafür sorgen, dass Hessen auch künftig als führende Region für Wirtschaft, Technologie und Lebensqualität wahrgenommen wird.“",
+    "url": "https://www.linkedin.com/posts/hessen-trade-&-invest-gmbh_activity-7333487792519315457-IVVp",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Hessen Trade & Invest GmbH | Wiesbaden - FacebookJetzt für die Company... - Hessen Trade & Invest GmbH ...Company Mission EUROSATORY... - Hessen Trade & Invest GmbH ...BIG 5 Global 23. bis 26.... - Hessen Trade & Invest GmbH ...Erfolgreich die Region... - Hessen Trade & Invest GmbH ...Das Enterprise Europe Network... - Hessen Trade & Invest GmbH ...️ Jetzt anmelden! ⬅️ ... - Hessen Trade & Invest ",
+    "url": "https://www.facebook.com/hessentradeinvest/",
+    "pass": 3
+   },
+   {
+    "quote": "Jetzt für die Company... - Hessen Trade & Invest GmbH ... May 21, 2026 · Hessen ist mehr als ein Standort – es ist ein Ideenraum für Meetings, Tagungen und Events mit Wirkung. 🤩 Zentral gelegen, exzellent erreichbar und voller Kontraste bietet Hessen perfekte Bedingungen für Veranstaltungen, die in Erinnerung bleiben. 🥰 Sie wollen einen positiven Beitrag für die weitere Entwicklung dieses Standort",
+    "url": "https://www.facebook.com/hessentradeinvest/posts/-jetzt-für-die-company-mission-saudi-arabien-anmelden-15-bis-17-november-2026️-s/1310530267851647/",
+    "pass": 3
+   },
+   {
+    "quote": "Company Mission EUROSATORY... - Hessen Trade & Invest GmbH ... Mar 11, 2026 · Auch die Bundesebene war mit Germany Trade & Invest (GTAI) eingebunden. Unser Geschäftsführer Dr. Rainer Waldschmidt begleitete beide Veranstaltungen und eröffnete die Jahreskonferenz mit einer klaren Botschaft: „Eine Ansiedlung entscheidet sich nicht am Schreibtisch einer einzelnen Stelle, sondern im Zusammenspiel aller",
+    "url": "https://www.facebook.com/hessentradeinvest/posts/-company-mission-eurosatory-16-bis-18-juni-2026️-fachmesse-für-land-und-luftvert/1251826773721997/",
+    "pass": 3
+   },
+   {
+    "quote": "BIG 5 Global 23. bis 26.... - Hessen Trade & Invest GmbH ... Mar 18, 2026 · Mit \"Hessen-Champions\" zeichnet das Wirtschaftsministerium Hessen Unternehmen aus, die mit Innovationskraft, Mut und Verantwortung vorangehen. Dazu gehören unter anderem: 📌 Unternehmen, die mit neuen Ideen überzeugen 🚀 📌 Betriebe, die als Weltmarktführer Maßstäbe setzen 🌍 📌 Arbeitgeber, die Wachstum schaffen und Jobs siche",
+    "url": "https://www.facebook.com/hessentradeinvest/posts/-big-5-global-23-bis-26-november-2026️-bauwirtschaft️-hessischer-gemeinschaftsst/1257354786502529/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.htai.de/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.htai.de/aussenwirtschaft/company-missions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.htai.de/ansprechpartner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.htai.de/aussenwirtschaft/company-missions/company-mission-whx-osaka/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.invest-in-hessen.de/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://de.linkedin.com/company/hessen-trade-&-invest-gmbh",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.invest-in-hessen.de/info-service/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.invest-in-hessen.de/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://een.ec.europa.eu/local-contact-points/de/hessen-trade-invest-gmbh",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://de.linkedin.com/company/hessen-trade-&-invest-gmbh",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.invest-in-hessen.de/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japantimes.co.jp/country-report/2026/10/28/germany-report-2026/changing-investment-landscape-plays-hessens-strengths/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://de.linkedin.com/company/hessen-trade-&-invest-gmbh",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://sms-bridges.com/hessen-the-right-place-to-invest-in-europe/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.invest-in-hessen.de/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vIgnYoKMa320qfD_XrQn1IRQ5xgxx3ElWlyfokXBkKKtomhRuVI",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hpe.com/us/en/customer-case-studies.html",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gtai.de/en/invest/business-location-germany/federal-states/hessen",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.facebook.com/resellermx/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.upcounsel.com/reseller-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/hessen-trade-and-invest-gmbh",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://app.implisense.com/en/companies/hessen-trade-invest-gmbh-wiesbaden--DE29112C0Q66",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/hessen-trade-invest/__WsOlFHD8NzKRdy9vvZcFAstqZVY5sBOdFvcY6ywcdjk",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ampliz.com/company/hessen-trade-invest-gmbh/90288847/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/investinhessen",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/FRM_GmbH",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/hessen-trade-&-invest-gmbh/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/posts/hessen-trade-&-invest-gmbh_hessische-auslandsmesseprogramm-2027-activity-7500896225404076032-ptMA",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/hessen-trade-&-invest-gmbh_activity-7333487792519315457-IVVp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/hessentradeinvest/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/hessentradeinvest/posts/-jetzt-für-die-company-mission-saudi-arabien-anmelden-15-bis-17-november-2026️-s/1310530267851647/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/hessentradeinvest/posts/-company-mission-eurosatory-16-bis-18-juni-2026️-fachmesse-für-land-und-luftvert/1251826773721997/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/hessentradeinvest/posts/-big-5-global-23-bis-26-november-2026️-bauwirtschaft️-hessischer-gemeinschaftsst/1257354786502529/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/investinhessen",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Hessen Trade & Invest GmbH 日本 導入",
+   "results": [
+    "https://www.invest-in-hessen.de/",
+    "https://de.linkedin.com/company/hessen-trade-&-invest-gmbh",
+    "https://www.htai.de/",
+    "https://www.invest-in-hessen.de/info-service/about-us/",
+    "https://www.japantimes.co.jp/country-report/2026/10/28/germany-report-2026/changing-investment-landscape-plays-hessens-strengths/",
+    "https://www.pius-info.de/netzwerk/htai/",
+    "https://www.gtai.de/jp/invest",
+    "https://www.een-hessen.de/dienstleistungen/internationalisierung/",
+    "https://www.htai.de/impressum/",
+    "https://www.linkedin.com/posts/hessen-trade-&-invest-gmbh_wiesbaden-japan-hessen-activity-7295364317808349185-s48m"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Hessen Trade & Invest GmbH 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.invest-in-hessen.de/",
+    "https://een.ec.europa.eu/local-contact-points/de/hessen-trade-invest-gmbh",
+    "https://de.linkedin.com/company/hessen-trade-&-invest-gmbh",
+    "https://www.htai.de/",
+    "https://www.facebook.com/hessentradeinvest/",
+    "https://www.offenbach.de/microsite/kreativwirtschaft/wegweiser/foerdern/ha_hessen-agentur_und_hessen_trade_-_invest.php",
+    "https://www.starthub-hessen.de/de/services/radar/hessen-trade-invest-gmbh/",
+    "https://www.invest-in-hessen.de/info-service/about-us/",
+    "https://www.leon-hessen.de/kontakt",
+    "https://www.bloomberg.com/profile/company/1295636D:GR"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Hessen Trade & Invest GmbH Japan",
+   "results": [
+    "https://www.invest-in-hessen.de/",
+    "https://www.japantimes.co.jp/country-report/2026/10/28/germany-report-2026/changing-investment-landscape-plays-hessens-strengths/",
+    "https://de.linkedin.com/company/hessen-trade-&-invest-gmbh",
+    "https://sms-bridges.com/hessen-the-right-place-to-invest-in-europe/",
+    "https://www.gtai.de/en/invest",
+    "https://een.ec.europa.eu/local-contact-points/de/hessen-trade-invest-gmbh",
+    "https://japan.ahk.de/en/events-veranstaltungen/archive/20262/hessen-business-technology-day",
+    "https://fintechfestival.german-pavilion.com/en/sites/exhibitors/129516",
+    "https://www.htai.de/",
+    "https://www.invest-in-hessen.de/info-service/about-us/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Hessen Trade & Invest GmbH manufacturing customer case study",
+   "results": [
+    "https://www.invest-in-hessen.de/",
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vIgnYoKMa320qfD_XrQn1IRQ5xgxx3ElWlyfokXBkKKtomhRuVI",
+    "https://www.hpe.com/us/en/customer-case-studies.html",
+    "https://www.gtai.de/en/invest/business-location-germany/federal-states/hessen",
+    "https://www.industryweek.com/leadership/strategic-planning-execution/article/21261091/winning-with-customer-case-studies-4-tips-6-pitfalls",
+    "https://www.hagerman.com/resources/success-stories",
+    "https://www.invest-in-hessen.de/your-business-location/success-stories/",
+    "https://de.linkedin.com/company/hessen-trade-&-invest-gmbh",
+    "https://www.3ds.com/insights/customer-stories",
+    "https://www.htai.de/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Hessen Trade & Invest GmbH white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.facebook.com/resellermx/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://partner.vw.com/partner",
+    "https://reseller.stzplayer.com/",
+    "https://reseller.amazon.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hessen Trade & Invest GmbH founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/hessen-trade-and-invest-gmbh",
+    "https://implisense.com/en/companies/hessen-trade-invest-gmbh-wiesbaden-DE29112C0Q66",
+    "https://tracxn.com/d/companies/hessen-trade-invest/__WsOlFHD8NzKRdy9vvZcFAstqZVY5sBOdFvcY6ywcdjk",
+    "https://www.ampliz.com/company/hessen-trade-invest-gmbh/90288847",
+    "https://www.crunchbase.com/organization/hessen-trade-invest-gmbh",
+    "https://www.crunchbase.com/organization/hessen-trade-invest",
+    "https://growjo.com/company/Hessen_Trade_and_Invest_GmbH"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Hessen Trade & Invest GmbH",
+   "results": [
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/satsumaimo_oimo/n/n302cf8111982",
+    "https://note.com/mamopu/n/n2456b1d6942a",
+    "https://note.com/chokuzen_note/n/n446b6ac7d01d",
+    "https://note.com/okzwh/n/n3699019c5d29"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Hessen Trade & Invest GmbH",
+   "results": [
+    "https://x.com/investinhessen",
+    "https://x.com/HTAI_Hessen",
+    "https://x.com/FRM_GmbH",
+    "https://x.com/Tradetheninvest",
+    "https://x.com/YangzhouCity/status/1796119230934557144",
+    "https://x.com/IHKGiFb",
+    "https://x.com/p0ptartkitty/status/2115926138987913708"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Hessen Trade & Invest GmbH",
+   "results": [
+    "https://www.linkedin.com/company/hessen-trade-&-invest-gmbh/",
+    "https://de.linkedin.com/posts/hessen-trade-&-invest-gmbh_hessische-auslandsmesseprogramm-2027-activity-7500896225404076032-ptMA",
+    "https://www.linkedin.com/posts/hessen-trade-&-invest-gmbh_activity-7333487792519315457-IVVp",
+    "https://si.linkedin.com/company/ha-hessen-agentur-gmbh",
+    "https://de.linkedin.com/posts/hessen-trade-&-invest-gmbh_htai-ciipa-frankfurt-activity-7183034426598019072-qg8H",
+    "https://de.linkedin.com/posts/hessen-trade-&-invest-gmbh_hyvolution-2027-in-paris-activity-7493942622911225856-Dmz6",
+    "https://de.linkedin.com/posts/hessen-trade-&-invest-gmbh_leon-kongress-2026-activity-7414975644989652992-HNkA"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Hessen Trade & Invest GmbH",
+   "results": [
+    "https://www.facebook.com/hessentradeinvest/",
+    "https://www.facebook.com/hessentradeinvest/posts/-jetzt-für-die-company-mission-saudi-arabien-anmelden-15-bis-17-november-2026️-s/1310530267851647/",
+    "https://www.facebook.com/hessentradeinvest/posts/-company-mission-eurosatory-16-bis-18-juni-2026️-fachmesse-für-land-und-luftvert/1251826773721997/",
+    "https://www.facebook.com/hessentradeinvest/posts/-big-5-global-23-bis-26-november-2026️-bauwirtschaft️-hessischer-gemeinschaftsst/1257354786502529/",
+    "https://www.facebook.com/hessentradeinvest/posts/-erfolgreich-die-region-vernetzen-️-jens-ihle-leitet-das-regionalmanagement-der-/1252532716984736/",
+    "https://www.facebook.com/hessentradeinvest/posts/das-enterprise-europe-network-der-hessen-trade-invest-gmbh-htai-lädt-unternehmen/2941505752595024/",
+    "https://www.facebook.com/hessentradeinvest/posts/️-jetzt-anmelden-️-company-mission-westafrika-20-bis-25-april-2026-ghana-côte-di/1225029463068395/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hessen Trade & Invest GmbH note 社長",
+   "results": [
+    "https://www.invest-in-hessen.de/info-service/about-us/",
+    "https://www.companyhouse.de/Hessen-Trade-Invest-GmbH-Wiesbaden",
+    "https://www.htai.de/ueber-uns/",
+    "https://www.htai.de/",
+    "https://openregister.de/company/DE-HRB-M1906-26657",
+    "https://www.companyhouse.de/en/Hessen-Trade-Invest-GmbH-Wiesbaden",
+    "https://frankfurtforward.com/en/ambassador/dr-rainer-waldschmidt/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hessen Trade & Invest GmbH X 投稿",
+   "results": [
+    "https://x.com/investinhessen",
+    "https://x.com/HTAI_Hessen",
+    "https://www.xing.com/pages/hessentrade-investgmbh",
+    "https://www.htai.de/",
+    "https://www.instagram.com/p/DG0X85NqNVb/",
+    "https://www.facebook.com/hessentradeinvest/",
+    "https://www.htai.de/presse/pressemitteilungen/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部32頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部32頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部32頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部32頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部32頁・検索12回）"
+ }
+}

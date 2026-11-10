@@ -1,0 +1,298 @@
+{
+ "name": "OST Ostschweizer Fachhochschule IWK Institut für Werkstofftechnik und Kunststoffverarbeitung",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜AI送信済み",
+ "researched_at": "2026-11-10T22:21:49.116202+00:00",
+ "official_url": "https://www.ost.ch/iwk",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Ermöglicht Karten, Videos und Social-Media-Inhalte von Drittanbietern.",
+    "url": "https://www.ost.ch/de/forschung-und-dienstleistungen/technik/maschinentechnik/iwk-institut-fuer-werkstofftechnik-und-kunststoffverarbeitung",
+    "pass": 1
+   },
+   {
+    "quote": "PiBS Praxisintegriertes Bachelor-Studium",
+    "url": "https://www.ost.ch/de/forschung-und-dienstleistungen/technik/maschinentechnik/iwk-institut-fuer-werkstofftechnik-und-kunststoffverarbeitung",
+    "pass": 1
+   },
+   {
+    "quote": "Das IWK, gegründet 2005, ist mit ca. 50 Mitarbeitenden die schweizweit führende Forschungseinrichtung für Bauteilauslegung und Produktion in der Kunststofftechnik. Unser Ziel ist die Verbindung von Wissenschaft und Praxis für innovative Lösungen mit modernen Werkstoffen und Produktionstechnologien.",
+    "url": "https://www.ost.ch/de/forschung-und-dienstleistungen/technik/maschinentechnik/iwk-institut-fuer-werkstofftechnik-und-kunststoffverarbeitung",
+    "pass": 1
+   },
+   {
+    "quote": "Projekte aus der Praxis",
+    "url": "https://www.ost.ch/de/forschung-und-dienstleistungen/technik/maschinentechnik/iwk-institut-fuer-werkstofftechnik-und-kunststoffverarbeitung",
+    "pass": 1
+   },
+   {
+    "quote": "Prof. Dr. Frank Ehrig",
+    "url": "https://www.ost.ch/de/forschung-und-dienstleistungen/technik/maschinentechnik/iwk-institut-fuer-werkstofftechnik-und-kunststoffverarbeitung",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "OST Ostschweizer Fachhochschule IWK Institut für ... — Discover OST Ostschweizer Fachhochschule IWK Institut für Werkstofftechnik und Kunststoffverarbeitung at Formnext 2026. Information on 3D-Printing / 3D-Druck, Additive Manufacturing / Additive Fertigung. 17.-20.11.2026. Learn more now!",
+    "url": "https://formnext.mesago.com/frankfurt/en/exhibitor-search.detail.html/ost-ostschweizer-fachhochschule-iwk-institut-fuer-werkstofftechnik-und-kunststoffverarbeitung.html",
+    "pass": 3
+   },
+   {
+    "quote": "Exhibitor details of: OST Ostschweizer Fachhochschule — Fakuma Internationale Fachmesse für Kunststoffverarbeitung OST Ostschweizer Fachhochschule IWK Institut für Werkstofftechnik und Kunststoffverarbeitung Hall B4 - Stand B4-4103",
+    "url": "https://www.fakuma-messe.de/en/Exhibitor-Index/52764-ost-ostschweizer-fachhochschule/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "IWK Institut für Werkstofftechnik und Kunststoffverarbeitung Das IWK Institut für Werkstofftechnik und Kunststoffverarbeitung, gegründet 2005, engagiert sich an der OST Ostschweizer Fachhochschule für die Aus- und Weiterbildung,...",
+    "url": "https://www.linkedin.com/company/iwk-hsr",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Departement Technik der OST | Rapperswil - FacebookDas IWK Institut für... - Departement Technik der OST - FacebookOST - Ostschweizer Fachhochschule | Rapperswil - FacebookGeburtstagskuchen im OSTLAB... - Departement Technik der OSTNeue Wartungsplattform für Seilbahnen: Das Ende von teuren ...Das IWK Institut für... - Departement Technik der OST | FacebookBesucht das IWK Institut für... - Departem",
+    "url": "https://www.facebook.com/departement.technik.ost/",
+    "pass": 3
+   },
+   {
+    "quote": "OST - Ostschweizer Fachhochschule | Rapperswil - FacebookGeburtstagskuchen im OSTLAB... - Departement Technik der OSTNeue Wartungsplattform für Seilbahnen: Das Ende von teuren ...Das IWK Institut für... - Departement Technik der OST | FacebookBesucht das IWK Institut für... - Departement Technik der OST ... In Zusammenarbeit mit der Universität Zürich haben Ingenieure der OST die Messmethode FLIM ",
+    "url": "https://www.facebook.com/ostschweizerfachhochschule/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.ost.ch/de/forschung-und-dienstleistungen/technik/maschinentechnik/iwk-institut-fuer-werkstofftechnik-und-kunststoffverarbeitung",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://de.wikipedia.org/wiki/Institut_f%C3%BCr_Werkstofftechnik_und_Kunststoffverarbeitung",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.swissplastics.ch/en/p/ost-ostschweizer-fachhochschule-institut-fuer-werkstofftechnik-und-kunststoffverarbeitung-iwk.11721",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formnext.mesago.com/frankfurt/en/exhibitor-search.detail.html/ost-ostschweizer-fachhochschule-iwk-institut-fuer-werkstofftechnik-und-kunststoffverarbeitung.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://de.wikipedia.org/wiki/Institut_f%C3%BCr_Werkstofftechnik_und_Kunststoffverarbeitung",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.swissplastics.ch/de/p/ost-ostschweizer-fachhochschule-institut-fuer-werkstofftechnik-und-kunststoffverarbeitung-iwk.11721",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formnext.mesago.com/frankfurt/en/exhibitor-search.detail.html/ost-ostschweizer-fachhochschule-iwk-institut-fuer-werkstofftechnik-und-kunststoffverarbeitung.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fakuma-messe.de/en/Exhibitor-Index/52764-ost-ostschweizer-fachhochschule/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.swisspolymerscluster.ch/en/membres/institut-fur-werkstofftechnik-und-kunststoffverarbeitung?a7a7c6f3_page=3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/iwk-hsr",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/departement.technik.ost/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ostschweizerfachhochschule/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "OST Ostschweizer Fachhochschule IWK Institut für Werkstofftechnik und Kunststoffverarbeitung 日本 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "OST Ostschweizer Fachhochschule IWK Institut für Werkstofftechnik und Kunststoffverarbeitung 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://de.wikipedia.org/wiki/Institut_für_Werkstofftechnik_und_Kunststoffverarbeitung",
+    "https://www.ost.ch/de/forschung-und-dienstleistungen/technik/maschinentechnik/iwk-institut-fuer-werkstofftechnik-und-kunststoffverarbeitung",
+    "https://www.swissplastics.ch/en/p/ost-ostschweizer-fachhochschule-institut-fuer-werkstofftechnik-und-kunststoffverarbeitung-iwk.11721",
+    "https://formnext.mesago.com/frankfurt/en/exhibitor-search.detail.html/ost-ostschweizer-fachhochschule-iwk-institut-fuer-werkstofftechnik-und-kunststoffverarbeitung.html",
+    "https://www.ost.ch/de/forschung-und-dienstleistungen/technik/maschinentechnik/iwk-institut-fuer-werkstofftechnik-und-kunststoffverarbeitung/fachbereiche",
+    "https://www.swissplastics.ch/de/p/ost-ostschweizer-fachhochschule-institut-fuer-werkstofftechnik-und-kunststoffverarbeitung-iwk.11721?_p=c",
+    "https://www.swisspolymerscluster.ch/en/membres/institut-fur-werkstofftechnik-und-kunststoffverarbeitung"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "OST Ostschweizer Fachhochschule IWK Institut für Werkstofftechnik und Kunststoffverarbeitung Japan",
+   "results": [
+    "https://de.wikipedia.org/wiki/Institut_für_Werkstofftechnik_und_Kunststoffverarbeitung",
+    "https://www.ost.ch/de/forschung-und-dienstleistungen/technik/maschinentechnik/iwk-institut-fuer-werkstofftechnik-und-kunststoffverarbeitung",
+    "https://www.ost.ch/de/forschung-und-dienstleistungen/technik/maschinentechnik/iwk-institut-fuer-werkstofftechnik-und-kunststoffverarbeitung/news",
+    "https://www.swissplastics.ch/de/p/ost-ostschweizer-fachhochschule-institut-fuer-werkstofftechnik-und-kunststoffverarbeitung-iwk.11721",
+    "https://www.swissplastics.ch/en/p/iwk-institut-fuer-werkstofftechnik-und-kunststoffverarbeitung.11721",
+    "https://www.am-expo.ch/en/p/ost-ostschweizer-fachhochschule-institut-fuer-werkstofftechnik-und-kunststoffverarbeitung-iwk.1748",
+    "https://www.ippt-twinn.eu/Partners/IWK-Institut-für-Werkstofftechnik-und-Kunststoffverarbeitung"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "OST Ostschweizer Fachhochschule IWK Institut für Werkstofftechnik und Kunststoffverarbeitung manufacturing customer case study",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "OST Ostschweizer Fachhochschule IWK Institut für Werkstofftechnik und Kunststoffverarbeitung white label OR reseller OR partner program",
+   "results": [
+    "https://formnext.mesago.com/frankfurt/en/exhibitor-search.detail.html/ost-ostschweizer-fachhochschule-iwk-institut-fuer-werkstofftechnik-und-kunststoffverarbeitung.html",
+    "https://www.fakuma-messe.de/en/Exhibitor-Index/52764-ost-ostschweizer-fachhochschule/",
+    "https://partner.vw.com/",
+    "https://www.swisspolymerscluster.ch/en/membres/institut-fur-werkstofftechnik-und-kunststoffverarbeitung?a7a7c6f3_page=3",
+    "https://reseller.amazon.com/",
+    "https://www.seoreseller.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "OST Ostschweizer Fachhochschule IWK Institut für Werkstofftechnik und Kunststoffverarbeitung founded funding employees revenue",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com OST Ostschweizer Fachhochschule IWK Institut für Werkstofftechnik und Kunststoffverarbeitung",
+   "results": [
+    "https://note.com/diparururun",
+    "https://note.com/wise_turtle184",
+    "https://note.com/merumeru1975/n/n5aed8d9fb24e",
+    "https://note.com/keizokuramoto/n/nef2f6f1c855d",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/sj_2020/n/n494c87da7182",
+    "https://note.com/kirik/n/n1e7e1fb46791"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com OST Ostschweizer Fachhochschule IWK Institut für Werkstofftechnik und Kunststoffverarbeitung",
+   "results": [
+    "https://jf.x.com/images/media-preview/2113183583518990519",
+    "https://x.com/p0ptartkitty/status/2115926138987913708",
+    "https://x.com/chillestwoman/status/2116669325868400644",
+    "https://x.com/blonddtyler/status/2116733204950352049",
+    "https://x.com/TreeNewsFeed/status/2115912923432227128",
+    "https://x.com/adrnvic/status/2116339042962833541",
+    "https://x.com/ChaosCrave_/status/2116845156208935065"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com OST Ostschweizer Fachhochschule IWK Institut für Werkstofftechnik und Kunststoffverarbeitung",
+   "results": [
+    "https://www.linkedin.com/company/iwk-hsr",
+    "https://de.linkedin.com/posts/iwk-hsr_weiterbildung-kunststofftechnik-engineering-activity-7440673631636066304-Tmqk",
+    "https://www.linkedin.com/posts/iwk-hsr_cas-auslegung-und-herstellung-von-kunststoffbauteilen-activity-7029463926031470592-fM8w",
+    "https://de.linkedin.com/posts/iwk-hsr_ostschweizerfachhochschule-iwk-teamevent-activity-7209798890475122689-vNbY",
+    "https://de.linkedin.com/posts/iwk-hsr_ostschweizerfachhochschule-iwk-bucherleichtbau-activity-7209102618281791488-GvIG",
+    "https://de.linkedin.com/posts/iwk-hsr_ostschweizerfachhochschule-iwk-rapperswilerkunststoffforum-activity-7221771143559458816-fnGp",
+    "https://de.linkedin.com/posts/departement-technik-ost_ostschweizerfachhochschule-iwk-freitaglab-activity-7022205276590075904-dSY8"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com OST Ostschweizer Fachhochschule IWK Institut für Werkstofftechnik und Kunststoffverarbeitung",
+   "results": [
+    "https://www.facebook.com/departement.technik.ost/",
+    "https://www.facebook.com/departement.technik.ost/posts/das-iwk-institut-für-werkstofftechnik-und-kunststoffverarbeitung-der-hsr-rappers/1451433798258661/",
+    "https://www.facebook.com/ostschweizerfachhochschule/",
+    "https://www.facebook.com/departement.technik.ost/posts/geburtstagskuchen-im-ostlab-die-erfolgreichste-nachwuchsförderung-der-ost-ostsch/5054731407928864/",
+    "https://www.facebook.com/ostschweizerfachhochschule/videos/neue-wartungsplattform-für-seilbahnen-das-ende-von-teuren-helikopterflügen-das-i/1389929221647210/",
+    "https://www.facebook.com/departement.technik.ost/posts/1853803834688320/",
+    "https://www.facebook.com/departement.technik.ost/posts/besucht-das-iwk-institut-für-werkstofftechnik-und-kunststoffverarbeitung-der-hsr/1427982150603826/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "OST Ostschweizer Fachhochschule IWK Institut für Werkstofftechnik und Kunststoffverarbeitung note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "OST Ostschweizer Fachhochschule IWK Institut für Werkstofftechnik und Kunststoffverarbeitung X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索12回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索12回）"
+ }
+}

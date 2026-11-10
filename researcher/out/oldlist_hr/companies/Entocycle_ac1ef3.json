@@ -1,0 +1,1453 @@
+{
+ "name": "Entocycle",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜AUMS不適合",
+ "researched_at": "2026-11-10T22:37:45.594265+00:00",
+ "official_url": "https://entocycle.com/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2014",
+    "url": "https://startupintros.com/orgs/entocycle",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "London, United Kingdom",
+    "url": "https://startupintros.com/orgs/entocycle",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Fully climate-controlled, modular facilities standardise production conditions allowing high-yield production to be deployed anywhere in the world.",
+    "url": "https://entocycle.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time, AI-driven insect monitoring systems count and track insects over their lifecycle. It’s the data-driven predictability that powers our facilities.",
+    "url": "https://entocycle.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Efficient and scalable, automation means lower operational costs of facilities, driving higher business-model profitability.",
+    "url": "https://entocycle.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A new class of high-margin de-risked circular economy projects, deployed at industrial scale.",
+    "url": "https://entocycle.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Converting problematic waste-streams into commercial value with demonstrable ESG benefits.",
+    "url": "https://entocycle.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Generate diversified and predictable revenue streams with insect bioconversion.",
+    "url": "https://entocycle.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Organic fertiliser (frass) is a co-product of insect farming, composed primarily of insect excrement. It’s a natural fertiliser that’s been proven to improve soil health and promote plant growth.",
+    "url": "https://entocycle.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our Industrial Proving Ground",
+    "url": "https://entocycle.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“CfIT is not a pilot facility, it’s our industrial proving ground. Every component of our solution spent two years being performance tested in real-world industrial conditions. That data and insight is the battle-testing that de-risks ramp-up and turns a biological process into an industrial-scale reality.”",
+    "url": "https://entocycle.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner with us on turnkey sustainable waste-to-value projects.",
+    "url": "https://entocycle.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Insect protein offtake partners — Entocycle | Insect Farming Technology",
+    "url": "https://entocycle.com/offtake-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Sustainable protein for the growing demand.",
+    "url": "https://entocycle.com/offtake-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Protein Demand is Outstripping Supply",
+    "url": "https://entocycle.com/offtake-partners",
+    "pass": 1
+   },
+   {
+    "quote": "A growing population and developing countries eating more meat is increasing the demand for the proteins that support our food system.",
+    "url": "https://entocycle.com/offtake-partners",
+    "pass": 1
+   },
+   {
+    "quote": "The poultry and aquaculture industries are set to double in the next 25 years, creating a demand that cannot be met by traditional proteins such as soy and fishmeal.",
+    "url": "https://entocycle.com/offtake-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Black Soldier Fly larvae (BSFL) are the ultimate bioconversion engine; a high value source of protein that’s used across aquaculture, poultry and pet food.",
+    "url": "https://entocycle.com/offtake-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Unrivalled in the protein production world, BSFL grow 5000x their body weight in just 8 days, with minimal land and water usage.",
+    "url": "https://entocycle.com/offtake-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Valuable & Sustainable Insect Products",
+    "url": "https://entocycle.com/offtake-partners",
+    "pass": 1
+   },
+   {
+    "quote": "BSFL is used whole in pet food, or processed into high-protein ingredients for use in aquafeed, pet food and poultry feed.",
+    "url": "https://entocycle.com/offtake-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Frass is a co-product of insect farming, used as a natural fertiliser to vastly improve soil health and promote plant growth.",
+    "url": "https://entocycle.com/offtake-partners",
+    "pass": 1
+   },
+   {
+    "quote": "A natural by-product of insect farming, BSF oil is high in lauric acid. Used as a sustainable and antimicrobial alternative to palm oils, insect oils are now being used in cosmetics and skincare products, biodiesel and bio-lubricants.",
+    "url": "https://entocycle.com/offtake-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Insect proteins are a concentrated protein source that’s rendered into meal for aquaculture. Studies show that insect proteins improve immune-related enzyme activities, enhanced survival rate, increased resilience against pathogens, healthier tissues and greater growth in shrimps and prawn.",
+    "url": "https://entocycle.com/offtake-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Whole larvae and protein meal are fed to poultry to act as both enrichment and feed, improving animal welfare and behaviour, whilst providing a sustainable high protein alternative to traditional protein.",
+    "url": "https://entocycle.com/offtake-partners",
+    "pass": 1
+   },
+   {
+    "quote": "BSFL are used in both wet and dry pet food, consisting of high levels of amino acids and oils that provide pets with high levels of sustainable protein and nutrients.",
+    "url": "https://entocycle.com/offtake-partners",
+    "pass": 1
+   },
+   {
+    "quote": "We partner with organic waste producers to transform problematic waste into high-value, sustainable insect products.",
+    "url": "https://entocycle.com/waste-and-feedstock",
+    "pass": 1
+   },
+   {
+    "quote": "Transform problematic organic waste streams into new value using insect bioconversion facilities.",
+    "url": "https://entocycle.com/waste-and-feedstock",
+    "pass": 1
+   },
+   {
+    "quote": "Elevate organic by-products up the waste hierarchy, replacing carbon-intensive processing with a verifiable circular solution.",
+    "url": "https://entocycle.com/waste-and-feedstock",
+    "pass": 1
+   },
+   {
+    "quote": "Shrinking the Problem",
+    "url": "https://entocycle.com/waste-and-feedstock",
+    "pass": 1
+   },
+   {
+    "quote": "Up to 75% mass reduction of organic material, mitigating downstream processing overheads.",
+    "url": "https://entocycle.com/waste-and-feedstock",
+    "pass": 1
+   },
+   {
+    "quote": "Traditional waste management solutions such as landfill and anaerobic digestion limit organic streams to the lower tiers of the waste hierarchy. Insect bioconversion facilities elevate organic waste streams from disposal and recovery into the recycling tiers on the food waste hierarchy by upcycling the nutrients directly back into the food chain as functional proteins and fertilisers.",
+    "url": "https://entocycle.com/waste-and-feedstock",
+    "pass": 1
+   },
+   {
+    "quote": "Entocycle manages the entire process",
+    "url": "https://entocycle.com/waste-and-feedstock",
+    "pass": 1
+   },
+   {
+    "quote": "Valuable & Sustainable Insect Products",
+    "url": "https://entocycle.com/waste-and-feedstock",
+    "pass": 1
+   },
+   {
+    "quote": "BSFL is used whole in pet food, or processed into high-protein ingredients for use in aquafeed, pet food and poultry feed.",
+    "url": "https://entocycle.com/waste-and-feedstock",
+    "pass": 1
+   },
+   {
+    "quote": "Frass is a co-product of insect farming, used as a natural fertiliser to vastly improve soil health and promote plant growth.",
+    "url": "https://entocycle.com/waste-and-feedstock",
+    "pass": 1
+   },
+   {
+    "quote": "A natural by-product of insect farming, BSF oil is high in lauric acid. Used as a sustainable and antimicrobial alternative to palm oils, insect oils are now being used in cosmetics and skincare products, biodiesel and bio-lubricants.",
+    "url": "https://entocycle.com/waste-and-feedstock",
+    "pass": 1
+   },
+   {
+    "quote": "We’ve engineered the variance out of biology. Our patented systems provide the real-time control and standardisation needed to turn a natural process into predictable and industrial-scale results.",
+    "url": "https://entocycle.com/turnkey-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Our unique project development methodology manages the end-to-end process of getting industrial-scale projects from concept to final investment decision stage, increasing certainty and lowering risk which makes them more investable.",
+    "url": "https://entocycle.com/turnkey-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Organic waste, variable by nature, is standardised into feedstock substrate enabling predictable growth cycles regardless of waste source.",
+    "url": "https://entocycle.com/turnkey-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Precision Yield Control",
+    "url": "https://entocycle.com/turnkey-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "With infant larvae supply from Entocycle’s hubs, our patented counting and dosing systems eliminate biological variability to standardise production yields.",
+    "url": "https://entocycle.com/turnkey-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Larvae bio-convert the food waste into high value proteins at an unrivalled pace, growing 5000x their body weight in a matter of days.",
+    "url": "https://entocycle.com/turnkey-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Harvested larvae are processed into high-value protein meal, oils and fertilisers, transforming the biological process into market-ready products for the global feed industry.",
+    "url": "https://entocycle.com/turnkey-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Our Industrial Proving Ground",
+    "url": "https://entocycle.com/turnkey-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "“CfIT is not a pilot facility, it’s our industrial proving ground. Every component of our solution spent two years being performance tested in real-world industrial conditions. That data and insight is the battle-testing that de-risks ramp-up and turns a biological process into an industrial-scale reality.”",
+    "url": "https://entocycle.com/turnkey-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "READ THE PRESS RELEASE",
+    "url": "https://entocycle.com/turnkey-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Valuable & Sustainable Insect Products",
+    "url": "https://entocycle.com/turnkey-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "BSFL is used whole in pet food, or processed into high-protein ingredients for use in aquafeed, pet food and poultry feed.",
+    "url": "https://entocycle.com/turnkey-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Frass is a co-product of insect farming, used as a natural fertiliser to vastly improve soil health and promote plant growth.",
+    "url": "https://entocycle.com/turnkey-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "A natural by-product of insect farming, BSF oil is high in lauric acid. Used as a sustainable and antimicrobial alternative to palm oils, insect oils are now being used in cosmetics and skincare products, biodiesel and bio-lubricants.",
+    "url": "https://entocycle.com/turnkey-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Partner with us on de-risked, investable waste-to-value projects, powered by insects.",
+    "url": "https://entocycle.com/turnkey-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "About Entocycle | Insect Farming & Sustainable Protein Experts — Entocycle | Insect Farming Technology",
+    "url": "https://entocycle.com/about/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "At Entocycle, we exist to harness the natural efficiency of insects to transform organic by-products into high performance feed.",
+    "url": "https://entocycle.com/about/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "By engineering industrial automation and machine learning into the bioconversion process, we’ve unlocked the ability to do this at scale. It’s this industrial-scale that allows us to deliver sustainable, high-quality nutrition for plants and animals, without the high-impact footprint of today’s food systems.",
+    "url": "https://entocycle.com/about/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "30% of Food Produced is Wasted",
+    "url": "https://entocycle.com/about/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "Nearly 1/3 of the food we produce is wasted, with millions of tonnes being sent to landfill or incinerated. This contributes at least 8% of global greenhouse gas emissions.",
+    "url": "https://entocycle.com/about/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "Protein’s Demand Problem",
+    "url": "https://entocycle.com/about/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "A growing population and the increase of meat consumption in developing countries is increasing the demand for proteins that support our food system. To meet this demand, the poultry and aquaculture industries are set to double in size over the next 25 years.",
+    "url": "https://entocycle.com/about/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "Yet, traditional proteins cannot meet this demand. Overfishing is exhausting our oceans whilst land-grown proteins drive irreversible deforestation.",
+    "url": "https://entocycle.com/about/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "The wide-ranging and voracious appetite of Black Soldier Fly makes them uniquely suited to solve this problem. In nature, insects play a vital role in the natural food chain, serving as both feed for animals and as waste decomposers.",
+    "url": "https://entocycle.com/about/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "At Entocycle, we’re unlocking this power of insects for industrial-grade food production globally.",
+    "url": "https://entocycle.com/about/who-we-are",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "A new class of high-margin de-risked circular economy projects, deployed at industrial scale.",
+    "url": "https://entocycle.com/",
+    "pass": 1
+   },
+   {
+    "quote": "For Plant and Crop Nutrition",
+    "url": "https://entocycle.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Organic fertiliser (frass) is a co-product of insect farming, composed primarily of insect excrement. It’s a natural fertiliser that’s been proven to improve soil health and promote plant growth.",
+    "url": "https://entocycle.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our Industrial Proving Ground",
+    "url": "https://entocycle.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“CfIT is not a pilot facility, it’s our industrial proving ground. Every component of our solution spent two years being performance tested in real-world industrial conditions. That data and insight is the battle-testing that de-risks ramp-up and turns a biological process into an industrial-scale reality.”",
+    "url": "https://entocycle.com/",
+    "pass": 1
+   },
+   {
+    "quote": "READ THE FULL CASE STUDY",
+    "url": "https://entocycle.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Frass is a co-product of insect farming, used as a natural fertiliser to vastly improve soil health and promote plant growth.",
+    "url": "https://entocycle.com/offtake-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Frass is a co-product of insect farming, used as a natural fertiliser to vastly improve soil health and promote plant growth.",
+    "url": "https://entocycle.com/waste-and-feedstock",
+    "pass": 1
+   },
+   {
+    "quote": "De-risked, industrial assets for the circular economy.",
+    "url": "https://entocycle.com/turnkey-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "We’ve engineered the variance out of biology. Our patented systems provide the real-time control and standardisation needed to turn a natural process into predictable and industrial-scale results.",
+    "url": "https://entocycle.com/turnkey-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Our unique project development methodology manages the end-to-end process of getting industrial-scale projects from concept to final investment decision stage, increasing certainty and lowering risk which makes them more investable.",
+    "url": "https://entocycle.com/turnkey-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Modular by design, our factory systems can be easily sized, scaled and tailored to local market conditions and costs.",
+    "url": "https://entocycle.com/turnkey-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Refinement",
+    "url": "https://entocycle.com/turnkey-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Our Industrial Proving Ground",
+    "url": "https://entocycle.com/turnkey-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "“CfIT is not a pilot facility, it’s our industrial proving ground. Every component of our solution spent two years being performance tested in real-world industrial conditions. That data and insight is the battle-testing that de-risks ramp-up and turns a biological process into an industrial-scale reality.”",
+    "url": "https://entocycle.com/turnkey-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "READ THE FULL CASE STUDY",
+    "url": "https://entocycle.com/turnkey-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Frass is a co-product of insect farming, used as a natural fertiliser to vastly improve soil health and promote plant growth.",
+    "url": "https://entocycle.com/turnkey-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering sustainable solutions for industrial-scale feed, whilst safeguarding the ecosystems we rely on.",
+    "url": "https://entocycle.com/about/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "By engineering industrial automation and machine learning into the bioconversion process, we’ve unlocked the ability to do this at scale. It’s this industrial-scale that allows us to deliver sustainable, high-quality nutrition for plants and animals, without the high-impact footprint of today’s food systems.",
+    "url": "https://entocycle.com/about/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "At Entocycle, we’re unlocking this power of insects for industrial-grade food production globally.",
+    "url": "https://entocycle.com/about/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "“Agriculture is facing a critical bottleneck: we need to scale production without damaging the land and marine ecosystems we rely on. Entocycle exists to solve this. By using modern technology to harness the natural efficiency of insects, we’re unlocking this solution at industrial-scale, delivering the high-performance, sustainable nutrition the world demands.”",
+    "url": "https://entocycle.com/about/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "We’re on a mission to deliver de-risked industrial-scale solutions for the circular economy - using the food we waste today to create the protein we need tomorrow.",
+    "url": "https://entocycle.com/about/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Deployment",
+    "url": "https://entocycle.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Deployment",
+    "url": "https://entocycle.com/case-studies/the-royal-botanic-garden-edinburgh",
+    "pass": 1
+   },
+   {
+    "quote": "frass on plant health. Over a four-month period, different plant types were tested against a peat-free control mix, revealing that frass was beneficial or non-detrimental to",
+    "url": "https://entocycle.com/case-studies/the-royal-botanic-garden-edinburgh",
+    "pass": 1
+   },
+   {
+    "quote": ", this collaboration provides the critical scientific evidence needed to position frass as a viable, sustainable organic fertilizer for commercial horticulture, demonstrating superior root development and enhanced plant vigour compared to standard compost.",
+    "url": "https://entocycle.com/case-studies/the-royal-botanic-garden-edinburgh",
+    "pass": 1
+   },
+   {
+    "quote": "Entocycle partnered with the Royal Botanic Garden Edinburgh (RBGE) in 2021 to trial the effects of our organic frass on various types of plants, with the goal being to gain scientific data and insight into specific improvements that frass provides to plant health, soil quality and biodiversity.",
+    "url": "https://entocycle.com/case-studies/the-royal-botanic-garden-edinburgh",
+    "pass": 1
+   },
+   {
+    "quote": "The team potted 18 different plant types with a mix of RBGE’s regular compost and Entocycle’s frass, along with a batch of the same plants with a control compost of PEAT free meclor mixture, so the team could easily compare the frass’ effectiveness.",
+    "url": "https://entocycle.com/case-studies/the-royal-botanic-garden-edinburgh",
+    "pass": 1
+   },
+   {
+    "quote": "The results of this trial clearly indicate that the addition of frass in compost positively influences plant health:",
+    "url": "https://entocycle.com/case-studies/the-royal-botanic-garden-edinburgh",
+    "pass": 1
+   },
+   {
+    "quote": "These overwhelmingly positive statistics demonstrate frass’ suitability for commercial horticulture, giving customers confidence before switching to frass compost mixtures for plant health and reducing the risk for growers trialling frass at scale.",
+    "url": "https://entocycle.com/case-studies/the-royal-botanic-garden-edinburgh",
+    "pass": 1
+   },
+   {
+    "quote": "Partnering with a renowned institution such as the Royal Botanic Garden Edinburgh not only gave our team access to a wide range of plants they typically wouldn’t be able to source, but this collaborative project further establishes Entocycle as a reliable and credible partner in the sustainability, horticultural and agricultural industries.",
+    "url": "https://entocycle.com/case-studies/the-royal-botanic-garden-edinburgh",
+    "pass": 1
+   },
+   {
+    "quote": "Our Entomologists were curious to discover the frass’ true benefits of adding it to compost mix to aid plant health.",
+    "url": "https://entocycle.com/case-studies/the-royal-botanic-garden-edinburgh",
+    "pass": 1
+   },
+   {
+    "quote": "Collaborating closely with RBGE Nursery Horticulturalist, Graeme MacDonald, he potted x2 versions of each selected plant, one in a control compost mixture and the other with Entocycle frass, and recorded the growth rate of each plant's foliage and roots.",
+    "url": "https://entocycle.com/case-studies/the-royal-botanic-garden-edinburgh",
+    "pass": 1
+   },
+   {
+    "quote": "With a 78% success rate, the results of the trial clearly indicates that the addition of frass in compost positively influences plant health.",
+    "url": "https://entocycle.com/case-studies/the-royal-botanic-garden-edinburgh",
+    "pass": 1
+   },
+   {
+    "quote": "Primula plant pictured above.",
+    "url": "https://entocycle.com/case-studies/the-royal-botanic-garden-edinburgh",
+    "pass": 1
+   },
+   {
+    "quote": "Cornus plant pictured above.",
+    "url": "https://entocycle.com/case-studies/the-royal-botanic-garden-edinburgh",
+    "pass": 1
+   },
+   {
+    "quote": "Lavender plant pictured above.",
+    "url": "https://entocycle.com/case-studies/the-royal-botanic-garden-edinburgh",
+    "pass": 1
+   },
+   {
+    "quote": "Teucrium plant pictured above.",
+    "url": "https://entocycle.com/case-studies/the-royal-botanic-garden-edinburgh",
+    "pass": 1
+   },
+   {
+    "quote": "Cirsium plant pictured above.",
+    "url": "https://entocycle.com/case-studies/the-royal-botanic-garden-edinburgh",
+    "pass": 1
+   },
+   {
+    "quote": "“The roots on the plants grown in the frass look far superior to those in our regular mix. I’m really impressed with the results of the trial and believe the frass is definitely a good thing to add to our compost mix.",
+    "url": "https://entocycle.com/case-studies/the-royal-botanic-garden-edinburgh",
+    "pass": 1
+   },
+   {
+    "quote": "Modular Insect Farming: Centre for Insect Technology R&D Facility Case Study — Entocycle | Insect Farming Technology",
+    "url": "https://entocycle.com/case-studies/the-centre-for-insect-technology",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Deployment",
+    "url": "https://entocycle.com/case-studies/the-centre-for-insect-technology",
+    "pass": 1
+   },
+   {
+    "quote": "The CfIT bridges the gap between lab-scale research and industrial reality, delivering industry-leading results that include",
+    "url": "https://entocycle.com/case-studies/the-centre-for-insect-technology",
+    "pass": 1
+   },
+   {
+    "quote": ". By showcasing our patented technology in a real-world working factory, we remove uncertainty for investors and provide a robust platform for testing diverse feedstocks—proving that sustainable insect protein can be produced efficiently in any environment.",
+    "url": "https://entocycle.com/case-studies/the-centre-for-insect-technology",
+    "pass": 1
+   },
+   {
+    "quote": "The team encountered multiple challenges when designing and building the centre, but since installation results include the doubling of our egg yield per cubic meter, an average feedstock conversion rate of 25%, an optical dosing machine succeeding 3000 neonates per second and utilising a factory material lifespan of 10 years minimum.",
+    "url": "https://entocycle.com/case-studies/the-centre-for-insect-technology",
+    "pass": 1
+   },
+   {
+    "quote": "Our team set to designing the centre, with the factory layout set to mimic the life cycle of the black soldier fly (BSF). Beginning with neonates being dosed in crates, leading into their growth phase, then onto either production as larvae or transforming into fully grown BSF, onto to breeding, then the cycle repeating itself again.",
+    "url": "https://entocycle.com/case-studies/the-centre-for-insect-technology",
+    "pass": 1
+   },
+   {
+    "quote": "We collaborated with a few external partners for varying areas of the factory, including LAC for the conveyor and robotic systems and Siemens for the automation.",
+    "url": "https://entocycle.com/case-studies/the-centre-for-insect-technology",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Deployment",
+    "url": "https://entocycle.com/press-releases/siemens-partners-with-entocycle-to-digitalise-insect-farming-industry",
+    "pass": 1
+   },
+   {
+    "quote": "Entocycle, a specialist manufacturer of insect farm technology which uses insects to turn food waste into sustainable protein for animal feed, worked alongside Siemens to create the UK’s first digitalised insect farm showroom under four Victorian railway arches in the heart of London.",
+    "url": "https://entocycle.com/press-releases/siemens-partners-with-entocycle-to-digitalise-insect-farming-industry",
+    "pass": 1
+   },
+   {
+    "quote": "Implementing digitalisation has reduced insect larval growth time and improved survival rates by 30%, demonstrating how the emerging insect bioconversion process can be accelerated and implemented at industrial scale in the future.",
+    "url": "https://entocycle.com/press-releases/siemens-partners-with-entocycle-to-digitalise-insect-farming-industry",
+    "pass": 1
+   },
+   {
+    "quote": "Entocycle is now looking to expand operations on an industrial scale, helping farms, agricultural businesses, and waste management companies to reduce carbon emissions worldwide while creating a blueprint for future food systems.",
+    "url": "https://entocycle.com/press-releases/siemens-partners-with-entocycle-to-digitalise-insect-farming-industry",
+    "pass": 1
+   },
+   {
+    "quote": "Keith Thornhill, head of food and beverage for UK & Ireland at Siemens said: “Entocycle has created the blueprint for high-tech insect farming. It’s successfully applied modern manufacturing technology to its highly niche subject of rearing black soldier flies. And the outcomes are clear to see in increased insect survival rates and slashing the time staff would spend counting insects.",
+    "url": "https://entocycle.com/press-releases/siemens-partners-with-entocycle-to-digitalise-insect-farming-industry",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how Entocycle's industrial-scale insect farms turn food waste into high-value animal feed through de-risked, investable waste-to-value projects.",
+    "url": "https://entocycle.com/press-releases/siemens-partners-with-entocycle-to-digitalise-insect-farming-industry",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering Predictability Into Nature: How Precision Agri-Tech De-Risks Industrial Insect Farming",
+    "url": "https://entocycle.com/press-releases/siemens-partners-with-entocycle-to-digitalise-insect-farming-industry",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how Entocycle uses patented precision agri-tech to remove production variance and de-risk industrial-scale insect farming. Learn how our automated, biology-led solutions create investible, turnkey waste-to-value projects.",
+    "url": "https://entocycle.com/press-releases/siemens-partners-with-entocycle-to-digitalise-insect-farming-industry",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how Entocycle optimized Africa’s largest waste-to-protein facility. Read the Regen Organics case study on Black Soldier Fly (BSF) yield optimization.",
+    "url": "https://entocycle.com/press-releases/siemens-partners-with-entocycle-to-digitalise-insect-farming-industry",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial modular insect farming technology — Entocycle | Insect Farming Technology",
+    "url": "https://entocycle.squarespace.com/insect-farming-technology",
+    "pass": 3
+   },
+   {
+    "quote": "We’ve engineered the variance out of biology. Entocycle’s patented systems provide the real-time control and standardisation needed to turn natural biological processes into predictable and industrial-scale results.",
+    "url": "https://entocycle.squarespace.com/insect-farming-technology",
+    "pass": 3
+   },
+   {
+    "quote": "Modular-by-design, Entocycle’s factory system can be easily sized, scaled and tailored to local market conditions and costs.",
+    "url": "https://entocycle.squarespace.com/insect-farming-technology",
+    "pass": 3
+   },
+   {
+    "quote": "Factory Management System",
+    "url": "https://entocycle.squarespace.com/insect-farming-technology",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Generate diversified and predictable revenue streams with insect bioconversion.",
+    "url": "https://entocycle.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Nature’s Warrior on Waste",
+    "url": "https://entocycle.com/offtake-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Nature’s Warrior on Waste",
+    "url": "https://entocycle.com/about/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "Romain likes to spot important startups before anyone else. He was the first person to cover Revolut, Alan and N26. He has written scoops on large acquisitions from Apple, Microsoft and Snap.",
+    "url": "https://techcrunch.com/2023/01/31/entocycle-grabs-5-million-for-its-insect-breeding-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Get in touch to learn more about how to start turning your business’s food waste into a new revenue stream.",
+    "url": "https://entocycle.squarespace.com/feedstock-trials",
+    "pass": 3
+   },
+   {
+    "quote": "Entocycle's investors include Yoann Berno, Climate Insiders, Conexo Ventures, FJ Labs, Gabriel Jarrosson, George Wallner, Will Graylin, Antoine Brizard, Antoine Dupont, James Haskell, Nikola Karabatic, ACE & Company.",
+    "url": "https://startupintros.com/orgs/entocycle",
+    "pass": 3
+   },
+   {
+    "quote": "Number of employees: 11-50",
+    "url": "https://note.com/mushizukan_note/n/n9e696f7ecec6?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Entocycle | Insect Farming Technology — We're Entocycle, your trusted partner for successful insect farming. We plan, design and build modular insect farms that transform food waste into a local, low-carbon protein and an organic fertiliser to grow more plants.",
+    "url": "https://entocycle.com/",
+    "pass": 3
+   },
+   {
+    "quote": "生ごみを食べる虫が「工場設備」になる!? Entocycleの昆虫ビジネス — Sep 18, 2026 · Entocycleは虫の食欲を安定稼働する設備へ変え、生物現象を金融機関や事業会社が検討できる投資案件へ翻訳しています。 この事例から学べるのは、自然の働きを発見するだけでは事業にならないということです。",
+    "url": "https://note.com/tgp4solobiz/n/n6bebd4278fa7",
+    "pass": 3
+   },
+   {
+    "quote": "ビューラーとEntocycle社が提携し、昆虫養殖場にエンド・ツー・エンド... — 今回の提携により、ビューラーとEntocycleは、昆虫施設を建設する企業の市場投入までの時間を大幅に短縮する拡張性のあるエンド・ツー・エンドのソリューションを提供することで、この課題に対処する。",
+    "url": "https://www.buhlergroup.com/global/ja/media/media-releases/buehler_and_entocyclepartnertodeliverend-to-endtechnologysolutio.html",
+    "pass": 3
+   },
+   {
+    "quote": "Project Development — Entocycle | Insect Farming Technology — With our network of poultry, aquaculture, pet food and fertiliser companies, Entocycle unlocks routes to market for the farms outputs, lowering commercial risk. An industry standard contract framework for engineering, procurement, construction and ongoing management.",
+    "url": "https://entocycle.com/project-development",
+    "pass": 3
+   },
+   {
+    "quote": "Entocycleについて 【昆虫少年のための会社図鑑】 — Apr 22, 2025 · 日本では類似する取り組みをしている会社としてMUSCAが思い浮かびます。 この会社についても将来的にリサーチをしてみたいと思っています。 昆虫養殖という手段で、社会を良くしていくという関わり方があることを知っていただけたら嬉しいです。",
+    "url": "https://note.com/mushizukan_note/n/n9e696f7ecec6",
+    "pass": 3
+   },
+   {
+    "quote": "About Entocycle | Insect Farming & Sustainable Protein ...Entocycle | Insect Farming TechnologyIndustrial modular insect farming technology — Entocycle ...Entocycle - LinkedInEntocycle grabs $5 million for its insect breeding technologyEntocycle: Y Combinator-Backed Insect Farm Startup Raises $5 ...Entocycle 2026 Company Profile: Valuation, Funding ... — At Entocycle, we exist to harness the natur",
+    "url": "https://entocycle.com/about/who-we-are",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial modular insect farming technology — Entocycle ... — Entocycle plan, design and build industrial-scale insect farms worldwide. Our complete black soldier fly (BSF) farm solution transforms local organic waste into a reliable supply of low-carbon insect protein and organic fertiliser, turning waste-to-value.",
+    "url": "https://entocycle.squarespace.com/insect-farming-technology",
+    "pass": 3
+   },
+   {
+    "quote": "Entocycle grabs $5 million for its insect breeding technology — Jan 31, 2023 · And this is key to understanding the appeal behind Entocycle. Switching to insect-based proteins could drive down soybean production and imports, as well as deforestation — indirectly.",
+    "url": "https://techcrunch.com/2023/01/31/entocycle-grabs-5-million-for-its-insect-breeding-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Entocycle: Y Combinator-Backed Insect Farm Startup Raises $5 ... — Jan 31, 2023 · The company is targeting Europe, east and South Africa, Singapore, Japan, and Korea. It has a current headcount of 21 and plans to grow that to up to 50 by the end of 2023.",
+    "url": "https://www.businessinsider.com/entocycle-insect-farming-startup-5-million-pitch-deck-2023-1",
+    "pass": 3
+   },
+   {
+    "quote": "BSF Case Studies: Proven Insect Farming ... - Entocycle — Explore Entocycle’s BSF case studies. From the University of Leeds to EnviroFlight, see how our modular technology and precision dosing are scaling insect farming.",
+    "url": "https://entocycle.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "LAC Conveyors - Entocycle Case Study - YouTubeBSF Case Studies: Proven Insect Farming Technology ... - LinkedInValorise waste with insect bioconversion — Entocycle | Insect ...Entocycle | Case Study | MotionTech SolutionsIndustrial modular insect farming technology — Entocycle ... — Jul 4, 2024 · Discover how Entocycle, the UK's leading insect technology company, revolutionised insect farming with",
+    "url": "https://www.youtube.com/watch?v=6-xToe4TSAY",
+    "pass": 3
+   },
+   {
+    "quote": "BSF Case Studies: Proven Insect Farming Technology ... - LinkedIn — At Entocycle, we manage the end-to-end process of developing industrial-scale insect farms.",
+    "url": "https://www.linkedin.com/posts/entocycle_bsf-case-studies-proven-insect-farming-technology-activity-7464957281143619585-iLec",
+    "pass": 3
+   },
+   {
+    "quote": "Valorise waste with insect bioconversion — Entocycle | Insect ... — Case Study Using insects to valorise waste and reduce costs Entocycle helped an innovative UK company determine the suitability of using its waste as a substrate to rear black soldier fly larvae (BSFL).",
+    "url": "https://entocycle.squarespace.com/feedstock-trials",
+    "pass": 3
+   },
+   {
+    "quote": "Entocycle | Case Study | MotionTech Solutions — The bespoke design and installation of the MotionTech conveyor and robotic solution has provided Entocycle with a fully automated system to showcase their unique offering in the world of insect farming.",
+    "url": "https://www.motiontech.co.uk/entocycle",
+    "pass": 3
+   },
+   {
+    "quote": "Entocycle 2026 Company Profile: Valuation, Funding ...Entocycle: Revenue, Worth, Valuation & Competitors 2024Entocycle: Funding, Team & Investors | Startup IntrosENTOCYCLE Information - RocketReachEntocycle - Overview, News & Similar companies | ZoomInfo.comEntocycle: Funding, Investors & Team (Oct 2026) | FundedIQEntocycle — Company Profile & Funding | Indexed.vc — Information on valuation, fundi",
+    "url": "https://pitchbook.com/profiles/company/178976-44",
+    "pass": 3
+   },
+   {
+    "quote": "Entocycle: Revenue, Worth, Valuation & Competitors 2024 — Entocycle is a Biotech related company founded in 2015 and based in London with an estimated revenue of $7.4M, and 48 employees. It has 10 competitors including Dermavant Sciences, Metrum Research Group and Clovis Oncology.",
+    "url": "https://compworth.com/company/entocycle",
+    "pass": 3
+   },
+   {
+    "quote": "Entocycle: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · The enterprise has raised $16 million in total funding to date, including a $5 million Series A round backed by institutional investors such as Y Combinator, Climentum Capital, Lowercarbon Capital, and ACE & Company. Entocycle was founded in 2015 by Keiran Olivares Whitaker.",
+    "url": "https://startupintros.com/orgs/entocycle",
+    "pass": 3
+   },
+   {
+    "quote": "ENTOCYCLE Information - RocketReachEntocycle - Overview, News & Similar companies | ZoomInfo.comEntocycle: Funding, Investors & Team (Oct 2026) | FundedIQEntocycle — Company Profile & Funding | Indexed.vc — ENTOCYCLE is a Biotechnology, Animals & Livestock, and Agriculture company located in London, England with $13.2 million in revenue and 19 employees. Find top employees, contact details and bus",
+    "url": "https://rocketreach.co/entocycle-profile_b45d0ec3fc6cf1b9",
+    "pass": 3
+   },
+   {
+    "quote": "Entocycle - Overview, News & Similar companies | ZoomInfo.com — Jan 23, 2023 · Entocycle, a London, UK-based insect farming tech company, raised €5M in Series A funding.",
+    "url": "https://www.zoominfo.com/c/entocycle-ltd/466796953",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Can insects that eat food waste become 'factory equipment ... Entocycle, based in London, UK, designs insect factories that raise black soldier fly larvae to eat food waste and produce protein, oil, and fertilizer for animal feed. What they are selling is not the insects themselves, but a complete factory system that transforms waste into multiple products.",
+    "url": "https://note.com/tgp4solobiz/n/n6bebd4278fa7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "About Entocycle [Company Guide for Insect-Loving Boys] Apr 22, 2025 · Entocycle is a world-leading company in the field of insect farming technology. Entocycle's insect farming technology contributes first and foremost to sustainable protein production.",
+    "url": "https://note.com/mushizukan_note/n/n9e696f7ecec6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Entocycleについて 【昆虫少年のための会社図鑑】 Apr 22, 2025 · Insect farming technology developer, Entocycle, has secured an additional $2.6m in funding to support its growth plans across Europe and beyond. Entocycle secures $5m Series A to license tech solutions for insect farms worldwide",
+    "url": "https://note.com/mushizukan_note/n/n9e696f7ecec6",
+    "pass": 3
+   },
+   {
+    "quote": "生ごみを食べる虫が「工場設備」になる!? Entocycleの昆虫ビジネス｜... Sep 18, 2026 · 英国ロンドンのEntocycleは食品廃棄物を食べるアメリカミズアブの幼虫を育て、動物飼料用のタンパク質や油、肥料を生み出す昆虫工場を設計しています。 売っているのは虫ではなく、廃棄物を複数の商品へ変える工場一式なのでございます。",
+    "url": "https://note.com/tgp4solobiz/n/n6bebd4278fa7",
+    "pass": 3
+   },
+   {
+    "quote": "Entocycleについて 【昆虫少年のための会社図鑑】 Apr 22, 2025 · 公式HPより 社長について Keiran Olivares Whitaker氏が、EntocycleのCEOです。 学生時代には、廃棄物を建材として再利用するデザインコンペで最優秀賞を受賞し、これは昆虫養殖技術への発想の原点となったとされます。",
+    "url": "https://note.com/mushizukan_note/n/n9e696f7ecec6",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "生ごみを食べる虫が「工場設備」になる!? Entocycleの昆虫ビジネス｜ロボット執事の世界ビジネス通信",
+    "url": "https://note.com/tgp4solobiz/n/n6bebd4278fa7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "生ごみを食べる虫が「工場設備」になる!? Entocycleの昆虫ビジネス",
+    "url": "https://note.com/tgp4solobiz/n/n6bebd4278fa7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "ご主人様。本日は食欲そのものを産業設備にした会社をご紹介します。",
+    "url": "https://note.com/tgp4solobiz/n/n6bebd4278fa7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "英国ロンドンのEntocycleは食品廃棄物を食べるアメリカミズアブの幼虫を育て、動物飼料用のタンパク質や油、肥料を生み出す昆虫工場を設計しています。",
+    "url": "https://note.com/tgp4solobiz/n/n6bebd4278fa7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "売っているのは虫ではなく、廃棄物を複数の商品へ変える工場一式なのでございます。",
+    "url": "https://note.com/tgp4solobiz/n/n6bebd4278fa7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "アメリカミズアブの幼虫は果物や野菜の端材、ビール醸造後の穀物、パン工場の余剰などを食べます。",
+    "url": "https://note.com/tgp4solobiz/n/n6bebd4278fa7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Entocycleによると幼虫は10〜14日で十分な大きさになり、丸ごとペットフードへ使えるほか、加工して養殖魚や家禽向けのタンパク質と油にできます。",
+    "url": "https://note.com/tgp4solobiz/n/n6bebd4278fa7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "さらに排せつ物や飼育残渣はフラスと呼ばれる肥料になります。",
+    "url": "https://note.com/tgp4solobiz/n/n6bebd4278fa7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "About Entocycle [Company Guide for Insect-Loving Boys]｜もうひとつの昆虫図鑑",
+    "url": "https://note.com/mushizukan_note/n/n9e696f7ecec6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "About Entocycle [Company Guide for Insect-Loving Boys]",
+    "url": "https://note.com/mushizukan_note/n/n9e696f7ecec6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Hello. This time, I have compiled a page on a company called Entocycle for the \"Company Guide for Insect-Loving Boys.\"",
+    "url": "https://note.com/mushizukan_note/n/n9e696f7ecec6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The pure feeling of loving insects is something many people can empathize with, isn't it?",
+    "url": "https://note.com/mushizukan_note/n/n9e696f7ecec6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "However, how might that precious feeling potentially connect with society in the future? There is almost no information on that.",
+    "url": "https://note.com/mushizukan_note/n/n9e696f7ecec6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In fact, it is not just researchers and zookeepers; many companies and universities are focusing on the potential of insects. The \"Company Guide for Insect-Loving Boys\" is a corporate research series designed to help us all learn about such initiatives in the insect industry.",
+    "url": "https://note.com/mushizukan_note/n/n9e696f7ecec6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Inspiration Behind the Launch - Another Kind of Insect Guide",
+    "url": "https://note.com/mushizukan_note/n/n9e696f7ecec6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Company Overview | Entocycle",
+    "url": "https://note.com/mushizukan_note/n/n9e696f7ecec6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Entocycleについて 【昆虫少年のための会社図鑑】｜もうひとつの昆虫図鑑",
+    "url": "https://note.com/mushizukan_note/n/n9e696f7ecec6",
+    "pass": 3
+   },
+   {
+    "quote": "Entocycleについて 【昆虫少年のための会社図鑑】",
+    "url": "https://note.com/mushizukan_note/n/n9e696f7ecec6",
+    "pass": 3
+   },
+   {
+    "quote": "こんにちは。今回はEntocycleという企業を「昆虫少年のための会社図鑑」の1ページにまとめてみました。",
+    "url": "https://note.com/mushizukan_note/n/n9e696f7ecec6",
+    "pass": 3
+   },
+   {
+    "quote": "昆虫が好きという純粋な気持ちは、多くの人々にとって共感できるものではないでしょうか。",
+    "url": "https://note.com/mushizukan_note/n/n9e696f7ecec6",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、その大切な気持ちが、将来どのような形で社会と関わる可能性があるのか？ そんな情報はほとんどありません。",
+    "url": "https://note.com/mushizukan_note/n/n9e696f7ecec6",
+    "pass": 3
+   },
+   {
+    "quote": "実は、研究者や飼育員だけではなく、多くの企業や大学が昆虫の可能性に着目しています。『昆虫少年のための会社図鑑』は、そうした昆虫産業の取り組みを、皆様と共に知っていくための企業調査シリーズです。",
+    "url": "https://note.com/mushizukan_note/n/n9e696f7ecec6",
+    "pass": 3
+   },
+   {
+    "quote": "動物への給餌方法を革新することで、自然を回復する",
+    "url": "https://note.com/mushizukan_note/n/n9e696f7ecec6",
+    "pass": 3
+   },
+   {
+    "quote": "Entocycle（エントサイクル）は、昆虫養殖技術の分野で世界をリードする企業です。",
+    "url": "https://note.com/mushizukan_note/n/n9e696f7ecec6",
+    "pass": 3
+   },
+   {
+    "quote": "生ごみを食べる虫が「工場設備」になる!? Entocycleの昆虫ビジネス｜ロボット執事の世界ビジネス通信",
+    "url": "https://note.com/tgp4solobiz/n/n6bebd4278fa7",
+    "pass": 3
+   },
+   {
+    "quote": "生ごみを食べる虫が「工場設備」になる!? Entocycleの昆虫ビジネス",
+    "url": "https://note.com/tgp4solobiz/n/n6bebd4278fa7",
+    "pass": 3
+   },
+   {
+    "quote": "ご主人様。本日は食欲そのものを産業設備にした会社をご紹介します。",
+    "url": "https://note.com/tgp4solobiz/n/n6bebd4278fa7",
+    "pass": 3
+   },
+   {
+    "quote": "英国ロンドンのEntocycleは食品廃棄物を食べるアメリカミズアブの幼虫を育て、動物飼料用のタンパク質や油、肥料を生み出す昆虫工場を設計しています。",
+    "url": "https://note.com/tgp4solobiz/n/n6bebd4278fa7",
+    "pass": 3
+   },
+   {
+    "quote": "売っているのは虫ではなく、廃棄物を複数の商品へ変える工場一式なのでございます。",
+    "url": "https://note.com/tgp4solobiz/n/n6bebd4278fa7",
+    "pass": 3
+   },
+   {
+    "quote": "アメリカミズアブの幼虫は果物や野菜の端材、ビール醸造後の穀物、パン工場の余剰などを食べます。",
+    "url": "https://note.com/tgp4solobiz/n/n6bebd4278fa7",
+    "pass": 3
+   },
+   {
+    "quote": "Entocycleによると幼虫は10〜14日で十分な大きさになり、丸ごとペットフードへ使えるほか、加工して養殖魚や家禽向けのタンパク質と油にできます。",
+    "url": "https://note.com/tgp4solobiz/n/n6bebd4278fa7",
+    "pass": 3
+   },
+   {
+    "quote": "さらに排せつ物や飼育残渣はフラスと呼ばれる肥料になります。",
+    "url": "https://note.com/tgp4solobiz/n/n6bebd4278fa7",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "The more I hear about insect farming, the more it seems like a flawless business. In Japan, MUSCA comes to mind as a company engaged in similar efforts. I would like to research this company in the future as well.",
+    "url": "https://note.com/mushizukan_note/n/n9e696f7ecec6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "日本では類似する取り組みをしている会社としてMUSCAが思い浮かびます",
+    "url": "https://note.com/mushizukan_note/n/n9e696f7ecec6",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "#London-based @ENTOCYCLE, one of our Mayor's International ... #London-based @ENTOCYCLE, one of our Mayor's International Business Programme companies, have raised £4m in funding 🙌 to further develop data tacking systems to support the insect-farming industry.",
+    "url": "https://x.com/growldnbusiness/status/1620813475491487745",
+    "pass": 3
+   },
+   {
+    "quote": "Sakina Raj (@sakina_raj) / Posts / X Entocycle, the British agricultural service, is reportedly planning to secure another $5 million in a Series A funding round led by the European climate venture capital firm, Climentum Capital....",
+    "url": "https://x.com/sakina_raj",
+    "pass": 3
+   },
+   {
+    "quote": "Siina Laurinsilta (@SLaurinsilta) / X Entocycle is building a new facility for breeding insects with ISCF funding. The factory outside of London will enable them to process 33 000 tonnes of food waste per year.",
+    "url": "https://x.com/SLaurinsilta",
+    "pass": 3
+   },
+   {
+    "quote": "The Good Kitchen (@_GoodKitchen) / Posts / X Entocycle is hiring! We have 4 great roles available now, with more coming soon. More info here: entocycle.recruiterbox.com/jobs/fk0flbz",
+    "url": "https://x.com/_GoodKitchen",
+    "pass": 3
+   },
+   {
+    "quote": "@entocycle | X The latest posts from @entocycle",
+    "url": "https://x.com/entocycle",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Entocycle - LinkedIn Entocycle Biotechnology London, England 9,276 followers A world-leading provider of insect farms and insect farming technology. About us",
+    "url": "https://www.linkedin.com/company/entocycle/",
+    "pass": 3
+   },
+   {
+    "quote": "Jonathan Smith - Accelerating a global transition to ...Keiran Olivares Whitaker - Entocycle Founder Accelerating ...Investable Waste-to-Value Insect Farming Projects — Entocycle ...#welcometotheteam | Entocycle | 11 comments - LinkedInJames Millar - National Alternative Protein Innovation Centre ...Paul Hillmann - ENTOCYCLE | LinkedIn · Experience: Entocycle · Location: London · 500+ connections ",
+    "url": "https://uk.linkedin.com/in/jonathan-smith-53ab45217",
+    "pass": 3
+   },
+   {
+    "quote": "Keiran Olivares Whitaker - Entocycle Founder Accelerating ...Investable Waste-to-Value Insect Farming Projects — Entocycle ...#welcometotheteam | Entocycle | 11 comments - LinkedInJames Millar - National Alternative Protein Innovation Centre ...Paul Hillmann - ENTOCYCLE | LinkedIn We’re Entocycle, the insect technology company. We launched in 2017 with a mission to accelerate a global shift to sus",
+    "url": "https://uk.linkedin.com/in/keiran-olivares-whitaker",
+    "pass": 3
+   },
+   {
+    "quote": "Investable Waste-to-Value Insect Farming Projects — Entocycle ... Built upon a decade of research and development, Entocycle's world-class team of engineers, entomologists and market experts work in close collaboration to build biologically and commercially ...",
+    "url": "https://www.linkedin.com/posts/entocycle_investable-waste-to-value-insect-farming-activity-7525487473297203200-xyDu",
+    "pass": 3
+   },
+   {
+    "quote": "Jonathan Smith - Accelerating a global transition to ...Revolutionizing the way we feed animals: an interview with ...James Millar - National Alternative Protein Innovation Centre ...ENTOCYCLE Management Team | Org Chart - RocketReach · Experience: Entocycle · Location: London · 500+ connections on LinkedIn. View Jonathan Smith’s profile on LinkedIn, a professional community of 1 billion members. ",
+    "url": "https://uk.linkedin.com/in/jonathan-smith-53ab45217",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "EU-Startups - London-based ENTOCYCLE has raised €4.6 ... Jan 31, 2023 · London-based ENTOCYCLE has raised €4.6 million for its tech solutions advancing the future of insect proteins for a more sustainable world 🐜🚀 The...",
+    "url": "https://www.facebook.com/EUStartups/posts/london-based-entocycle-has-raised-46-million-for-its-tech-solutions-advancing-th/552868293534451/",
+    "pass": 3
+   },
+   {
+    "quote": "What is Entocycle? | Keiran Whitaker is the founder of the ... Oct 2, 2018 · What is Entocycle? | Keiran Whitaker is the founder of the world's first fully automated insect production factory. Entocycle Y Combinator | By Disruptive Innovation Festival - DIFFacebook",
+    "url": "https://www.facebook.com/disruptiveinnovationfestival/videos/what-is-entocycle/1904684312913809/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://entocycle.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://entocycle.com/offtake-partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://entocycle.com/waste-and-feedstock",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://entocycle.com/turnkey-solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://entocycle.com/about/who-we-are",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://entocycle.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://entocycle.com/about/who-we-are",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://entocycle.com/case-studies/the-royal-botanic-garden-edinburgh",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://entocycle.com/case-studies/the-centre-for-insect-technology",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://entocycle.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://entocycle.com/press-releases/siemens-partners-with-entocycle-to-digitalise-insect-farming-industry",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://images.squarespace-cdn.com/content/v1/635a8ce13daff54c9f1b0e76/a28abc2b-9933-4122-bf5a-a6a3510256ee/DSC_0100.JPG",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://note.com/tgp4solobiz/n/n6bebd4278fa7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.buhlergroup.com/global/ja/media/media-releases/buehler_and_entocyclepartnertodeliverend-to-endtechnologysolutio.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://entocycle.squarespace.com/insect-farming-technology",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techcrunch.com/2023/01/31/entocycle-grabs-5-million-for-its-insect-breeding-technology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=6-xToe4TSAY",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/entocycle_bsf-case-studies-proven-insect-farming-technology-activity-7464957281143619585-iLec",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://entocycle.squarespace.com/feedstock-trials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partnerportal.fortinet.com/English/?ReturnUrl=%2FEnglish%2FNAReseller%2Fhome.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/178976-44",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/entocycle",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/entocycle",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rocketreach.co/entocycle-profile_b45d0ec3fc6cf1b9",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tgp4solobiz/n/n6bebd4278fa7?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mushizukan_note/n/n9e696f7ecec6?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mushizukan_note/n/n9e696f7ecec6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tgp4solobiz/n/n6bebd4278fa7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/growldnbusiness/status/1620813475491487745",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sakina_raj",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SLaurinsilta",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/_GoodKitchen",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/entocycle/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/jonathan-smith-53ab45217",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/keiran-olivares-whitaker",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/entocycle_investable-waste-to-value-insect-farming-activity-7525487473297203200-xyDu",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/EUStartups/posts/london-based-entocycle-has-raised-46-million-for-its-tech-solutions-advancing-th/552868293534451/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/disruptiveinnovationfestival/videos/what-is-entocycle/1904684312913809/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/mushizukan_note/n/n9e696f7ecec6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uk.linkedin.com/in/jonathan-smith-53ab45217",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/entocycle",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Entocycle 日本 導入",
+   "results": [
+    "https://entocycle.com/",
+    "https://note.com/tgp4solobiz/n/n6bebd4278fa7",
+    "https://www.buhlergroup.com/global/ja/media/media-releases/buehler_and_entocyclepartnertodeliverend-to-endtechnologysolutio.html",
+    "https://entocycle.com/project-development",
+    "https://note.com/mushizukan_note/n/n9e696f7ecec6",
+    "https://www.firstcvc.jp/global/entocycle.com",
+    "https://jp.weforum.org/stories/nature-and-biodiversity/breeding-insects-to-fight-food-waste-entocycle-london"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Entocycle 代理店 OR 総代理店 OR 日本法人",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Entocycle Japan",
+   "results": [
+    "https://entocycle.com/about/who-we-are",
+    "https://entocycle.com/",
+    "https://entocycle.squarespace.com/insect-farming-technology",
+    "https://techcrunch.com/2023/01/31/entocycle-grabs-5-million-for-its-insect-breeding-technology/",
+    "https://www.businessinsider.com/entocycle-insect-farming-startup-5-million-pitch-deck-2023-1",
+    "https://pitchbook.com/profiles/company/178976-44",
+    "https://www.linkedin.com/company/entocycle/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Entocycle manufacturing customer case study",
+   "results": [
+    "https://entocycle.com/case-studies",
+    "https://www.youtube.com/watch?v=6-xToe4TSAY",
+    "https://www.linkedin.com/posts/entocycle_bsf-case-studies-proven-insect-farming-technology-activity-7464957281143619585-iLec",
+    "https://entocycle.squarespace.com/feedstock-trials",
+    "https://www.motiontech.co.uk/entocycle",
+    "https://entocycle.squarespace.com/insect-farming-technology",
+    "https://entocycle.com/case-studies/the-centre-for-insect-technology"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Entocycle white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://partners.spectrum.com/",
+    "https://upcloud.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Entocycle founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/178976-44",
+    "https://compworth.com/company/entocycle",
+    "https://startupintros.com/orgs/entocycle",
+    "https://rocketreach.co/entocycle-profile_b45d0ec3fc6cf1b9",
+    "https://www.zoominfo.com/c/entocycle-ltd/466796953",
+    "https://fundediq.co/entocycle-entocycle-com-funding/",
+    "https://indexed.vc/companies/entocycle"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Entocycle",
+   "results": [
+    "https://note.com/tgp4solobiz/n/n6bebd4278fa7?hl=en",
+    "https://note.com/mushizukan_note/n/n9e696f7ecec6?hl=en",
+    "https://note.com/mushizukan_note/n/n9e696f7ecec6",
+    "https://note.com/tgp4solobiz/n/n6bebd4278fa7",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/geochan/n/nef264287f355?hl=en",
+    "https://note.com/geochan/n/nef264287f355"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Entocycle",
+   "results": [
+    "https://x.com/growldnbusiness/status/1620813475491487745",
+    "https://x.com/sakina_raj",
+    "https://x.com/SLaurinsilta",
+    "https://x.com/_GoodKitchen",
+    "https://x.com/IfanMHuws",
+    "https://x.com/johannes_wick",
+    "https://x.com/NoahFentys/status/2118178286157140113"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Entocycle",
+   "results": [
+    "https://www.linkedin.com/company/entocycle/",
+    "https://uk.linkedin.com/in/jonathan-smith-53ab45217",
+    "https://uk.linkedin.com/in/keiran-olivares-whitaker",
+    "https://www.linkedin.com/posts/entocycle_investable-waste-to-value-insect-farming-activity-7525487473297203200-xyDu",
+    "https://www.linkedin.com/posts/entocycle_welcometotheteam-activity-7239995755002826752-td6y",
+    "https://uk.linkedin.com/in/paul-hillmann-73a91494",
+    "https://uk.linkedin.com/in/jamesmillaruk"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Entocycle",
+   "results": [
+    "https://www.facebook.com/EUStartups/posts/london-based-entocycle-has-raised-46-million-for-its-tech-solutions-advancing-th/552868293534451/",
+    "https://secure.facebook.com/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/disruptiveinnovationfestival/videos/what-is-entocycle/1904684312913809/",
+    "https://www.facebook.com/EllenMacArthurFoundation/videos/301790493972669/",
+    "https://www.facebook.com/AlltechNaturally/videos/planet-of-plenty-entocycle/480553379213077/",
+    "https://www.facebook.com/Reuters/videos/uk-insect-farm-hatches-plan-for-greener-animal-feed-news/746966027529210/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Entocycle note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.com/mushizukan_note/n/n9e696f7ecec6",
+    "https://entocycle.com/about/who-we-are",
+    "https://uk.linkedin.com/in/jonathan-smith-53ab45217",
+    "https://rocketreach.co/entocycle-management_b45d0ec3fc6cf1b9",
+    "https://climentum.com/insights/revolutionizing-the-way-we-feed-animals-an-interview-with-keiran-whitaker-founder-and-ceo-entocycle",
+    "https://uk.linkedin.com/in/jamesmillaruk"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Entocycle X 投稿",
+   "results": [
+    "https://x.com/entocycle",
+    "https://entocycle.com/",
+    "https://entocycle.squarespace.com/insights/press-room",
+    "https://www.instagram.com/entocycle/",
+    "https://entocycle.com/contact",
+    "https://www.instagram.com/p/DcQadIoAs9E/",
+    "https://entocycle.squarespace.com/blogs"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式11頁／PDF・画像1件／外部32頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式11頁／PDF・画像1件／外部32頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式11頁／PDF・画像1件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式11頁／PDF・画像1件／外部32頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式11頁／PDF・画像1件／外部32頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式11頁／PDF・画像1件／外部32頁・検索12回）"
+ }
+}

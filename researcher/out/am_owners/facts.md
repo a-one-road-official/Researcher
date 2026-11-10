@@ -1,4 +1,4 @@
-# 日本の金属AM（PBF）装置の保有者（会社・研究機関）— 保有装置・方式・台数・資本金・創業年度・株主構成（事実のみ・169社）
+# 日本の金属AM（PBF）装置の保有者（会社・研究機関）— 保有装置・方式・台数・資本金・創業年度・株主構成（事実のみ・171社）
 
 ## A2X株式会社
 - 公式URL：https://www.a2xaccounting.com/（search:yahoo_jp:A2X）
@@ -3029,6 +3029,61 @@
 - 株主：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部20頁・検索12回）
 - 所在地：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部20頁・検索12回）
 - 保有設備：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部20頁・検索12回）
+
+## 奈良工業高等専門学校
+- 公式URL：https://www.nara-k.ac.jp/（search:yahoo_jp:奈良工業高等専門学校）
+- 事業内容：酸素・窒素・アルゴン等各種産業ガス、LP ガス、医療用ガス、特殊ガスの製造・販売及び溶（https://nsc.jp.nipponsanso.com/LinkClick.aspx?fileticket=bwjbqlrR9fw%3D・3回目）
+- 事業内容：高等専門学校・高等教育機関（https://nsc.jp.nipponsanso.com/LinkClick.aspx?fileticket=bwjbqlrR9fw%3D・3回目）
+- 創業年度：設立：1964年4月1日（https://www.marubeni-idigio.com/insight-hub/narakousen-studiosystem2/・3回目）
+- 売上高：4,204 億円※（https://nsc.jp.nipponsanso.com/LinkClick.aspx?fileticket=bwjbqlrR9fw%3D・3回目）
+- 金属AM装置の保有（型番・製造元・台数・導入年）：
+  - 「ティブマニュファクチャリング（以下、金属ＡＭ）分野において、自社で保有する溶接プロセ」（https://nsc.jp.nipponsanso.com/LinkClick.aspx?fileticket=bwjbqlrR9fw%3D・3回目）
+  - 「ンター Conflux1 を奈良高専に導入しました」（https://nsc.jp.nipponsanso.com/LinkClick.aspx?fileticket=bwjbqlrR9fw%3D・3回目）
+  - 「今回導入したConflux1 は金属の小型部品を１日で造形」（https://nsc.jp.nipponsanso.com/LinkClick.aspx?fileticket=bwjbqlrR9fw%3D・3回目）
+  - 「導入した３Ｄプリンター」（https://nsc.jp.nipponsanso.com/LinkClick.aspx?fileticket=bwjbqlrR9fw%3D・3回目）
+  - 「○ 基幹的科目についての学力等の調査方法の検討・導入状況 15」（https://www.kosen-k.go.jp/assets/pdf/release/225/H18jigyohokokusho1.pdf・3回目）
+  - 「○ 卒業生を含めた学生による授業評価・学校評価の方法の開発の検討・導入状況 16」（https://www.kosen-k.go.jp/assets/pdf/release/225/H18jigyohokokusho1.pdf・3回目）
+  - 「○ 人事交流制度等の検討・導入状況 22」（https://www.kosen-k.go.jp/assets/pdf/release/225/H18jigyohokokusho1.pdf・3回目）
+  - 「は全高専の人事給与業務を一元化するための、新人事給与システムの導入作業を開始、１２月から」（https://www.kosen-k.go.jp/assets/pdf/release/225/H18jigyohokokusho1.pdf・3回目）
+  - 「導入し、教職員の能力向上による業務の効率を高めることとしている」（https://www.kosen-k.go.jp/assets/pdf/release/225/H18jigyohokokusho1.pdf・3回目）
+  - 「部委託方式を導入することとし、旅費規則の改正を前提に平成２０年度当初を目途に実施す」（https://www.kosen-k.go.jp/assets/pdf/release/225/H18jigyohokokusho1.pdf・3回目）
+  - 「立てるために、学力や実技能力の 調査方法を検討し、その導入を図る」（https://www.kosen-k.go.jp/assets/pdf/release/225/H18jigyohokokusho1.pdf・3回目）
+  - 「④ 卒業生を含めた学生による適切な授業評価・学校評価の方法の開発について検討し、その導入を図る」（https://www.kosen-k.go.jp/assets/pdf/release/225/H18jigyohokokusho1.pdf・3回目）
+- 用途・客の産業：
+  - 「奈良県主催 環境にやさしいエネルギー学習イベントに山田研究室が参加しました」（https://www.nara-k.ac.jp/cooperation/sangaku/news/post_344.html・1回目）
+  - 「奈良県主催『脱炭素を実現する夢の水素エネルギー』イベントに山田ラボが参加しました」（https://www.nara-k.ac.jp/cooperation/sangaku/news/post_344.html・1回目）
+  - 「奈良県主催『脱炭素を実現する夢の水素エネルギー』イベントに山田ラボ参加！」（https://www.nara-k.ac.jp/cooperation/sangaku/news/post_344.html・1回目）
+  - 「『脱炭素を実現する夢の水素エネルギー』イベントで科学教室を実施しました」（https://www.nara-k.ac.jp/cooperation/sangaku/news/post_344.html・1回目）
+  - 「未来の科学者・技術者たちへ エネルギー教室を開講！」（https://www.nara-k.ac.jp/cooperation/sangaku/news/post_344.html・1回目）
+  - 「『医療現場に必要な工学の知識と技術、そして考え方』と題し、特別講演会が行われました」（https://www.nara-k.ac.jp/cooperation/sangaku/news/post_344.html・1回目）
+  - 「GEAR奈良高専メンバーが学生と「次世代エネルギー（水素）啓発活動」で参加！！」（https://www.nara-k.ac.jp/cooperation/sangaku/news/post_344.html・1回目）
+  - 「奈良県主催 環境にやさしいエネルギー学習イベントに山田研究室が参加しました」（https://www.nara-k.ac.jp/cooperation/innovation/info/・1回目）
+  - 「奈良県主催『脱炭素を実現する夢の水素エネルギー』イベントに山田ラボが参加しました」（https://www.nara-k.ac.jp/cooperation/innovation/info/・1回目）
+  - 「奈良県主催『脱炭素を実現する夢の水素エネルギー』イベントに山田ラボ参加！」（https://www.nara-k.ac.jp/cooperation/innovation/info/・1回目）
+  - 「『脱炭素を実現する夢の水素エネルギー』イベントで科学教室を実施しました」（https://www.nara-k.ac.jp/cooperation/innovation/info/・1回目）
+  - 「未来の科学者・技術者たちへ エネルギー教室を開講！」（https://www.nara-k.ac.jp/cooperation/innovation/info/・1回目）
+- 資本金・株主：
+  - 「株 主：日本酸素ホールディングス株式会社（出資比率100％）」（https://nsc.jp.nipponsanso.com/LinkClick.aspx?fileticket=bwjbqlrR9fw%3D・3回目）
+  - 「４．資本金の状況 2」（https://www.kosen-k.go.jp/assets/pdf/release/225/H18jigyohokokusho1.pdf・3回目）
+  - 「４．資本金の状況」（https://www.kosen-k.go.jp/assets/pdf/release/225/H18jigyohokokusho1.pdf・3回目）
+  - 「資本金 ２，７８６億円 （平成１９年４月現在）」（https://www.kosen-k.go.jp/assets/pdf/release/225/H18jigyohokokusho1.pdf・3回目）
+  - 「程（646 名）で，一部上場・地元企業や大学・高専等各」（https://www.niad.ac.jp/sub_hyouka/ninsyou/hyoukahou201403/kousen/no6_1_3_nara_k201403.pdf・3回目）
+- 検索結果の抜粋：
+  - 「奈良工業高等専門学校 — 奈良工業高等専門学校 奈良工業高等専門学校 https://www.nara-k.ac.jp」（https://www.nara-k.ac.jp/・3回目）
+  - 「奈良工業高等専門学校 アーカイブ - 月刊高専 — 奈良工業高等専門学校 アーカイブ - 月刊高専 月刊高専 https://gekkan-kosen.com > 奈良工業高等専門学校」（https://gekkan-kosen.com/post-kosen/%E5%A5%88%E8%89%AF%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1/・3回目）
+  - 「設備一覧｜ 奈良工業高等専門学校 — 設備一覧｜ 奈良工業高等専門学校 奈良工業高等専門学校 https://www.nara-k.ac.jp > venture_factory > equipments」（https://www.nara-k.ac.jp/institution/venture_factory/equipments/・3回目）
+  - 「奈良工業高等専門学校 - SolidWorks — 奈良工業高等専門学校 - SolidWorks SolidWorks https://www.solidworks.com > ... > SOLIDWORKS」（https://www.solidworks.com/ja/story/Narakousen・3回目）
+  - 「設備 一覧｜ 奈良工業高等専門学校 — 設備 一覧｜ 奈良工業高等専門学校 奈良工業高等専門学校 https://www.nara-k.ac.jp > venture_factory > equipments」（https://www.nara-k.ac.jp/institution/venture_factory/equipments/・3回目）
+  - 「奈良工業高等専門学校 の方々にご訪問いただきました — 奈良工業高等専門学校 の方々にご訪問いただきました 中外炉工業株式会社 https://www.chugai.co.jp > ...」（https://www.chugai.co.jp/8878/・3回目）
+  - 「奈良工業高等専門学校 共通機器管理センター — 奈良工業高等専門学校 共通機器管理センター nit-nara-ia-center.share-ac.jp https://www.nit-nara-ia-center.share-ac.jp > facilities > detail」（https://www.nit-nara-ia-center.share-ac.jp/facilities/detail.php?id=4・3回目）
+  - 「奈良工業高等専門学校 - Wikipedia — 奈良工業高等専門学校 - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 奈良工業高等専門学校」（https://ja.wikipedia.org/wiki/%E5%A5%88%E8%89%AF%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1・3回目）
+  - 「奈良工業高等専門学校 — 奈良工業高等専門学校 niad.ac.jp PDF https://www.niad.ac.jp > no6_1_3_nara_k201403」（https://www.niad.ac.jp/sub_hyouka/ninsyou/hyoukahou201403/kousen/no6_1_3_nara_k201403.pdf・3回目）
+- 資本金：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部21頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部21頁・検索12回）
+- 株主：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部21頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部21頁・検索12回）
+- 保有設備：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部21頁・検索12回）
+- 使っている金属粉（材質）：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部21頁・検索12回）
 
 ## 実装研究センター
 - 公式URL：https://crants.opric.gunma-u.ac.jp/（search:yahoo_jp:株式会社実装研究センター）
@@ -7752,6 +7807,21 @@
 - 売上高：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部13頁・検索12回）
 - 株主：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部13頁・検索12回）
 - 保有設備：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部13頁・検索12回）
+
+## 株式会社様
+- 公式URL：特定できず（not_found）
+- 事業内容：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索11回）
+- 資本金：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索11回）
+- 創業年度：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索11回）
+- 従業員数：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索11回）
+- 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索11回）
+- 株主：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索11回）
+- 所在地：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索11回）
+- 保有設備：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索11回）
+- 金属AM装置の保有（型番・製造元・台数・導入年）：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索11回）
+- 使っている金属粉（材質）：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索11回）
+- 用途・客の産業：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索11回）
+- 資本金・株主：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索11回）
 
 ## 株式会社立花エレテック
 - 公式URL：https://www.tachibana.co.jp/（search:yahoo_jp:立花エレテック）

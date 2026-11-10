@@ -1,0 +1,821 @@
+{
+ "name": "Amenli",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AUMS不適合",
+ "researched_at": "2026-11-10T22:20:36.384681+00:00",
+ "official_url": "https://www.amenli.com/",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$12,000",
+    "url": "https://prospeo.io/c/amenli-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$4,300,000",
+    "url": "https://prospeo.io/c/amenli-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Qesm Misr El Qadimah, Cairo, Egypt",
+    "url": "https://prospeo.io/c/amenli-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2020",
+    "url": "https://prospeo.io/c/amenli-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Keep your business protected",
+    "url": "https://www.amenli.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We make it easier to choose, manage and use your insurance without worrying about the fine print.",
+    "url": "https://www.amenli.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From documents to follow-ups, Amenli helps you through the claims process step by step",
+    "url": "https://www.amenli.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Compare plans from trusted insurance providers",
+    "url": "https://www.amenli.com/",
+    "pass": 1
+   },
+   {
+    "quote": "This website is approved since July 2019 as of 13/12/2020",
+    "url": "https://qe.amenli.com/",
+    "pass": 3
+   },
+   {
+    "quote": "If you have a problem with our services, you have the right to escalate it to the FRA",
+    "url": "https://qe.amenli.com/",
+    "pass": 3
+   },
+   {
+    "quote": "This website is approved since July 2019 as of 13/12/2020",
+    "url": "https://qe.amenli.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "If you have a problem with our services, you have the right to escalate it to the FRA",
+    "url": "https://qe.amenli.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "Institutional entrepreneurship",
+    "url": "https://research.em-lyon.com/esploro/outputs/casestudy/Amenli-Insurtech-Start-up-From-Constraint-to/9967976509453",
+    "pass": 3
+   },
+   {
+    "quote": "Department of Innovation & Entrepreneurship; STORM - Strategy and Organization; I2E - Institute for Impactful Innovation & Entrepreneurship; InvEnt - Entrepreneurship and Innovation; Department of Strategy & Organization",
+    "url": "https://research.em-lyon.com/esploro/outputs/casestudy/Amenli-Insurtech-Start-up-From-Constraint-to/9967976509453",
+    "pass": 3
+   },
+   {
+    "quote": "Head Of Product Marketing",
+    "url": "https://prospeo.io/c/amenli-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View contact profiles from",
+    "url": "https://prospeo.io/c/amenli-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Georgia Supreme Court",
+    "url": "https://prospeo.io/c/amenli-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Amenli has approximately",
+    "url": "https://prospeo.io/c/amenli-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/amenli-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/amenli-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Get Targeted Leads for free",
+    "url": "https://prospeo.io/c/amenli-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Amenli Company Profile and Key Stats",
+    "url": "https://fundediq.co/amenli-amenli-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Premium Card is a zero-interest, bank-free installment card service.",
+    "url": "https://fundediq.co/amenli-amenli-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "HealthFlow is a pioneering Health InsurTech business designed to alter the private healthcare insurance…",
+    "url": "https://fundediq.co/amenli-amenli-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Bedaya Mortgage Finance is Egypt’s first non-bank mortgage provider offering digital mortgage financing…",
+    "url": "https://fundediq.co/amenli-amenli-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "GlobalCorp provides a complete range of leasing, factoring, and non-banking financial services for corporate,…",
+    "url": "https://fundediq.co/amenli-amenli-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "INVIA provides insights, guides, and updates focused on financial management for small businesses and SMEs,…",
+    "url": "https://fundediq.co/amenli-amenli-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "NowPay is a FinTech company focusing on improving the financial-wellness of corporate employees. It enables…",
+    "url": "https://fundediq.co/amenli-amenli-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "oliv is a digital invoice finance company that serves small and medium-sized enterprises. Its service…",
+    "url": "https://fundediq.co/amenli-amenli-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Octane is a digital wallet designed for vehicles to simplify the process of making payments for all expenses…",
+    "url": "https://fundediq.co/amenli-amenli-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Thndr is a digital platform for investing that aims to make the investment process easier. Thndr provides…",
+    "url": "https://fundediq.co/amenli-amenli-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "FundedIQ tracks announced funding rounds and refreshes this profile every week. Round dates,",
+    "url": "https://fundediq.co/amenli-amenli-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Radar from $49/mo · Pro from $149/mo. Card required, nothing charged until",
+    "url": "https://fundediq.co/amenli-amenli-com-funding/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Amenli — Amenli ... Amenli",
+    "url": "https://www.amenli.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Amenli — Amenli Quotation Engine",
+    "url": "https://qe.amenli.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Amenli — Site map Motor Medical Home Business Contact 16887 info@amenli.com Address 77 Misr Helwan Agricultural Road, Maadi, Cairo, Egypt Open Sunday to Thursday This website is approved since July 2019 as of 13/12/2020 www.fra.gov.eg",
+    "url": "https://qe.amenli.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "Amen Li (@amenli) • Instagram photos and videosamenli.com Reviews | check if the site is a scam or legit ...Amenli - LinkedIn — See photos and videos from friends on Instagram, and discover other accounts you'll love. The review of amenli.com is positive. The positive trust score is based on an automated analysis of 40 different data sources we checked online such as the technology used, the locat",
+    "url": "https://www.instagram.com/amenli/",
+    "pass": 3
+   },
+   {
+    "quote": "amenli.com Reviews | check if the site is a scam or legit ... — The review of amenli.com is positive. The positive trust score is based on an automated analysis of 40 different data sources we checked online such as the technology used, the location of the company, other websites found on the same web server, etcetera.",
+    "url": "https://www.scamadviser.com/check-website/amenli.com",
+    "pass": 3
+   },
+   {
+    "quote": "Amenli Insurtech Start-up: From Constraint to Catalyst Case — Jun 17, 2026 · The case explores themes of entrepreneurship, digital transformation, growth strategy, AI integration, institutionalisation, and innovation in emerging markets, while challenging students to evaluate strategic scaling decisions under conditions of uncertainty and economic instability.",
+    "url": "https://research.em-lyon.com/esploro/outputs/casestudy/Amenli-Insurtech-Start-up-From-Constraint-to/9967976509453",
+    "pass": 3
+   },
+   {
+    "quote": "Amenli Insurtech Start-up: From Constraint to Catalyst - The ... — Amenli Insurtech Start-up: From Constraint to Catalyst - Instructor presentation material -",
+    "url": "https://www.thecasecentre.org/products/view?id=213592",
+    "pass": 3
+   },
+   {
+    "quote": "Amenli Insurtech Start-up: From Constraint to Catalyst - The ... — The case explores themes of entrepreneurship, digital transformation, growth strategy, AI integration, institutionalisation, and innovation in emerging markets, while challenging students to evaluate strategic scaling decisions under conditions of uncertainty and economic instability.",
+    "url": "https://www.thecasecentre.org/products/view?id=212438",
+    "pass": 3
+   },
+   {
+    "quote": "I am glad to share that our teaching case \"Amenli Insurtech ... — My sincere appreciation to the amazing AUC Alumni: Shady El Tohfa'15 and Ahmed Karara'12 for sharing their inspiring journey, and to everyone who supported the development and review of this case...",
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7477686745711538176/",
+    "pass": 3
+   },
+   {
+    "quote": "Amenli Revenue, Funding & Valuation - prospeo.io — Amenli has revenue of $1,200,000, estimated valuation of $3,900,000, $4,300,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/amenli-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Amenli 2026 Company Profile: Valuation, Funding & Investors ...Amenli: Company Profile, Funding & InvestorsAmenli: Funding, Investors & Team (Oct 2026) | FundedIQAmenli Revenue 2024: $5M Est. ARR - getlatka.comAmenli Funding | $100K-5.8M Revenue | Complete AnalysisAmenli: Funding, Team & Investors | Startup Intros — Information on valuation, funding, cap tables, investors, and executives for Amenl",
+    "url": "https://pitchbook.com/profiles/company/482117-41",
+    "pass": 3
+   },
+   {
+    "quote": "Amenli: Company Profile, Funding & Investors — Nov 1, 2026 · Amenli is an InsurTech and Insurance company based in Cairo, Egypt, founded in 2020. It has raised $5.7M across 2 rounds.",
+    "url": "https://www.startuplist.africa/startups/amenli",
+    "pass": 3
+   },
+   {
+    "quote": "Amenli: Funding, Investors & Team (Oct 2026) | FundedIQ — Amenli is a Financial Services company in Cairo, Egypt. Raised $5.6M across 3 rounds; latest a Seed in Nov 2024. Investors, founders and funding history.",
+    "url": "https://fundediq.co/amenli-amenli-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Amenli Revenue 2024: $5M Est. ARR - getlatka.com — Sep 2, 2026 · Amenli was founded by Shady El Tohfa. Who is the CEO of Amenli? The CEO of Amenli is Shady El Tohfa. How many employees does Amenli have? As of 2024, Amenli had 65 employees. Where is Amenli headquartered? Amenli is headquartered in Cairo, Egypt.",
+    "url": "https://getlatka.com/companies/amenli.com",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Amenli Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/amenli-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Amenli",
+    "url": "https://prospeo.io/c/amenli-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/amenli-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/amenli-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/amenli-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Amenli?",
+    "url": "https://prospeo.io/c/amenli-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Amenli generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/amenli-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/amenli-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/amenli-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Amenli have?",
+    "url": "https://prospeo.io/c/amenli-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/amenli-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "NowPay is a FinTech company focusing on improving the financial-wellness of corporate employees. It enables…",
+    "url": "https://fundediq.co/amenli-amenli-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Shady El Tohfa is listed as CEO at Amenli.",
+    "url": "https://fundediq.co/amenli-amenli-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Amenli have?",
+    "url": "https://fundediq.co/amenli-amenli-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/amenli-amenli-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/amenli-amenli-com-funding/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/amenli-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/amenli-amenli-com-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Amenli (@AmenliInsurance) / X Buy Insurance with a convenient & transparent experience. Get an instant quote and buy insurance in 60 seconds. No need to wait a lifetime to get a quote. 77 Misr Helwan Agricultural Rd amenli.com Joined December 2023 0 Following 6 Followers Mention Follow RepliesRepliesRepostsRepostsMediaMedia Pinned Amenli @AmenliInsurance Feb 2, 2024",
+    "url": "https://x.com/AmenliInsurance",
+    "pass": 3
+   },
+   {
+    "quote": "Egyptian insurtech broker Amenli has raised $2.3 million in a ... Egyptian insurtech broker Amenli has raised $2.3 million in a funding round led by the European Bank for Reconstruction and Development’s (EBRD) techpression.com/amenli-secures…",
+    "url": "https://x.com/Techpressionews/status/1858945834760761742",
+    "pass": 3
+   },
+   {
+    "quote": "\"#Amenli\" - Results on X | Live Posts & Updates Results for \"#Amenli\" on X (Twitter). Find the latest posts, discussions, and updates about #Amenli. 2 results found.",
+    "url": "https://x.com/hashtag/Amenli",
+    "pass": 3
+   },
+   {
+    "quote": "Amenli primarily operates in Egypt, leveraging its local ... Launch Base Africa (@LaunchbAfrica). 14 views. Amenli primarily operates in Egypt, leveraging its local expertise to address the unique challenges of low insurance awareness and adoption.",
+    "url": "https://x.com/LaunchbAfrica/status/1858799095432769635",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Amenli - LinkedIn No need to wait a life time to get a quote, or get onboarded, do everything from the comfort of your home. Amenli is a licensed insurance brokerage from the FRA decree no. 803.",
+    "url": "https://www.linkedin.com/company/amenli",
+    "pass": 3
+   },
+   {
+    "quote": "Shady El Tohfa - Co-Founder & CEO Amenli (YC S21 ...Shady El Tohfa Co-Founder Amenli Insurtech Pioneer - LinkedInAdham Nauman - Co-Founder & CTO Amenli (YC S21) | LinkedInEgypt-based Amenli has closed a new $1 million equity ...Hoi Ying Li - UI/UX Designer | LinkedInVenkat Balantrapu - Leadership & Career Transformation ... Co-Founder & CEO Amenli (YC S21) | Insurtech · الخبرة: Amenli · التعليم: T",
+    "url": "https://eg.linkedin.com/in/shady-el-tohfa-13023258",
+    "pass": 3
+   },
+   {
+    "quote": "Shady El Tohfa Co-Founder Amenli Insurtech Pioneer - LinkedIn Shady's entrepreneurial execution fuses payments infrastructure with insurtech innovation, positioning Amenli as Egypt's digital insurance vanguard and protection democratizer.",
+    "url": "https://www.linkedin.com/posts/theceomagazine_leadership-amenli-insurtechegypt-activity-7442118138659422208-bfmj",
+    "pass": 3
+   },
+   {
+    "quote": "Adham Nauman - Co-Founder & CTO Amenli (YC S21) | LinkedInEgypt-based Amenli has closed a new $1 million equity ...Hoi Ying Li - UI/UX Designer | LinkedInVenkat Balantrapu - Leadership & Career Transformation ... Co-Founder & CTO Amenli (YC S21) · Experience: Amenli · Location: Egypt · 500+ connections on LinkedIn. View Adham Nauman’s profile on LinkedIn, a professional community of 1 billion... E",
+    "url": "https://eg.linkedin.com/in/adham-nauman-a6882ba3/en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Amenli - أمنلي | Cairo - FacebookAmenli Amenli (@amenli.amenli) • Facebook, Connect with friendsالحق عروض الل Black Friday مع #أمنلي أمّن عربيتك دلوقتي ...Amenli - أمنلي - دلوقتي تقدر تقسط جميع أنواع التأمين حتى ...الحق عروض الل Black Friday مع #أمنلي أمّن عربيتك دلوقتي ...عربيتك الكهربا في أمان مع أمنلي. تأمين مخصوص ليك ولعربيتك ...0% مقدم. 0% فوايد. 0% مصاريف. تأمين عربيتك دلوقتي مع #أمنلي ... 3",
+    "url": "https://www.facebook.com/amenli.insurance/",
+    "pass": 3
+   },
+   {
+    "quote": "Amenli Amenli (@amenli.amenli) • Facebook, Connect with friends Amenli Amenli is on Facebook. Join Facebook to connect with Amenli Amenli and others you may know. Facebook gives people the power to share and makes the...",
+    "url": "https://www.facebook.com/amenli.amenli/",
+    "pass": 3
+   },
+   {
+    "quote": "Amenli - أمنلي - دلوقتي تقدر تقسط جميع أنواع التأمين حتى ... Sep 28, 2022 · دلوقتي تقدر تقسط جميع أنواع التأمين حتى ١٢ شهر وعن طريق بنكك المفضل. أمن دلوقتي على صحتك وصحة عائلتك وعلى سيارتك وبيتك. زور موقعنا qe.amenli.com إشتري...",
+    "url": "https://www.facebook.com/amenli.insurance/posts/دلوقتي-تقدر-تقسط-جميع-أنواع-التأمين-حتى-١٢-شهر-وعن-طريق-بنكك-المفضلأمن-دلوقتي-عل/387333926943834/",
+    "pass": 3
+   },
+   {
+    "quote": "عربيتك الكهربا في أمان مع أمنلي. تأمين مخصوص ليك ولعربيتك ... Aug 12, 2026 · ذايد ابو زيد أهلاً بحضرتك، للتفاصيل والأسعار ممكن تدخل بيانات السيارة في اللينك وهيظهرلك افضل ٣ وثائق مناسبين لإحتياجاتك بناءً على البيانات اللي تم إدخالها بكافة تفاصيل التغطيات والتحملات وسعر كل وثيقة: https://qe.amenli.com/?src=hhgyke",
+    "url": "https://www.facebook.com/amenli.insurance/videos/عربيتك-الكهربا-في-أمان-مع-أمنلي/4454160878176063/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.amenli.com/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000003039.000025003.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.livedoor.com/topics/detail/28556157/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.infoseek.co.jp/article/bijinhyakka_1122311/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://av.watch.impress.co.jp/docs/news/2154065.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.koaglobal.com/corporate/offices/distributors1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qe.amenli.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://qe.amenli.com/en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.instagram.com/amenli/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://research.em-lyon.com/esploro/outputs/casestudy/Amenli-Insurtech-Start-up-From-Constraint-to/9967976509453",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.thecasecentre.org/products/view?id=213592",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thecasecentre.org/products/view?id=212438",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/amelia-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://reseller.amazon.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.namesilo.com/reseller",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/amenli-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/482117-41",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.startuplist.africa/startups/amenli",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fundediq.co/amenli-amenli-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/AmenliInsurance",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Techpressionews/status/1858945834760761742",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/Amenli",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/LaunchbAfrica/status/1858799095432769635",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/amenli",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://eg.linkedin.com/in/shady-el-tohfa-13023258",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/theceomagazine_leadership-amenli-insurtechegypt-activity-7442118138659422208-bfmj",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://eg.linkedin.com/in/adham-nauman-a6882ba3/en",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/amenli.insurance/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/amenli.amenli/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/amenli.insurance/posts/دلوقتي-تقدر-تقسط-جميع-أنواع-التأمين-حتى-١٢-شهر-وعن-طريق-بنكك-المفضلأمن-دلوقتي-عل/387333926943834/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/amenli.insurance/videos/عربيتك-الكهربا-في-أمان-مع-أمنلي/4454160878176063/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/AmenliInsurance",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/Amenli",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Amenli 日本 導入",
+   "results": [
+    "https://prtimes.jp/main/html/rd/p/000003039.000025003.html",
+    "https://news.livedoor.com/topics/detail/28556157/",
+    "https://news.infoseek.co.jp/article/bijinhyakka_1122311/",
+    "https://av.watch.impress.co.jp/docs/news/2154065.html",
+    "https://note.com/emilai_inc/n/nbf66396bf7ae",
+    "https://www.nylon.jp/beauty/854.html",
+    "https://www.instagram.com/p/C-2JhNdTBGa/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Amenli 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.koaglobal.com/corporate/offices/distributors1",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://industrial.filtrationgroup.com/ja/联系我们/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Amenli Japan",
+   "results": [
+    "https://www.amenli.com/pricing",
+    "https://qe.amenli.com/",
+    "https://qe.amenli.com/en",
+    "https://www.instagram.com/amenli/",
+    "https://www.scamadviser.com/check-website/amenli.com",
+    "https://www.linkedin.com/company/amenli",
+    "https://www.amazon.co.jp/-/en/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Amenli manufacturing customer case study",
+   "results": [
+    "https://research.em-lyon.com/esploro/outputs/casestudy/Amenli-Insurtech-Start-up-From-Constraint-to/9967976509453",
+    "https://www.thecasecentre.org/products/view?id=213592",
+    "https://www.thecasecentre.org/products/view?id=212438",
+    "https://www.casestudies.com/company/amelia-us",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7477686745711538176/",
+    "https://www.linkedin.com/posts/kccauc_kcc-auc-amenli-activity-7485285097773027328-E44U",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Amenli white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://reseller.amazon.com/",
+    "https://www.namesilo.com/reseller",
+    "https://www.seoreseller.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.upcounsel.com/reseller-agreement"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Amenli founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/amenli-revenue",
+    "https://pitchbook.com/profiles/company/482117-41",
+    "https://www.startuplist.africa/startups/amenli",
+    "https://fundediq.co/amenli-amenli-com-funding/",
+    "https://getlatka.com/companies/amenli.com",
+    "https://www.extruct.ai/hub/amenli-com-funding/",
+    "https://startupintros.com/orgs/amenli"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Amenli",
+   "results": [
+    "https://note.com/stargazingwario/n/nc8ea3d35c0f4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/hacosco/n/n9174fb83ef48",
+    "https://note.com/power_uncovered/n/n7fbd3966fdff",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/mamopu/n/n2456b1d6942a"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Amenli",
+   "results": [
+    "https://x.com/AmenliInsurance",
+    "https://x.com/Techpressionews/status/1858945834760761742",
+    "https://x.com/hashtag/Amenli",
+    "https://x.com/LaunchbAfrica/status/1858799095432769635",
+    "https://x.com/",
+    "https://x.com/_InfoGram_/status/2118253289573949943",
+    "https://x.com/NoahFentys/status/2118178286157140113"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Amenli",
+   "results": [
+    "https://www.linkedin.com/company/amenli",
+    "https://eg.linkedin.com/in/shady-el-tohfa-13023258",
+    "https://www.linkedin.com/posts/theceomagazine_leadership-amenli-insurtechegypt-activity-7442118138659422208-bfmj",
+    "https://eg.linkedin.com/in/adham-nauman-a6882ba3/en",
+    "https://www.linkedin.com/posts/smashi-tv_egypt-based-amenli-has-closed-a-new-1-million-activity-7117144748972212224-sR5E",
+    "https://hk.linkedin.com/in/amenli",
+    "https://in.linkedin.com/in/venkat-balantrapu"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Amenli",
+   "results": [
+    "https://www.facebook.com/amenli.insurance/",
+    "https://www.facebook.com/amenli.amenli/",
+    "https://www.facebook.com/amenli.insurance/posts/دلوقتي-تقدر-تقسط-جميع-أنواع-التأمين-حتى-١٢-شهر-وعن-طريق-بنكك-المفضلأمن-دلوقتي-عل/387333926943834/",
+    "https://www.facebook.com/amenli.insurance/videos/عربيتك-الكهربا-في-أمان-مع-أمنلي/4454160878176063/",
+    "https://www.facebook.com/amenli.insurance/videos/اعرف-سعرك-في-دقايق-/1098457765896466/",
+    "https://www.facebook.com/amenli.insurance/videos/اعرف-سعرك-في-دقايق-/1653176312853696/",
+    "https://www.facebook.com/amenli.insurance/videos/قسّط-تأمين-عربيتك-من-غير-أي-تكلفة-زيادة/1448867086576736/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Amenli note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.tekedia.com/egyptian-insurtech-startup-amenli-raises-1-million-funding-to-propel-its-expansion-efforts/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://note.jp/n/n10ae3b3f8acd",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Amenli X 投稿",
+   "results": [
+    "https://x.com/AmenliInsurance",
+    "https://www.instagram.com/amenli.insurance/",
+    "https://x.com/hashtag/Amenli",
+    "https://www.amenli.com/",
+    "https://www.instagram.com/amenlicom/",
+    "https://www.instagram.com/amenli/",
+    "https://crx7601.com/archives/63597742.html"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）"
+ }
+}

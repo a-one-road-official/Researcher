@@ -1,0 +1,1398 @@
+{
+ "name": "Gideon",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AUMS不適合",
+ "researched_at": "2026-11-10T22:43:10.915182+00:00",
+ "official_url": "https://www.gideon.ai/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2017",
+    "url": "https://startupintros.com/orgs/gideon",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "Zagreb, Grad Zagreb, Croatia",
+    "url": "https://startupintros.com/orgs/gideon",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "We lean out your processes, bridge the labor gap, and bring predictiveness to your material handling operations. As a result, your people become designers and overseers in the automation process.",
+    "url": "https://www.gideon.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Providing added value for our customers in the coming years.",
+    "url": "https://www.gideon.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Automating trailer operations with proven reliability.",
+    "url": "https://www.gideon.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Similar solutions usually require that a human operator unloads the first 2–4 pallets per trailer.",
+    "url": "https://www.gideon.ai/solutions/trey/",
+    "pass": 1
+   },
+   {
+    "quote": "Medium-Duty Trey handles up to 3,500 lbs (1,600 kg) and is ideal for most applications. For heavier loads, Heavy-Duty Trey takes it further with a 5,000 lbs (2,200 kg) capacity.",
+    "url": "https://www.gideon.ai/solutions/trey/",
+    "pass": 1
+   },
+   {
+    "quote": "Both offer the same autonomy, precision, and intelligence—just scaled to suit your needs.",
+    "url": "https://www.gideon.ai/solutions/trey/",
+    "pass": 1
+   },
+   {
+    "quote": "Reliably on call, Trey uses opportunity charging to ensure the battery is charged and ready to boost warehouse productivity—even beyond its +8 hour charge.",
+    "url": "https://www.gideon.ai/solutions/trey/",
+    "pass": 1
+   },
+   {
+    "quote": "Quickly deploy in just a few hours. Simple integration and onboarding, minimal staff training, and no-fuss control software.",
+    "url": "https://www.gideon.ai/solutions/trey/",
+    "pass": 1
+   },
+   {
+    "quote": "Corporate strategy • Growth & partnerships • Product leadership • Organizational culture • Investor relations",
+    "url": "https://www.gideon.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Matija Kopić is a serial entrepreneur and co-founder of Gideon, where he serves as a Board Member. He played a key role in shaping Gideon’s vision and technology roadmap, helping the company grow from startup to a recognized leader in autonomous mobile robotics and Physical-AI systems.",
+    "url": "https://www.gideon.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Before founding Gideon, Matija was Founder and CEO of Farmeron, the world’s first SaaS platform for dairy and cattle farm management, later acquired by Virtus Nutrition. He now leads a new venture focused on regenerative farming and sustainable food innovation.",
+    "url": "https://www.gideon.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Entrepreneurship • Robotics & AI innovation • Business growth • Sustainable technology",
+    "url": "https://www.gideon.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Commercial Officer, Iva Vukina leads global commercial strategy and execution, driving enterprise adoption of the company’s Physical-AI robotics platform. With over two decades of experience in enterprise sales, capital markets, and risk management, she has a proven record of scaling complex solutions for Fortune 500 clients.",
+    "url": "https://www.gideon.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Commercial strategy • Enterprise sales • Strategic finance • Market expansion",
+    "url": "https://www.gideon.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Kruno Stražanac, co-Founder and CCO, leads customer success, ensuring smooth deployment, support, and adoption of the company’s Physical-AI robotics platform. With a strong background in mathematics and operations, he drives measurable impact for customers across logistics, warehousing, and manufacturing.",
+    "url": "https://www.gideon.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Before founding Gideon, Kruno led technical support and data analytics at Farmeron, building scalable, data-driven customer processes. He holds an M.Sc. in Mathematics & Statistics from the University of Osijek.",
+    "url": "https://www.gideon.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Customer success • Deployment & support • Process optimization • Enterprise adoption",
+    "url": "https://www.gideon.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Co-Founder and CRO, Edin Kočo leads hardware development, product design, safety, and manufacturing. With deep expertise in robotics hardware and software, he guides multidisciplinary teams from concept to large-scale production.",
+    "url": "https://www.gideon.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Hardware & product design • Manufacturing scalability • Safety systems • Strategic product planning",
+    "url": "https://www.gideon.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "VP of Software, Tomislav Haus leads the development and integration of the company’s Physical-AI robotics platform. Since joining in 2018, he has driven the architecture and scalability of Gideon’s core autonomy stack, enabling reliable, high-performance operation of its autonomous mobile robots.",
+    "url": "https://www.gideon.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Product Manager for Gideon’s flagship autonomous forklift, Trey, Daniel Guja leads product strategy, roadmap execution, and lifecycle management. One of Gideon’s earliest team members, he helped shape the company’s Physical-AI platform through his early work in R&D and machine learning.",
+    "url": "https://www.gideon.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Before moving into product management, Daniel led the semantics team developing advanced computer vision and deep learning systems for robotic perception and autonomy. He holds a Master’s in Computer Science and began his career at Microsoft. His early innovation work earned multiple international awards for excellence in technology and engineering.",
+    "url": "https://www.gideon.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Product strategy • Market fit & scalability • Cross-functional execution • Innovation in AI & automation",
+    "url": "https://www.gideon.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Since joining Gideon in 2021, Klaudija has helped shape the company’s organizational structure, people strategy, and governance systems. Her previous experience at Infobip and Algebra University College, where she led large-scale transformation programs and global teams, underpins Gideon’s continued growth and international expansion.",
+    "url": "https://www.gideon.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Our AI & vision-based autonomous mobile robots power the future of material handling operations for the world’s most prominent manufacturing, logistics, warehousing, and retail companies.",
+    "url": "https://www.gideon.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "With a background in over twenty different fields of profession, our People shape a dynamic environment where both failure and ingenuity are embraced.",
+    "url": "https://www.gideon.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "We are packed with experts happy to share their knowledge, making us an excellent place for learning and improving future-proof and future-shaping skills.",
+    "url": "https://www.gideon.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Our People designed and developed proprietary tech that provides a competitive edge to the autonomous material handling solutions we create.",
+    "url": "https://www.gideon.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "DB Schenker: Leveraging growth for a logistics giant and a premium carmaker",
+    "url": "https://www.gideon.ai/customer-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "European project funding",
+    "url": "https://www.gideon.ai/customer-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "NVIDIA Inception program",
+    "url": "https://www.gideon.ai/customer-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "We're all about productive and friendly collaboration through cross-functional teams that ensure your professional growth and delighted customers.",
+    "url": "https://www.gideon.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Never-ending professional growth",
+    "url": "https://www.gideon.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Challenging projects, global exposure, continuous education, latest industry and scientific resources, opportunities for vertical and horizontal career growth – we have it all.",
+    "url": "https://www.gideon.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "You can choose medical, vision, and dental plans that suit your needs, and Gideon will cover 80% of the monthly premium for you and your family. You can also choose health savings or a flexible spending account.",
+    "url": "https://www.gideon.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Tell us about your experiences and interests, and we will tell you more about the position, our team, and Gideon. We cherish the individual approach and are always curious to hear how we fit into your plans!",
+    "url": "https://www.gideon.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring your productivity up to speed",
+    "url": "https://www.gideon.ai/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Maximize productivity",
+    "url": "https://www.gideon.ai/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "We increase your throughput by fully utilizing people and robots for maximum productivity - without additional hiring or changing existing infrastructure.",
+    "url": "https://www.gideon.ai/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Eliminating heavy and inefficient workflows creates the opportunity for people to move into more value-added roles and improves employee satisfaction and retention.",
+    "url": "https://www.gideon.ai/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Automating manual labor lowers operation and labor costs, decreases the cost of workplace-related injuries, and eliminates product & equipment damage costs.",
+    "url": "https://www.gideon.ai/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Maintain process stability, predict performance, and make informed decisions based on real-time data and reliable integrations with 3rd party systems, while operating around the clock.",
+    "url": "https://www.gideon.ai/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Flexible to adapt to your specific needs depending on peak & off-peak seasons, by scaling up or scaling down your robotic fleet. Short training cycle, easy & fast to deploy and use within days.",
+    "url": "https://www.gideon.ai/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Gain a competitive edge, lean out your processes and improve the efficiency and sustainability of your operations to deliver the excellence your customers expect.",
+    "url": "https://www.gideon.ai/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Stay flexible in the face of narrowing inventories and supply chain shocks. Improve visibility, predictability, and efficiency.",
+    "url": "https://www.gideon.ai/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate to unlock new optimization opportunities in the face of falling inventories. Spurred by the unprecedented supply chain disruptions, U.S. inventories are at their lowest in the past decade, shows Federal Reserve data.",
+    "url": "https://www.gideon.ai/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "European project funding",
+    "url": "https://www.gideon.ai/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "NVIDIA Inception program",
+    "url": "https://www.gideon.ai/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Privredna banka Zagreb d.d., Address: Radnička cesta 50, 10000 Zagreb, Hrvatska",
+    "url": "https://www.gideon.ai/company-information/",
+    "pass": 1
+   },
+   {
+    "quote": "European project funding",
+    "url": "https://www.gideon.ai/company-information/",
+    "pass": 1
+   },
+   {
+    "quote": "NVIDIA Inception program",
+    "url": "https://www.gideon.ai/company-information/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトには A8.net 等のアフィリエイト広告が含まれます（該当箇所に「PR」と表示）",
+    "url": "https://physicalainews.jp/companies/gideon",
+    "pass": 3
+   },
+   {
+    "quote": "Gideon strengthens hiring and employer branding with TalentLyft",
+    "url": "https://www.casestudies.com/customer/gideon",
+    "pass": 3
+   },
+   {
+    "quote": "Pliva Integrates GIDEON into Environmental Monitoring Protocols",
+    "url": "https://www.gideononline.com/case-studies-post/pliva-integrates-gideon-into-environmental-monitoring-protocols-pharma/",
+    "pass": 3
+   },
+   {
+    "quote": "We consult GIDEON whenever we detect a microorganism that has not been previously identified in our environmental monitoring.”",
+    "url": "https://www.gideononline.com/case-studies-post/pliva-integrates-gideon-into-environmental-monitoring-protocols-pharma/",
+    "pass": 3
+   },
+   {
+    "quote": "For over a decade, their team has integrated GIDEON into their rigorous environmental monitoring (EM) protocols to navigate the complexities of microbial identification.",
+    "url": "https://www.gideononline.com/case-studies-post/pliva-integrates-gideon-into-environmental-monitoring-protocols-pharma/",
+    "pass": 3
+   },
+   {
+    "quote": "Strengthening environmental monitoring protocols",
+    "url": "https://www.gideononline.com/case-studies-post/pliva-integrates-gideon-into-environmental-monitoring-protocols-pharma/",
+    "pass": 3
+   },
+   {
+    "quote": "For the team at Pliva, GIDEON is one of the key resources consulted when they identify a microorganism that was not previously identified in their environmental monitoring.",
+    "url": "https://www.gideononline.com/case-studies-post/pliva-integrates-gideon-into-environmental-monitoring-protocols-pharma/",
+    "pass": 3
+   },
+   {
+    "quote": "“We are primarily interested in the source of microorganisms and how an isolate",
+    "url": "https://www.gideononline.com/case-studies-post/pliva-integrates-gideon-into-environmental-monitoring-protocols-pharma/",
+    "pass": 3
+   },
+   {
+    "quote": "can be related to the place of sampling in production (natural reservoir).”",
+    "url": "https://www.gideononline.com/case-studies-post/pliva-integrates-gideon-into-environmental-monitoring-protocols-pharma/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Heavy manual work is costly in a labor-scarce market. Our autonomous mobile robots reliably and safely automate the toughest manual material-handling jobs in manufacturing, logistics, warehousing, and retail.",
+    "url": "https://www.gideon.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Reliably on call, Trey uses opportunity charging to ensure the battery is charged and ready to boost warehouse productivity—even beyond its +8 hour charge.",
+    "url": "https://www.gideon.ai/solutions/trey/",
+    "pass": 1
+   },
+   {
+    "quote": "Before joining Gideon, Iva was a Managing Director at Goldman Sachs, where she advised leading companies on funding, risk, and strategic growth. She holds degrees in Mathematical Decision Sciences and Operations Research & Industrial Engineering, and serves on multiple advisory boards.",
+    "url": "https://www.gideon.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Kruno Stražanac, co-Founder and CCO, leads customer success, ensuring smooth deployment, support, and adoption of the company’s Physical-AI robotics platform. With a strong background in mathematics and operations, he drives measurable impact for customers across logistics, warehousing, and manufacturing.",
+    "url": "https://www.gideon.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Co-Founder and CRO, Edin Kočo leads hardware development, product design, safety, and manufacturing. With deep expertise in robotics hardware and software, he guides multidisciplinary teams from concept to large-scale production.",
+    "url": "https://www.gideon.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Hardware & product design • Manufacturing scalability • Safety systems • Strategic product planning",
+    "url": "https://www.gideon.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Our AI & vision-based autonomous mobile robots power the future of material handling operations for the world’s most prominent manufacturing, logistics, warehousing, and retail companies.",
+    "url": "https://www.gideon.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Major Automotive OEM: Transforming trailer loading and unloading",
+    "url": "https://www.gideon.ai/customer-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing & testing facility",
+    "url": "https://www.gideon.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Make your manufacturing operations leaner and more resilient to labor shortages. Automate your material flows.",
+    "url": "https://www.gideon.ai/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "2.1 million manufacturing jobs may go unfilled by 2030, and the cost of that gap could reach $1TN in the U.S. alone, estimate The Manufacturing Institute and Deloitte. The solution is to automate complex manual material handling.",
+    "url": "https://www.gideon.ai/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "A Croatian startup that automates and orchestrates complex industrial workflows with AI- and 3D-vision-powered intelligent material handling solutions and visual autonomous mobile robots.",
+    "url": "https://www.casestudies.com/customer/gideon",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories about Software and Services used by Gideon",
+    "url": "https://www.casestudies.com/customer/gideon",
+    "pass": 3
+   },
+   {
+    "quote": "Gideon - Customer Case Study",
+    "url": "https://www.casestudies.com/customer/gideon",
+    "pass": 3
+   },
+   {
+    "quote": "Pliva Croatia, a leading pharmaceutical manufacturer, has maintained a longstanding commitment to safety and quality.",
+    "url": "https://www.gideononline.com/case-studies-post/pliva-integrates-gideon-into-environmental-monitoring-protocols-pharma/",
+    "pass": 3
+   },
+   {
+    "quote": "In the highly regulated world of pharmaceutical manufacturing, identifying a new or unexpected microorganism is a critical event.",
+    "url": "https://www.gideononline.com/case-studies-post/pliva-integrates-gideon-into-environmental-monitoring-protocols-pharma/",
+    "pass": 3
+   },
+   {
+    "quote": "Solutions like autonomous forklifts (Trey) and case-picking robots (Casey) tailored for diverse industrial environments.",
+    "url": "https://startupintros.com/orgs/gideon",
+    "pass": 3
+   },
+   {
+    "quote": "or perhaps sabotage intentionally caused by Godfrey's warriors because they missed their local wives.",
+    "url": "https://note.com/elden_haitani/n/n50d5a183fffa?hl=en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Before founding Gideon, Matija was Founder and CEO of Farmeron, the world’s first SaaS platform for dairy and cattle farm management, later acquired by Virtus Nutrition. He now leads a new venture focused on regenerative farming and sustainable food innovation.",
+    "url": "https://www.gideon.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Commercial Officer, Iva Vukina leads global commercial strategy and execution, driving enterprise adoption of the company’s Physical-AI robotics platform. With over two decades of experience in enterprise sales, capital markets, and risk management, she has a proven record of scaling complex solutions for Fortune 500 clients.",
+    "url": "https://www.gideon.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "We celebrate the growth of our employees’ families through a one time bonus for child birth!",
+    "url": "https://www.gideon.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Stay flexible in the face of narrowing inventories and supply chain shocks. Improve visibility, predictability, and efficiency.",
+    "url": "https://www.gideon.ai/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "イスラエル、軍用空中給油・輸送向け初のKC-46「Gideon」を導入 – Carro e motos",
+    "url": "https://carroemotos.com.br/%E3%82%A4%E3%82%B9%E3%83%A9%E3%82%A8%E3%83%AB%E3%80%81%E8%BB%8D%E7%94%A8%E7%A9%BA%E4%B8%AD%E7%B5%A6%E6%B2%B9%E3%83%BB%E8%BC%B8%E9%80%81%E5%90%91%E3%81%91%E5%88%9D%E3%81%AEkc-46%E3%80%8Cgideon%E3%80%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "このたび株式会社豊田自動織機は、欧州子会社を通じて、クロアチア・ザグレブに活動拠点を置くGideon Brothers社（以下Gideon社）と戦略的投資契約を締結し、同社に出資いたしました",
+    "url": "https://www.toyota-shokki.co.jp/news/2024/09/05/008710/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（事業主体はGideon Brothers d.o.o（クロアチア）、Gideon社の100%子会社）",
+    "url": "https://www.toyota-shokki.co.jp/news/2024/09/05/008710/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "For the team at Pliva Croatia, identifying a microorganism is only the initial step in a larger safety narrative. The critical value lies in understanding the “why” and “where” behind the detection.",
+    "url": "https://www.gideononline.com/case-studies-post/pliva-integrates-gideon-into-environmental-monitoring-protocols-pharma/",
+    "pass": 3
+   },
+   {
+    "quote": "GIDEON® Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/gideon-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At GIDEON®",
+    "url": "https://prospeo.io/c/gideon-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/gideon-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/gideon-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/gideon-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of GIDEON®?",
+    "url": "https://prospeo.io/c/gideon-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "GIDEON® generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/gideon-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/gideon-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/gideon-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does GIDEON® have?",
+    "url": "https://prospeo.io/c/gideon-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/gideon-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "The nuance that the ship was \"left behind\" suggests that not only the hull, but the warriors who were on board were also left behind.",
+    "url": "https://note.com/elden_haitani/n/n50d5a183fffa?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This overturns the conventional preconception that all Tarnished are warriors who were guided from overseas, such as the Badlands.",
+    "url": "https://note.com/elden_haitani/n/n50d5a183fffa?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "he did not reveal that \"Marika took it from Godfrey and his warriors.\"",
+    "url": "https://note.com/elden_haitani/n/n50d5a183fffa?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "3. Marika took it from Godfrey and his warriors.",
+    "url": "https://note.com/elden_haitani/n/n50d5a183fffa?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "He was guided after dying in a graveyard at the entrance to the Hermit Village in Mt. Gelmir, despite being part of the mainland group (refer to",
+    "url": "https://note.com/elden_haitani/n/n50d5a183fffa?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A small shield with antlers arranged in a spiral.",
+    "url": "https://note.com/elden_haitani/n/n50d5a183fffa?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "warrior who cultivated close ties to the Ancestral Followers.",
+    "url": "https://note.com/elden_haitani/n/n50d5a183fffa?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I consider him to be part of the mainland group. First, Juno is definitely a Tarnished because he is on the Volcano Manor's list of targets for hunting fellow Tarnished. His younger brother Diallos's status is unknown, but since he is caught up in the hunting of his kin, he is considered a fellow Tarnished (likely a Tarnished).",
+    "url": "https://note.com/elden_haitani/n/n50d5a183fffa?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Vargram is also part of the mainland group.",
+    "url": "https://note.com/elden_haitani/n/n50d5a183fffa?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It is clear that the two were old acquaintances. As a friend of Wilhelm, who is from the mainland group, Vargram is also part of the mainland group (they did not come to the Lands Between only after being guided).",
+    "url": "https://note.com/elden_haitani/n/n50d5a183fffa?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "He is from the Land of Shadow, part of the mainland group.",
+    "url": "https://note.com/elden_haitani/n/n50d5a183fffa?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Riley was also part of the mainland group who was in the Land of Shadow.",
+    "url": "https://note.com/elden_haitani/n/n50d5a183fffa?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", so please refer to that. If he is indeed a Tarnished, it is certain that he is part of the mainland group.",
+    "url": "https://note.com/elden_haitani/n/n50d5a183fffa?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "He is a perfumer and a poisoner. Since the St. Trina faith can be acquired even after arriving in the Lands Between, it is not a clue.",
+    "url": "https://note.com/elden_haitani/n/n50d5a183fffa?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", a warrior.\"",
+    "url": "https://note.com/elden_haitani/n/n50d5a183fffa?hl=en",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Major Automotive OEM: Transforming trailer loading and unloading",
+    "url": "https://www.gideon.ai/customer-stories/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Please find the general company information relating to Gideon Brothers. For further questions please contact us.",
+    "url": "https://www.gideon.ai/company-information/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ギデオンでは製品のご購入にあたって、WEB、E-mail、電話による3つのお見積り方法をご用意しております",
+    "url": "https://www.gideon.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/gideon-revenue",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "世界のフィジカルAIを、日本語で",
+    "url": "https://physicalainews.jp/companies/gideon",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスセキュリティ対策: ウイルス対策 スパム対策 アーカイブ リアルタイムスキャン オートクリプト クラウドサービス || 株式会社ギデオン",
+    "url": "https://www.gideon.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ギデオンでは製品のご購入にあたって、WEB、E-mail、電話による3つのお見積り方法をご用意しております",
+    "url": "https://www.gideon.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ギデオンでは製品に関して充実したサポートを行なっております",
+    "url": "https://www.gideon.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "豊田自動織機、自律走行車両・ロボット制御技術のスタートアップGideon社に出資 | 株式会社 豊田自動織機",
+    "url": "https://www.toyota-shokki.co.jp/news/2024/09/05/008710/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "このたび株式会社豊田自動織機は、欧州子会社を通じて、クロアチア・ザグレブに活動拠点を置くGideon Brothers社（以下Gideon社）と戦略的投資契約を締結し、同社に出資いたしました",
+    "url": "https://www.toyota-shokki.co.jp/news/2024/09/05/008710/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Mr. Gideon was not a hero by any stretch of the imagination. He only finished the eighth grade. In Japan, that would be the second year of junior high school. He left home while attending middle school and spent much of his youth in and out of prison for non-violent crimes.",
+    "url": "https://note.com/masaka_true/n/ndbbcab0f957f?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Gideon | 日本フィジカルAI新聞 — Gideonはクロアチアに拠点を置く物流ロボット企業である。 同社は倉庫や配送センター向けに、AIを活用した自律移動ロボット（AMR）を開発・提供している。 特に、動的環境でのナビゲーションや物体認識に強みを持ち、物流現場の自動化・効率化を支援する。",
+    "url": "https://physicalainews.jp/companies/gideon",
+    "pass": 3
+   },
+   {
+    "quote": "イスラエル、軍用空中給油・輸送向け初のKC-46「Gideon」を導入 — May 27, 2026 · 基地司令官は、激しい作戦が続く時期にこの規模の航空機を導入することは兵站面および運用面での課題である一方、同部隊にとって歴史的な節目でもあると強調した。 初のKC-46 “Gideon”の到着により、イスラエルは空中給油機部隊の更新を開始する。",
+    "url": "https://carroemotos.com.br/イスラエル、軍用空中給油・輸送向け初のkc-46「gideon」/",
+    "pass": 3
+   },
+   {
+    "quote": "GIDEON — 株式会社ギデオン セキュリティ対策に関するトータルソリューションをご提供いたします。Linuxサーバ向け、アプライアンスなど広く適用できます。",
+    "url": "https://www.gideon.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "豊田自動織機、自律走行車両・ロボット制御技術のスタートアップGideo... — Sep 5, 2024 · この分野における競争力ある製品の開発が急務となる中、自律走行や自動荷役のコア技術となるカメラセンサーおよびAIに強みを持つGideon社との連携を決定しました。",
+    "url": "https://www.toyota-shokki.co.jp/news/2024/09/05/008710/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Toyota Industries Corporation announces a strategic ... — Toyota Industries Corporation (TICO), including Toyota Material Handling Group and Toyota Automated Logistics Group, the market leading provider of material handling solutions, and Gideon, have signed an investment agreement with immediate effect.",
+    "url": "https://www.gideon.ai/news-press/toyota-announces-strategic-investment-in-gideon/",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How Gideon Uses Software & Services — Explore case studies featuring Gideon as the customer — learn how vendors and partners helped Gideon solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/gideon",
+    "pass": 3
+   },
+   {
+    "quote": "Gideon Opens New Manufacturing Facility in Bolingbrook — Oct 16, 2025 · Gideon, a robotics and AI company transforming logistics with its autonomous forklift Trey, officially opened its new manufacturing facility in Bolingbrook with a ribbon-cutting ceremony with Mayor of Bolingbrook, and Croatian Ambassador to the United States, as guests of honor.",
+    "url": "https://www.gideon.ai/news-press/gideon-opens-new-manufacturing-facility-in-bolingbrook-greater-chicago-area/",
+    "pass": 3
+   },
+   {
+    "quote": "Pliva Integrates GIDEON into Environmental Monitoring Protocols — Case study: How Pliva uses GIDEON to identify infectious disease-causing microbes and strengthen pharmaceutical environmental monitoring.",
+    "url": "https://www.gideononline.com/case-studies-post/pliva-integrates-gideon-into-environmental-monitoring-protocols-pharma/",
+    "pass": 3
+   },
+   {
+    "quote": "GIDEON BROTHERS CASE STUDY: Leveraging growth for a logistics ... — Gideon Brothers’ staff are aware of the psychological aspects of technology-related change management and supported smooth roll-out by focusing on reinforcement training as well as listening/re-sponding to minimize any adverse reactions.",
+    "url": "https://www.gideon.ai/wp-content/uploads/2020/02/Gideon-Brothers-DB-Schenker-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Gideon Products :: Manufacturing and importing of quality ... — Gideon Products is a manufacturer and importer of quality unique products.",
+    "url": "http://www.gideonproducts.com/",
+    "pass": 3
+   },
+   {
+    "quote": "GIDEON® Revenue, Funding & Valuation - prospeo.io — GIDEON® has revenue of $11,400,000, estimated valuation of $36,500,000. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/gideon-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Gideon: funding rounds, valuation, investors and revenue — Gideon is a robotics and AI company founded in 2017, specializing in autonomous mobile robots (AMRs) for material-handling automation across various sectors, including manufacturing, logistics, warehousing, and retail.",
+    "url": "https://ai.lounge.ai/companies/gideon",
+    "pass": 3
+   },
+   {
+    "quote": "Gideon 2026 Company Profile: Valuation, Funding & Investors ...Gideon: Funding, Team & Investors | Startup IntrosGideon - Crunchbase Company Profile & FundingGideon Systems Inc™ Revenue, Funding & ValuationGideon - 2025 Company Profile, Team, Funding, Competitors ... — Information on valuation, funding, cap tables, investors, and executives for Gideon. Use the PitchBook Platform to explore the ful",
+    "url": "https://pitchbook.com/profiles/company/231235-66",
+    "pass": 3
+   },
+   {
+    "quote": "Gideon: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Looking ahead, Gideon is poised to expand its autonomous mobile robot portfolio and deepen its market penetration in manufacturing, logistics, and retail. Trends like AI advancement, Industry 4.0 adoption, and labor scarcity will shape its trajectory.",
+    "url": "https://startupintros.com/orgs/gideon",
+    "pass": 3
+   },
+   {
+    "quote": "Gideon - Crunchbase Company Profile & FundingGideon Systems Inc™ Revenue, Funding & ValuationGideon - 2025 Company Profile, Team, Funding, Competitors ... — With operations in Croatia and the USA, Gideon serves customers across North America, the UK, and Ireland. Its solutions help businesses address labor shortages, rising logistics demands, and operational inefficiencies through flexible automat",
+    "url": "https://www.crunchbase.com/organization/GideonRobotics",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Gideon's Trumpet: How One Man's Plea for Counsel Overturned a ... Mr. Gideon's crime was a serious one (called a \"felony\" in the U.S.), but it was not a capital offense. The judge refused him on the grounds of this law. The second was an even bigger wall: a precedent that the federal Supreme Court itself had set in 1942.",
+    "url": "https://note.com/masaka_true/n/ndbbcab0f957f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Gideon 6｜たかぱん - note（ノート） The town was in chaos. Even Gideon felt a little bit that if he were a man, he should stand up with courage. However, at this time, the influential people of the town did not invite Gideon. Instead, Gideon's brothers were called and conscripted into the army. And the brothers did not return.",
+    "url": "https://note.com/tatipan/n/n5ff0af571616?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A 2-cour plan emerging from episode 6 of 'The Great Saint ... At this point, Gideon is in first place I want to make sure I don't confuse this with future developments in the original work. On the list at the time of episode 6, Gideon, the vice-captain of the Demon Knight Order, is in first place, and Cyril is in second.",
+    "url": "https://note.com/alive_mango4490/n/nbc5f8bdfae83?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Meaning of the Rusted Anchor｜考える金仮面卿 Gideon He was guided after dying in a graveyard at the entrance to the Hermit Village in Mt. Gelmir, despite being part of the mainland group (refer to a study of Gideon's history) This was a discovery that shattered the stereotype that all Tarnished come from outside the Lands Between.",
+    "url": "https://note.com/elden_haitani/n/n50d5a183fffa?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Gideon's Trumpet: How One Man's Plea for Counsel Overturned a Precedent｜まさか。",
+    "url": "https://note.com/masaka_true/n/ndbbcab0f957f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Gideon's Trumpet: How One Man's Plea for Counsel Overturned a Precedent",
+    "url": "https://note.com/masaka_true/n/ndbbcab0f957f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A courtroom in Florida, USA. A man accused of breaking into a pool hall asked the judge for help. He said he had no money and asked to be provided with a lawyer.",
+    "url": "https://note.com/masaka_true/n/ndbbcab0f957f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The judge refused. The man replied, \"The United States Supreme Court says I have the right to be provided with a lawyer.\"",
+    "url": "https://note.com/masaka_true/n/ndbbcab0f957f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The man's name was Clarence Earl Gideon. He was a defendant with no money and no legal training. Standing in his way were state law and a precedent that the federal Supreme Court had set itself.",
+    "url": "https://note.com/masaka_true/n/ndbbcab0f957f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The dispute that began in this courtroom where he was denied a lawyer would eventually reach the federal Supreme Court. And the Supreme Court would have to face the precedent it had set 21 years earlier once again.",
+    "url": "https://note.com/masaka_true/n/ndbbcab0f957f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This article is a detailed version of a 1-minute video posted on TikTok. In the video, I only talked about the outcome and the basics. Here, I will trace the journey step by step.",
+    "url": "https://note.com/masaka_true/n/ndbbcab0f957f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What you will learn in this article",
+    "url": "https://note.com/masaka_true/n/ndbbcab0f957f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The time had come for the townspeople to swarm toward Joash.",
+    "url": "https://note.com/tatipan/n/n5ff0af571616?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What is the meaning of this? Joash responded calmly.",
+    "url": "https://note.com/tatipan/n/n5ff0af571616?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Bring out your son. Gideon. We have investigated it. The people spoke one after another in an excited manner. Your son must be killed. He destroyed the altar of Baal and cut down the Asherah pole that was worshiped alongside it, didn't he? We have asked around. There are those who saw it. Even if you try to play dumb, the matter is clear.",
+    "url": "https://note.com/tatipan/n/n5ff0af571616?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I see... then please ask him yourself, Joash remained perfectly calm.",
+    "url": "https://note.com/tatipan/n/n5ff0af571616?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Gideon was not in his tent. He is here. You are hiding him here, aren't you? Joash, if you hand over that son who deserves punishment quietly, we will not lay a hand on you. Only Gideon is at fault. If you punish only Gideon, that will be enough.",
+    "url": "https://note.com/tatipan/n/n5ff0af571616?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Gideon, who had been hiding in the back room, trembled upon hearing this.",
+    "url": "https://note.com/tatipan/n/n5ff0af571616?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "His father Joash spoke calmly, yet with dignity.",
+    "url": "https://note.com/tatipan/n/n5ff0af571616?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Everyone. I understand. It may be Gideon's doing. I do not immediately deny that it was my son Gideon who did evil to the god Baal. However, I would like to make a proposal. Gideon did not harm you; the victim is Baal. If so, is it not logical to have Baal himself take revenge, following the law of an eye for an eye and a tooth for a tooth? It is not good for you to protect Baal and do something o",
+    "url": "https://note.com/tatipan/n/n5ff0af571616?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A 2-cour plan emerging from episode 6 of 'The Great Saint'? Thinking about the purge list and the pacing｜reni",
+    "url": "https://note.com/alive_mango4490/n/nbc5f8bdfae83?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A 2-cour plan emerging from episode 6 of 'The Great Saint'? Thinking about the purge list and the pacing",
+    "url": "https://note.com/alive_mango4490/n/nbc5f8bdfae83?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "※This contains spoilers up to episode 6 of the anime and the scope of the original work that will be covered in the future. The broadcast structure is a personal prediction at the time of viewing and is not an article introducing an official announcement.",
+    "url": "https://note.com/alive_mango4490/n/nbc5f8bdfae83?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The content of this article also includes spoilers for the original work.",
+    "url": "https://note.com/alive_mango4490/n/nbc5f8bdfae83?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It's even more interesting if you watch the commercials on BS11",
+    "url": "https://note.com/alive_mango4490/n/nbc5f8bdfae83?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I was watching 'The Reincarnated Great Saint Hides That She Is a Saint' on BS11 and couldn't help but laugh.",
+    "url": "https://note.com/alive_mango4490/n/nbc5f8bdfae83?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In a promotional commercial for the manga, when Cyril pushed himself to the front to promote it, Zavier said something to the effect of, 'Maybe I should put him on the purge list too.'",
+    "url": "https://note.com/alive_mango4490/n/nbc5f8bdfae83?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "After that, the purge list appeared in episode 6 of the anime. Cyril was brilliantly included in second place.",
+    "url": "https://note.com/alive_mango4490/n/nbc5f8bdfae83?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Meaning of the Rusted Anchor｜考える金仮面卿",
+    "url": "https://note.com/elden_haitani/n/n50d5a183fffa?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Meaning of the Rusted Anchor",
+    "url": "https://note.com/elden_haitani/n/n50d5a183fffa?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Those who wield the Rusted Anchor as a weapon",
+    "url": "https://note.com/elden_haitani/n/n50d5a183fffa?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "When the Tarnished once left the Lands Between with their lord,",
+    "url": "https://note.com/elden_haitani/n/n50d5a183fffa?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "a single ship was left behind.",
+    "url": "https://note.com/elden_haitani/n/n50d5a183fffa?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "When I think about it, the significance of this text's existence is also unclear.",
+    "url": "https://note.com/elden_haitani/n/n50d5a183fffa?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "On the Weeping Peninsula, there are citizens who look like hollows staring blankly at the sea, which seems related and meaningful.",
+    "url": "https://note.com/elden_haitani/n/n50d5a183fffa?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The nuance that the ship was \"left behind\" suggests that not only the hull, but the warriors who were on board were also left behind.",
+    "url": "https://note.com/elden_haitani/n/n50d5a183fffa?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "GIDEON (@GideonAL) / X GIDEON FROM ALABAMA performing on @summerslaughter all summer long 🙂↕️☀️😈 tickets + info in replies",
+    "url": "https://x.com/GideonAL",
+    "pass": 3
+   },
+   {
+    "quote": "Gideon Heilpern (@gideonheilpern2) / X The DCA will NOT begin until I come out of retirement. Until then the liquidity grab is coded 🤝 - Gideon Heilpern",
+    "url": "https://x.com/gideonheilpern2",
+    "pass": 3
+   },
+   {
+    "quote": "Gideon Leek (@gideon_leek) / X Please welcome from Brooklyn, New York City to Michigan City, Gideon Leek @gideon_leek. His great new poem Carvel is up on the site today, and it is one you will not want to miss.",
+    "url": "https://x.com/gideon_leek",
+    "pass": 3
+   },
+   {
+    "quote": "@gideonscorral.bsky.social (@gideonscorral) / X Thanks for finding my site and following my scribbles & ramblings!! You can support me by subscribing to my Patreon at the website link below!",
+    "url": "https://x.com/gideonscorral",
+    "pass": 3
+   },
+   {
+    "quote": "G (@gideon_) / X Burnham's point is that whatever punishment is meted out, the net loss will be to the city of Manchester and the regular staff members of #ManchesterCity. This event is akin to COVID hitting football. The wealthy can lock themselves away (or run away). Regular people will suffer. 1 54 G 🇺🇦 @gideon_ Oct 1",
+    "url": "https://x.com/@gideon_",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Gideon - LinkedIn Gideon transforms industrial operations with physical AI for autonomous vehicles, starting at the loading bay. That’s where transportation meets the warehouse or plant, and where safety ...",
+    "url": "https://www.linkedin.com/company/gideonrobotics/",
+    "pass": 3
+   },
+   {
+    "quote": "GIDEON® - LinkedIn About us GIDEON® exists to advance the global effort against Infectious Disease. We help protect societies by providing reliable, timely epidemiological data.",
+    "url": "https://www.linkedin.com/company/gideon-informatics",
+    "pass": 3
+   },
+   {
+    "quote": "Scientific Data Analyst at GIDEON® — India | LinkedIn Jobs GIDEON Informatics is a growing online medical software and bioinformatics company whose success is rooted in its highly diverse global scientific team. We seek an experienced, detail-oriented, and self-motivated Scientific Data Analyst to help us serve our user community of public health, microbiology, and point-of-care professionals.",
+    "url": "https://in.linkedin.com/jobs/view/scientific-data-analyst-at-gideon®-4483247520",
+    "pass": 3
+   },
+   {
+    "quote": "Warehouse and Logistics Specialist at Gideon — Zagreb ... 5 days ago · Apply for Warehouse and Logistics Specialist at Gideon in Zagreb Metropolitan Area. Full-time Entry level role. See responsibilities, qualifications, and similar jobs on LinkedIn.",
+    "url": "https://hr.linkedin.com/jobs/view/warehouse-and-logistics-specialist-at-gideon-4485589567",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Gideon - FacebookThe Gideons International - FacebookGideon's Bakehouse | Orlando FL - FacebookGideon Profiles - FacebookGideon Italiaander - FacebookGideon Rescue Company | Ardmore OK - FacebookGideon USA - Facebook Gideon 🤝 Death Before Decaf 247 Coffee lovers, this one’s for you. We teamed up with the legends at Death Before Decaf 247 to create our own custom blend! You can score a bag online, ",
+    "url": "https://www.facebook.com/GideonAL/",
+    "pass": 3
+   },
+   {
+    "quote": "The Gideons International - FacebookGideon's Bakehouse | Orlando FL - FacebookGideon Profiles - FacebookGideon Italiaander - FacebookGideon Rescue Company | Ardmore OK - FacebookGideon USA - Facebook 2 days ago · The Gideon showed her the plan of salvation in the back of the Testament, and together they read through God’s invitation to receive eternal life through Christ. 1 day ago · We respect ou",
+    "url": "https://www.facebook.com/thegideonsintl/",
+    "pass": 3
+   },
+   {
+    "quote": "Gideon's Bakehouse | Orlando FL - FacebookGideon Profiles - FacebookGideon Italiaander - FacebookGideon Rescue Company | Ardmore OK - FacebookGideon USA - Facebook 1 day ago · We respect our traditions at Gideon's, and for 10 years, we've celebrated October with a unique dessert every weekend! The kitchen rule: it has to be something we've never done before! View the profiles of people named Gideo",
+    "url": "https://www.facebook.com/gideonsbakehouse/",
+    "pass": 3
+   },
+   {
+    "quote": "Gideon Profiles - Facebook View the profiles of people named Gideon. Join Facebook to connect with Gideon and others you may know. Facebook gives people the power to share and...",
+    "url": "https://www.facebook.com/public/Gideon/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.gideon.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gideon.ai/solutions/trey/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gideon.ai/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gideon.ai/customer-stories/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gideon.ai/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gideon.ai/solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gideon.ai/company-information/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://physicalainews.jp/companies/gideon",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://carroemotos.com.br/%E3%82%A4%E3%82%B9%E3%83%A9%E3%82%A8%E3%83%AB%E3%80%81%E8%BB%8D%E7%94%A8%E7%A9%BA%E4%B8%AD%E7%B5%A6%E6%B2%B9%E3%83%BB%E8%BC%B8%E9%80%81%E5%90%91%E3%81%91%E5%88%9D%E3%81%AEkc-46%E3%80%8Cgideon%E3%80%8D/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gideon.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toyota-shokki.co.jp/news/2024/09/05/008710/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taimen-eigyo.com/words/so-dairiten/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/gideon",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gideononline.com/case-studies-post/pliva-integrates-gideon-into-environmental-monitoring-protocols-pharma/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.godaddy.com/en/reseller-program",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/gideon-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai.lounge.ai/companies/gideon",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/231235-66",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/gideon",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/masaka_true/n/ndbbcab0f957f?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tatipan/n/n5ff0af571616?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/alive_mango4490/n/nbc5f8bdfae83?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/elden_haitani/n/n50d5a183fffa?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/GideonAL",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/gideonheilpern2",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/gideon_leek",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/gideonscorral",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/gideonrobotics/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/gideon-informatics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/jobs/view/scientific-data-analyst-at-gideon®-4483247520",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://hr.linkedin.com/jobs/view/warehouse-and-logistics-specialist-at-gideon-4485589567",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/GideonAL/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/thegideonsintl/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/gideonsbakehouse/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/public/Gideon/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/@gideon_",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Gideon 日本 導入",
+   "results": [
+    "https://physicalainews.jp/companies/gideon",
+    "https://carroemotos.com.br/イスラエル、軍用空中給油・輸送向け初のkc-46「gideon」/",
+    "https://www.gideon.co.jp/",
+    "https://www.toyota-shokki.co.jp/news/2024/09/05/008710/index.html",
+    "https://www.gideon.ai/news-press/toyota-announces-strategic-investment-in-gideon/",
+    "https://www.gideon.co.jp/cyber_cleaner/cyber_cleaner/price.html",
+    "https://monoist.itmedia.co.jp/mn/articles/2609/10/news040.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gideon 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://taimen-eigyo.com/words/so-dairiten/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairiten-navi.jp/?p=439",
+    "https://www.mkikuchi-law.com/17785461217883",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.indexpro.co.jp/distributor/search-maker",
+    "https://www.dell.com/ja-jp/blog/837894/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Gideon Japan",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Gideon manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/customer/gideon",
+    "https://www.gideon.ai/news-press/gideon-opens-new-manufacturing-facility-in-bolingbrook-greater-chicago-area/",
+    "https://www.gideononline.com/case-studies-post/pliva-integrates-gideon-into-environmental-monitoring-protocols-pharma/",
+    "https://www.gideon.ai/wp-content/uploads/2020/02/Gideon-Brothers-DB-Schenker-case-study.pdf",
+    "http://www.gideonproducts.com/",
+    "https://www.gideononline.com/customers/",
+    "https://www.casestudies.com/customer/gideon-constructors"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gideon white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.godaddy.com/en/reseller-program",
+    "https://partners.spectrum.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.mycompanyworks.com/reseller",
+    "https://www.tenable.com/partners/channel-partner-program"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gideon founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/gideon-revenue",
+    "https://ai.lounge.ai/companies/gideon",
+    "https://pitchbook.com/profiles/company/231235-66",
+    "https://startupintros.com/orgs/gideon",
+    "https://www.crunchbase.com/organization/GideonRobotics",
+    "https://prospeo.io/c/gideon-systems-inctm-revenue",
+    "https://tracxn.com/d/companies/gideon/__S5HgDSzjKN2uR9fpeq5iqNIahsp1IS8Schky57bHxyQ/founders-and-board-of-directors"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Gideon",
+   "results": [
+    "https://note.com/masaka_true/n/ndbbcab0f957f?hl=en",
+    "https://note.com/tatipan/n/n5ff0af571616?hl=en",
+    "https://note.com/alive_mango4490/n/nbc5f8bdfae83?hl=en",
+    "https://note.com/elden_haitani/n/n50d5a183fffa?hl=en",
+    "https://note.com/keen_eagle5084/n/n97f7e3488868",
+    "https://note.com/onoshin_digital/n/ndc11ce5d1fc4",
+    "https://note.com/otaku_desu25/n/ncc1731de7258"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Gideon",
+   "results": [
+    "https://x.com/GideonAL",
+    "https://x.com/gideonheilpern2",
+    "https://x.com/gideon_leek",
+    "https://x.com/gideonscorral",
+    "https://x.com/thegideons",
+    "https://x.com/gidonsaar",
+    "https://x.com/SpotGideon"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Gideon",
+   "results": [
+    "https://www.linkedin.com/company/gideonrobotics/",
+    "https://www.linkedin.com/company/gideon-informatics",
+    "https://in.linkedin.com/jobs/view/scientific-data-analyst-at-gideon®-4483247520",
+    "https://hr.linkedin.com/jobs/view/warehouse-and-logistics-specialist-at-gideon-4485589567",
+    "https://il.linkedin.com/in/gideon-argaman-comarcom",
+    "https://il.linkedin.com/in/gideon-shohet",
+    "https://uk.linkedin.com/in/gideon-amos-obe-mp-ba2640a"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Gideon",
+   "results": [
+    "https://www.facebook.com/GideonAL/",
+    "https://www.facebook.com/thegideonsintl/",
+    "https://www.facebook.com/gideonsbakehouse/",
+    "https://www.facebook.com/public/Gideon/",
+    "https://www.facebook.com/GideonItaliaander0/",
+    "https://www.facebook.com/the300/",
+    "https://www.facebook.com/GideonUSA/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gideon note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://diamond.jp/articles/-/388572",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://note.jp/n/n51b6ea4b0bd6"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gideon X 投稿",
+   "results": [
+    "https://x.com/@gideon_",
+    "https://www.instagram.com/x_.gideon/",
+    "https://www.instagram.com/gideon___x/",
+    "https://www.bilibili.com/video/BV14sWM6aEn2/",
+    "https://x.com/Gideon_0805",
+    "https://www.youtube.com/@XGIDEON",
+    "https://www.youtube.com/@GideonXproduction/shorts"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部35頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部35頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部35頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部35頁・検索12回）"
+ }
+}

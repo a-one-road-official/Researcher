@@ -1,0 +1,1236 @@
+{
+ "name": "Autarc",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜AUMS不適合",
+ "researched_at": "2026-11-10T21:55:47.049623+00:00",
+ "official_url": "https://www.autarc.energy/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "3. Seed Round",
+    "value": "11-Dec-2023    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/537438-16",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2023",
+    "url": "https://startupintros.com/orgs/autarc",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "Berlin, Germany",
+    "url": "https://startupintros.com/orgs/autarc",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "in einer einzigen Software. Statt zwischen fünf verschiedenen Tools zu wechseln, steuern Sie den gesamten Kundenprozess an einem Ort. Von der Anfrage über die",
+    "url": "https://www.autarc.energy/",
+    "pass": 1
+   },
+   {
+    "quote": "nimmt Anfragen rund um die Uhr entgegen und ordnet sie automatisch zu. Über das Kundenportal informieren Sie Ihre Auftraggeber jederzeit über den Projektstatus und stellen wichtige Dokumente zentral zur Verfügung.",
+    "url": "https://www.autarc.energy/",
+    "pass": 1
+   },
+   {
+    "quote": "unterstützt autarc Sie dabei, Projekte schneller, präziser und effizienter umzusetzen und den Planungsaufwand spürbar zu reduzieren.",
+    "url": "https://www.autarc.energy/",
+    "pass": 1
+   },
+   {
+    "quote": "haben Ihre Monteure alle Projektinformationen auf dem Smartphone oder Tablet dabei. Dokumentieren Sie Baufortschritte und erstellen Sie Abnahmeprotokolle einfach und bequem.",
+    "url": "https://www.autarc.energy/",
+    "pass": 1
+   },
+   {
+    "quote": "Scotty beantwortet Fragen zu Projekten, analysiert Dokumente, findet Informationen in Sekunden und unterstützt Ihr Team direkt in autarc oder per WhatsApp.",
+    "url": "https://www.autarc.energy/",
+    "pass": 1
+   },
+   {
+    "quote": "Erstellen Sie intelligente Workflows und lassen Sie Routineaufgaben wie Erinnerungen, Follow-ups oder interne Prozesse automatisch im Hintergrund ausführen.",
+    "url": "https://www.autarc.energy/",
+    "pass": 1
+   },
+   {
+    "quote": "Planungen automatisch prüfen",
+    "url": "https://www.autarc.energy/",
+    "pass": 1
+   },
+   {
+    "quote": "Validieren Sie Heizungs- und PV-Planungen mit KI, erkennen Sie Fehler frühzeitig und erhalten Sie intelligente Optimierungsvorschläge für jedes Projekt.",
+    "url": "https://www.autarc.energy/",
+    "pass": 1
+   },
+   {
+    "quote": "Analysieren Sie Wettbewerbsangebote, bewerten Sie neue Leads automatisch und erstellen Sie Projektzusammenfassungen für schnellere und erfolgreichere Verkaufsgespräche.",
+    "url": "https://www.autarc.energy/",
+    "pass": 1
+   },
+   {
+    "quote": "Das integrierte KI-Telefon nimmt Kundenanfragen und Störungsmeldungen automatisch entgegen und das rund um die Uhr. Jede Anfrage wird sofort erfasst, dem richtigen Projekt zugeordnet und bei Dringlichkeit weitergeleitet. Das stärkt Ihr Auftreten gegenüber Kunden.",
+    "url": "https://www.autarc.energy/",
+    "pass": 1
+   },
+   {
+    "quote": "Mit der Field App dokumentieren Ihre Monteure den Baufortschritt direkt vor Ort. Fotos, Notizen und Prüfberichte werden digital erfasst und automatisch archiviert. Das schafft eine lückenlose Baudokumentation, die den gesetzlichen Anforderungen entspricht.",
+    "url": "https://www.autarc.energy/",
+    "pass": 1
+   },
+   {
+    "quote": "Kunden berichten von Zeitersparnissen zwischen 10 und 12 Stunden pro Projekt bei der Planung. Die automatische Datenerfassung per LiDAR-Scan und die KI-gestützte Berechnung beschleunigen den Weg vom Ersttermin bis zum fertigen Angebot erheblich.",
+    "url": "https://www.autarc.energy/",
+    "pass": 1
+   },
+   {
+    "quote": "Durch die automatische Datenerfassung erstellen Sie Angebote schneller und präziser. Sie treten gegenüber Ihren Kunden professioneller auf und gewinnen so schneller deren Vertrauen. Das Ergebnis: mehr Abschlüsse bei gleichem Zeitaufwand.",
+    "url": "https://www.autarc.energy/",
+    "pass": 1
+   },
+   {
+    "quote": "bewertet. Kunden heben besonders die Benutzerfreundlichkeit und die kontinuierliche Weiterentwicklung der Software hervor. Ein Nutzer beschreibt autarc als innovatives Unternehmen, das sich auf Basis der Kundenbedürfnisse weiterentwickelt. Andere Kunden loben das kompetente Team und die praktische Unterstützung bei der Planung von Wärmepumpen.",
+    "url": "https://www.autarc.energy/",
+    "pass": 1
+   },
+   {
+    "quote": "Anlagen pro Jahr plant Daume mit autarc",
+    "url": "https://www.autarc.energy/",
+    "pass": 1
+   },
+   {
+    "quote": "Im autarc Blog finden Sie praxisnahe Artikel zu den Themen digitale Büroorganisation und Baustellenmanagement, sowie zur Heizungs- und PV-Planung mit autarc. Die Inhalte richten sich an Inhaber:innen, Installateure und Mitarbeiter von SHK-Betrieben und Elektrobetrieben.",
+    "url": "https://www.autarc.energy/",
+    "pass": 1
+   },
+   {
+    "quote": "Einblicke aus der Praxis",
+    "url": "https://www.autarc.energy/",
+    "pass": 1
+   },
+   {
+    "quote": "Im autarc Podcast sprechen Branchenexperten über die aktuellen Herausforderungen der Energiewende, die Digitalisierung im Handwerk und praktische Tipps für den Betriebsalltag.",
+    "url": "https://www.autarc.energy/",
+    "pass": 1
+   },
+   {
+    "quote": "Fakten? Kein Problem.",
+    "url": "https://www.autarc.energy/",
+    "pass": 1
+   },
+   {
+    "quote": "autarc veröffentlicht eigene Studien und Whitepaper zu den Bereichen Büro, Planung und Baustelle. Die Daten stammen aus Kundenumfragen, Interviews und externen Quellen.",
+    "url": "https://www.autarc.energy/",
+    "pass": 1
+   },
+   {
+    "quote": "Bereits über 2000 Betriebe nutzen autarc’s Software in Europa, um ihre Planungs- und Büroprozesse zu digitalisieren. Auf der Seite Kundengeschichten berichten Betriebe wie die",
+    "url": "https://www.autarc.energy/",
+    "pass": 1
+   },
+   {
+    "quote": ", welche konkreten Probleme die Betriebe vor der Einführung von autarc hatten und wie die Software ihren Alltag verändert hat. Zum Beispiel berichtet Nikolaus Daume, Geschäftsführer der Daume GmbH, von bis zu 10 Stunden Zeitersparnis pro Sanierung bei der Planung.",
+    "url": "https://www.autarc.energy/",
+    "pass": 1
+   },
+   {
+    "quote": "Im autarc-Newsletter erhalten Sie regelmäßig Einblicke in neue Software-Funktionen, Praxistipps für den Betriebsalltag und aktuelle Informationen zu Fördermitteln und gesetzlichen Änderungen. Jederzeit abbestellbar.",
+    "url": "https://www.autarc.energy/",
+    "pass": 1
+   },
+   {
+    "quote": ", Geschäftsführer von autarc, stellt Ihnen in den nächsten 10 Minuten einen kompakten Einblick in unsere Software vor. Gerne präsentieren wir Ihnen autarc in einer persönlichen 30-minütigen Videokonferenz ausführlich – individuell auf Ihre Fragen und Bedürfnisse abgestimmt.",
+    "url": "https://www.autarc.energy/",
+    "pass": 1
+   },
+   {
+    "quote": "Das autarc Partnerprogramm",
+    "url": "https://www.autarc.energy/unternehmen/partnerprogramm",
+    "pass": 1
+   },
+   {
+    "quote": "Wir bieten Ihnen attraktive Möglichkeiten von einer Empfehlung unserer Software zu profitieren.",
+    "url": "https://www.autarc.energy/unternehmen/partnerprogramm",
+    "pass": 1
+   },
+   {
+    "quote": "Attraktive Provisionen von bis zu 500€ pro Kunde",
+    "url": "https://www.autarc.energy/unternehmen/partnerprogramm",
+    "pass": 1
+   },
+   {
+    "quote": "Sie registrieren Sich über unser Formular, um autarc an Kunden, Kollegen oder andere Bekannte zu empfehlen. Wir prüfen Ihre Anfrage und melden uns bei Ihnen.",
+    "url": "https://www.autarc.energy/unternehmen/partnerprogramm",
+    "pass": 1
+   },
+   {
+    "quote": "Für jeden abgeschlossenen Vertrag erhalten Sie eine attraktive Provision. Für Ihre Empfehlung erhalten Sie eine Gutschrift auf die nächste Rechnung.",
+    "url": "https://www.autarc.energy/unternehmen/partnerprogramm",
+    "pass": 1
+   },
+   {
+    "quote": "Was steckt hinter unserem Partnerprogramm?",
+    "url": "https://www.autarc.energy/unternehmen/partnerprogramm",
+    "pass": 1
+   },
+   {
+    "quote": "In einem kurzen Videoanruf lernen wir Sie persönlich kennen, um besser einschätzen zu können, ob Sie die Voraussetzungen für eine Partnerschaft mit autarc erfüllen. So stellen wir sicher, dass unsere Zusammenarbeit für beide Seiten sinnvoll und erfolgreich ist.",
+    "url": "https://www.autarc.energy/unternehmen/partnerprogramm",
+    "pass": 1
+   },
+   {
+    "quote": "Nutzen Sie unser Empfehlungsprogramm in der Software",
+    "url": "https://www.autarc.energy/unternehmen/partnerprogramm",
+    "pass": 1
+   },
+   {
+    "quote": "Faire Preise ohne versteckte Kosten.Sie erhalten von uns ein transparentes Angebot mit klarer Kalkulation – zuverlässig und planbar.",
+    "url": "https://www.autarc.energy/unternehmen/partnerprogramm",
+    "pass": 1
+   },
+   {
+    "quote": "In unserem Hilfe-Center finden Sie Anleitungen, Videos und Antworten auf häufige Fragen. Wenn Sie nicht weiterkommen, schreiben Sie uns einfach direkt über den Chat unten rechts in der App.",
+    "url": "https://www.autarc.energy/unternehmen/partnerprogramm",
+    "pass": 1
+   },
+   {
+    "quote": "Lernen Sie autarc kennen und erfahren Sie, wie Sie mit unserer Software Zeit sparen und Prozesse vereinfachen können. Buchen Sie eine Demo – wir zeigen Ihnen, wie es funktioniert.",
+    "url": "https://www.autarc.energy/unternehmen/partnerprogramm",
+    "pass": 1
+   },
+   {
+    "quote": "FAQ zum Partnerprogramm",
+    "url": "https://www.autarc.energy/unternehmen/partnerprogramm",
+    "pass": 1
+   },
+   {
+    "quote": "Kann ich als bestehender autarc Kunde am Partnerprogramm teilnehmen?",
+    "url": "https://www.autarc.energy/unternehmen/partnerprogramm",
+    "pass": 1
+   },
+   {
+    "quote": "Wie funktioniert das Partnerprogramm von autarc?",
+    "url": "https://www.autarc.energy/unternehmen/partnerprogramm",
+    "pass": 1
+   },
+   {
+    "quote": "Welche Vorteile bietet das Empfehlungsprogramm?",
+    "url": "https://www.autarc.energy/unternehmen/partnerprogramm",
+    "pass": 1
+   },
+   {
+    "quote": ", Geschäftsführer von autarc, stellt Ihnen in den nächsten 10 Minuten einen kompakten Einblick in unsere Software vor. Gerne präsentieren wir Ihnen autarc in einer persönlichen 30-minütigen Videokonferenz ausführlich – individuell auf Ihre Fragen und Bedürfnisse abgestimmt.",
+    "url": "https://www.autarc.energy/unternehmen/partnerprogramm",
+    "pass": 1
+   },
+   {
+    "quote": "The autarc partner program",
+    "url": "https://www.autarc.energy/global/company/referral-program",
+    "pass": 1
+   },
+   {
+    "quote": "Individual promotional material (upon request)",
+    "url": "https://www.autarc.energy/global/company/referral-program",
+    "pass": 1
+   },
+   {
+    "quote": "We provide you with individual advertising material and an individual referral link. After the successful recommendation, an interested party signs up for a live demo with one of our personal customer advisors.",
+    "url": "https://www.autarc.energy/global/company/referral-program",
+    "pass": 1
+   },
+   {
+    "quote": "What is behind our partner program?",
+    "url": "https://www.autarc.energy/global/company/referral-program",
+    "pass": 1
+   },
+   {
+    "quote": "In einem kurzen Videoanruf lernen wir Sie persönlich kennen, um besser einschätzen zu können, ob Sie die Voraussetzungen für eine Partnerschaft mit autarc erfüllen. So stellen wir sicher, dass unsere Zusammenarbeit für beide Seiten sinnvoll und erfolgreich ist.",
+    "url": "https://www.autarc.energy/global/company/referral-program",
+    "pass": 1
+   },
+   {
+    "quote": "Use our referral program in the software",
+    "url": "https://www.autarc.energy/global/company/referral-program",
+    "pass": 1
+   },
+   {
+    "quote": "Check out our Help Center for instructions, videos, and answers to common questions. If you're stuck, simply write to us directly via the chat at the bottom right of the app.",
+    "url": "https://www.autarc.energy/global/company/referral-program",
+    "pass": 1
+   },
+   {
+    "quote": "Get to know autarc and find out how you can save time and simplify processes with our software. Book a demo — we'll show you how it works.",
+    "url": "https://www.autarc.energy/global/company/referral-program",
+    "pass": 1
+   },
+   {
+    "quote": "Can I participate in the partner program as an existing autarc customer?",
+    "url": "https://www.autarc.energy/global/company/referral-program",
+    "pass": 1
+   },
+   {
+    "quote": "How does autarc's partner program work?",
+    "url": "https://www.autarc.energy/global/company/referral-program",
+    "pass": 1
+   },
+   {
+    "quote": "What are the benefits of the referral program?",
+    "url": "https://www.autarc.energy/global/company/referral-program",
+    "pass": 1
+   },
+   {
+    "quote": ", managing director of autarc, will give you a compact insight into our software in the next 10 minutes. We would be happy to present autarc to you in detail in a personal 30-minute video conference — individually tailored to your questions and needs.",
+    "url": "https://www.autarc.energy/global/company/referral-program",
+    "pass": 1
+   },
+   {
+    "quote": "The autarc partner program",
+    "url": "https://www.autarc.energy/gb/company/referral-program",
+    "pass": 1
+   },
+   {
+    "quote": "Individual promotional material (upon request)",
+    "url": "https://www.autarc.energy/gb/company/referral-program",
+    "pass": 1
+   },
+   {
+    "quote": "We provide you with individual advertising material and an individual referral link. After the successful recommendation, an interested party signs up for a live demo with one of our personal customer advisors.",
+    "url": "https://www.autarc.energy/gb/company/referral-program",
+    "pass": 1
+   },
+   {
+    "quote": "What is behind our partner program?",
+    "url": "https://www.autarc.energy/gb/company/referral-program",
+    "pass": 1
+   },
+   {
+    "quote": "In einem kurzen Videoanruf lernen wir Sie persönlich kennen, um besser einschätzen zu können, ob Sie die Voraussetzungen für eine Partnerschaft mit autarc erfüllen. So stellen wir sicher, dass unsere Zusammenarbeit für beide Seiten sinnvoll und erfolgreich ist.",
+    "url": "https://www.autarc.energy/gb/company/referral-program",
+    "pass": 1
+   },
+   {
+    "quote": "Use our referral program in the software",
+    "url": "https://www.autarc.energy/gb/company/referral-program",
+    "pass": 1
+   },
+   {
+    "quote": "Check out our Help Center for instructions, videos, and answers to common questions. If you're stuck, simply write to us directly via the chat at the bottom right of the app.",
+    "url": "https://www.autarc.energy/gb/company/referral-program",
+    "pass": 1
+   },
+   {
+    "quote": "Get to know autarc and find out how you can save time and simplify processes with our software. Book a demo — we'll show you how it works.",
+    "url": "https://www.autarc.energy/gb/company/referral-program",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Anlagen pro Jahr plant Daume mit autarc",
+    "url": "https://www.autarc.energy/",
+    "pass": 1
+   },
+   {
+    "quote": "With autarc, you carry out hydraulic balancing according to procedure B to ensure optimal heat distribution within the building. This includes calculating the required flow rates for each heating system. Please note that autarc operates independently of specific manufacturers and valve types.",
+    "url": "https://www.autarc.energy/global/customers/heating-engineer",
+    "pass": 1
+   },
+   {
+    "quote": "With autarc, you perform hydraulic balancing in accordance with method B to ensure optimal heat distribution in the building. This includes calculating the required flow rates for each heating system. Please note that autarc is independent of specific manufacturers and valve types.",
+    "url": "https://www.autarc.energy/global/customers/energy-consultant",
+    "pass": 1
+   },
+   {
+    "quote": "autarc is already being used by over 2,000 companies. As a master student, you get direct access to what's driving the industry.",
+    "url": "https://www.autarc.energy/global/customers/master-student",
+    "pass": 1
+   },
+   {
+    "quote": "With autarc, you perform hydraulic balancing in accordance with method B to ensure optimal heat distribution in the building. This includes calculating the required flow rates for each heating system. Please note that autarc is independent of specific manufacturers and valve types.",
+    "url": "https://www.autarc.energy/gb/customers/heating-engineer",
+    "pass": 1
+   },
+   {
+    "quote": "With autarc, you perform hydraulic balancing in accordance with method B to ensure optimal heat distribution in the building. This includes calculating the required flow rates for each heating system. Please note that autarc is independent of specific manufacturers and valve types.",
+    "url": "https://www.autarc.energy/gb/customers/energy-consultant",
+    "pass": 1
+   },
+   {
+    "quote": ", your technicians have all project information with them on their smartphone or tablet. Easily and conveniently document construction progress and create acceptance protocols.",
+    "url": "https://www.autarc.energy/gb",
+    "pass": 1
+   },
+   {
+    "quote": "With the Field App, your technicians document construction progress directly on-site. Photos, notes, and inspection reports are digitally recorded and automatically archived. This creates comprehensive construction documentation that complies with legal requirements.",
+    "url": "https://www.autarc.energy/gb",
+    "pass": 1
+   },
+   {
+    "quote": "Advanced Manufacturing",
+    "url": "https://pitchbook.com/profiles/company/537438-16",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Schreiben Sie uns eine E-Mail an oder kontaktieren Sie und in unserem Live-Chat.",
+    "url": "https://www.autarc.energy/unternehmen/partnerprogramm",
+    "pass": 1
+   },
+   {
+    "quote": "Send us an email or contact us in our live chat.",
+    "url": "https://www.autarc.energy/global/company/referral-program",
+    "pass": 1
+   },
+   {
+    "quote": "Email us at: partner@autarc.energy",
+    "url": "https://www.autarc.energy/global/company/referral-program",
+    "pass": 1
+   },
+   {
+    "quote": "Send us an email or contact us in our live chat.",
+    "url": "https://www.autarc.energy/gb/company/referral-program",
+    "pass": 1
+   },
+   {
+    "quote": "Email us at: partner@autarc.energy",
+    "url": "https://www.autarc.energy/gb/company/referral-program",
+    "pass": 1
+   },
+   {
+    "quote": "Wyślij nam e-mail lub skontaktuj się z nami na naszym czacie na żywo.",
+    "url": "https://www.autarc.energy/pl/przedsiebiorstwa/program-partnerski",
+    "pass": 1
+   },
+   {
+    "quote": "Zapraszamy do wysłania nam e-maila — pomoże Ci kolega z programu partnerskiego.",
+    "url": "https://www.autarc.energy/pl/przedsiebiorstwa/program-partnerski",
+    "pass": 1
+   },
+   {
+    "quote": "Share quotes, questions, or funding forms directly with your customers – via link or app, without email chaos.",
+    "url": "https://www.autarc.energy/global/customers/heating-engineer",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us for information about the enterprise contract",
+    "url": "https://www.autarc.energy/global/customers/heating-engineer",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us for information about the enterprise contract",
+    "url": "https://www.autarc.energy/global/customers/solar-engineers",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us for information about the enterprise contract",
+    "url": "https://www.autarc.energy/global/customers/municipal-utilities",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us for information about the enterprise contract",
+    "url": "https://www.autarc.energy/global/customers/energy-consultant",
+    "pass": 1
+   },
+   {
+    "quote": "Share offers, questions or funding forms directly with your customers — via link or app, without email chaos.",
+    "url": "https://www.autarc.energy/gb/customers/heating-engineer",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us for information about the enterprise contract",
+    "url": "https://www.autarc.energy/gb/customers/heating-engineer",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us for information about the enterprise contract",
+    "url": "https://www.autarc.energy/gb/customers/solar-engineers",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us for information about the enterprise contract",
+    "url": "https://www.autarc.energy/gb/customers/energy-consultant",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/537438-16",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "The autarc partner program",
+    "url": "https://www.autarc.energy/global/company/referral-program",
+    "pass": 1
+   },
+   {
+    "quote": "What is behind our partner program?",
+    "url": "https://www.autarc.energy/global/company/referral-program",
+    "pass": 1
+   },
+   {
+    "quote": "Use our referral program in the software",
+    "url": "https://www.autarc.energy/global/company/referral-program",
+    "pass": 1
+   },
+   {
+    "quote": "Can I participate in the partner program as an existing autarc customer?",
+    "url": "https://www.autarc.energy/global/company/referral-program",
+    "pass": 1
+   },
+   {
+    "quote": "How does autarc's partner program work?",
+    "url": "https://www.autarc.energy/global/company/referral-program",
+    "pass": 1
+   },
+   {
+    "quote": "What are the benefits of the referral program?",
+    "url": "https://www.autarc.energy/global/company/referral-program",
+    "pass": 1
+   },
+   {
+    "quote": "The autarc partner program",
+    "url": "https://www.autarc.energy/gb/company/referral-program",
+    "pass": 1
+   },
+   {
+    "quote": "What is behind our partner program?",
+    "url": "https://www.autarc.energy/gb/company/referral-program",
+    "pass": 1
+   },
+   {
+    "quote": "Use our referral program in the software",
+    "url": "https://www.autarc.energy/gb/company/referral-program",
+    "pass": 1
+   },
+   {
+    "quote": "Can I participate in the partner program as an existing autarc customer?",
+    "url": "https://www.autarc.energy/gb/company/referral-program",
+    "pass": 1
+   },
+   {
+    "quote": "How does autarc's partner program work?",
+    "url": "https://www.autarc.energy/gb/company/referral-program",
+    "pass": 1
+   },
+   {
+    "quote": "What are the benefits of the referral program?",
+    "url": "https://www.autarc.energy/gb/company/referral-program",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Create a room-by-room heat load calculation as the basis for all legally required calculations in existing buildings. This calculation is based on the DIN EN 12831 standard, which is required for carrying out a hydraulic balancing according to procedure B.",
+    "url": "https://www.autarc.energy/global/customers/heating-engineer",
+    "pass": 1
+   },
+   {
+    "quote": "With autarc, you carry out hydraulic balancing according to procedure B to ensure optimal heat distribution within the building. This includes calculating the required flow rates for each heating system. Please note that autarc operates independently of specific manufacturers and valve types.",
+    "url": "https://www.autarc.energy/global/customers/heating-engineer",
+    "pass": 1
+   },
+   {
+    "quote": "With autarc, you can carry out hydraulic balancing digitally in accordance with method B — quickly, reliably and comprehensibly. All calculations are based on current requirements and can be used directly for funding applications and documentation.",
+    "url": "https://www.autarc.energy/global/customers/municipal-utilities",
+    "pass": 1
+   },
+   {
+    "quote": "Create a heat load calculation for each room as a basis for all legally required calculations in the existing building. This calculation is based on the DIN EN 12831 standard, which is necessary for carrying out a hydraulic adjustment in accordance with method B.",
+    "url": "https://www.autarc.energy/global/customers/energy-consultant",
+    "pass": 1
+   },
+   {
+    "quote": "Be part of a strong network",
+    "url": "https://www.autarc.energy/global/customers/master-student",
+    "pass": 1
+   },
+   {
+    "quote": "Create a heat load calculation for each room as a basis for all legally required calculations in the existing building. This calculation is based on the MCS standards, which is necessary for carrying out a hydraulic adjustments.",
+    "url": "https://www.autarc.energy/gb/customers/heating-engineer",
+    "pass": 1
+   },
+   {
+    "quote": "Create a heat load calculation for each room as a basis for all legally required calculations in the existing building. This calculation is based on the DIN EN 12831 standard, which is necessary for carrying out a hydraulic adjustment in accordance with method B.",
+    "url": "https://www.autarc.energy/gb/customers/energy-consultant",
+    "pass": 1
+   },
+   {
+    "quote": "and AI-supported data acquisition, autarc saves you up to 12 hours in planning and installing a heat pump. Buildings, rooms, and heating surfaces are digitally recorded and made directly usable for",
+    "url": "https://www.autarc.energy/gb",
+    "pass": 1
+   },
+   {
+    "quote": "The autarc blog features practical articles on digital office organization, field management, heat planning, and PV planning with autarc. Our content is tailored for owners, installers, and employees in the HVAC and electrical sectors.",
+    "url": "https://www.autarc.energy/gb",
+    "pass": 1
+   },
+   {
+    "quote": "ドイツでの顧客数380社および7桁のARR達成",
+    "url": "https://ainiche.net/ja/tools/autarc",
+    "pass": 3
+   },
+   {
+    "quote": "Tripo3D Studio",
+    "url": "https://moge.ai/ja/product/autarcenergy",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/537438-16",
+    "pass": 3
+   },
+   {
+    "quote": "Autarc has 39 total employees.",
+    "url": "https://pitchbook.com/profiles/company/537438-16",
+    "pass": 3
+   },
+   {
+    "quote": "What is Autarc’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/537438-16",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Autarc is",
+    "url": "https://pitchbook.com/profiles/company/537438-16",
+    "pass": 3
+   },
+   {
+    "quote": "Autarc consolidates acquisition, planning, subsidy applications, financing, and maintenance into a single OS, eliminating the need for multiple tools.",
+    "url": "https://startupintros.com/orgs/autarc",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "autarc - AIツールレビュー | AIniche — 概要 autarcを通じて、autarcは欧州のワンストップエネルギー導入プログラム用のOSを構築しています。課題：エネルギー施工業者はヒートポンプおよび太陽光発電システムの普及を拡大したいと考えていますが、非効率な販売、計画、および設置プロセスによって制約を受けています ...",
+    "url": "https://ainiche.net/ja/tools/autarc",
+    "pass": 3
+   },
+   {
+    "quote": "Press - autarc.energy — Here you can find the latest press releases, images and information about autarc — the software platform for digital energy solutions in the craft sector.",
+    "url": "https://www.autarc.energy/global/company/press",
+    "pass": 3
+   },
+   {
+    "quote": "autarc.energy:高度なデジタルツールを備えた包括的ソフトウェアプラ... — autarc.energyは、ヒートポンプの計画、販売、設置を簡素化し加速するために設計された次世代ソフトウェアソリューションです。暖房エンジニアとインストーラー向けに調整されたこのプラットフォームは、3Dスキャン、LiDARベースのラジエーター検出、ARシミュレーションなどの高度な機能を ...",
+    "url": "https://moge.ai/ja/product/autarcenergy",
+    "pass": 3
+   },
+   {
+    "quote": "autarc: エネルギー計画の統合プラットフォーム | 熱ポンプ & PV設計 ... — Dec 26, 2025 · autarc.energy 製品情報 autarc.energyとは何ですか？ autarcは、現代的なエネルギー計画のためのプラットフォームです。 プロフェッショナルが熱ポンプ、太陽光発電（PV）、および補助金の申請をデジタルで計画することができます。",
+    "url": "https://seektool.ai/jp/ai/autarc-energy",
+    "pass": 3
+   },
+   {
+    "quote": "Autarc Inc. | Tokyo Innovation Base (TIB) — 2026/09/15 SpiceFactory Share This",
+    "url": "https://tib.metro.tokyo.lg.jp/?explore_en=autarc-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Career - autarc.energy — Become part of autarc and shape the energy revolution with us. We are looking for talents who want to combine technology, sustainability and digitization.",
+    "url": "https://www.autarc.energy/global/company/career",
+    "pass": 3
+   },
+   {
+    "quote": "Customer administration - autarc.energy — Customer management is the central system for recording and organizing all customer data in a craft business — from contact data and project information to documents such as offers, invoices or funding applications. With digital customer management in the autarc software, you always have an overview, react faster and work much more efficiently.",
+    "url": "https://www.autarc.energy/global/products/administration",
+    "pass": 3
+   },
+   {
+    "quote": "Customer portal - autarc.energy — The autarc customer portal starts after the heating check and guides your customers through the entire consultation process. From the first aptitude test to the on-site appointment, everything is done digitally. You determine which manufacturers are displayed and your customers can find out for themselves. The portal saves you time and qualifies interested parties",
+    "url": "https://www.autarc.energy/global/products/customer-portal",
+    "pass": 3
+   },
+   {
+    "quote": "Autarc 2026 Company Profile: Valuation, Funding & Investors ...autarc - 2026 Company Profile, Team, Funding & Competitors ...autarc Funding: $9.3M Raised, Investors & History (2026 ...autarc: Funding, Team & Investors | Startup Introsautarc — Funding, Investors & Team | Seedtableautarc - Products, Competitors, Financials, Employees ...autarc, Berlin — Funding & Investors | Fundable — Autarc is a P",
+    "url": "https://pitchbook.com/profiles/company/537438-16",
+    "pass": 3
+   },
+   {
+    "quote": "autarc - 2026 Company Profile, Team, Funding & Competitors ...autarc Funding: $9.3M Raised, Investors & History (2026 ...autarc: Funding, Team & Investors | Startup Introsautarc — Funding, Investors & Team | Seedtableautarc - Products, Competitors, Financials, Employees ...autarc, Berlin — Funding & Investors | Fundable — Jul 20, 2026 · autarc - About the company autarc is a series A company based",
+    "url": "https://tracxn.com/d/companies/autarc/__5ip4iY5irtbztWbpMiH5CmoUWYEt2t1gExVsVB1w0Ac",
+    "pass": 3
+   },
+   {
+    "quote": "autarc Funding: $9.3M Raised, Investors & History (2026 ... — autarc develops a software platform for trades businesses that design and… Founded 2023. 11–50 employees. Berlin, Germany. $9.3M raised across 2 rounds.",
+    "url": "https://indexed.vc/companies/autarc-energy",
+    "pass": 3
+   },
+   {
+    "quote": "autarc: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Autarc’s solution was born from this insight, combining deep industry knowledge with digital innovation. The company quickly gained traction, securing seed funding from PropTech1 Ventures and Better Ventures, and launched its platform to immediate adoption by installers across Germany.",
+    "url": "https://startupintros.com/orgs/autarc",
+    "pass": 3
+   },
+   {
+    "quote": "autarc — Funding, Investors & Team | Seedtable — Jul 28, 2026 · autarc: autarc is a Berlin-based company founded in 2023 by Etienne-Noel Krause, Thies Hansen and Marius Seufzer.. View funding, investors, and team on Seedtabl",
+    "url": "https://seedtable.com/companies/autarc",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Stefan (@autarc) / Posts / X Commission for @autarc 💖 His OC Rasu! Thank you so much for commissioning this lovely OC of yours, loved it from beginning to end! 🩷Commission me on Vgen ️ vgen.co/Maeriishu.",
+    "url": "https://x.com/autarc",
+    "pass": 3
+   },
+   {
+    "quote": "Autarch (@_Autarch_) / X Autarch is a tabletop game studio that publishes old-school RPGs. Its flagship title is the mithral best-selling Adventurer Conqueror King System.",
+    "url": "https://x.com/_Autarch_",
+    "pass": 3
+   },
+   {
+    "quote": "Autarch on X: \"Amazing cover art by @MikePerryArt for Annals ... Autarch is a tabletop game studio that publishes old-school RPGs. Its flagship title is the mithral best-selling Adventurer Conqueror King System ...",
+    "url": "https://x.com/_Autarch_/status/2116156985431544167",
+    "pass": 3
+   },
+   {
+    "quote": "Commission for @autarc His OC Rasu! Thank you so much for ... Commission for @autarc 💖 His OC Rasu! Thank you so much for commissioning this lovely OC of yours, loved it from beginning to end! 🩷Commission me on Vgen ️ vgen.co/Maeriishu.",
+    "url": "https://x.com/maeriishu_art/status/2032824364291252469",
+    "pass": 3
+   },
+   {
+    "quote": "First skeb of らすちゃん - x.com Stefan (@autarc). 33 views. First skeb of らすちゃん 🫶",
+    "url": "https://x.com/autarc/status/2073405561773662699",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "autarc (YC S24) - LinkedIn autarc (YC S24) | 5,047 followers on LinkedIn. The agentic OS for energy installers | Accelerating the transition to low carbon homes by building the leading heat pump OS for HVAC installers",
+    "url": "https://www.linkedin.com/company/autarc-energy/",
+    "pass": 3
+   },
+   {
+    "quote": "☀️ autarc (YC S24) at Intersolar We’re thrilled to be back at ... ☀️ autarc (YC S24) at Intersolar We’re thrilled to be back at Intersolar this year and to talk with you about the future of digital PV planning. 🚀 📍 You’ll find us at booth C4.380C ...",
+    "url": "https://www.linkedin.com/posts/autarc-energy_autarc-yc-s24-at-intersolar-were-thrilled-activity-7472581235567968257-Xhqu",
+    "pass": 3
+   },
+   {
+    "quote": "Etienne-Noel Krause – autarc (YC S24) - we’re hiring! ...Lennart Hölscher – autarc (YC S24) | LinkedInDavid Sgorbati - Nova SBE | autarc (YC S24) | START Lisbon ...Tino Wenderoth – autarc (YC S24) | JIBS | LinkedInDillon R. - Founding team @ Alaro | LinkedIn autarc (YC S24) - we’re hiring! 🏡 | ESCP · Etienne-Noel Krause, Co-Founder of autarc, Master’s Degree in Strategy & Digital Business student ",
+    "url": "https://de.linkedin.com/in/etienne-krause",
+    "pass": 3
+   },
+   {
+    "quote": "Lennart Hölscher – autarc (YC S24) | LinkedInDavid Sgorbati - Nova SBE | autarc (YC S24) | START Lisbon ...Tino Wenderoth – autarc (YC S24) | JIBS | LinkedInDillon R. - Founding team @ Alaro | LinkedIn Berufserfahrung: autarc (YC S24) · Ausbildung: Fachhochschule Münster · Ort: Berlin · 500+ Kontakte auf LinkedIn. Sehen Sie sich das Profil von Lennart Hölscher Lennart Hölscher auf LinkedIn, einer ",
+    "url": "https://de.linkedin.com/in/lennart-hoelscher-",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Autarc - Facebook Oct 21, 2026 · 📧 Keep track of every email sent through autarc. Emails sent directly from autarc are now collected in one clear overview, making it easier to keep track of your customer communication without searching through different projects.",
+    "url": "https://www.facebook.com/p/Autarc-61579158418619/",
+    "pass": 3
+   },
+   {
+    "quote": "Autarc - Facebook 🧾 Quotes in minutes With autarc, you can create professional quotes directly from your project, without double entries or manual data transfers.🚀 All products, components and calculations used during the design phase are automatically transferred to the quote. This means that the technical design immediately generates a clear ...",
+    "url": "https://www.facebook.com/61579158418619/",
+    "pass": 3
+   },
+   {
+    "quote": "Autarc.it - Facebook Sep 18, 2026 · Autarc.it. 167 followers · 103 talking about this. Dal rilievo al preventivo. Un unico software per fotovoltaico e pompe di calore.",
+    "url": "https://www.facebook.com/p/Autarcit-61588035925890/",
+    "pass": 3
+   },
+   {
+    "quote": "Autarc.fr - Facebook Aug 19, 2026 · Autarc.fr. 56 followers. Logiciel de vente et de planification pour les entreprises qui installent des pompes à chaleur et de",
+    "url": "https://www.facebook.com/p/Autarcfr-61588624611503/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.autarc.energy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autarc.energy/unternehmen/partnerprogramm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autarc.energy/global/company/referral-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autarc.energy/gb/company/referral-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autarc.energy/pl/przedsiebiorstwa/program-partnerski",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autarc.energy/global/customers/heating-engineer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autarc.energy/global/customers/solar-engineers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autarc.energy/global/customers/municipal-utilities",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autarc.energy/global/customers/energy-consultant",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autarc.energy/global/customers/daume",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autarc.energy/global/customers/master-student",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autarc.energy/global/customers/new-founder",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autarc.energy/global/customers/aircona",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autarc.energy/global/customers/hormann",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autarc.energy/gb/customers/heating-engineer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autarc.energy/gb/customers/solar-engineers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autarc.energy/gb/customers/energy-consultant",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autarc.energy/gb/customers/hormann",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autarc.energy/gb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autarc.energy/gb/customers/new-founder",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://ainiche.net/ja/tools/autarc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://moge.ai/ja/product/autarcenergy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seektool.ai/jp/ai/autarc-energy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/ARCHION",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japanesecartrade.com/autorec/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://carfromjapan.com/japan-used-car-exporters/Autorec+Enterprise,+Ltd-58243d1e2afaa2c4b28a2fca",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japanesecartrade.com/autorec/about-us.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "http://www.japancarreviews.com/guides/autorec-review-japanese-used-car-site/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tcs.com/what-we-do/industries/manufacturing/case-studies",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/537438-16",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/autarc/__5ip4iY5irtbztWbpMiH5CmoUWYEt2t1gExVsVB1w0Ac",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://indexed.vc/companies/autarc-energy",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://startupintros.com/orgs/autarc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/autarc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/_Autarch_",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/_Autarch_/status/2116156985431544167",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/maeriishu_art/status/2032824364291252469",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/autarc-energy/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/autarc-energy_autarc-yc-s24-at-intersolar-were-thrilled-activity-7472581235567968257-Xhqu",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/in/etienne-krause",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/in/lennart-hoelscher-",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Autarc-61579158418619/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61579158418619/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Autarcit-61588035925890/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Autarcfr-61588624611503/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/autarc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/autarc/status/2073405561773662699",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Autarc 日本 導入",
+   "results": [
+    "https://ainiche.net/ja/tools/autarc",
+    "https://www.autarc.energy/global/company/press",
+    "https://moge.ai/ja/product/autarcenergy",
+    "https://seektool.ai/jp/ai/autarc-energy",
+    "https://tib.metro.tokyo.lg.jp/?explore_en=autarc-inc",
+    "https://www.autarc.energy/global",
+    "https://global.honda/jp/news/2026/4260305b.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Autarc 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ARCHION",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://chigai-hikaku.com/?p=36920",
+    "https://www.autotechnic.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Autarc Japan",
+   "results": [
+    "https://www.japanesecartrade.com/autorec/",
+    "https://carfromjapan.com/japan-used-car-exporters/Autorec+Enterprise,+Ltd-58243d1e2afaa2c4b28a2fca",
+    "https://www.japanesecartrade.com/autorec/about-us.html",
+    "http://www.japancarreviews.com/guides/autorec-review-japanese-used-car-site/",
+    "https://www.autarc.energy/global/company/career",
+    "https://www.autarc.energy/global",
+    "http://autorec.jp/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Autarc manufacturing customer case study",
+   "results": [
+    "https://www.autarc.energy/global/products/administration",
+    "https://www.autarc.energy/global/products/customer-portal",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.tcs.com/what-we-do/industries/manufacturing/case-studies",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.mckinsey.com/about-us/case-studies",
+    "https://www.grantthornton.com/insights/case-studies/manufacturing/2025/customer-experience-transformation-at-a-global-manufacturer"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Autarc white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partners.spectrum.com/",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Autarc founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/537438-16",
+    "https://tracxn.com/d/companies/autarc/__5ip4iY5irtbztWbpMiH5CmoUWYEt2t1gExVsVB1w0Ac",
+    "https://indexed.vc/companies/autarc-energy",
+    "https://startupintros.com/orgs/autarc",
+    "https://seedtable.com/companies/autarc",
+    "https://www.cbinsights.com/company/autarc",
+    "https://www.tryfundable.ai/company/autarc"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Autarc",
+   "results": [
+    "https://note.com/seigo77",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/zephel01/n/nad0ad3615d3f",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/osusogura/n/n14df61a0f0dc"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Autarc",
+   "results": [
+    "https://x.com/autarc",
+    "https://x.com/_Autarch_",
+    "https://x.com/_Autarch_/status/2116156985431544167",
+    "https://x.com/maeriishu_art/status/2032824364291252469",
+    "https://x.com/_Autarch_/status/2039449180494590142",
+    "https://x.com/Autarchagents",
+    "https://x.com/autarc/status/2072809770881343564"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Autarc",
+   "results": [
+    "https://www.linkedin.com/company/autarc-energy/",
+    "https://www.linkedin.com/posts/autarc-energy_autarc-yc-s24-at-intersolar-were-thrilled-activity-7472581235567968257-Xhqu",
+    "https://de.linkedin.com/in/etienne-krause",
+    "https://de.linkedin.com/in/lennart-hoelscher-",
+    "https://pt.linkedin.com/in/davidsgorbati",
+    "https://se.linkedin.com/in/tino-wenderoth",
+    "https://uk.linkedin.com/in/dillonroberts9"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Autarc",
+   "results": [
+    "https://www.facebook.com/p/Autarc-61579158418619/",
+    "https://www.facebook.com/61579158418619/",
+    "https://www.facebook.com/p/Autarcit-61588035925890/",
+    "https://www.facebook.com/p/Autarcfr-61588624611503/",
+    "https://www.facebook.com/61579158418619/posts/-a-redesigned-project-overviewweve-completely-refreshed-the-project-overview-in-/122176393568971947/",
+    "https://www.facebook.com/autarcenergy/",
+    "https://www.facebook.com/61579158418619/posts/simplify-your-mcs-heat-loss-calculations-with-autarcget-accurate-compliant-resul/122164435130971947/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Autarc note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://x.com/note_corp/status/2074734197949034502",
+    "https://kitaishihon.com/company/5243/board-of-director"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Autarc X 投稿",
+   "results": [
+    "https://x.com/autarc",
+    "https://x.com/autarc/status/2073405561773662699",
+    "https://uravation.com/media/claude-code-x-auto-post-2026/",
+    "https://vibs.jp/blog/2026-06-21-c6233e63",
+    "https://www.ichiyajo.jp/notes/2026-05-18-x-auto-post-guide-2026/",
+    "https://note.com/easy_wand/n/na1a498cc3275",
+    "https://d-cubed-lab.com/how-to-auto-post-tweets"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部35頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部35頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部35頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部35頁・検索12回）"
+ }
+}

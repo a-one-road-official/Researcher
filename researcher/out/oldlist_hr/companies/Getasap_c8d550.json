@@ -1,0 +1,822 @@
+{
+ "name": "Getasap",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AUMS不適合",
+ "researched_at": "2026-11-10T22:31:40.720528+00:00",
+ "official_url": "https://www.getasap.us/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2025",
+    "url": "https://startupintros.com/orgs/getasap-2",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "San Francisco, CA, USA",
+    "url": "https://startupintros.com/orgs/getasap-2",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "GETASAP | Same-Day Fresh Produce Logistics & AI Freight",
+    "url": "https://www.getasap.us/",
+    "pass": 1
+   },
+   {
+    "quote": "Fresh Produce Logistics",
+    "url": "https://www.getasap.us/",
+    "pass": 1
+   },
+   {
+    "quote": "Powering the most successful retailers and restaurants with same-day fresh produce and AI freight.",
+    "url": "https://www.getasap.us/",
+    "pass": 1
+   },
+   {
+    "quote": "Same-Day Produce Delivery",
+    "url": "https://www.getasap.us/",
+    "pass": 1
+   },
+   {
+    "quote": "Get loads booked, rates negotiated, trucks dispatched — automatically.",
+    "url": "https://www.getasap.us/",
+    "pass": 1
+   },
+   {
+    "quote": "Produce · Aisle 4",
+    "url": "https://www.getasap.us/",
+    "pass": 1
+   },
+   {
+    "quote": "Prior week · 3.8%",
+    "url": "https://www.getasap.us/",
+    "pass": 1
+   },
+   {
+    "quote": "We guarantee #1 best-quality produce.",
+    "url": "https://www.getasap.us/",
+    "pass": 1
+   },
+   {
+    "quote": "Modernizing America's Fresh Produce Supply Chain.",
+    "url": "https://www.getasap.us/",
+    "pass": 1
+   },
+   {
+    "quote": "GETASAP | Pranavkrishna Suresh",
+    "url": "https://www.pksuresh.com/essays/getasap",
+    "pass": 3
+   },
+   {
+    "quote": "The promise of AI is to bridge the gap between the unstructured world and the structured one.",
+    "url": "https://www.pksuresh.com/essays/getasap",
+    "pass": 3
+   },
+   {
+    "quote": "On the other end, the ability to come up with good decisions and strategies with AI does not correlate with efficient execution. AI can tell you what should happen, but unless it has a way to act in the physical world, the work still falls back onto people to execute. Therefore, not much changes except for the impracticable realization that your operation is inefficient.",
+    "url": "https://www.pksuresh.com/essays/getasap",
+    "pass": 3
+   },
+   {
+    "quote": "Fresh produce is one of those industries.",
+    "url": "https://www.pksuresh.com/essays/getasap",
+    "pass": 3
+   },
+   {
+    "quote": "Fresh produce distribution has hardly changed in decades.",
+    "url": "https://www.pksuresh.com/essays/getasap",
+    "pass": 3
+   },
+   {
+    "quote": "In the time America went to the moon, connected most of the world to the internet, and shrank transistors by orders of magnitude, the system responsible for moving much of our food has remained surprisingly manual.",
+    "url": "https://www.pksuresh.com/essays/getasap",
+    "pass": 3
+   },
+   {
+    "quote": "The phrase \"fresh produce distribution\" makes this sound simpler than it is, and \"fresh\" itself is often a mischaracterization.",
+    "url": "https://www.pksuresh.com/essays/getasap",
+    "pass": 3
+   },
+   {
+    "quote": "It is a complex coordination problem across agriculture, trucking, ocean freight, air freight, cold storage, food safety, customs, trade compliance, labor, packaging, energy, water, weather, and inventory management. And the product has to pass through all these hoops and get to your house in just a few days. No, the solution is not another ERP dashboard.",
+    "url": "https://www.pksuresh.com/essays/getasap",
+    "pass": 3
+   },
+   {
+    "quote": "The moment produce is harvested, it starts losing value every subsequent hour. A software bug can be fixed after shipping, but a spoiled case of produce cannot.",
+    "url": "https://www.pksuresh.com/essays/getasap",
+    "pass": 3
+   },
+   {
+    "quote": "The poor state of produce logistics is therefore not the result of one broken industry. It is the accumulated result of many older systems depending on one another across dozens of industries.",
+    "url": "https://www.pksuresh.com/essays/getasap",
+    "pass": 3
+   },
+   {
+    "quote": "A farm may still record inventory manually. A packing house may operate on spreadsheets. A trucking company may rely on phone calls to arrange pickups. A buyer may not know the exact temperature or location of a load. A distributor may not know what inventory will actually arrive until the truck reaches the dock.",
+    "url": "https://www.pksuresh.com/essays/getasap",
+    "pass": 3
+   },
+   {
+    "quote": "Each middleman passes their inefficiency onto the next. By the time the product reaches the consumer, everyone has paid for it.",
+    "url": "https://www.pksuresh.com/essays/getasap",
+    "pass": 3
+   },
+   {
+    "quote": "After our YC batch, we decided to enter the fresh produce industry earlier this year with GETASAP.",
+    "url": "https://www.pksuresh.com/essays/getasap",
+    "pass": 3
+   },
+   {
+    "quote": "GETASAP is focused on transforming fresh produce logistics through two businesses: GETASAP Fresh and GETASAP Logistics.",
+    "url": "https://www.pksuresh.com/essays/getasap",
+    "pass": 3
+   },
+   {
+    "quote": "GETASAP Fresh handles the produce distribution itself, and GETASAP Logistics handles its movement.",
+    "url": "https://www.pksuresh.com/essays/getasap",
+    "pass": 3
+   },
+   {
+    "quote": "Most companies choose one side, either selling produce or freight, but we believe this is exactly where the problem originates. The separation of these highly interdependent industries is one of the main sources of inefficiency in the supply chain.",
+    "url": "https://www.pksuresh.com/essays/getasap",
+    "pass": 3
+   },
+   {
+    "quote": "A produce distributor that does not control logistics cannot fully control quality, timing, or visibility. A logistics company that does not understand produce cannot make the right decisions about temperature, shelf life, or sourcing.",
+    "url": "https://www.pksuresh.com/essays/getasap",
+    "pass": 3
+   },
+   {
+    "quote": "Fresh produce is known as a low-margin business.",
+    "url": "https://www.pksuresh.com/essays/getasap",
+    "pass": 3
+   },
+   {
+    "quote": "The product is perishable, demand changes quickly, and supply depends on weather, seasonality, and crop quality. Freight prices are volatile enough to have indexes tracking them, buyers are price-sensitive, and inventory can lose its value before it is sold.",
+    "url": "https://www.pksuresh.com/essays/getasap",
+    "pass": 3
+   },
+   {
+    "quote": "Industries as complex as produce distribution do not transform simply because new technology exists, but because of several changes happening at once and their compounding effects.",
+    "url": "https://www.pksuresh.com/essays/getasap",
+    "pass": 3
+   },
+   {
+    "quote": "We are living at a time when physical AI will likely become capable of delivering double-digit efficiency gains in produce within just a few years. The use cases are plentiful, with obvious applications ranging from AI-powered laser systems that kill weeds on farms to computer vision-powered spoilage detection systems in packing facilities.",
+    "url": "https://www.pksuresh.com/essays/getasap",
+    "pass": 3
+   },
+   {
+    "quote": "The problem is not that the technology doesn't exist. It does, and it will only improve from here. The problem is that the right players to take advantage of it do not yet exist: businesses whose operating models are perfectly designed to benefit from these advances.",
+    "url": "https://www.pksuresh.com/essays/getasap",
+    "pass": 3
+   },
+   {
+    "quote": "Singularity Capital is proud to highlight",
+    "url": "https://singularitycapital.us/stories/building-smarter-supply-chains-why-we-backed-getasap",
+    "pass": 3
+   },
+   {
+    "quote": "The company operates a tech-enabled, data-driven fresh produce and retail supply service for restaurants, small grocers, dark stores, and regional retailers. By combining physical infrastructure with intelligent software, GETASAP delivers a level of speed and precision previously unavailable to smaller operators.",
+    "url": "https://singularitycapital.us/stories/building-smarter-supply-chains-why-we-backed-getasap",
+    "pass": 3
+   },
+   {
+    "quote": "At the core of GETASAP's business is proprietary demand intelligence software that processes sales and inventory data from every store it serves. The system learns what each location actually sells, maintains optimal stock in nearby micro-fulfillment centers, and enables delivery within eight hours.",
+    "url": "https://singularitycapital.us/stories/building-smarter-supply-chains-why-we-backed-getasap",
+    "pass": 3
+   },
+   {
+    "quote": "Southeast Asia’s $1.13 trillion retail economy is projected to grow to $1.68 trillion by 2033, while the US fresh and regional retail markets continue to face similar challenges of waste, inefficiency, and unpredictable demand. Across regions, the fundamental problem remains the same: fragmented distribution, manual forecasting, and a lack of real-time visibility into consumer demand.",
+    "url": "https://singularitycapital.us/stories/building-smarter-supply-chains-why-we-backed-getasap",
+    "pass": 3
+   },
+   {
+    "quote": "GETASAP’s decentralized fulfillment model uses proprietary AI to predict market shifts, automate replenishment, and position inventory close to actual demand. By integrating global commodity data, logistics signals, and real-time sales information, the platform reduces waste and ensures rapid, cost-efficient delivery.",
+    "url": "https://singularitycapital.us/stories/building-smarter-supply-chains-why-we-backed-getasap",
+    "pass": 3
+   },
+   {
+    "quote": "The company’s dual-market strategy gives it a unique advantage. What works in the dynamic, high-density markets of Southeast Asia informs the company’s operations in the US, where the same principles of speed, data transparency, and efficient last-mile fulfillment are equally transformative.",
+    "url": "https://singularitycapital.us/stories/building-smarter-supply-chains-why-we-backed-getasap",
+    "pass": 3
+   },
+   {
+    "quote": "Today, GETASAP’s partnerships include global names such as Unilever, Ben & Jerry’s, Frito Lay, Takis, Feastables by MrBeast, and Prime Hydration.",
+    "url": "https://singularitycapital.us/stories/building-smarter-supply-chains-why-we-backed-getasap",
+    "pass": 3
+   },
+   {
+    "quote": "At Singularity Capital, we invest in the systems that move the world. GETASAP’s approach—integrating technology, infrastructure, and data intelligence—represents exactly the kind of operational innovation that defines the next generation of global commerce. We are proud to be on board as they build the supply chain of the future.",
+    "url": "https://singularitycapital.us/stories/building-smarter-supply-chains-why-we-backed-getasap",
+    "pass": 3
+   },
+   {
+    "quote": "Product launches, milestones, and stories from founders we back.",
+    "url": "https://singularitycapital.us/stories/building-smarter-supply-chains-why-we-backed-getasap",
+    "pass": 3
+   },
+   {
+    "quote": "GETASAP was founded in 2025 by Pranavkrishna Suresh (Founder) and Raghav Arora (Founder).",
+    "url": "https://startupintros.com/orgs/getasap-2",
+    "pass": 3
+   },
+   {
+    "quote": "https://and retailers end up eating the waste. GETASAP fixes this by rebuilding distribution around real demand and fast execution. We deliver wholesale fresh produce with 8-hour same-day delivery",
+    "url": "https://startupintros.com/orgs/getasap-2",
+    "pass": 3
+   },
+   {
+    "quote": "https://and the operation becomes cheaper and more predictable over time.\\nHeadquarters/location: San Francisco",
+    "url": "https://startupintros.com/orgs/getasap-2",
+    "pass": 3
+   },
+   {
+    "quote": "https://\"factsBrief\": \"Organization: GETASAP\\nWebsite: https://www.getasap.us/\\nYC company page: https://www.ycombinator.com/companies/getasap\\nWhat they do: Distribution at the Speed of Compute\\nLong description: Fresh-produce supply chains are built around guesswork. Growers plant without clear demand signals",
+    "url": "https://startupintros.com/orgs/getasap-2",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "GETASAP - LinkedIn — Founded in 2023, GETASAP is a San Francisco–based technology and supply chain infrastructure company transforming fresh produce distribution and freight. GETASAP provides same-day delivery to...",
+    "url": "https://www.linkedin.com/company/get-asap",
+    "pass": 3
+   },
+   {
+    "quote": "Farm-to-Retail Produce Distribution for Growers | GETASAP — Sell directly into the GETASAP network of thousands of restaurants and retailers — product moves the day it’s picked and settlement lands in 48 hours.",
+    "url": "https://www.getasap.us/distribution/growers",
+    "pass": 3
+   },
+   {
+    "quote": "Nationwide Produce Distribution Network | GETASAP — Demand from thousands of buyers the day you harvest, with fast settlement. The GETASAP network — farm sourcing, California hubs, and delivery to thousands of restaurant and retail locations, with nationwide freight.",
+    "url": "https://www.getasap.us/distribution/network",
+    "pass": 3
+   },
+   {
+    "quote": "GETASAP | Same-Day Fresh Produce Logistics & AI Freight — Powering the most successful retailers and restaurants with same-day fresh produce and AI freight. Order by midnight. On your shelves by afternoon. Get loads booked, rates negotiated, trucks dispatched — automatically. Forecast demand, cut waste, and optimize orders from one operating view.",
+    "url": "https://www.getasap.us/",
+    "pass": 3
+   },
+   {
+    "quote": "GETASAP | Pranavkrishna Suresh — Aug 1, 2025 · A company that is vertically integrated, technologically ambitious, and driven enough to implement frontier technologies while remaining relentlessly customer-obsessed is what we intend to build with GETASAP.",
+    "url": "https://www.pksuresh.com/essays/getasap",
+    "pass": 3
+   },
+   {
+    "quote": "Building Smarter Supply Chains: Why We Backed GETASAP. — Founded in 2023, GETASAP is modernizing how retailers access and manage inventory across the world’s most complex supply chain environments. The company operates a tech-enabled, data-driven fresh produce and retail supply service for restaurants, small grocers, dark stores, and regional retailers.",
+    "url": "https://singularitycapital.us/stories/building-smarter-supply-chains-why-we-backed-getasap",
+    "pass": 3
+   },
+   {
+    "quote": "GetASAP ASIA raises $3.45M to revolutionize B2B ... - LinkedIn — GetASAP a startup founded by two teenage entrepreneurs—16-year-old Raghav Arora and 19-year-old Pranavkrishna Suresh—has raised $3.45 million in pre-seed funding to transform the way small...",
+    "url": "https://www.linkedin.com/posts/founderstoday_getasap-asia-raises-345m-to-revolutionize-activity-7353470477450805248-GJuF",
+    "pass": 3
+   },
+   {
+    "quote": "Getasap - 2026 Company Profile, Team, Funding & Competitors ... — Getasap - About the company Getasap is a series A company based in San Francisco (United States), founded in 2023 by Pranavkrishna Suresh and Raghav Arora. It operates as a Wholesale distributor of FMCG products in Asian markets. Getasap has raised $3.45M in funding from General Catalyst.",
+    "url": "https://tracxn.com/d/companies/getasap/__wGFy-plt7ohWwlhUSnkBD2I3kyhnbL3GmU0qpG-L4ag",
+    "pass": 3
+   },
+   {
+    "quote": "GETASAP — Funding, Investors & Team | Seedtable — Jul 28, 2026 · GETASAP is a San Jose, California-based company founded in 2023 by Raghav Arora. TechCrunch names GETASAP among the most sought-after YC Summer 2025 Demo Day startups, noting General Catalyst backed it at one of the batch's highest valuations.",
+    "url": "https://seedtable.com/companies/getasap",
+    "pass": 3
+   },
+   {
+    "quote": "GETASAP: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Backed by early-stage investor Y Combinator as a participant in its Summer 2025 accelerator batch, the logistics startup currently operates with a workforce of 17 employees.",
+    "url": "https://startupintros.com/orgs/getasap-2",
+    "pass": 3
+   },
+   {
+    "quote": "GETASAP — Company Profile & Funding (2026) | Indexed.vc — GETASAP is an Artificial Intelligence company based in San Francisco, United States, founded in 2025. Investors include Singularity Capital, Pioneer Fund and Ethos Fund.",
+    "url": "https://indexed.vc/companies/getasap",
+    "pass": 3
+   },
+   {
+    "quote": "GetASAP - Crunchbase Company Profile & Funding — GETASAP is a technology-driven logistics company that supplies fresh produce to restaurants, retailers, and other food businesses. It provides same-day delivery services and connects produce sourcing with transportation and inventory management.",
+    "url": "https://www.crunchbase.com/organization/getasap",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "This is why many of the industries most important to society have benefited less from software than people assume. They need better infrastructure and operators who understand how to build and maintain that infrastructure.",
+    "url": "https://www.pksuresh.com/essays/getasap",
+    "pass": 3
+   },
+   {
+    "quote": "Most Americans interact with this industry several times a day, though the mechanics powering it are often unseen. Every strawberry in a grocery store, every avocado in a restaurant, and every case of lettuce has passed through a long chain of farms, packing houses, trucks, brokers, warehouses, inspectors, and buyers.",
+    "url": "https://www.pksuresh.com/essays/getasap",
+    "pass": 3
+   },
+   {
+    "quote": "The company operates a tech-enabled, data-driven fresh produce and retail supply service for restaurants, small grocers, dark stores, and regional retailers. By combining physical infrastructure with intelligent software, GETASAP delivers a level of speed and precision previously unavailable to smaller operators.",
+    "url": "https://singularitycapital.us/stories/building-smarter-supply-chains-why-we-backed-getasap",
+    "pass": 3
+   },
+   {
+    "quote": "https://\"factsBrief\": \"Organization: GETASAP\\nWebsite: https://www.getasap.us/\\nYC company page: https://www.ycombinator.com/companies/getasap\\nWhat they do: Distribution at the Speed of Compute\\nLong description: Fresh-produce supply chains are built around guesswork. Growers plant without clear demand signals",
+    "url": "https://startupintros.com/orgs/getasap-2",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Many of the largest companies in the industry are still family businesses started by someone's parents or grandparents. Others are holding companies that acquired those same businesses. The names have changed, but the operating model often has not.",
+    "url": "https://www.pksuresh.com/essays/getasap",
+    "pass": 3
+   },
+   {
+    "quote": "A farm may still record inventory manually. A packing house may operate on spreadsheets. A trucking company may rely on phone calls to arrange pickups. A buyer may not know the exact temperature or location of a load. A distributor may not know what inventory will actually arrive until the truck reaches the dock.",
+    "url": "https://www.pksuresh.com/essays/getasap",
+    "pass": 3
+   },
+   {
+    "quote": "It's an old, fragmented, capital-intensive, operationally complex, and relationship-dependent industry built over decades, where nearly every part of the business required knowledge we did not yet have.",
+    "url": "https://www.pksuresh.com/essays/getasap",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【AI新時代】「10行も書いていない」15歳が25万人を動かす？「バイブ... May 9, 2026 · 彼らに共通しているのは、「技術の習得」よりも「課題の発見と解決」に全リソースを割いている点です。 ① 16歳が挑む「物流の民主化」：GetASAP ラグハフ・アローラ氏は、わずか16歳でAI物流プラットフォーム「GetASAP」を立ち上げました。",
+    "url": "https://note.com/beginner17/n/n80631cd8357e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【AI新時代】「10行も書いていない」15歳が25万人を動かす？「バイブ・コーディング」で変わる起業の常識｜pisuke",
+    "url": "https://note.com/beginner17/n/n80631cd8357e",
+    "pass": 3
+   },
+   {
+    "quote": "【AI新時代】「10行も書いていない」15歳が25万人を動かす？「バイブ・コーディング」で変わる起業の常識",
+    "url": "https://note.com/beginner17/n/n80631cd8357e",
+    "pass": 3
+   },
+   {
+    "quote": "今、世界のビジネス界で、ある「異変」が起きています。",
+    "url": "https://note.com/beginner17/n/n80631cd8357e",
+    "pass": 3
+   },
+   {
+    "quote": "それは、これまでの「プログラミングを何年も修行して、チームを集めて起業する」という常識が、AIによって完全に破壊され始めていることです。",
+    "url": "https://note.com/beginner17/n/n80631cd8357e",
+    "pass": 3
+   },
+   {
+    "quote": "その象徴が、米国の15歳、ニック・ドブロシンスキー氏。",
+    "url": "https://note.com/beginner17/n/n80631cd8357e",
+    "pass": 3
+   },
+   {
+    "quote": "彼は、AIへの「指示（バイブス）」だけで、月間数万人が利用する金融プラットフォームを爆速で作り上げました。",
+    "url": "https://note.com/beginner17/n/n80631cd8357e",
+    "pass": 3
+   },
+   {
+    "quote": "ニック氏が駆使したのは、「バイブ・コーディング（Vibe Coding）」と呼ばれる手法です。",
+    "url": "https://note.com/beginner17/n/n80631cd8357e",
+    "pass": 3
+   },
+   {
+    "quote": "これは、複雑なコードの書き方を覚えるのではなく、AIに対して「こんなアプリを作りたい」という「Vibe（ノリや雰囲気、意図）」を伝え、AIにコードを生成・実行させる開発スタイルを指します。",
+    "url": "https://note.com/beginner17/n/n80631cd8357e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "ASAP (@getasapHQ) / X ASAP is the HQ for remote teams across the world. On ASAP, people can come together, work towards a common mission, and focus on getting sh!t done.",
+    "url": "https://x.com/getasapHQ",
+    "pass": 3
+   },
+   {
+    "quote": "Our First Launch Video for GetASAP (YC S25) https://t.co ... sakshamfifth (Saksham Manchanda). 1 likes 1 replies. Our First Launch Video for GetASAP (YC S25) https://t.co/ALXCeWIB2j",
+    "url": "https://x.com/sakshamfifth/status/2102739824365150590",
+    "pass": 3
+   },
+   {
+    "quote": "@GetASaP_ @thuuuuney I’m with you man. I think COVID really ... @GetASaP_ @thuuuuney I’m with you man. I think COVID really messed up a lot of things for their development cycle at the time, but there really isn’t an excuse anymore.",
+    "url": "https://x.com/UHeynaBoutIt/status/2064081328102834459",
+    "pass": 3
+   },
+   {
+    "quote": "@AlexGaKill46 Been playin since 21 with 800+ hours on each ... ASaP 🥷 (@GetASaP_). 4 likes 877 views. @AlexGaKill46 Been playin since 21 with 800+ hours on each game an haven’t gotten him once 😭😭😭",
+    "url": "https://x.com/GetASaP_/status/2055455767751213169",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "GETASAP - LinkedIn AI-Native Fresh Produce Logistics | Founded in 2023, GETASAP is a San Francisco–based technology and supply chain infrastructure company transforming fresh produce distribution and freight.",
+    "url": "https://www.linkedin.com/company/get-asap",
+    "pass": 3
+   },
+   {
+    "quote": "GETASAP - LinkedIn Founded in 2023, GETASAP is a San Francisco–based technology and supply chain infrastructure company transforming fresh produce distribution and freight. GETASAP provides same-day delivery to...",
+    "url": "https://sg.linkedin.com/company/get-asap",
+    "pass": 3
+   },
+   {
+    "quote": "Pranavkrishna Suresh - Founder, GETASAP (YC S25) | CS ...Raghav Arora - Founder & CEO @ GETASAP (YCS25) | LinkedIngetasap.asia - LinkedInJeffery Liu - OpenAI Campus Lead @ Rice | Prev. GetASAP (YC ...GetASAP ASIA raises $3.45M to revolutionize B2B ... - LinkedIn Founded in 2023, GETASAP is a San Francisco–based AI and supply chain infrastructure company transforming fresh produce distribution and ",
+    "url": "https://www.linkedin.com/in/pranavkrishnasuresh",
+    "pass": 3
+   },
+   {
+    "quote": "Raghav Arora - Founder & CEO @ GETASAP (YCS25) | LinkedIngetasap.asia - LinkedInJeffery Liu - OpenAI Campus Lead @ Rice | Prev. GetASAP (YC ...GetASAP ASIA raises $3.45M to revolutionize B2B ... - LinkedIn GETASAP is a tech-enabled distributor for retailers globally, we leverage demand intelligence and supply chain tech to do 8-hour-inventory deliveries to retailers of any size. getasap.asia Food ",
+    "url": "https://www.linkedin.com/in/raghav-arora-516b1826b",
+    "pass": 3
+   },
+   {
+    "quote": "GETASAP - LinkedIn GETASAP provides same-day delivery to thousands of restaurants and retail locations across the USA, sourcing directly from farms internationally.",
+    "url": "https://www.linkedin.com/company/get-asap",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Getasap - FacebookASAP #futureofworkplace - FacebookFacebook - log in or sign upGet beauty from people who get beauty. Shop CYKLAR, Danessa ...Sephora - Get gifts for them (or you) in time. Ends 6/30 ...ASAP - Get Your Food Delivered by ASAP On Demand. Download ...We'd like to give a shoutout to ASAP On Demand! ️ Having a ... Jul 26, 2024 · Getasap. 337 likes. Focamos a nossa energia em servir bem",
+    "url": "https://www.facebook.com/getasap.pt/",
+    "pass": 3
+   },
+   {
+    "quote": "Get beauty from people who get beauty. Shop CYKLAR, Danessa ... Jun 22, 2026 · Shop CYKLAR, Danessa Myricks Beauty by Danessa Myricks and Y𝐼SE Beauty, and more with free Same-Day Delivery using code GETASAP, now through 6/30. *terms apply",
+    "url": "https://www.facebook.com/sephora/videos/get-beauty-from-people-who-get-beauty-shop-cyklar-danessa-myricks-beauty-by-dane/1006498858448135/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.getasap.us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.getasap.us/company/investor-relations",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.getasap.us/logos/investors/general-catalyst.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.getasap.us/logos/investors/scribble.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.getasap.us/logos/investors/ritual-capital.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.getasap.us/logos/y-combinator.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.asap-japan.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/get-asap",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/get-asap",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.pksuresh.com/essays/getasap",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://singularitycapital.us/stories/building-smarter-supply-chains-why-we-backed-getasap",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.appspace.com/resellers-alliances/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/getasap/__wGFy-plt7ohWwlhUSnkBD2I3kyhnbL3GmU0qpG-L4ag",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://seedtable.com/companies/getasap",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/getasap-2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://indexed.vc/companies/getasap",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/beginner17/n/n80631cd8357e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/getasapHQ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sakshamfifth/status/2102739824365150590",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/UHeynaBoutIt/status/2064081328102834459",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/GetASaP_/status/2055455767751213169",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/get-asap",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://sg.linkedin.com/company/get-asap",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/pranavkrishnasuresh",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/raghav-arora-516b1826b",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/getasap.pt/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/sephora/videos/get-beauty-from-people-who-get-beauty-shop-cyklar-danessa-myricks-beauty-by-dane/1006498858448135/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/get-asap",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://sg.linkedin.com/company/get-asap",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/getasapHQ",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Getasap 日本 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Getasap 代理店 OR 総代理店 OR 日本法人",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Getasap Japan",
+   "results": [
+    "https://www.asap-japan.co.jp/",
+    "https://www.linkedin.com/company/get-asap",
+    "https://www.getasap.us/distribution/growers",
+    "https://www.getasap.us/distribution/network",
+    "https://www.getasap.us/",
+    "https://www.getasap.us/distribution/retailers",
+    "https://www.getasap.us/distribution/same-day-delivery"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Getasap manufacturing customer case study",
+   "results": [
+    "https://www.linkedin.com/company/get-asap",
+    "https://www.pksuresh.com/essays/getasap",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://singularitycapital.us/stories/building-smarter-supply-chains-why-we-backed-getasap",
+    "https://www.linkedin.com/posts/founderstoday_getasap-asia-raises-345m-to-revolutionize-activity-7353470477450805248-GJuF",
+    "https://www.ycombinator.com/companies/getasap",
+    "https://www.getasap.us/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Getasap white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.appspace.com/resellers-alliances/",
+    "https://www.nextiva.com/company/partners",
+    "https://partners.spectrum.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Getasap founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/getasap/__wGFy-plt7ohWwlhUSnkBD2I3kyhnbL3GmU0qpG-L4ag",
+    "https://seedtable.com/companies/getasap",
+    "https://startupintros.com/orgs/getasap-2",
+    "https://indexed.vc/companies/getasap",
+    "https://www.crunchbase.com/organization/getasap",
+    "https://acquirezy.com/organization/getasap",
+    "https://www.cbinsights.com/company/getasap"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Getasap",
+   "results": [
+    "https://note.com/asap/n/n1d65fb409786?hl=en",
+    "https://note.com/masterasap/n/n203920f5f985?hl=en",
+    "https://note.com/beginner17/n/n80631cd8357e",
+    "https://note.com/daikidomon/n/n238268ba8967",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/nosuke0607/n/n09d02c47e173",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Getasap",
+   "results": [
+    "https://x.com/getasapHQ",
+    "https://x.com/sakshamfifth/status/2102739824365150590",
+    "https://x.com/UHeynaBoutIt/status/2064081328102834459",
+    "https://x.com/GetASaP_/status/2055455767751213169",
+    "https://x.com/0ghostsignal/status/2056338482239340924",
+    "https://x.com/Sloki_Bets_702/status/2113393907950305408",
+    "https://x.com/_alfa_jnr/status/2117336055196131500"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Getasap",
+   "results": [
+    "https://www.linkedin.com/company/get-asap",
+    "https://sg.linkedin.com/company/get-asap",
+    "https://www.linkedin.com/in/pranavkrishnasuresh",
+    "https://www.linkedin.com/in/raghav-arora-516b1826b",
+    "https://www.linkedin.com/company/getasap-asia",
+    "https://www.linkedin.com/in/jefferyhliu",
+    "https://www.linkedin.com/posts/founderstoday_getasap-asia-raises-345m-to-revolutionize-activity-7353470477450805248-GJuF"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Getasap",
+   "results": [
+    "https://www.facebook.com/getasap.pt/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/getasap.chat/",
+    "https://www.facebook.com/sephora/videos/get-beauty-from-people-who-get-beauty-shop-cyklar-danessa-myricks-beauty-by-dane/1006498858448135/",
+    "https://www.facebook.com/100064842576496/posts/36172481102400209/",
+    "https://www.facebook.com/GetAsapMY/posts/get-your-food-delivered-by-asap-on-demand-download-the-app-now-getasap-asapondem/2064676953760777/",
+    "https://www.facebook.com/LotsOfLoveSEGi/videos/wed-like-to-give-a-shoutout-to-asap-on-demand-️having-a-limited-time-to-make-an-/1972784313009993/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Getasap note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/ncc37a1d4aa0b",
+    "https://www.ycombinator.com/companies/getasap",
+    "https://www.getasap.us/",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Getasap X 投稿",
+   "results": [
+    "https://www.getasap.us/",
+    "https://www.linkedin.com/company/get-asap",
+    "https://sg.linkedin.com/company/get-asap",
+    "https://x.com/getasapHQ",
+    "https://x.com/GetXBot/status/2120009265926856977",
+    "https://help.x.com/ja/using-x/edit-post",
+    "https://www.huxiu.com/article/4820169.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部28頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部28頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部28頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部28頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部28頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部28頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部28頁・検索12回）"
+ }
+}

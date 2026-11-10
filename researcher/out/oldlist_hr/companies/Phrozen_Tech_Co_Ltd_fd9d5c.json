@@ -1,0 +1,717 @@
+{
+ "name": "Phrozen Tech Co., Ltd.",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜FORMNEXT案件",
+ "researched_at": "2026-11-10T22:27:59.655331+00:00",
+ "official_url": "https://phrozen3d.com/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "東京都豊島区南池袋1丁目16番15号\nダイヤゲート池袋4･5階",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000135692.html",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "〒171-0022 東京都豊島区南池袋1丁目16番15号ダイヤゲート池袋4階/5階",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000135692.html",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2023年11月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000135692.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.",
+    "url": "https://phrozen3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Phrozen Support | Phrozen Technology: Resin 3D Printer Manufacturer",
+    "url": "https://info.phrozen3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Access any resources for your printing",
+    "url": "https://info.phrozen3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Download user guides for printers and accessories",
+    "url": "https://info.phrozen3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Optimize your prints with the recommended resin settings",
+    "url": "https://info.phrozen3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Stay up to date with the latest firmware for your printer",
+    "url": "https://info.phrozen3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Try our test print models to find the perfect settings",
+    "url": "https://info.phrozen3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Softwares and tools to enhance your printing experience",
+    "url": "https://info.phrozen3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Master the Printing Process",
+    "url": "https://info.phrozen3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Explore all the resources available to support your printing journey",
+    "url": "https://info.phrozen3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Find the perfect printer with our comprehensive guide.",
+    "url": "https://info.phrozen3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Master 3D printing basics with our quick videos.",
+    "url": "https://info.phrozen3d.com/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Phrozen Support | Phrozen Technology: Resin 3D Printer Manufacturer",
+    "url": "https://info.phrozen3d.com/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "https://dental.phrozen3d.com/pages/reseller-page",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000135692.html",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Phrozen 革新的な歯科用3Dプリントソリューションを日本市場で本格展開 | フローズンジャパン株式会社のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000135692.html",
+    "pass": 3
+   },
+   {
+    "quote": "Phrozen 革新的な歯科用3Dプリントソリューションを日本市場で本格展開",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000135692.html",
+    "pass": 3
+   },
+   {
+    "quote": "〜 九州デンタルショー2025にて日本初披露の最新ラインナップを展開 〜",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000135692.html",
+    "pass": 3
+   },
+   {
+    "quote": "フローズンジャパン株式会社（本社：東京都豊島区、代表取締役：Ray Wu、日本法人ゼネラルマネージャー 佐藤一幸）は、デジタルデンティストリーに対応した次世代の歯科用3Dプリンティング製品群を本格的に日本市場で展開いたします",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000135692.html",
+    "pass": 3
+   },
+   {
+    "quote": "これに伴い、2025年5月31日・6月1日に開催される「九州デンタルショー2025」にて販売代理店を通じて新製品の展示を行い、販売を開始いたします",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000135692.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年末には日本法人「フローズンジャパン株式会社」を設立し、歯科専門代理店を通じた正式な販売を開始",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000135692.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度より高性能・高精細でありながら、堅牢性・操作性に優れた歯科用ラインナップの大幅な強化・拡充を進め、日本市場への本格展開をスタートしています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000135692.html",
+    "pass": 3
+   },
+   {
+    "quote": "Phrozenは口腔内スキャン以降の3Dプリントデータ準備〜出力、後処理までの全工程に対応した歯科用3Dプリントワークフロー製品を整備し、2025年中に順次日本市場へ導入予定です",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000135692.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月1日より日本国内で販売を開始",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000135692.html",
+    "pass": 3
+   },
+   {
+    "quote": "ブース番号：F-12（出展企業名：内外歯材株式会社）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000135692.html",
+    "pass": 3
+   },
+   {
+    "quote": "備考：九州デンタルショーと同様の新製品展示は 2025年7月9日〜11日「ものづくりワールド東京 / 次世代3Dプリンタ展」",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000135692.html",
+    "pass": 3
+   },
+   {
+    "quote": "Phrozenは、今回展示・販売開始される4製品に加え、2025年度下半期にかけて以下の歯科用新製品を順次日本市場で導入していく予定です",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000135692.html",
+    "pass": 3
+   },
+   {
+    "quote": "フローズンジャパン株式会社は国内の販売代理店とのパートナーシップを構築し、日本常駐スタッフを通じて実践的なサポートを提供して参ります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000135692.html",
+    "pass": 3
+   },
+   {
+    "quote": "歯科市場向けには、現在数社の一次代理店およびその先の販売店と提携しております",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000135692.html",
+    "pass": 3
+   },
+   {
+    "quote": "又新たにPhrozen製品の販売にご関心のある販売店様は、ぜひPhrozen正規一次代理店またはフローズンジャパン株式会社にご連絡ください",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000135692.html",
+    "pass": 3
+   },
+   {
+    "quote": "正規一次代理店（2025年5月現在）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000135692.html",
+    "pass": 3
+   },
+   {
+    "quote": "E-MAIL: infojapan@phrozen3d.com",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000135692.html",
+    "pass": 3
+   },
+   {
+    "quote": "所在地：〒171-0022 東京都豊島区南池袋1丁目16番15号ダイヤゲート池袋4階/5階",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000135692.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都豊島区南池袋1丁目16番15号",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000135692.html",
+    "pass": 3
+   },
+   {
+    "quote": "Phrozen、日本市場本格参入！現地法人設立で3Dプリンター普及加速 - サードニュース",
+    "url": "https://news.3rd-in.co.jp/article/1c8c10c4-a442-11ef-96ca-9ca3ba083d71",
+    "pass": 3
+   },
+   {
+    "quote": "Phrozen、日本市場本格参入！現地法人設立で3Dプリンター普及加速",
+    "url": "https://news.3rd-in.co.jp/article/1c8c10c4-a442-11ef-96ca-9ca3ba083d71",
+    "pass": 3
+   },
+   {
+    "quote": "Phrozen、日本市場へ本格進出！現地法人設立で3Dプリンティングの普及を加速",
+    "url": "https://news.3rd-in.co.jp/article/1c8c10c4-a442-11ef-96ca-9ca3ba083d71",
+    "pass": 3
+   },
+   {
+    "quote": "台湾を拠点とする3Dプリンターメーカー、Phrozen Tech Co.,Ltd.が、日本市場における事業拡大のため、2023年11月15日、初の海外現地法人であるフローズンジャパン株式会社を設立しました",
+    "url": "https://news.3rd-in.co.jp/article/1c8c10c4-a442-11ef-96ca-9ca3ba083d71",
+    "pass": 3
+   },
+   {
+    "quote": "2024年1月から本格的に販売およびサポート活動を展開し、日本国内での3Dプリンター普及に大きく貢献すると期待されています",
+    "url": "https://news.3rd-in.co.jp/article/1c8c10c4-a442-11ef-96ca-9ca3ba083d71",
+    "pass": 3
+   },
+   {
+    "quote": "急成長を遂げるPhrozenと日本の潜在市場",
+    "url": "https://news.3rd-in.co.jp/article/1c8c10c4-a442-11ef-96ca-9ca3ba083d71",
+    "pass": 3
+   },
+   {
+    "quote": "Phrozenは、日本の高度な製造業やIPビジネスの潜在力に着目",
+    "url": "https://news.3rd-in.co.jp/article/1c8c10c4-a442-11ef-96ca-9ca3ba083d71",
+    "pass": 3
+   },
+   {
+    "quote": "これまで欧米や中国と比較して3Dプリンターの普及が進んでいない日本市場において、更なる可能性を見出しています",
+    "url": "https://news.3rd-in.co.jp/article/1c8c10c4-a442-11ef-96ca-9ca3ba083d71",
+    "pass": 3
+   },
+   {
+    "quote": "テクノロジーの進化に伴い、日本市場でも3Dプリンターの需要が高まっていると判断し、本格的な進出を決断しました",
+    "url": "https://news.3rd-in.co.jp/article/1c8c10c4-a442-11ef-96ca-9ca3ba083d71",
+    "pass": 3
+   },
+   {
+    "quote": "フローズンジャパン株式会社は、単なる製品販売にとどまらず、顧客ニーズに合わせたきめ細やかなサポート体制の構築を目指しています",
+    "url": "https://news.3rd-in.co.jp/article/1c8c10c4-a442-11ef-96ca-9ca3ba083d71",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場における多様なニーズを理解し、分野ごとの顧客と緊密な関係を構築することで、最適なソリューションを提供していきます",
+    "url": "https://news.3rd-in.co.jp/article/1c8c10c4-a442-11ef-96ca-9ca3ba083d71",
+    "pass": 3
+   },
+   {
+    "quote": "販売面では、国内販売代理店との連携を強化",
+    "url": "https://news.3rd-in.co.jp/article/1c8c10c4-a442-11ef-96ca-9ca3ba083d71",
+    "pass": 3
+   },
+   {
+    "quote": "特に企業向け市場には、株式会社イグアスと提携し、「Value Added Master Distributor」として、販売パートナーの開拓を推進",
+    "url": "https://news.3rd-in.co.jp/article/1c8c10c4-a442-11ef-96ca-9ca3ba083d71",
+    "pass": 3
+   },
+   {
+    "quote": "消費者・ホビー市場や歯科市場など、既存の代理店との協業も継続することで、幅広い顧客層へのアプローチを目指します",
+    "url": "https://news.3rd-in.co.jp/article/1c8c10c4-a442-11ef-96ca-9ca3ba083d71",
+    "pass": 3
+   },
+   {
+    "quote": "Phrozen CEOであるRay Wu氏は、日本市場への進出に大きな期待を寄せています",
+    "url": "https://news.3rd-in.co.jp/article/1c8c10c4-a442-11ef-96ca-9ca3ba083d71",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル市場でのブランド認知度向上に加え、日本市場への注力姿勢を明確に示すため、海外現地法人を設立",
+    "url": "https://news.3rd-in.co.jp/article/1c8c10c4-a442-11ef-96ca-9ca3ba083d71",
+    "pass": 3
+   },
+   {
+    "quote": "今後の展開とTCT JAPAN 2024への出展",
+    "url": "https://news.3rd-in.co.jp/article/1c8c10c4-a442-11ef-96ca-9ca3ba083d71",
+    "pass": 3
+   },
+   {
+    "quote": "フローズンジャパン株式会社は、2024年1月31日から2月2日まで東京ビッグサイトで開催される「TCT JAPAN 2024」に、株式会社イグアスと共同出展します",
+    "url": "https://news.3rd-in.co.jp/article/1c8c10c4-a442-11ef-96ca-9ca3ba083d71",
+    "pass": 3
+   },
+   {
+    "quote": "Phrozenの日本市場本格参入は、日本の製造業やクリエイティブ産業に大きなインパクトを与える可能性を秘めています",
+    "url": "https://news.3rd-in.co.jp/article/1c8c10c4-a442-11ef-96ca-9ca3ba083d71",
+    "pass": 3
+   },
+   {
+    "quote": "高品質な製品と充実したサポート体制により、3Dプリンティング技術の更なる普及と、日本の産業競争力の強化に貢献することが期待されます",
+    "url": "https://news.3rd-in.co.jp/article/1c8c10c4-a442-11ef-96ca-9ca3ba083d71",
+    "pass": 3
+   },
+   {
+    "quote": "東京都千代田区神田練塀町3富士ソフト秋葉原ビル12階",
+    "url": "https://news.3rd-in.co.jp/article/1c8c10c4-a442-11ef-96ca-9ca3ba083d71",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "E-MAIL: infojapan@phrozen3d.com",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000135692.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Phrozen Technology｜デスクトップ LCD3Dプリンター｜高解像度 — 3D プリンティング技術の業界リーダーとして、Phrozen は 世界初となる 8K LCD 3D プリンターを開発しました。当社はユーザーエクスペリエンスを最適化するために、高水準の 3D プリンター、多様なレジン材料、専門的な後処理装置を提供することに尽力しています。当社は高品質かつ簡単で、手頃 ...",
+    "url": "https://info.phrozen3d.com/ja-jp",
+    "pass": 3
+   },
+   {
+    "quote": "Phrozen、初の海外現地法人 「フローズンジャパン株式会社」を設立 ｜... — Jan 29, 2024 · Phrozen Tech Co.,Ltd. (本社:台湾)は、日本市場における Phrozen ブランドの 3D プリンター及びその関連製品の販売・サポート活動を強化するため、同社初の海外現地法人となるフローズンジャパン株式会社 (本社:東京都千代田区、代表取締役:Ray Wu、日本法人 ...",
+    "url": "https://sekapri.com/business/20240129-17156/",
+    "pass": 3
+   },
+   {
+    "quote": "About us | Phrozen - Phrozen Technology — With international teams and localized support in markets such as Japan, Singapore, and the United States, we’re committed to helping customers turn ideas into real, scalable outcomes faster, more reliably, and with confidence.",
+    "url": "https://phrozen3d.com/en/pages/about-us-phrozen",
+    "pass": 3
+   },
+   {
+    "quote": "Phrozen Technology｜デスクトップ LCD3Dプリンター｜高解像度 — 3D プリンティング技術の業界リーダーとして、Phrozen は 世界初となる 8K LCD 3D プリンターを開発しました。 当社はユーザーエクスペリエンスを最適化するために、高水準の 3D プリンター、多様なレジン材料、専門的な後処理装置を提供することに尽力しています。 当社は高品質かつ簡単で、手頃な価格の3Dプリンターを、あらゆる層のすべての人々に提供していくことを目指しています。",
+    "url": "https://info.phrozen3d.com/ja-jp",
+    "pass": 3
+   },
+   {
+    "quote": "Phrozen Technology｜Desktop LCD 3D Printer｜High Resolution — As an industry leader in 3D printing technology, Phrozen was the first to create the 8K 3D printer. We’re committed to provide high-standard 3D printers, diverse resin materials, and professional post-processing equipment, to optimize the user experience. We aim to bring high-quality & affordable printers to everyone.",
+    "url": "https://global.phrozen3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Phrozen Tech Co Ltd - Crunchbase Company Profile & FundingPhrozen Tech - Overview, News & Similar companies - ZoomInfoPhrozen 3D Printer Information - RocketReachPhrozen 3D Printer Revenue, Funding & ValuationAbout us | Phrozen - Phrozen TechnologyPhrozen Information - RocketReachPhrozen Technologies - Overview, News & Similar companies ... — Phrozen, a 3D printer company that is developed by engi",
+    "url": "https://www.crunchbase.com/organization/phrozen",
+    "pass": 3
+   },
+   {
+    "quote": "Phrozen Tech - Overview, News & Similar companies - ZoomInfo — View Phrozen Tech (www.phrozen3dp.com) location in Hsinchu County, Taiwan , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+    "url": "https://www.zoominfo.com/c/phrozen-tech-co-ltd/481423978",
+    "pass": 3
+   },
+   {
+    "quote": "About us | Phrozen - Phrozen Technology — In 2018, we helped push the industry forward by bringing monochrome LCD technology into the mainstream, delivering faster print speeds, sharper precision, and earning the trust of creators and professionals worldwide.",
+    "url": "https://phrozen3d.com/en/pages/about-us-phrozen",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Guillermo Estrada - Zillow | LinkedInRay Wu - CEO in Phrozen 3D Printer | LinkedInPolly Tseng - Phrozen 3D Printer Marketing Manager | LinkedInMd. Mobarak Hossain - Mechanical Engineer || Product Design ...Kris Pleschner - Engineer at Phrozen technologies llc | LinkedIn Senior Software Engineer & Identity Tech Lead at The Kroger Co. Led the design, migration, and optimization of identity solutions",
+    "url": "https://mx.linkedin.com/in/phrozen",
+    "pass": 3
+   },
+   {
+    "quote": "Ray Wu - CEO in Phrozen 3D Printer | LinkedInPolly Tseng - Phrozen 3D Printer Marketing Manager | LinkedInMd. Mobarak Hossain - Mechanical Engineer || Product Design ...Kris Pleschner - Engineer at Phrozen technologies llc | LinkedIn CEO in Phrozen 3D Printer · · Business Development across Laptop & Smart Phone casing supply chain in China · Process Optimization for Injection & Compression molding",
+    "url": "https://tw.linkedin.com/in/ray-wu-76a90022",
+    "pass": 3
+   },
+   {
+    "quote": "Ray Wu - CEO in Phrozen 3D Printer | LinkedInAbout us | Phrozen普羅森科技股份有限公司-台灣公司網私たちについて | Phrozen普羅森科技股份有限公司 - 企查查From Design to Manufacturing: Vat Photopolymerization 3D ...Ray Wu - Co-Founder and CEO @ Phrozen Tech Co Ltd ... CEO in Phrozen 3D Printer · · Business Development across Laptop & Smart Phone casing supply chain in China · Process Optimization for Injection & Compression molding · Mas",
+    "url": "https://tw.linkedin.com/in/ray-wu-76a90022",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Phrozen Technologies LLC - FacebookPhrozen 3D Printer | Hsinchu - FacebookPhrozen Dental 3D Printer | Hsinchu - FacebookPhrozen 3D Printer Group - FacebookPhrozen Sonic Mighty Series Printer Troubleshooting - FacebookPhrozen 3DP - FacebookPhrozen Sonic Mega Series Printer Troubleshooting ... - Facebook Apr 23, 2021 · Phrozen Technologies LLC. 16 followers. PHROZEN TECHNOLOGIES LLC Specializing in ",
+    "url": "https://www.facebook.com/Phrozentech/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://phrozen3d.com/",
+    "status": "http_403",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://info.phrozen3d.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000135692.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.3rd-in.co.jp/article/1c8c10c4-a442-11ef-96ca-9ca3ba083d71",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://info.phrozen3d.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iguazu-phrozen.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cwill.com/case-studies/phrozen/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/channelwill/case-study/phrozen-achieved-18k-program-members-and-46-customer-lifetime-value-with-loloyal-trustooio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/phrozen",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/phrozen",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/phrozen-tech-co-ltd/481423978",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://rocketreach.co/phrozen-3d-printer-profile_b429db57c1ff6edd",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/phrozen-3d-printer-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mx.linkedin.com/in/phrozen",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tw.linkedin.com/in/ray-wu-76a90022",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Phrozentech/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tw.linkedin.com/in/ray-wu-76a90022",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Phrozen Tech 日本 導入",
+   "results": [
+    "https://phrozen3d.com/ja-jp",
+    "https://info.phrozen3d.com/ja-jp",
+    "https://prtimes.jp/main/html/rd/p/000000009.000135692.html",
+    "https://news.3rd-in.co.jp/article/1c8c10c4-a442-11ef-96ca-9ca3ba083d71",
+    "https://sekapri.com/business/20240129-17156/",
+    "https://idarts.co.jp/3dp/phrozen-iguazu/",
+    "https://phrozen3d.com/pages/changes-of-sales-for-japanese-market"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Phrozen Tech 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://phrozen3d.com/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.indexpro.co.jp/distributor/search-maker",
+    "https://formnext.mesago.com/frankfurt/en/exhibitor-search.detail.html/phrozen-tech-co-ltd.html",
+    "https://phrozen3d.com/ja-jp/pages/find-a-reseller",
+    "https://phrozen3d.com/ja-jp/pages/about-us-phrozen",
+    "https://sekapri.com/business/20240129-17156/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Phrozen Tech Japan",
+   "results": [
+    "https://phrozen3d.com/en/pages/about-us-phrozen",
+    "https://phrozen3d.com/ja-jp",
+    "https://info.phrozen3d.com/ja-jp",
+    "https://www.iguazu-phrozen.jp/",
+    "https://global.phrozen3d.com/",
+    "https://www.iguazu-phrozen.jp/about",
+    "https://info.phrozen3d.com/en-jp"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Phrozen Tech manufacturing customer case study",
+   "results": [
+    "https://www.cwill.com/case-studies/phrozen/",
+    "https://www.casestudies.com/company/channelwill/case-study/phrozen-achieved-18k-program-members-and-46-customer-lifetime-value-with-loloyal-trustooio",
+    "https://www.casestudies.com/customer/phrozen",
+    "https://phrozen3d.com/en/pages/about-us-phrozen",
+    "https://phrozen3d.com/blogs/resin-3d-printing-latest-news/a-peak-inside-phrozens-headquarter",
+    "https://english.cw.com.tw/article/article.action?id=3471",
+    "https://www.sliceengineering.com/blogs/video/we-flew-to-taiwan-to-see-a-3d-printer-phrozen-hq-factory-tour"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Phrozen Tech white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://partner.vw.com/partner",
+    "https://www.nmi.com/blog/understanding-the-reseller-model-a-complete-guide-for-payments-companies/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.lenovopartnerhub.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Phrozen Tech founded funding employees revenue",
+   "results": [
+    "https://www.crunchbase.com/organization/phrozen",
+    "https://www.zoominfo.com/c/phrozen-tech-co-ltd/481423978",
+    "https://rocketreach.co/phrozen-3d-printer-profile_b429db57c1ff6edd",
+    "https://prospeo.io/c/phrozen-3d-printer-revenue",
+    "https://phrozen3d.com/en/pages/about-us-phrozen",
+    "https://rocketreach.co/phrozen-profile_b41c2be0ff691dcf",
+    "https://www.zoominfo.com/c/phrozen-technologies-llc/538988923"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Phrozen Tech",
+   "results": [
+    "https://note.com/mocchan/n/n638f8d1ea0c8",
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/lively_pika8336/n/n5adf36c23e7b",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/ogikubo/n/nf616c0b6685a",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Phrozen Tech",
+   "results": [
+    "https://x.com/Phrozen3D",
+    "https://x.com/Phrozen3D/status/2084791497170309289",
+    "https://x.com/Phrozen3D/status/2079838862470164870",
+    "https://x.com/phrozen3djapan",
+    "https://x.com/phrozen755",
+    "https://x.com/Phrozen3D/status/2044204052540731693",
+    "https://x.com/Phrozen3D/status/2053811220977996125"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Phrozen Tech",
+   "results": [
+    "https://www.linkedin.com/company/phrozen-3d-printer",
+    "https://www.linkedin.com/company/phrozen-sasu",
+    "https://mx.linkedin.com/in/phrozen",
+    "https://tw.linkedin.com/in/ray-wu-76a90022",
+    "https://tw.linkedin.com/in/polly-tseng-07b823116",
+    "https://www.linkedin.com/in/kris-pleschner-b36780222",
+    "https://uk.linkedin.com/in/mdmobarakhossain"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Phrozen Tech",
+   "results": [
+    "https://www.facebook.com/Phrozentech/",
+    "https://www.facebook.com/Phrozen3D/",
+    "https://www.facebook.com/Phrozen3DDental/",
+    "https://www.facebook.com/groups/Phrozen3DPENG/",
+    "https://www.facebook.com/groups/phrozensonicmighty/",
+    "https://www.facebook.com/phrozen3dp/",
+    "https://www.facebook.com/groups/sonicmega8k/posts/7309678015804663/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Phrozen Tech note 社長",
+   "results": [
+    "https://tw.linkedin.com/in/ray-wu-76a90022",
+    "https://phrozen3d.com/en/pages/about-us-phrozen",
+    "https://www.twincn.com/item.aspx?no=45102571",
+    "https://phrozen3d.com/ja-jp/pages/about-us-phrozen",
+    "https://www.crunchbase.com/person/ray-wu-da96",
+    "https://info.phrozen3d.com/en-jp/blogs/news/phrozen-x-tcmic-podcast-interview",
+    "https://www.qcc.com/firm/tdb75c5137cda684fdf2c7e72c777dc4.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Phrozen Tech X 投稿",
+   "results": [
+    "https://x.com/Phrozen3D",
+    "https://phrozen3d.com/ja-jp",
+    "https://www.iguazu-phrozen.jp/",
+    "https://info.phrozen3d.com/ja-jp",
+    "https://wiki.phrozen3d.info/",
+    "https://x.com/Phrozen3Djapan/status/2118622865566425337",
+    "https://phrozen3d.com.tw/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索12回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索12回）"
+ }
+}
