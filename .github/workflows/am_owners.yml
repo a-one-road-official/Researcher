@@ -23,7 +23,7 @@ jobs:
     env:
       AM_SHARD: ${{ matrix.shard }}
       AM_SHARDS: "10"
-      AM_DEADLINE_S: "6600"
+      AM_DEADLINE_S: "500"
     steps:
       - uses: actions/checkout@v4
         with: { ref: main }
@@ -32,32 +32,45 @@ jobs:
       - run: |
           python -m pip install -q -r researcher/requirements.txt
           python -m playwright install --with-deps chromium
-      - run: python -m researcher.build_am_owners
-      - if: always()
+      - name: 9分ごとに区切って push（途中経過をすぐ出す）
         run: |
           git config user.name "a1-researcher"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add researcher/out/am_owners/evidence
-          git diff --cached --quiet && exit 0
-          git commit -q -m "am_owners: shard ${AM_SHARD} $(date -u +%FT%TZ)"
-          for i in 1 2 3 4 5 6 7 8; do git pull -q --rebase && git push -q && break; sleep $((RANDOM % 10 + 3)); done
+          for round in 1 2 3 4 5 6 7 8 9 10 11 12; do
+            timeout 600 python -m researcher.build_am_owners || true
+            git add researcher/out/am_owners/evidence
+            if ! git diff --cached --quiet; then
+              git commit -q -m "am_owners: shard ${AM_SHARD} round ${round}"
+              for i in 1 2 3 4 5 6 7 8; do git pull -q --rebase && git push -q && break; sleep $((RANDOM % 10 + 3)); done
+            fi
+            python - <<'PY' && break
+import os,sys
+from researcher import build_am_owners as b
+mine=b._queries()[b.SHARD::b.SHARDS]
+sys.exit(0 if set(mine)<=b._read_set(b.DONEQ) else 1)
+PY
+          done
 
   summarize:
-    needs: search
-    if: always()
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 125
     steps:
       - uses: actions/checkout@v4
         with: { ref: main }
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
       - run: python -m pip install -q -r researcher/requirements.txt
-      - run: python -m researcher.build_am_owners summarize
-      - run: |
+      - name: 10分ごとに名簿を作り直して push
+        run: |
           git config user.name "a1-researcher"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add researcher/out/am_owners researcher/inputs/am_owners.csv
-          git diff --cached --quiet && exit 0
-          git commit -q -m "am_owners: 名簿まとめ $(date -u +%FT%TZ)"
-          for i in 1 2 3 4 5; do git pull -q --rebase && git push -q && break; sleep 5; done
+          for round in $(seq 1 13); do
+            sleep 420
+            git pull -q --rebase || true
+            python -m researcher.build_am_owners summarize
+            git add researcher/out/am_owners/owners.csv researcher/inputs/am_owners.csv
+            if ! git diff --cached --quiet; then
+              git commit -q -m "am_owners: 名簿まとめ round ${round}"
+              for i in 1 2 3 4 5; do git pull -q --rebase && git push -q && break; sleep 5; done
+            fi
+          done
