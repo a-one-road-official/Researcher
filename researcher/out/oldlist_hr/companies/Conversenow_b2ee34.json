@@ -1,0 +1,1111 @@
+{
+ "name": "Conversenow",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜状態なし",
+ "researched_at": "2026-11-10T18:18:57.925764+00:00",
+ "official_url": "https://conversenow.ai",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$25M",
+    "url": "https://getlatka.com/companies/conversenow.ai",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Voice AI designed to deliver a branded and fully customizable experience for each of your guests. Improve customer satisfaction, drive frequency of spend, and get full control through",
+    "url": "https://conversenow.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We advance and develop new voice AI products to meet your business goals.",
+    "url": "https://conversenow.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our proprietary AI gets smarter with your input and every interaction to meet your needs.",
+    "url": "https://conversenow.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Serve customers in their preferred language using advanced multilingual voice recognition.",
+    "url": "https://conversenow.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce staffing pressure by automating with reliable voice AI.",
+    "url": "https://conversenow.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Voice AI designed to deliver a branded and fully customizable experience for each of your guests — improving customer satisfaction, driving frequency of spend, and giving you full control through AI Your Way.",
+    "url": "https://conversenow.ai/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "ConverseNow was founded with a clear vision—to serve the people who make the restaurant industry run: owners, operators, frontline staff, and the guests they care for.",
+    "url": "https://conversenow.ai/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "Rahul Aggarwal – Co-Founder & Chief Product Officer",
+    "url": "https://conversenow.ai/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "strong early validation fuels product development and team expansion",
+    "url": "https://conversenow.ai/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "Products - AI Voice Ordering Solutions | ConverseNow AI",
+    "url": "https://conversenow.ai/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "Streamline your drive-thru operations with AI-powered order taking and processing.",
+    "url": "https://conversenow.ai/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "Engage customers through intelligent texts for orders, support, and promotions.",
+    "url": "https://conversenow.ai/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "Promotional messaging",
+    "url": "https://conversenow.ai/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "* For privacy purposes, customer names and store addresses have been redacted from this live call",
+    "url": "https://conversenow.ai/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "No problem. Would you like to hear what it is?",
+    "url": "https://conversenow.ai/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "Para la primera pizza quiero peperoni y queso. Y para la segunda pizza quiero jamón y piña.",
+    "url": "https://conversenow.ai/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "Menu, pricing, and behavior tuned by region/store",
+    "url": "https://conversenow.ai/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "Our voice AI doesn't just take orders—it speaks your brand's language. It's trained on your menu, your promos, and your flow, so it sounds and works like a true team member.",
+    "url": "https://conversenow.ai/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "These Terms of Use (Restaurant Customers) (\"Terms\" or \"Agreement\") govern your access to and use of the Voice AI Ordering platform (\"Service\") provided by ConverseNow Technologies, Inc. (\"ConverseNow\"). The Service enables end-users to place orders with participating restaurants. The restaurant at which you place your order is referred to as the \"Restaurant.\"",
+    "url": "https://conversenow.ai/end-user-terms.html",
+    "pass": 1
+   },
+   {
+    "quote": "ConverseNow acts as a technology provider facilitating the ordering process. The Restaurant remains the sole seller and merchant of record for your order; it determines pricing and taxes, receives payment, prepares the food, and is exclusively responsible for order fulfillment, product quality, and all aspects of customer support related to your purchase.",
+    "url": "https://conversenow.ai/end-user-terms.html",
+    "pass": 1
+   },
+   {
+    "quote": "By selecting \"I Agree,\" \"Place Order,\" \"Submit,\" or any similar button at checkout or on a kiosk, you formally consent to be bound by these Terms and the Privacy Notice referenced herein.",
+    "url": "https://conversenow.ai/end-user-terms.html",
+    "pass": 1
+   },
+   {
+    "quote": "By proceeding with an order via telephone or drive-through and continuing after being notified that your transaction is subject to these Terms, you acknowledge and accept these Terms.",
+    "url": "https://conversenow.ai/end-user-terms.html",
+    "pass": 1
+   },
+   {
+    "quote": "If you receive a text message containing a link to these Terms and proceed with the ordering process or respond as instructed, you hereby agree to be bound by these Terms.",
+    "url": "https://conversenow.ai/end-user-terms.html",
+    "pass": 1
+   },
+   {
+    "quote": "By using the Service, you represent and warrant that you are of legal age to enter into these Terms and are acting on your own behalf or with proper authorization.",
+    "url": "https://conversenow.ai/end-user-terms.html",
+    "pass": 1
+   },
+   {
+    "quote": "We and our licensors own all rights in the Service and related content. You obtain no ownership rights in the Service.",
+    "url": "https://conversenow.ai/end-user-terms.html",
+    "pass": 1
+   },
+   {
+    "quote": "ConverseNow makes the platform available on an \"as is\" and \"as available\" basis and reserves all intellectual property rights not expressly granted.",
+    "url": "https://conversenow.ai/end-user-terms.html",
+    "pass": 1
+   },
+   {
+    "quote": "If the Service allows or requires you to create an account or profile, you must provide accurate information, keep your credentials secure, and are responsible for all activity under your account. Notify us promptly of any unauthorized use.",
+    "url": "https://conversenow.ai/end-user-terms.html",
+    "pass": 1
+   },
+   {
+    "quote": "7. Prohibited Conduct",
+    "url": "https://conversenow.ai/end-user-terms.html",
+    "pass": 1
+   },
+   {
+    "quote": "Orders are placed with the Restaurant. Any product descriptions, availability, pricing, taxes, fees, discounts, loyalty redemptions, and pickup/delivery times are determined by the Restaurant.",
+    "url": "https://conversenow.ai/end-user-terms.html",
+    "pass": 1
+   },
+   {
+    "quote": "The Restaurant is solely responsible for preparing, fulfilling, and servicing your order, including food safety, allergens, substitutions, refunds, and customer service. ConverseNow does not prepare or deliver food and is not the seller.",
+    "url": "https://conversenow.ai/end-user-terms.html",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing, payment processing, taxes, and receipts are handled by the Restaurant or its payment processors. Contact the Restaurant for any billing or refund questions.",
+    "url": "https://conversenow.ai/end-user-terms.html",
+    "pass": 1
+   },
+   {
+    "quote": "The Service and Restaurant menus, prices, hours, and availability may change or be unavailable without notice.",
+    "url": "https://conversenow.ai/end-user-terms.html",
+    "pass": 1
+   },
+   {
+    "quote": "The Service uses automated speech recognition and conversational AI that may misunderstand, mis-transcribe, or misinterpret input. Review your order carefully before confirmation and check your receipt. If something looks wrong, correct it before placing the order or contact the Restaurant promptly.",
+    "url": "https://conversenow.ai/end-user-terms.html",
+    "pass": 1
+   },
+   {
+    "quote": "9.3 No Professional Advice.",
+    "url": "https://conversenow.ai/end-user-terms.html",
+    "pass": 1
+   },
+   {
+    "quote": "The Service does not provide nutritional, allergen, or medical advice. Confirm allergen and nutritional information directly with the Restaurant.",
+    "url": "https://conversenow.ai/end-user-terms.html",
+    "pass": 1
+   },
+   {
+    "quote": "10.1 RECORDING AND MONITORING. YOUR PHONE CALLS AND VOICE INTERACTIONS WILL BE RECORDED, MONITORED, AND ANALYZED TO IMPROVE OUR VOICE AI SOFTWARE AND OUR SERVICES. BY USING THE SERVICE, YOU CONSENT TO SUCH RECORDING, MONITORING, AND ANALYZING. IF YOU DO NOT WANT TO CONSENT TO THE ABOVE, DO NOT USE THE SERVICE.",
+    "url": "https://conversenow.ai/end-user-terms.html",
+    "pass": 1
+   },
+   {
+    "quote": "By using the Service, you consent to receive communications related to your orders and account from the Restaurant and ConverseNow (or our service providers), including calls, texts/SMS/MMS, push notifications, and emails. Message and data rates may apply.",
+    "url": "https://conversenow.ai/end-user-terms.html",
+    "pass": 1
+   },
+   {
+    "quote": "11. Privacy Notice; Data Practices",
+    "url": "https://conversenow.ai/end-user-terms.html",
+    "pass": 1
+   },
+   {
+    "quote": "11.1 Privacy Notice.",
+    "url": "https://conversenow.ai/end-user-terms.html",
+    "pass": 1
+   },
+   {
+    "quote": "Our Privacy Notice at",
+    "url": "https://conversenow.ai/end-user-terms.html",
+    "pass": 1
+   },
+   {
+    "quote": "conversenow.ai/privacy-policy",
+    "url": "https://conversenow.ai/end-user-terms.html",
+    "pass": 1
+   },
+   {
+    "quote": "We use data to: (a) provide, operate, and improve the Service; (b) process and support orders with the Restaurant; (c) ensure quality, analytics, and training of models; (d) prevent fraud, security incidents, and misuse; (e) support customer service and communications; (f) comply with legal obligations.",
+    "url": "https://conversenow.ai/end-user-terms.html",
+    "pass": 1
+   },
+   {
+    "quote": "We may share data with: (a) the Restaurant to fulfill and support your orders; (b) service providers acting on our behalf (e.g., hosting, communications, analytics); (c) as required by law or to protect rights, safety, and the Service; (d) in connection with corporate transactions.",
+    "url": "https://conversenow.ai/end-user-terms.html",
+    "pass": 1
+   },
+   {
+    "quote": "click here to update your preferences",
+    "url": "https://conversenow.ai/book-demo.html",
+    "pass": 1
+   },
+   {
+    "quote": "飲食店用音声認識AI開発のスタートアップ企業プレスト・ヴォイス（Presto Voice）によると、音声認識AIの注文受付の「正解率」が95%に達するとスループットが従来より20秒ほど短縮されることで、飲食店の音声認識AIの導入が一気に進む可能性があるとしている",
+    "url": "https://www.tryeting.jp/column/7868/",
+    "pass": 3
+   },
+   {
+    "quote": "仕組み自体は音声認識（Speech Recognition）、自然言語処理（Natural Language Processing）、機械学習（Machine Learning）、対話型インタフェースデザイン（Conversational Interface Design）などの技術を組み合わせて実現されている",
+    "url": "https://www.tryeting.jp/column/7868/",
+    "pass": 3
+   },
+   {
+    "quote": "April 16, 2026",
+    "url": "https://www.prnewswire.com/news-releases/conversenow-and-deliverect-announce-partnership-to-bring-voice-ai-ordering-into-unified-restaurant-order--menu-management-302743431.html",
+    "pass": 3
+   },
+   {
+    "quote": ", the leading provider of Voice AI technology for restaurants, and",
+    "url": "https://www.prnewswire.com/news-releases/conversenow-and-deliverect-announce-partnership-to-bring-voice-ai-ordering-into-unified-restaurant-order--menu-management-302743431.html",
+    "pass": 3
+   },
+   {
+    "quote": "Through this integration, restaurants can connect ConverseNow's fully automated Voice AI ordering platform directly into Deliverect's unified order management ecosystem. This allows phone and drive-thru voice orders to flow seamlessly alongside third-party delivery and first-party digital orders—improving operational efficiency, order accuracy, and overall guest experience.",
+    "url": "https://www.prnewswire.com/news-releases/conversenow-and-deliverect-announce-partnership-to-bring-voice-ai-ordering-into-unified-restaurant-order--menu-management-302743431.html",
+    "pass": 3
+   },
+   {
+    "quote": "By combining Deliverect's enterprise grade ordering and delivery management infrastructure with ConverseNow's enterprise-grade Voice AI technology, restaurants can automate high-volume voice channels, drive consistent upselling, and reduce operational friction without disrupting existing workflows.",
+    "url": "https://www.prnewswire.com/news-releases/conversenow-and-deliverect-announce-partnership-to-bring-voice-ai-ordering-into-unified-restaurant-order--menu-management-302743431.html",
+    "pass": 3
+   },
+   {
+    "quote": "\"Voice remains one of the highest-volume ordering channels in restaurants, yet it's often the most operationally complex,\" said Vinay Shukla, CEO of ConverseNow. \"Our partnership with Deliverect enables restaurants to bring Voice AI ordering into a unified order management environment. Together, we're helping brands increase revenue, optimize labor, and adopt AI in a practical, scalable way.\"",
+    "url": "https://www.prnewswire.com/news-releases/conversenow-and-deliverect-announce-partnership-to-bring-voice-ai-ordering-into-unified-restaurant-order--menu-management-302743431.html",
+    "pass": 3
+   },
+   {
+    "quote": "Automating phone and drive-thru ordering with enterprise-grade Voice AI",
+    "url": "https://www.prnewswire.com/news-releases/conversenow-and-deliverect-announce-partnership-to-bring-voice-ai-ordering-into-unified-restaurant-order--menu-management-302743431.html",
+    "pass": 3
+   },
+   {
+    "quote": "Improving order accuracy and reducing missed calls",
+    "url": "https://www.prnewswire.com/news-releases/conversenow-and-deliverect-announce-partnership-to-bring-voice-ai-ordering-into-unified-restaurant-order--menu-management-302743431.html",
+    "pass": 3
+   },
+   {
+    "quote": "ConverseNow provides Gen-AI powered Voice AI solutions for restaurants, automating order-taking across high-volume voice channels such as phone and drive-thru. Deployed across thousands of locations, ConverseNow helps brands increase revenue, improve guest experience, and optimize labor while delivering strong unit-level economics and scalable enterprise rollouts.",
+    "url": "https://www.prnewswire.com/news-releases/conversenow-and-deliverect-announce-partnership-to-bring-voice-ai-ordering-into-unified-restaurant-order--menu-management-302743431.html",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/conversenow.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/conversenow.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Here’s where voice technology startup ConverseNow comes in. The four-year-old startup is tapping into voice artificial intelligence technology to put virtual assistants inside quick-serve restaurants to automate the order-taking process and free up staff to focus on fulfillment and in-person customer service.",
+    "url": "https://www.bridgeventurefund.com/news/conversenow-expands-its-drive-thru-ordering-tech-as-it-bags-another-10m",
+    "pass": 3
+   },
+   {
+    "quote": "However, he explained that a problem has always existed in drive-thrus, but the technology has “never existed to solve the problem and is still not there 100%.” Even as the company applies its own voice AI technology, it is evolving, Shukla added.",
+    "url": "https://www.bridgeventurefund.com/news/conversenow-expands-its-drive-thru-ordering-tech-as-it-bags-another-10m",
+    "pass": 3
+   },
+   {
+    "quote": "We first profiled ConverseNow last year when it",
+    "url": "https://www.bridgeventurefund.com/news/conversenow-expands-its-drive-thru-ordering-tech-as-it-bags-another-10m",
+    "pass": 3
+   },
+   {
+    "quote": "The company also experienced 12x revenue growth over the past 12 months and is helping its restaurant customers boost same-store sales up to 30%, increase average tickets up to 20% and provide up to 12 hours of additional labor per store each week.",
+    "url": "https://www.bridgeventurefund.com/news/conversenow-expands-its-drive-thru-ordering-tech-as-it-bags-another-10m",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Configure every aspect of your AI to match your brand's unique needs and operational requirements.",
+    "url": "https://conversenow.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our voice AI doesn't just take orders—it speaks your brand's language. It's trained on your menu, your promos, and your flow, so it sounds and works like a true team member.",
+    "url": "https://conversenow.ai/products.html",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "ConverseNow was founded with a clear vision—to serve the people who make the restaurant industry run: owners, operators, frontline staff, and the guests they care for.",
+    "url": "https://conversenow.ai/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "As consumers adjust to this new normal by choosing to stay home, increasing social distancing and switching to more contactless off-premise ordering options, operators are responding to this behavioral shift. QSRs are now adapting technology to support growing volume on voice-based ordering channels such as drive-thru, phone and self-service kiosks to enable contactless ordering.",
+    "url": "https://vcnewsdaily.com/conversenow/venture-capital-funding/bhqjxdtqzt",
+    "pass": 3
+   },
+   {
+    "quote": "https://jp.techcrunch.com/2021/07/28/2021-07-26-notco-gets-its-horn-following-235m-round-to-expand-plant-based-food-products/",
+    "url": "https://note.com/okb777/n/n2eedd87f7c51",
+    "pass": 3
+   },
+   {
+    "quote": "https://venturebeat.com/2021/07/27/invia-robotics-raises-30m-for-warehouse-robotics-push/",
+    "url": "https://note.com/okb777/n/n2eedd87f7c51",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Acquisition of ValyantAI",
+    "url": "https://conversenow.ai/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "Every part of our platform is fully customizable—menus, workflows, integrations, languages, and more—so you get AI that works your way, for your unique needs.",
+    "url": "https://conversenow.ai/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "¡Excelente! ¿Qué tipo de pizza le gustaría pedir?",
+    "url": "https://conversenow.ai/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "By using the Service, you represent and warrant that you are of legal age to enter into these Terms and are acting on your own behalf or with proper authorization.",
+    "url": "https://conversenow.ai/end-user-terms.html",
+    "pass": 1
+   },
+   {
+    "quote": "THE SERVICE AND ANY INFORMATION PROVIDED THROUGH IT ARE PROVIDED \"AS IS\" AND \"AS AVAILABLE\" WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED.",
+    "url": "https://conversenow.ai/end-user-terms.html",
+    "pass": 1
+   },
+   {
+    "quote": "TO THE MAXIMUM EXTENT ALLOWED BY LAW, WE DISCLAIM ALL WARRANTIES, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT, AND WE DO NOT WARRANT THAT THE SERVICE WILL MEET YOUR REQUIREMENTS OR BE ERROR-FREE.",
+    "url": "https://conversenow.ai/end-user-terms.html",
+    "pass": 1
+   },
+   {
+    "quote": "The arbitrator may award individual relief available in court, including injunctive relief, but only to the extent necessary to provide relief warranted by your individual claim.",
+    "url": "https://conversenow.ai/end-user-terms.html",
+    "pass": 1
+   },
+   {
+    "quote": "If any part of these Terms is found unenforceable, the remainder will remain in effect, and a valid term will be substituted that best reflects the parties' intent and is enforceable.",
+    "url": "https://conversenow.ai/end-user-terms.html",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to transform your restaurant's customer experience? Let's discuss how ConverseNow can help you increase efficiency, boost revenue, and delight your customers.",
+    "url": "https://conversenow.ai/book-demo.html",
+    "pass": 1
+   },
+   {
+    "quote": "\"Voice remains one of the highest-volume ordering channels in restaurants, yet it's often the most operationally complex,\" said Vinay Shukla, CEO of ConverseNow. \"Our partnership with Deliverect enables restaurants to bring Voice AI ordering into a unified order management environment. Together, we're helping brands increase revenue, optimize labor, and adopt AI in a practical, scalable way.\"",
+    "url": "https://www.prnewswire.com/news-releases/conversenow-and-deliverect-announce-partnership-to-bring-voice-ai-ordering-into-unified-restaurant-order--menu-management-302743431.html",
+    "pass": 3
+   },
+   {
+    "quote": "ConverseNow provides Gen-AI powered Voice AI solutions for restaurants, automating order-taking across high-volume voice channels such as phone and drive-thru. Deployed across thousands of locations, ConverseNow helps brands increase revenue, improve guest experience, and optimize labor while delivering strong unit-level economics and scalable enterprise rollouts.",
+    "url": "https://www.prnewswire.com/news-releases/conversenow-and-deliverect-announce-partnership-to-bring-voice-ai-ordering-into-unified-restaurant-order--menu-management-302743431.html",
+    "pass": 3
+   },
+   {
+    "quote": "ConverseNow Revenue 2025: $5.5M Est., $25M Raised",
+    "url": "https://getlatka.com/companies/conversenow.ai",
+    "pass": 3
+   },
+   {
+    "quote": "ConverseNow has not published its revenue. GetLatka estimates it at about $5.5M a year (June 2025).",
+    "url": "https://getlatka.com/companies/conversenow.ai",
+    "pass": 3
+   },
+   {
+    "quote": "ConverseNow CEO, founders & employees",
+    "url": "https://getlatka.com/companies/conversenow.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Vinay Shukla founded ConverseNow in 2018 and runs it as CEO. ConverseNow has 50 employees (June 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/conversenow.ai",
+    "pass": 3
+   },
+   {
+    "quote": "What is ConverseNow's revenue?",
+    "url": "https://getlatka.com/companies/conversenow.ai",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates ConverseNow's revenue at about",
+    "url": "https://getlatka.com/companies/conversenow.ai",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does ConverseNow have?",
+    "url": "https://getlatka.com/companies/conversenow.ai",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of June 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/conversenow.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/conversenow.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/conversenow.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/conversenow.ai",
+    "pass": 3
+   },
+   {
+    "quote": "being acquired by DoorDash",
+    "url": "https://www.bridgeventurefund.com/news/conversenow-expands-its-drive-thru-ordering-tech-as-it-bags-another-10m",
+    "pass": 3
+   },
+   {
+    "quote": "As part of the investment, Pete Mavrovitis will join ConverseNow’s board of directors. The new funding gives ConverseNow total funding of $28.8 million since the company was founded in 2018.",
+    "url": "https://www.bridgeventurefund.com/news/conversenow-expands-its-drive-thru-ordering-tech-as-it-bags-another-10m",
+    "pass": 3
+   },
+   {
+    "quote": "The company also experienced 12x revenue growth over the past 12 months and is helping its restaurant customers boost same-store sales up to 30%, increase average tickets up to 20% and provide up to 12 hours of additional labor per store each week.",
+    "url": "https://www.bridgeventurefund.com/news/conversenow-expands-its-drive-thru-ordering-tech-as-it-bags-another-10m",
+    "pass": 3
+   },
+   {
+    "quote": "\"Understanding user intent and emotional quotient is the key to driving great customer experiences, order closures and upsell revenue. ConverseNow's platform uses highly nuanced speech technology and custom AI/ML models to continuously learn from customer ordering behavior to drive end-to-end customer conversations,\" said Rahul Aggarwal, co-founder / COO & CPO at ConverseNow.",
+    "url": "https://vcnewsdaily.com/conversenow/venture-capital-funding/bhqjxdtqzt",
+    "pass": 3
+   },
+   {
+    "quote": "・メルカリも“ネットショップ作成“に参入、子会社ソウゾウが「メルカリShops」を発表",
+    "url": "https://note.com/okb777/n/n2eedd87f7c51",
+    "pass": 3
+   },
+   {
+    "quote": "https://jp.techcrunch.com/2021/07/29/snkrdunk-soda-fundraising-monokabu-acquisition/",
+    "url": "https://note.com/okb777/n/n2eedd87f7c51",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "By using the Service, you consent to receive communications related to your orders and account from the Restaurant and ConverseNow (or our service providers), including calls, texts/SMS/MMS, push notifications, and emails. Message and data rates may apply.",
+    "url": "https://conversenow.ai/end-user-terms.html",
+    "pass": 1
+   },
+   {
+    "quote": "For texts: reply STOP to opt out of non-transactional texts. For emails: use the unsubscribe link. Transactional messages (e.g., order confirmations, updates) may still be sent.",
+    "url": "https://conversenow.ai/end-user-terms.html",
+    "pass": 1
+   },
+   {
+    "quote": "Questions or notices to ConverseNow: Email:",
+    "url": "https://conversenow.ai/end-user-terms.html",
+    "pass": 1
+   },
+   {
+    "quote": "If you have questions about these Terms of Use, please contact us:",
+    "url": "https://conversenow.ai/end-user-terms.html",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "例えば、ワシントン州シアトル・タコマ地区の最低時給は19.06ドル（約2573円）、カリフォルニア州マウンテンビューの最低時給は18.15ドル（約2450ドル）だが、人間の受注スタッフを雇ったとしたら、コスト的には大きな負担になるだろう（時給の日本円換算金額は1ドル135円で算出）",
+    "url": "https://www.tryeting.jp/column/7868/",
+    "pass": 3
+   },
+   {
+    "quote": "AIによる需要予測の導入事例10選！活用の手法やメリットも紹介",
+    "url": "https://www.tryeting.jp/column/7868/",
+    "pass": 3
+   },
+   {
+    "quote": "プログラマー、整備士、物流と転職し、日本橋で寿司職人の世界に入り、立ち食い寿司屋の店長になる",
+    "url": "https://fooddeploy.net/posts/qsr-voice-ai-future-enhancement",
+    "pass": 3
+   },
+   {
+    "quote": "EC/OMO/マケプレ領域の注目資金調達ニュースをお届けします（日本でも投資したいと思う企業をpickしてます",
+    "url": "https://note.com/okb777/n/n2eedd87f7c51",
+    "pass": 3
+   },
+   {
+    "quote": "特化型仕入れPFは日本でも注目しています！",
+    "url": "https://note.com/okb777/n/n2eedd87f7c51",
+    "pass": 3
+   },
+   {
+    "quote": "、という価値提供は、何か日本でもできそう！",
+    "url": "https://note.com/okb777/n/n2eedd87f7c51",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ConverseNow and Deliverect Announce Partnership to Bring ... — ConverseNow and Deliverect Announce Partnership to Bring ... PR Newswire https://www.prnewswire.com > conve...",
+    "url": "https://www.prnewswire.com/news-releases/conversenow-and-deliverect-announce-partnership-to-bring-voice-ai-ordering-into-unified-restaurant-order--menu-management-302743431.html",
+    "pass": 3
+   },
+   {
+    "quote": "ConverseNow AI - Voice Ordering Solutions for Restaurants — ConverseNow AI - Voice Ordering Solutions for Restaurants ConverseNow AI https://conversenow.ai",
+    "url": "https://conversenow.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "ConverseNow .AI - LinkedIn — ConverseNow .AI - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/conversenowai",
+    "pass": 3
+   },
+   {
+    "quote": "ConverseNow - Crunchbase Company Profile & Funding — ConverseNow - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > conve...",
+    "url": "https://www.crunchbase.com/organization/conversenow",
+    "pass": 3
+   },
+   {
+    "quote": "ConverseNow .AI | Telescoped — ConverseNow .AI | Telescoped Telescoped https://telescoped.com > company > c...",
+    "url": "https://telescoped.com/company/conversenow-ai",
+    "pass": 3
+   },
+   {
+    "quote": "ConverseNow Revenue 2025: $5.5M Est., $25M Raised — ConverseNow Revenue 2025: $5.5M Est., $25M Raised GetLatka https://getlatka.com > conversenow",
+    "url": "https://getlatka.com/companies/conversenow.ai",
+    "pass": 3
+   },
+   {
+    "quote": "ConverseNow Bags Another $10M - Bridge Venture Fund — ConverseNow Bags Another $10M - Bridge Venture Fund Bridge Venture Fund https://www.bridgeventurefund.com > ...",
+    "url": "https://www.bridgeventurefund.com/news/conversenow-expands-its-drive-thru-ordering-tech-as-it-bags-another-10m",
+    "pass": 3
+   },
+   {
+    "quote": "ConverseNow Raises $3.25M Seed Funding - VC News Daily — ConverseNow Raises $3.25M Seed Funding - VC News Daily VC News Daily https://vcnewsdaily.com > bhqjxdtqzt",
+    "url": "https://vcnewsdaily.com/conversenow/venture-capital-funding/bhqjxdtqzt",
+    "pass": 3
+   },
+   {
+    "quote": "Invest In ConverseNow Stock | Buy Pre-IPO Shares - EquityZen — Invest In ConverseNow Stock | Buy Pre-IPO Shares - EquityZen EquityZen https://equityzen.com > conversenow",
+    "url": "https://equityzen.com/company/conversenow/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【コマースチャンネルVol22】花きD2C・B2Bマケプレ/飲食店の音声AIオ... Jan 7, 2022 · ②飲食店の音声AIオーダーシステム「ConverseNow」 設立年：2018/米国 調達金額：15Mドル (Series A) 主要投資家：Craft Ventures, 2048 Ventures, LiveOak Venture Partners, Knoll Ventures, Moneta Ventures 事業概要： レストランの注文を音声AIが対応するPFを提供 しています。",
+    "url": "https://note.com/okb777/n/n2eedd87f7c51",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【コマースチャンネルVol22】花きD2C・B2Bマケプレ/飲食店の音声AIオーダーシステム/フォーマルウェアC2C/検索機能の開発者向けAPI/植物由来食品｜大久保洸平（New Commerce Ventures）",
+    "url": "https://note.com/okb777/n/n2eedd87f7c51",
+    "pass": 3
+   },
+   {
+    "quote": "【コマースチャンネルVol22】花きD2C・B2Bマケプレ/飲食店の音声AIオーダーシステム/フォーマルウェアC2C/検索機能の開発者向けAPI/植物由来食品",
+    "url": "https://note.com/okb777/n/n2eedd87f7c51",
+    "pass": 3
+   },
+   {
+    "quote": "大久保洸平（New Commerce Ventures）",
+    "url": "https://note.com/okb777/n/n2eedd87f7c51",
+    "pass": 3
+   },
+   {
+    "quote": "EC/OMO/マケプレ領域の注目資金調達ニュースをお届けします（日本でも投資したいと思う企業をpickしてます。関連領域で起業している方/準備中の方ぜひ、ご連絡ください!!）下記メルマガでも配信してます。",
+    "url": "https://note.com/okb777/n/n2eedd87f7c51",
+    "pass": 3
+   },
+   {
+    "quote": "また、「2021年海外コマースStartup総まとめ集」を作成しております。ご関心ある方はぜひ、”",
+    "url": "https://note.com/okb777/n/n2eedd87f7c51",
+    "pass": 3
+   },
+   {
+    "quote": "主要投資家：Eurazeo, Glovo,",
+    "url": "https://note.com/okb777/n/n2eedd87f7c51",
+    "pass": 3
+   },
+   {
+    "quote": "しBtoC事業として開始しました。今では、産地→店舗を直接つなぐ",
+    "url": "https://note.com/okb777/n/n2eedd87f7c51",
+    "pass": 3
+   },
+   {
+    "quote": "にも展開を開始し今後はこちらを強化していく戦略です。花き市場では、商習慣的になんと",
+    "url": "https://note.com/okb777/n/n2eedd87f7c51",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "ConverseNow .AI - LinkedIn ConverseNow .AI - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/conversenowai",
+    "pass": 3
+   },
+   {
+    "quote": "Vinay Shukla - Founder & CEO, ConverseNow - LinkedIn Vinay Shukla - Founder & CEO, ConverseNow - LinkedIn LinkedIn https://www.linkedin.com > estvks",
+    "url": "https://www.linkedin.com/in/estvks",
+    "pass": 3
+   },
+   {
+    "quote": "Rahul Aggarwal - Founder, COO & CPO at ConverseNow .ai Rahul Aggarwal - Founder, COO & CPO at ConverseNow .ai LinkedIn https://www.linkedin.com > rahulagg...",
+    "url": "https://www.linkedin.com/in/rahulaggarwal",
+    "pass": 3
+   },
+   {
+    "quote": "Spencer Goodman - Sales Director at ConverseNow .AI Spencer Goodman - Sales Director at ConverseNow .AI LinkedIn https://www.linkedin.com > spencer-g...",
+    "url": "https://www.linkedin.com/in/spencer-goodman",
+    "pass": 3
+   },
+   {
+    "quote": "Rahul Aggarwal - Founder, COO & CPO at ConverseNow.ai | LinkedInnote 役員一覧 | 取締役7名の経歴と選任賛成比率ConverseNow AI - Voice Ordering Solutions for Restaurantsnoteの歴代社長 - the-shashi.com Founder, COO & CPO at ConverseNow.ai · Founded Enterprise Mobility Company, Endeavour Software Tech in 2002, later acquired by Genpact (NYSE: G) in 2016 Responsible for driving ... Oct 12, 2026 · noteの役員一覧。取締役7名（2026年2月時点）。代表",
+    "url": "https://www.linkedin.com/in/rahulaggarwal",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "IDEA Converse now accepting kindergarten applications for ... IDEA Converse now accepting kindergarten applications for ... Facebook https://www.facebook.com > IDEASchoolsConverse > posts",
+    "url": "https://www.facebook.com/IDEASchoolsConverse/posts/still-accepting-26-27-kinder-applications-as-well-ideapublicschoolsorgapplybook-/1988161565844806/",
+    "pass": 3
+   },
+   {
+    "quote": "NEW Scooby Doo Converse Now In Stock - Facebook NEW Scooby Doo Converse Now In Stock - Facebook Facebook https://www.facebook.com > couponmumuk > posts",
+    "url": "https://www.facebook.com/couponmumuk/posts/-new-scooby-doo-converse-now-in-stock-/4251787844894319/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://conversenow.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://conversenow.ai/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://conversenow.ai/products.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://conversenow.ai/end-user-terms.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://conversenow.ai/book-demo.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.tryeting.jp/column/7868/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.zdnet.com/article/35235374/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fooddeploy.net/posts/qsr-voice-ai-future-enhancement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000236.000073671.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.knowleful.ai/partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://app.convercent.com/ja-jp/Anonymous/IssueIntake/IdentifyOrganization",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://exawizards.com/exabase/gpt/agent/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xtrend.nikkei.com/atcl/contents/18/00915/00003/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prnewswire.com/news-releases/conversenow-and-deliverect-announce-partnership-to-bring-voice-ai-ordering-into-unified-restaurant-order--menu-management-302743431.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/conversenowai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/conversenow",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://c3.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.servicenow.com/customers.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.prnewswire.com/news-releases/conversenow-and-deliverect-announce-partnership-to-bring-voice-ai-ordering-into-unified-restaurant-order--menu-management-302743431.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tryleverage.ai/case-study-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://synthflow.ai/blog/white-label-reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wolfbot.ai/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/conversenowai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/conversenow.ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/conversenow",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bridgeventurefund.com/news/conversenow-expands-its-drive-thru-ordering-tech-as-it-bags-another-10m",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vcnewsdaily.com/conversenow/venture-capital-funding/bhqjxdtqzt",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/okb777/n/n2eedd87f7c51",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/conversenowai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/estvks",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/rahulaggarwal",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/spencer-goodman",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/IDEASchoolsConverse/posts/still-accepting-26-27-kinder-applications-as-well-ideapublicschoolsorgapplybook-/1988161565844806/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/couponmumuk/posts/-new-scooby-doo-converse-now-in-stock-/4251787844894319/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/rahulaggarwal",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Conversenow 日本 導入",
+   "results": [
+    "https://www.tryeting.jp/column/7868/",
+    "https://japan.zdnet.com/article/35235374/",
+    "https://fooddeploy.net/posts/qsr-voice-ai-future-enhancement",
+    "https://prtimes.jp/main/html/rd/p/000000236.000073671.html",
+    "https://pos-cube.com/inshoku-keiei/trend/food-beverage-startup-company/",
+    "https://miraitranslate.com/blog/drive-thru-ai-order-accuracy/",
+    "https://www.cerence.com/ja/newsroom/press-releases/ai",
+    "https://www.youtube.com/shorts/LM8Vu3ws5vw",
+    "https://onecapital.jp/perspectives/voice-ai-2025",
+    "https://seektool.ai/jp/ai/conversenow-ai"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Conversenow 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.knowleful.ai/partner/",
+    "https://app.convercent.com/ja-jp/LandingPage/6bed0478-5236-eb11-a97a-000d3ab9f062",
+    "https://exawizards.com/exabase/gpt/agent/",
+    "https://xtrend.nikkei.com/atcl/contents/18/00915/00003/",
+    "https://www.youtube.com/watch?v=RJgCqiSOwgs",
+    "https://www.robot-digest.com/contents/?id=1637314615-620652",
+    "https://forbesjapan.com/articles/detail/96009",
+    "https://log-port.com/aidx-partner-program/",
+    "https://www.componentsource.co.jp/resellers",
+    "https://ja.wikipedia.org/wiki/秦英之"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Conversenow Japan",
+   "results": [
+    "https://www.prnewswire.com/news-releases/conversenow-and-deliverect-announce-partnership-to-bring-voice-ai-ordering-into-unified-restaurant-order--menu-management-302743431.html",
+    "https://conversenow.ai/",
+    "https://www.linkedin.com/company/conversenowai",
+    "https://www.crunchbase.com/organization/conversenow",
+    "https://telescoped.com/company/conversenow-ai",
+    "https://voicebot.ai/2020/05/14/restaurant-voice-ai-startup-conversenow-raises-3-25m/",
+    "https://trajectoryventures.vc/portfolio/conversenow-artificial-intelligence/",
+    "https://equityzen.com/company/conversenow/",
+    "https://www.bridgeventurefund.com/portfolio/conversenow",
+    "https://conversenow.ai/about.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Conversenow manufacturing customer case study",
+   "results": [
+    "https://c3.ai/customers",
+    "https://www.servicenow.com/customers.html",
+    "https://www.prnewswire.com/news-releases/conversenow-and-deliverect-announce-partnership-to-bring-voice-ai-ordering-into-unified-restaurant-order--menu-management-302743431.html",
+    "https://tryleverage.ai/case-study-manufacturing",
+    "https://www.hpe.com/us/en/customer-case-studies.html",
+    "https://www.flexwareinnovation.com/case-studies/",
+    "https://www.linkedin.com/company/conversenowai",
+    "https://663810.fs1.hubspotusercontent-na1.net/hubfs/663810/2022%20-%20CLEVR%20Success%20Stories%20EBooks/CLEVR%20Success%20Stories%20-%20Manufacturing%20-%20ENG.pdf",
+    "https://www.crossfuze.com/case-studies"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Conversenow white label OR reseller OR partner program",
+   "results": [
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://synthflow.ai/blog/white-label-reseller",
+    "https://wolfbot.ai/partners",
+    "https://www.linkedin.com/company/conversenowai",
+    "https://www.prnewswire.com/news-releases/conversenow-and-deliverect-announce-partnership-to-bring-voice-ai-ordering-into-unified-restaurant-order--menu-management-302743431.html",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://www.siptrunk.com/blog/white-label-saas-reseller/",
+    "https://intandem.vcita.com/blog/partners/different-types-of-white-label-partnerships",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Conversenow founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/conversenow.ai",
+    "https://www.crunchbase.com/organization/conversenow",
+    "https://www.bridgeventurefund.com/news/conversenow-expands-its-drive-thru-ordering-tech-as-it-bags-another-10m",
+    "https://vcnewsdaily.com/conversenow/venture-capital-funding/bhqjxdtqzt",
+    "https://equityzen.com/company/conversenow/",
+    "https://aibusiness.com/verticals/conversenow-raises-15m-to-build-ai-assistants-that-take-your-drive-thru-order",
+    "https://pitchbook.com/profiles/company/267587-11",
+    "https://www.zoominfo.com/c/conversenow-technologies-inc/473851473",
+    "https://www.qsrmagazine.com/news/voiced-based-ai-company-conversenow-raises-15-million/",
+    "https://startupintros.com/orgs/conversenow"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com Conversenow",
+   "results": [
+    "https://note.com/tsuguniph/n/ned62615a47e3?hl=en",
+    "https://note.com/nichesneaker/n/n2faf4ff5e739?hl=en",
+    "https://note.com/okb777/n/n2eedd87f7c51",
+    "https://note.com/kentabright/n/nb116f899a6ac",
+    "https://note.com/hidden_local/n/nd053c11356d3?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/kzstock/n/n8464ba129797",
+    "https://note.com/dapper_stilt6966/n/nf3ecacdb1e64?hl=en"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:x.com Conversenow",
+   "results": [
+    "https://x.com/Phil_Lewis_/status/2102182304009388267",
+    "https://x.com/Converse/status/2028855318399062232",
+    "https://x.com/verlaineq/status/2119884266406396187",
+    "https://x.com/i/trending/2102382883809759632",
+    "https://x.com/leebrightjr",
+    "https://x.com/chaedria",
+    "https://x.com/TheWeekendMSNOW",
+    "https://x.com/HornAnarchists",
+    "https://x.com/NobleNegroe",
+    "https://x.com/Converse"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Conversenow",
+   "results": [
+    "https://www.linkedin.com/company/conversenowai",
+    "https://www.linkedin.com/in/estvks",
+    "https://www.linkedin.com/in/rahulaggarwal",
+    "https://www.linkedin.com/in/spencer-goodman",
+    "https://www.linkedin.com/posts/conversenowai_voiceai-edgecomputing-restauranttech-activity-7450982547536117760-WWOe",
+    "https://www.linkedin.com/in/vinay-shukla-365b1825a",
+    "https://in.linkedin.com/in/abhisheknigamendeavour",
+    "https://www.linkedin.com/posts/conversenowai_conversenow-deliverect-partner-to-integrate-activity-7450647426333319169-1kcS",
+    "https://in.linkedin.com/in/abirnale",
+    "https://in.linkedin.com/in/charug86"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:facebook.com Conversenow",
+   "results": [
+    "https://www.facebook.com/TSDGlobalOfficial/",
+    "https://www.facebook.com/IDEASchoolsConverse/posts/still-accepting-26-27-kinder-applications-as-well-ideapublicschoolsorgapplybook-/1988161565844806/",
+    "https://www.facebook.com/Optionsbw/posts/rock-your-casual-friday-look-with-conversenow-available-at-all-options-stores-fr/2236972643100250/",
+    "https://www.facebook.com/couponmumuk/posts/-new-scooby-doo-converse-now-in-stock-/4251787844894319/",
+    "https://www.facebook.com/club21thailand/posts/your-everyday-style-with-comme-des-garcons-play-x-conversenow-available-at-comme/10160489901649655/",
+    "https://www.facebook.com/danny.ruhala/posts/nike-owns-converse-now-you-know/10165178618524917/",
+    "https://www.facebook.com/TriNomaByAyalaMalls/posts/theres-no-such-thing-as-too-many-sneakers-visit-converse-now-to-avail-of-their-a/837819021706978/",
+    "https://www.facebook.com/couponmumuk/posts/giraffe-converse-now-1874-use-code-extra25-on-checkout-/3953129791426794/",
+    "https://www.facebook.com/Snipescom/posts/old-school-rootsstill-running-the-streets-today-step-back-with-converse-now-on-s/1411585607665755/",
+    "https://www.facebook.com/mallofcy/posts/alexa-play-sunflower-by-post-malone-swae-lee-converse-now-25-available-in-sizes-/4444568365589379/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "Conversenow note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://conversenow.ai/about.html",
+    "https://www.linkedin.com/in/rahulaggarwal",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://conversenow.ai/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Conversenow X 投稿",
+   "results": [
+    "https://conversenow.ai/",
+    "https://x.com/sasan11922960/status/2119070869125541892",
+    "https://search.yahoo.co.jp/realtime/search/投稿/",
+    "https://addness.co.jp/media/x-publishing-post/",
+    "https://x.com/twitcasting_jp/status/2100831269575868441",
+    "https://help.x.com/ja/using-x/edit-post",
+    "https://www.witha.jp/sns・マーケティング/x-posting-guide-beginners/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部31頁・検索12回）"
+ }
+}

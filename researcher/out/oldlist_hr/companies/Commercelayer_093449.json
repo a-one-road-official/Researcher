@@ -1,0 +1,1261 @@
+{
+ "name": "Commercelayer",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-10T18:25:49.673806+00:00",
+ "official_url": "https://commercelayer.io",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "1. Seed Round",
+    "value": "$1.03M $1.03M  Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/435600-91",
+    "pass": 3
+   },
+   {
+    "label": "Seed-2",
+    "value": "974,723 $0.000100 6% $0.76 $0.76 1x $0.76 4.05%",
+    "url": "https://pitchbook.com/profiles/company/435600-91",
+    "pass": 3
+   },
+   {
+    "label": "Seed-1",
+    "value": "1,449,836 $0.000100 6% $0.2 $0.2 1x $0.2 6.03%",
+    "url": "https://pitchbook.com/profiles/company/435600-91",
+    "pass": 3
+   },
+   {
+    "label": "Total funding",
+    "value": "$16,000,000",
+    "url": "https://prospeo.io/c/commerce-layer-revenue",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$67,000",
+    "url": "https://prospeo.io/c/commerce-layer-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Via Del Carmine N. 11, Prato, PO 59100, IT",
+    "url": "https://prospeo.io/c/commerce-layer-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2017",
+    "url": "https://prospeo.io/c/commerce-layer-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "AI agents will discover products, make recommendations, and complete purchases on behalf of people. Commerce Layer provides the API infrastructure powering this shift.",
+    "url": "https://commercelayer.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Define powerful, market-specific promotion rules using a visual editor or JSON-based DSL. Handle complex logic on any data point with high performance, even at scale.",
+    "url": "https://commercelayer.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Use Commerce Layer as your in-store engine with the same API as online channels. Manage store-level inventory, enable endless aisle, and let associates sell via shareable links with shared payments, gift cards, and promotions.",
+    "url": "https://commercelayer.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Create future-proof ecommerce experiences using your preferred frontend technology. Build fast, flexible websites that can adapt to new channels and integrate with emerging technologies like AI agents.",
+    "url": "https://commercelayer.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Unify online and in-store commerce with seamless inventory synchronization, shared customer profiles, and order management. Enable real-time inventory visibility and cross-channel journeys across all touchpoints.",
+    "url": "https://commercelayer.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Transform your marketing site into a shoppable experience by integrating Commerce Layer's APIs. Add global shopping capabilities, multi-currency pricing, and localized checkout to any existing website or application.",
+    "url": "https://commercelayer.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect your retail inventory and generate shareable links based on SKUs or product selections. Share via email, SMS, WhatsApp, or clienteling apps to make any product instantly purchasable without building a full website.",
+    "url": "https://commercelayer.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Build recurring revenue streams with flexible subscription management. Handle complex billing scenarios, payment method updates, and customer lifecycle automation with enterprise-grade subscription infrastructure.",
+    "url": "https://commercelayer.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Commerce Layer is a headless commerce platform and order management system that lets you add global shopping capabilities to any website, mobile app, chatbot, or IoT device, with ease. Use a best-of-breed CMS to create beautiful content. Make it shoppable through blazing-fast and secure API, on a global scale.",
+    "url": "https://www.casestudies.com/company/commerce-layer",
+    "pass": 3
+   },
+   {
+    "quote": "Lampoo future-proofs online shopping with composable commerce",
+    "url": "https://www.casestudies.com/company/commerce-layer",
+    "pass": 3
+   },
+   {
+    "quote": "Mentra by SATS launches a new product concept in 2 months with Commerce Layer",
+    "url": "https://www.casestudies.com/company/commerce-layer",
+    "pass": 3
+   },
+   {
+    "quote": "General Manager of Product and Innovation",
+    "url": "https://www.casestudies.com/company/commerce-layer",
+    "pass": 3
+   },
+   {
+    "quote": "Chief Marketing Officer",
+    "url": "https://www.casestudies.com/company/commerce-layer",
+    "pass": 3
+   },
+   {
+    "quote": "VTEX provides cloud based e-Commerce Platform and Omnichannel solutions. Known for their vanguard technology and by being a time-to-revenue platform, VTEX has been recognized by the analysts from Gartner and …",
+    "url": "https://www.featuredcustomers.com/vendor/commerce-layer/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Let potential prospects find you on the world's only",
+    "url": "https://www.featuredcustomers.com/vendor/commerce-layer/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/commerce-layer/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "FREE and learn about our upgraded profile options to",
+    "url": "https://www.featuredcustomers.com/vendor/commerce-layer/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "unlock all of your customer references for prospects",
+    "url": "https://www.featuredcustomers.com/vendor/commerce-layer/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/commerce-layer/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Read 21 Commerce Layer reviews and testimonials from customers, explore 28 case studies and customer success stories, and watch customer videos to see why companies chose Commerce Layer as their Order Management Software",
+    "url": "https://www.featuredcustomers.com/vendor/commerce-layer",
+    "pass": 3
+   },
+   {
+    "quote": "Commerce Layer is a headless commerce platform and order management system that lets you add global shopping capabilities to any website, mobile app, chatbot, or IoT device, with ease. Use a best-of-breed CMS to create beautiful content. Make it shoppable through blazing-fast and secure API, on a global scale.",
+    "url": "https://www.featuredcustomers.com/vendor/commerce-layer",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Video",
+    "url": "https://www.featuredcustomers.com/vendor/commerce-layer",
+    "pass": 3
+   },
+   {
+    "quote": "Let potential prospects find you on the world's only",
+    "url": "https://www.featuredcustomers.com/vendor/commerce-layer",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/commerce-layer",
+    "pass": 3
+   },
+   {
+    "quote": "FREE and learn about our upgraded profile options to",
+    "url": "https://www.featuredcustomers.com/vendor/commerce-layer",
+    "pass": 3
+   },
+   {
+    "quote": "unlock all of your customer references for prospects",
+    "url": "https://www.featuredcustomers.com/vendor/commerce-layer",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/commerce-layer",
+    "pass": 3
+   },
+   {
+    "quote": "Commerce Layer 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/435600-91",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/435600-91",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/435600-91",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/435600-91",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/435600-91",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/435600-91",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/435600-91",
+    "pass": 3
+   },
+   {
+    "quote": "Commerce Layer’s primary industry is Business/Productivity Software.",
+    "url": "https://pitchbook.com/profiles/company/435600-91",
+    "pass": 3
+   },
+   {
+    "quote": "Is Commerce Layer a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/435600-91",
+    "pass": 3
+   },
+   {
+    "quote": "Commerce Layer is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/435600-91",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/435600-91",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/435600-91",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/435600-91",
+    "pass": 3
+   },
+   {
+    "quote": "Prato, Tuscany, Italy",
+    "url": "https://getlatka.com/companies/commercelayer.io#team",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/commercelayer.io#team",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/commercelayer.io#team",
+    "pass": 3
+   },
+   {
+    "quote": "Prato, Tuscany, Italy",
+    "url": "https://getlatka.com/companies/commercelayer.io",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/commercelayer.io",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/commercelayer.io",
+    "pass": 3
+   },
+   {
+    "quote": "Prato, Tuscany, Italy",
+    "url": "https://prospeo.io/c/commerce-layer-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Via Del Carmine N. 11, Prato, PO 59100, IT",
+    "url": "https://prospeo.io/c/commerce-layer-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View contact profiles from",
+    "url": "https://prospeo.io/c/commerce-layer-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Programming languages",
+    "url": "https://prospeo.io/c/commerce-layer-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Commerce Layer is located in Prato, Tuscany, IT.",
+    "url": "https://prospeo.io/c/commerce-layer-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Commerce Layer has approximately",
+    "url": "https://prospeo.io/c/commerce-layer-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/commerce-layer-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/commerce-layer-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Get Targeted Leads for free",
+    "url": "https://prospeo.io/c/commerce-layer-revenue",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by the world’s best brands",
+    "url": "https://commercelayer.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Apparel Manufacturing",
+    "url": "https://www.casestudies.com/company/commerce-layer",
+    "pass": 3
+   },
+   {
+    "quote": "Beverage Manufacturing",
+    "url": "https://www.casestudies.com/company/commerce-layer",
+    "pass": 3
+   },
+   {
+    "quote": "Furniture and Home Furnishings Manufacturing",
+    "url": "https://www.casestudies.com/company/commerce-layer",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Equipment Manufacturing",
+    "url": "https://www.casestudies.com/company/commerce-layer",
+    "pass": 3
+   },
+   {
+    "quote": "Sporting Goods Manufacturing",
+    "url": "https://www.casestudies.com/company/commerce-layer",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/commerce-layer/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Big Green Egg achieves higher revenue and conversion with Commerce Layer | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/commerce-layer/case-study/blending-storytelling-and-commerce-with-best-in-class-tech-to-create-meaningful-engagement",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Big Green Egg achieves higher revenue and conversion with Commerce Layer",
+    "url": "https://www.casestudies.com/company/commerce-layer/case-study/blending-storytelling-and-commerce-with-best-in-class-tech-to-create-meaningful-engagement",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/commerce-layer/case-study/blending-storytelling-and-commerce-with-best-in-class-tech-to-create-meaningful-engagement",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/commerce-layer/case-study/blending-storytelling-and-commerce-with-best-in-class-tech-to-create-meaningful-engagement",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/commerce-layer",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Create AI agents that negotiate and close deals on your behalf. Automate backend operations and workflows with AI-powered employees that efficiently manage your business 24/7 without human intervention.",
+    "url": "https://commercelayer.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Build recurring revenue streams with flexible subscription management. Handle complex billing scenarios, payment method updates, and customer lifecycle automation with enterprise-grade subscription infrastructure.",
+    "url": "https://commercelayer.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Commerce Layerは、柔軟性とスピードを武器にしたヘッドレス・コマースによっての新たなeコマースの標準になり、ユニコーン企業としてのIPOを目指している",
+    "url": "https://techblitz.com/startup-interview/commerce-layer/",
+    "pass": 3
+   },
+   {
+    "quote": "Big Green Egg achieves higher revenue and conversion with Commerce Layer",
+    "url": "https://www.casestudies.com/company/commerce-layer",
+    "pass": 3
+   },
+   {
+    "quote": "VTEX provides cloud based e-Commerce Platform and Omnichannel solutions. Known for their vanguard technology and by being a time-to-revenue platform, VTEX has been recognized by the analysts from Gartner and …",
+    "url": "https://www.featuredcustomers.com/vendor/commerce-layer/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/commerce-layer/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Big Green Egg achieves higher revenue and conversion with Commerce Layer | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/commerce-layer/case-study/blending-storytelling-and-commerce-with-best-in-class-tech-to-create-meaningful-engagement",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Big Green Egg achieves higher revenue and conversion with Commerce Layer",
+    "url": "https://www.casestudies.com/company/commerce-layer/case-study/blending-storytelling-and-commerce-with-best-in-class-tech-to-create-meaningful-engagement",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/commerce-layer",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/435600-91",
+    "pass": 3
+   },
+   {
+    "quote": "Commerce Layer has 27 total employees.",
+    "url": "https://pitchbook.com/profiles/company/435600-91",
+    "pass": 3
+   },
+   {
+    "quote": "What is Commerce Layer’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/435600-91",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Commerce Layer is",
+    "url": "https://pitchbook.com/profiles/company/435600-91",
+    "pass": 3
+   },
+   {
+    "quote": "Commerce Layer Revenue 2025: $3.9M Est.",
+    "url": "https://getlatka.com/companies/commercelayer.io#team",
+    "pass": 3
+   },
+   {
+    "quote": "Commerce Layer revenue",
+    "url": "https://getlatka.com/companies/commercelayer.io#team",
+    "pass": 3
+   },
+   {
+    "quote": "Commerce Layer has not published its revenue. GetLatka estimates it at about $3.9M a year (September 2025).",
+    "url": "https://getlatka.com/companies/commercelayer.io#team",
+    "pass": 3
+   },
+   {
+    "quote": "Commerce Layer employees",
+    "url": "https://getlatka.com/companies/commercelayer.io#team",
+    "pass": 3
+   },
+   {
+    "quote": "Commerce Layer has 35 employees (September 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/commercelayer.io#team",
+    "pass": 3
+   },
+   {
+    "quote": "What is Commerce Layer's revenue?",
+    "url": "https://getlatka.com/companies/commercelayer.io#team",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Commerce Layer's revenue at about",
+    "url": "https://getlatka.com/companies/commercelayer.io#team",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Commerce Layer have?",
+    "url": "https://getlatka.com/companies/commercelayer.io#team",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of September 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/commercelayer.io#team",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/commercelayer.io#team",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/commercelayer.io#team",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/commercelayer.io#team",
+    "pass": 3
+   },
+   {
+    "quote": "Commerce Layer Revenue 2025: $3.9M Est.",
+    "url": "https://getlatka.com/companies/commercelayer.io",
+    "pass": 3
+   },
+   {
+    "quote": "Commerce Layer revenue",
+    "url": "https://getlatka.com/companies/commercelayer.io",
+    "pass": 3
+   },
+   {
+    "quote": "Commerce Layer has not published its revenue. GetLatka estimates it at about $3.9M a year (September 2025).",
+    "url": "https://getlatka.com/companies/commercelayer.io",
+    "pass": 3
+   },
+   {
+    "quote": "Commerce Layer employees",
+    "url": "https://getlatka.com/companies/commercelayer.io",
+    "pass": 3
+   },
+   {
+    "quote": "Commerce Layer has 35 employees (September 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/commercelayer.io",
+    "pass": 3
+   },
+   {
+    "quote": "What is Commerce Layer's revenue?",
+    "url": "https://getlatka.com/companies/commercelayer.io",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Commerce Layer's revenue at about",
+    "url": "https://getlatka.com/companies/commercelayer.io",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Commerce Layer have?",
+    "url": "https://getlatka.com/companies/commercelayer.io",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of September 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/commercelayer.io",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/commercelayer.io",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/commercelayer.io",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/commercelayer.io",
+    "pass": 3
+   },
+   {
+    "quote": "Commerce Layer Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/commerce-layer-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Commerce Layer Revenue",
+    "url": "https://prospeo.io/c/commerce-layer-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Commerce Layer",
+    "url": "https://prospeo.io/c/commerce-layer-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/commerce-layer-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/commerce-layer-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/commerce-layer-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Commerce Layer?",
+    "url": "https://prospeo.io/c/commerce-layer-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Commerce Layer generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/commerce-layer-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/commerce-layer-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/commerce-layer-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Commerce Layer have?",
+    "url": "https://prospeo.io/c/commerce-layer-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/commerce-layer-revenue",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Connect your retail inventory and generate shareable links based on SKUs or product selections. Share via email, SMS, WhatsApp, or clienteling apps to make any product instantly purchasable without building a full website.",
+    "url": "https://commercelayer.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/commerce-layer/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/commerce-layer/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/commerce-layer",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/commerce-layer",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/435600-91",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/commerce-layer-revenue",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本では過去24時間に 0 件のレポートが記録されており、そのうち 0 件が過去1時間以内のものです",
+    "url": "https://www.entireweb.com/jp/status/commercelayer",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業と世界のトップティアVCを繋ぐ CVCの現場経験から生まれたファンド・オブ・ファンズとは？ AT PARTNERS",
+    "url": "https://techblitz.com/startup-interview/commerce-layer/",
+    "pass": 3
+   },
+   {
+    "quote": "世界的ブランドであるGUCCIのeコマースシステムを構築してきた経験から同社を創業したCEOのFilippo Conforti氏に、プロダクトの特徴や、日本を含めたグローバル戦略について聞いた",
+    "url": "https://techblitz.com/startup-interview/commerce-layer/",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場では、技術パートナーやデジタルエージェンシーとの関係強化を希望",
+    "url": "https://techblitz.com/startup-interview/commerce-layer/",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場についてConforti氏は「日本は興味深い市場のひとつだと感じています",
+    "url": "https://techblitz.com/startup-interview/commerce-layer/",
+    "pass": 3
+   },
+   {
+    "quote": "そして、日本のブランドにもぜひ使っていただきたいと思っています",
+    "url": "https://techblitz.com/startup-interview/commerce-layer/",
+    "pass": 3
+   },
+   {
+    "quote": "市場参入においては、テクノロジー・パートナーやデジタルエージェンシーなど、日本のブランドをサポートしてもらえるパートナーシップ契約を結びたいと思っています",
+    "url": "https://techblitz.com/startup-interview/commerce-layer/",
+    "pass": 3
+   },
+   {
+    "quote": "「電力の変化」をどう読むか 東京ガスも出資する米AmperonのAI予測の仕組み",
+    "url": "https://techblitz.com/startup-interview/commerce-layer/",
+    "pass": 3
+   },
+   {
+    "quote": "「電力の変化」をどう読むか 東京ガスも出資する米AmperonのAI予測の仕組みの詳細を見る",
+    "url": "https://techblitz.com/startup-interview/commerce-layer/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "CommerceLayer 障害・不具合は発生中？リアルタイム障害情報・稼働状... — このページは、リアルタイムの監視とユーザーからの報告に基づいて、CommerceLayer の現在のステータスを表示しています。 応答時間、停止、パフォーマンスの低下を追跡しているため、CommerceLayer がダウンしているか、問題を抱えているかを常に把握できます。",
+    "url": "https://www.entireweb.com/jp/status/commercelayer",
+    "pass": 3
+   },
+   {
+    "quote": "Commerce Layer | Sell everywhere — Use Commerce Layer as your in-store engine with the same API as online channels. Manage store-level inventory, enable endless aisle, and let associates sell via shareable links with shared payments, gift cards, and promotions.",
+    "url": "https://commercelayer.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Partners - Commerce Layer — See how our partners build and launch Commerce Layer implementations, integrating best-in-class technologies to deliver modern commerce experiences for brands worldwide.",
+    "url": "https://commercelayer.io/partners",
+    "pass": 3
+   },
+   {
+    "quote": "多様化する販売チャネルに対応するヘッドレスコマース・プラットフォ... — Jul 9, 2021 · ビジネスを展開する場面や地域に対応したPOSシステム、決済システム、物流パートナーなどと柔軟に接続できるのが、ヘッドレス・ネイティブなCommerce Layerの特徴で、多くの需要を満たしている。 そして、2021年5月には1600万ドル（シリーズB）を調達。",
+    "url": "https://techblitz.com/startup-interview/commerce-layer/",
+    "pass": 3
+   },
+   {
+    "quote": "Commerce Layer | Sell everywhere — Commerce Layer provides the API infrastructure powering this shift. Explore our product. API-first, stateless checkout to sell anywhere. Handle multiple markets and currencies, connect any payment gateway or tax calculator, and transact via AI agents and humans. Embed with a single line of code.",
+    "url": "https://commercelayer.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Our Best Customers | Commerce Layer — Our unified commerce API delivers native multi-market capabilities, enterprise-grade performance, and complete flexibility to build the best experience for customers. Making luxury meet modernity through composable architecture. Testing Commerce Layer in days and rolling out gradually with zero downtime.",
+    "url": "https://commercelayer.io/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Partners - Commerce Layer — Extend the power of the Commerce Layer platform with a curated ecosystem of premium integrations and applications. See how our partners build and launch Commerce Layer implementations, integrating best-in-class technologies to deliver modern commerce experiences for brands worldwide.",
+    "url": "https://commercelayer.io/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Commerce Layer | The future is agentic. — We envision a world where AI agents buy and sell on behalf of humans, creating a new economy. Commerce Layer is building the infrastructure to make this vision reality. When we founded Commerce Layer in 2017, ecommerce platforms were still debating whether APIs were necessary.",
+    "url": "https://commercelayer.io/vision",
+    "pass": 3
+   },
+   {
+    "quote": "Promotion engine - Commerce Layer — Use Commerce Layer as your in-store engine with the same API as online channels. Manage store-level inventory, enable endless aisle, and let associates sell via shareable links with shared payments, gift cards, and promotions. Ready to get started? Discover how we can help your business.",
+    "url": "https://commercelayer.io/promotion-engine",
+    "pass": 3
+   },
+   {
+    "quote": "Commerce Layer B2B Case Studies & Customer Successes — See how Commerce Layer solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/commerce-layer",
+    "pass": 3
+   },
+   {
+    "quote": "19 Commerce Layer Case Studies, Success Stories, & Customer ... — Commerce Layer has a 4.8/5 star rating. Learn what their customers think, get 19 free case studies and more.",
+    "url": "https://www.featuredcustomers.com/vendor/commerce-layer/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "49 Commerce Layer Customer Reviews & References ... — Discover what Featured Customers are saying about Commerce Layer through testimonials, reviews, & case studies.",
+    "url": "https://www.featuredcustomers.com/vendor/commerce-layer",
+    "pass": 3
+   },
+   {
+    "quote": "Our Best Customers | Commerce Layer — Leading brands use Commerce Layer's transaction API and developer tools to build customized ecommerce experiences. Read their success stories.",
+    "url": "https://commercelayer.io/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Commerce Layer 2026 Company Profile: Valuation, Funding ...How Commerce Layer hit $3.9M revenue with a 35 person team in...Commerce Layer Revenue 2025: $3.9M Est. ARR - getlatka.comCommerce Layer Revenue, Funding & Valuation - prospeo.ioCommerce Layer - 2026 Company Profile, Team, Funding ... - TracxnCommerce Layer: Revenue, Worth, Valuation & Competitors 2026Commerce Layer — Funding, Investors & ",
+    "url": "https://pitchbook.com/profiles/company/435600-91",
+    "pass": 3
+   },
+   {
+    "quote": "How Commerce Layer hit $3.9M revenue with a 35 person team in... — Team Commerce Layer has 35 total employees in different roles and functions. Together, these details describe key aspects of Commerce Layer’s team and reach.",
+    "url": "https://getlatka.com/companies/commercelayer.io/team",
+    "pass": 3
+   },
+   {
+    "quote": "Commerce Layer Revenue 2025: $3.9M Est. ARR - getlatka.com — Aug 10, 2026 · Commerce Layer generates an estimated $3.9M in annual revenue. How many employees does Commerce Layer have? Commerce Layer has 35 employees. Where is Commerce Layer headquarters? Commerce Layer is headquartered in Prato, Tuscany, Italy.",
+    "url": "https://getlatka.com/companies/commercelayer.io",
+    "pass": 3
+   },
+   {
+    "quote": "Commerce Layer Revenue, Funding & Valuation - prospeo.io — How many employees does Commerce Layer have? Commerce Layer has approximately 21-50 employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/commerce-layer-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Commerce Layer - 2026 Company Profile, Team, Funding ... - Tracxn — Feb 11, 2026 · Commerce Layer is a series B company based in Prato (Italy), founded in 2017 by Filippo Conforti and Massimo Scardellato. It operates as a Provider of commerce platform and order management system.",
+    "url": "https://tracxn.com/d/companies/commercelayer/__oV_IqctY_olvwW-NorVqWqDbojshxnLZcq2skTDjB3U",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Create escape with Agobay → https://t.co/aTlY86WcWp ... Create escape with Agobay → bit.ly/46vABDP @commercelayer — Ecommerce Platform @contentful — Headless CMS @nextjs — Frontend Framework MUX — Media #headlesscommerce #ecommerce #composablecommerce #commercelayer #contentful #nextjs #mux",
+    "url": "https://x.com/theheadlessclub/status/1724810064794468516",
+    "pass": 3
+   },
+   {
+    "quote": "Strong tech is important. Strong collaboration is what makes ... Commerce Layer (@commercelayer). 36 views. Strong tech is important. Strong collaboration is what makes transformation happen. Proud to have partnered with @oriuminc on @NordicTrack composable journey. 💪🤝",
+    "url": "https://x.com/commercelayer/status/2054135881737355330",
+    "pass": 3
+   },
+   {
+    "quote": "Jul ♂️, ♂️ on X: \" Scrolling through recent posts on ... Jul 🧙♂️,🧙♂️ on X: \"🌟Scrolling through recent posts on @termix_ai X account, the focus is clear: Giving AI agents a real way to earn. 🔹The project positions itself as the commerce layer for autonomous agents, with AACP handling identity, escrow, and settlement so agents can hire one another without constant oversight. Their Agent Skills, whic",
+    "url": "https://x.com/jul56502344/status/2119978479488016619",
+    "pass": 3
+   },
+   {
+    "quote": "Filippo Conforti (@FilippoConforti) / Posts / X With the conclusion of the @MACHAlliance annual conference last week, we thought it would be a nice time to share our \"Meet Commerce Layer\" video that we recorded during the U.S. roadshow.",
+    "url": "https://x.com/FilippoConforti",
+    "pass": 3
+   },
+   {
+    "quote": "@commercelayer | X The latest posts from @commercelayer",
+    "url": "https://x.com/commercelayer",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Commerce Layer - LinkedIn Commerce Layer is a unified commerce API that allows you to bring your business online and transform any customer interaction into a shopping experience, whatever the market, channel, or device.",
+    "url": "https://www.linkedin.com/company/commerce-layer",
+    "pass": 3
+   },
+   {
+    "quote": "Commerce Layer | LinkedIn Commerce Layer is a unified commerce API that allows you to bring your business online and transform any customer interaction into a shopping experience, whatever the market, channel, or device.",
+    "url": "https://in.linkedin.com/company/commerce-layer",
+    "pass": 3
+   },
+   {
+    "quote": "Getting All Results in the CommerceLayer API (or any ... Dec 9, 2024 · We are using Pipedream Workflows to process backend functionality for Commerce Layer, so the code below is how code in a Pipedream Step would look like.",
+    "url": "https://www.linkedin.com/pulse/getting-all-results-commercelayer-api-any-paginated-yehuda-fruchter-zpddc",
+    "pass": 3
+   },
+   {
+    "quote": "Your first checkout on the new Payments API | Commerce Layer More practical guides are on the way! Your first checkout on the new Payments API commercelayer.io 17 4,025 followers",
+    "url": "https://www.linkedin.com/posts/commerce-layer_your-first-checkout-on-the-new-payments-api-activity-7523709749700227072-zE07",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Commerce Layer - Facebook Jan 12, 2021 · Commerce Layer is a new generation platform that lets you live up to the shopping experiences your customers expect. It provides you with a fast and secure commerce #API that makes any content shoppable in any channel, on a global scale.",
+    "url": "https://www.facebook.com/commercelayer/",
+    "pass": 3
+   },
+   {
+    "quote": "Commerce Layer - #HeadlessCommerce is a modern alternative... Jan 12, 2021 · This #guide will walk you though the benefits of this new approach compared to traditional one, highlighting the differences between the two, and showing how Commerce Layer can help you go headless, scale as you need, and stay innovative — without pain.",
+    "url": "https://www.facebook.com/commercelayer/posts/headlesscommerce-is-a-modern-alternative-to-the-many-restrictions-and-limitation/136959004902189/",
+    "pass": 3
+   },
+   {
+    "quote": "Commerce Layer is a headless... - The Information Lab - Facebook Jan 18, 2021 · Commerce Layer is a headless commerce platform and order management system that lets you add global shopping capabilities to any website, mobile app, chatbot, or IoT device, with ease",
+    "url": "https://www.facebook.com/theinformationlab/posts/commerce-layer-is-a-headless-commerce-platform-and-order-management-system-that-/2995564247212557/",
+    "pass": 3
+   },
+   {
+    "quote": "Storyblok - Storyblok’s Technology Partner - Commerce ... Apr 6, 2023 · Storyblok’s Technology Partner - Commerce Layer, makes headless commerce easy. 🙌 Commerce Layer's API-first commerce engine enables brands to sell...",
+    "url": "https://www.facebook.com/storyblok/posts/storybloks-technology-partner-commerce-layer-makes-headless-commerce-easy-commer/663813432422102/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://commercelayer.io/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.entireweb.com/jp/status/commercelayer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techblitz.com/startup-interview/commerce-layer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/commerce-layer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/commerce-layer/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/commerce-layer/case-study/blending-storytelling-and-commerce-with-best-in-class-tech-to-create-meaningful-engagement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/commerce-layer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.upcounsel.com/reseller-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/435600-91",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/commercelayer.io#team",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/commercelayer.io",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/commerce-layer-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/theheadlessclub/status/1724810064794468516",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/commercelayer/status/2054135881737355330",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/jul56502344/status/2119978479488016619",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/FilippoConforti",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/commerce-layer",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/commerce-layer",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/getting-all-results-commercelayer-api-any-paginated-yehuda-fruchter-zpddc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/commerce-layer_your-first-checkout-on-the-new-payments-api-activity-7523709749700227072-zE07",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/commercelayer/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/commercelayer/posts/headlesscommerce-is-a-modern-alternative-to-the-many-restrictions-and-limitation/136959004902189/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/theinformationlab/posts/commerce-layer-is-a-headless-commerce-platform-and-order-management-system-that-/2995564247212557/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/storyblok/posts/storybloks-technology-partner-commerce-layer-makes-headless-commerce-easy-commer/663813432422102/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/commercelayer",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Commercelayer 日本 導入",
+   "results": [
+    "https://www.entireweb.com/jp/status/commercelayer",
+    "https://commercelayer.io/",
+    "https://commercelayer.io/partners",
+    "https://techblitz.com/startup-interview/commerce-layer/",
+    "https://36kr.jp/502580/",
+    "https://stockcrew.co.jp/insights/article_jiji_ai_commerce_standard_2026-06-17",
+    "https://jp.linkedin.com/company/commerce-layer/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Commercelayer 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://chigai-hikaku.com/?p=36920",
+    "https://www.aon.com/japan/company-overview",
+    "https://www.capgemini.com/jp-jp/about-us/overview-and-access/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Commercelayer Japan",
+   "results": [
+    "https://commercelayer.io/",
+    "https://commercelayer.io/customers",
+    "https://commercelayer.io/partners",
+    "https://commercelayer.io/vision",
+    "https://commercelayer.io/promotion-engine",
+    "https://commercelayer.io/agentic-commerce",
+    "https://github.com/commercelayer"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Commercelayer manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/commerce-layer",
+    "https://www.featuredcustomers.com/vendor/commerce-layer/case-studies",
+    "https://www.casestudies.com/company/commerce-layer/case-study/blending-storytelling-and-commerce-with-best-in-class-tech-to-create-meaningful-engagement",
+    "https://www.featuredcustomers.com/vendor/commerce-layer",
+    "https://commercelayer.io/customers",
+    "https://github.com/commercelayer/examples",
+    "https://commercelayer.io/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Commercelayer white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://partner.vw.com/partner",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.resellercluster.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Commercelayer founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/435600-91",
+    "https://getlatka.com/companies/commercelayer.io/team",
+    "https://getlatka.com/companies/commercelayer.io",
+    "https://prospeo.io/c/commerce-layer-revenue",
+    "https://tracxn.com/d/companies/commercelayer/__oV_IqctY_olvwW-NorVqWqDbojshxnLZcq2skTDjB3U",
+    "https://compworth.com/company/commerce-layer",
+    "https://bouncewatch.com/company/commerce-layer"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Commercelayer",
+   "results": [
+    "https://note.com/canalai/n/ne1fc4151f33d?hl=en",
+    "https://note.com/tag/我々は宇宙人",
+    "https://note.com/culturalcapital/n/neb86712dab13?hl=en",
+    "https://note.com/sitake1010/n/ndc808e9980ce",
+    "https://note.com/kentabright/n/nb116f899a6ac",
+    "https://note.com/watarutida/n/n75017e960add",
+    "https://note.com/harunatravel/n/n9be3e4d29b2a"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Commercelayer",
+   "results": [
+    "https://x.com/theheadlessclub/status/1724810064794468516",
+    "https://x.com/commercelayer/status/2054135881737355330",
+    "https://x.com/jul56502344/status/2119978479488016619",
+    "https://x.com/FilippoConforti",
+    "https://x.com/Milonsa87650356/status/2117453657847525484",
+    "https://x.com/Arifx0001/status/2119006977020051459",
+    "https://developer.x.com/exhibit"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Commercelayer",
+   "results": [
+    "https://www.linkedin.com/company/commerce-layer",
+    "https://in.linkedin.com/company/commerce-layer",
+    "https://www.linkedin.com/pulse/getting-all-results-commercelayer-api-any-paginated-yehuda-fruchter-zpddc",
+    "https://www.linkedin.com/posts/commerce-layer_your-first-checkout-on-the-new-payments-api-activity-7523709749700227072-zE07",
+    "https://www.linkedin.com/posts/commerce-layer_build-your-first-custom-dashboard-app-in-activity-7381263914141036544-l-yP",
+    "https://www.linkedin.com/posts/commerce-layer_build-with-ai-commerce-layer-docs-activity-7472943625006678016-6dmT",
+    "https://www.linkedin.com/posts/commerce-layer_introducing-the-commerce-layer-core-mcp-activity-7475541055023505409-KpGJ"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Commercelayer",
+   "results": [
+    "https://www.facebook.com/commercelayer/",
+    "https://www.facebook.com/commercelayer/posts/headlesscommerce-is-a-modern-alternative-to-the-many-restrictions-and-limitation/136959004902189/",
+    "https://www.facebook.com/theinformationlab/posts/commerce-layer-is-a-headless-commerce-platform-and-order-management-system-that-/2995564247212557/",
+    "https://www.facebook.com/storyblok/posts/storybloks-technology-partner-commerce-layer-makes-headless-commerce-easy-commer/663813432422102/",
+    "https://www.facebook.com/extendi.it/posts/we-are-extremely-glad-to-see-commerce-layer-launching-a-microservice-that-we-con/4795903837141798/",
+    "https://www.facebook.com/profile.php/?id=61589781507659",
+    "https://www.facebook.com/thejsnation/posts/fabrizio-picca-goes-through-the-main-highlights-of-commercelayer-comparing-the-h/4202828713137909/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Commercelayer note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://x.com/note_corp/status/2074734197949034502",
+    "https://commercelayer.io/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Commercelayer X 投稿",
+   "results": [
+    "https://x.com/commercelayer",
+    "https://commercelayer.io/",
+    "https://dashboard.commercelayer.io/sign_in",
+    "https://x.com/inaba_shin_/article/2071883073160147029",
+    "https://note.com/mgane/n/n1c0d7384c8a0",
+    "https://note.com/freelife_creator/n/nb461cc665419",
+    "https://search.yahoo.co.jp/realtime/search/投稿/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）"
+ }
+}

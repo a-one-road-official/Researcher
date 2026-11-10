@@ -1,0 +1,865 @@
+{
+ "name": "株式会社ホームページ",
+ "aliases": [],
+ "context": "PBF=yes 装置=EBM;JAM-5200;JAM-5200EBM;日本電子;電子ビーム金属3D 出典=http://3d.kinzoku-kakou-odec.com/column/column-832/",
+ "researched_at": "2026-11-10T18:15:22.042218+00:00",
+ "official_url": "https://ds-b.jp/",
+ "identified_by": "search:yahoo_jp:ホームページ",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社",
+    "value": "〒852-8003 長崎県長崎市旭町6番1号 タワーシティ長崎 タワーコート1階 TEL：095-862-4891（代表）　FAX：095-862-4855",
+    "url": "https://ds-b.jp/pages/6/",
+    "pass": 1
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2005年11月1日",
+    "url": "https://ds-b.jp/pages/6/",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "10,000,000円",
+    "url": "https://ds-b.jp/pages/6/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "302名(2026年11月現在)",
+    "url": "https://ds-b.jp/pages/6/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "CMS企画開発＆Webデザイン制作・販売・サポート事業 RICOH kintone plus連携ソリューション企画開発・サポート事業 AIチャットボット企画開発・販売・サポート事業 HRテック＆オンライン産業医サービス企画開発・販売・サポート事業 WebRTC＆メタバース企画開発・販売・サポート事業",
+    "url": "https://ds-b.jp/pages/6/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "検索結果の抜粋": [
+   {
+    "quote": "企業 ホームページ の 会社概要 （会社案内）の必要項目や書き方 — 企業 ホームページ の 会社概要 （会社案内）の必要項目や書き方 ds-b.jp https://ds-b.jp > TOP > Web活用 > Webサイトの運営",
+    "url": "https://ds-b.jp/dsmagazine/company-profile/",
+    "pass": 3
+   },
+   {
+    "quote": "信頼を高める 会社概要 の書き方、 会社概要 ページの作り方 — 信頼を高める 会社概要 の書き方、 会社概要 ページの作り方 チャコウェブ https://www.chaco-web.com > ... > ホームページの作り方",
+    "url": "https://www.chaco-web.com/blog/how-to-make-company-profile/",
+    "pass": 3
+   },
+   {
+    "quote": "数字で見るとは？採用サイトや会社 ホームページ で使うわけ！ — 数字で見るとは？採用サイトや会社 ホームページ で使うわけ！ 株式会社 滝沢デザイン https://www.takizawa-design.jp > knowledge > contents-a...",
+    "url": "https://www.takizawa-design.jp/knowledge/contents-about-corporate-data/",
+    "pass": 3
+   },
+   {
+    "quote": "企業 ホームページ の会社概要（会社案内）の必要項目や書き方 — 企業 ホームページ の会社概要（会社案内）の必要項目や書き方 ds-b.jp https://ds-b.jp > TOP > Web活用 > Webサイトの運営",
+    "url": "https://ds-b.jp/dsmagazine/company-profile/",
+    "pass": 3
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "事業内容：エネルギー、化学等のプラント・施設およびこれらの環境保全に関する計画、設計、機器調達、試運転、運転・保全管理コンサルティング",
+    "url": "https://www.jac-recruitment.jp/market/knowhow/resume/resume-aboutcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "新薬開発・医療機器開発・医療情報システム提供",
+    "url": "https://www.jac-recruitment.jp/market/knowhow/resume/resume-aboutcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "・（例1）株式会社〇〇〇 事業内容：医薬品、医薬部外品、医療器具などの製造・販売",
+    "url": "https://www.jac-recruitment.jp/market/knowhow/resume/resume-aboutcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "・（例２）株式会社〇〇〇 事業内容：医薬品、医薬部外品、医療器具などの製造・販売",
+    "url": "https://www.jac-recruitment.jp/market/knowhow/resume/resume-aboutcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "新興工業株式会社は、自動車や農機、産機分品製造を行っているものづくりの会社です",
+    "url": "https://www.takizawa-design.jp/knowledge/contents-about-corporate-data/",
+    "pass": 3
+   },
+   {
+    "quote": "本田技研工業株式会社は、二輪車や自動車、船外機などの製品を手掛ける会社です",
+    "url": "https://www.takizawa-design.jp/knowledge/contents-about-corporate-data/",
+    "pass": 3
+   },
+   {
+    "quote": "【お仕事のご案内】医療・介護の記事制作・Kindle出版支援｜Marino Works",
+    "url": "https://note.com/tag/%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E5%88%B6%E4%BD%9C",
+    "pass": 3
+   },
+   {
+    "quote": "歯科医院のサイトをテンプレートで量産する、ECに特化するなど、ビジネスとしてうまく型を作らないと続けられない",
+    "url": "https://note.com/shosira/n/n05345836a4ab",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "企業のHP、上場企業であれば有価証券報告書などを参考に、直近の売上高を記載します",
+    "url": "https://www.jac-recruitment.jp/market/knowhow/resume/resume-aboutcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要に記載する項目5. 資本金",
+    "url": "https://www.jac-recruitment.jp/market/knowhow/resume/resume-aboutcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金：3,000万円",
+    "url": "https://www.jac-recruitment.jp/market/knowhow/resume/resume-aboutcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金：5億円 （20XX年設立時）",
+    "url": "https://www.jac-recruitment.jp/market/knowhow/resume/resume-aboutcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金：20億円以上",
+    "url": "https://www.jac-recruitment.jp/market/knowhow/resume/resume-aboutcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "企業の資本金は、売上高と同様で、企業規模が伝わる項目です",
+    "url": "https://www.jac-recruitment.jp/market/knowhow/resume/resume-aboutcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金は上場企業だけでなく非上場企業でも公開されているので、その企業のHPの会社概要に記載されている資本金額を記載します",
+    "url": "https://www.jac-recruitment.jp/market/knowhow/resume/resume-aboutcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "上場・非上場 （例）〇〇株式会社（非上場）",
+    "url": "https://www.jac-recruitment.jp/market/knowhow/resume/resume-aboutcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "1. 上場・非上場",
+    "url": "https://www.jac-recruitment.jp/market/knowhow/resume/resume-aboutcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "１つ目は、上場・非上場の情報です",
+    "url": "https://www.jac-recruitment.jp/market/knowhow/resume/resume-aboutcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業で勤務していた経験をアピールしたい場合や志望企業が非上場企業で、同じ非上場の企業文化を経験したことをアピールしたい場合などです",
+    "url": "https://www.jac-recruitment.jp/market/knowhow/resume/resume-aboutcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金：〇〇百万円 売上高：○○百万円（20xx年） 従業員数：○○○名",
+    "url": "https://www.jac-recruitment.jp/market/knowhow/resume/resume-aboutcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金：〇〇百万円 売上高：○○百万円（20xx年） 従業員数：○○○",
+    "url": "https://www.jac-recruitment.jp/market/knowhow/resume/resume-aboutcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "会社名・事業内容・資本金・従業員数・売上高など",
+    "url": "https://www.jac-recruitment.jp/market/knowhow/resume/resume-aboutcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "前職の会社情報は、基本的にはその会社のHP・パンフレット・カタログで、会社の正式名称、事業内容、資本金、従業員数などが調べられます",
+    "url": "https://www.jac-recruitment.jp/market/knowhow/resume/resume-aboutcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "また、会社四季報（書籍）も上場版と未上場版の2冊があるので、こちらでも事業内容、資本金、従業員数、売上高について調べられます",
+    "url": "https://www.jac-recruitment.jp/market/knowhow/resume/resume-aboutcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高：HPなどで公表なし 従業員数：HPなどで公表なし 資本金： HPなどで公表なし",
+    "url": "https://www.jac-recruitment.jp/market/knowhow/resume/resume-aboutcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業と違い、決算書などが公開されていない非上場企業",
+    "url": "https://www.takizawa-design.jp/knowledge/contents-about-corporate-data/",
+    "pass": 3
+   }
+  ],
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "創業年数・取引件数・拠点数・社員数の推移・特許保有数",
+    "url": "https://www.takizawa-design.jp/knowledge/contents-about-corporate-data/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "ホームページ 制作の人気・新着記事まとめ - note ホームページ 制作の人気・新着記事まとめ - note note https://note.com > コンピュータ・IT > ウェブ開発",
+    "url": "https://note.com/tag/%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E5%88%B6%E4%BD%9C",
+    "pass": 3
+   },
+   {
+    "quote": "今どきの「 ホームページ 」制作が世の中でどうなっているのか ... 今どきの「 ホームページ 」制作が世の中でどうなっているのか ... note https://note.com > ビジネス > 収益化",
+    "url": "https://note.com/shosira/n/n05345836a4ab",
+    "pass": 3
+   },
+   {
+    "quote": "あたらしい ホームページ をつくりました｜ひろむ - note あたらしい ホームページ をつくりました｜ひろむ - note note https://note.com > 創作系 > 小説",
+    "url": "https://note.com/hiromu_ikeda/n/naf75260cc500",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "ホームページ制作の人気・新着記事まとめ｜note",
+    "url": "https://note.com/tag/%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E5%88%B6%E4%BD%9C",
+    "pass": 3
+   },
+   {
+    "quote": "ホームページ制作におけるAIツールの活用術や、業者選び、運用管理のノウハウが扱われています。",
+    "url": "https://note.com/tag/%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E5%88%B6%E4%BD%9C",
+    "pass": 3
+   },
+   {
+    "quote": "初心者による自作の記録や、プロによる制作・受注の現場に関する記事が集まっています。",
+    "url": "https://note.com/tag/%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E5%88%B6%E4%BD%9C",
+    "pass": 3
+   },
+   {
+    "quote": "ホームページ制作におけるAIツールの活用術や、業者選び、運用管理のノウハウが扱…",
+    "url": "https://note.com/tag/%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E5%88%B6%E4%BD%9C",
+    "pass": 3
+   },
+   {
+    "quote": "kirinoha｜note を楽しむ土台のつくり方",
+    "url": "https://note.com/tag/%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E5%88%B6%E4%BD%9C",
+    "pass": 3
+   },
+   {
+    "quote": "【PR】ReaddyでWEBサイト作成！企業、事業主からnoteクリエイターまで！AIを使って知識ゼロでも作れちゃう！",
+    "url": "https://note.com/tag/%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E5%88%B6%E4%BD%9C",
+    "pass": 3
+   },
+   {
+    "quote": "REACH REACH｜TV局と広告代理店が事業成長をサポート",
+    "url": "https://note.com/tag/%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E5%88%B6%E4%BD%9C",
+    "pass": 3
+   },
+   {
+    "quote": "正直なところ、今どきの「ホームページ」制作が世の中でどうなっているのか、うちもよく分かっていない｜shosira",
+    "url": "https://note.com/shosira/n/n05345836a4ab",
+    "pass": 3
+   },
+   {
+    "quote": "正直なところ、今どきの「ホームページ」制作が世の中でどうなっているのか、うちもよく分かっていない",
+    "url": "https://note.com/shosira/n/n05345836a4ab",
+    "pass": 3
+   },
+   {
+    "quote": "サイフォンでは最近、いわゆる昔ながらの「ホームページ」の制作や更新のお仕事は、ほとんどお受けしていない（大きなサイトをSIerさんと一緒に改修している会社、というイメージを持たれがちかもしれない。実はそんなこともないんですが。10人くらいしかいないし）。",
+    "url": "https://note.com/shosira/n/n05345836a4ab",
+    "pass": 3
+   },
+   {
+    "quote": "それでも、お客様から「ホームページ」的なウェブサイトの制作についてご相談をいただくことがある。「AIでなんでも作れるじゃーん」はそうなのですよ、そのとおりなのですが、それを実行できる人というのは、それはそれで恵まれた前提条件があったりするのです。いろいろな理由で、それができない会社は多いのよ。",
+    "url": "https://note.com/shosira/n/n05345836a4ab",
+    "pass": 3
+   },
+   {
+    "quote": "ただ正直なところ、今どきのウェブサイト制作が世の中でどうなっているのか、うちもよく分かっていない。少しガラパゴス化しているかもしれない、という自覚もあるので、「今のサイフォンだったらどうやるか（どうやっているか）」を一度整理してみることにした。つまり、",
+    "url": "https://note.com/shosira/n/n05345836a4ab",
+    "pass": 3
+   },
+   {
+    "quote": "実際には、まったくやっていないわけではなくて、たまにアニメーション作品の公式サイトを作っていたりはする（Netflixなどで皆さんが見ている作品のクレジットに名前が出ている）。ただ、これは少し例外で、コンテンツ系のお仕事は純粋に楽しいのでやっているという・・・。",
+    "url": "https://note.com/shosira/n/n05345836a4ab",
+    "pass": 3
+   },
+   {
+    "quote": "では、それ以外をなぜやっていないのか（この話題だけで、業界の人はたぶんお酒がおいしく飲めるのかしら）。理由はだいたい次のとおり。",
+    "url": "https://note.com/shosira/n/n05345836a4ab",
+    "pass": 3
+   },
+   {
+    "quote": "歯科医院のサイトをテンプレートで量産する、ECに特化するなど、ビジネスとしてうまく型を作らないと続けられない。そうなると、お客様一人ひとりに向き合うことが難しい。",
+    "url": "https://note.com/shosira/n/n05345836a4ab",
+    "pass": 3
+   },
+   {
+    "quote": "あたらしいホームページをつくりました｜ひろむ",
+    "url": "https://note.com/hiromu_ikeda/n/naf75260cc500",
+    "pass": 3
+   },
+   {
+    "quote": "ひろむのあたらしいホームページができました。",
+    "url": "https://note.com/hiromu_ikeda/n/naf75260cc500",
+    "pass": 3
+   },
+   {
+    "quote": "https://hiromu.netlify.app/",
+    "url": "https://note.com/hiromu_ikeda/n/naf75260cc500",
+    "pass": 3
+   },
+   {
+    "quote": "noteは引き続き使う予定です。基本的には、わたし以外の人物・作品に言及する際にはnote、わたし個人のもの（作品・短文・日記など）はあたらしいホームページを使う予定です。",
+    "url": "https://note.com/hiromu_ikeda/n/naf75260cc500",
+    "pass": 3
+   },
+   {
+    "quote": "すでにnoteにある記事を消すことはありませんが、一部ホームページへ引っ越しはするかもしれません。その時は元のnoteの記事にホームページへのリンクを貼ります。",
+    "url": "https://note.com/hiromu_ikeda/n/naf75260cc500",
+    "pass": 3
+   },
+   {
+    "quote": "ホームページに未発表の作品をいくつか載せたのでぜひ見ていってください。",
+    "url": "https://note.com/hiromu_ikeda/n/naf75260cc500",
+    "pass": 3
+   },
+   {
+    "quote": "あとはおまけです。なんでホームページを作ったかという話をダラダラします。",
+    "url": "https://note.com/hiromu_ikeda/n/naf75260cc500",
+    "pass": 3
+   },
+   {
+    "quote": "現在たくさんの短詩作家がnoteで作品を公開している。直感的な操作とクリーンなUIで誰でも簡単に詩が公開できるプラットフォームで、とても便利だと思う一方で、最近どんな作品も同じように見えてしまうな、と思うようになった。これは作家の問題でもnote固有の問題でもなくて、単純にたくさんの人が集まると、その分言葉が均質化されていく力が働く感じがする。",
+    "url": "https://note.com/hiromu_ikeda/n/naf75260cc500",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "かんたん ホームページ 作成サービス【グーペ】 (@goope_pr) / X かんたん ホームページ 作成サービス【グーペ】 (@goope_pr) / X X https://x.com > goope_pr",
+    "url": "https://x.com/goope_pr",
+    "pass": 3
+   },
+   {
+    "quote": "GPT-Astraで30万円級の ホームページ を作成する方法 - X GPT-Astraで30万円級の ホームページ を作成する方法 - X X https://x.com > @halukik_0520",
+    "url": "https://x.com/halukik_0520/article/2096164542577525111",
+    "pass": 3
+   },
+   {
+    "quote": "あきばれ ホームページ 【公式】 (@akibarehp) / X あきばれ ホームページ 【公式】 (@akibarehp) / X X https://x.com > akibarehp",
+    "url": "https://x.com/akibarehp",
+    "pass": 3
+   },
+   {
+    "quote": "# ホームページ 作成 - Search / X # ホームページ 作成 - Search / X X https://x.com > Search",
+    "url": "https://x.com/hashtag/%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E4%BD%9C%E6%88%90",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "LinkedIn ホームページ - 概要 | ラーニングヘルプ LinkedIn ホームページ - 概要 | ラーニングヘルプ LinkedIn https://www.linkedin.com > help > learning > answer",
+    "url": "https://www.linkedin.com/help/learning/answer/a523215?lang=ja-JP",
+    "pass": 3
+   },
+   {
+    "quote": "LinkedIn ホームページ - 概要 | LinkedInヘルプ LinkedIn ホームページ - 概要 | LinkedInヘルプ LinkedIn https://www.linkedin.com > help > linkedin > answer",
+    "url": "https://www.linkedin.com/help/linkedin/answer/a523215?lang=ja",
+    "pass": 3
+   },
+   {
+    "quote": "あなたの ホームページ は壊れていません。ただ間違った相手と ... あなたの ホームページ は壊れていません。ただ間違った相手と ... LinkedIn https://jp.linkedin.com > pulse > your-homepage-broken-i...",
+    "url": "https://jp.linkedin.com/pulse/your-homepage-broken-its-just-talking-wrong-person-greg-turchetta-rilue?tl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "関西医科大学内科学第二講座の新しい ホームページ が完成しま ... 関西医科大学内科学第二講座の新しい ホームページ が完成しま ... LinkedIn https://jp.linkedin.com > pulse > 関西医科大学内科学第...",
+    "url": "https://jp.linkedin.com/pulse/%E9%96%A2%E8%A5%BF%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E5%86%85%E7%A7%91%E5%AD%A6%E7%AC%AC%E4%BA%8C%E8%AC%9B%E5%BA%A7%E3%81%AE%E6%96%B0%E3%81%97%E3%81%84%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%8C%E5%AE%8C%E6%88%90%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-kentaro-hayashida-iu4hc",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "大会 ホームページ のグッズ情報を更新しました。 Tシャツは ... 大会 ホームページ のグッズ情報を更新しました。 Tシャツは ... facebook.com https://www.facebook.com > posts > 大会ホームページの...",
+    "url": "https://www.facebook.com/tsumagoi.cabbage.marathon/posts/%E5%A4%A7%E4%BC%9A%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E3%82%B0%E3%83%83%E3%82%BA%E6%83%85%E5%A0%B1%E3%82%92%E6%9B%B4%E6%96%B0%E3%81%97%E3%81%BE%E3%81%97%E3%81%9Ft%E3%82%B7%E3%83%A3%E3%83%84%E3%81%AF%E4%BA%8B%E5%89%8D%E8%B3%BC%E5%85%A5%E5%89%8D%E6%97%A5%E4%BC%9A%E5%A0%B4%E5%8F%97%E5%8F%96%E3%81%8C%E5%8F%AF%E8%83%BD%E3%81%A7%E3%81%99/1178304601008010/",
+    "pass": 3
+   },
+   {
+    "quote": "京都 ホームページ (@kyoto.homepage) - Facebook 京都 ホームページ (@kyoto.homepage) - Facebook Facebook https://www.facebook.com > ... > Internet company",
+    "url": "https://www.facebook.com/kyoto.homepage/",
+    "pass": 3
+   },
+   {
+    "quote": "ホームページ 館 | Chuo-ku Tokyo - Facebook ホームページ 館 | Chuo-ku Tokyo - Facebook Facebook https://www.facebook.com > sendenkan",
+    "url": "https://www.facebook.com/sendenkan.hp/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://ds-b.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ds-b.jp/pages/6/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ds-b.jp/security/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ds-b.jp/pages/244?detail=1&b_id=1434&r_id=3668",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ds-b.jp/pages/244?detail=1&b_id=1434&r_id=3667",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ds-b.jp/pages/244?detail=1&b_id=1434&r_id=3666",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ds-b.jp/pages/244?detail=1&b_id=1434&r_id=3665",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ds-b.jp/pages/23/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ds-b.jp/pages/318?detail=1&b_id=1691&r_id=3668",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ds-b.jp/pages/318?detail=1&b_id=1691&r_id=3667",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ds-b.jp/pages/318?detail=1&b_id=1691&r_id=3666",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ds-b.jp/pages/318?detail=1&b_id=1691&r_id=3665",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://doda.jp/companyinfo/contents/finance/004.html",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.k-society.com/know_how/know_how-3347/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubeni-idigio.com/insight-hub/metal3dprinter_desktopmetal_case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricoh.co.jp/3dp/metal/what",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.alesia.jp/investing-company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/establish/basic/70750/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.homemate-research-stock.com/useful/12221_stock_026/",
+    "status": "http_503",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jac-recruitment.jp/market/knowhow/resume/resume-aboutcompany/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takizawa-design.jp/knowledge/contents-about-corporate-data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://doda.jp/DodaFront/View/CompanyRanking/j_rank__2/-ne__2/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E5%88%B6%E4%BD%9C",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/shosira/n/n05345836a4ab",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hiromu_ikeda/n/naf75260cc500",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/goope_pr",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/halukik_0520/article/2096164542577525111",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/akibarehp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E4%BD%9C%E6%88%90",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/help/learning/answer/a523215?lang=ja-JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/help/linkedin/answer/a523215?lang=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/your-homepage-broken-its-just-talking-wrong-person-greg-turchetta-rilue?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/%E9%96%A2%E8%A5%BF%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E5%86%85%E7%A7%91%E5%AD%A6%E7%AC%AC%E4%BA%8C%E8%AC%9B%E5%BA%A7%E3%81%AE%E6%96%B0%E3%81%97%E3%81%84%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%8C%E5%AE%8C%E6%88%90%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-kentaro-hayashida-iu4hc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tsumagoi.cabbage.marathon/posts/%E5%A4%A7%E4%BC%9A%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E3%82%B0%E3%83%83%E3%82%BA%E6%83%85%E5%A0%B1%E3%82%92%E6%9B%B4%E6%96%B0%E3%81%97%E3%81%BE%E3%81%97%E3%81%9Ft%E3%82%B7%E3%83%A3%E3%83%84%E3%81%AF%E4%BA%8B%E5%89%8D%E8%B3%BC%E5%85%A5%E5%89%8D%E6%97%A5%E4%BC%9A%E5%A0%B4%E5%8F%97%E5%8F%96%E3%81%8C%E5%8F%AF%E8%83%BD%E3%81%A7%E3%81%99/1178304601008010/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/kyoto.homepage/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/sendenkan.hp/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ホームページ",
+   "results": [
+    "https://ds-b.jp/dsmagazine/what-is-homepage/",
+    "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8",
+    "https://ja.wix.com/",
+    "https://www.freecode.jp/blog/detail.php?c=57",
+    "https://www.hubspot.jp/products/cms/website/homepage-fashionable",
+    "https://www.xserver.ne.jp/bizhp/difference-between-website-and-homepage/",
+    "https://www.jimdo.com/jp/blog-hp-zukai-beginner-kaisetsu/",
+    "https://medical-grits.jp/news/column/4877/",
+    "https://wepage.com/blog/article/19/index.html",
+    "https://ja.wikipedia.org/wiki/ホームページ"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "ホームページ 会社概要 資本金 設立",
+   "results": [
+    "https://doda.jp/companyinfo/contents/finance/004.html",
+    "https://ds-b.jp/dsmagazine/company-profile/",
+    "https://www.k-society.com/know_how/know_how-3347/",
+    "https://www.chaco-web.com/blog/how-to-make-company-profile/",
+    "https://vs-group.jp/startup/establishment/20700.html",
+    "https://studio.design/ja/blog/company-profile-page-guide",
+    "https://aaam.jp/columns/company-profile-guide",
+    "https://www.mizuhobank.co.jp/corporate/account/tips/topic_05.html",
+    "https://mitekaraweb.com/column/company-profile-page-content",
+    "https://mihata.jp/column/company-profile-page-how-to-write"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "ホームページ 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.marubeni-idigio.com/insight-hub/metal3dprinter_desktopmetal_case/",
+    "https://www.ricoh.co.jp/3dp/metal/what",
+    "https://www.jeol.co.jp/column/detail001.html",
+    "https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/the-future-of-metal-3d-printing",
+    "https://www.youtube.com/watch?v=Ew517KG1bOI",
+    "https://www.hiper.co.jp/solution/%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B/",
+    "https://jampt.jp/column/column_453/",
+    "https://online.solize.com/blog/metal3dp-mechanism",
+    "https://flashforge.jp/benefit_list/metal/",
+    "https://www.hiper.co.jp/solution/金属3dプリンター導入事例/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "ホームページ 金属積層造形 設備",
+   "results": [
+    "https://jampt.jp/",
+    "https://chuokatan.co.jp/products/3dp/",
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "https://www.jeol.co.jp/column/detail001.html",
+    "https://www.ricoh.co.jp/3dp/metal/what",
+    "https://www.youtube.com/watch?v=sT3lR9R98hc",
+    "https://www.eos.info/ja/metal-solutions/metal-printers",
+    "https://j3d.co.jp/blog/knowledge/index37/",
+    "https://news.sharelab.jp/study/metal-3dprinter/",
+    "https://www.jfe-steel.co.jp/products/solution/metal-3d-printing/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "ホームページ 株主 出資 親会社",
+   "results": [
+    "https://www.alesia.jp/investing-company/",
+    "https://biz.moneyforward.com/establish/basic/70750/",
+    "https://www.homemate-research-stock.com/useful/12221_stock_026/",
+    "https://meijidori.jp/column/c3-20/",
+    "https://www.cyberagent.co.jp/ir/stock/shareholder/",
+    "https://vision-cash.com/cf/ac/shareholders-of-a-subsidiary/",
+    "https://www.businesslawyers.jp/practices/761",
+    "https://www.smd-am.co.jp/glossary/YST0189/",
+    "https://chigai2.fromation.co.jp/archives/25409",
+    "https://chigai2.fromation.co.jp/archives/21198"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "ホームページ 売上高 従業員数",
+   "results": [
+    "https://www.jac-recruitment.jp/market/knowhow/resume/resume-aboutcompany/",
+    "https://www.takizawa-design.jp/knowledge/contents-about-corporate-data/",
+    "https://doda.jp/DodaFront/View/CompanyRanking/j_rank__2/-ne__2/",
+    "https://bunnabi.jp/b-guide/20007/",
+    "https://ds-b.jp/dsmagazine/company-profile/",
+    "https://bixid.net/Blog/Article/20220908",
+    "https://note.com/jissen_presen/n/n654c3fe1b458",
+    "https://housefoods-group.com/company/numbers.html",
+    "https://hrview.jp/ranking/revenue-per-employee",
+    "https://corp.rakuten.co.jp/investors/financial/indicators.html"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com ホームページ",
+   "results": [
+    "https://note.com/tag/%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E5%88%B6%E4%BD%9C",
+    "https://note.com/mypacecreator/n/nac9cbcd380af",
+    "https://note.com/shosira/n/n05345836a4ab",
+    "https://note.com/hiromu_ikeda/n/naf75260cc500",
+    "https://note.com/itousa/n/n8eeeff755fbc",
+    "https://note.com/nobunosuke/n/n90498d8d252e",
+    "https://note.com/tag/%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8",
+    "https://note.com/it_support_n_san/n/n6da434a8be28",
+    "https://note.com/plusjam/n/n61eaa4a5c429",
+    "https://note.com/bamka/n/n3004fcb89550"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com ホームページ",
+   "results": [
+    "https://x.com/goope_pr",
+    "https://x.com/halukik_0520/article/2096164542577525111",
+    "https://x.com/akibarehp",
+    "https://x.com/hashtag/%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E4%BD%9C%E6%88%90",
+    "https://x.com/NTA_Japan/status/2113095961312653770",
+    "https://business.x.com/ja/success-stories/jimdojapan",
+    "https://x.com/zoroya_llc",
+    "https://x.com/i/article/2109771606881161580",
+    "https://about.x.com/ja/who-we-are/brand-toolkit",
+    "https://about.x.com/ja"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com ホームページ",
+   "results": [
+    "https://www.linkedin.com/help/learning/answer/a523215?lang=ja-JP",
+    "https://www.linkedin.com/help/linkedin/answer/a523215?lang=ja",
+    "https://jp.linkedin.com/pulse/your-homepage-broken-its-just-talking-wrong-person-greg-turchetta-rilue?tl=ja",
+    "https://jp.linkedin.com/pulse/%E9%96%A2%E8%A5%BF%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E5%86%85%E7%A7%91%E5%AD%A6%E7%AC%AC%E4%BA%8C%E8%AC%9B%E5%BA%A7%E3%81%AE%E6%96%B0%E3%81%97%E3%81%84%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%8C%E5%AE%8C%E6%88%90%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-kentaro-hayashida-iu4hc",
+    "https://www.linkedin.com/help/recruiter/answer/a518701?lang=ja-JP",
+    "https://www.linkedin.com/safety/go/?url=https%3A%2F%2Famazon%2Ejobs%2Fcontent%2Fen%2Fhow-we-hire%2Faccommodations&urlhash=mAhv&mt=bLPlYgIm3sKvdHYpiO4KXKVGUf4Wtf5eJXiRBkK_jFVQmg3Ohc1Bpq9oXE7BUAMxL1kxUs9jjEx2pH432CXGTAL1s6eU&isSdui=true",
+    "https://www.linkedin.com/help/linkedin/answer/a413215?lang=ja-JP",
+    "https://jp.linkedin.com/pulse/your-homepage-ready-2026-kathy-rustell-czryf?tl=ja",
+    "https://jp.linkedin.com/pulse/5-questions-every-homepage-should-answer-b2b-b2c-borja-zamora-p0yqc?tl=ja",
+    "https://www.linkedin.com/products/zoner-l.l.c.-japan-zonerama/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:facebook.com ホームページ",
+   "results": [
+    "https://www.facebook.com/tsumagoi.cabbage.marathon/posts/%E5%A4%A7%E4%BC%9A%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E3%82%B0%E3%83%83%E3%82%BA%E6%83%85%E5%A0%B1%E3%82%92%E6%9B%B4%E6%96%B0%E3%81%97%E3%81%BE%E3%81%97%E3%81%9Ft%E3%82%B7%E3%83%A3%E3%83%84%E3%81%AF%E4%BA%8B%E5%89%8D%E8%B3%BC%E5%85%A5%E5%89%8D%E6%97%A5%E4%BC%9A%E5%A0%B4%E5%8F%97%E5%8F%96%E3%81%8C%E5%8F%AF%E8%83%BD%E3%81%A7%E3%81%99/1178304601008010/",
+    "https://www.facebook.com/kyoto.homepage/",
+    "https://www.facebook.com/sendenkan.hp/",
+    "https://about.facebook.com/ja/",
+    "https://ja-jp.facebook.com/business/help/300074297741275",
+    "https://www.facebook.com/events/%E3%81%BE%E3%81%A1%E3%81%AA%E3%81%8Bbiz%E3%81%A4%E3%81%A5%E3%81%8D/%E6%88%90%E6%9E%9C%E3%81%AB%E3%81%A4%E3%81%AA%E3%81%8C%E3%82%8B%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E8%AC%9B%E5%BA%A7-%E8%87%AA%E5%8A%9B%E3%81%A7%E4%BD%9C%E3%82%8B%E3%81%8B%E8%AA%B0%E3%81%8B%E3%81%AB%E9%A0%BC%E3%82%80%E3%81%8B/937797285321967/?locale=lv_LV",
+    "https://www.facebook.com/uppoint.inc/",
+    "https://www.facebook.com/homepage.homhom/",
+    "https://www.facebook.com/eds.hp/",
+    "https://www.facebook.com/redkirin.co/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "ホームページ note 社長",
+   "results": [
+    "https://note.com/kazuyuki_tachi/n/n2915e4f702c6",
+    "https://www.selva-i.co.jp/article/archives/3224",
+    "https://note.com/",
+    "https://note.jp/",
+    "https://note.com/tag/%E7%A4%BE%E9%95%B7%E3%83%96%E3%83%AD%E3%82%B0",
+    "https://www.smrj.go.jp/supporter/fund_investment/funding/case/aihbak0000001wv3.html",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://x.com/sadaaki",
+    "https://note.com/topic/noteprolist",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "ホームページ X 投稿",
+   "results": [
+    "https://help.x.com/ja/using-x/embed-x-feed",
+    "https://www.xserver.ne.jp/bizhp/insert-x/",
+    "https://terace.jp/blog/studio-twitter/",
+    "https://day-1.tokyo/blog/embed-twitter-homepage",
+    "https://ohashi-planning.com/news/blog/2825/",
+    "https://collectsocials.com/ja/blog/embed-twitter-x-feed-widget-website",
+    "https://publish.x.com/",
+    "https://www.abcblog.co.jp/nayami2023.11.16",
+    "https://www.yurikago.net/hp/help/sns.html",
+    "https://help.x.com/ja/using-x/how-to-embed-a-post"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部28頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部28頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部28頁・検索12回）",
+  "使っている金属粉（材質）": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部28頁・検索12回）"
+ }
+}

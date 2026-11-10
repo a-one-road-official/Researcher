@@ -1,0 +1,753 @@
+{
+ "name": "42Technologies",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜未接触",
+ "researched_at": "2026-11-10T18:56:35.792329+00:00",
+ "official_url": "https://42technologies.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "What products will stock out this week?",
+    "url": "https://www.42technologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Visualization for the whole organization – from 42's proprietary BI dashboard, to data warehouse mirrors, to scheduled Excel reports.",
+    "url": "https://www.42technologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve sell-through.",
+    "url": "https://www.42technologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“42’s unified data platform is immensely beneficial - providing actionable insights that align with our unique needs. Plus, their responsive support team is always ready to help.”",
+    "url": "https://www.42technologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "sales performance improvement",
+    "url": "https://www.42technologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "It doesn’t have to be an API: spreadsheets, retailer portals and scheduled file feeds all work. If your data lives somewhere else, ask us.",
+    "url": "https://www.42technologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We connect what’s missing, and our retail semantic layer turns it into agreed metrics like sell-through and full-price ratio. Unified data can flow back into your warehouse and into the BI tools your team already uses (e.g. Tableau, Looker, Power BI), so the whole business works from one place. Where 42 fits depends on what you already have, so",
+    "url": "https://www.42technologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Usually, and the comparison worth making is total cost of ownership. In-house means hiring data engineers, building every connection and metric definition from scratch, then maintaining all of it as source systems change. The build is the smaller half; the upkeep never stops.",
+    "url": "https://www.42technologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How is 42 priced?",
+    "url": "https://www.42technologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing follows the data sets and sources you need ingested, so it tracks your stack rather than your headcount. Fractional data engineering and implementation are included: our engineers build the connections, model your data and keep them running as your systems change, rather than billing it as a separate project.",
+    "url": "https://www.42technologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The trusted project management tool for client work.",
+    "url": "https://www.42technologies.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Compare and analyze product performance from external marketplaces.",
+    "url": "https://www.42technologies.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Quantify the impact of physical traffic towards sales and product performance.",
+    "url": "https://www.42technologies.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Simplify and focus on the relevant data inputs to gain a precise performance picture.",
+    "url": "https://www.42technologies.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you’re looking for an agency to help with your merchandising efforts, or a consulting company, some help with your eCommerce or ads, feel free to let us know what you need so we can get you in touch with the right one!.",
+    "url": "https://www.42technologies.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We simplify retail reporting, so you can stop struggling with Excel spreadsheets and manual manipulation. With 42, getting the accurate answers you need is fast & easy.",
+    "url": "https://www.42technologies.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "your new data analyst — prepare for better retail reporting",
+    "url": "https://www.42technologies.com/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "No matter what programs they use, how many brands you work with, and how much data there is, our engineers will build you the dashboard of your dreams.",
+    "url": "https://www.42technologies.com/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "can see store-level information about employee performance, collections & promotions.",
+    "url": "https://www.42technologies.com/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "can improve sell-through and see how sales are tracking to goal.",
+    "url": "https://www.42technologies.com/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "can see what’s working — and what’s not — without having to look at a spreadsheet.",
+    "url": "https://www.42technologies.com/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "You can move inventory with smarter segmentation and optimal pricing because you understand consumer preferences.",
+    "url": "https://www.42technologies.com/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Most data tools aren't built for people who actually use the product. Information is spread out, and by the time you get the insights you need, they’re already outdated.",
+    "url": "https://www.42technologies.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "With 42, your data is consolidated into one easy-to-use platform — it’s the universal source of truth for your business. We tailor the dashboard to your team’s needs, streamlining and future-proofing your reporting. Ask 42 anything, and you’ll get powerful, accurate, visual reports the whole team will love.",
+    "url": "https://www.42technologies.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "42 launched as an idea at New York Fashion Week in 2013. Over the years, we’ve earned the trust of retailers of all sizes. Our team is spread across 3 continents, speaks 7 languages, and has endless curiosity and passion for the retail industry!",
+    "url": "https://www.42technologies.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Spread across 3 continents, 42 team members are on a mission to build the most loved and accessible tool for the retail industry. Founded by two Forbes 30 under 30 recipients and serial hackathon winners, our team comes from P&G, SAP, Deloitte Consulting, Flexport and mostly importantly the retail industry.",
+    "url": "https://www.42technologies.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We are a no-ego, no bs, collaborative group that deeply cares about our product, customers, and fellow teammates. We have an ownership mentality to deliver results, which extends in ensuring our teammates’ wellbeing. Ambitious and empathetic is possible! We are a dedicated and diverse team of parents, entrepreneurs, and passionate individuals who infuse every project with zeal!",
+    "url": "https://www.42technologies.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "42 - Pricing",
+    "url": "https://www.42technologies.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "42 can help grow your business, and we’ll grow with your business, too. Our all-inclusive pricing future-proofs your data.",
+    "url": "https://www.42technologies.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Google Analytics, Ads & Meta Ads",
+    "url": "https://www.42technologies.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "For teams wanting to work smarter while future-proofing their business with on-demand tailored analytics.",
+    "url": "https://www.42technologies.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Item / Product Master",
+    "url": "https://www.42technologies.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Product Features Included",
+    "url": "https://www.42technologies.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Support & Professional Services",
+    "url": "https://www.42technologies.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Live Trainings & Report Building Sessions",
+    "url": "https://www.42technologies.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Resources (Videos, Training Handbooks,...)",
+    "url": "https://www.42technologies.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Fractional Data Engineer & Project Manager",
+    "url": "https://www.42technologies.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Additional Professional Services",
+    "url": "https://www.42technologies.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "At 42, we work with brands, retailers, and brand conglomerates, along with agencies, consultancy firms, and independent industry experts, to provide a game-changing reporting and analytics dashboard.",
+    "url": "https://www.42technologies.com/why",
+    "pass": 1
+   },
+   {
+    "quote": "We don't just stop at providing you with our tool; we're deeply connected within the industry. Our extensive network includes retail experts and fellow software providers. If you ever need something beyond 42, we go the extra mile to assist you. We're your partners in success, and we leverage our connections to ensure you have all the resources you need.",
+    "url": "https://www.42technologies.com/why",
+    "pass": 1
+   },
+   {
+    "quote": "Our tool has its roots in the retail industry, and it has grown with the invaluable feedback and insights from brands and retailers like you. We've come this far because we trust and value your input to continuously improve our tool. Your feedback shapes our development, and we're committed to providing you with the insights you need to thrive in the retail world.",
+    "url": "https://www.42technologies.com/why",
+    "pass": 1
+   },
+   {
+    "quote": "In a world where trust is earned, we've consistently proven ourselves as a partner you can rely on. Your journey with 42 is not just about software; it's about trust, collaboration, and mutual growth. We're here to empower you to succeed.",
+    "url": "https://www.42technologies.com/why",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "42 is a managed retail data and analytics platform built for brands. 42 unifies data sources into one data warehouse, so your team and your AI work from numbers you trust.",
+    "url": "https://www.42technologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Already have a data warehouse?",
+    "url": "https://www.42technologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by global fashion and lifestyle brands,",
+    "url": "https://www.42technologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A Unified Data Warehouse + Retail Semantic Layer",
+    "url": "https://www.42technologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Omni-Retail Data Warehouse",
+    "url": "https://www.42technologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Visualization for the whole organization – from 42's proprietary BI dashboard, to data warehouse mirrors, to scheduled Excel reports.",
+    "url": "https://www.42technologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We already have a data warehouse. What does 42 add?",
+    "url": "https://www.42technologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "It can depend from brand to brand. Some have the warehouse but not the retail modeling; others have sources that never got wired up.",
+    "url": "https://www.42technologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We connect what’s missing, and our retail semantic layer turns it into agreed metrics like sell-through and full-price ratio. Unified data can flow back into your warehouse and into the BI tools your team already uses (e.g. Tableau, Looker, Power BI), so the whole business works from one place. Where 42 fits depends on what you already have, so",
+    "url": "https://www.42technologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Data Warehouse Hosting",
+    "url": "https://www.42technologies.com/pricing",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "42 - Analytics for Retail Agencies",
+    "url": "https://www.42technologies.com/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "If you're helping brands grow and need to keep up with their performance, we can help! Feel free to reach out if you're trying to become the main source of truth for your brands as we have special plans for Agencies.",
+    "url": "https://www.42technologies.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "At 42, we work with brands, retailers, and brand conglomerates, along with agencies, consultancy firms, and independent industry experts, to provide a game-changing reporting and analytics dashboard.",
+    "url": "https://www.42technologies.com/why",
+    "pass": 1
+   },
+   {
+    "quote": "Bring on your clients to 42 Agencies",
+    "url": "https://www.42technologies.com/why",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "can see actualized revenue versus sales revenue to close the month without a long reconciliation conversation.",
+    "url": "https://www.42technologies.com/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Save time. Grow revenue.",
+    "url": "https://www.42technologies.com/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "42 unifies and cleans data so you have better information to make smarter merch decisions. That means more revenue and stronger comps. Because when you know your business better, you can grow your business better.",
+    "url": "https://www.42technologies.com/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "For teams willing to let go of Excel to grow revenue while manipulating data for every question they may have.",
+    "url": "https://www.42technologies.com/pricing",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "42 | 42 Technologies - LinkedIn 日本 — Visit us at www.42technologies.com to get started. ウェブサイト http://www.42technologies.com 42 | 42 Technologiesの外部リンク 業種 ソフトウェア開発 会社規模 社員 11 - 50名 本社 San Francisco、California 種類 非上場企業 創立...",
+    "url": "https://jp.linkedin.com/company/42-technologies-inc-",
+    "pass": 3
+   },
+   {
+    "quote": "42 - Who we are42 Technology announces major expansion plan | 42 Technologyスターバックスが学んだ「AI導入後」の教訓、米企業もROI創出に苦戦 |...42 Technologies - F6S42 - Partners - 42 Technologies — 42 is a managed retail data and analytics platform for brands. We unify your data into one warehouse, so your team and your AI work from numbers you trust. Mar 23, 2023 · 42 Technology (42T) plans to create up to 20 new engineering",
+    "url": "https://www.42technologies.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "42 Technologies - F6S — San Francisco, California, United States Founded 2013 Raised from Springboard Enterprises and 6 more See all investors 42technologies.com",
+    "url": "https://www.f6s.com/company/42technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "42 Technologies - Retail Data and Analytics Platform — 42 is a managed retail data and analytics platform for brands. We unify your data into one warehouse, so your team and your AI work from numbers you trust.",
+    "url": "https://www.42technologies.com/",
+    "pass": 3
+   },
+   {
+    "quote": "42 Technologies - Retail Data and Analytics Platform — AI-ready data, built for retail. 42 is a managed retail data and analytics platform built for brands. 42 unifies data sources into one data warehouse, so your team and your AI work from numbers you trust. Already have a data warehouse? What products will stock out this week? Which stores? By style. built on 10+ years of retail data engineering",
+    "url": "https://www.42technologies.com/",
+    "pass": 3
+   },
+   {
+    "quote": "42 - Who we are - 42 Technologies42 Technologies - LinkedIn42 Technologies Inc. - FacebookCareers - 42.comRemote Job Opportunities at 42 Technologies - We Work Remotely42 Technologies — Industrial Laser Cutting Machines — 42 is a managed retail data and analytics platform for brands. We unify your data into one warehouse, so your team and your AI work from numbers you trust. 42 is an end-to-end da",
+    "url": "https://www.42technologies.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "42 Technologies - LinkedIn — 42 is an end-to-end data omnichannel analytics and reporting platform built for the retail industry. Our retail experts consolidate raw sources of data (point-of-sale, ecommerce sources, ERPs,...",
+    "url": "https://jp.linkedin.com/company/42-technologies-inc-",
+    "pass": 3
+   },
+   {
+    "quote": "42 Technologies Inc. - FacebookCareers - 42.comRemote Job Opportunities at 42 Technologies - We Work Remotely42 Technologies — Industrial Laser Cutting Machines — Dec 19, 2025 · 42 Technologies Inc. 1,033 followers. Reporting and data analytics tool built for omnichannel brands and retailers. Because 42 needs a team 42 is an end-to-end analytics stack for the retail industry – specifically DTC and",
+    "url": "https://www.facebook.com/42technologies/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "re-cap of Day 1 at @NRFBigShow https://t.co/TgoNH7czaR ... STIQ Ltd t/a Styleintelligence (@StyleIntel53). re-cap of Day 1 at @NRFBigShow https://t.co/TgoNH7czaR @42technologies @CompuCom @YITunnel @ZoomSystems @reviveskincare",
+    "url": "https://x.com/StyleIntel53/status/953250056177676290",
+    "pass": 3
+   },
+   {
+    "quote": "Cathy Han (@cathyxhan) / Posts / X Jun 17 . @42technologies provide you with its modern retail analytics, an intuitive dashboard for retailers. Easy as ABC! #LVMHtech #VivaTech",
+    "url": "https://x.com/cathyxhan",
+    "pass": 3
+   },
+   {
+    "quote": "@42technologies | X The latest posts from @42technologies",
+    "url": "https://x.com/42technologies",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "42 | 42 Technologies - LinkedIn 42 | 42 Technologies | 2,000 followers on LinkedIn. Data analytics and reporting platform built for omnichannel brands and retailers | 42 is an end-to-end data omnichannel analytics and...",
+    "url": "https://www.linkedin.com/company/42-technologies-inc-",
+    "pass": 3
+   },
+   {
+    "quote": "Nick Porter - CTO @ 42 Technologies | Forbes 30 Under 30 ...42 Leadership Team, Executives & Contacts - getlatka.com42 Technologies CEO, Founder, Key Executive Team, Board of ...42 Technologies - Retail Data and Analytics Platform42 Technologies: Founder, Leadership & Team CTO @ 42 Technologies | Forbes 30 Under 30 · Experience: 42 Technologies Inc. · Location: San Francisco Bay Area · 500+ connec",
+    "url": "https://www.linkedin.com/in/nicolasporter",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "42 Technologies Inc. - Facebook42 Technologies Inc. - Facebook42 Technologies - FacebookExciting stuff—42 is now working... - 42 Technologies Inc.42's Cathy Han shares her insights... - 42 Technologies Inc ...42 technology - FacebookWith the advent of new technologies... - 42 Technologies Inc ... Dec 19, 2025 · 42 Technologies Inc. 1,033 followers. Reporting and data analytics tool built for omnic",
+    "url": "https://www.facebook.com/42technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "42 Technologies - Facebook 42 Technologies - Facebook ... 42 Technologies",
+    "url": "https://www.facebook.com/42-Technologies-651421574993677/",
+    "pass": 3
+   },
+   {
+    "quote": "42 Technologies Inc. - Facebook 42 Technologies Inc.",
+    "url": "https://www.facebook.com/42-Technologies-Inc-355100427676927/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.42technologies.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.42technologies.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.42technologies.com/agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.42technologies.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.42technologies.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.42technologies.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.42technologies.com/why",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://jp.linkedin.com/company/42-technologies-inc-",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.42technologies.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.f6s.com/company/42technologies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.42technologies.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.42technologies.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.42technologies.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.42technologies.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/42-technologies-inc-",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/42technologies/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Value-added_reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.upcounsel.com/reseller-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/groups/796523762150777/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/StyleIntel53/status/953250056177676290",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/cathyxhan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/42-technologies-inc-",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/42technologies/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/42-Technologies-651421574993677/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/42-Technologies-Inc-355100427676927/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/nicolasporter",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/42technologies",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "42Technologies 日本 導入",
+   "results": [
+    "https://jp.linkedin.com/company/42-technologies-inc-",
+    "https://www.42technologies.com/about",
+    "https://www.f6s.com/company/42technologies/",
+    "https://www.42technologies.com/",
+    "https://42t.com/insights/news-42-technology-announces-major-expansion-plan/",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/03807/102700001/",
+    "https://www.42technologies.com/partners"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "42Technologies 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.42technologies.com/",
+    "https://www.houjin.info/",
+    "https://www.houjin-bangou.nta.go.jp/",
+    "https://biz.toyokeizai.net/data/service/detail/id=418"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "42Technologies Japan",
+   "results": [
+    "https://www.42technologies.com/",
+    "https://www.42technologies.com/about",
+    "https://jp.linkedin.com/company/42-technologies-inc-",
+    "https://www.facebook.com/42technologies/",
+    "https://www.42.com/careers",
+    "https://weworkremotely.com/company/42-technologies",
+    "https://technologies42.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "42Technologies manufacturing customer case study",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "42Technologies white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://en.wikipedia.org/wiki/Value-added_reseller",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.facebook.com/groups/796523762150777/",
+    "https://www.facebook.com/groups/1390590848697838/",
+    "https://learn.microsoft.com/en-us/partner-center/enroll/indirect-reseller-eligibility-requirements",
+    "https://blog.vendoo.co/reselling-101-how-to-become-a-reseller-start-making-a-profit"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "42Technologies founded funding employees revenue",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com 42Technologies",
+   "results": [
+    "https://note.com/tag/2026年ドラフト",
+    "https://note.com/with_midday/n/n49ddb42a87d0?hl=en",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/minichocola42/n/ndd7dd5674901?hl=en",
+    "https://note.com/proper_viola2910/n/n9b3133bbbea5?hl=en",
+    "https://note.com/crosseurasia/n/ncc4eacceee42",
+    "https://note.com/rk611/n/n56e6db823eb1"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 42Technologies",
+   "results": [
+    "https://x.com/StyleIntel53/status/953250056177676290",
+    "https://x.com/cathyxhan",
+    "https://x.com/42technology",
+    "https://x.com/42Technology/reposts",
+    "https://x.com/42Technology/with_replies",
+    "https://x.com/koshigayaweb/status/2120082534893834491",
+    "https://x.com/melilot42/status/2115070743302250749"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 42Technologies",
+   "results": [
+    "https://www.linkedin.com/company/42-technologies-inc-",
+    "https://uk.linkedin.com/in/jonspratley",
+    "https://in.linkedin.com/in/vincentnp",
+    "https://sg.linkedin.com/company/42race",
+    "https://uk.linkedin.com/in/dr-peter-brown",
+    "https://in.linkedin.com/company/42square",
+    "https://www.linkedin.com/products/42-technologies-inc--42"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 42Technologies",
+   "results": [
+    "https://www.facebook.com/42technologies/",
+    "https://www.facebook.com/42-Technologies-651421574993677/",
+    "https://www.facebook.com/pages/42+technology/102778091110980/",
+    "https://www.facebook.com/42-Technologies-Inc-355100427676927/",
+    "https://www.facebook.com/42technologies/posts/exciting-stuff42-is-now-working-with-clover-to-bring-you-the-best-all-in-one-pos/696263857076432/",
+    "https://www.facebook.com/42technologies/posts/42s-cathy-han-shares-her-insights-today-on-the-boxworks-panel-on-enterprise-and-/733674353335382/",
+    "https://www.facebook.com/42technologies/posts/with-the-advent-of-new-technologies-and-new-ways-of-doing-business-spreadsheets-/722294091140075/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "42Technologies note 社長",
+   "results": [
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.linkedin.com/in/nicolasporter",
+    "https://getlatka.com/companies/42/contacts",
+    "https://www.insideorg.com/org/42-42-technologies",
+    "https://www.cbinsights.com/company/42-technologies/people",
+    "https://www.42technologies.com/",
+    "https://wellfound.com/company/42/people"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "42Technologies X 投稿",
+   "results": [
+    "https://x.com/42technologies",
+    "https://www.instagram.com/42technologies/",
+    "https://x.com/42technology",
+    "https://www.42technologies.com/",
+    "https://search.yahoo.co.jp/realtime/search/投稿/",
+    "https://www.facebook.com/42technologies/",
+    "https://www.42api.me/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部24頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部24頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部24頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部24頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部24頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部24頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部24頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部24頁・検索12回）"
+ }
+}

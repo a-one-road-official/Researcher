@@ -1,0 +1,1085 @@
+{
+ "name": "Autone",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜未接触",
+ "researched_at": "2026-11-10T18:39:16.944064+00:00",
+ "official_url": "https://autone.io",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2021",
+    "url": "https://startupintros.com/orgs/autone",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "London, United Kingdom",
+    "url": "https://startupintros.com/orgs/autone",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "The right product, the right place, the right time.",
+    "url": "https://autone.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Put every product in its best starting position. Build smarter assortments and send new products where they have the strongest potential.",
+    "url": "https://autone.io/",
+    "pass": 1
+   },
+   {
+    "quote": "The onboarding process has been great and so well structured. Our old supplier was a complete mess",
+    "url": "https://autone.io/",
+    "pass": 1
+   },
+   {
+    "quote": "What took two and a half days now takes two hours. With autone, I don’t have to worry about my best-selling product going to the wrong store, it’s automatically sent to where it will sell the fastest.",
+    "url": "https://autone.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Make your inventory match demand with precision, without guesswork.",
+    "url": "https://autone.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Nail inventory levels with a just in time approach",
+    "url": "https://autone.io/",
+    "pass": 1
+   },
+   {
+    "quote": "increase in full-price sell-through",
+    "url": "https://autone.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Drive a reduction in average stock coverage and stock value by 7% to 10% leading to improved margins: lower logistics costs, reduced working capital and fewer markdowns needed to clear excess inventory.",
+    "url": "https://autone.io/",
+    "pass": 1
+   },
+   {
+    "quote": "autone gives back huge amounts of time to teams with better things to do – by automating planning and distribution processes some of our customers have seen three-day operations cut down to just two hours.",
+    "url": "https://autone.io/",
+    "pass": 1
+   },
+   {
+    "quote": "The future of retail belongs to the bold. Join the brands who are making meaningful changes to their process, for their team, customers and future.",
+    "url": "https://autone.io/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock premium revenue streams.",
+    "url": "https://autone.io/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Our program opens doors to high-value opportunities while keeping your operations lean. Get access to enterprise-level retail clients taking transformative actions.",
+    "url": "https://autone.io/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Differentiate yourself with exclusive AI forecasting capabilities that tackle retail's biggest challenges. We'll provide the training and support you need to get the best results.",
+    "url": "https://autone.io/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve how retailers operate by bringing AI-driven precision to an industry struggling with waste. Your expertise combined with our AI will help create a future where excess inventory is history.",
+    "url": "https://autone.io/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Grow your business using our state-of-the-art technology. No need to build your own tech stack or hire AI specialists. You can deliver cutting-edge solutions with your existing team.",
+    "url": "https://autone.io/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Partnership management is a craft learned through experience, not textbooks. With 15+ years of experience building successful SaaS partnerships for industry leaders like SAP, Experian and Contentsquare.",
+    "url": "https://autone.io/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "We lived it firsthand. The endless firefighting. The painful truth of overproduced collections, destined not for shelves but for markdowns, outlets or worse landfill.",
+    "url": "https://autone.io/about/",
+    "pass": 1
+   },
+   {
+    "quote": "The late nights, the stress, the exhaustion of brilliant people working tirelessly to patch a broken system. Retail isn’t just about products; it’s about the people",
+    "url": "https://autone.io/about/",
+    "pass": 1
+   },
+   {
+    "quote": "who make them, sell them, and buy them. Yet for too long, the industry has relied on instinct, legacy systems, and spreadsheets trying to predict the unpredictable.",
+    "url": "https://autone.io/about/",
+    "pass": 1
+   },
+   {
+    "quote": "We watched talented colleagues burn out under the weight of impossible decisions. We saw brands struggle trapped between operational chaos and financial pressure.",
+    "url": "https://autone.io/about/",
+    "pass": 1
+   },
+   {
+    "quote": "A future where no product is wasted, no effort is in vain, and no team is stuck fighting fires.",
+    "url": "https://autone.io/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Every product has its place.",
+    "url": "https://autone.io/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Data in, insights out. We bring it all together the products, SKUs, sales,",
+    "url": "https://autone.io/about/",
+    "pass": 1
+   },
+   {
+    "quote": "The onboarding process has been great and so well structured. Our old supplier was a complete mess",
+    "url": "https://autone.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "What took two and a half days now takes two hours. With autone, I don’t have to worry about my best-selling product going to the wrong store, it’s automatically sent to where it will sell the fastest.",
+    "url": "https://autone.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "of inventory sold at full price. The rest is discounted.",
+    "url": "https://autone.io/industries/accessories/",
+    "pass": 1
+   },
+   {
+    "quote": "Increase in full-price sell-through",
+    "url": "https://autone.io/industries/accessories/",
+    "pass": 1
+   },
+   {
+    "quote": "autone gives back huge amounts of time to teams with better things to do – by automating planning and distribution processes some of our customers have seen three-day operations cut down to just two hours.",
+    "url": "https://autone.io/industries/accessories/",
+    "pass": 1
+   },
+   {
+    "quote": "Drive a reduction in average stock coverage and stock value by 7% to 10% leading to improved margins: lower logistics costs, reduced working capital and fewer markdowns needed to clear excess inventory.",
+    "url": "https://autone.io/industries/accessories/",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize inventory decisions, avoid stockouts, and boost sales, all from a single engine. Make smarter, more profitable decisions and keep your statement pieces flying off the shelves.",
+    "url": "https://autone.io/industries/accessories/",
+    "pass": 1
+   },
+   {
+    "quote": "Seasonal shifts and unpredictable demand need agile inventory. Historical sales data? Cute, but won’t cut it here. autone gives you AI-driven forecasting that sniffs out what’s hot before your customers even know they want it.",
+    "url": "https://autone.io/industries/accessories/",
+    "pass": 1
+   },
+   {
+    "quote": "manage excess stock without slashing prices",
+    "url": "https://autone.io/industries/accessories/",
+    "pass": 1
+   },
+   {
+    "quote": "Make stock precision your competitive edge.",
+    "url": "https://autone.io/industries/accessories/",
+    "pass": 1
+   },
+   {
+    "quote": "The onboarding process has been great and so well structured. Our old supplier was a complete mess",
+    "url": "https://autone.io/industries/accessories/",
+    "pass": 1
+   },
+   {
+    "quote": "What took two and a half days now takes two hours. With autone, I don’t have to worry about my best-selling product going to the wrong store, it’s automatically sent to where it will sell the fastest.",
+    "url": "https://autone.io/industries/accessories/",
+    "pass": 1
+   },
+   {
+    "quote": "Our only mission? To help you become the data-driven retail pro you were born to be. Because when you win, we know we’ve nailed it.",
+    "url": "https://autone.io/industries/accessories/",
+    "pass": 1
+   },
+   {
+    "quote": "Nail inventory levels with a just in time approach",
+    "url": "https://autone.io/industries/accessories/",
+    "pass": 1
+   },
+   {
+    "quote": "increase in full-price sell-through",
+    "url": "https://autone.io/industries/accessories/",
+    "pass": 1
+   },
+   {
+    "quote": "avg. loss in monthly profit due to inaccurate stock buying.",
+    "url": "https://autone.io/industries/beauty-cosmetics/",
+    "pass": 1
+   },
+   {
+    "quote": "of inventory sold at full price.",
+    "url": "https://autone.io/industries/beauty-cosmetics/",
+    "pass": 1
+   },
+   {
+    "quote": "Increase in full-price sell-through",
+    "url": "https://autone.io/industries/beauty-cosmetics/",
+    "pass": 1
+   },
+   {
+    "quote": "autone gives back huge amounts of time to teams with better things to do – by automating planning and distribution processes some of our customers have seen three-day operations cut down to just two hours.",
+    "url": "https://autone.io/industries/beauty-cosmetics/",
+    "pass": 1
+   },
+   {
+    "quote": "Drive a reduction in average stock coverage and stock value by 7% to 10% leading to improved margins: lower logistics costs, reduced working capital and fewer markdowns needed to clear excess inventory.",
+    "url": "https://autone.io/industries/beauty-cosmetics/",
+    "pass": 1
+   },
+   {
+    "quote": "autone crunches the numbers for you, helping you navigate through inventory forecasts, market trends, seasonal shifts and buyer influences with unmatched precision. Make smarter, more profitable decisions, faster and at scale.",
+    "url": "https://autone.io/industries/beauty-cosmetics/",
+    "pass": 1
+   },
+   {
+    "quote": "Seasonal shifts and unpredictable demand need agile inventory. Historical sales data? Cute, but won’t cut it here. autone gives you AI-driven forecasting that sniffs out what’s trending before your customers even know they want it.",
+    "url": "https://autone.io/industries/beauty-cosmetics/",
+    "pass": 1
+   },
+   {
+    "quote": "manage excess stock without slashing prices",
+    "url": "https://autone.io/industries/beauty-cosmetics/",
+    "pass": 1
+   },
+   {
+    "quote": "Make stock precision your competitive edge.",
+    "url": "https://autone.io/industries/beauty-cosmetics/",
+    "pass": 1
+   },
+   {
+    "quote": "The onboarding process has been great and so well structured. Our old supplier was a complete mess",
+    "url": "https://autone.io/industries/beauty-cosmetics/",
+    "pass": 1
+   },
+   {
+    "quote": "What took two and a half days now takes two hours. With autone, I don’t have to worry about my best-selling product going to the wrong store, it’s automatically sent to where it will sell the fastest.",
+    "url": "https://autone.io/industries/beauty-cosmetics/",
+    "pass": 1
+   },
+   {
+    "quote": "Our only mission? To help you become the data-driven retail pro you were born to be. Because when you win, we know we’ve nailed it.",
+    "url": "https://autone.io/industries/beauty-cosmetics/",
+    "pass": 1
+   },
+   {
+    "quote": "Nail inventory levels with a just in time approach",
+    "url": "https://autone.io/industries/beauty-cosmetics/",
+    "pass": 1
+   },
+   {
+    "quote": "increase in full-price sell-through",
+    "url": "https://autone.io/industries/beauty-cosmetics/",
+    "pass": 1
+   },
+   {
+    "quote": "excess garments produced every single year.",
+    "url": "https://autone.io/industries/apparel-fashion/",
+    "pass": 1
+   },
+   {
+    "quote": "of inventory sold at full price. The rest is discounted.",
+    "url": "https://autone.io/industries/apparel-fashion/",
+    "pass": 1
+   },
+   {
+    "quote": "Increase in full-price sell-through",
+    "url": "https://autone.io/industries/apparel-fashion/",
+    "pass": 1
+   },
+   {
+    "quote": "autone gives back huge amounts of time to teams with better things to do – by automating planning and distribution processes some of our customers have seen three-day operations cut down to just two hours.",
+    "url": "https://autone.io/industries/apparel-fashion/",
+    "pass": 1
+   },
+   {
+    "quote": "Drive a reduction in average stock coverage and stock value by 7% to 10% leading to improved margins: lower logistics costs, reduced working capital and fewer markdowns needed to clear excess inventory.",
+    "url": "https://autone.io/industries/apparel-fashion/",
+    "pass": 1
+   },
+   {
+    "quote": "autone gives you confidence and control over your inventory management. Make smarter, more profitable decisions fast and at scale, no matter the season.",
+    "url": "https://autone.io/industries/apparel-fashion/",
+    "pass": 1
+   },
+   {
+    "quote": "Seasonal shifts and unpredictable demand need agile inventory. autone gives you AI-driven forecasting that sniffs out what’s hot at home before your customers even know they want it.",
+    "url": "https://autone.io/industries/apparel-fashion/",
+    "pass": 1
+   },
+   {
+    "quote": "manage excess stock without slashing prices",
+    "url": "https://autone.io/industries/apparel-fashion/",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "autone seamlessly blends AI-driven recommendations with the irreplaceable intuition of industry experts and your brand's data. You work from a glass box, not a black box.",
+    "url": "https://autone.io/",
+    "pass": 1
+   },
+   {
+    "quote": "For the love of retail. Find out how autone can serve your brand.",
+    "url": "https://autone.io/",
+    "pass": 1
+   },
+   {
+    "quote": "For the love of retail. Find out how autone can serve your brand.",
+    "url": "https://autone.io/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Give your brand and people",
+    "url": "https://autone.io/about/",
+    "pass": 1
+   },
+   {
+    "quote": "For the love of retail. Find out how autone can serve your brand.",
+    "url": "https://autone.io/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Deep discounts hurt margins, your brand image—and your soul. autone helps you",
+    "url": "https://autone.io/industries/accessories/",
+    "pass": 1
+   },
+   {
+    "quote": "Deep discounts hurt margins, your brand image—and your soul. autone helps you",
+    "url": "https://autone.io/industries/beauty-cosmetics/",
+    "pass": 1
+   },
+   {
+    "quote": "Fashion trends flip overnight, and stock levels can make or break your bottom line. That’s why we built autone to help fashion’s savviest merchandisers, buyers, and planners ditch the guesswork for good by telling you exactly what and when to buy, replenish, rebalance, and reorder to keep your brand on point.",
+    "url": "https://autone.io/industries/apparel-fashion/",
+    "pass": 1
+   },
+   {
+    "quote": "Deep discounts hurt margins, and your brand image. autone helps you",
+    "url": "https://autone.io/industries/apparel-fashion/",
+    "pass": 1
+   },
+   {
+    "quote": "Homeware trends shift as quickly as the seasons, and staying ahead of demand can make or break your bottom line. That’s why we built autone—to help homeware’s savviest merchandisers, buyers, and planners ditch the guesswork by telling you exactly what and when to buy, replenish, rebalance, and reorder to keep your brand on point.",
+    "url": "https://autone.io/industries/furniture-home/",
+    "pass": 1
+   },
+   {
+    "quote": "Deep discounts hurt margins, and your brand image. autone helps you",
+    "url": "https://autone.io/industries/furniture-home/",
+    "pass": 1
+   },
+   {
+    "quote": "Deep discounts hurt margins, your brand image—and your soul. autone helps you",
+    "url": "https://autone.io/industries/sport-outdoor/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Since working with autone, we’ve seen a 10% boost in revenue and cut stockouts by 75%. That’s huge for our business.",
+    "url": "https://autone.io/",
+    "pass": 1
+   },
+   {
+    "quote": "I believe we can gain 8–10% in revenue performance just through better stock optimization. Before, we were losing around €10,000 per month, just at our flagship store, because we didn’t have the right stock available.",
+    "url": "https://autone.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock premium revenue streams.",
+    "url": "https://autone.io/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Harry & Adil, 13 years of supply chain experience at Alexander McQueen, Victoria Beckham, Givenchy, Bergdorf Goodman and Alexander Wang",
+    "url": "https://autone.io/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Since working with autone, we’ve seen a 10% boost in revenue and cut stockouts by 75%. That’s huge for our business.",
+    "url": "https://autone.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "I believe we can gain 8–10% in revenue performance just through better stock optimization. Before, we were losing around €10,000 per month, just at our flagship store, because we didn’t have the right stock available.",
+    "url": "https://autone.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Be part of something truly special.",
+    "url": "https://autone.io/career/",
+    "pass": 1
+   },
+   {
+    "quote": "At autone, you’ll rewrite the rules of retail management. Expect to be challenged, to innovate, and to break barriers.",
+    "url": "https://autone.io/career/",
+    "pass": 1
+   },
+   {
+    "quote": "avg. lost revenue per quarter due to overstocking.",
+    "url": "https://autone.io/industries/accessories/",
+    "pass": 1
+   },
+   {
+    "quote": "Since working with autone, we’ve seen a 10% boost in revenue and cut stockouts by 75%. That’s huge for our business.",
+    "url": "https://autone.io/industries/accessories/",
+    "pass": 1
+   },
+   {
+    "quote": "I believe we can gain 8–10% in revenue performance just through better stock optimization. Before, we were losing around €10,000 per month, just at our flagship store, because we didn’t have the right stock available.",
+    "url": "https://autone.io/industries/accessories/",
+    "pass": 1
+   },
+   {
+    "quote": "avg. lost revenue per quarter due to overstocking.",
+    "url": "https://autone.io/industries/beauty-cosmetics/",
+    "pass": 1
+   },
+   {
+    "quote": "Since working with autone, we’ve seen a 10% boost in revenue and cut stockouts by 75%. That’s huge for our business.",
+    "url": "https://autone.io/industries/beauty-cosmetics/",
+    "pass": 1
+   },
+   {
+    "quote": "I believe we can gain 8–10% in revenue performance just through better stock optimization. Before, we were losing around €10,000 per month, just at our flagship store, because we didn’t have the right stock available.",
+    "url": "https://autone.io/industries/beauty-cosmetics/",
+    "pass": 1
+   },
+   {
+    "quote": "avg. lost revenue per quarter due to overstocking.",
+    "url": "https://autone.io/industries/apparel-fashion/",
+    "pass": 1
+   },
+   {
+    "quote": "Since working with autone, we’ve seen a 10% boost in revenue and cut stockouts by 75%. That’s huge for our business.",
+    "url": "https://autone.io/industries/apparel-fashion/",
+    "pass": 1
+   },
+   {
+    "quote": "I believe we can gain 8–10% in revenue performance just through better stock optimization. Before, we were losing around €10,000 per month, just at our flagship store, because we didn’t have the right stock available.",
+    "url": "https://autone.io/industries/apparel-fashion/",
+    "pass": 1
+   },
+   {
+    "quote": "avg. lost revenue per quarter due to overstocking.",
+    "url": "https://autone.io/industries/furniture-home/",
+    "pass": 1
+   },
+   {
+    "quote": "Since working with autone, we’ve seen a 10% boost in revenue and cut stockouts by 75%. That’s huge for our business.",
+    "url": "https://autone.io/industries/furniture-home/",
+    "pass": 1
+   },
+   {
+    "quote": "I believe we can gain 8–10% in revenue performance just through better stock optimization. Before, we were losing around €10,000 per month, just at our flagship store, because we didn’t have the right stock available.",
+    "url": "https://autone.io/industries/furniture-home/",
+    "pass": 1
+   },
+   {
+    "quote": "avg. lost revenue per quarter due to overstocking.",
+    "url": "https://autone.io/industries/sport-outdoor/",
+    "pass": 1
+   },
+   {
+    "quote": "Since working with autone, we’ve seen a 10% boost in revenue and cut stockouts by 75%. That’s huge for our business.",
+    "url": "https://autone.io/industries/sport-outdoor/",
+    "pass": 1
+   },
+   {
+    "quote": "I believe we can gain 8–10% in revenue performance just through better stock optimization. Before, we were losing around €10,000 per month, just at our flagship store, because we didn’t have the right stock available.",
+    "url": "https://autone.io/industries/sport-outdoor/",
+    "pass": 1
+   },
+   {
+    "quote": "Huscarlは、企業の自家保険（セルフインシュアランス）および自家保険子会社（キャプティブ）の運用を支援するAIアクチュアリー（保険数理）プラットフォー...",
+    "url": "https://www.firstcvc.jp/global/autone.io",
+    "pass": 3
+   },
+   {
+    "quote": "Metriportは、米国の医療データを統合・標準化し、医療従事者や臨床AIエージェントにリアルタイムで提供するオープンソースの医療データインフラ企業であ...",
+    "url": "https://www.firstcvc.jp/global/autone.io",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does autone have?",
+    "url": "https://fundediq.co/autone-autone-io-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/autone-autone-io-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/autone-autone-io-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "autone was founded in 2021 by Adil Bouhdadi (Founder) and Harry Cheslaw (Founder).",
+    "url": "https://startupintros.com/orgs/autone",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "京浜急行電鉄、東京建物、富士通、DNP、参天製薬、等",
+    "url": "https://earthkey.blog/global/autone/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "AIで在庫のムダをゼロに！autoneが実現する最新の需要予測と自動発注... — Feb 3, 2025 · autoneは以下のようなサービスを提供しています。 AI駆動の在庫管理：需要予測と自動発注を組み合わせたシステム 市場トレンドの分析：AIによるリアルタイムなデータ解析 直感的なダッシュボード：企業が在庫状況を一目で確認できるレポート機能",
+    "url": "https://generative-ai.co.jp/usecase/data-analytics-ai/ai-startup-usecase-autone/",
+    "pass": 3
+   },
+   {
+    "quote": "小売・消費者ブランド向けのAI在庫最適化エンジンAutone — Oct 15, 2025 · Autoneは単なるブラックボックス型AIシステムではなく、各レコメンデーションに「なぜその判断か」を説明する「説明可能性」アプローチを重視しており、利用者は提案の妥当性を理解しながら自社の戦略や流通ルールに沿った最適化を進めることができます。",
+    "url": "https://earthkey.blog/global/autone/",
+    "pass": 3
+   },
+   {
+    "quote": "AI Inventory Management Software for Retail | autone — AI inventory platform for buyers, planners and merchandisers. Get clarity on what to buy, reorder and replenish. Reduce stockouts and grow margins with autone.",
+    "url": "https://autone.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Autoneの資金調達・投資家情報 | 海外スタートアップ | FIRST CVC — Speedinvest、Y Combinator、General Catalystのポートフォリオに掲載される海外スタートアップAutoneの企業プロフィール。autoneは、英国ロンドンに本拠を置くB2B SaaS企業であり、小売および消費財（CPG）ブランド向けに人工知能（AI）を活用した在庫最適化・需要予測...",
+    "url": "https://www.firstcvc.jp/global/autone.io",
+    "pass": 3
+   },
+   {
+    "quote": "About autone | AI Inventory Management for Retail Brands — A well-designed tool gives back hours of meaningful work. Our intuitive inventory management engine empowers brands to ditch the guesswork for good, removing mystery and uncertainty from stock decisions and allowing you to buy, replenish, rebalance and restock with confidence, and at scale. But it's not just about what autone does, it's ab",
+    "url": "https://autone.io/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Autone - 2026 Company Profile, Team, Funding & Competitors ...Autone 2026 Company Profile: Valuation, Funding & Investors ...autone: Funding, Investors & Team (Nov 2026) | FundedIQautone: Funding, Team & Investors | Startup IntrosAutone – Business Snapshot & Rival Analysis – 2026 – Londonautone — Company Profile & Funding | Indexed.vcautone Revenue 2024: $1.7M Est. ARR (Bootstrapped) — Feb 16, 202",
+    "url": "https://tracxn.com/d/companies/autone/__3U9nXANiuTC8YPZE68cbeovRce5guULjZ7wIQJtsjxE",
+    "pass": 3
+   },
+   {
+    "quote": "Autone 2026 Company Profile: Valuation, Funding & Investors ...autone: Funding, Investors & Team (Nov 2026) | FundedIQautone: Funding, Team & Investors | Startup IntrosAutone – Business Snapshot & Rival Analysis – 2026 – Londonautone — Company Profile & Funding | Indexed.vcautone Revenue 2024: $1.7M Est. ARR (Bootstrapped) — Autone FAQs When was Autone founded? Autone was founded in 2020. Where is",
+    "url": "https://pitchbook.com/profiles/company/500845-06",
+    "pass": 3
+   },
+   {
+    "quote": "autone: Funding, Investors & Team (Nov 2026) | FundedIQ — autone: Funding, Investors & Team (Nov 2026) Most retail executives possess an innate ability to understand their businesses. They can instinctively weigh trade-offs when making inventory decisions, comprehend the causes and effects of various actions, and understand what external factors will impact their internal operations.",
+    "url": "https://fundediq.co/autone-autone-io-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "autone: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Who founded autone? autone was founded in 2021 by Adil Bouhdadi (Founder) and Harry Cheslaw (Founder). How much funding has autone raised? autone has raised $22.0M in total across 3 funding rounds. Who are autone's investors? autone's investors include General Catalyst, Kima Ventures, Motier Ventures, Seedcamp, Sequoia Capital, XA",
+    "url": "https://startupintros.com/orgs/autone",
+    "pass": 3
+   },
+   {
+    "quote": "Autone – Business Snapshot & Rival Analysis – 2026 – London — Autone Revenue & Valuation Autone’s business performance suggests annual revenues of around $12.3M. Autone's estimated revenue per employee stands at $160K. Autone has raised a total of $24M in funding.",
+    "url": "https://compworth.com/company/autone",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/autone-autone-io-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Autone (@autonedotio) / X autone plugs into the stack you already run. Your ERP stays. 700+ pre-built connectors, from SAP and NetSuite to Shopify, Cegid and RELEX. About 4 hours of IT time a week during setup, zero after go-live. ISO 27001 and SOC 2 certified.",
+    "url": "https://x.com/autonedotio",
+    "pass": 3
+   },
+   {
+    "quote": "Autone (@AutonePL) / Posts / X Autone (@AutonePL) - Posts - #UrbanPlanner , #Architect , #StreetArtist | X (formerly Twitter)",
+    "url": "https://x.com/AutonePL",
+    "pass": 3
+   },
+   {
+    "quote": "autOne (@mc_autone) / Posts / X AutOne software app , was found to cover a market gap in the Egyptian & middle east market for Car services industry and its derivatives.",
+    "url": "https://x.com/mc_autone",
+    "pass": 3
+   },
+   {
+    "quote": "\"#Autone\" - Results on X | Live Posts & Updates Results for \"#Autone\" on X (Twitter). Find the latest posts, discussions, and updates about #Autone. 20 results found.",
+    "url": "https://x.com/hashtag/Autone",
+    "pass": 3
+   },
+   {
+    "quote": "Autone (@autonedotio) / X A smarter way to manage retail inventory. Less overstock, fewer stockouts, better retail.",
+    "url": "https://x.com/autonedotio",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "autone - LinkedIn autone is the AI inventory management platform for retail brands, built on the most accurate demand forecasting engine in the market. We help merchandising teams put the right product in the right ...",
+    "url": "https://www.linkedin.com/company/hello-autone",
+    "pass": 3
+   },
+   {
+    "quote": "autone - LinkedIn autone is the AI inventory management platform for retail brands, built on the most accurate demand forecasting engine in the market. We help merchandising teams put the right product in the right place at the right time - eliminating stock-outs, reducing overstock, and freeing up the manual effort that gets in the way of strategy. Our platform covers the full inventory cycle: bu",
+    "url": "https://uk.linkedin.com/company/hello-autone",
+    "pass": 3
+   },
+   {
+    "quote": "autone | LinkedIn autone is the AI inventory management platform for retail brands, built on the most accurate demand forecasting engine in the market. We help merchandising teams put the right product in the right place at the right time - eliminating stock-outs, reducing overstock, and freeing up the manual effort that gets in the way of strategy. Our platform covers the full inventory cycle: bu",
+    "url": "https://it.linkedin.com/company/hello-autone",
+    "pass": 3
+   },
+   {
+    "quote": "autone - LinkedIn autone | Founded by former Kering executives and backed by General Catalyst, Y Combinator, and Speedinvest, autone is the AI copilot for your entire merchandising value chain from buying and ...",
+    "url": "https://www.linkedin.com/products/hello-autone-autone?similarProducts=true",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Autone | Beirut - FacebookAutone - FacebookAutone - FacebookAutone | São Paulo SP - FacebookAUTØNE - FacebookAutOne | Cairo - FacebookAutone | Facebook Autone, Beirut. 5,088 followers · 2,338 talking about this · 7 were here. Car dealership Nov 19, 2025 · Autone. 1,608 followers. ARIA Club DJ Sydney, Australia ️ Signed to Central Station Records 3 Million + streams Aug 11, 2026 · Wernisaż wystawy ",
+    "url": "https://www.facebook.com/autone.lb/",
+    "pass": 3
+   },
+   {
+    "quote": "Autone - FacebookAutone - FacebookAutone | São Paulo SP - FacebookAUTØNE - FacebookAutOne | Cairo - FacebookAutone | Facebook Nov 19, 2025 · Autone. 1,608 followers. ARIA Club DJ Sydney, Australia ️ Signed to Central Station Records 3 Million + streams Aug 11, 2026 · Wernisaż wystawy \"0-22 20-25\" Autone x Leonarda Art Gallery Dziękujemy 🙌 Jednocześnie przypominamy, że wystawa jest czynna do 23 lut",
+    "url": "https://www.facebook.com/autonemusic/",
+    "pass": 3
+   },
+   {
+    "quote": "Autone - Facebook Aug 11, 2026 · Wernisaż wystawy \"0-22 20-25\" Autone x Leonarda Art Gallery Dziękujemy 🙌 Jednocześnie przypominamy, że wystawa jest czynna do 23 lutego. Zapraszamy codziennie, z wyjątkiem poniedziałków, w godzinach 12:00 - 18:00.",
+    "url": "https://www.facebook.com/1autone/",
+    "pass": 3
+   },
+   {
+    "quote": "Autone | São Paulo SP - FacebookAUTØNE - FacebookAutOne | Cairo - FacebookAutone | Facebook Jan 28, 2026 · Autone, São Paulo. 3,838 followers · 333 were here. Lavagem Automotiva, Enceramento, Polimento, Higienização Interna, Funilaria e Pintura, Vitrificaç Oct 15, 2026 · AUTØNE. 596 followers · 2 talking about this. AUTØNE. Rock. Synth. Riffs. Drums. Vox. **NEW SINGLE 'MEDUSA' OUT 31/1/25!** Mar 1",
+    "url": "https://www.facebook.com/autonelavagem/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://autone.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://autone.io/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://autone.io/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://autone.io/customers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://autone.io/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://autone.io/industries/accessories/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://autone.io/industries/beauty-cosmetics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://autone.io/industries/apparel-fashion/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://autone.io/industries/furniture-home/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://autone.io/industries/sport-outdoor/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://pelostudio-storyblok-assets.b-cdn.net/f/255335/1022x1120/793ee1cfbe/image-hero_partners.png/m/smart/filters:quality(70)",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://pelostudio-storyblok-assets.b-cdn.net/f/255335/3840x1848/03e212a8b1/hero_customers.png/m/smart/filters:quality(70)",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://generative-ai.co.jp/usecase/data-analytics-ai/ai-startup-usecase-autone/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://earthkey.blog/global/autone/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.firstcvc.jp/global/autone.io",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://autozonejapan.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.autozonejapan.jp/how-to-buy",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/autone/__3U9nXANiuTC8YPZE68cbeovRce5guULjZ7wIQJtsjxE",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/500845-06",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://fundediq.co/autone-autone-io-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/autone",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/autonedotio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/AutonePL",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mc_autone",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/Autone",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/hello-autone",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/company/hello-autone",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://it.linkedin.com/company/hello-autone",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/hello-autone-autone?similarProducts=true",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/autone.lb/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/autonemusic/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/1autone/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/autonelavagem/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/autonedotio",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Autone 日本 導入",
+   "results": [
+    "https://generative-ai.co.jp/usecase/data-analytics-ai/ai-startup-usecase-autone/",
+    "https://earthkey.blog/global/autone/",
+    "https://autone.io/",
+    "https://www.firstcvc.jp/global/autone.io",
+    "https://autone.io/about/",
+    "https://car.watch.impress.co.jp/docs/news/2090797.html",
+    "https://autoprove.net/imported-car/byd/242979/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Autone 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.autonetworks.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Autone Japan",
+   "results": [
+    "https://autozonejapan.jp/",
+    "https://www.autozonejapan.jp/how-to-buy",
+    "https://autone.io/about/",
+    "https://autone.io/",
+    "https://autocj.co.jp/",
+    "https://www.autone.com/",
+    "https://www.autozonejp.com/cars?page=2"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Autone manufacturing customer case study",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Autone white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.spectrum.com/",
+    "https://www.seoreseller.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.canva.com/partners/reseller/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Autone founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/autone/__3U9nXANiuTC8YPZE68cbeovRce5guULjZ7wIQJtsjxE",
+    "https://pitchbook.com/profiles/company/500845-06",
+    "https://fundediq.co/autone-autone-io-funding/",
+    "https://startupintros.com/orgs/autone",
+    "https://compworth.com/company/autone",
+    "https://indexed.vc/companies/hello-autone",
+    "https://getlatka.com/companies/autone.io"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Autone",
+   "results": [
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/osirius3150/n/n164c9a6f7cf8",
+    "https://note.com/dowaoshark/n/n324242681db8"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Autone",
+   "results": [
+    "https://x.com/autonedotio",
+    "https://x.com/AutonePL",
+    "https://x.com/mc_autone",
+    "https://x.com/hashtag/Autone",
+    "https://x.com/autonedotio/with_replies",
+    "https://x.com/autozone",
+    "https://x.com/AntaresAudio"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Autone",
+   "results": [
+    "https://www.linkedin.com/company/hello-autone",
+    "https://uk.linkedin.com/company/hello-autone",
+    "https://it.linkedin.com/company/hello-autone",
+    "https://www.linkedin.com/products/hello-autone-autone?similarProducts=true",
+    "https://uk.linkedin.com/company/autone-app",
+    "https://www.linkedin.com/company/autozone",
+    "https://uk.linkedin.com/in/harrycheslaw"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Autone",
+   "results": [
+    "https://www.facebook.com/autone.lb/",
+    "https://www.facebook.com/autonemusic/",
+    "https://www.facebook.com/1autone/",
+    "https://www.facebook.com/autonelavagem/",
+    "https://www.facebook.com/AUTONEOFFICIAL/",
+    "https://www.facebook.com/mc.autone/",
+    "https://www.facebook.com/autonemusic/posts/904684251660412/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Autone note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Autone X 投稿",
+   "results": [
+    "https://x.com/autonedotio",
+    "https://uravation.com/media/claude-code-x-auto-post-2026/",
+    "https://x.com/x_auto_post",
+    "https://note.com/easy_wand/n/na1a498cc3275",
+    "https://d-cubed-lab.com/how-to-auto-post-tweets",
+    "https://yoshipi-aiblog.com/autopost-for-x-twitter-setting/",
+    "https://www.ichiyajo.jp/notes/2026-05-18-x-auto-post-guide-2026/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式10頁／PDF・画像2件／外部30頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式10頁／PDF・画像2件／外部30頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式10頁／PDF・画像2件／外部30頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式10頁／PDF・画像2件／外部30頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式10頁／PDF・画像2件／外部30頁・検索12回）"
+ }
+}

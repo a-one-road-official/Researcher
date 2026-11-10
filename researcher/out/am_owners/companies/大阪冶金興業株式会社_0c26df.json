@@ -1,0 +1,1439 @@
+{
+ "name": "大阪冶金興業株式会社",
+ "aliases": [],
+ "context": "PBF=yes 装置=EOS M 290 出典=https://www.osakayakin.co.jp/news/20221228_502/",
+ "researched_at": "2026-11-10T18:06:22.536206+00:00",
+ "official_url": "https://www.osakayakin.co.jp/",
+ "identified_by": "search:yahoo_jp:大阪冶金興業",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "創業年",
+    "value": "創業年：昭和16年",
+    "url": "https://www.osakayakin.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "創業年",
+    "value": "創業年：昭和16年",
+    "url": "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：1941年",
+    "url": "https://job.hari-match.com/pages/company/osakayakinkougyou/index.html",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "1億9300万円",
+    "url": "https://www.osakayakin.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "1億9,300万円",
+    "url": "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "1億9,300万円",
+    "url": "https://job.hari-match.com/pages/company/osakayakinkougyou/index.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "140名",
+    "url": "https://www.osakayakin.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "〇常時使用する従業員",
+    "value": "148名（25年4月期）",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/00383-00.pdf",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "110名",
+    "url": "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "150名",
+    "url": "https://job.hari-match.com/pages/company/osakayakinkougyou/index.html",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "〇本社所在地",
+    "value": "大阪市東淀川区瑞光4-4-28",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/00383-00.pdf",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "大阪府大阪市東淀川区瑞光4丁目4番28号",
+    "url": "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "〒533-0005 大阪府大阪市東淀川区瑞光4丁目4番28号 TEL ： 06-6328-1345 FAX ： 06-6328-1380",
+    "url": "https://job.hari-match.com/pages/company/osakayakinkougyou/index.html",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "〇事業概要",
+    "value": "金属熱処理、表面処理",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/00383-00.pdf",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "〇現在の売上高",
+    "value": "22億円（ 25年3月期）",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/00383-00.pdf",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "22億2,000万円（2024年度）",
+    "url": "https://job.hari-match.com/pages/company/osakayakinkougyou/index.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "国内最大級の「ガス冷却式真空熱処理炉」を導入",
+    "url": "https://www.osakayakin.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ガスアトマイズ装置を導入（材料を含めた共同開発体制を構築）",
+    "url": "https://www.osakayakin.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ＭＩＭ棟を増築、加圧燃結炉導入",
+    "url": "https://www.osakayakin.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "３次元金属積層造形装置（３Ｄプリンター）設備を導入（金属部品の立体造形製造を開始）",
+    "url": "https://www.osakayakin.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "国内最大級の「加圧式上下切替 高速冷却型真空炉」を導入",
+    "url": "https://www.osakayakin.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "その背景となるのは、当社の戦中から培ってきた技術と、昭和45年（1970年）に世界に先駆けて導入した真空熱処理炉が発端となる先端設備の充実です",
+    "url": "https://www.osakayakin.co.jp/company/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "平成３年には、MIM関連設備を導入、その後、材料開発が行えるガスアトマイズ装置を設置しました",
+    "url": "https://www.osakayakin.co.jp/company/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "平成20年には積層造形システムを導入して金属造形の可能性を飛躍的に向上させたのも、モノづくりへの新たな挑戦への試みです",
+    "url": "https://www.osakayakin.co.jp/company/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "ここでも、最新設備を導入し、新しい技術の可能性を追求することになります",
+    "url": "https://www.osakayakin.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "各種の方法がありますが、当社は金属を溶かす熱源にレーザー光を採用した積層造形法（Selective Laser Melting：SLM）を導入しており、非常に複雑で微細構造のものづくりをスピーディに行う事が可能です",
+    "url": "https://www.osakayakin.co.jp/business/3d-printer/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のSLMの最大の特徴は、ガスアトマイズ装置による独自の金属粉末材料の開発から、微細形状・構造の金属製品の試作まで一貫した体制で製品の試作・生産が可能です",
+    "url": "https://www.osakayakin.co.jp/business/3d-printer/",
+    "pass": 1
+   },
+   {
+    "quote": "3次元構造物の金属造形が可能なSLM",
+    "url": "https://www.osakayakin.co.jp/business/3d-printer/",
+    "pass": 1
+   },
+   {
+    "quote": "医療・航空分野などで求められる複材形状・構造部材の製作が可能なSLMを採用",
+    "url": "https://www.osakayakin.co.jp/business/3d-printer/",
+    "pass": 1
+   },
+   {
+    "quote": "EOS M290による金属造形",
+    "url": "https://www.osakayakin.co.jp/business/3d-printer/",
+    "pass": 1
+   },
+   {
+    "quote": "EOS M290",
+    "url": "https://www.osakayakin.co.jp/business/3d-printer/",
+    "pass": 1
+   },
+   {
+    "quote": "「金属粉末製造から熱処理までトータル的な金属積層造形のものづくり」",
+    "url": "https://www.osakayakin.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "なかでも真空熱処理においては先進設備 を導入し、産業界に質の高い金属部品を豊富に納入しています",
+    "url": "https://www.osakayakin.co.jp/business/vacuum-heat-treatment/",
+    "pass": 1
+   },
+   {
+    "quote": "・大型射出成形機（180ton）を導入している",
+    "url": "https://www.osakayakin.co.jp/business/mim/about-mim/",
+    "pass": 1
+   },
+   {
+    "quote": "・ガスアトマイズ装置を導入しており、積極的な新材料の共同開発が可能である",
+    "url": "https://www.osakayakin.co.jp/business/mim/about-mim/",
+    "pass": 1
+   },
+   {
+    "quote": "・複数の３次元寸法測定器を保有しており、製品形状を考慮した最適な寸法検査が可能である",
+    "url": "https://www.osakayakin.co.jp/business/mim/about-mim/",
+    "pass": 1
+   },
+   {
+    "quote": "既存事業は新工場を立ち上げ、増産に対応できる設備の導入",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/00383-00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "機能を有する設備を導入し製品化を加速、②国家プロジェク",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/00383-00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "最重要課題は、生産設備を導入するスペースの確保",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/00383-00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 当社は1941年に戦闘機エンジンの熱処理を事業とし創業、以来、日本で初めて導入した真空熱処理技術により火力・原子力発電に関係する耐熱部品の熱処理に従事し、",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/00383-00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1990年代からは、当時では最先端の金属粉末を使用した粉末冶金技術を確立し航空・宇宙に関する製品を製造、2010年代には、金属3Dプリンターを使用した技術の",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/00383-00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度には新たな熱処理を実現するための装置を日本で初めて導入し、その研究開発を加速させる",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/00383-00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "現在では金属熱加工事業、金属粉末射出成形（MIM：メタルインジェクションモールディング）事業、金属積層造形（AM：Additive Manufacturing）事業の3つの事業を展開している",
+    "url": "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに2014年には、3次元金属積層造形装置（3Dプリンタ）を導入し、最先端の設備とそれまで培ってきた技術を融合させることで、AM事業を新たに展開し、主に精密な医療機器を製造している",
+    "url": "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "pass": 3
+   },
+   {
+    "quote": "京都大学側はあきらめることはできず、MIMで開発していた当社に、金属3Dプリンタのプロジェクトも引き受けてくれないかと打診があったのです",
+    "url": "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "pass": 3
+   },
+   {
+    "quote": "一方の金属3Dプリンタの活用についても専門の研究者にお力添えをいただき、開発途中の様々な難題を解決しました",
+    "url": "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "pass": 3
+   },
+   {
+    "quote": "当時はまだ金属3Dプリンタがいまのような一般的な技術ではありませんでした",
+    "url": "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "pass": 3
+   },
+   {
+    "quote": "おそらく、これから金属3Dプリンタを使われる企業の多くは、この課題でつまずくことになるのではないでしょうか",
+    "url": "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、金属3Dプリンタは金属粉末をレーザーで焼き固めながら、その層を積み上げて造形していくのですが、造形の対象とならない金属粉末は粉末のまま残ります",
+    "url": "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、非常に時間がかかりましたが、2018年、金属3Dプリンタによる人工骨の製造に成功しました",
+    "url": "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタのプロジェクトを2013年に引き受けてからでも5年かかりました",
+    "url": "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "pass": 3
+   },
+   {
+    "quote": "もうすでに事業化しているのですが、脊椎のスペーサーの次に、あごの骨を金属3Dプリンタで製造することにも成功しています",
+    "url": "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "pass": 3
+   },
+   {
+    "quote": "大阪冶金興業は2018年、金属3Dプリンタで脊椎の骨と骨の間に差しはさむスペーサーというチタン製の人工骨の開発に成功",
+    "url": "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "pass": 3
+   },
+   {
+    "quote": "チタン製のスペーサーの開発に着手して15年、金属3Dプリンタでの挑戦を始めてからでも5年の歳月をかけて実現したものだ",
+    "url": "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、金属3Dプリンタは、微細な空洞が望ましい分布になるように設計・製造できる",
+    "url": "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "pass": 3
+   },
+   {
+    "quote": "生産計画の最適化により、生産効率アップ、製品の安定供給、在庫の適正化、食品廃棄の削減、余剰人員の抑制など、導入効果は多岐にわたります",
+    "url": "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "pass": 3
+   },
+   {
+    "quote": "製造装置に簡単に後付けでき、低コストでのIoT導入を実現します",
+    "url": "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "pass": 3
+   },
+   {
+    "quote": "大阪冶金興業(株)様にご支援いただき、イノベーション創生センター内に金属３Ｄプリンターが導入され、金属積層造形の研究がスタートします",
+    "url": "https://wps.itc.kansai-u.ac.jp/functmat/%E5%A4%A7%E9%98%AA%E5%86%B6%E9%87%91%E8%88%88%E6%A5%AD%E6%A0%AA%E6%A7%98%E3%81%AB%E3%81%94%E6%94%AF%E6%8F%B4%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%80%81%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7/?doing_wp_cron=1794334030.2516880035400390625000",
+    "pass": 3
+   },
+   {
+    "quote": "1970年に日本で初めて真空熱処理炉を導入し、1980年には三木工場を開設",
+    "url": "https://job.hari-match.com/pages/company/osakayakinkougyou/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "形状の自由度が高い「金属3Dプリンター（金属粉末積層造形法）」にも早くから着目し、産業部品用と医療機器用の2台が稼働しています",
+    "url": "https://job.hari-match.com/pages/company/osakayakinkougyou/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2018年からは、MIM技術を活かし、人工椎間板（当社特許保有）など医療機器の製造・販売を開始",
+    "url": "https://job.hari-match.com/pages/company/osakayakinkougyou/index.html",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "ＭＩＭ（金属粉末射出成形部品）の営業を開始",
+    "url": "https://www.osakayakin.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "三木工場に金属粉末積層造形の専用工場を竣工、関連設備を増強し、更なる充実を図る",
+    "url": "https://www.osakayakin.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "・オーステナイト系ステンレス鋼、耐熱鋼の固溶化処理",
+    "url": "https://www.osakayakin.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "・軽合金、チタン合金等の溶体化処理、時効処理",
+    "url": "https://www.osakayakin.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "・合金鋼、ステンレス鋼、耐熱材料の各種高温真空ろう付",
+    "url": "https://www.osakayakin.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "・非鉄材料の銀ろう付、銅ろう付",
+    "url": "https://www.osakayakin.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "・鉄系合金、ステンレス鋼、活性金属、耐熱合金、その他各種難加工金属材料",
+    "url": "https://www.osakayakin.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "＜金属粉末積層造形部品（3Dプリンタ）＞",
+    "url": "https://www.osakayakin.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のSLMの最大の特徴は、ガスアトマイズ装置による独自の金属粉末材料の開発から、微細形状・構造の金属製品の試作まで一貫した体制で製品の試作・生産が可能です",
+    "url": "https://www.osakayakin.co.jp/business/3d-printer/",
+    "pass": 1
+   },
+   {
+    "quote": "アルゴンガスアトマイズ装置によりチタン材料を始め、各種金属の粉末製造が可能",
+    "url": "https://www.osakayakin.co.jp/business/3d-printer/",
+    "pass": 1
+   },
+   {
+    "quote": "CAD上で、造形しようとする部品を数10μm間隔のスライス断面形状を作成し、その情報に従って散布した金属粉末の層上にレーザー光を走査させて金属粉末を溶融・凝固させます",
+    "url": "https://www.osakayakin.co.jp/business/3d-printer/",
+    "pass": 1
+   },
+   {
+    "quote": "その上に金属粉末を再び散布し、次のスライス断面形状に合わせてレーザー光を走査させて溶融・凝固層を積み重ねます",
+    "url": "https://www.osakayakin.co.jp/business/3d-printer/",
+    "pass": 1
+   },
+   {
+    "quote": "マルエージング鋼、ステンレス鋼、コバルトクロムモリブデン、チタン合金、ニッケル基超合金",
+    "url": "https://www.osakayakin.co.jp/business/3d-printer/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月26日金曜日に大阪産業創造3F/4Fで開催される「表面処理加工技術展2026」（主催：大阪市・ 大阪産業創造館（公益財団法人大阪産業局） ）に当社オリジナルのステンレス鋼に特化した特殊熱処理Hi-NiTo（ハイナイト）を出展させていただきます",
+    "url": "https://www.osakayakin.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "Hi-NiToは「ステンレス鋼は焼入れすると錆びやすい」という常識を覆し、焼入れと同時にさらに耐食性を大幅に向上させる画期的な方法です",
+    "url": "https://www.osakayakin.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ステンレス部品に“硬さ”と“耐食性”を同時に求める皆様のご来場心よりお待ちいたしております",
+    "url": "https://www.osakayakin.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「チタン粉末の成形技術と生体活性処理による新医療機器の開発」",
+    "url": "https://www.osakayakin.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "粉末加工部造形メディカル部門 課長 角谷 達也",
+    "url": "https://www.osakayakin.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "粉末加工部造形メディカル部門 係長心得 北山 青空",
+    "url": "https://www.osakayakin.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "当社オリジナルのステンレス鋼に特化した特殊熱処理Hi-NiTo（ハイナイト）を",
+    "url": "https://www.osakayakin.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "Hi-NiToは「ステンレス鋼は焼入れすると錆びやすい」という常識を覆し、",
+    "url": "https://www.osakayakin.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ステンレス部品に“硬さ”と“耐食性”を同時に求める皆様の",
+    "url": "https://www.osakayakin.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "また、極低温に強い先端材料である「関大合金シリコロイ（高ケイ素ステンレス鋼）」を原材料に3Dプリンターで製造したオブジェで、カーボンニュートラル社会の実現に貢献する技術についても紹介します",
+    "url": "https://www.osakayakin.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「金属粉末製造から熱処理までトータル的な金属積層造形のものづくり」",
+    "url": "https://www.osakayakin.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "金属熱処理加工、金属粉末加工を通して社会貢献に邁進して参ります",
+    "url": "https://www.osakayakin.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "今後も当社の発展、金属熱処理加工、金属粉末加工を通して社会貢献に邁進して参ります",
+    "url": "https://www.osakayakin.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "・粉末試料、金属板などの多結晶解析パターンの",
+    "url": "https://www.osakayakin.co.jp/business/mim/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "・金属粉末や金属組織の高倍率観察およびEDS（エネルギー分散型X線分光法）による定性・定量分析およびマッピング（元素分布の確認）",
+    "url": "https://www.osakayakin.co.jp/business/mim/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "MIM技術は金属粉末とバインダー（結合剤）を混合してペレット状の原料を作り、射出成形機で金型に射出することで複雑形状の金属部品を製造する方法です",
+    "url": "https://www.osakayakin.co.jp/business/mim/about-mim/",
+    "pass": 1
+   },
+   {
+    "quote": "成形後、バインダーを取り除き、金属粉末を焼結してニアネットシェイプと強度を得ます",
+    "url": "https://www.osakayakin.co.jp/business/mim/about-mim/",
+    "pass": 1
+   },
+   {
+    "quote": "これらの工法とは異なりMIMは、金属粉末を用いたペレット状の原料を射出成形し、それを脱脂・焼結することで、仕上げ加工の必要がない最終製品に近い形状をつくる技術です",
+    "url": "https://www.osakayakin.co.jp/business/mim/about-mim/",
+    "pass": 1
+   },
+   {
+    "quote": "・鉄合金、チタン、各種耐熱合金、その他高融点材料など",
+    "url": "https://www.osakayakin.co.jp/business/mim/about-mim/",
+    "pass": 1
+   },
+   {
+    "quote": "・チタンなどの活性金属を含めた新材料の製作が可能である",
+    "url": "https://www.osakayakin.co.jp/business/mim/about-mim/",
+    "pass": 1
+   },
+   {
+    "quote": "粉末冶金（MIM、積層造形）",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/00383-00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "以来、日本で初めての真空熱処理技術や粉末金属の加工技術を柱に、",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/00383-00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1990年代からは、当時では最先端の金属粉末を使用した粉末冶金技術を確立し航空・宇宙に関する製品を製造、2010年代には、金属3Dプリンターを使用した技術の",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/00383-00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "①：軽量なチタンアルミ(TiAl)を素材とし、高強度を実現する新たな熱加工を施した航空機用エンジンブレードの開発を、国家プロジェクトのもと進めてきた",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/00383-00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、人工骨に使用される金属のチタン合金の特性を最大限に引き出す技術を確立することで、人工骨を小型・薄型化することで患者負担軽減を目指している",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/00383-00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "現在では金属熱加工事業、金属粉末射出成形（MIM：メタルインジェクションモールディング）事業、金属積層造形（AM：Additive Manufacturing）事業の3つの事業を展開している",
+    "url": "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "pass": 3
+   },
+   {
+    "quote": "ちょうどそのころ、当社ではMIM（金属粉末射出成形）を使ってチタン製の人工骨を開発しているところでした",
+    "url": "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、同じ時期に、京都大学ではAMで、同じチタン製のスペーサーを製造する研究をしていました",
+    "url": "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "pass": 3
+   },
+   {
+    "quote": "どちらも金属粉末を素材にするという共通点があるので、引き受けることにしました",
+    "url": "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "pass": 3
+   },
+   {
+    "quote": "Q：金属粉末が共通要素であることはわかりますが、製造法はかなり違うので、共通性はあるのでしょうか？",
+    "url": "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "pass": 3
+   },
+   {
+    "quote": "それに対して、MIM（金属粉末射出成形）とは、その名のとおり、金属の粉末をプラスチック樹脂の射出成形と同じ方法で成形して製造する方法です",
+    "url": "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "pass": 3
+   },
+   {
+    "quote": "このとき金属の粉末だけではサラサラで固まらないため、いったん金属の粉末と樹脂とを混ぜあわせて粘土状にしたものを射出成形します",
+    "url": "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、金属3Dプリンタは金属粉末をレーザーで焼き固めながら、その層を積み上げて造形していくのですが、造形の対象とならない金属粉末は粉末のまま残ります",
+    "url": "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "pass": 3
+   },
+   {
+    "quote": "最終的に残った粉末はきれいに除去しないといけないのですが、微細な空洞に残る粉末を効率よく完全に除去できなければ事業にはなりません",
+    "url": "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は創業80年余りになりますが、その間、社内で熱処理や金属粉末を扱う技術を育ててきたので、この分野では他社に負けないノウハウを有していると自負しています",
+    "url": "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "pass": 3
+   },
+   {
+    "quote": "それを患者さん一人一人にあわせたチタン製のあごの人工骨をつくってはめ込むというものです",
+    "url": "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "pass": 3
+   },
+   {
+    "quote": "大阪冶金興業は2018年、金属3Dプリンタで脊椎の骨と骨の間に差しはさむスペーサーというチタン製の人工骨の開発に成功",
+    "url": "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "pass": 3
+   },
+   {
+    "quote": "チタン製のスペーサーの開発に着手して15年、金属3Dプリンタでの挑戦を始めてからでも5年の歳月をかけて実現したものだ",
+    "url": "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "pass": 3
+   },
+   {
+    "quote": "メタルベローズポンプはフレキシブルなステンレス製ベローズダイアフラムの特長を生かした容積式ポンプです",
+    "url": "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "pass": 3
+   },
+   {
+    "quote": "大学院生が共著者で投稿していたフェライト系ステンレス鋼へのプラズマ窒化に関する論文が「HTM Journal of Heat Treatment and Materials」誌に出版されました",
+    "url": "https://wps.itc.kansai-u.ac.jp/functmat/%E5%A4%A7%E9%98%AA%E5%86%B6%E9%87%91%E8%88%88%E6%A5%AD%E6%A0%AA%E6%A7%98%E3%81%AB%E3%81%94%E6%94%AF%E6%8F%B4%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%80%81%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7/?doing_wp_cron=1794334030.2516880035400390625000",
+    "pass": 3
+   },
+   {
+    "quote": "■金属射出成形（MIM）…国家プロジェクトで唯一無二のカスタマイズ合金粉末を製造",
+    "url": "https://job.hari-match.com/pages/company/osakayakinkougyou/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "アメリカで生まれた「MIM（金属粉末射出成形法）」のライセンスを、日本でいち早く取得",
+    "url": "https://job.hari-match.com/pages/company/osakayakinkougyou/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末と樹脂を金型に流し込み、熱処理で成形することで、複雑で精密な小型金属部品を低コストで量産でき、さらに、特殊材料によるオーダーメイド製品や、従来は困難とされていた大型部品の製造にも成功しています",
+    "url": "https://job.hari-match.com/pages/company/osakayakinkougyou/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "形状の自由度が高い「金属3Dプリンター（金属粉末積層造形法）」にも早くから着目し、産業部品用と医療機器用の2台が稼働しています",
+    "url": "https://job.hari-match.com/pages/company/osakayakinkougyou/index.html",
+    "pass": 3
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "・熱処理各種試験、試作およびコンサルティング",
+    "url": "https://www.osakayakin.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "・金型成形および機械加工では製作できない金属部品の製作",
+    "url": "https://www.osakayakin.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "・医療機器製造業登録 登録番号 28BZ200121",
+    "url": "https://www.osakayakin.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "・第一種医療機器製造販売業許可 許可番号 28B1X10012",
+    "url": "https://www.osakayakin.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "その応用分野も産業用部品から医療用デバイスまで多岐に広がっています",
+    "url": "https://www.osakayakin.co.jp/company/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "そして自動車や時計などの小さくて精密な部品から、エネルギー施設に使用される高度な耐久性金属部品まで、幅広く手掛けてまいりました",
+    "url": "https://www.osakayakin.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のSLMの最大の特徴は、ガスアトマイズ装置による独自の金属粉末材料の開発から、微細形状・構造の金属製品の試作まで一貫した体制で製品の試作・生産が可能です",
+    "url": "https://www.osakayakin.co.jp/business/3d-printer/",
+    "pass": 1
+   },
+   {
+    "quote": "また充実した検査装置により、試作品の評価を行う事ができます",
+    "url": "https://www.osakayakin.co.jp/business/3d-printer/",
+    "pass": 1
+   },
+   {
+    "quote": "医療・航空分野などで求められる複材形状・構造部材の製作が可能なSLMを採用",
+    "url": "https://www.osakayakin.co.jp/business/3d-printer/",
+    "pass": 1
+   },
+   {
+    "quote": "各種の検査装置を用いて試作品を評価することが出来ます",
+    "url": "https://www.osakayakin.co.jp/business/3d-printer/",
+    "pass": 1
+   },
+   {
+    "quote": "軽合金、鋼鉄類から超合金、複合材まで、幅広い金属材料からモックアップや金型、最終製品までを3D造形できるシステムです",
+    "url": "https://www.osakayakin.co.jp/business/3d-printer/",
+    "pass": 1
+   },
+   {
+    "quote": "大阪冶金興業が長年にわたり培ってきた金属熱加工技術をベースに、医療・産業関連を中心とした新たな分野へと挑戦する研究開発のための専用棟です",
+    "url": "https://www.osakayakin.co.jp/business/3d-printer/",
+    "pass": 1
+   },
+   {
+    "quote": "「チタン粉末の成形技術と生体活性処理による新医療機器の開発」",
+    "url": "https://www.osakayakin.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年11月20日（水）～22日（金）にインテックス大阪で開催される「SMART ENERGY WEEK」内の「FUSION POWER WORLD ー核融合発電ワールドー 」に出展いたします",
+    "url": "https://www.osakayakin.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "西日本最大の次世代エネルギー総合展で、いま話題の「FUSION POWER（核融合）」に関する大阪冶金の取り組みを紹介します",
+    "url": "https://www.osakayakin.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "・産業用部材やインプラント等の微細構造解析用画像の撮影",
+    "url": "https://www.osakayakin.co.jp/business/mim/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "・金属粉末や金属組織の高倍率観察およびEDS（エネルギー分散型X線分光法）による定性・定量分析およびマッピング（元素分布の確認）",
+    "url": "https://www.osakayakin.co.jp/business/mim/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "・測定データを実寸法に拡大したり別々の撮影データを合成することができる（試作検討）",
+    "url": "https://www.osakayakin.co.jp/business/mim/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "MIM技術は金属粉末とバインダー（結合剤）を混合してペレット状の原料を作り、射出成形機で金型に射出することで複雑形状の金属部品を製造する方法です",
+    "url": "https://www.osakayakin.co.jp/business/mim/about-mim/",
+    "pass": 1
+   },
+   {
+    "quote": "そのため、量産性に優れ、高い寸法精度、強度を実現できます",
+    "url": "https://www.osakayakin.co.jp/business/mim/about-mim/",
+    "pass": 1
+   },
+   {
+    "quote": "「製造コスト」・「量産性」・「後加工の容易性」・「強度」・「材料の自由度」・「形状の自由度」",
+    "url": "https://www.osakayakin.co.jp/business/mim/about-mim/",
+    "pass": 1
+   },
+   {
+    "quote": "・複雑形状を短時間で形成でき、量産に適する",
+    "url": "https://www.osakayakin.co.jp/business/mim/about-mim/",
+    "pass": 1
+   },
+   {
+    "quote": "エネルギー・航空宇宙・医療の分野で社会に貢献をしてきた",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/00383-00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "既存事業は高効率火力発電や次世代核融合発電の加速に伴い、",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/00383-00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "①軽量・高強度の航空機エンジン部品、②患者負担の少ない医",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/00383-00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "療用インプラントの開発を進め、事業の拡大を目指していく",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/00383-00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "新たな技術の社会実装は、①環境配慮型の航空機エンジン開",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/00383-00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "能を有する医療用インプラントのニーズも高まっている",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/00383-00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を継続しつつ、医療認証取得を加速する体制を構築する",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/00383-00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1990年代からは、当時では最先端の金属粉末を使用した粉末冶金技術を確立し航空・宇宙に関する製品を製造、2010年代には、金属3Dプリンターを使用した技術の",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/00383-00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "社会実装として、医療用インプラント(人工骨)の製品化に成功した",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/00383-00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これらの既存事業では、永年の技術基盤を活かし、核融合発電に関する国際プロジェクトである",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/00383-00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 加えて、更なる技術発展として、①軽量・高強度の航空機エンジン部品、②患者負担の少ない医療用インプラント(人工骨)の研究開発を進めてきた",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/00383-00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "①：軽量なチタンアルミ(TiAl)を素材とし、高強度を実現する新たな熱加工を施した航空機用エンジンブレードの開発を、国家プロジェクトのもと進めてきた",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/00383-00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "②：口腔外科領域では、人工骨を使用した手術において感染リスクがあることが課題とされており、感染リスクを低減させるインプラントを開発している",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/00383-00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "真空熱処理事業の代表的な製品は、火力発電所のガスタービンのブレードや「はやぶさ」をはじめとする宇宙探査衛星の部品などがある",
+    "url": "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに2014年には、3次元金属積層造形装置（3Dプリンタ）を導入し、最先端の設備とそれまで培ってきた技術を融合させることで、AM事業を新たに展開し、主に精密な医療機器を製造している",
+    "url": "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "pass": 3
+   },
+   {
+    "quote": "そうした装置を駆使して試作品を分析・検査し、問題が生じるたびに解決策を探り、設計へのフードバックを繰り返しました",
+    "url": "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "pass": 3
+   },
+   {
+    "quote": "日本医療研究開発機構（AMED）の支援を受け、大学や他の企業と共同で取り組み、いまでは月に7～8の症例に対応しています",
+    "url": "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "pass": 3
+   },
+   {
+    "quote": "その都度、試作品を分析・検査し、問題が生じるたびに解決策を探り、設計へのフードバックを繰り返すことになる",
+    "url": "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "pass": 3
+   },
+   {
+    "quote": "・AM（金属３Ｄプリンター）受託造形サービス",
+    "url": "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "pass": 3
+   },
+   {
+    "quote": "また、AMの量産化のために必要な、造形品質保証に関しても取り組んでいます",
+    "url": "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "pass": 3
+   },
+   {
+    "quote": "・製品開発・試作・設計などの上流工程から量産計画まで、対応",
+    "url": "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "pass": 3
+   },
+   {
+    "quote": "産業分野の技術革新を支えるＦＡシステムと半導体デバイスを中心に、テクノロジーの新しい可能性を追求しています",
+    "url": "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "pass": 3
+   },
+   {
+    "quote": "高機能樹脂の切削加工及び３Ｄプリンター受託造形サービス",
+    "url": "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "pass": 3
+   },
+   {
+    "quote": "３Ｄプリンター受託造形サービス",
+    "url": "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "pass": 3
+   },
+   {
+    "quote": "IoTによる課題解決、技術的要素の実現可能性評価など、お客様の課題に応じ試作開発を行います",
+    "url": "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "pass": 3
+   },
+   {
+    "quote": "「金属熱処理」や「医療機器製造」を行っていて、",
+    "url": "https://job.hari-match.com/pages/company/osakayakinkougyou/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "私たち大阪冶金興業は、金属熱処理加工を中核にトータル提案を行い、現在は医療機器の製造販売も手掛けています",
+    "url": "https://job.hari-match.com/pages/company/osakayakinkougyou/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在は、金属熱処理加工、金属射出成形（MIM）、3D積層造形による医療機器の商品化の3分野を展開",
+    "url": "https://job.hari-match.com/pages/company/osakayakinkougyou/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギー、航空機、医療など高精度が求められる分野で、確かな技術力と信頼で社会に貢献しています",
+    "url": "https://job.hari-match.com/pages/company/osakayakinkougyou/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "■金属熱処理加工…エネルギー問題の解決を目指す国家プロジェクトに熱処理で貢献しています",
+    "url": "https://job.hari-match.com/pages/company/osakayakinkougyou/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、未来の新エネルギーとして注目される核融合発電では、国際プロジェクト「核融合実験炉ITER」で、真空で耐熱合金部品を接合する技術を提供しています",
+    "url": "https://job.hari-match.com/pages/company/osakayakinkougyou/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末と樹脂を金型に流し込み、熱処理で成形することで、複雑で精密な小型金属部品を低コストで量産でき、さらに、特殊材料によるオーダーメイド製品や、従来は困難とされていた大型部品の製造にも成功しています",
+    "url": "https://job.hari-match.com/pages/company/osakayakinkougyou/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "■3D積層造形による医療機器の商品化…大阪冶金興業のモノづくりは、遂に体内へ",
+    "url": "https://job.hari-match.com/pages/company/osakayakinkougyou/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "形状の自由度が高い「金属3Dプリンター（金属粉末積層造形法）」にも早くから着目し、産業部品用と医療機器用の2台が稼働しています",
+    "url": "https://job.hari-match.com/pages/company/osakayakinkougyou/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2018年からは、MIM技術を活かし、人工椎間板（当社特許保有）など医療機器の製造・販売を開始",
+    "url": "https://job.hari-match.com/pages/company/osakayakinkougyou/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年から量産が始まっています",
+    "url": "https://job.hari-match.com/pages/company/osakayakinkougyou/index.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 | 大阪冶金興業 株式会社 — 会社概要 | 大阪冶金興業 株式会社 大阪冶金興業株式会社 https://www.osakayakin.co.jp > company",
+    "url": "https://www.osakayakin.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "大阪冶金興業 株式 会社 （金属熱加工業） - 100億宣言 — 大阪冶金興業 株式 会社 （金属熱加工業） - 100億宣言 １００億企業成長ポータル PDF https://growth-100-oku.smrj.go.jp > companies > pdf",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/00383-00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "画期的新製品が誕生【 大阪冶金興業 株式 会社 】 — 画期的新製品が誕生【 大阪冶金興業 株式 会社 】 関西DX推進プラットフォーム事業 https://kansaidx.kiis.or.jp > ブログ > AM",
+    "url": "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "pass": 3
+   },
+   {
+    "quote": "大阪冶金興業 株式会社の 会社概要 ・製品情報 - Metoree — 大阪冶金興業 株式会社の 会社概要 ・製品情報 - Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/15643/",
+    "pass": 3
+   },
+   {
+    "quote": "【公式】 大阪冶金興業 株式 会社 採用ホームページ — 【公式】 大阪冶金興業 株式 会社 採用ホームページ アットカンパニー https://atcompany.jp > osakayakin",
+    "url": "https://atcompany.jp/osakayakin/",
+    "pass": 3
+   },
+   {
+    "quote": "画期的新製品が誕生【 大阪冶金興業 株式会社】 — 画期的新製品が誕生【 大阪冶金興業 株式会社】 関西DX推進プラットフォーム事業 https://kansaidx.kiis.or.jp > ブログ > AM",
+    "url": "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "pass": 3
+   },
+   {
+    "quote": "大阪冶金興業 株式会社（ 金属 熱加工業） - 100億宣言 — 大阪冶金興業 株式会社（ 金属 熱加工業） - 100億宣言 １００億企業成長ポータル PDF https://growth-100-oku.smrj.go.jp > companies > pdf",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/00383-00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イノベーション創生センター内に 金属3Dプリンター が 導入 ... — イノベーション創生センター内に 金属3Dプリンター が 導入 ... 関西大学 https://wps.itc.kansai-u.ac.jp > functmat > 大阪冶金興業...",
+    "url": "https://wps.itc.kansai-u.ac.jp/functmat/%E5%A4%A7%E9%98%AA%E5%86%B6%E9%87%91%E8%88%88%E6%A5%AD%E6%A0%AA%E6%A7%98%E3%81%AB%E3%81%94%E6%94%AF%E6%8F%B4%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%80%81%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "大阪冶金興業 （会社紹介ビデオ） - YouTube — 大阪冶金興業 （会社紹介ビデオ） - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=BGLsTDtJ-rQ",
+    "pass": 3
+   },
+   {
+    "quote": "技術紹介 | 大阪冶金興業 株式会社 — 技術紹介 | 大阪冶金興業 株式会社 大阪冶金興業株式会社 https://www.osakayakin.co.jp > business",
+    "url": "https://www.osakayakin.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "大阪冶金興業 株式会社 | 企業情報 - はりまっち — 大阪冶金興業 株式会社 | 企業情報 - はりまっち はりまっち https://job.hari-match.com > pages > osakayakinkougyou",
+    "url": "https://job.hari-match.com/pages/company/osakayakinkougyou/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "【公式】 大阪冶金興業 株式会社採用ホームページ — 【公式】 大阪冶金興業 株式会社採用ホームページ アットカンパニー https://atcompany.jp > osakayakin",
+    "url": "https://atcompany.jp/osakayakin/",
+    "pass": 3
+   },
+   {
+    "quote": "会社 概要 | 大阪冶金興業 株式 会社 — 会社 概要 | 大阪冶金興業 株式 会社 大阪冶金興業株式会社 https://www.osakayakin.co.jp > company",
+    "url": "https://www.osakayakin.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "大阪冶金興業 株式 会社 | 企業情報 - はりまっち — 大阪冶金興業 株式 会社 | 企業情報 - はりまっち はりまっち https://job.hari-match.com > pages > osakayakinkougyou",
+    "url": "https://job.hari-match.com/pages/company/osakayakinkougyou/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "大阪冶金興業 株式 会社 寺内 俊太郎 氏「人事を尽くして天命を ... — 大阪冶金興業 株式 会社 寺内 俊太郎 氏「人事を尽くして天命を ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=ncqYtHb21DM",
+    "pass": 3
+   },
+   {
+    "quote": "大阪冶金興業 株式会社（金属熱加工業） - 100億宣言 — 大阪冶金興業 株式会社（金属熱加工業） - 100億宣言 １００億企業成長ポータル PDF https://growth-100-oku.smrj.go.jp > companies > pdf",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/00383-00.pdf",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "大阪冶金興業 の寺内俊太郎社長が登場。金属熱処理加工をされ ... 大阪冶金興業 の寺内俊太郎社長が登場。金属熱処理加工をされ ... X https://x.com > @nobuo_takehara",
+    "url": "https://x.com/nobuo_takehara/status/2005094361252725186",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "山田 孝介 - 大阪冶金興業 株式会社 - 生産技術課 | LinkedIn 山田 孝介 - 大阪冶金興業 株式会社 - 生産技術課 | LinkedIn LinkedIn https://jp.linkedin.com > 孝介-山田-06377a147",
+    "url": "https://jp.linkedin.com/in/%E5%AD%9D%E4%BB%8B-%E5%B1%B1%E7%94%B0-06377a147",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "大阪冶金興業 （大阪市東淀川区、寺内俊太郎社長 ... - Facebook 大阪冶金興業 （大阪市東淀川区、寺内俊太郎社長 ... - Facebook Facebook https://www.facebook.com > nikkan.BusinessLine > posts",
+    "url": "https://www.facebook.com/nikkan.BusinessLine/posts/%E5%A4%A7%E9%98%AA%E5%86%B6%E9%87%91%E8%88%88%E6%A5%AD%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%B7%80%E5%B7%9D%E5%8C%BA%E5%AF%BA%E5%86%85%E4%BF%8A%E5%A4%AA%E9%83%8E%E7%A4%BE%E9%95%B7%E3%81%AF%E6%80%A5%E9%80%9F%E5%86%B7%E5%8D%B4%E6%A9%9F%E8%83%BD%E3%82%92%E6%8C%81%E3%81%A4%EF%BD%88%EF%BD%89%EF%BD%90%E7%86%B1%E9%96%93%E7%AD%89%E6%96%B9%E5%9C%A7%E5%8A%A0%E5%9C%A7%E8%A3%85%E7%BD%AE%E3%82%92%E7%A8%BC%E5%83%8D%E3%81%97%E3%81%9F%E3%82%B9%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%87%E3%83%B3%E3%81%AE%E3%82%AF%E3%82%A4%E3%83%B3%E3%82%BF%E3%82%B9%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%82%BA%E8%A3%BD%E3%81%A7%E5%90%8C%E7%A4%BE%E3%81%AE%E8%A6%AA%E4%BC%9A%E7%A4%BE%E3%81%A7%E3%81%82%E3%82%8B%E7%A5%9E%E6%88%B8%E8%A3%BD/1591289446335052/",
+    "pass": 3
+   },
+   {
+    "quote": "大阪冶金興業 （大阪市）の寺内俊太郎社長。70年万博では 大阪冶金興業 （大阪市）の寺内俊太郎社長。70年万博では Facebook https://www.facebook.com > osakacci > photos > 町工場...",
+    "url": "https://www.facebook.com/osakacci/photos/%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%8B%E3%82%89%E4%B8%96%E7%95%8C%E3%81%B8-%E5%A4%A7%E9%98%AA%E5%95%86%E5%B7%A5%E4%BC%9A%E8%AD%B0%E6%89%80%E5%A4%A7%E9%98%AA%E4%BF%A1%E7%94%A8%E9%87%91%E5%BA%AB%E5%A4%A7%E9%98%AA%E9%96%A2%E8%A5%BF%E4%B8%87%E5%8D%9A%E3%81%AB%E5%87%BA%E5%B1%95%E3%81%99%E3%82%8B%E3%83%86%E3%83%BC%E3%83%A9%E3%83%BC%E3%83%A1%E3%82%A4%E3%83%89%EF%BC%93%EF%BD%84%E4%BA%BA%E5%B7%A5%E9%AA%A8by%E5%A4%A7%E9%98%AA%E5%86%B6%E9%87%91%E3%82%92%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%BE%E3%81%99%E6%9C%AA%E6%9D%A5%E3%81%AE%E5%8C%BB%E7%99%82%E6%8A%80%E8%A1%93%E3%82%92%E5%B1%95%E7%A4%BA1970%E5%B9%B4%E5%A4%A7%E9%98%AA%E4%B8%87%E5%8D%9A%E3%81%AF%E3%81%BE%E3%81%A0%E9%96%A2/550278917566664/",
+    "pass": 3
+   },
+   {
+    "quote": "大阪冶金興業 の三木工場見学&寺内社長との対談に行ってき ... 大阪冶金興業 の三木工場見学&寺内社長との対談に行ってき ... Facebook https://www.facebook.com > nami.katsuragi.7 > posts",
+    "url": "https://www.facebook.com/nami.katsuragi.7/posts/%E5%A4%A7%E9%98%AA%E5%86%B6%E9%87%91%E8%88%88%E6%A5%AD%E3%81%AE%E4%B8%89%E6%9C%A8%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6%E5%AF%BA%E5%86%85%E7%A4%BE%E9%95%B7%E3%81%A8%E3%81%AE%E5%AF%BE%E8%AB%87%E3%81%AB%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E6%BD%9C%E6%B0%B4%E8%89%A6%E3%82%84%E6%88%A6%E9%97%98%E6%A9%9F%E8%A1%9B%E6%98%9F%E3%81%AA%E3%81%A9%E3%81%AB%E3%82%82%E4%BD%BF%E7%94%A8%E3%81%95%E3%82%8C%E3%82%8B%E9%83%A8%E5%93%81%E3%82%82%E8%A3%BD%E9%80%A0%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%A7%E3%81%99%E3%81%8C%E7%B4%B0%E3%82%84%E3%81%8B%E3%81%AA%E8%81%B7%E4%BA%BA%E6%8A%80%E3%81%AB%E3%82%82%E6%94%AF%E3%81%88%E3%82%89%E3%82%8C%E3%81%A6%E3%81%8D%E3%82%8B%E3%81%93%E3%81%A8%E3%82%92/25754093124244532/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.osakayakin.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osakayakin.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osakayakin.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osakayakin.co.jp/company/philosophy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osakayakin.co.jp/company/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osakayakin.co.jp/company/miki-factory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osakayakin.co.jp/business/3d-printer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osakayakin.co.jp/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osakayakin.co.jp/business/vacuum-heat-treatment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osakayakin.co.jp/business/mim/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osakayakin.co.jp/business/mim/about-mim/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.osakayakin.co.jp/images/business/vacuum-heat-treatment/pic_03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.osakayakin.co.jp/images/business/vacuum-heat-treatment/pic_12.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/00383-00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/00383-00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://wps.itc.kansai-u.ac.jp/functmat/%E5%A4%A7%E9%98%AA%E5%86%B6%E9%87%91%E8%88%88%E6%A5%AD%E6%A0%AA%E6%A7%98%E3%81%AB%E3%81%94%E6%94%AF%E6%8F%B4%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%80%81%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7/?doing_wp_cron=1794334030.2516880035400390625000",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/00383-00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://job.hari-match.com/pages/company/osakayakinkougyou/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/00383-00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://job.hari-match.com/pages/company/osakayakinkougyou/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/00383-00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://job.hari-match.com/pages/company/osakayakinkougyou/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/nobuo_takehara/status/2005094361252725186",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E5%AD%9D%E4%BB%8B-%E5%B1%B1%E7%94%B0-06377a147",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/nikkan.BusinessLine/posts/%E5%A4%A7%E9%98%AA%E5%86%B6%E9%87%91%E8%88%88%E6%A5%AD%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%B7%80%E5%B7%9D%E5%8C%BA%E5%AF%BA%E5%86%85%E4%BF%8A%E5%A4%AA%E9%83%8E%E7%A4%BE%E9%95%B7%E3%81%AF%E6%80%A5%E9%80%9F%E5%86%B7%E5%8D%B4%E6%A9%9F%E8%83%BD%E3%82%92%E6%8C%81%E3%81%A4%EF%BD%88%EF%BD%89%EF%BD%90%E7%86%B1%E9%96%93%E7%AD%89%E6%96%B9%E5%9C%A7%E5%8A%A0%E5%9C%A7%E8%A3%85%E7%BD%AE%E3%82%92%E7%A8%BC%E5%83%8D%E3%81%97%E3%81%9F%E3%82%B9%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%87%E3%83%B3%E3%81%AE%E3%82%AF%E3%82%A4%E3%83%B3%E3%82%BF%E3%82%B9%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%82%BA%E8%A3%BD%E3%81%A7%E5%90%8C%E7%A4%BE%E3%81%AE%E8%A6%AA%E4%BC%9A%E7%A4%BE%E3%81%A7%E3%81%82%E3%82%8B%E7%A5%9E%E6%88%B8%E8%A3%BD/1591289446335052/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/osakacci/photos/%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%8B%E3%82%89%E4%B8%96%E7%95%8C%E3%81%B8-%E5%A4%A7%E9%98%AA%E5%95%86%E5%B7%A5%E4%BC%9A%E8%AD%B0%E6%89%80%E5%A4%A7%E9%98%AA%E4%BF%A1%E7%94%A8%E9%87%91%E5%BA%AB%E5%A4%A7%E9%98%AA%E9%96%A2%E8%A5%BF%E4%B8%87%E5%8D%9A%E3%81%AB%E5%87%BA%E5%B1%95%E3%81%99%E3%82%8B%E3%83%86%E3%83%BC%E3%83%A9%E3%83%BC%E3%83%A1%E3%82%A4%E3%83%89%EF%BC%93%EF%BD%84%E4%BA%BA%E5%B7%A5%E9%AA%A8by%E5%A4%A7%E9%98%AA%E5%86%B6%E9%87%91%E3%82%92%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%BE%E3%81%99%E6%9C%AA%E6%9D%A5%E3%81%AE%E5%8C%BB%E7%99%82%E6%8A%80%E8%A1%93%E3%82%92%E5%B1%95%E7%A4%BA1970%E5%B9%B4%E5%A4%A7%E9%98%AA%E4%B8%87%E5%8D%9A%E3%81%AF%E3%81%BE%E3%81%A0%E9%96%A2/550278917566664/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/nami.katsuragi.7/posts/%E5%A4%A7%E9%98%AA%E5%86%B6%E9%87%91%E8%88%88%E6%A5%AD%E3%81%AE%E4%B8%89%E6%9C%A8%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6%E5%AF%BA%E5%86%85%E7%A4%BE%E9%95%B7%E3%81%A8%E3%81%AE%E5%AF%BE%E8%AB%87%E3%81%AB%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E6%BD%9C%E6%B0%B4%E8%89%A6%E3%82%84%E6%88%A6%E9%97%98%E6%A9%9F%E8%A1%9B%E6%98%9F%E3%81%AA%E3%81%A9%E3%81%AB%E3%82%82%E4%BD%BF%E7%94%A8%E3%81%95%E3%82%8C%E3%82%8B%E9%83%A8%E5%93%81%E3%82%82%E8%A3%BD%E9%80%A0%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%A7%E3%81%99%E3%81%8C%E7%B4%B0%E3%82%84%E3%81%8B%E3%81%AA%E8%81%B7%E4%BA%BA%E6%8A%80%E3%81%AB%E3%82%82%E6%94%AF%E3%81%88%E3%82%89%E3%82%8C%E3%81%A6%E3%81%8D%E3%82%8B%E3%81%93%E3%81%A8%E3%82%92/25754093124244532/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "大阪冶金興業",
+   "results": [
+    "https://www.osakayakin.co.jp/",
+    "https://atcompany.jp/osakayakin/",
+    "https://growth-100-oku.smrj.go.jp/companies/pdf/00383-00.pdf",
+    "https://job.hari-match.com/pages/company/osakayakinkougyou/index.html",
+    "https://www.j-hiroba.jp/job_seaker/comlist01/detail_77693.html",
+    "https://metoree.com/companies/15643/",
+    "https://www.osakayakin.co.jp/company/",
+    "https://www.atengineer.com/pr/osakayakin/company",
+    "https://osaka-takumi-monodzukuri.com/company/101096/",
+    "https://web.pref.hyogo.lg.jp/nhk02/documents/202-oosakayakin8-1.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "大阪冶金興業 会社概要 資本金 設立",
+   "results": [
+    "https://www.osakayakin.co.jp/company/",
+    "https://growth-100-oku.smrj.go.jp/companies/pdf/00383-00.pdf",
+    "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "https://metoree.com/companies/15643/",
+    "https://atcompany.jp/osakayakin/",
+    "https://www.atengineer.com/pr/osakayakin/company",
+    "https://job.hari-match.com/pages/company/osakayakinkougyou/index.html",
+    "https://employment.en-japan.com/comp-100080/",
+    "https://www.youtube.com/watch?v=ncqYtHb21DM",
+    "https://osaka-takumi-monodzukuri.com/company/101096/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "大阪冶金興業 金属3Dプリンタ 導入",
+   "results": [
+    "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "https://growth-100-oku.smrj.go.jp/companies/pdf/00383-00.pdf",
+    "https://wps.itc.kansai-u.ac.jp/functmat/%E5%A4%A7%E9%98%AA%E5%86%B6%E9%87%91%E8%88%88%E6%A5%AD%E6%A0%AA%E6%A7%98%E3%81%AB%E3%81%94%E6%94%AF%E6%8F%B4%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%80%81%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7/",
+    "https://www.sankei.com/article/20250423-S43YMYWIVZKLNL5NAORWU6LPMA/",
+    "https://www.youtube.com/watch?v=BGLsTDtJ-rQ",
+    "https://www.osakayakin.co.jp/company/history/",
+    "https://job.hari-match.com/pages/company/osakayakinkougyou/index.html",
+    "https://atcompany.jp/osakayakin/",
+    "https://unifiedsearch.jcdbizmatch.jp/nanotech2025/jp/tct/details/-L4vQZ134UQ",
+    "https://wps.itc.kansai-u.ac.jp/functmat/大阪冶金興業株様にご支援いただき、イノベーシ/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "大阪冶金興業 金属積層造形 設備",
+   "results": [
+    "https://www.osakayakin.co.jp/business/",
+    "https://growth-100-oku.smrj.go.jp/companies/pdf/00383-00.pdf",
+    "https://job.hari-match.com/pages/company/osakayakinkougyou/index.html",
+    "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "https://atcompany.jp/osakayakin/",
+    "https://www.youtube.com/watch?v=BGLsTDtJ-rQ",
+    "https://eigyo-mfg.com/service/navi/company/93rOiZYv4Yb0",
+    "https://www.j-hiroba.jp/job_seaker/comlist01/detail_77693.html",
+    "https://newswitch.jp/p/27191",
+    "https://www.jfe-steel.co.jp/products/solution/metal-3d-printing/index.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "大阪冶金興業 株主 出資 親会社",
+   "results": [
+    "https://www.osakayakin.co.jp/company/",
+    "https://growth-100-oku.smrj.go.jp/companies/pdf/00383-00.pdf",
+    "https://job.hari-match.com/pages/company/osakayakinkougyou/index.html",
+    "https://atcompany.jp/osakayakin/",
+    "https://www.youtube.com/watch?v=ncqYtHb21DM",
+    "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "https://www.j-hiroba.jp/job_seaker/comlist01/detail_77693.html",
+    "https://metoree.com/companies/15643/",
+    "https://employment.en-japan.com/comp-100080/",
+    "https://www.osakayakin.co.jp/company/history/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "大阪冶金興業 売上高 従業員数",
+   "results": [
+    "https://growth-100-oku.smrj.go.jp/companies/pdf/00383-00.pdf",
+    "https://job.hari-match.com/pages/company/osakayakinkougyou/index.html",
+    "https://www.osakayakin.co.jp/company/",
+    "https://atcompany.jp/osakayakin/",
+    "https://newswitch.jp/p/27191",
+    "https://baseconnect.in/companies/5a977598-e10e-4cf6-8e06-47b0506b40b1",
+    "https://www.j-hiroba.jp/job_seaker/comlist01/detail_77693.html",
+    "https://employment.en-japan.com/comp-100080/",
+    "https://en-hyouban.com/company/10007323260/23/",
+    "https://customers.omakasebiz.jp/companies/7120001053367-大阪冶金興業株式会社"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com 大阪冶金興業",
+   "results": [
+    "https://note.com/biz_com/n/n4eba52c96faf",
+    "https://note.com/akaruinews/n/n215ab0bcb88c",
+    "https://note.com/no_border2025/n/ne5241697b4eb",
+    "https://note.com/gacchiri/n/na434b60763fe",
+    "https://note.com/mobio_osaka/n/n6002e7ade019",
+    "https://note.com/nekonyannko222/n/n1923b4b1c570",
+    "https://note.com/tag/vm/investment_money/company-5480",
+    "https://note.com/singaku_1785/n/n75b6e67675cf",
+    "https://note.com/space_business/n/n8d926da00110",
+    "https://note.com/pandamomo/n/n088d4dee7f3c"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:x.com 大阪冶金興業",
+   "results": [
+    "https://x.com/nobuo_takehara/status/2005094361252725186",
+    "https://x.com/nobuo_takehara/status/2007633243932369133",
+    "https://x.com/nobuo_takehara/status/2007226836426862755",
+    "https://x.com/OsamuSasagawa/status/2014977042916561144",
+    "https://x.com/jnrdimrumd/status/1029346407990190080",
+    "https://x.com/jnrdimrumd/status/1387750655758983168",
+    "https://x.com/akaruiMBS1179",
+    "https://x.com/t_ryoma1985/status/2014242713236042048",
+    "https://x.com/t_ryoma1985/status/2009547551813538222",
+    "https://x.com/iterjapan/status/1788403590660497740"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com 大阪冶金興業",
+   "results": [
+    "https://jp.linkedin.com/in/%E5%AD%9D%E4%BB%8B-%E5%B1%B1%E7%94%B0-06377a147",
+    "https://www.linkedin.com/pub/dir/%E5%AD%9D%E4%BB%8B/+",
+    "https://www.linkedin.com/pub/dir/%E8%8A%B3%E5%BE%B3/+",
+    "https://www.linkedin.com/pub/dir/Kousuke/Yamada",
+    "https://jp.linkedin.com/pub/dir/+/%E5%B1%B1%E7%94%B0/jp-7695-%E5%BA%83%E5%9F%9F%E5%A4%A7%E9%98%AA%E3%82%A8%E3%83%AA%E3%82%A2",
+    "https://jp.linkedin.com/pub/dir/Kousuke/Yamada/jp-0-%E6%97%A5%E6%9C%AC",
+    "https://jp.linkedin.com/in/ueno-shuji-6087b5a0",
+    "https://jp.linkedin.com/in/shoma-ida-5b2379a9",
+    "https://jp.linkedin.com/in/yoshiki-mimura-9146bb3b",
+    "https://jp.linkedin.com/in/孝介-山田-06377a147"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com 大阪冶金興業",
+   "results": [
+    "https://www.facebook.com/nikkan.BusinessLine/posts/%E5%A4%A7%E9%98%AA%E5%86%B6%E9%87%91%E8%88%88%E6%A5%AD%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%B7%80%E5%B7%9D%E5%8C%BA%E5%AF%BA%E5%86%85%E4%BF%8A%E5%A4%AA%E9%83%8E%E7%A4%BE%E9%95%B7%E3%81%AF%E6%80%A5%E9%80%9F%E5%86%B7%E5%8D%B4%E6%A9%9F%E8%83%BD%E3%82%92%E6%8C%81%E3%81%A4%EF%BD%88%EF%BD%89%EF%BD%90%E7%86%B1%E9%96%93%E7%AD%89%E6%96%B9%E5%9C%A7%E5%8A%A0%E5%9C%A7%E8%A3%85%E7%BD%AE%E3%82%92%E7%A8%BC%E5%83%8D%E3%81%97%E3%81%9F%E3%82%B9%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%87%E3%83%B3%E3%81%AE%E3%82%AF%E3%82%A4%E3%83%B3%E3%82%BF%E3%82%B9%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%82%BA%E8%A3%BD%E3%81%A7%E5%90%8C%E7%A4%BE%E3%81%AE%E8%A6%AA%E4%BC%9A%E7%A4%BE%E3%81%A7%E3%81%82%E3%82%8B%E7%A5%9E%E6%88%B8%E8%A3%BD/1591289446335052/",
+    "https://www.facebook.com/akaruiMBS1179/posts/%E6%96%B0%E5%B9%B4%E6%9C%80%E5%88%9D%E3%81%AE%E3%82%B2%E3%82%B9%E3%83%88%E3%81%AF%E6%98%A8%E5%B9%B4%E3%81%AB%E5%BC%95%E3%81%8D%E7%B6%9A%E3%81%8D%E5%A4%A7%E9%98%AA%E5%86%B6%E9%87%91%E8%88%88%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9-%E5%AF%BA%E5%86%85%E4%BF%8A%E5%A4%AA%E9%83%8E%E3%81%95%E3%82%93-%E7%AB%B9%E5%8E%9F%E6%96%B0%E3%81%97%E3%81%84%E6%8A%80%E8%A1%93%E3%82%84%E6%83%85%E5%A0%B1%E3%81%AF%E3%81%84%E3%81%A1%E6%97%A9%E3%81%8F%E5%8F%96%E3%82%8A%E5%85%A5%E3%82%8C%E3%81%A6%E3%81%8A%E3%82%89%E3%82%8C%E3%81%BE%E3%81%99%E6%9D%BE%E5%B7%9D%E5%89%B5%E6%A5%AD100%E5%91%A8%E5%B9%B4%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%97%E3%81%A6/1551819322724087/",
+    "https://www.facebook.com/osakacci/photos/%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%8B%E3%82%89%E4%B8%96%E7%95%8C%E3%81%B8-%E5%A4%A7%E9%98%AA%E5%95%86%E5%B7%A5%E4%BC%9A%E8%AD%B0%E6%89%80%E5%A4%A7%E9%98%AA%E4%BF%A1%E7%94%A8%E9%87%91%E5%BA%AB%E5%A4%A7%E9%98%AA%E9%96%A2%E8%A5%BF%E4%B8%87%E5%8D%9A%E3%81%AB%E5%87%BA%E5%B1%95%E3%81%99%E3%82%8B%E3%83%86%E3%83%BC%E3%83%A9%E3%83%BC%E3%83%A1%E3%82%A4%E3%83%89%EF%BC%93%EF%BD%84%E4%BA%BA%E5%B7%A5%E9%AA%A8by%E5%A4%A7%E9%98%AA%E5%86%B6%E9%87%91%E3%82%92%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%BE%E3%81%99%E6%9C%AA%E6%9D%A5%E3%81%AE%E5%8C%BB%E7%99%82%E6%8A%80%E8%A1%93%E3%82%92%E5%B1%95%E7%A4%BA1970%E5%B9%B4%E5%A4%A7%E9%98%AA%E4%B8%87%E5%8D%9A%E3%81%AF%E3%81%BE%E3%81%A0%E9%96%A2/550278917566664/",
+    "https://www.facebook.com/nami.katsuragi.7/posts/%E5%A4%A7%E9%98%AA%E5%86%B6%E9%87%91%E8%88%88%E6%A5%AD%E3%81%AE%E4%B8%89%E6%9C%A8%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6%E5%AF%BA%E5%86%85%E7%A4%BE%E9%95%B7%E3%81%A8%E3%81%AE%E5%AF%BE%E8%AB%87%E3%81%AB%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E6%BD%9C%E6%B0%B4%E8%89%A6%E3%82%84%E6%88%A6%E9%97%98%E6%A9%9F%E8%A1%9B%E6%98%9F%E3%81%AA%E3%81%A9%E3%81%AB%E3%82%82%E4%BD%BF%E7%94%A8%E3%81%95%E3%82%8C%E3%82%8B%E9%83%A8%E5%93%81%E3%82%82%E8%A3%BD%E9%80%A0%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%A7%E3%81%99%E3%81%8C%E7%B4%B0%E3%82%84%E3%81%8B%E3%81%AA%E8%81%B7%E4%BA%BA%E6%8A%80%E3%81%AB%E3%82%82%E6%94%AF%E3%81%88%E3%82%89%E3%82%8C%E3%81%A6%E3%81%8D%E3%82%8B%E3%81%93%E3%81%A8%E3%82%92/25754093124244532/",
+    "https://www.facebook.com/nami.katsuragi.7/posts/%E5%A4%A7%E9%98%AA%E5%86%B6%E9%87%91%E8%88%88%E6%A5%AD%E3%81%AE%E4%B8%89%E6%9C%A8%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6%E5%AF%BA%E5%86%85%E7%A4%BE%E9%95%B7%E3%81%A8%E3%81%AE%E5%AF%BE%E8%AB%87%E3%81%AB%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E6%BD%9C%E6%B0%B4%E8%89%A6%E3%82%84%E6%88%A6%E9%97%98%E6%A9%9F%E8%A1%9B%E6%98%9F%E3%81%AA%E3%81%A9%E3%81%AB%E3%82%82%E4%BD%BF%E7%94%A8%E3%81%95%E3%82%8C%E3%82%8B%E9%83%A8%E5%93%81%E3%82%82%E8%A3%BD%E9%80%A0%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%A7%E3%81%99%E3%81%8C%E7%B4%B0%E3%82%84%E3%81%8B%E3%81%AA%E8%81%B7%E4%BA%BA%E6%8A%80%E3%81%AB%E3%82%82%E6%94%AF%E3%81%88%E3%82%89%E3%82%8C%E3%81%A6%E3%81%8D%E3%82%8B%E3%81%93%E3%81%A8%E3%82%92/25754116107575567/",
+    "https://www.facebook.com/osakacci/posts/%E3%82%B7%E3%83%B3%E3%83%9D%E3%82%B8%E3%82%A6%E3%83%A0%E5%B0%8F%E3%81%95%E3%81%8F%E3%81%A6%E3%82%82%E5%8B%9D%E3%81%A6%E3%82%8B%E9%B3%A5%E4%BA%95%E4%BC%9A%E9%A0%AD%E5%A4%89%E9%9D%A9%E3%81%AE%E7%81%AB%E7%87%83%E3%82%84%E3%81%97%E7%B6%9A%E3%81%91%E3%82%8B%E4%B8%87%E5%8D%9A%E6%8C%91%E6%88%A6%E8%80%85%E4%BC%81%E6%A5%AD%E6%88%90%E9%95%B7%E3%81%B8%E6%84%8F%E8%A6%8B%E4%BA%A4%E3%82%8F%E3%81%99%E5%A4%A7%E9%98%AA%E5%95%86%E5%B7%A5%E4%BC%9A%E8%AD%B0%E6%89%80%E3%81%AF%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E%E7%A4%BE%E5%A4%A7%E9%98%AA%E6%9C%AC%E7%A4%BE%E3%81%A8%E3%81%A8%E3%82%82%E3%81%AB%EF%BC%92%EF%BC%90%EF%BC%92%EF%BC%95%E5%B9%B4%EF%BC%91%EF%BC%91%E6%9C%88%EF%BC%91%EF%BC%98%E6%97%A5%E3%82%B7%E3%83%B3%E3%83%9D/898284292766123/",
+    "https://www.facebook.com/nami.katsuragi.7/posts/%E5%BB%BA%E5%9B%BD%E8%A8%98%E5%BF%B5%E3%81%AE%E6%97%A5%E3%81%8A%E3%82%81%E3%81%A7%E3%81%A8%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99%EF%B8%8F%E6%9C%AC%E6%97%A5%E3%81%AE%E7%94%A3%E7%B5%8C%E6%96%B0%E8%81%9E%E3%81%AB%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%EF%B8%8F/26010300681957107/",
+    "https://www.facebook.com/emi.yokoo.3/videos/open-factory-koriyama-2026-%E9%96%8B%E5%82%AC%E6%99%AE%E6%AE%B5%E3%81%AF%E5%85%A5%E3%82%8C%E3%81%AA%E3%81%84%E9%83%A1%E5%B1%B1%E3%81%AE%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E5%B7%A5%E5%A0%B4%E3%81%8C%E8%A6%8B%E3%82%89%E3%82%8C%E3%82%8B1%E6%97%A5%E7%B4%B9%E4%BB%8B%E5%8B%95%E7%94%BB%E3%82%92%E4%BD%9C%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E6%A5%BD%E3%81%97%E3%81%BF%E6%96%B9%E3%81%AF2%E3%81%A4%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6%E5%B7%A5%E5%A0%B4%E3%81%A7%E3%81%AE%E4%BD%93%E9%A8%93/29328393000088144/",
+    "https://www.facebook.com/HighwayEngineeringDiscoveries/posts/flyover-osaka-japanfor-engineering-information-visit-/734474072021850/",
+    "https://www.facebook.com/nami.katsuragi.7/videos/大阪冶金興業の三木工場見学寺内社長との対談に行ってきました潜水艦や戦闘機衛星などにも使用される部品も製造されているのですが細やかな職人技にも支えられてきることを/1922985244975502/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "大阪冶金興業 note 社長",
+   "results": [
+    "https://www.osakayakin.co.jp/",
+    "https://growth-100-oku.smrj.go.jp/companies/pdf/00383-00.pdf",
+    "https://www.youtube.com/watch?v=ncqYtHb21DM",
+    "https://akaruinews.com/2026/06/%E3%80%8C%E5%A4%A2%E3%81%AF%E5%A4%A7%E3%81%8D%E3%81%8F%E3%81%A7%E3%81%99%E3%82%88%EF%BC%81%E3%80%8D%E5%A4%A7%E9%98%AA%E5%86%B6%E9%87%91%E8%88%88%E6%A5%AD%E3%80%80%E5%AF%BA%E5%86%85%E4%BF%8A%E5%A4%AA/",
+    "https://job.hari-match.com/pages/company/osakayakinkougyou/index.html",
+    "https://kansaidx.kiis.or.jp/2023/06/2022osakayakin/",
+    "https://newswitch.jp/p/27191",
+    "https://www.nikkan.co.jp/articles/view/52860",
+    "https://www.osakayakin.co.jp/company/message/",
+    "https://www.osakayakin.co.jp/company/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "大阪冶金興業 X 投稿",
+   "results": [
+    "https://www.osakayakin.co.jp/",
+    "https://atcompany.jp/osakayakin/",
+    "https://growth-100-oku.smrj.go.jp/companies/pdf/00383-00.pdf",
+    "https://ten.1049.cc/interview/osakayakin/",
+    "https://job.hari-match.com/pages/company/osakayakinkougyou/index.html",
+    "https://www.youtube.com/watch?v=ncqYtHb21DM",
+    "https://en-hyouban.com/company/10007323260/23/",
+    "https://syukatsu-kaigi.jp/companies/16405/post_items/11/word_mouths",
+    "https://www.instagram.com/osakayakinkogyo/",
+    "https://www.instagram.com/p/DeJIle8kyLt/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式11頁／PDF・画像2件／外部16頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式11頁／PDF・画像2件／外部16頁・検索12回）",
+  "資本金・株主": "記載なし（3回確認済み：公式11頁／PDF・画像2件／外部16頁・検索12回）"
+ }
+}

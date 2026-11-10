@@ -1,0 +1,1525 @@
+{
+ "name": "Commerceiq",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-10T18:21:27.382258+00:00",
+ "official_url": "https://commerceiq.ai/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Retailer algorithms and shopper agents re-rank, suppress, and reshuffle your products around the clock. Sunday, 2:04 AM: your best-seller vanishes from search. Nobody is watching.",
+    "url": "https://www.commerceiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Algorithm update - your SKU was suppressed",
+    "url": "https://www.commerceiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "One suppressed SKU crosses reports, teams, agencies, and retailer tickets before it is resolved. Every handoff costs days, and every day costs sales and share.",
+    "url": "https://www.commerceiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Algorithm suppresses your top SKU",
+    "url": "https://www.commerceiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "New content drafted and approved",
+    "url": "https://www.commerceiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically manage thousands of SKUs across hundreds of retailers for AEO, accuracy, and compliance - powered by the Content Agent.",
+    "url": "https://www.commerceiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Forecast sales vs. plan, prioritize the next best actions, and automate execution to close the gap.",
+    "url": "https://www.commerceiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Monitor, prioritize, and act - 24x7",
+    "url": "https://www.commerceiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Track the digital shelf across 1450+ retailers globally, get prioritized insights across brands, and create WBR-ready reports instantly.",
+    "url": "https://www.commerceiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "From content compliance to true incrementality - Allyᴬᴵ turns retail complexity into outcomes you can measure.",
+    "url": "https://www.commerceiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Allyᴬᴵ continuously optimizes your product content with high-converting keywords so shoppers find you first - before your competitors.",
+    "url": "https://www.commerceiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Allyᴬᴵ optimizes your content to get recommended by Alexa for Shopping, so your brand wins the voice-first buying moment before competitors even show up.",
+    "url": "https://www.commerceiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Allyᴬᴵ assembles your quarterly business reviews automatically - pulling data, surfacing insights, and building presentation-ready decks in minutes, not days.",
+    "url": "https://www.commerceiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Allyᴬᴵ monitors your entire catalog for buy box loss, content violations, and inventory gaps - flagging risks before they become revenue leaks.",
+    "url": "https://www.commerceiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Content, media, sales, and reporting — see the full library of Allyᴬᴵ use cases.",
+    "url": "https://www.commerceiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Allyᴬᴵ automates the mundane and prioritizes the actions that drive impact. Retail experts provide the strategy and personalized support.",
+    "url": "https://www.commerceiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Shelf score improvement",
+    "url": "https://www.commerceiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven impact across global brands",
+    "url": "https://www.commerceiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Automation allows us to dispute 100% of invoices, maximizing revenue recovery and increasing productivity.",
+    "url": "https://www.commerceiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We needed a technology-first ecommerce partner. CommerceIQ quickly became integral to how we run and profitably grow our Amazon business.",
+    "url": "https://www.commerceiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "CommerceIQ provides substantial benefits - understanding performance across granular targets and applying bulk automation aligned to our objectives.",
+    "url": "https://www.commerceiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Join the brands using AI agents to win retail media, content and the digital shelf.",
+    "url": "https://www.commerceiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Is your business facing new challenges? Do you want to speed up your decision-making process? Discover how you can update your online retail roadmap with CommerceIQ using AI technology and automation. Get ready to solve the biggest ecommerce challenges!",
+    "url": "https://www.commerceiq.ai/industries/consumer-packaged-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Nova Protein Bar - Chocolate 12ct",
+    "url": "https://www.commerceiq.ai/industries/consumer-packaged-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Seller and content integrity monitoring dashboard",
+    "url": "https://www.commerceiq.ai/industries/consumer-packaged-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Seller & content integrity",
+    "url": "https://www.commerceiq.ai/industries/consumer-packaged-goods",
+    "pass": 1
+   },
+   {
+    "quote": "31 PDPs auto-corrected back to brand-approved content",
+    "url": "https://www.commerceiq.ai/industries/consumer-packaged-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Find SKUs where third-party sellers sell unauthorized versions or identical products.",
+    "url": "https://www.commerceiq.ai/industries/consumer-packaged-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Monitor shipment statuses efficiently in order to be proactive in managing delays and out-of-stocks.",
+    "url": "https://www.commerceiq.ai/industries/consumer-packaged-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Protect your brand by automatically correcting unauthorized content on all your product detail pages while monitoring them continuously.",
+    "url": "https://www.commerceiq.ai/industries/consumer-packaged-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Take immediate action by leveraging actionable insights into your sales levels, profitable keywords, and trending competitors.",
+    "url": "https://www.commerceiq.ai/industries/consumer-packaged-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Find out in real-time which orders are out of stock, revenue, and profits that were lost due to lost Buy Boxes.",
+    "url": "https://www.commerceiq.ai/industries/consumer-packaged-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Spend shifted off unprofitable terms",
+    "url": "https://www.commerceiq.ai/industries/consumer-packaged-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Make advertising more effective and drive results in areas that matter, such as increasing share of voice, increasing revenue, and increasing profit margins.",
+    "url": "https://www.commerceiq.ai/industries/consumer-packaged-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Unify advertising data, strategies, and execution with machine learning and automation.",
+    "url": "https://www.commerceiq.ai/industries/consumer-packaged-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Remove manual tasks involving spreadsheets and siloed data from your supply chain operations.",
+    "url": "https://www.commerceiq.ai/industries/consumer-packaged-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Explore expert insights, product updates and practical tips to drive growth, efficiency and market share across your retail media ecosystem.",
+    "url": "https://www.commerceiq.ai/industries/consumer-packaged-goods",
+    "pass": 1
+   },
+   {
+    "quote": "The Retail Media Playbook for Prime Day",
+    "url": "https://www.commerceiq.ai/industries/consumer-packaged-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Prime Day 2026 will expose a widening divide between agentic retail adopters and everyone else",
+    "url": "https://www.commerceiq.ai/industries/consumer-packaged-goods",
+    "pass": 1
+   },
+   {
+    "quote": "As Prime Day 2026 approaches, the shift to agentic retail is imperative",
+    "url": "https://www.commerceiq.ai/industries/consumer-packaged-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Prime Day 2026: Alexa for Shopping Changes How Consumers Find Your Products",
+    "url": "https://www.commerceiq.ai/industries/consumer-packaged-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Proven impact across global brands",
+    "url": "https://www.commerceiq.ai/industries/consumer-packaged-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Automation allows us to dispute 100% of invoices, maximizing revenue recovery and increasing productivity.",
+    "url": "https://www.commerceiq.ai/industries/consumer-packaged-goods",
+    "pass": 1
+   },
+   {
+    "quote": "We needed a technology-first ecommerce partner. CommerceIQ quickly became integral to how we run and profitably grow our Amazon business.",
+    "url": "https://www.commerceiq.ai/industries/consumer-packaged-goods",
+    "pass": 1
+   },
+   {
+    "quote": "CommerceIQ provides substantial benefits - understanding performance across granular targets and applying bulk automation aligned to our objectives.",
+    "url": "https://www.commerceiq.ai/industries/consumer-packaged-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Future-proof your business for the ecommerce and omni-commerce future by getting real-time data for your decision-making. CommerceIQ equips your people, teams, and leaders with the digital shelf analytics technology they need to win.",
+    "url": "https://www.commerceiq.ai/industries/consumer-packaged-goods",
+    "pass": 1
+   },
+   {
+    "quote": "CommerceIQ offers retail operations management capabilities for consumer packaged goods brands. This includes identifying SKUs where unauthorized versions or identical products are being sold by third-party sellers.",
+    "url": "https://www.commerceiq.ai/industries/consumer-packaged-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Leverage eCommerce to scale product promotion and distribution—while responding to real-time challenges with real-time solutions.",
+    "url": "https://www.commerceiq.ai/industries/consumer-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Avoid wasting advertising spend by monitoring trends in consumer shopping behavior.",
+    "url": "https://www.commerceiq.ai/industries/consumer-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Identify and resolve common problems in retail media and win at the moment of purchase.",
+    "url": "https://www.commerceiq.ai/industries/consumer-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Aurex Buds Pro 2",
+    "url": "https://www.commerceiq.ai/industries/consumer-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "H7 “Pro Max” - unlisted colourway",
+    "url": "https://www.commerceiq.ai/industries/consumer-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "When unauthorized sellers add 3P variants to product detail pages, your sales can go to 3P variants instead of your own.",
+    "url": "https://www.commerceiq.ai/industries/consumer-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Avoid revenue leakage, brand confusion, and waste of advertising spend.",
+    "url": "https://www.commerceiq.ai/industries/consumer-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Make advertising more effective and drive results in areas that matter, such as increasing share of voice, increasing revenue, and increasing profit margins.",
+    "url": "https://www.commerceiq.ai/industries/consumer-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Unify advertising data, strategies, and execution with machine learning and automation.",
+    "url": "https://www.commerceiq.ai/industries/consumer-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "PO-71356 - Aurex Buds Pro 2",
+    "url": "https://www.commerceiq.ai/industries/consumer-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Remove manual tasks involving spreadsheets and siloed data from your supply chain operations.",
+    "url": "https://www.commerceiq.ai/industries/consumer-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Alerts prioritized by lost sales, margin, and availability",
+    "url": "https://www.commerceiq.ai/industries/consumer-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Take immediate action by leveraging actionable insights into your sales levels, profitable keywords, and trending competitors.",
+    "url": "https://www.commerceiq.ai/industries/consumer-electronics",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "One suppressed SKU crosses reports, teams, agencies, and retailer tickets before it is resolved. Every handoff costs days, and every day costs sales and share.",
+    "url": "https://www.commerceiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Allyᴬᴵ audits every PDP across every retailer and auto-corrects copy, images, and attributes to your brand standards - at scale, in real time.",
+    "url": "https://www.commerceiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Allyᴬᴵ optimizes your content to get recommended by Alexa for Shopping, so your brand wins the voice-first buying moment before competitors even show up.",
+    "url": "https://www.commerceiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect your brand by automatically correcting unauthorized content on all your product detail pages while monitoring them continuously.",
+    "url": "https://www.commerceiq.ai/industries/consumer-packaged-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Reseller listing removed by retailer",
+    "url": "https://www.commerceiq.ai/industries/consumer-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Consumer electronics is ripe for exploitation by unauthorized and rogue 3P sellers wanting to take a big bite out of your brand's revenue pie.",
+    "url": "https://www.commerceiq.ai/industries/consumer-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Protect your brand by continuously monitoring all your product detail pages while cases to correct unauthorized content are submitted automatically.",
+    "url": "https://www.commerceiq.ai/industries/grocery-gourmet",
+    "pass": 1
+   },
+   {
+    "quote": "See what CommerceIQ can do for your brand",
+    "url": "https://www.commerceiq.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Understand how your brand shows up across Alexa for shopping, SEO, and Paid Media.",
+    "url": "https://www.commerceiq.ai/copilot-for-amazon",
+    "pass": 1
+   },
+   {
+    "quote": "Amazon Rufus gets a new name and more. Here's what It means for your brand",
+    "url": "https://www.commerceiq.ai/use-case/ai-price-recommendations",
+    "pass": 1
+   },
+   {
+    "quote": "Global Food Manufacturer retains ecommerce sales during rebrand with CommerceIQ",
+    "url": "https://www.casestudies.com/company/commerceiq",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Allyᴬᴵ dynamically reallocates your media budget to capture share of voice where it converts, turning competitive gaps into revenue wins.",
+    "url": "https://www.commerceiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Allyᴬᴵ monitors your entire catalog for buy box loss, content violations, and inventory gaps - flagging risks before they become revenue leaks.",
+    "url": "https://www.commerceiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Automation allows us to dispute 100% of invoices, maximizing revenue recovery and increasing productivity.",
+    "url": "https://www.commerceiq.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Find out in real-time which orders are out of stock, revenue, and profits that were lost due to lost Buy Boxes.",
+    "url": "https://www.commerceiq.ai/industries/consumer-packaged-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Make advertising more effective and drive results in areas that matter, such as increasing share of voice, increasing revenue, and increasing profit margins.",
+    "url": "https://www.commerceiq.ai/industries/consumer-packaged-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Take advantage of artificial intelligence to optimize your supply chain operations and reduce revenue loss.",
+    "url": "https://www.commerceiq.ai/industries/consumer-packaged-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Automation allows us to dispute 100% of invoices, maximizing revenue recovery and increasing productivity.",
+    "url": "https://www.commerceiq.ai/industries/consumer-packaged-goods",
+    "pass": 1
+   },
+   {
+    "quote": "This real-time visibility helps brands make informed decisions to optimize their digital shelves, recover lost revenue, and improve overall performance.",
+    "url": "https://www.commerceiq.ai/industries/consumer-packaged-goods",
+    "pass": 1
+   },
+   {
+    "quote": "CommerceIQ empowers consumer packaged goods brands to make their advertising more effective and drive results in crucial areas such as increasing share of voice, revenue, and profit margins.",
+    "url": "https://www.commerceiq.ai/industries/consumer-packaged-goods",
+    "pass": 1
+   },
+   {
+    "quote": "CommerceIQ helps consumer packaged goods brands streamline supply chain operations and reduce revenue loss. By removing manual tasks involving spreadsheets and siloed data, brands can optimize their supply chain processes.",
+    "url": "https://www.commerceiq.ai/industries/consumer-packaged-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue leakage flagged",
+    "url": "https://www.commerceiq.ai/industries/consumer-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Neutralize revenue leakage and channel conflicts stemming from the competition from unauthorized third-party (3P) sellers.",
+    "url": "https://www.commerceiq.ai/industries/consumer-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Consumer electronics is ripe for exploitation by unauthorized and rogue 3P sellers wanting to take a big bite out of your brand's revenue pie.",
+    "url": "https://www.commerceiq.ai/industries/consumer-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "CommerceIQ tracks 3P listings and duplicates and sends tickets for resolution. This means significant time-saving and, more importantly, significant revenue recovery.",
+    "url": "https://www.commerceiq.ai/industries/consumer-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "H7 “Pro Max” - unlisted colourway",
+    "url": "https://www.commerceiq.ai/industries/consumer-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Avoid revenue leakage, brand confusion, and waste of advertising spend.",
+    "url": "https://www.commerceiq.ai/industries/consumer-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Make advertising more effective and drive results in areas that matter, such as increasing share of voice, increasing revenue, and increasing profit margins.",
+    "url": "https://www.commerceiq.ai/industries/consumer-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Take advantage of artificial intelligence to optimize your supply chain operations and reduce revenue loss.",
+    "url": "https://www.commerceiq.ai/industries/consumer-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Find out in real-time which orders are out of stock, revenue, and profits that were lost due to lost Buy Boxes.",
+    "url": "https://www.commerceiq.ai/industries/consumer-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Automation allows us to dispute 100% of invoices, maximizing revenue recovery and increasing productivity.",
+    "url": "https://www.commerceiq.ai/industries/consumer-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "CommerceIQ helps electronics brands neutralize revenue leakage, manage unauthorized third-party sellers, optimize retail media spend, and protect share of voice across major retailers.",
+    "url": "https://www.commerceiq.ai/industries/consumer-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "CommerceIQ uses deep category scanning and ML-based models to identify unauthorized third-party sellers, duplicate listings, and product variants that can redirect revenue away from the brand.",
+    "url": "https://www.commerceiq.ai/industries/consumer-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Teams can use automated workflows to resolve issues faster and recover lost revenue.",
+    "url": "https://www.commerceiq.ai/industries/consumer-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "AI-driven recommendations help teams improve share of voice, revenue, and profitability.",
+    "url": "https://www.commerceiq.ai/industries/consumer-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Avoid losing revenues due to out-of-stock (OOS) issues with predictive analytics.",
+    "url": "https://www.commerceiq.ai/industries/furniture-and-home-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Find out in real-time which orders are out of stock, revenue, and profits lost due to lost Buy Boxes.",
+    "url": "https://www.commerceiq.ai/industries/furniture-and-home-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Automation allows us to dispute 100% of invoices, maximizing revenue recovery and increasing productivity.",
+    "url": "https://www.commerceiq.ai/industries/furniture-and-home-goods",
+    "pass": 1
+   },
+   {
+    "quote": "With predictive analytics, retailers can avoid revenue loss caused by out-of-stock (OOS) issues. The platform leverages automation and data from Amazon Vendor Central and Amazon Retail Analytics to optimize supply chain operations.",
+    "url": "https://www.commerceiq.ai/industries/furniture-and-home-goods",
+    "pass": 1
+   },
+   {
+    "quote": "The platform provides real-time information on out-of-stock orders, revenue loss, and lost Buy Boxes, enabling retailers to optimize their digital shelf performance.",
+    "url": "https://www.commerceiq.ai/industries/furniture-and-home-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Optimizing return on ad spend and drive results in areas that matter, such as increased share of voice, higher revenue, and more significant profit margins.",
+    "url": "https://www.commerceiq.ai/industries/grocery-gourmet",
+    "pass": 1
+   },
+   {
+    "quote": "Leverage the power of AI to reduce revenue loss and optimize your supply chain operation.",
+    "url": "https://www.commerceiq.ai/industries/grocery-gourmet",
+    "pass": 1
+   },
+   {
+    "quote": "Reports combine shelf, revenue, availability and lost Buy Box signals",
+    "url": "https://www.commerceiq.ai/industries/grocery-gourmet",
+    "pass": 1
+   },
+   {
+    "quote": "Receive real-time reports into your ordered product sales, revenue, and profits lost due to out-of-stock items or lost Buy Box.",
+    "url": "https://www.commerceiq.ai/industries/grocery-gourmet",
+    "pass": 1
+   },
+   {
+    "quote": "Automation allows us to dispute 100% of invoices, maximizing revenue recovery and increasing productivity.",
+    "url": "https://www.commerceiq.ai/industries/grocery-gourmet",
+    "pass": 1
+   },
+   {
+    "quote": "What our employees say",
+    "url": "https://www.commerceiq.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Don't just take our word for it — here's what some of our employees say about their jobs.",
+    "url": "https://www.commerceiq.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We offer comprehensive health, dental, and vision insurance to keep you and your family covered. We also contribute to employees' overall wellness by providing resources like gym membership stipends, mental health support and more.",
+    "url": "https://www.commerceiq.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "For eligible roles, we provide the opportunity to own a part of the company through stock options.",
+    "url": "https://www.commerceiq.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Copilot for Amazon to Drive Revenue Growth with AI",
+    "url": "https://www.commerceiq.ai/copilot-for-amazon",
+    "pass": 1
+   },
+   {
+    "quote": "AllyAI ranks revenue risks across search, availability, pricing, and PO recovery so the team knows what to do next.",
+    "url": "https://www.commerceiq.ai/copilot-for-amazon",
+    "pass": 1
+   },
+   {
+    "quote": "Autonomously detect shortages and reconcile purchase orders to reclaim thousands in lost revenue without the manual paperwork.",
+    "url": "https://www.commerceiq.ai/copilot-for-amazon",
+    "pass": 1
+   },
+   {
+    "quote": "Automation allows us to dispute 100% of invoices, maximizing revenue recovery and increasing productivity.",
+    "url": "https://www.commerceiq.ai/copilot-for-amazon",
+    "pass": 1
+   },
+   {
+    "quote": "How do I know if a third-party seller is hurting my Amazon revenue?",
+    "url": "https://www.commerceiq.ai/copilot-for-amazon",
+    "pass": 1
+   },
+   {
+    "quote": "Automation allows us to dispute 100% of invoices, maximizing revenue recovery and increasing productivity.",
+    "url": "https://www.commerceiq.ai/digital-shelf-analytics",
+    "pass": 1
+   },
+   {
+    "quote": "Incremental revenue in Q4",
+    "url": "https://www.commerceiq.ai/retail-media-management",
+    "pass": 1
+   },
+   {
+    "quote": "RMM is an AI-driven solution that optimizes your retail media campaigns across Amazon, Walmart, Instacart, and more. It ensures your ad spend drives true incremental revenue—not just inflated ROAS.",
+    "url": "https://www.commerceiq.ai/retail-media-management",
+    "pass": 1
+   },
+   {
+    "quote": "CommerceIQ's AI-powered platform enables brands to make data-driven pricing decisions at the speed and scale required to compete on Amazon. The platform connects pricing with inventory, sales, and competitive data to maximize both revenue and margins.",
+    "url": "https://www.commerceiq.ai/use-case/ai-price-recommendations",
+    "pass": 1
+   },
+   {
+    "quote": "Forecast margin, revenue, and volume impact before pricing actions go live.",
+    "url": "https://www.commerceiq.ai/use-case/ai-price-recommendations",
+    "pass": 1
+   },
+   {
+    "quote": "With tight budget constraints due to the cost of eggs, and a need to move more units without overspending on consumer acquisition costs, Eggland’s Best required a new commerce strategy: one to drive digital sales in pickup and delivery online while lifting in-store sales, too.",
+    "url": "https://www.commerceiq.ai/case-studies/egglands-best-cracking-the-code-to-incremental-sales",
+    "pass": 1
+   },
+   {
+    "quote": "Manage retail media spend allocation to maximize incremental revenue across portfolio",
+    "url": "https://www.commerceiq.ai/demo",
+    "pass": 1
+   },
+   {
+    "quote": "Automation allows us to dispute 100% of invoices, maximizing revenue recovery and increasing productivity.",
+    "url": "https://www.commerceiq.ai/demo",
+    "pass": 1
+   },
+   {
+    "quote": "John Carroll,",
+    "url": "https://www.acosta.group/acosta-group-and-commerceiq-alliance-creating-new-standard-in-intelligent-commerce/",
+    "pass": 3
+   },
+   {
+    "quote": "As part of the new partnership, client-focused CommerceIQ experts are joining the Acosta Group Connected Commerce team to accelerate adoption and use of the CommerceIQ platform. “These new associates further strengthen our ability to deliver the most advanced and innovative end-to-end managed services solutions,” said Carroll.",
+    "url": "https://www.acosta.group/acosta-group-and-commerceiq-alliance-creating-new-standard-in-intelligent-commerce/",
+    "pass": 3
+   },
+   {
+    "quote": "Carroll and Ganeson emphasized the close alignment between their shared culture of innovation and client-first focus, supporting a seamless transition for both clients and associates and reinforcing shared values and operational continuity.",
+    "url": "https://www.acosta.group/acosta-group-and-commerceiq-alliance-creating-new-standard-in-intelligent-commerce/",
+    "pass": 3
+   },
+   {
+    "quote": "“With this partnership, we are building agency solutions that clients are beginning to seek out now, but will find essential in the immediate future,” said Carroll.",
+    "url": "https://www.acosta.group/acosta-group-and-commerceiq-alliance-creating-new-standard-in-intelligent-commerce/",
+    "pass": 3
+   },
+   {
+    "quote": "a toy manufacturer with over $2B in annual revenue",
+    "url": "https://www.casestudies.com/company/commerceiq",
+    "pass": 3
+   },
+   {
+    "quote": "Big Pet Food Brand achieves rapid resolution of suppressed Amazon listings and prevents $428K in revenue leakage with CommerceIQ",
+    "url": "https://www.casestudies.com/company/commerceiq",
+    "pass": 3
+   },
+   {
+    "quote": "Fortune 500 Food Brand achieves +180% total Share of Voice and 2.8x ad-sales growth with CommerceIQ",
+    "url": "https://www.casestudies.com/company/commerceiq",
+    "pass": 3
+   },
+   {
+    "quote": "Fortune 500 Food Brand",
+    "url": "https://www.casestudies.com/company/commerceiq",
+    "pass": 3
+   },
+   {
+    "quote": "Fortune 500 Food Brand achieves ad efficiency and reduced wasted spend on Amazon & Walmart with CommerceIQ",
+    "url": "https://www.casestudies.com/company/commerceiq",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Used by the most loved brands in the world",
+    "url": "https://www.commerceiq.ai/industries/consumer-packaged-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Used by the most loved brands in the world",
+    "url": "https://www.commerceiq.ai/industries/consumer-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Used by the most loved brands in the world",
+    "url": "https://www.commerceiq.ai/industries/furniture-and-home-goods",
+    "pass": 1
+   },
+   {
+    "quote": "With predictive analytics, retailers can avoid revenue loss caused by out-of-stock (OOS) issues. The platform leverages automation and data from Amazon Vendor Central and Amazon Retail Analytics to optimize supply chain operations.",
+    "url": "https://www.commerceiq.ai/industries/furniture-and-home-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Used by the most loved brands in the world",
+    "url": "https://www.commerceiq.ai/industries/grocery-gourmet",
+    "pass": 1
+   },
+   {
+    "quote": "Used by the most loved brands in the world",
+    "url": "https://www.commerceiq.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Used by the most loved brands in the world",
+    "url": "https://www.commerceiq.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Used by the most loved brands in the world",
+    "url": "https://www.commerceiq.ai/content-optimization",
+    "pass": 1
+   },
+   {
+    "quote": "Read the full Newell Brands case study →",
+    "url": "https://www.commerceiq.ai/content-optimization",
+    "pass": 1
+   },
+   {
+    "quote": "Used by the most loved brands in the world",
+    "url": "https://www.commerceiq.ai/copilot-for-amazon",
+    "pass": 1
+   },
+   {
+    "quote": "Used by the most loved brands in the world",
+    "url": "https://www.commerceiq.ai/digital-shelf-analytics",
+    "pass": 1
+   },
+   {
+    "quote": "Used by the most loved brands in the world",
+    "url": "https://www.commerceiq.ai/retail-media-management",
+    "pass": 1
+   },
+   {
+    "quote": "Featured · Case study",
+    "url": "https://www.commerceiq.ai/retail-media-management",
+    "pass": 1
+   },
+   {
+    "quote": "Used by the most loved brands in the world",
+    "url": "https://www.commerceiq.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Used by the most loved brands in the world",
+    "url": "https://www.commerceiq.ai/use-case/ai-price-recommendations",
+    "pass": 1
+   },
+   {
+    "quote": "Used by the most loved brands in the world",
+    "url": "https://www.commerceiq.ai/demo",
+    "pass": 1
+   },
+   {
+    "quote": "Modusは、企業向けAIエージェントが業務の文脈を正しく理解して自律動作するためのインフラ基盤「Context Warehouse（System of...",
+    "url": "https://www.firstcvc.jp/global/commerceiq.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Beverage Manufacturing",
+    "url": "https://www.casestudies.com/company/commerceiq",
+    "pass": 3
+   },
+   {
+    "quote": "Food and Beverage Manufacturing",
+    "url": "https://www.casestudies.com/company/commerceiq",
+    "pass": 3
+   },
+   {
+    "quote": "Furniture and Home Furnishings Manufacturing",
+    "url": "https://www.casestudies.com/company/commerceiq",
+    "pass": 3
+   },
+   {
+    "quote": "Meat Products Manufacturing",
+    "url": "https://www.casestudies.com/company/commerceiq",
+    "pass": 3
+   },
+   {
+    "quote": "a toy manufacturer with over $2B in annual revenue",
+    "url": "https://www.casestudies.com/company/commerceiq",
+    "pass": 3
+   },
+   {
+    "quote": "German Biscuit Manufacturing Company",
+    "url": "https://www.casestudies.com/company/commerceiq",
+    "pass": 3
+   },
+   {
+    "quote": "Global Food Manufacturer retains ecommerce sales during rebrand with CommerceIQ",
+    "url": "https://www.casestudies.com/company/commerceiq",
+    "pass": 3
+   },
+   {
+    "quote": "Global Food Manufacturer",
+    "url": "https://www.casestudies.com/company/commerceiq",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Children's Snacks Provider - Customer Case Study",
+    "url": "https://www.casestudies.com/company/commerceiq",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Consumer Electronics Manufacturer",
+    "url": "https://www.casestudies.com/company/commerceiq",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Furniture Manufacturer achieves 20% incremental revenue and 30% improvement in advertising cost-of-sales with CommerceIQ",
+    "url": "https://www.casestudies.com/company/commerceiq",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Furniture Manufacturer",
+    "url": "https://www.casestudies.com/company/commerceiq",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Major UK Retailer Company - Customer Case Study",
+    "url": "https://www.casestudies.com/company/commerceiq",
+    "pass": 3
+   },
+   {
+    "quote": "CommerceIQ Case Study: German Biscuit Manufacturing Company – A data-driven approach helped German biscuit brand Bahlsen drive category growth with UK retailers delivering a 8:1 ROI | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/commerceiq/case-study/a-data-driven-approach-helped-german-biscuit-brand-bahlsen-drive-category-growth-with-uk-retailers-delivering-a-81-roi",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how German Biscuit Manufacturing Company used CommerceIQ",
+    "url": "https://www.casestudies.com/company/commerceiq/case-study/a-data-driven-approach-helped-german-biscuit-brand-bahlsen-drive-category-growth-with-uk-retailers-delivering-a-81-roi",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/commerceiq/case-study/a-data-driven-approach-helped-german-biscuit-brand-bahlsen-drive-category-growth-with-uk-retailers-delivering-a-81-roi",
+    "pass": 3
+   },
+   {
+    "quote": "German Biscuit Manufacturing Company",
+    "url": "https://www.casestudies.com/company/commerceiq/case-study/a-data-driven-approach-helped-german-biscuit-brand-bahlsen-drive-category-growth-with-uk-retailers-delivering-a-81-roi",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/commerceiq/case-study/a-data-driven-approach-helped-german-biscuit-brand-bahlsen-drive-category-growth-with-uk-retailers-delivering-a-81-roi",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study - Drive hypergrowth with global clients | CommerceIQ",
+    "url": "https://www.commerceiq.ai/case-studies/how-commerceiq-drives-hyper-growth-with-global-clients",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Sharing · email to leadership",
+    "url": "https://www.commerceiq.ai/digital-shelf-analytics",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/64987-66",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "CommerceIQの資金調達・投資家情報 | 海外スタートアップ | FIRST CVC — Insight Partners、Madrona Venture Groupのポートフォリオに掲載される海外スタートアップCommerceIQの企業プロフィール。CommerceIQは、大手消費財（CPG）メーカーやブランド企業向けに、ECマーケットプレイスにおける売上最大化と収益性向上を支援する統合型AIリテー...",
+    "url": "https://www.firstcvc.jp/global/commerceiq.ai",
+    "pass": 3
+   },
+   {
+    "quote": "商品ページ更新が35分から1分未満に、NewellがCommerceIQと構築したAI... — CommerceIQは同社の顧客導入全体でも10倍から100倍超の改善幅を主張していますが、この幅の広さ自体が、測定条件によって結果が大きく動くことを示しています。 第二に、企業のAI導入全般では成果が出ない例のほうが多いという調査があります。",
+    "url": "https://stellagent.ai/ja/insights/commerceiq-newell-ai-content-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Himanshu Jain、CommerceIQ の共同創業者兼プロダクト責任者 – インタ... — Oct 7, 2026 · Himanshu Jain、CommerceIQ の共同創業者兼プロダクト責任者として、複雑な小売および e コマースワークフローを自動化する AI エージェントの構築に注力しながら、プロダクト戦略と開発を主導しています。2017 年に CommerceIQ を共同設立して以来、データ、オートメーション、AI をデジタルコマースに ...",
+    "url": "https://www.unite.ai/ja/himanshu-jain-co-founder-and-head-of-products-at-commerceiq-interview-series/",
+    "pass": 3
+   },
+   {
+    "quote": "CommerceIQ — Our partners Built to operate across every major retailer CommerceIQ connects directly to Amazon, Walmart, Instacart, and 1450+ global retail endpoints - everywhere you sell.",
+    "url": "https://www.commerceiq.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "About CommerceIQ: AI Platform for Ecommerce Growth — Discover CommerceIQ’s journey, mission, and how our platform helps brands optimize ecommerce performance and scale growth effectively.",
+    "url": "https://www.commerceiq.ai/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "CommerceIQ - LinkedIn — CommerceIQ | LinkedInのフォロワー数61,041人。Retail Ecommmerce Management Platform | CommerceIQ’s AI-powered digital commerce platform is revolutionizing the way brands sell online. Our unified ecommerce management solutions empower brands to make smarter, faster decisions through insights that optimize the digital shelf, increase retail media ROI and fuel incremental sales across .",
+    "url": "https://jp.linkedin.com/company/commerceiq",
+    "pass": 3
+   },
+   {
+    "quote": "Acosta Group and CommerceIQ Alliance Creating New Standard in ... — Jan 20, 2026 · As part of the new partnership, client-focused CommerceIQ experts are joining the Acosta Group Connected Commerce team to accelerate adoption and use of the CommerceIQ platform. “These new associates further strengthen our ability to deliver the most advanced and innovative end-to-end managed services solutions,” sa",
+    "url": "https://www.acosta.group/acosta-group-and-commerceiq-alliance-creating-new-standard-in-intelligent-commerce/",
+    "pass": 3
+   },
+   {
+    "quote": "Join CommerceIQ Careers | Where Innovation Meets Impact — Be part of a global team transforming e-commerce. Explore open positions and thrive in a culture that values ownership, growth, and creativity",
+    "url": "https://www.commerceiq.ai/careers",
+    "pass": 3
+   },
+   {
+    "quote": "CommerceIQ — You don’t have javascript enabled. Please enable it to get the full experience.",
+    "url": "https://newell.commerceiq.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "CommerceIQ Case Studies | Real Ecommerce Success Stories — See how leading brands like Mondelēz boost sales, reduce shortages, and scale faster using CommerceIQ's AI-driven retail solutions.",
+    "url": "https://www.commerceiq.ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "CommerceIQ B2B Case Studies & Customer Successes — See how CommerceIQ solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/commerceiq",
+    "pass": 3
+   },
+   {
+    "quote": "CommerceIQ Case Study: German Biscuit Manufacturing Company ... — German Biscuit Manufacturing Company (Manufacturing) partnered with CommerceIQ (Computer Software) to solve key challenges. \"A data-driven approach helped German biscuit brand Bahlsen drive category growth with UK retailers delivering a 8:1 ROI\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/commerceiq/case-study/a-data-driven-approach-helped-german-biscuit-brand-bahlsen-drive-category-growth-with-uk-retailers-delivering-a-81-roi",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study - Drive hypergrowth with global clients | CommerceIQ — Nov 17, 2022 · A global client sought CommerceIQ's digital shelf analytics solutions to migrate away from a rigid one-size-fits-all supplier. The consumer brand identified several requirements: provide digital shelf analytics and optimization that allows for the data and support to be tailored to each of the client's brands across i",
+    "url": "https://www.commerceiq.ai/case-studies/how-commerceiq-drives-hyper-growth-with-global-clients",
+    "pass": 3
+   },
+   {
+    "quote": "CommerceIQ Helps Newell Brands Automate Product Content ... — Aug 27, 2026 · CommerceIQ built a custom AI Content Agent for Newell Brands, cutting product page updates from 35 minutes to under one, a 40x time savings.",
+    "url": "https://www.demandgenreport.com/case-studies/commerceiq-helps-newell-brands-automate-product-content-workflows/54182/",
+    "pass": 3
+   },
+   {
+    "quote": "CommerceIQ 2026 Company Profile: Valuation, Funding ...CommerceIQ - 2026 Company Profile, Team, Funding ... - TracxnCommerceIQ — Company Profile | The Company CheckCommerceiq Financials 2025: Revenue, Profit, Valuation ...CommerceIQ: Employees, Headcount Growth, Org Chart, Layoffs ...CommerceIQ Revenue 2024: $136.6M Est., $195.5M Raised - LATKACommerceIQ – Revenue Estimate & Market Landscape – 202",
+    "url": "https://pitchbook.com/profiles/company/64987-66",
+    "pass": 3
+   },
+   {
+    "quote": "CommerceIQ - 2026 Company Profile, Team, Funding ... - TracxnCommerceIQ — Company Profile | The Company CheckCommerceiq Financials 2025: Revenue, Profit, Valuation ...CommerceIQ: Employees, Headcount Growth, Org Chart, Layoffs ...CommerceIQ Revenue 2024: $136.6M Est., $195.5M Raised - LATKACommerceIQ – Revenue Estimate & Market Landscape – 2026 — Mar 20, 2026 · CommerceIQ is a series D company bas",
+    "url": "https://tracxn.com/d/companies/commerceiq/__lGkXNU8D9DAA8F7r4OBYXezGKjb35G7NS56fQKAykr8",
+    "pass": 3
+   },
+   {
+    "quote": "CommerceIQ — Company Profile | The Company Check — CommerceIQ is a company based in Mountain View (United States) founded in 2012 by Himanshu Jain and Guru Hariharan. CommerceIQ has raised $195.5 million across 4 funding rounds from investors including SoftBank Vision Fund, Insight Partners and Trinity Ventures. The company has 256 employees as of May 31, 2025. CommerceIQ has completed 1 acquisiti",
+    "url": "https://www.thecompanycheck.com/company/b/commerceiq/e6b118e325k5n1d4u",
+    "pass": 3
+   },
+   {
+    "quote": "Commerceiq Financials 2025: Revenue, Profit, Valuation ...CommerceIQ: Employees, Headcount Growth, Org Chart, Layoffs ...CommerceIQ Revenue 2024: $136.6M Est., $195.5M Raised - LATKACommerceIQ – Revenue Estimate & Market Landscape – 2026 — Get Commerceiq’s full 2025 financial report — including revenue, profit/loss, EBITDA, valuation, funding rounds, shareholding pattern, cap table, and equity str",
+    "url": "https://www.affluense.ai/company/commerceiq-financials-f809b4",
+    "pass": 3
+   },
+   {
+    "quote": "CommerceIQ: Employees, Headcount Growth, Org Chart, Layoffs ... — CommerceIQ has about 468 employees (+0.9% in 3 months). No layoffs in the last 12 months. Revenue per employee ~$292K. See the org chart, headcount trend, open jobs and pay.",
+    "url": "https://6figr.com/company/commerceiq",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "CommerceIQ (@commerceIQ1) / Posts / X CommerceIQ (@commerceIQ1) - Posts - The algorithmic platform that helps consumer brands win in e-commerce by leveraging machine learning... | X (formerly Twitter)",
+    "url": "https://x.com/commerceIQ1",
+    "pass": 3
+   },
+   {
+    "quote": "#CommerceIQ - Search / X People matching #CommerceIQ on X. Find accounts and join the conversation.",
+    "url": "https://x.com/hashtag/CommerceIQ?f=user",
+    "pass": 3
+   },
+   {
+    "quote": "Referred 8 profile to CommerceIQ current opening for SDE-1 ... Rishabh Singh↗️ (@merishabh_singh). 72 likes 14 replies. Referred 8 profile to CommerceIQ current opening for SDE-1 offering 25-35 LPA 🚀🚀 #referral #connect",
+    "url": "https://x.com/merishabh_singh/status/2042837334610317553",
+    "pass": 3
+   },
+   {
+    "quote": "CommerceIQ: With localized EU expertise and real-time AI ... CommerceIQ: With localized 🇪🇺 EU expertise and real-time AI-driven insights, US brands can diversify revenue, pivot quickly into new markets and secure long-term profitability.",
+    "url": "https://x.com/europawire/status/1952425942145445911",
+    "pass": 3
+   },
+   {
+    "quote": "@CommerceIQ | X The latest posts from @CommerceIQ",
+    "url": "https://x.com/CommerceIQ",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "CommerceIQ - LinkedIn CommerceIQ | 61,400 followers on LinkedIn. Retail Ecommmerce Management Platform | CommerceIQ’s AI-powered digital commerce platform is revolutionizing the way brands sell online. Our unified ...",
+    "url": "https://www.linkedin.com/company/commerceiq/",
+    "pass": 3
+   },
+   {
+    "quote": "CommerceIQ | LinkedIn CommerceIQ’s AI-powered digital commerce platform is revolutionizing the way brands sell online. Our unified ecommerce management solutions empower brands to make smarter, faster decisions through insights that optimize the digital shelf, increase retail media ROI and fuel incremental sales across the world’s largest marketplaces. With a global network of more than 900 retail",
+    "url": "https://in.linkedin.com/company/commerceiq",
+    "pass": 3
+   },
+   {
+    "quote": "CommerceIQ - LinkedIn CommerceIQ | Digital Shelf Optimization: Maximize your sales with optimized content for the digital shelf, compelling brand messaging and verified compliance -- Ecommerce Sales Management ...",
+    "url": "https://www.linkedin.com/products/commerceiq/",
+    "pass": 3
+   },
+   {
+    "quote": "Dipika Chaubey - Strategic HR Leadership, HR AI Tech ...Goutham Bondada - Associate Director @ CommerceIQ ... - LinkedInCommerceIQ: Jobs | LinkedInBoomerang Commerce - LinkedIn Bringing operational excellence to the HR process by redesigning the process. · Experience: CommerceIQ · Education: Visvesvaraya Technological University · Location: Bengaluru · 500+ connections on LinkedIn. View Dipika Cha",
+    "url": "https://in.linkedin.com/in/dipika-chaubey-74741923",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Commerceiq Julia (@CommerceiqJulia) - Facebook Commerceiq Julia is on Facebook. Join Facebook to connect with Commerceiq Julia and others you may know. Facebook gives people the power to share and makes the world more open and connected.",
+    "url": "https://www.facebook.com/CommerceiqJulia/",
+    "pass": 3
+   },
+   {
+    "quote": "Commerceiq Michelle - Facebook Commerceiq Michelle is on Facebook. Join Facebook to connect with Commerceiq Michelle and others you may know. Facebook gives people the power to share and makes the world more open and connected.",
+    "url": "https://www.facebook.com/CommerceiqMichelle/",
+    "pass": 3
+   },
+   {
+    "quote": "Boomerang Commerce | Santa Clara CA - FacebookFilming at ShopTalk Europe for CommerceIQ ... - FacebookCommerceiq Isabella - FacebookAimee Commerceiq - Facebook Jun 4, 2019 · Boomerang Commerce Rebrands as CommerceIQ™ After the Acquisition of its Retail A Jun 9, 2026 · #CommerceIQ #ShopTalkEurope #Barcelona #EventVideography #B2BMarketing 🎥 Filming at ShopTalk Europe for CommerceIQ 🇪🇸 This week I’m",
+    "url": "https://www.facebook.com/boomerangcommerce/",
+    "pass": 3
+   },
+   {
+    "quote": "Filming at ShopTalk Europe for CommerceIQ ... - Facebook Jun 9, 2026 · #CommerceIQ #ShopTalkEurope #Barcelona #EventVideography #B2BMarketing 🎥 Filming at ShopTalk Europe for CommerceIQ 🇪🇸 This week I’m in Barcelona capturing the CommerceIQ team as they connect with retailers, showcase their technology, and demonstrate how data-driven decisions are shaping the future of commerce.",
+    "url": "https://www.facebook.com/blacksproductions/videos/-filming-at-shoptalk-europe-for-commerceiq-this-week-im-in-barcelona-capturing-t/1018634870684821/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.commerceiq.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.commerceiq.ai/industries/consumer-packaged-goods",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.commerceiq.ai/industries/consumer-electronics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.commerceiq.ai/industries/furniture-and-home-goods",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.commerceiq.ai/industries/grocery-gourmet",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.commerceiq.ai/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.commerceiq.ai/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.commerceiq.ai/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.commerceiq.ai/content-optimization",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.commerceiq.ai/copilot-for-amazon",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.commerceiq.ai/digital-shelf-analytics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.commerceiq.ai/retail-media-management",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.commerceiq.ai/industries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.commerceiq.ai/use-case/ai-price-recommendations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.commerceiq.ai/case-studies/pilgrims-pride-leverages-ai-goal-optimizer-to-drive-innovation-and-growth",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.commerceiq.ai/case-studies/egglands-best-cracking-the-code-to-incremental-sales",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.commerceiq.ai/demo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.commerceiq.ai/case-studies/pilgrims-pride-leverages-ai-goal-optimizer-to-drive-innovation-and-growth",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://djijnrz4nj20x.cloudfront.net/67ab6b46d888a5e543dd3dc6/67e6dc119eefef892854016a_contact_logo3.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.firstcvc.jp/global/commerceiq.ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stellagent.ai/ja/insights/commerceiq-newell-ai-content-agent",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unite.ai/ja/himanshu-jain-co-founder-and-head-of-products-at-commerceiq-interview-series/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.commerceiq.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/contract/basic/8378/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sidebizz.net/blog/agent/general-agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.commerceiq.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/commerceiq",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.acosta.group/acosta-group-and-commerceiq-alliance-creating-new-standard-in-intelligent-commerce/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.commerceiq.ai/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.commerceiq.ai/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/commerceiq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/commerceiq/case-study/a-data-driven-approach-helped-german-biscuit-brand-bahlsen-drive-category-growth-with-uk-retailers-delivering-a-81-roi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.commerceiq.ai/case-studies/how-commerceiq-drives-hyper-growth-with-global-clients",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/64987-66",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/commerceiq/__lGkXNU8D9DAA8F7r4OBYXezGKjb35G7NS56fQKAykr8",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/commerceiq/e6b118e325k5n1d4u",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.affluense.ai/company/commerceiq-financials-f809b4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/commerceIQ1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/CommerceIQ?f=user",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/merishabh_singh/status/2042837334610317553",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/europawire/status/1952425942145445911",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/commerceiq/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/commerceiq",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/commerceiq/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/dipika-chaubey-74741923",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/CommerceiqJulia/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/CommerceiqMichelle/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/boomerangcommerce/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/blacksproductions/videos/-filming-at-shoptalk-europe-for-commerceiq-this-week-im-in-barcelona-capturing-t/1018634870684821/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/CommerceIQ",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Commerceiq 日本 導入",
+   "results": [
+    "https://www.firstcvc.jp/global/commerceiq.ai",
+    "https://stellagent.ai/ja/insights/commerceiq-newell-ai-content-agent",
+    "https://www.unite.ai/ja/himanshu-jain-co-founder-and-head-of-products-at-commerceiq-interview-series/",
+    "https://www.commerceiq.ai/",
+    "https://www.commerceiq.ai/about-us",
+    "https://newell.commerceiq.ai/",
+    "https://note.com/ai_labo26/n/nb6bdbf2c36a2"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Commerceiq 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.kkhashi.com/blogs/detail/145/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Commerceiq Japan",
+   "results": [
+    "https://www.commerceiq.ai/",
+    "https://jp.linkedin.com/company/commerceiq",
+    "https://www.acosta.group/acosta-group-and-commerceiq-alliance-creating-new-standard-in-intelligent-commerce/",
+    "https://www.commerceiq.ai/careers",
+    "https://newell.commerceiq.ai/",
+    "https://uni.commerceiq.ai/login",
+    "https://nielseniq.com/global/en/insights/report/2026/commerce-trends-intelligence/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Commerceiq manufacturing customer case study",
+   "results": [
+    "https://www.commerceiq.ai/case-studies",
+    "https://www.casestudies.com/company/commerceiq",
+    "https://www.casestudies.com/company/commerceiq/case-study/a-data-driven-approach-helped-german-biscuit-brand-bahlsen-drive-category-growth-with-uk-retailers-delivering-a-81-roi",
+    "https://www.commerceiq.ai/case-studies/how-commerceiq-drives-hyper-growth-with-global-clients",
+    "https://www.demandgenreport.com/case-studies/commerceiq-helps-newell-brands-automate-product-content-workflows/54182/",
+    "https://www.featuredcustomers.com/vendor/commerceiq/case-studies",
+    "https://www.5wpr.com/practice/CommerceIQ.cfm"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Commerceiq white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://partners.spectrum.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.iqreseller.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Commerceiq founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/64987-66",
+    "https://tracxn.com/d/companies/commerceiq/__lGkXNU8D9DAA8F7r4OBYXezGKjb35G7NS56fQKAykr8",
+    "https://www.thecompanycheck.com/company/b/commerceiq/e6b118e325k5n1d4u",
+    "https://www.affluense.ai/company/commerceiq-financials-f809b4",
+    "https://6figr.com/company/commerceiq",
+    "https://getlatka.com/companies/commerceiq",
+    "https://compworth.com/company/commerceiq"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Commerceiq",
+   "results": [
+    "https://note.com/kentabright/n/nb116f899a6ac",
+    "https://note.com/glossy_pika3109/n/n85e1eafab62a",
+    "https://note.com/kaa_kun_/n/n0c3b5a994b74",
+    "https://note.com/assolato25253/n/n8c42ab9df9a9",
+    "https://note.com/ogikubo/n/nf616c0b6685a",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/yumu25/n/n23dc11607eda"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Commerceiq",
+   "results": [
+    "https://x.com/commerceIQ1",
+    "https://x.com/hashtag/CommerceIQ?f=user",
+    "https://x.com/merishabh_singh/status/2042837334610317553",
+    "https://x.com/europawire/status/1952425942145445911",
+    "https://x.com/gregkihlstrom/status/2113684586701922535",
+    "https://x.com/gethyr_app/status/2118576494532513884",
+    "https://x.com/AnkitStivastava"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Commerceiq",
+   "results": [
+    "https://www.linkedin.com/company/commerceiq/",
+    "https://in.linkedin.com/company/commerceiq",
+    "https://www.linkedin.com/products/commerceiq/",
+    "https://in.linkedin.com/in/dipika-chaubey-74741923",
+    "https://uk.linkedin.com/in/gouthamnaidubondada",
+    "https://www.linkedin.com/company/commerceiq/jobs/",
+    "https://www.linkedin.com/company/boomerang-commerce"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Commerceiq",
+   "results": [
+    "https://www.facebook.com/CommerceiqJulia/",
+    "https://www.facebook.com/CommerceiqMichelle/",
+    "https://www.facebook.com/boomerangcommerce/",
+    "https://www.facebook.com/blacksproductions/videos/-filming-at-shoptalk-europe-for-commerceiq-this-week-im-in-barcelona-capturing-t/1018634870684821/",
+    "https://www.facebook.com/CommerceiqIsabella/",
+    "https://www.facebook.com/commerceiqAimme/",
+    "https://developers.secure.facebook.com/documentation/ads-commerce/commerce-platform/api-setup"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Commerceiq note 社長",
+   "results": [
+    "https://www.commerceiq.ai/blog/letter-from-the-ceo",
+    "https://www.commerceiq.ai/press-releases/commerceiq-names-rahul-shah-ceo-to-lead-next-phase-of-growth",
+    "https://www.einpresswire.com/article/938556373/commerceiq-names-rahul-shah-ceo-to-lead-next-phase-of-growth",
+    "https://agilebrandguide.com/commerceiq-names-rahul-shah-ceo-to-lead-next-phase-of-growth/",
+    "https://www.linkedin.com/in/gurushyam",
+    "https://www.einnews.com/pr_news/938556373/commerceiq-names-rahul-shah-ceo-to-lead-next-phase-of-growth",
+    "https://in.linkedin.com/in/rajatrath"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Commerceiq X 投稿",
+   "results": [
+    "https://x.com/CommerceIQ",
+    "https://www.commerceiq.ai/",
+    "https://www.commerceiq.ai/content-optimization",
+    "https://x.com:2096/commerceIQ1",
+    "https://uni.commerceiq.ai/login",
+    "https://newell.commerceiq.ai/",
+    "https://note.com/mgane/n/n1c0d7384c8a0"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式18頁／PDF・画像1件／外部37頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式18頁／PDF・画像1件／外部37頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式18頁／PDF・画像1件／外部37頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式18頁／PDF・画像1件／外部37頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式18頁／PDF・画像1件／外部37頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式18頁／PDF・画像1件／外部37頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式18頁／PDF・画像1件／外部37頁・検索12回）"
+ }
+}

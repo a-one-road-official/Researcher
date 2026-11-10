@@ -1,0 +1,1878 @@
+{
+ "name": "Constructor",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-10T18:25:11.429121+00:00",
+ "official_url": "https://constructor.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "3. Seed Round",
+    "value": "19-Oct-2017    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/118047-07",
+    "pass": 3
+   },
+   {
+    "label": "Seed 2",
+    "value": "720,791 $0.000100 $0.08 $1 $1 1x $1 11.73%",
+    "url": "https://pitchbook.com/profiles/company/118047-07",
+    "pass": 3
+   },
+   {
+    "label": "Seed 1",
+    "value": "1,490,002 $0.000100 $0.27 $3.36 $3.36 1x $3.36 19.28%",
+    "url": "https://pitchbook.com/profiles/company/118047-07",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "AI Ecommerce Search and Product Discovery | Constructor",
+    "url": "https://constructor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "All Constructor Products",
+    "url": "https://constructor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn more about the platform driven by a central Commerce Reasoning Engine® that interprets behavior, context, and intent to deliver the right products to the right person, everywhere they shop.",
+    "url": "https://constructor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Product Insights Agent",
+    "url": "https://constructor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Generate and answer personalized product questions that help shoppers buy with confidence",
+    "url": "https://constructor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Help shoppers discover products they didn’t know they needed",
+    "url": "https://constructor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Build dynamic, curated product pages",
+    "url": "https://constructor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Create smart product recommendation experiences that drive shopper engagement",
+    "url": "https://constructor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Create data-driven marketing campaigns across channels including email, SMS, mobile notifications and in-store",
+    "url": "https://constructor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enrich product and category attributes using GenAI to improve discoverability",
+    "url": "https://constructor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Help more shoppers find the right products for them.",
+    "url": "https://constructor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Product discovery technology that’s purpose-built to handle the complex needs of B2B ecommerce.",
+    "url": "https://constructor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Help every shopper fill their basket — faster, smarter, and more profitably.",
+    "url": "https://constructor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Show appealing product results from large, complex catalogs.",
+    "url": "https://constructor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how enterprise brands and retailers use Constructor",
+    "url": "https://constructor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Constructor named a Leader in the Gartner® Magic Quadrant™ for Search & Product Discovery, 2026",
+    "url": "https://constructor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Download the report for an in depth evaluation of 12 Search and Product Discovery vendors from Gartner. Vendors were evaluated across 9 Critical Capabilities and assessed on 4 Use Cases.",
+    "url": "https://constructor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Read Constructor's latest news coverage and press announcements.",
+    "url": "https://constructor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn about the components of Constructor's advanced, AI-powered product discovery suite.",
+    "url": "https://constructor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "With AI in our DNA and by keeping ecommerce as our core focus, we’ve built the best product search and discovery solution specifically for the unique needs of retailers.",
+    "url": "https://constructor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our AI-native platform interprets behavior, context, and intent to deliver high-converting results across every shopper touchpoint.",
+    "url": "https://constructor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enabling every type of product discovery",
+    "url": "https://constructor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Show tailored content at scale in the right location",
+    "url": "https://constructor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Help customers discover new products and solve lingering questions by interacting naturally across your site.",
+    "url": "https://constructor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See our Product Insights Agent",
+    "url": "https://constructor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Hiring Problem Solvers | Constructor",
+    "url": "https://constructor.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "All Constructor Products",
+    "url": "https://constructor.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Learn more about the platform driven by a central Commerce Reasoning Engine® that interprets behavior, context, and intent to deliver the right products to the right person, everywhere they shop.",
+    "url": "https://constructor.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Product Insights Agent",
+    "url": "https://constructor.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Generate and answer personalized product questions that help shoppers buy with confidence",
+    "url": "https://constructor.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Help shoppers discover products they didn’t know they needed",
+    "url": "https://constructor.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Build dynamic, curated product pages",
+    "url": "https://constructor.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Create smart product recommendation experiences that drive shopper engagement",
+    "url": "https://constructor.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Create data-driven marketing campaigns across channels including email, SMS, mobile notifications and in-store",
+    "url": "https://constructor.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Enrich product and category attributes using GenAI to improve discoverability",
+    "url": "https://constructor.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Help more shoppers find the right products for them.",
+    "url": "https://constructor.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Product discovery technology that’s purpose-built to handle the complex needs of B2B ecommerce.",
+    "url": "https://constructor.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Help every shopper fill their basket — faster, smarter, and more profitably.",
+    "url": "https://constructor.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Show appealing product results from large, complex catalogs.",
+    "url": "https://constructor.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how enterprise brands and retailers use Constructor",
+    "url": "https://constructor.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Constructor named a Leader in the Gartner® Magic Quadrant™ for Search & Product Discovery, 2026",
+    "url": "https://constructor.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Download the report for an in depth evaluation of 12 Search and Product Discovery vendors from Gartner. Vendors were evaluated across 9 Critical Capabilities and assessed on 4 Use Cases.",
+    "url": "https://constructor.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Read Constructor's latest news coverage and press announcements.",
+    "url": "https://constructor.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Learn about the components of Constructor's advanced, AI-powered product discovery suite.",
+    "url": "https://constructor.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "With AI in our DNA and by keeping ecommerce as our core focus, we’ve built the best product search and discovery solution specifically for the unique needs of retailers.",
+    "url": "https://constructor.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Build the Future of Product Search and Discovery With Us",
+    "url": "https://constructor.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Constructor is building the next generation of search solutions. We are passionate about helping ecommerce and media site owners give their customers a better way to find products more quickly, more easily, and more intuitively.",
+    "url": "https://constructor.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "“Constructor provided plenty of room for me to grow in the engineering management space while ensuring that I had the support I needed.”",
+    "url": "https://constructor.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "“Working at Constructor is a true partnership between an incredibly talented team of developers and designers working hand-in-hand with sales, marketing, and customer success.”",
+    "url": "https://constructor.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Our benefits package provides comprehensive support as you navigate day-to-day life and plan for your future.",
+    "url": "https://constructor.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "All Constructor Products",
+    "url": "https://constructor.com/webinars",
+    "pass": 1
+   },
+   {
+    "quote": "Learn more about the platform driven by a central Commerce Reasoning Engine® that interprets behavior, context, and intent to deliver the right products to the right person, everywhere they shop.",
+    "url": "https://constructor.com/webinars",
+    "pass": 1
+   },
+   {
+    "quote": "Product Insights Agent",
+    "url": "https://constructor.com/webinars",
+    "pass": 1
+   },
+   {
+    "quote": "Generate and answer personalized product questions that help shoppers buy with confidence",
+    "url": "https://constructor.com/webinars",
+    "pass": 1
+   },
+   {
+    "quote": "Help shoppers discover products they didn’t know they needed",
+    "url": "https://constructor.com/webinars",
+    "pass": 1
+   },
+   {
+    "quote": "Build dynamic, curated product pages",
+    "url": "https://constructor.com/webinars",
+    "pass": 1
+   },
+   {
+    "quote": "Create smart product recommendation experiences that drive shopper engagement",
+    "url": "https://constructor.com/webinars",
+    "pass": 1
+   },
+   {
+    "quote": "Create data-driven marketing campaigns across channels including email, SMS, mobile notifications and in-store",
+    "url": "https://constructor.com/webinars",
+    "pass": 1
+   },
+   {
+    "quote": "Enrich product and category attributes using GenAI to improve discoverability",
+    "url": "https://constructor.com/webinars",
+    "pass": 1
+   },
+   {
+    "quote": "Help more shoppers find the right products for them.",
+    "url": "https://constructor.com/webinars",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Uncover lost revenue opportunities",
+    "url": "https://constructor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Be Part of a Team of Experts",
+    "url": "https://constructor.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Email our Talent Acquisition team! We may have a perfect fit for you.",
+    "url": "https://constructor.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Uncover lost revenue opportunities with a complimentary Search Experience Audit.",
+    "url": "https://constructor.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "AI shopping agents are moving from test projects to driving measurable revenue for leading ecommerce retailers. Hear directly from peers how they put agents to work, which use cases they picked first, how they’re measuring impact, and what they’d do differently today.",
+    "url": "https://constructor.com/webinars",
+    "pass": 1
+   },
+   {
+    "quote": "Uncover lost revenue opportunities with a complimentary Search Experience Audit.",
+    "url": "https://constructor.com/webinars",
+    "pass": 1
+   },
+   {
+    "quote": "With our combined ecommerce expertise, we help you achieve greater results, faster, whether that’s boosting conversions, revenue, or ROI.",
+    "url": "https://constructor.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Headquartered in San Francisco and Dublin, the company aims to increase the GDP of the internet.",
+    "url": "https://constructor.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "SCAYLE is an enterprise commerce platform empowering B2C brands and retailers to easily create outstanding customer experiences. It provides an intuitive, seamless feature set, which can be flexibly extended via API. Brands like Levi’s®, Harrods, Manchester United, Deichmann, Fielmann, and s.Oliver choose SCAYLE to accelerate innovations and drive growth.",
+    "url": "https://constructor.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Tapcart is a leading mobile commerce platform that helps retailers quickly build and launch branded mobile apps without coding. By connecting directly to e-commerce platforms like Shopify, Tapcart enables merchants to deliver seamless, personalized mobile shopping experiences, drive engagement, increase conversions, and grow revenue through mobile-first commerce.",
+    "url": "https://constructor.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Uncover lost revenue opportunities",
+    "url": "https://constructor.com/product",
+    "pass": 1
+   },
+   {
+    "quote": "Constructor's AI Shopping Agent is purpose-built to increase revenue for enterprise ecommerce by giving shoppers an engaging, human-like experience that helps them explore new items they want to purchase.",
+    "url": "https://constructor.com/solutions/ai-shopping-agent",
+    "pass": 1
+   },
+   {
+    "quote": "AI shopping agents are moving from test projects to measurable revenue. Hear how four retail leaders picked their first use cases and proved impact.",
+    "url": "https://constructor.com/solutions/ai-shopping-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Our powerful AI Shopping Agent is part of Constructor’s holistic suite of products that were purpose-built from the ground up to drive more revenue for enterprise ecommerce.",
+    "url": "https://constructor.com/solutions/ai-shopping-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Generate customer-first, AI-powered ecommerce search results that increase critical revenue metrics.",
+    "url": "https://constructor.com/solutions/ai-shopping-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Drive more revenue and build stronger relationships based on information your customers want you to know.",
+    "url": "https://constructor.com/solutions/ai-shopping-agent",
+    "pass": 1
+   },
+   {
+    "quote": "in a matter of weeks. During this data-driven, low-risk pilot program, our team uses your real customer behavior data, runs tests, and shares transparent results so you can see the tangible ROI — in revenue, conversions, and improved customer engagement — before making a commitment. If satisfactory, we can have ASA officially live on your site and mobile app soon after.",
+    "url": "https://constructor.com/solutions/ai-shopping-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Customers using Constructor’s AI Shopping Agent reap valuable insights and meaningful lifts in conversions, revenue, and other ecommerce-specific metrics because of the AI tool's advanced capabilities under the hood. In the case of",
+    "url": "https://constructor.com/solutions/ai-shopping-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Are you leaving revenue on the table where agentic AI could be improving product discovery, shopper confidence, and conversions? Constructor’s team of AI and ecommerce experts will analyze your site and pinpoint specific opportunity areas — with no obligation.",
+    "url": "https://constructor.com/solutions/ai-shopping-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Remove Doubt to Boost Revenue, Lower Returns & Lift AOV",
+    "url": "https://constructor.com/solutions/product-insights-agent",
+    "pass": 1
+   },
+   {
+    "quote": "AI shopping agents are moving from test projects to measurable revenue. Hear how four retail leaders picked their first use cases and proved impact.",
+    "url": "https://constructor.com/solutions/product-insights-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Our powerful AI agent is part of Constructor’s holistic suite of products that were purpose-built from the ground up to drive more revenue for enterprise ecommerce.",
+    "url": "https://constructor.com/solutions/product-insights-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Generate customer-first, AI-powered ecommerce search results that increase critical revenue metrics.",
+    "url": "https://constructor.com/solutions/product-insights-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Drive more revenue and build stronger relationships based on information your customers want you to know.",
+    "url": "https://constructor.com/solutions/product-insights-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. PIA not only generates insights at the right time for the right person during the PDP experience, but it also forms a part of Constructor’s broader suite (AI Shopping Agent, Search, Browse, Recommendations, Collections, etc.). Data insights gleaned from the agent feed inform Constructor’s reasoning engine, which influences personalization across the site —",
+    "url": "https://constructor.com/solutions/product-insights-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Are you leaving revenue on the table where agentic AI could be improving product discovery, shopper confidence, and conversions? Constructor’s team of AI and ecommerce experts will analyze your site and pinpoint specific opportunity areas — with no obligation.",
+    "url": "https://constructor.com/solutions/product-insights-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Offer robust filtering options and faceted search capabilities that allows users to narrow down results based on various attributes, leading to quicker and easier product findability.",
+    "url": "https://constructor.com/solutions/search",
+    "pass": 1
+   },
+   {
+    "quote": "Run fast, data-driven experiments to improve product offerings and search functionalities​, increasing conversion rates and time to revenue.",
+    "url": "https://constructor.com/solutions/search",
+    "pass": 1
+   },
+   {
+    "quote": "Our powerful Search solution is part of Constructor’s holistic suite of products that were purpose-built from the ground up to drive more revenue for enterprise ecommerce.",
+    "url": "https://constructor.com/solutions/search",
+    "pass": 1
+   },
+   {
+    "quote": "Generate customer-first, AI-powered ecommerce search results that increase critical revenue metrics.",
+    "url": "https://constructor.com/solutions/search",
+    "pass": 1
+   },
+   {
+    "quote": "Drive more revenue and build stronger relationships based on information your customers want you to know.",
+    "url": "https://constructor.com/solutions/search",
+    "pass": 1
+   },
+   {
+    "quote": "with multiple ecommerce platforms to instantly sync your product catalog and deliver on-site and off-site personalization that scales to boost conversions and revenue.",
+    "url": "https://constructor.com/solutions/search",
+    "pass": 1
+   },
+   {
+    "quote": "Uncover lost revenue opportunities with a complimentary Search Experience Audit.",
+    "url": "https://constructor.com/solutions/search",
+    "pass": 1
+   },
+   {
+    "quote": "Our powerful Browse solution is part of Constructor’s holistic suite of products that were purpose-built from the ground up to drive more revenue for enterprise ecommerce.",
+    "url": "https://constructor.com/solutions/browse",
+    "pass": 1
+   },
+   {
+    "quote": "Generate customer-first, AI-powered ecommerce search results that increase critical revenue metrics.",
+    "url": "https://constructor.com/solutions/browse",
+    "pass": 1
+   },
+   {
+    "quote": "Drive more revenue and build stronger relationships based on information your customers want you to know.",
+    "url": "https://constructor.com/solutions/browse",
+    "pass": 1
+   },
+   {
+    "quote": "Personalized ecommerce category pages provide value for both customers and brands alike. By surfacing the right product results at the right time — including from trending and popular categories — Browse can help improve product visibility, thus increasing conversion rate, revenue per visit (RPV), average order value (AOV), and overall sales while boosting customer engagement.",
+    "url": "https://constructor.com/solutions/browse",
+    "pass": 1
+   },
+   {
+    "quote": "Uncover lost revenue opportunities with a complimentary Search Experience Audit.",
+    "url": "https://constructor.com/solutions/browse",
+    "pass": 1
+   },
+   {
+    "quote": "Use full, verified clickstream data to help shoppers discover products they didn’t know they needed, all while boosting revenue and building brand loyalty — thanks to Constructor’s product recommendations engine.",
+    "url": "https://constructor.com/solutions/recommendations",
+    "pass": 1
+   },
+   {
+    "quote": "Our powerful Recommendations solution is part of Constructor’s holistic suite of products that were purpose-built from the ground up to drive more revenue for enterprise ecommerce.",
+    "url": "https://constructor.com/solutions/recommendations",
+    "pass": 1
+   },
+   {
+    "quote": "Generate customer-first, AI-powered ecommerce search results that increase critical revenue metrics.",
+    "url": "https://constructor.com/solutions/recommendations",
+    "pass": 1
+   },
+   {
+    "quote": "Drive more revenue and build stronger relationships based on information your customers want you to know.",
+    "url": "https://constructor.com/solutions/recommendations",
+    "pass": 1
+   },
+   {
+    "quote": "By showing customers the right product at the right time across their entire product discovery journey, you significantly enhance the user experience, leading to improved customer satisfaction and loyalty. The right product suggestions also tangibly affect business KPIs, boosting average order value and cross-selling opportunities alongside site revenue.",
+    "url": "https://constructor.com/solutions/recommendations",
+    "pass": 1
+   },
+   {
+    "quote": "Recommendations is part of Constructor’s integrated suite, and it shares signals across products. In practice, that means learnings from recommendations can inform search and browse rankings, and vice versa. The site experience gets more consistent as the reinforcement learning loop collects more full, verified clickstream data.",
+    "url": "https://constructor.com/solutions/recommendations",
+    "pass": 1
+   },
+   {
+    "quote": "with multiple ecommerce platforms to instantly sync your product catalog and deliver on-site and off-site product recommendations at scale, boosting conversions and revenue.",
+    "url": "https://constructor.com/solutions/recommendations",
+    "pass": 1
+   },
+   {
+    "quote": "Uncover lost revenue opportunities with a complimentary Search Experience Audit.",
+    "url": "https://constructor.com/solutions/recommendations",
+    "pass": 1
+   },
+   {
+    "quote": "Finally, a Retail Media platform that unlocks paid revenue without sacrificing your customer experience",
+    "url": "https://constructor.com/solutions/retail-media",
+    "pass": 1
+   },
+   {
+    "quote": "Balance retail media advertising with organic revenue to increase total revenue",
+    "url": "https://constructor.com/solutions/retail-media",
+    "pass": 1
+   },
+   {
+    "quote": "Separate profiles for retailers and advertisers within a shared dashboard enable both parties to manage listings, campaigns, and bids in real time. This includes performance metrics like spend, cost per click (CPC), clicks, revenue, and return on ad spend (ROAS)",
+    "url": "https://constructor.com/solutions/retail-media",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how to unlock new revenue streams or enhance your existing retail media setup.",
+    "url": "https://constructor.com/solutions/retail-media",
+    "pass": 1
+   },
+   {
+    "quote": "Best practices for optimizing revenue while maintaining a strong shopper experience",
+    "url": "https://constructor.com/solutions/retail-media",
+    "pass": 1
+   },
+   {
+    "quote": "The Retail Media Suite is part of Constructor's holistic suite of products that were purpose-built from the ground up to drive more revenue for enterprise ecommerce.",
+    "url": "https://constructor.com/solutions/retail-media",
+    "pass": 1
+   },
+   {
+    "quote": "Generate customer-first, AI-powered ecommerce search results that increase critical revenue metrics.",
+    "url": "https://constructor.com/solutions/retail-media",
+    "pass": 1
+   },
+   {
+    "quote": "Drive more revenue and build stronger relationships based on information your customers want you to know.",
+    "url": "https://constructor.com/solutions/retail-media",
+    "pass": 1
+   },
+   {
+    "quote": "Retailers and leading brands can track performance metrics such as impressions, clicks, conversion rate, revenue, and ROAS. Because retail media is integrated into discovery, measurement is closed-loop and tied directly to real purchase outcomes.",
+    "url": "https://constructor.com/solutions/retail-media",
+    "pass": 1
+   },
+   {
+    "quote": "If you already use a Retail Media Network (RMN), there’s no need to rip-and-replace to get the benefits of personalization, speed, user experience, and optimization of additional revenue streams. Constructor streamlines mediation by calculating the best organic results and optionally queries its own RMN, an external RMN, or both.",
+    "url": "https://constructor.com/solutions/retail-media",
+    "pass": 1
+   },
+   {
+    "quote": "Constructor’s purpose-built AI optimizes your collection pages by aligning shopper preferences with your most important metrics. Deliver curated, user-friendly product pages that increase conversions and revenue, no matter your vertical and product categories.",
+    "url": "https://constructor.com/solutions/collections",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how our AI technology complements your own merchandising expertise to save hours of time and drive revenue.",
+    "url": "https://constructor.com/solutions/collections",
+    "pass": 1
+   },
+   {
+    "quote": "Our powerful Collections solution is part of Constructor’s holistic suite of products that were purpose-built from the ground up to drive more revenue for enterprise ecommerce.",
+    "url": "https://constructor.com/solutions/collections",
+    "pass": 1
+   },
+   {
+    "quote": "Generate customer-first, AI-powered ecommerce search results that increase critical revenue metrics.",
+    "url": "https://constructor.com/solutions/collections",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Create data-driven marketing campaigns across channels including email, SMS, mobile notifications and in-store",
+    "url": "https://constructor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Email & Mobile Recommendations",
+    "url": "https://constructor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Get a custom brief of how product discovery can improve on your site. Emailed directly to you.",
+    "url": "https://constructor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Create data-driven marketing campaigns across channels including email, SMS, mobile notifications and in-store",
+    "url": "https://constructor.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Email our Talent Acquisition team! We may have a perfect fit for you.",
+    "url": "https://constructor.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Create data-driven marketing campaigns across channels including email, SMS, mobile notifications and in-store",
+    "url": "https://constructor.com/webinars",
+    "pass": 1
+   },
+   {
+    "quote": "Create data-driven marketing campaigns across channels including email, SMS, mobile notifications and in-store",
+    "url": "https://constructor.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Create data-driven marketing campaigns across channels including email, SMS, mobile notifications and in-store",
+    "url": "https://constructor.com/product",
+    "pass": 1
+   },
+   {
+    "quote": "Email & Mobile Recommendations",
+    "url": "https://constructor.com/product",
+    "pass": 1
+   },
+   {
+    "quote": "Leverages shared intelligence across channels like website, email, SMS, and agents",
+    "url": "https://constructor.com/product",
+    "pass": 1
+   },
+   {
+    "quote": "Get a custom brief of how product discovery can improve on your site. Emailed directly to you.",
+    "url": "https://constructor.com/product",
+    "pass": 1
+   },
+   {
+    "quote": "Create data-driven marketing campaigns across channels including email, SMS, mobile notifications and in-store",
+    "url": "https://constructor.com/solutions/ai-shopping-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Create data-driven marketing campaigns across channels including email, SMS, mobile notifications and in-store",
+    "url": "https://constructor.com/solutions/product-insights-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Create data-driven marketing campaigns across channels including email, SMS, mobile notifications and in-store",
+    "url": "https://constructor.com/solutions/search",
+    "pass": 1
+   },
+   {
+    "quote": "Create data-driven marketing campaigns across channels including email, SMS, mobile notifications and in-store",
+    "url": "https://constructor.com/solutions/browse",
+    "pass": 1
+   },
+   {
+    "quote": "Create data-driven marketing campaigns across channels including email, SMS, mobile notifications and in-store",
+    "url": "https://constructor.com/solutions/recommendations",
+    "pass": 1
+   },
+   {
+    "quote": "Create data-driven marketing campaigns across channels including email, SMS, mobile notifications and in-store",
+    "url": "https://constructor.com/solutions/retail-media",
+    "pass": 1
+   },
+   {
+    "quote": "Create data-driven marketing campaigns across channels including email, SMS, mobile notifications and in-store",
+    "url": "https://constructor.com/solutions/collections",
+    "pass": 1
+   },
+   {
+    "quote": "Easily design themed pages that aren’t limited by your product hierarchy for your website, email marketing campaigns, and more",
+    "url": "https://constructor.com/solutions/collections",
+    "pass": 1
+   },
+   {
+    "quote": "Make campaign management simple across ads, social, and email platforms",
+    "url": "https://constructor.com/solutions/collections",
+    "pass": 1
+   },
+   {
+    "quote": "Encourage offsite discovery by using the full merchandising suite of tools to personalize collections for email marketing and other campaigns",
+    "url": "https://constructor.com/solutions/collections",
+    "pass": 1
+   },
+   {
+    "quote": "Create data-driven marketing campaigns across channels including email, SMS, mobile notifications and in-store",
+    "url": "https://constructor.com/solutions/quizzes",
+    "pass": 1
+   },
+   {
+    "quote": "Feed cross-channel marketing strategies, such as lead capture by asking for an email address at the end of the quiz",
+    "url": "https://constructor.com/solutions/quizzes",
+    "pass": 1
+   },
+   {
+    "quote": ", like Email Recommendations",
+    "url": "https://constructor.com/solutions/quizzes",
+    "pass": 1
+   },
+   {
+    "quote": "Create data-driven marketing campaigns across channels including email, SMS, mobile notifications and in-store",
+    "url": "https://constructor.com/solutions/cross-channel-and-offsite-discovery",
+    "pass": 1
+   },
+   {
+    "quote": "Email Recommendations",
+    "url": "https://constructor.com/solutions/cross-channel-and-offsite-discovery",
+    "pass": 1
+   },
+   {
+    "quote": "Turn routine emails into dynamic, 1:1 experiences that convert",
+    "url": "https://constructor.com/solutions/cross-channel-and-offsite-discovery",
+    "pass": 1
+   },
+   {
+    "quote": "Show tailored content at scale, from product recommendations for transactional emails to promotional campaigns (all personalized without manual effort)",
+    "url": "https://constructor.com/solutions/cross-channel-and-offsite-discovery",
+    "pass": 1
+   },
+   {
+    "quote": "Reinforce brand recognition and trust through consistent exposure across channels (i.e., cohesive messaging from email to social media to display ads)",
+    "url": "https://constructor.com/solutions/cross-channel-and-offsite-discovery",
+    "pass": 1
+   },
+   {
+    "quote": "Provide a consistent, personalized experience across touchpoints (i.e., email, push, and ads), giving shoppers the freedom to act on the channel they prefer",
+    "url": "https://constructor.com/solutions/cross-channel-and-offsite-discovery",
+    "pass": 1
+   },
+   {
+    "quote": "Create data-driven marketing campaigns across channels including email, SMS, mobile notifications and in-store",
+    "url": "https://constructor.com/solutions/merchant-intelligence-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Create data-driven marketing campaigns across channels including email, SMS, mobile notifications and in-store",
+    "url": "https://constructor.com/solutions/product-data-enrichment",
+    "pass": 1
+   },
+   {
+    "quote": "Create data-driven marketing campaigns across channels including email, SMS, mobile notifications and in-store",
+    "url": "https://constructor.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Create data-driven marketing campaigns across channels including email, SMS, mobile notifications and in-store",
+    "url": "https://constructor.com/wall-of-love",
+    "pass": 1
+   },
+   {
+    "quote": "Get a custom brief of how product discovery can improve on your site. Emailed directly to you.",
+    "url": "https://constructor.com/wall-of-love",
+    "pass": 1
+   },
+   {
+    "quote": "Create data-driven marketing campaigns across channels including email, SMS, mobile notifications and in-store",
+    "url": "https://constructor.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Create data-driven marketing campaigns across channels including email, SMS, mobile notifications and in-store",
+    "url": "https://constructor.com/customers/belk-constructor",
+    "pass": 1
+   },
+   {
+    "quote": "B2B email lists",
+    "url": "https://growjo.com/company/Constructor.io",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Email Finder",
+    "url": "https://growjo.com/company/Constructor.io",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/118047-07",
+    "pass": 3
+   },
+   {
+    "quote": "[Information on Free Email Newsletter]",
+    "url": "https://note.com/0karakouzou/n/n62bcbcc45bf1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Apart from the note articles, I am distributing a free email newsletter titled \"Easy Talks on Architectural Structure and the Architect Examination (Structure) for Beginners.\"",
+    "url": "https://note.com/0karakouzou/n/n62bcbcc45bf1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "will be delivered to your email twice a week.",
+    "url": "https://note.com/0karakouzou/n/n62bcbcc45bf1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "You can register simply by entering your email address in the form below and sending it. Registration is free, and of course, you can unsubscribe at any time.",
+    "url": "https://note.com/0karakouzou/n/n62bcbcc45bf1?hl=en",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "VTEX gives brands, retailers, and manufacturers the freedom they need to innovate, test, and grow without the burden of complexity. Discover how our composable and complete platform transforms IT investments into strategic assets and enhances your commerce strategy.",
+    "url": "https://constructor.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "in a matter of weeks. During this data-driven, low-risk pilot program, our team uses your real customer behavior data, runs tests, and shares transparent results so you can see the tangible ROI — in revenue, conversions, and improved customer engagement — before making a commitment. If satisfactory, we can have ASA officially live on your site and mobile app soon after.",
+    "url": "https://constructor.com/solutions/ai-shopping-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Absolutely. The agent scales for complex catalogs, detailed product specs, and long decision cycles — making it well suited for both B2B distributors and manufacturers. On the B2C side, retailers enjoy the benefits of an always-on virtual assistant that is forever answering questions and surfacing best-fit products despite ever-changing customer behaviors and preferences.",
+    "url": "https://constructor.com/solutions/ai-shopping-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Eliminate the headaches caused by incomplete, inaccurate, or non-existent ecommerce product data. Constructor’s Attribute Enrichment solution automates manual tasks by augmenting existing attributes and creating entirely new ones. Discover how AI-powered product data enrichment improves conversions and frees your merchandisers to focus on more strategic work.",
+    "url": "https://constructor.com/solutions/product-data-enrichment",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Tools & Supplies",
+    "url": "https://constructor.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "“It’s a four-way partnership where everyone plays to their strength. We own the commerce platform, Constructor owns the intelligence layer, and Form Factory owns the delivery. Ultimately, Nishant and Chubbies get the strongest option at each layer instead of one vendor stretched too thin.”",
+    "url": "https://constructor.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Cromwell is one of the UK's largest suppliers of industrial tools, maintenance supplies, and services for businesses.",
+    "url": "https://constructor.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "“It’s a four-way partnership where everyone plays to their strength. We own the commerce platform, Constructor owns the intelligence layer, and Form Factory owns the delivery. Ultimately, Nishant and",
+    "url": "https://constructor.com/wall-of-love",
+    "pass": 1
+   },
+   {
+    "quote": "We're hiring! Come work with smart people. You’ll build products used by millions of people and sell to some of the largest companies in the world.",
+    "url": "https://constructor.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Share this case study",
+    "url": "https://constructor.com/customers/belk-constructor",
+    "pass": 1
+   },
+   {
+    "quote": "Sportscar manufacturer",
+    "url": "https://en.wikipedia.org/wiki/Dome_(constructor)",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese racing car manufacturer",
+    "url": "https://en.wikipedia.org/wiki/Dome_(constructor)",
+    "pass": 3
+   },
+   {
+    "quote": "Minoru Hayashi would also assist his cousin Masakazu Hayashi (of the Hayashi aluminum wheel company) establish his own formula car manufacturing concern. After producing cars for Japan's Formula Junior 1600 category for 10 years, their first Formula 3 car was the Hayashi 803",
+    "url": "https://en.wikipedia.org/wiki/Dome_(constructor)",
+    "pass": 3
+   },
+   {
+    "quote": "for other factory supported teams. They also worked on the aerodynamics on the",
+    "url": "https://en.wikipedia.org/wiki/Dome_(constructor)",
+    "pass": 3
+   },
+   {
+    "quote": "Car manufacturers of Japan",
+    "url": "https://en.wikipedia.org/wiki/Dome_(constructor)",
+    "pass": 3
+   },
+   {
+    "quote": "Khatabook is a Bengaluru-headquartered SaaS platform digitizing accounting for micro, small, and medium enterprises in India. Launched in 2018, it supports ledger management, payments, and invoicing in 11 Indian languages through its Android app used by merchants nationwide. The platform received the Best Innovative Mobile App award at India Digital Awards in 2020.",
+    "url": "https://multiples.vc/private-comps/constructor",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "We love partnering with systems integrators, agencies, and technologies who are passionate about empowering enterprise ecommerce retailers and brands in their digital transformation.",
+    "url": "https://constructor.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Foster trust and confidence in your brand by implementing advanced data protection measures",
+    "url": "https://constructor.com/solutions/ai-shopping-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Vannevar Labs is a Palo Alto-headquartered developer of AI tools including computer vision and natural language processing software for U.S. national security applications such as threat detection and intelligence analysis. Founded in 2019 by former intelligence officers, it supplies products to Department of Defense agencies and holds contracts for open-source intelligence platforms.",
+    "url": "https://multiples.vc/private-comps/constructor",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Constructor Groupの導入事例：Calcularisのコンテンツ | SOMIN",
+    "url": "https://somin.ai/ja/brands-constructor-group-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "ブランド導入事例 · エドテック · 数学学習",
+    "url": "https://somin.ai/ja/brands-constructor-group-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Constructor Groupの導入事例についてのよくある質問",
+    "url": "https://somin.ai/ja/brands-constructor-group-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "リアルタイムの競合・オーディエンスデータを、事前スコアリング済みのプロポジション、ブリーフ、クリエイティブコンセプトに変換し、11以上の市場のブランド、代理店、クリエイタープログラムを支援します",
+    "url": "https://somin.ai/ja/brands-constructor-group-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Grand Touring Championship (JGTC)",
+    "url": "https://en.wikipedia.org/wiki/Dome_(constructor)",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese racing car manufacturer",
+    "url": "https://en.wikipedia.org/wiki/Dome_(constructor)",
+    "pass": 3
+   },
+   {
+    "quote": ", literally \"child's dream\", is a Japanese racing car constructor involved mainly in",
+    "url": "https://en.wikipedia.org/wiki/Dome_(constructor)",
+    "pass": 3
+   },
+   {
+    "quote": "coupe. Belonging to Tojiro Ukiya, it was called the \"Karasu\" (crow in Japanese), due to its shape. Built on a small budget and in a short time, the Karasu emphasized weight reduction and aerodynamics using",
+    "url": "https://en.wikipedia.org/wiki/Dome_(constructor)",
+    "pass": 3
+   },
+   {
+    "quote": ". The car was refused type approval by the Japanese government, however, and was unable to go into production.",
+    "url": "https://en.wikipedia.org/wiki/Dome_(constructor)",
+    "pass": 3
+   },
+   {
+    "quote": "cars to compete in the All Japan Super",
+    "url": "https://en.wikipedia.org/wiki/Dome_(constructor)",
+    "pass": 3
+   },
+   {
+    "quote": "All Japan Sports Prototype Championship",
+    "url": "https://en.wikipedia.org/wiki/Dome_(constructor)",
+    "pass": 3
+   },
+   {
+    "quote": "Minoru Hayashi would also assist his cousin Masakazu Hayashi (of the Hayashi aluminum wheel company) establish his own formula car manufacturing concern. After producing cars for Japan's Formula Junior 1600 category for 10 years, their first Formula 3 car was the Hayashi 803",
+    "url": "https://en.wikipedia.org/wiki/Dome_(constructor)",
+    "pass": 3
+   },
+   {
+    "quote": "All-Japan Formula Three Championship",
+    "url": "https://en.wikipedia.org/wiki/Dome_(constructor)",
+    "pass": 3
+   },
+   {
+    "quote": ". A further development, the 321, saw action briefly in Japan and England. Ono then switched to Dome to work on the sportscar designs, and Hayashi Racing switched to",
+    "url": "https://en.wikipedia.org/wiki/Dome_(constructor)",
+    "pass": 3
+   },
+   {
+    "quote": "chassis to win the Japanese F3 title with Kengo Nakamoto.",
+    "url": "https://en.wikipedia.org/wiki/Dome_(constructor)",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese GT Championship",
+    "url": "https://en.wikipedia.org/wiki/Dome_(constructor)",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Nostalgic Car",
+    "url": "https://en.wikipedia.org/wiki/Dome_(constructor)",
+    "pass": 3
+   },
+   {
+    "quote": "\"World Sports Racing Prototypes - All Japan Grand Touring Championship\"",
+    "url": "https://en.wikipedia.org/wiki/Dome_(constructor)",
+    "pass": 3
+   },
+   {
+    "quote": "Car manufacturers of Japan",
+    "url": "https://en.wikipedia.org/wiki/Dome_(constructor)",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese racecar constructors",
+    "url": "https://en.wikipedia.org/wiki/Dome_(constructor)",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese auto racing teams",
+    "url": "https://en.wikipedia.org/wiki/Dome_(constructor)",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Formula 3 Championship teams",
+    "url": "https://en.wikipedia.org/wiki/Dome_(constructor)",
+    "pass": 3
+   },
+   {
+    "quote": "All-Japan Sports Prototype Championship teams",
+    "url": "https://en.wikipedia.org/wiki/Dome_(constructor)",
+    "pass": 3
+   },
+   {
+    "quote": "Articles containing Japanese-language text",
+    "url": "https://en.wikipedia.org/wiki/Dome_(constructor)",
+    "pass": 3
+   },
+   {
+    "quote": "Articles with Japanese-language sources (ja)",
+    "url": "https://en.wikipedia.org/wiki/Dome_(constructor)",
+    "pass": 3
+   },
+   {
+    "quote": "How to say constructor in Japanese",
+    "url": "https://www.wordhippo.com/what-is/the/japanese-word-for-8a1c1339801686eb9bf9a9ac5b4719b8c8b8fc9b.html",
+    "pass": 3
+   },
+   {
+    "quote": "More Japanese words for constructor",
+    "url": "https://www.wordhippo.com/what-is/the/japanese-word-for-8a1c1339801686eb9bf9a9ac5b4719b8c8b8fc9b.html",
+    "pass": 3
+   },
+   {
+    "quote": "Translate to Japanese",
+    "url": "https://www.wordhippo.com/what-is/the/japanese-word-for-8a1c1339801686eb9bf9a9ac5b4719b8c8b8fc9b.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Constructor Groupの 導入 事例：Calcularisのコンテンツ | SOMIN — Constructor Groupの 導入 事例：Calcularisのコンテンツ | SOMIN SoMin.ai https://somin.ai > ホーム > 導入事例",
+    "url": "https://somin.ai/ja/brands-constructor-group-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Constructor Group、人工知能・量子分野の新グローバル本社 ... — Constructor Group、人工知能・量子分野の新グローバル本社 ... PR Newswire https://www.prnewswire.com > news-releases > constructo...",
+    "url": "https://www.prnewswire.com/jp/news-releases/constructor-group200-302781670.html",
+    "pass": 3
+   },
+   {
+    "quote": "Constructor Groupの導入事例：Calcularisのコンテンツ | SOMIN — Constructor Groupの導入事例：Calcularisのコンテンツ | SOMIN SoMin.ai https://somin.ai > ホーム > 導入事例",
+    "url": "https://somin.ai/ja/brands-constructor-group-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Dome ( constructor ) - Wikipedia — Dome ( constructor ) - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Dom...",
+    "url": "https://en.wikipedia.org/wiki/Dome_(constructor)",
+    "pass": 3
+   },
+   {
+    "quote": "Constructor : AI Ecommerce Search and Product Discovery — Constructor : AI Ecommerce Search and Product Discovery constructor.com https://constructor.com",
+    "url": "https://constructor.com/",
+    "pass": 3
+   },
+   {
+    "quote": "「 constructor 」の意味・使い方・表現・読み方 - 英辞郎 — 「 constructor 」の意味・使い方・表現・読み方 - 英辞郎 英辞郎 https://eow.alc.co.jp > search > q=constructor",
+    "url": "https://eow.alc.co.jp/search?q=constructor",
+    "pass": 3
+   },
+   {
+    "quote": "How to say constructor in Japanese - WordHippo — How to say constructor in Japanese - WordHippo WordHippo https://www.wordhippo.com > what-is > the > japanese-w...",
+    "url": "https://www.wordhippo.com/what-is/the/japanese-word-for-8a1c1339801686eb9bf9a9ac5b4719b8c8b8fc9b.html",
+    "pass": 3
+   },
+   {
+    "quote": "Constructor - LinkedIn — Constructor - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/constructor-io",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Success Stories - Constructor — Customer Success Stories - Constructor constructor.com https://constructor.com > customers",
+    "url": "https://constructor.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Constructor .io Revenue 2024: $65.1M Est., $61.1M Raised — Constructor .io Revenue 2024: $65.1M Est., $61.1M Raised GetLatka https://getlatka.com > constructorio",
+    "url": "https://getlatka.com/companies/constructorio",
+    "pass": 3
+   },
+   {
+    "quote": "Constructor Valuation, Funding & Investors - Multiples.vc — Constructor Valuation, Funding & Investors - Multiples.vc Multiples.vc https://multiples.vc > Companies",
+    "url": "https://multiples.vc/private-comps/constructor",
+    "pass": 3
+   },
+   {
+    "quote": "Constructor .io: Revenue , Competitors, Alternatives - Growjo — Constructor .io: Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > Constructor",
+    "url": "https://growjo.com/company/Constructor.io",
+    "pass": 3
+   },
+   {
+    "quote": "Constructor - Valuation, Funding & Investors - PitchBook — Constructor - Valuation, Funding & Investors - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/118047-07",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "C++ Re-introduction Part 6: Initializing with Constructors - note C++ Re-introduction Part 6: Initializing with Constructors - note note https://note.com > コンピュータ・IT > プログラミング",
+    "url": "https://note.com/kazushinakamura/n/n01a34570a5e4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Structural Designer and Constructor [Architect Examination] Structural Designer and Constructor [Architect Examination] note https://note.com > 教育・学び > 学び・受験",
+    "url": "https://note.com/0karakouzou/n/n62bcbcc45bf1?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "C++ Re-introduction Part 6: Initializing with Constructors｜kzn",
+    "url": "https://note.com/kazushinakamura/n/n01a34570a5e4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "C++ Re-introduction Part 6: Initializing with Constructors",
+    "url": "https://note.com/kazushinakamura/n/n01a34570a5e4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Last time, I explained that C++ has something called a class as a way to handle multiple pieces of data together, similar to a struct. I briefly mentioned that unlike structs, classes can have functions belonging to them, and among those functions, there is a special one called a \"constructor\" that is responsible for initializing the class.",
+    "url": "https://note.com/kazushinakamura/n/n01a34570a5e4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "cout << name << \",\" << price << \",\" << sku << endl;",
+    "url": "https://note.com/kazushinakamura/n/n01a34570a5e4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "When you define a function with the same name as the class like this, it becomes a special class function called a constructor. This function is always called when a variable of this class is created and has no return value.",
+    "url": "https://note.com/kazushinakamura/n/n01a34570a5e4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "product pd; // ここでコンストラクタが呼び出される",
+    "url": "https://note.com/kazushinakamura/n/n01a34570a5e4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "pd.repr(); // コンストラクタで初期化された値を確認する",
+    "url": "https://note.com/kazushinakamura/n/n01a34570a5e4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Confirming that it is initialized by the constructor",
+    "url": "https://note.com/kazushinakamura/n/n01a34570a5e4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Structural Designer and Constructor [Architect Examination]｜ゼロ所長と学ぶ構造力学の世界",
+    "url": "https://note.com/0karakouzou/n/n62bcbcc45bf1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Structural Designer and Constructor [Architect Examination]",
+    "url": "https://note.com/0karakouzou/n/n62bcbcc45bf1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Free Newsletter] Are you struggling with structures for the First-Class Architect exam? ⇒",
+    "url": "https://note.com/0karakouzou/n/n62bcbcc45bf1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Go from struggling with structures to \"understanding\" them! Receive easy explanations of Q&A and calculation problems for free.",
+    "url": "https://note.com/0karakouzou/n/n62bcbcc45bf1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Hello! I am Director Zero.",
+    "url": "https://note.com/0karakouzou/n/n62bcbcc45bf1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Today, I will think about the",
+    "url": "https://note.com/0karakouzou/n/n62bcbcc45bf1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "purpose of ground improvement",
+    "url": "https://note.com/0karakouzou/n/n62bcbcc45bf1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Sometimes questions like this appear on the exam.",
+    "url": "https://note.com/0karakouzou/n/n62bcbcc45bf1?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "# Constructor - Search / X # Constructor - Search / X X https://x.com > Search",
+    "url": "https://x.com/hashtag/Constructor",
+    "pass": 3
+   },
+   {
+    "quote": "Constructor University (@constructor_uni) / X Constructor University (@constructor_uni) / X X https://x.com > constructor_uni",
+    "url": "https://x.com/constructor_uni",
+    "pass": 3
+   },
+   {
+    "quote": "In C++, = default and {} are not the same constructor - @lemire In C++, = default and {} are not the same constructor - @lemire X https://x.com > @lemire",
+    "url": "https://x.com/lemire/status/2117237056124469659",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Constructor - LinkedIn Constructor - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/constructor-io",
+    "pass": 3
+   },
+   {
+    "quote": "Constructor Knowledge - LinkedIn Constructor Knowledge - LinkedIn LinkedIn Schweiz https://ch.linkedin.com > company",
+    "url": "https://ch.linkedin.com/company/constructorknowledge",
+    "pass": 3
+   },
+   {
+    "quote": "Eli Finkelshteyn - Founder and CEO at Constructor - LinkedIn Eli Finkelshteyn - Founder and CEO at Constructor - LinkedIn LinkedIn https://www.linkedin.com > eli-finkel...",
+    "url": "https://www.linkedin.com/in/eli-finkelshteyn",
+    "pass": 3
+   },
+   {
+    "quote": "Dan McCormick - Founder and CISO at Constructor .io - LinkedIn Dan McCormick - Founder and CISO at Constructor .io - LinkedIn LinkedIn https://www.linkedin.com > mccormi...",
+    "url": "https://www.linkedin.com/in/mccormickdaniel",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "javascript constructor function explained - Facebook javascript constructor function explained - Facebook Facebook https://www.facebook.com > ... > Javascript | Facebook",
+    "url": "https://www.facebook.com/groups/JavaScript.Programming/posts/10172138887095343/",
+    "pass": 3
+   },
+   {
+    "quote": "The Constructor - Civil Engineering Home (@TheConstructor) The Constructor - Civil Engineering Home (@TheConstructor) Facebook https://www.facebook.com > ... > Education website",
+    "url": "https://www.facebook.com/TheConstructor/",
+    "pass": 3
+   },
+   {
+    "quote": "Summer Camp 2027 at Constructor University Summer Camp 2027 at Constructor University facebook.com https://www.facebook.com > ads > ig...",
+    "url": "https://www.facebook.com/ads/ig_redirect/?d=Ad_6RbJwdF0lfdG5BeaSqZ4VBeQXzfL_TZPPkv6rVfIQnCtK1lzztJK4eaNjq3PpBw82itFu4g30XgCc5CN3AnBOJzkIEoiOeyQkdqwsIg6WD8aHsoy0YboI-BjIyF4bv6ZlklvNqUCU9e-5TYF8DgMA_NChtJmLGHC3LH7pkEvv7nZXn8AfX5HECIHSS34VgqsJDItILhHTfqLcn320KP3lU-g4Uwh4vFBn95oN4qWTnj4rqKBY-HQSm-ieNNEcnFBb4Es08BezCE-nMuJnBaEzxvS237rcOKxXDcAxHMb_ssTgitsSSMKddeknrKqo-Cxgg3_XrJ1X5dGFREoV0qFVDTcYlcWowsF98RYuBXGfAze7NuSEQKOM4mRG2p31NfNor01_NgKpKI5fQDA8Lf9Fk7sYSOZSbp8iI3ERlfFUqwoZpQA2mGxTBkM3-vMLP2_DOZI1kpF1_fZJ19gmJbfO4Z8dc0RVny-bamesnglm4k9MsYa4zkoSum1JzG_14s0olr1XVXExUcv3C1SvWSeB2t6BVqAVryp7HSBYUcs2tbLiwRX3yf8Peso2T64T9aa8LYIniePCtN7Koo-g2mZM4DddqciAxBD7LrNiKQ_ijFg1d4jiTB6J_pYmQrhGXzb2h-hvtZuMWvAaRDjfbIRGHfmoe3vHxfKLK-NV53HEgQ&a=1&hash=Ad9NWL20WvHfj84oR4E",
+    "pass": 3
+   },
+   {
+    "quote": "Constructor University | Bremen - Facebook Constructor University | Bremen - Facebook Facebook https://www.facebook.com > constructor.university",
+    "url": "https://www.facebook.com/constructor.university/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://constructor.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://constructor.com/about/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://constructor.com/webinars",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://constructor.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://constructor.com/product",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://constructor.com/solutions/ai-shopping-agent",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://constructor.com/solutions/product-insights-agent",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://constructor.com/solutions/search",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://constructor.com/solutions/browse",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://constructor.com/solutions/recommendations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://constructor.com/solutions/retail-media",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://constructor.com/solutions/collections",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://constructor.com/solutions/quizzes",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://constructor.com/solutions/cross-channel-and-offsite-discovery",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://constructor.com/solutions/merchant-intelligence-agent",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://constructor.com/solutions/product-data-enrichment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://constructor.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://constructor.com/wall-of-love",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://constructor.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://constructor.com/customers/belk-constructor",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://constructor.com/hubfs/Website%20-%202024/Logos/Logo-black.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://constructor.com/hubfs/Website%20-%202024/Logos/Logo-white.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://constructor.com/hs-fs/hubfs/Ask%20Phill%20Partners%20Logo.webp?width=1300&height=840&name=Ask%20Phill%20Partners%20Logo.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://constructor.com/hubfs/simone-partners-headshot.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://somin.ai/ja/brands-constructor-group-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stellantis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prnewswire.com/jp/news-releases/constructor-group200-302781670.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://somin.ai/ja/brands-constructor-group-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prnewswire.com/jp/news-releases/constructor-group200-302781670.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bgent.net/plus/article/7044",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Dome_(constructor)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eow.alc.co.jp/search?q=constructor",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.wordhippo.com/what-is/the/japanese-word-for-8a1c1339801686eb9bf9a9ac5b4719b8c8b8fc9b.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.factbird.com/resources/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.automate.org/robotics/case-studies/toolcraft-case-study-the-first-production-line-for",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.totalum.app/blog/white-label-ai-app-builder-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sellful.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.goodbarber.com/blog/7-best-app-builders-for-resellers-and-agencies-a1590/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://simvoly.com/website-reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/constructorio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://multiples.vc/private-comps/constructor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/Constructor.io",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/118047-07",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/kazushinakamura/n/n01a34570a5e4?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/0karakouzou/n/n62bcbcc45bf1?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hashtag/Constructor",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/constructor_uni",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/lemire/status/2117237056124469659",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/constructor-io",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ch.linkedin.com/company/constructorknowledge",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/eli-finkelshteyn",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/mccormickdaniel",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/JavaScript.Programming/posts/10172138887095343/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TheConstructor/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ads/ig_redirect/?d=Ad_6RbJwdF0lfdG5BeaSqZ4VBeQXzfL_TZPPkv6rVfIQnCtK1lzztJK4eaNjq3PpBw82itFu4g30XgCc5CN3AnBOJzkIEoiOeyQkdqwsIg6WD8aHsoy0YboI-BjIyF4bv6ZlklvNqUCU9e-5TYF8DgMA_NChtJmLGHC3LH7pkEvv7nZXn8AfX5HECIHSS34VgqsJDItILhHTfqLcn320KP3lU-g4Uwh4vFBn95oN4qWTnj4rqKBY-HQSm-ieNNEcnFBb4Es08BezCE-nMuJnBaEzxvS237rcOKxXDcAxHMb_ssTgitsSSMKddeknrKqo-Cxgg3_XrJ1X5dGFREoV0qFVDTcYlcWowsF98RYuBXGfAze7NuSEQKOM4mRG2p31NfNor01_NgKpKI5fQDA8Lf9Fk7sYSOZSbp8iI3ERlfFUqwoZpQA2mGxTBkM3-vMLP2_DOZI1kpF1_fZJ19gmJbfO4Z8dc0RVny-bamesnglm4k9MsYa4zkoSum1JzG_14s0olr1XVXExUcv3C1SvWSeB2t6BVqAVryp7HSBYUcs2tbLiwRX3yf8Peso2T64T9aa8LYIniePCtN7Koo-g2mZM4DddqciAxBD7LrNiKQ_ijFg1d4jiTB6J_pYmQrhGXzb2h-hvtZuMWvAaRDjfbIRGHfmoe3vHxfKLK-NV53HEgQ&a=1&hash=Ad9NWL20WvHfj84oR4E",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/constructor.university/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/Constructor",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Constructor 日本 導入",
+   "results": [
+    "https://somin.ai/ja/brands-constructor-group-case-study/",
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://www.stellantis.jp/",
+    "https://www.prnewswire.com/jp/news-releases/constructor-group200-302781670.html",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://aipicks.jp/tool/constructor-io",
+    "https://www.capterra.jp/software/207058/constructor-proctor",
+    "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "https://ja.wikipedia.org/wiki/コンストラクタ",
+    "https://jp.fashionnetwork.com/news/Constructor-ecのマーチャンダイジング向けに-即時のインサイトと迅速なアクション-を実現するmerchant-intelligence-agentを発表,1818584.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Constructor 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://somin.ai/ja/brands-constructor-group-case-study/",
+    "https://www.prnewswire.com/jp/news-releases/constructor-group200-302781670.html",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://www.bgent.net/plus/article/7044",
+    "http://www.msquare.org/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://dairitenboshu.com/",
+    "https://www.digima-japan.com/knowhow/world/19787.php",
+    "https://www.deex.co.jp/media/8uGKOPAJ",
+    "https://kathalo.com/kathalog/import-business/1027/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Constructor Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Dome_(constructor)",
+    "https://constructor.com/",
+    "https://eow.alc.co.jp/search?q=constructor",
+    "https://www.wordhippo.com/what-is/the/japanese-word-for-8a1c1339801686eb9bf9a9ac5b4719b8c8b8fc9b.html",
+    "https://www.linkedin.com/company/constructor-io",
+    "https://constructor.university/programs/undergraduate-education/industrial-engineering-management",
+    "https://www.japan-build.jp/hub/en-gb.html",
+    "https://www.prnewswire.com/jp/news-releases/constructor-group200-302781670.html",
+    "https://www.shimz.co.jp/en/",
+    "https://www.mordorintelligence.com/industry-reports/japan-construction-market/companies"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Constructor manufacturing customer case study",
+   "results": [
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://constructor.com/customers",
+    "https://www.factbird.com/resources/case-studies",
+    "https://www.automate.org/robotics/case-studies/toolcraft-case-study-the-first-production-line-for",
+    "https://www.manufacturingsuccess.org/case-studies",
+    "https://autodeskinc.gcs-web.com/customer-case-studies",
+    "https://goto.webcasts.com/starthere.jsp?ei=1771883&tp_key=fba0110da7",
+    "https://construction.autodesk.com/resources/customer-stories/",
+    "https://www.renascence.io/journal/customer-experience-cx-design-in-manufacturing-examples-case-studies",
+    "https://www.casestudies.com/company/amarquez/case-study/target-constructors-customer-case-study"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Constructor white label OR reseller OR partner program",
+   "results": [
+    "https://www.totalum.app/blog/white-label-ai-app-builder-2026",
+    "https://sellful.com/",
+    "https://www.goodbarber.com/blog/7-best-app-builders-for-resellers-and-agencies-a1590/",
+    "https://simvoly.com/website-reseller",
+    "https://lindo.ai/blogs/en/white-label-website-builder-complete-guide",
+    "https://www.mycompanyworks.com/reseller",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://www.brizy.io/white-label-website-builder-best-choice-agency",
+    "https://www.youtube.com/watch?v=q8ZaCtZ-RB4",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Constructor founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/constructorio",
+    "https://multiples.vc/private-comps/constructor",
+    "https://growjo.com/company/Constructor.io",
+    "https://pitchbook.com/profiles/company/118047-07",
+    "https://www.linkedin.com/company/constructor-io",
+    "https://www.prnewswire.com/news-releases/constructor-shares-product-and-revenue-milestones-from-a-record-breaking-fy24-302382626.html",
+    "https://www.crunchbase.com/organization/constructor-io",
+    "https://www.silversmith.com/news/constructor-raises-55m-to-transform-search-and-discovery-capabilities-for-online-retailers",
+    "https://www.youtube.com/watch?v=An0n18v4j8E&vl=ja",
+    "https://compworth.com/company/constructordev"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Constructor",
+   "results": [
+    "https://note.com/kazushinakamura/n/n01a34570a5e4?hl=en",
+    "https://note.com/0karakouzou/n/n62bcbcc45bf1?hl=en",
+    "https://note.com/barista_buddha/n/nf85a7430327e?hl=en",
+    "https://note.com/brisk_turkey518/n/n072fec0ca6eb?hl=en",
+    "https://note.com/fond_badger6361/n/n9691a3bc61c1",
+    "https://note.com/arched_academy/n/n05b3b03b1b95?hl=en",
+    "https://note.com/fond_badger6361/n/ndb1ad60fd625?hl=en",
+    "https://note.com/wwnofreelance/n/ne4a321b5a8b8?hl=en",
+    "https://note.com/morinokabu/n/nf4ba8451318a?hl=en",
+    "https://note.com/minamihamaryu/n/n5c80f9d7b4fe"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com Constructor",
+   "results": [
+    "https://x.com/hashtag/Constructor",
+    "https://x.com/constructor_uni",
+    "https://x.com/lemire/status/2117237056124469659",
+    "https://blog.x.com/engineering/en_us/topics/insights/2019/onepattern",
+    "https://x.com/EpicGames/status/2105680640318623942",
+    "https://x.com/matoxley/status/2116444535085785523",
+    "https://docs.x.com/xdks/typescript/reference/classes/Client",
+    "https://x.com/ANDROOSGAMEPLAY/status/2106005221222891943",
+    "https://devcommunity.x.com/t/twitterapiexchange-tweeting-images-not-working/112075",
+    "https://x.com/constructor_io"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Constructor",
+   "results": [
+    "https://www.linkedin.com/company/constructor-io",
+    "https://ch.linkedin.com/company/constructorknowledge",
+    "https://www.linkedin.com/in/eli-finkelshteyn",
+    "https://www.linkedin.com/in/mccormickdaniel",
+    "https://www.linkedin.com/products/constructor-io-constructor/",
+    "https://www.linkedin.com/products/constructortech-constructor-model/",
+    "https://www.linkedin.com/products/constructortech-constructor-proctor/",
+    "https://www.linkedin.com/jobs/constructor-jobs",
+    "https://www.linkedin.com/products/constructortech-constructor-learn/",
+    "https://ch.linkedin.com/company/constructortech"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Constructor",
+   "results": [
+    "https://www.facebook.com/groups/JavaScript.Programming/posts/10172138887095343/",
+    "https://www.facebook.com/TheConstructor/",
+    "https://www.facebook.com/ads/ig_redirect/?d=Ad_6RbJwdF0lfdG5BeaSqZ4VBeQXzfL_TZPPkv6rVfIQnCtK1lzztJK4eaNjq3PpBw82itFu4g30XgCc5CN3AnBOJzkIEoiOeyQkdqwsIg6WD8aHsoy0YboI-BjIyF4bv6ZlklvNqUCU9e-5TYF8DgMA_NChtJmLGHC3LH7pkEvv7nZXn8AfX5HECIHSS34VgqsJDItILhHTfqLcn320KP3lU-g4Uwh4vFBn95oN4qWTnj4rqKBY-HQSm-ieNNEcnFBb4Es08BezCE-nMuJnBaEzxvS237rcOKxXDcAxHMb_ssTgitsSSMKddeknrKqo-Cxgg3_XrJ1X5dGFREoV0qFVDTcYlcWowsF98RYuBXGfAze7NuSEQKOM4mRG2p31NfNor01_NgKpKI5fQDA8Lf9Fk7sYSOZSbp8iI3ERlfFUqwoZpQA2mGxTBkM3-vMLP2_DOZI1kpF1_fZJ19gmJbfO4Z8dc0RVny-bamesnglm4k9MsYa4zkoSum1JzG_14s0olr1XVXExUcv3C1SvWSeB2t6BVqAVryp7HSBYUcs2tbLiwRX3yf8Peso2T64T9aa8LYIniePCtN7Koo-g2mZM4DddqciAxBD7LrNiKQ_ijFg1d4jiTB6J_pYmQrhGXzb2h-hvtZuMWvAaRDjfbIRGHfmoe3vHxfKLK-NV53HEgQ&a=1&hash=Ad9NWL20WvHfj84oR4E",
+    "https://www.facebook.com/constructor.university/",
+    "https://www.facebook.com/ConstructorTechnology/",
+    "https://www.facebook.com/groups/javascript.morioh/posts/2856280037904099/",
+    "https://www.facebook.com/100095414984986/posts/constructor-arrived-on-pc-in-1997-bringing-a-distinctive-mix-of-city-building-an/1008088765714947/",
+    "https://www.facebook.com/groups/flyriverforum/posts/24089468414061386/",
+    "https://www.facebook.com/Constructor.Nexademy/",
+    "https://developers.facebook.com/docs/audience-network/reference/android/?version=v5.3.0"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Constructor note 社長",
+   "results": [
+    "https://note.com/sadaaki",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://diamond.jp/articles/-/388572",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://x.com/sadaaki",
+    "https://froggy.smbcnikko.co.jp/66481/",
+    "https://note.com/kondokiyoto/m/mbf30e7226f1a/hashtag/%E3%82%B3%E3%83%B3%E3%82%B9%E3%83%88%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%AB%E6%B3%95%E5%89%87",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Constructor X 投稿",
+   "results": [
+    "https://constructortemplate.webflow.io/",
+    "https://x.com/hashtag/Constructor",
+    "https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Classes/constructor",
+    "https://github.com/RUB-EP1/BuildConstructors.jl",
+    "https://somin.ai/ja/brands-constructor-group-case-study/",
+    "https://qiita.com/yoshiwatanabe/items/4790e6e2e19e85962bee",
+    "https://suzaku-tec.hatenadiary.jp/entry/2021/07/19/091518",
+    "https://docs.oracle.com/javase/jp/23/language/flexible-constructor-bodies.html",
+    "https://www.reddit.com/r/cpp_questions/comments/106jojg/what_is_a_constructor_exactly/?tl=ja",
+    "https://x.com/constructor_io"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部36頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部36頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部36頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部36頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部36頁・検索12回）"
+ }
+}

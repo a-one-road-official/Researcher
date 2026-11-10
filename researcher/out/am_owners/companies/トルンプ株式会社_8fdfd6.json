@@ -1,0 +1,624 @@
+{
+ "name": "トルンプ株式会社",
+ "aliases": [],
+ "context": "PBF=yes 装置=TruPrint 出典=https://go.orixrentec.jp/rentecinsight/3dprinter/article-22",
+ "researched_at": "2026-11-10T18:06:20.603016+00:00",
+ "official_url": "",
+ "identified_by": "not_found",
+ "profile": {},
+ "evidence": {
+  "用途・客の産業": [
+   {
+    "quote": "■レーザ発振器（ディスクレーザ、ファイバーレーザ、半導体レーザ、超短パルスレーザ、グリーンレーザ等）",
+    "url": "https://pr.mono.ipros.com/trumpf/information/",
+    "pass": 3
+   },
+   {
+    "quote": "⇒自動車業界、家電業界など幅広い業界で使用されているため、業績も安定しております!",
+    "url": "https://www.pasonacareer.jp/company/80212460/",
+    "pass": 3
+   },
+   {
+    "quote": "また、お客さまからお預かりしたデータを基に、試作品・治具などの複雑な金属造形品の造形受託サービスも行っており、お客さまの幅広いニーズにお応えする導入支援サービスをご提供しています",
+    "url": "https://www.orix.co.jp/grp/company/newsroom/newsrelease/211130_ORIXG.html",
+    "pass": 3
+   },
+   {
+    "quote": "近年、金属3Dプリンターは、航空宇宙、自動車、電機業界をはじめ、さまざまな機械部品の開発・試作から大量生産まで用途は多岐に広がっており、脱炭素や資源循環に根ざした新しいものづくりの手法として期待が高まっています",
+    "url": "https://www.orix.co.jp/grp/company/newsroom/newsrelease/211130_ORIXG.html",
+    "pass": 3
+   }
+  ],
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "■全世界に71の拠点を保有",
+    "url": "https://www.pasonacareer.jp/company/80212460/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.trumpf.com/ja_JP/",
+    "url": "https://www.pasonacareer.jp/company/80212460/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターによる造形・実機検証サービス拠点「Tokyo 3D Lab.」 ドイツ社製金属3Dプリンター「TruPrint 1000」を導入",
+    "url": "https://www.orix.co.jp/grp/company/newsroom/newsrelease/211130_ORIXG.html",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツ社製金属3Dプリンター「TruPrint 1000」を導入",
+    "url": "https://www.orix.co.jp/grp/company/newsroom/newsrelease/211130_ORIXG.html",
+    "pass": 3
+   },
+   {
+    "quote": "オリックス・レンテック株式会社（本社：東京都品川区、社長：細川 展久）は、このたび、当社の東京技術センター内「Tokyo 3D Lab.」に、ドイツTRUMPF（トルンプ）社製の金属3Dプリンター「TruPrint 1000」を導入しましたのでお知らせします",
+    "url": "https://www.orix.co.jp/grp/company/newsroom/newsrelease/211130_ORIXG.html",
+    "pass": 3
+   },
+   {
+    "quote": "これにより「Tokyo 3D Lab.」では、ドイツEOS（イオス）社製「M290」、米国Markforged（マークフォージド）社製「Metal X」とともに特長が異なる3機種を直接比較検証いただくことが可能となります",
+    "url": "https://www.orix.co.jp/grp/company/newsroom/newsrelease/211130_ORIXG.html",
+    "pass": 3
+   },
+   {
+    "quote": "作業工数や安全性、操作に必要となる技術力などを把握したうえで、最適な3Dプリンターの導入に向けて検証いただける環境をご用意しています",
+    "url": "https://www.orix.co.jp/grp/company/newsroom/newsrelease/211130_ORIXG.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入にあたっては、実機の販売のほか、オペレーティングリースによる初期費用を抑えた導入のご提案も可能です",
+    "url": "https://www.orix.co.jp/grp/company/newsroom/newsrelease/211130_ORIXG.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、お客さまからお預かりしたデータを基に、試作品・治具などの複雑な金属造形品の造形受託サービスも行っており、お客さまの幅広いニーズにお応えする導入支援サービスをご提供しています",
+    "url": "https://www.orix.co.jp/grp/company/newsroom/newsrelease/211130_ORIXG.html",
+    "pass": 3
+   },
+   {
+    "quote": "このたび新たにラインアップに加えた「TruPrint 1000」は、無理な体勢をとる必要がない人間工学に基づいたコンパクトな設計で、操作はタッチパネルにより簡単かつ直感的に行うことができます",
+    "url": "https://www.orix.co.jp/grp/company/newsroom/newsrelease/211130_ORIXG.html",
+    "pass": 3
+   },
+   {
+    "quote": "近年、金属3Dプリンターは、航空宇宙、自動車、電機業界をはじめ、さまざまな機械部品の開発・試作から大量生産まで用途は多岐に広がっており、脱炭素や資源循環に根ざした新しいものづくりの手法として期待が高まっています",
+    "url": "https://www.orix.co.jp/grp/company/newsroom/newsrelease/211130_ORIXG.html",
+    "pass": 3
+   },
+   {
+    "quote": "※1 Tokyo 3D Lab.に設置しているのはTruPrint 1000のため、純銅に対応しているTruPrint 1000 GreenEditionモデルでの実機検証サービスは対象外となります",
+    "url": "https://www.orix.co.jp/grp/company/newsroom/newsrelease/211130_ORIXG.html",
+    "pass": 3
+   },
+   {
+    "quote": "TruPrint 1000（トルプリント 1000）",
+    "url": "https://www.orix.co.jp/grp/company/newsroom/newsrelease/211130_ORIXG.html",
+    "pass": 3
+   },
+   {
+    "quote": "200W （TRUMPF社製ファイバーレーザー）",
+    "url": "https://www.orix.co.jp/grp/company/newsroom/newsrelease/211130_ORIXG.html",
+    "pass": 3
+   },
+   {
+    "quote": "※純銅についてはTruPrint 1000 GreenEditionモデルでの造形対応となります",
+    "url": "https://www.orix.co.jp/grp/company/newsroom/newsrelease/211130_ORIXG.html",
+    "pass": 3
+   },
+   {
+    "quote": "TruPrint1000外観",
+    "url": "https://www.orix.co.jp/grp/company/newsroom/newsrelease/211130_ORIXG.html",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.trumpf.com/ja_JP/",
+    "url": "https://www.orix.co.jp/grp/company/newsroom/newsrelease/211130_ORIXG.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターや造形品サンプル、造形作業を実際にご覧いただくことが可能です",
+    "url": "https://www.orix.co.jp/grp/company/newsroom/newsrelease/211130_ORIXG.html",
+    "pass": 3
+   },
+   {
+    "quote": "また金属3Dプリンターの導入をご検討中のお客さま向けの実機検証サービスも行っています",
+    "url": "https://www.orix.co.jp/grp/company/newsroom/newsrelease/211130_ORIXG.html",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo 3D Lab.設置の金属3Dプリンター比較表（2021年11月30日現在）",
+    "url": "https://www.orix.co.jp/grp/company/newsroom/newsrelease/211130_ORIXG.html",
+    "pass": 3
+   },
+   {
+    "quote": "TruPrint1000",
+    "url": "https://www.orix.co.jp/grp/company/newsroom/newsrelease/211130_ORIXG.html",
+    "pass": 3
+   },
+   {
+    "quote": "TruPrint1000",
+    "url": "https://www.gitc.pref.nagano.lg.jp/cms/legcontents/hoyu_details.php?no=44053080",
+    "pass": 3
+   },
+   {
+    "quote": "TRUMPF Corporation / トルンプ株式会社",
+    "url": "https://japan.ahk.de/ja/membership/member-directory/trumpf-corporation",
+    "pass": 3
+   },
+   {
+    "quote": "TRUMPFは工業生産向けの工作機械とレーザでマーケット/テクノロジリーダーの一社であり、当社の革新的な技術はほぼすべての業界で役立っています",
+    "url": "https://japan.ahk.de/ja/membership/member-directory/trumpf-corporation",
+    "pass": 3
+   },
+   {
+    "quote": "● ドイツの本社：TRUMPF SE + Co. KG (Ditzingen, バーデン＝ヴュルテンベルク州）",
+    "url": "https://japan.ahk.de/ja/membership/member-directory/trumpf-corporation",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "■ドイツ・トルンプ社100%出資の現地法人として設立された、工作機械メーカーです",
+    "url": "https://www.pasonacareer.jp/company/80212460/",
+    "pass": 3
+   },
+   {
+    "quote": "トルンプ株式会社は1977年、ディッツィンゲンにあるトルンプグループの子会社として設立されました",
+    "url": "https://japan.ahk.de/ja/membership/member-directory/trumpf-corporation",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "企業情報 | トルンプ - Powered by イプロスものづくり — 企業情報 | トルンプ - Powered by イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://pr.mono.ipros.com > trumpf > information",
+    "url": "https://pr.mono.ipros.com/trumpf/information/",
+    "pass": 3
+   },
+   {
+    "quote": "トルンプ 株式 会社 の中途採用・転職・求人情報 - パソナキャリア — トルンプ 株式 会社 の中途採用・転職・求人情報 - パソナキャリア パソナキャリア https://www.pasonacareer.jp > ... > 機械・精密機器",
+    "url": "https://www.pasonacareer.jp/company/80212460/",
+    "pass": 3
+   },
+   {
+    "quote": "トルンプ 株式 会社 会社 案内 - TRUMPF — トルンプ 株式 会社 会社 案内 - TRUMPF TRUMPF PDF https://www.trumpf.com > filestorage > user_upload",
+    "url": "https://www.trumpf.com/filestorage/TRUMPF_JP/user_upload/20241000_TRUMPF-Japan_CorporateBrochure_R.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "TRUMPF Corporation / トルンプ 株式 会社 - AHK Japan — TRUMPF Corporation / トルンプ 株式 会社 - AHK Japan AHK Japan https://japan.ahk.de > membership > trumpf-corporation",
+    "url": "https://japan.ahk.de/ja/membership/member-directory/trumpf-corporation",
+    "pass": 3
+   },
+   {
+    "quote": "トルンプ 株式 会社 の企業情報 - 転職はアンドプロ — トルンプ 株式 会社 の企業情報 - 転職はアンドプロ アンドプロ https://and-pro.jp > company-info-12445",
+    "url": "https://and-pro.jp/company-info-12445/",
+    "pass": 3
+   },
+   {
+    "quote": "TRUMPF Corporation / トルンプ 株式会社 - AHK Japan — TRUMPF Corporation / トルンプ 株式会社 - AHK Japan AHK Japan https://japan.ahk.de > membership > trumpf-corporation",
+    "url": "https://japan.ahk.de/ja/membership/member-directory/trumpf-corporation",
+    "pass": 3
+   },
+   {
+    "quote": "トルンプ - Wikipedia — トルンプ - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > トルンプ",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AB%E3%83%B3%E3%83%97",
+    "pass": 3
+   },
+   {
+    "quote": "トルンプ 社、リスクを恐れず前進 - Laser Focus World Japan — トルンプ 社、リスクを恐れず前進 - Laser Focus World Japan Laser Focus World Japan PDF https://ex-press.jp > 2017/11 > P14_market_insights",
+    "url": "https://ex-press.jp/wp-content/uploads/2017/11/P14_market_insights.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "トルンプ 株式会社の転職・企業概要 - doda — トルンプ 株式会社の転職・企業概要 - doda doda https://doda.jp > View > Company > j_id__00002442226",
+    "url": "https://doda.jp/DodaFront/View/Company/j_id__00002442226/",
+    "pass": 3
+   },
+   {
+    "quote": "トルンプ 株式会社の企業情報 - 転職はアンドプロ — トルンプ 株式会社の企業情報 - 転職はアンドプロ アンドプロ https://and-pro.jp > company-info-12445",
+    "url": "https://and-pro.jp/company-info-12445/",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "マルエージング鋼をはじめ、ステンレス、ニッケル基合金、アルミニウム、チタンのほか、純銅を使用した高精度の造形が可能です",
+    "url": "https://www.orix.co.jp/grp/company/newsroom/newsrelease/211130_ORIXG.html",
+    "pass": 3
+   },
+   {
+    "quote": "※1 Tokyo 3D Lab.に設置しているのはTruPrint 1000のため、純銅に対応しているTruPrint 1000 GreenEditionモデルでの実機検証サービスは対象外となります",
+    "url": "https://www.orix.co.jp/grp/company/newsroom/newsrelease/211130_ORIXG.html",
+    "pass": 3
+   },
+   {
+    "quote": "マルエージング鋼、ステンレス、ニッケル基合金、アルミニウム、チタン、純銅",
+    "url": "https://www.orix.co.jp/grp/company/newsroom/newsrelease/211130_ORIXG.html",
+    "pass": 3
+   },
+   {
+    "quote": "※純銅についてはTruPrint 1000 GreenEditionモデルでの造形対応となります",
+    "url": "https://www.orix.co.jp/grp/company/newsroom/newsrelease/211130_ORIXG.html",
+    "pass": 3
+   },
+   {
+    "quote": "インコネル625",
+    "url": "https://www.orix.co.jp/grp/company/newsroom/newsrelease/211130_ORIXG.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末を一層ずつ焼結しながら任意形状を造形",
+    "url": "https://www.gitc.pref.nagano.lg.jp/cms/legcontents/hoyu_details.php?no=44053080",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://pr.mono.ipros.com/trumpf/information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pasonacareer.jp/company/80212460/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.trumpf.com/filestorage/TRUMPF_JP/user_upload/20241000_TRUMPF-Japan_CorporateBrochure_R.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.trumpf.com/filestorage/TRUMPF_JP/user_upload/202112_Flyer_Additive_manufacturing_Collaboration_with_ORIX_rev5.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/ir/leo-iii-trumpf-250728/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.orix.co.jp/grp/company/newsroom/newsrelease/211130_ORIXG.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gitc.pref.nagano.lg.jp/cms/legcontents/hoyu_details.php?no=44053080",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jampt.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trumpf.com/ja_JP/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E8%82%89%E7%9B%9B%E6%BA%B6%E6%8E%A5/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trumpf.com/ja_JP/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pr.mono.ipros.com/trumpf/information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.ahk.de/ja/membership/member-directory/trumpf-corporation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trumpf.com/ja_JP/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB/%E4%BC%81%E6%A5%AD%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://doda.jp/DodaFront/View/Company/j_id__00002442226/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://and-pro.jp/company-info-12445/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "トルンプ",
+   "results": [
+    "https://www.trumpf.com/ja_JP/",
+    "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AB%E3%83%B3%E3%83%97",
+    "https://www.instagram.com/trumpf.japan/",
+    "https://pr.mono.ipros.com/trumpf/information/",
+    "https://jp.linkedin.com/company/trumpf-corporation",
+    "https://japan.ahk.de/ja/membership/member-directory/trumpf-corporation",
+    "https://ja.wikipedia.org/wiki/トルンプ",
+    "https://en.wikipedia.org/wiki/Trumpf",
+    "https://mono.ipros.com/company/detail/2094562/",
+    "https://www.laserprocessing-pro.com/laser-manufacturer/trumpf.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "株式会社トルンプ",
+   "results": [
+    "https://www.trumpf.com/ja_JP/",
+    "https://www.instagram.com/trumpf.japan/",
+    "https://japan.ahk.de/ja/membership/member-directory/trumpf-corporation",
+    "https://jp.linkedin.com/company/trumpf-corporation",
+    "https://pr.mono.ipros.com/trumpf/information/",
+    "https://www.trumpf.com/filestorage/TRUMPF_JP/user_upload/20241000_TRUMPF-Japan_CorporateBrochure_R.pdf",
+    "https://ja.wikipedia.org/wiki/株式会社インプレス",
+    "https://ja.wikipedia.org/wiki/トルンプ",
+    "https://www.trumpf.com/ja_JP/会社案内/",
+    "https://mono.ipros.com/company/detail/2094562/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "トルンプ 株式会社",
+   "results": [
+    "https://www.trumpf.com/ja_JP/",
+    "https://www.instagram.com/trumpf.japan/",
+    "https://www.r-agent.com/company/07961/",
+    "https://japan.ahk.de/ja/membership/member-directory/trumpf-corporation",
+    "https://jp.linkedin.com/company/trumpf-corporation",
+    "https://pr.mono.ipros.com/trumpf/information/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 6
+  },
+  {
+   "query": "トルンプ 会社概要 資本金 設立",
+   "results": [
+    "https://pr.mono.ipros.com/trumpf/information/",
+    "https://www.pasonacareer.jp/company/80212460/",
+    "https://www.trumpf.com/filestorage/TRUMPF_JP/user_upload/20241000_TRUMPF-Japan_CorporateBrochure_R.pdf",
+    "https://japan.ahk.de/ja/membership/member-directory/trumpf-corporation",
+    "https://and-pro.jp/company-info-12445/",
+    "https://compalyze.co.jp/company/1020001002281",
+    "https://fumadata.com/search/detail/1578816",
+    "https://baseconnect.in/companies/0c7b2f25-1d70-4670-b67f-394ba0a65b5b",
+    "https://lawplayer.com/jp/company/1020001002281",
+    "https://mono.ipros.com/company/detail/2094562/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "トルンプ 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.trumpf.com/filestorage/TRUMPF_JP/user_upload/202112_Flyer_Additive_manufacturing_Collaboration_with_ORIX_rev5.pdf",
+    "https://news.sharelab.jp/3dp-news/ir/leo-iii-trumpf-250728/",
+    "https://www.orix.co.jp/grp/company/newsroom/newsrelease/211130_ORIXG.html",
+    "https://www.orixrentec.jp/file.jsp?id=8666",
+    "https://xtech.nikkei.com/atcl/nxt/news/18/11784/",
+    "https://www.tpc.toray/news/20210521.html",
+    "https://cad-kenkyujo.com/3d-truprint/",
+    "https://jgoodtech.smrj.go.jp/api/v1/documents/VDdtT2VLbmprYWxVa1FBR19LWGd2dw==",
+    "https://3druck.com/ja/%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%A8%E8%A3%BD%E5%93%81/%E3%83%88%E3%83%AB%E3%83%B3%E3%83%97%E3%81%AF%E9%87%91%E5%B1%9E%E9%83%A8%E5%93%81%E3%81%AE%E3%82%A2%E3%83%87%E3%82%A3%E3%83%86%E3%82%A3%E3%83%96%E3%83%BB%E3%83%9E%E3%83%8B%E3%83%A5%E3%83%95%E3%82%A1-2/",
+    "https://go.orixrentec.jp/rentecinsight/3dprinter/article-22"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "トルンプ 金属積層造形 設備",
+   "results": [
+    "https://www.gitc.pref.nagano.lg.jp/cms/legcontents/hoyu_details.php?no=44053080",
+    "https://jampt.jp/",
+    "https://www.trumpf.com/ja_JP/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E8%82%89%E7%9B%9B%E6%BA%B6%E6%8E%A5/",
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "https://www.youtube.com/watch?v=sT3lR9R98hc",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/pc-control-ethercat-metal-additive-manufacturing-260122/",
+    "https://j3d.co.jp/blog/knowledge/index37/",
+    "https://ja.3dsystems.com/semiconductor",
+    "https://www.tokushuko.or.jp/publication/magazine/pdf/2023/magazine2305.pdf",
+    "https://www.orixrentec.jp/file.jsp?id=8666"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "トルンプ 株主 出資 親会社",
+   "results": [
+    "https://www.trumpf.com/ja_JP/",
+    "https://pr.mono.ipros.com/trumpf/information/",
+    "https://japan.ahk.de/ja/membership/member-directory/trumpf-corporation",
+    "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AB%E3%83%B3%E3%83%97",
+    "https://ex-press.jp/wp-content/uploads/2017/11/P14_market_insights.pdf",
+    "https://jp.linkedin.com/company/trumpf-corporation",
+    "https://www.instagram.com/trumpf.japan/",
+    "https://ja.nc-net.or.jp/company/85570/",
+    "https://monoist.itmedia.co.jp/mn/articles/2310/30/news059.html",
+    "https://ja.wikipedia.org/wiki/トルンプ"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "トルンプ 売上高 従業員数",
+   "results": [
+    "https://www.trumpf.com/ja_JP/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB/%E4%BC%81%E6%A5%AD%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB/",
+    "https://doda.jp/DodaFront/View/Company/j_id__00002442226/",
+    "https://and-pro.jp/company-info-12445/",
+    "https://emidas-magazine.nc-net.com/industry/418/",
+    "https://pr.mono.ipros.com/trumpf/information/",
+    "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AB%E3%83%B3%E3%83%97",
+    "https://www.r-agent.com/company/07961/",
+    "https://www.hatalike.jp/viewjob/5ef65d5c9cf38087/",
+    "https://baseconnect.in/companies/0c7b2f25-1d70-4670-b67f-394ba0a65b5b",
+    "https://ja.wikipedia.org/wiki/トルンプ"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com トルンプ",
+   "results": [
+    "https://note.com/kikaiba_/n/n14ac552d2cf3",
+    "https://note.com/nicks701/n/n9905e1721fe6",
+    "https://note.com/arcmasters/n/n2a754e918101",
+    "https://note.com/shisanunyouclub/n/n5be6e3868a12",
+    "https://note.com/3n7no_tech_pr/n/n6ee416fb59aa",
+    "https://note.com/3n7no_tech_pr/n/n39260f94c5b7",
+    "https://note.com/jolly_holly8541/n/na7a3def8ba3b",
+    "https://note.com/osasa_newbusi/n/nc351fa4cc428",
+    "https://note.com/mshare/n/nd4c1bc1c4cea",
+    "https://note.com/kunoyoshiki/n/nac8eeaad2e48"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:x.com トルンプ",
+   "results": [
+    "https://x.com/TRUMPF_News",
+    "https://x.com/TRUMPFinc",
+    "https://x.com/TRUMPF_News/status/2117558735056834761",
+    "https://x.com/TRUMPF_News/status/1466035536359997450",
+    "https://x.com/optronics/status/2113097953670021163",
+    "https://x.com/hashtag/trumpf?src=hashtag_click",
+    "https://x.com/GuilleAlfonsin/status/2073327730892976288",
+    "https://x.com/nikkei_business/status/2115535407249252352",
+    "https://x.com/ZEISS_Group/status/2087062766393667808",
+    "https://x.com/hashtag/トルンプ"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com トルンプ",
+   "results": [
+    "https://jp.linkedin.com/company/trumpf-corporation",
+    "https://www.linkedin.com/company/trumpf-se-co-kg",
+    "https://www.linkedin.com/posts/trumpf-corporation_%E3%83%88%E3%83%AB%E3%83%B3%E3%83%97%E3%81%A7%E4%B8%80%E7%B7%92%E3%81%AB%E5%83%8D%E3%81%8D%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B-%E3%83%88%E3%83%AB%E3%83%B3%E3%83%97%E3%81%AF1923%E5%B9%B4%E3%81%AB%E3%83%89%E3%82%A4%E3%83%84%E3%81%A7%E8%AA%95%E7%94%9F%E3%81%97%E3%81%9F%E6%9D%BF%E9%87%91%E5%8A%A0%E5%B7%A5%E6%A9%9F-activity-7345987590904270848-3NFi",
+    "https://www.linkedin.com/company/trumpf-north-america",
+    "https://www.linkedin.com/posts/trumpf-corporation_%E3%83%88%E3%83%AB%E3%83%B3%E3%83%97%E3%81%AE%E3%83%97%E3%83%A9%E3%82%BA%E3%83%9E%E9%9B%BB%E6%BA%90-%E3%83%88%E3%83%AB%E3%83%B3%E3%83%97%E3%81%AF%E6%9D%BF%E9%87%91%E5%8A%A0%E5%B7%A5%E6%A9%9F%E3%82%84%E3%83%AC%E3%83%BC%E3%82%B6%E7%99%BA%E6%8C%AF%E5%99%A8%E3%81%AE%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC-activity-7507578747848400896-szIB",
+    "https://jp.linkedin.com/posts/trumpf-corporation_%E3%83%97%E3%83%A9%E3%82%BA%E3%83%9E%E9%9B%BB%E6%BA%90%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-%E3%83%97%E3%83%A9%E3%82%BA%E3%83%9E%E9%9B%BB%E6%BA%90-%E3%83%97%E3%83%A9%E3%82%BA%E3%83%9E%E5%8A%B1%E8%B5%B7-activity-7319888849852055552-OEvz",
+    "https://jp.linkedin.com/jobs/trumpf-japan-jobs-yokohama",
+    "https://jp.linkedin.com/jobs/trumpf-japan-jobs",
+    "https://www.linkedin.com/company/trumpf-china",
+    "https://jp.linkedin.com/posts/trumpf-corporation_jimtof2026が始まりました-トルンプ株式会社は2026年10月26-activity-7520469947345641472-OiEb"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com トルンプ",
+   "results": [
+    "https://www.facebook.com/trumpf.group/",
+    "https://www.facebook.com/TRUMPFUSA/",
+    "https://www.facebook.com/groups/53594820892/",
+    "https://www.facebook.com/TRUMPFUSA/videos/trumpf-at-imts-2026/1380381624260842/",
+    "https://www.facebook.com/trumpf.group/videos/exclusive-walk-through-welcome-to-the-trumpf-technology-center-in-costa-mesa-cal/960866603190859/",
+    "https://www.facebook.com/TRUMPFUSA/videos/introducing-24kw-of-cutting-power/513201144023591/",
+    "https://www.facebook.com/TRUMPFUSA/posts/today-we-celebrate-the-anniversary-of-the-trumpf-smart-factory-grand-opening-in-/1437435955077349/",
+    "https://www.facebook.com/trumpf.group/posts/were-proud-to-announce-that-trumpf-has-received-not-one-but-two-euroblech-innova/1707640288038058/",
+    "https://www.facebook.com/TRUMPFUSA/videos/punching-part-marking-tapping-bending-embossing-and-more-experience-the-fastest-/2127890448102451/",
+    "https://www.facebook.com/bodyshopsakamoto/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "トルンプ note 社長",
+   "results": [
+    "https://monoque.jp/columns/post-80/",
+    "https://jp.linkedin.com/posts/trumpf-corporation_trumpf-%E3%83%88%E3%83%AB%E3%83%B3%E3%83%97-%E3%83%88%E3%83%AB%E3%83%B3%E3%83%97%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-activity-7236589608816254976-KxzD",
+    "https://www.nikkan.co.jp/articles/view/647053",
+    "https://monoist.itmedia.co.jp/mn/articles/2209/26/news052.html",
+    "https://note.com/yosuke77",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/01537/00470/",
+    "https://www.trumpf.com/filestorage/TRUMPF_JP/user_upload/20220901_NewsFromTRUMPF.pdf",
+    "https://diamond.jp/articles/-/388572",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "トルンプ X 投稿",
+   "results": [
+    "https://x.com/DonaldTrump",
+    "https://thehill.com/homenews/campaign/4850705-trump-returns-x-social-media-platform/",
+    "https://en.wikipedia.org/wiki/Use_of_X_by_Donald_Trump",
+    "https://www.npr.org/2023/08/25/1139061784/trump-twitter-tweets-return",
+    "https://truthsocial.com/@realDonaldTrump",
+    "https://www.youtube.com/watch?v=0WFuKG4q79Y",
+    "https://www.thetrumparchive.com/",
+    "https://www.theguardian.com/technology/2016/mar/04/donald-trump-deep-drumpf-twitter-bot",
+    "https://www.witha.jp/sns・マーケティング/x-posting-guide-beginners/",
+    "https://help.x.com/ja"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "資本金": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "創業年度": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "従業員数": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "売上高": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "株主": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "所在地": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "保有設備": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）"
+ }
+}

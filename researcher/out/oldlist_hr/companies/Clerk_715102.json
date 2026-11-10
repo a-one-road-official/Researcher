@@ -1,0 +1,1925 @@
+{
+ "name": "Clerk",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-10T18:31:35.444226+00:00",
+ "official_url": "https://www.clerk.io",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2020",
+    "url": "https://startupintros.com/orgs/clerk",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "San Francisco, CA, USA",
+    "url": "https://startupintros.com/orgs/clerk",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Clerk.io helps shoppers find the right products, add more to their basket and come back, so more clicks become customers.",
+    "url": "https://www.clerk.io/",
+    "pass": 1
+   },
+   {
+    "quote": "We’ve been using Clerk.io to help take our website and customer experience to the next level, and we honestly couldn’t be happier with both the system and the support we’ve received. There's so much you can do with the platform, and we're still discovering new ways to use it and improve our customer experience.",
+    "url": "https://www.clerk.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Rasmus increased his basket size by 0.8 products.",
+    "url": "https://www.clerk.io/",
+    "pass": 1
+   },
+   {
+    "quote": "When a shopper cannot find the right product, the traffic you paid to acquire can leave without buying. Clerk Search understands intent, typos, behavior, sales data and availability to surface relevant products and help more visits convert.",
+    "url": "https://www.clerk.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Show relevant complements, alternatives and next products at the moment they can influence the order. Clerk Recommendations use shopper and basket context to help customers add more of what they need, increasing basket size and order value.",
+    "url": "https://www.clerk.io/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Clerk.io is just really good at learning our customers' patterns and recommending what's relevant for them. For example, in the last 30 days, the additional reve is 21,000 euros. Plus, the average basket size increase is 0.8 products more.\"",
+    "url": "https://www.clerk.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Unanswered product questions can stop a purchase. Clerk Chat gives shoppers immediate, product-aware help and guides them to relevant products, so more high-intent visits can continue toward checkout.",
+    "url": "https://www.clerk.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn behavior and purchase intent into segments you can activate across Email, Meta and Google. Reach existing customers and leads with more relevant campaigns, reduce dependence on cold acquisition and create more opportunities for repeat revenue.",
+    "url": "https://www.clerk.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Give past visitors a reason to come back with personalized product emails based on their interests, behavior and purchase history. Clerk selects relevant products automatically, so you can reactivate shoppers without paying to reach the same people again.",
+    "url": "https://www.clerk.io/",
+    "pass": 1
+   },
+   {
+    "quote": "\"We A/B-tested between our own manually selected products and Clerk's automated email recommendations.",
+    "url": "https://www.clerk.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Choose an out-of-the-box integration for your store and marketing tools. Running a custom platform? Connect it directly through Clerk.io's open API, with help from your AI coding tools.",
+    "url": "https://www.clerk.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Rasmus increased basket size by 0.8 products",
+    "url": "https://www.clerk.io/",
+    "pass": 1
+   },
+   {
+    "quote": "and conversion right from the start. But what is equally as impressive is the level of service they provide. It’s unparalleled in the space.",
+    "url": "https://www.clerk.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Jacob Zerlang Philipson, Digital Marketing Manager",
+    "url": "https://www.clerk.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Once we've got people on our site, that is where the conversion work really starts. Clerk is a great tool for meeting customer needs. We use Clerk to boost products where we make a profit. In short,",
+    "url": "https://www.clerk.io/",
+    "pass": 1
+   },
+   {
+    "quote": "We A/B-tested between our own manually selected products and Clerk.io's automated email recommendations. Clerk.io showed a",
+    "url": "https://www.clerk.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Clerk is extremely accurate when it comes to showing the right products to the right people. Its personalization software has helped us",
+    "url": "https://www.clerk.io/",
+    "pass": 1
+   },
+   {
+    "quote": "by showing them irrelevant products.",
+    "url": "https://www.clerk.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Their product recommendations",
+    "url": "https://www.clerk.io/",
+    "pass": 1
+   },
+   {
+    "quote": ", it provides all the data and transparency we need to make informed business decisions, and at the end of the day, it means more money in the bank.",
+    "url": "https://www.clerk.io/",
+    "pass": 1
+   },
+   {
+    "quote": "\"The best e-commerce tool on the market. Clerk is, in my experience, the best tool for product recommendations and search\"",
+    "url": "https://www.clerk.io/client-verticals",
+    "pass": 1
+   },
+   {
+    "quote": "A shopping experience as precious as your little one.",
+    "url": "https://www.clerk.io/client-verticals",
+    "pass": 1
+   },
+   {
+    "quote": "Make your webstore as solid and foundational as the products you sell with hyper-personalized search, recommendations, email marketing, and audience segmentation that’ll have your customers filling up their baskets. Clerk’s personalization software ensures you’re always displaying the right products for your customers to maximize your conversion rates, basket size, and order values.",
+    "url": "https://www.clerk.io/client-verticals",
+    "pass": 1
+   },
+   {
+    "quote": "Navigating the world of health and beauty online can be challenging, especially with so many products, uses, and benefits. Beauty is a truly individual experience, and the shopping experience should be too. Personalize the entire journey for your customers so they discover the products they actually need with Clerk’s all-in-one personalization solution.",
+    "url": "https://www.clerk.io/client-verticals",
+    "pass": 1
+   },
+   {
+    "quote": "The office supply industry is a crucial part of the business world, providing essential products that keep offices running smoothly, and your web store is vital within this ecosystem. Clerk’s AI-powered tools can help you achieve this with our suite of personalization and automation software to optimize your site search and recommendations while enhancing the entire customer experience.",
+    "url": "https://www.clerk.io/client-verticals",
+    "pass": 1
+   },
+   {
+    "quote": "Improve your customers’ health with personalized care",
+    "url": "https://www.clerk.io/client-verticals",
+    "pass": 1
+   },
+   {
+    "quote": "By offering a broad array of remedies and health boosters, your online pharmacy makes it easier for your customers to take care of their well-being. But how can you successfully manage this massive variety of products? Optimize product positioning in your store by pushing specific brands, targeting your advertising campaigns, and avoiding frustrating your customers with out-of-stock items.",
+    "url": "https://www.clerk.io/client-verticals",
+    "pass": 1
+   },
+   {
+    "quote": "See Clerk in action with your own products",
+    "url": "https://www.clerk.io/client-verticals",
+    "pass": 1
+   },
+   {
+    "quote": "Personalized product suggestions that drive engagement and revenue",
+    "url": "https://www.clerk.io/love",
+    "pass": 1
+   },
+   {
+    "quote": "Generative and predictive AI-powered chatbot",
+    "url": "https://www.clerk.io/love",
+    "pass": 1
+   },
+   {
+    "quote": "Read customer stories, e-commerce trends, and best practices",
+    "url": "https://www.clerk.io/love",
+    "pass": 1
+   },
+   {
+    "quote": "Stay updated on the latest Clerk features and improvements",
+    "url": "https://www.clerk.io/love",
+    "pass": 1
+   },
+   {
+    "quote": "Browse videos on Clerk tools, tips, and smart features",
+    "url": "https://www.clerk.io/love",
+    "pass": 1
+   },
+   {
+    "quote": "Join our partner network and explore our partnership programs",
+    "url": "https://www.clerk.io/love",
+    "pass": 1
+   },
+   {
+    "quote": "We’ve had a really good experience with Clerk and are very happy with the collaboration. We use their chatbot, which works really well and meets our expectations. What we appreciate most, though, is the team behind Clerk. They are professional, flexible, solution-oriented, and generally very easy and pleasant to work with.",
+    "url": "https://www.clerk.io/love",
+    "pass": 1
+   },
+   {
+    "quote": "We’ve just completed the onboarding phase, during which Clerk was installed for us. The entire process was handled professionally, from planning through implementation. Everyone we’ve met has been competent and welcoming. We’re now excited to see the results.",
+    "url": "https://www.clerk.io/love",
+    "pass": 1
+   },
+   {
+    "quote": "The customer service at Clerk is on another level. They're responsive and go the extra mile to solve problems quickly. We replaced Doofinder with Clerk search and also use their AI chat bot. Both have been superb and highly customisable. Very happy with their services.",
+    "url": "https://www.clerk.io/love",
+    "pass": 1
+   },
+   {
+    "quote": "Even though the deadline was tight and there were some unexpected challenges along the way, Clerk delivered on time as agreed. Their team has been professional, responsive, and always ready to help whenever needed. The implementation process went smoothly, and I’m looking forward to continuing the collaboration in the future.",
+    "url": "https://www.clerk.io/love",
+    "pass": 1
+   },
+   {
+    "quote": "Excellent tool. Technical support and CSM are always available and proactive.",
+    "url": "https://www.clerk.io/love",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time support that is fast and helps you solve any problem.",
+    "url": "https://www.clerk.io/love",
+    "pass": 1
+   },
+   {
+    "quote": "Clerk.io provides support through various means, by increasing the conversion rates for your site. It improves sales of products.",
+    "url": "https://www.clerk.io/love",
+    "pass": 1
+   },
+   {
+    "quote": "great improvements in their conversions.",
+    "url": "https://www.clerk.io/love",
+    "pass": 1
+   },
+   {
+    "quote": ", the Usability as well and the Bounce Rate decreases! Clerk.io developes their portfolio very quick: We use the Search, Recommendation and in future Audience and Marketing.",
+    "url": "https://www.clerk.io/love",
+    "pass": 1
+   },
+   {
+    "quote": "Excellent service. The search function helps our customers to find exactly the products they're looking for.",
+    "url": "https://www.clerk.io/love",
+    "pass": 1
+   },
+   {
+    "quote": "improve conversion rates",
+    "url": "https://www.clerk.io/love",
+    "pass": 1
+   },
+   {
+    "quote": "by providing a more accessible experience for our users, they can also",
+    "url": "https://www.clerk.io/love",
+    "pass": 1
+   },
+   {
+    "quote": "prove this effect through data analysis",
+    "url": "https://www.clerk.io/love",
+    "pass": 1
+   },
+   {
+    "quote": ", in their very impressive admin console.",
+    "url": "https://www.clerk.io/love",
+    "pass": 1
+   },
+   {
+    "quote": "have always been very happy with the product",
+    "url": "https://www.clerk.io/love",
+    "pass": 1
+   },
+   {
+    "quote": "and company. The benefits include better customer satisfaction (ease of navigation/search highlighted by our customers), improved metrics across all average order value, average basket size, and conversion rate.",
+    "url": "https://www.clerk.io/love",
+    "pass": 1
+   },
+   {
+    "quote": "Since we implemented Clerk.io's search tool, we have seen a significant improvement in our conversion and bounce rates. We have a huge catalog of products, so their tool has been instrumental in leveraging the many different products we carry.",
+    "url": "https://www.clerk.io/love",
+    "pass": 1
+   },
+   {
+    "quote": "Clerk.io is in my experience the best tool for product recommendations and search.",
+    "url": "https://www.clerk.io/love",
+    "pass": 1
+   },
+   {
+    "quote": ", which is pretty amazing. Their product recommendations",
+    "url": "https://www.clerk.io/love",
+    "pass": 1
+   },
+   {
+    "quote": "On a mission to make ecommerce profitability accessible to all.",
+    "url": "https://www.clerk.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "For too long, personalization and predictive AI technology have been designed for the largest players; requiring big teams, long implementations, and rigid systems.",
+    "url": "https://www.clerk.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "Our mission is to change that. We exist to give ambitious ecommerce teams the AI-powered tools they need to grow profitably; without losing control of their business.",
+    "url": "https://www.clerk.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "One intelligence at the core, putting profitability on autopilot.",
+    "url": "https://www.clerk.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "Tweaking search. Adjusting recommendations. Optimizing emails. Manual work slowed growth.Ten years ago (before modern AI even existed) I founded Clerk with a simple vision: build a system that understands how to connect people and products. Not separate tools, but one intelligence at the core, powering everything automatically.",
+    "url": "https://www.clerk.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "'How do I increase profit margins?'",
+    "url": "https://www.clerk.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "'How do I grow retention without increasing ad spend?'",
+    "url": "https://www.clerk.io/about",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Clerk.io | Turn more ecommerce traffic into revenue",
+    "url": "https://www.clerk.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Mary increased e-commerce revenue by 33%.",
+    "url": "https://www.clerk.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn behavior and purchase intent into segments you can activate across Email, Meta and Google. Reach existing customers and leads with more relevant campaigns, reduce dependence on cold acquisition and create more opportunities for repeat revenue.",
+    "url": "https://www.clerk.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Mary increased e-commerce revenue by 33%",
+    "url": "https://www.clerk.io/",
+    "pass": 1
+   },
+   {
+    "quote": ". Great service and Clerk.io has become an integrated part of our business.",
+    "url": "https://www.clerk.io/",
+    "pass": 1
+   },
+   {
+    "quote": "The office supply industry is a crucial part of the business world, providing essential products that keep offices running smoothly, and your web store is vital within this ecosystem. Clerk’s AI-powered tools can help you achieve this with our suite of personalization and automation software to optimize your site search and recommendations while enhancing the entire customer experience.",
+    "url": "https://www.clerk.io/client-verticals",
+    "pass": 1
+   },
+   {
+    "quote": "By offering a broad array of remedies and health boosters, your online pharmacy makes it easier for your customers to take care of their well-being. But how can you successfully manage this massive variety of products? Optimize product positioning in your store by pushing specific brands, targeting your advertising campaigns, and avoiding frustrating your customers with out-of-stock items.",
+    "url": "https://www.clerk.io/client-verticals",
+    "pass": 1
+   },
+   {
+    "quote": "Personalized product suggestions that drive engagement and revenue",
+    "url": "https://www.clerk.io/love",
+    "pass": 1
+   },
+   {
+    "quote": "Great service and Clerk.io has become an integrated part of our business.",
+    "url": "https://www.clerk.io/love",
+    "pass": 1
+   },
+   {
+    "quote": "Since we implemented Clerk.io's search tool, we have seen a significant improvement in our conversion and bounce rates. We have a huge catalog of products, so their tool has been instrumental in leveraging the many different products we carry.",
+    "url": "https://www.clerk.io/love",
+    "pass": 1
+   },
+   {
+    "quote": "Their platform provides in an array of options which enable us to grow our sales. Our favourite is their audience feature, which gives an in-depth knowledge of our customers journey and what we can do to target them.",
+    "url": "https://www.clerk.io/love",
+    "pass": 1
+   },
+   {
+    "quote": "How Nocepharm Increased Revenue by 10% using Predictive AI",
+    "url": "https://www.clerk.io/love",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how Italian pharmacy Nocepharm used predictive AI from Clerk.io to increase revenue value by 10% with smarter personalization.",
+    "url": "https://www.clerk.io/love",
+    "pass": 1
+   },
+   {
+    "quote": "Measuring AI Shopping Assistant Revenue and Conversion",
+    "url": "https://www.clerk.io/love",
+    "pass": 1
+   },
+   {
+    "quote": "Powerstep Best Sellers on Sale: Turn Price-Driven Intent Into Extra Revenue",
+    "url": "https://www.clerk.io/love",
+    "pass": 1
+   },
+   {
+    "quote": "Personalized product suggestions that drive engagement and revenue",
+    "url": "https://www.clerk.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "“At Obsidian, we are more than satisfied with the collaboration we have with Clerk. The collaboration helps us to deliver better results for our customers, both in terms of revenue and how to use Clerk in the best way”",
+    "url": "https://www.clerk.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Swiipe offers services that set them apart from other payment solutions, as they develop innovative services that optimize your webshop’s revenue by increasing conversion rates, avg. basket sizes and the repurchase rate.",
+    "url": "https://www.clerk.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "ICT were born to build your digital world. We develop e-commerce projects and data enhancement systems to support marketing and sales processes. We deal with methods and technologies for creating digital models from data acquisition to revenue.",
+    "url": "https://www.clerk.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Blubolt not your typical Shopify Plus agency; we mastered our craft by first building our own successful eCommerce platform. We deliver award-winning designs, revenue-driving custom apps, expert optimisation advice & support.",
+    "url": "https://www.clerk.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Qapla' is the Software that simplifies eCommerce shipments management and unlocks delivery communications marketing potential. It provides an all-in-one platform that includes features such as labels' creation and printing, +170 carriers' tracking, customization of emails and SMS about delivery.",
+    "url": "https://www.clerk.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Measuring AI Shopping Assistant Revenue and Conversion",
+    "url": "https://www.clerk.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Powerstep Best Sellers on Sale: Turn Price-Driven Intent Into Extra Revenue",
+    "url": "https://www.clerk.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "from onsite search. Great service and Clerk.io has become an integrated part of our business.\"",
+    "url": "https://www.clerk.io/intelligent-search",
+    "pass": 1
+   },
+   {
+    "quote": "Our tool identifies related words and displays matching items, even if the words used are not part of any product text.",
+    "url": "https://www.clerk.io/intelligent-search",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive AI Revenue Calculator",
+    "url": "https://www.clerk.io/intelligent-search",
+    "pass": 1
+   },
+   {
+    "quote": "Enter your store's traffic, orders, and order value to instantly see how much extra revenue Clerk.io's Predictive Al technology could generate for you.",
+    "url": "https://www.clerk.io/intelligent-search",
+    "pass": 1
+   },
+   {
+    "quote": "Facets make it fast to navigate large search results pages by narrowing down search results based on product attributes, helping to increase converse rates as it becomes easy to find the exact right match within seconds.",
+    "url": "https://www.clerk.io/intelligent-search",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how to offset customer acquisition costs by retaining your customers",
+    "url": "https://www.clerk.io/intelligent-search",
+    "pass": 1
+   },
+   {
+    "quote": "Improve the search experience to increase your revenue and conversion rates",
+    "url": "https://www.clerk.io/intelligent-search",
+    "pass": 1
+   },
+   {
+    "quote": "How Nocepharm Increased Revenue by 10% using Predictive AI",
+    "url": "https://www.clerk.io/learn/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Hygienesystem.it boosts E-commerce revenue by 33%",
+    "url": "https://www.clerk.io/learn/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "AI Chatbot Contributes to Over NOK 260,000 in Revenue for Olympia Sport",
+    "url": "https://www.clerk.io/learn/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Aqua Essentials Uses Personalization to Increase Basket Size & Revenue",
+    "url": "https://www.clerk.io/learn/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Measuring AI Shopping Assistant Revenue and Conversion",
+    "url": "https://www.clerk.io/learn/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Measuring Ecommerce Search Relevance: NDCG, MRR, Conversion, and Revenue",
+    "url": "https://www.clerk.io/learn/blog",
+    "pass": 1
+   },
+   {
+    "quote": "An AI agent that runs revenue-generating email marketing in under an hour a month!",
+    "url": "https://www.clerk.io/learn/blog",
+    "pass": 1
+   },
+   {
+    "quote": "How to Increase Average Order Value: Proven Strategies for More Revenue",
+    "url": "https://www.clerk.io/learn/blog",
+    "pass": 1
+   },
+   {
+    "quote": "How to Grow E-commerce Revenue Without Spending More on Ads",
+    "url": "https://www.clerk.io/learn/blog",
+    "pass": 1
+   },
+   {
+    "quote": "How Nocepharm Increased Revenue by 10% using Predictive AI",
+    "url": "https://www.clerk.io/learn/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Hygienesystem.it boosts E-commerce revenue by 33%",
+    "url": "https://www.clerk.io/learn/blog",
+    "pass": 1
+   },
+   {
+    "quote": "AI in ecommerce: Real-world tools to automate growth and increase revenue",
+    "url": "https://www.clerk.io/learn/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Conversion optimization ecommerce: How to turn traffic into revenue with Clerk.io",
+    "url": "https://www.clerk.io/learn/blog",
+    "pass": 1
+   },
+   {
+    "quote": "AI Chatbot Contributes to Over NOK 260,000 in Revenue for Olympia Sport",
+    "url": "https://www.clerk.io/learn/blog",
+    "pass": 1
+   },
+   {
+    "quote": "How to Up-sell – Maximizing Revenue through Strategic Sales Techniques",
+    "url": "https://www.clerk.io/learn/blog",
+    "pass": 1
+   },
+   {
+    "quote": "How to Cross-Sell: Effective Strategies to Boost Your Sales Revenue",
+    "url": "https://www.clerk.io/learn/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Retention Strategies: Boosting Customer Loyalty and Revenue Growth",
+    "url": "https://www.clerk.io/learn/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Increase your webshop's revenue with Swiipe",
+    "url": "https://www.clerk.io/learn/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Aqua Essentials Uses Personalization to Increase Basket Size & Revenue",
+    "url": "https://www.clerk.io/learn/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Great service and Clerk.io has become an integrated part of our business.",
+    "url": "https://www.clerk.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Since we implemented Clerk.io's search tool, we have seen a significant improvement in our conversion and bounce rates. We have a huge catalog of products, so their tool has been instrumental in leveraging the many different products we carry.",
+    "url": "https://www.clerk.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Their platform provides in an array of options which enable us to grow our sales. Our favourite is their audience feature, which gives an in-depth knowledge of our customers journey and what we can do to target them.",
+    "url": "https://www.clerk.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how to leverage Predictive AI technology to boost revenue through upselling and cross-selling. You will learn:",
+    "url": "https://www.clerk.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How to steal Amazon's 1998 upsell tactic that drives 35% of their revenue!",
+    "url": "https://www.clerk.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how to offset customer acquisition costs by retaining your customers",
+    "url": "https://www.clerk.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Improve the search experience to increase your revenue and conversion rates",
+    "url": "https://www.clerk.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Delivery dates, return rules, warranties, and pickup options often decide whether a shopper buys. These records should be approved, localized, and connected to the market and product context.",
+    "url": "https://www.clerk.io/blog/ai-shopping-assistants-inventory-pricing-product-data",
+    "pass": 1
+   },
+   {
+    "quote": "Returns, warranty, and support answers",
+    "url": "https://www.clerk.io/blog/ai-shopping-assistants-inventory-pricing-product-data",
+    "pass": 1
+   },
+   {
+    "quote": "“It can be through search, product recommendations, or chat, it has truly boosted our revenue.”",
+    "url": "https://www.clerk.io/blog/ai-shopping-assistants-inventory-pricing-product-data",
+    "pass": 1
+   },
+   {
+    "quote": "How Nocepharm Increased Revenue by 10% using Predictive AI",
+    "url": "https://www.clerk.io/topic/customer-stories",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Turn behavior and purchase intent into segments you can activate across Email, Meta and Google. Reach existing customers and leads with more relevant campaigns, reduce dependence on cold acquisition and create more opportunities for repeat revenue.",
+    "url": "https://www.clerk.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Send emails shoppers want to open and",
+    "url": "https://www.clerk.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Give past visitors a reason to come back with personalized product emails based on their interests, behavior and purchase history. Clerk selects relevant products automatically, so you can reactivate shoppers without paying to reach the same people again.",
+    "url": "https://www.clerk.io/",
+    "pass": 1
+   },
+   {
+    "quote": "\"We A/B-tested between our own manually selected products and Clerk's automated email recommendations.",
+    "url": "https://www.clerk.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect your store to Clerk.io once. Search, Recommendations, Chat, Audience and Email then work from the same data to help shoppers find what they want, buy more and come back. That means less integration work and fewer separate tools to manage and pay for.",
+    "url": "https://www.clerk.io/",
+    "pass": 1
+   },
+   {
+    "quote": "We A/B-tested between our own manually selected products and Clerk.io's automated email recommendations. Clerk.io showed a",
+    "url": "https://www.clerk.io/",
+    "pass": 1
+   },
+   {
+    "quote": "AI-driven automated email campaigns save us a tremendous amount of time",
+    "url": "https://www.clerk.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Make your webstore as solid and foundational as the products you sell with hyper-personalized search, recommendations, email marketing, and audience segmentation that’ll have your customers filling up their baskets. Clerk’s personalization software ensures you’re always displaying the right products for your customers to maximize your conversion rates, basket size, and order values.",
+    "url": "https://www.clerk.io/client-verticals",
+    "pass": 1
+   },
+   {
+    "quote": "Data-driven emails with personalized campaigns",
+    "url": "https://www.clerk.io/love",
+    "pass": 1
+   },
+   {
+    "quote": "We A/B-tested between our own manually selected products and Clerk.io's automated email recommendations.",
+    "url": "https://www.clerk.io/love",
+    "pass": 1
+   },
+   {
+    "quote": "I have worked with Clerk.io, as a user of their services, for three years. I have used their Recommendations, Search, Email and Audience and have no complaints. Clerk.io helps you generate that extra edge/conversion and the possibilities of customization are endless. !",
+    "url": "https://www.clerk.io/love",
+    "pass": 1
+   },
+   {
+    "quote": "the automatic email recommendations makes a big difference for me.",
+    "url": "https://www.clerk.io/love",
+    "pass": 1
+   },
+   {
+    "quote": "With Clerk.io's audience we can align personalisation across all our marketing channels - Facebook audiences, email marketing etc.",
+    "url": "https://www.clerk.io/love",
+    "pass": 1
+   },
+   {
+    "quote": "Clerk.io provides this very unique combination of great products and great service - for a very reasonable price. Enabling non-techies to (intuitively) implement real-time personalizations in website, search and e-mail,",
+    "url": "https://www.clerk.io/love",
+    "pass": 1
+   },
+   {
+    "quote": "Den mest rentable Black Friday-kanal: Sådan får du mere ud af e-mail",
+    "url": "https://www.clerk.io/love",
+    "pass": 1
+   },
+   {
+    "quote": "Avoid the Summer Slump: Email on Autopilot",
+    "url": "https://www.clerk.io/love",
+    "pass": 1
+   },
+   {
+    "quote": "Tweaking search. Adjusting recommendations. Optimizing emails. Manual work slowed growth.Ten years ago (before modern AI even existed) I founded Clerk with a simple vision: build a system that understands how to connect people and products. Not separate tools, but one intelligence at the core, powering everything automatically.",
+    "url": "https://www.clerk.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "Data-driven emails with personalized campaigns",
+    "url": "https://www.clerk.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Qapla' is the Software that simplifies eCommerce shipments management and unlocks delivery communications marketing potential. It provides an all-in-one platform that includes features such as labels' creation and printing, +170 carriers' tracking, customization of emails and SMS about delivery.",
+    "url": "https://www.clerk.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Den mest rentable Black Friday-kanal: Sådan får du mere ud af e-mail",
+    "url": "https://www.clerk.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Avoid the Summer Slump: Email on Autopilot",
+    "url": "https://www.clerk.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Clerk's real power shines when Search, Recommendations, Audience, and Email are combined, providing you with a single and cohesive platform to facilitate crucial e-commerce functionalities.",
+    "url": "https://www.clerk.io/intelligent-search",
+    "pass": 1
+   },
+   {
+    "quote": "Send 1:1 personalized product emails",
+    "url": "https://www.clerk.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Monthly opened emails:",
+    "url": "https://www.clerk.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Usage is based on API calls (Search, Recommendations and Recommendation emails), number of uploaded customers with an associated email (Audience), and number of sent emails (Auto email)",
+    "url": "https://www.clerk.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Eva Solo: Achieved 125% Higher Average Order Value With Personalized Content and Emails",
+    "url": "https://www.clerk.io/learn/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How Marinor Increases Sales & Saves Time Using Email Automation Tools",
+    "url": "https://www.clerk.io/learn/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How Barefoot Junkie Automates Email Marketing and Increases Profits",
+    "url": "https://www.clerk.io/learn/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How Ausilium Tripled Conversion & Sent More Emails in Less Time",
+    "url": "https://www.clerk.io/learn/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Edit Email Content Just Got Quicker",
+    "url": "https://www.clerk.io/learn/blog",
+    "pass": 1
+   },
+   {
+    "quote": "New: Faster image delivery for Email Embeds",
+    "url": "https://www.clerk.io/learn/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Double opt-in is now available for Email subscribers 🎉",
+    "url": "https://www.clerk.io/learn/blog",
+    "pass": 1
+   },
+   {
+    "quote": "How to Add AI Product Recommendations to Mailchimp Emails",
+    "url": "https://www.clerk.io/learn/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Top Email Automation Services for Growing E‑Commerce Stores",
+    "url": "https://www.clerk.io/learn/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Multilingual Email Marketing Without Multiplying the Workload",
+    "url": "https://www.clerk.io/learn/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Browse Abandonment Emails That Actually Help the Shopper",
+    "url": "https://www.clerk.io/learn/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Replenishment Emails Without Manual Guesswork",
+    "url": "https://www.clerk.io/learn/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Product Launch Emails That Do Not Go to Everyone",
+    "url": "https://www.clerk.io/learn/blog",
+    "pass": 1
+   },
+   {
+    "quote": "How to Build an Email Campaign Calendar from Store Data, Not a Meeting",
+    "url": "https://www.clerk.io/learn/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Search Abandonment Emails: Why They Matter and How to Do Them Right",
+    "url": "https://www.clerk.io/learn/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Best Tools for Personalised Email Based on Browsing History",
+    "url": "https://www.clerk.io/learn/blog",
+    "pass": 1
+   },
+   {
+    "quote": "An AI agent that runs revenue-generating email marketing in under an hour a month!",
+    "url": "https://www.clerk.io/learn/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Best Email Marketing Software With AI Product Recommendations",
+    "url": "https://www.clerk.io/learn/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Top Autopilot Email Marketing Platforms for Online Retailers",
+    "url": "https://www.clerk.io/learn/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Top Autopilot Email Marketing Tools for BigCommerce Stores",
+    "url": "https://www.clerk.io/learn/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Abandoned Cart Emails: Recover Lost Sales with Clerk.io",
+    "url": "https://www.clerk.io/learn/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Why Clerk.io Is the Best Email Marketing Software for Ecommerce",
+    "url": "https://www.clerk.io/learn/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Email Marketing: Grow Ecommerce Sales with Clerk.io",
+    "url": "https://www.clerk.io/learn/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Email Newsletters That Convert: The Smarter Way with Clerk.io",
+    "url": "https://www.clerk.io/learn/blog",
+    "pass": 1
+   },
+   {
+    "quote": "What Is a Good Open Rate for Email? Unlocking the Ecommerce Benchmarks",
+    "url": "https://www.clerk.io/learn/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Email Marketing Automation: AI-Driven Flows That Convert for Ecommerce",
+    "url": "https://www.clerk.io/learn/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Benefits of Email Marketing for E-Commerce in 2025",
+    "url": "https://www.clerk.io/learn/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Email Recommendations: How Personalized Engagement Replaces Inbox Overload",
+    "url": "https://www.clerk.io/learn/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Find New Customers and Re-Engage Existing Customers With Email Segmentation",
+    "url": "https://www.clerk.io/learn/blog",
+    "pass": 1
+   },
+   {
+    "quote": "We A/B-tested between our own manually selected products and Clerk.io's automated email recommendations.",
+    "url": "https://www.clerk.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "I have worked with Clerk.io, as a user of their services, for three years. I have used their Recommendations, Search, Email and Audience and have no complaints. Clerk.io helps you generate that extra edge/conversion and the possibilities of customization are endless!",
+    "url": "https://www.clerk.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "the automatic email recommendations makes a big difference for me.",
+    "url": "https://www.clerk.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how we bring AI to Email Automation",
+    "url": "https://www.clerk.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "With Clerk.io's audience we can align personalisation across all our marketing channels - Facebook audiences, email marketing etc.",
+    "url": "https://www.clerk.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Clerk.io provides this very unique combination of great products and great service - for a very reasonable price. Enabling non-techies to (intuitively) implement real-time personalizations in website, search and e-mail,",
+    "url": "https://www.clerk.io/customers",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Business and Industrial",
+    "url": "https://www.clerk.io/client-verticals",
+    "pass": 1
+   },
+   {
+    "quote": "Business & industrial",
+    "url": "https://www.clerk.io/love",
+    "pass": 1
+   },
+   {
+    "quote": "DNA Factory is an Adobe-certified Digital Commerce Factory, specialized in developing enterprise-level ecommerce platforms and satellite microservices to support the platform.",
+    "url": "https://www.clerk.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Business & industrial",
+    "url": "https://www.clerk.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "5 Ways Your Business and Industrial E-Commerce Could Be More Profitable",
+    "url": "https://www.clerk.io/learn/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Stock status should be synchronized often enough for the store’s buying cycle. If stock differs by warehouse, country, or delivery method, those constraints belong in the assistant’s retrieval logic.",
+    "url": "https://www.clerk.io/blog/ai-shopping-assistants-inventory-pricing-product-data",
+    "pass": 1
+   },
+   {
+    "quote": "Promising delivery that the warehouse cannot meet",
+    "url": "https://www.clerk.io/blog/ai-shopping-assistants-inventory-pricing-product-data",
+    "pass": 1
+   },
+   {
+    "quote": "These failures are measurable. Track recommendation clicks that lead to out-of-stock pages, assistant conversations that end after a stock check, price corrections, and support contacts caused by inaccurate answers.",
+    "url": "https://www.clerk.io/blog/ai-shopping-assistants-inventory-pricing-product-data",
+    "pass": 1
+   },
+   {
+    "quote": "Business & industrial",
+    "url": "https://www.clerk.io/blog/boraso-and-clerk",
+    "pass": 1
+   },
+   {
+    "quote": "and the DynamicWeb platform used by Korsør Hvidevarecenter.",
+    "url": "https://www.clerk.io/blog/korsor-hvidevarecenter",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Our strong network of agencies with core skills and experience in implementing ecommerce solutions in both B2B and B2C keeps merchants calm and content",
+    "url": "https://www.clerk.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Beneficial Partner Program",
+    "url": "https://www.clerk.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Angry Creative is one of Europe’s largest authorised WooCommerce agencies and deliver services to organisations worldwide. Our mission is to aid in digital transformation and business development by helping our clients build what they actually need - not what they think they want",
+    "url": "https://www.clerk.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We offer a close relationship, exciting partner program and many incentives. Fill out the form and we will get back to you.",
+    "url": "https://www.clerk.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Chill in style: Outdoor wellness spaces boost your brand",
+    "url": "https://www.clerk.io/learn/blog",
+    "pass": 1
+   },
+   {
+    "quote": "How To Market Your Brand Through Bomb Social Media",
+    "url": "https://www.clerk.io/learn/blog",
+    "pass": 1
+   },
+   {
+    "quote": "toEmailAddress = evt.",
+    "url": "https://tech.plaid.co.jp/wicle-clerk",
+    "pass": 3
+   },
+   {
+    "quote": ": [toEmailAddress],",
+    "url": "https://tech.plaid.co.jp/wicle-clerk",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "翻訳の独自カスタマイズについては、Clerkの日本語翻訳をベースとしつつ、独自に定義で上書きすることができます",
+    "url": "https://tech.plaid.co.jp/wicle-clerk",
+    "pass": 3
+   },
+   {
+    "quote": "How to say clerk in Japanese",
+    "url": "https://www.wordhippo.com/what-is/the/japanese-word-for-f38de2358e07b0c3d99164b3494ce57bff75ee70.html",
+    "pass": 3
+   },
+   {
+    "quote": "More Japanese words for clerk",
+    "url": "https://www.wordhippo.com/what-is/the/japanese-word-for-f38de2358e07b0c3d99164b3494ce57bff75ee70.html",
+    "pass": 3
+   },
+   {
+    "quote": "Translate to Japanese",
+    "url": "https://www.wordhippo.com/what-is/the/japanese-word-for-f38de2358e07b0c3d99164b3494ce57bff75ee70.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本語WordNet(英和)での「clerk」の意味",
+    "url": "https://ejje.weblio.jp/content/clerk",
+    "pass": 3
+   },
+   {
+    "quote": "CLERK | translate English to Japanese - Cambridge Dictionary",
+    "url": "https://dictionary.cambridge.org/dictionary/english-japanese/clerk",
+    "pass": 3
+   },
+   {
+    "quote": "– English–Japanese dictionary",
+    "url": "https://dictionary.cambridge.org/dictionary/english-japanese/clerk",
+    "pass": 3
+   },
+   {
+    "quote": "Cambridge English–Japanese Dictionary",
+    "url": "https://dictionary.cambridge.org/dictionary/english-japanese/clerk",
+    "pass": 3
+   },
+   {
+    "quote": "| GLOBAL English–Japanese Dictionary",
+    "url": "https://dictionary.cambridge.org/dictionary/english-japanese/clerk",
+    "pass": 3
+   },
+   {
+    "quote": "GLOBAL English–Japanese",
+    "url": "https://dictionary.cambridge.org/dictionary/english-japanese/clerk",
+    "pass": 3
+   },
+   {
+    "quote": "clerk in Japanese - 事務員 (じむいん) | Wanilog",
+    "url": "https://wanilog.com/vocab/clerk-%E4%BA%8B%E5%8B%99%E5%93%A1",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Clerk認証とは？Next.js 16への導入手順とCore 3の変更点・MRU料金・A... — Oct 13, 2026 · Clerkは、サインイン画面・ユーザー管理・セッション管理をまとめて外部化できる、React・Next.jsに寄せた認証SaaSです。 この記事では、Next.js 16へClerk認証を組み込む手順をコード付きで示します。",
+    "url": "https://www.issoh.co.jp/tech/details/18308/",
+    "pass": 3
+   },
+   {
+    "quote": "認証サービス Clerk の紹介と導入【React】 - Zenn — Apr 2, 2025 · Clerk の利点とは？ Clerk の魅力は、なんといっても、導入が簡単なところですね。 SDK で提供されるコンポーネントを配置するだけで、すぐに使い始めることができます！ GUI のダッシュボードもあり、管理も簡単です！",
+    "url": "https://zenn.dev/b13o/articles/tutorial-clerk",
+    "pass": 3
+   },
+   {
+    "quote": "新進気鋭の認証サービスClerkを実プロダクトで使いこなせ — Sep 26, 2024 · まとめ このブログでは、Clerkを本番環境で運用している（まだ少なそうな）国内の事例の一つとして、ハマったポイントやtipsを紹介しました。 Clerkに興味があるけど採用事例が少なくて不安だなという方はぜひ参考にしてみてください。",
+    "url": "https://tech.plaid.co.jp/wicle-clerk",
+    "pass": 3
+   },
+   {
+    "quote": "Clerkで爆速認証！Next.js×TypeScript×Tailwindで体感した「つなぐ力... — Aug 13, 2025 · Clerkは、Web・モバイルアプリに安全なログインとユーザー管理機能を 驚くほど短時間で 組み込める認証サービスです。 特にNext.jsやReact系フレームワークとの相性が抜群で、 セットアップから公開までのスピード感は異次元 です。",
+    "url": "https://note.com/sugerpowder/n/n29bf9b98fb12",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザ認証・組織管理の実装を簡単にできるClerkの検討 - Qiita — Oct 2, 2025 · ベンダーロックイン: ClerkとStripeの両方に依存 機能制限: Beta版のため、一部の高度な機能が未実装の可能性 価格転嫁の必要性: 追加手数料分をサービス価格に反映する必要 総合評価 ️Clerkが向いているケース B2B/B2C SaaSを構築する場合（組織管理機能が必須）",
+    "url": "https://qiita.com/nakamasato/items/e5ac6ccf01c2b07b6ff1",
+    "pass": 3
+   },
+   {
+    "quote": "How to say clerk in Japanese - WordHippo — Need to translate \"clerk\" to Japanese? Here are 7 ways to say it.",
+    "url": "https://www.wordhippo.com/what-is/the/japanese-word-for-f38de2358e07b0c3d99164b3494ce57bff75ee70.html",
+    "pass": 3
+   },
+   {
+    "quote": "英語「clerk」の意味・使い方・読み方 | Weblio英和辞書 — The best preparation for the long case is to clerk patients on the wards and in outpatients within a strict 60 minutes. This would include deciding on a policy of management.",
+    "url": "https://ejje.weblio.jp/content/clerk",
+    "pass": 3
+   },
+   {
+    "quote": "CLERK | translate English to Japanese - Cambridge Dictionary — CLERK translate: 事務員, 店員（てんいん）, 事務員（じむいん）. Learn more in the Cambridge English-Japanese Dictionary.",
+    "url": "https://dictionary.cambridge.org/dictionary/english-japanese/clerk",
+    "pass": 3
+   },
+   {
+    "quote": "clerk in Japanese - 事務員 (じむいん) | Wanilog — clerk in Japanese: 事務員 (じむいん). Reading, English meanings, kanji breakdown, and WaniKani level for each component kanji.",
+    "url": "https://wanilog.com/vocab/clerk-事務員",
+    "pass": 3
+   },
+   {
+    "quote": "clerk in Japanese - English-Japanese Dictionary | Glosbe — Check 'clerk' translations into Japanese. Look through examples of clerk translation in sentences, listen to pronunciation and learn grammar.",
+    "url": "https://glosbe.com/en/ja/clerk",
+    "pass": 3
+   },
+   {
+    "quote": "Clerk.com B2B Case Studies & Customer Successes — See how Clerk.com solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/clerkcom",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How Clerk Uses Software & Services — Explore case studies featuring Clerk as the customer — learn how vendors and partners helped Clerk solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/clerk",
+    "pass": 3
+   },
+   {
+    "quote": "Clerk - 2026 Company Profile, Team, Funding & Competitors ...Clerk 2026 Company Profile: Valuation, Funding & Investors ...Clerk: $134.5M Funding, 208 Employees & Latest News | MandosClerk: Funding, Team & Investors | Startup IntrosClark Launches Autonomous AI Employees for Audit and Raises ...Clerk – Valuation, Revenue & Market Scope – 2026Clerk - Crunchbase Company Profile & Funding — Jun 5, 202",
+    "url": "https://tracxn.com/d/companies/clerk/__hG0xRLRpzJJgd5_dw478MHO8MNOGBgAfGH6SoXM1FBQ",
+    "pass": 3
+   },
+   {
+    "quote": "Clerk 2026 Company Profile: Valuation, Funding & Investors ...Clerk: $134.5M Funding, 208 Employees & Latest News | MandosClerk: Funding, Team & Investors | Startup IntrosClark Launches Autonomous AI Employees for Audit and Raises ...Clerk – Valuation, Revenue & Market Scope – 2026Clerk - Crunchbase Company Profile & Funding — Information on valuation, funding, cap tables, investors, and executive",
+    "url": "https://pitchbook.com/profiles/company/467603-83",
+    "pass": 3
+   },
+   {
+    "quote": "Clerk: $134.5M Funding, 208 Employees & Latest News | Mandos — Oct 11, 2026 · Clerk is a cybersecurity company specializing in IAM, founded in 2020 and headquartered in San Francisco, United States. It has raised $134.5M in equity across 8 priced rounds, employs about 208 people, and is privately held.",
+    "url": "https://mandos.io/data/companies/clerk",
+    "pass": 3
+   },
+   {
+    "quote": "Clerk: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Clerk was founded in 2019 by Colin Sidoti and Braden Sidoti. Clerk has raised $55.1M across 5 funding rounds. Most recently, it raised $15.0M Series A in March 2023.",
+    "url": "https://startupintros.com/orgs/clerk",
+    "pass": 3
+   },
+   {
+    "quote": "Clark Launches Autonomous AI Employees for Audit and Raises ... — Nov 2, 2026 · Clark, which builds AI for the professionals who verify the economy, today launched Clerks, autonomous AI employees that perform audit work for CPA firms.",
+    "url": "https://finance.yahoo.com/technology/ai/articles/clark-launches-autonomous-ai-employees-160000062.html?fr=sycsrp_catchall",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "ClerkとAuth0：個人開発向け認証選別ガイド｜AutoIncome Jun 4, 2026 · 無料枠の劇的な変更が個人開発家に朗報 認証サービス選びは、個人開発プロジェクトの開発速度に直結する判断です。2026年にClerkでは無料ユーザー上限が10,000から50,000に引き上げられた一方、Auth0は無料プランで25,000月間アクティブユーザーをサポートしています。この変化は、わずか数ヶ月前 ...",
+    "url": "https://note.com/autoincome/n/ndf4e10f6a1d7",
+    "pass": 3
+   },
+   {
+    "quote": "Clerk 徹底解説：無料プランからユーザー情報取得、他サービスへの移... Feb 26, 2025 · Clerkは、モダンなアプリケーションに特化した認証・ユーザー管理プラットフォームです。開発者はClerkを利用することで、サインイン、サインアップ、ユーザー管理機能をアプリケーションに簡単に統合できます。特にReact、Next.jsといったモダンなJavaScriptフレームワークとの相性が抜群です ...",
+    "url": "https://note.com/shokuan/n/nb6bd3968964e",
+    "pass": 3
+   },
+   {
+    "quote": "A Non-Regular Bookstore Clerk 'Doesn't Kill Themselves, But ... A Non-Regular Bookstore Clerk 'Doesn't Kill Themselves, But Keeps the Organization Alive'",
+    "url": "https://note.com/bookread_write/n/n740509698a35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "MyClerkの記事一覧｜note MyClerkさんの記事一覧です。",
+    "url": "https://note.com/myclerk0304/all",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "ClerkとAuth0：個人開発向け認証選別ガイド｜AutoIncome",
+    "url": "https://note.com/autoincome/n/ndf4e10f6a1d7",
+    "pass": 3
+   },
+   {
+    "quote": "ClerkとAuth0：個人開発向け認証選別ガイド",
+    "url": "https://note.com/autoincome/n/ndf4e10f6a1d7",
+    "pass": 3
+   },
+   {
+    "quote": "認証サービス選びは、個人開発プロジェクトの開発速度に直結する判断です。2026年にClerkでは無料ユーザー上限が10,000から50,000に引き上げられた一方、Auth0は無料プランで25,000月間アクティブユーザーをサポートしています。この変化は、わずか数ヶ月前の状況から大きく変わりました。",
+    "url": "https://note.com/autoincome/n/ndf4e10f6a1d7",
+    "pass": 3
+   },
+   {
+    "quote": "重要な落とし穴があります。Clerkの無料版ではセッション期間が7日固定されており、ユーザーは7日ごとに再ログインが必要です。これは一見見落としやすい制限ですが、実装段階でユーザー体験に直結します。Proプランなら設定可能ですが、このコスト意識の差は重要な選定軸になります。",
+    "url": "https://note.com/autoincome/n/ndf4e10f6a1d7",
+    "pass": 3
+   },
+   {
+    "quote": "Clerkは直感的なUI設計と React Server Component への対応により、Next.js プロジェクトで使いやすい選択肢です。Clerk統合は本番環境レベルまで2時間以内で実装可能で、ソーシャルログイン、メールマジックリンク、MFA、ユーザープロファイル管理を含むという報告もあります。",
+    "url": "https://note.com/autoincome/n/ndf4e10f6a1d7",
+    "pass": 3
+   },
+   {
+    "quote": "対してAuth0は、柔軟性と引き換えに初期設定の手厚さが求められます。Auth0の Management API は強力ですが複雑で、ユーザー検索は Lucene クエリ構文を使用し、バルク操作は層によって異なるレート制限があるため、小規模プロジェクトでは過度な機能を抱えることになります。",
+    "url": "https://note.com/autoincome/n/ndf4e10f6a1d7",
+    "pass": 3
+   },
+   {
+    "quote": "個人開発で選ぶべき観点として、使用技術スタックの親和性は見逃せません。Clerkは React、Next.js、Vue、Angular、Node.js に対応した マルチプラットフォーム対応で、特に React エコシステムでの統合密度が高くなっています。一方、Auth0 は数百のソーシャル・エンタープライズアイデンティティプロバイダーへの接続と、Auth0 が全42の対応機能に対して Clerk は31個の機能となっており、広い連携性で優れています。",
+    "url": "https://note.com/autoincome/n/ndf4e10f6a1d7",
+    "pass": 3
+   },
+   {
+    "quote": "しかし個人開発のスコープでは、Next.js の場合、Clerk は App Router ネイティブサポートとサーバーサイド認証ヘルパーで優れた開発者体験を提供し、Auth0 はより多くのセットアップが必要です。",
+    "url": "https://note.com/autoincome/n/ndf4e10f6a1d7",
+    "pass": 3
+   },
+   {
+    "quote": "Clerk 徹底解説：無料プランからユーザー情報取得、他サービスへの移行まで｜shokuan",
+    "url": "https://note.com/shokuan/n/nb6bd3968964e",
+    "pass": 3
+   },
+   {
+    "quote": "Clerk 徹底解説：無料プランからユーザー情報取得、他サービスへの移行まで",
+    "url": "https://note.com/shokuan/n/nb6bd3968964e",
+    "pass": 3
+   },
+   {
+    "quote": "Clerkは、モダンなアプリケーションに特化した認証・ユーザー管理プラットフォームです。開発者はClerkを利用することで、サインイン、サインアップ、ユーザー管理機能をアプリケーションに簡単に統合できます。特にReact、Next.jsといったモダンなJavaScriptフレームワークとの相性が抜群です。",
+    "url": "https://note.com/shokuan/n/nb6bd3968964e",
+    "pass": 3
+   },
+   {
+    "quote": "Clerkは、eコマースサイト、SaaSアプリケーション、モバイルアプリなど、幅広いアプリケーションに最適です。 例えば、eコマースサイトでは、Clerkのユーザー管理機能を使用して顧客のアカウント情報を管理し、パーソナライズされたショッピング体験を提供することができます。SaaSアプリケーションでは、Clerkの認証機能を使用して、ユーザーの安全なログインとアクセス制御を実現することができます。モバイルアプリでは、Clerkのソーシャルログイン機能を使用して、ユーザーが簡単にサインアップできるようにすることができます。",
+    "url": "https://note.com/shokuan/n/nb6bd3968964e",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートでは、Clerkの機能、料金体系、ユーザー情報取得、他サービスへの移行可能性について詳細に解説し、無料プランとProプランの違いを明確化します。",
+    "url": "https://note.com/shokuan/n/nb6bd3968964e",
+    "pass": 3
+   },
+   {
+    "quote": "Clerkは無料プランでも豊富な機能を提供しており、多くのアプリケーションで必要となる基本的な認証・ユーザー管理機能を網羅しています。 Clerkは開発モードではすべての機能を無料で使用できますが、本番モードではドメイン制限があります。",
+    "url": "https://note.com/shokuan/n/nb6bd3968964e",
+    "pass": 3
+   },
+   {
+    "quote": "月間アクティブユーザー (MAU) 10,000人まで無料:",
+    "url": "https://note.com/shokuan/n/nb6bd3968964e",
+    "pass": 3
+   },
+   {
+    "quote": "サインアップ後24時間以上経過してからアプリケーションに戻ってきたユーザーがアクティブユーザーとしてカウントされます。多くのスタートアップや小規模アプリケーションでは、無料プランの範囲内で運用できるでしょう。",
+    "url": "https://note.com/shokuan/n/nb6bd3968964e",
+    "pass": 3
+   },
+   {
+    "quote": "A Non-Regular Bookstore Clerk 'Doesn't Kill Themselves, But Keeps the Organization Alive'｜Y2K☮",
+    "url": "https://note.com/bookread_write/n/n740509698a35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A Non-Regular Bookstore Clerk 'Doesn't Kill Themselves, But Keeps the Organization Alive'",
+    "url": "https://note.com/bookread_write/n/n740509698a35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "'I never really liked the terms \"winning pattern\" or \"losing pattern\" to begin with; I've always thought they were poor choices of words.'",
+    "url": "https://note.com/bookread_write/n/n740509698a35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "That is a very relatable sentiment.",
+    "url": "https://note.com/bookread_write/n/n740509698a35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Of course, every team has relief pitchers who come in when they are leading. But calling the rest of the bullpen \"mop-up duty\" or a \"losing pattern\" is wrong. The game isn't over yet, and if they pitch well and bring good momentum to the team, there is still a chance for a comeback.",
+    "url": "https://note.com/bookread_write/n/n740509698a35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I also have the impression that Manager Fujikawa, after returning to the Hanshin Tigers from the majors in 2016, often pitched in situations where the team was trailing. He and pitcher Iwasaki, who is now active as an immovable closer, played the role of stopping the opponent's momentum.",
+    "url": "https://note.com/bookread_write/n/n740509698a35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Incidentally, former Tigers manager Akinobu Okada, who was a mentor to Manager Fujikawa, wrote in his 2008 book \"Stubborn Power\" that \"I basically do not have mop-up pitchers on my team,\" and continued as follows:",
+    "url": "https://note.com/bookread_write/n/n740509698a35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "You need pitchers who can work hard when the team is trailing. However, those pitchers are excellent set-up men for the Hanshin Tigers. The Hanshin lineup never gives up.",
+    "url": "https://note.com/bookread_write/n/n740509698a35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【はじめての方へ】MyClerkについて✨",
+    "url": "https://note.com/myclerk0304/all",
+    "pass": 3
+   },
+   {
+    "quote": "マイクラーク“令和版”住宅FPスクール2026 レポート【Vol.2】",
+    "url": "https://note.com/myclerk0304/all",
+    "pass": 3
+   },
+   {
+    "quote": "顧客フォローが続かないFPへ｜ニュースレター・はがきを無理なく続ける仕組みづくり",
+    "url": "https://note.com/myclerk0304/all",
+    "pass": 3
+   },
+   {
+    "quote": "来年に向けて考えたい、FPの「マーケット選び」｜売れ続けるFPの3つの道",
+    "url": "https://note.com/myclerk0304/all",
+    "pass": 3
+   },
+   {
+    "quote": "FPが成果を出すために必要な4つの要素｜集客・成約率・成約単価・リピート",
+    "url": "https://note.com/myclerk0304/all",
+    "pass": 3
+   },
+   {
+    "quote": "マイクラーク“令和版”住宅FPスクール2026 レポート【Vol.1】",
+    "url": "https://note.com/myclerk0304/all",
+    "pass": 3
+   },
+   {
+    "quote": "リッチメニューを活用しきれていないFPへ｜相談予約や情報提供につなげる活用アイデア",
+    "url": "https://note.com/myclerk0304/all",
+    "pass": 3
+   },
+   {
+    "quote": "ロイヤルカスタマーへのフォローに悩むFPへ｜関係を深めるための3つのポイント",
+    "url": "https://note.com/myclerk0304/all",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Clerk (@clerk) / X Agents style components best when the styles are plain CSS. So that's how we built the new UserButton, with stable class names and layers you control. In the Clerk Dashboard, that let us delete most of the wrapper code around it. @prestonb_xyz breaks down how, from design tokens to a custom 3D fold-out menu in plain CSS.",
+    "url": "https://x.com/Clerk",
+    "pass": 3
+   },
+   {
+    "quote": "Bill Brown (@billbrown) / X Republican Jeff Dial has conceded to Democrat Sebastian Matta in the Maricopa County clerk of Superior Court race. Matta, a 19-year-old Arizona State University sophomore, will lead the clerk's office in the nation's fourth largest county",
+    "url": "https://x.com/billbrown",
+    "pass": 3
+   },
+   {
+    "quote": "Clerk (@clerk) / X The Clerk plugin for @OpenAI 's Codex gives it Clerk-specific guidance for adding auth, building custom sign-in flows, and setting up Organizations and Billing.",
+    "url": "https://x.com/Clerk",
+    "pass": 3
+   },
+   {
+    "quote": "Clerk (@useclerk) / X Clerk @useclerk 1h People often forget that their digital creations have a limited shelf life, and are just as prone to obsolescence as anything else.",
+    "url": "https://x.com/useclerk",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Clerk Jobs in Phoenix (4,000+ Open Roles) | LinkedIn 4,000+ Clerk Jobs in Phoenix Billing & Data Entry (Full-Time) Dayton Freight Lines, Inc. Tempe, AZ 18 hours ago",
+    "url": "https://www.linkedin.com/jobs/clerk-jobs-phoenix-az",
+    "pass": 3
+   },
+   {
+    "quote": "Maricopa County Clerk of the Superior Court | LinkedIn Company size 501-1,000 employees Headquarters Phoenix, Arizona Type Government Agency Specialties child support, marriage licenses, court records, filings, passports, probate, adoptions, and...",
+    "url": "https://www.linkedin.com/company/maricopaclerkofcourt",
+    "pass": 3
+   },
+   {
+    "quote": "County Clerk Jobs in Phoenix (310 Open Roles) | LinkedIn 310 County Clerk Jobs in Phoenix Court Clerk City of Scottsdale Scottsdale, AZ Be an early applicant 1 week ago",
+    "url": "https://www.linkedin.com/jobs/county-clerk-jobs-phoenix-az",
+    "pass": 3
+   },
+   {
+    "quote": "City Clerk Jobs in Arizona (593 Open Roles) | LinkedIn Today’s top 593 City Clerk jobs in Arizona. Leverage your professional network, and get hired. New City Clerk jobs added daily.",
+    "url": "https://www.linkedin.com/jobs/city-clerk-jobs-arizona",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "APWU Phoenix Metro Area Local 0093 | Phoenix AZArizona Municipal Clerks' Association - FacebookSuperior Court of Arizona in Maricopa County - FacebookMaricopa County Recorder’s Office | Phoenix AZ - FacebookClerk of Superior Court in Maricopa County - Facebook Jul 24, 2026 · Organization All 94% recommend (11 reviews) 3741 E Atlanta Ave, Phoenix, AZ, United States, 85040 Jul 14, 2026 · I invite yo",
+    "url": "https://www.facebook.com/phoenixapwu/",
+    "pass": 3
+   },
+   {
+    "quote": "Arizona Municipal Clerks' Association - FacebookSuperior Court of Arizona in Maricopa County - FacebookMaricopa County Recorder’s Office | Phoenix AZ - FacebookClerk of Superior Court in Maricopa County - Facebook Jul 14, 2026 · I invite you to join me in supporting the IIMC Foundation for Municipal Clerk Education this AZ Gives Day. Together, we can make a tangible difference in the lives of cler",
+    "url": "https://www.facebook.com/AMCA1961/",
+    "pass": 3
+   },
+   {
+    "quote": "Superior Court of Arizona in Maricopa County - FacebookMaricopa County Recorder’s Office | Phoenix AZ - FacebookClerk of Superior Court in Maricopa County - Facebook Oct 22, 2026 · The State Bar of Arizona’s Public Service Center, City of Glendale, Judicial Branch of Maricopa County and Maricopa County Bar Association are working together to bring you a FREE Legal Clinic. As we look ahead, I remai",
+    "url": "https://www.facebook.com/SuperiorCourtofArizona/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.clerk.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clerk.io/client-verticals",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clerk.io/love",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clerk.io/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clerk.io/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clerk.io/intelligent-search",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clerk.io/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clerk.io/learn/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clerk.io/learn/blog",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clerk.io/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clerk.io/blog/ai-shopping-assistants-inventory-pricing-product-data",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clerk.io/topic/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clerk.io/blog/aart-de-vos-ai-search-recommendations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clerk.io/blog/boraso-and-clerk",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clerk.io/blog/spot-vip-customers-about-to-churn",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clerk.io/blog/clerk-io-und-unzer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clerk.io/blog/korsor-hvidevarecenter",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.clerk.io/images/logos/evatrio-logo.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.clerk.io/images/logos/evatrio-logo.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.clerk.io/images/webflow/cdn-prod-website-files-com/633581dc87d48790531957f4/6a2141f8faa39444979353a4_how-to-spot-vip-customers-about-to-churn-and-win-them-back.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.clerk.io/images/webflow/cdn-prod-website-files-com/633581dc87d48790531957f4/69d4bf48e6158550c1f67fa5_Retention-of-Customers_-How-to-Build-Loyalty-with-Clerk.io-(2).webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.issoh.co.jp/tech/details/18308/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://zenn.dev/b13o/articles/tutorial-clerk",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tech.plaid.co.jp/wicle-clerk",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sugerpowder/n/n29bf9b98fb12",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/contract/basic/8378/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wordhippo.com/what-is/the/japanese-word-for-f38de2358e07b0c3d99164b3494ce57bff75ee70.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ejje.weblio.jp/content/clerk",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dictionary.cambridge.org/dictionary/english-japanese/clerk",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wanilog.com/vocab/clerk-%E4%BA%8B%E5%8B%99%E5%93%A1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/clerkcom",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hcltech.com/case-studies/manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.upcounsel.com/reseller-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.godaddy.com/help/get-started-with-basic-and-pro-reseller-7454",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/clerk/__hG0xRLRpzJJgd5_dw478MHO8MNOGBgAfGH6SoXM1FBQ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/467603-83",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://mandos.io/data/companies/clerk",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://startupintros.com/orgs/clerk",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/autoincome/n/ndf4e10f6a1d7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/shokuan/n/nb6bd3968964e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/bookread_write/n/n740509698a35?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/myclerk0304/all",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Clerk",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/billbrown",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/clerk-jobs-phoenix-az",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/maricopaclerkofcourt",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/county-clerk-jobs-phoenix-az",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/city-clerk-jobs-arizona",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/phoenixapwu/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/AMCA1961/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SuperiorCourtofArizona/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Clerk",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/useclerk",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Clerk 日本 導入",
+   "results": [
+    "https://www.issoh.co.jp/tech/details/18308/",
+    "https://zenn.dev/b13o/articles/tutorial-clerk",
+    "https://tech.plaid.co.jp/wicle-clerk",
+    "https://note.com/sugerpowder/n/n29bf9b98fb12",
+    "https://qiita.com/nakamasato/items/e5ac6ccf01c2b07b6ff1",
+    "https://koiyal.com/blog/clerk-billing",
+    "https://saasmap.jp/tools/clerk"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Clerk 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://chigai-hikaku.com/?p=36920"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Clerk Japan",
+   "results": [
+    "https://www.wordhippo.com/what-is/the/japanese-word-for-f38de2358e07b0c3d99164b3494ce57bff75ee70.html",
+    "https://ejje.weblio.jp/content/clerk",
+    "https://dictionary.cambridge.org/dictionary/english-japanese/clerk",
+    "https://wanilog.com/vocab/clerk-事務員",
+    "https://glosbe.com/en/ja/clerk",
+    "https://www.collinsdictionary.com/dictionary/english-japanese/clerk",
+    "https://jisho.org/search/clerk"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Clerk manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/clerkcom",
+    "https://www.hcltech.com/case-studies/manufacturing",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.casestudies.com/customer/clerk",
+    "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "https://www.conveyormg.com/resources/blogs/creating-manufacturing-case-studies"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Clerk white label OR reseller OR partner program",
+   "results": [
+    "https://www.seoreseller.com/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.godaddy.com/help/get-started-with-basic-and-pro-reseller-7454",
+    "https://www.namesilo.com/reseller",
+    "https://www.godaddy.com/en/reseller-program",
+    "https://blog.vendoo.co/reselling-101-how-to-become-a-reseller-start-making-a-profit"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Clerk founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/clerk/__hG0xRLRpzJJgd5_dw478MHO8MNOGBgAfGH6SoXM1FBQ",
+    "https://pitchbook.com/profiles/company/467603-83",
+    "https://mandos.io/data/companies/clerk",
+    "https://startupintros.com/orgs/clerk",
+    "https://finance.yahoo.com/technology/ai/articles/clark-launches-autonomous-ai-employees-160000062.html?fr=sycsrp_catchall",
+    "https://compworth.com/company/clerk",
+    "https://www.crunchbase.com/organization/clerk-a9b8"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Clerk",
+   "results": [
+    "https://note.com/autoincome/n/ndf4e10f6a1d7",
+    "https://note.com/shokuan/n/nb6bd3968964e",
+    "https://note.com/bookread_write/n/n740509698a35?hl=en",
+    "https://note.com/myclerk0304/all",
+    "https://note.com/huge_murre4847/n/n306a6d0f1f6c?hl=en",
+    "https://note.com/wise_turtle184",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Clerk",
+   "results": [
+    "https://x.com/Clerk",
+    "https://x.com/stephen_richer",
+    "https://help.x.com/en",
+    "https://x.com/billbrown",
+    "https://x.com/FuxGiven404/status/2116751566397198754",
+    "https://x.com/PaolaBoivin",
+    "https://x.com/realAlexKolodin"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Clerk",
+   "results": [
+    "https://www.linkedin.com/jobs/clerk-jobs-phoenix-az",
+    "https://www.linkedin.com/company/maricopaclerkofcourt",
+    "https://www.linkedin.com/jobs/county-clerk-jobs-phoenix-az",
+    "https://www.linkedin.com/jobs/city-clerk-jobs-arizona",
+    "https://www.linkedin.com/in/denise-archibald-393515100",
+    "https://www.linkedin.com/jobs/mailroom-clerk-jobs-phoenix-az",
+    "https://www.linkedin.com/jobs/mailroom-jobs-phoenix-az"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Clerk",
+   "results": [
+    "https://www.facebook.com/phoenixapwu/",
+    "https://www.facebook.com/AMCA1961/",
+    "https://www.facebook.com/SuperiorCourtofArizona/",
+    "https://www.facebook.com/MaricopaRecorder/",
+    "https://www.facebook.com/MaricopaClerkofCourt/",
+    "https://www.facebook.com/MaricopaClerkofCourt/posts/did-you-knowmany-court-documents-can-be-filed-onlineefiling-allows-eligible-user/1444771407690739/",
+    "https://www.facebook.com/JimmyKimmelLive/videos/jimmy-chats-with-the-19-year-old-democrat-who-ran-for-superior-court-clerk-in-ph/1800092924562286/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Clerk note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://note.com/saiyou_dekirukun/all",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/n10ae3b3f8acd"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Clerk X 投稿",
+   "results": [
+    "https://x.com/Clerk",
+    "https://x.com/useclerk",
+    "https://note.com/ai_benkyo/n/ne0f813d1e370",
+    "https://note.com/rlhwbs_office/n/n795e14f2fb73",
+    "https://nexa-corp.jp/claude-code-tweet-auto-draft-x/",
+    "https://help.x.com/ja",
+    "https://www.theaiventure.com/ai-tweet-generation-claude-guide/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式17頁／PDF・画像4件／外部39頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式17頁／PDF・画像4件／外部39頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式17頁／PDF・画像4件／外部39頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式17頁／PDF・画像4件／外部39頁・検索12回）"
+ }
+}

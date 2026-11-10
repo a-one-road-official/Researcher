@@ -5731,7 +5731,7 @@
   - 「). However, members of the elite are not necessarily knowledgeable about the political process or event of interest. In this case, they do not qualify as experts and the researcher should desist from selecting them as interview partners. For most research objectives, the selection of expert interview partners should therefore be problem- and expertise-centered rather than status-oriented.」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
   - 「). Inside experts are decision makers who actually shaped the political or social process of interest. In this case, expert interviews are a proxy for participant observation (Pouliot」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
   - 「The case for mid- and low-level insiders:」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
-- 一次情報の探し方：記載なし（読んだ20頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ22頁・検索12回）
 
 ## 統計の改訂の片寄りの検定（平均改訂のt検定・改訂の起きやすさ・推計方法の変更による改訂）（revision bias significance test mean revision t-test methodological revisions）
 - 文脈：統計の版
@@ -6347,7 +6347,7 @@
   - 「In a fun case from 2021, National Public Radio」（https://gijn.org/stories/data-reporting-donts-tips-avoid-misleading-numbers/）
 - 検索結果の抜粋：
   - 「Lessons Learned: 10 Common Mistakes in Data Journalism — Lessons Learned: 10 Common Mistakes in Data Journalism Global Investigative Journalism Network (GIJN) https://gijn.org > stories > 10-commo...」（https://gijn.org/stories/10-common-mistakes-data-journalism/）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ28頁・検索12回）
 
 ## 統計の改訂分析の実務（平均改訂・平均絶対改訂・符号・検定）（revision analysis official statistics mean revision mean absolute revision）
 - 文脈：統計
@@ -13024,11 +13024,11 @@
 
 ## 仮説を立てたあとの「追い」の段（新しい証拠だけを表に足して評価し直す・欺瞞と味方の報告の誤りを疑う・旧日本海軍の情報判断と競合仮説分析の比較）（follow-up stage competing hypotheses add new evidence re-evaluate deception own reporting errors）
 - 文脈：手順・やり方
-- 手順・やり方：記載なし（読んだ24頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
-- 実例：記載なし（読んだ24頁・検索12回）
+- 手順・やり方：記載なし（読んだ29頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
+- 実例：記載なし（読んだ29頁・検索12回）
 
 ## データ報道の表計算の点検と検証の手引き（GIJN・DataJournalism.com・ethosrisk の OSINT の実務。前回 WebFetch 不達の本文を取る）（data journalism spreadsheet checks verification handbook OSINT best practices）
 - 文脈：突き合わせ

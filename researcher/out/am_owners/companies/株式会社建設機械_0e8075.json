@@ -1,0 +1,1117 @@
+{
+ "name": "株式会社建設機械",
+ "aliases": [],
+ "context": "PBF=yes 装置=DMLS 出典=https://eishin1.jp/pages/13/",
+ "researched_at": "2026-11-10T18:13:53.135223+00:00",
+ "official_url": "https://www.cema.or.jp/",
+ "identified_by": "search:ddgs:google:建設機械",
+ "profile": {},
+ "evidence": {
+  "用途・客の産業": [
+   {
+    "quote": "「ジュニアメカニック2026＠福岡」は若年層(小・中学生等)に自動車や自動車整備の魅力を感じていただくため、楽しみながら整備作業を体験していただき、将来的に自動車整備士を「なりたい仕事」として保護者の方々を含めて興味を持っていただくことを目的に開催されるイベントであり、今回で3回目の開催となります",
+    "url": "https://www.cema.or.jp/general/news/2026/20260925.html",
+    "pass": 1
+   },
+   {
+    "quote": "潤滑油等の購入に関する御協力について（資源エネルギー庁）",
+    "url": "https://www.cema.or.jp/general/news/2026/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "「ジュニアメカニック2026in東北」は若年層(小・中学生等)に自動車や自動車整備の魅力を感じていただくため、楽しみながら整備作業を体験していただき、将来的に自動車整備士を「なりたい仕事」として保護者の方々を含めて興味を持っていただくことを目的に開催されるイベントであり、東北地域では昨年に続き、2回目の開催となります",
+    "url": "https://www.cema.or.jp/general/news/2026/20260901.html",
+    "pass": 1
+   },
+   {
+    "quote": "ZXシリーズをベースに、電気エネルギーを従来の油圧システムと併用したハイブリッドモデル",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%AB%8B%E5%BB%BA%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "旋回減速時に発生するエネルギーを電気エネルギーとしてキャパシタに蓄電し、旋回駆動時に旋回油圧モータを電動モータでアシストすることで低燃費性能を高めている",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%AB%8B%E5%BB%BA%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "、株式会社日の出自動車",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%AB%8B%E5%BB%BA%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "小型自動車整備士（１級）",
+    "url": "https://www.hitachicm.com/jp/ja/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "ガソリン自動車整備士（２級）",
+    "url": "https://www.hitachicm.com/jp/ja/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "ジーゼル自動車整備士（２級）",
+    "url": "https://www.hitachicm.com/jp/ja/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車シャシ整備士（２級）",
+    "url": "https://www.hitachicm.com/jp/ja/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "二輪自動車整備士（２級）",
+    "url": "https://www.hitachicm.com/jp/ja/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車シャシ整備士（３級）",
+    "url": "https://www.hitachicm.com/jp/ja/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車ガソリン・エンジン整備士（３級）",
+    "url": "https://www.hitachicm.com/jp/ja/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車ジーゼル・エンジン整備士（３級）",
+    "url": "https://www.hitachicm.com/jp/ja/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "IHI（7013） ★3.4 航空エンジンの成長と不動産売却益、現金の回収を分ける",
+    "url": "https://money.note.com/rankings/%E5%BB%BA%E8%A8%AD%E6%A9%9F%E6%A2%B0/market_cap_desc",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】荏原製作所 ポンプだけじゃない！半導体でも稼ぐ成長企業を徹底評価",
+    "url": "https://money.note.com/rankings/%E5%BB%BA%E8%A8%AD%E6%A9%9F%E6%A2%B0/market_cap_desc",
+    "pass": 3
+   },
+   {
+    "quote": "【6361】荏原製作所:半導体＆インフラの「ダブル・エンジン」がもたらす構造的成長",
+    "url": "https://money.note.com/rankings/%E5%BB%BA%E8%A8%AD%E6%A9%9F%E6%A2%B0/market_cap_desc",
+    "pass": 3
+   }
+  ],
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "Land development ＆ Environment improvement",
+    "url": "https://www.cema.or.jp/general/industry/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "販売とレンタル、アフターサービスを同一会社で扱うことで、機械の導入から稼働後の保守までを国内の拠点網で対応する体制を取っている",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%AB%8B%E5%BB%BA%E6%A9%9F%E6%97%A5%E6%9C%AC",
+    "pass": 3
+   },
+   {
+    "quote": "2022年8月23日、日立製作所が約51％を保有する株式26%分について、",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%AB%8B%E5%BB%BA%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "その後日立製作所は段階的に保有株式の売却を行い、2026年5月に持分法適用関連会社からも外れた",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%AB%8B%E5%BB%BA%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "2016年3月31日 - ユニキャリアホールディングスの保有株式を全て譲渡し、持分法適用関連会社から除外",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%AB%8B%E5%BB%BA%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "）の保有株式を一部譲渡し、連結から除外",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%AB%8B%E5%BB%BA%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "2022年1月14日 - 日立製作所が保有している株式の半分26%を",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%AB%8B%E5%BB%BA%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "2022年8月23日 - 日立製作所が約51％を保有する株式26%分について、",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%AB%8B%E5%BB%BA%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "2000年に1号機であるBM307-V5の納入が開始されて以来、カンボジアやアフガニスタンなど9か国に計86台を納入している",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%AB%8B%E5%BB%BA%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "受講時間は保有資格によって短縮されるケースがある",
+    "url": "https://note.com/keybo2010/n/n4cdc28e167e8",
+    "pass": 3
+   },
+   {
+    "quote": "現在600台以上の在庫を保有し、油圧ショベル・ミニショベル・ブルドーザー・ホイールローダー・ローラー・クレーン・フォークリフトなど幅広い機種を取り揃えている",
+    "url": "https://note.com/keybo2010/n/n0ef46d75326a",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "タングステンのリサイクル促進について（経済産業省）",
+    "url": "https://www.cema.or.jp/general/news/2026/index.html",
+    "pass": 1
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "の連結子会社で、日本国内における販売・サービス・レンタル事業を担っている",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%AB%8B%E5%BB%BA%E6%A9%9F%E6%97%A5%E6%9C%AC",
+    "pass": 3
+   },
+   {
+    "quote": "親会社の日立建機が「ランドクロス株式会社」へ商号を変更することに伴うグループ各社のブランド変更の一環である",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%AB%8B%E5%BB%BA%E6%A9%9F%E6%97%A5%E6%9C%AC",
+    "pass": 3
+   },
+   {
+    "quote": "2026年8月、親会社の日立建機は",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%AB%8B%E5%BB%BA%E6%A9%9F%E6%97%A5%E6%9C%AC",
+    "pass": 3
+   },
+   {
+    "quote": "これは日立建機グループ全体の新ブランド展開に伴うものであり、大谷とのアンバサダー契約主体として公表されているのは親会社の日立建機である",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%AB%8B%E5%BB%BA%E6%A9%9F%E6%97%A5%E6%9C%AC",
+    "pass": 3
+   },
+   {
+    "quote": "1981年12月17日上場",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%AB%8B%E5%BB%BA%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "1990年1月26日上場",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%AB%8B%E5%BB%BA%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "株式の額面を500円から50円に変更するため、1973年10月、相模工業株式会社(資本金５千万円、設立年月日1951年１月30日)と合併していますが、実質上の設立年月日は1970年10月１日です",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%AB%8B%E5%BB%BA%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "連結：親会社株主に帰属する当期利益：732億円",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%AB%8B%E5%BB%BA%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "が共同出資するHCJIホールディングスに売却した",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%AB%8B%E5%BB%BA%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "（2026年4月にHCJIホールディングスは伊藤忠商事の100％子会社となった）これにより日立製作所の",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%AB%8B%E5%BB%BA%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "が共同出資するHCJIホールディングスに売却すると発表",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%AB%8B%E5%BB%BA%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "2017年3月現在、連結対象の子会社は85社",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%AB%8B%E5%BB%BA%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "関連会社PEOの出資を受け、株式会社日立建機教習センタから社名変更",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%AB%8B%E5%BB%BA%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "1981年上場の企業",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%AB%8B%E5%BB%BA%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "ところが、建設機械メーカーの業界団体に入っている上場企業を会社全体の売上高で並べると、2位はクボタになります",
+    "url": "https://job-report.com/4681/",
+    "pass": 3
+   },
+   {
+    "quote": "反対に、建設機械の売上で4位に入るコベルコ建機は上場していないため、上場企業の一覧には名前が出てきません",
+    "url": "https://job-report.com/4681/",
+    "pass": 3
+   },
+   {
+    "quote": "日本建設機械工業会の正会員のうち、会社自身か親会社が東証に上場している会社を、2026年10月27日時点で最新の有価証券報告書にある建設機械の売上高で並べると、1位は小松製作所（コマツ）の3兆7,961億円です",
+    "url": "https://job-report.com/4681/",
+    "pass": 3
+   },
+   {
+    "quote": "コマツは「建設機械・車両」、日立建機は「建設機械ビジネス」、コベルコ建機は親会社の神戸製鋼所の「建設機械」のセグメントです",
+    "url": "https://job-report.com/4681/",
+    "pass": 3
+   },
+   {
+    "quote": "対象にしたのは、日本建設機械工業会の正会員60社（令和8年10月現在）のうち、会社自身か親会社が2026年9月末の東証上場銘柄一覧に載っている会社です",
+    "url": "https://job-report.com/4681/",
+    "pass": 3
+   },
+   {
+    "quote": "小松製作所（コマツ）は、建設機械・車両、リテールファイナンス、産業機械他の3つの事業を持ち、同社と連結子会社211社、持分法適用会社39社でグループを構成しています",
+    "url": "https://job-report.com/4681/",
+    "pass": 3
+   },
+   {
+    "quote": "日立建機は、同社と連結子会社81社、関連会社20社で構成されています",
+    "url": "https://job-report.com/4681/",
+    "pass": 3
+   },
+   {
+    "quote": "コベルコ建機は、神戸製鋼所の子会社です",
+    "url": "https://job-report.com/4681/",
+    "pass": 3
+   },
+   {
+    "quote": "神戸製鋼所の建設機械セグメントは子会社20社と関連会社6社で構成され、油圧ショベルやミニショベル、クローラクレーンなどを扱っています",
+    "url": "https://job-report.com/4681/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年にマニテックス・インターナショナルとタダノインフラソリューションズを連結子会社にしたことが主な理由で、連結の従業員は前の期末より1,081名増え、5,997名になりました",
+    "url": "https://job-report.com/4681/",
+    "pass": 3
+   },
+   {
+    "quote": "竹内製作所は、ミニショベル、油圧ショベル、クローラーローダーを主要な製品とする会社で、同社と連結子会社4社で構成されています",
+    "url": "https://job-report.com/4681/",
+    "pass": 3
+   },
+   {
+    "quote": "東証に上場する正会員には、売上高が数百億円で、作る機械の種類を絞った専門メーカーもあります",
+    "url": "https://job-report.com/4681/",
+    "pass": 3
+   },
+   {
+    "quote": "建設機械のランキングが一覧ごとに食い違うのは、売上高がどの範囲の数字か、上場していない会社をどう扱うか、社名や決算期がいつのものかがそろっていないからです",
+    "url": "https://job-report.com/4681/",
+    "pass": 3
+   },
+   {
+    "quote": "建設機械の大手には、上場企業の子会社として事業を行う会社があります",
+    "url": "https://job-report.com/4681/",
+    "pass": 3
+   },
+   {
+    "quote": "コベルコ建機は神戸製鋼所が議決権の100%を持つ子会社です",
+    "url": "https://job-report.com/4681/",
+    "pass": 3
+   },
+   {
+    "quote": "住友建機と住友重機械建機クレーンも、住友重機械工業が議決権の100%を持つ子会社です",
+    "url": "https://job-report.com/4681/",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業だけで作ったランキングに名前がなくても、その会社が小さいとは限りません",
+    "url": "https://job-report.com/4681/",
+    "pass": 3
+   },
+   {
+    "quote": "連結と提出会社の差は、国内外の子会社で働く人の数です",
+    "url": "https://job-report.com/4681/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒で親会社に入るなら、同じ会社で働くのは提出会社の人数のほうです",
+    "url": "https://job-report.com/4681/",
+    "pass": 3
+   },
+   {
+    "quote": "次に日本取引所グループの東証上場銘柄一覧で、その会社か親会社が上場しているかを確かめます",
+    "url": "https://job-report.com/4681/",
+    "pass": 3
+   },
+   {
+    "quote": "子会社に応募するときは、親会社の報告書の「関係会社の状況」で、親会社が持つ議決権の割合を確かめます",
+    "url": "https://job-report.com/4681/",
+    "pass": 3
+   },
+   {
+    "quote": "続けて「従業員の状況」を開き、子会社ごとの数字が載っていないかを見ます",
+    "url": "https://job-report.com/4681/",
+    "pass": 3
+   },
+   {
+    "quote": "親会社の報告書の「従業員の状況」には、連結子会社ごとの、管理職に占める女性労働者の割合や男女の賃金の差異が載っていることがあります",
+    "url": "https://job-report.com/4681/",
+    "pass": 3
+   },
+   {
+    "quote": "コベルコ建機と住友建機の平均年間給与は、親会社の報告書には載っていません",
+    "url": "https://job-report.com/4681/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月31日現在の大株主は、1位がHCJIホールディングスで自己株式を除く発行済株式の25.99%、2位が日立製作所で18.36%です",
+    "url": "https://job-report.com/4681/",
+    "pass": 3
+   },
+   {
+    "quote": "BIKO：High Growth経営×M&A×AI×Passion / 元P上場企業CFO",
+    "url": "https://money.note.com/rankings/%E5%BB%BA%E8%A8%AD%E6%A9%9F%E6%A2%B0/market_cap_desc",
+    "pass": 3
+   },
+   {
+    "quote": "【銘柄分析】高配当・株主還元で注目の大林組（1802）！スーパーゼネコンの「推し理由3選」と「潜むリスク」を客観解説",
+    "url": "https://money.note.com/rankings/%E5%BB%BA%E8%A8%AD%E6%A9%9F%E6%A2%B0/market_cap_desc",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "日立建機日本 - Wikipedia — 日立建機 の連結子会社で、日本国内における販売・サービス・レンタル事業を担っている [2]。 2012年4月、日立建機の日本国内における建設機械の販売・サービス事業と、レンタル事業を手掛けていた日立建機レック株式会社を統合して発足した [3]。",
+    "url": "https://ja.wikipedia.org/wiki/日立建機日本",
+    "pass": 3
+   },
+   {
+    "quote": "日立建機 - Wikipedia — 油圧ショベル を主力とする、建設機械および 鉱山 向けなどの産業機器製造と販売・アフターサービス・レンタルなどを行っている。 従業員数は単独では5,800名、連結では約26,200名（2024年3月現在）である。",
+    "url": "https://ja.wikipedia.org/wiki/日立建機",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 日立建機日本会社概要 - 日立建機 - HitachiCM日立建機日本 - Wikipedia会社概要｜コマツについて｜コマツ 企業サイト会社概要｜マツオカ建機｜三重で建設機械・重機のレンタル会社概要 | 住友建機株式会社日立建機 - Wikipedia — Apr 1, 2012 · 会社概要、日立建機日本は建設機械の販売、レンタルからメンテナンスまで、全国のお客様に建設機械総合サービスを提供 ... 日立建機の企業情報ページです。 所在地、設立日、役員一覧、資本金などの基本データに加え、企業活動の全体像を紹介します。 2027年4月に日立建機株式会社は、ランドクロス株式会社へ社名変更します。 新しいブランドは「LANDCROS」です。 日立建機 の連結子会社で、日本国内における販売・サービス・レンタル事業を担っている [2]。 2012年4月、日立建機の日本国内における建",
+    "url": "https://www.hitachicm.com/jp/ja/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "株式基本情報 - 日立建機 - HitachiCM支配株主等(その他の関係会社)に関する事項について日立建機【6305】の大株主と資本異動情報｜株探（かぶたん）日立建機 - Wikipedia伊藤忠、日立建機への出資比率33.4%に引き上げ 投資額1000億円超日立建機(6305)日立製作所(6501)からの独立性を高めながらも関係性を... — 株式の概況（2026年3月31日現在） ... 株主構成（2026年3月31日現在） 大株主の状況（2026年3月31日現在） ... ※ 当社は、自己株式2,379千株を保有していますが、上表には含めていません。 ※ 持株比率については、自己株式2,379千株を除いて算出しています。 当社の支配株主等(その他の関係会社)に関する事項について、以下のとおりお知らせいたします。 1. 親会社、支配株主(親会社を除く。 )、その他の関係会社又はその他",
+    "url": "https://www.hitachicm.com/global/ja/ir/stock-and-bond/information/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】建設機械メーカーランキング世界・国内の大手企業を徹底... — Sep 27, 2026 · 建設機械メーカーの世界・日本ランキングを2026年最新のYellow Table 2026データで徹底比較。 コマツ・日立建機・キャタピラーなど主要企業の強みや年収も解説。 建設業界への転職を検討中の方必見！",
+    "url": "https://jobree.co.jp/tips/建設機械メーカー-ランキング",
+    "pass": 3
+   },
+   {
+    "quote": "建設機械業界の大手企業ランキング｜建機の売上で並べた上位6社と年収... — Oct 29, 2026 · 本記事では、上位6社の建設機械の売上高と、従業員数・平均年間給与を有価証券報告書の原文から並べ、ランキングが分かりにくい理由、会社を見比べる視点、自分で確かめる手順まで、就活キャリア研究所の視点で順を追ってお伝えします。",
+    "url": "https://job-report.com/4681/",
+    "pass": 3
+   },
+   {
+    "quote": "建設機械業界 売上高ランキング（企業一覧） | バフェット・コード — 建設機械業界の売上高ランキングです。 建設機械業界の企業数は全部で22社あります。 古河機械金属、カナモト、加藤製作所、ニシオHD、井関農機、モリタHD、竹内製作所、帝國纎維、ラサ工業、酒井重工業などの企業を収録しています。",
+    "url": "https://www.buffett-code.com/industries/57",
+    "pass": 3
+   },
+   {
+    "quote": "建設機械業界の動向｜主要メーカーの業績と国内投資・電動化の現在地 ... — Oct 3, 2026 · 建設機械業界の動向を公表資料の数字で整理。 2025年度の出荷金額3兆5,217億円と外需7割の内訳、2026年度の需要予測、コマツ・日立建機など8社の業績、米国関税の影響、コベルコ建機の加東新拠点などの国内投資、電動化と遠隔操作の現在地を解説します。",
+    "url": "https://monoscope-media.com/construction-machinery-industry-trend/",
+    "pass": 3
+   },
+   {
+    "quote": "建設機械メーカーランキング｜売上高・利益率・平均年収 — 竹内は日本セグメントが678億円の売上で314億円を稼ぐ製造の拠点で、国内向けの売上は14億円、売り先は米国1,287億円・英国180億円・フランス108億円と少数に絞られる。 最下位タダノの21.4%は、欧州に1,913人、米州に434人と地域ごとの組織を抱えることによる。",
+    "url": "https://the-shashi.com/rankings/construction-machinery/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "建設機械の種類完全ガイド｜用途・特徴・必要免許をプロが解説 Aug 17, 2026 · 建設機械の販売・買取・レンタルを20年以上手がけてきた立場から、主要な建設機械の種類・用途・必要な免許を整理する。 建設機械は「作業内容」で分類される 建設機械を理解する一番の近道は、「何のための機械か」で分類することだ。",
+    "url": "https://note.com/keybo2010/n/n4cdc28e167e8",
+    "pass": 3
+   },
+   {
+    "quote": "中古建設機械とは何か｜種類・価格相場・選び方・買える場所を徹底解... May 28, 2026 · 株式会社ナンニチ、代表取締役社長の竹下圭一郎です。 鹿児島を拠点に、中古建設機械の販売・買取・レンタルを手がけて50年近く。 この記事では、中古建設機械について知っておくべきことを、専門家の視点で体系的に解説する。",
+    "url": "https://note.com/keybo2010/n/n0ef46d75326a",
+    "pass": 3
+   },
+   {
+    "quote": "建設機械の時価総額ランキング | noteマネー 建設機械の時価総額ランキングを徹底紹介！ 最新の関連銘柄情報や値上がりの背景をわかりやすく解説。 投資家が知りたいポイントをまとめたnote記事も豊富に掲載中。 初心者から上級者まで、効率的に投資アイデアを見つけられる情報が満載です！",
+    "url": "https://money.note.com/rankings/建設機械/market_cap_desc",
+    "pass": 3
+   },
+   {
+    "quote": "18日目｜施工：建設機械（クレーン・コンクリートポンプ・バックホウ... Mar 9, 2025 · 「建設現場って、機械なしでは何もできない！ 」 昔は人力で運んだり掘ったりしていたけれど、今の建設現場では建設機械が大活躍。 巨大なクレーンで鉄骨を吊り上げ、コンクリートポンプで生コンを流し、バックホウで地面を掘る…",
+    "url": "https://note.com/fine_kenchiku/n/nbccb86007162",
+    "pass": 3
+   },
+   {
+    "quote": "日本建設機械工業会（建機工）、日立建機の先崎社長が新会長に就任｜k... 日本建設機械工業会（建機工）は、5月28日に行われた定時総会・理事会において、第23代会長に日立建機の先崎正文社長を選任した。 山本 明会長（コベルコ建機社長）からバトンを引き継いだ。",
+    "url": "https://note.com/sankituushin/n/nf933ded42808",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "建設機械の種類完全ガイド｜用途・特徴・必要免許をプロが解説｜竹下圭一郎｜ナンニチ社長｜建設機械取扱",
+    "url": "https://note.com/keybo2010/n/n4cdc28e167e8",
+    "pass": 3
+   },
+   {
+    "quote": "建設機械の種類完全ガイド｜用途・特徴・必要免許をプロが解説",
+    "url": "https://note.com/keybo2010/n/n4cdc28e167e8",
+    "pass": 3
+   },
+   {
+    "quote": "建設現場を歩けば様々な機械が動いているが、それぞれの名前や役割を正確に把握している人は少ない。建設会社の方でも、普段使わない機械については意外と知らないことも多い。",
+    "url": "https://note.com/keybo2010/n/n4cdc28e167e8",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ナンニチ、代表取締役社長の竹下圭一郎です。建設機械の販売・買取・レンタルを20年以上手がけてきた立場から、主要な建設機械の種類・用途・必要な免許を整理する。",
+    "url": "https://note.com/keybo2010/n/n4cdc28e167e8",
+    "pass": 3
+   },
+   {
+    "quote": "建設機械を理解する一番の近道は、「何のための機械か」で分類することだ。",
+    "url": "https://note.com/keybo2010/n/n4cdc28e167e8",
+    "pass": 3
+   },
+   {
+    "quote": "建設現場で最も多く使われる機械だ。アームの先端にバケットを取り付け、土砂の掘削・積込・整地に使う。「ユンボ」という呼び名は商標名だが、現場では一般的に使われている。",
+    "url": "https://note.com/keybo2010/n/n4cdc28e167e8",
+    "pass": 3
+   },
+   {
+    "quote": "ミニショベル（機体重量0.5〜6トン）：狭い現場・住宅工事向け",
+    "url": "https://note.com/keybo2010/n/n4cdc28e167e8",
+    "pass": 3
+   },
+   {
+    "quote": "中型（6〜20トン）：一般的な土木・建築工事向け",
+    "url": "https://note.com/keybo2010/n/n4cdc28e167e8",
+    "pass": 3
+   },
+   {
+    "quote": "中古建設機械とは何か｜種類・価格相場・選び方・買える場所を徹底解説｜竹下圭一郎｜ナンニチ社長｜建設機械取扱",
+    "url": "https://note.com/keybo2010/n/n0ef46d75326a",
+    "pass": 3
+   },
+   {
+    "quote": "中古建設機械とは何か｜種類・価格相場・選び方・買える場所を徹底解説",
+    "url": "https://note.com/keybo2010/n/n0ef46d75326a",
+    "pass": 3
+   },
+   {
+    "quote": "建設現場で動く重機を買いたい。でも新車は高い。中古という選択肢はどうなのか。",
+    "url": "https://note.com/keybo2010/n/n0ef46d75326a",
+    "pass": 3
+   },
+   {
+    "quote": "そう考えたとき、何から調べればいいか分からない人は多い。中古建設機械は、中古車のように気軽に情報が揃っているわけではない。価格も状態も、業者によってバラバラだ。",
+    "url": "https://note.com/keybo2010/n/n0ef46d75326a",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ナンニチ、代表取締役社長の竹下圭一郎です。鹿児島を拠点に、中古建設機械の販売・買取・レンタルを手がけて50年近く。この記事では、中古建設機械について知っておくべきことを、専門家の視点で体系的に解説する。",
+    "url": "https://note.com/keybo2010/n/n0ef46d75326a",
+    "pass": 3
+   },
+   {
+    "quote": "中古建設機械とは、土木・建築・解体・林業・舗装などの現場で使用された後、市場に流通している建設機械のことだ。",
+    "url": "https://note.com/keybo2010/n/n0ef46d75326a",
+    "pass": 3
+   },
+   {
+    "quote": "新車と異なり、すでに稼働実績がある。その分価格は下がるが、状態・年式・稼働時間（アワーメーター）によって品質は大きく異なる。適切な機械を適切な価格で手に入れるためには、基本的な知識が必要だ。",
+    "url": "https://note.com/keybo2010/n/n0ef46d75326a",
+    "pass": 3
+   },
+   {
+    "quote": "掘削・整地・解体など、建設現場の主役。クラスによって用途が異なる。",
+    "url": "https://note.com/keybo2010/n/n0ef46d75326a",
+    "pass": 3
+   },
+   {
+    "quote": "建設機械の時価総額ランキング | noteマネー",
+    "url": "https://money.note.com/rankings/%E5%BB%BA%E8%A8%AD%E6%A9%9F%E6%A2%B0/market_cap_desc",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工（7011）に起きた需給の劇的転換 ── 12時37分の追証吸収と、信用倍率18倍台への急改善が意味するもの",
+    "url": "https://money.note.com/rankings/%E5%BB%BA%E8%A8%AD%E6%A9%9F%E6%A2%B0/market_cap_desc",
+    "pass": 3
+   },
+   {
+    "quote": "【銘柄深堀シリーズ #051】三菱重工業（7011）｜受注残14兆円・利益45％増！好決算でも株価が下落した理由とは？",
+    "url": "https://money.note.com/rankings/%E5%BB%BA%E8%A8%AD%E6%A9%9F%E6%A2%B0/market_cap_desc",
+    "pass": 3
+   },
+   {
+    "quote": "【銘柄深堀シリーズ #050】コマツ（6301）｜世界のインフラを支える建機大手！好決算でも市場が警戒した理由とは？",
+    "url": "https://money.note.com/rankings/%E5%BB%BA%E8%A8%AD%E6%A9%9F%E6%A2%B0/market_cap_desc",
+    "pass": 3
+   },
+   {
+    "quote": "【決算分析】コマツ（6301）：上方修正でも7〜9月は減益。関税と下期の利益率を読む",
+    "url": "https://money.note.com/rankings/%E5%BB%BA%E8%A8%AD%E6%A9%9F%E6%A2%B0/market_cap_desc",
+    "pass": 3
+   },
+   {
+    "quote": "【構造批評】-クボタ収益構造検証編-値上げと円安で回復した利益、わずかな円高が試す通期4000億円",
+    "url": "https://money.note.com/rankings/%E5%BB%BA%E8%A8%AD%E6%A9%9F%E6%A2%B0/market_cap_desc",
+    "pass": 3
+   },
+   {
+    "quote": "【元CFOの深読み決算インサイト】IHI（7013）中間決算――エンジンの増収を、いつ現金へ変えられるか",
+    "url": "https://money.note.com/rankings/%E5%BB%BA%E8%A8%AD%E6%A9%9F%E6%A2%B0/market_cap_desc",
+    "pass": 3
+   },
+   {
+    "quote": "BIKO：High Growth経営×M&A×AI×Passion / 元P上場企業CFO",
+    "url": "https://money.note.com/rankings/%E5%BB%BA%E8%A8%AD%E6%A9%9F%E6%A2%B0/market_cap_desc",
+    "pass": 3
+   },
+   {
+    "quote": "18日目｜施工：建設機械（クレーン・コンクリートポンプ・バックホウ）の基礎 〜現場の頼れる相棒たち！〜｜くじらAI研究所｜建築",
+    "url": "https://note.com/fine_kenchiku/n/nbccb86007162",
+    "pass": 3
+   },
+   {
+    "quote": "18日目｜施工：建設機械（クレーン・コンクリートポンプ・バックホウ）の基礎 〜現場の頼れる相棒たち！〜",
+    "url": "https://note.com/fine_kenchiku/n/nbccb86007162",
+    "pass": 3
+   },
+   {
+    "quote": "「建設現場って、機械なしでは何もできない！」",
+    "url": "https://note.com/fine_kenchiku/n/nbccb86007162",
+    "pass": 3
+   },
+   {
+    "quote": "昔は人力で運んだり掘ったりしていたけれど、今の建設現場では",
+    "url": "https://note.com/fine_kenchiku/n/nbccb86007162",
+    "pass": 3
+   },
+   {
+    "quote": "巨大なクレーンで鉄骨を吊り上げ、コンクリートポンプで生コンを流し、バックホウで地面を掘る…",
+    "url": "https://note.com/fine_kenchiku/n/nbccb86007162",
+    "pass": 3
+   },
+   {
+    "quote": "これらの機械がなかったら、今のスピードで建物を作るのは無理！",
+    "url": "https://note.com/fine_kenchiku/n/nbccb86007162",
+    "pass": 3
+   },
+   {
+    "quote": "今日は建設機械の世界を楽しく見ていきましょう！",
+    "url": "https://note.com/fine_kenchiku/n/nbccb86007162",
+    "pass": 3
+   },
+   {
+    "quote": "建設機械には、いろいろな種類がありますが、試験で特によく出るのがこの3つ！",
+    "url": "https://note.com/fine_kenchiku/n/nbccb86007162",
+    "pass": 3
+   },
+   {
+    "quote": "日本建設機械工業会（建機工）、日立建機の先崎社長が新会長に就任｜kikai-news.net 産機通信",
+    "url": "https://note.com/sankituushin/n/nf933ded42808",
+    "pass": 3
+   },
+   {
+    "quote": "日本建設機械工業会（建機工）、日立建機の先崎社長が新会長に就任",
+    "url": "https://note.com/sankituushin/n/nf933ded42808",
+    "pass": 3
+   },
+   {
+    "quote": "（建機工）は、5月28日に行われた定時総会・理事会において、第23代会長に",
+    "url": "https://note.com/sankituushin/n/nf933ded42808",
+    "pass": 3
+   },
+   {
+    "quote": "の先崎正文社長を選任した。山本 明会長（コベルコ建機社長）からバトンを引き継いだ。日立建機からは、第4代：岡田 元、第9代：瀬口龍一、第12代：木川理二郎、第16代：辻本雄一、第17代：平野耕太郎の各氏以来6人目。",
+    "url": "https://note.com/sankituushin/n/nf933ded42808",
+    "pass": 3
+   },
+   {
+    "quote": "日本建設機械工業会の会長になりました先崎でございます。皆様どうぞよろしくお願いいたします。",
+    "url": "https://note.com/sankituushin/n/nf933ded42808",
+    "pass": 3
+   },
+   {
+    "quote": "建設機械業界、国内での生産量の大きさ、サービス部品も含めると3兆5,000億円という大きな数字です。その中で、輸出の割合はおよそ7割、さらにその半分ぐらいがアメリカ向けという業界でございます。それを、完成車メーカーだけでなく、ここにいらっしゃる多くの取引先の皆様、サービスを担当している方々、こういう方々と成り立っている業界でございます。7割を世界に向けて輸出できているという事実は、その国際競争力を示すものであります。",
+    "url": "https://note.com/sankituushin/n/nf933ded42808",
+    "pass": 3
+   },
+   {
+    "quote": "これを今後どうやって国内、そして世界に向けてさらに発展させていくのかというのが我々の課題です。皆さんとともにそういう世界を作っていきたいなという風に思います。",
+    "url": "https://note.com/sankituushin/n/nf933ded42808",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、我々には競争法という関係があって、個々の企業がそれぞれ競争力を磨いて切磋琢磨する中で、これが世界に向けての競争力の源泉になっていく。この乗り超えない関係の中で、我々が業界として世界に向けて1つの塊になっていく。こういう世界を作っていきたいと思っていますので、ぜひ皆様と共にそういう大きな1つの塊になることをぜひお願いしたいという風に思います。そのためには、やはりコミュニケーションというのが重要です。こういう場でも競争法を乗りを超えないということは前提でありますけれども、コミュニケーションをとっいただきたいいう風に思います。",
+    "url": "https://note.com/sankituushin/n/nf933ded42808",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "建設機械化ライブラリー (@CM_BLib) / X Hitachi Construction Machinery ZAXIS240 ГИДРАВЛИЧЕСКИЙ ЭКСКАВАТОР｜建設機械化ライブラリー @CM_BLib note.com/cm_blib/n/na1a…",
+    "url": "https://x.com/CM_BLib",
+    "pass": 3
+   },
+   {
+    "quote": "ALLSTOCKER（建設機械・重機のオールストッカー） (@allstockercom) /... 建設機械の取引所「ALLSTOCKER」です。 全国・全世界対応で定額販売型マーケットと隔週開催オークションを運営しています。 Selling #construction #machinery such as #komatsu #hitachi #kobelco #excavator in #Japan & more!",
+    "url": "https://x.com/allstockercom",
+    "pass": 3
+   },
+   {
+    "quote": "【公式】有限会社テクノ工業サービス｜建設機械は\"そうだ！テクノに\" ... 使い込まれた機械だけあって、内部には砂やホコリがたっぷり……。 「どこから入ってきてんの！ 」と言いたくなるほどの量😅 重機は現場で、整備スタッフは工場で頑張ります。 💪 #中古重機 #油圧ショベル #重機修理 #重機メンテナンス #建設機械",
+    "url": "https://x.com/IndustryTechno",
+    "pass": 3
+   },
+   {
+    "quote": "日立建機【公式】 (@hitachicm_jp) / X 建設機械の遠隔操作を競う大会！ 10月2日・3日に開催された「e建機®チャレンジ」（主催： @TDBCJP）。 日立建機の遠隔操作対応油圧ショベルRBTシリーズ「ZX200A-7」と、遠隔操作システム「RBT Portable」が競技で使用されました！",
+    "url": "https://x.com/hitachicm_jp",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "虎乃門建設機械(株) | LinkedIn 概要 虎乃門建設機械株式会社は、掘削機（ドリルジャンボ）を海外から輸入して、国内市場のトンネル施工業者向けに販売・レンタルでご提供し、その保守整備を行っている会社です。",
+    "url": "https://jp.linkedin.com/company/toranomon",
+    "pass": 3
+   },
+   {
+    "quote": "日立建機株式会社 | LinkedIn 日立建機株式会社 | LinkedInのフォロワー数78,180人。 日立建機は、油圧ショベル、ホイールローダ、道路機械、鉱山機械などの開発・製造・販売・サービスの事業をグローバルで展開している建設機械メーカーです。",
+    "url": "https://jp.linkedin.com/company/hitachi-construction-machinery",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "台灣建設機械有限公司 | Taoyüan - Facebook建設機械化ライブラリー - Facebook外匯挖土機工地車買賣維修大小事 | Facebook峻沅貿易有限公司 | Kaohsiung - FacebookKenki World Co.,Ltd. 株式会社建機ワールド | Tsukuba-shi Ibarakiアースマシン株式会社 | Yoichi-gun Hokkaido - Facebook株式会社 建設機械のマツシタ | Isahaya-shi Nagasaki Sep 25, 2026 · 台灣建設機械有限公司, Taoyüan. 4,076 followers · 25 talking about this · 142 were here. 📌台灣建設機械有限公司成立於2020年， 為全台灣第一家以機具配件為主軸 Sep 26, 2026 · Caterpillar",
+    "url": "https://www.facebook.com/TCMCTAIWAN/",
+    "pass": 3
+   },
+   {
+    "quote": "建設機械化ライブラリー - Facebook外匯挖土機工地車買賣維修大小事 | Facebook峻沅貿易有限公司 | Kaohsiung - FacebookKenki World Co.,Ltd. 株式会社建機ワールド | Tsukuba-shi Ibarakiアースマシン株式会社 | Yoichi-gun Hokkaido - Facebook株式会社 建設機械のマツシタ | Isahaya-shi Nagasaki Sep 26, 2026 · Caterpillar D9 Caterpillar D9｜建設機械化ライブラリー 日立造船の回転掘削機 LHシリーズ 日立造船の回転掘削機 LHシリーズ｜建設機械化ライブラリー 日本車輌製造 USC-05 日車ユニショベル 全油圧式万能掘削機 買賣、維修一條龍🐲 買車找菀廷，讓你賺錢賺不停 📱LINE: qq174312 網路公定價💰誠心皆",
+    "url": "https://www.facebook.com/CMBLib/",
+    "pass": 3
+   },
+   {
+    "quote": "峻沅貿易有限公司 | Kaohsiung - FacebookKenki World Co.,Ltd. 株式会社建機ワールド | Tsukuba-shi Ibarakiアースマシン株式会社 | Yoichi-gun Hokkaido - Facebook株式会社 建設機械のマツシタ | Isahaya-shi Nagasaki Oct 7, 2026 · 峻沅貿易有限公司, Kaohsiung. 7,713 followers · 16 talking about this · 189 were here. 專營中古建設機械販售 (外匯車) Oct 19, 2026 · 「回転フォークを導入したかった」 「この機会に機械の作業効率を上げたい」 そんな方は、期間限定の今がチャンス！ 💥 利益還元祭 特別価格については、 お気軽にお問い合わせください！ 全国からお問い合わせ受付中です。 製品一",
+    "url": "https://www.facebook.com/CY80379820/",
+    "pass": 3
+   },
+   {
+    "quote": "Kenki World Co.,Ltd. 株式会社建機ワールド | Tsukuba-shi Ibarakiアースマシン株式会社 | Yoichi-gun Hokkaido - Facebook株式会社 建設機械のマツシタ | Isahaya-shi Nagasaki Oct 19, 2026 · 「回転フォークを導入したかった」 「この機会に機械の作業効率を上げたい」 そんな方は、期間限定の今がチャンス！ 💥 利益還元祭 特別価格については、 お気軽にお問い合わせください！ 全国からお問い合わせ受付中です。 製品一覧に無い機械でも、販売実績のある機械も多い のでお気軽にお問い合わせ頂ければ幸いです。 最近はより高い作業効率を求めて、現場に合わせた寸 法・形状での特注のご依頼が増えています。 株式会社 建設機械のマツシタ, Isahaya-shi. 1,096 likes. アジアを中心に建",
+    "url": "https://www.facebook.com/kenkiworld/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.cema.or.jp/general/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cema.or.jp/general/news/2026/20261110_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cema.or.jp/general/news/2026/20261015.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cema.or.jp/general/news/2026/20260925.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cema.or.jp/general/industry/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cema.or.jp/general/news/2026/202609.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cema.or.jp/general/news/2026/202608.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cema.or.jp/general/news/2026/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cema.or.jp/general/news/2026/20260918_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cema.or.jp/general/news/2026/20260924.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cema.or.jp/general/news/2026/20260911_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cema.or.jp/general/news/2026/20260910.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cema.or.jp/general/news/2026/20260901.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%AB%8B%E5%BB%BA%E6%A9%9F%E6%97%A5%E6%9C%AC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%AB%8B%E5%BB%BA%E6%A9%9F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hitachicm.com/jp/ja/company/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubeni-idigio.com/insight-hub/metal3dprinter_desktopmetal_case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://deskmin.net/2026/07/26/%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%B0%8E%E5%85%A5%E3%82%92%E6%88%90%E5%8A%9F%E3%81%95%E3%81%9B%E3%82%8B%E3%81%AB%E3%81%AF%EF%BC%9F%E6%96%B9%E5%BC%8F%E5%88%A5%E3%81%AE/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/cases/construction/jgc-plant-metal3d-3dmx-240110/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-steel.co.jp/products/solution/metal-3d-printing/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nidec.com/jp/products/machine-tools/3d-metal-additive-manufacturing-machines/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyowa-industrial.jp/am/capabilities",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%AB%8B%E5%BB%BA%E6%A9%9F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hitachicm.com/global/ja/ir/stock-and-bond/information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hitachicm.com/content/dam/hitachicm/global/ja/pdf-news/press-releases/2026/20260630-HCM-Notice-J.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jobree.co.jp/tips/%E5%BB%BA%E8%A8%AD%E6%A9%9F%E6%A2%B0%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://job-report.com/4681/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.buffett-code.com/industries/57",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/keybo2010/n/n4cdc28e167e8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/keybo2010/n/n0ef46d75326a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://money.note.com/rankings/%E5%BB%BA%E8%A8%AD%E6%A9%9F%E6%A2%B0/market_cap_desc",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/fine_kenchiku/n/nbccb86007162",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/CM_BLib",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/allstockercom",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/IndustryTechno",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hitachicm_jp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/toranomon",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/hitachi-construction-machinery",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TCMCTAIWAN/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/CMBLib/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/CY80379820/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/kenkiworld/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/sankituushin/n/nf933ded42808",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "建設機械",
+   "results": [
+    "https://ja.wikipedia.org/wiki/建設機械",
+    "https://www.cema.or.jp/general/industry/machines/index.html",
+    "https://kcsj.komatsu/products/construction_machine",
+    "https://www.yanmar.com/jp/construction/",
+    "https://www.cema.or.jp/general/index.html",
+    "https://digital-construction.jp/column/840",
+    "https://kachishiru.jp/ja/makers/construction"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "建設機械 会社概要 資本金 設立",
+   "results": [
+    "https://ja.wikipedia.org/wiki/日立建機日本",
+    "https://ja.wikipedia.org/wiki/日立建機",
+    "https://www.hitachicm.com/jp/ja/company/outline/",
+    "https://www.hitachicm.com/global/ja/corporate/profile/",
+    "https://www.sumitomokenki.co.jp/company/profile/",
+    "https://www.komatsu.jp/ja/aboutus/profile",
+    "https://www.matsuokakenki.co.jp/company/outline/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "建設機械 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.marubeni-idigio.com/insight-hub/metal3dprinter_desktopmetal_case/",
+    "https://deskmin.net/2026/07/26/金属3dプリンター導入を成功させるには？方式別の/",
+    "https://news.sharelab.jp/cases/construction/jgc-plant-metal3d-3dmx-240110/",
+    "https://www.shimz.co.jp/company/ir/pdf/240327.pdf",
+    "https://www.kokudo-kc.co.jp/column/uncategorized/458/",
+    "https://deskmin.net/2026/08/08/建設用3dプリンターの導入費用と法規制のリアルを/",
+    "https://sekokan-base.com/articles/detail/7322/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "建設機械 金属積層造形 設備",
+   "results": [
+    "https://www.jfe-steel.co.jp/products/solution/metal-3d-printing/index.html",
+    "https://www.nidec.com/jp/machine-tool/products/B701/M101/",
+    "https://kyowa-industrial.jp/am/capabilities",
+    "http://www.shibaura-machine.co.jp/jp/product/additive/",
+    "https://mono.ipros.com/cg2/積層造形機/",
+    "https://jampt.jp/",
+    "https://jampt.jp/equipment/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "建設機械 株主 出資 親会社",
+   "results": [
+    "https://ja.wikipedia.org/wiki/日立建機",
+    "https://www.hitachicm.com/global/ja/ir/stock-and-bond/information/",
+    "https://www.hitachicm.com/content/dam/hitachicm/global/ja/pdf-news/press-releases/2026/20260630-HCM-Notice-J.pdf",
+    "https://kikai-news.net/2026/06/30/日立建機、伊藤忠商事グループとの関係を再確認/",
+    "https://kabutan.jp/stock/holder?code=6305",
+    "https://www.nikkei.com/article/DGXZQOUC194E70Z10C26A2000000/",
+    "https://nikkeimatome.com/?p=54893"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "建設機械 売上高 従業員数",
+   "results": [
+    "https://jobree.co.jp/tips/建設機械メーカー-ランキング",
+    "https://job-report.com/4681/",
+    "https://www.buffett-code.com/industries/57",
+    "https://monoscope-media.com/construction-machinery-industry-trend/",
+    "https://the-shashi.com/rankings/construction-machinery/",
+    "https://koeba.jp/kensetu/column/kensetu-ranking/",
+    "https://www.mlit.go.jp/statistics/details/t-other-2_tk_000343.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 建設機械",
+   "results": [
+    "https://note.com/keybo2010/n/n4cdc28e167e8",
+    "https://note.com/keybo2010/n/n0ef46d75326a",
+    "https://money.note.com/rankings/建設機械/market_cap_desc",
+    "https://note.com/fine_kenchiku/n/nbccb86007162",
+    "https://note.com/keybo2010/n/n55aba8209280",
+    "https://note.com/sotsuron1/n/n8f64741f6382",
+    "https://note.com/keybo2010/n/ndceaacc1bf46"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 建設機械",
+   "results": [
+    "https://x.com/CM_BLib",
+    "https://x.com/allstockercom",
+    "https://x.com/IndustryTechno",
+    "https://x.com/hitachicm_jp",
+    "https://x.com/sumitomokenki",
+    "https://x.com/kobelcokenki",
+    "https://x.com/YanmarCE_Japan"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 建設機械",
+   "results": [
+    "https://jp.linkedin.com/company/toranomon",
+    "https://jp.linkedin.com/company/hitachi-construction-machinery",
+    "https://www.linkedin.com/company/nishio-t&m",
+    "https://www.linkedin.com/company/komatsu",
+    "https://tw.linkedin.com/in/cat-中華機械-b6200814b",
+    "https://kz.linkedin.com/in/lev-kroyt-968a6637",
+    "https://vn.linkedin.com/in/koichiro-inui"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 建設機械",
+   "results": [
+    "https://www.facebook.com/TCMCTAIWAN/",
+    "https://www.facebook.com/CMBLib/",
+    "https://www.facebook.com/CY80379820/",
+    "https://www.facebook.com/kenkiworld/",
+    "https://www.facebook.com/kaizumachi253336/",
+    "https://business.facebook.com/groups/640429791128127/",
+    "https://www.facebook.com/earthmachine/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "建設機械 note 社長",
+   "results": [
+    "https://kikai-news.net/2026/05/28/日本建設機械工業会（建機工）、日立建機の先崎/",
+    "https://note.com/sankituushin/n/nf933ded42808",
+    "https://www.japanmetal.com/90th/interview_k.php?id=151164",
+    "https://www.nikkei.com/article/DGXZQOUC289XS0Y6A520C2000000/",
+    "https://www.japanmetal.com/news-to20261006151164.html",
+    "https://www.cema.or.jp/general/organization/officer.html",
+    "https://note.com/keybo2010/n/n5019da2a544d"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "建設機械 X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部30頁・検索12回）",
+  "資本金": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部30頁・検索12回）",
+  "創業年度": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部30頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部30頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部30頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部30頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部30頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部30頁・検索12回）"
+ }
+}

@@ -1,0 +1,276 @@
+{
+ "name": "ALKA MAKİNA OTO İNŞ. ELK. İTH. İHR. SAN. VE DIŞ TİC. LTD. ŞTİ.",
+ "aliases": [],
+ "context": "旧営業リスト｜Machine Tools / Production Equipment｜未接触",
+ "researched_at": "2026-11-10T18:58:28.920637+00:00",
+ "official_url": "https://www.alkamakina.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "ALKA MAKİNA | Professional Power • Türkiye Resmi Mümessilliği",
+    "url": "https://www.alkamakina.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Patentli orijinal Tornador® kasırga etkili temizlik tabancaları, endüstriyel pnömatik temizlik sistemleri ve profesyonel otomotiv bakım aletleri.",
+    "url": "https://www.alkamakina.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ALKA Professional Power® Uzman Kadrosu",
+    "url": "https://www.alkamakina.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ALKA Professional Power®",
+    "url": "https://www.alkamakina.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Exhibitors & Products",
+    "url": "https://www.maktekfuari.com/en/brand/alka-makina-oto-ins-elk-ith-ihr-san-ve-dis-tic-ltd-sti",
+    "pass": 3
+   },
+   {
+    "quote": "BİAX PROFESSİONAL POWER",
+    "url": "https://www.maktekfuari.com/en/brand/alka-makina-oto-ins-elk-ith-ihr-san-ve-dis-tic-ltd-sti",
+    "pass": 3
+   },
+   {
+    "quote": "Protection of Personal Data",
+    "url": "https://www.maktekfuari.com/en/brand/alka-makina-oto-ins-elk-ith-ihr-san-ve-dis-tic-ltd-sti",
+    "pass": 3
+   },
+   {
+    "quote": "The post show report is being prepared and will be available very soon.",
+    "url": "https://www.maktekfuari.com/en/brand/alka-makina-oto-ins-elk-ith-ihr-san-ve-dis-tic-ltd-sti",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "• İlgili Kişi / İletişim Sorumlusu: Ömer Kaya | E-Posta: info@alkamakina.com",
+    "url": "https://www.alkamakina.com/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Industrial automation technologies",
+    "url": "https://www.maktekfuari.com/en/brand/alka-makina-oto-ins-elk-ith-ihr-san-ve-dis-tic-ltd-sti",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ALKA MAKİNA OTO İNŞ. ELK. İTH. İHR. SAN. VE DIŞ TİC. LTD. ŞTİ. — Home Exhibitor List ALKA MAKİNA OTO İNŞ. ELK. İTH. İHR. SAN. VE DIŞ TİC. LTD. ŞTİ.",
+    "url": "https://www.maktekfuari.com/en/brand/alka-makina-oto-ins-elk-ith-ihr-san-ve-dis-tic-ltd-sti",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.alkamakina.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.dnb.com/business-directory/company-profiles.alka_makina_otomotiv_insaat_elektrik_ithalat_ihracat_sanayi_ve_dis_ticaret_limited_sirketi.6a4b83a7debb359cd70b9c2ee610930e.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.alo118.com/tr/alka-makina-oto-insaat-elektrik-ithalat-ihracat-sanayi-ve-dis-ticaret-ltd/iletisim-bilgileri",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://alkamakina.com.tr/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maktekfuari.com/en/brand/alka-makina-oto-ins-elk-ith-ihr-san-ve-dis-tic-ltd-sti",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.resellervault.co.uk/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.superantispyware.com/reseller-program",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ALKA MAKİNA OTO İNŞ. ELK. İTH. İHR. SAN. VE DIŞ TİC. LTD. ŞTİ. 日本 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "ALKA MAKİNA OTO İNŞ. ELK. İTH. İHR. SAN. VE DIŞ TİC. LTD. ŞTİ. 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.alkamakina.com/iletisim.php?anamenuID=13&anakategori=İletişim",
+    "https://www.dnb.com/business-directory/company-profiles.alka_makina_otomotiv_insaat_elektrik_ithalat_ihracat_sanayi_ve_dis_ticaret_limited_sirketi.6a4b83a7debb359cd70b9c2ee610930e.html",
+    "https://www.alo118.com/tr/alka-makina-oto-insaat-elektrik-ithalat-ihracat-sanayi-ve-dis-ticaret-ltd/iletisim-bilgileri",
+    "https://www.alkamakina.com/",
+    "https://www.bulurum.com/details/3eb7b7237fca41350c5_bh4kb374_b01",
+    "https://alkamakina.com.tr/",
+    "https://gs.yandex.com.tr/harita/org/alka_makina_otomotiv_ith_ihr_san_ve_tic_ltd_sti/135494954809/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ALKA MAKİNA OTO İNŞ. ELK. İTH. İHR. SAN. VE DIŞ TİC. LTD. ŞTİ. Japan",
+   "results": [
+    "https://www.alkamakina.com/iletisim.php?anamenuID=13&anakategori=İletişim",
+    "https://www.alkamakina.com/",
+    "https://alkamakina.com.tr/",
+    "https://www.maktekfuari.com/en/brand/alka-makina-oto-ins-elk-ith-ihr-san-ve-dis-tic-ltd-sti",
+    "https://alkamakina.com.tr/iletisim/",
+    "https://www.alo118.com/tr/alka-makina-oto-insaat-elektrik-ithalat-ihracat-sanayi-ve-dis-ticaret-ltd/iletisim-bilgileri",
+    "https://en.nbd.ltd/trader/info/NBDX1H139600139"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ALKA MAKİNA OTO İNŞ. ELK. İTH. İHR. SAN. VE DIŞ TİC. LTD. ŞTİ. manufacturing customer case study",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "ALKA MAKİNA OTO İNŞ. ELK. İTH. İHR. SAN. VE DIŞ TİC. LTD. ŞTİ. white label OR reseller OR partner program",
+   "results": [
+    "https://www.resellervault.co.uk/",
+    "https://partner.vw.com/",
+    "https://www.alkamakina.com/index.php?anamenuID=12&anakategori=Haberler",
+    "https://www.superantispyware.com/reseller-program",
+    "https://reseller.amazon.com/",
+    "https://www.maktekfuari.com/brand/alka-makina-oto-ins-elk-ith-ihr-san-ve-dis-tic-ltd-sti",
+    "https://www.maktekfuari.com/en/brand/alka-makina-oto-ins-elk-ith-ihr-san-ve-dis-tic-ltd-sti"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ALKA MAKİNA OTO İNŞ. ELK. İTH. İHR. SAN. VE DIŞ TİC. LTD. ŞTİ. founded funding employees revenue",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com ALKA MAKİNA OTO İNŞ. ELK. İTH. İHR. SAN. VE DIŞ TİC. LTD. ŞTİ.",
+   "results": [
+    "https://note.com/zephel01/n/n84fdb7de06ee",
+    "https://note.com/vast_flax7410/n/n6dc18926f046",
+    "https://note.com/maco0411/n/nf02978b7c8a7",
+    "https://note.com/nananewmoon/n/n267745f2c81a",
+    "https://note.com/xiatus/n/n11fdec83dedb",
+    "https://note.com/handoutainews/n/n8f7e11662447",
+    "https://note.com/thunder88/n/n4a218f022c48"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com ALKA MAKİNA OTO İNŞ. ELK. İTH. İHR. SAN. VE DIŞ TİC. LTD. ŞTİ.",
+   "results": [
+    "https://x.com/HalkaArzBorsa/status/2119787275584172435",
+    "https://jf.x.com/images/media-preview/2114268390525399082",
+    "https://jf.x.com/images/media-preview/2115172513571594744",
+    "https://x.com/BorsaAtlas/status/2071609004510310604",
+    "https://x.com/halitaltunbist/status/2081741356263702741",
+    "https://x.com/borsatosca/status/2068267301053341813",
+    "https://x.com/hyarsiv/status/2086836326700036382"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com ALKA MAKİNA OTO İNŞ. ELK. İTH. İHR. SAN. VE DIŞ TİC. LTD. ŞTİ.",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com ALKA MAKİNA OTO İNŞ. ELK. İTH. İHR. SAN. VE DIŞ TİC. LTD. ŞTİ.",
+   "results": [
+    "https://www.facebook.com/OmerKayaTR/",
+    "https://www.facebook.com/ALKA-makina-ve-muhendislik-114590584993153/",
+    "https://www.facebook.com/Alka-Teks-İnş-ve-Oto-San-Tic-Ltd-Şti-107880604907576/",
+    "https://www.facebook.com/ALKA-SANAYİ-İNŞ-VE-TİCAŞ-272795672845703/",
+    "https://www.facebook.com/pages/ALKA-SANAYİ-İNŞ-VE-TİCAŞ/272795672845703/",
+    "https://www.facebook.com/alkayapidenetim/",
+    "https://www.facebook.com/34elitenerji/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ALKA MAKİNA OTO İNŞ. ELK. İTH. İHR. SAN. VE DIŞ TİC. LTD. ŞTİ. note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "ALKA MAKİNA OTO İNŞ. ELK. İTH. İHR. SAN. VE DIŞ TİC. LTD. ŞTİ. X 投稿",
+   "results": [
+    "https://www.alkamakina.com/iletisim.php?anamenuID=13&anakategori=İletişim",
+    "https://www.alkamakina.com/",
+    "https://alkamakina.com.tr/",
+    "https://alkamakina.com.tr/iletisim/",
+    "https://www.maktekfuari.com/en/brand/alka-makina-oto-ins-elk-ith-ihr-san-ve-dis-tic-ltd-sti",
+    "https://www.alo118.com/tr/alka-makina-oto-insaat-elektrik-ithalat-ihracat-sanayi-ve-dis-ticaret-ltd/iletisim-bilgileri",
+    "https://www.alkamakina.com/iletisim.php"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索12回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索12回）"
+ }
+}

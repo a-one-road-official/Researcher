@@ -1,0 +1,1775 @@
+{
+ "name": "CustomGPT.ai",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-10T18:19:17.507045+00:00",
+ "official_url": "https://customgpt.ai",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "Queries/month",
+    "value": "1,000 queries 5,000 queries As needed",
+    "url": "https://customgpt.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "label": "料金タイプ",
+    "value": "有料（$99/月） 無料枠 なし（有料のみ）",
+    "url": "https://aipicks.jp/tool/customgpt",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "CustomGPT.ai | Custom GPTs from Your Content for Business",
+    "url": "https://customgpt.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Easy to deploy governed AI assistants for the enterprise.",
+    "url": "https://customgpt.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Trust AI responses that are always grounded in your business data. CustomGPT.ai’s advanced anti-hallucination technology ensures precision and reliability, setting a new standard for no-code AI solutions.",
+    "url": "https://customgpt.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Robust and comprehensive data integrations",
+    "url": "https://customgpt.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“Before, my clients could reasonably only reach out to maybe one target account a week… Now, they can quadruple or quintuple that because your technology makes it so easy to write all of this content that otherwise took a long time.”",
+    "url": "https://customgpt.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Transparent pricing and scalable features, so you can focus on driving outcomes with AI",
+    "url": "https://customgpt.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-grade security",
+    "url": "https://customgpt.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Meets EU data privacy standards",
+    "url": "https://customgpt.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Read about GDPR compliance",
+    "url": "https://customgpt.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "No training or sharing your data",
+    "url": "https://customgpt.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "CustomGPT.ai is a no-code platform for easy-to-deploy, governed AI assistants that answer questions from an organization’s own approved content and cite the sources behind every answer. Businesses use it to deliver AI-driven customer experiences and operational efficiency without writing a single line of code.",
+    "url": "https://customgpt.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "It turns a business’s documents, websites and knowledge bases into AI agents that answer customer and staff questions from that content alone, citing each source. Its agents are designed to handle up to 93% of support and research questions, and they can be deployed on a website, in a help center or internally.",
+    "url": "https://customgpt.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "CustomGPT.ai creates your own custom ChatGPT chatbot with all your business content. You then get accurate, trusted ChatGPT responses from your content without making up facts. All within a secure, privacy-first, business-grade platform.",
+    "url": "https://customgpt.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "It works by ingesting your data, including your website content, helpdesk, knowledge bases, documents, YouTube videos, podcasts, etc. and uses this information to let ChatGPT respond to customer and employee inquiries.",
+    "url": "https://customgpt.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "and understands all the details of your products, services, and customers. With CustomGPT.ai, you can improve your employee efficiency and customer experience with generative AI.",
+    "url": "https://customgpt.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "for our best practices.",
+    "url": "https://customgpt.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "An AI agent is an app that uses artificial intelligence to perform tasks or provide information based on your business content. It’s a specialized digital assistant trained on your specific business content to handle questions and interactions tailored to your organization’s needs.",
+    "url": "https://customgpt.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Your data is fully protected with CustomGPT.ai through enterprise-grade security measures, including SOC 2 Type 2 compliance and GDPR adherence. We employ strict access controls and encryption to safeguard your information. Learn more about our comprehensive security practices at our",
+    "url": "https://customgpt.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "secure and privacy-preserving",
+    "url": "https://customgpt.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "cloud platform then ingests this content and uses this information to respond to queries with ChatGPT.",
+    "url": "https://customgpt.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The result is a custom ChatGPT-style bot that can have a deep understanding of your business and customers, allowing it to provide personalized and accurate responses,",
+    "url": "https://customgpt.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "for a subscription to our service. After the 2-minute setup, our system will get to work building a custom chatbot trained on your specific content.",
+    "url": "https://customgpt.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "What is the pricing model for CustomGPT.ai, and how does it work?",
+    "url": "https://customgpt.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "CustomGPT.ai offers the following pricing models to meet a variety of business needs.",
+    "url": "https://customgpt.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "10 custom chatbots (agents); 5,000 documents per agent; 60 million words content, and 1,000 queries per month.",
+    "url": "https://customgpt.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Build trusted AI agents powered by your organization’s content — tailored to the way your industry works",
+    "url": "https://customgpt.ai/solutions/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Professional Services",
+    "url": "https://customgpt.ai/solutions/industries/",
+    "pass": 1
+   },
+   {
+    "quote": ": Professional Services",
+    "url": "https://customgpt.ai/solutions/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn complex research and technical content into accessible answers",
+    "url": "https://customgpt.ai/solutions/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Give customers and teams instant access to accurate product information",
+    "url": "https://customgpt.ai/solutions/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver trusted financial answers while keeping sensitive data protected",
+    "url": "https://customgpt.ai/solutions/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Give members 24/7 access to answers from your trusted content",
+    "url": "https://customgpt.ai/solutions/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Capture leads and support every buyer with trusted AI answers",
+    "url": "https://customgpt.ai/solutions/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Answer employee and candidate questions instantly from your HR content",
+    "url": "https://customgpt.ai/solutions/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Build recurring revenue with CustomGPT.ai Affiliate Program",
+    "url": "https://customgpt.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Play the video: CustomGPT.ai Affiliate Program Introduction",
+    "url": "https://customgpt.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Is the affiliate program right for you?",
+    "url": "https://customgpt.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Teach AI, business, or professional skills",
+    "url": "https://customgpt.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Sales & marketing agencies",
+    "url": "https://customgpt.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Create business-focused videos, articles, or social content",
+    "url": "https://customgpt.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Product review publishers",
+    "url": "https://customgpt.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "8X their investment through Google Ads",
+    "url": "https://customgpt.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "See how one independent promoter turned Google Ads into measurable affiliate growth",
+    "url": "https://customgpt.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Get resources, tracking, and support to promote effectively",
+    "url": "https://customgpt.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Probably The Most Accurate AI Experience Right Out of the Box I called it a long time ago – CustomGPT.ai is a winner.\"",
+    "url": "https://customgpt.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Prof. Dr. Michael Kraus",
+    "url": "https://customgpt.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "I can easily say the CustomGPT.ai affiliate program is one of the best for digital marketers and Google Ads specialists. It’s very easy to use and transparent, and you have access to a great team ready to help you increase your payouts every day.",
+    "url": "https://customgpt.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "I made one video about CustomGPT.ai, and it’s brought in $4,683 over the past 4 months. The CustomGPT.ai affiliate program is the most profitable I've come across.",
+    "url": "https://customgpt.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Ready-to-use marketing",
+    "url": "https://customgpt.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Questions about the affiliate program?",
+    "url": "https://customgpt.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Does OpenAI have any affiliate programs?",
+    "url": "https://customgpt.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "CustomGPT.ai offers an affiliate program for promoters who want to recommend custom RAG agents built from business content.",
+    "url": "https://customgpt.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Does Claude have an affiliate program?",
+    "url": "https://customgpt.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Does ChatGPT have an affiliate program?",
+    "url": "https://customgpt.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "CustomGPT.ai pricing starts at $99/month and scales up based on data usage.",
+    "url": "https://customgpt.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "You are not required to be a CustomGPT.ai customer in order to be a part of the program.",
+    "url": "https://customgpt.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "The best kind of affiliate marketing is authentic recommendations to an audience that knows you. Do not impersonate CustomGPT.ai. If you are running paid search campaigns, a targeting restriction is you are not allowed to bid on branded keyword search terms including “CustomGPT”.",
+    "url": "https://customgpt.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "No. Self-referrals are strictly prohibited. The aim of a referral program is to encourage affiliates and ambassadors to spread the word about our product(s), not to get discounts.",
+    "url": "https://customgpt.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "All three of these terms must be true to get paid from the program:",
+    "url": "https://customgpt.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Solutions Partner Program - CustomGPT.ai",
+    "url": "https://customgpt.ai/solutions-partner/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by 10,000+ organizations worldwide",
+    "url": "https://customgpt.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 10,000+ organizations worldwide",
+    "url": "https://customgpt.ai/solutions-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "A global medical device manufacturer",
+    "url": "https://customgpt.ai/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "How a global medical device manufacturer gave sales and customer service teams a specialist’s answer without waiting for the specialist",
+    "url": "https://customgpt.ai/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Already a Customer? Let’s add your case study",
+    "url": "https://customgpt.ai/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 10,000+ organizations worldwide",
+    "url": "https://customgpt.ai/solutions/anti-hallucination-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "What problem was MIT trying to solve with a chatbot in CustomGPT.ai and MIT Entrepreneurship Chatbot Case Study?",
+    "url": "https://customgpt.ai/solutions/anti-hallucination-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Will the client’s employee handbook that I upload to CustomGPT.ai be used by OpenAI?",
+    "url": "https://customgpt.ai/solutions/security-and-trust/",
+    "pass": 1
+   },
+   {
+    "quote": "No, any documents you upload, including an employee handbook, will not be used by OpenAI or contribute to its model training. Your documents remain strictly within the context of your specific CustomGPT.ai bot.",
+    "url": "https://customgpt.ai/solutions/security-and-trust/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 10,000+ organizations worldwide",
+    "url": "https://customgpt.ai/solutions/enterprise-ai-search/",
+    "pass": 1
+   },
+   {
+    "quote": "CustomGPT.ai serves a wide range of industries — including technology, education, government, healthcare, manufacturing, and legal — enhancing their enterprise knowledge management and internal operations.",
+    "url": "https://customgpt.ai/solutions/enterprise-ai-search/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 10,000+ organizations worldwide",
+    "url": "https://customgpt.ai/solutions/website-ai-chatbot/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 10,000+ organizations worldwide",
+    "url": "https://customgpt.ai/solutions/onboarding-and-training/",
+    "pass": 1
+   },
+   {
+    "quote": "How secure is the data used by CustomGPT.ai?",
+    "url": "https://customgpt.ai/solutions/onboarding-and-training/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 10,000+ organizations worldwide",
+    "url": "https://customgpt.ai/solutions/internal-search/",
+    "pass": 1
+   },
+   {
+    "quote": "CustomGPT.ai serves various industries including technology, education, government, healthcare, manufacturing, and legal, enhancing their internal operations.",
+    "url": "https://customgpt.ai/solutions/internal-search/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 10,000+ organizations worldwide",
+    "url": "https://customgpt.ai/solutions/competitive-analysis/",
+    "pass": 1
+   },
+   {
+    "quote": "Our platform serves a wide range of industries including technology, education, government, healthcare, manufacturing, and legal.",
+    "url": "https://customgpt.ai/solutions/competitive-analysis/",
+    "pass": 1
+   },
+   {
+    "quote": "AI-Powered Manufacturing Support | CustomGPT.ai",
+    "url": "https://customgpt.ai/industry/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Cut downtime with AI-powered manufacturing support",
+    "url": "https://customgpt.ai/industry/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy an AI agent for your factory workflows, in minutes",
+    "url": "https://customgpt.ai/industry/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect and integrate your manufacturing data from any source.",
+    "url": "https://customgpt.ai/industry/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy your AI agent for your factory or team, wherever it’s needed.",
+    "url": "https://customgpt.ai/industry/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "See how manufacturers like you use CustomGPT.ai",
+    "url": "https://customgpt.ai/industry/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Resolve 93%+ of manufacturing inquiries instantly",
+    "url": "https://customgpt.ai/industry/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Cut support costs with AI agents that resolve manufacturing inquiries—freeing your team for high-value tasks",
+    "url": "https://customgpt.ai/industry/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Why it works for manufacturing teams like yours",
+    "url": "https://customgpt.ai/industry/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Launch AI for manufacturing with a platform anyone can use. Save time, cut costs, and skip the hassle of technical setup. Deploy today, not months later",
+    "url": "https://customgpt.ai/industry/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Do AI the safe way. Unlike leading AI providers, we never train models on your manufacturing data—everything stays fully encrypted. Get enterprise-grade security on all plans",
+    "url": "https://customgpt.ai/industry/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate with confidence—ensure your manufacturing teams always get accurate answers, powered by the #1 anti-hallucination technology in the industry",
+    "url": "https://customgpt.ai/industry/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing AI support: common questions answered",
+    "url": "https://customgpt.ai/industry/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "The Endurance Group case study",
+    "url": "https://customgpt.ai/white-label-saas-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "NITRO! Bootcamp case study",
+    "url": "https://customgpt.ai/white-label-saas-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "BQE Software case study",
+    "url": "https://customgpt.ai/white-label-saas-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "A global medical device manufacturer",
+    "url": "https://customgpt.ai/customer/overture-partners-ai-in-recruiting/",
+    "pass": 1
+   },
+   {
+    "quote": "addresses three problems documented at Overture Partners: long onboarding cycles caused by fragmented knowledge, time lost to routine internal queries, and slower client responses when staff had to manually retrieve information. Making institutional knowledge centrally accessible reduced all three.",
+    "url": "https://customgpt.ai/customer/overture-partners-ai-in-recruiting/",
+    "pass": 1
+   },
+   {
+    "quote": "Healthcare Manufacturing",
+    "url": "https://customgpt.ai/wp-content/uploads/2026/09/ind-hero.webp",
+    "pass": 2
+   },
+   {
+    "quote": "Cut Manufacturing Downtime",
+    "url": "https://customgpt.ai/wp-content/uploads/2026/09/ind-manufacturing.webp",
+    "pass": 2
+   },
+   {
+    "quote": "Yes, please tell me more about the chemistry, manufacturing,",
+    "url": "https://customgpt.ai/wp-content/uploads/2026/09/ind-biotechnology.webp",
+    "pass": 2
+   },
+   {
+    "quote": "2. Manufacturing process: Detailed description of production",
+    "url": "https://customgpt.ai/wp-content/uploads/2026/09/ind-biotechnology.webp",
+    "pass": 2
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Can I white-label and customize the AI agent to my branding and business?",
+    "url": "https://customgpt.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Sales & marketing agencies",
+    "url": "https://customgpt.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "No. Self-referrals are strictly prohibited. The aim of a referral program is to encourage affiliates and ambassadors to spread the word about our product(s), not to get discounts.",
+    "url": "https://customgpt.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Solutions Partner Program - CustomGPT.ai",
+    "url": "https://customgpt.ai/solutions-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Solutions Partner Program FAQs",
+    "url": "https://customgpt.ai/solutions-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "What is the CustomGPT.ai Solutions Partner Program?",
+    "url": "https://customgpt.ai/solutions-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "The Solutions Partner Program is a collaboration for agencies, consultancies, and technology firms to build, sell, and support AI-powered solutions using the CustomGPT.ai platform—combining technical collaboration with go-to-market support.",
+    "url": "https://customgpt.ai/solutions-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Can I white-label and customize the AI agent to my branding and business?",
+    "url": "https://customgpt.ai/solutions-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Can agencies white-label or resell CustomGPT.ai for their clients?",
+    "url": "https://customgpt.ai/solutions-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Agencies can resell CustomGPT.ai as a fully branded AI platform, launching chatbots, analytics and automation tools for each client under the agency’s own identity. Client deployments are managed from one dashboard, and agencies set their own pricing. See",
+    "url": "https://customgpt.ai/solutions-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "white-label SaaS reselling",
+    "url": "https://customgpt.ai/solutions-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Remove “Powered by CustomGPT.ai” branding / white-labelling",
+    "url": "https://customgpt.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Remove “Powered by CustomGPT.ai” branding / white-labelling: not included in Standard",
+    "url": "https://customgpt.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Remove “Powered by CustomGPT.ai” branding / white-labelling: included in Premium",
+    "url": "https://customgpt.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Remove “Powered by CustomGPT.ai” branding / white-labelling: included in Enterprise",
+    "url": "https://customgpt.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes – you can now white-label and remove the “Powered by CustomGPT.ai” branding (requires Premium plan or higher)",
+    "url": "https://customgpt.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Customize your agent’s look and feel to match your brand",
+    "url": "https://customgpt.ai/solutions/no-code-gpt-builder/",
+    "pass": 1
+   },
+   {
+    "quote": "Can I white-label and customize the AI agent to my branding and business?",
+    "url": "https://customgpt.ai/solutions/no-code-gpt-builder/",
+    "pass": 1
+   },
+   {
+    "quote": "Solutions partner program",
+    "url": "https://customgpt.ai/solutions/use-cases/",
+    "pass": 1
+   },
+   {
+    "quote": "Solutions partner program",
+    "url": "https://customgpt.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "White-Label AI SaaS Reseller Platform for Recurring Revenue 2026",
+    "url": "https://customgpt.ai/white-label-saas-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "A white-label SaaS reseller brands and sells software as its own offer; the provider operates the platform.",
+    "url": "https://customgpt.ai/white-label-saas-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers earn through recurring subscriptions, setup fees, managed retainers, and add-on services, not one-time sales alone.",
+    "url": "https://customgpt.ai/white-label-saas-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "White-label branding and reseller rights are separate. Branding controls presentation; a partner or reseller agreement controls whether you may resell. Confirm resale terms in writing.",
+    "url": "https://customgpt.ai/white-label-saas-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "What is a white-label AI SaaS reseller?",
+    "url": "https://customgpt.ai/white-label-saas-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "A white-label AI SaaS reseller is a business that packages and sells a provider’s AI software under its own brand, sets its own client pricing, and owns the client relationship, while the provider runs hosting, retrieval, model access, security, and maintenance.",
+    "url": "https://customgpt.ai/white-label-saas-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "software reseller business model",
+    "url": "https://customgpt.ai/white-label-saas-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "How the AI SaaS reseller model works",
+    "url": "https://customgpt.ai/white-label-saas-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "CustomGPT.ai -> Reseller -> Client organization -> Client's customers or employees",
+    "url": "https://customgpt.ai/white-label-saas-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "How white-label AI SaaS resellers make money",
+    "url": "https://customgpt.ai/white-label-saas-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers make money by combining recurring platform fees with services that clients cannot easily do themselves. The strongest reseller businesses layer several streams rather than relying on a single subscription.",
+    "url": "https://customgpt.ai/white-label-saas-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "Your own cost base includes your CustomGPT.ai subscription. Published plans start with Standard, move to Premium (which includes removing the “Powered by CustomGPT” branding), and reach a custom Enterprise tier. Any reseller or partner discount is set by agreement and is not published, so confirm it before quoting a client. See",
+    "url": "https://customgpt.ai/white-label-saas-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "Sample reseller packages",
+    "url": "https://customgpt.ai/white-label-saas-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "Three tiers cover most reseller offers. The values below are structural suggestions, not CustomGPT.ai plan prices.",
+    "url": "https://customgpt.ai/white-label-saas-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "Reseller service level",
+    "url": "https://customgpt.ai/white-label-saas-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "What can resellers build with CustomGPT.ai?",
+    "url": "https://customgpt.ai/white-label-saas-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers can build a wide range of source-grounded assistants. For each, the pattern is the same: a client problem, approved knowledge sources, a defined user, and a service you manage.",
+    "url": "https://customgpt.ai/white-label-saas-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "white-label AI chatbot",
+    "url": "https://customgpt.ai/white-label-saas-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "CustomGPT.ai capabilities relevant to resellers",
+    "url": "https://customgpt.ai/white-label-saas-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "White-label reseller vs affiliate vs agency vs referral partner",
+    "url": "https://customgpt.ai/white-label-saas-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "If you promote the product without delivering it, the affiliate route via CustomGPT.ai is simpler. If you deliver and manage it under your brand, the reseller and partner routes fit. If you want the agency-specific packaging and delivery model, see",
+    "url": "https://customgpt.ai/white-label-saas-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "white-label AI for agencies",
+    "url": "https://customgpt.ai/white-label-saas-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "What the reseller manages and what the platform manages",
+    "url": "https://customgpt.ai/white-label-saas-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "How to choose a white-label AI SaaS platform",
+    "url": "https://customgpt.ai/white-label-saas-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "Which surfaces carry your brand, which retain vendor identity",
+    "url": "https://customgpt.ai/white-label-saas-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "This allows you to be in control of the look and feel of your secure training area, making it match your brand.",
+    "url": "https://note.com/eigodeyogaku/n/n3c238097f6ab",
+    "pass": 3
+   },
+   {
+    "quote": "So e-commerce stores, online marketplaces, SaaS companies like Fast Funnels, and then travel agencies.",
+    "url": "https://note.com/eigodeyogaku/n/n3c238097f6ab",
+    "pass": 3
+   },
+   {
+    "quote": "And if we, uh, you can see here how to build a customized white-label chat bot with your own data, but what that doesn't say is that you can also use someone else's data.",
+    "url": "https://note.com/eigodeyogaku/n/n3c238097f6ab",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "2x Revenue",
+    "url": "https://customgpt.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Build recurring revenue with CustomGPT.ai Affiliate Program",
+    "url": "https://customgpt.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Build recurring revenue with CustomGPT.ai",
+    "url": "https://customgpt.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "You are not required to be a CustomGPT.ai customer in order to be a part of the program.",
+    "url": "https://customgpt.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "We give you commission for every revenue earned from a customer that joins through your affiliate link. However, you are not permitted to use CustomGPT.ai affiliate banners or codes on or in conjunction with:",
+    "url": "https://customgpt.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Earn revenue on eligible closed deals",
+    "url": "https://customgpt.ai/solutions-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Create new revenue opportunities through AI services and implementation",
+    "url": "https://customgpt.ai/solutions-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "2x Revenue",
+    "url": "https://customgpt.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "2x Revenue",
+    "url": "https://customgpt.ai/solutions/anti-hallucination-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Increase efficiency, drive revenue, and delight customers with instant answers from your information",
+    "url": "https://customgpt.ai/solutions/security-and-trust/",
+    "pass": 1
+   },
+   {
+    "quote": "Create tailored knowledge repositories that provide new employees with accurate, up-to-date information.",
+    "url": "https://customgpt.ai/solutions/onboarding-and-training/",
+    "pass": 1
+   },
+   {
+    "quote": "Engage employees with AI-powered training tools that adapt to their learning pace and style.",
+    "url": "https://customgpt.ai/solutions/onboarding-and-training/",
+    "pass": 1
+   },
+   {
+    "quote": "CustomGPT.ai streamlines onboarding by providing AI-driven tools that deliver personalized training, automate workflows, and offer real-time support, ensuring a smooth and efficient experience for new employees.",
+    "url": "https://customgpt.ai/solutions/onboarding-and-training/",
+    "pass": 1
+   },
+   {
+    "quote": "How does CustomGPT.ai boost revenue?",
+    "url": "https://customgpt.ai/solutions/competitive-analysis/",
+    "pass": 1
+   },
+   {
+    "quote": "White-Label AI SaaS Reseller Platform for Recurring Revenue 2026",
+    "url": "https://customgpt.ai/white-label-saas-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "Results vary by niche, content quality, and execution. No platform guarantees revenue or rankings.",
+    "url": "https://customgpt.ai/white-label-saas-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "Niche choice, branding, client acquisition, setup, first-line support, pricing",
+    "url": "https://customgpt.ai/white-label-saas-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "CustomGPT.ai -> Reseller -> Client organization -> Client's customers or employees",
+    "url": "https://customgpt.ai/white-label-saas-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "CustomGPT.ai supplies and maintains the platform. You brand, configure, and sell it. The client approves content and adopts the service internally. The client’s customers or employees interact with the assistant. Responsibility for accuracy, support boundaries, and renewals sits mostly with you, which is why standardization matters from the first client.",
+    "url": "https://customgpt.ai/white-label-saas-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "Internal knowledge assistants. Problem: scattered documentation. Sources: internal docs and wikis. User: employees. You manage private access and permissions.",
+    "url": "https://customgpt.ai/white-label-saas-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "The right model depends on how much of the relationship, technology, and support you want to own. The comparison below is general; the specifics of client ownership and revenue retention depend on the provider’s actual commercial agreement.",
+    "url": "https://customgpt.ai/white-label-saas-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "Recurring-revenue builders",
+    "url": "https://customgpt.ai/white-label-saas-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "Client acquisition and pricing",
+    "url": "https://customgpt.ai/white-label-saas-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "Which surfaces carry your brand, which retain vendor identity",
+    "url": "https://customgpt.ai/white-label-saas-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "A 30-day roadmap keeps the launch honest. Not every business will launch or earn revenue in 30 days; treat this as a working cadence.",
+    "url": "https://customgpt.ai/white-label-saas-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "Templates, standardized packages, onboarding checklists, and clearly defined support boundaries are what let one team serve many clients without answer quality or margin sliding. The Endurance Group’s experience below shows how a defined operating model turns delivery into a repeatable revenue stream.",
+    "url": "https://customgpt.ai/white-label-saas-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "TaxWorld built a domain-specific subscription AI product. Its assistant, Ezylia, handles more than 2,000 tax queries per day and resolved 97.5% of queries (184,690 of 189,351), with the company reporting 200% year-over-year revenue growth and 740 paying subscribers. For a reseller, this is the clearest template for productizing a niche into a branded, recurring-revenue AI service. Read the",
+    "url": "https://customgpt.ai/white-label-saas-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "The Endurance Group, a consulting firm, created a new AI implementation revenue stream. It reports a 300% improvement in workflow efficiency, a 4 to 5 times increase in weekly client outreach, and became an official CustomGPT.ai implementation partner. This is the reference case for a consultancy adding a repeatable AI delivery practice on top of existing services. Read",
+    "url": "https://customgpt.ai/white-label-saas-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "AI SaaS resellers make money by combining recurring subscriptions with services clients cannot easily do alone. Common streams include a monthly per-client fee, a one-time setup fee, a managed retainer, usage-based packages, and content maintenance. The most durable businesses grow recurring revenue and gross margin together rather than relying on one-time project income.",
+    "url": "https://customgpt.ai/white-label-saas-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "No. An affiliate promotes a provider’s product and earns a commission, while the client sees the provider’s brand. A white-label reseller sells under its own brand, owns the client relationship, sets pricing, and typically delivers and supports the service. Reselling carries more responsibility than affiliate promotion but also more control and recurring revenue.",
+    "url": "https://customgpt.ai/white-label-saas-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to build a recurring-revenue AI business?",
+    "url": "https://customgpt.ai/white-label-saas-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "employees with access",
+    "url": "https://customgpt.ai/customer/overture-partners-ai-in-recruiting/",
+    "pass": 1
+   },
+   {
+    "quote": "Mark Aiello, Chief Revenue Officer at Overture Partners, recognized the need for a solution that could address their persistent staffing challenges and improve efficiency. The company’s primary objectives were:",
+    "url": "https://customgpt.ai/customer/overture-partners-ai-in-recruiting/",
+    "pass": 1
+   },
+   {
+    "quote": "To provide instant, accurate information to employees and clients",
+    "url": "https://customgpt.ai/customer/overture-partners-ai-in-recruiting/",
+    "pass": 1
+   },
+   {
+    "quote": "Overture Partners began its CustomGPT.ai journey by integrating over 400 internal documents, including training materials, sales guides, and best practices accumulated over 23 years. In minutes, this created a comprehensive knowledge base accessible to all employees.",
+    "url": "https://customgpt.ai/customer/overture-partners-ai-in-recruiting/",
+    "pass": 1
+   },
+   {
+    "quote": "“Team members like the ability to receive answers immediately, especially newer employees who lack the institutional knowledge.”",
+    "url": "https://customgpt.ai/customer/overture-partners-ai-in-recruiting/",
+    "pass": 1
+   },
+   {
+    "quote": "employees solve problems independently before looping in colleagues, saving person‑hours.",
+    "url": "https://customgpt.ai/customer/overture-partners-ai-in-recruiting/",
+    "pass": 1
+   },
+   {
+    "quote": "AI in recruiting refers to the use of artificial intelligence to support talent acquisition, onboarding, and internal knowledge access within staffing organizations. Platforms like",
+    "url": "https://customgpt.ai/customer/overture-partners-ai-in-recruiting/",
+    "pass": 1
+   },
+   {
+    "quote": "allow staffing firms to build AI assistants trained on their own internal documents, giving employees faster access to the information they need to support candidates and clients.",
+    "url": "https://customgpt.ai/customer/overture-partners-ai-in-recruiting/",
+    "pass": 1
+   },
+   {
+    "quote": "that staff can query in natural language. At Overture Partners, this gave all 200+ employees instant access to 23 years of training materials, sales guides, and best practices without needing to ask a colleague.",
+    "url": "https://customgpt.ai/customer/overture-partners-ai-in-recruiting/",
+    "pass": 1
+   },
+   {
+    "quote": "ingested these into a searchable knowledge base accessible to all employees.",
+    "url": "https://customgpt.ai/customer/overture-partners-ai-in-recruiting/",
+    "pass": 1
+   },
+   {
+    "quote": "AI improves knowledge access by turning internal documents into a searchable system that employees can query in natural language. At Overture Partners,",
+    "url": "https://customgpt.ai/customer/overture-partners-ai-in-recruiting/",
+    "pass": 1
+   },
+   {
+    "quote": "allowed 200+ employees to access training materials and operational knowledge instantly without needing to ask a colleague or search through files manually.",
+    "url": "https://customgpt.ai/customer/overture-partners-ai-in-recruiting/",
+    "pass": 1
+   },
+   {
+    "quote": "400+ internal documents that speeds onboarding, gives 200+ employees instant answers and",
+    "url": "https://customgpt.ai/wp-content/uploads/2024/09/Overture-Partners-Case-Study.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Employees with access",
+    "url": "https://customgpt.ai/wp-content/uploads/2024/09/Overture-Partners-Case-Study.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Chief Revenue Officer Mark Aiello wanted to keep the firmʼs high-",
+    "url": "https://customgpt.ai/wp-content/uploads/2024/09/Overture-Partners-Case-Study.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "For employees and customers alike.",
+    "url": "https://customgpt.ai/wp-content/uploads/2024/09/Overture-Partners-Case-Study.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Employees bring ideas and solutions",
+    "url": "https://customgpt.ai/wp-content/uploads/2024/09/Overture-Partners-Case-Study.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "CHIEF REVENUE OFFICER, OVERTURE PARTNERS",
+    "url": "https://customgpt.ai/wp-content/uploads/2024/09/Overture-Partners-Case-Study.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "CustomGPT.ai Revenue 2025: $2.6M Est.",
+    "url": "https://getlatka.com/companies/customgpt.ai",
+    "pass": 3
+   },
+   {
+    "quote": "CustomGPT.ai has not published its revenue. GetLatka estimates it at about $2.6M a year (July 2025).",
+    "url": "https://getlatka.com/companies/customgpt.ai",
+    "pass": 3
+   },
+   {
+    "quote": "CustomGPT.ai CEO & employees",
+    "url": "https://getlatka.com/companies/customgpt.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Alden Do Rosario is CEO of CustomGPT.ai. CustomGPT.ai has 24 employees (July 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/customgpt.ai",
+    "pass": 3
+   },
+   {
+    "quote": "What is CustomGPT.ai's revenue?",
+    "url": "https://getlatka.com/companies/customgpt.ai",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates CustomGPT.ai's revenue at about",
+    "url": "https://getlatka.com/companies/customgpt.ai",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does CustomGPT.ai have?",
+    "url": "https://getlatka.com/companies/customgpt.ai",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of July 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/customgpt.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/customgpt.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/customgpt.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/customgpt.ai",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Access banners, email copy, and templates built to convert",
+    "url": "https://customgpt.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Have your clients sign up with your referral link. If you made the referral by word of mouth, email",
+    "url": "https://customgpt.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Signing up for the Free Trial is straightforward. Simply click here to create an account, and then follow the on-screen instructions to start your trial. You will be asked to provide basic information such as your name, email address, and password.",
+    "url": "https://customgpt.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Please see our FAQ to get started. Even better: Just ask our CustomGPT.ai chatbot in the bottom right corner. This chatbot has indexed all of our business content. If you still need help, just email hello@customgpt.ai.",
+    "url": "https://customgpt.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "All plans include email support through our helpdesk. In addition, customers on the",
+    "url": "https://customgpt.ai/solutions/rag-api/",
+    "pass": 1
+   },
+   {
+    "quote": "If you believe there’s a security issue or that someone might have gotten unauthorized access to data on CustomGPT.ai, send us an email at ops@customgpt.ai. Don’t worry, we won’t share your email with others. We promise to take your concern seriously and will thoroughly investigate the matter.",
+    "url": "https://customgpt.ai/solutions/security-and-trust/",
+    "pass": 1
+   },
+   {
+    "quote": "So, if I was to say, for example, for a SAS business, um, I could have it set up for me right now and actually write an email.",
+    "url": "https://note.com/eigodeyogaku/n/n3c238097f6ab",
+    "pass": 3
+   },
+   {
+    "quote": "That email would maybe get them to book a demo with me to see a customized chatbot.",
+    "url": "https://note.com/eigodeyogaku/n/n3c238097f6ab",
+    "pass": 3
+   },
+   {
+    "quote": "Can you please create an Outreach email that I could use to send out to potential clients so that they would book a Zoom call with me for a demonstration?",
+    "url": "https://note.com/eigodeyogaku/n/n3c238097f6ab",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "90以上の言語に対応しており、日本語でも問題なく利用可能です",
+    "url": "https://aitool-eye.com/customgptai-kanzen-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "ホワイトペーパー・事例集・導入事例などの専門コンテンツを学習させたボットをウェブサイトに設置し、訪問者の質問にリアルタイムで対応することで、質の高いリードを自動獲得できます",
+    "url": "https://aitool-eye.com/customgptai-kanzen-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語を含む90以上の言語に対応しています",
+    "url": "https://aitool-eye.com/customgptai-kanzen-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語ドキュメントを学習させれば日本語で正確に回答し、管理画面も多言語化が進んでいます",
+    "url": "https://aitool-eye.com/customgptai-kanzen-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内の企業でもストレスなく導入・運用できます",
+    "url": "https://aitool-eye.com/customgptai-kanzen-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語を含む90以上の言語に対応しており、グローバル展開する企業や外国語対応が必要な組織でもそのまま活用できます",
+    "url": "https://aitool-eye.com/customgptai-kanzen-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語を含む90以上の言語をサポートしており、日本語ドキュメントを学習させれば日本語で正確に回答します",
+    "url": "https://aitool-eye.com/customgptai-kanzen-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "管理画面も多言語化が進んでおり、日本語での操作も直感的に行えます",
+    "url": "https://aitool-eye.com/customgptai-kanzen-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "料金・使い方・日本語対応をわかりやすく比較します",
+    "url": "https://ai-tool-kazu.com/customgpt-ai-review/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、月間問い合わせ数が数十件規模のスタートアップや、日本語UIを業務要件とする組織にはオーバースペックで、より安価な国産チャットボットや軽量のCustom Support AI等を先に検討する方が費用対効果は高い",
+    "url": "https://aipicks.jp/tool/customgpt",
+    "pass": 3
+   },
+   {
+    "quote": "はい、公式サイトに日本語版があります",
+    "url": "https://aipicks.jp/tool/customgpt",
+    "pass": 3
+   },
+   {
+    "quote": "管理画面は英語が中心なので、日本語UIが業務の必須条件なら、導入前に使い勝手を確かめておくと安心です",
+    "url": "https://aipicks.jp/tool/customgpt",
+    "pass": 3
+   },
+   {
+    "quote": "Marketplaceを通じたMCP連携やプラグイン追加、主要LLMの切り替えに対応し、日本語UIも標準搭載しています",
+    "url": "https://aipicks.jp/tool/customgpt",
+    "pass": 3
+   },
+   {
+    "quote": "【CustomGPT】英語解説を日本語で読む【2023年5月17日｜@Jason West】｜英語de洋楽（英語でAI／英語で洋楽）",
+    "url": "https://note.com/eigodeyogaku/n/n3c238097f6ab",
+    "pass": 3
+   },
+   {
+    "quote": "【CustomGPT】英語解説を日本語で読む【2023年5月17日｜@Jason West】",
+    "url": "https://note.com/eigodeyogaku/n/n3c238097f6ab",
+    "pass": 3
+   },
+   {
+    "quote": "Eコマースストア、オンラインマーケットプレイス、Fast FunnelsのようなSaaS企業、そして旅行代理店ですね",
+    "url": "https://note.com/eigodeyogaku/n/n3c238097f6ab",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "CustomGPT . ai | Custom GPTs from Your Content for Business — CustomGPT . ai | Custom GPTs from Your Content for Business CustomGPT.ai https://customgpt.ai",
+    "url": "https://customgpt.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "料金・機能・評判を徹底解説【企業向け AI チャットボット】 — 料金・機能・評判を徹底解説【企業向け AI チャットボット】 aitool-eye.com https://aitool-eye.com > CustomGPT.ai",
+    "url": "https://aitool-eye.com/customgptai-kanzen-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "「AIチャットボットが嘘をつく」はもう古い！ CustomGPT . ai ... — 「AIチャットボットが嘘をつく」はもう古い！ CustomGPT . ai ... ai-tool-kazu.com https://ai-tool-kazu.com > 業務効率化・SaaS",
+    "url": "https://ai-tool-kazu.com/customgpt-ai-review/",
+    "pass": 3
+   },
+   {
+    "quote": "Product, Billing, Security Answers - CustomGPT.ai FAQ — Product, Billing, Security Answers - CustomGPT.ai FAQ CustomGPT.ai https://customgpt.ai > faq",
+    "url": "https://customgpt.ai/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "CustomGPT . ai - LinkedIn — CustomGPT . ai - LinkedIn LinkedIn https://www.linkedin.com > customgpt",
+    "url": "https://www.linkedin.com/company/customgpt",
+    "pass": 3
+   },
+   {
+    "quote": "About - CustomGPT . ai — About - CustomGPT . ai CustomGPT.ai https://customgpt.ai > about",
+    "url": "https://customgpt.ai/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Read Customer Service Reviews of customgpt . ai - Trustpilot — Read Customer Service Reviews of customgpt . ai - Trustpilot Trustpilot https://www.trustpilot.com > customgpt",
+    "url": "https://www.trustpilot.com/review/customgpt.ai",
+    "pass": 3
+   },
+   {
+    "quote": "From Insight to Impact: 5 AI Implementation Case Studies — From Insight to Impact: 5 AI Implementation Case Studies CustomGPT.ai https://customgpt.ai > Partners",
+    "url": "https://customgpt.ai/ai-implementation-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Our Customers - CustomGPT.ai — Our Customers - CustomGPT.ai CustomGPT.ai https://customgpt.ai > customers",
+    "url": "https://customgpt.ai/customers/",
+    "pass": 3
+   },
+   {
+    "quote": "How GEMA Saved 6,000+ Hours Using AI Customer Support — How GEMA Saved 6,000+ Hours Using AI Customer Support CustomGPT.ai https://customgpt.ai > customer > gema",
+    "url": "https://customgpt.ai/customer/gema/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Testimonials, Reviews And Results - CustomGPT . ai — Customer Testimonials, Reviews And Results - CustomGPT . ai CustomGPT.ai https://customgpt.ai > testimonials",
+    "url": "https://customgpt.ai/testimonials/",
+    "pass": 3
+   },
+   {
+    "quote": "CustomGPT . ai : Is It the Best for Your Business? [Review] — CustomGPT . ai : Is It the Best for Your Business? [Review] Voiceflow https://www.voiceflow.com > blog",
+    "url": "https://www.voiceflow.com/blog/customgptai",
+    "pass": 3
+   },
+   {
+    "quote": "ChatGPT White Label Chatbot for Clients - CustomGPT . ai — ChatGPT White Label Chatbot for Clients - CustomGPT . ai CustomGPT.ai https://customgpt.ai > News",
+    "url": "https://customgpt.ai/chatgpt-white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Solutions Partner Program - CustomGPT . ai — Solutions Partner Program - CustomGPT . ai CustomGPT.ai https://customgpt.ai > solutions-partner",
+    "url": "https://customgpt.ai/solutions-partner/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Chatbot Reseller : Ultimate Guide | CustomGPT . ai — White Label Chatbot Reseller : Ultimate Guide | CustomGPT . ai CustomGPT.ai https://customgpt.ai > white-label-chat...",
+    "url": "https://customgpt.ai/white-label-chatbot-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "White - Label AI Platform for Agencies and SaaS Teams — White - Label AI Platform for Agencies and SaaS Teams CustomGPT.ai https://customgpt.ai > white-label-ai-p...",
+    "url": "https://customgpt.ai/white-label-ai-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "CustomGPT . ai Revenue 2025: $2.6M Est. - GetLatka — CustomGPT . ai Revenue 2025: $2.6M Est. - GetLatka GetLatka https://getlatka.com > customgpt",
+    "url": "https://getlatka.com/companies/customgpt.ai",
+    "pass": 3
+   },
+   {
+    "quote": "CustomGPT . ai - Crunchbase Company Profile & Funding — CustomGPT . ai - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > custo...",
+    "url": "https://www.crunchbase.com/organization/customgpt",
+    "pass": 3
+   },
+   {
+    "quote": "Custom GPT Monetization: Maximize Revenue with ... — Custom GPT Monetization: Maximize Revenue with ... CustomGPT.ai https://customgpt.ai > Comparisons",
+    "url": "https://customgpt.ai/customgpt-monetization/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "CustomGPT . ai - LinkedIn CustomGPT . ai - LinkedIn LinkedIn https://www.linkedin.com > customgpt",
+    "url": "https://www.linkedin.com/company/customgpt",
+    "pass": 3
+   },
+   {
+    "quote": "Alden Do Rosario - Founder & CEO - CustomGPT . ai - LinkedIn Alden Do Rosario - Founder & CEO - CustomGPT . ai - LinkedIn LinkedIn https://www.linkedin.com > aldendor...",
+    "url": "https://www.linkedin.com/in/aldendorosario",
+    "pass": 3
+   },
+   {
+    "quote": "Sales Development Representative at CustomGPT . ai - LinkedIn Sales Development Representative at CustomGPT . ai - LinkedIn LinkedIn https://www.linkedin.com > jobs > view",
+    "url": "https://www.linkedin.com/jobs/view/sales-development-representative-at-customgpt-ai-4471685962",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Customgpt . ai Customgpt . ai Facebook https://www.facebook.com > ...",
+    "url": "https://www.facebook.com/61575785502856?locale=id_ID",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://customgpt.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://customgpt.ai/solutions/industries/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://customgpt.ai/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://customgpt.ai/solutions-partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://customgpt.ai/customers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://customgpt.ai/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://customgpt.ai/solutions/anti-hallucination-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://customgpt.ai/solutions/no-code-gpt-builder/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://customgpt.ai/solutions/rag-api/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://customgpt.ai/solutions/security-and-trust/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://customgpt.ai/solutions/enterprise-ai-search/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://customgpt.ai/solutions/website-ai-chatbot/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://customgpt.ai/solutions/onboarding-and-training/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://customgpt.ai/solutions/internal-search/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://customgpt.ai/solutions/competitive-analysis/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://customgpt.ai/solutions/use-cases/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://customgpt.ai/industry/manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://customgpt.ai/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://customgpt.ai/white-label-saas-reseller/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://customgpt.ai/customer/overture-partners-ai-in-recruiting/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://customgpt.ai/wp-content/uploads/2024/09/Overture-Partners-Case-Study.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://customgpt.ai/wp-content/uploads/2026/09/ind-hero.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://customgpt.ai/wp-content/uploads/2026/09/ind-manufacturing.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://customgpt.ai/wp-content/uploads/2026/09/ind-biotechnology.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://customgpt.ai/wp-content/uploads/2026/09/cs-logo-overture-partners-ai-in-recruiting.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://aitool-eye.com/customgptai-kanzen-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-tool-kazu.com/customgpt-ai-review/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aipicks.jp/tool/customgpt",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/eigodeyogaku/n/n3c238097f6ab",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=6AxjSQ4cNwE",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://bahn-rep.com/muryoukeisaiandend/aichatgptimachikaserv",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/customgpt",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/customgpt.ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/customgpt",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/customgpt",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/customgpt",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/aldendorosario",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/view/sales-development-representative-at-customgpt-ai-4471685962",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61575785502856?locale=id_ID",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "CustomGPT.ai 日本 導入",
+   "results": [
+    "https://customgpt.ai/",
+    "https://aitool-eye.com/customgptai-kanzen-guide/",
+    "https://ai-tool-kazu.com/customgpt-ai-review/",
+    "https://aipicks.jp/tool/customgpt",
+    "https://hellocraftai.com/ai-tools/customgpt/",
+    "https://digital-gorilla.co.jp/ai-lab/chatgpt-japan-business/",
+    "https://japan-ai.co.jp/media/2510/",
+    "https://ai-market.jp/services/chatgpt_company/",
+    "https://quasa.io/ja/video/customgpt-rebiyu-zi-fen-nodetadexue-xi-saseta-zi-fen-dakenopuraibetogpt",
+    "https://aitoolsnavi.com/tools/customgpt"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "CustomGPT.ai 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://customgpt.ai/",
+    "https://note.com/eigodeyogaku/n/n3c238097f6ab",
+    "https://www.youtube.com/watch?v=6AxjSQ4cNwE",
+    "https://bahn-rep.com/muryoukeisaiandend/aichatgptimachikaserv",
+    "https://openai.com/ja-JP/index/paf/",
+    "https://www.knowleful.ai/partner/",
+    "https://prtimes.jp/main/html/rd/p/000000219.000022617.html",
+    "https://www.weeklybcn.com/journal/news/detail/20250501_209708.html",
+    "https://japan.zdnet.com/article/35213151/",
+    "https://miralab.co.jp/media/openai-japan/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "CustomGPT.ai Japan",
+   "results": [
+    "https://customgpt.ai/",
+    "https://customgpt.ai/faq/",
+    "https://www.linkedin.com/company/customgpt",
+    "https://customgpt.ai/about/",
+    "https://www.trustpilot.com/review/customgpt.ai",
+    "https://customgpt.ai/how-it-works/",
+    "https://www.youtube.com/watch?v=Bhkmx1Qp0YE",
+    "https://www.crunchbase.com/organization/customgpt",
+    "https://customgpt.ai/customers/",
+    "https://aitoolsnavi.com/tools/customgpt"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "CustomGPT.ai manufacturing customer case study",
+   "results": [
+    "https://customgpt.ai/ai-implementation-case-studies/",
+    "https://customgpt.ai/customers/",
+    "https://customgpt.ai/customer/gema/",
+    "https://customgpt.ai/testimonials/",
+    "https://www.voiceflow.com/blog/customgptai",
+    "https://customgpt.ai/industry/manufacturing/",
+    "https://medium.com/@noakressel/case-study-how-i-used-custom-gpt-to-document-a-whole-year-of-accumulated-experience-before-my-aa39f11cbca7",
+    "https://customgpt.ai/customgpt-customer-support/",
+    "https://kanerika.com/blogs/generative-ai-in-manufacturing/",
+    "https://www.casestudies.com/company/customgptai"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "CustomGPT.ai white label OR reseller OR partner program",
+   "results": [
+    "https://customgpt.ai/chatgpt-white-label/",
+    "https://customgpt.ai/solutions-partner/",
+    "https://customgpt.ai/white-label-chatbot-reseller/",
+    "https://customgpt.ai/white-label-ai-platform/",
+    "https://customgpt.ai/",
+    "https://customgpt.ai/white-label-ai-for-agencies/",
+    "https://customgpt.ai/white-label-software-to-resell/",
+    "https://parallellabs.app/customgpt-ai-vs-parallel-ai-which-white-label-platform-delivers-complete-business-automation-for-agencies-in-2025/",
+    "https://botpenguin.com/blogs/whitelabel-chatgpt-platforms",
+    "https://customgpt.ai/white-label-saas-reseller/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "CustomGPT.ai founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/customgpt.ai",
+    "https://customgpt.ai/customer/gema/",
+    "https://www.crunchbase.com/organization/customgpt",
+    "https://www.linkedin.com/company/customgpt",
+    "https://customgpt.ai/customgpt-monetization/",
+    "https://customgpt.ai/customers/",
+    "https://firstpromoter.com/casestudy/customgpt",
+    "https://customgpt.ai/",
+    "https://customgpt.ai/partners/",
+    "https://www.cbinsights.com/company/customgpt"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com CustomGPT.ai",
+   "results": [
+    "https://note.com/clab_cogito/n/nf5c54a581575",
+    "https://note.com/eigodeyogaku/n/n3c238097f6ab",
+    "https://note.com/uponconsulting/n/n92c096cf0bc8?hl=en",
+    "https://note.com/agile_jacana93/n/ndd9a7e9baf47?hl=en",
+    "https://note.com/yoshiyuki_hongoh/n/ndaa51e23969b",
+    "https://note.com/inotaka_office/n/naa8293db1e7f?hl=en",
+    "https://note.com/major_bee8359/n/n187a0e0bba10?hl=en",
+    "https://note.com/pebank/n/n7a01898db020?hl=en",
+    "https://note.com/sakaihiroshi_tax/n/n43282b38eee1?hl=en",
+    "https://note.com/knotcircle/n/naa6fce56a471?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com CustomGPT.ai",
+   "results": [
+    "https://x.com/UndercodeUpdate/status/2118300262825701746",
+    "https://x.com/aman_nama7/status/1852297712584069411",
+    "https://x.com/VaibhavSisinty/status/1915688184895377684",
+    "https://x.com/Noha_Coder/status/2117581613131608278",
+    "https://x.com/SciFi/status/2114343930888073569",
+    "https://x.com/The_Cyber_News/status/2104907380484198584",
+    "https://x.com/aakashgupta/status/2110777481624231945",
+    "https://x.com/UndercodeUpdate/status/2118311630840967295",
+    "https://x.com/gregisenberg/article/2053843542020063489",
+    "https://x.com/maxwellcopy/status/2077013249233387784"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com CustomGPT.ai",
+   "results": [
+    "https://www.linkedin.com/company/customgpt",
+    "https://www.linkedin.com/in/robert-duquette",
+    "https://www.linkedin.com/in/aldendorosario",
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-customgpt-ai-4471685962",
+    "https://www.linkedin.com/in/jonrkaplan",
+    "https://www.linkedin.com/in/kirollos-atef-fawze",
+    "https://www.linkedin.com/learning/building-custom-gpts-for-work-create-ai-assistants-in-plain-language-with-chatgpt-no-code-required/what-is-a-custom-gpt",
+    "https://www.linkedin.com/pulse/i-built-customgpt-supports-experts-along-core-business-fabian-m%C3%B6sli-b0gxf",
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-customgpt-ai-4487336773?refId=nbU3Ucb81rbapr%2FrL68log%3D%3D&trackingId=9lwVUo5sSgPRz2%2F877L%2B%2Bg%3D%3D",
+    "https://eg.linkedin.com/in/kirollos-atef-fawze"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com CustomGPT.ai",
+   "results": [
+    "https://www.facebook.com/customgpt/",
+    "https://www.facebook.com/61575785502856?locale=id_ID",
+    "https://www.facebook.com/groups/868876935222403/posts/1271222324987860/",
+    "https://www.facebook.com/groups/698593531630485/posts/1142434397246394/",
+    "https://www.facebook.com/groups/chatgpt4u/posts/1442762186353486/",
+    "https://www.facebook.com/groups/evolutionunleashedai/posts/23968701606084265/",
+    "https://www.facebook.com/groups/chatgpt/posts/1253825990058847/",
+    "https://www.facebook.com/JeffOrigTheManTheMythTheLegend/posts/the-difference-between-customgpt-gems-in-gemini-project-and-skill-it-might-be-be/1792891451904144/",
+    "https://www.facebook.com/groups/698593531630485/posts/1157869755702858/",
+    "https://www.facebook.com/groups/698593531630485/posts/1150863196403514/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "CustomGPT.ai note 社長",
+   "results": [
+    "https://customgpt.ai/",
+    "https://customgpt.ai/faq/",
+    "https://customgpt.ai/contact/",
+    "https://customgpt.ai/pricing/",
+    "https://customgpt.ai/solutions/security-and-trust/",
+    "https://www.youtube.com/watch?v=Bhkmx1Qp0YE",
+    "https://customgpt.ai/integrations/",
+    "https://www.notion.com/templates/customgpt-collection?srsltid=AYCX9vL3uDBwO6I2xO_yyK6r5JHBtRsPq98tLdDwRtGdikC1ecHhboDk",
+    "https://customgpt.ai/getting-started-with-customgpt-for-new-developers/",
+    "https://customgpt.ai/about/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "CustomGPT.ai X 投稿",
+   "results": [
+    "https://customgpt.ai/",
+    "https://customgpt.ai/how-to-use-customgpt-for-social-media-analysis/",
+    "https://customgpt.ai/getting-started-with-customgpt-for-new-developers/",
+    "https://www.youtube.com/watch?v=L7D8xghLuSA",
+    "https://customgpt.ai/create-custom-gpt-openai/",
+    "https://customgpt.ai/build-custom-gpt/",
+    "https://help.openai.com/en/articles/8554397-creating-and-editing-gpts",
+    "https://customgpt.ai/website-copilot-deployment/",
+    "https://boom-now.biz/blog/%E3%80%90sns%E6%8B%85%E5%BD%93%E5%BF%85%E8%A6%8B%E3%80%91chatgpt%E3%81%AEoperator%E6%A9%9F%E8%83%BD%E3%81%A7x%E6%8A%95%E7%A8%BF%E3%82%92%E8%87%AA%E5%8B%95%E5%8C%96/",
+    "https://x.com/hashtag/customgpt"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像5件／外部14頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式20頁／PDF・画像5件／外部14頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像5件／外部14頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像5件／外部14頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像5件／外部14頁・検索12回）"
+ }
+}

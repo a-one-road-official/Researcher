@@ -1,0 +1,745 @@
+{
+ "name": "江部松商事株式会社",
+ "aliases": [],
+ "context": "PBF=yes 装置=EBM;日本電子;電子ビーム金属3D 出典=http://www.ndk-kakou.co.jp/equipment/",
+ "researched_at": "2026-11-10T18:13:00.305892+00:00",
+ "official_url": "https://www.ebematsu.co.jp/",
+ "identified_by": "search:yahoo_jp:江部松商事",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒959-1277 新潟県燕市物流センター3-20",
+    "url": "https://www.ebematsu.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒959-1277 新潟県燕市物流センター3-20",
+    "url": "https://fsd-hist.com/%E5%AF%BE%E8%AB%87no-20-%E6%B1%9F%E9%83%A8%E6%9D%BE/",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "3,000万円",
+    "url": "https://www.ebematsu.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "3,000万円",
+    "url": "https://fsd-hist.com/%E5%AF%BE%E8%AB%87no-20-%E6%B1%9F%E9%83%A8%E6%9D%BE/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "180人",
+    "url": "https://www.ebematsu.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "180人",
+    "url": "https://fsd-hist.com/%E5%AF%BE%E8%AB%87no-20-%E6%B1%9F%E9%83%A8%E6%9D%BE/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立年",
+    "value": "設立年：1952年（昭和27年）",
+    "url": "https://www.ebematsu.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立年",
+    "value": "設立年：1952年（昭和27年）",
+    "url": "https://fsd-hist.com/%E5%AF%BE%E8%AB%87no-20-%E6%B1%9F%E9%83%A8%E6%9D%BE/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "業務用厨房・卓上用品の開発、卸売販売",
+    "url": "https://www.ebematsu.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "業務用厨房・卓上用品の開発、卸売販売主要販売先全国一円",
+    "url": "https://fsd-hist.com/%E5%AF%BE%E8%AB%87no-20-%E6%B1%9F%E9%83%A8%E6%9D%BE/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "EBMがご提案するHACCP、3つの基本",
+    "url": "https://www.ebematsu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【EBM WEBシステム】新機能「発注」追加",
+    "url": "https://www.ebematsu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "会社案内 | 企業紹介 | EBM 江部松商事株式会社",
+    "url": "https://www.ebematsu.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "会社案内 | 江部松商事について | EBM 江部松商事株式会社",
+    "url": "https://www.ebematsu.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "EBMで扱う商品は90,000アイテム以上！お店で使う商品がワンストップで揃うので、食を提供する様々な方々からご利用いただいております",
+    "url": "https://www.ebematsu.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "会社案内 | 営業カレンダー | EBM 江部松商事株式会社",
+    "url": "https://www.ebematsu.co.jp/company/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "会社案内 | 会社見学 | EBM 江部松商事株式会社",
+    "url": "https://www.ebematsu.co.jp/company/tour/",
+    "pass": 1
+   },
+   {
+    "quote": "【EBM WEBシステム】新機能「発注」追加",
+    "url": "https://www.ebematsu.co.jp/category/info/",
+    "pass": 1
+   },
+   {
+    "quote": "【2026年4月20日】価格改定商品リスト掲載のお知らせ | お知らせ | EBM 江部松商事株式会社",
+    "url": "https://www.ebematsu.co.jp/2668/",
+    "pass": 1
+   },
+   {
+    "quote": "【お知らせ】中東情勢に伴う価格変更のお願い | お知らせ | EBM 江部松商事株式会社",
+    "url": "https://www.ebematsu.co.jp/2663/",
+    "pass": 1
+   },
+   {
+    "quote": "【EBM WEBシステム】新機能「発注」追加",
+    "url": "https://www.ebematsu.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "【新商品発売のお知らせ】高性能セラミック砥石「磨刃」 | お知らせ | EBM 江部松商事株式会社",
+    "url": "https://www.ebematsu.co.jp/1785/",
+    "pass": 1
+   },
+   {
+    "quote": "EBM EXPO（社内見学会）のお知らせ | お知らせ | EBM 江部松商事株式会社",
+    "url": "https://www.ebematsu.co.jp/1132/",
+    "pass": 1
+   },
+   {
+    "quote": "■7月のEBM EXPOでは多くの飲食店様に来場していただき誠にありがとうございました！",
+    "url": "https://www.ebematsu.co.jp/1132/",
+    "pass": 1
+   },
+   {
+    "quote": "そ・こ・で！大好評につき10月もEBM EXPOやります！",
+    "url": "https://www.ebematsu.co.jp/1132/",
+    "pass": 1
+   },
+   {
+    "quote": "そこで！今回のEBM EXPOでは！最近、お問い合わせが増えてきている「人手不足」を解消する為の商品を中心にご提案したいと考えております",
+    "url": "https://www.ebematsu.co.jp/1132/",
+    "pass": 1
+   },
+   {
+    "quote": "EBM EXPO（社内見学会）のお知らせ | お知らせ | EBM 江部松商事株式会社",
+    "url": "https://www.ebematsu.co.jp/512/",
+    "pass": 1
+   },
+   {
+    "quote": "今回のEBM EXPOでは、肌寒くなってくるこれからの季節に需要が見込める商品と",
+    "url": "https://www.ebematsu.co.jp/512/",
+    "pass": 1
+   },
+   {
+    "quote": "ebm-event@ebematsu.co.jp",
+    "url": "https://www.ebematsu.co.jp/512/",
+    "pass": 1
+   },
+   {
+    "quote": "【お知らせ】年内の最終出荷日について | お知らせ | EBM 江部松商事株式会社",
+    "url": "https://www.ebematsu.co.jp/2359/",
+    "pass": 1
+   },
+   {
+    "quote": "【お知らせ】お盆期間中の大型商品の出荷停止について | お知らせ | EBM 江部松商事株式会社",
+    "url": "https://www.ebematsu.co.jp/2178/",
+    "pass": 1
+   },
+   {
+    "quote": "島田―大きな学校給食センターではロボットを使用した自動化が導入されることも出てきましたね",
+    "url": "https://fsd-hist.com/%E5%AF%BE%E8%AB%87no-20-%E6%B1%9F%E9%83%A8%E6%9D%BE/",
+    "pass": 3
+   },
+   {
+    "quote": "さまざまな製造の現場でもロボットの導入がされているようですが、作業内容によってはロボットで自動化できないこともまだまだ多いですし、様々な工程が介在する製造の現場で全てを自動化しようとすると、１つの場所で間違いが起きるとその後の工程も全てズレが出てしまい、途中で気付けない、修正できないという問題もあるようですね",
+    "url": "https://fsd-hist.com/%E5%AF%BE%E8%AB%87no-20-%E6%B1%9F%E9%83%A8%E6%9D%BE/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.fb.com/ebm.kitchenware",
+    "url": "https://tsubame-square.com/archives/917",
+    "pass": 3
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "JR上越新幹線燕三条駅下車 [車で10分] / 北陸自動車道三条I.C [車で10分]",
+    "url": "https://www.ebematsu.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "JR上越新幹線燕三条駅下車 [車で10分] / 北陸自動車道三条I.C [車で10分]",
+    "url": "https://www.ebematsu.co.jp/company/tour/",
+    "pass": 1
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "法人として設立 資本金50万円",
+    "url": "https://www.ebematsu.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "資本金：3,000万円",
+    "url": "https://fsd-hist.com/%E5%AF%BE%E8%AB%87no-20-%E6%B1%9F%E9%83%A8%E6%9D%BE/",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "例えば、今では当たり前に使われているステンレス製の角バットも、当時はまだ珍しい商品でした",
+    "url": "https://fsd-hist.com/%E5%AF%BE%E8%AB%87no-20-%E6%B1%9F%E9%83%A8%E6%9D%BE/",
+    "pass": 3
+   },
+   {
+    "quote": "燕三条はステンレス加工を得意とするものづくりの町でしたので、東京の合羽橋や大阪の道具屋筋で得た最新のニーズや情報を持ち帰り、地域のメーカーの皆さんと一緒になって商品化していく、そんな流れだったんです",
+    "url": "https://fsd-hist.com/%E5%AF%BE%E8%AB%87no-20-%E6%B1%9F%E9%83%A8%E6%9D%BE/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社 案内 | 企業紹介 | EBM 江部松商事 株式 会社 — 会社 案内 | 企業紹介 | EBM 江部松商事 株式 会社 江部松商事株式会社 https://www.ebematsu.co.jp > company",
+    "url": "https://www.ebematsu.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "厨房消耗品 | 商品 情報 | EBM 江部松商事 株式 会社 — 厨房消耗品 | 商品 情報 | EBM 江部松商事 株式 会社 江部松商事株式会社 https://www.ebematsu.co.jp > item",
+    "url": "https://www.ebematsu.co.jp/item/245/",
+    "pass": 3
+   },
+   {
+    "quote": "対談No.20 江部松商事 - Courage — 対談No.20 江部松商事 - Courage fsd-hist.com https://fsd-hist.com > 対談：REAL",
+    "url": "https://fsd-hist.com/%E5%AF%BE%E8%AB%87no-20-%E6%B1%9F%E9%83%A8%E6%9D%BE/",
+    "pass": 3
+   },
+   {
+    "quote": "プライバシーポリシー | EBM 江部松商事 株式 会社 — プライバシーポリシー | EBM 江部松商事 株式 会社 江部松商事株式会社 https://www.ebematsu.co.jp > privacy_policy",
+    "url": "https://www.ebematsu.co.jp/privacy_policy/",
+    "pass": 3
+   },
+   {
+    "quote": "江部松商事 株式 会社 の企業 情報 - キャリタス就活 — 江部松商事 株式 会社 の企業 情報 - キャリタス就活 キャリタス就活 https://job.career-tasu.jp > corp > detail-uc",
+    "url": "https://job.career-tasu.jp/corp/00168219/detail-uc/",
+    "pass": 3
+   },
+   {
+    "quote": "EBM 江部松商事株式 会社 — EBM 江部松商事株式 会社 江部松商事株式会社 https://www.ebematsu.co.jp",
+    "url": "https://www.ebematsu.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "【インターンできる会社紹介】 江部松商事 株式 会社 — 【インターンできる会社紹介】 江部松商事 株式 会社 つばめ産学協創スクエア | https://tsubame-square.com > archives",
+    "url": "https://tsubame-square.com/archives/917",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内 | 企業紹介 | EBM 江部松商事株式 会社 — 会社案内 | 企業紹介 | EBM 江部松商事株式 会社 江部松商事株式会社 https://www.ebematsu.co.jp > company",
+    "url": "https://www.ebematsu.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "江部松商事 株式会社：企業情報 - 新潟市 - にいがた就職応援団 — 江部松商事 株式会社：企業情報 - 新潟市 - にいがた就職応援団 にいがた就職応援団 https://www.niigata-job.ne.jp > company",
+    "url": "https://www.niigata-job.ne.jp/2028/c/company.html?cmp_id=1004",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内 | 企業紹介 | EBM 江部松商事 株式会社 — 会社案内 | 企業紹介 | EBM 江部松商事 株式会社 江部松商事株式会社 https://www.ebematsu.co.jp > company",
+    "url": "https://www.ebematsu.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "江部松商事 株式会社の企業情報 - キャリタス就活 — 江部松商事 株式会社の企業情報 - キャリタス就活 キャリタス就活 https://job.career-tasu.jp > corp > detail-uc",
+    "url": "https://job.career-tasu.jp/corp/00168219/detail-uc/",
+    "pass": 3
+   },
+   {
+    "quote": "EBM 江部松商事 株式会社 — EBM 江部松商事 株式会社 江部松商事株式会社 https://www.ebematsu.co.jp",
+    "url": "https://www.ebematsu.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "江部松商事 の 新卒採用・就職・企業情報 - 就活会議 — 江部松商事 の 新卒採用・就職・企業情報 - 就活会議 就活会議 https://syukatsu-kaigi.jp > companies",
+    "url": "https://syukatsu-kaigi.jp/companies/90982",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "ケンオー・ドットコム on X: \"燕市の 江部松商事 が厨房用品 ... ケンオー・ドットコム on X: \"燕市の 江部松商事 が厨房用品 ... X https://x.com > @kenohcom",
+    "url": "https://x.com/kenohcom/status/2117877020524699855",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "EBM 江部松商事 | Tsubame-shi Niigata - Facebook EBM 江部松商事 | Tsubame-shi Niigata - Facebook Facebook https://www.facebook.com > ... > Commercial & Industrial",
+    "url": "https://www.facebook.com/ebm.kitchenware/",
+    "pass": 3
+   },
+   {
+    "quote": "【 江部松商事 最新カタログ VOL26 発刊！！】 業務用調理道具 ... 【 江部松商事 最新カタログ VOL26 発刊！！】 業務用調理道具 ... Facebook https://www.facebook.com > ebm.kitchenware > posts",
+    "url": "https://www.facebook.com/ebm.kitchenware/posts/%E6%B1%9F%E9%83%A8%E6%9D%BE%E5%95%86%E4%BA%8B%E6%9C%80%E6%96%B0%E3%82%AB%E3%82%BF%E3%83%AD%E3%82%B0-vol26-%E7%99%BA%E5%88%8A%E6%A5%AD%E5%8B%99%E7%94%A8%E8%AA%BF%E7%90%86%E9%81%93%E5%85%B7%E3%82%92%E5%B9%85%E5%BA%83%E3%81%8F%E6%8E%B2%E8%BC%89%E3%81%97%E3%81%9F%E6%B1%9F%E9%83%A8%E6%9D%BE%E5%95%86%E4%BA%8B%E3%81%AE%E6%9C%80%E6%96%B0%E3%82%AB%E3%82%BF%E3%83%AD%E3%82%B0%E3%81%8C%E3%81%A4%E3%81%84%E3%81%AB%E5%AE%8C%E6%88%90%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E6%96%B0%E5%95%86%E5%93%81%E3%81%8B%E3%82%89%E5%AE%9A%E7%95%AA%E5%95%86%E5%93%81%E3%81%BE%E3%81%A7%E9%A3%B2%E9%A3%9F%E6%A5%AD%E7%95%8C%E3%81%AE%E7%8F%BE%E5%A0%B4%E3%81%A7%E5%BD%B9%E7%AB%8B/1483860330414578/",
+    "pass": 3
+   },
+   {
+    "quote": "EBM 江部松商事 - Facebook EBM 江部松商事 - Facebook Facebook https://www.facebook.com > ebm.kitchenware > posts",
+    "url": "https://www.facebook.com/ebm.kitchenware/posts/%E6%B1%9F%E9%83%A8%E6%9D%BE%E5%95%86%E4%BA%8B%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%B0%E3%83%A9%E3%83%A0%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB%E5%8E%A8%E6%88%BF%E3%81%AE%E3%81%8A%E5%9B%B0%E3%82%8A%E3%81%94%E3%81%A8%E8%A7%A3%E6%B1%BA%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E9%9D%9E%E5%8A%B9%E7%8E%87%E3%82%B3%E3%82%B9%E3%83%88%E5%89%8A%E6%B8%9B%E7%8F%BE%E5%A0%B4%E3%81%A7%E6%9C%AC%E5%BD%93%E3%81%AB%E4%BD%BF%E3%81%88%E3%82%8B%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3%E9%81%93%E5%85%B7%E5%8E%A8%E6%88%BF%E6%A9%9F%E5%99%A8%E3%82%92%E7%99%BA%E4%BF%A1%E4%B8%AD%E3%81%93%E3%82%8C%E3%81%A9%E3%81%86%E3%81%97%E3%81%9F%E3%82%89%E3%81%84%E3%81%84%E3%81%AB%E3%83%97%E3%83%AD%E7%9B%AE%E7%B7%9A%E3%81%A7%E5%88%86%E3%81%8B/1457586056375339/",
+    "pass": 3
+   },
+   {
+    "quote": "EBM 江部松商事 - Facebook EBM 江部松商事 - Facebook Facebook https://www.facebook.com > ebm.kitchenware > posts",
+    "url": "https://www.facebook.com/ebm.kitchenware/posts/%E7%9A%86%E3%81%95%E3%82%93%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E6%B1%9F%E9%83%A8%E6%9D%BE%E5%95%86%E4%BA%8B%E3%81%A7%E3%81%99%E3%81%93%E3%81%AE%E5%BA%A6%E6%B1%9F%E9%83%A8%E6%9D%BE%E5%95%86%E4%BA%8B-%E7%A4%BE%E5%93%A1%E9%A3%9F%E5%A0%82-%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%EF%B8%8F%E3%81%93%E3%81%AE%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%81%A7%E3%81%AF%E6%AF%8E%E9%80%B1%E7%A4%BE%E5%93%A1%E9%A3%9F%E5%A0%82%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AE%E6%A7%98%E3%80%85%E3%81%AA%E6%8A%95%E7%A8%BF%E3%82%92%E3%81%97%E3%81%A6%E3%81%84%E3%81%8D%E3%81%BE%E3%81%99%E3%81%AE%E3%81%A7%E3%81%9C%E3%81%B2%E3%81%94%E8%A6%A7%E3%81%8F/1070272545106694/",
+    "pass": 3
+   },
+   {
+    "quote": "EBM 江部松商事 | Tsubame-shi Niigata - Facebook EBM 江部松商事 | Tsubame-shi Niigata - Facebook Facebook https://www.facebook.com > ... > Commercial & Industrial",
+    "url": "https://www.facebook.com/ebm.kitchenware/?locale=ja_JP",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.ebematsu.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ebematsu.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ebematsu.co.jp/company/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ebematsu.co.jp/company/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ebematsu.co.jp/company/tour/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ebematsu.co.jp/category/info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ebematsu.co.jp/2668/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ebematsu.co.jp/2663/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ebematsu.co.jp/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ebematsu.co.jp/1785/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ebematsu.co.jp/1132/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ebematsu.co.jp/512/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ebematsu.co.jp/2359/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ebematsu.co.jp/2178/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://fsd-hist.com/%E5%AF%BE%E8%AB%87no-20-%E6%B1%9F%E9%83%A8%E6%9D%BE/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tachibana.co.jp/3dprinter/02-metal_3d_printer-6.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sato-ayumi.com/2019/01/23/metal-3dprinting-genri/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Ew517KG1bOI",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://chibalab.niche.tohoku.ac.jp/ebm/page01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tachibana.co.jp/3dprinter/02-metal_3d_printer-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/metal3dprinter/system/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tsubame-square.com/archives/917",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niigata-job.ne.jp/2028/c/company.html?cmp_id=1004",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://job.career-tasu.jp/corp/00168219/detail-uc/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/kenohcom/status/2117877020524699855",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ebm.kitchenware/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ebm.kitchenware/posts/%E6%B1%9F%E9%83%A8%E6%9D%BE%E5%95%86%E4%BA%8B%E6%9C%80%E6%96%B0%E3%82%AB%E3%82%BF%E3%83%AD%E3%82%B0-vol26-%E7%99%BA%E5%88%8A%E6%A5%AD%E5%8B%99%E7%94%A8%E8%AA%BF%E7%90%86%E9%81%93%E5%85%B7%E3%82%92%E5%B9%85%E5%BA%83%E3%81%8F%E6%8E%B2%E8%BC%89%E3%81%97%E3%81%9F%E6%B1%9F%E9%83%A8%E6%9D%BE%E5%95%86%E4%BA%8B%E3%81%AE%E6%9C%80%E6%96%B0%E3%82%AB%E3%82%BF%E3%83%AD%E3%82%B0%E3%81%8C%E3%81%A4%E3%81%84%E3%81%AB%E5%AE%8C%E6%88%90%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E6%96%B0%E5%95%86%E5%93%81%E3%81%8B%E3%82%89%E5%AE%9A%E7%95%AA%E5%95%86%E5%93%81%E3%81%BE%E3%81%A7%E9%A3%B2%E9%A3%9F%E6%A5%AD%E7%95%8C%E3%81%AE%E7%8F%BE%E5%A0%B4%E3%81%A7%E5%BD%B9%E7%AB%8B/1483860330414578/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ebm.kitchenware/posts/%E6%B1%9F%E9%83%A8%E6%9D%BE%E5%95%86%E4%BA%8B%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%B0%E3%83%A9%E3%83%A0%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB%E5%8E%A8%E6%88%BF%E3%81%AE%E3%81%8A%E5%9B%B0%E3%82%8A%E3%81%94%E3%81%A8%E8%A7%A3%E6%B1%BA%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E9%9D%9E%E5%8A%B9%E7%8E%87%E3%82%B3%E3%82%B9%E3%83%88%E5%89%8A%E6%B8%9B%E7%8F%BE%E5%A0%B4%E3%81%A7%E6%9C%AC%E5%BD%93%E3%81%AB%E4%BD%BF%E3%81%88%E3%82%8B%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3%E9%81%93%E5%85%B7%E5%8E%A8%E6%88%BF%E6%A9%9F%E5%99%A8%E3%82%92%E7%99%BA%E4%BF%A1%E4%B8%AD%E3%81%93%E3%82%8C%E3%81%A9%E3%81%86%E3%81%97%E3%81%9F%E3%82%89%E3%81%84%E3%81%84%E3%81%AB%E3%83%97%E3%83%AD%E7%9B%AE%E7%B7%9A%E3%81%A7%E5%88%86%E3%81%8B/1457586056375339/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ebm.kitchenware/posts/%E7%9A%86%E3%81%95%E3%82%93%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E6%B1%9F%E9%83%A8%E6%9D%BE%E5%95%86%E4%BA%8B%E3%81%A7%E3%81%99%E3%81%93%E3%81%AE%E5%BA%A6%E6%B1%9F%E9%83%A8%E6%9D%BE%E5%95%86%E4%BA%8B-%E7%A4%BE%E5%93%A1%E9%A3%9F%E5%A0%82-%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%EF%B8%8F%E3%81%93%E3%81%AE%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%81%A7%E3%81%AF%E6%AF%8E%E9%80%B1%E7%A4%BE%E5%93%A1%E9%A3%9F%E5%A0%82%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AE%E6%A7%98%E3%80%85%E3%81%AA%E6%8A%95%E7%A8%BF%E3%82%92%E3%81%97%E3%81%A6%E3%81%84%E3%81%8D%E3%81%BE%E3%81%99%E3%81%AE%E3%81%A7%E3%81%9C%E3%81%B2%E3%81%94%E8%A6%A7%E3%81%8F/1070272545106694/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ebm.kitchenware/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "江部松商事",
+   "results": [
+    "https://www.ebematsu.co.jp/",
+    "https://www.instagram.com/ebematsu_co.ltd/",
+    "https://ebematsu-pro-items.com/",
+    "https://www.facebook.com/ebm.kitchenware/?locale=ja_JP",
+    "https://www.yodobashi.com/maker/5000015620/",
+    "https://www.superdelivery.com/p/do/dpsl/1000177/",
+    "https://www.ebematsu.co.jp/catalog/",
+    "https://ebematsu.myshopify.com/pages/会社概要",
+    "https://www.facebook.com/ebm.kitchenware/about_contact_and_basic_info/",
+    "https://ebematsu-online.com/login"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "江部松商事 会社概要 資本金 設立",
+   "results": [
+    "https://www.ebematsu.co.jp/company/",
+    "https://www.ebematsu.co.jp/item/245/",
+    "https://fsd-hist.com/%E5%AF%BE%E8%AB%87no-20-%E6%B1%9F%E9%83%A8%E6%9D%BE/",
+    "https://www.ebematsu.co.jp/privacy_policy/",
+    "https://job.career-tasu.jp/corp/00168219/detail-uc/",
+    "https://www.niigata-job.ne.jp/2028/c/company.html?cmp_id=1004",
+    "https://www.jobs-go.jp/jobs/company/271863",
+    "https://www.ebematsu.co.jp/1784/",
+    "https://www.niigata-kigyo-navi.jp/search/company/55",
+    "https://ebematsu.myshopify.com/pages/会社概要"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "江部松商事 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.tachibana.co.jp/3dprinter/02-metal_3d_printer-6.html",
+    "https://sato-ayumi.com/2019/01/23/metal-3dprinting-genri/",
+    "https://www.youtube.com/watch?v=Ew517KG1bOI",
+    "https://www.jncdental.com/%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AE%E7%8F%BE%E7%8A%B6%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
+    "https://www.rapiddirect.com/ja/blog/metal-slm-3d-printing-guide/",
+    "https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/the-future-of-metal-3d-printing",
+    "https://www.jeol.co.jp/column/detail001.html",
+    "https://jampt.jp/column/column_453/",
+    "https://news.sharelab.jp/category/3dp-news/metal-3dprinter/",
+    "https://www.kenoh.com/news/135892/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "江部松商事 金属積層造形 設備",
+   "results": [
+    "https://chibalab.niche.tohoku.ac.jp/ebm/page01.html",
+    "https://www.tachibana.co.jp/3dprinter/02-metal_3d_printer-2.html",
+    "https://jampt.jp/metal3dprinter/system/",
+    "https://www.jeol.co.jp/products/science/3d.html",
+    "https://ja.3dsystems.com/semiconductor",
+    "https://newji.ai/procurement-purchasing/application-cases-and-design-tips-for-metal-additive-manufacturing-ebm-slm/",
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "https://ja.nc-net.or.jp/company/95395/equipment/",
+    "https://www.nims.go.jp/cccenter/ismg/equipments.html",
+    "https://www.ebematsu.co.jp/catalog/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "江部松商事 株主 出資 親会社",
+   "results": [
+    "https://www.ebematsu.co.jp/",
+    "https://tsubame-square.com/archives/917",
+    "https://www.ebematsu.co.jp/company/",
+    "https://www.itochu.co.jp/ja/about/partner/index.html",
+    "https://www.sumitomocorp.com/-/media/Files/hq/ir/report/investors-guide/2000/inv2000_07.pdf",
+    "https://www.mitsuuroko.com/about/group/",
+    "https://www.ebematsu.co.jp/company/business/",
+    "https://www.cmp.co.jp/ir/news/ir_news/20181031.html",
+    "https://openbizgraph.com/detail/271276",
+    "https://catr.jp/companies/46a35/110845"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "江部松商事 売上高 従業員数",
+   "results": [
+    "https://www.niigata-job.ne.jp/2028/c/company.html?cmp_id=1004",
+    "https://www.ebematsu.co.jp/company/",
+    "https://job.career-tasu.jp/corp/00168219/detail-uc/",
+    "https://www.ebematsu.co.jp/",
+    "https://syukatsu-kaigi.jp/companies/90982",
+    "https://www.ebmpapst.com/content/dam/ebm-papst/loc/apac/japan/media/brochures/company/Company%20Overview_251113.pdf",
+    "https://fumadata.com/search/detail/2045390",
+    "https://ivexl.com/company_overview.html?id=1824",
+    "https://jobcatalog.yahoo.co.jp/company/1100006868/information/",
+    "https://www.niigata-job.ne.jp/2027/c/request_download.html?cmp_id=1004"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com 江部松商事",
+   "results": [
+    "https://note.com/lejewo/n/ne31aa93ccd5f",
+    "https://note.com/chiryo1920/n/nd8b803f06ce7",
+    "https://note.com/__takesan__/n/nec76840ba471",
+    "https://note.com/shiny_hare8386/n/n29d2fbfba213",
+    "https://note.com/yukikotani5/n/n41069445d0dc",
+    "https://note.com/medknowledge_ai",
+    "https://note.com/jcebp_office/n/n92995e817974",
+    "https://note.com/seihama_soshin/n/nb262333aa96f",
+    "https://note.com/unique_fowl2375/n/n1d834a61a862",
+    "https://note.com/redamoon/n/n0673f0ff6371"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 江部松商事",
+   "results": [
+    "https://x.com/ebmpapst_News",
+    "https://x.com/GuyattGH/status/2118704964570894784",
+    "https://x.com/kenohcom/status/2117877020524699855",
+    "https://x.com/official_ebm/status/2116163379241119936",
+    "https://x.com/EBM_Library",
+    "https://x.com/ebmsystems1",
+    "https://x.com/rrainfo/status/1510912834103824384",
+    "https://x.com/Meiji_Seika_p/status/1846130065580671224",
+    "https://x.com/official_ebm/status/2118265863396864286",
+    "https://x.com/official_ebm/status/2118017518963142915"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com 江部松商事",
+   "results": [
+    "https://de.linkedin.com/company/ebm-papst-group",
+    "https://www.linkedin.com/company/ebmsoftware",
+    "https://au.linkedin.com/company/ebm-papst-a&nz",
+    "https://www.linkedin.com/company/ebm-manufacturing",
+    "https://www.linkedin.com/in/timburnette",
+    "https://www.linkedin.com/company/ebm-construction",
+    "https://www.linkedin.com/in/lindsay-ruedig-j-d-0a325042",
+    "https://www.linkedin.com/company/getebm",
+    "https://uk.linkedin.com/company/ebm-office-centre-ltd",
+    "https://www.linkedin.com/company/electronic-business-machines"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:facebook.com 江部松商事",
+   "results": [
+    "https://www.facebook.com/ebm.kitchenware/",
+    "https://www.facebook.com/ebm.kitchenware/posts/%E6%B1%9F%E9%83%A8%E6%9D%BE%E5%95%86%E4%BA%8B%E6%9C%80%E6%96%B0%E3%82%AB%E3%82%BF%E3%83%AD%E3%82%B0-vol26-%E7%99%BA%E5%88%8A%E6%A5%AD%E5%8B%99%E7%94%A8%E8%AA%BF%E7%90%86%E9%81%93%E5%85%B7%E3%82%92%E5%B9%85%E5%BA%83%E3%81%8F%E6%8E%B2%E8%BC%89%E3%81%97%E3%81%9F%E6%B1%9F%E9%83%A8%E6%9D%BE%E5%95%86%E4%BA%8B%E3%81%AE%E6%9C%80%E6%96%B0%E3%82%AB%E3%82%BF%E3%83%AD%E3%82%B0%E3%81%8C%E3%81%A4%E3%81%84%E3%81%AB%E5%AE%8C%E6%88%90%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E6%96%B0%E5%95%86%E5%93%81%E3%81%8B%E3%82%89%E5%AE%9A%E7%95%AA%E5%95%86%E5%93%81%E3%81%BE%E3%81%A7%E9%A3%B2%E9%A3%9F%E6%A5%AD%E7%95%8C%E3%81%AE%E7%8F%BE%E5%A0%B4%E3%81%A7%E5%BD%B9%E7%AB%8B/1483860330414578/",
+    "https://www.facebook.com/ebm.kitchenware/posts/%E6%B1%9F%E9%83%A8%E6%9D%BE%E5%95%86%E4%BA%8B%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%B0%E3%83%A9%E3%83%A0%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB%E5%8E%A8%E6%88%BF%E3%81%AE%E3%81%8A%E5%9B%B0%E3%82%8A%E3%81%94%E3%81%A8%E8%A7%A3%E6%B1%BA%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E9%9D%9E%E5%8A%B9%E7%8E%87%E3%82%B3%E3%82%B9%E3%83%88%E5%89%8A%E6%B8%9B%E7%8F%BE%E5%A0%B4%E3%81%A7%E6%9C%AC%E5%BD%93%E3%81%AB%E4%BD%BF%E3%81%88%E3%82%8B%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3%E9%81%93%E5%85%B7%E5%8E%A8%E6%88%BF%E6%A9%9F%E5%99%A8%E3%82%92%E7%99%BA%E4%BF%A1%E4%B8%AD%E3%81%93%E3%82%8C%E3%81%A9%E3%81%86%E3%81%97%E3%81%9F%E3%82%89%E3%81%84%E3%81%84%E3%81%AB%E3%83%97%E3%83%AD%E7%9B%AE%E7%B7%9A%E3%81%A7%E5%88%86%E3%81%8B/1457586056375339/",
+    "https://www.facebook.com/ebm.kitchenware/posts/%E7%9A%86%E3%81%95%E3%82%93%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E6%B1%9F%E9%83%A8%E6%9D%BE%E5%95%86%E4%BA%8B%E3%81%A7%E3%81%99%E3%81%93%E3%81%AE%E5%BA%A6%E6%B1%9F%E9%83%A8%E6%9D%BE%E5%95%86%E4%BA%8B-%E7%A4%BE%E5%93%A1%E9%A3%9F%E5%A0%82-%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%EF%B8%8F%E3%81%93%E3%81%AE%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%81%A7%E3%81%AF%E6%AF%8E%E9%80%B1%E7%A4%BE%E5%93%A1%E9%A3%9F%E5%A0%82%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AE%E6%A7%98%E3%80%85%E3%81%AA%E6%8A%95%E7%A8%BF%E3%82%92%E3%81%97%E3%81%A6%E3%81%84%E3%81%8D%E3%81%BE%E3%81%99%E3%81%AE%E3%81%A7%E3%81%9C%E3%81%B2%E3%81%94%E8%A6%A7%E3%81%8F/1070272545106694/",
+    "https://www.facebook.com/61590391425647/videos/%E6%9C%AA%E6%9D%A5%E3%81%AB%E6%AE%8B%E3%81%97%E3%81%9F%E3%81%84%E4%BC%81%E6%A5%AD%E6%B1%9F%E9%83%A8%E6%9D%BE%E5%95%86%E4%BA%8Bebm%E4%B8%80%E3%81%A4%E3%81%AE%E9%81%93%E5%85%B7%E3%81%8C%E9%A3%9F%E3%81%AE%E6%9C%AA%E6%9D%A5%E3%82%92%E5%A4%89%E3%81%88%E3%81%A6%E3%81%84%E3%81%8F1937%E5%B9%B4%E6%96%B0%E6%BD%9F%E7%87%95%E6%97%A5%E6%9C%AC%E6%9C%89%E6%95%B0%E3%81%AE%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%81%AE%E8%A1%97%E3%81%8B%E3%82%89%E3%81%9D%E3%81%AE%E6%AD%B4%E5%8F%B2%E3%81%AF%E5%A7%8B%E3%81%BE%E3%81%A3%E3%81%9F%E9%8D%8B%E5%8C%85%E4%B8%81%E3%83%95%E3%83%A9%E3%82%A4%E3%83%91%E3%83%B3%E5%99%A8%E3%82%AB%E3%83%88%E3%83%A9%E3%83%AA%E3%83%BC%E5%8E%A8%E6%88%BF/1630103058746239/",
+    "https://www.facebook.com/ebm.kitchenware/posts/%E6%9C%AC%E6%97%A5%E3%81%AF%E3%81%93%E3%81%A1%E3%82%89%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%E3%81%A7%E3%81%8A%E5%87%BA%E8%BF%8E%E3%81%88%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%99%E7%9A%86%E3%81%95%E3%81%BE%E3%81%AE%E3%81%94%E6%9D%A5%E5%A0%B4%E3%81%8A%E5%BE%85%E3%81%A1%E3%81%97%E3%81%A6%E3%81%8A%E3%82%8A%E3%81%BE%E3%81%99%E4%BC%9A%E6%9C%9F2023%E5%B9%B42%E6%9C%887%E6%97%A5%E7%81%AB10%E6%97%A5%E9%87%9110001700%E6%9C%80%E7%B5%82%E6%97%A51630%E3%81%BE%E3%81%A7%E4%BC%9A%E5%A0%B4%E6%9D%B1%E4%BA%AC%E3%83%93%E3%83%83%E3%82%B0%E3%82%B5%E3%82%A4%E3%83%88/620653113401975/",
+    "https://www.facebook.com/ebm.kitchenware/posts/%E7%A4%BE%E5%93%A1%E9%A3%9F%E5%A0%82%E3%81%A7%E6%B4%BB%E8%BA%8D%E4%B8%AD%E3%81%AE-%E3%83%88%E3%83%AC%E3%82%A4%E3%82%AB%E3%83%BC%E3%83%88-%E3%82%92%E3%81%94%E7%B4%B9%E4%BB%8B%E7%A4%BE%E5%93%A1%E9%A3%9F%E5%A0%82%E3%81%AE%E9%9B%B0%E5%9B%B2%E6%B0%97%E3%82%92%E3%82%82%E3%81%A3%E3%81%A8%E5%BF%83%E5%9C%B0%E3%82%88%E3%81%8F%E3%81%97%E3%81%9F%E3%81%84%E3%81%9D%E3%82%93%E3%81%AA%E6%83%B3%E3%81%84%E3%81%8B%E3%82%89%E6%A5%AD%E5%8B%99%E7%94%A8%E3%81%AE%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%88%E3%82%92%E9%BB%92%E3%81%AE%E7%84%BC%E4%BB%98%E5%A1%97%E8%A3%85%E3%81%A7%E3%83%AA%E3%83%A1%E3%82%A4%E3%82%AF%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E7%84%A1%E6%A9%9F%E8%B3%AA%E3%81%A0%E3%81%A3%E3%81%9F/1394181889382423/",
+    "https://www.facebook.com/kasseiken.kira/posts/%E8%AA%BF%E7%90%86%E9%81%93%E5%85%B7%E3%81%AE%E3%83%97%E3%83%AD%E3%83%95%E3%82%A7%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E6%B1%9F%E9%83%A8%E6%9D%BE%E5%95%86%E4%BA%8B%E3%83%86%E3%83%AC%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E9%83%A8-%E9%AB%98%E6%A1%91%E3%81%95%E3%82%93%E3%81%AE1%E6%97%A5%E3%81%AB%E5%AF%86%E7%9D%80%E6%9D%B1%E5%8C%97%E6%96%B0%E6%BD%9F%E3%81%AE%E3%82%AD%E3%83%A9%E4%BC%81%E6%A5%AD%E3%81%8C%E8%B4%88%E3%82%8B-%E5%83%8D%E3%81%8F%E7%A4%BE%E5%93%A1%E3%81%AE%E3%83%AA%E3%82%A2%E3%83%AB%E3%81%AA1%E6%97%A5%E3%82%B9%E3%82%B1%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E5%8B%95%E7%94%BB%E3%81%A7%E3%81%99%E4%BB%8A%E5%9B%9E%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%99/1545531214257737/",
+    "https://www.facebook.com/ebm.kitchenware/videos/%E7%9A%86%E3%81%95%E3%82%93%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E4%B8%AD%E6%9D%91%E3%81%A7%E3%81%99%E5%89%8D%E5%9B%9E%E3%81%AE%E5%90%89%E7%94%B0%E3%81%AE%E6%8A%95%E7%A8%BF%E3%82%92%E5%8F%97%E3%81%91%E3%81%BE%E3%81%97%E3%81%A6%E7%A7%81%E3%81%8C%E6%9C%80%E8%BF%91%E6%89%8B%E6%8E%9B%E3%81%91%E3%81%9F%E3%82%B3%E3%83%AD%E3%83%8A%E5%AF%BE%E7%AD%96%E3%81%AE%E5%BD%93%E7%A4%BE%E3%82%A4%E3%83%81%E3%82%AA%E3%82%B7%E5%95%86%E5%93%81%E3%82%92%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%9F%E3%81%84%E3%81%A8%E6%80%9D%E3%81%84%E3%81%BE%E3%81%99%E3%82%BF%E3%83%83%E3%83%81%E3%83%AC%E3%82%B9-%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%96%E3%83%87%E3%82%A3%E3%82%B9%E3%83%9A%E3%83%B3%E3%82%B5%E3%83%BC/820301728548245/",
+    "https://www.facebook.com/ebm.kitchenware/about_contact_and_basic_info/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "江部松商事 note 社長",
+   "results": [
+    "https://www.ebematsu.co.jp/company/",
+    "https://www.kasseiken.jp/kira-boshi/ebematsu/",
+    "https://www.youtube.com/watch?v=ypSS28G_a-w",
+    "https://www.ebematsu.co.jp/2438/",
+    "https://www.bcon.jp/testimonials/testimonial-lems-07/",
+    "https://fsd-hist.com/%E5%AF%BE%E8%AB%87no-20-%E6%B1%9F%E9%83%A8%E6%9D%BE/",
+    "https://sites.google.com/tama.ac.jp/ies/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC/%E6%B1%9F%E9%83%A8%E6%9D%BE%E5%95%86%E4%BA%8B%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE",
+    "https://ebematsu-pro-items.com/",
+    "https://fsd-hist.com/対談no-20-江部松/",
+    "https://www.ebematsu.co.jp/company/business/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "江部松商事 X 投稿",
+   "results": [
+    "https://www.ebematsu.co.jp/",
+    "https://www.facebook.com/ebm.kitchenware/?locale=ja_JP",
+    "https://www.instagram.com/ebematsu_co.ltd/",
+    "https://www.youtube.com/user/EBMEBEMATSU",
+    "https://www.facebook.com/ebm.kitchenware/posts/%E6%B1%9F%E9%83%A8%E6%9D%BE%E5%95%86%E4%BA%8B%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%B0%E3%83%A9%E3%83%A0%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB%E5%8E%A8%E6%88%BF%E3%81%AE%E3%81%8A%E5%9B%B0%E3%82%8A%E3%81%94%E3%81%A8%E8%A7%A3%E6%B1%BA%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E9%9D%9E%E5%8A%B9%E7%8E%87%E3%82%B3%E3%82%B9%E3%83%88%E5%89%8A%E6%B8%9B%E7%8F%BE%E5%A0%B4%E3%81%A7%E6%9C%AC%E5%BD%93%E3%81%AB%E4%BD%BF%E3%81%88%E3%82%8B%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3%E9%81%93%E5%85%B7%E5%8E%A8%E6%88%BF%E6%A9%9F%E5%99%A8%E3%82%92%E7%99%BA%E4%BF%A1%E4%B8%AD%E3%81%93%E3%82%8C%E3%81%A9%E3%81%86%E3%81%97%E3%81%9F%E3%82%89%E3%81%84%E3%81%84%E3%81%AB%E3%83%97%E3%83%AD%E7%9B%AE%E7%B7%9A%E3%81%A7%E5%88%86%E3%81%8B/1457586056375339/",
+    "https://www.yodobashi.com/maker/5000015620/",
+    "https://news.nicovideo.jp/watch/nw19950507",
+    "https://www.ebematsu.co.jp/site_policy/",
+    "https://x.com/hashtag/江部松商事",
+    "https://x.com/genicpress_edit/status/2117196292439117884"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部16頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部16頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部16頁・検索12回）"
+ }
+}

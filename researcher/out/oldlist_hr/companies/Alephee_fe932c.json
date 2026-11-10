@@ -1,0 +1,977 @@
+{
+ "name": "Alephee",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜未接触",
+ "researched_at": "2026-11-10T18:43:32.434525+00:00",
+ "official_url": "https://www.alephee.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "By digitally connecting brands, manufacturers, wholesalers, retailers, and service providers, we position ourselves as the only end-to-end interconnected platform to support your evolution.",
+    "url": "https://www.alephee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "we ensure a comprehensive view of the value chain through detailed metrics, streamline goal-setting and customized reports for a 360-degree visibility.",
+    "url": "https://www.alephee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "our platform combines a business social network and B2B store for efficient product sourcing. With integrated carts, secure payments, and seamless shipping.",
+    "url": "https://www.alephee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "For Retailers & Service Providers,",
+    "url": "https://www.alephee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "connect with new distributors, expand product offerings across brands, ensure stock availability, and integrate into a global brand network for success.",
+    "url": "https://www.alephee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Regional product expansion",
+    "url": "https://www.alephee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Authentic lead generation",
+    "url": "https://www.alephee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Coordinate your business strategy and gain a comprehensive view of your commercial network. Traceability, insights from retail sellers, and precise metrics – all in one place. Simplify your path to success.",
+    "url": "https://www.alephee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Efficiently manage your network and products in the market and discover yet unexplored opportunities.",
+    "url": "https://www.alephee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Distribute your product successfully in the market and discover unexplored opportunities.",
+    "url": "https://www.alephee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Retailers & Service Providers",
+    "url": "https://www.alephee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Simplify connecting with distributors and boost sales by listing products with our certified catalogs on marketplaces.",
+    "url": "https://www.alephee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our customer success team takes center stage, delivering personalized attention to brands, manufacturers and wholesalers. We offer continuous guidance and prompt responses, ensuring the success of every client. If you are a brand or distributor seeking more information, click below.",
+    "url": "https://www.alephee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Alephee offers a comprehensive platform designed to address diverse market needs. From advanced analytics and strategic planning to seamless communication platforms. Explore the array of solutions Alephee provides to elevate your business and navigate the evolving landscape with confidence.",
+    "url": "https://www.alephee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We are a platform that allows you to develop your business strategy from end to end. We connect brands, manufacturers, distributors, the retail network, and service providers of the automotive industry.",
+    "url": "https://www.alephee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Being part of the Alephee community allows brands, manufacturers, wholesale distributors and the retail network to streamline and optimize all their online sourcing and sales processes, connect organically to strengthen commercial relationships and triple the regional reach of products, grow +30% per year, generate 60% more new opportunities.",
+    "url": "https://www.alephee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Through Alephee you will be able to automate your sales processes in Mercado Libre, Amazon and Shopee, as available in your country.",
+    "url": "https://www.alephee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Does Alephee provide technical support?",
+    "url": "https://www.alephee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, we offer different levels of technical support, we also have a help center through which you can access online training, guides, tutorials, and other content that will facilitate your day to day.",
+    "url": "https://www.alephee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "fewer instances needed after moving workloads to Karpenter",
+    "url": "https://craftech.io/en/success-stories/alephee",
+    "pass": 3
+   },
+   {
+    "quote": "saved in PROD during the first cleanup phases",
+    "url": "https://craftech.io/en/success-stories/alephee",
+    "pass": 3
+   },
+   {
+    "quote": "Alephee is a B2B/B2C software company for e-commerce and marketplace integrations, with a high volume of sales and integrations processed on its platform. The work with Craftech was organized in three stages, between August 2023 and June 2026.",
+    "url": "https://craftech.io/en/success-stories/alephee",
+    "pass": 3
+   },
+   {
+    "quote": "Staged migration plan: pre-production, management and production",
+    "url": "https://craftech.io/en/success-stories/alephee",
+    "pass": 3
+   },
+   {
+    "quote": "AKS clusters and Docker Swarm workloads migrated to Amazon EKS",
+    "url": "https://craftech.io/en/success-stories/alephee",
+    "pass": 3
+   },
+   {
+    "quote": "Provisioning with Terraform and Azure DevOps pipelines adapted to deploy to AWS",
+    "url": "https://craftech.io/en/success-stories/alephee",
+    "pass": 3
+   },
+   {
+    "quote": "~USD 850/month saved in DEV and ~USD 565/month in PROD during the first cleanup phases",
+    "url": "https://craftech.io/en/success-stories/alephee",
+    "pass": 3
+   },
+   {
+    "quote": "~50% fewer instances needed after moving workloads to Karpenter",
+    "url": "https://craftech.io/en/success-stories/alephee",
+    "pass": 3
+   },
+   {
+    "quote": "The heaviest workloads run on Graviton EKS instances, with better price/performance than x86",
+    "url": "https://craftech.io/en/success-stories/alephee",
+    "pass": 3
+   },
+   {
+    "quote": "Historical e-commerce metrics retained for more than 30 days without compromising cost or memory",
+    "url": "https://craftech.io/en/success-stories/alephee",
+    "pass": 3
+   },
+   {
+    "quote": "Leverage our AWS expertise to propel your company into the cloud.",
+    "url": "https://craftech.io/en/success-stories/alephee",
+    "pass": 3
+   },
+   {
+    "quote": "Tommasi opens its doors to develop one of the most comprehensive and integrative e-commerce projects in Alephee’s history.",
+    "url": "https://afterdrive.alephee.com/en/blog/alephee-tommasi-ecommerce-digital-transformation",
+    "pass": 3
+   },
+   {
+    "quote": "Business models and the importance of a product catalog",
+    "url": "https://afterdrive.alephee.com/en/blog/alephee-tommasi-ecommerce-digital-transformation",
+    "pass": 3
+   },
+   {
+    "quote": "Tommasi already used an installed software. However, due to integration needs, it began working on Alephee’s platform to build a digital product catalog that would underpin its entire e-commerce strategy.",
+    "url": "https://afterdrive.alephee.com/en/blog/alephee-tommasi-ecommerce-digital-transformation",
+    "pass": 3
+   },
+   {
+    "quote": "Tommasi created its own e-commerce site, a key tool for clients, offering accurate information, professional images, and real-time stock and pricing updates. As a wholesale distributor, it serves as the main supplier to resellers. Expanding into digital sales can be daunting, especially in a sector where precision is crucial to ensure customers buy the correct parts for their vehicles.",
+    "url": "https://afterdrive.alephee.com/en/blog/alephee-tommasi-ecommerce-digital-transformation",
+    "pass": 3
+   },
+   {
+    "quote": "Creating a digital product catalog is just the beginning of a limitless business model.",
+    "url": "https://afterdrive.alephee.com/en/blog/alephee-tommasi-ecommerce-digital-transformation",
+    "pass": 3
+   },
+   {
+    "quote": "One specific challenge Tommasi faced was adopting and mastering new digital tools. Alephee resolved this by providing training, enabling faster, more effective customer support.",
+    "url": "https://afterdrive.alephee.com/en/blog/alephee-tommasi-ecommerce-digital-transformation",
+    "pass": 3
+   },
+   {
+    "quote": "A 100% digitized product catalog on Alephee, shared across all online sales channels, including",
+    "url": "https://afterdrive.alephee.com/en/blog/alephee-tommasi-ecommerce-digital-transformation",
+    "pass": 3
+   },
+   {
+    "quote": ", providing each brand/distributor with a personalized portal preloaded with their structured catalog.",
+    "url": "https://afterdrive.alephee.com/en/blog/alephee-tommasi-ecommerce-digital-transformation",
+    "pass": 3
+   },
+   {
+    "quote": "Alephée supported the entire journey — from catalog setup to strategic reviews — streamlining processes, boosting online visibility, and enhancing the customer experience. Since its first steps with our platform, Tommasi has recorded consistent growth and trust.",
+    "url": "https://afterdrive.alephee.com/en/blog/alephee-tommasi-ecommerce-digital-transformation",
+    "pass": 3
+   },
+   {
+    "quote": "Dropshipping is a key feature for indirect sales. Tommasi invested in tech, creating specialized departments and workflows. Digital delivery improves traceability, allowing products to be sold even if not physically in store or in stock.",
+    "url": "https://afterdrive.alephee.com/en/blog/alephee-tommasi-ecommerce-digital-transformation",
+    "pass": 3
+   },
+   {
+    "quote": "BMW Group Brazil hires Alephee to support digital transformation in parts and accessories sales",
+    "url": "https://afterdrive.alephee.com/en/blog/alephee-tommasi-ecommerce-digital-transformation",
+    "pass": 3
+   },
+   {
+    "quote": "Libus and the Challenge of Providing Safety to Integrate Its Commercial Chain",
+    "url": "https://afterdrive.alephee.com/en/blog/alephee-tommasi-ecommerce-digital-transformation",
+    "pass": 3
+   },
+   {
+    "quote": "The digital leap that the automotive market has taken... Are you prepared?",
+    "url": "https://afterdrive.alephee.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Managing multiple marketplace accounts without losing control: A guide to unifying catalog, prices, and inventory.",
+    "url": "https://afterdrive.alephee.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "BomPreço Brazil: The Organization's Digital Sales Transformation with Alephee",
+    "url": "https://afterdrive.alephee.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Argentine motorcycle 'boom': prices, maintenance, and the new profile of the user on two wheels",
+    "url": "https://afterdrive.alephee.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Brazil accelerates its automotive production: record exports and 6% growth in 2025",
+    "url": "https://afterdrive.alephee.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Company Profile · Automotive · LATAM",
+    "url": "https://yespress.io/alephee-yc-s21",
+    "pass": 3
+   },
+   {
+    "quote": "'s Summer 2021 batch, it does something less flashy than \"marketplace\" and more durable: it takes the messy, inconsistent product data of the auto-parts world and turns it into structured catalogs that machines and marketplaces can actually read.",
+    "url": "https://yespress.io/alephee-yc-s21",
+    "pass": 3
+   },
+   {
+    "quote": "01 / The Problem",
+    "url": "https://yespress.io/alephee-yc-s21",
+    "pass": 3
+   },
+   {
+    "quote": "Sell a shirt online and the hard questions are size and color. Sell a control arm and the questions multiply: which make, which model, which year, which trim, left or right, pre-facelift or post. Get one attribute wrong and the part physically will not fit. The customer returns it, the reseller eats the shipping, and everyone loses faith in buying parts online at all.",
+    "url": "https://yespress.io/alephee-yc-s21",
+    "pass": 3
+   },
+   {
+    "quote": "This is the fitment problem, and it is why auto-parts e-commerce lagged behind almost every other category. The data lived in spreadsheets, PDFs and the heads of veteran counter staff. Alephee's wager was that if you standardize that data once - technical specs, images, video, variants, vehicle compatibility, live stock - you unlock the whole chain behind it.",
+    "url": "https://yespress.io/alephee-yc-s21",
+    "pass": 3
+   },
+   {
+    "quote": "02 / The Product",
+    "url": "https://yespress.io/alephee-yc-s21",
+    "pass": 3
+   },
+   {
+    "quote": "; ERP and inventory sync that keeps online and offline channels aligned; a B2B wholesale channel; and AfterDrive, a resource that lets repair shops filter parts by vehicle model and year with real-time stock and pricing. The through-line is that brands can replicate their existing offline reseller network online - node for node - instead of rebuilding distribution from scratch.",
+    "url": "https://yespress.io/alephee-yc-s21",
+    "pass": 3
+   },
+   {
+    "quote": "When your largest sales channel becomes your investor, you have stopped being a vendor. Mercado Libre didn't just list Alephee's products - it put $572K into the company.",
+    "url": "https://yespress.io/alephee-yc-s21",
+    "pass": 3
+   },
+   {
+    "quote": ", who previously led the Microsoft Dynamics division for Latin America, handles strategy, finance and investor relations.",
+    "url": "https://yespress.io/alephee-yc-s21",
+    "pass": 3
+   },
+   {
+    "quote": ", an information-systems engineer with two decades in software and e-commerce, is COO and CPO and owns the product.",
+    "url": "https://yespress.io/alephee-yc-s21",
+    "pass": 3
+   },
+   {
+    "quote": "We won't sell or share your personal information to inform the ads you see. You may still see interest-based ads if your information is sold or shared by other companies or was sold or shared previously.",
+    "url": "https://yespress.io/alephee-yc-s21",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "value and revolutionize the automotive ecosystem.",
+    "url": "https://www.alephee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "By digitally connecting brands, manufacturers, wholesalers, retailers, and service providers, we position ourselves as the only end-to-end interconnected platform to support your evolution.",
+    "url": "https://www.alephee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "For brands & manufacturers,",
+    "url": "https://www.alephee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Brands & Manufacturers",
+    "url": "https://www.alephee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "in the world’s largest commercial community of the automotive industry.",
+    "url": "https://www.alephee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Alephee offers a unique commercial social network where brands, manufacturers, wholesalers and retailers can interact organically, fostering new relationships and business opportunities.",
+    "url": "https://www.alephee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our customer success team takes center stage, delivering personalized attention to brands, manufacturers and wholesalers. We offer continuous guidance and prompt responses, ensuring the success of every client. If you are a brand or distributor seeking more information, click below.",
+    "url": "https://www.alephee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We are a platform that allows you to develop your business strategy from end to end. We connect brands, manufacturers, distributors, the retail network, and service providers of the automotive industry.",
+    "url": "https://www.alephee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Being part of the Alephee community allows brands, manufacturers, wholesale distributors and the retail network to streamline and optimize all their online sourcing and sales processes, connect organically to strengthen commercial relationships and triple the regional reach of products, grow +30% per year, generate 60% more new opportunities.",
+    "url": "https://www.alephee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Alephee works with brands, wholesale distributors and the retail network of the automotive industry with special focus on the aftermarket sector: auto parts, tires, motorcycle parts, truck and heavy-duty auto parts.",
+    "url": "https://www.alephee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "If you belong to a brand, manufacturer, or wholesale distributor, please contact our team of consultants directly. You can click on the following link. If you work in a dealership, spare parts store, or mechanic workshop, access our freemiun plan by clicking here.",
+    "url": "https://www.alephee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "To know the value of our exclusive licenses for dealerships, spare parts stores, or repair shops, visit our plans page by clicking here. If you belong to a brand, factory, or wholesale distributor, contact our team of consultants by clicking here and learn more about our values.",
+    "url": "https://www.alephee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Alephee case study: Azure to AWS, no data loss | Craftech",
+    "url": "https://craftech.io/en/success-stories/alephee",
+    "pass": 3
+   },
+   {
+    "quote": "Specialists in digital transformation of the automotive ecosystem, supporting the end-to-end evolution of the sector.",
+    "url": "https://afterdrive.alephee.com/en/blog/alephee-tommasi-ecommerce-digital-transformation",
+    "pass": 3
+   },
+   {
+    "quote": "Is your business visible in online searches within the automotive industry?",
+    "url": "https://afterdrive.alephee.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Learn how digital transformation is reshaping the automotive aftermarket, driving efficiency, and...",
+    "url": "https://afterdrive.alephee.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "The digital leap that the automotive market has taken... Are you prepared?",
+    "url": "https://afterdrive.alephee.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Digital transformation in the automotive aftermarket: challenges and opportunities in 2026",
+    "url": "https://afterdrive.alephee.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive dropshipping: selling without inventory in the age of e-commerce",
+    "url": "https://afterdrive.alephee.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Valeo reinforces its leadership in automotive electrification in Brazil",
+    "url": "https://afterdrive.alephee.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "The Hidden Power of Digital Catalogs in the Automotive Sector",
+    "url": "https://afterdrive.alephee.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Fulfillment or Dropshipping: two strategies to accelerate automotive e-commerce",
+    "url": "https://afterdrive.alephee.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "The key to success in automotive dropshipping: automation and traceability",
+    "url": "https://afterdrive.alephee.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive Dropshipping: The secret formula to multiply revenue without touching inventory",
+    "url": "https://afterdrive.alephee.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Alephee and Stellantis together in the future of automotive e-commerce",
+    "url": "https://afterdrive.alephee.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Why is the automotive sector learning to grow together?",
+    "url": "https://afterdrive.alephee.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive Digital Transformation: GM, Alephee and Mercado Libre Lead the Change in Latin America",
+    "url": "https://afterdrive.alephee.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Brazil accelerates its automotive production: record exports and 6% growth in 2025",
+    "url": "https://afterdrive.alephee.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Company Profile · Automotive · LATAM",
+    "url": "https://yespress.io/alephee-yc-s21",
+    "pass": 3
+   },
+   {
+    "quote": "Alephee, legally Aleph Solutions, is a cloud platform that helps automotive aftermarket brands and distributors sell parts online across Latin America. Founded in Buenos Aires in 2018 and later selected for",
+    "url": "https://yespress.io/alephee-yc-s21",
+    "pass": 3
+   },
+   {
+    "quote": "Alephee was founded by three operators with long software resumes. CEO",
+    "url": "https://yespress.io/alephee-yc-s21",
+    "pass": 3
+   },
+   {
+    "quote": "There is a quiet lesson in here for anyone eyeing an overlooked market. The best places to plant a flag are often the ones that make people at dinner parties change the subject. Alephee ran toward the yawn - and found tens of thousands of sellers waiting on the other side.",
+    "url": "https://yespress.io/alephee-yc-s21",
+    "pass": 3
+   },
+   {
+    "quote": "#automotive-aftermarket",
+    "url": "https://yespress.io/alephee-yc-s21",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Alephee offers a comprehensive platform designed to address diverse market needs. From advanced analytics and strategic planning to seamless communication platforms. Explore the array of solutions Alephee provides to elevate your business and navigate the evolving landscape with confidence.",
+    "url": "https://www.alephee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Being part of the Alephee community allows brands, manufacturers, wholesale distributors and the retail network to streamline and optimize all their online sourcing and sales processes, connect organically to strengthen commercial relationships and triple the regional reach of products, grow +30% per year, generate 60% more new opportunities.",
+    "url": "https://www.alephee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Dropshipping: The secret formula to multiply revenue without touching inventory",
+    "url": "https://afterdrive.alephee.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "The Digital Catalog Has Arrived in the Auto Parts World and It's Changing Everything!",
+    "url": "https://afterdrive.alephee.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "The Digital Catalog has arrived in the auto parts world and it's changing everything!",
+    "url": "https://afterdrive.alephee.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "The timing helps. By Alephee's citation of NielsenIQ data, more than 60% of repair shops in Argentina already search for or buy parts online. The behavior arrived before the tooling did. Alephee is the tooling.",
+    "url": "https://yespress.io/alephee-yc-s21",
+    "pass": 3
+   },
+   {
+    "quote": "The behavior arrived before the software. Over 60% of Argentine repair shops already shop for parts online - the missing piece was infrastructure that made the parts findable.",
+    "url": "https://yespress.io/alephee-yc-s21",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Alephee | e-commerce evolution - Home — Alephee works with brands, wholesale distributors and the retail network of the automotive industry with special focus on the aftermarket sector: auto parts, tires, motorcycle parts, truck and heavy-duty auto parts.",
+    "url": "https://www.alephee.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Aum Shinrikyo - WikipediaAum successor accused of hiding assets to avoid paying ...Aleph (Japan) - CRW FlagsAlephee | About Us — Aleph (Japanese: アレフ, Hepburn: Arefu), better known by their former name Aum Shinrikyo (オウム真理教, Ōmu Shinrikyō; lit. 'religion of Aum Supreme Truth'), is a Japanese new religious movement and doomsday cult founded by Shoko Asahara in 1987. It carried out the deadly Tokyo ",
+    "url": "https://en.wikipedia.org/wiki/Aum_Shinrikyo",
+    "pass": 3
+   },
+   {
+    "quote": "Alephee | About Us — Alephee was born from the idea that each actor in the commercial chain - brands, manufacturers, wholesale distributors, importers, retailers - must work together to obtain opportunities in e-commerce. In a competitive, demanding and diversified context, the main challenge for them is that they work independently.",
+    "url": "https://news.alephee.com/en/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "Case study: Alephee, AWS migration and continuous FinOps ... — Alephee is an e-commerce software company founded in 2017 in Buenos Aires. Its platform connects brands, manufacturers and resellers in the automotive aftermarket (clients like General Motors and Bosch) with LatAm marketplaces such as Mercado Libre and Amazon, centralizing catalog, stock, pricing, orders and real-time reporting.",
+    "url": "https://craftech.io/en/success-stories/alephee",
+    "pass": 3
+   },
+   {
+    "quote": "Alephee and Tommasi: In Search of an E-commerce Boost — Tommasi and Alephee revolutionize the automotive e-commerce sector with a 100% digital strategy, enhancing sales channels and customer experience. Discover their journey and success.",
+    "url": "https://afterdrive.alephee.com/en/blog/alephee-tommasi-ecommerce-digital-transformation",
+    "pass": 3
+   },
+   {
+    "quote": "After Drive by Alephee — Conoce Alephee, una plataforma que te permitirá crear catálogos de productos de autopartes listos para vender en Mercado Libre y compartir con tu red.",
+    "url": "https://afterdrive.alephee.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Alephee: The Argentine Startup Quietly Wiring Latin America's ... — Alephee is an Argentine cloud platform that helps automotive aftermarket brands, wholesalers and distributors sell parts online across Latin America. It standardizes fragmented product catalogs, adds vehicle-fitment data, keeps prices and inventory in sync, and connects the entire distribution chain to marketplaces like Mercado Li",
+    "url": "https://yespress.io/alephee-yc-s21",
+    "pass": 3
+   },
+   {
+    "quote": "Alephee Builds Auto-Parts Commerce Stack for LATAM - LinkedIn — 💸 𝙒𝙝𝙮 𝙬𝙚 𝙞𝙣𝙫𝙚𝙨𝙩: Alephee (YC S21) Alephee builds the auto-parts commerce stack for LATAM: structured catalogs with fitment, tools that keep inventory and prices ...",
+    "url": "https://www.linkedin.com/posts/newtopiavc_newtopiavc-alephee-venturecapital-activity-7420082890241179648-PeAJ",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Tommasi created its own e-commerce site, a key tool for clients, offering accurate information, professional images, and real-time stock and pricing updates. As a wholesale distributor, it serves as the main supplier to resellers. Expanding into digital sales can be daunting, especially in a sector where precision is crucial to ensure customers buy the correct parts for their vehicles.",
+    "url": "https://afterdrive.alephee.com/en/blog/alephee-tommasi-ecommerce-digital-transformation",
+    "pass": 3
+   },
+   {
+    "quote": "270+ brands and ~20,000 resellers now connected through one catalog",
+    "url": "https://yespress.io/alephee-yc-s21",
+    "pass": 3
+   },
+   {
+    "quote": "The Buenos Aires startup did the unglamorous thing everyone skipped - it cleaned up the catalog. Now 270+ brands and 20,000 resellers move parts through its rails.",
+    "url": "https://yespress.io/alephee-yc-s21",
+    "pass": 3
+   },
+   {
+    "quote": "Sell a shirt online and the hard questions are size and color. Sell a control arm and the questions multiply: which make, which model, which year, which trim, left or right, pre-facelift or post. Get one attribute wrong and the part physically will not fit. The customer returns it, the reseller eats the shipping, and everyone loses faith in buying parts online at all.",
+    "url": "https://yespress.io/alephee-yc-s21",
+    "pass": 3
+   },
+   {
+    "quote": "; ERP and inventory sync that keeps online and offline channels aligned; a B2B wholesale channel; and AfterDrive, a resource that lets repair shops filter parts by vehicle model and year with real-time stock and pricing. The through-line is that brands can replicate their existing offline reseller network online - node for node - instead of rebuilding distribution from scratch.",
+    "url": "https://yespress.io/alephee-yc-s21",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Alephee - LinkedIn Alephee | 8103 seguidores en LinkedIn. E-commerce evolutions | Alephee is a software platform that helps automotive aftermarket brands, OEMs, distributors, and dealer networks supply and sell parts online across Latin America. Our customers include global and regional automotive brands and parts manufacturers such as General Motors, Stellantis, Bosch, Valeo, ZF, Pirelli, Bridges",
+    "url": "https://ar.linkedin.com/company/alephee",
+    "pass": 3
+   },
+   {
+    "quote": "Alephee Brasil | LinkedIn Alephee Brasil | 1.689 seguidores no LinkedIn. E-commerce evolution | Alephee is a software platform that helps automotive aftermarket brands, OEMs, distributors, and dealer networks supply and sell parts online across Latin America. Our customers include global and regional automotive brands and parts manufacturers such as General Motors, Stellantis, Bosch, Valeo, ZF, Pi",
+    "url": "https://br.linkedin.com/company/alephee-brasil",
+    "pass": 3
+   },
+   {
+    "quote": "Jonathan Saiegh - Alephee (YC S21) | LinkedInAlephee Builds Auto-Parts Commerce Stack for LATAM | Newtopia ...Alephee agora é StartUp Cubo Itaú | Alephee BrasilGaston Zelerteins - Fundador y CEO de Alephee | LinkedIn Information systems engineer with over 20 years experience in the software industry and… · Experiencia: Alephee (YC S21) · Ubicación: Buenos Aires · Más de 500 contactos en LinkedIn. ",
+    "url": "https://ar.linkedin.com/in/jonathansaiegh",
+    "pass": 3
+   },
+   {
+    "quote": "Alephee Builds Auto-Parts Commerce Stack for LATAM | Newtopia ... 💸 𝙒𝙝𝙮 𝙬𝙚 𝙞𝙣𝙫𝙚𝙨𝙩: Alephee (YC S21) Alephee builds the auto-parts commerce stack for LATAM: structured catalogs with fitment, tools that keep inventory and prices ...",
+    "url": "https://www.linkedin.com/posts/newtopiavc_newtopiavc-alephee-venturecapital-activity-7420082890241179648-PeAJ",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Alephee - FacebookAlephee Brasil | São Paulo SP - FacebookAlephee Brasil | São Paulo SP - FacebookAlephee - ¡En Alephee seguimos creciendo y apostando al ...Alephee - Bridgestone prepara a sus expertos para brindar...Diego Majlis, Director Comercial para Latinoamérica de ...Facebook Apr 10, 2025 · Alephee. 330 likes. Somos Alephee, la primer plataforma de América que conecta marcas, distribuidores",
+    "url": "https://www.facebook.com/SomosAlephee/",
+    "pass": 3
+   },
+   {
+    "quote": "Alephee Brasil | São Paulo SP - FacebookAlephee Brasil | São Paulo SP - FacebookAlephee - ¡En Alephee seguimos creciendo y apostando al ...Alephee - Bridgestone prepara a sus expertos para brindar...Diego Majlis, Director Comercial para Latinoamérica de ...Facebook Sep 11, 2025 · Alephee Brasil, São Paulo. 3 likes. Alephee é uma plataforma que ajuda as marcas a digitalizar e compartilhar seu catál",
+    "url": "https://www.facebook.com/alepheebrasil/",
+    "pass": 3
+   },
+   {
+    "quote": "Alephee Brasil | São Paulo SP - Facebook Oct 11, 2022 · Alephee Brasil, São Paulo. 3 followers. A primeira plataforma da América que conecta marca, atacadista e varejista para vender mais online.",
+    "url": "https://www.facebook.com/alephee.br/",
+    "pass": 3
+   },
+   {
+    "quote": "Alephee - ¡En Alephee seguimos creciendo y apostando al ... Nov 8, 2022 · ¡En Alephee seguimos creciendo y apostando al crecimiento laboral de los jóvenes! Por eso una vez más participamos de la Expo Empleo Joven. Te invitamos a postularte a nuestras búsquedas activas...",
+    "url": "https://www.facebook.com/SomosAlephee/posts/en-alephee-seguimos-creciendo-y-apostando-al-crecimiento-laboral-de-los-jóvenes-/661228045527643/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.alephee.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://alephv2imgstorage.blob.core.windows.net/website/images/logos/shell.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://alephv2imgstorage.blob.core.windows.net/website/images/logos/total.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://alephv2imgstorage.blob.core.windows.net/website/images/logos/BMW.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://alephv2imgstorage.blob.core.windows.net/website/images/logos/yamaha.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/27832d4de48c210c0c33.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/shiodome_098/n/nb6d189e39d0a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/shiodome_098/n/n7f7a7e11368a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Aum_Shinrikyo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japantimes.co.jp/tag/aleph/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crwflags.com/fotw/Flags/jp%7Daum.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://craftech.io/en/success-stories/alephee",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://afterdrive.alephee.com/en/blog/alephee-tommasi-ecommerce-digital-transformation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://afterdrive.alephee.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yespress.io/alephee-yc-s21",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ar.linkedin.com/company/alephee",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://br.linkedin.com/company/alephee-brasil",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ar.linkedin.com/in/jonathansaiegh",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/newtopiavc_newtopiavc-alephee-venturecapital-activity-7420082890241179648-PeAJ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SomosAlephee/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/alepheebrasil/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/alephee.br/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SomosAlephee/posts/en-alephee-seguimos-creciendo-y-apostando-al-crecimiento-laboral-de-los-jóvenes-/661228045527643/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Alephee 日本 導入",
+   "results": [
+    "https://www.alephee.com/",
+    "https://yorozuipsc.com/uploads/1/3/2/5/132566344/27832d4de48c210c0c33.pdf",
+    "https://note.com/shiodome_098/n/nb6d189e39d0a",
+    "https://note.com/shiodome_098/n/n7f7a7e11368a",
+    "https://www.sbbit.jp/article/cont1/187003",
+    "https://aiinsightjapan.com/ai-20260426-236/",
+    "https://news.yahoo.co.jp/articles/7e825de93cca86ef1cfe3f746e66b4c849acc278"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Alephee 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://s.alfee.com/index.asp",
+    "https://www.capgemini.com/jp-jp/about-us/overview-and-access/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Alephee Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Aum_Shinrikyo",
+    "https://www.alephee.com/",
+    "https://www.japantimes.co.jp/tag/aleph/",
+    "https://www.crwflags.com/fotw/Flags/jp}aum.html",
+    "https://news.alephee.com/en/about-us",
+    "https://japannews.yomiuri.co.jp/society/general-news/20250309-242449/",
+    "https://www.asahi.com/ajw/articles/15451366"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Alephee manufacturing customer case study",
+   "results": [
+    "https://craftech.io/en/success-stories/alephee",
+    "https://afterdrive.alephee.com/en/blog/alephee-tommasi-ecommerce-digital-transformation",
+    "https://afterdrive.alephee.com/en/",
+    "https://yespress.io/alephee-yc-s21",
+    "https://www.linkedin.com/posts/newtopiavc_newtopiavc-alephee-venturecapital-activity-7420082890241179648-PeAJ",
+    "https://www.alephee.com/",
+    "https://reforgers.com/startups/aleph-solutions-alephee"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Alephee white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://reseller.amazon.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://resellervendors.mysellauth.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Alephee founded funding employees revenue",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com Alephee",
+   "results": [
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/hunter_5160/n/neb1bf44afe25",
+    "https://note.com/maxmatsuura/n/n04f20fbdce8e",
+    "https://note.com/torikarafever/n/na1a38be675e6",
+    "https://note.com/ogikubo/n/nf616c0b6685a",
+    "https://note.com/tetsuyanagasawa/n/n2559dd6e7592"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Alephee",
+   "results": [
+    "https://about.x.com/en",
+    "https://help.x.com/en",
+    "https://x.com/humilliatedTina",
+    "https://x.com/_InfoGram_/status/2118253289573949943",
+    "https://help.x.com/en/using-x/create-x-account",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/p0ptartkitty/status/2115926138987913708"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Alephee",
+   "results": [
+    "https://ar.linkedin.com/company/alephee",
+    "https://br.linkedin.com/company/alephee-brasil",
+    "https://ar.linkedin.com/in/jonathansaiegh",
+    "https://www.linkedin.com/posts/newtopiavc_newtopiavc-alephee-venturecapital-activity-7420082890241179648-PeAJ",
+    "https://pt.linkedin.com/posts/alephee-brasil_alephee-agora-é-startup-cubo-itaú-activity-7183896766310756356-veuR",
+    "https://ar.linkedin.com/in/gzelerteins/es",
+    "https://www.linkedin.com/pulse/from-latin-america-silicon-valley-how-alephee-aws-ai-zelerteins-ezpmf"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Alephee",
+   "results": [
+    "https://www.facebook.com/SomosAlephee/",
+    "https://www.facebook.com/alepheebrasil/",
+    "https://www.facebook.com/alephee.br/",
+    "https://www.facebook.com/SomosAlephee/posts/en-alephee-seguimos-creciendo-y-apostando-al-crecimiento-laboral-de-los-jóvenes-/661228045527643/",
+    "https://www.facebook.com/SomosAlephee/posts/bridgestone-prepara-a-sus-expertos-para-brindar-la-mejor-experiencia-de-compra-o/444136492699803/",
+    "https://www.facebook.com/AlianzaAutomotriz/videos/alephee-en-el-congreso-mexicano-de-repuestos-automotrices/623150490000849/",
+    "https://www.facebook.com/\u0000jperes88/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Alephee note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260121536475/",
+    "https://jp.linkedin.com/in/yoshihito-kita-625852100",
+    "https://note.com/kanourie/n/ncd0d6fc34714",
+    "https://kitaishihon.com/company/5243/board-of-director"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Alephee X 投稿",
+   "results": [
+    "https://api.alephee.com/",
+    "https://x.com/afei013075861/status/2120129994785779739",
+    "https://x.com/aleph",
+    "https://x.com/alfalfaGeinow/status/2080538186674221267",
+    "https://x.com/alephneuro",
+    "https://x.com/Aleph_Sub/status/2113094833762128215",
+    "https://space.bilibili.com/604120668/video"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部26頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部26頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部26頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部26頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部26頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部26頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部26頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部26頁・検索12回）"
+ }
+}

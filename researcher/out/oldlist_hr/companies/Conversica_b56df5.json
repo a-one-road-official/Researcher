@@ -1,0 +1,1197 @@
+{
+ "name": "Conversica",
+ "aliases": [],
+ "context": "旧営業リスト｜Education / Childcare｜未接触",
+ "researched_at": "2026-11-10T18:20:38.344765+00:00",
+ "official_url": "https://www.conversica.com",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：Bellingham, Washington , United States (2007)",
+    "url": "https://en.wikipedia.org/wiki/Conversica",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "San Mateo, California , United States",
+    "url": "https://en.wikipedia.org/wiki/Conversica",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$132M",
+    "url": "https://getlatka.com/companies/conversica",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Loading related products...",
+    "url": "https://aitoolly.com/ja/product/conversica",
+    "pass": 3
+   },
+   {
+    "quote": "Manifold MCPは、検索順位、AIアシスタントによる引用、ソーシャル動画の文字起こし、リアルタイム広告、リードインテリジェンスにわたる最新のマーケティングデータをAIアシスタントに提供するホスト型Model Context Protocolサーバーです",
+    "url": "https://aitoolly.com/ja/product/conversica",
+    "pass": 3
+   },
+   {
+    "quote": "Fuse AIは、複数プロバイダーによる連絡先情報のエンリッチメント、購買シグナルの追跡、そして直接連携やModel Context Protocolを通じたマルチチャネルでのアウトリーチを統合した、自律型エージェント主導のレベニュー自動化プラットフォームです",
+    "url": "https://aitoolly.com/ja/product/conversica",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica - AI Wiki | Wikiprompt",
+    "url": "https://www.wikiprompt.org/ja/wiki/conversica",
+    "pass": 3
+   },
+   {
+    "quote": "注目すべき投資家には、Kennet Partners、Providence Strategic Growth、Comcast Venturesが含まれる",
+    "url": "https://www.wikiprompt.org/ja/wiki/conversica",
+    "pass": 3
+   },
+   {
+    "quote": "license. Attribution: wikiprompt.org.",
+    "url": "https://www.wikiprompt.org/ja/wiki/conversica",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica Automated Sales Assistant - AI for Marketing and Sales",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/conversica.conversica",
+    "pass": 3
+   },
+   {
+    "quote": "The Conversica Artificial Intelligence (AI) Sales Assistant engages every single lead in a natural, two-way human conversation reaching out to every single lead. It lets your salespeople focus on selling and closing deals instead of chasing down leads.",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/conversica.conversica",
+    "pass": 3
+   },
+   {
+    "quote": "EFFECTIVELY MOVE LEADS DOWN THE FUNNEL – Reach out to leads every step of the journey through multiple channels. Engage every lead, even if they're not ready to buy yet. Identify buyer interest, verify contact information, and book meetings for sales.",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/conversica.conversica",
+    "pass": 3
+   },
+   {
+    "quote": "HELP YOUR SALES TEAM SUCCEED – Gain visibility into the lead follow-up process and track results of your sales team's performance.",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/conversica.conversica",
+    "pass": 3
+   },
+   {
+    "quote": "/staticstorage/20261108.1/assets/videoOverlay_62a424ca921ff733.png",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/conversica.conversica",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/Conversica",
+    "pass": 3
+   },
+   {
+    "quote": "Ben Brigham, Senior Vice President",
+    "url": "https://en.wikipedia.org/wiki/Conversica",
+    "pass": 3
+   },
+   {
+    "quote": ", that provides two-way",
+    "url": "https://en.wikipedia.org/wiki/Conversica",
+    "pass": 3
+   },
+   {
+    "quote": ", originally as AutoFerret.com. The company's initial product was a",
+    "url": "https://en.wikipedia.org/wiki/Conversica",
+    "pass": 3
+   },
+   {
+    "quote": "targeted at automotive dealerships. This soon expanded to lead generation, and then lead validation and qualification. The AI Conversica uses currently was made to follow up on and filter out low-quality leads. The focus of the company shifted toward this automated lead engagement technology.",
+    "url": "https://en.wikipedia.org/wiki/Conversica",
+    "pass": 3
+   },
+   {
+    "quote": "The company started commercially selling AVA, the first Automated Virtual Assistant for sales, and the company name was changed to AVA.ai. Early customers for AVA were automotive dealerships. As the company moved away from generating leads themselves, and providing the CRM themselves, it became necessary to integrate with existing CRM and",
+    "url": "https://en.wikipedia.org/wiki/Conversica",
+    "pass": 3
+   },
+   {
+    "quote": "Providence Strategic Growth",
+    "url": "https://en.wikipedia.org/wiki/Conversica",
+    "pass": 3
+   },
+   {
+    "quote": "led by Providence Strategic Growth. Conversica also acquired",
+    "url": "https://en.wikipedia.org/wiki/Conversica",
+    "pass": 3
+   },
+   {
+    "quote": ", providing a regional presence in",
+    "url": "https://en.wikipedia.org/wiki/Conversica",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica's Revenue Digital Assistants™ are AI assistants who engage with leads, prospects, customers, employees, and other persons of interest (Contacts) in a two-way human-like manner, via email, SMS text, and website chat, in English, French, German, Spanish, Portuguese, and Japanese. The RDAs are built on an Intelligent Automation platform that leverages",
+    "url": "https://en.wikipedia.org/wiki/Conversica",
+    "pass": 3
+   },
+   {
+    "quote": "natural language processing",
+    "url": "https://en.wikipedia.org/wiki/Conversica",
+    "pass": 3
+   },
+   {
+    "quote": ". The Assistants are generally deployed alongside sales and marketing, customer success, account management, and higher education admissions teams, as part of an",
+    "url": "https://en.wikipedia.org/wiki/Conversica",
+    "pass": 3
+   },
+   {
+    "quote": "\"Conversica Opens Office in London to Expand European Presence",
+    "url": "https://en.wikipedia.org/wiki/Conversica",
+    "pass": 3
+   },
+   {
+    "quote": ". April 25, 2019.",
+    "url": "https://en.wikipedia.org/wiki/Conversica",
+    "pass": 3
+   },
+   {
+    "quote": "(Press release). 4 May 2020.",
+    "url": "https://en.wikipedia.org/wiki/Conversica",
+    "pass": 3
+   },
+   {
+    "quote": "(Press release). 6 May 2020.",
+    "url": "https://en.wikipedia.org/wiki/Conversica",
+    "pass": 3
+   },
+   {
+    "quote": "Natural language processing",
+    "url": "https://en.wikipedia.org/wiki/Conversica",
+    "pass": 3
+   },
+   {
+    "quote": "Articles with a promotional tone from February 2020",
+    "url": "https://en.wikipedia.org/wiki/Conversica",
+    "pass": 3
+   },
+   {
+    "quote": "All articles with a promotional tone",
+    "url": "https://en.wikipedia.org/wiki/Conversica",
+    "pass": 3
+   },
+   {
+    "quote": ", a non-profit organization.",
+    "url": "https://en.wikipedia.org/wiki/Conversica",
+    "pass": 3
+   },
+   {
+    "quote": "Zend brings dead leads back to life with Conversica’s 18% engagement rate",
+    "url": "https://www.featuredcustomers.com/vendor/conversica/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Exceed.ai is the next generation conversational-driven marketing and sales platform. They use AI, machine learning and conversational bot technology to generate more qualified opportunities by automating lead capturing, qualification and …",
+    "url": "https://www.featuredcustomers.com/vendor/conversica/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Let potential prospects find you on the world's only",
+    "url": "https://www.featuredcustomers.com/vendor/conversica/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/conversica/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "FREE and learn about our upgraded profile options to",
+    "url": "https://www.featuredcustomers.com/vendor/conversica/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "unlock all of your customer references for prospects",
+    "url": "https://www.featuredcustomers.com/vendor/conversica/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/conversica/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica, an enterprise-level conversational AI provider, needed to build a web chat offering with natural language understanding capabilities. Their in-house team faced significant challenges developing a system using BERT, which was costly to scale and delivered inconsistent performance, jeopardizing the product's launch. This prompted them to evaluate the Gen AI platform from Vectara.",
+    "url": "https://www.casestudies.com/company/vectara/case-study/conversica-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "By implementing Vectara's hybrid search, Conversica saw immediate and substantial improvements in key performance metrics. The solution from Vectara delivered a 19-point jump in precision, a 20-point increase in recall, a 30-point improvement in F1, and sub-100ms latency, enabling the successful and rapid deployment of their high-priority web chat product.",
+    "url": "https://www.casestudies.com/company/vectara/case-study/conversica-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica - Engage Prospects and Customers in Authentic Conversations over Email or SMS",
+    "url": "https://www.cuspera.com/products/conversica-x-1034/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "engage fans, run win-back campaigns, and reactivate lapsed buyers. Conversion rates rose by 22%, and the sales cycle sped up by 50%. The Pirates managed more leads with fewer sales reps after the pandemic. Conversica became the core of their outbound ticketing strategy.",
+    "url": "https://www.cuspera.com/products/conversica-x-1034/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "fans that sales reps could not contact. This led to a 7.5× ROI and 4× more touches per lead. The AI agent delivered warm leads to the sales team and improved close rates by 2.5×. The Islanders now plan to expand their use of Conversica for payment outreach.",
+    "url": "https://www.cuspera.com/products/conversica-x-1034/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "300 single-game buyers into season ticket holders. Sales reps used Conversica daily to engage fans and surface qualified leads. The AI handled follow-up at scale, freeing reps to focus on high-value conversations. This led to faster sales cycles and higher revenue for the club.",
+    "url": "https://www.cuspera.com/products/conversica-x-1034/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica to engage fans, drive early ticket sales, and reactivate lapsed buyers. The AI handled outreach to less urgent leads, freeing up sales reps for high-value prospects. The team saw a 5x increase in attributed revenue year-over-year. ROI reached 13x in year two and 25x in year three. Conversica became the main tool for outbound sales outreach.",
+    "url": "https://www.cuspera.com/products/conversica-x-1034/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica Revenue Digital Assistants helped Iron Mountain re-engage dormant leads and improve lead quality. The company faced a large pool",
+    "url": "https://www.cuspera.com/products/conversica-x-1034/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "of unworked leads and long sales cycles. Conversica automated lead nurturing, reactivated interest, and moved new leads down the funnel. Integration with Salesforce and Eloqua created a seamless buyer journey. Iron Mountain achieved a 17.2X ROI in less than 3 weeks and an 18.5% conversation qualified rate. A single re-engagement led to a $500,000 deal.",
+    "url": "https://www.cuspera.com/products/conversica-x-1034/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica Revenue Digital Assistants helped IHS Markit handle high lead volume. The AI solution identified sales-ready leads and supported customer",
+    "url": "https://www.cuspera.com/products/conversica-x-1034/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "retention. IHS Markit used the tool for marketing, sales, and customer success. They achieved a 39x ROI and a 44% engagement rate. The platform provided unlimited scalability for their team.",
+    "url": "https://www.cuspera.com/products/conversica-x-1034/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica helped Iron Mountain solve the problem of a large pool of dormant leads and early lead handoff in their marketing and sales process. Iron Mountain used",
+    "url": "https://www.cuspera.com/products/conversica-x-1034/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "the Revenue Digital Assistant for Marketing to re-engage old leads and nurture new ones. The solution delivered a 17.2X ROI, an 18.5% conversation qualified rate, and reduced the time to a conversation qualified lead to 12.6 days. The AI assistant enabled Iron Mountain to close deals even when staff were unavailable.",
+    "url": "https://www.cuspera.com/products/conversica-x-1034/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica helped Epson America improve their lead follow-up process. The marketing team used a Revenue Digital Assistant to engage leads.",
+    "url": "https://www.cuspera.com/products/conversica-x-1034/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "This led to a 240% increase in response rate. Epson America saw $2 million in extra revenue in 90 days. Influenced pipeline grew by 500%. Marketing qualified leads increased by 75%.",
+    "url": "https://www.cuspera.com/products/conversica-x-1034/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica helped the University of Miami Athletics boost ticket sales. The AI Agent qualified leads and automated outreach, letting reps",
+    "url": "https://www.cuspera.com/products/conversica-x-1034/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "focus on real buyers. Miami saw a 3X higher close rate and a 40% faster sales cycle. Average order value jumped by 93%. Over 70% of qualified leads now come from Conversica. The team scaled sales without hiring more staff.",
+    "url": "https://www.cuspera.com/products/conversica-x-1034/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica helped Leica Geosystems boost lead conversions by 300%. Leica used the Revenue Digital Assistant for Marketing to start 1:1",
+    "url": "https://www.cuspera.com/products/conversica-x-1034/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "conversations with new leads. The assistant also reactivated old leads that had gone cold. This approach led to a 23x return on investment. The solution influenced 12% of Leica's total sales pipeline.",
+    "url": "https://www.cuspera.com/products/conversica-x-1034/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica helped Iron Mountain revive 60% of dormant enterprise leads. The AI Agent automated lead nurturing and qualification, surfacing hundreds",
+    "url": "https://www.cuspera.com/products/conversica-x-1034/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica is the leader in Intelligent Virtual Assistants for Customer Engagement. By automating routine business conversations, and personalizing interactions at scale, Conversica augments your workforce allowing business professionals and AI Assistants to work together harmoniously.",
+    "url": "https://www.casestudies.com/customer/conversica",
+    "pass": 3
+   },
+   {
+    "quote": "The flagship Conversica Sales AI Assistant helps companies find and secure customers more quickly and efficiently by automatically contacting, engaging, qualifying, and following-up with leads via natural, multi-channel, two-way conversations.",
+    "url": "https://www.casestudies.com/customer/conversica",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "ConversicaのRevenue Digital Assistants（RDA）は、マーケティング、営業、カスタマーサクセスの各チームに対して、自然な会話を通じてパイプラインを推進し、顧客の獲得と維持をサポートします",
+    "url": "https://aitoolly.com/ja/product/conversica",
+    "pass": 3
+   },
+   {
+    "quote": "2. Revenue Discovery",
+    "url": "https://aitoolly.com/ja/product/conversica",
+    "pass": 3
+   },
+   {
+    "quote": "Conversicaは、Revenue Digital Assistantsを中心とした一連の製品を提供している",
+    "url": "https://www.wikiprompt.org/ja/wiki/conversica",
+    "pass": 3
+   },
+   {
+    "quote": "led by Providence Strategic Growth. Conversica also acquired",
+    "url": "https://en.wikipedia.org/wiki/Conversica",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica's Revenue Digital Assistants™ are AI assistants who engage with leads, prospects, customers, employees, and other persons of interest (Contacts) in a two-way human-like manner, via email, SMS text, and website chat, in English, French, German, Spanish, Portuguese, and Japanese. The RDAs are built on an Intelligent Automation platform that leverages",
+    "url": "https://en.wikipedia.org/wiki/Conversica",
+    "pass": 3
+   },
+   {
+    "quote": ". The Assistants are generally deployed alongside sales and marketing, customer success, account management, and higher education admissions teams, as part of an",
+    "url": "https://en.wikipedia.org/wiki/Conversica",
+    "pass": 3
+   },
+   {
+    "quote": "Starr, Rob (February 4, 2018).",
+    "url": "https://en.wikipedia.org/wiki/Conversica",
+    "pass": 3
+   },
+   {
+    "quote": "Qualified is the pipeline generation platform for revenue teams that use Salesforce. Headquartered in San Francisco, Qualified is ranked #1 on the Salesforce AppExchange and is led by former Salesforce …",
+    "url": "https://www.featuredcustomers.com/vendor/conversica/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/conversica/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica’s AI Revenue Digital Assistant helped the Pittsburgh Pirates boost revenue by 325%. The team used the AI agent to",
+    "url": "https://www.cuspera.com/products/conversica-x-1034/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "300 single-game buyers into season ticket holders. Sales reps used Conversica daily to engage fans and surface qualified leads. The AI handled follow-up at scale, freeing reps to focus on high-value conversations. This led to faster sales cycles and higher revenue for the club.",
+    "url": "https://www.cuspera.com/products/conversica-x-1034/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica helped Louisville City FC manage a large list of single-game ticket buyers. The team used Conversica's Revenue Digital Assistant",
+    "url": "https://www.cuspera.com/products/conversica-x-1034/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica to engage fans, drive early ticket sales, and reactivate lapsed buyers. The AI handled outreach to less urgent leads, freeing up sales reps for high-value prospects. The team saw a 5x increase in attributed revenue year-over-year. ROI reached 13x in year two and 25x in year three. Conversica became the main tool for outbound sales outreach.",
+    "url": "https://www.cuspera.com/products/conversica-x-1034/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica Revenue Digital Assistants helped Iron Mountain re-engage dormant leads and improve lead quality. The company faced a large pool",
+    "url": "https://www.cuspera.com/products/conversica-x-1034/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica Revenue Digital Assistants helped IHS Markit handle high lead volume. The AI solution identified sales-ready leads and supported customer",
+    "url": "https://www.cuspera.com/products/conversica-x-1034/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "the Revenue Digital Assistant for Marketing to re-engage old leads and nurture new ones. The solution delivered a 17.2X ROI, an 18.5% conversation qualified rate, and reduced the time to a conversation qualified lead to 12.6 days. The AI assistant enabled Iron Mountain to close deals even when staff were unavailable.",
+    "url": "https://www.cuspera.com/products/conversica-x-1034/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica helped Epson America improve their lead follow-up process. The marketing team used a Revenue Digital Assistant to engage leads.",
+    "url": "https://www.cuspera.com/products/conversica-x-1034/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "This led to a 240% increase in response rate. Epson America saw $2 million in extra revenue in 90 days. Influenced pipeline grew by 500%. Marketing qualified leads increased by 75%.",
+    "url": "https://www.cuspera.com/products/conversica-x-1034/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica helped Leica Geosystems boost lead conversions by 300%. Leica used the Revenue Digital Assistant for Marketing to start 1:1",
+    "url": "https://www.cuspera.com/products/conversica-x-1034/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "of qualified handraisers without extra sales effort. Iron Mountain closed a $500,000 deal after a dormant lead was re-engaged during a holiday weekend. The solution delivered a 2.5X higher close rate and 4X more touches per lead. Conversica became a core part of Iron Mountain’s sales funnel, driving $1 million in revenue.",
+    "url": "https://www.cuspera.com/products/conversica-x-1034/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica Revenue 2024: $24.6M Est., $132M Raised",
+    "url": "https://getlatka.com/companies/conversica",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica has not published its revenue. GetLatka estimates it at about $24.6M a year (October 2024).",
+    "url": "https://getlatka.com/companies/conversica",
+    "pass": 3
+   },
+   {
+    "quote": "All 3 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/conversica",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica CEO, founders & employees",
+    "url": "https://getlatka.com/companies/conversica",
+    "pass": 3
+   },
+   {
+    "quote": "Joshua Pickus founded Conversica in 2007. Jim Kaskade is CEO. Conversica had 139 employees (December 2024, LinkedIn), down from 160 a year earlier.",
+    "url": "https://getlatka.com/companies/conversica",
+    "pass": 3
+   },
+   {
+    "quote": "What is Conversica's revenue?",
+    "url": "https://getlatka.com/companies/conversica",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Conversica's revenue at about",
+    "url": "https://getlatka.com/companies/conversica",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Conversica have?",
+    "url": "https://getlatka.com/companies/conversica",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/conversica",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/conversica",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/conversica",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/conversica",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions (1)",
+    "url": "https://pitchbook.com/profiles/company/56805-76",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica’s most recent deal was a Merger/Acquisition with",
+    "url": "https://pitchbook.com/profiles/company/56805-76",
+    "pass": 3
+   },
+   {
+    "quote": "To view Conversica’s complete acquisitions history, request access »",
+    "url": "https://pitchbook.com/profiles/company/56805-76",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica has 106 total employees.",
+    "url": "https://pitchbook.com/profiles/company/56805-76",
+    "pass": 3
+   },
+   {
+    "quote": "What is Conversica’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/56805-76",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Conversica is",
+    "url": "https://pitchbook.com/profiles/company/56805-76",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Conversica（コンバーシカ） - InsideSalesPlus インサイドセールスプ... — インサイドセールスはもちろん、マーケティング部門も煩雑な業務から開放されることで、戦略的な活動に注力でき、売上拡大の実現をサポートします。 ※ Conversica は株式会社Doorkelのパートナーシップで日本展開を行っております。",
+    "url": "https://b.insidesalesplus.com/service/a73ime-3j",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica — Conversica: 企業向けの革新的な会話AIプラットフォーム... — Aug 15, 2024 · Conversicaを使用するには、まずデモをリクエストし、プラットフォームの機能を確認してください。 導入後、RDAの設定を行い、自社のニーズに合わせたカスタマイズを行います。 その後、各チームでRDAを活用し、顧客との対話を通じて成果を上げてください。",
+    "url": "https://aitoolly.com/ja/product/conversica",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica - AI Wiki | Wikiprompt — Sep 14, 2026 · この進化により、より自然で効果的な会話が可能になり、自動化と人間のやり取りの間の摩擦が軽減された。 2021年、Conversicaは 生成AI の進歩を活用したプラットフォームの機能強化を導入し、さらに動的で文脈に応じた応答を可能にした。",
+    "url": "https://www.wikiprompt.org/ja/wiki/conversica",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica Automated Sales Assistant | Microsoft Marketplace — The Conversica Artificial Intelligence (AI) Sales Assistant engages every single lead in a natural, two-way human conversation reaching out to every single lead.",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/conversica.conversica",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica（コンバーシカ）とは？評判・料金・機能 | AI PICKS — Oct 1, 2026 · Conversicaは、 顧客との会話を自動化するAIエージェントのプラットフォームです。 一方的に配信するだけのメッセージではなく、相手の返事に応じて続く双方向の会話によって、リードを育て、見込みを確かめ、商談につなげます。",
+    "url": "https://aipicks.jp/tool/conversica",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica - Wikipedia — Conversica's Revenue Digital Assistants™ are AI assistants who engage with leads, prospects, customers, employees, and other persons of interest (Contacts) in a two-way human-like manner, via email, SMS text, and website chat, in English, French, German, Spanish, Portuguese, and Japanese.",
+    "url": "https://en.wikipedia.org/wiki/Conversica",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica Automated Sales Assistant | Microsoft Marketplace — The Conversica Artificial Intelligence (AI) Sales Assistant engages every single lead in a natural, two-way human conversation reaching out to every single lead. It lets your salespeople focus on selling and closing deals instead of chasing down leads.",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/conversica.conversica",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica（コンバーシカ） - InsideSalesPlus インサイドセールスプ... — Conversicaにより、メールの一斉送信だけではなく顧客からの返答に対しての対応が可能になり、受注確度の高い顧客への対応のみ人手で対応することに成功しました。",
+    "url": "https://b.insidesalesplus.com/service/a73ime-3j",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica - AI Wiki | Wikiprompt — Sep 14, 2026 · Conversicaは、営業およびマーケティングワークフロー全体で顧客エンゲージメントを自動化・パーソナライズするインテリジェント仮想アシスタントを活用し、ビジネス収益チーム向けのAI駆動型会話プラットフォームを開発する企業です。",
+    "url": "https://www.wikiprompt.org/ja/wiki/conversica",
+    "pass": 3
+   },
+   {
+    "quote": "Conversicaは、AIを活用した会話型マーケティングソリューションで、... — Mar 31, 2025 · Conversicaは、AIを活用した会話型マーケティングソリューションを提供するリーディングカンパニーです。 Revenue Digital Assistants を通じて、マーケティング、セールス、カスタマーサクセスの各段階で収益を最大化するための革新的なテクノロジーを提供します。 Conversicaの特徴は何ですか？ 自然な会話を実現するAIエージェントが、リードのエンゲージメントを促進。 メール、チャット、SNSなど、複数のチャネルでシームレスに会話を管理。 会話を通じて学習し、最適なレスポンスを提供。 グローバルなビジネス展開をサポートする多言語機能。 Conversicaの使用例は何ですか？ 迅速かつパーソナライズされたリードフォローアップで、セールスへの橋渡",
+    "url": "https://seektool.ai/jp/ai/conversica-com",
+    "pass": 3
+   },
+   {
+    "quote": "60 Conversica Case Studies, Success Stories, & Customer ... — Conversica has a 4.7/5 star rating. Learn what their customers think, get 60 free case studies and more.",
+    "url": "https://www.featuredcustomers.com/vendor/conversica/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Conversica achieves faster, more accurate web ... — Conversica (Computer Software) partnered with Vectara (Computer Software) to solve key challenges. \"Conversica - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/vectara/case-study/conversica-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica Case Studies & Customer Success | CusperaB2B Case Studies: How Conversica Uses Software & ServicesCASE STUDY ConversicaCASE STUDY Conversica - cdn.featuredcustomers.comConversica Industrial IoT Case Study | Asia Growth Partners — Conversica automated lead nurturing, reactivated interest, and moved new leads down the funnel. Integration with Salesforce and Eloqua created a seamless buyer",
+    "url": "https://www.cuspera.com/products/conversica-x-1034/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How Conversica Uses Software & Services — Explore case studies featuring Conversica as the customer — learn how vendors and partners helped Conversica solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/conversica",
+    "pass": 3
+   },
+   {
+    "quote": "CASE STUDY Conversica — Conversica evaluated Vectara’s Gen AI platform with different real world query samples and documents and reported significant improvements in precision, recall, and latency.",
+    "url": "https://21542831.fs1.hubspotusercontent-na1.net/hubfs/21542831/Resources+for+Download/VEC_Conversica_Case_Study_L2SA.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica – Performance Metrics & Competitor Intelligence – 2026 — Conversica's expected yearly revenue is $26.5M. The company’s workforce productivity is estimated at $150.5K in annual revenue per employee. Funding raised by Conversica over the years amounts to $107M. There are currently more than 100+ employees working at Conversica. Conversica saw a 36% decrease in total employees over the pas",
+    "url": "https://compworth.com/company/conversica",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica - 2026 Company Profile, Team, Funding ... - TracxnConversica Revenue 2024: $24.6M Est., $132M Raised - LATKAConversica 2026 Company Profile: Valuation, Funding ...Conversica - Overview, News & Similar companies | ZoomInfo.comConversica: Funding, Team & Investors | Startup IntrosConversica Information - RocketReach — Mar 5, 2026 · Conversica has raised $117M in funding from investors lik",
+    "url": "https://tracxn.com/d/companies/conversica/__2ijKG6MjUc6GByQ42aqRV4tBpg0VI8jommbVHesb0lk",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica Revenue 2024: $24.6M Est., $132M Raised - LATKA — Oct 30, 2026 · Conversica 2024 estimated revenue: $24.6M (up from $20.1M in 2022). Total funding: $132M across 6 rounds. Industry: Sales AI Agents. Updated Oct 30, 2026.",
+    "url": "https://getlatka.com/companies/conversica",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica 2026 Company Profile: Valuation, Funding ...Conversica - Overview, News & Similar companies | ZoomInfo.comConversica: Funding, Team & Investors | Startup IntrosConversica Information - RocketReach — Information on valuation, funding, acquisitions, investors, and executives for Conversica. Use the PitchBook Platform to explore the full profile. They fuel the conversations that create bra",
+    "url": "https://pitchbook.com/profiles/company/56805-76",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica - Overview, News & Similar companies | ZoomInfo.com — They fuel the conversations that create brand loyalty and maximize every revenue opportunity. They know how to say just the right thing at just the right time to help grow revenue, improve customer experience, reduce costs, increase operational efficiencies, and build brand awareness.",
+    "url": "https://www.zoominfo.com/c/conversica-inc/371624765",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "targeted at automotive dealerships. This soon expanded to lead generation, and then lead validation and qualification. The AI Conversica uses currently was made to follow up on and filter out low-quality leads. The focus of the company shifted toward this automated lead engagement technology.",
+    "url": "https://en.wikipedia.org/wiki/Conversica",
+    "pass": 3
+   },
+   {
+    "quote": "The company started commercially selling AVA, the first Automated Virtual Assistant for sales, and the company name was changed to AVA.ai. Early customers for AVA were automotive dealerships. As the company moved away from generating leads themselves, and providing the CRM themselves, it became necessary to integrate with existing CRM and",
+    "url": "https://en.wikipedia.org/wiki/Conversica",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/conversica/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Conversica achieves faster, more accurate web chat AI with Vectara | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/vectara/case-study/conversica-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Conversica achieves faster, more accurate web chat AI with Vectara",
+    "url": "https://www.casestudies.com/company/vectara/case-study/conversica-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica - Customer Case Study",
+    "url": "https://www.casestudies.com/company/vectara/case-study/conversica-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Open case study document...",
+    "url": "https://www.casestudies.com/company/vectara/case-study/conversica-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/vectara/case-study/conversica-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories about Software and Services used by Conversica",
+    "url": "https://www.casestudies.com/customer/conversica",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica - Customer Case Study",
+    "url": "https://www.casestudies.com/customer/conversica",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Conversica's reseller partner, Leadfabric, has offices in Belgium, Amsterdam, Paris, UK, Taiwan, and Romania.",
+    "url": "https://en.wikipedia.org/wiki/Conversica",
+    "pass": 3
+   },
+   {
+    "quote": "\"Conversica Announces a Strategic European Reseller Partnership with LeadFabric\"",
+    "url": "https://en.wikipedia.org/wiki/Conversica",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Conversica's Revenue Digital Assistants™ are AI assistants who engage with leads, prospects, customers, employees, and other persons of interest (Contacts) in a two-way human-like manner, via email, SMS text, and website chat, in English, French, German, Spanish, Portuguese, and Japanese. The RDAs are built on an Intelligent Automation platform that leverages",
+    "url": "https://en.wikipedia.org/wiki/Conversica",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "for businesses to engage customers via email, chat, and SMS.",
+    "url": "https://en.wikipedia.org/wiki/Conversica",
+    "pass": 3
+   },
+   {
+    "quote": "platform and IVAs to support additional communication channels (e-mail and SMS text messaging) and communication languages. Conversica also opened a new technology center in",
+    "url": "https://en.wikipedia.org/wiki/Conversica",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica's Revenue Digital Assistants™ are AI assistants who engage with leads, prospects, customers, employees, and other persons of interest (Contacts) in a two-way human-like manner, via email, SMS text, and website chat, in English, French, German, Spanish, Portuguese, and Japanese. The RDAs are built on an Intelligent Automation platform that leverages",
+    "url": "https://en.wikipedia.org/wiki/Conversica",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/conversica/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/conversica/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica - Engage Prospects and Customers in Authentic Conversations over Email or SMS",
+    "url": "https://www.cuspera.com/products/conversica-x-1034/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/56805-76",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Alex Terry (@AlexTerry) / Posts / X This year we landed at #39 (a move up) on the top 100 with a 129.9% growth rate! 🏆 🥂 Cheers to everyone at Conversica for another great year! #SFBTFast100 #futureofwork #AI",
+    "url": "https://x.com/AlexTerry",
+    "pass": 3
+   },
+   {
+    "quote": "Gaurav (@agarwal__gaurav) / X 5 Revolutionary AI Tools To Save Hundreds Of Hours in 2023: Tars - Chatbot Drift - Sales Chatbot Timeular - Time Tracking TLDV - Meeting summaries Conversica - Sales Assistant",
+    "url": "https://x.com/agarwal__gaurav",
+    "pass": 3
+   },
+   {
+    "quote": "@Conversica | X The latest posts from @Conversica",
+    "url": "https://x.com/Conversica",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Conversica - LinkedIn About us Conversica’s AI Agents help you start effortless conversations that build trust, deepen relationships, and drive growth.",
+    "url": "https://www.linkedin.com/company/conversica",
+    "pass": 3
+   },
+   {
+    "quote": "Michael Gilson - CEO at Conversica | LinkedInJim Kaskade - CEO/EXEC/EIR @ PE-backed, VC-backed, Publicly ...Conversica Jobs in United States (5,000+ Open Roles) | LinkedInConversica AI Agents - LinkedInDerik Hettinger - Conversica | LinkedInConversica unveils new brand identity, The Conversation ... About CEO of Conversica, building the next generation of industry-specific intelligent systems. Con",
+    "url": "https://www.linkedin.com/in/michael-gilson-b3857918",
+    "pass": 3
+   },
+   {
+    "quote": "Jim Kaskade - CEO/EXEC/EIR @ PE-backed, VC-backed, Publicly ...Conversica Jobs in United States (5,000+ Open Roles) | LinkedInConversica AI Agents - LinkedInDerik Hettinger - Conversica | LinkedInConversica unveils new brand identity, The Conversation ... Conversica was founded in 2007 and is headquartered in Foster City in Silicon Valley with additional offices in Seattle, Bellingham, Guadalajara",
+    "url": "https://www.linkedin.com/in/jimkaskade",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica Jobs in United States (5,000+ Open Roles) | LinkedIn Today’s top 5,000+ Conversica jobs in United States. Leverage your professional network, and get hired. New Conversica jobs added daily.",
+    "url": "https://www.linkedin.com/jobs/conversica-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica appoints Michael Gilson as CEO - LinkedIn As CEO, Mike will lead Conversica’s focus on delivering AI agents purpose-built for specific industries—designed to automate revenue-generating workflows, address operational bottlenecks, and ...",
+    "url": "https://www.linkedin.com/posts/conversica_were-excited-to-announce-the-appointment-activity-7320477208991404033-CPgN",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Conversica | San Francisco CA - FacebookConversica - The countdown is on! Only 24 ... - FacebookConversica - The Pittsburgh Pirates redefined their ticket ...Conversica - We’re thrilled to announce that Conversica ...Conversica - Look who visited us Dreamforce ! You, TOO ...Conversica - We’re excited to welcome Jim Kaskade as our ...Conversica - Access the Conversica lead management... | Facebook ",
+    "url": "https://www.facebook.com/conversica/",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica - The countdown is on! Only 24 ... - Facebook Oct 29, 2024 · 🕒 The countdown is on! Only 24 hours left until we unveil our most magical AI agents yet! 🪄 https://www.conversica.",
+    "url": "https://www.facebook.com/conversica/posts/-the-countdown-is-on-only-24-hours-left-until-we-unveil-our-most-magical-ai-agen/1084805776978421/",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica - The Pittsburgh Pirates redefined their ticket ... Nov 12, 2024 · Andy Giambroni, Director of CRM and Consumer Strategy, shares, “Not only does Conversica convert leads faster, but we see that about a third of the revenue from those campaigns is sales we wouldn't otherwise make.”",
+    "url": "https://www.facebook.com/conversica/posts/the-pittsburgh-pirates-redefined-their-ticket-sales-strategy-with-conversica-the/1095614295897569/",
+    "pass": 3
+   },
+   {
+    "quote": "Conversica - We’re thrilled to announce that Conversica ... Jul 5, 2022 · We’re thrilled to announce that Conversica has been recognized on The 2022 DestinationCRM.com Top 100 Companies in Customer Service, Marketing, and Sales...",
+    "url": "https://www.facebook.com/conversica/posts/were-thrilled-to-announce-that-conversica-has-been-recognized-on-the-2022-destin/3489718537934687/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.conversica.com",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://b.insidesalesplus.com/service/a73ime-3j",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://aitoolly.com/ja/product/conversica",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wikiprompt.org/ja/wiki/conversica",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketplace.microsoft.com/ja-jp/product/conversica.conversica",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/contract/basic/8378/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://context.reverso.net/%E7%BF%BB%E8%A8%B3/%E6%97%A5%E6%9C%AC%E8%AA%9E-%E8%8B%B1%E8%AA%9E/%E7%B7%8F%E4%BB%A3%E7%90%86%E5%BA%97",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Conversica",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketplace.microsoft.com/ja-jp/product/conversica.conversica",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b.insidesalesplus.com/service/a73ime-3j",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.wikiprompt.org/ja/wiki/conversica",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/conversica/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/vectara/case-study/conversica-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cuspera.com/products/conversica-x-1034/customer-story",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/conversica",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.upcounsel.com/reseller-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/conversica",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/conversica/__2ijKG6MjUc6GByQ42aqRV4tBpg0VI8jommbVHesb0lk",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/conversica",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/56805-76",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/AlexTerry",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/agarwal__gaurav",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/conversica",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/michael-gilson-b3857918",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/jimkaskade",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/conversica-jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/conversica/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/conversica/posts/-the-countdown-is-on-only-24-hours-left-until-we-unveil-our-most-magical-ai-agen/1084805776978421/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/conversica/posts/the-pittsburgh-pirates-redefined-their-ticket-sales-strategy-with-conversica-the/1095614295897569/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/conversica/posts/were-thrilled-to-announce-that-conversica-has-been-recognized-on-the-2022-destin/3489718537934687/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/conversica_were-excited-to-announce-the-appointment-activity-7320477208991404033-CPgN",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Conversica",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Conversica 日本 導入",
+   "results": [
+    "https://b.insidesalesplus.com/service/a73ime-3j",
+    "https://aitoolly.com/ja/product/conversica",
+    "https://www.wikiprompt.org/ja/wiki/conversica",
+    "https://marketplace.microsoft.com/ja-jp/product/conversica.conversica",
+    "https://aipicks.jp/tool/conversica",
+    "https://www.conversica.com/?region=japan",
+    "https://japan.cnet.com/article/35208360/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Conversica 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://context.reverso.net/翻訳/日本語-英語/総代理店",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "https://www.conversis.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Conversica Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Conversica",
+    "https://marketplace.microsoft.com/ja-jp/product/conversica.conversica",
+    "https://b.insidesalesplus.com/service/a73ime-3j",
+    "https://www.wikiprompt.org/ja/wiki/conversica",
+    "https://seektool.ai/jp/ai/conversica-com",
+    "https://be.linkedin.com/posts/eron-sunando-0127711_japan-teamjapan-activity-7008873864902455296-50FL",
+    "https://www.conversica.com/?region=japan"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Conversica manufacturing customer case study",
+   "results": [
+    "https://www.featuredcustomers.com/vendor/conversica/case-studies",
+    "https://www.casestudies.com/company/vectara/case-study/conversica-customer-case-study",
+    "https://www.cuspera.com/products/conversica-x-1034/customer-story",
+    "https://www.casestudies.com/customer/conversica",
+    "https://21542831.fs1.hubspotusercontent-na1.net/hubfs/21542831/Resources+for+Download/VEC_Conversica_Case_Study_L2SA.pdf",
+    "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/vectara_conversica_878016.pdf",
+    "https://asiagrowthpartners.com/supplier/conversica/case-study/v4802"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Conversica white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.nmi.com/blog/understanding-the-reseller-model-a-complete-guide-for-payments-companies/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Conversica founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/conversica",
+    "https://tracxn.com/d/companies/conversica/__2ijKG6MjUc6GByQ42aqRV4tBpg0VI8jommbVHesb0lk",
+    "https://getlatka.com/companies/conversica",
+    "https://pitchbook.com/profiles/company/56805-76",
+    "https://www.zoominfo.com/c/conversica-inc/371624765",
+    "https://startupintros.com/orgs/conversica",
+    "https://rocketreach.co/conversica-profile_b596bfb7f6da1f76"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Conversica",
+   "results": [
+    "https://note.com/tag/mentor",
+    "https://note.com/tag/TFT",
+    "https://note.com/dashboard",
+    "https://note.com/jpml/n/n36f7be5bf3f5",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/chokuzen_note/n/n446b6ac7d01d",
+    "https://note.com/tolove/n/nde5384477324"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Conversica",
+   "results": [
+    "https://x.com/",
+    "https://x.com/AlexTerry",
+    "https://x.com/agarwal__gaurav",
+    "https://help.x.com/zh-cn/managing-your-account",
+    "https://x.com/Marlayna29/status/2115433590150606880",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/AlexZarkage/status/2113754409410674975"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Conversica",
+   "results": [
+    "https://www.linkedin.com/company/conversica",
+    "https://www.linkedin.com/in/michael-gilson-b3857918",
+    "https://www.linkedin.com/in/jimkaskade",
+    "https://www.linkedin.com/jobs/conversica-jobs",
+    "https://www.linkedin.com/products/conversica-intelligent-automation-platform",
+    "https://www.linkedin.com/in/derikhettinger",
+    "https://www.linkedin.com/posts/conversica_today-were-excited-to-announce-our-new-brand-activity-7352078874014359554-btgu"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Conversica",
+   "results": [
+    "https://www.facebook.com/conversica/",
+    "https://www.facebook.com/conversica/posts/-the-countdown-is-on-only-24-hours-left-until-we-unveil-our-most-magical-ai-agen/1084805776978421/",
+    "https://www.facebook.com/conversica/posts/the-pittsburgh-pirates-redefined-their-ticket-sales-strategy-with-conversica-the/1095614295897569/",
+    "https://www.facebook.com/conversica/posts/were-thrilled-to-announce-that-conversica-has-been-recognized-on-the-2022-destin/3489718537934687/",
+    "https://www.facebook.com/conversica/posts/look-who-visited-us-dreamforce-you-too-can-engage-convert-more-leads-wour-ai-aut/1795379490701942/",
+    "https://www.facebook.com/conversica/posts/were-excited-to-welcome-jim-kaskade-as-our-new-ceo-conversica-is-leading-the-cha/2619908128249070/",
+    "https://www.facebook.com/conversica/posts/access-the-conversica-lead-management-dashboard-from-your-phone-with-our-new-sal/1515576428682251/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Conversica note 社長",
+   "results": [
+    "https://en.wikipedia.org/wiki/Conversica",
+    "https://www.linkedin.com/posts/conversica_were-excited-to-announce-the-appointment-activity-7320477208991404033-CPgN",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://yespress.io/michael-gilson",
+    "https://tracxn.com/d/companies/conversica/__2ijKG6MjUc6GByQ42aqRV4tBpg0VI8jommbVHesb0lk",
+    "https://www.linkedin.com/in/michael-gilson-b3857918",
+    "https://www.sportsbusinessjournal.com/Articles/2025/08/27/conversicas-new-leadership-emphasizes-collaboration-with-sports-clients/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Conversica X 投稿",
+   "results": [
+    "https://x.com/Conversica",
+    "https://www.instagram.com/myconversica/",
+    "https://login.conversica.com/",
+    "https://www.conversica.com/",
+    "https://x.com/twitcasting_jp/status/2100831269575868441",
+    "https://x.com/kawakenka/status/2119973320372478250",
+    "https://news.livedoor.com/article/detail/32710275/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）"
+ }
+}

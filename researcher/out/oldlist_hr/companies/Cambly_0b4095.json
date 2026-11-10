@@ -1,0 +1,1284 @@
+{
+ "name": "Cambly",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Training / Workforce Development｜未接触",
+ "researched_at": "2026-11-10T18:43:47.799839+00:00",
+ "official_url": "https://www.cambly.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "425 Market Street, 7th Floor, San Francisco, CA 94105\nUSA",
+    "url": "https://prtimes.jp/main/html/rd/p/000000141.000043150.html",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2013年09月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000141.000043150.html",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "label": "Email",
+    "value": "jpcontact@cambly.com",
+    "url": "https://prtimes.jp/main/html/rd/p/000000141.000043150.html",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Seed-2",
+    "value": "19,915 $0.000100  $1.51 $1.51 1x $1.51 0.1%",
+    "url": "https://pitchbook.com/profiles/company/61260-13",
+    "pass": 3
+   },
+   {
+    "label": "Seed-1",
+    "value": "2,170,868 $0.000100  $1 $1 1x $1 10.79%",
+    "url": "https://pitchbook.com/profiles/company/61260-13",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Pro専任講師、体系的なレッスン、個別指導によって、効率よく目標達成を目指したい方におすすめです",
+    "url": "https://www.cambly.com/ja/english",
+    "pass": 1
+   },
+   {
+    "quote": "Fluency in English gives you access to the global English speaking economy, and billions of people around the world are working hard to master the language. Like any skill, becoming an expert requires constant practice. Cambly makes that possible by giving English learners on-demand access to native English speaking tutors over video chat.",
+    "url": "https://www.cambly.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Aside from our products, our team is what makes my job. I really enjoy our company culture. Cambly reflects my ability to make an impact on people from all around the globe.",
+    "url": "https://www.cambly.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "I appreciate getting to learn from such smart, kind people every day at Cambly. We know that no one person has all the answers, and that’s how we’re able to enjoy puzzling out challenges together.",
+    "url": "https://www.cambly.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "California Applicant Privacy Notice",
+    "url": "https://www.cambly.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "① Private+ または Pro に登録する",
+    "url": "https://try.cambly.com/realenglish-jp",
+    "pass": 3
+   },
+   {
+    "quote": "We prioritize work that makes a big difference for our students and tutors",
+    "url": "https://try.cambly.com/jp-about",
+    "pass": 3
+   },
+   {
+    "quote": "Vonage Video API Connects Cambly Language Learners to Native Speakers",
+    "url": "https://www.casestudies.com/customer/cambly0",
+    "pass": 3
+   },
+   {
+    "quote": "Click on any step to jump to its content.",
+    "url": "https://mohammedhosni.com/portfolio/cambly",
+    "pass": 3
+   },
+   {
+    "quote": "The Problems That Encouraged Me To Undertake A UX/UI Redesign For This App.",
+    "url": "https://mohammedhosni.com/portfolio/cambly",
+    "pass": 3
+   },
+   {
+    "quote": "My Impactful Solutions Address These Product Problems And Enhance User Satisfaction.",
+    "url": "https://mohammedhosni.com/portfolio/cambly",
+    "pass": 3
+   },
+   {
+    "quote": "Start Your Own Project",
+    "url": "https://mohammedhosni.com/portfolio/cambly",
+    "pass": 3
+   },
+   {
+    "quote": "Cambly 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/61260-13",
+    "pass": 3
+   },
+   {
+    "quote": "Educational and Training Services (B2C)",
+    "url": "https://pitchbook.com/profiles/company/61260-13",
+    "pass": 3
+   },
+   {
+    "quote": "2ndary - Private",
+    "url": "https://pitchbook.com/profiles/company/61260-13",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/61260-13",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/61260-13",
+    "pass": 3
+   },
+   {
+    "quote": "8. Secondary Transaction - Private",
+    "url": "https://pitchbook.com/profiles/company/61260-13",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/61260-13",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/61260-13",
+    "pass": 3
+   },
+   {
+    "quote": "Operator of an online English language learning platform designed for language education. The company's platform provide",
+    "url": "https://pitchbook.com/profiles/company/61260-13",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/61260-13",
+    "pass": 3
+   },
+   {
+    "quote": "Collins Private Equity",
+    "url": "https://pitchbook.com/profiles/company/61260-13",
+    "pass": 3
+   },
+   {
+    "quote": "Cambly’s primary industry is Educational and Training Services (B2C).",
+    "url": "https://pitchbook.com/profiles/company/61260-13",
+    "pass": 3
+   },
+   {
+    "quote": "Is Cambly a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/61260-13",
+    "pass": 3
+   },
+   {
+    "quote": "Cambly is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/61260-13",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/61260-13",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/61260-13",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/61260-13",
+    "pass": 3
+   },
+   {
+    "quote": "Cambly has raised $20.0M across 3 funding rounds. Most recently, it raised $15.0M Series A in April 2018.",
+    "url": "https://startupintros.com/orgs/cambly",
+    "pass": 3
+   },
+   {
+    "quote": "Apr 1, 2018",
+    "url": "https://startupintros.com/orgs/cambly",
+    "pass": 3
+   },
+   {
+    "quote": "Preston Werner Ventures",
+    "url": "https://startupintros.com/orgs/cambly",
+    "pass": 3
+   },
+   {
+    "quote": "Cambly's investors include 1/1 Capital, Accel, Bessemer Venture Partners, Haun Ventures, Listen, Tony Florence, Preston-Werner Ventures, Solana Ventures, Tekin Salimi, Wayne Chang, 8-Bit Capital, ACME Capital.",
+    "url": "https://startupintros.com/orgs/cambly",
+    "pass": 3
+   },
+   {
+    "quote": "Cambly is a language learning platform that provides",
+    "url": "https://startupintros.com/orgs/cambly",
+    "pass": 3
+   },
+   {
+    "quote": "on-demand access to native English tutors via video chat",
+    "url": "https://startupintros.com/orgs/cambly",
+    "pass": 3
+   },
+   {
+    "quote": "Product Simplicity and Accessibility:",
+    "url": "https://startupintros.com/orgs/cambly",
+    "pass": 3
+   },
+   {
+    "quote": "Instant connection to native English speakers with just one button press, no scheduling required.",
+    "url": "https://startupintros.com/orgs/cambly",
+    "pass": 3
+   },
+   {
+    "quote": "Students subscribe to access tutors, who earn money by providing conversational practice.",
+    "url": "https://startupintros.com/orgs/cambly",
+    "pass": 3
+   },
+   {
+    "quote": "Tutors from various backgrounds to match different learner needs and preferences.",
+    "url": "https://startupintros.com/orgs/cambly",
+    "pass": 3
+   },
+   {
+    "quote": "Profitability and Scalability:",
+    "url": "https://startupintros.com/orgs/cambly",
+    "pass": 3
+   },
+   {
+    "quote": "Achieved profitability early, demonstrating a sustainable business model uncommon in edtech.",
+    "url": "https://startupintros.com/orgs/cambly",
+    "pass": 3
+   },
+   {
+    "quote": "Emphasizes natural speaking practice rather than structured teaching, differentiating it from traditional language apps[1][3][4].",
+    "url": "https://startupintros.com/orgs/cambly",
+    "pass": 3
+   },
+   {
+    "quote": "startupistanbul.com/blog/2020/06/interview-with-sameer-shariff-co-founder-cambly",
+    "url": "https://startupintros.com/orgs/cambly",
+    "pass": 3
+   },
+   {
+    "quote": "I started getting serious about learning English three and a half years ago, in April 2019.",
+    "url": "https://note.com/tomomisa/n/n2dcd8c94e7c8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "During my student days, I spent time learning English, including compulsory education, attending private English cram schools, and needing a TOEIC score of 600 to advance in university. However, in reality, I remained in a state where I could occasionally get a good test score but couldn't speak at all.",
+    "url": "https://note.com/tomomisa/n/n2dcd8c94e7c8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "campaign where Cambly was offering 35% off the price of a one-year course,",
+    "url": "https://note.com/tomomisa/n/n2dcd8c94e7c8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[2] The quality of the instructors is very high, and they not only teach sophisticated English expressions but also allow you to encounter diverse lifestyles and values",
+    "url": "https://note.com/tomomisa/n/n2dcd8c94e7c8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Many Cambly tutors hold teaching certifications or English instruction qualifications. They are extremely good at grasping my intentions, and they provide me with time that is more than just 'practice for communicating through English'; it is time filled with learning.",
+    "url": "https://note.com/tomomisa/n/n2dcd8c94e7c8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The prices are, for example, as follows (I am someone who signed up with a 35% discount, so the prices shown are not the list prices, but the 35% off prices, sorry).",
+    "url": "https://note.com/tomomisa/n/n2dcd8c94e7c8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "To be honest, 15 minutes of class time feels a bit short. I feel like I want to talk more, so 30 minutes a day would probably be best, but I'm currently living a somewhat busy daily life with work.",
+    "url": "https://note.com/tomomisa/n/n2dcd8c94e7c8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In times like that, a 15-minute course is great because you can review without feeling pressured! (I really want to emphasize this point...!)",
+    "url": "https://note.com/tomomisa/n/n2dcd8c94e7c8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "With Cambly, lesson history is automatically recorded and can be viewed freely later. After taking a 15-minute lesson, I set aside time to review by watching the lesson video, and I make sure to write down phrases I couldn't say or new phrases I was taught in a notebook.",
+    "url": "https://note.com/tomomisa/n/n2dcd8c94e7c8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I think the regular price for Cambly is a bit of a brave decision, so if you're interested, I recommend aiming for the campaign periods that happen several times a year.",
+    "url": "https://note.com/tomomisa/n/n2dcd8c94e7c8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "However, by engaging in English conversation daily, your ears and mouth get used to native pronunciation, speed, tempo, and vocabulary, and you gain experience. I've realized that in English conversation, the element of how confidently you can speak your own English is very important, so I think there is no better service than this for practicing to gain that confidence.",
+    "url": "https://note.com/tomomisa/n/n2dcd8c94e7c8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "*This article contains affiliate advertisements (PR). The service I am introducing is one that I actually used and was able to stick with to improve my speaking skills with an eye toward working for a foreign-affiliated company.",
+    "url": "https://note.com/gaishi_swe/n/n428d3675fbd2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "To improve my speaking skills for foreign-affiliated and global companies, I have been using the online English conversation service",
+    "url": "https://note.com/gaishi_swe/n/n428d3675fbd2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "for about half a year. I will summarize my honest impressions and the \"effective ways to use it\" that I discovered after continuing with it. I will write not only about the good points but also about the parts that didn't suit me.",
+    "url": "https://note.com/gaishi_swe/n/n428d3675fbd2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "during an April campaign, so at that timing, I increased it to a",
+    "url": "https://note.com/gaishi_swe/n/n428d3675fbd2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "). Since the price changes depending on the time of year, I think",
+    "url": "https://note.com/gaishi_swe/n/n428d3675fbd2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Because the volume increased, I feel that the hurdle of speaking English with people from overseas has dropped to a level that even surprised me.",
+    "url": "https://note.com/gaishi_swe/n/n428d3675fbd2?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "オンライン英会話CAMBLY 教育機関向けサイトを新たに開設！大学や高等学校での導入事例を紹介 | Cambly, Inc.のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000141.000043150.html",
+    "pass": 3
+   },
+   {
+    "quote": "オンライン英会話CAMBLY 教育機関向けサイトを新たに開設！大学や高等学校での導入事例を紹介",
+    "url": "https://prtimes.jp/main/html/rd/p/000000141.000043150.html",
+    "pass": 3
+   },
+   {
+    "quote": "Cambly Inc.（本社：アメリカ・サンフランシスコ、日本代表：佐藤 亜希子）が提供するネイティブ講師とのオンライン英会話サービス「CAMBLY（キャンブリー）」は、この度教育機関向けサイトを新しく開設いたしました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000141.000043150.html",
+    "pass": 3
+   },
+   {
+    "quote": "こちらのサイトでは大学や高等学校での導入事例を順次ご紹介します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000141.000043150.html",
+    "pass": 3
+   },
+   {
+    "quote": "https://organizations.cambly.com/educations_Japan",
+    "url": "https://prtimes.jp/main/html/rd/p/000000141.000043150.html",
+    "pass": 3
+   },
+   {
+    "quote": "近年では、大学入試認定の英語検定試験のレベル比較にCEFRが用いられるなど、世界に続き、日本でもCEFRへの注目が高まっています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000141.000043150.html",
+    "pass": 3
+   },
+   {
+    "quote": "受講者からの問い合わせは専門の日本語サポートが対応",
+    "url": "https://organizations.cambly.com/educations_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "受講者募集からオンボーディングまで、専任の日本人スタッフがフルサポート",
+    "url": "https://organizations.cambly.com/jp-corporate-english",
+    "pass": 3
+   },
+   {
+    "quote": "受講者への説明会（録画対応）、オンボーディング、利用状況レポートの提供まで、Camblyの日本人スタッフが伴走します",
+    "url": "https://organizations.cambly.com/jp-corporate-english",
+    "pass": 3
+   },
+   {
+    "quote": "私たちと日本のビジネスを一緒に盛り上げませんか？",
+    "url": "https://try.cambly.com/jp-about",
+    "pass": 3
+   },
+   {
+    "quote": "受講者募集からオンボーディングまで、専任の日本人スタッフがフルサポート",
+    "url": "https://organizations.cambly.com/japan",
+    "pass": 3
+   },
+   {
+    "quote": "受講者への説明会（録画対応）、オンボーディング、利用状況レポートの提供まで、Camblyの日本人スタッフが伴走します",
+    "url": "https://organizations.cambly.com/japan",
+    "pass": 3
+   },
+   {
+    "quote": "I have recently come to really enjoy the days where I can feel the transformation of lifestyles and the diversification of work styles in various countries while staying in Japan.",
+    "url": "https://note.com/tomomisa/n/n2dcd8c94e7c8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I think one of the reasons for this is that non-native English tutors are often located in Asia, which is in a similar time zone. For example, in the middle of the night in Japan, it is also the middle of the night in Asia, so tutors naturally disappear from being online.",
+    "url": "https://note.com/tomomisa/n/n2dcd8c94e7c8?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "◎連絡先: jpcontact@cambly.com",
+    "url": "https://prtimes.jp/main/html/rd/p/000000141.000043150.html",
+    "pass": 3
+   },
+   {
+    "quote": "Email: jpcontact@cambly.com",
+    "url": "https://prtimes.jp/main/html/rd/p/000000141.000043150.html",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/61260-13",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ネイティブとオンライン英会話 | Cambly (キャンブリー) — ゴール重視の体系的なレッスン 講師によるきめ細やかな個別フィードバック 効率的な自主学習のためのアドバイス まだ英会話を始めるかご検討中の場合は、レッスンプランを契約せずに利用できるCamblyの全サービスをご覧ください Camblyについて知る",
+    "url": "https://www.cambly.com/ja/english",
+    "pass": 3
+   },
+   {
+    "quote": "オンライン英会話CAMBLY 教育機関向けサイトを新たに開設！大学や高等...ネイティブ講師と英会話レッスン、「AI講師」導入で対面との相乗効果 ...明治大学付属中野高等学校様のオンライン英会話導入事例を公開 | Camb...Camblyの日本進出可能性・営業としての魅力・企業研究 — Genba — May 9, 2024 · こちらのサイトでは大学や高等学校での導入事例を順次ご紹介します。 ＜CAMBLY 教育機関向け専用サイト＞ https://organizations.cambly.com/educations_Japan Mar 5, 2024 · ―無料でAIと英会話練習ができる「Cambly AI」も導入されましたね。 はい、Cambly ではAI講師を導入しています。 学習者が人間と1対1で話すことにまだ慣れていないのであれば、私たちのAI講師で練習し、実際の人間と話",
+    "url": "https://prtimes.jp/main/html/rd/p/000000141.000043150.html",
+    "pass": 3
+   },
+   {
+    "quote": "Cambly教育機関プラン｜大学・高校向けオンライン英会話 ネイティブ講... — 千葉大学・明治大学など多くの教育機関に導入。 ネイティブ講師とのマンツーマンレッスンが24時間365日受講可能。 大学生・高校生・職員まで対応。 最短2週間で開始・5名から。 無料トライアルあり。",
+    "url": "https://organizations.cambly.com/educations_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Cambly法人プラン｜ネイティブ講師と24時間・2,000社以上が選ぶオンラ... — 官公庁・2,000社以上に導入された法人向けオンライン英語研修。 ネイティブ講師と24時間365日・予約不要でレッスン。 忙しい社員でも3ヶ月でスピーキング力が変わります。 5名から・最短1週間で開始。 無料トライアルあり。",
+    "url": "https://organizations.cambly.com/jp-corporate-english",
+    "pass": 3
+   },
+   {
+    "quote": "Camblyの日本進出可能性・営業としての魅力・企業研究 — Genba — Oct 12, 2026 · 日本法人・常設拠点は未確認ですが、日本法人・拠点設立予定の公式発表、日本責任者・日本市場担当者の配置、現行の日本市場向け公式求人など、具体的な動きを現在確認している企業です。",
+    "url": "https://genbajapan.com/companies/cambly",
+    "pass": 3
+   },
+   {
+    "quote": "料金 - Cambly — Camblyなら、ビデオチャットで英語のネイティブスピーカーとすぐに会話ができるから、本物の英語を学んで自信を付けることができます！",
+    "url": "https://www.cambly.com/en/subscribe?lang=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Cambly - 目標に合う英語講師を見つけよう — 英語を、次のレベルへ。 Camblyなら、24時間いつでも、あなたの目標に合わせたプランで、実際に使える英語を学べます。 あなたのレベルに合った、ぴったりのネイティブ講師を見つけよう。 あなたの目標に100％フォーカスした英語レッスン。",
+    "url": "https://try.cambly.com/realenglish-jp",
+    "pass": 3
+   },
+   {
+    "quote": "About Cambly — 「CAMBLY（キャンブリー ）」は、いつでもワンタッチでネイティブ講師とマンツーマンレッスンが受けられるオンライン英会話サービスです。 英語を母国語とする1万人以上のネイティブスピーカーの講師と、24時間365日「予約なし」ですぐにレッスンを開始できます。 レッスンの自動録画機能や翻訳付テキストチャットシステムなどの学習サポートも充実しています。 「CAMBLY KIDS（キャンブリー キッズ）」は、厳選された英語圏のネイティブ講師とマンツーマンレッスンが受けられる4歳〜15歳のお子さまを対象としたオンライン英会話サービスです。",
+    "url": "https://try.cambly.com/jp-about",
+    "pass": 3
+   },
+   {
+    "quote": "Cambly法人プラン｜ネイティブ講師と24時間・2,000社以上が選ぶオンラ... — Cambly Businessでは、ネイティブ講師とのマンツーマンレッスンで、会議やプレゼン、商談など実際のビジネスシーンを想定した英語を学びます。 知識を身につけるだけでなく、ビジネスの現場で自信を持って伝える実践力を養います。",
+    "url": "https://organizations.cambly.com/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Cambly教育機関プラン｜大学・高校向けオンライン英会話 ネイティブ講... — Camblyはネイティブ講師が1万人以上揃っており、24時間いつでもレッスンを開始出来る「オンデマンドレッスン」がありますので、予約していない場合でもその場で待機している講師といつでもレッスンを始められます。",
+    "url": "https://organizations.cambly.com/educations_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How Cambly Uses Software & Services — Explore case studies featuring Cambly as the customer — learn how vendors and partners helped Cambly solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/cambly0",
+    "pass": 3
+   },
+   {
+    "quote": "Cambly - Customer Case Study — Cambly (E-Learning) partnered with TokBox (Internet) to solve key challenges. \"Cambly - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/tokbox/case-study/cambly-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Cambly App Case Study | Mohammed Hosni — Redesigned the Cambly app to enhance UX, solving key usability challenges with a design thinking approach to improve retention and user control.",
+    "url": "https://mohammedhosni.com/portfolio/cambly",
+    "pass": 3
+   },
+   {
+    "quote": "Cambly — Casey Yamaguma — Designed for full-funnel marketing campaigns, redesigned Cambly’s core landing pages, and revamped the social strategy and visuals to drive brand awareness and acquisition.",
+    "url": "https://www.caseyyamaguma.com/work/cambly",
+    "pass": 3
+   },
+   {
+    "quote": "Cambly 2026 Company Profile: Valuation, Funding & Investors ...Cambly ARR, revenue, valuation and headcount (2026)Cambly: Funding, Team & Investors | Startup IntrosCambly – Growth Analysis & Alternative Companies – 2026Cambly - Crunchbase Company Profile & FundingCambly — Company Profile, Funding & InvestorsCambly - Overview, News & Similar companies | ZoomInfo.com — Information on valuation, fund",
+    "url": "https://pitchbook.com/profiles/company/61260-13",
+    "pass": 3
+   },
+   {
+    "quote": "Cambly ARR, revenue, valuation and headcount (2026) — It was founded in 2012 by ex-Google engineers Sameer Shariff and Kevin Law, and raised a $60M Series B led by Benchmark and Bessemer in 2022. Sources put total funding at roughly $60M, with one outlier at about $100M. It serves learners in 190+ countries.",
+    "url": "https://lounge.ai/arr/cambly",
+    "pass": 3
+   },
+   {
+    "quote": "Cambly: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Operating with a corporate workforce of approximately 200 employees, the company generates tens of millions of dollars in annual revenue and has maintained consistent profitability for five consecutive years as of 2022.",
+    "url": "https://startupintros.com/orgs/cambly",
+    "pass": 3
+   },
+   {
+    "quote": "Cambly – Growth Analysis & Alternative Companies – 2026 — Discover Cambly's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/cambly",
+    "pass": 3
+   },
+   {
+    "quote": "Cambly - Crunchbase Company Profile & FundingCambly — Company Profile, Funding & InvestorsCambly - Overview, News & Similar companies | ZoomInfo.com — Cambly gives English learners on-demand access to native English speaking tutors over video chat. Cambly company profile with $20.2M raised across 3 funding rounds, HQ in San Francisco, United States, founded 2012. Explore its acquisitions, funding ",
+    "url": "https://www.crunchbase.com/organization/cambly",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Success Stories about Software and Services used by Cambly",
+    "url": "https://www.casestudies.com/customer/cambly0",
+    "pass": 3
+   },
+   {
+    "quote": "Cambly - Customer Case Study",
+    "url": "https://www.casestudies.com/customer/cambly0",
+    "pass": 3
+   },
+   {
+    "quote": "TokBox Case Study: Cambly – Cambly - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/tokbox/case-study/cambly-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Cambly - Customer Case Study",
+    "url": "https://www.casestudies.com/company/tokbox/case-study/cambly-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Cambly used TokBox",
+    "url": "https://www.casestudies.com/company/tokbox/case-study/cambly-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/tokbox/case-study/cambly-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/tokbox/case-study/cambly-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Cambly App Case Study | Mohammed Hosni",
+    "url": "https://mohammedhosni.com/portfolio/cambly",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "440 North Barranca Avenue",
+    "url": "https://pitchbook.com/profiles/company/61260-13",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/61260-13",
+    "pass": 3
+   },
+   {
+    "quote": "Cambly has 80 total employees.",
+    "url": "https://pitchbook.com/profiles/company/61260-13",
+    "pass": 3
+   },
+   {
+    "quote": "What is Cambly’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/61260-13",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Cambly is",
+    "url": "https://pitchbook.com/profiles/company/61260-13",
+    "pass": 3
+   },
+   {
+    "quote": "I studied again as a working adult and reached a TOEIC score of 800. People often told me, 'If you're at that level, surely you can communicate in English with ease, right?' But honestly, I couldn't speak at all, to the point of embarrassment.",
+    "url": "https://note.com/tomomisa/n/n2dcd8c94e7c8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "feature. Lessons are recorded automatically, which is perfect for reflection. It is a little embarrassing to watch myself speaking English, but since I am paying a high price, I often watch the recordings back because I don't want to waste a single lesson.",
+    "url": "https://note.com/shossann/n/n5c5053ec434f?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "I decided, 'Someday I'll use Cambly for online English ... Someday, when I have a little more confidence in my English, I decided I would try Cambly (Cambly). I started getting serious about learning English three and a half years ago, in April 2019.",
+    "url": "https://note.com/tomomisa/n/n2dcd8c94e7c8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "My thoughts after using Cambly for half a year for English ... Jun 24, 2026 · To improve my speaking skills for foreign-affiliated and global companies, I have been using the online English conversation service Cambly for about half a year. I will summarize my honest impressions and the \"effective ways to use it\" that I discovered after continuing with it.",
+    "url": "https://note.com/gaishi_swe/n/n428d3675fbd2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Online English Learning Record] Looking Back at Past Cambly ... Cambly is an online English conversation service born in San Francisco, USA, in 2013, and it is a rare service where all registered instructors are native speakers.",
+    "url": "https://note.com/ayaka_english/n/n0e5b7a77b552?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "How I Use Cambly｜しょっさん - note（ノート） Mar 9, 2023 · My lesson frequency on Cambly is 30 minutes a day, three times a week. Although it sometimes shifts due to work, I generally take lessons on Mondays, Wednesdays, and Fridays, and use the other days for lesson preparation, review, and vocabulary study.",
+    "url": "https://note.com/shossann/n/n5c5053ec434f?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "I decided, 'Someday I'll use Cambly for online English conversation.' The story of how I learned to speak with native speakers without studying abroad #EnglishChallenge｜伊佐知美｜Tomomi Isa",
+    "url": "https://note.com/tomomisa/n/n2dcd8c94e7c8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I decided, 'Someday I'll use Cambly for online English conversation.' The story of how I learned to speak with native speakers without studying abroad #EnglishChallenge",
+    "url": "https://note.com/tomomisa/n/n2dcd8c94e7c8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Someday, when I have a little more confidence in my English, I decided I would try",
+    "url": "https://note.com/tomomisa/n/n2dcd8c94e7c8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I started getting serious about learning English three and a half years ago, in April 2019.",
+    "url": "https://note.com/tomomisa/n/n2dcd8c94e7c8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "During my student days, I spent time learning English, including compulsory education, attending private English cram schools, and needing a TOEIC score of 600 to advance in university. However, in reality, I remained in a state where I could occasionally get a good test score but couldn't speak at all.",
+    "url": "https://note.com/tomomisa/n/n2dcd8c94e7c8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I studied again as a working adult and reached a TOEIC score of 800. People often told me, 'If you're at that level, surely you can communicate in English with ease, right?' But honestly, I couldn't speak at all, to the point of embarrassment.",
+    "url": "https://note.com/tomomisa/n/n2dcd8c94e7c8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I understand exams. But when I went abroad and encountered real-life English interactions, I would end up in a state where 'I could barely understand what was being said, but my responses were limited to YES / NO / OK / Sorry / I get it. / Sure, and then I'd just end it with a smile.' I would return from my travels carrying the feeling of, 'I didn't even manage to convey 20% of what I wanted to sa",
+    "url": "https://note.com/tomomisa/n/n2dcd8c94e7c8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "When I went on a trip around the world at 29, and again on a second trip at 31 because I wasn't satisfied, I could speak a little better by then, but my English skills were still mediocre. I wasn't bragging that 'you can enjoy traveling even if you can't speak English well,' but rather, I just let time pass, thinking, 'If I spend a long time abroad, won't I naturally be able to speak English in th",
+    "url": "https://note.com/tomomisa/n/n2dcd8c94e7c8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "My thoughts after using Cambly for half a year for English conversation｜外資エンジニア転職の教科書",
+    "url": "https://note.com/gaishi_swe/n/n428d3675fbd2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "My thoughts after using Cambly for half a year for English conversation",
+    "url": "https://note.com/gaishi_swe/n/n428d3675fbd2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "*This article contains affiliate advertisements (PR). The service I am introducing is one that I actually used and was able to stick with to improve my speaking skills with an eye toward working for a foreign-affiliated company.",
+    "url": "https://note.com/gaishi_swe/n/n428d3675fbd2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "To improve my speaking skills for foreign-affiliated and global companies, I have been using the online English conversation service",
+    "url": "https://note.com/gaishi_swe/n/n428d3675fbd2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "for about half a year. I will summarize my honest impressions and the \"effective ways to use it\" that I discovered after continuing with it. I will write not only about the good points but also about the parts that didn't suit me.",
+    "url": "https://note.com/gaishi_swe/n/n428d3675fbd2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "At first, I started with a short plan of",
+    "url": "https://note.com/gaishi_swe/n/n428d3675fbd2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ". This is because I thought I wouldn't be able to keep it up if I suddenly committed to a long duration.",
+    "url": "https://note.com/gaishi_swe/n/n428d3675fbd2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "About two months later, it happened to be",
+    "url": "https://note.com/gaishi_swe/n/n428d3675fbd2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Online English Learning Record] Looking Back at Past Cambly Lessons｜ayaka",
+    "url": "https://note.com/ayaka_english/n/n0e5b7a77b552?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Online English Learning Record] Looking Back at Past Cambly Lessons",
+    "url": "https://note.com/ayaka_english/n/n0e5b7a77b552?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I previously touched on Cambly in my comparison of 5 schools where you can learn from native instructors, but this time, as a special edition, I will",
+    "url": "https://note.com/ayaka_english/n/n0e5b7a77b552?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "thoroughly delve into Cambly/Cambly Pro alone",
+    "url": "https://note.com/ayaka_english/n/n0e5b7a77b552?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I took the Cambly Pro '30-minute per week course' for one year until May of this year. So, this time, I will share my own lesson records along with official information and reviews 📖",
+    "url": "https://note.com/ayaka_english/n/n0e5b7a77b552?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Since I had taken lessons on the regular course before starting Pro, it seems I ended up taking a total of 4,925 minutes of lessons while repeating the cycle of starting and stopping. (The fact that my English skills haven't improved much despite that is a point for reflection)",
+    "url": "https://note.com/ayaka_english/n/n0e5b7a77b552?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What kind of service is Cambly? Differences from other companies",
+    "url": "https://note.com/ayaka_english/n/n0e5b7a77b552?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Cambly is an online English conversation service born in San Francisco, USA, in 2013, and it is a rare service where",
+    "url": "https://note.com/ayaka_english/n/n0e5b7a77b552?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "How I Use Cambly｜しょっさん",
+    "url": "https://note.com/shossann/n/n5c5053ec434f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Overcoming my fear of English",
+    "url": "https://note.com/shossann/n/n5c5053ec434f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I started online English conversation lessons on Cambly in October 2022 to overcome my fear of English.",
+    "url": "https://note.com/shossann/n/n5c5053ec434f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I have written about why I chose Cambly on note before.",
+    "url": "https://note.com/shossann/n/n5c5053ec434f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "My goal for the last year or two in particular has been to",
+    "url": "https://note.com/shossann/n/n5c5053ec434f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "get rid of my anxiety when speaking with native speakers!",
+    "url": "https://note.com/shossann/n/n5c5053ec434f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Having worked for an international NGO, I used English to work with non-native speakers in places like Southeast Asia, so I felt I could manage the minimum communication required for work. However, when interacting with native speakers, I always felt intimidated by the vast difference in the number of words I used and the many phrases I couldn't understand.",
+    "url": "https://note.com/shossann/n/n5c5053ec434f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "To overcome this weakness, today I will talk about how I use Cambly.",
+    "url": "https://note.com/shossann/n/n5c5053ec434f?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Cambly (@cambly) / X Cambly gives you instant access to native English speakers over video chat, so you can learn and gain confidence!",
+    "url": "https://x.com/cambly",
+    "pass": 3
+   },
+   {
+    "quote": "Cambly India (@CamblyIndia) / X When you choose #Cambly, you choose a learning path that is tailored to your needs by a tutor of your choice. Join Cambly today and #dare to make your dreams come true!",
+    "url": "https://x.com/CamblyIndia",
+    "pass": 3
+   },
+   {
+    "quote": "CAMBLY（キャンブリー）ネイティブ英会話 (@CamblyJapan) / X Feb 8, 2018 · 【オンライン英会話のCambly（キャンブリー）】いつでもどこでも受講可能🌏 1万人以上のネイティブ講師在籍｜初心者〜上級者向けカリキュラム｜グループレッスンあり｜Cambly AIと無料で英会話の練習も👾",
+    "url": "https://x.com/CamblyJapan",
+    "pass": 3
+   },
+   {
+    "quote": "Cambly (@cambly) / X Without #English, Wei’s career and social life were on hold—until she found Cambly. Real conversations fit around real-life cooking, cleaning, and her son’s bedtime, growing her English skills and the confidence to let the real Wei shine.",
+    "url": "https://x.com/cambly",
+    "pass": 3
+   },
+   {
+    "quote": "CAMBLY（キャンブリー）ネイティブ英会話 (@CamblyJapan) / X Feb 8, 2018 · Camblyが英語学習体験を一新しました。 会話の力で英語学習を革新することをミッションに この度12年間の膨大な学習データとAI技術を活用して 一人ひとりにパーソナライズされた英語学習体験を 提供できるよう生まれ変わりました。",
+    "url": "https://x.com/CamblyJapan",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Cambly Inc. - LinkedIn Cambly Inc. | 54,412 followers on LinkedIn. The Cambly app gives English learners instant 1-on-1 access to friendly native speakers over video chat 24/7.",
+    "url": "https://www.linkedin.com/company/cambly",
+    "pass": 3
+   },
+   {
+    "quote": "Cambly Inc.: Jobs | LinkedIn Cambly Inc. | 54,463 followers on LinkedIn. The Cambly app gives English learners instant 1-on-1 access to friendly native speakers over video chat 24/7.",
+    "url": "https://www.linkedin.com/company/cambly/jobs/",
+    "pass": 3
+   },
+   {
+    "quote": "Cambly Inc. | LinkedIn The Cambly app gives English learners instant 1-on-1 access to friendly native speakers over video chat 24/7. Students get an affordable and convenient way to practice their English and gain...",
+    "url": "https://in.linkedin.com/company/cambly",
+    "pass": 3
+   },
+   {
+    "quote": "Cambly Inc. - LinkedIn The Cambly app gives English learners instant 1-on-1 access to friendly native speakers over video chat 24/7. Students get an affordable and convenient way to practice their English and gain...",
+    "url": "https://kr.linkedin.com/company/cambly",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Cambly - FacebookCambly - +1 FREE Month: 11/11 Bonus! Get 50% ... - FacebookESL Companies with good pay(Pros and Cons) | Hello po. Have ...Cambly口袋英文 | San Francisco CA - FacebookCambly Corner - FacebookCambly Brasil - FacebookJosh Cambly (@cambly) • Facebook, Connect with friends Nov 26, 2024 · Without English, Wei’s career and social life were on hold—until she found Cambly. Real conversations h",
+    "url": "https://www.facebook.com/camblyapp/",
+    "pass": 3
+   },
+   {
+    "quote": "Cambly - +1 FREE Month: 11/11 Bonus! Get 50% ... - Facebook 18 hours ago · It's the kind you only get by actually talking. Every new 12-month Cambly plan right now includes a free extra month on top of the biggest discount of the year. 100% native English tutors Lessons 24/7, on your schedule One tutor who gets to know your goals, not a random match every time Special 11/11 bonus. Ends this Friday",
+    "url": "https://www.facebook.com/camblyapp/posts/-1-free-month-1111-bonusget-50-off-cambly-50-off-1-free-month-on-every-12-month-/1555752319924350/",
+    "pass": 3
+   },
+   {
+    "quote": "ESL Companies with good pay(Pros and Cons) | Hello po. Have ... Nov 22, 2024 · Cambly stands out as one of the highest-paying online tutoring platforms, offering rates of $10 per hour for Cambly for adults and $12 per hour for Cambly for kids.",
+    "url": "https://www.facebook.com/groups/673071893193515/posts/1997143030786388/",
+    "pass": 3
+   },
+   {
+    "quote": "Cambly口袋英文 | San Francisco CA - FacebookCambly Corner - FacebookCambly Brasil - FacebookJosh Cambly (@cambly) • Facebook, Connect with friends Jan 15, 2025 · 從設定學習目標開始，Cambly將為你推薦和定制相關課 程、話題和日常鞏固練習，打好基礎，直達夢想！ #Cambly #學英文 #目標達成 #線上母語家教 #英語會話 用數字，捕捉你的每一個改變！ Jul 8, 2014 · Be available (this one is key) Cambly rewards teachers who show up. If you’re always online or open for calls, you increase your ",
+    "url": "https://www.facebook.com/camblychina/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.cambly.com/ja/english",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cambly.com/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000141.000043150.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://organizations.cambly.com/educations_Japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://organizations.cambly.com/jp-corporate-english",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chigai2.fromation.co.jp/archives/30533",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://try.cambly.com/realenglish-jp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://try.cambly.com/jp-about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://organizations.cambly.com/japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/cambly0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/tokbox/case-study/cambly-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mohammedhosni.com/portfolio/cambly",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/61260-13",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://lounge.ai/arr/cambly",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://startupintros.com/orgs/cambly",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/cambly",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tomomisa/n/n2dcd8c94e7c8?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gaishi_swe/n/n428d3675fbd2?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ayaka_english/n/n0e5b7a77b552?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/shossann/n/n5c5053ec434f?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/cambly",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/CamblyIndia",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/CamblyJapan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/cambly",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/cambly/jobs/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/cambly",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://kr.linkedin.com/company/cambly",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/camblyapp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/camblyapp/posts/-1-free-month-1111-bonusget-50-off-cambly-50-off-1-free-month-on-every-12-month-/1555752319924350/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/673071893193515/posts/1997143030786388/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/camblychina/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/cambly",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/CamblyJapan",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Cambly 日本 導入",
+   "results": [
+    "https://www.cambly.com/ja/english",
+    "https://prtimes.jp/main/html/rd/p/000000141.000043150.html",
+    "https://organizations.cambly.com/educations_Japan",
+    "https://organizations.cambly.com/jp-corporate-english",
+    "https://genbajapan.com/companies/cambly",
+    "https://techblitz.com/startup-interview/cambly/",
+    "https://prtimes.jp/main/html/rd/p/000000150.000043150.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Cambly 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://chigai2.fromation.co.jp/archives/30533",
+    "https://chigai-hikaku.com/?p=36920",
+    "https://www.cambly.com/ja/english",
+    "https://www.dell.com/ja-jp/blog/837894/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Cambly Japan",
+   "results": [
+    "https://www.cambly.com/en/subscribe?lang=ja",
+    "https://try.cambly.com/realenglish-jp",
+    "https://try.cambly.com/jp-about",
+    "https://organizations.cambly.com/japan",
+    "https://organizations.cambly.com/educations_Japan",
+    "https://www.cambly.com/ja/english",
+    "https://studentsupport.cambly.com/hc/ja"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Cambly manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/customer/cambly0",
+    "https://www.casestudies.com/company/tokbox/case-study/cambly-customer-case-study",
+    "https://mohammedhosni.com/portfolio/cambly",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.caseyyamaguma.com/work/cambly",
+    "https://confluencr.com/cambly-case-study/",
+    "https://www.acumatica.com/success-stories/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Cambly white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://partner.vw.com/partner",
+    "https://www.seoreseller.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.vizrt.com/partner-program/",
+    "https://upcloud.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Cambly founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/61260-13",
+    "https://lounge.ai/arr/cambly",
+    "https://startupintros.com/orgs/cambly",
+    "https://compworth.com/company/cambly",
+    "https://www.crunchbase.com/organization/cambly",
+    "https://acquirezy.com/organization/cambly",
+    "https://www.zoominfo.com/c/cambly-inc/357218929"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Cambly",
+   "results": [
+    "https://note.com/tomomisa/n/n2dcd8c94e7c8?hl=en",
+    "https://note.com/gaishi_swe/n/n428d3675fbd2?hl=en",
+    "https://note.com/ayaka_english/n/n0e5b7a77b552?hl=en",
+    "https://note.com/shossann/n/n5c5053ec434f?hl=en",
+    "https://note.com/maitakenorth/n/n7e522ac3790d?hl=en",
+    "https://note.com/maitakenorth/n/n7e522ac3790d",
+    "https://tales.note.com/menmennovel2/works"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Cambly",
+   "results": [
+    "https://x.com/cambly",
+    "https://x.com/CamblyIndia",
+    "https://x.com/CamblyJapan",
+    "https://x.com/creative_yua/status/2115855407943930221",
+    "https://x.com/atsueigo/status/2119747679227965868",
+    "https://x.com/camblyt",
+    "https://x.com/app_eigo/status/2099672548141310144"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Cambly",
+   "results": [
+    "https://www.linkedin.com/company/cambly",
+    "https://www.linkedin.com/company/cambly/jobs/",
+    "https://in.linkedin.com/company/cambly",
+    "https://kr.linkedin.com/company/cambly",
+    "https://cn.linkedin.com/in/robertyu2014",
+    "https://cn.linkedin.com/in/michael-shou-98b5171b",
+    "https://ca.linkedin.com/pub/dir/+/Cambly/ca-0-Canada"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Cambly",
+   "results": [
+    "https://www.facebook.com/camblyapp/",
+    "https://www.facebook.com/camblyapp/posts/-1-free-month-1111-bonusget-50-off-cambly-50-off-1-free-month-on-every-12-month-/1555752319924350/",
+    "https://www.facebook.com/groups/673071893193515/posts/1997143030786388/",
+    "https://www.facebook.com/camblychina/",
+    "https://www.facebook.com/groups/camblycorner/",
+    "https://www.facebook.com/camblybrasil/",
+    "https://www.facebook.com/cambly/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Cambly note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://note.com/sadaaki",
+    "https://techblitz.com/startup-interview/cambly/",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Cambly X 投稿",
+   "results": [
+    "https://x.com/cambly",
+    "https://x.com/CamblyJapan",
+    "https://www.cambly.com/",
+    "https://studentsupport.cambly.com/hc/ja",
+    "https://www.cambly.com/ja/english",
+    "https://www.dcard.tw/f/language/p/253722330",
+    "https://note.com/newday_newme/n/n45d94ace2c7c"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部39頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部39頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部39頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部39頁・検索12回）"
+ }
+}

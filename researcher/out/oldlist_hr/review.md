@@ -980,3 +980,127 @@
 
 ## Deskimo（https://www.deskimo.com）
 - 「Japan (+81)」（https://www.deskimo.com/monetize-your-office）
+
+## CustomGPT.ai（https://customgpt.ai）
+- 「90以上の言語に対応しており、日本語でも問題なく利用可能です」（https://aitool-eye.com/customgptai-kanzen-guide/）
+- 「日本語を含む90以上の言語に対応しています」（https://aitool-eye.com/customgptai-kanzen-guide/）
+- 「日本語ドキュメントを学習させれば日本語で正確に回答し、管理画面も多言語化が進んでいます」（https://aitool-eye.com/customgptai-kanzen-guide/）
+
+## Creativemarket（https://creativemarket.com）
+- 「Creative Marketって日本のサービスじゃないの？ 海外のクリエイターズマーケットを徹底解説！」（https://preshine.jp/creativemarket/）
+- 「しかし、中には「これって日本のサービスなのかな？」と疑問に思っている方もいらっしゃるのではないでしょうか」（https://preshine.jp/creativemarket/）
+- 「Creative Marketは日本のサービスではありません」（https://preshine.jp/creativemarket/）
+
+## Copy（https://www.copy.ai）
+- 「Stellantisジャパン、フルサイズピックアップトラック「RAM 1500 Limited」日本導入 2027年にまずは100台を発売予定 - Car Watch」（https://car.watch.impress.co.jp/docs/news/2153280.html）
+- 「Stellantisジャパン、フルサイズピックアップトラック「RAM 1500 Limited」日本導入 2027年にまずは100台を発売予定」（https://car.watch.impress.co.jp/docs/news/2153280.html）
+- 「Stellantisジャパンは11月3日、8ブランド合同イベント「STELLANTIS ALL BRANDS DAY - JAPAN 2026 -」が開催されている富士スピードウェイで、RAM（ラム）のフルサイズピックアップトラック「1500 Limited CREW CAB 5'7" BOX」を日本に導入予定であると発表した」（https://car.watch.impress.co.jp/docs/news/2153280.html）
+- 「$199/month (monthly billing, as listed on the vendor's pricing page)」（https://www.salesforge.ai/blog/white-label-software）
+
+## Conversenow（https://conversenow.ai）
+- 「例えば、ワシントン州シアトル・タコマ地区の最低時給は19.06ドル（約2573円）、カリフォルニア州マウンテンビューの最低時給は18.15ドル（約2450ドル）だが、人間の受注スタッフを雇ったとしたら、コスト的には大きな負担になるだろう（時給の日本円換算金額は1ドル135円で算出）」（https://www.tryeting.jp/column/7868/）
+- 「プログラマー、整備士、物流と転職し、日本橋で寿司職人の世界に入り、立ち食い寿司屋の店長になる」（https://fooddeploy.net/posts/qsr-voice-ai-future-enhancement）
+- 「EC/OMO/マケプレ領域の注目資金調達ニュースをお届けします（日本でも投資したいと思う企業をpickしてます」（https://note.com/okb777/n/n2eedd87f7c51）
+- 「・メルカリも“ネットショップ作成“に参入、子会社ソウゾウが「メルカリShops」を発表」（https://note.com/okb777/n/n2eedd87f7c51）
+
+## Constructor（https://constructor.com）
+- 「Japanese Grand Touring Championship (JGTC)」（https://en.wikipedia.org/wiki/Dome_(constructor)）
+- 「Japanese racing car manufacturer」（https://en.wikipedia.org/wiki/Dome_(constructor)）
+- 「, literally "child's dream", is a Japanese racing car constructor involved mainly in」（https://en.wikipedia.org/wiki/Dome_(constructor)）
+
+## Composio（https://composio.dev/）
+- 「現在は、 日本とマレーシアを拠点に活動中」（https://speakerdeck.com/knishioka/ye-wu-turuwoaiezientototunagu-composio）
+- 「.Aiエージェントを手掛けるカスタマークラウドは、日本初となる企業AI脳「LBAI」やAIがAIを進化させる「AI2AI」の概念を提唱し、 数百社におよぶレガシー産業のDX化・AI導入を成功に導いてきました」（https://note.com/hiroshikinoshita/n/nac4f88e98e04）
+- 「✅ 日本初のLLMO特化サービス「.Ai SEO」でPRを革新」（https://note.com/hiroshikinoshita/n/nac4f88e98e04）
+
+## Commonroom（https://www.commonroom.io）
+- 「.Aiエージェントを手掛けるカスタマークラウドは、日本初となる企業AI脳「LBAI」やAIがAIを進化させる「AI2AI」の概念を提唱し、 数百社におよぶレガシー産業のDX化・AI導入を成功に導いてきました」（https://note.com/hiroshikinoshita/n/n5e1f5ef471d1）
+- 「✅ 日本初のLLMO特化サービス「.Ai SEO」でPRを革新」（https://note.com/hiroshikinoshita/n/n5e1f5ef471d1）
+
+## Commercelayer（https://commercelayer.io）
+- 「日本では過去24時間に 0 件のレポートが記録されており、そのうち 0 件が過去1時間以内のものです」（https://www.entireweb.com/jp/status/commercelayer）
+- 「日本企業と世界のトップティアVCを繋ぐ CVCの現場経験から生まれたファンド・オブ・ファンズとは？ AT PARTNERS」（https://techblitz.com/startup-interview/commerce-layer/）
+- 「世界的ブランドであるGUCCIのeコマースシステムを構築してきた経験から同社を創業したCEOのFilippo Conforti氏に、プロダクトの特徴や、日本を含めたグローバル戦略について聞いた」（https://techblitz.com/startup-interview/commerce-layer/）
+- 「Don't miss out on having your company listed on the world's」（https://www.featuredcustomers.com/vendor/commerce-layer/case-studies）
+
+## Cognism（https://www.cognism.com）
+- 「公式サイトに日本語の表示は見当たりません（2026年9月時点）」（https://aipicks.jp/tool/cognism）
+- 「言語モデルで文章を作るツールで、日本語で指示すれば日本語で返るのが一般的です」（https://aipicks.jp/tool/cognism）
+- 「データは欧州・北米市場が中心で、日本国内に限った営業には向かない」（https://aipicks.jp/tool/cognism）
+- 「201-1,000 employees」（https://www.cognism.com/for-smbs）
+
+## Codecademy（https://www.codecademy.com）
+- 「Codecademyを日本語化する方法！翻訳ツール活用のコツと最新状況 | エーテリア」（https://aetheria.jp/15125/）
+- 「Codecademyを日本語化する方法！翻訳ツール活用のコツと最新状況」（https://aetheria.jp/15125/）
+- 「しかし、日本のユーザーにとって最大の障壁となっているのが」（https://aetheria.jp/15125/）
+
+## Cloudbeds（https://www.cloudbeds.com）
+- 「Kaizen is a Japanese business philosophy of continuous improvement of working practices, and personal efficiency. An infinite journey starts with the first step. Make small, strategic steps and continuous improvements to yourself and your teams.」（https://www.cloudbeds.com/careers/）
+- 「Cloudbedsは日本の宿に向くか｜料金の出し方・機能範囲・日本語の壁で判断する - 宿泊DX | ホテル・旅館向け業務効率化システム比較」（https://yado-dx.com/cloudbeds-review/）
+- 「Cloudbedsは日本の宿に向くか｜料金の出し方・機能範囲・日本語の壁で判断する」（https://yado-dx.com/cloudbeds-review/）
+
+## Clerk（https://www.clerk.io）
+- 「翻訳の独自カスタマイズについては、Clerkの日本語翻訳をベースとしつつ、独自に定義で上書きすることができます」（https://tech.plaid.co.jp/wicle-clerk）
+- 「How to say clerk in Japanese」（https://www.wordhippo.com/what-is/the/japanese-word-for-f38de2358e07b0c3d99164b3494ce57bff75ee70.html）
+- 「More Japanese words for clerk」（https://www.wordhippo.com/what-is/the/japanese-word-for-f38de2358e07b0c3d99164b3494ce57bff75ee70.html）
+
+## Chilipiper（https://www.chilipiper.com）
+- 「以下は、2026年3月24日時点での一般的なプラン構成の目安です（最新の正確な料金や日本語UIのサポート状況については、公式提供元への要確認事項となります）」（https://www.jicoo.com/magazine/blog/what-is-chili-piper）
+- 「また、日本国内ではまだ知名度が低く（調味料のチリペッパーと誤認されることすらあります）、日本語でのサポート体制やドキュメントが十分に整備されているかは、導入前に慎重に検証すべきポイントです」（https://www.jicoo.com/magazine/blog/what-is-chili-piper）
+- 「日本国内でも「スピードtoリード」の重要性が認知され始め、ウェブフォームと連動してターゲット顧客との商談だけを自動獲得する国内SaaS（immedioなど）や、汎用的な日程調整ツール（Jicooなど）の導入が進んでいます」（https://www.jicoo.com/magazine/blog/what-is-chili-piper）
+- 「Don't miss out on having your company listed on the world's」（https://www.featuredcustomers.com/vendor/chili-piper/case-studies）
+
+## Charles（https://www.cra.com）
+- 「Japanese | Charles River Development」（https://www.crd.com/worldwide/apac/japan/）
+- 「日本国内では複数の機関投資家が国内外の多様なアセットクラスの取引に」（https://www.crd.com/worldwide/apac/japan/）
+- 「米国の名門金融大手Charles Schwabが日本市場に再参入するため、MONEX GROUPと包括的な戦略提携を開始へ - Global Press Release Distribution by Times Newswire」（https://www.timesnewswire.com/pressrelease/%E7%B1%B3%E5%9B%BD%E3%81%AE%E5%90%8D%E9%96%80%E9%87%91%E8%9E%8D%E5%A4%A7%E6%89%8Bcharles-schwab%E3%81%8C%E6%97%A5%E6%9C%AC%E5%B8%82%E5%A0%B4%E3%81%AB%E5%86%8D%E5%8F%82%E5%85%A5%E3%81%99%E3%82%8B/）
+
+## Channelengine（https://www.channelengine.com）
+- 「ChannelEngine Integration – WordPress プラグイン | WordPress.org 日本語」（https://ja.wordpress.org/plugins/channelengine-integration/）
+- 「Don't miss out on having your company listed on the world's」（https://www.featuredcustomers.com/vendor/channelengine/case-studies）
+
+## Carv（https://www.carv.ai/）
+- 「Japanese Used Cars and Vehicles for Sale at Carvx.Jp - CAR VX」（https://carvx.jp/）
+- 「CAR VX is Japan’s first and most complete vehicle history report. A CAR VX report gives you details about a vehicle’s past when you buy or sell a used car」（https://carvx.jp/）
+- 「Safeguard your investment by performing a CAR VX Check before buying a used car from Japan. It will protect you from unpleasant surprises.」（https://carvx.jp/）
+- 「Don't miss out on having your company listed on the world's」（https://www.featuredcustomers.com/vendor/carv/case-studies）
+
+## Carbon Re（https://carbonre.com/）
+- 「🇯🇵 Section 2: Japan Edition (Japan AI News)」（https://note.com/yuuji_ai_news/n/ncfeb4d5d1da3?hl=en）
+- 「Today's Outlook for AI/Tech-Related Stocks (Japan)」（https://note.com/yuuji_ai_news/n/ncfeb4d5d1da3?hl=en）
+
+## Cara (Sparkbase)（https://sparkbase.ai）
+- 「グローバルで600社以上に導入されており、日本国内でも小野薬品、大塚製薬をはじめとする大手企業にご利用いただいています」（https://www.itreview.jp/products/cara/profile）
+- 「導入から運用まで、日本人スタッフが丁寧にサポートいたしますので、英語が不安な方や初めての方でも安心してご利用いただけます」（https://www.itreview.jp/products/cara/profile）
+
+## Buywith（https://buywith.com）
+- 「12月3日下午，爱知、茨城、神奈川三地政府代表与中国企业齐聚深圳，分享日本市场机遇与落地实践」（https://letschuhai.com/retail-livestreaming-ecommerce-america-financing-buywith-social-platform）
+- 「36氪出海·活动｜ Japan Jo!nting：赴日布局，不止东京！解锁日本三大产业高地，寻找出海新机会」（https://letschuhai.com/retail-livestreaming-ecommerce-america-financing-buywith-social-platform）
+- 「インフィニティ・ベンチャーズはHeadline Asiaとして、これからも日本を中心としたアジアへの投資戦略に焦点を当ててまいります」（https://note.com/headline_asia/n/n4893b62e6645）
+- 「Don't miss out on having your company listed on the world's」（https://www.featuredcustomers.com/vendor/buywith）
+
+## Boostable（http://boostable.com）
+- 「boostable とは 日本語訳と意味 | Goong.com - 新世代の辞書」（https://goong.com/ja/word/boostable-%E3%81%A8%E3%81%AF-%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%A8%B3%E3%81%A8%E6%84%8F%E5%91%B3/）
+
+## Awari（https://awari.com/）
+- 「シビルシリーズ25周年を記念して日本の伝統色で彩られた限定チェアをメイン会場で披露した柏木工」（https://kagunews.co.jp/page/detail/6893）
+- 「藍染め、建築や陶器の着色、浮世絵の装飾表現といった日本の伝統文化を背景としたシンボリックな展示をプロローグとし、ショップではさらに地域の技術と文化を礎（いしずえ）にした展示を展開した」（https://kagunews.co.jp/page/detail/6893）
+- 「「私たちなりの日本らしいものづくりとして提案している」と企画室企画開発課長の露木健太氏」（https://kagunews.co.jp/page/detail/6893）
+
+## Aspire（https://www.aspire.com/）
+- 「「分野も世代も国境も超えて ―固体化学研究を議論し、島根に根付く日本文化にも触れた5日間」を公開しました【公式note】」（https://www.jst.go.jp/aspire/）
+- 「ヒルトンアメックスカード 2026！アスパイアは日本ではプレミアムカード - The Goal」（https://matsunosuke.jp/hilton-amex-aspire-card/）
+- 「ヒルトンアメックスカード 2026！アスパイアは日本ではプレミアムカード」（https://matsunosuke.jp/hilton-amex-aspire-card/）
+
+## Antwalk（https://www.antwalk.com/）
+- 「atomic bombings of Japan」（https://en.wikipedia.org/wiki/The_Last_Train_from_Hiroshima）
+- 「(explosion-affected person) who was the only person confirmed by the government of Japan to have survived the」（https://en.wikipedia.org/wiki/The_Last_Train_from_Hiroshima）
+- 「(flash-bang) of both attacks. The story of the impacts in Japan on the residents of the two targeted cities and of the response of the Japanese government to the attack is interwoven with details of the Americans who carried out the missions and their reactions to the damage they had wrought.」（https://en.wikipedia.org/wiki/The_Last_Train_from_Hiroshima）
+- 「Huscarlは、企業の自家保険（セルフインシュアランス）および自家保険子会社（キャプティブ）の運用を支援するAIアクチュアリー（保険数理）プラットフォー...」（https://www.firstcvc.jp/global/antwalk.com）
+
+## Acciojob（http://www.acciojob.com）
+- 「– 海外発のプラットフォームの場合、日本語サポートや日本企業への就職支援の充実度を確認する必要がある」（https://peaky.co.jp/acciojob/）
+- 「ただし、料金体系や日本市場での具体的なサービス内容については、事前に十分な確認が必要です」（https://peaky.co.jp/acciojob/）
+
+## 7Learnings（https://7learnings.com）
+- 「この記事はAIツールを使用して日本語に翻訳されました」（https://fashionunited.jp/news/business/tamarisshe-aiwohuo-yong-sitajia-ge-yu-ce-deshou-yi-xiang-shang-7learningsshe-henointabiyu-nrf-retail-big-showyori/20250918529773）

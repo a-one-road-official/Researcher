@@ -1,0 +1,1675 @@
+{
+ "name": "Contentsquare",
+ "aliases": [],
+ "context": "旧営業リスト｜Education / Childcare｜日本進出済",
+ "researched_at": "2026-11-10T18:12:31.171414+00:00",
+ "official_url": "https://contentsquare.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒141-0031東京都品川区西五反田8-1-5　五反田光和ビル7階",
+    "url": "https://directus.co.jp/news_information/3058/",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都千代田区丸の内1-6-5\n丸の内北口ビルディング9F",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000080319.html",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：1993年9月3日",
+    "url": "https://directus.co.jp/news_information/3058/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2022/02",
+    "url": "https://initial.inc/companies/A-MYWGM",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "株主状況",
+    "value": "VC不明, 外国親会社管理下",
+    "url": "https://initial.inc/companies/A-MYWGM",
+    "pass": 3
+   },
+   {
+    "label": "Total raised",
+    "value": "$1.8B",
+    "url": "https://getlatka.com/companies/contentsquare",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "label": "Email",
+    "value": "takashi.mori@contentsquare.com",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000080319.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Contentsquare: AI-first experience platform",
+    "url": "https://contentsquare.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every journey. Human loved. Agent approved.",
+    "url": "https://contentsquare.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Use Contentsquare’s rich behavioral and contextual data to find where human and agent experiences break down—then fix them fast. Proactive AI helps you find opportunities, validate changes, and improve experiences.",
+    "url": "https://contentsquare.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Find out how customers progress from entry to exit. Discover opportunities, find frustration, and build journeys for unique segments.",
+    "url": "https://contentsquare.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Cut through the noise to find the friction and opportunities that matter most. Give teams the insights they need to prioritize and act faster.",
+    "url": "https://contentsquare.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce churn, drive loyalty, and improve experiences with conversation insights. See why people call, how agents perform, and more.",
+    "url": "https://contentsquare.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize journeys and build products based on multi-session, cross-device insights. Let AI highlight what’s working—and what’s not.",
+    "url": "https://contentsquare.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Gather data on everything from clicks to form fills, without manual tagging. Get complete retroactive data while respecting user privacy.",
+    "url": "https://contentsquare.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Empower every team to understand, prioritize, and take action",
+    "url": "https://contentsquare.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Understand how customers navigate applications, payments, claims, and other critical journeys. Find friction, improve conversions, and build experiences that earn trust.",
+    "url": "https://contentsquare.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See how customers move from model pages to configurators, finance tools, and dealer locators. Improve journeys to win more test drives, applications, and bookings.",
+    "url": "https://contentsquare.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn more prospects into qualified leads. Build digital experiences that guide your customers seamlessly through the sales funnel, all the way to conversion.",
+    "url": "https://contentsquare.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Start with the essentials for free, explore the full platform with an enterprise trial, and expand to scale insights across your organization.",
+    "url": "https://contentsquare.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Best suited to people trying experience insights for the first time. Perfect for testing landing pages or product features, catching early issues, and creating experiences that work.",
+    "url": "https://contentsquare.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Find friction, drop-offs, and opportunities to improve",
+    "url": "https://contentsquare.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prioritize opportunities by business impact",
+    "url": "https://contentsquare.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Scale across unlimited projects",
+    "url": "https://contentsquare.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Audi boosts conversions by +7% through data-driven CRO with Contentsquare",
+    "url": "https://contentsquare.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ROI over 3 years from Contentsquare implementation",
+    "url": "https://contentsquare.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Read Nespresso's story",
+    "url": "https://contentsquare.com/",
+    "pass": 1
+   },
+   {
+    "quote": "increase in average monthly Contentsquare users",
+    "url": "https://contentsquare.com/",
+    "pass": 1
+   },
+   {
+    "quote": "New to Contentsquare?",
+    "url": "https://contentsquare.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How to prepare your digital platforms for AI agents",
+    "url": "https://contentsquare.com/",
+    "pass": 1
+   },
+   {
+    "quote": "John Lewis & Partners x Contentsquare",
+    "url": "https://contentsquare.com/customers/john-lewis-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "How John Lewis & Partners is increasing speed to insight with Contentsquare",
+    "url": "https://contentsquare.com/customers/john-lewis-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "increase in Contentsquare users from 50 to 200 in 18 months",
+    "url": "https://contentsquare.com/customers/john-lewis-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "John Lewis & Partners is a British department store chain. Before joining the company as App Experience Design Manager, Antonio Arevalo was already an experienced user of Contentsquare’s",
+    "url": "https://contentsquare.com/customers/john-lewis-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "From day one at John Lewis, Antonio made it his mission to spread platform adoption as widely and deeply as possible, knowing it would lead to many significant UX improvements.",
+    "url": "https://contentsquare.com/customers/john-lewis-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Antonio’s ultimate goal was to foster a data-driven culture within the business, a culture in which teams can make better decisions with confidence, improve John Lewis’ digital experience, and drive better results for the business.",
+    "url": "https://contentsquare.com/customers/john-lewis-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "But he had to start small—and began by onboarding the business’s UX design community.",
+    "url": "https://contentsquare.com/customers/john-lewis-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "The company’s designers had found the tool used prior to Contentsquare difficult to use, which made them the perfect team to start with. Antonio knew if he could get them to start using Contentsquare, benefiting from it and singing its praises, this would help build company-wide confidence in the platform.",
+    "url": "https://contentsquare.com/customers/john-lewis-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Prior to Contentsquare, we were using a different tool at John Lewis and our designers struggled to adopt that tool. The main difference that Contentsquare brought was how easy it was to access insights and get people to the point where they're actually unlocking a lot of insights very, very quickly. That speed to insight comes easily as you upskill.",
+    "url": "https://contentsquare.com/customers/john-lewis-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "To optimize the use of Contentsquare across John Lewis, Antonio created a rigorous adoption and upskilling program.",
+    "url": "https://contentsquare.com/customers/john-lewis-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Finding internal champions and helping them become super users was a key step in the program. Antonio called these champions ‘CS Ninjas’. They’re able to use the platform autonomously to unlock insights and to provide support to other users within the business, helping them leverage insights better.",
+    "url": "https://contentsquare.com/customers/john-lewis-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "He also ran platform boot camps to incentivize learning and build user confidence. To qualify for John Lewis’ boot camp, users had to first pass key Contentsquare certification courses or reach other specific usage milestones.",
+    "url": "https://contentsquare.com/customers/john-lewis-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Having successfully widened and deepened the use of our platform—from 50 to 200 users in just 18 months—John Lewis has made some impressive improvements to its digital journeys. Here are 3 great examples.",
+    "url": "https://contentsquare.com/customers/john-lewis-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Wanting to increase the number of customers who left reviews on the John Lewis app, Antonio used Contentsquare's",
+    "url": "https://contentsquare.com/customers/john-lewis-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Having launched one of John Lewis’ biggest members’ week campaigns, Senior Product Designer Shai Mistry set out to measure the impact of banners placed across the website.",
+    "url": "https://contentsquare.com/customers/john-lewis-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "He used Contentsquare's",
+    "url": "https://contentsquare.com/customers/john-lewis-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "3. Improving the post-purchase experience on app and web",
+    "url": "https://contentsquare.com/customers/john-lewis-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Sophie Skinner, former UX Designer at John Lewis, used our platform to investigate possible ways to improve the post-purchase experience in both the app and on the website.",
+    "url": "https://contentsquare.com/customers/john-lewis-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "As a result of using Contentsquare, John Lewis has significantly increased its speed to insight. The UX design team specifically has used Contentsquare data to create and prove significant customer experience improvements, leading to",
+    "url": "https://contentsquare.com/customers/john-lewis-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "in Contentsquare platform users from 50 to 200 in just 18 months",
+    "url": "https://contentsquare.com/customers/john-lewis-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "By upskilling our designers in Contentsquare, we gave them the confidence to get the most out of the platform, and this has unlocked the opportunity to democratize data across the organization, making it more accessible and actionable for everybody.",
+    "url": "https://contentsquare.com/customers/john-lewis-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Find out how you can deliver experiences that maximize business impact with Contentsquare.",
+    "url": "https://contentsquare.com/customers/john-lewis-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Škoda boosts ecommerce conversions with Contentsquare",
+    "url": "https://contentsquare.com/customers/john-lewis-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "How Mitre 10 uses Contentsquare to turn customer insights into revenue-driving experiences",
+    "url": "https://contentsquare.com/customers/john-lewis-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how Contentsquare can work for your business.",
+    "url": "https://contentsquare.com/customers/john-lewis-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Contentsquare Use Case: Get The Most From Every Customer",
+    "url": "https://contentsquare.com/solutions/use-case/increase-lifetime-value/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve customer lifetime value by boosting retention, driving sustainable growth, and optimizing marketing spend.",
+    "url": "https://contentsquare.com/solutions/use-case/increase-lifetime-value/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve customer satisfaction",
+    "url": "https://contentsquare.com/solutions/use-case/increase-lifetime-value/",
+    "pass": 1
+   },
+   {
+    "quote": "Enhance your site performance by optimizing load times, reducing customer effort, understanding different visitor profiles—and much more.",
+    "url": "https://contentsquare.com/solutions/use-case/increase-lifetime-value/",
+    "pass": 1
+   },
+   {
+    "quote": "Without Contentsquare",
+    "url": "https://contentsquare.com/solutions/use-case/increase-lifetime-value/",
+    "pass": 1
+   },
+   {
+    "quote": "Without detailed user insights, understanding behavior becomes a blind spot. And, with inefficient marketing spend, assessing channel effectiveness is a guessing game that leads to user frustration, unidentified funnel challenges, and mystery drop-offs.",
+    "url": "https://contentsquare.com/solutions/use-case/increase-lifetime-value/",
+    "pass": 1
+   },
+   {
+    "quote": "Our AI-native experience platform instantly decodes visitor intent and conversion signals to maximize lifetime value. Empowering you to eliminate drop-offs, optimize journey progression, resolve technical friction, and protect revenue with total confidence.",
+    "url": "https://contentsquare.com/solutions/use-case/increase-lifetime-value/",
+    "pass": 1
+   },
+   {
+    "quote": "How the Cotton On Group uses Contentsquare to enhance CX and accelerate customer-centric initiatives",
+    "url": "https://contentsquare.com/solutions/use-case/increase-lifetime-value/",
+    "pass": 1
+   },
+   {
+    "quote": "Grow revenue with experiences that improve brand sentiment and increase lifetime value",
+    "url": "https://contentsquare.com/solutions/use-case/increase-lifetime-value/",
+    "pass": 1
+   },
+   {
+    "quote": "First impressions matter, but the real magic happens when you perfect the parts that didn’t go to plan. Unravel complex customer journeys and be prepared for every possible scenario.",
+    "url": "https://contentsquare.com/solutions/use-case/increase-lifetime-value/",
+    "pass": 1
+   },
+   {
+    "quote": "Create visitor profiles",
+    "url": "https://contentsquare.com/solutions/use-case/increase-lifetime-value/",
+    "pass": 1
+   },
+   {
+    "quote": "Understand how many sessions it takes for visitors to complete their goals—whether that’s 1 or 100—and create tailored visitor profiles.",
+    "url": "https://contentsquare.com/solutions/use-case/increase-lifetime-value/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted and used by 1.3+ million websites and apps",
+    "url": "https://contentsquare.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically export behavioral data straight to your warehouse. Connect experience, error, and merchandising workflows to fuel smarter decisions.",
+    "url": "https://contentsquare.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted and used by 1.3+ million websites and apps",
+    "url": "https://contentsquare.com/solutions/use-case/learn-from-conversations/",
+    "pass": 1
+   },
+   {
+    "quote": "With AWS we give customers behavioral and product insights at scale and help connect that data with existing tools and workflows within AWS’s data warehouses.",
+    "url": "https://contentsquare.com/integrations-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Easily export Contentsquare data to your warehouse with our fully managed extract, transfer, and load (ETL) service. So your data and analytics teams can turn insights into action—whether it's optimizing journeys, predicting churn, or personalizing experiences. All without any manual data wrangling.",
+    "url": "https://contentsquare.com/integrations-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Essential components in an analytics tech stack include a data warehouse for storage, ETL (Extract, Transform, Load) tools for data processing, and analytics and visualization tools for generating actionable insights. The integration of these components creates a seamless flow of data, facilitating effective decision-making within the organization.",
+    "url": "https://contentsquare.com/integrations-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Contentsquare is the all-in-one experience intelligence platform designed to be easily used by anyone that cares about digital journeys. With our flexible and scalable platform, you quickly get a deep understanding of your customers’ whole online journey.",
+    "url": "https://contentsquare.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Plantas 5-8, Eixample,",
+    "url": "https://contentsquare.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted and used by 1.3+ million websites and apps",
+    "url": "https://contentsquare.com/platform/capabilities/agent-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 3,000 enterprise and mid-market brands and 1.3+ million websites",
+    "url": "https://contentsquare.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "In the race to deliver seamless digital experiences, companies are searching for tools that not only measure customer behavior but also translate those insights into business growth. Few know this challenge better than Contentsquare, the Paris-based experience intelligence firm whose platform is used by 2,500 Enterprise brands and over a million websites worldwide to optimize user interactions.",
+    "url": "https://www.microsoft.com/en/customers/story/25531-contentsquare-azure-synapse-analytics",
+    "pass": 3
+   },
+   {
+    "quote": ": with over one million customers worldwide across all verticals: retail, luxury, entertainment, telco, travel, automotive, B2B and finance. Contentsquare now serves 1,000 enterprise customers, including 30% of the Global Fortune 100. Contentsquare customers include BMW, Breitling, Clarins, Decathlon, Giorgio Armani, Samsung, Sephora and Virgin Atlantic",
+    "url": "https://sixthstreet.com/newsroom/contentsquare-closes-600m-growth-investment-round-led-by-sixth-street-doubles-valuation-to-56b-and-brings-total-funding-to-14-billion",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Digital experience, your next revenue driver",
+    "url": "https://contentsquare.com/",
+    "pass": 1
+   },
+   {
+    "quote": "increase in revenue for this customer journey",
+    "url": "https://contentsquare.com/",
+    "pass": 1
+   },
+   {
+    "quote": "capability to measure revenue contribution of users who interacted with campaign banners.",
+    "url": "https://contentsquare.com/customers/john-lewis-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "The analysis showed campaign banners drove up to 4x higher engagement (between 12.9% and 27.3%) than they had targeted (7%). What’s more, customers who engaged with the campaign also had significantly higher average order value (AOV), revealing a potential revenue loss if the campaign banners weren’t shown to users.",
+    "url": "https://contentsquare.com/customers/john-lewis-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "The good segment (on the left) and bad segment (on the right) with the impact on potential revenue loss identified via Impact Quantification.",
+    "url": "https://contentsquare.com/customers/john-lewis-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "How Moss Bros. Group used behavioral insights to boost revenue by +13%",
+    "url": "https://contentsquare.com/customers/john-lewis-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "How Mitre 10 uses Contentsquare to turn customer insights into revenue-driving experiences",
+    "url": "https://contentsquare.com/customers/john-lewis-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Our AI-native experience platform instantly decodes visitor intent and conversion signals to maximize lifetime value. Empowering you to eliminate drop-offs, optimize journey progression, resolve technical friction, and protect revenue with total confidence.",
+    "url": "https://contentsquare.com/solutions/use-case/increase-lifetime-value/",
+    "pass": 1
+   },
+   {
+    "quote": "Grow revenue with experiences that improve brand sentiment and increase lifetime value",
+    "url": "https://contentsquare.com/solutions/use-case/increase-lifetime-value/",
+    "pass": 1
+   },
+   {
+    "quote": "Bookmark acquisition channels",
+    "url": "https://contentsquare.com/solutions/use-case/increase-lifetime-value/",
+    "pass": 1
+   },
+   {
+    "quote": "See your best performing channels for customer acquisition, then use this data to shape the strategy for each.",
+    "url": "https://contentsquare.com/solutions/use-case/increase-lifetime-value/",
+    "pass": 1
+   },
+   {
+    "quote": "Increase A/B testing win rates and quantify impact on conversion rates and revenue.",
+    "url": "https://contentsquare.com/solutions/use-case/increase-lifetime-value/",
+    "pass": 1
+   },
+   {
+    "quote": "Contentsquare lets you build segments based on behavior, journeys, and revenue. Compare how different groups engage and convert, then tailor experiences to the customers who bring the most long-term value.",
+    "url": "https://contentsquare.com/solutions/use-case/increase-lifetime-value/",
+    "pass": 1
+   },
+   {
+    "quote": "Uncover why users get stuck, reach out, or abandon their journeys. Analyze calls, live chats, AI agent interactions and email exchanges alongside digital session replay to catch experience gaps, optimize AI bot performance, and protect revenue.",
+    "url": "https://contentsquare.com/solutions/use-case/learn-from-conversations/",
+    "pass": 1
+   },
+   {
+    "quote": "Ask AI natural language questions to understand what’s driving conversion drops and revenue friction from what customers are actually saying in chat, voice, and email.",
+    "url": "https://contentsquare.com/solutions/use-case/learn-from-conversations/",
+    "pass": 1
+   },
+   {
+    "quote": "Use Sense Analyst to query digital behavior and conversation transcripts at the same time. Get instant, AI-generated answers explaining why conversion dropped, the revenue impact, and how to fix it.",
+    "url": "https://contentsquare.com/solutions/use-case/learn-from-conversations/",
+    "pass": 1
+   },
+   {
+    "quote": "Spot missed revenue opportunities",
+    "url": "https://contentsquare.com/partner-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "How the collaboration between Contentsquare and Dynamic Yield enhances customer experience and boosts revenue",
+    "url": "https://contentsquare.com/partner-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "Uncover the impact of user-generated content (UGC) on engagement, conversions, and revenue with the Contentsquare Bazaarvoice partnership.",
+    "url": "https://contentsquare.com/partner-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "How Hotjar by Contentsquare helped Stream Creative generate over $120,000 in revenue",
+    "url": "https://contentsquare.com/partner-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "Determined to bring this vision to a global scale, Jonathan relocated to New York, where he expanded Contentsquare into the global company it is today. Contentsquare is established as a leader in the experience analytics space— having secured $1.4 billion in funding and made eight significant acquisitions.",
+    "url": "https://contentsquare.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Acquisition of Clicktale and Pricing Assistant",
+    "url": "https://contentsquare.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Acquisition of AdaptMyWeb and Dareboost",
+    "url": "https://contentsquare.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Acquisition of Hotjar and Upstride",
+    "url": "https://contentsquare.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Acquisition of Heap and PingPong",
+    "url": "https://contentsquare.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Revenue Officer",
+    "url": "https://contentsquare.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "From visibility to acquisition, get an accurate picture of how AI tools shape customer experiences.",
+    "url": "https://contentsquare.com/platform/capabilities/agent-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Channel analysis shows you which tools and agents are moving the needle. See conversion rates, bounce rates, and revenue attribution for each channel, without creating custom reports.",
+    "url": "https://contentsquare.com/platform/capabilities/agent-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Use WebMCP tracking to discover how AI agents interact with your site. See what they're trying to do, where they fail, and how their interactions impact revenue.",
+    "url": "https://contentsquare.com/platform/capabilities/agent-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Solve your biggest AI acquisition challenges",
+    "url": "https://contentsquare.com/platform/capabilities/agent-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize for AI-driven customer acquisition",
+    "url": "https://contentsquare.com/platform/capabilities/agent-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "see which AI tools and agents actually move the needle. Get conversion rates, bounce rates, and revenue attribution for each AI channel without building custom reports, instead of lumping AI-driven visits into “direct” or “referral.”",
+    "url": "https://contentsquare.com/platform/capabilities/agent-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "How can Agent Intelligence help me grow AI-driven traffic and revenue?",
+    "url": "https://contentsquare.com/platform/capabilities/agent-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Use Channels to figure out which AI channels deserve your investment and justify your decisions with real conversion and revenue data.",
+    "url": "https://contentsquare.com/platform/capabilities/agent-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "With agent protocol tracking, you can pinpoint where AI agents encounter friction and fix drop-offs before customers (and revenue) head to a competitor.",
+    "url": "https://contentsquare.com/platform/capabilities/agent-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect what your customers are saying to what they're doing—helping you spot friction and quantify the revenue impact of customer issues — without ever leaving your Product Analytics UI.",
+    "url": "https://contentsquare.com/platform/conversation-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Use customer conversations to uncover what’s driving contact without waiting for survey feedback. See how shifts in sentiment, quality issues, and frustration levels impact revenue.",
+    "url": "https://contentsquare.com/platform/conversation-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "See contact drivers directly inside Contentsquare’s Product Analytics. Connect what customers say to what they do, and quantify the revenue impact of specific issues.",
+    "url": "https://contentsquare.com/platform/conversation-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Find where you can increase conversions and revenue with AI commerce agents",
+    "url": "https://contentsquare.com/platform/conversation-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Stop losing revenue across user journeys. Get total visibility into your funnels to pinpoint drop-offs, eliminate friction, and improve conversion at scale.",
+    "url": "https://contentsquare.com/solutions/use-case/improve-conversion/",
+    "pass": 1
+   },
+   {
+    "quote": "Pinpoint bottlenecks in your digital experience to convert passers-by into loyal customers. You’ll boost conversion, as well as loyalty and revenue.",
+    "url": "https://contentsquare.com/solutions/use-case/improve-conversion/",
+    "pass": 1
+   },
+   {
+    "quote": "Our AI-native Experience Platform instantly captures real-time intent and revenue signals to maximize customer lifetime value. It enables you to pre-empt drop-offs, streamline journey flow, resolve digital friction autonomously, and protect revenue with complete certainty",
+    "url": "https://contentsquare.com/solutions/use-case/improve-conversion/",
+    "pass": 1
+   },
+   {
+    "quote": "Maximize revenue from each customer relationship by increasing customer lifetime value.",
+    "url": "https://contentsquare.com/solutions/use-case/improve-conversion/",
+    "pass": 1
+   },
+   {
+    "quote": "Increase A/B testing win rates and quantify impact on conversion rates and revenue.",
+    "url": "https://contentsquare.com/solutions/use-case/improve-conversion/",
+    "pass": 1
+   },
+   {
+    "quote": ", automates this diagnosis by summarizing session replays, synthesizing user feedback, and surfacing behavioral patterns, empowering teams to validate fixes and optimize A/B tests based on clear, data-driven revenue opportunities rather than guesswork.",
+    "url": "https://contentsquare.com/solutions/use-case/improve-conversion/",
+    "pass": 1
+   },
+   {
+    "quote": "Common causes include confusing navigation, slow pages, technical errors, unclear content, and difficult forms or checkouts. Contentsquare helps you pinpoint which of these affect your site, how many users they impact, and how much revenue they cost.",
+    "url": "https://contentsquare.com/solutions/use-case/improve-conversion/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve brand sentiment with frictionless and continuously enhanced user journeys. The result? Better loyalty, higher conversions, and more revenue.",
+    "url": "https://contentsquare.com/solutions/use-case/optimize-journeys/",
+    "pass": 1
+   },
+   {
+    "quote": "Understand how many people are experiencing the same problem and how that affects conversion rates or revenue.",
+    "url": "https://contentsquare.com/solutions/use-case/optimize-journeys/",
+    "pass": 1
+   },
+   {
+    "quote": "Increase A/B testing win rates and quantify impact on conversion rates and revenue.",
+    "url": "https://contentsquare.com/solutions/use-case/optimize-journeys/",
+    "pass": 1
+   },
+   {
+    "quote": "Maximize revenue from each customer relationship by increasing customer lifetime value.",
+    "url": "https://contentsquare.com/solutions/use-case/optimize-journeys/",
+    "pass": 1
+   },
+   {
+    "quote": "Contentsquare highlights where users leave and how much revenue those exits cost.",
+    "url": "https://contentsquare.com/solutions/use-case/optimize-journeys/",
+    "pass": 1
+   },
+   {
+    "quote": "Understand how winning variants could impact conversions and revenue so you can prioritize high-impact changes.",
+    "url": "https://contentsquare.com/solutions/use-case/ab-testing/",
+    "pass": 1
+   },
+   {
+    "quote": "Maximize revenue from each customer relationship by increasing customer lifetime value.",
+    "url": "https://contentsquare.com/solutions/use-case/ab-testing/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve brand sentiment with frictionless and continuously enhanced user Journeys. The result? More conversions, loyalty, and revenue.",
+    "url": "https://contentsquare.com/solutions/use-case/find-and-fix-errors/",
+    "pass": 1
+   },
+   {
+    "quote": "See the issues and frustrations you wouldn’t usually be aware of. Then prioritize improvements that improve brand sentiment and maximize business impact—engagement, revenue, lifetime value… the list goes on.",
+    "url": "https://contentsquare.com/solutions/use-case/find-and-fix-errors/",
+    "pass": 1
+   },
+   {
+    "quote": "Maximize revenue from each customer relationship by increasing customer lifetime value.",
+    "url": "https://contentsquare.com/solutions/use-case/find-and-fix-errors/",
+    "pass": 1
+   },
+   {
+    "quote": "Increase A/B testing win rates and quantify impact on conversion rates and revenue.",
+    "url": "https://contentsquare.com/solutions/use-case/find-and-fix-errors/",
+    "pass": 1
+   },
+   {
+    "quote": "Contentsquare's Impact Quantification estimates the conversions and revenue lost because of each error. Frustration scoring highlights the sessions where users struggled most. Together, they help you focus on the fixes with the biggest return.",
+    "url": "https://contentsquare.com/solutions/use-case/find-and-fix-errors/",
+    "pass": 1
+   },
+   {
+    "quote": "Maximize revenue from each customer relationship by increasing customer lifetime value.",
+    "url": "https://contentsquare.com/solutions/use-case/feedback/",
+    "pass": 1
+   },
+   {
+    "quote": "Increase A/B testing win rates and quantify impact on conversion rates and revenue.",
+    "url": "https://contentsquare.com/solutions/use-case/feedback/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "more traffic to the John Lewis app from email",
+    "url": "https://contentsquare.com/customers/john-lewis-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "1. Generating 4x more traffic to the John Lewis app via email",
+    "url": "https://contentsquare.com/customers/john-lewis-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Antonio found that customers asked to write reviews via email had the highest completion rate of all channels. However, emails took customers to the web browser, not to the app.",
+    "url": "https://contentsquare.com/customers/john-lewis-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "The app experience team decided to link customers to the app via emails, hypothesizing this small change would drive more traffic and increase review conversions in the app.",
+    "url": "https://contentsquare.com/customers/john-lewis-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "of all customer app reviews are now generated via the email channel.",
+    "url": "https://contentsquare.com/customers/john-lewis-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "John Lewis and Partners customer review journey from email to app",
+    "url": "https://contentsquare.com/customers/john-lewis-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "traffic to the John Lewis app from email",
+    "url": "https://contentsquare.com/customers/john-lewis-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "of app reviews now generated via the email channel",
+    "url": "https://contentsquare.com/customers/john-lewis-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Uncover why users get stuck, reach out, or abandon their journeys. Analyze calls, live chats, AI agent interactions and email exchanges alongside digital session replay to catch experience gaps, optimize AI bot performance, and protect revenue.",
+    "url": "https://contentsquare.com/solutions/use-case/learn-from-conversations/",
+    "pass": 1
+   },
+   {
+    "quote": "Ask AI natural language questions to understand what’s driving conversion drops and revenue friction from what customers are actually saying in chat, voice, and email.",
+    "url": "https://contentsquare.com/solutions/use-case/learn-from-conversations/",
+    "pass": 1
+   },
+   {
+    "quote": "It analyzes voice, live chat, messaging, AI agent, and email conversations to uncover contact drivers, sentiment, root cause, and performance across both your human and AI agent teams.",
+    "url": "https://contentsquare.com/solutions/use-case/learn-from-conversations/",
+    "pass": 1
+   },
+   {
+    "quote": "Conversation Intelligence analyzes voice, chat, and email conversations to uncover drivers, sentiment, root cause, and performance across human and AI agents.",
+    "url": "https://contentsquare.com/platform/conversation-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Email：takashi.mori@contentsquare.com",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000080319.html",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Deliver more human experience to market more quickly with leading strategy, design, implementation and digital agencies. Contentsquare has worked hard to establish relationships with the leading solution partners. Tap into our extensive network and benefit from established, trusted relationships and qualified expertise.",
+    "url": "https://contentsquare.com/integrations-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "How one of the world’s leading CRO agencies uses Hotjar by Contentsquare to grow their clients’ businesses",
+    "url": "https://contentsquare.com/partner-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "AI Agent Intelligence: Discover How AI Sees Your Brand",
+    "url": "https://contentsquare.com/platform/capabilities/agent-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "See how AI sees your brand.",
+    "url": "https://contentsquare.com/platform/capabilities/agent-intelligence/",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Tokyo 100-0005",
+    "url": "https://contentsquare.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Shiseido Japan's journey to a data-driven digital experience",
+    "url": "https://contentsquare.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "【リリース】株式会社ディレクタス、Contentsquareとのパートナー契約を締結 | ニュース | 株式会社ディレクタス",
+    "url": "https://directus.co.jp/news_information/3058/",
+    "pass": 3
+   },
+   {
+    "quote": "【リリース】株式会社ディレクタス、Contentsquareとのパートナー契約を締結",
+    "url": "https://directus.co.jp/news_information/3058/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ディレクタス（本社：東京都品川区、代表取締役：岡本泰治、以下「ディレクタス」）は、デジタルアナリティクスのグローバルリーダーである仏Contentsquare社（本社：パリ、読み：コンテンツスクエア）とリセールパートナー契約を締結しました",
+    "url": "https://directus.co.jp/news_information/3058/",
+    "pass": 3
+   },
+   {
+    "quote": "当社はContentsquareが従来から提供してきたデジタル顧客体験アナリティクス（Digital Experience Analytics：DXA）に加え、同社が2023年に買収した米Heap社のプロダクトアナリティクスについて、日本国内における導入・運用支援を担うソリューションパートナーとして今後、企業のデジタル活用を支援する体制をさらに強化します",
+    "url": "https://directus.co.jp/news_information/3058/",
+    "pass": 3
+   },
+   {
+    "quote": "世界中で2000社以上のブランドに導入されており、日本国内でも大手企業を中心に50社以上が活用しています",
+    "url": "https://directus.co.jp/news_information/3058/",
+    "pass": 3
+   },
+   {
+    "quote": "■株式会社ディレクタス イノベーションラボ 部長 進藤浩二 コメント",
+    "url": "https://directus.co.jp/news_information/3058/",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル顧客体験やプロダクトアナリティクスの重要性がますます高まる中、同社が提供する最先端のプラットフォームを通じて、日本国内の企業のデジタル活用をさらに推進できることを期待しています",
+    "url": "https://directus.co.jp/news_information/3058/",
+    "pass": 3
+   },
+   {
+    "quote": "■Contentsquare Japan合同会社 カントリーマネージャー 伊奈憲一郎 コメント",
+    "url": "https://directus.co.jp/news_information/3058/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ディレクタスは創業以来約30年、一貫してクライアントのデジタルCRM領域を支援しています",
+    "url": "https://directus.co.jp/news_information/3058/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ディレクタス Directus Inc.",
+    "url": "https://directus.co.jp/news_information/3058/",
+    "pass": 3
+   },
+   {
+    "quote": "〒141-0031東京都品川区西五反田8-1-5 五反田光和ビル7階",
+    "url": "https://directus.co.jp/news_information/3058/",
+    "pass": 3
+   },
+   {
+    "quote": "Contentsquare Japan合同会社｜スピーダ スタートアップ情報リサーチ",
+    "url": "https://initial.inc/companies/A-MYWGM",
+    "pass": 3
+   },
+   {
+    "quote": "Contentsquare Japan合同会社",
+    "url": "https://initial.inc/companies/A-MYWGM",
+    "pass": 3
+   },
+   {
+    "quote": "Contentsquare Japan LLC.",
+    "url": "https://initial.inc/companies/A-MYWGM",
+    "pass": 3
+   },
+   {
+    "quote": "東京都千代田区丸の内1-6-5 丸の内北口ビルディング 9階 WeWork内",
+    "url": "https://initial.inc/companies/A-MYWGM",
+    "pass": 3
+   },
+   {
+    "quote": "顧客体験プラットフォームを提供するContentsquare、日本法人設立を発表日本のカントリーマネージャーに伊奈 憲一郎が就任 | Contentsquare Japan合同会社のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000080319.html",
+    "pass": 3
+   },
+   {
+    "quote": "顧客体験プラットフォームを提供するContentsquare、日本法人設立を発表日本のカントリーマネージャーに伊奈 憲一郎が就任",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000080319.html",
+    "pass": 3
+   },
+   {
+    "quote": "～より多くの日本企業・ブランドのオンライン上での顧客体験改善をご支援いたします～",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000080319.html",
+    "pass": 3
+   },
+   {
+    "quote": "Contentsquare Japan合同会社",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000080319.html",
+    "pass": 3
+   },
+   {
+    "quote": "オンライン顧客体験分析のリーディングカンパニーであるContentsquare（読み：コンテンツスクエア、本社：フランス・パリ）は、2022年4月1日に日本法人を設立し、同日、伊奈 憲一郎が日本のカントリーマネージャーに就任いたしましたことを発表いたします",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000080319.html",
+    "pass": 3
+   },
+   {
+    "quote": "この経験を活かし、今後、伊奈を中心に、日本企業・ブランドに向けてContentsquareの取り組み・顧客体験分析プラットフォームの提供を推進してまいります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000080319.html",
+    "pass": 3
+   },
+   {
+    "quote": "膨大なオンライン上での行動データの分析、顧客体験の改善に向けたAIインサイトの提供により日本の企業・ブランドがオンライン上で、より人間味のある顧客体験を提供できるようになり、顧客とつながっていく支援ができることを楽しみにしています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000080319.html",
+    "pass": 3
+   },
+   {
+    "quote": "またそのために日本におけるエコシステムパートナーも拡大しデジタルマーケティング市場の発展に貢献していきたいと考えています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000080319.html",
+    "pass": 3
+   },
+   {
+    "quote": "彼の就任は日本地域に対する戦略的投資であり、Contentsquare全体の成長戦略の一部です",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000080319.html",
+    "pass": 3
+   },
+   {
+    "quote": "伊奈は、我々の展望、創造性、独自性、熱意など当社の価値を体現しており、重要な市場である日本での認知向上とビジネス拡大を期待しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000080319.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本でも楽天グループ、オイシックス、ソニー、JCB、リクルートといった企業など30社以上の顧客にて、すでに活用されています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000080319.html",
+    "pass": 3
+   },
+   {
+    "quote": "Contentsquare Japan 合同会社",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000080319.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都千代田区丸の内1-6-5",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000080319.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Contentsquare ：AIファーストのエクスペリエンス ... — Contentsquare ：AIファーストのエクスペリエンス ... Contentsquare https://contentsquare.com > ja-ja",
+    "url": "https://contentsquare.com/ja-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "Contentsquare Japan（コンテンツスクエア・ジャパン ... - X — Contentsquare Japan（コンテンツスクエア・ジャパン ... - X X https://x.com > contentsquarejp",
+    "url": "https://x.com/contentsquarejp",
+    "pass": 3
+   },
+   {
+    "quote": "Contentsquare とのパートナー契約を締結 - ディレクタス — Contentsquare とのパートナー契約を締結 - ディレクタス 株式会社ディレクタス https://directus.co.jp > news_information",
+    "url": "https://directus.co.jp/news_information/3058/",
+    "pass": 3
+   },
+   {
+    "quote": "Contentsquare Japan合同会社 — Contentsquare Japan合同会社 スピーダ スタートアップ情報リサーチ https://initial.inc > companies > A-MYWGM",
+    "url": "https://initial.inc/companies/A-MYWGM",
+    "pass": 3
+   },
+   {
+    "quote": "Contentsquare （コンテンツスクエア）｜顧客体験分析ツール — Contentsquare （コンテンツスクエア）｜顧客体験分析ツール グロースマーケティングメディア https://growth-marketing.jp > contentsquare",
+    "url": "https://growth-marketing.jp/contentsquare/",
+    "pass": 3
+   },
+   {
+    "quote": "Contentsquare の詳細をご覧ください — Contentsquare の詳細をご覧ください Contentsquare https://contentsquare.com > ja-ja > company",
+    "url": "https://contentsquare.com/ja-ja/company/",
+    "pass": 3
+   },
+   {
+    "quote": "Contentsquare の「会社紹介」 OpenWork — Contentsquare の「会社紹介」 OpenWork OpenWork https://www.openwork.jp > ... > Contentsquare > 採用情報",
+    "url": "https://www.openwork.jp/a0C2x00000WEPt3/pr/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客体験プラットフォームを提供する Contentsquare 、 日本 ... — 顧客体験プラットフォームを提供する Contentsquare 、 日本 ... PR TIMES https://prtimes.jp > 経営情報",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000080319.html",
+    "pass": 3
+   },
+   {
+    "quote": "オンライン顧客体験分析企業 Contentsquare SASが東京に 日本 ... — オンライン顧客体験分析企業 Contentsquare SASが東京に 日本 ... ジェトロ（日本貿易振興機構） https://www.jetro.go.jp > 対日投資 > お知らせ > 2022年",
+    "url": "https://www.jetro.go.jp/invest/newsroom/2022/4e55483f3061da15.html",
+    "pass": 3
+   },
+   {
+    "quote": "Contentsquare : AI-first experience platform — Contentsquare : AI-first experience platform Contentsquare https://contentsquare.com",
+    "url": "https://contentsquare.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Contentsquare Japan （コンテンツスクエア・ ジャパン ... - X — Contentsquare Japan （コンテンツスクエア・ ジャパン ... - X X https://x.com > contentsquarejp",
+    "url": "https://x.com/contentsquarejp",
+    "pass": 3
+   },
+   {
+    "quote": "Contentsquare Japan 合同会社 — Contentsquare Japan 合同会社 スピーダ スタートアップ情報リサーチ https://initial.inc > companies > A-MYWGM",
+    "url": "https://initial.inc/companies/A-MYWGM",
+    "pass": 3
+   },
+   {
+    "quote": "Contentsquare Japan 合同会社のプレスリリース｜PR TIMES — Contentsquare Japan 合同会社のプレスリリース｜PR TIMES PR TIMES https://prtimes.jp > main > html > searchrlp > company_id",
+    "url": "https://prtimes.jp/main/html/searchrlp/company_id/80319",
+    "pass": 3
+   },
+   {
+    "quote": "NPS® Case Study : How To Double Revenue with Net ... — NPS® Case Study : How To Double Revenue with Net ... Contentsquare https://contentsquare.com > case-study",
+    "url": "https://contentsquare.com/guides/net-promoter-score/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Contentsquare scales customer experience with Microsoft ... — Contentsquare scales customer experience with Microsoft ... Microsoft https://www.microsoft.com > story",
+    "url": "https://www.microsoft.com/en/customers/story/25531-contentsquare-azure-synapse-analytics",
+    "pass": 3
+   },
+   {
+    "quote": "Contentsquare by Together. A case study — Contentsquare by Together. A case study together.agency https://together.agency > Work",
+    "url": "https://together.agency/work/contentsquare/",
+    "pass": 3
+   },
+   {
+    "quote": "Contentsquare scales customer experience with Microsoft ... — Contentsquare scales customer experience with Microsoft ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=l126PR8OENU",
+    "pass": 3
+   },
+   {
+    "quote": "Contentsquare Scales AWS Marketplace Usage to Increase ... — Contentsquare Scales AWS Marketplace Usage to Increase ... Amazon Web Services (AWS) https://aws.amazon.com > success > c...",
+    "url": "https://aws.amazon.com/partners/success/contentsquare/",
+    "pass": 3
+   },
+   {
+    "quote": "Contentsquare's Partner Program — Reseller Partners — Contentsquare's Partner Program — Reseller Partners Contentsquare https://contentsquare.com > reseller-p...",
+    "url": "https://contentsquare.com/partner-program/reseller-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Contentsquare Revenue 2024: $370.8M Est., $1.8B Raised — Contentsquare Revenue 2024: $370.8M Est., $1.8B Raised GetLatka https://getlatka.com > contentsquare",
+    "url": "https://getlatka.com/companies/contentsquare",
+    "pass": 3
+   },
+   {
+    "quote": "Contentsquare Closes $600M Growth Investment Round Led ... — Contentsquare Closes $600M Growth Investment Round Led ... Sixth Street https://sixthstreet.com > newsroom",
+    "url": "https://sixthstreet.com/newsroom/contentsquare-closes-600m-growth-investment-round-led-by-sixth-street-doubles-valuation-to-56b-and-brings-total-funding-to-14-billion",
+    "pass": 3
+   },
+   {
+    "quote": "Contentsquare's Competitors, Revenue , Number of ... - Owler — Contentsquare's Competitors, Revenue , Number of ... - Owler Owler https://www.owler.com > contentsquare",
+    "url": "https://www.owler.com/company/contentsquare",
+    "pass": 3
+   },
+   {
+    "quote": "Learn More About Us - Contentsquare — Learn More About Us - Contentsquare Contentsquare https://contentsquare.com > company",
+    "url": "https://contentsquare.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "Contentsquare - 2026 Company Profile - Tracxn — Contentsquare - 2026 Company Profile - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/contentsquare/__-hENXrGDp2qXDRE_2tUeKTIbIv2MIV6e3ij8cetPiHg",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Contentsquare - X Contentsquare - X X https://x.com > Contentsquare",
+    "url": "https://x.com/Contentsquare",
+    "pass": 3
+   },
+   {
+    "quote": "Contentsquare - X Contentsquare - X X https://x.com > @Contentsquare",
+    "url": "https://x.com/Contentsquare/status/1694379110032617587",
+    "pass": 3
+   },
+   {
+    "quote": "Contentsquare - X Contentsquare - X X https://x.com > @Contentsquare",
+    "url": "https://x.com/Contentsquare/status/1695541663601422742",
+    "pass": 3
+   },
+   {
+    "quote": "Contentsquare - X Contentsquare - X X https://x.com > @Contentsquare",
+    "url": "https://x.com/Contentsquare/status/1694801820726555111",
+    "pass": 3
+   },
+   {
+    "quote": "Contentsquare Japan（コンテンツスクエア・ジャパン ... - X Contentsquare Japan（コンテンツスクエア・ジャパン ... - X X https://x.com > contentsquarejp",
+    "url": "https://x.com/contentsquarejp",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Contentsquare - LinkedIn Contentsquare - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/contentsquare",
+    "pass": 3
+   },
+   {
+    "quote": "Contentsquare : Jobs - LinkedIn Contentsquare : Jobs - LinkedIn LinkedIn https://www.linkedin.com > jobs",
+    "url": "https://www.linkedin.com/company/contentsquare/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "Contentsquare | LinkedIn Contentsquare | LinkedIn LinkedIn https://ca.linkedin.com > contentsquare",
+    "url": "https://ca.linkedin.com/company/contentsquare",
+    "pass": 3
+   },
+   {
+    "quote": "Contentsquare : Culture - LinkedIn Contentsquare : Culture - LinkedIn LinkedIn https://www.linkedin.com > life",
+    "url": "https://www.linkedin.com/company/contentsquare/life",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Contentsquare | Paris - Facebook Contentsquare | Paris - Facebook Facebook https://www.facebook.com > ... > Software Company",
+    "url": "https://www.facebook.com/contentsquareglobal/",
+    "pass": 3
+   },
+   {
+    "quote": "Clicktale - now Contentsquare - Facebook Clicktale - now Contentsquare - Facebook Facebook https://www.facebook.com > ... > Brand > Product/service",
+    "url": "https://www.facebook.com/Clicktale/",
+    "pass": 3
+   },
+   {
+    "quote": "Heap by Contentsquare | San Francisco CA - Facebook Heap by Contentsquare | San Francisco CA - Facebook Facebook https://www.facebook.com > ... > Internet company",
+    "url": "https://www.facebook.com/HeapAnalytics/",
+    "pass": 3
+   },
+   {
+    "quote": "Motorpoint boosts efficiency with Contentsquare - Facebook Motorpoint boosts efficiency with Contentsquare - Facebook Facebook https://www.facebook.com > contentsquareglobal > posts",
+    "url": "https://www.facebook.com/contentsquareglobal/posts/within-the-contentsquare-platform-its-very-easy-with-just-a-few-clicks-to-start-/935040468630035/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://contentsquare.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://contentsquare.com/customers/john-lewis-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://contentsquare.com/solutions/use-case/increase-lifetime-value/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://contentsquare.com/solutions/use-case/learn-from-conversations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://contentsquare.com/integrations-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://contentsquare.com/partner-stories/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://contentsquare.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://contentsquare.com/platform/capabilities/agent-intelligence/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://contentsquare.com/platform/conversation-intelligence/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://contentsquare.com/solutions/use-case/improve-conversion/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://contentsquare.com/solutions/use-case/optimize-journeys/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://contentsquare.com/solutions/use-case/ab-testing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://contentsquare.com/solutions/use-case/find-and-fix-errors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://contentsquare.com/solutions/use-case/feedback/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://contentsquare.com/solutions/industry/ecommerce-retail/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://contentsquare.com/solutions/industry/banking-and-financial-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://contentsquare.com/company/ai-driven-analytics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://contentsquare.com/customers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://contentsquare.com/pricing/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://images.ctfassets.net/gwbpo1m641r7/47GFE4hvLtD27DYnYiBxAq/ce3eec9781e1f8344d94cfb54f0f2dd9/JLP-hero.png?w=902&q=85&fit=scale&fm=avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://images.ctfassets.net/gwbpo1m641r7/45n2zHD7PcYiGljpxHFxCf/e6029bc89016143104f27487a369a2e8/John-Lewis-Logo.png?w=1280&q=85&fit=scale&fm=avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://images.ctfassets.net/gwbpo1m641r7/ajCWbaRQ0bx1pt6GRc1QR/e678929d1bde731cb656b0a38afad3c2/john-lewis-partners-logo.svg?w=128&q=85&fit=scale",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://x.com/contentsquarejp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://directus.co.jp/news_information/3058/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://initial.inc/companies/A-MYWGM",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openwork.jp/a0C2x00000WEPt3/pr/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://initial.inc/companies/A-MYWGM",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000080319.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/contentsquarejp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://initial.inc/companies/A-MYWGM",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.microsoft.com/en/customers/story/25531-contentsquare-azure-synapse-analytics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://together.agency/work/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=l126PR8OENU",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/contentsquare",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sixthstreet.com/newsroom/contentsquare-closes-600m-growth-investment-round-led-by-sixth-street-doubles-valuation-to-56b-and-brings-total-funding-to-14-billion",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.owler.com/company/contentsquare",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Contentsquare",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Contentsquare/status/1694379110032617587",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Contentsquare/status/1695541663601422742",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Contentsquare/status/1694801820726555111",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/contentsquare",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/contentsquare/jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/contentsquare",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/contentsquare/life",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/contentsquareglobal/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Clicktale/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/HeapAnalytics/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/contentsquareglobal/posts/within-the-contentsquare-platform-its-very-easy-with-just-a-few-clicks-to-start-/935040468630035/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/contentsquarejp",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Contentsquare 日本 導入",
+   "results": [
+    "https://contentsquare.com/ja-ja/",
+    "https://x.com/contentsquarejp",
+    "https://directus.co.jp/news_information/3058/",
+    "https://initial.inc/companies/A-MYWGM",
+    "https://growth-marketing.jp/contentsquare/",
+    "https://prtimes.jp/main/html/rd/p/000000042.000080319.html",
+    "https://contentsquare.com/ja-ja/company/",
+    "https://contentsquare.gaprise.jp/",
+    "https://www.jetro.go.jp/invest/newsroom/2022/4e55483f3061da15.html",
+    "https://contentsquare.com/ja-ja/press/mouse-computer-x-contentsquare/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "Contentsquare 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://contentsquare.com/ja-ja/company/",
+    "https://www.openwork.jp/a0C2x00000WEPt3/pr/",
+    "https://initial.inc/companies/A-MYWGM",
+    "https://prtimes.jp/main/html/rd/p/000000004.000080319.html",
+    "https://www.jetro.go.jp/invest/newsroom/2022/4e55483f3061da15.html",
+    "https://codezine.jp/news/detail/25506",
+    "https://contentsquare.gaprise.jp/",
+    "https://enterprisezine.jp/news/detail/16029",
+    "https://www.dentsudigital.co.jp/services/cloud-integration/contentsquare",
+    "https://dairitenboshu.com/column/detail/soudairiten"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Contentsquare Japan",
+   "results": [
+    "https://contentsquare.com/ja-ja/",
+    "https://contentsquare.com/",
+    "https://x.com/contentsquarejp",
+    "https://initial.inc/companies/A-MYWGM",
+    "https://prtimes.jp/main/html/searchrlp/company_id/80319",
+    "https://contentsquare.gaprise.jp/",
+    "https://contentsquare.com/ja-ja/company/",
+    "https://prtimes.jp/main/html/rd/p/000000004.000080319.html",
+    "https://prtimes.jp/main/html/rd/p/000000060.000080319.html",
+    "https://contentsquare.gaprise.jp/company"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "Contentsquare manufacturing customer case study",
+   "results": [
+    "https://contentsquare.com/guides/net-promoter-score/case-study/",
+    "https://www.microsoft.com/en/customers/story/25531-contentsquare-azure-synapse-analytics",
+    "https://together.agency/work/contentsquare/",
+    "https://www.youtube.com/watch?v=l126PR8OENU",
+    "https://aws.amazon.com/partners/success/contentsquare/",
+    "https://commonideas.co/work/contentsquare",
+    "https://www.fours.com/resources/customer-stories/",
+    "https://f.hubspotusercontent30.net/hubfs/5465287/New%20case%20study%20PDFs/contentsquare%20case%20study.pdf",
+    "https://theirstack.com/en/technology/contentsquare",
+    "https://contentsquare.com/customers/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Contentsquare white label OR reseller OR partner program",
+   "results": [
+    "https://contentsquare.com/partner-program/reseller-partners/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://dash.partnerstack.com/application?company=hotjar&group=technologymember",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://sales-label.com/blog/white-label-saas-reseller",
+    "https://elfsight.com/affiliate-program/articles-saas-white-label/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Contentsquare founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/contentsquare",
+    "https://sixthstreet.com/newsroom/contentsquare-closes-600m-growth-investment-round-led-by-sixth-street-doubles-valuation-to-56b-and-brings-total-funding-to-14-billion",
+    "https://www.owler.com/company/contentsquare",
+    "https://contentsquare.com/company/",
+    "https://tracxn.com/d/companies/contentsquare/__-hENXrGDp2qXDRE_2tUeKTIbIv2MIV6e3ij8cetPiHg",
+    "https://www.builtinnyc.com/articles/contentsquare-raises-190m-hiring",
+    "https://www.linkedin.com/company/contentsquare",
+    "https://forgeglobal.com/contentsquare_ipo/",
+    "https://www.zoominfo.com/c/content-square-sas/371937939",
+    "https://compworth.com/company/contentsquare"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com Contentsquare",
+   "results": [
+    "https://note.com/trans_di/n/n06d598f1a749",
+    "https://note.com/trans_di/n/n807e752593cd",
+    "https://note.com/members_saasplus/n/n14f3b6660244",
+    "https://note.com/soramichicoltd/n/n6bd2a9d69fdb",
+    "https://note.com/risalococo/n/n2db0e3ec0760",
+    "https://note.com/takahide1013/n/n340291eab1b4?hl=en",
+    "https://note.com/behavalytics/n/n1584803e7451",
+    "https://note.com/yasuhitoo/n/n8b761709b38f",
+    "https://note.com/members_saasplus/n/na996262e3d4f?hl=ko",
+    "https://note.com/risalococo/n/n2db0e3ec0760?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:x.com Contentsquare",
+   "results": [
+    "https://x.com/Contentsquare",
+    "https://x.com/Contentsquare/status/1694379110032617587",
+    "https://x.com/Contentsquare/status/1695541663601422742",
+    "https://x.com/Contentsquare/status/1694801820726555111",
+    "https://x.com/Contentsquare/status/1691872539050385791",
+    "https://x.com/Contentsquare/status/1692597353025335700",
+    "https://x.com/Contentsquare/status/1695058800510726463",
+    "https://x.com/Contentsquare/status/1696659010345152953",
+    "https://x.com/Contentsquare/status/1695133988745023932",
+    "https://x.com/ContentSquare"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Contentsquare",
+   "results": [
+    "https://www.linkedin.com/company/contentsquare",
+    "https://www.linkedin.com/company/contentsquare/jobs",
+    "https://ca.linkedin.com/company/contentsquare",
+    "https://www.linkedin.com/company/contentsquare/life",
+    "https://ae.linkedin.com/company/contentsquare",
+    "https://fr.linkedin.com/jobs/view/manager-solution-consulting-at-contentsquare-4484693692",
+    "https://www.linkedin.com/in/jonathancherki/en",
+    "https://www.linkedin.com/company/heap-inc-",
+    "https://uk.linkedin.com/in/andrew-startup-acclerator",
+    "https://il.linkedin.com/company/contentsquare"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:facebook.com Contentsquare",
+   "results": [
+    "https://www.facebook.com/contentsquareglobal/",
+    "https://www.facebook.com/Clicktale/",
+    "https://www.facebook.com/HeapAnalytics/",
+    "https://www.facebook.com/contentsquareglobal/posts/within-the-contentsquare-platform-its-very-easy-with-just-a-few-clicks-to-start-/935040468630035/",
+    "https://www.facebook.com/contentsquareglobal/posts/contentsquare-is-proud-to-be-named-a-market-leader-in-the-aragon-research-globe-/933166028817479/",
+    "https://www.facebook.com/contentsquareglobal/posts/join-us-tomorrow-at-11-am-pst-as-experts-from-cloudinary-and-contentsquare-share/937527758381306/",
+    "https://www.facebook.com/Atomic.Labs.Contentsquare/",
+    "https://www.facebook.com/LevelAccessA11y/posts/we-had-a-great-time-at-the-cx-circle-events-in-new-york-and-stockholm-this-month/1793521939445718/",
+    "https://www.facebook.com/contentsquareglobal/posts/stop-guessing-how-visitors-navigate-your-site-see-exact-clicks-taps-scrolls-and-/1728401929293881/",
+    "https://www.facebook.com/LifeatContentsquare/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Contentsquare note 社長",
+   "results": [
+    "https://x.com/sadaaki",
+    "https://diamond.jp/articles/-/388572",
+    "https://note.jp/n/ncc37a1d4aa0b",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://froggy.smbcnikko.co.jp/66481/",
+    "https://note.com/sadaaki",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Contentsquare X 投稿",
+   "results": [
+    "https://contentsquare.com/ja-ja/customers/",
+    "https://x.com/contentsquarejp",
+    "https://www.braze.com/docs/ja/partners/data_and_analytics/analytics/contentsquare",
+    "https://www.koukoku.jp/service/suketto/marketer/sns/x%EF%BC%88%E6%97%A7twitter%EF%BC%89%E5%8B%95%E7%94%BB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%A7%E6%88%90%E6%9E%9C%E3%82%92%E5%87%BA%E3%81%99%E6%B4%BB%E7%94%A8%E6%B3%95/",
+    "https://contentsquare.gaprise.jp/",
+    "https://experienceleague.adobe.com/ja/docs/experience-platform/destinations/catalog/analytics/contentsquare",
+    "https://embedsocial.jp/blog/x-posts-with-keyword/",
+    "https://growth-marketing.jp/contentsquare/",
+    "https://x.com/ContentSquare",
+    "https://contentsquare.com/whats-new/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式19頁／PDF・画像3件／外部30頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式19頁／PDF・画像3件／外部30頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式19頁／PDF・画像3件／外部30頁・検索12回）"
+ }
+}

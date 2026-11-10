@@ -1,0 +1,1129 @@
+{
+ "name": "野村證券株式会社",
+ "aliases": [],
+ "context": "PBF=yes 装置=日本電子 出典=https://maonline.jp/kabuhoyu",
+ "researched_at": "2026-11-10T18:08:25.433856+00:00",
+ "official_url": "https://www.nomura.co.jp/",
+ "identified_by": "search:yahoo_jp:野村證券",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本店所在地",
+    "value": "東京都中央区日本橋1-13-1",
+    "url": "https://www.nomura.co.jp/introduc/company/",
+    "pass": 1
+   },
+   {
+    "label": "大手町本社",
+    "value": "〒100－8130　東京都千代田区大手町2-2-2アーバンネット大手町ビル 03-3211-1811 （代） 最寄り駅 地下鉄 大手町駅 東京メトロ 丸の内線 東京メトロ 半蔵門線 東京メトロ 千代田線 東京メトロ 東西線 ：A5, B2a 出口 都営 三田線 ：C12 出口 JR 東京駅 丸の内中央口、丸の内北口 Googleマップで見る",
+    "url": "https://www.nomura.co.jp/introduc/company/",
+    "pass": 1
+   },
+   {
+    "label": "本社郵便番号",
+    "value": "103-8011",
+    "url": "https://job.mynavi.jp/28/pc/search/corp108/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都中央区日本橋1-13-1",
+    "url": "https://job.mynavi.jp/28/pc/search/corp108/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社電話番号",
+    "value": "03-3211-1811",
+    "url": "https://job.mynavi.jp/28/pc/search/corp108/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都",
+    "url": "https://job.mynavi.jp/28/pc/search/corp108/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "岐阜県",
+    "url": "https://job.mynavi.jp/28/pc/search/corp108/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "神奈川県",
+    "url": "https://job.mynavi.jp/28/pc/search/corp108/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "長野県",
+    "url": "https://job.mynavi.jp/28/pc/search/corp108/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "埼玉県",
+    "url": "https://job.mynavi.jp/28/pc/search/corp108/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "和歌山県",
+    "url": "https://job.mynavi.jp/28/pc/search/corp108/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "福井県",
+    "url": "https://job.mynavi.jp/28/pc/search/corp108/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都、福岡県",
+    "url": "https://job.mynavi.jp/28/pc/search/corp108/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都、愛媛県",
+    "url": "https://job.mynavi.jp/28/pc/search/corp108/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "大阪府",
+    "url": "https://job.mynavi.jp/28/pc/search/corp108/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都\n\t\t\t\t\t\t\t\t\t\t、大阪府",
+    "url": "https://job.mynavi.jp/28/pc/search/corp108/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "千葉県\n\t\t\t\t\t\t\t\t\t\t、東京都",
+    "url": "https://job.mynavi.jp/28/pc/search/corp108/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社郵便番号",
+    "value": "103-8011",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都中央区日本橋1-13-1",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社電話番号",
+    "value": "03-3211-1811",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "広島県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "岡山県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "福岡県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都\n\t\t\t\t\t\t\t\t\t\t、神奈川県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "大阪府",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都\n\t\t\t\t\t\t\t\t\t\t、大阪府",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108/outline.html",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立日",
+    "value": "設立日：2001年5月7日",
+    "url": "https://www.nomura.co.jp/introduc/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1925年12月25日",
+    "url": "https://job.mynavi.jp/28/pc/search/corp108/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：1925年12月25日",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108/outline.html",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "100億円",
+    "url": "https://www.nomura.co.jp/introduc/company/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "100億円",
+    "url": "https://job.mynavi.jp/28/pc/search/corp108/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "100億円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108/outline.html",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "大株主（持株比率）",
+    "value": "野村ホールディングス株式会社（100％）",
+    "url": "https://www.nomura.co.jp/introduc/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "証券業",
+    "url": "https://www.nomura.co.jp/introduc/company/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "証券業",
+    "url": "https://job.mynavi.jp/28/pc/search/corp108/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "証券業",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108/outline.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "13,775名（2025年3月末時点）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp108/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "13,775名（2025年3月末時点）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108/outline.html",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "単独売上高",
+    "value": "8,824億円（2025年3月末時点）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp108/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "単独売上高",
+    "value": "8,824億円（2025年3月末時点）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108/outline.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "資本金・株主": [
+   {
+    "quote": "11月の株主優待人気ランキング更新",
+    "url": "https://www.nomura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【IPO】KDX Kolet投資法人（666A）新規上場に伴う新投資口発行・投資口売出し中止について",
+    "url": "https://www.nomura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「野村の証券取引約款」および「金融商品取引所に上場されている有価証券や国内外の債券のお取引に関する説明書」等の一部改定について",
+    "url": "https://www.nomura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【IPO】KDX Kolet投資法人（666A）新規上場に伴う新投資口発行・投資口売出し中止について",
+    "url": "https://www.nomura.co.jp/introduc/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「野村の証券取引約款」および「金融商品取引所に上場されている有価証券や国内外の債券のお取引に関する説明書」等の一部改定について",
+    "url": "https://www.nomura.co.jp/introduc/news/",
+    "pass": 1
+   },
+   {
+    "quote": "東証の上場維持基準に関する経過措置終了および改善期間終了に伴うご注意事項について",
+    "url": "https://www.nomura.co.jp/introduc/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ドイツの船舶投資会社Navigo Shipholding AGへ出資参画（野村ホールディングスサイト）",
+    "url": "https://www.nomura.co.jp/introduc/news/",
+    "pass": 1
+   },
+   {
+    "quote": "特定子会社の異動に関するお知らせ（野村ホールディングスサイト）",
+    "url": "https://www.nomura.co.jp/introduc/news/",
+    "pass": 1
+   },
+   {
+    "quote": "【IPO】KDX Kolet投資法人（666A）新規上場に伴う新投資口発行・投資口売出し中止について｜会社情報｜野村證券",
+    "url": "https://www.nomura.co.jp/introduc/news/2026/20261109_2.html",
+    "pass": 1
+   },
+   {
+    "quote": "【IPO】KDX Kolet投資法人（666A）新規上場に伴う新投資口発行・投資口売出し中止について",
+    "url": "https://www.nomura.co.jp/introduc/news/2026/20261109_2.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月25日（水）に東京証券取引所に上場を予定しておりました「KDX Kolet投資法人」（666A）は、本日（11月9日）開催の本投資法人役員会において、新投資口発行並びに投資口売出しの中止が決議されました",
+    "url": "https://www.nomura.co.jp/introduc/news/2026/20261109_2.html",
+    "pass": 1
+   },
+   {
+    "quote": "「野村の証券取引約款」および「金融商品取引所に上場されている有価証券や国内外の債券のお取引に関する説明書」等の一部改定について｜会社情報｜野村證券",
+    "url": "https://www.nomura.co.jp/introduc/news/2026/20261109_1.html",
+    "pass": 1
+   },
+   {
+    "quote": "「野村の証券取引約款」および「金融商品取引所に上場されている有価証券や国内外の債券のお取引に関する説明書」等の一部改定について",
+    "url": "https://www.nomura.co.jp/introduc/news/2026/20261109_1.html",
+    "pass": 1
+   },
+   {
+    "quote": "これに伴い、2026年11月16日（月）より、「野村の証券取引約款」および「金融商品取引所に上場されている有価証券や国内外の債券のお取引に関する説明書」等を一部改定いたします",
+    "url": "https://www.nomura.co.jp/introduc/news/2026/20261109_1.html",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品取引所に上場されている有価証券や国内外の債券のお取引に関する説明書（個人のお客様用）新旧対照表",
+    "url": "https://www.nomura.co.jp/introduc/news/2026/20261109_1.html",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品取引所に上場されている有価証券や国内外の債券のお取引に関する説明書（法人のお客様用）新旧対照表",
+    "url": "https://www.nomura.co.jp/introduc/news/2026/20261109_1.html",
+    "pass": 1
+   },
+   {
+    "quote": "詳しくは、上場有価証券等書面、契約締結前交付書面、等をよくお読みください",
+    "url": "https://www.nomura.co.jp/introduc/news/2026/20261023_1.html",
+    "pass": 1
+   },
+   {
+    "quote": "詳しくは、上場有価証券等書面、契約締結前交付書面、等をよくお読みください",
+    "url": "https://www.nomura.co.jp/introduc/news/2026/20260925_1.html",
+    "pass": 1
+   },
+   {
+    "quote": "戻しによる損益は、原則として、上場株式等に係る譲渡所得等として申告分離課税の対象となります",
+    "url": "https://www.nomura.co.jp/sto/assets/pdf/202603_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "帝国通信工業(株)【東証プライム市場上場】",
+    "url": "https://job.mynavi.jp/28/pc/search/corp108/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "野村グループの持株会社「野村ホールディングス(下部)(東証一部上場)」の100%子会社であり、野村グループのコア業務である証券業務を担う中核会社",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "NOT A HOTELはなぜ今、上場するのか",
+    "url": "https://note.com/tag/%E9%87%8E%E6%9D%91%E8%AD%89%E5%88%B8",
+    "pass": 3
+   },
+   {
+    "quote": "当時の社長が株主総会の運営を円滑にするため、総会屋（株主総会を妨害することで金品を脅し取るアウトロー）に利益を供与していたことが発覚し、大蔵省による業務停止処分と当時の社長ら経営陣の全員辞任という前代未聞の事態に至った",
+    "url": "https://note.com/gifted_laelia404/n/na82342670dad",
+    "pass": 3
+   },
+   {
+    "quote": "野村證券株式会社は、野村グループの持株会社である野村ホールディングスの100%子会社で、グループの中核である証券ビジネスを担う国内最大級の証券会社です",
+    "url": "https://note.com/bostoncareer/n/n37385b7f9b3b",
+    "pass": 3
+   }
+  ],
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "野村證券ホームページトップへAIチャットボットを導入しました",
+    "url": "https://www.nomura.co.jp/introduc/news/",
+    "pass": 1
+   },
+   {
+    "quote": "フィッシング詐欺対策のため、不正アクセス検知サービスを導入します",
+    "url": "https://www.nomura.co.jp/introduc/news/",
+    "pass": 1
+   },
+   {
+    "quote": "その後、当該お客様のオンラインサービス上で保有される有価証券の売買等が実施される不正な取引も確認されました",
+    "url": "https://www.nomura.co.jp/onlineservice/news/customer/2023/security_phishing.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人向け国債は、これまで個人に限定されていた販売対象が、国債の安定保有層の拡大を図る観点から、令和8年12月募集分（令和9年1月発行分）より、一部の法人等にも拡大されます",
+    "url": "https://www.nomura.co.jp/introduc/news/2026/20261109_1.html",
+    "pass": 1
+   },
+   {
+    "quote": "なお、2025年6月29日以降、当社におけるパスキー認証（※）導入までに、不正取引の被害にあった当社のお客様口座につきましては、5月2日にお知らせしている補償の方針とし、被害のお申し出をいただいたお客様へ個別にご連絡させていただきます",
+    "url": "https://www.nomura.co.jp/introduc/news/2025/20250729_1.html",
+    "pass": 1
+   },
+   {
+    "quote": "該元本の払戻しによる損益は譲渡所得等として取り扱われ、不動産 ST を保有する個人のお客様(日本の居住者)に",
+    "url": "https://www.nomura.co.jp/sto/assets/pdf/202603_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "採用選考の対策から大量保有情報の分析、証券会社の比較まで幅広い情報が扱われています",
+    "url": "https://note.com/tag/%E9%87%8E%E6%9D%91%E8%AD%89%E5%88%B8",
+    "pass": 3
+   },
+   {
+    "quote": "採用選考の対策から大量保有情報の分析、証券会社の比較まで幅広い情報が扱われて…",
+    "url": "https://note.com/tag/%E9%87%8E%E6%9D%91%E8%AD%89%E5%88%B8",
+    "pass": 3
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "JALグループ【日本航空(株)、他28社】",
+    "url": "https://job.mynavi.jp/28/pc/search/corp108/outline.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 - 野村證券 — 会社概要 - 野村證券 野村證券 https://www.nomura.co.jp > 会社情報",
+    "url": "https://www.nomura.co.jp/introduc/company/",
+    "pass": 3
+   },
+   {
+    "quote": "野村證券 (株)【野村グループ】の 会社概要 | マイナビ2028 — 野村證券 (株)【野村グループ】の 会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp108 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp108/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報 - 野村證券 — 会社情報 - 野村證券 野村證券 https://www.nomura.co.jp > introduc",
+    "url": "https://www.nomura.co.jp/introduc/",
+    "pass": 3
+   },
+   {
+    "quote": "野村證券 - Wikipedia — 野村證券 - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 野村證券",
+    "url": "https://ja.wikipedia.org/wiki/%E9%87%8E%E6%9D%91%E8%AD%89%E5%88%B8",
+    "pass": 3
+   },
+   {
+    "quote": "資本ソリューション - 野村證券 — 資本ソリューション - 野村證券 野村證券 https://www.nomura.co.jp > ソリューション・サービス",
+    "url": "https://www.nomura.co.jp/solution/capital/",
+    "pass": 3
+   },
+   {
+    "quote": "少数 株主 読み - 証券用語解説集 - 野村證券 — 少数 株主 読み - 証券用語解説集 - 野村證券 野村證券 https://www.nomura.co.jp > ... > 証券用語解説集 - さ行 -",
+    "url": "https://www.nomura.co.jp/terms/japan/si/minority_shareholders.html",
+    "pass": 3
+   },
+   {
+    "quote": "野村證券 (株)【野村グループ】の新卒採用・会社概要 - マイナビ — 野村證券 (株)【野村グループ】の新卒採用・会社概要 - マイナビ マイナビ https://job.mynavi.jp > search > corp108 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "Nomuraを知る - 野村證券 採用情報 — Nomuraを知る - 野村證券 採用情報 野村證券 採用情報 https://www.nomura-recruit.jp > company",
+    "url": "https://www.nomura-recruit.jp/company/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "野村證券 の人気・新着記事まとめ - note 野村證券 の人気・新着記事まとめ - note note https://note.com > tag > 野村證券",
+    "url": "https://note.com/tag/%E9%87%8E%E6%9D%91%E8%AD%89%E5%88%B8",
+    "pass": 3
+   },
+   {
+    "quote": "【就活生必読】 野村證券 とは何か？｜ムーちゃん＠Prime.N 【就活生必読】 野村證券 とは何か？｜ムーちゃん＠Prime.N note https://note.com > 人物・社会 > 金融・投資家",
+    "url": "https://note.com/gifted_laelia404/n/na82342670dad",
+    "pass": 3
+   },
+   {
+    "quote": "【 野村證券 】企業研究｜30国27000名が働くグローバル金融 ... 【 野村證券 】企業研究｜30国27000名が働くグローバル金融 ... note https://note.com > キャリア > 就職活動",
+    "url": "https://note.com/bostoncareer/n/n37385b7f9b3b",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "採用選考の対策から大量保有情報の分析、証券会社の比較まで幅広い情報が扱われています。",
+    "url": "https://note.com/tag/%E9%87%8E%E6%9D%91%E8%AD%89%E5%88%B8",
+    "pass": 3
+   },
+   {
+    "quote": "就活生向けの面接対策や、投資家による実体験に基づいた資産運用の記録が集まっています。",
+    "url": "https://note.com/tag/%E9%87%8E%E6%9D%91%E8%AD%89%E5%88%B8",
+    "pass": 3
+   },
+   {
+    "quote": "採用選考の対策から大量保有情報の分析、証券会社の比較まで幅広い情報が扱われて…",
+    "url": "https://note.com/tag/%E9%87%8E%E6%9D%91%E8%AD%89%E5%88%B8",
+    "pass": 3
+   },
+   {
+    "quote": "スクウェアと私③――二つの会社が一つになった日",
+    "url": "https://note.com/tag/%E9%87%8E%E6%9D%91%E8%AD%89%E5%88%B8",
+    "pass": 3
+   },
+   {
+    "quote": "【2027年度版】野村證券 企業研究＆転職戦略ガイド｜平均年収1,325万円の読み方・4部門の稼ぎ方から284件の募集の選び方まで徹底解説",
+    "url": "https://note.com/tag/%E9%87%8E%E6%9D%91%E8%AD%89%E5%88%B8",
+    "pass": 3
+   },
+   {
+    "quote": "逆指値を入れたのに損切りされない理由：ストップ安・寄付きの値跳び・期限7営業日",
+    "url": "https://note.com/tag/%E9%87%8E%E6%9D%91%E8%AD%89%E5%88%B8",
+    "pass": 3
+   },
+   {
+    "quote": "信託報酬『ゼロ』のファンドが大人気にならない理由",
+    "url": "https://note.com/tag/%E9%87%8E%E6%9D%91%E8%AD%89%E5%88%B8",
+    "pass": 3
+   },
+   {
+    "quote": "企業分析で使う「コンセンサス」、571社の利益予想の読み方",
+    "url": "https://note.com/tag/%E9%87%8E%E6%9D%91%E8%AD%89%E5%88%B8",
+    "pass": 3
+   },
+   {
+    "quote": "【就活生必読】野村證券とは何か？｜ムーちゃん＠Prime.N",
+    "url": "https://note.com/gifted_laelia404/n/na82342670dad",
+    "pass": 3
+   },
+   {
+    "quote": "理念・4事業・国内証券・外資IBとの違い・向いている人を徹底解説",
+    "url": "https://note.com/gifted_laelia404/n/na82342670dad",
+    "pass": 3
+   },
+   {
+    "quote": "この記事はPrime.N salonが就活生向けに作成した企業研究コンテンツです。野村證券への内定を目指す方は、ぜひ最後まで読んでください。",
+    "url": "https://note.com/gifted_laelia404/n/na82342670dad",
+    "pass": 3
+   },
+   {
+    "quote": "「証券会社で働く」と言えば、多くの人がまず野村證券を思い浮かべる——それが国内証券業界No.1ブランドの圧力だ。",
+    "url": "https://note.com/gifted_laelia404/n/na82342670dad",
+    "pass": 3
+   },
+   {
+    "quote": "野村證券は1925年の創業から100年、日本の資本市場の形成・発展を担ってきた「証券業界の原点」だ。リテール（個人の資産形成支援）・インベストメント・バンキング（企業のM&A・資金調達）・グローバル・マーケッツ（金融市場のトレーディング）・アセット・マネジメント（資産運用）という証券業の全機能を持つ「国内唯一の総合証券グローバル投資銀行」だ。NISAの拡充が日本の投資文化を変える今、野村の仕事の意味も大きく変わっている。この記事を読めば、野村が他の証券会社や外資IBと何が違い、どういう人が活躍できるかが具体的にわかる。",
+    "url": "https://note.com/gifted_laelia404/n/na82342670dad",
+    "pass": 3
+   },
+   {
+    "quote": "：「金融資本市場を通じて、真に豊かな社会の創造に貢献する」",
+    "url": "https://note.com/gifted_laelia404/n/na82342670dad",
+    "pass": 3
+   },
+   {
+    "quote": "社風への影響：「競争的・数字志向・自己主張が強い」。証券業界全般に言えることだが、野村は特に成果主義の色が強く、「数字で語る」「自分の意見を持つ」という文化が色濃い。一方で「日本一」というプライドと使命感も社員に強く根付いている。",
+    "url": "https://note.com/gifted_laelia404/n/na82342670dad",
+    "pass": 3
+   },
+   {
+    "quote": "証券業の「創業者」——1925年、大阪から始まった野村",
+    "url": "https://note.com/gifted_laelia404/n/na82342670dad",
+    "pass": 3
+   },
+   {
+    "quote": "【野村證券】企業研究｜30国27,000名が働くグローバル金融グループ｜ボスキャリ2026完全対策｜ボストンキャリアフォーラムの歩き方",
+    "url": "https://note.com/bostoncareer/n/n37385b7f9b3b",
+    "pass": 3
+   },
+   {
+    "quote": "【野村證券】企業研究｜30国27,000名が働くグローバル金融グループ｜ボスキャリ2026完全対策",
+    "url": "https://note.com/bostoncareer/n/n37385b7f9b3b",
+    "pass": 3
+   },
+   {
+    "quote": "⚠️まず確認：投資銀行部門は10月21日（水）で締切、ほかの求人も順次選考です",
+    "url": "https://note.com/bostoncareer/n/n37385b7f9b3b",
+    "pass": 3
+   },
+   {
+    "quote": "野村證券のボスキャリ2026の求人のうち、インベストメント・バンキング（投資銀行）部門のフルタイムとインターンシップは、CFN上の締切が2026年10月21日（水）23:59（日本時間）です。そのほかの6件は、11月11日（水）23:59が最終締切です。",
+    "url": "https://note.com/bostoncareer/n/n37385b7f9b3b",
+    "pass": 3
+   },
+   {
+    "quote": "いずれの求人も、締切が7月から5回に分けて設定されてきた「多段階締切」で、応募を完了した人から順に選考が進みます（ローリング選考）。書類選考を通過した人にだけ連絡が来る仕組みなので、志望が固まっている人は早めに応募を済ませましょう。",
+    "url": "https://note.com/bostoncareer/n/n37385b7f9b3b",
+    "pass": 3
+   },
+   {
+    "quote": "応募には、同社の新卒採用マイページへの登録が必須です。また、二親等以内に野村グループの役員・社員がいる人や、国内の新卒採用ですでに2027年度のフルタイムのコースに応募した人は対象外です。",
+    "url": "https://note.com/bostoncareer/n/n37385b7f9b3b",
+    "pass": 3
+   },
+   {
+    "quote": "野村證券株式会社は、野村グループの持株会社である野村ホールディングスの100%子会社で、グループの中核である証券ビジネスを担う国内最大級の証券会社です。1925年12月25日に、職員89名で設立されました。本店は東京都中央区日本橋にあり、社長は奥田健太郎氏、従業員数は11,213名です。",
+    "url": "https://note.com/bostoncareer/n/n37385b7f9b3b",
+    "pass": 3
+   },
+   {
+    "quote": "設立からわずか1年半でニューヨークに出張所を開くなど、創業期から海外に目を向けてきました。現在、野村グループは約30の国と地域で、90の国籍を持つ約27,000名が働くグローバルな金融グループに成長しています。",
+    "url": "https://note.com/bostoncareer/n/n37385b7f9b3b",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "野村證券 ／NOMURA WEALTH MANAGEMENT - X 野村證券 ／NOMURA WEALTH MANAGEMENT - X X https://x.com > nomura_jp",
+    "url": "https://x.com/nomura_jp",
+    "pass": 3
+   },
+   {
+    "quote": "野村證券 ／NOMURA WEALTH MANAGEMENT - X 野村證券 ／NOMURA WEALTH MANAGEMENT - X X https://x.com > @nomura_jp",
+    "url": "https://x.com/nomura_jp/status/2105945956286108146",
+    "pass": 3
+   },
+   {
+    "quote": "野村證券 ／NOMURA WEALTH MANAGEMENT on X: \"権利 ... 野村證券 ／NOMURA WEALTH MANAGEMENT on X: \"権利 ... X https://x.com > @nomura_jp",
+    "url": "https://x.com/nomura_jp/status/2107033104254959927",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "野村證券 株式会社 - LinkedIn 野村證券 株式会社 - LinkedIn LinkedIn https://jp.linkedin.com > company > nomurasecurities",
+    "url": "https://jp.linkedin.com/company/nomurasecurities",
+    "pass": 3
+   },
+   {
+    "quote": "乘松 翔真 - 野村證券 株式会社 ｜ #つながり申請大歓迎です 乘松 翔真 - 野村證券 株式会社 ｜ #つながり申請大歓迎です LinkedIn https://jp.linkedin.com > ...",
+    "url": "https://jp.linkedin.com/in/sh0ma-n0rima2",
+    "pass": 3
+   },
+   {
+    "quote": "Yukito Komuro - 野村證券 （株） - Investment Banking Vice ... Yukito Komuro - 野村證券 （株） - Investment Banking Vice ... LinkedIn https://jp.linkedin.com > ...",
+    "url": "https://jp.linkedin.com/in/yukito-komuro-67b583195",
+    "pass": 3
+   },
+   {
+    "quote": "Kensuke Ito - 野村證券 株式会社 - LinkedIn Kensuke Ito - 野村證券 株式会社 - LinkedIn LinkedIn https://jp.linkedin.com > ...",
+    "url": "https://jp.linkedin.com/in/kensuke-ito-3ba32171",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "野村證券 (@nomura.wealth.management) - Facebook 野村證券 (@nomura.wealth.management) - Facebook Facebook https://www.facebook.com > ... > News & media website",
+    "url": "https://www.facebook.com/nomura.wealth.management/",
+    "pass": 3
+   },
+   {
+    "quote": "野村證券 (@nomura.wealth.management) - Facebook 野村證券 (@nomura.wealth.management) - Facebook Facebook https://www.facebook.com > ... > 野村證券",
+    "url": "https://www.facebook.com/nomura.wealth.management/albums/689352399868360/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.nomura.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nomura.co.jp/introduc/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nomura.co.jp/introduc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nomura.co.jp/onlineservice/news/customer/2023/security_phishing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nomura.co.jp/introduc/news/2026/20261109_2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nomura.co.jp/introduc/news/2026/20261109_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nomura.co.jp/introduc/news/2026/20261104_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nomura.co.jp/introduc/news/2026/20260513_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nomura.co.jp/introduc/news/2025/20250729_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nomura.co.jp/goto/?title=%E6%97%A5%E6%9C%AC%E8%A8%BC%E5%88%B8%E6%A5%AD%E5%8D%94%E4%BC%9A&url=https://www.jsda.or.jp/about/hatten/inv_alerts/alearts05/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nomura.co.jp/introduc/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nomura.co.jp/introduc/news/2026/20261023_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nomura.co.jp/introduc/news/2026/20261001_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nomura.co.jp/introduc/news/2026/20260925_1.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.nomura.co.jp/sto/assets/pdf/202607.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nomura.co.jp/sto/assets/pdf/202603_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.nomuraholdings.com/jp/company/group/holdings/holdings.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp108/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Ew517KG1bOI",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/the-future-of-metal-3d-printing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.3dsystems.com/semiconductor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nomuraholdings.com/jp/company/group.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp108/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nomuraholdings.com/jp/investor/individual/strength.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E9%87%8E%E6%9D%91%E8%AD%89%E5%88%B8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gifted_laelia404/n/na82342670dad",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/bostoncareer/n/n37385b7f9b3b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/nomura_jp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/nomura_jp/status/2105945956286108146",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/nomura_jp/status/2107033104254959927",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/nomurasecurities",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/sh0ma-n0rima2",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/yukito-komuro-67b583195",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/kensuke-ito-3ba32171",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/nomura.wealth.management/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/nomura.wealth.management/albums/689352399868360/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/nomura_jp",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "野村證券",
+   "results": [
+    "https://www.nomura.co.jp/",
+    "https://www.nomuraholdings.com/jp/company/group/nsc/nsc.html",
+    "https://ja.wikipedia.org/wiki/%E9%87%8E%E6%9D%91%E8%AD%89%E5%88%B8",
+    "https://play.google.com/store/apps/details?id=jp.co.nomura.nomuraapp&hl=ja",
+    "https://apps.apple.com/jp/app/%E9%87%8E%E6%9D%91%E8%AD%89%E5%88%B8-%E3%82%B9%E3%83%9E%E3%83%9B1%E3%81%A4%E3%81%A7%E5%BF%AB%E9%81%A9%E3%81%AA%E8%B3%87%E7%94%A3%E9%81%8B%E7%94%A8/id1614589408",
+    "https://www.youtube.com/@NomuraSecurities",
+    "https://ja.wikipedia.org/wiki/野村證券",
+    "https://hometrade.nomura.co.jp/",
+    "https://www.nomura.co.jp/introduc/company/",
+    "https://hometrade.nomura.co.jp/web/rmfAccAccWitIndInputAction.do"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "野村證券 会社概要 資本金 設立",
+   "results": [
+    "https://www.nomura.co.jp/introduc/company/",
+    "https://www.nomuraholdings.com/jp/company/group/holdings/holdings.html",
+    "https://job.mynavi.jp/28/pc/search/corp108/outline.html",
+    "https://www.nomura.co.jp/introduc/",
+    "https://ja.wikipedia.org/wiki/%E9%87%8E%E6%9D%91%E8%AD%89%E5%88%B8",
+    "https://www.nomura-recruit.jp/business/securities/",
+    "https://nomura100th.com/",
+    "https://www.homemate-research-stock.com/kabumatch/49/",
+    "https://lifedoctor-campus.com/company-study/entry/kokunaisyouken/study-nomurashouken.html",
+    "https://www.nomuraholdings.com/jp/company/group/nsc/nsc.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "野村證券 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.youtube.com/watch?v=Ew517KG1bOI",
+    "https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/the-future-of-metal-3d-printing",
+    "https://news.sharelab.jp/category/3dp-news/metal-3dprinter/",
+    "https://www.fuji-mold.co.jp/media/kikaisetubi/a18",
+    "https://sustainablejapan.jp/2025/04/29/bosh-3d-printing/113018",
+    "https://www.marubeni-idigio.com/insight-hub/metal3dprinter_desktopmetal_case/",
+    "https://www.ricoh.co.jp/3dp/metal/column_fastform01",
+    "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "https://www.3dmart.co.jp/blogs/news/fastform-matel-3d-printer?srsltid=AYCX9vLWPVKXdu0HCTICQYjqfMRaOLmCBQZqiCyVdDHz_sCEHXGZxbV1",
+    "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "野村證券 金属積層造形 設備",
+   "results": [
+    "https://ja.3dsystems.com/semiconductor",
+    "https://chuokatan.co.jp/products/3dp/",
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "https://www.meti.go.jp/meti_lib/report/2021FY/000098.pdf",
+    "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "https://www.nims.go.jp/cccenter/ismg/equipments.html",
+    "https://www.eng.tohoku.ac.jp/news/detail-,-id,2642.html",
+    "https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E6%A9%9F/",
+    "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "https://mitsu-ri.net/articles/metal-laminated-modeling"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "野村證券 株主 出資 親会社",
+   "results": [
+    "https://www.nomuraholdings.com/jp/company/group.html",
+    "https://www.nomura.co.jp/solution/capital/",
+    "https://www.nomura.co.jp/terms/japan/si/minority_shareholders.html",
+    "https://nomura100th.com/",
+    "https://www.nomura-re-hd.co.jp/ir/stock-information/stump.html",
+    "https://www.nomura.co.jp/terms/japan/ka/kabusikikokan.html",
+    "https://www.nomuraholdings.com/jp/company/group/holdings/holdings.html",
+    "https://ja.wikipedia.org/wiki/%E9%87%8E%E6%9D%91%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "https://www.nomura.co.jp/introduc/company/",
+    "https://ja.wikipedia.org/wiki/野村ホールディングス"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "野村證券 売上高 従業員数",
+   "results": [
+    "https://job.mynavi.jp/27/pc/search/corp108/outline.html",
+    "https://www.nomuraholdings.com/jp/investor/individual/strength.html",
+    "https://www.nomura.co.jp/introduc/company/",
+    "https://www.nomura-recruit.jp/company/",
+    "https://www.nomuraholdings.com/jp/faq/qa_c05.html",
+    "https://ja.wikipedia.org/wiki/%E9%87%8E%E6%9D%91%E8%AD%89%E5%88%B8",
+    "https://note.com/magic_swift2546/n/na5bf05f37ce5",
+    "https://irbank.net/E03810/worker",
+    "https://shikiho.toyokeizai.net/gyoukai/company/d131131b0f56322",
+    "https://job.mynavi.jp/28/pc/search/corp108/outline.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com 野村證券",
+   "results": [
+    "https://note.com/tag/%E9%87%8E%E6%9D%91%E8%AD%89%E5%88%B8",
+    "https://note.com/gifted_laelia404/n/na82342670dad",
+    "https://note.com/magic_swift2546/n/na5bf05f37ce5",
+    "https://note.com/bostoncareer/n/n37385b7f9b3b",
+    "https://note.com/shu_katsu500/n/n3e646f112dec",
+    "https://note.com/tag/%E9%87%8E%E6%9D%91%E8%A8%BC%E5%88%B8",
+    "https://note.com/xyl1sh/n/ne790d8de61ac",
+    "https://note.com/ai_shukatsu28/n/ne4f8ce962a57",
+    "https://note.com/bostonjuku/n/n5123af881c47",
+    "https://note.com/yasa_shukatsu27/n/nfa5fbf069e84"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 野村證券",
+   "results": [
+    "https://x.com/nomura_jp",
+    "https://x.com/Nomura_jp_hd",
+    "https://x.com/nomura_jp/status/2105945956286108146",
+    "https://x.com/nomura_jp/status/2107033104254959927",
+    "https://x.com/nomura_jp/status/1250692794571620354",
+    "https://x.com/nomura_jp/status/2037342592019702242",
+    "https://x.com/NETSUI_yokokawa/status/2119919286366195962",
+    "https://x.com/DAIBOUCHO/status/1655098818285961217",
+    "https://x.com/nomura_jp/status/1911932527872548870",
+    "https://x.com/_EL_BORDE"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:linkedin.com 野村證券",
+   "results": [
+    "https://jp.linkedin.com/company/nomurasecurities",
+    "https://jp.linkedin.com/in/sh0ma-n0rima2",
+    "https://jp.linkedin.com/in/yukito-komuro-67b583195",
+    "https://jp.linkedin.com/in/kensuke-ito-3ba32171",
+    "https://www.linkedin.com/in/shayne-fletcher/ja",
+    "https://www.linkedin.com/news/story/%E9%87%8E%E6%9D%91%E8%A8%BC%E5%88%B8%E3%81%AB%E6%A5%AD%E5%8B%99%E6%94%B9%E5%96%84%E5%91%BD%E4%BB%A4-5018642/",
+    "https://www.linkedin.com/newsletters/nomura-connects-7346466711161765888",
+    "https://jp.linkedin.com/feed/news/%E9%87%8E%E6%9D%91%E8%AD%89%E5%88%B8-%E6%96%B0%E4%BA%BA%E3%82%92%E3%82%B3%E3%83%BC%E3%83%AB%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E9%85%8D%E5%B1%9E%E3%81%AB-4236129",
+    "https://jp.linkedin.com/in/yasuhide-kajitani-882650101",
+    "https://jp.linkedin.com/in/inoue-n-883136166"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com 野村證券",
+   "results": [
+    "https://www.facebook.com/nomura.wealth.management/",
+    "https://www.facebook.com/nomura.jp/",
+    "https://www.facebook.com/nomura.wealth.management/albums/689352399868360/",
+    "https://www.facebook.com/nomura.jp/albums/304699689554878/",
+    "https://www.facebook.com/nomura.wealth.management/photos/689352436535023/",
+    "https://www.facebook.com/nomura.jp/videos/%E9%87%8E%E6%9D%91%E3%81%AE%E8%B3%87%E7%94%A3%E9%81%8B%E7%94%A8%E3%82%A2%E3%83%97%E3%83%AA-nomura%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%8C%E9%87%8E%E6%9D%91%E8%AD%89%E5%88%B8%E3%81%AB%E4%BF%9D%E6%9C%89%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%81%94%E8%B3%87%E7%94%A3%E3%82%92%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E7%AE%A1%E7%90%86%E3%81%97%E3%81%A9%E3%81%93%E3%81%AB%E3%81%84%E3%81%A6%E3%82%82%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3%E3%81%8B%E3%82%89%E7%A2%BA%E8%AA%8D%E3%81%8C%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E4%BF%9D%E6%9C%89%E9%8A%98%E6%9F%84%E3%82%84%E6%B0%97%E3%81%AB%E3%81%AA%E3%82%8B%E9%8A%98%E6%9F%84%E3%81%A8%E9%96%A2%E9%80%A3%E6%80%A7/575560567845224/",
+    "https://www.facebook.com/nomura.wealth.management/albums/689352403201693/",
+    "https://www.facebook.com/nomura.jp/mentions/",
+    "https://www.facebook.com/nomura.wealth.management/posts/%E6%9C%AC%E6%97%A5%E9%87%8E%E6%9D%91%E8%AD%89%E5%88%B8%E3%81%AE%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E9%87%8E%E6%9D%91%E3%81%8C%E6%8F%90%E4%BE%9B%E3%81%99%E3%82%8B%E3%82%A6%E3%82%A7%E3%83%AB%E3%82%B9%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%92%E4%BD%93%E7%8F%BE%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%88%E3%81%86%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%82%92%E4%B8%80%E6%96%B0%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%81%BE%E3%81%9F%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE/1092807546189508/",
+    "https://pl-pl.facebook.com/pages/%E9%87%8E%E6%9D%91%E8%AD%89%E5%88%B8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/110659963711993"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "野村證券 note 社長",
+   "results": [
+    "https://note.com/magic_swift2546/n/na5bf05f37ce5",
+    "https://www.nomuraholdings.com/jp/company/group/nsc/directors.html",
+    "https://www.nomura-recruit.jp/company/message/",
+    "https://www.nomura.co.jp/introduc/company/",
+    "https://www.youtube.com/watch?v=onwp_6mRIIg",
+    "https://diamond.jp/articles/-/137667",
+    "https://ja.wikipedia.org/wiki/%E9%87%8E%E6%9D%91%E8%AD%89%E5%88%B8",
+    "https://nomura100th.com/our-Initiatives/project03.html",
+    "https://ja.wikipedia.org/wiki/奥田健太郎",
+    "https://www.nomuraholdings.com/jp/company/group/nsc/smd.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "野村證券 X 投稿",
+   "results": [
+    "https://x.com/Nomura_jp_hd",
+    "https://www.nomura.co.jp/lp/social/about.html",
+    "https://www.nomura.co.jp/onlineservice/news/trading/index.html",
+    "https://x.com/nomura_jp",
+    "https://www.nomura.co.jp/",
+    "https://www.nomuraholdings.com/jp/investor/library/report.html",
+    "https://www.nomura-am.co.jp/news/20210601121852005150.html",
+    "https://www.youtube.com/@NomuraSecurities",
+    "https://x.com/nomura_jp/with_replies",
+    "https://search.yahoo.co.jp/realtime/search/野村證券/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部24頁・検索12回）",
+  "使っている金属粉（材質）": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部24頁・検索12回）"
+ }
+}

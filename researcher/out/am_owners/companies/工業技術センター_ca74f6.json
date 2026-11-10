@@ -1,0 +1,995 @@
+{
+ "name": "工業技術センター",
+ "aliases": [],
+ "context": "PBF=yes 装置=LUMEX 出典=https://www.fklab.fukui.fukui.jp/kougi/3dtrial/3d_03.html",
+ "researched_at": "2026-11-10T18:06:18.314296+00:00",
+ "official_url": "https://www.kagoshima-it.jp/",
+ "identified_by": "search:yahoo_jp:工業技術センター",
+ "profile": {},
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "当センター保有の設備・機器をご利用いただけます",
+    "url": "https://www.kagoshima-it.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【大盛況で終了しました！】令和７年度 JKA等導入機器説明会を開催します！（開催：2026/2/19）",
+    "url": "https://www.kagoshima-it.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "競輪の補助（公益財団法人JKA 2025年度 機械振興補助事業）を受けて、「試料静止型 冷熱衝撃装置」を導入しました",
+    "url": "https://www.kagoshima-it.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当センターならび企業に導入されたレーザ加工機と若手仏壇製造企業による新しい工芸品の試作開発を行う",
+    "url": "https://www.kagoshima-it.jp/about/kikaku/",
+    "pass": 1
+   },
+   {
+    "quote": "センターならびに企業に導入されたレーザ加工機と川辺仏壇の製造技術（木地，塗り，彫刻，宮殿，金具，蒔絵）を融合した工芸品の可能性を探る",
+    "url": "https://www.kagoshima-it.jp/about/kikaku/",
+    "pass": 1
+   },
+   {
+    "quote": "繊維、染色に係る企業を対象として、会員相互の技術的な情報交換、当センターからの情報提供を基本に、会員と当センターが一体になり、売れる商品作り、新しい技術の導入を図り、会員企業の発展に寄与することを目的とする",
+    "url": "https://www.kagoshima-it.jp/about/shokuka/",
+    "pass": 1
+   },
+   {
+    "quote": "バーチャルものづくりを基盤としたDX化支援を行うために導入した機器について、県内企業に広く活用してもらい、企業のデジタル化を促進させ、県内ものづくり企業のDX化による製品開発能力を向上させる",
+    "url": "https://www.kagoshima-it.jp/about/seigi/",
+    "pass": 1
+   },
+   {
+    "quote": "【大盛況で終了しました！】令和７年度 JKA等導入機器説明会を開催します！（開催：2026/2/19）",
+    "url": "https://www.kagoshima-it.jp/info-cat/machine/",
+    "pass": 1
+   },
+   {
+    "quote": "競輪の補助（公益財団法人JKA 2025年度 機械振興補助事業）を受けて、「試料静止型 冷熱衝撃装置」を導入しました",
+    "url": "https://www.kagoshima-it.jp/info-cat/machine/",
+    "pass": 1
+   },
+   {
+    "quote": "試料静止型 冷熱衝撃装置を導入しました(令和７年度JKA補助事業)",
+    "url": "https://www.kagoshima-it.jp/info-cat/machine/",
+    "pass": 1
+   },
+   {
+    "quote": "公益財団法人JKA 導入機器説明会(GC/MS質量分析計)の開催●工業技術センター（開催：2025/3/11）",
+    "url": "https://www.kagoshima-it.jp/info-cat/machine/",
+    "pass": 1
+   },
+   {
+    "quote": "当センターは益財団法人JKAからの補助を受け試験研究機器を導入しています",
+    "url": "https://www.kagoshima-it.jp/info-cat/machine/",
+    "pass": 1
+   },
+   {
+    "quote": "今年度、導入したGC/MS質量分析計の説明会を…",
+    "url": "https://www.kagoshima-it.jp/info-cat/machine/",
+    "pass": 1
+   },
+   {
+    "quote": "当センターでは、県内製造業へも多く導入されている３Dプリンタについて、高度な利活用を促進する事を目的とし研究会活動を行っ…",
+    "url": "https://www.kagoshima-it.jp/info-cat/machine/",
+    "pass": 1
+   },
+   {
+    "quote": "【大盛況で終了しました！】令和７年度 JKA等導入機器説明会を開催します！（開催：2026/2/19）",
+    "url": "https://www.kagoshima-it.jp/info/r8site/",
+    "pass": 1
+   },
+   {
+    "quote": "一方、ASLM社は、「オープンイノベーション」方式を採用し、光学系はドイツのカール・ツァイス社の技術を、光源はアメリカのサイマー社の技術を導入して実用化に成功したと言われています",
+    "url": "https://www.hyogo-kg.jp/guide/outline",
+    "pass": 3
+   },
+   {
+    "quote": "企業が独力では解決が困難な課題で、センターが保有する機器、技術等で対応できるものについては、試験・分析等を受託しています",
+    "url": "https://www.hyogo-kg.jp/guide/outline",
+    "pass": 3
+   },
+   {
+    "quote": "センターでは、研究開発の過程で得られた成果を特許などの知的財産として保有し、その活用により企業における新技術の構築と新製品の開発に貢献します",
+    "url": "https://www.hyogo-kg.jp/guide/outline",
+    "pass": 3
+   },
+   {
+    "quote": "保有特許の詳細な内容、技術移転などについて遠慮なくご相談ください",
+    "url": "https://www.hyogo-kg.jp/guide/outline",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタの新素材研究／3D造形技術の中小企業支援",
+    "url": "https://www.hyogo-kg.jp/guide/outline",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタ - 兵庫県立工業技術センター",
+    "url": "https://www.hyogo-kg.jp/kiki/3011906",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタ",
+    "url": "https://www.hyogo-kg.jp/kiki/3011906",
+    "pass": 3
+   },
+   {
+    "quote": "3D systems社",
+    "url": "https://www.hyogo-kg.jp/kiki/3011906",
+    "pass": 3
+   },
+   {
+    "quote": "ProX DMP 200",
+    "url": "https://www.hyogo-kg.jp/kiki/3011906",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末にレーザを照射させて一層ずつ溶融して、複雑な3次元形状部品を 積層造形する金属3Dプリンタです",
+    "url": "https://www.hyogo-kg.jp/kiki/3011906",
+    "pass": 3
+   },
+   {
+    "quote": "当センターで保有する金属粉末材料 ・マルエージング鋼 ・AｌSi12 ・SUS17-4PH その他、材料については要相談",
+    "url": "https://www.hyogo-kg.jp/kiki/3011906",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター SLM L-PBF 金属積層造形 PROX200",
+    "url": "https://www.hyogo-kg.jp/kiki/3011906",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形装置 | 福岡県工業技術センター",
+    "url": "https://www.fitc.pref.fukuoka.jp/facility/setsubi/dep-list/meri/kinzoku-sekisou-zoukei.php",
+    "pass": 3
+   },
+   {
+    "quote": "この設備は（公財）JKAの助成を受けて導入されました",
+    "url": "https://www.fitc.pref.fukuoka.jp/facility/setsubi/dep-list/meri/kinzoku-sekisou-zoukei.php",
+    "pass": 3
+   },
+   {
+    "quote": "・施設整備や試験研究機器の導入を円滑に進め、県内中小企業への技術支援機能の充実・強化に努める",
+    "url": "https://web.pref.hyogo.lg.jp/kk23/documents/r6kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業だと（大企業でも）、たまにしか使わない高価な機器を保有するのは難しいです",
+    "url": "https://note.com/hyogo_kg/n/nef7ac5401de0",
+    "pass": 3
+   },
+   {
+    "quote": "AIや分子シミュレーションのような先進技術や新規導入機器の利用方法、地場産業の基礎技術などの研修です",
+    "url": "https://note.com/hyogo_kg/n/nef7ac5401de0",
+    "pass": 3
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "鹿児島空港から（九州自動車道・隼人道路経由）車で１５分（１２ｋｍ）",
+    "url": "https://www.kagoshima-it.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当センターならび企業に導入されたレーザ加工機と若手仏壇製造企業による新しい工芸品の試作開発を行う",
+    "url": "https://www.kagoshima-it.jp/about/kikaku/",
+    "pass": 1
+   },
+   {
+    "quote": "「バーチャル試作ラボ ものづくりDX」始めました！",
+    "url": "https://www.kagoshima-it.jp/about/seigi/",
+    "pass": 1
+   },
+   {
+    "quote": "JISに基づく骨材・土質、コンクリート、アスファルト、金属、樹脂・ゴム、精密測定・化学分析などの依頼試験を実施",
+    "url": "https://job.mynavi.jp/27/pc/search/corp294580/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "その代表的な成功例として、オランダに本部を置く半導体製造装置メーカーASML社（ASML Holding N.V.）の例が良く知られています",
+    "url": "https://www.hyogo-kg.jp/guide/outline",
+    "pass": 3
+   },
+   {
+    "quote": "同社は半導体露光装置（ステッパー、フォトリソグラフィ装置）をほぼ独占販売する世界最大の会社ですが、このキーテクノロジーの一つが極端紫外線リソグラフィ（EUVL、Extreme ultraviolet lithography）技術であり、兵庫県立大学の木下教授、渡辺教授らによって1986年に世界で初めて考案された技術です",
+    "url": "https://www.hyogo-kg.jp/guide/outline",
+    "pass": 3
+   },
+   {
+    "quote": "技術相談の内容に応じて、機器利用、依頼試験、共同研究等で対応させていただきます",
+    "url": "https://www.hyogo-kg.jp/guide/outline",
+    "pass": 3
+   },
+   {
+    "quote": "企業が独力では困難なアイデア段階での試作や、今後研究するかどうかを見極めるための実験をセンターのノウハウやシーズを活かして行います",
+    "url": "https://www.hyogo-kg.jp/guide/outline",
+    "pass": 3
+   },
+   {
+    "quote": "また、ポスターセッション、パネルと試作品の展示、交流会なども同時に行います",
+    "url": "https://www.hyogo-kg.jp/guide/outline",
+    "pass": 3
+   },
+   {
+    "quote": "県内外で開催される各種展示会等に、研究成果紹介パネル、センター紹介パネルおよび試作品等を展示し、利用促進と成果普及を推進します",
+    "url": "https://www.hyogo-kg.jp/guide/outline",
+    "pass": 3
+   },
+   {
+    "quote": "製品の試作、金型、ラティス構造体などの複雑形状の造形に対応します",
+    "url": "https://www.hyogo-kg.jp/kiki/3011906",
+    "pass": 3
+   },
+   {
+    "quote": "・レーザー仕様 : 200W 半導体レーザー",
+    "url": "https://www.fitc.pref.fukuoka.jp/facility/setsubi/dep-list/meri/kinzoku-sekisou-zoukei.php",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 企業との共同・受託研究、技術改善研究、製品試作支援（ﾃｸﾉﾄ",
+    "url": "https://web.pref.hyogo.lg.jp/kk23/documents/r6kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「量産品に異物混入があって原因が知りたい」「容器から液体がリークする経路を調べたい」「図面が無い いにしえの部品をCADデータにしたい」「新製品開発で良い材料は無いかしら」などなど…",
+    "url": "https://note.com/hyogo_kg/n/nef7ac5401de0",
+    "pass": 3
+   },
+   {
+    "quote": "製品開発で試作品の評価を担当した事例などがあります",
+    "url": "https://note.com/hyogo_kg/n/nef7ac5401de0",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "巻頭写真 表面粗さ測定機で鏡面とアルミ製カバーの表面粗さを測定する様子 きばっちょいもんさ 高耐久性軽量断熱シラス瓦 研…",
+    "url": "https://www.kagoshima-it.jp/library-index/kakougi-news/",
+    "pass": 1
+   },
+   {
+    "quote": "巻頭写真 火山ガラス微粉末（VGP）を用いたコンクリートで作製した歩道用の縁石 きばっちょいもんさ 焼酎粕乳酸発酵製品の…",
+    "url": "https://www.kagoshima-it.jp/library-index/kakougi-news/",
+    "pass": 1
+   },
+   {
+    "quote": "レーザ出力：300W/ファイバーレーザ 積層ピッチ：可変、最小10μm、最大50μm 造形エリア：140×140×100㎜ 対象材料：マルエージング鋼、AlSi12、SUS17-4PH、その他",
+    "url": "https://www.hyogo-kg.jp/kiki/3011906",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末にレーザを照射させて一層ずつ溶融して、複雑な3次元形状部品を 積層造形する金属3Dプリンタです",
+    "url": "https://www.hyogo-kg.jp/kiki/3011906",
+    "pass": 3
+   },
+   {
+    "quote": "当センターで保有する金属粉末材料 ・マルエージング鋼 ・AｌSi12 ・SUS17-4PH その他、材料については要相談",
+    "url": "https://www.hyogo-kg.jp/kiki/3011906",
+    "pass": 3
+   },
+   {
+    "quote": "窒素ガス利用かつ工業技術センター提供のマルエージング鋼の場合 11,000円／時間",
+    "url": "https://www.hyogo-kg.jp/kiki/3011906",
+    "pass": 3
+   },
+   {
+    "quote": "アルゴンガス利用かつ工業技術センター提供のアルミニウムの場合 12,000円／時間",
+    "url": "https://www.hyogo-kg.jp/kiki/3011906",
+    "pass": 3
+   },
+   {
+    "quote": "・造形用粉体 : SUS316L, SKH51, Inconel718",
+    "url": "https://www.fitc.pref.fukuoka.jp/facility/setsubi/dep-list/meri/kinzoku-sekisou-zoukei.php",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "一般財団法人 秋田県建設・ 工業技術センター - マイナビ — 一般財団法人 秋田県建設・ 工業技術センター - マイナビ マイナビ https://job.mynavi.jp > search > corp294580 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp294580/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "センター紹介 - 兵庫県立 工業技術センター — センター紹介 - 兵庫県立 工業技術センター 兵庫県立工業技術センター https://www.hyogo-kg.jp > ご利用案内",
+    "url": "https://www.hyogo-kg.jp/guide/outline",
+    "pass": 3
+   },
+   {
+    "quote": "工業技術センター （トップページ） - 沖縄県 — 工業技術センター （トップページ） - 沖縄県 沖縄県公式ホームページ https://www.pref.okinawa.jp > shigoto > kenkyu",
+    "url": "https://www.pref.okinawa.jp/shigoto/kenkyu/1011573/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタ - 兵庫県立 工業技術センター — 金属3Dプリンタ - 兵庫県立 工業技術センター 兵庫県立工業技術センター https://www.hyogo-kg.jp > kiki",
+    "url": "https://www.hyogo-kg.jp/kiki/3011906",
+    "pass": 3
+   },
+   {
+    "quote": "金属 積層造形装置 - 福岡県工業技術センター — 金属 積層造形装置 - 福岡県工業技術センター 福岡県工業技術センター https://www.fitc.pref.fukuoka.jp > kinzoku-sekisou-zoukei",
+    "url": "https://www.fitc.pref.fukuoka.jp/facility/setsubi/dep-list/meri/kinzoku-sekisou-zoukei.php",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形 装置 - 福岡県工業技術センター — 金属積層造形 装置 - 福岡県工業技術センター 福岡県工業技術センター https://www.fitc.pref.fukuoka.jp > kinzoku-sekisou-zoukei",
+    "url": "https://www.fitc.pref.fukuoka.jp/facility/setsubi/dep-list/meri/kinzoku-sekisou-zoukei.php",
+    "pass": 3
+   },
+   {
+    "quote": "金属 3Dプリンタ - 兵庫県立 工業技術センター — 金属 3Dプリンタ - 兵庫県立 工業技術センター 兵庫県立工業技術センター https://www.hyogo-kg.jp > kiki",
+    "url": "https://www.hyogo-kg.jp/kiki/3011906",
+    "pass": 3
+   },
+   {
+    "quote": "県立 工業技術センター — 県立 工業技術センター 兵庫県 PDF https://web.pref.hyogo.lg.jp > documents",
+    "url": "https://web.pref.hyogo.lg.jp/kk23/documents/r6kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "鹿児島県 工業技術センター – 県内企業の技術力向上を支援する ... — 鹿児島県 工業技術センター – 県内企業の技術力向上を支援する ... 鹿児島県工業技術センター https://www.kagoshima-it.jp",
+    "url": "https://www.kagoshima-it.jp/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【 工技センター 便り】兵庫県立 工業技術センター って知って ... 【 工技センター 便り】兵庫県立 工業技術センター って知って ... note https://note.com > 科学・テクノロジー > テクノロジー全般",
+    "url": "https://note.com/hyogo_kg/n/nef7ac5401de0",
+    "pass": 3
+   },
+   {
+    "quote": "オシロスコープを使いたくて 工業技術センター に申し込む - note オシロスコープを使いたくて 工業技術センター に申し込む - note note https://note.com > 科学・テクノロジー > ハードウェア",
+    "url": "https://note.com/mochan_en0123/n/ne8f3dddbd3fe",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県立 工業技術センター - note 兵庫県立 工業技術センター - note note https://note.com > hyogo_kg",
+    "url": "https://note.com/hyogo_kg",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【工技センター便り】兵庫県立工業技術センターって知ってますか？｜兵庫県立工業技術センター",
+    "url": "https://note.com/hyogo_kg/n/nef7ac5401de0",
+    "pass": 3
+   },
+   {
+    "quote": "【工技センター便り】兵庫県立工業技術センターって知ってますか？",
+    "url": "https://note.com/hyogo_kg/n/nef7ac5401de0",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県立工業技術センターと聞いて、どんなところか想像できますか？",
+    "url": "https://note.com/hyogo_kg/n/nef7ac5401de0",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県にあるんだろうな、県立ってあるから県の機関なんだろうな、工業技術ってあるから農業じゃないな…、ほとんどの人はこのくらいの認識だと思います。こんな認識でも大体合っていますが、せっかくこの記事を開いていただいたのでもう少し詳しく説明させて頂きます。",
+    "url": "https://note.com/hyogo_kg/n/nef7ac5401de0",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県立工業技術センターは昔風に言うと工業試験場、少しかしこまって言うと県立の試験研究機関です。このような機関は各都道府県にあり（市にもあるところもあります）、公設試験研究機関（公設試：こうせつし）と呼ばれます。中小企業（時には大企業も）の技術的な困りごとの相談に乗り、課題解決するための機関です。",
+    "url": "https://note.com/hyogo_kg/n/nef7ac5401de0",
+    "pass": 3
+   },
+   {
+    "quote": "して計測してみましょうとなると費用（受益者負担）をいただくことになります。機器を使って1回計測した程度ではよく分からない、もっと詳しく知恵を貸してほしいとなれば",
+    "url": "https://note.com/hyogo_kg/n/nef7ac5401de0",
+    "pass": 3
+   },
+   {
+    "quote": "などの契約を結び、ガッツリ手を取り合って課題解決に臨むこともあります。これ以外にも技術者のレベルを底上げするための",
+    "url": "https://note.com/hyogo_kg/n/nef7ac5401de0",
+    "pass": 3
+   },
+   {
+    "quote": "これら以外にも、技術相談や共同研究などに資する（と思える）シーズ研究も行っています。大学の先生と同じように日本学術振興会の科研費（科学研究費）に採択されて研究を進めている研究員も居ます。",
+    "url": "https://note.com/hyogo_kg/n/nef7ac5401de0",
+    "pass": 3
+   },
+   {
+    "quote": "オシロスコープを使いたくて工業技術センターに申し込む｜mochan",
+    "url": "https://note.com/mochan_en0123/n/ne8f3dddbd3fe",
+    "pass": 3
+   },
+   {
+    "quote": "オシロスコープを使いたくて工業技術センターに申し込む",
+    "url": "https://note.com/mochan_en0123/n/ne8f3dddbd3fe",
+    "pass": 3
+   },
+   {
+    "quote": "ダイソンモータのモータコイルのスイッチング波形を測定したくて、地域の工業技術センターに問い合わせてみた。回路の動作は、オシロスコープや電流プローブで波形を測定すると確証が得られる。",
+    "url": "https://note.com/mochan_en0123/n/ne8f3dddbd3fe",
+    "pass": 3
+   },
+   {
+    "quote": "工業技術センターは各都道府県に地域の中小企業の技術支援を目的とした公共施設で、低料金でいろいろな試験設備を利用することができる。工業技術センターによっては、電流プローブも利用できるところがあるので、これはありがたい。",
+    "url": "https://note.com/mochan_en0123/n/ne8f3dddbd3fe",
+    "pass": 3
+   },
+   {
+    "quote": "オシロスコープの場合は、１時間あたり1,000円くらいが相場のようだ。",
+    "url": "https://note.com/mochan_en0123/n/ne8f3dddbd3fe",
+    "pass": 3
+   },
+   {
+    "quote": "下は工業技術センターの一覧（国立研究開発法人産業技術総合研究所サイトより）",
+    "url": "https://note.com/mochan_en0123/n/ne8f3dddbd3fe",
+    "pass": 3
+   },
+   {
+    "quote": "オシロスコープは、安い物はAmazonやメルカリで3万円くらいで販売されているので、個人でも購入することができる。しかし、電流プローブは安くない。中古品でもほとんど流通していない。個人の趣味で購入するのは難しい。",
+    "url": "https://note.com/mochan_en0123/n/ne8f3dddbd3fe",
+    "pass": 3
+   },
+   {
+    "quote": "測定したい当日の朝に工業技術センターに電話をして、試験設備を利用したい旨を伝えると、当日の申し込みは不可で、1日以上前に予約が必要と言われた。理由を聞くと、事前の準備が必要だからと言うことだった。",
+    "url": "https://note.com/mochan_en0123/n/ne8f3dddbd3fe",
+    "pass": 3
+   },
+   {
+    "quote": "【工技センター便り】R7採用試験（2回目）のご案内",
+    "url": "https://note.com/hyogo_kg",
+    "pass": 3
+   },
+   {
+    "quote": "【機器紹介】フーリエ変換赤外分光光度計の使用例（ヘアピンの修理）",
+    "url": "https://note.com/hyogo_kg",
+    "pass": 3
+   },
+   {
+    "quote": "【工技センター便り】ひょうごコーギー誕生秘話",
+    "url": "https://note.com/hyogo_kg",
+    "pass": 3
+   },
+   {
+    "quote": "【研究最前線】AIで畜産もスマート化？ 〜枝肉画像からの「ロース芯」自動切り出しに挑戦〜",
+    "url": "https://note.com/hyogo_kg",
+    "pass": 3
+   },
+   {
+    "quote": "【技術解説】ニオイの正体を突き止めろ！〜皮革の「香り」や「におい」を科学で分析〜",
+    "url": "https://note.com/hyogo_kg",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "#長崎県 工業技術センター - Search / X #長崎県 工業技術センター - Search / X X https://x.com > Search",
+    "url": "https://x.com/hashtag/%E9%95%B7%E5%B4%8E%E7%9C%8C%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "akimasa daimaru - 山梨県 工業技術センター - 研究員 - LinkedIn akimasa daimaru - 山梨県 工業技術センター - 研究員 - LinkedIn LinkedIn https://jp.linkedin.com > ...",
+    "url": "https://jp.linkedin.com/in/akimasa-daimaru-aab12a121",
+    "pass": 3
+   },
+   {
+    "quote": "福田 純 - 兵庫県立 工業技術センター - 研究員 - LinkedIn 福田 純 - 兵庫県立 工業技術センター - 研究員 - LinkedIn LinkedIn https://jp.linkedin.com > 純-福田-a3173819b",
+    "url": "https://jp.linkedin.com/in/%E7%B4%94-%E7%A6%8F%E7%94%B0-a3173819b",
+    "pass": 3
+   },
+   {
+    "quote": "Kentaro Tokieda - 和歌山県 工業技術センター - 主任研究員 Kentaro Tokieda - 和歌山県 工業技術センター - 主任研究員 LinkedIn https://jp.linkedin.com > kentaro-tokieda-102250280",
+    "url": "https://jp.linkedin.com/in/kentaro-tokieda-102250280",
+    "pass": 3
+   },
+   {
+    "quote": "eizo hira - 宮崎県 工業技術センター - 研究員 | LinkedIn eizo hira - 宮崎県 工業技術センター - 研究員 | LinkedIn LinkedIn https://jp.linkedin.com > eizo-hira-671845118",
+    "url": "https://jp.linkedin.com/in/eizo-hira-671845118",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "福井県 工業技術センター | Fukui-shi Fukui - Facebook 福井県 工業技術センター | Fukui-shi Fukui - Facebook Facebook https://www.facebook.com > FukuiKougi",
+    "url": "https://www.facebook.com/FukuiKougi/",
+    "pass": 3
+   },
+   {
+    "quote": "工業技術センター - Home - Facebook 工業技術センター - Home - Facebook Facebook https://www.facebook.com > pages > 工業技術センター",
+    "url": "https://www.facebook.com/pages/%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/653701624649245",
+    "pass": 3
+   },
+   {
+    "quote": "釧路 工業技術センター (@KushiroIndustrialTechnologyCenter) 釧路 工業技術センター (@KushiroIndustrialTechnologyCenter) Facebook https://www.facebook.com > ... > Engineering Service",
+    "url": "https://www.facebook.com/KushiroIndustrialTechnologyCenter/",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県立 工業技術センター | Kobe-shi Hyogo - Facebook 兵庫県立 工業技術センター | Kobe-shi Hyogo - Facebook Facebook https://www.facebook.com > hyogo",
+    "url": "https://www.facebook.com/hyogo.kg/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.kagoshima-it.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kagoshima-it.jp/guide/setsubi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kagoshima-it.jp/guide/setsubi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kagoshima-it.jp/about/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kagoshima-it.jp/library-index/kakougi-news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kagoshima-it.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kagoshima-it.jp/about/kikaku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kagoshima-it.jp/about/shokuka/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kagoshima-it.jp/about/seigi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kagoshima-it.jp/about/chiki/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kagoshima-it.jp/about/shirasu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kagoshima-it.jp/info-cat/machine/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kagoshima-it.jp/info/r8site/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kagoshima-it.jp/guide/setsubi/price/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.kagoshima-it.jp/wpo/wp-content/uploads/2024/03/topsetubi.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kagoshima-it.jp/wpo/wp-content/uploads/2023/10/slider3.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp294580/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.windec.co.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyogo-kg.jp/guide/outline",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyogo-kg.jp/kiki/3011906",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/shizuoka-3dprinter-230227/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fitc.pref.fukuoka.jp/facility/setsubi/dep-list/meri/kinzoku-sekisou-zoukei.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyogo-kg.jp/kiki/3011906",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gitc.pref.nagano.lg.jp/zairyo/3Ddigital/setsubi/1_3Dprinter.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://world-hd.co.jp/app/wp-content/uploads/2023/04/Press20230420.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shimz.co.jp/company/about/sit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.awi.co.jp/ja/business/news/news-5489009671281000487.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp64832/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.alevelsearch.com/company/itc-net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk23/documents/r6kougyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/hyogo_kg/n/nef7ac5401de0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mochan_en0123/n/ne8f3dddbd3fe",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hyogo_kg",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hashtag/%E9%95%B7%E5%B4%8E%E7%9C%8C%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/akimasa-daimaru-aab12a121",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E7%B4%94-%E7%A6%8F%E7%94%B0-a3173819b",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/kentaro-tokieda-102250280",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/eizo-hira-671845118",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/FukuiKougi/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/653701624649245",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/KushiroIndustrialTechnologyCenter/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/hyogo.kg/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/hyogo_kg/n/nef7ac5401de0",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "工業技術センター",
+   "results": [
+    "https://www.kagoshima-it.jp/",
+    "https://www.fklab.fukui.fukui.jp/kougi/",
+    "https://www.pref.kochi.lg.jp/itc/",
+    "https://www.wakayama-kg.jp/",
+    "https://www.itc.pref.tokushima.jp/",
+    "https://www.pref.okinawa.jp/shigoto/kenkyu/1011573/index.html",
+    "https://www.pref.nagasaki.jp/organization/sangyorodobu/kogyo-c/",
+    "https://www.hyogo-kg.jp/kiki",
+    "https://www.pref.okayama.jp/site/kougi/",
+    "https://www.hyogo-kg.jp/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "工業技術センター 会社概要 資本金 設立",
+   "results": [
+    "https://job.mynavi.jp/27/pc/search/corp294580/outline.html",
+    "https://www.windec.co.jp/about/",
+    "https://www.hyogo-kg.jp/guide/outline",
+    "https://global.honda/jp/RandD/about/cpgc/",
+    "https://www.pref.okinawa.jp/shigoto/kenkyu/1011573/index.html",
+    "https://excellence-japan.jp/index.php?m=home&c=Lists&a=index&tid=39",
+    "https://www.satokogyo.co.jp/company/tec/outline.html",
+    "https://www.fklab.fukui.fukui.jp/kougi/",
+    "https://www.shonan-gijyutsuc.co.jp/company/outline/",
+    "https://ja.wikipedia.org/wiki/インテック"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "工業技術センター 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.iri.pref.shizuoka.jp/printer/",
+    "https://www.hyogo-kg.jp/kiki/3011906",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/shizuoka-3dprinter-230227/",
+    "https://www.youtube.com/watch?v=Byfy7tsLawE",
+    "https://www.fitc.pref.fukuoka.jp/facility/setsubi/dep-list/meri/kinzoku-sekisou-zoukei.php",
+    "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "https://www.nikkei.com/article/DGXZQOCC288160Y3A620C2000000/",
+    "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "https://www.gitc.pref.nagano.lg.jp/zairyo/3Ddigital/setsubi/1_3Dprinter.html",
+    "https://www.sangyosupport-shimada.com/info/city/2023/000320.html"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "工業技術センター 金属積層造形 設備",
+   "results": [
+    "https://www.fitc.pref.fukuoka.jp/facility/setsubi/dep-list/meri/kinzoku-sekisou-zoukei.php",
+    "https://www.hyogo-kg.jp/kiki/3011906",
+    "https://www.gitc.pref.nagano.lg.jp/zairyo/3Ddigital/setsubi/1_3Dprinter.html",
+    "https://www.iri.pref.shizuoka.jp/printer/",
+    "https://www.iri-tokyo.jp/research/field/sekiso-zokei/",
+    "https://www.itc.pref.toyama.jp/equipment/e_data/1333h263dmr.html",
+    "https://www.fklab.fukui.fukui.jp/kougi/3dtrial/3d_03.html",
+    "https://jampt.jp/",
+    "https://www.pref.chiba.lg.jp/sanken/kikisetsubi/manufacturing/modelling/metal-x.html",
+    "https://www.gitc.pref.nagano.lg.jp/pdf/gijutujoho/gijutujoho452.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "工業技術センター 株主 出資 親会社",
+   "results": [
+    "https://world-hd.co.jp/app/wp-content/uploads/2023/04/Press20230420.pdf",
+    "https://www.shimz.co.jp/company/about/sit/",
+    "https://www.awi.co.jp/ja/business/news/news-5489009671281000487.html",
+    "https://www.nikkei.com/article/DGXLRSP499736_Q9A110C1000000/",
+    "https://www.spp.co.jp/corporate/introduction/",
+    "https://www.trinityind.co.jp/stocks/stockholder/",
+    "https://www.toyoda-gosei.co.jp/news/details.php?id=69",
+    "https://www.g-tekt.jp/company/history/",
+    "https://www.chugai.co.jp/ir/stock-information/",
+    "https://ja.wikipedia.org/wiki/東鉄工業"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "工業技術センター 売上高 従業員数",
+   "results": [
+    "https://job.mynavi.jp/27/pc/search/corp64832/outline.html",
+    "https://www.alevelsearch.com/company/itc-net/",
+    "https://web.pref.hyogo.lg.jp/kk23/documents/r6kougyou.pdf",
+    "https://www.jri.co.jp/file/report/jrireview/pdf/14959.pdf",
+    "https://www.kagoshima-it.jp/",
+    "https://www.tec-lab.pref.gunma.jp/wp-content/uploads/2023/02/20190117.pdf",
+    "https://www.senkon-itc.jp/org/",
+    "http://kigyou.ynet.or.jp/mkpdf.php?s=1756",
+    "https://job.mynavi.jp/27/pc/search/corp294580/outline.html",
+    "https://salesnow.jp/db/companies/jcbukmhfd6c84vey2"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 工業技術センター",
+   "results": [
+    "https://note.com/hyogo_kg/n/nef7ac5401de0",
+    "https://note.com/mochan_en0123/n/ne8f3dddbd3fe",
+    "https://note.com/hyogo_kg",
+    "https://note.com/hyogo_kg/n/n13345ef88559",
+    "https://note.com/hyogo_kg/n/n86ca62398ed6",
+    "https://note.com/hyogo_kg/n/ne60530295516",
+    "https://note.com/hyogo_kg/n/nd4c8ec5874f8",
+    "https://note.com/hyogo_kg/n/nf574d1fa10ed",
+    "https://note.com/hyogo_kg/n/na3888d4a8c79",
+    "https://note.com/spiot_food_rds/n/n4d28b867370f"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:x.com 工業技術センター",
+   "results": [
+    "https://x.com/ShizuKougiken",
+    "https://x.com/pref_yamagata/status/1973946111552581650",
+    "https://x.com/hashtag/%E9%95%B7%E5%B4%8E%E7%9C%8C%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+    "https://x.com/preftokushima/status/2109917716039799206",
+    "https://x.com/preftokushima/status/2089273426322354442",
+    "https://x.com/dounan_TW/status/2068984693312069771",
+    "https://x.com/APPLE_TREE_CO/status/1958454518162870416",
+    "https://x.com/Saga_Bizinfo/status/2118574804387364961",
+    "https://x.com/hashtag/%E4%BD%90%E8%B3%80%E7%9C%8C%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+    "https://x.com/hashtag/佐賀県工業技術センター"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com 工業技術センター",
+   "results": [
+    "https://jp.linkedin.com/in/akimasa-daimaru-aab12a121",
+    "https://jp.linkedin.com/in/%E7%B4%94-%E7%A6%8F%E7%94%B0-a3173819b",
+    "https://jp.linkedin.com/in/kentaro-tokieda-102250280",
+    "https://jp.linkedin.com/in/eizo-hira-671845118",
+    "https://jp.linkedin.com/in/%E4%B8%80-%E6%A3%AE-b6a74441",
+    "https://jp.linkedin.com/in/%E7%9C%9F%E4%B8%80-%E5%BC%B7%E5%8A%9B-a62b52a6",
+    "https://jp.linkedin.com/in/haruyuki-endo-449854117",
+    "https://jp.linkedin.com/in/chikahiro-miyokawa-77b732111",
+    "https://jp.linkedin.com/in/%E6%B5%A9%E4%BD%B3-%E7%9F%B3%E5%9E%A3-99a37087",
+    "https://jp.linkedin.com/in/太地-中井-7bb307147"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com 工業技術センター",
+   "results": [
+    "https://www.facebook.com/FukuiKougi/",
+    "https://www.facebook.com/pages/%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/653701624649245",
+    "https://www.facebook.com/KushiroIndustrialTechnologyCenter/",
+    "https://www.facebook.com/hyogo.kg/",
+    "https://www.facebook.com/pref.yamagata.koho/posts/%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%82%84%E7%A7%91%E5%AD%A6%E3%82%92%E6%A5%BD%E3%81%97%E3%81%8F%E4%BD%93%E9%A8%93%E3%81%97%E3%82%88%E3%81%86%E5%B1%B1%E5%BD%A2%E7%9C%8C%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AE%E4%B8%80%E8%88%AC%E5%85%AC%E9%96%8B%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99%E6%99%AE%E6%AE%B5%E8%A6%8B%E3%82%8B%E6%A9%9F%E4%BC%9A%E3%81%AE%E5%B0%91%E3%81%AA%E3%81%84%E7%A0%94%E7%A9%B6%E8%A8%AD%E5%82%99%E3%81%AE%E8%A6%8B%E5%AD%A6%E3%82%84%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E7%A7%91%E5%AD%A6%E3%82%92%E4%BD%93%E9%A8%93%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC%E3%82%92%E5%A4%9A%E6%95%B0%E3%81%94%E7%94%A8%E6%84%8F/1561427602678509/",
+    "https://www.facebook.com/276591135701262",
+    "https://www.facebook.com/157590597590620",
+    "https://www.facebook.com/FukuiKougi/posts/%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AE%E4%B8%80%E8%88%AC%E5%85%AC%E9%96%8B%E3%82%9211%E6%9C%8825%E6%97%A526%E6%97%A5%E3%81%AB%E8%A1%8C%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F11%E6%9C%8825%E6%97%A526%E6%97%A5%E3%81%AE%E7%A6%8F%E4%BA%95%E7%9C%8C%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E4%B8%80%E8%88%AC%E5%85%AC%E9%96%8B%E3%81%AB%E3%81%A6%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A8%E3%82%84%E8%A8%AD%E5%82%99%E7%AD%89%E3%81%AE%E5%AE%9F%E6%BC%94%E5%B1%95%E7%A4%BA%E3%82%92%E8%A1%8C%E3%81%84%E7%84%A1%E4%BA%8B%E7%B5%82%E4%BA%86%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE/214221624225265/",
+    "https://www.facebook.com/mijikananagasaki/posts/30%E7%A7%92%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8B%E9%95%B7%E5%B4%8E%E7%9C%8C%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%82%92%E8%A1%8C%E3%81%86%E7%9C%8C%E5%86%85%E4%BC%81%E6%A5%AD%E3%82%92%E6%8A%80%E8%A1%93%E9%9D%A2%E3%81%A7%E6%94%AF%E6%8F%B4%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%BF%E3%82%B8%E3%82%AB%E3%81%AA%E3%83%8A%E3%82%AC%E3%82%B5%E3%82%AD%E3%81%AE%E8%A6%8B%E9%80%83%E3%81%97%E9%85%8D%E4%BF%A1%E3%81%AF%E9%95%B7%E5%B4%8E%E7%9C%8C%E5%85%AC%E5%BC%8Fyoutube%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB%E9%95%B7%E5%B4%8E%E3%81%8C%E3%82%93%E3%81%B0%E3%82%89/1428846906011499/",
+    "https://www.facebook.com/IIRI.DESIGN.LAB/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "工業技術センター note 社長",
+   "results": [
+    "https://note.com/hyogo_kg/n/nef7ac5401de0",
+    "https://www.projectdesign.jp/articles/news/656a75a0-7900-456e-9173-3af811cf8001",
+    "https://note.com/ipcc",
+    "https://www.hyogo-kg.jp/",
+    "https://toyama-pref.note.jp/n/n72905e85f92f",
+    "https://www.pref.fukuoka.lg.jp/gyosei-shiryo/fitc-pref-fukuoka-jp-kenkyu-seika-application-note.html",
+    "https://note.com/ipcc/m/m84bcb271e045",
+    "https://www.ipcc.or.jp/recruit/technique/ob/person/",
+    "https://yrit.jp/about/salutation/",
+    "https://www.wakayama-kg.jp/about/message.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "工業技術センター X 投稿",
+   "results": [
+    "https://www.hyogo-kg.jp/kiki/3106690",
+    "https://www5.pref.iwate.jp/~kiri/news-detail.php?id=597",
+    "https://www.fitc.pref.fukuoka.jp/facility/setsubi/dep-list/ctri/koubunkainou-x-ray-ct.php",
+    "https://tiit.or.jp/search/153/",
+    "https://info.shiga-irc.go.jp/public/115m00_bihin.php?kinou=list&KNO=M12&SCD=1&RtKbn=1-c",
+    "https://www.iri.pref.shizuoka.jp/equipment/11635/",
+    "https://www.kagoshima-it.jp/info/134-6/",
+    "https://www.fklab.fukui.fukui.jp/kougi/machines/list/00843.html",
+    "https://www.pref.nagasaki.lg.jp/organization/sangyorodobu/kogyo-c/",
+    "https://www2.pref.iwate.jp/~kiri/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部28頁・検索12回）",
+  "資本金": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部28頁・検索12回）",
+  "創業年度": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部28頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部28頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部28頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部28頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部28頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部28頁・検索12回）",
+  "資本金・株主": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部28頁・検索12回）"
+ }
+}

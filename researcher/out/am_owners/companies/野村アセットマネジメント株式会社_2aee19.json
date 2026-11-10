@@ -1,0 +1,1585 @@
+{
+ "name": "野村アセットマネジメント株式会社",
+ "aliases": [],
+ "context": "PBF=yes 装置=日本電子 出典=https://maonline.jp/kabuhoyu",
+ "researched_at": "2026-11-10T18:22:14.302531+00:00",
+ "official_url": "https://www.nomura-am.co.jp/",
+ "identified_by": "search:yahoo_jp:野村アセットマネジメント",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社",
+    "value": "〒135-0061 東京都江東区豊洲二丁目2番1号[ アクセス ] TEL：(03)6387-5000 (大代表)",
+    "url": "https://www.nomura-am.co.jp/corporate/gaiyo/gaiyo.html",
+    "pass": 1
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：1959年（昭和34年）12月1日",
+    "url": "https://www.nomura-am.co.jp/corporate/gaiyo/gaiyo.html",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "171億8,035万円",
+    "url": "https://www.nomura-am.co.jp/corporate/gaiyo/gaiyo.html",
+    "pass": 1
+   }
+  ],
+  "株主": [
+   {
+    "label": "株主",
+    "value": "野村ホールディングス株式会社",
+    "url": "https://www.nomura-am.co.jp/corporate/gaiyo/gaiyo.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "投資助言・代理業及び投資運用業に係る業務",
+    "url": "https://www.nomura-am.co.jp/corporate/gaiyo/gaiyo.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "社員1,035名 (2026年3月現在)",
+    "url": "https://www.nomura-am.co.jp/corporate/gaiyo/gaiyo.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "用途・客の産業": [
+   {
+    "quote": "「野村世界業種別投資シリーズ（世界半導体株投資）」 足元の市場動向に関する運用担当者のコメント(1,268KB)",
+    "url": "https://www.nomura-am.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「NEXT FUNDS 日経半導体株指数連動型上場投信」純資産総額が1,000億円を突破(229KB)",
+    "url": "https://www.nomura-am.co.jp/corporate/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "NEXT FUNDS S&P 500 半導体・半導体製造装置35％キャップ指数連動型上場投信を新規上場(222KB)",
+    "url": "https://www.nomura-am.co.jp/corporate/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "「S&P 500 半導体・半導体製造装置35％キャップ指数（税引前配当込み）」を連動対象とするETF（上場投信）を新規設定～3月27日東京証券取引所へ上場予定～(173KB)",
+    "url": "https://www.nomura-am.co.jp/corporate/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "新しい投資信託「野村インデックスファンド・日経半導体株（愛称：Funds‐i 日経半導体株）」を設定(254KB)",
+    "url": "https://www.nomura-am.co.jp/corporate/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "NEXT FUNDS 日経半導体株指数連動型上場投信を新規上場(269KB)",
+    "url": "https://www.nomura-am.co.jp/corporate/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "「日経半導体株指数」を連動対象とするETF（上場投信）を新規設定～6月4日東京証券取引所へ上場予定～(269KB)",
+    "url": "https://www.nomura-am.co.jp/corporate/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "「野村世界業種別投資シリーズ（世界半導体株投資）」 足元の市場動向に関する運用担当者のコメント(1,268KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "【サキドリ（半導体）】「株価調整も、成長期待は変わらず」(612KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「野村世界業種別投資シリーズ（世界半導体株投資）」 好決算で確認された半導体市場の成長力(1,662KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「野村世界業種別投資シリーズ（世界半導体株投資）」 半導体市場の見通しとファンドのパフォーマンス(1,650KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "【サキドリ（半導体）】「世界の半導体株市場の動向」(713KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「野村ACI先進医療インパクト投資 Cコース／Dコース」 2026年7月21日決算の分配金について(1,030KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「NEXT FUNDS 日経半導体株指数連動型上場投信」純資産総額が1,000億円を突破(229KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "【サキドリ（半導体）】「メモリ主導で半導体市場が拡大」(696KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「野村世界業種別投資シリーズ（世界半導体株投資）」の純資産総額が1兆円を突破(1,467KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "【サキドリ（半導体）】「半導体はあらゆる産業を支えている」(1,202KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「野村世界業種別投資シリーズ（世界半導体株投資）」の純資産総額が9,000億円を突破(1,460KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「野村世界業種別投資シリーズ（世界半導体株投資）」の純資産総額が8,000億円を突破(1,464KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「野村ACI先進医療インパクト投資 Cコース／Dコース」 2026年4月20日決算の分配金について(1,045KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "【サキドリ（半導体）】「需給ひっ迫を受けメモリ価格が上昇」(768KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「野村世界業種別投資シリーズ（世界半導体株投資）」の純資産総額が7,000億円を突破(1,476KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「野村ACI先進医療インパクト投資 Cコース／Dコース」 2026年2月19日決算の分配金について(1,037KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「野村ACI先進医療インパクト投資」 インパクトレポート 2026(2,206KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "【サキドリ（半導体）】「AIインフラ投資の継続的な拡大に期待」(740KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「野村ACI先進医療インパクト投資 Cコース／Dコース」 2026年1月19日決算の分配金について(1,036KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「野村世界業種別投資シリーズ（世界半導体株投資）」の純資産総額が6,000億円を突破(1,476KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「野村ACI先進医療インパクト投資 Cコース／Dコース」 2025年12月19日決算の分配金について(1,036KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "【サキドリ（半導体）】「2026年も半導体需要は堅調」(748KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「野村ACI先進医療インパクト投資 Cコース／Dコース」 2025年11月19日決算の分配金について(1,036KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「野村世界業種別投資シリーズ（世界半導体株投資）」 半導体市場の成長とファンドのパフォーマンス(1,602KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「野村ACI先進医療インパクト投資 Cコース／Dコース」 2025年10月20日決算の分配金について(1,035KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体関連銘柄中心に株価は大きく下落し、日経平均株価は一時約",
+    "url": "https://www.nomura-am.co.jp/news/20261105111133010296.html",
+    "pass": 1
+   },
+   {
+    "quote": "半導体ビジネスが、民主党主導による政治運営に変わることで、データセンター建設への制約など事業の減速が懸念され、",
+    "url": "https://www.nomura-am.co.jp/news/20261105111133010296.html",
+    "pass": 1
+   },
+   {
+    "quote": "半導体関連銘柄が一段安となる展開となりました",
+    "url": "https://www.nomura-am.co.jp/news/20261105111133010296.html",
+    "pass": 1
+   },
+   {
+    "quote": "半導体ビジネスは拡大基調にあるとの認識は変えていません",
+    "url": "https://www.nomura-am.co.jp/news/20261105111133010296.html",
+    "pass": 1
+   },
+   {
+    "quote": "半導体関連の影響が大きい韓国・台湾市場と比べ、日本ではそれ以外の幅広い業種でも堅調な業績が確認されており、収益基盤の広がりも強みと捉えています",
+    "url": "https://www.nomura-am.co.jp/news/20261105111133010296.html",
+    "pass": 1
+   },
+   {
+    "quote": "半導体関連銘柄の株価動向、および中間選挙後のトランプ政権の運営状況を注視する必要はありますが、これら不透明な要素が織り込まれていけば、日本株市場の魅力の高さは再度見直されると考えています",
+    "url": "https://www.nomura-am.co.jp/news/20261105111133010296.html",
+    "pass": 1
+   },
+   {
+    "quote": "しかし、半導体関連企業や米大手テック企業の直近の企業業績を精査しますと、",
+    "url": "https://www.nomura-am.co.jp/news/20261105111133010296.html",
+    "pass": 1
+   },
+   {
+    "quote": "現地11月3日の米国中間選挙後、日本株市場ではAI・半導体関連株を中心に大きな調整が見られました",
+    "url": "https://www.nomura-am.co.jp/news/20261110U3A1O3UK.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "米国の政策運営の変化やデータセンター建設への規制なとどによりA1・半導体関連",
+    "url": "https://www.nomura-am.co.jp/news/20261110U3A1O3UK.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "プアンドでは、 AI・半導体関連銘柄についてはデータセンター需要の拡大なとどファンダメンタルズ面の成長は継続し",
+    "url": "https://www.nomura-am.co.jp/news/20261110U3A1O3UK.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ているものの、 株価についてはいったん天井をつけたと考え徐々にAI・半導体関連銘柄のポジション縮小を行ないつ",
+    "url": "https://www.nomura-am.co.jp/news/20261110U3A1O3UK.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "抜き\"のような形でかえってその後の株価上昇のエネルギーとなったことが記憶に新しく、 その再現が意識されたことも",
+    "url": "https://www.nomura-am.co.jp/news/20261110U3A1O3UK.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "式市場では、データセンター建設で恩恵を受けやすい AI (人工知能)・半導体関連株が大幅に下落したほ",
+    "url": "https://www.nomura-am.co.jp/news/20261110_5percent.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "こうした流れが 6 日の日本株式市場にも波及し、AI・半導体関連株のみならず、幅広い銘柄が",
+    "url": "https://www.nomura-am.co.jp/news/20261110_5percent.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "半導体の投資信託を徹底比較｜野村・eMAXIS・ニッセイ",
+    "url": "https://note.com/tag/%E9%87%8E%E6%9D%91%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "ゆるっと半導体｜AI・半導体ニュースをやさしく解説",
+    "url": "https://note.com/tag/%E9%87%8E%E6%9D%91%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "日本株はじめました！200Aって何？日経半導体ETFを買ってみた✨",
+    "url": "https://note.com/tag/%E9%87%8E%E6%9D%91%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "ETF（上場企業信託）の基礎や専門家によるコラムなど、",
+    "url": "https://www.nomura-am.co.jp/corporate/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "「Solactive CSOP 中国AI関連株（香港上場）指数（税引後配当込み）」を連動対象とするETF（上場投信）の新規設定について～11月30日東京証券取引所へ上場予定～(242KB)",
+    "url": "https://www.nomura-am.co.jp/corporate/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "NEXT FUNDS Solactiveグローバル・メモリ指数連動型上場投信を新規上場(231KB)",
+    "url": "https://www.nomura-am.co.jp/corporate/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "「Solactiveグローバル・メモリ指数（税引前配当込み）」を連動対象とするETF（上場投信）の新規設定について～9月30日東京証券取引所へ上場予定～(234KB)",
+    "url": "https://www.nomura-am.co.jp/corporate/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "NEXT FUNDS 日本株政策フォーカス上場投信を新規上場(214KB)",
+    "url": "https://www.nomura-am.co.jp/corporate/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "NEXT FUNDS 日本株政策フォーカス上場投信の新規設定について～7月14日東京証券取引所へ上場予定～(217KB)",
+    "url": "https://www.nomura-am.co.jp/corporate/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "「NEXT FUNDS 日経半導体株指数連動型上場投信」純資産総額が1,000億円を突破(229KB)",
+    "url": "https://www.nomura-am.co.jp/corporate/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "NEXT FUNDS 日経エンタメ・コンテンツ株指数連動型上場投信を新規上場(223KB)",
+    "url": "https://www.nomura-am.co.jp/corporate/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "「日経エンタメ・コンテンツ株指数（トータルリターン）」を連動対象とするETF（上場投信）の新規設定について～6月9日東京証券取引所へ上場予定～(227KB)",
+    "url": "https://www.nomura-am.co.jp/corporate/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "NEXT FUNDS FTSE日本株高配当キャッシュフロー50指数連動型上場投信を新規上場(231KB)",
+    "url": "https://www.nomura-am.co.jp/corporate/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "「FTSE日本株高配当キャッシュフロー50指数（配当込み）」を連動対象とするETF（上場投信）の新規設定について～3月3日東京証券取引所へ上場予定～(234KB)",
+    "url": "https://www.nomura-am.co.jp/corporate/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "NEXT FUNDS ユーロ・ストックス50指数（為替ヘッジなし）連動型上場投信、NEXT FUNDS ドイツ株式・DAX（為替ヘッジなし）連動型上場投信を新規上場(180KB)",
+    "url": "https://www.nomura-am.co.jp/corporate/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "「ユーロ・ストックス50® 指数」、「DAX®（ドイツ株価指数）」を連動対象とするETF（上場投信）の新規設定について～12月17日東京証券取引所へ上場予定～(185KB)",
+    "url": "https://www.nomura-am.co.jp/corporate/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "「TIP FactSet 台湾イノベイティブ・テクノロジー50指数（税引前配当込み）」を連動対象とするETF（上場投信）を新規上場～9月18日東京証券取引所および台湾証券取引所に日台間初の相互上場～(191KB)",
+    "url": "https://www.nomura-am.co.jp/corporate/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "日本と台湾におけるETFの初めての相互上場について～9月18日東京証券取引所および台湾証券取引所それぞれに新たなETFを上場予定～(245KB)",
+    "url": "https://www.nomura-am.co.jp/corporate/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "NEXT FUNDS ブルームバーグ米国国債（7-10年）インデックス（75%為替ヘッジあり）連動型上場投信を新規上場(173KB)",
+    "url": "https://www.nomura-am.co.jp/corporate/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "NEXT FUNDS S&P 500 配当貴族指数連動型上場投信を新規上場(175KB)",
+    "url": "https://www.nomura-am.co.jp/corporate/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "「ブルームバーグ米国国債（7-10年）インデックスTTM（75%為替ヘッジあり、円ベース）」を連動対象とするETF（上場投信）を新規設定～6月25日東京証券取引所へ上場予定～(167KB)",
+    "url": "https://www.nomura-am.co.jp/corporate/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "国内初ETF「NEXT FUNDS」、上場30周年のお知らせ～新スローガン「ETFで、次へいこう",
+    "url": "https://www.nomura-am.co.jp/corporate/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "「S&P 500 配当貴族指数（税引前配当込み）」を連動対象とするETF（上場投信）を新規設定～6月11日東京証券取引所へ上場予定～(170KB)",
+    "url": "https://www.nomura-am.co.jp/corporate/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "NEXT FUNDS S&P 500 半導体・半導体製造装置35％キャップ指数連動型上場投信を新規上場(222KB)",
+    "url": "https://www.nomura-am.co.jp/corporate/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "「S&P 500 半導体・半導体製造装置35％キャップ指数（税引前配当込み）」を連動対象とするETF（上場投信）を新規設定～3月27日東京証券取引所へ上場予定～(173KB)",
+    "url": "https://www.nomura-am.co.jp/corporate/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "非上場インフラ企業の株式へ投資する国内籍公募投資信託を提供～野村マッコーリー・プライベート・インフラ・ファンド～(481KB)",
+    "url": "https://www.nomura-am.co.jp/corporate/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "NEXT FUNDS MSCIジャパン気候変動指数（セレクト）連動型上場投信を新規上場(461KB)",
+    "url": "https://www.nomura-am.co.jp/corporate/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "「MSCIジャパン気候変動指数（セレクト）（配当込み）」を連動対象とするETF（上場投信）を新規設定～12月3日東京証券取引所へ上場予定～(446KB)",
+    "url": "https://www.nomura-am.co.jp/corporate/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "ETF（上場企業信託）の基礎や専門家によるコラムなど、",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「Solactive CSOP 中国AI関連株（香港上場）指数（税引後配当込み）」を連動対象とするETF（上場投信）の新規設定について～11月30日東京証券取引所へ上場予定～(242KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「NEXT FUNDS 日経300株価指数連動型上場投信」基準価額と市場価格の重要な乖離に関するお知らせ(189KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "NEXT FUNDS Solactiveグローバル・メモリ指数連動型上場投信を新規上場(231KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "【新商品】NEXT FUNDS Solactiveグローバル・メモリ指数連動型上場投信",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「NEXT FUNDS MSCI ジャパンカントリー指数（セレクト）連動型上場投信」 償還価額等のお知らせ(104KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「NEXT FUNDS MSCI ジャパンカントリー指数（セレクト）連動型上場投信」保有する現物株式等の売却のお知らせ(184KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "上場投資信託（ETF）の投資信託約款変更のお知らせ(257KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "上場投資信託（ETF）の連動対象指標の構成銘柄数変更のお知らせ(205KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「Solactiveグローバル・メモリ指数（税引前配当込み）」を連動対象とするETF（上場投信）の新規設定について～9月30日東京証券取引所へ上場予定～(234KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "上場投資信託（ETF）の基準価額表示単位の変更に関するお知らせ(196KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "上場投資信託（ETF）の受益権分割および売買単位変更に関するお知らせ(509KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「NEXT FUNDS MSCI ジャパンカントリー指数（セレクト）連動型上場投信」の信託終了にかかる約款変更のお知らせ(471KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「NEXT FUNDS 日経300株価指数連動型上場投信」基準価額と市場価格の重要な乖離に関するお知らせ(193KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「NEXT FUNDS MSCI ジャパンカントリー指数（セレクト）連動型上場投信」の信託終了にかかる約款変更の可能性に関するお知らせ(372KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "NEXT FUNDS 日本株政策フォーカス上場投信を新規上場(214KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "【新商品】NEXT FUNDS 日本株政策フォーカス上場投信",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「NEXT FUNDS TIP FactSet 台湾イノベイティブ・テクノロジー50指数連動型上場投信」設定・解約の停止に関するお知らせ(182KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「NEXT FUNDS ブルームバーグ･フランス国債(7-10年)インデックス(為替ヘッジあり)連動型上場投信」償還価額等のお知らせ(121KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "NEXT FUNDS 日本株政策フォーカス上場投信の新規設定について～7月14日東京証券取引所へ上場予定～(217KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「NEXT FUNDS ブルームバーグ・フランス国債(7-10年)インデックス(為替ヘッジあり)連動型上場投信」保有する債券先物の全決済のお知らせ(192KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「NEXT FUNDS 日経半導体株指数連動型上場投信」純資産総額が1,000億円を突破(229KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "【公告】上場投資信託 受益者名義登録停止のお知らせ(118KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "NEXT FUNDS 日経エンタメ・コンテンツ株指数連動型上場投信を新規上場(223KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "【新商品】NEXT FUNDS 日経エンタメ・コンテンツ株指数連動型上場投信",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "上場投信を設定、上場",
+    "url": "https://www.nomura-am.co.jp/corporate/gaiyo/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本初のコモディティETFである金価格連動型上場投資信託を設定、上場",
+    "url": "https://www.nomura-am.co.jp/corporate/gaiyo/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "〈NEXTFUNDS〉TOPIX-17指数に連動するETFシリーズ17本を設定、上場",
+    "url": "https://www.nomura-am.co.jp/corporate/gaiyo/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本初のマルチアセット型ETFを設定、上場",
+    "url": "https://www.nomura-am.co.jp/corporate/gaiyo/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本初のアクティブ運用型ETFを設定、上場",
+    "url": "https://www.nomura-am.co.jp/corporate/gaiyo/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本初、創業期から上場直前までの未上場株投資を含む日本株公募投信を設定",
+    "url": "https://www.nomura-am.co.jp/corporate/gaiyo/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ETF（上場企業信託）の基礎や専門家によるコラムなど、",
+    "url": "https://www.nomura-am.co.jp/important/20261022083000.html",
+    "pass": 1
+   },
+   {
+    "quote": "加えて、なお途上との認識である株主還元強化、ガバナンス改善など日本のユニークな要因も継続すると考えており、この観点でも中長期的な日本株市場に対する見方は総じてポジティブという判断に変更はありません",
+    "url": "https://www.nomura-am.co.jp/news/20261105111133010296.html",
+    "pass": 1
+   },
+   {
+    "quote": "ETF（上場企業信託）の基礎や専門家によるコラムなど、",
+    "url": "https://www.nomura-am.co.jp/news/20261021123000010226.html",
+    "pass": 1
+   },
+   {
+    "quote": "ETF（上場企業信託）の基礎や専門家によるコラムなど、",
+    "url": "https://www.nomura-am.co.jp/news/20260724120000009567.html",
+    "pass": 1
+   }
+  ],
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "「NEXT FUNDS MSCI ジャパンカントリー指数（セレクト）連動型上場投信」保有する現物株式等の売却のお知らせ(184KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「NEXT FUNDS ブルームバーグ・フランス国債(7-10年)インデックス(為替ヘッジあり)連動型上場投信」保有する債券先物の全決済のお知らせ(192KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "配当貴族通信 第15回 継続保有でみる、配当貴族指数のチカラ(1,572KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「NEXT FUNDS S&P米国株式・債券バランス保守型指数（為替ヘッジあり）連動型上場投信」保有する株価指数先物および債券先物の全決済のお知らせ(193KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「NEXT FUNDS S&P 500スコアリング&スクリーニング指数連動型上場投信」保有する株価指数先物の全決済のお知らせ(196KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「イスラエルの株式・債券等」の保有状況について(354KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「NEXT FUNDS SolactiveジャパンESGコア指数連動型上場投信」保有する現物株式等の売却のお知らせ(192KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "アダニ・グループの株式・債券の保有状況について(369KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「NEXT FUNDS 日経・JPX白金指数連動型上場投信」保有する商品先物の全決済のお知らせ(191KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「のむラップ・ファンド」 中長期的な資産運用に適した『のむラップ・ファンド』～リスクコントロールと長期保有によるリターンの安定化～(1,886KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「野村PIMCO新興国インフラ関連債券投信（通貨選択型）」 イスラエル関連債券の保有状況やPIMCO社の今後の見通しについて(1,292KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「イスラエルの株式・債券等」の保有状況について(673KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「のむラップ・ファンドシリーズ」 物価上昇下で考える資産保有の在り方(1,812KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「中国恒大集団」の保有状況について(551KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ファースト・リパブリック・バンクの保有状況について(668KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「野村PIMCO・世界インカム戦略ファンド」 クレディ・スイス・グループ発行のAT1債（CoCo債）の保有状況やPIMCO社の今後の見通しについて(1,406KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "クレディ・スイス・グループ発行のAT1債（CoCo債）の保有状況について(685KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "クレディ・スイス・グループの株式および債券の保有状況について(695KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "シリコンバレー銀行、シグネチャー銀行の株式および債券の保有状況について(616KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "保有する現物株式の売却のお知らせ(191KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "アダニ・グループの株式および債券の保有状況について(727KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「のむラップ・ファンド」 不透明な環境下で考える資産保有の在り方～長期的な資産運用に適した『のむラップ・ファンド』の特性～(1,617KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「NEXT FUNDS 南アフリカ株式指数・FTSE/JSE Africa Top40連動型上場投信」保有する株価指数先物の全決済のお知らせ(194KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "米ドル建てロシア国債の保有状況について(691KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「NEXT FUNDS JPX日経400インバース・インデックス連動型上場投信」保有する株価指数先物の全決済のお知らせ(95KB)",
+    "url": "https://www.nomura-am.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "投資信託の申込み・保有・換金時には、費用をご負担いただく場合があります",
+    "url": "https://www.nomura-am.co.jp/news/20261105111133010296.html",
+    "pass": 1
+   },
+   {
+    "quote": "投資信託の申込み・保有・換金時には、費用をご負担いただく場合があります",
+    "url": "https://www.nomura-am.co.jp/news/20261007160000010297.html",
+    "pass": 1
+   },
+   {
+    "quote": "投資信託の申込み・保有・換金時には、費用をご負担いただく場合があります",
+    "url": "https://www.nomura-am.co.jp/news/20260323090136009188.html",
+    "pass": 1
+   },
+   {
+    "quote": "連銘柄が多い電気機器をオーバーウェイトとしていたことに加え、 10月末時点で保有第4位であった日本たはご産",
+    "url": "https://www.nomura-am.co.jp/news/20261110U3A1O3UK.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "@ご購入単位 一般コース : 1万口以上1万口単位(当初元本1ロー1円) (信託報酬) 乗じて得た額が、お客様の保有期間に応じてかかります",
+    "url": "https://www.nomura-am.co.jp/news/20261110U3A1O3UK.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "@ご換金価額 ご換金申込日の基準価額から信託財産留保額を差し引いた価額 お客様の保有期間中、その都度かかります",
+    "url": "https://www.nomura-am.co.jp/news/20261110U3A1O3UK.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "投資枠」の対象ですが、販売会社により取扱いが異なる場合 上記の費用の合計額については、投資家の皆様がファンドを保有される期間等に",
+    "url": "https://www.nomura-am.co.jp/news/20261110U3A1O3UK.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "以下の費用の合計額については、 投資家の皆様がンドを保有される期間等に応じて異なりますので、 表示すること",
+    "url": "https://www.nomura-am.co.jp/news/20261110_5percent.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "投資家がその投資信託を保有する期間に応じてかかる費用です",
+    "url": "https://www.nomura-am.co.jp/news/20261110_5percent.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その他の費用 「外国での資産の保管等に要する諸費用」等、保有する期間等に応じてご負担いただく賀用があります",
+    "url": "https://www.nomura-am.co.jp/news/20261110_5percent.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "就職・転職対策や、機関投資家の保有動向を分析した記事も多く寄せられています",
+    "url": "https://note.com/tag/%E9%87%8E%E6%9D%91%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "10月22日（木）12:10 大量保有 ギフティG",
+    "url": "https://note.com/tag/%E9%87%8E%E6%9D%91%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "【大量保有ヒートマップ週報】野村アセットマネジメントの提出集中、減少54件が目立つ週｜2026-08-31〜2026-09-04",
+    "url": "https://note.com/tag/%E9%87%8E%E6%9D%91%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "【豊田通商】ブラックロック5％超保有!気になったので調べてみた! 第3弾",
+    "url": "https://note.com/tag/%E9%87%8E%E6%9D%91%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "野村アセットマネジメントは議決権行使基準を改定し、政策保有株が投下資本の15%を上回る企業に対しては、社長などの再任に反対する",
+    "url": "https://note.com/sgbc_3588/n/n46c960a877fa",
+    "pass": 3
+   },
+   {
+    "quote": "三井住友トラスト・アセットマネジメントは純資産対比で20%以上の場合は過大な保有水準とみなす",
+    "url": "https://note.com/sgbc_3588/n/n46c960a877fa",
+    "pass": 3
+   },
+   {
+    "quote": "A：政策保有株式を保有する企業に対して、自社の株式を売却しないように圧力をかけることが禁止されるそうですね",
+    "url": "https://note.com/sgbc_3588/n/n46c960a877fa",
+    "pass": 3
+   },
+   {
+    "quote": "難関資格であるCFA保有者数も61人（2020年3月）と国内で最も多く、勉強熱心な社風が伺えます",
+    "url": "https://note.com/asema_a/n/n5aaeb799daec",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社情報 | 会社案内 | 会社概要 - 野村アセットマネジメント — 会社情報 | 会社案内 | 会社概要 - 野村アセットマネジメント 野村アセットマネジメント https://www.nomura-am.co.jp > corporate > gaiyo > gaiyo",
+    "url": "https://www.nomura-am.co.jp/corporate/gaiyo/gaiyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "野村アセットマネジメント 株式 会社 - Nomura — 野村アセットマネジメント 株式 会社 - Nomura Nomura https://www.nomuraholdings.com > group > nam",
+    "url": "https://www.nomuraholdings.com/jp/company/group/nam.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社 案内 | 沿革 - 野村アセットマネジメント — 会社 案内 | 沿革 - 野村アセットマネジメント 野村アセットマネジメント https://www.nomura-am.co.jp > corporate > gaiyo > history",
+    "url": "https://www.nomura-am.co.jp/corporate/gaiyo/history.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報 - 野村アセットマネジメント — 会社情報 - 野村アセットマネジメント 野村アセットマネジメント https://www.nomura-am.co.jp > corporate",
+    "url": "https://www.nomura-am.co.jp/corporate/",
+    "pass": 3
+   },
+   {
+    "quote": "野村アセットマネジメント (株)【野村グループ】 - マイナビ2028 — 野村アセットマネジメント (株)【野村グループ】 - マイナビ2028 マイナビ https://job.mynavi.jp > search > corp50991 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp50991/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "議決権行使 | 責任投資 - 野村アセットマネジメント — 議決権行使 | 責任投資 - 野村アセットマネジメント 野村アセットマネジメント https://www.nomura-am.co.jp > special > esg > vote",
+    "url": "https://www.nomura-am.co.jp/special/esg/vote/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "野村アセットマネジメント - Wikipedia — 野村アセットマネジメント - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 野村アセットマネジメント",
+    "url": "https://ja.wikipedia.org/wiki/%E9%87%8E%E6%9D%91%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "野村アセットマネジメント との戦略的提携 — 野村アセットマネジメント との戦略的提携 American Century Investments https://www.americancentury.com > nomura > strategic-p...",
+    "url": "https://www.americancentury.com/nomura/strategic-partnership-nomura/",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報 | 数字で見る 野村アセットマネジメント — 会社情報 | 数字で見る 野村アセットマネジメント 野村アセットマネジメント https://www.nomura-am.co.jp > corporate > numbers",
+    "url": "https://www.nomura-am.co.jp/corporate/numbers.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報 | 財務情報 - 野村アセットマネジメント — 会社情報 | 財務情報 - 野村アセットマネジメント 野村アセットマネジメント https://www.nomura-am.co.jp > corporate > zaimu",
+    "url": "https://www.nomura-am.co.jp/corporate/zaimu/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "野村アセットマネジメント の人気・新着記事まとめ - note 野村アセットマネジメント の人気・新着記事まとめ - note note https://note.com > tag > 野村アセットマネジメント",
+    "url": "https://note.com/tag/%E9%87%8E%E6%9D%91%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "【完全保存版】 野村アセットマネジメント 選考対策｜職種理解 ... 【完全保存版】 野村アセットマネジメント 選考対策｜職種理解 ... note https://note.com > キャリア > 転職・キャリアチェンジ",
+    "url": "https://note.com/asema_a/n/n8c82e0273dbb",
+    "pass": 3
+   },
+   {
+    "quote": "野村アセットマネジメント 株式会社 - note 野村アセットマネジメント 株式会社 - note note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/sgbc_3588/n/n46c960a877fa",
+    "pass": 3
+   },
+   {
+    "quote": "野村アセットマネジメント の特徴｜アセマネ業界研究 - note 野村アセットマネジメント の特徴｜アセマネ業界研究 - note note https://note.com > キャリア > 就職活動",
+    "url": "https://note.com/asema_a/n/n5aaeb799daec",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "野村アセットマネジメントの人気・新着記事まとめ｜note",
+    "url": "https://note.com/tag/%E9%87%8E%E6%9D%91%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "国内最大級の運用会社による、ETFや投資信託の解説、および市場分析が行われています。",
+    "url": "https://note.com/tag/%E9%87%8E%E6%9D%91%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "就職・転職対策や、機関投資家の保有動向を分析した記事も多く寄せられています。",
+    "url": "https://note.com/tag/%E9%87%8E%E6%9D%91%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "国内最大級の運用会社による、ETFや投資信託の解説、および市場分析が行われてい…",
+    "url": "https://note.com/tag/%E9%87%8E%E6%9D%91%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "【2027年度版】野村證券 企業研究＆転職戦略ガイド｜平均年収1,325万円の読み方・4部門の稼ぎ方から284件の募集の選び方まで徹底解説",
+    "url": "https://note.com/tag/%E9%87%8E%E6%9D%91%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "投資する理由が変わってきた?「増やす」だけじゃない他の理由とこれから大事になってくること",
+    "url": "https://note.com/tag/%E9%87%8E%E6%9D%91%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "社内勉強会が豊富！FanのIFAバックアップ体制",
+    "url": "https://note.com/tag/%E9%87%8E%E6%9D%91%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "運用者は約3割以下！【アセマネ就活】をすれば運用者になれるのか？",
+    "url": "https://note.com/tag/%E9%87%8E%E6%9D%91%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "【完全保存版】野村アセットマネジメント選考対策｜職種理解・選考フロー・年収・志望動機まで徹底解説｜アセマネ業界研究",
+    "url": "https://note.com/asema_a/n/n8c82e0273dbb",
+    "pass": 3
+   },
+   {
+    "quote": "【完全保存版】野村アセットマネジメント選考対策｜職種理解・選考フロー・年収・志望動機まで徹底解説",
+    "url": "https://note.com/asema_a/n/n8c82e0273dbb",
+    "pass": 3
+   },
+   {
+    "quote": "日本最大級の独立系資産運用会社である野村アセットマネジメント。運用資産残高100兆円超、国内公募投信市場でシェア25%、国内ETF残高シェアでは業界トップを走る、アセマネ業界を志す人であれば一度は選考を検討するであろう会社です。",
+    "url": "https://note.com/asema_a/n/n8c82e0273dbb",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、「野村證券とは何が違うのか」「運用職以外にどんな職種があるのか」「未経験・第二新卒でも入れるのか」「なぜ野村アセットなのかを聞かれて答えに詰まってしまう」といった悩みを抱えたまま選考に臨んでしまう候補者も少なくありません。本記事では、野村アセットマネジメントへの転職を検討する方に向けて、会社の位置づけから職種構造、選考フロー、求める人物像、年収、志望動機の作り方、そして想定される面接質問まで、一段掘り下げて解説します。",
+    "url": "https://note.com/asema_a/n/n8c82e0273dbb",
+    "pass": 3
+   },
+   {
+    "quote": "1. 野村アセットマネジメントとはどんな会社か",
+    "url": "https://note.com/asema_a/n/n8c82e0273dbb",
+    "pass": 3
+   },
+   {
+    "quote": "1-1. 野村グループの「運用」を担う中核会社",
+    "url": "https://note.com/asema_a/n/n8c82e0273dbb",
+    "pass": 3
+   },
+   {
+    "quote": "野村アセットマネジメントは、野村ホールディングス株式会社の100%子会社であり、野村グループの中で資産運用（インベストメント・マネジメント）部門の中核を担う会社です。1959年に野村證券投資信託委託株式会社として設立され、1997年に野村投資顧問株式会社との合併を経て現在の形になりました。60年以上の歴史を持つ、日本の投信・運用業界の草分け的存在と言える会社です。",
+    "url": "https://note.com/asema_a/n/n8c82e0273dbb",
+    "pass": 3
+   },
+   {
+    "quote": "同じ野村グループでも、証券会社である野村證券が個人・機関投資家に対して株式や投信を「販売する」立場であるのに対し、野村アセットマネジメントは投資信託や年金資金などを実際に「運用する」立場にある会社です。この違いを理解しておくことは、志望動機を語るうえでの大前提になります。「野村グループが好きだから」ではなく、「販売ではなく運用というビジネスに惹かれている」という接続を明確にできるかどうかが、書類・面接双方での説得力を左右します。",
+    "url": "https://note.com/asema_a/n/n8c82e0273dbb",
+    "pass": 3
+   },
+   {
+    "quote": "野村アセットマネジメント株式会社｜Tokyo Market and Research",
+    "url": "https://note.com/sgbc_3588/n/n46c960a877fa",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo Market and Research",
+    "url": "https://note.com/sgbc_3588/n/n46c960a877fa",
+    "pass": 3
+   },
+   {
+    "quote": "A：4月18日の日経に野村アセットマネジメントに関する記事がありました。",
+    "url": "https://note.com/sgbc_3588/n/n46c960a877fa",
+    "pass": 3
+   },
+   {
+    "quote": "投資家の姿勢も厳しくなっている。野村アセットマネジメントは議決権行使基準を改定し、政策保有株が投下資本の15%を上回る企業に対しては、社長などの再任に反対する。従来は20%だった。三井住友トラスト・アセットマネジメントは純資産対比で20%以上の場合は過大な保有水準とみなす。",
+    "url": "https://note.com/sgbc_3588/n/n46c960a877fa",
+    "pass": 3
+   },
+   {
+    "quote": "B：野村アセットマネジメントの2025年の運用資産残高は、2025年12月末に100兆円を突破した。日本を代表する大手資産運用会社が基準を厳しくしたことは良いと思う。",
+    "url": "https://note.com/sgbc_3588/n/n46c960a877fa",
+    "pass": 3
+   },
+   {
+    "quote": "A：政策保有株式を保有する企業に対して、自社の株式を売却しないように圧力をかけることが禁止されるそうですね。",
+    "url": "https://note.com/sgbc_3588/n/n46c960a877fa",
+    "pass": 3
+   },
+   {
+    "quote": "B：金融庁と東証は4月10日に企業統治指針の改訂案を公表。「売らせない圧力」をかけることを禁止する記述を、強制力の高い「原則」に格上げする内容が含まれている。",
+    "url": "https://note.com/sgbc_3588/n/n46c960a877fa",
+    "pass": 3
+   },
+   {
+    "quote": "A：4月25日の日経には以下の記事もありました。",
+    "url": "https://note.com/sgbc_3588/n/n46c960a877fa",
+    "pass": 3
+   },
+   {
+    "quote": "野村アセットマネジメントの特徴｜アセマネ業界研究",
+    "url": "https://note.com/asema_a/n/n5aaeb799daec",
+    "pass": 3
+   },
+   {
+    "quote": "出所：一般社団法人日本投資顧問協会「投資運用会社要覧（2020年版）」、一般社団法人投資信託協会の統計データ（2020年12月）",
+    "url": "https://note.com/asema_a/n/n5aaeb799daec",
+    "pass": 3
+   },
+   {
+    "quote": "※収益は2020年3月期、残高・人数は同3月末。",
+    "url": "https://note.com/asema_a/n/n5aaeb799daec",
+    "pass": 3
+   },
+   {
+    "quote": "※ファンドマネージャーの数には、株式以外にも債券や為替等含む。調査スタッフには、エコノミスト等も含む。",
+    "url": "https://note.com/asema_a/n/n5aaeb799daec",
+    "pass": 3
+   },
+   {
+    "quote": "野村アセットマネジメントは、運用残高49.3兆円（2020年3月末）をかかえる、国内最大手の運用会社です。収益力も非常に高いです。",
+    "url": "https://note.com/asema_a/n/n5aaeb799daec",
+    "pass": 3
+   },
+   {
+    "quote": "運用業務従事者数（301人）、ファンドマネージャー数（227人）共に国内最多です（2020年3月末時点）",
+    "url": "https://note.com/asema_a/n/n5aaeb799daec",
+    "pass": 3
+   },
+   {
+    "quote": "ファンドマネージャーの数は、2016年3月が212人だったので、4年で15人増えています。",
+    "url": "https://note.com/asema_a/n/n5aaeb799daec",
+    "pass": 3
+   },
+   {
+    "quote": "難関資格であるCFA保有者数も61人（2020年3月）と国内で最も多く、勉強熱心な社風が伺えます。資格取得の補助が出るようです。4年で6人増えています。",
+    "url": "https://note.com/asema_a/n/n5aaeb799daec",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "野村アセットマネジメント (@nomura_am_jp) / X 野村アセットマネジメント (@nomura_am_jp) / X X https://x.com > nomura_am_jp",
+    "url": "https://x.com/nomura_am_jp",
+    "pass": 3
+   },
+   {
+    "quote": "野村アセットマネジメント - X 野村アセットマネジメント - X X https://x.com > @nomura_am_jp",
+    "url": "https://x.com/nomura_am_jp/status/2110999685930635612",
+    "pass": 3
+   },
+   {
+    "quote": "野村アセットマネジメント - X 野村アセットマネジメント - X X https://x.com > @nomura_am_jp",
+    "url": "https://x.com/nomura_am_jp/status/2119686475478675782",
+    "pass": 3
+   },
+   {
+    "quote": "野村アセットマネジメント - X 野村アセットマネジメント - X X https://x.com > @nomura_am_jp",
+    "url": "https://x.com/nomura_am_jp/status/2119656272706547859",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "野村アセットマネジメント （株） - LinkedIn 野村アセットマネジメント （株） - LinkedIn LinkedIn https://www.linkedin.com > 野村アセットマネジメント（株）",
+    "url": "https://www.linkedin.com/company/%E9%87%8E%E6%9D%91%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "pass": 3
+   },
+   {
+    "quote": "野村アセットマネジメント （株） - LinkedIn 野村アセットマネジメント （株） - LinkedIn LinkedIn https://jp.linkedin.com > 野村アセットマネジメント（株）",
+    "url": "https://jp.linkedin.com/company/%E9%87%8E%E6%9D%91%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "pass": 3
+   },
+   {
+    "quote": "野村アセットマネジメント （株） - LinkedIn 野村アセットマネジメント （株） - LinkedIn LinkedIn https://id.linkedin.com > 野村アセットマネジメント（株）",
+    "url": "https://id.linkedin.com/company/%E9%87%8E%E6%9D%91%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "pass": 3
+   },
+   {
+    "quote": "Takafumi Tsuda - 野村アセットマネジメント （株） - LinkedIn Takafumi Tsuda - 野村アセットマネジメント （株） - LinkedIn LinkedIn https://jp.linkedin.com > takafumi-tsuda-069100174",
+    "url": "https://jp.linkedin.com/in/takafumi-tsuda-069100174",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "野村アセットマネジメント (@nomuraam) - Facebook 野村アセットマネジメント (@nomuraam) - Facebook Facebook https://www.facebook.com > ... > 金融会社 > 金融サービス",
+    "url": "https://www.facebook.com/nomuraam/?locale=ja_JP",
+    "pass": 3
+   },
+   {
+    "quote": "野村アセットマネジメント - Home | Facebook 野村アセットマネジメント - Home | Facebook Facebook https://en-gb.facebook.com > 野村アセットマネジメント",
+    "url": "https://en-gb.facebook.com/pages/%E9%87%8E%E6%9D%91%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88/100496123344017",
+    "pass": 3
+   },
+   {
+    "quote": "野村アセットマネジメント - ホーム | Facebook 野村アセットマネジメント - ホーム | Facebook Facebook https://www.facebook.com > 野村アセットマネジメント",
+    "url": "https://www.facebook.com/pages/%E9%87%8E%E6%9D%91%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88/100496123344017?locale=ja_JP",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.nomura-am.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nomura-am.co.jp/corporate/newsrelease/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nomura-am.co.jp/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nomura-am.co.jp/corporate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nomura-am.co.jp/corporate/gaiyo/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nomura-am.co.jp/corporate/gaiyo/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nomura-am.co.jp/important/20261022083000.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nomura-am.co.jp/news/20261105111133010296.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nomura-am.co.jp/news/20261021123000010226.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nomura-am.co.jp/news/20261007160000010297.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nomura-am.co.jp/news/20260724120000009567.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nomura-am.co.jp/news/20260526130000009381.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nomura-am.co.jp/news/20260323090136009188.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nomura-am.co.jp/news/20221031150000006194.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.nomura-am.co.jp/news/20261110U3A1O3UK.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nomura-am.co.jp/news/20261110_5percent.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.nomuraholdings.com/jp/company/group/nam.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsubishielectric.co.jp/fa/products/mecha/am/pr/zoukei/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/the-future-of-metal-3d-printing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=sT3lR9R98hc",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ja.3dsystems.com/semiconductor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/AM-WG.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nomuraholdings.com/jp/company/group.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E9%87%8E%E6%9D%91%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/asema_a/n/n8c82e0273dbb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sgbc_3588/n/n46c960a877fa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/asema_a/n/n5aaeb799daec",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/nomura_am_jp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/nomura_am_jp/status/2110999685930635612",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/nomura_am_jp/status/2119686475478675782",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/nomura_am_jp/status/2119656272706547859",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/%E9%87%8E%E6%9D%91%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/%E9%87%8E%E6%9D%91%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://id.linkedin.com/company/%E9%87%8E%E6%9D%91%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/takafumi-tsuda-069100174",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/nomuraam/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://en-gb.facebook.com/pages/%E9%87%8E%E6%9D%91%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88/100496123344017",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/%E9%87%8E%E6%9D%91%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88/100496123344017?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/sgbc_3588/n/n46c960a877fa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E9%87%8E%E6%9D%91%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/nomura_am_jp",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "野村アセットマネジメント",
+   "results": [
+    "https://www.nomura-am.co.jp/",
+    "https://www.youtube.com/channel/UCapg2WzetxzJBpVFXCHcjrw",
+    "https://www.nomuraholdings.com/jp/company/group/nam.html",
+    "https://ja.wikipedia.org/wiki/%E9%87%8E%E6%9D%91%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88",
+    "https://nomura-am.snar.jp/",
+    "https://x.com/nomura_am_jp",
+    "https://ja.wikipedia.org/wiki/野村アセットマネジメント"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "野村アセットマネジメント 会社概要 資本金 設立",
+   "results": [
+    "https://www.nomura-am.co.jp/corporate/gaiyo/gaiyo.html",
+    "https://www.nomuraholdings.com/jp/company/group/nam.html",
+    "https://www.nomura-am.co.jp/corporate/gaiyo/history.html",
+    "https://www.nomura-am.co.jp/corporate/",
+    "https://job.mynavi.jp/28/pc/search/corp50991/outline.html",
+    "https://www.nomura-am.co.jp/corporate/gaiyo/network.html",
+    "https://www.nomura-am.co.jp/corporate/numbers.html",
+    "https://ja.wikipedia.org/wiki/%E9%87%8E%E6%9D%91%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88",
+    "https://www.nomura-am.co.jp/corporate/gaiyo/map.html",
+    "https://ja.wikipedia.org/wiki/野村アセットマネジメント"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "野村アセットマネジメント 金属3Dプリンタ 導入",
+   "results": [
+    "https://news.sharelab.jp/category/3dp-news/metal-3dprinter/",
+    "https://www.mitsubishielectric.co.jp/fa/products/mecha/am/pr/zoukei/index.html",
+    "https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/the-future-of-metal-3d-printing",
+    "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/pdf/am-houkokusyo.pdf",
+    "https://monoist.itmedia.co.jp/mn/series/9763/",
+    "https://www.marubeni-idigio.com/insight-hub/metal3dprinter_desktopmetal_case/",
+    "https://www.3dmart.co.jp/blogs/news/fastform-matel-3d-printer?srsltid=AYCX9vId1gFCoxszNIlirEn8JUyrH_hHloU4d28tSJn1cZCjv7UtoFfL",
+    "https://global.honda/jp/tech/serial/Hondas_RandD_Facilities_part08/",
+    "https://deskmin.net/2026/08/14/金属3dプリンター、2026年は量産の常識が変わる/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "野村アセットマネジメント 金属積層造形 設備",
+   "results": [
+    "https://www.youtube.com/watch?v=sT3lR9R98hc",
+    "https://ja.3dsystems.com/semiconductor",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/AM-WG.html",
+    "https://jampt.jp/equipment/",
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "https://partners.solize.com/manufacturing/technology/3dp-metal",
+    "https://www.sinto.co.jp/promotion/metal-am/",
+    "https://news.sharelab.jp/category/3dp-news/metal-3dprinter/",
+    "https://www.mazak.com/jp-ja/products/am/",
+    "https://www.nomura-am.co.jp/corporate/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "野村アセットマネジメント 株主 出資 親会社",
+   "results": [
+    "https://www.nomura-am.co.jp/corporate/gaiyo/gaiyo.html",
+    "https://www.nomuraholdings.com/jp/company/group.html",
+    "https://www.nomura-am.co.jp/special/esg/vote/index.html",
+    "https://ja.wikipedia.org/wiki/%E9%87%8E%E6%9D%91%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88",
+    "https://www.americancentury.com/nomura/strategic-partnership-nomura/",
+    "https://www.nomura-am.co.jp/corporate/gaiyo/network.html",
+    "https://www.reuters.com/article/business/1200-idUSKBN0U41VJ/",
+    "https://www.nomura.co.jp/solution/financial-assets/fund/company/",
+    "https://www.nomura-am.co.jp/corporate/gaiyo/history.html",
+    "https://ja.wikipedia.org/wiki/野村アセットマネジメント"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "野村アセットマネジメント 売上高 従業員数",
+   "results": [
+    "https://www.nomura-am.co.jp/corporate/numbers.html",
+    "https://www.nomura-am.co.jp/corporate/gaiyo/gaiyo.html",
+    "https://www.nomura-am.co.jp/corporate/zaimu/",
+    "https://job.mynavi.jp/28/pc/search/corp50991/outline.html",
+    "https://ja.wikipedia.org/wiki/%E9%87%8E%E6%9D%91%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88",
+    "https://www.onecareer.jp/companies/112",
+    "https://www.bizreach.jp/companies/11658/",
+    "https://www.nomura-am.co.jp/corporate/",
+    "https://www.nomuraholdings.com/jp/investor/summary/business/asset.html",
+    "https://ja.wikipedia.org/wiki/野村アセットマネジメント"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com 野村アセットマネジメント",
+   "results": [
+    "https://note.com/tag/%E9%87%8E%E6%9D%91%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88",
+    "https://note.com/asema_a/n/n8c82e0273dbb",
+    "https://note.com/sgbc_3588/n/n46c960a877fa",
+    "https://note.com/asema_a/n/n5aaeb799daec",
+    "https://note.com/nakanoam/m/m96bf5f742447",
+    "https://note.com/bostonjuku/n/n23aa5716ebc2",
+    "https://note.com/kawanishi_jp/n/n1df10f14a5b0",
+    "https://note.com/bostonjuku/n/ne569e9182aaf",
+    "https://note.com/nakanoam/n/n86f24b3712a5",
+    "https://note.com/bostonjuku/n/na8a88525679c"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:x.com 野村アセットマネジメント",
+   "results": [
+    "https://x.com/nomura_am_jp",
+    "https://x.com/nomura_am_jp/status/2110999685930635612",
+    "https://x.com/nomura_am_jp/status/2119686475478675782",
+    "https://x.com/nomura_am_jp/status/2119656272706547859",
+    "https://x.com/nomura_am_jp/status/2118252029613359299",
+    "https://x.com/nomura_am_jp/status/2120018664787415482",
+    "https://x.com/nomura_am_jp/status/2118154097610338359",
+    "https://x.com/nomura_am_jp/status/2114545086776361470",
+    "https://x.com/nomura_am_jp/status/2118539142128971972",
+    "https://x.com/nomura_am_jp/status/2118153859889832245"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com 野村アセットマネジメント",
+   "results": [
+    "https://www.linkedin.com/company/%E9%87%8E%E6%9D%91%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://jp.linkedin.com/company/%E9%87%8E%E6%9D%91%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://id.linkedin.com/company/%E9%87%8E%E6%9D%91%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://jp.linkedin.com/in/takafumi-tsuda-069100174",
+    "https://jp.linkedin.com/in/yayoi-machida-9945b41b9",
+    "https://jp.linkedin.com/in/jun-yamanaka-bab044169",
+    "https://jp.linkedin.com/in/tatsuya-fukazawa-891a30107",
+    "https://jp.linkedin.com/in/anju-anan-8b09201b1",
+    "https://jp.linkedin.com/company/nomura-asset-management",
+    "https://www.linkedin.com/company/nomura-asset-management"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com 野村アセットマネジメント",
+   "results": [
+    "https://www.facebook.com/nomuraam/?locale=ja_JP",
+    "https://en-gb.facebook.com/pages/%E9%87%8E%E6%9D%91%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88/100496123344017",
+    "https://www.facebook.com/pages/%E9%87%8E%E6%9D%91%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88/100496123344017?locale=ja_JP",
+    "https://www.facebook.com/61555874904304/posts/%E6%80%9D%E3%81%84%E5%87%BA%E6%8A%95%E8%B3%87%E3%81%A7%E8%B1%8A%E3%81%8B%E3%81%AA%E4%BA%BA%E7%94%9F%E3%82%92%E6%A5%BD%E3%81%97%E3%82%80%E8%B3%87%E7%94%A3%E9%81%8B%E7%94%A8%E3%81%A8%E6%97%85%E3%82%92%E3%83%86%E3%83%BC%E3%83%9E%E3%81%AB%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E9%87%8E%E6%9D%91%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%E3%81%A8%EF%BD%8A%EF%BD%92%E6%9D%B1%E6%97%A5%E6%9C%AC-%E9%87%8E%E6%9D%91%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%E3%81%AF%EF%BD%8A%EF%BD%92%E6%9D%B1%E6%97%A5%E6%9C%AC%E3%81%8C%E9%81%8B%E5%96%B6%E3%81%99%E3%82%8B%E5%A4%A7%E4%BA%BA%E3%81%AE%E4%BC%91%E6%97%A5%E5%80%B6%E6%A5%BD%E9%83%A8/122304396242195830/",
+    "https://www.facebook.com/naoko.okawachi/posts/%E9%87%8E%E6%9D%91%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%E3%81%AE%E5%A4%A7%E8%B6%8A%E7%A4%BE%E9%95%B7%E3%81%A8%E5%AF%BE%E8%AB%87%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E7%89%B9%E5%88%A5%E5%AF%BE%E8%AB%87%E6%80%9D%E3%81%84%E5%87%BA%E3%81%AB%E6%8A%95%E8%B3%87%E3%82%92%E3%81%84%E3%81%84%E4%BA%BA%E7%94%9F%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%A8%E6%80%9D%E3%81%88%E3%82%8B%E6%99%82%E9%96%93%E3%81%A8%E3%81%8A%E9%87%91%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9%E3%81%A8%E3%81%84%E3%81%86%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB%E3%81%A7%E4%BA%BA%E7%94%9F%E5%BE%8C%E5%8D%8A%E3%82%92%E6%A5%BD%E3%81%97%E3%82%80%E3%81%9F%E3%82%81%E3%81%AE%E3%81%8A%E9%87%91%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%87/10228525983493518/",
+    "https://www.facebook.com/nomuraam/posts/%E3%82%B3%E3%83%A9%E3%83%A0%E6%8E%B2%E8%BC%89%E5%BD%93%E7%A4%BE%E3%81%AE%E8%B3%87%E7%94%A3%E9%81%8B%E7%94%A8%E7%A0%94%E7%A9%B6%E6%89%80%E3%81%A7%E3%81%AF%E8%B3%87%E7%94%A3%E9%81%8B%E7%94%A8%E3%81%AE%E8%AA%BF%E6%9F%BB%E5%88%86%E6%9E%90%E3%82%92%E3%82%82%E3%81%A8%E3%81%AB%E6%83%85%E5%A0%B1%E3%82%92%E7%99%BA%E4%BF%A1%E4%B8%AD%E4%BB%8A%E5%9B%9E%E3%81%AF%E5%AE%B6%E8%A8%88%E9%87%91%E8%9E%8D%E8%B3%87%E7%94%A3%E3%81%AE%E8%AA%A4%E8%AC%AC%E3%82%92%E5%85%AC%E9%96%8B%E5%AE%B6%E8%A8%88%E9%87%91%E8%9E%8D%E8%B3%87%E7%94%A3%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E7%9B%B8%E5%A0%B4%E5%A4%89%E5%8B%95%E3%81%AE%E5%BD%B1%E9%9F%BF%E3%82%84%E5%AE%9F%E9%9A%9B%E3%81%AE%E5%A2%97%E5%8A%A0%E8%A6%81%E5%9B%A0%E3%82%92%E5%88%86%E6%9E%90%E3%81%99/1132891252596609/",
+    "https://www.facebook.com/61580739882958/posts/%E8%B3%87%E7%94%A3%E9%81%8B%E7%94%A8%E7%AB%8B%E5%9B%BD%E3%81%B8%E3%81%AE%E9%81%93%E7%AD%8B%E9%87%8E%E6%9D%91%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88-ceo-%E5%85%BC-%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9%E7%A4%BE%E9%95%B7-%E5%A4%A7%E8%B6%8A%E6%98%87%E4%B8%80-%E6%B0%8F-nikkei/122133683733024662/",
+    "https://www.facebook.com/nadanewscom/posts/%EF%B8%8F-%E4%B8%8A%E5%B4%8E-%E5%8B%B2-%E6%B0%8F%E9%87%8E%E6%9D%91%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88-%E9%81%8B%E7%94%A8%E9%83%A8-%E9%83%A8%E9%95%B7nikkeinada-%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%82%AB%E3%83%B3%E3%83%95%E3%82%A1%E3%83%AC%E3%83%B3%E3%82%B9%E3%81%AB%E3%81%94%E7%99%BB%E5%A3%87%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%99-1120%E9%87%91-%E8%99%8E%E3%83%8E%E9%96%80%E3%83%92%E3%83%AB%E3%82%BA%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9/1565845968916079/",
+    "https://www.facebook.com/nikkei.brand.voice/posts/22%E6%8E%B2%E8%BC%89-%E9%87%8E%E6%9D%91%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88-%E3%81%AE%E5%BA%83%E5%91%8A%E3%81%A7%E3%81%99%E9%81%8B%E7%94%A8%E8%B3%87%E7%94%A3%E6%AE%8B%E9%AB%98%E3%81%8C100%E5%85%86%E5%86%86%E3%82%92%E7%AA%81%E7%A0%B4%E8%B1%8A%E3%81%8B%E3%81%AA%E7%A4%BE%E4%BC%9A%E3%81%AE%E5%AE%9F%E7%8F%BE%E3%81%A8%E8%B3%87%E7%94%A3%E9%81%8B%E7%94%A8%E3%81%8C%E5%BD%93%E3%81%9F%E3%82%8A%E3%81%BE%E3%81%88%E3%81%AE%E6%9C%AA%E6%9D%A5%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%97%E3%81%95%E3%82%89%E3%81%AB%E3%81%9D%E3%81%AE%E5%85%88%E3%81%B8%E6%8C%91%E3%81%BF%E7%B6%9A%E3%81%91%E3%82%8B%E6%84%8F%E6%80%9D%E3%82%92%E4%BC%9D/122234654810144802/",
+    "https://www.facebook.com/nomuraam/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "野村アセットマネジメント note 社長",
+   "results": [
+    "https://note.com/sgbc_3588/n/n46c960a877fa",
+    "https://note.com/nakanoam",
+    "https://www.nomura-am.co.jp/corporate/gaiyo/gaiyo.html",
+    "https://note.com/tag/%E9%87%8E%E6%9D%91%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88",
+    "https://www.nomura-am.co.jp/corporate/",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000G258&q_no=9",
+    "https://www.nikkei.com/article/DGXZQOUB051E20V01C26A0000000/",
+    "https://note.com/bostonjuku/n/ne569e9182aaf",
+    "https://www.nomura-am.co.jp/special/esg/engagement/spreport/trptalk_roundtable-discussion.html",
+    "https://keibatsugaku.com/nomura_asset_management/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "野村アセットマネジメント X 投稿",
+   "results": [
+    "https://x.com/nomura_am_jp",
+    "https://www.nomura-am.co.jp/news/20210601121852005150.html",
+    "https://www.jpx.co.jp/corporate/learning/seminar-events/d09/20261030-01.html",
+    "https://www.nomura-am.co.jp/corporate/otherinfo/",
+    "https://www.nomura-am.co.jp/news/",
+    "https://globalxetfs.co.jp/news/vq8s6e0000001an8-att/20261014_01.pdf",
+    "https://www.facebook.com/nomuraam/?locale=ja_JP",
+    "https://www.nomura-am.co.jp/antisocial/",
+    "https://www.nomuraholdings.com/jp/investor/presentation.html",
+    "https://socialxup.com/nomura_am_jp"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部26頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部26頁・検索12回）",
+  "使っている金属粉（材質）": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部26頁・検索12回）"
+ }
+}

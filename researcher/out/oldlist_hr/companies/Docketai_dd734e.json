@@ -1,0 +1,867 @@
+{
+ "name": "Docketai",
+ "aliases": [],
+ "context": "旧営業リスト｜AI Sales & Marketing Automation｜返信あり",
+ "researched_at": "2026-11-10T18:10:25.962340+00:00",
+ "official_url": "https://www.docketai.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Docket | AI Demand Agent for B2B Marketing",
+    "url": "https://www.docket.io/",
+    "pass": 1
+   },
+   {
+    "quote": "The Trust Gap Report by Heinz Marketing × Docket",
+    "url": "https://www.docket.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Qualifies and routes leads while you sleep",
+    "url": "https://www.docket.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Paid Ads Acceleration",
+    "url": "https://www.docket.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Generate more pipeline from your website with the AI Marketing Agent",
+    "url": "https://www.docket.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn your website into qualified pipeline with the Docket’s AI Marketing Agent.",
+    "url": "https://www.docket.io/",
+    "pass": 1
+   },
+   {
+    "quote": "For Digital Marketing Team",
+    "url": "https://www.docket.io/",
+    "pass": 1
+   },
+   {
+    "quote": "For Marketing Operations",
+    "url": "https://www.docket.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-grade, by default",
+    "url": "https://www.docket.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Answers grounded in your actual content",
+    "url": "https://www.docket.io/",
+    "pass": 1
+   },
+   {
+    "quote": "A live, guided tour of your product",
+    "url": "https://www.docket.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Engages in human-like conversations with website visitors to convert them into qualified leads and customers",
+    "url": "https://www.docket.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Research on where marketing’s headed",
+    "url": "https://www.docket.io/",
+    "pass": 1
+   },
+   {
+    "quote": "ChatGPT Prompts for Marketing",
+    "url": "https://www.docket.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Global Fintech Provider",
+    "url": "https://www.docket.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Compliant conversations at enterprise scale",
+    "url": "https://www.docket.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Before Docket says a word, it has already done its homework. It reads your CRM history, prior visit data and live intent signals to build a real-time profile of the buyer in front of it. When the conversation starts, it isn't a cold intro.",
+    "url": "https://www.docket.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Docket's responses come from your Docket Sales Knowledge Lake™, a unified knowledge architecture ingesting 100+ data sources. CRM records, Gong calls, Slack, product docs, Google Drive, Notion, SharePoint, all resolved in real time.",
+    "url": "https://www.docket.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing AI agents bring your bring your sales team’s judgement to every interaction, transforming buyer intent into compounding pipeline and revenue.",
+    "url": "https://www.docket.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Provide your sellers with the proper",
+    "url": "https://www.docket.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Provide seamless follow-up conversations",
+    "url": "https://www.docket.io/",
+    "pass": 1
+   },
+   {
+    "quote": "by remembering visitor context from prior engagement.",
+    "url": "https://www.docket.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Fit into your existing sales execution process",
+    "url": "https://www.docket.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Fast-track hot leads to sellers",
+    "url": "https://www.docket.io/",
+    "pass": 1
+   },
+   {
+    "quote": "B2B Enterprises",
+    "url": "https://www.docket.io/",
+    "pass": 1
+   },
+   {
+    "quote": "By leveraging the power of large language models (LLMs) and a dynamic Sales Knowledge Lake™, DocketAI seamlessly integrates into existing marketing workflows, giving every website visitor a personalized, always-on experience that can:",
+    "url": "https://www.mayfield.com/announcing-docketai-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "Answer complex product questions with accuracy, reason, and confidence — without hallucinating",
+    "url": "https://www.mayfield.com/announcing-docketai-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "Qualify leads in real time based on their role, intent, and needs",
+    "url": "https://www.mayfield.com/announcing-docketai-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "Drive conversions by booking meetings, registering visitors for events, or surfacing the right content",
+    "url": "https://www.mayfield.com/announcing-docketai-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "News and Press Release Distribution, Since 1995",
+    "url": "https://www.webwire.com/ViewPressRel.asp?aId=324728",
+    "pass": 3
+   },
+   {
+    "quote": "DocketAI provides accurate, on-demand responses to technical questions, learns from top revenue professionals to recommend best practices, and seamlessly integrates with popular tools like Gong, Sharepoint, Google Drive, Slack, web URLs, and 100+ knowledge sources",
+    "url": "https://www.webwire.com/ViewPressRel.asp?aId=324728",
+    "pass": 3
+   },
+   {
+    "quote": "Founded by serial entrepreneurs Arjun Pillai and Anoop Thomas Mathew, who have had multiple exits (Insent, acquired by ZoomInfo, and Profoundis, acquired by FullContact)",
+    "url": "https://www.webwire.com/ViewPressRel.asp?aId=324728",
+    "pass": 3
+   },
+   {
+    "quote": "Most B2B revenue teams struggle to scale their go-to-market (GTM) engines while adopting best practices to deliver revenue growth. Teams that fail to adapt to this buyer behavior experience low win rates, longer cycles, and poor seller quota attainment. In this new selling environment, account executives (AEs) need better tools to effectively engage hyper-informed buyers.",
+    "url": "https://www.webwire.com/ViewPressRel.asp?aId=324728",
+    "pass": 3
+   },
+   {
+    "quote": "Learns from top revenue professionals in real time to recommend best practices and generates customer-ready personalized documents like RFPs and RFIs in seconds, speeding up cycles.",
+    "url": "https://www.webwire.com/ViewPressRel.asp?aId=324728",
+    "pass": 3
+   },
+   {
+    "quote": "Empowers revenue teams to work smarter and faster, providing instant accurate revenue knowledge within native tools to enhance productivity and win more deals.",
+    "url": "https://www.webwire.com/ViewPressRel.asp?aId=324728",
+    "pass": 3
+   },
+   {
+    "quote": "Serves as an AI teammate designed to help sellers increase win rates by providing easy information discovery, simplified workflows, and continuous learning. It integrates seamlessly within a companys existing knowledge sources and native sales tools, increasing AE productivity by up to 30%.",
+    "url": "https://www.webwire.com/ViewPressRel.asp?aId=324728",
+    "pass": 3
+   },
+   {
+    "quote": "Led by repeat founders with proven success, DocketAI is at the forefront of our cognition-as-a-service (CaaS) and generative AI investments, said Patrick Salyer, Partner at Mayfield and member of Dockets board of directors. Dockets AI teammate supercharges sales teams, allowing them to sell smarter, faster, and more effectively.",
+    "url": "https://www.webwire.com/ViewPressRel.asp?aId=324728",
+    "pass": 3
+   },
+   {
+    "quote": "DocketAI has been a game-changer for our initial customers by eliminating the time wasted skimming through knowledge spread across many platforms, continued Pillai. Were excited to scale our solution to more enterprises looking to streamline revenue enablement.",
+    "url": "https://www.webwire.com/ViewPressRel.asp?aId=324728",
+    "pass": 3
+   },
+   {
+    "quote": "The platform is SOC 2 Type 2 certified with ISO 27001 and GDPR. DocketAI takes pride in its security-by-default product philosophy. Each customers data instance is isolated, and the model doesnt train on any customer data, ensuring maximum privacy and security.",
+    "url": "https://www.webwire.com/ViewPressRel.asp?aId=324728",
+    "pass": 3
+   },
+   {
+    "quote": "( Press Release Image:",
+    "url": "https://www.webwire.com/ViewPressRel.asp?aId=324728",
+    "pass": 3
+   },
+   {
+    "quote": "https://photos.webwire.com/prmedia/42381/324728/324728-1.jpg",
+    "url": "https://www.webwire.com/ViewPressRel.asp?aId=324728",
+    "pass": 3
+   },
+   {
+    "quote": "This news content may be integrated into any legitimate news gathering and publishing effort. Linking is permitted.",
+    "url": "https://www.webwire.com/ViewPressRel.asp?aId=324728",
+    "pass": 3
+   },
+   {
+    "quote": "News Release Distribution and Press Release",
+    "url": "https://www.webwire.com/ViewPressRel.asp?aId=324728",
+    "pass": 3
+   },
+   {
+    "quote": "Printer-friendly version",
+    "url": "https://www.webwire.com/ViewPressRel.asp?aId=324728",
+    "pass": 3
+   },
+   {
+    "quote": "places your news within numerous highly trafficked news search engines generating leads and publicity.",
+    "url": "https://www.webwire.com/ViewPressRel.asp?aId=324728",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Yes. It's a tailored, custom-built experience for your brand, not a toggle-on feature, so it'll carry its own investment. Happy to have a conversation about what that could look like for your account once you're on the early access list.",
+    "url": "https://www.docket.io/",
+    "pass": 1
+   },
+   {
+    "quote": "It won't be a pick-from-a-list menu. Avatar selection is part of the custom deployment we build with you, matched to your brand and buyers. Think \"designed for you,\" not \"configured by you.\"",
+    "url": "https://www.docket.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, that's the direction we're headed, built with our partner Anam. Not plug-and-play, but a real custom agent built for your brand. If that's interesting, worth flagging now so we can loop you in as it comes together.",
+    "url": "https://www.docket.io/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "The Rethink : Revenue Podcast",
+    "url": "https://www.docket.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Conversations on the future of revenue",
+    "url": "https://www.docket.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Leading Revenue Excellence Platform",
+    "url": "https://www.docket.io/",
+    "pass": 1
+   },
+   {
+    "quote": "When Docket books a meeting, it doesn’t hand off a name and email. It syncs the full conversation, pain points, qualification answers, company context & next steps, directly into Salesforce or HubSpot. Your rep walks into that meeting knowing exactly who they’re talking to and why they care. Every AQL arrives with a full briefing attached.",
+    "url": "https://www.docket.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing AI agents bring your bring your sales team’s judgement to every interaction, transforming buyer intent into compounding pipeline and revenue.",
+    "url": "https://www.docket.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Docket is the Inbound Demand Platform for B2B revenue teams. It is an always-on agent that engages every website visitor in a real conversation, answers product-expert questions, qualifies their intent, routes them to the right person, books the meeting, and syncs full context to CRM. No SDR is required for the first touch.",
+    "url": "https://www.docket.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Docket is more accurately described as an Inbound Demand Platform. Marketing tools generally help teams create and distribute campaigns; Docket's Demand Agent instead engages the buyer who has already arrived on the website, qualifying and routing them in real time. It sits at the handoff point between marketing and sales, not inside either function alone.",
+    "url": "https://www.docket.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Docket is leading the next evolution of AI marketing agents and Frameless is the proof. Our agent becomes a native part of your page, same design, same feel, no popup, no widget. Visitors get a seamless, premium experience from the moment they land. This is where website engagement is going",
+    "url": "https://www.docket.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Longer term, we're using our own site as the proving ground, validating engagement lift, conversion impact, and technical performance, before deciding how this becomes part of the customer-facing product.",
+    "url": "https://www.docket.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. It's a tailored, custom-built experience for your brand, not a toggle-on feature, so it'll carry its own investment. Happy to have a conversation about what that could look like for your account once you're on the early access list.",
+    "url": "https://www.docket.io/",
+    "pass": 1
+   },
+   {
+    "quote": "It won't be a pick-from-a-list menu. Avatar selection is part of the custom deployment we build with you, matched to your brand and buyers. Think \"designed for you,\" not \"configured by you.\"",
+    "url": "https://www.docket.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Docket will transparently say it doesn’t know and offer to connect the visitor with a human. This is by design, in enterprise sales contexts, hallucinated or inaccurate answers destroy trust. We’d rather Docket say “let me get you a human” than make something up. This honesty is a core part of what makes Docket different from generic AI chatbots.",
+    "url": "https://www.docket.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Rethink : Revenue Podcast",
+    "url": "https://www.docket.io/",
+    "pass": 1
+   },
+   {
+    "quote": "DocketAI Raises $15 Million Series A Funding From Mayfield and Foundation Capital for an AI Teammate that Supercharges Revenue Teams | WebWire",
+    "url": "https://www.webwire.com/ViewPressRel.asp?aId=324728",
+    "pass": 3
+   },
+   {
+    "quote": "DocketAI Raises $15 Million Series A Funding From Mayfield and Foundation Capital for an AI Teammate that Supercharges Revenue Teams",
+    "url": "https://www.webwire.com/ViewPressRel.asp?aId=324728",
+    "pass": 3
+   },
+   {
+    "quote": "DocketAI provides accurate, on-demand responses to technical questions, learns from top revenue professionals to recommend best practices, and seamlessly integrates with popular tools like Gong, Sharepoint, Google Drive, Slack, web URLs, and 100+ knowledge sources",
+    "url": "https://www.webwire.com/ViewPressRel.asp?aId=324728",
+    "pass": 3
+   },
+   {
+    "quote": "Founded by serial entrepreneurs Arjun Pillai and Anoop Thomas Mathew, who have had multiple exits (Insent, acquired by ZoomInfo, and Profoundis, acquired by FullContact)",
+    "url": "https://www.webwire.com/ViewPressRel.asp?aId=324728",
+    "pass": 3
+   },
+   {
+    "quote": ", an AI startup transforming revenue enablement, today announced a $15M Series A led by",
+    "url": "https://www.webwire.com/ViewPressRel.asp?aId=324728",
+    "pass": 3
+   },
+   {
+    "quote": "Most B2B revenue teams struggle to scale their go-to-market (GTM) engines while adopting best practices to deliver revenue growth. Teams that fail to adapt to this buyer behavior experience low win rates, longer cycles, and poor seller quota attainment. In this new selling environment, account executives (AEs) need better tools to effectively engage hyper-informed buyers.",
+    "url": "https://www.webwire.com/ViewPressRel.asp?aId=324728",
+    "pass": 3
+   },
+   {
+    "quote": "Learns from top revenue professionals in real time to recommend best practices and generates customer-ready personalized documents like RFPs and RFIs in seconds, speeding up cycles.",
+    "url": "https://www.webwire.com/ViewPressRel.asp?aId=324728",
+    "pass": 3
+   },
+   {
+    "quote": "Empowers revenue teams to work smarter and faster, providing instant accurate revenue knowledge within native tools to enhance productivity and win more deals.",
+    "url": "https://www.webwire.com/ViewPressRel.asp?aId=324728",
+    "pass": 3
+   },
+   {
+    "quote": "DocketAI seamlessly integrates with popular tools like Gong, Sharepoint, Google Drive, Intercom, Microsoft Teams, Slack, ZenDesk, Web URLs, and 100+ knowledge sources. Revenue reps can simply @Docket to get instant answers in Slack/MS Teams.",
+    "url": "https://www.webwire.com/ViewPressRel.asp?aId=324728",
+    "pass": 3
+   },
+   {
+    "quote": "DocketAI has been a game-changer for our initial customers by eliminating the time wasted skimming through knowledge spread across many platforms, continued Pillai. Were excited to scale our solution to more enterprises looking to streamline revenue enablement.",
+    "url": "https://www.webwire.com/ViewPressRel.asp?aId=324728",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "When Docket books a meeting, it doesn’t hand off a name and email. It syncs the full conversation, pain points, qualification answers, company context & next steps, directly into Salesforce or HubSpot. Your rep walks into that meeting knowing exactly who they’re talking to and why they care. Every AQL arrives with a full briefing attached.",
+    "url": "https://www.docket.io/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Docket — Docket Docket AI https://app.docketai.com",
+    "url": "https://app.docketai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "DocketAI — DocketAI docketai.net https://docketai.net",
+    "url": "https://docketai.net/",
+    "pass": 3
+   },
+   {
+    "quote": "DocketAI Joins the Mayfield Family — DocketAI Joins the Mayfield Family Mayfield https://www.mayfield.com > announc...",
+    "url": "https://www.mayfield.com/announcing-docketai-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "DocketAI Raises $15 Million Series A Funding From Mayfield ... — DocketAI Raises $15 Million Series A Funding From Mayfield ... WebWire https://www.webwire.com > ViewPres...",
+    "url": "https://www.webwire.com/ViewPressRel.asp?aId=324728",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Used by leading companies including ZoomInfo and Whatfix",
+    "url": "https://www.webwire.com/ViewPressRel.asp?aId=324728",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Your website gets traffic 24/7. Why does your inbound process ... @DocketAI turns your website into an always-on AI SDR that: • Engages visitors instantly • Answers product questions • Qualifies buyers in real time https://t.co/JiE2djAwWD",
+    "url": "https://x.com/whitestonehq/status/2055584493034250586",
+    "pass": 3
+   },
+   {
+    "quote": "WhiteStone Media (@whitestonehq) / Posts / X @DocketAI replaces static forms with an AI Marketing Agent that can engage, qualify, and convert buyers instantly — any time, any day. Your website shouldn’t collect leads.",
+    "url": "https://x.com/whitestonehq",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "DocketAI - LinkedIn DocketAI - LinkedIn LinkedIn https://www.linkedin.com > docketai",
+    "url": "https://www.linkedin.com/company/docketai",
+    "pass": 3
+   },
+   {
+    "quote": "Sleeba Paul - AI Product Manager @ DocketAI - LinkedIn Sleeba Paul - AI Product Manager @ DocketAI - LinkedIn LinkedIn India https://in.linkedin.com > sleebapaul",
+    "url": "https://in.linkedin.com/in/sleebapaul",
+    "pass": 3
+   },
+   {
+    "quote": "Arjun A I - ML Engineer @ DocketAI - LinkedIn Arjun A I - ML Engineer @ DocketAI - LinkedIn LinkedIn India https://in.linkedin.com > arjun-a-i",
+    "url": "https://in.linkedin.com/in/arjun-a-i",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "B2B Marketing leaders, you're losing 98% of conversions to ... B2B Marketing leaders, you're losing 98% of conversions to ... Facebook https://www.facebook.com > docketai > posts",
+    "url": "https://www.facebook.com/docketai/posts/b2b-marketing-leaders-youre-losing-98-of-conversions-to-forms-and-stuck-defendin/122184293426639988/",
+    "pass": 3
+   },
+   {
+    "quote": "Stop losing conversions to forms with docket ai - Facebook Stop losing conversions to forms with docket ai - Facebook Facebook https://www.facebook.com > docketai > posts",
+    "url": "https://www.facebook.com/docketai/posts/b2b-marketing-leaders-youre-losing-98-of-conversions-to-forms-and-stuck-defendin/122184293954639988/",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing leaders at B2B companies with 200+ employees Marketing leaders at B2B companies with 200+ employees Facebook https://www.facebook.com > docketai > posts",
+    "url": "https://www.facebook.com/docketai/posts/marketing-leaders-at-b2b-companies-with-200-employees-it-asks-discovery-question/122179451594639988/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.docket.io/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://app.docketai.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.docket.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docketai.net/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mayfield.com/announcing-docketai-series-a/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.docket.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://exawizards.com/exabase/gpt/agent/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/search/categorysub_103",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.docket.io/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.docket.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/docket-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://app.docketai.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mayfield.com/announcing-docketai-series-a/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.docket.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://c3.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.industryweek.com/leadership/strategic-planning-execution/article/21261091/winning-with-customer-case-studies-4-tips-6-pitfalls",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sotatek.com/blogs/ai-and-machine-learning/ai-in-manufacturing-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Y-l_-CAmJ2c",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://customgpt.ai/white-label-software-to-resell/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/docket.io",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.docket.io/blog/announcing-our-dollar15m-series-a-bringing-us-closer-to-our-mission-of-revolutionizing-revenue-enablement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.webwire.com/ViewPressRel.asp?aId=324728",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/rarjunpillai_docket-went-from-30-users-to-600-in-a-few-activity-7363984269448257537-rEcj",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/whitestonehq/status/2055584493034250586",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/whitestonehq",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/docketai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/sleebapaul",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/arjun-a-i",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/docketai/posts/b2b-marketing-leaders-youre-losing-98-of-conversions-to-forms-and-stuck-defendin/122184293426639988/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/docketai/posts/b2b-marketing-leaders-youre-losing-98-of-conversions-to-forms-and-stuck-defendin/122184293954639988/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/docketai/posts/marketing-leaders-at-b2b-companies-with-200-employees-it-asks-discovery-question/122179451594639988/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Docketai 日本 導入",
+   "results": [
+    "https://app.docketai.com/",
+    "https://www.docket.io/",
+    "https://docketai.net/",
+    "https://www.mayfield.com/announcing-docketai-series-a/",
+    "https://www.g2.com/products/docket-io-docket/reviews",
+    "https://docketqa.com/",
+    "https://www.rfpaihub.com/docketai",
+    "https://www.docket.io/careers",
+    "https://www.youtube.com/watch?v=iOSHGTlZ5RM",
+    "https://generative-ai.co.jp/usecase/sales-marketing-ai/ai-startup-usecase-docketai/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Docketai 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.docket.io/",
+    "https://exawizards.com/exabase/gpt/agent/",
+    "https://dairitenboshu.com/search/categorysub_103",
+    "https://www.docket.io/about-us",
+    "https://www.knowleful.ai/partner/",
+    "https://jdnw.jp/agency/agency_cat/ai/",
+    "https://www.youtube.com/watch?v=EuZ_FdjF6QM",
+    "https://dentsu-ho.com/articles/3212",
+    "https://dodoai.ai/",
+    "https://kathalo.com/kathalog/import-business/1027/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Docketai Japan",
+   "results": [
+    "https://www.docket.io/",
+    "https://www.linkedin.com/company/docket-inc",
+    "https://app.docketai.com/",
+    "https://www.mayfield.com/announcing-docketai-series-a/",
+    "https://docketai.net/",
+    "https://docketlegal.ai/",
+    "https://www.prnewswire.com/news-releases/docketai-kicks-off-2025-with-record-growth-new-marquee-customers-product-innovations-and-strategic-expansions-302341463.html",
+    "https://www.g2.com/products/docket-io-docket/reviews",
+    "https://docketai.net/sign-in",
+    "https://marketplace.microsoft.com/ja-jp/product/wa200007674"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Docketai manufacturing customer case study",
+   "results": [
+    "https://www.docket.io/",
+    "https://c3.ai/customers",
+    "https://www.industryweek.com/leadership/strategic-planning-execution/article/21261091/winning-with-customer-case-studies-4-tips-6-pitfalls",
+    "https://www.sotatek.com/blogs/ai-and-machine-learning/ai-in-manufacturing-case-study/",
+    "https://kanerika.com/blogs/generative-ai-in-manufacturing/",
+    "https://www.hubspot.com/case-studies/directory/manufacturing",
+    "https://www.heavybit.com/library/article/customer-case-study-template",
+    "https://customer.io/learn/case-studies",
+    "https://anam.ai/case-studies/docket-ai-avatar-case-study",
+    "https://www.featuredcustomers.com/vendor/docketai"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Docketai white label OR reseller OR partner program",
+   "results": [
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.youtube.com/watch?v=Y-l_-CAmJ2c",
+    "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "https://customgpt.ai/white-label-software-to-resell/",
+    "https://www.agentz.ai/partners",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://stammer.ai/post/best-white-label-ai-software",
+    "https://www.totalum.app/blog/white-label-ai-app-builder-2026",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Docketai founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/docket.io",
+    "https://www.docket.io/blog/announcing-our-dollar15m-series-a-bringing-us-closer-to-our-mission-of-revolutionizing-revenue-enablement",
+    "https://www.webwire.com/ViewPressRel.asp?aId=324728",
+    "https://www.linkedin.com/posts/rarjunpillai_docket-went-from-30-users-to-600-in-a-few-activity-7363984269448257537-rEcj",
+    "https://tracxn.com/d/companies/docket/__asl8pn7S-qKIgS2ehKLEF9DJpkYreMqLVOqmbKgFQGA",
+    "https://www.thesaasnews.com/news/docketai-raises-15-million-in-series-a-funding/",
+    "https://www.youtube.com/watch?v=t0m0wJ6uqqA",
+    "https://www.crunchbase.com/organization/docket-a41f",
+    "https://www.prnewswire.com/news-releases/docketai-expands-leadership-team-with-multiple-strategic-hires-302278304.html",
+    "https://fundediq.co/docket-docketai-com-funding/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Docketai",
+   "results": [
+    "https://note.com/soichi_noguchi",
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/hananosu/m/m948b8bdd3211",
+    "https://note.com/you0810jmsdf/n/nea486bcfb802?hl=en",
+    "https://note.com/toru_okada/n/nc70a175bdbfb",
+    "https://note.com/nisaitoyou/n/n67e0ccabbd49",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Docketai",
+   "results": [
+    "https://x.com/whitestonehq/status/2055584493034250586",
+    "https://blog.x.com/",
+    "https://x.com/whitestonehq",
+    "https://blog.x.com/en/engineering/rebuilding-the-global-town-square-from-scratch",
+    "https://help.x.com/en/using-x/view-counts",
+    "https://help.x.com/en/using-x/create-x-account",
+    "https://x.com/DocketAlarm"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Docketai",
+   "results": [
+    "https://www.linkedin.com/company/docket-inc",
+    "https://www.linkedin.com/company/docketai",
+    "https://in.linkedin.com/in/sleebapaul",
+    "https://in.linkedin.com/in/arjun-a-i",
+    "https://www.linkedin.com/in/rarjunpillai",
+    "https://www.linkedin.com/posts/docket-inc_zoominfo-alum-raises-15m-for-startup-that-activity-7222257182145191937--Qz9",
+    "https://www.linkedin.com/posts/rarjunpillai_im-beyond-excited-to-share-that-weve-moved-activity-7284957269610356738-bv_D",
+    "https://www.linkedin.com/in/atmb4u",
+    "https://www.linkedin.com/in/davidasingh"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com Docketai",
+   "results": [
+    "https://www.facebook.com/docketai/posts/b2b-marketing-leaders-youre-losing-98-of-conversions-to-forms-and-stuck-defendin/122184293426639988/",
+    "https://www.facebook.com/docketai/posts/b2b-marketing-leaders-youre-losing-98-of-conversions-to-forms-and-stuck-defendin/122184293954639988/",
+    "https://www.facebook.com/keralastartupmission/posts/kerala-startup-mission-hosted-an-insightful-founder-roundtable-with-arjun-pillai/1363720895905348/",
+    "https://www.facebook.com/docketai/posts/marketing-leaders-at-b2b-companies-with-200-employees-it-asks-discovery-question/122179451594639988/",
+    "https://www.facebook.com/keralastartupmission/posts/join-us-for-an-exclusive-founder-roundtable-with-arjun-pillai-founder-ceo-of-doc/1346399640970807/",
+    "https://www.facebook.com/SalesTechStar/posts/the-main-argument-is-that-salestech-is-moving-from-just-collecting-and-qualifyin/1570134498466784/",
+    "https://www.facebook.com/SalesTechStar/posts/niq-and-google-partner-to-advance-agentic-commerce-salestech-aiinsales-salesenab/1562549135891987/",
+    "https://www.facebook.com/SalesTechStar/posts/gudea-appoints-christine-dipietro-as-chief-of-staff-salestech-aiinsales-salesena/1570065741806993/",
+    "https://www.facebook.com/SalesTechStar/posts/backstory-the-ai-platform-built-for-revenue-teams-recently-announced-the-appoint/1571235665023334/",
+    "https://www.facebook.com/SalesTechStar/posts/phrase-appoints-david-pavlik-as-chief-executive-officer-and-promotes-ian-woolley/1566911432122424/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "Docketai note 社長",
+   "results": [
+    "https://www.docket.io/",
+    "https://www.linkedin.com/company/docket-inc",
+    "https://www.mayfield.com/announcing-docketai-series-a/",
+    "https://www.youtube.com/watch?v=t0m0wJ6uqqA",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://note.com/ai_shacho",
+    "https://note.jp/n/n61ffb9f9bf8f",
+    "https://x.com/sadaaki",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Docketai X 投稿",
+   "results": [
+    "https://app.docketai.com/",
+    "https://www.docket.io/",
+    "https://www.linkedin.com/company/docket-inc",
+    "https://docketai.net/",
+    "https://www.mayfield.com/announcing-docketai-series-a/",
+    "https://www.g2.com/products/docket-io-docket/reviews",
+    "https://x.com/docketqa",
+    "https://docketqa.com/",
+    "https://www.youtube.com/watch?v=VHGqD0sAZ9M",
+    "https://x.com/DocketAI"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）"
+ }
+}

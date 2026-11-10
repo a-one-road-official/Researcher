@@ -1,0 +1,899 @@
+{
+ "name": "Axlehealth",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜未接触",
+ "researched_at": "2026-11-10T18:39:14.554241+00:00",
+ "official_url": "https://www.axlehealth.com",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "・創業の原体験",
+    "value": "・創業の原体験：2020年の新型コロナウイルス感染拡大期に病院が在宅医療の導入を急ぐ中、ギグエコノミー分野の運行技術を医療へ導入することを目指して設立されました",
+    "url": "https://www.firstcvc.jp/global/axlehealth.com",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Axle Health increases clinician productivity by 17%+ through AI scheduling, route optimization, and automated patient engagement",
+    "url": "https://www.axlehealth.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Gain insights into field productivity and route efficiency",
+    "url": "https://www.axlehealth.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Give patients the same visibility and seamless experience they’ve come to expect from today’s leading service providers",
+    "url": "https://www.axlehealth.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Increased Clinician Productivity",
+    "url": "https://www.axlehealth.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Axle Health connects directly to your existing systems with pre-built integrations for all major EMR platforms—or use our flexible APIs to build your own integrations",
+    "url": "https://www.axlehealth.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Approved by industry leaders",
+    "url": "https://www.axlehealth.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Axle customers report happier clinicians, more efficient operations, and improved patient experiences—all at the same time",
+    "url": "https://www.axlehealth.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We've looked at a lot of home health scheduling tools, and Axle is by far the best we've ever seen. Our clinicians love it, and they're more productive, so it's a win-win for everybody. Integration with HCHB is smooth and the route optimization saves my clinicians time every day. Strongly recommend.",
+    "url": "https://www.axlehealth.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Product Officer",
+    "url": "https://www.axlehealth.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Axle’s product has been a great upgrade for us. It has helped us improve clinician efficiency and made running our operations easier. We now have real-time visibility into each of our markets and our teams have easier access to their schedules and patients.",
+    "url": "https://www.axlehealth.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See how leading home health care providers use Axle Health to increase productivity, improve patient satisfaction, and streamline operations",
+    "url": "https://www.axlehealth.com/",
+    "pass": 1
+   },
+   {
+    "quote": "productivity 17%",
+    "url": "https://www.axlehealth.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Axle is built with enterprise-grade security and compliance at its core—so you can deploy confidently across your entire organization",
+    "url": "https://www.axlehealth.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Axle supports 20+ IdPs (Google, Okta, etc) so you can authenticate using your SSO/SAML provider.",
+    "url": "https://www.axlehealth.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Axle provides fine-grained role types and permissions to ensure users have the appropriate levels of access.",
+    "url": "https://www.axlehealth.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Axle supports 20+ IdPs (Google, Okta, etc) so you can authenticate using your SSO/SAML provider",
+    "url": "https://www.axlehealth.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Axle provides fine-grained role types and permissions to ensure users have the appropriate levels of access",
+    "url": "https://www.axlehealth.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Axle’s cost is based on your estimated savings - our team will conduct an ROI analysis for you and use that to determine the price.",
+    "url": "https://www.axlehealth.com/",
+    "pass": 1
+   },
+   {
+    "quote": "No - your Axle implementation manager will build a custom onboarding plan for you based on your operational and technical needs, and will configure your account, prepare custom training materials, and conduct the initial training sessions for your users until your team is ready to take over.",
+    "url": "https://www.axlehealth.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See how leading home health care providers use Axle Health to increase productivity, improve patient satisfaction, and streamline operations",
+    "url": "https://www.axlehealth.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "productivity 17%",
+    "url": "https://www.axlehealth.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "productive with fewer clicks",
+    "url": "https://www.axlehealth.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Increase clinician productivity by 17%+ through AI scheduling, route optimization, and automated patient engagement",
+    "url": "https://www.axlehealth.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Join us on our mission to empower home healthcare providers with innovative technology that drives operational excellence.",
+    "url": "https://www.axlehealth.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "At Axle, our values aren’t just principles—they’re how we work, build, and show up every day. Here’s what drives us forward, together.",
+    "url": "https://www.axlehealth.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We ask hard questions, challenge assumptions, and stay open to new perspectives - because solving big problems starts with honest thinking.",
+    "url": "https://www.axlehealth.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We design with empathy for all - patients, clinicians, and everyone involved in providing care.",
+    "url": "https://www.axlehealth.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "At Axle Health, our mission is to empower home health care providers with innovative technology that drives operational excellence",
+    "url": "https://www.axlehealth.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "With predictive forecasting and real-time data, Axle helps providers make smarter staffing and scheduling decisions",
+    "url": "https://www.axlehealth.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We’ve built Axle with experience from the frontlines of patient care to leading roles in health tech and logistics platforms",
+    "url": "https://www.axlehealth.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We’re proud to be supported by firms that specialize in healthcare innovation, operations platforms, and AI-driven transformation",
+    "url": "https://www.axlehealth.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "WellSky is a technology company advancing human wellness worldwide. software and professional services address the continuum of health and social care helping businesses, organizations, and communities solve tough challenges, improve …",
+    "url": "https://www.featuredcustomers.com/vendor/axle-health/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Netsmart is the trusted partner for health and human services’ largest connected community of providers and payers. Netsmart provides on demand and traditional software solutions to automate key financial, clinical …",
+    "url": "https://www.featuredcustomers.com/vendor/axle-health/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "AlayaCare is a provider of revolutionary cloud-based home health care software. With an end-to-end solution spanning clinical documentation, back-office functionality, client and family portals, remote patient monitoring, and mobile care …",
+    "url": "https://www.featuredcustomers.com/vendor/axle-health/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Let potential prospects find you on the world's only",
+    "url": "https://www.featuredcustomers.com/vendor/axle-health/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/axle-health/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "FREE and learn about our upgraded profile options to",
+    "url": "https://www.featuredcustomers.com/vendor/axle-health/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "unlock all of your customer references for prospects",
+    "url": "https://www.featuredcustomers.com/vendor/axle-health/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/axle-health/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Cityblock increases clinician productivity with Axle Health",
+    "url": "https://www.casestudies.com/company/axle-health",
+    "pass": 3
+   },
+   {
+    "quote": "Chief Product Officer",
+    "url": "https://www.casestudies.com/company/axle-health",
+    "pass": 3
+   },
+   {
+    "quote": "Vice President, Health Services",
+    "url": "https://www.casestudies.com/company/axle-health",
+    "pass": 3
+   },
+   {
+    "quote": "Axle Health Company Profile and Key Stats",
+    "url": "https://fundediq.co/axle-health-axlehealth-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "We are dedicated to revolutionizing gastric bypass. From the procedure to the recovery, our skilled team of…",
+    "url": "https://fundediq.co/axle-health-axlehealth-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Treso operates as a financial software provider that develops an integrated financial operating system…",
+    "url": "https://fundediq.co/axle-health-axlehealth-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Optain produces medical tools and technology with the aim of providing healthcare access to everyone,…",
+    "url": "https://fundediq.co/axle-health-axlehealth-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Using technology and the best professionals, Wally, a membership-based dental care service, offers proactive,…",
+    "url": "https://fundediq.co/axle-health-axlehealth-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "PreciseDx is a unique Cancer Risk Stratification company that offers personalized risk information by…",
+    "url": "https://fundediq.co/axle-health-axlehealth-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "General Medicine provides a convenient and straightforward way to access top-quality healthcare services with…",
+    "url": "https://fundediq.co/axle-health-axlehealth-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "SedMed provides medical devices that support safer toileting transfers and help prevent falls for individuals…",
+    "url": "https://fundediq.co/axle-health-axlehealth-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "FundedIQ tracks announced funding rounds and refreshes this profile every week. Round dates,",
+    "url": "https://fundediq.co/axle-health-axlehealth-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Radar from $49/mo · Pro from $149/mo. Card required, nothing charged until",
+    "url": "https://fundediq.co/axle-health-axlehealth-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Workforce Management Software",
+    "url": "https://getlatka.com/companies/axlehealth.com",
+    "pass": 3
+   },
+   {
+    "quote": "Best Collaboration & Productivity Software",
+    "url": "https://getlatka.com/companies/axlehealth.com",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/axlehealth.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/axlehealth.com",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "We’re a team of top-tier engineers and operators using our intellect and logistics expertise to upend how home healthcare is delivered.",
+    "url": "https://www.axlehealth.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/axle-health/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "SymKardia is healthcare manufacturing company that develops medical device to treat cardiac arrhythmias.",
+    "url": "https://fundediq.co/axle-health-axlehealth-com-funding/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Want to be part of something meaningful? Explore careers at Axle Health and help us transform the way care is delivered at home.",
+    "url": "https://www.axlehealth.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Huscarlは、企業の自家保険（セルフインシュアランス）および自家保険子会社（キャプティブ）の運用を支援するAIアクチュアリー（保険数理）プラットフォー...",
+    "url": "https://www.firstcvc.jp/global/axlehealth.com",
+    "pass": 3
+   },
+   {
+    "quote": "Metriportは、米国の医療データを統合・標準化し、医療従事者や臨床AIエージェントにリアルタイムで提供するオープンソースの医療データインフラ企業であ...",
+    "url": "https://www.firstcvc.jp/global/axlehealth.com",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/axle-health/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "SymKardia is healthcare manufacturing company that develops medical device to treat cardiac arrhythmias.",
+    "url": "https://fundediq.co/axle-health-axlehealth-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Connor Hailey is listed as CEO at Axle Health.",
+    "url": "https://fundediq.co/axle-health-axlehealth-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Axle Health have?",
+    "url": "https://fundediq.co/axle-health-axlehealth-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/axle-health-axlehealth-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/axle-health-axlehealth-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Axle Health Revenue 2024: $2.3M Est.",
+    "url": "https://getlatka.com/companies/axlehealth.com",
+    "pass": 3
+   },
+   {
+    "quote": "Axle Health has not published its revenue. GetLatka estimates it at about $2.3M a year (December 2024).",
+    "url": "https://getlatka.com/companies/axlehealth.com",
+    "pass": 3
+   },
+   {
+    "quote": "All 2 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/axlehealth.com",
+    "pass": 3
+   },
+   {
+    "quote": "Axle Health CEO, founders & employees",
+    "url": "https://getlatka.com/companies/axlehealth.com",
+    "pass": 3
+   },
+   {
+    "quote": "Adam Stansell founded Axle Health in 2020 and runs it as CEO. Axle Health had 15 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/axlehealth.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Axle Health's revenue?",
+    "url": "https://getlatka.com/companies/axlehealth.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Axle Health's revenue at about",
+    "url": "https://getlatka.com/companies/axlehealth.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Axle Health have?",
+    "url": "https://getlatka.com/companies/axlehealth.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/axlehealth.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/axlehealth.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/axlehealth.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/axlehealth.com",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Home - Axle Health — Axle Health: Axle Health provides scheduling and workforce management software to help home healthcare and hospice providers improve their clinician productivity.",
+    "url": "https://www.axlehealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Axle Healthの資金調達・投資家情報 | 海外スタートアップ | FIRST CV... — F-Prime Capital、Y Combinatorのポートフォリオに掲載される海外スタートアップAxle Healthの企業プロフィール。Axle Healthは、在宅医療や訪問看護、ホスピスなどの訪問診療事業者向けに、人工知能（AI）を活用した運行管理およびスケジューリングSaaSを提供する米国のヘルスケ...",
+    "url": "https://www.firstcvc.jp/global/axlehealth.com",
+    "pass": 3
+   },
+   {
+    "quote": "デル・テクノロジーズ (株)の会社概要 | マイナビ2028Log In | Axle HealthIPSEN—私たちについてデル・テクノロジーズ株式会社 企業情報 | Dell 日本総代理店とは何か？代理店、販売店との違いと英語契約書の場合 – KATH... — 18 hours ago · デル・テクノロジーズ(株)の会社概要ページです。マイナビ2028は、インターンシップ＆キャリア、前年の採用データ、エントリー情報を公開しており、自己分析や企業研究、皆さんの就職活動をサポートします。 Axle Health Partner App パーパスに根ざしたIPSEN の社員は、毎日、患者さんの人生に真の変化をもたらすことに情熱を注いでいます。 私たちは、患者さん・患者さんのご家族・医療従事者の皆さんの生活に貢献できる革新的な医薬品を発見し、世に送り出すことを目指して挑戦し続けていきます。",
+    "url": "https://job.mynavi.jp/28/pc/search/corp77451/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "About - Axle Health — We’re a team of top-tier engineers and operators using our intellect and logistics expertise to upend how home healthcare is delivered. Want to be part of something meaningful? Explore careers at Axle Health and help us transform the way care is delivered at home.",
+    "url": "https://www.axlehealth.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Axle Health - LinkedIn — Axle Health provides scheduling and workforce management software to help home healthcare and hospice providers improve their clinician productivity. Our platform includes an analytics suite and ...",
+    "url": "https://www.linkedin.com/company/axle-health",
+    "pass": 3
+   },
+   {
+    "quote": "Log In | Axle Health — Axle Health Partner App",
+    "url": "https://partner.axlehealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "2 Axle Health Case Studies, Success Stories, & Customer ... — Narrow down 2 case studies by company size & industry to find out how Axle Health works for a business like yours.",
+    "url": "https://www.featuredcustomers.com/vendor/axle-health/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Axle Health B2B Case Studies & Customer Successes — Axle Health provides scheduling and workforce management software to help home healthcare and hospice providers improve their clinician productivity. The platform includes an analytics suite and operations dashboard for office teams, proprietary logistics algorithms to optimize scheduling, a mobile app for field staff, and a patient engagement an",
+    "url": "https://www.casestudies.com/company/axle-health",
+    "pass": 3
+   },
+   {
+    "quote": "Contact - Axle Health — Axle customers report happier clinicians, more efficient operations, and improved patient experiences—all at the same time",
+    "url": "https://www.axlehealth.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "Axle Health - 2026 Company Profile, Team, Funding ... - TracxnAxle Health 2026 Company Profile: Valuation, Funding ...Axle Health – Market Position & Workforce Comparison – 2026How Axle Health hit $2.3M revenue with a 15 person team in 2024.Axle Health: Funding, Investors & Team (Nov 2026) | FundedIQAxle Health Revenue 2024: $2.3M Est. - getlatka.comAxle Health Funding History: $14.2M | Indexed.vc",
+    "url": "https://tracxn.com/d/companies/axle-health/__XiPcX3-1P8H6iR2afNpeefTFHRe29qHZY4muMfATwp4",
+    "pass": 3
+   },
+   {
+    "quote": "Axle Health 2026 Company Profile: Valuation, Funding ...Axle Health – Market Position & Workforce Comparison – 2026How Axle Health hit $2.3M revenue with a 15 person team in 2024.Axle Health: Funding, Investors & Team (Nov 2026) | FundedIQAxle Health Revenue 2024: $2.3M Est. - getlatka.comAxle Health Funding History: $14.2M | Indexed.vc — Information on valuation, funding, cap tables, investors, a",
+    "url": "https://pitchbook.com/profiles/company/463301-20",
+    "pass": 3
+   },
+   {
+    "quote": "Axle Health: Funding, Investors & Team (Nov 2026) | FundedIQ — Axle Health is in the 11-50 employee band. How does Axle Health's funding compare to other Health Care startups? Axle Health's latest round of $10.0M is above the $5.0M median round size for Health Care companies on FundedIQ across 3,662 tracked companies over the last two years. About FundedIQ's Axle Health Funding Data",
+    "url": "https://fundediq.co/axle-health-axlehealth-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Axle Health Revenue 2024: $2.3M Est. - getlatka.com — Aug 10, 2026 · Axle Health 2024 estimated revenue: $2.3M. 15 employees. Industry: Business Scheduling Software. Founded 2020. HQ: United States. Updated Aug 10, 2026.",
+    "url": "https://getlatka.com/companies/axlehealth.com",
+    "pass": 3
+   },
+   {
+    "quote": "Axle Health Funding History: $14.2M | Indexed.vc — Aug 31, 2026 · Axle Health Scheduling and workforce management SaaS for home healthcare providers Axle Health was founded in 2020, is headquartered in Los Angeles, United States, lists 1–10 employees, and has $14.2M in recorded funding across 2 rounds.",
+    "url": "https://indexed.vc/companies/axle-health",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/axle-health/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/axle-health/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/axle-health-axlehealth-com-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Connor Hailey (@ConnorHailey3) / X Connor Hailey @ConnorHailey3 Prev: founded @ axlehealth, @ ycombinator alum connorhailey.substack.com Joined March 2019 56",
+    "url": "https://x.com/ConnorHailey3",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Adam Stansell - Axle Health | LinkedInAnnouncing Axle Health - the Next Generation of In-Home ...Senior Software Engineer, DevOps and InfrastructureJessica Alonso - CTO @ Axle Health | LinkedInAxle - LinkedInAxle Health raises $10M for AI-powered home healthcare ... Building the future of home health - we're hiring!… · Experience: Axle Health · Education: Columbia University in the City of New Yor",
+    "url": "https://www.linkedin.com/in/adam-stansell",
+    "pass": 3
+   },
+   {
+    "quote": "Jessica Alonso - CTO @ Axle Health | LinkedInAxle - LinkedInAxle Health raises $10M for AI-powered home healthcare ... CTO @ Axle Health · Experience: Axle Health · Location: Santa Monica · 500+ connections on LinkedIn. View Jessica Alonso’s profile on LinkedIn, a professional community of 1 billion members. At Axle, we are driven by the mission to accelerate discovery and enhance organizational o",
+    "url": "https://www.linkedin.com/in/jessicaalonso",
+    "pass": 3
+   },
+   {
+    "quote": "Axle Health - LinkedIn Axle Health provides scheduling and workforce management software to help home healthcare and hospice providers improve their clinician productivity. Our platform includes an analytics suite and ...",
+    "url": "https://www.linkedin.com/company/axle-health",
+    "pass": 3
+   },
+   {
+    "quote": "Adam Stansell - Axle Health | LinkedInAxle Health - 2026 Company Profile, Team, Funding ... - TracxnPitch Deck: This Ex-Uber Team Raised $10 Million for Home ...Axle Health - F-Prime CapitalCheck out the exclusive 18-slide pitch deck an ex-Uber leader ...Axle Health nabs $4.2M for home health care ... - Axios Building the future of home health - we're hiring!… · Experience: Axle Health · Education",
+    "url": "https://www.linkedin.com/in/adam-stansell",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.axlehealth.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.axlehealth.com/case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.axlehealth.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.axlehealth.com/about",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.dreamnews.jp/press/0000251033/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.firstcvc.jp/global/axlehealth.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.nicovideo.jp/watch/nw10371661",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp77451/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.firstcvc.jp/global/axlehealth.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/axle-health",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/axle-health/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/axle-health",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S2214785321059745",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.itreseller.es",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/axle-health/__XiPcX3-1P8H6iR2afNpeefTFHRe29qHZY4muMfATwp4",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/463301-20",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://fundediq.co/axle-health-axlehealth-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/axlehealth.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/ConnorHailey3",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/adam-stansell",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/jessicaalonso",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/axle-health",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/adam-stansell",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Axlehealth 日本 導入",
+   "results": [
+    "https://www.axlehealth.com/",
+    "https://www.dreamnews.jp/press/0000251033/",
+    "https://www.firstcvc.jp/global/axlehealth.com",
+    "https://news.nicovideo.jp/watch/nw10371661",
+    "https://jinjibu.jp/service/detl/17409/",
+    "https://www.nac-care.co.jp/news/20220107-2/",
+    "https://bhn.jp/articles/187023"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Axlehealth 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://job.mynavi.jp/28/pc/search/corp77451/outline.html",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.axlehealth.com/",
+    "https://partner.axlehealth.com/",
+    "https://www.ipsen.com/japan/会社/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Axlehealth Japan",
+   "results": [
+    "https://www.axlehealth.com/",
+    "https://www.axlehealth.com/about",
+    "https://www.firstcvc.jp/global/axlehealth.com",
+    "https://www.linkedin.com/company/axle-health",
+    "https://partner.axlehealth.com/",
+    "https://innovatopia.jp/healthcare/healthcare-news/14343/",
+    "https://app.deskrex.ai/discover/database/cmf6znjd30048ttvh8ousb6fl/entity/cmf6zrn58004ottvhp1raofsk"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Axlehealth manufacturing customer case study",
+   "results": [
+    "https://www.featuredcustomers.com/vendor/axle-health/case-studies",
+    "https://www.casestudies.com/company/axle-health",
+    "https://www.axlehealth.com/contact",
+    "https://www.sciencedirect.com/science/article/pii/S2214785321059745",
+    "https://www.axlehealth.com/",
+    "https://homehealthcarenews.com/2025/05/axle-health-raises-10m-to-accelerate-ai-home-based-care-tech-development/",
+    "https://www.prnewswire.com/news-releases/axle-health-secures-10m-in-series-a-financing-to-revolutionize-home-health-operations-302462151.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Axlehealth white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "http://itreseller.es/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.reseller.co.nz/",
+    "https://retailers.bossrevolution.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Axlehealth founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/axle-health/__XiPcX3-1P8H6iR2afNpeefTFHRe29qHZY4muMfATwp4",
+    "https://pitchbook.com/profiles/company/463301-20",
+    "https://fundediq.co/axle-health-axlehealth-com-funding/",
+    "https://getlatka.com/companies/axlehealth.com",
+    "https://indexed.vc/companies/axle-health",
+    "https://getlatka.com/companies/axlehealth.com/customers",
+    "https://compworth.com/company/axle-health"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Axlehealth",
+   "results": [
+    "https://note.com/worldpeace2024",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/tag/M3秋2026",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/yuyadachi/n/n509ef67b2d6c"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Axlehealth",
+   "results": [
+    "https://x.com/ConnorHailey3",
+    "https://x.com/lfx160219",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/_InfoGram_/status/2118253289573949943",
+    "https://x.com/CogitoEdu/status/2117911840973861028",
+    "https://x.com/BuzzingPop/status/2117864405064892847",
+    "https://x.com/Marlayna29/status/2115433590150606880"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Axlehealth",
+   "results": [
+    "https://www.linkedin.com/in/adam-stansell",
+    "https://www.linkedin.com/in/jessicaalonso",
+    "https://www.linkedin.com/company/axle-informatics",
+    "https://www.linkedin.com/company/axle-health",
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-devops-and-infrastructure-at-axle-health-4403801510",
+    "https://www.linkedin.com/pulse/announcing-axle-health-next-generation-in-home-connor-hailey/",
+    "https://www.linkedin.com/posts/aimresearch-ai_axle-health-has-raised-10-million-in-series-activity-7331706380904480769-v8pc"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Axlehealth",
+   "results": [
+    "https://www.facebook.com/axelhealthprimarycare/",
+    "https://www.facebook.com/axlehq/",
+    "https://lite.facebook.com/",
+    "https://secure.facebook.com/",
+    "https://secure.facebook.com/login/",
+    "https://business.facebook.com/groups/493248277521716/",
+    "https://apps.facebook.com/groups/182327621903716/permalink/1910976742372120/?sale_post_id=1910976742372120"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Axlehealth note 社長",
+   "results": [
+    "https://www.axlehealth.com/",
+    "https://www.linkedin.com/in/adam-stansell",
+    "https://tracxn.com/d/companies/axle-health/__XiPcX3-1P8H6iR2afNpeefTFHRe29qHZY4muMfATwp4",
+    "https://www.businessinsider.com/pitch-deck-ex-uber-raised-10-million-home-health-ai-2025-5",
+    "https://fprimecapital.com/company/axle-health/",
+    "https://b17news.com/check-out-the-exclusive-18-slide-pitch-deck-an-ex-uber-leader-used-to-raise-10-million-to-build-ai-for-hospital-at-home-tech/",
+    "https://www.axios.com/pro/health-tech-deals/2024/02/22/axle-4m-home-health-care-software-workforce-scheduling"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Axlehealth X 投稿",
+   "results": [
+    "https://www.axlehealth.com/",
+    "https://x.com/i/trending/2115323131061551300",
+    "https://partner.axlehealth.com/patients",
+    "https://www.axlehealth.com/contact",
+    "https://x.com/Yuichi1673402/status/2119316489467777134",
+    "https://www.v2ex.com/t/1255227",
+    "https://www.a8.net/as/x/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部25頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部25頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部25頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部25頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部25頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部25頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部25頁・検索12回）"
+ }
+}

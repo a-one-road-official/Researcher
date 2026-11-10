@@ -1,0 +1,1011 @@
+{
+ "name": "兵庫県立工業技術センター",
+ "aliases": [],
+ "context": "PBF=yes 装置=L-PBF;PBF 出典=https://www.hyogo-kg.jp/kiki/3011906",
+ "researched_at": "2026-11-10T18:06:07.675895+00:00",
+ "official_url": "https://www.hyogo-kg.jp/",
+ "identified_by": "search:yahoo_jp:兵庫県立工業技術センター",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒677-0054 兵庫県西脇市野村町1790-496 地図・アクセスはこちら",
+    "url": "https://www.hyogo-kg.jp/guide/seni",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒670-0811 兵庫県姫路市野里3 地図・アクセスはこちら",
+    "url": "https://www.hyogo-kg.jp/guide/hikaku",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒654-0037 神戸市須磨区行平町３丁目1-12（兵庫県立工業技術センター内） 地図・アクセスはこちら",
+    "url": "https://www.hyogo-kg.jp/koku",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒671-2280 姫路市書写2167 姫路工学キャンパス内 地図・アクセスはこちら",
+    "url": "https://www.hyogo-kg.jp/about/kinzoku",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "兵庫県 神戸市須磨区行平町3-1-12",
+    "url": "https://tenshoku.mynavi.jp/company/445565/",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "〒654-0037　神戸市須磨区行平町3-1-12",
+    "url": "https://www.shien-nethg.jp/shienkikan/5/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "兵庫県立工業技術センターは、地域産業の技術支援を目的として設立されており、研究開発、企業の技術相談への対応、人材育成などを行っています",
+    "url": "https://tenshoku.mynavi.jp/company/445565/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：1917年5月",
+    "url": "https://tenshoku.mynavi.jp/company/445565/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "ローカル5Gを活用したスマート工場導入支援セミナー＆デモンストレーション会",
+    "url": "https://www.hyogo-kg.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "神戸大学研究基盤センター機器分析部門で保有の機器もご参照下さい",
+    "url": "https://www.hyogo-kg.jp/kiki",
+    "pass": 1
+   },
+   {
+    "quote": "のこぎり発注の解消には、受注者側が非破壊検査技術を保有することが必要不可欠です",
+    "url": "https://www.hyogo-kg.jp/koku",
+    "pass": 1
+   },
+   {
+    "quote": "ローカル5Gを活用したスマート工場導入支援セミナー＆デモンストレーション会",
+    "url": "https://www.hyogo-kg.jp/topics",
+    "pass": 1
+   },
+   {
+    "quote": "ローカル5Gを活用したスマート工場導入支援セミナー＆デモンストレーション会（令和8年度第2回）",
+    "url": "https://www.hyogo-kg.jp/topics",
+    "pass": 1
+   },
+   {
+    "quote": "JKA補助の導入機器 36 件",
+    "url": "https://www.hyogo-kg.jp/kiki?meta_key=itemcat&meta_value=JKA%E8%A3%9C%E5%8A%A9",
+    "pass": 1
+   },
+   {
+    "quote": "神戸大学研究基盤センター機器分析部門で保有の機器もご参照下さい",
+    "url": "https://www.hyogo-kg.jp/kiki?meta_key=itemcat&meta_value=JKA%E8%A3%9C%E5%8A%A9",
+    "pass": 1
+   },
+   {
+    "quote": "この設備は、公益財団法人JKAの2025年度「公設工業試験研究所等における機械設備拡充補助事業」によって導入されました",
+    "url": "https://www.hyogo-kg.jp/kiki/item3541",
+    "pass": 1
+   },
+   {
+    "quote": "工業技術センターが保有する機器・設備を時間貸しでご利用いただけます",
+    "url": "https://www.hyogo-kg.jp/guide/usage",
+    "pass": 1
+   },
+   {
+    "quote": "当センターが保有する試験分析機器や設備は企業の技術者の皆様にご利用いただけます",
+    "url": "https://www.hyogo-kg.jp/guide/usage",
+    "pass": 1
+   },
+   {
+    "quote": "を導入し、４月から開放機器としてご利用いただく予定にしております",
+    "url": "https://www.hyogo-kg.jp/apparatus/item3076",
+    "pass": 1
+   },
+   {
+    "quote": "）に新規導入する機器の設置スペースを確保するため、施設内の既設試験・加工機器等の移設および廃",
+    "url": "https://www.hyogo-kg.jp/download/topics/public_tender/public_tender_20260929.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（ 3）契約書は ２ 通作成し、双方各 1 通保有する",
+    "url": "https://www.hyogo-kg.jp/download/topics/public_tender/public_tender_20260929.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "する電子署名を行い、各自その電磁的記録を保有する",
+    "url": "https://www.hyogo-kg.jp/download/topics/public_tender/public_tender_20260929.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "第５ 乙は、この契約による事務に関して知ることのできた個人情報について、保有する必要がなくなった",
+    "url": "https://www.hyogo-kg.jp/download/topics/public_tender/public_tender_20260929.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金属3Dプリンタ",
+    "url": "https://www.hyogo-kg.jp/download/kiki/Ryoukin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "センターでは保有する機器の大部分を、企業の技術者が自ら、機器を操作して分析、評価を行い、問題解決や新製品開発に役立てていただけるよう開放しています",
+    "url": "https://www.shien-nethg.jp/shienkikan/5/",
+    "pass": 3
+   },
+   {
+    "quote": "また、当所が保有する機器、技術等で対応可能で、内容の明確な試験・分析等を受託して行います（受託研究）",
+    "url": "https://www.shien-nethg.jp/shienkikan/5/",
+    "pass": 3
+   },
+   {
+    "quote": "シーズ保有機関 ： 兵庫県立工業技術センター",
+    "url": "https://www.niro.or.jp/pdf/09_3D%20printer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "工業技術センターでは、今年度３Ｄものづくり支援センターを開設し、金属３Ｄプリンタや砂型３Ｄプリンタを導入",
+    "url": "https://www.niro.or.jp/pdf/09_3D%20printer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県立工業技術センター 新規導入機器紹介セミナー開催のご案内 | 協同組合尼崎工業会｜兵庫県尼崎市",
+    "url": "https://www.aia-net.or.jp/20260609-02/",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県立工業技術センター 新規導入機器紹介セミナー開催のご案内",
+    "url": "https://www.aia-net.or.jp/20260609-02/",
+    "pass": 3
+   },
+   {
+    "quote": "このたび兵庫県立工業技術センターでは、令和７年度に新たに導入しました",
+    "url": "https://www.aia-net.or.jp/20260609-02/",
+    "pass": 3
+   },
+   {
+    "quote": "ご紹介する「新規導入機器紹介セミナー」を開催致します",
+    "url": "https://www.aia-net.or.jp/20260609-02/",
+    "pass": 3
+   },
+   {
+    "quote": "・令和７年度導入機器の紹介",
+    "url": "https://www.aia-net.or.jp/20260609-02/",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県立工業技術センター新規導入機器紹介セミナー_チラシ",
+    "url": "https://www.aia-net.or.jp/20260609-02/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業だと（大企業でも）、たまにしか使わない高価な機器を保有するのは難しいです",
+    "url": "https://note.com/hyogo_kg/n/nef7ac5401de0",
+    "pass": 3
+   },
+   {
+    "quote": "AIや分子シミュレーションのような先進技術や新規導入機器の利用方法、地場産業の基礎技術などの研修です",
+    "url": "https://note.com/hyogo_kg/n/nef7ac5401de0",
+    "pass": 3
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "（1）試作実験館１F機械材料試験室Ⅰ",
+    "url": "https://www.hyogo-kg.jp/notice/item3646",
+    "pass": 1
+   },
+   {
+    "quote": "（2）試作実験館１F 貨物試験室",
+    "url": "https://www.hyogo-kg.jp/notice/item3646",
+    "pass": 1
+   },
+   {
+    "quote": "（3）試作実験館１F 機械材料試験室Ⅱ",
+    "url": "https://www.hyogo-kg.jp/notice/item3646",
+    "pass": 1
+   },
+   {
+    "quote": "機器活用セミナー「全自動無縫製横編試作支援システム」",
+    "url": "https://www.hyogo-kg.jp/guide/seni",
+    "pass": 1
+   },
+   {
+    "quote": "航空産業非破壊検査トレーニングセンター - 兵庫県立工業技術センター",
+    "url": "https://www.hyogo-kg.jp/koku",
+    "pass": 1
+   },
+   {
+    "quote": "「航空産業非破壊検査トレーニングセンター」再訓練・リフレッシュ訓練（ＰＴ・ＭＴ）受講者募集のお知らせ 募集期間：4月21日（月）～5月2日（金）",
+    "url": "https://www.hyogo-kg.jp/koku",
+    "pass": 1
+   },
+   {
+    "quote": "航空機の需要拡大に伴い、航空機部品の増産が見込まれています",
+    "url": "https://www.hyogo-kg.jp/koku",
+    "pass": 1
+   },
+   {
+    "quote": "このため、検査員の育成を目的として、国際認証規格（NAS410）に準拠した国内初の訓練機関「航空産業非破壊検査トレーニングセンター」を設立しました",
+    "url": "https://www.hyogo-kg.jp/koku",
+    "pass": 1
+   },
+   {
+    "quote": "航空機産業における非破壊検査員を養成することを目的として、2017年11月1日に航空産業非破壊検査トレーニングセンターを開設しました",
+    "url": "https://www.hyogo-kg.jp/koku",
+    "pass": 1
+   },
+   {
+    "quote": "（硬質樹脂、透明樹脂、ゴムライク樹脂、ABSライク樹脂、生体適合クリア樹脂、低コスト試作用樹脂など）",
+    "url": "https://www.hyogo-kg.jp/kiki/item3541",
+    "pass": 1
+   },
+   {
+    "quote": "デザイン確認、試作、治具製作など",
+    "url": "https://www.hyogo-kg.jp/kiki/item3541",
+    "pass": 1
+   },
+   {
+    "quote": "特に、ゴムライク材料（Elastico）による柔軟部品の試作が可能です",
+    "url": "https://www.hyogo-kg.jp/kiki/item3541",
+    "pass": 1
+   },
+   {
+    "quote": "透明・部分透明モデルの試作（マルチマテリアル）",
+    "url": "https://www.hyogo-kg.jp/kiki/item3541",
+    "pass": 1
+   },
+   {
+    "quote": "一方、企業が独力では困難なアイデア段階での試作や、今後研究するかどうかを見極めるための実験などであれば、試料をこちらでお預かりしてのご利用（テクノトライアル、受託研究）も可能です",
+    "url": "https://www.hyogo-kg.jp/guide/usage",
+    "pass": 1
+   },
+   {
+    "quote": "機器活用セミナー「全自動無縫製横編試作支援システム」 - 兵庫県立工業技術センター",
+    "url": "https://www.hyogo-kg.jp/apparatus/item3076",
+    "pass": 1
+   },
+   {
+    "quote": "機器活用セミナー「全自動無縫製横編試作支援システム」",
+    "url": "https://www.hyogo-kg.jp/apparatus/item3076",
+    "pass": 1
+   },
+   {
+    "quote": "– ホールガーメント横編機を使った簡単な試作実演",
+    "url": "https://www.hyogo-kg.jp/apparatus/item3076",
+    "pass": 1
+   },
+   {
+    "quote": "本設備を利用したい方、無縫製ニットに興味のある方、既に設備をお持ちの方、 綿残糸を使って試作を行いたい方など、興味がある方どなたでも参加ＯＫ",
+    "url": "https://www.hyogo-kg.jp/apparatus/item3076",
+    "pass": 1
+   },
+   {
+    "quote": "全自動無縫製横編試作支援システム 活用セミナー",
+    "url": "https://www.hyogo-kg.jp/apparatus/item3076",
+    "pass": 1
+   },
+   {
+    "quote": "全自動無縫製横編試作支援システム 活用セミナー 申し込みフォーム",
+    "url": "https://www.hyogo-kg.jp/apparatus/item3076",
+    "pass": 1
+   },
+   {
+    "quote": "移設 拡散接合装置 試作実験館１F 機械加工室Ⅰ 大型重量物、油圧機器 ＨＡランク",
+    "url": "https://www.hyogo-kg.jp/download/topics/public_tender/public_tender_20260929.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "移設 ミニ旋盤 試作実験館１F 3Dものづくりｾﾝﾀｰ 小型重量物 Ｃランク",
+    "url": "https://www.hyogo-kg.jp/download/topics/public_tender/public_tender_20260929.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "移設 ミニボール盤 試作実験館１F 3Dものづくりｾﾝﾀｰ 小型重量物 Ｃランク",
+    "url": "https://www.hyogo-kg.jp/download/topics/public_tender/public_tender_20260929.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "移設 作業机、等 試作実験館１F 3Dものづくりｾﾝﾀｰ 小型重量物 Ｃランク",
+    "url": "https://www.hyogo-kg.jp/download/topics/public_tender/public_tender_20260929.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "試作実験館１F 機械材料試験室Ⅱ",
+    "url": "https://www.hyogo-kg.jp/download/topics/public_tender/public_tender_20260929.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "試作実験館１F 機械材料試験室Ⅰ",
+    "url": "https://www.hyogo-kg.jp/download/topics/public_tender/public_tender_20260929.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■兵庫県立工業技術センター（神戸） 依頼試験・依頼加工",
+    "url": "https://www.hyogo-kg.jp/download/kiki/Ryoukin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■繊維工業技術支援センター（西脇） 依頼試験・依頼加工",
+    "url": "https://www.hyogo-kg.jp/download/kiki/Ryoukin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■皮革工業技術支援センター（姫路） 依頼試験・依頼加工",
+    "url": "https://www.hyogo-kg.jp/download/kiki/Ryoukin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "テクノトライアルでは、アイデア段階での試作や本格的な研究に進む前段階における見極めのための実験を行います",
+    "url": "https://www.shien-nethg.jp/shienkikan/5/",
+    "pass": 3
+   },
+   {
+    "quote": "技術分野：加工技術（３D造形） 応用分野：ゴム造形、ゴム製品試作",
+    "url": "https://www.niro.or.jp/pdf/09_3D%20printer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "技術の活用例 金型不要でゴム製品の試作・製造を可能とする",
+    "url": "https://www.niro.or.jp/pdf/09_3D%20printer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "様々な形状のゴム造形物を金型レスで造形でき、また、３Dデータがあれば、切削のためのツールパスなど前工程を",
+    "url": "https://www.niro.or.jp/pdf/09_3D%20printer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "必要とせずに作製できるため、様々なゴム製品の試作・開発に活用できます",
+    "url": "https://www.niro.or.jp/pdf/09_3D%20printer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "あるいは、健康・医療・介護分野などにおける、ユーザーの身体に合った製品づくり、コンシューマ向け製品におけるカ",
+    "url": "https://www.niro.or.jp/pdf/09_3D%20printer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "用しながらゴム製品の試作・開発を支援していきます",
+    "url": "https://www.niro.or.jp/pdf/09_3D%20printer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「量産品に異物混入があって原因が知りたい」「容器から液体がリークする経路を調べたい」「図面が無い いにしえの部品をCADデータにしたい」「新製品開発で良い材料は無いかしら」などなど…",
+    "url": "https://note.com/hyogo_kg/n/nef7ac5401de0",
+    "pass": 3
+   },
+   {
+    "quote": "製品開発で試作品の評価を担当した事例などがあります",
+    "url": "https://note.com/hyogo_kg/n/nef7ac5401de0",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "第 11 乙は委託事務の一部を第三者（乙の子会社を含む",
+    "url": "https://www.hyogo-kg.jp/download/topics/public_tender/public_tender_20260929.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "センター紹介 - 兵庫県立工業技術センター — センター紹介 - 兵庫県立工業技術センター 兵庫県立工業技術センター https://www.hyogo-kg.jp > ご利用案内",
+    "url": "https://www.hyogo-kg.jp/guide/outline",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県立工業技術センター の 会社概要 - マイナビ転職 — 兵庫県立工業技術センター の 会社概要 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > company",
+    "url": "https://tenshoku.mynavi.jp/company/445565/",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県立工業技術センター - 中小企業支援ネットひょうご — 兵庫県立工業技術センター - 中小企業支援ネットひょうご 中小企業支援ネットひょうご https://www.shien-nethg.jp > 支援機関",
+    "url": "https://www.shien-nethg.jp/shienkikan/5/",
+    "pass": 3
+   },
+   {
+    "quote": "【工技センター便り】 兵庫県立工業技術センター って知って ... — 【工技センター便り】 兵庫県立工業技術センター って知って ... note https://note.com > 科学・テクノロジー > テクノロジー全般",
+    "url": "https://note.com/hyogo_kg/n/nef7ac5401de0",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタ - 兵庫県立工業技術センター — 金属3Dプリンタ - 兵庫県立工業技術センター 兵庫県立工業技術センター https://www.hyogo-kg.jp > kiki",
+    "url": "https://www.hyogo-kg.jp/kiki/3011906",
+    "pass": 3
+   },
+   {
+    "quote": "No.9 ゴム 3Dプリンタ ( 兵庫県立工業技術センター ) — No.9 ゴム 3Dプリンタ ( 兵庫県立工業技術センター ) 公益財団法人 新産業創造研究機構 PDF https://www.niro.or.jp > pdf",
+    "url": "https://www.niro.or.jp/pdf/09_3D%20printer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県立工業技術センター 新規 導入 機器紹介セミナー開催の ... — 兵庫県立工業技術センター 新規 導入 機器紹介セミナー開催の ... 協同組合尼崎工業会 https://www.aia-net.or.jp > ...",
+    "url": "https://www.aia-net.or.jp/20260609-02/",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県立工業技術センター 主催「新たな樹脂・ 金属3D ... — 兵庫県立工業技術センター 主催「新たな樹脂・ 金属3D ... PR TIMES https://prtimes.jp > イベント",
+    "url": "https://prtimes.jp/main/html/rd/p/000000144.000030909.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属 3Dプリンタ - 兵庫県立工業技術センター — 金属 3Dプリンタ - 兵庫県立工業技術センター 兵庫県立工業技術センター https://www.hyogo-kg.jp > kiki",
+    "url": "https://www.hyogo-kg.jp/kiki/3011906",
+    "pass": 3
+   },
+   {
+    "quote": "No.9 ゴム3Dプリンタ( 兵庫県立工業技術センター ) — No.9 ゴム3Dプリンタ( 兵庫県立工業技術センター ) 公益財団法人 新産業創造研究機構 PDF https://www.niro.or.jp > pdf",
+    "url": "https://www.niro.or.jp/pdf/09_3D%20printer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(26) 兵庫県立工業技術センター （TCTJapan2026） - YouTube — (26) 兵庫県立工業技術センター （TCTJapan2026） - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=SMAkju7IBUc",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県立工業技術センター — 兵庫県立工業技術センター 兵庫県立工業技術センター https://www.hyogo-kg.jp > ワークショップ関連",
+    "url": "https://www.hyogo-kg.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県立工業技術センター - Wikipedia — 兵庫県立工業技術センター - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 兵庫県立工業技術センター",
+    "url": "https://ja.wikipedia.org/wiki/%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県立工業技術センター の会社概要 - マイナビ転職 — 兵庫県立工業技術センター の会社概要 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > company",
+    "url": "https://tenshoku.mynavi.jp/company/445565/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【工技センター便り】 兵庫県立工業技術センター って知って ... 【工技センター便り】 兵庫県立工業技術センター って知って ... note https://note.com > 科学・テクノロジー > テクノロジー全般",
+    "url": "https://note.com/hyogo_kg/n/nef7ac5401de0",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県立工業技術センター - note 兵庫県立工業技術センター - note note https://note.com > hyogo_kg",
+    "url": "https://note.com/hyogo_kg",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【工技センター便り】兵庫県立工業技術センターって知ってますか？｜兵庫県立工業技術センター",
+    "url": "https://note.com/hyogo_kg/n/nef7ac5401de0",
+    "pass": 3
+   },
+   {
+    "quote": "【工技センター便り】兵庫県立工業技術センターって知ってますか？",
+    "url": "https://note.com/hyogo_kg/n/nef7ac5401de0",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県立工業技術センターと聞いて、どんなところか想像できますか？",
+    "url": "https://note.com/hyogo_kg/n/nef7ac5401de0",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県にあるんだろうな、県立ってあるから県の機関なんだろうな、工業技術ってあるから農業じゃないな…、ほとんどの人はこのくらいの認識だと思います。こんな認識でも大体合っていますが、せっかくこの記事を開いていただいたのでもう少し詳しく説明させて頂きます。",
+    "url": "https://note.com/hyogo_kg/n/nef7ac5401de0",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県立工業技術センターは昔風に言うと工業試験場、少しかしこまって言うと県立の試験研究機関です。このような機関は各都道府県にあり（市にもあるところもあります）、公設試験研究機関（公設試：こうせつし）と呼ばれます。中小企業（時には大企業も）の技術的な困りごとの相談に乗り、課題解決するための機関です。",
+    "url": "https://note.com/hyogo_kg/n/nef7ac5401de0",
+    "pass": 3
+   },
+   {
+    "quote": "して計測してみましょうとなると費用（受益者負担）をいただくことになります。機器を使って1回計測した程度ではよく分からない、もっと詳しく知恵を貸してほしいとなれば",
+    "url": "https://note.com/hyogo_kg/n/nef7ac5401de0",
+    "pass": 3
+   },
+   {
+    "quote": "などの契約を結び、ガッツリ手を取り合って課題解決に臨むこともあります。これ以外にも技術者のレベルを底上げするための",
+    "url": "https://note.com/hyogo_kg/n/nef7ac5401de0",
+    "pass": 3
+   },
+   {
+    "quote": "これら以外にも、技術相談や共同研究などに資する（と思える）シーズ研究も行っています。大学の先生と同じように日本学術振興会の科研費（科学研究費）に採択されて研究を進めている研究員も居ます。",
+    "url": "https://note.com/hyogo_kg/n/nef7ac5401de0",
+    "pass": 3
+   },
+   {
+    "quote": "【工技センター便り】R7採用試験（2回目）のご案内",
+    "url": "https://note.com/hyogo_kg",
+    "pass": 3
+   },
+   {
+    "quote": "【機器紹介】フーリエ変換赤外分光光度計の使用例（ヘアピンの修理）",
+    "url": "https://note.com/hyogo_kg",
+    "pass": 3
+   },
+   {
+    "quote": "【工技センター便り】ひょうごコーギー誕生秘話",
+    "url": "https://note.com/hyogo_kg",
+    "pass": 3
+   },
+   {
+    "quote": "【研究最前線】AIで畜産もスマート化？ 〜枝肉画像からの「ロース芯」自動切り出しに挑戦〜",
+    "url": "https://note.com/hyogo_kg",
+    "pass": 3
+   },
+   {
+    "quote": "【技術解説】ニオイの正体を突き止めろ！〜皮革の「香り」や「におい」を科学で分析〜",
+    "url": "https://note.com/hyogo_kg",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "福田 純 - 兵庫県立工業技術センター - 研究員 - LinkedIn 福田 純 - 兵庫県立工業技術センター - 研究員 - LinkedIn LinkedIn https://jp.linkedin.com > 純-福田-a3173819b",
+    "url": "https://jp.linkedin.com/in/%E7%B4%94-%E7%A6%8F%E7%94%B0-a3173819b",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "兵庫県立工業技術センター | Kobe-shi Hyogo - Facebook 兵庫県立工業技術センター | Kobe-shi Hyogo - Facebook Facebook https://www.facebook.com > hyogo",
+    "url": "https://www.facebook.com/hyogo.kg/",
+    "pass": 3
+   },
+   {
+    "quote": "【もっぺん2026｜見学・体験】 兵庫県立工業技術センター ... 【もっぺん2026｜見学・体験】 兵庫県立工業技術センター ... Facebook https://www.facebook.com > moppen.nishiwakitaka > posts",
+    "url": "https://www.facebook.com/moppen.nishiwakitaka/posts/%E3%82%82%E3%81%A3%E3%81%BA%E3%82%932026%E8%A6%8B%E5%AD%A6%E4%BD%93%E9%A8%93%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E7%B9%8A%E7%B6%AD%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E6%94%AF%E6%8F%B4%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC-%E8%A6%8B%E3%81%A6%E5%AD%A6%E3%82%93%E3%81%A7%E8%87%AA%E5%88%86%E3%81%A7%E7%B9%94%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%8B-%E6%92%AD%E5%B7%9E%E7%B9%94%E3%82%92%E3%81%AF%E3%81%98%E3%82%81%E3%81%A8%E3%81%99%E3%82%8B%E7%B9%8A%E7%B6%AD%E7%94%A3%E6%A5%AD%E3%81%AE%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%82%92%E6%8A%80%E8%A1%93%E9%9D%A2%E3%81%8B%E3%82%89%E6%94%AF%E3%81%88%E3%81%A6/122251408298285346/",
+    "pass": 3
+   },
+   {
+    "quote": "もっぺん2025参加事業者 ＼ 兵庫県立工業技術センター 繊維 ... もっぺん2025参加事業者 ＼ 兵庫県立工業技術センター 繊維 ... Facebook https://www.facebook.com > moppen.nishiwakitaka > posts",
+    "url": "https://www.facebook.com/moppen.nishiwakitaka/posts/%E3%82%82%E3%81%A3%E3%81%BA%E3%82%932025%E5%8F%82%E5%8A%A0%E4%BA%8B%E6%A5%AD%E8%80%85%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC-%E7%B9%8A%E7%B6%AD%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E6%94%AF%E6%8F%B4%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC9%E6%9C%8826%E6%97%A5%E9%87%9127%E6%97%A5%E5%9C%9F%EF%B8%8E%E8%A6%8B%E5%AD%A6%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E8%A6%81%E4%BA%88%E7%B4%841300%E7%B4%843%E6%99%82%E9%96%93-%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3/122203239218285346/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.hyogo-kg.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyogo-kg.jp/kiki",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyogo-kg.jp/notice/item3646",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyogo-kg.jp/guide/seni",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyogo-kg.jp/guide/hikaku",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyogo-kg.jp/koku",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyogo-kg.jp/about/kinzoku",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyogo-kg.jp/topics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyogo-kg.jp/kiki?meta_key=itemcat&meta_value=JKA%E8%A3%9C%E5%8A%A9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyogo-kg.jp/kiki/item3541",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyogo-kg.jp/category/apparatus",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyogo-kg.jp/guide/usage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyogo-kg.jp/apparatus/item3076",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyogo-kg.jp/notice/item3615",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.hyogo-kg.jp/download/topics/public_tender/public_tender_20260929.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hyogo-kg.jp/download/kiki/Ryoukin.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://tenshoku.mynavi.jp/company/445565/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shien-nethg.jp/shienkikan/5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niro.or.jp/pdf/09_3D%20printer.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.aia-net.or.jp/20260609-02/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fitc.pref.fukuoka.jp/facility/setsubi/dep-list/meri/kinzoku-sekisou-zoukei.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niro.or.jp/pdf/09_3D%20printer.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shien-nethg.jp/shienkikan/5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk23/documents/r6kougyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk23/documents/r6kougyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/company/445565/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hyogo_kg/n/nef7ac5401de0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hyogo_kg",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E7%B4%94-%E7%A6%8F%E7%94%B0-a3173819b",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/hyogo.kg/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/moppen.nishiwakitaka/posts/%E3%82%82%E3%81%A3%E3%81%BA%E3%82%932026%E8%A6%8B%E5%AD%A6%E4%BD%93%E9%A8%93%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E7%B9%8A%E7%B6%AD%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E6%94%AF%E6%8F%B4%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC-%E8%A6%8B%E3%81%A6%E5%AD%A6%E3%82%93%E3%81%A7%E8%87%AA%E5%88%86%E3%81%A7%E7%B9%94%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%8B-%E6%92%AD%E5%B7%9E%E7%B9%94%E3%82%92%E3%81%AF%E3%81%98%E3%82%81%E3%81%A8%E3%81%99%E3%82%8B%E7%B9%8A%E7%B6%AD%E7%94%A3%E6%A5%AD%E3%81%AE%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%82%92%E6%8A%80%E8%A1%93%E9%9D%A2%E3%81%8B%E3%82%89%E6%94%AF%E3%81%88%E3%81%A6/122251408298285346/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/moppen.nishiwakitaka/posts/%E3%82%82%E3%81%A3%E3%81%BA%E3%82%932025%E5%8F%82%E5%8A%A0%E4%BA%8B%E6%A5%AD%E8%80%85%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC-%E7%B9%8A%E7%B6%AD%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E6%94%AF%E6%8F%B4%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC9%E6%9C%8826%E6%97%A5%E9%87%9127%E6%97%A5%E5%9C%9F%EF%B8%8E%E8%A6%8B%E5%AD%A6%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E8%A6%81%E4%BA%88%E7%B4%841300%E7%B4%843%E6%99%82%E9%96%93-%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3/122203239218285346/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/hyogo_kg/n/nef7ac5401de0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hyogo_kg",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "兵庫県立工業技術センター",
+   "results": [
+    "https://www.hyogo-kg.jp/",
+    "https://web.pref.hyogo.lg.jp/shisetsu/shigoto/shisetsu_054.html",
+    "https://www.shien-nethg.jp/shienkikan/5/",
+    "https://ja.wikipedia.org/wiki/%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+    "https://note.com/hyogo_kg/n/nef7ac5401de0",
+    "https://www.instagram.com/hyogo.kg/",
+    "https://ja.wikipedia.org/wiki/兵庫県立工業技術センター",
+    "https://kobe-ipc.or.jp/wp-content/uploads/2023/05/c6dbcbd1b92a4a7841770dbc775b603f.pdf",
+    "https://www.hyogo-kg.jp/guide/outline",
+    "https://web.pref.hyogo.lg.jp/sr09/documents/r06-10th-keikaku.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "兵庫県立工業技術センター 会社概要 資本金 設立",
+   "results": [
+    "https://www.hyogo-kg.jp/guide/outline",
+    "https://tenshoku.mynavi.jp/company/445565/",
+    "https://www.shien-nethg.jp/shienkikan/5/",
+    "https://web.pref.hyogo.lg.jp/kk23/documents/r6kougyou.pdf",
+    "https://note.com/hyogo_kg/n/nef7ac5401de0",
+    "https://www.instagram.com/p/DZZKN4ESTFt/",
+    "https://www.k-labsearch.jp/showcase/labo/hyogo/",
+    "https://www.kuroda-sekkei.jp/list04/1168/",
+    "https://ja.wikipedia.org/wiki/%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+    "https://ja.wikipedia.org/wiki/兵庫県立工業技術センター"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "兵庫県立工業技術センター 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.hyogo-kg.jp/kiki/3011906",
+    "https://www.niro.or.jp/pdf/09_3D%20printer.pdf",
+    "https://www.aia-net.or.jp/20260609-02/",
+    "https://web.pref.hyogo.lg.jp/sr09/metaruberuto.html",
+    "https://prtimes.jp/main/html/rd/p/000000144.000030909.html",
+    "https://www.youtube.com/watch?v=Byfy7tsLawE",
+    "https://unifiedsearch.jcdbizmatch.jp/nanotech2025/jp/tct/details/i7l2QddsNVM",
+    "https://www.iri.pref.shizuoka.jp/printer/",
+    "https://www.jstage.jst.go.jp/article/jfeskouen/180/0/180_119/_pdf/-char/en",
+    "https://www.jstage.jst.go.jp/article/jfeskouen/180/0/180_119/_pdf/-char/ja"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "兵庫県立工業技術センター 金属積層造形 設備",
+   "results": [
+    "https://www.hyogo-kg.jp/kiki/3011906",
+    "https://www.fitc.pref.fukuoka.jp/facility/setsubi/dep-list/meri/kinzoku-sekisou-zoukei.php",
+    "https://www.niro.or.jp/pdf/09_3D%20printer.pdf",
+    "https://www.youtube.com/watch?v=SMAkju7IBUc",
+    "https://www.nice-o.or.jp/info/info-53594/",
+    "https://unifiedsearch.jcdbizmatch.jp/nanotech2025/jp/tct/details/i7l2QddsNVM",
+    "https://researchmap.jp/read0001241",
+    "https://kyoukai-osaka.org/2023/05/11/%E3%80%8E%E9%96%A2%E8%A5%BF%E5%85%AC%E8%A8%AD%E8%A9%A6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E9%87%91%E5%B1%9E%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E3%81%AE%E6%B4%BB%E7%94%A8%E7%8A%B6%E6%B3%81%E3%81%A8/",
+    "https://uh-sangaku.jp/wp-content/uploads/2023/09/009-11-22-takeuchi_akira.pdf",
+    "https://www.hyogo-kg.jp/guide/usage"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "兵庫県立工業技術センター 株主 出資 親会社",
+   "results": [
+    "https://www.hyogo-kg.jp/",
+    "https://www.shien-nethg.jp/shienkikan/5/",
+    "https://web.pref.hyogo.lg.jp/kk23/documents/r6kougyou.pdf",
+    "https://note.com/hyogo_kg/n/nef7ac5401de0",
+    "https://ja.wikipedia.org/wiki/%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+    "https://www.hyogo-kg.jp/guide/outline",
+    "https://www.spp.co.jp/corporate/introduction/",
+    "https://www.daitetsu.co.jp/company/subsidiary.html",
+    "https://www.shimz.co.jp/company/about/sit/",
+    "https://ja.wikipedia.org/wiki/兵庫県立工業技術センター"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "兵庫県立工業技術センター 売上高 従業員数",
+   "results": [
+    "https://www.hyogo-kg.jp/",
+    "https://web.pref.hyogo.lg.jp/kk23/documents/r6kougyou.pdf",
+    "https://tenshoku.mynavi.jp/company/445565/",
+    "https://www.shien-nethg.jp/shienkikan/5/",
+    "https://note.com/hyogo_kg/n/n86ca62398ed6",
+    "https://nrid.nii.ac.jp/ja/nrid/1000070470226/",
+    "https://www.kuroda-sekkei.jp/list04/1168/",
+    "https://www.k-labsearch.jp/showcase/labo/hyogo/",
+    "https://ja.wikipedia.org/wiki/%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+    "https://ja.wikipedia.org/wiki/兵庫県立工業技術センター"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com 兵庫県立工業技術センター",
+   "results": [
+    "https://note.com/hyogo_kg/n/nef7ac5401de0",
+    "https://note.com/hyogo_kg",
+    "https://note.com/hyogo_kg/n/n13345ef88559",
+    "https://note.com/hyogo_kg/n/n86ca62398ed6",
+    "https://note.com/hyogo_kg/n/ne60530295516",
+    "https://note.com/hyogo_kg/n/nd4c8ec5874f8",
+    "https://note.com/hyogo_kg/n/na3888d4a8c79",
+    "https://note.com/hyogo_kg/n/nf574d1fa10ed",
+    "https://note.com/hyogo_kg/n/n5e7affbaf809",
+    "https://note.com/hyogo_kg/n/nc71cbed41ad0"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:x.com 兵庫県立工業技術センター",
+   "results": [
+    "https://x.com/APPLE_TREE_CO/status/1958454518162870416",
+    "https://x.com/kyoto_geidai/status/577648837889634304?lang=bg",
+    "https://x.com/formlabsjapan",
+    "https://x.com/kobe_college",
+    "https://x.com/ScienceFlying",
+    "https://x.com/hyogo_library",
+    "https://x.com/yoidea/status/1752164734239957465",
+    "https://x.com/UOH_kohou/status/1144431941183131648",
+    "https://x.com/ZenGlobal",
+    "https://x.com/naoki_tasaka"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com 兵庫県立工業技術センター",
+   "results": [
+    "https://jp.linkedin.com/in/%E7%B4%94-%E7%A6%8F%E7%94%B0-a3173819b",
+    "https://jp.linkedin.com/posts/sakamoto-akihiko-35741821_%E5%A4%A7%E9%99%BD%E6%97%A5%E9%85%B8%E3%81%AE%E5%9D%82%E6%9C%AC%E3%81%A7%E3%81%99-%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%A7%E7%B5%8C%E6%B8%88%E7%94%A3%E6%A5%AD%E7%9C%81%E6%97%A5%E6%9C%ACam%E5%8D%94%E4%BC%9A%E4%B8%BB%E5%82%AC%E3%81%AE%E5%B1%95%E7%A4%BA%E8%A6%8B%E5%AD%A6%E4%BC%9A%E9%96%8B%E5%82%AC-activity-7223543801582116864-P5_Q",
+    "https://jp.linkedin.com/in/muneharu-kuwata",
+    "https://jp.linkedin.com/pub/dir/%E7%B4%94/%E7%A6%8F%E7%94%B0/jp-0-%E6%97%A5%E6%9C%AC",
+    "https://www.linkedin.com/pub/dir/Wataru/Fukui",
+    "https://jp.linkedin.com/in/%E4%B8%80-%E6%A3%AE-b6a74441",
+    "https://jp.linkedin.com/in/yoshiro-tanaka-44a674373/ja",
+    "https://jp.linkedin.com/in/ichiro-hirata-8844ab117",
+    "https://www.linkedin.com/pub/dir/Atsushi/Fukuda",
+    "https://jp.linkedin.com/in/純-福田-a3173819b"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com 兵庫県立工業技術センター",
+   "results": [
+    "https://www.facebook.com/hyogo.kg/",
+    "https://www.facebook.com/moppen.nishiwakitaka/posts/%E3%82%82%E3%81%A3%E3%81%BA%E3%82%932026%E8%A6%8B%E5%AD%A6%E4%BD%93%E9%A8%93%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E7%B9%8A%E7%B6%AD%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E6%94%AF%E6%8F%B4%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC-%E8%A6%8B%E3%81%A6%E5%AD%A6%E3%82%93%E3%81%A7%E8%87%AA%E5%88%86%E3%81%A7%E7%B9%94%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%8B-%E6%92%AD%E5%B7%9E%E7%B9%94%E3%82%92%E3%81%AF%E3%81%98%E3%82%81%E3%81%A8%E3%81%99%E3%82%8B%E7%B9%8A%E7%B6%AD%E7%94%A3%E6%A5%AD%E3%81%AE%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%82%92%E6%8A%80%E8%A1%93%E9%9D%A2%E3%81%8B%E3%82%89%E6%94%AF%E3%81%88%E3%81%A6/122251408298285346/",
+    "https://www.facebook.com/hyogo.kg/posts/%E5%85%AC%E8%A8%AD%E8%A9%A6%E9%A8%93%E7%A0%94%E7%A9%B6%E6%A9%9F%E9%96%A2%E5%90%88%E5%90%8C%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%83%A9%E3%83%9C%E3%81%AE%E3%81%A8%E3%81%B3%E3%82%89-%E7%9F%A5%E3%82%8D%E3%81%86%E6%B4%BB%E3%81%8B%E3%81%9D%E3%81%86-%E5%85%AC%E8%A8%AD%E8%A9%A6%E3%81%AE%E9%AD%85%E5%8A%9B%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99%E9%96%A2%E8%A5%BF%E5%9C%B0%E5%9F%9F%E3%81%AB%E3%81%AF%E7%A4%BE%E4%BC%9A%E8%AA%B2%E9%A1%8C%E3%81%AE%E8%A7%A3%E6%B1%BA%E3%82%84%E7%94%A3%E6%A5%AD%E3%81%AE%E7%99%BA%E5%B1%95%E3%81%AB%E8%B2%A2%E7%8C%AE%E3%81%99%E3%82%8B%E5%A4%9A%E5%BD%A9%E3%81%AA%E5%85%AC%E8%A8%AD%E8%A9%A6%E9%A8%93%E7%A0%94%E7%A9%B6%E6%9C%9F%E9%96%93%E7%95%A5%E7%A7%B0%E5%85%AC%E8%A8%AD/1782769373850819/",
+    "https://www.facebook.com/moppen.nishiwakitaka/posts/%E3%82%82%E3%81%A3%E3%81%BA%E3%82%932025%E5%8F%82%E5%8A%A0%E4%BA%8B%E6%A5%AD%E8%80%85%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC-%E7%B9%8A%E7%B6%AD%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E6%94%AF%E6%8F%B4%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC9%E6%9C%8826%E6%97%A5%E9%87%9127%E6%97%A5%E5%9C%9F%EF%B8%8E%E8%A6%8B%E5%AD%A6%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E8%A6%81%E4%BA%88%E7%B4%841300%E7%B4%843%E6%99%82%E9%96%93-%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3/122203239218285346/",
+    "https://www.facebook.com/hyogo.kg/posts/%EF%BE%9F%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%83%AC%E3%82%B6%E3%83%BC%E3%82%A2%E3%83%AF%E3%83%BC%E3%83%892026%E3%81%A7%E5%85%A5%E8%B3%9E%EF%BE%9F%E7%9A%AE%E9%9D%A9%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E6%94%AF%E6%8F%B4%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC-%E6%B3%89-%E4%BA%86%E4%BB%8B%E7%A0%94%E7%A9%B6%E5%93%A1%E6%B3%89%E8%81%B7%E4%BA%BA%E3%81%AE%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88%E3%81%A8%E4%BD%9C%E5%93%81%E3%81%AE%E7%9A%AE%E9%9D%A9%E7%B4%A0%E6%9D%90%E3%82%84%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%82%A2%E3%83%94%E3%83%BC%E3%83%AB%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%81%8C%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3/1751281613666262/",
+    "https://www.facebook.com/hyogo.kg/posts/%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%9A%AE%E9%9D%A9%E5%A4%A7%E5%AD%A6%E6%A0%A1-%E7%94%9F%E5%BE%92%E5%8B%9F%E9%9B%86%E7%9A%AE%E9%9D%A9%E8%A3%BD%E9%80%A0%E6%8A%80%E8%A1%93%E4%B8%8B%E5%9C%B0%E9%9D%A9%E3%81%BE%E3%81%A7%E3%81%AE%E7%94%B3%E8%BE%BC%E3%81%8C%E5%A7%8B%E3%81%BE%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%EF%B8%8F%EF%B8%8F%E8%A3%BD%E9%80%A0%E5%AE%9F%E7%BF%92%E7%9A%AE%E9%9D%A9%E3%81%B8%E3%81%AF%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E5%B7%A5%E7%A8%8B%E3%82%92%E7%B5%8C%E3%82%8B%E3%81%AE%E3%81%8B%E4%BD%9C%E3%82%8A%E6%96%B9%E3%81%8C%E6%B0%97%E3%81%AB%E3%81%AA%E3%82%8B%E6%96%B9%E3%81%AF%E6%98%AF%E9%9D%9E%E3%81%94%E5%8F%82%E5%8A%A0%E3%81%8A%E5%BE%85%E3%81%A1%E3%81%97%E3%81%A6%E3%81%8A%E3%82%8A%E3%81%BE%E3%81%99/1782789473848809/",
+    "https://www.facebook.com/hyogo.kg/posts/-%E7%9A%AE%E9%9D%A9%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E6%94%AF%E6%8F%B4%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AE%E7%B4%B9%E4%BB%8B%E3%81%A8%E7%9A%AE%E9%9D%A9%E5%A4%A7%E5%AD%A6%E6%A0%A1%E5%AE%9F%E7%BF%92%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%9A%AE%E9%9D%A9%E5%A4%A7%E5%AD%A6%E6%A0%A1%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E7%9A%AE%E9%9D%A9%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E6%94%AF%E6%8F%B4%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AF%E5%85%A8%E5%9B%BD%E3%81%AE%E5%85%AC%E8%A8%AD%E8%A9%A6%E3%81%A7%E3%82%82%E7%8F%8D%E3%81%97%E3%81%84%E7%9A%AE%E9%9D%A9%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%8A%80%E8%A1%93%E6%8C%87%E5%B0%8E%E3%82%84%E7%A0%94/1058384557530886/",
+    "https://www.facebook.com/hyogo.kg/posts/%E5%85%B1%E5%90%8C%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C%E3%81%8C%E5%85%AC%E8%A1%A8%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E5%8D%94%E5%83%8D%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AE%E5%B0%8E%E5%85%A5%E3%82%84%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E9%96%8B%E7%99%BA%E3%81%AA%E3%81%A9%E3%82%92%E6%89%8B%E6%8E%9B%E3%81%91%E3%82%8Bicom%E6%8A%80%E7%A0%94%E3%81%95%E3%82%93%E3%81%A8%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AE%E7%A6%8F%E7%94%B0%E7%B4%94%E7%A0%94%E7%A9%B6%E5%93%A1%E3%81%A8%E3%81%AE%E5%85%B1%E5%90%8C%E7%A0%94%E7%A9%B6%E3%81%AE%E6%88%90%E6%9E%9C%E3%81%8C%E5%85%AC%E8%A1%A8%E3%81%95%E3%82%8C/1093935686067528/",
+    "https://www.facebook.com/zetsaw265/posts/%E5%85%88%E6%97%A5%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%81%97%E3%81%A6%E3%81%8A%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%85%AC%E9%96%8Bday-%E5%BC%8A%E7%A4%BE%E3%81%AE%E6%9C%A8%E5%B7%A5%E6%95%99%E5%AE%A4%E3%81%AF%E3%81%8A%E9%99%B0%E6%A7%98%E3%81%A7%E5%A4%A7%E7%9B%9B%E6%B3%81-%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E5%89%8D%E3%81%8B%E3%82%89%E3%81%9F%E3%81%8F%E3%81%95%E3%82%93%E3%81%AE%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AB%E3%81%8A%E4%B8%A6%E3%81%B3%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%AA%E3%82%93%E3%81%A8%E6%99%82%E9%96%93%E3%82%92%E6%97%A9%E3%82%81%E3%81%A6%E9%96%8B%E5%A7%8B%E3%81%99%E3%82%8B%E3%81%93/1529712443758204/",
+    "https://www.facebook.com/hyogo.kg/posts/%E7%A5%9E%E6%88%B8%E3%82%B4%E3%83%A0%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6%E4%BC%9A%E4%B8%BB%E5%82%AC%E7%AC%AC57%E5%9B%9E%E7%A5%9E%E6%88%B8%E3%82%B4%E3%83%A0%E6%95%99%E5%AE%A4%E3%81%AE5%E6%97%A5%E7%9B%AE%E3%81%8C%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E5%8D%88%E5%89%8D10%E6%99%82%E3%81%8B%E3%82%89%E5%8D%88%E5%BE%8C5%E6%99%82%E3%81%BE%E3%81%A7%E4%BC%81%E6%A5%AD%E3%81%AE%E6%96%B9%E3%81%8C%E8%AC%9B%E5%B8%AB%E3%81%A8%E3%81%AA%E3%81%A3%E3%81%A6%E5%85%B7%E4%BD%93%E7%9A%84%E3%81%AA%E3%82%B4%E3%83%A0%E8%A3%BD%E5%93%81%E3%81%AE%E6%80%A7%E8%83%BD%E5%90%91%E4%B8%8A%E3%82%84%E8%A3%BD%E5%93%81%E8%A9%95%E4%BE%A1%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%AC%9B/1058677584168250/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "兵庫県立工業技術センター note 社長",
+   "results": [
+    "https://note.com/hyogo_kg/n/nef7ac5401de0",
+    "https://www.hyogo-kg.jp/",
+    "https://note.com/hyogo_kg",
+    "https://www.projectdesign.jp/articles/news/656a75a0-7900-456e-9173-3af811cf8001",
+    "https://note.com/hyogo_kg/n/n13345ef88559",
+    "https://web.pref.hyogo.lg.jp/kk23/documents/r6kougyou.pdf",
+    "https://note.com/hyogo_kg/n/ne60530295516",
+    "https://www.shien-nethg.jp/shienkikan/5/",
+    "https://ja.wikipedia.org/wiki/%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+    "https://note.com/hyogo_kg/m/m7e245e6deb7e"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "兵庫県立工業技術センター X 投稿",
+   "results": [
+    "https://www.hyogo-kg.jp/kiki/3106690",
+    "https://web.pref.hyogo.lg.jp/sr09/monodukuri/kougicenter10.html",
+    "https://www.hyogo-kg.jp/",
+    "https://www.shien-nethg.jp/shienkikan/5/",
+    "https://www.facebook.com/hyogo.kg/?locale=ja_JP",
+    "https://note.com/hyogo_kg/n/nef7ac5401de0",
+    "https://www.instagram.com/hyogo.kg/",
+    "https://www.aia-net.or.jp/20260609-02/",
+    "https://ja.wikipedia.org/wiki/%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+    "https://x.com/akashijournal/status/2064996309052924374"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "資本金": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部18頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部18頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部18頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部18頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部18頁・検索12回）",
+  "使っている金属粉（材質）": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部18頁・検索12回）"
+ }
+}

@@ -1,0 +1,905 @@
+{
+ "name": "Carbon Re",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-10T18:41:53.765019+00:00",
+ "official_url": "https://carbonre.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "The industrial world has changed, but the software supporting it hasn't. Until now. Gigaton’s Self-learning Control system helps plants manage increasingly complex production, all while crafting the fully autonomous future.",
+    "url": "https://gigaton.co/",
+    "pass": 1
+   },
+   {
+    "quote": "The industries we serve are essential. But the emissions they produce threaten the future of our planet. Since day one, we’ve built frontier AI to cut emissions and shore up industrial resilience. Our name says it all: we're here to remove gigatons of carbon every single year.",
+    "url": "https://gigaton.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Heidelberg Materials improves performance by deploying Gigaton’s Self-Learning Control system",
+    "url": "https://gigaton.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Cement, glass, steel, mining — our system stabilises then revolutionises industrial production lines.",
+    "url": "https://gigaton.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Sign up to our newsletter for updates on us, our product and our mission.",
+    "url": "https://gigaton.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Carbon Re: Reducing carbon emissions by gigatonnes – Cambridge Enterprise",
+    "url": "https://www.enterprise.cam.ac.uk/case-studies/carbon-re-ai-driven-solutions-for-industrial-decarbonisation/",
+    "pass": 3
+   },
+   {
+    "quote": ", Buffy Price, Sherif Elsayed-Ali and Dr Aidan O’Sullivan founded Carbon Re with a mission to reduce global emissions at the gigatonne scale, starting with the cement industry.",
+    "url": "https://www.enterprise.cam.ac.uk/case-studies/carbon-re-ai-driven-solutions-for-industrial-decarbonisation/",
+    "pass": 3
+   },
+   {
+    "quote": "Specifically designed for the cement pyroprocess, Carbon Re identifies optimisation opportunities in the production process and takes autonomous control of the plant to enact changes. The AI is continually retrained to match actual plant performance, negating the challenge of model drift.",
+    "url": "https://www.enterprise.cam.ac.uk/case-studies/carbon-re-ai-driven-solutions-for-industrial-decarbonisation/",
+    "pass": 3
+   },
+   {
+    "quote": "can save plants an average of 5% fuel-derived emissions per year. For an average 2MT plant, that equates to approximately 30,000 tCO2e per year. With 11 clinker-producing plants operating in the UK, Carbon Re could reduce UK CO2 emissions by over half a million tonnes annually.",
+    "url": "https://www.enterprise.cam.ac.uk/case-studies/carbon-re-ai-driven-solutions-for-industrial-decarbonisation/",
+    "pass": 3
+   },
+   {
+    "quote": "“We have built a technology that directly reduces CO2 emissions today and is helping the industries that literally support our modern world – cement, steel, glass, transition to a net-zero future. Our mission is to have gigatonnes of impact, starting with kilotonnes of real-world reductions today. With each evolution of our product, we move closer to achieving that goal.”",
+    "url": "https://www.enterprise.cam.ac.uk/case-studies/carbon-re-ai-driven-solutions-for-industrial-decarbonisation/",
+    "pass": 3
+   },
+   {
+    "quote": "Cambridge Enterprise Fund",
+    "url": "https://www.enterprise.cam.ac.uk/case-studies/carbon-re-ai-driven-solutions-for-industrial-decarbonisation/",
+    "pass": 3
+   },
+   {
+    "quote": ", a Berlin-based green tech venture capital firm, led the investment, with follow-on participation from Clean Growth Fund, UCL Technology Fund and Cambridge Enterprise.",
+    "url": "https://www.enterprise.cam.ac.uk/case-studies/carbon-re-ai-driven-solutions-for-industrial-decarbonisation/",
+    "pass": 3
+   },
+   {
+    "quote": ", has already led to significant improvements at Heidelberg Materials Česká republika Mokra plant. These include a 4.1% reduction in fuel costs, a 2% decrease in carbon emissions, and a 33% reduction in C3S variance.",
+    "url": "https://www.enterprise.cam.ac.uk/case-studies/carbon-re-ai-driven-solutions-for-industrial-decarbonisation/",
+    "pass": 3
+   },
+   {
+    "quote": "Cambridge Enterprise Assistant",
+    "url": "https://www.enterprise.cam.ac.uk/case-studies/carbon-re-ai-driven-solutions-for-industrial-decarbonisation/",
+    "pass": 3
+   },
+   {
+    "quote": "With \"Easy-to-Understand Explanations\" | Impact on AI x Stock Prices (October 29, 2026)",
+    "url": "https://note.com/yuuji_ai_news/n/ncfeb4d5d1da3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・Google announces \"Gemini 4 Carbon,\" a new model specialized in coding and cybersecurity. Initially provided only to vetted defensive partners",
+    "url": "https://note.com/yuuji_ai_news/n/ncfeb4d5d1da3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This new model specializes in the ability to write programs and the ability to find and fix system weaknesses (vulnerabilities). Google explains that compared to previous models, the rate of writing secure code has increased significantly🛡️",
+    "url": "https://note.com/yuuji_ai_news/n/ncfeb4d5d1da3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "However, the ability to find weaknesses can also be used for attacks if used by bad actors. It's what's called \"dual-use\" (technology that can be used for both good and bad purposes). That's why Google decided not to make it available to everyone, but to provide it to defensive experts first. Pricing and the public release date haven't been announced yet⚡",
+    "url": "https://note.com/yuuji_ai_news/n/ncfeb4d5d1da3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Impact on Stock Prices",
+    "url": "https://note.com/yuuji_ai_news/n/ncfeb4d5d1da3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Drug development is a world where it takes a huge amount of time and money for a single drug to reach the market. Anthropic is trying to use Claude to speed up tasks that get stuck in various parts of the process, not just in molecular design, but also in document checking and manufacturing management 🤖",
+    "url": "https://note.com/yuuji_ai_news/n/ncfeb4d5d1da3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For example, there are cases where checking thick documents that used to take a person more than a full day can now be finished in a few hours. It also introduces examples where AI helped design antibodies (proteins that work by attaching to foreign substances in the body), leading to improved performance 💡",
+    "url": "https://note.com/yuuji_ai_news/n/ncfeb4d5d1da3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Impact on stock prices",
+    "url": "https://note.com/yuuji_ai_news/n/ncfeb4d5d1da3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "<small>[Source: https://www.anthropic.com/research/early-progress-drug-development]</small>",
+    "url": "https://note.com/yuuji_ai_news/n/ncfeb4d5d1da3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "<small>[Source: https://prtimes.jp/main/html/rd/p/000000065.000078962.html]</small>",
+    "url": "https://note.com/yuuji_ai_news/n/ncfeb4d5d1da3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Today, I brought you news on how AI evolution is spreading into both specialized fields and everyday tools, from Google's security-focused model to Claude's acceleration of drug discovery and the AI overhaul of handheld notebook devices!",
+    "url": "https://note.com/yuuji_ai_news/n/ncfeb4d5d1da3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This is because the rise in tech stocks in the US market and the upward revision of earnings for major domestic semiconductor companies have overlapped, spreading a sense of security regarding core related companies. With the continued demand for AI data center hardware confirmed, it is easier for buying interest in large-cap tech stocks with high index contribution to continue.",
+    "url": "https://note.com/yuuji_ai_news/n/ncfeb4d5d1da3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "*This is not investment advice, but a summary of the impact on stock prices at the time of the news.",
+    "url": "https://note.com/yuuji_ai_news/n/ncfeb4d5d1da3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "🎨 Try image generation AI without installation (PR)",
+    "url": "https://note.com/yuuji_ai_news/n/ncfeb4d5d1da3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "📚 For those who want to use generative AI at work (PR)",
+    "url": "https://note.com/yuuji_ai_news/n/ncfeb4d5d1da3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I consider monopods to be consumables, so I appreciate a lower price. So, I decided to buy it.",
+    "url": "https://note.com/sgw_fukuda/n/n1d3406bc1994?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It's just a standard twist-lock carbon monopod. Personally, I prefer lever locks, haha.",
+    "url": "https://note.com/sgw_fukuda/n/n1d3406bc1994?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "With twist locks, you can't tell at a glance if they're tightened, or how tight they are. However, the compactness when retracted is overwhelmingly better with the twist-lock style. That part is purely a matter of preference.",
+    "url": "https://note.com/sgw_fukuda/n/n1d3406bc1994?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The rubber feet on the monopods I've used in the past always seem to go missing for some reason. This one has a green rubber ring that provides resistance, so I don't think it will loosen easily.",
+    "url": "https://note.com/sgw_fukuda/n/n1d3406bc1994?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The pipe diameter is quite thick, providing excellent stability. I don't see any wobbling. It's stable even when I swing it around with the camera attached. If anything, it might be sturdier than the 290.",
+    "url": "https://note.com/sgw_fukuda/n/n1d3406bc1994?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Well, it's a monopod, so there's nothing particularly complicated about it. It's sturdy for the price, and I think it's perfectly adequate. I also like the all-black design. (I won't say where, but flashy designs are somehow embarrassing to use.)",
+    "url": "https://note.com/sgw_fukuda/n/n1d3406bc1994?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The pain and skin irritation that faded away before I knew it #54｜ワンダーケアプロジェクト／WONDERCARE PROJECT",
+    "url": "https://note.com/wondercare/n/na57cdf944c7b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "ワンダーケアプロジェクト／WONDERCARE PROJECT",
+    "url": "https://note.com/wondercare/n/na57cdf944c7b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This time, we have a message from someone who was suffering from recurring knee pain and a rash from a compress.",
+    "url": "https://note.com/wondercare/n/na57cdf944c7b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "They mentioned that they started applying it to their previously injured knee while doing their facial care. They told us that before they knew it, they were able to go about their day without worrying about the knee pain or the itchiness from the compress rash.",
+    "url": "https://note.com/wondercare/n/na57cdf944c7b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "They started exercising because they were concerned about the weight they gained during the COVID-19 pandemic. Then, while applying a compress to their previously injured knee, the skin in that area became irritated.",
+    "url": "https://note.com/wondercare/n/na57cdf944c7b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "They made it a habit to apply the carbon dioxide therapy paste to their knee when applying it to their face. After a while, they were able to go about their day without worrying about the knee pain or the itchiness from the compress rash.",
+    "url": "https://note.com/wondercare/n/na57cdf944c7b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "after applying a compress, I got a rash",
+    "url": "https://note.com/wondercare/n/na57cdf944c7b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "About purchasing products",
+    "url": "https://note.com/wondercare/n/na57cdf944c7b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Re-Mii products can be purchased at authorized retailers, online, or by phone.",
+    "url": "https://note.com/wondercare/n/na57cdf944c7b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A reply from the Wonder Care Project",
+    "url": "https://note.com/wondercare/n/na57cdf944c7b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This time, you also had to deal with skin irritation from the compress you applied hoping for some relief, adding to your troubles.",
+    "url": "https://note.com/wondercare/n/na57cdf944c7b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The phrase \"before I knew it\" left a strong impression on me. When you are in pain or experiencing itching, worries and concerns can pop into your head no matter what you are doing, sometimes making your heart feel heavy.",
+    "url": "https://note.com/wondercare/n/na57cdf944c7b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "If using the product as an adjunct to medical treatment, please be sure to follow the instructions of your primary physician.",
+    "url": "https://note.com/wondercare/n/na57cdf944c7b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "(It is reported that in a group where only carbon dioxide was administered through the skin, the range of motion for knee extension improved. The observation target is joint movement after immobilization.)",
+    "url": "https://note.com/wondercare/n/na57cdf944c7b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", Sold by: Wonder Care Project)",
+    "url": "https://note.com/wondercare/n/na57cdf944c7b?hl=en",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "The industrial world has changed, but the software supporting it hasn't. Until now. Gigaton’s Self-learning Control system helps plants manage increasingly complex production, all while crafting the fully autonomous future.",
+    "url": "https://gigaton.co/",
+    "pass": 1
+   },
+   {
+    "quote": "The industries we serve are essential. But the emissions they produce threaten the future of our planet. Since day one, we’ve built frontier AI to cut emissions and shore up industrial resilience. Our name says it all: we're here to remove gigatons of carbon every single year.",
+    "url": "https://gigaton.co/",
+    "pass": 1
+   },
+   {
+    "quote": "weeks to go live with plant",
+    "url": "https://gigaton.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Cement, glass, steel, mining — our system stabilises then revolutionises industrial production lines.",
+    "url": "https://gigaton.co/",
+    "pass": 1
+   },
+   {
+    "quote": ", an industrial climate-tech company, uses artificial intelligence to decarbonise cement and other foundational materials, like steel and glass.",
+    "url": "https://www.enterprise.cam.ac.uk/case-studies/carbon-re-ai-driven-solutions-for-industrial-decarbonisation/",
+    "pass": 3
+   },
+   {
+    "quote": "As industrial manufacturers switch fuels, invest in new infrastructure, and build CCUS facilities to transition to a net-zero world, they face a major challenge: outdated software. Manufacturers need a new software stack to cope with these industry shifts, and AI thrives in the environment these trends have created.",
+    "url": "https://www.enterprise.cam.ac.uk/case-studies/carbon-re-ai-driven-solutions-for-industrial-decarbonisation/",
+    "pass": 3
+   },
+   {
+    "quote": "best suited to managing complex decision-making – and industrial sustainability expertise from the University of Cambridge’s",
+    "url": "https://www.enterprise.cam.ac.uk/case-studies/carbon-re-ai-driven-solutions-for-industrial-decarbonisation/",
+    "pass": 3
+   },
+   {
+    "quote": "Institute for Manufacturing",
+    "url": "https://www.enterprise.cam.ac.uk/case-studies/carbon-re-ai-driven-solutions-for-industrial-decarbonisation/",
+    "pass": 3
+   },
+   {
+    "quote": "Specifically designed for the cement pyroprocess, Carbon Re identifies optimisation opportunities in the production process and takes autonomous control of the plant to enact changes. The AI is continually retrained to match actual plant performance, negating the challenge of model drift.",
+    "url": "https://www.enterprise.cam.ac.uk/case-studies/carbon-re-ai-driven-solutions-for-industrial-decarbonisation/",
+    "pass": 3
+   },
+   {
+    "quote": "can save plants an average of 5% fuel-derived emissions per year. For an average 2MT plant, that equates to approximately 30,000 tCO2e per year. With 11 clinker-producing plants operating in the UK, Carbon Re could reduce UK CO2 emissions by over half a million tonnes annually.",
+    "url": "https://www.enterprise.cam.ac.uk/case-studies/carbon-re-ai-driven-solutions-for-industrial-decarbonisation/",
+    "pass": 3
+   },
+   {
+    "quote": "Deployed in cement plants on three continents, Carbon Re’s pilots have already demonstrated the platform’s value to its customers, reducing costs and carbon emissions to otherwise unachievable levels.",
+    "url": "https://www.enterprise.cam.ac.uk/case-studies/carbon-re-ai-driven-solutions-for-industrial-decarbonisation/",
+    "pass": 3
+   },
+   {
+    "quote": ", has already led to significant improvements at Heidelberg Materials Česká republika Mokra plant. These include a 4.1% reduction in fuel costs, a 2% decrease in carbon emissions, and a 33% reduction in C3S variance.",
+    "url": "https://www.enterprise.cam.ac.uk/case-studies/carbon-re-ai-driven-solutions-for-industrial-decarbonisation/",
+    "pass": 3
+   },
+   {
+    "quote": "However, the ability to find weaknesses can also be used for attacks if used by bad actors. It's what's called \"dual-use\" (technology that can be used for both good and bad purposes). That's why Google decided not to make it available to everyone, but to provide it to defensive experts first. Pricing and the public release date haven't been announced yet⚡",
+    "url": "https://note.com/yuuji_ai_news/n/ncfeb4d5d1da3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Drug development is a world where it takes a huge amount of time and money for a single drug to reach the market. Anthropic is trying to use Claude to speed up tasks that get stuck in various parts of the process, not just in molecular design, but also in document checking and manufacturing management 🤖",
+    "url": "https://note.com/yuuji_ai_news/n/ncfeb4d5d1da3?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Carbon Re: Reducing Carbon Emissions by Gigatonnes — Nov 27, 2024 · Deployed in cement plants on three continents, Carbon Re’s pilots have already demonstrated the platform’s value to its customers, reducing costs and carbon emissions to otherwise unachievable levels.",
+    "url": "https://www.enterprise.cam.ac.uk/case-studies/carbon-re-ai-driven-solutions-for-industrial-decarbonisation/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Google's New Model \"Gemini 4 Carbon\" Arrives! Claude ... Oct 29, 2026 · ・Google announces \"Gemini 4 Carbon,\" a new model specialized in coding and cybersecurity. Initially provided only to vetted defensive partners ・Anthropic publishes initial results of drug discovery development using Claude with pharmaceutical and biotech companies ・iFLYTEK AINOTE updates its onboard AI to the \"GPT-6\" generatio",
+    "url": "https://note.com/yuuji_ai_news/n/ncfeb4d5d1da3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "TOKIWA STYLE \"MA365CJ Carbon 5-Section Monopod\" Review A monopod is essential for sports photography. I currently use the carbon version of the Manfrotto 290 series. It was perfectly fine, but since I often shoot on sports grounds, sand inevitably gets inside the monopod, making it gritty and very stiff when trying to retract it.The levers are also",
+    "url": "https://note.com/sgw_fukuda/n/n1d3406bc1994?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The pain and skin irritation that faded away before I knew it ... Re-Me Eco2 Paste achieves the absorption of gaseous carbon dioxide as molecular carbon dioxide simply by applying a thin layer to the skin. As the ultimate evolution of various therapies utilizing carbon dioxide (from ancient carbonated springs to modern carbon dioxide gas treatments), it is used in various fields such as orthopedic",
+    "url": "https://note.com/wondercare/n/na57cdf944c7b?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "🇯🇵 Section 2: Japan Edition (Japan AI News)",
+    "url": "https://note.com/yuuji_ai_news/n/ncfeb4d5d1da3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Today's Outlook for AI/Tech-Related Stocks (Japan)",
+    "url": "https://note.com/yuuji_ai_news/n/ncfeb4d5d1da3?hl=en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Google's New Model \"Gemini 4 Carbon\" Arrives! Claude Accelerates Drug Discovery | Today's AI x Stocks [10/29]｜ユウジのAI NEWS｜株価への影響つき",
+    "url": "https://note.com/yuuji_ai_news/n/ncfeb4d5d1da3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Google's New Model \"Gemini 4 Carbon\" Arrives! Claude Accelerates Drug Discovery | Today's AI x Stocks [10/29]",
+    "url": "https://note.com/yuuji_ai_news/n/ncfeb4d5d1da3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "If the time it takes for new drugs to arrive is shortened, it seems our medical options will also increase 🙌✨",
+    "url": "https://note.com/yuuji_ai_news/n/ncfeb4d5d1da3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For some reason, there were two warranty cards inside, haha. It seems to have a one-year warranty. Also, a rubber foot and a hex wrench are included.",
+    "url": "https://note.com/sgw_fukuda/n/n1d3406bc1994?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Well, it's a monopod, so there's nothing particularly complicated about it. It's sturdy for the price, and I think it's perfectly adequate. I also like the all-black design. (I won't say where, but flashy designs are somehow embarrassing to use.)",
+    "url": "https://note.com/sgw_fukuda/n/n1d3406bc1994?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I believe that by putting these thoughts into words, you are reaching others who are also carrying their own worries. Thank you for sharing your valuable experience with us.",
+    "url": "https://note.com/wondercare/n/na57cdf944c7b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Barrier function support gel \"Reme Barrier Function\"",
+    "url": "https://note.com/wondercare/n/na57cdf944c7b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "#BarrierFunctionSupportGel",
+    "url": "https://note.com/wondercare/n/na57cdf944c7b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Barrier Function Support Gel / Re-Me Barrier Function",
+    "url": "https://note.com/wondercare/n/na57cdf944c7b?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Google's New Model \"Gemini 4 Carbon\" Arrives! Claude Accelerates Drug Discovery | Today's AI x Stocks [10/29]｜ユウジのAI NEWS｜株価への影響つき",
+    "url": "https://note.com/yuuji_ai_news/n/ncfeb4d5d1da3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Google's New Model \"Gemini 4 Carbon\" Arrives! Claude Accelerates Drug Discovery | Today's AI x Stocks [10/29]",
+    "url": "https://note.com/yuuji_ai_news/n/ncfeb4d5d1da3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "With \"Easy-to-Understand Explanations\" | Impact on AI x Stock Prices (October 29, 2026)",
+    "url": "https://note.com/yuuji_ai_news/n/ncfeb4d5d1da3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Today's (October 29, 2026) main topics are Google's new model \"Gemini 4 Carbon,\" Anthropic's initial results in the drug discovery field, and the update of iFLYTEK AINOTE to the \"GPT-6\" generation. Let's take a look right away!",
+    "url": "https://note.com/yuuji_ai_news/n/ncfeb4d5d1da3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Today's 3-Line Summary",
+    "url": "https://note.com/yuuji_ai_news/n/ncfeb4d5d1da3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・Google announces \"Gemini 4 Carbon,\" a new model specialized in coding and cybersecurity. Initially provided only to vetted defensive partners",
+    "url": "https://note.com/yuuji_ai_news/n/ncfeb4d5d1da3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・Anthropic publishes initial results of drug discovery development using Claude with pharmaceutical and biotech companies",
+    "url": "https://note.com/yuuji_ai_news/n/ncfeb4d5d1da3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・iFLYTEK AINOTE updates its onboard AI to the \"GPT-6\" generation. Different models adopted for free and paid plans",
+    "url": "https://note.com/yuuji_ai_news/n/ncfeb4d5d1da3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "TOKIWA STYLE \"MA365CJ Carbon 5-Section Monopod\" Review｜Junichi Fukuda",
+    "url": "https://note.com/sgw_fukuda/n/n1d3406bc1994?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "TOKIWA STYLE \"MA365CJ Carbon 5-Section Monopod\" Review",
+    "url": "https://note.com/sgw_fukuda/n/n1d3406bc1994?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A monopod is essential for sports photography.",
+    "url": "https://note.com/sgw_fukuda/n/n1d3406bc1994?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I currently use the carbon version of the Manfrotto 290 series.",
+    "url": "https://note.com/sgw_fukuda/n/n1d3406bc1994?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It was perfectly fine, but since I often shoot on sports grounds, sand inevitably gets inside the monopod, making it gritty and very stiff when trying to retract it.",
+    "url": "https://note.com/sgw_fukuda/n/n1d3406bc1994?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The levers are also extremely stiff, which is a hassle, so I was looking for a replacement monopod.",
+    "url": "https://note.com/sgw_fukuda/n/n1d3406bc1994?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Manfrotto 290 I always use",
+    "url": "https://note.com/sgw_fukuda/n/n1d3406bc1994?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "is covered in scratches from the sand.",
+    "url": "https://note.com/sgw_fukuda/n/n1d3406bc1994?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The pain and skin irritation that faded away before I knew it #54｜ワンダーケアプロジェクト／WONDERCARE PROJECT",
+    "url": "https://note.com/wondercare/n/na57cdf944c7b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The pain and skin irritation that faded away before I knew it #54",
+    "url": "https://note.com/wondercare/n/na57cdf944c7b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "ワンダーケアプロジェクト／WONDERCARE PROJECT",
+    "url": "https://note.com/wondercare/n/na57cdf944c7b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Here, we introduce the \"words of care\" sent to us by everyone.",
+    "url": "https://note.com/wondercare/n/na57cdf944c7b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This time, we have a message from someone who was suffering from recurring knee pain and a rash from a compress.",
+    "url": "https://note.com/wondercare/n/na57cdf944c7b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The \"words of care\" we received",
+    "url": "https://note.com/wondercare/n/na57cdf944c7b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Come to think of it, the painful knee and skin rash have disappeared?",
+    "url": "https://note.com/wondercare/n/na57cdf944c7b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "They mentioned that they started applying it to their previously injured knee while doing their facial care. They told us that before they knew it, they were able to go about their day without worrying about the knee pain or the itchiness from the compress rash.",
+    "url": "https://note.com/wondercare/n/na57cdf944c7b?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Patrick Loeber on X: \"today we're rolling out Gemini 4 Carbon ... 18 hours ago · today we're rolling out Gemini 4 Carbon!🚀 it's our strongest model yet and a big jump over Argon (same API features & same price)! excited for you to try it and hear your feedback!",
+    "url": "https://x.com/patloeber/status/2120186279795261741",
+    "pass": 3
+   },
+   {
+    "quote": "Carbon Rewild (@CarbonRewild) / Posts / X Jul 3, 2020 · At Carbon Rewild, we’re focussed on making biodiversity measurement robust and accessible. Just as we trust everyday measurements, from fuel pumps to weighing scales, it's crucial to build that same trust in biodiversity metrics.",
+    "url": "https://x.com/CarbonRewild",
+    "pass": 3
+   },
+   {
+    "quote": "Carbon (@Carbon) / X The dream of 3D-printing flexible partial dentures with comfort, aesthetics, and durability has arrived. R-Dent was among the first to use Carbon’s FDA Cleared FP3D™ resin, streamlining production, cutting labor, and delivering lifelike results faster.",
+    "url": "https://x.com/carbon",
+    "pass": 3
+   },
+   {
+    "quote": "on X: \"i had early access to gemini argon and now carbon ... 18 hours ago · i had early access to gemini argon and now carbon and im blown away by the progress at google. i’m in constant talks with the team at gemini and they’re very responsive, they’ve made a ton of changes and fixes id recommend within hours of me pointing it out. it’s great at writing. knowledge wor…",
+    "url": "https://x.com/iruletheworldmo/status/2120196015449915525",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Carbon Re - Facebook Oct 15, 2025 · We’re on a mission to use AI to cut industrial carbon emissions - one of the hardest climate challenges out there - and seeing our work celebrated like this gives us massive hope and motivation to push even harder.",
+    "url": "https://www.facebook.com/people/Carbon-Re/61573036096377/",
+    "pass": 3
+   },
+   {
+    "quote": "Carbon Re - Facebook Sep 24, 2025 · At Carbon Re, we’re not here to cancel cement and concrete - we’re here to rethink how it’s made. With AI- powered solutions, we’re helping cement producers cut emissions, save energy, and reduce costs.",
+    "url": "https://www.facebook.com/p/Carbon-Re-61567470031563/",
+    "pass": 3
+   },
+   {
+    "quote": "Carbon Re - Facebook Carbon Re. 13 likes. We're building the world's first AI-powered platform designed to enable zero carbon manufacturing. Join the carbon revolution.",
+    "url": "https://www.facebook.com/people/Carbon-Re/61567470031563/",
+    "pass": 3
+   },
+   {
+    "quote": "Carbon Re - Facebook 🥹 This content isn't available right now Carbon Re 1y · Public 𝗠𝗲 𝘁𝗼 𝗺𝘆 𝗳𝗮𝘃𝗼𝗿𝗶𝘁𝗲 𝗽𝗲𝗿𝘀𝗼𝗻. 𐙚 နှလုံးသားက သိပ်တန်ဖိုးရှိတယ် အလှဆုံးအရာတွေပဲ",
+    "url": "https://www.facebook.com/carbon.re/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://gigaton.co/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://bike-news.jp/post/479155",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://carbon-credit.co.jp/contents/carbon-pricing-japan-start",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mri.co.jp/knowledge/mreview/2023062.html",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://e-dash.io/insight/cbam",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dolphin-s.co.jp.siteindices.com/",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   },
+   {
+    "url": "https://www.enterprise.cam.ac.uk/case-studies/carbon-re-ai-driven-solutions-for-industrial-decarbonisation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchgate.net/publication/376080799_Reinventing_Production_A_Case_Study_on_implementing_the_strategic_Innovations_in_Sustainable_Remanufacturing",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://link.springer.com/article/10.1007/s11356-022-24722-x",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.remanufacturing.eu/case-study-tool.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.upcounsel.com/reseller-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.canva.com/partners/reseller/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/yuuji_ai_news/n/ncfeb4d5d1da3?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sgw_fukuda/n/n1d3406bc1994?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/wondercare/n/na57cdf944c7b?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/patloeber/status/2120186279795261741",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/CarbonRewild",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/carbon",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/iruletheworldmo/status/2120196015449915525",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/people/Carbon-Re/61573036096377/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Carbon-Re-61567470031563/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/people/Carbon-Re/61567470031563/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/carbon.re/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Carbon Re 日本 導入",
+   "results": [
+    "https://bike-news.jp/post/479155",
+    "https://carbon-credit.co.jp/contents/carbon-pricing-japan-start",
+    "https://www.mri.co.jp/knowledge/mreview/2023062.html",
+    "https://e-dash.io/insight/cbam",
+    "https://www.env.go.jp/content/000209895.pdf",
+    "https://jp.mitsuichemicals.com/jp/sustainability/beplayer-replayer/soso/archive/column/common/2026-0910-04",
+    "https://sustainablejapan.jp/2024/11/23/japan-ets/108552"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Carbon Re 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://dolphin-s.co.jp.siteindices.com/",
+    "https://www.carbonmagic.com/",
+    "https://www.toray.co.jp/network/",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Carbon Re Japan",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Carbon Re manufacturing customer case study",
+   "results": [
+    "https://www.enterprise.cam.ac.uk/case-studies/carbon-re-ai-driven-solutions-for-industrial-decarbonisation/",
+    "https://www.researchgate.net/publication/376080799_Reinventing_Production_A_Case_Study_on_implementing_the_strategic_Innovations_in_Sustainable_Remanufacturing",
+    "https://link.springer.com/article/10.1007/s11356-022-24722-x",
+    "https://www.remanufacturing.eu/case-study-tool.php",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.e3s-conferences.org/articles/e3sconf/pdf/2023/90/e3sconf_icsdg2023_01022.pdf",
+    "https://www.mdpi.com/2073-8994/17/2/266"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Carbon Re white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.mycompanyworks.com/reseller",
+    "https://www.canva.com/partners/reseller/",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.t-mobile.com/business/partner-recruitment",
+    "https://www.godaddy.com/help/get-started-with-basic-and-pro-reseller-7454"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Carbon Re founded funding employees revenue",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com Carbon Re",
+   "results": [
+    "https://note.com/yuuji_ai_news/n/ncfeb4d5d1da3?hl=en",
+    "https://note.com/sgw_fukuda/n/n1d3406bc1994?hl=en",
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/wondercare/n/na57cdf944c7b?hl=en",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/carbon4322/n/nc2595c5fa62a?hl=en",
+    "https://note.com/kannsou_dustbox/n/n560c8384d4bf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Carbon Re",
+   "results": [
+    "https://x.com/patloeber/status/2120186279795261741",
+    "https://x.com/CarbonRewild",
+    "https://x.com/carbon",
+    "https://x.com/iruletheworldmo/status/2120196015449915525",
+    "https://x.com/googledevs/status/2120191804641517602",
+    "https://x.com/rajanpatel/status/2120191286795985387",
+    "https://x.com/sundarpichai/status/2115489219804352921"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Carbon Re",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com Carbon Re",
+   "results": [
+    "https://www.facebook.com/people/Carbon-Re/61573036096377/",
+    "https://www.facebook.com/p/Carbon-Re-61567470031563/",
+    "https://www.facebook.com/people/Carbon-Re/61567470031563/",
+    "https://www.facebook.com/carbon.re/",
+    "https://www.facebook.com/re.carbon.id/",
+    "https://www.facebook.com/CarbonRevolution/",
+    "https://www.facebook.com/Google/videos/today-were-rolling-out-gemini-4-carbon-our-strongest-model-built-for-your-toughe/1611053513641267/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Carbon Re note 社長",
+   "results": [
+    "https://ceoworld.biz/2024/03/27/josh-vernon-joins-carbon-re-as-ceo-to-drive-industrial-decarbonization/",
+    "https://www.cemnet.com/News/story/176674/carbon-re-appoints-new-ceo.html",
+    "https://globalventuring.com/university/profile-carbon-re/",
+    "https://impactloop.com/article/climate-tech-startup-changes-name-and-secures-26m-led-by-plural",
+    "https://www.carbonote.jp/",
+    "https://uk.linkedin.com/company/gigaton-technologies",
+    "https://www.linkedin.com/posts/carbonre_carbon-re-appoints-new-ceo-carbon-re-activity-7177965510301511681-77ut"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Carbon Re X 投稿",
+   "results": [
+    "https://www.xueshu.com/sci/40093/03.html",
+    "https://link.springer.com/journal/44246",
+    "https://www.iikx.com/sci/other/83386.html",
+    "https://www.sciencedirect.com/journal/carbon",
+    "https://www.xueshu.com/sci/40093/08.html",
+    "https://link.springer.com/journal/44246/submission-guidelines",
+    "https://www.zhihu.com/question/654570839?write"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部27頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部27頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部27頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部27頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部27頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部27頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部27頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部27頁・検索12回）"
+ }
+}

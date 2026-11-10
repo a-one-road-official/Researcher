@@ -1,0 +1,1152 @@
+{
+ "name": "Cofactorgenomics",
+ "aliases": [],
+ "context": "旧営業リスト｜Biotechnology Diagnostics｜未接触",
+ "researched_at": "2026-11-10T18:28:05.081310+00:00",
+ "official_url": "https://www.cofactorgenomics.com",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "・創業の原体験",
+    "value": "・創業の原体験：ヒトゲノム計画に携わった分子生物学者・バイオインフォマティクス研究者らが、次世代シーケンシング（NGS）技術の発展を契機に、ワシントン大学ゲノムセンターから独立して2008年に設立した",
+    "url": "https://www.firstcvc.jp/global/cofactorgenomics.com",
+    "pass": 3
+   },
+   {
+    "label": "・創業の原体験",
+    "value": "・創業の原体験：ヒトゲノム計画に携わった分子生物学者・バイオインフォマティクス研究者らが、次世代シーケンシング（NGS）技術の発展を契機に、ワシントン大学ゲノムセンターから独立して2008年に設立した",
+    "url": "https://en.firstcvc.jp/global/cofactorgenomics.com",
+    "pass": 3
+   },
+   {
+    "label": "Founded",
+    "value": "Founded：St. Louis, Missouri , U.S. (2008 ( 2008 ) )",
+    "url": "https://en.wikipedia.org/wiki/Cofactor_Genomics",
+    "pass": 3
+   },
+   {
+    "label": "Founded",
+    "value": "Founded：2015",
+    "url": "https://startupintros.com/orgs/cofactor-genomics",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "San Francisco, California , U.S.",
+    "url": "https://en.wikipedia.org/wiki/Cofactor_Genomics",
+    "pass": 3
+   },
+   {
+    "label": "HQ",
+    "value": "St. Louis, MO, USA",
+    "url": "https://startupintros.com/orgs/cofactor-genomics",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Predictive Diagnostics:",
+    "url": "https://cofactorgenomics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "to predict patient response to immunotherapy",
+    "url": "https://cofactorgenomics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "THE NEXT GENERATION OF PREDICTIVE DIAGNOSTICS",
+    "url": "https://cofactorgenomics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Cofactor has developed the first diagnostic that accurately predicts patient response to immunotherapy",
+    "url": "https://cofactorgenomics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PREDAPT (Predicting Immunotherapy Efficacy From Analysis of Pre-treatment Tumor Biopsies) Trial",
+    "url": "https://cofactorgenomics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "is evaluating use of Cofactor’s OncoPrism assay to effectively predict patients’ responses to immunotherapy. To date, more than 24 healthcare systems have partnered with Cofactor in the trial that will ultimately study 11 solid tumor cancers.",
+    "url": "https://cofactorgenomics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Better tools are needed to provide clinicians and patients with a more accurate understanding of tumor response ahead of treatment decisions,” explained Douglas Adkins, M.D., who led the study. “The use of multidimensional biomarkers rather than single analyte biomarkers represents a promising new approach.",
+    "url": "https://cofactorgenomics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Help us write the next chapter in human health and precision medicine.",
+    "url": "https://cofactorgenomics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Achieving true precision medicine requires a shift to multidimensional models.",
+    "url": "https://cofactorgenomics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Start typing and press Enter to search",
+    "url": "https://cofactorgenomics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Together, We Can Make Precision Medicine a Reality",
+    "url": "https://cofactorgenomics.com/investors/",
+    "pass": 1
+   },
+   {
+    "quote": "“As cells continually transcribe and translate genetic information, the RNA intermediary may be a means of providing profound new insights into the health of any given tissue.”",
+    "url": "https://cofactorgenomics.com/investors/",
+    "pass": 1
+   },
+   {
+    "quote": "“the [ImmunoPrism] assay has been able to define gene expression signals and identify immune cell signatures that differentiate patients who remain disease-free after three years from those who recurred within one year.”",
+    "url": "https://cofactorgenomics.com/investors/",
+    "pass": 1
+   },
+   {
+    "quote": "Start typing and press Enter to search",
+    "url": "https://cofactorgenomics.com/investors/",
+    "pass": 1
+   },
+   {
+    "quote": "Cofactor Genomics was founded after the pioneering efforts of the Human Genome Project made high-throughput, affordable human genome sequencing a reality. The founders saw that analyzing RNA offered a number of advantages over the static nature of DNA (",
+    "url": "https://cofactorgenomics.com/our-story/",
+    "pass": 1
+   },
+   {
+    "quote": "Cofactor Genomics is bringing precision medicine to immunotherapy by leading development of predictive diagnostics. Powered by RNA-expression models, Cofactor’s approach can characterize the microenvironment of a tumor and predict patient response to immunotherapy.",
+    "url": "https://cofactorgenomics.com/our-story/",
+    "pass": 1
+   },
+   {
+    "quote": "ADVANCING PRECISION MEDICINE",
+    "url": "https://cofactorgenomics.com/our-story/",
+    "pass": 1
+   },
+   {
+    "quote": "Our team of 20-year veterans in genomics have harnessed the power of RNA to build the technologies, data assets, and regulatory frameworks to enable more predictive multidimensional biomarkers. Driven by clinical and market data, we’ve prioritized a list of key cancer subtypes that address the highest unmet clinical need, with promising results.",
+    "url": "https://cofactorgenomics.com/our-story/",
+    "pass": 1
+   },
+   {
+    "quote": "Our team is as multifaceted as the biomarkers we’re building. With scientific experts, computer science wizards, and creative individuals abound, we’re determined to solve the challenges that have stalled precision medicine. We move quickly, experiment regularly, and make time to enjoy each other’s company. We’d love to hear how your background fits with our mission.",
+    "url": "https://cofactorgenomics.com/our-story/",
+    "pass": 1
+   },
+   {
+    "quote": "Founder, President and CTO",
+    "url": "https://cofactorgenomics.com/our-story/",
+    "pass": 1
+   },
+   {
+    "quote": "20 years leading RNA-based Genomic Research. 10 years on the Human Genome Project. PhD in Computational Biology.",
+    "url": "https://cofactorgenomics.com/our-story/",
+    "pass": 1
+   },
+   {
+    "quote": "Start typing and press Enter to search",
+    "url": "https://cofactorgenomics.com/our-story/",
+    "pass": 1
+   },
+   {
+    "quote": "If you’re interested in making an impact to advance precision medicine, but don’t see a good fit based on the roles we have posted, let’s connect. Let us know how you think you can contribute and submit your resume by clicking on “Cofactor Careers” on the right.",
+    "url": "https://cofactorgenomics.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Start typing and press Enter to search",
+    "url": "https://cofactorgenomics.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Email Protection | Cloudflare",
+    "url": "https://cofactorgenomics.com/cdn-cgi/l/email-protection",
+    "pass": 1
+   },
+   {
+    "quote": "The website from which you got to this page is protected by Cloudflare. Email addresses on that page have been hidden in order to keep them from being accessed by malicious bots.",
+    "url": "https://cofactorgenomics.com/cdn-cgi/l/email-protection",
+    "pass": 1
+   },
+   {
+    "quote": "If you have a website and are interested in protecting it in a similar way, you can",
+    "url": "https://cofactorgenomics.com/cdn-cgi/l/email-protection",
+    "pass": 1
+   },
+   {
+    "quote": "How does Cloudflare protect email addresses on website from spammers?",
+    "url": "https://cofactorgenomics.com/cdn-cgi/l/email-protection",
+    "pass": 1
+   },
+   {
+    "quote": "RNA発現解析と機械学習を組み合わせた、がん免疫療法向け予測診断検査「OncoPrism」（頭頸部扁平上皮がんおよび非小細胞肺がん向け等）の開発および商業提供を行う",
+    "url": "https://www.firstcvc.jp/global/cofactorgenomics.com",
+    "pass": 3
+   },
+   {
+    "quote": "・市場定義と提供価値: 精密腫瘍学（Precision Oncology）における免疫療法の予測診断市場を対象とする",
+    "url": "https://www.firstcvc.jp/global/cofactorgenomics.com",
+    "pass": 3
+   },
+   {
+    "quote": "・対象市場の定義と規模・成長率: 精密腫瘍学（Precision Oncology）診断およびがん免疫療法（Immuno-Oncology）の予測・コンパニオン診断市場に属する",
+    "url": "https://www.firstcvc.jp/global/cofactorgenomics.com",
+    "pass": 3
+   },
+   {
+    "quote": "ProducePayは、生鮮青果（野菜・果物）市場に特化したアグリテックおよびフィンテックの統合プラットフォームを提供する企業です",
+    "url": "https://www.firstcvc.jp/global/cofactorgenomics.com",
+    "pass": 3
+   },
+   {
+    "quote": "RNA発現解析と機械学習を組み合わせた、がん免疫療法向け予測診断検査「OncoPrism」（頭頸部扁平上皮がんおよび非小細胞肺がん向け等）の開発および商業提供を行う",
+    "url": "https://en.firstcvc.jp/global/cofactorgenomics.com",
+    "pass": 3
+   },
+   {
+    "quote": "・市場定義と提供価値: 精密腫瘍学（Precision Oncology）における免疫療法の予測診断市場を対象とする",
+    "url": "https://en.firstcvc.jp/global/cofactorgenomics.com",
+    "pass": 3
+   },
+   {
+    "quote": "・対象市場の定義と規模・成長率: 精密腫瘍学（Precision Oncology）診断およびがん免疫療法（Immuno-Oncology）の予測・コンパニオン診断市場に属する",
+    "url": "https://en.firstcvc.jp/global/cofactorgenomics.com",
+    "pass": 3
+   },
+   {
+    "quote": "ProducePayは、生鮮青果（野菜・果物）市場に特化したアグリテックおよびフィンテックの統合プラットフォームを提供する企業です",
+    "url": "https://en.firstcvc.jp/global/cofactorgenomics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/Cofactor_Genomics",
+    "pass": 3
+   },
+   {
+    "quote": "company that primarily focuses on",
+    "url": "https://en.wikipedia.org/wiki/Cofactor_Genomics",
+    "pass": 3
+   },
+   {
+    "quote": "Cofactor Genomics is involved in a number of research projects, including the preservation of the",
+    "url": "https://en.wikipedia.org/wiki/Cofactor_Genomics",
+    "pass": 3
+   },
+   {
+    "quote": "sequence analysis program.",
+    "url": "https://en.wikipedia.org/wiki/Cofactor_Genomics",
+    "pass": 3
+   },
+   {
+    "quote": "and genetics. He worked on the Human Genome Project at Washington University in St. Louis, trained in molecular biology and human genetics at the",
+    "url": "https://en.wikipedia.org/wiki/Cofactor_Genomics",
+    "pass": 3
+   },
+   {
+    "quote": ", a non-profit organization.",
+    "url": "https://en.wikipedia.org/wiki/Cofactor_Genomics",
+    "pass": 3
+   },
+   {
+    "quote": "Pivoting Biotech From Service to Product",
+    "url": "https://www.casestudies.com/customer/cofactor-genomics",
+    "pass": 3
+   },
+   {
+    "quote": "Co-Founder, Director of Scientific Projects and Market Development",
+    "url": "https://www.casestudies.com/customer/cofactor-genomics",
+    "pass": 3
+   },
+   {
+    "quote": "Cofactor closes the precision medicine gap with predictive diagnostics",
+    "url": "https://getlatka.com/companies/cofactorgenomics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/cofactorgenomics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/cofactorgenomics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Preston Werner Ventures",
+    "url": "https://startupintros.com/orgs/cofactor-genomics",
+    "pass": 3
+   },
+   {
+    "quote": "Unlike traditional diagnostics that focus on single analytes or DNA mutations, Cofactor’s RNA-based approach captures complex immune responses at the tumor microenvironment level.",
+    "url": "https://startupintros.com/orgs/cofactor-genomics",
+    "pass": 3
+   },
+   {
+    "quote": "Predictive Immune Modeling:",
+    "url": "https://startupintros.com/orgs/cofactor-genomics",
+    "pass": 3
+   },
+   {
+    "quote": "Their proprietary platform integrates RNA expression data with machine learning to generate highly predictive models of patient response.",
+    "url": "https://startupintros.com/orgs/cofactor-genomics",
+    "pass": 3
+   },
+   {
+    "quote": "Comprehensive Platform:",
+    "url": "https://startupintros.com/orgs/cofactor-genomics",
+    "pass": 3
+   },
+   {
+    "quote": "cofactorgenomics.com/wp-content/uploads/2019/09/investorbooklet_091319_web.pdf",
+    "url": "https://startupintros.com/orgs/cofactor-genomics",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "JARRET GLASSCOCK, PHD",
+    "url": "https://cofactorgenomics.com/investors/",
+    "pass": 1
+   },
+   {
+    "quote": "Jarret Glasscock, PhD",
+    "url": "https://cofactorgenomics.com/our-story/",
+    "pass": 1
+   },
+   {
+    "quote": "Huscarlは、企業の自家保険（セルフインシュアランス）および自家保険子会社（キャプティブ）の運用を支援するAIアクチュアリー（保険数理）プラットフォー...",
+    "url": "https://www.firstcvc.jp/global/cofactorgenomics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Metriportは、米国の医療データを統合・標準化し、医療従事者や臨床AIエージェントにリアルタイムで提供するオープンソースの医療データインフラ企業であ...",
+    "url": "https://www.firstcvc.jp/global/cofactorgenomics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Huscarlは、企業の自家保険（セルフインシュアランス）および自家保険子会社（キャプティブ）の運用を支援するAIアクチュアリー（保険数理）プラットフォー...",
+    "url": "https://en.firstcvc.jp/global/cofactorgenomics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Metriportは、米国の医療データを統合・標準化し、医療従事者や臨床AIエージェントにリアルタイムで提供するオープンソースの医療データインフラ企業であ...",
+    "url": "https://en.firstcvc.jp/global/cofactorgenomics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Jarret Glasscock (CEO), Jon Armstrong (CSO), David Messina (COO)",
+    "url": "https://en.wikipedia.org/wiki/Cofactor_Genomics",
+    "pass": 3
+   },
+   {
+    "quote": "Cofactor Genomics was founded in August 2008 by Jarret Glasscock, Matt Hickenbotham, and Ryan Richt. The technological advances brought on by",
+    "url": "https://en.wikipedia.org/wiki/Cofactor_Genomics",
+    "pass": 3
+   },
+   {
+    "quote": "Jarret Glasscock is a",
+    "url": "https://en.wikipedia.org/wiki/Cofactor_Genomics",
+    "pass": 3
+   },
+   {
+    "quote": "Cofactor Genomics Revenue 2024: $3.2M Est.",
+    "url": "https://getlatka.com/companies/cofactorgenomics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Cofactor Genomics revenue",
+    "url": "https://getlatka.com/companies/cofactorgenomics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Cofactor Genomics has not published its revenue. GetLatka estimates it at about $3.2M a year (June 2024).",
+    "url": "https://getlatka.com/companies/cofactorgenomics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Cofactor Genomics CEO, founders & employees",
+    "url": "https://getlatka.com/companies/cofactorgenomics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Dave Messina founded Cofactor Genomics in 2015 and runs it as CEO. Cofactor Genomics had 9 employees (June 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/cofactorgenomics.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Cofactor Genomics' revenue?",
+    "url": "https://getlatka.com/companies/cofactorgenomics.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Cofactor Genomics' revenue at about",
+    "url": "https://getlatka.com/companies/cofactorgenomics.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Cofactor Genomics have?",
+    "url": "https://getlatka.com/companies/cofactorgenomics.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in June 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/cofactorgenomics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/cofactorgenomics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/cofactorgenomics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/cofactorgenomics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Cofactor Genomics was founded in 2015 by Dave Messina (Founder and Chief Operating Officer) and Jarret Glasscock (Founder/CTO).",
+    "url": "https://startupintros.com/orgs/cofactor-genomics",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Email Protection | Cloudflare",
+    "url": "https://cofactorgenomics.com/cdn-cgi/l/email-protection",
+    "pass": 1
+   },
+   {
+    "quote": "You are unable to access this email address",
+    "url": "https://cofactorgenomics.com/cdn-cgi/l/email-protection",
+    "pass": 1
+   },
+   {
+    "quote": "The website from which you got to this page is protected by Cloudflare. Email addresses on that page have been hidden in order to keep them from being accessed by malicious bots.",
+    "url": "https://cofactorgenomics.com/cdn-cgi/l/email-protection",
+    "pass": 1
+   },
+   {
+    "quote": "You must enable Javascript in your browser in order to decode the e-mail address",
+    "url": "https://cofactorgenomics.com/cdn-cgi/l/email-protection",
+    "pass": 1
+   },
+   {
+    "quote": "How does Cloudflare protect email addresses on website from spammers?",
+    "url": "https://cofactorgenomics.com/cdn-cgi/l/email-protection",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Cofactor Genomics – The Leaders in RNA-Seq — Are you a medical oncologist, pathologist, or other clinical researcher with an active interest in one of the indications shown below? Contact us to learn about our sponsored research programs. Contact us to participate in one of our sponsored retrospective or prospective studies, with full support provided by Cofactor Genomics.",
+    "url": "https://cofactorgenomics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Cofactor Genomicsの資金調達・投資家情報 | 海外スタートアップ | FI... — Y Combinator、Fifty Years、DCVCのポートフォリオに掲載される海外スタートアップCofactor Genomicsの企業プロフィール。 Cofactor Genomicsは、RNAシーケンシング（RNA-seq）と機械学習モデルを融合し、がん免疫療法における治療効果を高精度に予測する次世代の...",
+    "url": "https://www.firstcvc.jp/global/cofactorgenomics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Investors – Cofactor Genomics — Cofactor Genomics Bridges the Precision Medicine Gap Using AWS and Machine Learning Multidimensional Biomarkers for Precision Medicine at World CDx Play",
+    "url": "https://cofactorgenomics.com/investors/",
+    "pass": 3
+   },
+   {
+    "quote": "Cofactor | Funding Rounds & Investor Information (Global ... — 会社概要 Cofactor（Cofactor Genomics）は、RNA発現モデルと機械学習を活用してがん免疫療法の治療効果を予測する次世代の予測診断技術を開発するバイオテクノロジー企業です。",
+    "url": "https://en.firstcvc.jp/global/cofactorgenomics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Cofactor Genomics - Wikipedia — Cofactor Genomics is a biotech company that primarily focuses on drug development, medical research, and personalized medicine. Cofactor Genomics was founded in August 2008 by Jarret Glasscock, Matt Hickenbotham, and Ryan Richt.",
+    "url": "https://en.wikipedia.org/wiki/Cofactor_Genomics",
+    "pass": 3
+   },
+   {
+    "quote": "Cofactor Genomics – The Leaders in RNA-Seq — Contact us to participate in one of our sponsored retrospective or prospective studies, with full support provided by Cofactor Genomics. Contact us to join one of our clinical studies. Sign up to receive the latest from Cofactor right in your inbox.",
+    "url": "https://cofactorgenomics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Our Story – Cofactor Genomics — Cofactor Genomics was founded after the pioneering efforts of the Human Genome Project made high-throughput, affordable human genome sequencing a reality. The founders saw that analyzing RNA offered a number of advantages over the static nature of DNA (learn more here).",
+    "url": "https://cofactorgenomics.com/our-story/",
+    "pass": 3
+   },
+   {
+    "quote": "Cofactor Genomics - T Cell Subtype Profiling — We are driven to remove the barriers that have prohibited the advancement of true precision medicine. Cofactor is enabling the industry to move beyond isolated, single-analyte biomarkers to powerful multidimensional biomarkers using Health Expression Models.",
+    "url": "https://tcsp.cofactorgenomics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Cofactor Genomics - Customer Case Study — Cofactor Genomics (Biotechnology) partnered with Yank and Limey to solve key challenges. \"Cofactor Genomics - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/yank-and-limey/case-study/cofactor-genomics-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies Featuring Cofactor Genomics as the Customer — Explore case studies featuring Cofactor Genomics as the customer — learn how vendors and partners helped Cofactor Genomics solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/cofactor-genomics",
+    "pass": 3
+   },
+   {
+    "quote": "Curebase on LinkedIn: Cofactor Case Study | Curebase — Cofactor Genomics partnered with Curebase on a #diagnostic study investigating the effectiveness of their #oncology immunotherapy response technology.",
+    "url": "https://www.linkedin.com/posts/curebase_cofactor-case-study-curebase-activity-7022171067477553152-lswc",
+    "pass": 3
+   },
+   {
+    "quote": "Cofactor Genomics – The Leaders in RNA-Seq — To date, more than 24 healthcare systems have partnered with Cofactor in the trial that will ultimately study 11 solid tumor cancers.",
+    "url": "https://cofactorgenomics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Cofactor Genomics – Overview – Funding, Revenue & Growth – 2026 — Revenue, valuation, and funding figures for Cofactor Genomics are estimates based on publicly available information, industry analysis, regulatory filings, company-provided profile updates, and proprietary data aggregation methods.",
+    "url": "https://compworth.com/company/cofactor-genomics",
+    "pass": 3
+   },
+   {
+    "quote": "How Cofactor Genomics hit $3.2M revenue with a 9 person team ... — Apr 10, 2025 · Explore the complete funding history and valuation milestones for this company. Below you'll find detailed information about each funding round, including investment amounts, lead investors, and key financial metrics that have shaped the company's growth trajectory.",
+    "url": "https://getlatka.com/companies/cofactorgenomics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Cofactor Genomics - 2025 Company Profile, Team, Funding ...Cofactor Genomics: Funding, Team & Investors | Startup IntrosCofactor Genomics 2026 Company Profile: Valuation, Funding ...Cofactor Genomics Funding: $19.4M | Indexed.vc — Jul 13, 2025 · Cofactor Genomics is a series A company based in San Francisco (United States), founded in 2009 by Dave Messina. It operates as a Developer of diagnostic ",
+    "url": "https://tracxn.com/d/companies/cofactor-genomics/__ev5b89qI1VlBL_dt3LsiBPPssZZKJ3uRwSVPy-UAWQs",
+    "pass": 3
+   },
+   {
+    "quote": "Cofactor Genomics: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Cofactor Genomics was founded in 2015 by Jarret Glasscock and Dave Messina. Cofactor Genomics has raised $21.0M across 2 funding rounds. Most recently, it raised $18.0M Series A in September 2017. Key people at Cofactor Genomics.",
+    "url": "https://startupintros.com/orgs/cofactor-genomics",
+    "pass": 3
+   },
+   {
+    "quote": "Cofactor Genomics 2026 Company Profile: Valuation, Funding ... — Information on valuation, funding, cap tables, investors, and executives for Cofactor Genomics. Use the PitchBook Platform to explore the full profile.",
+    "url": "https://pitchbook.com/profiles/company/118024-75",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Yank and Limey Case Study: Cofactor Genomics – Cofactor Genomics - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/yank-and-limey/case-study/cofactor-genomics-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Cofactor Genomics - Customer Case Study",
+    "url": "https://www.casestudies.com/company/yank-and-limey/case-study/cofactor-genomics-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Cofactor Genomics used Yank and Limey",
+    "url": "https://www.casestudies.com/company/yank-and-limey/case-study/cofactor-genomics-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/yank-and-limey/case-study/cofactor-genomics-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/yank-and-limey/case-study/cofactor-genomics-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories about Software and Services used by Cofactor Genomics",
+    "url": "https://www.casestudies.com/customer/cofactor-genomics",
+    "pass": 3
+   },
+   {
+    "quote": "Cofactor Genomics - Customer Case Study",
+    "url": "https://www.casestudies.com/customer/cofactor-genomics",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "\"#CofactorGenomics\" - Results on X | Live Posts & Updates Results for \"#CofactorGenomics\" on X (Twitter). Find the latest posts, discussions, and updates about #CofactorGenomics. 20 results found.",
+    "url": "https://x.com/hashtag/CofactorGenomics",
+    "pass": 3
+   },
+   {
+    "quote": "Business-News-Today.com on X: \"Cofactor’s OncoPrism predicts ... The validation spans 1,487 patient records, but only 89 belong to the multicenter PREDAPT immunotherapy cohort. Prospective treatment-selection evidence remains the next test. #CofactorGenomics #OncoPrism #LungCancer #NSCLC #PrecisionOncology #Immunotherapy #PDL1 #RNADiagnostics #Biomarkers #ClinicalValidation 17 Oct 2026 08:05:03",
+    "url": "https://x.com/BNTBriefing/status/2111367876154110022",
+    "pass": 3
+   },
+   {
+    "quote": "#CofactorGenomics Commences First Predictive #Immune Modeling ... 1stOncology (@1stOncology). #CofactorGenomics Commences First Predictive #Immune Modeling Clinical Trial to Bridge Precision Medicine Gap for #Immunotherapy",
+    "url": "https://x.com/1stOncology/status/1382275883432513543",
+    "pass": 3
+   },
+   {
+    "quote": "#CofactorGenomics to Present on Predictive Immune Modeling at ... 1stOncology (@1stOncology). #CofactorGenomics to Present on Predictive Immune Modeling at 2019 American Association for Cancer Research Annual Meeting #AACR19",
+    "url": "https://x.com/1stOncology/status/1109035453380988928",
+    "pass": 3
+   },
+   {
+    "quote": "Cofactor Genomics (@CofactorGenomic) / Posts / X Cofactor Genomics (@CofactorGenomic) - Posts - Cofactor is leading the charge on moving RNA-seq out of discovery and into diagnostics. We’re truste... | X (formerly Twitter)",
+    "url": "https://x.com/CofactorGenomic",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Cofactor Genomics - LinkedIn Cofactor Genomics empowers clinicians to be better informed while making treatment decisions to improve patient outcomes.",
+    "url": "https://www.linkedin.com/company/cofactorgenomics",
+    "pass": 3
+   },
+   {
+    "quote": "Cofactor Genomics on LinkedIn: Homepage Connect with Sara Lapomarda to learn more about our predictive diagnostic in solid tumors and let us know if you will be at the SCRS Global Oncology Site Solutions Summit! #clinicalresearch...",
+    "url": "https://www.linkedin.com/posts/cofactorgenomics_homepage-activity-7036056199707971584-izGg",
+    "pass": 3
+   },
+   {
+    "quote": "Jeff Hiken - Molecular Biologist at Cofactor Genomics | LinkedInCareers | Cofactor Genomics - LinkedInJarret Glasscock - Biotech Founder, President & CTO at ...Cofactor Genomics on LinkedIn: Cofactor Genomics receives ... Molecular Biologist at Cofactor Genomics · Experience: Cofactor Genomics · Location: St Louis. View Jeff Hiken’s profile on LinkedIn, a professional community of 1 billion member",
+    "url": "https://www.linkedin.com/in/jeff-hiken-4b2368123",
+    "pass": 3
+   },
+   {
+    "quote": "Careers | Cofactor Genomics - LinkedIn Link for more information: https://lnkd.in/dUBqk_n Careers https://cofactorgenomics.com 19 3,592 followers",
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7319100866710384641/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Cofactor Genomics | San Francisco CA - FacebookDisease is complex. A better... - Cofactor Genomics | FacebookAt Cofactor Genomics, we feel strongly ... - FacebookScientific and medical research is an... - Cofactor Genomics ...Beyond T cell functional assays:... - Cofactor GenomicsCofactor is excited to announce the... - Cofactor GenomicsMeasuring T cell activation can... - Cofactor Genomics - Face",
+    "url": "https://www.facebook.com/cofactorgenomics/",
+    "pass": 3
+   },
+   {
+    "quote": "Disease is complex. A better... - Cofactor Genomics | Facebook Mar 30, 2020 · Recent Posts Cofactor Genomics Apr 13, 2021 Today, we announced our first multicenter clinical trial. Fifteen sites, including Mayo Clinic, MultiCare Institute for Research and Innovation, and Revive Research Institute, are currently enrolling for the PREDAPT Trial:http://ow.ly/735x50EhLKC Cofactor Genomics Apr 6, 2021",
+    "url": "https://www.facebook.com/cofactorgenomics/posts/3780771151963161/",
+    "pass": 3
+   },
+   {
+    "quote": "Measuring T cell activation can... - Cofactor Genomics - Facebook Nov 15, 2019 · We use #RNA models as surrogates for functional assays, making these insights easy to access. Apply before December 20th for our early-access grant program: https://cofactorgenomics.com/exhaustion_grant/ cofactorgenomics.com 2019 Exhaustion Early-Access Grant Application - Cofactor Genomics",
+    "url": "https://www.facebook.com/cofactorgenomics/posts/3334670939906520/",
+    "pass": 3
+   },
+   {
+    "quote": "At Cofactor Genomics, we feel strongly ... - Facebook Mar 13, 2019 · At Cofactor Genomics, we feel strongly that the field of Predictive Immune Modeling has the potential to make a big impact in how we treat cancer. Join...",
+    "url": "https://www.facebook.com/cofactorgenomics/posts/2680402742000013/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://cofactorgenomics.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cofactorgenomics.com/investors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cofactorgenomics.com/our-story/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cofactorgenomics.com/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cofactorgenomics.com/cdn-cgi/l/email-protection",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://cofactorgenomics.com/wp-content/uploads/2019/10/cofactor_careers_social_010-1024x683.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cofactorgenomics.com/wp-content/uploads/2019/10/cofactor_careers_social_013-1024x683.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cofactorgenomics.com/wp-content/uploads/2019/10/cofactor_careers_social_002-1024x683.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cofactorgenomics.com/wp-content/uploads/2019/10/cofactor_careers_social_007-1024x683.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cofactorgenomics.com/wp-content/uploads/2019/10/cofactor_careers_social_014-1024x683.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cofactorgenomics.com/wp-content/uploads/2019/10/cofactor_careers_social_005-1024x683.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cofactorgenomics.com/wp-content/uploads/2019/10/cofactor_careers_social_004-1024x683.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cofactorgenomics.com/wp-content/uploads/2019/10/cofactor_careers_social_009-1024x683.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cofactorgenomics.com/wp-content/uploads/2019/09/cof_client-parners_logos_ascension.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cofactorgenomics.com/wp-content/uploads/2019/09/cof_client-parners_logos_dcvc.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cofactorgenomics.com/wp-content/uploads/2019/09/cof_client-parners_logos_menlo.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cofactorgenomics.com/wp-content/uploads/2019/09/cof_client-parners_logos_0005_yourstory_ycombinator.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://cofactorgenomics.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.firstcvc.jp/global/cofactorgenomics.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cofactorgenomics.com/investors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.firstcvc.jp/global/cofactorgenomics.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/91/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Cofactor_Genomics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cofactorgenomics.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cofactorgenomics.com/our-story/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.firstcvc.jp/global/cofactorgenomics.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/yank-and-limey/case-study/cofactor-genomics-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/cofactor-genomics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/curebase_cofactor-case-study-curebase-activity-7022171067477553152-lswc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cofactorgenomics.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://upcloud.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/cofactor-genomics",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/cofactorgenomics.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/cofactor-genomics/__ev5b89qI1VlBL_dt3LsiBPPssZZKJ3uRwSVPy-UAWQs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://startupintros.com/orgs/cofactor-genomics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hashtag/CofactorGenomics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/BNTBriefing/status/2111367876154110022",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/1stOncology/status/1382275883432513543",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/1stOncology/status/1109035453380988928",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/cofactorgenomics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/cofactorgenomics_homepage-activity-7036056199707971584-izGg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/jeff-hiken-4b2368123",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7319100866710384641/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/cofactorgenomics/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/cofactorgenomics/posts/3780771151963161/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/cofactorgenomics/posts/3334670939906520/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/cofactorgenomics/posts/2680402742000013/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/CofactorGenomics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/1stOncology/status/1382275883432513543",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/1stOncology/status/1109035453380988928",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/CofactorGenomic",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Cofactorgenomics 日本 導入",
+   "results": [
+    "https://cofactorgenomics.com/",
+    "https://www.firstcvc.jp/global/cofactorgenomics.com",
+    "https://cofactorgenomics.com/investors/",
+    "https://en.firstcvc.jp/global/cofactorgenomics.com",
+    "https://codenote.net/ja/posts/japanese-local-llm-development-case-studies/",
+    "https://www.pwc.com/jp/ja/knowledge/thoughtleadership/generative-ai-survey2026.html",
+    "https://monoist.itmedia.co.jp/mn/articles/2610/29/news032.html"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Cofactorgenomics 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://partner-prop.com/lab/partner-business/agency/91/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://taimen-eigyo.com/words/so-dairiten/",
+    "https://ja.repligen.com/company/distributors",
+    "https://cofactorgenomics.com/technology/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://cofactorgenomics.com/investors/",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "Cofactorgenomics Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Cofactor_Genomics",
+    "https://cofactorgenomics.com/",
+    "https://cofactorgenomics.com/our-story/",
+    "https://en.firstcvc.jp/global/cofactorgenomics.com",
+    "https://tcsp.cofactorgenomics.com/",
+    "https://www.firstcvc.jp/global/cofactorgenomics.com",
+    "https://www.linkedin.com/company/cofactorgenomics"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Cofactorgenomics manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/yank-and-limey/case-study/cofactor-genomics-customer-case-study",
+    "https://www.casestudies.com/customer/cofactor-genomics",
+    "https://www.linkedin.com/posts/curebase_cofactor-case-study-curebase-activity-7022171067477553152-lswc",
+    "https://cofactorgenomics.com/",
+    "https://cofactorgroup.com/resources/",
+    "https://cofactorgenomics.com/technology/",
+    "https://cofactorgroup.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Cofactorgenomics white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://upcloud.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.reseller.co.nz/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Cofactorgenomics founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/cofactor-genomics",
+    "https://getlatka.com/companies/cofactorgenomics.com",
+    "https://tracxn.com/d/companies/cofactor-genomics/__ev5b89qI1VlBL_dt3LsiBPPssZZKJ3uRwSVPy-UAWQs",
+    "https://startupintros.com/orgs/cofactor-genomics",
+    "https://pitchbook.com/profiles/company/118024-75",
+    "https://indexed.vc/companies/cofactorgenomics",
+    "https://cofactorgenomics.com/investors/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Cofactorgenomics",
+   "results": [
+    "https://note.com/uzura_note_lab/n/n3c3e0210f8af",
+    "https://note.com/tag/生徒会",
+    "https://note.com/hanekura_poco/n/ncbc3f3927b54",
+    "https://note.com/r_kaga/n/n8a0c789af963",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/rottary/n/n6beb4f310cf4",
+    "https://note.com/nge555/n/n136c7bf83e2e"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Cofactorgenomics",
+   "results": [
+    "https://x.com/hashtag/CofactorGenomics",
+    "https://x.com/BNTBriefing/status/2111367876154110022",
+    "https://x.com/1stOncology/status/1382275883432513543",
+    "https://x.com/1stOncology/status/1109035453380988928",
+    "https://x.com/cofactorme",
+    "https://x.com/CofactorGenomic",
+    "https://x.com/NoahFentys/status/2118178286157140113"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Cofactorgenomics",
+   "results": [
+    "https://www.linkedin.com/company/cofactorgenomics",
+    "https://www.linkedin.com/posts/cofactorgenomics_homepage-activity-7036056199707971584-izGg",
+    "https://www.linkedin.com/in/jeff-hiken-4b2368123",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7319100866710384641/",
+    "https://www.linkedin.com/posts/cofactorgenomics_cofactor-genomics-receives-medicare-coverage-activity-7253104644816543744-QD7G",
+    "https://www.linkedin.com/posts/cofactorgenomics_cofactor-genomics-announces-strategic-investment-activity-7406354822708252674-78Ws",
+    "https://www.linkedin.com/in/jarretglasscock"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Cofactorgenomics",
+   "results": [
+    "https://www.facebook.com/cofactorgenomics/",
+    "https://www.facebook.com/cofactorgenomics/posts/3780771151963161/",
+    "https://www.facebook.com/cofactorgenomics/posts/3334670939906520/",
+    "https://www.facebook.com/cofactorgenomics/posts/2680402742000013/",
+    "https://www.facebook.com/cofactorgenomics/posts/4938475039526094/",
+    "https://www.facebook.com/cofactorgenomics/posts/3324926267547654/",
+    "https://www.facebook.com/cofactorgenomics/posts/1957476024292692/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Cofactorgenomics note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.zaikai.jp/articles/detail/2552",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/",
+    "https://cofactorgenomics.com/",
+    "https://www.firstcvc.jp/global/cofactorgenomics.com",
+    "https://cofactorgenomics.com/investors/",
+    "https://www.businesswire.com/news/home/20250108539488/en/Cofactor-Genomics-Inc.-Announces-CEO-Transition-in-Preparation-for-Accelerated-Commercial-Growth-and-Increased-Patient-Access-for-OncoPrism-its-Medicare-Approved-Immunotherapy-Test"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Cofactorgenomics X 投稿",
+   "results": [
+    "https://x.com/hashtag/CofactorGenomics",
+    "https://x.com/1stOncology/status/1382275883432513543",
+    "https://x.com/1stOncology/status/1109035453380988928",
+    "https://x.com/CofactorGenomic",
+    "https://cofactorgenomics.com/",
+    "https://cofactorgenomics.com/recent-publications/",
+    "https://recentfunding.com/companies/cofactor-genomics/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部40頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部40頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部40頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部40頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部40頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部40頁・検索12回）"
+ }
+}

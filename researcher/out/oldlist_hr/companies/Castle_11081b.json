@@ -1,0 +1,1895 @@
+{
+ "name": "Castle",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Cybersecurity｜未接触",
+ "researched_at": "2026-11-10T18:23:40.710111+00:00",
+ "official_url": "https://castle.io",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Assess IP reputation and risk. Detect proxies, VPNs, Tor, and datacenter traffic.",
+    "url": "https://castle.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Device fingerprinting",
+    "url": "https://castle.io/",
+    "pass": 1
+   },
+   {
+    "quote": "99.5% accurate fingerprinting. Uncover headless browsers, tampering, carrier data, etc.",
+    "url": "https://castle.io/",
+    "pass": 1
+   },
+   {
+    "quote": "priya.sharma@gmail.com",
+    "url": "https://castle.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Apr 17, 2025 6:10 AM",
+    "url": "https://castle.io/",
+    "pass": 1
+   },
+   {
+    "quote": "\"iPhone 14 Pro Max\"",
+    "url": "https://castle.io/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Digital Privacy Corporation\"",
+    "url": "https://castle.io/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Users per device fingerprint in 30d\"",
+    "url": "https://castle.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Our APIs process billions of monthly requests with resilience against severe bot attacks.",
+    "url": "https://castle.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Fingerprinting, risk scores, and rules computed instantly in real-time.",
+    "url": "https://castle.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Pay-as-you-go pricing",
+    "url": "https://castle.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Transparent plans with included API budgets and simple pay-as-you-go pricing.",
+    "url": "https://castle.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Start with a free quota, with transparent pricing that scales when you do.",
+    "url": "https://castle.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Castle has significantly strengthened our fraud prevention efforts.",
+    "url": "https://castle.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Castle's functionality has been a game changer in mitigating malicious content.",
+    "url": "https://castle.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "With Castle, we've effectively re-evaluated our approach to user security.",
+    "url": "https://castle.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Australian software company providing team collaboration and productivity software.",
+    "url": "https://castle.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Online design and publishing tool for social posts, videos and presentations.",
+    "url": "https://castle.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Design tool for creating interactive designs and prototypes.",
+    "url": "https://castle.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Leading provider of cloud-based connectivity solutions, including meeting and support tools.",
+    "url": "https://castle.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Online luxury fashion retail platform selling products from over 700 boutiques and brands.",
+    "url": "https://castle.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Online service providing designer dress and accessory rentals.",
+    "url": "https://castle.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Renowned video game publisher known for blockbuster franchises like Grand Theft Auto.",
+    "url": "https://castle.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Cloud communications platform for messaging, voice, and video.",
+    "url": "https://castle.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Start with a free quota, with transparent pricing that scales when you do.",
+    "url": "https://castle.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Launch your project with unlimited calls and no contractual minimums",
+    "url": "https://castle.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Tailored solutions, MTU or volume pricing, and dedicated support",
+    "url": "https://castle.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Web & mobile fingerprinting",
+    "url": "https://castle.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Full IP database downloads",
+    "url": "https://castle.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Successful Risk and Filter requests are billed at $0.005 each, while every valid IP entity returned by a single or batch lookup is billed at $0.001. Both products draw from your plan's shared monthly API budget.",
+    "url": "https://castle.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "The Free plan includes $5 of API usage, equivalent to 1,000 Risk and Filter requests, 5,000 IP entities, or any mix of the same value. The Pro plan includes $200 of API usage, equivalent to 40,000 Risk and Filter requests, 200,000 IP entities, or any mix of the same value.",
+    "url": "https://castle.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "IP Intelligence lookups give you connection intelligence for a specific IP through a simple API call. Risk and Filter requests are available when you build a full Castle integration, providing deeper intelligence about user behavior, devices, and risk scores.",
+    "url": "https://castle.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "On the Pro plan, usage above the monthly included budget is billed on a pay-as-you-go basis at the same per-request rates. The Free plan has a fixed API budget for evaluating Castle and does not support overages. Upgrade to Pro before production for higher rate limits and uninterrupted pay-as-you-go access.",
+    "url": "https://castle.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "We accept all major credit cards. For Enterprise plans, we can also arrange invoice payments.",
+    "url": "https://castle.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Do you provide Service Level Agreements (SLAs)?",
+    "url": "https://castle.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, we offer SLAs for our Enterprise plan customers. The specifics of the SLA, including uptime guarantees and response times, can be customized to meet your business requirements.",
+    "url": "https://castle.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Dedicated support for the setup and integration of our APIs is available exclusively with our Enterprise plan. This includes personalized assistance to ensure that the integration process is smooth and fits within your technical infrastructure.",
+    "url": "https://castle.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Do you offer pricing based on Monthly Tracked Users (MTU) instead of API usage?",
+    "url": "https://castle.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Within our Enterprise plan, we provide the flexibility to choose an MTU-based pricing model. This alternative allows you to pay based on the number of unique users you track each month rather than the volume of API calls. This option can be especially cost-effective for businesses with high user engagement levels.",
+    "url": "https://castle.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Start with a free quota, with transparent pricing that scales when you do.",
+    "url": "https://castle.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Castle provides developer-grade infrastructure to stop bots, abuse, and fraud. We turn user behavior into real-time signals that power security for companies like Canva, Rockstar Games, and Atlassian. Our ambition is bigger than stopping abuse: we're building the trust layer the internet never got.",
+    "url": "https://castle.io/about/",
+    "pass": 1
+   },
+   {
+    "quote": "We scale through leverage, not headcount. Our credibility comes from the product itself, not a sales pitch. We build from first principles, trusting the intuition of a small, autonomous team to solve problems no playbook can address.",
+    "url": "https://castle.io/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Castle is profitable, product-led, and growing fast. If you think in systems, move quickly, and default to ownership, you'll feel at home.",
+    "url": "https://castle.io/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Principles that shape our product, our team, and our decisions.",
+    "url": "https://castle.io/about/",
+    "pass": 1
+   },
+   {
+    "quote": "We believe the best work comes from people who act with the autonomy and responsibility of a founder. This means owning outcomes end-to-end, solving problems directly, and challenging ideas with intellectual honesty, regardless of title.",
+    "url": "https://castle.io/about/",
+    "pass": 1
+   },
+   {
+    "quote": "We treat AI as a core collaborator to accelerate our work and deepen our thinking. Its speed is a powerful tool, but it lacks human reasoning. We expect every team member to manage that partnership through prompting, refining, and debugging, while retaining full responsibility for the final judgment.",
+    "url": "https://castle.io/about/",
+    "pass": 1
+   },
+   {
+    "quote": "We build from first principles. We believe the most innovative solutions come from breaking problems down to their root mechanics. Precedents are historical context that inform our thinking, but our creative process starts from a blank slate.",
+    "url": "https://castle.io/about/",
+    "pass": 1
+   },
+   {
+    "quote": "The product is the pitch",
+    "url": "https://castle.io/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Our credibility is built on product capability. We demonstrate our value by sharing unique insights from our data and building a product so effective that it speaks for itself. We earn trust through transparent, technical content, and our team's role is to guide and amplify that truth.",
+    "url": "https://castle.io/about/",
+    "pass": 1
+   },
+   {
+    "quote": "日本のキャッシュレス決済の約1％を支える社会インフラへ【PR】",
+    "url": "https://paymentnavi.com/paymentnews/159832.html",
+    "pass": 3
+   },
+   {
+    "quote": "Castles Technology、ジャイロセンサー等搭載の多機能決済端末「S1F4 PRO」の販売を強化",
+    "url": "https://paymentnavi.com/paymentnews/159832.html",
+    "pass": 3
+   },
+   {
+    "quote": "Pro2021",
+    "url": "https://paymentnavi.com/paymentnews/159832.html",
+    "pass": 3
+   },
+   {
+    "quote": "Pro2022",
+    "url": "https://paymentnavi.com/paymentnews/159832.html",
+    "pass": 3
+   },
+   {
+    "quote": "Pro2023",
+    "url": "https://paymentnavi.com/paymentnews/159832.html",
+    "pass": 3
+   },
+   {
+    "quote": "Pro2024",
+    "url": "https://paymentnavi.com/paymentnews/159832.html",
+    "pass": 3
+   },
+   {
+    "quote": "Pro2025",
+    "url": "https://paymentnavi.com/paymentnews/159832.html",
+    "pass": 3
+   },
+   {
+    "quote": "Pro2026",
+    "url": "https://paymentnavi.com/paymentnews/159832.html",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "Fortresses constructed primarily by stone or wood in earlier Japanese history",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "constructed primarily of wood and stone. They evolved from the wooden",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "99.5% accurate fingerprinting. Uncover headless browsers, tampering, carrier data, etc.",
+    "url": "https://castle.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Carrier IP country mismatch",
+    "url": "https://castle.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Technology solution offering employees real-time access to earned wages.",
+    "url": "https://castle.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "We accept all major credit cards. For Enterprise plans, we can also arrange invoice payments.",
+    "url": "https://castle.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "and other groups; unlike their primitive predecessors, these were relatively permanent structures, built in peacetime. These were largely built as extensions of natural features, and often consisted of little more than earthworks and wooden barricades.",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "rise of the samurai warrior class",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "), a complex arrangement of concentric",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "There is no record that the goal of destroying walls ever entered into the strategy of a Japanese siege. In fact, it was often seen to be more honorable, and more tactically advantageous on the part of the defender for him to lead his forces into battle outside the castle.",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": ", to forestall the amassing of power on the part of the",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "grew quite poor later in the period, daimyō nevertheless sought as much as possible to use their castles as representations of their power and wealth. The general architectural style did not change much from more martial times, but the furnishings and indoor arrangements could be quite lavish.",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "gave way to a siege, but by April 12, reinforcements of the Imperial army arrived to break the siege. After a series of battles, the Satsuma rebels were forced back to Kagoshima city. Fighting continued there, and the stones walls of",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "was on the rise, and a new pride was found in the castles, which became symbols of Japan's warrior traditions.",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "Finally there are the castle sites that have not been maintained or developed to any degree, and may have few markings or signs. Historical significance and local interest are too low to warrant additional costs. This includes Nagasawa Castle (",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "As castles are associated with the martial valor of past warriors, there are often monuments near castle structures or in their parks dedicated to either samurai or soldiers of the Imperial Army who died in war, such as the monument to the",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": ", \"repelling warriors\").",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "Thus, a number of measures were invented to keep attackers off the walls and to stop them from climbing the castle, including pots of hot sand, gun emplacements, and arrow slits from which defenders could fire at attackers while still enjoying nearly full cover. Spaces in the walls for firing from were called",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "; arrow slits were called",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": ", giving some indication of the overall layout of the castle, and the complex arrangement of walls and paths that would present a considerable obstacle to an invading army",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "The primary method of defense lay in the arrangement of the",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": ", meaning 'round' or 'circle' in most contexts, here refers to sections of the castle, separated by courtyards. Some castles were arranged in concentric circles, each",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "), and the living quarters of the garrison. Larger castles would have additional encircling sections, called",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": ", symbolic of eternity or immortality, were planted along them. These served the dual purpose of adding natural beautiful scenery to a daimyō's home, representing part of his garden, and also obscuring the insides of the castle compound from spies or scouts.",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "(\"one who serves\"), refers both to the armed feudal retainers who fought for their lords in feudal Japan, but also to the noble warrior class as a whole. Thus, unlike the European",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "A Brief History of the Samurai: A New History of the Warrior Elite",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "\"warrior hiding places\"",
+    "url": "https://en.wikipedia.org/wiki/Himeji_Castle",
+    "pass": 3
+   },
+   {
+    "quote": "The passages are also steep and narrow, further inhibiting entry.",
+    "url": "https://en.wikipedia.org/wiki/Himeji_Castle",
+    "pass": 3
+   },
+   {
+    "quote": "launched a 2,125-piece model of Himeji Castle as part of its",
+    "url": "https://en.wikipedia.org/wiki/Himeji_Castle",
+    "pass": 3
+   },
+   {
+    "quote": "One of the steep, narrow walkways controlling access to the castle",
+    "url": "https://en.wikipedia.org/wiki/Himeji_Castle",
+    "pass": 3
+   },
+   {
+    "quote": "\"A Study of Late 19th Century Military Bases and Barracks of the Former Army of Japan\"",
+    "url": "https://en.wikipedia.org/wiki/Himeji_Castle",
+    "pass": 3
+   },
+   {
+    "quote": "Amami-Ōshima Island, Tokunoshima Island, northern part of Okinawa Island, and Iriomote Island",
+    "url": "https://en.wikipedia.org/wiki/Himeji_Castle",
+    "pass": 3
+   },
+   {
+    "quote": "These precursors emphasized causal utility—leveraging elevation and barriers to deter assaults—over monumental stonework, setting the empirical foundation for defensive evolution amid chronic warfare, though most perished due to wood's perishability and deliberate dismantling.",
+    "url": "https://grokipedia.com/page/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "Construction boomed, with dozens of major castles built or expanded using vast labor forces, massive quarried stones for foundations, and innovative multi-story keeps (",
+    "url": "https://grokipedia.com/page/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "Many structures initially repurposed as prefectural offices or barracks faced rapid obsolescence as the government prioritized resource reallocation over preservation of symbols tied to the deposed Tokugawa regime.",
+    "url": "https://grokipedia.com/page/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "In Wakayama, air raids in July 1945, part of broader operations against Kansai ports and factories, destroyed the castle's main keep and bridges despite it not being a primary target, with fires spreading from nearby strikes.",
+    "url": "https://grokipedia.com/page/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": ", which toppled concrete turrets despite prior reinforcements, and balancing tourism revenue—generating millions of visitors annually—with restrictions on access to fragile elements.",
+    "url": "https://grokipedia.com/page/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "were built on steep mountains or ridges, often exceeding 150 meters in height, utilizing the terrain's cliffs, forests, and narrow paths as inherent barriers against invaders.",
+    "url": "https://grokipedia.com/page/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "stood on level plains, relying on artificial fortifications such as wide moats, earthen ramparts, and massive stone walls rather than natural heights, which enabled grand, symmetrical layouts accommodating large garrisons and civilian populations.",
+    "url": "https://grokipedia.com/page/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "These distinctions highlight causal shifts from defensive exigency in mountainous isolation to centralized control on accessible plains, verified through archaeological remnants and period records rather than interpretive narratives.",
+    "url": "https://grokipedia.com/page/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "(mountain castles), were constructed on steep summits or ridges where limited flat areas dictated minimal construction while maximizing elevation for surveillance and natural barriers against",
+    "url": "https://grokipedia.com/page/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "baileys for barracks, gardens, and outer defenses, connected by gates (",
+    "url": "https://grokipedia.com/page/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "(warrior-repelling) at",
+    "url": "https://grokipedia.com/page/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": ", completed in 1607, which redirected assault momentum downward. Materials were locally quarried igneous rocks such as",
+    "url": "https://grokipedia.com/page/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "Primary defenses included concentric baileys (kuruwa) arranged in a maze-like nawabari layout, which channeled invaders through narrow, controlled paths vulnerable to enfilading fire and ambushes, exploiting the psychological and tactical advantages of confusion over direct confrontation.",
+    "url": "https://grokipedia.com/page/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "This design prioritized indirect defense through compartmentalization rather than sheer height, as castles were often sited on hills or plains to leverage elevation or water barriers.",
+    "url": "https://grokipedia.com/page/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": ", serving dual roles as barriers and supply routes, while dry moats (mizujiri) used steep earth or stone faces for similar effects without water dependency.",
+    "url": "https://grokipedia.com/page/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": ", three defensive layers including outer moats and earthen walls created graduated barriers, complicating large-scale advances.",
+    "url": "https://grokipedia.com/page/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "Gates were engineered for maximum defensibility, exemplified by masugata configurations—rectangular enclosures with two perpendicular gates (often umadashi outer and inner gates) that prevented straight-line assaults, enabling defenders to rain arrows or drop stones from adjacent yagura or walls.",
+    "url": "https://grokipedia.com/page/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "Narrow passages and steep ramps further bottlenecked foes, as in Imabari Castle's multiple masugata systems.",
+    "url": "https://grokipedia.com/page/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "Stones were quarried locally when possible, with massive boulders—some exceeding 100 tons—transported via human labor, wooden rollers, and earthen ramps to the site, where they were stacked in a batter configuration sloping outward at the base for added stability against lateral forces.",
+    "url": "https://grokipedia.com/page/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": ") consisted of rammed layers of clay-rich soil mixed with straw or gravel, often faced with shikkui plaster—a lime-based mixture of seashells, clay, and vegetable fibers—for a smooth, white finish. This plaster provided fire resistance by charring without igniting underlying wood and regulated internal humidity through breathability, preventing rot in humid climates; at",
+    "url": "https://grokipedia.com/page/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": ", it was reapplied every 20-30 years to maintain efficacy. The thick earth core absorbed impacts from arrows and early cannon fire, though vulnerable to prolonged bombardment without plaster renewal.",
+    "url": "https://grokipedia.com/page/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "(mountain castles) built on elevated terrain to exploit natural barriers like steep slopes and ravines for defense.",
+    "url": "https://grokipedia.com/page/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": ", incorporated palisades and watchtowers but remained largely wooden and temporary, reflecting a reliance on terrain over engineered barriers.",
+    "url": "https://grokipedia.com/page/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "), interlocking fields of fire from arrow slits, and the introduction of donjon towers (",
+    "url": "https://grokipedia.com/page/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "and barriers, proved exceptionally resistant to",
+    "url": "https://grokipedia.com/page/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the castles we’ve listed below have been fully renovated, whilst others have survived the test of time and are still standing in its original form. To make the most of your trip, we highly recommend adding a few castles to visit during your stay, not only for the epic pictures, but to learn a tiny fraction of Japan’s colourful history as well.",
+    "url": "https://sugoii-japan.com/best-castles-in-japan",
+    "pass": 3
+   },
+   {
+    "quote": "One of best place to enjoy a view on Okayama castle is from Korakuen garden which is part of our",
+    "url": "https://sugoii-japan.com/best-castles-in-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/castle/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": ", 3 manufacturing sites, and a workforce of over 1,1000 employees, they needed to ensure that every single location remained stocked with critical packaging materials to avoid operational downtime",
+    "url": "https://castleindustrial.com/case-study/manufacturing-packaging-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://castleindustrial.com/case-study/manufacturing-packaging-solutions/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Assess email reputation and risk. Detect disposable domains and enumeration patterns.",
+    "url": "https://castle.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Disposable email domains",
+    "url": "https://castle.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Disposable email domain",
+    "url": "https://castle.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Fraudulent email domain",
+    "url": "https://castle.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Multiple aliases per email",
+    "url": "https://castle.io/",
+    "pass": 1
+   },
+   {
+    "quote": "randomuser@10minutemail.com",
+    "url": "https://castle.io/",
+    "pass": 1
+   },
+   {
+    "quote": "bot_account_1@throwaway.email",
+    "url": "https://castle.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Chat, Email",
+    "url": "https://castle.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Your email address will not be published.",
+    "url": "https://sugoii-japan.com/best-castles-in-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/castle/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/castle/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Reach out to us via phone, email, or request a call back by filling out the form below.",
+    "url": "https://castleindustrial.com/case-study/manufacturing-packaging-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "sales@castleindustrial.com",
+    "url": "https://castleindustrial.com/case-study/manufacturing-packaging-solutions/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Castles Technology、アイティフォーなどの代理店とAndroidの「SATURNシリーズ」、Linuxの「VEGAシリーズ」の両輪で国内市場を開拓 | ペイメントナビ",
+    "url": "https://paymentnavi.com/paymentnews/159832.html",
+    "pass": 3
+   },
+   {
+    "quote": "Castles Technology、アイティフォーなどの代理店とAndroidの「SATURNシリーズ」、Linuxの「VEGAシリーズ」の両輪で国内市場を開拓",
+    "url": "https://paymentnavi.com/paymentnews/159832.html",
+    "pass": 3
+   },
+   {
+    "quote": "台湾の決済端末ベンダーのCastles Technology Co.,Ltd.（キャッスルテクノロジー）は、日本市場で着実に実績を積み重ねてきた",
+    "url": "https://paymentnavi.com/paymentnews/159832.html",
+    "pass": 3
+   },
+   {
+    "quote": "「リテールテックJAPAN2025」では、国内代理店であるアイティフォー、カードサービス、ジィ・シィ企画と連携して出展し、製品やサービスを紹介した",
+    "url": "https://paymentnavi.com/paymentnews/159832.html",
+    "pass": 3
+   },
+   {
+    "quote": "Castles Technology Co., Ltd.セールスマネージャー Jason Chen（左から2人目）とキャッスル・テクノロジー・ジャパン 代表 尾賀健一氏（左端）、一時代理のアイティフォー 決済ビジネス事業部 事業推進担当 門倉和美氏（右から2人目）と営業部 山下 真司氏（右端）（リテールテックJAPAN2025のCastles Technologyブースにて）",
+    "url": "https://paymentnavi.com/paymentnews/159832.html",
+    "pass": 3
+   },
+   {
+    "quote": "3社の代理店と協力して国内市場開拓",
+    "url": "https://paymentnavi.com/paymentnews/159832.html",
+    "pass": 3
+   },
+   {
+    "quote": "国内代理店との取り組みに関して、日本のビジネスを統括する",
+    "url": "https://paymentnavi.com/paymentnews/159832.html",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、代理店の1社であるアイティフォーは、端末の出荷台数も伸びているという",
+    "url": "https://paymentnavi.com/paymentnews/159832.html",
+    "pass": 3
+   },
+   {
+    "quote": "Castles Technologyからは台湾ならではのソリューションも紹介しており、日本での展開を検討してもらったそうだ",
+    "url": "https://paymentnavi.com/paymentnews/159832.html",
+    "pass": 3
+   },
+   {
+    "quote": "アイティフォー 決済ビジネス事業部 事業推進担当 門倉和美氏は「当初は一次代理ではなかったですが、現在は代理店として選んでいただきました",
+    "url": "https://paymentnavi.com/paymentnews/159832.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場に関して、Jason氏は「VEGAシリーズの客層は安定したものを使い続けたい狙いもある中、Android OSを取り入れて、日本市場の顧客に満足していただきたいです",
+    "url": "https://paymentnavi.com/paymentnews/159832.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、近年は国内、海外製品も含め、決済端末ベンダーの競争は激しくなっているが、「さまざまな端末ベンダーがいる中、毎回お答えしていますが、競争相手というよりは、一緒に業界を盛り上げる活動をしており、リテールテックJAPAN2025でも新たな端末ベンダーが展示しており、一緒に成長できればと考えています」とJason氏は述べる",
+    "url": "https://paymentnavi.com/paymentnews/159832.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アイティフォー、10周年を迎えるマルチ決済サービス 「iRITSpay（アイリッツペイ）」の強みとは？ 累計20万台、年間決済１兆円",
+    "url": "https://paymentnavi.com/paymentnews/159832.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本のキャッシュレス決済の約1％を支える社会インフラへ【PR】",
+    "url": "https://paymentnavi.com/paymentnews/159832.html",
+    "pass": 3
+   },
+   {
+    "quote": "「リテールテックJAPAN 2026」「SECURITY SHOW 2026」",
+    "url": "https://paymentnavi.com/paymentnews/159832.html",
+    "pass": 3
+   },
+   {
+    "quote": "Castles Technology、日本をはじめ世界で現地ニーズに合致した決済サービス提供",
+    "url": "https://paymentnavi.com/paymentnews/159832.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の決済端末市場で成長するCastles Technologyの強みとは？",
+    "url": "https://paymentnavi.com/paymentnews/159832.html",
+    "pass": 3
+   },
+   {
+    "quote": "DNPキャッシュレス 決済プラットフォームをご紹介（大日本印刷）",
+    "url": "https://paymentnavi.com/paymentnews/159832.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内110万台展開",
+    "url": "https://www.castlestech.com/ja/%E5%BD%93%E7%A4%BE%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese castle - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "Imperial Japanese Army",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "Fortresses constructed primarily by stone or wood in earlier Japanese history",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "of earlier centuries and came into their best-known form in the 16th century. Castles in Japan were built to guard important or strategic sites, such as ports, river crossings, or crossroads, and almost always incorporated the landscape into their defenses.",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "Though they were built to last and used more stone in their construction than most Japanese buildings, castles were still constructed primarily of",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "Originally conceived as fortresses for military defense, Japanese castles were placed in strategic locations, typically along trade routes, roads, and rivers. Though castles continued to be built with these considerations, for centuries, fortresses were also built as centres of governance. By the Sengoku period, they had come to serve as the homes of",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "was Japan's first castle to have a",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "The first fortifications in Japan were hardly what one generally associates with the term \"castles\". Made primarily of earthworks, or",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "Wars (1336–1392) between the Northern and Southern Imperial Courts are the primary conflicts that define these developments during what is sometimes called Japan's medieval period.",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "The beginnings of the shapes and styles now considered to be the \"classic\" Japanese castle design emerged at this time, and",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "spelled the end of the age of castles, Japanese castle-building was spurred, ironically, by the introduction of firearms.",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "Though firearms first appeared in Japan in 1543, and castle design almost immediately saw developments in reaction, Azuchi castle, built in the 1570s, was the first example of a largely new type of castle, on a larger, grander scale than those that came before, boasting a large stone base (",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "brought dramatic shifts in battle tactics and military attitudes in Japan. Though these shifts were complex and numerous, one of the concepts key to changes in castle design at this time was that of battle at range. Though archery duels had traditionally preceded samurai battles since the",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "There is no record that the goal of destroying walls ever entered into the strategy of a Japanese siege. In fact, it was often seen to be more honorable, and more tactically advantageous on the part of the defender for him to lead his forces into battle outside the castle.",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "grew up around it, developing into one of Japan's primary commercial centers.",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "In Japanese politics and warfare, the castle served not only as a fortress, but as the residence of the",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese castles in Korea",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": ". Many Japanese castles (called",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "; the resulting concentration of samurai in the cities, and their near-total absence from the countryside and from cities that were not feudal capitals (Kyoto and Osaka in particular) were important features of the social and cultural landscape of the Edo period. Meanwhile, the castles in the",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": ", it nevertheless serves as a fine example of these developments. These vastly consolidated and expanded castles, and the great number of samurai living, by necessity, in and around them, thus led to an explosion in urban growth in 17th century Japan.",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "Osaka Castle was surrendered to the Imperial forces without a fight, and on February 3, 1868, many of the buildings of Osaka Castle were burned. The heavy damage to Osaka Castle, which was a significant symbol of the power of the Shogun in western Japan, dealt a major blow to the prestige of the shogunate and the morale of their troops.",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": ", which is nonetheless often included in lists and in literature on Japanese castles. After the fierce",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "(1877). After heated disagreements in the new Tokyo legislature, young former samurai of the Satsuma domain rashly decided to rebel against the new government, and lobbied",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": ". Osaka Castle served as the headquarters for the",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": ", until public funds paid for the construction of a new headquarters building within the castle grounds and a short distance from the main tower, so that the castle could be enjoyed by the citizens and visitors of Osaka.",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese castle in Hyōgo Prefecture",
+    "url": "https://en.wikipedia.org/wiki/Himeji_Castle",
+    "pass": 3
+   },
+   {
+    "quote": ", Hyōgo, Japan",
+    "url": "https://en.wikipedia.org/wiki/Himeji_Castle",
+    "pass": 3
+   },
+   {
+    "quote": "Location within Japan",
+    "url": "https://en.wikipedia.org/wiki/Himeji_Castle",
+    "pass": 3
+   },
+   {
+    "quote": ". The castle is regarded as the finest surviving example of prototypical Japanese castle architecture, comprising a network of 83 structures with advanced defensive systems from the",
+    "url": "https://en.wikipedia.org/wiki/Himeji_Castle",
+    "pass": 3
+   },
+   {
+    "quote": "As with almost all Japanese castles from the",
+    "url": "https://en.wikipedia.org/wiki/Himeji_Castle",
+    "pass": 3
+   },
+   {
+    "quote": "Himeji Castle is the largest and most visited castle in Japan, and it was registered in 1993 as one of the first",
+    "url": "https://en.wikipedia.org/wiki/Himeji_Castle",
+    "pass": 3
+   },
+   {
+    "quote": ", Himeji Castle is considered one of Japan's three premier castles.",
+    "url": "https://en.wikipedia.org/wiki/Himeji_Castle",
+    "pass": 3
+   },
+   {
+    "quote": "Himeji Castle was abandoned in 1871 and some of the castle corridors and gates were destroyed to make room for Japanese army",
+    "url": "https://en.wikipedia.org/wiki/Himeji_Castle",
+    "pass": 3
+   },
+   {
+    "quote": "Although Himeji Castle was spared, Japanese castles had become obsolete and their preservation was costly.",
+    "url": "https://en.wikipedia.org/wiki/Himeji_Castle",
+    "pass": 3
+   },
+   {
+    "quote": "By 1874, it briefly served as the headquarters for the 10th Infantry Regiment before being replaced by the Osaka Sendai unit later that year.",
+    "url": "https://en.wikipedia.org/wiki/Himeji_Castle",
+    "pass": 3
+   },
+   {
+    "quote": "It is the most visited castle in Japan, receiving over 2,860,000 visitors in 2015.",
+    "url": "https://en.wikipedia.org/wiki/Himeji_Castle",
+    "pass": 3
+   },
+   {
+    "quote": "It serves as an excellent example of prototypical Japanese castle architecture, containing many of the defensive and architectural features associated with Japanese castles.",
+    "url": "https://en.wikipedia.org/wiki/Himeji_Castle",
+    "pass": 3
+   },
+   {
+    "quote": "(1956–1964) a Japanese cypress tree with a length of",
+    "url": "https://en.wikipedia.org/wiki/Himeji_Castle",
+    "pass": 3
+   },
+   {
+    "quote": "The castle complex originally contained 84 gates, 15 of which were named according to the Japanese syllabary",
+    "url": "https://en.wikipedia.org/wiki/Himeji_Castle",
+    "pass": 3
+   },
+   {
+    "quote": "At present, 21 gates from the castle complex remain intact, 13 of which are named according to the Japanese syllabary.",
+    "url": "https://en.wikipedia.org/wiki/Himeji_Castle",
+    "pass": 3
+   },
+   {
+    "quote": "The castle has been featured extensively in foreign and Japanese films, including the",
+    "url": "https://en.wikipedia.org/wiki/Himeji_Castle",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Castles Technology、アイティフォーなどの代理店とAndroidの「SATURN... — 2024年はアイティフォーのトップ、その顧客の大事の重役が台湾を訪れ、工場見学などを行った。 Castles Technologyからは台湾ならではのソリューションも紹介しており、日本での展開を検討してもらったそうだ。",
+    "url": "https://paymentnavi.com/paymentnews/159832.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社について - Castles Technology — お客様のニーズにお応えできるよう、全力でサポートいたします。 最先端かつ安全でシームレスな決済技術導入し、ビジネスの成長を加速させるために、ぜひ当社にお問い合わせください。",
+    "url": "https://www.castlestech.com/ja/当社について/",
+    "pass": 3
+   },
+   {
+    "quote": "決済ソリューション - Castles Technology — 多彩な決済ソリューションで、顧客体験をよりスムーズに、より快適に！ 営業担当へのお問い合わせ CasHUB TMSを超える次世代管理で、加盟店業務を革新！ もっと詳しく知る SoftPOS スマートフォンやタブレットを活 […]",
+    "url": "https://www.castlestech.com/ja/決済ソリューション/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese castle - Wikipedia — Japanese castles (城, kun'yomi: shiro; on'yomi: jō) are fortresses constructed primarily of wood and stone. They evolved from the wooden stockades of earlier centuries and came into their best-known form in the 16th century.",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "Himeji Castle - Wikipedia — Himeji Castle is the largest and most visited castle in Japan, and it was registered in 1993 as one of the first UNESCO World Heritage Sites in the country. [2]",
+    "url": "https://en.wikipedia.org/wiki/Himeji_Castle",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese castle — Japanese castles, known as jō (城), are fortified complexes built primarily by feudal lords called daimyo during the Sengoku period (1467–1603) as defensive strongholds, administrative centers, and displays of political power amid widespread civ…",
+    "url": "https://grokipedia.com/page/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "The 10 Most Beautiful Castles In Japan You Have To Visit20 Best Japanese Castles You Should Visit - Japan ObjectsHimeji Castle - WikipediaJapanese castles - japan-guide.comThe 12 Original Castles of Japan: Map, List & Guide10 Most Beautiful Castles in Japan (2026 Updated) - Abroad — Here’s our list of the 10 most beautiful castles that we recommend you to visit in Japan. We included a map below so",
+    "url": "https://sugoii-japan.com/best-castles-in-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese castles - japan-guide.com — Mar 8, 2026 · Only a dozen \"original castles\", i.e. castles with a main keep that dates from the feudal era (before 1868), survive today. Furthermore, several dozen castles were reconstructed over the past decades - mostly using concrete instead of traditional building materials.",
+    "url": "https://www.japan-guide.com/e/e2296.html",
+    "pass": 3
+   },
+   {
+    "quote": "2 Castle Case Studies, Success Stories, & Customer Stories ... — Learn what their customers think, get 2 free case studies and more.",
+    "url": "https://www.featuredcustomers.com/vendor/castle/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Streamlining 112 Depots | Castle Industrial — Our client, a major manufacturing firm, faced a significant logistical hurdle. With 112 depots, 3 manufacturing sites, and a workforce of over 1,1000 employees, they needed to ensure that every single location remained stocked with critical packaging materials to avoid operational downtime.",
+    "url": "https://castleindustrial.com/case-study/manufacturing-packaging-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "Castle B2B Case Studies & Customer Successes — See how Castle solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/castle",
+    "pass": 3
+   },
+   {
+    "quote": "Castle Manufacturing | Castle Manufacturing — Castle Manufacturing is ISO 9001 certified and actively working toward AS9100 certification for aerospace and aviation manufacturing. Our team brings more than 50 years of combined experience in manufacturing and fabrication, with additional welding certifications avaliable upon request.",
+    "url": "https://castle-mfg.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Home - Castle Precision Engineering — Castle Precision are a high quality turnkey supplier of complex machined components and assemblies to leading multinational customers in the high tech sectors of Europe and North America.",
+    "url": "https://www.castleprecision.com/media-gallery/news-and-pr-library/case-studies.html",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Some castles, especially the larger ones, were used by the",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "orchard has been planted on the site of",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "near the ruins of Yoshida Castle (Toyohashi, Aichi). Castle grounds are often developed into parks for the benefit of the public, and planted with",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "trees, and other flowering plants.",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": ", bamboo spikes planted into the ground at a diagonal, or the use of felled trees, their branches facing outwards and presenting an obstacle to an approaching army (",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": ", symbolic of eternity or immortality, were planted along them. These served the dual purpose of adding natural beautiful scenery to a daimyō's home, representing part of his garden, and also obscuring the insides of the castle compound from spies or scouts.",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": ", contains numerous warehouses that were used to store rice, salt, and water in case of a siege.",
+    "url": "https://en.wikipedia.org/wiki/Himeji_Castle",
+    "pass": 3
+   },
+   {
+    "quote": "Sites of Japan's Meiji Industrial Revolution:",
+    "url": "https://en.wikipedia.org/wiki/Himeji_Castle",
+    "pass": 3
+   },
+   {
+    "quote": "This centralization stripped castles of their administrative and military roles under local lords, transforming them into state assets amid Japan's shift toward a modern conscript army and industrialized infrastructure.",
+    "url": "https://grokipedia.com/page/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "Nagoya Castle's main keep, designated a national treasure in 1930, was incinerated on May 14, 1945, during a U.S. Army Air Forces raid involving over 90 B-29 bombers dropping incendiaries on the city's aircraft factories and administrative sites, where the castle housed regional army headquarters.",
+    "url": "https://grokipedia.com/page/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "In Wakayama, air raids in July 1945, part of broader operations against Kansai ports and factories, destroyed the castle's main keep and bridges despite it not being a primary target, with fires spreading from nearby strikes.",
+    "url": "https://grokipedia.com/page/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "These losses compounded earlier dismantlements, leaving fewer than a dozen original keeps intact nationwide, as verified by post-war surveys; rural or less industrialized sites like",
+    "url": "https://grokipedia.com/page/Japanese_castle",
+    "pass": 3
+   },
+   {
+    "quote": "offers timber flooring, industrial decor, wooden tones throughout – and you even get the option of choosing either dormitory rooms or Japanese-style rooms fitted with tatami mats. It’s a guesthouse full of character.",
+    "url": "https://sugoii-japan.com/best-castles-in-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/castle/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Streamlining 112 Depots | Castle Industrial",
+    "url": "https://castleindustrial.com/case-study/manufacturing-packaging-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "© 2026 Castle Industrial",
+    "url": "https://castleindustrial.com/case-study/manufacturing-packaging-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "STREAMLINING PACKAGING SUPPLIES FOR 112 MANUFACTURING DEPOTS",
+    "url": "https://castleindustrial.com/case-study/manufacturing-packaging-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "LARGE-SCALE MANUFACTURING CUSTOMER",
+    "url": "https://castleindustrial.com/case-study/manufacturing-packaging-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "Our client, a major manufacturing firm,",
+    "url": "https://castleindustrial.com/case-study/manufacturing-packaging-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": ", 3 manufacturing sites, and a workforce of over 1,1000 employees, they needed to ensure that every single location remained stocked with critical packaging materials to avoid operational downtime",
+    "url": "https://castleindustrial.com/case-study/manufacturing-packaging-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "“Castle Industrial Supplies have been an outstanding partner. They have never let us down.”",
+    "url": "https://castleindustrial.com/case-study/manufacturing-packaging-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "Castle Industrial Supplies have",
+    "url": "https://castleindustrial.com/case-study/manufacturing-packaging-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "SENIOR BUYER, LARGE-SCALE MANUFACTURING CLIENT",
+    "url": "https://castleindustrial.com/case-study/manufacturing-packaging-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "Castle Industrial was awarded the contract based on exceptional service levels, competitive pricing, and proven product quality.",
+    "url": "https://castleindustrial.com/case-study/manufacturing-packaging-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "By maintaining a deep understanding of our client’s business, we ensured total continuity of supply. This gave the client confidence to focus on their core manufacturing operations",
+    "url": "https://castleindustrial.com/case-study/manufacturing-packaging-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "sales@castleindustrial.com",
+    "url": "https://castleindustrial.com/case-study/manufacturing-packaging-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "Rue La La - Customer Case Study",
+    "url": "https://www.casestudies.com/company/castle",
+    "pass": 3
+   },
+   {
+    "quote": "Castle Manufacturing | Castle Manufacturing",
+    "url": "https://castle-mfg.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Custom Metal Manufacturing & Fabrication Built for One Part or 10,000",
+    "url": "https://castle-mfg.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Castle Manufacturing provides precision metal cutting, forming, welding, and machining services for industrial, commercial, wholesale, and custom projects across Arkansas and beyond.",
+    "url": "https://castle-mfg.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Precision Manufacturing Backed By Real-World Fabrication",
+    "url": "https://castle-mfg.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Castle Manufacturing was created to solve a real need for customers who needed reliable manufactured parts before powder coating, finishing, or final assembly. What began as a way to better serve existing River City Coatings customers has grown into a full-service manufacturing and fabrication company serving both custom and production needs.",
+    "url": "https://castle-mfg.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing & Fabrication Services",
+    "url": "https://castle-mfg.com/",
+    "pass": 3
+   },
+   {
+    "quote": "from light-gauge material up to thick industrial applications.",
+    "url": "https://castle-mfg.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Custom and production welding services for industrial, commercial, and structural fabrication needs.",
+    "url": "https://castle-mfg.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Repeatable manufacturing for customers needing one part, hundreds of parts, or large-scale production runs.",
+    "url": "https://castle-mfg.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Castle Manufacturing is ISO 9001 certified and actively working toward AS9100 certification for aerospace and aviation manufacturing. Our team brings more than 50 years of combined experience in manufacturing and fabrication, with additional welding certifications avaliable upon request.",
+    "url": "https://castle-mfg.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Based in Arkansas, Castle Manufacturing serves customers throughout the Fort Smith River Valley, Northwest Arkansas, Little Rock, Tulsa, Dallas, Jonesboro, Memphis, Monroe, and the surrounding areas. We also work with customers across Arkansas, Oklahoma, Texas, Louisiana, Tennessee, Missouri, and ship projects nationwide.",
+    "url": "https://castle-mfg.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Castle Manufacturing is connected with River City Coatings, allowing customers to move from manufacturing and fabrication to finishing with a smoother, more complete process.",
+    "url": "https://castle-mfg.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact Castle Manufacturing to discuss your project",
+    "url": "https://castle-mfg.com/",
+    "pass": 3
+   },
+   {
+    "quote": "In 1902, Hirosaki City acquired the castle grounds, excluding the Sannomaru, and opened them as a public park. From the following year, former retainers began planting cherry trees, and it has since become known as a famous cherry blossom spot with approximately 2,600 trees.",
+    "url": "https://note.com/odawara046/n/nc1b5460a8880?hl=en",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "are both famous in their respective regions for their cherry blossom trees. The efforts of dedicated groups, as well as various agencies of the government has been to keep castles as relevant and visible in the lives of the Japanese people, to showcase them to visitors, and thus prevent the neglect of national heritage.",
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Himeji Castle: Walking with a Castle Guide｜おも城ガイド Sep 21, 2026 · The famous white castle is more than just beautiful. The path to the keep is filled with magnificent traps to confuse enemies! Why did Himeji Castle remain in such a seemingly perfect state? Hidden along the path to the beautiful white keep are magnificent traps designed to confuse and corner en",
+    "url": "https://note.com/omo46g/n/n8d03d5260378?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Kaneda Castle: A Castle with 1,300-Year-Old Stone Walls — The ... May 21, 2026 · Hello!When history and food connect, travel becomes even more interesting.I want to share the joy of castle strolling!I'm Sobako Sarashina, a travel writer in my late 40s.Up until the last installment, we looked at how the Dazaifu defense line was completed with the set of three castles: Mizuki,",
+    "url": "https://note.com/rootsofjapan/n/nde831e4e92e9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Hirosaki Castle｜二宮篤志 - note（ノート） Hirosaki City, Aomori Prefecture; Nationally Designated Historic Site; One of Japan's Top 100 Castles, No. 4[Location]View of Mount Iwaki from the site of the castle keep (five-story keep)The Tsugaru Plain, where Hirosaki Castle is located, is a basin surrounded on three sides by mountains: the",
+    "url": "https://note.com/odawara046/n/nc1b5460a8880?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "From Yamagata Castle to the Twilight of Nanukamachi: Enjoying ... [Day 1] Continued After Risshaku-ji Temple, I headed to Yamagata Castle. Yamagata Castle is one of the largest castle ruins in the Tohoku region, originally built by Shiba Kaneyori and later extensively developed by Mogami Yoshiaki. The JR tracks (Yamagata Shinkansen and Ou Main Line) run under the ...",
+    "url": "https://note.com/hshnote/n/n7c47501180e5?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Walking Himeji Castle with a Castle Guide | 16 Must-See Spots, History, Anecdotes, and Guide Map｜おも城ガイド",
+    "url": "https://note.com/omo46g/n/n8d03d5260378?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Walking Himeji Castle with a Castle Guide | 16 Must-See Spots, History, Anecdotes, and Guide Map",
+    "url": "https://note.com/omo46g/n/n8d03d5260378?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The White Castle is more than just beautiful",
+    "url": "https://note.com/omo46g/n/n8d03d5260378?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The path to the main keep is filled with magnificent traps to confuse enemies!",
+    "url": "https://note.com/omo46g/n/n8d03d5260378?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Why does Himeji Castle remain in such a seemingly perfect state?",
+    "url": "https://note.com/omo46g/n/n8d03d5260378?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Hidden along the path to the beautiful white main keep are magnificent traps designed to confuse and corner enemies. Furthermore, the reason so many buildings at Himeji Castle have survived in such good condition is not just due to luck. It is because there were people who worked tirelessly to save the castle from the threats of demolition, decay, and the ravages of war, along with the craftsmen w",
+    "url": "https://note.com/omo46g/n/n8d03d5260378?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "If you only aim for the main keep at Himeji Castle, you will pass by many interesting traps. Try looking back every time you pass through a gate, think about why the paths curve, and look for unusual stones within the stone walls. The same White Heron Castle will begin to look different, transforming from an elegant piece of architecture into a massive fortress designed for actual combat.",
+    "url": "https://note.com/omo46g/n/n8d03d5260378?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "First, let's learn the history of Himeji Castle",
+    "url": "https://note.com/omo46g/n/n8d03d5260378?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Hirosaki City, Aomori Prefecture; Nationally Designated Historic Site; One of Japan's Top 100 Castles, No. 4",
+    "url": "https://note.com/odawara046/n/nc1b5460a8880?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "View of Mount Iwaki from the site of the castle keep (five-story keep)",
+    "url": "https://note.com/odawara046/n/nc1b5460a8880?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Tsugaru Plain, where Hirosaki Castle is located, is a basin surrounded on three sides by mountains: the Ou Mountains (Hakkoda mountain range) to the east, Mount Iwaki to the west, and the Shirakami Mountains to the south. Hirosaki Castle was built on the northern edge of a plateau overlooking the Iwaki River basin in the south.",
+    "url": "https://note.com/odawara046/n/nc1b5460a8880?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The castle utilizes surrounding rivers as natural moats: the Tsuchibuchi River to the east and south, the Tsuchibuchi River's tributary, the Hashiri-zeki (also known as the Hori River), and the Ta-zeki, which flows into the Iwaki River to the north, and the Iwaki River to the west. Furthermore, water is drawn into the castle's moats to create a system of water moats.",
+    "url": "https://note.com/odawara046/n/nc1b5460a8880?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Origins of the first lord, Tsugaru (Oura) Tamenobu",
+    "url": "https://note.com/odawara046/n/nc1b5460a8880?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Statue of Tsugaru (Oura) Tamenobu (in front of Hirosaki Cultural Center)",
+    "url": "https://note.com/odawara046/n/nc1b5460a8880?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The first lord of the Tsugaru domain, Oura (Tsugaru) Tamenobu, is said to have been a descendant of the Kuji or Oura families, which were branches of the Nanbu clan that held power throughout the Oshu region.",
+    "url": "https://note.com/odawara046/n/nc1b5460a8880?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In 1571, Tamenobu, who had succeeded the Oura family, captured Ishikawa Castle, the residence of Nanbu (Ishikawa) Takanobu (a relative of Nanbu Harumasa), who was the head of the Nanbu clan. On the same day, he also captured Wadoku Castle, which was defended by a powerful general under the Nanbu clan, seizing two castles in an instant.",
+    "url": "https://note.com/odawara046/n/nc1b5460a8880?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "From Yamagata Castle to the Twilight of Nanukamachi: Enjoying History and Waterside Charm｜ほし",
+    "url": "https://note.com/hshnote/n/n7c47501180e5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "From Yamagata Castle to the Twilight of Nanukamachi: Enjoying History and Waterside Charm",
+    "url": "https://note.com/hshnote/n/n7c47501180e5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "After Risshaku-ji Temple, I headed to Yamagata Castle.",
+    "url": "https://note.com/hshnote/n/n7c47501180e5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Yamagata Castle is one of the largest castle ruins in the Tohoku region, originally built by Shiba Kaneyori and later extensively developed by Mogami Yoshiaki.",
+    "url": "https://note.com/hshnote/n/n7c47501180e5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The JR tracks (Yamagata Shinkansen and Ou Main Line) run under the bridge, allowing you to view the stone walls and moats alongside the trains. It is a spot where you can enjoy the somewhat unusual combination of a castle and a Shinkansen.",
+    "url": "https://note.com/hshnote/n/n7c47501180e5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Ninomaru East Otemon Gate",
+    "url": "https://note.com/hshnote/n/n7c47501180e5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Equestrian Statue of Lord Mogami Yoshiaki",
+    "url": "https://note.com/hshnote/n/n7c47501180e5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Mogami Yoshiaki was the older brother of Yoshihime, the mother of Date Masamune, who is known as the 'One-Eyed Dragon.' He is recognized as a hero who laid the foundation for the development of modern-day Yamagata City as the first lord of the Yamagata Domain.",
+    "url": "https://note.com/hshnote/n/n7c47501180e5?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Castle.com (@castlearena) / X The world’s most immersive casino. 🏰 Pull up to Castle → https://t.co/TGvfwn70RA",
+    "url": "https://x.com/castlearena",
+    "pass": 3
+   },
+   {
+    "quote": "Castle (@Castle_ABC) / X The official Twitter for ABC's Castle.",
+    "url": "https://x.com/Castle_ABC",
+    "pass": 3
+   },
+   {
+    "quote": "Jill Anne Castle (@JillAnneCastle) / Posts / X JillAnneCastle Location: Phoenix, AZ Website: http://www.jillannecastle.com Joined: Jan 20, 2013 5674Posts 623Following 379Followers",
+    "url": "https://x.com/JillAnneCastle",
+    "pass": 3
+   },
+   {
+    "quote": "Castle • castle.xyz (@castlexyz) / X featuring games made on the castle app. play them or make your own ↓↓↓",
+    "url": "https://x.com/castlexyz",
+    "pass": 3
+   },
+   {
+    "quote": "Castle (@Castle_io) / X This post covers strategies for adding Castle's layer of bot detection and #ATO prevention to your #OIDC auth flow, getting the best of both worlds. This is relevant for apps using an external identity provider, like @okta, @auth0, @Google, or @Facebook.",
+    "url": "https://x.com/Castle_IO",
+    "pass": 3
+   },
+   {
+    "quote": "【公式】福井城｜Fukui Castle on X: \"先ほどの投稿は、画像の日付が... Jul 10, 2026 · 先ほどの投稿は、画像の日付が間違っておりましたので削除しました。 今回の投稿が正しいので、こちらをご確認ください🙇♀️ 【公式】福井城｜Fukui Castle @_fukuicastle Jul 10",
+    "url": "https://x.com/_fukuicastle/status/2075470279086866723",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Jason Castle - Owner at Castle Law, LLC | LinkedInCastle Megastore Group, Inc. - LinkedIn20+ \"Leah Castle\" profiles | LinkedInCastle & Associates | LinkedIn50+ \"Simon Castle\" profiles | LinkedInRanisha Clarke - Chief Executive Officer - Property, Castle ...Kathy Castle - Chief Operating Officer | LinkedIn Jason Castle Owner at Castle Law, LLC Phoenix, Arizona, United States 2K followers 500+ conne",
+    "url": "https://www.linkedin.com/in/jason-castle-7b7b952b",
+    "pass": 3
+   },
+   {
+    "quote": "Castle Megastore Group, Inc. - LinkedIn Castle Megastore Group, Inc. Retail Phoenix, Arizona 1,410 followers Making Love Better Since 1987 About us",
+    "url": "https://www.linkedin.com/company/castle-megastore-group-inc.",
+    "pass": 3
+   },
+   {
+    "quote": "20+ \"Leah Castle\" profiles | LinkedIn View the profiles of professionals named \"Leah Castle\" on LinkedIn. There are 20+ professionals named \"Leah Castle\", who use LinkedIn to exchange information, ideas, and opportunities.",
+    "url": "https://uk.linkedin.com/pub/dir/Leah/Castle",
+    "pass": 3
+   },
+   {
+    "quote": "Castle & Associates | LinkedIn Castle & Associates | 310 followers on LinkedIn. Barristers + Solicitors | At Castle & Associates, we are a family law and civil litigation firm dedicated to delivering high-quality legal services at affordable rates. We believe in making access to justice available to all individuals, regardless of their background or financial situation. With extensive experience a",
+    "url": "https://ca.linkedin.com/company/castle-and-associates",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Tovrea Castle at Carraro Heights | Phoenix AZ - FacebookCastles N Coasters | Phoenix AZ - FacebookTovrea Carraro Society | Phoenix AZ - FacebookArizona History | My photo of the Mystery Castle - South ...TRAVELING ARIZONA HIGHWAYS | The Mystery Castle, Phoenix ...Arizona History | Mystery Castle is a unique and whimsical ...History of Arizona | With its future at stake, Mystery Castle ... Sep 27, ",
+    "url": "https://www.facebook.com/TovreaCastle/",
+    "pass": 3
+   },
+   {
+    "quote": "Castles N Coasters | Phoenix AZ - FacebookTovrea Carraro Society | Phoenix AZ - FacebookArizona History | My photo of the Mystery Castle - South ...TRAVELING ARIZONA HIGHWAYS | The Mystery Castle, Phoenix ...Arizona History | Mystery Castle is a unique and whimsical ...History of Arizona | With its future at stake, Mystery Castle ... 36% recommend (15 reviews) Open now 9445 N Metro Parkway East, P",
+    "url": "https://www.facebook.com/castlesncoastersaz/",
+    "pass": 3
+   },
+   {
+    "quote": "Tovrea Carraro Society | Phoenix AZ - FacebookArizona History | My photo of the Mystery Castle - South ...TRAVELING ARIZONA HIGHWAYS | The Mystery Castle, Phoenix ...Arizona History | Mystery Castle is a unique and whimsical ...History of Arizona | With its future at stake, Mystery Castle ... Sep 27, 2026 · Welcome to Phoenix!!! Tovrea Castle at Carraro Heights City of Phoenix, AZ USA City of Phoe",
+    "url": "https://www.facebook.com/TovreaCarraroSociety/",
+    "pass": 3
+   },
+   {
+    "quote": "Arizona History | My photo of the Mystery Castle - South ... Dec 21, 2024 · My photo of the Mystery Castle - South Mountain, Phoenix, Az Nestled in the foothills of South Mountain Park is the famous (or infamous) Mystery Castle....",
+    "url": "https://www.facebook.com/groups/897205208194973/posts/1109731273609031/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://castle.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://castle.io/customers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://castle.io/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://castle.io/about/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://paymentnavi.com/paymentnews/159832.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.castlestech.com/ja/%E5%BD%93%E7%A4%BE%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.castlestech.com/ja/%E6%B1%BA%E6%B8%88%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://p-castle.co.jp/blog/smapachi/5684/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kkhashi.com/blogs/detail/145/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Japanese_castle",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Himeji_Castle",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://grokipedia.com/page/Japanese_castle",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sugoii-japan.com/best-castles-in-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/castle/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://castleindustrial.com/case-study/manufacturing-packaging-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/castle",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://castle-mfg.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nmi.com/blog/understanding-the-reseller-model-a-complete-guide-for-payments-companies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/omo46g/n/n8d03d5260378?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/rootsofjapan/n/nde831e4e92e9?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/odawara046/n/nc1b5460a8880?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hshnote/n/n7c47501180e5?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/castlearena",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Castle_ABC",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/JillAnneCastle",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/castlexyz",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/jason-castle-7b7b952b",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/castle-megastore-group-inc.",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/pub/dir/Leah/Castle",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/castle-and-associates",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TovreaCastle/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/castlesncoastersaz/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TovreaCarraroSociety/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/897205208194973/posts/1109731273609031/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Castle_IO",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/_fukuicastle/status/2075470279086866723",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Castle 日本 導入",
+   "results": [
+    "https://paymentnavi.com/paymentnews/159832.html",
+    "https://www.castlestech.com/ja/当社について/",
+    "https://www.castlestech.com/ja/決済ソリューション/",
+    "https://p-castle.co.jp/blog/smapachi/5684/",
+    "https://x.com/castleatsuta/status/2119399539480379889",
+    "https://p-castle.co.jp/w-kami/shindai/",
+    "https://x.com/castle_model_/article/2111015770016948312"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Castle 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://context.reverso.net/翻訳/日本語-英語/総代理店"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Castle Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Japanese_castle",
+    "https://en.wikipedia.org/wiki/Himeji_Castle",
+    "https://grokipedia.com/page/Japanese_castle",
+    "https://sugoii-japan.com/best-castles-in-japan",
+    "https://www.japan-guide.com/e/e2296.html",
+    "https://www.timetojapan.com/lists/12-original-castles",
+    "https://www.travelsafe-abroad.com/castles-in-japan/",
+    "https://japanobjects.com/features/japanese-castles"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Castle manufacturing customer case study",
+   "results": [
+    "https://www.featuredcustomers.com/vendor/castle/case-studies",
+    "https://castleindustrial.com/case-study/manufacturing-packaging-solutions/",
+    "https://www.casestudies.com/company/castle",
+    "https://castle-mfg.com/",
+    "https://www.castleprecision.com/media-gallery/news-and-pr-library/case-studies.html",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://nlcbuilt.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Castle white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://www.seoreseller.com/",
+    "https://www.nmi.com/blog/understanding-the-reseller-model-a-complete-guide-for-payments-companies/",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.godaddy.com/help/get-started-with-basic-and-pro-reseller-7454",
+    "https://www.20i.com/us/reseller-hosting"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Castle founded funding employees revenue",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com Castle",
+   "results": [
+    "https://note.com/omo46g/n/n8d03d5260378?hl=en",
+    "https://note.com/rootsofjapan/n/nde831e4e92e9?hl=en",
+    "https://note.com/odawara046/n/nc1b5460a8880?hl=en",
+    "https://note.com/hshnote/n/n7c47501180e5?hl=en",
+    "https://note.com/omo46g/n/n3a0224148e47?hl=en",
+    "https://note.com/takatoki_hojo/n/n5a47ebcdc52e?hl=en",
+    "https://tales.note.com/mooncastle_yuki/wpt33b4hiiide/episodes/eq1cxmdl0c4sr"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Castle",
+   "results": [
+    "https://x.com/castlearena",
+    "https://x.com/Castle_ABC",
+    "https://x.com/JillAnneCastle",
+    "https://x.com/castlexyz",
+    "https://x.com/castlerunsagain/status/2114179853050397038",
+    "https://help.x.com/en",
+    "https://x.com/niconicocastle/status/2119960461185892562"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Castle",
+   "results": [
+    "https://www.linkedin.com/in/jason-castle-7b7b952b",
+    "https://www.linkedin.com/company/castle-megastore-group-inc.",
+    "https://uk.linkedin.com/pub/dir/Leah/Castle",
+    "https://ca.linkedin.com/company/castle-and-associates",
+    "https://au.linkedin.com/pub/dir/Simon/Castle",
+    "https://au.linkedin.com/in/ranishaclarke",
+    "https://gi.linkedin.com/in/kathy-castle-992001ab"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Castle",
+   "results": [
+    "https://www.facebook.com/TovreaCastle/",
+    "https://www.facebook.com/castlesncoastersaz/",
+    "https://www.facebook.com/TovreaCarraroSociety/",
+    "https://www.facebook.com/groups/897205208194973/posts/1109731273609031/",
+    "https://www.facebook.com/groups/44320328945/posts/10162395672863946/",
+    "https://www.facebook.com/groups/1535170503727627/permalink/1974412949803378/",
+    "https://www.facebook.com/groups/559438256866896/permalink/749632627847457/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Castle note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://note.com/sadaaki",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Castle X 投稿",
+   "results": [
+    "https://www.pixiv.net/users/104507370",
+    "https://www.castlesales.com/",
+    "https://x.com/Castle_IO",
+    "https://x.com/_fukuicastle/status/2075470279086866723",
+    "https://www.instagram.com/castlexgear/",
+    "https://www.pixiv.net/en/users/104507370",
+    "https://castlage2013.ciao.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部38頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部38頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部38頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部38頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部38頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部38頁・検索12回）"
+ }
+}

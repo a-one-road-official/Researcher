@@ -1,0 +1,1301 @@
+{
+ "name": "Creatify",
+ "aliases": [],
+ "context": "旧営業リスト｜Non-AUMS｜リマイン1",
+ "researched_at": "2026-11-10T18:22:51.396963+00:00",
+ "official_url": "https://creatify.ai",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "料金タイプ",
+    "value": "フリーミアム（無料〜$15/月（年払い$10/月）） 無料枠 あり（月10クレジット・動画広告2本または画像20本）",
+    "url": "https://aipicks.jp/tool/creatify",
+    "pass": 3
+   },
+   {
+    "label": "料金プラン",
+    "value": "Free, Starter $39 / M, Pro $99 / M Free, Starter $12/ M, Pro $30 / M, Pro Max $59 / M, Business $249 / M Free $0 / M, Personal $29 / M, Team $69 / M Starter $29 / M, Professional $59 / M, Team $199 / M",
+    "url": "https://oai-market.com/products/creatify",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "1. Seed Round",
+    "value": "22-Sep-2023 $7.5M $7.5M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/535326-04",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "「Spring Sale – Broad」を停止",
+    "url": "https://creatify.ai/ja",
+    "pass": 1
+   },
+   {
+    "quote": "「Retargeting – Video 3」を停止",
+    "url": "https://creatify.ai/ja",
+    "pass": 1
+   },
+   {
+    "quote": "100以上のプレミアムモデル — Seedance 2.5、Veo 3.1、Kling 3.0 Pro",
+    "url": "https://creatify.ai/ja/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Frontier video, image & audio models",
+    "url": "https://creatify.ai/ja/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "ポリシー全文：https://creatify.ai/privacy",
+    "url": "https://creatify.ai/ja/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Creatify Video APIのレイテンシはどのくらいですか？",
+    "url": "https://creatify.ai/ja/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Creatifyのリアルなアバターと直感的なURL-to-Videoツールを活用して、ホールライフペットはブランドに合ったメッセージを統一した大量の動画を制作し、コンシステンシーとリーチを劇的に改善しました",
+    "url": "https://creatify.ai/ja/case-study/whole-life-pet",
+    "pass": 1
+   },
+   {
+    "quote": "Agencies making client ads with Creatify",
+    "url": "https://creatify.ai/ja/use-cases/marketing-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "テンプレートは200以上、Proなら500以上に増える",
+    "url": "https://aipicks.jp/tool/creatify",
+    "pass": 3
+   },
+   {
+    "quote": "月払いではStandardが15ドル、Proが55ドル、Maxが95ドルに上昇",
+    "url": "https://aipicks.jp/tool/creatify",
+    "pass": 3
+   },
+   {
+    "quote": "Standardが月額10ドルで掲載され、Proは月額38ドルへ値下げ",
+    "url": "https://aipicks.jp/tool/creatify",
+    "pass": 3
+   },
+   {
+    "quote": "商品やアプリのURLを入れるだけで広告動画を作れるURL to Videoを備える",
+    "url": "https://aipicks.jp/tool/creatify",
+    "pass": 3
+   },
+   {
+    "quote": "Starterは月$33で100クレジット、Proは月$49で300クレジットからです",
+    "url": "https://aipicks.jp/tool/creatify",
+    "pass": 3
+   },
+   {
+    "quote": "ProではAIアクターが1500体、広告テンプレートが500以上に増え、Enterpriseは要問い合わせです",
+    "url": "https://aipicks.jp/tool/creatify",
+    "pass": 3
+   },
+   {
+    "quote": "Topview AIは、マーケターやEC事業者に加え、映画クリエイターや短編ドラマ制作チーム向けのAI Video Agentです",
+    "url": "https://aipicks.jp/tool/creatify",
+    "pass": 3
+   },
+   {
+    "quote": "Quasa.io/projects/creatify",
+    "url": "https://quasa.io/ja/video/creatify-burandogakurieiteibuchimuquan-ti-nodai-warinihuo-yong-suruaidong-hua-guang-gao-zienereta",
+    "pass": 3
+   },
+   {
+    "quote": "https://quasa.io/projects/creatify",
+    "url": "https://quasa.io/ja/video/creatify-burandogakurieiteibuchimuquan-ti-nodai-warinihuo-yong-suruaidong-hua-guang-gao-zienereta",
+    "pass": 3
+   },
+   {
+    "quote": "invideo – AI動画プラットフォーム、対話型編集とマルチメディア生成",
+    "url": "https://quasa.io/ja/video/creatify-burandogakurieiteibuchimuquan-ti-nodai-warinihuo-yong-suruaidong-hua-guang-gao-zienereta",
+    "pass": 3
+   },
+   {
+    "quote": "NEAR Protocol 2026年レビュー + QuasaでQUAを獲得する方法",
+    "url": "https://quasa.io/ja/video/creatify-burandogakurieiteibuchimuquan-ti-nodai-warinihuo-yong-suruaidong-hua-guang-gao-zienereta",
+    "pass": 3
+   },
+   {
+    "quote": "これを解消するのが、同社の提供するURL-to-Video技術(URLからの動画生成）とAIアバターです",
+    "url": "https://note.com/gen_ai/n/nc8993903e261",
+    "pass": 3
+   },
+   {
+    "quote": "Pro $99 / M",
+    "url": "https://oai-market.com/products/creatify",
+    "pass": 3
+   },
+   {
+    "quote": "https://creatify.ai/privacy",
+    "url": "https://oai-market.com/products/creatify",
+    "pass": 3
+   },
+   {
+    "quote": "Free, Starter $39 / M, Pro $99 / M",
+    "url": "https://oai-market.com/products/creatify",
+    "pass": 3
+   },
+   {
+    "quote": "Free, Starter $12/ M, Pro $30 / M, Pro Max $59 / M, Business $249 / M",
+    "url": "https://oai-market.com/products/creatify",
+    "pass": 3
+   },
+   {
+    "quote": "Starter $29 / M, Professional $59 / M, Team $199 / M",
+    "url": "https://oai-market.com/products/creatify",
+    "pass": 3
+   },
+   {
+    "quote": "Creatify: AI agents for Generating Video Ads at Scale - Kindred Ventures",
+    "url": "https://kindredventures.com/announcement/creatify-seriesa-announcement/",
+    "pass": 3
+   },
+   {
+    "quote": "Creatify: AI agents for Generating Video Ads at Scale",
+    "url": "https://kindredventures.com/announcement/creatify-seriesa-announcement/",
+    "pass": 3
+   },
+   {
+    "quote": "With a library of infinitely possible AI-generated avatars, styles, and built-in brand controls, AdMax helps teams produce high-quality, high-performing creative at a scale and speed that simply hasn’t been possible before. Each campaign gets smarter as it goes, learning from performance data and feeding insights back into the creative process.",
+    "url": "https://kindredventures.com/announcement/creatify-seriesa-announcement/",
+    "pass": 3
+   },
+   {
+    "quote": "If successful, Creatify will enhance and accelerate the creativity of people at brands and agencies, and optimize the operational process of video ads to the point where high-quality marketing and storytelling are accessible to any business, regardless of size or budget.",
+    "url": "https://kindredventures.com/announcement/creatify-seriesa-announcement/",
+    "pass": 3
+   },
+   {
+    "quote": "We believe Creatify is on the leading edge of how marketing and advertising are being reshaped by AI. We’re excited to support the team as they continue to build, scale, and help more companies unlock the full potential of creative that performs.",
+    "url": "https://kindredventures.com/announcement/creatify-seriesa-announcement/",
+    "pass": 3
+   },
+   {
+    "quote": "How to Make Realistic AI Video Ads That Don't Look AI (2026 Full Tutorial)",
+    "url": "https://www.youtube.com/@CreatifyAI",
+    "pass": 3
+   },
+   {
+    "quote": "How to Make 100+ Ads for a Full Shopify Store With AI",
+    "url": "https://www.youtube.com/@CreatifyAI",
+    "pass": 3
+   },
+   {
+    "quote": "How to Make 50 Static Ads From 1 Product Image with AI (2026)",
+    "url": "https://www.youtube.com/@CreatifyAI",
+    "pass": 3
+   },
+   {
+    "quote": "Creatify AI - How to create a video ad with the help of AI in just a few clicks",
+    "url": "https://www.youtube.com/@CreatifyAI",
+    "pass": 3
+   },
+   {
+    "quote": "New Feature Release: Product Video",
+    "url": "https://www.youtube.com/@CreatifyAI",
+    "pass": 3
+   },
+   {
+    "quote": "NEW AI Video Ads Help Performance Marketers Make Smart Ads 12x Faster! Creatify 3.0!",
+    "url": "https://www.youtube.com/@CreatifyAI",
+    "pass": 3
+   },
+   {
+    "quote": "How to Create Viral Video Ads with AI Ad Agent (Creatify Demo)",
+    "url": "https://www.youtube.com/@CreatifyAI",
+    "pass": 3
+   },
+   {
+    "quote": "Why Your AI Ads Look Fake (And How to Fix It) #Shorts",
+    "url": "https://www.youtube.com/@CreatifyAI",
+    "pass": 3
+   },
+   {
+    "quote": "One Product Photo, Four Prompts, a Full Ad Set",
+    "url": "https://www.youtube.com/@CreatifyAI",
+    "pass": 3
+   },
+   {
+    "quote": "Creatify AI Tutorial For Beginners | How To Make AI UGC Videos For TikTok",
+    "url": "https://www.youtube.com/watch?v=743qPYNQCUE&vl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Fliki AI Review and Walkthrough (Better than InVideo)",
+    "url": "https://www.youtube.com/watch?v=743qPYNQCUE&vl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "How I Create $1k/Day Dropshipping Video Ads using AI (FREE METHOD)",
+    "url": "https://www.youtube.com/watch?v=743qPYNQCUE&vl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "9,157回視聴 • 2024/12/10 • #AIContentCreation #CreatifyAI #VideoMarketingTools",
+    "url": "https://www.youtube.com/watch?v=743qPYNQCUE&vl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "https://ecommastery.so/tiktokads/",
+    "url": "https://www.youtube.com/watch?v=743qPYNQCUE&vl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Jeffrey Katzenberg co-leads $15.5M Series A for AI ad platform Creatify",
+    "url": "https://www.mnh.vc/blog/creatify-crosses-9m-arr-secures-15-5m-to-launch-ai-ad-platform",
+    "pass": 3
+   },
+   {
+    "quote": "The DreamWorks legend joined Creatify’s board as the fast-growing startup powers a new era of video advertising",
+    "url": "https://www.mnh.vc/blog/creatify-crosses-9m-arr-secures-15-5m-to-launch-ai-ad-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Jeffrey Katzenberg has long backed ambitious ventures—from cofounding animation studio DreamWorks to championing digital innovation through his investment firm WndrCo. Now, he’s supporting a bold new vision for the future of advertising. WndrCo has co-led a $15.5 million Series A investment in",
+    "url": "https://www.mnh.vc/blog/creatify-crosses-9m-arr-secures-15-5m-to-launch-ai-ad-platform",
+    "pass": 3
+   },
+   {
+    "quote": ", an AI video ad platform that has quietly reached $9 million in annual recurring revenue just 18 months after launch.",
+    "url": "https://www.mnh.vc/blog/creatify-crosses-9m-arr-secures-15-5m-to-launch-ai-ad-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Founded by a trio of engineers who previously built video ad products at Snap, Meta, Airbnb, and Meta’s AI research lab FAIR, the San Francisco-based startup helps businesses rapidly produce high-performing, AI-powered video ads for social media—without relying on traditional production or content creators.",
+    "url": "https://www.mnh.vc/blog/creatify-crosses-9m-arr-secures-15-5m-to-launch-ai-ad-platform",
+    "pass": 3
+   },
+   {
+    "quote": "“I’ve spent my career looking for the tools that give storytellers an edge. That’s why I’m excited about AI video,” Jeffrey Katzenberg, cofounder and CEO of DreamWorks SKG and WndrCo, tells",
+    "url": "https://www.mnh.vc/blog/creatify-crosses-9m-arr-secures-15-5m-to-launch-ai-ad-platform",
+    "pass": 3
+   },
+   {
+    "quote": ". “Brands today need hundreds of custom ads across dozens of platforms, fast and cost-effectively. Traditional production just can’t keep up, but AI can. That’s what makes it a game changer.”",
+    "url": "https://www.mnh.vc/blog/creatify-crosses-9m-arr-secures-15-5m-to-launch-ai-ad-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Creatify’s cofounder and CEO, Yinan Na, says his experience working on Snap Spotlight and Meta video ads taught him that great creative content, when guided by the right algorithms, naturally finds its audience.",
+    "url": "https://www.mnh.vc/blog/creatify-crosses-9m-arr-secures-15-5m-to-launch-ai-ad-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Creatify has grown to over one million users, with brands like Zumper, NewsBreak, Binance, and Alibaba.com using the platform to launch hundreds of ad creatives each month. To advance automation further, Creatify is now launching an AI agent that autonomously generates, tests, and optimizes short-form video ads.",
+    "url": "https://www.mnh.vc/blog/creatify-crosses-9m-arr-secures-15-5m-to-launch-ai-ad-platform",
+    "pass": 3
+   },
+   {
+    "quote": "“I’ve seen firsthand how technology opens new doors, from hand-drawn to CGI animation, and now AI. What excites me about Creatify is that it’s breaking down barriers around video creation. When production takes minutes instead of weeks, more people get to tell their stories. That’s a real shift,” says Katzenberg.",
+    "url": "https://www.mnh.vc/blog/creatify-crosses-9m-arr-secures-15-5m-to-launch-ai-ad-platform",
+    "pass": 3
+   },
+   {
+    "quote": "The startup’s pitch is simple yet disruptive. Video accounts for 82% of internet traffic, yet only 35% of ad spend. Why? Because high-quality video production doesn’t scale fast enough for today’s digital economy. Creatify aims to solve this with AdMax, an end-to-end AI platform that can generate dozens of video ad variations in minutes.",
+    "url": "https://www.mnh.vc/blog/creatify-crosses-9m-arr-secures-15-5m-to-launch-ai-ad-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Built for performance-driven platforms like TikTok and Meta’s ad ecosystems, AdMax autonomously analyzes top-performing competitor ads to generate creative insights, then creates dozens of UGC-style videos featuring AI avatars and tests them directly on Meta and TikTok.",
+    "url": "https://www.mnh.vc/blog/creatify-crosses-9m-arr-secures-15-5m-to-launch-ai-ad-platform",
+    "pass": 3
+   },
+   {
+    "quote": "At the heart of the platform is “Ad Intelligence,” a proprietary engine that identifies which scripts, visuals, and formats convert best.",
+    "url": "https://www.mnh.vc/blog/creatify-crosses-9m-arr-secures-15-5m-to-launch-ai-ad-platform",
+    "pass": 3
+   },
+   {
+    "quote": "With API integrations and team workspaces, AdMax is designed to streamline production workflows for large marketing teams.",
+    "url": "https://www.mnh.vc/blog/creatify-crosses-9m-arr-secures-15-5m-to-launch-ai-ad-platform",
+    "pass": 3
+   },
+   {
+    "quote": "“AdMax is a real breakthrough. What used to take weeks and cost tens of thousands now happens in minutes for a fraction of the price,” Katzenberg says. “That’s not just efficiency; it’s creativity and effectiveness, and it’s a fundamental shift in how this business will work.”",
+    "url": "https://www.mnh.vc/blog/creatify-crosses-9m-arr-secures-15-5m-to-launch-ai-ad-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Creatify’s founding team brings significant AI engineering experience. CEO Yinan Na is joined by chief scientist Ledell Wu, formerly of Meta’s FAIR lab and a contributor to open-source projects like PyTorch-BigGraph, for which she earned an ICML Test-of-Time Award. CTO Xin Zhou, a veteran of Meta and Airbnb, specializes in building scalable AI systems and recommendation engines.",
+    "url": "https://www.mnh.vc/blog/creatify-crosses-9m-arr-secures-15-5m-to-launch-ai-ad-platform",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "ブランド、代理店、プラットフォームから信頼されています",
+    "url": "https://creatify.ai/ja",
+    "pass": 1
+   },
+   {
+    "quote": "静止画から目を奪うスクロールへ — AdMaxがEコマース代理店のパフォーマンスを10倍にした方法",
+    "url": "https://creatify.ai/ja/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "すべての規模のクリエイター、マーケター、代理店のためのプラン",
+    "url": "https://creatify.ai/ja/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "カスタムプラン、サービス、APIなどを必要とするマーケティングチーム・代理店向け",
+    "url": "https://creatify.ai/ja/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "対応言語には、英語、ヒンディー語、ポルトガル語、フランス語、ドイツ語、日本語、中国語、スペイン語、韓国語、インドネシア語、イタリア語、アラビア語、ブルガリア語、チェコ語、デンマーク語、オランダ語、ギリシャ語、フィンランド語、クロアチア語、マレー語、ルーマニア語、スロバキア語、スウェーデン語、ウクライナ語、ロシア語、タミル語、タガログ語、トルコ語、ポーランド語などがあります",
+    "url": "https://creatify.ai/ja/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "公開中の導入事例：制作スピード3〜10倍、作業時間を約90%削減、複数プラットフォームへの配信を拡大",
+    "url": "https://creatify.ai/ja/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ディー・エヌ・エー（DeNA）は、グローバル市場におけるモバイルタイトルの開発・配信において数十年の実績を持つ、日本のIT・エンターテインメント企業です",
+    "url": "https://creatify.ai/ja/case-study/dena",
+    "pass": 1
+   },
+   {
+    "quote": "DeNA（株式会社ディー・エヌ・エー）について",
+    "url": "https://creatify.ai/ja/case-study/dena",
+    "pass": 1
+   },
+   {
+    "quote": "1999年に東京でネットオークションサービスのスタートアップとして誕生して以来、常にそのビジネスポートフォリオを進化・拡大させてきました",
+    "url": "https://creatify.ai/ja/case-study/dena",
+    "pass": 1
+   },
+   {
+    "quote": "パフォーマンスが頭打ちになると、クライアントは代理店にすぐに成果を示すことを期待します",
+    "url": "https://creatify.ai/ja/case-study/designrr",
+    "pass": 1
+   },
+   {
+    "quote": "eFavormart導入事例:新規顧客獲得単価を27%削減",
+    "url": "https://creatify.ai/ja/case-study/efavormart-tableclothsfactory",
+    "pass": 1
+   },
+   {
+    "quote": "ブランド、代理店、プラットフォームから信頼されています",
+    "url": "https://creatify.ai/ja/use-cases/marketing-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "UGC風動画、SNS広告、画像広告のバリエーション作成に強く、広告代理店やマーケターが検証用クリエイティブを短時間で増やしたい場面に適しています",
+    "url": "https://aipicks.jp/tool/creatify",
+    "pass": 3
+   },
+   {
+    "quote": "短尺の動画広告を高速で量産し、配信テストを繰り返したいEC事業者やマーケティング代理店に向きます",
+    "url": "https://aipicks.jp/tool/creatify",
+    "pass": 3
+   },
+   {
+    "quote": "Webブラウザで動くので、アプリを入れずに日本の担当者でもすぐ広告の試作を始められます",
+    "url": "https://aipicks.jp/tool/creatify",
+    "pass": 3
+   },
+   {
+    "quote": "EC事業者のマーケターやDTCブランドの担当者、広告代理店に向いています",
+    "url": "https://aipicks.jp/tool/creatify",
+    "pass": 3
+   },
+   {
+    "quote": "素材制作の工数を抑え、検証サイクルを早めたいEC事業者や広告代理店に向きます",
+    "url": "https://aipicks.jp/tool/creatify",
+    "pass": 3
+   },
+   {
+    "quote": "で紹介）は、2026年にブランドや代理店が成果の高い広告を制作、テストし、展開を拡大する方法を変革している、最先端のAI搭載動画広告ジェネレーターです",
+    "url": "https://quasa.io/ja/video/creatify-burandogakurieiteibuchimuquan-ti-nodai-warinihuo-yong-suruaidong-hua-guang-gao-zienereta",
+    "pass": 3
+   },
+   {
+    "quote": "D2Cブランド、ECチーム、パフォーマンスマーケター、クリエイティブ代理店、アプリやゲームの開発スタジオをはじめ、巨額の予算や長い制作期間をかけずに動画広告を大量に制作、テストする必要のあるあらゆる企業に最適です",
+    "url": "https://quasa.io/ja/video/creatify-burandogakurieiteibuchimuquan-ti-nodai-warinihuo-yong-suruaidong-hua-guang-gao-zienereta",
+    "pass": 3
+   },
+   {
+    "quote": "「どの代理店に依頼するよりも速く、アイデアからテスト済みの広告まで完成します",
+    "url": "https://quasa.io/ja/video/creatify-burandogakurieiteibuchimuquan-ti-nodai-warinihuo-yong-suruaidong-hua-guang-gao-zienereta",
+    "pass": 3
+   },
+   {
+    "quote": "これこそ広告の未来です」（グローバル代理店のクリエイティブディレクター）",
+    "url": "https://quasa.io/ja/video/creatify-burandogakurieiteibuchimuquan-ti-nodai-warinihuo-yong-suruaidong-hua-guang-gao-zienereta",
+    "pass": 3
+   },
+   {
+    "quote": "Creatifyの料金・機能アップデート・代替ツール情報を日本語でお届けします",
+    "url": "https://oai-market.com/products/creatify",
+    "pass": 3
+   },
+   {
+    "quote": "日本語を含む29言語に対応しています",
+    "url": "https://oai-market.com/products/creatify",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "eFavormartとTablecloths FactoryがCreatify広告で新規顧客獲得コストを27%削減した方法",
+    "url": "https://creatify.ai/ja/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "eFavormartとTablecloths FactoryがCreatify広告で新規顧客獲得コストを27%削減した方法",
+    "url": "https://creatify.ai/ja/case-study/efavormart-tableclothsfactory",
+    "pass": 1
+   },
+   {
+    "quote": "eFavormartとTablecloths Factoryはイベント用品をオンラインで販売しており、両社とも社内チームで制作できる以上のビデオ広告を必要としていました",
+    "url": "https://creatify.ai/ja/case-study/efavormart-tableclothsfactory",
+    "pass": 1
+   },
+   {
+    "quote": "eFavormartとTablecloths Factoryは、リネン、テーブルクロス、センターピース、食器、装飾品など、イベント・パーティー用品を扱うオンライン小売業者です",
+    "url": "https://creatify.ai/ja/case-study/efavormart-tableclothsfactory",
+    "pass": 1
+   },
+   {
+    "quote": "eFavormartとTablecloths Factoryについて",
+    "url": "https://creatify.ai/ja/case-study/efavormart-tableclothsfactory",
+    "pass": 1
+   },
+   {
+    "quote": "In the 'Generative AI Case Study Collection,' we provide detailed explanations of successful American generative AI startups under the 'Winning Horse' series. We publish two articles per week. Each week, one article is free, and the other is a paid article. (This article is a paid article.)",
+    "url": "https://note.com/gen_ai/n/nc8993903e261?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The individual membership provides access to articles only, while the corporate membership provides access to articles, detailed explanatory slides, and a company list (spreadsheet). For more details on the 'Winning Horse' series of the Generative AI Case Study Collection, including the differences between the individual and corporate versions, please click here.",
+    "url": "https://note.com/gen_ai/n/nc8993903e261?hl=en",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "CreatifyのAPIおよびOEM（ホワイトレーベル）ソリューションを活用すれば、外部ツールを一切経由せず、広告動画作成機能をあなたのプラットフォーム内で直接ユーザーに提供できます",
+    "url": "https://creatify.ai/ja/case-study/alibaba",
+    "pass": 1
+   },
+   {
+    "quote": "Agencies making client ads with Creatify",
+    "url": "https://creatify.ai/ja/use-cases/marketing-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "If successful, Creatify will enhance and accelerate the creativity of people at brands and agencies, and optimize the operational process of video ads to the point where high-quality marketing and storytelling are accessible to any business, regardless of size or budget.",
+    "url": "https://kindredventures.com/announcement/creatify-seriesa-announcement/",
+    "pass": 3
+   },
+   {
+    "quote": "Early adopters are already seeing impact. Real estate platform Zumper produces over 300 video ads monthly using Creatify, saving about $20,000 each month. NewsBreak advertisers launch tailored creatives in minutes instead of days, reporting improved engagement across audience segments. Marketers no longer wait weeks for agencies to deliver polished campaigns.",
+    "url": "https://www.mnh.vc/blog/creatify-crosses-9m-arr-secures-15-5m-to-launch-ai-ad-platform",
+    "pass": 3
+   },
+   {
+    "quote": "As AI tools evolve from assistants to autonomous creators, a deeper question emerges: what becomes of agencies, creative teams, and the craft of storytelling when a model can do it all on demand?",
+    "url": "https://www.mnh.vc/blog/creatify-crosses-9m-arr-secures-15-5m-to-launch-ai-ad-platform",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "同社は、商品ページのURLひとつで高品質な動画広告を自動生成するという革新的なソリューションを展開し、サービス開始からわずか18ヶ月でARR（年間経常収益）900万ドルを突破する急成長を遂げました",
+    "url": "https://note.com/gen_ai/n/nc8993903e261",
+    "pass": 3
+   },
+   {
+    "quote": ", an AI video ad platform that has quietly reached $9 million in annual recurring revenue just 18 months after launch.",
+    "url": "https://www.mnh.vc/blog/creatify-crosses-9m-arr-secures-15-5m-to-launch-ai-ad-platform",
+    "pass": 3
+   },
+   {
+    "quote": "The platform features a library of over 750 lifelike AI avatars and more than 140 natural-sounding voices, enabling brands to deliver personalized messages in up to 29 languages. It also includes a built-in scriptwriting tool for crafting ad narratives.",
+    "url": "https://www.mnh.vc/blog/creatify-crosses-9m-arr-secures-15-5m-to-launch-ai-ad-platform",
+    "pass": 3
+   },
+   {
+    "quote": "“I’ve seen firsthand how technology opens new doors, from hand-drawn to CGI animation, and now AI. What excites me about Creatify is that it’s breaking down barriers around video creation. When production takes minutes instead of weeks, more people get to tell their stories. That’s a real shift,” says Katzenberg.",
+    "url": "https://www.mnh.vc/blog/creatify-crosses-9m-arr-secures-15-5m-to-launch-ai-ad-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Mistral’s revenues soar over $400mn as Europe seeks AI independence",
+    "url": "https://www.mnh.vc/blog/creatify-crosses-9m-arr-secures-15-5m-to-launch-ai-ad-platform",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/535326-04",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions (1)",
+    "url": "https://pitchbook.com/profiles/company/535326-04",
+    "pass": 3
+   },
+   {
+    "quote": "Creatify’s most recent deal was a Merger/Acquisition with",
+    "url": "https://pitchbook.com/profiles/company/535326-04",
+    "pass": 3
+   },
+   {
+    "quote": "To view Creatify’s complete acquisitions history, request access »",
+    "url": "https://pitchbook.com/profiles/company/535326-04",
+    "pass": 3
+   },
+   {
+    "quote": "Creatify has 43 total employees.",
+    "url": "https://pitchbook.com/profiles/company/535326-04",
+    "pass": 3
+   },
+   {
+    "quote": "What is Creatify’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/535326-04",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Creatify is",
+    "url": "https://pitchbook.com/profiles/company/535326-04",
+    "pass": 3
+   },
+   {
+    "quote": "Creatify Revenue 2024: $203.6K Est.",
+    "url": "https://getlatka.com/companies/creatify",
+    "pass": 3
+   },
+   {
+    "quote": "Creatify has not published its revenue. GetLatka estimates it at about $203.6K a year (October 2024).",
+    "url": "https://getlatka.com/companies/creatify",
+    "pass": 3
+   },
+   {
+    "quote": "All 3 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/creatify",
+    "pass": 3
+   },
+   {
+    "quote": "Creatify CEO, founders & employees",
+    "url": "https://getlatka.com/companies/creatify",
+    "pass": 3
+   },
+   {
+    "quote": "What is Creatify's revenue?",
+    "url": "https://getlatka.com/companies/creatify",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Creatify's revenue at about",
+    "url": "https://getlatka.com/companies/creatify",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/creatify",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/creatify",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/creatify",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "クリエティファイ - AI広告生成ツール | AIで勝てる広告を作成 — クリエティファイ - AI広告生成ツール | AIで勝てる広告を作成 Creatify AI https://creatify.ai > ...",
+    "url": "https://creatify.ai/ja",
+    "pass": 3
+   },
+   {
+    "quote": "Creatify とは？評判・料金・機能【無料あり】 - AI PICKS — Creatify とは？評判・料金・機能【無料あり】 - AI PICKS aipicks.jp https://aipicks.jp > AI動画生成",
+    "url": "https://aipicks.jp/tool/creatify",
+    "pass": 3
+   },
+   {
+    "quote": "Creatify : ブランドがクリエイティブチーム全体の代わりに活用 ... — Creatify : ブランドがクリエイティブチーム全体の代わりに活用 ... quasa.io https://quasa.io > 動画",
+    "url": "https://quasa.io/ja/video/creatify-burandogakurieiteibuchimuquan-ti-nodai-warinihuo-yong-suruaidong-hua-guang-gao-zienereta",
+    "pass": 3
+   },
+   {
+    "quote": "Creatify : 商品URLから動画広告を量産する次世代広告エンジン — Creatify : 商品URLから動画広告を量産する次世代広告エンジン note https://note.com > 科学・テクノロジー > AI・機械学習",
+    "url": "https://note.com/gen_ai/n/nc8993903e261",
+    "pass": 3
+   },
+   {
+    "quote": "Creatify AIレビュー：料金、無料プラン、代替サービス — Creatify AIレビュー：料金、無料プラン、代替サービス OpenArt https://openart.ai > Blog > Creatify AI Review",
+    "url": "https://openart.ai/ja/blog/creatify-ai-review/",
+    "pass": 3
+   },
+   {
+    "quote": "Creatify ｜AI動画生成で爆速マーケティング ... - OAI Market — Creatify ｜AI動画生成で爆速マーケティング ... - OAI Market OAI Market https://oai-market.com > products > creatify",
+    "url": "https://oai-market.com/products/creatify",
+    "pass": 3
+   },
+   {
+    "quote": "Creatify 対Arcads：詳細な比較 — Creatify 対Arcads：詳細な比較 Creatify.ai https://creatify.ai > ホーム > ブログ > 比較",
+    "url": "https://creatify.ai/ja/blog/creatify-vs-arcads-an-in-depth-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "Creatify : AI agents for Generating Video Ads at Scale — Creatify : AI agents for Generating Video Ads at Scale Kindred Ventures https://kindredventures.com > creatify...",
+    "url": "https://kindredventures.com/announcement/creatify-seriesa-announcement/",
+    "pass": 3
+   },
+   {
+    "quote": "Creatify AI - YouTube — Creatify AI - YouTube YouTube https://www.youtube.com > @Creatif...",
+    "url": "https://www.youtube.com/@CreatifyAI",
+    "pass": 3
+   },
+   {
+    "quote": "Creatify AI Review: Features, Pricing, and Real Use Cases — Creatify AI Review: Features, Pricing, and Real Use Cases YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=743qPYNQCUE&vl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Creatify AI - Facebook — Creatify AI - Facebook Facebook https://www.facebook.com > ... > Internet company",
+    "url": "https://www.facebook.com/p/Creatify-AI-61551944518290/",
+    "pass": 3
+   },
+   {
+    "quote": "Jeffrey Katzenberg co-leads $15.5M Series A for AI ad ... — Jeffrey Katzenberg co-leads $15.5M Series A for AI ad ... Millennium New Horizons https://www.mnh.vc > blog > creatify...",
+    "url": "https://www.mnh.vc/blog/creatify-crosses-9m-arr-secures-15-5m-to-launch-ai-ad-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Creatify 2026 Company Profile: Valuation, Funding & Investors — Creatify 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/535326-04",
+    "pass": 3
+   },
+   {
+    "quote": "Announcing Our $15.5M Series A – A New Chapter for Creatify — Announcing Our $15.5M Series A – A New Chapter for Creatify Creatify.ai https://creatify.ai > ... > Company News",
+    "url": "https://creatify.ai/blog/announcing-our-15-5m-series-a-a-new-chapter-for-creatify",
+    "pass": 3
+   },
+   {
+    "quote": "Creatify Revenue 2024: $203.6K Est. - GetLatka — Creatify Revenue 2024: $203.6K Est. - GetLatka GetLatka https://getlatka.com > creatify",
+    "url": "https://getlatka.com/companies/creatify",
+    "pass": 3
+   },
+   {
+    "quote": "Creatify - 2026 Company Profile, Team, Funding & Competitors — Creatify - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/creatify/__DtKFquw9Mp9jNnqVszLFCiElerlDppAvvZCvASsKY5w",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/535326-04",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Creatify : The Next-Generation Advertising Engine for Mass ... Creatify : The Next-Generation Advertising Engine for Mass ... note https://note.com > 科学・テクノロジー > AI・機械学習",
+    "url": "https://note.com/gen_ai/n/nc8993903e261?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Creatify: The Next-Generation Advertising Engine for Mass-Producing Video Ads from Product URLs｜生成AI事例集",
+    "url": "https://note.com/gen_ai/n/nc8993903e261?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Creatify: The Next-Generation Advertising Engine for Mass-Producing Video Ads from Product URLs",
+    "url": "https://note.com/gen_ai/n/nc8993903e261?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "One of the startups currently revolutionizing the e-commerce and digital advertising sectors in the field of generative AI is Creatify, a provider of an AI video ad production platform. The company has deployed an innovative solution that automatically generates high-quality video ads from a single product page URL, achieving rapid growth by surpassing $9 million in ARR (Annual Recurring Revenue) ",
+    "url": "https://note.com/gen_ai/n/nc8993903e261?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In May 2025, the company raised $15.5 million in a Series A round, bringing its total funding to approximately $23 million. This round was led by WndrCo, headed by Jeffrey Katzenberg, co-founder of DreamWorks—the studio behind films like 'Shrek'—and Kindred Ventures. Furthermore, former GitHub CEO Nat Friedman and others are listed as early investors, demonstrating that masters of both technology ",
+    "url": "https://note.com/gen_ai/n/nc8993903e261?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Creatify aims to solve the creative production bottleneck that companies face in the social media advertising market, which is currently dominated by short-form video. On platforms like TikTok and Instagram Reels, videos perform better than static images, but traditional production methods are too costly and time-consuming, making it difficult to prepare the large volume of variations needed for e",
+    "url": "https://note.com/gen_ai/n/nc8993903e261?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Users simply enter a product URL, and the AI analyzes the information, writes a high-converting script, and generates a video in minutes featuring a realistic AI avatar presenting the product. This allows for a reduction in production costs by up to 90% and dramatically accelerates the marketing PDCA cycle.",
+    "url": "https://note.com/gen_ai/n/nc8993903e261?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In this article, we will explain in detail why Creatify has garnered such support in a short period and is fundamentally overturning the video ad production process, by examining its specific mechanisms, unique features, dramatic improvement cases at client companies, and clear points of differentiation compared to competitors like HeyGen.",
+    "url": "https://note.com/gen_ai/n/nc8993903e261?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In the 'Generative AI Case Study Collection,' we provide detailed explanations of successful American generative AI startups under the 'Winning Horse' series. We publish two articles per week. Each week, one article is free, and the other is a paid article. (This article is a paid article.)",
+    "url": "https://note.com/gen_ai/n/nc8993903e261?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Creatify AI (@Creatify_AI) / X Creatify AI (@Creatify_AI) / X X https://x.com > Creatify_AI",
+    "url": "https://x.com/Creatify_AI",
+    "pass": 3
+   },
+   {
+    "quote": "Creatify AI - X Creatify AI - X X https://x.com > @Creatify_AI",
+    "url": "https://x.com/Creatify_AI/status/2118389524216901870",
+    "pass": 3
+   },
+   {
+    "quote": "Creatify AI on X: \"@Mohiniuni Have fun! Start with a product ... Creatify AI on X: \"@Mohiniuni Have fun! Start with a product ... X https://x.com > @Creatify_AI",
+    "url": "https://x.com/Creatify_AI/status/2110824120749625848",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Creatify AI | LinkedIn Creatify AI | LinkedIn LinkedIn https://www.linkedin.com > creatify-ai",
+    "url": "https://www.linkedin.com/company/creatify-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Creatify - LinkedIn Creatify - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/creativify-agency",
+    "pass": 3
+   },
+   {
+    "quote": "Creatify - LinkedIn Creatify - LinkedIn LinkedIn https://uk.linkedin.com > creatifydigital",
+    "url": "https://uk.linkedin.com/company/creatifydigital",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Creatify AI - Facebook Creatify AI - Facebook Facebook https://www.facebook.com > ... > Internet company",
+    "url": "https://www.facebook.com/p/Creatify-AI-61551944518290/",
+    "pass": 3
+   },
+   {
+    "quote": "Creatify Agent Deliver the Results! Ads need new creatives ... Creatify Agent Deliver the Results! Ads need new creatives ... Facebook https://www.facebook.com > ... > Creatify AI > Videos",
+    "url": "https://www.facebook.com/61551944518290/videos/creatify-agent-deliver-the-results-ads-need-new-creatives-every-weekeven-winners/1807025717168912/",
+    "pass": 3
+   },
+   {
+    "quote": "What is Creatify AI? An AI tool that converts a product link into ... What is Creatify AI? An AI tool that converts a product link into ... Facebook https://www.facebook.com > posts > what-is-creatify-aian-...",
+    "url": "https://www.facebook.com/61572957353066/posts/what-is-creatify-aian-ai-tool-that-converts-a-product-link-into-ready-to-post-vi/122205609254765245/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://creatify.ai/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://creatify.ai/ja/case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://creatify.ai/ja/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://creatify.ai/ja/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://creatify.ai/ja/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://creatify.ai/ja/case-study/alibaba",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://creatify.ai/ja/case-study/dena",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://creatify.ai/ja/case-study/designrr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://creatify.ai/ja/case-study/efavormart-tableclothsfactory",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://creatify.ai/ja/case-study/zerorez",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://creatify.ai/ja/case-study/laife",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://creatify.ai/ja/case-study/whole-life-pet",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://creatify.ai/ja/use-cases/marketing-agencies",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://creatify.ai/marketing-media/customers/comcast.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://creatify.ai/marketing-media/customers/comcast.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://creatify.ai/marketing-media/customers/alibaba.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://creatify.ai/marketing-media/customers/alibaba.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://aipicks.jp/tool/creatify",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://quasa.io/ja/video/creatify-burandogakurieiteibuchimuquan-ti-nodai-warinihuo-yong-suruaidong-hua-guang-gao-zienereta",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gen_ai/n/nc8993903e261",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oai-market.com/products/creatify",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nri.com/jp/knowledge/publication/chitekishisan_202212/08.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kindredventures.com/announcement/creatify-seriesa-announcement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/@CreatifyAI",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=743qPYNQCUE&vl=ja",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vLvHWAzuQxb9liyU3Ocs82a9JijXH7_Iz2Yr07OY2n09pyXrTIY",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.conveyormg.com/resources/blogs/creating-manufacturing-case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://manufacturingleadershipcouncil.com/case-study-transforming-through-manufacturing-4-0/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kanerika.com/blogs/generative-ai-in-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.whitelabelagency.co/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.totalum.app/blog/white-label-ai-app-builder-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=ywsFnpasHkc",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mnh.vc/blog/creatify-crosses-9m-arr-secures-15-5m-to-launch-ai-ad-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/535326-04",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/creatify",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gen_ai/n/nc8993903e261?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Creatify_AI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Creatify_AI/status/2118389524216901870",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Creatify_AI/status/2110824120749625848",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/creatify-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/creativify-agency",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/company/creatifydigital",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Creatify-AI-61551944518290/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61551944518290/videos/creatify-agent-deliver-the-results-ads-need-new-creatives-every-weekeven-winners/1807025717168912/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61572957353066/posts/what-is-creatify-aian-ai-tool-that-converts-a-product-link-into-ready-to-post-vi/122205609254765245/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Creatify_AI",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Creatify 日本 導入",
+   "results": [
+    "https://creatify.ai/ja",
+    "https://aipicks.jp/tool/creatify",
+    "https://quasa.io/ja/video/creatify-burandogakurieiteibuchimuquan-ti-nodai-warinihuo-yong-suruaidong-hua-guang-gao-zienereta",
+    "https://note.com/gen_ai/n/nc8993903e261",
+    "https://openart.ai/ja/blog/creatify-ai-review/",
+    "https://occhiilab.com/ai-video-ads/creatify/",
+    "https://creatify.ai/ja/pricing",
+    "https://www.snowflake.com/accelerate/japan/",
+    "https://filmora.wondershare.jp/video-editor-review/creatify-ai-review.html",
+    "https://ai-jisso.jp/products/creatify/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Creatify 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://creatify.ai/ja",
+    "https://oai-market.com/products/creatify",
+    "https://creatify.ai/ja/blog/creatify-vs-arcads-an-in-depth-comparison",
+    "https://www.nri.com/jp/knowledge/publication/chitekishisan_202212/08.html",
+    "http://crearti.jp/lp/blackjack/",
+    "https://cambria.co.jp/category/%E6%9C%AA%E5%88%86%E9%A1%9E/",
+    "http://create-inc.jp/fc/",
+    "https://entrenet.jp/dokuritsu/Y1300-Y1400/KW040/",
+    "https://prtimes.jp/main/html/rd/p/000000075.000083539.html",
+    "https://ja.wikipedia.org/wiki/クリエイトSDホールディングス"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Creatify Japan",
+   "results": [
+    "https://creatify.ai/ja",
+    "https://kindredventures.com/announcement/creatify-seriesa-announcement/",
+    "https://www.youtube.com/@CreatifyAI",
+    "https://www.youtube.com/watch?v=743qPYNQCUE&vl=ja",
+    "https://www.facebook.com/p/Creatify-AI-61551944518290/",
+    "https://www.softwareadvice.co.uk/software/447005/creatify",
+    "https://reloop.so/blog/article/creatify-ai-review/",
+    "https://apps.apple.com/jp/app/creatify-ai-video-generator/id6759766637",
+    "https://creatify.ai/ja/blog/creatify-overview",
+    "https://creatify.ai/ja/learning-center"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Creatify manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vLvHWAzuQxb9liyU3Ocs82a9JijXH7_Iz2Yr07OY2n09pyXrTIY",
+    "https://www.conveyormg.com/resources/blogs/creating-manufacturing-case-studies",
+    "https://manufacturingleadershipcouncil.com/case-study-transforming-through-manufacturing-4-0/",
+    "https://kanerika.com/blogs/generative-ai-in-manufacturing/",
+    "https://www.tth.com/resources/case-studies",
+    "https://www.sciencedirect.com/science/article/pii/S2351978920320837",
+    "https://www.stratasys.com/en/resources/case-studies/",
+    "https://insights.rstartec.com/eight-ai-case-studies-demonstrate-the-potential-of-ai-in-manufacturing",
+    "https://f7i.ai/case-studies",
+    "https://creatify.ai/case-study"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Creatify white label OR reseller OR partner program",
+   "results": [
+    "https://www.whitelabelagency.co/",
+    "https://www.totalum.app/blog/white-label-ai-app-builder-2026",
+    "https://www.youtube.com/watch?v=ywsFnpasHkc",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://www.rankpay.com/agency-partners/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.hyperfx.ai/blog/white-label-ai-marketing-agents-for-agencies-2026",
+    "https://synthflow.ai/blog/white-label-reseller",
+    "https://sales-label.com/blog/white-label-saas-reseller",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Creatify founded funding employees revenue",
+   "results": [
+    "https://www.mnh.vc/blog/creatify-crosses-9m-arr-secures-15-5m-to-launch-ai-ad-platform",
+    "https://pitchbook.com/profiles/company/535326-04",
+    "https://creatify.ai/blog/announcing-our-15-5m-series-a-a-new-chapter-for-creatify",
+    "https://getlatka.com/companies/creatify",
+    "https://tracxn.com/d/companies/creatify/__DtKFquw9Mp9jNnqVszLFCiElerlDppAvvZCvASsKY5w",
+    "https://trends.vc/opportunities/companies/creatify",
+    "https://pulse2.com/creatify-15-5-million-series-a-raised-for-ai-ad-agent-for-video/",
+    "https://www.zoominfo.com/c/creatify-lab/5000000571",
+    "https://www.businesswire.com/news/home/20250528506486/en/Creatify-Crosses-%249M-ARR-Raises-%2415.5M-Series-A-to-Launch-the-First-End-to-End-AI-Ad-Agent-for-Video",
+    "https://www.thecompanycheck.com/company/b/creatify/0ly4vkao3ajujlchr"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:note.com Creatify",
+   "results": [
+    "https://note.com/gen_ai/n/nc8993903e261?hl=en",
+    "https://note.com/kawaidesign/n/n849ca04645af",
+    "https://note.com/startup_now0708/n/n293f5c67b1ba",
+    "https://note.com/piske_cc/n/n13a84f063bea",
+    "https://note.com/ad_plus/n/n34047f371b07",
+    "https://note.com/disklover/n/n3267b1726d29",
+    "https://note.com/s47jpmc/n/ncc20959502fe",
+    "https://note.com/lucky_allium8251/n/n9b0058aacf2a",
+    "https://note.com/nkonline/n/nffd7d91e0899",
+    "https://note.com/edimakor_japan/n/n6f6b2d4d9ccf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com Creatify",
+   "results": [
+    "https://x.com/Creatify_AI",
+    "https://x.com/Creatify_AI/status/2118389524216901870",
+    "https://x.com/Creatify_AI/status/2110824120749625848",
+    "https://x.com/VaibhavSisinty/status/2056627448004120780",
+    "https://x.com/Creatify_AI/status/2110821783037530423",
+    "https://x.com/Creatify_AI/status/2105003208834003416",
+    "https://x.com/testingcatalog/status/2105354145469186163",
+    "https://x.com/Creatify_AI/status/2105348910567104857",
+    "https://x.com/Creatify_AI/status/2115232141697249476",
+    "https://x.com/MiniMax_AI/status/2105361931750306044"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Creatify",
+   "results": [
+    "https://www.linkedin.com/company/creatify-ai",
+    "https://www.linkedin.com/company/creativify-agency",
+    "https://uk.linkedin.com/company/creatifydigital",
+    "https://www.linkedin.com/products/creatify-ai-ai-video-ads/",
+    "https://www.linkedin.com/in/nayinan",
+    "https://www.linkedin.com/in/benpashman",
+    "https://www.linkedin.com/posts/comcast-ventures_were-excited-to-announce-our-investment-activity-7373687138233622528-xQf5",
+    "https://in.linkedin.com/company/creatifyandco",
+    "https://in.linkedin.com/company/creatify-advertisement-digital-marketing-agency",
+    "https://uk.linkedin.com/in/nicolotassi"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:facebook.com Creatify",
+   "results": [
+    "https://www.facebook.com/p/Creatify-AI-61551944518290/",
+    "https://www.facebook.com/100079152415418/posts/-comment-creatify-and-iii-send-you-the-link-how-i-turned-claude-into-an-ai-ad-cr/1033867372595000/",
+    "https://www.facebook.com/61551944518290/videos/creatify-agent-deliver-the-results-ads-need-new-creatives-every-weekeven-winners/1807025717168912/",
+    "https://www.facebook.com/61572957353066/posts/what-is-creatify-aian-ai-tool-that-converts-a-product-link-into-ready-to-post-vi/122205609254765245/",
+    "https://www.facebook.com/CreatifyTech/",
+    "https://www.facebook.com/61551944518290/videos/10-video-ads-from-one-prompt/1415693880773599/",
+    "https://www.facebook.com/tech4ssd/videos/claude-just-made-me-12-ads-and-i-didnt-film-a-single-one-i-connected-creatify-ag/4619269558362619/",
+    "https://www.facebook.com/CREATIFYMX/",
+    "https://www.facebook.com/p/Creatify-61580162952367/",
+    "https://www.facebook.com/creatify/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Creatify note 社長",
+   "results": [
+    "https://note.com/safe_sage8850/n/n7e027f17590d",
+    "https://froggy.smbcnikko.co.jp/66481/",
+    "https://note.com/ai_shacho",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://note.jp/n/ncc37a1d4aa0b",
+    "https://x.com/sadaaki",
+    "https://www.linkedin.com/in/nayinan",
+    "https://diamond.jp/articles/-/388572",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Creatify X 投稿",
+   "results": [
+    "https://x.com/Creatify_AI",
+    "https://creatify.ai/ja",
+    "https://builtin.com/job/social-media-manager-x/11825131",
+    "https://github.com/api-evangelist/creatify",
+    "https://www.youtube.com/@CreatifyAI",
+    "https://www.youtube.com/watch?v=QEdIDiKO37I",
+    "https://www.instagram.com/creatify_ai_official/",
+    "https://creatifyhq.com/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部30頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部30頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部30頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部30頁・検索12回）"
+ }
+}

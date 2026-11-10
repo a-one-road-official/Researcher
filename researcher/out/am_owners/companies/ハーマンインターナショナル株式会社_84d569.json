@@ -1,0 +1,649 @@
+{
+ "name": "ハーマンインターナショナル株式会社",
+ "aliases": [],
+ "context": "PBF=yes 装置=Arcam 出典=https://prtimes.jp/main/html/rd/p/000000267.000012767.html",
+ "researched_at": "2026-11-10T18:14:57.075968+00:00",
+ "official_url": "",
+ "identified_by": "not_found",
+ "profile": {},
+ "evidence": {
+  "用途・客の産業": [
+   {
+    "quote": "事業概要：家電オーディオ製品の輸入販売、プロフェッショナル・ソリューションズ、自動車用インフォテイメント",
+    "url": "https://www.harman.com/japan/contact-us",
+    "pass": 3
+   },
+   {
+    "quote": "主要製品：自動車用インフォテイメントシステム、オーディオシステム、家電オーディオシステム、プロフェッショナル用オーディオシステム",
+    "url": "https://www.harman.com/japan/contact-us",
+    "pass": 3
+   },
+   {
+    "quote": "自動車用インフォテイメントシステム、オーディオシステムの開発・営業",
+    "url": "https://www.harman.com/japan/contact-us",
+    "pass": 3
+   },
+   {
+    "quote": "自動車用部品の開発、試験、営業、オートモーティブ・サービスに係わる営業・マーケティング拠点",
+    "url": "https://www.harman.com/japan/contact-us",
+    "pass": 3
+   },
+   {
+    "quote": "自動車用部品の開発、営業",
+    "url": "https://www.harman.com/japan/contact-us",
+    "pass": 3
+   },
+   {
+    "quote": "家電オーディオ製品の輸入販売、プロフェッショナル・ソリューションズ、自動車用インフォテイメント",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "などをはじめとした自動車メーカー向けに、ハーマン傘下オーディオブランドでの車載オーディオ機器を提供している",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "、SUBARUなどの自動車への接続サービスを提供している",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "[生成AI分析] Harman International Industries, Inc. 2016年6月期の動向 - マークラインズ 自動車情報×生成AIプラットフォーム",
+    "url": "https://www.marklines.com/ja/top500/cf/s500_311_hl2016",
+    "pass": 3
+   },
+   {
+    "quote": "受注増加、自動車生産量の増加、新プラットフォームの拡大が増収要因",
+    "url": "https://www.marklines.com/ja/top500/cf/s500_311_hl2016",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル規模で供給網を拡大したこと、最近供給を開始したプログラム、自動車生産量の増加、受注増加や事業買収効果などが増収に貢献した",
+    "url": "https://www.marklines.com/ja/top500/cf/s500_311_hl2016",
+    "pass": 3
+   },
+   {
+    "quote": "Diracのデジタルオーディオシステムとチューニング技術を、Harmanの自動車用オーディ オ・インフォテインメントシステムへ適用することを目指す",
+    "url": "https://www.marklines.com/ja/top500/cf/s500_311_hl2016",
+    "pass": 3
+   },
+   {
+    "quote": "また、今回の提携によりHarmanは、自動車用音響システムメーカーや自動車メーカー向けに、Diracの音響技術をグローバルで供給していく",
+    "url": "https://www.marklines.com/ja/top500/cf/s500_311_hl2016",
+    "pass": 3
+   },
+   {
+    "quote": "通信・自動車関連の企業や事業団体と連携しながら、コネクテッドカー技術が連邦議会や規制当局の取り組みにどのような影響を与えるかについての理解を高める",
+    "url": "https://www.marklines.com/ja/top500/cf/s500_311_hl2016",
+    "pass": 3
+   },
+   {
+    "quote": "-同社の日本法人であるハーマンインターナショナルは、自動車メーカー向けのカーナビゲーション事業を強化する",
+    "url": "https://www.marklines.com/ja/top500/cf/s500_311_hl2016",
+    "pass": 3
+   },
+   {
+    "quote": "これまで日本では自動車メーカー向けにオーディオ製品を供給してきたが、スズキの軽自動車のメーカーオプションとして初めて同社製ナビが採用されたのを機に、今後は供給車種の拡大や他メーカーからの受注を目指す",
+    "url": "https://www.marklines.com/ja/top500/cf/s500_311_hl2016",
+    "pass": 3
+   },
+   {
+    "quote": "(2015年7月7日付日刊自動車新聞よ り)",
+    "url": "https://www.marklines.com/ja/top500/cf/s500_311_hl2016",
+    "pass": 3
+   },
+   {
+    "quote": "北京汽車工業 (BAIC)、比亜迪汽車 (BYD)、長安汽車 (Changan)、奇瑞汽車 (Chery)、吉利汽車 (Geely)、長城汽車 (Great Wall)、上汽通用汽車 (SAIC GM) など、中国自動車メーカーと緊密に連携していく",
+    "url": "https://www.marklines.com/ja/top500/cf/s500_311_hl2016",
+    "pass": 3
+   },
+   {
+    "quote": "-2016年1月、米国のミシガン州Noviで自動車事業の北米本社を開所したと発表した",
+    "url": "https://www.marklines.com/ja/top500/cf/s500_311_hl2016",
+    "pass": 3
+   },
+   {
+    "quote": "自動車、民生品、プロオーディオ/ビデオ、工業製品などの市場におい て、｢Ethernet AVB/TSN｣ の採用促進を目指す",
+    "url": "https://www.marklines.com/ja/top500/cf/s500_311_hl2016",
+    "pass": 3
+   },
+   {
+    "quote": "モバイル生産性を向上させるサービスを提供するととも に、クラウドプラットフォーム、テレマティクス、ドライバー生産性など既存の製品・サービス・技術を用いて、ドライバーの利便性・安全性・信頼性を向上させ、自動車メーカーの業務効率も大幅に向上させることができるとしている",
+    "url": "https://www.marklines.com/ja/top500/cf/s500_311_hl2016",
+    "pass": 3
+   },
+   {
+    "quote": "自動車メーカーやサービスプロバイダーがコネクテッドカーにクラウドサービスを導入し、簡単に展開できるようにする",
+    "url": "https://www.marklines.com/ja/top500/cf/s500_311_hl2016",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "資本金 ： 3億円",
+    "url": "https://www.harman.com/japan/contact-us",
+    "pass": 3
+   },
+   {
+    "quote": "デノン、マランツもサムスン傘下に 子会社が米Masimoからオーディオ事業を買収",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB",
+    "pass": 3
+   }
+  ],
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "、Arcam、",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "Bang & Olufsen BeoSound DB11オーディオシステム （13スピーカー）",
+    "url": "https://www.marklines.com/ja/top500/cf/s500_311_hl2016",
+    "pass": 3
+   },
+   {
+    "quote": "-2016年3月、中国江蘇省の蘇州 (Suzhou) 工業園区に建設した開発センター ｢Harman Suzhou Global Product Development Center (PDC)｣ が稼働を開始したと発表した",
+    "url": "https://www.marklines.com/ja/top500/cf/s500_311_hl2016",
+    "pass": 3
+   },
+   {
+    "quote": "自動車メーカーやサービスプロバイダーがコネクテッドカーにクラウドサービスを導入し、簡単に展開できるようにする",
+    "url": "https://www.marklines.com/ja/top500/cf/s500_311_hl2016",
+    "pass": 3
+   },
+   {
+    "quote": "-2016年6月末時点、同社は3,670件以上の特許を保有、2,490件の特許を申請中",
+    "url": "https://www.marklines.com/ja/top500/cf/s500_311_hl2016",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ハーマンインターナショナル 株式 会社 - Compalyze — ハーマンインターナショナル 株式 会社 - Compalyze Compalyze https://compalyze.co.jp > 企業検索 > 電気・電子機器",
+    "url": "https://compalyze.co.jp/company/9010501011412",
+    "pass": 3
+   },
+   {
+    "quote": "ハーマンインターナショナル 株式 会社 — ハーマンインターナショナル 株式 会社 iasj.info http://iasj.info > members > harman",
+    "url": "http://iasj.info/members/harman/",
+    "pass": 3
+   },
+   {
+    "quote": "ハーマンインターナショナル 株式会社 — ハーマンインターナショナル 株式会社 iasj.info http://iasj.info > members > harman",
+    "url": "http://iasj.info/members/harman/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "ハーマンインターナショナル 株式会社 (@HARMANJAPAN) / X ハーマンインターナショナル 株式会社 (@HARMANJAPAN) / X X https://x.com > HARMANJAPAN",
+    "url": "https://x.com/HARMANJAPAN",
+    "pass": 3
+   },
+   {
+    "quote": "ハーマンインターナショナル 株式会社 on X ハーマンインターナショナル 株式会社 on X X https://x.com > @HARMANJAPAN",
+    "url": "https://x.com/HARMANJAPAN/status/1102493944972279809",
+    "pass": 3
+   },
+   {
+    "quote": "ハーマンインターナショナル 株式会社 on X: \"  【導入事例紹介 ... ハーマンインターナショナル 株式会社 on X: \"  【導入事例紹介 ... X https://x.com > @HARMANJAPAN",
+    "url": "https://x.com/HARMANJAPAN/status/1927913735789883516",
+    "pass": 3
+   },
+   {
+    "quote": "ハーマンインターナショナル 株式会社 on X: \"オーストラリアの ... ハーマンインターナショナル 株式会社 on X: \"オーストラリアの ... X https://x.com > @HARMANJAPAN",
+    "url": "https://x.com/HARMANJAPAN/status/2112067097207636149",
+    "pass": 3
+   },
+   {
+    "quote": "ハーマンインターナショナル株式会社 (@HARMANJAPAN) / X ハーマンのプロフェッショナルソリューション・ビジネスは、音響・映像・照明ソリューションを提供するリーダーとして、AKG、AMX、Crown、dbx、Martin Professional、JBLやSoundcraftといったブランドを擁し、世界中の観客のエンターテイメント体験を向上しています。",
+    "url": "https://x.com/HARMANJAPAN",
+    "pass": 3
+   },
+   {
+    "quote": "ハーマンインターナショナル株式会社 on X: \"https://t.co/x3tC7haOgc... Aug 26, 2024 · ハーマンのプロフェッショナルソリューション・ビジネスは、音響・映像・照明ソリューションを提供するリーダーとして、AKG、AMX、Crown、dbx、Martin Professional、JBLやSoundcraftといったブランドを擁し、世界中の観客のエンターテイメント体験を向上しています。",
+    "url": "https://x.com/HARMANJAPAN/status/1827858499772310000",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Harman International Japan (ハーマンインターナショナル株式会社)Harman International Japan(ハーマンインターナショナル株式会社)Harman... - Harman International Japan (ハーマンインターナショナ...Harman International Japan(ハーマンインターナショナル株式会社)Harman... - Harman International Japan (ハーマンインターナショナ...Harman International Japan(ハーマンインターナショナル株式会社)【いい音、ラグジュライ... - Harman International Japan (ハーマン... いよいよ今週末、日本最大級のオーディオイベント「 東京インターナショナルオーディオショウ 2026」が開催されま",
+    "url": "https://www.facebook.com/harmanjapan/",
+    "pass": 3
+   },
+   {
+    "quote": "Harman International Japan(ハーマンインターナショナル株式会社) Jun 13, 2014 · ハーマンインターナショナルが取り扱うJBL、AKG、harman/kardonなどのブランド製品の中から、旧モデルやキズ有り品などをアウトレット製品として特別価格にてご提供いたします。",
+    "url": "https://www.facebook.com/harmanjapan/posts/数量限定-ハーマン公式通販サイトにアウトレットコーナーがオープンご好評をいただいておりますハーマン公式通販サイトに新たにアウトレットコーナーがオープンしましたハ/743625792343135/",
+    "pass": 3
+   },
+   {
+    "quote": "Harman International Japan(ハーマンインターナショナル株式会社) HARMAN Store 特別試聴室 ハーマンインターナショナルが誇るプレミアムなオーディオシステムを体験してみませんか？ 最高級のオーディオシステムを備え、空間すべてが理想的な環境の特別試聴室です。 楽器はきめ細かく、ボーカルは息遣いまで聴こえ、目を閉じると“目の前で演奏しているの ...",
+    "url": "https://www.facebook.com/harmanjapan/posts/harman-store-特別試聴室ハーマンインターナショナルが誇るプレミアムなオーディオシステムを体験してみませんか最高級のオーディオシステムを備え空間すべて/2244796218892744/",
+    "pass": 3
+   },
+   {
+    "quote": "Harman International Japan(ハーマンインターナショナル株式会社) Mar 31, 2026 · 株式会社大阪屋様主催「オーディオ試聴即売会」に出展いたします！ 今回は、JBL 次世代フラグシップ サミットシリーズ「Makalu（マカル）」、スタジオモニター最新フラグシップ 「4369」 に加え、Mark Levinson のフルセットモデルを展示し、デモを実施いたします。 さらに、4月12日(日) には、 JBL ...",
+    "url": "https://www.facebook.com/harmanjapan/posts/株式会社大阪屋様主催オーディオ試聴即売会に出展いたします今回はjbl-次世代フラグシップ-サミットシリーズmakaluマカルスタジオモニター最新フラグシップ-4/1371719188330852/",
+    "pass": 3
+   },
+   {
+    "quote": "Harman International Japan (ハーマンインターナショナル株式会社)HARMAN (@harman_intl) • Instagram photos and videos[重要なお知らせ] SNS上の偽アカウントに関する注意喚起 | ハーマンイ... いよいよ今週末、日本最大級のオーディオイベント「 東京インターナショナルオーディオショウ 2026」が開催されます。 ハーマンブースでは、「SUMMIT EVEREST」と「SUMMIT K2」を筆頭に、SUMMITシリーズのフルラインアップ を展示・デモ予定。 24K Followers, 166 Following, 1,256 Posts - HARMAN (@harman_intl) on Instagram: \"HARMAN designs and manufactures consumer and prof",
+    "url": "https://www.facebook.com/harmanjapan/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.harman.com/japan/contact-us",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/54098/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.marubeni-idigio.com/insight-hub/metal3dprinter_desktopmetal_case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Ew517KG1bOI",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kk-ariga.co.jp/metal_3d_printer/%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.3dsystems.com/semiconductor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=KZaXU_KnoEY",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.harman.com/japan/contact-us",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://iasj.info/members/harman/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.harman.com/japan/contact-us",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.marklines.com/ja/top500/cf/s500_311_hl2016",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/HARMANJAPAN",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HARMANJAPAN/status/1102493944972279809",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HARMANJAPAN/status/1927913735789883516",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HARMANJAPAN/status/2112067097207636149",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/harmanjapan/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/harmanjapan/posts/数量限定-ハーマン公式通販サイトにアウトレットコーナーがオープンご好評をいただいておりますハーマン公式通販サイトに新たにアウトレットコーナーがオープンしましたハ/743625792343135/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/harmanjapan/posts/harman-store-特別試聴室ハーマンインターナショナルが誇るプレミアムなオーディオシステムを体験してみませんか最高級のオーディオシステムを備え空間すべて/2244796218892744/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/harmanjapan/posts/株式会社大阪屋様主催オーディオ試聴即売会に出展いたします今回はjbl-次世代フラグシップ-サミットシリーズmakaluマカルスタジオモニター最新フラグシップ-4/1371719188330852/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/harmanjapan/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HARMANJAPAN",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HARMANJAPAN/status/1827858499772310000",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ハーマンインターナショナル",
+   "results": [
+    "https://jp.harmanaudio.com/",
+    "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB",
+    "http://iasj.info/members/harman/",
+    "https://www.harman.com/japan/contact-us",
+    "https://x.com/HARMANJAPAN",
+    "https://jp.harmankardon.com/",
+    "https://www.facebook.com/harmanjapan/",
+    "https://www.harman.com/japan/solutions",
+    "https://ja.wikipedia.org/wiki/ハーマンインターナショナル",
+    "https://ja.wikipedia.org/wiki/ハーマン・インターナショナル"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "株式会社ハーマンインターナショナル",
+   "results": [
+    "https://www.harman.com/japan/contact-us",
+    "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB",
+    "http://iasj.info/members/harman/",
+    "https://x.com/HARMANJAPAN",
+    "https://www.harman.com/",
+    "https://www.facebook.com/harmanjapan/",
+    "https://compalyze.co.jp/company/9010501011412",
+    "https://support.harmanaudio.com/jp/ja/",
+    "https://syukatsu-kaigi.jp/companies/124007/word_mouths",
+    "https://ja.wikipedia.org/wiki/ハーマン・インターナショナル"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "ハーマンインターナショナル 株式会社",
+   "results": [
+    "https://www.harman.com/japan/contact-us",
+    "http://iasj.info/members/harman/",
+    "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB",
+    "https://x.com/HARMANJAPAN",
+    "https://www.facebook.com/harmanjapan/",
+    "https://support.harmanaudio.com/jp/ja/",
+    "https://compalyze.co.jp/company/9010501011412",
+    "https://www.atengineer.com/pr/harman-japan/company",
+    "https://jp.harmankardon.com/",
+    "https://ja.wikipedia.org/wiki/ハーマン・インターナショナル"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "ハーマンインターナショナル 会社概要 資本金 設立",
+   "results": [
+    "https://www.harman.com/japan/contact-us",
+    "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB",
+    "https://metoree.com/companies/54098/",
+    "https://compalyze.co.jp/company/9010501011412",
+    "http://iasj.info/members/harman/",
+    "https://baseconnect.in/companies/1244debf-04bc-4449-9fda-fc30b3b5b870",
+    "https://www.atengineer.com/pr/harman-japan/company",
+    "https://companydata.tsujigawa.com/company/9010501011412/",
+    "https://fumadata.com/search/detail/1190742"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "ハーマンインターナショナル 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.marubeni-idigio.com/insight-hub/metal3dprinter_desktopmetal_case/",
+    "https://www.youtube.com/watch?v=Ew517KG1bOI",
+    "https://kk-ariga.co.jp/metal_3d_printer/%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B/",
+    "https://www.ricoh.co.jp/3dp/metal/case_jzhc",
+    "https://jampt.jp/column/column_453/",
+    "https://www.jeol.co.jp/column/detail001.html",
+    "https://www.mitsubishielectric.co.jp/fa/products/mecha/am/pr/zoukei/index.html",
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "https://news.sharelab.jp/category/3dp-news/metal-3dprinter/",
+    "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "ハーマンインターナショナル 金属積層造形 設備",
+   "results": [
+    "https://ja.3dsystems.com/semiconductor",
+    "https://jampt.jp/equipment/",
+    "https://www.youtube.com/watch?v=KZaXU_KnoEY",
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "https://www.secotools.com/article/how_3d_printing_is_making_its_mark_in_medical?language=ja",
+    "https://www.mazak.com/jp-ja/products/am/",
+    "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html",
+    "https://www.sinto.co.jp/promotion/metal-am/",
+    "https://news.sharelab.jp/category/3dp-news/metal-3dprinter/",
+    "https://ja.wikipedia.org/wiki/ハーマン・インターナショナル"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "ハーマンインターナショナル 株主 出資 親会社",
+   "results": [
+    "https://www.harman.com/japan/contact-us",
+    "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB",
+    "http://iasj.info/members/harman/",
+    "https://www.marklines.com/ja/top500/harman-international-industries",
+    "https://av.watch.impress.co.jp/docs/20070507/harman.htm",
+    "https://wirelesswire.jp/2016/11/57579/",
+    "https://www.businesswire.com/news/home/20250923421285/ja",
+    "https://www.nikkei.com/article/DGKKASDZ18H5E_Y7A210C1TJC000/",
+    "https://www.sec.gov/Archives/edgar/data/800459/000119312510181476/dex211.htm",
+    "https://ja.wikipedia.org/wiki/ハーマン・インターナショナル"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "ハーマンインターナショナル 売上高 従業員数",
+   "results": [
+    "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB",
+    "https://www.harman.com/japan/contact-us",
+    "https://www.marklines.com/ja/top500/cf/s500_311_hl2016",
+    "https://job.mynavi.jp/27/pc/search/corp219824/outline.html",
+    "https://itsumo365.co.jp/voice/21605",
+    "https://baseconnect.in/companies/1244debf-04bc-4449-9fda-fc30b3b5b870",
+    "https://monoist.itmedia.co.jp/mn/articles/2003/05/news045.html",
+    "https://prtimes.com/finance/9010501011412/settlement",
+    "https://ja.wikipedia.org/wiki/ハーマン・インターナショナル",
+    "https://companydata.tsujigawa.com/company/9010501011412/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com ハーマンインターナショナル",
+   "results": [
+    "https://note.com/brave_hare3722/n/n50a5cf9bbd63",
+    "https://note.com/brave_hare3722/n/n2e5b3a058499",
+    "https://note.com/keijiikeya/n/nc0f7e2d347c8",
+    "https://note.com/keijiikeya/n/nbe595186ce65",
+    "https://note.com/mocchan/n/nf42041fdf6f9",
+    "https://note.com/mocchan/n/ne030a093abfa",
+    "https://note.com/hsmt124/n/n2d7f295c7cff",
+    "https://note.com/keijiikeya/n/n1a76da534d3e",
+    "https://note.com/mocchan/n/n23f4dca43326",
+    "https://note.com/brave_hare3722/n/n3badf09b0737"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:x.com ハーマンインターナショナル",
+   "results": [
+    "https://x.com/HARMANJAPAN",
+    "https://x.com/HARMANJAPAN/status/1102493944972279809",
+    "https://x.com/HARMANJAPAN/status/1927913735789883516",
+    "https://x.com/HARMANJAPAN/status/2112067097207636149",
+    "https://x.com/HARMANJAPAN/status/1995336162815488255",
+    "https://x.com/HARMANJAPAN/status/2107021939781050424",
+    "https://x.com/Harman",
+    "https://x.com/HARMANJAPAN/status/2092154286230962666",
+    "https://x.com/HARMANJAPAN/status/2067789216583721276/photo/4",
+    "https://x.com/HARMANJAPAN/status/2093438210194186343"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com ハーマンインターナショナル",
+   "results": [
+    "https://www.linkedin.com/company/harman-international",
+    "https://www.linkedin.com/company/harman-international/life",
+    "https://jp.linkedin.com/company/harman-international",
+    "https://in.linkedin.com/company/harman-international",
+    "https://sg.linkedin.com/company/harman-international",
+    "https://gb.linkedin.com/company/harman-international",
+    "https://cn.linkedin.com/company/harman-international"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com ハーマンインターナショナル",
+   "results": [
+    "https://www.facebook.com/harmanjapan/",
+    "https://www.facebook.com/harmanjapan/posts/数量限定-ハーマン公式通販サイトにアウトレットコーナーがオープンご好評をいただいておりますハーマン公式通販サイトに新たにアウトレットコーナーがオープンしましたハ/743625792343135/",
+    "https://www.facebook.com/harmanjapan/posts/harman-store-特別試聴室ハーマンインターナショナルが誇るプレミアムなオーディオシステムを体験してみませんか最高級のオーディオシステムを備え空間すべて/2244796218892744/",
+    "https://www.facebook.com/harmanjapan/posts/株式会社大阪屋様主催オーディオ試聴即売会に出展いたします今回はjbl-次世代フラグシップ-サミットシリーズmakaluマカルスタジオモニター最新フラグシップ-4/1371719188330852/",
+    "https://www.facebook.com/100064783503959/photos/867524255417017/",
+    "https://www.facebook.com/harmanjapan/photos/1078871290948978/",
+    "https://www.facebook.com/harmanjapan/posts/いい音ラグジュライフ-feat-辻多久也さんmark-levinsonのプロダクトオーナーであり主にカーオーディオの開発営業に携わる辻さんそんな辻さんはハーマン/3059674344071590/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ハーマンインターナショナル note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ハーマン・インターナショナル",
+    "https://companydata.tsujigawa.com/company/9010501011412/",
+    "https://prtimes.jp/main/html/rd/p/000000333.000012767.html",
+    "https://safarilounge.jp/online/culture/column/detail.php?id=6817",
+    "https://japan.cnet.com/article/35084438/",
+    "https://www.harman.com/japan/contact-us",
+    "https://www.harman.com/leadership"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ハーマンインターナショナル X 投稿",
+   "results": [
+    "https://www.facebook.com/harmanjapan/",
+    "https://x.com/HARMANJAPAN",
+    "https://x.com/HARMANJAPAN/status/1827858499772310000",
+    "https://prtimes.jp/main/html/rd/p/000000487.000012767.html",
+    "https://www.harman.com/Japan/home",
+    "https://www.harman.com/Japan",
+    "https://www.instagram.com/harman_intl/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部26頁・検索14回）",
+  "資本金": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部26頁・検索14回）",
+  "創業年度": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部26頁・検索14回）",
+  "従業員数": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部26頁・検索14回）",
+  "売上高": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部26頁・検索14回）",
+  "株主": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部26頁・検索14回）",
+  "所在地": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部26頁・検索14回）",
+  "保有設備": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部26頁・検索14回）",
+  "使っている金属粉（材質）": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部26頁・検索14回）"
+ }
+}

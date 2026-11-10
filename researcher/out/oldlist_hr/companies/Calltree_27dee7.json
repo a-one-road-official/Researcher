@@ -1,0 +1,1234 @@
+{
+ "name": "Calltree",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-10T18:40:46.716873+00:00",
+ "official_url": "https://calltree.ai",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "I pulled together a preliminary look at trending topics over the last six months. Let me know where you want me to drill down.",
+    "url": "https://calltree.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "{{ activeProductTab.label }}",
+    "url": "https://calltree.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "{{ activeProductTab.desc }}",
+    "url": "https://calltree.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "{{ activeProductTab.n }}",
+    "url": "https://calltree.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "It applies to our websites, products, and services offered by Calltree Inc. (\"we\", \"us\", \"our\").",
+    "url": "https://calltree.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "MALICIOUS CONTENT INDICATORS",
+    "url": "https://sur.ly/i/calltree.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Availability or unavailability of the flaggable/dangerous content on this website has not been fully explored by us, so you should rely on the following indicators with caution.",
+    "url": "https://sur.ly/i/calltree.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Calltree.jp most likely does not offer any malicious content.",
+    "url": "https://sur.ly/i/calltree.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Calltree.jp provides SSL-encrypted connection.",
+    "url": "https://sur.ly/i/calltree.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ADULT CONTENT INDICATORS",
+    "url": "https://sur.ly/i/calltree.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Calltree.jp most likely does not offer any adult content.",
+    "url": "https://sur.ly/i/calltree.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "An aggs-bearing kNN routes to the exact scan, so counts are never approximate.",
+    "url": "https://xerj.org/case-studies/calltree-analytics",
+    "pass": 3
+   },
+   {
+    "quote": "curl -s localhost:9200/conversations/_search -H 'Content-Type: application/json' -d '{",
+    "url": "https://xerj.org/case-studies/calltree-analytics",
+    "pass": 3
+   },
+   {
+    "quote": "\"k\": 80, \"num_candidates\": 130 } },",
+    "url": "https://xerj.org/case-studies/calltree-analytics",
+    "pass": 3
+   },
+   {
+    "quote": "The numbers are artifacts, not findings. ES/OpenSearch or Postgres + pgvector can express this shape too — what differs is cost model and operational weight, not possibility.",
+    "url": "https://xerj.org/case-studies/calltree-analytics",
+    "pass": 3
+   },
+   {
+    "quote": "Send us your mapping and one deep-research question. We'll send back the single-request version — kNN + aggs over your schema — with the scripts to reproduce it.",
+    "url": "https://xerj.org/case-studies/calltree-analytics",
+    "pass": 3
+   },
+   {
+    "quote": "The composable primitives (each is a real XERJ query)",
+    "url": "https://github.com/xerj-org/xerj/tree/main/docs/case-studies/calltree-analytics",
+    "pass": 3
+   },
+   {
+    "quote": "over-represented issue labels",
+    "url": "https://github.com/xerj-org/xerj/tree/main/docs/case-studies/calltree-analytics",
+    "pass": 3
+   },
+   {
+    "quote": "counts must be exact, not approximate.",
+    "url": "https://github.com/xerj-org/xerj/tree/main/docs/case-studies/calltree-analytics",
+    "pass": 3
+   },
+   {
+    "quote": "scales with corpus size × dims for the scan. For very large corpora, pre-filter",
+    "url": "https://github.com/xerj-org/xerj/tree/main/docs/case-studies/calltree-analytics",
+    "pass": 3
+   },
+   {
+    "quote": "Comparison with other approaches",
+    "url": "https://github.com/xerj-org/xerj/tree/main/docs/case-studies/calltree-analytics",
+    "pass": 3
+   },
+   {
+    "quote": "— approximate lexical+vector fusion with",
+    "url": "https://github.com/xerj-org/xerj/tree/main/docs/case-studies/calltree-analytics",
+    "pass": 3
+   },
+   {
+    "quote": "CallTree AI 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/758276-65",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/758276-65",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/758276-65",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/758276-65",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/758276-65",
+    "pass": 3
+   },
+   {
+    "quote": "CallTree AI’s primary industry is Business/Productivity Software.",
+    "url": "https://pitchbook.com/profiles/company/758276-65",
+    "pass": 3
+   },
+   {
+    "quote": "Is CallTree AI a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/758276-65",
+    "pass": 3
+   },
+   {
+    "quote": "CallTree AI is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/758276-65",
+    "pass": 3
+   },
+   {
+    "quote": "Privacy Preference Center",
+    "url": "https://pitchbook.com/profiles/company/758276-65",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/758276-65",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/758276-65",
+    "pass": 3
+   },
+   {
+    "quote": "BitQit Private Limited",
+    "url": "https://getlatka.com/companies/calltree.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/calltree.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/calltree.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Thoroughly Streamline Remote Telemarketing with CALLTREE｜伊藤雅也",
+    "url": "https://note.com/rich_peony778/n/nbd34a9ace798?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Thoroughly Streamline Remote Telemarketing with CALLTREE",
+    "url": "https://note.com/rich_peony778/n/nbd34a9ace798?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Currently, I am also working in a sales role. Previously, I primarily worked in offices, but due to the COVID-19 pandemic and changes in my lifestyle, I shifted to remote work. I was struggling in particular with streamlining my telemarketing tasks when I encountered a tool called CALLTREE.",
+    "url": "https://note.com/rich_peony778/n/nbd34a9ace798?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Based on my experience actually performing telemarketing using CALLTREE, I will introduce its convenience and how it differs from other tools in detail. I will share how my remote work became smoother and how CALLTREE significantly improved my work efficiency.",
+    "url": "https://note.com/rich_peony778/n/nbd34a9ace798?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Comparison of CALLTREE and other telemarketing tools",
+    "url": "https://note.com/rich_peony778/n/nbd34a9ace798?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1. Ease of use: The CALLTREE interface is intuitive and very easy to operate. Even if it is your first telemarketing tool, you won't get lost, and you can start working smoothly without complex settings.",
+    "url": "https://note.com/rich_peony778/n/nbd34a9ace798?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "3. Cost performance: I felt that it has excellent cost performance despite being multifunctional. Without choosing an expensive plan, all necessary features are included, allowing you to use comprehensive functions while keeping costs down.",
+    "url": "https://note.com/rich_peony778/n/nbd34a9ace798?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "CALLTREE is a very reliable tool for those seeking to streamline their telemarketing operations. Its ease of use, customer management functions, and excellent cost performance will help you proceed with your work even more smoothly.",
+    "url": "https://note.com/rich_peony778/n/nbd34a9ace798?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "CALLTREE Introduction and Initial Setup—Achieve Efficient Telemarketing with a Smooth Start!",
+    "url": "https://note.com/rich_peony778/n/nbd34a9ace798?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "2. List import: I was able to easily upload telemarketing target lists using CSV files and import large amounts of data in a short time. The time for data import was reduced, allowing me to start work quickly.",
+    "url": "https://note.com/rich_peony778/n/nbd34a9ace798?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "3. Script settings: Setting up call scripts is intuitive, and I was able to save time by using templates. Script customization is also flexible, and by creating scripts tailored to my own work, the quality of my calls improved. The fact that it is easy to customize even for beginners was very convenient.",
+    "url": "https://note.com/rich_peony778/n/nbd34a9ace798?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "2. Visualization of Progress: By visualizing the progress of interactions with customers at a glance, you can ensure no follow-ups are missed. Since the progress status is clearly understood, it is easy to decide on the next action, allowing for smooth business management. This visualization feature has greatly improved the efficiency and accuracy of our operations.",
+    "url": "https://note.com/rich_peony778/n/nbd34a9ace798?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Dramatically Streamline Remote Telemarketing Operations with CALLTREE!",
+    "url": "https://note.com/rich_peony778/n/nbd34a9ace798?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Why does a telemarketing company build SaaS?｜オタ社長＠起業16年のリアルを公開",
+    "url": "https://note.com/stratedge_ota/n/na9a1eb509ab2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Why does a telemarketing company build SaaS?",
+    "url": "https://note.com/stratedge_ota/n/na9a1eb509ab2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "We are a sales agency, what you might call a telemarketing company.",
+    "url": "https://note.com/stratedge_ota/n/na9a1eb509ab2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "No, to be more precise—",
+    "url": "https://note.com/stratedge_ota/n/na9a1eb509ab2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Making calls on the front lines, getting rejected, improving, and calling again.",
+    "url": "https://note.com/stratedge_ota/n/na9a1eb509ab2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・Improvements are continuously reflected in the product",
+    "url": "https://note.com/stratedge_ota/n/na9a1eb509ab2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The SLG SaaS approach",
+    "url": "https://note.com/stratedge_ota/n/na9a1eb509ab2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The product at the center of that is CALLTREE.",
+    "url": "https://note.com/stratedge_ota/n/na9a1eb509ab2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Our strength as a telemarketing company was highly compatible with this SLG model.",
+    "url": "https://note.com/stratedge_ota/n/na9a1eb509ab2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "We can improve it because we sell it.",
+    "url": "https://note.com/stratedge_ota/n/na9a1eb509ab2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "CALLTREE is not a product that was made easily.",
+    "url": "https://note.com/stratedge_ota/n/na9a1eb509ab2?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Thanks, {{ inviteName }}. We'll follow up at {{ inviteEmail }} to confirm your seat.",
+    "url": "https://calltree.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/758276-65",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "東京都新宿区大久保2-10-2山崎ビル3F",
+    "url": "https://calltree.jp/introduction/",
+    "pass": 3
+   },
+   {
+    "quote": "CALLTREEの料金・機能・導入事例 | BOXIL",
+    "url": "https://boxil.jp/service/9153/",
+    "pass": 3
+   },
+   {
+    "quote": "CALLTREEは、株式会社StratEdgeが提供するクラウド型コールシステムです",
+    "url": "https://boxil.jp/service/9153/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都新宿区大久保2-10-2山崎ビル3F",
+    "url": "https://boxil.jp/service/9153/",
+    "pass": 3
+   },
+   {
+    "quote": "CALLTREEの料金・機能・導入事例 | BIZNAVI byDYM",
+    "url": "https://dym.asia/biznavi/services/calltree-5ilfhe/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ジーシーが提供するCALLTREEは、クラウド型CTI・コールセンターシステムです",
+    "url": "https://dym.asia/biznavi/services/calltree-5ilfhe/",
+    "pass": 3
+   },
+   {
+    "quote": "公式サイトには営業代行会社向けの導入事例も掲載されており、電話を活用した営業活動や顧客管理に利用できます",
+    "url": "https://dym.asia/biznavi/services/calltree-5ilfhe/",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例では顧客情報と対応履歴を同じ画面で確認できる運用も紹介されており、担当者が過去の対応内容を確認しながら顧客対応を進められます",
+    "url": "https://dym.asia/biznavi/services/calltree-5ilfhe/",
+    "pass": 3
+   },
+   {
+    "quote": "通信、住宅設備、広告代理店、人材派遣、物販、保険など業界を問わず導入実績があります",
+    "url": "https://dym.asia/biznavi/services/calltree-5ilfhe/",
+    "pass": 3
+   },
+   {
+    "quote": "Y Combinator採択企業 Calltree AI 詳細分析｜冨永拓也 / 株式会社Leach CEO",
+    "url": "https://note.com/takuya_t/n/n13209abbbab4",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "自社のコールセンター運営で培った知見を活かし、システムの企画・開発・販売・OEM提供からコールセンターの構築・運営・管理、コンサルティングまで一貫して手がけています",
+    "url": "https://dym.asia/biznavi/services/calltree-5ilfhe/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "CALLTREE | CALLTREE（コールツリー）アウトバウンドコンタクトセンタ... — CALLTREE（コールツリー）アウトバウンドお任せください！ コンタクトセンターの自動架電テレマーケティング｜クラウド型CTIコールセンターシステム-コールセンターキャリア10年以上使いやすさ徹底追及カスタマイズも自由自在",
+    "url": "https://calltree.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "導入効果シュミレーション - CALLTREE — クラウド型CTIコールセンターシステムCALLTREE（コールツリー）コールセンターキャリア10年以上使いやすさ徹底追及。自動架電テレマーケティングカスタマイズも自由自在です。",
+    "url": "https://calltree.jp/introduction/",
+    "pass": 3
+   },
+   {
+    "quote": "CALLTREEの料金・機能・導入事例 | BOXIL — Apr 20, 2026 · 株式会社StratEdgeが提供するCALLTREEの、特徴や料金プランを掲載。サービスに搭載されている機能や仕様の一覧、連携サービス、導入している企業も紹介します。",
+    "url": "https://boxil.jp/service/9153/",
+    "pass": 3
+   },
+   {
+    "quote": "CALLTREEの料金・機能・導入事例 | BIZNAVI byDYM — 導入前にCALLTREEを試せる無料体験が用意されています。 公式サイトでは問い合わせ・申し込みの段階でデモによる操作確認を案内しているため、実際の使いやすさを確認したうえで、自社の電話営業や顧客管理に適しているかを検討できます。",
+    "url": "https://dym.asia/biznavi/services/calltree-5ilfhe/",
+    "pass": 3
+   },
+   {
+    "quote": "CALLTREEの製品情報（特徴・導入事例） - ITreview — Jul 14, 2024 · CALLTREEの特徴や導入事例、メリットや解決できた課題など製品情報を掲載中！製品担当者のイチオシのポイントや特徴的な機能といったベンダーからの製品紹介のほか、動画の閲覧や資料請求、トライアルも含めたお問い合わせも可能。競合製品と比べたメリット、無料プランを含めたプラン ...",
+    "url": "https://www.itreview.jp/products/calltree/profile",
+    "pass": 3
+   },
+   {
+    "quote": "CALLTREE | CALLTREE（コールツリー）アウトバウンドコンタクトセンタ... — CALLTREE（コールツリー）アウトバウンドお任せください！コンタクトセンターの自動架電テレマーケティング｜クラウド型CTIコールセンターシステム-コールセンターキャリア10年以上使いやすさ徹底追及カスタマイズも自由自在",
+    "url": "https://calltree.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "導入効果シュミレーション | CALLTREE — クラウド型CTIコールセンターシステムCALLTREE（コールツリー）コールセンターキャリア10年以上使いやすさ徹底追及。自動架電テレマーケティングカスタマイズも自由自在です。",
+    "url": "https://calltree.jp/introduction/",
+    "pass": 3
+   },
+   {
+    "quote": "calltree.jp - Crunchbase Company Profile & Funding — Frequently Asked Questions Where is calltree.jp's headquarters? calltree.jp is located in Shinjuku, Yamanashi, Japan.",
+    "url": "https://www.crunchbase.com/organization/calltree-jp",
+    "pass": 3
+   },
+   {
+    "quote": "calltree.jp - CALLTREE | CALLTREE（コールツリー）アウト... - CALL... — calltree.jp. CALLTREE（コールツリー）アウトバウンドお任せください！コンタクトセンターの自動架電テレマーケティング｜クラウド型CTIコールセンターシステム-コールセンターキャリア10年以上使いやすさ徹底追及カスタマイズも自由自在",
+    "url": "https://sur.ly/i/calltree.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "About Us – CallTree — CallTree’s journey invokes a purpose with duality. On one end, we want to streamline the nearshoring process for US based companies/entrepreneurs and beyond by creating a highly efficient and effective easy to use platform. On the other end, we are cultivating an environment for personal and career growth for those that choose their path with CallTree in Mexico. This sense of",
+    "url": "https://calltreebpo.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "XERJ.ai — Case study: semantic analytics in one request — The question came from calltree.ai, who run AI over support interactions — a motivating party, not a customer. The walkthrough has the three runnable scripts, the recorded output and the scaling guide.",
+    "url": "https://xerj.org/case-studies/calltree-analytics",
+    "pass": 3
+   },
+   {
+    "quote": "xerj/docs/case-studies/calltree-analytics at main · xerj-org ... — Who: calltree.ai runs AI over customer support interactions. They have per-customer embedding models that cluster conversations by issue type and score them against canonical records (knowledgebase articles, team guidance), and they want \"deep research\" style reports over past interactions — e.g. \"of calls about wifi issues, how ma",
+    "url": "https://github.com/xerj-org/xerj/tree/main/docs/case-studies/calltree-analytics",
+    "pass": 3
+   },
+   {
+    "quote": "calltree.ai - Meet your AI CX agent. — Calltree Assistant surfaces Agent insights to human representatives handling customer calls. Assistant tackles the dirty work, like tracking down the right article in the knowledge base or checking backorder status on a part, so representatives can focus on connecting with the customer and making them feel heard.",
+    "url": "https://calltree.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Calltree: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Frequently Asked Questions Who founded Calltree? Calltree was founded in 2025 by Robertson Taylor (Founder) and Kun Qian (Founder). How much funding has Calltree raised? Calltree has raised $500K in total across 1 funding round.",
+    "url": "https://startupintros.com/orgs/calltree",
+    "pass": 3
+   },
+   {
+    "quote": "CallTree AI 2026 Company Profile: Valuation, Funding ... — Information on valuation, funding, cap tables, investors, and executives for CallTree AI. Use the PitchBook Platform to explore the full profile.",
+    "url": "https://pitchbook.com/profiles/company/758276-65",
+    "pass": 3
+   },
+   {
+    "quote": "Calltree — Funding, Investors & Team | Seedtable — Jul 29, 2026 · Investors & Ownership Calltree 's rounds can't be priced closely enough to model who owns what — but its backers, and the funds closest to them in the co-investment graph, are on the investors page.",
+    "url": "https://seedtable.com/companies/calltree",
+    "pass": 3
+   },
+   {
+    "quote": "Calltree Revenue 2025: $440K Est. - getlatka.com — Aug 10, 2026 · Calltree 2025 estimated revenue: $440K. 4 employees. Industry: AI Chatbots Software. Founded 2025. HQ: United States. Updated Aug 10, 2026.",
+    "url": "https://getlatka.com/companies/calltree.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Calltree AI: Funding, Investors & Team (Oct 2026) | FundedIQ — How many employees does Calltree AI have? Calltree AI is in the 1-10 employee band. How does Calltree AI's funding compare to other Administrative Services startups? Calltree AI's latest round of $500k is below the $5.0M median round size for Administrative Services companies on FundedIQ across 1,897 tracked companies over the last two",
+    "url": "https://fundediq.co/calltree-ai-calltree-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "XERJ.ai — Case study: semantic analytics in one request",
+    "url": "https://xerj.org/case-studies/calltree-analytics",
+    "pass": 3
+   },
+   {
+    "quote": "CASE STUDY · SEMANTIC ANALYTICS",
+    "url": "https://xerj.org/case-studies/calltree-analytics",
+    "pass": 3
+   },
+   {
+    "quote": "Case study: deep-research analytics over support conversations (calltree.ai)",
+    "url": "https://github.com/xerj-org/xerj/tree/main/docs/case-studies/calltree-analytics",
+    "pass": 3
+   },
+   {
+    "quote": "What this case study shows:",
+    "url": "https://github.com/xerj-org/xerj/tree/main/docs/case-studies/calltree-analytics",
+    "pass": 3
+   },
+   {
+    "quote": "Warehouse (Snowflake/BigQuery/Databricks) + vector add-on",
+    "url": "https://github.com/xerj-org/xerj/tree/main/docs/case-studies/calltree-analytics",
+    "pass": 3
+   },
+   {
+    "quote": "strong retrieval, weak columnar analytics; you'd still need a warehouse for the SQL half",
+    "url": "https://github.com/xerj-org/xerj/tree/main/docs/case-studies/calltree-analytics",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "3 example hits → LLM narrative",
+    "url": "https://xerj.org/case-studies/calltree-analytics",
+    "pass": 3
+   },
+   {
+    "quote": "Evidence arrives separately.",
+    "url": "https://xerj.org/case-studies/calltree-analytics",
+    "pass": 3
+   },
+   {
+    "quote": "The example conversations the LLM narrative needs are yet another query.",
+    "url": "https://xerj.org/case-studies/calltree-analytics",
+    "pass": 3
+   },
+   {
+    "quote": "Example hits return in the same response; one LLM call turns them into the narrative.",
+    "url": "https://xerj.org/case-studies/calltree-analytics",
+    "pass": 3
+   },
+   {
+    "quote": "deep-research narrative (LLM over the retrieved examples):",
+    "url": "https://xerj.org/case-studies/calltree-analytics",
+    "pass": 3
+   },
+   {
+    "quote": "RECORDED RUN · SEEDED-GENERATOR OUTPUT · 54 OF THE 80 CARRIED A WIFI BAND; THE 26 N/A ARE FILTERED CLIENT-SIDE · 03_deep_research.py",
+    "url": "https://xerj.org/case-studies/calltree-analytics",
+    "pass": 3
+   },
+   {
+    "quote": "deep-research narrative (LLM over the retrieved examples):",
+    "url": "https://github.com/xerj-org/xerj/tree/main/docs/case-studies/calltree-analytics",
+    "pass": 3
+   },
+   {
+    "quote": "retrieved examples into the narrative. That is the whole deep-research loop.",
+    "url": "https://github.com/xerj-org/xerj/tree/main/docs/case-studies/calltree-analytics",
+    "pass": 3
+   },
+   {
+    "quote": "Each conversation carries structured columns (",
+    "url": "https://github.com/xerj-org/xerj/tree/main/docs/case-studies/calltree-analytics",
+    "pass": 3
+   },
+   {
+    "quote": "CallTree AI has 8 total employees.",
+    "url": "https://pitchbook.com/profiles/company/758276-65",
+    "pass": 3
+   },
+   {
+    "quote": "What is CallTree AI’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/758276-65",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for CallTree AI is",
+    "url": "https://pitchbook.com/profiles/company/758276-65",
+    "pass": 3
+   },
+   {
+    "quote": "Calltree Revenue 2025: $440K Est.",
+    "url": "https://getlatka.com/companies/calltree.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Calltree has not published its revenue. GetLatka estimates it at about $440K a year (September 2025).",
+    "url": "https://getlatka.com/companies/calltree.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Calltree has 4 employees (September 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/calltree.ai",
+    "pass": 3
+   },
+   {
+    "quote": "What is Calltree's revenue?",
+    "url": "https://getlatka.com/companies/calltree.ai",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Calltree's revenue at about",
+    "url": "https://getlatka.com/companies/calltree.ai",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Calltree have?",
+    "url": "https://getlatka.com/companies/calltree.ai",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of September 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/calltree.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/calltree.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/calltree.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/calltree.ai",
+    "pass": 3
+   },
+   {
+    "quote": "・Revenue accumulates through a stock-based model",
+    "url": "https://note.com/stratedge_ota/n/na9a1eb509ab2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "AWS在職中に数千万ドル規模のARR（年間経常収益）を達成するプロダクト群を立ち上げた経験もあり、その深いドメイン知見を活かしてCalltree AIを立ち上げました (",
+    "url": "https://note.com/takuya_t/n/n13209abbbab4",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Thoroughly Streamline Remote Telemarketing with CALLTREE CALLTREE is a very reliable tool for those seeking to streamline their telemarketing operations. Its ease of use, customer management functions, and excellent cost performance will help you proceed with your work even more smoothly.",
+    "url": "https://note.com/rich_peony778/n/nbd34a9ace798?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "CALLTREE（コールツリー）で在宅テレアポを徹底的に効率化 Sep 6, 2024 · CALLTREE（コールツリー）と他のテレアポツールの比較 1、使いやすさ: CALLTREE（コールツリー）のインターフェースは直感的で、操作が非常に簡単です。 初めてのテレアポツールでも迷うことがなく、複雑な設定なしでスムーズに業務を開始できます。",
+    "url": "https://note.com/rich_peony778/n/nbd34a9ace798",
+    "pass": 3
+   },
+   {
+    "quote": "Why does a telemarketing company build SaaS?｜オタ社長＠起業16年... いいなと思ったら応援しよう！ チップで応援する #価値 #現場 #SaaS #プロダクト #DocTrack #CALLTREE 6 オタ社長＠起業16年のリアルを公開 フォロー 総務省後援SaaSAward3年連続4サービス受賞｜経済産業省DX認定企業｜ビジネスモデル特許取得｜サラリーマン経験ゼロで起業｜コールセンター業界20年 ...",
+    "url": "https://note.com/stratedge_ota/n/na9a1eb509ab2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Y Combinator採択企業 Calltree AI 詳細分析｜冨永 拓也 | 1ヶ月でAWS... Feb 28, 2025 · 1. 背景・概要 ビジネス概要・事業領域: Calltree AIは、コールセンター業務の効率化に特化したB2B SaaSスタートアップです。AIエージェントがコールセンターの通話音声やオペレーターの画面操作記録を解析し、業務フロー上の非効率を自動検出してその時間コストを定量化します (Calltree AI: AI ...",
+    "url": "https://note.com/takuya_t/n/n13209abbbab4",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Thoroughly Streamline Remote Telemarketing with CALLTREE｜伊藤雅也",
+    "url": "https://note.com/rich_peony778/n/nbd34a9ace798?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Thoroughly Streamline Remote Telemarketing with CALLTREE",
+    "url": "https://note.com/rich_peony778/n/nbd34a9ace798?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Currently, I am also working in a sales role. Previously, I primarily worked in offices, but due to the COVID-19 pandemic and changes in my lifestyle, I shifted to remote work. I was struggling in particular with streamlining my telemarketing tasks when I encountered a tool called CALLTREE.",
+    "url": "https://note.com/rich_peony778/n/nbd34a9ace798?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Based on my experience actually performing telemarketing using CALLTREE, I will introduce its convenience and how it differs from other tools in detail. I will share how my remote work became smoother and how CALLTREE significantly improved my work efficiency.",
+    "url": "https://note.com/rich_peony778/n/nbd34a9ace798?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What is the appeal of CALLTREE?",
+    "url": "https://note.com/rich_peony778/n/nbd34a9ace798?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "CALLTREE is a cloud-based telemarketing tool that dramatically streamlines telemarketing operations. The main features of this tool include everything from list management and automatic call dialing to progress management and centralized customer information management. A major appeal is being able to manage all tasks centrally without relying on multiple tools or manual work. I chose this tool be",
+    "url": "https://note.com/rich_peony778/n/nbd34a9ace798?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Comparison of CALLTREE and other telemarketing tools",
+    "url": "https://note.com/rich_peony778/n/nbd34a9ace798?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1. Ease of use: The CALLTREE interface is intuitive and very easy to operate. Even if it is your first telemarketing tool, you won't get lost, and you can start working smoothly without complex settings.",
+    "url": "https://note.com/rich_peony778/n/nbd34a9ace798?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "CALLTREE（コールツリー）で在宅テレアポを徹底的に効率化｜伊藤雅也",
+    "url": "https://note.com/rich_peony778/n/nbd34a9ace798",
+    "pass": 3
+   },
+   {
+    "quote": "CALLTREE（コールツリー）で在宅テレアポを徹底的に効率化",
+    "url": "https://note.com/rich_peony778/n/nbd34a9ace798",
+    "pass": 3
+   },
+   {
+    "quote": "現在、私は営業職としても活動をしています。以前はオフィス等での勤務が中心でしたが、コロナ禍やライフスタイルの変化により、在宅勤務にシフトしました。特にテレアポ業務の効率化に苦労していたところ、CALLTREE（コールツリー）というツールに出会いました。",
+    "url": "https://note.com/rich_peony778/n/nbd34a9ace798",
+    "pass": 3
+   },
+   {
+    "quote": "CALLTREE（コールツリー）を使用して実際にテレアポを行った体験をもとに、その利便性や他のツールとの違いを詳しくご紹介します。どのようにして在宅勤務がスムーズに進むようになったのか、そしてCALLTREE（コールツリー）がどのように業務の効率を大幅に向上させたのかをお伝えします。",
+    "url": "https://note.com/rich_peony778/n/nbd34a9ace798",
+    "pass": 3
+   },
+   {
+    "quote": "CALLTREE（コールツリー）の魅力とは？",
+    "url": "https://note.com/rich_peony778/n/nbd34a9ace798",
+    "pass": 3
+   },
+   {
+    "quote": "CALLTREE（コールツリー）は、テレアポ業務を劇的に効率化するクラウド型テレアポツールです。このツールの主な特徴は、リスト管理からコールの自動発信、進捗管理、顧客情報の一元管理までを網羅している点です。複数のツールや手作業に頼ることなく、すべての業務を一元的に管理できるのが大きな魅力です。特に、使いやすさと在宅でのテレアポ業務に特化した機能が非常に優れていると感じ、私がこのツールを選びました。",
+    "url": "https://note.com/rich_peony778/n/nbd34a9ace798",
+    "pass": 3
+   },
+   {
+    "quote": "CALLTREE（コールツリー）と他のテレアポツールの比較",
+    "url": "https://note.com/rich_peony778/n/nbd34a9ace798",
+    "pass": 3
+   },
+   {
+    "quote": "１、使いやすさ: CALLTREE（コールツリー）のインターフェースは直感的で、操作が非常に簡単です。初めてのテレアポツールでも迷うことがなく、複雑な設定なしでスムーズに業務を開始できます。",
+    "url": "https://note.com/rich_peony778/n/nbd34a9ace798",
+    "pass": 3
+   },
+   {
+    "quote": "Why does a telemarketing company build SaaS?｜オタ社長＠起業16年のリアルを公開",
+    "url": "https://note.com/stratedge_ota/n/na9a1eb509ab2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Why does a telemarketing company build SaaS?",
+    "url": "https://note.com/stratedge_ota/n/na9a1eb509ab2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"Why did you decide to build that in-house?\"",
+    "url": "https://note.com/stratedge_ota/n/na9a1eb509ab2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It's a question I've been asked many times.",
+    "url": "https://note.com/stratedge_ota/n/na9a1eb509ab2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "To be honest, I didn't intend to do SaaS from the beginning.",
+    "url": "https://note.com/stratedge_ota/n/na9a1eb509ab2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In fact, I was in the exact opposite position.",
+    "url": "https://note.com/stratedge_ota/n/na9a1eb509ab2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "We are not a development company.",
+    "url": "https://note.com/stratedge_ota/n/na9a1eb509ab2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "We are a sales agency, what you might call a telemarketing company.",
+    "url": "https://note.com/stratedge_ota/n/na9a1eb509ab2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Y Combinator採択企業 Calltree AI 詳細分析｜冨永拓也 / 株式会社Leach CEO",
+    "url": "https://note.com/takuya_t/n/n13209abbbab4",
+    "pass": 3
+   },
+   {
+    "quote": "Y Combinator採択企業 Calltree AI 詳細分析",
+    "url": "https://note.com/takuya_t/n/n13209abbbab4",
+    "pass": 3
+   },
+   {
+    "quote": "Calltree AIは、コールセンター業務の効率化に特化したB2B SaaSスタートアップです。AIエージェントがコールセンターの通話音声やオペレーターの画面操作記録を解析し、業務フロー上の非効率を自動検出してその時間コストを定量化します (",
+    "url": "https://note.com/takuya_t/n/n13209abbbab4",
+    "pass": 3
+   },
+   {
+    "quote": "Calltree AI: AI operations analyst for call center workflows | Y Combinator",
+    "url": "https://note.com/takuya_t/n/n13209abbbab4",
+    "pass": 3
+   },
+   {
+    "quote": ")。例えば、クレジットカードの紛争対応においてオペレーターが毎回30秒かけて手動のデータ入力を行っている場合、Calltreeはその無駄な30秒を検出し、改善策を提案するとともに削減可能な運用コスト（OPEX）を算出します (",
+    "url": "https://note.com/takuya_t/n/n13209abbbab4",
+    "pass": 3
+   },
+   {
+    "quote": ")。解析結果はダッシュボードやレポートとして提供され、運用責任者（VP of Operationsなど）が根拠のあるビジネスケースを構築し、改善施策の優先順位付けに活用できるよう支援します (",
+    "url": "https://note.com/takuya_t/n/n13209abbbab4",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Calltree BPO (@CalltreeBPO) / Posts / X CallTree is a BPO Company based in Tijuana, MX that caters to Small to Medium Sized Businesses Globally. Our unique business model allows you to expand remotely",
+    "url": "https://x.com/CalltreeBPO",
+    "pass": 3
+   },
+   {
+    "quote": "Robertson Taylor (@robertson_cx) / X CTO @ Calltree (YCW25) @robertson_cx CTO @ Calltree (YCW25) San Francisco calltree.ai Joined June 2025 36Following 0Followers Mention Follow ...",
+    "url": "https://x.com/robertson_cx",
+    "pass": 3
+   },
+   {
+    "quote": "\\おすすめコールセンターシステム16選／ Mostable：直感的なUI／在宅... \\おすすめコールセンターシステム16選／ Mostable：直感的なUI／在宅架電OK CALLTREE：PC画面ワンクリック発信 InfiniTalk：48業種・500社超の導入実績年度末の問い合わせ増加・在宅シフトに備えて自社に合うシステムを今すぐチェック🔽 012cloud.jp/article/callce…",
+    "url": "https://x.com/wizcloud_column/status/2021720910894440854",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Calltree AI - LinkedIn Calltree AI | 430 followers on LinkedIn. AI customer support for technical troubleshooting | Calltree makes Agentic AI reps for customer service tailored for each client.",
+    "url": "https://www.linkedin.com/company/calltree-ai",
+    "pass": 3
+   },
+   {
+    "quote": "CallTree Outsourcing - Business Development | LinkedIn Business Development · Experience: Calltree IT Consulting · Education: Bangalore University · Location: Haora · 13 connections on LinkedIn. View CallTree Outsourcing’s profile on LinkedIn, a professional community of 1 billion members.",
+    "url": "https://in.linkedin.com/in/calltree-outsourcing-b7bbb998",
+    "pass": 3
+   },
+   {
+    "quote": "CallTree BPO | LinkedIn CallTree BPO | 203 seguidores en LinkedIn. Plante la semilla, extienda sus raíces y crezca de forma remota. | CallTree crea una solución para que cualquier propietario de empresa reduzca los costos y las responsabilidades que conlleva el funcionamiento de una empresa, como arrendamiento de oficinas, equipos de oficina, seguros (responsabilidad comercial general, compensació",
+    "url": "https://mx.linkedin.com/company/calltree-bpo",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "CallTree BPO | Tijuana - FacebookCallTree BPO - FacebookCall Tree - FacebookCallTree - CALLTREE BPO. Now Hiring! www.calltreebpo.com ...CallTree BPO - FacebookCallTree BPO - BPO industry is growing, in Mexico... - FacebookCallTree BPO - CALLTREE BPO. Now Hiring!... - Facebook Jul 15, 2022 · CallTree BPO, Tijuana. 1,669 likes · 4 were here. CallTree is a BPO Company based in Tijuana, MX that caters",
+    "url": "https://www.facebook.com/calltreebpo/",
+    "pass": 3
+   },
+   {
+    "quote": "CallTree BPO - Facebook CallTree BPO - Facebook ... CallTree BPO",
+    "url": "https://www.facebook.com/calltreebpo/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Call Tree - Facebook Call Tree is on Facebook. Join Facebook to connect with Call Tree and others you may know. Facebook gives people the power to share and makes the world more open and connected.",
+    "url": "https://www.facebook.com/calltree/",
+    "pass": 3
+   },
+   {
+    "quote": "CallTree - CALLTREE BPO. Now Hiring! www.calltreebpo.com ... Feb 7, 2022 · CallTree BPO Jul 15, 2022 Khris Lopez and Briana Torres 2 CallTree BPO Jul 14, 2022 BPO industry is growing, in Mexico represent more than 200,000 jobs each year! Come to join us! Plant the seed, grow your career. 1 CallTree BPO Jul 14, 2022 CallTree BPO Jul 13, 2022 ...",
+    "url": "https://www.facebook.com/calltreebpo/photos/calltree-bpo-now-hiring-wwwcalltreebpocomcareersquickly-apply-herehttpsformsgleo/255797300035866/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://calltree.ai/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://calltree.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://calltree.jp/introduction/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boxil.jp/service/9153/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dym.asia/biznavi/services/calltree-5ilfhe/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://calltree.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://calltree.jp/introduction/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/calltree-jp",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://sur.ly/i/calltree.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xerj.org/case-studies/calltree-analytics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/xerj-org/xerj/tree/main/docs/case-studies/calltree-analytics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.yonyx.com/decision-tree-examples/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/calltree",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/758276-65",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://seedtable.com/companies/calltree",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/calltree.ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/rich_peony778/n/nbd34a9ace798?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/rich_peony778/n/nbd34a9ace798",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/stratedge_ota/n/na9a1eb509ab2?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/takuya_t/n/n13209abbbab4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/CalltreeBPO",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/robertson_cx",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/wizcloud_column/status/2021720910894440854",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/calltree-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/calltree-outsourcing-b7bbb998",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://mx.linkedin.com/company/calltree-bpo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/calltreebpo/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/calltreebpo/about/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/calltree/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/calltreebpo/photos/calltree-bpo-now-hiring-wwwcalltreebpocomcareersquickly-apply-herehttpsformsgleo/255797300035866/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/CalltreeBPO",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Calltree 日本 導入",
+   "results": [
+    "https://calltree.jp/",
+    "https://calltree.jp/introduction/",
+    "https://boxil.jp/service/9153/",
+    "https://dym.asia/biznavi/services/calltree-5ilfhe/",
+    "https://www.itreview.jp/products/calltree/profile",
+    "https://digi-mado.jp/products/69ab642a-84ce-4dc2-b562-88aae88c3bc3/cases/",
+    "https://it-trend.jp/cti/19720/case"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Calltree 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://chigai-hikaku.com/?p=36920"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Calltree Japan",
+   "results": [
+    "https://calltree.jp/",
+    "https://calltree.jp/introduction/",
+    "https://www.crunchbase.com/organization/calltree-jp",
+    "https://sur.ly/i/calltree.jp/",
+    "https://calltreebpo.com/about-us/",
+    "https://calltree.ai/",
+    "https://crm.solutions/en/crm-suppliers/call-tree/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Calltree manufacturing customer case study",
+   "results": [
+    "https://xerj.org/case-studies/calltree-analytics",
+    "https://github.com/xerj-org/xerj/tree/main/docs/case-studies/calltree-analytics",
+    "https://calltree.ai/",
+    "https://corp.yonyx.com/decision-tree-examples/",
+    "https://azure.microsoft.com/en-us/resources/customer-stories/",
+    "https://fondo.com/blog/calltree-launches",
+    "https://www.grantthornton.com/insights/case-studies/manufacturing/2025/customer-experience-transformation-at-a-global-manufacturer"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Calltree white label OR reseller OR partner program",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Calltree founded funding employees revenue",
+   "results": [
+    "https://startupintros.com/orgs/calltree",
+    "https://pitchbook.com/profiles/company/758276-65",
+    "https://seedtable.com/companies/calltree",
+    "https://getlatka.com/companies/calltree.ai",
+    "https://fundediq.co/calltree-ai-calltree-ai-funding/",
+    "https://tracxn.com/d/companies/calltree-ai/__xs4CZ2JkC34epbWM4uWOcrLqTtq6j9s8lGdFlA1C3Pc",
+    "https://www.crunchbase.com/organization/calltree-ai"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Calltree",
+   "results": [
+    "https://note.com/rich_peony778/n/nbd34a9ace798?hl=en",
+    "https://note.com/rich_peony778/n/nbd34a9ace798",
+    "https://note.com/stratedge_ota/n/na9a1eb509ab2?hl=en",
+    "https://note.com/takuya_t/n/n13209abbbab4",
+    "https://note.com/tag/不斉自己触媒反応",
+    "https://note.com/seigo77",
+    "https://note.com/akih/n/n6cc428c21d80"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Calltree",
+   "results": [
+    "https://x.com/CalltreeBPO",
+    "https://x.com/robertson_cx",
+    "https://x.com/wizcloud_column/status/2021720910894440854",
+    "https://x.com/ElianaBrigo2/status/2116160311694639207",
+    "https://x.com/raunaqbn/status/2100042003807601124",
+    "https://x.com/TRobinsonNewEra/status/2115942393174167572",
+    "https://x.com/NoahFentys/status/2118178286157140113"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Calltree",
+   "results": [
+    "https://www.linkedin.com/company/calltree-ai",
+    "https://www.linkedin.com/pulse/call-tree-cyber-security-incident-management-aby-s-i7qsc",
+    "https://in.linkedin.com/in/calltree-outsourcing-b7bbb998",
+    "https://mx.linkedin.com/company/calltree-bpo",
+    "https://mx.linkedin.com/in/marco-olmos-0a3657244",
+    "https://www.linkedin.com/in/robertsonotaylor",
+    "https://eg.linkedin.com/in/mazen-zayan-559687408"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Calltree",
+   "results": [
+    "https://www.facebook.com/calltreebpo/",
+    "https://www.facebook.com/calltreebpo/about/",
+    "https://www.facebook.com/calltree/",
+    "https://www.facebook.com/calltreebpo/photos/calltree-bpo-now-hiring-wwwcalltreebpocomcareersquickly-apply-herehttpsformsgleo/255797300035866/",
+    "https://www.facebook.com/people/CallTree-BPO/100082149871245/",
+    "https://www.facebook.com/calltreebpo/posts/bpo-industry-is-growing-in-mexico-represent-more-than-200000-jobs-each-yearcome-/363460445936217/",
+    "https://www.facebook.com/calltreebpo/posts/calltree-bpo-now-hiring-wwwcalltreebpocomcareersquickly-apply-herehttpsformsgleo/255797800035816/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Calltree note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/ncc37a1d4aa0b",
+    "https://note.com/sadaaki",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Calltree X 投稿",
+   "results": [
+    "https://x.com/CalltreeBPO",
+    "https://calltree.jp/",
+    "https://calltree.jp/post_list/",
+    "https://oyakudachiking.com/x-tree/",
+    "https://note.com/ai_benkyo/n/ne0f813d1e370",
+    "https://note.com/riskillnomori/n/n2905882a281c",
+    "https://mh-story.sakura.ne.jp/best-twitter-scheduling-tools/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）"
+ }
+}

@@ -8,100 +8,8 @@
  ],
  "context": "数字の点検",
  "kind": "market",
- "researched_at": "2026-11-09T07:55:39.360479+00:00",
+ "researched_at": "2026-11-10T18:09:58.536945+00:00",
  "evidence": {
-  "突き合わせ・推定": [
-   {
-    "quote": "社内の概況説明であれば小数点以下1桁、数値を照合する計算表なら2桁以上を残すなど、用途によって適切な精度は異なります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "仮説を立て、データで検証する思考を身に付ける",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "目標値から必要な年率を逆算する使い方もあります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "欠損値や集計方法の変更がある場合は、計算結果にどのような制約があるかを記録しておくと、後の検証がしやすくなります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "インプライド・ボラティリティは、オプションの市場価格から逆算される、将来の価格変動に対する市場の見込みです",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "代表的なものが、過去の価格データから算出するヒストリカル・ボラティリティ（HV）と、オプション価格から逆算されるインプライド・ボラティリティ（IV）です",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "IVは、オプションの市場価格を、オプション評価の仕組みに当てはめて逆算した変動率です",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "売買のルールを検証するときは、ボラティリティの異なる局面を分けて振り返ると役立ちます",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "設定やデータ移行は、検証用の環境や少数のデータを使って段階的に進めます",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "従業員番号や所属コードなどの基本情報を照合し、移行後に検索や帳票出力が正しくできるかを確認します",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "将来の出来事を考える際は、担当者一人の見込みだけに頼らず、過去の実績、専門家の意見、顧客調査、技術検証など、利用できる根拠を確認します",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "実際の判断では、自社のデータや検証結果に基づく値を使います",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "学習に使わない検証用データで予測を確かめ、分類なら正解率や適合率・再現率など、目的に合った指標を使います",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "機械学習では、学習データへの当てはまりだけで評価せず、未知のデータで性能を検証し、複雑になりすぎた木を調整します",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "この値は階級値を代表値として扱った推定値です",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
   "実例": [
    {
     "quote": "基本式だけでなく、年数の数え方、具体的な計算例、Excelやスプレッドシートに入力する式、結果の読み方まで順に確認しましょう",
@@ -261,6 +169,110 @@
    },
    {
     "quote": "5-3. 事例：",
+    "url": "https://finance.logmi.jp/articles/380543",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "対象期間をあいまいにしたまま式へ進むと、年数を誤りやすくなります",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "年数の数え方は、CAGRで間違いが生じやすいポイントです",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "その場合、数式の末尾にさらに「×100」を加えると、表示が100倍になるため注意してください",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "複数の事業や指標で計算する場合は、式の参照先を列見出しと照らし合わせると誤りを減らせます",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "反対に0.1067と表示されたままでも計算自体が間違いとは限らず、単に表示形式が一般形式になっている可能性があります",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ただし、年ごとの比率の扱いには注意が必要です",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "初期値または最終値がマイナスの場合も、一般的なCAGRの解釈には注意が必要です",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "値が想定と合わないときは、数字の入力だけでなく、期間の端点や年度の定義に誤りがないか見直してください",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "【基礎から解説】ボラティリティの意味とは？リスクとの関係や活用方法、注意点",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ここでは、基本的な意味から計測方法、株式・FXでの見方、投資判断への活用、見落としやすい注意点まで順に解説します",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "利益の大きさを保証する指標として扱うのは誤りです",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "「ボラティリティが低い資産なら安心」と考えるのも注意が必要です",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "また、ボラティリティの数値だけを見て、投資対象を選ぶことにも注意が必要です",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "「変動率」は、使われる場面によって意味が異なるため注意が必要です",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "標準偏差を読む際には、リターンが平均的な形で分布するという前提にも注意が必要です",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "4. CAGRの注意点",
+    "url": "https://finance.logmi.jp/articles/380543",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "CAGRの計算においては、外れ値や異常値の影響に注意が必要です",
     "url": "https://finance.logmi.jp/articles/380543",
     "pass": 3,
     "first_seen": "2026-11-09"
@@ -510,106 +522,94 @@
     "first_seen": "2026-11-09"
    }
   ],
-  "失敗・落とし穴": [
+  "突き合わせ・推定": [
    {
-    "quote": "対象期間をあいまいにしたまま式へ進むと、年数を誤りやすくなります",
+    "quote": "社内の概況説明であれば小数点以下1桁、数値を照合する計算表なら2桁以上を残すなど、用途によって適切な精度は異なります",
     "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "年数の数え方は、CAGRで間違いが生じやすいポイントです",
+    "quote": "仮説を立て、データで検証する思考を身に付ける",
     "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "その場合、数式の末尾にさらに「×100」を加えると、表示が100倍になるため注意してください",
+    "quote": "目標値から必要な年率を逆算する使い方もあります",
     "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "複数の事業や指標で計算する場合は、式の参照先を列見出しと照らし合わせると誤りを減らせます",
+    "quote": "欠損値や集計方法の変更がある場合は、計算結果にどのような制約があるかを記録しておくと、後の検証がしやすくなります",
     "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "反対に0.1067と表示されたままでも計算自体が間違いとは限らず、単に表示形式が一般形式になっている可能性があります",
+    "quote": "インプライド・ボラティリティは、オプションの市場価格から逆算される、将来の価格変動に対する市場の見込みです",
     "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "ただし、年ごとの比率の扱いには注意が必要です",
+    "quote": "代表的なものが、過去の価格データから算出するヒストリカル・ボラティリティ（HV）と、オプション価格から逆算されるインプライド・ボラティリティ（IV）です",
     "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "初期値または最終値がマイナスの場合も、一般的なCAGRの解釈には注意が必要です",
+    "quote": "IVは、オプションの市場価格を、オプション評価の仕組みに当てはめて逆算した変動率です",
     "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "値が想定と合わないときは、数字の入力だけでなく、期間の端点や年度の定義に誤りがないか見直してください",
+    "quote": "売買のルールを検証するときは、ボラティリティの異なる局面を分けて振り返ると役立ちます",
     "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "【基礎から解説】ボラティリティの意味とは？リスクとの関係や活用方法、注意点",
+    "quote": "設定やデータ移行は、検証用の環境や少数のデータを使って段階的に進めます",
     "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "ここでは、基本的な意味から計測方法、株式・FXでの見方、投資判断への活用、見落としやすい注意点まで順に解説します",
+    "quote": "従業員番号や所属コードなどの基本情報を照合し、移行後に検索や帳票出力が正しくできるかを確認します",
     "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "利益の大きさを保証する指標として扱うのは誤りです",
+    "quote": "将来の出来事を考える際は、担当者一人の見込みだけに頼らず、過去の実績、専門家の意見、顧客調査、技術検証など、利用できる根拠を確認します",
     "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "「ボラティリティが低い資産なら安心」と考えるのも注意が必要です",
+    "quote": "実際の判断では、自社のデータや検証結果に基づく値を使います",
     "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "また、ボラティリティの数値だけを見て、投資対象を選ぶことにも注意が必要です",
+    "quote": "学習に使わない検証用データで予測を確かめ、分類なら正解率や適合率・再現率など、目的に合った指標を使います",
     "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "「変動率」は、使われる場面によって意味が異なるため注意が必要です",
+    "quote": "機械学習では、学習データへの当てはまりだけで評価せず、未知のデータで性能を検証し、複雑になりすぎた木を調整します",
     "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "標準偏差を読む際には、リターンが平均的な形で分布するという前提にも注意が必要です",
+    "quote": "この値は階級値を代表値として扱った推定値です",
     "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "4. CAGRの注意点",
-    "url": "https://finance.logmi.jp/articles/380543",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "CAGRの計算においては、外れ値や異常値の影響に注意が必要です",
-    "url": "https://finance.logmi.jp/articles/380543",
     "pass": 3,
     "first_seen": "2026-11-09"
    }
@@ -624,17 +624,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/susuki051424/n/n13a8ed4edbc3",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/akanekofuku/n/n3992804389d6",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/susuki051424/n/n63371b5b1677",
     "status": "ok",
     "method": "http"
    },
@@ -644,7 +634,17 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/golden_inago/n/n6652111d49c8",
+    "url": "https://note.com/susuki051424/n/n63371b5b1677",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/susuki051424/n/n13a8ed4edbc3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nimu_money/n/nbc4d3c653a87",
     "status": "ok",
     "method": "http"
    },
@@ -654,13 +654,13 @@
     "method": "http"
    },
    {
-    "url": "https://www.m-keiei.jp/musashinocolumn/cagr",
-    "status": "ok",
+    "url": "https://biz.moneyforward.com/erp/basic/3250/",
+    "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://biz.moneyforward.com/erp/basic/3250/",
-    "status": "http_403",
+    "url": "https://www.m-keiei.jp/musashinocolumn/cagr",
+    "status": "ok",
     "method": "http"
    },
    {
@@ -669,17 +669,12 @@
     "method": "http"
    },
    {
-    "url": "https://smbiz.asahi.com/article/14718629",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.mjs.co.jp/topics/keieisense/20240913/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smbiz.asahi.com/article/14718629",
     "status": "ok",
     "method": "http"
    },
@@ -714,18 +709,8 @@
     "method": "http"
    },
    {
-    "url": "https://www.kabugraph.com/articles/cagr",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.investopedia.com/terms/c/cagr.asp",
     "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://vantainsights.com/insights/what-is-cagr",
-    "status": "ok",
     "method": "http"
    },
    {
@@ -734,7 +719,12 @@
     "method": "http"
    },
    {
-    "url": "https://heyiris.ai/blog/compound-annual-growth-explained",
+    "url": "https://vantainsights.com/insights/what-is-cagr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://heyiris.ai/blog/compound-annual-growth",
     "status": "ok",
     "method": "http"
    },
@@ -744,7 +734,7 @@
     "method": ""
    },
    {
-    "url": "https://en.wikipedia.org/wiki/Compound_annual_growth_rate",
+    "url": "https://www.omnicalculator.com/finance/cagr",
     "status": "ok",
     "method": "http"
    }
@@ -755,15 +745,15 @@
    "query": "掲載された年率・CAGRの算出方法の確かめ方（端点の複利・平均・回帰・期間の区切り） site:note.com",
    "results": [
     "https://note.com/investor_kaeru/n/n2beba6ad11a0",
-    "https://note.com/susuki051424/n/n13a8ed4edbc3",
     "https://note.com/akanekofuku/n/n3992804389d6",
-    "https://note.com/susuki051424/n/n63371b5b1677",
     "https://note.com/legal_macaw9792/n/n72a2469b8ead",
-    "https://note.com/golden_inago/n/n6652111d49c8",
-    "https://note.com/nimu_money/n/nbc4d3c653a87"
+    "https://note.com/susuki051424/n/n63371b5b1677",
+    "https://note.com/susuki051424/n/n13a8ed4edbc3",
+    "https://note.com/nimu_money/n/nbc4d3c653a87",
+    "https://note.com/golden_inago/n/n6652111d49c8"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -771,14 +761,14 @@
    "query": "掲載された年率・CAGRの算出方法の確かめ方（端点の複利・平均・回帰・期間の区切り） note",
    "results": [
     "https://www.kaonavi.jp/dictionary/cagr/",
-    "https://www.m-keiei.jp/musashinocolumn/cagr",
     "https://biz.moneyforward.com/erp/basic/3250/",
+    "https://www.m-keiei.jp/musashinocolumn/cagr",
     "https://support.microsoft.com/ja-jp/excel/calculate-a-compound-annual-growth-rate-cagr-in-excel",
+    "https://www.mjs.co.jp/topics/keieisense/20240913/",
     "https://smbiz.asahi.com/article/14718629",
     "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "https://www.mjs.co.jp/topics/keieisense/20240913/",
-    "https://finance.logmi.jp/articles/380543",
     "https://expact.jp/cagr_cmgr/",
+    "https://finance.logmi.jp/articles/380543",
     "https://www.issoh.co.jp/column/details/9789/"
    ],
    "engines": [
@@ -792,13 +782,13 @@
    "results": [
     "https://www.kaonavi.jp/dictionary/cagr/",
     "https://biz.moneyforward.com/erp/basic/3250/",
-    "https://www.m-keiei.jp/musashinocolumn/cagr",
     "https://www.mjs.co.jp/topics/keieisense/20240913/",
+    "https://www.m-keiei.jp/musashinocolumn/cagr",
     "https://smbiz.asahi.com/article/14718629",
     "https://finance.logmi.jp/articles/380543",
     "https://support.microsoft.com/ja-jp/excel/calculate-a-compound-annual-growth-rate-cagr-in-excel",
-    "https://kuroco.team/blog-data-cagr/",
     "https://www.youtube.com/watch?v=hMHSCVlquMw",
+    "https://kuroco.team/blog-data-cagr/",
     "https://www.issoh.co.jp/column/details/9789/"
    ],
    "engines": [
@@ -812,54 +802,53 @@
    "results": [
     "https://www.kaonavi.jp/dictionary/cagr/",
     "https://biz.moneyforward.com/erp/basic/3250/",
-    "https://www.m-keiei.jp/musashinocolumn/cagr",
     "https://www.mjs.co.jp/topics/keieisense/20240913/",
+    "https://www.m-keiei.jp/musashinocolumn/cagr",
     "https://finance.logmi.jp/articles/380543",
     "https://smbiz.asahi.com/article/14718629",
     "https://support.microsoft.com/ja-jp/excel/calculate-a-compound-annual-growth-rate-cagr-in-excel",
     "https://kuroco.team/blog-data-cagr/",
-    "https://www.youtube.com/watch?v=hMHSCVlquMw",
-    "https://www.issoh.co.jp/column/details/9789/"
+    "https://www.youtube.com/watch?v=hMHSCVlquMw"
    ],
    "engines": [
-    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 14
+   "n_hits": 9
   },
   {
    "query": "how to verify reported CAGR annual growth rate calculation method endpoints",
    "results": [
     "https://www.investopedia.com/terms/c/cagr.asp",
-    "https://vantainsights.com/insights/what-is-cagr",
     "https://www.wallstreetprep.com/knowledge/cagr-compound-annual-growth-rate/",
-    "https://heyiris.ai/blog/compound-annual-growth-explained",
+    "https://vantainsights.com/insights/what-is-cagr",
+    "https://heyiris.ai/blog/compound-annual-growth",
     "https://www.icicidirect.com/calculators/cagr-calculator",
-    "https://en.wikipedia.org/wiki/Compound_annual_growth_rate",
-    "https://aspireapp.com/en-sg/blog/compound-annual-growth-rate-calculation",
+    "https://www.youtube.com/watch?v=5uQH7VxdO64",
     "https://www.omnicalculator.com/finance/cagr",
-    "https://investmentcalchub.com/cagr-guide",
-    "https://finamodel.com/blog/cagr-formula-calculation"
+    "https://www.forex.com/en-us/trading-guides/compound-annual-growth-rate-cagr/",
+    "https://www.sharesight.com/blog/compound-annual-growth-rate-cagr/",
+    "https://ryanoconnellfinance.com/annualized-return/"
    ],
    "engines": [
     "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 13
+   "n_hits": 15
   },
   {
    "query": "site:note.com 掲載された年率・CAGRの算出方法の確かめ方（端点の複利・平均・回帰・期間の区切り）",
    "results": [
-    "https://note.com/investor_kaeru/n/n2beba6ad11a0",
     "https://note.com/ainakota/n/n88bb1b23d355",
-    "https://note.com/golden_inago/n/n6652111d49c8",
+    "https://note.com/investor_kaeru/n/nf8b008c1c175",
+    "https://note.com/investor_kaeru/n/n2beba6ad11a0",
     "https://note.com/legal_macaw9792/n/n72a2469b8ead",
-    "https://note.com/ai_datamimi/n/ndb66cfb9d566",
-    "https://note.com/time_mach_effect/n/ne6b0f178b122",
-    "https://note.com/akanekofuku/n/n3992804389d6"
+    "https://note.com/akanekofuku/n/n3992804389d6",
+    "https://note.com/golden_inago/n/n6652111d49c8",
+    "https://note.com/ai_datamimi/n/ndb66cfb9d566"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -867,15 +856,15 @@
    "query": "site:x.com 掲載された年率・CAGRの算出方法の確かめ方（端点の複利・平均・回帰・期間の区切り）",
    "results": [
     "https://x.com/motohake/status/2091660216421229043",
-    "https://x.com/edinetdb/status/2028311894671729045",
     "https://x.com/shinano_suzuki/status/2049119478433358055",
+    "https://x.com/edinetdb/status/2028311894671729045",
     "https://x.com/Sakimono_Taro/status/2108106940081463557",
-    "https://x.com/mom_toshi/status/2086727450432782537",
     "https://x.com/grok/status/2074288214286733524",
-    "https://x.com/atsumaro1/status/2116512683570688335"
+    "https://x.com/mom_toshi/status/2086727450432782537",
+    "https://x.com/shinano_suzuki/status/2059620144239067597"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   },
@@ -885,10 +874,10 @@
     "https://jp.linkedin.com/pulse/decoding-cagr-compound-annual-growth-rate-vital-tool-pharma-chatha?tl=ja",
     "https://jp.linkedin.com/pulse/what-cagr-your-business-nishchit-shetty?tl=ja",
     "https://jp.linkedin.com/learning/next-level-excel-for-finance-modeling-dashboards-copilot/28264024",
-    "https://www.linkedin.com/pulse/2026-2033年の車載チューナー市場における正確な収益予測成長要因制約トレンド機会に-6aw0e/",
     "https://jp.linkedin.com/pulse/understanding-growth-rates-cagr-vs-aagr-which-right-magdy-cpa-0upmf?tl=ja",
     "https://jp.linkedin.com/pulse/収益性の評価2026年から2033年にかけての年平均成長率cagr5の見込みを踏まえた接着剤アクセラレ-7502999727815249920-9cnke",
-    "https://jp.linkedin.com/pulse/編み糸-market-forecast-2026年から2033年にかけての51の成長率収益cagrが予測されています-6fcve"
+    "https://jp.linkedin.com/pulse/編み糸-market-forecast-2026年から2033年にかけての51の成長率収益cagrが予測されています-6fcve",
+    "https://jp.linkedin.com/pulse/自動車中央制御モジュール業界の成長予測2026年から2033年までの年平均成長率cagrは59と予測されています-auranovac-klm8e"
    ],
    "engines": [
     "ddgs:google"
@@ -898,16 +887,16 @@
   {
    "query": "site:facebook.com 掲載された年率・CAGRの算出方法の確かめ方（端点の複利・平均・回帰・期間の区切り）",
    "results": [
-    "https://www.facebook.com/excelhk/posts/cagr年平均成長率を求めるエクセルを使った計算式httpsoffice-hackcomexcelcagrexcel-でのcagr年平均成長率の計算式やcagr/4374205746023373/",
+    "https://www.facebook.com/FinancePhDHavingChien/photos/understandatonce-秒懂股息成長-秒懂系列-cagr-compound-annual-growth-rate我記得我在和學生討論投資方法時曾有提到/122164983272182708/",
     "https://www.facebook.com/nogutsnogrowth/posts/先日の平成30年間の比較の際に算出したcagrの算出方法についてまとめてみました経済は複利効果で膨張を続けているので複利で考えるクセをつけていきたいですねcag/2374002482871917/",
-    "https://www.facebook.com/folio.sec/photos/実績公開-2025年10月のroboproおまかせ投資の実績を公開しましたリリース来および期間別パフォーマンス掲載表参照各パフォーマンスデータはexcel形式で/1338151668107913/",
+    "https://www.facebook.com/excelhk/posts/cagr年平均成長率を求めるエクセルを使った計算式httpsoffice-hackcomexcelcagrexcel-でのcagr年平均成長率の計算式やcagr/4374205746023373/",
     "https://www.facebook.com/photo.php/?fbid=1307345097855237",
-    "https://www.facebook.com/ypfinance/photos/cagrirr和xirr是什麼-你一定得會的年化報酬率三大計算方式要比較投資效益的方法有很多種許多人通常以最終資產投入的本金為計算方式然而這種直覺方法存在盲點想/666651285466082/",
+    "https://www.facebook.com/folio.sec/photos/実績公開-2025年10月のroboproおまかせ投資の実績を公開しましたリリース来および期間別パフォーマンス掲載表参照各パフォーマンスデータはexcel形式で/1338151668107913/",
     "https://www.facebook.com/folio.sec/photos/実績公開2025年5月のroboproおまかせ投資の実績を公開しましたリリース来および期間別パフォーマンス掲載図参照各パフォーマンスデータはexcel形式でダウ/1209666687623079/",
-    "https://www.facebook.com/FinancePhDHavingChien/photos/understandatonce-秒懂股息成長-秒懂系列-cagr-compound-annual-growth-rate我記得我在和學生討論投資方法時曾有提到/122164983272182708/"
+    "https://www.facebook.com/ypfinance/photos/cagrirr和xirr是什麼-你一定得會的年化報酬率三大計算方式要比較投資效益的方法有很多種許多人通常以最終資產投入的本金為計算方式然而這種直覺方法存在盲點想/666651285466082/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -917,12 +906,12 @@
     "https://www.kaonavi.jp/dictionary/cagr/",
     "https://biz.moneyforward.com/erp/basic/3250/",
     "https://www.mjs.co.jp/topics/keieisense/20240913/",
+    "https://www.m-keiei.jp/musashinocolumn/cagr",
     "https://support.microsoft.com/ja-jp/excel/calculate-a-compound-annual-growth-rate-cagr-in-excel",
     "https://smbiz.asahi.com/article/14718629",
     "https://expact.jp/cagr_cmgr/",
     "https://nano.globis.ac.jp/r/digital-glossary/article/688",
     "https://finance.logmi.jp/articles/380543",
-    "https://www.youtube.com/watch?v=hMHSCVlquMw",
     "https://finikit.com/ja/articles/guides/cagr-calculator.html"
    ],
    "engines": [
@@ -954,631 +943,25 @@
   {
    "query": "how to verify reported CAGR annual growth rate calculation method endpoints site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/in/holakou-rahmanian-ph-d-55786628",
     "https://www.linkedin.com/pulse/tam-sam-som-comprehensive-guide-strategic-market-sizing-mohidul-alam-cjefc",
+    "https://www.linkedin.com/in/holakou-rahmanian-ph-d-55786628",
     "https://in.linkedin.com/in/manojkumarparmar",
-    "https://www.linkedin.com/company/verified-market-research",
     "https://www.linkedin.com/pulse/gartners-15-fastest-growing-security-categories-through-columbus-krtuc",
-    "https://www.linkedin.com/in/soomanwolffs",
+    "https://am.linkedin.com/in/robinohannessian",
+    "https://www.linkedin.com/company/marketresearch",
     "https://www.linkedin.com/in/drewbustos",
     "https://news.linkedin.com/2026/Skills-on-the-rise-2026",
     "https://www.linkedin.com/in/gaurang-goel-a2517b149",
-    "https://www.linkedin.com/in/eleni-beyko-5116069"
+    "https://www.linkedin.com/in/kevin-m-moore"
    ],
    "engines": [
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 10
   }
  ],
  "missing": {},
- "new_this_run": {
-  "突き合わせ・推定": [
-   {
-    "quote": "社内の概況説明であれば小数点以下1桁、数値を照合する計算表なら2桁以上を残すなど、用途によって適切な精度は異なります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "仮説を立て、データで検証する思考を身に付ける",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "目標値から必要な年率を逆算する使い方もあります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "欠損値や集計方法の変更がある場合は、計算結果にどのような制約があるかを記録しておくと、後の検証がしやすくなります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "インプライド・ボラティリティは、オプションの市場価格から逆算される、将来の価格変動に対する市場の見込みです",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "代表的なものが、過去の価格データから算出するヒストリカル・ボラティリティ（HV）と、オプション価格から逆算されるインプライド・ボラティリティ（IV）です",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "IVは、オプションの市場価格を、オプション評価の仕組みに当てはめて逆算した変動率です",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "売買のルールを検証するときは、ボラティリティの異なる局面を分けて振り返ると役立ちます",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "設定やデータ移行は、検証用の環境や少数のデータを使って段階的に進めます",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "従業員番号や所属コードなどの基本情報を照合し、移行後に検索や帳票出力が正しくできるかを確認します",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "将来の出来事を考える際は、担当者一人の見込みだけに頼らず、過去の実績、専門家の意見、顧客調査、技術検証など、利用できる根拠を確認します",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "実際の判断では、自社のデータや検証結果に基づく値を使います",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "学習に使わない検証用データで予測を確かめ、分類なら正解率や適合率・再現率など、目的に合った指標を使います",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "機械学習では、学習データへの当てはまりだけで評価せず、未知のデータで性能を検証し、複雑になりすぎた木を調整します",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "この値は階級値を代表値として扱った推定値です",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "基本式だけでなく、年数の数え方、具体的な計算例、Excelやスプレッドシートに入力する式、結果の読み方まで順に確認しましょう",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "使える場面と限界を知っておけば、計算結果を誤解せず、事業計画や業績比較に生かせます",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "計算結果が妥当かを確かめるには、求めたCAGRを使って初期値を複利で増やし、最終値に戻るかを確認します",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ただし、報告書や比較表で期間の定義が異なると結果の解釈も変わるため、開始日と終了日を明記しておくと安心です",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "計算式が正しくても、期間設定が不適切なら比較結果は誤解を招きます",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "たとえば初期値が100、最終値が80、期間が2年なら、計算結果は約マイナス10.56％です",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "式の計算結果をパーセンテージ表示にすれば、CAGRが割合で表示されます",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "べき乗の記号を使って書くなら「=(B6/B2)^(1/(A6-A2))-1」でも同じ結果になります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "データ形式を整えてから式を入力し、計算結果がエラーになったときは、初期値・最終値・期間の各セルが数値として認識されているか確認しましょう",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "式に直接数値を埋め込むより、セル参照を使うほうが、数値を更新したときに結果も自動で変わり、他の期間にも使い回しやすくなります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "結果のセルを選び、表示形式をパーセンテージに変更します",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "表示が10.67％となれば、前述の条件での計算結果と整合します",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "POWER関数、べき乗記号、RRI関数のどれを使っても、正の初期値・最終値と同じ期間を指定すれば、基本的に同じ結果になります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "売上高のCAGRと利益のCAGRを混同せず、どの数値を使った結果なのか明記しましょう",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "しかし、その結果は条件を固定した単純なシミュレーションです",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "例えば、ある企業の売上高が3年間で100百万円から160百万円に増加した場合、CAGRは17.0パーセント",
-    "url": "https://finance.logmi.jp/articles/380543",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "例えば、企業の売上、利益、投資額などの成長パターンを分析する際に使用されます",
-    "url": "https://finance.logmi.jp/articles/380543",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "例えば、ある企業の売上高が3年間で次のように推移したとします",
-    "url": "https://finance.logmi.jp/articles/380543",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "次に、この結果を（年数 - 1）で割った値の累乗にかけます",
-    "url": "https://finance.logmi.jp/articles/380543",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "例えば、ある商品の売上が過去数年間でどれだけ成長したかを把握することで、その商品の将来の需要や市場規模を予測することができます",
-    "url": "https://finance.logmi.jp/articles/380543",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "例えば、ある株式が3年間でどれだけ成長したかをCAGRで計算し、その結果を元に投資の判断をします",
-    "url": "https://finance.logmi.jp/articles/380543",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "CAGRは複数年にわたる成長率を基に算出されるため、短期的なデータでは正確な結果を得ることができません",
-    "url": "https://finance.logmi.jp/articles/380543",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "例えば、売上高の推移を3年間でなく、5年や10年といった期間で見ることで、事業の長期的な成長トレンドを把握することが可能になります",
-    "url": "https://finance.logmi.jp/articles/380543",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ここからは、決算説明会やIRセミナーでCAGRについて説明している事例を紹介します",
-    "url": "https://finance.logmi.jp/articles/380543",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "5-1. 事例：",
-    "url": "https://finance.logmi.jp/articles/380543",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "5-2. 事例：",
-    "url": "https://finance.logmi.jp/articles/380543",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "5-3. 事例：",
-    "url": "https://finance.logmi.jp/articles/380543",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "決算期の変更や年度途中のデータがある場合は、比較条件も先に確認してください",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "年度の途中で事業を開始した場合や、決算期を変更した場合は、年度数だけで単純に数えないようにします",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "分析期間の端に特殊要因がないか、元データと決算情報を確かめることが欠かせません",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "企業ごとに決算期や会計基準、事業構成が異なると、同じ「売上高」でも比較条件が完全には一致しない場合があります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "過去の一定期間で値動きが小さくても、企業の決算、政策変更、災害や地政学的な出来事などで急に価格が動く場合があります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "計算には、データの散らばり具合を示す統計量である標準偏差がよく使われます",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "例えば年率20％という表示は、一定の統計上の仮定を置いたときに、年間の収益率の標準的な振れ幅を表します",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "株式なら企業の業績見通しの変更、決算発表、新製品や規制に関するニュースなどが、売買の判断を変えるきっかけになります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ただし、統計上のばらつきは上昇と下落の両方を含みます",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "標準偏差とは、データが平均値の周辺にどの程度散らばっているかを測る統計量です",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "決算や金融政策の発表などを控え、市場参加者が大きな値動きを警戒すると、オプションへの需要が高まり、IVが上昇することがあります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "株式では、個別企業の業績や決算、製品発表、業界の見通しなどが価格変動に影響します",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "氏名や所属、雇用契約、勤怠、給与、評価、保有資格、研修履歴などを扱い、採用から入社、配置、育成、退職まで、従業員に関わるさまざまな場面で利用されます",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "従業員情報の管理を基礎として、労務手続きや勤怠、給与、人事評価、採用、分析などが組み合わされています",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "特化型は、労務手続き、人事評価、採用、勤怠など、特定の業務に重点を置くシステムです",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "5. CAGRに言及している決算説明会書き起こしを読んでみよう",
-    "url": "https://finance.logmi.jp/articles/380543",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ここからは、決算説明会やIRセミナーでCAGRについて説明している事例を紹介します",
-    "url": "https://finance.logmi.jp/articles/380543",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "【QAあり】グッドコムアセット、通期は過去最高益予想 M&Aとリート展開を軸に5カ年計画で2030年に売上高6,000億円を目指す｜株式会社グッドコムアセット 2025年10月期第3四半期決算説明より",
-    "url": "https://finance.logmi.jp/articles/380543",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "CAGRに言及している決算説明会やIRセミナーの最新書き起こし記事は「こちら」",
-    "url": "https://finance.logmi.jp/articles/380543",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "2027年3月期第2四半期決算説明",
-    "url": "https://finance.logmi.jp/articles/380543",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "【CAGRの計算式】年平均成長率の求め方とExcelでの使い方を解説｜グロービス経営大学院 ナノ単科",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "【CAGRの計算式】年平均成長率の求め方とExcelでの使い方を解説",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "単純に期間全体の増加率を年数で割る方法や、各年の成長率を足して平均する方法とは異なります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "期末から期末までの実日数を基準に年数を算出する方法もありますが、社内資料や外部資料で計算ルールを統一することが先決です",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Excel・スプレッドシートでCAGRを求める方法",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "年度のセルを使わず、経過年数を別セルに入力する方法もあります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ただし、年度から期間を自動計算する式と、年数を手入力する方法を同じ表の中で混在させると、更新漏れが起こりやすくなります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "管理方法を決め、表に注記しておくことが大切です",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "複数年の年次成長率が手元にある場合は、各年の成長率を成長倍率に直して幾何平均を計算する方法もあります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "また、期間全体の増加率を年数で割る方法も、CAGRとは異なります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "事業計画では、過去のCAGRを将来の売上予測の参考にする方法があります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "目標値から必要な年率を逆算する使い方もあります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "最初に売上が立った年度を起点にする方法はありますが、その場合は分析期間が短くなり、事業開始時からの成長をそのまま示すものではありません",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "欠損値や集計方法の変更がある場合は、計算結果にどのような制約があるかを記録しておくと、後の検証がしやすくなります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "社内で定期的に使う計算表なら、計算式とデータの更新手順を共有し、担当者が変わっても同じ基準で再計算できる状態にしておくことが大切です",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "2. CAGR（年平均成長率）の計算方法、エクセル計算式、自動計算シート",
-    "url": "https://finance.logmi.jp/articles/380543",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "この場合、CAGRを計算するには、次のステップを踏みます",
-    "url": "https://finance.logmi.jp/articles/380543",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ここまでCAGRの算出方法について紹介しましたが、順を追って上の計算をするのは面倒です",
-    "url": "https://finance.logmi.jp/articles/380543",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "3-1. 経営戦略における活用方法",
-    "url": "https://finance.logmi.jp/articles/380543",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "【QAあり】コロンビア・ワークス、27年12月期にファンド型開発比率40％を見据える 豊富な不動産タイプで付加価値を最適化｜2025年9月14日開催 ログミー IR Meet 2025秋 第2部・コロンビア・ワークス株式会社より",
-    "url": "https://finance.logmi.jp/articles/380543",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "対象期間をあいまいにしたまま式へ進むと、年数を誤りやすくなります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "年数の数え方は、CAGRで間違いが生じやすいポイントです",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "その場合、数式の末尾にさらに「×100」を加えると、表示が100倍になるため注意してください",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "複数の事業や指標で計算する場合は、式の参照先を列見出しと照らし合わせると誤りを減らせます",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "反対に0.1067と表示されたままでも計算自体が間違いとは限らず、単に表示形式が一般形式になっている可能性があります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ただし、年ごとの比率の扱いには注意が必要です",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "初期値または最終値がマイナスの場合も、一般的なCAGRの解釈には注意が必要です",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "値が想定と合わないときは、数字の入力だけでなく、期間の端点や年度の定義に誤りがないか見直してください",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "【基礎から解説】ボラティリティの意味とは？リスクとの関係や活用方法、注意点",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ここでは、基本的な意味から計測方法、株式・FXでの見方、投資判断への活用、見落としやすい注意点まで順に解説します",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "利益の大きさを保証する指標として扱うのは誤りです",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "「ボラティリティが低い資産なら安心」と考えるのも注意が必要です",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "また、ボラティリティの数値だけを見て、投資対象を選ぶことにも注意が必要です",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "「変動率」は、使われる場面によって意味が異なるため注意が必要です",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "標準偏差を読む際には、リターンが平均的な形で分布するという前提にも注意が必要です",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/688",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "4. CAGRの注意点",
-    "url": "https://finance.logmi.jp/articles/380543",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "CAGRの計算においては、外れ値や異常値の影響に注意が必要です",
-    "url": "https://finance.logmi.jp/articles/380543",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ]
- },
- "runs": 1,
+ "new_this_run": {},
+ "runs": 2,
  "first_researched_at": "2026-11-09T07:55:39.360479+00:00"
 }

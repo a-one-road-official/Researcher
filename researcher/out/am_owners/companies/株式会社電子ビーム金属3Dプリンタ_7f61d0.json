@@ -1,0 +1,1282 @@
+{
+ "name": "株式会社電子ビーム金属3Dプリンタ",
+ "aliases": [],
+ "context": "PBF=yes 装置=EBM;日本電子;電子ビーム金属3D 出典=http://www.ndk-kakou.co.jp/equipment/",
+ "researched_at": "2026-11-10T18:09:07.816565+00:00",
+ "official_url": "https://www.jeol.co.jp/",
+ "identified_by": "search:yahoo_jp:電子ビーム金属3Dプリンタ",
+ "profile": {},
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "日本電子株式会社 －Solutions for Innovation－",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "JCM-7000Plus NeoScope™ 卓上走査電子顕微鏡",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体関連分野で利用される電子ビーム描画装置、理科学機器を紹介します",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "DEVELOPMENT BACKSTORIES",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "電子ビーム描画装置 (EB)/走査電子顕微鏡 (SEM)",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンター (AM)",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "高周波焼入れ技術の進化を支える金属3Dプリンター",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "JAM-5200EBM開発の軌跡--電子ビーム金属3Dプリンターが目指す未来",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "日本電子の電子顕微鏡開発のルーツとなるDA-1がたどってきた道",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "日本電子創立75周年 特別企画",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "電子ビーム金属3Dプリンター",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "電子ビーム金属3Dプリンターがもたらす材料開発の革命",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "光を操るという挑戦 電子ビーム描画装置が未来を描く",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "日本電子は、1949年の創業以来、これまで最先端の理科学・計測機器、産業機器そして医用機器の開発に邁進してきました",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "定期刊行物 JEOL NEWS・日本電子ニュース | YOKOGUSHIソリューション | JEOL 日本電子株式会社",
+    "url": "https://www.jeol.co.jp/solutions/download/jeolnews.html",
+    "pass": 1
+   },
+   {
+    "quote": "定期刊行物 JEOL NEWS・日本電子ニュース",
+    "url": "https://www.jeol.co.jp/solutions/download/jeolnews.html",
+    "pass": 1
+   },
+   {
+    "quote": "透過電子顕微鏡の電子ビーム空間干渉性測定および電子源軸上輝度測定法の開発",
+    "url": "https://www.jeol.co.jp/solutions/download/jeolnews.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本電子(株) ソリューション開発センター",
+    "url": "https://www.jeol.co.jp/solutions/download/jeolnews.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本電子（株） SI事業部門 EM事業ユニット",
+    "url": "https://www.jeol.co.jp/solutions/download/jeolnews.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本電子（株） SI事業部門 EP事業ユニット",
+    "url": "https://www.jeol.co.jp/solutions/download/jeolnews.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本電子(株) SI事業部門 SA事業ユニット",
+    "url": "https://www.jeol.co.jp/solutions/download/jeolnews.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本電子(株) SI事業部門 NM事業ユニット",
+    "url": "https://www.jeol.co.jp/solutions/download/jeolnews.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本電子(株) SI事業部門 MS事業ユニット",
+    "url": "https://www.jeol.co.jp/solutions/download/jeolnews.html",
+    "pass": 1
+   },
+   {
+    "quote": "Development of a Semi-Automated 3D ED/MicroED System and Its Operation as a Shared-Use Facility",
+    "url": "https://www.jeol.co.jp/solutions/download/jeolnews.html",
+    "pass": 1
+   },
+   {
+    "quote": "Solution Development Center, JEOL Ltd.",
+    "url": "https://www.jeol.co.jp/solutions/download/jeolnews.html",
+    "pass": 1
+   },
+   {
+    "quote": "Development of an Electron Spectroscopy System (f-HSA) and Its Application to High-Speed Spectrum Imaging",
+    "url": "https://www.jeol.co.jp/solutions/download/jeolnews.html",
+    "pass": 1
+   },
+   {
+    "quote": "Development of an Ultra-Low Temperature Solid-State DNP-NMR System Using a Compact Microwave Source",
+    "url": "https://www.jeol.co.jp/solutions/download/jeolnews.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本電子news Vol.58 No.1, 2026",
+    "url": "https://www.jeol.co.jp/solutions/download/jeolnews.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本電子news Vol.57 No.1, 2025",
+    "url": "https://www.jeol.co.jp/solutions/download/jeolnews.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本電子news Vol.56 No.1, 2024",
+    "url": "https://www.jeol.co.jp/solutions/download/jeolnews.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本電子news Vol.55 No.1, 2023",
+    "url": "https://www.jeol.co.jp/solutions/download/jeolnews.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本電子news Vol.54 No.1, 2022",
+    "url": "https://www.jeol.co.jp/solutions/download/jeolnews.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本電子news Vol.53 No.1, 2021",
+    "url": "https://www.jeol.co.jp/solutions/download/jeolnews.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本電子news Vol.52 No.1, 2020",
+    "url": "https://www.jeol.co.jp/solutions/download/jeolnews.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本電子news Vol.51 No.1, 2019",
+    "url": "https://www.jeol.co.jp/solutions/download/jeolnews.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本電子news Vol.50 No.1, 2018",
+    "url": "https://www.jeol.co.jp/solutions/download/jeolnews.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本電子news Vol.49 No.1, 2017",
+    "url": "https://www.jeol.co.jp/solutions/download/jeolnews.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本電子news Vol.48 No.1, 2016",
+    "url": "https://www.jeol.co.jp/solutions/download/jeolnews.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本電子news Vol.47 No.1, 2015",
+    "url": "https://www.jeol.co.jp/solutions/download/jeolnews.html",
+    "pass": 1
+   },
+   {
+    "quote": "JEOLメールマガジン登録 | JEOL 日本電子株式会社",
+    "url": "https://www.jeol.co.jp/newsletter/",
+    "pass": 1
+   },
+   {
+    "quote": "日本電子からお客様に役立つ最新情報をメールマガジンでお届けします",
+    "url": "https://www.jeol.co.jp/newsletter/",
+    "pass": 1
+   },
+   {
+    "quote": "理科学機器 | 製品情報 | JEOL 日本電子株式会社",
+    "url": "https://www.jeol.co.jp/products/scientific/",
+    "pass": 1
+   },
+   {
+    "quote": "インタビュー、導入事例、開発秘話の形式で、ユーザーの皆様からいただいた声をご紹介します",
+    "url": "https://www.jeol.co.jp/products/scientific/",
+    "pass": 1
+   },
+   {
+    "quote": "日本電子では、お客様に安心して製品をお使い頂くために、",
+    "url": "https://www.jeol.co.jp/products/scientific/",
+    "pass": 1
+   },
+   {
+    "quote": "TEM周辺機器 | 製品情報 | JEOL 日本電子株式会社",
+    "url": "https://www.jeol.co.jp/products/scientific/tem_peripherals/",
+    "pass": 1
+   },
+   {
+    "quote": "インタビュー、導入事例、開発秘話の形式で、ユーザーの皆様からいただいた声をご紹介します",
+    "url": "https://www.jeol.co.jp/products/scientific/tem_peripherals/",
+    "pass": 1
+   },
+   {
+    "quote": "日本電子では、お客様に安心して製品をお使い頂くために、",
+    "url": "https://www.jeol.co.jp/products/scientific/tem_peripherals/",
+    "pass": 1
+   },
+   {
+    "quote": "SEM周辺機器 | 製品情報 | JEOL 日本電子株式会社",
+    "url": "https://www.jeol.co.jp/products/scientific/sem_peripherals/",
+    "pass": 1
+   },
+   {
+    "quote": "インタビュー、導入事例、開発秘話の形式で、ユーザーの皆様からいただいた声をご紹介します",
+    "url": "https://www.jeol.co.jp/products/scientific/sem_peripherals/",
+    "pass": 1
+   },
+   {
+    "quote": "日本電子では、お客様に安心して製品をお使い頂くために、",
+    "url": "https://www.jeol.co.jp/products/scientific/sem_peripherals/",
+    "pass": 1
+   },
+   {
+    "quote": "NMR周辺機器 | 製品情報 | JEOL 日本電子株式会社",
+    "url": "https://www.jeol.co.jp/products/scientific/nmr_peripherals/",
+    "pass": 1
+   },
+   {
+    "quote": "インタビュー、導入事例、開発秘話の形式で、ユーザーの皆様からいただいた声をご紹介します",
+    "url": "https://www.jeol.co.jp/products/scientific/nmr_peripherals/",
+    "pass": 1
+   },
+   {
+    "quote": "日本電子では、お客様に安心して製品をお使い頂くために、",
+    "url": "https://www.jeol.co.jp/products/scientific/nmr_peripherals/",
+    "pass": 1
+   },
+   {
+    "quote": "ESR周辺機器 | 製品情報 | JEOL 日本電子株式会社",
+    "url": "https://www.jeol.co.jp/products/scientific/esr_peripherals/",
+    "pass": 1
+   },
+   {
+    "quote": "インタビュー、導入事例、開発秘話の形式で、ユーザーの皆様からいただいた声をご紹介します",
+    "url": "https://www.jeol.co.jp/products/scientific/esr_peripherals/",
+    "pass": 1
+   },
+   {
+    "quote": "日本電子では、お客様に安心して製品をお使い頂くために、",
+    "url": "https://www.jeol.co.jp/products/scientific/esr_peripherals/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体関連機器 | 製品情報 | JEOL 日本電子株式会社",
+    "url": "https://www.jeol.co.jp/products/semiconductor/",
+    "pass": 1
+   },
+   {
+    "quote": "電子ビーム金属3Dプリンター",
+    "url": "https://www.jeol.co.jp/products/semiconductor/",
+    "pass": 1
+   },
+   {
+    "quote": "材料生成機器 (ナノ粒子合成／ナノ粒子表面改質・電子ビーム溶解)",
+    "url": "https://www.jeol.co.jp/products/semiconductor/",
+    "pass": 1
+   },
+   {
+    "quote": "インタビュー、導入事例、開発秘話の形式で、ユーザーの皆様からいただいた声をご紹介します",
+    "url": "https://www.jeol.co.jp/products/semiconductor/",
+    "pass": 1
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "あなたは、医療関係者ですか？",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "これ以降の製品情報ページは、医療関係者を対象としています",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体関連分野で利用される電子ビーム描画装置、理科学機器を紹介します",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ダイヤモンド半導体、実用化はすぐそこ",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "超高精度のイメージング、高空間分解能・高エネルギー分解能の分光法および「その場」電子顕微鏡法",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "“NMRとシルク”で、新たな再生医療の分野を拓く",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "電子顕微鏡用高エネルギー分解能軟Ｘ線分光器",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "先端半導体の故障解析を加速する新しい解析プラットフォーム",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "*半導体、ライフサイエンス等重点市場での、シェアトップクラスを目指すことを意味する",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "あなたは、医療関係者ですか？",
+    "url": "https://www.jeol.co.jp/products/scientific/tem_peripherals/",
+    "pass": 1
+   },
+   {
+    "quote": "これ以降の製品情報ページは、医療関係者を対象としています",
+    "url": "https://www.jeol.co.jp/products/scientific/tem_peripherals/",
+    "pass": 1
+   },
+   {
+    "quote": "あなたは、医療関係者ですか？",
+    "url": "https://www.jeol.co.jp/products/scientific/sem_peripherals/",
+    "pass": 1
+   },
+   {
+    "quote": "これ以降の製品情報ページは、医療関係者を対象としています",
+    "url": "https://www.jeol.co.jp/products/scientific/sem_peripherals/",
+    "pass": 1
+   },
+   {
+    "quote": "あなたは、医療関係者ですか？",
+    "url": "https://www.jeol.co.jp/products/scientific/nmr_peripherals/",
+    "pass": 1
+   },
+   {
+    "quote": "これ以降の製品情報ページは、医療関係者を対象としています",
+    "url": "https://www.jeol.co.jp/products/scientific/nmr_peripherals/",
+    "pass": 1
+   },
+   {
+    "quote": "あなたは、医療関係者ですか？",
+    "url": "https://www.jeol.co.jp/products/scientific/esr_peripherals/",
+    "pass": 1
+   },
+   {
+    "quote": "これ以降の製品情報ページは、医療関係者を対象としています",
+    "url": "https://www.jeol.co.jp/products/scientific/esr_peripherals/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体関連機器 | 製品情報 | JEOL 日本電子株式会社",
+    "url": "https://www.jeol.co.jp/products/semiconductor/",
+    "pass": 1
+   },
+   {
+    "quote": "JEOLは世界最高クラス性能の電子顕微鏡や半導体製造用電子ビーム描画装置の開発で培った電子ビーム制御技術を応用し、高出力・高速の電子ビームで、高密度・高強度部品の造形が可能なパウダーベット方式の電子ビーム金属3Dプリンターを開発しました",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙用材料規格に基づくJEOL電子ビーム溶融技術の評価",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "JAM-5200EBMはAMS7032認証を取得しており、航空宇宙用材料において信頼性の高い製造プロセスを確立します",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "あなたは、医療関係者ですか？",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "これ以降の製品情報ページは、医療関係者を対象としています",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "あなたは、医療関係者ですか？",
+    "url": "https://www.jeol.co.jp/products/industrial/depo/",
+    "pass": 1
+   },
+   {
+    "quote": "これ以降の製品情報ページは、医療関係者を対象としています",
+    "url": "https://www.jeol.co.jp/products/industrial/depo/",
+    "pass": 1
+   },
+   {
+    "quote": "【工場見学】電子部品・自動車・電機業界の相棒！ 知られざるモーノポンプ, モーノディスペンサーの実力に迫る【兵神装備】",
+    "url": "https://www.youtube.com/watch?v=fmzRcU_XoMY",
+    "pass": 3
+   },
+   {
+    "quote": "近年、製品の開発時期や納期の短縮に対応するため、鍛造・鋳造・プレス成型といった従来の金属加工方法に変わる新しい加工法として、航空機・医療分野を中心に金属3Dプリンターの需要が拡大しています",
+    "url": "https://www.kyoei.co.jp/product/division/machine/3d_printer/news2019_03.html",
+    "pass": 3
+   },
+   {
+    "quote": "プリンターを試作し、「",
+    "url": "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "pass": 3
+   },
+   {
+    "quote": "以下で、医療分野における人工関節や宇宙航空分野のタービンブレードなど、複雑かつ高品質な造形が求められるものづくりでの利用拡大が期待されています",
+    "url": "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "pass": 3
+   },
+   {
+    "quote": "次元の造形物を作るという点では、日本は金型鋳造を長年にわたり得意としてきました",
+    "url": "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "pass": 3
+   },
+   {
+    "quote": "そうした中、電子顕微鏡や半導体フォトマスク製造装置などの事業で、電子ビームの技術を培ってきた日本電子は、新たな事業として電子ビーム金属",
+    "url": "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子には、半導体集積回路などの製造工程でシリコン基板上に回路パターンを作るためのフォトマスク製造用電子ビーム装置（マスクライター）の分野で帯電抑制技術の開発経験がありました",
+    "url": "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "pass": 3
+   },
+   {
+    "quote": "佐藤さんらは、電子顕微鏡や半導体製造用電子ビーム描画装置で培った技術により、金属",
+    "url": "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "pass": 3
+   },
+   {
+    "quote": "このように、日本電子が半導体関連装置や電子顕微鏡で培ってきた技術を活用できた部分はあるものの、当然ながら電子ビーム金属",
+    "url": "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "pass": 3
+   },
+   {
+    "quote": "自社の長年の看板製品である電子顕微鏡や半導体マスクライターの得意技術を基盤に、",
+    "url": "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "pass": 3
+   },
+   {
+    "quote": "佐藤さんは、日本電子に新卒入社後、半導体事業でマスクライターの開発に携わり、電子銃などの技術開発を担当してきました",
+    "url": "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "pass": 3
+   },
+   {
+    "quote": "中でも、医療分野や航空宇宙分野などでは、チタンなどの加工しづらい金属材料を用い、人工関節や航空機向けの複雑な形状の製品を作りたいというニーズがあり、そうした金属造形物を作るための手段の一つが、今回の「電子ビーム金属",
+    "url": "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "pass": 3
+   },
+   {
+    "quote": "それに対し、電子ビーム方式では、電子が金属粉末に衝突し、運動エネルギーが熱に変換されるため、どんな金属材料も高い熱変換効率が得られるという特長があります",
+    "url": "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "pass": 3
+   },
+   {
+    "quote": "開発された成果は、今後、医療分野における人工関節や宇宙航空分野など、複雑かつ高品質な造形が求められるものづくりでの利用拡大が期待されています",
+    "url": "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "pass": 3
+   },
+   {
+    "quote": "小型なので少量の粉末での実験や、比較的低いエネルギー密度で緻密な造形が可能な材料の造形に利用しています",
+    "url": "https://www.nims.go.jp/cccenter/ismg/equipments.html",
+    "pass": 3
+   },
+   {
+    "quote": "ガウシアン型のエネルギー分布を持つレーザと、均一なエネルギー分布を持つフラットトップ型のレーザの二本を搭載しています",
+    "url": "https://www.nims.go.jp/cccenter/ismg/equipments.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタによる精巧な試作品を公開",
+    "url": "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタでの量産を視野に",
+    "url": "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "pass": 3
+   },
+   {
+    "quote": "これまでは、試作品を1つ作るだけでもわざわざ金型を起こすなどコストがかかりましたが、",
+    "url": "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "pass": 3
+   },
+   {
+    "quote": "を使えば、3Dデータを変更するだけで前後工程の変更を極力省いて試作品を作れるのです",
+    "url": "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "pass": 3
+   },
+   {
+    "quote": "では電子の運動エネルギーを熱エネルギーに変換して、金属素材を加熱して溶かす",
+    "url": "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "pass": 3
+   },
+   {
+    "quote": "ここで熱エネルギーを作り出し、金属を溶かして造形しています",
+    "url": "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "pass": 3
+   },
+   {
+    "quote": "一般的に、光は銅などのピカピカした金属に当たると反射するため、投射した光エネルギーのうち7〜8割は飛び散って無駄になってしまいます",
+    "url": "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方の電子ビームは、金属に当たっても反射しにくく、投射したエネルギーの8〜9割は金属に吸収されます",
+    "url": "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、エネルギーロスが少なく、造形速度が非常に速いのです",
+    "url": "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "pass": 3
+   },
+   {
+    "quote": "医療や航空宇宙など、最先端の分野でよく利用されます",
+    "url": "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、医療の世界なら、アレルギーを起こしにくい金属素材を使い、個々の体に合わせてカスタマイズした人工骨や歯のインプラントを作るといったことにも向いていると思います",
+    "url": "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "pass": 3
+   },
+   {
+    "quote": "先ほどお話しした医療や航空宇宙分野はもちろんですが、輸送機器、一般工業、重工業など、より身近な分野でもお使いいただきたいです",
+    "url": "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "pass": 3
+   },
+   {
+    "quote": "これを使えば試作品や治具なども簡単に作れます",
+    "url": "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、試作品だけではなく、少量から中量生産にも十分に対応できると考えています",
+    "url": "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "pass": 3
+   },
+   {
+    "quote": "食やヘルスケア、医療・介護から最前線のビジネスフィールドまで幅広いジャンルにわたり、Webメディア、雑誌、新聞、また単行本の企画・構成などを手がける",
+    "url": "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "核磁気共鳴分光法を用いた非晶質アルミナの構造解析",
+    "url": "https://www.jeol.co.jp/solutions/download/jeolnews.html",
+    "pass": 1
+   },
+   {
+    "quote": "レーザー積層造形ではこうした変形や割れを防ぐために、強固なサポート材が必要になりますが、電子ビーム積層造形では、周囲の粉末同士が軽く結合して造形物を支えるため、サポート材を少なくできるという利点があります",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "一方、レーザー積層造形装置では不活性ガス雰囲気 (大気圧) 下で造形されるものの、酸素や水分が残留している場合があるため、チタン合金などの活性金属には注意が必要となります",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "本機能では、金属粉末を電子ビームで溶融した後、電子ビームを再度溶融面全体に照射することでBSE画像を取得します",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "※Ti-6Al-4V造形時",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "AM-22010PRS 金属粉末リカバリーシステム",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "造形終了後に、造形物周囲の仮焼結粉末を取り除くためのブラスト装置",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "ブラストして回収した金属粉末は造形に再利用",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "AM-22010PRSはチタン合金等の活性金属種に対応する窒素雰囲気仕様",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "JAM-5200EBMを用いたタングステン3D造形",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "― 電子ビーム金属3Dプリンターによるタングステン加工の優位性について",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン部品の製造におけるEB-PBF技術の応用可能性、直面する課題、そして将来の展望について詳しく探ります",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "チタン合金 (Ti-6Al-4V)",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンターでチタン合金を造形",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "本コラムでは、チタン合金3Dプリントの基礎知識から、LB-PBFとEB-PBFの違いや活用事例をわかりやすく解説します",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンターによる銅の造形：技術的課題と解決アプローチ",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンターによる銅の積層造形では従来の製造方法では実現できなかった複雑な形状を作製することができ、近年注目が集まっています",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "本コラムでは、3Dプリンターによる銅の造形についてわかりやすく解説します",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニッケル基合金718",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "※3 金属粉末を平坦に敷き詰め一層ずつ溶融・凝固を繰り返し積層する造形方式",
+    "url": "https://www.kyoei.co.jp/product/division/machine/3d_printer/news2019_03.html",
+    "pass": 3
+   },
+   {
+    "quote": "「パウダーベッド方式」は、原材料である金属粉末を",
+    "url": "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "pass": 3
+   },
+   {
+    "quote": "層敷き詰め、熱源となるレーザーや電子ビームで造形する部分を溶融して積み重ねてゆき（積層造形）、積み重なった塊から不要な粉末を取り除いて、完成品（造形物）を取り出します（詳細は「なるほど基礎知識」参照）（写真",
+    "url": "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "pass": 3
+   },
+   {
+    "quote": "一方「デポジション方式」は、金属粉末を搬送ガスでノズルから噴射すると同時に一般的にはレーザーで溶融して目的の場所に積層していきます",
+    "url": "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "pass": 3
+   },
+   {
+    "quote": "写真1 1層分だけパウダーベッドに敷き詰められた金属粉末材料",
+    "url": "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "pass": 3
+   },
+   {
+    "quote": "プリンターの長年の課題は、電子ビームと金属粉末が起こす「スモーク現象」の克服でした",
+    "url": "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "pass": 3
+   },
+   {
+    "quote": "「スモーク現象」とは、電子ビームの照射で金属粉末が帯電し、粉末同士が反発して飛散してしまう現象を言います",
+    "url": "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "pass": 3
+   },
+   {
+    "quote": "その解決策として金属粉末の帯電を抑えるため、金属粉末に予備加熱を行う方法があります",
+    "url": "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "pass": 3
+   },
+   {
+    "quote": "これは金属粉末の温度上昇によって粉末同士が軽く結合する仮焼結状態になることで電気抵抗が低下する現象を利用して、「スモーク現象」の発生を抑える方法です",
+    "url": "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "pass": 3
+   },
+   {
+    "quote": "「そこで、ヘリウムガスを使わずにスモーク現象を回避することを考え、金属粉末の飛散などを物理的に防ぐ仕組みを開発することにしました」と日本電子株式会社",
+    "url": "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "pass": 3
+   },
+   {
+    "quote": "」とは、造形領域より外側のサラサラした粉末が散乱電子によって帯電するのを防ぎつつ、帯電した金属粉末が飛散して散乱電子が加わり、その帯電領域でさらなる「スモーク現象」が発生するのも防ぐ、ステンレス製遮蔽板のことです",
+    "url": "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "pass": 3
+   },
+   {
+    "quote": "田澤さんは、「予備加熱により造形物周囲の金属粉末が仮焼結しますが、金属粉末の再利用を考えると仮焼結を最小限に抑えたかったのです",
+    "url": "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子にとって、電子ビームで金属粉末を溶かし、緻密な造形物を製作する技術の開発は初挑戦でした",
+    "url": "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "pass": 3
+   },
+   {
+    "quote": "そこで佐藤さんらは、参画メンバーによる月に一度の定例会で、サブプロジェクトリーダーの千葉教授から、金属粉末が溶けて液状化したメルトプール（溶融池）に関する理論の講義を受けたり、千葉研究室にある海外既存製品でのメルトプールの形成を撮影してもらったりして、自分たちの装置での最適な溶かし方を追求していきました",
+    "url": "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "pass": 3
+   },
+   {
+    "quote": "また、企業との連携では、「金属粉末メーカーから金属粉末の性質などに関する知見を得ることができました",
+    "url": "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "pass": 3
+   },
+   {
+    "quote": "電子ビームで金属粉末をいかに溶かして固め、積層造形の質を高めるかという、日本電子にとっての新たな技術開発に生かすことができました」と佐藤さんは説明します（写真",
+    "url": "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "pass": 3
+   },
+   {
+    "quote": "写真8 「JAM-5200EBM」に使用されている金属粉末",
+    "url": "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末種類(左) 電子ビーム金属3Dプリンターの金属粉末収納部(中) 材料容器に入った金属粉末材料(右)",
+    "url": "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "pass": 3
+   },
+   {
+    "quote": "田澤さんは、「金属粉末を高温に晒しても粒子同士が固まらず、",
+    "url": "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "pass": 3
+   },
+   {
+    "quote": "粒子ずつ分散するような粉末供給技術を、金属粉末メーカーの知見も生かして確立できました",
+    "url": "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "pass": 3
+   },
+   {
+    "quote": "眞部さんも、「金属粉末メーカー、ソフトウェア開発企業、装置メーカー、後加工の技術を持つ企業、さらにユーザーの立場の企業までが、ワンチームとなれたことで、装置単体の提供でなく、ソリューションの提供を目指すことができました」と、",
+    "url": "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "pass": 3
+   },
+   {
+    "quote": "写真10 仮焼結した金属粉末を除去中の発電用のタービンブレード（左）と、除去後、磨きだして完成したもの（右）",
+    "url": "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "pass": 3
+   },
+   {
+    "quote": "中でも、医療分野や航空宇宙分野などでは、チタンなどの加工しづらい金属材料を用い、人工関節や航空機向けの複雑な形状の製品を作りたいというニーズがあり、そうした金属造形物を作るための手段の一つが、今回の「電子ビーム金属",
+    "url": "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "pass": 3
+   },
+   {
+    "quote": "レーザー方式では、電子ビーム方式と同様、金属粉末を溶かし固めて造形しますが、金属材料によっては反射が起きるため不向きなものもあります",
+    "url": "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "pass": 3
+   },
+   {
+    "quote": "それに対し、電子ビーム方式では、電子が金属粉末に衝突し、運動エネルギーが熱に変換されるため、どんな金属材料も高い熱変換効率が得られるという特長があります",
+    "url": "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "pass": 3
+   },
+   {
+    "quote": "「パウダーベッド」とは、金属材料の粉末（パウダー）を敷き詰めたベッド（床）の層のことです",
+    "url": "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "pass": 3
+   },
+   {
+    "quote": "パウダーベッド方式 (粉末床溶融結合)、造形範囲最大 φ250 mm × 400 mm (H)、電子ビーム出力最大 6 kWの最新積層造形装置",
+    "url": "https://www.nims.go.jp/cccenter/ismg/equipments.html",
+    "pass": 3
+   },
+   {
+    "quote": "小型なので少量の粉末での実験や、比較的低いエネルギー密度で緻密な造形が可能な材料の造形に利用しています",
+    "url": "https://www.nims.go.jp/cccenter/ismg/equipments.html",
+    "pass": 3
+   },
+   {
+    "quote": "この電子銃から電子ビーム（※1）を発射し、造形ボックスの中で金属の粉末を溶かして3Dプリンティングを行います",
+    "url": "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "pass": 3
+   },
+   {
+    "quote": "一般的に、光は銅などのピカピカした金属に当たると反射するため、投射した光エネルギーのうち7〜8割は飛び散って無駄になってしまいます",
+    "url": "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "pass": 3
+   },
+   {
+    "quote": "チタニウム合金のような特殊な金属だけでなく、反射率の高い銅でも、鉄やステンレス、アルミニウムなどの身近な金属でも、あらゆる金属に対応できる可能性を",
+    "url": "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "電子ビーム金属3Dプリンター 「JAM-5200EBM」| 製品 情報 — 電子ビーム金属3Dプリンター 「JAM-5200EBM」| 製品 情報 日本電子株式会社 https://www.jeol.co.jp > products > industrial",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 3
+   },
+   {
+    "quote": "電子ビーム金属3Dプリンタ ｜三菱電機FA - YouTube — 電子ビーム金属3Dプリンタ ｜三菱電機FA - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=fmzRcU_XoMY",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機製 電子ビーム金属3Dプリンター 「EZ300」販売開始 ... — 三菱電機製 電子ビーム金属3Dプリンター 「EZ300」販売開始 ... 協栄産業株式会社 https://www.kyoei.co.jp > 3d_printer > news2019_03",
+    "url": "https://www.kyoei.co.jp/product/division/machine/3d_printer/news2019_03.html",
+    "pass": 3
+   },
+   {
+    "quote": "電子ビーム金属3Dプリンター の状況について【第54回】 — 電子ビーム金属3Dプリンター の状況について【第54回】 3d.kinzoku-kakou-odec.com http://3d.kinzoku-kakou-odec.com > column > column-832",
+    "url": "http://3d.kinzoku-kakou-odec.com/column/column-832/",
+    "pass": 3
+   },
+   {
+    "quote": "電子ビーム金属3Dプリンター | JEOL 装置入門 | 製品情報 — 電子ビーム金属3Dプリンター | JEOL 装置入門 | 製品情報 日本電子株式会社 https://www.jeol.co.jp > products > science > 3d",
+    "url": "https://www.jeol.co.jp/products/science/3d.html",
+    "pass": 3
+   },
+   {
+    "quote": "昭島】 電子ビーム金属3Dプリンター のシステム設計  年間休日 ... — 昭島】 電子ビーム金属3Dプリンター のシステム設計  年間休日 ... doda https://doda.jp > ... > 日本電子株式会社の求人情報",
+    "url": "https://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3016269749/",
+    "pass": 3
+   },
+   {
+    "quote": "電子ビーム金属3Dプリンター のシステム設計 世界最高クラス ... — 電子ビーム金属3Dプリンター のシステム設計 世界最高クラス ... リクルートエージェント https://www.r-agent.com > 東京都 > 昭島市",
+    "url": "https://www.r-agent.com/viewjob/jk30888286bdf0326d/",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "最初にご案内するのは、三菱電機の100％出資関連会社である多田電機です",
+    "url": "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.jeol.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/solutions/download/jeolnews.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/newsletter/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/products/scientific/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/products/scientific/tem_peripherals/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/products/scientific/sem_peripherals/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/products/scientific/nmr_peripherals/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/products/scientific/esr_peripherals/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/products/semiconductor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/products/industrial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/products/industrial/depo/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.jeol.co.jp/assets/img/common/header_company_img01.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.youtube.com/watch?v=fmzRcU_XoMY",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kyoei.co.jp/product/division/machine/3d_printer/news2019_03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricoh.co.jp/3dp/metal/what",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/metal3dprinter/system/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nims.go.jp/cccenter/ismg/equipments.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoei.co.jp/product/division/machine/3d_printer/news2019_03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/5523/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kyoei.co.jp/product/division/machine/3d_printer/news2019_03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hatalike.jp/viewjob/30888286bdf0326d/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "電子ビーム金属3Dプリンタ",
+   "results": [
+    "https://www.jeol.co.jp/products/science/3d.html",
+    "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "https://jampt.jp/metal3dprinter/system/",
+    "https://www.youtube.com/watch?v=fmzRcU_XoMY",
+    "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "http://www.tadadenki.jp/welding_machines/metal_3d_printer/ez300.html",
+    "https://www.youtube.com/playlist?list=PLDjwwOTQnQ9WyLwgtWk7vLspIPRVcNykd",
+    "https://www.azscience.jp/machine/detail/item_4130/",
+    "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "https://www.mitsubishielectric.co.jp/fa/products/mecha/am/items/pbf/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "電子ビーム金属3Dプリンタ 会社概要 資本金 設立",
+   "results": [
+    "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "https://www.youtube.com/watch?v=fmzRcU_XoMY",
+    "https://www.kyoei.co.jp/product/division/machine/3d_printer/news2019_03.html",
+    "https://metoree.com/categories/5523/",
+    "http://3d.kinzoku-kakou-odec.com/column/column-832/",
+    "https://jampt.jp/company/",
+    "https://www.mitsubishielectric.co.jp/fa/products/mecha/am/index.html",
+    "http://www.tadadenki.jp/welding_machines/metal_3d_printer/ez300.html",
+    "https://www.tachibana.co.jp/3dprinter/02-metal_3d_printer-2.html",
+    "https://ja.wikipedia.org/wiki/日本電子"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "電子ビーム金属3Dプリンタ 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.jeol.co.jp/products/science/3d.html",
+    "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "https://www.ricoh.co.jp/3dp/metal/what",
+    "https://www.mitsubishielectric.co.jp/fa/products/mecha/am/pr/zoukei/index.html",
+    "https://www.youtube.com/watch?v=fmzRcU_XoMY",
+    "https://online.solize.com/blog/metal3dp-mechanism",
+    "http://3d.kinzoku-kakou-odec.com/column/column-677/",
+    "https://jampt.jp/metal3dprinter/system/",
+    "https://www.azscience.jp/column/category/top11-sub34/",
+    "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "電子ビーム金属3Dプリンタ 金属積層造形 設備",
+   "results": [
+    "https://www.jeol.co.jp/products/science/3d.html",
+    "https://jampt.jp/metal3dprinter/system/",
+    "https://www.nims.go.jp/cccenter/ismg/equipments.html",
+    "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "https://chuokatan.co.jp/products/3dp/",
+    "http://3d.kinzoku-kakou-odec.com/column/column-677/",
+    "https://www.mitsubishielectric.co.jp/fa/products/mecha/am/index.html",
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "https://j3d.co.jp/blog/knowledge/index37/",
+    "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "電子ビーム金属3Dプリンタ 株主 出資 親会社",
+   "results": [
+    "https://www.kyoei.co.jp/product/division/machine/3d_printer/news2019_03.html",
+    "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "https://www.tachibana.co.jp/3dprinter/02-metal_3d_printer-2.html",
+    "https://sato-ayumi.com/2019/01/23/metal-3dprinting-genri/",
+    "https://sumitomoelectric.com/jp/press/2023/07/prs094",
+    "https://jampt.jp/metal3dprinter/system/",
+    "https://www.nikkei.com/article/DGXZQOFD2433D0U6A920C2000000/",
+    "https://partners.solize.com/manufacturing/technology/3dp-metal",
+    "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "電子ビーム金属3Dプリンタ 売上高 従業員数",
+   "results": [
+    "https://metoree.com/categories/5523/",
+    "https://www.kyoei.co.jp/product/division/machine/3d_printer/news2019_03.html",
+    "https://www.hatalike.jp/viewjob/30888286bdf0326d/",
+    "https://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3016269749/",
+    "https://www.r-agent.com/viewjob/jk30888286bdf0326d/",
+    "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "https://jp.indeed.com/viewjob?jk=1b893ec651128e04",
+    "https://job.mynavi.jp/28/pc/search/corp294516/outline.html",
+    "https://www.pasonacareer.jp/job/81067241/",
+    "https://qyresearch1.hatenablog.com/entry/2026/04/28/163636"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 電子ビーム金属3Dプリンタ",
+   "results": [
+    "https://note.com/tomiriki_2026/n/nf901865424d4",
+    "https://note.com/skhonpo/n/nc1704938f168",
+    "https://note.com/kagawatomo/n/nf65a446ed216",
+    "https://note.com/good_dill292/n/n66656c597063",
+    "https://note.com/mar810/n/n2fb28a04b6f3",
+    "https://note.com/tomiriki_2026/n/n661432380be6",
+    "https://note.com/umaki11/n/n3efcf73dffdc",
+    "https://note.com/sakak01/n/n69e22a9bf352",
+    "https://note.com/mocchan/n/n2b02ab533c5e",
+    "https://note.com/qy_research/n/n6a4c48fb3916"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com 電子ビーム金属3Dプリンタ",
+   "results": [
+    "https://x.com/JEOL_Japan/status/1973218236306255988",
+    "https://x.com/MTStokyoCEC",
+    "https://x.com/jampt_official",
+    "https://x.com/jampt_official/status/1948297500013822281",
+    "https://x.com/F360Eva_FujimuY",
+    "https://x.com/HexagonScrew/status/2118842659385323812",
+    "https://x.com/santec_japan",
+    "https://x.com/OSA_METAL0",
+    "https://x.com/i_gauge_manufac",
+    "https://x.com/JEOL_Japan/status/2016323541113962850"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:linkedin.com 電子ビーム金属3Dプリンタ",
+   "results": [
+    "https://www.linkedin.com/in/daisuke-shigematsu/ja",
+    "https://jp.linkedin.com/pulse/%E9%87%91%E5%B1%9E%E7%B2%89%E6%9C%AB%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%9F%E3%82%A2%E3%83%87%E3%82%A3%E3%83%86%E3%82%A3%E3%83%96%E3%83%9E%E3%83%8B%E3%83%A5%E3%83%95%E3%82%A1%E3%82%AF%E3%83%81%E3%83%A3%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E4%B8%96%E7%95%8C%E5%B8%82%E5%A0%B4%E3%81%AE%E4%B8%BB%E8%A6%81%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC-hexavonz-m42ge",
+    "https://jp.linkedin.com/pulse/%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E9%83%A8%E5%93%81%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AF%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cagr129%E3%81%A7%E6%8B%A1%E5%A4%A7%E4%B8%AD-7487902916930932737-urcre",
+    "https://jp.linkedin.com/pulse/%E9%9B%BB%E5%AD%90%E9%8A%83%E6%A5%AD%E7%95%8C%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E7%A0%B4%E5%A3%8A%E3%81%A8%E9%9D%A9%E6%96%B0%E5%B8%82%E5%A0%B4%E5%88%86%E6%9E%90%E3%81%A8%E5%B0%86%E6%9D%A5%E3%82%B7%E3%83%8A%E3%83%AA%E3%82%AA2026-2033%E5%B9%B4-kelvoraa-krh7e",
+    "https://jp.linkedin.com/in/yoichi-ito-77825928b/en",
+    "https://jp.linkedin.com/pulse/%E7%94%A3%E6%A5%AD%E7%94%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%B8%82%E5%A0%B4%E3%81%AE%E8%A6%8B%E9%80%9A%E3%81%97%E6%88%90%E9%95%B7%E5%8B%95%E5%90%91%E3%81%A82026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE85%E3%81%AEcagr-wedge-wave-6ym7e",
+    "https://jp.linkedin.com/in/kazuo-kikawa-bb257b162",
+    "https://www.linkedin.com/posts/jeol-asia-thailand-co-ltd_sem-semiconductor-failureanalysis-activity-7512755007616638977-Ycn6",
+    "https://jp.linkedin.com/pulse/73-cagr-%E3%81%AE%E4%BA%88%E6%B8%AC%E3%81%AB%E3%82%88%E3%82%8A%E3%81%93%E3%81%AE2%E5%85%89%E5%AD%90%E3%82%B0%E3%83%AC%E3%83%BC%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB%E3%83%AA%E3%82%BD%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0-io9df",
+    "https://www.linkedin.com/posts/jeol-ltd_コラム-電子ビーム金属3dプリンター-additivemanufacturing-activity-7337703848804761601-xmPx"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com 電子ビーム金属3Dプリンタ",
+   "results": [
+    "https://www.facebook.com/MitsubishiElectricFA.JP/posts/-jimtof2026-%E8%A3%BD%E5%93%81%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E5%AE%9F%E6%96%BD%E4%B8%AD%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F%E3%83%96%E3%83%BC%E3%82%B9%E5%86%85%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%81%A7%E3%81%AFcnc%E6%95%B0%E5%80%A4%E5%88%B6%E5%BE%A1%E8%A3%85%E7%BD%AE%E6%94%BE%E9%9B%BB%E5%8A%A0%E5%B7%A5%E6%A9%9F%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%AC%E3%83%BC%E3%82%B6%E5%8A%A0%E5%B7%A5%E6%A9%9F%E3%81%AE%E6%9C%80%E6%96%B0%E6%8A%80%E8%A1%93%E3%82%92%E5%88%86/1423799066572626/",
+    "https://www.facebook.com/MitsubishiElectricFA.JP/posts/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%94%E6%8E%A1%E7%94%A8%E4%BA%8B%E4%BE%8B%E7%9F%B3%E5%8E%9F%E7%94%A3%E6%A5%AD-%E6%A7%98%E5%A4%A7%E5%9E%8B%E9%83%A8%E5%93%81%E3%81%B8%E3%81%AE%E9%AB%98%E7%B2%BE%E5%BA%A6%E3%81%AA%E5%8A%A0%E5%B7%A5%E3%82%92%E7%9B%AE%E7%9A%84%E3%81%AB%E8%B6%85%E9%AB%98%E7%B2%BE%E5%BA%A6%E4%BB%95%E6%A7%98%E3%81%AE-%E3%83%AF%E3%82%A4%E3%83%A4%E6%94%BE%E9%9B%BB%E5%8A%A0%E5%B7%A5%E6%A9%9F-%E3%82%92%E5%B0%8E%E5%85%A5%E5%A4%9C%E9%96%93%E3%81%AE%E8%87%AA%E5%8B%95%E7%A8%BC%E5%83%8D%E3%81%A7%E5%8A%B9%E7%8E%87%E6%80%A7%E3%82%82%E5%90%91%E4%B8%8A%E8%A4%87%E9%9B%91%E3%81%8B%E3%81%A4%E9%AB%98%E7%B2%BE%E5%BA%A6%E3%81%AA%E5%8A%A0%E5%B7%A5%E6%8A%80%E8%A1%93%E3%81%AB%E5%AE%9A%E8%A9%95%E3%81%AE/1097056432580226/",
+    "https://www.facebook.com/MitsubishiElectricFA.JP/",
+    "https://www.facebook.com/MitsubishiElectricFA.JP/posts/%EF%B8%8F%E5%B7%A5%E5%A0%B4%E9%95%B7%E3%82%B5%E3%83%9F%E3%83%83%E3%83%88-2026%E3%81%AB%E3%81%A6%E5%90%8D%E5%8F%A4%E5%B1%8B%E8%A3%BD%E4%BD%9C%E6%89%80-%E6%89%80%E9%95%B7%E3%81%AE%E6%9F%B4%E7%94%B0%E3%81%8C%E8%AC%9B%E6%BC%94%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%97%E3%81%9Fe-fctory%E3%81%8B%E3%82%89%E3%83%95%E3%82%A3%E3%82%B8%E3%82%AB%E3%83%ABai%E3%81%B8-%E3%83%95%E3%82%A3%E3%82%B8%E3%82%AB%E3%83%ABai%E5%AE%9F%E8%A3%85%E3%81%AE%E6%96%B9%E5%90%91%E6%80%A7%E3%81%A8%E5%B0%8E%E5%85%A5%E3%81%B8%E3%81%AE%E8%AA%B2%E9%A1%8C%E3%82%92%E3%83%86%E3%83%BC%E3%83%9E%E3%81%AB/1305594698393064/",
+    "https://www.facebook.com/MitsubishiElectricFA.JP/posts/%E7%8F%BE%E5%A0%B4%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92%E4%BF%9D%E5%AE%88%E8%A8%AD%E8%A8%88%E8%A3%BD%E9%80%A0%E3%81%AE%E6%94%B9%E5%96%84%E3%81%B8serendie-%E3%81%A8%E7%94%9F%E3%81%BF%E5%87%BA%E3%81%99%E6%96%B0%E3%81%97%E3%81%84%E8%A3%BD%E9%80%A0%E6%A5%ADdx%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E6%8B%85%E5%BD%93%E8%80%85%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E8%A8%98%E4%BA%8B%E3%81%8C%E5%85%AC%E9%96%8B%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E5%B7%A5%E5%A0%B4%E3%81%AE%E8%A8%AD%E5%82%99%E3%81%8B%E3%82%89%E6%97%A5%E3%80%85%E9%9B%86%E3%81%BE%E3%82%8B%E8%86%A8%E5%A4%A7%E3%81%AA%E3%83%87%E3%83%BC%E3%82%BF/1404924088460124/",
+    "https://www.facebook.com/MitsubishiElectricFA.JP/posts/-%E3%81%AA%E3%81%9C-ot%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3-%E3%81%AF%E9%80%B2%E3%81%BE%E3%81%AA%E3%81%84%E3%81%AE%E3%81%8B%E7%B5%8C%E5%96%B6%E7%8F%BE%E5%A0%B4%E6%8A%80%E8%A1%93%E3%81%AE%E8%A6%96%E7%82%B9%E3%81%8B%E3%82%89%E8%80%83%E3%81%88%E3%82%8B%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F%E3%81%A8nozomi-networks%E5%85%B1%E5%82%AC%E3%81%AEot%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%BB%E3%83%9F%E3%83%8A%E8%A8%98%E4%BA%8B%E3%82%92%E5%85%AC%E9%96%8B%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-%E3%83%95/1420048776947655/",
+    "https://www.facebook.com/MitsubishiElectricFA.JP/posts/%EF%B8%8F-meca-cup-global-finals-2026-%E8%A1%A8%E5%BD%B0%E5%BC%8F%E3%81%8C%E7%B5%82%E4%BA%86%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%82%A2%E3%82%B8%E3%82%A2%E5%90%84%E5%9C%B0%E5%9F%9F%E3%81%AE%E4%BA%88%E9%81%B8%E3%82%92%E5%8B%9D%E3%81%A1%E6%8A%9C%E3%81%84%E3%81%9F%E5%85%A87%E3%83%81%E3%83%BC%E3%83%A0%E3%81%8C%E4%B8%80%E5%A0%82%E3%81%AB%E4%BC%9A%E3%81%97%E3%81%9F%E6%9C%AC%E5%A4%A7%E4%BC%9A%E8%A6%8B%E4%BA%8B%E5%84%AA%E5%8B%9D%E3%81%AB%E8%BC%9D%E3%81%84%E3%81%9F%E3%81%AE%E3%81%AF/1373543924931474/",
+    "https://www.facebook.com/p/%E6%84%9B%E7%9F%A5%E7%94%A3%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-100069334014784/",
+    "https://www.facebook.com/MitsubishiElectricFA.JP/posts/%E3%82%B5%E3%83%BC%E3%83%9C-%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC-%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85%E3%82%B7%E3%83%A3%E3%83%95%E3%83%88%E3%83%AA%E3%83%8B%E3%82%A2%E6%8A%80%E8%A1%93%E3%81%A8melservo-j5%E3%82%B5%E3%83%BC%E3%83%9C%E3%81%A7%E6%90%AC%E9%80%81%E6%8A%80%E8%A1%93%E9%9D%A9%E6%96%B0%E3%82%B5%E3%83%BC%E3%83%9C%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AE%E5%8F%AF%E8%83%BD%E6%80%A7%E3%82%92%E5%BA%83%E3%81%92%E3%82%8B%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E4%BC%81%E6%A5%AD%E3%81%A8%E3%81%AE%E9%80%A3%E6%90%BA%E3%82%92%E3%81%94%E7%B4%B9%E4%BB%8B%E4%BB%8A%E5%9B%9E/994945939457943/",
+    "https://www.facebook.com/jeol.jp/posts/4235814783115042/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "電子ビーム金属3Dプリンタ note 社長",
+   "results": [
+    "https://note.com/tomiriki_2026/n/nf901865424d4",
+    "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "https://www.youtube.com/watch?v=fmzRcU_XoMY",
+    "https://www.kyoei.co.jp/product/division/machine/3d_printer/news2019_03.html",
+    "https://note.com/nagoya_ura/n/n84b8fd06dcc4",
+    "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "https://note.com/moka_3dpsales/n/nb9ffba5b89d0",
+    "https://www.jstage.jst.go.jp/article/jjspm/68/10/68_442/_article/-char/ja/",
+    "https://www.marubeni-idigio.com/insight-hub/about-metal-3dprinter/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "電子ビーム金属3Dプリンタ X 投稿",
+   "results": [
+    "https://www.youtube.com/watch?v=fmzRcU_XoMY",
+    "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "https://www.youtube.com/playlist?list=PLDjwwOTQnQ9WyLwgtWk7vLspIPRVcNykd",
+    "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "https://jampt.jp/column/column_489/",
+    "https://metoree.com/categories/5523/",
+    "https://x.com/JEOL_Japan/status/1973218236306255988",
+    "https://www.kyoei.co.jp/product/division/machine/3d_printer/news2019_03.html",
+    "https://x.com/JEOL_Japan/status/2016323541113962850"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式13頁／PDF・画像1件／外部12頁・検索12回）",
+  "資本金": "記載なし（3回確認済み：公式13頁／PDF・画像1件／外部12頁・検索12回）",
+  "創業年度": "記載なし（3回確認済み：公式13頁／PDF・画像1件／外部12頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式13頁／PDF・画像1件／外部12頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像1件／外部12頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式13頁／PDF・画像1件／外部12頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式13頁／PDF・画像1件／外部12頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式13頁／PDF・画像1件／外部12頁・検索12回）"
+ }
+}

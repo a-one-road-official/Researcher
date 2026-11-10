@@ -1,0 +1,864 @@
+{
+ "name": "Classet",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜状態なし",
+ "researched_at": "2026-11-10T18:33:17.047467+00:00",
+ "official_url": "https://www.classet.ai",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$91,000",
+    "url": "https://prospeo.io/c/classet-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$3,000,000",
+    "url": "https://prospeo.io/c/classet-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Chicago, Illinois, United States",
+    "url": "https://prospeo.io/c/classet-revenue",
+    "pass": 3
+   },
+   {
+    "label": "HQ",
+    "value": "Chicago, IL, USA",
+    "url": "https://startupintros.com/orgs/classet",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2021",
+    "url": "https://prospeo.io/c/classet-revenue",
+    "pass": 3
+   },
+   {
+    "label": "Founded",
+    "value": "Founded：2022",
+    "url": "https://startupintros.com/orgs/classet",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "AI Recruitingの競争領域は履歴書評価だけでなく、応募直後の電話、ヒアリング、選考案内、日程調整まで広がっている",
+    "url": "https://note.com/growth_journal/n/n6c14a92c4564",
+    "pass": 3
+   },
+   {
+    "quote": "Classet Case Study: Ewing Outdoor Supply – How Ewing Outdoor Supply Streamlines Hiring with Classet’s Instant Interviews | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/classet/case-study/how-ewing-outdoor-supply-streamlines-hiring-with-classets-instant-interviews",
+    "pass": 3
+   },
+   {
+    "quote": "How Ewing Outdoor Supply Streamlines Hiring with Classet’s Instant Interviews",
+    "url": "https://www.casestudies.com/company/classet/case-study/how-ewing-outdoor-supply-streamlines-hiring-with-classets-instant-interviews",
+    "pass": 3
+   },
+   {
+    "quote": "How Ewing Outdoor Supply Streamlines Hiring with Classet’s Instant Interviews",
+    "url": "https://www.casestudies.com/company/classet",
+    "pass": 3
+   },
+   {
+    "quote": "How AI recruiting and AI interviews Are Transforming Home Services in Houston",
+    "url": "https://www.casestudies.com/company/classet",
+    "pass": 3
+   },
+   {
+    "quote": "How Hambleton Handyman scaled hiring through Classet (without the headache)",
+    "url": "https://www.casestudies.com/company/classet",
+    "pass": 3
+   },
+   {
+    "quote": "Staffing, Logistics, Hiring, Recruiting, AI, Customer Support, Interviewing, Skilled Trades",
+    "url": "https://prospeo.io/c/classet-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Classet automates the most time-consuming recruiting tasks with voice AI.",
+    "url": "https://prospeo.io/c/classet-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Our view is that recruiters provide the highest level of impact to candidates when they spend their time building relationships and helping candidates succeed. Transform your hiring with Classet's AI-powered instant interview solution. Automate screening, schedule effortlessly, and hire top talent faster than ever. Experience the future of recruitment now!",
+    "url": "https://prospeo.io/c/classet-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "We don't use AI to replace the human touch desperately needed in recruiting - we use AI to augment and accelerate it, while providing a best-in-class candidate experience!",
+    "url": "https://prospeo.io/c/classet-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View contact profiles from",
+    "url": "https://prospeo.io/c/classet-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Prima Management Limited",
+    "url": "https://prospeo.io/c/classet-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Classet has approximately",
+    "url": "https://prospeo.io/c/classet-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/classet-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/classet-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Get Targeted Leads for free",
+    "url": "https://prospeo.io/c/classet-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "AI Recruitingの競争領域は履歴書評価だけでなく、応募直後の電話、ヒアリング、選考案内、日程調整まで広がっている",
+    "url": "https://note.com/growth_journal/n/n6c14a92c4564?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本の人材会社でも、応募数の多い職種から「応募→即時接触→スクリーニング→CA対応」の再設計を検討する余地がある",
+    "url": "https://note.com/growth_journal/n/n6c14a92c4564",
+    "pass": 3
+   },
+   {
+    "quote": "CLASSET | 株式会社39度",
+    "url": "https://39degreesinc-hash.github.io/39degrees/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社39度 / Current focus",
+    "url": "https://39degreesinc-hash.github.io/39degrees/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の人材会社でも、応募数の多い職種から「応募→即時接触→スクリーニング→CA対応」の再設計を検討する余地がある",
+    "url": "https://note.com/growth_journal/n/n6c14a92c4564?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Classet、AI電話面接で選考コスト95％削減 人材会社の候補者転換率57... — Aug 20, 2026 · 米AI採用プラットフォームのClassetは、軽作業・物流系を扱う中堅人材会社でAI電話スクリーニングを導入した事例を公表した。 完了面接1件あたりのコストは40ドルから2ドルへ95％減少し、候補者のオンボーディング移行率は38.8％から61.1％へ上昇した。",
+    "url": "https://note.com/growth_journal/n/n6c14a92c4564",
+    "pass": 3
+   },
+   {
+    "quote": "AI Recruiter for Phone Interviews & Hiring Teams | Classet — It prescreens candidates with my chosen criteria using a 'live' AI agent interview, which is a huge time saver during each hire. The Classet team is incredibly responsive; they address issues very quickly, sometimes within a few minutes, and even implement my suggestions immediately.",
+    "url": "https://www.classet.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories | Classet — See how businesses are transforming their hiring process with Classet AI-powered interviews.",
+    "url": "https://www.classet.ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "CLASSET | 株式会社39度 — CLASSET Luxury asset management for the things you own. CLASSETは、ブランドバッグ・時計・ジュエリーなど、自分が所有するラグジュアリー商品の購入価格と現在価値を可視化し、資産として管理できるサービスです。 現在MVPを開発中です。",
+    "url": "https://39degreesinc-hash.github.io/39degrees/",
+    "pass": 3
+   },
+   {
+    "quote": "About Classet | AI Phone Interviews for High-Volume Hiring ... — Classet helps teams hiring hourly, skilled-trades, and frontline workers get to qualified candidates faster. Joy handles the first phone interview and sends results to your ATS or Hiring Hub.",
+    "url": "https://www.classet.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Recruiting Software | AI Phone Screening | Classet — Oct 9, 2026 · Classet's Joy does the screening by phone the moment someone applies, asks about shift, certifications and machines run, and delivers a summary, transcript and recording to Hiring Hub or your ATS. The category matters in manufacturing because of volume and timing.",
+    "url": "https://www.classet.ai/use-cases/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Classet Case Study: Ewing Outdoor Supply – How Ewing Outdoor ... — Ewing Outdoor Supply (Wholesale) partnered with Classet (Computer Software) to solve key challenges. \"How Ewing Outdoor Supply Streamlines Hiring with Classet’s Instant Interviews\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/classet/case-study/how-ewing-outdoor-supply-streamlines-hiring-with-classets-instant-interviews",
+    "pass": 3
+   },
+   {
+    "quote": "Classet B2B Case Studies & Customer Successes — See how Classet solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/classet",
+    "pass": 3
+   },
+   {
+    "quote": "Classet – Financials, Industry Trends & Funding Info – 2026 — Classet's foundation includes estimated revenue of $126K, team of around 1-10 employees, located in Chicago, ensuring a stable trajectory.",
+    "url": "https://compworth.com/company/classet",
+    "pass": 3
+   },
+   {
+    "quote": "Classet Revenue, Funding & Valuation - prospeo.io — Classet has revenue of $1,000,000, estimated valuation of $3,200,000, $3,000,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/classet-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Classet 2026 Company Profile: Valuation, Funding & Investors ...Classet: Funding, Team & Investors | Startup IntrosClasset - 2025 Company Profile, Team, Funding & Competitors ...Classet: Funding, Investors & Team (Nov 2026) | FundedIQClasset - Products, Competitors, Financials, Employees ... — Information on valuation, funding, cap tables, investors, and executives for Classet. Use the PitchBook P",
+    "url": "https://pitchbook.com/profiles/company/515006-38",
+    "pass": 3
+   },
+   {
+    "quote": "Classet: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Operating with a team of fewer than 25 employees, the enterprise currently generates under $5 million in estimated annual recurring revenue. To capitalize its operations, the company has raised less than $5 million in total venture funding across a single early-stage financing round.",
+    "url": "https://startupintros.com/orgs/classet",
+    "pass": 3
+   },
+   {
+    "quote": "Classet - 2025 Company Profile, Team, Funding & Competitors ...Classet: Funding, Investors & Team (Nov 2026) | FundedIQClasset - Products, Competitors, Financials, Employees ... — Jun 24, 2025 · Classet - About the company Classet is a seed company based in Chicago (United States), founded in 2021 by Cooper Newby, Nick Jones and Gino Rooney. It operates as an Online job board platform for skilled ",
+    "url": "https://tracxn.com/d/companies/classet/__zfvzGMbA_YUebUc-CH0p3BTCwRkZi5JLH8KYr2mLBMQ",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Classet Case Study: Ewing Outdoor Supply – How Ewing Outdoor Supply Streamlines Hiring with Classet’s Instant Interviews | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/classet/case-study/how-ewing-outdoor-supply-streamlines-hiring-with-classets-instant-interviews",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Ewing Outdoor Supply used Classet",
+    "url": "https://www.casestudies.com/company/classet/case-study/how-ewing-outdoor-supply-streamlines-hiring-with-classets-instant-interviews",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/classet/case-study/how-ewing-outdoor-supply-streamlines-hiring-with-classets-instant-interviews",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/classet/case-study/how-ewing-outdoor-supply-streamlines-hiring-with-classets-instant-interviews",
+    "pass": 3
+   },
+   {
+    "quote": "Staffing, Logistics, Hiring, Recruiting, AI, Customer Support, Interviewing, Skilled Trades",
+    "url": "https://prospeo.io/c/classet-revenue",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Classet Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/classet-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Classet",
+    "url": "https://prospeo.io/c/classet-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/classet-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/classet-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/classet-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Classet?",
+    "url": "https://prospeo.io/c/classet-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Classet generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/classet-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/classet-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/classet-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Classet have?",
+    "url": "https://prospeo.io/c/classet-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/classet-revenue",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/classet-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Classet reduces recruitment costs by 95% with AI phone ... Aug 20, 2026 · Classet, a US-based AI recruitment platform, has published a case study on the implementation of AI phone screening at a mid-sized staffing firm specializing in light industrial and logistics roles.",
+    "url": "https://note.com/growth_journal/n/n6c14a92c4564?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Classet、AI電話面接で選考コスト95％削減 人材会社の候補者転換率57... Aug 20, 2026 · 米AI採用プラットフォームのClassetは、軽作業・物流系を扱う中堅人材会社でAI電話スクリーニングを導入した事例を公表した。 完了面接1件あたりのコストは40ドルから2ドルへ95％減少し、候補者のオンボーディング移行率は38.8％から61.1％へ上昇した。",
+    "url": "https://note.com/growth_journal/n/n6c14a92c4564",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Classet、AI電話面接で選考コスト95％削減 人材会社の候補者転換率57％向上｜人材タイムズ",
+    "url": "https://note.com/growth_journal/n/n6c14a92c4564?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Classet、AI電話面接で選考コスト95％削減 人材会社の候補者転換率57％向上",
+    "url": "https://note.com/growth_journal/n/n6c14a92c4564?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "米AI採用プラットフォームのClassetは、軽作業・物流系を扱う中堅人材会社でAI電話スクリーニングを導入した事例を公表した。完了面接1件あたりのコストは40ドルから2ドルへ95％減少し、候補者のオンボーディング移行率は38.8％から61.1％へ上昇した。重要なのは、24時間の即時対応によって「応募後に候補者とつながれない」という人材会社特有の機会損失を改善した点だ。",
+    "url": "https://note.com/growth_journal/n/n6c14a92c4564?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Classetが2025年8月に公開した事例によると、軽作業・物流系人材を扱う中堅人材会社が候補者の一次スクリーニングにAI電話面接を導入した。",
+    "url": "https://note.com/growth_journal/n/n6c14a92c4564?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "従来は営業時間内の電話対応が中心で、夜間・週末の応募への接触遅延、週1,100分以上に及ぶスクリーニング業務、繁忙期の処理能力、多言語対応などが課題だった。",
+    "url": "https://note.com/growth_journal/n/n6c14a92c4564?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "そこでClassetのAIを利用し、応募後の即時電話、24時間対応、複数候補者の同時スクリーニング、自動フォロー、多言語対応を導入した。Classetは応募直後にAIが候補者へ電話し、職種ごとの質問を行い、面接録音や要約を採用担当者が確認できる仕組みを提供している。(classet.org⁠￼)",
+    "url": "https://note.com/growth_journal/n/n6c14a92c4564?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "結果、完了面接あたりのコストは40ドルから2ドル、週間の対応時間は1,127分から202分へ低下。従来は6,248件のリードから2,426人がオンボーディングへ進んでいたのに対し、Classet導入時は6,143件から3,756人が進み、移行率は38.8％から61.1％へ改善した。",
+    "url": "https://note.com/growth_journal/n/n6c14a92c4564?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "同社の試算では年間45万6,000ドルのスクリーニングコスト削減につながった。今後は対象職種の拡大、候補者スコアリングの高度化、ATS・CRMとの追加連携を進める計画だ。",
+    "url": "https://note.com/growth_journal/n/n6c14a92c4564?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Classet、AI電話面接で選考コスト95％削減 人材会社の候補者転換率57％向上｜人材タイムズ",
+    "url": "https://note.com/growth_journal/n/n6c14a92c4564",
+    "pass": 3
+   },
+   {
+    "quote": "Classet、AI電話面接で選考コスト95％削減 人材会社の候補者転換率57％向上",
+    "url": "https://note.com/growth_journal/n/n6c14a92c4564",
+    "pass": 3
+   },
+   {
+    "quote": "米AI採用プラットフォームのClassetは、軽作業・物流系を扱う中堅人材会社でAI電話スクリーニングを導入した事例を公表した。完了面接1件あたりのコストは40ドルから2ドルへ95％減少し、候補者のオンボーディング移行率は38.8％から61.1％へ上昇した。重要なのは、24時間の即時対応によって「応募後に候補者とつながれない」という人材会社特有の機会損失を改善した点だ。",
+    "url": "https://note.com/growth_journal/n/n6c14a92c4564",
+    "pass": 3
+   },
+   {
+    "quote": "Classetが2025年8月に公開した事例によると、軽作業・物流系人材を扱う中堅人材会社が候補者の一次スクリーニングにAI電話面接を導入した。",
+    "url": "https://note.com/growth_journal/n/n6c14a92c4564",
+    "pass": 3
+   },
+   {
+    "quote": "従来は営業時間内の電話対応が中心で、夜間・週末の応募への接触遅延、週1,100分以上に及ぶスクリーニング業務、繁忙期の処理能力、多言語対応などが課題だった。",
+    "url": "https://note.com/growth_journal/n/n6c14a92c4564",
+    "pass": 3
+   },
+   {
+    "quote": "そこでClassetのAIを利用し、応募後の即時電話、24時間対応、複数候補者の同時スクリーニング、自動フォロー、多言語対応を導入した。Classetは応募直後にAIが候補者へ電話し、職種ごとの質問を行い、面接録音や要約を採用担当者が確認できる仕組みを提供している。(classet.org⁠￼)",
+    "url": "https://note.com/growth_journal/n/n6c14a92c4564",
+    "pass": 3
+   },
+   {
+    "quote": "結果、完了面接あたりのコストは40ドルから2ドル、週間の対応時間は1,127分から202分へ低下。従来は6,248件のリードから2,426人がオンボーディングへ進んでいたのに対し、Classet導入時は6,143件から3,756人が進み、移行率は38.8％から61.1％へ改善した。",
+    "url": "https://note.com/growth_journal/n/n6c14a92c4564",
+    "pass": 3
+   },
+   {
+    "quote": "同社の試算では年間45万6,000ドルのスクリーニングコスト削減につながった。今後は対象職種の拡大、候補者スコアリングの高度化、ATS・CRMとの追加連携を進める計画だ。",
+    "url": "https://note.com/growth_journal/n/n6c14a92c4564",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Classet (@classet_ai) / Posts / X Classet is on a mission to improve the hiring experience for all. Classet automates the most time-consuming recruiting tasks with conversational voice AI.",
+    "url": "https://x.com/classet_ai",
+    "pass": 3
+   },
+   {
+    "quote": "Meet Joy, the AI-driven recruiter who calls and filters ... Classet (@classet_ai). 17 likes 7 replies. Meet Joy, the AI-driven recruiter who calls and filters candidates instantly, saving you hours every day",
+    "url": "https://x.com/classet_ai/status/2019862452792660417",
+    "pass": 3
+   },
+   {
+    "quote": "Meet Joy, the AI-driven recruiter who calls and filters ... Classet (@classet_ai). 5 likes 3 replies. Meet Joy, the AI-driven recruiter who calls and filters candidates instantly, saving you hours every day",
+    "url": "https://x.com/classet_ai/status/2019862452809425235",
+    "pass": 3
+   },
+   {
+    "quote": "Giving candidates the space to show up authentically in the ... Classet (@classet_ai). 12 views. Giving candidates the space to show up authentically in the application process not only improves engagement, but also helps recruiter–candidate conversations start in a more productive and meaningful place.",
+    "url": "https://x.com/classet_ai/status/2042603843070972126",
+    "pass": 3
+   },
+   {
+    "quote": "Classet (@classet_ai) / Posts / X May 10, 2022 · When candidates receive immediate engagement from Joy, Classet’s AI agent, after applying, completion rates increase and follow-up conversations with recruiters are more productive.",
+    "url": "https://x.com/classet_ai",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Classet - LinkedIn Transform your hiring with Classet's AI-powered instant interview solution. Automate screening, schedule effortlessly, and hire top talent faster than ever. Experience the future of recruitment...",
+    "url": "https://www.linkedin.com/company/classet-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Classet - LinkedIn About Classet helps businesses across the US hire the most qualified skilled employees on the market.",
+    "url": "https://www.linkedin.com/products/classet-trades-classet/",
+    "pass": 3
+   },
+   {
+    "quote": "Classet - LinkedIn Every child is unique. Classet learning application and its contents are crafted to evoke a student's curiosity by exploring highly intuitive and interactive content.",
+    "url": "https://www.linkedin.com/company/classet-offl",
+    "pass": 3
+   },
+   {
+    "quote": "Classet hiring Craftsman in Des Moines, IA | LinkedIn May 28, 2026 · Classet provided pay range This range is provided by Classet. Your actual pay will be based on your skills and experience — talk with your recruiter to learn more.",
+    "url": "https://www.linkedin.com/jobs/view/4419902486",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Classet - Facebook Classet. 41 followers. The AI Recruiter that Engages Qualified Applicants and Delivers Top Talent.",
+    "url": "https://www.facebook.com/classet.org/",
+    "pass": 3
+   },
+   {
+    "quote": "Classet Collections - FacebookMost applicants never hear back. Joy changes that. Every ...To be effective, AI interviews need to be conversational and ...Classet - Still juggling too many candidates? Let Joy ...Classet - New research from 70,000 job interviews. A ...The Claset - Facebook Nov 19, 2024 · Classet Collections. 1,716 likes. Hello :) Thank you for popping over. I have always been crafty",
+    "url": "https://www.facebook.com/ClassetCollections/",
+    "pass": 3
+   },
+   {
+    "quote": "Classet - Still juggling too many candidates? Let Joy ... Nov 12, 2025 · Still juggling too many candidates? Let Joy handle the busywork. From first touch to pre-screening calls, Joy automates recruiting so you can focus on real hires — not endless inboxes. CLASSET.AI Meet Your AI Recruiter",
+    "url": "https://www.facebook.com/100083001648792/posts/824189683691079/",
+    "pass": 3
+   },
+   {
+    "quote": "Classet - New research from 70,000 job interviews. A ... Nov 24, 2025 · Javier Llevada, Chief Growth Officer at StaffDNA, shared how Classet's voice AI helps recruiters capture what each healthcare professional is really looking for, turning early conversations into clear summaries that drive more personal, efficient follow-ups.#AIRecruiting#HealthcareHiring#TalentAcquisition#CandidateExperience#A",
+    "url": "https://www.facebook.com/classet.org/posts/new-research-from-70000-job-interviews-a-look-at-what-candidates-and-hiring-team/833124392797608/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.classet.ai/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://note.com/growth_journal/n/n6c14a92c4564",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://39degreesinc-hash.github.io/39degrees/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yamamoto_ec/n/nfa7d11908a21",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gate1travel.com/tour/tour-japan-9dclajp26.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japaneseclassics.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.casestudies.com/company/classet/case-study/how-ewing-outdoor-supply-streamlines-hiring-with-classets-instant-interviews",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/classet",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://opensrs.com/campaigns/become-a-domain-reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/classet",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/classet-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/515006-38",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/classet",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/growth_journal/n/n6c14a92c4564?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/growth_journal/n/n6c14a92c4564",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/classet_ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/classet_ai/status/2019862452792660417",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/classet_ai/status/2019862452809425235",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/classet_ai/status/2042603843070972126",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/classet-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/classet-trades-classet/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/classet-offl",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/view/4419902486",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/classet.org/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ClassetCollections/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/100083001648792/posts/824189683691079/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/classet.org/posts/new-research-from-70000-job-interviews-a-look-at-what-candidates-and-hiring-team/833124392797608/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/classet_ai",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Classet 日本 導入",
+   "results": [
+    "https://note.com/growth_journal/n/n6c14a92c4564",
+    "https://www.classet.ai/",
+    "https://www.classet.ai/case-studies",
+    "https://39degreesinc-hash.github.io/39degrees/",
+    "https://classmethod.jp/services/claude/",
+    "https://localailab.org/claude-japan-enterprise-adoption-2026/",
+    "https://ai.zenken.co.jp/post/claude-japan-case-studies/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Classet 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://note.com/yamamoto_ec/n/nfa7d11908a21",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "https://www.kkhashi.com/blogs/detail/145/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Classet Japan",
+   "results": [
+    "https://www.classet.ai/",
+    "https://www.classet.ai/about",
+    "https://www.gate1travel.com/tour/tour-japan-9dclajp26.aspx",
+    "https://www.japaneseclassics.com/",
+    "https://www.cosmos.com/tour/classic-japan-land-of-the-rising-sun/2510/",
+    "https://app.classet.ai/home/",
+    "https://www.classicjapan.co.jp/english/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Classet manufacturing customer case study",
+   "results": [
+    "https://www.classet.ai/use-cases/manufacturing",
+    "https://www.classet.ai/case-studies",
+    "https://www.casestudies.com/company/classet/case-study/how-ewing-outdoor-supply-streamlines-hiring-with-classets-instant-interviews",
+    "https://www.casestudies.com/company/classet",
+    "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "https://www.featuredcustomers.com/vendor/classet/case-studies",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Classet white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://opensrs.com/campaigns/become-a-domain-reseller",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://www.resellercluster.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Classet founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/classet",
+    "https://prospeo.io/c/classet-revenue",
+    "https://pitchbook.com/profiles/company/515006-38",
+    "https://startupintros.com/orgs/classet",
+    "https://tracxn.com/d/companies/classet/__zfvzGMbA_YUebUc-CH0p3BTCwRkZi5JLH8KYr2mLBMQ",
+    "https://fundediq.co/classet-classet-org-funding/",
+    "https://www.cbinsights.com/company/classet"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Classet",
+   "results": [
+    "https://note.com/growth_journal/n/n6c14a92c4564?hl=en",
+    "https://note.com/growth_journal/n/n6c14a92c4564",
+    "https://note.com/seigo77",
+    "https://note.com/genial_pony9866/n/n1310ced89f04?hl=en",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Classet",
+   "results": [
+    "https://x.com/classet_ai",
+    "https://x.com/classet_ai/status/2019862452792660417",
+    "https://x.com/classet_ai/status/2019862452809425235",
+    "https://x.com/classet_ai/status/2042603843070972126",
+    "https://x.com/classet_ai/status/2019862453421842455",
+    "https://x.com/sanatanihelp",
+    "https://x.com/kyomamis/status/2115160978098729025"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Classet",
+   "results": [
+    "https://www.linkedin.com/company/classet-ai",
+    "https://www.linkedin.com/products/classet-trades-classet/",
+    "https://www.linkedin.com/company/classet-offl",
+    "https://www.linkedin.com/jobs/view/4419902486",
+    "https://www.linkedin.com/in/nick-jones-12838680",
+    "https://www.linkedin.com/in/coopernewby",
+    "https://www.linkedin.com/in/johnny-rooney-classet"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Classet",
+   "results": [
+    "https://www.facebook.com/classet.org/",
+    "https://www.facebook.com/ClassetCollections/",
+    "https://www.facebook.com/100083001648792/posts/824189683691079/",
+    "https://www.facebook.com/classet.org/posts/new-research-from-70000-job-interviews-a-look-at-what-candidates-and-hiring-team/833124392797608/",
+    "https://www.facebook.com/people/The-Claset/100083147141422/",
+    "https://www.facebook.com/classet.org/videos/to-be-effective-ai-interviews-need-to-be-conversational-and-two-way-meaning-cand/1395486868963524/",
+    "https://www.facebook.com/classet.org/videos/ai-phone-interviews-for-every-applicant/3594450314044575/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Classet note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://www.zaikai.jp/articles/detail/2552"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Classet X 投稿",
+   "results": [
+    "https://x.com/classet_ai",
+    "https://note.com/ai_benkyo/n/ne0f813d1e370",
+    "https://x.com/",
+    "https://gist.github.com/Ryunosuke-Tanaka-sti/223661bc0e63ff88226a3de81e84feda",
+    "https://techgym.jp/column/x-twitter/",
+    "https://classx.org/",
+    "https://www.witha.jp/sns・マーケティング/x-posting-guide-beginners/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）"
+ }
+}

@@ -1,0 +1,774 @@
+{
+ "name": "株式会社HBD",
+ "aliases": [],
+ "context": "PBF=yes 装置=HBD 出典=https://irbank.net/holder/株式会社HBD",
+ "researched_at": "2026-11-10T18:25:14.769926+00:00",
+ "official_url": "https://www.hbdinc.com/",
+ "identified_by": "search:ddgs:yahoo:HBD",
+ "profile": {},
+ "evidence": {
+  "資本金・株主": [
+   {
+    "quote": "いずれの投資シーンにおいても特定の手法に限定することはなく、株式もしくは債権を中心にマイノリティ出資から完全買収まで、事案を踏まえた最適な手法を採用致します",
+    "url": "https://www.h-bd.co.jp/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Company | 株式会社HBD — Jun 6, 2000 · 株式会社HBDの会社概要をご案内いたします。",
+    "url": "https://www.h-bd.co.jp/company",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社HBD | Compalyze — 〒171-0021 東京都豊島区に本社を置く株式会社HBDの企業情報。株式会社HBDは、光通信グループの豊富な資源、経験、実績を最大限に活用し。FIN (FIN-05)、2000年設立、従業員44名。純利益16億円。代表者 鮑俊。役員2名・登記4件・決算6期。",
+    "url": "https://compalyze.co.jp/company/1013301022784",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社HBD — 株式会社HBDは、あらゆる分野で事業支援を提供いたします。 光通信グループの豊富な資源、経験・実績を活かし、 バイアウト投資、MBO支援等を行っております。",
+    "url": "https://www.h-bd.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社HBDホールディングス（東京都）の会社概要・役員 | Compalyze — 〒171-0021 東京都豊島区に本社を置く株式会社HBDホールディングスの企業情報。株式会社HBDホールディングスは、光通信グループの株式会社HBDと同一グループの事業体として、ベンチャー投資。FIN (FIN-05)、2020年設立。純利益33億円。代表者 和田拓士。役員1名・登記3件・決算6期。",
+    "url": "https://compalyze.co.jp/company/6013301045921",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社HBDホールディングスの会社情報・決算公告 | 官報決算データ... — Mar 31, 2026 · 株式会社HBDホールディングスの会社情報を掲載しています。最新の2026年3月期決算は純利益33億3618万4000円、利益剰余金195億5990万2000円、総資産197億3591万8000円です。所在地は東京都豊島区西池袋一丁目4番10号で、代表者は和田 拓士さんです。",
+    "url": "https://catr.jp/companies/8e55c/181152",
+    "pass": 3
+   },
+   {
+    "quote": "Home - HBD — 金属3Dプリンティング HBD integrates Laser Powder Bed Fusion, multi-laser systems, powder management, and process monitoring into its metal 3D printers to support reliable, precise, and scalable additive manufacturing.",
+    "url": "https://en.hb3dp.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "HBD 金属3Dプリンター – 日本未来技研 — 中国HBD社の金属積層造形装置を日本サポート付きで導入。欧米製の半額帯で実用粉末床溶融結合(LPBF)を実現。",
+    "url": "https://nmgiken.jp/hbd/",
+    "pass": 3
+   },
+   {
+    "quote": "Home - HBD — HBD integrates Laser Powder Bed Fusion, multi-laser systems, powder management, and process monitoring into its metal 3D printers to support reliable, precise, and scalable additive manufacturing.",
+    "url": "https://en.hb3dp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター『HBD-150』 SK Additive Innovation | イプロス — Apr 24, 2023 · SK Additive Innovationの金属3Dプリンター『HBD-150』の技術や価格情報などをご紹介。データ再現度が高い！信頼のある高い品質を備えた産業用カスタマイズ機器イプロスではプリンタなどBtoB向けの情報を多数掲載。応相談応相談",
+    "url": "https://www.ipros.com/product/detail/2000837745/",
+    "pass": 3
+   },
+   {
+    "quote": "HBD – 日本未来技研 - nmgiken.jp — HBD の金属3Dプリンターは、レーザー粉末床溶融結合法（LPBF）を採用し、高精度かつ高密度な金属造形を実現します。航空宇宙、医療、自動車、金型など幅広い分野に対応し、複雑形状の一体造形や軽量化設計も可能。高出力レーザーやマルチレーザー構成により、生産性と品質の両立を実現し ...",
+    "url": "https://nmgiken.jp/home/product/hbd/",
+    "pass": 3
+   },
+   {
+    "quote": "Home - HBD — HBD supports manufacturers, research institutions, and engineering teams with LPBF metal additive manufacturing solutions tailored to complex geometries, lightweight structures, functional prototypes, and production-ready metal parts.",
+    "url": "https://en.hb3dp.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "HBD 800 - HBD - en.hb3dp.com — HBD 800 is a production-scale metal AM system built for aerospace efficiency and reliability. Ten synchronized lasers, driven by HBD’s proprietary scanning optics, deliver high-precision builds with 30 um alignment accuracy and <5 min auto-calibration. Bidirectional, speed-adaptive recoating and realtime layer monitoring ensure consistent part quality, while an optim",
+    "url": "https://en.hb3dp.com/products/hbd-800/",
+    "pass": 3
+   },
+   {
+    "quote": "造形出力サービス HBD400–高性能金属3Dプリンター 【Lab BRAINS】－ア... — Mar 13, 2025 · また、長寿命フィルターシステムを搭載しており、安定した連続運用が可能で、コストパフォーマンスにも優れています。 HBD 400は、高精度・高効率な金属造形を求める企業に最適な3Dプリンターです。 ぜひ、次世代の製造技術としてご検討ください。",
+    "url": "https://lab-brains.as-1.co.jp/document/download/2025/03/74154/",
+    "pass": 3
+   },
+   {
+    "quote": "光通信（9435）の親会社・連結子会社等 | IRBANK — HBD 2021年3月31日 100.0 (100.0)% 住所 東京都豊島区 主要な事業の内容 法人サービス 資本金または出資金 100百万円 AIに相談する IRBANK AIに無料相談 IRBANKをAIにつなぐ 普段使っているAIに聞く ChatGPT に聞く Gemini に聞く Claude に聞く Perplexity に聞く",
+    "url": "https://irbank.net/E04948/ac?m=株式会社HBD",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社HBD 第25期決算公告（2025年3月期）・子会社・グループ情報 |... — Mar 31, 2025 · 2025年8月4日に発表された株式会社HBDの第25期決算公告は、純利益15億7091万5000円、利益剰余金129億1133万円、総資産153億5203万5000円。株式会社HBDの子会社・関連会社4社の情報も掲載しています。所在地は東京都豊島区西池袋一丁目4番10号で、代表者は鮑 俊さんです。",
+    "url": "https://catr.jp/companies/e1a66/25429/settlements/80da7/427076",
+    "pass": 3
+   },
+   {
+    "quote": "HBDの企業概要・売上・業績など｜Yahoo!しごとカタログ — HBDの会社概要や売上・業績などを詳細に掲載。他にも評判・クチコミ・年収・求人・売上などの情報も。しごとカタログでは様々な角度で企業の評判を知ることができます。",
+    "url": "https://jobcatalog.yahoo.co.jp/company/2000120211/information/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社HBDの転職・企業概要 − 転職ならdoda（デューダ）株式会社HBDってどんな会社？事業内容、仕事内容、働き方は？株式会社HBD の企業情報 | バフェット・コード — 株式会社HBDの公開中の求人（4件）や従業員・年収・事業内容・業績・業種・所在地の情報などを掲載。dodaの企業情報ページでは上場企業や、大手から中小企業まで476,447社の企業情報が無料で検索・閲覧できます。ぜひ志望動機や面接対策の研究にお役立てください。 Sep 27, 2024 · 株式会社HBDは、東証プライム上場の光通信グループに属する企業です。光通信グループの資本業務提携や新規事業開発を担うコア・カンパニーとして、圧倒的な資本力と事業展開のスピードを誇っています。投資戦略を用いた既存事業とのシナジー創出にも積極的に取り組んでおりますね。 株式会社HBDは光通信グループの豊富なリソースと実績を活かして",
+    "url": "https://doda.jp/DodaFront/View/Company/j_id__10151640800/",
+    "pass": 3
+   }
+  ],
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "HBD supports manufacturers, research institutions, and engineering teams with LPBF metal additive manufacturing solutions tailored to complex geometries, lightweight structures, functional prototypes, and production-ready metal parts.",
+    "url": "https://en.hb3dp.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "Laser Powder Bed Fusion (LPBF)",
+    "url": "https://en.hb3dp.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "Through layer-by-layer powder melting, LPBF produces dense, precise components with complex geometries, integrated channels, and customized structures beyond the limits of conventional manufacturing.",
+    "url": "https://en.hb3dp.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "HBD 金属3Dプリンター – 日本未来技研",
+    "url": "https://nmgiken.jp/hbd/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター",
+    "url": "https://nmgiken.jp/hbd/",
+    "pass": 3
+   },
+   {
+    "quote": "LPBF（Laser Powder Bed Fusion）方式",
+    "url": "https://nmgiken.jp/hbd/",
+    "pass": 3
+   },
+   {
+    "quote": "導入から保守まで、日本サポート完備の正規代理店",
+    "url": "https://nmgiken.jp/hbd/",
+    "pass": 3
+   },
+   {
+    "quote": "HBD supports manufacturers, research institutions, and engineering teams with LPBF metal additive manufacturing solutions tailored to complex geometries, lightweight structures, functional prototypes, and production-ready metal parts.",
+    "url": "https://en.hb3dp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Laser Powder Bed Fusion (LPBF)",
+    "url": "https://en.hb3dp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Through layer-by-layer powder melting, LPBF produces dense, precise components with complex geometries, integrated channels, and customized structures beyond the limits of conventional manufacturing.",
+    "url": "https://en.hb3dp.com/",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "3Dプリントされたチタン製の顎骨は、シームレスな統合、最適化された機能性、自然な審美性のための生体適合性材料で患者固有のデザインを提供し、手術時間を短縮し、回復を早めます",
+    "url": "https://en.hb3dp.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末をレーザーで溶融し、高密度金属部品を造形",
+    "url": "https://nmgiken.jp/hbd/",
+    "pass": 3
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "コンフォーマル冷却チャンネル付き金型インサート",
+    "url": "https://en.hb3dp.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリント金型インサートは、シミュレートされたコンフォーマル冷却を特徴とし、サイクルタイムを短縮し、熱管理を改善し、より高品質な成形部品を提供します",
+    "url": "https://en.hb3dp.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "HBD 3Dプリンティング技術により、このような熱交換器は航空宇宙用途の高性能冷却に使用されます",
+    "url": "https://en.hb3dp.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙、医療、自動車、金型など幅広い分野に対応",
+    "url": "https://nmgiken.jp/hbd/",
+    "pass": 3
+   },
+   {
+    "quote": "医療，福祉 (821)",
+    "url": "https://catr.jp/companies/8e55c/181152",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "You can grow $HBD (Hive Backed Dollars) with interest. How to ... Aug 29, 2025 · How to use HBD Savings You can deposit into HBD Savings from the HIVE WALLET, the PeakD Wallet screen, or the Ecency Wallet screen. In this article, I will explain the steps based on the PeakD Wallet screen. Go to the Wallet screen Click the profile icon in the top right of the screen to display the menu.",
+    "url": "https://note.com/gokyo777/n/nc83140008b96?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "総合耐久指数H(B+D)対HBD/(B+D)はどう違う！？-一次近似のお話- Jan 23, 2024 · そのうえで、耐久指数の話をしたいとき2topが努力値振りとポケモン間比較（一部を除いたりせずに）であること、HBD/ (B+D)もそんなに複雑な計算ではないことから、H (B+D)が自分にとってほぼ無価値になっているのかなと考えました。",
+    "url": "https://note.com/pyran19/n/n90a5149185eb",
+    "pass": 3
+   },
+   {
+    "quote": "淳太くんHBD (WEST.担当の妄想)｜takelin72 Oct 20, 2026 · 淳太くん、お誕生日おめでとう！ インライありがとう、号泣しちゃったよ グループでは、飲み込んで、やらなかったこと、今度は全部やってね 応援するよ！ XでJasmineꓸさんがやってくださったアンケート 🏆️🌈アリガトWESTꓸ AWARD🌈🏆️ 【アンケート結果発表について】 ※こちらは ...",
+    "url": "https://note.com/takelin72/n/n652c08dc478e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "You can grow $HBD (Hive Backed Dollars) with interest. How to use HBD Savings｜go-kyo",
+    "url": "https://note.com/gokyo777/n/nc83140008b96?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "You can grow $HBD (Hive Backed Dollars) with interest. How to use HBD Savings",
+    "url": "https://note.com/gokyo777/n/nc83140008b96?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "⚠️Note: This article explains how to use HBD Savings and does not constitute investment advice. Trading and saving crypto assets involve risks. Please use this service at your own discretion and risk.",
+    "url": "https://note.com/gokyo777/n/nc83140008b96?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Author Rewards earned on Hive.blog can be received in the following two types of currency:",
+    "url": "https://note.com/gokyo777/n/nc83140008b96?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・$HBD (Hive Backed Dollars)",
+    "url": "https://note.com/gokyo777/n/nc83140008b96?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For a more detailed explanation of rewards, click",
+    "url": "https://note.com/gokyo777/n/nc83140008b96?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "US dollar-pegged stablecoin",
+    "url": "https://note.com/gokyo777/n/nc83140008b96?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "that can be traded for $HIVE at the exchange within your Wallet, sent to others, or",
+    "url": "https://note.com/gokyo777/n/nc83140008b96?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "総合耐久指数H(B+D)対HBD/(B+D)はどう違う！？-一次近似のお話-｜ぴらん",
+    "url": "https://note.com/pyran19/n/n90a5149185eb",
+    "pass": 3
+   },
+   {
+    "quote": "総合耐久指数H(B+D)対HBD/(B+D)はどう違う！？-一次近似のお話-",
+    "url": "https://note.com/pyran19/n/n90a5149185eb",
+    "pass": 3
+   },
+   {
+    "quote": "お久しぶりです。こんにちぴらーーん。ブログとnoteとで記事が分散してきて運用方針に悩み中のぴらんです。",
+    "url": "https://note.com/pyran19/n/n90a5149185eb",
+    "pass": 3
+   },
+   {
+    "quote": "さて、先日TLが耐久指数の議論でにぎわいました。数字好きとしては嬉しい限りです。そんな中少しに気になる記事とやり取りを見かけました。",
+    "url": "https://note.com/pyran19/n/n90a5149185eb",
+    "pass": 3
+   },
+   {
+    "quote": "やりとりを引用しようと思うとどうしてもスクショになりがち",
+    "url": "https://note.com/pyran19/n/n90a5149185eb",
+    "pass": 3
+   },
+   {
+    "quote": "さて、耐久指数としてHBD/(B+D)派を使うべき派だったのですが、H(B+D)でも近い値になると聞くと近似大好きクラブ会員としてはほんとに近い値になるのか、どの程度近いのかを確かめに行かざるを得ません。調べてみたら意外と良い近似だったので今回はその調査レポになります。",
+    "url": "https://note.com/pyran19/n/n90a5149185eb",
+    "pass": 3
+   },
+   {
+    "quote": "総合耐久指数HBD/(B+D)と簡略化した耐久指数H(B+D)の関係について調べ、H(B+D)はB≃Dの時の一次近似になっていることを示しました。また、注意点としてBDの努力値振り分けで破綻する仕組みについて解説し、努力値振り以外の話題では精度良く計算出来ていることを確かめました。",
+    "url": "https://note.com/pyran19/n/n90a5149185eb",
+    "pass": 3
+   },
+   {
+    "quote": "引用の記事でも触れているので軽く扱うのみとします。",
+    "url": "https://note.com/pyran19/n/n90a5149185eb",
+    "pass": 3
+   },
+   {
+    "quote": "淳太くんHBD(WEST.担当の妄想)｜takelin72",
+    "url": "https://note.com/takelin72/n/n652c08dc478e",
+    "pass": 3
+   },
+   {
+    "quote": "グループでは、飲み込んで、やらなかったこと、今度は全部やってね",
+    "url": "https://note.com/takelin72/n/n652c08dc478e",
+    "pass": 3
+   },
+   {
+    "quote": "XでJasmineꓸさんがやってくださったアンケート",
+    "url": "https://note.com/takelin72/n/n652c08dc478e",
+    "pass": 3
+   },
+   {
+    "quote": "🏆️🌈アリガトWESTꓸ AWARD🌈🏆️",
+    "url": "https://note.com/takelin72/n/n652c08dc478e",
+    "pass": 3
+   },
+   {
+    "quote": "※こちらは、WESTꓸご本人とは全く無関係の、ただのファンが勝手に思いついて開催した企画です。",
+    "url": "https://note.com/takelin72/n/n652c08dc478e",
+    "pass": 3
+   },
+   {
+    "quote": "WEST.さんが12年間届けてくれた沢山の音楽を楽しく振り返る、イチWEST.ファンによるゆるゆる企画です。…",
+    "url": "https://note.com/takelin72/n/n652c08dc478e",
+    "pass": 3
+   },
+   {
+    "quote": "pic.twitter.com/H7cnYsfEcR",
+    "url": "https://note.com/takelin72/n/n652c08dc478e",
+    "pass": 3
+   },
+   {
+    "quote": "— パンダ寄りのmu*（ムウ)🐼🌈✨ (@mumu_panda47)",
+    "url": "https://note.com/takelin72/n/n652c08dc478e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "hbd (@hbd_bday) / X Mention Follow PostsPosts RepliesReplies RepostsReposts MediaMedia hbd @hbd_bday Nov 8 8",
+    "url": "https://x.com/hbd_bday",
+    "pass": 3
+   },
+   {
+    "quote": "hbd chick (@hbdchick) / X 3 16 801 hbd chick @hbdchick Nov 4 All 5 genetic “letters” of DNA and RNA discovered in a 4.5-billion-year-old asteroid",
+    "url": "https://x.com/hbdchick",
+    "pass": 3
+   },
+   {
+    "quote": "HBD (@hbdplaces) / X HBD has always been committed to investing in colleagues, ensuring that they are the best versions of themselves, through policies which protect wellbeing and cover everything from mental health to shared parental leave.",
+    "url": "https://x.com/hbdplaces",
+    "pass": 3
+   },
+   {
+    "quote": "hbd on X hbd (@hbd_bday) on X im starting to memorize the time it usually takes for u to post more art which is around 4-5 days ohhh my god i love it so much thank u thank u thank u for this meal",
+    "url": "https://x.com/hbd_bday/status/2112885586734502318",
+    "pass": 3
+   },
+   {
+    "quote": "HBD 爆〇 を支援サイト等に投稿しました - x.com Apr 20, 2026 · 青野志士 (@aonoshishi). 483 likes. HBD 爆〇 を支援サイト等に投稿しました",
+    "url": "https://x.com/aonoshishi/status/2046244481771676063",
+    "pass": 3
+   },
+   {
+    "quote": "あさ on X: \"せっきせいさんのHBD投稿もすべてにしないと見れないのか... Nov 1, 2026 · せっきせいさんのHBD投稿もすべてにしないと見れないのか この日はXで不具合があったと思いたい",
+    "url": "https://x.com/starLibraGemini/status/2116750793428943037",
+    "pass": 3
+   },
+   {
+    "quote": "Cale HBD fanscafe in Taiwan on X: \" 投稿活動進行中 https://t.co .... 投稿活動進行中 https://t.co/PzLV7eeXcE 23 Oct 2026 11:00:02",
+    "url": "https://x.com/LCF_fanevent_TW/status/2113586239064740218",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "HBD Services - Bangladesh | Dhaka - FacebookHBD Services | Dhaka - FacebookHBD Additive Manufacturing - Laser Powder Bed Fusion - FacebookHBD Meaning and Common Variations - FacebookHBD MotoGrafx | Daytona Beach FL - FacebookHBD Inc. | Greensboro NC - FacebookHBD Services Bangladesh Community - Facebook Oct 15, 2026 · HBD Services - Bangladesh, Dhaka. 20,319 followers · 835 talking about this · 91",
+    "url": "https://www.facebook.com/hbdservices.bd/",
+    "pass": 3
+   },
+   {
+    "quote": "HBD Services | Dhaka - FacebookHBD Additive Manufacturing - Laser Powder Bed Fusion - FacebookHBD Meaning and Common Variations - FacebookHBD MotoGrafx | Daytona Beach FL - FacebookHBD Inc. | Greensboro NC - FacebookHBD Services Bangladesh Community - Facebook Oct 15, 2026 · HBD Services, Dhaka. 290,162 followers · 119 talking about this · 5,837 were here. HBD is a top educational consultancy with",
+    "url": "https://www.facebook.com/hbdservices/",
+    "pass": 3
+   },
+   {
+    "quote": "HBD Additive Manufacturing - Laser Powder Bed Fusion - FacebookHBD Meaning and Common Variations - FacebookHBD MotoGrafx | Daytona Beach FL - FacebookHBD Inc. | Greensboro NC - FacebookHBD Services Bangladesh Community - Facebook Sep 29, 2026 · HBD Additive Manufacturing - Laser Powder Bed Fusion. 12,134 followers · 1 talking about this · 4,286 were here. Metal 3D Printer Manufacturer and Develope",
+    "url": "https://www.facebook.com/3dlaserprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "HBD Meaning and Common Variations - Facebook Jun 7, 2026 · HBD is the most common shorthand for \"Happy Birthday\" used in text messages and social media. While it usually refers to a celebration, people also use variations like HHBD for \"Happy Heavenly...",
+    "url": "https://www.facebook.com/fb-answers/hbd-meaning-slang/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.hbdinc.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hbdinc.com/aboutus.cfm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hbdinc.com/mailinglist.cfm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hbdinc.com/mailinglist.cfm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hbdinc.com/aboutus.cfm",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.h-bd.co.jp/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compalyze.co.jp/company/1013301022784",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.h-bd.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.hb3dp.com/ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nmgiken.jp/hbd/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.hb3dp.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.hb3dp.com/ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.hb3dp.com/products/hbd-800/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nmgiken.jp/hbd/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/HTB%E3%82%A8%E3%83%8A%E3%82%B8%E3%83%BC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.h-bd.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://irbank.net/E04948/ac?m=%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEHBD",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://compalyze.co.jp/company/1013301022784",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://compalyze.co.jp/company/6013301045921",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/companies/8e55c/181152",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gokyo777/n/nc83140008b96?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/pyran19/n/n90a5149185eb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/takelin72/n/n652c08dc478e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hbd_bday",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hbdchick",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hbdplaces",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hbd_bday/status/2112885586734502318",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/hbdservices.bd/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/hbdservices/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/3dlaserprinter/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/fb-answers/hbd-meaning-slang/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hbd_bday",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/aonoshishi/status/2046244481771676063",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/starLibraGemini/status/2116750793428943037",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/LCF_fanevent_TW/status/2113586239064740218",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "HBD",
+   "results": [
+    "https://grokipedia.com/page/hebden_bridge_railway_station",
+    "https://ja.wikipedia.org/wiki/HBO",
+    "https://en.wikipedia.org/wiki/HBD",
+    "https://englishstudyonline.org/hbd-meaning/",
+    "https://www.urbandictionary.com/define.php?term=HBD",
+    "https://www.slangsphere.com/what-does-hbd-mean-in-slang-5-essential-brilliant-facts/",
+    "https://www.acronymfinder.com/HBD.html",
+    "https://www.acronymfinder.com/Slang/HBD.html",
+    "https://www.hbdinc.com/aboutus.cfm"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "HBD 会社概要 資本金 設立",
+   "results": [
+    "https://www.h-bd.co.jp/company",
+    "https://compalyze.co.jp/company/1013301022784",
+    "https://www.h-bd.co.jp/",
+    "https://compalyze.co.jp/company/6013301045921",
+    "https://catr.jp/companies/8e55c/181152",
+    "https://baseconnect.in/companies/1dbbdff8-dc2a-482c-87e4-70d814ab1419",
+    "https://www.buffett-code.com/company/9niiw0jii2/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "HBD 金属3Dプリンタ 導入",
+   "results": [
+    "https://en.hb3dp.com/ja/",
+    "https://nmgiken.jp/hbd/",
+    "https://en.hb3dp.com/",
+    "https://www.ipros.com/product/detail/2000837745/",
+    "https://nmgiken.jp/home/product/hbd/",
+    "https://idarts.co.jp/3dp/chinas-cisri-200-metal-3d-printer/",
+    "https://lab-brains.as-1.co.jp/document/download/2025/03/74154/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "HBD 金属積層造形 設備",
+   "results": [
+    "https://en.hb3dp.com/ja/",
+    "https://en.hb3dp.com/products/hbd-800/",
+    "https://nmgiken.jp/hbd/",
+    "https://nmgiken.jp/home/product/hbd/",
+    "https://lab-brains.as-1.co.jp/document/download/2025/03/74154/",
+    "https://www.mazak.com/jp-ja/products/am/",
+    "https://jampt.jp/column/additive-manufacturing/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "HBD 株主 出資 親会社",
+   "results": [
+    "https://ja.wikipedia.org/wiki/HTBエナジー",
+    "https://www.h-bd.co.jp/",
+    "https://irbank.net/E04948/ac?m=株式会社HBD",
+    "https://catr.jp/companies/e1a66/25429/settlements/80da7/427076",
+    "https://catr.jp/companies/8e55c/181152",
+    "https://www.h-bd.co.jp/buyout-investment",
+    "https://irbank.net/holder/株式会社HBD"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "HBD 売上高 従業員数",
+   "results": [
+    "https://compalyze.co.jp/company/1013301022784",
+    "https://compalyze.co.jp/company/6013301045921",
+    "https://catr.jp/companies/8e55c/181152",
+    "https://jobcatalog.yahoo.co.jp/company/2000120211/information/",
+    "https://doda.jp/DodaFront/View/Company/j_id__10151640800/",
+    "https://jobhakase.com/archives/70491",
+    "https://www.buffett-code.com/company/9niiw0jii2/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com HBD",
+   "results": [
+    "https://note.com/gokyo777/n/nc83140008b96?hl=en",
+    "https://note.com/pyran19/n/n90a5149185eb",
+    "https://note.com/tag/ジョンホ",
+    "https://note.com/takelin72/n/n652c08dc478e",
+    "https://note.com/ebichiri_umai/n/nfe419b26bb7c",
+    "https://note.com/moritasuzuka16/n/ne69fe7762be3",
+    "https://note.com/nekonekomouhu/n/n0d0317397eb6"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com HBD",
+   "results": [
+    "https://x.com/hbd_bday",
+    "https://x.com/hbdchick",
+    "https://x.com/hbdplaces",
+    "https://x.com/hbd_bday/status/2112885586734502318",
+    "https://x.com/hbd_bday/status/2109679932196729157",
+    "https://x.com/hbd",
+    "https://x.com/hbdinc1969"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com HBD",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com HBD",
+   "results": [
+    "https://www.facebook.com/hbdservices.bd/",
+    "https://www.facebook.com/hbdservices/",
+    "https://www.facebook.com/3dlaserprinter/",
+    "https://www.facebook.com/fb-answers/hbd-meaning-slang/",
+    "https://www.facebook.com/hbdmotografx/",
+    "https://www.facebook.com/HBDinc/",
+    "https://www.facebook.com/groups/hbdservices/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "HBD note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.youtube.com/shorts/SWYX0c6DVEI",
+    "https://www.h-bd.co.jp/女性経営者インタビュー",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.pinterest.com/ideas/hbd-notes/930828344291/",
+    "https://www.wantedly.com/companies/company_4054926/members",
+    "https://www.hbd.co.jp/company/message/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "HBD X 投稿",
+   "results": [
+    "https://x.com/hbd_bday",
+    "https://x.com/aonoshishi/status/2046244481771676063",
+    "https://x.com/starLibraGemini/status/2116750793428943037",
+    "https://x.com/LCF_fanevent_TW/status/2113586239064740218",
+    "https://www.instagram.com/p/Da40U2oExVv/",
+    "https://x.com/Gray_Palette_/status/2118895167470207188",
+    "https://x.com/zhouanxn/status/2120040369509577015"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部30頁・検索12回）",
+  "資本金": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部30頁・検索12回）",
+  "創業年度": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部30頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部30頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部30頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部30頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部30頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部30頁・検索12回）"
+ }
+}

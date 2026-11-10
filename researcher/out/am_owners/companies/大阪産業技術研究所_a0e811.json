@@ -1,0 +1,1438 @@
+{
+ "name": "大阪産業技術研究所",
+ "aliases": [],
+ "context": "PBF=yes 装置=レーザ積層造形 出典=https://orist.jp/gaiyou/facility_izumi/tri3d/news/article/149833.html",
+ "researched_at": "2026-11-10T18:10:46.695549+00:00",
+ "official_url": "https://orist.jp/",
+ "identified_by": "search:yahoo_jp:大阪産業技術研究所",
+ "profile": {},
+ "evidence": {
+  "用途・客の産業": [
+   {
+    "quote": "【掲載】磁界発電機器を量産 かちクリエイト 太陽電池など代替（日刊工業新聞）",
+    "url": "https://orist.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "依頼試験、技術相談、相談内容で担当部署がわからない場合など、下記相談窓口へお尋ねください",
+    "url": "https://orist.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "森之宮センターにおける依頼試験及び装置使用の申込み方法が変わります（令和３年４月",
+    "url": "https://orist.jp/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "依頼試験、技術相談、相談内容で担当部署がわからない場合など、下記相談窓口へお尋ねください",
+    "url": "https://orist.jp/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "依頼試験、技術相談、相談内容で担当部署がわからない場合など、下記相談窓口へお尋ねください",
+    "url": "https://orist.jp/gaiyou/facility_izumi/",
+    "pass": 1
+   },
+   {
+    "quote": "依頼試験、技術相談、相談内容で担当部署がわからない場合など、下記相談窓口へお尋ねください",
+    "url": "https://orist.jp/gaiyou/facility_morinomiya/",
+    "pass": 1
+   },
+   {
+    "quote": "依頼試験、技術相談、相談内容で担当部署がわからない場合など、下記相談窓口へお尋ねください",
+    "url": "https://orist.jp/gaiyou/facility_izumi/tri3d/",
+    "pass": 1
+   },
+   {
+    "quote": "依頼試験、技術相談、相談内容で担当部署がわからない場合など、下記相談窓口へお尋ねください",
+    "url": "https://orist.jp/izumi/topics/149303/151732.html",
+    "pass": 1
+   },
+   {
+    "quote": "依頼試験、技術相談、相談内容で担当部署がわからない場合など、下記相談窓口へお尋ねください",
+    "url": "https://orist.jp/izumi/topics/149303/149388.html",
+    "pass": 1
+   },
+   {
+    "quote": "地方独立行政法人大阪産業技術研究所｜【掲載】磁界発電機器を量産 かちクリエイト 太陽電池など代替（日刊工業新聞）",
+    "url": "https://orist.jp/izumi/whatsnew/146586/162059.html",
+    "pass": 1
+   },
+   {
+    "quote": "> 【掲載】磁界発電機器を量産 かちクリエイト 太陽電池など代替（日刊工業新聞）",
+    "url": "https://orist.jp/izumi/whatsnew/146586/162059.html",
+    "pass": 1
+   },
+   {
+    "quote": "【掲載】磁界発電機器を量産 かちクリエイト 太陽電池など代替（日刊工業新聞）",
+    "url": "https://orist.jp/izumi/whatsnew/146586/162059.html",
+    "pass": 1
+   },
+   {
+    "quote": "磁界発電機器を量産 かちクリエイト 太陽電池など代替",
+    "url": "https://orist.jp/izumi/whatsnew/146586/162059.html",
+    "pass": 1
+   },
+   {
+    "quote": "○見出し：磁界発電機器を量産 かちクリエイト 太陽電池など代替",
+    "url": "https://orist.jp/izumi/whatsnew/146586/162059.html",
+    "pass": 1
+   },
+   {
+    "quote": "○内 容：かちクリエイトが大阪産業技術研究所と大阪公立大学、ダイヘンが共同開発した磁界振動発電技術によるエナジーハーベスト機器「ジバでんき」の量産受注を開始する",
+    "url": "https://orist.jp/izumi/whatsnew/146586/162059.html",
+    "pass": 1
+   },
+   {
+    "quote": "磁界振動発電技術は交流電流によって周期的に変化する磁界で、永久磁石を振動させて、その振動エネルギーを圧電素子で電力に変換する仕組み",
+    "url": "https://orist.jp/izumi/whatsnew/146586/162059.html",
+    "pass": 1
+   },
+   {
+    "quote": "依頼試験、技術相談、相談内容で担当部署がわからない場合など、下記相談窓口へお尋ねください",
+    "url": "https://orist.jp/izumi/whatsnew/146586/162059.html",
+    "pass": 1
+   },
+   {
+    "quote": "依頼試験、技術相談、相談内容で担当部署がわからない場合など、下記相談窓口へお尋ねください",
+    "url": "https://orist.jp/gaiyou/tri_history/",
+    "pass": 1
+   },
+   {
+    "quote": "依頼試験、技術相談、相談内容で担当部署がわからない場合など、下記相談窓口へお尋ねください",
+    "url": "https://orist.jp/orist/topics/2024/149293.html",
+    "pass": 1
+   },
+   {
+    "quote": "依頼試験、技術相談、相談内容で担当部署がわからない場合など、下記相談窓口へお尋ねください",
+    "url": "https://orist.jp/izumi/topics/149303/149292.html",
+    "pass": 1
+   },
+   {
+    "quote": "１）多様な技術分野における高度な依頼試験と設備機器の開放",
+    "url": "https://orist.jp/kouhou/press_release/2023040301",
+    "pass": 1
+   },
+   {
+    "quote": "依頼試験、技術相談、相談内容で担当部署がわからない場合など、下記相談窓口へお尋ねください",
+    "url": "https://orist.jp/kouhou/press_release/2023040301",
+    "pass": 1
+   },
+   {
+    "quote": "依頼試験、技術相談、相談内容で担当部署がわからない場合など、下記相談窓口へお尋ねください",
+    "url": "https://orist.jp/orist/topics/2022/147199.html",
+    "pass": 1
+   },
+   {
+    "quote": "そうすることで、基幹産業である自動車産業お",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "と切削加工の複合機、または、「7 指向性エネルギー",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "７ 指向性エネルギー堆積法",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギー堆積法」と切削加工の複合機が揃う",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "は金型等を用いるが、AMでは用いない部分が異なる",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4-2 生産用金型",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "塑性加工のうち金型を利用した変形加工は、日本",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "用される金型は量産加工におけるキーデバイスであ",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "しかしながら、金型製造業は産業用途で市場が細",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、製造原価の圧縮で金型にか",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "7 「金型製造業では「5人以下」、「5人超－10人以下」のカ",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "8 『金型新聞』2017年 8 月 10 日号インタビュー記事",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "•試作のためにイニシャルコスト・時間がかかっていたものをス",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "•自動車の標準部品等の大量生産品については、対応が難しい ※",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "て、「樹脂成形型やプレス成形型などの金型や各種機",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "アルミニウム合金は、航空機や産業機械、自動車",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の金型鋳造材と比較して、造形まま材（造形後、熱",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "度は、約400MPa（金型鋳造材：約250）、0.2％耐",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "は、同組成の金型鋳造材よりも引張強度、耐力、破",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "グ：EBM）、「7 指向性エネルギー堆積法（Directed",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "形材、管、線、鍛造品などの展伸材、②金型、ダイカストなど",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "究所、 三菱重工業、矢崎総業、トヨタ自動車",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "次ぎ、国産機の試作用途での活用・普及と製品製造",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "試作機・1KWレー",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "そのためには、量産効果を期待する販売台",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "その後 2020 年春には中国でのロックダウンなどにより建築金物や自動車部品などの工場の稼",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．金型への適応を目指す内容の論文等が多い",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4.パウダーベッド方式主流、複合方式多く、金型利用",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・金属製品・部品製造、金型、歯科機器製造等",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "合方式 （造形と切削） も多く、 主に金型製作に",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "活用事例を「最新の金属造形機 EOS 社の金属 AM 装置と金型事例 (特集 3 次元プリンタ",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "による金型づくりの実際)」などとして公開している",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の種類で多いのが、金型への適用や活用事例についてであった",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "型技術: 金型の総合技術誌 12",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．「金属 AM」 、 「金属３D プリンタ」に関する論文等については、金型への適用を",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂プリンタが試作用途などに活用され多くの台数が普及したのに比べて、金属プリンタ",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "は金型のみならず、試作、最終用途としての部品製造などでの普及はやや鈍い",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   }
+  ],
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "送信メールの添付ファイルWEBダウンロード方式導入のお知らせ",
+    "url": "https://orist.jp/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "【セミナー】「金属3D造形体験コース：電子ビーム積層造形編」（2/17-18, 2/25-26）",
+    "url": "https://orist.jp/gaiyou/facility_izumi/tri3d/",
+    "pass": 1
+   },
+   {
+    "quote": "地方独立行政法人大阪産業技術研究所｜送信メールの添付ファイルWEBダウンロード方式導入のお知らせ",
+    "url": "https://orist.jp/orist/topics/2024/149293.html",
+    "pass": 1
+   },
+   {
+    "quote": "> 送信メールの添付ファイルWEBダウンロード方式導入のお知らせ",
+    "url": "https://orist.jp/orist/topics/2024/149293.html",
+    "pass": 1
+   },
+   {
+    "quote": "送信メールの添付ファイルWEBダウンロード方式導入のお知らせ",
+    "url": "https://orist.jp/orist/topics/2024/149293.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年（令和5年）10月1日から導入が予定されております適格請求書等保存方式（インボイス制度）に関して、大阪技術研は「適格請求書発行事業者登録」をいたしましたので登録番号をお知らせいたします",
+    "url": "https://orist.jp/orist/topics/2022/147199.html",
+    "pass": 1
+   },
+   {
+    "quote": "本稿では研究対象を主としてパウダーベッド方式に絞り込んだ",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "よび、中堅・中小企業への現場導入が進展するであろう",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．産業用金属3Dプリンタとは",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１． 産業用金属3Dプリンタとは",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "まず、本稿で取上げる産業用金属3Dプリンタに",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これら 4つの工法による産業用金属3Dプリンタ",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の中で、日本において販売台数が多いのは、「6 粉末",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「6 粉末床溶融結合法」はド",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イツの EOS 社が古くから日本で販売実績を有し、",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「8 複合装置」としては、「6 粉末床溶融結合法」",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "でも、（株）松浦機械製作所のLUMEX は、元松下",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "電工（現パナソニック株式会社）と松浦機械製作所、",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "て「6 粉末床溶融結合法」と複合技術に限定して取",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の、産業用金属3Dプリンタに特化、着眼し、その",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表１ 工法一覧と金属3Dプリンタ",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（中略）松浦機械製作所では、福",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "６ 粉末床溶融結合法",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "向けプリンタと定義したうえで、「出荷台数が、前年",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ショナル3Dプリンタの出荷台数が堅調に伸びた結",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「 6 粉末床溶融結合法」については、米国DTM",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "社が米国での基本特許を保有していたが、2014年 2",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業用金属3Dプリンタの開発やユーザーからの期",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3-2 国内で販売される産業用金属3Dプリンタ",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表４ 日本国内での産業用金属3Dプリンタ",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子株式会社 〇*2",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本調査報告書は、金属３D プリンタを導入した公設試に対するアンケート調査の結果をもとに、",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2－1 大学、国内企業等の材料開発、技術開発、機器開発・導入、新サービスの実施",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．金属 AM 導入が一部で始まる",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・電子ビーム、デポジション方式の国産機出そろう",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4.パウダーベッド方式主流、複合方式多く、金型利用",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6．後工程の装置は充実、CAD/解析ソフト導入進む",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1.公設試の中でも早期に導入、国内",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3.金属 3D プリンタ装置 2 台保有",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "22 台保有する",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "で、パウダーベッド方式が主流であるが、複",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ー 3DSystems：PBF",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ター 3DSystems：PBF",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "EOS、3DSystems：PBF",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "澤崎隆氏は株式会社ソディック、竹内典子氏は株式会社NTT データエンジニアリングシ",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "橋爪康晃5氏は、現 EOS Electro Optical Systems Japan株式会社（元株式会社 NTT デ",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内で営業展開している金属 AM 機の EOS（ドイツの３D プリンタメーカー）による",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "活用事例を「最新の金属造形機 EOS 社の金属 AM 装置と金型事例 (特集 3 次元プリンタ",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ること、２つに国内の公設試験研究機関（以下、 「公設試」 ）で保有が進む金属３D プリンタ",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．国内の公設試験研究機関（以下、 「公設試」 ）で保有が進む金属３D プリンタの",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２－１ 大学、国内企業等の材料開発、技術開発、装置開発・導入、新サービスの実施状況",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂プリンタが試作用途などに活用され多くの台数が普及したのに比べて、金属プリンタ",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ンタのパウダーベッド方式の知的財産権期限切れによる開発の 動きの進展、自動車や航空",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の「材料開発」 、金属３D プリンタの「技術開発」 、 「装置開発・導入」 、 「企業動向、ビジネ",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "技術開発、装置開発・導入",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ソディック、LPM325 複合",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "財務諸表等 - 地方独立行政法人大阪産業技術研究所 — 財務諸表等 - 地方独立行政法人大阪産業技術研究所 ORIST https://orist.jp > public_information > zaimusyohyou",
+    "url": "https://orist.jp/gaiyou/public_information/zaimusyohyou.html",
+    "pass": 3
+   },
+   {
+    "quote": "地方独立行政法人 大阪産業技術研究所 - アカリク — 地方独立行政法人 大阪産業技術研究所 - アカリク アカリク https://acaric.jp > company-search > detail",
+    "url": "https://acaric.jp/company-search/detail/149299",
+    "pass": 3
+   },
+   {
+    "quote": "地方独立行政法人 大阪産業技術研究所 - 大阪府 — 地方独立行政法人 大阪産業技術研究所 - 大阪府 大阪府 https://www.pref.osaka.lg.jp > keieishien > tri",
+    "url": "https://www.pref.osaka.lg.jp/o110070/keieishien/tri/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "【公式】 大阪産業技術研究所 (@orist_pr) / X — 【公式】 大阪産業技術研究所 (@orist_pr) / X X https://x.com > orist_pr",
+    "url": "https://x.com/orist_pr",
+    "pass": 3
+   },
+   {
+    "quote": "地方独立行政法人 大阪産業技術研究所 ｜特徴／成果事例 — 地方独立行政法人 大阪産業技術研究所 ｜特徴／成果事例 ORIST https://orist.jp > gaiyou > facility_izumi > feature",
+    "url": "https://orist.jp/gaiyou/facility_izumi/tri3d/feature/",
+    "pass": 3
+   },
+   {
+    "quote": "地方独立行政法人 大阪産業技術研究所 ｜当法人は、（地独 ... — 地方独立行政法人 大阪産業技術研究所 ｜当法人は、（地独 ... ORIST https://orist.jp",
+    "url": "https://orist.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "大阪産業技術研究所 - 大阪工業大学 研究支援社会連携推進課 — 大阪産業技術研究所 - 大阪工業大学 研究支援社会連携推進課 大阪工業大学 https://www.research.oit.ac.jp > archive > seeds > orist",
+    "url": "https://www.research.oit.ac.jp/oitid/archive/2022/seeds/orist/",
+    "pass": 3
+   },
+   {
+    "quote": "（地独） 大阪産業技術研究所 が支援する3つのシーズと研究所 ... — （地独） 大阪産業技術研究所 が支援する3つのシーズと研究所 ... うめきた未来イノベーション機構 https://u-fino.com > program > isk8 > exhibit > detail27",
+    "url": "https://u-fino.com/program/isk8/exhibit/detail27.html",
+    "pass": 3
+   },
+   {
+    "quote": "大阪産業技術研究所 - Wikipedia — 大阪産業技術研究所 - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 大阪産業技術研究所",
+    "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "大阪府市地方独立行政法人 大阪産業技術研究所 評価委員会 — 大阪府市地方独立行政法人 大阪産業技術研究所 評価委員会 大阪府 https://www.pref.osaka.lg.jp > mono > orist",
+    "url": "https://www.pref.osaka.lg.jp/o110070/mono/orist/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "地方独立行政法人 大阪産業技術研究所 の会社評価 - 転職会議 — 地方独立行政法人 大阪産業技術研究所 の会社評価 - 転職会議 転職会議 https://jobtalk.jp > companies",
+    "url": "https://jobtalk.jp/companies/9482067",
+    "pass": 3
+   },
+   {
+    "quote": "地方独立行政法人 大阪産業技術研究所 — 地方独立行政法人 大阪産業技術研究所 osakagijutsuken-saiyo.snar.jp https://osakagijutsuken-saiyo.snar.jp > jobboard > detail",
+    "url": "https://osakagijutsuken-saiyo.snar.jp/jobboard/detail.aspx?id=HbcdAafo6XQ",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "強度」については、鋼系材料、アルミニウム合金、チタニウム合金において、「展伸材」や「鋳造材",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "結合剤噴射法：（Binder Jetting）」、「6 粉末床溶融",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の中で、日本において販売台数が多いのは、「6 粉末",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「6 粉末床溶融結合法」はド",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「8 複合装置」としては、「6 粉末床溶融結合法」",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "て「6 粉末床溶融結合法」と複合技術に限定して取",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ムによる工法について、中野（2017）はチタン造形",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "６ 粉末床溶融結合法",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "し、主として金属粉末",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「 6 粉末床溶融結合法」については、米国DTM",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "末床溶融結合法」、「8 複合装置」では、「6 粉末床溶",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6 この工法は、型を用いて粉末を焼結させ部品を製造する",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "応が困難なこと、③粉末材料や造形機本体が高額で",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（「6 粉末溶融結合法」と切削加工）によって、「産",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "•材料となる金属粉末がバルク材にくらべ、非常に高価である",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "率が高く造形が困難な銅合金で高能率アーク溶接シ",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "レーザー社製「M2」） を用いて、銅合金3D積層造",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "形を可能とする造形技術（銅合金粉末および加工プ",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表７ 銅合金の冷却機能を付した一体造形部品",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "実験には、「6 粉末溶融床造形法」でEOS社製の",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "EOSINT M250-Xtendedを使用して、鋼系粉末は、",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "炭素量が0.33％から 1.04％まで含む4 種類の粉末",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5-1-2 アルミニウム合金の機械的強度",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "アルミニウム合金は、航空機や産業機械、自動車",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "には、アルミニウム合金はレーザーを反射しやすく、",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「銅合金実用部品」溶接トーチのカットモデル最",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ステムズ、 石塚伸一氏は白銅株式会社のそれぞれ社員、 高関二三男氏は株式会社Ｊ・３Ｄの",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "白銅、アルミ合金造形",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ズ、チタン合金粉末工場開設",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日立金属、高耐食ニッケル基",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヘン、トーチ用銅合金造",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日立金属、チタン合金粉末",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "JX 金属、純銅粉末から高密",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "アート 1、アルミニウム造形",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ニイミ産業、レアメタル粉末",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "純銅、銅合金",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "積層レーザを照射、金属粉末を製品形状に",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末を原材料とした三次元造形技術は、 プロジェクト開始当時、 欧米の企業が圧倒的",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・電子ビーム方式粉末床溶融結合法、レーザー",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "そのほかに、UV 樹脂バインダーで金属粉末を造",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が最多であり、次いで「研究員数の不足」 、 「粉末等消耗品購入費の確保」 、 「修理費の確保」",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・県内の幅広い業種へ対応するための金属粉末の種類の拡充",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "材料粉末やチャレンジングな造形をする場合のリスクに対する経費が不足している 人材不足 予算不足",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・主としてマルエージング鋼とアルミニウム合金の造形を行っている",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2001 年 アルミニウムダイカスト製品の試作金型",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2005 年 炭素鋼粉末による高強度 RP 造形技術の開発",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2008 年 チタン粉末の造形技術の開発",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2016 年 （株）ダイヘンと共同研究により、銅合金３D 積層造形技術を確立",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出所：中本貴之、白川信彦（ 2014）「大阪府立産業技術総合研究所における金属粉末レーザー積層造形法を活",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "（親会社GE） 〇*2",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・国、大学、企業による共同出資",
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "ATTACCATO合同会社と 大阪産業技術研究所 が近畿化学協会 ... ATTACCATO合同会社と 大阪産業技術研究所 が近畿化学協会 ... note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/mobio_osaka/n/ne6937d769c2c",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "ATTACCATO合同会社と大阪産業技術研究所が近畿化学協会「第73回化学技術賞」を受賞【NEWS】｜MOBIO（ものづくりビジネスセンター大阪）公式note",
+    "url": "https://note.com/mobio_osaka/n/ne6937d769c2c",
+    "pass": 3
+   },
+   {
+    "quote": "ATTACCATO合同会社と大阪産業技術研究所が近畿化学協会「第73回化学技術賞」を受賞【NEWS】",
+    "url": "https://note.com/mobio_osaka/n/ne6937d769c2c",
+    "pass": 3
+   },
+   {
+    "quote": "MOBIO（ものづくりビジネスセンター大阪）公式note",
+    "url": "https://note.com/mobio_osaka/n/ne6937d769c2c",
+    "pass": 3
+   },
+   {
+    "quote": "※この記事は、2021年10月に公開された内容です。",
+    "url": "https://note.com/mobio_osaka/n/ne6937d769c2c",
+    "pass": 3
+   },
+   {
+    "quote": "大阪府ものづくりイノベーション支援助成金採択企業のATTACCATO合同会社（和泉市）は次世代負極材料としてシリコンに着目し、大阪産業技術研究所（和泉市）との共同研究で新たに開発した無機バインダを用いて、リチウムイオン電池の容量と寿命を大幅に向上させることに世界で初めて成功しました。",
+    "url": "https://note.com/mobio_osaka/n/ne6937d769c2c",
+    "pass": 3
+   },
+   {
+    "quote": "これらの成果が高く評価され、令和3年5月に近畿化学協会「第73回化学技術賞」を受賞しました。",
+    "url": "https://note.com/mobio_osaka/n/ne6937d769c2c",
+    "pass": 3
+   },
+   {
+    "quote": "大阪府ものづくりイノベーション支援助成金は、府内ものづくり中小企業が行う新たな技術開発に向けた研究開発費等の一部を助成する事業。",
+    "url": "https://note.com/mobio_osaka/n/ne6937d769c2c",
+    "pass": 3
+   },
+   {
+    "quote": "近畿化学協会「第73回化学技術賞」は、化学に関する研究・技術で、工業的・社会的・学術的価値が明らかになったもので顕著な業績と認められたものに対して授与される賞。",
+    "url": "https://note.com/mobio_osaka/n/ne6937d769c2c",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "【公式】 大阪産業技術研究所 (@orist_pr) / X 【公式】 大阪産業技術研究所 (@orist_pr) / X X https://x.com > orist_pr",
+    "url": "https://x.com/orist_pr",
+    "pass": 3
+   },
+   {
+    "quote": "【公式】 大阪産業技術研究所 on X: \"  ORIST・MOBIO技術 ... 【公式】 大阪産業技術研究所 on X: \"  ORIST・MOBIO技術 ... X https://x.com > @orist_pr",
+    "url": "https://x.com/orist_pr/status/2104345341650977260",
+    "pass": 3
+   },
+   {
+    "quote": "【公式】 大阪産業技術研究所 - X 【公式】 大阪産業技術研究所 - X X https://x.com > @orist_pr",
+    "url": "https://x.com/orist_pr/status/2118232849828757901",
+    "pass": 3
+   },
+   {
+    "quote": "【公式】 大阪産業技術研究所 - X 【公式】 大阪産業技術研究所 - X X https://x.com > @orist_pr",
+    "url": "https://x.com/orist_pr/status/2053663886075990346",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "丸山 純 - 大阪産業技術研究所 | LinkedIn 丸山 純 - 大阪産業技術研究所 | LinkedIn LinkedIn https://jp.linkedin.com > 純-丸山-236b431b3",
+    "url": "https://jp.linkedin.com/in/%E7%B4%94-%E4%B8%B8%E5%B1%B1-236b431b3",
+    "pass": 3
+   },
+   {
+    "quote": "大本 貴士 - 大阪産業技術研究所 - 研究員 | LinkedIn 大本 貴士 - 大阪産業技術研究所 - 研究員 | LinkedIn LinkedIn https://jp.linkedin.com > 貴士-大本-514a67222",
+    "url": "https://jp.linkedin.com/in/%E8%B2%B4%E5%A3%AB-%E5%A4%A7%E6%9C%AC-514a67222",
+    "pass": 3
+   },
+   {
+    "quote": "Yutaro Goto - 地方独立行政法人 大阪産業技術研究所 - LinkedIn Yutaro Goto - 地方独立行政法人 大阪産業技術研究所 - LinkedIn LinkedIn https://jp.linkedin.com > ...",
+    "url": "https://jp.linkedin.com/in/yutaro-goto-76181a173",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "正解はこちら！ ↓ 地方独立行政法人 大阪産業技術研究所 ... 正解はこちら！ ↓ 地方独立行政法人 大阪産業技術研究所 ... Facebook https://www.facebook.com > mobio.osaka > posts > 正解...",
+    "url": "https://www.facebook.com/mobio.osaka/posts/%E6%AD%A3%E8%A7%A3%E3%81%AF%E3%81%93%E3%81%A1%E3%82%89%E5%9C%B0%E6%96%B9%E7%8B%AC%E7%AB%8B%E8%A1%8C%E6%94%BF%E6%B3%95%E4%BA%BA%E5%A4%A7%E9%98%AA%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E6%89%80orist%E3%81%A7%E3%81%97%E3%81%9F%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%95%E3%82%93%E3%82%92%E6%8A%80%E8%A1%93%E3%81%A7%E6%94%AF%E6%8F%B4%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E8%A3%BD%E5%93%81%E9%96%8B%E7%99%BA%E3%82%84%E9%AB%98%E5%BA%A6%E3%81%AA%E5%88%86%E6%9E%90%E3%81%97%E3%81%9F%E3%81%84%E3%81%AA%E3%81%A9%E6%8A%80%E8%A1%93%E3%81%AE%E3%81%8A%E6%82%A9%E3%81%BF%E3%81%8C%E3%81%82%E3%82%8B%E6%96%B9%E3%81%AF/1373685884794084/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://orist.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orist.jp/news.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orist.jp/gaiyou/facility_izumi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orist.jp/gaiyou/facility_morinomiya/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orist.jp/gaiyou/facility_izumi/tri3d/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orist.jp/izumi/topics/149303/151732.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orist.jp/izumi/topics/149303/149388.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orist.jp/izumi/whatsnew/146586/162059.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orist.jp/gaiyou/tri_history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orist.jp/izumi/bid/other/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://orist.jp/orist/topics/2024/149293.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orist.jp/izumi/topics/149303/149292.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orist.jp/kouhou/press_release/2023040301",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orist.jp/orist/topics/2022/147199.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://acaric.jp/company-search/detail/149299",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp100220/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.research.oit.ac.jp/oitid/archive/2022/seeds/orist/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://u-fino.com/program/isk8/exhibit/detail27.html",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.osaka.lg.jp/o110070/mono/orist/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/orist_pr",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/mobio_osaka/n/ne6937d769c2c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/orist_pr",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/orist_pr/status/2104345341650977260",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/orist_pr/status/2118232849828757901",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/orist_pr/status/2053663886075990346",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E7%B4%94-%E4%B8%B8%E5%B1%B1-236b431b3",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E8%B2%B4%E5%A3%AB-%E5%A4%A7%E6%9C%AC-514a67222",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/yutaro-goto-76181a173",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mobio.osaka/posts/%E6%AD%A3%E8%A7%A3%E3%81%AF%E3%81%93%E3%81%A1%E3%82%89%E5%9C%B0%E6%96%B9%E7%8B%AC%E7%AB%8B%E8%A1%8C%E6%94%BF%E6%B3%95%E4%BA%BA%E5%A4%A7%E9%98%AA%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E6%89%80orist%E3%81%A7%E3%81%97%E3%81%9F%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%95%E3%82%93%E3%82%92%E6%8A%80%E8%A1%93%E3%81%A7%E6%94%AF%E6%8F%B4%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E8%A3%BD%E5%93%81%E9%96%8B%E7%99%BA%E3%82%84%E9%AB%98%E5%BA%A6%E3%81%AA%E5%88%86%E6%9E%90%E3%81%97%E3%81%9F%E3%81%84%E3%81%AA%E3%81%A9%E6%8A%80%E8%A1%93%E3%81%AE%E3%81%8A%E6%82%A9%E3%81%BF%E3%81%8C%E3%81%82%E3%82%8B%E6%96%B9%E3%81%AF/1373685884794084/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/mobio_osaka/n/ne6937d769c2c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/orist_pr",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "大阪産業技術研究所",
+   "results": [
+    "https://orist.jp/",
+    "https://www.pref.osaka.lg.jp/shisetsu/o110070/shisetsu_000082.html",
+    "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E5%BA%9C%E7%AB%8B%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80",
+    "https://www.youtube.com/channel/UCdPUmbfXn7AWLJ6i0At26GA",
+    "https://www.aist.go.jp/kansai/",
+    "https://x.com/orist_pr",
+    "https://ja.wikipedia.org/wiki/大阪産業技術研究所",
+    "https://ja.wikipedia.org/wiki/大阪府立産業技術総合研究所",
+    "https://orist.jp/gaiyou/",
+    "https://www.pref.osaka.lg.jp/o110070/keieishien/tri/index.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "大阪産業技術研究所 会社概要 資本金 設立",
+   "results": [
+    "https://orist.jp/gaiyou/public_information/zaimusyohyou.html",
+    "https://acaric.jp/company-search/detail/149299",
+    "https://job.mynavi.jp/27/pc/search/corp100220/outline.html",
+    "https://www.pref.osaka.lg.jp/o110070/keieishien/tri/index.html",
+    "https://x.com/orist_pr",
+    "https://orist.jp/disclosure.html",
+    "https://www.aist.go.jp/aist_j/information/affairs/",
+    "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E6%89%80",
+    "https://u-fino.com/pdf/program/isk7/exhibit/exhibit34_5.pdf",
+    "https://ja.wikipedia.org/wiki/大阪産業技術研究所"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "大阪産業技術研究所 金属3Dプリンタ 導入",
+   "results": [
+    "https://orist.jp/gaiyou/facility_izumi/tri3d/",
+    "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "https://www.jstage.jst.go.jp/article/jspmee/10/4/10_187/_pdf",
+    "https://x.com/orist_pr/status/2118176486003708252",
+    "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "https://monoken.yamazen.co.jp/events/metal-printer/sodick/metal-3d-printer-latest-trends-seminar_20251210",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/pdf/am-houkokusyo.pdf",
+    "https://www.nttdata-xam.com/eos-m/",
+    "https://flow.en-cps.org/3dフリンター-大阪産業技術研究所-大阪産業技術研/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "大阪産業技術研究所 金属積層造形 設備",
+   "results": [
+    "https://orist.jp/gaiyou/facility_izumi/tri3d/",
+    "https://orist.jp/gaiyou/facility_izumi/tri3d/feature/",
+    "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/pdf/am-sankoushiryousyu.pdf",
+    "https://www.youtube.com/watch?v=uAPHY50ts4o",
+    "https://unifiedsearch.jcdbizmatch.jp/nanotech2025/jp/tct/details/vdPupAy__jc",
+    "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "https://kyoukai-osaka.org/2023/05/11/%E3%80%8E%E9%96%A2%E8%A5%BF%E5%85%AC%E8%A8%AD%E8%A9%A6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E9%87%91%E5%B1%9E%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E3%81%AE%E6%B4%BB%E7%94%A8%E7%8A%B6%E6%B3%81%E3%81%A8/",
+    "https://www.iri-tokyo.jp/research/field/sekiso-zokei/",
+    "http://tri-osaka.jp/ryokin/kiki/kiki_detail/A9404.html"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "大阪産業技術研究所 株主 出資 親会社",
+   "results": [
+    "https://orist.jp/",
+    "https://www.research.oit.ac.jp/oitid/archive/2022/seeds/orist/",
+    "https://u-fino.com/program/isk8/exhibit/detail27.html",
+    "https://www.aist.go.jp/kansai/",
+    "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E6%89%80",
+    "https://seisan.server-shared.com/761/761-113.pdf",
+    "https://www.pref.osaka.lg.jp/documents/12890/shiryo2.pdf",
+    "https://osaka-startup.com/ja/resources/pdf/activities/48-1-osakasangyogijutukenkyujo.pdf",
+    "https://orist.jp/gaiyou/duties.html",
+    "https://ja.wikipedia.org/wiki/大阪産業技術研究所"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "大阪産業技術研究所 売上高 従業員数",
+   "results": [
+    "https://orist.jp/",
+    "https://www.pref.osaka.lg.jp/o110070/mono/orist/index.html",
+    "https://x.com/orist_pr",
+    "https://jobtalk.jp/companies/9482067",
+    "https://osakagijutsuken-saiyo.snar.jp/jobboard/detail.aspx?id=HbcdAafo6XQ",
+    "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E6%89%80",
+    "https://orist.jp/gaiyou/public_information/zaimusyohyou.html",
+    "https://www.buffett-code.com/company/7geeumi0oh/",
+    "https://www.osaka-businessfair.jp/2026/files/exhibitor/57/k5E4q8WYB5orDkNJylk7m83gjlxgjo5jwgZa9RhG.pdf",
+    "https://ja.wikipedia.org/wiki/大阪産業技術研究所"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 大阪産業技術研究所",
+   "results": [
+    "https://note.com/mobio_osaka/n/ne6937d769c2c",
+    "https://note.com/mobio_osaka/n/n5f8007f6bd58",
+    "https://note.com/safe_dove1291/n/n69b497b8fc97",
+    "https://note.com/mobio_osaka/n/n587aa8e156bc",
+    "https://note.com/mobio_osaka/n/na294768896bc",
+    "https://note.com/mobio_osaka/n/n9404a87f6b18",
+    "https://note.com/photolife1/n/n8d6799c1b301",
+    "https://note.com/mobio_osaka/n/n8ff5becfc5bd",
+    "https://note.com/mobio_osaka/n/n887cf95d4d15",
+    "https://note.com/orcie_1987/n/n46259b865876"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:x.com 大阪産業技術研究所",
+   "results": [
+    "https://x.com/orist_pr",
+    "https://x.com/orist_pr/status/2104345341650977260",
+    "https://x.com/orist_pr/status/2118232849828757901",
+    "https://x.com/orist_pr/status/2053663886075990346",
+    "https://x.com/orist_pr/status/2119988433133179232",
+    "https://x.com/TRIOSAKA",
+    "https://x.com/orist_pr/status/2114914994298982639",
+    "https://x.com/orist_pr/status/2074387941523394577",
+    "https://x.com/orist_pr/status/2117089321413157340"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:linkedin.com 大阪産業技術研究所",
+   "results": [
+    "https://jp.linkedin.com/in/%E7%B4%94-%E4%B8%B8%E5%B1%B1-236b431b3",
+    "https://jp.linkedin.com/in/%E8%B2%B4%E5%A3%AB-%E5%A4%A7%E6%9C%AC-514a67222",
+    "https://jp.linkedin.com/in/yutaro-goto-76181a173",
+    "https://jp.linkedin.com/company/aist",
+    "https://jp.linkedin.com/in/kei18",
+    "https://jp.linkedin.com/in/%E5%A4%A7%E7%A5%88-%E9%85%92%E4%BA%95-212210225",
+    "https://jp.linkedin.com/in/takuya-okamoto-0a35a6197",
+    "https://jp.linkedin.com/in/kuniaki-tatsumi-206584298",
+    "https://linkedin.com/in/shinya-gongyo-6493b717b",
+    "https://jp.linkedin.com/in/kenichiro-tanaka-698b5613a"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com 大阪産業技術研究所",
+   "results": [
+    "https://www.facebook.com/mobio.osaka/posts/%E6%AD%A3%E8%A7%A3%E3%81%AF%E3%81%93%E3%81%A1%E3%82%89%E5%9C%B0%E6%96%B9%E7%8B%AC%E7%AB%8B%E8%A1%8C%E6%94%BF%E6%B3%95%E4%BA%BA%E5%A4%A7%E9%98%AA%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E6%89%80orist%E3%81%A7%E3%81%97%E3%81%9F%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%95%E3%82%93%E3%82%92%E6%8A%80%E8%A1%93%E3%81%A7%E6%94%AF%E6%8F%B4%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E8%A3%BD%E5%93%81%E9%96%8B%E7%99%BA%E3%82%84%E9%AB%98%E5%BA%A6%E3%81%AA%E5%88%86%E6%9E%90%E3%81%97%E3%81%9F%E3%81%84%E3%81%AA%E3%81%A9%E6%8A%80%E8%A1%93%E3%81%AE%E3%81%8A%E6%82%A9%E3%81%BF%E3%81%8C%E3%81%82%E3%82%8B%E6%96%B9%E3%81%AF/1373685884794084/",
+    "https://www.facebook.com/sangicenter/?locale=ja_JP",
+    "https://www.facebook.com/sangicenter/posts/10%E6%9C%8820%E6%97%A5%E7%81%AB-%E6%A9%9F%E6%A2%B0%E9%87%91%E5%B1%9E%E5%88%86%E9%87%8E%E4%B8%AD%E5%A0%85%E4%BA%BA%E6%9D%90%E8%82%B2%E6%88%90%E3%82%B3%E3%83%BC%E3%82%B913151530-%E5%AE%9F%E7%BF%92%E2%85%A0%E7%8F%AD-%E6%9D%90%E6%96%99%E5%BC%B7%E5%BA%A6%E6%B8%AC%E5%AE%9A3%E7%A8%AE%E9%A1%9E%E3%81%AE%E9%8B%BC%E8%A3%BD%E3%83%9C%E3%83%AB%E3%83%88%E3%81%AE%E5%BC%95%E5%BC%B5%E8%A9%A6%E9%A8%93%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E8%A9%A6%E9%A8%93%E6%9C%89%E9%99%90%E8%A6%81%E7%B4%A0%E6%B3%95%E3%81%AE%E6%A6%82%E8%A6%81%E2%85%A1%E7%8F%AD-%E5%AF%B8%E6%B3%95%E3%81%8A%E3%82%88%E3%81%B3%E5%BD%A2/1441188458218361/",
+    "https://www.facebook.com/researcherjp/posts/%E6%B3%A8%E7%9B%AE%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E7%A1%AC%E3%81%8F%E3%81%A6%E8%84%86%E3%81%84%E3%82%B7%E3%83%AA%E3%82%B3%E3%83%B3%E3%82%92%E3%83%95%E3%83%AC%E3%82%AD%E3%82%B7%E3%83%96%E3%83%AB%E5%8C%96%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E3%83%86%E3%83%A9%E3%83%98%E3%83%AB%E3%83%84%E6%B3%A2%E3%82%92%E5%88%B6%E5%BE%A1-mems%E5%BE%AE%E7%B4%B0%E5%8A%A0%E5%B7%A5%E3%81%A7%E3%83%95%E3%83%AC%E3%82%AD%E3%82%B7%E3%83%96%E3%83%AB%E3%83%86%E3%83%A9%E3%83%98%E3%83%AB%E3%83%84%E3%82%B7%E3%83%AA%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%88%E3%83%8B%E3%82%AF%E3%82%B9%E3%82%92%E5%89%B5%E6%88%90-%E5%A4%A7%E9%98%AA%E7%94%A3%E6%A5%AD%E6%8A%80/1583335397170930/",
+    "https://www.facebook.com/hyogo.kg/posts/%E5%85%AC%E8%A8%AD%E8%A9%A6%E9%A8%93%E7%A0%94%E7%A9%B6%E6%A9%9F%E9%96%A2%E5%90%88%E5%90%8C%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%83%A9%E3%83%9C%E3%81%AE%E3%81%A8%E3%81%B3%E3%82%89-%E7%9F%A5%E3%82%8D%E3%81%86%E6%B4%BB%E3%81%8B%E3%81%9D%E3%81%86-%E5%85%AC%E8%A8%AD%E8%A9%A6%E3%81%AE%E9%AD%85%E5%8A%9B%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99%E9%96%A2%E8%A5%BF%E5%9C%B0%E5%9F%9F%E3%81%AB%E3%81%AF%E7%A4%BE%E4%BC%9A%E8%AA%B2%E9%A1%8C%E3%81%AE%E8%A7%A3%E6%B1%BA%E3%82%84%E7%94%A3%E6%A5%AD%E3%81%AE%E7%99%BA%E5%B1%95%E3%81%AB%E8%B2%A2%E7%8C%AE%E3%81%99%E3%82%8B%E5%A4%9A%E5%BD%A9%E3%81%AA%E5%85%AC%E8%A8%AD%E8%A9%A6%E9%A8%93%E7%A0%94%E7%A9%B6%E6%9C%9F%E9%96%93%E7%95%A5%E7%A7%B0%E5%85%AC%E8%A8%AD/1782769373850819/",
+    "https://www.facebook.com/tckyoto/?locale=ja_JP",
+    "https://www.facebook.com/sangicenter/posts/1%E6%9C%8820%E6%97%A5%E7%81%AB-%E6%A9%9F%E6%A2%B0%E9%87%91%E5%B1%9E%E5%88%86%E9%87%8E%E4%B8%AD%E5%A0%85%E4%BA%BA%E6%9D%90%E8%82%B2%E6%88%90%E3%82%B3%E3%83%BC%E3%82%B913301530-%E5%AE%9F%E7%BF%92%E2%85%A0%E7%8F%AD-%E7%B5%84%E6%88%90%E5%88%86%E6%9E%90%E8%9B%8D%E5%85%89x%E7%B7%9A%E5%88%86%E6%9E%90%E8%A3%85%E7%BD%AE%EF%BD%98%E7%B7%9A%E5%9B%9E%E6%8A%98%E8%A3%85%E7%BD%AE%E3%81%AE%E6%A6%82%E8%A6%81%E8%AA%AC%E6%98%8E%E3%81%A8%E6%93%8D%E4%BD%9C%E3%81%AE%E6%B5%81%E3%82%8C3%E7%A8%AE%E9%A1%9E%E3%81%AE%E8%A9%A6%E6%96%99%E3%81%AE%E8%9B%8D%E5%85%89x%E7%B7%9A%E5%88%86%E6%9E%90%E8%A3%85%E7%BD%AE/1206616505008892/",
+    "https://www.facebook.com/noboru.yumoto.568/",
+    "https://www.facebook.com/CEATEC.official/videos/ceatec-2026-%E9%96%8B%E5%82%AC%E4%B8%AD%E5%B9%95%E5%BC%B5%E3%83%A1%E3%83%83%E3%82%BB%E5%9B%BD%E7%AB%8B%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%E6%B3%95%E4%BA%BA%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80aist%E3%83%96%E3%83%BC%E3%82%B9%E3%81%8B%E3%82%89%E5%B1%95%E7%A4%BA%E3%81%AE%E8%A6%8B%E3%81%A9%E3%81%93%E3%82%8D%E3%82%92%E3%81%8A%E5%B1%8A%E3%81%91-%E5%9B%BD%E7%AB%8B%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%E6%B3%95%E4%BA%BA%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80%E3%83%9B%E3%83%BC%E3%83%AB4-/1777526079960451/",
+    "https://www.facebook.com/地方独立行政法人大阪産業技術研究所-107304684847887/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "大阪産業技術研究所 note 社長",
+   "results": [
+    "https://www.projectdesign.jp/articles/news/9d978fc7-3c2d-4f96-bfd4-73b6adda76cb",
+    "https://orist.jp/",
+    "https://smepprd-kansai-meti-gov.note.jp/m/mc16d9fdf30d5",
+    "https://note.com/mobio_osaka/n/ne6937d769c2c",
+    "https://www.youtube.com/channel/UCdPUmbfXn7AWLJ6i0At26GA",
+    "https://www.aist.go.jp/aist_j/news/au20250415.html",
+    "https://note.com/soil_foundation/n/nb2e102ce7180",
+    "https://x.com/orist_pr",
+    "https://ja.wikipedia.org/wiki/大阪産業技術研究所",
+    "https://the-shashi.com/tse/5243/ceo/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "大阪産業技術研究所 X 投稿",
+   "results": [
+    "https://x.com/orist_pr",
+    "https://orist.jp/gaiyou/public_information/152486.html",
+    "https://www.youtube.com/channel/UCdPUmbfXn7AWLJ6i0At26GA",
+    "https://orist.jp/orist/topics/2025/152871.html",
+    "https://www.pref.osaka.lg.jp/documents/12890/shiryo2.pdf",
+    "https://kyoukai-osaka.org/category/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/",
+    "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E6%89%80",
+    "https://x.com/orist_pr/status/2113465442585194519",
+    "https://www.aist.go.jp/aist_j/public/aist_sns/twitter_aist_jp_policy.html",
+    "https://www.youtube.com/@orist5613"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部20頁・検索12回）",
+  "資本金": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部20頁・検索12回）",
+  "創業年度": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部20頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部20頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部20頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部20頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部20頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部20頁・検索12回）"
+ }
+}

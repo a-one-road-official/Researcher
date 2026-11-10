@@ -1,0 +1,933 @@
+{
+ "name": "タケダ金型株式会社",
+ "aliases": [],
+ "context": "PBF=yes 装置=LUMEX;松浦機械 出典=https://www.recmbus-3dprint.com/list/lumex.html",
+ "researched_at": "2026-11-10T18:25:18.269973+00:00",
+ "official_url": "https://www.takedamold.co.jp/",
+ "identified_by": "search:yahoo_jp:タケダ金型",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：昭和59年5月",
+    "url": "https://www.takedamold.co.jp/companyinfo/index.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1984年5月",
+    "url": "https://tenshoku.mynavi.jp/company/185091/",
+    "pass": 3
+   },
+   {
+    "label": "創業",
+    "value": "創業：1984年5月",
+    "url": "https://eigyo-mfg.com/service/navi/company/AQSb6lsU3Lbo",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：1989年12月",
+    "url": "https://eigyo-mfg.com/service/navi/company/AQSb6lsU3Lbo",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "1,000万円",
+    "url": "https://www.takedamold.co.jp/companyinfo/index.html",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "1,000万円",
+    "url": "https://tenshoku.mynavi.jp/company/185091/",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "関西第1工場 〒570-0032　大阪府守口市菊水通4-14-5 TEL：06‐6998‐6845　FAX：06‐6998-4645 関西第2工場 〒570-0032　大阪府守口市菊水通4-11-12 TEL/FAX　06‐6998‐6846 経理事務所 〒575-0036 大阪府四條畷市雁屋南町12-22 TEL/FAX　072-877-6454 中部工場 〒497-0030　愛知県海部郡蟹江町宝1-593、476 TEL：0567-69-4190　FAX：0567-69-4191",
+    "url": "https://www.takedamold.co.jp/companyinfo/index.html",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "大阪府守口市菊水通4-14-5",
+    "url": "https://tenshoku.mynavi.jp/company/185091/",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "大阪府四條畷市雁屋南町12-22",
+    "url": "https://eigyo-mfg.com/service/navi/company/AQSb6lsU3Lbo",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "ブロー金型の設計及び製作、検査治具・治工具・加工機の製作、3D測定、2D及び3Dデータ作成、部品加工、成形請負",
+    "url": "https://www.takedamold.co.jp/companyinfo/index.html",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "ブロー金型及び省力機械の設計制作",
+    "url": "https://tenshoku.mynavi.jp/company/185091/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "27名",
+    "url": "https://eigyo-mfg.com/service/navi/company/AQSb6lsU3Lbo",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "用途・客の産業": [
+   {
+    "quote": "BLOW金型・金属造形の事なら弊社にお任せ下さい|タケダ金型株式会社",
+    "url": "https://www.takedamold.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "主に自動車、建機・農機・重機、建材、保安、介護、工業、日用など様々な製品の設計から金型及び加工機製造まで手掛けております",
+    "url": "https://www.takedamold.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "豊富な経験と実績、そして新しい機械、技術を活かし今まで以上の金型作りに挑戦しています",
+    "url": "https://www.takedamold.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "海外での需要に対応すべくCHINAでもBLOW金型を製作しております",
+    "url": "https://www.takedamold.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "CHINAではBLOW,INJ、DC、ゴムの金型や製品まで対応可能です",
+    "url": "https://www.takedamold.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ブロー成型金型・金属造形機等で製作した事例を掲載しております",
+    "url": "https://www.takedamold.co.jp/facility/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ブロー成型金型・金属造形機等で製作した事例を掲載しております",
+    "url": "https://www.takedamold.co.jp/topics/news/000065.html",
+    "pass": 1
+   },
+   {
+    "quote": "ブロー成型金型・金属造形機等で製作した事例を掲載しております",
+    "url": "https://www.takedamold.co.jp/topics/news/000062.html",
+    "pass": 1
+   },
+   {
+    "quote": "金型及び加工機の設計・製作から成型品のデザインまで",
+    "url": "https://www.takedamold.co.jp/aboutus/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "弊社では様々な分野、自動車部品（内外装部品）・建機・重機・弱電製品から日用品・食品など広い分野で対応できる金型製作が可能です",
+    "url": "https://www.takedamold.co.jp/aboutus/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、豊富な実績・技術力を活かしお客様のニーズにお答えできるよう日々社内で新たな金型製作に挑戦しております",
+    "url": "https://www.takedamold.co.jp/aboutus/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "弊社では金型製作のみならず、製品設計、加工機、検査治具、成形、仕上げ・納品まで一貫生産体制で承ることが可能です",
+    "url": "https://www.takedamold.co.jp/aboutus/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "海外はブロー金型製作のみならず、その他金型の製作や加工機の製作依頼も承っております",
+    "url": "https://www.takedamold.co.jp/aboutus/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "例3）最大ベースワークサイズ（X2000xY1600xZ1380）による大物金型対応",
+    "url": "https://www.takedamold.co.jp/aboutus/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "例6）3Dスキャニングにて古い金型の再現化",
+    "url": "https://www.takedamold.co.jp/aboutus/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "●自動車部品 空調ダクト、吸気ダクト、リザーブタンク、ウォッシャータンク、スポイラー、保安部品、etc",
+    "url": "https://www.takedamold.co.jp/aboutus/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "、トイレ部品、医療トレーニング部品、湯たんぽ、テーブル、容器、ボトル、etc",
+    "url": "https://www.takedamold.co.jp/aboutus/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品設計、金型製作、加工機製作、検査治具製作、成形など一貫で受注対応",
+    "url": "https://www.takedamold.co.jp/aboutus/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "金型の製作のみならず製品設計、ブロー解析なども社内で対応しております",
+    "url": "https://www.takedamold.co.jp/aboutus/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、試作、量産、検査治具などもネットワークを使い対応させて頂いておりますので手間が省け、お客様には喜んで頂いております",
+    "url": "https://www.takedamold.co.jp/aboutus/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "また金型材質やコスト等で悩んでおられる方のご相談もさせて頂きます",
+    "url": "https://www.takedamold.co.jp/aboutus/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "金型及び加工機製作は一点ごとに責任者を集め社内着工会を開き構造、精度など、良い方向性を決めています",
+    "url": "https://www.takedamold.co.jp/aboutus/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業計画名：新設備導入による金型の高付加価値化、コスト削減による競争力の強化",
+    "url": "https://www.takedamold.co.jp/aboutus/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業計画名:金属造形設備導入による高度金型、試作品、部品展開事業",
+    "url": "https://www.takedamold.co.jp/aboutus/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業計画名:高精度3Dスキャンによる更新金型製造サービスの開始と金型製造プロセスの高度化事業",
+    "url": "https://www.takedamold.co.jp/aboutus/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品設計～金型製作、成形品、検査治具、加工機など一貫で受注対応",
+    "url": "https://www.takedamold.co.jp/aboutus/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ブロー成型金型・金属造形機等で製作した事例を掲載しております",
+    "url": "https://www.takedamold.co.jp/aboutus/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様から喜ばれる会社にするべく、新しい金型作り、高品質、短納期、低コストに貢献出来るように設備、技術、環境、育成に日々努力させて頂いております",
+    "url": "https://www.takedamold.co.jp/companyinfo/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ブロー金型の設計及び製作、検査治具・治工具・加工機の製作、3D測定、2D及び3Dデータ作成、部品加工、成形請負",
+    "url": "https://www.takedamold.co.jp/companyinfo/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "機械増設、大物金型多様化により工場拡張",
+    "url": "https://www.takedamold.co.jp/companyinfo/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "タイに金型事業としてT.A.G MOLDING CO.,LTD.を設立",
+    "url": "https://www.takedamold.co.jp/companyinfo/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "パリプレス金型特許取得(特許番号4822907号)",
+    "url": "https://www.takedamold.co.jp/companyinfo/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "グローバルに対応出来るように日本、中国での金型受注・製作の環境を作っています",
+    "url": "https://www.takedamold.co.jp/companyinfo/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "●名神高速道路 吹田I.C→近畿自動車道 門真I.C→約5分→所在地",
+    "url": "https://www.takedamold.co.jp/companyinfo/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "●西名阪道or阪和道→近畿自動車道 大東鶴見I.C→約5分→所在地",
+    "url": "https://www.takedamold.co.jp/companyinfo/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "●東名阪自動車道 蟹江I.C→約10分→所在地",
+    "url": "https://www.takedamold.co.jp/companyinfo/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ブロー成型金型・金属造形機等で製作した事例を掲載しております",
+    "url": "https://www.takedamold.co.jp/companyinfo/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ブロー成型金型・金属造形機等で製作した事例を掲載しております",
+    "url": "https://www.takedamold.co.jp/topics/news/000064.html",
+    "pass": 1
+   },
+   {
+    "quote": "【2025】年末・年始の休業日のご案内｜新着情報｜タケダ金型株式会社",
+    "url": "https://www.takedamold.co.jp/topics/news/000063.html",
+    "pass": 1
+   },
+   {
+    "quote": "ブロー成型金型・金属造形機等で製作した事例を掲載しております",
+    "url": "https://www.takedamold.co.jp/topics/news/000063.html",
+    "pass": 1
+   },
+   {
+    "quote": "ブロー成型金型・金属造形機等で製作した事例を掲載しております",
+    "url": "https://www.takedamold.co.jp/topics/news/000061.html",
+    "pass": 1
+   },
+   {
+    "quote": "ブロー成型金型・金属造形機等で製作した事例を掲載しております",
+    "url": "https://www.takedamold.co.jp/topics/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お知らせ一覧｜新着情報｜タケダ金型株式会社",
+    "url": "https://www.takedamold.co.jp/topics/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ブロー成型金型・金属造形機等で製作した事例を掲載しております",
+    "url": "https://www.takedamold.co.jp/topics/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ブロー成型金型・金属造形機等で製作した事例を掲載しております",
+    "url": "https://www.takedamold.co.jp/topics/news/000058.html",
+    "pass": 1
+   },
+   {
+    "quote": "ブロー成型金型・金属造形機等で製作した事例を掲載しております",
+    "url": "https://www.takedamold.co.jp/topics/news/000055.html",
+    "pass": 1
+   },
+   {
+    "quote": "ブロー成型金型・金属造形機等で製作した事例を掲載しております",
+    "url": "https://www.takedamold.co.jp/topics/news/000051.html",
+    "pass": 1
+   },
+   {
+    "quote": "タケダ金型株式会社の会社概要|転職・求人・中途採用情報サイトのマイナビ転職",
+    "url": "https://tenshoku.mynavi.jp/company/185091/",
+    "pass": 3
+   },
+   {
+    "quote": "「タケダ金型株式会社」の企業情報ページです",
+    "url": "https://tenshoku.mynavi.jp/company/185091/",
+    "pass": 3
+   },
+   {
+    "quote": "「タケダ金型株式会社」の本社所在地・従業員数・企業ホームページなどの情報を掲載しています",
+    "url": "https://tenshoku.mynavi.jp/company/185091/",
+    "pass": 3
+   },
+   {
+    "quote": "同社は、ブロー金型の設計・製作を主力とし、製品設計から加工機製作、検査治具製作、成形まで一貫したサービスを提供しています",
+    "url": "https://eigyo-mfg.com/service/navi/company/AQSb6lsU3Lbo",
+    "pass": 3
+   },
+   {
+    "quote": "自動車部品、建機・重機、弱電製品、日用品、食品など幅広い業界に対応可能です",
+    "url": "https://eigyo-mfg.com/service/navi/company/AQSb6lsU3Lbo",
+    "pass": 3
+   },
+   {
+    "quote": "ブロー金型の設計及び製作、検査治具・治工具・加工機の製作、3D測定、2D及び3Dデータ作成、部品加工、成形請負",
+    "url": "https://eigyo-mfg.com/service/navi/company/AQSb6lsU3Lbo",
+    "pass": 3
+   },
+   {
+    "quote": "機械増設、大物金型多様化により工場拡張",
+    "url": "https://eigyo-mfg.com/service/navi/company/AQSb6lsU3Lbo",
+    "pass": 3
+   },
+   {
+    "quote": "タイに金型事業としてT.A.G MOLDING CO.,LTD.を設立",
+    "url": "https://eigyo-mfg.com/service/navi/company/AQSb6lsU3Lbo",
+    "pass": 3
+   },
+   {
+    "quote": "高速マシニングセンター増設、ダイスポッティング導入 型内加工金型発案~試作",
+    "url": "https://eigyo-mfg.com/service/navi/company/AQSb6lsU3Lbo",
+    "pass": 3
+   },
+   {
+    "quote": "パリプレス金型特許取得(特許番号4822907号)",
+    "url": "https://eigyo-mfg.com/service/navi/company/AQSb6lsU3Lbo",
+    "pass": 3
+   },
+   {
+    "quote": "タケダ金型 | 企業情報 | イプロスものづくり",
+    "url": "https://mono.ipros.com/company/detail/2080759/",
+    "pass": 3
+   },
+   {
+    "quote": "BLOW金型・金属造形の事なら当社にお任せ下さい！",
+    "url": "https://mono.ipros.com/company/detail/2080759/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、ブロー製品専門の金型メーカーです",
+    "url": "https://mono.ipros.com/company/detail/2080759/",
+    "pass": 3
+   }
+  ],
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "お客様のニーズに合う機械を定期的に導入しております",
+    "url": "https://www.takedamold.co.jp/facility/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "LUMEX AVANCE-25（Matsuura）",
+    "url": "https://www.takedamold.co.jp/facility/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "コスト、短納期に対応する為の環境作りとして増設、新機種などを毎年導入しています",
+    "url": "https://www.takedamold.co.jp/aboutus/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、大型に対応出来る機械設備も導入しています",
+    "url": "https://www.takedamold.co.jp/aboutus/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業計画名：新設備導入による金型の高付加価値化、コスト削減による競争力の強化",
+    "url": "https://www.takedamold.co.jp/aboutus/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業計画名:金属造形設備導入による高度金型、試作品、部品展開事業",
+    "url": "https://www.takedamold.co.jp/aboutus/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業計画名:高精度NC機の導入による技術継承の推進及び新市場対応力強化事業",
+    "url": "https://www.takedamold.co.jp/aboutus/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "CAD/CAM，マシニングセンター導入",
+    "url": "https://www.takedamold.co.jp/companyinfo/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "高速マシニングセンター増設、ダイスポッティング導入",
+    "url": "https://www.takedamold.co.jp/companyinfo/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "3Dスキャン測定器導入",
+    "url": "https://www.takedamold.co.jp/companyinfo/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "NCフライス盤（6ATC)導入",
+    "url": "https://www.takedamold.co.jp/companyinfo/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "CAD/CAM,マシニングセンター導入",
+    "url": "https://eigyo-mfg.com/service/navi/company/AQSb6lsU3Lbo",
+    "pass": 3
+   },
+   {
+    "quote": "高速マシニングセンター増設、ダイスポッティング導入 型内加工金型発案~試作",
+    "url": "https://eigyo-mfg.com/service/navi/company/AQSb6lsU3Lbo",
+    "pass": 3
+   },
+   {
+    "quote": "3Dスキャン測定器導入",
+    "url": "https://eigyo-mfg.com/service/navi/company/AQSb6lsU3Lbo",
+    "pass": 3
+   },
+   {
+    "quote": "NCフライス盤(6ATC)導入",
+    "url": "https://eigyo-mfg.com/service/navi/company/AQSb6lsU3Lbo",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "造形材料 マルエージングⅡ（HRC36 〔HRC53〕）、ステンレス603（HRC32〔HRC42〕）",
+    "url": "https://www.takedamold.co.jp/facility/index.html",
+    "pass": 1
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "資本金 1,000 万にて株式会社設立",
+    "url": "https://www.takedamold.co.jp/companyinfo/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "資本金 1,000 万にて株式会社設立",
+    "url": "https://eigyo-mfg.com/service/navi/company/AQSb6lsU3Lbo",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社 案内｜ タケダ金型 株式 会社 — 会社 案内｜ タケダ金型 株式 会社 タケダ金型株式会社 https://www.takedamold.co.jp > companyinfo",
+    "url": "https://www.takedamold.co.jp/companyinfo/",
+    "pass": 3
+   },
+   {
+    "quote": "タケダ金型 株式会社の 会社概要 - マイナビ転職 — タケダ金型 株式会社の 会社概要 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > company",
+    "url": "https://tenshoku.mynavi.jp/company/185091/",
+    "pass": 3
+   },
+   {
+    "quote": "タケダ金型 株式 会社 | 加工 会社 ナビ - 営業製作所 — タケダ金型 株式 会社 | 加工 会社 ナビ - 営業製作所 営業製作所株式会社 https://eigyo-mfg.com > TOP > 大阪府の加工会社",
+    "url": "https://eigyo-mfg.com/service/navi/company/AQSb6lsU3Lbo",
+    "pass": 3
+   },
+   {
+    "quote": "タケダ金型 | 企業情報 | イプロスものづくり — タケダ金型 | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 製造・加工受託",
+    "url": "https://mono.ipros.com/company/detail/2080759/",
+    "pass": 3
+   },
+   {
+    "quote": "タケダ金型 株式 会社 （120825）の転職・求人情報 — タケダ金型 株式 会社 （120825）の転職・求人情報 エン転職 https://employment.en-japan.com > comp-120825",
+    "url": "https://employment.en-japan.com/comp-120825/",
+    "pass": 3
+   },
+   {
+    "quote": "当社について - タケダ金型株式会社 — 当社について - タケダ金型株式会社 タケダ金型株式会社 https://www.takedamold.co.jp > aboutus",
+    "url": "https://www.takedamold.co.jp/aboutus/",
+    "pass": 3
+   },
+   {
+    "quote": "タケダ金型 株式会社 | 加工会社ナビ - 営業製作所 — タケダ金型 株式会社 | 加工会社ナビ - 営業製作所 営業製作所株式会社 https://eigyo-mfg.com > TOP > 大阪府の加工会社",
+    "url": "https://eigyo-mfg.com/service/navi/company/AQSb6lsU3Lbo",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内｜ タケダ金型株式 会社 — 会社案内｜ タケダ金型株式 会社 タケダ金型株式会社 https://www.takedamold.co.jp > companyinfo",
+    "url": "https://www.takedamold.co.jp/companyinfo/",
+    "pass": 3
+   },
+   {
+    "quote": "タケダ金型株式 会社: BLOW金型・金属造形の事なら弊社にお ... — タケダ金型株式 会社: BLOW金型・金属造形の事なら弊社にお ... タケダ金型株式会社 https://www.takedamold.co.jp",
+    "url": "https://www.takedamold.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内｜ タケダ金型 株式会社 — 会社案内｜ タケダ金型 株式会社 タケダ金型株式会社 https://www.takedamold.co.jp > companyinfo",
+    "url": "https://www.takedamold.co.jp/companyinfo/",
+    "pass": 3
+   },
+   {
+    "quote": "タケダ金型 株式会社（120825）の転職・求人情報 — タケダ金型 株式会社（120825）の転職・求人情報 エン転職 https://employment.en-japan.com > comp-120825",
+    "url": "https://employment.en-japan.com/comp-120825/",
+    "pass": 3
+   },
+   {
+    "quote": "タケダ金型 株式会社の採用・求人情報-engage - エンゲージ — タケダ金型 株式会社の採用・求人情報-engage - エンゲージ エンゲージ https://en-gage.net > takedamold_saiyo",
+    "url": "https://en-gage.net/takedamold_saiyo/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.takedamold.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takedamold.co.jp/facility/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takedamold.co.jp/topics/news/000065.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takedamold.co.jp/topics/news/000062.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takedamold.co.jp/aboutus/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takedamold.co.jp/companyinfo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takedamold.co.jp/topics/news/000064.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takedamold.co.jp/topics/news/000063.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takedamold.co.jp/topics/news/000061.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takedamold.co.jp/topics/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takedamold.co.jp/topics/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takedamold.co.jp/topics/news/000058.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takedamold.co.jp/topics/news/000055.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takedamold.co.jp/topics/news/000051.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.takedamold.co.jp/images/header/hd_equipment.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://tenshoku.mynavi.jp/company/185091/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eigyo-mfg.com/service/navi/company/AQSb6lsU3Lbo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kanagata-shimbun.com/170810special/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chubu.meti.go.jp/b35innovation/meetupchubu/event/pdf/slide80-7.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://eigyo-mfg.com/service/navi/company/AQSb6lsU3Lbo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takeda-mc.co.jp/product-information/kanagata/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takeda-co.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2080759/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takeda-mc.co.jp/data/8de8b0543b810294e62e1731986ec780.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "タケダ金型",
+   "results": [
+    "https://www.takedamold.co.jp/",
+    "https://www.takeda-mc.co.jp/product-information/kanagata/",
+    "https://eigyo-mfg.com/service/navi/company/AQSb6lsU3Lbo",
+    "https://en-gage.net/takedamold_saiyo/",
+    "https://employment.en-japan.com/comp-120825/",
+    "https://www.takedamold.co.jp/companyinfo/",
+    "https://www.takedamold.com/",
+    "https://www.takedamold.com/about/",
+    "https://www.takeda-co.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "タケダ金型 会社概要 資本金 設立",
+   "results": [
+    "https://www.takedamold.co.jp/companyinfo/",
+    "https://tenshoku.mynavi.jp/company/185091/",
+    "https://eigyo-mfg.com/service/navi/company/AQSb6lsU3Lbo",
+    "https://mono.ipros.com/company/detail/2080759/",
+    "https://employment.en-japan.com/comp-120825/",
+    "https://www.takeda-co.com/company/",
+    "https://www.takeda.com/jp/about/our-company/",
+    "https://www.kk-takeda.co.jp/company",
+    "https://www.takeda-mc.co.jp/about/company/",
+    "https://takedamold.co.jp/aboutus/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "タケダ金型 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "https://kanagata-shimbun.com/170810special/",
+    "https://www.chubu.meti.go.jp/b35innovation/meetupchubu/event/pdf/slide80-7.pdf",
+    "https://j3d.co.jp/blog/blog13/",
+    "https://www.sodick.co.jp/special/3dsolution/original_molds.html",
+    "https://www.youtube.com/watch?v=oxt8A7RVs24",
+    "https://monoto.co.jp/sp-3dprinter-v2/",
+    "https://sumitomoelectric.com/jp/press/2023/07/prs094",
+    "https://takedamold.co.jp/facility/",
+    "https://skhonpo.com/blogs/3dprinter-practice/3dmetal2023?_pos=16"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "タケダ金型 金属積層造形 設備",
+   "results": [
+    "https://www.takedamold.co.jp/aboutus/",
+    "https://eigyo-mfg.com/service/navi/company/AQSb6lsU3Lbo",
+    "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "https://www.youtube.com/watch?v=oxt8A7RVs24",
+    "https://kanagata-shimbun.com/170810special/",
+    "https://www.muto.co.jp/3d/",
+    "https://3d.markforged.com/5metalap.html?utm_source=robotdigest&utm_medium=banner&utm_campaign=04",
+    "https://j3d.co.jp/blog/blog13/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "タケダ金型 株主 出資 親会社",
+   "results": [
+    "https://www.takedamold.co.jp/companyinfo/",
+    "https://www.takeda-mc.co.jp/product-information/kanagata/",
+    "https://www.takeda-co.com/company/",
+    "https://www.kk-takeda.co.jp/company",
+    "https://www.takedamold.co.jp/",
+    "https://diamond.jp/zai/articles/-/297019",
+    "https://www.takeda.com/jp/about/our-company/history/",
+    "https://ja.wikipedia.org/wiki/%E6%AD%A6%E7%94%B0%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD",
+    "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20230906551201/140120230906551201.pdf",
+    "https://irbank.net/E01508/ac?m=タケダ精機株式会社"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "タケダ金型 売上高 従業員数",
+   "results": [
+    "https://www.takedamold.co.jp/companyinfo/",
+    "https://mono.ipros.com/company/detail/2080759/",
+    "https://www.takeda-mc.co.jp/data/8de8b0543b810294e62e1731986ec780.pdf",
+    "https://employment.en-japan.com/comp-120825/",
+    "https://en-gage.net/takedamold_saiyo/",
+    "https://baseconnect.in/companies/10b64933-c333-4ddd-b66e-2ffb700d06fa",
+    "https://www.buffett-code.com/company/bw80fxuu6f/",
+    "https://job.mynavi.jp/27/pc/search/corp108976/outline.html",
+    "https://www.takeda-co.com/company/",
+    "https://eigyo-mfg.com/service/navi/company/AQSb6lsU3Lbo"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com タケダ金型",
+   "results": [
+    "https://note.com/pocoa_420/n/ne34903957fed",
+    "https://note.com/jewelry_takeda/n/n87c1b4fc6c80",
+    "https://note.com/calm_lupine8385/n/n4ceab126ef17",
+    "https://note.com/jewelry_takeda/n/nc66299c75aac",
+    "https://note.com/osamitakeda/n/n0ac4fb98bea8",
+    "https://note.com/nana_takeda/n/nf893ed16153a",
+    "https://note.com/ktakeda/n/nf97fa8f33c6f",
+    "https://note.com/msc_ms/n/nea159b9fc80e",
+    "https://note.com/crow477/n/n46fa5cb209b1",
+    "https://note.com/user230154/n/n86f6c222b14e"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com タケダ金型",
+   "results": [
+    "https://x.com/takeda_sports/status/1991749292877574376",
+    "https://x.com/takeda_sports/status/2057723026897318386",
+    "https://x.com/otaka_ss_mold/status/2119054957123076101",
+    "https://x.com/TakedaT5666/status/1959638099740197362",
+    "https://x.com/takeda_sports",
+    "https://x.com/yusaku_takeda/status/1823802748220952754",
+    "https://x.com/shuntaro_takeda",
+    "https://x.com/TakedaT5666/status/2057489485236187512",
+    "https://x.com/otaka_ss_mold/status/2119057435751256221"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:linkedin.com タケダ金型",
+   "results": [
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E5%88%B6%E5%BE%A1%E6%A9%9F%E5%99%A8%E4%BA%8B%E6%A5%AD%E3%80%91%E9%83%A8%E5%93%81%E9%87%91%E5%9E%8B%E3%81%AE%E8%B3%BC%E8%B2%B7%E3%83%BB%E6%8A%80%E8%A1%93%E6%8B%85%E5%BD%93%EF%BC%88%E7%94%9F%E7%94%A3scm%E6%9C%AC%E9%83%A8%EF%BC%8F%E7%B6%BE%E9%83%A8%E4%BA%8B%E6%A5%AD%E6%89%80%EF%BC%89-at-omron-group-4479380731",
+    "https://www.linkedin.com/posts/makoto-sadamitsu-30780521b_%E6%8A%97%E4%BD%93%E5%8C%BB%E8%96%AC%E8%A3%BD%E9%80%A0%E5%85%A5%E9%96%80-activity-7505412918847393792-vZR0",
+    "https://jp.linkedin.com/in/masakitakeda1010",
+    "https://jp.linkedin.com/in/haydenmajajas",
+    "https://jp.linkedin.com/in/seiji-takeda-346a2716",
+    "https://jp.linkedin.com/in/ayaka-takeda-5b5a72139",
+    "https://jp.linkedin.com/jobs/view/%E3%80%8A%E9%96%80%E7%9C%9F-%E8%A5%BF%E4%B8%89%E8%8D%98-%E6%B4%B2%E6%9C%AC%E3%80%8B%E3%83%AA%E3%83%81%E3%82%A6%E3%83%A0%E3%82%A4%E3%82%AA%E3%83%B3%E4%BA%8C%E6%AC%A1%E9%9B%BB%E6%B1%A0%E3%81%AE%E3%82%BB%E3%83%AB%E6%9D%90%E6%96%99%E3%81%AE%E8%B3%BC%E8%B2%B7%E6%A5%AD%E5%8B%99%E3%81%A8%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E7%AE%A1%E7%90%86%E3%80%90pec-%E3%82%A8%E3%83%8A%E3%82%B8%E3%83%BC%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E4%BA%8B%E6%A5%AD%E9%83%A8%E3%80%91-at-panasonic-4487476767",
+    "https://jp.linkedin.com/in/tomoko-ishido-hamead-7758b010",
+    "https://jp.linkedin.com/jobs/view/%E2%97%86%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%AB%E3%83%BC%E3%83%A0%E5%86%85%E3%81%A7%E3%81%AE%E3%83%95%E3%83%83%E7%B4%A0%E5%8A%A0%E5%B7%A5%E3%83%9B%E3%83%BC%E3%82%B9%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E6%A5%AD%E5%8B%99%E2%97%86-at-%E9%AB%98%E6%9C%A8%E5%B7%A5%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89-4474125511",
+    "https://jp.linkedin.com/in/hanae-takeda-776335b1"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:facebook.com タケダ金型",
+   "results": [
+    "https://www.facebook.com/TAKEDAKANAGATA/",
+    "https://www.facebook.com/VietChuanJSC/posts/%E8%87%AA%E5%8B%95%E8%BB%8A%E5%90%91%E3%81%91%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E9%87%91%E5%9E%8B%E3%81%AF%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89%E3%81%AF%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E5%A4%96%E6%B3%A8%E3%81%B8%E6%97%A5%E6%9C%AC%E5%93%81%E8%B3%AA%E3%81%8C%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E4%BE%A1%E6%A0%BC%E5%93%81%E8%B3%AA%E3%81%9D%E3%81%AE%E3%81%BE%E3%81%BE%E3%81%AB%E3%82%B3%E3%82%B9%E3%83%88%E3%83%80%E3%82%A6%E3%83%B3viet-chuan%E3%81%AF%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E3%81%AB%E3%81%A6%E6%97%A5%E6%9C%AC%E3%81%AE%E5%A4%A7%E6%89%8B%E8%87%AA%E5%8B%95%E8%BB%8A%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%AE/126626379128701/",
+    "https://www.facebook.com/mtakeda0523/",
+    "https://www.facebook.com/mariefactory.jp/videos/%E5%B7%9D%E5%8F%A3%E3%81%AE%E3%83%99%E3%83%BC%E3%82%B4%E3%83%9E%E3%82%AF%E3%83%83%E3%82%AD%E3%83%BC%E5%8F%AF%E6%84%9B%E3%81%84%E3%81%A0%E3%81%91%E3%81%98%E3%82%83%E3%81%AA%E3%81%8F%E7%BE%8E%E5%91%B3%E3%81%97%E3%81%84%E3%82%93%E3%81%A7%E3%81%99/1863911035059689/",
+    "https://www.facebook.com/yosuke.takeda.3/",
+    "https://www.facebook.com/teluslaser/?locale=ja_JP",
+    "https://www.facebook.com/100057231469362/videos/%E5%B2%A9%E6%B2%BC%E7%B2%BE%E5%B7%A5%E3%81%A7%E3%81%99iwanuma_seiko-%E4%BB%96%E3%81%AE%E6%8A%95%E7%A8%BF%E3%81%AF%E3%81%93%E3%81%A1%E3%82%89%E3%81%8B%E3%82%89-%CD%80%CC%97%E9%9F%B3%E3%81%82%E3%82%8A%E6%8E%A8%E5%A5%A8%E3%81%A1%E3%81%84%E3%81%8B%E3%82%8F%E3%81%AE%E6%98%A0%E7%94%BB%E3%82%92%E8%A6%B3%E3%81%A6%E3%81%8B%E3%82%89%E3%81%9A%E3%81%A3%E3%81%A8%E8%80%B3%E3%81%AB%E6%AE%8B%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%93%E3%81%AE%E6%9B%B2%E3%81%AB%E3%81%AE%E3%81%9B%E3%81%A6%E6%81%92%E4%BE%8B%E3%81%AE%E3%83%97%E3%83%AC%E3%82%B9%E5%8B%95%E7%94%BB%E3%81%A7%E3%81%99%EF%B8%8F%EF%B8%8F%E5%BC%8A/1060486886953317/",
+    "https://www.facebook.com/matsump/",
+    "https://www.facebook.com/yosuke.takeda.3/photos/28722006570825282/",
+    "https://www.facebook.com/TAKEDAKANAGATA/videos/こんにちは今日は今回新しいワークショップ-金属製オリジナルキーホルダー作り自動切削-verを紹介します自社の工作機械を操作し好きな文字を自動で掘りオリジナルのキ/1083748620207808/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "タケダ金型 note 社長",
+   "results": [
+    "https://www.takedamold.co.jp/companyinfo/",
+    "https://www.takeda-co.com/business/manufacture/",
+    "https://sakuranote.net/sponsor/takeda-ki/",
+    "https://note.com/hax/n/nc5486d4305c7",
+    "https://employment.en-japan.com/comp-120825/",
+    "https://note.com/dymol/n/n878fde9f1076",
+    "https://en-gage.net/takedamold_saiyo/",
+    "https://www.takeda-mc.co.jp/recruitment/business/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.com/sadaaki"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "タケダ金型 X 投稿",
+   "results": [
+    "https://www.takedamold.co.jp/",
+    "https://mono.ipros.com/company/detail/2080759/",
+    "https://www.takeda-mc.co.jp/product-information/kanagata/",
+    "https://www.takeda-co.com/business/manufacture/",
+    "https://x.com/i/trending/2011754972078358664",
+    "http://www.takeda-kanagata.co.jp/",
+    "https://www.takedamold.co.jp/companyinfo/",
+    "https://takeda-seikou.com/",
+    "https://x.com/tkdcojp_corone",
+    "https://x.com/takeda0715"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部11頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部11頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部11頁・検索12回）"
+ }
+}

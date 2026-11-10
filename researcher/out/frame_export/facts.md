@@ -5040,6 +5040,8 @@
 ## バーティカルAI（vertical AI）
 - 文脈：1 AI・半導体 ③バーティカルAI
 - 痛み・損（深さの印）：
+  - 「Japan, confronted with a mounting array of social challenges such as labor shortages in local regions, is precisely」（https://www8.cao.go.jp/cstp//stmain/20260619ai/aiplan_2601_draft_en.pdf）
+  - 「Japan faces serious challenges such as labor shortages, it can be expected to achieve significant problem-solving」（https://www8.cao.go.jp/cstp//stmain/20260619ai/aiplan_2601_draft_en.pdf）
   - 「日本経済新聞が日本総合研究所と人手不足で生じた機会損失を試算したところ、その規模は年16兆円に達した」（https://www.nikkei.com/article/DGXZQOCD3097Z0Q5A930C2000000/）
   - 「人手不足倒産、1万3500社が「予備軍」 飲食や介護に急増リスク」（https://www.nikkei.com/article/DGXZQOCD3097Z0Q5A930C2000000/）
   - 「4〜9月の企業倒産4％増、13年ぶり高水準 人手不足理由が過去最多」（https://www.nikkei.com/article/DGXZQOCD3097Z0Q5A930C2000000/）
@@ -5063,6 +5065,8 @@
   - 「このレポートでは、主な導入領域として金融、ヘルスケア、製造、小売といった分野を挙げています」（https://www.members.co.jp/column/20260326-vertical-ai）
   - 「2023年以降、生成AIは驚異的なスピードで普及し、多くの企業が実証実験（PoC）や試行的な導入を重ねてきました」（https://www.members.co.jp/column/20260326-vertical-ai）
 - 顧客の顧客（発注元が求めること）：
+  - 「企業の資材調達や物流などのサプライチェーン管理は、見積依頼、請求書などの大量の書類照合、進捗確認、サプライヤーとのやり取り、そして決済など、バックオフィス業務のなかでも反復かつ大量の書類のやり取りが発生する分野です」（https://blog.allstarsaas.com/posts/ai-lab-01）
+  - 「EU AI Actでも高リスクAIに対し、活動ログ、人による監督、堅牢性、サイバーセキュリティ、精度などを要求する方向が明示されている」（https://note.com/legit_cobra5046/n/nc63e9514cd5c）
   - 「・国産フィジカルＡＩモデル開発やデータ整備等を通じたロボット基盤モデルの開発能力強化や、ロボットOEMの育成、重要部品の設計・製造能力強化に取り組む」（https://digital-supporter.net/mirai-ai/seichou17/ai-handoutai.html）
   - 「国産フィジカルＡＩモデル開発・データ整備、ロボットOEMの育成、重要部品の設計・製造能力強化、「ＡＩロボティクス実装ロードマップ」、Center of Excellenceの創設」（https://digital-supporter.net/mirai-ai/seichou17/ai-handoutai.html）
   - 「のOEMは、一般にロボット本体を完成品として設計・製造するメーカーを指します」（https://digital-supporter.net/mirai-ai/seichou17/ai-handoutai.html）
@@ -5076,40 +5080,38 @@
   - 「令和9年度のAI関連予算概算要求では、令和8年度当初予算（約5,027億円）を基盤としつつ、さらなる投資拡大に向けた大規模な予算要求が行われています」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
   - 「令和9年度の概算要求のうち、中小の製造業・物流業と関係が深い主な項目は次のとおりです」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
   - 「令和９年度概算要求：金額明示の主要事業計 約２兆1,156億円 ＋ 事項要求（複数件）」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
-  - 「出典：令和9年度ＡＩ関連予算要求について」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
-  - 「中小企業向けAX支援は令和9年度の新規事業として要求されています」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
 - 顧客の競合（奪いに来る側）：
+  - 「インド半導体の業界地図 タタ経済圏に450社、日本の突破口明らかに」（https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/）
+  - 「今回の調査では、米国トップVC4社（」（https://blog.allstarsaas.com/posts/ai-lab-01）
+  - 「米国ではバーティカル AI への企業支出が増加しており、事例からは、日常」（https://www.dir.co.jp/report/research/economics/japan/20260930_026094.pdf）
+  - 「米ベンチャーキャピタルのMenlo Ventures は、米国企業による 2025 年の生成 AI 支出は 370」（https://www.dir.co.jp/report/research/economics/japan/20260930_026094.pdf）
+  - 「によると、2025 年の米国企業におけるバーティカル AI への支出額 35 億ドルのうち、医療分野」（https://www.dir.co.jp/report/research/economics/japan/20260930_026094.pdf）
+  - 「図表 2 米国におけるバーティカル Al への企業支出 (カテゴリー別、2025 年推計)」（https://www.dir.co.jp/report/research/economics/japan/20260930_026094.pdf）
+  - 「成長する米国＆世界に投資する最強のFIRE計画」（https://diamond.jp/zai/articles/-/1070254）
+  - 「日本は、汎用AIの開発では米国や中国に遅れを取っており、今からこの分野で巻き返すことは現実的ではありません」（https://diamond.jp/zai/articles/-/1070254）
+  - 「また、AIの開発・運用では、使用する基盤モデルやクラウドの多くを米国を中心とした海外企業に依存していますが、過度な海外企業への依存はデータの国外流出やデジタル赤字の拡大といった懸念点が挙げられます」（https://diamond.jp/zai/articles/-/1070254）
+  - 「【米国株】S&P500採用銘柄の中で投資判断が“買い”の「高配当株」4銘柄を紹介！ 利回り＝6.9％の｢ファイザー｣、利回り＝6.7％の｢アムコール｣などに注目！」（https://diamond.jp/zai/articles/-/1070254）
+  - 「米国、中国、」（https://diamond.jp/zai/articles/-/1070254）
+  - 「韓国、ロシア」（https://diamond.jp/zai/articles/-/1070254）
   - 「動き出すインド半導体、狙うは「世界の工場」 ラピダスも参戦」（https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/）
   - 「韓国、首都圏に7万6700戸供給へ…「自立型都市」掲げるも雇用目標は未提示」（https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/）
   - 「こうした背景から、米国のAIベンダーやスタートアップを中心に、業界特化型のAIを明確に区別するVertical AIという概念が重視されるようになりました」（https://www.members.co.jp/column/20260326-vertical-ai）
-  - 「米国のAI企業Turing社は、今後のビジネス変革を主導する存在として「Vertical AI Agents」を挙げています」（https://www.members.co.jp/column/20260326-vertical-ai）
-  - 「「特集・インド半導体」「米陸軍で痛感した壁」 注目5本」（https://www.nikkei.com/article/DGXZQOCD3097Z0Q5A930C2000000/）
-  - 「日系サプライヤーを襲う｢五重苦｣ トヨタから中国で失注」（https://www.nikkei.com/article/DGXZQOCD3097Z0Q5A930C2000000/）
-  - 「奇瑞が27年に日本参入検討、オモダ4のHEVか 競合はヤリスクロス」（https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/）
-  - 「想定外の大地震から免震建物を守る、清水建設が安価なダンパー開発」（https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/）
-  - 「並ぶ第三極として世界シェア3割超の獲得を通じて、2040年に」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai5/shiryou3.pdf）
-  - 「シェア約7割を有し、モーター、減速機等の主要コンポーネントでも高い競争力を持」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai5/shiryou3.pdf）
-  - 「一方、サービスロボット市場（約2.8兆円）での世界シェアは１割強にとどまる」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai5/shiryou3.pdf）
-  - 「 現状、我が国は、産業用ロボット市場で世界シェア約7割を有し、モーター、減速機、センサー、蓄電池等の主要部品でも高い」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai5/shiryou3.pdf）
-  - 「して、世界シェア3割超の獲得」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai5/shiryou3.pdf）
-  - 「・かつて我が国半導体産業は世界シェアの約50％を誇ったが、日米貿易摩擦、日の丸」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai5/shiryou3.pdf）
-  - 「・半導体設計は米国、製造は台湾、製造装置は日本・米国・欧州、部素材は日本に強」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai5/shiryou3.pdf）
 - 自社の競合（商社・代理店・仲介）：
-  - 「加えて、エージェント型A 1 (Agentic Al) の出現でA 1 が業務全体を」（https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/shiryo2_2.pdf）
-  - 「の実行基盤（Microsoft Copilot Studio・Foundry Agent Service等）にバーティカルAIを組み込む」（https://www.ai-souken.com/article/what-is-vertical-ai）
-  - 「AI総合研究所のAI Agent Hubは、Microsoft Fabric OneLakeでの意味層整備、Copilot Studio・Microsoft Foundry・n8nを開発基盤にした業界特化Agent構築、熟練者判断を挟むフロー判定Agent、実行ログ・権限管理の統合ダッシュボード、Teamsからの業務動線への埋め込みまでを1つのプラットフォームで提供します」（https://www.ai-souken.com/article/what-is-vertical-ai）
-  - 「海外バーティカルSaaS（Harvey・Sierra等）を組み合わせる場合も、業界規制対応・監査ログ・データ主権の運用層はAI Agent Hub側で受けられる設計です」（https://www.ai-souken.com/article/what-is-vertical-ai）
-  - 「AI Agent Hubのサービスページで、業界特化AIを自社に定着させる実行基盤の全体像をご確認ください」（https://www.ai-souken.com/article/what-is-vertical-ai）
-  - 「意味層・Agent・業務動線の3層で運用」（https://www.ai-souken.com/article/what-is-vertical-ai）
-  - 「AI Agent Hubのサービスページで、Fabric OneLakeの意味層整備・業界特化Agent構築・Human-in-the-Loopのフロー判定・Teams実行までを1つのプラットフォームで扱う実行基盤の全体像をご確認ください」（https://www.ai-souken.com/article/what-is-vertical-ai）
-  - 「AIエージェント(AI agent)とは？仕組みや主要プラットフォーム、活用事例を解説」（https://www.ai-souken.com/article/what-is-vertical-ai）
-  - 「今回の基本計画改定案で、バーティカルAIと並んで重視されているのが「エージェント型AI（Agentic AI）」です」（https://note.com/natty_toucan386/n/n71569e37eb2b）
-  - 「OWASPは2026年、権限の乗っ取りやツールの誤用を主要リスクとする「OWASP Top 10 for Agentic Applications」を公開し、警鐘を鳴らしています」（https://note.com/natty_toucan386/n/n71569e37eb2b）
-  - 「© Adapting to the rise of agentic AI and strengthen Japan’s AI capabilities - from computing and energy to institutions and」（https://www8.cao.go.jp/cstp/ai/ai_plan/aiplan_g_eng_20260714.pdf）
-  - 「Actively adopt agentic AI, government deployment」（https://www8.cao.go.jp/cstp/ai/ai_plan/aiplan_g_eng_20260714.pdf）
-  - 「・ AIis evolving from a tool that supports human work into an agent capable of making decisions and taking actions.」（https://www8.cao.go.jp/cstp/ai/ai_plan/aiplan_g_eng_20260714.pdf）
-  - 「・ Agentic AI is expanding rapidly and is becoming a foundation for autonomously managing end-to-end operations across a」（https://www8.cao.go.jp/cstp/ai/ai_plan/aiplan_g_eng_20260714.pdf）
-  - 「・ How societies deploy and govern agentic AI will directly shape national strength, including economic competitiveness,」（https://www8.cao.go.jp/cstp/ai/ai_plan/aiplan_g_eng_20260714.pdf）
+  - 「NIST, AI Agent Standards Initiative, 2026.」（https://note.com/legit_cobra5046/n/nc63e9514cd5c）
+  - 「NIST NCCoE, Accelerating the Adoption of Software and Artificial Intelligence Agent Identity and Authorization, 2026.」（https://note.com/legit_cobra5046/n/nc63e9514cd5c）
+  - 「European Commission, AI Act — Shaping Europe's digital future, 2026.」（https://note.com/legit_cobra5046/n/nc63e9514cd5c）
+  - 「(Rapid evolution of Agentic Al Technology)」（https://www8.cao.go.jp/cstp//stmain/20260619ai/aiplan_2601_draft_en.pdf）
+  - 「accelerating. By utilizing these technologies, “Agentic Al,” in which Al itself repeatedly formulates plans,」（https://www8.cao.go.jp/cstp//stmain/20260619ai/aiplan_2601_draft_en.pdf）
+  - 「national security. How such agentic Al, which increases the speed of organizational decision-making and」（https://www8.cao.go.jp/cstp//stmain/20260619ai/aiplan_2601_draft_en.pdf）
+  - 「Around the world, the deployment and development of advanced technologies, including agentic Al, are」（https://www8.cao.go.jp/cstp//stmain/20260619ai/aiplan_2601_draft_en.pdf）
+  - 「In the age of agentic Al, the application of Al across a wide variety of social operations will deepen and expand.」（https://www8.cao.go.jp/cstp//stmain/20260619ai/aiplan_2601_draft_en.pdf）
+  - 「way, Japan will deeply embed Al like agentic Al, into the front lines of its manufacturing, services, and」（https://www8.cao.go.jp/cstp//stmain/20260619ai/aiplan_2601_draft_en.pdf）
+  - 「serious, as technological innovation advances, including the emergence of agentic Al. Even over the past six」（https://www8.cao.go.jp/cstp//stmain/20260619ai/aiplan_2601_draft_en.pdf）
+  - 「excessive dependence on Al. In addition, with the advent of agentic Al, concerns have been pointed out」（https://www8.cao.go.jp/cstp//stmain/20260619ai/aiplan_2601_draft_en.pdf）
+  - 「employment. There are also concerns about the possibility of cyberattacks in which agentic Al autonomously」（https://www8.cao.go.jp/cstp//stmain/20260619ai/aiplan_2601_draft_en.pdf）
+  - 「effects across society by promoting AX, starting with the social implementation of agentic Al. To this end, while」（https://www8.cao.go.jp/cstp//stmain/20260619ai/aiplan_2601_draft_en.pdf）
+  - 「trustworthiness” in agentic Al as well.」（https://www8.cao.go.jp/cstp//stmain/20260619ai/aiplan_2601_draft_en.pdf）
+  - 「heightened risks arising from the emergence of agentic Al, particularly its impact on ways of working and」（https://www8.cao.go.jp/cstp//stmain/20260619ai/aiplan_2601_draft_en.pdf）
 - 政治（法・予算・規制）：
   - 「政府調達や制度改革により初期需要を積極的に喚起し、 開発投資や実装に対する支援を実施する」（https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/shiryo2_2.pdf）
   - 「広く浅い用途に対応する、一般的な汎用AIは多種多様なタスクをこなせる反面、業界固有の業務フローや規制、複雑な判断基準を前提とした活用には限界があります」（https://www.members.co.jp/column/20260326-vertical-ai）
@@ -5127,6 +5129,14 @@
   - 「出典：令和9年度ＡＩ関連予算要求について」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
   - 「今後の予算編成で金額が変わる可能性があり、個別事業の公募時期や要件も資料には記載がありませんので、ご注意ください」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
 - 経済（規模・価格・為替）：
+  - 「総額1.2兆円、50億以上のIT投資約60件を独自調査で一覧に 最多はMUFG」（https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/）
+  - 「ギフティGで不正アクセス相次ぐ、eギフト5.5億円損失 サーティワンも影響」（https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/）
+  - 「評価額$3B（約4,500億円）でSequoia Capitalなどから大型調達を発表」（https://blog.allstarsaas.com/posts/ai-lab-01）
+  - 「SaaSxAI Weekly #216（9/7〜9/13）『Anthropic研究者が自己改善型AIに抗議して退職』『成長率だけでは、AI時代の企業価値は決まらない』」（https://blog.allstarsaas.com/posts/ai-lab-01）
+  - 「同社によると、Fortune 50 企業 (米フォーチュン誌の売上高上位 50 th) の」（https://www.dir.co.jp/report/research/economics/japan/20260930_026094.pdf）
+  - 「1億円を目指す「マネ活!」実践講座」（https://diamond.jp/zai/articles/-/1070254）
+  - 「1日の約定金額の合計が50万円以下であれば売買手数料が無料」（https://diamond.jp/zai/articles/-/1070254）
+  - 「◆【松井証券のおすすめポイントは？】1日50万円以下の株取引は手数料0円（無料）！ その他の無料サービスと個性派投資情報も紹介」（https://diamond.jp/zai/articles/-/1070254）
   - 「独自調査で判明、三菱UFJニコス・みずほで1000億円超のプロジェクト」（https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/）
   - 「フィジカルＡＩ（特にＡＩロボット）は、2040年に世界シェア3割超・20兆円の市場獲得を目指し、ロボット基盤モデルの開発能力強化や「ＡＩロボティクス実装ロードマップ」に基づく18分野での導入を進めます」（https://digital-supporter.net/mirai-ai/seichou17/ai-handoutai.html）
   - 「フィジカル・インテリジェント・システムの中核を担う半導体は、国内生産される半導体売上高を2030年に15兆円、2040年に40兆円とすることを目指し、アナログ・レガシー半導体まで含めて設計開発能力と一体的に強化します」（https://digital-supporter.net/mirai-ai/seichou17/ai-handoutai.html）
@@ -5134,15 +5144,10 @@
   - 「フィジカルＡＩ（特にＡＩロボット）について、日本成長戦略はＡＩロボットで2040年に世界シェア3割超、20兆円の市場獲得を目指しています」（https://digital-supporter.net/mirai-ai/seichou17/ai-handoutai.html）
   - 「フィジカルＡＩの重要性が高まる中、ＡＩをロボットに実装したＡＩロボットを中心に市場が拡大し、2040年に約60兆円に達するとの予測もある」（https://digital-supporter.net/mirai-ai/seichou17/ai-handoutai.html）
   - 「た (2030 年約 3 兆円)」（https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/shiryo2_2.pdf）
-  - 「市場調査会社Technavioのレポートによれば、Vertical AI市場は2024年から2029年にかけて、年平均約24％（CAGR24.3％）という高い水準で成長すると予測されています」（https://www.members.co.jp/column/20260326-vertical-ai）
-  - 「少なくとも5兆円」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「2030年に世界のバーティカル市場33兆円のうち、内外で少なくとも5兆円の市場を獲得することが目標です」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「・2024年の国内バーティカルAI市場は約1兆円で、2030年には約3兆円になる見通し」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「国内のバーティカルAI市場は2024年に約1兆円で、2030年には約3兆円になる見通しで、フィジカルAIに先行して市場が発現しています」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「令和9年度のAI関連予算概算要求では、令和8年度当初予算（約5,027億円）を基盤としつつ、さらなる投資拡大に向けた大規模な予算要求が行われています」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
-  - 「中小企業等を対象としたAX促進、業務効率化やDXの推進支援【新規】：経産省 約3,746億円」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
-  - 「バーティカルAIの導入・開発利用の促進【新規】：内閣府 約1,009億円」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
 - 社会（人・担い手）：
+  - 「AIによって人手不足を緩和し、公共サービスや供給能力を維持する領域である」（https://note.com/kagawatomo/n/n8e833f87f11c）
+  - 「第一に、人手不足が急速に深刻化している」（https://note.com/kagawatomo/n/n8e833f87f11c）
+  - 「製造、物流、建設、介護、農業、警備、設備保守など、多くの産業で担い手が不足している」（https://note.com/kagawatomo/n/n8e833f87f11c）
   - 「韓国、首都圏に7万6700戸供給へ…「自立型都市」掲げるも雇用目標は未提示」（https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/）
   - 「経審に「制度疲労」、人材の確保や育成の評価拡充を求める声 国交省調査」（https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/）
   - 「導入が進おバーティカルA 1 主導で、 人材、モデル、 アプリ、 データ、 クラウド、 データセンター、 計算資源、」（https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/shiryo2_2.pdf）
@@ -5155,9 +5160,6 @@
   - 「300ページ超の長文・複雑な契約書に対応する「Ai Workforce 契約書ソリューション」を提供開始」（https://www.members.co.jp/column/20260326-vertical-ai）
   - 「求められるのは、現場を知る専門人材の関与」（https://www.members.co.jp/column/20260326-vertical-ai）
   - 「AI活用がPoCの段階で足踏みしている企業では、往々にしてこの専門人材が不在だったり、あるいは定義が曖昧なままプロジェクトが進められたりしているケースが見られます」（https://www.members.co.jp/column/20260326-vertical-ai）
-  - 「バーティカルAI領域別戦略の中間取りまとめでは、官民の限られた人材、資金、計算資源を戦略的に配分するため、対象分野を三つの観点で整理した」（https://note.com/kagawatomo/n/n8e833f87f11c）
-  - 「・AI実装人材の創出による導入の円滑化、」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「フィジカルAIで人手不足を解消する方法｜中小製造業のAI-Ready化5ステップ - フィデックス株式会社」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
 - 技術（新しい技術・実証）：
   - 「3.1.6. BU RAI ec ccc eecssseescessnecessnecessnneecssnsecessneesessnusecesnusecsssueesssnecessnteessneeessnneessaness16」（https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/shiryo2_2.pdf）
   - 「3.2.1. BEAR TPR + FAI ccc ecccceeeecessneeessneseesnnecessneesssneeessnecessnteessnueessneeessaness19」（https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/shiryo2_2.pdf）
@@ -5175,6 +5177,7 @@
   - 「製造領域については、 日本の強みである現場の力を活用した競争力ある Al の開発とその活用を通じた生」（https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/shiryo2_2.pdf）
   - 「やサプライチェーン等に関する現場データ連携等のために不可欠なデータ精製技術開発やデータセットの構築、」（https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/shiryo2_2.pdf）
 - 検索結果の抜粋：
+  - 「「 バーティカルAI 領域別戦略」から読み解く、2030年に向け ... — 「 バーティカルAI 領域別戦略」から読み解く、2030年に向け ... NewsPicks https://newspicks.com > ... > デジタル政策と未来社会」（https://newspicks.com/news/17139933/body/）
   - 「フィジカルAI・ バーティカルAI とは（ 日本 成長戦略 全文と解説） — フィジカルAI・ バーティカルAI とは（ 日本 成長戦略 全文と解説） 日本DX地域創生応援団 https://digital-supporter.net > seichou17 > ai-handoutai」（https://digital-supporter.net/mirai-ai/seichou17/ai-handoutai.html）
   - 「社会実装から見るバーティカルAIの可能性 — こうした中、日本政府は、2026 年 7 月に改定・閣議決定した「人工知能基本計画」において、日本の勝ち筋の追求に向けた重点分野の1つとしてバーティカルAIを挙げ、その開発や活用を重点的に推進する方針を示している1。」（https://www.dir.co.jp/report/research/economics/japan/20260930_026094.pdf）
   - 「AIが「実行できる」と「実行してよい」は違う――2026年のVertical AIを... — Aug 13, 2026 · NISTも2026年、AIエージェントの相互運用性とセキュリティを対象とした標準化イニシアティブを開始しました。 日本政府の第Ⅱ期人工知能基本計画でも、AIが「業務を支援するツール」から「意思決定・実行を担う主体」へ進化していることを前提に、Vertical ...」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
@@ -5189,11 +5192,14 @@
   - 「バーティカルAIとは？汎用AIとの違いや業界別事例、料金モデルを徹底... — Jul 13, 2026 · バーティカルAI（Vertical AI）は業界・業務に特化したAIで、2026年に日本政府（高市AI基本計画19分野）と海外ユニコーン（Sierra $15B超・Harvey $11B）の両輪で急加速しています。」（https://www.ai-souken.com/article/what-is-vertical-ai）
   - 「AI基本計画2026改定案はどうなった？確定版のバーティカルAI・AI主権 ... — Jun 29, 2026 · 以下では、改定前の計画との違い、確定版で前面に出たバーティカルAI・AI主権の意味、中小企業への実務的な影響を整理します。 政府は2026年7月14日、人工知能基本計画の第Ⅱ期計画を閣議決定した。」（https://tech-ai.hateblo.jp/entry/2026/06/29/180000）
   - 「バーティカルAIとは？ホリゾンタルAIとの違い・政府19領域と向く業務... — Jul 14, 2026 · バーティカルAIは業界のデータ・規制・業務システムを前提に作る業種特化AIです。 ホリゾンタルAIとの違い、2026年7月の政府領域別戦略の19領域、米国の支出35億ドルの内訳、向く業務の5条件と内製・外部サービス・共同実装の選び方を一次情報で整理します。」（https://www.issoh.co.jp/column/details/13980/）
-  - 「【解説】政府、「バーティカルAI」推進｜Yoshi_it — Jul 12, 2026 · 政府は、ソフトウェアとしてのAIとハードウェアとしてのロボット技術を高度に融合させたソリューションの早期実用化を目指し、2040年までに1,000万台規模のロボット導入を視野に入れた戦略を推進しています。」（https://note.com/natty_toucan386/n/n71569e37eb2b）
 
 ## 造船の受注残と人手不足（一次）（shipbuilding order backlog labor shortage Japan）
 - 文脈：8 造船 ④受注残と人手
 - 痛み・損（深さの印）：
+  - 「2025年 造船業界トピックス｜年間5大まとめ・受注残・日米協力・今治JMU統合」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「受注残3.7年分・日米協力・フェリー大量発注・政府3,500億円支援・今治JMU統合まで、業界の構造変化を一気にチェック」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「舶用エンジン大手のジャパンエンジンコーポレーション（J-ENG）は、2026年4〜6月期の受注高が104億9,000万円（前年同期比22.9%増）、6月末の受注残高は375億6,000万円（同36.3%増）でした」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「厚板・舶用エンジン・船舶塗料など裾野の部材メーカーで受注・受注残の増加が数字として出ており、AIロボットや人材育成サービスなど造船所を直接の顧客としない分野にも事業機会が広がっています」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
   - 「財務省の1,877人調査、東京23区の家賃高騰、総合職の離職状況を基に、8,500戸の改修計画が遅れる構造、BCP拠点としての役割、断熱・省エネまで含む資産再生の条件を詳しく解説する」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
   - 「財務省の1,877人調査、東京23区の家賃高騰、総合職の離職状況を基に、8,500戸の改修計画が遅れる構造、BCP拠点としての役割、断熱・省エネまで含む資産再生の条件を詳しく解説する」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
   - 「造船業界2025年上期トピックス3選とその後｜受注残・日米協力 | ぞうせんブログ」（https://zosenblog.com/2025nenkamiki/）
@@ -5205,11 +5211,9 @@
   - 「深読み解説｜造船・舶用の上期決算を総まとめ──JMUは経常65%増、内海造船は受注残16%減で株価急落、市場が見ている「受注残」という数字」（https://zosenblog.com/2025nenkamiki/）
   - 「内海造船（7018）の株価・配当・今後を徹底解説｜上期で通期予想を超過も受注残は1,172億円に減少、決算翌日は12%安──カナデビア系の中堅造船を決算短信で読む・2026年11月版」（https://zosenblog.com/2025nenkamiki/）
   - 「どうなる？！日本の造船業界｜受注残・JMU統合・政府3500億円支援で読む今後の展望【2026年最新】」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「深読み解説｜造船・舶用の上期決算を総まとめ──JMUは経常65%増、内海造船は受注残16%減で株価急落、市場が見ている「受注残」という数字」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「バルカー・タンカー・LNG船・DWT・パナマックス・進水・艤装・受注残・脱炭素・新燃料船など、就活生・投資家にも役立つ完全用語ガイド」（https://zosenblog.com/zosenshoraisei2026/）
-  - 「深読み解説｜造船・舶用の上期決算を総まとめ──JMUは経常65%増、内海造船は受注残16%減で株価急落、市場が見ている「受注残」という数字」（https://zosenblog.com/zosenshoraisei2026/）
-  - 「投資家が受注残・資金調達・規制の実行度からAI投資の持続性を見極める方法を解説する」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
 - 顧客（金を払う側）：
+  - 「GX補助金の概要・目的・採択企業リスト・最新動向まで、造船×脱炭素の重要施策を解説」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「オーナー系造船企業への就職はどう？｜今治造船・常石造船・尾道造船・大島造船所・福岡造船の初任給・福利厚生を比べてみた・2026年最新版」（https://zosenblog.com/zosen-hitode-fukayomi/）
   - 「函館・室蘭で楽しむ造船×北海道観光｜函館どっく拠点と工場夜景・温泉を巡る贅沢ルート」（https://zosenblog.com/zosen-hitode-fukayomi/）
   - 「日本三大夜景の函館山＋日本四大工場夜景の室蘭ナイトクルーズ＋洞爺湖・登別温泉まで、造船×絶景×温泉を満喫する2泊3日モデルコース完全ガイド」（https://zosenblog.com/zosen-hitode-fukayomi/）
   - 「造船業界 今週の動き 2026年5月中旬｜新造船受注66万トン・本決算ラッシュ・SOY2025は「げんぶ」が受賞」（https://zosenblog.com/zosen-hitode-fukayomi/）
@@ -5223,9 +5227,12 @@
   - 「3. 世界の受注残、中国が64%──日本は6%、2028年に中国は過去最高の引き渡しへ」（https://zosenblog.com/261024zosentopix/）
   - 「5. 今週の受注・竣工──デンマーク船主が日本で9隻、HMMは12隻に2,500億円」（https://zosenblog.com/261024zosentopix/）
   - 「──江浦工場にしかなかった大型の艤装桟橋を大和町工場にも新設し、艤装以降の工程を効率化」（https://zosenblog.com/261024zosentopix/）
-  - 「──船体ブロックを大型化して船台の回転率を上げるため、江浦工場の主要なブロック製造機能を長州出島へ移す」（https://zosenblog.com/261024zosentopix/）
-  - 「年間建造量は5隻程度で、8月時点の受注残は22隻、2029年初頭までの仕事量を確保」（https://zosenblog.com/261024zosentopix/）
 - 顧客の顧客（発注元が求めること）：
+  - 「マイナ認証の導入相談が急増、企業が進める画像保管削減の実務手順」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
+  - 「デジタル庁のマイナンバーカード認証への導入相談が急増している」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
+  - 「認証APIと署名APIの違い、申込からテスト・本番移行までの手順、画像削除、代替手段、運用時のセキュリティ課題を企業向けに解説する」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
+  - 「労働時間管理だけでは足りない理由と、発注者・元請け・企業が進めるべき予防策を解説」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
+  - 「労働時間管理だけでは足りない理由と、発注者・元請け・企業が進めるべき予防策を解説」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
   - 「日本海事新聞・日刊産業新聞・鉄鋼新聞を毎週読み込み、公式IR・官公庁資料と照合したうえで、業界ニュースをわかりやすく解説しています」（https://zosenblog.com/zosenshoraisei2026/）
   - 「財務省の1,877人調査、東京23区の家賃高騰、総合職の離職状況を基に、8,500戸の改修計画が遅れる構造、BCP拠点としての役割、断熱・省エネまで含む資産再生の条件を詳しく解説する」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
   - 「財務省の1,877人調査、東京23区の家賃高騰、総合職の離職状況を基に、8,500戸の改修計画が遅れる構造、BCP拠点としての役割、断熱・省エネまで含む資産再生の条件を詳しく解説する」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
@@ -5236,12 +5243,12 @@
   - 「486万TEUを扱う東京港のDX、完全予約制、脱炭素、岸壁増深が小売と消費財物流に与える影響を読み解く」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
   - 「中国の受注残首位が新興・恒力造船に交代、HD現代の上期受注90%増、川崎重工の船舶部門24%増益、商談は2030年代納期へ」（https://zosenblog.com/zosen-hitode-fukayomi/）
   - 「日本建造バルカーの新造船価が強含み、NOx規制改正の駆け込み発注や期近納期の高値成約も」（https://zosenblog.com/zosenshoraisei2026/）
-  - 「日本造船業に起きた静かな革命──1兆円投資・歴史的統合・脱炭素が描く2030年の航海図｜2025年度総括」（https://zosenblog.com/261024zosentopix/）
-  - 「、品質と納期の信頼性で選ばれる日本の造船所に注文が回ってくる可能性もあります（この段落の後段は筆者の見立てです）」（https://zosenblog.com/261024zosentopix/）
-  - 「2027〜29年納期」（https://zosenblog.com/261024zosentopix/）
-  - 「造船・舶用に関わる人の必修ニュース 2026年9月第1週｜再生基金が初認定・今治/JMU/名村に最大計2,131億円・防衛省要求は過去最大」（https://zosenblog.com/261024zosentopix/）
-  - 「造船業再生基金が今治造船・JMU・名村造船所の3件に最大計2,131億円で初認定、九州には官民3,000億円のクラスター計画、防衛省の概算要求は過去最大に」（https://zosenblog.com/261024zosentopix/）
 - 顧客の競合（奪いに来る側）：
+  - 「LNG船の国内建造再開を深読み解説｜なぜ韓国・フランスと組むのか──2019年に途絶えた真因と2035年・年3〜5隻への3つの壁」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「なぜ日本は2019年を最後に自国でLNG船を造れなくなったのか、なぜライバルの韓国HD現代・サムスンに協力を求めるのか」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「欧州ではクルーズ船や特殊船、米州では国内建造制度や特定用途の調達需要が市場の性格に影響します」（https://www.atpress.ne.jp/news/5632976）
+  - 「レポートプライムの「造船市場の規模とシェア：2032年までの予測」は、造船市場の需要構造と競争環境を船種、地域、用途、建造能力、船価、技術動向の観点から整理する調査です」（https://www.atpress.ne.jp/news/5632976）
+  - 「産業、テクノロジー、エネルギー、製造業、医療、消費財など幅広い分野において、市場規模、市場シェア、成長率、市場予測、主要企業の競争環境、地域別動向、最新の業界トレンドを分析しています」（https://www.atpress.ne.jp/news/5632976）
   - 「JMUの上期決算と廣瀬社長の投資計画、国内造船の受注動向と内海造船、造工専務理事のLNG船建造再開への言及、中国造船の主機不足、MEPC85とNZF、重工・海運の決算をまとめました」（https://zosenblog.com/zosen-hitode-fukayomi/）
   - 「今治造船 2026年上期まとめ｜JMU子会社化で世界4位・国内シェア50%超へ」（https://zosenblog.com/zosen-hitode-fukayomi/）
   - 「1月のJMU子会社化(議決権60%)で世界4位・国内シェア50%超のグループが誕生」（https://zosenblog.com/zosen-hitode-fukayomi/）
@@ -5252,15 +5259,17 @@
   - 「インドで磨いた4つの融資モデル、国際開発金融機関との連携効果、インドネシアで表面化した貸倒リスクを検証し、海外事業の収益性と投資家が注視すべき指標を金融・規制の両面から読み解く」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
   - 「軍事費で世界上位の中国とロシアは、なぜNATO型の同盟網を築かないのか」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
   - 「インドで磨いた4つの融資モデル、国際開発金融機関との連携効果、インドネシアで表面化した貸倒リスクを検証し、海外事業の収益性と投資家が注視すべき指標を金融・規制の両面から読み解く」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
-  - 「造船・舶用に関わる人の必修ニュース 2026年11月第1週｜JMU経常65%増・造工がLNG船再開に言及・中国は主機不足・MEPC85へ──これだけ押さえれば情報通」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「造船・舶用に関わる人の必修ニュース 2026年11月第1週｜JMU経常65%増・造工がLNG船再開に言及・中国は主機不足・MEPC85へ──これだけ押さえれば情報通」（https://zosenblog.com/zosenshoraisei2026/）
-  - 「アステラス社員12月出所へ、中国スパイ罪が製薬企業に残す課題」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
-  - 「中国でスパイ罪により懲役3年6月の判決が確定したアステラス製薬の日本人社員が、12月中旬に刑期満了で出所する見通しです」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
-  - 「2023年の拘束から判決までの経緯、改正反スパイ法の広い適用範囲、なお続く邦人拘束、中国事業を続ける製薬企業が見直すべき情報管理と駐在員保護、日中関係への波及を含めて詳しく解説します」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
 - 自社の競合（商社・代理店・仲介）：
   - 「ただし民営化前の郵便貯金や未利用口座手数料は別扱いです」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
   - 「ただし民営化前の郵便貯金や未利用口座手数料は別扱いです」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
 - 政治（法・予算・規制）：
+  - 「ゼロエミッション船等建造促進事業とは｜GX補助金の採択34件・補助額一覧と二次公募（10月9日締切）【2026年9月最新】」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「ゼロエミッション船等建造促進事業の採択16社と補助金額を完全まとめ」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「GX補助金の概要・目的・採択企業リスト・最新動向まで、造船×脱炭素の重要施策を解説」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「政府公式資料と業界紙報道をもとに、2035年・年3〜5隻への3つの壁を専門家視点で深読み解説」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「政府が官民投資工程表で国産LNG運搬船「2035年以降に年3〜5隻」の建造再開を明記、海事局は27年度概算要求も視野」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「USTR301条が日本造船に与える追い風、新型FFM 3隻追加受注(1286億円)、LNG船国内建造復活議論の結論時期、中東情勢の納期遅延リスク、造船業再生基金1200億円まで一次情報で整理」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「受注残3.7年分・日米協力・フェリー大量発注・政府3,500億円支援・今治JMU統合まで、業界の構造変化を一気にチェック」（https://zosenblog.com/zosenshoraisei2026/）
   - 「売上トップ10、有報ベースの平均年収、造船業再生基金の認定額までわかる、就活・転職・投資に役立つ決定版です」（https://zosenblog.com/zosen-hitode-fukayomi/）
   - 「三菱重工業とオーストラリア政府が、豪海軍の次期汎用フリゲートとして「もがみ型」能力向上型11隻の共同開発・生産契約を締結」（https://zosenblog.com/zosenshoraisei2026/）
   - 「インドで磨いた4つの融資モデル、国際開発金融機関との連携効果、インドネシアで表面化した貸倒リスクを検証し、海外事業の収益性と投資家が注視すべき指標を金融・規制の両面から読み解く」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
@@ -5269,14 +5278,8 @@
   - 「どうなる？！日本の造船業界｜受注残・JMU統合・政府3500億円支援で読む今後の展望【2026年最新】」（https://zosenblog.com/zosen-hitode-fukayomi/）
   - 「造船・舶用に関わる人の必修ニュース 2026年9月第1週｜再生基金が初認定・今治/JMU/名村に最大計2,131億円・防衛省要求は過去最大」（https://zosenblog.com/zosen-hitode-fukayomi/）
   - 「造船業再生基金が今治造船・JMU・名村造船所の3件に最大計2,131億円で初認定、九州には官民3,000億円のクラスター計画、防衛省の概算要求は過去最大に」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「投資家が受注残・資金調達・規制の実行度からAI投資の持続性を見極める方法を解説する」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
-  - 「一方、米中貿易は縮小し、半導体規制と台湾問題は残る」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
-  - 「投資家が受注残・資金調達・規制の実行度からAI投資の持続性を見極める方法を解説する」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
-  - 「一方、米中貿易は縮小し、半導体規制と台湾問題は残る」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
-  - 「日本では2026年9月、造船業再生基金を通じた設備投資の供給確保計画が相次いで認定され、建造能力の強化が実際の投資段階へ進みました」（https://www.atpress.ne.jp/news/5632976）
-  - 「日本の造船業再生：2026年の投資認定が建造能力強化を後押し」（https://www.atpress.ne.jp/news/5632976）
-  - 「2026年9月4日と11日、国土交通省は造船業再生基金に係る供給確保計画を合計8件認定しました」（https://www.atpress.ne.jp/news/5632976）
 - 経済（規模・価格・為替）：
+  - 「大卒28万円の常石、寮5910円の大島など、就職先としての魅力と注意点を業界目線で解説します」（https://zosenblog.com/zosen-hitode-fukayomi/）
   - 「檜垣幸人会長が掲げる世界シェア20%回復・2035年建造能力2倍、NSYや生産購買のシナジー、3000隻達成・売上4646億円の実績、丸亀工場の事故と人手不足の課題まで海事新聞ベースで解説」（https://zosenblog.com/zosen-hitode-fukayomi/）
   - 「売上トップ10、有報ベースの平均年収、造船業再生基金の認定額までわかる、就活・転職・投資に役立つ決定版です」（https://zosenblog.com/zosen-hitode-fukayomi/）
   - 「学費年1000万円でも集まる英国系インター校、日本進出の勝算」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
@@ -5291,7 +5294,6 @@
   - 「どうなる？！日本の造船業界｜受注残・JMU統合・政府3500億円支援で読む今後の展望【2026年最新】」（https://zosenblog.com/zosen-hitode-fukayomi/）
   - 「造船・舶用に関わる人の必修ニュース 2026年9月第1週｜再生基金が初認定・今治/JMU/名村に最大計2,131億円・防衛省要求は過去最大」（https://zosenblog.com/zosen-hitode-fukayomi/）
   - 「造船業再生基金が今治造船・JMU・名村造船所の3件に最大計2,131億円で初認定、九州には官民3,000億円のクラスター計画、防衛省の概算要求は過去最大に」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「日経平均3643円安、米SOX指数12%超安の背景を整理し、アンソロピックのIPOが映す成長率鈍化、巨額計算資源契約、評価額の論点を検証」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
 - 社会（人・担い手）：
   - 「造船業界は多くの人材を必要としており異業種からのキャリアチェンジも大歓迎中造船業界への転職の魅力と広がるチャンスについて前向きにお伝えします」（https://zosenblog.com/zosenshoraisei2026/）
   - 「造船・舶用に関わる人の必修ニュース 2026年10月第4週｜三菱造船が下関の建造能力倍増策・造船拡大の壁は「人材」と「需要」・受注残は中国64%──これだけ押さえれば情報通」（https://zosenblog.com/261024zosentopix/）
@@ -5309,6 +5311,10 @@
   - 「こうした取り組みは人材不足への対応や工程短縮につながる可能性がありますが、導入費用や技能習得に時間を要するため、投資効果は造船所ごとの設備条件や船型構成によって異なります」（https://newscast.jp/smart/news/5632976）
   - 「本稿では商業新造船契約の金額に着目し、建造数量と金額の違い、代替燃料船の需要、設備投資の効果、材料・人材による供給制約などを取り上げています」（https://newscast.jp/smart/news/5632976）
 - 技術（新しい技術・実証）：
+  - 「AI暴走の正体、アンソロピックが捉えた「感情」と安全の境界問題」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「背景にあるAIエージェントの裁量と、内部で確認された「絶望」「平静」の機能的感情、企業が取るべき権限分離・監視・封じ込め策を、公開された事故報告と研究論文から読み解く」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「NYダウ1104ドル急騰、AI株反発と原油安の持続力を徹底検証」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「AI関連株の買い戻し、トランプ米大統領の対イラン発言を受けた原油安、金利観測がどう連動したのかを分析」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
   - 「三菱重工業とオーストラリア政府が、豪海軍の次期汎用フリゲートとして「もがみ型」能力向上型11隻の共同開発・生産契約を締結」（https://zosenblog.com/zosenshoraisei2026/）
   - 「クレディセゾンがアジア開発銀行（ADB）と組み、3年間で最大5億ドル（約800億円）を調達して新興国の中小企業融資を拡大する」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
   - 「インドで磨いた4つの融資モデル、国際開発金融機関との連携効果、インドネシアで表面化した貸倒リスクを検証し、海外事業の収益性と投資家が注視すべき指標を金融・規制の両面から読み解く」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
@@ -5320,7 +5326,3 @@
   - 「また、設計情報の一元管理、部材切断・溶接の自動化、生産計画の高度化など、造船所のデジタル化が進んでいます」（https://www.atpress.ne.jp/news/5632976）
   - 「設備の増強、工程の自動化、人材確保、代替燃料船への対応が注目点です」（https://www.atpress.ne.jp/news/5632976）
   - 「一次調査と二次調査を組み合わせ、新規市場参入、事業拡大、製品開発、競争戦略の策定、投資判断を支援しています」（https://www.atpress.ne.jp/news/5632976）
-  - 「ABF基板市場規模、2032年に95億～121億米ドルへ AI半導体需要と日本の先端パッケージ基板投資を分析」（https://www.atpress.ne.jp/news/5632976）
-  - 「積層セラミックコンデンサ（MLCC）市場規模、2032年211.6億米ドルへ―日本主要3社とAI・EV需要を分析」（https://www.atpress.ne.jp/news/5632976）
-  - 「三菱重工業とオーストラリア政府が、豪海軍の次期汎用フリゲートとして「もがみ型」能力向上型11隻の共同開発・生産契約を締結」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「造船業界 2026年5月 必読トピック5選｜韓国Q1受注・再生ロードマップ・LCO2船開発ほか」（https://zosenblog.com/zosenshoraisei2026/）

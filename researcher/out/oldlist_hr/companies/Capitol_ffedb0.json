@@ -1,0 +1,1361 @@
+{
+ "name": "Capitol",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-10T18:28:12.789646+00:00",
+ "official_url": "https://www.capitol.ai/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Securely use approved data where it already lives instead of moving files into one-off chats.",
+    "url": "https://www.capitol.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn individual methods into canonical workflows the whole organization can run, review, and improve.",
+    "url": "https://www.capitol.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Produce finished work with sources, steps, approvals, evaluations, and human review built in.",
+    "url": "https://www.capitol.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Capitol connects the sources your teams already use, then prepares the data, governs access, and preserves lineage before it enters a workflow. Proprietary context stays secure, controlled, traceable, and auditable.",
+    "url": "https://www.capitol.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring together internal systems, repositories, data rooms, documents, databases, spreadsheets, archives, public sources, and live research.",
+    "url": "https://www.capitol.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Prepare data for reliable AI work",
+    "url": "https://www.capitol.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Trace outputs back to the sources, data, steps, and decisions that produced them.",
+    "url": "https://www.capitol.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Capitol gives teams clear control over data, workflow logic, models, tools, reviews, approvals, costs, and outputs. Your organization owns the process, not the model provider.",
+    "url": "https://www.capitol.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Capitol gives teams control over every layer: data, workflow logic, models, tools, reviews, approvals, costs, and outputs. The process belongs to your organization, not to the model provider.",
+    "url": "https://www.capitol.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Run secure workflows on approved sources, inside your environment, with access controls and lineage already built in.",
+    "url": "https://www.capitol.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Define the steps, rules, tools, model calls, review points, approvals, and final outputs.",
+    "url": "https://www.capitol.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Encode the process: sources, rules, model calls, tools, approvals, and human review.",
+    "url": "https://www.capitol.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Capitol turns expert process into repeatable AI workflows. Every model, tool, decision, approval, cost, and output is controlled, auditable, and traceable so teams can move faster and lower cost without lowering the quality bar.",
+    "url": "https://www.capitol.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Your experts define the process, set where AI acts and where people review, then turn that method into a reusable workflow the whole team can run, approve, evaluate, and improve.",
+    "url": "https://www.capitol.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Decide where AI acts, where people review, and where approval is required.",
+    "url": "https://www.capitol.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Control which workflows are ready for broader use and who can see, edit, approve, or run them.",
+    "url": "https://www.capitol.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn one expert’s method into a reusable workflow that improves over time.",
+    "url": "https://www.capitol.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve repeated work without losing the record",
+    "url": "https://www.capitol.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Capitol AI is built for high-stakes teams that need speed without sacrificing control. Deployed in sensitive government and professional-services environments, it delivers fast, traceable, audit-ready outputs.",
+    "url": "https://www.capitol.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Regulatory reporting across fragmented systems. Pull data from disparate sources, normalize it, and produce audit-ready reporting for OFAC, GSIB, FFIEC, and related requirements.",
+    "url": "https://www.capitol.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn policy, records, forms, and approvals into governed workflows. Capitol helps public-sector teams coordinate complex work across agencies, systems, and stakeholders while preserving source trails, review steps, and compliance standards.",
+    "url": "https://www.capitol.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Procurement documentation",
+    "url": "https://www.capitol.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The best way to see Capitol is through a working demo on your own data. Bring a real workflow, and we will show how Capitol connects the data, builds the process, runs the work, and produces an auditable output.",
+    "url": "https://www.capitol.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "It means you are not locked into one provider. Capitol can use OpenAI, Anthropic, open-source models, or different models for different workflow steps.",
+    "url": "https://www.capitol.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "What can Capitol produce?",
+    "url": "https://www.capitol.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Capitol was founded in Washington, D.C. in 2021 forged in the midst of a critical National Security mission for the Department of War. Our founders converged to solve an international-scale problem: institutions drowning in data but starved for clarity, relying on fragmented tools that couldn’t keep up with the moment’s stakes.",
+    "url": "https://www.capitol.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "That experience shaped our conviction: generic AI breaks in high-stakes environments. Regulated institutions such as financial services firms, global professional services organizations, government agencies need more than a chatbot. They need sovereign infrastructure that runs entirely inside their walls, transforms proprietary data into decision-grade artifacts, and leaves a complete audit trail.",
+    "url": "https://www.capitol.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "M&A and private equity",
+    "url": "https://www.capitol.ai/case-studies/ey",
+    "pass": 1
+   },
+   {
+    "quote": "EY’s Strategy and Transactions practice needed a way to apply AI to complex consulting work without losing control of its expertise, costs or quality. As models changed, the firm also needed the flexibility to choose the right capabilities for each task without building its approach around a single provider.",
+    "url": "https://www.capitol.ai/case-studies/ey",
+    "pass": 1
+   },
+   {
+    "quote": "For teams working across M&A and private equity, the challenge was practical: translate consulting methods into workflows that could be shared, evaluated and governed. The system had to support enterprise security and reliability while giving subject-matter experts a way to define how the work should be done.",
+    "url": "https://www.capitol.ai/case-studies/ey",
+    "pass": 1
+   },
+   {
+    "quote": "IT STARTS WITH A PROMPT",
+    "url": "https://www.capitol.ai/case-studies/ey",
+    "pass": 1
+   },
+   {
+    "quote": "EY built its approach around an orchestration layer that could work across multiple models and providers. Capitol AI provided an environment where EY experts could encode their processes, select models at each step, and evaluate the resulting workflows and outputs.",
+    "url": "https://www.capitol.ai/case-studies/ey",
+    "pass": 1
+   },
+   {
+    "quote": "The partnership brought together EY’s consulting expertise and Capitol AI’s product and engineering team, led by cofounders Shaun Modi and Tom Hallaran. Its practical focus was to make complex workflows usable, governable and repeatable as the underlying AI ecosystem evolved.",
+    "url": "https://www.capitol.ai/case-studies/ey",
+    "pass": 1
+   },
+   {
+    "quote": "Six problems that stalled enterprise AI, and how they were addressed",
+    "url": "https://www.capitol.ai/case-studies/ey",
+    "pass": 1
+   },
+   {
+    "quote": "DEPENDENCE ON ONE PROVIDER",
+    "url": "https://www.capitol.ai/case-studies/ey",
+    "pass": 1
+   },
+   {
+    "quote": "EY can choose and automate model selection for individual workflow steps, reducing dependence on any one provider.",
+    "url": "https://www.capitol.ai/case-studies/ey",
+    "pass": 1
+   },
+   {
+    "quote": "Teams need to understand how data is handled and how a result was produced.",
+    "url": "https://www.capitol.ai/case-studies/ey",
+    "pass": 1
+   },
+   {
+    "quote": "Retrievable logs record agent actions and decisions. Zero data retention is a founding principle of the platform.",
+    "url": "https://www.capitol.ai/case-studies/ey",
+    "pass": 1
+   },
+   {
+    "quote": "Data lives across mission systems, structured records, internal documents, and approved external sources. The method for using it lived somewhere else, in operating procedures, briefing standards, review chains, and experienced staff.",
+    "url": "https://www.capitol.ai/case-studies/us-gov",
+    "pass": 1
+   },
+   {
+    "quote": "Every consequential output had to survive a regimented process. Sources had to be qualified. Conflicting records had to be reconciled. Exceptions had to reach the right subject-matter expert. Human judgment, approval, and release authority had to remain visible.",
+    "url": "https://www.capitol.ai/case-studies/us-gov",
+    "pass": 1
+   },
+   {
+    "quote": "Generic AI could complete isolated tasks. It could not know which source controlled, what changed a case’s priority, when an analyst had to intervene, or who was authorized to act. Without that institutional logic, speed only made the wrong process run faster.",
+    "url": "https://www.capitol.ai/case-studies/us-gov",
+    "pass": 1
+   },
+   {
+    "quote": "Encode the operating logic, not just the prompt.",
+    "url": "https://www.capitol.ai/case-studies/us-gov",
+    "pass": 1
+   },
+   {
+    "quote": "Encode the operating logic behind the prompt.",
+    "url": "https://www.capitol.ai/case-studies/us-gov",
+    "pass": 1
+   },
+   {
+    "quote": "Capitol AI connected approved sources and tools, then captured the process at the level the institution actually worked, department by department and workflow by workflow.",
+    "url": "https://www.capitol.ai/case-studies/us-gov",
+    "pass": 1
+   },
+   {
+    "quote": "The representative workflow brought together structured records, internal reporting, and approved external information. It resolved entities and conflicting evidence, applied mission-specific confidence and risk rules, paused for subject-matter review when required, and preserved the chain through approval and release.",
+    "url": "https://www.capitol.ai/case-studies/us-gov",
+    "pass": 1
+   },
+   {
+    "quote": "The governed workflow: sequenced steps, logged evidence, and approvals at every node.",
+    "url": "https://www.capitol.ai/case-studies/us-gov",
+    "pass": 1
+   },
+   {
+    "quote": "The final product: a finished, decision-ready artifact produced by the same run.",
+    "url": "https://www.capitol.ai/case-studies/us-gov",
+    "pass": 1
+   },
+   {
+    "quote": "Approvals & revisions",
+    "url": "https://www.capitol.ai/case-studies/us-gov",
+    "pass": 1
+   },
+   {
+    "quote": "Every approval and revision kept on record",
+    "url": "https://www.capitol.ai/case-studies/us-gov",
+    "pass": 1
+   },
+   {
+    "quote": "The lasting value was not any single map, queue, memo, or briefing. It was the approved method beneath them: which sources count, how evidence is reconciled, what thresholds trigger escalation, where human judgment enters, who can approve release, and what each audience must receive. Once encoded, that method could be rerun, inspected, and updated as data, policy, or mission needs changed.",
+    "url": "https://www.capitol.ai/case-studies/us-gov",
+    "pass": 1
+   },
+   {
+    "quote": "Analysis, operations, leadership, and oversight could each work according to their own needs while drawing from the same governed foundation of sources, caveats, and decision history. Teams remained free to choose models and define their processes, thresholds, reviews, and outputs, with every approved workflow adding to the institution’s shared operating knowledge.",
+    "url": "https://www.capitol.ai/case-studies/us-gov",
+    "pass": 1
+   },
+   {
+    "quote": "Generic AI will continue to change. The institution’s data, expertise, processes, and authority are what make it useful. Capitol gives government organizations a way to encode that difference once, govern it continuously, and carry it into every artifact used to decide and act. Bring a workflow. See it run.",
+    "url": "https://www.capitol.ai/case-studies/us-gov",
+    "pass": 1
+   },
+   {
+    "quote": "Custom Reports in Pro",
+    "url": "https://www.capitol.ai/case-studies/politico",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver fast, custom research. Protect the journalism.",
+    "url": "https://www.capitol.ai/case-studies/politico",
+    "pass": 1
+   },
+   {
+    "quote": "IT STARTS WITH A PROMPT",
+    "url": "https://www.capitol.ai/case-studies/politico",
+    "pass": 1
+   },
+   {
+    "quote": "A Pro subscriber asks: current vs the most recent farm bill.",
+    "url": "https://www.capitol.ai/case-studies/politico",
+    "pass": 1
+   },
+   {
+    "quote": "A walled garden inside POLITICO Pro",
+    "url": "https://www.capitol.ai/case-studies/politico",
+    "pass": 1
+   },
+   {
+    "quote": "The project built on POLITICO’s earlier experimentation with AI-driven legislative summaries, but scaled the concept in a way that fundamentally transformed the user experience. Rachel emphasized that the partnership worked because Capitol AI not only understood the technology but also respected POLITICO’s editorial rigor.",
+    "url": "https://www.capitol.ai/case-studies/politico",
+    "pass": 1
+   },
+   {
+    "quote": "Not retrieval. Artifact production. Repeatable, revenue-aligned output.",
+    "url": "https://www.capitol.ai/case-studies/politico",
+    "pass": 1
+   },
+   {
+    "quote": "INTEGRATED PROPRIETARY ARCHIVE",
+    "url": "https://www.capitol.ai/case-studies/politico",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "The people who understand the work: analysts, researchers, operators, and subject-matter experts. Engineers can extend workflows when needed, but they are not the bottleneck.",
+    "url": "https://www.capitol.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "EY × Capitol AI Case Study — Capitol AI",
+    "url": "https://www.capitol.ai/case-studies/ey",
+    "pass": 1
+   },
+   {
+    "quote": "U.S. Government × Capitol AI Case Study — Capitol AI",
+    "url": "https://www.capitol.ai/case-studies/us-gov",
+    "pass": 1
+   },
+   {
+    "quote": "POLITICO × Capitol AI Case Study — Capitol AI",
+    "url": "https://www.capitol.ai/case-studies/politico",
+    "pass": 1
+   },
+   {
+    "quote": "Capitol Manufacturing",
+    "url": "https://www.capitolcamco.com/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturers Standardization Society",
+    "url": "https://www.capitolcamco.com/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Capitol Manufacturing Launches Upgraded, Customer Focused, Material Test Report and Order Expediting System",
+    "url": "https://www.capitolcamco.com/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "ASA Industrial Piping Division Honors Larry Dildine with the IPD Award of Excellence",
+    "url": "https://www.capitolcamco.com/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Azunga Marketing, LLC Case Study: Capitol Cider – Capitol Cider - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/azunga-marketing-llc/case-study/capitol-cider-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Capitol Cider - Customer Case Study",
+    "url": "https://www.casestudies.com/company/azunga-marketing-llc/case-study/capitol-cider-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Capitol Cider used Azunga Marketing, LLC",
+    "url": "https://www.casestudies.com/company/azunga-marketing-llc/case-study/capitol-cider-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/azunga-marketing-llc/case-study/capitol-cider-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/azunga-marketing-llc/case-study/capitol-cider-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Quality Precision Machining and Contract Manufacturing.",
+    "url": "https://capitol-mfg.com/home",
+    "pass": 3
+   },
+   {
+    "quote": "At our company, we prioritize excellence and customer satisfaction, striving to become your preferred supplier in the industry. With comprehensive in-house capabilities and decades of manufacturing expertise, you can count on us for timely delivery of high-quality machined parts and components.",
+    "url": "https://capitol-mfg.com/home",
+    "pass": 3
+   },
+   {
+    "quote": "At Capitol Manufacturing, our mission is to provide precision machining solutions that meet the highest industry standards. We are committed to delivering exceptional quality and service to our clients in various sectors.",
+    "url": "https://capitol-mfg.com/home",
+    "pass": 3
+   },
+   {
+    "quote": "CAPITOL MANUFACTURING, LLC",
+    "url": "https://capitol-mfg.com/home",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Turn policy, records, forms, and approvals into governed workflows. Capitol helps public-sector teams coordinate complex work across agencies, systems, and stakeholders while preserving source trails, review steps, and compliance standards.",
+    "url": "https://www.capitol.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "That experience shaped our conviction: generic AI breaks in high-stakes environments. Regulated institutions such as financial services firms, global professional services organizations, government agencies need more than a chatbot. They need sovereign infrastructure that runs entirely inside their walls, transforms proprietary data into decision-grade artifacts, and leaves a complete audit trail.",
+    "url": "https://www.capitol.ai/about",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "After leading Y Combinator’s Summer 2024 cohort in revenue, Capitol closed its seed funding to scale across the U.S., U.K., and E.U.",
+    "url": "https://www.capitol.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "The expertise was there. The institution needed a system to carry it.",
+    "url": "https://www.capitol.ai/case-studies/us-gov",
+    "pass": 1
+   },
+   {
+    "quote": "The institution’s standards became part of the system’s operating logic, shaping how decisions were made, checked, and carried through.",
+    "url": "https://www.capitol.ai/case-studies/us-gov",
+    "pass": 1
+   },
+   {
+    "quote": "Generic AI will continue to change. The institution’s data, expertise, processes, and authority are what make it useful. Capitol gives government organizations a way to encode that difference once, govern it continuously, and carry it into every artifact used to decide and act. Bring a workflow. See it run.",
+    "url": "https://www.capitol.ai/case-studies/us-gov",
+    "pass": 1
+   },
+   {
+    "quote": "Not retrieval. Artifact production. Repeatable, revenue-aligned output.",
+    "url": "https://www.capitol.ai/case-studies/politico",
+    "pass": 1
+   },
+   {
+    "quote": "The Phoenix Forge Group extends congratulations to Mr. Larry Dildine on receiving the IPD Award of Excellence. Your dedication and passion to the industry have led to your recognition as a deserving recipient of this award.",
+    "url": "https://www.capitolcamco.com/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "ASA Industrial Piping Division Honors Larry Dildine with the IPD Award of Excellence",
+    "url": "https://www.capitolcamco.com/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Platform Accounting Group specializes in accounting, mergers, acquisitions, tax advisory, and business…",
+    "url": "https://fundediq.co/capitolis-capitolis-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Gordana Aleksich is listed as Chief of Staff to CEO at Capitolis.",
+    "url": "https://fundediq.co/capitolis-capitolis-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Capitolis have?",
+    "url": "https://fundediq.co/capitolis-capitolis-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/capitolis-capitolis-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/capitolis-capitolis-com-funding/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Capitol Records (日本) - Wikipedia",
+    "url": "https://ja.wikipedia.org/wiki/Capitol_Records_(%E6%97%A5%E6%9C%AC)",
+    "pass": 3
+   },
+   {
+    "quote": "UMG日本法人（≒ユニバーサル ミュージック合同会社）",
+    "url": "https://ja.wikipedia.org/wiki/Capitol_Records_(%E6%97%A5%E6%9C%AC)",
+    "pass": 3
+   },
+   {
+    "quote": "の一制作部門・EMI Records Japanに集約されたため消滅した",
+    "url": "https://ja.wikipedia.org/wiki/Capitol_Records_(%E6%97%A5%E6%9C%AC)",
+    "pass": 3
+   },
+   {
+    "quote": "）（ → EMI MUSIC JAPAN INC.）",
+    "url": "https://ja.wikipedia.org/wiki/Capitol_Records_(%E6%97%A5%E6%9C%AC)",
+    "pass": 3
+   },
+   {
+    "quote": "- 2013年）（ → EMI Records Japan → EMI MUSIC JAPAN INC. → EMI Records → EMI Records (JV)）",
+    "url": "https://ja.wikipedia.org/wiki/Capitol_Records_(%E6%97%A5%E6%9C%AC)",
+    "pass": 3
+   },
+   {
+    "quote": "東京60WATTS",
+    "url": "https://ja.wikipedia.org/wiki/Capitol_Records_(%E6%97%A5%E6%9C%AC)",
+    "pass": 3
+   },
+   {
+    "quote": "日本ではUJ / Project TJが担当",
+    "url": "https://ja.wikipedia.org/wiki/Capitol_Records_(%E6%97%A5%E6%9C%AC)",
+    "pass": 3
+   },
+   {
+    "quote": "日本ではUNIVERSAL INTERNATIONALが担当",
+    "url": "https://ja.wikipedia.org/wiki/Capitol_Records_(%E6%97%A5%E6%9C%AC)",
+    "pass": 3
+   },
+   {
+    "quote": "EMI Records Japan EMI J",
+    "url": "https://ja.wikipedia.org/wiki/Capitol_Records_(%E6%97%A5%E6%9C%AC)",
+    "pass": 3
+   },
+   {
+    "quote": "EMI Records Japan EMI R→EMI R",
+    "url": "https://ja.wikipedia.org/wiki/Capitol_Records_(%E6%97%A5%E6%9C%AC)",
+    "pass": 3
+   },
+   {
+    "quote": "https://ja.wikipedia.org/w/index.php?title=Capitol_Records_(日本)&oldid=111493134",
+    "url": "https://ja.wikipedia.org/wiki/Capitol_Records_(%E6%97%A5%E6%9C%AC)",
+    "pass": 3
+   },
+   {
+    "quote": "米・Capitol Studiosのノウハウを導入、 世界のスタジオとつながるアーティストのための創造拠点を原宿に開設 「UNIVERSAL MUSIC STUDIOS HARAJUKU」リニューアルオープンのお知らせ - UNIVERSAL MUSIC JAPAN",
+    "url": "https://www.universal-music.co.jp/press-releases/2024-03-18/",
+    "pass": 3
+   },
+   {
+    "quote": "ユニバーサル ミュージック合同会社 （本社：東京都渋谷区、社長兼最高経営責任者（CEO）藤倉尚、以下ユニバーサル ミュージック）は、音楽制作スタジオの「UNIVERSAL MUSIC STUDIOS HARAJUKU」の改装を完了、3月より本格稼働を開始します",
+    "url": "https://www.universal-music.co.jp/press-releases/2024-03-18/",
+    "pass": 3
+   },
+   {
+    "quote": "今後、海外スタジオの制作ノウハウの活用やエンジニアとの協同作業など、グローバルに活躍する日本のアーティストを制作面で強力に支援してまいります",
+    "url": "https://www.universal-music.co.jp/press-releases/2024-03-18/",
+    "pass": 3
+   },
+   {
+    "quote": "Capitol Records所属のTravis JapanがこのスタジオでのDolby Atmosミックス作品第1弾として本スタジオを訪問し、楽曲「T.G.I. Friday Night」の制作を行いました",
+    "url": "https://www.universal-music.co.jp/press-releases/2024-03-18/",
+    "pass": 3
+   },
+   {
+    "quote": "【打ち込み音源が生音に！？】UAD Capitol Studiosをレビュー！リバーブを超えたルームモデリングの実力検証 - Computer Music Japan Media",
+    "url": "https://computermusic.jp/media/capitol-studios/",
+    "pass": 3
+   },
+   {
+    "quote": "BABYMETALが日本人初の米「キャピトル・レコード」とフロントライン契約 | BABYMETAL TIMES",
+    "url": "https://babymetaltimes.com/archives/266809.html",
+    "pass": 3
+   },
+   {
+    "quote": "BABYMETALが日本人初の米「キャピトル・レコード」とフロントライン契約",
+    "url": "https://babymetaltimes.com/archives/266809.html",
+    "pass": 3
+   },
+   {
+    "quote": "Acclaimed metal band BABYMETAL has signed to Capitol Records, the first Japanese artist to sign a frontline deal with the label. The group will release new album METAL FORTH, globally via Capitol Records on June 13.",
+    "url": "https://babymetaltimes.com/archives/266809.html",
+    "pass": 3
+   },
+   {
+    "quote": "— BABYMETAL (@BABYMETAL_JAPAN)",
+    "url": "https://babymetaltimes.com/archives/266809.html",
+    "pass": 3
+   },
+   {
+    "quote": "同レーベルと第一線で契約を交わした初の日本人アーティストとなる",
+    "url": "https://babymetaltimes.com/archives/266809.html",
+    "pass": 3
+   },
+   {
+    "quote": "BABYMETALは、この象徴的な会場で公演を行う初の日本人グループだ",
+    "url": "https://babymetaltimes.com/archives/266809.html",
+    "pass": 3
+   },
+   {
+    "quote": "“BABYMETALがキャピトル・レコードと契約を締結し、同レーベルとフロントライン契約を結んだ初の日本人アーティストとなりました”",
+    "url": "https://babymetaltimes.com/archives/266809.html",
+    "pass": 3
+   },
+   {
+    "quote": "同レーベルとフロントライン契約を結んだ初の日本人アーティストとなります😳",
+    "url": "https://babymetaltimes.com/archives/266809.html",
+    "pass": 3
+   },
+   {
+    "quote": "同レーベルとフロントライン契約を結んだ初の日本人アーティストとなったそうです",
+    "url": "https://babymetaltimes.com/archives/266809.html",
+    "pass": 3
+   },
+   {
+    "quote": "ベビメタはアメリカのレーベル変わったら日本のレコード会社も変更するのか",
+    "url": "https://babymetaltimes.com/archives/266809.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内はトイズファクトリーのままなのかな？と思ったけど、国内のリリースも Capital Records の親会社 Universal Music に移管されるのね (まぁ、そうだよね…)",
+    "url": "https://babymetaltimes.com/archives/266809.html",
+    "pass": 3
+   },
+   {
+    "quote": "BABYMETAL – UNIVERSAL MUSIC JAPAN –",
+    "url": "https://babymetaltimes.com/archives/266809.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京芝浦電気音楽レコード事業部（現：ユニバーサル ミュージック ジャパン）設立前（1951年～1955年）には、当時のキング音響（現：キングレコード）が日本での契約先だった[1]",
+    "url": "https://babymetaltimes.com/archives/266809.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京60WATTS",
+    "url": "https://babymetaltimes.com/archives/266809.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本独自企画・限定生産のデラックス・ジャパン・エディションがここに完成",
+    "url": "https://babymetaltimes.com/archives/266809.html",
+    "pass": 3
+   },
+   {
+    "quote": "METAL FORTH (DELUXE JAPAN EDITION)",
+    "url": "https://babymetaltimes.com/archives/266809.html",
+    "pass": 3
+   },
+   {
+    "quote": "結成15周年を迎えたBABYMETAL、日本人アーティスト初となったロサンゼルス・Intuit Dome公演の映像作品が発売決定！",
+    "url": "https://babymetaltimes.com/archives/266809.html",
+    "pass": 3
+   },
+   {
+    "quote": "これからは日本ではユニバーサルからの発売になりそうですね",
+    "url": "https://babymetaltimes.com/archives/266809.html",
+    "pass": 3
+   },
+   {
+    "quote": "2027年10月10日に@​onefiveの日本武道館LIVE決定！",
+    "url": "https://babymetaltimes.com/archives/266809.html",
+    "pass": 3
+   },
+   {
+    "quote": "この訪問者ガイドは時々な怪しい日本語が出てくるので面白いです",
+    "url": "https://note.com/prince_kurita/n/n655374cee2b4",
+    "pass": 3
+   },
+   {
+    "quote": "日本の国会議事堂との違いにも触れながら、観光ポイントや見どころを紹介していきます！",
+    "url": "https://note.com/linkedmap_1/n/ndc526801b9e7",
+    "pass": 3
+   },
+   {
+    "quote": "：アメリカは1800年（独立は1776年）、日本は1936年（第二次世界大戦が始まる直前、満州事変や二・二六事件で軍国主義が進んだ時期）に完成",
+    "url": "https://note.com/linkedmap_1/n/ndc526801b9e7",
+    "pass": 3
+   },
+   {
+    "quote": "の議会、日本は",
+    "url": "https://note.com/linkedmap_1/n/ndc526801b9e7",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Capitol Records (日本) - Wikipedia — 2026年 1月1日、「Capitol Records」の新設により約13年ぶりにレーベルが復活した [1]。 同年3月時点では20組のアーティストが所属しており、その多くは Virgin Music からの異動となっている。",
+    "url": "https://ja.wikipedia.org/wiki/Capitol_Records_(日本)",
+    "pass": 3
+   },
+   {
+    "quote": "米・Capitol Studiosのノウハウを導入、 世界のスタジオとつながるア... — Mar 18, 2024 · ユニバーサル ミュージック グループが運営する名門スタジオであるCapitol StudiosやAbbey Road Studiosの生きたノウハウも取り入れながら、アーティストとともに原宿から刷新的なサウンドを世界にお届けすることを楽しみにしています。",
+    "url": "https://www.universal-music.co.jp/press-releases/2024-03-18/",
+    "pass": 3
+   },
+   {
+    "quote": "【打ち込み音源が生音に！？】UAD Capitol Studiosをレビュー！リバー... — 18 hours ago · 今回レビューさせていただくのは、Univeral Audioがリリースするルームモデリングプラグイン、Capitol Studios！ 今までにも同じ仕組みのプラグインとして「Sound City」や「Ocean Way」等がリリースされていますが、その最新版！ ハリウッドのCapitol Studiosの響きを曲に付与できるプラグインです！ ちなみ ...",
+    "url": "https://computermusic.jp/media/capitol-studios/",
+    "pass": 3
+   },
+   {
+    "quote": "BABYMETALが日本人初の米「キャピトル・レコード」とフロントライン契... — Apr 1, 2025 · Acclaimed metal band BABYMETAL has signed to Capitol Records, the first Japanese artist to sign a frontline deal with the label. The group will release new album METAL FORTH, globally via Capitol Records on June 13.",
+    "url": "https://babymetaltimes.com/archives/266809.html",
+    "pass": 3
+   },
+   {
+    "quote": "Capitol Manufacturing — The Phoenix Forge Group is committed to meeting customer and industry requirements while continually improving our quality management system. The Phoenix Forge Group extends congratulations to Mr. Larry Dildine on receiving the IPD Award of Excellence.",
+    "url": "https://www.capitolcamco.com/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Azunga Marketing, LLC Case Study: Capitol Cider – Capitol ... — Capitol Cider partnered with Azunga Marketing, LLC (Information Technology and Services) to solve key challenges. \"Capitol Cider - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/azunga-marketing-llc/case-study/capitol-cider-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Welcome to Capitol Manufacturing — At our company, we prioritize excellence and customer satisfaction, striving to become your preferred supplier in the industry. With comprehensive in-house capabilities and decades of manufacturing expertise, you can count on us for timely delivery of high-quality machined parts and components.",
+    "url": "https://capitol-mfg.com/home",
+    "pass": 3
+   },
+   {
+    "quote": "Post Processing 3D Modeling Solutions Case Study | 3D Printi — Approach vided Capitol with CAD Design data that represented a pinion gear. We verified the 3D model for printability, reviewed material and color to be u er that reflected equipment t 3D Modeling",
+    "url": "https://www.capitolgroup.net/wp-content/uploads/2024/01/CapitolReproductionsCaseStudies.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Capitol - 2025 Company Profile, Team, Funding & Competitors ...Capitolis – Funding, Acquisitions & Key Rivals – 2026Capitolis: Funding, Investors & Team (Nov 2026) | FundedIQCapitol Records – Overview – Funding, Revenue & Growth – 2026Capitolis - 2026 Company Profile, Team, Funding ... - TracxnOpenAI - WikipediaWhat Is Venture Capital? Definition, Pros, Cons, and How It Works — Nov 26, 2025 · Capi",
+    "url": "https://tracxn.com/d/companies/capitol/__CjlAXbOYN6u6ixyktA-Xd0f5RuWqao6LmBo_3HCKHgM",
+    "pass": 3
+   },
+   {
+    "quote": "Capitolis – Funding, Acquisitions & Key Rivals – 2026 — Discover Capitolis's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/capitolis",
+    "pass": 3
+   },
+   {
+    "quote": "Capitolis: Funding, Investors & Team (Nov 2026) | FundedIQ — Capitolis: Funding, Investors & Team (Nov 2026) Capitolis is a tech company that aims to make financial markets safer and more dynamic by removing capital restrictions and providing increased access to a variety of investment opportunities.",
+    "url": "https://fundediq.co/capitolis-capitolis-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Capitol Records – Overview – Funding, Revenue & Growth – 2026 — Capitol Records's foundation includes estimated revenue of $35M, team of around 600+ employees, located in Los Angeles, ensuring a stable trajectory.",
+    "url": "https://compworth.com/company/capitol-records",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "sales@capitolcamco.com",
+    "url": "https://www.capitolcamco.com/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Contact Us to see what We can do for You",
+    "url": "https://capitol-mfg.com/home",
+    "pass": 3
+   },
+   {
+    "quote": "Contact details for the Capitolis team: 3 of 3 have an email address on file, 2 have a LinkedIn profile.",
+    "url": "https://fundediq.co/capitolis-capitolis-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/capitolis-capitolis-com-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "ワシントンD.C.観光案内（The U.S. Capitol Building)｜栗田さん Sep 9, 2025 · 連邦議会議事堂 国会議事堂のようなものと思ってください。 ワシントンD.C.のどこからでも目に入るドーム。その配置は偶然ではありません。1791年、都市計画家Pierre L’Enfantが新首都の設計を描いた際、議事堂を街を見晴らす丘（のちの「キャピトル・ヒル」）に置き、連邦議会の重要性を一目 ...",
+    "url": "https://note.com/prince_kurita/n/n655374cee2b4",
+    "pass": 3
+   },
+   {
+    "quote": "★アメリカの国会議事堂に行こう in Washington D.C.★ Mar 11, 2025 · 政治を身近に感じたことはありますか？ 今回は、アメリカの大学院で政治を学んだIsaoが、 アメリカの首都ワシントンD.C.にある国会議事堂（US Capitol）をご紹介します！！ アメリカの政治の中心といえるこの建物は見たことがある人も多いのでは？ 日本の国会議事堂との違いにも触れながら ...",
+    "url": "https://note.com/linkedmap_1/n/ndc526801b9e7",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "ワシントンD.C.観光案内（The U.S. Capitol Building)｜栗田さん",
+    "url": "https://note.com/prince_kurita/n/n655374cee2b4",
+    "pass": 3
+   },
+   {
+    "quote": "ワシントンD.C.観光案内（The U.S. Capitol Building)",
+    "url": "https://note.com/prince_kurita/n/n655374cee2b4",
+    "pass": 3
+   },
+   {
+    "quote": "ワシントンD.C.のどこからでも目に入るドーム。その配置は偶然ではありません。1791年、都市計画家Pierre L’Enfantが新首都の設計を描いた際、議事堂を街を見晴らす丘（のちの「キャピトル・ヒル」）に置き、連邦議会の重要性を一目で示すように計画しました。彼はこの丘を「記念碑を載せるための台座」と表現しています。",
+    "url": "https://note.com/prince_kurita/n/n655374cee2b4",
+    "pass": 3
+   },
+   {
+    "quote": "Capitol Hill側から見たCapitol",
+    "url": "https://note.com/prince_kurita/n/n655374cee2b4",
+    "pass": 3
+   },
+   {
+    "quote": "入館時は空港同様の保安検査。飲み物（空ボトルは可）・食べ物・刃物・スプレー類・18×14×8.5インチより大きなバッグなどは",
+    "url": "https://note.com/prince_kurita/n/n655374cee2b4",
+    "pass": 3
+   },
+   {
+    "quote": "です。私は、水のペットボトルを持ってたので、捨てるように言われました。保安検査場では捨ててもらえず、外のごみ箱に捨てるように言われました。",
+    "url": "https://note.com/prince_kurita/n/n655374cee2b4",
+    "pass": 3
+   },
+   {
+    "quote": "保安検査場を通るとき、子供たちはそこにいる警官から警察バッジを模したステッカーをもらいました。（妻は、議事堂に入るためにステッカーを付けておく必要があるのかと思い、慌てて貼り付けようとしてましたが、そんな必要はありません！）",
+    "url": "https://note.com/prince_kurita/n/n655374cee2b4",
+    "pass": 3
+   },
+   {
+    "quote": "荷物預かりはありませんので、ホテルに置いて身軽に訪問してください。館内の写真撮影は原則可（展示ホールの一部史資料区画と、上院・下院ギャラリー内は不可）。",
+    "url": "https://note.com/prince_kurita/n/n655374cee2b4",
+    "pass": 3
+   },
+   {
+    "quote": "★アメリカの国会議事堂に行こう in Washington D.C.★｜LM1僕らの留学生日記",
+    "url": "https://note.com/linkedmap_1/n/ndc526801b9e7",
+    "pass": 3
+   },
+   {
+    "quote": "★アメリカの国会議事堂に行こう in Washington D.C.★",
+    "url": "https://note.com/linkedmap_1/n/ndc526801b9e7",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、アメリカの大学院で政治を学んだIsaoが、",
+    "url": "https://note.com/linkedmap_1/n/ndc526801b9e7",
+    "pass": 3
+   },
+   {
+    "quote": "アメリカの首都ワシントンD.C.にある国会議事堂（US Capitol）をご紹介します！！",
+    "url": "https://note.com/linkedmap_1/n/ndc526801b9e7",
+    "pass": 3
+   },
+   {
+    "quote": "アメリカの政治の中心といえるこの建物は見たことがある人も多いのでは？",
+    "url": "https://note.com/linkedmap_1/n/ndc526801b9e7",
+    "pass": 3
+   },
+   {
+    "quote": "日本の国会議事堂との違いにも触れながら、観光ポイントや見どころを紹介していきます！",
+    "url": "https://note.com/linkedmap_1/n/ndc526801b9e7",
+    "pass": 3
+   },
+   {
+    "quote": "少しでも、政治に関心を持ってもらえたら幸いです。",
+    "url": "https://note.com/linkedmap_1/n/ndc526801b9e7",
+    "pass": 3
+   },
+   {
+    "quote": "として1793年に建設が始まりました。ワシントンD.C.の中心に位置し、ホワイトハウスと並ぶ政治の象徴的な存在です。白亜の美しいドームが特徴で、歴史的な重要性だけでなく、建築としても非常に魅力的なスポットです。",
+    "url": "https://note.com/linkedmap_1/n/ndc526801b9e7",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "AZ Capitol Times (State Affairs Arizona) (@AzCapitolTimes) / X Arizona Democrats are poised to hold a trifecta at the Capitol for the first time in 60 years. With votes still being counted through Wednesday, the question now is just how large their majorities will be.",
+    "url": "https://x.com/AzCapitolTimes",
+    "pass": 3
+   },
+   {
+    "quote": "U.S. Capitol (@visitthecapitol) / X For information about the Capitol Visitor Center or to send us a message, please visit our website at visitthecapitol.gov. RTs ≠ endorsements.",
+    "url": "https://x.com/visitthecapitol",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. Capitol Police on X: \"This afternoon our officers ... Aug 26, 2026 · This afternoon our officers seized a guillotine, which they spotted in the bed of a pickup truck along the 100 block of East Capitol Street. You can learn more about ...",
+    "url": "https://x.com/CapitolPolice/status/2092385694802903194",
+    "pass": 3
+   },
+   {
+    "quote": "State Capitol, Phoenix Warrior classes lead White societies ... az_action_14 (Arizona Action). 115 likes 4 replies. 📍 State Capitol, Phoenix Warrior classes lead White societies at their peak. Now they're sent off to die for a weak and degenerate managerial cabal.",
+    "url": "https://x.com/az_action_14/status/2053577228299215087",
+    "pass": 3
+   },
+   {
+    "quote": "Capitol Records (@capitolrecords) / X 60 years ago, Capitol Records released The Beatles’ first albums in the US, setting the stage for the beginning of an iconic relationship. To celebrate the storied partnership, we’ve launched @thebeatles x @0nlineceramics Capsule Collection.",
+    "url": "https://x.com/capitolrecords",
+    "pass": 3
+   },
+   {
+    "quote": "Capitol Records (@CapitolUMJ) / X JULY RELEASES 🎐 From Capitol Records 💿 2026年7月にCapitol Recordsからリリースされた作品をプレイバック。 この月は注目のリリースが盛りだくさん！ ️ 動画でチェック！ 👀",
+    "url": "https://x.com/CapitolUMJ",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Capitol Engineering Co. - LinkedIn Capitol Engineering Co. Fabricated Metal Products Phoenix, Arizona 1,130 followers Ducting, Piping, Chutes, Hoppers, Structural Steel and Miscellaneous Industrial Metal Fabricators About us",
+    "url": "https://www.linkedin.com/company/capitol-engineering-co",
+    "pass": 3
+   },
+   {
+    "quote": "Capitol Collision Repair in Phoenix - LinkedIn Capitol Collision Repair in Phoenix | 60 followers on LinkedIn. We are a locally owned body shop, in operation in Phoenix, Arizona since 1988.",
+    "url": "https://www.linkedin.com/company/capitol-collision-repair-in-phoenix",
+    "pass": 3
+   },
+   {
+    "quote": "Capitol Distributing | LinkedIn Capitol Distributing's 350+ employees deliver goods and services to 800+ convenience stores in Idaho, Oregon, Washington, Nevada, Utah, California, and Arizona.",
+    "url": "https://in.linkedin.com/company/capitol-distributing-inc.",
+    "pass": 3
+   },
+   {
+    "quote": "John Carney, P.E. - President at Capitol Engineering Co ...Howie Fischer - Chief Correspondent at Capitol Media Services ...Capital Flow Arizona LLC - LinkedIn I manage four branches across Tri Star Industrial and BPS Supply Group. We offer industrial pipe, valves, fittings and custom pipe support fabrication in these branches in Arizona and California. Experience Chief Correspondent Capitol Media",
+    "url": "https://www.linkedin.com/in/john-carney-az",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Arizona Capitol Museum | Phoenix AZ - FacebookCapitol Engineering | Phoenix AZ - FacebookCapitol Elementary School | Phoenix AZ - FacebookArizona Capitol Times | Phoenix AZ - FacebookCapital Lumber Company | Phoenix AZ - FacebookCapitol Guard & Patrol | Phoenix AZ - FacebookArizona Capitol Television | Phoenix AZ - Facebook Visit the Arizona Capitol Museum to learn about the stories of local Holoc",
+    "url": "https://www.facebook.com/AZCapitolMuseum/",
+    "pass": 3
+   },
+   {
+    "quote": "Capitol Engineering | Phoenix AZ - FacebookCapitol Elementary School | Phoenix AZ - FacebookArizona Capitol Times | Phoenix AZ - FacebookCapital Lumber Company | Phoenix AZ - FacebookCapitol Guard & Patrol | Phoenix AZ - FacebookArizona Capitol Television | Phoenix AZ - Facebook Feb 4, 2026 · At Capitol Engineering in Phoenix, Arizona, we know that every structural component matters. With years of",
+    "url": "https://www.facebook.com/capitolengineeringco/",
+    "pass": 3
+   },
+   {
+    "quote": "Capitol Elementary School | Phoenix AZ - FacebookArizona Capitol Times | Phoenix AZ - FacebookCapital Lumber Company | Phoenix AZ - FacebookCapitol Guard & Patrol | Phoenix AZ - FacebookArizona Capitol Television | Phoenix AZ - Facebook Nov 3, 2026 · Reminder: our next Phoenix #1 Governing Board meeting is Thursday, October 15, 2026 at 5 p.m. Location: Emerson Court - District Office 1817 N. 7th S",
+    "url": "https://www.facebook.com/capitolelementaryschool/",
+    "pass": 3
+   },
+   {
+    "quote": "Arizona Capitol Times | Phoenix AZ - FacebookCapital Lumber Company | Phoenix AZ - FacebookCapitol Guard & Patrol | Phoenix AZ - FacebookArizona Capitol Television | Phoenix AZ - Facebook 5 days ago · Arizona’s Democratic state legislative candidates held onto early leads on election night, opening the possibility that Democrats may win majorities in both the state’s House and Senate next year. Ju",
+    "url": "https://www.facebook.com/azcapitoltimes/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.capitol.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.capitol.ai/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.capitol.ai/case-studies/ey",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.capitol.ai/case-studies/us-gov",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.capitol.ai/case-studies/politico",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/Capitol_Records_(%E6%97%A5%E6%9C%AC)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.universal-music.co.jp/press-releases/2024-03-18/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://computermusic.jp/media/capitol-studios/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://babymetaltimes.com/archives/266809.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/contract/basic/8378/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://context.reverso.net/%E7%BF%BB%E8%A8%B3/%E6%97%A5%E6%9C%AC%E8%AA%9E-%E8%8B%B1%E8%AA%9E/%E7%B7%8F%E4%BB%A3%E7%90%86%E5%BA%97",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Capital_of_Japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Tokyo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.britannica.com/question/What-is-the-capital-of-Japan",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.britannica.com/place/Tokyo",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.capitolcamco.com/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/azunga-marketing-llc/case-study/capitol-cider-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://capitol-mfg.com/home",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nmi.com/blog/understanding-the-reseller-model-a-complete-guide-for-payments-companies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/OpenAI",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/capitol/__CjlAXbOYN6u6ixyktA-Xd0f5RuWqao6LmBo_3HCKHgM",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://compworth.com/company/capitolis",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://fundediq.co/capitolis-capitolis-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/prince_kurita/n/n655374cee2b4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/linkedmap_1/n/ndc526801b9e7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/AzCapitolTimes",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/visitthecapitol",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/CapitolPolice/status/2092385694802903194",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/az_action_14/status/2053577228299215087",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/capitol-engineering-co",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/capitol-collision-repair-in-phoenix",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/capitol-distributing-inc.",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/john-carney-az",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/AZCapitolMuseum/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/capitolengineeringco/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/capitolelementaryschool/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/azcapitoltimes/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/capitolrecords",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/CapitolUMJ",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Capitol 日本 導入",
+   "results": [
+    "https://ja.wikipedia.org/wiki/Capitol_Records_(日本)",
+    "https://www.universal-music.co.jp/press-releases/2024-03-18/",
+    "https://computermusic.jp/media/capitol-studios/",
+    "https://babymetaltimes.com/archives/266809.html",
+    "https://www.capitalgroup.com/intermediaries/jp/ja/fund-information/jef.html",
+    "https://saitoshika-west.com/blog-entry-9417.html",
+    "https://www.wwdjapan.com/articles/2002437",
+    "https://numero.jp/20260830-capellakyoto-1/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Capitol 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://context.reverso.net/翻訳/日本語-英語/総代理店",
+    "https://www.weblio.jp/content/総代理店",
+    "https://www.kapital.jp/",
+    "https://www.takanna.com/SHOP/163115/list.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Capitol Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Capital_of_Japan",
+    "https://en.wikipedia.org/wiki/Tokyo",
+    "https://www.britannica.com/question/What-is-the-capital-of-Japan",
+    "https://www.britannica.com/place/Tokyo",
+    "https://www.worldatlas.com/articles/what-is-the-capital-of-japan.html",
+    "https://www.mappr.co/capital-cities/japan/",
+    "https://www.kapital.jp/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Capitol manufacturing customer case study",
+   "results": [
+    "https://www.capitolcamco.com/index.html",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.casestudies.com/company/azunga-marketing-llc/case-study/capitol-cider-customer-case-study",
+    "https://capitol-mfg.com/home",
+    "https://www.capitolgroup.net/wp-content/uploads/2024/01/CapitolReproductionsCaseStudies.pdf",
+    "https://www.grantthornton.com/insights/case-studies/manufacturing/2025/customer-experience-transformation-at-a-global-manufacturer",
+    "https://www.cbc.ca/news/investigates/kurt-wittin-capitol-manufacturing-pools-9.7227068"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Capitol white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://www.nmi.com/blog/understanding-the-reseller-model-a-complete-guide-for-payments-companies/",
+    "https://www.seoreseller.com/",
+    "https://partner.vw.com/",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.t-mobile.com/business/partner-recruitment",
+    "https://www.namesilo.com/reseller"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Capitol founded funding employees revenue",
+   "results": [
+    "https://en.wikipedia.org/wiki/OpenAI",
+    "https://tracxn.com/d/companies/capitol/__CjlAXbOYN6u6ixyktA-Xd0f5RuWqao6LmBo_3HCKHgM",
+    "https://compworth.com/company/capitolis",
+    "https://fundediq.co/capitolis-capitolis-com-funding/",
+    "https://compworth.com/company/capitol-records",
+    "https://tracxn.com/d/companies/capitolis/__3_BEJPTkHly31PLrSvs58Q1P1YyqOLUBD3o5t9zmeWM",
+    "https://www.investopedia.com/terms/v/venturecapital.asp"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Capitol",
+   "results": [
+    "https://note.com/prince_kurita/n/n655374cee2b4",
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/wise_turtle184",
+    "https://note.com/linkedmap_1/n/ndc526801b9e7",
+    "https://note.com/masashi3122/n/n6f41b990b137",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/kentabright/n/nb116f899a6ac"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Capitol",
+   "results": [
+    "https://x.com/AzCapitolTimes",
+    "https://x.com/visitthecapitol",
+    "https://x.com/CapitolPolice/status/2092385694802903194",
+    "https://x.com/az_action_14/status/2053577228299215087",
+    "https://x.com/azcapmedia",
+    "https://x.com/FOX10Phoenix/status/2119844995716841530",
+    "https://x.com/AZLatinoLC"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Capitol",
+   "results": [
+    "https://www.linkedin.com/company/capitol-engineering-co",
+    "https://www.linkedin.com/company/capitol-collision-repair-in-phoenix",
+    "https://in.linkedin.com/company/capitol-distributing-inc.",
+    "https://www.linkedin.com/in/john-carney-az",
+    "https://www.linkedin.com/in/howie-fischer-28288019",
+    "https://www.linkedin.com/company/capitalassetmanagement-llc",
+    "https://www.linkedin.com/company/capital-flow-arizona-llc"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Capitol",
+   "results": [
+    "https://www.facebook.com/AZCapitolMuseum/",
+    "https://www.facebook.com/capitolengineeringco/",
+    "https://www.facebook.com/capitolelementaryschool/",
+    "https://www.facebook.com/azcapitoltimes/",
+    "https://www.facebook.com/CapitalLumber/",
+    "https://www.facebook.com/p/Capitol-Guard-Patrol-100049105550868/",
+    "https://www.facebook.com/ACTV123/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Capitol note 社長",
+   "results": [
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://c-eye.co.jp/ipo-eq/65263",
+    "https://x.com/note_corp/status/2074734197949034502",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Capitol X 投稿",
+   "results": [
+    "https://x.com/capitolrecords",
+    "https://x.com/CapitolUMJ",
+    "https://help.x.com/ja/using-x/edit-post",
+    "https://help.x.com/ja/using-x/how-to-post",
+    "https://fitly.pics/blog/x-twitter-post-tips",
+    "https://note.com/mgane/n/n1c0d7384c8a0",
+    "https://www.canva.com/ja_jp/features/twitter-yoyaku-toukou/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部40頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部40頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部40頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部40頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部40頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部40頁・検索12回）"
+ }
+}

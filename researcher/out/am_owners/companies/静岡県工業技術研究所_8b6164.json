@@ -1,0 +1,1100 @@
+{
+ "name": "静岡県工業技術研究所",
+ "aliases": [],
+ "context": "PBF=yes 装置=PBF;SLM280;パウダーベッド 出典=https://iri.pref.shizuoka.jp/wp/wp-content/uploads/2023/03/R4_jyouhou25.pdf",
+ "researched_at": "2026-11-10T18:13:10.220734+00:00",
+ "official_url": "https://www.iri.pref.shizuoka.jp/",
+ "identified_by": "search:yahoo_jp:静岡県工業技術研究所",
+ "profile": {
+  "所在地": [
+   {
+    "label": "企業（所在地）",
+    "value": "研究課題",
+    "url": "https://www.iri.pref.shizuoka.jp/about/fuji/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "金属3Dプリンタ活用セミナー17「積層造形による部品・金型作製の取組」",
+    "url": "https://www.iri.pref.shizuoka.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタ活用セミナー17「積層造形による部品・金型作製の取組」 | 開催イベント一覧 | 人材育成 | 静岡県工業技術研究所",
+    "url": "https://www.iri.pref.shizuoka.jp/seminar/event/115950/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタ活用セミナー17「積層造形による部品・金型作製の取組」",
+    "url": "https://www.iri.pref.shizuoka.jp/seminar/event/115950/",
+    "pass": 1
+   },
+   {
+    "quote": "今回のセミナーでは、金属3Dプリンタを用いた各種部品や金型の作製の取組について取り上げます",
+    "url": "https://www.iri.pref.shizuoka.jp/seminar/event/115950/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタ各メーカーから具体的な取組事例を御紹介いただくとともに、各メーカーの最新の積層造形技術についても解説します",
+    "url": "https://www.iri.pref.shizuoka.jp/seminar/event/115950/",
+    "pass": 1
+   },
+   {
+    "quote": "①「LUMEXが拓くハイブリッド金属積層造形",
+    "url": "https://www.iri.pref.shizuoka.jp/seminar/event/115950/",
+    "pass": 1
+   },
+   {
+    "quote": "DMG森精機セールスアンドサービス株式会社 萩森 紗季 氏",
+    "url": "https://www.iri.pref.shizuoka.jp/seminar/event/115950/",
+    "pass": 1
+   },
+   {
+    "quote": "③「デスクトップ型PBF方式金属3Dプリンタ「DeskFab H1」の解説",
+    "url": "https://www.iri.pref.shizuoka.jp/seminar/event/115950/",
+    "pass": 1
+   },
+   {
+    "quote": "⑤見学会（造形物等の展示、金属3Dプリンタ）",
+    "url": "https://www.iri.pref.shizuoka.jp/seminar/event/115950/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタ活用セミナー17 開催案内",
+    "url": "https://www.iri.pref.shizuoka.jp/seminar/event/115950/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタ",
+    "url": "https://www.iri.pref.shizuoka.jp/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "ご紹介している機器のうち、三次元測定機、複合環境振動試験機、真円度測定機、走査型電子顕微鏡、デジタルマイクロスコープは、公益財団法人JKAの補助事業で導入しました",
+    "url": "https://www.iri.pref.shizuoka.jp/about/numazu/",
+    "pass": 1
+   },
+   {
+    "quote": "浜松工業技術支援センター 金属3Dプリンタ特集サイト | 静岡県工業技術研究所",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "浜松工業技術支援センター 金属3Dプリンタ特集サイト",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタ活用セミナー17を開催します",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタ活用ワークショップ（８）を開催します",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタ活用セミナー16を開催します",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "輸送機器産業が抱える、開発期間短縮や軽量化などの技術的課題解決のため製造現場のデジタル化が求められており、その解決手段として金属3Dプリンタが注目されています",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "浜松工業技術支援センターは、令和4年度、金属3Dプリンタ及び関連装置を導入しました",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "データ作成、造形、後加工など一連の作業が可能となり、様々な部品を金属3Dプリンタで試作できます",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "当所に導入した金属3Dプリンタは、SLMソリューションズ社製のSLM280です",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "ぜひ気軽に金属3Dプリンタを体験していただき、県内企業の皆様の事業にお役立てください",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタとは",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタとは、金属粉末をレーザビーム、電子ビーム、溶融押出し、インクジェット等を用い、3次元データ（3D CADデータ）をもとに一層ずつ積み重ねることにより、三次元立体形状を積層造形して目的形状を作製する装置です",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "三次元積層造形と切削を組み合わせたハイブリッドタイプの金属3Dプリンタも販売されており、主に金型用途で活用されています",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタの分類",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "一般的に、金属3Dプリンタは、付加製造プロセス（造形方法）の違いにより分類されます",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "粉末床溶融結合法、パウダーベッドフュージョン、Powder bed fusion(PBF)",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタの工程",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "当所の金属3Dプリンタはパウダーベッド方式（Powder bed Fusion：PBF方式）です",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "PBF方式は現在主流の造形方式で、複雑形状部品や水管入り金型など、様々な形状を造形できます",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "PBF方式による金属3Dプリンタの工程例",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "静岡県が金属3Dプリンターの活用促進と技術の普及に注力、浜松工業技術支援センターの金属3Dプリンター供用開始 | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/shizuoka-3dprinter-230227/",
+    "pass": 3
+   },
+   {
+    "quote": "静岡県が金属3Dプリンターの活用促進と技術の普及に注力、浜松工業技術支援センターの金属3Dプリンター供用開始",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/shizuoka-3dprinter-230227/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/shizuoka-3dprinter-230227/",
+    "pass": 3
+   },
+   {
+    "quote": "設置されたものと同型の金属3Dプリンター「SLM280」／出典SLM-SOUTIONS社",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/shizuoka-3dprinter-230227/",
+    "pass": 3
+   },
+   {
+    "quote": "静岡県は2023年1月23日から、工業技術研究所の浜松工業技術支援センターに設置した金属3Dプリンターの供用を開始した",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/shizuoka-3dprinter-230227/",
+    "pass": 3
+   },
+   {
+    "quote": "浜松工業技術支援センターに設置されたのは、ドイツの金属3Dプリンターメーカー・",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/shizuoka-3dprinter-230227/",
+    "pass": 3
+   },
+   {
+    "quote": "製の「SLM280」だ",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/shizuoka-3dprinter-230227/",
+    "pass": 3
+   },
+   {
+    "quote": "今回の設置にあわせ、産学官の連携で金属3Dプリンターの活用を促進する「静岡県積層造形協議会」も設立された",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/shizuoka-3dprinter-230227/",
+    "pass": 3
+   },
+   {
+    "quote": "協議会はスズキやヤマハ発動機、大学、産業支援機関などの15団体で構成され、会長には工学博士で静岡文化芸術大名誉教授の望月達也氏が就任した（画像は今回設置されたものと同型の金属3Dプリンター「SLM280」／出典SLM SLMソリューションズ社）",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/shizuoka-3dprinter-230227/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターで自動車産業の変革を促進",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/shizuoka-3dprinter-230227/",
+    "pass": 3
+   },
+   {
+    "quote": "浜松工業技術支援センターでの当金属3Dプリンタ―を使用するには、浜松工業技術支援センター 材料科と事前に打ち合わせを行う",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/shizuoka-3dprinter-230227/",
+    "pass": 3
+   },
+   {
+    "quote": "今回の金属3Dプリンターの供用開始は、静岡県が地元産業を守るための一助となるだろう",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/shizuoka-3dprinter-230227/",
+    "pass": 3
+   },
+   {
+    "quote": "アルミやステンレス、チタンなどの金属粉末をプリント素材とする金属3Dプリンターは、1台あたり数千万円から、ものによっては2億円以上のものもあり、非常に高価だ",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/shizuoka-3dprinter-230227/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、3Dプリンティング、そしてアディティブマニュファクチャリングへの関心は高くとも、装置導入に至っていないケースも多い",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/shizuoka-3dprinter-230227/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターを気軽に使用できる環境を自治体が整えたことは、今後の自動車部品の設計の段階から影響を与えるはずだ",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/shizuoka-3dprinter-230227/",
+    "pass": 3
+   },
+   {
+    "quote": "今回のように自治体主導で金属3Dプリンターの設置から供用に至るまでを整備するケースは珍しくなく、静岡県以外でも、全国の公設試験研究所（通称：公設試）に樹脂・金属の3Dプリンタ―が多く導入されており、利用料を支払うことで装置を使用することができる",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/shizuoka-3dprinter-230227/",
+    "pass": 3
+   },
+   {
+    "quote": "全国鉱工業公設試験研究機関保有機器・研究者情報検索システム（外部サイト）",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/shizuoka-3dprinter-230227/",
+    "pass": 3
+   },
+   {
+    "quote": "で「3Dプリンタ」や「積層造形装置」と検索すると、各公設試が保有している3Dプリンターを調べることができる",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/shizuoka-3dprinter-230227/",
+    "pass": 3
+   },
+   {
+    "quote": "設置された金属3Dプリンター「SLM280」の特徴",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/shizuoka-3dprinter-230227/",
+    "pass": 3
+   },
+   {
+    "quote": "の金属3Dプリンタ―「SLM280」はプリント材料となる金属粉末を敷きつめ、レーザーを照射して溶かし、固めて造形していく、",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/shizuoka-3dprinter-230227/",
+    "pass": 3
+   },
+   {
+    "quote": "「SLM280」をはじめ、SLMソリューションズ社の金属3Dプリンターの多くは複数のレーザーを搭載しているため、造形スピードの速さに特徴がある",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/shizuoka-3dprinter-230227/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターは3Dデータがあれば容易に複雑な造形が可能だ",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/shizuoka-3dprinter-230227/",
+    "pass": 3
+   },
+   {
+    "quote": "SLMソリューションズ社は、ニコンに完全子会社化されたことでも話題になった",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/shizuoka-3dprinter-230227/",
+    "pass": 3
+   },
+   {
+    "quote": "ニコンがドイツの金属3Dプリンターメーカー「SLM Solutions」の買収完了を発表",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/shizuoka-3dprinter-230227/",
+    "pass": 3
+   },
+   {
+    "quote": "9 【静岡県工業技術研究所】工業技術研究所のIoT導入支援について 静岡県IoT推進ラボ第四期の紹介 - YouTube",
+    "url": "https://www.youtube.com/watch?v=pC_3S2CcTuQ",
+    "pass": 3
+   },
+   {
+    "quote": "9 【静岡県工業技術研究所】工業技術研究所のIoT導入支援について 静岡県IoT推進ラボ第四期の紹介",
+    "url": "https://www.youtube.com/watch?v=pC_3S2CcTuQ",
+    "pass": 3
+   },
+   {
+    "quote": "タイトル：工業技術研究所のIoT導入支援について-静岡県IoT推進ラボ第四期の紹介-",
+    "url": "https://www.youtube.com/watch?v=pC_3S2CcTuQ",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "『良い品質のアルミ部品を造るために～アルミ溶解・鋳造の基礎～』",
+    "url": "https://www.iri.pref.shizuoka.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "『良い品質のアルミ部品を造るために～アルミ溶解・鋳造の基礎～』",
+    "url": "https://www.iri.pref.shizuoka.jp/about/shizuoka/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタとは、金属粉末をレーザビーム、電子ビーム、溶融押出し、インクジェット等を用い、3次元データ（3D CADデータ）をもとに一層ずつ積み重ねることにより、三次元立体形状を積層造形して目的形状を作製する装置です",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "液状の結合剤を選択的に供給して、粉末材料を結合する付加製造プロセス",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "粉末床溶融結合法、パウダーベッドフュージョン、Powder bed fusion(PBF)",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "熱エネルギーを使用して粉末床を選択的に溶融凝固する付加製造プロセス",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者にご準備いただいた3D CADデータを用い、金属粉末をレーザで焼き固め、部品等を造形します",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "打ち合わせにて造形用途、金属粉末の種類、造形物の仕様、3DCAD データの準備、後加工処理などを確認した上で使用が可能",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/shizuoka-3dprinter-230227/",
+    "pass": 3
+   },
+   {
+    "quote": "アルミやステンレス、チタンなどの金属粉末をプリント素材とする金属3Dプリンターは、1台あたり数千万円から、ものによっては2億円以上のものもあり、非常に高価だ",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/shizuoka-3dprinter-230227/",
+    "pass": 3
+   },
+   {
+    "quote": "の金属3Dプリンタ―「SLM280」はプリント材料となる金属粉末を敷きつめ、レーザーを照射して溶かし、固めて造形していく、",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/shizuoka-3dprinter-230227/",
+    "pass": 3
+   },
+   {
+    "quote": "対応造形材料は、合金工具鋼､アルミ合金､ステンレス､銅・銅合金",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/shizuoka-3dprinter-230227/",
+    "pass": 3
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "イベント「ふじのくに医療・介護福祉機器展2026」 に出展いたします",
+    "url": "https://www.iri.pref.shizuoka.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「レーザーフュージョンエネルギーの未来in浜松」",
+    "url": "https://www.iri.pref.shizuoka.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタ活用セミナー17「積層造形による部品・金型作製の取組」",
+    "url": "https://www.iri.pref.shizuoka.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタ活用セミナー17「積層造形による部品・金型作製の取組」 | 開催イベント一覧 | 人材育成 | 静岡県工業技術研究所",
+    "url": "https://www.iri.pref.shizuoka.jp/seminar/event/115950/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタ活用セミナー17「積層造形による部品・金型作製の取組」",
+    "url": "https://www.iri.pref.shizuoka.jp/seminar/event/115950/",
+    "pass": 1
+   },
+   {
+    "quote": "今回のセミナーでは、金属3Dプリンタを用いた各種部品や金型の作製の取組について取り上げます",
+    "url": "https://www.iri.pref.shizuoka.jp/seminar/event/115950/",
+    "pass": 1
+   },
+   {
+    "quote": "― 造形と切削の融合による金型・部品製作 ―」",
+    "url": "https://www.iri.pref.shizuoka.jp/seminar/event/115950/",
+    "pass": 1
+   },
+   {
+    "quote": "（特化技術）照明、音響、食品、環境エネルギー、生活製品",
+    "url": "https://www.iri.pref.shizuoka.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "イベント「ふじのくに医療・介護福祉機器展2026」 に出展いたします",
+    "url": "https://www.iri.pref.shizuoka.jp/about/hamamatsu/",
+    "pass": 1
+   },
+   {
+    "quote": "イベント「ふじのくに医療・介護福祉機器展2026」 に出展いたします",
+    "url": "https://www.iri.pref.shizuoka.jp/about/shizuoka/",
+    "pass": 1
+   },
+   {
+    "quote": "イベント「ふじのくに医療・介護福祉機器展2026」 に出展いたします",
+    "url": "https://www.iri.pref.shizuoka.jp/about/fuji/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車用途向けCNFオレフィン系樹脂の機械的物性向上及び成形性の安定化",
+    "url": "https://www.iri.pref.shizuoka.jp/about/fuji/",
+    "pass": 1
+   },
+   {
+    "quote": "「次世代自動車軽量化のためのＣＮＦ複合材の開発」",
+    "url": "https://www.iri.pref.shizuoka.jp/about/fuji/",
+    "pass": 1
+   },
+   {
+    "quote": "イベント「ふじのくに医療・介護福祉機器展2026」 に出展いたします",
+    "url": "https://www.iri.pref.shizuoka.jp/about/numazu/",
+    "pass": 1
+   },
+   {
+    "quote": "イベント「ふじのくに医療・介護福祉機器展2026」 に出展いたします | 開催イベント一覧 | 人材育成 | 静岡県工業技術研究所",
+    "url": "https://www.iri.pref.shizuoka.jp/seminar/event/120524/",
+    "pass": 1
+   },
+   {
+    "quote": "イベント「ふじのくに医療・介護福祉機器展2026」 に出展いたします",
+    "url": "https://www.iri.pref.shizuoka.jp/seminar/event/120524/",
+    "pass": 1
+   },
+   {
+    "quote": "「ふじのくに医療・介護福祉機器展2026」に、工業技術研究所が以下のとおり出展いたします",
+    "url": "https://www.iri.pref.shizuoka.jp/seminar/event/120524/",
+    "pass": 1
+   },
+   {
+    "quote": "公益財団法人 ふじのくに医療城下町推進機構 ファルマバレーセンター",
+    "url": "https://www.iri.pref.shizuoka.jp/seminar/event/120524/",
+    "pass": 1
+   },
+   {
+    "quote": "「ふじのくに医療・介護福祉機器展2026」開催の御案内",
+    "url": "https://www.iri.pref.shizuoka.jp/seminar/event/120524/",
+    "pass": 1
+   },
+   {
+    "quote": "具体的な試作や加工データの作成に関するご相談も承っております",
+    "url": "https://www.iri.pref.shizuoka.jp/seminar/event/120002/",
+    "pass": 1
+   },
+   {
+    "quote": "データ作成、造形、後加工など一連の作業が可能となり、様々な部品を金属3Dプリンタで試作できます",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "三次元積層造形と切削を組み合わせたハイブリッドタイプの金属3Dプリンタも販売されており、主に金型用途で活用されています",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "指向性エネルギー堆積法、Direct Energy Depositon(DED)",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "集束させた熱エネルギーを利用して材料を溶融し、結合、堆積させる付加製造プロセス",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "熱エネルギーを使用して粉末床を選択的に溶融凝固する付加製造プロセス",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "PBF方式は現在主流の造形方式で、複雑形状部品や水管入り金型など、様々な形状を造形できます",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "県内の自動車関連の中小企業に、「電気自動車（EV）をはじめとする次世代自動車の部品開発のために活用してもらいたい」という狙いがある",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/shizuoka-3dprinter-230227/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターで自動車産業の変革を促進",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/shizuoka-3dprinter-230227/",
+    "pass": 3
+   },
+   {
+    "quote": "静岡県は製造品出荷額が全国的にみても上位で、そのなかでも自動車産業が静岡県の基幹産業となっている",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/shizuoka-3dprinter-230227/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、世界的にすすむEV化や自動運転にみられるデジタル化、さらには2050年までに実現を目指すカーボンニュートラルのため、従来の自動車関連部品の需要量が減り、多くの中小企業が受注機会を失う恐れが高まっているという",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/shizuoka-3dprinter-230227/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車関連企業は、事業規模にかかわらず業界全体の大きな変革が求められている",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/shizuoka-3dprinter-230227/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターを気軽に使用できる環境を自治体が整えたことは、今後の自動車部品の設計の段階から影響を与えるはずだ",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/shizuoka-3dprinter-230227/",
+    "pass": 3
+   },
+   {
+    "quote": "金型も溶接も必要としないため、コストカットや生産の効率化が期待できる",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/shizuoka-3dprinter-230227/",
+    "pass": 3
+   },
+   {
+    "quote": "航空機の運航及び航空管制と騒音軽減との関わり 2026",
+    "url": "https://www.youtube.com/watch?v=pC_3S2CcTuQ",
+    "pass": 3
+   },
+   {
+    "quote": "その他 - その他 - 精密計測、三次元形状処理、電気自動車関連技術等",
+    "url": "https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D125051273",
+    "pass": 3
+   },
+   {
+    "quote": "工業技術（精密計測、三次元形状処理、電気自動車関連技術等）の研究開発、指導など",
+    "url": "https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D125051273",
+    "pass": 3
+   },
+   {
+    "quote": "精密計測、三次元形状処理、電気自動車関連技術等",
+    "url": "https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D125051273",
+    "pass": 3
+   },
+   {
+    "quote": "・地方職員共済組合、職員互助会等の制度があり、医療費の給付、住宅資金等の貸付等が行われます",
+    "url": "https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D125051273",
+    "pass": 3
+   },
+   {
+    "quote": "工業技術（精密計測、三次元形状処理、電気自動車関連技術）の研究開発、指導など",
+    "url": "https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D125051273",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "1991年 資本金／",
+    "url": "https://www.hamamatsu-bmf.jp/past2018/search2018/detail.html?id=1027",
+    "pass": 3
+   },
+   {
+    "quote": "SLMソリューションズ社は、ニコンに完全子会社化されたことでも話題になった",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/shizuoka-3dprinter-230227/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "組織 概要 - 静岡県工業技術研究所 — 組織 概要 - 静岡県工業技術研究所 静岡県工業技術研究所 https://www.iri.pref.shizuoka.jp > about",
+    "url": "https://www.iri.pref.shizuoka.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "静岡県工業技術研究所 (@ShizuKougiken) / X — 静岡県工業技術研究所 (@ShizuKougiken) / X X https://x.com > ShizuKougiken",
+    "url": "https://x.com/ShizuKougiken",
+    "pass": 3
+   },
+   {
+    "quote": "静岡県工業技術研究所 浜松工業技術支援センター — 静岡県工業技術研究所 浜松工業技術支援センター ビジネスマッチングフェア in Hamamatsu https://www.hamamatsu-bmf.jp > search2018 > detail",
+    "url": "https://www.hamamatsu-bmf.jp/past2018/search2018/detail.html?id=1027",
+    "pass": 3
+   },
+   {
+    "quote": "静岡県工業技術研究所 — 静岡県工業技術研究所 TECH BEAT Shizuoka https://join.techbeat.jp > event > module > booth",
+    "url": "https://join.techbeat.jp/event/16337/module/booth/438171/435598",
+    "pass": 3
+   },
+   {
+    "quote": "浜松 工業技術 支援センター 金属3Dプリンタ 特集サイト — 浜松 工業技術 支援センター 金属3Dプリンタ 特集サイト 静岡県工業技術研究所 https://www.iri.pref.shizuoka.jp > printer",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタ 関連装置 - 静岡県工業技術研究所 — 金属3Dプリンタ 関連装置 - 静岡県工業技術研究所 静岡県工業技術研究所 https://www.iri.pref.shizuoka.jp > printer > device",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/device/",
+    "pass": 3
+   },
+   {
+    "quote": "浜松 工業技術 支援センター 金属 3Dプリンタ特集サイト — 浜松 工業技術 支援センター 金属 3Dプリンタ特集サイト 静岡県工業技術研究所 https://www.iri.pref.shizuoka.jp > printer",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 3
+   },
+   {
+    "quote": "静岡県積層造形技術 協議会について — 静岡県積層造形技術 協議会について 静岡県工業技術研究所 https://www.iri.pref.shizuoka.jp > printer > conference",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/conference/",
+    "pass": 3
+   },
+   {
+    "quote": "組織概要 - 静岡県工業技術研究所 — 組織概要 - 静岡県工業技術研究所 静岡県工業技術研究所 https://www.iri.pref.shizuoka.jp > about",
+    "url": "https://www.iri.pref.shizuoka.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "9 【 静岡県工業技術研究所 】工業技術研究所のIoT ... - YouTube — 9 【 静岡県工業技術研究所 】工業技術研究所のIoT ... - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=pC_3S2CcTuQ",
+    "pass": 3
+   },
+   {
+    "quote": "静岡県工業技術研究所 依頼試験手数料及び機器使用料の減免 ... — 静岡県工業技術研究所 依頼試験手数料及び機器使用料の減免 ... cnf-fuji-pf.jp https://cnf-fuji-pf.jp > news > 【静岡県】静岡県工業技...",
+    "url": "https://cnf-fuji-pf.jp/news/%E3%80%90%E9%9D%99%E5%B2%A1%E7%9C%8C%E3%80%91%E9%9D%99%E5%B2%A1%E7%9C%8C%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E6%89%80-%E4%BE%9D%E9%A0%BC%E8%A9%A6%E9%A8%93%E6%89%8B%E6%95%B0%E6%96%99/",
+    "pass": 3
+   },
+   {
+    "quote": "静岡県工業技術研究所 研究報告 | 資料情報 - J-Global — 静岡県工業技術研究所 研究報告 | 資料情報 - J-Global J-Global https://jglobal.jst.go.jp > detail",
+    "url": "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200909053273579153",
+    "pass": 3
+   },
+   {
+    "quote": "静岡県工業技術研究所 の転職・求人情報 — 静岡県工業技術研究所 の転職・求人情報 求人ボックス https://求人ボックス.com > 静岡県工業技術研究所の仕事",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E9%9D%99%E5%B2%A1%E7%9C%8C%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E6%89%80%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "静岡県工業技術研究所 (@ShizuKougiken) / X 静岡県工業技術研究所 (@ShizuKougiken) / X X https://x.com > ShizuKougiken",
+    "url": "https://x.com/ShizuKougiken",
+    "pass": 3
+   },
+   {
+    "quote": "静岡県工業技術研究所 - X 静岡県工業技術研究所 - X X https://x.com > @ShizuKougiken",
+    "url": "https://x.com/ShizuKougiken/status/1985512615687438514?lang=ar",
+    "pass": 3
+   },
+   {
+    "quote": "静岡県工業技術研究所 - X 静岡県工業技術研究所 - X X https://x.com > @ShizuKougiken",
+    "url": "https://x.com/ShizuKougiken/status/2056951695704543650",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "静岡県工業技術研究所 企画調整部 - Home - Facebook 静岡県工業技術研究所 企画調整部 - Home - Facebook Facebook https://www.facebook.com > ...",
+    "url": "https://www.facebook.com/101282054651353",
+    "pass": 3
+   },
+   {
+    "quote": "静岡県工業技術研究所 ユニバーサルデザイン工芸科 - Facebook 静岡県工業技術研究所 ユニバーサルデザイン工芸科 - Facebook Facebook https://www.facebook.com > pages > 静岡県工業技術研...",
+    "url": "https://www.facebook.com/pages/%E9%9D%99%E5%B2%A1%E7%9C%8C%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E6%89%80%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B5%E3%83%AB%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E5%B7%A5%E8%8A%B8%E7%A7%91/132614000610953",
+    "pass": 3
+   },
+   {
+    "quote": "静岡県工業技術研究所 ユニバーサルデザイン工芸科 - Facebook 静岡県工業技術研究所 ユニバーサルデザイン工芸科 - Facebook Facebook https://ms-my.facebook.com > pages > 静岡県工業技術研...",
+    "url": "https://ms-my.facebook.com/pages/%E9%9D%99%E5%B2%A1%E7%9C%8C%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E6%89%80%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B5%E3%83%AB%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E5%B7%A5%E8%8A%B8%E7%A7%91/132614000610953",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.iri.pref.shizuoka.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri.pref.shizuoka.jp/seminar/event/115950/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri.pref.shizuoka.jp/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri.pref.shizuoka.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri.pref.shizuoka.jp/about/hamamatsu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri.pref.shizuoka.jp/about/shizuoka/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri.pref.shizuoka.jp/about/fuji/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri.pref.shizuoka.jp/about/numazu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri.pref.shizuoka.jp/crowdfunding_info/105477/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri.pref.shizuoka.jp/info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri.pref.shizuoka.jp/seminar/event/120524/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri.pref.shizuoka.jp/seminar/event/120002/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri.pref.shizuoka.jp/seminar/event/120184/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.iri.pref.shizuoka.jp/wp/wp-content/uploads/2026/10/261015design-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.iri.pref.shizuoka.jp/wp/wp-content/uploads/2026/09/260903design-.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://x.com/ShizuKougiken",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.hamamatsu-bmf.jp/past2018/search2018/detail.html?id=1027",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/shizuoka-3dprinter-230227/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fitc.pref.fukuoka.jp/facility/setsubi/dep-list/meri/kinzoku-sekisou-zoukei.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/shizuoka-3dprinter-230227/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=pC_3S2CcTuQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/ShizuKougiken",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ShizuKougiken",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D125051273",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/ShizuKougiken",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ShizuKougiken/status/1985512615687438514?lang=ar",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ShizuKougiken/status/2056951695704543650",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/101282054651353",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/%E9%9D%99%E5%B2%A1%E7%9C%8C%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E6%89%80%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B5%E3%83%AB%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E5%B7%A5%E8%8A%B8%E7%A7%91/132614000610953",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ms-my.facebook.com/pages/%E9%9D%99%E5%B2%A1%E7%9C%8C%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E6%89%80%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B5%E3%83%AB%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E5%B7%A5%E8%8A%B8%E7%A7%91/132614000610953",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ShizuKougiken",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ShizuKougiken",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "静岡県工業技術研究所",
+   "results": [
+    "https://www.iri.pref.shizuoka.jp/",
+    "https://www.pref.shizuoka.jp/kensei/shisetsu/shiken/1008945.html",
+    "https://x.com/ShizuKougiken",
+    "https://www.siz-sba.or.jp/cms/files/siz-sba/MASTER/0020/R1tpBN1G.pdf",
+    "https://jrps.or.jp/prefshizuoka/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 5
+  },
+  {
+   "query": "静岡県工業技術研究所 会社概要 資本金 設立",
+   "results": [
+    "https://www.iri.pref.shizuoka.jp/about/",
+    "https://x.com/ShizuKougiken",
+    "https://www.hamamatsu-bmf.jp/past2018/search2018/detail.html?id=1027",
+    "https://tenshoku.mynavi.jp/company/142450/",
+    "https://join.techbeat.jp/event/16337/module/booth/438171/435598",
+    "https://www.bizreach.jp/companies/44448/",
+    "https://cnf-fuji-pf.jp/news/%E3%80%90%E9%9D%99%E5%B2%A1%E7%9C%8C%E3%80%91%E9%9D%99%E5%B2%A1%E7%9C%8C%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E6%89%80-%E4%BE%9D%E9%A0%BC%E8%A9%A6%E9%A8%93%E6%89%8B%E6%95%B0%E6%96%99/",
+    "https://ci.nii.ac.jp/ncid/AA12367289",
+    "https://apply.e-tumo.jp/pref-shizuoka-u/offer/offerList_detail?tempSeq=19190",
+    "https://www.iri.pref.shizuoka.jp/about/shizuoka/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "静岡県工業技術研究所 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.iri.pref.shizuoka.jp/printer/",
+    "https://www.iri.pref.shizuoka.jp/printer/device/",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/shizuoka-3dprinter-230227/",
+    "https://kanagata-shimbun.com/202502_hamamatukougyo_sus/",
+    "https://www.youtube.com/watch?v=uZ-QX3SslEk",
+    "https://www.iri.pref.shizuoka.jp/info/23917/",
+    "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "https://www.nikkei.com/article/DGXZQOCC195OR0Z11C22A2000000/",
+    "https://www.hyogo-kg.jp/kiki/3011906",
+    "https://www.iri.pref.shizuoka.jp/printer_info/26516/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "静岡県工業技術研究所 金属積層造形 設備",
+   "results": [
+    "https://www.iri.pref.shizuoka.jp/printer/",
+    "https://www.fitc.pref.fukuoka.jp/facility/setsubi/dep-list/meri/kinzoku-sekisou-zoukei.php",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/shizuoka-3dprinter-230227/",
+    "https://www.iri.pref.shizuoka.jp/printer/conference/",
+    "https://www.iri-tokyo.jp/research/field/sekiso-zokei/",
+    "https://jampt.jp/",
+    "https://kanagata-shimbun.com/202502_hamamatukougyo_sus/",
+    "https://www.youtube.com/watch?v=uZ-QX3SslEk",
+    "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "https://www.cstc.or.jp/cicn/seed/dlpdf/2026/27"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "静岡県工業技術研究所 株主 出資 親会社",
+   "results": [
+    "https://www.iri.pref.shizuoka.jp/about/",
+    "https://www.youtube.com/watch?v=pC_3S2CcTuQ",
+    "https://x.com/ShizuKougiken",
+    "https://cnf-fuji-pf.jp/news/%E3%80%90%E9%9D%99%E5%B2%A1%E7%9C%8C%E3%80%91%E9%9D%99%E5%B2%A1%E7%9C%8C%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E6%89%80-%E4%BE%9D%E9%A0%BC%E8%A9%A6%E9%A8%93%E6%89%8B%E6%95%B0%E6%96%99/",
+    "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200909053273579153",
+    "https://join.techbeat.jp/event/16337/module/booth/438171/435598",
+    "https://www.hamamatsu-bmf.jp/past2018/search2018/detail.html?id=1027",
+    "https://regcol.aist.go.jp/data/outcome/tbft-27.pdf",
+    "https://agresearcher.maff.go.jp/institute/show/260",
+    "https://www.iri.pref.shizuoka.jp/about/shizuoka/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "静岡県工業技術研究所 売上高 従業員数",
+   "results": [
+    "https://www.iri.pref.shizuoka.jp/about/",
+    "https://x.com/ShizuKougiken",
+    "https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D125051273",
+    "https://xn--pckua2a7gp15o89zb.com/%E9%9D%99%E5%B2%A1%E7%9C%8C%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E6%89%80%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "https://www.hamamatsu-bmf.jp/past2018/search2018/detail.html?id=1027",
+    "https://join.techbeat.jp/event/16337/module/booth/438171/435598",
+    "https://agresearcher.maff.go.jp/institute/show/260",
+    "https://www.youtube.com/watch?v=pC_3S2CcTuQ",
+    "https://jp.indeed.com/q-%E9%9D%99%E5%B2%A1%E7%9C%8C%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E6%89%80-l-%E9%9D%99%E5%B2%A1%E7%9C%8C-%E9%9D%99%E5%B2%A1%E5%B8%82-%E8%91%B5%E5%8C%BA-%E6%B1%82%E4%BA%BA.html",
+    "https://www.iri.pref.shizuoka.jp/about/shizuoka/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 静岡県工業技術研究所",
+   "results": [
+    "https://note.com/udemy_government/n/n2cb6520b2ebf",
+    "https://note.com/hcdnet_event/n/n65d9231415e2",
+    "https://note.com/puji/n/n9712eab47a2a",
+    "https://note.com/masamune_sake/n/ne211f19ba0fa",
+    "https://note.com/shin_tigerjet/n/n84fd0889f436",
+    "https://note.com/masamune_sake/n/nee99ffa377f8",
+    "https://note.com/sc_note/n/n51c796e1b76e",
+    "https://note.com/modelart_info/n/nd365a9c35901",
+    "https://note.com/rekishiya_kwkm/n/n75846a5451b0",
+    "https://note.com/hirokimiyano/n/nd59abe31f7a2"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com 静岡県工業技術研究所",
+   "results": [
+    "https://x.com/ShizuKougiken",
+    "https://x.com/ShizuKougiken/status/1985512615687438514?lang=ar",
+    "https://x.com/shizujini_saiyo/status/1977948038749458770",
+    "https://x.com/ShizuKougiken/status/2056951695704543650",
+    "https://x.com/tocochan_WEB/status/1951203015622606924",
+    "https://x.com/nipponkoudai/status/1841599045787091270",
+    "https://x.com/nanami_hanon/status/2074605958756762042",
+    "https://x.com/dmgmorijapan/status/2071564446569463891",
+    "https://x.com/Toubu_Shizuoka",
+    "https://x.com/shizukougiken"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:linkedin.com 静岡県工業技術研究所",
+   "results": [
+    "https://jp.linkedin.com/pub/dir/+/Muramatsu/jp-7653-Greater-Shizuoka",
+    "https://jp.linkedin.com/in/t-toyota",
+    "https://jp.linkedin.com/pub/dir/Toshihiko/Muramatsu/jp-0-%E6%97%A5%E6%9C%AC",
+    "https://jp.linkedin.com/in/shigerukurosawa20240404",
+    "https://jp.linkedin.com/in/%E6%B8%85%E6%96%97-%E5%B2%A9%E5%B4%8E-a72924388",
+    "https://jp.linkedin.com/pub/dir/+/%E6%9D%91%E6%9D%BE/jp-7653-%E9%9D%99%E5%B2%A1",
+    "https://jp.linkedin.com/in/takehiko-sugiyama-97b1b7143",
+    "https://jp.linkedin.com/pub/dir/+/%E6%9D%91%E6%9D%BE",
+    "https://www.linkedin.com/in/yoichi-takimoto-229b0a9b",
+    "https://jp.linkedin.com/in/利彦-村松-9313a3259"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com 静岡県工業技術研究所",
+   "results": [
+    "https://www.facebook.com/101282054651353",
+    "https://www.facebook.com/pages/%E9%9D%99%E5%B2%A1%E7%9C%8C%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E6%89%80%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B5%E3%83%AB%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E5%B7%A5%E8%8A%B8%E7%A7%91/132614000610953",
+    "https://ms-my.facebook.com/pages/%E9%9D%99%E5%B2%A1%E7%9C%8C%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E6%89%80%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B5%E3%83%AB%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E5%B7%A5%E8%8A%B8%E7%A7%91/132614000610953",
+    "https://www.facebook.com/udkou/?locale=ja_JP",
+    "https://www.facebook.com/pages/%E9%9D%99%E5%B2%A1%E7%9C%8C%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E6%89%80%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B5%E3%83%AB%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E5%B7%A5%E8%8A%B8%E7%A7%91/132614000610953?locale=sw_KE",
+    "https://sv-se.facebook.com/pages/%E9%9D%99%E5%B2%A1%E7%9C%8C%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E6%89%80%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B5%E3%83%AB%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E5%B7%A5%E8%8A%B8%E7%A7%91/132614000610953",
+    "https://www.facebook.com/udkou/photos/%E3%82%BB%E3%83%AB%E3%83%AD%E3%83%BC%E3%82%B9%E3%83%8A%E3%83%8E%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E3%83%BCcnf%E3%81%AB%E3%82%88%E3%82%8B%E6%8E%A5%E7%9D%80%E5%89%A4%E3%81%AE%E6%94%B9%E8%B3%AA%E7%9C%8C%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E6%89%80%E5%B7%A5%E8%8A%B8%E7%A7%91-%E7%A7%91%E9%95%B7-%E6%AB%BB%E5%B7%9D%E6%99%BA%E5%8F%B2/1146041578777331/",
+    "https://www.facebook.com/groups/1429016930728798/posts/3340184219612050/",
+    "https://www.facebook.com/izukawa.shiryo/",
+    "https://www.facebook.com/udkou/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "静岡県工業技術研究所 note 社長",
+   "results": [
+    "https://www.iri.pref.shizuoka.jp/about/",
+    "https://x.com/ShizuKougiken",
+    "https://apply.e-tumo.jp/pref-shizuoka-u/offer/offerList_detail?tempSeq=19190",
+    "https://note.com/udemy_government/n/n2cb6520b2ebf",
+    "https://www.youtube.com/watch?v=pC_3S2CcTuQ",
+    "https://note.com/shizuoka_pr",
+    "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200909053273579153",
+    "https://www.oisc.shizuoka.ac.jp/media/20000.html",
+    "https://www.iri.pref.shizuoka.jp/about/shizuoka/staff/",
+    "https://www.iri.pref.shizuoka.jp/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "静岡県工業技術研究所 X 投稿",
+   "results": [
+    "https://x.com/ShizuKougiken",
+    "https://www.iri.pref.shizuoka.jp/",
+    "https://www.youtube.com/watch?v=ynvho6CYI9Q",
+    "https://www.siz-sba.or.jp/cms/files/siz-sba/MASTER/0020/R1tpBN1G.pdf",
+    "https://jrps.or.jp/prefshizuoka/",
+    "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200909053273579153",
+    "https://www.iri.pref.shizuoka.jp/equipment/11331/",
+    "https://jfs.or.jp/lab_db/2022/11/29/shizuoka059/",
+    "https://apply.e-tumo.jp/pref-shizuoka-u/offer/offerList_detail?tempSeq=19190"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部17頁・検索12回）",
+  "資本金": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部17頁・検索12回）",
+  "創業年度": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部17頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部17頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部17頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部17頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部17頁・検索12回）"
+ }
+}

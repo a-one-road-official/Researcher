@@ -1,0 +1,603 @@
+{
+ "name": "株式会社保有設備",
+ "aliases": [],
+ "context": "PBF=yes 装置=DMLS 出典=https://eishin1.jp/pages/13/",
+ "researched_at": "2026-11-10T18:12:46.225795+00:00",
+ "official_url": "https://ido-k-seimitsu.com/",
+ "identified_by": "search:ddgs:google:保有設備",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒822-0031 福岡県直方市大字植木1245-19 大きな地図で見る（Googleマップへ）",
+    "url": "https://ido-k-seimitsu.com/company/company01/",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "300万円",
+    "url": "https://ido-k-seimitsu.com/company/company01/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "各種金型パーツ加工の受託 装置部品加工の受託",
+    "url": "https://ido-k-seimitsu.com/company/company01/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "各種金型パーツ加工 装置部品加工",
+    "url": "https://ido-k-seimitsu.com/company/company01/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "ソディック 精密形彫り放電加工機 AG40L",
+    "url": "https://ido-k-seimitsu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "メーカー名 機種名 型式 台数 平面研削盤 アマダマシンツール オプティカルプロファイル研削盤 GLS-150GL 1台 三井...",
+    "url": "https://ido-k-seimitsu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "日研稲吉グループは、最新の設備を保有し、どこにも負けないものづくりに日々挑戦しています",
+    "url": "https://ido-k-seimitsu.com/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "保有設備一覧 – 【公式】(有)アイ・ディー・オー／(有)九州精密",
+    "url": "https://ido-k-seimitsu.com/equipment/equipment_list/",
+    "pass": 1
+   },
+   {
+    "quote": "総数78台の設備を保有し、",
+    "url": "https://ido-k-seimitsu.com/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "ソディック 精密形彫り放電加工機 AG40L",
+    "url": "https://ido-k-seimitsu.com/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "メーカー名 機種名 型式 台数 平面研削盤 アマダマシンツール オプティカルプロファイル研削盤 GLS-150GL 1台 三井...",
+    "url": "https://ido-k-seimitsu.com/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンター（金属積層造形）サービス｜中央可鍛工業株式会社",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター(金属積層造形)サービス",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形(金属3Dプリンター)とは",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形とは、金属粉末や金属ワイヤーを材料にして、レーザーや電子ビームなどの高エネルギー熱源で金属を局所的に溶かし、これを繰り返し一層ずつ積み重ねることで立体物を造る造形方法です",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "造形に使用する設備は、一般的に「金属3Dプリンター」と呼ばれています",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターの活用メリット",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形と組み合わせることで、従来工法では製作が難しかった軽量かつ高強度な構造を実現し、性能向上や材料使用量の削減に貢献します",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形の設計自由度を活かした、高機能・高付加価値な構造です",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "Overview of Powder Bed Fusion (PBF)",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "中央可鍛工業では、粉末床溶融結合方式（PBF）でのご相談を受け付けております",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "PBFは金属積層造形の代表的な方式の一つで、造形エリアに金属粉末を薄く均一に敷き、レーザーや電子ビームで選択的に溶融・凝固させ、この作業を繰り返すことで立体物を造形していきます",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "一般的に、レーザーを熱源とする方式をSLM（Selective Laser Melting）、電子ビームを熱源とする方式をEBM（Electron Beam Melting）と呼びます",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "PBFの主なメリットには下記のようなものがあります",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "当社では、ニコンSLMソリューションズ社製の金属3Dプリンター「SLM280」を保有しており、SLM（Selective Laser Melting）方式での造形を行っております",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "SLMソリューションズ SLM280",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "SLM280│ニコンSLMソリューションズ社",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "TruPrint1000",
+    "url": "https://www.gitc.pref.nagano.lg.jp/cms/legcontents/hoyu_details.php?no=44053080",
+    "pass": 3
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "さらに最新鋭の設備で高品質・精密金型部品・装置部品の多品種小ロット対応を実現しています",
+    "url": "https://ido-k-seimitsu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "金型部品・装置部品のオーダー加工にお応えします",
+    "url": "https://ido-k-seimitsu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "特殊形状の部品の研磨・放電・ワイヤーカット、ロー付け・焼嵌め・ラップなどの、西日本では類を見ない一貫加工で、金型部品・装置部品のオーダー加工にお応えします",
+    "url": "https://ido-k-seimitsu.com/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "ミクロン世界を追及する精密部品・金型部品製造を、掲げる九州精密は少数精鋭の技術者集団です",
+    "url": "https://ido-k-seimitsu.com/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "２社からなる精密部品・金型部品の製造・販売グループです",
+    "url": "https://ido-k-seimitsu.com/company/company01/",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形とは、金属粉末や金属ワイヤーを材料にして、レーザーや電子ビームなどの高エネルギー熱源で金属を局所的に溶かし、これを繰り返し一層ずつ積み重ねることで立体物を造る造形方法です",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "また、鋳造とは異なり鋳型を必要としないため、少量生産や試作開発における低コストかつ短納期での製作を実現します",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "金属積層造形とは、金属粉末や金属ワイヤーを材料にして、レーザーや電子ビームなどの高エネルギー熱源で金属を局所的に溶かし、これを繰り返し一層ずつ積み重ねることで立体物を造る造形方法です",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "中央可鍛工業では、粉末床溶融結合方式（PBF）でのご相談を受け付けております",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "PBFは金属積層造形の代表的な方式の一つで、造形エリアに金属粉末を薄く均一に敷き、レーザーや電子ビームで選択的に溶融・凝固させ、この作業を繰り返すことで立体物を造形していきます",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "Inconel625、718",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "SUS316L",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末を一層ずつ焼結しながら任意形状を造形",
+    "url": "https://www.gitc.pref.nagano.lg.jp/cms/legcontents/hoyu_details.php?no=44053080",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "長野県工業技術総合センター 保有設備 設備名： 金属積層造形装置 — 注1） 来場してご利用いただける機器のみ利用料を表示しています。 注2） 利用希望が多い設備は予約状況を表示します。 予約状況欄の”表示”をクリックして下さい。",
+    "url": "https://www.gitc.pref.nagano.lg.jp/cms/legcontents/hoyu_details.php?no=44053080",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "北海道大学総合研究基盤連携センター | Sapporo-shi Hokkaido株式会社 荏原製作所 - FacebookStar Express Co.,ltd. | Osaka Osaka - FacebookFacebook株式会社オリジン/Origin Co., Ltd. | Saitama-shi Saitama悅貿電子 Yuemao audio - Facebook令和7年度決算審査特別委員会で、災害時の停電対策について質問しまし... Sep 8, 2026 · 北海道大学総合研究基盤連携センター, Sapporo. 248 followers · 31 were here. 当センターは北海道大学が保有する先端研究設備、技術 職員の持つ専門的かつ高度な分析・解析／成型・加工技 術の高度化とオープン化を推進し、学内外様々な方の教育・研究の進展を... 液体水素ポンプ製品試験・",
+    "url": "https://www.facebook.com/hokudaigfc/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 荏原製作所 - FacebookStar Express Co.,ltd. | Osaka Osaka - FacebookFacebook株式会社オリジン/Origin Co., Ltd. | Saitama-shi Saitama悅貿電子 Yuemao audio - Facebook令和7年度決算審査特別委員会で、災害時の停電対策について質問しまし... 液体水素ポンプ製品試験・開発センターの全面稼働開 始🏭 この度、液体水素向けポンプの実液を用いた実スケー ル商用製品試験設備としては世界初となる、製品試験 ・開発センター「E- HYETEC（イーハイテック）」の全面稼働を開始しまし た！ いやはや、奥が深い製造現場🏭 今後も工場の魅力を発信していきますので、 ぜひぜひフォロー＆いいね👍していただけると嬉し いです🙏 弊社ではパイプ曲げ加工に使用するベンダーを3台保 有して",
+    "url": "https://www.facebook.com/EBARACORPORATION1912/",
+    "pass": 3
+   },
+   {
+    "quote": "Star Express Co.,ltd. | Osaka Osaka - FacebookFacebook株式会社オリジン/Origin Co., Ltd. | Saitama-shi Saitama悅貿電子 Yuemao audio - Facebook令和7年度決算審査特別委員会で、災害時の停電対策について質問しまし... いやはや、奥が深い製造現場🏭 今後も工場の魅力を発信していきますので、 ぜひぜひフォロー＆いいね👍していただけると嬉し いです🙏 弊社ではパイプ曲げ加工に使用するベンダーを3台保 有しております その他、保有設備や金型など詳しい詳細は ... Connect and share with friends, family, and the world on Facebook. 【電源装置】 この度、一般財団法人 環境優良車普及機構 (LEVO)様の補助金事業（令和6",
+    "url": "https://www.facebook.com/STAREXP123/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://ido-k-seimitsu.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ido-k-seimitsu.com/equipment/equipment06/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://ido-k-seimitsu.com/company/company02/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ido-k-seimitsu.com/strength/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ido-k-seimitsu.com/works_category/equipment_list/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ido-k-seimitsu.com/equipment/equipment_list/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ido-k-seimitsu.com/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ido-k-seimitsu.com/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ido-k-seimitsu.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ido-k-seimitsu.com/company/company01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ido-k-seimitsu.com/company/company02/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ido-k-seimitsu.com/equipment/equipment01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ido-k-seimitsu.com/equipment/equipment02/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ido-k-seimitsu.com/company/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://relyne-kaikei.com/%E4%BC%9A%E7%A4%BE%E8%A8%AD%E7%AB%8B/capital/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://koyano-cpa.gr.jp/nobiyo-kaikei/column/1535/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://touki-morinari.com/establish-shihonkin/2585/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-steel.co.jp/products/solution/metal-3d-printing/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gitc.pref.nagano.lg.jp/cms/legcontents/hoyu_details.php?no=44053080",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://the-shashi.com/tse/2327/shareholders/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://faq-meti-kikatu.dga.jp/faq_detail.html?id=183",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://apiro-tax.com/news/management-improvement-plan-tax-incentives/keieikyouka-parent-subsidiary-equipment-use-2026/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://the-shashi.com/rankings/facility-contractor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zukaikeizai.com/ranking/revper/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/fz_works_2026/n/n399b654a5afe",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/hokudaigfc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/EBARACORPORATION1912/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/STAREXP123/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "保有設備",
+   "results": [
+    "https://tkk-gr.co.jp/company/facility/",
+    "https://ejje.weblio.jp/content/保有設備",
+    "https://www.nisshin-keiki.co.jp/service/machinery/",
+    "https://zuiryo-seiki.com/equipment/owned-equipment",
+    "https://ido-k-seimitsu.com/equipment/equipment_list/",
+    "https://www.aio-precision.co.jp/works/facility",
+    "https://horikawa-ss.co.jp/equipment"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "保有設備 会社概要 資本金 設立",
+   "results": [
+    "https://relyne-kaikei.com/会社設立/capital/",
+    "https://koyano-cpa.gr.jp/nobiyo-kaikei/column/1535/",
+    "https://touki-morinari.com/establish-shihonkin/2585/",
+    "https://biz.moneyforward.com/establish/basic/614/",
+    "https://aaam.jp/columns/company-profile-guide",
+    "https://setsuritsu-start.jp/guide/before/",
+    "https://kaisharesearch.com/company/detail/4390001014502/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "保有設備 金属3Dプリンタ 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "保有設備 金属積層造形 設備",
+   "results": [
+    "https://chuokatan.co.jp/products/3dp/",
+    "https://www.jfe-steel.co.jp/products/solution/metal-3d-printing/index.html",
+    "https://www.gitc.pref.nagano.lg.jp/cms/legcontents/hoyu_details.php?no=44053080",
+    "https://kyowa-industrial.jp/am/capabilities",
+    "https://www.fitc.pref.fukuoka.jp/facility/setsubi/dep-list/meri/kinzoku-sekisou-zoukei.php",
+    "https://jampt.jp/equipment/",
+    "https://jampt.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "保有設備 株主 出資 親会社",
+   "results": [
+    "https://the-shashi.com/tse/2327/shareholders/",
+    "https://faq-meti-kikatu.dga.jp/faq_detail.html?id=183",
+    "https://apiro-tax.com/news/management-improvement-plan-tax-incentives/keieikyouka-parent-subsidiary-equipment-use-2026/",
+    "https://renketsu.info/capital-consoli/indirect-ownership/meaning/",
+    "http://www.sugino-jpcpa.com/tax/100pgroup.html",
+    "https://www.ey.com/ja_jp/insights/ifrs/info-sensor-2025-01-02-ifrs-course",
+    "https://chigai2.fromation.co.jp/archives/19916"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "保有設備 売上高 従業員数",
+   "results": [
+    "https://the-shashi.com/rankings/facility-contractor/",
+    "https://zukaikeizai.com/ranking/revper/",
+    "https://note.com/fz_works_2026/n/n399b654a5afe",
+    "https://www.panasonic.com/jp/about/corporate-profile/data.html",
+    "https://houjin.goo.to/corporations/categories/s-plant-equipment-construction/rankings/sales-ranking/page1",
+    "https://www.suzuki.co.jp/corporate/csr_environment/data/company_data.html",
+    "https://www.skygroup.jp/company/data/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 保有設備",
+   "results": [
+    "https://note.com/good_dill292/n/n54e8c9bcb676",
+    "https://note.com/nakashi_otsu4/n/n6f1c13f5ec3b",
+    "https://tales.note.com/nice_sorrel6709/we9o1e1i3gegs",
+    "https://note.com/kamenavi_ai/n/na71861199766",
+    "https://note.com/trang_1985/n/nd3ca0766bf91",
+    "https://note.com/shiny_liger4141/n/n0dde8949df90",
+    "https://note.com/atroxdufin/n/nb4cc7dc84877"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 保有設備",
+   "results": [
+    "https://x.com/redata_cre/status/2105483168514298051",
+    "https://x.com/remixpoint_x/status/2069608101511405746",
+    "https://x.com/i/trending/2054127604610072758",
+    "https://x.com/bunsekikobo11/status/2119946178729238843",
+    "https://x.com/tomoyaasakura/status/2105946943025557833",
+    "https://x.com/baron_sky7/status/2114934444964692371",
+    "https://x.com/kisoyamabito"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 保有設備",
+   "results": [
+    "https://jp.linkedin.com/in/貴大-石毛-53a69b24a",
+    "https://jp.linkedin.com/in/悠希-森田-6b79bb17b",
+    "https://cn.linkedin.com/in/jimmypeng1982",
+    "https://www.linkedin.com/company/swagelokjapan",
+    "https://tw.linkedin.com/in/kuanjen888",
+    "https://tw.linkedin.com/in/价良-羅-008b3a198",
+    "https://www.linkedin.com/posts/直人-薗部-a2aaa5159_15mw級超の大型洋上風力発電設備に対応可能な自己昇降式作業台船sepself-elevating-activity-7115073659261652992-On7E",
+    "https://jp.linkedin.com/posts/eigo-kamiga-b0b393367_circulareconomy-resourcemanagement-assetoptimization-activity-7525485231089307649-v5uS"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:facebook.com 保有設備",
+   "results": [
+    "https://www.facebook.com/hokudaigfc/",
+    "https://www.facebook.com/EBARACORPORATION1912/",
+    "https://www.facebook.com/STAREXP123/",
+    "https://www.facebook.com/\u0000jperes88/",
+    "https://www.facebook.com/origincoltdjp/",
+    "https://www.facebook.com/Yuemaoaudio/",
+    "https://www.facebook.com/kingoyamashita/videos/令和7年度決算審査特別委員会で災害時の停電対策について質問しました大規模災害時には避難所の電力確保が大きな課題となります今回の質疑では東京電力との連携や非常用発/2261031488078056/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "保有設備 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/financials/capex/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.com/sadaaki",
+    "https://note.com/kenta2025"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "保有設備 X 投稿",
+   "results": [
+    "https://x.com/grok/status/2114314106513543365",
+    "https://x.com/jisyakabu",
+    "https://www.itmedia.co.jp/news/article/2611/10/2000003079/",
+    "https://help.x.com/ja/using-x/how-to-post",
+    "https://www.instagram.com/p/DeL_x2Wky1U/",
+    "https://www.oricon.co.jp/news/2487782/full/",
+    "https://keizai4567.blog.jp/archives/31774063.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部15頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部15頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部15頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部15頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部15頁・検索12回）",
+  "資本金・株主": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部15頁・検索12回）"
+ }
+}

@@ -1,0 +1,1017 @@
+{
+ "name": "Bemlo",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜未接触",
+ "researched_at": "2026-11-10T18:47:54.914687+00:00",
+ "official_url": "https://www.bemlo.com/en",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Bemlo strengthens your organisation with a complete solution for digital staffing and AI-driven scheduling. It replaces email, text messages and spreadsheets with one platform that makes sure your shifts are filled on time and on budget. For municipalities, regions and private care providers.",
+    "url": "https://www.bemlo.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Used by 39 municipalities, regions and private care providers",
+    "url": "https://www.bemlo.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Pick your kind of organisation to see the professions, challenges and customer stories closest to yours.",
+    "url": "https://www.bemlo.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Bemlo drafts schedules from the care need, working-time law, collective agreements and staff preferences. The manager reviews and adjusts, and always has the final say.",
+    "url": "https://www.bemlo.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Submit preferences, see their schedule and take extra shifts in the app, without calling anyone.",
+    "url": "https://www.bemlo.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Administration, HR and procurement",
+    "url": "https://www.bemlo.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "When a shift opens up, the right people get a notification. They see the time, unit and pay, apply in the app and get an answer straight away. The same app shows the schedule and takes preferences for the next period.",
+    "url": "https://www.bemlo.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Preferences and availability for each scheduling period",
+    "url": "https://www.bemlo.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "The manager adjusts, approves and publishes.",
+    "url": "https://www.bemlo.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "We manage approximately 46,000 shifts a year, including everything from changes to existing shifts to new shifts coming in from all units. With Bemlo’s system support for the internal pool, we have 75 percent less administration when it comes to staffing and scheduling our temporary staff.",
+    "url": "https://www.bemlo.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "When the schedule respects preferences and workload, and extra shifts are easy to pick up, the workplace becomes more sustainable, and more people stay.",
+    "url": "https://www.bemlo.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "AI-drafted schedules replace spreadsheets, sticky notes and phone calls.",
+    "url": "https://www.bemlo.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Finance and procurement",
+    "url": "https://www.bemlo.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "About security and data protection",
+    "url": "https://www.bemlo.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Personal data processed under GDPR",
+    "url": "https://www.bemlo.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Municipalities, regions and private care providers, among them Vänersborg Municipality, Höganäs omsorg, Region Stockholm and Region Örebro County. Every customer story is under “Customers”.",
+    "url": "https://www.bemlo.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Bemlo exchanges data with payroll, HR and personnel systems so hours and supplements do not have to be entered twice. Bemlo is built on a comprehensive, open API that makes any integration possible.",
+    "url": "https://www.bemlo.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "No. Our customers use Bemlo across the whole organisation. For municipalities that includes schools, preschools and services, and we are in grocery retail too. We started where staffing is hardest: in health and social care.",
+    "url": "https://www.bemlo.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Bemlo works in the browser on a computer or tablet, and staff have a phone app for their schedule, preferences and extra shifts.",
+    "url": "https://www.bemlo.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Bemlo is hosted and stores data in the EU, and personal data is processed under GDPR.",
+    "url": "https://www.bemlo.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "We care about your privacy",
+    "url": "https://www.bemlo.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Filipstads kommun och Bemlo | Bemlo",
+    "url": "https://www.bemlo.com/customers/filipstads-kommun",
+    "pass": 1
+   },
+   {
+    "quote": "Filipstads kommun använder Bemlo för AI-schemaläggning och bemanningspooler.",
+    "url": "https://www.bemlo.com/customers/filipstads-kommun",
+    "pass": 1
+   },
+   {
+    "quote": "De delar av Bemlo som Filipstads kommun använder, och vad varje del gör.",
+    "url": "https://www.bemlo.com/customers/filipstads-kommun",
+    "pass": 1
+   },
+   {
+    "quote": "Privat vård och omsorg",
+    "url": "https://www.bemlo.com/customers/region-norrbotten",
+    "pass": 1
+   },
+   {
+    "quote": "För privata vård- och omsorgsgivare",
+    "url": "https://www.bemlo.com/customers/region-norrbotten",
+    "pass": 1
+   },
+   {
+    "quote": "Informationssäkerhet, GDPR och dataskydd",
+    "url": "https://www.bemlo.com/customers/region-norrbotten",
+    "pass": 1
+   },
+   {
+    "quote": "Pressmeddelanden och kundnyheter",
+    "url": "https://www.bemlo.com/customers/region-norrbotten",
+    "pass": 1
+   },
+   {
+    "quote": "ISO 27001, GDPR och dataskydd",
+    "url": "https://www.bemlo.com/customers/region-norrbotten",
+    "pass": 1
+   },
+   {
+    "quote": "Sälj, support och press",
+    "url": "https://www.bemlo.com/customers/region-norrbotten",
+    "pass": 1
+   },
+   {
+    "quote": "I Värmlands län använder även Filipstads kommun Bemlo.",
+    "url": "https://www.bemlo.com/customers/region-varmland",
+    "pass": 1
+   },
+   {
+    "quote": "april 2024",
+    "url": "https://www.bemlo.com/customers/region-vasterbotten",
+    "pass": 1
+   },
+   {
+    "quote": "Vi använder också Googles analysverktyg för att förstå hur användare hittar vår webbplats och för att mäta effektiviteten av våra marknadsföringskampanjer.",
+    "url": "https://www.bemlo.com/cookies",
+    "pass": 1
+   },
+   {
+    "quote": "Bemlos grundare ingår i H.K.H. Prins Daniels Fellowship",
+    "url": "https://www.bemlo.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Förbättringar och rättningar når alla kunder flera gånger om dagen, utan uppgraderingsprojekt.",
+    "url": "https://www.bemlo.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Vi sitter på Norrsken House i Stockholm. Hela Bemlo utvecklas och supportas härifrån av egen personal, och ingenting är outsourcat. När ni ringer supporten pratar ni med någon som känner både systemet och er verksamhet.",
+    "url": "https://www.bemlo.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Bemlo är ett svenskt techbolag som bygger plattformen för schemaläggning och bemanning åt kommuner, regioner och privata vårdgivare.",
+    "url": "https://www.bemlo.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Ett problem som spelar roll",
+    "url": "https://www.bemlo.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Regioner, kommuner och privata vårdgivare planerar och bemannar i Bemlo varje dag. Det du bygger används av schemaläggare, enhetschefer och vårdpersonal.",
+    "url": "https://www.bemlo.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Bemlo har gått Y Combinators program och backas av Long Journey Ventures och Uncommon Capital.",
+    "url": "https://www.bemlo.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Du arbetar nära kommuner och regioner när de börjar med Bemlo. Du kopplar ihop Bemlo med deras lön- och HR-system, får schemaläggningen att fungera i verksamheten och bygger det som saknas i produkten.",
+    "url": "https://www.bemlo.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Danderyds sjukhus fyller cirka 46 000 vakanta pass per år genom sin interna pool i Bemlo. Sjukhuset har ökat tillsättningen med egen personal med 25 procent och minskat tiden för bokning med 75 procent.",
+    "url": "https://www.bemlo.com/customers/danderyds-sjukhus",
+    "pass": 1
+   },
+   {
+    "quote": "tid i bokningsprocessen",
+    "url": "https://www.bemlo.com/customers/danderyds-sjukhus",
+    "pass": 1
+   },
+   {
+    "quote": "Vi hanterar cirka 46 000 pass per år, inklusive allt från ändringar av befintliga pass till nya pass som kommer in från alla enheter. Med Bemlos systemstöd för den interna poolen har vi 75 procent mindre administration när det gäller bemanning och schemaläggning av vår vikariekår.",
+    "url": "https://www.bemlo.com/customers/danderyds-sjukhus",
+    "pass": 1
+   },
+   {
+    "quote": "Sedan införandet har sjukhuset ökat tillsättningen med egen personal med 25 procent, samtidigt som den externa bemanningen har minskat. Tiden för bokningsprocessen har minskat med 75 procent.",
+    "url": "https://www.bemlo.com/customers/danderyds-sjukhus",
+    "pass": 1
+   },
+   {
+    "quote": "AbleCare Homes minskade beroendet av bemanningsföretag med 90 procent på fyra månader",
+    "url": "https://www.bemlo.com/customers/danderyds-sjukhus",
+    "pass": 1
+   },
+   {
+    "quote": "Regioner, kommuner och privata vårdgivare som använder Bemlo för att schemalägga, fylla vakanser och avropa hyrpersonal. Här finns alla kunder, deras nyheter och kundcase med resultat från deras egna uppföljningar.",
+    "url": "https://www.bemlo.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "kommuner, regioner och privata vårdgivare använder Bemlo",
+    "url": "https://www.bemlo.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Danderyds sjukhus fyller cirka 46 000 vakanta pass per år genom sin interna pool i Bemlo. Sjukhuset har ökat tillsättningen med egen personal med 25 procent och minskat tiden för bokning med 75 procent.",
+    "url": "https://www.bemlo.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "AbleCare Homes minskade beroendet av bemanningsföretag med 90 procent på fyra månader",
+    "url": "https://www.bemlo.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "AbleCare Homes, en brittisk omsorgsgivare med flera boenden, byggde en gemensam personalbank i Bemlo. Efter fyra månader hade beroendet av bemanningsföretag minskat med 90 procent.",
+    "url": "https://www.bemlo.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "1 apr 2025",
+    "url": "https://www.bemlo.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/BEML",
+    "pass": 3
+   },
+   {
+    "quote": "until 1992, when the government divested 25% of its holdings in the company. The company went for a Follow-on Public offer (FPO) in July 2007 and fixed the price band for its FPO between",
+    "url": "https://en.wikipedia.org/wiki/BEML",
+    "pass": 3
+   },
+   {
+    "quote": "had given 'in-principle' approval for strategic",
+    "url": "https://en.wikipedia.org/wiki/BEML",
+    "pass": 3
+   },
+   {
+    "quote": "BEML manufactures a wide range of products to meet the needs of mining, construction, power, irrigation, fertiliser, cement, steel, and rail sectors. The earthmoving equipment includes bulldozers, dump trucks, hydraulic excavators, wheel loaders, rope shovels, walking draglines, motor grader,s and scrapers.",
+    "url": "https://en.wikipedia.org/wiki/BEML",
+    "pass": 3
+   },
+   {
+    "quote": "BEML has recently introduced road headers and slide discharge Loaders for underground mining applications. Railway products include integral railcoaches, electric multiple units, rail buses, track-laying equipment, and overhead equipment inspection Cars. BEML manufactures heavy-duty trucks and trailers and hydraulic aggregates for the transportation sector.",
+    "url": "https://en.wikipedia.org/wiki/BEML",
+    "pass": 3
+   },
+   {
+    "quote": "The company also manufactures high-power diesel engines and heavy-duty hydraulic aggregates to meet specific customer requirements. The company plans to diversify into varied activities, including underground mining equipment, underground storage for petro-products, leasing and financial services, and joint ventures abroad.",
+    "url": "https://en.wikipedia.org/wiki/BEML",
+    "pass": 3
+   },
+   {
+    "quote": "In the same year, BEML floated an EoI (Expression of Interest) for design consultancy in developing indigenous",
+    "url": "https://en.wikipedia.org/wiki/BEML",
+    "pass": 3
+   },
+   {
+    "quote": "Bridge System produced by BEML",
+    "url": "https://en.wikipedia.org/wiki/BEML",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Used by 39 municipalities, regions and private care providers",
+    "url": "https://www.bemlo.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Bemlo is used by the manager who plans the schedule, the coordinator who fills the gaps, the staff member who takes the shifts and the administration that follows up the cost.",
+    "url": "https://www.bemlo.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing facilities",
+    "url": "https://en.wikipedia.org/wiki/BEML",
+    "pass": 3
+   },
+   {
+    "quote": "Defense and aerospace",
+    "url": "https://en.wikipedia.org/wiki/BEML",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle Defense and aerospace subsection",
+    "url": "https://en.wikipedia.org/wiki/BEML",
+    "pass": 3
+   },
+   {
+    "quote": "Indian heavy equipment manufacturer",
+    "url": "https://en.wikipedia.org/wiki/BEML",
+    "pass": 3
+   },
+   {
+    "quote": ". BEML is Asia's second-largest manufacturer of earth moving equipment.",
+    "url": "https://en.wikipedia.org/wiki/BEML",
+    "pass": 3
+   },
+   {
+    "quote": "BEML has manufacturing plants in",
+    "url": "https://en.wikipedia.org/wiki/BEML",
+    "pass": 3
+   },
+   {
+    "quote": "inaugurated the industrial design centre (IDC) at BEML Bengaluru, aiming to integrate research and development with manufacturing.",
+    "url": "https://en.wikipedia.org/wiki/BEML",
+    "pass": 3
+   },
+   {
+    "quote": "BEML is India's leading mining and construction equipment manufacturer and Asia's second-largest equipment company,",
+    "url": "https://en.wikipedia.org/wiki/BEML",
+    "pass": 3
+   },
+   {
+    "quote": "by supplying ground support vehicles. A new Aerospace division was launched during",
+    "url": "https://en.wikipedia.org/wiki/BEML",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive Research Association of India",
+    "url": "https://en.wikipedia.org/wiki/BEML",
+    "pass": 3
+   },
+   {
+    "quote": "BEML Limited's Rail Coach Factory situated in Bangalore, India, is the first all-steel integrated rail coach factory established by Government of India in 1948. This factory was established to indigenously manufacture the passenger rail coach for Indian Railways.",
+    "url": "https://en.wikipedia.org/wiki/BEML",
+    "pass": 3
+   },
+   {
+    "quote": "BEML Limited has bagged a contract from the Railway Board for the design, manufacturing, supply, testing, and commissioning of rakes of some stainless steel AC Electrical Multiple Unit (SSEMU) coaches worth Rs 31 crore.",
+    "url": "https://en.wikipedia.org/wiki/BEML",
+    "pass": 3
+   },
+   {
+    "quote": "Integral Coach Factory",
+    "url": "https://en.wikipedia.org/wiki/BEML",
+    "pass": 3
+   },
+   {
+    "quote": "BEML is one of the leading manufacturers of rail and metro coaches. Metro systems using BEML rolling stock are:",
+    "url": "https://en.wikipedia.org/wiki/BEML",
+    "pass": 3
+   },
+   {
+    "quote": "BEML operates in three major business verticals associated with equipment manufacturing:",
+    "url": "https://en.wikipedia.org/wiki/BEML",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace Division for design services for the aviation sector",
+    "url": "https://en.wikipedia.org/wiki/BEML",
+    "pass": 3
+   },
+   {
+    "quote": "BEML has the following manufacturing units spread over four locations:",
+    "url": "https://en.wikipedia.org/wiki/BEML",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace Manufacturing Division",
+    "url": "https://en.wikipedia.org/wiki/BEML",
+    "pass": 3
+   },
+   {
+    "quote": "- defence products manufacturing",
+    "url": "https://en.wikipedia.org/wiki/BEML",
+    "pass": 3
+   },
+   {
+    "quote": "The main competitor for BEML is in the private sector, which has its own manufacturing units in",
+    "url": "https://en.wikipedia.org/wiki/BEML",
+    "pass": 3
+   },
+   {
+    "quote": ", are supplied to BEML via a London agent for assembly. The CBI was investigating allegations of the bribe, as well as the alleged violation of basic rules by BEML, where defense equipment must be purchased directly from the manufacturer without involving middlemen.",
+    "url": "https://en.wikipedia.org/wiki/BEML",
+    "pass": 3
+   },
+   {
+    "quote": "\"Defence, Mining & Construction and Rail Coach Factory in India\"",
+    "url": "https://en.wikipedia.org/wiki/BEML",
+    "pass": 3
+   },
+   {
+    "quote": "\"BEML: From earth moving to aerospace\"",
+    "url": "https://en.wikipedia.org/wiki/BEML",
+    "pass": 3
+   },
+   {
+    "quote": "\"Defence Minister Rajnath Singh launches BEML's industrial design centre\"",
+    "url": "https://en.wikipedia.org/wiki/BEML",
+    "pass": 3
+   },
+   {
+    "quote": "Artificial Limbs Manufacturing Corporation of India",
+    "url": "https://en.wikipedia.org/wiki/BEML",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Bemlo completes acquisition of Vivium",
+    "url": "https://www.bemlo.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Can we start with part of Bemlo?",
+    "url": "https://www.bemlo.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Many start with one unit or one part of the platform, for example scheduling or the staffing pool, and expand from there.",
+    "url": "https://www.bemlo.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "BEML was wholly owned by the government and operated by India's",
+    "url": "https://en.wikipedia.org/wiki/BEML",
+    "pass": 3
+   },
+   {
+    "quote": ". It has numerous regional offices throughout the country. KGF unit is the main unit accounting for the manufacture and assembly of a wide array of earth-moving equipment, such as",
+    "url": "https://en.wikipedia.org/wiki/BEML",
+    "pass": 3
+   },
+   {
+    "quote": ", was the company's township for its employees.",
+    "url": "https://en.wikipedia.org/wiki/BEML",
+    "pass": 3
+   },
+   {
+    "quote": "fleet. The acquisition is aimed at enhancing the",
+    "url": "https://en.wikipedia.org/wiki/BEML",
+    "pass": 3
+   },
+   {
+    "quote": "Arjun ARRV Armored vehicle manufactured by collaboration of BEML and CVRDE",
+    "url": "https://en.wikipedia.org/wiki/BEML",
+    "pass": 3
+   },
+   {
+    "quote": "designed HMV, Arjun ARRV, Mobile Standby Command Post Vehicle (MSCPV)",
+    "url": "https://en.wikipedia.org/wiki/BEML",
+    "pass": 3
+   },
+   {
+    "quote": "Employees' State Insurance",
+    "url": "https://en.wikipedia.org/wiki/BEML",
+    "pass": 3
+   },
+   {
+    "quote": "Companies listed on the National Stock Exchange of India",
+    "url": "https://en.wikipedia.org/wiki/BEML",
+    "pass": 3
+   },
+   {
+    "quote": "Companies listed on the Bombay Stock Exchange",
+    "url": "https://en.wikipedia.org/wiki/BEML",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Bemlo strengthens your organisation with a complete solution for digital staffing and AI-driven scheduling. It replaces email, text messages and spreadsheets with one platform that makes sure your shifts are filled on time and on budget. For municipalities, regions and private care providers.",
+    "url": "https://www.bemlo.com/en",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Bemlo – Scheduling and staffing for health and social care — Bemlo is a complete solution for digital staffing and scheduling. It replaces email, text messages and spreadsheets and fills shifts on time and on budget, for municipalities, regions and private care providers.",
+    "url": "https://www.bemlo.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "About Bemlo | Bemlo — Bemlo was founded by students at KTH Royal Institute of Technology in Stockholm. The company began with short-term staffing of healthcare professionals and has grown into a platform for all of staffing: schedules, internal pools and, in regions, agency staff.",
+    "url": "https://www.bemlo.com/en/about",
+    "pass": 3
+   },
+   {
+    "quote": "Bemlo – Schemaläggning och bemanning för vård och omsorg — Bemlo är en helhetslösning för digital bemanning och schemaläggning. Den ersätter e-post, SMS och Excel-filer och fyller passen i tid och inom budget, för kommuner, regioner och privata vårdgivare.",
+    "url": "https://www.bemlo.se/",
+    "pass": 3
+   },
+   {
+    "quote": "Bemlo | Case Studies — In addition to helping us reduce our reliance on agencies, an intriguing application of Bemlo has been with our international staff. With Bemlo, international employees can more easily meet their required hours, even during periods when their primary site does not have sufficient hours available.",
+    "url": "https://www.bemlo.com/en/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Bemlo – Scheduling and staffing for health and social care — Bemlo is an AI-driven scheduling and staffing platform for health and social care. It drafts schedules, fills open shifts with your own and shared staff and books in temps, in one system.",
+    "url": "https://www.bemlo.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "Bemlo | After four months, AbleCare Homes successfully ... — In addition to helping us reduce our reliance on agencies, an intriguing application of Bemlo has been with our international staff. With Bemlo, international employees can more easily meet their required hours, even during periods when their primary site does not have sufficient hours available.",
+    "url": "https://www.bemlo.se/no/case-studies/ablecare",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Alexander Björkenstam (@BjorkenstamAlex) / Posts / X Alexander Björkenstam (@BjorkenstamAlex) - Posts - Co-founder @ Bemlo - Y Combinator W22 | X (formerly Twitter)",
+    "url": "https://x.com/BjorkenstamAlex",
+    "pass": 3
+   },
+   {
+    "quote": "mail (@BobStoops4pres) / Posts / X mail (@BobStoops4pres) - Posts - hemlo bemlo | X (formerly Twitter) In 2004 Steven Seagal released a dancehall song called “Strut” in which he sings in a fake Jamaican accent and his first line is “me wan da poonani.” can’t make this shit up.",
+    "url": "https://x.com/BobStoops4pres",
+    "pass": 3
+   },
+   {
+    "quote": "Alexander on X: \"In 6 years as founder and CEO of Bemlo, we ... 6 days ago · Alexander on X: \"In 6 years as founder and CEO of Bemlo, we brought AI to most of Sweden’s healthcare regions, I saw firsthand thousands of workflows done manually I joined @GetEnergy_ to figure out how to onboard the world to AI All work on computers will follow the same path as engineering\"",
+    "url": "https://x.com/BjorkenstamAlex/status/2118120120484811045",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Bemlo - LinkedIn Bemlo provides a comprehensive AI-driven staffing solution tailored specifically for the healthcare and social care sectors, with automated scheduling as its cornerstone.",
+    "url": "https://www.linkedin.com/company/bemlo",
+    "pass": 3
+   },
+   {
+    "quote": "Bemlo Jobs in Worldwide (30,000+ Open Roles) | LinkedIn Today’s top 30,000+ Bemlo jobs in Worldwide. Leverage your professional network, and get hired. New Bemlo jobs added daily.",
+    "url": "https://www.linkedin.com/jobs/bemlo-jobs-worldwide",
+    "pass": 3
+   },
+   {
+    "quote": "Olle Collinder – Business Developer @ Bemlo | LinkedInBenjamin Waye – Co-founder at Bemlo (W22) | LinkedInAlexander Björkenstam - Founding member at Stealth | LinkedInElias Norrby – Bemlo | LinkedInEdvin Fernqvist – Bemlo | LinkedIn At Bemlo, we create the next generation of staffing solutions for healthcare providers. We provide an end-to-end software solution for all staffing needs; AI-schedulin",
+    "url": "https://se.linkedin.com/in/ollecollinder",
+    "pass": 3
+   },
+   {
+    "quote": "Benjamin Waye – Co-founder at Bemlo (W22) | LinkedInAlexander Björkenstam - Founding member at Stealth | LinkedInElias Norrby – Bemlo | LinkedInEdvin Fernqvist – Bemlo | LinkedIn Co-founder at Bemlo (W22) · Tech savvy builder - I'm always looking to improve existing solutions and using my network to bring together intelligent individuals. Bemlo offers a comprehensive AI staffing system, tailored f",
+    "url": "https://se.linkedin.com/in/waye",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.bemlo.com/en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bemlo.com/customers/vanersborgs-kommun",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bemlo.com/customers/region-stockholm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bemlo.com/customers/hoganas-omsorg",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bemlo.com/customers/svedala-kommun",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bemlo.com/customers/karlskoga-kommun",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bemlo.com/customers/tyreso-kommun",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bemlo.com/customers/vastra-gotalandsregionen",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bemlo.com/customers/filipstads-kommun",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bemlo.com/customers/ludvika-kommun",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bemlo.com/customers/sundbybergs-stad",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bemlo.com/customers/region-jamtland-harjedalen",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bemlo.com/customers/region-norrbotten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bemlo.com/customers/region-varmland",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bemlo.com/customers/region-vasterbotten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bemlo.com/cookies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bemlo.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bemlo.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bemlo.com/customers/danderyds-sjukhus",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bemlo.com/customers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.bemlo.com/_next/image?url=%2Fcontent%2Fcustomers%2Fvanersborgs-kommun%2Fsquare.png&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.bemlo.com/_next/image?url=%2Fcontent%2Fcustomers%2Fvanersborgs-kommun%2Fhero.png&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.bemlo.com/_next/image?url=%2Fcontent%2Fcustomers%2Fvastra-gotalandsregionen%2Fsquare.png&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.bemlo.com/_next/image?url=%2Fcontent%2Fcustomers%2Fhoganas-omsorg%2Fsquare.png&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.bmlt-worldwing.com/publics/index/193/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bmlt-worldwing.com/publics/index/96/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://worldwing-azabu.jp/bemolo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://worldwing-kamisu.com/bemolo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/BEML",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%B5%E3%83%A0%E3%82%B9%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.bemlo.se/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.foodinjapan.org/japan/bento/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/workguruio/case-study/belco-custom-trailers-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scribd.com/document/433246387/BEML-Case-Study-Flowchart",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/BjorkenstamAlex",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/BobStoops4pres",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/bemlo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/bemlo-jobs-worldwide",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://se.linkedin.com/in/ollecollinder",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://se.linkedin.com/in/waye",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/BjorkenstamAlex/status/2118120120484811045",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Bemlo 日本 導入",
+   "results": [
+    "https://www.bmlt-worldwing.com/publics/index/193/",
+    "https://www.bmlt-worldwing.com/publics/index/96/",
+    "https://worldwing-azabu.jp/bemolo/",
+    "https://worldwing-kamisu.com/bemolo.html",
+    "https://worldwing-kyoto.com/bemolo/",
+    "https://www.tlsbmlt.com/bemolo.html",
+    "https://prtimes.jp/main/html/rd/p/000000003.000129839.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Bemlo 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://en.wikipedia.org/wiki/BEML",
+    "https://ja.wikipedia.org/wiki/日本サムスン",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://industrial.filtrationgroup.com/ja/联系我们/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Bemlo Japan",
+   "results": [
+    "https://www.bemlo.com/en",
+    "https://www.bemlo.com/en/about",
+    "https://www.bemlo.se/",
+    "https://www.foodinjapan.org/japan/bento/",
+    "https://www.bemoloshop.com/",
+    "https://www.bmlt-worldwing.com/publics/index/93/",
+    "https://www.bmlt-worldwing.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Bemlo manufacturing customer case study",
+   "results": [
+    "https://www.bemlo.com/en/case-studies",
+    "https://www.bemlo.com/en",
+    "https://www.casestudies.com/company/workguruio/case-study/belco-custom-trailers-customer-case-study",
+    "https://www.scribd.com/document/433246387/BEML-Case-Study-Flowchart",
+    "https://www.bemlo.se/no/case-studies/ablecare",
+    "https://www.bemlo.no/en/case-studies/danderyds-sjukhus",
+    "https://www.scribd.com/document/45490497/BEML"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Bemlo white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://www.seoreseller.com/",
+    "https://reolink.com/distributor-reseller/",
+    "https://upcloud.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Bemlo founded funding employees revenue",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com Bemlo",
+   "results": [
+    "https://note.com/denso_26/n/n755f2b31e22a",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/tori_1980/n/n21037c205ade",
+    "https://note.com/keizokuramoto/n/nef2f6f1c855d",
+    "https://note.com/iskw_iskw/n/nd60709816a09"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Bemlo",
+   "results": [
+    "https://x.com/",
+    "https://x.com/BjorkenstamAlex",
+    "https://x.com/BobStoops4pres",
+    "https://help.x.com/en",
+    "https://x.com/ibeltss",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/TRobinsonNewEra/status/2115942393174167572"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Bemlo",
+   "results": [
+    "https://www.linkedin.com/company/bemlo",
+    "https://www.linkedin.com/jobs/bemlo-jobs-worldwide",
+    "https://se.linkedin.com/in/ollecollinder",
+    "https://se.linkedin.com/in/waye",
+    "https://www.linkedin.com/in/alexander-bjorkenstam",
+    "https://se.linkedin.com/in/eliasnorrby",
+    "https://se.linkedin.com/in/edvin-fernqvist-88102616a"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Bemlo",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Bemlo note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.com/sadaaki",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Bemlo X 投稿",
+   "results": [
+    "https://x.com/BjorkenstamAlex/status/2118120120484811045",
+    "https://www.bemlo.com/en",
+    "https://www.bemlo.com/en/about",
+    "https://app.bemlo.com/login",
+    "https://x.com/belloxme",
+    "https://x.com/melomemo_exclam/status/2119756712026780101",
+    "https://help.x.com/ja/using-x/edit-post"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部23頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部23頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部23頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部23頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部23頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部23頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部23頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部23頁・検索12回）"
+ }
+}

@@ -1,0 +1,757 @@
+{
+ "name": "株式会社松浦機械製作所製",
+ "aliases": [],
+ "context": "PBF=yes 装置=LUMEX;松浦機械 出典=https://www.kanazawa-it.ac.jp/kitnews/2015/20150309_3dprinter.html",
+ "researched_at": "2026-11-10T18:11:00.738144+00:00",
+ "official_url": "",
+ "identified_by": "not_found",
+ "profile": {},
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "本稿では研究対象を主としてパウダーベッド方式に絞り込んだ",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "よび、中堅・中小企業への現場導入が進展するであろう",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．産業用金属3Dプリンタとは",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１． 産業用金属3Dプリンタとは",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "まず、本稿で取上げる産業用金属3Dプリンタに",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これら 4つの工法による産業用金属3Dプリンタ",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の中で、日本において販売台数が多いのは、「6 粉末",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「6 粉末床溶融結合法」はド",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イツの EOS 社が古くから日本で販売実績を有し、",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「8 複合装置」としては、「6 粉末床溶融結合法」",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "でも、（株）松浦機械製作所のLUMEX は、元松下",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "電工（現パナソニック株式会社）と松浦機械製作所、",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "て「6 粉末床溶融結合法」と複合技術に限定して取",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の、産業用金属3Dプリンタに特化、着眼し、その",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表１ 工法一覧と金属3Dプリンタ",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（中略）松浦機械製作所では、福",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "６ 粉末床溶融結合法",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "向けプリンタと定義したうえで、「出荷台数が、前年",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ショナル3Dプリンタの出荷台数が堅調に伸びた結",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「 6 粉末床溶融結合法」については、米国DTM",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "社が米国での基本特許を保有していたが、2014年 2",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業用金属3Dプリンタの開発やユーザーからの期",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3-2 国内で販売される産業用金属3Dプリンタ",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表４ 日本国内での産業用金属3Dプリンタ",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子株式会社 〇*2",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "強度」については、鋼系材料、アルミニウム合金、チタニウム合金において、「展伸材」や「鋳造材",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "結合剤噴射法：（Binder Jetting）」、「6 粉末床溶融",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の中で、日本において販売台数が多いのは、「6 粉末",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「6 粉末床溶融結合法」はド",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「8 複合装置」としては、「6 粉末床溶融結合法」",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "て「6 粉末床溶融結合法」と複合技術に限定して取",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ムによる工法について、中野（2017）はチタン造形",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "６ 粉末床溶融結合法",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "し、主として金属粉末",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「 6 粉末床溶融結合法」については、米国DTM",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "末床溶融結合法」、「8 複合装置」では、「6 粉末床溶",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6 この工法は、型を用いて粉末を焼結させ部品を製造する",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "応が困難なこと、③粉末材料や造形機本体が高額で",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（「6 粉末溶融結合法」と切削加工）によって、「産",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "•材料となる金属粉末がバルク材にくらべ、非常に高価である",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "率が高く造形が困難な銅合金で高能率アーク溶接シ",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "レーザー社製「M2」） を用いて、銅合金3D積層造",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "形を可能とする造形技術（銅合金粉末および加工プ",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表７ 銅合金の冷却機能を付した一体造形部品",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "実験には、「6 粉末溶融床造形法」でEOS社製の",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "EOSINT M250-Xtendedを使用して、鋼系粉末は、",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "炭素量が0.33％から 1.04％まで含む4 種類の粉末",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5-1-2 アルミニウム合金の機械的強度",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "アルミニウム合金は、航空機や産業機械、自動車",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "には、アルミニウム合金はレーザーを反射しやすく、",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "そうすることで、基幹産業である自動車産業お",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "と切削加工の複合機、または、「7 指向性エネルギー",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "７ 指向性エネルギー堆積法",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギー堆積法」と切削加工の複合機が揃う",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "は金型等を用いるが、AMでは用いない部分が異なる",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4-2 生産用金型",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "塑性加工のうち金型を利用した変形加工は、日本",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "用される金型は量産加工におけるキーデバイスであ",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "しかしながら、金型製造業は産業用途で市場が細",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、製造原価の圧縮で金型にか",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "7 「金型製造業では「5人以下」、「5人超－10人以下」のカ",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "8 『金型新聞』2017年 8 月 10 日号インタビュー記事",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "•試作のためにイニシャルコスト・時間がかかっていたものをス",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "•自動車の標準部品等の大量生産品については、対応が難しい ※",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "て、「樹脂成形型やプレス成形型などの金型や各種機",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "アルミニウム合金は、航空機や産業機械、自動車",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の金型鋳造材と比較して、造形まま材（造形後、熱",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "度は、約400MPa（金型鋳造材：約250）、0.2％耐",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "は、同組成の金型鋳造材よりも引張強度、耐力、破",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "グ：EBM）、「7 指向性エネルギー堆積法（Directed",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "形材、管、線、鍛造品などの展伸材、②金型、ダイカストなど",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "究所、 三菱重工業、矢崎総業、トヨタ自動車",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "次ぎ、国産機の試作用途での活用・普及と製品製造",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "試作機・1KWレー",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "そのためには、量産効果を期待する販売台",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "（親会社GE） 〇*2",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.matsuura.co.jp/japan/company/profile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp99636/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kikaicatalog.com/matsuura/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsuura.co.jp/japan/technology/mono_history/mono_history_lumex",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.youtube.com/shorts/qr1gvEv13t8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsuura.co.jp/japan/technology/mono_history/mono_history_lumex",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon.com/ja/articles/-/2091",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.matsuura.co.jp/japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Y69W-1-BBlI",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp99636/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp99636/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsuura.co.jp/japan/company/profile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://matsuura-recruit.com/attractiveness/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "松浦機械製作所製",
+   "results": [
+    "https://www.matsuura.co.jp/japan",
+    "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "https://job.mynavi.jp/28/pc/search/corp99636/outline.html",
+    "https://info.pref.fukui.lg.jp/tisan/sangakukan/jitsuwafukui/machine/120.html",
+    "https://ja.wikipedia.org/wiki/松浦機械製作所",
+    "https://www.matsuura.co.jp/japan/products",
+    "https://matsuura-kikai.co.jp/",
+    "http://matsuura-kikai.co.jp/machining/",
+    "https://www.lumex-matsuura.com/japan/",
+    "https://kikaicatalog.com/matsuura/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "株式会社松浦機械製作所製",
+   "results": [
+    "https://www.matsuura.co.jp/japan",
+    "https://www.matsuura.co.jp/japan/company/profile",
+    "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "https://info.pref.fukui.lg.jp/tisan/sangakukan/jitsuwafukui/machine/120.html",
+    "https://matsuura-kikai.co.jp/",
+    "https://job.mynavi.jp/28/pc/search/corp99636/outline.html",
+    "https://www.instagram.com/matsuura_mc/",
+    "https://www.facebook.com/matsuuramc/",
+    "https://ja.wikipedia.org/wiki/松浦機械製作所",
+    "http://matsuura-kikai.co.jp/machining/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "松浦機械製作所製 株式会社",
+   "results": [
+    "https://www.matsuura.co.jp/japan",
+    "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "https://info.pref.fukui.lg.jp/tisan/sangakukan/jitsuwafukui/machine/120.html",
+    "https://job.mynavi.jp/28/pc/search/corp99636/outline.html",
+    "https://matsuura-kikai.co.jp/",
+    "https://ja.wikipedia.org/wiki/松浦機械製作所",
+    "https://compalyze.co.jp/company/4210001003869",
+    "https://compalyze.co.jp/company/4480001002282",
+    "http://matsuura-kikai.co.jp/machining/",
+    "https://www.matsuura.co.jp/japan/company/profile"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "松浦機械製作所製 会社概要 資本金 設立",
+   "results": [
+    "https://www.matsuura.co.jp/japan/company/profile",
+    "https://job.mynavi.jp/28/pc/search/corp99636/outline.html",
+    "https://kikaicatalog.com/matsuura/",
+    "https://info.pref.fukui.lg.jp/tisan/sangakukan/jitsuwafukui/machine/120.html",
+    "https://matsuura-kikai.co.jp/history/",
+    "https://www.emdustrial.net/2022/01/25/matsuura/",
+    "https://www.youtube.com/watch?v=Y69W-1-BBlI",
+    "https://monoque.jp/kaisya-guide/kaisya-detail/?id=11870",
+    "https://job.career-tasu.jp/corp/00003184/detail-uc/",
+    "https://ja.wikipedia.org/wiki/松浦機械製作所"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "松浦機械製作所製 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.matsuura.co.jp/japan/technology/mono_history/mono_history_lumex",
+    "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "https://www.youtube.com/shorts/qr1gvEv13t8",
+    "https://www.intermold.jp/2025/outline/search_2025_detail/457/",
+    "https://www.jsme.or.jp/event/4196/",
+    "https://www.lumex-matsuura.com/japan/technicalreport",
+    "https://unifiedsearch.jcdbizmatch.jp/nanotech2026/jp/tct/details/Ulz34hJUVzI",
+    "https://www.youtube.com/watch?v=EsNhPovDp38",
+    "https://www.lumex-matsuura.com/japan/",
+    "https://www.matsuura.co.jp/japan/media_library/【lumexx金型革命】ハイブリッド金属3dプリンタlumex-活用"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "松浦機械製作所製 金属積層造形 設備",
+   "results": [
+    "https://www.matsuura.co.jp/japan/technology/mono_history/mono_history_lumex",
+    "https://www.nippon.com/ja/articles/-/2091",
+    "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "https://www.youtube.com/shorts/qr1gvEv13t8",
+    "https://unifiedsearch.jcdbizmatch.jp/nanotech2026/jp/tct/details/Ulz34hJUVzI",
+    "https://www.lumex-matsuura.com/japan",
+    "https://www.boring-processing.com/machining-center/matsuura.html",
+    "https://www.jsme.or.jp/event/4196/",
+    "https://kanagata-shimbun.com/230110technology-matsuura/",
+    "https://www.matsuura.co.jp/japan/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "松浦機械製作所製 株主 出資 親会社",
+   "results": [
+    "https://www.matsuura.co.jp/japan",
+    "https://www.youtube.com/watch?v=Y69W-1-BBlI",
+    "https://job.mynavi.jp/28/pc/search/corp99636/outline.html",
+    "https://info.pref.fukui.lg.jp/tisan/sangakukan/jitsuwafukui/machine/120.html",
+    "https://www.nikkei.com/article/DGXZQOCC264E90W6A120C2000000/",
+    "http://matsuura-recruit.com/message/",
+    "https://monoque.jp/kaisya-guide/kaisya-detail/?id=11870",
+    "https://kikaicatalog.com/matsuura/",
+    "https://www.youtube.com/watch?v=BCC1PDmZB3s",
+    "https://ja.wikipedia.org/wiki/松浦機械製作所"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "松浦機械製作所製 売上高 従業員数",
+   "results": [
+    "https://job.mynavi.jp/28/pc/search/corp99636/outline.html",
+    "https://www.matsuura.co.jp/japan/company/profile",
+    "http://matsuura-recruit.com/attractiveness/",
+    "https://info.pref.fukui.lg.jp/tisan/sangakukan/jitsuwafukui/machine/120.html",
+    "https://shikiho.toyokeizai.net/gyoukai/company/75a28dae07a4f62",
+    "https://job.career-tasu.jp/corp/00003184/detail-uc/",
+    "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "https://kikaicatalog.com/matsuura/",
+    "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "https://customers.omakasebiz.jp/companies/4210001003869-株式会社松浦機械製作所"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com 松浦機械製作所製",
+   "results": [
+    "https://note.com/yuto_matsuura/n/ned6e61223df5",
+    "https://note.com/yuto_matsuura/n/n6b89ccba4f9b",
+    "https://note.com/yuto_matsuura/n/n7cb0f896b048",
+    "https://note.com/yuto_matsuura",
+    "https://note.com/yuto_matsuura/n/n679970098394",
+    "https://note.com/yuto_matsuura/n/n538cb0f29319",
+    "https://note.com/yuto_matsuura/n/n48e2d9336ea6",
+    "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "https://note.com/sankituushin/n/na113880efbb2",
+    "https://note.com/yuto_matsuura/all"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:x.com 松浦機械製作所製",
+   "results": [
+    "https://x.com/yuto_matsuura",
+    "https://x.com/MMC1169",
+    "https://x.com/yuto_matsuura/status/1959029259273740670",
+    "https://x.com/Yuta_mmc",
+    "https://x.com/yuto_matsuura/status/1875507278662791467",
+    "https://x.com/yuto_matsuura/status/2067366686412488940",
+    "https://x.com/yuto_matsuura/status/2056495043557621834",
+    "https://x.com/yuto_matsuura/status/1640473782006738946",
+    "https://x.com/fkiutd_official/status/2052644745600782683",
+    "https://x.com/yuto_matsuura/status/2080057801771196673"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:linkedin.com 松浦機械製作所製",
+   "results": [
+    "https://www.linkedin.com/company/（株）松浦機械製作所",
+    "https://jp.linkedin.com/company/matsuura-machinery-corporation",
+    "https://jp.linkedin.com/in/yuto-matsuura-3187501b7/ja",
+    "https://uk.linkedin.com/company/matsuura-machinery-corporation",
+    "https://ca.linkedin.com/company/matsuura-machinery-corporation",
+    "https://www.linkedin.com/company/matsuura-machinery-corporation",
+    "https://za.linkedin.com/in/delroy-inggs"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 松浦機械製作所製",
+   "results": [
+    "https://www.facebook.com/matsuuramc/",
+    "https://www.facebook.com/matsuuramc/videos/再アップロード松浦機械製作所-4代目の松浦悠人がfanuc株式会社の本社からfanucのモノづくりについてお届けしますマツウラは全面的にfanuc製のncを採用/868804571008908/",
+    "https://www.facebook.com/matsuuramc/posts/jimtof2026出展マツウラブースまでのアクセス動画をぜひ事前にご確認くださいマツウラについての詳細はこちらからご覧ください-matsuura-machin/1675472501136577/",
+    "https://www.facebook.com/matsuuramc/posts/レニショーと松浦機械製作所のコラボ動画が本日youtubeにて公開されました動画では生産機の保全をテーマに機械を健康な状態で長く使用するための提案をしています本/779965184020651/",
+    "https://www.facebook.com/matsuuramc/posts/北関東営業所及び東京フォーラムセンター移転のご案内2021年9月1日松浦機械製作所は北関東営業所と東京フォーラムセンターを統合移転し新たに関東営業所を設立致しま/278270790856762/",
+    "https://www.facebook.com/matsuuramc/posts/本社構内における転落事故について2023年2月18日土午前オフィス用大型コピー機入替の搬入搬出作業を行っている際に販売商社から委託された運送業者の作業者が搬出中/678025224214648/",
+    "https://www.facebook.com/matsuuramc/videos/無人運転で重要なパレットスケジューリングマツウラのシステムが使いやすいと言われている理由はこれらの便利機能にあります例えばワンクリックで以下のようなさまざまな製/2737595636639990/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "松浦機械製作所製 note 社長",
+   "results": [
+    "https://note.com/yuto_matsuura",
+    "https://note.com/yuto_matsuura/all",
+    "https://www.matsuura.co.jp/japan/media_library/【3代目x4代目-特別対談】マツウラ創業90周年、そし",
+    "https://www.matsuura.co.jp/japan/company",
+    "https://jp.linkedin.com/in/yuto-matsuura-3187501b7/ja",
+    "https://monoque.jp/columns/post-417/",
+    "https://x.com/yuto_matsuura"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "松浦機械製作所製 X 投稿",
+   "results": [
+    "https://x.com/yuto_matsuura",
+    "https://www.instagram.com/matsuura_mc/",
+    "https://x.com/yuto_matsuura/status/2067366686412488940",
+    "https://www.facebook.com/matsuuramc/",
+    "https://www.matsuura.co.jp/japan/",
+    "https://www.24vids.com/channel/yuto_matsuura",
+    "https://twfan.net/user/1451135405919653893/favorite/1"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "資本金": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "創業年度": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "従業員数": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "売上高": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "株主": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "所在地": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "保有設備": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）"
+ }
+}

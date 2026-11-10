@@ -254,8 +254,10 @@
   - ［SNS］2026-11-09「AI Accelerator Chip Market Outlook from 2026 to ... - LinkedIn Jun 28, 2026 · The AI accelerator chip market is poised for significant growth, driven by the increasing demand for enhanced computational power to support d」https://www.linkedin.com/pulse/ai-accelerator-chip-market-outlook-from-2026-2033-fznzf
   - ［SNS］2026-11-08「AI Accelerator Chip Industry Is Transforming Artificial ... 6 days ago · Introduction: The AI accelerator chip industry is becoming a critical foundation of modern artificial intelligence infrastructure. As organizations」https://www.linkedin.com/pulse/ai-accelerator-chip-industry-transforming-artificial-ich6f
 ### 海外→日本（輸入）｜バーティカルAI（vertical AI）
-- 取得：2026-11-09T07:07・調査6回目・読んだ頁73
-- 痛み・損（深さの印）（3件）：
+- 取得：2026-11-10T18:06・調査7回目・読んだ頁72
+- 痛み・損（深さの印）（5件）：
+  - ［記事］2026-11-10「Agentic AI has the potential to address labor shortages, enabling vertical AI companies to grow larger than previously imagined.」https://www.wellington.com/en-us/intermediary/insights/the-transformative-power-of-vertical-ai-agents
+  - ［記事］2026-11-10「Health care is a complex, high-cost industry drowning in information. Many countries, including the US, face the dual challenges of worsening labor shortages and rising demand from aging populations. By 2030, one in six 」https://www.wellington.com/en-us/intermediary/insights/the-transformative-power-of-vertical-ai-agents
   - ［記事］2026-11-09「Productive agents are the antidote to labor shortages in the U.S.」https://www.nea.com/blog/tomorrows-titans-vertical-ai
   - ［記事］2026-11-09「, ~38% of Americans have a four-year college degree, compared to 30% 10 years ago and 23% 20 years ago. [7] Education in trades and vocational upskilling lags behind. America has a labor shortage of plumbers, electrician」https://www.nea.com/blog/tomorrows-titans-vertical-ai
   - ［記事］2026-11-09「: Even without a labor shortage, industries where labor can command a premium and where there is latent demand for labor (ex: financial services, law) have immense pull for AI automation.」https://www.nea.com/blog/tomorrows-titans-vertical-ai
@@ -271,12 +273,12 @@
   - ［記事］2026-11-07「2027年度の概算要求では、内閣府が「AX実現に向けたバーティカルAIの導入・開発利用の促進」として」https://tosen-lab.com/gs-map-vertical-ai/
   - ［記事］2026-11-06「令和9年度には中小企業のAX支援やフィジカルAIの開発に大型予算が要求され、政策は「導入しながら磨く」方向へ転換しました」https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/
   - ［記事］2026-11-06「資料でも、AIエージェント活用による責任の所在や、偽・誤情報対策、AIガバナンスや安全性認証制度の整備が課題として挙げられています」https://newspicks.com/news/16639196/body/
-- 顧客の競合（奪いに来る側）（38件）：
+- 顧客の競合（奪いに来る側）（44件）：
   - ［一次］2026-11-09「によると、2025 年の米国企業におけるバーティカル AI への支出額 35 億ドルのうち、医療分野」https://www.dir.co.jp/report/research/economics/japan/20260930_026094.pdf
   - ［一次］2026-11-09「図表 2 米国におけるバーティカル Al への企業支出 (カテゴリー別、2025 年推計)」https://www.dir.co.jp/report/research/economics/japan/20260930_026094.pdf
   - ［一次］2026-11-08「米国ではバーティカル AI への企業支出が増加しており、事例からは、日常」https://www.dir.co.jp/report/research/economics/japan/20260930_026094.pdf
-  - ［記事］2026-11-09「フィジカルＡＩ（特にＡＩロボット）は、2040年に世界シェア3割超・20兆円の市場獲得を目指し、ロボット基盤モデルの開発能力強化や「ＡＩロボティクス実装ロードマップ」に基づく18分野での導入を進めます」https://digital-supporter.net/mirai-ai/seichou17/ai-handoutai.html
-  - ［記事］2026-11-08「2026年に向けて予測される技術・ビジネスの変化や、世界のAIトレンドを牽引する米国からの展望、そして今後日本企業がとるべきAIエージェント導入戦略などについて熱く語りました」https://future.hitachi-solutions.co.jp/article_action/116.html
+  - ［記事］2026-11-10「浅原氏は冒頭、米国マーケティングリサーチ会社が発表した日米の生成AI市場規模比較に言及し、2030年に向けて両国とも成長が見込まれるものの、その規模には約4倍の差があると説明した」https://special.nikkeibp.co.jp/atclh/ONB/26/genai0220/optage/
+  - ［記事］2026-11-10「浅原氏は米国での具体例として、医療紹介ワークフローを自動化するサービスと、トラックドライバーとの業務連絡を自然な会話でこなす物流特化型AIエージェントを紹介した」https://special.nikkeibp.co.jp/atclh/ONB/26/genai0220/optage/
 - 自社の競合（商社・代理店・仲介）（68件）：
   - ［一次］2026-11-04「 エージェント型AI(Agentic AI)の社会実装やAIを軸とした経営改革（AX）の進展により、想定以上の付加価値の創出が期待されて」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
   - ［一次］2026-11-04「 自律行動型AI(Agentic AI)の社会実装やＡＩを軸とした経営改革（AX)の進展により、想定以上の付加価値の創出が期待されている」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai5/shiryou3.pdf
@@ -289,12 +291,12 @@
   - ［記事］2026-11-07「広く浅い用途に対応する、一般的な汎用AIは多種多様なタスクをこなせる反面、業界固有の業務フローや規制、複雑な判断基準を前提とした活用には限界があります」https://www.members.co.jp/column/20260326-vertical-ai
   - ［記事］2026-11-07「Vertical AIを「特定の業界やユースケースに合わせて設計され、業界特有のデータ・規制・既存ワークフローと密接に統合されたAI」」https://www.members.co.jp/column/20260326-vertical-ai
   - ［記事］2026-11-07「ヘルスケアや金融といった規制産業では、価格戦略や調達、償還（リインバースメント）といった事業上の意思決定を左右する領域には、いまだ十分に踏み込めていない実情があります」https://www.members.co.jp/column/20260326-vertical-ai
-- 経済（規模・価格・為替）（29件）：
+- 経済（規模・価格・為替）（31件）：
+  - ［記事］2026-11-10「ギフティGで不正アクセス相次ぐ、eギフト5.5億円損失 サーティワンも影響」https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/
+  - ［記事］2026-11-10「浅原氏は冒頭、米国マーケティングリサーチ会社が発表した日米の生成AI市場規模比較に言及し、2030年に向けて両国とも成長が見込まれるものの、その規模には約4倍の差があると説明した」https://special.nikkeibp.co.jp/atclh/ONB/26/genai0220/optage/
   - ［記事］2026-11-08「同じ月に閣議決定された日本成長戦略では、バーティカルAIに2040年度までに官民で23.1兆円を投じる計画です」https://tosen-lab.com/gs-map-vertical-ai/
   - ［記事］2026-11-08「ロボットなどを動かすフィジカルAI（10.5兆円）の2倍を超える金額」https://tosen-lab.com/gs-map-vertical-ai/
   - ［記事］2026-11-07「市場調査会社Technavioのレポートによれば、Vertical AI市場は2024年から2029年にかけて、年平均約24％（CAGR24.3％）という高い水準で成長すると予測されています」https://www.members.co.jp/column/20260326-vertical-ai
-  - ［記事］2026-11-06「2030年に世界のバーティカル市場33兆円のうち、内外で少なくとも5兆円の市場を獲得することが目標です」https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html
-  - ［記事］2026-11-06「・2024年の国内バーティカルAI市場は約1兆円で、2030年には約3兆円になる見通し」https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html
 - 社会（人・担い手）（28件）：
   - ［一次］2026-11-08「導入が進おバーティカルA 1 主導で、 人材、モデル、 アプリ、 データ、 クラウド、 データセンター、 計算資源、」https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/shiryo2_2.pdf
   - ［一次］2026-11-08「バーティカルA 1 開発・実装の担い手となる事業者の育成を行う」https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/shiryo2_2.pdf
@@ -331,12 +333,12 @@
   - ［SNS］2026-11-05「高市首相、バーティカルAIとフィジカルAIの開発推進を表明 日本政府は人工知能基本計画を改定し、米中主導の汎用AIではなく、製造業、医療、防災など17分野のバーティカルAIと物理世界で動くフィジカルAIを柱に据える。 「日本AX」をスローガンに官民投資を後押しし、人手不足解消や安全保障強化を目指す。」https://x.com/i/trending/2075427445662961989
   - ［SNS］2026-11-05「ザイ・オンライン on X: "｢#バーティカルAI｣関連銘柄を紹介！ ChatG... 「バーティカルAI」関連銘柄について、アナリストの村瀬智一さんが解説。 政府は「AI基本計画」において、「バーティカルAI」を中核に、AIで社会全体を駆動する「AX（AIトランスフォーメーション）」を強力に推進するとしています。」https://x.com/zaionline/status/2077963752826392911
   - ［SNS］2026-11-04「CAIO＠StudyPocket on X: "教育領域の バーティカルAI 。7月10 ... CAIO＠StudyPocket on X: "教育領域の バーティカルAI 。7月10 ... X https://x.com > @mocchicc」https://x.com/mocchicc/status/2076643504722502136
-- SNS・note（note・本文）（44件）：
-  - ［SNS］2026-11-07「バーティカルAIとは？業界特化AIが中小企業の業務改善に役立つ理由」https://note.com/chic_rail2301/n/n879ef2f137f4
-  - ［SNS］2026-11-07「生成AIの活用が広がる中で、「バーティカルAI」という言葉を目にする機会が増えてきました。」https://note.com/chic_rail2301/n/n879ef2f137f4
-  - ［SNS］2026-11-07「バーティカルAIとは、特定の業界や業務に特化したAIのことです。」https://note.com/chic_rail2301/n/n879ef2f137f4
-  - ［SNS］2026-11-07「一般的なチャットAIのように幅広い質問に答えるのではなく、製造業、建設業、医療福祉、金融、自治体業務など、特定分野の知識や業務フローに合わせて活用する点に特徴があります。」https://note.com/chic_rail2301/n/n879ef2f137f4
-  - ［SNS］2026-11-07「中小企業にとって重要なのは、「AIを入れること」そのものではありません。」https://note.com/chic_rail2301/n/n879ef2f137f4
+- SNS・note（note・本文）（51件）：
+  - ［SNS］2026-11-10「1. 政府による「バーティカルAI」推進の全容」https://note.com/natty_toucan386/n/n71569e37eb2b
+  - ［SNS］2026-11-10「日本政府は2026年7月10日、首相官邸で全閣僚が参加する人工知能戦略本部の会合を開催し、AIの利活用促進と安全性確保に向けた新たな基本計画の改定案を決定しました。この席で高市早苗首相は、領域別に戦略を策定した上で官民による集中投資を実施することを表明しました。今回の改定案は、従来の汎用的なAI研究開発支援から一歩踏み込み、日本が国際競争力を発揮できる「バーティカルAI（領域特化型AI）」を戦略の重点に位置づけたことが最大の特徴です。」https://note.com/natty_toucan386/n/n71569e37eb2b
+  - ［SNS］2026-11-10「具体的には、製造、医療、農業、金融、行政といった19の重点支援領域を設定し、それぞれの領域でAX（AIトランスフォーメーション）を推進するロードマップが示されました。政府は、AIが単なる業務支援ツールから、意思決定や実行を自律的に担う主体へと進化している現状を踏まえ、制度や政策をAI前提で再構築することを目指しています。以下の図を参照してください。」https://note.com/natty_toucan386/n/n71569e37eb2b
+  - ［SNS］2026-11-10「政府がバーティカルAIに注力する背景には、経済安全保障上の強い危機感があります。現在、クラウドや基盤モデルの多くは海外企業による寡占状態にあり、過度な海外依存はデータの海外流出やデジタル赤字の拡大に直結するリスクを孕んでいます。日本独自の現場データを扱うバーティカルAIを国内で開発・運用する能力を維持することは、戦略的自律性と不可欠性を確保し、開かれた「AI主権」を確立するために不可欠なステップとされています。」https://note.com/natty_toucan386/n/n71569e37eb2b
+  - ［SNS］2026-11-10「バーティカルAIの国内市場規模は、2030年には約3兆円に達すると予測されており、官民の限られたリソースを集中的に投下することで、この成長市場での主導権を握る構えです。政府調達や制度改革を通じて初期需要を積極的に創出し、民間投資を誘発するエコシステムを構築することで、日本を世界有数のバーティカルAIの中核拠点へと成長させる戦略を描いています。」https://note.com/natty_toucan386/n/n71569e37eb2b
 - SNS・note（LinkedIn・検索結果の抜粋）（10件）：
   - ［SNS］2026-11-08「140 Vertical AI Startups Worth over $120B Are Reshaping the ... Dec 3, 2025 · A new dataset of category-defining companies reveals where AI value is actually accumulating — and why the next decade will belong to founders」https://www.linkedin.com/pulse/140-vertical-ai-startups-worth-over-120b-reshaping-industrial-cohen-grtle/
   - ［SNS］2026-11-07「Vertical AI: Why Industry-Specific AI Solutions Are Winning Jun 25, 2026 · Learn why Vertical AI is outperforming generic AI with industry-specific solutions that improve workflows, compliance, decision-making, and busin」https://www.linkedin.com/pulse/vertical-ai-why-industry-specific-solutions-winning-ypqmc/

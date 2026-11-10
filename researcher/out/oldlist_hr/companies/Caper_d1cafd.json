@@ -1,0 +1,1379 @@
+{
+ "name": "Caper",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-10T18:43:10.014199+00:00",
+ "official_url": "https://www.caper.ai/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2016",
+    "url": "https://startupintros.com/orgs/caper",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "Brooklyn, NY, USA",
+    "url": "https://startupintros.com/orgs/caper",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Personalized, location-based and real-time contextual advertising",
+    "url": "https://www.caper.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Works with your existing POS system and loyalty program",
+    "url": "https://www.caper.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Provides easy access to cart monitoring tools to help prevent shrink",
+    "url": "https://www.caper.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Instacart updates instore Caper Carts with ads",
+    "url": "https://www.caper.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Net Promoter Score from customers*",
+    "url": "https://www.caper.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Field tested and proven",
+    "url": "https://www.caper.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re excited to introduce Instacart’s newest Caper Cart in our stores and provide customers with a more personalized and seamless approach to the shopping and checkout experience.",
+    "url": "https://www.caper.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We're excited about the use of smart cart technology in our stores in partnership with Instacart, enabling us to provide a seamless and user-friendly checkout process – all with the goal of increasing basket size and optimizing store operations.",
+    "url": "https://www.caper.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Loyalty Program Utilization",
+    "url": "https://www.caper.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Cart Verification Tools to help prevent shrink",
+    "url": "https://www.caper.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Reporting & Analytics to help drive successful programs",
+    "url": "https://www.caper.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Weights and measures for loss prevention",
+    "url": "https://www.caper.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Customized ads & digital coupons",
+    "url": "https://www.caper.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Caper seamlessly connects to multiple Instacart Platform enterprise-grade tools and products. Customers can order made-to-order deli items directly from the carts – powered by FoodStorm, Instacart’s order management solution. And they can sync shopping lists to Caper created in in-store mode, which turns retailers’ apps into companions when customers shop in stores.",
+    "url": "https://www.caper.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Enable customers to order prepared foods directly on their Caper Cart.",
+    "url": "https://www.caper.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Generate Ads revenue on your website and apps.",
+    "url": "https://www.caper.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "to discuss your needs with our team for accurate pricing.",
+    "url": "https://www.caper.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "AI-powered smart shopping carts can help reduce labor costs, increase store sales, provide a delightful customer experience, reduce checkout friction, help with out-of-stock insights, provide in-store customer flow data and create new revenue streams with incentives and loyalty integrations.",
+    "url": "https://www.caper.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "*Net Promoter Score (NPS) is based off non-incentivized customer survey responses overly quarterly usage of Caper Carts at various retailer stores. Claims are based on an average of in-market results across consumer and retailer employee behaviors. Retailer-specific results may vary.",
+    "url": "https://www.caper.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Personalized, location-based and real-time contextual advertising",
+    "url": "https://www.caper.ai/caper-smart-cart",
+    "pass": 1
+   },
+   {
+    "quote": "Works with your existing POS system and loyalty program",
+    "url": "https://www.caper.ai/caper-smart-cart",
+    "pass": 1
+   },
+   {
+    "quote": "Provides easy access to cart monitoring tools to help prevent shrink",
+    "url": "https://www.caper.ai/caper-smart-cart",
+    "pass": 1
+   },
+   {
+    "quote": "Reliable product performance and convenience in a lower-priced package.",
+    "url": "https://www.caper.ai/caper-smart-cart",
+    "pass": 1
+   },
+   {
+    "quote": "Effortless product scan - products scan automatically as you place them in the cart",
+    "url": "https://www.caper.ai/caper-smart-cart",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock delightful customer experiences and encourage specific customer behaviors such as adding loyalty, spending more, purchasing private-label items. Enable customers to clip coupons directly on the cart.",
+    "url": "https://www.caper.ai/caper-smart-cart",
+    "pass": 1
+   },
+   {
+    "quote": "Customers can sync their shopping lists from Instacart’s App or their favorite grocer’s Storefront Pro-powered website directly to a Caper Cart by scanning a QR code.",
+    "url": "https://www.caper.ai/caper-smart-cart",
+    "pass": 1
+   },
+   {
+    "quote": "Surprise and delight your customers with product recommendations to drive customer loyalty and incremental sales.",
+    "url": "https://www.caper.ai/caper-smart-cart",
+    "pass": 1
+   },
+   {
+    "quote": "Pressure tested against heat, cold, rain, and dust. Carts can withstand anything the parking lot throws at them until they are returned in-store.",
+    "url": "https://www.caper.ai/caper-smart-cart",
+    "pass": 1
+   },
+   {
+    "quote": "Slimmer, lighter, and holds 65% more than prior models to support shops of all sizes. Customers love the ergonomic frame and larger basket size.",
+    "url": "https://www.caper.ai/caper-smart-cart",
+    "pass": 1
+   },
+   {
+    "quote": "Can I still use my current payment processor?",
+    "url": "https://www.caper.ai/caper-smart-cart",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Your current payment processor’s details are added to the Caper Cart, whether it be credit, debit, Apple Pay, or Android Pay.",
+    "url": "https://www.caper.ai/caper-smart-cart",
+    "pass": 1
+   },
+   {
+    "quote": "Absolutely. Your loyalty programs will be front and center when customers begin shopping with Caper Carts.",
+    "url": "https://www.caper.ai/caper-smart-cart",
+    "pass": 1
+   },
+   {
+    "quote": "How do you prevent theft?",
+    "url": "https://www.caper.ai/caper-smart-cart",
+    "pass": 1
+   },
+   {
+    "quote": "*Net Promoter Score (NPS) is based off non-incentivized customer survey responses overly quarterly usage of Caper Carts at various retailer stores. Claims are based on an average of in-market results across consumer and retailer employee behaviors. Retailer-specific results may vary.",
+    "url": "https://www.caper.ai/caper-smart-cart",
+    "pass": 1
+   },
+   {
+    "quote": "higher promotional engagement",
+    "url": "https://www.caper.ai/case-studies/soelbergs",
+    "pass": 1
+   },
+   {
+    "quote": "Soelberg’s Market was looking to elevate the in-store experience by making checkout easier, improving coupon redemption, and meeting the needs of everyday customers who valued speed, ease and simplicity. The team sought to bridge the gap between online and in-store behavior, drive larger basket sizes, and deliver a more personalized and engaging shopping journey.",
+    "url": "https://www.caper.ai/case-studies/soelbergs",
+    "pass": 1
+   },
+   {
+    "quote": "Boost coupon usage and loyalty program participation",
+    "url": "https://www.caper.ai/case-studies/soelbergs",
+    "pass": 1
+   },
+   {
+    "quote": "1st prototype cart, M1, was built",
+    "url": "https://www.caper.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Proud to bring an award-winning product to market.",
+    "url": "https://www.caper.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Professional Concept and Product Concept Category Winner",
+    "url": "https://www.caper.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/Caper",
+    "pass": 3
+   },
+   {
+    "quote": "could have originated in the tropics and later spread to the Mediterranean basin.",
+    "url": "https://en.wikipedia.org/wiki/Caper",
+    "pass": 3
+   },
+   {
+    "quote": "In southern Europe, it is found in southern Portugal, southern and eastern Spain (including the Balearic Islands), Mediterranean France including Corsica, Italy including Sicily and Sardinia, Malta, Croatia's Dalmatian islands, Albania, Greece and the Greek Islands, western and southern Turkey, on Cyprus, and on the Crimean Peninsula in Ukraine. In Spain, it ranges from sea level up to",
+    "url": "https://en.wikipedia.org/wiki/Caper",
+    "pass": 3
+   },
+   {
+    "quote": "In response to sudden increases in humidity, the bush forms wart-like pockmarks across the leaf surface. It quickly adjusts to the new conditions and produces unaffected leaves.",
+    "url": "https://en.wikipedia.org/wiki/Caper",
+    "pass": 3
+   },
+   {
+    "quote": ". A rainy spring and a hot, dry summer are considered advantageous.",
+    "url": "https://en.wikipedia.org/wiki/Caper",
+    "pass": 3
+   },
+   {
+    "quote": "Because the youngest, smallest buds fetch the highest prices, daily picking is typical.",
+    "url": "https://en.wikipedia.org/wiki/Caper",
+    "pass": 3
+   },
+   {
+    "quote": "Capers, prepared, canned",
+    "url": "https://en.wikipedia.org/wiki/Caper",
+    "pass": 3
+   },
+   {
+    "quote": ". Preserved capers are particularly high in",
+    "url": "https://en.wikipedia.org/wiki/Caper",
+    "pass": 3
+   },
+   {
+    "quote": "in significant content. In a 100-gram amount, the sodium content is 2350",
+    "url": "https://en.wikipedia.org/wiki/Caper",
+    "pass": 3
+   },
+   {
+    "quote": "(11% DV) also having appreciable levels.",
+    "url": "https://en.wikipedia.org/wiki/Caper",
+    "pass": 3
+   },
+   {
+    "quote": ", and other bioactives that give it moisturizing, antioxidant, and anti‑inflammatory properties relevant to skin care.",
+    "url": "https://en.wikipedia.org/wiki/Caper",
+    "pass": 3
+   },
+   {
+    "quote": ", most evidence is preclinical or early clinical, but several studies and reviews directly link caper to cosmetic and dermocosmetic applications.",
+    "url": "https://en.wikipedia.org/wiki/Caper",
+    "pass": 3
+   },
+   {
+    "quote": ". It is represented in",
+    "url": "https://en.wikipedia.org/wiki/Caper",
+    "pass": 3
+   },
+   {
+    "quote": ", whose origin (as with that of the plant) is unknown but is probably Asian.",
+    "url": "https://en.wikipedia.org/wiki/Caper",
+    "pass": 3
+   },
+   {
+    "quote": "The \"capperisin\" mentioned in the Talmud are actually referring to a shell that protected the",
+    "url": "https://en.wikipedia.org/wiki/Caper",
+    "pass": 3
+   },
+   {
+    "quote": "Oxford University Press",
+    "url": "https://en.wikipedia.org/wiki/Caper",
+    "pass": 3
+   },
+   {
+    "quote": "Sozzi, G.O.; A. Chiesa (1995). \"Improvement of caper (",
+    "url": "https://en.wikipedia.org/wiki/Caper",
+    "pass": 3
+   },
+   {
+    "quote": "Barbera, B. (1991). Le câprier (",
+    "url": "https://en.wikipedia.org/wiki/Caper",
+    "pass": 3
+   },
+   {
+    "quote": "spp.). EUR 13617, Série Agriculture, Programme de recherche Agrimed. Commission des Communautés européennes, Luxembourg, 63 pp.",
+    "url": "https://en.wikipedia.org/wiki/Caper",
+    "pass": 3
+   },
+   {
+    "quote": ". Boca Raton, Florida: CRC Press. pp.",
+    "url": "https://en.wikipedia.org/wiki/Caper",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Smart carts can be used by any sized business, as they help drive revenue, reduce in-store wait times and deliver an exceptional customer shopping experience.",
+    "url": "https://www.caper.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Soelberg's Case Study",
+    "url": "https://www.caper.ai/case-studies/soelbergs",
+    "pass": 1
+   },
+   {
+    "quote": "plant that bears rounded, fleshy leaves and large white to pinkish-white flowers.",
+    "url": "https://en.wikipedia.org/wiki/Caper",
+    "pass": 3
+   },
+   {
+    "quote": "The plant is best known for the edible flower buds (",
+    "url": "https://en.wikipedia.org/wiki/Caper",
+    "pass": 3
+   },
+   {
+    "quote": "plants are used in the manufacture of medicines",
+    "url": "https://en.wikipedia.org/wiki/Caper",
+    "pass": 3
+   },
+   {
+    "quote": "The shrubby plant is many-branched, with",
+    "url": "https://en.wikipedia.org/wiki/Caper",
+    "pass": 3
+   },
+   {
+    "quote": "Plants of the World Online",
+    "url": "https://en.wikipedia.org/wiki/Caper",
+    "pass": 3
+   },
+   {
+    "quote": "Flowering caper plant, yielding caper berries",
+    "url": "https://en.wikipedia.org/wiki/Caper",
+    "pass": 3
+   },
+   {
+    "quote": "Capers can be grown easily from fresh seeds gathered from ripe fruit and planted into a well-drained seed-raising mix. Seedlings appear in two to four weeks. Old, stored seeds enter a state of",
+    "url": "https://en.wikipedia.org/wiki/Caper",
+    "pass": 3
+   },
+   {
+    "quote": "This drought-tolerant perennial plant is used for landscaping and reducing erosion along highways, steep rocky slopes, dunes or fragile semiarid ecosystems.",
+    "url": "https://en.wikipedia.org/wiki/Caper",
+    "pass": 3
+   },
+   {
+    "quote": "Capers may be harvested from wild plants, in which case it is necessary to know that the plant is not one of the few poisonous",
+    "url": "https://en.wikipedia.org/wiki/Caper",
+    "pass": 3
+   },
+   {
+    "quote": "The plant normally has curved thorns that may scratch the people who harvest the buds, although a few spineless varieties have been developed.",
+    "url": "https://en.wikipedia.org/wiki/Caper",
+    "pass": 3
+   },
+   {
+    "quote": ", whose origin (as with that of the plant) is unknown but is probably Asian.",
+    "url": "https://en.wikipedia.org/wiki/Caper",
+    "pass": 3
+   },
+   {
+    "quote": "Heywood V.H. (1993). \"Flowering plants of the world.\"",
+    "url": "https://en.wikipedia.org/wiki/Caper",
+    "pass": 3
+   },
+   {
+    "quote": "Plant Systematics and Evolution",
+    "url": "https://en.wikipedia.org/wiki/Caper",
+    "pass": 3
+   },
+   {
+    "quote": "\"Plant of the Millennium, Caper (",
+    "url": "https://en.wikipedia.org/wiki/Caper",
+    "pass": 3
+   },
+   {
+    "quote": "\"The Families of Flowering Plants\"",
+    "url": "https://en.wikipedia.org/wiki/Caper",
+    "pass": 3
+   },
+   {
+    "quote": "\"Capparis spinosa L. | Plants of the World Online | Kew Science\"",
+    "url": "https://en.wikipedia.org/wiki/Caper",
+    "pass": 3
+   },
+   {
+    "quote": "\"Capparis spinosa subsp. nummularia (DC.) Fici | Plants of the World Online | Kew Science\"",
+    "url": "https://en.wikipedia.org/wiki/Caper",
+    "pass": 3
+   },
+   {
+    "quote": "\"Plants in the Mediterranean Region specifically Palestine\"",
+    "url": "https://en.wikipedia.org/wiki/Caper",
+    "pass": 3
+   },
+   {
+    "quote": "Journal of Plant Physiology",
+    "url": "https://en.wikipedia.org/wiki/Caper",
+    "pass": 3
+   },
+   {
+    "quote": "Top 100 Exotic Food Plants",
+    "url": "https://en.wikipedia.org/wiki/Caper",
+    "pass": 3
+   },
+   {
+    "quote": "\"The Caper-Plant and Its Edible Products. With Reference to Eccles. XII. 5\"",
+    "url": "https://en.wikipedia.org/wiki/Caper",
+    "pass": 3
+   },
+   {
+    "quote": ". Ethelton, S. Aust.: Caperplants.",
+    "url": "https://en.wikipedia.org/wiki/Caper",
+    "pass": 3
+   },
+   {
+    "quote": "Garden plants of Asia",
+    "url": "https://en.wikipedia.org/wiki/Caper",
+    "pass": 3
+   },
+   {
+    "quote": "Garden plants of Europe",
+    "url": "https://en.wikipedia.org/wiki/Caper",
+    "pass": 3
+   },
+   {
+    "quote": "Medicinal plants of Africa",
+    "url": "https://en.wikipedia.org/wiki/Caper",
+    "pass": 3
+   },
+   {
+    "quote": ". I was really grateful to receive frank feedback from manufacturers, advertising agencies, and other startups. It was truly helpful in refining the service.”",
+    "url": "https://note.com/stai/n/n314a89192005?hl=en",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Schnucks and Instacart Expand Omnichannel Partnership with Smart Carts",
+    "url": "https://www.caper.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Instacart and ALDI SOUTH Group Expand Omnichannel Partnership",
+    "url": "https://www.caper.ai/",
+    "pass": 1
+   },
+   {
+    "quote": ". I was really grateful to receive frank feedback from manufacturers, advertising agencies, and other startups. It was truly helpful in refining the service.”",
+    "url": "https://note.com/stai/n/n314a89192005?hl=en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Alternate revenue streams",
+    "url": "https://www.caper.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Congratulations! Watch your revenue and customer satisfaction grow.",
+    "url": "https://www.caper.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Generate Ads revenue on your website and apps.",
+    "url": "https://www.caper.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "AI-powered smart shopping carts can help reduce labor costs, increase store sales, provide a delightful customer experience, reduce checkout friction, help with out-of-stock insights, provide in-store customer flow data and create new revenue streams with incentives and loyalty integrations.",
+    "url": "https://www.caper.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Smart carts can be used by any sized business, as they help drive revenue, reduce in-store wait times and deliver an exceptional customer shopping experience.",
+    "url": "https://www.caper.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce wait times, drive revenue and delight your customers with Caper Carts.",
+    "url": "https://www.caper.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Alternate revenue streams",
+    "url": "https://www.caper.ai/caper-smart-cart",
+    "pass": 1
+   },
+   {
+    "quote": "Congratulations! Watch your revenue and customer satisfaction grow.",
+    "url": "https://www.caper.ai/caper-smart-cart",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce wait times, drive revenue and delight your customers with Caper Carts.",
+    "url": "https://www.caper.ai/caper-smart-cart",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce wait times, drive revenue and delight your customers with Caper Carts.",
+    "url": "https://www.caper.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "スタートアップの経営者、上場企業の役員、ベンチャーキャピタル、スタートアップの支援者などが参加し、業界のトレンドに関するパネルディスカッションや参加者同士のネットワーキング、スタートアップによるピッチコンテストなど、様々なプログラムを3日間にわたって実施します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000165302.html",
+    "pass": 3
+   },
+   {
+    "quote": "Rankou, H., M'Sou, S., Diarra, A. & Ait Babahmad, R.A. 2020.",
+    "url": "https://en.wikipedia.org/wiki/Caper",
+    "pass": 3
+   },
+   {
+    "quote": "D. Rivera, C. Inocencio, C. Obón, E. Carreño, A. Reales, F. Alcaraz. (2002). \"Archaeobotany of capers (",
+    "url": "https://en.wikipedia.org/wiki/Caper",
+    "pass": 3
+   },
+   {
+    "quote": "Backed by strong investors like Y Combinator and First Round Capital, and now part of Instacart, Caper benefits from a robust network and retail partnerships that accelerate adoption and innovation[1][2][4][6].",
+    "url": "https://startupintros.com/orgs/caper",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Receive your digital receipt via text or email.",
+    "url": "https://www.caper.ai/caper-smart-cart",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "株式会社CAPER - AIネイティブ採用支援",
+    "url": "https://caper.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "「各社専用のAIを育て、AIが採用を進める」新しい採用プロセスを作る株式会社CAPER、シードラウンドで累計1億円超を調達しました",
+    "url": "https://caper.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社CAPERの公式ウェブサイトをリニューアルしました",
+    "url": "https://caper.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "2016年グローバルウォーカーズ株式会社立ち上げ",
+    "url": "https://caper.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "その後、アフリカ拠点のスタートアップに転職後、2022年に株式会社CAPERを創業",
+    "url": "https://caper.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "自然言語処理のR&Dエンジニアとして務めた後、株式会社ビズリーチへ転職し複数のサービス開発をリード",
+    "url": "https://caper.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "その後、株式会社ヘンリーでVPoEとして10名→100名までの拡大を行う",
+    "url": "https://caper.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "東京大学にて自然言語処理/機械学習に関する特任研究員",
+    "url": "https://caper.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社CAPER、AI採用人事「OpenSeek」でB Dash Camp登壇決定 〜“採用のリソース格差”を変える挑戦を発表〜 | 株式会社CAPERのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000165302.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社CAPER、AI採用人事「OpenSeek」でB Dash Camp登壇決定 〜“採用のリソース格差”を変える挑戦を発表〜",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000165302.html",
+    "pass": 3
+   },
+   {
+    "quote": "AI採用人事「OpenSeek（オープンシーク）」を運営する株式会社CAPER（本社：東京都渋谷区、代表取締役：山下俊）は、2025年11月5日〜7日に開催されるスタートアップカンファレンス「B Dash Camp 2025 Fall in Fukuoka」のピッチコンテスト「Pitch Arena」にて、",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000165302.html",
+    "pass": 3
+   },
+   {
+    "quote": "B Dash Campは、スタートアップ業界の一線で活躍する経営者や著名人が集結する日本最大規模の招待制カンファレンスです",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000165302.html",
+    "pass": 3
+   },
+   {
+    "quote": "本社所在地： 東京都渋谷区代々木5丁目57-2",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000165302.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社CAPER、AI採用支援「OpenSeek」の事業拡大に向け、AI×人のハイブリッドオペレーション採用支援・代行サービス「ツクチム」を導入 | ツクチム",
+    "url": "https://tsukuteam.com/news/caper",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社CAPER、AI採用支援「OpenSeek」の事業拡大に向け、AI×人のハイブリッドオペレーション採用支援・代行サービス「ツクチム」を導入",
+    "url": "https://tsukuteam.com/news/caper",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社C(本社:東京都港区、代表取締役:井端裕輝)は、生成AIを用いた採用支援ソリューション「OpenSeek」を展開する株式会社CAPER(本社:東京都渋谷区、代表取締役:山下俊)に、当社が提供するAI×人のハイブリッドオペレーション採用支援サービス「ツクチム」を導入いただいたことをお知らせいたします",
+    "url": "https://tsukuteam.com/news/caper",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社CAPERは、「課題にWowを届け、人の未来にインパクトを創る」をミッションに掲げ、生成AIを用いた採用支援ソリューション「OpenSeek」を開発・運営しています",
+    "url": "https://tsukuteam.com/news/caper",
+    "pass": 3
+   },
+   {
+    "quote": "所在地: 東京都港区北青山2丁目10番20号",
+    "url": "https://tsukuteam.com/news/caper",
+    "pass": 3
+   },
+   {
+    "quote": "How to say caper in Japanese",
+    "url": "https://www.wordhippo.com/what-is/the/japanese-word-for-d9952f83c3049d2ee9ad91312f9c3253d5c18a62.html",
+    "pass": 3
+   },
+   {
+    "quote": "More Japanese words for caper",
+    "url": "https://www.wordhippo.com/what-is/the/japanese-word-for-d9952f83c3049d2ee9ad91312f9c3253d5c18a62.html",
+    "pass": 3
+   },
+   {
+    "quote": "Translate to Japanese",
+    "url": "https://www.wordhippo.com/what-is/the/japanese-word-for-d9952f83c3049d2ee9ad91312f9c3253d5c18a62.html",
+    "pass": 3
+   },
+   {
+    "quote": "出典: フリー多機能辞典『ウィクショナリー日本語版（Wiktionary）』",
+    "url": "https://ja.wiktionary.org/wiki/caper",
+    "pass": 3
+   },
+   {
+    "quote": "The place where Yamashita found the key to solving this problem is \"STATION Ai,\" one of Japan's largest open innovation hubs located in Nagoya, Aichi Prefecture. He says that after moving in,",
+    "url": "https://note.com/stai/n/n314a89192005?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "入居者だけで商談20件！STATION Aiで事業が加速する理由― 株式会社CAPER 山下俊さんが語る、リアルな“成長実感”｜STATION Ai",
+    "url": "https://note.com/stai/n/n314a89192005",
+    "pass": 3
+   },
+   {
+    "quote": "入居者だけで商談20件！STATION Aiで事業が加速する理由― 株式会社CAPER 山下俊さんが語る、リアルな“成長実感”",
+    "url": "https://note.com/stai/n/n314a89192005",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社CAPERを創業した山下さんも、まさにその壁に直面していました",
+    "url": "https://note.com/stai/n/n314a89192005",
+    "pass": 3
+   },
+   {
+    "quote": "そんな山下さんの課題解決の糸口が見つかった場所が、愛知県名古屋市の日本最大級のオープンイノベーション拠点「STATION Ai」です",
+    "url": "https://note.com/stai/n/n314a89192005",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社CAPER 代表取締役 山下俊さん",
+    "url": "https://note.com/stai/n/n314a89192005",
+    "pass": 3
+   },
+   {
+    "quote": "山下さんは2016年にAI事業を展開するグローバルウォーカーズ株式会社を立ち上げ、その後もアフリカを拠点とするスタートアップで事業開発を指揮するなど、国内外で幅広い挑戦を続けてきました",
+    "url": "https://note.com/stai/n/n314a89192005",
+    "pass": 3
+   },
+   {
+    "quote": "そして2022年、株式会社CAPERを創業",
+    "url": "https://note.com/stai/n/n314a89192005",
+    "pass": 3
+   },
+   {
+    "quote": "メーカーや広告代理店、他のスタートアップからも率直なフィードバックがもらえて、本当にありがたかったです",
+    "url": "https://note.com/stai/n/n314a89192005",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社CAPER - AIネイティブ採用支援 — シードラウンドで累計1億円超を調達 「各社専用のAIを育て、AIが採用を進める」新しい採用プロセスを作る株式会社CAPER、シードラウンドで累計1億円超を調達しました。 プレスリリースはこちら",
+    "url": "https://caper.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社CAPER、AI採用人事「OpenSeek」でB Dash Camp登壇決定 〜“採... — Oct 31, 2025 · AI採用人事「OpenSeek（オープンシーク）」を運営する株式会社CAPER（本社：東京都渋谷区、代表取締役：山下俊）は、2025年11月5日〜7日に開催さ ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000165302.html",
+    "pass": 3
+   },
+   {
+    "quote": "Shun Yamashita - 【繋がり申請歓迎】株式会社CAPER CEO／AI採用人事... — 概要 株式会社CAPER Founder/CEO 2016年、草創期からAIの世界に飛び込み複数の事業を経験、その後アフリカに行き (IoT SaaS)、株式会社CAPERを設立、AI・データの活用により、大きな変化を生み出すことをキャリアでは主に経験してきました。",
+    "url": "https://jp.linkedin.com/in/shun-yamashita-9b28a6111",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社CAPER、AI採用支援「OpenSeek」の事業拡大に向け、AI×人のハ... — Sep 7, 2026 · リファラル中心の採用から、計画的・継続的に母集団を形成できる状態への移行。 これらの課題に対し、AIを活用して「採用インフラの構築（JD作成・判定基準の整備）」から「実務代行」までをワンストップで担える「ツクチム」の導入を決定しました。",
+    "url": "https://tsukuteam.com/news/caper",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社CAPER｜事業内容・特徴・採用・求人 | スタクラ — ・人口減少が進む日本において、人材の流動性と最適配置を加速させ、優秀な人材と世の中の挑戦が結びつく状態をつくることが、社会を前に進める原動力になると考えています。",
+    "url": "https://startupclass.co.jp/online/companies/2122/",
+    "pass": 3
+   },
+   {
+    "quote": "Caper - Wikipedia — The plant is best known for the edible flower buds (capers), used as a seasoning or garnish, and the fruit (caper berries), both of which are usually consumed salted or pickled.",
+    "url": "https://en.wikipedia.org/wiki/Caper",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社CAPER - AIネイティブ採用支援 — 株式会社CAPERはLLMを活用したAIネイティブ採用支援ソリューション「OpenSeek」で、適材適所の未来へ導きます。",
+    "url": "https://caper.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "How to say caper in Japanese - WordHippo — Need to translate \"caper\" to Japanese? Here are 4 ways to say it.",
+    "url": "https://www.wordhippo.com/what-is/the/japanese-word-for-d9952f83c3049d2ee9ad91312f9c3253d5c18a62.html",
+    "pass": 3
+   },
+   {
+    "quote": "caper - ウィクショナリー日本語版 - Wiktionary — 名詞 編集 caper (複数: capers) ふざけて跳びはねること。 ダンス中の ジャンプ。 冗談。 （通常複数で） 悪ふざけ。 (犯罪) 犯罪 行為、特に窃盗など暴力を伴わないもの。",
+    "url": "https://ja.wiktionary.org/wiki/caper",
+    "pass": 3
+   },
+   {
+    "quote": "CAPER - Translation in Japanese - bab.la — What is the translation of \"caper\" in Japanese? For domestic use, anchovy fillets are packed in oil or salt in small tins or jars, sometimes rolled around capers. They are garnished with capers or olives and accompanied by potato chips.",
+    "url": "https://en.bab.la/dictionary/english-japanese/caper",
+    "pass": 3
+   },
+   {
+    "quote": "Soelberg's Case Study - caper.ai — Soelberg’s Market was looking to elevate the in-store experience by making checkout easier, improving coupon redemption, and meeting the needs of everyday customers who valued speed, ease and simplicity.",
+    "url": "https://www.caper.ai/case-studies/soelbergs",
+    "pass": 3
+   },
+   {
+    "quote": "Caper Knowledge Center — Read up on our Caper AI resources, including industry insights blogs, white papers and case studies.",
+    "url": "https://www.caper.ai/blog",
+    "pass": 3
+   },
+   {
+    "quote": "Solved Pizza Capers: Business Improvement Case Study - Chegg — Explain how Pizza Capers Burpengary can use the social media platform to engage its customers and advertise its product. In your explanation, discuss potential risks involved in doing business online.",
+    "url": "https://www.chegg.com/homework-help/questions-and-answers/pizza-capers-business-improvement-case-study-https-wwwleonardocomau-case-study-pizzacapers-q88562456",
+    "pass": 3
+   },
+   {
+    "quote": "Solved Pizza Capers: Business Improvement Case Study - Chegg — Feb 1, 2026 · Pizza Capers Burpengary is a not-for-profit pizza shop that operates in a highly competitive environment, trying to attract customers by providing high quality pizzas and great customer service.",
+    "url": "https://www.chegg.com/homework-help/questions-and-answers/information-technology-management-pizza-capers-business-improvement-case-study-https-wwwle-q88561306",
+    "pass": 3
+   },
+   {
+    "quote": "Caper - 2026 Company Profile, Team, Funding & Competitors ...Caper: Funding, Team & Investors | Startup IntrosCaper - 2026 Company Profile, Funding & Competitors - TracxnCaper 2026 Company Profile: Valuation, Investors, Acquisition ...Caper - Overview, News & Similar companies | ZoomInfo.comCaper – Overview – Funding, Revenue & Growth – 2026Caper — investors & funding | gritt.io — Apr 3, 2026 · Ca",
+    "url": "https://tracxn.com/d/companies/caper/__Kqp_33ZhDmpxC4POB2M6TsMpjNwqmLd2p9EOads0TW4",
+    "pass": 3
+   },
+   {
+    "quote": "Caper: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · The startup initially accelerated its growth through the Y Combinator Winter 2016 batch, and its executive team later gained recognition on the Forbes 30 Under 30 list before Gao departed to launch Dyna Robotics. Caper was founded in 2016 by Lindon Gao, Ahmed Beshry, and Yilin Huang.",
+    "url": "https://startupintros.com/orgs/caper",
+    "pass": 3
+   },
+   {
+    "quote": "Caper - 2026 Company Profile, Funding & Competitors - Tracxn — Explore Caper's in-depth company profile, including funding details, key investors, leadership, and competitors.",
+    "url": "https://tracxn.com/d/companies/caper/__z3QKyot54TXsYSyifgoxOJvhwaq6noO6mNa35HpGtJo",
+    "pass": 3
+   },
+   {
+    "quote": "Caper 2026 Company Profile: Valuation, Investors, Acquisition ...Caper - Overview, News & Similar companies | ZoomInfo.comCaper – Overview – Funding, Revenue & Growth – 2026Caper — investors & funding | gritt.io — Information on acquisition, funding, cap tables, investors, and executives for Caper. Use the PitchBook Platform to explore the full profile. Gather financial insights about Caper, inclu",
+    "url": "https://pitchbook.com/profiles/company/229083-94",
+    "pass": 3
+   },
+   {
+    "quote": "Caper - Overview, News & Similar companies | ZoomInfo.com — Gather financial insights about Caper, including details on funding rounds, investors, total funding, and acquisitions, to gain a comprehensive understanding of their financial strategy.",
+    "url": "https://www.zoominfo.com/c/caper/466531198",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "20 Business Meetings Just from Being a Resident! Why STATION ... Then, in 2022, he founded CAPER Inc. Since the end of 2024, he has been rolling out \"OpenSeek,\" an AI recruitment service that \"realizes hiring without competing with famous companies.\"",
+    "url": "https://note.com/stai/n/n314a89192005?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "入居者だけで商談20件！STATION Aiで事業が加速する理由― 株式会社CAP... Jul 30, 2025 · 株式会社CAPERを創業した山下さんも、まさにその壁に直面していました。 そんな山下さんの課題解決の糸口が見つかった場所が、愛知県名古屋市の日本最大級のオープンイノベーション拠点「STATION Ai」です。",
+    "url": "https://note.com/stai/n/n314a89192005",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "20 Business Meetings Just from Being a Resident! Why STATION Ai Accelerates Business—CAPER Inc.'s Shun Yamashita Shares His Real-World \"Growth Experience\"｜STATION Ai",
+    "url": "https://note.com/stai/n/n314a89192005?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "20 Business Meetings Just from Being a Resident! Why STATION Ai Accelerates Business—CAPER Inc.'s Shun Yamashita Shares His Real-World \"Growth Experience\"",
+    "url": "https://note.com/stai/n/n314a89192005?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "One of the unavoidable challenges for startups is \"how to gain access to large enterprises.\"",
+    "url": "https://note.com/stai/n/n314a89192005?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Shun Yamashita, founder of CAPER Inc., was facing exactly that wall.",
+    "url": "https://note.com/stai/n/n314a89192005?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The place where Yamashita found the key to solving this problem is \"STATION Ai,\" one of Japan's largest open innovation hubs located in Nagoya, Aichi Prefecture. He says that after moving in,",
+    "url": "https://note.com/stai/n/n314a89192005?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "within just a few months, it led to business meetings with over 20 companies",
+    "url": "https://note.com/stai/n/n314a89192005?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "We asked Yamashita, who says, \"What I gained by moving into STATION Ai was truly significant,\" about what actually happened.",
+    "url": "https://note.com/stai/n/n314a89192005?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Shun Yamashita, Representative Director, CAPER Inc.",
+    "url": "https://note.com/stai/n/n314a89192005?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "入居者だけで商談20件！STATION Aiで事業が加速する理由― 株式会社CAPER 山下俊さんが語る、リアルな“成長実感”｜STATION Ai",
+    "url": "https://note.com/stai/n/n314a89192005",
+    "pass": 3
+   },
+   {
+    "quote": "入居者だけで商談20件！STATION Aiで事業が加速する理由― 株式会社CAPER 山下俊さんが語る、リアルな“成長実感”",
+    "url": "https://note.com/stai/n/n314a89192005",
+    "pass": 3
+   },
+   {
+    "quote": "スタートアップにとって避けて通れない課題のひとつが、「大手企業との接点をいかに得るか」ということです。",
+    "url": "https://note.com/stai/n/n314a89192005",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社CAPERを創業した山下さんも、まさにその壁に直面していました。",
+    "url": "https://note.com/stai/n/n314a89192005",
+    "pass": 3
+   },
+   {
+    "quote": "そんな山下さんの課題解決の糸口が見つかった場所が、愛知県名古屋市の日本最大級のオープンイノベーション拠点「STATION Ai」です。入居後",
+    "url": "https://note.com/stai/n/n314a89192005",
+    "pass": 3
+   },
+   {
+    "quote": "「STATION Aiに入居することで得たものは本当に大きかった」と語る山下さんに、実際に何が起きたのかを伺いました。",
+    "url": "https://note.com/stai/n/n314a89192005",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社CAPER 代表取締役 山下俊さん",
+    "url": "https://note.com/stai/n/n314a89192005",
+    "pass": 3
+   },
+   {
+    "quote": "山下さんは2016年にAI事業を展開するグローバルウォーカーズ株式会社を立ち上げ、その後もアフリカを拠点とするスタートアップで事業開発を指揮するなど、国内外で幅広い挑戦を続けてきました。そして2022年、株式会社CAPERを創業。2024年末から、「有名企業と競争することなく採用を実現する」AI採用サービス \"OpenSeek\"の展開を進めています。",
+    "url": "https://note.com/stai/n/n314a89192005",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "CAPER (@CAPERpancreas) / Posts / X Jul 27, 2018 · CAPER Pancreas Scholars - Apply Today! This prestigious program connects top national leaders with emerging trainees, fostering mentorship, advancing research collaboration, and building a world-class network of pancreatology experts.",
+    "url": "https://x.com/CAPERpancreas",
+    "pass": 3
+   },
+   {
+    "quote": "Caper (@caperseries) / Posts / X Jun 25, 2013 · A new web series by @bergopolis & @sizemore for @geekandsundry - Watch Chapter 1 now! youtu.be/N_seu4JeBfc And at hulu.com/caper",
+    "url": "https://x.com/caperseries",
+    "pass": 3
+   },
+   {
+    "quote": "Caper George (@george_caper) / X 73 followers · 584 following. Joined May 2018. See the latest conversations with @george_caper",
+    "url": "https://x.com/george_caper",
+    "pass": 3
+   },
+   {
+    "quote": "Good Caper Content (@goodcaper) / Posts / X Dec 11, 2018 · Good Caper Content (@goodcaper) - Posts - GCC | an ITV America Label Home for crime & investigative programs. We tell real + riveting storie... | X (formerly Twitter)",
+    "url": "https://x.com/goodcaper",
+    "pass": 3
+   },
+   {
+    "quote": "Caper (@capperrr_) / Posts / X Mar 22, 2015 · 🤍 5950 📊 88563 📎 🔁 Reposted by Caper videogame music daily BR🇧🇷 music_videogame Mar 30",
+    "url": "https://x.com/capperrr_",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Caper - LinkedIn Caper | 914 followers on LinkedIn. Most food media focuses on what’s on the plate. Caper goes deeper, telling the untold stories behind the deals, dramas, characters, and systems shaping what...",
+    "url": "https://www.linkedin.com/company/capermedia/",
+    "pass": 3
+   },
+   {
+    "quote": "Caper - LinkedIn Caper | 5,507 followers on LinkedIn. Make shopping magic. | Caper is the leading AI-powered smart shopping cart on the market.",
+    "url": "https://www.linkedin.com/company/caper-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Caper - 领英 Caper Carts bring together online and offline shopping to create a seamless in-store shopping experience for customers, and drive meaningful benefits for retailers such as incremental customer...",
+    "url": "https://cn.linkedin.com/company/caper-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Caper - LinkedIn Caper Carts bring together online and offline shopping to create a seamless in-store shopping experience for customers, and drive meaningful benefits for retailers such as incremental customer...",
+    "url": "https://au.linkedin.com/company/caper-ai",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Caper - FacebookCapers: Restaurant and Bar | Kennesaw GA - FacebookFacebookFacebook - log in or sign upSimplEats - FacebookCaper S2 菱崴國際貿易有限公司 | Zhonghe DistrictCapers Emporium | New Harmony IN - Facebook Mar 6, 2026 · Grab a track, an album, or just stop by and listen — every bit of support helps us keep creating, recording, and bringing new music to you. Thank you for being part of this journey ",
+    "url": "https://www.facebook.com/CaperMusic/",
+    "pass": 3
+   },
+   {
+    "quote": "Capers: Restaurant and Bar | Kennesaw GA - FacebookFacebookFacebook - log in or sign upSimplEats - FacebookCaper S2 菱崴國際貿易有限公司 | Zhonghe DistrictCapers Emporium | New Harmony IN - Facebook Sep 18, 2019 · Come in today and try our Loup De Mer special! It's butterflied + grilled with lemon caper beurre blanc sauce and topped with our crispy fried shrimp. Yum! #seafood #fish #spinach #potatoesaugrati",
+    "url": "https://www.facebook.com/caperskennesaw/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.caper.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.caper.ai/caper-smart-cart",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.caper.ai/case-studies/soelbergs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.caper.ai/about-us",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://caper.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000165302.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/in/shun-yamashita-9b28a6111",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tsukuteam.com/news/caper",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/contract/basic/8378/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Caper",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://caper.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wordhippo.com/what-is/the/japanese-word-for-d9952f83c3049d2ee9ad91312f9c3253d5c18a62.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wiktionary.org/wiki/caper",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chegg.com/homework-help/questions-and-answers/pizza-capers-business-improvement-case-study-https-wwwleonardocomau-case-study-pizzacapers-q88562456",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.chegg.com/homework-help/questions-and-answers/information-technology-management-pizza-capers-business-improvement-case-study-https-wwwle-q88561306",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/caper/__Kqp_33ZhDmpxC4POB2M6TsMpjNwqmLd2p9EOads0TW4",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://startupintros.com/orgs/caper",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/caper/__z3QKyot54TXsYSyifgoxOJvhwaq6noO6mNa35HpGtJo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/229083-94",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/stai/n/n314a89192005?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/stai/n/n314a89192005",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/CAPERpancreas",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/caperseries",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/george_caper",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/goodcaper",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/capermedia/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/caper-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cn.linkedin.com/company/caper-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://au.linkedin.com/company/caper-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/CaperMusic/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/caperskennesaw/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/capperrr_",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Caper 日本 導入",
+   "results": [
+    "https://caper.co.jp/",
+    "https://prtimes.jp/main/html/rd/p/000000001.000165302.html",
+    "https://jp.linkedin.com/in/shun-yamashita-9b28a6111",
+    "https://tsukuteam.com/news/caper",
+    "https://startupclass.co.jp/online/companies/2122/",
+    "https://aiflash24.com/archives/2830",
+    "https://prtimes.jp/main/html/rd/p/000000003.000165302.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Caper 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://www.capgemini.com/jp-jp/about-us/overview-and-access/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Caper Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Caper",
+    "https://caper.co.jp/",
+    "https://www.wordhippo.com/what-is/the/japanese-word-for-d9952f83c3049d2ee9ad91312f9c3253d5c18a62.html",
+    "https://ja.wiktionary.org/wiki/caper",
+    "https://en.bab.la/dictionary/english-japanese/caper",
+    "https://glosbe.com/en/ja/caper",
+    "https://caper.co.jp/en"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Caper manufacturing customer case study",
+   "results": [
+    "https://www.caper.ai/case-studies/soelbergs",
+    "https://www.caper.ai/blog",
+    "https://www.chegg.com/homework-help/questions-and-answers/pizza-capers-business-improvement-case-study-https-wwwleonardocomau-case-study-pizzacapers-q88562456",
+    "https://www.chegg.com/homework-help/questions-and-answers/information-technology-management-pizza-capers-business-improvement-case-study-https-wwwle-q88561306",
+    "https://www.casestudies.com/company/capgemini/case-study/food-and-beverage-manufacturer-customer-case-study",
+    "https://www.iga.com/insights/why-smart-carts-are-the-winning-technology-format-for-independent-grocers",
+    "https://ageconsearch.umn.edu/bitstream/209685/2/caper_English.pdf"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Caper white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://www.seoreseller.com/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://www.extremenetworks.com/partners"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Caper founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/caper/__Kqp_33ZhDmpxC4POB2M6TsMpjNwqmLd2p9EOads0TW4",
+    "https://startupintros.com/orgs/caper",
+    "https://tracxn.com/d/companies/caper/__z3QKyot54TXsYSyifgoxOJvhwaq6noO6mNa35HpGtJo",
+    "https://pitchbook.com/profiles/company/229083-94",
+    "https://www.zoominfo.com/c/caper/466531198",
+    "https://compworth.com/company/caper",
+    "https://www.gritt.io/company/caper-ai/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Caper",
+   "results": [
+    "https://note.com/muratamika2021",
+    "https://note.com/stai/n/n314a89192005?hl=en",
+    "https://note.com/stai/n/n314a89192005",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/gosship7/n/nb2f641179d95"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Caper",
+   "results": [
+    "https://x.com/CAPERpancreas",
+    "https://x.com/caperseries",
+    "https://x.com/george_caper",
+    "https://x.com/goodcaper",
+    "https://x.com/AndCapernosity",
+    "https://x.com/Caper000/status/2119378305757364626",
+    "https://x.com/Caper000/status/2119437790375010524"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Caper",
+   "results": [
+    "https://www.linkedin.com/company/capermedia/",
+    "https://www.linkedin.com/company/caper-ai",
+    "https://cn.linkedin.com/company/caper-ai",
+    "https://au.linkedin.com/company/caper-ai",
+    "https://in.linkedin.com/in/vishal-jaiswal-8566673a",
+    "https://hr.linkedin.com/company/caper-d-o-o-",
+    "https://uk.linkedin.com/in/charlotte-capelin-a36545209"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Caper",
+   "results": [
+    "https://www.facebook.com/CaperMusic/",
+    "https://www.facebook.com/caperskennesaw/",
+    "https://lite.facebook.com/",
+    "https://secure.facebook.com/",
+    "https://business.facebook.com/groups/616220149158606/",
+    "https://www.facebook.com/people/Caper-S2-菱崴國際貿易有限公司/100063660649537/",
+    "https://www.facebook.com/CapersEmporium/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Caper note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Caper X 投稿",
+   "results": [
+    "https://x.com/capperrr_",
+    "https://x.com/koganezikcapera/status/2119834106238476757",
+    "https://min-biz.net/zapier-x-auto-posting-guide-2026/",
+    "https://note.com/mgane/n/n1c0d7384c8a0",
+    "https://help.x.com/ja/using-x/how-to-post",
+    "https://www.witha.jp/sns・マーケティング/x-posting-guide-beginners/",
+    "https://help.x.com/ja/using-x/posting-gifs-and-pictures"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部35頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部35頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部35頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部35頁・検索12回）"
+ }
+}

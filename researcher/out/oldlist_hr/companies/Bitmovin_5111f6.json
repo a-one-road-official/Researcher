@@ -1,0 +1,897 @@
+{
+ "name": "Bitmovin",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜未接触",
+ "researched_at": "2026-11-10T18:34:47.667260+00:00",
+ "official_url": "http://bitmovin.com",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2013 ; 13 years ago ( 2013 )",
+    "url": "https://en.wikipedia.org/wiki/Bitmovin",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "San Francisco, CA , United States",
+    "url": "https://en.wikipedia.org/wiki/Bitmovin",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$89.5M",
+    "url": "https://getlatka.com/companies/bitmovin",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "AI Session Interpreter＆MCPサーバ",
+    "url": "https://www.itochu-cable.co.jp/products/3129/",
+    "pass": 3
+   },
+   {
+    "quote": "リアルタイムモニタリング, Observabilityアラート, セッショントラッキング, Top Errors, エラーデータ, Network Explorer, ビットレートヒートマップ, 国別分析, SSAI／CSAI Analytics, AI Session Interpreter, API Explorer",
+    "url": "https://www.itochu-cable.co.jp/products/3129/",
+    "pass": 3
+   },
+   {
+    "quote": "MPEG-1／2／4 Video, H.261, H.262, H.263, H.264/AVC, H.265/HEVC, VP6, VP8, VP9, DNxHD, Theora, XDCAM, XDCAM HD22, XDCAM IMX, DV, DVCPRO, DVCPRO HD, ProRes, AVCHD, AVC-Intra, Cineform HD, Intel Indeo, JPEG 2000",
+    "url": "https://www.itochu-cable.co.jp/products/3112/",
+    "pass": 3
+   },
+   {
+    "quote": "AAC, MP3, DTS Express, FLAC, WMA, Vorbis, PCM, WAV, ALAC, Dolby Atmos（DAMF／ADM）, Dolby Digital（AC-3）, Dolby Digital Plus（E-AC-3）, Dolby E",
+    "url": "https://www.itochu-cable.co.jp/products/3112/",
+    "pass": 3
+   },
+   {
+    "quote": "：MPEG-DASH, Apple HLS, Progressive MP4, Smooth Streaming",
+    "url": "https://www.itochu-cable.co.jp/products/3112/",
+    "pass": 3
+   },
+   {
+    "quote": "H.264/AVC, H.265/HEVC, MV-HEVC, VP8, VP9, AV1, MPEG-4 Video, MPEG-2 Video（XDCAM HD 422）",
+    "url": "https://www.itochu-cable.co.jp/products/3112/",
+    "pass": 3
+   },
+   {
+    "quote": "AAC-LC, HE-AACv1, HE-AACv2, MP2, MP3, DTS Express, DTS:HD, DTS:X, Vorbis, Opus, Dolby Atmos, Dolby Digital, Dolby Digital Plus",
+    "url": "https://www.itochu-cable.co.jp/products/3112/",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud Data Loss Prevention",
+    "url": "https://cloud.google.com/customers/bitmovin?hl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "VirusTotal Enterprise",
+    "url": "https://cloud.google.com/customers/bitmovin?hl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Google Cloud Affiliate Program",
+    "url": "https://cloud.google.com/customers/bitmovin?hl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/Bitmovin",
+    "pass": 3
+   },
+   {
+    "quote": "is a multimedia technology company which provides services that",
+    "url": "https://en.wikipedia.org/wiki/Bitmovin",
+    "pass": 3
+   },
+   {
+    "quote": "that allows streaming video to be played in",
+    "url": "https://en.wikipedia.org/wiki/Bitmovin",
+    "pass": 3
+   },
+   {
+    "quote": "The company provides the cloud-based transcoding service bitcodin,",
+    "url": "https://en.wikipedia.org/wiki/Bitmovin",
+    "pass": 3
+   },
+   {
+    "quote": "ultra-high definition video",
+    "url": "https://en.wikipedia.org/wiki/Bitmovin",
+    "pass": 3
+   },
+   {
+    "quote": "Live or on-demand transcoding of video or audio streaming to",
+    "url": "https://en.wikipedia.org/wiki/Bitmovin",
+    "pass": 3
+   },
+   {
+    "quote": "\"The List of the 100 Companies that Matter Most in Online Video in 2014 - Streaming Media Magazine\"",
+    "url": "https://en.wikipedia.org/wiki/Bitmovin",
+    "pass": 3
+   },
+   {
+    "quote": "Christian Timmerer (8 April 2014).",
+    "url": "https://en.wikipedia.org/wiki/Bitmovin",
+    "pass": 3
+   },
+   {
+    "quote": "\"Y Combinator-backed bitcodin turns your films into netflix-quality video\"",
+    "url": "https://en.wikipedia.org/wiki/Bitmovin",
+    "pass": 3
+   },
+   {
+    "quote": "\"Bitmovin Intros Website for Bitdash MPEG-DASH Video Players\"",
+    "url": "https://en.wikipedia.org/wiki/Bitmovin",
+    "pass": 3
+   },
+   {
+    "quote": "\"How Bitmovin leverage MP4Box to package their contents for their bitdash player\"",
+    "url": "https://en.wikipedia.org/wiki/Bitmovin",
+    "pass": 3
+   },
+   {
+    "quote": "Internet properties established in 2013",
+    "url": "https://en.wikipedia.org/wiki/Bitmovin",
+    "pass": 3
+   },
+   {
+    "quote": ", a non-profit organization.",
+    "url": "https://en.wikipedia.org/wiki/Bitmovin",
+    "pass": 3
+   },
+   {
+    "quote": "Zencoder is a cloud-based video and audio encoding product suite from Brightcove (NASDAQ: BCOV), a leading global provider of cloud content services. The Zencoder service provides customers with high quality, …",
+    "url": "https://www.featuredcustomers.com/vendor/bitmovin/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Wowza is the recognized gold standard of streaming, with more than 20,000 customers in 170+ countries. By reducing the complexities of video and audio delivery to any device, Wowza enables …",
+    "url": "https://www.featuredcustomers.com/vendor/bitmovin/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Kaltura provides the world's first and only Open Source Online Video Platform. Kaltura's platform includes industry-leading media management applications as well as a framework for developing custom applications. That basically …",
+    "url": "https://www.featuredcustomers.com/vendor/bitmovin/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Let potential prospects find you on the world's only",
+    "url": "https://www.featuredcustomers.com/vendor/bitmovin/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/bitmovin/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "FREE and learn about our upgraded profile options to",
+    "url": "https://www.featuredcustomers.com/vendor/bitmovin/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "unlock all of your customer references for prospects",
+    "url": "https://www.featuredcustomers.com/vendor/bitmovin/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/bitmovin/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Bitmovin achieves real-time, ultra-fast video transcoding (turning hours into minutes) with Google Cloud Platform",
+    "url": "https://www.casestudies.com/customer/bitmovin",
+    "pass": 3
+   },
+   {
+    "quote": "Director of Product Management",
+    "url": "https://www.casestudies.com/customer/bitmovin",
+    "pass": 3
+   },
+   {
+    "quote": "Bitmovin achieves faster onboarding and stronger security with Okta",
+    "url": "https://www.casestudies.com/customer/bitmovin",
+    "pass": 3
+   },
+   {
+    "quote": "Bitmovin.com is a multimedia technology company that provides video infrastructure solutions for online media companies and enterprises.",
+    "url": "https://getlatka.com/companies/bitmovin",
+    "pass": 3
+   },
+   {
+    "quote": "Bitmovin has raised $89.5M across four rounds since 2016. The latest was a $25M funding round in April 2021.",
+    "url": "https://getlatka.com/companies/bitmovin",
+    "pass": 3
+   },
+   {
+    "quote": "Apr 2021",
+    "url": "https://getlatka.com/companies/bitmovin",
+    "pass": 3
+   },
+   {
+    "quote": "Apr 2018",
+    "url": "https://getlatka.com/companies/bitmovin",
+    "pass": 3
+   },
+   {
+    "quote": "across four funding rounds. The latest was a $25M funding round in April 2021.",
+    "url": "https://getlatka.com/companies/bitmovin",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/bitmovin",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/bitmovin",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Bitmovin Observability | 製品・ソリューション | 映像伝送と通信のSIer：伊藤忠ケーブルシステム株式会社",
+    "url": "https://www.itochu-cable.co.jp/products/3129/",
+    "pass": 3
+   },
+   {
+    "quote": "Bitmovin Observabilityは、放送局・OTT・ライブ配信事業者に採用されています（Bitmovin公表の採用企業・導入事例より）",
+    "url": "https://www.itochu-cable.co.jp/products/3129/",
+    "pass": 3
+   },
+   {
+    "quote": "Bitmovin VOD Encoder | 製品・ソリューション | 映像伝送と通信のSIer：伊藤忠ケーブルシステム株式会社",
+    "url": "https://www.itochu-cable.co.jp/products/3112/",
+    "pass": 3
+   },
+   {
+    "quote": "Bitmovin の GCP 導入事例 | Google Cloud",
+    "url": "https://cloud.google.com/customers/bitmovin?hl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "📍 ウェスティンホテル東京 B1階 桜B",
+    "url": "https://go.bitmovin.com/ja-jp/luncheon-japan",
+    "pass": 3
+   },
+   {
+    "quote": "この特別なランチイベントでは、日本における動画ストリーミング業界の変化と進化をテーマに、選ばれた業界リーダーたちが集い、有意義な対話を交わします",
+    "url": "https://go.bitmovin.com/ja-jp/luncheon-japan",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Solutions for live and on-demand video workflows - Bitmovin — Bitmovin empowers businesses to deliver video content to global audiences reliably, on more devices than ever before and in the highest quality possible.",
+    "url": "https://bitmovin.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Bitmovin Observability | 製品・ソリューション | 映像伝送と通信のS... — Bitmovin Observability の詳細や導入をご検討中の企業様は、以下よりお気軽にお問い合わせください。 今お使いのプレイヤー環境に合わせて、最適な計測構成をご提案します。 メール： bitmovin-support@itochu-cable.co.jp 電話： 03-6277-1824 受付時間： 平日 9:00〜17:00",
+    "url": "https://www.itochu-cable.co.jp/products/3129/",
+    "pass": 3
+   },
+   {
+    "quote": "Bitmovin VOD Encoder | 製品・ソリューション | 映像伝送と通信のSIe... — Bitmovin Encoder 8K・マルチHDR時代の高画質と、圧倒的なエンコード速度を両立するクラウド型エンコーディングプラットフォーム。 VoD向けのVOD Encoderを中心に、ライブ向けのLive Encoderまで、放送・配信事業者様のワークフローに合わせてご提案します。",
+    "url": "https://www.itochu-cable.co.jp/products/3112/",
+    "pass": 3
+   },
+   {
+    "quote": "Bitmovin の GCP 導入事例 | Google Cloud — Google Compute Engine でビデオのトランスコーディングを数時間から数分に短縮した Bitmovin の Google Cloud Platform 導入事例",
+    "url": "https://cloud.google.com/customers/bitmovin?hl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "動画配信歴30年の事業者が 動画配信歴30年の事業者がBitmovin を — 今回お話しすること なぜBitmovinの導入を決めたのか? 動画配信事業者から見たbitmovinのありがたさ 導入時の難しさ 弊社の\" 狙い\" なぜBitmovinの導入を決めたのか?",
+    "url": "https://www.digi-c.co.jp/dcms_media/other/Akamai-Bitmovin_20250717.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Bitmovin - Wikipedia — Bitmovin is a multimedia technology company which provides services that transcode digital video and audio to streaming formats using cloud computing, and streaming media players.",
+    "url": "https://en.wikipedia.org/wiki/Bitmovin",
+    "pass": 3
+   },
+   {
+    "quote": "Solutions for live and on-demand video workflows - Bitmovin — Integrated with every major cloud and solution provider, Bitmovin ensures seamless integration, unmatched reliability, and scalability, enhancing your viewer’s experience and helping you reduce costs.",
+    "url": "https://bitmovin.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Bitmovin & Akamai: Exclusive Luncheon — BitmovinとAkamaiが共催する、完全招待制のエクスクルーシブ・ランチョンにぜひご参加ください。 この特別なランチイベントでは、日本における動画ストリーミング業界の変化と進化をテーマに、選ばれた業界リーダーたちが集い、有意義な対話を交わします。",
+    "url": "https://go.bitmovin.com/ja-jp/luncheon-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Hulu in Japan selects Bitmovin to deliver next-generation ... — Bitmovin, a world leader in online video technology, announces that Hulu in Japan, a leader of online video streaming service operated by HJ Holdings, Inc. Minato-ku, Tokyo, President: Hiroyuki Oho, hereinafter referred to as HJ, in collaboration with PLAY Inc., a leading company of Online Video…",
+    "url": "https://www.productionhub.com/press/68297/hulu-in-japan-selects-bitmovin-to-deliver-next-generation-online-experiences",
+    "pass": 3
+   },
+   {
+    "quote": "Customer showcases - Bitmovin — View our latest case-studies from the companies we work with to discover how we help content providers control costs, optimize operations and improve the end user viewing experience better than the competition.",
+    "url": "https://bitmovin.com/customer-showcase/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study Archives - Bitmovin — Building Better Together with the Bitmovin Innovators Network Over the past 3-4 years, each industry that streams video has changed significantly. Depending on the company’s size, cloud adoption for streaming workloads before 2020 was driven by leading-edge “builders” with the technical expertise and in-house resources to experiment.",
+    "url": "https://bitmovin.com/tag/case-study",
+    "pass": 3
+   },
+   {
+    "quote": "60 Bitmovin Case Studies, Success Stories, & Customer StoriesB2B Case Studies: How Bitmovin Uses Software & ServicesBitmovin B2B Case Studies & Customer SuccessesHow Bitmovin Reduced Contracting Costs by 75% with IroncladHow Bitmovin's RevOps Team Runs Its Own CPQ - DealHub AI — Narrow down 60 case studies by company size & industry to find out how Bitmovin works for a business like yours. Explore",
+    "url": "https://www.featuredcustomers.com/vendor/bitmovin/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How Bitmovin Uses Software & Services — Explore case studies featuring Bitmovin as the customer — learn how vendors and partners helped Bitmovin solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/bitmovin",
+    "pass": 3
+   },
+   {
+    "quote": "Bitmovin B2B Case Studies & Customer Successes — See how Bitmovin solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/bitmovin",
+    "pass": 3
+   },
+   {
+    "quote": "Bitmovin - 2025 Company Profile, Team, Funding & Competitors ...Bitmovin Revenue 2023: $22.3M, $89.5M Raised - LATKABitmovin 2026 Company Profile: Valuation, Funding & Investors ...Bitmovin - Crunchbase Company Profile & FundingBitmovin – Industry Ranking & Company Valuation – 2026Bitmovin: Funding, Investors & Team (Oct 2026) | FundedIQBitmovin - Overview, News & Similar companies | ZoomInfo.com ",
+    "url": "https://tracxn.com/d/companies/bitmovin/__kEhNRB2huYympJ3bzOrEuVobE-torocOq-HOMuMgO70",
+    "pass": 3
+   },
+   {
+    "quote": "Bitmovin Revenue 2023: $22.3M, $89.5M Raised - LATKA — Oct 13, 2026 · Bitmovin 2023 revenue: $22.3M (up from $18.6M in 2022). Total funding: $89.5M across 4 rounds. 250 customers, 166 employees. Updated Oct 13, 2026.",
+    "url": "https://getlatka.com/companies/bitmovin",
+    "pass": 3
+   },
+   {
+    "quote": "Bitmovin 2026 Company Profile: Valuation, Funding & Investors ...Bitmovin - Crunchbase Company Profile & FundingBitmovin – Industry Ranking & Company Valuation – 2026Bitmovin: Funding, Investors & Team (Oct 2026) | FundedIQBitmovin - Overview, News & Similar companies | ZoomInfo.com — Information on valuation, funding, cap tables, investors, and executives for Bitmovin. Use the PitchBook Platform ",
+    "url": "https://pitchbook.com/profiles/company/66003-22",
+    "pass": 3
+   },
+   {
+    "quote": "Bitmovin - Crunchbase Company Profile & Funding — Bitmovin offers API-based products to help developers solve the most complex video problems with cloud native software that runs anywhere. The company was founded in 2013 by Stefan Lederer, Christopher Müller and Christian Timmerer.",
+    "url": "https://www.crunchbase.com/organization/bitmovin",
+    "pass": 3
+   },
+   {
+    "quote": "Bitmovin – Industry Ranking & Company Valuation – 2026 — Discover Bitmovin's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/bitmovin",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "In 2014 the company secured an investment round with the venture capital fond Speedinvest and Constantia Industries. In 2014, the company was part of the top 100 companies in online media.",
+    "url": "https://en.wikipedia.org/wiki/Bitmovin",
+    "pass": 3
+   },
+   {
+    "quote": "Zencoder is a cloud-based video and audio encoding product suite from Brightcove (NASDAQ: BCOV), a leading global provider of cloud content services. The Zencoder service provides customers with high quality, …",
+    "url": "https://www.featuredcustomers.com/vendor/bitmovin/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/bitmovin/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Bitmovin Accelerates Revenue Operations with DealHub",
+    "url": "https://www.casestudies.com/customer/bitmovin",
+    "pass": 3
+   },
+   {
+    "quote": "Head of Revenue Operations",
+    "url": "https://www.casestudies.com/customer/bitmovin",
+    "pass": 3
+   },
+   {
+    "quote": "Bitmovin Revenue 2023: $22.3M, $89.5M Raised",
+    "url": "https://getlatka.com/companies/bitmovin",
+    "pass": 3
+   },
+   {
+    "quote": "Bitmovin's annual revenue was $22.3M in October 2023, the most recent reported figure. That is up 20% from $18.6M a year earlier.",
+    "url": "https://getlatka.com/companies/bitmovin",
+    "pass": 3
+   },
+   {
+    "quote": "All 4 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/bitmovin",
+    "pass": 3
+   },
+   {
+    "quote": "Bitmovin CEO & employees",
+    "url": "https://getlatka.com/companies/bitmovin",
+    "pass": 3
+   },
+   {
+    "quote": "Stefan Lederer is CEO of Bitmovin. Bitmovin had 166 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/bitmovin",
+    "pass": 3
+   },
+   {
+    "quote": "Chief Revenue Officer (CRO)",
+    "url": "https://getlatka.com/companies/bitmovin",
+    "pass": 3
+   },
+   {
+    "quote": "What is Bitmovin's revenue?",
+    "url": "https://getlatka.com/companies/bitmovin",
+    "pass": 3
+   },
+   {
+    "quote": "Bitmovin's annual revenue was",
+    "url": "https://getlatka.com/companies/bitmovin",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Bitmovin have?",
+    "url": "https://getlatka.com/companies/bitmovin",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/bitmovin",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/bitmovin",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/bitmovin",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/bitmovin",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/bitmovin/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories about Software and Services used by Bitmovin",
+    "url": "https://www.casestudies.com/customer/bitmovin",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/bitmovin/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/bitmovin/case-studies",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Bitmovin (@bitmovin) / Posts / X 🚀 Bitmovin's Innovators Network has been focused on Building Better Together🚀 That means working with streaming platforms and partners to innovate and make best-of-breed solutions.",
+    "url": "https://x.com/bitmovin",
+    "pass": 3
+   },
+   {
+    "quote": "Ultra HD 4k news on X: \".@Bitmovin Encoder V3 feature ... .@Bitmovin Encoder V3 feature releases this week: - AV1 with Dolby Vision Profile 10 HDR - VP9 as well as AV1 now with HDR10 https://t.co/rSmGdKtQDf via @slederer @smole3",
+    "url": "https://x.com/UHD4k/status/2114988585506193758",
+    "pass": 3
+   },
+   {
+    "quote": "Steinacher David (@stonko1994) / Posts / X Steinacher David (@stonko1994) - Posts - Senior iOS Developer @bitmovin | Creator of @ClockeyApp and @ScoretasticApp | 🏎️ 🏈 🎮 | X (formerly Twitter)",
+    "url": "https://x.com/stonko1994",
+    "pass": 3
+   },
+   {
+    "quote": "‼️ Thmanyah allegedly breached: 107,084 subscriber emails ... ‼️🇸🇦 Thmanyah allegedly breached: 107,084 subscriber emails and a Bitmovin license key exposed from the leading Arabic podcast and media-tech platform",
+    "url": "https://x.com/DarkWebInformer/status/2054949239558463938",
+    "pass": 3
+   },
+   {
+    "quote": "Bitmovin (@bitmovin) / Posts / X Bitmovin (@bitmovin) - Posts - We are the Emmy award-winning category leader in video streaming infrastructure. | X (formerly Twitter)",
+    "url": "https://x.com/bitmovin",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Bitmovin - LinkedIn Bitmovin built the world’s first commercial adaptive streaming player and deployed the first software-defined encoding service that runs on any cloud platform.",
+    "url": "https://www.linkedin.com/company/bitmovin",
+    "pass": 3
+   },
+   {
+    "quote": "Bitmovin - LinkedIn Bitmovin is the Emmy Award-winning leader in video streaming infrastructure, providing cloud-native APIs to encode, play, and analyze video — helping organizations deliver the highest quality ...",
+    "url": "https://www.linkedin.com/products/bitmovin/",
+    "pass": 3
+   },
+   {
+    "quote": "Bitmovin | LinkedIn Bitmovin is the Emmy award-winning category leader in video streaming infrastructure. The company has been at the forefront of industry innovation and all major developments in the online video...",
+    "url": "https://at.linkedin.com/company/bitmovin",
+    "pass": 3
+   },
+   {
+    "quote": "Barney Withers Green - Bitmovin | LinkedInJames Varndell - Bitmovin | LinkedInChris Mueller – Bitmovin | LinkedInAdam Massaro - Bitmovin | LinkedIn Experience: Bitmovin · Education: St. Mary's College · Location: London · 500+ connections on LinkedIn. View Barney Withers Green’s profile on LinkedIn, a professional community of 1 billion... Sep 1, 2026 · Experience: Bitmovin · Education: University",
+    "url": "https://uk.linkedin.com/in/barney-withers-green-39746515",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "BuyDRM - BuyDRM and Bitmovin Join Forces To Create... - Facebook FuboTV partnered up with online streaming solutions provider Bitmovin and leading Digital Rights Management (DRM) provider BuyDRM in order to take their online service to the next level.",
+    "url": "https://www.facebook.com/buydrm/posts/buydrm-and-bitmovin-join-forces-to-create-improved-drm-solutions-for-fubotvs-liv/2068640659817750/",
+    "pass": 3
+   },
+   {
+    "quote": "Irdeto | Hoofddorp - FacebookFinal Cut Pro Users | Hello! Need advice for the encoding ...Difference Between 720p X264 and 720p X265 - Facebook May 28, 2026 · Bitmovin awards recognize and celebrate the individuals and organizations championing Diversity, Equity, Inclusion, and Belonging (DEIB), as well as a broader scope of sustainability, in the industry. Oct 11, 2024 · Stat: According to Bitmov",
+    "url": "https://www.facebook.com/officialirdeto/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://bitmovin.com/",
+    "status": "http_403",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.itochu-cable.co.jp/products/3129/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itochu-cable.co.jp/products/3112/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloud.google.com/customers/bitmovin?hl=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chigai2.fromation.co.jp/archives/30533",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/Bitcoin_Japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Bitmovin",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go.bitmovin.com/ja-jp/luncheon-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/bitmovin/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/bitmovin",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.upcounsel.com/reseller-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/groups/2356868454775088/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tracxn.com/d/companies/bitmovin/__kEhNRB2huYympJ3bzOrEuVobE-torocOq-HOMuMgO70",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/bitmovin",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/66003-22",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/bitmovin",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/bitmovin",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/UHD4k/status/2114988585506193758",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/stonko1994",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/DarkWebInformer/status/2054949239558463938",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/bitmovin",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/bitmovin/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://at.linkedin.com/company/bitmovin",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/barney-withers-green-39746515",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/buydrm/posts/buydrm-and-bitmovin-join-forces-to-create-improved-drm-solutions-for-fubotvs-liv/2068640659817750/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/officialirdeto/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/bitmovin",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Bitmovin 日本 導入",
+   "results": [
+    "https://bitmovin.com/",
+    "https://www.itochu-cable.co.jp/products/3129/",
+    "https://www.itochu-cable.co.jp/products/3112/",
+    "https://cloud.google.com/customers/bitmovin?hl=ja",
+    "https://www.digi-c.co.jp/dcms_media/other/Akamai-Bitmovin_20250717.pdf",
+    "https://www.digitalstudiome.com/broadcast/33111-hulu-japan-selects-bitmovin-for-its-service-delivery",
+    "https://go.bitmovin.com/ja/ibc-live-product-demo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Bitmovin 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://bitmovin.com/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://chigai2.fromation.co.jp/archives/30533",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://context.reverso.net/翻訳/日本語-英語/総代理店",
+    "https://kathalo.com/kathalog/import-business/1027/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Bitmovin Japan",
+   "results": [
+    "https://ja.wikipedia.org/wiki/Bitcoin_Japan",
+    "https://en.wikipedia.org/wiki/Bitmovin",
+    "https://bitmovin.com/",
+    "https://go.bitmovin.com/ja-jp/luncheon-japan",
+    "https://www.productionhub.com/press/68297/hulu-in-japan-selects-bitmovin-to-deliver-next-generation-online-experiences",
+    "https://www.itochu-cable.co.jp/products/3112/",
+    "https://www.digitalstudiome.com/broadcast/33111-hulu-japan-selects-bitmovin-for-its-service-delivery",
+    "https://www.linkedin.com/posts/stefanlederer_bitmovin-is-heading-to-svg-japan-2025-activity-7294568798060187648-9aYd"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Bitmovin manufacturing customer case study",
+   "results": [
+    "https://bitmovin.com/customer-showcase/",
+    "https://bitmovin.com/tag/case-study",
+    "https://www.featuredcustomers.com/vendor/bitmovin/case-studies",
+    "https://www.casestudies.com/customer/bitmovin",
+    "https://www.casestudies.com/company/bitmovin",
+    "https://ironcladapp.com/resources/customer-stories/bitmovin",
+    "https://dealhub.io/customers/case-study-bitmovin/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Bitmovin white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://bitmovin.com/",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.facebook.com/groups/2356868454775088/",
+    "https://www.facebook.com/groups/1390590848697838/",
+    "https://www.youtube.com/@resellerrevenue",
+    "https://www.youtube.com/shorts/ho_a9Q2lqMw"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Bitmovin founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/bitmovin/__kEhNRB2huYympJ3bzOrEuVobE-torocOq-HOMuMgO70",
+    "https://getlatka.com/companies/bitmovin",
+    "https://pitchbook.com/profiles/company/66003-22",
+    "https://www.crunchbase.com/organization/bitmovin",
+    "https://compworth.com/company/bitmovin",
+    "https://fundediq.co/bitmovin-bitmovin-com-funding/",
+    "https://www.zoominfo.com/c/bitmovin-inc/356388572"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Bitmovin",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com Bitmovin",
+   "results": [
+    "https://x.com/bitmovin",
+    "https://x.com/UHD4k/status/2114988585506193758",
+    "https://x.com/stonko1994",
+    "https://x.com/DarkWebInformer/status/2054949239558463938",
+    "https://x.com/xoeeie/status/2118049984436445429",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/cozyfades/status/2116167172049530978"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Bitmovin",
+   "results": [
+    "https://www.linkedin.com/company/bitmovin",
+    "https://www.linkedin.com/products/bitmovin/",
+    "https://at.linkedin.com/company/bitmovin",
+    "https://uk.linkedin.com/in/barney-withers-green-39746515",
+    "https://uk.linkedin.com/in/jvarndell",
+    "https://at.linkedin.com/in/bitmovin-chris",
+    "https://it.linkedin.com/in/adammassaro"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Bitmovin",
+   "results": [
+    "https://www.facebook.com/buydrm/posts/buydrm-and-bitmovin-join-forces-to-create-improved-drm-solutions-for-fubotvs-liv/2068640659817750/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/\u0000jperes88/",
+    "https://www.facebook.com/officialirdeto/",
+    "https://www.facebook.com/fb-answers/difference-between-720p-x264-and-720p-x265/",
+    "https://www.facebook.com/bitmovin/",
+    "https://www.facebook.com/groups/FCPXUsers/posts/8309256495852448/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Bitmovin note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/ncc37a1d4aa0b",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.com/sanshita_note/n/n06e080c63da4",
+    "https://note.com/novel_cobra5771/n/nd71366d1c5e1"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Bitmovin X 投稿",
+   "results": [
+    "https://x.com/bitmovin",
+    "https://bitmovin.com/",
+    "https://x.com/M_bit_Project/status/2118540161269027205",
+    "https://addness.co.jp/media/twitter-video-posting/",
+    "https://note.com/aoashi_xlab/n/n4eba2bcad559",
+    "https://addness.co.jp/media/x-movie/",
+    "https://clipchamp.com/ja/blog/how-to-post-videos-on-twitter/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）"
+ }
+}

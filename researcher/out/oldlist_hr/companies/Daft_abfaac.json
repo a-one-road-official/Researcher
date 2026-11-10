@@ -1,0 +1,1189 @@
+{
+ "name": "Daft",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-10T18:19:38.532978+00:00",
+ "official_url": "https://www.daft.ai/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "From raw multimodal data to training-ready datasets.",
+    "url": "https://www.daft.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Process video, images, audio, and sensor data alongside structured metadata in a single dataframe.",
+    "url": "https://www.daft.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“Daft was incredible at large volumes of abnormally shaped workloads - I pointed it at 16,000 small Parquet files in a self-hosted S3 service and it just worked! It's the data engine built for the cloud and AI workloads.”",
+    "url": "https://www.daft.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Open-source data engine (Apache 2.0) with more than 5k GitHub stars, in production at companies like Amazon and Essential AI.",
+    "url": "https://www.daft.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "If you know Pandas or Spark, you know Daft. Load a dataset, filter, transform, and export to training format in a few lines.",
+    "url": "https://www.daft.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "file, prompt, embed_text",
+    "url": "https://www.daft.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "from daft.functions import file, prompt, embed_text",
+    "url": "https://www.daft.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "provider=\"openai\",",
+    "url": "https://www.daft.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "# Given a sample product listing",
+    "url": "https://www.daft.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "(\"product_meta\",",
+    "url": "https://www.daft.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "(\"product_meta\")[\"has_pii\"]",
+    "url": "https://www.daft.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "from daft.functions import prompt",
+    "url": "https://www.daft.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "class ProductMetadata(BaseModel):",
+    "url": "https://www.daft.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "price: float = Field(ge=0)",
+    "url": "https://www.daft.ai/",
+    "pass": 1
+   },
+   {
+    "quote": ".with_column(\"product_meta\",",
+    "url": "https://www.daft.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "return_format=ProductMetadata,",
+    "url": "https://www.daft.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "col(\"product_meta\")[\"has_pii\"]",
+    "url": "https://www.daft.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Daft handles text, images, and other modalities in one place, producing consistent outputs for downstream systems like search, analytics, and product catalogs.",
+    "url": "https://www.daft.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "(text, prompt)",
+    "url": "https://www.daft.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "(df[\"extracted\"], prompt",
+    "url": "https://www.daft.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "def extract_content(document) -> str:",
+    "url": "https://www.daft.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "def openai_o3_mini(text, prompt) -> str:",
+    "url": "https://www.daft.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "df = df.with_column(\"extracted\", extract_content(df[\"document\"]))",
+    "url": "https://www.daft.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "df = df.with_column(\"revenue\", openai_o3_mini(df[\"extracted\"], prompt=\"What is the quarterly revenue?\"))",
+    "url": "https://www.daft.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The workflow leverages Daft's Rust-based file downloader (40x faster than the competition) to process financial PDFs, extract content from embedded images and documents, and deploy LLMs to identify specific data points like quarterly revenue.",
+    "url": "https://www.daft.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"The Prime Time Of Your Life\" (2006年)",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%95%E3%83%88%E3%83%BB%E3%83%91%E3%83%B3%E3%82%AF",
+    "pass": 3
+   },
+   {
+    "quote": "premini (SO213i)",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%95%E3%83%88%E3%83%BB%E3%83%91%E3%83%B3%E3%82%AF",
+    "pass": 3
+   },
+   {
+    "quote": "Daft Punk Leads Debut-Filled Top Four on Billboard 200 Album Chart",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%95%E3%83%88%E3%83%BB%E3%83%91%E3%83%B3%E3%82%AF",
+    "pass": 3
+   },
+   {
+    "quote": "Daft Punk - Prime (2012 Unfinished) (Official Audio)",
+    "url": "https://www.youtube.com/watch?v=sBvJUdBeY5s",
+    "pass": 3
+   },
+   {
+    "quote": "Daft Punk - Instant Crush (Official Video) ft. Julian Casablancas",
+    "url": "https://www.youtube.com/watch?v=sBvJUdBeY5s",
+    "pass": 3
+   },
+   {
+    "quote": "Watch more videos of Daft Punk:",
+    "url": "https://www.youtube.com/watch?v=sBvJUdBeY5s",
+    "pass": 3
+   },
+   {
+    "quote": "Furniture can better express who you are.",
+    "url": "https://daft-about-draft.com/pages/en",
+    "pass": 3
+   },
+   {
+    "quote": "Flagship Store of Playful New Product Brand, “DAFT about DRAFT” Opens in Omotesando | DRAFT",
+    "url": "https://draft.co.jp/en/journal/1402/",
+    "pass": 3
+   },
+   {
+    "quote": "Flagship Store of Playful New Product Brand, “DAFT about DRAFT” Opens in Omotesando",
+    "url": "https://draft.co.jp/en/journal/1402/",
+    "pass": 3
+   },
+   {
+    "quote": "Let the Furniture Express You More.",
+    "url": "https://draft.co.jp/en/journal/1402/",
+    "pass": 3
+   },
+   {
+    "quote": "◆ An Abundance of Original Products and Trinkets for Self-Expression",
+    "url": "https://draft.co.jp/en/journal/1402/",
+    "pass": 3
+   },
+   {
+    "quote": "The Omotesando flagship store will feature an area where anyone can drop in freely and a reservation-only flagship store for a deeper experience. Our sales associates will be there to assist each and every customer in finding the perfect product to enhance their lifestyle.",
+    "url": "https://draft.co.jp/en/journal/1402/",
+    "pass": 3
+   },
+   {
+    "quote": "The former contains the same content as \"Homework\" at the time of its release, starting with \"Daftendirekt\" and closing with \"Funk Ad,\" which is a reversed version of the fourth track, \"Da Funk.\" The sound, which blends the hot impulses of when they were playing house music most innocently with a rustic quality, is still deeply satisfying to listen to today.",
+    "url": "https://note.com/masayakondo/n/n4db8d4aba314?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ". This remix was released in 1997, so considering that, it could be said that it anticipated the production of music that would later cause a sensation.",
+    "url": "https://note.com/masayakondo/n/n4db8d4aba314?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"I was 80, sat in a care home, and I kept saying to the nurses 'just play it again pls'\" - This is the dream Fred again.. wrote about in the YouTube description of the video we are introducing today. Here is the original text.",
+    "url": "https://note.com/minimalorder/n/n4fff8aa45d29?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The full, approximately two-hour record of the night Thomas Bangalter, one half of Daft Punk who disbanded in 2021 to the world's regret, made a surprise appearance at a Fred again.. concert.",
+    "url": "https://note.com/minimalorder/n/n4fff8aa45d29?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"One More Time\" plays twice, Thomas's son sings all his father's songs from the side of the stage, and there are the first three minutes where Fred reflects that it was \"the most peaceful moment of my life.\" I thought this was a video that everyone who loves music should watch.",
+    "url": "https://note.com/minimalorder/n/n4fff8aa45d29?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Fred announced this on Instagram beforehand, saying it was \"the only way to close out these four nights.\" The two reportedly spent a week holed up in a London studio preparing for this one-off b2b set. That footage was premiered on YouTube on March 28th.",
+    "url": "https://note.com/minimalorder/n/n4fff8aa45d29?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The spatial production of Fred again..'s live shows is minimal and organic. A massive fabric installation by Boris Acket undulates above the audience's heads, and the sound, light, and human heat synchronize (",
+    "url": "https://note.com/minimalorder/n/n4fff8aa45d29?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "for more on the spatial production of the USB002 tour, see the Set Design Magazine article",
+    "url": "https://note.com/minimalorder/n/n4fff8aa45d29?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"Protecting my mental health. Maintaining a state where I can make music comfortably every day. Everything boils down to that.\"",
+    "url": "https://note.com/minimalorder/n/n4fff8aa45d29?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Because I know that experience with my own body, I feel I can understand the meaning of what is shown in this video. The density of the air that comes through even across the screen. The texture of the voices of the audience singing. It is not a \"recorded document,\" but the experience of everyone who was there.",
+    "url": "https://note.com/minimalorder/n/n4fff8aa45d29?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In February 2021, Daft Punk announced their breakup in an approximately 8-minute video titled \"",
+    "url": "https://note.com/minimalorder/n/n4fff8aa45d29?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", and in 2026, he is scheduled to produce music for an art installation at the Pont Neuf bridge in Paris. A path completely different from that of an electronic music icon. It was a quiet departure from clubs and DJ booths.",
+    "url": "https://note.com/minimalorder/n/n4fff8aa45d29?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The preparation of 20 versions and the decision to choose three on the spot. A moment where the improvisation of a live show and careful preparation coexist.",
+    "url": "https://note.com/minimalorder/n/n4fff8aa45d29?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "To provide some background, the year of Daft Punk's final live tour, Alive 2007, his son was only one year old. Now, he is old enough to sing all of his father's songs.",
+    "url": "https://note.com/minimalorder/n/n4fff8aa45d29?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In other words, this was not just a DJ set of mixing tracks between two turntables. Bangalter was using a drum machine, continuously adding sounds on the fly. The boundary between a DJ set and an improvised performance is dissolving.",
+    "url": "https://note.com/minimalorder/n/n4fff8aa45d29?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The camera work in the video also captures this \"lack of boundaries.\" By moving between the hands at the DJ booth and the expressions of the audience, it blurs the line between the \"performers\" and the \"receivers.\"",
+    "url": "https://note.com/minimalorder/n/n4fff8aa45d29?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"just a fan more proud of a sort of human moment than anything else\"—as just a fan, he can be proud of a single \"human moment.\"",
+    "url": "https://note.com/minimalorder/n/n4fff8aa45d29?hl=en",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Native model operators",
+    "url": "https://www.daft.ai/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "(\"revenue\",",
+    "url": "https://www.daft.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"What is the quarterly revenue?\"))",
+    "url": "https://www.daft.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "df = df.with_column(\"revenue\", openai_o3_mini(df[\"extracted\"], prompt=\"What is the quarterly revenue?\"))",
+    "url": "https://www.daft.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The workflow leverages Daft's Rust-based file downloader (40x faster than the competition) to process financial PDFs, extract content from embedded images and documents, and deploy LLMs to identify specific data points like quarterly revenue.",
+    "url": "https://www.daft.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Automatic batching, retries, and error handling for model UDFs. Zero-copy execution powered by Apache Arrow.",
+    "url": "https://www.daft.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "He stood in the DJ booth without a mask for the first time in 24 years, and Fred again.. was there too. At that place, where Bangalter himself said, \"I first fell in love with electronic music in this building in 1992,\" a connection between the two was born. Four months later, they arrived at Alexandra Palace.",
+    "url": "https://note.com/minimalorder/n/n4fff8aa45d29?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "phone_number, email_address",
+    "url": "https://www.daft.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "[\"email\", \"phone\", \"none\"]]",
+    "url": "https://www.daft.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "from pydantic.extra_types import phone_number, email_address",
+    "url": "https://www.daft.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "EMAIL_REGEX=r\"\\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,}\\b\"",
+    "url": "https://www.daft.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "has_pii: list[Literal[\"email\", \"phone\", \"none\"]]",
+    "url": "https://www.daft.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "EMAIL_REGEX,",
+    "url": "https://www.daft.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Mail: contact@daft-about-draft.com",
+    "url": "https://draft.co.jp/en/journal/1402/",
+    "pass": 3
+   },
+   {
+    "quote": "MAIL: contact@daft-about-draft.com",
+    "url": "https://draft.co.jp/en/journal/1402/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "によるビデオ・クリップも注目を集め、全英チャート2位、本国フランス初登場1位を記録し、日本でも30万枚を売り上げる",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%95%E3%83%88%E3%83%BB%E3%83%91%E3%83%B3%E3%82%AF",
+    "pass": 3
+   },
+   {
+    "quote": "8月12日東京（千葉）、8月13日大阪でマウンテン・ステージの",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%95%E3%83%88%E3%83%BB%E3%83%91%E3%83%B3%E3%82%AF",
+    "pass": 3
+   },
+   {
+    "quote": "2007年4月28日（日本での公開日）、2人が監督・",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%95%E3%83%88%E3%83%BB%E3%83%91%E3%83%B3%E3%82%AF",
+    "pass": 3
+   },
+   {
+    "quote": "10月、日本のヒップホップ・グループ、",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%95%E3%83%88%E3%83%BB%E3%83%91%E3%83%B3%E3%82%AF",
+    "pass": 3
+   },
+   {
+    "quote": "ダフト・パンク / Daft Punk | Warner Music Japan",
+    "url": "https://wmg.jp/daft-punk",
+    "pass": 3
+   },
+   {
+    "quote": "ここ日本ではいくつものCMソングを持つアーティストとしても有名で、最近では2012年暮れからのau「FULL CONTROL」篇TVCMソングで「ワン・モア・タイム」が起用されダフト・パンク人気が再熱、まさに最高なタイミングでのニュー・アルバム発売となる",
+    "url": "https://www.sonymusic.co.jp/artist/daftpunk/info/421706",
+    "pass": 3
+   },
+   {
+    "quote": "そして、日本ではさらに、ニュー・アルバム発売を記念して、ダフト・パンクのアクション・フィギュアが、バンダイ コレクターズ事業部より発売決定！",
+    "url": "https://www.sonymusic.co.jp/artist/daftpunk/info/421706",
+    "pass": 3
+   },
+   {
+    "quote": "01年に発表された2ndアルバム『ディスカバリー』では、本人達の夢でもあった日本漫画界の巨匠、松本零士氏とのコラボレーション・プロジェクトが実現、最近ではau「FULL CONTROL」篇TVCMソングでも有名な「ワン・モア・タイム」を始め、アルバム収録全曲が映画『インターステラ5555』として松本零士氏がアニメーションを手掛けたことも話題となった",
+    "url": "https://www.sonymusic.co.jp/artist/daftpunk/info/421706",
+    "pass": 3
+   },
+   {
+    "quote": "Daft Punk - Horizon (Japan CD) (Official Audio) - YouTube",
+    "url": "https://www.youtube.com/watch?v=sBvJUdBeY5s",
+    "pass": 3
+   },
+   {
+    "quote": "Daft Punk - Horizon (Japan CD) (Official Audio)",
+    "url": "https://www.youtube.com/watch?v=sBvJUdBeY5s",
+    "pass": 3
+   },
+   {
+    "quote": "【 DAFT about DRAFT TOKYO FLAGSHIP STORE 】",
+    "url": "https://draft.co.jp/en/journal/1402/",
+    "pass": 3
+   },
+   {
+    "quote": "DAFT about DRAFT TOKYO FLAGSHIP STORE",
+    "url": "https://draft.co.jp/en/journal/1402/",
+    "pass": 3
+   },
+   {
+    "quote": "4-9-8 Jingumae, Shibuya-ku, Tokyo 150-0001",
+    "url": "https://draft.co.jp/en/journal/1402/",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo Metro Ginza Line, Chiyoda Line, Fukutoshin Line \"Omotesando Station\" 2 minutes walk from Exit A2",
+    "url": "https://draft.co.jp/en/journal/1402/",
+    "pass": 3
+   },
+   {
+    "quote": "WEB Reservation / https://daft-about-draft.com/pages/en-tokyo-flagship-store-reservation",
+    "url": "https://draft.co.jp/en/journal/1402/",
+    "pass": 3
+   },
+   {
+    "quote": "At 22:22 on February 22, 2022 (early morning of February 23, Japan time), Daft Punk streamed a full live performance from the past on Twitch. The live show took place at the Mayan Theater in the United States on December 17, 1997, and features them performing before they wore their trademark helmets. Since the stream was a one-time event, it is no longer available for viewing.",
+    "url": "https://note.com/masayakondo/n/n4db8d4aba314?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "というか（少なくとも日本では、）Daft Punkの初期の聴かれ方はポストChemical Brothers的な立ち位置にあった",
+    "url": "https://note.com/371113stm/n/n0de63cf70543",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "日本 版ダフトパンク、2025年バージョン（私の写真と編集） — 日本 版ダフトパンク、2025年バージョン（私の写真と編集） Reddit https://www.reddit.com > DaftPunk > comments > daft_p...",
+    "url": "https://www.reddit.com/r/DaftPunk/comments/1hzrdp6/daft_punk_in_japan_but_2025_version_my/?tl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "ダフト ・パンク / Daft Punk | Warner Music Japan — ダフト ・パンク / Daft Punk | Warner Music Japan Warner Music Japan https://wmg.jp > daft-punk",
+    "url": "https://wmg.jp/daft-punk",
+    "pass": 3
+   },
+   {
+    "quote": "アクション・フィギュアも発売決定！ | ダフト ・パンク — アクション・フィギュアも発売決定！ | ダフト ・パンク ソニーミュージックオフィシャルサイト https://www.sonymusic.co.jp > artist > daftpunk > info",
+    "url": "https://www.sonymusic.co.jp/artist/daftpunk/info/421706",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 Daft の転職・企業概要 - doda — 株式会社 Daft の転職・企業概要 - doda doda https://doda.jp > View > Company > j_id__10192222291",
+    "url": "https://doda.jp/DodaFront/View/Company/j_id__10192222291/",
+    "pass": 3
+   },
+   {
+    "quote": "Daft Punk - Horizon ( Japan CD) (Official Audio) - YouTube — Daft Punk - Horizon ( Japan CD) (Official Audio) - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=sBvJUdBeY5s",
+    "pass": 3
+   },
+   {
+    "quote": "For More Info - DAFT about DRAFT — For More Info - DAFT about DRAFT DAFT about DRAFT https://daft-about-draft.com > pages",
+    "url": "https://daft-about-draft.com/pages/en",
+    "pass": 3
+   },
+   {
+    "quote": "Daft Punk in Japan but 2025 version (my photography and ... — Daft Punk in Japan but 2025 version (my photography and ... Reddit https://www.reddit.com > comments",
+    "url": "https://www.reddit.com/r/DaftPunk/comments/1hzrdp6/daft_punk_in_japan_but_2025_version_my/",
+    "pass": 3
+   },
+   {
+    "quote": "Flagship Store of Playful New Product Brand, “ DAFT ... - DRAFT — Flagship Store of Playful New Product Brand, “ DAFT ... - DRAFT draft.co.jp https://draft.co.jp > ... > Projects",
+    "url": "https://draft.co.jp/en/journal/1402/",
+    "pass": 3
+   },
+   {
+    "quote": "Daft Punk in Japan , circa 2002 - Facebook — Daft Punk in Japan , circa 2002 - Facebook Facebook https://www.facebook.com > DefectedRecords > posts > d...",
+    "url": "https://www.facebook.com/DefectedRecords/posts/daft-punk-in-japan-circa-2002-/10159432976642946/",
+    "pass": 3
+   },
+   {
+    "quote": "REA to buy 35% of Daft .ie owner Distilled in $290 million deal — REA to buy 35% of Daft .ie owner Distilled in $290 million deal Dealroom https://dealroom.co > news > 157437-...",
+    "url": "https://dealroom.co/news/157437-rea-to-buy-35-of-daft-ie-owner-distilled-in-290-million-deal/",
+    "pass": 3
+   },
+   {
+    "quote": "Daft .ie - Crunchbase Company Profile & Funding — Daft .ie - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > daft-ie",
+    "url": "https://www.crunchbase.com/organization/daft-ie",
+    "pass": 3
+   },
+   {
+    "quote": "Daft .ie (Ireland) - Arrow@TU Dublin — Daft .ie (Ireland) - Arrow@TU Dublin Arrow@TU Dublin PDF https://arrow.tudublin.ie > cgi > viewcontent",
+    "url": "https://arrow.tudublin.ie/cgi/viewcontent.cgi?article=1028&context=buschmarcas",
+    "pass": 3
+   },
+   {
+    "quote": "Working at Daft Media - Glassdoor — Working at Daft Media - Glassdoor Glassdoor https://www.glassdoor.com > Overview",
+    "url": "https://www.glassdoor.com/Overview/Working-at-Daft-Media-EI_IE696506.11,21.htm",
+    "pass": 3
+   },
+   {
+    "quote": "Eventual raises $20M for multimodal AI engine Daft - LinkedIn — Eventual raises $20M for multimodal AI engine Daft - LinkedIn LinkedIn https://www.linkedin.com > posts",
+    "url": "https://www.linkedin.com/posts/y-combinator_eventual-has-just-raised-20m-in-series-a-activity-7343295594523783168-NFMO",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "近藤 真弥 - Daft Punk \"Homework (25th Anniversary Edition)\" 近藤 真弥 - Daft Punk \"Homework (25th Anniversary Edition)\" note https://note.com > 音楽 > ダンス・エレクトロニカ",
+    "url": "https://note.com/masayakondo/n/n4db8d4aba314?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The night Daft Punk's Thomas Bangalter returned - note The night Daft Punk's Thomas Bangalter returned - note note https://note.com > minimalorder",
+    "url": "https://note.com/minimalorder/n/n4fff8aa45d29?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Daft Punk – Homework｜マジックナンバー - note Daft Punk – Homework｜マジックナンバー - note note https://note.com > レビュー > 音楽レビュー",
+    "url": "https://note.com/371113stm/n/n0de63cf70543",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Daft Punk \"Homework (25th Anniversary Edition)\"｜近藤 真弥",
+    "url": "https://note.com/masayakondo/n/n4db8d4aba314?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Daft Punk \"Homework (25th Anniversary Edition)\"",
+    "url": "https://note.com/masayakondo/n/n4db8d4aba314?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "At 22:22 on February 22, 2022 (early morning of February 23, Japan time), Daft Punk streamed a full live performance from the past on Twitch. The live show took place at the Mayan Theater in the United States on December 17, 1997, and features them performing before they wore their trademark helmets. Since the stream was a one-time event, it is no longer available for viewing.",
+    "url": "https://note.com/masayakondo/n/n4db8d4aba314?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "After the stream ended, they released the 25th Anniversary Edition of their first album, \"Homework\" (1997). It goes without saying that this news made waves in music media around the world. Even a year after their breakup in 2021, their popularity remains intact, and the influence they exerted from France on the global music scene shows no signs of fading.",
+    "url": "https://note.com/masayakondo/n/n4db8d4aba314?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This work consists of Disc 1, the original album, and Disc 2, a remix album.",
+    "url": "https://note.com/masayakondo/n/n4db8d4aba314?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The former contains the same content as \"Homework\" at the time of its release, starting with \"Daftendirekt\" and closing with \"Funk Ad,\" which is a reversed version of the fourth track, \"Da Funk.\" The sound, which blends the hot impulses of when they were playing house music most innocently with a rustic quality, is still deeply satisfying to listen to today.",
+    "url": "https://note.com/masayakondo/n/n4db8d4aba314?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Although it is basically a house work centered on four-on-the-floor beats, if you listen closely to the details, you can see the budding of the diverse musicality that became prominent from their second album, \"Discovery\" (2001) onwards. In particular, \"Da Funk,\" which sprinkles acid house spice onto a sticky, funk-like groove, and \"Fresh,\" where a sound like an electric guitar weaves phrases in t",
+    "url": "https://note.com/masayakondo/n/n4db8d4aba314?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I would also like to mention \"Around the World.\" It is an interesting song where the busy, syncopated bass line evokes the influence of funk and disco, while the synth playing the melody has a timbre that brings to mind techno artists like LFO.",
+    "url": "https://note.com/masayakondo/n/n4db8d4aba314?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The night Daft Punk's Thomas Bangalter returned - Full footage of the final night of Fred again..'s \"USB002\" concert tour released｜Minimal Order",
+    "url": "https://note.com/minimalorder/n/n4fff8aa45d29?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The night Daft Punk's Thomas Bangalter returned - Full footage of the final night of Fred again..'s \"USB002\" concert tour released",
+    "url": "https://note.com/minimalorder/n/n4fff8aa45d29?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"I was 80, sat in a care home, and I kept saying to the nurses 'just play it again pls'\" - This is the dream Fred again.. wrote about in the YouTube description of the video we are introducing today. Here is the original text.",
+    "url": "https://note.com/minimalorder/n/n4fff8aa45d29?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"I was 80, sat in a like a care home, and I kept saying to the nurses 'jus play it again pls'\"",
+    "url": "https://note.com/minimalorder/n/n4fff8aa45d29?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Fred again.. & Thomas Bangalter (USB002, Alexandra Palace, London 27 February 2026",
+    "url": "https://note.com/minimalorder/n/n4fff8aa45d29?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The full, approximately two-hour record of the night Thomas Bangalter, one half of Daft Punk who disbanded in 2021 to the world's regret, made a surprise appearance at a Fred again.. concert.",
+    "url": "https://note.com/minimalorder/n/n4fff8aa45d29?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"One More Time\" plays twice, Thomas's son sings all his father's songs from the side of the stage, and there are the first three minutes where Fred reflects that it was \"the most peaceful moment of my life.\" I thought this was a video that everyone who loves music should watch.",
+    "url": "https://note.com/minimalorder/n/n4fff8aa45d29?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "So, let's get right into it.",
+    "url": "https://note.com/minimalorder/n/n4fff8aa45d29?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Daft Punk – Homework｜マジックナンバー",
+    "url": "https://note.com/371113stm/n/n0de63cf70543",
+    "pass": 3
+   },
+   {
+    "quote": "(1997.01 Virgin / Soma Quality Recording)",
+    "url": "https://note.com/371113stm/n/n0de63cf70543",
+    "pass": 3
+   },
+   {
+    "quote": "未来のフレンチ・タッチを予感させる、早すぎたマシーン・デモ",
+    "url": "https://note.com/371113stm/n/n0de63cf70543",
+    "pass": 3
+   },
+   {
+    "quote": "ケミカルの加護によってフロアに密輸された、異形のフレンチ・ルーキー",
+    "url": "https://note.com/371113stm/n/n0de63cf70543",
+    "pass": 3
+   },
+   {
+    "quote": "のちに「フレンチ・タッチ」の首領と崇められる彼らも、当時はまだ20歳そこそこの早熟なテクノ・アクトに過ぎなかった。彼らの名を世界に知らしめた「Da Funk」の狂騒は、ケミカル・ブラザーズらビッグビートのDJ陣による執拗なパワープレイという、いわばジャンルの地ならしによってお膳立てされたものだった。",
+    "url": "https://note.com/371113stm/n/n0de63cf70543",
+    "pass": 3
+   },
+   {
+    "quote": "「4つ打ち」の仮面を剥ぎ取った先に見える、エレクトロ再評価の文脈",
+    "url": "https://note.com/371113stm/n/n0de63cf70543",
+    "pass": 3
+   },
+   {
+    "quote": "ブレイクビーツ全盛の時代に本作がビッグビート文脈で語られたのは、その4つ打ちの奥に潜む、ドラムマシンとシンセが剥き出しになった黒人ファンク／エレクトロへの共鳴があったからだ。カーティス・マントロニックの復活とも共振したその「歪んだマシーン・グルーヴ」こそが、当時の鋭利な耳を刺激した。",
+    "url": "https://note.com/371113stm/n/n0de63cf70543",
+    "pass": 3
+   },
+   {
+    "quote": "名曲の魔法に依存した、いささか粗削りな「未来のデモテープ」",
+    "url": "https://note.com/371113stm/n/n0de63cf70543",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Daft Punk (@daftpunk) / X Daft Punk (@daftpunk) / X X https://x.com > daftpunk",
+    "url": "https://x.com/daftpunk",
+    "pass": 3
+   },
+   {
+    "quote": "Daft Punk Fandom     (@Daft_Wub) / X Daft Punk Fandom     (@Daft_Wub) / X X https://x.com > Daft_Wub",
+    "url": "https://x.com/Daft_Wub",
+    "pass": 3
+   },
+   {
+    "quote": "Daft Club (@DaftClubHQ) / X Daft Club (@DaftClubHQ) / X X https://x.com > DaftClubHQ",
+    "url": "https://x.com/DaftClubHQ",
+    "pass": 3
+   },
+   {
+    "quote": "Replies by Daft Previews (@daft_previews) / X Replies by Daft Previews (@daft_previews) / X X https://x.com > with_replies",
+    "url": "https://x.com/daft_previews/with_replies",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Daft Capital - LinkedIn Daft Capital - LinkedIn LinkedIn https://www.linkedin.com > daftcapital",
+    "url": "https://www.linkedin.com/company/daftcapital",
+    "pass": 3
+   },
+   {
+    "quote": "Daft | LinkedIn Daft | LinkedIn LinkedIn https://www.linkedin.com > daftengine",
+    "url": "https://www.linkedin.com/company/daftengine",
+    "pass": 3
+   },
+   {
+    "quote": "Jon Dishotsky - Founder of Daft Capital, Former CEO & Co ... Jon Dishotsky - Founder of Daft Capital, Former CEO & Co ... LinkedIn https://www.linkedin.com > jondishot...",
+    "url": "https://www.linkedin.com/in/jondishotsky",
+    "pass": 3
+   },
+   {
+    "quote": "Daft .ie - LinkedIn Daft .ie - LinkedIn LinkedIn Ireland https://ie.linkedin.com > daft-ie",
+    "url": "https://ie.linkedin.com/company/daft-ie",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Daft Punk (@daftpunk) - Facebook Daft Punk (@daftpunk) - Facebook Facebook https://www.facebook.com > ... > Musician/band",
+    "url": "https://www.facebook.com/daftpunk/",
+    "pass": 3
+   },
+   {
+    "quote": "Daft Funk 'Live' - A retrospective celebration of Daft Punk Daft Funk 'Live' - A retrospective celebration of Daft Punk Facebook https://www.facebook.com > Pages > Media > Concert Tour",
+    "url": "https://www.facebook.com/DaftFunkLive/",
+    "pass": 3
+   },
+   {
+    "quote": "DAFT Support Group | Americans moving to the Netherlands DAFT Support Group | Americans moving to the Netherlands Facebook https://www.facebook.com > Facebook Groups",
+    "url": "https://www.facebook.com/groups/daftsupport/",
+    "pass": 3
+   },
+   {
+    "quote": "Daft Punk | Facebook Daft Punk | Facebook Facebook https://www.facebook.com > Facebook Groups",
+    "url": "https://www.facebook.com/groups/142128439288507/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.daft.ai/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%95%E3%83%88%E3%83%BB%E3%83%91%E3%83%B3%E3%82%AF",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/DaftPunk/comments/1hzrdp6/daft_punk_in_japan_but_2025_version_my/?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://wmg.jp/daft-punk",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sonymusic.co.jp/artist/daftpunk/info/421706",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.forefrontinternational.com/ja/%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/%E6%B5%B7%E5%A4%96%E4%BB%A3%E7%90%86%E5%BA%97%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.bgent.net/plus/article/7044",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hits-company.co.jp/alliance/column/agency-business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=sBvJUdBeY5s",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://daft-about-draft.com/pages/en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/DaftPunk/comments/1hzrdp6/daft_punk_in_japan_but_2025_version_my/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://draft.co.jp/en/journal/1402/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.factbird.com/resources/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stratasys.com/en/resources/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/ycombinator/comments/1hsdufh/anyone_offering_a_white_label_reseller_version_of/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://dealroom.co/news/157437-rea-to-buy-35-of-daft-ie-owner-distilled-in-290-million-deal/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/daft-ie",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://arrow.tudublin.ie/cgi/viewcontent.cgi?article=1028&context=buschmarcas",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glassdoor.com/Overview/Working-at-Daft-Media-EI_IE696506.11,21.htm",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/masayakondo/n/n4db8d4aba314?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/minimalorder/n/n4fff8aa45d29?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/371113stm/n/n0de63cf70543",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/daftpunk",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Daft_Wub",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/DaftClubHQ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/daft_previews/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/daftcapital",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/daftengine",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/jondishotsky",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ie.linkedin.com/company/daft-ie",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/daftpunk/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/DaftFunkLive/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/daftsupport/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/142128439288507/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/daftpunk",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Daft 日本 導入",
+   "results": [
+    "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%95%E3%83%88%E3%83%BB%E3%83%91%E3%83%B3%E3%82%AF",
+    "https://www.reddit.com/r/DaftPunk/comments/1hzrdp6/daft_punk_in_japan_but_2025_version_my/?tl=ja",
+    "https://wmg.jp/daft-punk",
+    "https://www.sonymusic.co.jp/artist/daftpunk/info/421706",
+    "https://barks.jp/news/601652",
+    "https://edmmaxx.com/news/64981",
+    "https://www.cdjournal.com/main/news/daft-punk/50810",
+    "https://www.instagram.com/reel/DY6KV2bCgf_/",
+    "https://nme-jp.com/tag/a00846/",
+    "https://draft.co.jp/projects/daft-about-draft/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Daft 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.forefrontinternational.com/ja/%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/%E6%B5%B7%E5%A4%96%E4%BB%A3%E7%90%86%E5%BA%97%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "https://www.bgent.net/plus/article/7044",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://www.hits-company.co.jp/alliance/column/agency-business/",
+    "https://doda.jp/DodaFront/View/Company/j_id__10192222291/",
+    "https://www.wadax.ne.jp/company/agent/",
+    "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97%E7%89%B9%E7%B4%84%E5%BA%97%E3%83%95%E3%83%A9%E3%83%B3%E3%83%81%E3%83%A3%E3%82%A4%E3%82%BA%E5%A5%91%E7%B4%84/%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97%E5%A5%91%E7%B4%84/",
+    "https://bizresearch.net/blog/article/156",
+    "https://b-seeds.com/",
+    "https://kathalo.com/kathalog/import-business/1027/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Daft Japan",
+   "results": [
+    "https://www.youtube.com/watch?v=sBvJUdBeY5s",
+    "https://daft-about-draft.com/pages/en",
+    "https://www.reddit.com/r/DaftPunk/comments/1hzrdp6/daft_punk_in_japan_but_2025_version_my/",
+    "https://draft.co.jp/en/journal/1402/",
+    "https://www.facebook.com/DefectedRecords/posts/daft-punk-in-japan-circa-2002-/10159432976642946/",
+    "https://tjda.com/en/projects/daft-about-draft/",
+    "https://www.ebay.com/itm/156584893929",
+    "https://ja.wikipedia.org/wiki/DAYS_JAPAN"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Daft manufacturing customer case study",
+   "results": [
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.factbird.com/resources/case-studies",
+    "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "https://www.stratasys.com/en/resources/case-studies/",
+    "https://www.usengineering.com/a-case-study-in-design-for-manufacturing-and-assembly/",
+    "https://goamplifi.com/knowledge-base/case-study-6-case-studies-of-data-management-success-in-manufacturing",
+    "https://manufacturingleadershipcouncil.com/case-studies-for-success-in-the-factory/",
+    "https://www.flexwareinnovation.com/case-studies/",
+    "https://www.sciencedirect.com/science/article/pii/S2212827124013945",
+    "https://www.casestudies.com/company/blueface/case-study/daftie-customer-case-study"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Daft white label OR reseller OR partner program",
+   "results": [
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://www.reddit.com/r/ycombinator/comments/1hsdufh/anyone_offering_a_white_label_reseller_version_of/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.digitalsuccess.us/blog/top-8-white-label-digital-marketing-partners-for-agencies-2026.html",
+    "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://www.seoreseller.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Daft founded funding employees revenue",
+   "results": [
+    "https://dealroom.co/news/157437-rea-to-buy-35-of-daft-ie-owner-distilled-in-290-million-deal/",
+    "https://www.crunchbase.com/organization/daft-ie",
+    "https://arrow.tudublin.ie/cgi/viewcontent.cgi?article=1028&context=buschmarcas",
+    "https://www.glassdoor.com/Overview/Working-at-Daft-Media-EI_IE696506.11,21.htm",
+    "https://www.linkedin.com/posts/y-combinator_eventual-has-just-raised-20m-in-series-a-activity-7343295594523783168-NFMO",
+    "https://en.wikipedia.org/wiki/Daft.ie",
+    "https://www.siliconrepublic.com/comms/daft-ie-and-thejournal-ie-founders-named-internet-heroes-at-eircom-spiders",
+    "https://www.businesspost.ie/companies/daft-ie-and-donedeal-operator-reports-13-8-rise-in-revenue/",
+    "https://www.irishtimes.com/business/2025/08/11/higher-costs-mean-profits-at-daftie-parent-group-slide-38/",
+    "https://startupintros.com/orgs/daft-capital"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Daft",
+   "results": [
+    "https://note.com/masayakondo/n/n4db8d4aba314?hl=en",
+    "https://note.com/fatmankross/n/nf9cdb745003a",
+    "https://note.com/minimalorder/n/n4fff8aa45d29?hl=en",
+    "https://note.com/371113stm/n/n0de63cf70543",
+    "https://note.com/mochimumble/n/n6f169cefbbef",
+    "https://note.com/nandakore_8823/n/nf27e92e3839d",
+    "https://note.com/junfukunaga/n/n3fbfc039da21",
+    "https://note.com/tag/Daft%20Punk",
+    "https://note.com/masathemusic/n/nbaf1d1070d2e",
+    "https://note.com/calm_phlox701/n/na7151202787a"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com Daft",
+   "results": [
+    "https://x.com/daftpunk",
+    "https://x.com/Daft_Wub",
+    "https://x.com/DaftClubHQ",
+    "https://x.com/daft_previews/with_replies",
+    "https://x.com/daft_previews",
+    "https://x.com/DaFtfps",
+    "https://x.com/RinoTheBouncer/status/2112241280197566802",
+    "https://x.com/DaftonDraft",
+    "https://x.com/Daft_Wub/status/2115102586554696029",
+    "https://x.com/daftmedia"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Daft",
+   "results": [
+    "https://www.linkedin.com/company/daftcapital",
+    "https://www.linkedin.com/company/daftengine",
+    "https://www.linkedin.com/in/jondishotsky",
+    "https://ie.linkedin.com/company/daft-ie",
+    "https://www.linkedin.com/company/the-daft-company",
+    "https://be.linkedin.com/company/daft-studios",
+    "https://ie.linkedin.com/jobs/view/senior-product-manager-daft-ie-at-distilled-4400575585",
+    "https://ie.linkedin.com/jobs/view/product-design-team-lead-%E2%80%93-daft-ie-at-distilled-4335654109",
+    "https://www.linkedin.com/in/daytondaft",
+    "https://www.linkedin.com/posts/sammy-sidhu_migration-anxiety-is-real-we-built-daft-activity-7336080489029521408-7uC2"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Daft",
+   "results": [
+    "https://www.facebook.com/daftpunk/",
+    "https://www.facebook.com/DaftFunkLive/",
+    "https://www.facebook.com/groups/daftsupport/",
+    "https://www.facebook.com/groups/142128439288507/",
+    "https://www.facebook.com/realdaftmonk/",
+    "https://www.facebook.com/p/Daft-Landscape-Construction-LLC-61552194357015/",
+    "https://www.facebook.com/daftphish/",
+    "https://www.facebook.com/daft.ie/",
+    "https://business.facebook.com/groups/ilmacello/",
+    "https://www.facebook.com/idaft/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "Daft note 社長",
+   "results": [
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://x.com/sadaaki",
+    "https://diamond.jp/articles/-/388572",
+    "https://www.youtube.com/watch?v=H6YAMk-zS-8",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://froggy.smbcnikko.co.jp/66484/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Daft X 投稿",
+   "results": [
+    "https://x.com/daftpunk",
+    "https://www.reddit.com/r/MichaelJackson/comments/1qad414/after_months_of_work_my_michael_jackson_x_daft/?tl=ja",
+    "https://docs.daft.ai/en/stable/contributing/development/",
+    "https://www.reddit.com/r/DaftPunk/comments/lys07r/collection_of_mixmag_x_daft_punk_magazine_covers/?tl=ja",
+    "https://www.youtube.com/watch?v=gvbCoPOjdwA",
+    "https://linktr.ee/daftdoge",
+    "https://x.com/daft",
+    "https://x.com/HANCK_",
+    "https://ja.jinxxy.com/daft/posts",
+    "https://www.patreon.com/cw/DaftVu"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索12回）"
+ }
+}

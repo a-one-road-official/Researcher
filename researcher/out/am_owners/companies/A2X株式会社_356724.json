@@ -1,0 +1,996 @@
+{
+ "name": "A2X株式会社",
+ "aliases": [],
+ "context": "PBF=yes 装置=A2X 出典=https://www.a2x.jp/privacy_policy/",
+ "researched_at": "2026-11-10T18:11:26.410518+00:00",
+ "official_url": "https://www.a2xaccounting.com/",
+ "identified_by": "search:yahoo_jp:A2X",
+ "profile": {},
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "Evans has a background in financial software development, spanning banking and ecommerce accounting. Before A2X, he was the lead developer of a lending pricing tool at ING.",
+    "url": "https://www.a2xaccounting.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Jamie co-founded Hubdoc, the document collection and data capture software acquired by Xero in 2018. He went on to lead the development of Xero’s core accounting products before joining A2X.",
+    "url": "https://www.a2xaccounting.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンター | 日本積層造形株式会社",
+    "url": "https://jampt.jp/equipment/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター",
+    "url": "https://jampt.jp/equipment/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター装置",
+    "url": "https://jampt.jp/equipment/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンティング技術（金属積層造形技術）の総合サービスを提供する日本積層造形株式会社 / JAMPT（ジャンプ）では、パウダーベッド / 電子ビーム方式（EB-PBF）の装置を2台、パウダーベッド / レーザー方式（L-PBF）の装置を3台保有しています",
+    "url": "https://jampt.jp/equipment/",
+    "pass": 3
+   },
+   {
+    "quote": "主に試験用のデポジション方式（DED）の装置と意匠品の造形イメージを検討する用途の樹脂プリンターをそれぞれ1台保有しています",
+    "url": "https://jampt.jp/equipment/",
+    "pass": 3
+   },
+   {
+    "quote": "Arcam A2X",
+    "url": "https://jampt.jp/equipment/",
+    "pass": 3
+   },
+   {
+    "quote": "Arcam Q20 plus",
+    "url": "https://jampt.jp/equipment/",
+    "pass": 3
+   },
+   {
+    "quote": "EOS M400-4",
+    "url": "https://jampt.jp/equipment/",
+    "pass": 3
+   },
+   {
+    "quote": "Concept Laser M2（Dual Laser）",
+    "url": "https://jampt.jp/equipment/",
+    "pass": 3
+   },
+   {
+    "quote": "Concept Laser XLINE 2000R",
+    "url": "https://jampt.jp/equipment/",
+    "pass": 3
+   },
+   {
+    "quote": "※（株）コイワイ宮城工場内の「スタートアップファクトリーみやぎ」に導入された大型金属3Dプリンターも利用可能",
+    "url": "https://jampt.jp/equipment/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターの方式",
+    "url": "https://jampt.jp/equipment/",
+    "pass": 3
+   },
+   {
+    "quote": "本稿では研究対象を主としてパウダーベッド方式に絞り込んだ",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "よび、中堅・中小企業への現場導入が進展するであろう",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．産業用金属3Dプリンタとは",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１． 産業用金属3Dプリンタとは",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "まず、本稿で取上げる産業用金属3Dプリンタに",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これら 4つの工法による産業用金属3Dプリンタ",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の中で、日本において販売台数が多いのは、「6 粉末",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「6 粉末床溶融結合法」はド",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イツの EOS 社が古くから日本で販売実績を有し、",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「8 複合装置」としては、「6 粉末床溶融結合法」",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "でも、（株）松浦機械製作所のLUMEX は、元松下",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "電工（現パナソニック株式会社）と松浦機械製作所、",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "て「6 粉末床溶融結合法」と複合技術に限定して取",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の、産業用金属3Dプリンタに特化、着眼し、その",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表１ 工法一覧と金属3Dプリンタ",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（中略）松浦機械製作所では、福",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "６ 粉末床溶融結合法",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "向けプリンタと定義したうえで、「出荷台数が、前年",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ショナル3Dプリンタの出荷台数が堅調に伸びた結",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「 6 粉末床溶融結合法」については、米国DTM",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "社が米国での基本特許を保有していたが、2014年 2",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業用金属3Dプリンタの開発やユーザーからの期",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3-2 国内で販売される産業用金属3Dプリンタ",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表４ 日本国内での産業用金属3Dプリンタ",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子株式会社 〇*2",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 - A2X — 会社概要 - A2X a2x.jp https://www.a2x.jp > company",
+    "url": "https://www.a2x.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "A2X 株式 会社 の企業情報 - 企業INDEXナビ — A2X 株式 会社 の企業情報 - 企業INDEXナビ G-Search 企業INDEXナビ https://cnavi.g-search.or.jp > detail",
+    "url": "https://cnavi.g-search.or.jp/detail/8120001104466.html",
+    "pass": 3
+   },
+   {
+    "quote": "A2X 株式 会社 ｜法人番号 8120001104466｜大阪府大阪市北区 — A2X 株式 会社 ｜法人番号 8120001104466｜大阪府大阪市北区 法律人 LawPlayer https://lawplayer.com > 日本法令検索 > 法人情報",
+    "url": "https://lawplayer.com/jp/company/8120001104466",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - エージェントリソース - A2X — 会社概要 - エージェントリソース - A2X エージェントリソース https://resource.agent-g.com > company",
+    "url": "https://resource.agent-g.com/company",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "チタン、コバルトクロム、インコネル",
+    "url": "https://jampt.jp/equipment/",
+    "pass": 3
+   },
+   {
+    "quote": "アルミ合金、チタン合金",
+    "url": "https://jampt.jp/equipment/",
+    "pass": 3
+   },
+   {
+    "quote": "SUS、チタン、インコネル、マルエージ鋼、銅合金",
+    "url": "https://jampt.jp/equipment/",
+    "pass": 3
+   },
+   {
+    "quote": "SUS、チタン、インコネル、マルエージ鋼",
+    "url": "https://jampt.jp/equipment/",
+    "pass": 3
+   },
+   {
+    "quote": "強度」については、鋼系材料、アルミニウム合金、チタニウム合金において、「展伸材」や「鋳造材",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "結合剤噴射法：（Binder Jetting）」、「6 粉末床溶融",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の中で、日本において販売台数が多いのは、「6 粉末",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「6 粉末床溶融結合法」はド",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「8 複合装置」としては、「6 粉末床溶融結合法」",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "て「6 粉末床溶融結合法」と複合技術に限定して取",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ムによる工法について、中野（2017）はチタン造形",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "６ 粉末床溶融結合法",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "し、主として金属粉末",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「 6 粉末床溶融結合法」については、米国DTM",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "末床溶融結合法」、「8 複合装置」では、「6 粉末床溶",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6 この工法は、型を用いて粉末を焼結させ部品を製造する",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "応が困難なこと、③粉末材料や造形機本体が高額で",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（「6 粉末溶融結合法」と切削加工）によって、「産",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "•材料となる金属粉末がバルク材にくらべ、非常に高価である",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "率が高く造形が困難な銅合金で高能率アーク溶接シ",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "レーザー社製「M2」） を用いて、銅合金3D積層造",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "形を可能とする造形技術（銅合金粉末および加工プ",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表７ 銅合金の冷却機能を付した一体造形部品",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "実験には、「6 粉末溶融床造形法」でEOS社製の",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "EOSINT M250-Xtendedを使用して、鋼系粉末は、",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "炭素量が0.33％から 1.04％まで含む4 種類の粉末",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5-1-2 アルミニウム合金の機械的強度",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "アルミニウム合金は、航空機や産業機械、自動車",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "には、アルミニウム合金はレーザーを反射しやすく、",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "そうすることで、基幹産業である自動車産業お",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "と切削加工の複合機、または、「7 指向性エネルギー",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "７ 指向性エネルギー堆積法",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギー堆積法」と切削加工の複合機が揃う",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "は金型等を用いるが、AMでは用いない部分が異なる",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4-2 生産用金型",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "塑性加工のうち金型を利用した変形加工は、日本",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "用される金型は量産加工におけるキーデバイスであ",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "しかしながら、金型製造業は産業用途で市場が細",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、製造原価の圧縮で金型にか",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "7 「金型製造業では「5人以下」、「5人超－10人以下」のカ",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "8 『金型新聞』2017年 8 月 10 日号インタビュー記事",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "•試作のためにイニシャルコスト・時間がかかっていたものをス",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "•自動車の標準部品等の大量生産品については、対応が難しい ※",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "て、「樹脂成形型やプレス成形型などの金型や各種機",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "アルミニウム合金は、航空機や産業機械、自動車",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の金型鋳造材と比較して、造形まま材（造形後、熱",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "度は、約400MPa（金型鋳造材：約250）、0.2％耐",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "は、同組成の金型鋳造材よりも引張強度、耐力、破",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "グ：EBM）、「7 指向性エネルギー堆積法（Directed",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "形材、管、線、鍛造品などの展伸材、②金型、ダイカストなど",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "究所、 三菱重工業、矢崎総業、トヨタ自動車",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "次ぎ、国産機の試作用途での活用・普及と製品製造",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "試作機・1KWレー",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "そのためには、量産効果を期待する販売台",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "（親会社GE） 〇*2",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "ドローンが自動で衝突回避をする機能は重要ですね☺️ 仕組み作りなら日... ドローンが自動で衝突回避をする機能は重要ですね☺️ 仕組み作りなら日本も主導権握れるのでは無いだろうか🤔 Qualcomm、ドローン同士の衝突を回避するA2X技術を推進。 ドローン通信に5030MHz帯を活用 https://www.drone.jp/news/2024072217393793361.html @DRONEより",
+    "url": "https://note.com/drone_biz_lab/n/ne1c90bf17a11",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "ドローンが自動で衝突回避をする機能は重要ですね☺️ 仕組み作りなら日本も主導…｜ドローンBusiness研究所",
+    "url": "https://note.com/drone_biz_lab/n/ne1c90bf17a11",
+    "pass": 3
+   },
+   {
+    "quote": "ドローンが自動で衝突回避をする機能は重要ですね☺️ 仕組み作りなら日本も主導…",
+    "url": "https://note.com/drone_biz_lab/n/ne1c90bf17a11",
+    "pass": 3
+   },
+   {
+    "quote": "ドローンが自動で衝突回避をする機能は重要ですね☺️",
+    "url": "https://note.com/drone_biz_lab/n/ne1c90bf17a11",
+    "pass": 3
+   },
+   {
+    "quote": "仕組み作りなら日本も主導権握れるのでは無いだろうか🤔",
+    "url": "https://note.com/drone_biz_lab/n/ne1c90bf17a11",
+    "pass": 3
+   },
+   {
+    "quote": "Qualcomm、ドローン同士の衝突を回避するA2X技術を推進。ドローン通信に5030MHz帯を活用",
+    "url": "https://note.com/drone_biz_lab/n/ne1c90bf17a11",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.drone.jp/news/2024072217393793361.html",
+    "url": "https://note.com/drone_biz_lab/n/ne1c90bf17a11",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "A2X (@A2X_Markets) / Posts / X A2X recorded strong participation across multiple securities, with market share ranging between 8.5% and 13% in the many of the Top40 counters traded. Consistent participation continues to reinforce A2X as a meaningful source of liquidity in SA equities.",
+    "url": "https://x.com/A2X_Markets",
+    "pass": 3
+   },
+   {
+    "quote": "The A2X is shipping this week! 8TH/s 125w Modular Family ... The A2X is shipping this week! 8TH/s 125w Modular Family-Resistant Case Full Linux Controller Whisper Quiet Fan Designed, Built, and Tested In-House Free Domestic Shipping Looks good on your desk!",
+    "url": "https://x.com/GekkoScienceLLC/status/2044642150990647364",
+    "pass": 3
+   },
+   {
+    "quote": "Marula Mining | AQSE: MARU | #MARU, A2X: MAR | (@MarulaPlc) / X @MarulaPlc (AQSE #MARU; A2X $MAR) has taken another significant step towards restarting production at its South African manganese operations after signing a formal shareholders’ agreement for the Tonto Tshipi and Derdepoort Manganese Mines.",
+    "url": "https://x.com/MarulaPLC",
+    "pass": 3
+   },
+   {
+    "quote": "Marula Mining | AQSE: MARU | #MARU, A2X: MAR | on X: \" ... Who can reply? Accounts @MarulaPlc mentioned can reply Marula Mining | AQSE: MARU | #MARU, A2X: MAR | @MarulaPlc 32m",
+    "url": "https://x.com/MarulaPlc/status/2116060353729606125",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "A2X - LinkedIn A2X is the 'Gold Standard' in ecommerce accounting software for Shopify, Amazon, eBay, Etsy, Walmart, and PayPal. | A2X is the 'Gold Standard' in ecommerce accounting automation.",
+    "url": "https://www.linkedin.com/company/a2x-for-ecommerce",
+    "pass": 3
+   },
+   {
+    "quote": "A2X - LinkedIn A2X is the 'Gold Standard' in ecommerce accounting automation. It automatically transforms messy payout data from Shopify, Amazon, eBay, Etsy, Walmart, and PayPal into accurate summaries – broken...",
+    "url": "https://ca.linkedin.com/company/a2x-for-ecommerce",
+    "pass": 3
+   },
+   {
+    "quote": "A2X - LinkedIn A2X Renewables & Environment Esbjerg, Syddanmark 920 followers Engineering, constructing and managing your assets About us",
+    "url": "https://www.linkedin.com/company/a2x-dk",
+    "pass": 3
+   },
+   {
+    "quote": "A2X - LinkedIn A2X is the 'Gold Standard' in ecommerce accounting automation. It automatically transforms messy payout data from Shopify, Amazon, eBay, Etsy, Walmart, and PayPal into accurate summaries – broken...",
+    "url": "https://nz.linkedin.com/company/a2x-for-ecommerce",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "A2X - FacebookA2X - FacebookA To X Ingredients - FacebookA To X Ingredients - FacebookA2X Paysage | Les Rosiers - FacebookTheJam Junkiez - A2X (FORMERLY NRA ANT2X) IS A VERSATILE ...A2x Sonorisation - Facebook Oct 21, 2026 · They work with tons of ecommerce teams and help them get clear on the financial metrics that matter. And because they deliver accurate books (with the help of A2X), their clie",
+    "url": "https://www.facebook.com/a2xaccounting/",
+    "pass": 3
+   },
+   {
+    "quote": "A2X - Facebook A2X A2X is the 'Gold Standard' in ecommerce accounting automation for Shopify, Amazon, Etsy, Walmart, eBay, and PayPal.",
+    "url": "https://www.facebook.com/a2xaccounting/reels/",
+    "pass": 3
+   },
+   {
+    "quote": "A To X Ingredients - Facebook A To X Ingredients. 303 likes. A2X INGREDIENTS (P) LTD is Part of A TO X ORGANIZATION. All types of cosmetic raw materials available",
+    "url": "https://www.facebook.com/profile.php/?id=61573345175533",
+    "pass": 3
+   },
+   {
+    "quote": "A To X Ingredients - Facebook Jul 26, 2026 · A To X Ingredients. 5,415 followers · 16 talking about this. A2X Store🌿 One Stop solution for beauty & cosmetic, candle and soap raw materials. Canada |...",
+    "url": "https://www.facebook.com/p/A-To-X-Ingredients-61573345175533/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.a2xaccounting.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.a2xaccounting.com/about",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.a2x.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cnavi.g-search.or.jp/detail/8120001104466.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lawplayer.com/jp/company/8120001104466",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=teF6HEZhdlo",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jampt.jp/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.3dsystems.com/semiconductor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nihon-ma.co.jp/columns/2022/x20221003/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ma-cp.com/about-ma/affiliated-company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/establish/basic/82608/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.allstarsaas.com/posts/employee-arr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zaimani.com/financial-indicators/sales-per-employee/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toyokeizai.net/articles/-/959046?display=b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/drone_biz_lab/n/ne1c90bf17a11",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/A2X_Markets",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/GekkoScienceLLC/status/2044642150990647364",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MarulaPLC",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MarulaPlc/status/2116060353729606125",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/a2x-for-ecommerce",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/a2x-for-ecommerce",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/a2x-dk",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://nz.linkedin.com/company/a2x-for-ecommerce",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/a2xaccounting/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/a2xaccounting/reels/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/profile.php/?id=61573345175533",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/A-To-X-Ingredients-61573345175533/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "A2X",
+   "results": [
+    "https://www.a2xaccounting.com/",
+    "https://apps.xero.com/app/a2x",
+    "https://apps.shopify.com/a2x",
+    "https://www.reddit.com/r/ecommerce/comments/1nkciwj/is_a2x_still_necessary_or_could_i_save_that/",
+    "https://a2x.teachable.com/p/a2x-certification-for-accountants-and-bookkeepers",
+    "https://ja.wikipedia.org/wiki/A2O_LITE",
+    "https://grokipedia.com/page/a2x_markets",
+    "https://www.a2xaccounting.com/login",
+    "https://a2xsim.com/",
+    "https://www.a2x.co.za/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "A2X 会社概要 資本金 設立",
+   "results": [
+    "https://www.a2x.jp/company/",
+    "https://cnavi.g-search.or.jp/detail/8120001104466.html",
+    "https://lawplayer.com/jp/company/8120001104466",
+    "https://resource.agent-g.com/company",
+    "https://www.a2healthcare.com/company/profile/",
+    "https://doda.jp/DodaFront/View/Company/j_id__10097237481/",
+    "https://syukatsu-kaigi.jp/companies/37259/word_mouths",
+    "https://alarmbox.jp/companyinfo/entities/8120001104466",
+    "https://biz-maps.com/item/oelO3P4JlA"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "A2X 金属3Dプリンタ 導入",
+   "results": [
+    "https://jampt.jp/equipment/",
+    "https://www.youtube.com/watch?v=teF6HEZhdlo",
+    "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "https://www.marubeni-idigio.com/insight-hub/metal3dprinter_desktopmetal_case/",
+    "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "https://smart-factory-kenkyujo.com/3dprinter-kyoudo/",
+    "https://www.mitsubishielectric.co.jp/fa/products/mecha/am/pr/zoukei/index.html",
+    "https://skhonpo.com/blogs/3dprinter-practice/3dmetalcost",
+    "http://3d.kinzoku-kakou-odec.com/column/column-640/",
+    "https://aeroedge.co.jp/factory/a2x-arcam/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "A2X 金属積層造形 設備",
+   "results": [
+    "https://jampt.jp/equipment/",
+    "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html",
+    "https://ja.3dsystems.com/semiconductor",
+    "https://www.youtube.com/watch?v=sT3lR9R98hc",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/pc-control-ethercat-metal-additive-manufacturing-260122/",
+    "https://aeroedge.co.jp/additive-manufacturing/",
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "http://3d.kinzoku-kakou-odec.com/column/column-640/",
+    "https://www.sinto.co.jp/promotion/metal-am/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "A2X 株主 出資 親会社",
+   "results": [
+    "https://www.nihon-ma.co.jp/columns/2022/x20221003/",
+    "https://www.ma-cp.com/about-ma/affiliated-company/",
+    "https://biz.moneyforward.com/establish/basic/82608/",
+    "https://www.mhlw.go.jp/content/001027596.pdf",
+    "https://www.businesslawyers.jp/practices/1098",
+    "https://ma-la.co.jp/m-and-a/affiliated-company/",
+    "https://www.smd-am.co.jp/glossary/YST0189/",
+    "https://mitsukijapan.com/ma/column/ma-group-company/",
+    "https://fundbook.co.jp/column/understanding-ma/ma-subsidiary/",
+    "https://ja.wikipedia.org/wiki/Aホールディングス"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "A2X 売上高 従業員数",
+   "results": [
+    "https://blog.allstarsaas.com/posts/employee-arr",
+    "https://zaimani.com/financial-indicators/sales-per-employee/",
+    "https://toyokeizai.net/articles/-/959046?display=b",
+    "https://doda.jp/DodaFront/View/CompanyRanking/j_rank__2/-ne__3/",
+    "https://media.finasee.jp/articles/-/11947?page=2",
+    "https://kinmyakucode.com/ja/rankings/employee-count/",
+    "https://www.nomura.co.jp/wealthstyle/article/0659/",
+    "https://www.crex-data.com/ranking/employees/other-products",
+    "https://companydata.tsujigawa.com/human-capital/ranking/productivity/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:note.com A2X",
+   "results": [
+    "https://note.com/seigo77",
+    "https://note.com/tag/禍話リライト",
+    "https://note.com/drone_biz_lab/n/ne1c90bf17a11",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/akih/n/n6cc428c21d80"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com A2X",
+   "results": [
+    "https://x.com/A2X_Markets",
+    "https://x.com/GekkoScienceLLC/status/2044642150990647364",
+    "https://x.com/MarulaPLC",
+    "https://x.com/MarulaPlc/status/2116060353729606125",
+    "https://x.com/altair_tech/status/2117708415707287735",
+    "https://x.com/YourFriendAndy/status/2041279987177730186",
+    "https://x.com/GekkoScienceLLC"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com A2X",
+   "results": [
+    "https://www.linkedin.com/company/a2x-for-ecommerce",
+    "https://ca.linkedin.com/company/a2x-for-ecommerce",
+    "https://www.linkedin.com/company/a2x-dk",
+    "https://nz.linkedin.com/company/a2x-for-ecommerce",
+    "https://uk.linkedin.com/company/a2x-for-ecommerce",
+    "https://ca.linkedin.com/in/jamiemcdonald",
+    "https://in.linkedin.com/company/atoxingre"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com A2X",
+   "results": [
+    "https://www.facebook.com/a2xaccounting/",
+    "https://www.facebook.com/a2xaccounting/reels/",
+    "https://www.facebook.com/profile.php/?id=61573345175533",
+    "https://www.facebook.com/p/A-To-X-Ingredients-61573345175533/",
+    "https://www.facebook.com/p/A2X-Paysage-61554254831448/",
+    "https://www.facebook.com/onthe.radar.9/posts/a2x-formerly-nra-ant2x-is-a-versatile-artist-from-milwaukee-wisconsin-whose-crea/1490717313079933/",
+    "https://www.facebook.com/a2xsonorisation/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "A2X note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.a2x.jp/company/",
+    "https://note.com/aixinc",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/ncc37a1d4aa0b"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "A2X X 投稿",
+   "results": [
+    "https://support.a2xaccounting.com/en/",
+    "https://x.com/Yuichi1673402/status/2119316489467777134",
+    "https://help.x.com/ja/using-x/types-of-posts",
+    "https://dojin.dmm.co.jp/help/twitter",
+    "https://x-force.thinkforce.co.jp/archives/461",
+    "https://note.com/ai_teacher_y/n/ncfe5574dada8",
+    "https://x.com/twitcasting_jp/status/2100831269575868441"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部28頁・検索12回）",
+  "資本金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部28頁・検索12回）",
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部28頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部28頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部28頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部28頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部28頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部28頁・検索12回）"
+ }
+}

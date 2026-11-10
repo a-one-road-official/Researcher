@@ -1,0 +1,1709 @@
+{
+ "name": "工業株式会社",
+ "aliases": [],
+ "context": "PBF=yes 装置=EBM;パウダーベッド;日本電子;電子ビーム金属3D 出典=http://www.ndk-kakou.co.jp/equipment/",
+ "researched_at": "2026-11-10T18:06:21.611395+00:00",
+ "official_url": "https://kids.gakken.co.jp/",
+ "identified_by": "search:yahoo_jp:工業",
+ "profile": {
+  "所在地": [
+   {
+    "label": "住所",
+    "value": "〒227-0036 神奈川県横浜市青葉区奈良町700",
+    "url": "https://kids.gakken.co.jp/parents/news/amakara-autumn2026/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "用途・客の産業": [
+   {
+    "quote": "「地球防衛隊SDGs」第76話解説編「学校給食は何のため？」",
+    "url": "https://kids.gakken.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "まんが「地球防衛隊SDGs」第78話「目指せ！食品廃棄ゼロエリア③」",
+    "url": "https://kids.gakken.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "万博で注目！空飛ぶクルマが飛ぶワケ 自動車や航空機にない特徴は？",
+    "url": "https://kids.gakken.co.jp/kagaku/nandemo/cat_news-question/",
+    "pass": 1
+   },
+   {
+    "quote": "駐車料金は軽自動車・普通自動車は1回1000円",
+    "url": "https://kids.gakken.co.jp/parents/news/amakara-autumn2026/",
+    "pass": 1
+   },
+   {
+    "quote": "【こどもの休日の過ごし方】11/29出発 目指せ宇宙飛行士！VR宇宙飛行士訓練体験",
+    "url": "https://kids.gakken.co.jp/parents/news/cat_news-release/",
+    "pass": 1
+   },
+   {
+    "quote": "地域開発、都市開発、海洋開発、資源開発、エネルギー開発、宇宙開発、環境整備、排出権取引に関する事業並びにこれらに関する請負、企画、設計、監理、施工、マネジメント及びコンサルティング",
+    "url": "https://www.maeda.co.jp/company/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ホテル、旅館等の宿泊施設、ゴルフ場、テニス場、競技場等のスポーツ施設、遊戯場、遊園地、動物園等の娯楽施設、医療施設、教育施設、レストランの保有、経営及びコンサルティング並びにこれら施設の賃貸",
+    "url": "https://www.maeda.co.jp/company/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "発電及び電気、熱等エネルギーの供給に関する事業並びにこれに関連する施設の管理、運営及び賃貸",
+    "url": "https://www.maeda.co.jp/company/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "軸受製品、アルミダイカスト製品、システム製品他、精密金型の製造および販売",
+    "url": "https://www.taihonet.co.jp/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "金型や鋳型、冶具が不要で、金型などの保管の必要もない",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "CADデータから直接製造できるため、設計変更を伴う試作や開発、カスタマイズ製造にも適する",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "従来工法で製造できるものを量産しても、コストメリットが得られない可能性が高い",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "パウダーベッド方式は、他の方式に比べ高精度で再現性の高い造形ができ、また高密度で強度が高い部品を造ることができるため、航空宇宙や医療分野などでの実績に優れています",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "電子ビームはレーザーより高出力で熱エネルギーへの変換効率が高いため、造形速度が速く、大きめの部品の製造や、一度にまとめて量産する場合に強みを発揮します",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "内部流路があったり、内部が複雑な造形物の場合は、仮焼結粉末をブラストで除去することが困難なため、複雑な水管を有する金型などの造形は不得意としています",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "2.DED方式（Directed Energy Deposition / 指向性エネルギー堆積法）",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "DED(デポジション)方式は、金属粉末や金属ワイヤーを連続的に供給しながら、レーザーまたは電子ビーム、アーク放電のエネルギーで溶融し、堆積していく造形方法です",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "他の方式と比べて、安価で操作が容易なため試作や少量生産に適していますが、密度にやや課題があります",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "スループットが高く、量産に向いている可能性を秘めていますが、パウダーベッド方式に比べると密度や強度が低い傾向があり、実用部品への適用が課題となっています",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社は電子顕微鏡や半導体製造用電子ビーム描画装置で培った電子ビーム技術を応用して電子ビームパウダーベッドフュージョン(EB-PBF)方式の金属3Dプリンター「JAM-5200EBM」を開発しました",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "データ作成、造形、後加工など一連の作業が可能となり、様々な部品を金属3Dプリンタで試作できます",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 3
+   },
+   {
+    "quote": "三次元積層造形と切削を組み合わせたハイブリッドタイプの金属3Dプリンタも販売されており、主に金型用途で活用されています",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 3
+   },
+   {
+    "quote": "指向性エネルギー堆積法、Direct Energy Depositon(DED)",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 3
+   },
+   {
+    "quote": "集束させた熱エネルギーを利用して材料を溶融し、結合、堆積させる付加製造プロセス",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 3
+   },
+   {
+    "quote": "熱エネルギーを使用して粉末床を選択的に溶融凝固する付加製造プロセス",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 3
+   },
+   {
+    "quote": "PBF方式は現在主流の造形方式で、複雑形状部品や水管入り金型など、様々な形状を造形できます",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形とは、金属粉末や金属ワイヤーを材料にして、レーザーや電子ビームなどの高エネルギー熱源で金属を局所的に溶かし、これを繰り返し一層ずつ積み重ねることで立体物を造る造形方法です",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "また、鋳造とは異なり鋳型を必要としないため、少量生産や試作開発における低コストかつ短納期での製作を実現します",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体及び液晶パネル製造向けのドライ真空ポンプを製造、販売する樫山工業の採用情報",
+    "url": "https://recruit.kashiyama.com/company/number.html",
+    "pass": 3
+   },
+   {
+    "quote": "自動車のインパネや家電製品のスイッチ配置、オフィスチェアの形状などに、この考え方が色濃く表れている",
+    "url": "https://note.com/studiodetailsinc/n/n5b39fc8f6543",
+    "pass": 3
+   },
+   {
+    "quote": "Tesla「エネルギー体験そのものをデザインする」",
+    "url": "https://note.com/studiodetailsinc/n/n5b39fc8f6543",
+    "pass": 3
+   },
+   {
+    "quote": "Teslaは、電気自動車メーカーという枠を超え、エネルギーシステム全体をデザイン対象としている",
+    "url": "https://note.com/studiodetailsinc/n/n5b39fc8f6543",
+    "pass": 3
+   }
+  ],
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "アクセス：【電車の場合】JR横浜線・東急田園都市線「長津田駅」からこどもの国線に乗り換え、「こどもの国駅」下車徒歩3分／【車の場合】正面駐車場 収容台数820台で8時30分から開場",
+    "url": "https://kids.gakken.co.jp/parents/news/amakara-autumn2026/",
+    "pass": 1
+   },
+   {
+    "quote": "道路、鉄道、港湾、空港、河川施設、上下水道、庁舎、廃棄物処理施設、駐車場その他の公共施設及びこれらに準ずる施設等の企画、設計、施工、監理、保有、譲渡、維持管理及び運営",
+    "url": "https://www.maeda.co.jp/company/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ホテル、旅館等の宿泊施設、ゴルフ場、テニス場、競技場等のスポーツ施設、遊戯場、遊園地、動物園等の娯楽施設、医療施設、教育施設、レストランの保有、経営及びコンサルティング並びにこれら施設の賃貸",
+    "url": "https://www.maeda.co.jp/company/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターの基礎知識：各方式の違いと特徴を徹底解説 | コラム | JEOL 日本電子株式会社",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターの基礎知識：各方式の違いと特徴を徹底解説",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターは従来の金属加工法と比べて複雑形状を製作することができ、その他にも材料ロスの削減、工期の短縮などさまざまなメリットがあり、実用化が広がっています",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "本コラムでは、金属3Dプリンターの基本的な仕組みと主要な造形方式について詳しく解説します",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター(積層造形装置)とは？",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターとは、3次元CADデータをもとに、金属粉末や金属ワイヤーを材料として、レーザーや電子ビームなどで溶融させ、一層ずつ積層しながら立体形状を造形する装置です",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属材料の加工法は、切削、鋳造、鍛造、板金加工、プレス加工、粉末冶金、接合などが挙げられますが、金属3Dプリンターは新たな工作機械と呼ぶ事ができます",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターの歴史",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターの開発は、1980年代に遡ります",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "これは樹脂を材料としていましたが、その後、金属粉末をレーザーで溶融させる技術が開発され、1990年代には商用の金属3Dプリンターが登場しました",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "2013年のアメリカのオバマ大統領（当時）の一般教書演説以後、金属3Dプリンターが世界中で注目されるようになり、開発プロジェクトがアメリカ、ヨーロッパ、中国などで開始されました",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "が設立され、金属3Dプリンターを含む、3Dプリンターのさまざまなプロジェクトが行われています",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "従来の金属加工法と金属3Dプリンターの比較",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3DプリンターはDXを実現するツールの一つと言える",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "従来の金属加工法のぞれぞれにメリット、デメリットがあるように、金属3Dプリンターにも以下のような課題があります",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "（金属3Dプリンターの方式やメーカーの機種により異なる）",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターの方式やメーカーの機種により異なるが、サポート材(中空部分の土台)の除去、熱処理、ブラスト処理、表面仕上げ加工などが必要になってくる",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターの種類（造形方式）",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターは、その造形方式によっていくつかの種類に分けられます",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "1.パウダーベッド方式（Powder Bed Fusion:PBF / 粉末床溶融結合法）",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "パウダーベッド方式は金属3Dプリンターの中で最も主流で、世界中で広く利用されています",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末を均等に敷き詰めたパウダーベッド(粉末床)に、熱源のレーザーまたは電子ビームを選択的にスキャンし、溶融・凝固を繰り返し、一層ずつ積み重ねていき造形します",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "パウダーベッド方式は、他の方式に比べ高精度で再現性の高い造形ができ、また高密度で強度が高い部品を造ることができるため、航空宇宙や医療分野などでの実績に優れています",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "パウダーベッド方式には、加熱源がレーザーと電子ビームの2つの方式があり、それぞれ特徴があります",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "・レーザー：EOS, 3D Systems, Nikon SLM Solutions, Colibrium Additive（旧Concept Laser）, 松浦機械製作所, ソディック",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属３Dプリンター 導入事例① アルミ│東京都｜金属3Dプリンターなら有我工業所",
+    "url": "https://kk-ariga.co.jp/metal_3d_printer/%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "金属３Dプリンター 導入事例① アルミ",
+    "url": "https://kk-ariga.co.jp/metal_3d_printer/%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "東京大学生産技術研究所 今井研究室様の導入事例をご紹介いたします",
+    "url": "https://kk-ariga.co.jp/metal_3d_printer/%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "浜松工業技術支援センター 金属3Dプリンタ特集サイト | 静岡県工業技術研究所",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 3
+   },
+   {
+    "quote": "浜松工業技術支援センター 金属3Dプリンタ特集サイト",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタ活用セミナー17を開催します",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタ活用ワークショップ（８）を開催します",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタ活用セミナー16を開催します",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 3
+   },
+   {
+    "quote": "輸送機器産業が抱える、開発期間短縮や軽量化などの技術的課題解決のため製造現場のデジタル化が求められており、その解決手段として金属3Dプリンタが注目されています",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 3
+   },
+   {
+    "quote": "浜松工業技術支援センターは、令和4年度、金属3Dプリンタ及び関連装置を導入しました",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 3
+   },
+   {
+    "quote": "データ作成、造形、後加工など一連の作業が可能となり、様々な部品を金属3Dプリンタで試作できます",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 3
+   },
+   {
+    "quote": "当所に導入した金属3Dプリンタは、SLMソリューションズ社製のSLM280です",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 3
+   },
+   {
+    "quote": "ぜひ気軽に金属3Dプリンタを体験していただき、県内企業の皆様の事業にお役立てください",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタとは",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタとは、金属粉末をレーザビーム、電子ビーム、溶融押出し、インクジェット等を用い、3次元データ（3D CADデータ）をもとに一層ずつ積み重ねることにより、三次元立体形状を積層造形して目的形状を作製する装置です",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 3
+   },
+   {
+    "quote": "三次元積層造形と切削を組み合わせたハイブリッドタイプの金属3Dプリンタも販売されており、主に金型用途で活用されています",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタの分類",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 3
+   },
+   {
+    "quote": "一般的に、金属3Dプリンタは、付加製造プロセス（造形方法）の違いにより分類されます",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末床溶融結合法、パウダーベッドフュージョン、Powder bed fusion(PBF)",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタの工程",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 3
+   },
+   {
+    "quote": "当所の金属3Dプリンタはパウダーベッド方式（Powder bed Fusion：PBF方式）です",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 3
+   },
+   {
+    "quote": "PBF方式は現在主流の造形方式で、複雑形状部品や水管入り金型など、様々な形状を造形できます",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 3
+   },
+   {
+    "quote": "PBF方式による金属3Dプリンタの工程例",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター（金属積層造形）サービス｜中央可鍛工業株式会社",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター(金属積層造形)サービス",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形(金属3Dプリンター)とは",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形とは、金属粉末や金属ワイヤーを材料にして、レーザーや電子ビームなどの高エネルギー熱源で金属を局所的に溶かし、これを繰り返し一層ずつ積み重ねることで立体物を造る造形方法です",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "造形に使用する設備は、一般的に「金属3Dプリンター」と呼ばれています",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターの活用メリット",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形と組み合わせることで、従来工法では製作が難しかった軽量かつ高強度な構造を実現し、性能向上や材料使用量の削減に貢献します",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形の設計自由度を活かした、高機能・高付加価値な構造です",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "Overview of Powder Bed Fusion (PBF)",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "フジミ工研株式会社を設立（現 連結子会社）",
+    "url": "https://www.maeda.co.jp/company/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ミヤマ特殊工事株式会社（現 株式会社エフビーエス）を設立（現 連結子会社）",
+    "url": "https://www.maeda.co.jp/company/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "Thai Maeda Corporation Ltd.を設立（現 連結子会社）",
+    "url": "https://www.maeda.co.jp/company/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "フジミビルサービス株式会社（現 株式会社エフビーエス）を設立（現 連結子会社）",
+    "url": "https://www.maeda.co.jp/company/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社なおしや又兵衛（現 株式会社JM）を設立（現 連結子会社）",
+    "url": "https://www.maeda.co.jp/company/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式を東京証券取引所市場第一部より上場廃止",
+    "url": "https://www.maeda.co.jp/company/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "国内子会社：4社",
+    "url": "https://www.taihonet.co.jp/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "海外子会社：7社",
+    "url": "https://www.taihonet.co.jp/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "大株主（10名）",
+    "url": "https://www.aisan-ind.co.jp/ir/stock/information.html",
+    "pass": 3
+   },
+   {
+    "quote": "なお、中間配当を実施するときの中間配当金受領株主決定日は、9月30日であります",
+    "url": "https://www.trinityind.co.jp/stocks/stockholder/",
+    "pass": 3
+   },
+   {
+    "quote": "未受領の配当金のお支払、および特別口座に記録された株主様のお手続きは、三菱UFJ信託銀行本支店でお取次ぎさせていただきます",
+    "url": "https://www.trinityind.co.jp/stocks/stockholder/",
+    "pass": 3
+   },
+   {
+    "quote": "なお、証券口座に記録された株主様の住所変更、買取請求その他各種お手続きにつきましては、原則、口座を開設されている証券会社経由にてお願いいたします",
+    "url": "https://www.trinityind.co.jp/stocks/stockholder/",
+    "pass": 3
+   },
+   {
+    "quote": "株主様が口座を開設されている証券会社にお申し出ください",
+    "url": "https://www.sanyo-chemical.co.jp/ir/stock/information",
+    "pass": 3
+   },
+   {
+    "quote": "なお、証券会社に口座がないため特別口座が開設されました株主様は、特別口座の管理機関である三井住友信託銀行株式会社にお申し出ください",
+    "url": "https://www.sanyo-chemical.co.jp/ir/stock/information",
+    "pass": 3
+   },
+   {
+    "quote": "株主名簿管理人である三井住友信託銀行株式会社にお申し出ください",
+    "url": "https://www.sanyo-chemical.co.jp/ir/stock/information",
+    "pass": 3
+   },
+   {
+    "quote": "2020年8月までは当社が100%出資でYK Steelの経営を行ってきましたが、競争力を一層強化し収益性の更なる向上を図る為、韓国の鉄鋼業界に精通した大韓製鋼とパートナーシップを組むことで、韓国棒鋼市場における大手3大メーカーの一角を占める地位を確立しました",
+    "url": "https://www.yamatokogyo.co.jp/recruit/about/data/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年に発足した同社とのPOSCO YAMATO VINA STEELには当社だけでなく、東南アジア市場に知見のあるSiam Yamato Steelからも出資しており、3社のシナジーを最大限に活かし、ベトナムのインフラ発展を支えています",
+    "url": "https://www.yamatokogyo.co.jp/recruit/about/data/",
+    "pass": 3
+   },
+   {
+    "quote": "これには少数持分出資と、成長した海外事業の貢献が大きく影響しています",
+    "url": "https://www.yamatokogyo.co.jp/recruit/about/data/",
+    "pass": 3
+   },
+   {
+    "quote": "子会社の大黒美術紙工（株）と（株）さくらとダイコクバッグ（株）の3社が合併",
+    "url": "https://job.mynavi.jp/27/pc/search/corp100375/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "子会社のダイコク化成（株）と丸三化成（株）が合併",
+    "url": "https://job.mynavi.jp/27/pc/search/corp100375/outline.html",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "軸受製品、アルミダイカスト製品、システム製品他、精密金型の製造および販売",
+    "url": "https://www.taihonet.co.jp/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターとは、3次元CADデータをもとに、金属粉末や金属ワイヤーを材料として、レーザーや電子ビームなどで溶融させ、一層ずつ積層しながら立体形状を造形する装置です",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属材料の加工法は、切削、鋳造、鍛造、板金加工、プレス加工、粉末冶金、接合などが挙げられますが、金属3Dプリンターは新たな工作機械と呼ぶ事ができます",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "これは樹脂を材料としていましたが、その後、金属粉末をレーザーで溶融させる技術が開発され、1990年代には商用の金属3Dプリンターが登場しました",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "装置価格や金属粉末などの材料費は従来工法より高価な傾向がある",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "1.パウダーベッド方式（Powder Bed Fusion:PBF / 粉末床溶融結合法）",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末を均等に敷き詰めたパウダーベッド(粉末床)に、熱源のレーザーまたは電子ビームを選択的にスキャンし、溶融・凝固を繰り返し、一層ずつ積み重ねていき造形します",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "造形が完了したら、周囲の粉末を取り除き、完成した造形物を取り出します",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "周囲の粉末は回収され、ふるいにかけた後、造形に再利用します",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "先に述べたパウダーベッド方式では金属粉末を溶融して造形しますが、加熱源としてレーザーと電子ビームが使用されています",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "一般的なファイバーレーザーでは概ね5～40%程度（チタンは65%程度）",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、電子ビーム方式は真空環境下で造形を行うため、酸素や水分の影響を抑えることができ、チタン合金などの活性金属の造形に適しています",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "タングステンやモリブデンなどの高融点金属や純銅のように、ファイバーレーザーでは吸収率の低い材料にも適しています",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "まず電子ビーム方式は、予熱の際に造形物の周囲の粉末同士が軽く結合されるため、造形後に仮焼結された粉末をブラストで取り除く必要があります",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "内部流路があったり、内部が複雑な造形物の場合は、仮焼結粉末をブラストで除去することが困難なため、複雑な水管を有する金型などの造形は不得意としています",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "使用する金属粉末の粒径はレーザー方式より大きい粉末を使用しているため、微細形状の精度や表面粗さはレーザー方式の方がやや優れています",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "DED(デポジション)方式は、金属粉末や金属ワイヤーを連続的に供給しながら、レーザーまたは電子ビーム、アーク放電のエネルギーで溶融し、堆積していく造形方法です",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "・レーザー（粉末）： DMG森精機, ニデックマシンツール, ニコン, 芝浦機械",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末と、バインダー（結合剤）となる熱可塑性樹脂材料を混ぜたフィラメントを、熱で溶かしてノズルから押し出しながら積層します",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "材料のロスが少なく金属粉末の取り扱いが容易です",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "敷き詰めた金属粉末に、ノズルから選択的に液体の結合剤(バインダー)を噴射しながら一層ずつ固化させます",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "パウダーベッド方式と同様に、造形に利用されなかった金属粉末は再利用できます",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "他にも超音速堆積法（ノズルから金属粉末を高速で吹き付け金属粒子を結合）や液体金属堆積法（インクジェットの金属版で、金属粒子の懸濁液を吹き付け、高温で結合させ堆積）などがあります",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターによる銅の造形：技術的課題と解決アプローチ",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターによる銅の積層造形では従来の製造方法では実現できなかった複雑な形状を作製することができ、近年注目が集まっています",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "本コラムでは、3Dプリンターによる銅の造形についてわかりやすく解説します",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属３Dプリンター 導入事例① アルミ│東京都｜金属3Dプリンターなら有我工業所",
+    "url": "https://kk-ariga.co.jp/metal_3d_printer/%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "金属３Dプリンター 導入事例① アルミ",
+    "url": "https://kk-ariga.co.jp/metal_3d_printer/%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "仕口（継手金物）をアルミによる3Dプリントにて制作",
+    "url": "https://kk-ariga.co.jp/metal_3d_printer/%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタとは、金属粉末をレーザビーム、電子ビーム、溶融押出し、インクジェット等を用い、3次元データ（3D CADデータ）をもとに一層ずつ積み重ねることにより、三次元立体形状を積層造形して目的形状を作製する装置です",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 3
+   },
+   {
+    "quote": "液状の結合剤を選択的に供給して、粉末材料を結合する付加製造プロセス",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末床溶融結合法、パウダーベッドフュージョン、Powder bed fusion(PBF)",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 3
+   },
+   {
+    "quote": "熱エネルギーを使用して粉末床を選択的に溶融凝固する付加製造プロセス",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 3
+   },
+   {
+    "quote": "利用者にご準備いただいた3D CADデータを用い、金属粉末をレーザで焼き固め、部品等を造形します",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形とは、金属粉末や金属ワイヤーを材料にして、レーザーや電子ビームなどの高エネルギー熱源で金属を局所的に溶かし、これを繰り返し一層ずつ積み重ねることで立体物を造る造形方法です",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "中央可鍛工業では、粉末床溶融結合方式（PBF）でのご相談を受け付けております",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "PBFは金属積層造形の代表的な方式の一つで、造形エリアに金属粉末を薄く均一に敷き、レーザーや電子ビームで選択的に溶融・凝固させ、この作業を繰り返すことで立体物を造形していきます",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "Inconel625、718",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "SUS316L",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、自社製品である紙関連資材（キッチンペーパーや紙おしぼりなど）と様々なメーカー様の食品用ラップ・アルミホイルなどを全国に販売しております",
+    "url": "https://job.mynavi.jp/27/pc/search/corp100375/outline.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 ｜企業情報 - 前田建設工業 — 会社概要 ｜企業情報 - 前田建設工業 前田建設工業株式会社 https://www.maeda.co.jp > company > outline",
+    "url": "https://www.maeda.co.jp/company/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 企業情報 | 大豊 工業 株式会社 — 会社概要 | 企業情報 | 大豊 工業 株式会社 大豊工業株式会社 https://www.taihonet.co.jp > company > outline",
+    "url": "https://www.taihonet.co.jp/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 東京応化 工業 株式会社 — 会社概要 | 東京応化 工業 株式会社 東京応化工業株式会社 https://www.tok.co.jp > 企業情報",
+    "url": "https://www.tok.co.jp/company/outline",
+    "pass": 3
+   },
+   {
+    "quote": "浜松 工業 技術支援センター 金属3Dプリンタ 特集サイト — 浜松 工業 技術支援センター 金属3Dプリンタ 特集サイト 静岡県工業技術研究所 https://www.iri.pref.shizuoka.jp > printer",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形 (金属3Dプリンター)とは - 中央可鍛工業株式会社 — 金属積層造形 (金属3Dプリンター)とは - 中央可鍛工業株式会社 中央可鍛工業株式会社 https://chuokatan.co.jp > products",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "金属 3Dプリンティングの課題とソリューション - 新東工業 — 金属 3Dプリンティングの課題とソリューション - 新東工業 新東工業株式会社 https://www.sinto.co.jp > promotion > metal-am",
+    "url": "https://www.sinto.co.jp/promotion/metal-am/",
+    "pass": 3
+   },
+   {
+    "quote": "株式の状況｜IR（投資家情報）｜愛三 工業 株式会社 — 株式の状況｜IR（投資家情報）｜愛三 工業 株式会社 愛三工業株式会社 https://www.aisan-ind.co.jp > IR（投資家情報）",
+    "url": "https://www.aisan-ind.co.jp/ir/stock/information.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式・ 株主 情報 - トリニティ工業 — 株式・ 株主 情報 - トリニティ工業 トリニティ工業 https://www.trinityind.co.jp > stocks > stockholder",
+    "url": "https://www.trinityind.co.jp/stocks/stockholder/",
+    "pass": 3
+   },
+   {
+    "quote": "株式基本情報 | 三洋化成 工業 株式会社 — 株式基本情報 | 三洋化成 工業 株式会社 三洋化成工業株式会社 https://www.sanyo-chemical.co.jp > ... > 株式情報",
+    "url": "https://www.sanyo-chemical.co.jp/ir/stock/information",
+    "pass": 3
+   },
+   {
+    "quote": "児玉化学 工業 <4222>、 親会社 以外の支配 株主 の異動を発表 ... — 児玉化学 工業 <4222>、 親会社 以外の支配 株主 の異動を発表 ... マールオンライン https://www.marr.jp > genre > market > regionalma > entry",
+    "url": "https://www.marr.jp/genre/market/regionalma/entry/59040",
+    "pass": 3
+   },
+   {
+    "quote": "一目でわかるYamato | 新卒採用 | 大和 工業 グループ 採用サイト — 一目でわかるYamato | 新卒採用 | 大和 工業 グループ 採用サイト 大和工業株式会社 https://www.yamatokogyo.co.jp > 新卒採用",
+    "url": "https://www.yamatokogyo.co.jp/recruit/about/data/",
+    "pass": 3
+   },
+   {
+    "quote": "数字とキーワードで知る樫山 工業 — 数字とキーワードで知る樫山 工業 recruit.kashiyama.com https://recruit.kashiyama.com > company > number",
+    "url": "https://recruit.kashiyama.com/company/number.html",
+    "pass": 3
+   },
+   {
+    "quote": "大黒 工業 (株)の新卒採用・会社概要 | マイナビ2027 — 大黒 工業 (株)の新卒採用・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp100375 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp100375/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "AISAN早わかり｜企業情報｜愛三 工業 株式会社 — AISAN早わかり｜企業情報｜愛三 工業 株式会社 愛三工業株式会社 https://www.aisan-ind.co.jp > 企業情報",
+    "url": "https://www.aisan-ind.co.jp/company/ataglance.html",
+    "pass": 3
+   },
+   {
+    "quote": "数字で見る東亜道路 工業 — 数字で見る東亜道路 工業 東亜道路工業 https://www.toadoro.co.jp > recruit > numbers",
+    "url": "https://www.toadoro.co.jp/recruit/numbers/index.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "工業 デザイン100年の進化｜STUDIO DETAILS Inc. - note 工業 デザイン100年の進化｜STUDIO DETAILS Inc. - note note https://note.com > デザイン > インダストリアルデザイン",
+    "url": "https://note.com/studiodetailsinc/n/n5b39fc8f6543",
+    "pass": 3
+   },
+   {
+    "quote": "アイジー 工業 - note アイジー 工業 - note note https://note.com > igkogyo",
+    "url": "https://note.com/igkogyo",
+    "pass": 3
+   },
+   {
+    "quote": "匠技研 工業 株式会社｜公式 - note 匠技研 工業 株式会社｜公式 - note note https://note.com > takumigiken",
+    "url": "https://note.com/takumigiken",
+    "pass": 3
+   },
+   {
+    "quote": "北海道函館 工業 高等学校公式note 北海道函館 工業 高等学校公式note note.com https://note.com > notedorituko0607",
+    "url": "https://note.com/notedorituko0607",
+    "pass": 3
+   },
+   {
+    "quote": "井上 社長 ｜三陽 工業 株式会社 - note 井上 社長 ｜三陽 工業 株式会社 - note note https://note.com > sanyo_industry",
+    "url": "https://note.com/sanyo_industry",
+    "pass": 3
+   },
+   {
+    "quote": "社長 の履歴書 第3章： 工業 高校とプログラミング、そして人を ... 社長 の履歴書 第3章： 工業 高校とプログラミング、そして人を ... note https://note.com > キャリア > 起業・独立",
+    "url": "https://note.com/douga_hanbai/n/na7d1b000fad0",
+    "pass": 3
+   },
+   {
+    "quote": "仲間1｜日本理化学 工業 株式会社 社長 大山の日々の記録 - note 仲間1｜日本理化学 工業 株式会社 社長 大山の日々の記録 - note note https://note.com > 人物・社会 > 経営者・実業家",
+    "url": "https://note.com/nihon_rikagaku/n/nf07ff7baf735",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "工業デザイン100年の進化｜STUDIO DETAILS Inc.",
+    "url": "https://note.com/studiodetailsinc/n/n5b39fc8f6543",
+    "pass": 3
+   },
+   {
+    "quote": "社会や産業の姿が変わるたびに、私たちが何を便利だと感じ、何に心を動かされるのかという基準も変わっていく。そして、その変化を最も敏感に映し出すのが、工業デザインの世界である。",
+    "url": "https://note.com/studiodetailsinc/n/n5b39fc8f6543",
+    "pass": 3
+   },
+   {
+    "quote": "機械が生活を大きく変えた20世紀初頭から、ソフトウェアとネットワークが当たり前になった現在まで。プロダクトは、単なる道具から、体験の入口となり、さらには社会や環境との関係性を調整するインターフェースへと進化してきた。",
+    "url": "https://note.com/studiodetailsinc/n/n5b39fc8f6543",
+    "pass": 3
+   },
+   {
+    "quote": "本稿では、工業デザインの変遷を6つの切り口から振り返りながら、これからのデザインが何を前提にすべきか、その文脈を丁寧に整理していく。",
+    "url": "https://note.com/studiodetailsinc/n/n5b39fc8f6543",
+    "pass": 3
+   },
+   {
+    "quote": "1. 産業とデザインの関係：何をつくるかが変われば、どうつくるかも変わる",
+    "url": "https://note.com/studiodetailsinc/n/n5b39fc8f6543",
+    "pass": 3
+   },
+   {
+    "quote": "まず押さえておきたいのは、工業デザインはいつでも産業構造の変化とセットで語られるという点である。なぜなら、社会がどのような技術に依拠しているかによって、プロダクトの構成要素も、ビジネスモデルも、求められる体験も変わるからだ。",
+    "url": "https://note.com/studiodetailsinc/n/n5b39fc8f6543",
+    "pass": 3
+   },
+   {
+    "quote": "この100年をざっくりと振り返ると、産業は次のような世代を経ている。",
+    "url": "https://note.com/studiodetailsinc/n/n5b39fc8f6543",
+    "pass": 3
+   },
+   {
+    "quote": "・第3世代 ハード＋エレクトロニクス＋ソフトウェア",
+    "url": "https://note.com/studiodetailsinc/n/n5b39fc8f6543",
+    "pass": 3
+   },
+   {
+    "quote": "こんな家にすみたい！夢の家 こどもアイデアコンテスト開催しました！",
+    "url": "https://note.com/igkogyo",
+    "pass": 3
+   },
+   {
+    "quote": "IG PARTNERS DAY 2026が開催されました！",
+    "url": "https://note.com/igkogyo",
+    "pass": 3
+   },
+   {
+    "quote": "健康は毎日の小さな一歩から。私たちの健康経営の取り組み",
+    "url": "https://note.com/igkogyo",
+    "pass": 3
+   },
+   {
+    "quote": "ひがしねさくらんぼマラソン大会のボランティアに参加してきました！",
+    "url": "https://note.com/igkogyo",
+    "pass": 3
+   },
+   {
+    "quote": "第12回ジャパン・レジリエンス・アワード（強靭化大賞）2026最優秀賞を受賞しました！",
+    "url": "https://note.com/igkogyo",
+    "pass": 3
+   },
+   {
+    "quote": "新入社員研修から学んだ、仕事への向き合い方",
+    "url": "https://note.com/igkogyo",
+    "pass": 3
+   },
+   {
+    "quote": "欧州訪問を経て、AI時代に問う。日本のモノづくり産業の勝ち筋とは。——ハノーファーメッセ2026訪問考察記",
+    "url": "https://note.com/takumigiken",
+    "pass": 3
+   },
+   {
+    "quote": "仕事はお客様理解に尽きる──コンサルからもう一度営業へ【社員インタビュー】",
+    "url": "https://note.com/takumigiken",
+    "pass": 3
+   },
+   {
+    "quote": "プロダクトエンジニアならば、顧客の成功まで責任を持てーエンジニアが顧客担当になる理由",
+    "url": "https://note.com/takumigiken",
+    "pass": 3
+   },
+   {
+    "quote": "工場管理業務を自動化する\"自動見積エージェント\"：AI-Native戦略で挑むR&DのCV・LLMの研究課題",
+    "url": "https://note.com/takumigiken",
+    "pass": 3
+   },
+   {
+    "quote": "「モヤモヤが消えなかった」家庭を持つ31歳が、スタートアップで入社半年後にリーダーになった話【社員インタビュー】",
+    "url": "https://note.com/takumigiken",
+    "pass": 3
+   },
+   {
+    "quote": "現場の経験知で動く業界に、AIネイティブを実装する",
+    "url": "https://note.com/takumigiken",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の現場からスタートアップの最前線へ──顧客に価値を届けるエンジニアの成長【社員インタビュー】",
+    "url": "https://note.com/takumigiken",
+    "pass": 3
+   },
+   {
+    "quote": "旅のおいしいひととき！見学旅行のもぐもぐタイム！",
+    "url": "https://kanko-hs.note.jp/?gs=34cd583625b7777165d08dcde27249cc",
+    "pass": 3
+   },
+   {
+    "quote": "歴史と技術にふれる旅！東大寺と東京スカイツリーを見学！",
+    "url": "https://kanko-hs.note.jp/?gs=34cd583625b7777165d08dcde27249cc",
+    "pass": 3
+   },
+   {
+    "quote": "モーターを安全に動かす！直流分巻電動機の始動と速度の制御",
+    "url": "https://kanko-hs.note.jp/?gs=34cd583625b7777165d08dcde27249cc",
+    "pass": 3
+   },
+   {
+    "quote": "モーターの力を測る！三相誘導電動機の実負荷試験",
+    "url": "https://kanko-hs.note.jp/?gs=34cd583625b7777165d08dcde27249cc",
+    "pass": 3
+   },
+   {
+    "quote": "【1374球目】もう一度新入社員に戻れるなら？",
+    "url": "https://note.com/sanyo_industry",
+    "pass": 3
+   },
+   {
+    "quote": "【1372球目】阪神タイガース2026シーズン振り返り",
+    "url": "https://note.com/sanyo_industry",
+    "pass": 3
+   },
+   {
+    "quote": "【1371球目】三陽工業の研磨技術が認められた事例紹介",
+    "url": "https://note.com/sanyo_industry",
+    "pass": 3
+   },
+   {
+    "quote": "【1367球目】社員のチャレンジを応援する文化づくり",
+    "url": "https://note.com/sanyo_industry",
+    "pass": 3
+   },
+   {
+    "quote": "【1366球目】お金VSやりがい 仕事で重視するのは？",
+    "url": "https://note.com/sanyo_industry",
+    "pass": 3
+   },
+   {
+    "quote": "社長の履歴書 第3章：工業高校とプログラミング、そして人を喜ばせる喜び｜HIROKI",
+    "url": "https://note.com/douga_hanbai/n/na7d1b000fad0",
+    "pass": 3
+   },
+   {
+    "quote": "社長の履歴書 第3章：工業高校とプログラミング、そして人を喜ばせる喜び",
+    "url": "https://note.com/douga_hanbai/n/na7d1b000fad0",
+    "pass": 3
+   },
+   {
+    "quote": "中学を卒業した私は、迷わず工業高校への進学を選びました。小学生の頃から自転車をパーツから組み立てたり、中学ではスピーカーを自作したりと、ものづくりへの関心が人一倍強かったからです。",
+    "url": "https://note.com/douga_hanbai/n/na7d1b000fad0",
+    "pass": 3
+   },
+   {
+    "quote": "工業高校の教室に並ぶ機械や工具を見たときの興奮は、今でも鮮明に覚えています。旋盤やフライス盤の音、油と鉄の匂い、先輩たちが溶接で火花を散らす姿。そこは、まさに「未来のエンジニアたちが育つ工房」でした。",
+    "url": "https://note.com/douga_hanbai/n/na7d1b000fad0",
+    "pass": 3
+   },
+   {
+    "quote": "私は授業中も放課後も、機械や電気に触れる時間を楽しみました。教科書に載っていない方法を試したり、部品を分解して仕組みを理解したり。まるで遊びの延長のように、学びを楽しんでいたのです。",
+    "url": "https://note.com/douga_hanbai/n/na7d1b000fad0",
+    "pass": 3
+   },
+   {
+    "quote": "高校に入ると同時に始めたのが、アルバイトでした。目標はただ一つ。当時、私の憧れの的だった「NEC PC-6001」を手に入れるためです。",
+    "url": "https://note.com/douga_hanbai/n/na7d1b000fad0",
+    "pass": 3
+   },
+   {
+    "quote": "部活が終わった後や休日に働き、ようやく手にしたPC-6001は、私にとって夢そのものでした。電源を入れると緑色の画面が現れ、コマンドを打ち込むとすぐに応えてくれる。まるで機械と会話しているような感覚に、心が震えました。",
+    "url": "https://note.com/douga_hanbai/n/na7d1b000fad0",
+    "pass": 3
+   },
+   {
+    "quote": "私は夢中でプログラムを書きました。ゲームを模倣したり、自分なりのアルゴリズムを考えたり。失敗を繰り返しながらも、完成したプログラムを走らせたときの達成感は、何ものにも代え難いものでした。",
+    "url": "https://note.com/douga_hanbai/n/na7d1b000fad0",
+    "pass": 3
+   },
+   {
+    "quote": "仲間１｜日本理化学工業株式会社 社長大山の日々の記録",
+    "url": "https://note.com/nihon_rikagaku/n/nf07ff7baf735",
+    "pass": 3
+   },
+   {
+    "quote": "日本理化学工業株式会社 社長大山の日々の記録",
+    "url": "https://note.com/nihon_rikagaku/n/nf07ff7baf735",
+    "pass": 3
+   },
+   {
+    "quote": "noteに書き記すことへいろいろ迷いがありましたが、これからはしっかりと自分に向き合いながらこちらに表していきたいと思いますので、改めてよろしくお願いいたします。",
+    "url": "https://note.com/nihon_rikagaku/n/nf07ff7baf735",
+    "pass": 3
+   },
+   {
+    "quote": "いろいろなキャラクターがいてくれますので、飽きることはまずありません。",
+    "url": "https://note.com/nihon_rikagaku/n/nf07ff7baf735",
+    "pass": 3
+   },
+   {
+    "quote": "彼は、すでに約10年製造現場で頑張ってくれています。",
+    "url": "https://note.com/nihon_rikagaku/n/nf07ff7baf735",
+    "pass": 3
+   },
+   {
+    "quote": "話しをすることは得意ではありませんが、仕事は上手な人のやることを見て（真似て）覚えていくのも得意です。",
+    "url": "https://note.com/nihon_rikagaku/n/nf07ff7baf735",
+    "pass": 3
+   },
+   {
+    "quote": "一度自分のものになるとそれを持続していく力はとても素晴らしいものがあり、およそ同じに真似しろと言われても私にはできないことばかりだと思います。",
+    "url": "https://note.com/nihon_rikagaku/n/nf07ff7baf735",
+    "pass": 3
+   },
+   {
+    "quote": "このような社員たちが現場を創り、守ってくれているので、突出して素晴らしいとは評されることがないのが、弊社のすごいところかもしれません。",
+    "url": "https://note.com/nihon_rikagaku/n/nf07ff7baf735",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "化学 工業 日報社 (@chemicaldailyad) / X 化学 工業 日報社 (@chemicaldailyad) / X X https://x.com > chemicaldailyad",
+    "url": "https://x.com/chemicaldailyad",
+    "pass": 3
+   },
+   {
+    "quote": "三桜 工業 株式会社 (@sanoh_pr) / X 三桜 工業 株式会社 (@sanoh_pr) / X X https://x.com > sanoh_pr",
+    "url": "https://x.com/sanoh_pr",
+    "pass": 3
+   },
+   {
+    "quote": "日刊 工業 新聞電子版 (@Nikkan_BizLine) / X 日刊 工業 新聞電子版 (@Nikkan_BizLine) / X X https://x.com > Nikkan_BizLine",
+    "url": "https://x.com/Nikkan_BizLine",
+    "pass": 3
+   },
+   {
+    "quote": "Honda 本田技研 工業 (@HondaJP) / X Honda 本田技研 工業 (@HondaJP) / X X https://x.com > HondaJP",
+    "url": "https://x.com/HondaJP",
+    "pass": 3
+   },
+   {
+    "quote": "豊和 工業 株式会社【公式】 (@MIZGUARD) / X 豊和 工業 株式会社【公式】 (@MIZGUARD) / X X https://x.com > MIZGUARD",
+    "url": "https://x.com/MIZGUARD",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "武蔵精密 工業 Musashi Seimitsu Industry Co., Ltd. - LinkedIn 武蔵精密 工業 Musashi Seimitsu Industry Co., Ltd. - LinkedIn LinkedIn https://jp.linkedin.com > company > musashiseimitsu",
+    "url": "https://jp.linkedin.com/company/musashiseimitsu",
+    "pass": 3
+   },
+   {
+    "quote": "太陽 工業 株式会社 - LinkedIn 太陽 工業 株式会社 - LinkedIn LinkedIn https://jp.linkedin.com > taiyo-kogyo-corporation",
+    "url": "https://jp.linkedin.com/company/taiyo-kogyo-corporation",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Technology Research Institute (ITRI)( 工業 技術研究 ... Industrial Technology Research Institute (ITRI)( 工業 技術研究 ... LinkedIn https://www.linkedin.com > itri > life",
+    "url": "https://www.linkedin.com/company/itri/life",
+    "pass": 3
+   },
+   {
+    "quote": "九州 工業 大学の社員、場所、同窓生 - LinkedIn 九州 工業 大学の社員、場所、同窓生 - LinkedIn LinkedIn https://jp.linkedin.com > school > 九州工業大学",
+    "url": "https://jp.linkedin.com/school/%E4%B9%9D%E5%B7%9E%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "石川県 工業 試験場 | Kanazawa-shi Ishikawa - Facebook 石川県 工業 試験場 | Kanazawa-shi Ishikawa - Facebook Facebook https://www.facebook.com > iri.of.ishikawa",
+    "url": "https://www.facebook.com/iri.of.ishikawa/",
+    "pass": 3
+   },
+   {
+    "quote": "クミアイ化学 工業 株式会社 | Taito-ku Tokyo - Facebook クミアイ化学 工業 株式会社 | Taito-ku Tokyo - Facebook Facebook https://www.facebook.com > ... > Chemical Company",
+    "url": "https://www.facebook.com/kumiai.chemical/",
+    "pass": 3
+   },
+   {
+    "quote": "極東開発 工業 株式会社 (@kyokuto.official) - Facebook 極東開発 工業 株式会社 (@kyokuto.official) - Facebook Facebook https://www.facebook.com > ... > Industrial Company",
+    "url": "https://www.facebook.com/kyokuto.official/",
+    "pass": 3
+   },
+   {
+    "quote": "東 工業 株式会社 | Himi-shi Toyama - Facebook 東 工業 株式会社 | Himi-shi Toyama - Facebook Facebook https://www.facebook.com > ... > Construction Company",
+    "url": "https://www.facebook.com/azuma.kogyo.co/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://kids.gakken.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kids.gakken.co.jp/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kids.gakken.co.jp/kagaku/nandemo/cat_news-question/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kids.gakken.co.jp/parents/news/amakara-autumn2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kids.gakken.co.jp/parents/education/261019-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kids.gakken.co.jp/news/112859/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kids.gakken.co.jp/news/112861/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kids.gakken.co.jp/news/112863/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kids.gakken.co.jp/common/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kids.gakken.co.jp/parents/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kids.gakken.co.jp/parents/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kids.gakken.co.jp/parents/tag_parents-news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kids.gakken.co.jp/parents/news/cat_news-release/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kids.gakken.co.jp/parents/news/cat_news-products/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.maeda.co.jp/company/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://doda.jp/companyinfo/contents/finance/004.html",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taihonet.co.jp/company/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kk-ariga.co.jp/metal_3d_printer/%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aisan-ind.co.jp/ir/stock/information.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trinityind.co.jp/stocks/stockholder/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyo-chemical.co.jp/ir/stock/information",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamatokogyo.co.jp/recruit/about/data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.kashiyama.com/company/number.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp100375/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/studiodetailsinc/n/n5b39fc8f6543",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/igkogyo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/takumigiken",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kanko-hs.note.jp/?gs=34cd583625b7777165d08dcde27249cc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/chemicaldailyad",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sanoh_pr",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Nikkan_BizLine",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HondaJP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/musashiseimitsu",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/taiyo-kogyo-corporation",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/itri/life",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/school/%E4%B9%9D%E5%B7%9E%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/iri.of.ishikawa/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/kumiai.chemical/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/kyokuto.official/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/azuma.kogyo.co/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/sanyo_industry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/douga_hanbai/n/na7d1b000fad0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nihon_rikagaku/n/nf07ff7baf735",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/takumigiken",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/MIZGUARD",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "工業",
+   "results": [
+    "https://ja.wikipedia.org/wiki/%E5%B7%A5%E6%A5%AD",
+    "https://jisho.org/search/%E5%B7%A5%E6%A5%AD",
+    "https://kids.gakken.co.jp/jiten/dictionary02500084/",
+    "https://www.mext.go.jp/a_menu/shotou/old-cs/1322554.htm",
+    "https://www.nikkan.co.jp/",
+    "https://1145.jp/monozukuri/column/articles/3102/",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/wagakuni/1998_yogo.html",
+    "https://kotobank.jp/word/%E5%B7%A5%E6%A5%AD-494690",
+    "https://ja.wikipedia.org/wiki/工業",
+    "https://zh.wikipedia.org/zh-tw/工业"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "工業 会社概要 資本金 設立",
+   "results": [
+    "https://www.maeda.co.jp/company/outline.html",
+    "https://doda.jp/companyinfo/contents/finance/004.html",
+    "https://www.taihonet.co.jp/company/outline/",
+    "https://www.tok.co.jp/company/outline",
+    "https://www.sekisuikasei.com/jp/company/outline/profile/",
+    "https://www.sekisui.co.jp/company/outline/profile/",
+    "https://www.mitsubishi-motors.com/jp/company/information/index.html",
+    "https://www.kunimine.co.jp/company/info.html",
+    "https://www.meisei-kogyo.co.jp/corporate/",
+    "https://www.aisan-ind.co.jp/company/outline.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "工業 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.jeol.co.jp/column/detail001.html",
+    "https://kk-ariga.co.jp/metal_3d_printer/%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B/",
+    "https://www.iri.pref.shizuoka.jp/printer/",
+    "https://www.marubeni-idigio.com/insight-hub/about-metal-3dprinter/",
+    "https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/the-future-of-metal-3d-printing",
+    "https://formlabs.com/jp/blog/industrial-3d-printer/",
+    "https://metoree.com/categories/5523/",
+    "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "https://3d-modely.com/blog/3d-printer/3d-printer-metal/",
+    "https://deskmin.net/2026/07/26/金属3dプリンター導入を成功させるには？方式別の/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "工業 金属積層造形 設備",
+   "results": [
+    "https://jampt.jp/",
+    "https://chuokatan.co.jp/products/3dp/",
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "https://www.sinto.co.jp/promotion/metal-am/",
+    "https://ja.3dsystems.com/advancing-semiconductor-executive-brief",
+    "https://jampt.jp/column/additive-manufacturing/",
+    "https://www.youtube.com/watch?v=sT3lR9R98hc",
+    "https://j3d.co.jp/blog/knowledge/index37/",
+    "https://www.jfe-steel.co.jp/products/solution/metal-3d-printing/index.html",
+    "https://mitsu-ri.net/articles/metal-laminated-modeling"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "工業 株主 出資 親会社",
+   "results": [
+    "https://www.aisan-ind.co.jp/ir/stock/information.html",
+    "https://www.trinityind.co.jp/stocks/stockholder/",
+    "https://www.sanyo-chemical.co.jp/ir/stock/information",
+    "https://www.marr.jp/genre/market/regionalma/entry/59040",
+    "https://www.alesia.jp/investing-company/",
+    "https://www.shinmaywa.co.jp/ir/stock-info.html",
+    "https://www.meti.go.jp/policy/investment/5references/pdf/kyogyoupaturnitchirann.pdf",
+    "https://www.totetsu.co.jp/ir/stock/",
+    "https://www.nishikawa-rbr.co.jp/ir/stocks/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業 売上高 従業員数",
+   "results": [
+    "https://www.yamatokogyo.co.jp/recruit/about/data/",
+    "https://recruit.kashiyama.com/company/number.html",
+    "https://job.mynavi.jp/27/pc/search/corp100375/outline.html",
+    "https://www.aisan-ind.co.jp/company/ataglance.html",
+    "https://www.toadoro.co.jp/recruit/numbers/index.html",
+    "https://www.kurita-water.com/about/known.html",
+    "https://www.meiwajp.com/recruit/company/",
+    "https://baike.baidu.com/ja/item/%E5%B7%A5%E6%A5%AD%E4%BC%81%E6%A5%AD/1938631",
+    "https://www.chusho.meti.go.jp/koukai/chousa/keiei_sihyou/h10/07_g20.html",
+    "https://zukaikeizai.com/ranking/revper/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 工業",
+   "results": [
+    "https://note.com/studiodetailsinc/n/n5b39fc8f6543",
+    "https://note.com/igkogyo",
+    "https://note.com/takumigiken",
+    "https://note.com/notedorituko0607",
+    "https://note.com/ura410/n/n7ead65a7ed5e",
+    "https://note.com/tsuredure_nak/n/n95ed2f014a74",
+    "https://note.com/tag/%E5%B7%A5%E6%A5%AD%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3",
+    "https://note.com/riseagainfuture/n/nb2c635e77b1d",
+    "https://note.com/kurita_water",
+    "https://note.com/norikoroom/n/nb3aa2ca816d3"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com 工業",
+   "results": [
+    "https://x.com/chemicaldailyad",
+    "https://x.com/sanoh_pr",
+    "https://x.com/Nikkan_BizLine",
+    "https://x.com/HondaJP",
+    "https://x.com/TOPY_INDUSTRIES",
+    "https://x.com/KuritaGroup",
+    "https://x.com/i/trending/2058015178617503962",
+    "https://x.com/i/trending/2015826012416942232",
+    "https://x.com/pubnikkan",
+    "https://x.com/nikkankogyo"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com 工業",
+   "results": [
+    "https://jp.linkedin.com/company/musashiseimitsu",
+    "https://jp.linkedin.com/company/taiyo-kogyo-corporation",
+    "https://www.linkedin.com/company/itri/life",
+    "https://jp.linkedin.com/school/%E4%B9%9D%E5%B7%9E%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6/",
+    "https://www.linkedin.com/jobs/view/ongoing-reliability-test-at-%E9%B4%BB%E6%B5%B7%E7%B2%BE%E5%AF%86%E5%B7%A5%E6%A5%AD%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8-4468599988",
+    "https://www.linkedin.com/in/bogaun-chen-0b96464a",
+    "https://www.linkedin.com/jobs/%E6%A0%97%E7%94%B0%E5%B7%A5%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89-jobs-worldwide",
+    "https://tw.linkedin.com/company/institute-for-information-industry",
+    "https://www.linkedin.com/jobs/view/product-quality-engineer-fatp-qa-pqe-a-group-houston-tx-at-%E9%B4%BB%E6%B5%B7%E7%B2%BE%E5%AF%86%E5%B7%A5%E6%A5%AD%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8-4363023545"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com 工業",
+   "results": [
+    "https://www.facebook.com/iri.of.ishikawa/",
+    "https://www.facebook.com/kumiai.chemical/",
+    "https://www.facebook.com/kyokuto.official/",
+    "https://www.facebook.com/azuma.kogyo.co/",
+    "https://www.facebook.com/erimo.industrial/",
+    "https://www.facebook.com/kanisanmark/",
+    "https://www.facebook.com/nasakogyo/?locale=ja_JP",
+    "https://www.facebook.com/taisho.kogyo/",
+    "https://www.facebook.com/p/%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-100066314328953/",
+    "https://www.facebook.com/itri.materialsnet/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "工業 note 社長",
+   "results": [
+    "https://note.com/sanyo_industry",
+    "https://note.com/douga_hanbai/n/na7d1b000fad0",
+    "https://note.com/nihon_rikagaku/n/nf07ff7baf735",
+    "https://note.com/takumigiken",
+    "https://fujimi-group.co.jp/news/post-1619/",
+    "https://sanyou-ind.co.jp/ceo/",
+    "https://note.com/nichemaker007",
+    "https://www.instagram.com/p/DaXZvyBpoGt/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://blog.sanyou-ind.co.jp/sanyo-matter/40923/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "工業 X 投稿",
+   "results": [
+    "https://x.com/MIZGUARD",
+    "https://www.meiwajp.com/news/4920/",
+    "https://www.niikei.jp/2075911/",
+    "https://kk-ariga.co.jp/custom/x%E5%85%AC%E5%BC%8F%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%82%92%E9%96%8B%E8%A8%AD%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/",
+    "https://www.instagram.com/p/DegPx0eFD34/",
+    "https://note.com/socialselling/n/n80449faef8e2",
+    "https://takumi-senpai.com/blog/cutting-industry-x-usage/",
+    "https://x.com/newswitch_",
+    "https://www.sharecoto.co.jp/twitterlab/operation/moment_calendar-4/",
+    "https://x.com/Lustroware_inc"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部36頁・検索12回）",
+  "資本金": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部36頁・検索12回）",
+  "創業年度": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部36頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部36頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部36頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部36頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部36頁・検索12回）"
+ }
+}

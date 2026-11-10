@@ -1,0 +1,1469 @@
+{
+ "name": "Commonroom",
+ "aliases": [],
+ "context": "旧営業リスト｜GTM Platform / Sales Intelligence｜日本進出済",
+ "researched_at": "2026-11-10T18:15:04.049978+00:00",
+ "official_url": "https://www.commonroom.io",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Seed",
+    "value": "$4.30M 2 Madrona, Index Ventures 01 Mar 2020",
+    "url": "https://bouncewatch.com/company/common-room",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Account-based Marketing (ABM)",
+    "url": "https://www.commonroom.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn your best outreach motion into a workflow that runs itself. Emails pre-fill, sequences advance automatically when a prospect goes quiet, and AI-driven prioritization surfaces who's actually in-market, so reps spend their time on the right accounts.",
+    "url": "https://www.commonroom.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Most tools guess at accounts. Our context layer identifies real people, every signal across CRM, product, marketing, and engagement, unified into one always-current picture of every single buyer.",
+    "url": "https://www.commonroom.io/",
+    "pass": 1
+   },
+   {
+    "quote": "“Once our reps got their hands on Common Room, the response was unanimous: ‘Buy it, please.’ We sourced pipeline right away running plays from product usage, web visits, GitHub activity—you name it.”",
+    "url": "https://www.commonroom.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Most AI tools are built on incomplete data. They produce noise, not signal. Our context layer unifies both conversational and buyer intelligence across CRM, product, marketing, and engagement into a single, continuously updated view of every buyer. AI agents are only as good as the data they're built on. Quality intelligence in, effective AI out.",
+    "url": "https://www.commonroom.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Most AI tools are built on incomplete data. Common Room starts with Context360, our buyer intelligence engine that unifies every signal across CRM, product, marketing, and engagement into a single, continuously updated view of every buyer. AI agents are only as good as the data they're built on. Quality buyer intelligence in, effective AI out.",
+    "url": "https://www.commonroom.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Can Common Room handle the volume of data our enterprise generates?",
+    "url": "https://www.commonroom.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Common Room consolidates intent data providers, enrichment tools, sales engagement platforms, and CRM automation into one unified platform — eliminating 8–10+ overlapping point solutions, brittle integrations, and external workflow tooling. No GTM engineers required.",
+    "url": "https://www.commonroom.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Because no one else is built for both sides of revenue. Clay is built for ops. ZoomInfo is built for data. Common Room is the only platform where RevOps gets enterprise-grade enrichment and workflow control, and sellers get AI agents that actually activate it. Think your enrichment is good enough? Run a bakeoff. We're not worried.",
+    "url": "https://www.commonroom.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Is Common Room secure and enterprise-ready?",
+    "url": "https://www.commonroom.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Common Room includes a configurable Revenue Control Plane with enterprise-grade governance, role-based permissioning, territory management, managed integrations, and full audit trails. We're built to support complex data environments and teams of 50 to 1,000+ reps from day one.",
+    "url": "https://www.commonroom.io/",
+    "pass": 1
+   },
+   {
+    "quote": "ABM: Contact-level account based marketing | Common Room",
+    "url": "https://www.commonroom.io/solutions/abm/",
+    "pass": 1
+   },
+   {
+    "quote": "Account-based Marketing (ABM)",
+    "url": "https://www.commonroom.io/solutions/abm/",
+    "pass": 1
+   },
+   {
+    "quote": "Most ABM programs don't fail on strategy. They fail because intent never reaches sellers in time, and when it does, it arrives without the context to do anything with it.",
+    "url": "https://www.commonroom.io/solutions/abm/",
+    "pass": 1
+   },
+   {
+    "quote": "When scoring is opaque, reps don't know who to prioritize or what to say. If they can’t explain the score, they won’t trust it. And if they don’t trust it, they won’t use it.",
+    "url": "https://www.commonroom.io/solutions/abm/",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing runs incredible campaigns. RevOps builds brilliant plays. And then it all lands in a CSV nobody opens. The problem isn't the campaign. It's the hand-off.",
+    "url": "https://www.commonroom.io/solutions/abm/",
+    "pass": 1
+   },
+   {
+    "quote": "Common Room captures 50+ native signal types like job changes, pricing page visits, Slack questions, GitHub activity, LinkedIn signals, hiring patterns, and much more. Plus agentic signal capture for anything custom to your business. Every signal. One place. Always on.",
+    "url": "https://www.commonroom.io/solutions/abm/",
+    "pass": 1
+   },
+   {
+    "quote": "Prioritize accounts with full context, not a black box",
+    "url": "https://www.commonroom.io/solutions/abm/",
+    "pass": 1
+   },
+   {
+    "quote": "Score contacts and accounts on any combination of demographic, firmographic, and buying signals. Hover any score to see exactly what’s driving it like contributing signals, weights, and why. Your reps can then finally explain their prioritization. That’s not a small thing.",
+    "url": "https://www.commonroom.io/solutions/abm/",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you're running event follow-ups, paid campaigns, or outbound sequences, Common Room surfaces the right accounts and the right people for every play. Build precise cohorts based on buying signals, funnel stage, score, and fit, and sync them directly to your ad platforms or marketing automation tool. No more CSVs. No more guessing.",
+    "url": "https://www.commonroom.io/solutions/abm/",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Marketing & Operations",
+    "url": "https://www.commonroom.io/solutions/abm/",
+    "pass": 1
+   },
+   {
+    "quote": "“Once our reps got their hands on Common Room, the response was unanimous: ‘Buy it, please.’ We sourced pipeline right away running plays from product usage, web visits, GitHub activity—you name it.”",
+    "url": "https://www.commonroom.io/solutions/abm/",
+    "pass": 1
+   },
+   {
+    "quote": "What is account-based marketing (ABM)?",
+    "url": "https://www.commonroom.io/solutions/abm/",
+    "pass": 1
+   },
+   {
+    "quote": "ABM is a GTM strategy where sales and marketing align on a defined set of target accounts and coordinate outreach based on fit, intent, and engagement. Done well, your team spends time on the accounts most likely to convert using messaging that reflects what's happening at that account. Check out our",
+    "url": "https://www.commonroom.io/solutions/abm/",
+    "pass": 1
+   },
+   {
+    "quote": "6sense tells you which accounts are in-market. Common Room tells you which person is showing buying signals and why so your reps know who to call, not just which logo to prioritize. See our full",
+    "url": "https://www.commonroom.io/solutions/abm/",
+    "pass": 1
+   },
+   {
+    "quote": "Website visits, pricing page views, job changes, product usage, GitHub activity, community engagement, Slack conversations, LinkedIn activity, hiring signals, tech stack changes, and third-party intent via Bombora—all unified into a single person-level profile.",
+    "url": "https://www.commonroom.io/solutions/abm/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Common Room covers account prioritization, intent scoring, enrichment, and buying signal capture, and goes deeper than 6sense on signal granularity and scoring transparency, and deeper than Clay on operational overhead. The goal is one place where your ABM motion actually runs.",
+    "url": "https://www.commonroom.io/solutions/abm/",
+    "pass": 1
+   },
+   {
+    "quote": "Common Room connects bidirectionally with your CRM, data warehouse, and marketing automation platform. Contacts, scores, and signals flow automatically so the demand your marketing team generates reaches your sellers with enough context to act on it.",
+    "url": "https://www.commonroom.io/solutions/abm/",
+    "pass": 1
+   },
+   {
+    "quote": "Most B2B journey maps go stale fast because they miss the messy, multi-person buying behavior happening across AI search, communities, review sites, and your product. This guide...",
+    "url": "https://www.commonroom.io/solutions/abm/",
+    "pass": 1
+   },
+   {
+    "quote": "Account-based Marketing (ABM)",
+    "url": "https://www.commonroom.io/solutions/demand-generation/",
+    "pass": 1
+   },
+   {
+    "quote": "Uncover the person and account behind every buying signal with agentic signal capture and waterfall enrichment. Pass over qualified leads that reps can actually convert.",
+    "url": "https://www.commonroom.io/solutions/demand-generation/",
+    "pass": 1
+   },
+   {
+    "quote": "Sales and marketing misalignment",
+    "url": "https://www.commonroom.io/solutions/demand-generation/",
+    "pass": 1
+   },
+   {
+    "quote": "Sales reps hate the leads that marketing passes over because they're not actionable—e.g., \"Someone from some large account read an article.”",
+    "url": "https://www.commonroom.io/solutions/demand-generation/",
+    "pass": 1
+   },
+   {
+    "quote": "Static account prioritization",
+    "url": "https://www.commonroom.io/solutions/demand-generation/",
+    "pass": 1
+   },
+   {
+    "quote": "Give reps the leads backed by real buying behavior.",
+    "url": "https://www.commonroom.io/solutions/demand-generation/",
+    "pass": 1
+   },
+   {
+    "quote": "Inform account prioritization with stronger intent signals like hiring trends, product usage, social engagement, and more. Uncover the person behind the signal and point ads at the person behind the intent.",
+    "url": "https://www.commonroom.io/solutions/demand-generation/",
+    "pass": 1
+   },
+   {
+    "quote": "Prioritize accounts based on real behavior",
+    "url": "https://www.commonroom.io/solutions/demand-generation/",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically fill in the blanks with Person360™—our AI-enhanced waterfall enrichment engine that spans dozens of providers. No complex setup or additional cost per enrichment necessary.",
+    "url": "https://www.commonroom.io/solutions/demand-generation/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate marketing workflows",
+    "url": "https://www.commonroom.io/solutions/demand-generation/",
+    "pass": 1
+   },
+   {
+    "quote": "Trigger workflows to automate CRM syncs, send real-time alerts, or enroll leads in nurture sequences based on any combination of signals or attributes.",
+    "url": "https://www.commonroom.io/solutions/demand-generation/",
+    "pass": 1
+   },
+   {
+    "quote": "“Once our reps got their hands on Common Room, the response was unanimous: ‘Buy it, please.’ We sourced pipeline right away running plays from product usage, web visits, GitHub activity—you name it.”",
+    "url": "https://www.commonroom.io/solutions/demand-generation/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn more about marketing",
+    "url": "https://www.commonroom.io/solutions/demand-generation/",
+    "pass": 1
+   },
+   {
+    "quote": "Most teams target LinkedIn ads based on who looks right on paper. Common Room's LinkedIn Ads feature targets who's actually showing up.",
+    "url": "https://www.commonroom.io/solutions/demand-generation/",
+    "pass": 1
+   },
+   {
+    "quote": "Most B2B journey maps go stale fast because they miss the messy, multi-person buying behavior happening across AI search, communities, review sites, and your product. This guide...",
+    "url": "https://www.commonroom.io/solutions/demand-generation/",
+    "pass": 1
+   },
+   {
+    "quote": "All marketing resources",
+    "url": "https://www.commonroom.io/solutions/demand-generation/",
+    "pass": 1
+   },
+   {
+    "quote": "Account-based Marketing (ABM)",
+    "url": "https://www.commonroom.io/solutions/revops/",
+    "pass": 1
+   },
+   {
+    "quote": "More tooling = more problems",
+    "url": "https://www.commonroom.io/solutions/revops/",
+    "pass": 1
+   },
+   {
+    "quote": "Reps with a pipeline quota are working in an unoptimized way—tab hopping, cold prospecting, and yolo personalization.",
+    "url": "https://www.commonroom.io/solutions/revops/",
+    "pass": 1
+   },
+   {
+    "quote": "Clean data. Clear priorities. Execution your team can trust.",
+    "url": "https://www.commonroom.io/solutions/revops/",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically fill in the blanks with Person360™—our AI-enhanced waterfall enrichment engine that spans dozens of providers. No complex setup or additional cost per enrichment necessary.",
+    "url": "https://www.commonroom.io/solutions/revops/",
+    "pass": 1
+   },
+   {
+    "quote": "Let RoomieAI™ do the heavy lifting of warm outbound prioritization and messaging.",
+    "url": "https://www.commonroom.io/solutions/revops/",
+    "pass": 1
+   },
+   {
+    "quote": "agent uses the context of buying signals and enriched data from any prospect or account to generate warm intros that actually convert.",
+    "url": "https://www.commonroom.io/solutions/revops/",
+    "pass": 1
+   },
+   {
+    "quote": "“Once our reps got their hands on Common Room, the response was unanimous: ‘Buy it, please.’ We sourced pipeline right away running plays from product usage, web visits, GitHub activity—you name it.”",
+    "url": "https://www.commonroom.io/solutions/revops/",
+    "pass": 1
+   },
+   {
+    "quote": "Account-based Marketing (ABM)",
+    "url": "https://www.commonroom.io/solutions/sales/",
+    "pass": 1
+   },
+   {
+    "quote": "RoomieAI™ agents do the heavy lifting, signal hunting, account research, prospecting, and outbound automation. Let reps focus on pipe gen and closing deals.",
+    "url": "https://www.commonroom.io/solutions/sales/",
+    "pass": 1
+   },
+   {
+    "quote": "Prospecting data is scattered across tools, making it impossible for reps to stay in the know without a ton of tab hopping.",
+    "url": "https://www.commonroom.io/solutions/sales/",
+    "pass": 1
+   },
+   {
+    "quote": "Reps are inundated with enablement, discovery calls, and long deal cycles. It’s hard to prioritize pipeline when the rest is a full-time job.",
+    "url": "https://www.commonroom.io/solutions/sales/",
+    "pass": 1
+   },
+   {
+    "quote": "Scattershot prioritization",
+    "url": "https://www.commonroom.io/solutions/sales/",
+    "pass": 1
+   },
+   {
+    "quote": "Knowing what accounts and prospects to prioritize is a guessing game that’s informed by a static account score.",
+    "url": "https://www.commonroom.io/solutions/sales/",
+    "pass": 1
+   },
+   {
+    "quote": "Prioritize the accounts and prospects most likely to convert with auto-replenishing outbound plays and intelligent scoring that's informed by buying signals and attributes. Stack rank the plays with the highest conversion rate to turn every rep into a top performer.",
+    "url": "https://www.commonroom.io/solutions/sales/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Used by world-class GTM teams",
+    "url": "https://www.commonroom.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Common Room connects bidirectionally with your CRM, data warehouse, and marketing automation platform. Contacts, scores, and signals flow automatically so the demand your marketing team generates reaches your sellers with enough context to act on it.",
+    "url": "https://www.commonroom.io/solutions/abm/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading organizations of all sizes",
+    "url": "https://www.commonroom.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "dbt Labs pioneered the practice of analytics engineering and built dbt—the primary tool in the analytics engineering toolbox. dbt is the standard for data transformation and is used by more than 40,000 companies around the world.",
+    "url": "https://www.commonroom.io/customers/dbt-labs-buying-signals-speed-to-lead/",
+    "pass": 1
+   },
+   {
+    "quote": "with dozens of data sources—including popular digital channels, CRMs, data warehouses, sales engagement platforms, and more—allow you to organize and access all your data in one place. This makes it easy to take action on buying signals fast.",
+    "url": "https://www.commonroom.io/customers/dbt-labs-buying-signals-speed-to-lead/",
+    "pass": 1
+   },
+   {
+    "quote": "Airbyte is an open-source data integration platform and ELT tool used by teams at Disney, Deloitte, Zillow, Monday.com, and many more.",
+    "url": "https://www.commonroom.io/customers/airbyte-warm-outbound-2x-pipeline-growth-rate/",
+    "pass": 1
+   },
+   {
+    "quote": "Notion is an AI-powered connected workspace used by millions of customers around the world, from next-generation startups to established enterprises.",
+    "url": "https://www.commonroom.io/customers/notion-customer-intelligence-more-meetings-per-rep/",
+    "pass": 1
+   },
+   {
+    "quote": "with dozens of data sources—including popular digital channels, CRMs, data warehouses, sales engagement platforms, and more—allow you to organize and access all your data in one place. This makes it easy to take action on buying signals fast.",
+    "url": "https://www.commonroom.io/customers/notion-customer-intelligence-more-meetings-per-rep/",
+    "pass": 1
+   },
+   {
+    "quote": "Workvivo, a Zoom company, is an employee experience platform used by millions of users at many of today’s leading enterprise companies.",
+    "url": "https://www.commonroom.io/customers/workvivo-systematized-success-increase-meetings-booked/",
+    "pass": 1
+   },
+   {
+    "quote": "We created Common Room to transform how organizations connect with people. We've gained the trust of thousands of customers and top-tier investors like Greylock, Index, Madrona, and 25+ leading operators, raising over $50 million since our 2020 start.",
+    "url": "https://www.commonroom.io/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Common Room's Case Study | Genesys Growth",
+    "url": "https://genesysgrowth.com/case-studies/common-room",
+    "pass": 3
+   },
+   {
+    "quote": "Common Room by Zoom operates in AI, Automation, Marketing and CRM and Sales. Its work centres on AI-native GTM platform, buyer intelligence, Precision GTM and customer data unification. Its customers include RevOps Teams, Sales Teams and Enterprise Customers.",
+    "url": "https://bouncewatch.com/company/common-room",
+    "pass": 3
+   },
+   {
+    "quote": "ウェブイベント（価格ページ閲覧など）、製品利用データ（Warehouse/CDP経由）、CRM/営業支援ツール、コミュニティプラットフォーム、ソーシャルメディア、ABMインテントデータを横断的に収集",
+    "url": "https://note.com/gen_ai/n/nad9c86c6ca60",
+    "pass": 3
+   },
+   {
+    "quote": "：Slack/Discord/Discourse、GitHub/GitLab、LinkedIn/X/YouTube、ウェブネイティブ計測、Bombora/6sense、CDP/Warehouse、CRM/営業支援ツールなど50以上のネイティブ連携",
+    "url": "https://note.com/gen_ai/n/nad9c86c6ca60",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Buyer intelligence and revenue execution. In on lifecycle, end-to-end.",
+    "url": "https://www.commonroom.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue OS, only as good as the",
+    "url": "https://www.commonroom.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Generic outputs reasoning on a partial or recently-acquired dataset; teams stop trusting it and revert to manual",
+    "url": "https://www.commonroom.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Because no one else is built for both sides of revenue. Clay is built for ops. ZoomInfo is built for data. Common Room is the only platform where RevOps gets enterprise-grade enrichment and workflow control, and sellers get AI agents that actually activate it. Think your enrichment is good enough? Run a bakeoff. We're not worried.",
+    "url": "https://www.commonroom.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Common Room includes a configurable Revenue Control Plane with enterprise-grade governance, role-based permissioning, territory management, managed integrations, and full audit trails. We're built to support complex data environments and teams of 50 to 1,000+ reps from day one.",
+    "url": "https://www.commonroom.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Buyer intelligence and revenue execution. In on lifecycle, end-to-end.",
+    "url": "https://www.commonroom.io/solutions/abm/",
+    "pass": 1
+   },
+   {
+    "quote": "Most ABM programs don't fail on strategy. They fail because intent never reaches sellers in time, and when it does, it arrives without the context to do anything with it.",
+    "url": "https://www.commonroom.io/solutions/abm/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how Common Room’s buyer intelligence informs our full revenue OS.",
+    "url": "https://www.commonroom.io/solutions/abm/",
+    "pass": 1
+   },
+   {
+    "quote": "Buyer intelligence and revenue execution. In on lifecycle, end-to-end.",
+    "url": "https://www.commonroom.io/solutions/demand-generation/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how Common Room’s buyer intelligence informs our full revenue OS.",
+    "url": "https://www.commonroom.io/solutions/demand-generation/",
+    "pass": 1
+   },
+   {
+    "quote": "Buyer intelligence and revenue execution. In on lifecycle, end-to-end.",
+    "url": "https://www.commonroom.io/solutions/revops/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how Common Room’s buyer intelligence informs our full revenue OS.",
+    "url": "https://www.commonroom.io/solutions/revops/",
+    "pass": 1
+   },
+   {
+    "quote": "Buyer intelligence and revenue execution. In on lifecycle, end-to-end.",
+    "url": "https://www.commonroom.io/solutions/sales/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how Common Room’s buyer intelligence informs our full revenue OS.",
+    "url": "https://www.commonroom.io/solutions/sales/",
+    "pass": 1
+   },
+   {
+    "quote": "Buyer intelligence and revenue execution. In on lifecycle, end-to-end.",
+    "url": "https://www.commonroom.io/solutions/sales-development/",
+    "pass": 1
+   },
+   {
+    "quote": "The average rep is just going through the motions following the Predictable Revenue Playbook: Prospect. Sequence. Repeat.",
+    "url": "https://www.commonroom.io/solutions/sales-development/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how Common Room’s buyer intelligence informs our full revenue OS.",
+    "url": "https://www.commonroom.io/solutions/sales-development/",
+    "pass": 1
+   },
+   {
+    "quote": "Buyer intelligence and revenue execution. In on lifecycle, end-to-end.",
+    "url": "https://www.commonroom.io/customers/atlan/",
+    "pass": 1
+   },
+   {
+    "quote": "Jake tried Common Room's Spark Brief. Spark Brief gave him the right starting point, but Atlan's motion required a level of proprietary context no out-of-the-box summary could carry: the persona definitions, the signal stack-ranking, the value props mapped to each buyer type, the messaging tone, the most current assets from the marketing team.",
+    "url": "https://www.commonroom.io/customers/atlan/",
+    "pass": 1
+   },
+   {
+    "quote": "Buyer intelligence and revenue execution. In on lifecycle, end-to-end.",
+    "url": "https://www.commonroom.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "“Common Room makes me a hell of a lot more efficient. I have a lot of AEs to support, and I need to deliver pipeline for them. Common Room is a big part of that. I can book meetings much more quickly.”",
+    "url": "https://www.commonroom.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "“The folks that get prospected through Common Room, it almost felt like I was opening up a new acquisition channel.”",
+    "url": "https://www.commonroom.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Revenue Operations",
+    "url": "https://www.commonroom.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Common Room's person-level behavioral data allows me to analyze how well specific bets correlate to our North Star metric and more lagging metrics like revenue outcomes. From there, I can see which bets are working, where I want to optimize, and which activities I need to stop altogether.\"",
+    "url": "https://www.commonroom.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "“From a marketing and sales perspective, Common Room has been indispensable. It's really a critical part of our pipeline.”",
+    "url": "https://www.commonroom.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Buyer intelligence and revenue execution. In on lifecycle, end-to-end.",
+    "url": "https://www.commonroom.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Buyer intelligence and revenue execution. In on lifecycle, end-to-end.",
+    "url": "https://www.commonroom.io/customers/asana-deepens-ambassador-engagement-and-proves-business-impact/",
+    "pass": 1
+   },
+   {
+    "quote": "And Asana Together isn’t just recognized by other community leaders: Asana’s executive team, all the way up to the CEO, champions the power of community and sees it as a competitive advantage. \"The executive team’s support lets me and my team create really amazing experiences for the people who are part of our program,\" said Joshua Zerkel, Head of Global Engagement Marketing at Asana.",
+    "url": "https://www.commonroom.io/customers/asana-deepens-ambassador-engagement-and-proves-business-impact/",
+    "pass": 1
+   },
+   {
+    "quote": "Jake Biskar didn't set out to build a Chrome extension. He set out to remove every barrier between signal and action, and when Common Room gave him a foundation solid...",
+    "url": "https://www.commonroom.io/customers/asana-deepens-ambassador-engagement-and-proves-business-impact/",
+    "pass": 1
+   },
+   {
+    "quote": "Buyer intelligence and revenue execution. In on lifecycle, end-to-end.",
+    "url": "https://www.commonroom.io/customers/dbt-labs-buying-signals-speed-to-lead/",
+    "pass": 1
+   },
+   {
+    "quote": "“Common Room makes me a hell of a lot more efficient. I have a lot of AEs to support, and I need to deliver pipeline for them. Common Room is a big part of that. I can book meetings much more quickly.”",
+    "url": "https://www.commonroom.io/customers/dbt-labs-buying-signals-speed-to-lead/",
+    "pass": 1
+   },
+   {
+    "quote": "“Part of our outbound motion is looking for signals. From there, we can go into Common Room, look up that exact account, and then get a better picture of all the different ways they might be engaging with us. Who they are and what they’re struggling with. Common Room really helps us understand the account better.”",
+    "url": "https://www.commonroom.io/customers/dbt-labs-buying-signals-speed-to-lead/",
+    "pass": 1
+   },
+   {
+    "quote": "and beyond. Reps can filter contacts and accounts across virtually any dimension, such as job title, organization size, annual revenue, and more.",
+    "url": "https://www.commonroom.io/customers/dbt-labs-buying-signals-speed-to-lead/",
+    "pass": 1
+   },
+   {
+    "quote": "“Part of our outbound motion is looking for signals,” Caroline said. “From there, we can go into Common Room, look up that exact account, and then get a better picture of all the different ways they might be engaging with us. Who they are and what they’re struggling with. Common Room really helps us understand the account better.”",
+    "url": "https://www.commonroom.io/customers/dbt-labs-buying-signals-speed-to-lead/",
+    "pass": 1
+   },
+   {
+    "quote": "“Common Room makes me a hell of a lot more efficient,” Aaron said. “I have a lot of AEs to support, and I need to deliver pipeline for them. Common Room is a big part of that. I can book meetings much more quickly.”",
+    "url": "https://www.commonroom.io/customers/dbt-labs-buying-signals-speed-to-lead/",
+    "pass": 1
+   },
+   {
+    "quote": "Jake Biskar didn't set out to build a Chrome extension. He set out to remove every barrier between signal and action, and when Common Room gave him a foundation solid...",
+    "url": "https://www.commonroom.io/customers/dbt-labs-buying-signals-speed-to-lead/",
+    "pass": 1
+   },
+   {
+    "quote": "Buyer intelligence and revenue execution. In on lifecycle, end-to-end.",
+    "url": "https://www.commonroom.io/customers/airbyte-warm-outbound-2x-pipeline-growth-rate/",
+    "pass": 1
+   },
+   {
+    "quote": "Empower every part of GTM",
+    "url": "https://www.commonroom.io/customers/airbyte-warm-outbound-2x-pipeline-growth-rate/",
+    "pass": 1
+   },
+   {
+    "quote": "Instead of reaching out to the engineer who starred a GitHub repo or submitted a pull request, Mario wanted his GTM org to use those signals to triangulate intent and zero in on the people with budget authority.",
+    "url": "https://www.commonroom.io/customers/airbyte-warm-outbound-2x-pipeline-growth-rate/",
+    "pass": 1
+   },
+   {
+    "quote": "Meanwhile, when reps view organizations in Common Room, they’re served up details about capital raised, annual revenue, and product practitioner count.",
+    "url": "https://www.commonroom.io/customers/airbyte-warm-outbound-2x-pipeline-growth-rate/",
+    "pass": 1
+   },
+   {
+    "quote": "Jake Biskar didn't set out to build a Chrome extension. He set out to remove every barrier between signal and action, and when Common Room gave him a foundation solid...",
+    "url": "https://www.commonroom.io/customers/airbyte-warm-outbound-2x-pipeline-growth-rate/",
+    "pass": 1
+   },
+   {
+    "quote": "Buyer intelligence and revenue execution. In on lifecycle, end-to-end.",
+    "url": "https://www.commonroom.io/customers/notion-customer-intelligence-more-meetings-per-rep/",
+    "pass": 1
+   },
+   {
+    "quote": "Notion uses digital signal capture and unified identity and account intelligence to power real-time alerts for regional teams’ books of business, create interactive burndown lists for product power users, pricing page activity, job-change tracking, and other revenue plays, and automate winning strategies in the form of templatized plays for GTM teams at large.",
+    "url": "https://www.commonroom.io/customers/notion-customer-intelligence-more-meetings-per-rep/",
+    "pass": 1
+   },
+   {
+    "quote": "18% of total revenue",
+    "url": "https://www.commonroom.io/customers/notion-customer-intelligence-more-meetings-per-rep/",
+    "pass": 1
+   },
+   {
+    "quote": "Generate 16% of total pipeline and 18% of total revenue",
+    "url": "https://www.commonroom.io/customers/notion-customer-intelligence-more-meetings-per-rep/",
+    "pass": 1
+   },
+   {
+    "quote": "“The results speak for themselves,” said Chief Revenue Officer Erica Anderson. “Common Room helps us reach the right people with the right message at the right time—faster and easier. We’re excited to keep building plays around all the signals now at our fingertips.”",
+    "url": "https://www.commonroom.io/customers/notion-customer-intelligence-more-meetings-per-rep/",
+    "pass": 1
+   },
+   {
+    "quote": "Jake Biskar didn't set out to build a Chrome extension. He set out to remove every barrier between signal and action, and when Common Room gave him a foundation solid...",
+    "url": "https://www.commonroom.io/customers/notion-customer-intelligence-more-meetings-per-rep/",
+    "pass": 1
+   },
+   {
+    "quote": "Buyer intelligence and revenue execution. In on lifecycle, end-to-end.",
+    "url": "https://www.commonroom.io/customers/how-replit-used-common-room-to-speed-up-support-and-uncover-customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Jake Biskar didn't set out to build a Chrome extension. He set out to remove every barrier between signal and action, and when Common Room gave him a foundation solid...",
+    "url": "https://www.commonroom.io/customers/how-replit-used-common-room-to-speed-up-support-and-uncover-customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Buyer intelligence and revenue execution. In on lifecycle, end-to-end.",
+    "url": "https://www.commonroom.io/customers/workvivo-systematized-success-increase-meetings-booked/",
+    "pass": 1
+   },
+   {
+    "quote": "Recognize and reproduce your revenue superstars.",
+    "url": "https://www.commonroom.io/customers/workvivo-systematized-success-increase-meetings-booked/",
+    "pass": 1
+   },
+   {
+    "quote": "Jake Biskar didn't set out to build a Chrome extension. He set out to remove every barrier between signal and action, and when Common Room gave him a foundation solid...",
+    "url": "https://www.commonroom.io/customers/workvivo-systematized-success-increase-meetings-booked/",
+    "pass": 1
+   },
+   {
+    "quote": "Buyer intelligence and revenue execution. In on lifecycle, end-to-end.",
+    "url": "https://www.commonroom.io/customers/superhuman-ai-meetings-booked/",
+    "pass": 1
+   },
+   {
+    "quote": "Recognize and reproduce your revenue superstars.",
+    "url": "https://www.commonroom.io/customers/superhuman-ai-meetings-booked/",
+    "pass": 1
+   },
+   {
+    "quote": "With Superhuman's acquisition of",
+    "url": "https://www.commonroom.io/customers/superhuman-ai-meetings-booked/",
+    "pass": 1
+   },
+   {
+    "quote": "Jake Biskar didn't set out to build a Chrome extension. He set out to remove every barrier between signal and action, and when Common Room gave him a foundation solid...",
+    "url": "https://www.commonroom.io/customers/superhuman-ai-meetings-booked/",
+    "pass": 1
+   },
+   {
+    "quote": "Open Source: Reveal revenue in your repo | Common Room",
+    "url": "https://www.commonroom.io/solutions/open-source/",
+    "pass": 1
+   },
+   {
+    "quote": "Buyer intelligence and revenue execution. In on lifecycle, end-to-end.",
+    "url": "https://www.commonroom.io/solutions/open-source/",
+    "pass": 1
+   },
+   {
+    "quote": "Reveal revenue in your repo",
+    "url": "https://www.commonroom.io/solutions/open-source/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how Common Room’s buyer intelligence informs our full revenue OS.",
+    "url": "https://www.commonroom.io/solutions/open-source/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Turn your best outreach motion into a workflow that runs itself. Emails pre-fill, sequences advance automatically when a prospect goes quiet, and AI-driven prioritization surfaces who's actually in-market, so reps spend their time on the right accounts.",
+    "url": "https://www.commonroom.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Our buyer intelligence and AI agents surface inside Salesforce, Slack, email, and browser extensions, not in a fifth tab nobody opens. Insight turns into action without anyone changing how they work. No new tools. No context switching. Just execution.",
+    "url": "https://www.commonroom.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Most intent tools stop at the account. Common Room identifies the actual person behind the buying signals by using AI-powered identity resolution that goes beyond email to find reliable cross-channel identifiers. The result: 30–50% higher match rates in enrichment bakeoffs.",
+    "url": "https://www.commonroom.io/solutions/abm/",
+    "pass": 1
+   },
+   {
+    "quote": "Notify reps the instant a buying signal from a high-fit prospect happens with real-time alerts for both Slack and email.",
+    "url": "https://www.commonroom.io/solutions/sales-development/",
+    "pass": 1
+   },
+   {
+    "quote": "This includes names, job titles, work histories, email addresses, phone numbers, recent behavioral data, and firmographic details.",
+    "url": "https://www.commonroom.io/customers/airbyte-warm-outbound-2x-pipeline-growth-rate/",
+    "pass": 1
+   },
+   {
+    "quote": "Names, job titles, work histories, email addresses, phone numbers, cross-channel activities—all demographic, firmographic, and behavioral data is served up automatically and ready-to-action.",
+    "url": "https://www.commonroom.io/customers/workvivo-systematized-success-increase-meetings-booked/",
+    "pass": 1
+   },
+   {
+    "quote": "“Common Room is also helping us improve our nurture emails as well,” Joe said. “It's a free flowing of information between marketing and sales. Common Room is very much that connector.”",
+    "url": "https://www.commonroom.io/customers/workvivo-systematized-success-increase-meetings-booked/",
+    "pass": 1
+   },
+   {
+    "quote": "Person360™ converts GitHub usernames into verified contacts with titles, emails, and firmographics in seconds.",
+    "url": "https://www.commonroom.io/solutions/open-source/",
+    "pass": 1
+   },
+   {
+    "quote": "On a mission to make go-to-market strategy more intelligent, it empowers fast-growing B2B sales and marketing teams like Figma, Webflow, Grafana Labs, Asana, dbt Labs, Chainlink, and more to collect intent signals and automatically use them to power relevant, personalized outbound emails sequences at scale.",
+    "url": "https://genesysgrowth.com/case-studies/common-room",
+    "pass": 3
+   },
+   {
+    "quote": "Confirm with your work e-mail, get the Verified badge and keep this profile correct yourself. Search engines and AI assistants read it every day.",
+    "url": "https://bouncewatch.com/company/common-room",
+    "pass": 3
+   },
+   {
+    "quote": "The list's first rows in Excel, with every column the full file has and how full each one is. One e-mail, then at most two short notes.",
+    "url": "https://bouncewatch.com/company/common-room",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Customer stories - Common Room — The AI-native go-to-market platform for buyer intelligence and action. Identify, prioritize, and act on the right buyers with precision. Common Room unifies first-party customer data with real-world buyer signals into a continuously updated system of buyer intelligence. AI agents to help revenue teams prioritize, understand what’s changing, and execute with precisi",
+    "url": "https://www.commonroom.io/resources/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Customers | Common Room — Jun 23, 2026 · Common Room is like that magic wand, pulling together everything a sales team needs and putting it in front of them right when they need it. This helps them prioritize and act on the best leads. At SUSE, our commitment to our customers is a core part of who we are. Common Room has become a valuable tool that helps us put that commitment into ...",
+    "url": "https://www.commonroom.io/customers/",
+    "pass": 3
+   },
+   {
+    "quote": "Check the ROI & Customer Stories of Commonroom Io — See how businesses are generating ROI with Commonroom Io. Explore real customer stories, success metrics, and business documents to evaluate its impact.",
+    "url": "https://valuehub.valuecore.ai/valuehub/organizations/commonroom-io/business-documents",
+    "pass": 3
+   },
+   {
+    "quote": "Common Room's Case Study | Genesys Growth — These efforts established a scalable landing page creation and management workflow, positioning Common Room as a standout solution in the MarTech space, and drove measurable engagement and conversions among their ideal customer profiles. AI-driven insights for messaging: Extracted actionable persona-driven messaging from customer call transcripts and com",
+    "url": "https://genesysgrowth.com/case-studies/common-room",
+    "pass": 3
+   },
+   {
+    "quote": "Common Room B2B Case Studies & Customer Successes — See how Common Room solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/common-room",
+    "pass": 3
+   },
+   {
+    "quote": "Common Room 2026 Company Profile: Valuation, Funding ...Common Room – Competitor List & Expansion Signals – 2026Common Room - Overview, News & Similar companies | ZoomInfo.comCommon Room by Zoom — Funding, Investors & Signals 2026Common Room — company profile, headcount and funding | InvenCommon Room — Company Profile, Funding & InvestorsCommon Room — venture-backed company profile | Dealroom — Co",
+    "url": "https://pitchbook.com/profiles/company/437780-35",
+    "pass": 3
+   },
+   {
+    "quote": "Common Room by Zoom — Funding, Investors & Signals 2026 — Oct 16, 2026 · Common Room by Zoom emerges as a transformative force in the realm of AI-driven sales and marketing solutions. Emphasizing its mission to Turn buyer intelligence into pipeline with AI, the company enables revenue teams to leverage AI agents that prioritize accounts and manage customer interactions with precision. Founded in 2",
+    "url": "https://bouncewatch.com/company/common-room",
+    "pass": 3
+   },
+   {
+    "quote": "Common Room — company profile, headcount and funding | Inven — It offers tools for capturing buying signals, automating outreach, and enriching prospect data. The company serves businesses and organizations looking to enhance their sales processes and improve lead conversion rates through advanced technology and insights. Employees 174 Founded 2020 Ownership corporate Est. revenue $14.6M",
+    "url": "https://www.inven.ai/data/companies/commonroom-io",
+    "pass": 3
+   },
+   {
+    "quote": "Common Room — Company Profile, Funding & Investors — Common Room company profile with $52.9M raised across 3 funding rounds, HQ in Seattle, United States, founded 2020. Explore its acquisitions, funding rounds, investors, key people and contacts on Acquirezy — updated 2026.",
+    "url": "https://acquirezy.com/organization/common-room",
+    "pass": 3
+   },
+   {
+    "quote": "Common Room – Competitor List & Expansion Signals – 2026 — Discover Common Room's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/common-room",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Commn room/きたじま/イケオジプロデューサー｜note イケオジひとり一人の魅力をビジネスにまで昇華するプロデューサー リアル×SNS、マインド、ファッションなどイケオジに必須なノウハウを配信 各地のイケオジとのビジネスチーム「commonRoom」代表 イケオジとは仕事からルックスまで拘る理想の父親像（イケてる親父）",
+    "url": "https://note.com/commonroom",
+    "pass": 3
+   },
+   {
+    "quote": "Common Room: 購買シグナルをAIで統合し営業効率を劇的に改善 Oct 16, 2025 · この記事では、AI営業支援ツールを提供するCommon Roomをご紹介します。Grammarly、Notion、Semgrepなど急成長企業が導入し、購買シグナルの統合とAI活用により営業効率を根本から変革する革新的なソリューションです。 現代のB2B顧客は、営業と話す前に購買検討の70%を終えています。価格ページの ...",
+    "url": "https://note.com/gen_ai/n/nad9c86c6ca60",
+    "pass": 3
+   },
+   {
+    "quote": "企業と顧客を1つのコミュニティに：「Common Room」とはーーGenspark... Mar 11, 2025 · Common Roomについて Common Roomは、生成AIを利用したAIプラットフォームであり、エンドツーエンドのプロセス生成を支援しています。このプラットフォームは、特に顧客の行動やシグナルを解析することで、ビジネスの収益性向上を支援することに特化しています。以下に、Common Roomの主な機能や ...",
+    "url": "https://note.com/hiroshikinoshita/n/n5e1f5ef471d1",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Commn room/きたじま/イケオジプロデューサー｜note",
+    "url": "https://note.com/commonroom",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ、Common roomは生まれたのか？",
+    "url": "https://note.com/commonroom",
+    "pass": 3
+   },
+   {
+    "quote": "Commn room/きたじま/イケオジプロデューサー",
+    "url": "https://note.com/commonroom",
+    "pass": 3
+   },
+   {
+    "quote": "Common Room: 購買シグナルをAIで統合し営業効率を劇的に改善｜生成AI事例集",
+    "url": "https://note.com/gen_ai/n/nad9c86c6ca60",
+    "pass": 3
+   },
+   {
+    "quote": "Common Room: 購買シグナルをAIで統合し営業効率を劇的に改善",
+    "url": "https://note.com/gen_ai/n/nad9c86c6ca60",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、AI営業支援ツールを提供するCommon Roomをご紹介します。Grammarly、Notion、Semgrepなど急成長企業が導入し、購買シグナルの統合とAI活用により営業効率を根本から変革する革新的なソリューションです。",
+    "url": "https://note.com/gen_ai/n/nad9c86c6ca60",
+    "pass": 3
+   },
+   {
+    "quote": "現代のB2B顧客は、営業と話す前に購買検討の70%を終えています。価格ページの繰り返し閲覧、無料トライアルの利用、GitHubでのコード試用、一部企業の公開Slackコミュニティでの質問など、様々な場所で購買シグナルを発していますが、営業チームはこれらに気づけません。Common Roomは、これらの「見えない購買行動」を自動で収集・分析し、誰が本当に興味を持っているかを特定します。本記事では、その仕組みと導入企業の成功事例をご紹介します。",
+    "url": "https://note.com/gen_ai/n/nad9c86c6ca60",
+    "pass": 3
+   },
+   {
+    "quote": "現代のB2B購買プロセスは劇的に変化しています。Gartnerの調査によると、B2B購買担当者の75%が営業担当者と直接やり取りせずに、自分で情報収集して意思決定することを好み、6senseの2024年調査では購買プロセスの約70%を営業担当者と接触する前に完了させています。この「ダークファネル」と呼ばれる見えない購買活動は、GitHub、Slack、Discord、LinkedIn、Stack Overflowなど、従来のCRMではカバーできない場所で行われています。",
+    "url": "https://note.com/gen_ai/n/nad9c86c6ca60",
+    "pass": 3
+   },
+   {
+    "quote": "潜在顧客は購入を検討する際、価格ページを繰り返し閲覧したり、無料トライアルを利用したり、GitHubで公開されているコードを試したりします。一部の企業が運営する公開Slackコミュニティで料金や機能について質問することもあります。また、既存顧客の担当者が転職した際は、転職先での新たな商談機会になることもあります。しかし、これらの重要なシグナルは様々な場所に散在しており、従来の営業ツールでは把握できません。",
+    "url": "https://note.com/gen_ai/n/nad9c86c6ca60",
+    "pass": 3
+   },
+   {
+    "quote": ": 営業担当者は1日の40%以上をアカウントリサーチに費やし、実際の営業活動に充てる時間が限られています。Common Room創業者のLinda Lianは、Amazon Web Services時代に「コミュニティの声が営業活動に活かされていない」現実に直面し、この課題認識が創業の原点となりました。",
+    "url": "https://note.com/gen_ai/n/nad9c86c6ca60",
+    "pass": 3
+   },
+   {
+    "quote": "開発者コミュニティでの活動を商談機会として活用できない課題:",
+    "url": "https://note.com/gen_ai/n/nad9c86c6ca60",
+    "pass": 3
+   },
+   {
+    "quote": "企業と顧客を1つのコミュニティに：「Common Room」とはーーGensparkの解説｜木下寛士",
+    "url": "https://note.com/hiroshikinoshita/n/n5e1f5ef471d1",
+    "pass": 3
+   },
+   {
+    "quote": "企業と顧客を1つのコミュニティに：「Common Room」とはーーGensparkの解説",
+    "url": "https://note.com/hiroshikinoshita/n/n5e1f5ef471d1",
+    "pass": 3
+   },
+   {
+    "quote": "Common Roomは、生成AIを利用したAIプラットフォームであり、エンドツーエンドのプロセス生成を支援しています。このプラットフォームは、特に顧客の行動やシグナルを解析することで、ビジネスの収益性向上を支援することに特化しています。以下に、Common Roomの主な機能や利点を詳述します。",
+    "url": "https://note.com/hiroshikinoshita/n/n5e1f5ef471d1",
+    "pass": 3
+   },
+   {
+    "quote": ": Common Roomは、購入シグナルを視覚化し、温かい見込み客を特定するためのインサイトを提供します。これにより、マーケティング活動の効果を最大限に引き出すことが可能です。",
+    "url": "https://note.com/hiroshikinoshita/n/n5e1f5ef471d1",
+    "pass": 3
+   },
+   {
+    "quote": ": プラットフォームは、複数のデータソースを統合し、一元的に管理する能力を持っており、これにより情報の整合性やアクセスの効率性が向上します。",
+    "url": "https://note.com/hiroshikinoshita/n/n5e1f5ef471d1",
+    "pass": 3
+   },
+   {
+    "quote": ": ユーザーの行動データを分析し、ターゲットオーディエンスに対してパーソナライズされたコミュニケーションを実施することを助けます。",
+    "url": "https://note.com/hiroshikinoshita/n/n5e1f5ef471d1",
+    "pass": 3
+   },
+   {
+    "quote": ": Common Roomを使用することで、情報の取得や分析が迅速化され、業務の効率が向上します。",
+    "url": "https://note.com/hiroshikinoshita/n/n5e1f5ef471d1",
+    "pass": 3
+   },
+   {
+    "quote": ": 可視化されたデータとインサイトに基づき、意思決定が容易になります。これにより、マーケティングや営業戦略の策定に役立ちます。",
+    "url": "https://note.com/hiroshikinoshita/n/n5e1f5ef471d1",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": ".Aiエージェントを手掛けるカスタマークラウドは、日本初となる企業AI脳「LBAI」やAIがAIを進化させる「AI2AI」の概念を提唱し、 数百社におよぶレガシー産業のDX化・AI導入を成功に導いてきました",
+    "url": "https://note.com/hiroshikinoshita/n/n5e1f5ef471d1",
+    "pass": 3
+   },
+   {
+    "quote": "✅ 日本初のLLMO特化サービス「.Ai SEO」でPRを革新",
+    "url": "https://note.com/hiroshikinoshita/n/n5e1f5ef471d1",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "The Common Room (@CommonRoom) / Posts / X Join @CommonRoom and @ForumSheffield for a NYE party, all day long! Ticket holders receive free entry to two venues, a complimentary glass of prosecco, a shot, and a drinks voucher.",
+    "url": "https://x.com/CommonRoom",
+    "pass": 3
+   },
+   {
+    "quote": "Liz Neill (@Liz_CommonRoom) / X Enabling positive change led by lived experience in young people’s mental health. Director, Common Room. Manager of Leeds MindMate Ambassador team.",
+    "url": "https://x.com/Liz_CommonRoom",
+    "pass": 3
+   },
+   {
+    "quote": "\"#CommonRoom\" - Results on X | Live Posts & Updates Results for \"#CommonRoom\" on X (Twitter). Find the latest posts, discussions, and updates about #CommonRoom. 19 results found.",
+    "url": "https://x.com/hashtag/CommonRoom",
+    "pass": 3
+   },
+   {
+    "quote": "The Common Room (@Thecommonroomgn) / X At The Common Room, our volunteers are the heartbeat of our charity, driving our mission. Our latest blog celebrates over 60 active volunteers who contributed an astounding 10,000 hours! Discover their incredible impact and learn how to join through:",
+    "url": "https://x.com/thecommonroomgn",
+    "pass": 3
+   },
+   {
+    "quote": "@CommonRoomHQ | X The latest posts from @CommonRoomHQ",
+    "url": "https://x.com/CommonRoomHQ",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Common Room by Zoom - LinkedIn Common Room by Zoom | 31,451 followers on LinkedIn. Turn buyer intelligence into pipeline with AI. | Common Room is the AI-native GTM platform powering Precision GTM at scale. We unify first-party ...",
+    "url": "https://www.linkedin.com/company/common-room-hq",
+    "pass": 3
+   },
+   {
+    "quote": "CommonRoom - LinkedIn CommonRoom | 2 followers on LinkedIn. Helping student builders find teammates and build projects together. | Helping student developers find teammates and build projects together.",
+    "url": "https://www.linkedin.com/company/commonroomtech",
+    "pass": 3
+   },
+   {
+    "quote": "commonroom.in | LinkedIn commonroom.in | 44 followers on LinkedIn. Creative Writing Courses for Young Learners | Common Room is an online platform that offers fun and engaging creative writing courses and resources for children of ages 7 to 15.",
+    "url": "https://in.linkedin.com/company/commonroom-in",
+    "pass": 3
+   },
+   {
+    "quote": "Sarah McClean - Co-Founder at CommonRoom | LinkedInCommonRoom - LinkedInCommonRoom - LinkedInViraj Mody - Co-Founder, Leading Product and Engineering ... Co-Founder at CommonRoom · Experience: CommonRoom · Education: CIM | The Chartered Institute of Marketing · Location: London · 500+ connections on LinkedIn. View Sarah McClean’s profile on LinkedIn, a professional community of 1 billion members. ",
+    "url": "https://uk.linkedin.com/in/sarah-mcclean-4921a81a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "CommonRoom - Facebookcommonroom | Wien - FacebookCommon Room PH | Makati - FacebookThe Common Room Espresso Bar | Mackay QLD - FacebookCommon Room - FacebookThe Common Room | Boston MA - FacebookCommon Room - Facebook Fee talks inspiration, imagination and the strange and wonderful things that find their way into her work - and the stories behind her wallpaper designs for CommonRoom. Watch our vis",
+    "url": "https://www.facebook.com/Commonroom.co/",
+    "pass": 3
+   },
+   {
+    "quote": "commonroom | Wien - FacebookCommon Room PH | Makati - FacebookThe Common Room Espresso Bar | Mackay QLD - FacebookCommon Room - FacebookThe Common Room | Boston MA - FacebookCommon Room - Facebook Jun 30, 2026 · commonroom, Wien. 2,643 followers · 1 talking about this · 530 were here. in the heart of the 8th district in vienna we offer an open platform for artists, creatives, children and adults. ",
+    "url": "https://www.facebook.com/commonroomceramicatelier/",
+    "pass": 3
+   },
+   {
+    "quote": "Common Room PH | Makati - FacebookThe Common Room Espresso Bar | Mackay QLD - FacebookCommon Room - FacebookThe Common Room | Boston MA - FacebookCommon Room - Facebook Common Room PH, Makati. 57,057 followers · 147 talking about this · 1,786 were here. A place where local makers and artists gather. @commonroomph hello@commonroomph.com Now open: Alabang Town... The Common Room Espresso Bar, Mackay",
+    "url": "https://www.facebook.com/CommonRoomPH/",
+    "pass": 3
+   },
+   {
+    "quote": "The Common Room Espresso Bar | Mackay QLD - FacebookCommon Room - FacebookThe Common Room | Boston MA - FacebookCommon Room - Facebook The Common Room Espresso Bar, Mackay. 4,485 followers · 51 talking about this · 508 were here. New CAFE in the Northern Beaches Precinct Rural View. Offering you gourmet dine in and take away food Common Room was established in 2017. To thank you all for your suppo",
+    "url": "https://www.facebook.com/TheCommonRoomMackay/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.commonroom.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.commonroom.io/solutions/abm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.commonroom.io/solutions/demand-generation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.commonroom.io/solutions/revops/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.commonroom.io/solutions/sales/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.commonroom.io/solutions/sales-development/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.commonroom.io/customers/atlan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.commonroom.io/customers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.commonroom.io/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.commonroom.io/customers/asana-deepens-ambassador-engagement-and-proves-business-impact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.commonroom.io/customers/dbt-labs-buying-signals-speed-to-lead/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.commonroom.io/customers/airbyte-warm-outbound-2x-pipeline-growth-rate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.commonroom.io/customers/notion-customer-intelligence-more-meetings-per-rep/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.commonroom.io/customers/how-replit-used-common-room-to-speed-up-support-and-uncover-customers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.commonroom.io/customers/workvivo-systematized-success-increase-meetings-booked/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.commonroom.io/customers/superhuman-ai-meetings-booked/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.commonroom.io/solutions/open-source/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.commonroom.io/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.commonroom.io/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.commonroom.io/customers/incident-io/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.commonroom.io/static/img/logos/common-room-logo-color.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.commonroom.io/static/img/logos/common-room-logo-white.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.commonroom.io/img/logos/common-room-logo-white.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.commonroom.io/img/logos/common-room-logo-color.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sidebizz.net/blog/agent/general-agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://valuehub.valuecore.ai/valuehub/organizations/commonroom-io/business-documents",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://genesysgrowth.com/case-studies/common-room",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.appspace.com/resellers-alliances/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/437780-35",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://bouncewatch.com/company/common-room",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inven.ai/data/companies/commonroom-io",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://acquirezy.com/organization/common-room",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/commonroom",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gen_ai/n/nad9c86c6ca60",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hiroshikinoshita/n/n5e1f5ef471d1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/CommonRoom",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Liz_CommonRoom",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/CommonRoom",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/thecommonroomgn",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/common-room-hq",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/commonroomtech",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/commonroom-in",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/sarah-mcclean-4921a81a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Commonroom.co/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/commonroomceramicatelier/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/CommonRoomPH/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TheCommonRoomMackay/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/commonroom",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/CommonRoomHQ",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Commonroom 日本 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Commonroom 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.aon.com/japan/company-overview"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Commonroom Japan",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Commonroom manufacturing customer case study",
+   "results": [
+    "https://www.commonroom.io/resources/customers",
+    "https://www.commonroom.io/customers/",
+    "https://valuehub.valuecore.ai/valuehub/organizations/commonroom-io/business-documents",
+    "https://genesysgrowth.com/case-studies/common-room",
+    "https://www.casestudies.com/company/common-room",
+    "https://azure.microsoft.com/en-us/resources/customer-stories/",
+    "https://www.casestudies.com/customer/common-room"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Commonroom white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.appspace.com/resellers-alliances/",
+    "https://partners.spectrum.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://upcloud.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Commonroom founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/437780-35",
+    "https://bouncewatch.com/company/common-room",
+    "https://www.inven.ai/data/companies/commonroom-io",
+    "https://acquirezy.com/organization/common-room",
+    "https://compworth.com/company/common-room",
+    "https://www.zoominfo.com/c/common-room-inc/483407967",
+    "https://dealroom.co/companies/common-room1/",
+    "https://startupintros.com/orgs/common-room"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:note.com Commonroom",
+   "results": [
+    "https://note.com/commonroom",
+    "https://note.com/gen_ai/n/nad9c86c6ca60",
+    "https://note.com/hiroshikinoshita/n/n5e1f5ef471d1",
+    "https://note.com/seigo77",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Commonroom",
+   "results": [
+    "https://x.com/CommonRoom",
+    "https://x.com/Liz_CommonRoom",
+    "https://x.com/hashtag/CommonRoom",
+    "https://x.com/thecommonroomgn",
+    "https://x.com/commonroomclub",
+    "https://x.com/CommonRoom_ID",
+    "https://x.com/acommonroom/status/2119683470255669686"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Commonroom",
+   "results": [
+    "https://www.linkedin.com/company/common-room-hq",
+    "https://www.linkedin.com/company/commonroomtech",
+    "https://in.linkedin.com/company/commonroom-in",
+    "https://uk.linkedin.com/in/sarah-mcclean-4921a81a",
+    "https://www.linkedin.com/company/commonroom-usa",
+    "https://www.linkedin.com/company/commonroomlondon",
+    "https://www.linkedin.com/in/virajm"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Commonroom",
+   "results": [
+    "https://www.facebook.com/Commonroom.co/",
+    "https://www.facebook.com/commonroomceramicatelier/",
+    "https://www.facebook.com/CommonRoomPH/",
+    "https://www.facebook.com/TheCommonRoomMackay/",
+    "https://www.facebook.com/commonroommacau/",
+    "https://www.facebook.com/thecommonroomboston/",
+    "https://www.facebook.com/commonroomapp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Commonroom note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.com/commonroom",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.com/tag/社長室",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://www.commonroom.io/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Commonroom X 投稿",
+   "results": [
+    "https://x.com/CommonRoomHQ",
+    "https://www.commonroom.io/docs/signals/community-and-social-integrations/twitter/",
+    "https://www.commonroom.io/",
+    "https://help.x.com/ja/using-x/edit-post",
+    "https://x.com/twitcasting_jp/status/2100831269575868441",
+    "https://www.commonroom.io/docs/get-started/",
+    "https://x.com/felixrieseberg/status/2119925633564463609"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部31頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部31頁・検索12回）"
+ }
+}

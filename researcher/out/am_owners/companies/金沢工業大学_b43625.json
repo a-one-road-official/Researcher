@@ -1,0 +1,1331 @@
+{
+ "name": "金沢工業大学",
+ "aliases": [],
+ "context": "PBF=yes 装置=LUMEX 出典=https://www.kanazawa-it.ac.jp/kitnews/2015/20150309_3dprinter.html",
+ "researched_at": "2026-11-10T18:10:33.007968+00:00",
+ "official_url": "https://www.kanazawa-it.ac.jp/",
+ "identified_by": "search:yahoo_jp:金沢工業大学",
+ "profile": {
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "教育機関の運営 設置校：金沢工業大学、国際高等専門学校",
+    "url": "https://tenshoku.mynavi.jp/company/309841/",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "■施設サービス部（清掃業務・警備業務）■ガクショク部（レストラン部門・コンビニエンスストア部門）■KITブックセンター部（書籍部門・文具部門・外商部門）■KITサービスセンター部（旅行部門・保険部門・不動産部門・紹介部門）■購買印刷部（購買部門・印刷部門）■スタッフ部（人材派遣）",
+    "url": "https://www.kit-group.jp/pages/19/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：昭和32年6月1日",
+    "url": "https://tenshoku.mynavi.jp/company/309841/",
+    "pass": 3
+   },
+   {
+    "label": "設立年",
+    "value": "設立年：1976年",
+    "url": "https://www.kit-group.jp/pages/19/",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "〒921-8501\n石川県野々市市扇が丘7-1",
+    "url": "https://tenshoku.mynavi.jp/company/309841/",
+    "pass": 3
+   },
+   {
+    "label": "営業所所在地",
+    "value": "〒921-8501　石川県野々市市扇が丘７－１　金沢工業大学内",
+    "url": "https://www.kit-group.jp/pages/19/",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "〒920-0962　石川県金沢市広 坂 1-2-23",
+    "url": "https://www.kit-group.jp/pages/19/",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "〒921-8501 石川県野々市市扇が丘７－１ 金沢工業大学内",
+    "url": "https://www.kit-group.jp/pages/19/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "633名（職員294名、教員339名）",
+    "url": "https://tenshoku.mynavi.jp/company/309841/",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "246名　（2026年6月1日現在）",
+    "url": "https://www.kit-group.jp/pages/19/",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "82,000,000 円",
+    "url": "https://www.kit-group.jp/pages/19/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "用途・客の産業": [
+   {
+    "quote": "KIT×NTT-AEスマートエネルギーラボ",
+    "url": "https://www.kanazawa-it.ac.jp/about_kit/ogigaoka.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙工学研究所（74号館）",
+    "url": "https://www.kanazawa-it.ac.jp/about_kit/yatsukaho.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙工学研究所（https://wwwr.kanazawa-it.ac.jp/k-lab/）",
+    "url": "https://www.kanazawa-it.ac.jp/about_kit/yatsukaho.html",
+    "pass": 1
+   },
+   {
+    "quote": "当中間報告会には、令和6年・7年・8年に採択された医療系8件、テック系6件の研究者14名と、TeSH面接審査委員、事業化推進機関、東京地区事業会社、大学関係者ら合わせ、総勢60名以上が参加",
+    "url": "https://www.kanazawa-it.ac.jp/kitnews/2026/1109_tesh.html",
+    "pass": 1
+   },
+   {
+    "quote": "金沢工業大学からは、ステップ２に令和7年採択の赤坂剛史 教授（航空宇宙工学科）と、令和8年採択の小田忍 教授（生命・応用バイオ学科）、同じく令和8年採択の藤田萩乃 准教授（電気エネルギーシステム工学科）の計3名が参加しました",
+    "url": "https://www.kanazawa-it.ac.jp/kitnews/2026/1109_tesh.html",
+    "pass": 1
+   },
+   {
+    "quote": "金沢工業大学からは令和8年採択の生命・応用バイオ学科 小田忍 教授と、同じく令和8年採択の電気エネルギーシステム工学科 藤田萩乃 准教授の2名が参加しました",
+    "url": "https://www.kanazawa-it.ac.jp/kitnews/2026/1109_tesh.html",
+    "pass": 1
+   },
+   {
+    "quote": "工学部電気エネルギーシステム工学科 藤田萩乃准教授",
+    "url": "https://www.kanazawa-it.ac.jp/kitnews/2026/1109_tesh.html",
+    "pass": 1
+   },
+   {
+    "quote": "進んで将来は、現代アメリカの科学技術の聖地ともいうべきマサチューセッツ工科大学の運営方針に学んで、日本の宇宙開発より産業社会学に至るまで、最高水準を誇る第一流の学園たらしめんとする大志を実現して、民主主義日本の学界に偉大な栄光を捧げんとするものであります",
+    "url": "https://www.kanazawa-it.ac.jp/about_kit/kengaku_koryo.html",
+    "pass": 1
+   },
+   {
+    "quote": "既設の機械工学科、情報工学科に加えロボティクス学科、航空システム工学科、電気電子工学科、情報通信工学科を設置し、6学科体制とする",
+    "url": "https://www.kanazawa-it.ac.jp/about_kit/enkaku.html",
+    "pass": 1
+   },
+   {
+    "quote": "連携大学院に関する協力協定締結・独立行政法人宇宙航空研究開発機構（現、国立研究開発法人宇宙航空研究開発機構）",
+    "url": "https://www.kanazawa-it.ac.jp/about_kit/enkaku.html",
+    "pass": 1
+   },
+   {
+    "quote": "既設の機械工学科、航空システム工学科、ロボティクス学科、電気電子工学科に加え電子情報通信工学科（情報通信工学科をリニューアル）、情報工学科（情報学部から移籍）を設置し6学科体制とする",
+    "url": "https://www.kanazawa-it.ac.jp/about_kit/enkaku.html",
+    "pass": 1
+   },
+   {
+    "quote": "光電磁場科学応用研究所と通信技術研究所を電気・光・エネルギー応用研究センターに統合",
+    "url": "https://www.kanazawa-it.ac.jp/about_kit/enkaku.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空システム工学研究所開設（現、航空宇宙工学研究所）",
+    "url": "https://www.kanazawa-it.ac.jp/about_kit/enkaku.html",
+    "pass": 1
+   },
+   {
+    "quote": "白山市、日産自動車、北陸電力、米沢電気グループと「SDGsにおける電気自動車の利活用推進に関する連携協定」を締結",
+    "url": "https://www.kanazawa-it.ac.jp/about_kit/enkaku.html",
+    "pass": 1
+   },
+   {
+    "quote": "自動車（80）",
+    "url": "https://news.sharelab.jp/cases/construction/kit-kajima-230810/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙（74）",
+    "url": "https://news.sharelab.jp/cases/construction/kit-kajima-230810/",
+    "pass": 3
+   },
+   {
+    "quote": "医療（168）",
+    "url": "https://news.sharelab.jp/cases/construction/kit-kajima-230810/",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZE PARTNERSとNTTデータザムテクノロジーズ、AM量産市場創出へ戦略的提携",
+    "url": "https://news.sharelab.jp/cases/construction/kit-kajima-230810/",
+    "pass": 3
+   },
+   {
+    "quote": "指向性エネルギー堆積法 / DED（Direct Energy Deposition）を解説！WAAM方式と何が違う？",
+    "url": "https://news.sharelab.jp/cases/construction/kit-kajima-230810/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界で活躍する3Dプリンター製の治具・工具",
+    "url": "https://news.sharelab.jp/cases/construction/kit-kajima-230810/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界の3Dプリンター活用の現状と将来",
+    "url": "https://news.sharelab.jp/cases/construction/kit-kajima-230810/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界の試作開発部門で活躍する3Dプリンター",
+    "url": "https://news.sharelab.jp/cases/construction/kit-kajima-230810/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙業界における3Dプリンターの活用",
+    "url": "https://news.sharelab.jp/cases/construction/kit-kajima-230810/",
+    "pass": 3
+   },
+   {
+    "quote": "航空業界で活躍する3Dプリンター製最終製品",
+    "url": "https://news.sharelab.jp/cases/construction/kit-kajima-230810/",
+    "pass": 3
+   },
+   {
+    "quote": "砂型3Dプリンターってなに？鋳造プロセスを大幅に改革、量産に活用されるAM技術の注目株！",
+    "url": "https://news.sharelab.jp/cases/construction/kit-kajima-230810/",
+    "pass": 3
+   },
+   {
+    "quote": "「LUMEX Avance-25」は複雑な金型も一体構造で一気に造形ができ、また複雑な内部構造を持つ三次元造形物や自由曲面を有する造形物の一体造形も可能な高機能金属3Dプリンターである",
+    "url": "https://times.sanpou-s.net/detail/pid-3556/",
+    "pass": 3
+   },
+   {
+    "quote": "経済安全保障重要技術育成プログラム／長距離物資輸送用無人航空機技術の開発・実証ハイブリッドＶＴＯＬ機の技術開発と実証",
+    "url": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2220005001911",
+    "pass": 3
+   },
+   {
+    "quote": "国立研究開発法人新エネルギー・産業技術総合開発機構",
+    "url": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2220005001911",
+    "pass": 3
+   },
+   {
+    "quote": "ＮＥＤＯ先導研究プログラムエネルギー・環境新技術先導研究プログラム超長寿命ＣＦＲＰ補強コンクリートの研究開発",
+    "url": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2220005001911",
+    "pass": 3
+   },
+   {
+    "quote": "新エネルギー等のシーズ発掘・事業化に向けた技術研究開発事業新エネルギー等のシーズ発掘・事業化に向けた技術研究開発事業（燃料電池・蓄電池）航続距離１，０００ｋｍ級ＦＣトラック・トレーラー用角形軽量液体水素タンクの開発",
+    "url": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2220005001911",
+    "pass": 3
+   },
+   {
+    "quote": "北陸半導体コンソーシアムが動かす地方発の産業戦略",
+    "url": "https://note.com/tag/%E9%87%91%E6%B2%A2%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "プロフィールに「慈善活動やってました」とかだけを載せてくるのは量産型インスタントプロフィール感がきついので、それを言うくらいなら「魚を捌けます」とか書いたほうがまだマシだと思います",
+    "url": "https://note.com/kitchen_py/n/ne31942c0d300",
+    "pass": 3
+   },
+   {
+    "quote": "：機械工学科／先進機械システム工学科／航空宇宙工学科／電気エネルギーシステム工学科／電子情報システム工学科／環境土木工学科",
+    "url": "https://note.com/skillpass/n/n23241b9ea7ab",
+    "pass": 3
+   }
+  ],
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "KITコーオプ教育は、金沢工業大学が2019年度に導入し、2020年度から本格的に実施している、正課の産学協同型教育プログラムです",
+    "url": "https://www.kanazawa-it.ac.jp/company/coop-meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "教育改革実施（工学設計教育導入・3学期制導入・専門コアカリキュラム導入）",
+    "url": "https://www.kanazawa-it.ac.jp/about_kit/enkaku.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンター（104）",
+    "url": "https://news.sharelab.jp/cases/construction/kit-kajima-230810/",
+    "pass": 3
+   },
+   {
+    "quote": "建築現場で3Dプリンターを用いる事例は世界的に増加していて、3Dプリンターの導入により生産性の向上やコストの削減ができる点には、大きな注目が集まっている",
+    "url": "https://news.sharelab.jp/cases/construction/kit-kajima-230810/",
+    "pass": 3
+   },
+   {
+    "quote": "金沢工業大学と鹿島建設が共同研究で3Dプリンターの導入促進とともに目指しているのは、3Dプリントと環境配慮型コンクリート「CO₂-SUICOM」の組み合わせによるカーボンニュートラル社会の実現に貢献する施工技術の実装だ",
+    "url": "https://news.sharelab.jp/cases/construction/kit-kajima-230810/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターの比較検証や造形シミュレーションも可能",
+    "url": "https://news.sharelab.jp/cases/construction/kit-kajima-230810/",
+    "pass": 3
+   },
+   {
+    "quote": "以前の記事で取り上げたようにオリックス・レンテックが東京都町田市の東京技術センター内に保有する3Dプリンター体験拠点「Tokyo 3D Lab.」が拡張リニュー …",
+    "url": "https://news.sharelab.jp/cases/construction/kit-kajima-230810/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター",
+    "url": "https://news.sharelab.jp/cases/construction/kit-kajima-230810/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/cases/construction/kit-kajima-230810/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター導入における作業者健康対策ガイド",
+    "url": "https://news.sharelab.jp/cases/construction/kit-kajima-230810/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター導入企業必見！IPA洗浄と有機則の関係を徹底解説",
+    "url": "https://news.sharelab.jp/cases/construction/kit-kajima-230810/",
+    "pass": 3
+   },
+   {
+    "quote": "【2023年版】大型3Dプリンターの比較・選び方〜造形方式ごとの特徴や、導入時に気をつけたいこと",
+    "url": "https://news.sharelab.jp/cases/construction/kit-kajima-230810/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較",
+    "url": "https://news.sharelab.jp/cases/construction/kit-kajima-230810/",
+    "pass": 3
+   },
+   {
+    "quote": "【3D プリンター導入③】発注から設置までの流れを知る",
+    "url": "https://news.sharelab.jp/cases/construction/kit-kajima-230810/",
+    "pass": 3
+   },
+   {
+    "quote": "【3Dプリンター導入①】機種の検討・選定時のポイント",
+    "url": "https://news.sharelab.jp/cases/construction/kit-kajima-230810/",
+    "pass": 3
+   },
+   {
+    "quote": "【3Dプリンター導入②】導入依頼時の注意点",
+    "url": "https://news.sharelab.jp/cases/construction/kit-kajima-230810/",
+    "pass": 3
+   },
+   {
+    "quote": "【3Dプリンター導入④】有効活用するための運用方法",
+    "url": "https://news.sharelab.jp/cases/construction/kit-kajima-230810/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターの造形方式を解説！FDM？MEX？PBF？DEDってなに？",
+    "url": "https://news.sharelab.jp/cases/construction/kit-kajima-230810/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末床溶融結合法 / PBF（Powder Bed Fusion）を解説！SLS方式、SLM方式と何が違う？",
+    "url": "https://news.sharelab.jp/cases/construction/kit-kajima-230810/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター | 材料から選ぶ3Dプリンター",
+    "url": "https://news.sharelab.jp/cases/construction/kit-kajima-230810/",
+    "pass": 3
+   },
+   {
+    "quote": "[金沢工業大学]金沢工業大学が、高機能な金属3Dプリンターを夢考房41に導入――学生の柔軟な発想での活用が期待｜大学Times",
+    "url": "https://times.sanpou-s.net/detail/pid-3556/",
+    "pass": 3
+   },
+   {
+    "quote": "[金沢工業大学]金沢工業大学が、高機能な金属3Dプリンターを夢考房41に導入――学生の柔軟な発想での活用が期待",
+    "url": "https://times.sanpou-s.net/detail/pid-3556/",
+    "pass": 3
+   },
+   {
+    "quote": "金沢工業大学ではこのたび、夢考房41に高機能な金属3Dプリンター「LUMEX Avance-25」（株式会社松浦機械製作所）を導入した",
+    "url": "https://times.sanpou-s.net/detail/pid-3556/",
+    "pass": 3
+   },
+   {
+    "quote": "「LUMEX Avance-25」は複雑な金型も一体構造で一気に造形ができ、また複雑な内部構造を持つ三次元造形物や自由曲面を有する造形物の一体造形も可能な高機能金属3Dプリンターである",
+    "url": "https://times.sanpou-s.net/detail/pid-3556/",
+    "pass": 3
+   },
+   {
+    "quote": "学生の自由なものづくりの場である夢考房に金属3Dプリンターが導入されたことにより、学生はアイデアをすぐに金属の立体造形として製作することが可能となり、柔軟な発想での活用が期待される",
+    "url": "https://times.sanpou-s.net/detail/pid-3556/",
+    "pass": 3
+   },
+   {
+    "quote": "当金属3Dプリンターは学外の企業開発者も利用が可能となるように準備を進めている",
+    "url": "https://times.sanpou-s.net/detail/pid-3556/",
+    "pass": 3
+   },
+   {
+    "quote": "■金属3DプリンターLUMEXを用いたデモ加工（実演）",
+    "url": "https://times.sanpou-s.net/detail/pid-3556/",
+    "pass": 3
+   },
+   {
+    "quote": "＊研究会では株式会社松浦機械製作所から担当者を招いて講習会を開催するにあたり、併せて当デモ加工を実施する",
+    "url": "https://times.sanpou-s.net/detail/pid-3556/",
+    "pass": 3
+   },
+   {
+    "quote": "【金属3Dプリンター「LUMEX Avance-25」について】",
+    "url": "https://times.sanpou-s.net/detail/pid-3556/",
+    "pass": 3
+   },
+   {
+    "quote": "今回夢考房41に導入された「LUMEX Avance-25」（株式会社松浦機械製作所製） は、高機能な金属3Dプリンターとして知られている",
+    "url": "https://times.sanpou-s.net/detail/pid-3556/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省が提供する gBizINFO(Gビズインフォ) は、政府保有の法人情報を法人番号に紐づけてデータ整理を行い、２次利用可能なオープンデータとして情報提供するサイトです",
+    "url": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2220005001911",
+    "pass": 3
+   },
+   {
+    "quote": "金沢工業大学のPayPay導入が、「寄付の集め方」を変えるかもしれない",
+    "url": "https://note.com/tag/%E9%87%91%E6%B2%A2%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "出願資格：専願型と同じ（活動実績または資格保有）",
+    "url": "https://note.com/skillpass/n/n23241b9ea7ab",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "学校法人 金沢工業大学 の 会社概要 - マイナビ転職 — 学校法人 金沢工業大学 の 会社概要 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > company",
+    "url": "https://tenshoku.mynavi.jp/company/309841/",
+    "pass": 3
+   },
+   {
+    "quote": "学園（学校法人 金沢工業大学 ）の状況 — 学園（学校法人 金沢工業大学 ）の状況 KIT 金沢工業大学 https://www.kanazawa-it.ac.jp > about_kit > gakuenjokyo",
+    "url": "https://www.kanazawa-it.ac.jp/about_kit/gakuenjokyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "学校法人 金沢工業大学 ｜法人番号 2220005001911｜石川県 ... — 学校法人 金沢工業大学 ｜法人番号 2220005001911｜石川県 ... 法律人 LawPlayer https://lawplayer.com > 日本法令検索 > 法人情報",
+    "url": "https://lawplayer.com/jp/company/2220005001911",
+    "pass": 3
+   },
+   {
+    "quote": "夢考房 -YUMEKOBO - 金沢工業大学 — 夢考房 -YUMEKOBO - 金沢工業大学 KIT 金沢工業大学 https://www.kanazawa-it.ac.jp > yumekobo > function",
+    "url": "https://www.kanazawa-it.ac.jp/yumekobo/function/3dprinter.html",
+    "pass": 3
+   },
+   {
+    "quote": "高機能な 金属3Dプリンター を夢考房41に 導入 。3月12日（木 ... — 高機能な 金属3Dプリンター を夢考房41に 導入 。3月12日（木 ... 共同通信PRワイヤー https://kyodonewsprwire.jp > ... > 学校法人金沢工業大学",
+    "url": "https://kyodonewsprwire.jp/release/201503098332",
+    "pass": 3
+   },
+   {
+    "quote": "学校法人 金沢工業大学 の会社概要 - マイナビ転職 — 学校法人 金沢工業大学 の会社概要 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > company",
+    "url": "https://tenshoku.mynavi.jp/company/309841/",
+    "pass": 3
+   },
+   {
+    "quote": "金沢工業大学 (@KIT_CampusNews) / X — 金沢工業大学 (@KIT_CampusNews) / X X https://x.com > KIT_CampusNews",
+    "url": "https://x.com/KIT_CampusNews",
+    "pass": 3
+   },
+   {
+    "quote": "学校法人 金沢工業大学 | 2220005001911 | Gビズインフォ — 学校法人 金沢工業大学 | 2220005001911 | Gビズインフォ info.gbiz.go.jp https://info.gbiz.go.jp > hojin > ichiran",
+    "url": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2220005001911",
+    "pass": 3
+   },
+   {
+    "quote": "学校法人 金沢工業大学 の中途採用・転職・求人情報 — 学校法人 金沢工業大学 の中途採用・転職・求人情報 リクルートエージェント https://www.r-agent.com > company",
+    "url": "https://www.r-agent.com/company/g0570/",
+    "pass": 3
+   },
+   {
+    "quote": "金沢工業大学 基本情報 - 大学ポートレート（私学版） — 金沢工業大学 基本情報 - 大学ポートレート（私学版） 大学ポートレート（私学版） https://up-j.shigaku.go.jp > school > category08",
+    "url": "https://up-j.shigaku.go.jp/school/category08/00000000387601000.html",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "RMIT大学、水に浮くチタン製ラティス構造体を3Dプリンターで開発、損傷後も浮力を維持",
+    "url": "https://news.sharelab.jp/cases/construction/kit-kajima-230810/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターで使える金属材料は？ステンレスやアルミニウムなど種類と特徴を解説",
+    "url": "https://news.sharelab.jp/cases/construction/kit-kajima-230810/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末床溶融結合法 / PBF（Powder Bed Fusion）を解説！SLS方式、SLM方式と何が違う？",
+    "url": "https://news.sharelab.jp/cases/construction/kit-kajima-230810/",
+    "pass": 3
+   },
+   {
+    "quote": "・デモの内容： チタニウム粉末を用いた部品製作",
+    "url": "https://times.sanpou-s.net/detail/pid-3556/",
+    "pass": 3
+   },
+   {
+    "quote": "材料となる金属粉末を0.05ミリメートル層に積層してレーザーで焼結",
+    "url": "https://times.sanpou-s.net/detail/pid-3556/",
+    "pass": 3
+   },
+   {
+    "quote": "焼結した層の上にさらに金属粉末を0.05ミリメートル層に積層してレーザーで焼結、というプロセスを繰り返し、0.5ミリメートル厚まで積層した時点で、造形物の輪郭を高速・精密に切削",
+    "url": "https://times.sanpou-s.net/detail/pid-3556/",
+    "pass": 3
+   },
+   {
+    "quote": "再び金属粉末を0.05ミリメートル層に積層してレーザーで焼結していくという、造形と切削仕上げを繰り返すことで、複雑な内部形状であっても、下層から上層に向かって構築することが可能である",
+    "url": "https://times.sanpou-s.net/detail/pid-3556/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "金沢工業大学 の人気・新着記事まとめ - note 金沢工業大学 の人気・新着記事まとめ - note note https://note.com > tag > 金沢工業大学",
+    "url": "https://note.com/tag/%E9%87%91%E6%B2%A2%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "【推し活】 金沢工業大学 を「面倒見が良い」なんて言葉で ... 【推し活】 金沢工業大学 を「面倒見が良い」なんて言葉で ... note https://note.com > 教育・学び > 大学教育",
+    "url": "https://note.com/daikenja0518/n/n97a9cba10d71",
+    "pass": 3
+   },
+   {
+    "quote": "金沢工業大学 という選択肢 to 高校生｜kitchen - note 金沢工業大学 という選択肢 to 高校生｜kitchen - note note https://note.com > キャリア > キャリア戦略",
+    "url": "https://note.com/kitchen_py/n/ne31942c0d300",
+    "pass": 3
+   },
+   {
+    "quote": "【8割合格】 金沢工業大学 ｜総合型／学校推薦完全対策ガイド ... 【8割合格】 金沢工業大学 ｜総合型／学校推薦完全対策ガイド ... note https://note.com > 教育・学び > 資格・キャリア",
+    "url": "https://note.com/skillpass/n/n23241b9ea7ab",
+    "pass": 3
+   },
+   {
+    "quote": "金沢工業大学 デザインアートラボ - note 金沢工業大学 デザインアートラボ - note note https://note.com > kit_ita",
+    "url": "https://note.com/kit_ita",
+    "pass": 3
+   },
+   {
+    "quote": "『謙虚になることがすべて』 金沢工業大学 情報フロンティア ... 『謙虚になることがすべて』 金沢工業大学 情報フロンティア ... note https://note.com > ... > その他人物インタビュー",
+    "url": "https://note.com/penpensensei/n/nf80195cddbb2",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "金沢工業大学の人気・新着記事まとめ｜note",
+    "url": "https://note.com/tag/%E9%87%91%E6%B2%A2%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "最先端のAI教育や産学連携、地域貢献に力を入れる理工系大学の姿が描かれています。",
+    "url": "https://note.com/tag/%E9%87%91%E6%B2%A2%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "入試対策や研究成果、学生による社会課題への挑戦など、多様な記事が集まっています。",
+    "url": "https://note.com/tag/%E9%87%91%E6%B2%A2%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "最先端のAI教育や産学連携、地域貢献に力を入れる理工系大学の姿が描かれています…",
+    "url": "https://note.com/tag/%E9%87%91%E6%B2%A2%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "「なんで最初から出ないの？」ヒーローは遅れてやってくる｜第11節 ツエーゲン金沢戦",
+    "url": "https://note.com/tag/%E9%87%91%E6%B2%A2%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "KOGEIデジタルアートミュージアムをXperia1Ⅷで撮ってみた",
+    "url": "https://note.com/tag/%E9%87%91%E6%B2%A2%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "石川県のカメラ専門店【写真の文明堂】=ブログ=",
+    "url": "https://note.com/tag/%E9%87%91%E6%B2%A2%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "【推し活】金沢工業大学を「面倒見が良い」なんて言葉で片付けてはいけない。あそこは凡人がエリートに化ける「最強の修行場」だ。｜大学業界の大賢者",
+    "url": "https://note.com/daikenja0518/n/n97a9cba10d71",
+    "pass": 3
+   },
+   {
+    "quote": "【推し活】金沢工業大学を「面倒見が良い」なんて言葉で片付けてはいけない。あそこは凡人がエリートに化ける「最強の修行場」だ。",
+    "url": "https://note.com/daikenja0518/n/n97a9cba10d71",
+    "pass": 3
+   },
+   {
+    "quote": "今日は、ある特定の大学について熱く語りたい。",
+    "url": "https://note.com/daikenja0518/n/n97a9cba10d71",
+    "pass": 3
+   },
+   {
+    "quote": "大学ランキングの雑誌を開くと、必ずと言っていいほど**「面倒見が良い大学」の1位**に君臨し続ける大学がある。**金沢工業大学（以下、KIT）**だ。",
+    "url": "https://note.com/daikenja0518/n/n97a9cba10d71",
+    "pass": 3
+   },
+   {
+    "quote": "多くの親や受験生は、このランキングを見てこう解釈する。「ああ、手取り足取り優しく教えてくれる、アットホームな大学なんだな」と。",
+    "url": "https://note.com/daikenja0518/n/n97a9cba10d71",
+    "pass": 3
+   },
+   {
+    "quote": "もしあなたが「楽に卒業したい」「お客様気分で学びたい」と思ってKITに入れば、4月の時点で絶望することになるだろう。",
+    "url": "https://note.com/daikenja0518/n/n97a9cba10d71",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスの現場、そして教育のマーケティングに関わる人間として、あえて厳しい言葉で真実を伝えたい。",
+    "url": "https://note.com/daikenja0518/n/n97a9cba10d71",
+    "pass": 3
+   },
+   {
+    "quote": "KITの「面倒見の良さ」とは、優しさではない。",
+    "url": "https://note.com/daikenja0518/n/n97a9cba10d71",
+    "pass": 3
+   },
+   {
+    "quote": "金沢工業大学という選択肢 to 高校生｜kitchen",
+    "url": "https://note.com/kitchen_py/n/ne31942c0d300",
+    "pass": 3
+   },
+   {
+    "quote": "以前高校生から「金沢工業大学入ろうと思うんだけど、どう思う？」みたいな質問を受けたので、ここで答えていきます。",
+    "url": "https://note.com/kitchen_py/n/ne31942c0d300",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェア寄り人間なので、バイアスがかかっていることは気に留めておいてください。",
+    "url": "https://note.com/kitchen_py/n/ne31942c0d300",
+    "pass": 3
+   },
+   {
+    "quote": "まず、例えば「化学やりたい」とか「物理やりたい」みたいな延長線として学術的な基礎研究をしたいっていうことだったら",
+    "url": "https://note.com/kitchen_py/n/ne31942c0d300",
+    "pass": 3
+   },
+   {
+    "quote": "っていう武器を作るみたいにな動きをしたいならば",
+    "url": "https://note.com/kitchen_py/n/ne31942c0d300",
+    "pass": 3
+   },
+   {
+    "quote": "例えば化学系の学科の知り合いにいる「化学 × ソフトウェア」を武器にしている人だと、蜂の行動についての研究で蜂にQRコードを貼り付けて個々の蜂の位置を記録するみたいな動きをしている人はいたりしますね。",
+    "url": "https://note.com/kitchen_py/n/ne31942c0d300",
+    "pass": 3
+   },
+   {
+    "quote": "この大学は例えば開発の大会を主催するだとか、学祭でロボット競技を催すだとかみたいな、",
+    "url": "https://note.com/kitchen_py/n/ne31942c0d300",
+    "pass": 3
+   },
+   {
+    "quote": "なので、やる気があって自分からガツガツいける人ならば実装力をつけることはできるでしょう。",
+    "url": "https://note.com/kitchen_py/n/ne31942c0d300",
+    "pass": 3
+   },
+   {
+    "quote": "【8割合格】金沢工業大学｜総合型／学校推薦完全対策ガイド（2027年度版）｜スキルパス｜理系の併願に強い総合型対策塾",
+    "url": "https://note.com/skillpass/n/n23241b9ea7ab",
+    "pass": 3
+   },
+   {
+    "quote": "【8割合格】金沢工業大学｜総合型／学校推薦完全対策ガイド（2027年度版）",
+    "url": "https://note.com/skillpass/n/n23241b9ea7ab",
+    "pass": 3
+   },
+   {
+    "quote": "金沢工業大学は、北陸を代表する私立理工系大学として、2025年4月に6学部17学科体制への大規模再編を完了し、理工系教育を展開しています。理系志望者にとっての6学部構成は、",
+    "url": "https://note.com/skillpass/n/n23241b9ea7ab",
+    "pass": 3
+   },
+   {
+    "quote": "情報デザイン学部・メディア情報学部・情報理工学部・バイオ・化学部・工学部・建築学部",
+    "url": "https://note.com/skillpass/n/n23241b9ea7ab",
+    "pass": 3
+   },
+   {
+    "quote": "と多彩。総合型選抜は「専願型」「併願型」の2方式で運用され、",
+    "url": "https://note.com/skillpass/n/n23241b9ea7ab",
+    "pass": 3
+   },
+   {
+    "quote": "特に併願型は他大学との併願も可能という戦略的な出願ルートを提供",
+    "url": "https://note.com/skillpass/n/n23241b9ea7ab",
+    "pass": 3
+   },
+   {
+    "quote": "。出願資格は「課外活動」「生徒会活動」「各種資格取得」「国際科学技術コンテスト参加」のいずれかを満たせばOKという、活動実績ベースの選抜設計です。さらに特別奨学生制度（KITスカラーシップ）が総合型選抜にも適用され、合格者は奨学金給付の対象となる可能性も。スキルパスのカリキュラムなら、これらの学部別・方式別の要件をクリアして合格を狙うことが可能です。",
+    "url": "https://note.com/skillpass/n/n23241b9ea7ab",
+    "pass": 3
+   },
+   {
+    "quote": "総合型選抜は、ここ数年で評価の中身が大きく変わりました。生成AIの普及によって、志望理由書の文章力や「やる気アピール」「将来の目標アピール」だけでは差がつかなくなり、",
+    "url": "https://note.com/skillpass/n/n23241b9ea7ab",
+    "pass": 3
+   },
+   {
+    "quote": "金沢工業大学 デザインアートラボ｜note",
+    "url": "https://note.com/kit_ita",
+    "pass": 3
+   },
+   {
+    "quote": "建築座談会＆金沢工業大学キャンパスガイド「扇が丘キャンパス歩いてわかる学びのかたち」",
+    "url": "https://note.com/kit_ita",
+    "pass": 3
+   },
+   {
+    "quote": "大盛況！ミュージックラウンジ～アメリカンミュージックとコーヒーを楽しもう～",
+    "url": "https://note.com/kit_ita",
+    "pass": 3
+   },
+   {
+    "quote": "夏の探究学習【マケットを「見て」「作ろう」わたしの世界】",
+    "url": "https://note.com/kit_ita",
+    "pass": 3
+   },
+   {
+    "quote": "ミュージアムツアー【展覧会 「石岡瑛子Iデザイン」を見に行こう】",
+    "url": "https://note.com/kit_ita",
+    "pass": 3
+   },
+   {
+    "quote": "アグネス吉井ワークショップ「からだで感じる建築のかたち」レポート",
+    "url": "https://note.com/kit_ita",
+    "pass": 3
+   },
+   {
+    "quote": "光とジオメトリー展 -美しき幾何学の世界-",
+    "url": "https://note.com/kit_ita",
+    "pass": 3
+   },
+   {
+    "quote": "レポート「見て、創ろう！デザインワークショップ」",
+    "url": "https://note.com/kit_ita",
+    "pass": 3
+   },
+   {
+    "quote": "『謙虚になることがすべて』 金沢工業大学 情報フロンティア学部 : K・I｜ペンペン先生の勉強方法辞典",
+    "url": "https://note.com/penpensensei/n/nf80195cddbb2",
+    "pass": 3
+   },
+   {
+    "quote": "『謙虚になることがすべて』 金沢工業大学 情報フロンティア学部 : K・I",
+    "url": "https://note.com/penpensensei/n/nf80195cddbb2",
+    "pass": 3
+   },
+   {
+    "quote": "大学は予想以上に大変だったけど、予想以上におもしろかった",
+    "url": "https://note.com/penpensensei/n/nf80195cddbb2",
+    "pass": 3
+   },
+   {
+    "quote": "常に新しいことを学び続けているK・Iさん。",
+    "url": "https://note.com/penpensensei/n/nf80195cddbb2",
+    "pass": 3
+   },
+   {
+    "quote": "そんなK・Iさんも悔しさ、焦りが表情、行動にでるときがあったそうだ。",
+    "url": "https://note.com/penpensensei/n/nf80195cddbb2",
+    "pass": 3
+   },
+   {
+    "quote": "この厳しい時期をどうやって乗り越えてきたのか。",
+    "url": "https://note.com/penpensensei/n/nf80195cddbb2",
+    "pass": 3
+   },
+   {
+    "quote": "・合格大学：金沢工業大学 情報フロンティア学部",
+    "url": "https://note.com/penpensensei/n/nf80195cddbb2",
+    "pass": 3
+   },
+   {
+    "quote": "・今大学で夢中になっていること：資格試験の勉強",
+    "url": "https://note.com/penpensensei/n/nf80195cddbb2",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "金沢工業大学 (@KIT_CampusNews) / X 金沢工業大学 (@KIT_CampusNews) / X X https://x.com > KIT_CampusNews",
+    "url": "https://x.com/KIT_CampusNews",
+    "pass": 3
+   },
+   {
+    "quote": "# 金沢工業大学 - Search / X # 金沢工業大学 - Search / X X https://x.com > Search",
+    "url": "https://x.com/hashtag/%E9%87%91%E6%B2%A2%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "【公式】 金沢工業大学 キャンパスライフサポート - X 【公式】 金沢工業大学 キャンパスライフサポート - X X https://x.com > eaglefun_kit",
+    "url": "https://x.com/eaglefun_kit",
+    "pass": 3
+   },
+   {
+    "quote": "金沢工業大学 工大祭実行委員会 (@KITfestival) / X 金沢工業大学 工大祭実行委員会 (@KITfestival) / X X https://x.com > KITfestival",
+    "url": "https://x.com/KITfestival",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "金沢工業大学 の社員、場所、同窓生 - LinkedIn 金沢工業大学 の社員、場所、同窓生 - LinkedIn LinkedIn https://jp.linkedin.com > school > 金沢工業大学",
+    "url": "https://jp.linkedin.com/school/%E9%87%91%E6%B2%A2%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "田中 敬司 - 金沢工業大学 大学院の工学修士 | LinkedIn 田中 敬司 - 金沢工業大学 大学院の工学修士 | LinkedIn LinkedIn https://jp.linkedin.com > 敬司-田中-569712189",
+    "url": "https://jp.linkedin.com/in/%E6%95%AC%E5%8F%B8-%E7%94%B0%E4%B8%AD-569712189",
+    "pass": 3
+   },
+   {
+    "quote": "（学） 金沢工業大学 - LinkedIn （学） 金沢工業大学 - LinkedIn LinkedIn https://jp.linkedin.com > company > （学）金沢工業大学",
+    "url": "https://jp.linkedin.com/company/%EF%BC%88%E5%AD%A6%EF%BC%89%E9%87%91%E6%B2%A2%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "Yuya Yamaguchi - 金沢工業大学 学生 - LinkedIn Yuya Yamaguchi - 金沢工業大学 学生 - LinkedIn LinkedIn https://jp.linkedin.com > ...",
+    "url": "https://jp.linkedin.com/in/yuya-yamaguchi-476b1a17b",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "金沢工業大学 (@KIT.CampusNews) - Facebook 金沢工業大学 (@KIT.CampusNews) - Facebook Facebook https://www.facebook.com > ... > College & university",
+    "url": "https://www.facebook.com/KIT.CampusNews/",
+    "pass": 3
+   },
+   {
+    "quote": "金沢工業大学 機械工学科＆先進機械システム工学科 - Facebook 金沢工業大学 機械工学科＆先進機械システム工学科 - Facebook Facebook https://www.facebook.com > ... > College & university",
+    "url": "https://www.facebook.com/kit.Mech.Eng/",
+    "pass": 3
+   },
+   {
+    "quote": "金沢工業大学 PMC (@pmc.kit) - Facebook 金沢工業大学 PMC (@pmc.kit) - Facebook Facebook https://www.facebook.com > ... > College & university",
+    "url": "https://www.facebook.com/pmc.kit/",
+    "pass": 3
+   },
+   {
+    "quote": "金沢工業大学 ・夢考房 (@kityumekobo) - Facebook 金沢工業大学 ・夢考房 (@kityumekobo) - Facebook Facebook https://www.facebook.com > ... > ビジネス > 教育 > 学校",
+    "url": "https://www.facebook.com/kityumekobo/?locale=ja_JP",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.kanazawa-it.ac.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kanazawa-it.ac.jp/about_kit/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kanazawa-it.ac.jp/about_kit/ogigaoka.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kanazawa-it.ac.jp/about_kit/yatsukaho.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kanazawa-it.ac.jp/company/kigyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kanazawa-it.ac.jp/about_kit/access.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kanazawa-it.ac.jp/kitnews/2026/1110_hamamatsu-shugakusha.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kanazawa-it.ac.jp/kitnews/2026/1109_tesh.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kanazawa-it.ac.jp/kitnews/2026/1107_satolab.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kanazawa-it.ac.jp/kitnews/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kanazawa-it.ac.jp/company/coop-meeting.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kanazawa-it.ac.jp/about_kit/kengaku_koryo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kanazawa-it.ac.jp/about_kit/ir.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kanazawa-it.ac.jp/about_kit/enkaku.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://tenshoku.mynavi.jp/company/309841/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kit-group.jp/pages/19/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/cases/construction/kit-kajima-230810/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://times.sanpou-s.net/detail/pid-3556/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fitc.pref.fukuoka.jp/facility/setsubi/dep-list/meri/kinzoku-sekisou-zoukei.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/company/309841/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/KIT_CampusNews",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/company/309841/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2220005001911",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E9%87%91%E6%B2%A2%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/daikenja0518/n/n97a9cba10d71",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kitchen_py/n/ne31942c0d300",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/skillpass/n/n23241b9ea7ab",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/KIT_CampusNews",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/%E9%87%91%E6%B2%A2%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/eaglefun_kit",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/KITfestival",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/school/%E9%87%91%E6%B2%A2%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E6%95%AC%E5%8F%B8-%E7%94%B0%E4%B8%AD-569712189",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/%EF%BC%88%E5%AD%A6%EF%BC%89%E9%87%91%E6%B2%A2%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/yuya-yamaguchi-476b1a17b",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/KIT.CampusNews/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/kit.Mech.Eng/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pmc.kit/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/kityumekobo/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/tag/%E9%87%91%E6%B2%A2%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/daikenja0518/n/n97a9cba10d71",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kit_ita",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/penpensensei/n/nf80195cddbb2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/KIT_CampusNews",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/eaglefun_kit",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "金沢工業大学",
+   "results": [
+    "https://www.kanazawa-it.ac.jp/",
+    "https://ja.wikipedia.org/wiki/%E9%87%91%E6%B2%A2%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+    "https://www.youtube.com/KIT_CampusNews",
+    "https://passnavi.obunsha.co.jp/univ/3490/top/",
+    "https://www.instagram.com/kit_campusnews/",
+    "https://ja.wikipedia.org/wiki/金沢工業大学",
+    "https://www.kanazawa-it.ac.jp/index.html",
+    "https://www.minkou.jp/university/school/20373/",
+    "https://www.minkou.jp/university/school/deviation/20373/",
+    "https://www.toshin.com/daigaku/kanazawa-kogyo"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "金沢工業大学 会社概要 資本金 設立",
+   "results": [
+    "https://tenshoku.mynavi.jp/company/309841/",
+    "https://www.kit-group.jp/pages/19/",
+    "https://www.kanazawa-it.ac.jp/about_kit/gakuenjokyo.html",
+    "https://www.kri.co.jp/profile/outline-2/",
+    "https://lawplayer.com/jp/company/2220005001911",
+    "https://up-j.shigaku.go.jp/school/category08/00000000387601000.html",
+    "https://company-search.jp/corp/2220005001911/",
+    "https://ja.wikipedia.org/wiki/%E9%87%91%E6%B2%A2%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+    "https://www.atengineer.com/pr/kanazawa-it/company",
+    "https://ja.wikipedia.org/wiki/金沢工業大学"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "金沢工業大学 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.kanazawa-it.ac.jp/yumekobo/function/3dprinter.html",
+    "https://news.sharelab.jp/cases/construction/kit-kajima-230810/",
+    "https://times.sanpou-s.net/detail/pid-3556/",
+    "https://kyodonewsprwire.jp/release/201503098332",
+    "https://ken-it.world/it/2022/05/kitxkajima-3d-printing-lab.html",
+    "https://kk-ariga.co.jp/metal_3d_printer/%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B/",
+    "https://www.youtube.com/watch?v=Byfy7tsLawE",
+    "https://www.kanazawa-u.ac.jp/research/researcher/kokokara/research42/",
+    "https://www.j-tic.co.jp/R81222.html",
+    "https://w3a.kanazawa-it.ac.jp/3dc/overview/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "金沢工業大学 金属積層造形 設備",
+   "results": [
+    "https://www.kanazawa-it.ac.jp/yumekobo/function/3dprinter.html",
+    "https://chuokatan.co.jp/products/3dp/",
+    "https://www.fitc.pref.fukuoka.jp/facility/setsubi/dep-list/meri/kinzoku-sekisou-zoukei.php",
+    "https://jampt.jp/column/column_1249/",
+    "https://times.sanpou-s.net/detail/pid-3556/",
+    "https://news.sharelab.jp/cases/construction/kit-kajima-230810/",
+    "https://www.youtube.com/watch?v=sT3lR9R98hc",
+    "https://www.isico.or.jp/event/dgnet/d31196224.html",
+    "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "https://www.kanazawa-it.ac.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "金沢工業大学 株主 出資 親会社",
+   "results": [
+    "https://www.kanazawa-it.ac.jp/about_kit/gakuenjokyo.html",
+    "https://tenshoku.mynavi.jp/company/309841/",
+    "https://x.com/KIT_CampusNews",
+    "https://www.jsb.co.jp/ir/archives/2026/pdf/2026.02.03-24.pdf",
+    "https://www.kit-group.jp/pages/19/",
+    "https://kitnet.jp/backup/article/63/a63.html",
+    "https://www.youtube.com/watch?v=55x1ovyvGPc",
+    "https://orico-web.jp/gakuhi/?module=search&clientid=15438179",
+    "https://up-j.shigaku.go.jp/school/category08/00000000387601000.html",
+    "https://ja.wikipedia.org/wiki/金沢工業大学"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "金沢工業大学 売上高 従業員数",
+   "results": [
+    "https://tenshoku.mynavi.jp/company/309841/",
+    "https://www.kanazawa-it.ac.jp/about_kit/gakuenjokyo.html",
+    "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2220005001911",
+    "https://www.r-agent.com/company/g0570/",
+    "https://up-j.shigaku.go.jp/school/category08/00000000387601000.html",
+    "https://syukatsu-kaigi.jp/companies/36483",
+    "https://fumadata.com/search/detail/2080218",
+    "https://www.kanazawa-it.ac.jp/jigyo/dx/data/index.html",
+    "https://telemail.jp/shingaku/university/10001572/faculty",
+    "https://ja.wikipedia.org/wiki/金沢工業大学"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 金沢工業大学",
+   "results": [
+    "https://note.com/tag/%E9%87%91%E6%B2%A2%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+    "https://note.com/daikenja0518/n/n97a9cba10d71",
+    "https://note.com/kitchen_py/n/ne31942c0d300",
+    "https://note.com/skillpass/n/n23241b9ea7ab",
+    "https://note.com/penpensensei/n/nf80195cddbb2",
+    "https://note.com/kit_ita",
+    "https://note.com/skillpass/n/n3a2a04fb2a4a",
+    "https://note.com/photo_bunmeido/n/n854299da7987",
+    "https://note.com/hotozero/n/n4d696e9128a1",
+    "https://note.com/skillpass/n/n2f5679ae80c9"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com 金沢工業大学",
+   "results": [
+    "https://x.com/KIT_CampusNews",
+    "https://x.com/hashtag/%E9%87%91%E6%B2%A2%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+    "https://x.com/eaglefun_kit",
+    "https://x.com/KITfestival",
+    "https://x.com/kit_robotics",
+    "https://x.com/KIT_GStation",
+    "https://x.com/FMC_KIT",
+    "https://x.com/KIT_info",
+    "https://x.com/yumerobopro",
+    "https://x.com/kitfestival"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:linkedin.com 金沢工業大学",
+   "results": [
+    "https://jp.linkedin.com/school/%E9%87%91%E6%B2%A2%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6/",
+    "https://jp.linkedin.com/in/%E6%95%AC%E5%8F%B8-%E7%94%B0%E4%B8%AD-569712189",
+    "https://jp.linkedin.com/company/%EF%BC%88%E5%AD%A6%EF%BC%89%E9%87%91%E6%B2%A2%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+    "https://jp.linkedin.com/in/yuya-yamaguchi-476b1a17b",
+    "https://jp.linkedin.com/in/hidetaka-yamaoka-9b252357",
+    "https://jp.linkedin.com/in/%E8%88%AA%E5%B9%B3-%E7%94%B0%E4%B8%AD-337303261",
+    "https://jp.linkedin.com/in/%E5%8D%93%E4%BA%BA-%E6%9D%BE%E6%9C%AC-5aa492224",
+    "https://www.linkedin.com/posts/boeing_%E3%83%9C%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B0%E3%82%A8%E3%82%AF%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%83%E3%83%97%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A02026%E3%81%AE%E6%9C%80%E7%B5%82%E7%99%BA%E8%A1%A8%E4%BC%9A%E3%82%92%E4%BB%8A%E6%9C%88%E5%A4%A7%E9%98%AA%E5%85%AC%E7%AB%8B%E5%A4%A7%E5%AD%A6-activity-7510897485188440064-nCwD",
+    "https://jp.linkedin.com/company/icc-kit",
+    "https://jp.linkedin.com/school/金沢工業大学/people"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com 金沢工業大学",
+   "results": [
+    "https://www.facebook.com/KIT.CampusNews/",
+    "https://www.facebook.com/kit.Mech.Eng/",
+    "https://www.facebook.com/pmc.kit/",
+    "https://www.facebook.com/kityumekobo/?locale=ja_JP",
+    "https://www.facebook.com/kit.elec.eng/",
+    "https://www.facebook.com/kit.Mech.Eng/videos/kit%E5%A4%8F%E3%81%AE%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%91%E3%82%B9%E9%96%8B%E5%82%AC%E4%B8%AD%E3%81%A7%E3%81%99%E9%87%91%E6%B2%A2%E5%B7%A5%E5%A4%A7-%E9%87%91%E6%B2%A2%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6-%E6%A9%9F%E6%A2%B0%E5%B7%A5%E5%AD%A6%E7%A7%91-%E5%85%88%E9%80%B2%E6%A9%9F%E6%A2%B0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%B7%A5%E5%AD%A6%E7%A7%91-%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%91%E3%82%B9/972770505802223/",
+    "https://www.facebook.com/kit.prj/",
+    "https://www.facebook.com/physicsprj/",
+    "https://www.facebook.com/p/%E9%87%91%E6%B2%A2%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6%E7%BE%A9%E6%89%8B%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA-100066729314742/",
+    "https://www.facebook.com/KIT.CampusNews/posts/大学ランキング2027全国の学長が評価する大学とは-教育面では金沢工業大が10年連続トップyahooニュースaera114水-830配信金沢工業大学コメント欄の/1739603811502754/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "金沢工業大学 note 社長",
+   "results": [
+    "https://note.com/tag/%E9%87%91%E6%B2%A2%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+    "https://note.com/daikenja0518/n/n97a9cba10d71",
+    "https://note.com/kit_ita",
+    "https://note.com/penpensensei/n/nf80195cddbb2",
+    "https://note.com/shitaka_hideo/n/n5692aba18312",
+    "https://www.yoridori.jp/earth-note/interview-kanazawa-it-ac/",
+    "https://note.com/kitchen_py/n/ne31942c0d300",
+    "https://www.kanazawa-it.ac.jp/kitnews/2026/kenkyu/index.html",
+    "https://ja.wikipedia.org/wiki/石川憲一",
+    "https://ja.wikipedia.org/wiki/金沢工業大学"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "金沢工業大学 X 投稿",
+   "results": [
+    "https://x.com/KIT_CampusNews",
+    "https://www.kanazawa-it.ac.jp/kitnews/2025/0813_X_DesignLab.html",
+    "https://x.com/eaglefun_kit",
+    "https://www.yamagishi-af.co.jp/post-2684/",
+    "https://kitnet.jp/laboratories/labo0071/index.html",
+    "https://www.reddit.com/r/prusa3d/comments/1x9pkvd/prusa_core_one_gen2_kit_x_axis_calibration_issue/",
+    "https://kyodonewsprwire.jp/release/202603175770",
+    "https://search.yahoo.co.jp/realtime/search/金沢工業大学/",
+    "https://www.kanazawa-it.ac.jp/kitnews/2023/1120_kit-sns.html",
+    "https://x.com/KIT_CampusNews/status/1957730651563528556"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部32頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部32頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部32頁・検索12回）",
+  "資本金・株主": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部32頁・検索12回）"
+ }
+}

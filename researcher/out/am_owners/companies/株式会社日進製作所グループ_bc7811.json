@@ -1,0 +1,940 @@
+{
+ "name": "株式会社日進製作所グループ",
+ "aliases": [],
+ "context": "PBF=yes 装置=パウダーベッド 出典=https://www.nissin-mfg.co.jp/technology/technology_test/",
+ "researched_at": "2026-11-10T18:14:19.120637+00:00",
+ "official_url": "https://www.nissin-mfg.co.jp/",
+ "identified_by": "search:ddgs:google:株式会社日進製作所グループ",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "創業",
+    "value": "創業：1946（昭和21）年9月",
+    "url": "https://www.nissin-mfg.co.jp/company/history/",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "8億5,000万円",
+    "url": "https://www.nissin-mfg.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "19.8万円",
+    "url": "https://www.nissin-mfg.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "label": "増資（資本金",
+    "value": "200万円）",
+    "url": "https://www.nissin-mfg.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "label": "増資（資本金",
+    "value": "1,800万円）大阪営業所を新築",
+    "url": "https://www.nissin-mfg.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "label": "増資（資本金",
+    "value": "8,000万円）",
+    "url": "https://www.nissin-mfg.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "label": "増資（資本金",
+    "value": "24,000万円）",
+    "url": "https://www.nissin-mfg.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "label": "増資（資本金",
+    "value": "39,800万円）",
+    "url": "https://www.nissin-mfg.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "label": "増資（資本金",
+    "value": "49,750万円）",
+    "url": "https://www.nissin-mfg.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "label": "増資（資本金",
+    "value": "67,350万円）",
+    "url": "https://www.nissin-mfg.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "label": "増資（資本金",
+    "value": "76,800万円）",
+    "url": "https://www.nissin-mfg.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "label": "増資（資本金",
+    "value": "85,000万円）",
+    "url": "https://www.nissin-mfg.co.jp/company/history/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "単体：139名　連結：3082名",
+    "url": "https://www.nissin-mfg.co.jp/company/history/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "本社 〒627-0037　京都府京丹後市峰山町千歳22番地 [ Map ] TEL.0772-62-1111（代表）　FAX.0772-62-3202 赤坂工場 〒627-0006　京都府京丹後市峰山町赤坂85番地 [ Map ] TEL.0772-62-8088　FAX.0772-62-6688",
+    "url": "https://www.nissin-mfg.co.jp/company/history/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "■量産部品 ・熱間鍛造・アルミダイキャストから機械加工、熱処理、組立まで一貫加工 ・エンジン部品／トランスミッション部品／その他精密部品 ・工作機械加工～組立 ■試作部品 ・金属3Dプリンタによる積層造形 ・チタンやインコネルなどの難削材の高精度加工",
+    "url": "https://www.nissin-mfg.co.jp/company/base/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "・竪高速自動ホーニング盤、その他専用機 ・砥石／マンドレル／計測ノズル ・IoT等情報システム ・自動車・オートバイ・汎用エンジン・精密部品製造 ・工作機械製造",
+    "url": "https://www.nissin-mfg.co.jp/company/base/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "医療用機器の製造販売業務 医療用機器の研究開発業務",
+    "url": "https://www.nissin-mfg.co.jp/company/base/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "自動車のエンジン部品　製造販売",
+    "url": "https://www.nissin-mfg.co.jp/company/base/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "自動車・オートバイ部品　製造販売",
+    "url": "https://www.nissin-mfg.co.jp/company/base/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "オートバイ・自動車部品　製造販売",
+    "url": "https://www.nissin-mfg.co.jp/company/base/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "自動車部品　製造販売",
+    "url": "https://www.nissin-mfg.co.jp/company/base/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "オートバイ部品　製造販売",
+    "url": "https://www.nissin-mfg.co.jp/company/base/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "自動車部品輸出入販売",
+    "url": "https://www.nissin-mfg.co.jp/company/base/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "用途・客の産業": [
+   {
+    "quote": "株式会社日進PREVOは、精密部品製造の技術力を結集し、自動車業界はもとより航空宇宙、医療、半導体など幅広い産業向けに高精度な部品加工を提供しています",
+    "url": "https://www.nissin-mfg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社日進FULFILは、医療分野に特化した革新的なソリューションを提供しています",
+    "url": "https://www.nissin-mfg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "高度な精密加工技術と品質管理体制を活かし、医療機器や医療用部品の開発・製造を行っています",
+    "url": "https://www.nissin-mfg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "厳格な品質基準を満たす製品づくりと、医療現場のニーズに応える技術開発により、人々の健康と医療の発展に貢献します",
+    "url": "https://www.nissin-mfg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "医療開発事業を（株）白石バイオマスに事業継承すると共に社名を（株）日進FULFILに変更",
+    "url": "https://www.nissin-mfg.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "・自動車部品、オートバイ部品、小型エンジン部品、及び精密部品の製造、",
+    "url": "https://www.nissin-mfg.co.jp/company/iso/",
+    "pass": 1
+   },
+   {
+    "quote": "コネクティングロッドを含む自動車可変圧縮エンジン用部品の製造",
+    "url": "https://www.nissin-mfg.co.jp/company/iso/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車、オートバイエンジン部品、工作機械用部品、治具等の製造",
+    "url": "https://www.nissin-mfg.co.jp/company/iso/",
+    "pass": 1
+   },
+   {
+    "quote": "・自動車部品、オートバイ部品、小型エンジン部品、ミシン部品、精密鍛造品",
+    "url": "https://www.nissin-mfg.co.jp/company/iso/",
+    "pass": 1
+   },
+   {
+    "quote": "登録組織全体における自動車・オートバイエンジン部品",
+    "url": "https://www.nissin-mfg.co.jp/company/iso/",
+    "pass": 1
+   },
+   {
+    "quote": "登録組織全体におけるミシン部品、自動車・オートバイエンジン部品",
+    "url": "https://www.nissin-mfg.co.jp/company/iso/",
+    "pass": 1
+   },
+   {
+    "quote": "・自動車・オートバイ・汎用エンジン・精密部品製造",
+    "url": "https://www.nissin-mfg.co.jp/company/base/",
+    "pass": 1
+   },
+   {
+    "quote": "展示会では、機体と燃料電池のプロトタイプを紹介し、水素エネルギーの新たな活用可能性を提案しました",
+    "url": "https://www.nissin-mfg.co.jp/news/2026/06/news-release-robodex/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車・オートバイ用エンジン部品、精密加工部品（工業用ミシン部品他）、工作機械（竪型高速自動ホーニング盤、その他専用機）の開発、製造、販売",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E9%80%B2%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "試作部品として金属3Dプリンタによる積層造形、チタンやインコネルなどの灘削材の高精度加工も手掛ける",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E9%80%B2%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "部品の大部分は、各社各モデルごとの専用部品製作のため、昭和30年代の初めころより同社は自動車産業の成長を予見し自動車部品への進出に乗り出した",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E9%80%B2%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "1963年（昭和38年） - 自動車エンジン部品製造開始",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E9%80%B2%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "創業初期のミシン製造からの戦後の改変期を経て、自動車・オートバイなどのエンジン部品を手掛けるようになった経緯など、日進製作所の軌跡をまとめたパネルのほか、創業者である錦織氏の経営理念、社章や社名の紹介、エンジンやミシンは実物が展示された",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E9%80%B2%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "：自動車メーカーが販売する自動車、オートバイに搭載されている金属製精密部品である「バルブロッカーアーム」やトランスミッション部品等を製造しています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp59675/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "：自動車部品や油圧部品等の穴の内径を加工する工作機械「ホーニング盤」の製造・販売を行っています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp59675/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "その中でも、京都府京丹後市に本社を置く株式会社日進製作所グループはメキシコを北米・南米市場における重要な生産拠点として位置付け、自動車部品の現地生産を展開しています",
+    "url": "https://note.com/slp_japanoffice/n/nfc9d832a21e8",
+    "pass": 3
+   },
+   {
+    "quote": "様々な自動車の部品に使用される日進製作所の製品",
+    "url": "https://note.com/slp_japanoffice/n/nfc9d832a21e8",
+    "pass": 3
+   },
+   {
+    "quote": "メキシコ日進では、これまで培ってきた鍛造・鋳造・加工技術を生かし、Honda Odyssey、Ridgeline、Pilot、HR-Vなどさまざまな自動車部品を生産しています",
+    "url": "https://note.com/slp_japanoffice/n/nfc9d832a21e8",
+    "pass": 3
+   },
+   {
+    "quote": "2019年以降は日系企業以外のメーカーとの取引も開始し、EV部品の量産にも取り組むなど、顧客層と製品分野を広げています",
+    "url": "https://note.com/slp_japanoffice/n/nfc9d832a21e8",
+    "pass": 3
+   },
+   {
+    "quote": "操業開始から2018年までは鉄・アルミのエンジン・トランスミッション部品を中心に一貫生産を行い、その後はEV部品の量産や日系企業以外との取引へと事業領域を拡大してきました",
+    "url": "https://note.com/slp_japanoffice/n/nfc9d832a21e8",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "資本金：19.8万円",
+    "url": "https://www.nissin-mfg.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "増資（資本金：200万円）",
+    "url": "https://www.nissin-mfg.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "増資（資本金：1,800万円）大阪営業所を新築",
+    "url": "https://www.nissin-mfg.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "増資（資本金：8,000万円）",
+    "url": "https://www.nissin-mfg.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "増資（資本金：24,000万円）",
+    "url": "https://www.nissin-mfg.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "増資（資本金：39,800万円）",
+    "url": "https://www.nissin-mfg.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "増資（資本金：49,750万円）",
+    "url": "https://www.nissin-mfg.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "増資（資本金：67,350万円）",
+    "url": "https://www.nissin-mfg.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "増資（資本金：76,800万円）",
+    "url": "https://www.nissin-mfg.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "増資（資本金：85,000万円）",
+    "url": "https://www.nissin-mfg.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "会社所在地、資本金、従業員数などの基本的な日進製作所グループの会社情報をご覧いただけます",
+    "url": "https://www.nissin-mfg.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "3. 株主、会社関係先及び広く社会に貢献する",
+    "url": "https://www.nissin-mfg.co.jp/company/greet/",
+    "pass": 1
+   },
+   {
+    "quote": "資本金は19万8000円",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E9%80%B2%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "「株主、会社関係先及び広く社会に貢献する」",
+    "url": "https://job.mynavi.jp/28/pc/search/corp59675/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "京都機械工具(株)【東証スタンダード市場上場】",
+    "url": "https://job.mynavi.jp/28/pc/search/corp59675/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "野崎印刷紙業(株)【東証スタンダード市場上場】",
+    "url": "https://job.mynavi.jp/28/pc/search/corp59675/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "星和電機(株)【東証スタンダード市場上場】",
+    "url": "https://job.mynavi.jp/28/pc/search/corp59675/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "Nissin Manufactura de Mexicoは2012年10月に設立された、日進製作所グループの100％子会社です",
+    "url": "https://note.com/slp_japanoffice/n/nfc9d832a21e8",
+    "pass": 3
+   }
+  ],
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "・金属3Dプリンタによる積層造形",
+    "url": "https://www.nissin-mfg.co.jp/company/base/",
+    "pass": 1
+   },
+   {
+    "quote": "試作部品として金属3Dプリンタによる積層造形、チタンやインコネルなどの灘削材の高精度加工も手掛ける",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E9%80%B2%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "・熱間鍛造・アルミダイキャストから機械加工、熱処理、組立まで一貫加工",
+    "url": "https://www.nissin-mfg.co.jp/company/base/",
+    "pass": 1
+   },
+   {
+    "quote": "・チタンやインコネルなどの難削材の高精度加工",
+    "url": "https://www.nissin-mfg.co.jp/company/base/",
+    "pass": 1
+   },
+   {
+    "quote": "試作部品として金属3Dプリンタによる積層造形、チタンやインコネルなどの灘削材の高精度加工も手掛ける",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E9%80%B2%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鍛造、アルミダイカスト、機械加工、熱処理、組立、品質測定・分析まで幅広い工程を手掛け、エンジン部品のロッカーアームやトランスミッション部品、EV部品などを生産しています",
+    "url": "https://note.com/slp_japanoffice/n/nfc9d832a21e8",
+    "pass": 3
+   },
+   {
+    "quote": "操業開始から2018年までは鉄・アルミのエンジン・トランスミッション部品を中心に一貫生産を行い、その後はEV部品の量産や日系企業以外との取引へと事業領域を拡大してきました",
+    "url": "https://note.com/slp_japanoffice/n/nfc9d832a21e8",
+    "pass": 3
+   },
+   {
+    "quote": "2026年以降は、EVモーターやバッテリーの冷却・放熱需要の高まりを背景に、アルミダイカスト製品に注力し、さらなる業容拡大を目指しています",
+    "url": "https://note.com/slp_japanoffice/n/nfc9d832a21e8",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要・沿革｜会社案内｜ 株式会社日進製作所グループ | 超精密ホ... — 会社概要 社名 株式会社日進製作所グループ NISSIN MANUFACTURING GROUP CO., LTD. 創業 1946（昭和21）年9月 資本金 8億5,000万円 取引銀行 京都銀行 三菱UFJ銀行 従業員数 単体：139名 連結：3082名 所在地 本社 〒627-0037 京都府京丹後市峰山町千歳22番地 [ Map ]",
+    "url": "https://www.nissin-mfg.co.jp/company/history/",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内 株式会社日進製作所グループ | 超精密ホーニングマシンの総... — トップメッセージ 社訓 Nissin 2030 Vision マネジメントシステム取得状況 日進製作所グループは品質保証、環境改善活動等においてマネジメントシステム認証を取得しております。 日進製作所グループのグループ会社をご紹介いたします。",
+    "url": "https://www.nissin-mfg.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報｜ 株式会社日進ProSOL | 自動機・省人化装置／部品加工会社概要・沿革｜会社案内｜株式会社日進PREVO株式会社日進製作所グループ（京都府）の会社概要・役員 | Compalyze — その出資会社の一つとして「株式会社日進ProSOL」が新たにスタートいたします。 「ProSOL」とは、”ProDUCTION SYSTEM SOLUTION”「情報システムを活用し、目標を成し遂げる」という、強い決意を示しています。 Apr 1, 2024 · 会社概要 ... 沿革 ... アクセス 本社/菅工場 〒627-0041 京都府京丹後市峰山町菅123番地の1 TEL.0772-62-0318（代表） FAX.0772-62-5787 最寄り駅 京都丹後鉄道 宮豊線 峰山駅西口 車で8分 千歳工場 株式会社日進製作所グループは、「人々の“豊かな未来”に『滑らかさの技』で貢献する」",
+    "url": "https://prosol.nissin-mfg.co.jp/about",
+    "pass": 3
+   },
+   {
+    "quote": "技術情報【試作加工】｜技術情報｜ 株式会社日進製作所グループ | 超... — 金属3Dプリンター ドイツのEOS社M290/CONCEPTLASER社M2を保有。 中型サイズ機でレーザーを使用した粉末積層造形法により、素材試作からプラス加工を行うことで最終製品まで可能。",
+    "url": "https://www.nissin-mfg.co.jp/technology/technology_test/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社日進製作所グループ | 超精密ホーニングマシンの総合メーカー — 株式会社日進ProSOLは、ホーニング盤製造の伝統と最新のデジタル技術を融合させたソリューションを提供しています。 精密部品加工技術も活かし、IoT・AIを活用した生産システムの高度化や製造現場のスマート化を実現するFAソリューション事業を展開。",
+    "url": "https://www.nissin-mfg.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "【日進製作所グループ】が保有する株式一覧・時価総額｜株探 — 日進製作所グループが保有する日本株の情報をまとめました。全保有銘柄のリストと保有株の時価総額の合計、各銘柄の保有割合、株主順位 ...",
+    "url": "https://kabutan.jp/holder/lists/?holdername=日進製作所グループ",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要・沿革｜会社案内｜ 株式会社日進製作所グループ | 超精密ホ...グループ会社｜会社案内｜ 株式会社日進製作所グループ | 超精密ホー...日進工具【6157】の大株主と資本異動情報｜株探（かぶたん）大株主 - 株式会社日進製作所 - IR BANK株式・株主情報 | 日進工具株式会社 - NS TOOL — インド支店を開設。 2025年4月 機能製品事業を（株）日進PREVOに、生産システム事業をヒカワ精工（株）に事業継承。 ヒカワ精工（株）は（株）日進ProSOLに社名変更。 （株）日進製作所は持株会社となり、（株）日進製作所グループに社名変更。 国内グループ会社 ... 社名 莱州日進機械有限公司 事業内容 自動車のエンジン部品 製造販売 社名 NISSIN MANUFACTURING (THAILAND) CO., LTD. 事業内容 自動車・オートバイ部品 製造販売 社",
+    "url": "https://www.nissin-mfg.co.jp/company/history/",
+    "pass": 3
+   },
+   {
+    "quote": "グループ会社｜会社案内｜ 株式会社日進製作所グループ | 超精密ホー... — 国内グループ会社 ... 社名 莱州日進機械有限公司 事業内容 自動車のエンジン部品 製造販売 社名 NISSIN MANUFACTURING (THAILAND) CO., LTD. 事業内容 自動車・オートバイ部品 製造販売 社名 PT. NISSIN MANUFACTURING INDONESIA 事業内容 オートバイ・自動車部品 製造販売",
+    "url": "https://www.nissin-mfg.co.jp/company/base/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要・沿革｜会社案内｜ 株式会社日進製作所グループ | 超精密ホ... — 株式会社日進製作所グループ NISSIN MANUFACTURING GROUP CO., LTD. 創業 1946（昭和21）年9月 資本金 8億5,000万円 取引銀行 京都銀行 三菱UFJ銀行 従業員数 単体：139名 連結：3082名 所在地 本社 〒627-0037 京都府京丹後市峰山町千歳22番地 [ Map ] TEL.0772-62-1111（代表） FAX.0772-62 ...",
+    "url": "https://www.nissin-mfg.co.jp/company/history/",
+    "pass": 3
+   },
+   {
+    "quote": "(株)日進製作所グループ／ (株)日進PREVO／ (株)日進ProSOLの会社概要... — Oct 15, 2026 · グループの中核となる「日進製作所グループ」に加え、金属製の精密部品など、”滑らかに仕上げた”製品を手掛ける「日進PREVO (プレボ)」と、”滑らかに仕上げる”技術やお客様の”円滑な”ものづくりをサポートする機械設備、IoTシステムを手掛ける ...",
+    "url": "https://job.mynavi.jp/28/pc/search/corp59675/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "(株)日進製作所グループ - shunjukai.com — 住所 〒627-0037 京都府京丹後市峰山町千歳22番地 TEL 0772-62-1111 (代) 設立 1946年9月 資本金 8億5,000万円 売上高 475億円 (2026/3月期 連結) 従業員数 連結 3,100名 事業内容 ①自動車エンジン部品等機能製品事業 ②ホーニング盤、FA装置等生産システム事業",
+    "url": "https://www.shunjukai.com/memberlist/recruiting/nissin-mfg.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "SLP進出企業紹介② 日進製作所グループ｜サンルイスポトシ州日本事務所... Sep 28, 2026 · 今回のセミナーでは、日進製作所グループの事例を通じて、サンルイスポトシ州が持つ戦略的な立地、行政支援、人材育成の環境、そして日系企業のネットワークなど、製造業の進出先としての魅力が紹介されました。",
+    "url": "https://note.com/slp_japanoffice/n/nfc9d832a21e8",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "SLP進出企業紹介② 日進製作所グループ｜サンルイスポトシ州日本事務所 SLPotosí Japan Office",
+    "url": "https://note.com/slp_japanoffice/n/nfc9d832a21e8",
+    "pass": 3
+   },
+   {
+    "quote": "サンルイスポトシ州日本事務所 SLPotosí Japan Office",
+    "url": "https://note.com/slp_japanoffice/n/nfc9d832a21e8",
+    "pass": 3
+   },
+   {
+    "quote": "サンルイスポトシ州で成長を続ける日進製作所グループ                                                         ― 北米・南米市場を支えるメキシコ生産拠点",
+    "url": "https://note.com/slp_japanoffice/n/nfc9d832a21e8",
+    "pass": 3
+   },
+   {
+    "quote": "Introduction to Companies Operating in SLP (2):Nissin Manufactura de Mexico. The Nissin Manufacturing Group’s Continued Growth in San Luis Potosí — A Mexican Production Base Supporting the North and South American Markets.",
+    "url": "https://note.com/slp_japanoffice/n/nfc9d832a21e8",
+    "pass": 3
+   },
+   {
+    "quote": "メキシコ中部・サンルイスポトシ州には、数多くの日系製造業が生産拠点を構えています。その中でも、京都府京丹後市に本社を置く株式会社日進製作所グループはメキシコを北米・南米市場における重要な生産拠点として位置付け、自動車部品の現地生産を展開しています。",
+    "url": "https://note.com/slp_japanoffice/n/nfc9d832a21e8",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月に大阪で開催した「メキシコ・サンルイスポトシ州ビジネス・投資セミナー」では、同社会長の平野卓氏より、メキシコでの事業展開やサンルイスポトシ州への進出背景、現地での取り組み、今後のビジネス展開についてご紹介いただきました。",
+    "url": "https://note.com/slp_japanoffice/n/nfc9d832a21e8",
+    "pass": 3
+   },
+   {
+    "quote": "Nissin Manufactura de Mexicoは2012年10月に設立された、日進製作所グループの100％子会社です。サンルイスポトシ州に拠点を構え、現在は約600名が勤務しています。",
+    "url": "https://note.com/slp_japanoffice/n/nfc9d832a21e8",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鍛造、アルミダイカスト、機械加工、熱処理、組立、品質測定・分析まで幅広い工程を手掛け、エンジン部品のロッカーアームやトランスミッション部品、EV部品などを生産しています。",
+    "url": "https://note.com/slp_japanoffice/n/nfc9d832a21e8",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "NSBT Japan on X: \" 【速報】SEECAT2026開幕 無人機・AI、テロ対策の... 初出展の日進製作所グループは、最大2時間飛行する水素燃料電池ドローンを披露しました。 #テロ対策 と安全保障の境界が薄れるなか、120社が最新技術を競います。 🆓無料会員登録で全文閲覧可能です👇 https://t.co/1MGgODrV5D #SEECAT2026 #危機管理 #NSBTJapan",
+    "url": "https://x.com/NSBT_Japan/status/2105206021715329297",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "錦織 隆 - 株式会社 日進製作所 - 代表取締役 会長 | LinkedIn0 日進製作所グループの内容と、役割を教えてください。 jobs in Unit...Nissin Manufacturing Group Co., Ltd. India Branch - LinkedInyasuyoshi makino - （株）日進製作所グループ 部長 | LinkedInAkira Nishikohri - -- | LinkedIn松井 章 - 株式会社日進 - 副社長 | LinkedIn 株式会社 日進製作所 - 代表取締役 会長 · 職歴: 株式会社 日進製作所 · 場所: 京都。 10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInで錦織 隆さんのプロフィールを閲覧しましょう。 jobs in United States. Leverage your p",
+    "url": "https://jp.linkedin.com/in/隆-錦織-952679112",
+    "pass": 3
+   },
+   {
+    "quote": "0 日進製作所グループの内容と、役割を教えてください。 jobs in Unit... jobs in United States. Leverage your professional network, and get hired. New 日進製作所グループの内容と、役割を教えてください。 jobs added daily.",
+    "url": "https://www.linkedin.com/jobs/日進製作所グループの内容と、役割を教えてください。-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "yasuyoshi makino - （株）日進製作所グループ 部長 | LinkedInAkira Nishikohri - -- | LinkedIn松井 章 - 株式会社日進 - 副社長 | LinkedIn （株）日進製作所グループ 部長 · 職歴: （株）日進製作所グループ · 場所: 京丹後 · LinkedInのつながり5人。 10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInでyasuyoshi makinoさんのプロフィールを閲覧しましょう。 -- · 職歴: 株式会社日進製作所グループ · 学歴: 早稲田大学 WASEDA University · 場所: 日本 · LinkedInのつながり29人。 10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInでAkira Nishikohriさんのプロフィールを閲覧しまし",
+    "url": "https://jp.linkedin.com/in/yasuyoshi-makino-9993a517b",
+    "pass": 3
+   },
+   {
+    "quote": "Akira Nishikohri - -- | LinkedIn -- · 職歴: 株式会社日進製作所グループ · 学歴: 早稲田大学 WASEDA University · 場所: 日本 · LinkedInのつながり29人。 10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInでAkira Nishikohriさんのプロフィールを閲覧しましょう。",
+    "url": "https://jp.linkedin.com/in/akira-nishikohri-4b375224b",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "【Nidecグループのプレス事業①】 日本電産シンポのプレス事業は、Mins...京都新聞社 - 亀岡祭の本祭に営まれる、山鉾11基による集結巡行の巡行...北近畿経済新聞 - 水素燃料電池を開発 京丹後の日進製作所 小型モビリ... Jun 22, 2020 · 本日より1週間、Nidecグループのプレス事業について 毎日ご紹介してまいります。 どうぞお楽しみに。 ※動画はぜひ音量ONでご視聴ください。 日本電産グループの各種事業紹介動画がご覧いただ ける「動画ライブラリ」はこちら。 Oct 5, 2024 · Recent Posts 京都新聞社 12m 自動車エンジン部品や工作機械を手がける日進製作所 グループ（京丹後市）は、錦織晃副社長（43）＝写 真＝が社長に昇格するトップ人事を発表した。 KYOTO-NP.CO.JP 日進製作所グループ社長に、創業家の錦織副社長が Feb 24",
+    "url": "https://www.facebook.com/Nidec.JP/videos/プレス機オートメーションブランド/3819852758030998/",
+    "pass": 3
+   },
+   {
+    "quote": "京都新聞社 - 亀岡祭の本祭に営まれる、山鉾11基による集結巡行の巡行... Oct 5, 2024 · Recent Posts 京都新聞社 12m 自動車エンジン部品や工作機械を手がける日進製作所 グループ（京丹後市）は、錦織晃副社長（43）＝写 真＝が社長に昇格するトップ人事を発表した。 KYOTO-NP.CO.JP 日進製作所グループ社長に、創業家の錦織副社長が",
+    "url": "https://www.facebook.com/kyotoshimbun/posts/亀岡祭の本祭に営まれる山鉾１１基による集結巡行の巡行順を決めるくじ取り式が５日京都府亀岡市の亀岡市議会議場であったくじ取らずに続く山一番は/1090724879722655/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.nissin-mfg.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissin-mfg.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissin-mfg.co.jp/news/2026/10/neotan2026entry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissin-mfg.co.jp/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissin-mfg.co.jp/news/category/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissin-mfg.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissin-mfg.co.jp/company/greet/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissin-mfg.co.jp/company/iso/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissin-mfg.co.jp/company/base/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissin-mfg.co.jp/news/2026/09/japan-mobility-show-bizweek-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissin-mfg.co.jp/news/2026/09/news-seecat/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissin-mfg.co.jp/news/2026/06/news-release-robodex/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissin-mfg.co.jp/news/2026/06/japan-drone-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissin-mfg.co.jp/news/category/exhibition/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.nissin-mfg.co.jp/images/company_img_01.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E9%80%B2%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://deskmin.net/2026/08/14/%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%80%812026%E5%B9%B4%E3%81%AF%E9%87%8F%E7%94%A3%E3%81%AE%E5%B8%B8%E8%AD%98%E3%81%8C%E5%A4%89%E3%82%8F%E3%82%8B/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E9%80%B2%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E9%80%B2%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kabutan.jp/holder/lists/?holdername=%E6%97%A5%E9%80%B2%E8%A3%BD%E4%BD%9C%E6%89%80%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E9%80%B2%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp59675/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/slp_japanoffice/n/nfc9d832a21e8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/NSBT_Japan/status/2105206021715329297",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/隆-錦織-952679112",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/日進製作所グループの内容と、役割を教えてください。-jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/yasuyoshi-makino-9993a517b",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/akira-nishikohri-4b375224b",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Nidec.JP/videos/プレス機オートメーションブランド/3819852758030998/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/kyotoshimbun/posts/亀岡祭の本祭に営まれる山鉾１１基による集結巡行の巡行順を決めるくじ取り式が５日京都府亀岡市の亀岡市議会議場であったくじ取らずに続く山一番は/1090724879722655/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日進製作所グループ",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "株式会社日進製作所グループ",
+   "results": [
+    "https://ja.wikipedia.org/wiki/日進製作所",
+    "https://www.nissin-mfg.co.jp/",
+    "https://prosol.nissin-mfg.co.jp/about",
+    "https://catr.jp/companies/62159/198711",
+    "https://www.nissin-mfg.co.jp/company/",
+    "https://prevo.nissin-mfg.co.jp/",
+    "https://job.mynavi.jp/28/pc/search/corp59675/outline.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "日進製作所グループ 会社概要 資本金 設立",
+   "results": [
+    "https://ja.wikipedia.org/wiki/日進製作所",
+    "https://www.nissin-mfg.co.jp/company/history/",
+    "https://www.nissin-mfg.co.jp/company/",
+    "https://prosol.nissin-mfg.co.jp/about",
+    "https://prevo.nissin-mfg.co.jp/company/history/",
+    "https://compalyze.co.jp/company/2130001042695",
+    "https://job.mynavi.jp/28/pc/search/corp59675/outline.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "日進製作所グループ 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.nissin-mfg.co.jp/technology/technology_test/",
+    "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "https://deskmin.net/2026/08/14/金属3dプリンター、2026年は量産の常識が変わる/",
+    "https://www.nissin-mfg.co.jp/",
+    "https://www.manufacturing-world.jp/hub/ja-jp/blog/article11.html",
+    "https://kyotokeikyo.or.jp/member/ichioshi/008/item03.shtml",
+    "https://www.materialise.com/ja/inspiration/cases/nissin-e-stage-metal"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "日進製作所グループ 金属積層造形 設備",
+   "results": [
+    "https://ja.wikipedia.org/wiki/日進製作所",
+    "https://www.nissin-mfg.co.jp/technology/technology_test/",
+    "https://www.nissin-mfg.co.jp/",
+    "https://www.jfe-steel.co.jp/products/solution/metal-3d-printing/index.html",
+    "https://prevo.nissin-mfg.co.jp/cms-admin/wp-content/uploads/2026/06/20260421_会社概要2025年度版.pdf",
+    "https://prevo.nissin-mfg.co.jp/company/history/",
+    "https://pub-mediabox-storage.rxweb-prd.com/exhibitor/document/exh-3a54c55f-1def-4f99-bc7d-195ecdfab71a/4ea1c87e-141b-49b9-9846-785b392eb4f1.pdf",
+    "http://www.nisshin-ss.co.jp/equipment/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "日進製作所グループ 株主 出資 親会社",
+   "results": [
+    "https://ja.wikipedia.org/wiki/日進製作所",
+    "https://kabutan.jp/holder/lists/?holdername=日進製作所グループ",
+    "https://www.nissin-mfg.co.jp/company/history/",
+    "https://www.nissin-mfg.co.jp/company/base/",
+    "https://kabutan.jp/stock/holder/?code=6157",
+    "https://irbank.net/holder/株式会社日進製作所",
+    "https://www.ns-tool.com/ja/ir/stock_information/stockholder/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "日進製作所グループ 売上高 従業員数",
+   "results": [
+    "https://ja.wikipedia.org/wiki/日進製作所",
+    "https://www.nissin-mfg.co.jp/company/history/",
+    "https://job.mynavi.jp/28/pc/search/corp59675/outline.html",
+    "https://www.nissin-mfg.co.jp/company/",
+    "https://www.shunjukai.com/memberlist/recruiting/nissin-mfg.html",
+    "https://jobcatalog.yahoo.co.jp/company/1100002142/information/",
+    "https://www.shunjukai.com/memberlist/corporate/nissin-mfg.html"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 日進製作所グループ",
+   "results": [
+    "https://note.com/slp_japanoffice/n/nfc9d832a21e8",
+    "https://note.com/kitakinkikeizai/n/n2492759768aa",
+    "https://note.com/slp_japanoffice/m/m33ede6849766",
+    "https://note.com/kitakinkikeizai/n/n650dc8aa709d",
+    "https://note.com/kitakinkikeizai/n/n761be2529118",
+    "https://note.com/wildroadrunner/n/n62a1af86fce1",
+    "https://note.com/atled_tunagari/n/nf5581911f948"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 日進製作所グループ",
+   "results": [
+    "https://x.com/NSBT_Japan/status/2105206021715329297",
+    "https://x.com/ns_tool",
+    "https://x.com/nsrope",
+    "https://x.com/ns_tool/status/2094593424095940792",
+    "https://x.com/itscelyunique/status/2117839228826521620",
+    "https://x.com/tarounumber8/status/2046490248293822768",
+    "https://x.com/conpachi_ichi/status/2099128005943820584"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 日進製作所グループ",
+   "results": [
+    "https://jp.linkedin.com/in/隆-錦織-952679112",
+    "https://www.linkedin.com/jobs/日進製作所グループの内容と、役割を教えてください。-jobs",
+    "https://jp.linkedin.com/in/yasuyoshi-makino-9993a517b",
+    "https://jp.linkedin.com/in/akira-nishikohri-4b375224b",
+    "https://jp.linkedin.com/in/章-松井-24319893",
+    "https://jp.linkedin.com/company/（株）日進製作所",
+    "https://www.linkedin.com/company/nissin-manufacturing-co-ltd-india"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 日進製作所グループ",
+   "results": [
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/pages/株式会社+日進製作所/127897977292461/",
+    "https://www.facebook.com/Nidec.JP/videos/プレス機オートメーションブランド/3819852758030998/",
+    "https://www.facebook.com/kyotoshimbun/posts/亀岡祭の本祭に営まれる山鉾１１基による集結巡行の巡行順を決めるくじ取り式が５日京都府亀岡市の亀岡市議会議場であったくじ取らずに続く山一番は/1090724879722655/",
+    "https://www.facebook.com/kitakinkikeizaishimbun/posts/成長事業の強化へ京丹後の日進製作所-グループ企業を刷新医療関連など集約エンジン部品などを製造する日進製作所本社京丹後市峰山町荒山平野卓社長はバイオマス生物資源プ/690057996460874/",
+    "https://www.facebook.com/日進製作所-389013247781222/",
+    "https://www.facebook.com/kitakinkikeizaishimbun/posts/水素燃料電池を開発-京丹後の日進製作所-小型モビリティー向けにエンジン部品などを製造する日進製作所本社京丹後市峰山町千歳平野卓社長は水素を燃料とする燃料電池ｆｃ/1177733041026698/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "日進製作所グループ note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/日進製作所",
+    "https://www.kyoto-np.co.jp/articles/biz/1516291",
+    "https://www.nissin-mfg.co.jp/news/2025/07/change-of-company-president/",
+    "https://www.nissin-mfg.co.jp/company/greet/",
+    "https://note.com/kitakinkikeizai/n/n2492759768aa",
+    "https://www.kyotokeikyo.or.jp/member/ichioshi/008/",
+    "https://nissinkiko.com/info/important-notice/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "日進製作所グループ X 投稿",
+   "results": [
+    "https://news.dellows.jp/370313/",
+    "https://www.atled.jp/xpoint_cloud/case/nissin-mfg2/",
+    "https://www.atled.jp/news/20260917_01/",
+    "https://www.nissin-mfg.co.jp/",
+    "https://www.asahi.com/and/pressrelease/16897291",
+    "https://x.com/i/trending/2118203209399578924",
+    "https://x.com/hibiuingu"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部16頁・検索13回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部16頁・検索13回）",
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部16頁・検索13回）"
+ }
+}

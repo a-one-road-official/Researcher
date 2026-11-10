@@ -1,0 +1,399 @@
+{
+ "name": "株式会社キャステック設備紹介",
+ "aliases": [],
+ "context": "PBF=yes 装置=DMLS;EOS M 300;EOS M300 出典=https://www.eos.info/metal-solutions/metal-printers/eos-m-300-4",
+ "researched_at": "2026-11-10T18:09:09.105754+00:00",
+ "official_url": "",
+ "identified_by": "not_found",
+ "profile": {},
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "アジア初導入となる4本レーザーで低コスト・短納期を実現",
+    "url": "https://am.castec-inc.com/equipment/",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "：マルエージング鋼・SKD61改良鋼（LTX）",
+    "url": "https://am.castec-inc.com/equipment/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "設備紹介 - CASTEC - 株式会社キャステック — 設備紹介 - CASTEC - 株式会社キャステック 株式会社キャステック https://am.castec-inc.com > equipment",
+    "url": "https://am.castec-inc.com/equipment/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.castec-inc.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp209328/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/5569/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.castec-inc.com/news/?paged=4/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sakamotogiken.com/additive-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=teF6HEZhdlo",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://am.castec-inc.com/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=jGX0dYax8vU",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://hasemetal.com/equipments/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.castec-inc.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=jGX0dYax8vU",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp209328/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.castec-inc.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp209328/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.nc-net.or.jp/company/22463/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "キャステック設備紹介",
+   "results": [
+    "https://am.castec-inc.com/equipment/",
+    "https://www.youtube.com/watch?v=jGX0dYax8vU",
+    "https://ja.nc-net.or.jp/company/22463/",
+    "https://compalyze.co.jp/company/7030001033080",
+    "https://job.mynavi.jp/27/pc/search/corp209328/outline.html",
+    "https://www.castec-inc.com/company/",
+    "https://www.youtube.com/channel/UCQhwvqjXUdDfNVtNqLQr63Q/videos",
+    "https://castec.ne.jp/overview/",
+    "https://www.castec-inc.com/",
+    "https://am.castec-inc.com/additive/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "株式会社キャステック設備紹介",
+   "results": [
+    "https://am.castec-inc.com/equipment/",
+    "https://www.youtube.com/watch?v=jGX0dYax8vU",
+    "https://ja.nc-net.or.jp/company/22463/",
+    "https://compalyze.co.jp/company/7030001033080",
+    "https://www.castec-inc.com/company/",
+    "https://castec.ne.jp/overview/",
+    "https://www.youtube.com/channel/UCQhwvqjXUdDfNVtNqLQr63Q/videos",
+    "https://job.mynavi.jp/27/pc/search/corp209328/outline.html",
+    "https://metoree.com/companies/5569/",
+    "https://www.castec-inc.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "キャステック設備紹介 株式会社",
+   "results": [
+    "https://am.castec-inc.com/equipment/",
+    "https://www.youtube.com/watch?v=smUoKToGI8M",
+    "https://www.youtube.com/watch?v=jGX0dYax8vU",
+    "https://www.youtube.com/channel/UCQhwvqjXUdDfNVtNqLQr63Q/videos",
+    "https://castec.ne.jp/overview/",
+    "https://job.mynavi.jp/27/pc/search/corp209328/outline.html",
+    "https://mono.ipros.com/company/detail/2087611/",
+    "https://www.seizogyo.com/homepage/works/example/castec-inc/",
+    "https://www.castec-inc.com/recruit/about/",
+    "https://www.castec-inc.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "キャステック設備紹介 会社概要 資本金 設立",
+   "results": [
+    "https://www.castec-inc.com/company/",
+    "https://job.mynavi.jp/27/pc/search/corp209328/outline.html",
+    "https://metoree.com/companies/5569/",
+    "https://castec.ne.jp/overview/",
+    "https://compalyze.co.jp/company/7030001033080",
+    "https://cas-tec.com/",
+    "http://www.eco-castec.co.jp/company.html",
+    "https://mono.ipros.com/company/detail/2087611/",
+    "https://www.youtube.com/watch?v=jGX0dYax8vU",
+    "https://www.castec-inc.com/company/history/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "キャステック設備紹介 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.castec-inc.com/news/?paged=4/",
+    "https://www.sakamotogiken.com/additive-manufacturing",
+    "https://www.youtube.com/watch?v=teF6HEZhdlo",
+    "https://www.nttdata-xam.com/works/eos/article_5296/",
+    "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "https://www.ricoh.co.jp/3dp/metal/case_jzhc",
+    "https://www.j-tic.co.jp/R80926w.html",
+    "https://www.protech-japan.jp/topics/3d/a35",
+    "https://www.nikkan.co.jp/articles/view/00622619",
+    "https://www.youtube.com/watch?v=grDffhuP-AY"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "キャステック設備紹介 金属積層造形 設備",
+   "results": [
+    "https://am.castec-inc.com/equipment/",
+    "https://www.youtube.com/watch?v=jGX0dYax8vU",
+    "https://hasemetal.com/equipments/",
+    "https://am.castec-inc.com/additive/",
+    "https://www.fitc.pref.fukuoka.jp/facility/setsubi/dep-list/meri/kinzoku-sekisou-zoukei.php",
+    "https://ja.3dsystems.com/semiconductor",
+    "https://chuokatan.co.jp/products/3dp/",
+    "https://jpe2000.co.jp/facilities/",
+    "https://www.nttdata-xam.com/works/eos/article_5296/",
+    "https://www.youtube.com/watch?v=XAKaPHI6TjM"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "キャステック設備紹介 株主 出資 親会社",
+   "results": [
+    "https://www.castec-inc.com/company/",
+    "https://www.youtube.com/watch?v=jGX0dYax8vU",
+    "https://job.mynavi.jp/27/pc/search/corp209328/outline.html",
+    "https://ja.nc-net.or.jp/company/22463/",
+    "https://castec.ne.jp/",
+    "https://compalyze.co.jp/company/7030001033080",
+    "https://metoree.com/companies/5569/",
+    "https://mono.ipros.com/company/detail/2087611/",
+    "https://www.facebook.com/DMGMORI.CO/posts/dmgmori%E3%81%AE%E5%8F%96%E3%82%8A%E7%B5%84%E3%81%BFdmg-mori-castech-more-than-100-years-since-its-founding%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E4%BC%9A%E7%A4%BE%E7%B4%B9%E4%BB%8Bdmg-m/1520459076754591/",
+    "https://am.castec-inc.com/equipment/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "キャステック設備紹介 売上高 従業員数",
+   "results": [
+    "https://www.castec-inc.com/company/",
+    "https://job.mynavi.jp/27/pc/search/corp209328/outline.html",
+    "https://ja.nc-net.or.jp/company/22463/",
+    "https://mono.ipros.com/company/detail/2087611/",
+    "https://www.youtube.com/watch?v=jGX0dYax8vU",
+    "https://baseconnect.in/companies/9dfb40fd-5b3c-4d0b-b18d-c952e478c872",
+    "https://compalyze.co.jp/company/7030001033080",
+    "https://www.r-agent.com/viewjob/jk31d27768cc4be33b/",
+    "https://hwus.jp/seminar/261027_castec.pdf",
+    "https://job.mynavi.jp/28/pc/search/corp282041/outline.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com キャステック設備紹介",
+   "results": [
+    "https://note.com/kusuura/n/nb221be502715",
+    "https://note.com/lakesidev/n/nc60cd39fcf00",
+    "https://note.com/mov_pr/n/nf1ee1f46d191",
+    "https://note.com/mov_pr/n/n85497e2a2ac5",
+    "https://note.com/apt_hyssop3318/n/n0644d551e640",
+    "https://note.com/mov_pr/n/nf585638e71c5",
+    "https://note.com/clear_minnow4638/n/n3b09fa103e5e",
+    "https://note.com/from_startups/n/n062a9d060c57",
+    "https://note.com/ib_pe_hf/n/n00c40c2a3c3a",
+    "https://note.com/witty_jacana219/n/nd801a199ce1a"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com キャステック設備紹介",
+   "results": [
+    "https://x.com/dmgmorijapan/status/2038949434562654633",
+    "https://x.com/dmgmorijapan/status/1770420151038382503",
+    "https://help.x.com/zh-cn/managing-your-account",
+    "https://x.com/_yutof/status/1730155889842376871",
+    "https://x.com/baron_sky7/status/2119772254661906891",
+    "https://x.com/matryoshka71/status/2051311002424381837",
+    "https://x.com/xoeeie/status/2118049984436445429"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com キャステック設備紹介",
+   "results": [
+    "https://jp.linkedin.com/company/ケーテック株式会社-ktec-co--ltd--",
+    "https://www.linkedin.com/in/miguel-nhuch-11a333",
+    "https://hk.linkedin.com/in/tong-tonxel",
+    "https://vn.linkedin.com/in/mizore-le-672183392",
+    "https://jp.linkedin.com/posts/dmgmorijapan_dmgmoriの取り組み-dmgmoricastech-dmgmoriキャステック-activity-7444700032248770560-LDEL",
+    "https://www.linkedin.com/posts/maxime-ramel-4161a194_dmg-moriキャステック株式会社のご紹介-activity-7178157458308120577-QCIp",
+    "https://dk.linkedin.com/posts/apcoa-parking-danmark-a-s_advarsel-falske-smser-fortsat-i-omløb-activity-7467917005866614784-To0I"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com キャステック設備紹介",
+   "results": [
+    "https://www.facebook.com/DMGMORI.CO/posts/dmgmori%E3%81%AE%E5%8F%96%E3%82%8A%E7%B5%84%E3%81%BFdmg-mori-castech-more-than-100-years-since-its-founding%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E4%BC%9A%E7%A4%BE%E7%B4%B9%E4%BB%8Bdmg-m/1520459076754591/",
+    "https://www.facebook.com/tiescocoro/",
+    "https://www.facebook.com/groups/284615972653508/",
+    "https://www.facebook.com/p/キャステック-K-100049000575428/",
+    "https://www.facebook.com/キャステック株式会社-103259332258228/",
+    "https://www.facebook.com/shink.jp/videos/works-tozantec-brand-sitetozantecは高精度なガンドリル技術と流体研磨技術で世界のイノベーションを支える株式会社キャステックの新た/285774734428881/",
+    "https://www.facebook.com/DMGMORI.CO/photos/dmg-moriキャステック株式会社のご紹介dmg-moriキャステック株式会社は工作機械の主要部品であるベッドコラムなどの鋳物を生産しています2020年にdm/893256482808190/",
+    "https://www.facebook.com/DMGMORI.CO/posts/dmgmoriの取り組みdmg-mori-castech-more-than-100-years-since-its-foundingグループ会社紹介dmg-m/1520459076754591/",
+    "https://www.facebook.com/DMGMORI.CO/posts/893256516141520/",
+    "https://www.facebook.com/story.php/?story_fbid=944393887694449&id=100063715381100"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "キャステック設備紹介 note 社長",
+   "results": [
+    "https://www.castec-inc.com/company/",
+    "https://www.youtube.com/watch?v=jGX0dYax8vU",
+    "https://www.youtube.com/channel/UCQhwvqjXUdDfNVtNqLQr63Q/videos",
+    "https://ja.nc-net.or.jp/company/22463/",
+    "https://tprj.co.jp/case/dmgmori-castech/",
+    "https://compalyze.co.jp/company/7030001033080",
+    "https://job.mynavi.jp/27/pc/search/corp209328/outline.html",
+    "https://note.com/castem",
+    "https://www.facebook.com/DMGMORI.CO/posts/dmgmori%E3%81%AE%E5%8F%96%E3%82%8A%E7%B5%84%E3%81%BFdmg-mori-castech-more-than-100-years-since-its-founding%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E4%BC%9A%E7%A4%BE%E7%B4%B9%E4%BB%8Bdmg-m/1520459076754591/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "キャステック設備紹介 X 投稿",
+   "results": [
+    "https://www.youtube.com/watch?v=jGX0dYax8vU",
+    "https://am.castec-inc.com/additive/",
+    "https://www.youtube.com/channel/UCQhwvqjXUdDfNVtNqLQr63Q/videos",
+    "https://www.youtube.com/watch?v=jOylV1XK92Q",
+    "https://www.seizogyo.com/homepage/works/example/castec-inc/",
+    "https://cas-tec.com/",
+    "http://www.castec-net.co.jp/about_us.html",
+    "https://www.castec-inc.com/news/?paged=4/",
+    "https://www.sharecoto.co.jp/twitterlab/operation/account_case/",
+    "https://am.castec-inc.com/equipment/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "資本金": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "創業年度": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "従業員数": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "売上高": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "株主": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "所在地": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "保有設備": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "用途・客の産業": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "資本金・株主": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）"
+ }
+}

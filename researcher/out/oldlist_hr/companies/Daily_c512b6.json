@@ -1,0 +1,2068 @@
+{
+ "name": "Daily",
+ "aliases": [],
+ "context": "旧営業リスト｜Education / Childcare｜未接触",
+ "researched_at": "2026-11-10T18:06:18.587906+00:00",
+ "official_url": "https://www.daily.co",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "Minute volume/month",
+    "value": "List price discount Video and audio calls Audio-only calls",
+    "url": "https://www.daily.co/pricing/video-sdk/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Realtime voice, video, and AI for developers - Daily",
+    "url": "https://www.daily.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Realtime voice, video, and AI at global scale",
+    "url": "https://www.daily.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Build ultra low latency conversations. Global WebRTC infrastructure and enterprise reliability since 2016. Daily is the team behind Pipecat, the 100% open source framework for conversational AI.",
+    "url": "https://www.daily.co/",
+    "pass": 1
+   },
+   {
+    "quote": "More about video integration",
+    "url": "https://www.daily.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Daily's team includes authors of WebRTC standards, video technology pioneers, and engineers with deep experience in codecs, realtime networking, and infrastructure.",
+    "url": "https://www.daily.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Lowest latency realtime video and audio.",
+    "url": "https://www.daily.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Global points of presence",
+    "url": "https://www.daily.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Better video resolution",
+    "url": "https://www.daily.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-grade security",
+    "url": "https://www.daily.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive data security, compliance, and uptime SLAs. Daily offers true end-to-end encryption, provides signed HIPAA BAAs, and operates under the EU-US Data Privacy Framework.",
+    "url": "https://www.daily.co/",
+    "pass": 1
+   },
+   {
+    "quote": "We also contribute to several open-source projects, including",
+    "url": "https://www.daily.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Ship world-class products with Daily's partners",
+    "url": "https://www.daily.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Build realtime voice, video, and AI with our partners.",
+    "url": "https://www.daily.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "AssemblyAI is an AI company that provides API-based models and services for transcribing and understanding speech, offering developers advanced speech-to-text and audio intelligence capabilities",
+    "url": "https://www.daily.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Microsoft Azure is a comprehensive cloud computing platform offering over 200 products and services for building, deploying, and managing applications across multiple clouds, on-premises, and at the edge.",
+    "url": "https://www.daily.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Cekura is an agentic evaluation platform, which lets you replay production calls against new model versions to detect regressions, benchmark performance, and validate upgrades automatically.",
+    "url": "https://www.daily.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "ElevenLabs is an AI audio research and deployment company that creates ultra-realistic, emotionally expressive AI voices and provides platforms for voice agents, content localization, and creative audio production in over 70 languages.",
+    "url": "https://www.daily.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Google is a multinational technology company that specializes in internet-related services and products, including search, advertising, cloud computing, software, hardware, and artificial intelligence.",
+    "url": "https://www.daily.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Inworld TTS was built for dynamic, emotionally intelligent speech, designed to handle the unpredictability and expressive needs of realtime interaction, priced to scale.",
+    "url": "https://www.daily.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Modal is a serverless platform for running AI workloads in the cloud. It helps developers run inference, traning and batch processing that handles container orchestration, scaling, and cold starts efficiently.",
+    "url": "https://www.daily.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Daily and NVIDIA are collaborating to simplify voice AI at scale. The NVIDIA blueprint Voice Agent Framework for Conversational AI, built by Daily, is powered by NVIDIA NIM and Pipecat.",
+    "url": "https://www.daily.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Rime Labs is a voice AI platform that provides ultra-realistic, low-latency text-to-speech technology for customer experience applications, offering both cloud and on-premises deployment with sub-200ms latency and enterprise-scale capabilities.",
+    "url": "https://www.daily.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Speechmatics is a UK-based speech recognition technology company that provides highly accurate, multilingual automatic speech recognition (ASR) software supporting over 50 languages with capabilities for transcription, real-time captioning, and voice analytics.",
+    "url": "https://www.daily.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Tavus is an AI company that builds real-time conversational video technology and digital twin APIs, enabling developers to create live video conversations with AI-powered digital replicas that speak, see, and hear with sub-second latency.",
+    "url": "https://www.daily.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Together AI is an AI acceleration cloud platform that provides fast inference, fine-tuning, and GPU clusters for training and deploying open-source generative AI models, offering access to 200+ models with industry-leading performance and cost efficiency.",
+    "url": "https://www.daily.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Join our partner ecosystem and help define the future of realtime communication. Pipecat is the leading open source orchestration framework for Voice AI, supporting 40+ inference models and providers.",
+    "url": "https://www.daily.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Access co-marketing opportunities, revenue sharing, and direct support from our team.",
+    "url": "https://www.daily.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Building the future of voice, video, and realtime AI",
+    "url": "https://www.daily.co/company/",
+    "pass": 1
+   },
+   {
+    "quote": "We work with developers worldwide, helping product teams innovate across use cases and markets.",
+    "url": "https://www.daily.co/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Daily's leadership brings decades of experience working with enterprise and government partners.",
+    "url": "https://www.daily.co/company/",
+    "pass": 1
+   },
+   {
+    "quote": "10,000 free minutes every month. Flexible, usage-based pricing.",
+    "url": "https://www.daily.co/pricing/video-sdk/",
+    "pass": 1
+   },
+   {
+    "quote": "Looking for Pipecat Cloud Pricing?",
+    "url": "https://www.daily.co/pricing/video-sdk/",
+    "pass": 1
+   },
+   {
+    "quote": "Video and Audio Calls",
+    "url": "https://www.daily.co/pricing/video-sdk/",
+    "pass": 1
+   },
+   {
+    "quote": "From startups to enterprises, we provide the infrastructure you need to grow.",
+    "url": "https://www.daily.co/pricing/video-sdk/",
+    "pass": 1
+   },
+   {
+    "quote": "for both video and audio-only.",
+    "url": "https://www.daily.co/pricing/video-sdk/",
+    "pass": 1
+   },
+   {
+    "quote": "HIPAA compliant video",
+    "url": "https://www.daily.co/pricing/video-sdk/",
+    "pass": 1
+   },
+   {
+    "quote": "There is no extra charge for HD-quality video. Don't struggle with complex resolution-based pricing.",
+    "url": "https://www.daily.co/pricing/video-sdk/",
+    "pass": 1
+   },
+   {
+    "quote": "We offer premium support and enterprise functionality.",
+    "url": "https://www.daily.co/pricing/video-sdk/",
+    "pass": 1
+   },
+   {
+    "quote": "Simple, transparent pricing for video and audio calls.",
+    "url": "https://www.daily.co/pricing/video-sdk/",
+    "pass": 1
+   },
+   {
+    "quote": "We price our video calls as simply as possible. Discounts are available for participant-minute rates. Talk to us to learn more.",
+    "url": "https://www.daily.co/pricing/video-sdk/",
+    "pass": 1
+   },
+   {
+    "quote": ". For additional enterprise discounts, please",
+    "url": "https://www.daily.co/pricing/video-sdk/",
+    "pass": 1
+   },
+   {
+    "quote": "Applied automatically when a session has no video tracks. If any video track (camera or screenshare) is sent even once, the session bills at the video rate.",
+    "url": "https://www.daily.co/pricing/video-sdk/",
+    "pass": 1
+   },
+   {
+    "quote": "Cloud video recording",
+    "url": "https://www.daily.co/pricing/video-sdk/",
+    "pass": 1
+   },
+   {
+    "quote": "Per number, billed monthly. Covers dedicated dial-in numbers you provision for PSTN.",
+    "url": "https://www.daily.co/pricing/video-sdk/",
+    "pass": 1
+   },
+   {
+    "quote": "AI Voice and Video Agents",
+    "url": "https://www.daily.co/pricing/video-sdk/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn about pricing for our Open Source Cloud for AI voice and video agents",
+    "url": "https://www.daily.co/pricing/video-sdk/",
+    "pass": 1
+   },
+   {
+    "quote": "View Pipecat Cloud pricing",
+    "url": "https://www.daily.co/pricing/video-sdk/",
+    "pass": 1
+   },
+   {
+    "quote": "Advanced Firewall Control (IP Proxy and TURN server override): $500/month",
+    "url": "https://www.daily.co/pricing/video-sdk/",
+    "pass": 1
+   },
+   {
+    "quote": "Describe your usage and I'll fill in the calculator below. Or ask anything about our pricing.",
+    "url": "https://www.daily.co/pricing/video-sdk/",
+    "pass": 1
+   },
+   {
+    "quote": "Video and audio calls",
+    "url": "https://www.daily.co/pricing/video-sdk/",
+    "pass": 1
+   },
+   {
+    "quote": "Graduated pricing: use more minutes, get deeper discounts.",
+    "url": "https://www.daily.co/pricing/video-sdk/",
+    "pass": 1
+   },
+   {
+    "quote": "Are custom pricing options available for unique use cases?",
+    "url": "https://www.daily.co/pricing/video-sdk/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes! Daily has tried to create fair and simple pricing, but we're also open to learning more about your unique use case and talking through options that make sense. Just",
+    "url": "https://www.daily.co/pricing/video-sdk/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes! For use cases at scale, sales would be happy to discuss your usage expectations and to provide custom discounts where it makes sense.",
+    "url": "https://www.daily.co/pricing/video-sdk/",
+    "pass": 1
+   },
+   {
+    "quote": "in seconds and start free. We provide 10,000 free participant minutes and support to every customer.",
+    "url": "https://www.daily.co/pricing/video-sdk/",
+    "pass": 1
+   },
+   {
+    "quote": "Pipecat Cloud Pricing - Simple, Scalable Pricing for Voice AI",
+    "url": "https://www.daily.co/pricing/pipecat-cloud/",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing that lets you scale",
+    "url": "https://www.daily.co/pricing/pipecat-cloud/",
+    "pass": 1
+   },
+   {
+    "quote": "Scale with Pipecat Cloud. Engineers can deploy with practices tuned for voice and multimodal AI and save critical hours, on top of clear, scalable pricing.",
+    "url": "https://www.daily.co/pricing/pipecat-cloud/",
+    "pass": 1
+   },
+   {
+    "quote": "Pipecat Cloud offers different agent profiles, to best support your use case and compute needs.",
+    "url": "https://www.daily.co/pricing/pipecat-cloud/",
+    "pass": 1
+   },
+   {
+    "quote": "Supports voice & video agents",
+    "url": "https://www.daily.co/pricing/pipecat-cloud/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Access co-marketing opportunities, revenue sharing, and direct support from our team.",
+    "url": "https://www.daily.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Daily provides a user-friendly WebRTC API platform to help customers build video and audio call functionality into their applications. As part of this goal, we strive to support a multitude of platforms for our customers. Up until now, however, Daily has not offered",
+    "url": "https://www.daily.co/blog/how-and-why-daily-is-using-rust-for-our-webrtc-api-platform/",
+    "pass": 1
+   },
+   {
+    "quote": "By wrapping WebRTC’s C++ API with Rust, we have access to richer types which can eliminate entire classes of problems which otherwise would require significant changes to WebRTC itself. These richer types can carry information that is used during type checking and erased afterwards, ensuring that there is no runtime cost for the benefit of having safer code.",
+    "url": "https://www.daily.co/blog/how-and-why-daily-is-using-rust-for-our-webrtc-api-platform/",
+    "pass": 1
+   },
+   {
+    "quote": "Nov. 8 marks the 70th anniversary of the departure from Japan of the first Japanese Antarctic Research Expedition (JARE1), which established Showa Station in Antarctica. As part of its commemorative project, the National Institute of Polar Research (NIPR) in Tachikawa, western Tokyo, plans to relocate a station building constructed at that time to Japan and preserve it.",
+    "url": "https://japannews.yomiuri.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan’s Sakana AI Mulls IPO That Could Top Mercari’s in Size",
+    "url": "https://japannews.yomiuri.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Sakana AI K.K., a Tokyo-based startup developing AI, is considering an initial public offering as early as autumn next year, it has been learned. The company is exploring a listing on the U.S. Nasdaq exchange and the Tokyo Stock Exchange, and the offering could be the largest-ever IPO by a Japanese startup.",
+    "url": "https://japannews.yomiuri.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Chinese National Arrested over Fake Cell Tower in Tokyo’s Ginza",
+    "url": "https://japannews.yomiuri.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo police announced Monday that they had arrested an unemployed Chinese male national living in Tokyo’s Kita Ward on suspicion of operating a fake cellphone base station.",
+    "url": "https://japannews.yomiuri.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Service fully resumed on the JR Uchibo Line in Chiba Prefecture on Sunday, after damage from a landslide had shut down operations in a certain part of the line for about a month and a half.",
+    "url": "https://japannews.yomiuri.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "WASHINGTON — The U.S. subsidiary of Japanese startup ispace, inc. was selected, along with eight other companies, to compete as prime contractor of future lunar surface delivery missions to build the Moon Base, NASA announced Saturday.",
+    "url": "https://japannews.yomiuri.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "The Internal Affairs and Communications Ministry issued administrative guidance to mobile carrier NTT Docomo, Inc. under the Telecommunications Business Law on Friday, after it was found that Docomo had provided personal information to U.S.-based Amazon.com, Inc. without obtaining user consent.",
+    "url": "https://japannews.yomiuri.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "A corporate acquisition to be carried out next year is more than a routine business deal; it is a dramatic illustration of new ways of thinking by the top managers involved.",
+    "url": "https://japannews.yomiuri.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ODA a Key Part of Japan’s Contributions to World as a Pacifist Nation",
+    "url": "https://japannews.yomiuri.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Animals, plants, musical instruments and food are among a diverse array of motifs for chopstick rests crafted from seashells and buffalo horn and with roots in Vietnam.",
+    "url": "https://japannews.yomiuri.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Anime Movie about Hiroshima A-Bombing Resumes Production, to Carry Message of Late Director",
+    "url": "https://japannews.yomiuri.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "2 Chinese men arrested over alleged smartphone remote-control fraud via malicious app in Japan",
+    "url": "https://mainichi.jp/english/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese mayor arrested on suspicion of 3.5 mil. yen fraud",
+    "url": "https://mainichi.jp/english/",
+    "pass": 3
+   },
+   {
+    "quote": "Nocchi of popular Japanese techno-pop group Perfume gets married",
+    "url": "https://mainichi.jp/english/",
+    "pass": 3
+   },
+   {
+    "quote": "Our on-site video case studies are professionally produced brand films created around your business. We visit your site to capture your people, facilities, processes, and story, with all filming agreed in advance and carried out with your permission.",
+    "url": "https://fourjaw.com/tell-your-manufacturing-story",
+    "pass": 3
+   },
+   {
+    "quote": "FourJaw captures the story narrative and key actions to produce the first draft",
+    "url": "https://fourjaw.com/tell-your-manufacturing-story",
+    "pass": 3
+   },
+   {
+    "quote": "It provides a backend solution to remove all the technical barriers from organizations to let them do crypto exchange without any hassle",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "It streamlines and organizes the tasks for employees as well as customers",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "Organic link acquisition",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "daily.dev Revenue 2025: $42.6M Est.",
+    "url": "https://getlatka.com/companies/daily.dev",
+    "pass": 3
+   },
+   {
+    "quote": "daily.dev has not published its revenue. Growjo puts it at about $42.6M a year (September 2025).",
+    "url": "https://getlatka.com/companies/daily.dev",
+    "pass": 3
+   },
+   {
+    "quote": "daily.dev CEO & employees",
+    "url": "https://getlatka.com/companies/daily.dev",
+    "pass": 3
+   },
+   {
+    "quote": "Nimrod Kramer is CEO of daily.dev. daily.dev has 131 employees (September 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/daily.dev",
+    "pass": 3
+   },
+   {
+    "quote": "What is daily.dev's revenue?",
+    "url": "https://getlatka.com/companies/daily.dev",
+    "pass": 3
+   },
+   {
+    "quote": "Growjo estimates daily.dev's revenue at about",
+    "url": "https://getlatka.com/companies/daily.dev",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does daily.dev have?",
+    "url": "https://getlatka.com/companies/daily.dev",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of September 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/daily.dev",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/daily.dev",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/daily.dev",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/daily.dev",
+    "pass": 3
+   },
+   {
+    "quote": "Sale-exclusive coupon links are listed at the bottom of the article.",
+    "url": "https://note.com/tenmame0720/n/n4c2577e1cde8?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Email & Discord support",
+    "url": "https://www.daily.co/pricing/video-sdk/",
+    "pass": 1
+   },
+   {
+    "quote": "We offer bundled billing for inference at enterprise scale. Email",
+    "url": "https://www.daily.co/pricing/pipecat-cloud/",
+    "pass": 1
+   },
+   {
+    "quote": "Your business can use it on your website, LinkedIn, email newsletters, sales materials, recruitment campaigns, internal communications, customer updates, and supplier communications.",
+    "url": "https://fourjaw.com/tell-your-manufacturing-story",
+    "pass": 3
+   },
+   {
+    "quote": ", social channels, email activity, PR, and sales content. When appropriate, we often turn the written case study into a piece for the trade press, promoting your business and the role technology is playing in modern manufacturing.",
+    "url": "https://fourjaw.com/tell-your-manufacturing-story",
+    "pass": 3
+   },
+   {
+    "quote": "Creating a well-structured and attractive email is necessary to pitch the right people for the business or to maintain long-term relations with them. However, the perfect email writing skill is often time-consuming, but not when you have",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "As a white label reseller company, Unlayer offers you a service where you can provide your customers the power of creating impressive and on-point responsive emails and landing pages under your brand’s name.",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "The best part is that it is just a matter of minutes! This will also save your customer’s time without compromising on the quality of the email. Plus, it will also reduce the charges your customers had to pay to hire designers and developers.",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "Enable your customers to create perfect emails and landing pages by using easy features like easy-to-use drag and drop editor",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "Offer hassle-free way of creating emails with pre-designed HTML email templates",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "Create your own email editing tools",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "Add or edit the brand’s colors, use their own web domain, and even adjust email notifications",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "Receive intelligent edit alerts via Rankur’s emails",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "Send customized emails",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "is a white label email marketing agency which can tailor as per their requirements and goals. The best part is that you can resell it at your convenient price and give it the name of your brand.",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "Email marketing strategy",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "Email coding and design",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "Enables emailing automatic reports",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "is a popular email marketing tool which is easy to use. It is an ESP offering white label email marketing tools.",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "デイリー ヤマザキ: トップページ — デイリー ヤマザキ: トップページ デイリーヤマザキ https://www.daily-yamazaki.jp",
+    "url": "https://www.daily-yamazaki.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "[ Daily EV News] This is cool...! Could it be introduced in Japan ... — [ Daily EV News] This is cool...! Could it be introduced in Japan ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=7fnlAfBGhkw",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告 代理店 なら株式会社ピーアール・ デイリー — 求人広告 代理店 なら株式会社ピーアール・ デイリー 株式会社ピーアール・デイリー https://prdaily.jp",
+    "url": "https://prdaily.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 デイリー スポーツ案内広告社｜総合広告会社 — 株式会社 デイリー スポーツ案内広告社｜総合広告会社 株式会社デイリースポーツ案内広告社 https://daily-ad.jp > 未分類",
+    "url": "https://daily-ad.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "【DACグループ】株式会社セントラル・ デイリー — 【DACグループ】株式会社セントラル・ デイリー central-daily.co.jp https://central-daily.co.jp",
+    "url": "https://central-daily.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Daily (@japandailydotjp) - Facebook — Japan Daily (@japandailydotjp) - Facebook Facebook https://www.facebook.com > ... > News & media website",
+    "url": "https://www.facebook.com/japandailydotjp/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Daily News - The Mainichi — Japan Daily News - The Mainichi 毎日新聞 https://mainichi.jp > english",
+    "url": "https://mainichi.jp/english/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Daily (@japandaily_jp) • Instagram photos and videos — Japan Daily (@japandaily_jp) • Instagram photos and videos Instagram https://www.instagram.com > japanda...",
+    "url": "https://www.instagram.com/japandaily_jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Daily 2026 Company Profile: Valuation, Funding & Investors — Daily 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/155955-52",
+    "pass": 3
+   },
+   {
+    "quote": "Daily - 2026 Company Profile, Team, Funding & Competitors — Daily - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/daily/__2IpjUrg3r1I2LAsoj644u1TIGJr9pf-iNIbaDFDAhCE",
+    "pass": 3
+   },
+   {
+    "quote": "daily .dev Revenue 2025: $42.6M Est. - GetLatka — daily .dev Revenue 2025: $42.6M Est. - GetLatka GetLatka https://getlatka.com > daily",
+    "url": "https://getlatka.com/companies/daily.dev",
+    "pass": 3
+   },
+   {
+    "quote": "Daily : Revenue , Competitors, Alternatives - Growjo — Daily : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > company > Daily",
+    "url": "https://growjo.com/company/Daily",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "株式会社ピーアール・デイリーの求人情報／＜四条・烏丸＞★京都営業所★【代理店開拓営業】／未経験OK (547)／京都府 | 転職・求人情報サイトのマイナビ転職【掲載終了】",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-547-1-215-1/",
+    "pass": 3
+   },
+   {
+    "quote": "＜四条・烏丸＞★京都営業所★【代理店開拓営業】／未経験OK",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-547-1-215-1/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店の開拓と営業活動のサポート/代理店の成果を導くお仕事",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-547-1-215-1/",
+    "pass": 3
+   },
+   {
+    "quote": "2次代理店の開拓と営業活動のサポート！新規開拓から、自走できる組織構築までを一気通貫でサポート！",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-547-1-215-1/",
+    "pass": 3
+   },
+   {
+    "quote": "二次代理店様と共に求人広告の販売を強化する",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-547-1-215-1/",
+    "pass": 3
+   },
+   {
+    "quote": "パートナー企業様（二次代理店様）が、求人広告を効率的にご販売出来るよう、サポートチームとも協力し様々な側面からバックアップをしていきます",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-547-1-215-1/",
+    "pass": 3
+   },
+   {
+    "quote": "パートナー企業様（二次代理店様）への各種営業支援",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-547-1-215-1/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店事業部は全国で19人体制",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-547-1-215-1/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店営業10人と営業サポート9人",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-547-1-215-1/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店営業・サポートとのチームワークを大切に",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-547-1-215-1/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都台東区東上野4-8-1 TIXTOWER UENO15階",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-547-1-215-1/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店として設立されたピーアール・デイリー",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-547-1-215-1/",
+    "pass": 3
+   },
+   {
+    "quote": "The Japan News - News from Japan, Breaking News, Politics, Economy, Culture",
+    "url": "https://japannews.yomiuri.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Typhoon Cempaka Located near Japan’s Ogasawara Islands, Heading East-Northeast",
+    "url": "https://japannews.yomiuri.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Typhoon Cempaka, or Typhoon No. 32, was located near Chichi Island of the Ogasawara Islands and is moving east-northeast at 35 kph as of 6 p.m. on Tuesday, according to the Japan Meteorological Agency.",
+    "url": "https://japannews.yomiuri.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Govt Considers Monitoring Domestic Communications to Help Detect Cyberattacks",
+    "url": "https://japannews.yomiuri.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan’s 1st Prefab Structure Still Standing at Antarctic Research Station, to Return Home for Preservation",
+    "url": "https://japannews.yomiuri.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Nov. 8 marks the 70th anniversary of the departure from Japan of the first Japanese Antarctic Research Expedition (JARE1), which established Showa Station in Antarctica. As part of its commemorative project, the National Institute of Polar Research (NIPR) in Tachikawa, western Tokyo, plans to relocate a station building constructed at that time to Japan and preserve it.",
+    "url": "https://japannews.yomiuri.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan’s Yawata Mayor Shoko Kawata Returns from 4 Months of Maternity Leave; Held Regular Online Meetings with Officials",
+    "url": "https://japannews.yomiuri.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Vice President of Japan’s LDP Hails Improvement in Japan-South Korea Relations During Meeting in Tokyo",
+    "url": "https://japannews.yomiuri.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "A joint general meeting of the Japan-Korea Cooperation Committee, which is composed of political and business leaders, and the Korea-Japan Cooperation Committee was held on Monday at a hotel in Tokyo.",
+    "url": "https://japannews.yomiuri.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Urawa Reds goalkeeper Shusaku Nishikawa made history with his 673rd appearance in the top flight of Japanese soccer the team drew 2-2 in an away game against Vissel Kobe at the National Stadium in Tokyo on Sunday.",
+    "url": "https://japannews.yomiuri.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan’s Sakana AI Mulls IPO That Could Top Mercari’s in Size",
+    "url": "https://japannews.yomiuri.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Sakana AI K.K., a Tokyo-based startup developing AI, is considering an initial public offering as early as autumn next year, it has been learned. The company is exploring a listing on the U.S. Nasdaq exchange and the Tokyo Stock Exchange, and the offering could be the largest-ever IPO by a Japanese startup.",
+    "url": "https://japannews.yomiuri.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Exhibition Introduces Keene to Young People in Tokyo’s Kita Ward; New Card Game for Learning about Keene also Debuts",
+    "url": "https://japannews.yomiuri.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "An exhibition showcasing the life and work of Donald Keene and intended to raise awareness of his accomplishments among younger generations is being held at the gallery of J&L, a facility in Kita Ward, Tokyo.",
+    "url": "https://japannews.yomiuri.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Magnitude 5.7 Earthquake Jolts Japan’s Nagoya, Hamamatsu and Neighboring Areas",
+    "url": "https://japannews.yomiuri.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "An earthquake with an estimated magnitude of 5.7 struck central Japan at 1:04 a.m. on Sunday, registering upper 5 on the Japanese seismic intensity scale of 7 in Chita in Aichi Prefecture, according to the Japan Meteorological Agency.",
+    "url": "https://japannews.yomiuri.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Language Studying Boom Wanes in China as Japanese Companies Withdraw",
+    "url": "https://japannews.yomiuri.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "GUANGZHOU, China / SHANGHAI — The number of students studying Japanese at Chinese universities and other institutions of higher education has been declining in recent years, mainly due to the fact that demand for Japanese-speaking professionals has fallen as Japanese companies have withdrawn or downsized their operations in the country.",
+    "url": "https://japannews.yomiuri.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Tropical Cyclone Upgraded to Typhoon Cempaka Over Mariana Islands, Says Japan Meteorological Agency",
+    "url": "https://japannews.yomiuri.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "A typhoon is expected to form sometime on Saturday, according to the Japan Meteorological Agency. It is expected to be called Typhoon Cempaka, or Typhoon No. 32.",
+    "url": "https://japannews.yomiuri.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Magnitude-4.3 Earthquake Jolts Japan’s Kumamoto Prefecture; No Tsunami Warning Issued",
+    "url": "https://japannews.yomiuri.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "A magnitude-4.3 earthquake struck Kumamoto Prefecture at 10:53 a.m. on Sunday, registering 4 on the Japanese seismic intensity scale of 7 in Kumamoto and two other cities in the prefecture, according to the Japan Meteorological Agency.",
+    "url": "https://japannews.yomiuri.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Sea Otter Dies at Mie Aquarium; Only 1 Remains in Captivity in Japan",
+    "url": "https://japannews.yomiuri.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Courtesy of the Toba AquariumKira in March The Yomiuri Shimbun [posttime] JST, [postdate] One of only two sea otters kept in captivity in Japan has died at the Toba Aquarium in Toba, Mie Prefecture, it was announced Thursday. Kira, 18, has died, leaving the aquarium with 22-year-old Mei, the last sea otter now in Japan. “Kira …",
+    "url": "https://japannews.yomiuri.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Shinkansen Services Delayed After Strong Earthquake Hits Central Japan; At Least 24 Injured in Aichi Pref.",
+    "url": "https://japannews.yomiuri.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "The Mainichi - Japan Daily News",
+    "url": "https://mainichi.jp/english/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan aquarium to put country's only captive sea otter back on display",
+    "url": "https://mainichi.jp/english/",
+    "pass": 3
+   },
+   {
+    "quote": "2 Chinese men arrested over alleged smartphone remote-control fraud via malicious app in Japan",
+    "url": "https://mainichi.jp/english/",
+    "pass": 3
+   },
+   {
+    "quote": "Panda loan talks go silent as Japan-China ties sour",
+    "url": "https://mainichi.jp/english/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan panel offers guidelines for children's internet use by developmental stage",
+    "url": "https://mainichi.jp/english/",
+    "pass": 3
+   },
+   {
+    "quote": "Temperatures plunge across north and east Japan as Hokkaido town dips to minus 10 C",
+    "url": "https://mainichi.jp/english/",
+    "pass": 3
+   },
+   {
+    "quote": "Marine sites off Japan's Chiba Pref. join list of world's top geological heritage locations",
+    "url": "https://mainichi.jp/english/",
+    "pass": 3
+   },
+   {
+    "quote": "Purified rainwater's culinary potential showcased at pho event in Japan's Fukui",
+    "url": "https://mainichi.jp/english/",
+    "pass": 3
+   },
+   {
+    "quote": "Editorial: Many doubts remain as Japan PM Takaichi tries to ram tax cut bill through Diet",
+    "url": "https://mainichi.jp/english/",
+    "pass": 3
+   },
+   {
+    "quote": "A grandfather's legacy towers over Osaka's iconic Tsutenkaku landmark",
+    "url": "https://mainichi.jp/english/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan company holds gathering to encourage foreign trainees affected by Kumamoto quake",
+    "url": "https://mainichi.jp/english/",
+    "pass": 3
+   },
+   {
+    "quote": "All-white Jetstar Japan aircraft draw attention at Narita Int'l Airport",
+    "url": "https://mainichi.jp/english/",
+    "pass": 3
+   },
+   {
+    "quote": "Diary left by Japan aviator killed in WWII reveals his true self to sister 81 years later",
+    "url": "https://mainichi.jp/english/",
+    "pass": 3
+   },
+   {
+    "quote": "News in Easy English: Japan's Imperial Palace gets first cafe and new visitor center",
+    "url": "https://mainichi.jp/english/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Photo Journal: Illumination transforms Hokkaido's 'Blue Pond' into a magical sight",
+    "url": "https://mainichi.jp/english/",
+    "pass": 3
+   },
+   {
+    "quote": "Retro Japan in Photos: Ex-Otaru branch of Nippon Yusen hosted historic event",
+    "url": "https://mainichi.jp/english/",
+    "pass": 3
+   },
+   {
+    "quote": "In Photos: Japan 'shojo' manga exhibition preview draws media attention",
+    "url": "https://mainichi.jp/english/",
+    "pass": 3
+   },
+   {
+    "quote": "Retro Japan in Photos: Trader's house recalls Arita's heyday as a global porcelain hub",
+    "url": "https://mainichi.jp/english/",
+    "pass": 3
+   },
+   {
+    "quote": "In Photos: Dog-themed anti-harassment talisman debuts at Japan 'cat temple'",
+    "url": "https://mainichi.jp/english/",
+    "pass": 3
+   },
+   {
+    "quote": "The craftsmanship, tradition and ingenuity of Japanese luxury fruit",
+    "url": "https://mainichi.jp/english/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese mayor arrested on suspicion of 3.5 mil. yen fraud",
+    "url": "https://mainichi.jp/english/",
+    "pass": 3
+   },
+   {
+    "quote": "Masked wrestler elected to Japan city council gets OK to wear mask in chamber",
+    "url": "https://mainichi.jp/english/",
+    "pass": 3
+   },
+   {
+    "quote": "Top Japan, US diplomats exchange views on US sanctions on ICC",
+    "url": "https://mainichi.jp/english/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Driving Forward with Akio Toyoda: An Axe Guided Toyota Chairman on Journey to U.S. Automotive Hall of Fame",
+    "url": "https://japannews.yomiuri.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "BEIJING — The unemployment rate of young people aged 16 to 24 in China remains stubbornly high. Private companies are scaling back hiring due to sluggish domestic demand caused by the prolonged real estate slump, leading to a growing number of fresh graduates of undergraduate and postgraduate courses who are unable to secure jobs.",
+    "url": "https://japannews.yomiuri.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Spacex Plans $24 Billion Gas Power Plant, Data Center Project in Texas",
+    "url": "https://japannews.yomiuri.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "SpaceX is planning a roughly $24 billion gas-fired power plant and super-compute facility in Starbase, Texas, according to a public hearing notice.",
+    "url": "https://japannews.yomiuri.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "The soul food of Kawasaki, Kanagawa Prefecture, near Tokyo, is none other than New Tantanmen. Containing ground meat, garlic, red chili peppers and fluffy beaten eggs, bowls have filled the stomachs of workers in the Keihin industrial belt, which fueled Japan’s period of rapid economic growth.",
+    "url": "https://japannews.yomiuri.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Animals, plants, musical instruments and food are among a diverse array of motifs for chopstick rests crafted from seashells and buffalo horn and with roots in Vietnam.",
+    "url": "https://japannews.yomiuri.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Single Style: Female Business Owners, Workers Gather Together to Share Concerns in Manufacturing Industry",
+    "url": "https://japannews.yomiuri.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "A group for women working at small local factories and other manufacturing settings was launched in Osaka in February.",
+    "url": "https://japannews.yomiuri.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Go Inside Nousaku’s Factory Where 400 Years of Takaoka Metalcasting Tradition Comes to Life in Japan’s Toyama Pref.",
+    "url": "https://japannews.yomiuri.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Despite an April revision to the Industrial Safety and Health Law requiring companies to make efforts to prevent accidents among older staff, workers aged 60 and older still account for over 30% of all workplace injuries and fatalities, as their demographic in the workforce continues to grow.",
+    "url": "https://japannews.yomiuri.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Honda to build new assembly plant in Ohio to boost hybrid production",
+    "url": "https://mainichi.jp/english/",
+    "pass": 3
+   },
+   {
+    "quote": "Tell Your Manufacturing Story | FourJaw Customer Case Studies",
+    "url": "https://fourjaw.com/tell-your-manufacturing-story",
+    "pass": 3
+   },
+   {
+    "quote": "Tell the story behind your factory’s progress",
+    "url": "https://fourjaw.com/tell-your-manufacturing-story",
+    "pass": 3
+   },
+   {
+    "quote": "FourJaw customer case studies are created to showcase how manufacturers (like you), are investing in their people and processes.",
+    "url": "https://fourjaw.com/tell-your-manufacturing-story",
+    "pass": 3
+   },
+   {
+    "quote": "Your factory has a story worth telling",
+    "url": "https://fourjaw.com/tell-your-manufacturing-story",
+    "pass": 3
+   },
+   {
+    "quote": "Behind every great manufacturing business are the people, skills, decisions, and daily improvements that most of the world never gets to see.",
+    "url": "https://fourjaw.com/tell-your-manufacturing-story",
+    "pass": 3
+   },
+   {
+    "quote": "The craft on the shop floor. The pressure behind every deadline. The pride in doing things properly. The technology helping teams work smarter, move faster, and stay competitive.",
+    "url": "https://fourjaw.com/tell-your-manufacturing-story",
+    "pass": 3
+   },
+   {
+    "quote": "A FourJaw case study is your chance to bring that story to life.",
+    "url": "https://fourjaw.com/tell-your-manufacturing-story",
+    "pass": 3
+   },
+   {
+    "quote": "It is a story about your team, your standards, and the future of your manufacturing business.",
+    "url": "https://fourjaw.com/tell-your-manufacturing-story",
+    "pass": 3
+   },
+   {
+    "quote": "Taking part in a FourJaw case study gives your business a professionally created piece of content that celebrates your team, your expertise, and your approach to modern manufacturing.",
+    "url": "https://fourjaw.com/tell-your-manufacturing-story",
+    "pass": 3
+   },
+   {
+    "quote": "Showcase your people, processes, and manufacturing capability",
+    "url": "https://fourjaw.com/tell-your-manufacturing-story",
+    "pass": 3
+   },
+   {
+    "quote": "Option 01 - On-site video case study",
+    "url": "https://fourjaw.com/tell-your-manufacturing-story",
+    "pass": 3
+   },
+   {
+    "quote": "A flagship brand film that shows the people, processes, and progress behind your manufacturing operation.",
+    "url": "https://fourjaw.com/tell-your-manufacturing-story",
+    "pass": 3
+   },
+   {
+    "quote": "Here's what's involved in a typical video production case study.",
+    "url": "https://fourjaw.com/tell-your-manufacturing-story",
+    "pass": 3
+   },
+   {
+    "quote": "Option 02 - Written case study",
+    "url": "https://fourjaw.com/tell-your-manufacturing-story",
+    "pass": 3
+   },
+   {
+    "quote": "Here's what's involved in a typical written case study process.",
+    "url": "https://fourjaw.com/tell-your-manufacturing-story",
+    "pass": 3
+   },
+   {
+    "quote": "Final written case study agreed and signed off",
+    "url": "https://fourjaw.com/tell-your-manufacturing-story",
+    "pass": 3
+   },
+   {
+    "quote": "We know opening up your business, your people, and your factory to a case study can raise important questions. What will be shared? Who needs to be involved? How much time will it take? What happens if something is commercially sensitive?",
+    "url": "https://fourjaw.com/tell-your-manufacturing-story",
+    "pass": 3
+   },
+   {
+    "quote": "This section is designed to give you clarity and confidence before taking part. Every FourJaw case study is collaborative, permission-led, and shaped around what you are comfortable sharing.",
+    "url": "https://fourjaw.com/tell-your-manufacturing-story",
+    "pass": 3
+   },
+   {
+    "quote": "Is our business a good fit for a FourJaw case study?",
+    "url": "https://fourjaw.com/tell-your-manufacturing-story",
+    "pass": 3
+   },
+   {
+    "quote": "The strongest stories often come from manufacturers who are actively improving how they work. That might mean gaining better visibility of production, reducing manual reporting, uncovering hidden capacity, understanding downtime, improving planning, or giving teams better information to make decisions.",
+    "url": "https://fourjaw.com/tell-your-manufacturing-story",
+    "pass": 3
+   },
+   {
+    "quote": "credible stories about manufacturing progress.",
+    "url": "https://fourjaw.com/tell-your-manufacturing-story",
+    "pass": 3
+   },
+   {
+    "quote": "That could include how your team has moved away from spreadsheets, improved visibility across machines, identified bottlenecks, increased confidence in planning, supported continuous improvement, or changed the way decisions are made on the shop floor.",
+    "url": "https://fourjaw.com/tell-your-manufacturing-story",
+    "pass": 3
+   },
+   {
+    "quote": "What does the video case study process involve?",
+    "url": "https://fourjaw.com/tell-your-manufacturing-story",
+    "pass": 3
+   },
+   {
+    "quote": "What does the written case study process involve?",
+    "url": "https://fourjaw.com/tell-your-manufacturing-story",
+    "pass": 3
+   },
+   {
+    "quote": "The written case study is built around a guided Teams conversation with one or more people from your business.",
+    "url": "https://fourjaw.com/tell-your-manufacturing-story",
+    "pass": 3
+   },
+   {
+    "quote": "Lower manufacturing and hiring expenses",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "41 White Label Reseller Programs Worth It | WotNot",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "41 White Label Reseller Programs Worth It",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "White label reseller services are popular for reasons like providing:",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "And since you have begun to read this blog, it means that you are interested in knowing more about white label reseller companies. You might have heard about the benefits of white label SaaS services, but are you aware about how challenging it is to choose a right white label reseller service for your company?",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "Investing without knowing all the details about the white label SaaS reseller companies",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "The only practice that can save you from all these hazards is – searching and knowing every detail about a white label reseller company before investing.",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "In this blog, we are going to provide you a list of 40 white label SaaS reseller platforms. For each reseller program, we have mentioned all the necessary details like:",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "What product/service do they provide in their white label reseller program?",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "This blog will help you to choose the best white label reseller company as per your niche and necessities.",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "41 White Label Reseller Companies",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": ", you can build chatbots quickly and easily. WotNot is a popular white label reseller chatbot company offering unmatched",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "provides white label marketing automation and CRM suite for businesses. It is a popular name for providing complete automation in marketing.",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "is a well-known name and leading platform for SaaS marketing services. It has more than 55 marketing tools and products. It provides white label reseller program too.",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "is a leading social media management tool that provides white label reseller programs. It is fully customizable as per your customer’s requirement.",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "white label partnership",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "is a white label SaaS software offering secure and hassle-free data sharing, communication, and collaboration. It provides a variety of software such as partner portal, virtual data room, collaboration,",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "is entirely a white-labeled reporting platform which you can resell as your own tool at your own decided prices. You can monitor and get reports of the marketing campaigns of your customers.",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "is a white label SaaS software. It is helpful in getting your customer’s websites live in minutes. It helps in growing the website's bottom line faster.",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "As a white label reseller company, Unlayer offers you a service where you can provide your customers the power of creating impressive and on-point responsive emails and landing pages under your brand’s name.",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "can reduce that hassle to zero. Plus, they have white label reseller program which means you can sell their tool under your brand name and with your prices.",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "As it provides white labeling services, you can make this solution of your own and help your customer’s track their SEO campaigns",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "offers a powerful Website Reseller Program designed for agencies, freelancers, and entrepreneurs who want to sell websites under their own brand without building everything from scratch. The program enables you to resell websites using Appy Pie’s no-code technology while maintaining full control over branding, pricing, and client relationships.",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label Website Builder – Create and sell websites fully branded as your own.",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "white label platform.",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "As it is a white label SaaS reseller, you can offer Ecommerce store building with your brand name and your prices. Your customers can easily use your services and build their own Ecommerce store. Many",
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "pass": 3
+   },
+   {
+    "quote": "Even if you post recklessly, you won't reach your brand.",
+    "url": "https://note.com/tenmame0720/n/n4c2577e1cde8?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "dairy と daily の違いと覚え方｜ましゅまろ - note dairy と daily の違いと覚え方｜ましゅまろ - note note https://note.com > 語学 > 英語学習",
+    "url": "https://note.com/fuwa_mash/n/n495151dd7e4a",
+    "pass": 3
+   },
+   {
+    "quote": "Facebookで大人気の「Nas Daily 」とは？｜Jack - note Facebookで大人気の「Nas Daily 」とは？｜Jack - note note https://note.com > 人物・社会 > YouTuber",
+    "url": "https://note.com/tokyojack/n/n8071fd5c9bfe",
+    "pass": 3
+   },
+   {
+    "quote": "“ Daily Posting” is an absolute no-go! I'll tell you all the reasons ... “ Daily Posting” is an absolute no-go! I'll tell you all the reasons ... note https://note.com > 創作系 > 小説",
+    "url": "https://note.com/tenmame0720/n/n4c2577e1cde8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Giving My All Today: 2825 Consecutive Days of Daily Note Giving My All Today: 2825 Consecutive Days of Daily Note note https://note.com > ライフスタイル > 時間管理・習慣化",
+    "url": "https://note.com/kandousoukolfc/n/ne2bbb393f22d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "You Are the One Who Decides! Day 1840 of Daily Note You Are the One Who Decides! Day 1840 of Daily Note note https://note.com > ビジネス > キャリア・働き方",
+    "url": "https://note.com/kandousoukolfc/n/n4d7574530054?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Learning to Ask for Help: 1062 Consecutive Days of Daily Note Learning to Ask for Help: 1062 Consecutive Days of Daily Note note https://note.com > ビジネス > 経営・マネジメント",
+    "url": "https://note.com/kandousoukolfc/n/n2e35c828dfe6?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "dairy と daily の違いと覚え方｜ましゅまろ",
+    "url": "https://note.com/fuwa_mash/n/n495151dd7e4a",
+    "pass": 3
+   },
+   {
+    "quote": "dairy と daily の違いと覚え方",
+    "url": "https://note.com/fuwa_mash/n/n495151dd7e4a",
+    "pass": 3
+   },
+   {
+    "quote": "初めて英会話で「dairy products」が出てきたときに、",
+    "url": "https://note.com/fuwa_mash/n/n495151dd7e4a",
+    "pass": 3
+   },
+   {
+    "quote": "つづりも発音もそっくりなのに、意味も使い方も違う、英語学習者泣かせのペアです。",
+    "url": "https://note.com/fuwa_mash/n/n495151dd7e4a",
+    "pass": 3
+   },
+   {
+    "quote": "🥛 dairy = 乳製品（名詞・形容詞）",
+    "url": "https://note.com/fuwa_mash/n/n495151dd7e4a",
+    "pass": 3
+   },
+   {
+    "quote": "牛乳・チーズ・ヨーグルトなどの乳製品のこと。",
+    "url": "https://note.com/fuwa_mash/n/n495151dd7e4a",
+    "pass": 3
+   },
+   {
+    "quote": "She can’t eat dairy.（乳製品が食べられない）",
+    "url": "https://note.com/fuwa_mash/n/n495151dd7e4a",
+    "pass": 3
+   },
+   {
+    "quote": "📅 daily = 毎日の（形容詞・副詞）",
+    "url": "https://note.com/fuwa_mash/n/n495151dd7e4a",
+    "pass": 3
+   },
+   {
+    "quote": "Facebookで大人気の「Nas Daily」とは？｜Jack",
+    "url": "https://note.com/tokyojack/n/n8071fd5c9bfe",
+    "pass": 3
+   },
+   {
+    "quote": "Facebookで大人気の「Nas Daily」とは？",
+    "url": "https://note.com/tokyojack/n/n8071fd5c9bfe",
+    "pass": 3
+   },
+   {
+    "quote": "＜注意＞お使いのブラウザが Safari だと記事中に埋め込まれた Facebook コンテンツが正しく表示されない可能性があります。Facebook コンテンツを表示したい場合、Chrome の利用を推奨します。",
+    "url": "https://note.com/tokyojack/n/n8071fd5c9bfe",
+    "pass": 3
+   },
+   {
+    "quote": "は Facebook で人気のコンテンツの１つです。Nas という人物が面白いストーリーを 1 分前後の短い動画にまとめ、Facebook 上に毎日公開しています。彼の作るコンテンツは素晴らしく、世界中に820万人以上ものページファンがいます（2018年9月20日時点）。",
+    "url": "https://note.com/tokyojack/n/n8071fd5c9bfe",
+    "pass": 3
+   },
+   {
+    "quote": "＜追記＞ Nas は当初 YouTube を使うことに否定的でしたが、2019年から方向転換し YouTuber にもなっています。この記事では主に彼のルーツである Facebook の動画を紹介していますが、YouTube の動画に置き換えられるものは適宜置き換えています。",
+    "url": "https://note.com/tokyojack/n/n8071fd5c9bfe",
+    "pass": 3
+   },
+   {
+    "quote": "In the beginning, Nas Daily was centered around PLACES. That was a mistake. It should be about PEOPLE. So on this...",
+    "url": "https://note.com/tokyojack/n/n8071fd5c9bfe",
+    "pass": 3
+   },
+   {
+    "quote": "Monday, March 13, 2017",
+    "url": "https://note.com/tokyojack/n/n8071fd5c9bfe",
+    "pass": 3
+   },
+   {
+    "quote": "この note では Nas がどういう人物で、彼がどのような動画を「Nas Daily」ページに配信し、なぜ Facebook 上で人気になったかなど、彼についていろいろと紹介したいと思います。",
+    "url": "https://note.com/tokyojack/n/n8071fd5c9bfe",
+    "pass": 3
+   },
+   {
+    "quote": "“Daily Posting” is an absolute no-go! I’ll tell you all the reasons why posting more often actually “worsens your impression.”｜天豆 てんまめ",
+    "url": "https://note.com/tenmame0720/n/n4c2577e1cde8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "“Daily Posting” is an absolute no-go! I’ll tell you all the reasons why posting more often actually “worsens your impression.”",
+    "url": "https://note.com/tenmame0720/n/n4c2577e1cde8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "“Is daily posting important for note?”",
+    "url": "https://note.com/tenmame0720/n/n4c2577e1cde8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This is one of the questions I receive",
+    "url": "https://note.com/tenmame0720/n/n4c2577e1cde8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "by far the most often.",
+    "url": "https://note.com/tenmame0720/n/n4c2577e1cde8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It is true that you often hear stories about “people who went viral by posting daily.”",
+    "url": "https://note.com/tenmame0720/n/n4c2577e1cde8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Phrases like “quantity creates quality”",
+    "url": "https://note.com/tenmame0720/n/n4c2577e1cde8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "and “write 100 articles first”",
+    "url": "https://note.com/tenmame0720/n/n4c2577e1cde8?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "The Daily Show (@TheDailyShow) / X The Daily Show (@TheDailyShow) / X X https://x.com > TheDailyShow",
+    "url": "https://x.com/TheDailyShow",
+    "pass": 3
+   },
+   {
+    "quote": "Daily Herald (@dailyherald) / X Daily Herald (@dailyherald) / X X https://x.com > dailyherald",
+    "url": "https://x.com/dailyherald",
+    "pass": 3
+   },
+   {
+    "quote": "Gators Daily (@GatorsDaily) / X Gators Daily (@GatorsDaily) / X X https://x.com > GatorsDaily",
+    "url": "https://x.com/GatorsDaily",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Daily - LinkedIn Daily - LinkedIn LinkedIn https://www.linkedin.com > dailyco",
+    "url": "https://www.linkedin.com/company/dailyco",
+    "pass": 3
+   },
+   {
+    "quote": "Learning Daily FAQ | Learning Help - LinkedIn Learning Daily FAQ | Learning Help - LinkedIn LinkedIn https://www.linkedin.com > answer",
+    "url": "https://www.linkedin.com/help/learning/answer/a1657672",
+    "pass": 3
+   },
+   {
+    "quote": "Vocabulary - Learn words daily - Apps on Google Play Vocabulary - Learn words daily - Apps on Google Play linkedin.com https://www.linkedin.com > safety > l...",
+    "url": "https://www.linkedin.com/safety/go?url=https%3A%2F%2Flnkd.in%2FegSuRgXs%3Ftrk%3Dfeed-detail_main-feed-card-text",
+    "pass": 3
+   },
+   {
+    "quote": "Luna Daily | LinkedIn Luna Daily | LinkedIn LinkedIn https://uk.linkedin.com > luna-daily",
+    "url": "https://uk.linkedin.com/company/luna-daily",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Nas Daily (@nasdaily) - Facebook Nas Daily (@nasdaily) - Facebook Facebook https://www.facebook.com > Pages > Other > Just for fun",
+    "url": "https://www.facebook.com/nasdaily/",
+    "pass": 3
+   },
+   {
+    "quote": "Weatherford Daily News - Facebook Weatherford Daily News - Facebook Facebook https://www.facebook.com > ... > Newspaper",
+    "url": "https://www.facebook.com/weatherford.dailynews/",
+    "pass": 3
+   },
+   {
+    "quote": "About Daily Budgets | Meta Business Help Center - Facebook About Daily Budgets | Meta Business Help Center - Facebook Facebook https://www.facebook.com > help",
+    "url": "https://www.facebook.com/business/help/190490051321426",
+    "pass": 3
+   },
+   {
+    "quote": "Anchorage Daily News Anchorage Daily News Facebook https://www.facebook.com > ... > News & media website",
+    "url": "https://www.facebook.com/anchoragedailynews/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.daily.co/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daily.co/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daily.co/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daily.co/pricing/video-sdk/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daily.co/pricing/pipecat-cloud/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daily.co/customers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daily.co/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daily.co/products/video-sdk/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daily.co/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daily.co/partners/assembly-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daily.co/partners/cartesia/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daily.co/partners/elevenlabs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daily.co/partners/google/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daily.co/partners/openai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daily.co/blog/how-and-why-daily-is-using-rust-for-our-webrtc-api-platform/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daily.co/partners/krisp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daily.co/partners/deepgram/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daily.co/company/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daily.co/blog/tag/customer-stories/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.daily.co/images/ai/logosv2/cartesia.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.daily.co/images/ai/logosv2/elevenlabs.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.daily.co/images/ai/logosv2/google.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.daily.co/images/ai/logos/google.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.webcg.net/articles/-/54494",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daily-yamazaki.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=7fnlAfBGhkw",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prdaily.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daily-ad.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/jobinfo-547-1-215-1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dac-kansai.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japantoday.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/japandailydotjp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://japannews.yomiuri.co.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mainichi.jp/english/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJJNpC_B3lHVKEHmYIsJCln8fmmVR-ksvEh4-VZL0HCJmM8H_Bw",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fourjaw.com/tell-your-manufacturing-story",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://manufacturingleadershipcouncil.com/case-study-transforming-through-manufacturing-4-0/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/155955-52",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/daily/__2IpjUrg3r1I2LAsoj644u1TIGJr9pf-iNIbaDFDAhCE",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/daily.dev",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lightercapital.com/blog/share-financials-employees",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/fuwa_mash/n/n495151dd7e4a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tokyojack/n/n8071fd5c9bfe",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tenmame0720/n/n4c2577e1cde8?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/TheDailyShow",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/dailyherald",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/GatorsDaily",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/dailyco",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/help/learning/answer/a1657672",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/safety/go?url=https%3A%2F%2Flnkd.in%2FegSuRgXs%3Ftrk%3Dfeed-detail_main-feed-card-text",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/company/luna-daily",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/nasdaily/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/weatherford.dailynews/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/business/help/190490051321426",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/anchoragedailynews/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/kandousoukolfc/n/ne2bbb393f22d?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kandousoukolfc/n/n4d7574530054?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kandousoukolfc/n/n2e35c828dfe6?hl=en",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Daily 日本 導入",
+   "results": [
+    "https://www.webcg.net/articles/-/54494",
+    "https://www.daily-yamazaki.jp/",
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://www.youtube.com/watch?v=7fnlAfBGhkw",
+    "https://www.jmd.co.jp/",
+    "https://www.netdenjd.com/",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://www.dfc-net.co.jp/company/",
+    "https://www.solasto.co.jp/news/170306_solasto_daily/",
+    "https://marifoodie.com/daily-yamazaki/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Daily 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://prdaily.jp/",
+    "https://daily-ad.jp/",
+    "https://tenshoku.mynavi.jp/jobinfo-547-1-215-1/",
+    "https://dac-kansai.co.jp/",
+    "https://central-daily.co.jp/",
+    "https://www.dac-group.co.jp/service/group/",
+    "https://www.openwork.jp/a0C1000000UhClj/compa/a0C1000000sOA1O/",
+    "https://www.e-netcom.co.jp/agency/daily/",
+    "https://note.com/prd_jinji/n/n2a2f21476600",
+    "https://b-seeds.com/column/sole-agency-agreement"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Daily Japan",
+   "results": [
+    "https://japantoday.com/",
+    "https://www.facebook.com/japandailydotjp/",
+    "https://japannews.yomiuri.co.jp/",
+    "https://mainichi.jp/english/",
+    "https://www.instagram.com/japandaily_jp/",
+    "https://en.wikipedia.org/wiki/Daily_Sports_(Japanese_newspaper)",
+    "https://www.youtube.com/@JapaneseDailyPodcast",
+    "https://www.japanesedailylife.com/",
+    "https://x.com/JapanDailyJP",
+    "https://grokipedia.com/page/Ideal_daily_schedule_in_Japan"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Daily manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJJNpC_B3lHVKEHmYIsJCln8fmmVR-ksvEh4-VZL0HCJmM8H_Bw",
+    "https://fourjaw.com/tell-your-manufacturing-story",
+    "https://manufacturingleadershipcouncil.com/case-study-transforming-through-manufacturing-4-0/",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.manufacturingsuccess.org/case-studies",
+    "https://www.veryableops.com/resources/case-studies",
+    "https://goamplifi.com/knowledge-base/case-study-6-case-studies-of-data-management-success-in-manufacturing",
+    "https://www.rit.edu/advancedmanufacturing/industry40/course/industry-40-case-studies-curated",
+    "https://safetychain.com/resources/case-studies",
+    "https://flevy.com/topic/lean-daily-management-system/case-implementation-of-lean-daily-management-system-high-growth-industrial-company"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Daily white label OR reseller OR partner program",
+   "results": [
+    "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://www.deel.com/blog/introducing-deel-white-label/",
+    "https://www.preferredpatron.com/reseller-loyalty-programs",
+    "https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/",
+    "https://www.youtube.com/watch?v=0j22JYl44z4",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Daily founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/155955-52",
+    "https://tracxn.com/d/companies/daily/__2IpjUrg3r1I2LAsoj644u1TIGJr9pf-iNIbaDFDAhCE",
+    "https://getlatka.com/companies/daily.dev",
+    "https://www.lightercapital.com/blog/share-financials-employees",
+    "https://growjo.com/company/Daily",
+    "https://gaps.com/finance/",
+    "https://en.wikipedia.org/wiki/Financial_Times",
+    "https://research.contrary.com/company/dailypay",
+    "https://fi.co/benchmarks",
+    "https://getlatka.com/companies/dailyco"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Daily",
+   "results": [
+    "https://note.com/fuwa_mash/n/n495151dd7e4a",
+    "https://note.com/tokyojack/n/n8071fd5c9bfe",
+    "https://note.com/lii_inc/n/n85076f76ea4b?hl=en",
+    "https://note.com/tenmame0720/n/n4c2577e1cde8?hl=en",
+    "https://note.com/graphium_rize/n/nba4098789b0d",
+    "https://note.com/hirokimiyano/n/n49bda9aad424?hl=en",
+    "https://note.com/crispsaladworks/n/n8d50330c27d8?hl=en",
+    "https://note.com/workingabroad",
+    "https://note.com/offtopic/n/n4229951ac0aa",
+    "https://note.com/kurashitomoshimo/n/n326392d6844d?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com Daily",
+   "results": [
+    "https://x.com/TheDailyShow",
+    "https://x.com/dailyherald",
+    "https://help.x.com/en/rules-and-policies/x-limits",
+    "https://x.com/GatorsDaily",
+    "https://x.com/PRDaily",
+    "https://x.com/michigandaily",
+    "https://x.com/DailyReport",
+    "https://x.com/DailyCollegian",
+    "https://x.com/dailychartbook",
+    "https://x.com/AIDailyBrief"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com Daily",
+   "results": [
+    "https://www.linkedin.com/company/dailyco",
+    "https://www.linkedin.com/help/learning/answer/a1657672",
+    "https://www.linkedin.com/safety/go?url=https%3A%2F%2Flnkd.in%2FegSuRgXs%3Ftrk%3Dfeed-detail_main-feed-card-text",
+    "https://uk.linkedin.com/company/luna-daily",
+    "https://www.linkedin.com/company/daily-journal-corp",
+    "https://www.linkedin.com/in/aimee-daily-phd",
+    "https://jp.linkedin.com/company/the-korea-economic-daily?trk=ppro_cprof",
+    "https://www.linkedin.com/business/learning/blog/productivity-tips/how-to-get-your-daily-agenda-emailed-to-you-each-morning-in-gmai",
+    "https://www.linkedin.com/help/linkedin/answer/a7194003",
+    "https://www.linkedin.com/posts/maneesh-nagar-5b14332a5_hse-workplacesafety-dailyinspection-activity-7344194677090197509-dzXY"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com Daily",
+   "results": [
+    "https://www.facebook.com/nasdaily/",
+    "https://www.facebook.com/weatherford.dailynews/",
+    "https://www.facebook.com/business/help/190490051321426",
+    "https://www.facebook.com/anchoragedailynews/",
+    "https://www.facebook.com/summitdailynews/",
+    "https://www.facebook.com/SpaceCoastDaily/",
+    "https://www.facebook.com/dailydealsfoodoutlet/",
+    "https://www.facebook.com/groups/vermiliondaily/",
+    "https://www.facebook.com/ArizonaDailyStar/",
+    "https://www.facebook.com/help/instagram/2049425491975359"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "Daily note 社長",
+   "results": [
+    "https://note.com/kandousoukolfc/n/ne2bbb393f22d?hl=en",
+    "https://note.com/kandousoukolfc/n/n4d7574530054?hl=en",
+    "https://note.com/kandousoukolfc/n/n2e35c828dfe6?hl=en",
+    "https://kengo.kumamoto.jp/category/%E3%83%87%E3%82%A4%E3%83%AA%E3%83%BC%E3%83%8E%E3%83%BC%E3%83%88/",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://note.com/kandousoukolfc/n/naf9060fec7fe?hl=en",
+    "https://diamond.jp/articles/-/388572",
+    "https://froggy.smbcnikko.co.jp/66481/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.com/saiyou_dekirukun/all"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Daily X 投稿",
+   "results": [
+    "https://x.com/explore",
+    "https://www.reddit.com/r/twitterhelp/comments/1tzvzn6/x_formerly_known_as_twitter_has_introduced/",
+    "https://buffer.com/resources/best-time-to-post-on-twitter-x/",
+    "https://www.youtube.com/watch?v=DKeCpjCaUBQ",
+    "https://typefully.com/",
+    "https://x.com/xDaily",
+    "https://lp.yoom.fun/blog-posts/how-to-automatically-post-content-daily-to-x-oauth",
+    "https://www.youtube.com/watch?v=gvbCoPOjdwA",
+    "https://zenn.dev/givery_ai_lab/articles/347dba95e0bb60",
+    "https://x.com/lqi54691/article/2106783661773475989"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式19頁／PDF・画像4件／外部41頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式19頁／PDF・画像4件／外部41頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式19頁／PDF・画像4件／外部41頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式19頁／PDF・画像4件／外部41頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式19頁／PDF・画像4件／外部41頁・検索12回）"
+ }
+}

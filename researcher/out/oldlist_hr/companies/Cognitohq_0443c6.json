@@ -1,0 +1,586 @@
+{
+ "name": "Cognitohq",
+ "aliases": [],
+ "context": "旧営業リスト｜Finance / Compliance｜未接触",
+ "researched_at": "2026-11-10T18:27:32.359495+00:00",
+ "official_url": "https://cognitohq.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Check out our newest products, Plaid Identity Verification and Monitor",
+    "url": "https://cognitohq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Identity is complex. Cognito gives you the tools to verify your customers for a wide variety of use cases to make onboarding your customers safer than ever",
+    "url": "https://cognitohq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Cognito's products enable companies to meet compliance, fraud prevention, and trust and safety requirements, from new user onboarding through ongoing watchlist screening. KYC compliance has never been easier.",
+    "url": "https://cognitohq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Cognito Flow was built to onboard and convert your new users around the world. We've helped our customers onboard tens of millions of new users, so we know a lot about maximizing conversion rates. We relentlessly optimize every flow, so you get the information you need without burdening your users. And every Cognito product is designed to seamlessly integrate with your brand.",
+    "url": "https://cognitohq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Cognito connects your users' phone numbers with their traditional ID data like name, date of birth, address and SSN to help verify user identities. All for an easy, frictionless, onboarding experience that also offers industry-leading match rates.",
+    "url": "https://cognitohq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlike other providers, Cognito was designed by developers, for developers so it addresses common API frustrations. Extensive API documentation, a dedicated Slack room for your company, and client SDKs for the most popular programming languages make Cognito's digital identity verification service quick and easy to integrate.",
+    "url": "https://cognitohq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We offer solutions from no code, hybrid, to full integration to fit all sizes of projects different needs and requirements.",
+    "url": "https://cognitohq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "April 4",
+    "url": "https://cognitohq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Screening bug fixes and improvements, foundational work for new features 🧱",
+    "url": "https://cognitohq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Brex uses Cognito to streamline customer onboarding.",
+    "url": "https://cognitohq.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Brex is financial technology company that issues corporate credit cards and offers expense management technology. They were struggling to find a modern KYC solution that could help streamline their user onboarding, a final piece to their automated account onboarding. They integrated Cognito Identity in less than a week.",
+    "url": "https://cognitohq.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Cognito’s instant customer onboarding has helped reduce sign-up abandonment and increase our customers at a very rapid rate.",
+    "url": "https://cognitohq.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Current is a challenger bank that provides collaborative banking solutions. They wanted to maximize automated pass rates and reduce friction for their customers while adhering to KYC and AML laws. They integrated Cognito Identity and Cognito Screening in less than a week.",
+    "url": "https://cognitohq.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Curology provides accessible, personalized skincare for acne and anti-aging. A modern",
+    "url": "https://cognitohq.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "web-app enables customers to connect with dermatology providers to get the treatment",
+    "url": "https://cognitohq.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Because of Cognito, Curology’s dermatology providers are now able to spend more time on what matters—providing personalized care.",
+    "url": "https://cognitohq.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "We believe in building data products that are built with the ideal consumer experience in mind and working toward high value solutions for businesses. Security and user experience shouldn’t have to be a tradeoff, and our solutions make fighting that dichotomy easier than ever before.",
+    "url": "https://cognitohq.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Flow seamlessly stitches together verification methods, presenting the lowest friction options for every country first and allowing intelligent fallbacks for every scenario.",
+    "url": "https://cognitohq.com/products/flow",
+    "pass": 1
+   },
+   {
+    "quote": "Use our global databases in 15 countries to verify proof of residency without requiring bank statements or utility bills.",
+    "url": "https://cognitohq.com/products/flow",
+    "pass": 1
+   },
+   {
+    "quote": "Turn on global SMS verification with the flip of a switch. Everything from deliverability to spamming prevention is handled automatically on your behalf.",
+    "url": "https://cognitohq.com/products/flow",
+    "pass": 1
+   },
+   {
+    "quote": "Verify passports, drivers licenses, ID cards, and more with precision anti-fraud and computer vision.",
+    "url": "https://cognitohq.com/products/flow",
+    "pass": 1
+   },
+   {
+    "quote": "200+ countries and territories. 11,000 document types. 21 alphabets. Processes in less than 30 seconds, powered by deep learning.",
+    "url": "https://cognitohq.com/products/flow",
+    "pass": 1
+   },
+   {
+    "quote": "Flow integrates with Cognito Screening to provide a first class AML experience. Review watchlist hits, re-screen them, receive full audit trails and settings tuned based on customer risk levels.",
+    "url": "https://cognitohq.com/products/flow",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically stays up-to-date with best practices & features",
+    "url": "https://cognitohq.com/products/flow",
+    "pass": 1
+   },
+   {
+    "quote": "Eco brought KYC in-house from their banking partner. Flow allowed them to exceed the UX of their previous system without sacrificing security.",
+    "url": "https://cognitohq.com/products/flow",
+    "pass": 1
+   },
+   {
+    "quote": "Ivella was looking for a full-stack verification system in preparation for their public launch. Flow helped them get going quickly with their issuing bank.",
+    "url": "https://cognitohq.com/products/flow",
+    "pass": 1
+   },
+   {
+    "quote": "Anti-money laundering watchlist screening and PEP screening (Politically Exposed Person screening) ensures that you are able to detect illegal activities like tax evasion, fraud, or terrorist financing and appropriately report these activities to the authorities.",
+    "url": "https://cognitohq.com/products/watchlist",
+    "pass": 1
+   },
+   {
+    "quote": "Cognito Screening intelligently constrains searches to reduce false positives, maximize match rates, and minimize costs based on your risk profile.",
+    "url": "https://cognitohq.com/products/watchlist",
+    "pass": 1
+   },
+   {
+    "quote": "Using the Cognito PEP and AML watchlist screening product enables you to configure algorithms to meet your specific needs. Our search technology takes into account the day-to-day edge cases that occur with watchlist database and user inputs to provide a reliable and comprehensive list of potential matches for your customers.",
+    "url": "https://cognitohq.com/products/watchlist",
+    "pass": 1
+   },
+   {
+    "quote": "Track where your customers are in their process and allow your agents to visualize and triage cases with a beautiful interface and audit trails. Integrate with our workflow APIs for fine-tuned and automated management. Maintaining ongoing AML compliance has never been easier.",
+    "url": "https://cognitohq.com/products/watchlist",
+    "pass": 1
+   },
+   {
+    "quote": "Cognito Screening is designed to help to manage and automate your anti-money laundering and politically exposed person screening program.",
+    "url": "https://cognitohq.com/products/watchlist",
+    "pass": 1
+   },
+   {
+    "quote": "Easily adhere to the Four Eyes Principle with user roles, automatic manager escalations, random case review assignments, and two person sign-off on reviews. Easily see where customers are in the review process, and get a complete audit trail.",
+    "url": "https://cognitohq.com/products/watchlist",
+    "pass": 1
+   },
+   {
+    "quote": "Cognito keeps track of how watchlist hits on your customers change over time, giving you a detailed breakdown of new names, locations, passports, dates of birth, and everything required for investigations. Ultimately, we ensure that you’re fully equipped to properly determine and navigate the risks of doing business with particular individuals, groups, or entities.",
+    "url": "https://cognitohq.com/products/watchlist",
+    "pass": 1
+   },
+   {
+    "quote": "State Owned Enterprise",
+    "url": "https://cognitohq.com/products/watchlist",
+    "pass": 1
+   },
+   {
+    "quote": "company wanted a way to streamline the user onboarding experience and ensure that they were receiving",
+    "url": "https://cognitohq.com/wp-content/uploads/2019/09/Brex-Case-Study_September-2019.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "quality identification data from their provider.",
+    "url": "https://cognitohq.com/wp-content/uploads/2019/09/Brex-Case-Study_September-2019.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "onboarding has helped reduce sign-up abandonment and increase their impressive list of customers at a very",
+    "url": "https://cognitohq.com/wp-content/uploads/2019/09/Brex-Case-Study_September-2019.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Lacked a modern onboarding solution",
+    "url": "https://cognitohq.com/wp-content/uploads/2019/09/Brex-Case-Study_September-2019.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Improved onboarding conversion by 22%",
+    "url": "https://cognitohq.com/wp-content/uploads/2019/09/Brex-Case-Study_September-2019.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "How Brex Uses Cognito to Improve",
+    "url": "https://cognitohq.com/wp-content/uploads/2019/09/Brex-Case-Study_September-2019.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Onboarding Conversions by 22%",
+    "url": "https://cognitohq.com/wp-content/uploads/2019/09/Brex-Case-Study_September-2019.pdf",
+    "pass": 2
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Cognito Flow was built to onboard and convert your new users around the world. We've helped our customers onboard tens of millions of new users, so we know a lot about maximizing conversion rates. We relentlessly optimize every flow, so you get the information you need without burdening your users. And every Cognito product is designed to seamlessly integrate with your brand.",
+    "url": "https://cognitohq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Make Flow fit your brand and style",
+    "url": "https://cognitohq.com/products/flow",
+    "pass": 1
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Cognito on X: \"We're happy to show off our brand new website ... You can learn more about the watchlist product here: cognitohq.com/products/watch… As well as the business product here (and get on the waitlist): cognitohq.com/products/busin…",
+    "url": "https://x.com/getcognito/status/1168976997168635910",
+    "pass": 3
+   },
+   {
+    "quote": "Cognito (@getcognito) / Posts / X And, of course, we also worked on a slew of other improvements and fixes. Check out the full changelog here: cognitohq.com/changelog/2022… (3/3)",
+    "url": "https://x.com/getcognito",
+    "pass": 3
+   },
+   {
+    "quote": "And, of course, we also worked on a slew of other ... And, of course, we also worked on a slew of other improvements and fixes. Check out the full changelog here: cognitohq.com/changelog/2022… (3/3)",
+    "url": "https://x.com/getcognito/status/1512137632611913738",
+    "pass": 3
+   },
+   {
+    "quote": "Cognito on X: \"Too much good stuff to fit in one tweet! Check ... Too much good stuff to fit in one tweet! Check out the full list of updates here: cognitohq.com/changelog/2022… And check out an example of the new intelligent screening review workflow 👇 GIF 5:00 PM · Feb 15, 2022 ·",
+    "url": "https://x.com/getcognito/status/1493631406555099137",
+    "pass": 3
+   },
+   {
+    "quote": "Cognito on X: \"We're happy to show off our brand new website ... Sep 3, 2019 · You can learn more about the watchlist product here: cognitohq.com/products/watch… As well as the business product here (and get on the waitlist): cognitohq.com/products/busin…",
+    "url": "https://x.com/getcognito/status/1168976997168635910",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://cognitohq.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cognitohq.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cognitohq.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cognitohq.com/products/flow",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cognitohq.com/products/watchlist",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cognitohq.com/wp-content/uploads/2019/09/Brex-Case-Study_September-2019.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://cognitohq.com/wp-content/uploads/2019/08/icon-logos@2x.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000181315.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://it.impress.co.jp/articles/-/29518",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enterprisezine.jp/news/detail/24602",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahi.com/and/pressrelease/17017960",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://energycognito.com/japan-power-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://energycognito.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compalyze.co.jp/company/2011003018324",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://energycognito.co.jp/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%81%9B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/cognitoiq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cognizant.com/us/en/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.t-mobile.com/business/partner-recruitment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.upcounsel.com/reseller-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.canva.com/partners/reseller/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/getcognito/status/1168976997168635910",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/getcognito",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/getcognito/status/1512137632611913738",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/getcognito/status/1493631406555099137",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/getcognito/status/1168976997168635910",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Cognitohq 日本 導入",
+   "results": [
+    "https://prtimes.jp/main/html/rd/p/000000001.000181315.html",
+    "https://it.impress.co.jp/articles/-/29518",
+    "https://enterprisezine.jp/news/detail/24602",
+    "https://www.asahi.com/and/pressrelease/17017960",
+    "https://genicpress.com/2335832/",
+    "https://japan.zdnet.com/article/35250741/",
+    "https://www.itmedia.co.jp/aiplus/article/2608/03/2000000350/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Cognitohq 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://cognitohq.com/about",
+    "https://www.cognitotx.com/careers"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Cognitohq Japan",
+   "results": [
+    "https://energycognito.com/japan-power-market",
+    "https://energycognito.co.jp/",
+    "https://compalyze.co.jp/company/2011003018324",
+    "https://energycognito.co.jp/お問い合せ",
+    "https://cognitohq.com/about",
+    "https://energycognito.com/",
+    "https://cognitohq.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Cognitohq manufacturing customer case study",
+   "results": [
+    "https://cognitohq.com/case-studies",
+    "https://www.casestudies.com/customer/cognitoiq",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.cognizant.com/us/en/case-studies",
+    "https://www.cognite.com/en/resources/customer-stories",
+    "https://aws.amazon.com/solutions/case-studies/browse-customer-success-stories/",
+    "https://cognitohq.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Cognitohq white label OR reseller OR partner program",
+   "results": [
+    "https://www.t-mobile.com/business/partner-recruitment",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.canva.com/partners/reseller/",
+    "https://partner.vw.com/partner",
+    "https://www.namesilo.com/reseller",
+    "https://www.20i.com/us/reseller-hosting"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Cognitohq founded funding employees revenue",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com Cognitohq",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com Cognitohq",
+   "results": [
+    "https://x.com/getcognito/status/1168976997168635910",
+    "https://x.com/getcognito",
+    "https://x.com/getcognito/status/1512137632611913738",
+    "https://x.com/getcognito/status/1493631406555099137",
+    "https://x.com/getcognito/status/1501642584099201024",
+    "https://x.com/cognitostatus",
+    "https://x.com/NoahFentys/status/2118178286157140113"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Cognitohq",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com Cognitohq",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Cognitohq note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/sadaaki",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Cognitohq X 投稿",
+   "results": [
+    "https://x.com/getcognito/status/1168976997168635910",
+    "https://x.com/getcognito",
+    "https://x.com/getcognito/status/1493631406555099137",
+    "https://x.com/stud_zero/status/2119082499007713341",
+    "https://x.com/kawakenka/status/2120139424251965743",
+    "https://tonecho.xyz/",
+    "https://cognitohq.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式5頁／PDF・画像2件／外部24頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式5頁／PDF・画像2件／外部24頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像2件／外部24頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像2件／外部24頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式5頁／PDF・画像2件／外部24頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式5頁／PDF・画像2件／外部24頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式5頁／PDF・画像2件／外部24頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式5頁／PDF・画像2件／外部24頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式5頁／PDF・画像2件／外部24頁・検索12回）",
+  "規模・親会社": "記載なし（3回確認済み：公式5頁／PDF・画像2件／外部24頁・検索12回）"
+ }
+}

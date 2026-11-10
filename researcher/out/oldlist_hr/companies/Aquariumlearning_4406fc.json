@@ -1,0 +1,924 @@
+{
+ "name": "Aquariumlearning",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜未接触",
+ "researched_at": "2026-11-10T18:48:09.287505+00:00",
+ "official_url": "https://www.aquariumlearning.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "2. Seed Round",
+    "value": "24-Feb-2021    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/438696-64",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Aquarium’s mission has always been to accelerate the process of building and deploying production AI systems. Over the last five years, we’ve seen a massive leap in the capabilities of AI models, and we’ve been lucky to help a variety of AI teams across computer vision and natural language processing to improve the quality of their AI systems more quickly and easily than ever before.",
+    "url": "https://www.aquariumlearning.com/",
+    "pass": 1
+   },
+   {
+    "quote": "As part of bringing our teams together, we have made the difficult decision to wind down our products. We recognize this impacts our existing customers, and we are doing our best to ensure the transition is as smooth as possible.",
+    "url": "https://www.aquariumlearning.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Aquarium Learning helps deep learning teams improve their model performance by improving their datasets. Aquarium Learning wants to give everyone the same world-class ML tooling that big companies already have access to. They want to enable domain experts to build and deploy models without specialized ML expertise, making it easier to build and improve real-world ML products.",
+    "url": "https://www.casestudies.com/company/aquarium-learning",
+    "pass": 3
+   },
+   {
+    "quote": "Plus One Robotics achieves 25% F1 improvement and faster, scalable model iteration with Aquarium Learning",
+    "url": "https://www.casestudies.com/company/aquarium-learning",
+    "pass": 3
+   },
+   {
+    "quote": "Scale accelerates the development of AI applications by helping computer vision teams generate high-quality ground truth data. Their advanced LiDAR, video, and image annotation APIs allow self-driving, drone, and robotics …",
+    "url": "https://www.featuredcustomers.com/vendor/aquarium-learning/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "SuperAnnotate is helping companies build the next generation of computer vision products with its end-to-end platform and integrated marketplace of managed annotation service teams. SuperAnnotate provides comprehensive annotation tooling, robust …",
+    "url": "https://www.featuredcustomers.com/vendor/aquarium-learning/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "V7 is the AI Data Engine for Computer Vision & Generative AI, offering rapid, precise, and scalable solutions for labeling image & video data, training ML models, and managing AI …",
+    "url": "https://www.featuredcustomers.com/vendor/aquarium-learning/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Let potential prospects find you on the world's only",
+    "url": "https://www.featuredcustomers.com/vendor/aquarium-learning/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/aquarium-learning/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "FREE and learn about our upgraded profile options to",
+    "url": "https://www.featuredcustomers.com/vendor/aquarium-learning/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "unlock all of your customer references for prospects",
+    "url": "https://www.featuredcustomers.com/vendor/aquarium-learning/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/aquarium-learning/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Read 3 Aquarium Learning reviews and testimonials from customers, explore 2 case studies and customer success stories, and watch 1 customer videos to see why companies chose Aquarium Learning as their Machine Learning Software",
+    "url": "https://www.featuredcustomers.com/vendor/aquarium-learning",
+    "pass": 3
+   },
+   {
+    "quote": "Aquarium Learning helps deep learning teams improve their model performance by improving their datasets. Aquarium Learning wants to give everyone the same world-class ML tooling that big companies already have access to. They want to enable domain experts to build and deploy models without specialized ML expertise, making it easier to build and improve real-world ML products.",
+    "url": "https://www.featuredcustomers.com/vendor/aquarium-learning",
+    "pass": 3
+   },
+   {
+    "quote": "“There are two ways Aquarium provides value to my company. First, we improved our model performance. Second, I spent less time and less clicks curating my dataset.\"",
+    "url": "https://www.featuredcustomers.com/vendor/aquarium-learning",
+    "pass": 3
+   },
+   {
+    "quote": "Sterblue improves defect detection accuracy by 13% with Aquarium",
+    "url": "https://www.featuredcustomers.com/vendor/aquarium-learning",
+    "pass": 3
+   },
+   {
+    "quote": "Plus One Robotics improves F1 score by 25% with Aquarium",
+    "url": "https://www.featuredcustomers.com/vendor/aquarium-learning",
+    "pass": 3
+   },
+   {
+    "quote": "0 more videos",
+    "url": "https://www.featuredcustomers.com/vendor/aquarium-learning",
+    "pass": 3
+   },
+   {
+    "quote": "Aquarium Learning Customer Videos",
+    "url": "https://www.featuredcustomers.com/vendor/aquarium-learning",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Video",
+    "url": "https://www.featuredcustomers.com/vendor/aquarium-learning",
+    "pass": 3
+   },
+   {
+    "quote": "Let potential prospects find you on the world's only",
+    "url": "https://www.featuredcustomers.com/vendor/aquarium-learning",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/aquarium-learning",
+    "pass": 3
+   },
+   {
+    "quote": "FREE and learn about our upgraded profile options to",
+    "url": "https://www.featuredcustomers.com/vendor/aquarium-learning",
+    "pass": 3
+   },
+   {
+    "quote": "unlock all of your customer references for prospects",
+    "url": "https://www.featuredcustomers.com/vendor/aquarium-learning",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/aquarium-learning",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/aquariumlearning.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/aquariumlearning.com",
+    "pass": 3
+   },
+   {
+    "quote": "Aquarium 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/438696-64",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/438696-64",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of machine learning software platform designed to democratize access to machine learning. The company's application programming interface and embedding search technology analyze the data, find ways to improve the datasets, and sample the data to a label, enabling machine learning teams to find anomalies and failure patterns in their datasets and fix these problems.",
+    "url": "https://pitchbook.com/profiles/company/438696-64",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/438696-64",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/438696-64",
+    "pass": 3
+   },
+   {
+    "quote": "Aquarium’s primary industry is Business/Productivity Software.",
+    "url": "https://pitchbook.com/profiles/company/438696-64",
+    "pass": 3
+   },
+   {
+    "quote": "Is Aquarium a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/438696-64",
+    "pass": 3
+   },
+   {
+    "quote": "Aquarium is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/438696-64",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/438696-64",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/438696-64",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/438696-64",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/aquariumlearning.com#competitors",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/aquariumlearning.com#competitors",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "As part of bringing our teams together, we have made the difficult decision to wind down our products. We recognize this impacts our existing customers, and we are doing our best to ensure the transition is as smooth as possible.",
+    "url": "https://www.aquariumlearning.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Thanks to everyone who supported Aquarium and helped get us to where we are today - our team members, customers, investors, and everyone who we’ve met on the startup journey. We’re excited to be joining Notion to help make AI a ubiquitous and useful part of everyday life!",
+    "url": "https://www.aquariumlearning.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/aquarium-learning/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/aquarium-learning",
+    "pass": 3
+   },
+   {
+    "quote": "Aquarium Learning Revenue 2024: $6.3M Est.",
+    "url": "https://getlatka.com/companies/aquariumlearning.com",
+    "pass": 3
+   },
+   {
+    "quote": "Aquarium Learning revenue",
+    "url": "https://getlatka.com/companies/aquariumlearning.com",
+    "pass": 3
+   },
+   {
+    "quote": "Aquarium Learning has not published its revenue. GetLatka estimates it at about $6.3M a year (June 2024).",
+    "url": "https://getlatka.com/companies/aquariumlearning.com",
+    "pass": 3
+   },
+   {
+    "quote": "Aquarium Learning CEO, founders & employees",
+    "url": "https://getlatka.com/companies/aquariumlearning.com",
+    "pass": 3
+   },
+   {
+    "quote": "Peter Gao founded Aquarium Learning in 2020 and runs it as CEO. Aquarium Learning had 16 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/aquariumlearning.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Aquarium Learning's revenue?",
+    "url": "https://getlatka.com/companies/aquariumlearning.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Aquarium Learning's revenue at about",
+    "url": "https://getlatka.com/companies/aquariumlearning.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Aquarium Learning have?",
+    "url": "https://getlatka.com/companies/aquariumlearning.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/aquariumlearning.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/aquariumlearning.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/aquariumlearning.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/aquariumlearning.com",
+    "pass": 3
+   },
+   {
+    "quote": "Aquarium 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/438696-64",
+    "pass": 3
+   },
+   {
+    "quote": "3. Merger/Acquisition",
+    "url": "https://pitchbook.com/profiles/company/438696-64",
+    "pass": 3
+   },
+   {
+    "quote": "Aquarium has 16 total employees.",
+    "url": "https://pitchbook.com/profiles/company/438696-64",
+    "pass": 3
+   },
+   {
+    "quote": "What is Aquarium’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/438696-64",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Aquarium is",
+    "url": "https://pitchbook.com/profiles/company/438696-64",
+    "pass": 3
+   },
+   {
+    "quote": "When was Aquarium acquired?",
+    "url": "https://pitchbook.com/profiles/company/438696-64",
+    "pass": 3
+   },
+   {
+    "quote": "Aquarium was acquired on 22-Oct-2024.",
+    "url": "https://pitchbook.com/profiles/company/438696-64",
+    "pass": 3
+   },
+   {
+    "quote": "Who acquired Aquarium?",
+    "url": "https://pitchbook.com/profiles/company/438696-64",
+    "pass": 3
+   },
+   {
+    "quote": "Aquarium was acquired by",
+    "url": "https://pitchbook.com/profiles/company/438696-64",
+    "pass": 3
+   },
+   {
+    "quote": "Aquarium Learning Revenue 2024: $6.3M Est.",
+    "url": "https://getlatka.com/companies/aquariumlearning.com#competitors",
+    "pass": 3
+   },
+   {
+    "quote": "Aquarium Learning revenue",
+    "url": "https://getlatka.com/companies/aquariumlearning.com#competitors",
+    "pass": 3
+   },
+   {
+    "quote": "Aquarium Learning has not published its revenue. GetLatka estimates it at about $6.3M a year (June 2024).",
+    "url": "https://getlatka.com/companies/aquariumlearning.com#competitors",
+    "pass": 3
+   },
+   {
+    "quote": "Aquarium Learning CEO, founders & employees",
+    "url": "https://getlatka.com/companies/aquariumlearning.com#competitors",
+    "pass": 3
+   },
+   {
+    "quote": "Peter Gao founded Aquarium Learning in 2020 and runs it as CEO. Aquarium Learning had 16 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/aquariumlearning.com#competitors",
+    "pass": 3
+   },
+   {
+    "quote": "What is Aquarium Learning's revenue?",
+    "url": "https://getlatka.com/companies/aquariumlearning.com#competitors",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Aquarium Learning's revenue at about",
+    "url": "https://getlatka.com/companies/aquariumlearning.com#competitors",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Aquarium Learning have?",
+    "url": "https://getlatka.com/companies/aquariumlearning.com#competitors",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/aquariumlearning.com#competitors",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/aquariumlearning.com#competitors",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/aquariumlearning.com#competitors",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/aquariumlearning.com#competitors",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Aquarium Is Joining Notion! | Peter Gao | 93 comments - LinkedIn — Aquarium Is Joining Notion! aquariumlearning.com 940 93 Comments 5,777 followers 101 Posts",
+    "url": "https://www.linkedin.com/posts/pgaooo_aquarium-is-joining-notion-activity-7251984217205551104-reFP",
+    "pass": 3
+   },
+   {
+    "quote": "Aquarium Learning: データセット改善でMLモデルを進化させる — MLモデルのパフォーマンスを向上させたいですか？ Aquarium Learningは、データセット内の異常やパターンを特定し、改善することでモデルの精度を向上させるツールです。 データセットの質を高め、より良い結果を得ましょう。",
+    "url": "https://huntscreens.com/ja/products/aquarium-learning",
+    "pass": 3
+   },
+   {
+    "quote": "Aquarium Learning B2B Case Studies & Customer Successes — See how Aquarium Learning solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/aquarium-learning",
+    "pass": 3
+   },
+   {
+    "quote": "2 Aquarium Learning Case Studies, Success Stories, & Customer ... — Narrow down 2 case studies by company size & industry to find out how Aquarium Learning works for a business like yours.",
+    "url": "https://www.featuredcustomers.com/vendor/aquarium-learning/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "6 Aquarium Learning Customer Reviews & References — Discover what Featured Customers are saying about Aquarium Learning through testimonials, reviews, & case studies.",
+    "url": "https://www.featuredcustomers.com/vendor/aquarium-learning",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Plus One Robotics achieves 25% F1 improvement and ... — Plus One Robotics (Industrial Automation) partnered with Aquarium Learning (Computer Software) to solve key challenges. \"Automated Logistics With Industrial Robotics\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/aquarium-learning/case-study/automated-logistics-with-industrial-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Aquarium Learning Revenue 2024: $6.3M Est. ARR — Aug 10, 2026 · Aquarium Learning 2024 estimated revenue: $6.3M ARR. Bootstrapped (no outside funding). 16 employees. Founded 2020. HQ: United States Updated Aug 10, 2026.",
+    "url": "https://getlatka.com/companies/aquariumlearning.com",
+    "pass": 3
+   },
+   {
+    "quote": "Aquarium Learning - 2026 Company Profile, Team, Funding ... — Mar 12, 2026 · Aquarium Learning is a seed company based in San Francisco (United States), founded in 2020 by Peter Gao and Quinn Johnson. It operates as a Provider of training datasets for AI models. Aquarium Learning has raised $2.75M in funding from Y Combinator and Sequoia Capital.",
+    "url": "https://tracxn.com/d/companies/aquariumlearning/__rnOHjJOYXU4q-iFCiwnWB4lF2mXZWOSRAcZW7-tY2hg",
+    "pass": 3
+   },
+   {
+    "quote": "Aquarium 2026 Company Profile: Valuation, Investors ...Aquarium Learning — Company Profile | The Company CheckHow Aquarium Learning hit $6.3M revenue with a 16 person team ...Aquarium - Crunchbase Company Profile & Funding — Information on acquisition, funding, cap tables, investors, and executives for Aquarium. Use the PitchBook Platform to explore the full profile. Aquarium Learning has raised $",
+    "url": "https://pitchbook.com/profiles/company/438696-64",
+    "pass": 3
+   },
+   {
+    "quote": "How Aquarium Learning hit $6.3M revenue with a 16 person team ... — The company's platform offers a set of digital healthcare monitoring tools to help practices provide better care and make more money, enabling them to reduce administrative costs, increase revenue and improve patient outcomes.",
+    "url": "https://getlatka.com/companies/aquariumlearning.com/competitors",
+    "pass": 3
+   },
+   {
+    "quote": "Aquarium - Crunchbase Company Profile & Funding — Sep 15, 2020 · Aquarium Learning is an ML data management platform that helps to improve models by improving datasets. The company was founded in 202 and based in San Francisco, California.",
+    "url": "https://www.crunchbase.com/organization/aquarium",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Automation Machinery Manufacturing",
+    "url": "https://www.casestudies.com/company/aquarium-learning",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/aquarium-learning/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/aquarium-learning",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/aquarium-learning/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/aquarium-learning/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/aquarium-learning",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/aquarium-learning",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/438696-64",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Want to welcome Aquarium team to join @NotionHQ. If you like ... Oct 15 I'm excited to announce that Aquarium is joining Notion! aquariumlearning.com 💬 22",
+    "url": "https://x.com/ivanhzhao/status/1846386182273618148",
+    "pass": 3
+   },
+   {
+    "quote": "Peter Gao (@pgaooo) / Posts / X I'm sad to announce that we’re shutting down Illume, our computer vision data curation product. Given our limited resources as a startup, we've decided to focus our attention on developing our LLM product going forward. aquariumlearning.com/blog-posts/shu… 💬1",
+    "url": "https://x.com/pgaooo",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Aquarium (acq. Notion) | LinkedIn Aquarium helps deep learning teams improve their model performance by improving their datasets. About us Website https://www.aquariumlearning.com/ External link for Aquarium (acq. Notion)",
+    "url": "https://www.linkedin.com/company/aquarium-learn",
+    "pass": 3
+   },
+   {
+    "quote": "Aquarium Is Joining Notion! | Aquarium (acq. Notion) - LinkedIn Let us know if you'd like to try Aquarium for yourself! https://lnkd.in/gSvMAmc Aquarium Is Joining Notion! aquariumlearning.com 2 1,120 followers",
+    "url": "https://www.linkedin.com/posts/aquarium-learn_aquarium-ml-data-operations-platform-activity-6939618454819782656-BNrV",
+    "pass": 3
+   },
+   {
+    "quote": "Aquarium (acq. Notion) - LinkedIn Aquarium helps deep learning teams improve their model performance by improving their datasets. About us Website https://www.aquariumlearning.com/ External link for Aquarium (acq. Notion)",
+    "url": "https://www.linkedin.com/company/aquarium-learn",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "水族星人 AquariumLearning - FacebookDear Parents, Did you know a trip to the aquarium can spark ...Crayfish of the World - FacebookMeta for Business (formerly Facebook for Business)Newhall Aquarium & Learning Center's Educational Outreach ...APPROACH : Practical... - Arch KKU Thesis Exhibition : 2025 ...New Teacher Video: Aquarium! Download song, flashcards and ... 水族星人 AquariumLearning. 9 likes. Aqua",
+    "url": "https://www.facebook.com/AquariumLearning/",
+    "pass": 3
+   },
+   {
+    "quote": "Dear Parents, Did you know a trip to the aquarium can spark ... Nov 4, 2024 · Link is available in the comment box below #LearningThroughPlay #ParentingTips #ChildDevelopment #AquariumLearning #ParentingCoach #EarlyEducation #CuriousKids #WhatsAppParentingCommunity #SensoryDevelopment #sonaljain #kidswisdom | Sonal Gor Jain | Facebook",
+    "url": "https://www.facebook.com/sonal.gor.58/videos/dear-parentsdid-you-know-a-trip-to-the-aquarium-can-spark-so-much-learning-for-y/1224730055463452/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.aquariumlearning.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.linkedin.com/posts/pgaooo_aquarium-is-joining-notion-activity-7251984217205551104-reFP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.utsubo.com/ja/blog/zoo-aquarium-interactive-installation-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aqua.ac.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://huntscreens.com/ja/products/aquarium-learning",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E3%82%A2%E3%82%AF%E3%82%A2%E3%83%AA%E3%82%A6%E3%83%A0%E3%83%BB%E6%B5%B7%E6%B4%8B%E7%94%9F%E7%89%A9%E5%A4%A7%E5%AD%A6%E6%A0%A1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Aquamarine_Fukushima",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aquarium-jp.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pearlsea.jp/en/educational_trip/school_trip_umikirara/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/aquarium-learning",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/aquarium-learning/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/aquarium-learning",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://customer.io/learn/case-studies/georgia-aquarium-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.upcounsel.com/reseller-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/aquariumlearning.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/aquariumlearning/__rnOHjJOYXU4q-iFCiwnWB4lF2mXZWOSRAcZW7-tY2hg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/438696-64",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/aquariumlearning.com#competitors",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/ivanhzhao/status/1846386182273618148",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/pgaooo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/aquarium-learn",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/aquarium-learn_aquarium-ml-data-operations-platform-activity-6939618454819782656-BNrV",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/AquariumLearning/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/sonal.gor.58/videos/dear-parentsdid-you-know-a-trip-to-the-aquarium-can-spark-so-much-learning-for-y/1224730055463452/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/aquarium-learn",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Aquariumlearning 日本 導入",
+   "results": [
+    "https://www.linkedin.com/posts/pgaooo_aquarium-is-joining-notion-activity-7251984217205551104-reFP",
+    "https://www.utsubo.com/ja/blog/zoo-aquarium-interactive-installation-guide",
+    "https://aqua.ac.jp/",
+    "https://huntscreens.com/ja/products/aquarium-learning",
+    "https://anthias.jp/education-aquarium-program/",
+    "https://news.web.nhk/newsweb/na/nd-20261110de73528",
+    "https://ja.accio.com/business/アクアリウム流行"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Aquariumlearning 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.twoway-aqua.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Aquariumlearning Japan",
+   "results": [
+    "https://ja.wikipedia.org/wiki/国際アクアリウム・海洋生物大学校",
+    "https://en.wikipedia.org/wiki/Aquamarine_Fukushima",
+    "https://aquarium-jp.com/en/",
+    "https://www.pearlsea.jp/en/educational_trip/school_trip_umikirara/",
+    "https://aqua.ac.jp/",
+    "https://www.hamamatsu-japan.com/en/column/76879/",
+    "https://www.aquariumlearning.com/",
+    "https://school.kawa-sui.com/",
+    "https://huntscreens.com/ja/products/aquarium-learning"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Aquariumlearning manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/aquarium-learning",
+    "https://www.featuredcustomers.com/vendor/aquarium-learning/case-studies",
+    "https://www.featuredcustomers.com/vendor/aquarium-learning",
+    "https://customer.io/learn/case-studies/georgia-aquarium-case-study",
+    "https://www.casestudies.com/company/aquarium-learning/case-study/automated-logistics-with-industrial-robotics",
+    "https://www.ycombinator.com/companies/aquarium-learning",
+    "https://www.linkedin.com/posts/pgaooo_aquarium-is-joining-notion-activity-7251984217205551104-reFP"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Aquariumlearning white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://partner.vw.com/partner",
+    "https://upcloud.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Aquariumlearning founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/aquariumlearning.com",
+    "https://tracxn.com/d/companies/aquariumlearning/__rnOHjJOYXU4q-iFCiwnWB4lF2mXZWOSRAcZW7-tY2hg",
+    "https://pitchbook.com/profiles/company/438696-64",
+    "https://getlatka.com/companies/aquariumlearning.com/competitors",
+    "https://www.crunchbase.com/organization/aquarium",
+    "https://www.zoominfo.com/c/aquarium/535717834",
+    "https://www.thecompanycheck.com/company/b/aquarium-learning/cduuxus38rh5vauwd"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Aquariumlearning",
+   "results": [
+    "https://note.com/takuya_laf/n/nef4a06da0269?hl=en",
+    "https://note.com/oneope_mamalife/n/nba13e921df45?hl=en",
+    "https://note.com/baa_gohan/n/n032127453048?hl=en",
+    "https://note.com/suteo89/n/ndb0baa3478e2?hl=en",
+    "https://note.com/idmuller/n/n936e9d703f1d?hl=en",
+    "https://note.com/kawayasblog/n/nbfdf6e599de4?hl=en",
+    "https://note.com/sea924rio/n/ncef579693830?hl=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Aquariumlearning",
+   "results": [
+    "https://x.com/ivanhzhao/status/1846386182273618148",
+    "https://x.com/pgaooo",
+    "https://x.com/AquaticaStudios",
+    "https://x.com/FresnoAquarium/status/2019594106985672918",
+    "https://x.com/SalishSeaCentre",
+    "https://x.com/p0ptartkitty/status/2115926138987913708",
+    "https://x.com/neaq"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Aquariumlearning",
+   "results": [
+    "https://www.linkedin.com/company/aquarium-learn",
+    "https://www.linkedin.com/posts/aquarium-learn_aquarium-ml-data-operations-platform-activity-6939618454819782656-BNrV",
+    "https://re.linkedin.com/posts/pgaooo_we-launched-a-new-pricing-model-weve-been-activity-7049070628066230272-3RdZ",
+    "https://cr.linkedin.com/posts/pgaooo_to-make-your-model-better-first-figure-out-activity-7038915048202784768-r8Dn",
+    "https://in.linkedin.com/posts/pgaooo_what-is-ml-data-operations-activity-7029522024842600450-ms0k",
+    "https://cl.linkedin.com/posts/pgaooo_amp-robotics-ai-and-robotics-for-recycling-activity-7054489204759662594-Ci_n",
+    "https://www.linkedin.com/in/petergaoo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Aquariumlearning",
+   "results": [
+    "https://www.facebook.com/AquariumLearning/",
+    "https://business.facebook.com/groups/546305382463318/",
+    "https://business.facebook.com/latest/composer/?asset_id=155498106099&nav_ref=internal_nav&context_ref=CONTENT_CALENDAR",
+    "https://www.facebook.com/sonal.gor.58/videos/dear-parentsdid-you-know-a-trip-to-the-aquarium-can-spark-so-much-learning-for-y/1224730055463452/",
+    "https://www.facebook.com/newhallaquarium/",
+    "https://www.facebook.com/MapleMarty/videos/new-teacher-video-aquariumdownload-song-flashcards-and-more-here-httpmapleleafle/165684341441682/",
+    "https://www.facebook.com/WFHThesisExhibition/posts/approach-practical-design-_________________________________ศูนย์การเรียนรู้ฉลามว/404083359051039/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Aquariumlearning note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.com/aquarium_club",
+    "https://www.linkedin.com/company/aquarium-learn",
+    "https://note.com/maw_aqua",
+    "https://www.ai-startups.pro/video/aquariumlearning/",
+    "https://tracxn.com/d/companies/aquariumlearning/__rnOHjJOYXU4q-iFCiwnWB4lF2mXZWOSRAcZW7-tY2hg",
+    "https://datastackshow.com/podcast/33-ml-is-a-data-quality-problem-with-peter-gao-from-aquarium-learning/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Aquariumlearning X 投稿",
+   "results": [
+    "https://legacy-docs.aquariumlearning.com/aquarium/integrating-with-aquarium/uploading-data",
+    "https://legacy-docs.aquariumlearning.com/aquarium",
+    "https://x.com/aquariumlearn",
+    "https://x.com/felixrieseberg/status/2119925633564463609",
+    "https://x.com/aquariumnist4",
+    "https://x.com/aquarium111099",
+    "https://x.com/AQUALIFE_MPJ/status/2119629150298558917"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）"
+ }
+}

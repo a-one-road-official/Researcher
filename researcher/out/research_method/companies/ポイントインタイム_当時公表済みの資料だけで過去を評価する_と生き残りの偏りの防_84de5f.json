@@ -8,7 +8,7 @@
  ],
  "context": "検証",
  "kind": "market",
- "researched_at": "2026-11-09T07:14:08.003896+00:00",
+ "researched_at": "2026-11-10T18:06:19.817952+00:00",
  "evidence": {
   "手順・やり方": [
    {
@@ -108,50 +108,6 @@
     "first_seen": "2026-11-06"
    }
   ],
-  "突き合わせ・推定": [
-   {
-    "quote": "The researchers estimated the size of survivorship bias across the United States mutual fund industry as 0.9% annum. Additionally, they defined and measured survivorship bias as the following:",
-    "url": "https://thedecisionlab.com/biases/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "A fiscal period-end is not the date investors learned the result. The release or filing timestamp is the important boundary. Prices, analyst estimates, ownership filings and sector classifications also need their own availability treatment.",
-    "url": "https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "US GDP preliminary estimates land roughly 30 days after quarter-end, and final figures can be revised for up to three years.",
-    "url": "https://www.scoopanalytics.com/blog/point-in-time-analysis-why-data-snapshotting-matters-in-business-decisions",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Early 2008 to 2009 US job-loss estimates of 4.8 million were later revised to 8.7 million, an 81% understatement of the crisis at the time it was unfolding.",
-    "url": "https://www.scoopanalytics.com/blog/point-in-time-analysis-why-data-snapshotting-matters-in-business-decisions",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "What makes survivorship bias distinctive is its direction. Most sampling problems add noise or a bias of unknown sign. Removing the failures almost always pushes estimated returns up and estimated risk down, so it produces exactly the kind of result people are hoping to find.",
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Removing the worst paths also removes the worst drawdowns, so volatility, tail risk and maximum drawdown estimates are flattered too. A risk model calibrated on survivors understates the loss distribution it is supposed to describe.",
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Probability of default models must be estimated on cohorts that retain defaults, withdrawals and early repayments. Data migrations are a prime moment for defaulted names to vanish, so the default count should be reconciled before and after any system change.",
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
   "一次情報の探し方": [
    {
     "quote": "https://www.vanguard.co.uk/documents/adv/literature/survivorship-bias.pdf",
@@ -168,158 +124,6 @@
    {
     "quote": "Only roughly, and not reliably. Applying a fixed two or three month lag to period-end dates is the common quant workaround, but S&P Capital IQ found static lags cannot replicate true point-in-time results because filing timelines vary by region, company size, and period. The lag trades one set of errors for another.",
     "url": "https://www.scoopanalytics.com/blog/point-in-time-analysis-why-data-snapshotting-matters-in-business-decisions",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "Survivorship bias occurs because we have a tendency to focus on successful outcomes while overlooking examples of failure, but why do we do this? Why don’t we weigh a group’s successes and failures equally when judging their behavior? Here are a few behavioral science insights that might explain this tendency:",
-    "url": "https://thedecisionlab.com/biases/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "See real world examples",
-    "url": "https://thedecisionlab.com/biases/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Had this research group been unable to identify this critical fact, the aircraft reinforcements they would have suggested would have ignored entirely a subset of planes that arguably had the most valuable data points regarding the project. The research study results provided an example of how Abraham Wald and his research group at Columbia overcame survivorship bias, saving hundreds of lives.",
-    "url": "https://thedecisionlab.com/biases/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Example 1 – Financial Systems",
-    "url": "https://thedecisionlab.com/biases/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Survivorship bias can be examined more specifically in the case of mutual funds. A mutual fund is a financial vehicle that pools money collected from investors and is managed by a professional fund manager. Fund managers take that money and invest in things like stocks, bonds, and other assets.",
-    "url": "https://thedecisionlab.com/biases/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Example 2 – Medical Research",
-    "url": "https://thedecisionlab.com/biases/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Example 1 - Financial systems",
-    "url": "https://thedecisionlab.com/biases/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Example 2 - Medical research",
-    "url": "https://thedecisionlab.com/biases/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Look-ahead bias uses information before it was available. Common examples include trading on an earnings report before release, applying a later restatement to an earlier decision, or generating a signal from a close and assuming an earlier fill.",
-    "url": "https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Learn the difference between price return and total return, see a simple dividend example, and understand how cash dividends affect portfolio comparisons.",
-    "url": "https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Survivorship Bias: Definition & Examples — CASRAI",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Survivorship bias is the error of drawing conclusions from only the surviving, successful, or completed cases while the eliminated cases go unrecorded. Covers the WWII bomber example, business and financial-data versions, and how it differs from attrition bias and the healthy worker effect.",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The example endures because it isolates the mechanism so cleanly: the selection process (which planes return to be inspected) is correlated with the very outcome being studied (which parts of a plane can absorb damage), and the missing cases are not a random, ignorable subset — they are the most informative cases in the whole population, and they are the ones nobody gets to examine.",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Ask what the full set of cases looked like before whatever filter (survival, success, continued participation, still being in business) was applied, rather than starting the analysis from the filtered set already in hand.",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "For historical or archival data, check whether the source excludes discontinued, delisted, or defunct cases (a fund database that has been “survivorship-bias corrected” will say so explicitly) and use a corrected source when one exists.",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Even partial information about eliminated cases (cause of exit, timing, baseline characteristics) can reveal whether the elimination process was related to the outcome under study, similar to how a",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Run a sensitivity check on what the unobserved cases might look like.",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Even without full data on the non-survivors, stating an explicit assumption about them (best case, worst case, and a plausible middle case) and checking whether the conclusion survives that range is more honest than treating the surviving sample as the whole story.",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "What is a real-world example of survivorship bias outside the bomber story?",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Historical mutual fund and hedge fund performance databases that include only currently-operating funds are a widely cited example: funds that closed or were liquidated, disproportionately the worst performers, are absent from the average return calculation, which overstates what an investor holding a random fund from that period could actually have expected to earn.",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "— the broader category covering any process that makes a sample fail to represent the population it is meant to describe. What distinguishes survivorship bias within that category is the specific mechanism: cases are excluded because they did not survive, succeed, or persist through some filtering process, and the excluded cases are frequently not just missing but entirely unrecorded.",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ", the longitudinal-dropout-specific case, and the",
-    "url": "https://casrai.org/guides/survivorship-bias",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "the sample was drawn, which is why it is best understood as one specific case of the broader problem covered in",
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Start with the simplest possible case. Suppose a set of funds has true excess returns that are normally distributed with mean zero and standard deviation σ. No fund has any skill. Now remove the worst fraction",
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "3. Worked Example: Zero-Alpha Funds Over Ten Years",
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
     "pass": 3,
     "first_seen": "2026-11-06"
    }
@@ -853,105 +657,356 @@
     "pass": 3,
     "first_seen": "2026-11-06"
    }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "The researchers estimated the size of survivorship bias across the United States mutual fund industry as 0.9% annum. Additionally, they defined and measured survivorship bias as the following:",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "A fiscal period-end is not the date investors learned the result. The release or filing timestamp is the important boundary. Prices, analyst estimates, ownership filings and sector classifications also need their own availability treatment.",
+    "url": "https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "US GDP preliminary estimates land roughly 30 days after quarter-end, and final figures can be revised for up to three years.",
+    "url": "https://www.scoopanalytics.com/blog/point-in-time-analysis-why-data-snapshotting-matters-in-business-decisions",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Early 2008 to 2009 US job-loss estimates of 4.8 million were later revised to 8.7 million, an 81% understatement of the crisis at the time it was unfolding.",
+    "url": "https://www.scoopanalytics.com/blog/point-in-time-analysis-why-data-snapshotting-matters-in-business-decisions",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "What makes survivorship bias distinctive is its direction. Most sampling problems add noise or a bias of unknown sign. Removing the failures almost always pushes estimated returns up and estimated risk down, so it produces exactly the kind of result people are hoping to find.",
+    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Removing the worst paths also removes the worst drawdowns, so volatility, tail risk and maximum drawdown estimates are flattered too. A risk model calibrated on survivors understates the loss distribution it is supposed to describe.",
+    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Probability of default models must be estimated on cohorts that retain defaults, withdrawals and early repayments. Data migrations are a prime moment for defaulted names to vanish, so the default count should be reconciled before and after any system change.",
+    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "Survivorship bias occurs because we have a tendency to focus on successful outcomes while overlooking examples of failure, but why do we do this? Why don’t we weigh a group’s successes and failures equally when judging their behavior? Here are a few behavioral science insights that might explain this tendency:",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "See real world examples",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Had this research group been unable to identify this critical fact, the aircraft reinforcements they would have suggested would have ignored entirely a subset of planes that arguably had the most valuable data points regarding the project. The research study results provided an example of how Abraham Wald and his research group at Columbia overcame survivorship bias, saving hundreds of lives.",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Example 1 – Financial Systems",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Survivorship bias can be examined more specifically in the case of mutual funds. A mutual fund is a financial vehicle that pools money collected from investors and is managed by a professional fund manager. Fund managers take that money and invest in things like stocks, bonds, and other assets.",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Example 2 – Medical Research",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Example 1 - Financial systems",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Example 2 - Medical research",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Look-ahead bias uses information before it was available. Common examples include trading on an earnings report before release, applying a later restatement to an earlier decision, or generating a signal from a close and assuming an earlier fill.",
+    "url": "https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Learn the difference between price return and total return, see a simple dividend example, and understand how cash dividends affect portfolio comparisons.",
+    "url": "https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Survivorship Bias: Definition & Examples — CASRAI",
+    "url": "https://casrai.org/guides/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Survivorship bias is the error of drawing conclusions from only the surviving, successful, or completed cases while the eliminated cases go unrecorded. Covers the WWII bomber example, business and financial-data versions, and how it differs from attrition bias and the healthy worker effect.",
+    "url": "https://casrai.org/guides/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The example endures because it isolates the mechanism so cleanly: the selection process (which planes return to be inspected) is correlated with the very outcome being studied (which parts of a plane can absorb damage), and the missing cases are not a random, ignorable subset — they are the most informative cases in the whole population, and they are the ones nobody gets to examine.",
+    "url": "https://casrai.org/guides/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Ask what the full set of cases looked like before whatever filter (survival, success, continued participation, still being in business) was applied, rather than starting the analysis from the filtered set already in hand.",
+    "url": "https://casrai.org/guides/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "For historical or archival data, check whether the source excludes discontinued, delisted, or defunct cases (a fund database that has been “survivorship-bias corrected” will say so explicitly) and use a corrected source when one exists.",
+    "url": "https://casrai.org/guides/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Even partial information about eliminated cases (cause of exit, timing, baseline characteristics) can reveal whether the elimination process was related to the outcome under study, similar to how a",
+    "url": "https://casrai.org/guides/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Run a sensitivity check on what the unobserved cases might look like.",
+    "url": "https://casrai.org/guides/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Even without full data on the non-survivors, stating an explicit assumption about them (best case, worst case, and a plausible middle case) and checking whether the conclusion survives that range is more honest than treating the surviving sample as the whole story.",
+    "url": "https://casrai.org/guides/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "What is a real-world example of survivorship bias outside the bomber story?",
+    "url": "https://casrai.org/guides/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Historical mutual fund and hedge fund performance databases that include only currently-operating funds are a widely cited example: funds that closed or were liquidated, disproportionately the worst performers, are absent from the average return calculation, which overstates what an investor holding a random fund from that period could actually have expected to earn.",
+    "url": "https://casrai.org/guides/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "— the broader category covering any process that makes a sample fail to represent the population it is meant to describe. What distinguishes survivorship bias within that category is the specific mechanism: cases are excluded because they did not survive, succeed, or persist through some filtering process, and the excluded cases are frequently not just missing but entirely unrecorded.",
+    "url": "https://casrai.org/guides/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ", the longitudinal-dropout-specific case, and the",
+    "url": "https://casrai.org/guides/survivorship-bias",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "the sample was drawn, which is why it is best understood as one specific case of the broader problem covered in",
+    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Start with the simplest possible case. Suppose a set of funds has true excess returns that are normally distributed with mean zero and standard deviation σ. No fund has any skill. Now remove the worst fraction",
+    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3. Worked Example: Zero-Alpha Funds Over Ten Years",
+    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/todd547/n/nf06d432f2d9b",
+    "url": "https://note.com/good_dill292/n/n93c0053a3deb",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/fond_jacana2921/n/n731cabf0b781",
+    "url": "https://note.com/powerpoint_jp/n/n19840a713886",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/ore_ore/n/n44a250debaba",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/k_abe_raxus/n/n9bfc1aabc922",
+    "url": "https://note.com/automationjp/n/nedc6c5889a1e",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/zz08/n/ne7f0598dcc83",
+    "url": "https://note.com/right_minnow9076/n/n62a51fb5e91c",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/kzi_workshop/n/n8e37278e651a",
+    "url": "https://note.com/tata_15/n/n11ebe7d5b8be",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://learn.microsoft.com/ja-jp/azure/machine-learning/offline-retrieval-point-in-time-join-concepts?view=azureml-api-2",
+    "url": "https://note.com/ku2t/n/n73300b122872",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://btctiming.com/ja/blog/lookahead-bias-onchain-backtest",
+    "url": "https://note.com/jiro_nakagawa/n/nf8c14dbdc2dc",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://sggroup.jp/ja/article/macro-research-workbench/macro-regime-point-in-time/",
+    "url": "https://www.reddit.com/r/Bogleheads/comments/1u4h4e0/if_past_performance_is_not_indicative_of_future/?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/utokyo_phd_papa/n/n250bcff4ff63",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://media.tcdigital.jp/ai-knowledge-flow/articles/prediction-model-data-leakage-prevention/",
+    "url": "https://note.jp/n/n7917dc1cdfe9?gs=e77efbc78f2dc2dbba3eaa2ee55e54af",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://sggroup.jp/ja/article/macro-research-workbench/macro-guide/",
+    "url": "https://www.dir.co.jp/report/research/law-research/securities/20161021_011341.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://recruit.group.gmo/engineer/jisedai/blog/cv-in-financial-time-series/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://qiita.com/gksrlf3552/items/d112e6fbf9a3b1b66074",
+    "url": "https://fxreplay.com/ja/playbooks/education/why-backtesting-is-the-missing-link-in-most-trading-strategies",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://wakara.co.jp/mathlog/20251230",
+    "url": "https://www.saa.or.jp/curriculum/foundation/pdf/sample_qa.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.worldoftest.com/ja/node/7036/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://powakadata.com/survivorship-bias-backtesting.html",
+    "url": "https://www.moomoo.com/ja/community/feed/can-backtesting-trading-strategies-really-give-you-an-advantage-114087633747973",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://skilldb.dev/skills/market-data-engineering-skills/point-in-time-and-survivorship-bias",
+    "url": "https://investmentbridge.co.jp/business/ir-consulting/column/analyst-report/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead",
+    "url": "https://note.com/nakanoam/n/nafb26eef1ed8",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://rusakamarkets.com/resources/point-in-time-backtesting-research-paper",
+    "url": "https://www.saa.or.jp/learning/journal/each_title/2019/03.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://trueverdikt.com/en/blog/survivorship-bias-in-stock-market-backtesting",
+    "url": "https://media.tcdigital.jp/ai-knowledge-flow/articles/financial-time-series-forecasting-pitfalls/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://developer.stockfit.io/blog/point-in-time-data-backtesting",
+    "url": "https://www.jpx.co.jp/equities/follow-up/jr4eth0000004vj2-att/mklp77000000lyr3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mri.co.jp/knowledge/column/20251216_2.html",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scoopanalytics.com/blog/point-in-time-analysis-why-data-snapshotting-matters-in-business-decisions",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/statistics/comments/okvglq/q_how_does_survivorship_bias_impact_survival/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bellstatistics.com/glossary/survivorship-bias",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://quant.stackexchange.com/questions/81631/simple-approach-to-estimate-survivorship-bias-in-backtest",
+    "status": "ok",
+    "method": "browser"
    }
   ]
  },
@@ -959,98 +1014,122 @@
   {
    "query": "ポイントインタイム（当時公表済みの資料だけで過去を評価する）と生き残りの偏りの防ぎ方（アナリスト・バックテスト・調査） site:note.com",
    "results": [
-    "https://note.com/todd547/n/nf06d432f2d9b",
-    "https://note.com/fond_jacana2921/n/n731cabf0b781",
-    "https://note.com/ore_ore/n/n44a250debaba",
-    "https://note.com/k_abe_raxus/n/n9bfc1aabc922",
-    "https://note.com/zz08/n/ne7f0598dcc83",
-    "https://note.com/kzi_workshop/n/n8e37278e651a",
-    "https://note.com/slidedogs_biz/n/n7f7e53c6edf8"
+    "https://note.com/good_dill292/n/n93c0053a3deb",
+    "https://note.com/powerpoint_jp/n/n19840a713886",
+    "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "https://note.com/automationjp/n/nedc6c5889a1e",
+    "https://note.com/right_minnow9076/n/n62a51fb5e91c",
+    "https://note.com/tata_15/n/n11ebe7d5b8be",
+    "https://note.com/qvb/n/n931062c31482",
+    "https://note.com/kite_vrc/n/n1ec0dae76693",
+    "https://note.com/ezuremanagement/n/n3e69d2b40cb9",
+    "https://note.com/masa13_/n/n1f4df2dd4113"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   },
   {
    "query": "ポイントインタイム（当時公表済みの資料だけで過去を評価する）と生き残りの偏りの防ぎ方（アナリスト・バックテスト・調査） note",
    "results": [
-    "https://learn.microsoft.com/ja-jp/azure/machine-learning/offline-retrieval-point-in-time-join-concepts?view=azureml-api-2",
-    "https://btctiming.com/ja/blog/lookahead-bias-onchain-backtest",
-    "https://sggroup.jp/ja/article/macro-research-workbench/macro-regime-point-in-time/",
-    "https://media.tcdigital.jp/ai-knowledge-flow/articles/prediction-model-data-leakage-prevention/",
-    "https://note.com/todd547/n/nf06d432f2d9b",
-    "https://sggroup.jp/ja/article/macro-research-workbench/macro-guide/",
-    "https://qiita.com/gksrlf3552/items/d112e6fbf9a3b1b66074"
+    "https://note.com/ku2t/n/n73300b122872",
+    "https://note.com/jiro_nakagawa/n/nf8c14dbdc2dc",
+    "https://www.reddit.com/r/Bogleheads/comments/1u4h4e0/if_past_performance_is_not_indicative_of_future/?tl=ja",
+    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
+    "https://note.com/utokyo_phd_papa/n/n250bcff4ff63",
+    "https://note.jp/n/n7917dc1cdfe9",
+    "https://www.help-note.com/hc/ja/articles/40855099018777-%E3%82%A2%E3%83%8A%E3%83%AA%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9-%CE%B2-%E8%A8%98%E4%BA%8B%E3%82%92%E5%88%86%E6%9E%90%E3%81%99%E3%82%8B",
+    "https://note.com/shikaku_tokyo/n/n80a3f046c30e",
+    "http://benesse.jp/news/kosodate/join/20121202080027.html",
+    "https://learn.microsoft.com/ja-jp/azure/machine-learning/offline-retrieval-point-in-time-join-concepts?view=azureml-api-2"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "ポイントインタイム（当時公表済みの資料だけで過去を評価する）と生き残りの偏りの防ぎ方（アナリスト・バックテスト・調査） やり方",
    "results": [
-    "https://sggroup.jp/ja/article/macro-research-workbench/macro-regime-point-in-time/",
-    "https://learn.microsoft.com/ja-jp/azure/machine-learning/offline-retrieval-point-in-time-join-concepts?view=azureml-api-2",
-    "https://btctiming.com/ja/blog/lookahead-bias-onchain-backtest",
-    "https://media.tcdigital.jp/ai-knowledge-flow/articles/prediction-model-data-leakage-prevention/",
-    "https://sggroup.jp/ja/article/macro-research-workbench/macro-guide/",
-    "https://note.com/todd547/n/nf06d432f2d9b",
-    "https://qiita.com/gksrlf3552/items/d112e6fbf9a3b1b66074"
+    "https://www.dir.co.jp/report/research/law-research/securities/20161021_011341.pdf",
+    "https://recruit.group.gmo/engineer/jisedai/blog/cv-in-financial-time-series/",
+    "https://fxreplay.com/ja/playbooks/education/why-backtesting-is-the-missing-link-in-most-trading-strategies",
+    "https://www.saa.or.jp/curriculum/foundation/pdf/sample_qa.pdf",
+    "https://www.worldoftest.com/ja/node/7036",
+    "https://www.moomoo.com/ja/community/feed/can-backtesting-trading-strategies-really-give-you-an-advantage-114087633747973",
+    "https://investmentbridge.co.jp/business/ir-consulting/column/analyst-report/",
+    "https://www.jenova.ai/ja/resources/ai-options-backtesting-agent",
+    "https://www.invest-concierge.com/terms/backtest",
+    "https://sggroup.jp/ja/article/macro-research-workbench/macro-regime-point-in-time/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "ポイントインタイム（当時公表済みの資料だけで過去を評価する）と生き残りの偏りの防ぎ方（アナリスト・バックテスト・調査） 事例",
    "results": [
-    "https://learn.microsoft.com/ja-jp/azure/machine-learning/offline-retrieval-point-in-time-join-concepts?view=azureml-api-2",
-    "https://btctiming.com/ja/blog/lookahead-bias-onchain-backtest",
-    "https://sggroup.jp/ja/article/macro-research-workbench/macro-regime-point-in-time/",
-    "https://media.tcdigital.jp/ai-knowledge-flow/articles/prediction-model-data-leakage-prevention/",
-    "https://sggroup.jp/ja/article/macro-research-workbench/macro-guide/",
-    "https://note.com/todd547/n/nf06d432f2d9b",
-    "https://wakara.co.jp/mathlog/20251230"
+    "https://investmentbridge.co.jp/business/ir-consulting/column/analyst-report/",
+    "https://note.com/nakanoam/n/nafb26eef1ed8",
+    "https://www.saa.or.jp/learning/journal/each_title/2019/03.html",
+    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
+    "https://media.tcdigital.jp/ai-knowledge-flow/articles/financial-time-series-forecasting-pitfalls/",
+    "https://www.jpx.co.jp/equities/follow-up/jr4eth0000004vj2-att/mklp77000000lyr3.pdf",
+    "https://www.mri.co.jp/knowledge/column/20251216_2.html",
+    "https://www.pictet.co.jp/investment-information/market/deep-insight/20240130.html",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://learn.microsoft.com/ja-jp/azure/machine-learning/offline-retrieval-point-in-time-join-concepts?view=azureml-api-2"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "point in time data survivorship bias research analyst method",
    "results": [
-    "https://powakadata.com/survivorship-bias-backtesting.html",
-    "https://skilldb.dev/skills/market-data-engineering-skills/point-in-time-and-survivorship-bias",
-    "https://tesseraalpha.com/methodology/backtesting-survivorship-lookahead",
-    "https://rusakamarkets.com/resources/point-in-time-backtesting-research-paper",
-    "https://trueverdikt.com/en/blog/survivorship-bias-in-stock-market-backtesting",
-    "https://developer.stockfit.io/blog/point-in-time-data-backtesting",
-    "https://www.corr.ai/docs/methodology/point-in-time-data-lineage"
+    "https://www.scoopanalytics.com/blog/point-in-time-analysis-why-data-snapshotting-matters-in-business-decisions",
+    "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
+    "https://www.reddit.com/r/statistics/comments/okvglq/q_how_does_survivorship_bias_impact_survival/",
+    "https://thedecisionlab.com/biases/survivorship-bias",
+    "https://www.bellstatistics.com/glossary/survivorship-bias",
+    "https://quant.stackexchange.com/questions/81631/simple-approach-to-estimate-survivorship-bias-in-backtest",
+    "https://www.sciencedirect.com/science/article/pii/S0304405X99000409",
+    "https://medium.com/data-science-collective/survivorship-bias-for-humans-how-to-spot-the-data-that-isnt-there-973dff1a8a00",
+    "https://sharpely.in/blogs/bias-free-backtesting-explained-sharpely-uses-point-time-data-avoid-look/",
+    "https://powakadata.com/survivorship-bias-backtesting.html"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "site:note.com ポイントインタイム（当時公表済みの資料だけで過去を評価する）と生き残りの偏りの防ぎ方（アナリスト・バックテスト・調査）",
    "results": [
-    "https://note.com/",
+    "https://note.com/good_dill292/n/n93c0053a3deb",
+    "https://note.com/automationjp/n/nedc6c5889a1e",
+    "https://note.com/right_minnow9076/n/n62a51fb5e91c",
+    "https://note.com/tata_15/n/n11ebe7d5b8be",
+    "https://note.com/qvb/n/n931062c31482",
+    "https://note.com/masa13_/n/n1f4df2dd4113",
     "https://note.com/ore_ore/n/n44a250debaba",
-    "https://note.com/todd547/n/nf06d432f2d9b",
     "https://note.com/major_duck1729/n/n1425d76ac17b",
-    "https://note.com/k_abe_raxus/n/n9bfc1aabc922",
-    "https://note.com/tokushima_10940/n/n47a17e03aeea",
-    "https://note.com/sherpa1922/n/n708ac3de46e1"
+    "https://note.com/todd547/n/nf06d432f2d9b",
+    "https://note.com/k_abe_raxus/n/n9bfc1aabc922"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 13
   },
   {
    "query": "site:x.com ポイントインタイム（当時公表済みの資料だけで過去を評価する）と生き残りの偏りの防ぎ方（アナリスト・バックテスト・調査）",
@@ -1059,12 +1138,12 @@
     "https://x.com/Qkn3R/status/2097588776055005348",
     "https://communitynotes.x.com/guide/ja/contributing/writing-and-rating-impact",
     "https://x.com/Ecccm2Ecccm/status/2092222628350357999",
-    "https://x.com/shigeruinagaki3/status/2116984197529374891",
-    "https://x.com/KabuTaro/status/2115357660749189482",
-    "https://x.com/mUbcnicb9jfK33h/status/2031639371355664725"
+    "https://x.com/toyomane/status/2055225594061975814",
+    "https://x.com/sharoushi_drill/status/2112396182421147990",
+    "https://x.com/Dataibridge_01/status/2118932542636396618"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -1077,60 +1156,92 @@
     "https://jp.linkedin.com/pulse/turning-historical-data-future-valuation-insights-guide-5mduc?tl=ja",
     "https://jp.linkedin.com/pulse/why-performance-appraisals-stink-most-people-dont-look-tony-moorcroft?tl=ja",
     "https://jp.linkedin.com/posts/健佑-大原-664537208_組織を腐らせる人事考課のngパターンについて-最も罪深いのは現場の一次評価-activity-7440973479673327616-JHcw",
-    "https://jp.linkedin.com/posts/mkuroda_デロイトが国に納品したスライド351枚全部数えたらパターンは7つだけだった-activity-7483063287903846400-ABIR"
+    "https://jp.linkedin.com/pulse/self-assessing-your-leadership-overcoming-self-bias-two-jack-craven-ouacc?tl=ja"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
   {
    "query": "site:facebook.com ポイントインタイム（当時公表済みの資料だけで過去を評価する）と生き残りの偏りの防ぎ方（アナリスト・バックテスト・調査）",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://www.facebook.com/impress.madonomori/posts/windows-11の新しい復旧オプションポイントインタイム-リストアが一般提供ユーザーデータも復旧対象osがぶっ壊れても24時間以内のシステム状態に戻せる/1645920194208837/",
+    "https://www.facebook.com/dsol.sijirei/photos/cisco-secure-endpoint旧amp-for-endpointsのページを更新しました巧妙化する脅威に対してポイントインタイムpoint-in-t/1867865660080080/",
+    "https://www.facebook.com/dsol.sijirei/posts/cisco-secure-endpoint旧amp-for-endpointsのページを更新しました巧妙化する脅威に対してポイントインタイムpoint-in-t/1867138923486087/",
+    "https://www.facebook.com/watarutb/posts/武田熙先生のあまり世に知られていない資料です原pdfから武術部分だけの抜き出し以前にも紹介したかもしれませんが武田熙-通背拳法/37889794233999702/",
+    "https://www.facebook.com/imitsu.jp/videos/人事評価を経営に活かす自社に合うシステムを無料診断/1733604454337935/",
+    "https://www.facebook.com/strategicfunnel/videos/ひとつの資料を1日で完成させる/28634201626211331/",
+    "https://www.facebook.com/guricoproduce/videos/書いただけで授業が変わるとは考えにくい国の資料にこう書いてありました自分たちの打ち手についてです内容は表形式になりデジタルで届くようになるここまでが前回までの話/1068667069105014/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "ポイントインタイム（当時公表済みの資料だけで過去を評価する）と生き残りの偏りの防ぎ方（アナリスト・バックテスト・調査） note 社長",
    "results": [
-    "https://btctiming.com/ja/blog/lookahead-bias-onchain-backtest",
-    "https://sggroup.jp/ja/article/macro-research-workbench/macro-regime-point-in-time/",
-    "https://media.tcdigital.jp/ai-knowledge-flow/articles/prediction-model-data-leakage-prevention/",
-    "https://note.com/todd547/n/nf06d432f2d9b",
-    "https://wakara.co.jp/mathlog/20251230",
-    "https://sggroup.jp/ja/article/macro-research-workbench/macro-guide/",
-    "https://www.ibm.com/docs/ja/cognos-analytics/11.2.x?topic=metrics-how-metric-data-is-gathered"
+    "https://note.com/utokyo_phd_papa/n/n250bcff4ff63",
+    "https://note.com/ku2t/n/n73300b122872",
+    "https://www.reddit.com/r/Bogleheads/comments/1u4h4e0/if_past_performance_is_not_indicative_of_future/?tl=ja",
+    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
+    "https://note.com/jiro_nakagawa/n/nf8c14dbdc2dc",
+    "https://note.jp/n/n7917dc1cdfe9",
+    "https://www.gsm.kyoto-u.ac.jp/wp-content/uploads/KAFM-WJ012%E7%A0%94%E7%A9%B6%E3%83%8E%E3%83%BC%E3%83%88_%E5%B2%A1%E7%94%B0_%E7%A0%82%E5%B7%9D.pdf",
+    "https://www.jpx.co.jp/equities/follow-up/jr4eth0000004vj2-att/mklp77000000lyr3.pdf",
+    "https://note.com/kabuberry_/n/nce46f6d65d6f",
+    "https://btctiming.com/ja/blog/lookahead-bias-onchain-backtest"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "ポイントインタイム（当時公表済みの資料だけで過去を評価する）と生き残りの偏りの防ぎ方（アナリスト・バックテスト・調査） X 投稿",
    "results": [
-    "https://learn.microsoft.com/ja-jp/azure/machine-learning/offline-retrieval-point-in-time-join-concepts?view=azureml-api-2",
-    "https://btctiming.com/ja/blog/lookahead-bias-onchain-backtest",
-    "https://sggroup.jp/ja/article/macro-research-workbench/macro-regime-point-in-time/",
-    "https://media.tcdigital.jp/ai-knowledge-flow/articles/prediction-model-data-leakage-prevention/",
-    "https://sggroup.jp/ja/article/macro-research-workbench/macro-guide/",
-    "https://note.com/todd547/n/nf06d432f2d9b",
-    "https://qiita.com/gksrlf3552/items/d112e6fbf9a3b1b66074"
+    "https://communitynotes.x.com/guide/ja/contributing/writing-and-rating-impact",
+    "https://dxpo.jp/college/front/digitalmarketing/x-algorithm.html",
+    "https://prtimes.com/magazine/twitter-measurement-of-effectiveness/",
+    "https://note.com/ogataka/n/n51f144be23b1",
+    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
+    "https://www.wantedly.com/companies/liddell/post_articles/985591",
+    "https://www.nikkei.com/article/DGXZQOUD233LN0T20C25A9000000/",
+    "https://jp.edanz.com/blog/qol96",
+    "https://camtsuku.com/guide/3811",
+    "https://learn.microsoft.com/ja-jp/azure/machine-learning/offline-retrieval-point-in-time-join-concepts?view=azureml-api-2"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "point in time data survivorship bias research analyst method site:linkedin.com",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://www.linkedin.com/advice/3/how-can-you-avoid-survivorship-bias-when-backtesting-f7hxc",
+    "https://www.linkedin.com/posts/yanzhonghuang_how-to-build-a-point-in-time-pit-equity-activity-7396352125276078081-mpce",
+    "https://www.linkedin.com/pulse/research-public-survivor-bias-meets-customer-trust-christina-garnett-2gfae",
+    "https://www.linkedin.com/pulse/how-does-quant-researcher-actually-discover-new-trading-mehul-mehta-3qw4f",
+    "https://www.linkedin.com/posts/david-innocent-5427a3199_one-of-the-fastest-ways-to-weaken-a-study-activity-7487054800744951808-09_b",
+    "https://www.linkedin.com/pulse/survivorship-bias-higher-education-stuart-norton-wcjcc",
+    "https://sg.linkedin.com/company/financialfilingscom",
+    "https://www.linkedin.com/posts/baak_my-phd-advisor-told-me-the-first-step-in-activity-7518544142180806656-_aub",
+    "https://uk.linkedin.com/in/gnedenko",
+    "https://in.linkedin.com/jobs/view/data-research-specialist-equity-strategy-at-acuity-analytics-4473663947"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 11,
+ "runs": 12,
  "first_researched_at": "2026-11-06T17:25:05.206776+00:00"
 }

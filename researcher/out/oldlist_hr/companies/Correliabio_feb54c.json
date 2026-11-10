@@ -1,0 +1,464 @@
+{
+ "name": "Correliabio",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-10T18:16:43.948931+00:00",
+ "official_url": "https://www.correliabio.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "検索結果の抜粋": [
+   {
+    "quote": "Correlia Biosystems | LinkedIn — Correlia Biosystems | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/correlia-biosystems",
+    "pass": 3
+   },
+   {
+    "quote": "Correlia Biosystems - Crunchbase Company Profile & Funding — Correlia Biosystems - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > correli...",
+    "url": "https://www.crunchbase.com/organization/correlia-biosystems",
+    "pass": 3
+   },
+   {
+    "quote": "Company - correliabio — Company - correliabio correliabio https://correliabio.com > company",
+    "url": "https://correliabio.com/company/",
+    "pass": 3
+   }
+  ],
+  "採用・広告の製品": [
+   {
+    "quote": "We are a growing team of scientists and engineers with diverse expertise in engineering, biology, physics, and software. We value innovation, focus, caring for others, and we’re working hard to expand the power of proteomics for data-driven biology.",
+    "url": "https://correliabio.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "Kwasi completed his PhD in Bioengineering at UC Berkeley/UCSF where he developed microscale assays for quantitative biology. He previously worked as a systems engineer at Boeing Satellite Systems and was a founder and principal investigator at Quantsupport. He obtained his BS/MS in Aeronautics and Astronautics from MIT.",
+    "url": "https://correliabio.com/company/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Correlia Biosystems (@Correlia_Bio) / X Correlia Biosystems (@Correlia_Bio) / X X https://x.com > Correlia_Bio",
+    "url": "https://x.com/Correlia_Bio",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Correlia Biosystems | LinkedIn Correlia Biosystems | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/correlia-biosystems",
+    "pass": 3
+   },
+   {
+    "quote": "Akwasi Apori - Co-founder & CEO at Correlia Biosystems Akwasi Apori - Co-founder & CEO at Correlia Biosystems LinkedIn https://www.linkedin.com > ...",
+    "url": "https://www.linkedin.com/in/akwasi-apori-465b5211",
+    "pass": 3
+   },
+   {
+    "quote": "Alicia Furlan - Research Associate III at Correlia Biosystems Alicia Furlan - Research Associate III at Correlia Biosystems LinkedIn https://www.linkedin.com > ...",
+    "url": "https://www.linkedin.com/in/alicia-furlan-b3a635139",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.correliabio.com",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.goo-net.com/magazine/cartopic/event-report/294321/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://octane.jp/articles/detail/10727",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.webcg.net/articles/-/51678",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cocorobi.co.jp/column/agency-referral-reseller-difference/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.ecorays.co.jp/what_agency.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cosmobio.co.jp/agency/agency.asp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recommjapan.co.jp/agent-recruitment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/correlia-biosystems",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://editions-komorebi.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan.travel/en/uk/inspiration/postcards-cornyco/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.curriebrown.com/locations/asia-pacific/japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agcbio.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flexwareinnovation.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.factbird.com/resources/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.insights.bio/cell-and-gene-therapy-insights/journal/article/2265/cGMP-manufacturing-made-easy-a-case-study-by-ElevateBio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intermedia.com/resellers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://webinone.com/reseller-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/correlia-biosystems",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.revenue.io/revenue-investors",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reveliolabs.com/companies/funding-options/employees",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://correliabio.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Correlia_Bio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/correlia-biosystems",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/akwasi-apori-465b5211",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/alicia-furlan-b3a635139",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Correlia_Bio",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Correliabio 日本 導入",
+   "results": [
+    "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "https://www.goo-net.com/magazine/cartopic/event-report/294321/",
+    "https://octane.jp/articles/detail/10727",
+    "https://www.webcg.net/articles/-/51678",
+    "https://www.cadillacjapan.com/electric/lyriq/discover/event-report",
+    "https://topgear.tokyo/2026/06/92855",
+    "https://bestcarweb.jp/news/scoop/715808",
+    "https://niigata-reha.jp/news/info/202203013116/",
+    "https://correliabio.com/",
+    "https://pitchbook.com/profiles/company/90279-64"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Correliabio 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://cocorobi.co.jp/column/agency-referral-reseller-difference/",
+    "http://www.ecorays.co.jp/what_agency.html",
+    "https://www.cosmobio.co.jp/agency/agency.asp",
+    "https://recommjapan.co.jp/agent-recruitment/",
+    "https://b-seeds.com/products/re-delivery",
+    "https://joto-smeca.com/member-news/20241106kokusai/",
+    "https://www.greenbee.co.jp/partner/",
+    "https://www.saibou.jp/agency/",
+    "https://www.cardiovascular.abbott/jp/ja/customer-service.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Correliabio Japan",
+   "results": [
+    "https://www.linkedin.com/company/correlia-biosystems",
+    "https://editions-komorebi.com/en/",
+    "https://www.japan.travel/en/uk/inspiration/postcards-cornyco/",
+    "https://www.curriebrown.com/locations/asia-pacific/japan/",
+    "https://en.wikipedia.org/wiki/Cabinet_Intelligence_and_Research_Office",
+    "https://orchidroots.com/display/summary/orchidaceae/101030028/",
+    "https://www.hilton.com/en/locations/japan/curio-collection/",
+    "https://www.ricola.com/en-asia/products/jp/",
+    "https://en.japantravel.com/tokyo/coredo-muromachi/18843",
+    "https://pitchbook.com/profiles/company/90279-64"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Correliabio manufacturing customer case study",
+   "results": [
+    "https://www.agcbio.com/case-studies",
+    "https://www.flexwareinnovation.com/case-studies/",
+    "https://www.factbird.com/resources/case-studies",
+    "https://www.insights.bio/cell-and-gene-therapy-insights/journal/article/2265/cGMP-manufacturing-made-easy-a-case-study-by-ElevateBio",
+    "https://www.minitab.com/en-us/resources-services/resources/case-studies/",
+    "https://optimation.rebuildmanufacturing.com/case-studies/",
+    "https://www.medallia.com/customers/",
+    "https://a4bee.com/cases/",
+    "https://cyclelabs.io/customer-success-stories/",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Correliabio white label OR reseller OR partner program",
+   "results": [
+    "https://www.intermedia.com/resellers",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://webinone.com/reseller-program",
+    "https://journeybee.io/resources/beyond-co-branding-why-white-label-partner-software-defines-winning-partnerships",
+    "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://posbytz.com/en/partners/",
+    "https://correliabio.com/",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Correliabio founded funding employees revenue",
+   "results": [
+    "https://www.crunchbase.com/organization/correlia-biosystems",
+    "https://www.revenue.io/revenue-investors",
+    "https://www.reveliolabs.com/companies/funding-options/employees",
+    "https://correliabio.com/company/",
+    "https://www.owler.com/company/incresearch",
+    "https://www.bioworld.com/articles/500613-correlia-biosystems-nabs-7-million-in-series-a-financing",
+    "https://www.finsmes.com/2020/12/correlia-biosystems-raises-7m-in-series-a-funding.html",
+    "https://research.contrary.com/company/formation-bio",
+    "https://ipira.berkeley.edu/correlia-biosystems-inc",
+    "https://indexed.vc/companies/correlia-biosystems"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Correliabio",
+   "results": [
+    "https://note.com/royal_vole835",
+    "https://note.com/keihin_4/n/n7be5d691c5d7",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/fukubiyori/n/n4bea216f13f4",
+    "https://note.com/ueda_news24/n/n593474115c49",
+    "https://note.com/neon_shuffle/n/n67c0209c335c"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Correliabio",
+   "results": [
+    "https://x.com/Correlia_Bio",
+    "https://x.com/",
+    "https://x.com/CiraCorellia",
+    "https://help.x.com/zh-tw/using-x",
+    "https://x.com/RyanAFournier/status/2117296789443240367",
+    "https://x.com/RainyTime4902/status/2120091756796756337",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/_InfoGram_/status/2118253289573949943"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:linkedin.com Correliabio",
+   "results": [
+    "https://www.linkedin.com/company/correlia-biosystems",
+    "https://www.linkedin.com/in/akwasi-apori-465b5211",
+    "https://www.linkedin.com/in/alicia-furlan-b3a635139",
+    "https://www.linkedin.com/in/samtia",
+    "https://www.linkedin.com/in/javiernoris",
+    "https://pr.linkedin.com/in/jramphis",
+    "https://www.linkedin.com/posts/correlia-biosystems_immunoassay-elisa-immunotherapy-activity-7142498788417413120-414U",
+    "https://www.linkedin.com/posts/correlia-biosystems_slas2022-activity-6896853436617383936-RVZo",
+    "https://www.linkedin.com/products/correlia-biosystems-pixi-automated-immunoassay-platform/",
+    "https://www.linkedin.com/posts/correlia-biosystems_excited-aacr2019-elisa-activity-6518546944481202176-KfNP"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:facebook.com Correliabio",
+   "results": [
+    "https://www.facebook.com/correlia.makuika/",
+    "https://www.facebook.com/correlia.mabotho/",
+    "https://secure.facebook.com/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/\u0000jperes88/",
+    "https://www.facebook.com/Correlia.art/",
+    "https://www.facebook.com/allianceCD/posts/meet-2014bacc-startup-pitch-finalist-this-thurs-akwasi-apori-of-correlia_bio-mak/828418653846698/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Correliabio note 社長",
+   "results": [
+    "https://note.com/sadaaki",
+    "https://diamond.jp/articles/-/388572",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://x.com/sadaaki",
+    "https://note.com/corelinevc_japan",
+    "https://ja.wikipedia.org/wiki/%E5%8A%A0%E8%97%A4%E8%B2%9E%E9%A1%95",
+    "https://note.com/relic_inc",
+    "https://note.com/kentakato212/m/me837e4663584",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Correliabio X 投稿",
+   "results": [
+    "https://x.com/Correlia_Bio",
+    "https://math.stackexchange.com/questions/3557659/is-it-always-true-that-operatornamecorrax-by-operatornamecorrx-y-f",
+    "https://x.com/CoryBooker",
+    "https://www.instagram.com/corrie_x/",
+    "https://choreo.autos/choreolib/getting-started/",
+    "https://x.com/kingcorio",
+    "https://git.citizensforeurope.org/explore/projects/topics/correlaid?language_name=JavaScript&sort=latest_activity_desc",
+    "https://eow.alc.co.jp/search?q=correlation",
+    "https://x.com/twaniimals/status/1715504528064233800",
+    "https://correliabio.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）"
+ }
+}

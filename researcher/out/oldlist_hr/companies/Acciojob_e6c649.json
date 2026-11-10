@@ -1,0 +1,996 @@
+{
+ "name": "Acciojob",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜未接触",
+ "researched_at": "2026-11-10T18:51:29.820252+00:00",
+ "official_url": "http://www.acciojob.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Most praised",
+    "value": "Placement support and DSA practice",
+    "url": "https://acciojob.com/acciojob-reviews",
+    "pass": 1
+   },
+   {
+    "label": "Most praised",
+    "value": "Hands-on SQL, Excel and Power BI projects",
+    "url": "https://acciojob.com/acciojob-reviews",
+    "pass": 1
+   },
+   {
+    "label": "Most praised",
+    "value": "Real ML projects with mentor feedback",
+    "url": "https://acciojob.com/acciojob-reviews",
+    "pass": 1
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2018, Gurugram, Haryana",
+    "url": "https://acciojob.com/about-us",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Industry Ready Training to get you placed!",
+    "url": "https://acciojob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "If you're skilled, get hired directly with our FREE verified hiring drives!",
+    "url": "https://acciojob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "+240 companies hiring",
+    "url": "https://acciojob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Gain practical tech skills and access opportunities with leading companies across India.",
+    "url": "https://acciojob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2nd Floor, D-69, D Block, Sector 2, Noida, Uttar Pradesh 201301",
+    "url": "https://acciojob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Hiring Drives Conducted Every Month",
+    "url": "https://acciojob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Students Placed from Offline Programs",
+    "url": "https://acciojob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Hiring Drives at our Skill Centres",
+    "url": "https://acciojob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Offline Hiring Drives",
+    "url": "https://acciojob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing Analyst Intern",
+    "url": "https://acciojob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "IIT Delhi grad driving scale, growth & marketing to make tech education truly career-changing.",
+    "url": "https://acciojob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "IIT Delhi grad connecting students to top companies & building future-proof careers.",
+    "url": "https://acciojob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "What stood out to me in the Full Stack Development with GenAI course was the mentor support. They didn't just teach concepts, they guided us on how to apply them in real projects. Working on multiple end-to-end projects gave me the confidence to face technical interviews.",
+    "url": "https://acciojob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The curriculum was very detailed and thoughtfully designed, which helped me build strong fundamentals. The mentors made learning easier by explaining concepts practically and guiding us through projects.",
+    "url": "https://acciojob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The career preparation team supported me throughout the journey, from building my resume to preparing for technical and HR interviews. Regular mock interviews, detailed feedback, and one-on-one guidance helped me understand where I needed to improve.",
+    "url": "https://acciojob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "I attended AccioJob's free hiring drives without enrolling in any course. The process was transparent and well-managed, and it gave me access to quality companies. One of these drives helped me secure my role at Gameberry Labs.",
+    "url": "https://acciojob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The curriculum was well-designed and comprehensive. The tools and technologies covered during the course were aligned with industry requirements, which helped me stay relevant and confident during interviews.The hands-on projects and guided practice made a real difference in how I approached problem-solving.",
+    "url": "https://acciojob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The program helped me improve my overall understanding of projects and coordination. The structured learning and practical approach made concepts clear and easy to apply. This support played a role in helping me secure my position at Livspace.",
+    "url": "https://acciojob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A big part of my learning experience came from the support of my peers and instructors. Working together on projects helped me learn faster and solve problems more effectively. The instructors were always available to guide us and clear doubts whenever needed.",
+    "url": "https://acciojob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AccioJob's course helped me a lot in building strong technical skills. The curriculum is practical and well-structured, and the mentors are supportive and experienced. I learned real-world tools and concepts that made it easier to land a great job.",
+    "url": "https://acciojob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Mock interviews and placement drives were game-changers for me. The practice sessions built my confidence, and the placement support helped me secure a great job. The mentors guided me every step of the way.",
+    "url": "https://acciojob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The mentors at AccioJob have a very clear and practical teaching approach. They explain complex concepts in a simple way and focus on real-world examples. Doubts are addressed patiently, which makes learning comfortable and effective. Their guidance helped me gain confidence and improve my problem-solving skills.",
+    "url": "https://acciojob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AccioJob offers offline classroom courses, live online programs, and self-paced courses for learners across India.",
+    "url": "https://acciojob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, AccioJob has offline training centres in select Indian cities such as Noida, Hyderabad, Pune and Chennai, where students receive in-person mentorship, live classes, and placement support.",
+    "url": "https://acciojob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Do AccioJob courses include real-world projects?",
+    "url": "https://acciojob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "As reported by AccioJob across programs.",
+    "url": "https://acciojob.com/acciojob-reviews",
+    "pass": 1
+   },
+   {
+    "quote": "Students most often credit the structured curriculum, projects and doubt sessions. Most also emphasized on daily effort, for desired results.",
+    "url": "https://acciojob.com/acciojob-reviews",
+    "pass": 1
+   },
+   {
+    "quote": "Placement support & hiring drives",
+    "url": "https://acciojob.com/acciojob-reviews",
+    "pass": 1
+   },
+   {
+    "quote": "AccioJob's hiring drives gave me an opportunity to demonstrate my software development skills and interview preparation.",
+    "url": "https://acciojob.com/acciojob-reviews",
+    "pass": 1
+   },
+   {
+    "quote": "Participating in AccioJob's hiring process gave me an opportunity to demonstrate my coding skills and interview readiness.",
+    "url": "https://acciojob.com/acciojob-reviews",
+    "pass": 1
+   },
+   {
+    "quote": "Building projects, practising coding and preparing for interviews helped me begin my career at Xpentra.",
+    "url": "https://acciojob.com/acciojob-reviews",
+    "pass": 1
+   },
+   {
+    "quote": "Mock interviews & interview prep",
+    "url": "https://acciojob.com/acciojob-reviews",
+    "pass": 1
+   },
+   {
+    "quote": "Structured coding practice and mock interviews helped me prepare for software engineering interviews.",
+    "url": "https://acciojob.com/acciojob-reviews",
+    "pass": 1
+   },
+   {
+    "quote": "Offline classes made it easier to practise coding, work on projects and get guidance from mentors.",
+    "url": "https://acciojob.com/acciojob-reviews",
+    "pass": 1
+   },
+   {
+    "quote": "The offline learning environment in Pune gave me opportunities to practise MERN development, build projects and learn alongside other students.",
+    "url": "https://acciojob.com/acciojob-reviews",
+    "pass": 1
+   },
+   {
+    "quote": "Building projects, practising coding and getting support with doubts helped me prepare for my role as a Software Engineer Intern at Instafix.",
+    "url": "https://acciojob.com/acciojob-reviews",
+    "pass": 1
+   },
+   {
+    "quote": "It’s never too late to change your professional path.",
+    "url": "https://acciojob.com/acciojob-reviews",
+    "pass": 1
+   },
+   {
+    "quote": "What reviewers say takes effort — and what's not promised.",
+    "url": "https://acciojob.com/acciojob-reviews",
+    "pass": 1
+   },
+   {
+    "quote": "It means preparation and access to hiring companies.",
+    "url": "https://acciojob.com/acciojob-reviews",
+    "pass": 1
+   },
+   {
+    "quote": "Practice outside sessions is on you",
+    "url": "https://acciojob.com/acciojob-reviews",
+    "pass": 1
+   },
+   {
+    "quote": "Doubt sessions help, but projects and revision take your own time.",
+    "url": "https://acciojob.com/acciojob-reviews",
+    "pass": 1
+   },
+   {
+    "quote": "Check the course page for your program.",
+    "url": "https://acciojob.com/acciojob-reviews",
+    "pass": 1
+   },
+   {
+    "quote": "They show what’s possible, not what’s promised.",
+    "url": "https://acciojob.com/acciojob-reviews",
+    "pass": 1
+   },
+   {
+    "quote": "Pick a course to see who reviewed it, what they praised, what they found hard and where they ended up. Everything is on the basis of featured return reviews on this page.",
+    "url": "https://acciojob.com/acciojob-reviews",
+    "pass": 1
+   },
+   {
+    "quote": "Read experiences from students who used AccioJob's Full Stack Development & AI Engineering programs to build programming, development, project, and interview skills.",
+    "url": "https://acciojob.com/acciojob-reviews",
+    "pass": 1
+   },
+   {
+    "quote": "Working professionals",
+    "url": "https://acciojob.com/acciojob-reviews",
+    "pass": 1
+   },
+   {
+    "quote": "Placement support and DSA practice",
+    "url": "https://acciojob.com/acciojob-reviews",
+    "pass": 1
+   },
+   {
+    "quote": "Data Analytics reviews cover student experiences with tools and skills such as Excel, SQL, Power BI, Python, projects, interview preparation, mentorship, and placement support.",
+    "url": "https://acciojob.com/acciojob-reviews",
+    "pass": 1
+   },
+   {
+    "quote": "Hands-on SQL, Excel and Power BI projects",
+    "url": "https://acciojob.com/acciojob-reviews",
+    "pass": 1
+   },
+   {
+    "quote": "6-month program",
+    "url": "https://acciojob.com/acciojob-reviews",
+    "pass": 1
+   },
+   {
+    "quote": ", founded by IIT Delhi alumni and backed by Y Combinator. It trains students, graduates and early-career professionals in software development, AI and data through online, offline and self-paced programs, then connects them to interview preparation, hiring drives and placement support.",
+    "url": "https://acciojob.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Yashwardhan Burad, Harsh Sharma, Priyanshu Agarwal, Vishu Bansal (IIT Delhi alumni)",
+    "url": "https://acciojob.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "500+ hiring partners · 1,400+ hiring drives, as reported",
+    "url": "https://acciojob.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "AccioJob is a technology education and placement platform. It teaches job-relevant software, AI and data skills, prepares learners for assessments and interviews, and connects them to hiring drives with partner companies.",
+    "url": "https://acciojob.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Built for college students, recent graduates and early-career professionals, including career-switchers from non-technical backgrounds and people returning after a gap.",
+    "url": "https://acciojob.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Programs in full stack, AI engineering and data.",
+    "url": "https://acciojob.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Projects, assessments, mock interviews, resume help.",
+    "url": "https://acciojob.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "For enrolled learners; varies by program",
+    "url": "https://acciojob.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Hiring drives and openings from partner companies.",
+    "url": "https://acciojob.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "For eligible candidates, enrolled or not",
+    "url": "https://acciojob.com/about-us",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "A big part of my learning experience came from the support of my peers and instructors. Working together on projects helped me learn faster and solve problems more effectively. The instructors were always available to guide us and clear doubts whenever needed.",
+    "url": "https://acciojob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "I started the MERN recorded course while completing my BTech. Learning at my own pace helped me fit the lessons around college and revisit topics I found difficult. I joined Snabbit as an SDE Intern, with a full-time offer listed at 12 LPA.",
+    "url": "https://acciojob.com/acciojob-reviews",
+    "pass": 1
+   },
+   {
+    "quote": "Support from my peers and instructors was a big part of my learning experience. Working together on projects helped me learn faster and solve problems more effectively. Instructors were available to guide me and clear my doubts whenever needed.",
+    "url": "https://acciojob.com/acciojob-reviews",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Noida’s Google rating is listed under Reviews by centre, with a link to the full review list on Google. For courses and batches, see the AccioJob Noida page.",
+    "url": "https://acciojob.com/acciojob-reviews",
+    "pass": 1
+   },
+   {
+    "quote": "Listed in YC’s company directory",
+    "url": "https://acciojob.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Companies that have listed roles or run hiring drives with AccioJob. This is not the same as the number of companies that have hired an AccioJob learner.",
+    "url": "https://acciojob.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. AccioJob is a registered, operating company in Gurugram, founded by IIT Delhi alumni, listed in Y Combinator's company directory, with Skill Centres in four cities. Check each claim yourself below, including sources AccioJob doesn't control.",
+    "url": "https://acciojob.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. AccioJob was part of Y Combinator's Winter 2019 (W19) batch and appears in",
+    "url": "https://acciojob.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "AccioJob is real. It is a registered company headquartered in Gurugram, listed in Y Combinator’s company directory, with Skill Centres in Noida, Pune, Hyderabad and Chennai. The “Verify it yourself” section on this page lists independent sources for each claim.",
+    "url": "https://acciojob.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. AccioJob was part of Y Combinator’s Winter 2019 batch and is listed in YC’s company directory. YC backing does not guarantee course quality or placement outcomes.",
+    "url": "https://acciojob.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "AccioJob reports 500+ hiring partners: companies that have listed roles or run drives with AccioJob.",
+    "url": "https://acciojob.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "The dashboard provides a clear overview of job statistics, opportunities, and application statuses upon arrival. This immediate visibility reduces confusion and equips students with vital information from the start.",
+    "url": "https://prezi.com/p/dzrwut0wfel2/acciojob-dashboard-case-study",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Spotted something inaccurate? Email",
+    "url": "https://acciojob.com/acciojob-reviews",
+    "pass": 1
+   },
+   {
+    "quote": "Something went wrong. Please try again, or email support@retellai.com if it keeps happening.",
+    "url": "https://www.retellai.com/ja/case-study/how-acciojob-saw-a-70-reduction-in-false-positive-assessments-with-retell-ai",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "– 海外発のプラットフォームの場合、日本語サポートや日本企業への就職支援の充実度を確認する必要がある",
+    "url": "https://peaky.co.jp/acciojob/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、料金体系や日本市場での具体的なサービス内容については、事前に十分な確認が必要です",
+    "url": "https://peaky.co.jp/acciojob/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "AccioJob – フルスタック・データサイエンス学習と就職支援を一体化し... — Nov 3, 2025 · AccioJobは、フルスタック開発やデータサイエンスを学べる実践型オンライン教育プラットフォームです。専門家による指導、実践的なプロジェクト、そして就職サポートまでを一体化。エンジニアやデータサイエンティストへのキャリアチェンジを本気で目指す方に最適な総合学習環境を提供し ...",
+    "url": "https://peaky.co.jp/acciojob/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様事例: AccioJob | Zoom — AccioJobがZoomデベロッパー向けプラットフォームのソリューションを使用して、コラボレーションを強化し、学生の学習体験を向上させた方法をご覧ください。",
+    "url": "https://www.zoom.com/ja/customer-stories/acciojob/",
+    "pass": 3
+   },
+   {
+    "quote": "AccioJob - Best Tech Courses with Placement Support — Master Full Stack, Data Science & Data Analytics at AccioJob. Get expert-led training, hands-on projects, and access to our free hiring drives & placement support.",
+    "url": "https://acciojob.com/",
+    "pass": 3
+   },
+   {
+    "quote": "AccioJob: 誤検知70%削減 | Retell AI — 候補者がすでに評価の完了に1時間以上を費やしているため、AccioJob は不正者を検出する迅速でシームレスな方法を必要としていました。 最も率直なアプローチは、候補者の最高得点の回答を狙った短いフォローアップ質問を導入することでした。",
+    "url": "https://www.retellai.com/ja/case-study/how-acciojob-saw-a-70-reduction-in-false-positive-assessments-with-retell-ai",
+    "pass": 3
+   },
+   {
+    "quote": "マイナビ、インドのIT技術研修スタートアップ2社に出資(インド、日本)... — Apr 15, 2022 · マイナビは3月31日、インドの大学生や大学卒業生に対して実務的なIT技術研修と就職支援サービスを提供するインド発スタートアップ2社に出資したと発表した。今回出資したのは、2018年設立のアキオジョブ（ACCIOJOB）と2020 ...",
+    "url": "https://www.jetro.go.jp/biznews/2022/04/da57ccb75bd79929.html",
+    "pass": 3
+   },
+   {
+    "quote": "AccioJob Placement Records | See Our Hiring Partners — Join AccioJob’s network of 500+ employers, including top tech companies. Secure roles with an 8 LPA average salary. View placement records and apply now!",
+    "url": "https://placement.acciojob.com/placements/",
+    "pass": 3
+   },
+   {
+    "quote": "About AccioJob: Our Story, Founders & Skill Centres — AccioJob is a YC-backed tech education and placement platform founded by IIT Delhi alumni. Meet the founders, see our Skill Centres and verify our outcomes.",
+    "url": "https://acciojob.com/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "Scam Alert by AccioJob !! Please read everything carefully i ... — Scam Alert by AccioJob !! Please read everything carefully i am with Acciojob since December 22 i am from non tech background when i took admission AccioJob counslor told me that this course ...",
+    "url": "https://www.linkedin.com/posts/mayankahuja1011_scam-alert-by-acciojob-please-read-everything-activity-7100165341502189569-Ulaz",
+    "pass": 3
+   },
+   {
+    "quote": "AccioJob - Hiring Drives | LinkedIn — This is a sister page of AccioJob - This page is dedicated to conducting offline hiring drives with our partner companies. We will be regularly posting fresher jobs in tech sector. So, follow if ...",
+    "url": "https://www.linkedin.com/company/acciojob-hiring-drives/",
+    "pass": 3
+   },
+   {
+    "quote": "Infobip Case Study: AccioJob – AccioJob Elevating customer ... — AccioJob (Higher Education) partnered with Infobip (Information Technology and Services) to solve key challenges. \"AccioJob Elevating customer interactions with automation and omnichannel connectivity\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/infobip/case-study/802c-acciojob-elevating-customer-interactions-with-automation-and-omnichannel-connectivity",
+    "pass": 3
+   },
+   {
+    "quote": "AccioJob Dashboard Case Study - Prezi — Mar 17, 2025 · Client: AccioJob AccioJob is a leading platform focused on student hiring, seeking to streamline the recruitment process between students and employers through innovative digital solutions. Utilized Figma for creating wireframes, UI design, and prototyping; FigJam was employed for mapping user journeys and collaborative brainstorming sessions.",
+    "url": "https://prezi.com/p/dzrwut0wfel2/",
+    "pass": 3
+   },
+   {
+    "quote": "AccioJob: Elevating customer interactions with automation and ... — Find out how AccioJob improved both customer and employee satisfaction with WhatsApp and Infobip solutions.",
+    "url": "https://www.infobip.com/customer/acciojob",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How AccioJob Uses Software & Services — Explore case studies featuring AccioJob as the customer — learn how vendors and partners helped AccioJob solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/acciojob",
+    "pass": 3
+   },
+   {
+    "quote": "How AccioJob Automated 95% of Lead Allocation with ... - YouTube — In this customer story, Yashwardhan Burad, Co-founder & CEO of AccioJob, walks through how the company went from a placement management SaaS for colleges to an upskilling institute, and why the ...",
+    "url": "https://www.youtube.com/watch?v=JoB3yx_EtDk",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Case Study: AccioJob achieves faster support and higher customer satisfaction with Infobip | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/infobip/case-study/802c-acciojob-elevating-customer-interactions-with-automation-and-omnichannel-connectivity",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: AccioJob achieves faster support and higher customer satisfaction with Infobip",
+    "url": "https://www.casestudies.com/company/infobip/case-study/802c-acciojob-elevating-customer-interactions-with-automation-and-omnichannel-connectivity",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/infobip/case-study/802c-acciojob-elevating-customer-interactions-with-automation-and-omnichannel-connectivity",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/infobip/case-study/802c-acciojob-elevating-customer-interactions-with-automation-and-omnichannel-connectivity",
+    "pass": 3
+   },
+   {
+    "quote": "AccioJob Dashboard Case Study | Prezi",
+    "url": "https://prezi.com/p/dzrwut0wfel2/acciojob-dashboard-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "AccioJob Dashboard Case Study",
+    "url": "https://prezi.com/p/dzrwut0wfel2/acciojob-dashboard-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories about Software and Services used by AccioJob",
+    "url": "https://www.casestudies.com/customer/acciojob",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "AccioJob (@Acciojob_) / Posts and Replies / X NSDC'S recent alliance with @IITGuwahati and @Acciojob_ signifies a strategic partnership geared towards bolstering skill development and fostering job opportunities within the dynamic realm of advanced cybersecurity.",
+    "url": "https://x.com/Acciojob_/with_replies",
+    "pass": 3
+   },
+   {
+    "quote": "job (@acciojob) / X Follow Posts Posts RepliesReplies RepostsReposts MediaMedia job @acciojob Nov 6, 2020",
+    "url": "https://x.com/acciojob",
+    "pass": 3
+   },
+   {
+    "quote": "AccioJob on X: \"AccioJob's Offline Coding Classes have ... AccioJob's Offline Coding Classes have officially been launched! 🚀🚀🚀🚀🚀 #gurugram #Noida",
+    "url": "https://x.com/Acciojob_/status/1753322807474491757",
+    "pass": 3
+   },
+   {
+    "quote": "rohool_vaki on X: \"GoComet is hiring - ML Engineer 𝗥𝗼𝗹𝗲: ML .... AccioJob – Book Your Slot 2. Coding Test (~60 mins) + AI Interview (~30 mins) 3. Resume Evaluation 4. Coding Assignment (1.5 days / Virtual) 5. Technical Interview 1 (Assignment Review – 1.5 hr / Virtual) 6. Technical Interview 2 (Leadership Round – 30 min / Virtual) 7.",
+    "url": "https://x.com/Rahul1539482/status/2075099493842964929",
+    "pass": 3
+   },
+   {
+    "quote": "@acciojob_ | X The latest posts from @acciojob_",
+    "url": "https://x.com/acciojob_",
+    "pass": 3
+   },
+   {
+    "quote": "AccioJob (@Acciojob_) / Posts and Replies / X - x.com NSDC'S recent alliance with @IITGuwahati and @Acciojob_ signifies a strategic partnership geared towards bolstering skill development and fostering job opportunities within the dynamic realm of advanced cybersecurity.",
+    "url": "https://x.com/Acciojob_/with_replies",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "AccioJob Employees, Location, Alumni | LinkedIn AccioJob is building India's Career Launchpad, the most trusted Training and Placement company for Indian youth. Started by IIT Delhi Alumni, backed by Y Combinator & Mynavi and recognised in ...",
+    "url": "https://www.linkedin.com/school/acciojob/",
+    "pass": 3
+   },
+   {
+    "quote": "AccioJob - Hiring Drives | LinkedIn AccioJob - Hiring Drives | 3,085 followers on LinkedIn. Transforming Careers, One Student as a Time | This is a sister page of AccioJob - This page is dedicated to conducting offline hiring drives ...",
+    "url": "https://www.linkedin.com/company/acciojob-hiring-drives/",
+    "pass": 3
+   },
+   {
+    "quote": "Aman Goyal - Growth | LinkedInYashwardhan Burad - CEO & Co-Founder at AccioJob (YC W19 ...AccioJob: Alumni and Graduates | LinkedInAcciojob Jobs in Worldwide (12,000+ Open Roles) | LinkedInAccioJob Placements: Recent 10+ LPA Success Stories, Student ... Growth · AccioJob(www.acciojob.com) is a startup run by IIT Delhi Alumni and funded by Y Combinator. Check out our course Placement & Interview Ma",
+    "url": "https://in.linkedin.com/in/acciojob",
+    "pass": 3
+   },
+   {
+    "quote": "Yashwardhan Burad - CEO & Co-Founder at AccioJob (YC W19 ...AccioJob: Alumni and Graduates | LinkedInAcciojob Jobs in Worldwide (12,000+ Open Roles) | LinkedInAccioJob Placements: Recent 10+ LPA Success Stories, Student ... CEO & Co-Founder at AccioJob (YC W19) · As the CEO of AccioJob, I am solving the employability problem for graduates in India. Delivering high quality industry relevant educati",
+    "url": "https://in.linkedin.com/in/yashwardhanburad",
+    "pass": 3
+   },
+   {
+    "quote": "Yashwardhan Burad - CEO & Co-Founder at AccioJob (YC W19 ...About AccioJob: Our Story, Founders & Skill Centres加藤貞顕 - WikipediaYashwardhan Burad - CEO & Co-founder @ AccioJob - CrunchbaseAccioJob CEO, Founder, Key Executive Team, Board of Directors ...Harsh Sharma - AccioJob | LinkedInAccioJob - 2026 Company Profile & Team - Tracxn CEO & Co-Founder at AccioJob (YC W19) · As the CEO of AccioJob, I ",
+    "url": "https://in.linkedin.com/in/yashwardhanburad",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "AccioJob - Facebook AccioJob. 5,061 likes · 2,601 talking about this. AccioJob is an ed-tech startup run by IIT Delhi Alumni and backed by Y Combinator.",
+    "url": "https://www.facebook.com/p/AccioJob-100093141129848/",
+    "pass": 3
+   },
+   {
+    "quote": "AccioJob - Facebook AccioJob. 4,804 likes · 464 talking about this. AccioJob is an ed-tech startup run by IIT Delhi Alumni and backed by Y Combinator.",
+    "url": "https://www.facebook.com/AccioJob-100093141129848/",
+    "pass": 3
+   },
+   {
+    "quote": "AccioJob - 20+ companies are hiring right now ... - Facebook Aug 27, 2026 · 20+ companies are hiring right now 👀 Find all the job details and application links through the link in our bio. #FresherJobs #TechJobs #HiringNow...",
+    "url": "https://www.facebook.com/100093141129848/posts/20-companies-are-hiring-right-now-find-all-the-job-details-and-application-links/1037161646065197/",
+    "pass": 3
+   },
+   {
+    "quote": "AccioJob - AI-First SDET Internship at ... - Facebook Jun 26, 2026 · AI-First SDET Internship at GoComet is here! AccioJob is conducting a hiring drive with GoComet for the role of AI-First SDET Intern. Comment “JOB” to get the application link + complete...",
+    "url": "https://www.facebook.com/100093141129848/posts/-ai-first-sdet-internship-at-gocomet-is-here-acciojob-is-conducting-a-hiring-dri/983359781445384/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://acciojob.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://acciojob.com/acciojob-reviews",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://acciojob.com/about-us",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://peaky.co.jp/acciojob/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoom.com/ja/customer-stories/acciojob/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://acciojob.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.retellai.com/ja/case-study/how-acciojob-saw-a-70-reduction-in-false-positive-assessments-with-retell-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aktio.co.jp/company/outline_aktio.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://acciojob.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://placement.acciojob.com/placements/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://acciojob.com/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/mayankahuja1011_scam-alert-by-acciojob-please-read-everything-activity-7100165341502189569-Ulaz",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.casestudies.com/company/infobip/case-study/802c-acciojob-elevating-customer-interactions-with-automation-and-omnichannel-connectivity",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prezi.com/p/dzrwut0wfel2/acciojob-dashboard-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.infobip.com/customer/acciojob",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/acciojob",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Acciojob_/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/acciojob",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Acciojob_/status/1753322807474491757",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Rahul1539482/status/2075099493842964929",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/school/acciojob/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/acciojob-hiring-drives/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/acciojob",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/yashwardhanburad",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/AccioJob-100093141129848/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/AccioJob-100093141129848/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/100093141129848/posts/20-companies-are-hiring-right-now-find-all-the-job-details-and-application-links/1037161646065197/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/100093141129848/posts/-ai-first-sdet-internship-at-gocomet-is-here-acciojob-is-conducting-a-hiring-dri/983359781445384/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/yashwardhanburad",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/acciojob_",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Acciojob_/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Acciojob 日本 導入",
+   "results": [
+    "https://peaky.co.jp/acciojob/",
+    "https://www.zoom.com/ja/customer-stories/acciojob/",
+    "https://acciojob.com/",
+    "https://www.retellai.com/ja/case-study/how-acciojob-saw-a-70-reduction-in-false-positive-assessments-with-retell-ai",
+    "https://www.jetro.go.jp/biznews/2022/04/da57ccb75bd79929.html",
+    "https://ja.accio.com/",
+    "https://jp.linkedin.com/jobs/view/dshq-pj4dの日本導入におけるpmo業務-at-daiichi-sankyo-4446285557"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Acciojob 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.aktio.co.jp/company/outline_aktio.html",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.actio.co.jp/jobs/index.html",
+    "https://www.aon.com/japan/company-overview"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Acciojob Japan",
+   "results": [
+    "https://acciojob.com/",
+    "https://placement.acciojob.com/placements/",
+    "https://acciojob.com/about-us",
+    "https://www.linkedin.com/posts/mayankahuja1011_scam-alert-by-acciojob-please-read-everything-activity-7100165341502189569-Ulaz",
+    "https://www.linkedin.com/company/acciojob-hiring-drives/",
+    "https://launchpad.acciojob.com/login",
+    "https://www.reddit.com/r/Scams/comments/13dir6n/acciojob_scam/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Acciojob manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/infobip/case-study/802c-acciojob-elevating-customer-interactions-with-automation-and-omnichannel-connectivity",
+    "https://prezi.com/p/dzrwut0wfel2/",
+    "https://www.infobip.com/customer/acciojob",
+    "https://www.casestudies.com/customer/acciojob",
+    "https://www.youtube.com/watch?v=JoB3yx_EtDk",
+    "https://www.zoom.com/en/customer-stories/acciojob/",
+    "https://www.softkingo.com/case-studies/acciojob-tech-job-portal-app"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Acciojob white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.ninjaone.com/partner-program/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://www.nextiva.com/company/partners"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Acciojob founded funding employees revenue",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com Acciojob",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com Acciojob",
+   "results": [
+    "https://x.com/Acciojob_/with_replies",
+    "https://x.com/acciojob",
+    "https://x.com/Acciojob_/status/1753322807474491757",
+    "https://x.com/Rahul1539482/status/2075099493842964929",
+    "https://x.com/CodeWithSravya/status/2074097432041054226",
+    "https://help.x.com/zh-cn/managing-your-account",
+    "https://x.com/NoahFentys/status/2118178286157140113"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Acciojob",
+   "results": [
+    "https://www.linkedin.com/school/acciojob/",
+    "https://www.linkedin.com/company/acciojob-hiring-drives/",
+    "https://in.linkedin.com/in/acciojob",
+    "https://in.linkedin.com/in/yashwardhanburad",
+    "https://www.linkedin.com/school/acciojob/people",
+    "https://www.linkedin.com/jobs/acciojob-jobs-worldwide",
+    "https://www.linkedin.com/pulse/acciojob-placements-recent-10-lpa-success-stories-student-reviews-ow03c/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Acciojob",
+   "results": [
+    "https://www.facebook.com/p/AccioJob-100093141129848/",
+    "https://www.facebook.com/AccioJob-100093141129848/",
+    "https://www.facebook.com/100093141129848/posts/20-companies-are-hiring-right-now-find-all-the-job-details-and-application-links/1037161646065197/",
+    "https://www.facebook.com/100093141129848/posts/-ai-first-sdet-internship-at-gocomet-is-here-acciojob-is-conducting-a-hiring-dri/983359781445384/",
+    "https://www.facebook.com/100093141129848/videos/1805001703870437/",
+    "https://www.facebook.com/100093141129848/videos/2096326871255929/",
+    "https://www.facebook.com/100093141129848/videos/853769187366338/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Acciojob note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://in.linkedin.com/in/yashwardhanburad",
+    "https://acciojob.com/about-us",
+    "https://www.crunchbase.com/person/yashwardhan-burad",
+    "https://www.cbinsights.com/company/acciojob/people",
+    "https://in.linkedin.com/in/harsh-sharma-791082bb",
+    "https://tracxn.com/d/companies/acciojob/__5LgRYBr4jOc4cU7V7V_Yh3ESra8AD262nZHn4K9obSU"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Acciojob X 投稿",
+   "results": [
+    "https://x.com/acciojob_",
+    "https://x.com/Acciojob_/with_replies",
+    "https://acciojob.com/",
+    "https://www.instagram.com/acciojob_/",
+    "https://www.facebook.com/p/AccioJob-100093141129848/",
+    "https://x.com/acciojob",
+    "https://x.com/ajiiiiiiii_o/status/2119939499690205468"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部35頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部35頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部35頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部35頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部35頁・検索12回）"
+ }
+}

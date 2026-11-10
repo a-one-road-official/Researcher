@@ -1,0 +1,877 @@
+{
+ "name": "Canopylabs",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-10T18:35:13.723867+00:00",
+ "official_url": "https://www.canopylabs.com",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2012",
+    "url": "https://en.wikipedia.org/wiki/Canopy_Labs",
+    "pass": 3
+   },
+   {
+    "label": "Founded",
+    "value": "Founded：2012",
+    "url": "https://startupintros.com/orgs/canopy-labs",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Toronto , Ontario, Canada",
+    "url": "https://en.wikipedia.org/wiki/Canopy_Labs",
+    "pass": 3
+   },
+   {
+    "label": "HQ",
+    "value": "New York City, NY, USA",
+    "url": "https://startupintros.com/orgs/canopy-labs",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$2.1M",
+    "url": "https://getlatka.com/companies/canopylabs.com",
+    "pass": 3
+   },
+   {
+    "label": "Total raised",
+    "value": "$2.1M",
+    "url": "https://getlatka.com/companies/canopylabs.com#competitors",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Canopy Labs is thrilled to announce that we’ve joined Drop Technologies Inc. in late 2018. We've known the Drop team for a long time now and are excited about their vision for loyalty. We're now applying our machine learning technology and experience with customer success to contribute to their goal of building a consumer-first predictive loyalty product.",
+    "url": "https://canopylabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Canopy Labs is building realtime interactive models for avatars. We think this is one of the most important open problems today. In the future billions of people will interact with these avatars. Here are some of the ways we think society will change:",
+    "url": "https://canopylabs.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Since then we've raised $17M, grown the team, and are building the leading speech and avatar models, which are currently — but not for long — private.",
+    "url": "https://canopylabs.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/Canopy_Labs",
+    "pass": 3
+   },
+   {
+    "quote": "of the topic and provide significant coverage of it beyond a mere trivial mention.",
+    "url": "https://en.wikipedia.org/wiki/Canopy_Labs",
+    "pass": 3
+   },
+   {
+    "quote": "April 2025",
+    "url": "https://en.wikipedia.org/wiki/Canopy_Labs",
+    "pass": 3
+   },
+   {
+    "quote": "start-up acceleration program in",
+    "url": "https://en.wikipedia.org/wiki/Canopy_Labs",
+    "pass": 3
+   },
+   {
+    "quote": "Y Combinator-Backed Canopy Labs Unveils A Self-Serve Approach To Customer Modeling",
+    "url": "https://en.wikipedia.org/wiki/Canopy_Labs",
+    "pass": 3
+   },
+   {
+    "quote": "\"Drop acquires predictive analytics company Canopy Labs\"",
+    "url": "https://en.wikipedia.org/wiki/Canopy_Labs",
+    "pass": 3
+   },
+   {
+    "quote": "The Globe and Mail. April 9, 2012.",
+    "url": "https://en.wikipedia.org/wiki/Canopy_Labs",
+    "pass": 3
+   },
+   {
+    "quote": "Apr 24,",
+    "url": "https://en.wikipedia.org/wiki/Canopy_Labs",
+    "pass": 3
+   },
+   {
+    "quote": "\"Drop Acquires Predictive Analytics Company Canopy Labs\"",
+    "url": "https://en.wikipedia.org/wiki/Canopy_Labs",
+    "pass": 3
+   },
+   {
+    "quote": "Internet properties established in 2012",
+    "url": "https://en.wikipedia.org/wiki/Canopy_Labs",
+    "pass": 3
+   },
+   {
+    "quote": "Articles with topics of unclear notability from April 2025",
+    "url": "https://en.wikipedia.org/wiki/Canopy_Labs",
+    "pass": 3
+   },
+   {
+    "quote": ", a non-profit organization.",
+    "url": "https://en.wikipedia.org/wiki/Canopy_Labs",
+    "pass": 3
+   },
+   {
+    "quote": "Canopy Labs is building realtime interactive models for avatars. We think this is one of the most important open problems today. In the future billions of people will interact with these avatars. Here are some of the ways we think society will change:",
+    "url": "https://canopylabs.ai/?ref=myquestai",
+    "pass": 3
+   },
+   {
+    "quote": "Since then we've raised $17M, grown the team, and are building the leading speech and avatar models, which are currently — but not for long — private.",
+    "url": "https://canopylabs.ai/?ref=myquestai",
+    "pass": 3
+   },
+   {
+    "quote": "Today, the analytics industry is dominated by a few major players offering full-suite solutions. Salesforce, Adobe, and Google have captured the enterprise market with...",
+    "url": "https://www.loot-drop.io/startup/1594-canopy-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Insight 1: The importance of seamless integration with existing enterprise ecosystems. Insight 2: The technical necessity of building flexible, scalable data pipelines early. Insight...",
+    "url": "https://www.loot-drop.io/startup/1594-canopy-labs",
+    "pass": 3
+   },
+   {
+    "quote": "The scalability of Canopy Labs was hindered by the high cost of data acquisition and processing at scale, along with the complexities of maintaining...",
+    "url": "https://www.loot-drop.io/startup/1594-canopy-labs",
+    "pass": 3
+   },
+   {
+    "quote": "PredictAI Labs reimagines customer analytics through an AI-first approach, offering specialized predictive insights for niche media companies. Leveraging modern AI and low-code platforms, it provides easy-to-use but powerful analytics tools that integrate seamlessly with existing marketing and CRM systems, focusing on underserved markets.",
+    "url": "https://www.loot-drop.io/startup/1594-canopy-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Step 1: AI-first prototype blueprint using OpenAI for predictive analytics.",
+    "url": "https://www.loot-drop.io/startup/1594-canopy-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Step 2: Distribution/Validation strategy targeting niche media companies through content marketing and partnerships.",
+    "url": "https://www.loot-drop.io/startup/1594-canopy-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue streams would include subscription-based pricing tiers, with additional revenue from custom analytics projects and premium integrations. A freemium model could be used to attract small businesses, offering basic insights for free while charging for advanced features and integrations.",
+    "url": "https://www.loot-drop.io/startup/1594-canopy-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Another company owns Canopy Labs. The date and price of the deal are not on record.",
+    "url": "https://getlatka.com/companies/canopylabs.com",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing Automation Software",
+    "url": "https://getlatka.com/companies/canopylabs.com",
+    "pass": 3
+   },
+   {
+    "quote": "Best Marketing Software",
+    "url": "https://getlatka.com/companies/canopylabs.com",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/canopylabs.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/canopylabs.com",
+    "pass": 3
+   },
+   {
+    "quote": "Another company owns Canopy Labs. The date and price of the deal are not on record.",
+    "url": "https://getlatka.com/companies/canopylabs.com#competitors",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing Automation Software",
+    "url": "https://getlatka.com/companies/canopylabs.com#competitors",
+    "pass": 3
+   },
+   {
+    "quote": "Best Marketing Software",
+    "url": "https://getlatka.com/companies/canopylabs.com#competitors",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/canopylabs.com#competitors",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/canopylabs.com#competitors",
+    "pass": 3
+   },
+   {
+    "quote": "Product Differentiators:",
+    "url": "https://startupintros.com/orgs/canopy-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Canopy Labs specialized in automating customer analytics by integrating multiple data sources to create detailed customer profiles and predictive models.",
+    "url": "https://startupintros.com/orgs/canopy-labs",
+    "pass": 3
+   },
+   {
+    "quote": "The platform was designed to be simple yet powerful, offering cloud-based tools that consolidated online and offline customer data for seamless marketing execution.",
+    "url": "https://startupintros.com/orgs/canopy-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Beyond software, Canopy Labs provided strategic consulting to optimize marketing campaigns, improve attribution models, and increase key business metrics like average order value and churn reduction[3].",
+    "url": "https://startupintros.com/orgs/canopy-labs",
+    "pass": 3
+   },
+   {
+    "quote": "thesiliconreview.com/magazine/profile/helping-you-transform-your-customer-journey-canopy-labs",
+    "url": "https://startupintros.com/orgs/canopy-labs",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Canopy Labs — Building realtime interactive models for avatars Canopy Labs is building realtime interactive models for avatars. We think this is one of the most important open problems today. In the future billions of people will interact with these avatars. Here are some of the ways we think society will change: A billion children will be given personalised authentic educational experiences Every",
+    "url": "https://canopylabs.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Canopy Labs - Wikipedia — Canopy Labs is a customer analytics company headquartered in Toronto, Ontario, Canada, with offices in San Francisco. [1] It was founded in 2012 and offers SaaS marketing analytics for businesses and organizations. [2][3] The company is an alumnus of the Y Combinator accelerator program. [4]",
+    "url": "https://en.wikipedia.org/wiki/Canopy_Labs",
+    "pass": 3
+   },
+   {
+    "quote": "Canopy Labs — Building realtime interactive models for avatars Canopy Labs is building realtime interactive models for avatars. We think this is one of the most important open problems today. In the future billions of people will interact with these avatars. Here are some of the ways we think society will change: A billion children will be given personalised authentic educational experiences Every",
+    "url": "https://canopylabs.ai/?ref=myquestai",
+    "pass": 3
+   },
+   {
+    "quote": "Canopy Labs — Canopy Labs is developing digital humans that are indistinguishable from real ones.",
+    "url": "https://canopylabs.ai/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "Canopy Labs - LinkedIn — Canopy Labs | 1,253 followers on LinkedIn. Virtual humans indistinguishable from real ones | Virtual humans indistinguishable from real ones",
+    "url": "https://www.linkedin.com/company/canopylabsai",
+    "pass": 3
+   },
+   {
+    "quote": "Canopy Labs | Failed Startup Case Study — Canopy Labs was an analytics-focused startup that aimed to provide businesses, especially in the media sector, with advanced customer insights and predictive analytics. Their platform was designed to help companies understand customer behavior and optimize marketing strategies through data-driven insights. The value proposition centered on leveraging machi",
+    "url": "https://www.loot-drop.io/startup/1594-canopy-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Why Canopy Labs Failed: A Look at Their Customer Journey ... — Discover how Canopy Labs once aimed to revolutionize customer journey tracking for businesses, enhancing marketing and sales strategies. Learn from its journey.",
+    "url": "https://reforgers.com/startups/canopy-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Canopy Labs has joined Drop — Canopy Labs has joined Drop Canopy Labs is thrilled to announce that we’ve joined Drop Technologies Inc. in late 2018. We've known the Drop team for a long time now and are excited about their vision for loyalty. We're now applying our machine learning technology and experience with customer success to contribute to their goal of building a consumer-first predictive l",
+    "url": "https://canopylabs.com/",
+    "pass": 3
+   },
+   {
+    "quote": "After wisely investing into their engineering team, Canopy ... — Canopy Labs are leaders in analyzing, segmenting and predicting any customer journey with their cutting-edge technology designed to help their customers power their marketing.",
+    "url": "https://cdn2.hubspot.net/hubfs/5010257/Martyn_Bassett_November2018/PDF/MBA_CanopyLabs_CaseStudy-v4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Canopy Labs Revenue 2025: $220K Est., $2.1M Raised — Sep 2, 2026 · Canopy Labs 2025 estimated revenue: $220K. Total funding: $2.1M across 2 rounds. 2 employees. Founded 2012. HQ: Canada. Updated Sep 2, 2026.",
+    "url": "https://getlatka.com/companies/canopylabs.com",
+    "pass": 3
+   },
+   {
+    "quote": "Canopy Labs - 2026 Company Profile, Team, Funding ... - Tracxn — Mar 5, 2026 · Canopy Labs is an acquired company based in Toronto (Canada), founded in 2012 by Wojciech Gryc. It operates as a Customer analytics platform. Canopy Labs has raised $2.06M in funding. The company has 188 active competitors, including 32 funded and 31 that have exited. Its top competitor s include companies like Amplitud",
+    "url": "https://tracxn.com/d/companies/canopylabs/__iTcPVBbxO_9OMgFjUiAZ5zADTcZRO8ZKvJxYFtCUA3s",
+    "pass": 3
+   },
+   {
+    "quote": "How Canopy Labs hit $220K revenue with a 2 person team in 2025. — Explore a detailed comparison of top SaaS companies like Canopy Labs, Canopy Labs. See how they stack up in key business metrics — including revenue (ARR), pricing, funding, team size, and growth.",
+    "url": "https://getlatka.com/companies/canopylabs.com/vs/canopylabs.com",
+    "pass": 3
+   },
+   {
+    "quote": "Canopy Labs: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Frequently Asked Questions Who founded Canopy Labs? Canopy Labs was founded in 2012 by Jorge Escobedo (Founder/CTO) and Wojciech Gryc (Founder/CEO). How much funding has Canopy Labs raised? Canopy Labs has raised $2.0M in total across 1 funding round.",
+    "url": "https://startupintros.com/orgs/canopy-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Canopy Labs - Crunchbase Company Profile & Funding — Canopy Labs provides a platform for businesses wanting to build and apply customer models. The company built models for marketing campaigns, organized strategic plans, and have helped numerous companies better understand - and sell to - their audiences. It was founded in 2012 and headquartered in Ontario, Canada.",
+    "url": "https://www.crunchbase.com/organization/canopy-labs",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Canopy Labs was acquired by",
+    "url": "https://en.wikipedia.org/wiki/Canopy_Labs",
+    "pass": 3
+   },
+   {
+    "quote": "as part of the 2012 Summer Class.",
+    "url": "https://en.wikipedia.org/wiki/Canopy_Labs",
+    "pass": 3
+   },
+   {
+    "quote": "In 2018, Canopy Labs was acquired by customer loyalty company",
+    "url": "https://en.wikipedia.org/wiki/Canopy_Labs",
+    "pass": 3
+   },
+   {
+    "quote": "The description indicates that Canopy Labs is no longer operational and does not mention any acquisition or ongoing activities.",
+    "url": "https://www.loot-drop.io/startup/1594-canopy-labs",
+    "pass": 3
+   },
+   {
+    "quote": "The scalability of Canopy Labs was hindered by the high cost of data acquisition and processing at scale, along with the complexities of maintaining...",
+    "url": "https://www.loot-drop.io/startup/1594-canopy-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue streams would include subscription-based pricing tiers, with additional revenue from custom analytics projects and premium integrations. A freemium model could be used to attract small businesses, offering basic insights for free while charging for advanced features and integrations.",
+    "url": "https://www.loot-drop.io/startup/1594-canopy-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Canopy Labs Revenue 2025: $220K Est., $2.1M Raised",
+    "url": "https://getlatka.com/companies/canopylabs.com",
+    "pass": 3
+   },
+   {
+    "quote": "revenue, acquisition & funding",
+    "url": "https://getlatka.com/companies/canopylabs.com",
+    "pass": 3
+   },
+   {
+    "quote": "Canopy Labs was acquired.",
+    "url": "https://getlatka.com/companies/canopylabs.com",
+    "pass": 3
+   },
+   {
+    "quote": "Canopy Labs has not published its revenue. GetLatka estimates it at about $220K a year (July 2025).",
+    "url": "https://getlatka.com/companies/canopylabs.com",
+    "pass": 3
+   },
+   {
+    "quote": "Canopy Labs CEO & employees",
+    "url": "https://getlatka.com/companies/canopylabs.com",
+    "pass": 3
+   },
+   {
+    "quote": "What was Canopy Labs' revenue?",
+    "url": "https://getlatka.com/companies/canopylabs.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Canopy Labs' revenue at about",
+    "url": "https://getlatka.com/companies/canopylabs.com",
+    "pass": 3
+   },
+   {
+    "quote": "across two funding rounds before it was acquired. The last was a $564K funding round in March 2014.",
+    "url": "https://getlatka.com/companies/canopylabs.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/canopylabs.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/canopylabs.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/canopylabs.com",
+    "pass": 3
+   },
+   {
+    "quote": "Canopy Labs Revenue 2025: $220K Est., $2.1M Raised",
+    "url": "https://getlatka.com/companies/canopylabs.com#competitors",
+    "pass": 3
+   },
+   {
+    "quote": "revenue, acquisition & funding",
+    "url": "https://getlatka.com/companies/canopylabs.com#competitors",
+    "pass": 3
+   },
+   {
+    "quote": "Canopy Labs was acquired.",
+    "url": "https://getlatka.com/companies/canopylabs.com#competitors",
+    "pass": 3
+   },
+   {
+    "quote": "Canopy Labs has not published its revenue. GetLatka estimates it at about $220K a year (July 2025).",
+    "url": "https://getlatka.com/companies/canopylabs.com#competitors",
+    "pass": 3
+   },
+   {
+    "quote": "Canopy Labs CEO & employees",
+    "url": "https://getlatka.com/companies/canopylabs.com#competitors",
+    "pass": 3
+   },
+   {
+    "quote": "What was Canopy Labs' revenue?",
+    "url": "https://getlatka.com/companies/canopylabs.com#competitors",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Canopy Labs' revenue at about",
+    "url": "https://getlatka.com/companies/canopylabs.com#competitors",
+    "pass": 3
+   },
+   {
+    "quote": "across two funding rounds before it was acquired. The last was a $564K funding round in March 2014.",
+    "url": "https://getlatka.com/companies/canopylabs.com#competitors",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/canopylabs.com#competitors",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/canopylabs.com#competitors",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/canopylabs.com#competitors",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Canopy Labs | Failed Startup Case Study",
+    "url": "https://www.loot-drop.io/startup/1594-canopy-labs",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Lots of new faces here! #Popcorn is not visible in this photo ... Canopy Labs (@CanopyLabs). Lots of new faces here! #Popcorn is not visible in this photo, but you better hurry before they run out! #SOH2017 #SOHTO2017 @suopenhouse",
+    "url": "https://x.com/CanopyLabs/status/913516809822892032",
+    "pass": 3
+   },
+   {
+    "quote": "Aakash (@aakash_hash) / Posts / X 🚀 Excited to open-source snorTTS Indic V0 🚀. We built a human sounding Indic Voice model in 9 languages. We built this in a week. Huge thanks to @huggingface @canopylabs_ai @UnslothAI @vllm_project We've opened-sourced it all below: models, scripts & dataset",
+    "url": "https://x.com/aakash_hash",
+    "pass": 3
+   },
+   {
+    "quote": "MO on X: \"The payment from Canopy Labs to my grey ... 💰💰 Bag Alert‼️ Canopy Labs Payment don land o… Dont play with any updates I drop Nobody drops Update and personal payment Evidence to back it up as MO does😎 See you at 8pm tonight⏰ 📌 My followers go chop well this ember month na me talk am",
+    "url": "https://x.com/slordmathew/status/2102836546097602882",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Canopy Labs - LinkedIn Canopy Labs | 1,253 followers on LinkedIn. Virtual humans indistinguishable from real ones | Virtual humans indistinguishable from real ones",
+    "url": "https://www.linkedin.com/company/canopylabsai",
+    "pass": 3
+   },
+   {
+    "quote": "Jared Seabrook-Wafer - Data ops Associate @CanopyLabs | LinkedInAksynia Gatsenko - Creative Director | Canopy Labs | LinkedInCanopy Labs - LinkedInCanopyLAB Inc - LinkedIn Data ops Associate @CanopyLabs · Experience: Canopy Labs · Education: University of Cambridge · Location: United Kingdom · 500+ connections on LinkedIn. View Jared Seabrook-Wafer’s profile on LinkedIn, a professional community o",
+    "url": "https://uk.linkedin.com/in/jared-seabrook-wafer-879790a9",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Canopylab - FacebookCanopyLAB LATAM - FacebookCanopylab - PROJECT 21 partners with CanopyLAB - Social ...FacebookCanopylab - FacebookCanopylab Corporate LXP - Facebook“CanopyLABs approach to learning... - Canopylab Corporate LXP Apr 10, 2026 · Canopylab. 84,137 followers · 1 talking about this. CanopyLAB LLC is an AI-powered learning company. Apr 15, 2026 · CanopyLAB LATAM. 7,602 followers. #Edtec",
+    "url": "https://www.facebook.com/canopylabedu/",
+    "pass": 3
+   },
+   {
+    "quote": "CanopyLAB LATAM - FacebookCanopylab - PROJECT 21 partners with CanopyLAB - Social ...FacebookCanopylab - FacebookCanopylab Corporate LXP - Facebook“CanopyLABs approach to learning... - Canopylab Corporate LXP Apr 15, 2026 · CanopyLAB LATAM. 7,602 followers. #Edtech de Dinamarca. Ofrecemos un espacio digital+red social para aprender y construir comunidad par May 13, 2022 · Canopylab May 13, 2022 PR",
+    "url": "https://www.facebook.com/CanopyLAB/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://canopylabs.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.technoproholdings.com/news/detail.php?id=7856",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://canopylabs.ai/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.itmedia.co.jp/business/articles/2610/08/news016.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://grafana.com/press/2025/11/12/grafana-labs-establishes-japan-subsidiary-to-accelerate-local-market-expansion-ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dolphin-s.co.jp.siteindices.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Canopy_Labs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.canopylab.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://canopylabs.ai/?ref=myquestai",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://canopylabs.ai/jobs",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Canopy_Labs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.loot-drop.io/startup/1594-canopy-labs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reforgers.com/startups/canopy-labs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://canopylabs.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.canva.com/partners/reseller/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.upcounsel.com/reseller-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/canopylabs.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/canopylabs/__iTcPVBbxO_9OMgFjUiAZ5zADTcZRO8ZKvJxYFtCUA3s",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/canopylabs.com#competitors",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/canopy-labs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/CanopyLabs/status/913516809822892032",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/aakash_hash",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/slordmathew/status/2102836546097602882",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/canopylabsai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/jared-seabrook-wafer-879790a9",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/canopylabedu/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/CanopyLAB/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/canopylabsai",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Canopylabs 日本 導入",
+   "results": [
+    "https://www.technoproholdings.com/news/detail.php?id=7856",
+    "https://canopylabs.ai/",
+    "https://www.itmedia.co.jp/business/articles/2610/08/news016.html",
+    "https://grafana.com/press/2025/11/12/grafana-labs-establishes-japan-subsidiary-to-accelerate-local-market-expansion-ja/",
+    "https://www.thecanopylab.com/",
+    "https://pressnow.jp/2026/07/29/canopy/",
+    "https://www.sbbit.jp/article/cont1/188177"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Canopylabs 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://dolphin-s.co.jp.siteindices.com/",
+    "https://canopylabs.ai/",
+    "https://patentscope2.wipo.int/search/ja/search.jsf",
+    "https://www.capgemini.com/jp-jp/about-us/overview-and-access/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Canopylabs Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Canopy_Labs",
+    "http://www.canopylab.jp/",
+    "https://canopylabs.ai/?ref=myquestai",
+    "https://canopylabs.ai/jobs",
+    "https://www.linkedin.com/company/canopylabsai",
+    "https://canopylabs.com/",
+    "https://www.thecanopylab.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Canopylabs manufacturing customer case study",
+   "results": [
+    "https://en.wikipedia.org/wiki/Canopy_Labs",
+    "https://www.loot-drop.io/startup/1594-canopy-labs",
+    "https://reforgers.com/startups/canopy-labs",
+    "https://canopylabs.com/",
+    "https://cdn2.hubspot.net/hubfs/5010257/Martyn_Bassett_November2018/PDF/MBA_CanopyLabs_CaseStudy-v4.pdf",
+    "https://canopylabs.ai/?ref=myquestai",
+    "https://www.thecanopylab.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Canopylabs white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://www.canva.com/partners/reseller/",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://upcloud.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.reseller.co.nz/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Canopylabs founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/canopylabs.com",
+    "https://tracxn.com/d/companies/canopylabs/__iTcPVBbxO_9OMgFjUiAZ5zADTcZRO8ZKvJxYFtCUA3s",
+    "https://getlatka.com/companies/canopylabs.com/vs/canopylabs.com",
+    "https://startupintros.com/orgs/canopy-labs",
+    "https://www.crunchbase.com/organization/canopy-labs",
+    "https://www.311institute.com/startups/canopy-labs/",
+    "https://www.thecompanycheck.com/company/b/canopy-labs/voiu92afjq99zmsca"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Canopylabs",
+   "results": [
+    "https://note.com/zunda_dd/n/ncc81b0456705",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/habibee/n/n50a8b6a6ca51",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/shoutengai/n/ne814a4498d09",
+    "https://note.com/3121okotas/n/n8ed4cce2bace"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Canopylabs",
+   "results": [
+    "https://x.com/CanopyLabs/status/913516809822892032",
+    "https://x.com/aakash_hash",
+    "https://x.com/CanopyLAB_LATAM/status/1557033905248780291",
+    "https://x.com/slordmathew/status/2102836546097602882",
+    "https://x.com/Marlayna29/status/2115433590150606880",
+    "https://x.com/GayleRyan0",
+    "https://x.com/chillestwoman/status/2116669325868400644"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Canopylabs",
+   "results": [
+    "https://www.linkedin.com/company/canopylabsai",
+    "https://www.linkedin.com/company/canopylabs",
+    "https://cd.linkedin.com/company/the-canopy-lab",
+    "https://uk.linkedin.com/in/jared-seabrook-wafer-879790a9",
+    "https://uk.linkedin.com/in/aksyniagatsenko",
+    "https://www.linkedin.com/company/canopylab",
+    "https://www.linkedin.com/company/canopy-labs"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Canopylabs",
+   "results": [
+    "https://www.facebook.com/canopylabedu/",
+    "https://www.facebook.com/CanopyLAB/",
+    "https://www.facebook.com/canopylabedu/menu/",
+    "https://www.facebook.com/canopylabcorporate/about/",
+    "https://www.facebook.com/canopylabcorporate/posts/canopylabs-approach-to-learning-is-very-scandinavian-so-the-company-will-always-/1810418039254686/",
+    "https://www.facebook.com/canopylabs/",
+    "https://www.facebook.com/canopylabedu/posts/project-21-partners-with-canopylab-social-learning-powered-by-ai-to-build-course/3250200725231011/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Canopylabs note 社長",
+   "results": [
+    "https://en.wikipedia.org/wiki/Canopy_Labs",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://canopylabs.ai/",
+    "https://www.linkedin.com/company/canopylabsai",
+    "https://www.crunchbase.com/person/amu-varma",
+    "https://www.thecanopylab.com/",
+    "https://nocap.blog/founder/wojciech-gryc/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Canopylabs X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）"
+ }
+}

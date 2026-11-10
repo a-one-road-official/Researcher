@@ -1,0 +1,1458 @@
+{
+ "name": "Codecademy",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-10T18:20:04.586772+00:00",
+ "official_url": "https://www.codecademy.com",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "利用料金",
+    "value": "無料（有料のProは月額19.99ドル）",
+    "url": "https://programmercollege.jp/column/4491/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Transform your team with technical training",
+    "url": "https://www.codecademy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Help everyone on your team build job-ready skills with a plan that offers flexible content assignment, progress tracking, and more.",
+    "url": "https://www.codecademy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Founder of AISOLO Technologies, AI Entrepreneur",
+    "url": "https://www.codecademy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Live courses put you in the room with tech industry pros. Build real skills through hands-on learning and keep pace with a fast-moving industry.",
+    "url": "https://www.codecademy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every bootcamp, every workshop, plus Codecademy Pro. One subscription.",
+    "url": "https://www.codecademy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn by building real, working prototypes in seconds with our new AI Builder.",
+    "url": "https://www.codecademy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Technical training for your team",
+    "url": "https://www.codecademy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Machine Learning Data Scientists solve problems at scale, make predictions, find patterns, and more! They use Python, SQL, and algorithms.",
+    "url": "https://www.codecademy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn the basics of Python 3.13, one of the most powerful, versatile, and in-demand programming languages today.",
+    "url": "https://www.codecademy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Master IT security basics and prep for the CompTIA Security+ exam with hands-on learning on threats, cryptography, governance, identity management and more.",
+    "url": "https://www.codecademy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Start your programming journey with an introduction to the world of code and basic concepts.",
+    "url": "https://www.codecademy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Designed for progress",
+    "url": "https://www.codecademy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Build portfolio-worthy projects that stand out in a competitive job market",
+    "url": "https://www.codecademy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Grow in your career with prep for industry certifications from AWS, Microsoft, CompTIA, ISC2, and more",
+    "url": "https://www.codecademy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ensure you're meeting your unique business needs with flexible content assignment",
+    "url": "https://www.codecademy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Access an exclusive admin dashboard to easily manage and track team progress",
+    "url": "https://www.codecademy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Interactive learning helps you better retain information. Test the code you write to practice and perfect new concepts.",
+    "url": "https://www.codecademy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "No need to waste time searching online. Get help working through problems, check solutions, and get error explanations — all without leaving the platform.",
+    "url": "https://www.codecademy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Empower people to transform their personal and professional lives by helping them learn modern skills.",
+    "url": "https://www.codecademy.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "At Codecademy, we live our values. They’re a part of our interview process, integral to how we work on a regular basis, and key to how we treat our learners.",
+    "url": "https://www.codecademy.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We maintain an attitude of openness and eagerness when approaching problems, just as a beginner would.",
+    "url": "https://www.codecademy.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We improve relentlessly",
+    "url": "https://www.codecademy.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We accept problems as challenges that we can tackle together. We focus on long term goals and strategize for future success.",
+    "url": "https://www.codecademy.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Professional development budget",
+    "url": "https://www.codecademy.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Join us in providing the latest in digital education to learners worldwide — and help your brand or nonprofit reach a new audience.",
+    "url": "https://www.codecademy.com/pages/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Since 2011, Codecademy has provided online education trusted by industry professionals, universities, and more.",
+    "url": "https://www.codecademy.com/pages/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "We’ll work with you to create a course, tutorial, or video to feature on our platform.",
+    "url": "https://www.codecademy.com/pages/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "MX Global Marketing Manager",
+    "url": "https://www.codecademy.com/pages/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "“We take a highly selective approach to partnerships, and teaming up with Codecademy created a powerful synergy. Together, we expanded our global reach and engaged with audiences in fresh, impactful ways, showcasing the unique strengths of both brands.”",
+    "url": "https://www.codecademy.com/pages/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "We work with companies, nonprofits, and organizations that share our mission to empower tech learners worldwide. Whether you’re a leading brand looking to engage with a global community of upskillers, or a nonprofit focused on expanding access to digital education, we’d love to explore opportunities together. This is separate from our",
+    "url": "https://www.codecademy.com/pages/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": ", which publishers and content creators looking to earn commission can join.",
+    "url": "https://www.codecademy.com/pages/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "There are a variety of ways we can co-create curriculum like courses, videos, projects, and tutorials for our platform. We also can offer discounts or sponsorships for Pro, Plus, or Teams memberships, host co-branded giveaways or events, and more. If you’re not sure what you’re looking for, we’d be happy to answer questions or guide you through options.",
+    "url": "https://www.codecademy.com/pages/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Interested in our affiliate program?",
+    "url": "https://www.codecademy.com/pages/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "We’re looking for publishers and content creators to help spread the word about Codecademy. You’ll earn commission for every Pro membership you refer.",
+    "url": "https://www.codecademy.com/pages/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Designed for everyone, from experienced technical teams to professionals new to tech work",
+    "url": "https://www.codecademy.com/business",
+    "pass": 1
+   },
+   {
+    "quote": "Build AI, data, dev skills, and more with interactive, self-paced training",
+    "url": "https://www.codecademy.com/business",
+    "pass": 1
+   },
+   {
+    "quote": "Assign curated content for every level and support independent learning",
+    "url": "https://www.codecademy.com/business",
+    "pass": 1
+   },
+   {
+    "quote": "Prepare team members for top industry certifications",
+    "url": "https://www.codecademy.com/business",
+    "pass": 1
+   },
+   {
+    "quote": "Skip the setup downtime. Teams start applying their new skills right from day one with in-browser interactive lessons and hands-on practice.",
+    "url": "https://www.codecademy.com/business",
+    "pass": 1
+   },
+   {
+    "quote": "Simplify your insights with real-time reports to quickly interpret data, track progress, and make more informed decisions.",
+    "url": "https://www.codecademy.com/business",
+    "pass": 1
+   },
+   {
+    "quote": "Discover user-friendly tools designed to help busy team leads. Easily assign content, reassign seats, and see outcomes for one or multiple trainings.",
+    "url": "https://www.codecademy.com/business",
+    "pass": 1
+   },
+   {
+    "quote": "Achieve all your training goals",
+    "url": "https://www.codecademy.com/business",
+    "pass": 1
+   },
+   {
+    "quote": "Tailor content to meet different needs — whether upskilling engineers, training new hires, or helping non-tech teams build digital confidence.",
+    "url": "https://www.codecademy.com/business",
+    "pass": 1
+   },
+   {
+    "quote": "Flexible training that fits your budget",
+    "url": "https://www.codecademy.com/business",
+    "pass": 1
+   },
+   {
+    "quote": "From fast-moving startups and global enterprises to universities and nonprofits, organizations around the world trust us to upskill their people with hands-on learning that builds job-ready skills.",
+    "url": "https://www.codecademy.com/business",
+    "pass": 1
+   },
+   {
+    "quote": "Nonprofits & Academia",
+    "url": "https://www.codecademy.com/business",
+    "pass": 1
+   },
+   {
+    "quote": "Ramp up developers, data scientists, and IT professionals fast with curated learning for all levels. Encourage new hires and experienced staff to keep pace with innovation with advanced content, AI tools, and industry certification prep.",
+    "url": "https://www.codecademy.com/business",
+    "pass": 1
+   },
+   {
+    "quote": "Curated bootcamps give your team members expert-led training, mentorship, and hands-on projects to drive business growth and innovation.",
+    "url": "https://www.codecademy.com/business",
+    "pass": 1
+   },
+   {
+    "quote": "Get an intuitive hub where you can do it all. Assign content by individual or group — have one team learning AI literacy while another focuses on data visualizations — manage access, licenses, and progress tracking all from your admin dashboard.",
+    "url": "https://www.codecademy.com/business",
+    "pass": 1
+   },
+   {
+    "quote": "Get a clear measure on team member growth with real-time reports. Visualizations help you see progress and engagement so you can make data-driven decisions and better support each person's learning journey.",
+    "url": "https://www.codecademy.com/business",
+    "pass": 1
+   },
+   {
+    "quote": "Access content created by experts in AI, data, software development, and more. Our library is designed to inspire growth, guiding team members every step of the way. Choose from courses that take less than an hour to complete all the way up to multi-month paths.",
+    "url": "https://www.codecademy.com/business",
+    "pass": 1
+   },
+   {
+    "quote": "Where theory meets practice",
+    "url": "https://www.codecademy.com/business",
+    "pass": 1
+   },
+   {
+    "quote": "Connect concepts to real-world outcomes. Choose from guided or independent projects, challenges to test understanding, and assessments that make sure team members are ready to apply what they're learning both toward industry certifications and on the job.",
+    "url": "https://www.codecademy.com/business",
+    "pass": 1
+   },
+   {
+    "quote": "From onboarding and upskilling to filling skill gaps and shaping the future, we're helping all kinds of teams create big impacts through learning.",
+    "url": "https://www.codecademy.com/business",
+    "pass": 1
+   },
+   {
+    "quote": "Our blog is where you can find product launches, well-researched articles, insights from our expert curriculum developers, thought pieces, and more.",
+    "url": "https://www.codecademy.com/business",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Product Officer at Paradox",
+    "url": "https://www.codecademy.com/business",
+    "pass": 1
+   },
+   {
+    "quote": "around various points of the company, and move training participants from unfamiliar-to-conversant and from conversant-to-practitioners in the realm of coding.",
+    "url": "https://www.codecademy.com/business",
+    "pass": 1
+   },
+   {
+    "quote": "My experience has been very positive. I feel like I can complete micro-lessons and make progress even on days I don’t have much time to allocate for self-development.",
+    "url": "https://www.codecademy.com/business",
+    "pass": 1
+   },
+   {
+    "quote": "Codecademy is an effective platform to learn programming languages and technical topics",
+    "url": "https://www.codecademy.com/business",
+    "pass": 1
+   },
+   {
+    "quote": "Today’s learner story is from Bri Campbell, a 31-year-old Senior Graphic Designer at a nonprofit, living in upstate New York.",
+    "url": "https://www.codecademy.com/resources/blog/category/learner-stories",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "At Codecademy, we live our values. They’re a part of our interview process, integral to how we work on a regular basis, and key to how we treat our learners.",
+    "url": "https://www.codecademy.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how The Motley Fool breaks the barriers between technical and non-technical teams",
+    "url": "https://www.codecademy.com/business",
+    "pass": 1
+   },
+   {
+    "quote": ", while keeping our employees engaged, motivated, and connected to one another through learning.",
+    "url": "https://www.codecademy.com/business",
+    "pass": 1
+   },
+   {
+    "quote": "At The Motley Fool, our purpose is to make the world smarter, happier, and richer — and this includes our employees.",
+    "url": "https://www.codecademy.com/business",
+    "pass": 1
+   },
+   {
+    "quote": "Technical Product Manager at a Fortune 500 financial institution",
+    "url": "https://www.codecademy.com/business",
+    "pass": 1
+   },
+   {
+    "quote": "Part of the Skillsoft family",
+    "url": "https://www.codecademy.com/business",
+    "pass": 1
+   },
+   {
+    "quote": "Codecademy is part of Skillsoft, a trusted leader in enterprise learning. That means your team gets hands-on, flexible technical training plus the option to expand into broader upskilling areas like leadership, compliance, and more — all with enterprise-grade support.",
+    "url": "https://www.codecademy.com/business",
+    "pass": 1
+   },
+   {
+    "quote": "Every Wednesday at 5:00, a group of employees at",
+    "url": "https://www.codecademy.com/resources/blog/the-motley-fool-teams-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "The Motley Fool’s purpose is to make the world smarter, happier, and richer by showing people how enjoyable, and financially rewarding, it can be when you invest in the stock market. This also drives how they treat their employees. Tom says:",
+    "url": "https://www.codecademy.com/resources/blog/the-motley-fool-teams-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "This isn’t just an idea they pay lip service to. By providing the opportunity to upskill with Codecademy, The Motley Fool shows that they support their employees in growing smarter, happier, and richer, too.",
+    "url": "https://www.codecademy.com/resources/blog/the-motley-fool-teams-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to unlock your team’s potential, like The Motley Fool? Give Codecademy for Teams a try. Our online learning platform offers interactive, self-paced training that equips your employees with the latest technical skills. Let your team try it first with our",
+    "url": "https://www.codecademy.com/resources/blog/the-motley-fool-teams-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "RizePoint knew they needed a dynamic learning solution that not only kept pace with emerging programming languages and frameworks, but that also had a more immersive practice environment. They also wanted a high level of visibility and flexibility for managers to tailor programs for their employees.",
+    "url": "https://www.codecademy.com/resources/blog/rizepoint-upskilling-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Williams and Shultz built an internal career advancement track for technology employees to have a path for career growth. When looking for a training solution that would support this, they turned to Codecademy, which they had both used as individuals to further their knowledge.",
+    "url": "https://www.codecademy.com/resources/blog/rizepoint-upskilling-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Williams sees the impact of Codecademy beyond just R&D. “Codecademy has helped RizePoint become much more collaborative by helping us cross train employees. We don’t have to worry about those silos that we’ve had in the past that can really just hinder an organization’s movement forward.”",
+    "url": "https://www.codecademy.com/resources/blog/rizepoint-upskilling-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "「Array」を「配列」、「Function」を「関数」と訳すのは問題ありませんが、現場では「アレイ」「ファンクション」と英語の読みのまま会話されることが一般的です",
+    "url": "https://aetheria.jp/15125/",
+    "pass": 3
+   },
+   {
+    "quote": "Codecademy Raises $10M, Sees Job Service as Part of Its Future",
+    "url": "https://ja.wikipedia.org/wiki/Codecademy",
+    "pass": 3
+   },
+   {
+    "quote": "Freemium Case Study: How Codecademy Acquired 50M+ Users",
+    "url": "https://productled.com/blog/freemium-case-study-codeacademy",
+    "pass": 3
+   },
+   {
+    "quote": "Freemium is a powerful user acquisition model that offers a free product with limited features while providing a paid version with full access to additional features.",
+    "url": "https://productled.com/blog/freemium-case-study-codeacademy",
+    "pass": 3
+   },
+   {
+    "quote": "Treat your freemium model as an ongoing experiment. Continuously test and iterate on pricing tiers, feature offerings, and conversion strategies to optimize conversion rates and maximize revenue.",
+    "url": "https://productled.com/blog/freemium-case-study-codeacademy",
+    "pass": 3
+   },
+   {
+    "quote": "You can wait if there's a network effect or meaningful, incremental benefits for reaching a certain point of scale. While it's easier to push more users through a funnel when you have more, there's a lot of benefit to the rigor a revenue-driven business brings.",
+    "url": "https://productled.com/blog/freemium-case-study-codeacademy",
+    "pass": 3
+   },
+   {
+    "quote": "to focus on before generating revenue. We needed a revenue model to follow, and it was hard to determine the product's success.",
+    "url": "https://productled.com/blog/freemium-case-study-codeacademy",
+    "pass": 3
+   },
+   {
+    "quote": "By carefully considering these factors, you can determine if freemium is a viable strategy for your product-led business. Remember, freemium is not a one-size-fits-all approach, and it requires thoughtful planning and execution to maximize its potential as a user acquisition model.",
+    "url": "https://productled.com/blog/freemium-case-study-codeacademy",
+    "pass": 3
+   },
+   {
+    "quote": "Our free Basic plan has helped Codecademy attract over 50 million users. However, our subscription models have allowed us to monetize our user base and generate significant revenue.",
+    "url": "https://productled.com/blog/freemium-case-study-codeacademy",
+    "pass": 3
+   },
+   {
+    "quote": "What are your acquisition and conversion goals? Free trials are ideal for companies looking to convert users quickly, while freemium allows for a more extensive user base and potential for long-term monetization.",
+    "url": "https://productled.com/blog/freemium-case-study-codeacademy",
+    "pass": 3
+   },
+   {
+    "quote": "By carefully considering these factors and evaluating the different product-led free models, you can decide whether a free trial or freemium strategy fits your business. Choosing the wrong model can lead to missed opportunities or ineffective user acquisition.",
+    "url": "https://productled.com/blog/freemium-case-study-codeacademy",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月、コーディングサービスReplitの年間経常収益(ARR、その時点の契約を1年分に換算した金額)は1億5,000万ドルに達しました",
+    "url": "https://note.com/bespfjapan/n/n56d0618635c4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月、プリズム・キャピタル主導の2億5,000万ドルの資金調達で企業価値30億ドルと評価され、このときARRは1億5,000万ドルでした",
+    "url": "https://note.com/bespfjapan/n/n56d0618635c4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "会社は2026年内にARR10億ドルを目標に掲げています",
+    "url": "https://note.com/bespfjapan/n/n56d0618635c4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "https://techcrunch.com/2025/09/10/replit-hits-3b-valuation-on-150m-annualized-revenue)、TechCrunch(2026年3月)",
+    "url": "https://note.com/bespfjapan/n/n56d0618635c4?hl=en",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Since 2011, Codecademy has provided online education trusted by industry professionals, universities, and more.",
+    "url": "https://www.codecademy.com/pages/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "We're trusted by teams of all sizes",
+    "url": "https://www.codecademy.com/business",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by teams of all sizes",
+    "url": "https://www.codecademy.com/business/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "At Lovelytics, Allistair has worked with clients across manufacturing, e-commerce, healthcare, travel, financial services, and aviation, building solutions ranging from production ML systems and data pipelines to AI business copilots and enterprise GenAI initiatives.",
+    "url": "https://www.codecademy.com/workshops/building-practical-gen-ai-solutions-for-business-build-an-ai-business-copilot-allistair-cota/overview",
+    "pass": 1
+   },
+   {
+    "quote": "Success Stories about Software and Services used by Codecademy",
+    "url": "https://www.casestudies.com/customer/codecademy",
+    "pass": 3
+   },
+   {
+    "quote": "Codeacademy - Customer Case Study",
+    "url": "https://www.casestudies.com/customer/codecademy",
+    "pass": 3
+   },
+   {
+    "quote": "Pentagram Case Study: Codecademy – Codeacademy - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/pentagram/case-study/codeacademy-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Codeacademy - Customer Case Study",
+    "url": "https://www.casestudies.com/company/pentagram/case-study/codeacademy-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Codecademy used Pentagram",
+    "url": "https://www.casestudies.com/company/pentagram/case-study/codeacademy-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/pentagram/case-study/codeacademy-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/pentagram/case-study/codeacademy-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Freemium Case Study: How Codecademy Acquired 50M+ Users",
+    "url": "https://productled.com/blog/freemium-case-study-codeacademy",
+    "pass": 3
+   },
+   {
+    "quote": "The transformation of Codecademy from free to freemium is a model case study for businesses seeking to adopt a similar model.",
+    "url": "https://productled.com/blog/freemium-case-study-codeacademy",
+    "pass": 3
+   },
+   {
+    "quote": "As our freemium case study showcases below, deciding if a freemium model aligns with your company's goals involves a multifaceted evaluation process, demanding adaptability and a deep understanding of your",
+    "url": "https://productled.com/blog/freemium-case-study-codeacademy",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Join us in providing the latest in digital education to learners worldwide — and help your brand or nonprofit reach a new audience.",
+    "url": "https://www.codecademy.com/pages/partnerships",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact us for a custom quote",
+    "url": "https://www.codecademy.com/business/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We built the first version of Codecademy with one interactive Javascript lesson. The homepage allowed anybody to play around with the program without asking users to provide their emails.",
+    "url": "https://productled.com/blog/freemium-case-study-codeacademy",
+    "pass": 3
+   },
+   {
+    "quote": "The Code Year program included new material every Sunday night sent via email. The new material was a commitment to our learners and gave us an internal deadline and accountability to create as much content as possible.",
+    "url": "https://productled.com/blog/freemium-case-study-codeacademy",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Codecademyを日本語化する方法！翻訳ツール活用のコツと最新状況 | エーテリア",
+    "url": "https://aetheria.jp/15125/",
+    "pass": 3
+   },
+   {
+    "quote": "Codecademyを日本語化する方法！翻訳ツール活用のコツと最新状況",
+    "url": "https://aetheria.jp/15125/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、日本のユーザーにとって最大の障壁となっているのが",
+    "url": "https://aetheria.jp/15125/",
+    "pass": 3
+   },
+   {
+    "quote": "残念ながら、現在Codecademyの主要なコンテンツは日本語に完全対応しておらず、学習を進めるには英語を読み解く必要があります",
+    "url": "https://aetheria.jp/15125/",
+    "pass": 3
+   },
+   {
+    "quote": "Codecademyを効率的に日本語化して学習する方法",
+    "url": "https://aetheria.jp/15125/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ「日本語化」してでもCodecademyを使うべきなのか",
+    "url": "https://aetheria.jp/15125/",
+    "pass": 3
+   },
+   {
+    "quote": "まずは、Codecademyにおける日本語サポートの最新状況を確認しておきましょう",
+    "url": "https://aetheria.jp/15125/",
+    "pass": 3
+   },
+   {
+    "quote": "Codecademyのプラットフォーム全体としての日本語化は完了していません",
+    "url": "https://aetheria.jp/15125/",
+    "pass": 3
+   },
+   {
+    "quote": "かつては日本市場向けにローカライズされたコースも一部存在しましたが、現在は英語をベースとしたグローバル版が主流となっています",
+    "url": "https://aetheria.jp/15125/",
+    "pass": 3
+   },
+   {
+    "quote": "は世界共通の英語であるため、これらを日本語に訳す必要はありません",
+    "url": "https://aetheria.jp/15125/",
+    "pass": 3
+   },
+   {
+    "quote": "「解説文は日本語で読み、コードの構造は英語のまま理解する」",
+    "url": "https://aetheria.jp/15125/",
+    "pass": 3
+   },
+   {
+    "quote": "Google Chromeを使用している場合、数クリックでページ全体を日本語に変換できます",
+    "url": "https://aetheria.jp/15125/",
+    "pass": 3
+   },
+   {
+    "quote": "標準のブラウザ翻訳では、技術用語が不自然な日本語に訳されてしまうことがあります",
+    "url": "https://aetheria.jp/15125/",
+    "pass": 3
+   },
+   {
+    "quote": "英語と日本語を一行ずつ並べて表示できるため、英語学習も兼ねられる",
+    "url": "https://aetheria.jp/15125/",
+    "pass": 3
+   },
+   {
+    "quote": "Chromeの拡張機能をインストールすることで、ページ内のテキストを選択するだけで、その場で日本語訳をポップアップ表示できます",
+    "url": "https://aetheria.jp/15125/",
+    "pass": 3
+   },
+   {
+    "quote": "「原文（英語）と訳文（日本語）を同時に表示できる」",
+    "url": "https://aetheria.jp/15125/",
+    "pass": 3
+   },
+   {
+    "quote": "Codecademyの解説文が一行ごとに「英語＋日本語」のセットで表示されるため、単語の意味を確認しながら、本来の英語表現にも慣れていくことができます",
+    "url": "https://aetheria.jp/15125/",
+    "pass": 3
+   },
+   {
+    "quote": "ブラウザ全体の自動翻訳をオンにすると、エディタ内のコードや解説文の中に含まれる変数名まで日本語に訳されてしまうことがあります",
+    "url": "https://aetheria.jp/15125/",
+    "pass": 3
+   },
+   {
+    "quote": "このように、プログラミングの構文（キーワード）が日本語に変わってしまうと、プログラムは絶対に動きません",
+    "url": "https://aetheria.jp/15125/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語訳に頼りすぎず、",
+    "url": "https://aetheria.jp/15125/",
+    "pass": 3
+   },
+   {
+    "quote": "「日本語の教材があるなら、それを使えばいいのでは？」と思うかもしれません",
+    "url": "https://aetheria.jp/15125/",
+    "pass": 3
+   },
+   {
+    "quote": "「日本語で理解を助け、英語で技術を身につける」",
+    "url": "https://aetheria.jp/15125/",
+    "pass": 3
+   },
+   {
+    "quote": "Codecademyは、現時点では公式に完全な日本語化は行われていません",
+    "url": "https://aetheria.jp/15125/",
+    "pass": 3
+   },
+   {
+    "quote": "解説は日本語で素早く理解し、アウトプットに時間を割くこと",
+    "url": "https://aetheria.jp/15125/",
+    "pass": 3
+   },
+   {
+    "quote": "Codecademyの優れたカリキュラムを日本語で活用できるようになれば、あなたのプログラミングスキルは飛躍的に向上するはずです",
+    "url": "https://aetheria.jp/15125/",
+    "pass": 3
+   },
+   {
+    "quote": "基本的には英語で学ぶことになりますが、一部は日本語に対応しています",
+    "url": "https://freelance-freetools.com/learning/codecademy/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語混じりの命令もしっかり解釈し、日本語で応答してくれます",
+    "url": "https://freelance-freetools.com/learning/codecademy/",
+    "pass": 3
+   },
+   {
+    "quote": "海外製ということもあって日本語の不自然さを多少感じることはあるかもしれませんが、単調になりがちなオンライン学習を楽しめる工夫がいっぱいです",
+    "url": "https://freelance-freetools.com/learning/codecademy/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語対応がないテキストについては、英語での学習ということになります",
+    "url": "https://freelance-freetools.com/learning/codecademy/",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内で人気のあるプログラミング学習サイトのProgateも、サービス開始時にはこのCodecademyを参考にされたようです",
+    "url": "https://programmercollege.jp/column/4491/",
+    "pass": 3
+   },
+   {
+    "quote": "３．日本語対応の動きは後退した模様？",
+    "url": "https://programmercollege.jp/column/4491/",
+    "pass": 3
+   },
+   {
+    "quote": "Codecademyには以前は積極的な日本語対応の動きがあり、トップページと一部入門コースの日本語化が進んでいました",
+    "url": "https://programmercollege.jp/column/4491/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし現在は日本語版のページにアクセスすると「進捗に影響を与える」と表示され、英語版に戻る状態になっているようです",
+    "url": "https://programmercollege.jp/column/4491/",
+    "pass": 3
+   },
+   {
+    "quote": "なお一部だけ日本語に対応しているページの名残は、「https://www.codecademy.com/ja/」へアクセスすると見ることができます",
+    "url": "https://programmercollege.jp/column/4491/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語対応の流れから遠ざかってしまったのは残念ですが、全体的に単語さえ調べれば読めるくらいの平易な文章で構成されています",
+    "url": "https://programmercollege.jp/column/4491/",
+    "pass": 3
+   },
+   {
+    "quote": "9年間泥臭く続けたReplitが、AIエージェント一つで売上を50倍にした｜bespfjapan",
+    "url": "https://note.com/bespfjapan/n/n56d0618635c4?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Codecademyを日本語化する方法！翻訳ツール活用のコツと最新状況 | エ... — Feb 28, 2026 · Codecademyの日本語対応の現状 まずは、Codecademyにおける日本語サポートの最新状況を確認しておきましょう。 結論から述べますと、 Codecademyのプラットフォーム全体としての日本語化は完了していません。 かつては日本市場向けにローカライズされたコースも一部存在しましたが、現在は英語を ...",
+    "url": "https://aetheria.jp/15125/",
+    "pass": 3
+   },
+   {
+    "quote": "【Python/codecademy】初心者がcodecademyを本気で受講してpythonをマ... — Apr 1, 2022 · はじめに codecademyという有料オンライン学習プラットフォームにて、Pythonのコースを受講しました。当時プログラミングの「プ」の字も分からなかった私は、寝る間も惜しんでPCに齧り付いてコースを受講していました。 ちなみに、修了していません笑。ここら辺までやると...",
+    "url": "https://qiita.com/shuseiyokoi/items/3f9d1f4b4ccb7dbe1a6b",
+    "pass": 3
+   },
+   {
+    "quote": "Codecademy | フリーランスプログラマー向け 無料ツール大活用！ — Codecademyは、プログラマーに必要なスキルを身につけるのに役立つオンライン学習サービスです。無料で学ぶこともできますが、有料プランだと個人のニーズに合わせた学習プランを提供してもらうことができます。",
+    "url": "https://freelance-freetools.com/learning/codecademy/",
+    "pass": 3
+   },
+   {
+    "quote": "【体験レビュー】無料でプログラミングが学べるCodecademyが最高すぎ... — May 11, 2021 · プログラミング初学者にCodecademyはむずかしいかも？ ウェルカムチュートリアル3つ目でさっそく（変数＝Variable)がでてきています。 まったくのプログラミング初学者にはもしかしたらcodecademyはむずかしく感じてしまうかもしれません。",
+    "url": "https://jolie-s2k.com/2021-05-11-104516/",
+    "pass": 3
+   },
+   {
+    "quote": "Codecademy 評判/評価は？ 無料で学べるプログラミング コードアカデ... — Apr 20, 2017 · 日本国内で人気のあるプログラミング学習サイトのProgateも、サービス開始時にはこのCodecademyを参考にされたようです。 （出典： 東大生が作ったプログラミング学習「Progate」が10万ユーザーを獲得、次の成長を目指しアジアへ）",
+    "url": "https://programmercollege.jp/column/4491/",
+    "pass": 3
+   },
+   {
+    "quote": "Codecademy - Wikipedia — Codecademy は HTML や CSS など マークアップ言語 及び Python 、 PHP 、 JavaScript 、 Ruby などの プログラミング言語 関連のコーディング講座を無料で提供している オンライン プラットフォーム である [1][2]。 2012年6月時点で5万人以上の利用者が1億件以上の演習を終えており [3][4] 、 ニューヨーク ...",
+    "url": "https://ja.wikipedia.org/wiki/Codecademy",
+    "pass": 3
+   },
+   {
+    "quote": "Codecademy 評判/評価は？ 無料で学べるプログラミング コードアカデ...Learn to Code - for Free | CodecademyCodecademy | フリーランスプログラマー向け 無料ツール大活用！Codecademy - Wikipedia【Python/codecademy】初心者がcodecademyを本気で受講してpythonをマ...【体験レビュー】無料でプログラミングが学べるCodecademyが最高すぎ...Codecademy: Codecademyは、実践的な演習や実際のプロジ… | ToolCente... — Apr 20, 2017 · Codecademy 評判/評価は？ 無料で学べるプログラミング コードアカデミーの使い方から感想まで Codecademyは2011年にサービスを開始した、プログラミング学習サイトの草分け的な存在",
+    "url": "https://programmercollege.jp/column/4491/",
+    "pass": 3
+   },
+   {
+    "quote": "Learn to Code - for Free | Codecademy — Learn the technical skills to get the job you want. Join over 50 million people choosing Codecademy to start a new career (or advance in their current one).",
+    "url": "https://www.codecademy.com/",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies Featuring Codecademy as the Customer — Explore case studies featuring Codecademy as the customer — learn how vendors and partners helped Codecademy solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/codecademy",
+    "pass": 3
+   },
+   {
+    "quote": "Pentagram Case Study: Codecademy – Codeacademy - Customer ... — Codecademy (E-Learning) partnered with Pentagram (Design) to solve key challenges. \"Codeacademy - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/pentagram/case-study/codeacademy-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Freemium Case Study: How Codecademy Acquired 50M+ Users — Feb 17, 2022 · The transformation of Codecademy from free to freemium is a model case study for businesses seeking to adopt a similar model. But first, let's explore freemium and the elements to consider before implementing the strategy.",
+    "url": "https://productled.com/blog/freemium-case-study-codeacademy",
+    "pass": 3
+   },
+   {
+    "quote": "Codecademy for Business | Codecademy — Explore case studies Just like our learners, it's important for businesses to hear from peers. See where other organizations have seen success using Codecademy Teams.",
+    "url": "https://www.codecademy.com/business",
+    "pass": 3
+   },
+   {
+    "quote": "Codecademy Growth Strategy Case Study — Codecademy team feared that the level of personalization and access to mentors included with the offering were, like bootcamps, not scalable, and would present operational challenges and complexity.",
+    "url": "https://www.scribd.com/document/914700446/Codeacademy",
+    "pass": 3
+   },
+   {
+    "quote": "Codecademy - 2026 Company Profile, Team, Funding ... - TracxnCodecademy – Industry Ranking & Company Valuation – 2026Codecademy – Valuation, Revenue & Market Scope – 2026Codecademy - 2026 Company Profile, Funding & Investors | The ...Codecademy 2026 Company Profile: Valuation, Investors ...Codecademy Revenue 2020: $29.3M, $47.5M RaisedCodecademy - Overview, News & Similar companies | ZoomInfo.com ",
+    "url": "https://tracxn.com/d/companies/codecademy/__0zOdV9ODH1QNx-PIIpRWVuhklq70X-PGd0Y0U9U3Wu0",
+    "pass": 3
+   },
+   {
+    "quote": "Codecademy – Industry Ranking & Company Valuation – 2026 — Codecademy Revenue & Valuation Codecademy's operations are expected to yield yearly revenues near $97.8M. At Codecademy, each employee is estimated to contribute about $184.2K in annual revenue. Codecademy has secured approximately $87.5M through various funding rounds.",
+    "url": "https://compworth.com/company/codecademy-io",
+    "pass": 3
+   },
+   {
+    "quote": "Codecademy – Valuation, Revenue & Market Scope – 2026 — Codecademy is an industry name backed by estimated revenue of $99.2M, team of around 500+ employees, from New York City, with plans for future expansion.",
+    "url": "https://compworth.com/company/codecademy",
+    "pass": 3
+   },
+   {
+    "quote": "Codecademy - 2026 Company Profile, Funding & Investors | The ... — Oct 17, 2026 · Codecademy is an Education company based in New York (United States) founded in 2011, and was acquired by Skillsoft in December 2021. Mobile and SaaS-based platform to learn coding. Codecademy has raised $82.53 million across 4 funding rounds from investors including Kleiner Perkins, Skillsoft and Social Capital. The",
+    "url": "https://www.thecompanycheck.com/company/b/codecademy/pw39xh9rtfd6g4cvw",
+    "pass": 3
+   },
+   {
+    "quote": "Codecademy 2026 Company Profile: Valuation, Investors ...Codecademy Revenue 2020: $29.3M, $47.5M RaisedCodecademy - Overview, News & Similar companies | ZoomInfo.com — Codecademy FAQs When was Codecademy founded? Codecademy was founded in 2011. Where is Codecademy headquartered? Codecademy is headquartered in New York, NY. What is the size of Codecademy? Codecademy has 507 total employees. What in",
+    "url": "https://pitchbook.com/profiles/company/53306-83",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Replit, which spent 9 years grinding away, saw its revenue ... Sep 18, 2026 · After working at Yahoo for a while, he became a founding member of the programming education service Codecademy, and later led the JavaScript infrastructure team at Facebook.",
+    "url": "https://note.com/bespfjapan/n/n56d0618635c4?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "9年間泥臭く続けたReplitが、AIエージェント一つで売上を50倍にした｜bespfjapan",
+    "url": "https://note.com/bespfjapan/n/n56d0618635c4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "9年間泥臭く続けたReplitが、AIエージェント一つで売上を50倍にした",
+    "url": "https://note.com/bespfjapan/n/n56d0618635c4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "📌 毎朝更新の「AI起業事例」シリーズです。",
+    "url": "https://note.com/bespfjapan/n/n56d0618635c4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "誰もが驚いた急成長の前に、9年間の地道な積み重ねがありました。",
+    "url": "https://note.com/bespfjapan/n/n56d0618635c4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月、コーディングサービスReplitの年間経常収益(ARR、その時点の契約を1年分に換算した金額)は1億5,000万ドルに達しました。1年足らず前はわずか280万ドルでした。創業者のアムジャド・マサドさんは、この結果に至った経緯をこう振り返っています。「専門のプログラマー向けではなく、コードを書けない人向けに舵を切るという物議を醸す決断を経て、9年間の地道な積み重ねがあった」。",
+    "url": "https://note.com/bespfjapan/n/n56d0618635c4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "マサドさんはヨルダンの首都アンマンで育ちました。1993年に父親が家にIBM PCを持ち帰り、翌年には6歳のマサドさんが独学でコードを覚え、弟の算数の勉強を助ける簡単なプログラムを作りました。10代の頃には近所のインターネットカフェの管理ソフトを作ってお金を稼いでいました。ヨルダンのプリンセス・スマヤ科学技術大学でコンピューターサイエンスを学んだ後、2011年にアメリカへ渡りました。財布には約100ドルしかありませんでした。しばらくYahooで働いた後、プログラミング教育サービスCodecademyの創業メンバーとなり、その後Facebookでは JavaScriptのインフラチームを率いました。",
+    "url": "https://note.com/bespfjapan/n/n56d0618635c4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "2015年頃、マサドさんは妻のハヤ・オデさんと弟のファリス・マサドさんとともに、ブラウザ上でそのままコードを書いて実行できるサービスをひそかに作り始めました。2016年にFacebookを辞め、このプロジェクトを正式にReplitという会社にしました。最初から投資家が並んでいたわけではありません。スタートアップ育成機関Y Combinatorには何度も応募しましたが、そのたびに落とされました。転機になったのは、マサドさんが自分たちの開発上の悩みをブログに書き続けていたことでした。その文章がコミュニティサイトHacker Newsで注目を集め、Y Combinator創業者のポール・グレアム氏本人の目に留まり、2018年冬期の合格につながりました。",
+    "url": "https://note.com/bespfjapan/n/n56d0618635c4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "その後も長年、Replitはすでにコードを書ける人向けの、堅実だが地味なツールにとどまっていました。使える人の数はそれだけ限られていました。転機は2024年9月16日に訪れます。会社は「Replit Agent」というAI機能を発表しました。コードを一行も書けなくても、数文で作りたいものを説明するだけでAIがコードを書き、設定を済ませ、数分で実際に動くアプリを完成させる機能です。顧客はプログラマーだけでなく、アイデアはあってもコードを知らないすべての人に広がりました。",
+    "url": "https://note.com/bespfjapan/n/n56d0618635c4?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Codecademy (@Codecademy) / X Learn the latest tech skills to build the career you’ve always wanted with Codecademy, by Skillsoft.",
+    "url": "https://x.com/Codecademy",
+    "pass": 3
+   },
+   {
+    "quote": "Nexven on X: \"30 free websites that can replace paid courses ... 18 hours ago · 30 free websites that can replace paid courses 🎓 Learn coding, design, marketing, AI and more without spending a dollar. Save this before you lose it 🔖 💻 Coding & Web Development 1. freeCodeCamp: freecodecamp.org 2. Codecademy: codecademy.com 3. JavaScript.info: javascript.info 4. W3Schools: w3schools.com 5. The Odin P",
+    "url": "https://x.com/bytecarter_x/status/2120101968442184171",
+    "pass": 3
+   },
+   {
+    "quote": "Codecademy EKSU (@CodecademyEksu) / X Codecademy EKSU is a community program by Codecademy to learn about awesome technologies. #JavaScript and #Kotlin. Lead @favour_adeshina",
+    "url": "https://x.com/codecademyeksu",
+    "pass": 3
+   },
+   {
+    "quote": "Julia Chowdhury on X: \"@bytecarter_x impressive tools\" 18 hours ago · 30 free websites that can replace paid courses 🎓 Learn coding, design, marketing, AI and more without spending a dollar. Save this before you lose it 🔖 💻 Coding & Web Development 1. freeCodeCamp: freecodecamp.org 2. Codecademy: codecademy.com 3. Show more 8 44 50 634 Julia Chowdhury @juliacoder0 impressive tools 1:15 PM · Nov 10",
+    "url": "https://x.com/juliacoder0/status/2120143211717112115",
+    "pass": 3
+   },
+   {
+    "quote": "Codecademy (@Codecademy) / Posts and Replies / X - x.com Aug 14, 2011 · Codecademy (@Codecademy) - Posts and Replies - Learn the latest tech skills to build the career you’ve always wanted with Codecademy, by Skillsoft. | X (formerly Twitter)",
+    "url": "https://x.com/Codecademy/with_replies",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Codecademy - LinkedIn Codecademy | 284,350 followers on LinkedIn. Learn the latest tech skills to build the career you’ve always wanted with Codecademy by Skillsoft. | First, we invented the best system for learning ...",
+    "url": "https://www.linkedin.com/school/codecademy/",
+    "pass": 3
+   },
+   {
+    "quote": "Codecademy - LinkedIn Codecademy | 975 followers on LinkedIn. Codecademy, from Skillsoft, helps millions of learners create inspiring careers in technology. | First, we invented the best system for learning to code and ...",
+    "url": "https://www.linkedin.com/company/codecademyschool",
+    "pass": 3
+   },
+   {
+    "quote": "Akshay D. - Senior Software Engineer @ Codecademy | LinkedInZach Sims - Columbia University in the City of New York - New ...Codecademy: Alumni and Graduates | LinkedInCodecademy Teams - LinkedInCodecademy's Circle Case Study - One Platform for 100,000 ... Senior Software Engineer @ Codecademy · As a Senior Software Engineer at Codecademy, I contribute to building scalable backend systems and inno",
+    "url": "https://in.linkedin.com/in/akshayluci",
+    "pass": 3
+   },
+   {
+    "quote": "Zach Sims - Columbia University in the City of New York - New ...Codecademy: Alumni and Graduates | LinkedInCodecademy Teams - LinkedInCodecademy's Circle Case Study - One Platform for 100,000 ... Experience: Skillsoft · Education: Columbia University in the City of New York · Location: New York · 500+ connections on LinkedIn. View Zach Sims’ profile on LinkedIn, a professional ... Codecademy | 28",
+    "url": "https://www.linkedin.com/in/zacharysims",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Codecademy - FacebookCodeacademy - FacebookFans of Codecademy - FacebookA career change that fits your timeline and budget? Make it ...Learn at your own pace and see where your new skills take you.Programming platform recommendation for anyone who wants to ...Codecademy - Learning to code can seem overwhelming at ... Nov 2, 2026 · Codecademy. 738,450 followers · 368 talking about this. Learn the l",
+    "url": "https://www.facebook.com/codecademy/",
+    "pass": 3
+   },
+   {
+    "quote": "Codeacademy - FacebookFans of Codecademy - FacebookA career change that fits your timeline and budget? Make it ...Learn at your own pace and see where your new skills take you.Programming platform recommendation for anyone who wants to ...Codecademy - Learning to code can seem overwhelming at ... Oct 23, 2012 · Codeacademy. 29,675 followers. Codecademy is the easiest way to learn how to code. Welc",
+    "url": "https://www.facebook.com/codeacademy/",
+    "pass": 3
+   },
+   {
+    "quote": "Fans of Codecademy - Facebook Welcome to Codecademy's community-centric Facebook Group. As a member of this space, you agree to these Community Guidelines here:...",
+    "url": "https://www.facebook.com/groups/codecademy.community/",
+    "pass": 3
+   },
+   {
+    "quote": "Programming platform recommendation for anyone who wants to ... Programming platform recommendation for anyone who wants to learn the latest tech skills in a changing market 👩🏽💻🧠💻 📌 @codecademy Hands-on courses in areas like AI, machine learning, data science, web development, and Python Many are designed to fit into busy schedules so not 100-hours long You receive a certificate upon completion ma",
+    "url": "https://www.facebook.com/codecademy/videos/programming-platform-recommendation-for-anyone-who-wants-to-learn-the-latest-tec/1659847505665223/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.codecademy.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.codecademy.com/about/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.codecademy.com/pages/partnerships",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.codecademy.com/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.codecademy.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.codecademy.com/resources/blog/category/learner-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.codecademy.com/business/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.codecademy.com/resources/blog/category/teams/teams-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.codecademy.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.codecademy.com/pricing?utm_source=ccblog&utm_medium=ccblog&utm_content=blogsignupbar",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.codecademy.com/resources/blog/the-motley-fool-teams-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.codecademy.com/resources/blog/rizepoint-upskilling-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.codecademy.com/bootcamps",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.codecademy.com/coaching",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.codecademy.com/resources/blog/category/learner-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.codecademy.com/bootcamps/build-ai-solutions-with-customers-satyajit-pattnaik/overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.codecademy.com/workshops/building-practical-gen-ai-solutions-for-business-build-an-ai-business-copilot-allistair-cota/overview",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://static-assets.codecademy.com/assets/landing-pages/partnerships/Desktop_LE_Puzzle_Piece_Illos_2.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://static-assets.codecademy.com/assets/landing-pages/partnerships/ico-Global-Accelerator--Streamline-Ultimate.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://static-assets.codecademy.com/assets/landing-pages/partnerships/ico-Cursor-Highlight-Click-2--Streamline-Ultimate.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://static-assets.codecademy.com/assets/landing-pages/partnerships/ico-Online-Certificate-Code--Streamline-Ultimate.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://aetheria.jp/15125/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qiita.com/shuseiyokoi/items/3f9d1f4b4ccb7dbe1a6b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freelance-freetools.com/learning/codecademy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jolie-s2k.com/2021-05-11-104516/",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chigai2.fromation.co.jp/archives/30533",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/Codecademy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://programmercollege.jp/column/4491/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freelance-freetools.com/learning/codecademy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/codecademy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/pentagram/case-study/codeacademy-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://productled.com/blog/freemium-case-study-codeacademy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.canva.com/partners/reseller/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upcloud.com/global/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/codecademy/__0zOdV9ODH1QNx-PIIpRWVuhklq70X-PGd0Y0U9U3Wu0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://compworth.com/company/codecademy-io",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/codecademy",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/codecademy/pw39xh9rtfd6g4cvw",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/bespfjapan/n/n56d0618635c4?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Codecademy",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/bytecarter_x/status/2120101968442184171",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/codecademyeksu",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/juliacoder0/status/2120143211717112115",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/school/codecademy/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/codecademyschool",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/akshayluci",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/zacharysims",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/codecademy/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/codeacademy/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/codecademy.community/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/codecademy/videos/programming-platform-recommendation-for-anyone-who-wants-to-learn-the-latest-tec/1659847505665223/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Codecademy",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Codecademy/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Codecademy 日本 導入",
+   "results": [
+    "https://aetheria.jp/15125/",
+    "https://qiita.com/shuseiyokoi/items/3f9d1f4b4ccb7dbe1a6b",
+    "https://freelance-freetools.com/learning/codecademy/",
+    "https://jolie-s2k.com/2021-05-11-104516/",
+    "https://programmercollege.jp/column/4491/",
+    "https://www.baka-ke.com/2012/07/25/using-codeacademy-japanese/",
+    "https://qiita.com/phen/items/94bd9e5d5dfd665ad044"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Codecademy 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://chigai2.fromation.co.jp/archives/30533",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.houjin-bangou.nta.go.jp/",
+    "https://www.houjin.info/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Codecademy Japan",
+   "results": [
+    "https://ja.wikipedia.org/wiki/Codecademy",
+    "https://programmercollege.jp/column/4491/",
+    "https://www.codecademy.com/",
+    "https://freelance-freetools.com/learning/codecademy/",
+    "https://qiita.com/shuseiyokoi/items/3f9d1f4b4ccb7dbe1a6b",
+    "https://jolie-s2k.com/2021-05-11-104516/",
+    "https://www.toolcenter.ai/ja/tools/codecademy"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Codecademy manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/customer/codecademy",
+    "https://www.casestudies.com/company/pentagram/case-study/codeacademy-customer-case-study",
+    "https://productled.com/blog/freemium-case-study-codeacademy",
+    "https://www.codecademy.com/business",
+    "https://www.scribd.com/document/914700446/Codeacademy",
+    "https://www.coursehero.com/tutors-problems/Operations-Management/48448739-Case-Study-Codecademy-Monetizing-a-Movement-Can-I-have-the/",
+    "https://www.productcasestudies.com/case-studies/codecademy-50m-users-with-freemium"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Codecademy white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.canva.com/partners/reseller/",
+    "https://www.vizrt.com/partner-program/",
+    "https://upcloud.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partner.vw.com/partner",
+    "https://connect.redhat.com/en/partner-program"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Codecademy founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/codecademy/__0zOdV9ODH1QNx-PIIpRWVuhklq70X-PGd0Y0U9U3Wu0",
+    "https://compworth.com/company/codecademy-io",
+    "https://compworth.com/company/codecademy",
+    "https://www.thecompanycheck.com/company/b/codecademy/pw39xh9rtfd6g4cvw",
+    "https://pitchbook.com/profiles/company/53306-83",
+    "https://getlatka.com/companies/codecademy",
+    "https://www.zoominfo.com/c/codecademy-llc/345685205"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Codecademy",
+   "results": [
+    "https://note.com/seigo77",
+    "https://note.com/bespfjapan/n/n56d0618635c4?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/arrows_column/n/nc266340c0609",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/2ch3ch/n/n470eb67055c0"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Codecademy",
+   "results": [
+    "https://x.com/Codecademy",
+    "https://x.com/bytecarter_x/status/2120101968442184171",
+    "https://x.com/codecademyeksu",
+    "https://x.com/juliacoder0/status/2120143211717112115",
+    "https://x.com/skillsoft",
+    "https://x.com/ChrisSlacker/status/2119351472836198558",
+    "https://x.com/NoahFentys/status/2118178286157140113"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Codecademy",
+   "results": [
+    "https://www.linkedin.com/school/codecademy/",
+    "https://www.linkedin.com/company/codecademyschool",
+    "https://in.linkedin.com/in/akshayluci",
+    "https://www.linkedin.com/in/zacharysims",
+    "https://www.linkedin.com/school/codecademy/people",
+    "https://www.linkedin.com/products/codecademy-teams/",
+    "https://www.linkedin.com/pulse/codecademys-circle-case-study-one-platform-100000-learners-kumar-3yrdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Codecademy",
+   "results": [
+    "https://www.facebook.com/codecademy/",
+    "https://www.facebook.com/codeacademy/",
+    "https://www.facebook.com/groups/codecademy.community/",
+    "https://www.facebook.com/codecademy/videos/programming-platform-recommendation-for-anyone-who-wants-to-learn-the-latest-tec/1659847505665223/",
+    "https://www.facebook.com/codecademy/posts/learning-to-code-can-seem-overwhelming-at-first-but-with-our-guided-courses-and-/6581429835203666/",
+    "https://www.facebook.com/codecademy/videos/try-codecademy-for-free/1614140090124312/",
+    "https://www.facebook.com/codecademy/videos/join-codecademy/1730419878168078/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Codecademy note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Codecademy X 投稿",
+   "results": [
+    "https://x.com/Codecademy",
+    "https://x.com/Codecademy/with_replies",
+    "https://www.instagram.com/codecademy/",
+    "https://www.v2ex.com/t/1255227",
+    "https://x.com/hayakawagomi/status/2120115300490469405",
+    "https://nakamayu2.com/twitterx/",
+    "https://note.com/anyverselab/n/n04e092a52465"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式17頁／PDF・画像4件／外部37頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式17頁／PDF・画像4件／外部37頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式17頁／PDF・画像4件／外部37頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式17頁／PDF・画像4件／外部37頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式17頁／PDF・画像4件／外部37頁・検索12回）"
+ }
+}

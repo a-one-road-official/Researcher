@@ -1,0 +1,856 @@
+{
+ "name": "Crowdai",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-10T18:08:14.539444+00:00",
+ "official_url": "https://crowdai.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "https://www.nealle.com/products/crowdai/",
+    "url": "https://prtimes.jp/main/html/rd/p/000000041.000045188.html",
+    "pass": 3
+   },
+   {
+    "quote": "CrowdAI equips enterprises of all sizes with the power of deep learning and the approachability and speed of no-code software. Our easy-to-master platform allows users of all technical abilities, from business operators to data scientists, to power real-time decisions from their visual world.",
+    "url": "https://www.ycombinator.com/companies/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "Recognizing data as the new code, CrowdAI is the only vision AI platform to truly provide organizations with the infrastructure for the entire AI-lifecycle, empowering you to label data systematically, train models efficiently, scale models iteratively, and power decisions continuously.",
+    "url": "https://www.ycombinator.com/companies/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "GenAI at NVIDIA 2023-present",
+    "url": "https://www.ycombinator.com/companies/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "Tracxn — CrowdAI Company Profile",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "Hacker News — CrowdAI (YC S16) Is Hiring Front End Engineer",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "PR Newswire — CrowdAI Series A Announcement",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "Hacker News — CrowdAI (YC S16) Is Hiring a Machine Learning Software Engineer (2019)",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "CrowdAI was founded in June 2016 by three operators who had each, in different ways, run directly into the wall that training data creates for machine learning systems.",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "Nicolas Borensztein, who became CTO, came from a different angle: his prior startup, Ember, focused on efficiency for digital advertising and hit the training data problem directly. \"We were all really motivated to get involved in this new wave of AI and think about how we can solve this computer vision problem,\" Borensztein said.",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "The founders pivoted quickly to the problem they knew best — the bottleneck of annotating visual data for machine learning — and reoriented around satellite, drone, and autonomous vehicle imagery.",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "YC's influence on the company's operating philosophy was lasting. Raj later credited the program with instilling a revenue-first discipline that shaped CrowdAI's entire trajectory: \"YC beats it over your head: Make revenue, make revenue, make revenue. It helped structure our thinking in a way that we could build a financially sustainable company.\"",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "CrowdAI emerged from Demo Day in August 2016 with early customers already in hand, named by TechCrunch as one of the top companies in the S16 batch. The founding team's combination of enterprise credibility, direct experience with the problem, and willingness to pivot on advisor feedback gave the company an unusually strong start for a seed-stage AI startup.",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "— YC publishes founder interview; TechCrunch names CrowdAI a top YC S16 company",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "CrowdAI (YC S16) Is Hiring Front End Engineer",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "— CrowdAI becomes first commercial computer vision vendor to support DoD JAIC at its inception; receives NVIDIA Deep Learning Inception Enterprise finalist award",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "— After Hurricane Michael, CrowdAI helps telecoms provider WOW! analyze satellite images of ground damage across Panama City, Florida",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "Floods have an inherent degree of ambiguity. @CrowdAIinc tries to make sense of the unpredictable impact of catastrophic events like Hurricane Dorian.",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "April 8, 2021",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "— CrowdAI raises $6.25M Series A led by Threshold Ventures; announces pivot to no-code vision AI platform; reports 200% customer base growth in prior year",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "— Named to Forbes AI 50 list of America's Most Promising AI Companies",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "— Devaki Raj awarded VentureBeat's Women in AI Entrepreneur Award",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "The original product combined machine learning with a managed human workforce to annotate imagery faster and cheaper than either approach alone. A customer would upload a batch of images — say, aerial photographs of a city — and CrowdAI's algorithms would automatically detect and label objects like roads, buildings, and vehicles in roughly 70% of the images without any human involvement.",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "CrowdAI (YC S16) Is Hiring a Machine Learning Software Engineer",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "The technical architecture relied on deep learning models — built on frameworks including TensorFlow, Caffe, and Torch — trained on domain-specific imagery datasets. The key differentiator was not the annotation tooling itself but the pre-trained models for specific imagery types, which allowed the auto-annotation rate to be meaningfully higher than a generic labeling service.",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "The platform covered four stages: data labeling, model training, model scaling, and decision support.",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "Screenshot of CrowdAI's no-code platform, announced in April 2021 alongside a $10M+ Series A led by Threshold Ventures. The platform allowed anyone — without coding or data science skills — to label data, train models, and deploy vision AI.",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "The pivot from services to platform was a meaningful architectural and go-to-market shift. It moved CrowdAI from a workflow that required ongoing human labor to one where the software itself was the product — a more scalable model, but one that required competing on product quality and distribution against better-capitalized rivals.",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "The first was the commercial technology sector: autonomous vehicle companies (Cruise Automation, Udacity), satellite imagery operators (Planet Labs, Digital Globe), and later manufacturing, property insurance, and financial services firms.",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "CrowdAi（クラウドエーアイ）、NTTドコモとスーパースポーツゼビオの小売DX実証実験で採用 | 株式会社ニーリーのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000041.000045188.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ニーリー（本社：東京都中央区、代表取締役：佐藤養太、以下、ニーリー）は、当社の属性認識・POSデータ／広告配信解析が可能なプラットフォーム「CrowdAi（クラウドエーアイ）」を、株式会社NTTドコモ（東京都千代田区、代表：井伊 基之、以下、ドコモ）と、ゼビオ株式会社（福島県郡山市、代表：諸橋 友良、以下、ゼビオ）が実施する小売店舗マーケティング施策改善に向けた実証実験に提供を行いました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000041.000045188.html",
+    "pass": 3
+   },
+   {
+    "quote": "所在地：〒103-0005 東京都中央区日本橋久松町4-7 GLEAMS NIHONBASHI 5F",
+    "url": "https://prtimes.jp/main/html/rd/p/000000041.000045188.html",
+    "pass": 3
+   },
+   {
+    "quote": "※ 「d払い」は、株式会社NTTドコモの登録商標です",
+    "url": "https://prtimes.jp/main/html/rd/p/000000041.000045188.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都中央区日本橋堀留町1丁目9-8",
+    "url": "https://prtimes.jp/main/html/rd/p/000000041.000045188.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ニーリー（本社：東京都中央区、代表取締役：佐藤養太、以下、ニーリー）は、当社の属性認識・POSデータ／広告配信解析が可能なプラットフォーム「CrowdAi（クラウドエーアイ）」を、株式会社NTTドコモ（東京都千代田区、代表：井伊 基之、以下、ドコモ）と、ゼビオ株式会社（福島県郡山市、代表：諸橋 友良、以下、ゼビオ）が実施する小売店舗マーケティング施策改善に向けた実証実験に提供を行いました",
+    "url": "https://www.nealle.com/news_article/?article=24",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "CrowdAi （クラウドエーアイ）、NTTドコモとスーパー ... — CrowdAi （クラウドエーアイ）、NTTドコモとスーパー ... PR TIMES https://prtimes.jp > 商品サービス",
+    "url": "https://prtimes.jp/main/html/rd/p/000000041.000045188.html",
+    "pass": 3
+   },
+   {
+    "quote": "CrowdAi （クラウドエーアイ） - お知らせ - Nealle Inc. — CrowdAi （クラウドエーアイ） - お知らせ - Nealle Inc. Nealle https://www.nealle.com > news_article",
+    "url": "https://www.nealle.com/news_article/?article=24",
+    "pass": 3
+   },
+   {
+    "quote": "CrowdAI - LinkedIn — CrowdAI - LinkedIn LinkedIn https://www.linkedin.com > crowdai",
+    "url": "https://www.linkedin.com/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "CrowdAI — CrowdAI CrowdAI https://www.crowdai.com",
+    "url": "https://www.crowdai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "CrowdAI is the world's leading no-code platform for vision AI — CrowdAI is the world's leading no-code platform for vision AI Y Combinator https://www.ycombinator.com > crow...",
+    "url": "https://www.ycombinator.com/companies/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "CrowdAI (@crowdai1) - Facebook — CrowdAI (@crowdai1) - Facebook Facebook https://www.facebook.com > ... > Software Company",
+    "url": "https://www.facebook.com/crowdai1/",
+    "pass": 3
+   },
+   {
+    "quote": "Saab completes acquisition of CrowdAI in the U.S. — Saab completes acquisition of CrowdAI in the U.S. Saab https://www.saab.com > press-releases",
+    "url": "https://www.saab.com/newsroom/press-releases/2023/saab-completes-acquisition-of-crowdai-in-the-u.s",
+    "pass": 3
+   },
+   {
+    "quote": "CrowdAI - 2026 Company Profile, Team, Funding & Competitors — CrowdAI - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/crowdai/__OpcxoBoMls2B0GMkGdkgSNYarnA615dkKN9sp69wEqU",
+    "pass": 3
+   },
+   {
+    "quote": "CrowdAI (S16): Acquisition History and Rebuild Plan — CrowdAI (S16): Acquisition History and Rebuild Plan Startups.RIP https://startups.rip > Browse > YC S16",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "CrowdAI equips enterprises of all sizes with the power of deep learning and the approachability and speed of no-code software. Our easy-to-master platform allows users of all technical abilities, from business operators to data scientists, to power real-time decisions from their visual world.",
+    "url": "https://www.ycombinator.com/companies/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "CrowdAI was founded in June 2016 by three operators who had each, in different ways, run directly into the wall that training data creates for machine learning systems.",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "— CrowdAI raises $2M seed round from Susa Ventures, Box Group, SV Angel, Metamorphic, and AME Cloud (Jerry Yang); early customers include Cruise Automation, Udacity, and Planet Labs",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "A manufacturing customer, for example, could use it to train a model that detects defects on an assembly line from camera footage, then deploy that model to flag defects in real time. A government customer could use it to analyze satellite imagery for infrastructure damage after a natural disaster.",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "The first was the commercial technology sector: autonomous vehicle companies (Cruise Automation, Udacity), satellite imagery operators (Planet Labs, Digital Globe), and later manufacturing, property insurance, and financial services firms.",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "The company attempted to address this by broadening into manufacturing, property insurance, and financial services with the no-code platform, but the commercial pivot came late and was underfunded relative to the competition.",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": ": $500–$2,000/month per workspace (seats + annotation volume), self-serve, targeting insurers and infrastructure operators",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Saab completes acquisition of CrowdAI in the U.S.",
+    "url": "https://www.ycombinator.com/companies/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "CrowdAI (S16): Acquisition History and Rebuild Plan - Startups.RIP",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "Saab — Saab Completes Acquisition of CrowdAI",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "LinkedIn — Devaki Raj Post on Saab Acquisition",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "Keith Johnson and Melanie Corcoran, appointed to CrowdAI's public sector advisory board in early 2022 — a signal of how thoroughly the company had reoriented around defense, building the Pentagon relationships that would ultimately make it an attractive acquisition target for Saab.",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "Their first concept was speech-to-text transcription software for doctors. YC partner and COO Qasar Younis pushed back: hospital sales cycles would be too slow to generate the early revenue YC demands of its companies.",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "YC's influence on the company's operating philosophy was lasting. Raj later credited the program with instilling a revenue-first discipline that shaped CrowdAI's entire trajectory: \"YC beats it over your head: Make revenue, make revenue, make revenue. It helped structure our thinking in a way that we could build a financially sustainable company.\"",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "— CrowdAI reaches 47 employees",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "— Saab, Inc. completes acquisition of CrowdAI for undisclosed amount",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "— Saab publicly announces acquisition; Devaki Raj joins Saab as Chief Digital and AI Officer in newly established San Diego strategy office",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "CrowdAI's defensible position was not in the commercial market, where it was outgunned on capital and distribution, but in the defense and intelligence community, where its JAIC credentials, security clearances, and established relationships created genuine barriers to entry. This concentration ultimately defined both the company's survival strategy and its exit.",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "CrowdAI operated as an enterprise software and services company throughout its life, with the revenue model evolving alongside the product.",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "In its first phase (2016–2020), the company charged for annotation services on a per-image or per-project basis, with pricing reflecting the complexity of the imagery type and the degree of human review required. Government contracts — structured as task orders under the JAIC's Blanket Purchase Agreement — provided a more predictable revenue stream than commercial project work.",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "After the 2021 pivot to a no-code platform, the model shifted toward software licensing or subscription fees for platform access, supplemented by professional services for implementation and customization. The government segment likely continued to generate revenue through multi-year contracts rather than self-serve subscriptions.",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "The company's YC-instilled emphasis on revenue generation appears to have kept it financially sustainable on modest capital — $18.3 million raised over seven years is unusually lean for an AI company that reached 47 employees and served the DoD.",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue figures were never publicly disclosed, making it impossible to assess the company's true scale or profitability at the time of acquisition.",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "The company grew from 8 employees in December 2017 to 47 by December 2021 — a 5x headcount increase over four years that suggests sustained revenue growth, though the pace was modest relative to well-funded competitors.",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "Recognition from Forbes AI 50, Inc. 30 Under 30, Forbes 30 Under 30, and VentureBeat's Women in AI award confirmed market awareness, though these signals also suggest a company better known for its story than its revenue scale.",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "The defense concentration ultimately resolved itself through acquisition: Saab, Inc. acquired CrowdAI precisely because of its DoD relationships and JAIC credentials, not despite them. Raj's post-acquisition statement — \"dual-use technological advancement that aligns with the DoD's priorities\" — confirms that defense was the primary value driver at exit.",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "During those four years, Scale AI raised hundreds of millions of dollars and established itself as the dominant player in AI training data. CrowdAI survived on government contract revenue and two undocumented intermediate rounds — but it emerged from that period as a niche player in a market that had consolidated around a well-funded leader.",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "There is no public evidence that the no-code platform achieved meaningful self-serve adoption. The company's go-to-market remained enterprise and government sales-driven through the acquisition, suggesting the platform never developed the bottom-up distribution that would have been necessary for venture-scale growth.",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "The Acquisition as Resolution",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "The Saab acquisition on August 30, 2023 resolved the tension between CrowdAI's defense concentration and its platform ambitions in the most logical way available: a defense contractor acquired the company for its government relationships and vision AI capabilities, not for its commercial platform potential.",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "The undisclosed acquisition price makes it impossible to assess investor returns. Given $18.3 million in total funding and a seven-year operating history, the outcome was likely a positive but modest return for early investors — not the venture-scale exit that Forbes AI 50 recognition might have implied.",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue-first discipline enables survival but can constrain scale.",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "Raj credited YC's emphasis on revenue generation with making CrowdAI financially sustainable on modest capital.",
+    "url": "https://startups.rip/company/crowdai",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "C.O.G on X: \"Ai crowd AI voters register It's like you people ... C.O.G on X: \"Ai crowd AI voters register It's like you people ... X https://x.com > @logical_pyper",
+    "url": "https://x.com/logical_pyper/status/2117487586101129649",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "CrowdAI - LinkedIn CrowdAI - LinkedIn LinkedIn https://www.linkedin.com > crowdai",
+    "url": "https://www.linkedin.com/company/crowdai",
+    "pass": 3
+   },
+   {
+    "quote": "CrowdAI Platform - LinkedIn CrowdAI Platform - LinkedIn LinkedIn https://www.linkedin.com > products",
+    "url": "https://www.linkedin.com/products/crowdai-platform/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "CrowdAI (@crowdai1) - Facebook CrowdAI (@crowdai1) - Facebook Facebook https://www.facebook.com > ... > Software Company",
+    "url": "https://www.facebook.com/crowdai1/",
+    "pass": 3
+   },
+   {
+    "quote": "CrowdAI added a new photo. - Facebook CrowdAI added a new photo. - Facebook Facebook https://www.facebook.com > crowdai1 > photos",
+    "url": "https://www.facebook.com/crowdai1/photos/337624093350260/",
+    "pass": 3
+   },
+   {
+    "quote": "Say hi to Devaki Raj, CEO and Co-Founder of CrowdAI . We ... Say hi to Devaki Raj, CEO and Co-Founder of CrowdAI . We ... Facebook https://www.facebook.com > jointhereformation > posts",
+    "url": "https://www.facebook.com/jointhereformation/posts/say-hi-to-devaki-raj-ceo-and-co-founder-of-crowdai-we-love-introducing-you-guys-/2769172683114887/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://crowdai.com/",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.goo-net.com/magazine/cartopic/event-report/294321/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://bestcarweb.jp/news/entame/1669612",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000041.000045188.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nealle.com/news_article/?article=24",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.crowdstrike.com/ja-jp/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairiten-cloud.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://cloudnavi.co.jp/about/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/crowdai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.crowdai.com/",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/crowdai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/crowdai1/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.automate.org/ai/industry-insights/case-studies-ai-advanced-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://f7i.ai/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thirdeyedata.ai/case-studies/manufacturing-industry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://insights.rstartec.com/eight-ai-case-studies-demonstrate-the-potential-of-ai-in-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.totalum.app/blog/white-label-ai-app-builder-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Y-l_-CAmJ2c",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://stammer.ai/post/best-white-label-ai-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/SaaS/comments/1d3s9sd/recommendations_for_an_allinone_ai_saas_platform/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tracxn.com/d/companies/crowdai/__OpcxoBoMls2B0GMkGdkgSNYarnA615dkKN9sp69wEqU",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://startups.rip/company/crowdai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/thefounderai.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://epoch.ai/data/ai-companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/logical_pyper/status/2117487586101129649",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/crowdai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/crowdai-platform/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/crowdai1/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/crowdai1/photos/337624093350260/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/jointhereformation/posts/say-hi-to-devaki-raj-ceo-and-co-founder-of-crowdai-we-love-introducing-you-guys-/2769172683114887/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Crowdai 日本 導入",
+   "results": [
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://www.goo-net.com/magazine/cartopic/event-report/294321/",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://prtimes.jp/main/html/rd/p/000000041.000045188.html",
+    "https://port.creww.me/innovation/98371",
+    "https://www.nvv.genai.co.jp/2024/04/nealle/",
+    "https://www.nealle.com/who-we-are/company/",
+    "https://cloud.google.com/?hl=ja",
+    "https://toolsdar.io/ja/tools/crowdai",
+    "https://huntscreens.com/ja/products/crowdai"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Crowdai 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.nealle.com/news_article/?article=24",
+    "https://www.crowdstrike.com/ja-jp/partners/",
+    "https://dairiten-cloud.jp/",
+    "https://cloudnavi.co.jp/about/partners",
+    "https://www.toukei.co.jp/service/tops100/",
+    "https://tigereye.ai/partners/",
+    "https://www.bizhawkeye.ne.jp/agency/",
+    "https://www.engeniustech.com/jp/where-to-buy/",
+    "https://tehamo.net/agency/",
+    "https://b-seeds.com/column/sole-agency-agreement"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Crowdai Japan",
+   "results": [
+    "https://www.linkedin.com/company/crowdai",
+    "https://www.crowdai.com/",
+    "https://www.ycombinator.com/companies/crowdai",
+    "https://www.facebook.com/crowdai1/",
+    "https://www.saab.com/newsroom/press-releases/2023/saab-completes-acquisition-of-crowdai-in-the-u.s",
+    "https://startups.rip/company/crowdai",
+    "https://github.com/crowdai",
+    "https://www.crowdai.io/",
+    "https://www.trycatalog.com/work/crowdai",
+    "https://www.crowdai.io/about"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Crowdai manufacturing customer case study",
+   "results": [
+    "https://www.automate.org/ai/industry-insights/case-studies-ai-advanced-manufacturing",
+    "https://f7i.ai/case-studies",
+    "https://thirdeyedata.ai/case-studies/manufacturing-industry/",
+    "https://insights.rstartec.com/eight-ai-case-studies-demonstrate-the-potential-of-ai-in-manufacturing",
+    "https://kanerika.com/blogs/generative-ai-in-manufacturing/",
+    "https://www.hpe.com/us/en/customer-case-studies.html",
+    "https://goamplifi.com/knowledge-base/case-study-6-case-studies-of-data-management-success-in-manufacturing",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.factbird.com/resources/case-studies",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Crowdai white label OR reseller OR partner program",
+   "results": [
+    "https://www.totalum.app/blog/white-label-ai-app-builder-2026",
+    "https://www.youtube.com/watch?v=Y-l_-CAmJ2c",
+    "https://stammer.ai/post/best-white-label-ai-software",
+    "https://www.reddit.com/r/SaaS/comments/1d3s9sd/recommendations_for_an_allinone_ai_saas_platform/",
+    "https://sales-mind.ai/en/white-label/saas",
+    "https://www.soci.ai/partners-reseller/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://synthflow.ai/blog/white-label-reseller",
+    "https://getzendo.io/blog/best-white-label-software-to-resell/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Crowdai founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/crowdai/__OpcxoBoMls2B0GMkGdkgSNYarnA615dkKN9sp69wEqU",
+    "https://startups.rip/company/crowdai",
+    "https://getlatka.com/companies/thefounderai.com",
+    "https://epoch.ai/data/ai-companies",
+    "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-fintech-ecommerce-mercor-savvymoney/",
+    "https://growjo.com/",
+    "https://www.owler.com/company/runai",
+    "https://datacenter.news/story/ai-firms-set-new-highs-for-revenue-per-employee-efficiency",
+    "https://thelogic.co/news/analysis/ai-startups-millions-tiny-teams/",
+    "https://compworth.com/company/crowdai"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Crowdai",
+   "results": [
+    "https://note.com/archiroid/n/n33ef68872411?hl=en",
+    "https://note.com/ai_driven/n/n7be01bea2fab?hl=en",
+    "https://note.com/directsourcing/n/ndd06ac2a858b",
+    "https://note.com/routexstartups/n/n02f92bde712d",
+    "https://note.com/ai_remote_worker/n/na47314bf89f9",
+    "https://note.com/npaka/n/nefb274662f42",
+    "https://note.com/routexstartups/m/m2e3dd41ca4fa/archive/2026-10",
+    "https://note.com/shi3zblog/n/n5863f7a59f12",
+    "https://note.com/strictlyes/n/nc778dff0a580",
+    "https://note.com/asabamiyuki"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com Crowdai",
+   "results": [
+    "https://x.com/logical_pyper/status/2117487586101129649",
+    "https://x.com/iamdpassword/status/2120161062372741576",
+    "https://x.com/pitdesi/status/2022708359867355622",
+    "https://x.com/reidhoffman/article/2091911637460554146",
+    "https://x.com/MatthiasBethge",
+    "https://x.com/fattylincorn_01/status/2114306493600166185",
+    "https://x.com/LouisColumbus",
+    "https://x.com/Fatih_Akia/status/2069678898732769727",
+    "https://x.com/i/trending/2022376629381599596",
+    "https://x.com/crowdai"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Crowdai",
+   "results": [
+    "https://www.linkedin.com/company/crowdai",
+    "https://www.linkedin.com/in/devaki-raj-31205826",
+    "https://www.linkedin.com/products/crowdai-platform/",
+    "https://in.linkedin.com/in/jigarkdoshi",
+    "https://www.linkedin.com/in/corey-mcdermott-b6983668",
+    "https://www.linkedin.com/in/nicbor",
+    "https://www.linkedin.com/in/ben-stadnick-641264160",
+    "https://www.linkedin.com/in/pierre-bono-521216178",
+    "https://www.linkedin.com/in/adeelasohail",
+    "https://www.linkedin.com/jobs/crowdai-jobs"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:facebook.com Crowdai",
+   "results": [
+    "https://www.facebook.com/crowdai1/",
+    "https://www.facebook.com/crowdai1/photos/337624093350260/",
+    "https://www.facebook.com/jointhereformation/posts/say-hi-to-devaki-raj-ceo-and-co-founder-of-crowdai-we-love-introducing-you-guys-/2769172683114887/",
+    "https://www.facebook.com/WashingtonSecretPlaces/posts/yahoo-lake-campground-a-washington-secret-place-far-from-the-maddening-crowd-ai-/1049214450960645/",
+    "https://www.facebook.com/claudio.colosimo.5/posts/she-found-me-in-the-crowd-ai-doo-wop-ilmondodiclaudio-ai-doowop-america-vintage-/10244470263801341/",
+    "https://www.facebook.com/groups/725464725834833/posts/1761995105515118/",
+    "https://www.facebook.com/msgerbot.crowdai/",
+    "https://www.facebook.com/aj.rosado.50/posts/our-second-latinos-n-tech-was-a-hit-a-great-crowd-ai-demonstrations-and-deliciou/10239848081952717/",
+    "https://www.facebook.com/SantoshKumarCR7fans/videos/what-a-finish-a-powerful-strike-and-a-huge-reaction-from-the-crowdai-generated-f/1615845640141322/",
+    "https://www.facebook.com/p/Crowd-AI-61580649811553/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Crowdai note 社長",
+   "results": [
+    "https://note.com/ai_shacho",
+    "https://note.com/tag/AI%E7%A4%BE%E9%95%B7",
+    "https://note.com/cw_ceo_blog",
+    "https://x.com/sadaaki",
+    "https://froggy.smbcnikko.co.jp/66484/",
+    "https://note.com/safe_sage8850/n/n7e027f17590d",
+    "https://note.com/ndb_evangelist/n/n41246423abbb",
+    "https://note.com/startup_now0708/n/n272975af7dc4",
+    "https://note.com/rieko0510/n/n813b17f87590",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Crowdai X 投稿",
+   "results": [
+    "https://www.youtube.com/watch?v=wE-bI707baw",
+    "https://x.com/masahirochaen/status/2033100369509888128",
+    "https://www.crowdai.com/",
+    "https://tech-lab.sios.jp/archives/54667",
+    "https://zenn.dev/yamk/articles/xmcp-vs-computer-use-x-research",
+    "https://nexa-corp.jp/claude-code-tweet-auto-draft-x/",
+    "https://note.com/rlhwbs_office/n/n795e14f2fb73",
+    "https://www.theaiventure.com/ai-tweet-generation-claude-guide/",
+    "https://x.com/crowdai",
+    "https://x.com/crowd_ai/header_photo"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）"
+ }
+}
